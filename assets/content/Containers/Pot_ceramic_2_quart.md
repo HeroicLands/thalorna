@@ -4,7 +4,7 @@ name: {full: "Pot, ceramic, 2 quart"}
 type: containergear
 description: "Round earthenware cooking pot that sits in the embers (2 quarts)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 3, valueBase: 4, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 4}

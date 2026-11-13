@@ -4,7 +4,7 @@ name: {full: "Inkwell, glass"}
 type: containergear
 description: "Fine blown glass inkwell for wealthy scholar or scribe."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 1, valueBase: 24, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 0.25}

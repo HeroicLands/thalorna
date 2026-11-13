@@ -4,7 +4,7 @@ name: {full: "Jar, ointment, small"}
 type: containergear
 description: "Small ceramic ointment jar for salves and medicinal paste samples."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system:

@@ -4,7 +4,7 @@ name: {full: "Vial, glass, small"}
 type: containergear
 description: "Thumb-sized vial for single dose of poison, antidote, or rare oil."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system:

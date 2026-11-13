@@ -4,7 +4,7 @@ name: {full: "Bag, lg, canvas"}
 type: containergear
 description: "Plain woven canvas sack for storage of goods or supplies."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 1, valueBase: 1, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 20}

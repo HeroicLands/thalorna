@@ -4,7 +4,7 @@ name: {full: "Crucible, medium"}
 type: containergear
 description: "Moderate thin-walled ceramic crucible."
 tags: []
-data: {icon: cookingpot, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: cookingpot, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system:

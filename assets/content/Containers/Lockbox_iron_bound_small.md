@@ -4,7 +4,7 @@ name: {full: "Lockbox, iron-bound, small"}
 type: containergear
 description: "Small iron-bound strongbox with a key lock."
 tags: []
-data: {icon: chest, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: chest, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 15, valueBase: 150, qualityBase: 0, durabilityBase: 9, maxCapacityBase: 30}

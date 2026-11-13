@@ -4,7 +4,7 @@ name: {full: "Quiver, lg (shoulder)"}
 type: containergear
 description: "Leather-wrapped wooden tube worn across back; keeps arrows accessible for archery."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 4, valueBase: 12, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 2.5}

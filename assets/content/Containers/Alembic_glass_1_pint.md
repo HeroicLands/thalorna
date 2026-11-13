@@ -4,7 +4,7 @@ name: {full: "Alembic, glass, 1 pint"}
 type: containergear
 description: "Small glass still-head for fine distillation."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 4, valueBase: 42, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 1}

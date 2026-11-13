@@ -4,7 +4,7 @@ name: {full: "Bag, sm, canvas"}
 type: containergear
 description: "Small lightweight canvas pouch for grain or spices."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 0.5, valueBase: 0.5, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 10}

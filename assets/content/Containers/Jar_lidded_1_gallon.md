@@ -4,7 +4,7 @@ name: {full: "Jar, lidded, 1 gallon"}
 type: containergear
 description: "Stoneware jar with fitted lid for dried goods and seasonal preserves (1 gallon)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 6, valueBase: 8, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 8}

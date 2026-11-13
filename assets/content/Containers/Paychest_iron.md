@@ -4,7 +4,7 @@ name: {full: "Paychest, iron"}
 type: containergear
 description: "Heavy iron paychest with multiple locks."
 tags: []
-data: {icon: chest, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: chest, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system:

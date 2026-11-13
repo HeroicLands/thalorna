@@ -4,7 +4,7 @@ name: {full: "Cooking pot, copper"}
 type: containergear
 description: "Tinned-copper pot with lid for simmering without metallic taste."
 tags: []
-data: {icon: cookingpot, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: cookingpot, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 3, valueBase: 10, qualityBase: 0, durabilityBase: 4, maxCapacityBase: 16}

@@ -4,7 +4,7 @@ name: {full: "Flask, glass, 1 pint"}
 type: containergear
 description: "Small glass flask for carrying wine, ink, or drafts."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 1, valueBase: 12, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 1}

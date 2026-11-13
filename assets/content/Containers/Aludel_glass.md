@@ -4,7 +4,7 @@ name: {full: "Aludel, glass"}
 type: containergear
 description: "Glass sublimation vessel, pear-shaped."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 1, valueBase: 36, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 1}

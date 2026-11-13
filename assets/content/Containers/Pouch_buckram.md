@@ -4,7 +4,7 @@ name: {full: "Pouch, buckram"}
 type: containergear
 description: "Stiffened cloth belt pouch; the cheap alternative to leather."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 0.3, valueBase: 0.5, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 3}

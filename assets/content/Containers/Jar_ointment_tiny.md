@@ -4,7 +4,7 @@ name: {full: "Jar, ointment, tiny"}
 type: containergear
 description: "Thumb-sized ceramic vessel for precious unguent or poison antidote."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system:

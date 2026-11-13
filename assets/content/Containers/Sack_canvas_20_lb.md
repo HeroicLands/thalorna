@@ -4,7 +4,7 @@ name: {full: "Sack, canvas, 20 lb"}
 type: containergear
 description: "Plain canvas sack for grain, flour, or produce (20 lb)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system:

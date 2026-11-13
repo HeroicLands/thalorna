@@ -4,7 +4,7 @@ name: {full: "Pot, cooking, small"}
 type: containergear
 description: "Compact iron cookpot for travelers or small household portions."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 1.1, valueBase: 2, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 2}

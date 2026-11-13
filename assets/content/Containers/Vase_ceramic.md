@@ -4,7 +4,7 @@ name: {full: "Vase, ceramic"}
 type: containergear
 description: "Decorative footed earthenware vase for cut flowers or branches."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 2, valueBase: 4, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 2}

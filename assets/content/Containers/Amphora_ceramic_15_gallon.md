@@ -4,7 +4,7 @@ name: {full: "Amphora, ceramic, 15 gallon"}
 type: containergear
 description: "Two-handled earthenware jar for bulk oil, wine, or grain (15 gallons)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 28, valueBase: 24, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 120}

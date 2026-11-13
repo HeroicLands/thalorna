@@ -4,7 +4,7 @@ name: {full: "Sack, canvas, 50 lb"}
 type: containergear
 description: "Heavy canvas sack sized for a porter's load (50 lb)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 1.2, valueBase: 1.5, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 50}

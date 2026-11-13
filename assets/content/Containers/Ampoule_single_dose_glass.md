@@ -4,7 +4,7 @@ name: {full: "Ampoule, single dose, glass"}
 type: containergear
 description: "Sealed single-dose glass ampoule."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system:

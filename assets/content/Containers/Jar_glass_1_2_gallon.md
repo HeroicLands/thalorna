@@ -4,7 +4,7 @@ name: {full: "Jar, glass, 1/2-gallon"}
 type: containergear
 description: "Capacious blown glass jar for preserves and dried herbs (1/2 gallon)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 2, valueBase: 20, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 4}
