@@ -841,3 +841,39 @@ packageBuild:
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-wojaidmn
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        # Provisional: each polity below governs one town or city, so its urban share is
+        # trivially 100 percent. Delete this group when the package skips single-settlement polities.
+        - address: affiliation-twncnclprtaln
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-sarmelisconcl
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cncldrgls
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cnclhrthm
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cnclnbrls
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cnclolvstr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cnclthrgl
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-tmplplthms
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cncltwlvbzrs
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-mrchntcnsrtchr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-gldbrdpshnr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-gldbrdshmlr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-gldbrdshrmn
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-tevranaelissium
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-lwrmhndjnpd
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-mddlsrvdjnpd
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-srvdmthjnpd
+          reason: territory is a single settlement; the polity above it carries the urban share
