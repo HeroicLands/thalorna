@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [qalirel]
   population: 30000
+  type: town
   market: international
   routes: [{to: besikar2, bearing: NE, mode: land, days: 2, terrain: [plain, road]}]
   government: gldbrdshrmn

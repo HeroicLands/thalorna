@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [tashilar]
   population: 150000
+  type: city
   market: international
   packFolder: taruzel
   government: bazunel

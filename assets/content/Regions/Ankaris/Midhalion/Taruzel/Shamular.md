@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [milazun]
   population: 12000
+  type: town
   market: regional
   government: gldbrdshmlr
   packFolder: taruzel

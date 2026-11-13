@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [ixilankulrgn]
   population: 110000
+  type: city
   market: international
   government: ixilankul
   packFolder: ixilankul

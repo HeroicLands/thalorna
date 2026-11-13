@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [garzanitselt]
   population: 34000
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatgarzant

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [izetgenome]
   population: 45000
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatizetge

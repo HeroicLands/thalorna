@@ -11,6 +11,7 @@ data:
   lore: [osetakonaclt]
   parents: [kahnionrgn]
   population: 1500
+  type: village
   market: local
   government: osetakona
   packFolder: osetakona

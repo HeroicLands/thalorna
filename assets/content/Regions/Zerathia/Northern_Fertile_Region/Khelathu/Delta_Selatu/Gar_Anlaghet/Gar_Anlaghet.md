@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [garanlghtslt]
   population: 120000
+  type: city
   market: international
   packFolder: regkhsett
   government: selatgrnlght

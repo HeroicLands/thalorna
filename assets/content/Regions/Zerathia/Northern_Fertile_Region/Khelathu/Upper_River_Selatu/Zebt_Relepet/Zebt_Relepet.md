@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [zebtrelptslt]
   population: 28000
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatzbtrlpt

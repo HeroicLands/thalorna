@@ -11,6 +11,7 @@ data:
   lore: [kelwanukclt]
   parents: [yumisrgn]
   population: 1500
+  type: village
   market: local
   government: kelwanuk
   packFolder: kelwanuk

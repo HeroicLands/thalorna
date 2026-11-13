@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [garanlghtslt]
   population: 14000
+  type: town
   market: regional
   government: selatgrnlght
   packFolder: regkhsett

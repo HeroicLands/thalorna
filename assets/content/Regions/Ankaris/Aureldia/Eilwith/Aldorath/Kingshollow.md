@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [wyndmarch]
   population: 1400
+  type: village
   market: local
   packFolder: eilwith
   government: kngdmldrth
