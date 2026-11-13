@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Ripple of light disrupts illusions and glamours completely."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

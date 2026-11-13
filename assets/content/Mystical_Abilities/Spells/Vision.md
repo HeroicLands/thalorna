@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Grants distant sight; sees location far away remotely."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

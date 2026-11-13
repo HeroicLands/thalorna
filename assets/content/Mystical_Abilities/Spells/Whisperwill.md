@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Whispers suggestion directly; implants idea in target's mind."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

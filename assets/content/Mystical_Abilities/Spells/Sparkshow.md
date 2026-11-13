@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Creates brilliant light display; dazzles vision with color."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

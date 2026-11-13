@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Reveals hidden things; penetrates concealment and shows true nature."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

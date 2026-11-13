@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Mends broken objects; restores structures to working condition."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

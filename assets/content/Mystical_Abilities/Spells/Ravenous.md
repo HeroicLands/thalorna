@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Hunger compulsion; targets eat anything to satisfy overwhelming urge."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

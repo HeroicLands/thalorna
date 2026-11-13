@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Clouds of toxic gas causing illness and disorientation."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

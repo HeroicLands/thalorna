@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Unearthly chorus of phantom voices and whispers; profoundly disorienting."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

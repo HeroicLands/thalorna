@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Turns a substance into a different one for as long as the talent holds."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

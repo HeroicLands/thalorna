@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Prevents the subject from uttering a named secret, by any means, until released."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqarquz

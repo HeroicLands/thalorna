@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Opens gateway between two distant locations; enables instant travel."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

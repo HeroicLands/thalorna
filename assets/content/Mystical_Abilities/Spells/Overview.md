@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Grants caster bird's-eye perspective; sees terrain from great height."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Temporary enhancement of target's attributes and mental capabilities."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

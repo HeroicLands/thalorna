@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster floats weightlessly; moves through air with silent grace."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

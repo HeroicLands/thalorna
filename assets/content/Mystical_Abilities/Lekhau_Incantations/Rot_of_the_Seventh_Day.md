@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Accelerates the decay of organic material, on a stated delay."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garzelgut, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garzelgut, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauzelgut

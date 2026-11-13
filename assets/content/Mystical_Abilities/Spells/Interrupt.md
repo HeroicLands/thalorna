@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Dissonant lance disrupting rival's spell mid-casting; scatters gathered power."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Whispered words travel to distant recipient; bypasses physical barriers."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

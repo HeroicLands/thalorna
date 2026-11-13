@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Summons nearby creatures; compels them toward caster with force."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

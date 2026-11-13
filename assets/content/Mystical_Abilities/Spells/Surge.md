@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Creates wave of force; manifests swelling energy outward."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

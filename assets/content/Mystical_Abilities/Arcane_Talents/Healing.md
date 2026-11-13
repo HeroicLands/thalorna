@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Closes a wound and hastens the body's own mending, without medicine or surgery."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

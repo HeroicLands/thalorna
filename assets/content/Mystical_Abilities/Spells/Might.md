@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Temporary physical enhancement increasing strength and combat prowess greatly."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

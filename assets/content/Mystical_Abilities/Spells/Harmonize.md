@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Unites allied group; enhances coordination and shared magical resonance."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

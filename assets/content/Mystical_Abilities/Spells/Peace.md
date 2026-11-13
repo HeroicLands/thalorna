@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Aura of calm; pacifies violent impulses and stops combat."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

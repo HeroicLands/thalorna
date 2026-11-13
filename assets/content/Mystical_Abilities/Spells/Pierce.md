@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Projectile of force; penetrates armor and causes bleeding wounds."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

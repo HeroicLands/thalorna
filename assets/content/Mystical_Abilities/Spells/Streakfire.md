@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Creates line of flame; projects burning ray through air."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

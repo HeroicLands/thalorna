@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Suppresses sound; muffles speech and blocks all noise."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

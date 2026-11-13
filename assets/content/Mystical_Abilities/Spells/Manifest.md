@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Solidifies invisible spirits into temporary physical forms; reveals hidden threats."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

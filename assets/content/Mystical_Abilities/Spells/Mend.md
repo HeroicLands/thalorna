@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Restores objects to original condition; heals cracks, breaks, tears."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

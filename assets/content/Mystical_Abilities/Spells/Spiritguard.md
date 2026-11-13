@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Summons protective spirit; grants spectral defender and aid."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

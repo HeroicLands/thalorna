@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Unites minds; caster and target share thoughts and sensations."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

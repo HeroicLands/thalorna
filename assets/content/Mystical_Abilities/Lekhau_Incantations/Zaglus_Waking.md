@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Binds a made servant to wake at a stated condition and act until the condition ends."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garithnetau, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garithnetau, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauithnet
