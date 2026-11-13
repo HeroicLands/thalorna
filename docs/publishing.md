@@ -40,6 +40,10 @@ are part of the generated site tree.
 The `build` job runs on the `build` runner and the `public` job on `ubuntu-vm`.
 The `internal` job is the shared reusable workflow, which runs on
 `ubuntu-latest`, a host runner on excelsior; it holds the publication SSH key.
+The site build runs with `NODE_OPTIONS=--max-old-space-size=6144`, which caps
+the V8 old-space heap of the build process at 6 GiB; it does not cap the
+process's total memory. To build locally with the same limit, run
+`NODE_OPTIONS=--max-old-space-size=6144 node_modules/.bin/package-build site build --root <root>`.
 The build job has no SSH, Cloudflare or R2 deployment secrets, and only the
 `public` job receives the Cloudflare credentials. The build verifies the package
 prefix, nonempty landing/404/root headers and at least 1,001 index pages. Root
