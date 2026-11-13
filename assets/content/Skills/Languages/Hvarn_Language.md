@@ -4432,7 +4432,6 @@ data:
       - "Vrestun"
       - "Shulner"
   sounds:
-    stress: {two: first, longer: penultimate}
     edges:
       - {edge: openCluster, sounds: [hv, hvr, vh, vr, vn, kl, tr, br, dr, zv]}
       - {edge: closeConsonant, sounds: any}

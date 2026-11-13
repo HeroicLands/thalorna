@@ -5058,25 +5058,25 @@ data:
     clusters: {max: 2}
     syllables: {onsets: single, codas: [n, ng], initialVowel: false}
     finals:
-      - {final: a, like: "the a of father"}
-      - {final: o, like: "the o of go"}
-      - {final: i, like: "the i of machine"}
-      - {final: ai, like: eye}
-      - {final: ei, like: day}
-      - {final: au, like: cow}
-      - {final: ou, like: soul}
-      - {final: wi, like: we}
-      - {final: wo, like: "woe, a steady oh"}
-      - {final: ye, like: "the ye of yet"}
-      - {final: an, like: "ahn, the a of father closed on n"}
-      - {final: en, like: "the en of ten"}
-      - {final: in, like: "een, as in seen"}
-      - {final: eng, like: "the eng of length"}
-      - {final: ing, like: "eeng, the i of machine closed on ng"}
-      - {final: ong, like: "ohng, the o of go closed on ng"}
-      - {final: wen, like: "the wen of went"}
-      - {final: yau, like: yow}
-      - {final: ui, like: "oo-ee, after w or y and in tui"}
+      - {final: a}
+      - {final: o}
+      - {final: i}
+      - {final: ai}
+      - {final: ei}
+      - {final: au}
+      - {final: ou}
+      - {final: wi}
+      - {final: wo}
+      - {final: ye}
+      - {final: an}
+      - {final: en}
+      - {final: in}
+      - {final: eng}
+      - {final: ing}
+      - {final: ong}
+      - {final: wen}
+      - {final: yau}
+      - {final: ui}
   scope:
     folders:
       - tantsou

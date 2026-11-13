@@ -6709,7 +6709,6 @@ data:
   sounds:
     edges: [{edge: closeConsonant, sounds: [n, r, m, l, sh, k, z, t, b]}]
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     folders: [taruzel, midhaliontaruzel]
     cultures: [taruzelianclt]

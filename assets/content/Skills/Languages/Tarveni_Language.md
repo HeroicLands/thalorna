@@ -4764,7 +4764,6 @@ data:
       - {edge: openCluster, sounds: [pr, tr, kr, br, dr, gr, thr, hr]}
       - {edge: closeConsonant, sounds: [d, k, l, n, r, s, th, ts]}
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
   tongues:
     - {tag: tarveni, meaning: a Tarveni name}
     - {tag: translation, meaning: a name given in the language of these pages}

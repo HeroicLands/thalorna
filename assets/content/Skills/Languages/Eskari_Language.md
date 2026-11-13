@@ -65,7 +65,6 @@ data:
   sounds:
     edges: [{edge: openCluster, sounds: []}, {edge: closeConsonant, sounds: [n, r, z, ts]}]
     clusters: {max: 2}
-    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     addresses:
       - skill-eskarilng

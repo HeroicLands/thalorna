@@ -9,7 +9,6 @@ data:
   roman: "abdefghijklmnoprstuvyzáéíóú0123456789-"
   core: true
   abbreviation: Nord.
-  sounds: {stress: {two: first, longer: penultimate}}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
