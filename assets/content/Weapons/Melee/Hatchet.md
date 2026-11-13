@@ -4,7 +4,7 @@ name: {full: Hatchet}
 type: weapongear
 description: "Light tool-blade for kindling and ambush; road's most common sidearm."
 tags: []
-data: {icon: battleaxe, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: battleaxe, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: axe

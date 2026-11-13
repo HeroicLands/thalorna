@@ -4,7 +4,7 @@ name: {full: Buckler}
 type: weapongear
 description: "Small light shield for rapid parries; duelist's off-hand ward."
 tags: []
-data: {icon: roundshield, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: roundshield, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: shield

@@ -4,7 +4,7 @@ name: {full: Sickle}
 type: weapongear
 description: "Curved harvest-tool-blade for slash and entangle; peasant levy's accessible reach."
 tags: []
-data: {icon: sickle, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: sickle, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: axe

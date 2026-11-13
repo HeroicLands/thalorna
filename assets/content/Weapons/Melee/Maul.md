@@ -4,7 +4,7 @@ name: {full: Maul}
 type: weapongear
 description: "Two-handed wooden hammer for siege breach; assault engineer's door-crasher."
 tags: []
-data: {icon: clawhammer, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: clawhammer, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: club

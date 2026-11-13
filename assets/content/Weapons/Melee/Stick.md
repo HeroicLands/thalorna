@@ -4,7 +4,7 @@ name: {full: Stick}
 type: weapongear
 description: "Plain ashwood walking-staff pressed into service by travelers in scuffle."
 tags: []
-data: {icon: club, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: club, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: club

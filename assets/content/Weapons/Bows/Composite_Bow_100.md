@@ -4,7 +4,7 @@ name: {full: Composite Bow 100}
 type: weapongear
 description: "Horn-and-sinew composite at one-hundred pound draw; cavalry archer standard."
 tags: []
-data: {icon: pocketbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: pocketbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, hide]}
   kbcat: bow

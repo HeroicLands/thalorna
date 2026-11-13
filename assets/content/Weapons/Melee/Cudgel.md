@@ -4,7 +4,7 @@ name: {full: Cudgel}
 type: weapongear
 description: "Short heavy-headed bludgeon for close-quarters; sell-sword's preference."
 tags: []
-data: {icon: club, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: club, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: club

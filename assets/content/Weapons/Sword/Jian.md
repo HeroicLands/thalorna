@@ -4,7 +4,7 @@ name: {full: Jian}
 type: weapongear
 description: "Straight double-edged leaf-point blade; duelist's responsive steel."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

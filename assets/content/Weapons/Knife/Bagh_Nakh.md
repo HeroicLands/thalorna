@@ -4,7 +4,7 @@ name: {full: Bagh Nakh}
 type: weapongear
 description: "Curved iron claws for raking close brawl; street fighter's mercy-less tool."
 tags: []
-data: {icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife

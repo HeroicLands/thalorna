@@ -4,7 +4,7 @@ name: {full: Shamshir}
 type: weapongear
 description: "Deeply curved supple single-edged saber; cavalry officer's refined speed-stroke."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

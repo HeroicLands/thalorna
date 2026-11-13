@@ -4,7 +4,7 @@ name: {full: Shuriken}
 type: weapongear
 description: "Iron star-spikes thrown for distraction and wound; assassin's surprise reach."
 tags: []
-data: {icon: shurikendrkz, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: shurikendrkz, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: thrown

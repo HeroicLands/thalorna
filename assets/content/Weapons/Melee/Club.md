@@ -4,7 +4,7 @@ name: {full: Club}
 type: weapongear
 description: "Iron-bound wooden bludgeon; garrison guard and desperate levy weapon."
 tags: []
-data: {icon: club, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: club, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: club

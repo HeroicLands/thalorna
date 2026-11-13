@@ -4,7 +4,7 @@ name: {full: Roundshield}
 type: weapongear
 description: "Oak circular shield with iron-domed boss; common soldier's line-wall reliable."
 tags: []
-data: {icon: roundshield, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: roundshield, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: shield

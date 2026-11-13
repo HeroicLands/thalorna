@@ -4,7 +4,7 @@ name: {full: Boomerang}
 type: weapongear
 description: "Curved throwing-stick breaks fleeing game; war-variant non-returning."
 tags: []
-data: {icon: icon-boomerang, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-boomerang, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: thrown
   weaponType: Club

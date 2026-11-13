@@ -4,7 +4,7 @@ name: {full: Jousting Pole}
 type: weapongear
 description: "Blunted tournament pole breaks cleanly; knight's horsemanship-testing reach."
 tags: []
-data: {icon: cavalry, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: cavalry, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: polearm

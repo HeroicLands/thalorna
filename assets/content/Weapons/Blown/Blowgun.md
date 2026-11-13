@@ -4,7 +4,7 @@ name: {full: Blowgun}
 type: weapongear
 description: "Silent hollow tube for poison darts; hunter's covert strike."
 tags: []
-data: {icon: icon-blowgun, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-blowgun, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: blown
   weaponType: Blown

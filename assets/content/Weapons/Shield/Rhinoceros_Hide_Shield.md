@@ -4,7 +4,7 @@ name: {full: Rhinoceros-Hide Shield}
 type: weapongear
 description: "Warrior-caste heraldic shield of cured rhinoceros hide; lighter than metal and nearly proof against sword cuts."
 tags: []
-data: {icon: icon-roundshield, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-roundshield, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: shield
   weaponType: Shield

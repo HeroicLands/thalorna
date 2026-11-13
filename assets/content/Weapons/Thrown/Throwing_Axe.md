@@ -4,7 +4,7 @@ name: {full: Throwing Axe}
 type: weapongear
 description: "Balanced head tumbling end-over-end to break skirmish formation."
 tags: []
-data: {icon: battleaxe, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: battleaxe, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: axe

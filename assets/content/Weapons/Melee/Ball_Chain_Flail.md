@@ -4,7 +4,7 @@ name: {full: Ball & Chain Flail}
 type: weapongear
 description: "Chain-slung metal sphere slides past shields; heavy cavalry's armor-breaker."
 tags: []
-data: {icon: flail, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: flail, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: flail

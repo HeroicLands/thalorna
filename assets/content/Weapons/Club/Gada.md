@@ -4,7 +4,7 @@ name: {full: Gada}
 type: weapongear
 description: "Heavy spherical or flanged mace-head; champion's crushing blow."
 tags: []
-data: {icon: icon-club, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-club, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: club
   weaponType: Club

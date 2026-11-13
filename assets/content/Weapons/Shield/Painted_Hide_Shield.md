@@ -4,7 +4,7 @@ name: {full: Painted Hide Shield}
 type: weapongear
 description: "Round shield of rawhide stretched on a frame and painted with its owner's emblem; the Plains warrior's cover."
 tags: []
-data: {icon: icon-roundshield, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-roundshield, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: shield
   weaponType: Shield

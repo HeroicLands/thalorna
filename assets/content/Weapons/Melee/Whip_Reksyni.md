@@ -4,7 +4,7 @@ name: {full: "Whip, Reksyni"}
 type: weapongear
 description: "Sinew-and-leather tribal lash; barbed, heavy, breaking mounted formations."
 tags: []
-data: {icon: whip, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: whip, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: whip

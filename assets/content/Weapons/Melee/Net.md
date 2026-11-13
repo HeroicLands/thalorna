@@ -4,7 +4,7 @@ name: {full: Net}
 type: weapongear
 description: "Weighted mesh entangles limbs; gladiatorial disarm-and-strike with spear."
 tags: []
-data: {icon: fishingnet, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: fishingnet, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: txtl, secondary: [mtlc]}
   kbcat: net

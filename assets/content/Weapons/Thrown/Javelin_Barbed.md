@@ -4,7 +4,7 @@ name: {full: "Javelin, Barbed"}
 type: weapongear
 description: "Barbed leaf-shaped throw-spear; wounds and disrupt before close-quarters."
 tags: []
-data: {icon: spears, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: spears, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: thrown

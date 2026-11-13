@@ -4,7 +4,7 @@ name: {full: Scimitar}
 type: weapongear
 description: "Curved single-edged blade favors mounted slash; southern cavalry's efficiency."
 tags: []
-data: {icon: broadsword, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: broadsword, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: sword

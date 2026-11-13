@@ -4,7 +4,7 @@ name: {full: Swift Hand Horse-Bow}
 type: weapongear
 description: "Short recurved composite bow of the Swift Hand academy, drawn and loosed from horseback."
 tags: []
-data: {icon: sohl-none-icon-longbow, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: sohl-none-icon-longbow, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: bow
   weaponType: Bow
