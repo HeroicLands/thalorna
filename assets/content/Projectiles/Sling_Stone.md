@@ -5,7 +5,7 @@ type: projectilegear
 subType: bullet
 description: "Smooth river pebble or kiln-fired clay; cracks skulls, breaks hound legs."
 tags: []
-data: {icon: stonepile, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: stonepile, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: srvl, secondary: []}
   traits: {ARvalue: 0, bleed: false}
