@@ -19,7 +19,7 @@ data:
     - {to: mercavia, bearing: S, mode: land, days: 5, terrain: [road]}
     - {to: aelissium, bearing: S, mode: land, days: 5, terrain: [road]}
   packFolder: vylaria
-  government: verdanorzara
+  government: vylarinmpr
   notes: "Capital City of Viléria"
 ---
 
