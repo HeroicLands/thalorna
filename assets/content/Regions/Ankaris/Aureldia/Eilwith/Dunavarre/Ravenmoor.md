@@ -4,12 +4,13 @@ name: {full: Ravenmoor}
 type: place
 subType: settlement
 description: "The seat of the Synod and the mandatory first port of call for every ship crossing between Eilwìth and the mainland—where the Arcane Order inspects the island's entire commerce, and takes particular interest in anything magical."
-tags: [city, port, coastal]
+tags: [town, port, coastal]
 data:
   demonym: null
   lore: []
   parents: [dunavarre]
   population: 3500
+  type: town
   market: regional
   packFolder: eilwith
   government: kingdmdnvr

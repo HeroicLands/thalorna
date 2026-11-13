@@ -4,13 +4,14 @@ name: {full: Canoe Place, shuq: [kulaiwil]}
 type: place
 subType: settlement
 description: "Canoe Place: the greatest harbor of the Bead Coast, where the Canoe Kin keep their house and their yard, the Sky Elder keeps the Measure, and the chiefs gather at midwinter."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: shuqashclt
   demonym: null
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
   population: 4000
+  type: town
   market: local
   government: shuqash
   packFolder: shuqash

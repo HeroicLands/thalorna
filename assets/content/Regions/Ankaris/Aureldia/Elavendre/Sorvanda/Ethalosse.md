@@ -4,12 +4,13 @@ name: {full: Ethalosse}
 type: place
 subType: settlement
 description: "The threshold enclave on the edge of the Áelendan tribal lands—small, deliberately placed, and the point through which the Senali deal with the rest of humanity by way of Áelendan intermediaries."
-tags: [village, woodland, sacred]
+tags: [hamlet, woodland, sacred]
 data:
   demonym: null
   lore: [flksenali]
   parents: [alndntrblnds]
   population: 70
+  type: hamlet
   market: subsistence
   government: nclvthlss
   packFolder: elavendre

@@ -4,13 +4,14 @@ name: {full: Weir Place, tiku: [taqvamiq]}
 type: place
 subType: settlement
 description: "Weir Place: a river village of the Lake Tundra, behind its salmon weirs, where the forest hunters come down in spring to trade."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: tikupilaritclt
   demonym: null
   lore: [tikupilaritclt]
   parents: [taluqnapiqrgn]
   population: 300
+  type: village
   market: local
   government: tikupilarit
   packFolder: tikupilarit

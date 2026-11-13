@@ -4,13 +4,14 @@ name: {full: Canal House, teyu: [kenuvahosa]}
 type: place
 subType: settlement
 description: "The Canal House: the largest town of the Turquoise People, at the head of the lowland canals, where the canal chief allots the water, the young men play the southern ball game, and the trading party sets out west for the Bead Coast."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: teyumiclt
   demonym: null
   lore: [teyumiclt]
   parents: [kenuvasokorgn]
   population: 3000
+  type: town
   market: local
   government: teyumi
   packFolder: teyumi

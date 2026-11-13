@@ -4,12 +4,13 @@ name: {full: Vrathavan}
 type: place
 subType: settlement
 description: "Fortified Harbor Town"
-tags: [port, town, fortified]
+tags: [port, village, fortified]
 data:
   demonym: null
   lore: []
   parents: [norgaad]
   population: 800
+  type: village
   market: regional
   packFolder: norgaad
   government: kingdmnrgd

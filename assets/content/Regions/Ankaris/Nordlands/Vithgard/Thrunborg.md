@@ -4,12 +4,13 @@ name: {full: Thrunborg}
 type: place
 subType: settlement
 description: "Fortified Town / Capital"
-tags: [town, capital, fortified]
+tags: [village, capital, fortified]
 data:
   demonym: null
   lore: []
   parents: [vithgard]
   population: 700
+  type: village
   market: local
   packFolder: vithgard
   government: kngdmvthgrd

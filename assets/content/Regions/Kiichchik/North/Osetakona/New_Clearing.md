@@ -4,13 +4,14 @@ name: {full: New Clearing, oset: [tsiontaha tahsiren]}
 type: place
 subType: settlement
 description: "New Clearing, the River People's southernmost village, built down a valley toward Ha'nal Shi'lan, burned by the One Fire's raiders and rebuilt on the same ground out of stubbornness."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: osetakonaclt
   demonym: null
   lore: [osetakonaclt]
   parents: [tionhsekargn]
   population: 600
+  type: village
   market: local
   government: osetakona
   packFolder: osetakona

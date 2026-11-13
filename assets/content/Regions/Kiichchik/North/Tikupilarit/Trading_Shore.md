@@ -4,13 +4,14 @@ name: {full: Trading Shore, tiku: [simi manik]}
 type: place
 subType: settlement
 description: "Trading Shore: the southernmost village of the Ice Coast, where the Cedar People land every midsummer to trade, and where the watch on the headland looks for their war canoes."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: tikupilaritclt
   demonym: null
   lore: [tikupilaritclt]
   parents: [tikumanikrgn]
   population: 250
+  type: village
   market: local
   government: tikupilarit
   packFolder: tikupilarit

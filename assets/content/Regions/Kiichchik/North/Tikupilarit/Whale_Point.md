@@ -4,13 +4,14 @@ name: {full: Whale Point, tiku: [imlak kagaq]}
 type: place
 subType: settlement
 description: "Whale Point: the whaling village at the northern tip of the Ice Coast, of houses roofed with whale bone, whose skin boat crews hunt the great whales and go east along the ice."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: tikupilaritclt
   demonym: null
   lore: [tikupilaritclt]
   parents: [tikumanikrgn]
   population: 450
+  type: village
   market: local
   government: tikupilarit
   packFolder: tikupilarit

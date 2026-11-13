@@ -4,13 +4,14 @@ name: {full: Thunderbird Beach, kelw: [gwemlasis]}
 type: place
 subType: settlement
 description: "Thunderbird Beach: the island village of the Thunderbird House, where the coast's war canoes are cut from the oldest cedars, and whose chief sells them to whichever house he wants to see sit first."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: kelwanukclt
   demonym: null
   lore: [kelwanukclt]
   parents: [yatsalargn]
   population: 1800
+  type: town
   market: local
   government: kelwanuk
   packFolder: kelwanuk

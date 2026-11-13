@@ -4,12 +4,13 @@ name: {full: Ha'nal Shi'lan}
 type: place
 subType: settlement
 description: "The trading settlement of the contested river frontier, where the goods of the Maple People, the One Fire and the plains change hands."
-tags: [city, draft]
+tags: [town, draft]
 data:
   demonym: null
   lore: []
   parents: [hanalxilanrgn]
   population: 1200
+  type: town
   market: local
   government: hanalxilanmktcncl
   notes: "The trading settlement of the contested river frontier, where the goods of the Maple People, the One Fire and the plains change hands."

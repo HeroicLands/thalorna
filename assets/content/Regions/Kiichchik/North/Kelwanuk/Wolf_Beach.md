@@ -4,13 +4,14 @@ name: {full: Wolf Beach, kelw: [mukwasis]}
 type: place
 subType: settlement
 description: "Wolf Beach: the Wolf House's village at the head of the longest inlet, where the eulachon grease is rendered and carried over the mountains on the Grease Trail, and where a captive went over the passes for sale this summer."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: kelwanukclt
   demonym: null
   lore: [kelwanukclt]
   parents: [hapasrgn]
   population: 1200
+  type: town
   market: local
   government: kelwanuk
   packFolder: kelwanuk

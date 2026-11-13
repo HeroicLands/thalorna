@@ -4,13 +4,14 @@ name: {full: Great Shell, tokc: [koyo hasko]}
 type: place
 subType: settlement
 description: "The Great Shell, the largest of the shell towns: an island of heaped shell cut by canals, seat of the leading Shell Chief, home of the Sun's pledge and the ground of the Shell Fair."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: tokchiliclt
   demonym: Koyoli
   lore: [tokchiliclt]
   parents: [koyalorgn]
   population: 5000
+  type: town
   market: regional
   government: tokchiaska
   packFolder: tokchiaska

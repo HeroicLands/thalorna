@@ -4,13 +4,14 @@ name: {full: Last Shore, tokc: [koyalo lintako]}
 type: place
 subType: settlement
 description: "The Last Shore, the southernmost shell town of the One Fire, among mangrove islands at the end of the gulf coast, whose captains say they have sailed farther south than anyone."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: tokchiliclt
   demonym: Koyoli
   lore: [tokchiliclt]
   parents: [koyalorgn]
   population: 2000
+  type: town
   market: local
   government: tokchiaska
   packFolder: tokchiaska

@@ -4,13 +4,14 @@ name: {full: Yath-Telgu, en: [The Sacred Island, The First Mound]}
 type: place
 subType: settlement
 description: "The sacred midstream island at the heart of Galezkara—held to be the primeval mound where creation began, walled in white limestone, and bearing the two poles of imperial power: the Great Temple of Uqa'a and the palace of the Gar-Au, with the great flood-gauge called the Measure."
-tags: [precinct, city, sacred]
+tags: [precinct, town, sacred]
 data:
   banner: khelathubnr
   demonym: null
   lore: []
   parents: [galezkaraslt]
   population: 4000
+  type: town
   market: local
   packFolder: regkhsett
   government: empireakhlth

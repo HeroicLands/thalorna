@@ -4,13 +4,14 @@ name: {full: Cliff Place, tiku: [napamiq]}
 type: place
 subType: settlement
 description: "Cliff Place: a village of houses on stilts up the face of a rock island off the Ice Coast, home of the coast's best walrus hunters, ivory carvers and mask makers."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: tikupilaritclt
   demonym: null
   lore: [tikupilaritclt]
   parents: [tikumanikrgn]
   population: 200
+  type: village
   market: local
   government: tikupilarit
   packFolder: tikupilarit

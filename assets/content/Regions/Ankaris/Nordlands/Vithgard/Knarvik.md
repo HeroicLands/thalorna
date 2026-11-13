@@ -4,12 +4,13 @@ name: {full: Knarvík}
 type: place
 subType: settlement
 description: "Harbor Town"
-tags: [port, town]
+tags: [port, village]
 data:
   demonym: null
   lore: []
   parents: [vithgard]
   population: 400
+  type: village
   market: regional
   packFolder: vithgard
   government: kngdmvthgrd

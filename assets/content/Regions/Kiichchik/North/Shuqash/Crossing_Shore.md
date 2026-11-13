@@ -4,13 +4,14 @@ name: {full: Crossing Shore, shuq: [hipal halaq]}
 type: place
 subType: settlement
 description: "The Crossing Shore: a small town on the westernmost headland of the Bead Coast, where the souls of the dead go down to the sea and the astronomer-priests sing them across."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: shuqashclt
   demonym: null
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
   population: 600
+  type: village
   market: local
   government: shuqash
   packFolder: shuqash

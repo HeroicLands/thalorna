@@ -4,13 +4,14 @@ name: {full: North Door, shuq: [tikoq hipai]}
 type: place
 subType: settlement
 description: "The North Door: the northernmost town of the Bead Coast, behind the coast's only palisade, which sends the Northern Strand to the Cedar People every spring."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: shuqashclt
   demonym: null
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
   population: 1200
+  type: town
   market: local
   government: shuqash
   packFolder: shuqash

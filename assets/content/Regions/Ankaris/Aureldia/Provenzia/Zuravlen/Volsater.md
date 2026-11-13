@@ -4,12 +4,13 @@ name: {full: Volsater}
 type: place
 subType: settlement
 description: "Zuravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
-tags: [town, port, coastal]
+tags: [village, port, coastal]
 data:
   demonym: null
   lore: []
   parents: [zuravlenrgn]
   population: 900
+  type: village
   market: regional
   government: brnyzrvln
   packFolder: provenzia

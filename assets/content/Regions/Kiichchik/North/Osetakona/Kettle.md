@@ -4,13 +4,14 @@ name: {full: Kettle, oset: [ostakaten]}
 type: place
 subType: settlement
 description: "The Kettle: the palisaded longhouse village by the Great Falls where the Grove's great council sits, and which is about to move."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: osetakonaclt
   demonym: null
   lore: [osetakonaclt]
   parents: [kahsiotargn]
   population: 2000
+  type: town
   market: local
   government: osetakona
   packFolder: osetakona

@@ -4,12 +4,13 @@ name: {full: Q'aptel Tsa'kul}
 type: place
 subType: settlement
 description: "Seat of the border realm, a fortress-temple that sells guides, provisions and blessings to those about to cross into the wastes."
-tags: [city]
+tags: [town]
 data:
   demonym: null
   lore: []
   parents: [qapteltzaklrgn]
   population: 4000
+  type: town
   market: local
   government: qapteltzakl
   packFolder: qapteltzakul

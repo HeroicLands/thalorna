@@ -4,12 +4,13 @@ name: {full: Tvarnmark}
 type: place
 subType: settlement
 description: "Inland Trade Town"
-tags: [town, inland, trading]
+tags: [village, inland, trading]
 data:
   demonym: null
   lore: []
   parents: [norgaad]
   population: 600
+  type: village
   market: local
   packFolder: norgaad
   government: kingdmnrgd

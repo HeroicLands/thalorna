@@ -4,13 +4,14 @@ name: {full: Dawn Place, oset: [tsiorhenten]}
 type: place
 subType: settlement
 description: "The Dawn Place: the Dawn People's village that the men from the water burned, moved a day inland out of sight of the sea, with four names neither lying down nor given."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: osetakonaclt
   demonym: null
   lore: [osetakonaclt]
   parents: [tsiorhenrgn]
   population: 900
+  type: village
   market: local
   government: osetakona
   packFolder: osetakona

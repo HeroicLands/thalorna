@@ -4,13 +4,14 @@ name: {full: Bead Place, shuq: [shuqwil]}
 type: place
 subType: settlement
 description: "Bead Place: the drilling town of Bead Island, where nearly every household makes shell beads and the counter's strands are the ones the coast measures against."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: shuqashclt
   demonym: null
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
   population: 2000
+  type: town
   market: local
   government: shuqash
   packFolder: shuqash

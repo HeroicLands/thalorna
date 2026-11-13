@@ -4,12 +4,13 @@ name: {full: Dvarnvík}
 type: place
 subType: settlement
 description: "Port Town"
-tags: [port, town]
+tags: [port, village]
 data:
   demonym: null
   lore: []
   parents: [vithgard]
   population: 450
+  type: village
   market: regional
   packFolder: vithgard
   government: kngdmvthgrd

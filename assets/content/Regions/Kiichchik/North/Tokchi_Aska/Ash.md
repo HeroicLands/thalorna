@@ -4,13 +4,14 @@ name: {full: Ash, tokc: [ishochi]}
 type: place
 subType: settlement
 description: "Ash, the largest swamp-edge town of the Dark Water, which takes in the households whose fires have been put out and says it was founded by the coast women Pakalo saved."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: tokchiliclt
   demonym: null
   lore: [tokchiliclt]
   parents: [wikopihirgn]
   population: 1500
+  type: town
   market: local
   government: tokchiaska
   packFolder: tokchiaska

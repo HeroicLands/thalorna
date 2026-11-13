@@ -4,13 +4,14 @@ name: {full: South House, teyu: [kwatuhosa]}
 type: place
 subType: settlement
 description: "The South House: the great house at the mouth of a desert wash where every trader out of the south arrives first, and where the Keeper of the South Road decides what goes north."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: teyumiclt
   demonym: null
   lore: [teyumiclt]
   parents: [teyumirgn]
   population: 1000
+  type: town
   market: local
   government: teyumi
   packFolder: teyumi

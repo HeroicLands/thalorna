@@ -4,13 +4,14 @@ name: {full: Walrus Place, tiku: [kavrumiq]}
 type: place
 subType: settlement
 description: "Walrus Place: the largest village of the Ice Coast, on a cape above a walrus beach, whose men's house is the greatest on the coast and the birthplace of the Messenger Feast."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: tikupilaritclt
   demonym: null
   lore: [tikupilaritclt]
   parents: [tikumanikrgn]
   population: 600
+  type: village
   market: local
   government: tikupilarit
   packFolder: tikupilarit

@@ -4,12 +4,13 @@ name: {full: Shelem Ch'alish}
 type: place
 subType: settlement
 description: "The gate of the south: a fortress-temple of Q'aptel Tsa'kul at the edge of the waste, where parties wait for an opened day, hear their own funeral recited, and leave through the last gate on the continent."
-tags: [fortress, city]
+tags: [fortress, village]
 data:
   demonym: null
   lore: []
   parents: [qapteltzaklrgn]
   population: 900
+  type: village
   market: local
   government: qapteltzakl
   packFolder: qapteltzakul

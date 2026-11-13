@@ -4,13 +4,14 @@ name: {full: Falcon Mound, tokc: [kiyo pokta]}
 type: place
 subType: settlement
 description: "The Falcon Mound, the double-walled town on the western bank where the One Fire musters against the plains bands, the falcon dancers train, and maize is traded for robes in the same season as the raids."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: tokchiliclt
   demonym: null
   lore: [tokchiliclt]
   parents: [hokpargn]
   population: 5000
+  type: town
   market: regional
   government: tokchiaska
   packFolder: tokchiaska

@@ -4,12 +4,13 @@ name: {full: Tvalgard}
 type: place
 subType: settlement
 description: "Town"
-tags: [town]
+tags: [village]
 data:
   demonym: null
   lore: []
   parents: [targud]
   population: 900
+  type: village
   market: local
   packFolder: targud
   government: kingdmtrgd

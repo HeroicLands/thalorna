@@ -4,13 +4,14 @@ name: {full: Oak Place, shuq: [tulishwil]}
 type: place
 subType: settlement
 description: "Oak Place: the largest town of the Oak Valleys, where the coast comes over the pass for the Acorn Gathering and the Painted Cave lies in the canyon above."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: shuqashclt
   demonym: null
   lore: [shuqashclt]
   parents: [tulishlumuqrgn]
   population: 1500
+  type: town
   market: local
   government: shuqash
   packFolder: shuqash

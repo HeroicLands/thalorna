@@ -4,12 +4,13 @@ name: {full: Málstead}
 type: place
 subType: settlement
 description: "Town"
-tags: [town]
+tags: [village]
 data:
   demonym: null
   lore: []
   parents: [malagna]
   population: 600
+  type: village
   market: local
   packFolder: malagna
   government: kingdomlgn
