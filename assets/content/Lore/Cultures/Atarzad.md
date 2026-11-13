@@ -50,7 +50,7 @@ data:
     hair_texture: {wavy: 4, curly: 3, straight: 3}
     hair_style: {shoulder_length: 3, short: 3, long: 2, braided: 1, knotted: 1}
     face_shape: {oval: 3, long: 3, angular: 2, heart: 1}
-    nose: {aquiline: 4, straight: 3, hooked: 2, broad: 1}
+    nose: {aquiline: 4, straight: 3, hooked: 1, broad: 1}
     brow: {arched: 3, bushy: 3, heavy: 2, straight: 1}
     mouth: {full: 4, wide: 2, thin: 2}
     height: {female: {min: 5' 2", max: 6' 0"}, male: {min: 5' 4", max: 6' 3"}}
