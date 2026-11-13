@@ -14,11 +14,11 @@ data:
     skin_color: {tawny: 4, olive: 2, tanned: 2, brown: 2}
     complexion: {weathered: 4, chapped: 2, sun_kissed: 2, ruddy: 1}
     hair_texture: {straight: 8, wavy: 2}
-    hair_style: {long: 4, braided: 4, knotted: 2, short: 1, shaved_sides: 1}
-    face_shape: {broad: 3, round: 3, square: 2, angular: 2, oval: 1}
+    hair_style: {braided: 4, long: 3, shaved_sides: 2, knotted: 1, short: 1}
+    face_shape: {broad: 4, round: 3, square: 2, angular: 2, oval: 1}
     nose: {broad: 3, straight: 3, snub: 2, narrow: 1}
-    brow: {straight: 4, heavy: 2, bushy: 2, arched: 1}
-    mouth: {wide: 3, full: 3, thin: 2, small: 1}
+    brow: {straight: 4, heavy: 3, bushy: 1, arched: 1}
+    mouth: {wide: 3, thin: 3, full: 2, small: 1}
     height: {female: {min: 5' 3", max: 5' 10"}, male: {min: 5' 8", max: 6' 3"}}
 ---
 
