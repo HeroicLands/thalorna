@@ -61,7 +61,7 @@ A healer apprentices under a master for many years. The training joins the study
 
 The Tantsou draw no line between health of the body and health of the spirit. Both are the same order, and both are kept the same way: by keeping things in their places.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tsaihuo|Tsaihwo]]
 : the caste the healers belong to

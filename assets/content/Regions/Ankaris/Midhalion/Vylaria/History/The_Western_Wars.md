@@ -88,7 +88,7 @@ Expeditions in the same decades climbed the principal passes of the [[place-kerv
 
 The western strait is the sea's only door to the ocean. The Empire fortified the northern shore in these years, and the forts have changed hands, been rebuilt and been garrisoned by whoever holds that shore since. Every serious naval plan for the [[place-vylarianse|Vilérian Sea]] has turned on them.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **Lyenrik's watchtowers.** The chain of towers along the march, kept up by whichever lord holds the ground.
 - **[[affiliation-kngdmstrth|Asturath]]'s boast.** A kingdom that was never conquered, and says so.
@@ -97,7 +97,7 @@ The western strait is the sea's only door to the ocean. The Empire fortified the
 - **The strait forts.** The northern shore's fortifications, still garrisoned by whoever holds them.
 - **Provénzia's Vilérian law.** The architecture and the legal forms of the western province, which the [[affiliation-kngdmprvnz|kingdom]] kept after it left.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vylariargn|Viléria Region]]
 : the Kervaron Spine and its passage-gifts

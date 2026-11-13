@@ -21,7 +21,7 @@ data:
 
 Say the rice has failed at [[place-vrihistal|Vrihistal]], the largest of the rice villages. A farmer there needs no reckoner to tell him where the winter's food is coming from; he is already looking uphill. In a good rice year nobody gives Mashakshetra a thought.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

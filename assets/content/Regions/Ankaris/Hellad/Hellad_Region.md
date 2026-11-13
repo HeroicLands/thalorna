@@ -66,7 +66,7 @@ Southward, across the Vilérian Sea, lie the northern coasts of [[place-xerathia
 
 Off the short coast to the south lie the islands of Taruzel; the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is the League's great rival at sea and Helionis's trading partner. Along the whole of the League's southern border lies the Kingdom of Amradad, on the eastern shore of the sea. Eastward lies the Khazrin Desert and, beyond it, the world of the Ashaian faiths. The Bizarian League is the gateway through which eastern goods and eastern ideas have always entered the western world.
 
-## See Also
+## See Also {#see-also}
 
 [[place-helionis|Helionis]]
 : the western uplands and their seven city-states

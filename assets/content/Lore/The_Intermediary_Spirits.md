@@ -110,7 +110,7 @@ known across the Okharik country.
 | [[lore-pemburspr\|Pemburari Khutheling]]   | Fertility          | [[skill-pembursprt\|Pemburari Khutheling Spirit Power]] |
 | [[lore-shengelspr\|Zohu Shéngeling]]       | The blade          | [[skill-shengelsprt\|Zohu Shéngeling Spirit Power]]     |
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-yenorzhrng|Yenor Zohiring]]
 : the shamanic tradition that deals with them

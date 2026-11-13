@@ -76,7 +76,7 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The [Council of Korinthea]{.name data-type="affiliation/governmental"} consults the Temple of [[lore-ardavondty|Árdavon]] on matters of law and civic honor before it acts. The council is the visible government of a city-state of about 410,000 people, held by an oligarchy of its wealthy patron families, and the temple's judges sit beside the families who rule it, in the service of a god of order and justice. [[place-korinthea2|Korinthea]], with 40,000 of the people, is the seat.
 
@@ -99,7 +99,7 @@ The High Judge, [[being-dumarsrfrs|Dumares Rafiros]], is consulted by the counci
 
 Standing in Korinthea is the common Helionite ladder, from the citizen by descent down to the metic who pays tax without a vote. Korinthea is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]], and it shares the [[skill-helonclng|Helonik tongue]], its gods and its festivals with the other six city-states.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
 : the seven cities and how they are governed

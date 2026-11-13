@@ -24,7 +24,7 @@ The temple keeps the standard Mahajaya devotional cycle and adds the flood-rites
 
 Pilgrims come the year round and in their thousands after the fall of the water. The temple feeds them from its own granary for three days apiece, which is the outer limit of its charity and is enforced by men at the gate with a tally.
 
-## See Also
+## See Also {#see-also}
 
 [[place-bharanya|Bharanya]]
 : the town on the mounds

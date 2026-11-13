@@ -17,7 +17,7 @@ data:
   notes: "A small highland village of Eskarath below a mountain pass, named for the stone that marks the pass and the shrine to the pass's spirit beside it, whose guides take travelers over at a price."
 ---
 
-## Overview
+## Overview {#overview}
 
 Leparrun, "the stone of the pass" in [[skill-eskarilng|Eskari]], is a highland village of about 300 in [[place-eskarath|Eskarath]], below a mountain pass. A shrine to the spirit of the pass stands on the pass beside the stone the village is named for ([[affiliation-eskrthsprts|The Spirits of Eskarath]]).
 
@@ -29,7 +29,7 @@ The village keeps its herds on the slopes below the pass. Its guides know the wa
 
 The elders of Leparrun's clans lead it, settling what the young dispute from their memory of custom and precedent, and they send their delegates to the [[affiliation-biltzarrath|Biltzarrath]] each summer.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eskarath|Eskarath]]
 : the highlands it stands in

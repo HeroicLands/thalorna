@@ -89,7 +89,7 @@ The alliance has split the house. The senior kin who know of it call it reckless
 
 If the gamble fails, the house's remaining influence evaporates and its enemies finish it. If the alliance is exposed, the law does: the Black Lotus connection is treason under the [Teng Lou]{.name data-type="lore/law"} (see [[lore-tseising|Tseising]]), and exposure means execution for the head and his confidants, confiscation of the house's lands, and a debit on its ancestral ledger that its dead will be paying for generations. The Society loses too, since imperial scrutiny of one of its noble patrons reaches its other operations, and that shared exposure is the only thing keeping the alliance honest.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-weizhairui|Wei Zhai Rwi]]
 : the political game that brought the house low

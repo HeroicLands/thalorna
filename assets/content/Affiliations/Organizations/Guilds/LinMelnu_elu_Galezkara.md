@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Melnu elu Galezkara** is the guild of the blacksmiths of [[place-galezkara|Galezkara]] itself, separate from the empire-wide metalworkers' guild and answerable to its own masters. Its members take the ordinary smithing a capital generates: tools, fittings and ironwork for building, not certified masterwork. Where the imperial guild's charter does not reach, they answer to the city's magistrates.
 
@@ -58,7 +58,7 @@ The guild stands beside the imperial body without answering to it. [[affiliation
 
 The guild's trade is the ordinary smithing of the capital. Say a builder needs two hundred door-fittings for a mudbrick row. He orders them from a master, who sets the price and divides the work among the shop's smiths, and the fittings come from the forge without a stamp. Tools, fittings and ironwork for building are the guild's commerce, and certified masterwork is the imperial guild's.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-linmelnkhlth|Lin'Melnu elu Au'Khelathu]]
 : The imperial guild of metalworkers

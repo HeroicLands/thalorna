@@ -100,7 +100,7 @@ The Empire's _felzos_ took a house at Péravel and lived in it. The [[affiliatio
 
 The Áelendan have never forgiven the door. Order expeditions have taken artifacts from the sacred sites for as long as the Order has been permitted into the kingdom, and the Áelendan count the permission, and not any single theft, as the offense.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The felzos's house,** now the University's oldest court, and the Order's foothold in the capital ([[place-beravel|Péravel]]).
 - **[[place-trbtrd|The Tribute Road]].** Imperial milestones that run from the east and stop at Valdun ([[place-valdun|Valdun]]).
@@ -108,7 +108,7 @@ The Áelendan have never forgiven the door. Order expeditions have taken artifac
 - **The kingdom's standing.** Élavendre paid as a tributary of the Empire and was never a province of it; the Empire kept a _felzos_ at Péravel and no _therkos_ (governor), and the tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]].
 - **The oldest grievance.** The Áelendan hold the Order's welcome against the crown that gave it.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-westernwars|The Western Wars]]—the Vilérian account of the campaigns
 - [[lore-lowlandstaken|The Lowlands Taken]]—the conquest the march began from

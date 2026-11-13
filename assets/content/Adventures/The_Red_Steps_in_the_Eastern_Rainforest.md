@@ -17,7 +17,7 @@ data:
 
 A landslide strands the party below a forgotten binding temple in the eastern rainforest of [[place-neokbaatergn|Ne'ok Ba'ate]]. A priestess of the [[affiliation-puqilchaqun|storm-serpent's serpent-keepers]] has opened the temple's sealed chamber to recover a seal-stone, trusting a register that calls its guardian dead. The guardian, held by the builder-priests to be a Living Work of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the Builder, is one of a kind, and it is awake, and it is hungry. The priestess says she never reached the seal-stone. The guardian, which goes wherever the seal-stone goes, says otherwise.
 
-## Overview
+## Overview {#overview}
 
 [[place-kulqattzumul|The Red Steps]] (Kul'qat Ts'umul) is a binding temple of P'uqil Ch'akun raised by the builder-priests of [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]] and shut so long ago that the forest has taken its road. The serpent-keepers of [[place-netsumul|Ne' Ts'umul]] have sent [[being-ishmeltsmchp|Ish'mel Ts'uma Ch'upul]], a Warden of the Sealed Chambers, to bring back its seal-stone, the [[miscgear-stormseye|Storm's Eye]], and its codices before the seals are next inspected. The Warden of the Ruins records the temple's guardian as failed. It is not. [Ch'al Kul'iq]{.name data-type="being/creature"}, the strength beneath, is a [[lore-dreadspawncrtr|Dreadspawn]] set over the sealed chamber, and when Ish'mel went down for the Eye it came up the stair behind her.
 
@@ -31,7 +31,7 @@ The party learns how the guardian works from several sources, and each fact can 
 
 Its own sign goes with it everywhere: lamp flames lean toward it before it comes.
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 The full truth of the temple—what the guardian is, what the Storm's Eye does to it, and what happened on the stair—is in [[place-kulqattzumul#truth|the truth of Kul'qat Ts'umul]]. In short: Ish'mel reached the Eye. It is in her satchel, and she says she never got that far, because the porters died for it and her branch's standing at the next inspection rests on it. The guardian is not hunting the party. It follows the Eye, and the party is standing next to it. This section covers what that truth does at the table: where the party can find it, how it lands on each route, and what the party wants once it knows.
 
@@ -77,7 +77,7 @@ Once the reveal lands, the party is no longer only trying to live through the ni
 > [!TIP]
 > Play Ish'mel's refusal as reasoned and desperate. She names the porters, and the inspection, and the two other branches whose witnesses will watch her present nothing. She offers the party a share of the vault. She does not threaten anyone until someone reaches for the satchel.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A Ne' Ts'umul jade-dealer has heard that the serpent-keepers sent a Warden into the eastern forest with porters and an empty chest, and wants to know what she is bringing back.
 - **The mercenary or common soldier.** A master merchant hires the party to escort two baggage animals of cacao and feather-work over the eastern trail to the coast before the worst of the rains.
@@ -87,7 +87,7 @@ Once the reveal lands, the party is no longer only trying to live through the ni
 > [!TIP]
 > The thief's hook gives one player a reason to watch the satchel from the first scene with Ish'mel. Let that player watch it, and answer every question about it with what can be seen: a leather satchel, heavy, held by the strap, never set down.
 
-## The Opening
+## The Opening {#opening}
 
 The rain has not stopped for three days. Read or paraphrase:
 
@@ -251,7 +251,7 @@ The rain has not stopped for three days. Read or paraphrase:
 
 **If bypassed, failed or cut short.** A party that fled to the landing without the chamber can come back by the culvert on a later night, when the guardian has fed and lies still. The processional stair leads from the platform down to a sheltered landing on the river, where a canoe left by the Warden's party is drawn up under the trees, and the river runs down to the coast.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the guardian is shut in the pit with the Eye.** The temple holds its Living Work again, and the Eye stays with it. Ish'mel goes home with the codices and without the seal-stone, and the inspection goes against her branch.
 - **If the Eye went down the shaft.** The guardian lies in its chamber as the serpent-keepers left it, and the register at Ne' Ts'umul is corrected, if anyone tells the Warden of the Ruins.
@@ -259,7 +259,7 @@ The rain has not stopped for three days. Read or paraphrase:
 - **If Ish'mel took the Eye downriver.** Ch'al Kul'iq lies at the landing where the paving meets the water, and traders who put in there do not put out again. Ish'mel presents the Storm's Eye at the next inspection before witnesses of two other branches, and her branch remembers who carried it.
 - **If the party took the Eye or the codices.** The serpent-keepers begin to look for the party, and wherever the Eye last left the builders' stone, the guardian lies at the edge of it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kulqattzumul|Kul'qat Ts'umul]]
 : the temple and its guardian

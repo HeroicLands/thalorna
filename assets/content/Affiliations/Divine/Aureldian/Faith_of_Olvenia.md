@@ -69,7 +69,7 @@ The major festival honoring Ólvenia is the [[lore-goldenharvest|Festival of the
 
 Individual worship often takes the form of private devotions before important business dealings. A merchant preparing to negotiate a major contract may spend the night at a shrine to Ólvenia, making an offering and praying for charm, eloquence, and—if the merchant is honest with themselves—a favorable outcome. Courtesans and companions who work within the framework of the faith are often consecrated to Ólvenia and view their work not as shameful but as sacred service to the goddess's domain of seduction and physical pleasure. These temple-companions are respected figures within the cult, as are the merchants and guild-masters who support them.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Ólvenia is organized around individual temples rather than a centralized hierarchy. Each major city's temple of Ólvenia is governed by a High Priestess (or High Priest, though priestesses are far more common), who is the cult's spiritual head and the primary intermediary between the goddess and her followers. These High Priestesses often wield considerable influence in their cities' merchant councils and trading guilds, as the affiliation between Ólvenia worship and commercial prosperity is well-established.
 

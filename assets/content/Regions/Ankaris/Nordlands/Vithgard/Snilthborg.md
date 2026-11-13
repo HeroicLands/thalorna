@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: vithgard}
 ---
 
-## Overview
+## Overview {#overview}
 
 Families with more sons than holdings send the extra ones to Snilthborg. The fortress-barracks of [[place-vithgard|Vithgard]] sits on a height and takes boys, and it returns warriors-for-hire. The name is the mark winter leaves on its walls: _snilth-_, the line frost leaves along a stone, before the generic for a stronghold on a height.
 
@@ -33,7 +33,7 @@ Trains
 Sword-master
 : Glarvorv Mirvaruk.
 
-## See Also
+## See Also {#see-also}
 
 [[being-thrldrvvrnhm|Thraldorv Vornheim]]
 : a warrior trained at the fortress

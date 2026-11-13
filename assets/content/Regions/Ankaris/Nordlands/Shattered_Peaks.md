@@ -40,7 +40,7 @@ The Peaks hide things as readily as they swallow people. A cache set in the righ
 
 The Nordmen do not think the Shattered Peaks are cursed. They think they are honest: a place that makes no promises and kills the unready without malice. A Norgaadian who has crossed the saddle says so, and is believed. One who claims to have brought mithral out of the spires is not, and is asked to show it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmnrgd|Kingdom of Norgaad]]
 : the kingdom that holds the massif

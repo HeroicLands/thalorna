@@ -58,7 +58,7 @@ Authority
 Founded
 : The major charters are ancient (predating the current dynasty by several centuries); the federation as a coordinating body is much newer (perhaps a century old)
 
-## Overview
+## Overview {#overview}
 
 The Crown Trades of Okharis are the small number of major chartered guilds that handle the kingdom's settled-urban commerce. Unlike the dense guild ecology of Vilérian territory or the matriarchal trade-house network of [[affiliation-mtrrchybth|Bethua]], Okhárian commercial life is dominated by a handful of large, royally-chartered institutions concentrated in the three temple-cities. The remainder of Okhárian economic activity—the nomadic-pastoralist herding that sustains most of the population—operates outside any guild structure, organized through tribal-clan relationships and seasonal exchange at the temple-city festivals.
 

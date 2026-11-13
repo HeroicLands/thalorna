@@ -47,7 +47,7 @@ The temple has not entered it. Its priests' position is that nine days of weathe
 
 The reckoners of the [[affiliation-ganokashalda|Ganoka-shalda]] do not accept it. The Surta temple's high priests sight the turn of the year from the parapet and declare the orthodox civil year to every court that keeps [[lore-mdstncnt|the Madustan count]]. The reckoners compute the year; the temple sights it. A temple that decides which facts of the year are worth entering has, in the reckoners' view, decided something that is not its to decide. The quarrel between the sighters and the computers of the year is older than the spring's nine days, and the nine days have given it an edge.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-chandrprbh|Chandraprabhava]] · [[place-himashila|Himashila]] · [[place-surtatempl|the Surta temple]]
 - [[affiliation-ganokashalda|Ganoka-shalda]]—the reckoners who want it written down

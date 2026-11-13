@@ -38,7 +38,7 @@ The coast of the [[place-taruzelrgn|Taruzel Region]] keeps the Silent Passage as
 
 In [[place-qudumel2|Kudumel]] the altar of Sélmoros in the hall of the [[place-twofirestemple|Temple of Two Fires]] is shut with every other temple of his, but the temple's Ashaian fire-house never closes. A family whose house patronizes both rites crosses the court on those nights and speaks its dead aloud at the eternal flame, where the Ashaian rite teaches that the dead cross the [Mozhelurbek]{.name data-type="place/structure"}, the Bridge of the Dead, under the eye of [[lore-azravandty|Azravan]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selmoros|Faith of Sélmoros]]
 : the faith that keeps the Passage

@@ -89,7 +89,7 @@ Another significant practice is the [Blessing of Battle]{.name data-type="lore/c
 
 The faith also practices what it calls the [Gift of the Pyre]{.name data-type="lore/custom"}. When important members die in battle, their bodies are burned in great ceremonial fires rather than buried. The body is understood as fuel for Ústaron's eternal flame, transforming the flesh into smoke that carries the warrior's essence directly to the god. This practice horrifies both the Sacred Forge (which views it as desecration) and the orthodox civilizations that surround the faith, further emphasizing the Black Flame's status as a radical heresy.
 
-## Organization
+## Organization {#organization}
 
 The Black Flame's organizational structure is fundamentally different from the hierarchical priesthood of the Sacred Forge. Rather than a centralized authority, the faith operates through semi-independent cells and warbands, each led by a powerful figure known as a Flame-Warden or Ashlord. These leaders gain authority through demonstrated martial prowess, supernatural charisma, or a combination of both. A Flame-Warden might be a mercenary commander, a territorial warlord, a dispossessed noble seeking to reclaim power, or a charismatic priest with a following of devoted fanatics.
 

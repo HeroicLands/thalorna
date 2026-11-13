@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [hekardesert], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Ruins of Arkor are called Bolid, the tower, by the tribes of [[place-wlqtrrgn|Volketor]], and it is the one word of theirs for a city they never saw standing. The [[place-hekardesert|Desert of Hek'ar]] has buried it to the second story: a mile-wide rectangle of low dunes with an even, rectilinear shape, and at its center a single tower top, thirty feet of cracked brick, standing out of the sand with a lamp-chamber's black ring around its crown. [[affiliation-blackflame|The Black Flame]] calls the city Arkor, and that name is the one on every map in the [[place-eastrnmrch|Eastern March]].
 
@@ -42,7 +42,7 @@ The Blazing Oath has a camp near the tower under [[being-drzhvzhnr|Drazha Vezhnu
 - **Passage for everyone.** The tribes of the Volketor sell passage to every faction with riders for each, and a party that buys it learns who else has.
 - **Tower-glass.** The lamp-chamber of the tower holds the clearest ground lenses anyone has seen, and the factors at [[place-qisomrktcmp|Qiiso]] pay for a lens without caring what the knights are looking for.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hekardesert|Desert of Hek'ar]]
 : the desert that buries the city

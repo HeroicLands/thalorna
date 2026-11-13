@@ -17,7 +17,7 @@ data:
   notes: "Town"
 ---
 
-## Overview
+## Overview {#overview}
 
 A bundi walks into Tvalgard from his farm still carrying his own bread, and the rotation puts him on the wall to be standing there when the man beside him is not, not to win. Nine hundred people live behind Tvalgard's timber-and-earth rampart, on the last defensible ridge before the burned ground that marks the [[place-grkrhlmrgn|Grukar]] frontier, and the rotation that fills the wall is why the town fills and empties with the seasons.
 
@@ -35,7 +35,7 @@ The hall is said to hold [Vrellbrandur]{.name data-type="weapongear"}, the blood
 
 Tvalgard's one argument with itself is whether a border town this grim can also be a capital. The [[affiliation-kingdmtrgd|Kingdom of Targud]] has answered it the only way it knows how: by making the wall the capital's whole point and building nothing around it that does not serve that wall.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmtrgd|Kingdom of Targud]]
 : its seat and the king's hall

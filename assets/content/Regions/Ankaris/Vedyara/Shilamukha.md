@@ -19,7 +19,7 @@ data:
 
 **Shilamukha** is a quarry village at the rock face above [Upper Suvargeri]{.name data-type="place/site"}, in the [[place-suvargerijnpd|Suvargeri Janpoda]]. Its quarry cut the stone of all three great temples. The three temples are kept equals by the constitution, and all three are cut from one rock face.
 
-## See Also
+## See Also {#see-also}
 
 [[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land

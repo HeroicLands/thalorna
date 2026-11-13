@@ -16,7 +16,7 @@ data:
   notes: "The sanctuary in an eastern river valley of Kalihara's Bowl, among the terraces, where the custodians who tend the works of the terraces, the rain and the lake are trained."
 ---
 
-## Overview
+## Overview {#overview}
 
 Mirthaan is the sanctuary of the [Ithakan]{.name data-type="affiliation/order"} in the eastern river valleys of [[place-klhrbowl|the Bowl]], among [[place-klhrestrrc|the Eastern Terraces]] and below [[place-klhrcldpss|the Cloud Pass]]. It trains the custodians of the works the island's food depends on: the village works of the terraces, the wind-stones along the crest of [[place-klhrring|the Ring]], on which the storms from the sea break and come down on the Bowl as rain, and the work at the head of [[place-klhrkthrgap|the Kuethori Gap]], which holds [[place-klhrlake|the lake]] to its level. The custodians of the terraces serve the Master of the Terraces, and they go out from Mirthaan to every part of the Bowl where a terrace or a stone needs them.
 
@@ -32,7 +32,7 @@ Mirthaan looks down its valley to the west: terrace below terrace to the shore o
 
 Mirthaan is a day's walk down from the crest of the Cloud Pass, and a day along the terrace paths from the lakeshore. The way to it is open to any Kaliharan of the interior on lawful business, and the terrace households watch it closely. No foreigner has visited Mirthaan.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrestrrc|The Eastern Terraces]]
 : the country the sanctuary stands in

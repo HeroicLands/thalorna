@@ -80,7 +80,7 @@ People facing particular danger from storms visit his temples to make personal o
 
 > Lord of Tempests, your power shakes heaven and earth. I do not ask that you spare me, for I am dust before your fury. Grant me instead the fortitude to endure, and if I must fall, grant that my death not be in vain but serve some greater purpose in your cosmic design.
 
-## Organization
+## Organization {#organization}
 
 The priesthood is smaller and more specialized than those of order-minded gods like [[lore-wethurdty|Weth'ur]] or Qe'aret. The Thaz'Lekhau (High Priest) typically holds both religious and advisory roles at the [[lore-garauu|Gar-Au]]'s court, as a specialist consultant on war, frontier campaigns and crisis management, because his domain reaches past storms into strategic conflict and the chaos of warfare, both understood as the god's disruptive, change-bringing power.
 

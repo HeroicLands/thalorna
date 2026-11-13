@@ -80,7 +80,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: the governance takes the shape of the Inca state on the altiplano: the kin groups are the ayllu, the two halves hanan and hurin, the labor turn the mit'a, the Ts'obmah and Pel'ushmah the decimal officials counted here in twenties, the K'ayalbal the inspectors, the K'otselbal the quipu keepers, the storehouses the qollqa, and the settled kin groups the mitmaq colonists; no title is an Inca word
 ---
 
-## Overview
+## Overview {#overview}
 
 K'ushi Ish'bal holds the land of the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], the cold, thin-aired plateau between the rich valleys of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] and the poisoned threshold of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]. It is a realm of herds, garrisons and one sacred lake, and its priesthood rules it more closely than any lay lord does. Little of its wealth leaves it. The temples take the largest share of the herds and harvests and keep it in their treasuries or spend it in the rites, and the rest goes into the storehouses that outfit the expeditions bound south.
 
@@ -102,7 +102,7 @@ The sacred lake belongs to the priesthood alone. Small ceremonial boats and pilg
 
 The passes and highland routes between the plateau's towns are disputed among their lords from time to time, and the priesthood's ruling usually settles the matter. The garrison towns are held by lords of the Sun's kin, named by the Ts'enmah, and settled by whole kin groups sent up from the valleys of the north, who keep their own dress and their own shrines on the plateau.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]
 : the land K'ushi Ish'bal holds
@@ -118,3 +118,5 @@ The passes and highland routes between the plateau's towns are disputed among th
 
 [[affiliation-itzanpnthn|Itsani Pantheon]]
 : the faith whose priesthood rules the plateau
+
+[[affiliation-wallsworn|The Wall-Sworn]]

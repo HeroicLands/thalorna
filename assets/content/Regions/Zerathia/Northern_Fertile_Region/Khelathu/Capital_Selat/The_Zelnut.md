@@ -18,7 +18,7 @@ data:
 
 The Zelnut is a quarter of [[place-galezkara|Galezkara]] raised among and atop the tombs of dynasties the empire has otherwise outlived. It is half-robbed and squatted rather than planned, a maze of the dead city standing inside the living one. The oldest tombs under it are the kin-tombs of the first houses that ruled from Galezkara, raised in the age of [[lore-akhsunroad|the Sun's Road]]. Nobody who lives here can say with certainty whose tomb their own floor used to be, and most have stopped asking.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The imperial city

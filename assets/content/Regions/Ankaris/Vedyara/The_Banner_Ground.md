@@ -60,7 +60,7 @@ On a rise in the southern part of the field stands a squat stone shrine with a d
 
 The drivers at Ashvapada say that a caravan of three wagons belonging to a cloth factor, [Pallivata]{.name data-type="being/npc"}, went onto the field last dry season and nobody came out of it, and that its guide came back alone.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The caravan on the stones.** A company captain is accused at [[place-sandyapur|Sandyapur]] of driving a caravan onto the field at dusk so that the field would leave its goods for him to collect. The witnesses are dead, the drivers who lived are not sane, and the court needs someone to go and see what is lying past the stones.
 - **The orghunoq's dead.** A Khazrin noble house asks leave to bring its own rites to the field for the steppe dead. Settling half the field might quiet it or might wake it. The Bhumipal court must decide whether ending the curse is worth losing its most useful weapon against raiders, and the companies have made their view plain.
@@ -68,7 +68,7 @@ The drivers at Ashvapada say that a caravan of three wagons belonging to a cloth
 
 [[scenario-lastwagonadv|The Last Wagon on the Banner Ground]] gives the first of these as a five-scene adventure.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-marupalfl|The Fall of Marupal]]—the battle that made it
 - [[place-ludrapur|Ludrapur]]—the capital the host burned after it

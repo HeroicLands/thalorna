@@ -48,7 +48,7 @@ The watch-priests who hold the ground above the old tombs are the people the hun
 
 What the necropoli still hold is either published for scholarship or sold, and the fellowship does not choose between the two. A hunter who means to publish should find the watch-priests before the tomb. A hunter who means to sell should expect the same watch-priests to find him.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the region it belongs to

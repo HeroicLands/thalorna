@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 **The Capital Selat** is a single province, and an enormous one: the selat around [[place-galezkara|Galezkara]], the imperial city and seat of the [[lore-garauu|Gar-Au]]. Every other selat is governed by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who answers to the throne from a distance. The Capital Selat's Halzi'a serves at the Gar-Au's direct pleasure and is, in practice, a senior officer of the court rather than an independent lord. The land the selat holds is [[place-galezkaraslt|Galezkara Selat]].
 
@@ -84,11 +84,11 @@ The Capital Selat is the empire's center of gravity and the natural stage for hi
 
 Adventure here is courtly and uncanny by turns—palace conspiracy and poisoned successions, the Genzet'Palu's mediators trading in secrets, the high priest of [[affiliation-uqaa|Uqa'a]] weighing dynasties, embassies from the [[affiliation-vylarinmpr|Vilérian Empire]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] working the court, and, across the river, the necropolis underworld of tomb-robbers, curse-wards, embalmers' guilds and the things said to walk the bank of the dead. Power, gold, ritual and watching eyes are abundant. Privacy is scarce, and so is an honest word.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Capital Selat uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and it is the hub of the system. The gezan-and-qelu weight standard is set and attested here, the chief [[affiliation-garhalzi|Gar-Hálzi]] treasuries keep their great vaults in the capital, and the tribute and taxes of the whole empire are reckoned and stored within the selat.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the empire

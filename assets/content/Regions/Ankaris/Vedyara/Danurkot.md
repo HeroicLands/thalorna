@@ -33,7 +33,7 @@ The [[affiliation-rasikara|Rasikara]] shrine stands outside the walls on the dow
 
 Its priests are of the janpoda and are not of the Mahajaya temple. The two establishments deal with each other at arm's length and have done so for a very long time.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-dnrktjnpd|Danurkot Janpoda]]
 : the temple-republic seated here

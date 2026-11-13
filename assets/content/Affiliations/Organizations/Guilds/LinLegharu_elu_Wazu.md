@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Legharu elu Wazu** is the alliance of alchemists of [[place-wazulet|the Wazulet]] who hold no patron among the great houses, bound together for want of one. It defends the standing of a patronless alchemist against houses that would rather deal only with their own retained practitioners. A member who later wins a patron's favor is expected to keep faith with the alliance, and most do.
 
@@ -54,7 +54,7 @@ The alliance's quarrel is with the great houses, which prefer to deal with their
 
 Say a house needs a compound prepared at short notice and its own alchemist is away. The steward sends to the Wazulet for a patronless alchemist, takes the work, and pays. The house would never admit the arrangement, but the alchemist's standing grows with every commission that shows up in the house's accounts. When a house withholds a commission, the alliance is what steadies the member who lost it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-wazulet|The Wazulet]]
 : Where the alliance's alchemists work

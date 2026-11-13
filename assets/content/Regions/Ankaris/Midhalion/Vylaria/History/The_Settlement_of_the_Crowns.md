@@ -119,7 +119,7 @@ The Aureldian kingdoms and the Bizarian League became what every commerce sectio
 
 Provénzia's Charter was tested within a lifetime, in a succession war the Empire watched from outside ([[lore-warprinces|The War of the Princes]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The post-imperial commonwealth.** The phrase in every Aureldian and Bizarian commerce section.
 - **The two-percent fee.** The Empire's largest standing revenue from lands it does not govern.
@@ -127,7 +127,7 @@ Provénzia's Charter was tested within a lifetime, in a succession war the Empir
 - **The unpaid forts.** Hereditary commanders in the Hellád who file a yearly report and wait for an answer ([[place-unpaidfort|The Unpaid Fort]]).
 - **The chancery's silence on the Kervaron.**
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-charterwar|The War of the Charter]]—the war the Settlement ended
 - [[lore-warprinces|The War of the Princes]]—Provénzia's first test of the Charter

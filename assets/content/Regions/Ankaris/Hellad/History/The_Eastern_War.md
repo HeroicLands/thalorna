@@ -76,7 +76,7 @@ The Orzas annexed the League as a province by edict. The edict dissolved [[lore-
 - **The [[skill-semrnscrpt|Semaron]] ledgers and [[lore-commoncal|the Vilérian Calendar]]**, which the province keeps for the rest of its imperial age.
 - **The "formal conquest"** of the Tevran Maldor's account, which dates to this war and to no other.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-heladcitadel|The Siege of the Silver Citadel]]—the longest siege of the war
 - [[lore-heladcompact|The Compact of the Five]]—the pact the edict dissolved

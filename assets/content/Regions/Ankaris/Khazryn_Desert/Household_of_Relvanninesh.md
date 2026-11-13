@@ -71,7 +71,7 @@ A party that comes up the line of glass rods from Ashkarad meets the steward at 
 
 - **The midwinter silver.** For the first time in living memory the household's silver has not reached Amradad. Nimeshai of Ashkarad sends the party to the palace with a letter for his kinsman, and wants to know what answer the prince gives, and whether he gives one at all.
 
-## See Also
+## See Also {#see-also}
 
 [[place-relvanninel|Relvanninesh]]
 : the palace the household governs

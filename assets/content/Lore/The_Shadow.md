@@ -20,7 +20,7 @@ Every undead is related to every other through that connection, across every bel
 
 Asguardian teaching holds that the gods are not proof against it: a god who tampers with the Shadow or studies it is touched by it, and nearly every god who has done so is at least partly insane from the contact. Among the [[affiliation-asguardian|Asguardian gods]], [[lore-nahilddty|Nahild]] draws on it openly through [[lore-ginnauga|Ginnauga]], the Eye of the Void, a powerful source of the Shadow, and her need to gaze into the Eye drives her deeper into madness.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-ginnauga|Ginnauga]]
 : the Eye of the Void, Nahild's relic and a source of the Shadow

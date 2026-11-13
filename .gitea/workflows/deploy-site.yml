@@ -54,6 +54,7 @@ jobs:
             - name: Build the selected site
               env:
                   BUILD_ROOT: ${{ steps.select.outputs.root }}
+                  NODE_OPTIONS: --max-old-space-size=6144
               run: node_modules/.bin/package-build site build --root "$BUILD_ROOT"
             - name: Validate and stage the complete page tree
               run: |

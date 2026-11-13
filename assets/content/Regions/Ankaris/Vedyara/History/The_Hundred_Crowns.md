@@ -34,7 +34,7 @@ Shikhalaya
 
 About 312 AF Chendrapur's temples refused to crown the dead king's son, and the nine great cutting houses brokered a cousin onto the throne on their own terms ([[lore-moonsettle|the Moon House Settlement]]). Three years later a steppe host came round the western end of the wall, and [[lore-hardgenrtn|the Hard Generation]] began.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-agecopyists|The Age of Copyists]] · [[lore-hardgenrtn|the Hard Generation]]
 : the ages on either side

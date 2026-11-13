@@ -15,7 +15,7 @@ data:
   government: selatkhelntz
 ---
 
-## Overview
+## Overview {#overview}
 
 Every spring the flood goes down and takes the boundary stones with it, and the scribes of [[place-khelenetzu|Khelenet-Zu]] go out to put them back.
 
@@ -37,7 +37,7 @@ The selat runs on the flood, the harvest and the render like every [[lore-khelat
 - The chief temple of the [[affiliation-qearet|Faith of Qe'aret]] and its estates
 - The old assize-courts and the survey scribes' rolls they judge by
 
-## Settlements
+## Settlements {#settlements}
 
 Khelenet-Zu (~32,000)
 : the selat capital and the seat of the Halzi'a.
@@ -45,7 +45,7 @@ Khelenet-Zu (~32,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatkhelntz|The Selat of Khelenet-Zu]]
 : The selat that holds this land

@@ -14,7 +14,7 @@ The tradition ties the fate of both worlds to the tree. While it stands, both st
 
 The rune-priest's line stops where agreement stops. How many roots the ash puts down, and what lies beneath them, are questions on which the rune-priests and the skalds disagree, and a child who asks is told which hall teaches which answer.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aldarlok|Aldarlok]]
 : the close of the age, when the ash burns

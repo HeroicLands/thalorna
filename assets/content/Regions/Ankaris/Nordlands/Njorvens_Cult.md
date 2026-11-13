@@ -49,7 +49,7 @@ As Njorven's influence grows, some coastal clans begin to abandon the [[affiliat
 
 The cult's tellings of its god are the most confident anyone gathers and the least consistent. The skalds who collect them say every telling disagrees with the last on everything but one thing, and that thing is the cold.
 
-## See Also
+## See Also {#see-also}
 
 [[being-njorven|Njorven]]
 : the Sea Wraith the cult venerates

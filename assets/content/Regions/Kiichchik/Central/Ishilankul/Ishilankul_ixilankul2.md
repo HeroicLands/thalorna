@@ -18,7 +18,7 @@ data:
 # terran_analog: Tenochtitlan as the city of the huey tlatoani, with its palace storehouses and the tribute rolls of the Codex Mendoza; the summit houses are this city's own
 ---
 
-## Overview
+## Overview {#overview}
 
 Ish'ilankul goes dark at night as no other city on the plateau does. No fire burns on its temple summits after sunset. Each pyramid is crowned instead by a small square house of white plaster with narrow slots cut through its walls, and on every clear night a priest sits in each one with his eye to a slot and a tally-cord across his knees. Ish'ilankul, the Seat of the Stars, takes its name from those summit houses. It is a city of about 150,000 people in the central valleys of the [[place-ixilankulrgn|Ish'ilankul Region]], the largest on the plateau, and the seat of the realm of [[affiliation-ixilankul|Ish'ilankul]]. Its Ts'enmah is the Q'emulmah, the first of the Sun Lords, and the other cities of the plateau send their tribute here.
 
@@ -54,7 +54,7 @@ Ish'ilankul is the greatest trading city of the heartland. Obsidian from the vol
 The tribute rolls show every subject town paying in full, and they are false. Three towns in the eastern valleys have been short in maize for two years running after poor rains, and a short count read out in the Court of Tribute would tell the temples that the Q'emulmah's hold is slipping, two years before the conclave. The Ch'ikalmah has the stewards enter those towns' dues as paid and makes up the difference from the city's own granaries at night. The granaries hold far less than the palace believes, and the city's own maize is enough for one bad dry season, not two. Two scribes of the Court of Tribute know, and one of them owes money in [[place-tsamash|Tsa'mash]].
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixilankul|Ish'ilankul]]
 : the realm, its Sun Lords and its two authorities

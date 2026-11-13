@@ -133,7 +133,7 @@ To the **east** lie the passes to Tantsou, where the tribes of Idvaqor sell the 
 
 To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vristwald]], nearly a thousand miles off. Contact is sparse, since the [[lore-varokhiclt|Varokhi]] forest tribes have little use for open steppe, but the few routes across Velanthia carry a trickle of furs, amber and Khazrin silver, with horses going the other way. The hunters of Ghotaqor and the northeastern Varokhi keep the only continuous contact between the two.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-celestialroad|The Celestial Road]]—the caravan road to Tantsou
 - [[lore-ownedoasis|The Owned Oasis]]—a tribe's small spring, and the stranger who finds it

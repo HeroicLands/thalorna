@@ -43,13 +43,13 @@ The lineages did what the plateau's herd-owners can do and nobody else in [[plac
 
 At the next accession the oath every Maharava swears gained a clause. The oath had always said the crown holds the wells and the droveways and does not adjudicate grass. It now says, after that, that the crown holds no lineage's well in its own hand. Every Maharava has sworn it since.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The clause**, recited at every accession on the circuit.
 - **The pledge on the person.** The lineages took to keeping a well's pledge, the token of the lineage's title, on the body of the lineage's head and not in the standing camp's record. The great lineages still do.
 - **The second half.** The guarantee half of the bargain held for another century and a half, and then broke too ([[lore-emptycrct|the Second Breaking and the Empty Circuit]]).
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-gomarga|Gomarga]]—the kingdom of the cattle-roads
 - [[lore-fieldelephnt|The Field of Elephants]]—the war the wells paid for

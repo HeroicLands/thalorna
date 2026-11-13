@@ -19,7 +19,7 @@ data:
 # terran_analog: the obsidian sources and workshops of the central highlands, and the warrior houses of a Mexica city; the name copies no Nahuatl or Maya place
 ---
 
-## Overview
+## Overview {#overview}
 
 The streets of Ishtal'hun glitter. Chips of black glass lie in the dust of every path, swept out of the knappers' yards and ground in by feet, and a newcomer learns on the first day to walk in sandals with thick soles. Ishtal'hun, the Place of Obsidian Blood, is a city of about 45,000 people on the eastern spine of the [[place-ixilankulrgn|Ish'ilankul Region]], built up the slopes of a valley under a long ridge of volcanic glass. It is one of the city-states of [[affiliation-ixilankul|Ish'ilankul]], and it makes two things that the whole plateau needs: obsidian, and warriors who take their enemies alive.
 
@@ -45,7 +45,7 @@ The next [[lore-itsaniclndr#round|Living Flame]] falls in two winters, and every
 The ward has taken more orders than the black glass of the lower quarry face can fill. Its masters are finishing some of the mirrors from the gray glass of the upper face, which looks the same when rough and takes a lesser polish. A mirror of gray glass throws a weaker spot of sunlight, and it takes much longer to light tinder at dawn than a black one. A Master of the Living Flame who tests his mirror against the noon sun before he accepts it can see the difference. The grinders know which cities' mirrors are gray, and are delivering those to the farthest cities first.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tsumulob|The Blood-Workers]]
 : the warrior-priests whose training ground is here

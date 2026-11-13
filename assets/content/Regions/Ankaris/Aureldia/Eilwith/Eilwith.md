@@ -363,3 +363,5 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 
 [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
 : a scenario set here
+
+[[place-nethermootholw|Nethermoot Hollow]]

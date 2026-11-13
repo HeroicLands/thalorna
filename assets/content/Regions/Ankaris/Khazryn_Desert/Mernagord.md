@@ -17,7 +17,7 @@ data:
   notes: "The largest oasis still ruled by a Tellumi prince, at the western end of Tellumel by the salt pans and the Western Descent, and the first city a caravan meets coming over the range."
 ---
 
-## Overview
+## Overview {#overview}
 
 **Mernagord** is the sixth of the seven Tellumi cities in the order of their founding, at the western end of [[place-swoasisbelt|Tellumel]], where the last foothills of [[place-graznmntns|the Grazian Mountains]] come down to the belt and the road over [[place-wstrndscnt|the Western Descent]] ends. About thirty thousand people live in the city, and some one hundred and ten thousand more in the gardens, salt-works and villages of the oasis country round it. It is the largest of the three Tellumi cities still ruled by their own house, and the nearest Tellumi city to the lands of the west.
 
@@ -44,7 +44,7 @@ Atarzád merchants have sounded Hemvanai out about a trade compact. The exile ho
 - **The ancestral peaks.** The older genealogies root the houses in named peaks above the Descent, and a family with a dispute over precedence would pay to have a peak climbed and a claim proved. The upper slopes are cold, steep and unmapped.
 - **The pans.** The salt-lake is a white glare in summer, and the crust over the brine will bear a camel in the morning and not at noon. Workers lost to it are not recovered.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the council of the seven houses

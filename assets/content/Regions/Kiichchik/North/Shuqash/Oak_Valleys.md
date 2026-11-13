@@ -17,7 +17,7 @@ data:
 # terran_analog: the Central Valley of California with the inner Coast Ranges and the Sierra Nevada foothills, the country of the Yokuts, Salinan and Miwok, with its tule marshes and lakes and its oak savanna
 ---
 
-## Overview
+## Overview {#overview}
 
 The Oak Valleys (_tulish lumuq_) are the inland country of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People, behind the coastal mountains of [[place-northkiichchik|Northern Kì'ìch'chik]]. They are oak savanna on rolling foothills, around a great flat valley of reed marshes, lakes and rivers that runs north and south for weeks of walking, with a wall of snow mountains on its eastern side. About 120,000 people live in them, in hundreds of villages of a few dozen to a few hundred people, and they live on acorns.
 
@@ -41,7 +41,7 @@ A village stands where a stream leaves the foothills, with its domed houses, its
 
 The Oak Valleys pay no Northern Strand and have no watchers on headlands. Since the [Pointing]{.name data-type="lore/history"}, when a coast chief's herald guided the Cedar People's war canoes up the rivers, the villages have kept watch fires on the ridges above the rivers. When war canoes are seen coming up from the bay, the fires are lit one after another down the valley, and the villages carry their children and their seed acorns into the hills. The fires were first set by [Kowiqnaq]{.name data-type="being/npc"}, Acorn Seed, a basket maker of a village near Tulishwil, and the valleys still light them in her name.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People of the coast and the valleys

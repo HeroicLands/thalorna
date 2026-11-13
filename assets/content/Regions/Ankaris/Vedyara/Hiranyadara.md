@@ -23,7 +23,7 @@ The panning ground is a half-mile of gravel bar and pool. It is worked from the 
 
 A sabhra guard of twenty men is quartered at the head of the village the year round. They are there for the road rather than for the water, and everybody in the village knows the difference.
 
-## See Also
+## See Also {#see-also}
 
 [[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land

@@ -15,13 +15,13 @@ data:
   notes: "A farm-and-market village of the Capital Selat, within a morning's water of Galezkara and bound to its granaries"
 ---
 
-## Overview
+## Overview {#overview}
 
 "Miss the morning passage and you have lost the day," the wharf-keeper at **Amqel-Agefu** says without looking up from the barge she is loading.
 
 The village sits in [[place-galezkaraslt|Galezkara Selat]], a morning's passage upriver from [[place-galezkara|Galezkara]], and it lives by two callings that are really one. Its fields are worked for the capital's granaries, and its wharf does a market trade of its own with anyone the river brings past. The village keeps its hours by the water and not by the sun.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkaraslt|Galezkara Selat]]
 : The selat country that holds it

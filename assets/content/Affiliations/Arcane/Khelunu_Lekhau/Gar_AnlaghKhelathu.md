@@ -62,7 +62,7 @@ The Canal-Reader works the formulae that hold a bank, clear a channel or read th
 
 The **Black Land** has a partner in the tradition: [[affiliation-gargezrulutu|Gar-Gezru'lutu]] holds the Red, and the flood that makes the one is measured against the other every year.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-anlaghkhlth|Anlagh'Khelathu]]
 : the domain

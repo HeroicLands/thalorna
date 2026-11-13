@@ -39,7 +39,7 @@ The protection is conditional: it holds only while the work never reaches the ro
 
 The prelate is the brother of [[being-zedimazenoth|Zédima Zenothis]], Ostaran's mother. Neither of them states the kinship.
 
-## See Also
+## See Also {#see-also}
 
 [[place-grttmplrdvn|The Great Temple of Árdavon]]
 : the temple that trains the faith's priests

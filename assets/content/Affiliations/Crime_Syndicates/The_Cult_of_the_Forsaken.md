@@ -142,7 +142,7 @@ This structure has consequences. It makes the cult extraordinarily resistant to 
 
 Breaking with a cell is rare. Those who join do not usually leave, and one who does is exposed on both sides at once: the irreversible act that admitted them has already destroyed any standing in the mainstream order.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-haluozhao|Ha Lwo Zhau]]
 : The Black Lotus Society, the cult's transactional ally

@@ -17,7 +17,7 @@ data:
 # terran_analog: the Yukon-Kuskokwim delta of western Alaska, with its thousands of lakes and its river villages, rising inland to the spruce forest of the Athabaskan country
 ---
 
-## Overview
+## Overview {#overview}
 
 The Lake Tundra (_taluq napiq_) is the hinterland of the [[place-tikumanikrgn|Ice Coast]], a delta as wide as a small kingdom where two great rivers come down to the sea through hundreds of channels. It is the country of the river villages of the [[affiliation-tikupilarit|Tikupilarit]], the Ice-Edge People, in [[place-northkiichchik|Northern Kì'ìch'chik]]. About 18,000 people live on it in some eighty villages, all of them on the riverbanks, because the river is the only road.
 
@@ -37,7 +37,7 @@ A river village stands on the highest bank of its channel, a men's house and a r
 
 The river villages trade dried fish, bird skins, caribou hides and grass mats down to the coast at the Messenger Feast, for seal oil, ivory and walrus hide, without which a river household cannot light its lamps or make its boat lines. In spring the forest hunters bring caribou hides, wolverine and marten fur and birch bark up to the edge of the tundra and trade them for oil and dried fish. Neither side speaks the other's tongue, and the trade is done with signs.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tikupilarit|Tikupilarit]]
 : the Ice-Edge People, whose river villages these are

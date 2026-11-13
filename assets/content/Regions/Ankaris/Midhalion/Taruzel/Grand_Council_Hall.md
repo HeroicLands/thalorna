@@ -8,7 +8,7 @@ tags: [taruzel, besikar, government]
 data: {demonym: null, lore: [], parents: [besikar2], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Grand Council Hall stands at the head of the merchant quays of [[place-besikar2|Besikar]], where the Guild Quarter meets the harbor road, and it was built to count money. It is the old imperial customs-house: a long hall of gray stone behind a colonnade of twelve columns, raised on a broad flight of steps above the quay so that the carts could unload at its doors. A pediment over the colonnade once carried the device of the empire, and the device has been cut away with chisels, leaving a rough patch of pale stone in the gray. The [[affiliation-grandcouncil|Grand Council]] of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] sits here twice a year.
 
@@ -43,7 +43,7 @@ The Hall was the imperial customs-house of Besikar, where the empire's collector
 - **The last afternoon.** [[being-zlmrzzn|Zilmar Ezzinu]] wants a party at the rail for the whole session, to count how many councilors are still on their benches when the petition is read.
 - **The copyist's fee.** A freeman who paid the copyist's fee for his petition has been given a number and nothing since, and he wants a party to learn whether [[being-dnshkmn|Danashu Kumuni]] has ever seen it.
 
-## See Also
+## See Also {#see-also}
 
 [[scenario-mnthbfrrvw|The Month Before the Review]]
 : the campaign frame of the veterans and the summer session

@@ -40,7 +40,7 @@ The gorge-folk are not one of the four traditions of the [[lore-bikoclt|forest p
 
 Gorge-folk are the tallest and broadest of the forest peoples, and their skin is the darkest, from deep brown to ebony. Carrying builds shoulders and legs, and faces are smooth. Dress is bark cloth and woven fibers worn short for work, with cloth and metal rings from the northern trade worn for gatherings.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-bikoclt|Biko]]
 : the forest peoples

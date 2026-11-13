@@ -57,7 +57,7 @@ A personal name is granted only to a Wohou of exceptional service, usually for a
 
 In the [[lore-phlsphyleiwo|Leiwo]] framework the Wohou are the enforcing Lei of the empire: the power that keeps classifications in place by force, exercised through disciplined martial practice and service to the realm.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : detailed rights and restrictions for Wohou

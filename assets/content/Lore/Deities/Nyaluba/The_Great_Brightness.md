@@ -30,7 +30,7 @@ The Lobwezi and Ngonzi griots tell how the Brightness came differently, and neit
 
 Neither clan has ever brought the difference to the [Great Lubemo]{.name data-type="affiliation/governmental"}: a question about something nobody talks to is not one the Pact needs answered.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nyalbsprts|Nyáluba Spirits]]
 : the guides beneath the Brightness, and the three postures

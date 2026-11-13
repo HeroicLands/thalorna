@@ -36,7 +36,7 @@ data:
 sohl: {system: {commonSkills: [provnzlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Council of Peers is the council of the greater nobility of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], and it sits with the king at [[place-jalnazdal|Jalnasdal]]. The [[lore-chrtrrghts|Charter of Rights]] binds the king to take its counsel, and in practice its counsel is required on three things: war, the great offices and the crown's grants of land and office. A levy needs the estates' consent, and the crown asks for it in the Council, where the deputies of the chartered cities come to give or refuse it. The Council has no word on the succession, which the Charter never settled.
 
@@ -83,7 +83,7 @@ Nobody petitions the Council directly. A petition reaches it through a Peer who 
 - **One more voice.** [[being-velzoreaitv|The Count of Atavel]] needs one Peer to take the office of First Peer, and the [[being-avaarlzlvrn|Earl of Hárivren]] has not declared.
 - **The writ.** [[being-itrolaldrvn|The Princess of Gefavel]] needs a sight of Vélarik III's writ of resumption before her petition is heard.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : the realm the Council counsels

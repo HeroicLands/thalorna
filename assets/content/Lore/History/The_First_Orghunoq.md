@@ -68,7 +68,7 @@ The tribes of the [[place-khzryndsrtrgn|Khazrin]] are independent, each under it
 
 The union put one demand to every city of [[lore-towercities|the Tower Cities]] (the Tower League): pay tribute for the road. The league's charter forbade it, and the cities that refused were taken one after another. Jilaq, the chief city, held a season behind its ring wall and fell in a day and a night. The riders took the stock and the glass and rode out. They laid out none of the dead and spoke no names, because the league's dead were strangers to every rite the riders kept.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The field.** Jilaq is a thin blood-field, and the road bends three days south round it.
 - **The wells.** With the cities gone, the wells of the road passed to the tribes whose grazing they stand on. The tribes keep them and sell passage, tribe by tribe.
@@ -76,7 +76,7 @@ The union put one demand to every city of [[lore-towercities|the Tower Cities]] 
 
 The union broke up when its orghun died, and the tribes went back to their wells.
 
-## See Also
+## See Also {#see-also}
 
 [[place-jilaq|Jilaq]]
 : the city it killed

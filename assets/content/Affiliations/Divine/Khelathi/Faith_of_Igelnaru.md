@@ -62,7 +62,7 @@ The rest of the faith follows from the kill. The god's due comes off the animal 
 
 The villages along the banks, the lay faithful, keep the river's observances and pay for the hunt with a share of what it takes. Those sworn to the water may strike at the quarry. Anyone refused the river-rites is refused the river: no boat launches with them aboard, and no hunt goes out in their company.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-igelnarudty|Igelnaru]]
 : the god

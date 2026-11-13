@@ -26,7 +26,7 @@ A hall that teaches concealment and declines to say whom it works for draws the 
 
 The sabhra has never inquired. The four reserved seats include the Hidden String's, and the master has voted on every military question of the last thirty years.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bowfort|The Bow-Fort]] · [[place-danurkot|Danurkot]]
 - [[place-highdraw|The Academy of the High Draw]] · [[place-swifthand|the Academy of the Swift Hand]] · [[place-patienteye|the Academy of the Patient Eye]]

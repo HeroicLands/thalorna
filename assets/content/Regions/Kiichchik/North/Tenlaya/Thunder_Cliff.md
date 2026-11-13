@@ -20,7 +20,7 @@ data:
 # terran_analog: Head-Smashed-In buffalo jump in the Porcupine Hills of Alberta, with its gathering basin, drive lanes of stone cairns, kill site and processing camp below the cliff
 ---
 
-## Overview
+## Overview {#overview}
 
 From the camp below the cliff you hear the herd before you see it: a low rumble out on the plain above, growing louder, and then the shouting, and then the first animals come over the edge against the sky and fall thirty feet onto the bones of every herd before them. Kunton Toshe, Thunder Cliff, takes its name from that sound. It is the greatest drive on the [[place-wehioshtergn|Cairn Plain]] and the greatest on the plains of the [[affiliation-tenlaya|Grass People]]: a sandstone cliff at the head of a river valley in the foothills, where four drive lanes meet. For a month each autumn about 2,500 people from four or five bands camp in the valley below it, and the rest of the year nobody lives there at all.
 
@@ -46,7 +46,7 @@ The herds have been thin this year. Mahintayu has said that the herd went back u
 
 Among the Cairn band's lodges this autumn is a contrary (_kewitaka_), [[being-kuntonsawi|Kuntonsawi]], Thunder Runs, a young man who dreamed of the Thunders in the spring. He says yes for no and no for yes, washes in dust and dries himself in the river, walks backward into the camp and shivers in the sun. Everyone at the drive watches him, because a contrary is one of the Thunders' people, and when he said loudly, on the first day in the valley, that the herd would certainly come and the drive would be a great success, nobody knew how to take it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-wehioshtergn|Cairn Plain]]
 : the high plains of the drive lanes

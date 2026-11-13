@@ -32,7 +32,7 @@ The money that arrives by this route is not spent here. It buys winter grain, sa
 
 Tsokhar keeps a watch on its approaches through the open months, which no other village on the wall does. The Osket describe this as a precaution against weather.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-meghadvar|Meghadvar]] · [[place-gudesroad|the Guides' Road]] · [[affiliation-osketguides|the Osket]]
 - [[place-oskhelt|Oskhelt]] · [[place-wstrndscnt|the Western Descent]]

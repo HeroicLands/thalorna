@@ -22,7 +22,7 @@ data:
 
 About 2650 ST (540 AF), [Meqes VI]{.name data-type="being/npc"} ordered the houses that held the river-front carried outward so that his own house could raise its Way at the head of the death-road ([[lore-greatremovl|the Great Removal]]). The kings came out of their tombs with their grave-goods, were carried past the last Way, and were set down in long galleries cut for them in the rock, each king behind his own door, with his name above the lintel in the order the old Way had kept. The galleries are the work of one decade and look it: the same plain cut, the same low roof, the same door in a hundred rooms.
 
-## What Is There Now
+## What Is There Now {#present}
 
 A Removed King is cared for only as long as someone pays for it. The endowments that were to keep the galleries swept, lit and guarded were set up by the houses that were removed, and a house that has dwindled, or been forgotten, or fallen into disgrace, stops paying. The restoration guilds that keep the river-front Ways immaculate work here for the few houses that still send a stipend. Beyond those doors the rooms are dusty, the gilding is flaking, and the lamps are out.
 
@@ -37,13 +37,13 @@ Some of the doors have been opened and resealed. The seals are not always the te
 - **Descendants of the old houses,** who want their king back at the river, or their name restored over his door, or only to see where he was put.
 - **Scholars,** who read the lintel-names to reconstruct the order of the oldest houses.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The wrong king.** A mummy in the galleries is labeled with a king who is not the one in the wrappings, and two houses' claims to land rest on which king he is. One of the claimants has a robber's key to the gallery and a reason to want the answer before the other learns the question.
 - **The map.** The guild that moved the kings kept a record of what it carried out and what it did not, and a man with no name and a sum of money has begun asking after it.
 - **The lamps.** Someone is lighting the lamp before one door that no one pays for. The guard would like to know who.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-greatremovl|The Great Removal]]
 : why the kings were moved

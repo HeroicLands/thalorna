@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Zethu elu Reth'Sa'ar** is the network of scribal schools maintained under the patronage of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], taking in pupils from across [[place-aukhelathrgq|Au'Khelathu]] on ability rather than birth. The schools train the administrators the imperial state runs on, so a pupil who completes the course has a route into the bureaucracy regardless of family standing. They are the empire's meritocratic engine, and a noble house that cannot place a son in them increasingly finds itself outcompeted by families that can.
 
@@ -58,7 +58,7 @@ The schools produce the administrators the imperial state runs on. Their course 
 
 Take the schoolmaster's question seriously. A child admitted on ability has a path no inheritance can buy, and a child who cannot learn has no path the school can open.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-rethsaardty|Reth'Sa'ar]]
 : The patron god of the schools

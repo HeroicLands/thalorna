@@ -40,7 +40,7 @@ Inside the Order the machine is an argument. Its Traditionalists hold that the O
 - **The reformer's line.** The reformer's seat at the strongroom audit of [[affiliation-tarmex|the Tarmeks Orzan]] wants the Orrery's cost before spring, and asks a party to learn it from someone in the palace who has carried the Magi-Artificers' lamps.
 - **The night visit.** A Magi-Artificer of [[affiliation-ordoarcanis|the Thordimalon]] who keeps the machine wants a party to stand guard in the shut hall while he works, and does not want his own Order to know he is there.
 
-## See Also
+## See Also {#see-also}
 
 [[place-palvar|Palvar]]
 : the palace that houses it

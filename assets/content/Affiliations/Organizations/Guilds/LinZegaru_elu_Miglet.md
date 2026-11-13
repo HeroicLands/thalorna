@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Zegaru elu Miglet** is the cooperative of the farming households of the northern selats of the **Lower Delta**, formed to bring grain to market on their own terms and not a factor's. It pools the harvests of many small holdings into shipments large enough to bargain with buyers directly, which cuts the factor out of the sale. A household that stays outside sells at the factor's price.
 
@@ -54,7 +54,7 @@ The factors are the cooperative's rivals, cut out of the sale of its grain. The 
 
 Say forty households bring their harvest to the delta landing after the harvest. The grain is weighed and entered under each household's name, and the whole is loaded as one shipment. A buyer from the capital bargains for the lot with the households' spokesman, and the price is set once, for everyone.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-guldsthlrn|The Guilds of Thalorna]]
 : How guilds are organized across the realms

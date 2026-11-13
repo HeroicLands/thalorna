@@ -20,7 +20,7 @@ data:
 # terran_analog: a St. Lawrence Iroquoian village such as Stadacona, after the European voyages along the Gulf of St. Lawrence
 ---
 
-## Overview
+## Overview {#overview}
 
 Tsiorhenten means the Dawn Place, and it can no longer see the dawn. Until last summer the village stood on a terrace above a cove of the [[place-tsiorhenrgn|Dawn Shore]], facing the sea, where the sun came up out of the water every morning. Then a boat of men out of the sea fell on it, burned the longhouses nearest the shore, killed six people and carried four away. The clan mother [[being-tsiorhensiwen|Tsiorhensiwen]] moved the village a day's walk inland, a year before its fields gave out, to a clearing among spruce hills with no view of the water. A village keeps its name when it moves, so the Dawn Place it still is. About 900 people of the Dawn People live in it, fewer than before the raid.
 
@@ -52,7 +52,7 @@ Only Tsiorhensiwen and the rememberer, [[being-tsihkwakariote|Tsihkwakariote]] o
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-tsiorhenrgn|Dawn Shore]]
 : the eastern shore and the Dawn People

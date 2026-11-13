@@ -55,7 +55,7 @@ The Temple of the Twelve is not the property of any one of the Twelve. It is kep
 - **Ash in the brazier.** A priest of [[affiliation-sacredforge|the Sacred Forge]] who tends the Forge-Lord's niche finds black ash in its brazier at the morning rite, and wants to know who passed the sacristans' night watch before he reports it to the keepers.
 - **The keepers' candidate.** A patron of the Black Flame in [[affiliation-seldan|the Seldan]] hires a party to learn which claimant the Árdavan keepers have promised to stand behind.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-arvon|Arvon]]—the Inner City and the Vanor in which the Temple stands
 - [[affiliation-arldnpnthn|Aureldian Pantheon]]—_the Twelve_, the state religion honored here

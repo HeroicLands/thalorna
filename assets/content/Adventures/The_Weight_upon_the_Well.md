@@ -17,7 +17,7 @@ data:
 
 A dust storm strips the party from its caravan in the [Long Dry]{.name data-type="place/feature"}, and their guide brings them by the stars to the one water he knows: [[place-qelodwatri|Kelodvotri]], an owned spring of twelve palms whose well lies under a stone wrapped in chains. Its owners are two exhausted riders who forbid anyone to go near the well, and their water-warden went down the shaft three days ago and has not come up. Something lives in the cistern under the palms, and every sign the party meets says it is hunting. It is not. It is the true owner of the water, and it is collecting the debt that every tribe of the sand range collects from a trespasser: one person held until the debt is paid, a beast for each skin of water drawn, and the stranger's rope laid by the stone as proof.
 
-## Overview
+## Overview {#overview}
 
 The adventure runs from one dusk to the second dawn. Its clock is thirst: the party arrives with a day's water, the owners' spare skins are nearly empty, and the next water is three days off across open sand. The only water within reach is in the cistern, and the cistern belongs to the [Bodekud]{.name data-type="being/creature"}, one of the [[lore-dreadspawncrtr|Dreadspawn]] that the owners have called a [[being-qelodud|kelodud]] for generations. Their own word for it means "the one who owns the water", and they have forgotten that the word is meant plainly.
 
@@ -36,7 +36,7 @@ The adventure follows the customs of [[lore-ownedoasis|the owned oasis]] through
 | it is not a kelodud, and dry heat stills it                      | the guide's well-lore (Scene Two); the handprints drying to crust (Scene One); its flight from fire (Scene Three)            |
 | its ledge is cracked                                             | the cracked lid (Scene One); the crack in the roof above the pool (Scene Four); the ledge itself (Scene Four)                |
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 The full truth of the spring—what the Bodekud is, the custom it keeps, what it has done this season and what each of the tribe's tellings is worth—is in [[place-qelodwatri#truth|the truth of Kelodvotri]]. In short: the warden drew six skins without asking the owner below, went down on his own rope and fought when he was held, and the custom answered with blood. Four skins are still owed when the party arrives. Every beast the Bodekud takes pays one of them, and it holds one of the debtors alive until the rest are paid. This section covers what that truth does at the table.
 
@@ -82,14 +82,14 @@ Once the reveal lands, the party wants to settle a debt, not win a fight. The wa
 > [!WARNING]
 > A party that has already set its heart on the trap may carry on with it after the reveal. That closes the courteous route for good. Let it, and let the consequences in Scene Five and the Aftermath follow from what the party knew when it chose.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** The caravan's master carries a debt-token of the Kuuyoyur, and a factor in the string has offered the party a share to learn where the tribe keeps its reserve. The storm puts the party at the reserve's door with the factor nowhere in sight.
 - **The mercenary or common soldier.** The party is the caravan's hired guard, and the guard's contract holds them to the string's pack-camels. Four of those camels are with them when the dust lifts, and the contract is paid when the camels reach the hand-off well.
 - **The leader.** The party's captain answers for everyone who was cut off with them: the guide, a drover boy and whatever beasts they kept. Every one of them is the captain's to bring back.
 - **The lone wanderer.** The wanderer has traveled with the caravan to pay off a passage debt and has nothing on the road but the guide's good opinion, which the wanderer will need to reach anywhere at all.
 
-## The Opening
+## The Opening {#opening}
 
 Read or paraphrase:
 
@@ -288,7 +288,7 @@ At dawn on the fourth day, if not before, a dozen riders of the Kuuyoyur come do
 
 **If bypassed, failed or cut short.** A party that never found the shelf is paid from it anyway if it served the tribe: Numaqlun goes down for the jars herself while the eldest pours the tea. A party whose riders both died takes its account to the dozen at dawn without a witness; the riders find the warden's tally-cord in the party's hands and believe it, if the party has not taken from the shelf. A party that left with nothing has still found water, and Gorenghakhiq walks it to the road by the stars.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the debt was paid and the courtesy kept.** The Kuuyoyur pour the first draw back again, and the Bodekud keeps its side for as long as they do. The tribe adds a cut to the oldest palm, beside the builders' figure with the jar, and stops calling the thing below a kelodud.
 - **If the shutter is down.** The Bodekud is shut in its cistern. The Kuuyoyur lose the reserve while they decide whether to open the overflow and keep the courtesy, or let the palms die and dig a new well forty paces off.
@@ -296,7 +296,7 @@ At dawn on the fourth day, if not before, a dozen riders of the Kuuyoyur come do
 - **If the party robbed the shelf.** The tribe has a feud with the party, and every owned water of the Ghoshiqor hears of it by the next season.
 - **Whatever happened.** At the next lidded well on the road, Gorenghakhiq stops the string short of it, ties his cloth to the pole, and pours a little from his own skin onto the stone before he lets the camels drink.
 
-## See Also
+## See Also {#see-also}
 
 [[place-qelodwatri|Kelodvotri]]
 : the spring and the cistern

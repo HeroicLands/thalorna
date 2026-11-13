@@ -85,7 +85,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] has no seat in the Games and no part
 - **The Silver Veil's reputation** as the region's broker, which the Academy has kept since a graduate spoke at the altar.
 - **The Arcane Order's one liking** among the laws of [[place-helionis|Helionis]].
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-heladharbors|The War of the Harbors]]—the war the terms were written to keep small
 - [[lore-firstgames|The First Games]]—the custom of the herald and the dead

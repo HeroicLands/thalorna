@@ -14,7 +14,7 @@ data:
   packFolder: kankul
 ---
 
-## Overview
+## Overview {#overview}
 
 The eastern stair of the westernmost pyramid of [[place-nechakalkul|Ne' Ch'akalkul]] does not begin on the plaza. It begins on the Smooth Step, Pu'talal Ts'elun: a low gray swelling, waist-high at its edge and chest-high at its crown, that comes up out of the limestone at the pyramid's foot. The first cut step of the stair is laid against its far side, and the pyramid's lowest course bends around it. Every other building in the city is square, and the curve in that course is the first thing a visitor's eye catches.
 
@@ -30,13 +30,13 @@ The stone of the city is laid to the Step's shape because there was no choice. T
 
 The court reckoners hold that the Smooth Step is the star's own threshold, laid down for K'inish'ilan to be watched from, and that a sight taken on it cannot err. No reckoner of the city takes the star's dawn sight from anywhere else, and none would let a stranger take one there. The city's other priests honor the Step as part of the pyramid and leave it to the reckoners.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The Warden's peg.** [[affiliation-ishilanshulum|The Star House]]'s Warden of the Sighting Stones checks every observing platform of the realm true at each solstice, by setting a bronze peg and sighting along it. He has sent a sighter to check the Smooth Step. No peg will go into it, the court reckoner will not let the sighter stand on it, and the Warden wants a party to carry his complaint to the Ts'enmah and come back with permission.
 - **One dawn.** A reckoner of [[place-lishepikum|Lishep'ikum]] has come with gifts to take a single dawn sight from the Step and is willing to pay a party to get her onto it before the court reckoner wakes.
 - **The scraper.** A pilgrim was caught at night on the Step with a flint, trying to scrape away a little of it to take home. He took nothing, and he says a priest of the city sent him. The court reckoner wants that priest's name.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nechakalkul|Ne' Ch'akalkul]]
 : the city whose pyramid stands on it

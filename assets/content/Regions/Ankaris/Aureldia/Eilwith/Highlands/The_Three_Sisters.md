@@ -125,7 +125,7 @@ the name means anything.
 
 The herders of [[place-stonyford|Stoniford]] run their horses on the saddle between the peaks in summer, and after heavy rain they turn up iron in the turf: blade-ends, rings of mail, and now and then a worked piece nobody at the fair can name. They sell what they find at the horse fair as curiosities, and a scholar of the [[affiliation-panepistmm|Epistémion]] chapterhouse at [[place-thornbury|Thornburi]] has begun buying every piece before the fair opens. This spring the levy for the frontier is taking the herders north, and fewer of them are on the saddle to find anything, or to watch the runs against the [[lore-grukaraelwyth|Grukar]] of [[place-kingsdelf|Kingsdelf]], the old quarry in the north face of the northernmost peak.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-hallowwood|Seirasto]] · [[place-vorgald|Vorgald]] · [[place-eilwith|Eilwìth]]
 - [[lore-khazarturn|The Fall of Khazartúrn]]

@@ -40,7 +40,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Lem'Thuba'i is the sworn priesthood of [[lore-thubaidty|Thuba'i]], god of the flood and of prosperity, drawn from those trained to read the river and the calendar together. Its priests keep the flood-records that set the planting season and perform the rites by which the year's prosperity is formally asked for. A poor reading from this order unsettles granary stores and tax assessments alike, since both are set against its forecast.
 
@@ -66,7 +66,7 @@ A grain-factor in the river towns reads the Keeper of the Flood-Records' tablet 
 
 The order takes no fee for its readings. It asks for the year's prosperity through its rites, and the rites are paid for out of the temple's feasts and offerings. A poor reading unsettles granary stores and tax assessments alike, and the order's priests accept that the price of being trusted is being blamed.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thubaidty|Thuba'i]]
 : The god the order serves

@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: [tellumilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **House of Mernagord** rules [[place-mehrnagord|Mernagord]], the largest of the three Tellumi oases still under their own princes, at the western end of [[place-swoasisbelt|Tellumel]] where the road over [[place-wstrndscnt|the Western Descent]] comes down. It is the house of the wind peak, [Vursettenhur]{.name data-type="place/feature"}, where the wall of the range comes apart into hills, and the roll of the peaks says of it that it holds its city still, pays no one, and carries the load of the western gate. About thirty thousand people live in the city and one hundred and ten thousand more in the gardens, salt-works and villages of the oasis country. The house governs them all, and the [Shekhulukhem]{.name data-type="affiliation"} keeps the law beside it.
 
@@ -75,11 +75,11 @@ The house leads the houses of the west in the oldest argument at the [[affiliati
 
 The house wants Mernagord kept free and its salt moving. That puts it at odds with the four houses in exile, who regard a compact with the Atarzád as treason and Hemvanai as insufficiently militant, and most of all with the [[affiliation-hsezargandur|House of Zargandur]], whose heir's plans for a reclamation would bring the war to the one Tellumi city that can least afford it. The oasis is full of people who say the compact is treason, and as many who say nothing. The [[affiliation-hseshirvan|House of Shirvan]] opposes the house on both counts, the compact and the coming down.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The envoy.** Hemvanai wants an envoy he can trust to carry an offer to Amradad and the reply back, and the exile houses want to be sure he never sends one. A party can carry both messages and be paid by both.
 
-## See Also
+## See Also {#see-also}
 
 [[place-mehrnagord|Mernagord]]
 : the city the house rules

@@ -27,7 +27,7 @@ Three powers pull at the city, and a newcomer should know all three before choos
 
 The name fits the way the city does business: _gnaldur-_ is floes grinding on one another, and the generic that follows is the one for an islet.
 
-## See Also
+## See Also {#see-also}
 
 [[being-knrvthyrgldnhr|Knirvthira Goldenhair]]
 : mistress of the Gilded Cage

@@ -172,7 +172,7 @@ The third is what the tribes do with writing that is not theirs. The Atarzád ke
 A library is walled up in the Vurinkarvem cliff, in the Ozhmarod's ground. If it comes to light, the tribes divide over it as they divide over everything: the Ozhmarod hold the cliff and would burn whatever in it honors another god, the Tozhirod keep the tribes' archive and would want it, and the Teghumod would sell it to whoever pays most. Whatever the Council answers, it answers by reading the Covenant against something the Covenant never mentions.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
 : the twelve tribes, their government and their cities

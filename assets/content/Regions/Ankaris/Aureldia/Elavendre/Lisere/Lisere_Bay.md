@@ -45,6 +45,6 @@ This winter the bay has more watchers than usual. The beacon chain and the Great
 
 [[place-sarmelis|Sarmelis]] is the bay's one harbor for ships, on its southern shore behind a stone mole. [[place-durmelen|Durmelen]] stands at the head of the bay on the last headland of the Élavendren shore, beside the Vristwald border, with the Great Fire of the beacon chain on its tower, and the [[place-coastroad|Coast Road]] runs from the fort along the shore to the border of [[place-lirve|Lirve]]. The [[affiliation-beaconfamlys|Beacon Families]] keep a lamp on every headland between.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-lisere|Lísere]] · [[place-vrystwald|Vristwald]] · [[affiliation-calypsa|Kalipsa]]

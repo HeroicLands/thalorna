@@ -16,13 +16,13 @@ data:
 # terran_analog: the zones follow the land of the southern cone: the volcanic arc of the southern Andes (the Ash Country), the Atacama and the Monte (the Thirst), the Chaco and the Atlantic forest (the Sick Forest), the Iberá and Paraná wetlands (the Dead Water), and Patagonia with Tierra del Fuego (the Long Winter).
 ---
 
-## Overview
+## Overview {#overview}
 
 Every party that goes south through the gate of [[place-xelemchalix|Shelem Ch'alish]] is going to Shelem Ish'bal, the Land of the Dead Jaguar, and most of them do not come back. It is the waste that fills the southern end of the [[place-kiichchik|Kì'ìch'chik Continent]], from the threshold of [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] to the frozen sea at the bottom of the world. No one rules it, no one counts its people, and no road crosses it. The [[affiliation-itzanpnthn|Itsani Pantheon]] keeps its gate and keeps a cord of everyone who passes, and that is the whole of the civilized world's hold on it.
 
 The waste is a proving ground. Warriors and priests go into it to show their worth before the gods, treasure-seekers go for the ruins and the strange materials that come out of it, and the desperate go because the north holds nothing for them. Those who come back are changed, and the pyramid-cities raise them high or keep them at the edges, and seldom anywhere between.
 
-## The Land
+## The Land {#the-land}
 
 At its kindest the waste is a hot desert of gravel, creosote and dry lakes, with mountains standing pale on every horizon and water a week apart. That is the best of it. The rest is worse, and not all of it is dry: there are forests where the trees are sick and the air is thick with spores, and swamps where the water is sweet and drives men mad. Returners who have seen both say that a party in the forest or the swamp prays for the desert.
 
@@ -89,13 +89,13 @@ The waste has a long coast on both oceans and no harbor on either. No Kì'ìch'c
 
 No one lives in the waste to quarrel over it, and the bodies that send people into it quarrel in its place. [[affiliation-tsumulob|The Blood-Workers]] go south with the expeditions from their garrison at [[place-qptlulneok|Q'aptel'ul Ne'ok]], and beyond the cords their Bearer of the Tables reads days the Star House will not vouch for, and the band speaks its workings on them at its own risk. The Severers wait at the gate for every band's field ledger, and hold that a working spoken on a closed day is a closed-day working however far from home it was spoken. The Blood-Workers answer that a band in the waste works on its best reckoning or dies. The returners are the second quarrel. The gate gives each one a _tq'anil_, the southern cities raise him high or keep him at the edges, and the Severers look hardest at the returners who went out of the Blood-Denied camp with no priest to name the gods. The accounts the returners give at the gate belong to the gate, which shares them only with the worthy and the desperate, and every party bound south wants them.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A witness for the ledger.** The Examiner of Ledgers of the Severers wants an outsider beside a band of the Blood-Workers on its next march south, to see what its Bearer of the Tables reads each dawn and what the band speaks. He asks a party to join the band as hired porters. The band's captain knows what porters are for.
 - **The lost ledger.** A band came back through the south gate with half its men and without its field ledger, which its Keeper carried and the Ash Country kept. The Captain of the Southern Garrison wants the ledger found and brought back before the Severers ask for it, and he hires a party with no reason to read it.
 - **A name for the returned.** A woman of the Blood-Denied camp went out of the south gate alone and came back through it a season later, and the gate priests have knotted her account. No priest will give her a tq'anil, because the Severers say the sentence still stands on her. [[being-tsultelne|Ts'ultel Ne']], Ch'alish Tq'an of the gate, has not decided, and she asks a party that saw her come back to speak for her.
 
-## See Also
+## See Also {#see-also}
 
 [[place-southkiichchik|Southern Kì'ìch'chik]]
 : the enclosing region

@@ -29,12 +29,12 @@ The realm of [[affiliation-kankul|K'ankul]] keeps an understanding with the Sena
 
 When the understanding was made, and by whom, the realm's books do not say. The Senali have never come out of the forest to speak of it. They take no part in the realm's trade, its rites or its quarrel with [[affiliation-ixilankul|Ish'ilankul]], and the realm asks nothing of them beyond what the understanding already holds.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The man who went in.** A thief condemned in a town on the forest's edge has fled into the old jungle, and an Inspector of [[affiliation-shaqalob|the Severers]] demands him. The town's Ha'nalmah will send none of his own people after him and will not stop outsiders who choose to go, and he wants it understood that whatever they disturb is theirs to answer for.
 - **A lord's new field.** A Kulmah whose seat borders the forest has had his foresters mark a stand of the old trees for burning, to make room for maize in a hungry year. His Ha'nalmah has asked the Ts'enmah to stop him, and the Ts'enmah wants a party to reach the Kulmah's seat with his word before the first fire is lit.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-flksenali|Senali Folk]]
 : the people of the conclave

@@ -55,14 +55,14 @@ The gold went down the road toward the river country, and the road ran past [[af
 
 At the next new moon Suvargeri's sabhra and the king swore the treaty both sides still keep: Bharyastan sends its horse whenever the janpoda calls, and the janpoda pays an annual weight of gold, weighed at its own station.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The treaty.** Eight hundred years old, invoked perhaps a dozen times, renewed without argument at every succession on either side.
 - **The guard.** The janpoda raised its guard to three hundred and set observation posts on the mountain's high slopes, and fortified the three temples well enough to hold until the horse arrives.
 - **The rule.** The [Weighing]{.name data-type="lore/custom"} is public, every grain is entered at the rail, and the gold never lies overnight in one place.
 - **The cairn.** [[place-raiderscairn|The Raiders' Cairn]] stands in the gorge where the raiders fell, and every tribute party adds a stone on the way up.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-suvrgrjnpd|Suvargeri Janpoda]] · [[affiliation-bharyastan|Bharyastan]]—the two parties
 - [[place-weighingstn|The weighing-station]]—where the gold was taken from

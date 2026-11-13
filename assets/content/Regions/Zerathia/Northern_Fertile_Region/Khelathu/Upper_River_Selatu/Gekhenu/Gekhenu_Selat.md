@@ -15,7 +15,7 @@ data:
   government: selatgekhenu
 ---
 
-## Overview
+## Overview {#overview}
 
 "On the middle river we do not ask the water what day it is," a villager tells a traveler walking the dike road. "We ask the roof." She points to the observatory terraces of the library-temples, white against the sky.
 
@@ -27,7 +27,7 @@ The calendar of the valley is built on the river's three seasons, and in [[place
 
 The rest of the selat is ordinary [[lore-khelathiclt|Khelathi]] country: villages and estate-towns of a few hundred to a few thousand people, clustered on the cultivable ground and the temple estates. The farmers owe a share of the harvest and labor on the canals, and the scribes among them are the one reliable ladder out of the fields. Past the water the land is high desert and chaparral.
 
-## Settlements
+## Settlements {#settlements}
 
 Gekhenu (~30,000)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] and its estates.
@@ -35,7 +35,7 @@ Gekhenu (~30,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgekhenu|The Selat of Gekhenu]]
 : the selat that holds this land

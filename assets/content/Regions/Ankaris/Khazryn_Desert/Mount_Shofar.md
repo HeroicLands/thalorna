@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [dkrqrrgn], population: 0, packFolder: 
 
 From the pilgrim camps in the valleys at its foot, Mount Shofar is a black cone standing over the flat-topped mesas, darker than the plateau it rises from and bare of anything green above its lowest springs. After sunset a single point of light shows high on its southern face. The camps go quiet when it appears, and the children are lifted up to see it. That light is the [[place-unconsflame|Unconsuming Flame]], and the mountain is the holiest ground the [[affiliation-tribestrzd|Atarzád]] have.
 
-## Overview
+## Overview {#overview}
 
 **Mount Shofar** is a black-rock peak at the southern edge of [[place-dkrqrrgn|Diqraqor]], where the plateau comes down in its last long steps to the irrigated belt of the [[place-swoasisbelt|Tellumel]]. It rises north of the eastern oases, three days' ride from [[place-kethramir|Kethramír]], and stands some two thousand feet above the mesas round it, so that it can be seen from the belt road on a clear day and from the plateau's rim for days before a rider reaches it. Its slopes and the highland country round it belong to the [Burqalod]{.name data-type="affiliation"}, the keeper-tribe, and the priestly seat of [[place-beitshofar|Beit-Shofár]] lies at its foot.
 
@@ -40,7 +40,7 @@ To the Tellumi whose cities the Promise took, the mountain is where their dispos
 
 When the summer festival crowds the mountain, the Burqalod ration the springs by tribe, and the upland tribes of the northern ravines dispute the grazing with Atarzád flocks from well to well and raid them when they can. The pilgrims bring the [[affiliation-tribestrzd|Atarzád]]'s own quarrel up the mountain with them. The Toqel on the shelf is about eighty and has said nothing of [Aqeshat]{.name data-type="being/npc"} the Prophet, whose following grows, and with word of a union rising on the steppe the Council of the Twelve, which sits at Beit-Shofár, may soon need his answer on a Zhudek.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The festival water.** A dry spring has left the valleys short, and the midsummer pilgrims are coming. A Burqalod elder will pay a party to bring water up from the belt by a route the upland tribes do not watch.
 - **The straggler.** A pilgrim family's son left the stair at the tomb and has not come down. The keepers on the stair say he went over the shoulder of the mountain toward the northern ravines, where the upland tribes keep their wells.
@@ -50,7 +50,7 @@ When the summer festival crowds the mountain, the Burqalod ration the springs by
 The Burqalod pay an upland tribe to keep its riders off the pilgrim tracks at festival time, in horses and salt, every year. The tribe keeps no covenant with Ataros, and the Council of the Twelve has never been told; a Burqalod elder who let the compact become known would be repudiated by his own tribe. In a year when the payment is short, stragglers on the tracks disappear.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-unconsflame|Unconsuming Flame]]
 : the flame on the mountain's southern face

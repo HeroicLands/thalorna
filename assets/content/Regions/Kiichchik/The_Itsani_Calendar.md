@@ -147,7 +147,7 @@ It is also the count of the age itself. The astronomers number the years of the 
 
 A full date gives the Tq'an day, then the day and month of the Ts'en year, then the year of the Fifth Age: _Olek' Q'o Kulim, Q'ishe Shok'alal, 4158 FA_ is Twelve Stone, the eighth of the war month, in the year 4158, which is 14 [Elthezandi]{.name data-type="lore/calendar"} 720 AF. The Tq'an day and the Ts'en day together name one day in fifty-two years, and the year of the age fixes which round.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-itzanpnthn|Itsani Pantheon]]
 : the faith whose priesthood keeps the counts

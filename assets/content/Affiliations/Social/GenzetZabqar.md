@@ -44,7 +44,7 @@ A painter who has just won a commission from Genzet'Zabqar, the **Circle of Patr
 
 The consulting is part of the arrangement, not a courtesy. An artist who ignores the circle's expectations after taking its funding rarely gets a second commission from any of its members. Keep the circle informed and the pool stays open.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : the city whose arts it funds

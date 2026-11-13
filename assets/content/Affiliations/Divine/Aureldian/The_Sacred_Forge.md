@@ -83,7 +83,7 @@ Another significant observance is the [Lanterns of the Night]{.name data-type="l
 
 Knights and soldiers desiring the Sacred Forge's blessing often perform the [Vigil of the Forge]{.name data-type="lore/custom"} the night before battle or investiture. They remain awake in the temple throughout the night, watching the forge fires, meditating on courage and purpose. Some spend the vigil working at a forge themselves, learning the basic motions of hammering metal—the repetitive rhythm is understood as a kind of prayer, aligning the warrior's will with Ústaron's creative purpose. At dawn, the knight is blessed by a Hammer-Priest with holy oil, and they depart to face their challenge strengthened by what they believe is the god's favor.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of the Sacred Forge is organized into a formal hierarchy centered on the Hamsarnor, the supreme priest or priestess who oversees all Sacred Forge temples and clergy across western Ankaris. The Hamsarnor resides in a major cathedral-forge, typically located in a significant city—currently in [[place-provenzrgn|Provénzia]], where the faith holds the greatest political influence, a standing it dates to its victory over the Flame in [[lore-bloodhillsbtl|the Battle of the Blood Hills]]. The Hamsarnor's authority is absolute in matters of doctrine and sacred practice, though their power is checked by the council of senior Hammer-Priests who govern the faith's major temples.
 

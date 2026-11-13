@@ -15,7 +15,7 @@ data:
   government: kngdmglvrn
 ---
 
-## Overview
+## Overview {#overview}
 
 Galvaren is the coast where [[place-tarvenirgn|Tarvénia]] runs out of land: the green, rain-soaked south-western shore of the region, held by the [[affiliation-kngdmglvrn|Kingdom of Galvaren]], where the hills come down through deep forests to a coast of drowned valleys and black cliffs on the western reaches of the [[place-vylarianse|Vilérian Sea]], the last shore of Tarvénia before the mountains of [[place-provenzrgn|Provénzia]]. It is a country that fishes the inner sea and listens to its dead. Its fishing fleets are the largest in the western part of the [[place-ankrscntnnt|Ankaris Continent]], ranging far out into the sea for the seasonal runs of cod, herring and tuna, and its people take the fog, the old stones and the drowned more seriously than anyone else in Tarvénia.
 
@@ -53,7 +53,7 @@ Salt divides the coast this year. The crown of the [[affiliation-kngdmglvrn|King
 
 Up the coast, the senior teller of the [[affiliation-drownedroad|Drowned Road]] at [[place-ezkoba|Ezkoba]], [[being-nelmaular|Nelma Ularris]], is failing and has not named who will keep the rolls after her, and twice this autumn a boat has come onto the reefs under [[place-kaurema|Kaurema]] steering on a light that was not Ezkoba's lamp.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmglvrn|Kingdom of Galvaren]]
 : the kingdom that holds this land

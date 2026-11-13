@@ -71,7 +71,7 @@ A trade in sworn men needs a place where the swearing can be witnessed, and the 
 
 The Compact-Hall was raised on the Circle's swearing-ground, and the two bodies have shared the place since: the Circle keeps the north's memory there, and the Compact keeps its word.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Hall and the Truce.** On Compact-Hall ground every signed warrior is under truce, and to kill a man at Hringstead is an act for which there is no expiation.
 - **The trade.** Thirty-four signed companies of any size answer to the Hall today, from twelve-sword scouting bands to a long-ship fellowship of nearly four hundred, and Nordmen serve in armies across the continent.
@@ -80,7 +80,7 @@ The Compact-Hall was raised on the Circle's swearing-ground, and the two bodies 
 
 A party that signs a small company into the Compact takes on the Council's law along with its contracts, and a captain who finds that the employer who hired his company is also the one it was hired against has a question only the Council of the Hall can answer.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-malldbndlg|Málalidabandalag]]
 : the Compact, its Council and its roll

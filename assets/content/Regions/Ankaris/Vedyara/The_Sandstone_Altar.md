@@ -32,7 +32,7 @@ shalda ro dorna ve druk chintuna,/
 
 Nobody has ever proposed replacing it, and the classical commentators make a point of that. The dissolution ended a dynasty and kept its stone.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-rajepur|Rajepur]] · [[affiliation-rajeprjnpd|Rajepur Janpoda]]
 - [[affiliation-vyalendra|Vyalendra]]—the creator-deity

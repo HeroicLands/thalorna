@@ -102,7 +102,7 @@ The first sitting after the famine fell in 518, the thirty-fourth by [[lore-doms
 
 What is not disputed is the door-seat. From that generation on, the steward of every hall seats the honored old by the door at Veturnetur and serves them first, and a hall that cannot provision its elders goes to its kin and its neighbors for help, which enters [[lore-kinhalcrdt|hall credit]] and diminishes a house that leaves it unpaid. The seat nearest the way out became the seat of honor because that is the way the old had gone.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The svelthfell.** A cliff above Marvstead with small frost-split cairns at its foot, where kin with a grandmother's name in the argument still go at Veturnetur.
 - **The door-seat.** Kept in every hall, whatever the skalds say about the oath.
@@ -111,7 +111,7 @@ What is not disputed is the door-seat. From that generation on, the steward of e
 
 A hall in the interior still carries a claim from these winters: that it holds the odel of two halls whose old "ate on" its own, and that the debt was never reckoned. A party asked to witness such a claim at a ting will find that both halls can name the dead and neither can name who sent them.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nrdhmhstry|Histories and Legends of Nordheim]]
 : the famine as Nordheim tells it

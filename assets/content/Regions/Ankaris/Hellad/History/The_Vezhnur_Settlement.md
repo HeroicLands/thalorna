@@ -77,7 +77,7 @@ The cohort married into the pass villages. Its sons were raised to arms and its 
 - **The [Servants of Vezhnurikos]{.name data-type="affiliation/order"}**, the military order that raids down into the [[place-hekardesert|Hek'ar margin]].
 - **The eastern rite's absence.** No priest of the rite has ever reached the holds.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-ustaranschism|The Ústaran Schism]]—the schism the cohort's officers answered
 - [[lore-nartumrefuse|Nartun Refuses the Empire]]—the refusal that left them undisciplined

@@ -73,7 +73,7 @@ He proclaimed that nothing may stand in the line between the temple and either h
 
 The western shore became the burial-ground of the houses that ruled from the mound. Across the river, [[place-zugezer|Zu-Gezer]] opened with the first crossing-road, cut off the death-road at the head of the row nearest the water. By custom the Way of each later house lies farther toward the sunset, so the row reads from the oldest at the river outward. The first two houses were not moved. They lie in the Great Land, where the necropolis at Zu-Gezer does not count them.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The axis.** The capital hangs on the road, and the two festivals of the year, the [Festival of the Coming-Forth]{.name data-type="lore/custom"} and the [Festival of the Going-Down]{.name data-type="lore/custom"}, are held at its ends.
 - **The sightline law.** A building that creeps into the line is pulled down without appeal.
@@ -81,7 +81,7 @@ The western shore became the burial-ground of the houses that ruled from the mou
 - **A split in the royal dead.** The two oldest houses lie in the Great Land, and the farmers there still plow round their marker stones ([[place-firsttablets|the Ground of the First Tablets]]).
 - **The next age.** The Keepers date the Sun's Road from this year ([[lore-akhsunroad|the Sun's Road]]).
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhfirsttab|The First Tablets]] · [[lore-akhsunroad|the Sun's Road]]
 : the ages this crossing closes and opens

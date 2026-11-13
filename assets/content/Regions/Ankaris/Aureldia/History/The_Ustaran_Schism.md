@@ -90,7 +90,7 @@ merely political, and why five centuries have not worn it down. The conflict has
 and political landscape of western Ankaris ever since, and it still decides which shrines a kingdom
 tolerates and which it burns.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve, of whom Ústaron is one
 - [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|the Black Flame]]

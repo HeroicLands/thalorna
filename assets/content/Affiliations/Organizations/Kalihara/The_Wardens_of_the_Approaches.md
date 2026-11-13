@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Wardens of the Approaches keep the water around [[place-klhrcntnnt|Kalihara]]. They are the pilots who take foreign hulls in, the watchers who report every sail, and the harbor-wardens who keep the four anchorages, and they exist so that no stranger lands on the island uninvited. The corps is headed by the Warden of the Approaches, who keeps the watch from [[place-telvari|Telvari]], the islet at the head of the eastern approaches, and who answers to [[affiliation-councilisland|the Council of the Island]].
 
@@ -71,7 +71,7 @@ The approaches test the corps. The current-stones have run intermittently for a 
 
 The Wardens answer to the Council and carry its decisions to the water. The [[affiliation-tharivaan|Ithakan]] tend the current-stones the pilots rely on, custodians formed at [[place-thalari|Thal-ari]] and living in the reef villages in the dry months. [[affiliation-housefactors|The House of Factors]] wants more hulls and lower pilot fees, and the Wardens give it neither; the two keep their quarrel to letters and prices. Every port keeps a Harbor-Warden of its own, and all of them answer to the same Warden.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kalihara|Kalihara]]
 : the polity and its standings

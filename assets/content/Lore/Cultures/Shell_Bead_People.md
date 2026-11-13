@@ -204,7 +204,7 @@ The blind spot is still there, and thoughtful Shuqash argue over it. The coast h
 
 A second argument runs alongside it. The Turquoise People's traders say that the compact makes kin of everyone who smokes its pipe, and that pipe kin of the compact owe each other safe passage, the Cedar People included. If the Shell-Bead People joined, the raids would have to stop. The chiefs answer that the compact would ask for warriors against the south, a people they have never seen, and that the Strand costs less. The young men who paddle with Sitiqnush say that nobody has ever asked the valleys which costs less.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People's towns, their chiefs, the Canoe Kin and the astronomer-priests

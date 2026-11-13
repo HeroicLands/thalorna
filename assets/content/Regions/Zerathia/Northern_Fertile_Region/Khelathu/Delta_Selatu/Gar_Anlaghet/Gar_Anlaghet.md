@@ -18,7 +18,7 @@ data:
   notes: "City (Port)"
 ---
 
-## Overview
+## Overview {#overview}
 
 Gar-Anlaghet is where [[affiliation-empireakhlth|Au'Khelathu]] meets the sea, and the sea has learned to expect it. The city stands on the westernmost and deepest mouth of the river, where the channel runs broad enough to take the largest ships, and it is the empire's principal sea-gate: a crowded sprawl of quays, bonded warehouses, counting-houses and foreign quarters, home to about 120,000 people. After the capital it is the richest and most cosmopolitan city in the realm, and the wealth of the whole empire is loaded out here while the goods of the wider world are brought in.
 
@@ -34,7 +34,7 @@ Merchant factories from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taru
 - The Gar-Hálzi banking-houses, hub of the empire's foreign-exchange and credit trade
 - The great temple of Thuba'i
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]
 : Parent selat

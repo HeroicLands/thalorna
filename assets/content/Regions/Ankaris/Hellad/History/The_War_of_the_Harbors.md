@@ -96,7 +96,7 @@ After the last battle the heralds of the three cities met on the field and excha
 - **The sharper quarrel** between Thirenae and Pelagora, which now has a price as well as a grievance.
 - **[[lore-heladtruce|The Truce of the Games]]**, the rules the cities wrote at the next meeting so that their next war would be smaller.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-firstgames|The First Games]]—the custom of the herald's crossing
 - [[lore-heladpelagtrty|The Pelagoran Treaty]]—the quarrel the dues renewed

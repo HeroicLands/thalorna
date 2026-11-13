@@ -8,7 +8,7 @@ tags: [site, waste, desert, ruin, temple, inscription]
 data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Old Pyramid, Kul'qat Sh'amik, stands on a gravel plain between two bare ranges in the south of [[place-thethirst|the Thirst]], a week's walk from the nearest spring the returners' cords record. From a day away it looks like one more pale hill. Closer, it is a pyramid of four low tiers of yellow sandstone, so worn that its corners have fallen into slopes of rubble and its faces are scoured into honeycomb by the wind. Of the temple on its top only two door-jambs stand. In a waste full of old things, the returners call this one the old one.
 
@@ -38,7 +38,7 @@ The returners bring back flakes from the passage floor and copies of the columns
 
 They also say to read nothing aloud in the chamber, to touch the walls as little as possible, and to leave by daylight, because the rubble at the doorway is the only way out and it moves.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thethirst|The Thirst]]
 : the desert around it

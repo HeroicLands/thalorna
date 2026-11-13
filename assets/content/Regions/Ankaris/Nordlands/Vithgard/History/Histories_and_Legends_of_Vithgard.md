@@ -94,7 +94,7 @@ night. The tale says it once descended after a killing under [The Hall's Truce]{
 The Truce's living keepers need no supernatural verdict to forbid a murder there. Whether the ride
 passed overhead, or answered that particular breach, remains a matter of belief.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] · [[place-vithgard|Vithgard]]
 - [[affiliation-nahild|Nahild]] · [[lore-nrdhmhstry|Histories and Legends of Nordheim]]

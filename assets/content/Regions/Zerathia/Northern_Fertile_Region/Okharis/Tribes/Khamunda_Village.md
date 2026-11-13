@@ -17,7 +17,7 @@ data:
   notes: "Village of the Khamunda tribe, one of the settled communities of Okharis."
 ---
 
-## Overview
+## Overview {#overview}
 
 Khamunda Village is the seat of the [[affiliation-khamundatrb|Khamunda tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

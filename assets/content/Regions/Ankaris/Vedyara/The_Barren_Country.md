@@ -44,13 +44,13 @@ The capital of the philosopher-kings stands on open pasture in the center of the
 
 The reign that raised it standardized Classical [[skill-vedyarlng|Vedyari]] and produced the commentaries, the legal codes and the epics every educated Vedyari still studies, and the whole civilization numbers its years from it. A quarter of a million people gather at the [[affiliation-janpdsvdyr|Mahva-Sangra's assembly]] on the Mahanodi to do business in a calendar that begins at a ruin nobody governs and few of them have seen.
 
-## Who Holds It
+## Who Holds It {#who-holds-it}
 
 [[affiliation-gomarga|Gomarga]] holds the plateau: a small kingdom whose crown holds the wells and the droveways and makes no claim on the ground between them. Away from a well there is nothing to hold, so the distinction costs the crown nothing and is defended anyway, because the lineages that cut the wells insist on it.
 
 Janpodas sit where the tanks are largest, in the north and east where the soil deepens toward the Mahanodi's tributaries. They are few, they are small, and their sabhas meet in the dry season when the herds are furthest away.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql {allow-empty=true}
 SELECT s.address.slug AS _ref,
@@ -77,7 +77,7 @@ ORDER BY s.name.full COLLATE NOCASE
 
 The query names the settlements of the plateau. A herd walks between wells for most of the year and a well is property rather than a place, so the people of the country are counted at the tanks and not at any settlement of their own.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara Region]]
 : parent region
@@ -93,3 +93,9 @@ The query names the settlements of the plateau. A herd walks between wells for m
 
 [[affiliation-janpdsvdyr|Janpodas of Vedyara]]
 : the confederation the plateau's few sabhas sit in
+
+[[place-madustan|The Capital of the Philosopher-Kings]]
+
+[[place-gajastal|The Elephant Ground]]
+
+[[place-shunyakupa|The Empty Well]]

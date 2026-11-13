@@ -14,7 +14,7 @@ data:
   government: kngdmvthgrd
 ---
 
-## Overview
+## Overview {#overview}
 
 "In summer the light does not set, so neither do we," a sealer from the western coast tells a southern passenger on the season's last run. "In winter the light does not rise, and we sit very close together. The whole trick of this country is knowing which of the two you are in."
 
@@ -52,7 +52,7 @@ The people of Vithgard are renowned for whaling and seal-hunting, and the hunts 
 [[place-snilthborg|Snilthborg]], [[place-inthstead|Inthstead]], [[place-askholm|Askholm]] and [[place-isdal|Isdal]]
 : the barracks, the border steading, the skerry and the empty dale.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : the kingdom that holds this land

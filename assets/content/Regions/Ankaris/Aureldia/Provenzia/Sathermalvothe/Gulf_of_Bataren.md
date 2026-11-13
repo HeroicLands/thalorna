@@ -36,7 +36,7 @@ Provénzia's memory of the sea is colored accordingly. The
 
 The gulf is uneasy water this season. Masters coming in from the north report hulls that come out of the morning fog without lights or colors, shadow a merchantman for an hour and are gone, and two vessels have been stopped and searched by crews their masters will not describe. The harbor at Bataren has doubled its fees for a pilot, the insurers in the city have raised their rates, and the Élavendren and Provénzian shipping houses each suspect the other of spreading the stories to frighten trade off. See [[scenario-ghstshpsglfbtrn|The Ghost Ships of the Gulf of Bataren]].
 
-## See Also
+## See Also {#see-also}
 
 - [[place-batarencity|Bataren City]] · [[place-provenzrgn|Provénzia Region]]
 - [[scenario-ghstshpsglfbtrn|The Ghost Ships of the Gulf of Bataren]]

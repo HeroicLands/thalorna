@@ -28,7 +28,12 @@ Below the Gorges the ground falls into forest that no janpoda has ever sent an a
 
 [[affiliation-tantsouempr|Tantsou]] maintains a way-station beyond the throat of Jnanadvar and takes an official, documented interest in who comes through it. The celestial administration's standard position is that geography west of the Reach becomes progressively less reliable, and its frontier officers have found this position compatible with keeping an accurate register of every Vedyari caravan for four hundred years.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-sthrnwall|the Southern Wall]] · [[place-wstrndscnt|the Western Descent]]
 - [[place-jnanadvar|Jnanadvar]] · [[place-shankhadvr|Shankhadvar]] · [[place-slvrgorges|the Silver Gorges]]
+- [[place-bhrvprbhav|Bharavaprabhava]]
+- [[place-nurvhrn|Nurvharn]]
+- [[place-tamradvar|The Copper-Door]]
+- [[place-forestnoroad|The Forest of No Road]]
+- [[place-sangrafort|The Sangra-fort]]

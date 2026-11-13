@@ -17,7 +17,7 @@ data:
 
 A temple scribe needs the burial records of a dwindled house, and the records are at its funerary estate in the desert west of the river, at the end of a canal that is going dry. The party goes up the last of the water and finds the estate's household waiting at the gate with their mouths sewn shut. The steward is courteous, the relief boat is coming, and nobody leaves. The party believes it has walked into a dead man's larder. It has walked into his accounts: the steward never needed the party dead, only its names, and he has them on his forged releases before the first night is out.
 
-## Overview
+## Overview {#overview}
 
 Read [[place-lutithnet|Lut-Ithnet]] first, and read [[place-lutithnet#truth|what is really there]] before running any scene: who the steward is, what the stitches do, why the house needs witnesses, and why a witness who can speak is a danger to him. The adventure assumes the [[lore-khelathiclt|Khelathi]] ledger-ethic: an entry left open follows a person to [The Weighing]{.name data-type="lore/theology"}, a release closes an entry only when it is declared before witnesses, and at [[lore-readingweigh|The Reading at the Weighing]] for a dead person anyone the dead owes may stand and refuse to release him. That refusal is the thing the steward has sewn shut.
 
@@ -82,7 +82,7 @@ The reveal lands in Scene Three, and it reaches the party by whatever route it t
 
 Leaving no longer saves anyone. Walking out with the party's names on the releases closes every account the household holds against the steward, and in the valley a false entry damns its witness with its maker, so every character carries the steward's crime to the Weighing. Breaking the tablets does not help: the entry is made, and only the witness can unsay it. What the party wants now is to disown the witnessing aloud, before the dead who can hear it, before the steward sews it shut. The Asking in Scene Four stops being one clever option among many and becomes the point of going down.
 
-## Hooks
+## Hooks {#hooks}
 
 A temple scribe of [[affiliation-wethur|Weth'ur]], [Gezedafu]{.name data-type="being/npc"}, holds the older burial records of Zu'Lemetu and has received no new tablets from its estate in years. The house's heirs, a cousin line in a river town, mean to go to law over the estate, and the court wants the estate's own records. Gezedafu hires the party to go up the canal, collect the tablets and bring them back, and he pays a share of whatever salvage the heirs grant on the recovered estate. He gives them a reed skiff and a letter under the temple's seal that names each of them as the temple's agents for the records, and he warns them that the canal is failing.
 
@@ -95,7 +95,7 @@ Other entries suit other heroes:
 > [!TIP]
 > Every hook puts the party's names on the temple's letter. A party that came on another hook travels with Gezedafu's agent, or carries the letter as the price of the skiff.
 
-## The Opening
+## The Opening {#opening}
 
 Read or paraphrase this as the skiff grounds:
 
@@ -296,7 +296,7 @@ The steward stands at the second table with a curved needle in his hand, finishi
 
 **If bypassed.** A party that fled with Wenlegir and nothing else can come back by day, through the drains, with the steward in his niche. The vault does not move, and neither do the dead in the hall. If the steward lives, he has moved the true accounts into his niche, and they must be taken from under him.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **The steward ended, the accounts returned.** The heirs hold a Reading for the household at the temple, and the scribe reads the forged releases aloud as false. The party is paid from the salvage. Thakete and Wenlegir go home, and the estate's galleries are fed again.
 - **The steward ended, the dead left sewn.** The house is still, but it is a house of the unread dead, and the herders on the margin say its lamps light themselves on the old mistress's death-day.
@@ -304,7 +304,7 @@ The steward stands at the second table with a curved needle in his hand, finishi
 - **The steward left in possession.** The relief boat that Gezedafu sends when the party does not return finds the canal running again, the gate open, and eight people on the stair.
 - **The witnesses.** Every member of the party is on the releases, signed or copied. Each one who left without disowning in the hall carries a false entry into his own account, and a false entry damns its witness with its maker at the Weighing. While the releases stand, the steward's accounts with the dead of Zu'Lemetu are closed, and the party closed them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-lutithnet|Lut-Ithnet]]
 : the estate, and what is really there

@@ -89,7 +89,7 @@ The Qizikuni owe Khelathi lenders for gold borrowed in the war on notes no ledge
 - **The Breaker's name.** The Compact's enforcers want a Breaker of the [[affiliation-unchained|Unchained]] taken before the next strongroom night, and hire a party the halls of Besikar do not know by sight. The first hall the party drinks in is [[being-zlmrzzn|Zilmar Ezzinu]]'s, and the elders there ask the party's business before the second cup.
 - **The bounty.** The Compact posts its largest bounty of the season on a Free Captain's hull, and [[being-dlzrtndn|Delzuru Tanaduni]]'s galleys are slow to look for her.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the parent polity

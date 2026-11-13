@@ -77,7 +77,7 @@ The communion of Ángárós-followers involves the consumption of poisoned wine 
 
 In some settlements where Ángárós-cults have taken root, a more subtle form of worship emerges: the infiltration of orthodox fire-temples. A seemingly pious Roqeshekh or Delkoshekh works their way up through the priesthood of another deity, all while secretly serving Angaros. From within the priesthood, they can corrupt doctrine, teach subtle heresies, introduce confusion and doubt into the minds of the faithful. A fire that burns with strange colors, an oracle whose interpretations are consistently misaligned with the truth, a Shekhul who begins to issue decrees that undermine the social order—these are the subtle victories of Angaros worship, far more dangerous than open rebellion.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Angaros is structurally the inverse of legitimate Ashaian cults. Where the faith-cults of other deities emphasize clarity, truth, and the preservation of knowledge through careful documentation and transmission, Angaros's priests deliberately obscure and fragment their teachings. There is no single canonical scripture, no universally recognized hierarchy, no agreed-upon liturgy. Instead, each cell of worshippers develops its own variations, its own heresies, its own interpretations. This radical decentralization makes the cult impossible to eradicate—there is no center to strike, no high priest whose death would cripple the movement, no temple whose destruction would suppress the faith.
 

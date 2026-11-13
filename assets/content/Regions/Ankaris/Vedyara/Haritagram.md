@@ -19,7 +19,7 @@ data:
 
 **Haritagram** is a small terrace village on the northern slope of the [[place-suvargerijnpd|Suvargeri Janpoda]], and it is two panning families and the households that live beside them. The two are among the twenty-eight hereditary families, take the sabhra's fixed wage like the rest, and carry what their stream gives down to the weighing-station. The village has no other trade.
 
-## See Also
+## See Also {#see-also}
 
 [[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land

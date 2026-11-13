@@ -8,7 +8,7 @@ tags: [site, waste]
 data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Dead Jaguar is the place [[place-xelemixbalrgn|Shelem Ish'bal Region]] is named for, and in the priests' tongue it carries the waste's own name, Shelem Ish'bal. The priests of the cities teach that the jaguar of a lost age's sun was thrown down in the south, and that this is where it fell. Returners who claim to have reached it describe a plain of black glass, smooth and dark to the horizon, warm underfoot at night and cold at noon, and crazed with cracks that glow a dull red after sunset. Almost nobody claims it. It is the last and greatest of the oaths a warrior of the southern cities can swear.
 
@@ -22,7 +22,7 @@ The few who claim to have stood on the glass describe it alike. It is utterly fl
 
 Shards of black glass with a red fleck deep inside them sell in the northern markets as pieces of the Dead Jaguar, and command more than any crystal. Nobody can say which of them are true, and the gate priests buy none.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xelemixbalrgn|Shelem Ish'bal Region]]
 : the waste named for it

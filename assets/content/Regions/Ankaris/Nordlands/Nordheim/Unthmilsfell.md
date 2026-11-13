@@ -14,7 +14,7 @@ data:
   packFolder: nordheim
 ---
 
-## Overview
+## Overview {#overview}
 
 The fell stands over the last stretch of the pass road that climbs from the farms below [[place-horgsvangur|Horgsvangur]] to the far side of the range. Its bald crown is turf over stone, and under the turf lies a ship. The herders of the upper steads call the hill by the name of the man buried in it: **Unthmilsfell**, the fell of [Unthmil]{.name data-type="being/npc"}. His own name is the far side of a pass, _unth-_, with a man's ending, and the hill is named for what he held.
 
@@ -53,7 +53,7 @@ The glass is not from the fell. The gudi of Horgsvangur know it by its look, the
 
 From the farms below Horgsvangur the pass road climbs for two days. In summer the way is merely steep. In winter the road is ice, and the cairns are the only marks of it. The fell is visible from the second day and is a bare brown hump with a black post at one end. The toll-stones begin half a day below it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]
 : the grave-ale and the empty high seat

@@ -42,7 +42,7 @@ The coin a Vedyaran trader actually exchanges stands at the three edges of the r
 
 The clerk's last rule is the shortest: away from the treasury that struck it, the metal is the money.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
 : the chartering institution; full institutional description

@@ -68,7 +68,7 @@ The voices went in the end to [[being-ularrekgarr|Ularrek Garrundeta]], an old l
 - **Two courts at Lezkora.** The High King holds his court in the High Hall as the guest of the king of Asturath, [[being-alzemozold|Alzemo Zolduregi]], and passes through that king's gate.
 - **The next election.** The High King is old. Zenoth Oltris means to stand again, and the lowland lords have begun sending their men up the road one and two at a time.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
 : the crown that was elected

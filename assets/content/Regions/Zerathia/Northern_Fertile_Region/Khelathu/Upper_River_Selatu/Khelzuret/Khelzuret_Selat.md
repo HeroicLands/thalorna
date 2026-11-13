@@ -15,7 +15,7 @@ data:
   government: selatkhelzrt
 ---
 
-## Overview
+## Overview {#overview}
 
 "Keep to the path and touch nothing," the watch-priest of an endowed tomb tells a party of pilgrims at the western landing. "The ground above a tomb is mine to keep, and most of what I keep it from is hunger."
 
@@ -39,7 +39,7 @@ The mortuary industry is the economy. Embalming, tomb construction and decoratio
 - The natron flats and resin-stores that supply the mummification trade
 - The pilgrim-road and the festival of the dead that draws the whole empire
 
-## Settlements
+## Settlements {#settlements}
 
 Khelzuret (~90,000)
 : the selat capital and the empire's great temple-city of the dead: the mortuary temples, the pilgrim-markets, the embalmers' and coffin-makers' quarters, and the seat of the Halzi'a in uneasy proximity to the Thaz'Lekhau.
@@ -50,7 +50,7 @@ Khelzuret (~90,000)
 The pilgrim and farm villages
 : small communities of 500–2,500 line the east bank and the pilgrim-road, among them [[place-garzekri|Gar-Zekri]], [[place-lutanpuqa|Lut-Anpuqa]], [[place-yathmulu|Yath-Mulu]] and [[place-zmagezer|Zma-Gezer]]. They lodge pilgrims, farm the river margin and serve the endless traffic of the dead and their mourners.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatkhelzrt|The Selat of Khelzuret]]
 : The selat that holds this land

@@ -22,7 +22,7 @@ No siege technique short of sustained heavy magic will breach the place. Danurko
 
 The fort's value to the janpoda is not only military. It is where the sabhra sits, where the students are examined and where the temple keeps the granary that carries the villages through a bad year.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-danurkot|Danurkot]]—the town below the walls
 - [[affiliation-dnrktjnpd|Danurkot Janpoda]] · [[place-danurkotjnpd|Danurkot Janpoda]]

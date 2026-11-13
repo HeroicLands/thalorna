@@ -98,7 +98,7 @@ Two festivals mark the year. [Night of the Dead]{.name data-type="lore/gathering
 
 Five ordeals are held to win her favor, and every one of them works against the living. In the [Walk of the Dead]{.name data-type="lore/custom"} the faithful cross a battlefield with the help of an unholy relic, summoning, confronting and surviving the spirits of the courageous fallen who would otherwise go to [[place-valsal|Valsal]]. The ordeal turns their souls onto Nulthei instead, to wander aimless and unfulfilled among the unworthy until they fade to nothing. In the [Blood Oath]{.name data-type="lore/custom"} the participant pledges their soul to Nahild in a binding pact made in blood, in exchange for dark powers. The [Grave Descent]{.name data-type="lore/custom"} is a trial in which the faithful spend a night buried alive, relying only on their faith in Nahild to survive. In the [Bone Ritual]{.name data-type="lore/custom"} participants fashion weapons from the bones of the dead and use them successfully in combat. In the [Shadow Hunt]{.name data-type="lore/custom"} the faithful track and capture a living sacrifice under cover of darkness and offer it to Nahild at dawn.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-nalok|Nalok]]
 : the Order of the Void, a secretive cult widening the Eye of the Void's influence

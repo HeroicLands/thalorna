@@ -17,7 +17,7 @@ data:
 # terran_analog: the Colorado Plateau and the Four Corners (Arizona, New Mexico, southern Utah and Colorado), with the Sonoran lowlands of the Hohokam to the south
 ---
 
-## Overview
+## Overview {#overview}
 
 Teyumi Region is the land of the [[affiliation-teyumi|Teyumi]], the Turquoise People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is the country where the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]] ends: a high land of flat-topped mesas, red and buff canyons and juniper uplands, with canal-watered lowlands along its southern rivers. About 150,000 people live in it, in towns of stone great houses, and the dry years keep them few.
 
@@ -37,7 +37,7 @@ Rain decides everything. A good year fills the storerooms of the great houses, a
 
 The plains of the [[place-tenlayargn|Tenlaya Region]], the Grass People's country, lie east of the mesas, and the towns trade cotton cloth, pottery and turquoise to the bands for meat and hides. The mountain country to the north and west is thinly held hunting ground, and over it the Cedar People's traders come for turquoise. Beyond it to the west, past a trail of desert springs, lies the [[place-shuqhalaqrgn|Bead Coast]] of the Shell-Bead People, where the towns' traders go each summer for shell beads. Southward, the routes across the desert begin at Kwatuhosa, and the traders and pilgrims who survive the crossing arrive there first.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People, the nation that holds this land

@@ -18,7 +18,7 @@ data:
 # terran_analog: the sacred pools (ch'uqil) are cenotes; the slash-and-burn maize plots are the milpa
 ---
 
-## Overview
+## Overview {#overview}
 
 K'ankul Region is the land of [[affiliation-kankul|K'ankul]], and lies within [[place-centralkiichchik|Central Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
@@ -54,13 +54,13 @@ The system of sacred pools itself generates trade: the rare minerals and salts t
 
 K'ankul quarrels with Ish'ilankul over whether it is a partner or a tributary, and the quarrel turns on the day-tables. [[affiliation-ishilanshulum|The Star House]] at [[place-kankul2|K'ankul]] computes the tables for every city the cords reach, Ish'ilankul's among them, and K'ankul is treated as a partner in the management of the faith because no one has found a way to do without them. The courts of Ish'ilankul call that partnership a courtesy, and the hawks among them want it reduced to plain tribute before the round turns. The house keeps its arithmetic in K'ankul and sends the cities only its conclusions. [[affiliation-shaqalob|The Severers]], whose every sentence rests on a table, ask to see that arithmetic more often than anyone, and are shown it in K'ankul and nowhere else. Within the realm the cities quarrel with the house as well. Their court reckoners compete for a finer count than their neighbors', and a city whose reckoner catches the house in an error has something to sell.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The disputed day.** An Inspector of the Severers holds a priest of [[place-ishtalhun|Ishtal'hun]] for a working spoken on a day his city's table marked closed, and the priest swears that the table was miscopied. The Star House will show the Inspector its arithmetic only in K'ankul, and the priest's witnesses are on the plateau. The Inspector asks a party to bring them down the white road to K'ankul alive, and someone on the plateau would rather they never arrived.
 - **What the reckoners are celebrating.** The Keeper of Errors of the Star House has heard that the court reckoners of Ne' Ch'akalkul are dining well and saying nothing. He asks a party to learn what [[being-neishqemul|Ne' Ish Q'emul]], the city's best reckoner, has found, before her Ts'enmah announces it.
 - **The tribute embassy.** An envoy of the Q'emulmah of [[place-ixilankul2|Ish'ilankul]] is on the road to K'ankul to settle what the realm sends in the new round. [[being-tsltlishkksh|Ts'ultel Ishkul K'ushi]], Ts'enmah of K'ankul, wants a party on the road ahead of the envoy to learn what he means to ask, and the envoy wants a party of his own to learn what the Ts'enmah means to refuse.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kankul|K'ankul]]
 : The realm that holds this land

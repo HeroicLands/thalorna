@@ -15,7 +15,7 @@ data:
   government: selatgarlut
 ---
 
-## Overview
+## Overview {#overview}
 
 "Everything in this bed is somebody's cure," a herb-gardener of one of the shrines tells a novice, nodding at the rows. "Learn what the goddess has planted before you learn what the healers ask of it."
 
@@ -25,7 +25,7 @@ Gar-Lut Selat is the land of [[affiliation-selatgarlut|the Selat of Gar-Lut]], o
 
 The shrines belong to [[lore-uzneradty|Uzn'era]], the mother goddess of fertility, renewal and healing, and their gardens keep the plants that the healers use. Away from the shrines the selat is ordinary [[lore-khelathiclt|Khelathi]] country: villages and estate-towns of a few hundred to a few thousand people on the cultivable ground and the temple estates, worked by farmers who owe a share of the harvest and labor on the canals. Grain goes to the granaries, a share of everything goes to the temples and the crown, and the scribes among the villagers are the one reliable ladder out of the fields. Past the reach of the water the land is high desert and chaparral.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-garlut|Gar-Lut]] (~18,000)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-uznera|Faith of Uzn'era]] and its estates.
@@ -33,7 +33,7 @@ The shrines belong to [[lore-uzneradty|Uzn'era]], the mother goddess of fertilit
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgarlut|The Selat of Gar-Lut]]
 : the selat that holds this land

@@ -103,7 +103,7 @@ The **Commander of the Watch** is a graduate of the [[affiliation-dnrktjnpd|Danu
 
 Vyalendra keeps no deep-water hulls. The cloth goes down the river road to [[place-nilatir|Nilatir]] at the river's mouth, three days below the last of the valleys, where it is sealed, counted and taxed in the Koshadyoksha's shed and put aboard. It goes to sea in [[affiliation-chendrapur|Chendrapur]]'s galleys under a hire the two cities argue out before every sailing season. Vyalendra has the cargo and Chendrapur has the ships, and neither has ever got terms out of the other that held for more than one year.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Vyalendra holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each autumn, and strikes its own copper [[miscgear-tomra|tomra]] as the kingdoms and Chendrapur do. A [[affiliation-mrchntclctvvdyr|Collective grade-mark]] on a bolt of its silk carries across every seat of the Compact, and the larger sales settle by the Merchant Collective's letters of credit. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] for the institution.
 
@@ -111,13 +111,13 @@ Vyalendra holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
-## Hooks
+## Hooks {#hooks}
 
 - **What the last king left.** The Mistress of [[affiliation-twilighths|the Twilight House]] is dying, and three candidates for her place each hold part of what the House knows about how the last Maharava's line ended. A Loom-Master who wants that accounting never read aloud in the cloth-court asks the party to learn which candidate holds the part that was never written down.
 - **The first hull of Nilatir.** [[being-priturajasam|Prituraja Samudraya]]'s half-built deep-water hull would carry cloth to the Khelathi ports without Chendrapur's galleys. He asks the party to put her mastership to [[being-senpvvkrmd|Senapavi Vikramada]], who has declined everything Prituraja has offered before, ahead of the yard's next bill.
 - **The river road.** A bonded weaver has run from a loom village and is hiding two days up the river from [[place-nilatir|Nilatir]], where the households' agents wait on the road. [[being-jslvrdb|Jasili Varidaba]] asks the party to bring him down to the yards and out of his bale before the Koshadyoksha's shed opens it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vyalendraland|Vyalendra Land]]
 : the land the city-state holds

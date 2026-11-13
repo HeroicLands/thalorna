@@ -100,7 +100,7 @@ Two festivals mark the year. The [Festival of the Rose]{.name data-type="lore/ga
 
 Three ordeals are held to win her favor. The [Golden Pilgrimage]{.name data-type="lore/custom"} is a journey to Solrún's grandest temples, where the faithful offer their most prized possessions in hope of her blessings. In the [Blessing of the Mirror]{.name data-type="lore/custom"} the faithful look into the Mirror of Desire for a whole night and contemplate their deepest desires. The [Gilded Harvest]{.name data-type="lore/custom"} asks participants to accumulate a significant amount of wealth through trade, negotiation or other means and dedicate it to her temples.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-solvinir|Sólvinir]]
 : the Order of the Enchanted Rose, priests who counsel the powerful in love and beauty

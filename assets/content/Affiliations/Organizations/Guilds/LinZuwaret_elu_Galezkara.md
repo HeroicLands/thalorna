@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Zuwaret elu Galezkara**, the **Merchants' Circle**, is the informal association of the independent traders of [[place-galezkara|Galezkara]], who meet outside any guild hall to share prices, routes and buyers. When a larger commercial house threatens to undercut or absorb one of them, the others act together. A trader outside the circle bargains alone against houses that can outlast a bad season.
 
@@ -54,7 +54,7 @@ The circle's opponent is the larger commercial houses, the party it coordinates 
 
 Say a house in the **[[place-amqelger|Amqel-Ger]]** (the Great Quay) begins selling cloth below the independents' cost. Litaris hears of it at the circle's evening meeting, and by the next morning three members have shifted their stock to markets where the house is not present and a fourth has agreed to buy at her price. The house's discount reaches nobody it was meant to ruin.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The city the circle's traders work in

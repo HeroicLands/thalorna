@@ -82,7 +82,7 @@ The Dry Search is the part of the faith the Turquoise People argue about, and th
 
 The bear doctors are on both sides. [[being-huvowesa|Huvowesa]] of the Bear clan, the oldest bear doctor in the canyon, would lead the search at the feast if it is held. The last Dry Search he took part in, as a boy carrying the meal, named his mother, who walked out of her town with her sister and was never heard of again. He has not said whether he will lead this one.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-teyumiclt|Teyumi]]
 : the culture: the calm heart, the dry heart and the round of the year

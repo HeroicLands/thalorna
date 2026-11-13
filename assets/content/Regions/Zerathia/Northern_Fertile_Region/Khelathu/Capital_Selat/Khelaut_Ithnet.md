@@ -18,7 +18,7 @@ data:
   notes: "The vast general necropolis of Galezkara—the graded burial-fields flanking the royal necropolis of Zu-Gezer, where everyone below the throne is buried, from the gold-rich mastabas of the nobility to the common sand-graves of the poor, and the endless war between trap-built tombs and the robbers who plunder them."
 ---
 
-## Overview
+## Overview {#overview}
 
 "Walk your dead to the grave by daylight and be back on the ferry before dusk," a necropolis guard tells a family crossing for a burial. "After that the western fields belong to us, and to what we keep there."
 
@@ -44,7 +44,7 @@ Against all of it stands the robbers' one unanswerable weapon: knowledge. Every 
 
 Khelaut-Ithnet is the capital's dungeon, sitting in plain sight at the edge of the holy ground—a near-endless supply of trapped, warded, guarded tombs and the desperate, expert, and damned who break into them. Run it for exactly that: a tomb-crack as a layered delve (concealment, barriers, traps, curses, and the waking dead at the bottom); a robbing-ring to join or to hunt; a corrupt tomb-architect selling maps; a noble house hiring the party to robber-proof a new tomb—or to quietly rob a rival's; a stolen heirloom or relic to recover from a fence in the [[place-galezkara#markets-and-commerce|markets]]; the necropolis-guard's bounty on tomb-breakers; or a delve gone wrong when something set to guard the dead is loosed among the living. It also frames the line the empire will not cross: the guarded royal Ways of Zu-Gezer are hard game and harshly punished, and the cursed road of the [[being-falseuqaa|False Uqa'a]] is death on sight—Khelaut-Ithnet is where the robbing trade lives instead.
 
-## See Also
+## See Also {#see-also}
 
 [[place-zugezer|Zu-Gezer]]
 : The royal necropolis it surrounds

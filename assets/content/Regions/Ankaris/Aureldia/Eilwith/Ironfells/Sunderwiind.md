@@ -64,13 +64,13 @@ It is a [[lore-dreadspawncrtr|dreadspawn]], made and not born, and there is noth
 
 The gorge trail is the only road to Sunderwiind. It is a day's climb from the last forest steading below, and the trail is cut into a wall of loose rock that comes down after heavy rain. Above the post the pass runs on into high country under snow for a third of the year. The post's drainage tunnel opens on the gorge face below the trail, and a climber who knows it is there can reach the trail from it, below any slide in the upper gorge.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The pay vault.** The toll and the garrison's silver lie walled up behind the cistern. Kaerwiind's quartermaster wants them carried down, and so does anyone else who hears of them.
 - **The relief patrol.** A patrol went up the gorge to relieve the post and has not signaled.
 - **The captain's sword.** The captain who walled the vault carried a fine sword, a gift of the crown, and his family has asked for it.
 
-## See Also
+## See Also {#see-also}
 
 - [[scenario-hangingdead|The Hanging Dead of the Ironfells]]—a scenario set here
 - [[place-ironfells|The Ironfells]] · [[place-caerwynd|Kaerwiind]] · [[place-sunderfells|the Sunderfells]]

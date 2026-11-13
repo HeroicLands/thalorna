@@ -17,7 +17,7 @@ data:
   notes: "Religious/Strategic Settlement"
 ---
 
-## Overview
+## Overview {#overview}
 
 "Before anything else, learn this: you do not throw a stone at a raven in Odholm, not even to drive it off your bread," a rune-priest of the temple tells a pilgrim who has just come up from the quay. "They are his eyes. Harm one and you answer for it with your home or your life." Ravens wheel over Odholm in far greater numbers than the settlement's size would explain, and the people feed them with reverence and read their flight and calls as the will of [[lore-odvardty|Odvar]], the All-Father. Harming a raven is the gravest blasphemy in the settlement, punished by exile or death.
 
@@ -31,7 +31,7 @@ A hierarchy of priests and priestesses keeps the rites, interprets the ravens an
 
 The temple keeps a garrison of elite warriors, the [[affiliation-ravenguard|Raven Guard]], who are sworn to the temple and to the defense of the north's holy places. That combination of mystical authority and martial strength gives Odholm real influence for its size, and it is part of why [[affiliation-kngdmnrdhm|Nordheim]] counts the settlement as strategic as well as holy. Trade flows through it, and merchants come as pilgrims to offer tribute and ask a blessing on their ventures.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 : the kingdom whose northern coast it holds

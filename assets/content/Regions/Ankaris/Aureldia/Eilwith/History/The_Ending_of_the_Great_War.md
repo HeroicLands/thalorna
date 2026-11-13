@@ -72,14 +72,14 @@ They did not take the island. A hold grows nothing and needs farmers within reac
 
 The works of [[lore-jointcrown|the Joint Crown]] stood on that ground and had no keepers. The Senali did not return for their avenues and the Khazari did not send masons to repair their roadbeds. The Pelwar settled beside them, used the roads, quarried the footings for their first walls, and forgot who had laid them. The realms that rose on the island in the following centuries stand on this settlement, and none of their charters mentions it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The bounds of [[place-vardanreach|Vardanreach]].** An eighth of the island, kept by the one hold that never claimed to rule it.
 - **A friendship of thousands of years.** The Vardain's standing with Vorgald, which lasts until [[lore-stormveldtkn|the Taking of Stormveld]] by the Nordmen in 660 AF.
 - **Every Eilwìthan realm's ground.** Land that came to the humans because the elder races stopped, and not because anyone gave it.
 - **An unwritten ending.** The Khazari archive records the war and its end in the same entry, and the entry is two lines long.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-threesistrs|The Battle of the Three Sisters]]
 : the field the war was lost on

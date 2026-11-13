@@ -23,7 +23,7 @@ The fletchers work in the village too. Their feathers come from the geese it kee
 
 The four academies buy the whole output most years. In a year when they do not, the arms merchants of the town buy it at the same price and hold it until they do.
 
-## See Also
+## See Also {#see-also}
 
 [[place-danurkotjnpd|Danurkot Janpoda]]
 : the land

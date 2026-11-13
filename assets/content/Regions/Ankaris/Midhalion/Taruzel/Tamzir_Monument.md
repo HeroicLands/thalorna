@@ -8,7 +8,7 @@ tags: [taruzel, besikar, memorial]
 data: {demonym: null, lore: [], parents: [besikar2], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 Below the wall of the naval yards on the northern arm of the Grand Harbor of [[place-besikar2|Besikar]] lies a stone dock with its gates shut and the water pumped out, and in it, propped upright on timber shores, stands a Vilérian warship. She is the Tamzir Monument, taken at the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]) and towed to Besikar after the war. The dock workers call her the Prize. Every ship entering the harbor passes within a cable of her stern, the Vilérian traders among them.
 
@@ -46,7 +46,7 @@ The Prize is a quarrel in a dock. The Compact's petition to break her up has bee
 - The dock keeper reports that someone has been below at night: a candle-end on the hold's floor, and a plank pried up and nailed back down.
 - [[being-zlmrzzn|Zilmar Ezzinu]] wants his men home from the dock before the Harbormaster's men come for them, and he wants a party to sit the night watch in their place.
 
-## See Also
+## See Also {#see-also}
 
 [[place-besikar2|Besikar]]
 : the city whose harbor she lies in

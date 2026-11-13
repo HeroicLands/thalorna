@@ -51,7 +51,7 @@ The sessions run on full ceremonial protocol, and the real influence sits with t
 
 A Halzi'a sits in the council for the house he heads, not for his province, which is what separates it from [[affiliation-genzethalzia|Genzet'Halzi'a]], the Halzi'a in session.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-garauu|Gar-Auu]]
 : the throne the council advises

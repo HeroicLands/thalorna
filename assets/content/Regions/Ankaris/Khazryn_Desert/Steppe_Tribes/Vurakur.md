@@ -84,12 +84,12 @@ A dovaq of the northern steppe is gathering tribes by victory and by marriage, a
 
 The Vurakur hold that they have grazed the northern margin since before the first banner. When the last union overran the eastern fringe of Velanthia, the frontier communities answered to it; when it broke, they answered to the tribes again, and the Vurakur were the strongest of the tribes on that stretch. Their tellings are of marriages, which houses took Vurakur brides, and which sent them home.
 
-## Hooks
+## Hooks {#hooks}
 
 - Vuraqlun wants a party to ride with the silver-rider to a community that has stopped paying, because a stranger at his side looks like a sign that the asking has friends.
 - A Vurakur bride has come home from a headman's house with her children and says the house has given its silver to a Velanthian Host, and her husband has followed her to the Vurakur well to get the children back.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

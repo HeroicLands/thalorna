@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Mazgaru elu Au'Khelathu**, the **Quantity Merchants**, are dealers across [[place-aukhelathrgq|Au'Khelathu]] who buy and sell by volume and care little about the quality of any single lot. They trade margin for turnover and prize a supplier who ships quickly over one who ships well. A supplier who refuses to send inferior stock to fill an order commits, in the guild's own reckoning, an affront to profit.
 
@@ -54,7 +54,7 @@ The merchants' dealings run with suppliers, and the friction is predictable. Sup
 
 Say a Quantity Merchant orders two hundred bolts of linen from a weaver and learns that thirty are flawed. The merchant wants all two hundred, flaws included, at a lower price, and ships them in the same week. His margin is thin on each bolt and enormous across the lot. The weaver who refuses is not insulted; he is simply replaced by the next on the list.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu]]
 : Where the dealers trade

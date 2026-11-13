@@ -30,7 +30,7 @@ The age closes in 2378 ST (268 AF) with the entry the list writes in place of a 
 
 What the age left on the ground is still there. The road to the False Uqa'a's tomb is cursed and guarded by an order to kill on sight. Beneath the warrens of [[place-garqethar|Gar-Qethar]] lie the famine pits. At [[place-anlaghzetun|Anlagh-Zetun]] stands a granary nobody opens ([[place-eleventhgran|the Eleventh Granary]]), the second blood-field in Khelathi memory.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhcountmon|The Count of Months]] · [[lore-akhpriestthr|the Priests' Thrones]]
 : the ages on either side

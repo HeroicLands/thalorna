@@ -41,7 +41,7 @@ The spring beneath the slab had never frozen in the temple's record until two wi
 
 The temple's senior priest is one of the three who sit as [The Council of Three]{.name data-type="affiliation/governmental"}, with the priests of the Melka temple and the great [[affiliation-mahajaya|Mahajaya]] temple in the south. A joint pronouncement of the three carries nearly everywhere in the [[affiliation-janpdsvdyr|Mahva-Sangra]]. It works as an executive committee, and the priests deny that it is one.
 
-## See Also
+## See Also {#see-also}
 
 [[place-chandrprbh|Chandraprabhava]]
 : the spring the temple stands beside

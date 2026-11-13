@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 When the timber-merchants and craftspeople of [[place-aukhelathrgq|Au'Khelathu]] needed capital the guilds could not supply, they went to **House Qelti**, and generations of that patronage built a wealthy merchant house with trading interests across the empire. The house lends its name quickly to any venture it expects to profit by, which makes its backing sought after and, to a cautious partner, slightly suspect: a partner who looks closely finds the house's own profit written into the terms before anyone else's.
 
@@ -58,7 +58,7 @@ The house is wealthy from trade across the empire and from the capital it extend
 
 Have a scribe read the entry back to you before you sign, line by line, and ask which line is Qelti's. The house expects the question, and an honest partner asks it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : The region it belongs to

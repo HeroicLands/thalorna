@@ -31,7 +31,7 @@ The roll is also the standing argument. Which circuit a border janpoda belongs t
 
 Sangema's senior priest is one of the three whose informal consultations are called [The Council of Three]{.name data-type="affiliation/governmental"}, with the senior priests of [[place-surtatempl|the Surta temple]] at the source of [[place-chandrmahi|the Chandramahi]] and of [[place-bhrnytemple|the Mahajaya Temple at Bharanya]], the great temple at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the confederation carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-melkaground|The Melka Ground]] · [[place-mahanodi|the Mahanodi]]
 - [[affiliation-janpdsvdyr|Janpodas of Vedyara]]—the confederation it convenes

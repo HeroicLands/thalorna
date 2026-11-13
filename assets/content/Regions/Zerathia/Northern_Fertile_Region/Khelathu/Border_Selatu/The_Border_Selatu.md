@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Beyond the green ribbon of the valley the [[affiliation-empireakhlth|Empire of Au'Khelathu]] shades into harder country, and **The Border Selatu**, ten provinces, hold it: the southern cataracts, where the river breaks into rapids and the tribal lands begin; the rugged, mineral-rich eastern hills; and the dry western grazing country, where [[lore-khelathiclt|Khelathi]] irrigation gives out and the herders' pastures begin. They are the empire's thinnest-peopled and roughest provinces. Their Halzi'a govern less as landlords than as military governors, and the frontier's chief export is hardened soldiers.
 
@@ -114,11 +114,11 @@ Run the border selatu as marches, with all that implies: garrisons, raids, carav
 
 Adventure here is the roughest in the empire—caravan-guarding and raid-chasing, mine security and smuggled gold, embassies and betrayals among the herding and tribal clans, lost patrols and relief columns, mercenary work (the companies of the [[affiliation-malldbndlg|Free Companies Compact]] take frontier contracts), and the standing chance that a border lord decides his troops answer to him and not the throne. Gold, stone, horses and danger are abundant. Grain, water and comfort are scarce, and so is any sign of the gentle valley gods.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Border Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the frontier is where the empire's metal circulates most: garrison pay, mine output and caravan tolls all run on weighed silver and gold rather than the grain-render of the interior. Foreign coin from the southern and western trade passes here too, weighed and discounted by the [[affiliation-garhalzi|Gar-Hálzi]] agents who follow the garrisons.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the empire

@@ -19,7 +19,7 @@ data:
 
 The village remembers, in the songs of the [[doc-heroessgrd|Heroes of Asguard]], the day in [The Age of Halls]{.name data-type="lore/calendar"} when sea raiders came for it and did not take it, because [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] stood between them and the strand. In the song the village paid that debt through **Widow [Hvarnselda]{.name data-type="being/npc"} of Ralthvík**, its wealthiest fisherwoman, who supplied Skalforv with provisions, a ship and a crew whenever he asked. Ralthvík pays it still: the best-kept boat on the inlet is called the widow's keel, and the village fits it out with a crew and gear for anyone who comes to the strand with a just quarrel against sea raiders. The name is a fisherman's measure: _ralth-_ is how far a voice carries over water, and the generic that follows is the one for an inlet.
 
-## See Also
+## See Also {#see-also}
 
 [[being-sklfrvthndrstrk|Skalforv Thunderstrike]]
 : the hero who saved the village

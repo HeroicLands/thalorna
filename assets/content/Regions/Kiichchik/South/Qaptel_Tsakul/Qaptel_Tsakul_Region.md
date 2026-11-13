@@ -15,7 +15,7 @@ data:
   government: qapteltzakl
 ---
 
-## Overview
+## Overview {#overview}
 
 Q'aptel Tsa'kul Region is the land of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], and lies within [[place-southkiichchik|Southern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
@@ -47,13 +47,13 @@ Most true trade flows through the region in transit rather than originating ther
 
 Q'aptel Tsa'kul lives on the fee, and it quarrels with everyone who takes a party across the flats without its leave. The Q'aptelmah sets a fee for every party bound south, and the fortress-temples sell the guides, the water and the blessing. The guides are their own families, who pass the paths from parent to child. [[affiliation-wallsworn|The Wall-Sworn]] of Q'aptel'ul Ne'ok know the same paths and guide parties down across the flats to the gate for a fee paid into their own garrison's storehouse, and the guide families call that their paths sold by soldiers of another realm. The outfitters of the plateau sell guides of their own, men who have crossed the flats once or twice, whom the Wall-Sworn call the quickest way onto the flats and the slowest way back. The flats themselves are worked without leave as well: the priesthood restricts the trade in the crystals and sulfur of the poisoned ground, and gatherers go out onto it for the alchemists of the north regardless.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The guides' complaint.** The head of a guide family of Shelem Ch'alish says that the Wall-Sworn have been walking parties past the seat without stopping for the fee. The Q'aptelmah's cord-keeper wants a party to cross the flats with a Wall-Sworn escort and see where it goes.
 - **Crystals without leave.** Crystals ground from the toxic flats are on sale in the northern cities without the priesthood's leave. The Q'aptelmah asks a party to find the gatherers, who work the flats at night from a camp nobody has found.
 - **No priest at the gate.** An old man of the Blood-Denied camp outside the north wall of Shelem Ch'alish is dying, wants to die in the waste and cannot walk the ash beyond the gate. He asks a party to carry him out through the south gate on a morning of his choosing. [[being-tsultelne|Ts'ultel Ne']], the gate's Ch'alish Tq'an, says nothing either way, and a party that does it goes out on a day no priest has opened.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]
 : The realm that holds this land

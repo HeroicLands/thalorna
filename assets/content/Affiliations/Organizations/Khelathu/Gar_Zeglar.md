@@ -36,7 +36,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Zeglar**, chief minister and supreme judge, runs the civil administration of [[affiliation-empireakhlth|Au'Khelathu]] through **Gar-Zeglar**, the ministry whose bureaus in [[place-garmedjatozo|Gar-Medjatozo]] hold the paperwork of the realm: tax rolls, land grants, appointments and the countless records a state this old accumulates. Its ministers file, retrieve and occasionally lose what that paperwork says, and losing a particular record is sometimes as useful to a minister as keeping it. The ministry dislikes anyone who exposes what its files actually contain, and a petitioner who goes looking for an inconvenient record finds the search taking far longer than it should.
 
@@ -56,7 +56,7 @@ The ministry keeps the tax rolls and land grants, the records on which the empir
 
 A record entered at a temple archive can be read back for a fee. A record in the ministry has no such guarantee, which is reason enough to ask for both.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : The government it administers

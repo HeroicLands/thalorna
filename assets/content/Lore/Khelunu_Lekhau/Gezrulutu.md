@@ -12,7 +12,7 @@ The empire's gold, its building-stone and its roads all come out of the Red. **G
 
 A lekhau who commands only the river's half has nothing to say about a caravan, a mine or a plague. The Red half is kept to fill exactly that gap.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-gargezrulutu|Gar-Gezru'lutu]]
 : the House that holds the domain

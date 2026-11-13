@@ -20,13 +20,13 @@ data:
   notes: "The provincial capital of Moktur: a walled gray city at the head of a farming valley below the mountains, where the military therkos holds court in the keep the city grew around, pays his own auxiliaries, and keeps the posting-road that every letter to the capital travels."
 ---
 
-## Overview
+## Overview {#overview}
 
 In a province where towns are small, Tirellan is the largest: about fifteen thousand people, the capital of [[affiliation-provncmktr|Moktur]] and the seat of its military _therkos_ (governor). It belongs to the Province of Moktur, a land of mines, timber and fortified garrisons on the [[place-vrystwald|Vristwald]] march, and it is walled like everything else in [[place-moktur|Moktur]].
 
 A farmer from one of the villages on the Tirellan circuit, in town to sell a season's wool, describes the city to a neighbor as the place where the _therkos_'s word is law. For the villages themselves the person who matters is the healer-priest [[being-azendsdmtr|Azendas Damator]], Senior Priest of [[affiliation-lizelas|Lizelas]] in the Tirellan region, who takes the blessing of the fields and the harvest thanksgiving out to the farming communities around the city, among them [[place-mylanthos|Milanthos]].
 
-## Arriving
+## Arriving {#arriving}
 
 [[place-orzara|Orzara]] lies twenty days south by the posting-road.
 
@@ -74,7 +74,7 @@ Order in the streets rests on the towers. A shopkeeper robbed in the night goes 
 
 Tirellan is the province in small, governed by a man the capital neither commands nor replaces. Tholmaras Nelamen pays his riders on the day, keeps the posting-road with his own officers, and holds the frontier quiet, and the city counts that as loyalty. The legion at [[place-dolvar|Dolvar]] is paid when the treasury's coin arrives. Letters from the south reach the city in eleven days and answers take thirty to come back, and a cloth merchant of the capital wants to know where his wait. A clerk of the [[affiliation-imperialoffices|Imperial Offices]] has come up to measure the road and write down where its milestones stand, and the _pozerus_ is courteous to him. In the forum the border lords watch one another at the state's offerings, and someone leaves wine and red cloth in the Eagle Shrine by night for the cashiered Fourth.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The inns of the North Gate take soldiers, couriers and anyone going up to the frontier. The best of them is the [Counted Smoke]{.name data-type="place/structure"}, whose host is a veteran of the towers and keeps a slate by the fire on which the evening's smoke from the ridge is chalked, so that a guest knows before supper whether the road north is open. Its rooms are clean and cold, and its stable is good.
 
@@ -91,7 +91,7 @@ The Keep was a legion's camp when the empire first came north, and the city grew
 - **The surveyor.** A clerk of the [[affiliation-imperialoffices|Imperial Offices]] has come up from the capital to measure the province's road and write down where its milestones stand. The _pozerus_ is courteous to him. The clerk asks a party to guard him on the road, because the last man sent on the same errand came back with a broken leg and no notes.
 - **The slow reply.** A cloth merchant of the capital who has kept a factor in Tirellan for twenty years finds that his letters reach Orzara in eleven days and his factor's answers come back in thirty. He wants a party to ride the road with his next letter and see where it waits.
 
-## See Also
+## See Also {#see-also}
 
 [[place-moktur|Moktur]]
 : the land the city stands in

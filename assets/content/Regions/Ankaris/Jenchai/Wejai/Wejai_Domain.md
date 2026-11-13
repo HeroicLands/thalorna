@@ -77,7 +77,7 @@ The Wohou of Wejai serve the house for stipends in bales, since no retainer fami
 
 The muster is 600 men and 15 ships. The ships are whalers and coastal guard boats, built to keep the reefs and to stand off the typhoon coast.
 
-## Relations
+## Relations {#relations}
 
 Wejai belongs to neither bloc. Its lord is one of the four independent houses, who together muster 3,970 men and 55 ships and who each have their own price.
 
@@ -85,7 +85,7 @@ Wejai belongs to neither bloc. Its lord is one of the four independent houses, w
 
 A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo is the lord's. A survivor claims to be an envoy to the court, and his letters are in the cargo. If Rowo keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross the [[affiliation-muwojaidmn|Muwojai Domain]]'s roads.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses

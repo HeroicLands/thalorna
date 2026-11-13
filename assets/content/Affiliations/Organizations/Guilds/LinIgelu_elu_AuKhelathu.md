@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Igelu elu Au'Khelathu** is the guild of the rivermen and sea-captains of [[place-aukhelathrgq|Au'Khelathu]], open to any master who meets its standard of seamanship. Its charter tells a cargo-owner that a master has been examined, and it gives the master a body to argue for him against the merchant house that hired him. The guild also sets the safety requirements cargo must meet before a vessel carries it.
 
@@ -54,7 +54,7 @@ The guild stands between two parties, and its position is the point. The merchan
 
 Say a house sends forty sacks of grain downriver and two arrive wet. The owner goes to the guild's charter, which names the captain and the standard he was examined against. The guild hears the dispute, and its decision settles the loss. A captain who has no charter offers a lower rate and no recourse; the owner who accepts it has priced the risk himself.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu]]
 : The empire whose rivers and seas its members work

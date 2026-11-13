@@ -22,7 +22,7 @@ The ranking priest, **Hofgudi [[being-brildmyl|Brildmil]] of Braldfjall**, regar
 
 The name suits the god's fire: _brald-_ is a fire banked to keep overnight, and the generic that follows it is the one for a mountain.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-svartbrandur|Faith of Svartbrandur]]
 : the faith whose most sacred temple stands here

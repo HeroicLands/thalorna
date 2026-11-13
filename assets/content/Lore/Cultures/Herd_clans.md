@@ -48,7 +48,7 @@ The clans speak many unrelated tongues. Strangers meet in a rough trade-pidgin b
 
 The northern margin is the meeting ground with the forest peoples. The [[lore-pewayeclt|Pewaye]] trade and marry across it, and through them the herd-clans meet everything the north sends south. The Khelathi, Bethuan and Okharin are known only as rumor.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sthrnsvnhs|Southern Savannahs]]
 : the herd-country

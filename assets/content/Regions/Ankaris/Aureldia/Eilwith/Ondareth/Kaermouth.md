@@ -47,7 +47,7 @@ One of the two tavoi of the year, [[being-alfmundkrtn|Alfmund Kaerton]], has com
 
 The republic raised the camp a generation after the rising at Thornburi, when the levies that had served Zalmen could no longer hold the frontier as seasonal musters and the Senate voted a legion that would not go home ([[lore-ondarethfall|the Fall of the Last King of Ondareth]]). The town grew up around the camp.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ondareth|Ondareth]]
 : the coast

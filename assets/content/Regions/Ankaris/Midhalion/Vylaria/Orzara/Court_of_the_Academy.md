@@ -40,7 +40,7 @@ The Ombalon answers the throne's questions, and this year the great houses bring
 
 - **The opinion.** A house wants a party to learn what the Ombalon's scholars have answered on the succession before the answer reaches the Seldan.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-panepistmm|Epistémion]]—the Academy of Knowledge whose ceremonial seat this is
 - [[place-arvon|Arvon]]—the Inner City that houses the Ombalon

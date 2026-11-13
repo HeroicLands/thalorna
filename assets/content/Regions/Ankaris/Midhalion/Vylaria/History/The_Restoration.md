@@ -80,13 +80,13 @@ Makandas did the unusual thing and forgave the legions that had fought him. He p
 
 The first Orzas of the Restoration repaired the city's walls, the granaries and the aqueducts. The great rebuilding of the [[affiliation-vylarinmpr|Empire]]'s institutions came under his successor ([[lore-arzanasedict|The Edicts of Arzanas]]), and it came on the foundation Makandas laid by paying for peace.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The house's name on the monuments.** House Helarkales is cut into the rebuilt Circles, the colonnades and the aqueducts, and the line "restored by Makandas" runs along every one.
 - **The donative.** An accession carries a payment to the legions and the guard, and the custom began here.
 - **The Moktur legions' standing.** The northern army that made a house, and a province that remembers it.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-brkensuccsn|The Broken Succession]]—the years the Restoration ended
 - [[lore-greatburnng|The Great Burning]]—the city Makandas took

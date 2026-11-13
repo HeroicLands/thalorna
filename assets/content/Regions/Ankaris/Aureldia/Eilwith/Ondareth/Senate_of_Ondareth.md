@@ -93,7 +93,7 @@ A party with business before the Senate needs a senator to put it there, and a s
 - **A captured crew.** The shipping house that owned the coaster taken off the Nordfells wants its crew bought back from Stormveld before the Senate decides anything.
 - **The levy money.** Godstan Hardli wants the frontier legion paid, and he will owe a party that finds the money the Senate did not vote.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-repblcndrth|Republic of Ondareth]]
 : the republic it governs

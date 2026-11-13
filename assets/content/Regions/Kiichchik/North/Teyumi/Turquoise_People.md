@@ -70,7 +70,7 @@ sohl: {system: {commonSkills: [teyumilng]}}
 # terran_analog: the Ancestral Puebloans, above all Chaco Canyon about 1050 to 1130 and Mesa Verde, with the Hohokam canal builders of the Sonoran lowlands; the chambers are kivas, the Canyon of Houses is Chaco Canyon, and the trade in macaws, cacao and copper bells is the one that reached Chaco from Mesoamerica
 ---
 
-## Overview
+## Overview {#overview}
 
 The Teyumi are the Turquoise People, the nation of the desert's northern rim, about 150,000 people in towns of stone great houses across the mesas and canyons of the [[place-teyumirgn|Teyumi Region]]. They take their name from turquoise (_teyu_), which they hold to be rain made stone. The south calls them _Ishtem Tsul_, the Bear People, after the bears painted on the walls of their chambers, where the bear (_matsau_) is a healer and a guardian. Their ways are set out in the [[lore-teyumiclt|Teyumi]] culture note, and their tongue is the [[skill-teyumilng|Teyumi Language]].
 
@@ -120,7 +120,7 @@ Drought is the Turquoise People's great fear. A town's fields, its canals and th
 
 The dry years are already pressing the towns against one another. Hungry families from the Cave Mesas are walking south to be fed at the Door House, the canal towns are quarreling over water turns, and a southern trader has wintered at the Canal House without ever going on to Kwatuhosa, and the Keeper of the South Road has sent a runner to ask why.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-teyumiclt|Teyumi]]
 : the culture: what the Turquoise People believe and what they owe

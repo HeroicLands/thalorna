@@ -37,7 +37,7 @@ The garrison is small: a League detachment at the customs posts and the pass-for
 
 The March's relationship to the capital is that of a country estate to a great house. Krusteikhos's bankers hold the grain contracts, Krusteikhos's merchants own the wagons, and the lord is very often a Krustéikhian by birth. The other cities tolerate the arrangement because the alternative—grain in Krustéikhian hands _and_ a March in Krustéikhian hands, with no council commission to revoke—is worse.
 
-## Peoples
+## Peoples {#peoples}
 
 The uplanders of the Northern March are Bizarian hill-farmers of Helonik stock, worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, plain-spoken and clannish, with a reputation in the coastal cities for stubbornness and honesty in roughly equal measure. Along the frontier they have intermarried with Velanthian drovers for generations, and the border villages speak a dialect of [[skill-byzarnlng|Bizarian]] thick with Velanthian loanwords. A few small monasteries of the eastern rite stand in the high valleys, chroniclers and hospitallers for the road; the [[affiliation-ashanpnthn|Ashaian shrines]] of the other marches are absent here.
 
@@ -45,7 +45,7 @@ The uplanders of the Northern March are Bizarian hill-farmers of Helonik stock, 
 
 The March is a passage and a pasture. Its own produce is barley, cattle, timber from the high valleys and the cheese and wool of the ridges, most of it sold down to Krusteikhos. Its revenue is the grain road: the League's tariff on every wagon that crosses the frontier, the tolls of the pass-forts, and the trade of the inns and wheelwrights along the way. Velanthian grain, horses and furs come south; Bizarian silks, Órashion iron, coastal wine and olive oil, and the philosophical and medical books of the Hellád go north. It is not a rich district, and its lords are not men who expect to become rich by holding it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]
 : the region the March belongs to

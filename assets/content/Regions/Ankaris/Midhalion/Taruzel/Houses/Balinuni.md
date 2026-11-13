@@ -99,7 +99,7 @@ Nirabu is the obvious choice to command the guards, and a party he has stood sur
 - **The Arch-Consul's guests.** Ellamuna wants to know what [[being-dnshkmn|Danashu Kumuni]]'s late visitors from Yamuzel asked him.
 - **The train with no guide.** The house's next caravan into the hills needs guards and has no Saliruni guide, and [Nirabu Balinuni]{.name data-type="being/npc"} asks a party he has stood surety for.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-auricompct|Auric Compact]]
 : the guild the house is bound to

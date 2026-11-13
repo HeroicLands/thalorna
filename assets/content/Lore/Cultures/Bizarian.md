@@ -190,7 +190,7 @@ The sin is the village of [[place-trianthion|Trianthion]]. Within living memory 
 
 The Cartographers' Guild shows the same pattern in a smaller place. Its seal makes a map a warranty, and someone inside the guild has been selling what the seal protects.
 
-## See Also
+## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]
 : the five cities, the plateau and the marches

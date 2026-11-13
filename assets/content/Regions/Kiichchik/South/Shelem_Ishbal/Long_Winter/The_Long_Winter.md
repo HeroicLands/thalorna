@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, pack
 # terran_analog: Patagonia, the southern Andean icefields and Tierra del Fuego.
 ---
 
-## Overview
+## Overview {#overview}
 
 The Long Winter, Ne'kulal (the ice-bed), is the far south of [[place-xelemixbalrgn|Shelem Ish'bal Region]], beyond [[place-thethirst|the Thirst]] and [[place-deadwater|the Dead Water]], and it is months from the gate. Winter holds it in every season. Fields of ice and snow run to the horizon, wind comes off them that cuts like obsidian, and breath freezes solid in the air. The cords at the gate hold fewer accounts of the Long Winter than of anywhere else in the waste, and the oldest returners say they know of no one living who has stood on its southern shore.
 
-## The Land
+## The Land {#the-land}
 
 The Long Winter begins as cold steppe, brown grass under a gray sky, with snow in the hollows even in the hottest month. It climbs south into hills, and the hills are ice. The mountains of the west stand under glaciers, and on the plains below them the snow lies a man deep and never melts. Further south still the land is all white, under a sky that is white too, so that a traveler cannot see where the ground stops and the air begins. At the bottom of it all is [[place-iceshore|the Ice Shore]], the end of the continent.
 
@@ -32,13 +32,13 @@ The treasure-seekers' rumors say the ruins of a civilization older than the pres
 
 The Long Winter quarrels over what a man may claim. The southern cities rank a warrior's oath by the distance he swore to, and the priests of [[place-xelemchalix|Shelem Ch'alish]] ask him at his return whether he reached it, but the Long Winter lies months beyond anything their cords can check. The cords hold few accounts from the ice and none from anyone who claims to have stood on the Ice Shore, so a lord who swore to the ice and comes back has only his own word and his companions'. The southern houses quarrel over whether such an oath ranks with the others at all. The treasure-seekers' backers quarrel with everyone over the ruins said to lie beneath the ice, which the few returners from it neither deny nor claim to have seen.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The companion's word.** A lord of [[affiliation-kuxiixbal|K'ushi Ish'bal]] came back through the south gate a year after his party left and swears he stood in the Long Winter. One companion came back with him, and has since gone up the road to the garrison towns and taken the wall of [[affiliation-wallsworn|The Wall-Sworn]]. A rival house hires a party to find the companion and hear what he says, and the lord wants the same man found first.
 - **Warm enough for the ice.** A backer of treasure-seekers in [[place-nepaxel|Ne' P'ashel]] is outfitting a party for the ruins under the ice, and nothing sold at the gate is warm enough. He sends a party up to the plateau to buy the heaviest wool the lake temples will sell, before the temples learn what it is for.
 - **The white pelt.** A returner from the ice brought back the pelt of one of its very large white beasts. The storehouse keepers of the gate want to buy it, the returner's lord wants it as the proof of his oath, and the returner wants a party to get him and the pelt to the north before either stops him.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xelemixbalrgn|Shelem Ish'bal Region]]
 : the waste

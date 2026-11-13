@@ -29,6 +29,6 @@ about anyway.
 Its other trade is the valleys' cloth—coarse, dense, weatherproof stuff, fulled at Koldbek and worn
 by everyone in [[place-ironfells|the Ironfells]] including, it is said, those who do not need to worry about weather.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-vardainvalleys|The Vardain Valleys]]

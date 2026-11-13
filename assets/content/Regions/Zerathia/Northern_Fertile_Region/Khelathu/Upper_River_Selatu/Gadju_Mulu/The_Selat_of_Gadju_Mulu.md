@@ -56,7 +56,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Learn which book you are writing in," the Halzi'a's steward tells a young clerk on his first morning in [[place-gadjumulu|Gadju-Mulu]]. "The temple of [[affiliation-thubai|Thuba'i]], the Halzi'a's granary and the tax bureau all keep ledgers, and they do not keep the same ones."
 
@@ -66,11 +66,11 @@ The Selat of Gadju-Mulu is one of the upper-river selatu of the [[affiliation-em
 
 The seat is Gadju-Mulu, where the Halzi'a keeps his court and the chief temple of Thuba'i stands. The Halzi'a's steward administers the selat's revenue, its granaries and its corvée. The patron god is among the best loved in the empire, and his priests teach that pleasure is a form of gratitude, which sits easily on a selat of marsh, flax and waterfowl.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gadju-Mulu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : parent selat class

@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Council of the Hills is the council of the hill tribes of the [[place-taruzelrgn|Taruzel Region]], and it is the nearest thing to a government the hill country has. Once a year, in the autumn when the flocks come down from the summer grounds, the elders of the camps of the [[affiliation-qazishuni|Qazishuni]], the [[affiliation-saliruni|Saliruni]] and the [[affiliation-haduruni|Haduruni]] cross to [[place-qalirel|Qalirel]] and climb to the ruin of [[place-ralumar|Ralumar]] on its spine. They sit on the stone benches round its paved court for as long as the business takes, usually five or six days, and then they go home and carry what was decided to their camps.
 
@@ -96,7 +96,7 @@ The council's quarrel is with the coast, and the coast will not come to it. The 
 - **The message to the coast.** The Keeper of the Doors asks a party that has been let into Ralumar to carry the council's word to the coast and speak it once, to [[being-dnshkmn|Danashu Kumuni]].
 - **The grievance.** The tribes' councilors at Kudumel want the hills' grievance against the Balinuni read in the Grand Council, and ask a party with standing in Besikar to find them a councilor who will sponsor it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tulurel|Tulurel]]
 : the hill country the council governs

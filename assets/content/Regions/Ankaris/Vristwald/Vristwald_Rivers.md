@@ -23,7 +23,7 @@ Furs come down from sparse northern trap grounds. Goods from [[place-velanthrgn|
 
 Some waters leave Vristwald to the west; others pass through neighboring lands and may ultimately reach the great inland sea. That sea lies beyond Velanthia and [[place-grkrhlmrgn|Grukarholm]]. Vristwald has no shore on it and no direct outlet within its own bounds.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vrystwald|Vristwald]]
 : the forest crossed by the rivers

@@ -93,7 +93,7 @@ Sailors are practical polytheists. They honor whichever god of the sea seems lik
 - **The toll.** A Delalara shipping house wants a party aboard its next eastbound hull to learn what [[being-dlzrtndn|Delzuru Tanaduni]]'s toll would cost before the Grand Council votes it.
 - **The privateer.** A Salkalon merchant's ship has been taken under the Purple Warrant, and her owner wants her crew ransomed before they reach a Bethuan port.
 
-## See Also
+## See Also {#see-also}
 
 [[place-midhalnrgn|Midhalión Region]]
 : the region the sea holds together

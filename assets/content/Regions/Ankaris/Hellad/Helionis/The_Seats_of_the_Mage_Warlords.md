@@ -22,12 +22,12 @@ Each seat is a tower with a walled workshop behind it, cut into rock or built ag
 - **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, who inspect a seat and write it into a register.
 - **Treasure-seekers**, whom the Arcane Order arrests when it finds them, and whom the cities' own magistrates mostly ignore.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The bricked cellar.** At one seat the cellar was bricked up from the inside, and the mortar is the same age as the walls.
 - **The numbers.** A Thirenaean factor has begun paying for any rubbing or copy of the numbers painted above the empty racks of Theradon's seat. He will say only that his principal collects.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-helionscnq|The Conquest of Helionis]]—the war that made the warlords
 - [[lore-heladturnedwrk|The Turned Working]] · [[lore-heladthyrsiege|the Siege of Thirenae]]

@@ -16,7 +16,7 @@ data:
 
 In the last week before the melt, every household in a Tellumi oasis sends someone down into the dry channels with a basket and a short hoe, and the water-master walks the bank behind them with a tablet, marking off each family's stretch as it is cleared. A week or two later the snowmelt comes out of the mountains brown and cold, the sluices open in the order the tablets give, and for the rest of the year a field is worth the hours of water it is owed. That is the Tellumel as its people know it: a country where every hour of water is written down, and where two peoples argue over who owns the water.
 
-## Overview
+## Overview {#overview}
 
 **The Tellumel**, "the land of the Tellumi", is the irrigated strip along the north foot of [[place-graznmntns|the Grazian Mountains]], on the southern edge of the [[place-khzryndsrtrgn|Khazrin Desert]]. It is forty to eighty miles deep where the snowmelt streams reach it and broken where they do not, and it runs about seven hundred miles from [[place-wstrndscnt|the Western Descent]] in the west to the foot of [[place-estrnreach|the Eastern Reach]]. Every city of the Tellumi stands in it. North of it the black rock of [[place-dkrqrrgn|Diqraqor]] begins within a day's ride, and beyond that the sand.
 
@@ -130,14 +130,14 @@ The held cities export dates, palm-sugar, leather, salt from the western pans, a
 
 In the free oases the economy is the oasis economy it has always been: dates, palm-sugar, garden produce, Mernagord's salt, and trade with passing caravans. The free oases are small, their surpluses are modest, and their people reckon their wealth in continuity.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The new channel.** An Atarzád settler family has cut a channel past the last of Mernagord's terraces, and a Tellumi village now drinks from it. The prince wants the tablets that show which water the village drank before; the tribe that holds Shirvan wants the village. Both will pay a party that can find the tablets first.
 - **The short melt.** The river at Zargandur has come down thin, and the dry-year order cuts the Tellumi plots. A water-master's apprentice offers a party good money to stand at a weir on the night the second ledger says it opens.
 - **The pilgrim string.** An Atarzád family from Shirvan needs escort to Mount Shofar for midsummer, and the upland tribes have been taking stragglers off the pilgrim tracks.
 - **The last valley.** A caravan for Tantsou has reached Ushtra-ber in late autumn, and its master wants to go on before the snow. The guide he has hired has a feud in the Hvarn villages above the valley.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
 : Hold the four great cities
@@ -159,3 +159,7 @@ In the free oases the economy is the oasis economy it has always been: dates, pa
 
 [[place-beitshofar|Beit-Shofár]]
 : Seat of the Council of the Twelve
+
+[[place-henhulpedin|Henhutpedin]]
+
+[[place-velkunar|Veshkun]]

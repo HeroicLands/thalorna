@@ -17,7 +17,7 @@ data:
 # terran_analog: the mainland inlets and fjords of the British Columbia coast north of Vancouver Island and the Alaska panhandle, the country of the Tsimshian, Nisga'a, Haisla, Nuxalk and Tlingit; the eulachon rivers are the Nass and the Kitimat, and the Grease Trail is the Nuxalk grease trail inland from Bella Coola
 ---
 
-## Overview
+## Overview {#overview}
 
 A canoe can paddle all day up one of the Long Inlets (_tuyala hapas_) and still have the sea under it. The inlets are the northern half of the [[place-kelwanukrgn|Kelwanuk Region]], the country of the [[affiliation-kelwanuk|Kelwanuk]]: long arms of salt water between walls of rock and cedar, each ending at a river mouth where a village stands on the beach. About 90,000 people live here, nearly half the Cedar People, and the house that sits first on the coast lives here, at [[place-tsilkasis|Tsilkasis]].
 
@@ -46,7 +46,7 @@ Every midsummer the Eagle House sends a few big canoes north past the glaciers t
 
 The Long Inlets hold the first seat and want to keep it. The richest houses of the coast are now in the south, on the [[place-yumisrgn|Outer Beaches]], where the beads of the south come in, and the northern chiefs say the southern wealth is bought with other people's captives. The southern chiefs answer that the northern wealth is bought with the same, only longer ago.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kelwanukrgn|Kelwanuk Region]]
 : the whole coast of the Cedar People

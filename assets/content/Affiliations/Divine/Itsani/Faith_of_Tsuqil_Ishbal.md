@@ -98,7 +98,7 @@ The **Speaker of the Trials** attends the body through the night after death, na
 
 The most significant ceremonies occur during the turning of the [[lore-itsaniclndr#tsuqal|Ts'uqal Cycle]], when the Ish'bal'ob perform the [Taq'tsuqalil]{.name data-type="lore/custom"} ("The Calling of the Dead"), an elaborate nocturnal ceremony in which living communities gather at the mouths of the sacred pools to welcome the recently deceased into the underworld. The living bring food they will not eat, sit through the dark hours at the water's edge, and speak the names of everyone lost since the last turning. It is not a mournful occasion. Children are brought deliberately, so that they will grow up unafraid of the mouth of the world, and the ceremony ends at first light with a shared meal and, in most cities, a great deal of maize beer.
 
-## Organization
+## Organization {#organization}
 
 The temples of Ts'uqil Ish'bal descend rather than ascend—great staircases lined with carvings of jaguars and ancestors lead downward to pool chambers, vast underground lakes with waters black and still. They are the only Itsani temples built downward, and a city's death-temple is often older than the pyramid that overlooks it, since the sacred pool was there before the city was.
 

@@ -78,14 +78,14 @@ The mountain lords had never had a king over them, and now they had a reason to 
 
 The garrisons were out within seven years, and the High King found he had no silver to pay the lords who had elected him. He sold [[affiliation-frctyvlthr|Valthari]] a charter of self-government: the free city would pay him a yearly tribute and govern itself, with its own courts and its own council, the [[affiliation-consejarath|Konsezarath]]. The port had been the Empire's, and it was now the High King's, on terms the merchants could live with.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The elected High Kingship.** A crown that has no army, no bureaucracy and a vote that is rarely quiet ([[affiliation-kingdmtrvn|The Kingdom of Tarvénia]]).
 - **Valthari's charter.** The free city's independence, bought and paid for each year ([[affiliation-frctyvlthr|The Free City of Valthari]]).
 - **The turned watchtowers.** Lyenrik's chain of towers facing the coast, still lit by the families who keep them.
 - **Tarvénian hosts pressing west.** The lords the garrisons had held down now looked at the province across the mountains ([[lore-malnebris|Malnebris]]).
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kingdmtrvn|The Kingdom of Tarvénia]]—the elected crown
 - [[affiliation-frctyvlthr|The Free City of Valthari]]—the city that bought its charter

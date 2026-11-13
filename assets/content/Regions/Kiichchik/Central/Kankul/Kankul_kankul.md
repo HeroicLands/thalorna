@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: the governance takes the shape of a Classic Maya court: the Ts'enmah is the holy lord, the Ts'enilbal the named heir, the Ish'kanmah the royal lady, the Kulmah the sajal, the Ha'nalmah the batab and the Shok'almah the nacom, the Kulumbal raises the stelae of the period endings, and the Ts'obanal are the court astronomers; no title is a Maya word
 ---
 
-## Overview
+## Overview {#overview}
 
 K'ankul holds the land of the [[place-kankulrgn|K'ankul Region]]. Where [[affiliation-ixilankul|Ish'ilankul]] is the militant heart and the seat of spiritual authority, K'ankul is the realm of knowledge and precision. Here, the Tq'an'ik (priestly initiates) labor for decades to perfect the astronomical tables carved into stone, calculating with near-perfect accuracy the cycles of [K'inish'ilan]{.name data-type="place/celestial"}, the star of dawn and dusk, the precession of the equinoxes, and the great wheel of days that turns once through the ages of the world.
 
@@ -106,7 +106,7 @@ The pool-centered spirituality of K'ankul has produced a distinct tradition with
 
 K'ankul keeps an understanding with the [[lore-flksenali|Senali Folk]] of [[place-lirnasto|Lirnasto]], the conclave in the high jungle of the platform's interior: the realm's people stay out of that jungle and do not disturb those who live there. Every Ts'enmah holds to it, and the Ha'nalmah of the towns along the forest's edge turn back hunters, rubber-tappers and gatherers where the old trees begin. The realm's books do not say when or how the understanding was made, and the Senali take no other part in the realm's affairs.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixilankul|Ish'ilankul]]
 : The highland plateau realm, supreme in religious authority and military might

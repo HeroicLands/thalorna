@@ -70,7 +70,7 @@ The high priesthood of [[place-nartum|Nartun]], the oldest sacred city of the he
 
 The Orzas sent legions to bring the city back. They reached Nartun in the autumn, found its gates shut and its knights on the walls, and turned back at the first winter. No Orzas has sent a second army.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The [[affiliation-hlykngdmnrtm|Holy Kingdom]].** An independent theocratic monarchy in the heartland of the Empire, whose king is anointed by the priesthood and has been deposed by it.
 - **Two verdicts.** Nartun calls the Empire a corrupted institution that has strayed, and the Empire calls Nartun a wayward province that will come back. Both are said politely, in the same language.
@@ -78,7 +78,7 @@ The Orzas sent legions to bring the city back. They reached Nartun in the autumn
 - **No Arcane Order.** The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) has no presence in the kingdom, where mages who work answer to the priesthood.
 - **The open temples of the Black Flame.** In Orzara and in the commercial cities of [[place-alyssa|Alessa]], where the [Night of Ashes]{.name data-type="lore/gathering"} is a public festival.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-ustaranschism|The Ústaran Schism]]
 : the quarrel the Orzas would not settle

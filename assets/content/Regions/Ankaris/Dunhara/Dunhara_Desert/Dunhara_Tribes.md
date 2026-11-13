@@ -140,3 +140,5 @@ The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] 
 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the faith of fire and light
+
+[[affiliation-trbtvrzvd|Tribe of Tevrazavad]]

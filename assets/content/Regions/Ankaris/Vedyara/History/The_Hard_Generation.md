@@ -28,7 +28,7 @@ On the empty march a clan of the salt coast, the [[affiliation-bhumipal|Bhumipal
 
 The age ends in 334 AF, 22 HG, when the Compact's roads and the march forts stand. [[lore-compactpeace|The Compact Peace]] follows.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-hundredcrwn|The Hundred Crowns]] · [[lore-compactpeace|the Compact Peace]]
 : the ages on either side

@@ -59,14 +59,14 @@ Most came home. They rode with the four hundred horse of [[affiliation-bharyasta
 
 Daunapur sent a column against the Bow-Fort in reprisal. It came in sight of the walls and turned back.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Festival of the Returning.** Every autumn the graduates back from service abroad ritually re-enter the janpoda, and it was first kept for those who answered the recall.
 - **The struck roll.** The names of the graduates who stayed with Daunapur were struck from the academy rolls, and stay struck.
 - **The palace at [[place-bharyastan2|Bharyastan]]**, fortified that year in a way that would have been serious three centuries ago, and not since. A Bharyastani heir who had not ridden to Sharamukha was passed over by the council at the next succession, one of the kingdom's two acclamations in four hundred years.
 - **Three centuries of quiet.** Neither Suvargeri nor Danurkot has been seriously threatened since.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-sharamukha|Sharamukha]]—the gorge-mouth where the host was stopped
 - [[affiliation-dnrktjnpd|Danurkot Janpoda]] · [[place-dnrktemple|the Mahajaya temple at Danurkot]]

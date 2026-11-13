@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [swoasisbelt], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 Past the last irrigated plot north of [[place-zargandur|Zargandur]], the green stops at a ditch and a line of whitewashed stakes. Beyond it the ground is the same ground: level gravel, thin grass, a few thorn bushes that the goats of the garrison are not driven to. A [Zhoqarod]{.name data-type="affiliation"} picket sits at the stakes by day and is relieved before dark. By night the picket is gone, and the stakes are all that stand between the city's northern gate and a field nobody walks.
 
@@ -41,13 +41,13 @@ Nothing comes out of the field. No shape takes hold of a man. A Zhoqarod picket 
 
 Under the filled trench lie the war-house's weapons and its horse-furniture, unstripped, because the Zhoqarod who filled the trench would not touch them. A [[miscgear-zargbanner|banner-staff of the house]] stands in the trench with its cloth rotted off. The [House of Zargandur]{.name data-type="affiliation/lineage"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], keeps the riders' names on its tablet. The princes' signets are not here: they lie with the household in the trench at [[place-relvanvesul|Relvanvesut]].
 
-## Hooks
+## Hooks {#hooks}
 
 - **The reading.** The Tellumi of the quarter want a Delkoshekh to read the war-house's names over the field, which would very likely quiet it. The reading is forbidden in Zargandur on pain of hanging, and the Delkoshekh who could do it is a stranger who must be got into the city and out again.
 - **The captain.** A Zhoqarod captain relieved from the north gate this season is not sleeping, and her tribe is losing patience with her. She has quietly asked a Tellumi chandler whether anything can be done, and the chandler needs someone she can trust to carry her answer.
 - **The night at the stakes.** The one picket the Zhoqarod left at the stakes overnight was found at dawn unhurt and unable to give any account, and nobody has tried again. The Tellumi of the quarter want to know what a night on the field does to a person who is warned and can speak of it afterward, because the dreams are the part that harms, and the stakes are unwatched in the dark.
 
-## See Also
+## See Also {#see-also}
 
 [[place-zargandur|Zargandur]]
 : the city whose north wall it lies beyond

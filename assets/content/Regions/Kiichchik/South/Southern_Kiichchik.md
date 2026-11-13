@@ -14,7 +14,7 @@ data:
   packFolder: kiichchik
 ---
 
-## Overview
+## Overview {#overview}
 
 Southern Kì'ìch'chik includes the fertile forests and river basin through which Kì'ìch'chik civilization extends southward. The realms of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] and [[affiliation-kuxiixbal|K'ushi Ish'bal]] are fully part of that civilization, with cities, agricultural estates and the priesthood's _ish'lan ch'upul_ (white roads). Farther south, beyond the basin and [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], the land gives way to the wastes of [[place-xelemixbalrgn|Shelem Ish'bal]]. About 3,500,000 people live in the south.
 
@@ -42,13 +42,13 @@ The three realms share the shape of their rule. Every town is two halves, upper 
 
 The south quarrels with the heartland over what it pays and what it is given back. Its steel, gold, cacao and feathers go north on the white roads, its warriors and priests go south into the waste, and the priesthood levies every cargo in between. In return it has the white roads, the rites and a Speaking Road that grows slower with every stage. Ish'bal Tsa'ku's cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]], and at every conclave its high priest goes north to press for a Q'emul Tq'an of [[affiliation-itsanihierarchy|The Itsani Hierarchy]] from the south, and at every conclave the heartland chooses one of its own. The heartland also sends the south what it does not want. Debtors, failed heirs, the kin of the executed and the Blood-Denied come up the road to the garrison towns and the gate, where nobody asks who they were, and the houses they left keep asking after them.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Letters for the conclave.** The Ts'enmah of Ish'bal Tsa'ku wants the high priests of K'ushi Ish'bal and Q'aptel Tsa'kul to stand with his own at the next conclave. He sends a party to their seats with gifts, and with letters that travel by hand and not by the Speaking Road, because the dispatch at [[place-kultaqan|Kul'taq'an]] reads the cords.
 - **The bill from the field.** The Keeper of the Field Ledger of [[affiliation-tsumulob|The Blood-Workers]] has brought the Presiding Ch'alish Tq'an of K'ushi Ish'bal the account of what a band spent from the city's blood on its last march south, and it is more than the city can pay this year. The high priest asks a party to find the band's survivors at Q'aptel'ul Ne'ok and learn what was spent, and on what.
 - **A name set aside.** A lord-house of Ish'ilankul wants back a son who fled a debt and was last seen on the road south. It hires a party to bring him home, and the trail ends at the foot of the wall at Q'aptel'ul Ne'ok, where the Keeper of the Wall-Names of [[affiliation-wallsworn|The Wall-Sworn]] will say whether a man of that description took the wall and never which wall-name he took.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kiichchik|Kì'ìch'chik Continent]]
 : the continent
@@ -61,3 +61,9 @@ The south quarrels with the heartland over what it pays and what it is given bac
 
 [[place-centralkiichchik|Central Kì'ìch'chik]]
 : the heartland to the north
+
+[[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]
+
+[[place-kuxiixbalrgn|K'ushi Ish'bal Region]]
+
+[[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]

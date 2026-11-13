@@ -56,7 +56,7 @@ data:
 sohl: {system: {commonSkills: [tellumilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **House of Shirvan** is the senior of the seven princely houses of the [[affiliation-khzrncnfdrtn|Tellumi Confederation]], the house of the first city and of the snow peak, [Gilsumtenhur]{.name data-type="place/feature"}, the highest of the seven peaks the Tellumi root their houses in. It ruled the [[place-oasishirvn|Oasis of Shirvan]] until the last year of [The Breaking]{.name data-type="lore/history"}, and it has kept its court in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] since. By custom so old nobody can date it, the prince of Shirvan speaks first at every session of the [[affiliation-cnclprinces|Council of the Princes]].
 
@@ -72,12 +72,12 @@ The house wants Shirvan, and until it has the city it wants proof. Beside the ta
 
 The [Ozhmarod]{.name data-type="affiliation/polity"}, the Atarzád tribe that holds Shirvan and the strictest of the twelve, stand in its way in the city itself. Their fire-wardens hunt the [Hidden Shekhul of Shirvan]{.name data-type="being/npc"}, whom the quarter believes still keeps the old observances near the spring, and their informers know every Tellumi household in the lower town. At the Council the house's rival is the [[affiliation-hsemernagord|House of Mernagord]], which leads the houses of the west in denying that any lineage came down through Vurdish, and whose prince listens to Atarzád merchants about a compact the House of Shirvan calls treason.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A tablet out of the basin.** A water-master of the Shirvan quarter has a tablet from the channel diggings and no safe way to send it. The court pays well for anyone who carries it to Amradad past the water-tax assessor at the basin gate, and pays more to learn who else was offered it.
 - **The climbers.** The house is hiring again for Vurdish. It wants the snow peak's sign found on a lintel and copied exactly, and a rival house pays the same climbers to come back with nothing.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnclprinces|Council of the Princes]]
 : where the house speaks first

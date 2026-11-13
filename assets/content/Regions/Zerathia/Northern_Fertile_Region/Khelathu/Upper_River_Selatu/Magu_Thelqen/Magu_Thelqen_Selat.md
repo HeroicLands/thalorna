@@ -15,7 +15,7 @@ data:
   government: selatmaguthn
 ---
 
-## Overview
+## Overview {#overview}
 
 "The water doesn't care whose dynasty built the road," a farmer of [[place-maguathen|Magu-Thelqen]] says, leaning on his hoe at the edge of a canal that runs straight for a mile beside an empty avenue.
 
@@ -35,7 +35,7 @@ The selat runs on the flood, the harvest and the render like every [[lore-khelat
 - The chief temple of the Faith of Uqa'a and its estates
 - The planned temple-city, half-abandoned and still inhabited
 
-## Settlements
+## Settlements {#settlements}
 
 Magu-Thelqen (~22,000)
 : the selat capital and the seat of the Halzi'a.
@@ -43,7 +43,7 @@ Magu-Thelqen (~22,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatmaguthn|The Selat of Magu-Thelqen]]
 : The selat that holds this land

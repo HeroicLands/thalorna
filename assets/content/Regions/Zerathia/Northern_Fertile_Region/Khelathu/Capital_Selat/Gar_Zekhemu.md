@@ -18,7 +18,7 @@ data:
   notes: "A grain-village of 180 people in the farm-and-market country around Galezkara, distinct from the village of the same name in Anlagh-Zetun Selat"
 ---
 
-## Overview
+## Overview {#overview}
 
 "There are two of them," the scribe at the granary door says, pen already lifted, "so tell me which one you came from."
 
@@ -26,7 +26,7 @@ data:
 
 It shares its name with a distinct [[place-garzekhemu2|Gar-Zekhemu]] in Anlagh-Zetun Selat. A scribe entering a consignment has to write which Gar-Zekhemu sent it, and the joke of the two has outlasted several generations of scribes.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkaraslt|Galezkara Selat]]
 : The surrounding farm-and-market country

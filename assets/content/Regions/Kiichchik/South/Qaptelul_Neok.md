@@ -17,7 +17,7 @@ data:
   notes: "The garrison town at the southern edge of K'ushi Ish'bal's plateau, where the last cord of the Speaking Road is read, the Blood-Workers keep their southern garrison, and every expedition south is outfitted."
 ---
 
-## Overview
+## Overview {#overview}
 
 The road shrine at the south gate of Q'aptel'ul Ne'ok is the last on the continent. Its keeper decodes the last _k'otsel_ cord that the [[affiliation-chumishlan|Ch'um Ish'lan]] carries south, and no runner with a priestly mandate goes beyond it. Q'aptel'ul Ne'ok is a garrison town of about 6,000 on the southern lip of the high plateau of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], where the grassland breaks into canyons and the land falls toward [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] and the wastes beyond. Everyone in it holds the walls, fills the storehouses or outfits the expeditions that leave from it, and most people do two of the three.
 
@@ -41,7 +41,7 @@ A party bound south arrives in Q'aptel'ul Ne'ok from the north with an oath, a p
 
 The town is plain and quiet. There is little music, little painted stone and almost no luxury. A party coming back from the south passes through the town on its way north, and the town turns out to watch it come up the road: the people count the returners and say nothing until they have passed.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kuxiixbal|K'ushi Ish'bal]]
 : the plateau realm that holds the town

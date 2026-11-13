@@ -75,7 +75,7 @@ Another significant observance is the [Dedication of the Apprentice]{.name data-
 
 Individual devotion to Marendas takes the form of scholarly and intellectual pursuit. The devout are expected to develop mastery in at least one field of knowledge—whether that be medicine, mathematics, history, languages, craftsmanship, or philosophical theory—and to share that knowledge with others through teaching or the creation of works that benefit civilization. Many households maintain libraries and reading corners dedicated to Marendas, and the faithful may spend hours in study and contemplation. Making offerings to Marendas typically involves donating books and scrolls to temple libraries, commissioning the creation of new manuscripts, or sponsoring the education of promising youth who could not otherwise afford training.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Marendas is fundamentally different from other Aureldian faiths in that it prioritizes scholarship over hierarchy. At the apex stands the **Mentara**, the Master of Wisdom, traditionally chosen by vote of the senior scholars within the faith rather than appointed by secular or ecclesiastical authority. The Mentara is the keeper of Marendasan doctrine and the final authority on matters of theological interpretation. The current Mentara maintains residence at the [Grand Temple of Illumination]{.name data-type="place/structure"} in a major center of learning, from which she oversees the priesthood's diverse scholarly endeavors.
 

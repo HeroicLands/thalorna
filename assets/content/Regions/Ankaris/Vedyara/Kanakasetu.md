@@ -23,7 +23,7 @@ The village holds one of the twenty-three houses of [[place-bhrvdvstna|the Bhara
 
 Two panning families work the bar below the bridge. It is thin ground and yields about what two families eat.
 
-## See Also
+## See Also {#see-also}
 
 [[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land

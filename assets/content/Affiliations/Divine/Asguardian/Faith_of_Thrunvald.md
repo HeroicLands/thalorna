@@ -386,7 +386,7 @@ The low ceremony is the [Hammer's Blessing]{.name data-type="lore/custom"}, in w
 
 Three ordeals are held to win the god's favor. In the [Hammer's Trial]{.name data-type="lore/custom"} the faithful lift and carry a heavy hammer a great distance and dedicate their strength to Thrunvald. In the [Ocean's Challenge]{.name data-type="lore/custom"} participants navigate treacherous waters, trusting the god to guide them safely. In the Iron Vigil they remain watchful through a stormy night and protect a sacred site from any threat.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-thrumuskjoldur|Thrumuskjoldur]]
 : the Order of the Hammer, priests who master combat and protection at a coastal hov

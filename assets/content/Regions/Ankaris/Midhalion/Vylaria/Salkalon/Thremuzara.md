@@ -17,13 +17,13 @@ data:
   notes: "A salt town of the Salkalon coast beside broad salt-pans, one of the province's four great fishing towns, which salts the catch of half the lesser villages and whose handful of pan-owning families are richer and more powerful than the town's size suggests."
 ---
 
-## Overview
+## Overview {#overview}
 
 Thremuzara is one of [[place-salkhalon|Salkalon]]'s four principal fishing towns, a town of about six thousand built beside the broad coastal salt-pans that give it its name. Salt and salt-fish are its livelihood. It cures the catch of half the lesser villages along this stretch of coast, and its salt feeds the curing-sheds from [[place-volkhemara|Volkemara]] to [[place-braldvik|Bralvik]].
 
 A woman who has worked the curing-houses since girlhood shows a new hand the line of barrels and says why the work comes to Thremuzara: "Every village on this coast has fish. We have the salt, so they bring the fish to us." Control of the salt-pans makes Thremuzara's handful of pan-owning families quietly powerful far beyond the town's modest size.
 
-## Arriving
+## Arriving {#arriving}
 
 The pans are seen before the town: a flat country of shallow square basins along the shore, mile after mile of them, divided by low banks of clay and fed by a single channel from the sea. In summer the basins are every color from gray-green to pink to white as the water thickens, and the light off them hurts the eyes at noon. The salt is raked into heaps along the banks, each heap as tall as a man and capped with reed thatch against the rain, and the heaps run in lines toward the town like the tents of an army.
 
@@ -37,7 +37,7 @@ The fishing villages bring what they cannot cure themselves. The curing-houses s
 
 The salt is taxed at the heap. Each spring a clerk of the province's tax-farmer, the _tolar_ of [[affiliation-tolvan|the Tolvan]], walks the banks and counts the heaps of every family, and the family pays by the count. The families build their heaps tall.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Thremuzara is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), and the five pan-owning families fill both. The first of them is the [Brazemen]{.name data-type="affiliation/lineage"}, a provincial family named in the old way for its estate, whose mistress, [[being-dorandabraz|Doranda Brazemen]], has run the largest pans on the coast for twenty years. She sets the price of salt each spring, the other four families follow her, and the villages pay it.
 
@@ -47,7 +47,7 @@ Each family keeps order on its own pans, with stewards, overseers and watchmen, 
 
 The pan families hold the coast's salt and mean to keep it. Doranda Brazemen sets the price each spring, and a lesser village has begun selling its fish to a Delalara house that brings its own salt by sea, which the five families want stopped. The tax-farmer's clerk has found a heap that is salt outside and clay inside. A raker who ran from the Brazemen pans in the spring is posted as a runaway slave and swears he was born free.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The [Salt Barrel]{.name data-type="place/structure"}, by the harbor, is where the village boatmen drink while their catch is weighed, and it has four rooms upstairs for factors' agents and the clerk who counts the heaps. A party with business with one of the families is lodged in that family's house, and is shown the pans from the tower whether or not it asks.
 
@@ -57,7 +57,7 @@ The [Salt Barrel]{.name data-type="place/structure"}, by the harbor, is where th
 - **The village that sold elsewhere.** One of the lesser villages has begun selling its fish to a Delalara house that brings its own salt by sea. The pan families want the house's salt-ship stopped, and the village wants protection from the pan families.
 - **The raker who ran.** A raker escaped from the Brazemen pans in the spring, and the family has posted a reward for him as a runaway slave. He reaches the party first and swears he was born free.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provincvld|Province of Salkalon]]
 : parent province

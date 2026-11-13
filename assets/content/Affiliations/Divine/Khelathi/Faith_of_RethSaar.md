@@ -86,7 +86,7 @@ His festivals fall at the start of each new lunar cycle, when his dominion over 
 
 At home a devotee keeps a journal or record-book of important events, spiritual insights and practical knowledge gained from experience. Many homes hold a small shrine with an image of Reth'Sa'ar and a few carefully chosen scrolls representing the owner's most valued knowledge, and scholars of means often commission copies of important texts to donate to temples, leaving a lasting legacy of their intellectual work.
 
-## Organization
+## Organization {#organization}
 
 The priesthood is hierarchical in a way distinct from that of the martial temples. At the apex stands the Thaz'Lekhau, the High Priest or High Priestess, who typically holds spiritual authority and recognized learning in mathematics, astronomy or sacred language. Below serve the Lem'Nelgir, ordained priests of knowledge, each over a specific domain: the keeper of the astronomical tables, the keeper of medical texts, the keeper of architectural plans and so on. Each Lem'Nelgir holds authority over a particular archive and guides the training of younger scholars.
 

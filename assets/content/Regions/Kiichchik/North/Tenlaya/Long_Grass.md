@@ -17,11 +17,11 @@ data:
 # terran_analog: the tallgrass prairie of Iowa, eastern Nebraska, southern Minnesota and the eastern Dakotas, with the prairie fires set by its hunters, the raid trails toward the Mississippian towns, and the Pipestone quarry in its north-east
 ---
 
-## Overview
+## Overview {#overview}
 
 In late summer the grass of the eastern plain stands higher than a man's head, and a band crossing it walks in single file down a trail it cannot see over, with a scout on every rise. The bands call it Wato Tenla, the Long Grass: the wet, rich eastern prairie of the [[affiliation-tenlaya|Tenlaya]], the Grass People, between the [[place-hesunshewanrgn|Village River]] and the forests of the east. About 80,000 people hunt it, in bands that are larger and richer than those of the west and that raid more than any others. The other nations of the north know the Grass People best from here, because this is the edge of the plains that faces them.
 
-## The Land
+## The Land {#the-land}
 
 The Long Grass is lower and wetter than the [[place-wehioshtergn|Cairn Plain]], and it gets its rain in spring and early summer as well as in storms. The grass grows tall and thick and green until midsummer, then goes red and gold. Small lakes and sloughs lie in the hollows, full of ducks and geese, and the rivers wind through it in wooded valleys broader than any in the west. Elk come out of the woods to graze it, and the herds come into it in summer when the western grass is dry.
 
@@ -45,7 +45,7 @@ West, the Long Grass ends at the Village River and its villages. East and south-
 
 Robes, hides and dried meat go east, to the One Fire's towns for shell beads, engraved shell, copper and fine pottery, and to the Maple People for corn, copper and maple sugar, in trade in summer and as plunder in autumn. Captives go both ways. Red stone comes down from the quarry as pipe bowls, carried by delegates and traders under the compact's peace.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tenlayargn|Tenlaya Region]]
 : the grasslands of the Grass People

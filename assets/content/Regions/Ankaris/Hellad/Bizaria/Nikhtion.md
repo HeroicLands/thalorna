@@ -21,7 +21,7 @@ Nikhtion governs itself, apart from any of the League's city-states. A council o
 
 Its weight in the League is out of proportion to that number. Every major merchant family keeps ancestral tombs here, and no noble wishes to offend the people who guard his ancestors' rest, so the council holds a soft power in League politics that no census of its residents would suggest.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]
 : the confederation of city-states

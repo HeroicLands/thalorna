@@ -21,7 +21,7 @@ data:
 
 Anyone with business there plans by the ferry's season, not by the road.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

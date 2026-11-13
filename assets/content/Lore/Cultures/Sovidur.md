@@ -122,7 +122,7 @@ A Sovidur owes in the order of his tent: the household first, then the kin who s
 
 Nothing is owed to a tribe that is not your own, to a stranger without a sponsor, or to a claimant who says he speaks for every tribe at once.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the steppe, the sands and the wells the tribes own

@@ -156,7 +156,7 @@ Three groups stand on what the Senali give or withhold. The Áelendan carry thei
 
 For a player, the one thing to understand first is that a character does not deal with the Senali. A character deals with the people the Senali trust to carry, and those people carry exactly. The [[doc-senaliadvguide|Senali Adventurer's Guide]] covers what a stranger meets first, what gets a stranger into trouble, and the ways a campaign reaches them.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-flksenali|Senali Folk]]—their nature, their history and their dealings with humanity
 - [[lore-senaliarrv|The Coming of the Senali]]—the arrival at about 7500 BF

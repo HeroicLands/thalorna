@@ -17,13 +17,13 @@ data:
 
 Caught by snow in a high pass of [[place-norgaad|Norgaad]], the party climbs to the only shelter in sight: a jarl's fortress over its own iron and silver mines, its chimney smoking into the storm. The household died in a single night, and its dead keep the walls and stoke the furnace, where the jarl himself is bound and still at work. The valley says he burned them to buy his life. He did not: he believes it is still the night of his cure, and with each hammer-stroke he calls his household's morning roll and waits for them to wake.
 
-## Overview
+## Overview {#overview}
 
 [[place-vruthborg|Vruthborg]] was the odel of Jarl [Brildorv Braldendik]{.name data-type="being/npc"}, a smith-jarl of the [[place-flarnfjall|Flarnfjall]] dying of the forge-cough with no heir to take his forge. A guest no record describes came up the pass and taught him a binding: a sealed chamber of runed iron under the furnace, an anvil in the heart of the fire, and one great firing to be struck until the iron took it. The firing went through the flues under the hall and the barracks, and the household died in their beds. They are _helthrall_ now, [[lore-undead|Helspawn]] of the driven kind, and they move only when the heat runs through the fortress. Each stroke of the jarl's hammer sends it.
 
 The party arrives believing what the valley believes, and everything in the first two scenes agrees: a dead household, a furnace fed with people, a jarl still at work in the fire. The fortress has a way out under it, in the cold of the old workings, and a way to break the binding, in the miners' rule of fire, then water.
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 The full truth of the fortress—the guest's promise, the night of the firing, what the jarl believes, who is still alive, and what feeds the binding—is in [[place-vruthborg#truth|the truth of Vruthborg]]. In short: the jarl did not choose his household's death and does not know of it. He believes it is still that one night. With each stroke he calls a name from the household roll, as he did every morning of his life, and the one called rises and goes to its post. The binding feeds through the dead stokers, not through him.
 
@@ -69,14 +69,14 @@ Once the reveal lands, the party has a way into the fire it did not have before:
 > [!TIP]
 > Play Krildinda after the reveal as a woman who wants to be angry and cannot find where to put it. She may want to answer her name to him. She may want the party to quench him without a word. Either is right for her, and the party has to choose with her.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A [[place-tvarnmark|Tvarnmark]] silver-buyer knows what Vruthborg's treasury held the winter its tally stopped, and that no one has claimed it.
 - **The mercenary or common soldier.** The district's officer will pay hard silver to a party that goes up the pass road and brings back word of why Vruthborg has sent no tally, so long as he does not have to go himself.
 - **The leader.** The jarl's sister's son wants to stand at the ting and claim the odel. He needs proof the jarl is dead, and the ting will want to see the jarl's arm-rings.
 - **The lone wanderer.** The wanderer was crossing the pass late in the year, and the snow came early.
 
-## The Opening
+## The Opening {#opening}
 
 The storm has been building since noon. Read or paraphrase:
 
@@ -237,7 +237,7 @@ Each hammer stroke comes from inside the furnace. Jarl Brildorv is there, in the
 
 **If bypassed, failed or cut short.** The haulage tunnel runs from the lowest gallery of the workings under the pass to a sledge-road below the snow line, and it is the way out whatever happened in the foundry. A party that escapes by it without the treasury can come back up it in spring, when the pass opens, to a fortress that is cold if the binding broke and warm if it did not.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the binding broke.** The chimney of Vruthborg stops smoking, and the district's officer sends men up the pass road in spring to count the ore and the dead.
 - **If the jarl knew at the end.** The party can tell the ting what he did and did not do, and Krildinda can say it with them. The valley's name for him is the party's to keep or to answer.
@@ -246,7 +246,7 @@ Each hammer stroke comes from inside the furnace. Jarl Brildorv is there, in the
 - **If the jarl still burns.** The hammer goes on, the roll goes round, and every traveler the snow catches below the spur climbs to the warm gate.
 - **If the guest is sought.** The black runes on the chamber doors are all the trail there is, and the north credits such runes to the [[affiliation-nghtwghtcncl|Nightwight Council]].
 
-## See Also
+## See Also {#see-also}
 
 [[place-vruthborg|Vruthborg]]
 : the fortress and its foundry

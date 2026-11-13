@@ -17,7 +17,7 @@ data:
   notes: "Seat of the border realm, a fortress-temple that sells guides, provisions and blessings to those about to cross into the wastes."
 ---
 
-## Overview
+## Overview {#overview}
 
 Before the crossing south, a party stops at Q'aptel Tsa'kul, and the temple's quartermaster sells it everything it will need. The seat of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], whose name begins with _q'aptel_, the border, about 4,000 people, is a fortress-temple built to endure at the last edge of the ordered Kì'ìch'chik world, where managed fields and pyramid-cities give way to toxic mineral flats, hissing geothermal vents and a sky that glows sickly yellow or bruised purple with distant storms. The settlements here exist as waypoints for the doomed and the desperate.
 
@@ -33,7 +33,7 @@ The priesthood is intensely focused on two deities: [[lore-puqilchaqundty|P'uqil
 
 Alchemists and mystics venture into the poisoned lands for crystalline formations ground into potent reagents, and for sulfurous compounds sold to alchemists in the northern cities. The cost in lives is enormous, and the priesthood keeps trade in them restricted.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]
 : the realm of storm-priests and temple-fortresses

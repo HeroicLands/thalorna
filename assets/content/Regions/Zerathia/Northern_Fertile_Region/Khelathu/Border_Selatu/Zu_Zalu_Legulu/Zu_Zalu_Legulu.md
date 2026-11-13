@@ -15,7 +15,7 @@ data:
   government: selatzuzllgl
 ---
 
-## Overview
+## Overview {#overview}
 
 **Zu-Zalu-Legulu** is the land of [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
@@ -35,7 +35,7 @@ The southern trade-road and the garrison drive the selat. The thin valley farmla
 - The fortress-line of [[place-balehen|Balehen]] and the garrison-posts that hold the march
 - The southern trade-road and the toll-and-tribute trade in gold, ivory and ebony
 
-## Settlements
+## Settlements {#settlements}
 
 Balehen (~24,000)
 : the selat capital, a great fortress-town commanding the river at the first cataract: a double-walled stronghold of garrison barracks, the war-temple of [[affiliation-qeztu|Qeztu]], the toll-house and tribute-store of the southern trade, and the seat of the warden-Halzi'a. It is the empire's strongest fortress south of the capital.
@@ -43,7 +43,7 @@ Balehen (~24,000)
 The fortress-line villages
 : garrison-posts, forts and frontier settlements of 500–5,000 people lie strung along the river and the desert flanks. Among them are [Iken]{.name data-type="place/structure"} (the river toll-fort beyond the cataract), [Mirgis]{.name data-type="place/structure"} (a double fortress on the west bank) and [[place-zinhenzalu|Zinhen-Zalu]] (the deepest garrison), with a scatter of mixed [[lore-khelathiclt|Khelathi]]-southern farm-and-trade villages along the irrigated strip.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]]
 : The selat that holds this land

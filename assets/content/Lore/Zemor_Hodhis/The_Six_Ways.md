@@ -150,7 +150,7 @@ The Order's response to these objections, when pressed, is pragmatic rather than
 
 The Thordimalon still teaches the Six as the whole of magic and trains its initiates within a single current. Its chapterhouses carry that teaching beyond imperial territory, where foreign practices resist the Order's categories. Kentra mages pursue mastery across all six, while the Order treats reports of anything beyond them as the affliction _selthkelmeza_.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ordoarcanis|Thordimalon]]
 : The institution that codified and enforces the Zemor Hodhis

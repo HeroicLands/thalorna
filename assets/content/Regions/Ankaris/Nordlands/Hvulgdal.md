@@ -22,7 +22,7 @@ Jarl Hlaskinda is known as a wise ruler, and the clearest proof of it is whom sh
 
 A farmer of Hvulgdal with a quarrel over seed-corn or a share of the threshing takes it to Bruldorv before the jarl, and the dale accepts his word on it. The name says what the first settlers valued: _hvulg-_ is a bay that shelters in any wind, and the generic that follows is the one for a dale.
 
-## See Also
+## See Also {#see-also}
 
 [[being-brldrvgrnshld|Bruldorv Greenshield]]
 : the jarl's counselor on agriculture

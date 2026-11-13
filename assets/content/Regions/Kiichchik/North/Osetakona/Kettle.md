@@ -18,7 +18,7 @@ data:
   notes: "The Kettle: the palisaded longhouse village by the Great Falls where the Grove's great council sits, and which is about to move."
 ---
 
-## Overview
+## Overview {#overview}
 
 A visitor to Ostakaten who wants an answer from the Maple People waits, sometimes for days, while the council talks. The village is the Kettle, the place where the great council of the [[affiliation-osetakona|Osetakona]] sits: about 2,000 people of the Falls People behind a double palisade on a rise above a lake, half a day's walk from the [Great Falls]{.name data-type="place/feature"} in the [[place-kahsiotargn|Falls Country]]. The name belongs to the council and not to the ground. Whichever village hosts the great council is the Kettle, and the south, which counts it as the Grove's seat, has learned that its seat moves.
 
@@ -40,7 +40,7 @@ The Kettle's fields are thinning and its firewood is a long carry, and the clan 
 
 Where the council sits matters. The Dawn People want the next Kettle closer to the sea, where the council can see what it is deciding about; the Falls People want it where it has always been. The Rapids People have offered [[place-tsinikasiwa|First Sugar]], between the two and beside the sugar bush where the Grove began.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-osetakona|Osetakona]]
 : the Maple People and their Grove

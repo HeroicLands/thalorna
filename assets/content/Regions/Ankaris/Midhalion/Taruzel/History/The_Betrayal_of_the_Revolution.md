@@ -144,14 +144,14 @@ The outlawed captains took to the sea, and since the guilds called them pirates,
 [[affiliation-unchained|The Unchained]]
 : the veterans ashore, who shelter the captains, burn the guilds' bonds and free the debt-bound.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The tenements and the estates.** The veterans' quarters of the port cities, and the guild families' houses above them.
 - **The petition.** At every session of the Grand Council a councilor of Yamuzel sponsors the veterans' petition for the land, the guild places, the pensions and the voice, and it is read on the last afternoon.
 - **The children.** The veterans of the Shoals are growing old, and their sons and daughters are of an age to inherit the grievance and the broadsheets with it.
 - **The outlaws.** Three bodies of outlaws in the channels and the harbor districts, and a League that would sooner hire them than hunt them.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-taruzelwar|The Taruzelian War of Independence]]
 : the war the guilds paid for

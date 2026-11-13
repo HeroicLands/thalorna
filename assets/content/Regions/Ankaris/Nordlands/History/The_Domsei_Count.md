@@ -128,7 +128,7 @@ The truce holds in Vithgard. Nordheim settlers carried hall-posts into a Varokh 
 
 Nobody by office. The Lawspeakers of the five kingdoms count the sittings, because each recites at them; the Circle keeps the ages and the named years; and the elders of Hnarvdal keep the winters. The three reckonings agree because the Circle makes them agree, and where a king's reeve and the Hnarvdal post disagree about a year, the post has never given way.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nordfirstsit|The First Sitting on Domsei]]
 : the year the count begins

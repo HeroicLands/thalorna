@@ -63,7 +63,7 @@ The [Vilérian Republic]{.name data-type="affiliation/polity"} built its city on
 - **The ladders.** The captain of the watch-house on the [Spire Circle]{.name data-type="place/site"} wants longer ladders before winter, and the ward's _peltros_ will not pay for them. He hires a party to count the stories on Nerval that his ladders cannot reach.
 - **The first Circle.** A ward captain of [[affiliation-vylrnmltry|the City Watch]] wants to know which hill's Circle will fill first when the Orzas dies, and hires a party to listen in the taverns of each.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city on the hills

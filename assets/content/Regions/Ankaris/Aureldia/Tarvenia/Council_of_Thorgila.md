@@ -57,7 +57,7 @@ The council has the autumn fair to keep, and the quarrels its notable residents 
 
 The council's fair keeps the measure of the Thórgila valleys. A verse-duel sung at one autumn fair, between the woman the fairs called [Lírkeza]{.name data-type="being/npc"}, the Sling, and the crossbowman they called [Ozkarre]{.name data-type="being/npc"}, the Hail, is what the town sings back as [[lore-fairverses|the Verses of the Thórgila Fair]], and the fairs of the valleys take their measure from it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thorgila|Thórgila]]
 : the hill town

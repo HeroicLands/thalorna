@@ -71,7 +71,7 @@ The wards are full of orders not given. On Nerval a landlord has added an eighth
 
 On the Spire Circle the magistrates hear a quarrel between faiths. [[being-ankhelossath|Ankelos Satheris]], an archimandrite of the Sacred Forge, presses the city's magistrates to restrict the preaching of [[affiliation-blackflame|the Black Flame]], whose crowds grow every year, and the district law gives a _peltros_ licenses and nuisance to work with and nothing more. The inspections go on as they always have, each one a negotiation, and the Clerk of the Roll's register shows which premises are inspected and which are not.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-verdanorzara|The Courts of Orzara]]
 : the Verdan Orzara and the tiered civic courts above them

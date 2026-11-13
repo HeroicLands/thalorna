@@ -72,13 +72,13 @@ The mountain lord [Tórsaro]{.name data-type="being/npc"} knew that a legion wou
 
 [[affiliation-vylarinmpr|Viléria]] never sent a fifth expedition. The legion was struck off the rolls, and the chancery's account of [[lore-westernwars|the Western Wars]] says that the worst of the four was lost in the mountains and says no more. The Empire held the lowland approaches thereafter and left the mountains alone, which the Astúrathi take as the Empire's acknowledgment.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Horn Gorge.** A blood-field below the plateau, which replays the closing of the gorge ([[place-horngorge|The Horn Gorge]]).
 - **Asturath's boast.** The mountain kingdom that was never conquered, and the cairn it raised at the gorge's upper end.
 - **The seat of the High Kings.** The reason Lezkora holds the crown: no army that has reached the foot of the plateau has got up it.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-horngorge|The Horn Gorge]]—the ground the battle left
 - [[affiliation-kngdmstrth|Kingdom of Asturath]] · [[place-lezkora|Lezkora]]

@@ -12,7 +12,7 @@ The **Shield-Hall** stands at the heart of [[place-vrathavan|Vrathavan]]. The ho
 
 She is renowned for her victories in the shield-wall and has trained generations of warriors. Her word is law in the settlement.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vrathavan|Vrathavan]]
 : the port town the hall stands in

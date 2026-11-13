@@ -17,7 +17,7 @@ data:
 
 At dawn a rider of the [[affiliation-mrjlrtrb|Mirjolur]]'s younger horde is found dead at a salt cutting on the western rim of [[place-ewod|Evod]], his mouth and throat packed with salt. The younger horde says only the [[affiliation-khldrtrb|Khilodur]] kill that way, and its head wants blood before the riders of a dovaq gathering the steppe under his banner reach the rim. The Khilodur say nobody kills that way, and they expect to be blamed whatever the truth is. Nobody killed him. He went to the stair his horde found under the crust, against his elders' word, and the crust gave way under him. His companion carried him to the cutting and left him there, and that companion is the son of the man calling for blood.
 
-## Overview
+## Overview {#overview}
 
 The adventure runs over three days on the rim of Evod, in the [[place-hskrrgn|Ghoshiqor]], from the morning the body is found to the moot at which the Mirjolur speaker hears the case. Its clock is the banner: the gathering man's riders are expected at the younger horde's camp on the third evening, and [Orqazjilaq Mirjolur]{.name data-type="being/npc"}, head of the younger horde, means to meet them with the Khilodur driven off the western rim and the stair his to give.
 
@@ -33,7 +33,7 @@ This is a quarrel between two tribes and three hordes, not a murder with a culpr
 | someone went with him and came back         | the second track (Scene Four); [Orqazdovaq Mirjolur]{.name data-type="being/npc"}'s hands (Scene Three) |
 | the companion is Orqazjilaq's son           | Orqazdovaq himself (Scene Three or Five); his mother's silence (Scene Three)                            |
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 Ten days ago a salt-cutter's son of the younger horde put his pick through the crust on a canal bank and broke into a dry stair going down. The horde's elders told no one outside and forbade anyone to go near it until Orqazjilaq decided what to do with it. Orqazjilaq has decided: the stair is a gift for the gathering man, worth the whole western rim to the horde that gives it.
 
@@ -75,14 +75,14 @@ The truth is complete when the party knows that Yovaqtoliz drowned at the stair 
 
 Once the party knows, the stair is the prize and the truth is the price of it. Orqazjilaq pays for silence; Mirjoltoliz pays for the moot; Iqodlun has nothing to pay with and the most to lose. Orqazdovaq, if the party speaks with him alone, wants to be the one who says it.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A buyer at [[place-qisomrktcmp|Qiiso]] has heard that a salt-cutter's boy on the rim broke into something under the crust, and pays the party to reach it before the tribe opens it to anyone else.
 - **The mercenary or common soldier.** The younger horde hires the party to carry its demand for blood to the Khilodur well at Iqod, because no Mirjolur can ride there and come back.
 - **The leader.** Mirjoltoliz wants to know what the younger horde found before the gathering man does, and hires a party whose faces his own riders do not know.
 - **The lone wanderer.** The wanderer is a guest at Iqod, salt eaten and owed protection to the edge of the Khilodur country, when the younger horde's demand arrives.
 
-## The Opening
+## The Opening {#opening}
 
 Read or paraphrase:
 
@@ -228,21 +228,21 @@ The gathering man's riders leave with whatever the moot gave them: a stair, a fe
 
 **If bypassed, failed or cut short.** If the party is not at the moot, the speaker hears what the moot brings him, and the feud follows.
 
-## If the Party Does Nothing
+## If the Party Does Nothing {#if-the-party-does-nothing}
 
 - The body is laid out, and the salt in its mouth is the only evidence anyone repeats.
 - On the third day the speaker gives the younger horde the western cuttings, and the Khilodur refuse to leave them. The first killing of the feud follows within the season.
 - Orqazjilaq meets the gathering man's riders with the stair and the western rim, and the younger horde swears under the banner. The elder horde does not, and the three hordes are three answers in the open.
 - Orqazdovaq goes out onto the flat alone to find the stair again and does not come back.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the truth was told at the moot.** Orqazjilaq loses the younger horde's trust and keeps its headship for now. Iqodlun has a place at Qiiso she did not have. The Mirjolur and the Khilodur are still at feud over the western cuttings, but nobody owes blood for Yovaqtoliz.
 - **If the party sold its silence.** It has Orqazjilaq's silver, and it owes the younger horde the silence the horde bought. The Khilodur never learn why the case was dropped, and would pay to hear it.
 - **If the stair is known.** Every tribe on the rim, the buyers at Qiiso and the gathering man's riders want it opened, and the Mirjolur and the Khilodur both claim the bank it lies under.
 - **If Orqazdovaq lives.** He owes the party his life or his name, and he has stood at the stair mouth.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-mrjlrtrb|Mirjolur]]
 : the three hordes, and the younger horde's claim to the western rim

@@ -39,7 +39,7 @@ The March has no citadel. Its strength is the lord's own household—a mounted r
 
 The relationship with [[affiliation-karvashion|Karvashion]] is close and unequal. The city's caravansary masters depend on the March to keep the Dunhara road open and its wells clean, and they pay for the privilege in tolls and in gifts to the lord; the lord depends on Karvashion for grain, coin and a market for the March's wool. Neither could do without the other, and both would rather the council did not look too closely at how the road's revenue is divided.
 
-## Peoples
+## Peoples {#peoples}
 
 The March's people are herders and villagers of upland Bizarian stock, conservative, clan-minded and worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep [[affiliation-ashanpnthn|Ashaian shrines]] and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from the south to buy sheep. The upland speaks [[skill-byzarnlng|Bizarian]] with its own accent and regards the coastal cities as rich, soft and far away.
 
@@ -47,7 +47,7 @@ The March's people are herders and villagers of upland Bizarian stock, conservat
 
 The March lives on stock and passage. It sends wool, hides, cheese and horses down to Karvashion and [[place-byzaris|Bizaris]]—the hideworkers of Bizaris take the greater part of the March's leather—and sells sheep across the Amradi line. The caravan road brings tolls, escort fees and the trade of the caravanserais; incense, dyestuffs and Dunhari silver come up it, and Órashion iron and coastal wine go down. The hunts bring the lord prestige and the March the custom of the League's richest men, which the villages along the road have learned to charge for.
 
-## See Also
+## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]
 : the region the March belongs to

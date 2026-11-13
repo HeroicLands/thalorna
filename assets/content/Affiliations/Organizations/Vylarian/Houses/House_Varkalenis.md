@@ -45,7 +45,7 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The steward of House Varkalenis gives each new client the same instruction on his first morning at the door: "Stand on the third step, and look at the cupboard, not at the ceiling. Five of those faces were Orzoi, and three of them are gods. The plaster has waited since the fire, and it can wait for you."
 
@@ -73,7 +73,7 @@ House Varkalenis has a claimant and no money. [[being-dlmrsvrklns|Dalmeras Varka
 - **[[affiliation-thalurates|House Thalurates]]**, raised from the clerks of the [[affiliation-imperialoffices|Imperial Offices]] within living memory. Ankelas will not dine with them, and calls them the Offices' children.
 - **The cult's treasurer**, who means to let the porch of a Varkalenis Orzas's temple to a ropemaker unless the house can show the endowment that keeps it.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The temple's deed.** The cult's treasurer means to let the porch of a Varkalenis Orzas's temple to a ropemaker unless the house can show the endowment that keeps it. The original deed burned with the imperial archive ([[lore-archivefire|The Archive Fire]]), and the house needs a copy from a provincial chapterhouse of [[affiliation-imprlscrblgld|the Imperial Scribal Guild]] before the treasurer's term ends.
 - **The three cousins.** Each of the cousins hires a party to make the other two look unfit before Ankelas writes his will.
@@ -82,7 +82,7 @@ House Varkalenis has a claimant and no money. [[being-dlmrsvrklns|Dalmeras Varka
 **For the GM:** The house is in debt to the edge of its stipends. Its head borrowed against them from a moneylender of [[affiliation-danvar|the Danvar]], the note has been sold on, and a factor of House Thalurates holds it. Ankelas does not know who holds it. The holder means to forgive it in exchange for the house's heir marrying a Thalurates daughter.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-antel|Antel]]
 : the Old Hill, where the house still lives

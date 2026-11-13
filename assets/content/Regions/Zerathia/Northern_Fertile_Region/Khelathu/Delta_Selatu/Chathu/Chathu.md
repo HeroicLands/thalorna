@@ -18,7 +18,7 @@ data:
   notes: "Selat capital of Chathu."
 ---
 
-## Overview
+## Overview {#overview}
 
 "We dry the dead here, in a manner of speaking," says a priest of [[affiliation-wethur|Weth'ur]] to a visitor who has asked about the white flats at the edge of town. "The natron is ours, and the embalmers of the whole empire buy it." Chathu is the capital of [[affiliation-selatchathu|the Selat of Chathu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 9,900 on the sea-margin of the delta.
 
@@ -26,7 +26,7 @@ It holds the selat's chief temple of Weth'ur, the Halzi'a's court and granaries,
 
 The selat's coast is where the sea-raiders landed in 1960 ST (151 BF); the port they burned lies in the reeds as [[place-zelamqelu|Zel-Amqelu]], and the town's customs patrol still watches that shore ([[lore-searaiders|the Sea-Raiders' Throne]]).
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatchathu|The Selat of Chathu]]
 : Parent selat

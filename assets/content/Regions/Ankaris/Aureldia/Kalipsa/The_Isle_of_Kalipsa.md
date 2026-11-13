@@ -74,14 +74,14 @@ The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are the island's
 
 ## History {#history}
 
-The Old Mole's stones are the oldest thing on the island, and nobody can date them. The Nordmen fishers and traders who settled the harbor gave the old city its tongue, and the oldest houses count their lines from them. Under the [[affiliation-vylarinmpr|Vilérian Empire]] the port took the guild charter of [[affiliation-tevran|the Tevran Maldor]] and paid its dues, and kept its own Council. A civil war among the houses about 470 AF gave the Harbormaster a single term. The houses built their navy on the tonnage levy in the years of [[lore-southrnfleets|the Southern Fleets]], and since [[lore-crownssettle|the Settlement of the Crowns]] the island has paid tax to nobody. The city-state's note tells the history at length.
+The Old Mole's stones are the oldest thing on the island, and nobody can date them. The Nordmen fishers and traders who settled the harbor gave the old city its tongue, and the oldest houses count their lines from them. Under the [[affiliation-vylarinmpr|Vilérian Empire]] the port took the guild charter of [[affiliation-tevran|the Tevran Maldor]] and paid its dues, and kept its own Council. A [[lore-calypsacivilwar|civil war among the houses]] about 470 AF gave the Harbormaster a single term. The houses built their navy on the tonnage levy in the years of [[lore-southrnfleets|the Southern Fleets]], and since [[lore-crownssettle|the Settlement of the Crowns]] the island has paid tax to nobody. The city-state's note tells the history at length.
 
 ## Hooks {#hooks}
 
 - **The census.** [[being-hrundthrsk|The Harbormaster]] must certify the spring census, and both candidates want a witness to the count who is not in either house's pay.
 - **The spring-houses.** A village of the South Shore has barred its spring-house to the city's water-carts, and the carters want an escort.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-calypsa|Kalipsa]]
 : the city-state that governs the island

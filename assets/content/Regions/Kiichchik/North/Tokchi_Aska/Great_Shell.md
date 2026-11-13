@@ -20,7 +20,7 @@ data:
 # terran_analog: Mound Key in Estero Bay, the Calusa capital, with its shell mounds, water courts and the Grand Canal at Pineland; the Sun's pledge has no single model
 ---
 
-## Overview
+## Overview {#overview}
 
 A canoe coming in from the gulf sees Koyo Hasko as a long white hill rising out of the mangroves: an island of shell heaped up over generations until its summit stands higher than the trees, with houses on its terraces and smoke along its ridge. The name means the Great Shell. About 5,000 people live on it and on the smaller heaps around it, the largest town of the [[place-koyalorgn|Shell Coast]], and its Shell Chief is first among the chiefs of the coast of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire.
 
@@ -48,7 +48,7 @@ The Shell Chiefs mean to make Sohiyo the next Great Sun. They have told the Sun 
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-koyalorgn|Shell Coast]]
 : the islands, marshes and shell towns of the gulf

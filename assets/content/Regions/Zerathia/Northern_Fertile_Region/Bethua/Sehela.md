@@ -14,7 +14,7 @@ data:
   notes: "A small grain-village of Bethua's dry southern interior, kept alive by the engineer-priestesses' qanats and held by House Khalithon."
 ---
 
-## Overview
+## Overview {#overview}
 
 Sehela is a small grain-village in the dry southern interior of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], and it exists because water is brought to it. Its fields are kept alive only by the qanats and channels the engineer-priestesses maintain; let the channels fail for a season and the grain fails with them. The village's peasants work land held by the local House, and the House that holds Sehela and the cantons around it is [House Khalithon]{.name data-type="affiliation/lineage"}, under its clan-matriarch, Dómissa [Tázitha]{.name data-type="being/npc"}.
 
@@ -24,7 +24,7 @@ Sehela is ordered the Bethuan way. A household turns on its women: the mothers a
 
 The village's best-known daughter is [[being-lmbhrpdhnn|Lámbira Pédhinion]], a peasant's eldest daughter who outfought girls years older by the age of ten, was taken into the Dómissa's own household guard, and left it for a path that answered to her own judgment.
 
-## See Also
+## See Also {#see-also}
 
 [[being-lmbhrpdhnn|Lámbira Pédhinion]]
 : the village's best-known daughter

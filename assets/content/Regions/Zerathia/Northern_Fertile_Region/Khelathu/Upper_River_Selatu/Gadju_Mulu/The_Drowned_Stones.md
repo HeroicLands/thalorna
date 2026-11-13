@@ -37,13 +37,13 @@ The hunters of the Zeghet'Nelgu are the ones who know the place, and their Steer
 - **A scholar** who wants proof that the valley had a history before the count, and who will pay a boatman more than the boat is worth.
 - **A priest** who wants the carvings broken before anyone copies them.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The herd.** The hippopotamus herds have moved into the farm country, and the fishermen say something in the stones woke. The hunters want to know whether the herds went because of the wall or in spite of it.
 - **The scholar's boat.** A scholar of the temple libraries hires a crew to take rubbings of the carvings at low water. The Khetai hunter who guides them has been told to bring the boat back empty.
 - **The priest's order.** A priest of [[affiliation-rethsaar|Reth'Sa'ar]] asks the hunters to chip the symbols from the visible stones. The hunters can do it in a morning, and they do not know what else will notice.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zeghetnelgu|Zeghet'Nelgu]]
 : the hunt that holds the marsh by charter

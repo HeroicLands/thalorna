@@ -37,13 +37,13 @@ Below the stairs the old channel runs off in both directions as a long crescent 
 
 The village is quiet, prosperous and welcoming, and it asks visitors the same question first: "Did you come up from the water?" A traveler who did is given the stranger's place on the top step and the best of the evening.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The channel fills.** This year the dead channel has filled to the third step and is still rising, and the river has not done that in living memory. If the Mahanodi is moving back, Rushaghat becomes a river-town again and the village downstream of it loses its water. The boat-shreni wants someone to go upriver and find where the bank is failing before the sabhra hears of it from the downstream village.
 - **The ring that holds.** A cultivator plowing the old riverbed has turned up a mooring post with a bronze plate on it, cut with the seal of a [[lore-mhndkngdm|Mahanodi king]] and a date in the old count. [[place-rajavalilib|The Rajavali Library]]'s copyists want it, because it could date the move the record never dated.
 - **The shrena's boat.** The boat the shrena carries down the steps each year is older than the move and has never touched water since. A buyer from the coast has offered the shrena more than the village's harvest for it, and the shrena's eldest refuses to say why it will not sell.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-drownedcptl|The Drowned Capital]]—the move the record dates, and the oxbow towns
 - [[place-mahanodi|The Mahanodi]]—the river that left

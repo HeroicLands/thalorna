@@ -17,7 +17,7 @@ data:
   notes: "Forest Stronghold"
 ---
 
-## Overview
+## Overview {#overview}
 
 Waldburg is a river crossing and a market. Furs, amber and captives taken on three frontiers pass through it on their way elsewhere, and eight hundred people live behind its timber palisade—the largest number gathered in one place in [[place-vrystwald|Vristwald]]. It remains a village, but at a size that strains the direct rule of its three elders. The Other Chief must hear more bargains and kin debts than one person can settle promptly, while the War Chief must guard both the palisade and the visiting war-bands. Waldburg keeps the dove as its totem: a bird under whose sign rival traders may set a quarrel aside long enough to deal.
 
@@ -27,7 +27,7 @@ The Frithmund who holds the peace at Waldburg's seasonal market, at present [Arn
 
 Waldburg has no treasury, no standing garrison and no wall around anything but the village itself, and that absence is not a weakness anyone here has had reason to correct: there is nothing at Waldburg worth an army's season to take, which is exactly what has kept it standing while armies that tried to take something else never left the forest again.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vrystwldtrbs|Vristwald Tribes]]
 : The villages whose elders sometimes meet here

@@ -20,7 +20,7 @@ data:
 # terran_analog: Chimney Rock, the Chacoan outlier on a high mesa in southwestern Colorado whose great house looks between twin rock pillars at the moon's major standstill rising
 ---
 
-## Overview
+## Overview {#overview}
 
 Two pillars of red rock stand on the end of a long ridge above the [[place-wahaulahuvorgn|Cave Mesas]], each as tall as a great house is high, and between them is a gap of sky. Once in a generation the moon rises in that gap. Yaluhepu, the Moon Door, is the small great house built on the ridge just below the pillars to watch for it: forty rooms and two chambers, reached by a stair cut into the ridge's spine, with about 300 people of the [[affiliation-teyumi|Turquoise People]] living in small houses on the slopes below. It is the farthest outlier of the great houses to the north, and the highest.
 
@@ -40,7 +40,7 @@ On a ledge beside the eastern pillar the house keeps a signal fire ready, with a
 
 Most of the families at the Moon Door are of the Moon clan, and the house's head and its rain chief are always of it. The clan says that it has watched the pillars since before there was a house, and every other clan in the north agrees, because no other clan wants to live on the ridge. The wind on it in winter is hard, the water is carried up from a spring an hour below, and the corn grows on terraces no wider than a bed.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People and their towns

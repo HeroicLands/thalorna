@@ -26,7 +26,7 @@ The lowland priests have reported the village devout. The Speaker to the Lowland
 
 A party that arrives in Kélpasi at the thaw is given the dry barn and bread and is asked, courteously, to keep to the barn until morning. A party that has an Áelendan in it, a Warden's guest or a shaman's, may be asked to sit the night. The village feeds it and says nothing.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kelpasi|Kélpasi]]
 : the village that keeps the night

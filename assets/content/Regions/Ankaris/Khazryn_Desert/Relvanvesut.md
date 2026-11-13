@@ -14,7 +14,7 @@ data:
   culture: khazrynclt
 ---
 
-## Overview
+## Overview {#overview}
 
 Two miles east of [[place-zargandur|Zargandur]], where the snowmelt river's old bed runs out into the gravel and the weirs have left it dry, a dry wash cuts a long shallow scar across the plain. The Tellumi of the quarter call it **Relvanvesut**, "the princes' bones". The [Zhoqarod]{.name data-type="affiliation"} garrison does not call it anything. They mark it on no map and keep no picket there.
 
@@ -72,7 +72,7 @@ The Atarzád fire-priests of the garrison say that only fire puts these dead dow
 
 The wash is a two-hour walk from the east gate over open gravel, no cover and no water. The Zhoqarod do not patrol it. The raiders' camp is at the lower end, in the lee of a bank, and its fire can be seen from the walls on a clear night.
 
-## See Also
+## See Also {#see-also}
 
 [[place-zargandur|Zargandur]]
 : the city whose palace it holds

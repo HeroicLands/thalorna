@@ -71,7 +71,7 @@ There is no great public festival of Zunelas in the conventional sense, but rath
 
 Offerings to Zunelas are subtle and personal—a lock of hair bound with silver thread, a small stone from a beloved's grave, a cup of milk left before sleep, a written prayer sealed and buried beneath a sacred tree. The faith teaches that Zunelas accepts gifts from the dreaming mind and the unconscious heart.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Zunelas is led by the **Nirvena**, the High Priestess or High Priest—a title used regardless of gender. This figure is typically an elderly priestess of visionary power, someone whose dreams have guided kingdoms and whose wisdom is sought by monarchs and councils. The Nirvena is the chief interpreter of the goddess's will and a teacher and mentor to younger priests.
 

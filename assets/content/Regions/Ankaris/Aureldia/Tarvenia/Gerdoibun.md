@@ -17,7 +17,7 @@ data:
   notes: "A highland village of Eskarath in a valley of old oaks, whose grove holds a shrine to the forest guardians."
 ---
 
-## Overview
+## Overview {#overview}
 
 Gerdoibun, "the valley of the oaks" in [[skill-eskarilng|Eskari]], is a highland village of about 450 in [[place-eskarath|Eskarath]]. Above it stands an ancient oak grove with a shrine to the forest guardians ([[affiliation-eskrthsprts|The Spirits of Eskarath]]).
 
@@ -29,7 +29,7 @@ The village keeps its herds in the valley and on the pastures above the grove. I
 
 The elders of Gerdoibun's clans lead it, settling what the young dispute from their memory of custom and precedent, and they send their delegates to the [[affiliation-biltzarrath|Biltzarrath]] each summer.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eskarath|Eskarath]]
 : the highlands it stands in

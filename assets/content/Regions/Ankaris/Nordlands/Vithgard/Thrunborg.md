@@ -17,7 +17,7 @@ data:
   notes: "Fortified Town / Capital"
 ---
 
-## Overview
+## Overview {#overview}
 
 With the first snow every hersvald in the kingdom comes to Thrunborg for the dark: the king's hall stands in the middle, the garrison holds the gate, and the ting's business is done by firelight, with cloaks kept on and tongues held.
 
@@ -36,7 +36,7 @@ People
 Holds
 : the royal hall, the garrison and the winter markets.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : the kingdom this town serves as seat

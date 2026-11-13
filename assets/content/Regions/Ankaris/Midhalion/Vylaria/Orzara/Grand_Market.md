@@ -14,7 +14,7 @@ data:
   government: verdanorzara
 ---
 
-## Overview
+## Overview {#overview}
 
 Everything [[place-orzara|Orzara City]] eats, wears and burns is sold in the Grand Market, and almost none of it is made there. The Grand Market, Delalon Melvar in [[skill-vylarilng|Vilari Language]], spreads across the central flats below the [Velmiros]{.name data-type="place/site"} around the [Grand Market Circle]{.name data-type="place/site"}, the largest licensed market in the [[affiliation-vylarinmpr|Vilérian Empire]]. Its stalls are licensed to the inch, its weights are tried against the city's bronze standard, and its rows are sorted by ware under a district law that says what may be sold where. Around the Circle stand the chandlers who retail what the city buys from beyond its bounds, the counting-houses of [[affiliation-danvar|The Bankers' Guild]], and the Council Hall and guild-halls of [[affiliation-tevran|Great College of Guilds]], whose trades keep their workshops outside.
 
@@ -67,7 +67,7 @@ The Grand Market fears two prices, bread and paper, and both are in question. Br
 - **The paper.** A chandler has taken a note of a great house in payment for a year's account, and the money-changers of the colonnade will not touch it. He hires a party to carry it to the house on the Heights and come back with coin.
 - **The licensed name.** A party is asked to find the citizen whose name stands on a spice stall's license, because the license is due for renewal and the man behind the stall has never met him.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city

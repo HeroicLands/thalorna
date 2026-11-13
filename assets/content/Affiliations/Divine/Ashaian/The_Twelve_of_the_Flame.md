@@ -107,7 +107,7 @@ Every other deity occupies a position within this framework. Ataros is the weapo
 
 This theology gives the Ashaian faithful a martial quality that permeates even the most peaceful aspects of worship. To till a field is to defy chaos. To kindle a fire is to push back darkness. To speak truth is to wound the Serpent. The Ashaian faithful are not passive recipients of divine grace—they are participants in a cosmic war, and their daily choices are the weapons with which that war is fought.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : The great settled Ashaian civilization

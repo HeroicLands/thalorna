@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Standing in **Genzet'Qeztu** runs on reputation as much as on current rank. The council is the empire's senior commanders in session, and it includes officers long retired from active command, whose counsel still carries weight with the officers they trained. A field commander who ignores the council's advice risks little immediately, but finds promotion and support harder to come by from officers who remember being overruled.
 
@@ -56,7 +56,7 @@ The council deals in counsel and standing rather than coin. Its currency is repu
 
 If you serve under the council's commanders, learn whose students they are. The line of teachers explains more about the council's votes than the order of rank.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : The empire it serves

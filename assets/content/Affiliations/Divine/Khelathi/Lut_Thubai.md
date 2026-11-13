@@ -47,7 +47,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Lut-Thuba'i is the temple of [[lore-thubaidty|Thuba'i]], god of the flood and of prosperity, whose priests read the river's rise each year and set the prosperity rites that follow it. The temple's own granaries stand behind the year's account, a reserve the state draws on when the ordinary harvest falls short. A bad reading from this temple is felt everywhere downstream of it, in the price of grain as much as in the rites performed to avert worse.
 
@@ -80,7 +80,7 @@ The Keeper of the Granaries holds the temple's grain, and the grain is the reser
 
 The other flow is in the opposite direction, and it runs through the feasts. A merchant planning a large deal makes an offering to Thuba'i before he signs. Brewers keep small shrines in their breweries and send the finest of their beer; vintners time their harvests by the god's festivals. The temple turns what it receives into food, wine and music for the city, and its priesthood is judged by how well the money moves.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thubaidty|Thuba'i]]
 : The god of the flood the temple serves

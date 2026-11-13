@@ -102,12 +102,12 @@ The Oroqidur sell nothing on [[lore-celestialroad|the Celestial Road]] and take 
 
 The Oroqidur raid nobody, and nobody raids a tribe that nobody can find. What they fear is being found. A stranger who has seen the water and might find it again is the one danger the tribe takes steps against, and a rescued guest is watched for years after he leaves.
 
-## Hooks
+## Hooks {#hooks}
 
 - A traveler the Oroqidur carried to their water and sent home under oath has been offered a fortune at [[place-qisomrktcmp|Qiiso]] for the way back. He has asked a party to help him refuse, and the buyer has asked the same party to help him accept.
 - A clerk of [[place-kethramir|Kethramír]] holds a written copy of the Buried Water, the only one the Oroqidur know of, which he had from one of their rangers in return for a service he does not describe. Evurlun wants to know who else has read it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

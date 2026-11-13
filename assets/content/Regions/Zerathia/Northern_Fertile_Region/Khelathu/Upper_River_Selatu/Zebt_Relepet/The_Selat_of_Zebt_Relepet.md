@@ -56,7 +56,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "We are not [[place-khelzuret|Khelzuret]]," a Lem'Nelgir of [[affiliation-wethur|Weth'ur]] at [[place-zebtrelepet|Zebt-Relepet]] tells a family that has come to arrange a burial. "Nobody makes a pilgrimage here, and I will not pretend otherwise. The tomb is cut, the body is dried and the words are said, and it is done properly."
 
@@ -66,11 +66,11 @@ The Selat of Zebt-Relepet is one of the eighteen provinces of [[affiliation-uppe
 
 This is a mortuary trade without a pilgrimage, and the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] and the temple run it as steady work. The seat is Zebt-Relepet, where the Halzi'a keeps his court and the chief temple of Weth'ur stands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Zebt-Relepet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts, and the natron that dries the dead is sold by weight like anything else. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : Parent selat-class

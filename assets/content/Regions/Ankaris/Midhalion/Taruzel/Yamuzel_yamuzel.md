@@ -85,7 +85,7 @@ Yamuzel's veterans are nearer open anger than at any time since the outlawing, a
 The Commander of the Marines has placed a League galley outside the Fleet Review's line, with orders to wait off the cape for its last boat. [[being-nzzntrshn|Nazzuna Tarshuni]], whose boat closes the Review this year, carries the rebels' written promise of prize money and means to read it from the narrows. She does not know the galley is waiting for her.
 :::
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The yards and the fleet are paid in the [[lore-trzlncrncy|Taruzelian currency]], administered through the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. It keeps the Vilérian denominations (Solden, Ardin and Bit), backed by Taruzelian reserves rather than the Vilérian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], with a Solden slightly underweight by the Vilérian standard. Merazuni-affiliated moneylenders handle the banking. Vilérian script is not honored in Yamuzel, and Taruzelian script is not honored in Vilérian territory.
 
@@ -98,7 +98,7 @@ Yamuzel's admirals' families were the empire's sailors before they were the Conf
 - **The plots.** [[being-rzznpddn|Razzina Padduni]] wants witnesses on Khamisar's terraces when the marines come to clear the plowed plots, people with no stake in the quarrel whom the Council will believe.
 - **The toll's votes.** A foreign master in the roads hires a party to learn how the Admiral's Council will vote on [[being-dlzrtndn|Delzuru Tanaduni]]'s toll, and Delzuru learns of the party within the day and invites it to dinner.
 
-## See Also
+## See Also {#see-also}
 
 [[place-yamuzel2|Yamuzel]]
 : the city itself

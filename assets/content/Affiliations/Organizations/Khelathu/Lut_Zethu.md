@@ -36,7 +36,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lut-Zethu**, the **Imperial Library**, is the empire's collection of texts, held under the hand of [[affiliation-linzethkhlth|Lin'Zethu elu Au'Khelathu]] (the scribes' guild) and closed to most who would read there. Access runs through the guild's own permission rather than any general right of scholarship, so a reader's standing with the scribes matters as much as the subject under study. The library's texts on the spirit-realm sit behind a further door, open to fewer readers than the rest of the collection.
 
@@ -56,7 +56,7 @@ The library holds the empire's texts and sells nothing. Entry is by the guild's 
 
 Ask a scribe of the guild for an introduction before you ask for a text. A good introduction is the only coin the library accepts.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-linzethkhlth|Lin'Zethu elu Au'Khelathu]]
 : The scribes' guild that holds it

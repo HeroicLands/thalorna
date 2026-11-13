@@ -33,7 +33,7 @@ Lower Suvargeri holds the jewelers: some four hundred households of goldsmiths, 
 
 Its masters buy their stones by the year and sell their work through [[affiliation-mrchntclctvvdyr|Collective factors]] who come no further up the valley than the bridge at [[place-kanakasetu|Kanakasetu]]. The iron-smelters of [[place-tamraban|Tamraban]] work a mile upstream, and the two trades share a charcoal supply and a long quarrel over it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 : the temple-republic seated here

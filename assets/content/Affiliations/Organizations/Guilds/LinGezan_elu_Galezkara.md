@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Gezan elu Galezkara** is the guild of debt collectors, and no one else in [[place-galezkara|Galezkara]] may collect what a creditor's ledger says is owed. It acts only on a debt the courts have confirmed, in the place of an enforcement the state has no machinery to provide. Creditors cannot do without it and debtors cannot forgive it, and the guild is disliked in exact proportion to its usefulness.
 
@@ -54,7 +54,7 @@ The guild's relations are the two ends of a transaction. The courts confirm the 
 
 Say a landlord in the [[place-lutlemu|Lut-Lemu]] quarter is owed rent by a potter, and the Genzet has confirmed the sum. He hands the confirmed record to the guild. A Collector calls at the workshop, states the amount owed and the date, and returns on the date. The potter who pays at the first call pays the sum. The potter who waits pays it again in embarrassment.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The city the guild serves

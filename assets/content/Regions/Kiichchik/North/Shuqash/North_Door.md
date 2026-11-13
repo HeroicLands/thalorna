@@ -18,7 +18,7 @@ data:
   notes: "The North Door: the northernmost town of the Bead Coast, behind the coast's only palisade, which sends the Northern Strand to the Cedar People every spring."
 ---
 
-## Overview
+## Overview {#overview}
 
 Tikoq Hipai, the North Door, is the last town on the [[place-shuqhalaqrgn|Bead Coast]] before the empty shore that runs north to the [[affiliation-kelwanuk|Cedar People]]. About 1,200 people live in it, on a bluff above a river mouth, behind a palisade of driftwood posts, the only wall on the coast of the [[affiliation-shuqash|Shuqash]]. A watcher sits on the headland north of the town every day from spring to autumn, with a fire laid and a basket of wet seaweed beside it to make smoke.
 
@@ -34,7 +34,7 @@ The town's most famous man is [[being-sitiqnush|Sitiqnush]], Star Walking, a can
 
 In autumn the Cedar People come to Tikoq Hipai to trade in peace, and their canoes are drawn up on the beach under the palisade. They bring copper, grease, cedar boxes and blankets, and they take beads, abalone shell and baskets. Captives taken in the summer are sometimes among the people who paddle their canoes, and Sitiqnush walks the beach looking at faces.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People and their towns

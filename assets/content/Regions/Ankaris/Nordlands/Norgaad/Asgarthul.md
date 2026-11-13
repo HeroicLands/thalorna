@@ -17,7 +17,7 @@ data:
   notes: "Market Town / Seat of Local Nobility"
 ---
 
-## Overview
+## Overview {#overview}
 
 Ask in the market at Asgarthul what the name means and you will get a smile before you get an answer. The name is [[place-asguard|Asguard]]'s Hall. It reflects the jarl's pretensions and his devotion to the old gods, and whether he believes he has earned such a name or merely likes the grandeur of it is a matter of local speculation.
 
@@ -31,7 +31,7 @@ The jarl's hall dominates the settlement: a timber structure with high carved ra
 
 Asgarthul is a market town and the administrative center for the inland regions, with a permanent fair-ground where goods are traded year-round. Nobility, commerce and patronage of the arts together give it a character distinct from the other settlements of Norgaad: more refined, but no less fierce in its loyalties.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmnrgd|Kingdom of Norgaad]]
 : the kingdom whose seat it is

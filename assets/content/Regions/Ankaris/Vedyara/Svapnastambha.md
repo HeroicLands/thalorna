@@ -24,7 +24,7 @@ The tower is the last roof in [[place-vedyarargn|Vedyara]] a traveler sleeps und
 
 The crown's post below has no authority over the tower and the tower asks nothing of the post. The two institutions share a cistern and, in a bad season, a wall.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-svapnasarisameja|Svapnasari-sameja]]
 : the sect

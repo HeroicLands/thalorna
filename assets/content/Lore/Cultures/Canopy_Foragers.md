@@ -85,7 +85,7 @@ In the Yesoma's account:
 
 Almost nothing. An outsider seldom meets a Yesoma band, and the ones who do meet it on a trail, briefly, before it is gone. What an outsider sees is the honey and ivory arriving at a Luwando landing, a camp of leaf huts empty when the outsider reaches it, and now and then singing in the dark from a direction no one will name. Asked the way, a Yesoma points somewhere.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-bikoclt|Biko]]
 : the forest peoples

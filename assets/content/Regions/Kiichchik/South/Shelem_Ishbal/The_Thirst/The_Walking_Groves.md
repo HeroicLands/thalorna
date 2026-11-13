@@ -8,7 +8,7 @@ tags: [site, waste, grove, spring]
 data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Walking Groves, Shik'tel Shilan (the groves that walk), are the kindest places in [[place-thethirst|the Thirst]]. Each is a ring of broad, hollow-trunked trees around a spring of clear water, with grass under them and shade enough for a whole party, and a traveler comes on one in the middle of the gravel with nothing to warn him of it. No grove is where the last party found it. The returners' cords give the place of every spring in the Thirst, and every account says the same of the groves: they are somewhere else.
 
@@ -24,7 +24,7 @@ The keepers' directions are the only directions in the waste that hold. A keeper
 
 The groves do not lie on the road to anything. Every party that has found one found it by chance, usually on the day it would have died of thirst.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thethirst|The Thirst]]
 : the desert around them

@@ -56,7 +56,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 [[place-chathu|Chathu]] is the delta's sea-margin, and the salt in it is the reason every embalmer in the empire knows the name. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a country of salt-pans, natron flats and the curing of the lesser villages' catch. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-wethurdty|Weth'ur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-chathuselat|Chathu Selat]].
 
@@ -68,11 +68,11 @@ The seat is Chathu, where the Halzi'a keeps court and the selat's chief temple o
 
 The selat's coast is where the sea-raiders landed in 1960 ST (151 BF) and burned the port of [[place-zelamqelu|Zel-Amqelu]], which the selat never rebuilt ([[lore-searaiders|the Sea-Raiders' Throne]]).
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Chathu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and in a selat that sells salt and natron by weight, the chapter's scales settle most disputes. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

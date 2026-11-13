@@ -56,7 +56,7 @@ Region
 Founded
 : The individual houses are ancient; their formal federation as a recognized commercial body dates to roughly two centuries ago
 
-## Overview
+## Overview {#overview}
 
 The Bethuan Trade-Houses are the great matriarchal clans that dominate the [[affiliation-mtrrchybth|Bethuan]] commercial economy. Each house is a clan—extended kin-network led by a matriarch and inherited through the female line—with substantial wealth in coastal estates, premium-export production (Bethuan wine, olive oil, preserved fruits, fine horses), and trade relationships with the [[place-vylarianse|Vilérian Sea]] ports, the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the wider [[place-nrthrnfrtlrgn|Northern Fertile Region]]. They are not formally a government institution; the [[affiliation-mtrrchybth|Matriarchy of Bethua]] is its own thing, governed by the [[affiliation-mtrrchybth|Metrissa]] through the Two Pillars—the [Sacred College]{.name data-type="affiliation/governmental"} of priestesses and the [Council of Houses]{.name data-type="affiliation/governmental"} of the clan-matriarchs. The Houses are the commercial powers that operate alongside the political authority, often overlapping with it (many priestesses are also matriarchs of trading houses; many royal officials are drawn from trade-house families) but distinguishable in function.
 

@@ -79,7 +79,7 @@ The academy grew up around the provincial courts. When the Empire made Aurelane 
 - **The skald's safety.** The party that does not want Balden heard would be glad if he left Aurelane before the hearing, and the advocate who wants him heard hires a party to see that he does not.
 - **The missing opinion.** A master's draft opinion on the salt loan has gone from his rooms before it reached the Rector, and a copy is said to be at Jalnasdal.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aureliane|Aurelane]]
 : the city of the academies and the high courts

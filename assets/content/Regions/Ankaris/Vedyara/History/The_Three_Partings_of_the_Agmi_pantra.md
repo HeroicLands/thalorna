@@ -69,13 +69,13 @@ The sect's gravest rite is the [Scouring of the Temple]{.name data-type="lore/cu
 
 A generation later the same Council put up a statue of the priest it had banned, in stone, in the cloth-court. The Vyalendri account is that the matter was addressed. The Council has never said what the matter was.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **An itinerant sect**, with chapters in the small towns and none to speak of in the capitals.
 - **The statue** in Vyalendra's cloth-court, where a flame-priest stands in stone with his vessel in the crook of his arm.
 - **The sect's uneven welcome:** praised as saints, banned from city limits, and put up in statuary by the councils that banned them.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-agmipantra|Agmi-pantra]]—the sect
 - [[lore-kindlford|The Kindling at the Ford]] · [[place-gajastal|Gajastal]]

@@ -17,7 +17,7 @@ data:
   notes: "The temple-city of the sacred lake of K'ushi Ish'bal, whose priests own the lake, its boats and the greatest herds of the plateau, and whose southern shore they have closed."
 ---
 
-## Overview
+## Overview {#overview}
 
 At dawn the lake is a mirror, and the first light of the sun comes off it onto the face of the great pyramid, which was set on the shore to catch it. Ishkul Ch'alish, the Holy Silver Seat, is the temple-city of the sacred lake that fills the eastern reaches of the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]: about 14,000 people on its northern shore, nearly all of whom serve the temples in one way or another. The lake is held to be the eye through which the gods watch the world, and the priesthood owns it outright. Nobody fishes it, nobody crosses it on business, and nobody sets foot in a boat on it without a priest's blessing.
 
@@ -43,7 +43,7 @@ The wool from the temple herds is spun and woven in the weavers' courts, and the
 
 The lake's southern shore is closed. Its reeds have died back over a long reach, the water there tastes bitter, and the priests have forbidden pilgrims to bathe on it or to take water from it. Boats do not land there. The water priestesses send a boat to the edge of the bitter reach at each turning of the moon's count, and the priestess in its bow tastes the water and reports to the Ch'alish Tq'an. What she reports is not told to the pilgrims.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kuxiixbal|K'ushi Ish'bal]]
 : the plateau realm

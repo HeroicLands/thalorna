@@ -81,12 +81,12 @@ The seeps make the choice harder. The Guredur believe the Qibudur are bargaining
 
 The Guredur count their camps back to Uruchaq and to no other water, and they hold that the well was theirs before the first banner. The deep wells of the road that they draw from were cut by the builders of [[lore-towercities|the Tower Cities]], and passed to the tribes when the league fell.
 
-## Hooks
+## Hooks {#hooks}
 
 - Guredkenod wants the two brother-camps that stopped paying brought back to the share without a raid, and he wants the go-between to be nobody's kin.
 - A caravan that bought Guredur passage was robbed in the dunes by riders with no token, and the Guredur owe it restitution under their word. They say the riders were Qibudur.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

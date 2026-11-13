@@ -98,7 +98,7 @@ The low ceremony is the [Shield's Blessing]{.name data-type="lore/custom"}, in w
 
 Three ordeals are held to win the god's favor. In the [Sword's Trial]{.name data-type="lore/custom"} a participant must defend a sacred site or person from harm. The [Oathkeeper's Challenge]{.name data-type="lore/custom"} asks the faithful to keep a difficult oath, showing their commitment to justice and honor. In the [Sacrifice of the Hand]{.name data-type="lore/custom"}, a participant symbolically gives up a part of themselves, to show willingness to give all for justice.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-logbrandur|Logbrandur]]
 : the Order of the Sword, priests who master combat and the upholding of justice

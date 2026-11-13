@@ -43,7 +43,7 @@ The Guard Camp expects a donative, and the throne has no cash. The old Orzas, [[
 - **The weighed promise.** A watch-captain wants proof that the expected man's donative exists before his watch weighs it against a rival's coin.
 - **The quiet arrest.** A great house's steward was taken into the Guard Camp and has not come out, and the house wants to know on whose word.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-sorvan|The Sorvan]]—the imperial guard garrisoned here
 - [[place-arvon|Arvon]]—the Inner City the Guard Camp helps hold

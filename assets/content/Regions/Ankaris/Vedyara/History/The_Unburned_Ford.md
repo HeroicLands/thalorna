@@ -50,14 +50,14 @@ Then he forbade the pyre. The dead were rebels, and he ruled that no conch would
 
 To a Vedyari that is the cruelty. A soul goes on through the gap between the conch and the pyre, and a soul whose pyre is never lit is left standing in the doorway. The ford became [[place-olurtaran|Olurtaran]], the ford of the restless dead: the first _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]] that anyone dates, and still the oldest.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The field.** Olurtaran is a silence: no flame lit on its west bank stays lit, and a sleeper there meets the dead in dream.
 - **The fire.** A decade later a wandering ascetic carried a living ember off the ford, and every ember of the [[affiliation-agmipantra|Agmi-pantra]] descends from it ([[lore-kindlford|the Kindling at the Ford]]).
 - **The refusal.** The upper-river villages of [[affiliation-rajeprjnpd|Rajepur]] send no delegate to any assembly that sits at [[place-rajepur|Rajepur]] on the anniversary. The sabhra has never asked them to.
 - **The name.** The recitation speaks no name for any of the six, and the Memory-Keeper does not speak Dandabira's in a session. It stands in the chronicle and in prose.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-olurtaran|Olurtaran]]—the ford of the restless dead
 - [[lore-kindlford|The Kindling at the Ford]]—the fire the ford gave the Agmi-pantra

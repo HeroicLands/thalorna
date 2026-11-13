@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [oasishirvn], population: 0, packFolder
 
 Coming along the belt road from the west, you see the cliff a day before you see the city: a wall of pale rock across the southern sky where the Grazian foothills close in on the belt, white in the morning and the color of honey by evening. Closer, the wall turns out to be full of holes. Rows of doorways and windows are cut into its face, stairs zigzag between them, and at night a few lamps burn in the high chambers, so that the cliff looks like a city standing on end above the real one.
 
-## Overview
+## Overview {#overview}
 
 **Vurinkarvem**, "the holy stone" in the [[skill-tellumilng|Tellumi Language]], is the cliff over the [[place-oasishirvn|Oasis of Shirvan]], the first and holiest of the seven Tellumi cities. It is a face of pale sandstone some four hundred feet high and more than a mile long, and the great spring of Shirvan breaks from its foot into a basin the size of a market square. Everything in the city is arranged by its distance from that water, and the cliff stands over all of it.
 
@@ -46,7 +46,7 @@ The cliff is Atarzád ground with the rest of Shirvan, and no worship but that o
 Not every lower gallery floods, and not every one is closed. An old pilgrim stair that begins in a courtyard of the Tellumi quarter goes down below the basin to a gallery of seven bays, and at the bottom of it is [[place-peldenderal|Peshdenderat]]. The guides who tell pilgrims the lower galleries are flooded keep that stair, and the quarter's water-masters watch the courtyard.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-oasishirvn|Oasis of Shirvan]]
 : the city under the cliff

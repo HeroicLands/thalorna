@@ -18,7 +18,7 @@ data:
   notes: "Temple City (Necropolis)"
 ---
 
-## Overview
+## Overview {#overview}
 
 "Seventy days," an embalmer of Khelzuret tells a family that has brought its father upriver by barge. "That is the first grade: the body drawn, dried in natron, anointed with resin and wrapped in fine linen with an amulet at every joint. The second is a shorter course in cheaper oils. The third is a wash, a wrapping and a prayer. I name all three at the door because you are going to ask what the first one buys. It buys the first. The [Weighing]{.name data-type="lore/custom"} takes no payment."
 
@@ -32,7 +32,7 @@ Khelzuret is the empire's great temple-city of the dead and the capital of [[aff
 - The ferry-crossing to the western necropolis
 - The seat of the Halzi'a, sharing the city uneasily with the mortuary priesthoods
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatkhelzrt|The Selat of Khelzuret]]
 : Parent selat

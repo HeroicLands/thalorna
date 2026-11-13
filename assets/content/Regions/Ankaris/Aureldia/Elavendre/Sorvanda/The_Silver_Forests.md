@@ -21,7 +21,7 @@ Region
 Guardians
 : [[affiliation-alndnwrdns|Áelendan Wardens]]
 
-## Overview
+## Overview {#overview}
 
 The **Silver Forests** are an ancient woodland said to have been planted by the fae themselves, where the trees have bark that gleams like metal in moonlight. They lie deep in the interior of [[place-elavendre|Élavendre]], beyond the settled farmlands and the accessible foothills, in terrain that belongs to the [[lore-aelendnppl|Áelendan]] and the wild. Even among the Áelendan, the Silver Forests are regarded with particular reverence—they are sacred territory of the highest order, protected by the [[affiliation-alndnwrdns|Wardens]] with uncompromising strictness.
 
@@ -60,7 +60,7 @@ The Silver Forests are effectively closed to outsiders. The [[affiliation-alndnw
 
 In rare cases, the Áelendan have escorted specific individuals into outer portions of the forests—usually scholars of high reputation, envoys from the Senali, or persons who have demonstrated some particular claim on Áelendan trust. Such visits are not something one arranges; they are something one is offered, on terms one does not set.
 
-## See Also
+## See Also {#see-also}
 
 [[place-elavendre|Élavendre]]
 : The kingdom in which the Silver Forests lie

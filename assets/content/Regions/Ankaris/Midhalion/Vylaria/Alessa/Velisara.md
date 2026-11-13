@@ -17,7 +17,7 @@ data:
   notes: "A secondary city of Alessa, white-columned and visibly mended, which keeps the old patrician forms, a famous fire-school of the Thordimalon, the largest temple of the Black Flame in the province and, a day's ride away, the fenced ground where the Therona ended."
 ---
 
-## Overview
+## Overview {#overview}
 
 A day's ride from Velisara there is a tract of good farmland that nobody farms. It is fenced, it is kept clear at [[affiliation-ordoarcanis|Thordimalon]]'s charge, and it is where [[lore-recensio|the Therona of Alessa]] ended in 75 BF ([[place-recensiogrnd|The Fenced Ground]]). A scholar of the city's minor chapterhouse of the [[affiliation-panepistmm|Epistémion]], taking a new student out on the road to see the fence, says little about it and a great deal about the city they ride home to: "Velisara is the place that remembers. Look at the forums when we get back. White columns, paved squares, the whole golden age laid out for you. Now look at the joins in the marble."
 
@@ -49,7 +49,7 @@ Velisara is a chartered town under the Province of Alessa, with two _tavemoi_ el
 
 Velisara keeps its forms and cannot pay for them. The old families hold the council and pay for the forums from their own purses, and a builder's crew from Orzara has come at night with a wagon and a crane to the north end of the Old Forum, where the watch has been told to let it work. The Temple of [[affiliation-blackflame|the Black Flame]] is the largest in the province and takes acolytes from the grain families of [[place-belekos|Belekos]], one of whom will not come home. A courier from the capital carries sealed offers to Kalestratos Zarkedis at the Order's chapter. The [[affiliation-sekran|Sekran]]'s office answers to nobody in the city.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The inns of Velisara are on the forum's south side, in buildings that were the guildhalls of trades the city no longer has, and their rooms are large, cold and cheap. Scholars visiting the chapterhouse lodge in the lanes behind it, where widows of the old families let rooms to them, and a party that comes to see the fence is directed to the same lanes. The innkeepers of the forum add a warning for strangers who ask the way to the Fenced Ground: the Order's patrol turns travelers back once and does not ask twice.
 
@@ -67,7 +67,7 @@ The forums are the golden age's, and the city's later history is their upkeep ([
 - **The new acolyte.** A grain family of [[place-belekos|Belekos]] hires a party to bring their daughter home from the Temple of the Black Flame. She does not want to come.
 - **The column.** A builder's crew from Orzara arrives at night with a wagon and a crane at the north end of the [Old Forum]{.name data-type="place/site"}, and the watch has been told to let them work.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : the imperial overview

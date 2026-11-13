@@ -19,7 +19,7 @@ data:
 # terran_analog: Cozumel, the island of swallows, its port of trade and the women's pilgrimage to the shrine of the moon goddess; the name joins ts'ilil (a swallow) to ne'ts'ik (an island)
 ---
 
-## Overview
+## Overview {#overview}
 
 At dusk the swallows come in. They nest by the thousand under the eaves of the island's temples and in the cracks of the low cliffs along its shore, and for the last hour of every day they pour in over the harbor in dark, twisting clouds, so thick that the canoe-men on the beach duck their heads. Ts'ilil Ne'ts'ik, the Island of Swallows, takes its name from them. It is an island port of about 30,000 people off the eastern coast of the [[place-neokbaatergn|Ne'ok Ba'ate Region]], one of the greatest city-states of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]], and it holds a wide archipelago of small islands around it.
 
@@ -45,7 +45,7 @@ The island's quarrel is with Ts'okilkul. The two ports compete for every K'ankul
 The war canoes carry more than escorts. Sealed gourds come out to the island from the Ts'enmah of Ne'ok Ba'ate by his own messengers, and the Ish'kanmah's canoes carry them on, unopened, to his envoys and his allies along the coast, outside the Speaking Road. She reads none of them, and she knows what they are. In return the Ts'enmah has promised to ask nothing of her canoes in the new round that she does not offer. The priestesses of the spring have noticed that the war canoes go out to sea on nights when there is nothing to escort.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-neokbaate|Ne'ok Ba'ate]]
 : the realm that holds the island

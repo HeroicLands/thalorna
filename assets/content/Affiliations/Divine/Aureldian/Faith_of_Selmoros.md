@@ -67,7 +67,7 @@ Individual devotion to Sélmoros is largely private. Many who are gravely ill or
 
 Offerings to Sélmoros are sparse and austere—flowers that have withered, grain that has rotted, fruit past its ripeness. The symbolism is clear: life given back to the cycle, decay accepted as necessary. Some nobles maintain Sélmoran shrines in family crypts and make annual offerings of wine poured upon the graves of ancestors, asking Sélmoros to shelter their spirits and keep watch over their rest. The faith teaches that the god accepts offerings made with acceptance of death's inevitability, but rejects those made in desperate bargaining—Sélmoros cannot be appeased into granting longer life.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Sélmoros is smaller and more secretive than those of other Aureldian deities, and its hierarchy is defined more by wisdom and philosophical depth than by administrative rank. At the apex stands the **Kolsarnor**, a title held by one among the Sélmoran priests—rarely the same individual for more than a decade, as the role demands a level of existential contemplation that few can sustain indefinitely. The Kolsarnor is final arbiter of Sélmoran doctrine and oversees the great temple complex where the most sacred rites are performed.
 

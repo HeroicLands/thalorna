@@ -86,12 +86,12 @@ A dovaq of the northern steppe is gathering tribes by victory and by marriage, a
 
 The Ghotakur hold that their fathers kept the wall before the first banner, and their tellings name the men who went north and did not come back, valley by valley and winter by winter. They do not say who built it. Their tellings of the feud begin with a winter the Savaghur took a valley and a summer the Ghotakur took it back, and no two camps agree which came first.
 
-## Hooks
+## Hooks {#hooks}
 
 - Ghotaqtoliz wants outsiders to hold a valley camp through the first weeks of the cold, because every man the valley can spare is going north: [[scenario-vllysfrstfrst|The Valleys at First Frost]].
 - A wall-sworn man has come home at midwinter, a month before any other, and will not say what made him leave the wall.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

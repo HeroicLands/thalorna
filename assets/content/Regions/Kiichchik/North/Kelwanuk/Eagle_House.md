@@ -88,7 +88,7 @@ The chief of the house that sits first holds the first seat (_kenwatukwa_): he s
 - **The road north.** The midsummer canoes to Trading Shore take a few passengers who can paddle.
 - **A word at the compact.** The Seat Holder can promise nothing the first seat has not agreed, and he carries questions home faithfully.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tsilkasis|Tsilkasis]]
 : Eagle Beach, the house's village

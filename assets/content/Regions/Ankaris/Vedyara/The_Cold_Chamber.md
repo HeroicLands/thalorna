@@ -26,7 +26,7 @@ It also holds the correspondence shelf, which is where [Shemapal Rajapali]{.name
 
 The keeper who knows the room's virtue to a day has never had occasion to think about the wall. It is the north wall, it is cold, and the leaves last. Visiting scholars are told which room the originals are in and are not told why.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-rajavalilib|The Rajavali Library]]—the archive it is the oldest part of
 - [[place-himashila|Himashila]]—the warm slab at the head of the Chandramahi

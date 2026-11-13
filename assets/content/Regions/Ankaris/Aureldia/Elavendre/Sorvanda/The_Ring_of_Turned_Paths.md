@@ -59,7 +59,7 @@ The ring is in sacred territory, and the Wardens turn back everyone who enters w
 - **A hearth kept lit.** Alena Alverin's mother, [[being-selithalvrn|Selith]], pays what she has to anyone who brings her daughter's name back, alive or not.
 - **A Warden's quiet word.** The Wardens cannot reach the hollow. A lowlander who reaches it is useful to them in ways they do not name.
 
-## See Also
+## See Also {#see-also}
 
 - [[scenario-pggdmnbrchrng|Eight Birches Wound in Silver]]—a scenario set here
 - [[lore-blacksnow|The Black Snow]]—the birch law and the Felled Stand

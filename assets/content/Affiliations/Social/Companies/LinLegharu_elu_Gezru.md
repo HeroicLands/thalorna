@@ -48,7 +48,7 @@ Its trade is rare plants taken out of the red land, whatever sells fastest first
 
 If you are hired to gather for the consortium, ask how many seasons the stand has left. They will not know, and the question is the useful part of the answer.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-gezrulutu|Gezru'lutu]]
 : the red waste

@@ -23,7 +23,7 @@ data:
   government: kngdmmrdd
 ---
 
-## Overview
+## Overview {#overview}
 
 A caravan coming out of the open desert sees Amradad first as a line of green on the horizon and then as a wall: the first city of Amradad, the settled northwestern corner of the [[place-dunharargn|Dunhara Region]] and the country of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the only part of the Dunhara held by a realm with fixed borders, a standing army and a court. Its share of the desert's wealth is far larger than its share of the land: walled cities, the oases that feed them, the caravan roads that join them, and the ports of its coast.
 
@@ -33,7 +33,7 @@ The region runs from the eastern shore of the [[place-vylarianse|Vilérian Sea]]
 
 This is the desert's wettest margin, which is not saying much. A thin winter rain falls here that the deep south never sees, enough for herding on dry pasture and a narrow belt of grass that greens for a season. Settlement follows the water: the permanent oases, which the cities stand on, and the wadis that run after the winter rains, along which the farming villages string out their fields and orchards.
 
-## Places
+## Places {#places}
 
 [[place-shebarakhend|Shebarakhend]]
 : the oasis city of the Shebarader's court
@@ -58,7 +58,7 @@ The Amradi are of Dunhari blood and still count themselves part of the wider Dun
 
 A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the ministers of his divans, and a governor (_tagemader_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Kingdom is on warm terms with [[affiliation-cnfdrtntrzlnstts|Taruzel]], which it helped win its freedom from the [[affiliation-vylarinmpr|Vilérian Empire]], a power with which its own relations have long been hostile.
 
-## See Also
+## See Also {#see-also}
 
 [[place-dunharargn|Dunhara Region]]
 : the parent region

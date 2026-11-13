@@ -32,14 +32,14 @@ The people who keep it are the **shurem**, the ash: those put out of the Flame, 
 
 The herders' track from Zarhanis crosses open grazing for two days on horse. The wall can be seen from a long way, and the track bends away from it. A traveler who keeps to the wall finds the old gate, its cairn and the cattle-ground beyond, which a stranger should cross by daylight.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A drover says the granary's tribute-chest was never recovered when the estate was struck from the rolls, and that the temple would pay well for it back, quietly.
 - **The soldier.** A warrior of [[place-vuthraka|Vuthraka]] posted to watch the clan's cattle-ground at night reports lights in the pens and a herd that moves in step. His captain sends him back with orders to watch longer.
 - **The chieftain.** A chieftain of a herding clan has lost the best of his herd to the ground and does not want the matter heard at the moot, where the cities would call it his clan's neglect.
 - **The wanderer.** A shaman of the [[affiliation-yenorzhrng|Yenor Zohiring]] has been told by a cairn to go to the place and has been told nothing else.
 
-## See Also
+## See Also {#see-also}
 
 [[place-okharisrgn|Okharis Region]]
 : the country it lies in

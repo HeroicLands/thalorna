@@ -108,7 +108,7 @@ The approach is made by a **Comforter**, and it is made at the worst hour a hous
 
 Advancement past the second rank is deliberately slow. Most adherents remain **Persuaded** for life: they shelter, they feed, they say nothing, and they never see a rite. This is why cells survive raids that kill every priest in them, and why the movement is hardest to eradicate exactly where it is least visible.
 
-## Organization
+## Organization {#organization}
 
 There is no hierarchy above the cell. A **Cell-Master** holds his own shelter, his own dead and his own silence, and has no authority over the next valley and no means of learning what it is doing. The movement regards this as doctrine rather than weakness: a cosmos organized as a single interlocking machine is precisely what its theology says has failed, and a movement that cannot be decapitated cannot be ended by killing a hierarch.
 

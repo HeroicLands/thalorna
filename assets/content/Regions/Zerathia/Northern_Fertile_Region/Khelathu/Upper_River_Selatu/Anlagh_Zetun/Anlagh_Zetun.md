@@ -18,7 +18,7 @@ data:
   notes: "City (Granary Capital)"
 ---
 
-## Overview
+## Overview {#overview}
 
 "Count the domes from the gate," a granary steward tells a new tally-clerk. "Every one of them is full, or it is somebody's fault."
 
@@ -37,7 +37,7 @@ The Halzi'a's house is [Anlaghet'Zaru]{.name data-type="affiliation/lineage"}, w
 - The temple of Qe'aret, goddess of order and right measure
 - The seat of the granary-Halzi'a, one of the empire's quiet kingmakers
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]
 : parent selat

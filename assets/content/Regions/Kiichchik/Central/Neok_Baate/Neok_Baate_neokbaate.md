@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: the governance takes the shape of the Classic Maya kingdoms of the southern lowlands: the Ts'enmah is the holy lord, the Ts'enilbal the named heir, the Ish'kanmah the royal lady married between dynasties, the Kulmah the sajal, the Ha'nalmah the batab and the Shok'almah the nacom, and the Kulumbal raises the stelae of the period endings; no title is a Maya word
 ---
 
-## Overview
+## Overview {#overview}
 
 Ne'ok Ba'ate holds the land of the [[place-neokbaatergn|Ne'ok Ba'ate Region]]. Ne'ok Ba'ate is neither fully of the north nor of the south; it exists in the liminal space between the tightly organized hierarchies of [[affiliation-ixilankul|Ish'ilankul]] and [[affiliation-kankul|K'ankul]] and the more fragmented, diverse cultures that flourish beyond the reach of the Ch'alish Tq'an's authority.
 
@@ -102,7 +102,7 @@ This fragmentation is both weakness and strength. Ne'ok Ba'ate cannot field the 
 
 Yet Ne'ok Ba'ate's merchants remain acutely aware of their vulnerability. The great cities of Ish'ilankul have on occasion been tempted to seize control of Ne'ok Ba'ate's trade by military force, and only diplomatic skill and strategic marriage alliances have allowed Ne'ok Ba'ate's Ts'enmah to maintain autonomy. The delicate balance between Ne'ok Ba'ate's useful independence and Ish'ilankul's hegemonic ambitions defines much of the political tension of the region.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixilankul|Ish'ilankul]]
 : The paramount northern realm, toward which Ne'ok Ba'ate maintains ambivalent tributary relations

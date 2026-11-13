@@ -81,7 +81,7 @@ Pashinar stands at the foot of the old military road the legions cut over Qalire
 - **The disputed name.** A Dunhari caravan master read on the Forgetting offers a party half his freight to learn who swore against him, and [[being-rsnmgttn|Rasunum Gatituni]] entered the name in his own hand.
 - **The called notes.** A factor of the board whose note [[being-llmnblnn|Ellamuna Balinuni]]'s house has called hires a party to collect what three caravan masters owe him before the month is out.
 
-## See Also
+## See Also {#see-also}
 
 [[place-pashinar|Pashinar]]
 : the town the board governs, and the Forgetting

@@ -26,7 +26,7 @@ The town lives on timber, charcoal and horses. Carters take the charcoal south b
 
 Tsuiwo's judges, chosen from his retainers, hear the town's cases in the hall.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zenjaidmn|Zenjai Domain]]
 : the house and its lord

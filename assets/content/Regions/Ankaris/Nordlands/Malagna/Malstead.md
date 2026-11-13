@@ -17,7 +17,7 @@ data:
   notes: "Town"
 ---
 
-## Overview
+## Overview {#overview}
 
 Málstead's market square holds a stone marked for the purpose, and when [[place-gnarthborg|Gnarthborg]]'s own ting is not sitting, a dispute from the western farms is heard there before whichever Lawspeaker is riding circuit that season. "Bring bread for a week," a suitor who has waited at the stone since the last market day tells a newcomer. "The Lawspeaker rides a circuit, and the circuit takes as long as it takes." The arrangement saves a farmer a day's travel each way and has made Málstead the second-busiest market in the kingdom by default, since the town has no resource of its own.
 
@@ -29,7 +29,7 @@ Málstead's one recurring argument is whether a verdict given here binds as firm
 
 The quarrel the kingdom's two great clans remember differently is called the Málstead wergild. A priest of [[affiliation-frodvin|Frodvin]] walked between [[place-braldheim|Braldheim]] and Málstead to seek a peace between the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafanvar|Hrafanvar]], and both jarls marked a split oath-stave. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells both sides.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : the kingdom this market serves

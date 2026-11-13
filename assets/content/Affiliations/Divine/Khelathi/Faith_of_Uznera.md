@@ -80,7 +80,7 @@ People who are ill or injured may come for healing. The priestesses use physical
 
 Smaller ceremonies mark the great transitions of life. When a child is born, the priestesses hold a naming ceremony and invoke the goddess's protection over the child. When a girl reaches adolescence, they hold a ritual acknowledging her passage from child to woman and her new capacity to bear life. When a woman passes beyond her childbearing years, they hold a ceremony honoring the wisdom she has gained and her new role as teacher and spiritual guide in her family.
 
-## Organization
+## Organization {#organization}
 
 The hierarchy of her faith is matriarchal, unlike the other Khelathi priesthoods. At the apex stands the Thaz'Lekhau, the High Priestess, chosen from among the most respected and accomplished priestesses. She serves until her death or voluntary retirement, and then the senior priestesses gather to elect her successor. She is the [[lore-garauu|Gar-Au]]'s chief advisor on fertility, childbirth, health and women's concerns.
 

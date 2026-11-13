@@ -46,7 +46,7 @@ A Zab'kuzu veteran seeks work on the strength of his skill, which a commander we
 
 If you are one, tell the commander the reason before he finds it. The skill is the part he wants, and the reason is the part he needs.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the region it belongs to

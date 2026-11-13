@@ -31,7 +31,7 @@ Its standing quarrel is over illumination. The older masters hold that a commiss
 
 Palm-leaf comes up from the forest country in bundles of five hundred. Lamp-black, orpiment, lac and gall come in by river, and the ink-makers' street is the worst-smelling in the town. What goes out is books, and a little of the cotton the surrounding villages grow.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara]]
 : the enclosing region

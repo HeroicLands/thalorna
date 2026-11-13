@@ -39,7 +39,7 @@ In the charter room the Chancellor is having a fair copy of the charter made for
 - **The first ruling.** A house facing a suit for a late cargo hires a party to find a precedent in the hall's own rolls that a refusal of the seamen excuses delivery, before its case is called.
 - **The copy.** A councilor who expects to carry the charter to Lezkora trusts neither the Chancellor nor his clerks, and wants a reader from outside the city to compare the fair copy with the charter clause by clause before he signs for it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-valthari|Valthari]]
 : the city

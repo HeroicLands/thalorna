@@ -93,7 +93,7 @@ That is the day the Áelendan were named, in the Senali tongue, first light. Dha
 
 Hauletta told the people the name the Senali had kept since the first Dhargan sat at the wood's edge. It was **Pilme**, the one who sat. The Áelendan say it to children by the hearth and at his cairn.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Wardens' wider charge.** The order that had begun with a fog-hollow keeps the passes as well as the groves from this day ([[affiliation-alndnwrdns|The Áelendan Wardens]]).
 - **Ethalosse as the door.** The Senali deal with the world there and nowhere else, and only through Áelendan who carry what is said without adding to it ([[place-ethalosse|Ethalosse]]).
@@ -103,7 +103,7 @@ Hauletta told the people the name the Senali had kept since the first Dhargan sa
 
 No blood-field marks the pass. A war-band's dead are not a host's.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-theasking|The Asking]]—the lay that tells the fires and the giving
 - [[lore-blacksnow|The Black Snow]]—the people at the wood's edge a first time

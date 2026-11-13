@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Githar elu Galezkara** is the cooperative of the weavers and dyers of [[place-galezkara|Galezkara]], who pool their cloth into shared consignments for markets beyond the city. The members choose their carrier together. A carrier who delivers on schedule is praised aloud, and one who does not is named in the market.
 
@@ -54,7 +54,7 @@ The cooperative's dependence is on the caravan carriers, who move the cloth to d
 
 Cloth is pooled before it is sold. Say a dozen weavers and dyers bring their bolts to the cooperative's store: some ochre, some indigo, some undyed. The bolts go into one consignment, and the cooperative votes on which carrier will take it upriver. The carrier is paid on arrival, and the sale at the far end is made on the strength of the whole consignment.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The city its weavers and dyers work in

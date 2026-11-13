@@ -96,7 +96,7 @@ Blood is given, since no Itsani god is served without it, but in small and preci
 
 The **Reckoner of Conjunctions** issues the auspicious and forbidden days to every other branch and, through them, to the city. This is the point at which the goddess's quiet worship becomes the most consequential act in Kì'ì'chek public life: no seed is planted, no war declared, no marriage consummated and no building begun on a day the Reckoner has not opened. The calculations are published as conclusions, never as workings.
 
-## Organization
+## Organization {#organization}
 
 Her priesthood maintains sophisticated astronomical observatories at pyramid peaks, containing aligned stone monoliths marking solstice positions, ch'umbal ts'uqal (moon-houses) tracking the lunar cycle, and sighting devices for planetary observation. The senior priest, the Ish'tq'an (Star-Voice), must possess expertise in mathematics and astronomy—it is not enough to be well-born. This meritocratic requirement makes Ish'ilan Ch'alish's temples somewhat more open than other branches, and it is not unusual for a Ch'alishbal astronomer to rise to high rank despite relatively humble birth.
 

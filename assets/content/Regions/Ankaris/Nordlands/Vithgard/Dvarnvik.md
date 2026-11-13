@@ -17,7 +17,7 @@ data:
   notes: "Port Town"
 ---
 
-## Overview
+## Overview {#overview}
 
 The harbor door at Dvarnvík has no bar on it. It never has had one, and no ship that can reach the port in weather has been turned away from a berth or from water, whatever flag she flew. The custom is older than any living harbor-reeve's memory, and nobody now knows why a kingdom this far into the ice decided an open door served it better than a guarded one. Four hundred and fifty people live by it, and the port is busier than its size alone would suggest.
 
@@ -29,7 +29,7 @@ Dvarnvík's recurring argument is the hersvald's own custom turned against him. 
 
 Dvarnvík's ting is remembered for a darker judgment. Forty-one years ago, after a winter of failed whaling, it accused eleven people of working the winds, and all eleven were burned on [[place-askholm|Askholm]], the skerry off the port. Some plateau clans still avoid Dvarnvík, and the descendants of the accused keep their own accounts of who spoke against whom. [[lore-vthgdhstry|Histories and Legends of Vithgard]] tells the burning and the ruling that followed it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : the kingdom this port serves

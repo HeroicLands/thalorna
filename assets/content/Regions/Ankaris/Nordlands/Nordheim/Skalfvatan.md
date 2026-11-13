@@ -13,7 +13,7 @@ data:
   packFolder: nordheim
 ---
 
-## Overview
+## Overview {#overview}
 
 The ice-fishers of both shores teach their children one sound before any other: a boom under the ice in a marching beat, in the last weeks of winter, that means get off the lake and do not look back. Skalfvatan is a long cold lake lying along the border of [[place-nordheim|Nordheim]] and [[place-malagna|Malagna]], in the hill country where the two kingdoms' howes face each other, and for six years in every seven it is an ordinary lake: pike and char under the ice, a Nordheim shore and a Malagnan one, and fishers from both who will sell each other bait. Its name is the shudder in ice before it gives, _skalf-_, before the generic for a lake, and the name is a warning that was ignored once.
 
@@ -35,7 +35,7 @@ The Malagnan shore keeps a ring of standing stones on the headland above the dee
 
 Gnirthorv's arm-ring lies under the lake, somewhere below the ring of stones. The man who brings it up holds a token of the oldest Hlurthidrok claim there is, in a kingdom whose aging king has no acclaimed heir and two great clans on the edge of war. A Nordheim jarl who wants the blank stone cut and the grave-ale drunk at last would end the field, and would hand Malagna a wergild claim older than its present king on the day he did it. Both of those are reasons someone will go onto the ice in the anniversary month, and the lake has never yet let anyone who did come back with what he went for.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nordkinwars|The Kin-Wars]]
 : the battle on the ice and the Peace of Asgarthul

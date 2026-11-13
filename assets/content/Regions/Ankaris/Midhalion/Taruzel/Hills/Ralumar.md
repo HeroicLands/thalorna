@@ -8,7 +8,7 @@ tags: [ruin, hill, inland]
 data: {demonym: null, lore: [humanflk], parents: [tulurel], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 The goats come out of the doorways in the morning in a long gray stream, under lintel stones as long as a man is tall. Each lintel is cut on its face with three or four lines of small square letters, worn shallow and filled with lichen, and the goats rub their backs on the door-jambs beneath them as they go out.
 
@@ -52,7 +52,7 @@ Ralumar is wanted for its stones. The [[affiliation-vezakuni|Vezakuni]]'s copyis
 - A Besikar factor offers a party a good price to bring one cut stone down to Pashinar by night, and says that the cracked half in the doorway will do.
 - The Keeper of the Doors asks a party that has been let in to carry a message from the council to the coast and speak it once, to the right person.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tulurel|Tulurel]]
 : the hill country

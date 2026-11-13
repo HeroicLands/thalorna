@@ -132,7 +132,7 @@ The Grukar give no names, and "Grukar" is a human word for them. The four caste 
 
 Where the Grukar spread, the land suffers. Their tribes are a roiling cauldron of violence, held in a precarious balance by the interplay of their subspecies: the Grukar-Hushk too few and too fractious to organize alone, the Grukar-Sha too weak to seize power openly, and the Grukar-Uk too lazy and dim to act without a boot on their necks. Yet when a strong leader rises—a Grukar-Hushk cunning enough to listen to a Sha counselor and brutal enough to whip the Uk into a marching horde—the result is a tide of destruction that has swallowed towns, scattered armies, and laid waste to entire regions before burning itself out in the inevitable internal collapse that follows.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-grukarclt|Grukar]]
 : the culture: what hatches with a Grukar, what the spawner wants and what a Grukar owes its tribe

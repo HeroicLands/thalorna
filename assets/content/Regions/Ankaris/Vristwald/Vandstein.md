@@ -22,7 +22,7 @@ Vandstein is the stony southern edge of [[place-vrystwald|Vristwald]], toward [[
 
 Overgrown Vilérian posts survive in the southern woods, traces of the road the [[affiliation-vylarinmpr|Empire]] cut north out of [[place-moktur|Moktur]] about 120 AF and gave up about 340 ([[lore-legionsroad|The Legions' Road]]). A ruin can offer shelter or buried goods to a party that finds it, and can also draw an imperial claimant into ground a nearby village considers its own. Conflict here is intermittent, carried by travelers and claims through difficult passes rather than by a continuous line of forts.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vrystwald|Vristwald]]
 : the wider forest
@@ -35,3 +35,13 @@ Overgrown Vilérian posts survive in the southern woods, traces of the road the 
 
 [[place-dunkelholt|Dunkelholt]]
 : an overgrown post on the Legions' Road, roofed again as a guesthouse
+
+[[place-erthhaven|Erthhaven]]
+
+[[place-frodhaven|Fródhaven]]
+
+[[place-rikstein|Rikstein]]
+
+[[place-thrastein|Thrastein]]
+
+[[place-vandgrund|Vandgrund]]

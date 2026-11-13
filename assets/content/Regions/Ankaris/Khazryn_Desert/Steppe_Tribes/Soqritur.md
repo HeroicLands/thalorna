@@ -84,12 +84,12 @@ A dovaq of the northern steppe is gathering tribes by victory and by marriage. T
 
 The Soqritur hold that they have grazed the river grass since before the first banner. When the last union broke, the tribe took the village at the bend, the river law came under the riders' law, and the first-fish feast is as old as that holding.
 
-## Hooks
+## Hooks {#hooks}
 
 - Soqritlun wants someone who is neither rider nor Velanthian to carry her terms to the ataman, because the Vurakur are watching the river road.
 - A rider has killed a villager's son in a quarrel over nets, the river-warden and the headman cannot agree on the case, and the village wants an outsider to sit with them.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

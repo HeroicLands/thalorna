@@ -43,7 +43,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lut-Uzn'era** is the temple of [[lore-uzneradty|Uzn'era]], goddess of fertility and of the balanced partnership held to make creation possible, tended chiefly by women who hold its central rites. The temple admits men to its priesthood, though rarely to its heights, reflecting the balance the goddess herself is held to represent. A petitioner comes here for matters of marriage, birth and inheritance that the empire's other temples leave to this one alone.
 
@@ -67,7 +67,7 @@ The temple's chief currency is trust. A noble house with a serious illness sends
 
 Genzet'Uzn'era governs the holdings and the calendar the temple's rites run on, and the petitions of marriage, birth and inheritance that other temples refer here arrive through it. Say a widow comes with a question about what her late husband's brothers may claim. She is heard in the temple, and the entry the priestesses make is the one the household carries into the courts.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-uzneradty|Uzn'era]]
 : The goddess of fertility the temple serves

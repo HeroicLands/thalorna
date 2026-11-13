@@ -85,7 +85,7 @@ In 701 a Sworn Hand of [[affiliation-eidhond|the Order of the Sworn Hand]], whos
 
 The losing branch did not stop being a branch. Glirvorv's sons were never asked to swear, the Hrandstead ting has never un-acclaimed the man it acclaimed, and a jarl who holds a province for life under a truce holds it for exactly as long as he lives. Vithgard is quiet. It is the quiet of a kingdom whose two tings are waiting for the same funeral.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The truce.** Snirvmil king at Thrunborg; Glirvorv jarl at Hrandstead for life, with no voice in the succession and a ting that remembers acclaiming him.
 - **The claim.** Alive in Glirvorv's hall, and pressed; a ship's captain in the kingdom's waters can be offered a staggering sum by either side to carry what a war needs.
@@ -94,7 +94,7 @@ The losing branch did not stop being a branch. Glirvorv's sons were never asked 
 
 What the truce does not say is what becomes of Hrandstead's seat when Glirvorv dies, and he is not young. A party in Vithgard in the present reckoning can be hired by the king to make sure the question is never asked, or by the Hrandstead ting to make sure it is.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : the crown and the Thalmidrok

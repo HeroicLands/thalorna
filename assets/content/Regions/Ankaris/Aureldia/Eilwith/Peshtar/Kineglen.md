@@ -46,7 +46,7 @@ A long grassy glen with the burned rings of shielings at its mouth and a row of 
 - **The glen.** The Kelgar clan pays in cattle any party that clears the glen, and promises its byres to nobody else.
 - **The watch.** A hersvald of Vuldstead's forest edge suspects the losses are not Kelgar work, and would like proof before the jarl burns another Kelgar glen.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-grukaraelwyth|The Grukar of Eilwìth]]
 : the nests of the island

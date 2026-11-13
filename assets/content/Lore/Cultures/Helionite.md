@@ -195,7 +195,7 @@ The schools teach a city's songs, legends and plays as its record, and these are
 - [[lore-unreceived|The Unreceived]] is Theldos's tragedy of the Korinthean levy standing on the Sour Plain, and its chorus says on the stage what Korinthea's assembly has never voted to say.
 - [[lore-silentdinner|The Dinner of the Silent Passage]] is the dialogue the College of Ethics reads on the first night of the Silent Passage, and it sets the poets' claim that glory is the second life against a story of the dead speaking their lives before the Silent Judge.
 
-## See Also
+## See Also {#see-also}
 
 [[place-helionis|Helionis]]
 : the seven cities and the country around them

@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Amqelet-Zeleku** is a small company with an ordinary trade and one closely kept secret: a prophecy that its founder, a celebrated astrologer, read in the stars. Its companions are the people who came to her for counsel and stayed. They keep the reading inside the house because repeating it outside costs her reputation, and the company is remembered less for what it sells than for what it will not say.
 
@@ -58,7 +58,7 @@ The company has one relationship that matters, and it is with the founder. She i
 
 The trade is ordinary, and the house is indistinguishable from any other. Say a merchant comes in with a modest order and leaves with it filled at the usual price. He gets no discount for knowing the founder's name and no premium for a prophecy he has never heard of. A Companion who leaves is not fined, and the one who repeats the reading outside the walls pays in the company's trust instead of its coin.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-guldsthlrn|The Guilds of Thalorna]]
 : How guilds are organized across the realms

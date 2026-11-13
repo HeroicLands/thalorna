@@ -15,7 +15,7 @@ data:
   government: selatseltltr
 ---
 
-## Overview
+## Overview {#overview}
 
 Selat-Leteru is the land of [[affiliation-selatseltltr|the Selat of Selat-Leteru]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the delta's shrine-islands: marsh-temples set among water, with few people and a steady traffic of pilgrims.
 
@@ -25,7 +25,7 @@ Selat-Leteru is the land of [[affiliation-selatseltltr|the Selat of Selat-Leteru
 
 The selat is islands and channels, and the temples own much of the dry ground. The few villages and estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-uznera|Uzn'era]] and its estates anchor the pilgrim trade.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-yathleteru|Yath-Leteru]] (~11,000)
 : the selat capital and the seat of the Halzi'a.
@@ -33,7 +33,7 @@ The selat is islands and channels, and the temples own much of the dry ground. T
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatseltltr|The Selat of Selat-Leteru]]
 : The selat that holds this land

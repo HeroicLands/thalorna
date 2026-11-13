@@ -67,7 +67,7 @@ A man who comes up the road to [[place-qptlulneok|Q'aptel'ul Ne'ok]] and asks fo
 
 The **Wall-Sworn**, _Sh'ulakbal_ in Kì'ì'chek, those who serve the wall, are the sworn brotherhood of the secular garrison companies on the southern edge of [[affiliation-kuxiixbal|K'ushi Ish'bal]]. The companies are the garrison lord's, levied from the kin groups the Ts'enmah settles on the plateau and filled out with men from everywhere. The Wall-Sworn are the men among them who have sworn to the wall for life. They hold the towers of the garrison towns, march with the companies, and guide the expeditions that leave Q'aptel'ul Ne'ok down across the flats of [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]] to the gate of [[place-xelemchalix|Shelem Ch'alish]].
 
-## Membership
+## Membership {#membership}
 
 Anyone may swear. Most of the Wall-Sworn are younger sons of the settled kin groups, who would otherwise wait their whole lives for a terrace below the walls. The rest have come from everywhere: debtors, men whose kin were executed, deserters from the armies of the north, and the Spent whom [[affiliation-tsumulob|the Blood-Workers]] have put out of their order. The Blood-Denied, whom [[affiliation-shaqalob|the Severers]] have barred from the blood and the calendar, are taken on the same terms as everyone else.
 
@@ -96,7 +96,7 @@ The First of the Wall is [[being-shlmishtmtsl|Shelem Ishtem Tsul]], a small, bow
 - **Find a man.** A party hunting someone who came south may ask the Keeper of the Wall-Names. He will say whether a man of that description took the wall, and he will not say which wall-name he took.
 - **News of the flats.** The Guides know which springs have turned, which paths have fallen in and which parties have not come back, and they tell it to a party they are about to walk with.
 
-## See Also
+## See Also {#see-also}
 
 [[place-qptlulneok|Q'aptel'ul Ne'ok]]
 : the garrison town where the order keeps its rolls and its graves

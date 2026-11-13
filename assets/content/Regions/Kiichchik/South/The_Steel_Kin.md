@@ -92,7 +92,7 @@ The steel beyond the weight is the kin group's own. It goes down to [[place-nepa
 The smallest of the six kin groups is down to two old smiths, a brother and a sister, and neither has children. When they die, their part of the making dies with them unless they teach it, and the guild's rules let them teach it only to a husband or wife of their kin. The other five heads have each put forward a marriage. Toshel Ne'ok's candidate is her own grandson, and the other four have noticed.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-nekiahkul|Ne' Ki'ahkul]]
 : the forge town on the flank of the smoking mountain

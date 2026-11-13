@@ -21,7 +21,7 @@ The Oasis of Tevrazavad is a small, permanent oasis in the [[place-dunhardsrtrgn
 
 The oasis is the summer seat of [[being-trvshshrdr|Torvash Shiradar]], the chieftain who ended his brothers' war over their father's place by persuading the tribe to govern itself through a council, and whose camp is now a place other sheikhs send their quarrels to be heard.
 
-## See Also
+## See Also {#see-also}
 
 [[place-dunhardsrtrgn|Dunhara Desert Region]]
 : the open desert around the oasis

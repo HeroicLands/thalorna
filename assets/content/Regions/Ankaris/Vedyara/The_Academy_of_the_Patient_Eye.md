@@ -22,7 +22,7 @@ Nothing in the teaching is about volume of shooting; everything is about the one
 
 A Patient Eye student spends more time still than drawing. The academy holds that a man who cannot lie in wet grass from dark to noon has nothing to shoot at, and its aspirants are tested on that before they are tested on a bow.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bowfort|The Bow-Fort]] · [[place-danurkot|Danurkot]]
 - [[place-highdraw|The Academy of the High Draw]] · [[place-swifthand|the Academy of the Swift Hand]] · [[place-hiddenstring|the Academy of the Hidden String]]

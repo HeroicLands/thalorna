@@ -111,7 +111,7 @@ An Empire that keeps the forms and stops paying the far forts, sends the [Doran 
 
 The present: [[lore-tamzirbattle|The Battle of Tamzir Shoals]], the recognition, a navy being rebuilt, a reform forced on the commission system ([[lore-commissioncmp|The Commission Compromise]]), and an old Orzas with a contested succession that has made the Senate matter again.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-commoncal|The Vilérian Calendar]]
 : the count of years every age is a stretch of

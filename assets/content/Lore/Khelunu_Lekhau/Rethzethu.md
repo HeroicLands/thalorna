@@ -12,7 +12,7 @@ Walk any tomb and the _reth_ is on every wall. **Reth'zethu**, the name set down
 
 With [[lore-qeltnu|Qelt'nu]] it makes the pair on which the whole tradition turns, and destroying either ends the person. That is why the erasure of a name is the gravest sentence the empire can pass.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garrethzethu|Gar-Reth'zethu]]
 : the House that holds the domain

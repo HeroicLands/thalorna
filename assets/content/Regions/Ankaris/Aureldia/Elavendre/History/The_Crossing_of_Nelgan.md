@@ -81,7 +81,7 @@ The game went into the wood where nobody could follow it, and the band hunted no
 
 Dhargan came up through the dark with no fire and no spear and his hands open, calling the boy by name. Hauletta could have left the paths turned, and she let them straighten, so nothing turned him. He took Ansel out, and the rest after him. At the edge where the trees thin, he turned to the dark trees and said that he would come back with no cup, no fire, no spear and no bread, alone, and he went down into the smoke of the camp. Hauletta stood a long while and said to let him come, and the Senali left the paths straight.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **Nelgan.** The pass keeps a cairn over the ones who sat down, and the Áelendan say they are sitting there still ([[place-nelgan|Nelgan]]).
 - **A beginning to count from.** The Áelendan reckon their people from the crossing, and teach their children that the people were driven, not invited.
@@ -89,7 +89,7 @@ Dhargan came up through the dark with no fire and no spear and his hands open, c
 - **The fog-hollow.** The hollow where Dranketh was kept is the thin place the people learn the name of in the next generation, and the oldest watch in their keeping is set on it ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
 - **A wood still to be asked for.** The band wintered at the wood's edge, and had been given no door; the asking comes next.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-theasking|The Asking]]—the Senalian lay that tells the crossing
 - [[lore-lowestpoolpct|The Pact at the Lowest Pool]]—what the band did next

@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Lagun elu Au'Khelathu** is the guild of the timber trade across [[place-aukhelathrgq|Au'Khelathu]]: the loggers, the haulers and the timber-merchants who supply the empire's construction. It sets the standard a shipment must meet before it is sold as first quality, and its members have never agreed on what that standard means in practice. A buyer who wants certainty rather than argument pays for grading done outside the guild's own disputed procedure.
 
@@ -54,7 +54,7 @@ The guild's main counterparty is the buyers of timber, who meet a grading proced
 
 Say a builder in the capital orders timber for a pylon's scaffolding and has it graded first quality at the landing. The seller's grade and the buyer's differ by a rank. The usual outcome is a price in the middle and a grumble from both. A buyer who wants certainty pays for grading done outside the guild's own disputed procedure, and the fee is, in effect, the price of ending the argument.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu]]
 : The empire whose construction the trade supplies

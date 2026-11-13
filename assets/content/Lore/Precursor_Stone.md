@@ -83,7 +83,7 @@ The island’s refusal of Senali and later Khazari settlement belongs to its bel
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tharivaan|Thári-vaan]]
 : the custodians, their liturgies and the Rite of Last Tending

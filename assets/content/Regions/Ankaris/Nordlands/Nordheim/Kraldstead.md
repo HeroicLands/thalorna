@@ -17,7 +17,7 @@ data:
   notes: "Trading Post"
 ---
 
-## Overview
+## Overview {#overview}
 
 At Kraldstead the heavy panniers are loaded low and the amber high, and nobody argues with the lead pony. A hundred and fifty people keep the yard where pack-ponies from the inland valleys are loaded for the coast road and unloaded again on the way back, and nothing about the settlement exists for any other reason. The name is the pack-beast's own: Kraldstead is named for the animal that carries its load without complaint.
 
@@ -29,7 +29,7 @@ There is no hall here, no hersvald and no ting. Kraldstead's business is settled
 
 What Kraldstead argues about is the toll the landvordur sets on a season's loads. The packers reckon it against the price their goods fetch at [[place-knalthstead|Knalthstead]], and the landvordur reckons it against what the king's hall is owed, an argument the scale never quite settles either way.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 : the kingdom whose dues the post pays

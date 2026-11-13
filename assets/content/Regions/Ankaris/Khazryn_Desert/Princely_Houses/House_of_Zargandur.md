@@ -54,7 +54,7 @@ data:
 sohl: {system: {commonSkills: [tellumilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **House of Zargandur** is the war-house of the [[affiliation-khzrncnfdrtn|Tellumi Confederation]], the house of the black peak, [Kulsamtenhur]{.name data-type="place/feature"}, the one that stands alone with the cloud on it. Its city, [[place-zargandur|Zargandur]], kept the strongest cavalry in the belt and bred the long-legged desert horse, and its tablet holds two words: _we stood_. It was the first city the [[affiliation-tribestrzd|Atarzád]] took, in the second year of [The Breaking]{.name data-type="lore/history"}, and the house lost more of its leaders in that war than any other. It keeps its court in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]].
 
@@ -70,12 +70,12 @@ The house wants Zargandur, and it is the one house that talks about taking it. F
 
 Its enemy is plain. The Zhoqarod are the largest and most martial of the twelve tribes, they hold Zargandur as a garrison city behind walls they raised higher after the war, and they give the tribes their Zhudek (judge) more often than any other tribe. At the [[affiliation-cnclprinces|Council of the Princes]] the house's opponent is caution. The Council neither endorses Gureshai's preparations nor forbids them, its private consensus is that no reclamation will come in this generation, and the [[affiliation-hsemernagord|House of Mernagord]], whose prince talks to Atarzád merchants, is the house most opposed to the young man's plans.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The count.** Gureshai pays in Amradad for a true count of the Zhoqarod at every gate of Zargandur. A party caught counting is treated as spies.
 - **A signet.** The court pays a fortune for a prince's signet out of the trench at [[place-relvanvesul|Relvanvesut]], where raiders already dig and the dead have begun to come out.
 
-## See Also
+## See Also {#see-also}
 
 [[place-zargandur|Zargandur]]
 : the city the house claims

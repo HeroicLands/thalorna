@@ -86,14 +86,14 @@ Hauletta stood a long time. She saw the cost: it would not be this once, since e
 
 The silver came back to the bark of the birch that were left, slowly, over four lives. The men who had swung the axes and their sons were dead before it lit the dark.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The birch law.** No standing silver birch is felled in Áelendan country, ever, by anyone, for any reason, and the village of [[place-sourimael|Sóurimel]] inside [[place-silvrfrsts|the Silver Forests]] keeps it as strictly as the tribes do.
 - **The Kinless.** The sentence of Kinlessness is passed by a tribe's hall to this day. It is the worst the Áelendan have.
 - **[[place-fldstnd|The Felled Stand]].** The stumps of the cut birch stand in a ring at the margin of the Silver Forests nearest the Lodge, and the young [[affiliation-alndnwrdns|Wardens]] are brought to see it ([[place-silvrfrsts|The Silver Forests]]).
 - **The pattern.** Failure, return and asking, and a yes that does not name its price, is the shape of every Áelendan telling after this one.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-theasking|The Asking]]—the lay that tells the Black Snow
 - [[lore-lowestpoolpct|The Pact at the Lowest Pool]]—the watch that was pulled

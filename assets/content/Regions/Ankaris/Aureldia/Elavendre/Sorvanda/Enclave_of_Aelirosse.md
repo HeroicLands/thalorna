@@ -82,7 +82,7 @@ Most of the songs [[affiliation-bardicolgs|the Bardic Colleges]] treasure as Sen
 - **The crown and the Wardens** hold no authority over it.
 - **[[affiliation-nclvthlss|Ethalosse]]** is the door through which its business with human powers passes.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aelirosse|Aelirosse]]
 : the enclave's seat

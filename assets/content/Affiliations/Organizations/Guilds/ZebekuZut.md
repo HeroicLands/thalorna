@@ -35,7 +35,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Overview
+## Overview {#overview}
 
 **Zebeku'Zut** (the **Merchant Alliance**) has no charter, no roll and no premises, and it is influential all the same. It is an informal network of the empire's major trading houses, bound by pacts of mutual protection, shared intelligence on trade routes and market conditions, and joint bargaining with foreign commercial powers. Its members control a large share of the empire's wealth.
 
@@ -45,7 +45,7 @@ A treasurer of the [[affiliation-garhalzi|Gar-Hálzi]] at [[place-amqelger|Amqel
 
 The alliance does its business where nobody keeps minutes: at banquets, on private estates and along the docks of the delta ports. What binds a house to it is practical. The houses protect one another by pact, pass along what they learn about routes and market conditions, and bargain together when a foreign commercial power has to be dealt with. A Halzi'a who crosses them can be made or broken by their combined weight, and the Halzi'a of [[place-garanlaghet|Gar-Anlaghet]] rules a harbor shared with the [[lore-taruzelianclt|Taruzelian]] factors and the Zebeku'Zut houses.
 
-## See Also
+## See Also {#see-also}
 
 [[place-amqelger|Amqel-Ger]]
 : The **Great Quay**, where the alliance's merchant halls stand

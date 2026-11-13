@@ -14,7 +14,7 @@ data: {packFolder: regkhcult, culture: khelathiclt}
 
 The waiting is not idle. A drowned field owes labor to the temples and the works, so the hands that plant in [[lore-geletssn|Gelet]] spend Azlet raising monuments, floating stone to the desert edge on flood-barges and rebuilding the mudbrick quarters. The low quarters of the capital empty as the water comes up, their people moving in with kin or into the temple precincts. The weeks of the crest are counted an unhealthy season, because the flood fouls the wells. What the water leaves behind is what the empire eats.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathclndr|The Khelathi Calendar]]
 : the three seasons and the five days that close the year

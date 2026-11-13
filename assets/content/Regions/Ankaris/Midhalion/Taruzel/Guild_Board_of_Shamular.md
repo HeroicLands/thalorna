@@ -79,7 +79,7 @@ The board has governed Shamular's scent trade from the guild hall on the square 
 - **The lock.** [[being-tndnhlrn|Tanadan Helaruni]] wants his name cleared before the board rules on the opened strongbox.
 - **The unmatched seal.** The Warden of the Seals wants a party to learn where the flask with the unknown seal was bought, before the buyer from Besikar tells the other perfumers of the city.
 
-## See Also
+## See Also {#see-also}
 
 [[place-shamular|Shamular]]
 : the town the board governs

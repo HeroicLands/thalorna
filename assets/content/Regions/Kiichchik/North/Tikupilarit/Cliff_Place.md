@@ -18,7 +18,7 @@ data:
   notes: "Cliff Place: a village of houses on stilts up the face of a rock island off the Ice Coast, home of the coast's best walrus hunters, ivory carvers and mask makers."
 ---
 
-## Overview
+## Overview {#overview}
 
 Napamiq, Cliff Place, clings to the southern face of a rock island a day's paddle off the [[place-tikumanikrgn|Ice Coast]]. The island rises sheer from the sea with no beach worth the name, so its 200 people build their houses on the cliff itself: frames of driftwood on stilts lashed to the rock, walled with walrus hide, one above another up the slope, joined by ladders and paths. The men's house is the only building dug into the ground, in a cleft at the foot of the cliff. In winter the sea freezes between the island and the mainland, and the villagers walk across.
 
@@ -30,7 +30,7 @@ Every autumn walrus haul out in thousands on the island's rocks, and the men of 
 
 Napamiq's shaman, [[being-pinaqaklu|Pinaqaklu]], Wind Diving, is a woman, and the coast holds her the strongest shaman alive. Villages send men across the ice in late winter to see the Asking danced in Napamiq's men's house, where the masks are carved by the island's carvers to her description and the dancers come down the ladders from the cliff in the dark carrying lamps. After the Asking the masks are carried to the top of the island and left to the wind.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tikupilarit|Tikupilarit]]
 : the Ice-Edge People and their villages

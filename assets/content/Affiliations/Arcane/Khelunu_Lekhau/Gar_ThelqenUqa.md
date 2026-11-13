@@ -62,7 +62,7 @@ The Reader of the Hours fixes the exact moment a formula must be spoken, since t
 
 The House is half a circuit. [[lore-ithnetau|Ithnetáu]], the night, completes it, and a lekhau who holds the day without the night can work only until sundown. [[affiliation-garithnetau|Gar-Ithnetáu]] holds the other half.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-athenuqa|Thelqen'Uqa]]
 : the domain

@@ -92,7 +92,7 @@ He came down, closed the workings, and renewed the Tree-Line oath on the Lodge's
 
 The cost of the closing outlasted the king. The lesson of the Cut was that the crown's legitimacy runs through the old blood, since only the [[lore-aelendnppl|Áelendan People]]'s word opens the mountains, and a house of the lowlands that wished to be heard in the Lodge had to be of the Áelendan's blood. Every noble house set the [[affiliation-bardicolgs|Bardic Colleges]] to prove its descent. The Colleges keep the proofs, and for four hundred years the claims have been maintained gracefully.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The King's Cut.** Sealed adits above the tree line, spoil heaps under birch, and a broken ore-road down to [[place-elanmere|Elanmere]] ([[place-sorvanda|Sórvanda]]).
 - **Release by arrangement.** Sórvanda's metal reaches the autumn fair at [[place-elanmere|Elanmere]] on terms the tribes set, a generation of negotiation at a time.
@@ -100,7 +100,7 @@ The cost of the closing outlasted the king. The lesson of the Cut was that the c
 - **A ban tested exactly far enough.** Every crown since has pushed the prohibition to find where it ends, and has found each time that it ends where the Lodge says.
 - **The proofs of descent.** The Colleges' genealogies are among the kingdom's most valuable documents.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-elvtribute|The Tribute of Élavendre]]—the debt the king tried to pay
 - [[lore-firstcrown|The First Crowning of Élavendre]]—the oath renewed

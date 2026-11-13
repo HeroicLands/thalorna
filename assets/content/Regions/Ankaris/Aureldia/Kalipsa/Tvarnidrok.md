@@ -75,7 +75,7 @@ The head of the house is Knilthorv Tvarnidrok, who sits on the Council and leads
 
 ## History as Told {#history}
 
-The house recites its line to the Nordmen who first tied up in Kalipsa's harbor, and it says it was old when the Council first sat. It fought on the winning side of the civil war of about 470 AF that gave the Harbormaster a single term, and four of its heads have held the office since. Its Malagnan marriage brought it the northern trade, and the house has stayed out of every Nordmen quarrel since with the care of a house that has kin on both sides.
+The house recites its line to the Nordmen who first tied up in Kalipsa's harbor, and it says it was old when the Council first sat. It fought on the winning side of [[lore-calypsacivilwar|the civil war]] of about 470 AF that gave the Harbormaster a single term, and four of its heads have held the office since. Its Malagnan marriage brought it the northern trade, and the house has stayed out of every Nordmen quarrel since with the care of a house that has kin on both sides.
 
 ## Arms {#arms}
 
@@ -85,7 +85,7 @@ Two black ships on a gray field, keel to keel, for the two things the house coun
 
 - **The rule unwritten.** Knilthorv Tvarnidrok wants a master arbitrator to recite a verdict that supports the census rule, and needs someone to find one who remembers such a verdict.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-captnscncl|Captains' Council]]
 : the council where the house sits

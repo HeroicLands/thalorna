@@ -47,7 +47,7 @@ The pass is shut by snow, and the watch-post below the ridge stands empty until 
 - **A raider's iron.** A piece dug out of the scree is a warrior's helm or a chief's spear-head, and the Wardens want it back.
 - **A caravan master who will not wait.** A merchant who wants to cross in the dead of winter offers more than the passage-gift, and a young Warden is tempted.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-nelgancross|The Crossing of Nelgan]]—the people who came over it
 - [[lore-firesnelgan|The Fires on Nelgan]]—the raiders who came after

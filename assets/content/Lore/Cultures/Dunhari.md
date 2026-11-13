@@ -182,7 +182,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is what the Circle did with it. Twice the Circle was petitioned to act against a Dunhari tribe whose leaders had done what the petitioners found intolerable, and twice it refused. One of those tribes became a vassal of the [[affiliation-khzrncnfdrtn|Tellumi Confederation]]. The other was swallowed by its neighbors within a generation. The Circle counted both as the price of keeping the Old Promise whole. A people who will not give up a guest gave up two of their own, and the poets keep the account. Thoughtful Dunhari dispute whether a law that never lifts a blade against a Dunhari can hold a Dunhari tribe to account, and whether the confederation was kept whole or only kept.
 
-## See Also
+## See Also {#see-also}
 
 [[place-dunharargn|Dunhara Region]]
 : the desert, the circuits and the confederations

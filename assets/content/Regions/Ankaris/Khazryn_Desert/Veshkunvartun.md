@@ -14,7 +14,7 @@ data:
   culture: khazrynclt
 ---
 
-## Overview
+## Overview {#overview}
 
 At the northern end of [[place-velkunar|Veshkun]], where the sand has been shoveled back from a gate-court of fitted stone, the settlers of [[place-vahurdash|Vahurdash]] keep a door. It is a double leaf of cedar, black with age and bound in bronze, hauled out of a buried passage in the first seasons of the resettlement and hung in the one arch of the old city that still has two standing piers. The Tellumi call the place **Veshkunvartun**, "the gate of the lost one". The settlers call it the Barred Gate, and they bar it before the last light has left the western wall.
 
@@ -61,7 +61,7 @@ The gate is entered from the north, over the open rim, or from the town side by 
 - **The paid man.** One of the exiled houses in Amradad has paid a man to find out whether the knocking is a story the House of Vahurdash tells to keep strangers from the cellars, and a rival house would pay him more to learn that the gate cannot be ended.
 - **The Shekhul's account.** The priest of the settlement holds that the Gate-dead is no champion and wants the wardens to stop answering it as one; the wardens want proof before they give up the name of Bernirai.
 
-## See Also
+## See Also {#see-also}
 
 [[place-velkunar|Veshkun]]
 : the ruin the gate stands in

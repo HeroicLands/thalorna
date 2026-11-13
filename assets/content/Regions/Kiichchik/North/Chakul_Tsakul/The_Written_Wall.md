@@ -8,7 +8,7 @@ tags: [site, desert, ruin, inscription]
 data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Written Wall, Sh'ulak P'ilam, is the southern cliff of a lone mesa in the western badlands of [[place-chakultzklrgn|Ch'akul Tsa'kul Region]]. From a day away it looks like any red cliff with a pale band across it. Closer, the band is writing: the whole face of the cliff, a quarter of a mile long and taller than a temple, is cut with signs in straight rows from the scree at its foot to the rim. A stair cut into the rock climbs the cliff at its eastern end, and on the mesa top stands a roofless hall of fallen slabs.
 
@@ -32,7 +32,7 @@ The stair is the second danger, and a fall from it is a fall of the whole height
 
 The signs themselves are the treasure. Scribes and priests of the south pay well for careful copies on bark paper, and a copy of a whole row is worth a porter's load of cacao in the markets of the south. The painted pots in the hall are whole often enough to be worth carrying. Some of the guides of the badlands say a party should copy only from the ground, by day, and touch nothing.
 
-## See Also
+## See Also {#see-also}
 
 [[place-chakultzklrgn|Ch'akul Tsa'kul Region]]
 : the desert and its badlands

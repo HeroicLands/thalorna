@@ -18,7 +18,7 @@ data:
   notes: "Canoe Place: the greatest harbor of the Bead Coast, where the Canoe Kin keep their house and their yard, the Sky Elder keeps the Measure, and the chiefs gather at midwinter."
 ---
 
-## Overview
+## Overview {#overview}
 
 A canoe coming over from the islands sees the smoke first, from a hundred cooking fires and the tar pots on the beach, and then the canoes themselves: forty or fifty plank canoes drawn up in rows above the tide line, their red-painted hulls shining with tar. This is Kulaiwil, Canoe Place, the largest town of the [[place-shuqhalaqrgn|Bead Coast]], where [Shiyawkal]{.name data-type="being/npc"} sewed the first plank canoe. About 4,000 people live here, at the mouth of a creek on the channel shore of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People, with the islands on the horizon to the south and the gold hills and the mountains at their backs.
 
@@ -38,7 +38,7 @@ On a rise behind the town stands the astronomer-priests' house, a round reed hou
 
 At midwinter the chiefs of many towns paddle or walk to Kulaiwil for the [Holding of the Sun]{.name data-type="lore/gathering"}. For four days the astronomer-priests sing at the sun pole, the chiefs feast in Shuqkanan's house, the counters line up before the Sky Elder with their measuring cords, and quarrels between towns are heard. On the fourth morning the whole town climbs the rise before dawn to watch the sun come up over the mountains a little farther north than the day before.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People and their towns

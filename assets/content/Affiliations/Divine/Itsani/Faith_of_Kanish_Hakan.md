@@ -96,7 +96,7 @@ Everyday devotion to K'anish Ha'kan is domestic and constant. The first tortilla
 
 His mourning rites are unlike any other branch's. A field that has failed is not simply abandoned; the Ul'omal comes, the crop is cut and burned, and the ground is spoken over. The theology holds that maize which does not ripen has still given its substance, and that the debt runs from the farmer to the plant as much as from the plant to the farmer.
 
-## Organization
+## Organization {#organization}
 
 K'anish Ha'kan's specialist priests—the Ts'ultsik for cacao and the Ul'omal for maize—maintain detailed agricultural knowledge, temple gardens serving as experimental grounds where new cultivation methods are tested. The gardens are the branch's pride and its practical foundation: seed-lines are kept separate and labeled across generations, soil types are matched to varieties, and failures are recorded in bark-paper registers alongside successes. The **Keeper of the Temple Gardens** is usually a priest of long service and no political ambition, and the office is considered a fine one to hold and a poor one from which to rise.
 

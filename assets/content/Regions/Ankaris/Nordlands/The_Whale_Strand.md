@@ -45,7 +45,7 @@ A whale that comes ashore dead is the most fought-over thing a beach can hold, a
 
 Most quarrels the ting hears about whales are quarrels about the third rule: a mark worn past reading, a harpoon claimed by two crews, a beach where the high-water line moves.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]
 : the seal hunt that shares the whale-coasts

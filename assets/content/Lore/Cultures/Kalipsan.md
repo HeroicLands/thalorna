@@ -108,7 +108,7 @@ A Kalipsi owes, in order: his house, which means the names on its roll and the h
 
 The language for this is Nordmal's, and the [[skill-nordmalng|language note]] has its words.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-calypsa|Kalipsa]]
 : the city-state

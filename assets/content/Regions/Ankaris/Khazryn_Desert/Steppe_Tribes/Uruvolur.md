@@ -100,12 +100,12 @@ The Uruvolur stay out of the quarrels of the grass tribes. A band that refuses t
 
 The bands raid nobody, and a band is too small to fight a grass tribe. What they fear is a stranger who can find the water again, a rim tribe that has decided it needs a band's water more than its guides, and a caravan lost on a guide's stretch, which shames the whole band.
 
-## Hooks
+## Hooks {#hooks}
 
 - A guide of Numaqtoliz's band is selling a Bizarian master the way to the band's own water, and the master does not know what he is buying. The band knows a sale is being made and does not know which guide is making it.
 - A rim tribe has killed an Uruvol guide in a quarrel over a seep, and every band on the road has stopped work until it pays. A caravan already at Yemok has no guide for the Long Dry and a master who will not wait.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

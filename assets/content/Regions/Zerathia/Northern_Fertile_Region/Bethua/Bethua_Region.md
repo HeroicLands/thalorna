@@ -16,7 +16,7 @@ data:
   culture: bethuanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Bethua Region is the middle of the
 [[place-nrthrnfrtlrgn|Northern Fertile Region]], between [[place-okharisrgn|Okharis]] to the west and
@@ -62,7 +62,7 @@ authorities in exchange for grazing rights; its eastern frontier with
 Au'Khelathu Region is poorly defined and a recurring source of
 friction.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]
 : the parent region
@@ -75,3 +75,7 @@ friction.
 
 [[place-okharisrgn|Okharis Region]]
 : neighbor to the west
+
+[[place-ashira|Oshira]]
+
+[[place-sehela|Sehela]]

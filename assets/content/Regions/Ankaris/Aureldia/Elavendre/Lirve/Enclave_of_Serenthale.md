@@ -76,7 +76,7 @@ The Senali kept their enclaves in the deep forests of Lirve for thousands of yea
 - **The Arcane Order** looks for it and does not find it.
 - **[[affiliation-nclvthlss|Ethalosse]]** is the door through which the Senali deal with human powers.
 
-## See Also
+## See Also {#see-also}
 
 [[place-serenthale|Serenthale]]
 : the enclave's seat

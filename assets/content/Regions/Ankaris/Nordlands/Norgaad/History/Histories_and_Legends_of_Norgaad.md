@@ -104,7 +104,7 @@ account, a predecessor failed to keep open the world's wound and winter did not 
 elder did so. It is their explanation of the famine, not an attested cause of it. Others remember
 failed harvests, deaths and disputed acts at the kin-fell without accepting the Children's claim.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kingdmnrgd|Kingdom of Norgaad]] · [[place-norgaad|Norgaad]]
 - [[place-nrdlndsrgn|Nordlands]] · [[affiliation-asguardian|Asguardian Pantheon]]

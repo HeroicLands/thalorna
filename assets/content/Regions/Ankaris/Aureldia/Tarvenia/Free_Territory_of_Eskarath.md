@@ -73,7 +73,7 @@ Pantheon
 Government
 : Council of elders (the [[affiliation-biltzarrath|Biltzarrath]]) drawn from highland clans
 
-## Overview
+## Overview {#overview}
 
 The Free Territory of Eskarath holds the land of [[place-eskarath|Eskarath]]. The Eskárathi speak their own language—[[skill-eskarilng|Eskari]], a linguistic isolate with no known relatives—maintain their own legal customs, and acknowledge the High King of [[affiliation-kingdmtrvn|Tarvénia]] only in the loosest possible sense. They are fiercely independent even by Tarvenan standards, which is saying a great deal.
 
@@ -95,7 +95,7 @@ The arrangement with the crown stands. When the lords of Tarvénia elect a High 
 
 A household holds its own flock and its own people, and its head speaks for them in the valley. The elders of a clan settle what the young dispute, and send some of their number to the Biltzarrath as delegates. Four posts are held from among them: delegates hold the Speaker of the Council, the Host-Caller and the Truce-Warden, and an elder holds the Water-Warden, who keeps the peace between clans over a shared spring.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Free Territory of Eskarath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The territory is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
@@ -107,7 +107,7 @@ The clans hold their own valleys, under their own elders. The Biltzarrath sits a
 
 The Eskárathi were in the highlands centuries before the Tarveni came. When the Empire took Tarvénia's lowlands, a _therkos_ sent to rule Eskarath directly lost his escort in the high meadows and was not replaced, and the arrangement the Eskárathi reached afterward with whoever held the lowlands was the one they had always kept ([[lore-lowlandstaken|The Lowlands Taken]]). It has held for centuries.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
 : The loose overlord (barely)

@@ -17,7 +17,7 @@ data:
   notes: "Weaving village of the Zhíkande tribe among the flax fields of a river of Okharis."
 ---
 
-## Overview
+## Overview {#overview}
 
 Zhíkande Village is the seat of the [[affiliation-zhikandetrb|Zhíkande tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

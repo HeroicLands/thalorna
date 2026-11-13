@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Zamlu elu Au'Khelathu** is the chartered guild of the musicians and singers of [[place-aukhelathrgq|Au'Khelathu]], open to any performer willing to pay its dues. Members invoke its name constantly, as a credential before an audience or a patron, and attend its meetings only sporadically. A patron who checks a musician's claimed membership against the roll finds the claim confirmed more often than the attendance would suggest.
 
@@ -58,7 +58,7 @@ The guild's relation with hiring patrons is brief and routine. A patron checks a
 
 Dues are the price of belonging, and the guild's name serves its members as a credential before an audience or a patron. Say a singer arrives in a new city with no one to speak for her. She names the guild, pays her dues in silver, and is heard. If the patron's steward checks the roll, her name is on it. If she wants the engagement of her life, she asks a Master for a recommendation, and a Master's recommendation carries across the whole empire.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu]]
 : The empire across which a master's recommendation carries

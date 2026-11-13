@@ -43,7 +43,7 @@ Black water under alder and willow, and reed and moss over the soft ground. The 
 - **The mares.** A Highlands breeder who has lost foals to the west of the lake pays for them back, and believes the Durrask have them.
 - **The chest.** The iron-bound chest in the bog is older than the nest, and a party that gets to the islands can get to it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-grukaraelwyth|The Grukar of Eilwìth]]
 : the nests of the island

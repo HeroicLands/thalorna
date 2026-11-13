@@ -98,7 +98,7 @@ The **Warden of the Debt** keeps the ledger against which all of this is measure
 
 Vows made to Ts'en'ul Tq'an are the heaviest a Kì'ì'chek can undertake, because the god is understood to keep his own accounts with perfect precision and infinite patience. A warrior who dedicates a captive and then ransoms him instead has not merely broken faith with a temple but has left a hole in the cosmic reckoning, and the priesthood teaches that such holes are filled from the debtor's own household, in the god's own time and by the god's own choosing.
 
-## Organization
+## Organization {#organization}
 
 The great solar pyramids of Ts'en'ul Tq'an are always the tallest structures in any city, their peaks the first to catch dawn light. The Ch'alish Tq'an of Ts'en'ul Tq'an's temple is the most politically powerful religious figure in any city-state—the supreme voice of cosmic order. When a king dies, it is the Ch'alish Tq'an who determines whether the gods approve the heir's succession, a power that has elevated and destroyed dynasties.
 

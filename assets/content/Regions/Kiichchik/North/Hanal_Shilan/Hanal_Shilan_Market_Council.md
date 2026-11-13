@@ -61,7 +61,7 @@ When a canoeman of the Maple People and a One Fire factor quarrel over a bargain
 
 The council fears the day a war party arrives with a claim to the town. The Market Warden's watchmen are few, and the town has no walls worth the name. It also fears a patron: the nation that gets to pay the Weigher and the watchmen will soon give the orders, and the other will burn the town to take it back.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hanalxilan2|Ha'nal Shi'lan]]
 : the town it governs

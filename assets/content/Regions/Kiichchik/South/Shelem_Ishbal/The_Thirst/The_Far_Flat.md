@@ -8,7 +8,7 @@ tags: [feature, waste, desert, salt]
 data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Far Flat, Nalum Sh'aqal, is a dry lake in the northern part of [[place-thethirst|the Thirst]], a floor of white salt so flat and so bright that a traveler on it walks with his eyes half shut. On its southern shore stands a single dark mountain, and from the northern shore it looks a day's walk away. Most parties that cross the Thirst cross the Flat, because going around it adds a fortnight and two springs that may not be there.
 
@@ -24,7 +24,7 @@ The returners have three rules for it, and they knot all three into the account 
 
 The salt is littered with the gear of parties that kept walking: water jars, a litter, a dead man sitting up with his eyes open, all of it bleached white.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thethirst|The Thirst]]
 : the desert around it

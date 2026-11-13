@@ -15,7 +15,7 @@ data:
   government: selatgrshbzt
 ---
 
-## Overview
+## Overview {#overview}
 
 "Ask me why the goddess is a cobra and the reeds are hers, and I will point at the marsh," a fowler says to a visitor, setting his throw-stick across his knees in the bow of a reed boat. "That is the whole answer, and nobody here has wanted a longer one." Gar-Shebazet Selat is the land of [[affiliation-selatgrshbzt|the Selat of Gar-Shebazet]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
@@ -25,7 +25,7 @@ The selat is papyrus marsh. Its people fowl the open water, build reed boats and
 
 The chief temple of [[affiliation-shebazet|Shebazet]] and its estates hold much of the marsh. No priest has put the bond between the goddess and the reed-beds into words for an outsider; the delta treats it as too obvious to explain.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-garshebazet|Gar-Shebazet]] (~49,000)
 : the selat capital and the seat of the Halzi'a.
@@ -33,7 +33,7 @@ The chief temple of [[affiliation-shebazet|Shebazet]] and its estates hold much 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]
 : The selat that holds this land

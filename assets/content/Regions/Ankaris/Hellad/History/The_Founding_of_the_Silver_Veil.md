@@ -60,7 +60,7 @@ The Academy's first rule is the sentence its graduates carry. The city could not
 - **The root of [[affiliation-velvethand|the Velvet Hand]].** The syndicate recruits from the Academy's graduates and dropouts alike, and its trade is the Academy's skill turned to another purpose.
 - **A reputation.** Kalidrian taste, in manners and entertainment, travels farther than Kalidria's arms ever could.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-helionscnq|The Conquest of Helionis]]—the war the Academy answers
 - [[affiliation-kalydria|Kalidria]] · [[place-kalydria2|the city of Kalidria]]

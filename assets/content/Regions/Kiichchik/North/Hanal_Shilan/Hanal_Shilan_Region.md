@@ -15,7 +15,7 @@ data:
 # terran_analog: the Ohio River valley and its tributaries, west of the Appalachian Mountains, between the Great Lakes and the Mississippi
 ---
 
-## Overview
+## Overview {#overview}
 
 Ha'nal Shi'lan Region is the wooded river frontier between the [[affiliation-osetakona|Maple People]] to the northeast and the [[affiliation-tokchiaska|One Fire]] to the southwest, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. Both nations claim it and neither holds it.
 
@@ -33,7 +33,7 @@ Ha'nal Shi'lan is the oldest grievance in the [[affiliation-redstncmpct|Red Ston
 
 The fighting does not stop the trade. Copper, furs and dried fish come down from the Maple People, and shell, engraved copper and fine pottery come up from the One Fire; Grass People traders bring hides and robes from the west. The trading posts on the rivers, the largest of them the settlement that gives the region its name, are where the goods of the east change hands.
 
-## See Also
+## See Also {#see-also}
 
 [[place-northkiichchik|Northern Kì'ìch'chik]]
 : the enclosing region

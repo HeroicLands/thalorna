@@ -58,14 +58,14 @@ The Sekran went after all of it. A practitioner the Sekran found was enrolled if
 
 The hardest country to hunt in was the one that had taught the Order its craft. The Helionite city-states had produced practitioners for centuries before the Republic took them, and after the conquest their free schools went on teaching what they had always taught. The Sekran closed them one by one, enrolling their masters or breaking their houses, and the last of them fell in the first decades of the [[affiliation-vylarinmpr|Empire]]. The city-states still produce more untrained talent than any other country the Order registers, and the Sekran treads carefully in them.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The five methods.** Recruitment, confiscation, restriction, imprisonment and elimination, in that order of preference, are the Sekran's practice today as they were its practice in these years.
 - **The age before the Order.** The official history that teaches a Vilérian child what an unregistered practitioner is, and the cautionary tale the monopoly is defended with.
 - **The prisons.** The magical prisons the Order keeps at several places across the western part of the [[place-ankrscntnnt|Ankaris Continent]], for the offenders the Sekran judges too dangerous to enroll.
 - **The register.** A name on it is the best outcome the Sekran can file, and the Hunting Years are where the habit of filing one began.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-kandrol|The Kandrol]]
 : the charter that made the hunt a duty

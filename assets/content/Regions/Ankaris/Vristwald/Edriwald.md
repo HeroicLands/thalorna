@@ -24,7 +24,7 @@ Edriwald follows the bay-facing edge of [[place-vrystwald|Vristwald]]. [[place-c
 
 The conflict here concerns sacred ground. [[affiliation-alndnwrdns|Áelendan Wardens]] seek to keep [[lore-varokhiclt|Varokh]] parties out of places they guard; a crossing that looks like passage to one side can look like trespass to the other. The Wardens have no separate record yet, and no village council in Edriwald can bind the rest of Vristwald to its answer. A party planning to follow the bay must ask at each landing whose claim a path crosses.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vrystwald|Vristwald]]
 : the wider forest
@@ -34,3 +34,11 @@ The conflict here concerns sacred ground. [[affiliation-alndnwrdns|Áelendan War
 
 [[place-falkhaven|Falkhaven]] and [[place-thornwald|Thornwald]]
 : the neighboring reaches
+
+[[place-edrihaven|Edrihaven]]
+
+[[place-eichholt|Eichholt]]
+
+[[place-thalgrund|Thalgrund]]
+
+[[place-theodhaven|Theódhaven]]

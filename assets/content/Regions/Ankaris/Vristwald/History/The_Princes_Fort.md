@@ -50,13 +50,13 @@ For a generation it worked. The Grukar raids along that stretch of the frontier 
 
 The prince's son asked the villages for tribute to keep the fort: a tithe of furs each year, for the garrison's pay, and the prince's right to call on the war-bands when he chose. A bargain between a village and outsiders is the Other Chief's business, and it is not a bargain until she witnesses it. [Hródara ira Vandwald wur Thornhaven]{.name data-type="being/npc"}, the village's Other Chief, heard the terms at the fort before both peoples and refused to witness them. A fort a village helps to hold is a shared fort, she said, and a fort a village pays for is a lord's fort, and Thornhaven has no lord. The war-bands walked out of the gate that afternoon. The prince could not hold the crossing with his own garrison and gave it up within the year, and the fort burned as it was abandoned; the tellings in Thornwald and the stories in the grain villages each say the other side lit it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **Theodburg.** A half-burned timber fort on the Thornwald frontier with a stone gatehouse still standing, watched by Velanthian agents, Varokh scouts and the Grukar. A prince's heir wants it back, with Varokh war-bands in it, and has begun asking which village would send them.
 - **Thornhaven's War Chief.** After Hródara, the princes' agents stopped asking the Other Chief for anything and went to the seat that was armed and awake. Thornhaven's War Chief has treated with outsiders ever since, and its Other Chief has had less to say to the world than any Other Chief in the forest.
 - **The season and the oath.** Varokh war-bands still hire out to Velanthian princes, by the season and for pay, and never by an oath to the prince; a captain who asks for the oath is told about Theodburg.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thornhaven|Thornhaven]]
 : the village whose seats the fort rearranged

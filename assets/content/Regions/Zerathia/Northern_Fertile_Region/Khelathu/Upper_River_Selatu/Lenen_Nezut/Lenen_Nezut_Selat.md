@@ -15,7 +15,7 @@ data:
   government: selatlennnzt
 ---
 
-## Overview
+## Overview {#overview}
 
 "They are small. Everyone says so, and nobody who has driven one up a dyke in flood says it twice," a horse-breeder of [[place-lenennezut|Lenen-Nezut]] tells a buyer who has come to look over a string of colts at the edge of the pasture.
 
@@ -36,7 +36,7 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 - The chief temple of the Faith of Uqa'a and its estates
 - The ram-cult of Uqa'a and the horse-pastures of the margins
 
-## Settlements
+## Settlements {#settlements}
 
 Lenen-Nezut (~26,000)
 : the selat capital and the seat of the Halzi'a.
@@ -44,7 +44,7 @@ Lenen-Nezut (~26,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thronelnz|The Throne at Lenen-Nezut]]
 : the dynasty the old capital remembers

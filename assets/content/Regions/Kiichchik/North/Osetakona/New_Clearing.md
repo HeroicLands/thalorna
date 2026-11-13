@@ -20,7 +20,7 @@ data:
 # terran_analog: a frontier Iroquoian village of the upper Ohio drainage, such as the fortified Monongahela and Erie villages
 ---
 
-## Overview
+## Overview {#overview}
 
 New Clearing is the farthest south any village of the Grove has ever stood. It sits on a bend of a river in the [[place-tionhsekargn|Southern Rivers]], where the valley opens into the bottomlands of [[place-hanalxilanrgn|Ha'nal Shi'lan]], a few days' paddle from the northern towns of the [[affiliation-tokchiaska|One Fire]]. About 600 people of the River People live in it. The name (_tsiontaha tahsiren_) means only what it says: the clearing was new when the village moved here five years ago. Two autumns ago a war party of the One Fire burned it, and the River People rebuilt it on the same ground the next spring, and kept the name.
 
@@ -48,7 +48,7 @@ The third captive taken from New Clearing, a girl of twelve of the Sturgeon clan
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-tionhsekargn|Southern Rivers]]
 : the River People's valleys

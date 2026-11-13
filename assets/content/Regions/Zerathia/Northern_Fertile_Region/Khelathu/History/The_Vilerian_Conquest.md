@@ -66,14 +66,14 @@ The priesthood did what it does with every conqueror. It crowned the army's comm
 
 His son reigned after him as a Khelathi, and the occupation closed with that reign in 2505 ST (395 AF) ([[lore-foreignhs|the Closing of the Foreign House]]). The Vilérian record says the legions took the apex in a single battle and that the province was held for the Orzas as long as men could be spared, and the two accounts agree on that much.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Chariot Field.** The third blood-field in Khelathi memory and the only thin one, where the corps' dead and the Vilérian pit lie unread.
 - **The corps' respect for infantry.** The chariot corps is still the elite striking force, and the heavy infantry of the Vilérian Empire has challenged its dominance in the centuries since.
 - **The Short Way.** The foreign house lies at [[place-zugezer|Zu-Gezer]] in a stub of a Way with two royal tombs ([[place-shortway|the Short Way of Amralo'Methu]]).
 - **The wars the two empires count.** Viléria and Au'Khelathu have fought wars and settled into a wary balance, and the conquest was the worst of them.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-foreignhs|The Closing of the Foreign House]]—how the occupation ended
 - [[lore-akhpriestthr|The Priests' Thrones]]—the age it belongs to

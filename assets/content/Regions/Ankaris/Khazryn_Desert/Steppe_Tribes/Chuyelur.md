@@ -77,12 +77,12 @@ The Naqkhakur feud is the other half of it. A Chuyelur warband riding under a ba
 
 The Chuyelur's own account is the singer's, and it is a run of raids, each with its rider's name, back to the first banner. Nothing in it is older, and the singer says nothing is.
 
-## Hooks
+## Hooks {#hooks}
 
 - Koyozlun wants a stranger who has seen the gathering man to describe him to her, word for word and with nothing added, before she gives the moot her judgment.
 - A Black Flame faction in Hek'ar wants Chuyelur riders to lead it to a rival's camp, and Atazdovaq wants an outsider to carry his answer, because a Chuyelur seen riding with the knights is a story the singer has to sing.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

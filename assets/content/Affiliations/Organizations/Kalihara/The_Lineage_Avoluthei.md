@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: [kalihrlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Avoluthei (_avoluthei_, cloud pass) holds [[place-klhrcldpss|the Cloud Pass]], the high notch by which the road from the eastern coast crosses [[place-klhrring|the Ring]] into [[place-klhrbowl|the Bowl]]. The lineage keeps the road: its cut steps, its rope bridges over the ravines, the shelters below the crest and the gate at the village of [[place-avoluthei|Avoluthei]], which carries the lineage's name and stands in cloud for most of the year. Their country lies on both sides of the crest.
 
@@ -67,7 +67,7 @@ The wind-stone of the pass stands on the crest above the village, and the Avolut
 
 The Avoluthei sit in [[affiliation-councilisland|the Council of the Island]] through their Elder and work with the custodianship of [[affiliation-tharivaan|Thári-vaan]] in the tending of the pass. Its quarrel is with the port, and the port's council is [[affiliation-housefactors|the House of Factors]], whose trade brings the hulls the lineage blames; it does not argue the point with anyone from the coast.
 
-## See Also
+## See Also {#see-also}
 
 [[place-avoluthei|Avoluthei]]
 : the pass village, the lineage's seat

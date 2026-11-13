@@ -18,13 +18,13 @@ data:
   notes: "A chartered free city of about 40,000 at the mouth of the River Vilaris, outside the provinces, where the capital's sea-borne supply goes from ship to barge and the trade guilds govern under the Orzas's charter."
 ---
 
-## Overview
+## Overview {#overview}
 
 Three marks tell you whose city Elissara is: the master's seal of the potters' guild on a bowl, the blue anchor of the [[affiliation-seamensgld|Seamen's Guild of Elissara]] on a sailor's right arm, and the bronze doors of the chapterhouse of [[affiliation-danvar|the Danvar]]. None of them is the Orzas's. Elissara is a chartered free city of about forty thousand people at the mouth of the [[place-vylarisrvr|River Vilaris]], one of the larger cities of [[place-midhalnrgn|Midhalión]], and it belongs to no province. Its trade guilds govern it as the [[affiliation-tevranaelissium|Tevran of Elissara]], under a charter of the [[affiliation-vylarinmpr|Vilérian Empire]].
 
 A supercargo who has made landfall here more times than he can count briefs a young partner on his first call: "Keep your eyes on the quays. Everything the capital buys over the sea comes in here, and goes up the river on a barge, so half the cargoes you see are not for sale and the other half are spoken for. The men who sail the ships are on the roll of the Seamen's Guild, so you hire by the voyage, from the roll. Behind the quays is the market, and the market is full of pots. A master's seal on a bowl is worth more than the bowl. When you need a draft cashed, the Danvar keep one of their largest chapterhouses here. Say who you are when you walk in, and remember there is no governor to complain to. The guilds are the government."
 
-## Arriving
+## Arriving {#arriving}
 
 [[place-orzara|Orzara]] lies five days north by road.
 
@@ -54,7 +54,7 @@ The city's people can be seen in its trades. [[being-arklrdsklmkns|Arkalordas Ka
 
 Elissara's freedom rests on a charter that every Orzas seals anew, and the old Orzas is dying. The province of [[affiliation-provincvld|Salkalon]], whose land surrounds the city on three sides, holds the charter to be a privilege the province merely tolerates. An advocate from [[place-mercavia|Delalara]] has taken rooms in the city and asks every guild for a copy, saying he is writing a history. The [[affiliation-byzarianlg|Bizarian League]] lends to the throne against the customs of Elissara, and the League's own clerks collect them at a customs house at the river mouth, outside the walls. The fleet, short of seamen, is paying the Seamen's Guild for copies of its roll. Inside the walls the vote is the standing quarrel: the seamen and the bargemen are the largest guilds, the shipowners and merchants hold the seats, and Zenothen Linthimis presides in his third year, two more than custom expects.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The Zerazendis Inn, two streets back from the Long Quay, is the inn for travelers and for the farmers who bring produce down from the estates, and its kitchen is the best in the lower town. Seamen between voyages sleep at the Roll House, and a party that has signed on a ship may be offered a bench there.
 
@@ -70,7 +70,7 @@ Between about 418 and 425 the Orzas Arzanas founded [[affiliation-tevran|the Tev
 - **The advocate.** An advocate from [[place-mercavia|Delalara]] has taken rooms in the city and is asking every guild for a copy of the charter. He says he is writing a history.
 - **The navy's need.** The fleet is short of seamen and is paying the Seamen's Guild for copies of its roll. A hand whose name is on one wants to know what the fleet means to do with it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tevranaelissium|Tevran of Elissara]]
 : the council of guilds that governs the city

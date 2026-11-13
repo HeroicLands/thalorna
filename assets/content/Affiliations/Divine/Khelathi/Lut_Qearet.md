@@ -47,7 +47,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Lut-Qe'aret is the temple of [[lore-qearetdty|Qe'aret]], whose order is held to be the order of the world itself, maintained by priests trained to read law as a sacred text. The temple's judgments carry directly into the imperial courts, so its priesthood doubles as a bench the state itself defers to. Its priests are expected to be beyond purchase, and a priest found otherwise loses the office along with the authority that came with it.
 
@@ -78,7 +78,7 @@ Nothing here has a price, and that fact is the whole of the temple's commerce. S
 
 A ruling from the temple is not for sale: a priest found open to purchase loses the office and the authority with it. A litigant who tries it learns the cost in a hurry, and so does the priest who accepts.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-qearetdty|Qe'aret]]
 : The goddess whose order the temple keeps

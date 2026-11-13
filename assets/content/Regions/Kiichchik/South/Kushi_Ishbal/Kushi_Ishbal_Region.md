@@ -17,7 +17,7 @@ data:
 # terran_analog: Bolivia, Southern Central Brazil
 ---
 
-## Overview
+## Overview {#overview}
 
 K'ushi Ish'bal Region is the land of [[affiliation-kuxiixbal|K'ushi Ish'bal]], and lies within [[place-southkiichchik|Southern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
@@ -51,13 +51,13 @@ The main trade goods flowing through K'ushi Ish'bal are provisions for travelers
 
 K'ushi Ish'bal quarrels over what the temples keep. The priesthood's word prevails over the Ts'enmah's wherever the two differ, and the temples take the largest share of the plateau's herds and harvests into their treasuries and their rites. The Ts'enmah answers for the garrison towns and the expeditions, and the storehouses that outfit them are filled with what the temples leave. The temples keep the lake's secrets as well. Its southern shore has turned bitter over a long reach, the priests have closed it, and what the water priestesses report of it each month goes to the Ch'alish Tq'an of the lake temples and no farther. The kin groups settled in the garrison towns from the northern valleys ask whether the bitter ground is spreading, and nobody answers them. On the southern lip the quarrel is over men. [[affiliation-wallsworn|The Wall-Sworn]] take the Blood-Denied onto the walls under wall-names, and [[affiliation-shaqalob|The Severers]] at the gate of Q'aptel'ul Ne'ok hold that the sentence still stands on every one of them.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The priestess in the bow.** The Ts'enmah of K'ushi Ish'bal wants to know what the water priestesses taste at the edge of the bitter reach, and [[being-nelushishtem|Nelush Ishtem]], Ch'alish Tq'an of the lake temples, will not tell him. He asks a party to learn it, from a priestess, a boatman or the water itself, without setting foot in a sacred boat unblessed.
 - **The short storehouse.** [[being-tsulishkul|Tsul Ishkul]], Sh'ukelmah of Q'aptel'ul Ne'ok, has more expeditions coming up the road this season than his storehouses can outfit, because the temples took their share of the herds first. He sends a party to Ishkul Ch'alish with his request for a herd from the lake temples, and with his count of cloaks to show that he asks for no more than he needs.
 - **The brother on the wall.** A Severer at the gate of Q'aptel'ul Ne'ok has named a Wall-Sworn brother as a priest who fled the Blood-Denied sentence in the north, and wants him brought before the Speaker of the Sentence. [[being-shlmishtmtsl|Shelem Ishtem Tsul]], First of the Wall, refuses to say what name the brother set aside. Each asks the party to persuade the other.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kuxiixbal|K'ushi Ish'bal]]
 : The realm that holds this land

@@ -113,7 +113,7 @@ Gomarga sells into the river valleys and the coast and buys grain, cloth and iro
 
 The [[affiliation-janpdsvdyr|Mahva-Sangra's roll]] carries the few plateau janpodas and not the kingdom, which is ordinary; a rajya is not a janpoda. What is not ordinary is that Gomarga sends nobody to the [Mahva-Melka]{.name data-type="lore/gathering"} at all in most cycles. The assembly meets on [[place-mahanodi|the Mahanodi]] in the season the herds move, and the crown is on its circuit.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gomarga uses [[lore-vdyrnbnkng|the Vedyaran banking system]], administered through the Merchant Collective. It is an inland kingdom with no frontier of its own, so foreign coin reaches it only after passing a Vedyari frontier first—weighed rather than counted beyond the northern passes, assayed at the southern ports—and by the time it is on the plateau it is Vedyaran coin, or it is metal. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] for the institution.
 
@@ -121,13 +121,13 @@ Gomarga uses [[lore-vdyrnbnkng|the Vedyaran banking system]], administered throu
 
 A person placed outside the tarona, by transgression or by birth, is, on the plateau, denied the wells before anything else is denied him.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The old well or a new one.** [[being-gmtkryn|Gamuti Karyona]] speaks for the lineage that filled [[place-shunyakupa|the Empty Well]], and it means to clear the well. She asks the party to carry the lineage's question to the moving court and bring back the crown's answer in writing before the stones come out: is it a new well, or the old one still owed the guarantee the crown failed?
 - **Twenty nights.** [[being-blknsrtn|Balakin Saratin]] has watched the dead droveway for twenty nights and found where his beasts went into the dark. Gamuti asks the party to watch with him and to tell her what he has not.
 - **A factor at the winter wells.** The Merchant Collective has wanted a factor at the winter wells for a century. A Collective house asks the party to carry its newest offer to the **Rojni**'s standing camp and to learn, from the brokers who sell plateau cattle at the edge, what the crown would take for it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vandyabhumi|Vandyabhumi]]
 : the plateau the kingdom holds

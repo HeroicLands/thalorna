@@ -18,13 +18,13 @@ data:
   notes: "The holy city of the Holy Kingdom of Nartun, about sixty thousand people on a long wooded height: the Holy Mother's hall at the summit, the king's hall on the terrace beneath it, twelve temples with their schools and treasuries, and walls held by the Order of the Sacred Flame."
 ---
 
-## Overview
+## Overview {#overview}
 
 Nartun is a city built up a hill with its gods at the top and its king below them. About sixty thousand people live in it, which makes it among the largest cities of the region, and it is the holy city of the [[place-nartumkngdm|Nartun Kingdom]] and the seat of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], the independent Vilari-speaking realm ruled under its priestly aristocracy. The Holy Mother, the high priestess who anoints the kingdom's kings, has her seat here, and so does the king. It is the city whose high priesthood withdrew from imperial obedience about 224 AF ([[lore-nartumrefuse|Nartun Refuses the Empire]]).
 
 A priest-noble's secretary, meeting a newly arrived scholar at the gate, gives him one piece of advice before anything else: "Do not ask which clerk handles the temple's business and which the crown's. Here the same men answer for both, and the question tells everyone you are a foreigner before you have found your lodging."
 
-## Arriving
+## Arriving {#arriving}
 
 The imperial road climbs to Nartun from the Hilen border at [[place-ashenmere|Ashenmere]], five days' carting through forest, and it is the only paved road in the kingdom. In its last miles it is lined with pilgrims' hostels, wayside shrines and the stalls of candle-sellers, and it comes out of the trees at the foot of a long wooded height with the city laid over it.
 
@@ -52,7 +52,7 @@ The city belongs to the temples and the crown together. The Holy Mother and the 
 
 The holy city waits on a judgment. The lower city says the high priesthood will sit in judgment on the king, [[being-klvrsdrns|Kelvaras Daronis]], before winter, and [[being-vrthlszrkms|Varthelas Zerkemis]] of Sélmoros is counting votes for it. The Holy Mother, [[being-ilvnssrkls|Ilvenas Sarkelis]], sits in the Mother's Hall above the king's, and the city reads every audience she gives as a sign. The Master of the Order of the Sacred Flame, [[being-sldrsplvrn|Saldoros Pelvaren]], holds the gates and answers to her. At the House of Scales a run of imperial Ardin has come up the road a twentieth light, and the Keeper wants to know where it is clipped.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Pilgrims lodge in the temples' hostels along the holy road and inside the lower city, which are cheap, clean and strict: no weapons past the gate of the temple quarter, no meat on fast days, and the doors shut at the evening rite. Merchants and carters lodge at the inns on the market square, where the best is the [Charcoal Wagon]{.name data-type="place/structure"}, kept by a family of carters with kin in Ashenmere. Its innkeeper can say which temple's business is going badly, which baron is behind with his rent, and which knights drink in his back room.
 
@@ -68,7 +68,7 @@ Every king since has been anointed and crowned in the Mother's Hall at the summi
 - **The light silver.** The House of Scales finds that a run of imperial Ardin coming up the road weighs light by a twentieth. The Keeper of the Scales wants to know who is clipping the coin, and whether it is happening north or south of the border stream.
 - **The pilgrim's escort.** A devout widow from Hilen wants to be escorted up the holy road to the Mother's Hall to ask the Holy Mother's blessing on a marriage her family has forbidden. Her family has sent riders after her.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nartumkngdm|Nartun Kingdom]]
 : the land the city rules

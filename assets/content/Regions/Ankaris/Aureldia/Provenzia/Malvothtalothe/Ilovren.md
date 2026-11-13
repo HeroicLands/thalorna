@@ -17,7 +17,7 @@ data:
   notes: "A lordship of Keravel Vale and the fortified seat of Kilan Ilovrel, a calculating lord who offers the Marshal his help against the vale's bandits and has an eye on his neighbors' land."
 ---
 
-## Overview
+## Overview {#overview}
 
 Ilovren is a lordship of [[place-ceravelvale|Keravel Vale]] and the seat of **[[being-kilanilvrl|Kilan Ilovrel na Ilovren]]**, a calculating noble with a fortified stronghold and ambitions that reach well past his own borders. To the rest of the vale he is a local lord like any other.
 
@@ -38,7 +38,7 @@ Kilan is a secret devotee of [[affiliation-blackflame|the Black Flame]]. The gro
 - **The grove at the new moon.** A letter from the outlaws' cave names a meeting in the grove near Ilovren ([[scenario-webdeceit|The Web of Deceit]]).
 - **The late patrol.** An archer of Kilan's household asks a party to ride the Belsaren road on a night she knows the patrol will be sent late.
 
-## See Also
+## See Also {#see-also}
 
 [[scenario-bldshscrvlvl|Blood and Ashes in Keravel Vale]]
 : the campaign that sets the lordship in its vale

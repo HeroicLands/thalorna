@@ -18,7 +18,7 @@ data:
   notes: "The provincial capital of Salkalon and the busiest harbor left to the empire: a city of quays, warehouses and shipping houses whose eastern trade pays Taruzelian dues, whose Taruzelian and Helionite factors live by yearly waiver, and whose merchants share the province with an appointed therkos."
 ---
 
-## Overview
+## Overview {#overview}
 
 Delalara is the busiest commercial harbor still under imperial control. With about fifty thousand people it is the largest city of [[affiliation-provincvld|Salkalon]] and its provincial capital, the trading face the province shows to the sea.
 
@@ -87,7 +87,7 @@ A party with business in the Eastern Quarter can lodge there, at a Taruzelian lo
 - **The hidden dock.** The slaver [Devorin]{.name data-type="being/npc"} works from a dock somewhere along the mile of quays that no harbor-master admits to. A sailor's child has gone missing from the waterfront, and her mother has heard that a party took his money last month.
 - **The petition.** Ornetha Venthelis is sending the houses' petition for a trade treaty to Orzara by a trusted hand rather than by the post, because last year's reached the Senate a month late and opened. She hires a party to carry it, and the admirals' men at the Orzara Gate know the party's faces by morning.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provincvld|Province of Salkalon]]
 : parent province

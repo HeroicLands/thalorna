@@ -22,7 +22,7 @@ The temple counts her its most gifted healer, and supplies and trains her. She c
 
 The danger the temple fears most is to the source itself. If the summit waters were ever poisoned, the temple's healing would fade with them, and someone would have to go up the mountain again to face whatever had fouled them.
 
-## See Also
+## See Also {#see-also}
 
 [[being-brldsldsnsblsng|Brildselda Sun-Blessed]]
 : the temple's most gifted healer

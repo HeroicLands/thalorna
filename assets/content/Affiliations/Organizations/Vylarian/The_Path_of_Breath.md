@@ -36,7 +36,7 @@ data:
 
 A swordsman who wants the dragonfly does not apply for it. He fights. When a master of the Path of Breath has crossed blades with him often enough to be sure, she writes to the other living masters, and each of them comes to fight him in turn. If all of them agree, the last to fight him sets the tattoo on his neck herself, and from that day he is counted among them.
 
-## Overview
+## Overview {#overview}
 
 **The Path of Breath** is a sacred martial order of the [[affiliation-vylarinmpr|Vilérian Empire]]. It admits only the most accomplished swordsmen, and its members are the masters of the sword discipline of the same name, the [[skill-pthbrth|Path of Breath]]. There are three living masters, among them [[being-krmdnsbrkrtys|Koremdanis Barkratis]] of [[place-salkhalon|Salkalon]], the foremost swordmaster in the Empire.
 
@@ -60,7 +60,7 @@ The masters do not claim to have founded the Path. The oldest manuals they study
 
 The order wants the forms kept whole and taught only to swordsmen fit for them, and it is at peace with itself and with the Thordimalon. The three living masters weigh every candidate together, and many of the swordsmen they weigh come from the fencing academy of [[being-krmdnsbrkrtys|Koremdanis Barkratis]] in [[place-salkhalon|Salkalon]], which the children of the Empire's most powerful families attend and whose students often become bodyguards and protectors. In a year when every great house counts the cost of a succession, a swordsman with the forms is worth a great deal to a household, and a master who sells the forms is cast out by the others.
 
-## See Also
+## See Also {#see-also}
 
 [[skill-pthbrth|Path of Breath]]
 : the discipline its members have mastered, and its five maneuvers

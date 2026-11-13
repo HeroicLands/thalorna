@@ -17,7 +17,7 @@ data:
   notes: "The forge town on the flank of a smoking mountain in Ish'bal Tsa'ku, whose smith kin make the steel the warriors of the south carry and the obsidian the priests cut with."
 ---
 
-## Overview
+## Overview {#overview}
 
 Every forge in Ne' Ki'ahkul is lit from the fire on the temple of [[lore-kayikchalixdty|K'ayik Ch'alish]], and a smith whose forge goes out does not relight it from a neighbor's. He walks up the temple stair with a covered jar, pays the fire-keepers, and carries the coal down again. Ne' Ki'ahkul is the forge town of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]: about 12,000 people on the steep flank of a mountain that smokes, where the heat of the ground warms the workshops and the valleys below run with black glass. Its smiths make the steel blades and breastplates that the warriors of the south carry, and its stoneworkers cut the obsidian that the priests of every city use.
 
@@ -43,7 +43,7 @@ The town's labor turn is paid in metal and stone, not in field work. Each kin gr
 
 The obsidian cutters of Ne' Ki'ahkul make mirrors as well as blades. A good one is polished until a face in it is clearer than a face in still water, and the warriors of the south buy them, saying a mirror from Ne' Ki'ahkul shows a man his true face. The priests of [[place-ixkulchalix|Ishkul Ch'alish]] buy them by the dozen to set along the causeways of the sacred lake at dusk.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
 : the realm that holds the town

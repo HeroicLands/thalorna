@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 The walls are the first thing, because they are not broken. A wall of mud-brick twenty feet high runs round a town of perhaps three hundred houses, with a gate that stands open and a gatehouse with its roof on. The lanes inside are swept by the wind and nothing else. On the market square the stalls are up: poles, awnings, a weighing-beam hanging from its hook. It looks like a town that has stepped out for the afternoon, and it has looked like that for a very long time.
 
@@ -41,13 +41,13 @@ The hunters come into that, the [[being-yiqnotud|Yiqnotud]] of the steppe tribes
 
 Everything. The counting-house on the square has a barred door and a stone vault below, and the vault was not opened. The shops stand stocked: brass lamps, bolts of cloth, sealed jars. The Kenodur take nothing from the walls, because nothing they take has ever stayed theirs. The dead lie where they fell, in the square, in rows under a thin cover of drifted sand.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The vault.** The counting-house vault held the fair's deposits: silver in bags, with a clerk's tally sealed in wax. A Tellumi house in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] believes it holds the dowry of a daughter and wants the tally, not the silver. The vault door has not been tried since the sack.
 - **The well's owner.** A rival tribe has offered a party a share of the Kenodur's tolls if it can draw the town's water from inside the walls, by day, and carry the proof out. The Kenodur's right to charge rests on nobody having done it.
 - **The market day.** The riders of the spur say that on the fair's anniversary the stalls in the square are heard, faintly, haggling, from outside the gate. A priest of one of the faiths that lost people in the fair wants to hold a market there with a priest from each of the others, and thinks that a day of every rite performed at once might hold the silence back. The Kenodur want to know what it costs them.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-bloodfield|Blood-fields]]
 : what the silence is, and why a thin field kills

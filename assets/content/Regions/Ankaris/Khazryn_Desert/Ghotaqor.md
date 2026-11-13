@@ -35,19 +35,19 @@ The bands answer to nobody and take no part in the road, and their furs go south
 
 The fur trade is the forest's one tie to the south, and this season it is fraying. A fur trader of [[place-qisomrktcmp|Qiiso]] who went north two summers ago has not come back, and his backers do not know whether he is dead or has found something. A band on the coast has begun to bring ivory and worked amber to the summer trade, more than any seal-hunter could have found, and it will not say where they come from. Each winter the men of the [[affiliation-ghtkrtrb|Ghotakur]], from the steppe side of the forest's edge, go north through the forest to mend a wall there, and last winter three of them did not come home.
 
-## Dangers
+## Dangers {#dangers}
 
 The cold is the first. The wolves and the great forest cats are the second, and the ground itself is the third. Travelers from the south underestimate how far a loaded sled can go in a day, and how many days a bog can hold a thaw.
 
 The hunters speak of places they avoid: a ridge where the stone has been cut into walls and passages no band of theirs made, a hollow in the forest where the snow does not lie. Some travelers call the walls halls of the [[lore-khazariclt|Khazari]]. The bands say only that the cut stone was there before them and that no one comes back from the passages the same.
 
-## Hooks
+## Hooks {#hooks}
 
 - A scholar in Velanthia pays well for a map of the cut ridge, and the only person who has seen it is a deer hunter's widow who will guide no one.
 - A fur trader from Qiiso has not returned from the north in two summers, and his backers want to know whether he is dead or has found something.
 - A band on the coast has begun to bring ivory and worked amber to trade that no seal-hunter could have found, and will not say where it comes from.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region
@@ -63,3 +63,5 @@ The hunters speak of places they avoid: a ridge where the stone has been cut int
 
 [[scenario-vllysfrstfrst|The Valleys at First Frost]]
 : the forest-edge valleys when the wall-keepers go north
+
+[[place-nrthnhlds|Old Holds of the Northern Taiga]]

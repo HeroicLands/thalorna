@@ -27,7 +27,7 @@ The village holds the head-gate itself, and has held it since before the dissolu
 
 The gate-house is walled, and the wall is the one piece of fortification in the janpoda. About 525 AF a kingdom up the river took the village and held the gate shut through a planting season, until [[affiliation-chendrapur|Chendrapur]]'s money and a hired company put it out, and the sabhra walled the gate-house the same year and signed the protection the janpoda lives under ([[lore-rjprprotct|Rajepur Under Protection]]). The headmen of the three days still sit with their backs to that wall.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

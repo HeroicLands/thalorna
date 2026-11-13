@@ -18,13 +18,13 @@ data:
   notes: "Selat capital of Iaqet-Leqa."
 ---
 
-## Overview
+## Overview {#overview}
 
 **Iaqet-Leqa** (about 9,900 people) is the capital of [[affiliation-selatiaqetlq|the Selat of Iaqet-Leqa]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a garrison town of wells and quarry-roads.
 
 The chief temple is the odd thing about it. A temple servant explains to a visitor who asks why a town of dry stone keeps the house of a river-beast's god: "[[lore-chelsurdty|Chelsur]] is the god of the eastern marsh, and of the wells out here, and of the gorge where the upper river pinches down to nothing. Wherever the water is worth fighting over, he is." Around the temple stand the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]]
 : Parent selat

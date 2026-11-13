@@ -24,7 +24,7 @@ What a graduate takes away, besides the bow, is the academy's mark on the grip a
 
 The High Draw holds the senior of the four reserved academy seats on the sabhra, which the other three dispute at intervals and have never carried. Its master sits with the other three at every formal session and speaks first on military questions by a convention nobody has written down.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bowfort|The Bow-Fort]] · [[place-danurkot|Danurkot]]
 - [[place-swifthand|The Academy of the Swift Hand]] · [[place-patienteye|the Academy of the Patient Eye]] · [[place-hiddenstring|the Academy of the Hidden String]]

@@ -17,13 +17,13 @@ data:
   notes: "A pilgrimage town of the Salkalon coast below a shrine of Brazemas on the height above the sea, where sailors climb to make and keep their vows, the coast keeps its storm vigil each spring, and the admirals want the shrine's tower for a signal station."
 ---
 
-## Overview
+## Overview {#overview}
 
 A shrine above the sea draws the faithful to Kurzalora, the altar height, a coastal pilgrimage town of about three thousand in [[place-salkhalon|Salkalon]]. It is quieter than the fishing towns and far quieter than the great ports, and it lives on the pilgrim trade: lodging-houses, votive-sellers, and the offerings left at the shrine.
 
 A pilgrim who has made the walk up from the coast road to the shrine tells a first-timer to go in the morning, when the lodging-houses are still quiet and the climb is cool, and to buy the votive from the sellers at the top of the town rather than the bottom. The sellers at the bottom, she says, know exactly who is tired.
 
-## Arriving
+## Arriving {#arriving}
 
 The coast road passes below the town at the foot of a steep green hill that ends in a cliff over the sea, and from the road the shrine is a white tower on the summit against the sky. The town climbs the landward slope in a single street of steps, with lodging-houses on either side, their doors painted with the god's lightning, and every few steps a votive-seller's stall hung with little ships, oars and anchors of tin, wood and wax. The climb takes an hour for a pilgrim and half that for the boys who carry water to the top.
 
@@ -37,7 +37,7 @@ The town's great night is the [Thunderhead Vigil]{.name data-type="lore/gatherin
 
 The shrine keeps one right of its own. A man who climbs to the altar and vows himself to the god's service is the god's for a year and a day, as an acolyte of the shrine, and no master, magistrate or officer may take him from the height while the year lasts. An old Orzas granted the right to the shrine, and the grant is cut on the altar stone.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Kurzalora is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors), most of them keepers of lodging-houses. The town governs the street and the shrine governs the height. The shrine is kept by a Priest of Storms of the Faith of Brazemas, [[being-yalzemakaldr|Yalzema Kaldremis]], a sailor's daughter of fifty who read the storms for the fleet at Kastamar before she was given the shrine, with a dozen acolytes under her.
 
@@ -47,7 +47,7 @@ The tower is the quarrel. The admiralty at [[place-castamar|Kastamar]] wants the
 
 The admirals want the Vigil Tower, and the Priest of Storms will not give it. The admiralty at [[place-castamar|Kastamar]] has asked three times in five years for the tower as a signal station, and Yalzema Kaldremis has refused each time because the god's vigil is kept from its top. Now a party of marines and a surveyor has come to measure it with a letter of leave from the _therkos_, and Yalzema doubts that he ever signed it. A merchant captain who promised the god a silver ship in a gale has sent tin, and his crew will not sail with him.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Every house on the street is a lodging-house, and a party has its choice of them outside the vigil. The [Tin Ship]{.name data-type="place/structure"}, at the top of the steps, is the best and dearest, and its windows look over the sea. The houses at the bottom are cheaper and their keepers sell votives too, at the prices the pilgrim warns of. A party that climbs to make a vow is offered bread and water at the shrine and a place to sleep in the lee of the court wall, for nothing.
 
@@ -57,7 +57,7 @@ Every house on the street is a lodging-house, and a party has its choice of them
 - **The plank with no name.** A carved plank has been left on the altar with no house's name on it, cut with a ship's name that no house in Delalara owns. The shrine wants to know whose loss it is before it burns it.
 - **The vow unkept.** A merchant captain promised the god a silver ship in a gale and has come home and sent tin. His crew believe the next storm is his, and will not sail with him until a party gets the silver to the height.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provincvld|Province of Salkalon]]
 : parent province

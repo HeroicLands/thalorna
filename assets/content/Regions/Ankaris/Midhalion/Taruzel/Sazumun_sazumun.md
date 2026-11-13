@@ -83,7 +83,7 @@ Sazumun's guilds keep their order, and the black board at the foot of the House 
 
 Sazumun's people are a polyglot mixture of Taruzeli merchants, Dunhari traders, Ashaian priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the Aureldian gods standing near shrines of the Ashaian ones, and the merchant councils recognize both as legitimate paths.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Taruzelian currency]], issued under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vilérian ones—Solden, Ardin and Bit—on Taruzelian reserves rather than the Vilérian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vilérian standard. The Merazuni's moneylenders carry the banking; Vilérian script goes unhonored on Sazumun's quays, as Taruzelian script does in Vilérian territory.
 
@@ -96,7 +96,7 @@ Sazumun's name is the toll's, and the city has always lived by what passes its q
 - **The guard's record.** [[being-pzsnkhdzm|Pazasan Khidizum]]'s record of the cargoes that left the Hitusuni warehouses untaxed has gone from his lodgings, and he wants a party to find it before whoever has it decides what to do with it.
 - **The keel timber.** [[being-zttyblnn|Zattuya Balinuni]] wants to know who is buying the Alz keel timber before she marks a single tree.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sazumun2|Sazumun]]
 : the city itself

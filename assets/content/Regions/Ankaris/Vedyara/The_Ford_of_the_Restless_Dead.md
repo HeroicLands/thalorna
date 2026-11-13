@@ -32,13 +32,13 @@ So the upper river keeps its rules. Nobody crosses after sunset. A drover who mu
 
 [[affiliation-thresholdkeepers|The Threshold-keepers]] do not come. The dead here are a war's, and nothing on the field may be asked of them.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The fire will not catch.** The rendezvous year comes round and the common fire will not light on the east bank either. Either the half-settlement is failing, or someone has done something to the ground, and the sect wants to know which before the next twelve years begin.
 - **The king's fire.** A Rajapuri scholar wants a party to carry a lamp lit at [[place-sandstonealtr|the sandstone altar]] across the west bank by night, to test whether the kings' own fire will take where the dead are the kings' victims.
 - **The drowned man.** A trader drowned at the ford last season, and his heirs want the Threshold-keepers to ask him where the money went. The keepers refuse twice over: the question is one of trade, and the ground is a war's.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-unburnford|The Unburned Ford]] · [[lore-kindlford|the Kindling at the Ford]]—the slaughter and the fire
 - [[affiliation-agmipantra|Agmi-pantra]]—the sect that keeps the east bank

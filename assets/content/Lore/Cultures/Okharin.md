@@ -191,7 +191,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the treatment of the person who declines the Flame. The Okharik faith is professed, and what is professed can be professed otherwise, but the city-states do not allow it: the Vuthraka priesthood treats refusal of the Flame as touching the defense of Okharis, and the practical difference between heresy and treason has never been drawn with any care. The person who takes up a foreign god is not leaving the zohira, who were never a matter of profession, but the cities answer as if he had left the realm. It is done, and it is rarely done twice.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-okharis|Okharis]]
 : the realm and its three cities

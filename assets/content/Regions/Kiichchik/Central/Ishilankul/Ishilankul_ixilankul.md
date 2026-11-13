@@ -88,7 +88,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: the governance takes the shape of a Mexica city-state laid out in Teotihuacan's four quarters and craft wards: the Ts'enmah is chosen by a council as the tlatoani was, the Ch'ikalmah is the cihuacoatl, the wards are the calpolli with their houses of youths, the Ch'imelbal are the calpixque, the Ch'eshmah are the pochteca elders and the Q'emulmah is the huey tlatoani; no title is a Mexica word
 ---
 
-## Overview
+## Overview {#overview}
 
 Ish'ilankul (the Seat of the Stars) is the paramount realm of civilization on the [[place-kiichchik|Kì'ìch'chik Continent]]—the beating heart from which all other regions draw their spiritual and political authority. The land it holds is [[place-ixilankulrgn|Ish'ilankul Region]].
 
@@ -106,7 +106,7 @@ The [[affiliation-itzanpnthn|Itsani priesthood]] maintains strict hierarchical c
 
 Ish'ilankul is also the hub of the [[affiliation-chumishlan|Ch'um Ish'lan]], the great relay network of Ch'umbal runners that binds Kì'ìch'chik civilization together. The Ch'um Ish'lan is administered entirely by the Itsani priesthood—not by any Ts'enmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order, and no secular lord may command, delay, or interfere with a runner on the Speaking Road. [[place-kultaqan|Kul'taq'an]] houses the central dispatch, where k'otsel (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the Ch'alish Tq'an's inner circle. No Ts'enmah—not even the most powerful Sun Lord in Ish'ilankul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ish'lan way-stations within Ish'ilankul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the Ch'alish Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kankul|K'ankul]]
 : The limestone lowlands to the east, tributary to Ish'ilankul's religious authority
@@ -125,3 +125,5 @@ Ish'ilankul is also the hub of the [[affiliation-chumishlan|Ch'um Ish'lan]], the
 
 [[place-ixilankulrgn|Ish'ilankul Region]]
 : The land Ish'ilankul holds
+
+[[affiliation-takingsocs|The Taking Societies]]

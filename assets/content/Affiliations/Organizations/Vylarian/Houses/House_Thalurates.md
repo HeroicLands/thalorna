@@ -48,7 +48,7 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 A protocol officer of the Inner City, walking a new envoy past the gates of the Palace District, names the houses as they pass: "That is a kingdom's embassy, that is a banking league's, and that one, with the bronze gates and no metal on the livery, is Thalurates. They are not an embassy. They bought the address because an embassy stood on it, and they want you to make the same mistake you nearly made."
 
@@ -72,7 +72,7 @@ House Thalurates wants a hand in the succession and the throne in its debt. Its 
 - **The [Conservative Faction]{.name data-type="affiliation"}**, which holds that the Offices belong to freedmen and clerks and the Senate to the old houses, and that a house which keeps the seal should not also keep a vote.
 - **The Khelathi factor**, [[being-mthszrtml|Methisi Azeret'Mulu]], who has begun buying the same houses' debts with Khelathi silver, at better prices.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The address.** A minor kingdom's envoy arrives at the Thalurates gate believing it is a shared embassy compound, and the house's steward lets him in. A party is hired by his own legation to find out what he signed before anyone told him where he was.
 - **Ilthere's price.** Ilthere offers Kalestratos aid in exchange for the loyalty she wants, and asks a party to carry the offer, in writing, to [[place-velysara|Velisara]].
@@ -81,7 +81,7 @@ House Thalurates wants a hand in the succession and the throne in its debt. Its 
 **For the GM:** The house's factors hold two debts that would ruin two houses. One is a note against the temple stipends of House Varkalenis, which the house means to forgive when the Varkalenis heir marries a Thalurates daughter. The other is the creditors' sale of House Zarkedis: a Thalurates factor bought the Zarkedis house in Soraks, and the Zarkedis masks are still in its cupboard. Ilthere means them to be the price she names to Kalestratos.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-imperialoffices|Imperial Offices]]
 : the bureaucracy the house serves

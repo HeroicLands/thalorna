@@ -15,7 +15,7 @@ data:
   packFolder: provenzia
 ---
 
-## Overview
+## Overview {#overview}
 
 Atavel is a county of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] in the western basins of the [[place-talothe|Talote]], below the mountains and behind the frontier, with some two hundred thousand people. Its count, [[being-velzoreaitv|Velzore Aitevis]], is Chancellor of the realm and a politically embattled man. He fights on two fronts at once: inside his own family, where his brother disputes the inheritance, and at court, where he is the Earl of [[place-degavel|Degavel]]'s great rival.
 
@@ -40,7 +40,7 @@ The count is losing ground at home while he holds it at court. His kin dispute t
 
 [[being-kingvelarikiii|Vélarik III]] gave the great seal to Velzore Aitevis in 704 AF, and from then the rivalry between Atavel and Degavel took the shape it has in the Council now ([[lore-velarikreign|The Reign of Vélarik III]]). Velzore's father divided the county by his will, and the quarrel between his sons began at his death.
 
-## See Also
+## See Also {#see-also}
 
 [[place-atavelcstl|Atavel Castle]]
 : the count's seat

@@ -35,7 +35,7 @@ Ask a janpoda's **Dutsa** (envoy) how old his republic is, and he will give you 
 
 That is the janpodas speaking of themselves, and it is a claim no record bears out or refutes. The subcontinent's year-count, [[lore-mdstncnt|the Madustan count]], begins in 480 BF; the oldest institutions with an age attached, [[lore-hghlndfndn|the Highland Foundations]], are reckoned fifteen centuries old by their own temples; and nothing written reaches back the further fifteen centuries to the first sabhra. Nobody can say where the first janpoda stood.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-janpdsvdyr|Janpodas of Vedyara]]—the confederation of the form's heirs
 - [[lore-hghlndfndn|The Highland Foundations]]—the oldest janpoda institutions that carry a date

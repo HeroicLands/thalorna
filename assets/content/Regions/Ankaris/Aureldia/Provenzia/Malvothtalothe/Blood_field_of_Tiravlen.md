@@ -46,6 +46,6 @@ Visitors who insist on watching from the shore are not prevented. They are simpl
 
 The observance is in question for the first time in living memory. A fisherman's son watched from the water last year instead of keeping the night indoors, and he has not come back to himself. The village nearest the field wants him through this year's night in the old way, with the household around the fire and the offering at the water in the morning. Outsiders want other things: a priest of Sélmoros wants to perform the rite of settlement at last, and a Tanevar man from the hills wants to hear what the boy says when the lights come out over the water. See [[scenario-ghststrvln|The Ghosts of Tiravlen]].
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-tiravellake|Lake Tiravel]] · [[lore-tiravlenbattle|Tiravlen]]

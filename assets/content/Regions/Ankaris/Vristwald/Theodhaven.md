@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [edriwald], population: 0, packFolder: 
 
 No Varokh village uses the landing. Varokh boat crews cut across it, and the [[affiliation-alndnwrdns|Wardens]] turn them back.
 
-## See Also
+## See Also {#see-also}
 
 [[place-edriwald|Edriwald]]
 : the reach the bay lies in

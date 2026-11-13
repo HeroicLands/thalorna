@@ -72,14 +72,14 @@ The word was the offense. Anyone who said _hunger_ was put to death for saying i
 
 The valley paid in the two currencies it counts. The first was lives: the poor of the capital and the basin villages, buried without names. The second was the Measure's authority. The reading is proclaimed as a festival because the whole empire plans its year by it, and a reading known to be false for years made every later one a number to be checked.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The gravest crime a Khelathi can name.** Falsifying the Measure is among the gravest crimes a Khelathi can name, and the law treats it so.
 - **The famine pits.** They lie under the warrens of Gar-Qethar, built over by the poor who came after.
 - **The dole as statecraft.** A Gar-Au who holds the granaries holds the city's peace, and the houses since keep the dole running in a lean year.
 - **The rising.** The granaries were taken from the guard by force ([[lore-sealedgran|the Battle of the Sealed Granaries]]), and the judgment followed ([[lore-judgfalseuq|the Judgment of the False Uqa'a]]).
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-akhstruckhs|The Struck House]]—the age it belongs to
 - [[lore-sealedgran|The Battle of the Sealed Granaries]] · [[lore-judgfalseuq|the Judgment of the False Uqa'a]]—what the famine ended in

@@ -69,7 +69,7 @@ The households that own the boats and the pits have sat together on the southern
 - **The apprentice.** A Sazumun buyer offers a party the price of a good horse to find a young hideworker willing to go to Hitusel and learn the old way from [[being-dpmnjkdn|Dapuman Jakuduni]].
 - **The channel sold.** The council wants to know who in the village showed a Sazumun boat the way round the reef, and will pay a stranger to ask the questions a neighbor cannot.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hitusel|Hitusel]]
 : the village the council governs

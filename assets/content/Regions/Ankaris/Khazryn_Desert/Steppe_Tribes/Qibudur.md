@@ -94,12 +94,12 @@ The Qibudur raid in a dry year and trade in a wet one. In a dry year their trade
 
 Bulach held through the drought that dried the [[affiliation-ksrrtrb|Koserur]] seasonal water, and the Qibudur came out of that year with their herds whole and nearly a third of the Koserur horses added to them.
 
-## Hooks
+## Hooks {#hooks}
 
 - Kodujibun Qibudur offers a party Qibudur horses on credit, a string of the best on the grass. The debt is a service he will name later, at a time he will choose, and no silver settles it.
 - The Qibudur want the Kenodur's tolls at Qiimod. They will pay a share of them to a party that draws the town's water from inside the walls, by day, and carries the proof out, and they have not said what they mean to do with the proof.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

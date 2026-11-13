@@ -40,7 +40,7 @@ The Delta worships [[lore-thubaidty|Thuba'i]], god of prosperity and pleasure, w
 
 The delta population is the most mixed in the empire. Skin runs lighter on average than in the upper valley, from tawny and olive through brown to the deep brown of families with long upriver roots. Hair is more often dark brown than black, eyes more often brown or hazel, and a coast-reared complexion carries the sun in it. Builds are medium and rounded by good eating. Dress follows the valley's linen but takes foreign cloth, dyed wools and imported jewelry readily.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]
 : the parent culture

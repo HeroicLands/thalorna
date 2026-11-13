@@ -14,7 +14,7 @@ data:
   government: kingdmtrgd
 ---
 
-## Overview
+## Overview {#overview}
 
 Nobody crosses the east alone, neither the Targudians nor the [[lore-grukarfolk|Grukar]] beyond them, and a fur-buyer from the south learns it from the first trapper he hires.
 
@@ -24,7 +24,7 @@ Targud is the land of the [[affiliation-kingdmtrgd|Kingdom of Targud]], the east
 
 The kingdom's eastern border is a contested no-man's-land of burned farmsteads, abandoned watchtowers and forests where neither Nordmen nor Grukar can safely travel alone. West of it, the forts that hold the line pass their duty from one district to the next, by the order King [Skruldmil II]{.name data-type="being/npc"} gave in 613 after his hirv died holding a ford for the farms behind it ([[lore-burningeast|The Burning of the East]]), and the people behind them are hunters, trappers and fur-traders. [[place-tvalgard|Tvalgard]], the seat, stands on the last defensible ridge before the burned ground.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmtrgd|Kingdom of Targud]]
 : the kingdom that holds this land
@@ -34,3 +34,11 @@ The kingdom's eastern border is a contested no-man's-land of burned farmsteads, 
 
 [[place-tvalgard|Tvalgard]]
 : the seat
+
+[[place-driskborg|Draskborg]]
+
+[[place-dvilgvatan|Dvilgvatan]]
+
+[[place-dvulgvangur|Dvulgvangur]]
+
+[[place-nulthgard|Nulthgard]]

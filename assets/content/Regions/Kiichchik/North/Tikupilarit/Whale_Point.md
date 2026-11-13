@@ -18,7 +18,7 @@ data:
   notes: "Whale Point: the whaling village at the northern tip of the Ice Coast, of houses roofed with whale bone, whose skin boat crews hunt the great whales and go east along the ice."
 ---
 
-## Overview
+## Overview {#overview}
 
 Imlak Kagaq, Whale Point, stands on a long gravel spit at the northern tip of the [[place-tikumanikrgn|Ice Coast]], where the land turns east along the northern ocean. About 450 people live in it, in sod houses framed with whale jaws and ribs, around two men's houses, the only village on the coast with more than one. A row of whale skulls lines the beach, one for every whale the village has taken in living memory, and the cemetery behind the village is fenced with jawbones.
 
@@ -34,7 +34,7 @@ Whale Point is where the East People came from. Its crews have followed the whal
 
 The descendants of the two children [Kilnaqivi]{.name data-type="being/npc"}, Star Giving Drink, brought back from the east sleep in the other men's house. They do not dance Imlakaklu's mask, and at the Asking their men's house is silent while the other one sings it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tikupilarit|Tikupilarit]]
 : the Ice-Edge People and their villages

@@ -15,7 +15,7 @@ data:
   government: selatnlghztn
 ---
 
-## Overview
+## Overview {#overview}
 
 "Stand on the dike at the height of the flood and try to find a field," a survey scribe tells a clerk on his first spring in the basin. "You cannot. The water has taken every boundary stone in the selat, and when it falls you and I will walk every line again, cord in hand, and enter each one as if it had never been in doubt."
 
@@ -37,7 +37,7 @@ Grain is the whole foundation: wheat above all, then barley and millet, grown on
 - The temple of [[affiliation-qearet|Qe'aret]] and the survey-and-assize courts that measure the land
 - The canal, dike and basin-irrigation works that govern the flood
 
-## Settlements
+## Settlements {#settlements}
 
 Anlagh-Zetun (~80,000)
 : the selat capital and seat of the Halzi'a: an inland city of granaries, grain-markets and survey-courts, set among the richest wheatland in the empire.
@@ -48,7 +48,7 @@ Amqelu-Legez (~25,000)
 The basin villages
 : the dense farm-country holds scores of grain-villages, many of 500 to 3,000 people, each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a. Among them are [[place-garzekhemu2|Gar-Zekhemu]] (160), [[place-lutmulu|Lut-Mulu]], [[place-yaththawu|Yath-Thawu]], [[place-zmarelepet|Zma-Relepet]] and [[place-garanpuqa|Gar-Anpuqa]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]
 : the selat that holds this land

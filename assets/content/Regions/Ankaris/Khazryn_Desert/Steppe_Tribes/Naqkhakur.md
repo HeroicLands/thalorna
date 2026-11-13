@@ -78,12 +78,12 @@ The Chuyelur raids make it worse. A Chuyelur warband that rides under the gather
 
 The Naqkhakur tell no tale of the year they first sowed. The hard tribes say the Vilérian forts on the margin taught them, when the [[affiliation-vylarinmpr|Vilérian Empire]] held a handful of outposts on the grass, and the Naqkhakur say the clay pans did.
 
-## Hooks
+## Hooks {#hooks}
 
 - Vilaqlun wants an escort for the barley she means to offer the gathering man, and wants it to reach his riders before a Chuyelur warband reaches the barley.
 - A girl the Chuyelur took last spring has sent word by a caravan rider that she wants to come home, and her new husband's kin have sent the bride-price twice.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

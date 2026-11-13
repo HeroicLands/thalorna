@@ -15,7 +15,7 @@ data:
   government: selatgrnlght
 ---
 
-## Overview
+## Overview {#overview}
 
 "The first thing to learn is that the port is only the mouth," says a net-boat ferryman, backing his pole off a mudbank in the gray before sunrise. "Behind it, the water goes on for a day's poling in every direction, and most of what the city eats and drinks and loads comes through channels you cannot see from the quay."
 
@@ -27,7 +27,7 @@ If the delta is the empire's purse, Gar-Anlaghet is the mouth of it. The selat i
 
 Outward from the port go grain, papyrus, linen, gold and the empire's artisan work. Inward come timber, metals, spices, wine and the luxury goods of the [[place-midhalnrgn|Midhalión Region]]. Beyond the quays, the marshes yield fish, fowl, salt and papyrus, and the selat's share of the garden coast grows wine and oil for export. West along the garden strip lie the villas of the merchant-princes, and the [[affiliation-garhalzi|Gar-Hálzi]] banking-houses and bonded warehouses of the waterfront keep the accounts of all of it.
 
-## Settlements
+## Settlements {#settlements}
 
 Gar-Anlaghet (~120,000)
 : the selat capital and the empire's first port: the great harbor, the foreign quarters, the customs-house, and the counting-houses of the richest merchants in the realm.
@@ -38,7 +38,7 @@ Gar-Anlaghet (~120,000)
 The channel villages
 : a scatter of small fishing and ferry communities of 500–2,000 thread the marsh-channels around the port, among them [[place-chauthamegit|Chautha-Megit]], [[place-garirezu|Gar-Irezu]], [Zma-Belgen]{.name data-type="place/settlement"} and [[place-gadjuzechi|Gadju-Zechi]], living by their boats, their nets and the custom of the great city.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]
 : The selat that holds this land

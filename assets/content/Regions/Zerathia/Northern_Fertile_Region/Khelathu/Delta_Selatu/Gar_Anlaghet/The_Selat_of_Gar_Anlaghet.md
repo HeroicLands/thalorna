@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Selat of Gar-Anlaghet is the first of [[affiliation-deltaselatu|the Delta Selatu]] and the richest province in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: the chief port, its window on the [[place-vylarianse|Vilérian Sea]], and the place where the wealth of the whole empire meets the wealth of the wider world. Its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) is reckoned the wealthiest noble in the realm outside the royal house, and governs less like a provincial lord than like a merchant-prince and diplomat. The factors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], the [[affiliation-zebequzut|Zebeku'Zut]] houses and the [[lore-garauu|Gar-Au]]'s customs men all keep time to the rhythm of that harbor. The land the selat holds is [[place-garanlghtslt|Gar-Anlaghet Selat]].
 
@@ -75,11 +75,11 @@ The selat takes its cut of everything that passes: harbor-fees, customs, warehou
 
 Gar-Anlaghet is the empire's commercial nerve, and it plays like a great trading port anywhere: customs and smuggling, brokerage and fraud, foreign agents and merchant feuds, and constant friction between [[lore-khelathiclt|Khelathi]] customs men and Taruzelian factors who both want the trade on their own terms. The Halzi'a balances profit against the Gar-Au's suspicion that the delta is one bad harvest from selling out the empire. Adventures here are mercantile intrigue, dockside crime, insurance and cargo swindles, the theft and recovery of bonded goods, foreign espionage in the cosmopolitan quarters, and the dangerous question of who really controls the harbor-fees. Money, foreign goods and information are abundant. Grain, loyalty and any transaction without a cut taken somewhere are scarce.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gar-Anlaghet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], but its harbor is the one place in the empire where foreign coin circulates freely and openly, weighed and discounted against the gezan standard by the Gar-Hálzi money-changers of the waterfront. The selat's banking-houses do the empire's heaviest letter-of-credit and foreign-exchange business. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

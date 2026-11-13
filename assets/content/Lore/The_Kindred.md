@@ -105,7 +105,7 @@ That said, the boundary is not absolute. Certain very old Kindred—the stone-wa
 
 Outsiders—travelers, traders, [[affiliation-ordoarcanis|Arcane Order]] agents—do not have pacts with the Kindred and cannot form them. What outsiders can do is refrain from transgression: not desecrating a sacred site, not hunting what they have not been permitted to hunt, not disturbing what they have been warned not to disturb. Most Áelendan tribes are willing to extend this minimum reciprocity to respectful visitors. Those who transgress discover, sometimes slowly and sometimes quickly, that the Kindred take offense, and that the [[affiliation-alndnwrdns|Wardens]] exist to prevent transgressions that the Kindred themselves would punish more harshly.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-firstgods|The First Gods]]
 : The pantheon, including the Bright and Dark Powers the Kindred serve

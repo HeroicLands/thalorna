@@ -60,7 +60,7 @@ sohl: {system: {commonSkills: [shuqashlng]}}
 # terran_analog: the Chumash above all, with the Yokuts, Salinan and Miwok of the valleys and foothills; the Canoe Kin is the Brotherhood of the Tomol, the astronomer-priests are the 'alchuklash of the 'antap society, Bead Island is Santa Cruz Island, and the Measure stands for the custom of measuring olivella strands around the hand
 ---
 
-## Overview
+## Overview {#overview}
 
 The Shuqash are the Shell-Bead People, the people of the golden western coast, about 350,000 in some sixty towns on the beaches and islands of the [[place-shuqhalaqrgn|Bead Coast]] and in hundreds of villages in the [[place-tulishlumuqrgn|Oak Valleys]] behind the coastal mountains. They take their name from the shell bead (_shuq_), the drilled disk of shell that is their money and the only true money in the north. Their ways are set out in the [[lore-shuqashclt|Shuqash]] culture note, and their tongue is the [[skill-shuqashlng|Shuqash Language]].
 
@@ -108,7 +108,7 @@ The Cedar People are the coast's best customers and its worst danger. Their trad
 
 The Turquoise People court the coast for its beads and its shell. Their traders, who come over the mountains in summer, press the chiefs to join the [[affiliation-redstncmpct|Red Stone Compact]], because pipe kin of the compact owe each other safe passage and the Cedar People sit in it. The chiefs have not joined. The compact would ask them for warriors against the south, and the Northern Strand costs them less than warriors. The Cedar People, who would lose both the Strand and the slaves, say nothing about it in the Turquoise People's hearing.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-shuqashclt|Shuqash]]
 : the culture: what the Shell-Bead People believe and what they owe

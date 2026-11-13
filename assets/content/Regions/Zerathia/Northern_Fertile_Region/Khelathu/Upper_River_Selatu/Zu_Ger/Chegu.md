@@ -18,11 +18,11 @@ data:
   notes: "Selat capital of Zu-Ger."
 ---
 
-## Overview
+## Overview {#overview}
 
 Chegu is the capital of an ancient royal selat. It is the seat of the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of [[affiliation-selatzuger|the Selat of Zu-Ger]], "the Great Land," and about 9,900 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]], the scribal bureau that keeps the tax rolls and the markets that serve the surrounding villages. The old burial-ground of the first dynasties lies beyond the cultivated land, and the temple of Hezmu'iri keeps watch over it ([[place-firsttablets|the Ground of the First Tablets]]).
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatzuger|The Selat of Zu-Ger]]
 : Parent selat

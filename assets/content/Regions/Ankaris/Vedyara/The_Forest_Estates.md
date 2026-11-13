@@ -114,7 +114,7 @@ The orthodox temples of the plains hold that a country without a sabhra is a cou
 
 The Devabhona's reply is that the forest was given to the gods before the [[affiliation-janpdsvdyr|Mahva-Sangra]] kept a roll at all, that an endowment cannot be revoked by a body the endowment predates, and that the plains are welcome to send a sabhra into the forest and see how far it gets. Nobody has sent one.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Bharava-Devabhona uses [[lore-vdyrnbnkng|the Vedyaran banking system]], administered through the Merchant Collective, and uses it at arm's length. Its tribute is rendered in goods to a temple and not in coin to a treasury, and the coin enters only where the estates sell, at the coastal end of the river, where a Khelathi buyer's metal is assayed and discounted like anyone else's. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] for the institution.
 
@@ -122,13 +122,13 @@ The Bharava-Devabhona uses [[lore-vdyrnbnkng|the Vedyaran banking system]], admi
 
 A person placed outside the tarona, by transgression or by birth, is barred from the estate's temple, its stores and its licenses.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A road the god has opened.** A chapter of the [[affiliation-agmipantra|Agmi-pantra]] means to cross [[being-bhrjvrmdbd|Bhrijivara Madibada]]'s estates in the dry season, with leave or without it, to burn [[place-sorhupur|the City That Kept Its Dead]]. Bhrijivara asks the party to meet the chapter on the pilgrim road and turn it back, in a forest with no army.
 - **Price by pilgrim.** The doorkeeper of the free hostel nearest the quay at [[place-bharavamukha|Bharavamukha]] has noticed pilgrims carrying word upriver for a buyer's coin. He asks the party to walk the hostel road and learn whose word it is, since the god's charity feeds the pilgrim and not the price.
 - **One tree.** [[being-tanavarnashu|Tanavarna Shuravan]] marked one tree in an old stand of hardwood forty years ago for the last thing he means to make, and Bhrijivara has refused every license for that stand. Tanavarna asks the party to get him the one tree, by the keeper's leave and not otherwise.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-hghlndfndn|The Highland Foundations]]
 : the first forest gift, dated

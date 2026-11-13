@@ -54,7 +54,7 @@ About 270 the two hosts met on the long slope where the plateau comes down to th
 
 The slope became [[place-gajastal|Gajastal]], the elephant ground, the second _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]]. It is the shallowest of the three.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The field.** Gajastal is a recurrence: in the first storms of the monsoon, drums sound along the slope at dusk and elephants trumpet for miles. No elephant will set foot on it at any season.
 - **The river.** Purnatir never recovered its strength. Within a generation its villages had passed to janpodas, and those janpodas still share one circuit-speaker at the [Mahva-Melka]{.name data-type="lore/gathering"} by habit, which is all that remains of the kingdom.
@@ -62,7 +62,7 @@ The slope became [[place-gajastal|Gajastal]], the elephant ground, the second _s
 - **[[lore-thirdcmpct|The Compact]].** [[affiliation-mrchntclctvvdyr|The Merchant Collective]] counts its third generation of Shreshthins from the year after the field, and the law they worked toward became the Third Compact.
 - **The ban.** About 280 the kings of the age forbade the [[affiliation-agmipantra|Agmi-pantra]] to burn the field, and the sect went anyway ([[lore-agmipartng|the Three Partings]]).
 
-## See Also
+## See Also {#see-also}
 
 - [[place-gajastal|Gajastal]]—the elephant ground
 - [[lore-wellbrk1|The First Breaking of the Well Bargain]]—how the war was paid for

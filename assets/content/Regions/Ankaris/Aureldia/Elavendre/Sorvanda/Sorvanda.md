@@ -106,6 +106,6 @@ Above the tree line in the Spine lie the sealed adits of [[place-kngscut|the wor
 - **The missing guard.** A guard of an Order survey is lost on [[place-wndrngrdg|the Wandering Ridge]], and his scholar pays well to have him found.
 - **The bark at Péravel.** A strip of bark from [[place-wkngstnd|the Waking Stand]] lies green in a chapterhouse collection, and a Warden of the Silver Forests wants the name of the man who cut it.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-elavendre|Élavendre]] · [[affiliation-aelndntrbs|Áelendan Tribes]]

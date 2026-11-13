@@ -32,13 +32,13 @@ A lowlander who learned the road would be worth killing, and an Osket who sold i
 
 The [[place-shunydvar|Shunyadvar]] stands on the col, and every Osket crossing walks through the opening in it. None of them will say why. [[place-pssshrines|The Pass-Shrines]]' refusal to bless this road is older than any of the four reasons currently given for it, and the reasons change.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A fourth offer.** [[being-krvlydbr|Krivalaya Adibar]] has three times offered the Osket guide who once took him over this road a year's caravan profit to take a load of bows over it in the closed months. He asks the party to carry a fourth offer up to [[place-tsokhar|Tsokhar]] and bring back the answer by mouth, since the drover who carried the third will not repeat it.
 - **Which guide.** A shrine-ushtaka of the [[place-pssshrines|Pass-Shrines]] has been asking in the yards at [[place-suryagarha|Suryagarha]] which guide took a Danurkot merchant over the road the shrines do not bless. He asks the party to find out for him. The Osket deal with a guide who sells this road themselves.
 - **Hooded, and paid in gold.** A Shikhalayan clan-warden, whose crown holds that this road does not exist, needs a sealed packet beyond the wall in the closed months. He asks the party to go over with it, hooded and holding the cord, paid in advance and in gold, and to say afterward that they went by [[place-suryadvar|Suryadvar]].
 
-## See Also
+## See Also {#see-also}
 
 - [[place-meghadvar|Meghadvar]] · [[place-suryadvar|Suryadvar]] · [[place-shunydvar|Shunyadvar]]
 - [[affiliation-osketguides|The Osket]] · [[place-sthrnwall|the Southern Wall]]

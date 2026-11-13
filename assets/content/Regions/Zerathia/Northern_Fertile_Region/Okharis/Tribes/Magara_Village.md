@@ -17,7 +17,7 @@ data:
   notes: "Seat of the warlike Magara tribe and its horse herds, on the open plains of Okharis."
 ---
 
-## Overview
+## Overview {#overview}
 
 Magara Village is the seat of the [[affiliation-magaratrb|Magara tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

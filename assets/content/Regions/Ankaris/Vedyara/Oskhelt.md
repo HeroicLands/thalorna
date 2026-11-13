@@ -32,7 +32,7 @@ For the other ten months there is no market at all, the smiths are shoeing beast
 
 Anyone who reaches a door in Oskhelt is fed and housed from the common store, and that includes people the village would much rather not have. The hearth-warden whose house it is asks for no payment and makes no exception; the rule is the same one the Osket keep on every col.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-suryadvar|Suryadvar]] · [[affiliation-osketguides|the Osket]] · [[place-tsokhar|Tsokhar]]
 - [[place-graznmntns|The Grazian Mountains]] · [[place-suryagarha|Suryagarha]]

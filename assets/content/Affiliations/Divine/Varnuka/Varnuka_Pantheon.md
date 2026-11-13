@@ -258,7 +258,7 @@ Pronunciation
 Local Worship
 : Honored at crossroads and trade routes.
 
-## See Also
+## See Also {#see-also}
 
 **Deities, principal gods:**
 
@@ -311,3 +311,9 @@ Local Worship
 : the Assembly of the Dream-Followers: mystical and contemplative, oneiromancers and visionary counselors
 
 **Regions:** [[place-vedyarargn|Vedyara Region]]
+
+[[affiliation-passshrineushtakas|The Pass-Shrine Ushtakas]]
+
+[[affiliation-ganokashalda|The Reckoners' College]]
+
+[[affiliation-thresholdkeepers|The Threshold-keepers]]

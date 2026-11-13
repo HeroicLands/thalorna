@@ -17,7 +17,7 @@ He stands outside the [[affiliation-khelathpnthn|Khelathi Pantheon]] and overlap
 
 The road patronage was attached to the fertility cult because the caravan routes begin at his desert-edge shrines. His priests teach that a caravan is a seed carried out and a harvest brought home, and so the two halves of the cult are one rite.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-pelgun|Faith of Pelgun]]
 : the cult and its offices

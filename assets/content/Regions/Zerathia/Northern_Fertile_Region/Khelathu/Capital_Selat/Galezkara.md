@@ -18,7 +18,7 @@ data:
   notes: "Imperial City (Capital)"
 ---
 
-## Overview
+## Overview {#overview}
 
 **Galezkara** is built on one straight line. The living city on the east bank, the god's island in the river and the city of the dead on the western desert are strung along the path of the sun, and at midsummer dawn the sun rises exactly down the road that joins them. It is the imperial city of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]—seat of the [[lore-garauu|Gar-Au]], capital of [[affiliation-capitalselat|the Capital Selat]], and by far the largest city in the empire, with some 450,000 people.
 
@@ -177,7 +177,7 @@ The Meglai and the Zeglar's courts
 The tomb-robbing underworld
 : organized plunder of the dead, the black market in grave goods, and the hunted cults
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]
 : the province around the city

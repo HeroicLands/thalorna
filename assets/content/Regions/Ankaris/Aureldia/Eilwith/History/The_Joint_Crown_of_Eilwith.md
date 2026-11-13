@@ -78,7 +78,7 @@ The crown was held by a Senali king, and the kingdom was governed by both people
 
 The subjects were [[lore-vardain|the Vardain]], the farmers the Khazari had long kept at their gates, with the small parties of [[lore-pelwarpepl|Pelwar]] who came over later and were accepted. The crown gave them one law across the island, and the Khazari, who had always depended on their farmers' goodwill, found that it suited them.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Crown Roads.** Stretches of fitted-stone road run across Eilwìth's interior and highlands where no later road runs, and one of them goes straight to Seirasto's edge and stops. They are described under [[place-eilwith|Eilwìth]].
 - **Footings under three towns.** Cut stone nobody has dated lies beneath the oldest quarters of [[place-veldareth|Veldareth]] and two other towns, and one cellar in Veldareth has a door cut in the footing that does not open.
@@ -87,7 +87,7 @@ The subjects were [[lore-vardain|the Vardain]], the farmers the Khazari had long
 
 The joint kingdom ended in [[lore-threesistrs|the Battle of the Three Sisters]], and what followed from the end of the war is told in [[lore-endgreatwar|the Ending of the Great War]]. No capital of the crown has been found.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-threesistrs|The Battle of the Three Sisters]]
 : how the crown ended

@@ -46,7 +46,7 @@ katru lampu, pachgroha ro jalpu,/
 
 Once a year, at the [Day of the Dissolution]{.name data-type="lore/gathering"}, the recitation is given in the temple precinct and not here. The Rajapuri position is that the cellars are not a monument and are not to be treated as one.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-rajepur|Rajepur]] · [[place-rajepurjnpd|Rajepur Janpoda]]
 - [[place-rajavalilib|The Rajavali Library]]—the record the demolition did not touch

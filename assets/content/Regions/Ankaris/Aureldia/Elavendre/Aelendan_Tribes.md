@@ -104,7 +104,7 @@ The [Sáthandi]{.name data-type="affiliation/polity"}
 
 [[affiliation-mtslvrfrsts|The Moot of the Silver Forests]] is the gathering of the shamen of the three tribes whose ground meets the forest, the Dhárgandi, the Tírindi and the Thanandi. It advises the elders on what the wood asks and binds none of the tribes.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Within the tribal communities, substantial commerce runs on [[lore-kinhalcrdt|kin credit]]: value extended between members of an extended family against the security of the relationship, repaid in time, and held in memory and custom rather than in writing or coin. An Áelendan who trades in the Élavendren cities can deal with the guilds chartered under [[affiliation-tevran|the Tevran Maldor]] and the moneylenders of [[affiliation-danvar|the Danvar]], but credit earned there does not carry into the tribal economy, where the relationship is what counts. See [[lore-kinhalcrdt|Kin and Hall Credit]] for the system.
 

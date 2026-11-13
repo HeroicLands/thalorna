@@ -27,7 +27,7 @@ The Court grants standing to judges who ride far beyond the town, and it traces 
 
 The name is a plain statement of what the town is for: _log-_ is the law as it is recited, and _-thul_ is a seat where the law is recited.
 
-## See Also
+## See Also {#see-also}
 
 [[being-knlthnlwgvr|Knalthann Lawgiver]]
 : the judge of the great trial

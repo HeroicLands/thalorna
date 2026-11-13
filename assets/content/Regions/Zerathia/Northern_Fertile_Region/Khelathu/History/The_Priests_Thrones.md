@@ -34,7 +34,7 @@ The age closes in 2580 ST (470 AF) when [Meqes I]{.name data-type="being/npc"} o
 
 The age leaves three things on the ground. [[place-chariotfld|The Chariot Field]] at [[place-khelaga|Khelaga]] is the third blood-field in Khelathi memory and the only thin one. The forts of Khuqet-Miglet hold the eastern wells. A short foreign Way at [[place-zugezer|Zu-Gezer]] holds two tombs and bare ground.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhstruckhs|The Struck House]] · [[lore-akhhsmeqes|the House of Meqes]]
 : the ages on either side

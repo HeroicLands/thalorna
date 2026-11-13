@@ -47,13 +47,13 @@ Rajepur could muster perhaps a thousand cultivators and artisans, and they were 
 
 The sabhra signed a formal protection with the city in the same year. Chendrapur answers for Rajepur's defense. Rajepur pays in grain from the common stores and in the work of its copyists, who keep the city's charters and correspondence in the library's hand. The arrangement has been renewed by every sabhra since.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The walled head-gate.** Khandapur's gate-house was walled after the season, and the village has kept the gate and its wall since.
 - **The patron.** Rajepur's first answer to any threat is an appeal to Chendrapur; its second is the [[affiliation-janpdsvdyr|Mahva-Sangra's disapproval]]; its third is the floodplain in the wet season.
 - **The scholar.** Chendrapur's patronage is the reason [Shemapal Rajapali]{.name data-type="being/npc"}, a Rajapuri who argues for further dissolutions, writes his letters from the city, and the reason the city declines to expel him.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-rajeprjnpd|Rajepur Janpoda]] · [[affiliation-chendrapur|Chendrapur]]
 - [[place-khandapur|Khandapur]]—the head-gate village

@@ -18,7 +18,7 @@ data:
   notes: "The sacred midstream island at the heart of Galezkara—held to be the primeval mound where creation began, walled in white limestone, and bearing the two poles of imperial power: the Great Temple of Uqa'a and the palace of the Gar-Au, with the great flood-gauge called the Measure."
 ---
 
-## Overview
+## Overview {#overview}
 
 "You are looking at the only wall in [[place-galezkara|Galezkara]]," a sergeant of the royal guard tells a petitioner at the foot of the [Bridge of the Coming-Forth]{.name data-type="place/structure"}. "Everything inside it is spoken for."
 
@@ -52,7 +52,7 @@ Yath-Telgu is the only fortified place in Galezkara. Its white limestone wall ri
 
 Yath-Telgu is the stage for the empire's highest play and its most controlled space. Run it as the place where access _is_ power: to be admitted is to matter, to be barred is to be nothing, and the whole drama of the court turns on who may pass which gate. The intrigues here are those of throne and temple—succession and regency, the favor of the Gar-Au, the quiet war between the sovereign and the Thaz'Lekhau of Uqa'a who can unmake him, the reading of the Measure and the fortunes that ride on it. It is a hard place to reach uninvited—the wall, the royal guard, the watched bridges, the open water—and a dangerous one to be caught in unsanctioned. For a party, the island is more often a goal, a summons, or a heist than a haunt: an audience to be won, a secret to be carried out of the inner bureaus, a poisoned succession to be survived, or the king-lists and the Measure's true readings to be reached past the priesthood that guards them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The imperial city around it

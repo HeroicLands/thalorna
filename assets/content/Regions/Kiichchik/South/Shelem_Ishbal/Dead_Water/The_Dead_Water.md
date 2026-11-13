@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, pack
 # terran_analog: the Iberá wetlands and the lower Paraná with its delta.
 ---
 
-## Overview
+## Overview {#overview}
 
 The Dead Water, Ne' Ts'uqil, is the swamp country of [[place-xelemixbalrgn|Shelem Ish'bal Region]], spread over the lower courses of great rivers south of [[place-sickforest|the Sick Forest]] and running to the eastern sea. It is a flat world of reed beds, mud banks and slow brown channels, and there is more water in it than in the rest of the waste together. Not a cupful of it is safe to drink.
 
-## The Land
+## The Land {#the-land}
 
 The Dead Water has no dry ground a party can count on. The reed beds stand higher than a man and close over every channel, the mud banks that look solid take a man to the waist, and the floating mats of weed that look like meadows take him under. A party crosses it on rafts of reed, poling through the channels, or on foot along the few long ridges of sand that the returners' cords mark. The channels shift with every flood, and a ridge that held one season is a channel the next.
 
@@ -34,13 +34,13 @@ Very few accounts at the gate come from the Dead Water, because very few parties
 
 The Dead Water quarrels over what is carried out of it. The water of the Sweet Water tastes like rain and kills over weeks, and the priests of [[place-xelemchalix|Shelem Ch'alish]] pour out every jar of it they find on a returner. Some returners carry a jar out anyway, because a water nobody can taste in a cup sells in the north as a poison, and the buyers are not healers. The priests hold that the Sweet Water stays south of their wall. The buyers in the camps outside the gate pay a returner more for a sealed jar of it than for any crystal. The Drowned Pyramid is the other quarrel. Returners who have dived to its flooded doorways speak of something glinting on the floor of the first room, every backer of treasure-seekers wants their account, and the returners who give it come back yellow with fever.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A jar from the white shore.** A returner from the Dead Water came through the south gate with a sealed jar the priests did not find. A buyer in the camps has offered him more for it than for any crystal, and the gate priests want a party to find the jar before it reaches the flats.
 - **The starving lord.** A lord of [[place-tzalamne|Ts'alam Ne']] died thin and starved at his own table after a season of eating everything put before him, and his heir believes he was given the Sweet Water. The heir asks a party to trace the jar back up the road to whoever sold it at the gate.
 - **What glints.** A returner dived to the first drowned room of the Drowned Pyramid, saw something glinting on its floor and came back with the fever. A backer at [[place-qptlulneok|Q'aptel'ul Ne'ok]] wants whatever it is, and hires a party to take the returner back as its guide while he can still pole a raft.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xelemixbalrgn|Shelem Ish'bal Region]]
 : the waste

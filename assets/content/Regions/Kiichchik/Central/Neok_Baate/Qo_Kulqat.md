@@ -19,7 +19,7 @@ data:
 # terran_analog: Copan, its deep-relief stelae and its jade; the name joins q'o (two) to kul'qat (a sacred peak)
 ---
 
-## Overview
+## Overview {#overview}
 
 Coming up the valley through the maize fields, a traveler sees two pyramids long before the city, side by side on one platform, with the green wall of the jade mountains behind them. They look like a pair, but the right-hand one stands a hand's width higher, and the city has made that hand's width its pride. Q'o Kul'qat, the Twin Pyramid, is a city of about 35,000 people in a highland valley of [[place-neokbaatergn|Ne'ok Ba'ate Region]], one of the greatest city-states of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]] and the proudest of them, and it is known everywhere for two things: its carved stones, and its independence.
 
@@ -45,7 +45,7 @@ The great vein behind the city is nearly worked out. The miners have followed it
 
 A Ts'enmah rules the city by descent, and names his heir in a public rite while the heir is still a child. Q'o Kul'qat pays tribute to [[affiliation-ixilankul|Ish'ilankul]], in jade, on its own day and by its own envoy, and it admits no steward from any other city to count it. It makes its own wars and its own peace. Its chosen enemy is Kul'taq'an. In the war month the war-leaders of Kul'taq'an come down off the plateau to take captives in the city's fields, and the captive-takers of the second pyramid go up to take theirs, and each city tries to ransom its nobles from the other and is refused.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-housename|The House Name]]
 : the word-dance of Kul'taq'an about a noble of this city

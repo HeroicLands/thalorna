@@ -74,7 +74,7 @@ The hunting bands coming south into the [[place-tsitarargn|Pine Country]] answer
 
 The Pine People's speaker [[being-okwiahasterio|Okwiahasterio]] has let one such doctor build his lodge outside the village's palisade, and goes to hear him. The healers of the Grove call it witchcraft: a power answered in the dark, behind bark walls, where no one can see what is asked or given. Okwiahasterio answers that the doctor's lodge is the most public thing in the village, since everyone hears it shake. The question has gone to the great council, and the great council is still talking. It has grown harder this year, because the Dawn People have quietly asked whether a doctor in a closed lodge can see across the sea, and where four people taken over it might be.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-osetakonaclt|Osetakona]]
 : the culture of the Maple People, their dreams and their dead

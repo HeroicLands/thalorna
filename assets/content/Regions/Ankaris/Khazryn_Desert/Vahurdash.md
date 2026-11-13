@@ -17,7 +17,7 @@ data:
   notes: "The fifth of the seven Tellumi cities, given to the desert by an ancient drought and resettled within the last generation on the dry northern rim of Tellumel, where the streams give out."
 ---
 
-## Overview
+## Overview {#overview}
 
 **Vahurdash** is the fifth of the seven Tellumi cities and the poorest. It stands on the dry northern rim of [[place-swoasisbelt|Tellumel]], where the snowmelt streams of the belt fail one after another and [[place-dkrqrrgn|Diqraqor]], the Stone Uplands, begins, and about four thousand people live in the new town, with perhaps sixteen thousand more on the irrigated strips along its channels. A drought in the deep past emptied the old city, and it stayed empty for generations. In the last generation Tellumi families from the free oases and the subject quarters of the conquered cities came back to settle beside its stones. The old city, [[place-velkunar|Veshkun]], Old Vahurdash, lies round and under the new one, and the town's life is conducted with it in view.
 
@@ -46,7 +46,7 @@ The town holds on two wells and one channel, and in a dry year the channel stops
 - **The neighbors.** The herders' small oases lie close to the town's northern fields, and a settler who waters a goat at the wrong spring meets its owners. A Vahurdash elder wants someone to carry gifts to the nearest tribe before the next dispute turns into a feud.
 - **The edge of the sand.** North of the last field there is no road. The rim runs into broken ground and dry gullies, and the people of the town cross it only by day and in company.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the council of the seven houses

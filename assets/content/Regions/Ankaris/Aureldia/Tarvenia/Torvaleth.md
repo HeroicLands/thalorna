@@ -17,7 +17,7 @@ data:
   notes: "The red-brick capital of the Kingdom of Lyenrik, a market town at the ford of the Thalsira that holds the king's hall, the Court of Pleas, the cattle market of the lowlands and the greatest harvest fair in Tarvénia."
 ---
 
-## Overview
+## Overview {#overview}
 
 You smell Torvaleth before you see it. The road down the [Thalsira]{.name data-type="place/feature"} valley from [[place-ronetho|Ornetho]] runs between water meadows full of cattle, the pens outside the east gate hold a few thousand head on a market day, and the dung, the tannery smoke and the bawling reach the road long before the walls rise off the plain. Torvaleth is the capital of the [[affiliation-kingdmlnrk|Kingdom of Lyenrik]], a town of about 36,000 at the ford where the road from the mountains to the sea crosses the river, and it is the largest town in the [[place-tarvenirgn|Tarvénia Region]] away from the coast; only the port of [[place-valthari|Valthari]] is bigger.
 
@@ -63,7 +63,7 @@ The town's faith is the plain's. The temple of Lusinia stands at the ford beside
 
 The ford was a market before the legions came, where the herdsmen of the hills met the grain farmers of the plain, and it went on paying through the occupation while the Empire governed the march from [[place-ronetho|Ornetho]] ([[lore-lowlandstaken|The Lowlands Taken]]). When the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]), the lords of the lowlands chose a king of the house of Oltris, who set his hall on the rise above the ford, and the Court of Pleas has kept its rolls there from the kingdom's founding. The brick walls were raised after the occupation, and the town has since outgrown them along the river. From about 605 AF the kings and lords of Lyenrik have contested the High Kingship of Tarvénia, and Torvaleth has been the seat of that claim at every election since.
 
-## See Also
+## See Also {#see-also}
 
 [[place-leonrik|Lyenrik]]
 : the lowland country Torvaleth stands at the heart of

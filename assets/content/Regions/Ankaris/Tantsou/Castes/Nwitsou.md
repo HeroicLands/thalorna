@@ -64,7 +64,7 @@ Freedom does not end the mark. A freed slave is entered in his new caste with th
 
 The law offers no general road out. No court frees slaves in numbers, no reform has ever been attempted, and a child born to Nwitsou parents is Nwitsou before he draws breath. What breaks the chain in any one family is an owner's decision or a stroke of fortune, and the system is built so that neither comes often.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : rights and restrictions governing the Nwitsou

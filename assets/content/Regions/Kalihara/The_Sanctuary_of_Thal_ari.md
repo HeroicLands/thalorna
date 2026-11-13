@@ -16,7 +16,7 @@ data:
   notes: "The sanctuary on the western slopes of Kalihara's Ring, facing the sea, where the custodians who tend the works of the coast and the approaches are trained."
 ---
 
-## Overview
+## Overview {#overview}
 
 Thal-ari is the sanctuary of the [Ithakan]{.name data-type="affiliation/order"} on the western slopes of [[place-klhrring|the Ring]], facing the sea. It stands on the outer face below [[place-klhrwstsddl|the Western Saddle]], on a shelf above the road that climbs from the western coast. It trains the custodians whose charge is the coast and the sea: the inherited works that stand on the reefs and islets around [[place-klhrcntnnt|Kalihara]], near which the currents run wrong for anyone who does not know them. A custodian formed at Thal-ari spends his life on the shore and the reefs and seldom sees the Bowl.
 
@@ -32,7 +32,7 @@ Thal-ari looks west over the open ocean. Below it the slopes fall steeply to the
 
 From the western coast the climb to Thal-ari takes most of a day on the saddle road. From the Bowl it is the crossing of the Western Saddle and half a day down the outer face. No foreigner has visited Thal-ari, though ships that stray off the western coast can see its roofs from the sea.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrwstsddl|The Western Saddle]]
 : the pass above the sanctuary

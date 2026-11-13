@@ -19,7 +19,7 @@ data:
 # terran_analog: Teotihuacan as the pilgrimage city of the great pyramid and the quarters, and Cuzco as the hub of the runners' roads; the name joins kul- (a lord's seat) to a priestly element and copies no Maya or Nahuatl place
 ---
 
-## Overview
+## Overview {#overview}
 
 A pilgrim on the white road sees Kul'taq'an a day before he reaches it. On a cold morning a thread of white stands over the hills ahead, straight up from the summit of the [[place-tsultelchalish|Ts'ultel Ch'alish]], where the warm breath of a volcanic vent comes out of the greatest pyramid on the continent. Kul'taq'an, the Seat of the Priests, is a city of about 110,000 people in the high valleys of the [[place-ixilankulrgn|Ish'ilankul Region]], one of the city-states of [[affiliation-ixilankul|Ish'ilankul]]. It holds three things no other city has: [[place-tzomalchalix|The Sacred Foundation]] (Ts'omal Ch'alish), where the [[affiliation-itzanpnthn|Itsani Pantheon]] teaches that the creator first breathed the world into being; the seat of the Q'emul Tq'an, the supreme high priest; and the central dispatch of the [[affiliation-chumishlan|Ch'um Ish'lan]], the Speaking Road.
 
@@ -53,7 +53,7 @@ Kul'taq'an has its own Ts'enmah, chosen from its royal line by the four P'eshalm
 
 The present year is 4158 of the Fifth Age, Eleven Death, and the next [[lore-itsaniclndr#round|Living Flame]] falls at the winter solstice of 722. When the fire has been drawn, the Presiding Ch'alish Tq'an of every city come to Kul'taq'an, each carrying a coal of his own city's new fire in a covered jar, and choose the Q'emul Tq'an for the next fifty-two years. The **Keeper of the Conclave** is already sending to every city the cords reach, to learn whose hierarch will come and in what order they will speak. The Steward is raising new hostels on the lower slopes, and the wards are called out by turns to carry stone for them. Envoys of a dozen cities have taken houses near the plaza for the two years ahead, and in the evenings they visit one another.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tzomalchalix|Ts'omal Ch'alish]]
 : the Sacred Foundation at the heart of the city

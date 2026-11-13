@@ -66,7 +66,7 @@ The bar is enforced by the people it protects. [[lore-wohou|Wohou]] administrato
 
 A Shwonong is necessary and distrusted. The empire needs his barges, his warehouses and his loans, and it holds him below the farmer and the potter because his living comes from other people's work. A wealthy merchant dresses well, keeps retainers and eats better than a Wohou officer, and he still steps aside for a Tsaihwo craftsman in the street. Money buys him everything the Caste Laws do not reserve, and they reserve the things he wants most.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : rights and restrictions governing the Shwonong

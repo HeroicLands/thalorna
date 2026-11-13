@@ -95,7 +95,7 @@ About 520 the fleets came in off the gulf onto northern Provénzia. The hirvs th
 
 No Nordheim skald sings the henge. The fleets are sung as the answer to the hunger, the sons going south where the old had gone over the fell, and every kingdom's skalds leave the stones to another kingdom's hirv. The [[affiliation-skaldscrcl|Circle]] keeps the silence as a fact: the one deed of the Southern Fleets that the north will not claim is the one the south remembers.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The field.** Yarvalen is Provénzia's, made by northern hands, and the one blood-field in the world that the north owes to someone else.
 - **The silver.** Southern church plate in the royal howes of Knalthstead and Gnarthborg, with wardens in them, and a chip out of the saint's face.
@@ -104,7 +104,7 @@ No Nordheim skald sings the henge. The fleets are sung as the answer to the hung
 
 A Provénzian abbot's agent who knows which howe holds Ménavar's plate has a reason to hire a party that does not mind a howe-warden. A Nordheim jarl who learns that a stone from the henge lies in his great-grandfather's howe has a worse problem: the Black Flame knows it too, and returning it might matter.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-threewinters|The Three Winters]]
 : the hunger the fleets carried south

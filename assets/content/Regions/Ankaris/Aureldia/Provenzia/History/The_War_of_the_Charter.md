@@ -83,14 +83,14 @@ The _therkos_'s legion kept the great road and [[place-aureliane|Aurelane]]. It 
 
 The peace was a settlement, not a victory. The estates agreed to a king, so that the [[lore-chrtrrghts|Charter of Rights]] would have a holder, and chose one from among themselves: [Ilarven Lédravren]{.name data-type="being/npc"}, of the Korvatis [[affiliation-hseledravren|House **Lédravren**]], whose lands lay on the southern coast. The Charter of Rights bound the king to take counsel of a [[affiliation-councilpeers|Council of Peers]], to levy only by the estates' consent and to leave the cities their own law. The Empire recognized the Charter, and its chancery stopped sending _therkoi_ to the province; the terms were set down with the other realms that had left the Empire in [[lore-crownssettle|the Settlement of the Crowns]]. Nobody declared a kingdom, and the Provénzians do not date one. They date the Charter.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Charter of Rights and the Council of Peers.** The kingdom's constitution, and the long contest between the crown and the Council ([[affiliation-kngdmprvnz|The Kingdom of Provénzia]]).
 - **[[place-jalnazdal|Jalnasdal]] as the capital.** The court settles on the coast, and [[place-aureliane|Aurelane]] keeps the law and the learning ([[place-jalnazdal|Jalnasdal]]).
 - **The House of Lédravren.** The Charter's first king and his line, who hold the crown still.
 - **The Tanevar country's sense that the Charter was the cities'.** The country people keep the grievance in every generation.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmprvnz|The Kingdom of Provénzia]]
 : the realm the Charter made

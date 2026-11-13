@@ -45,6 +45,6 @@ outside world comes over these mountains on a pack-pony.
 
 The snow is still on both passes. When it goes, the jarls' men at the northern pass-heads and [[affiliation-kngdmldrth|Aldorath]]'s garrison out of [[place-caerwynd|Kaerwiind]] resume their skirmishing, and Aldorath's Warden, [[being-kenwaldhghd|Kenwald Highden]], has fewer men to send up than he had last year. The jarls' quarrel over the High Jarl's seat keeps them looking north, and the smugglers on both slopes are counting on it. Above the path that runs east from Sundergate's summit to the Vardain valleys, the [[lore-grukaraelwyth|Grukar]] of [[place-wolfgate|Wolfgate]] wait for the thaw and the first runaways from the plain.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-ironfells|the Ironfells]] · [[place-caerwynd|Kaerwiind]]

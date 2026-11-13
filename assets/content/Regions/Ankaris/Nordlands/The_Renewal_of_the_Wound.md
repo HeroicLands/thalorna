@@ -24,7 +24,7 @@ The hovs of the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] treat 
 
 Holafell also ties the rite to the famine of [[lore-threewinters|the Three Winters]]. In the account kept there, a predecessor failed to keep the wound open, and winter did not end until the next elder cut it again. That is Holafell's explanation of the famine and not an attested cause of it; the valley halls remember failed harvests, deaths and disputed acts without accepting the claim.
 
-## See Also
+## See Also {#see-also}
 
 [[place-holafell|Holafell]]
 : the oldest hov of Hrimthur, where the cut is made

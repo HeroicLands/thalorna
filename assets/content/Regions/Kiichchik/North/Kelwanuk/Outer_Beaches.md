@@ -17,7 +17,7 @@ data:
 # terran_analog: the outer coast of Washington and northern Oregon, from Cape Flattery to the Columbia mouth: Makah whaling villages such as Ozette, and the Chinookan towns at the mouth of the Columbia, the great slave and trade market of the coast
 ---
 
-## Overview
+## Overview {#overview}
 
 South of the inlets the coast turns its face to the open sea. The Outer Beaches (_tsawis yumis_, the seaward beaches) are the southern half of the [[place-kelwanukrgn|Kelwanuk Region]]: long sand beaches between rocky headlands, with the surf of the whole ocean breaking on them, and the broad mouth of the [South River]{.name data-type="place/feature"} at the southern end. About 80,000 [[affiliation-kelwanuk|Kelwanuk]] live here. This is the coast that hunts whales, the coast that receives the beads of the south, and since the [Northern Strand]{.name data-type="lore/custom"} began, the coast that grows richer every year.
 
@@ -46,7 +46,7 @@ Up the South River, the traders of the Outer Beaches go inland in summer to the 
 
 The Outer Beaches are where the slavery argument of the coast is loudest. The Orca House frees slaves at its feasts; the Bear House sells them at its beach. The two houses sit near each other in the order of seats, and the guests who eat at one in autumn eat at the other in winter. Neither chief speaks of the other's practice before guests.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kelwanukrgn|Kelwanuk Region]]
 : the whole coast of the Cedar People

@@ -25,7 +25,7 @@ The packs are confined, for now, to the country the earthquake broke. The Senali
 
 The court is divided. One party holds that the northwest is the Elder peoples' land and its troubles theirs to settle. The other has looked at a map and seen that the only things between the Chaizho and the rice basins are the Elder holds and a stretch of mountain no pack has yet tried to cross. The Emperor has taken the second view without announcing it, and small companies of imperial soldiers armed with Khazárian-forged weapons are already marching north to fight beside the Elders.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-dreadspawncrtr|Dreadspawn]]
 : the other made horror loose in the empire

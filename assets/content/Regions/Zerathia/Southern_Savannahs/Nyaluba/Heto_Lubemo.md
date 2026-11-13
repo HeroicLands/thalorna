@@ -14,7 +14,7 @@ data:
   packFolder: southernsavannahs
 ---
 
-## Overview
+## Overview {#overview}
 
 Heto Lubemo is an ancient stone enclosure in the southeastern highlands of the [[place-sthrnsvnhs|Southern Savannahs]], one of the great Old Hetos, and it is the meeting ground for the [Great Lubemo]{.name data-type="affiliation/governmental"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. The [Ngonzi]{.name data-type="affiliation/lineage"} clan maintains it. For most of the four years between gatherings it is quiet stone; every fourth dry season it is the political center of five clans.
 
@@ -26,7 +26,7 @@ The Great Lubemo is convened at Heto Lubemo by the [Ruwozi]{.name data-type="aff
 
 The order of business never changes: defense and any war begun since the last Lubemo; inter-clan disputes the paramounts could not settle; the state of the pastures, rivers and herds; questions of totemic law; and last, the renewal of the [Long Pact]{.name data-type="lore/law"}, conducted by the senior griots and witnessed by all. The renewal keeps the fourth term as [[lore-swearbaobab|The Swearing Under the Baobab]] counts it: [Fourth: the five come back in their own bodies/every fourth dry season, and say it again.]{.verse} The paramounts speak in turn, the Ruwozi last, and the Lubemo decides by their convergence, never by vote. A matter they cannot agree on waits four years for the next gathering. Outsiders who watch the sessions and see only ceremony are mistaken: the clans have argued everything out at home in the months before, and Heto Lubemo is where their decisions become commitments of the Pact.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the nation that convenes here

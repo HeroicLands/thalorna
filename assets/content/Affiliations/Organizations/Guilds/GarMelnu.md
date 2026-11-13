@@ -67,7 +67,7 @@ Charter
 Tevran Maldor status
 : Not a member; independent [[lore-khelathiclt|Khelathi]] institution. It keeps a per-trade credential equivalence agreement with the [[lore-vylarianclt|Vilérian]] Smiths' federation, negotiated through the [[affiliation-tevran|Tevran Maldor]], for routine work. Master-rank elevations do not transfer in either direction.
 
-## Overview
+## Overview {#overview}
 
 Every blade an imperial soldier carries, every scale on a temple guard's armor and every harpoon a [[affiliation-zeghetnelgu|Zeghet'Nelgu]] skiff throws at a crocodile in [[place-zumeleshrvr|the Zumelesh]] was made by a smith of **Gar'Melnu** or to its standards. The [[affiliation-empireakhlth|Khelathi empire]] is not primarily a military power: its armies are smaller and less expensively equipped than the **[[affiliation-vylarinmpr|Vilérian Empire]]**'s, and its frontier defenses lean on diplomacy and terrain more than on weight of arms. The guild is how the Gar-Au's lands are armed all the same.
 
@@ -139,7 +139,7 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 - **The Mine Dispute.** A temple of Gewa'atis claims, on documentary grounds and under an older grant, a copper mine the guild has worked under imperial charter for two centuries. The documents on both sides are plausible and the imperial court declines to rule. The mine supplies a third of the guild's working copper.
 - **The Foreign Commission.** A Vilérian merchant prince has privately offered Shezur Zin'Gatau any price for a complete suite of personal armor, provided the work is done outside guild oversight and the seals are omitted. The fee is enormous and the breach of the guild's rules is total. Shezur is considering it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garnul|Gar'Nul]]
 : The hunters' guild, sibling imperial chartered guild

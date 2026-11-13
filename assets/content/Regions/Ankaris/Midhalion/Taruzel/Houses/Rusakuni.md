@@ -97,7 +97,7 @@ When the League's captains learn that a Bizarian yard is building to Rusakuni li
 - **The coaster on the Amradi shore.** Abarash pays a party to cross the strait, look at the hull on the slip, and tell him whose drawing it was built from.
 - **The galley's fee.** Abarash hires a party to learn what the League's privileges are worth on the Painted Harbor before he takes them in place of coin.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-corsairleg|Corsair League]]
 : the guild the house is bound to

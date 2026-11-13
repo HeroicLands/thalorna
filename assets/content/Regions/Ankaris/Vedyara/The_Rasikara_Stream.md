@@ -20,7 +20,7 @@ The shrine keeps no other business. It has three priests, a hearth that is not a
 
 The stream's water is used for nothing else. It runs off the back slope into broken country and joins [[place-bharavarivr|the Bharava]] well below the janpoda, and the villages on that side take their water from wells.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-goldmountain|The Gold Mountain]] · [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 - [[affiliation-rasikara|Rasikara]]—the god of the burning

@@ -17,7 +17,7 @@ data:
   notes: "Deep Forest Settlement"
 ---
 
-## Overview
+## Overview {#overview}
 
 Dunkelwald sits inside [[place-vethwald|Vethwald]] (the Deepwood) itself, where the canopy is old and dense enough that sunlight barely reaches the forest floor even at midsummer, and four hundred people live by a different clock than the rest of [[place-vrystwald|Vristwald]] keeps—one set by the hunt and the hearth rather than by daylight that never properly arrives. The village is reckoned among the most traditional in the region, and the reputation is earned rather than merely claimed: rites that villages nearer the frontiers have let lapse are still kept here in full.
 
@@ -25,7 +25,7 @@ Dunkelwald sits inside [[place-vethwald|Vethwald]] (the Deepwood) itself, where 
 
 Dunkelwald's argument with the wider tribes is the oldest kind a conservative village has: younger Varokh who leave for a landing village's trade and a War Chief's warband are, in the elders' telling, choosing the easier road. What the elders say less readily is that Dunkelwald's own War Chief feels the loss first—a seat that has never been let grow past the Shaman's shadow holds less to offer an ambitious hunter than a hall where the War Chief's word actually carries, and the warband thins for it every generation. The village's standing answer—that the Deepwood's way has outlasted every easier one tried against it—has not persuaded a single one of them to come home.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vrystwldtrbs|Vristwald Tribes]]
 : The independent villages whose old ways this one keeps most closely

@@ -69,7 +69,7 @@ Individual worship centers on tending and nurturing—gardeners, farmers, and he
 
 The symbol of Lusinia—the spinning wheel encircled by vines—represents both the labor of creation and the interconnected growth of all life. Weavers and textile workers revere her, and many guilds of craftspeople maintain small shrines to the goddess, expressing their belief that all creation flows from her divine hand. Offerings to Lusinia are simple and organic: flowers, grain, honey, and fresh fruit placed upon her altars.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Lusinia is organized around the **Sirela**, the High Priestess or High Priest, typically a figure of great age and wisdom who has spent decades in service to the goddess and the natural world. Below the Sirela stands a council of **Sarnori**, ordained priests responsible for maintaining temples, performing rituals, and serving as healers and counselors to the faithful. Many Sarnori are accomplished herbalists or naturalists, and their knowledge of plants, agriculture, and healing is often as spiritually important as formal theology.
 

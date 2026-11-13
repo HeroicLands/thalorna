@@ -56,7 +56,7 @@ The guide who takes a visitor up to the palace quarter of [[place-vyalendra3|Vya
 
 How the line ended is the thing nobody says. The last king laid out a pleasure-house four streets from the hall, and when his line ended it passed to [[affiliation-twilighths|the Twilight House]] by a grant the House holds and shows to nobody. The House is traditionally dated to that same reign, and its principal house, [[place-sandyagrha|Sandyagriha]], is a royal foundation that outlived the court that founded it. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vyalendra2|Vyalendra]]
 : the city-state the Council governs

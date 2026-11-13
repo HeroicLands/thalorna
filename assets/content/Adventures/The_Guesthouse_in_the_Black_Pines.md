@@ -17,7 +17,7 @@ data:
 
 A party crossing the [[place-vandstein|Vandstein]] highlands by the old road takes shelter in a guesthouse built into an abandoned Vilérian post. Its keeper cuts the bridge behind every party his kin send him, and in the cellars beneath the post a renegade mage takes travelers apart and builds servants out of what is left. The largest of them speaks with the voices of the people it was made from. The frightened girl who carries the bowls tells the party all of this, and every word she says is true: she is the mage, and she has been wearing that girl for two summers.
 
-## Overview
+## Overview {#overview}
 
 North of the passes [[lore-legionsroad|the Legions' Road]] crosses a gorge on four Vilérian piers and climbs into the black pines of [[place-dunkelholt|Dunkelholt]], where a stone shell of an imperial post has been roofed again as a guesthouse. Its keeper, [Othric ira Vandwald wur Vandgrund]{.name data-type="being/npc"}, has a wife the Master below has kept alive after a bear mauled her, and he pays for that by sending travelers down the cellar stair. The Master is [Siremos]{.name data-type="being/npc"}, a Vilérian of the [[affiliation-ordoarcanis|Thordimalon]] whose house struck him from its rolls; [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) wants him dead for the arts he practices, and its file describes an old man. His servants are [[lore-golemcrtr|constructs]] of dead flesh, each held by a ring of signs cut into its skin, and the largest, the [Choir]{.name data-type="being/creature"}, hunts the near bank of the river at night. A thin young woman, [Sundrún ira Eichrúnd wur Erthhaven]{.name data-type="being/npc"}, serves at the keeper's table, and she is the party's best guide to all of it.
 
@@ -37,7 +37,7 @@ Sundrún tells the party most of this in Scene Two, and each thing she tells it 
 
 The sally passage the legions cut drops from a drain under the woodshed, runs beneath the cellars and comes out at the river. It is the second way into the Master's chamber, and the runoff that runs down it keeps the Choir out of it.
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 The full truth of the house—who Sundrún is, what sits by the brazier, what Othric's bargain buys, and what the Choir obeys—is in [[place-dunkelholt#truth|the truth of Dunkelholt]]. In short: Sundrún is Siremos, the old man in the cellar is his former body bound as a decoy, and every warning she gives is true, because a true warning herds a party toward the cellar better than a lie. This section covers what the truth does at the table: where the party can find it, how it lands on each route, and what the party wants once it knows.
 
@@ -88,14 +88,14 @@ Once the reveal lands, the party wants something it did not want before. The gir
 > [!TIP]
 > A party hired by the Sekran, or carrying a mage of the Arcane Order, is the party the decoy was made for. Any hook can carry a second commission: a _sekeros_ (inquirer) at the border garrison pays a small retainer for news of an old Vilérian mage on the northern road.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A [[place-moktur|Moktur]] factor's agent at the border garrison says a fur consignment worth a small fortune went north with a [[place-vandgrund|Vandgrund]] guide last autumn and never reached [[place-waldburg|Waldburg]]. Her house wants the furs or the proof they are gone, and will pay for either.
 - **The mercenary or common soldier.** A merchant party crossing to Waldburg hires the party as guards at Vandgrund, because [[affiliation-blckpnwlvs|the Blackpine Wolves]] work the road south of the gorge. The merchants have been told there is a good guesthouse on the way.
 - **The leader.** A Vandgrund elder who has counted the parties that never reached Waldburg wants someone from outside the kindred to walk the road and say what is on it, because the guides who send parties north are her own kin.
 - **The lone wanderer.** The guide, Arngar ira Skaldrith wur Thrastein, takes the job for less than it is worth. His brother [Arnric]{.name data-type="being/npc"} guided a fur party north on this road last autumn and did not come home, and Arngar does not mention it.
 
-## The Opening
+## The Opening {#opening}
 
 The party has crossed the gorge on the span and is climbing toward the pines when the span goes. Read or paraphrase:
 
@@ -318,7 +318,7 @@ He is the Master's former body, a construct with its ring of signs under the sti
 
 **If bypassed, failed or cut short.** A party that escaped by the river in Scene Four without the strongroom can come back by boat on a later day, through the sally passage, with the Master gone or upstairs; the strongroom key is on Othric's belt or Sundrún's, and Athalwen knows where both of them sleep.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the Choir was broken and the Master killed.** The road north of the passes is quiet, and the villages of Vandstein go on calling what hunted it a hrag. Arngar takes his brother's pack home to Thrastein. A young woman of Erthhaven is dead by the party's hand, and her kindred is owed an account: with the manuscripts and Arngar's word the party can give one, and without them her kin seek blood payment before their Other Chief.
 - **If the party killed only the old man.** The Sekran's file on Siremos closes, and a young woman with a lamp takes service at another roadhouse farther along another road. If the party took her south, she leaves it at Waldburg with thanks.
@@ -327,7 +327,7 @@ He is the Master's former body, a construct with its ring of signs under the sti
 - **If Othric went home.** The Vandgrund elders call a reckoning on the guides who sent parties north, and the families concerned are the same ones the War Chief fears to drive away.
 - **If the manuscripts went to the Sekran.** The Arcane Order pays well, and opens a file on the party. If the last working went with them, the Sekran's file on Siremos describes a young Varokh woman.
 
-## See Also
+## See Also {#see-also}
 
 [[place-dunkelholt|Dunkelholt]]
 : the post and the guesthouse

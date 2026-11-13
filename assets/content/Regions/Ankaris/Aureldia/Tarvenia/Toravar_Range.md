@@ -55,7 +55,7 @@ Roughly once a generation a stubborn baron meets an unyielding clan. The baron p
 
 The clans hold the high reaches, and no Tarvenan crown claims them. The barons below graze and log to the edge of the clans' ground, and the Wardens settle each quarrel with them one valley at a time. Every baron who pushes his herds or his loggers up into the high country risks a mountain-war, and the crown that settles one does it through Élavendri hands. In the western arm the passes are the March's road to the Summer War, and the Talote's walls at [[place-durvalis|Durvalis]] wait at the bottom of them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-alndntrblnds|Áelendan Tribal Lands]]
 : the Áelendan heartland and its diaspora

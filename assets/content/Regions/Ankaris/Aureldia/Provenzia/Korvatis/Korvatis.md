@@ -67,6 +67,6 @@ The earldom of [[place-degavel|Degavel]] lies in the Korvatis, and its earl, [[b
 
 The south is rich and nervous. The crown's treasurer has asked the coastal houses for a loan against the salt revenue, and every house from [[place-lizela|Lizela]] to [[place-valarencity|Válaren]] is weighing what an answer either way would cost it with the Council of Peers. At [[place-jalnazdal|Jalnasdal]] the Earl of Degavel leads the lords of the south against the Count of [[place-athavel|Atavel]], and neither has a majority. Válaren's merchant houses still lend short and keep their partners close, because the last blockade broke the trust that held them together. In the hills behind the coast, scholars and agents of the [[affiliation-ordoarcanis|Thordimalon]] outfit at [[place-palvothe|Palvote]] for the [[place-thuravelhills|Túravel Hills]], and the hill families answer their questions less helpfully every season.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-vylarianse|Vilérian Sea]]

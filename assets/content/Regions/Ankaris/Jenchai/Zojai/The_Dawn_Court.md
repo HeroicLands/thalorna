@@ -38,7 +38,7 @@ Lengwou lives on the court. Its 12,000 people are the Emperor's household and gu
 
 The Emperor's judges hear the town's cases, and a village of the district settles its own quarrels through its headman. Foreign ambassadors are received at Lengwou and go no farther, since the upper slope of Zojai is closed to them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-zojai|Zojai]]
 : the Emperor's mountain

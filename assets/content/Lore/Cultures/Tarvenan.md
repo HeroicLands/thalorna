@@ -194,7 +194,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The culture's other blind side runs through the household. Women manage property, hold contracts and run holdings through the long absences, but in the three kingdoms they do it through a husband's name while everybody knows who is actually deciding. In [[lore-fairverses|the Verses of the Thórgila Fair]] the Hail sings it to the Sling, as a man home from contract handing his wife the money: [Your name is on none of it, wife,/and your hand is on all. That's right.]{.verse} Thoughtful Tarvenans dispute whether a people so jealous of every claim on a free man's will can leave so much of its practice unwritten.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmtrvn|Kingdom of Tarvena]]
 : the largest of the three kingdoms

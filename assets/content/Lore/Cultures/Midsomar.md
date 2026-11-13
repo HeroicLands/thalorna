@@ -23,7 +23,7 @@ Three things make up the night, and the boy on the headland names them as a chil
 
 [[lore-jol|Jel]] keeps a lamp lit in every doorway against the longest dark. Midsomar has no dark to keep out, and the fires answer a light that is already there. Of the four great blets it is the one given most plainly to joy, and it is the one where Bjart is central instead of one god among several.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-jol|Jel]]
 : the twelve nights at the other end of the year

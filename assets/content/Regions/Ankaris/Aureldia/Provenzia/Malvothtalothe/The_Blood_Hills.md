@@ -53,7 +53,7 @@ The hills have more visitors than they want. The outlaws of Keravel Vale shelter
 - **The second vigil.** A Forge knight keeping the battle-night vigil is joined by something that keeps it with him. He asks for another knight to stand beside him.
 - **The maul.** Someone has found a way through the cave's traps without the blood the first gate demands.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-bloodhillsbtl|The Battle of the Blood Hills]]—the battle that made it
 - [[weapongear-gashangmaul|The Maul of Gashang]]—the relic the cave keeps, and [[scenario-maulgashng|the adventure at its shrine]]

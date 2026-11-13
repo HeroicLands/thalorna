@@ -19,7 +19,7 @@ data:
 # terran_analog: Uxmal and the Puuc cities, their raised platforms and rock-cut cisterns; the name opens on lishe (three)
 ---
 
-## Overview
+## Overview {#overview}
 
 The lowlands of the [[place-kankulrgn|K'ankul Region]] are flat, and Lishep'ikum makes its own height. Its temple groups stand on a single platform of rubble faced with cut stone, three times the height of a man and broad enough to hold four plazas, and from the top of its tallest pyramid the horizon is a clean line all the way round, with no hill to break it. Lishep'ikum, the Thrice-Built, is a city of about 40,000 people, one of the great city-states of [[affiliation-kankul|K'ankul]]. Its name is a boast about that platform.
 
@@ -41,7 +41,7 @@ When the builders raised the platform the third time, they buried the drains of 
 
 A Ts'enmah rules Lishep'ikum by descent, with Kulmah over the lesser seats in the scrub around it and Ha'nalmah over its towns. His court reckoner keeps the city's stone tables, and every new calculation is announced as the Ts'enmah's own. Lishep'ikum and [[place-nechakalkul|Ne' Ch'akalkul]] are rivals in the reckoning of the sky, and each sends a reckoner to copy the other's newest tables every year.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nechakalkul|Ne' Ch'akalkul]]
 : the city of the sacred pools and its star-reckoners

@@ -8,7 +8,7 @@ tags: [site, waste]
 data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Ash Stair, Pu'talal K'aipuk (the stair of ash), is the first day in [[place-xelemixbalrgn|Shelem Ish'bal Region]]. Below the place where the guides of [[place-xelemchalix|Shelem Ch'alish]] turn back, the high ground of the threshold breaks off in a long slope of gray ash terraces, each a few spans deep and a few hundred paces wide, falling a full day's walk to the floor of [[place-ashcountry|the Ash Country]]. From the top a party sees the whole of its first week laid out below it: the plain, the cones, the steam of [[place-boilingground|the Boiling Ground]], and the mountains standing pale to the west.
 
@@ -26,7 +26,7 @@ The Stair is full of the dead. They stand in the ash on the lower terraces, upri
 
 More parties turn back on the Stair than anywhere else in the waste. A party sees the country below it, or loses its first member to a slide or a storm, and climbs back to the gate within the week. The cord-keeper knots its members home like any other returners, and the gate gives them their gate-names. In the southern cities everyone knows which gate-names were earned on the Stair, and a lord who swore his oath to its foot is not much honored at a rite.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ashcountry|The Ash Country]]
 : the country below the Stair

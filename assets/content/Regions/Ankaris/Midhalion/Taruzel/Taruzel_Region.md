@@ -20,7 +20,7 @@ data:
 
 > The pilot comes aboard where the strait narrows under the walls of [[place-yamuzel2|Yamuzel]], a gray-bearded man in a salt-stiff coat who smells of tar and strong coffee. He takes the steering oar without asking, reads the water ahead—pale green over sand, dark blue where the channel runs—and points his chin at the islands off the bow. "My name is [Nadumar]{.name data-type="being/npc"}, and twelve years ago I took a fishing boat with a ram spiked to her bow into the shoals out there and watched an emperor's squadron break up on the sand. Everything you buy in Taruzel was paid for that week. Remember who paid for it, and remember who collects."
 
-## Overview
+## Overview {#overview}
 
 Taruzel Region is the archipelago in the eastern [[place-vylarianse|Vilérian Sea]] that lies off the coast of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], within the [[place-midhalnrgn|Midhalión Region]]. It is the country of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]: five merchant city-states that won their independence from the [[affiliation-vylarinmpr|Vilérian Empire]] at sea twelve years ago and are governed, in everything but name, by the guilds that paid for the war. Some twelve million people live here, in great port cities, market towns, fishing villages and the tribal country of the island hills.
 
@@ -107,7 +107,7 @@ To the east, across the strait, lies the Kingdom of Amradad. Taruzel keeps cordi
 - **The hill guides.** A Kudumel caravan master cannot hire a hill guide for a [[being-llmnblnn|Ellamuna Balinuni]] train over Nishurel, and he offers a party double wages to take it without one.
 - **The toll.** A foreign master waiting in the roads below the Strait Fortress hires a party to learn how many votes [[being-dlzrtndn|Delzuru Tanaduni]] has for his toll before the summer session.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-crimsnldgr|The Crimson Ledger]]
 : the counting houses of the financial underworld

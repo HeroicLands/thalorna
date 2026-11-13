@@ -137,7 +137,7 @@ The **[[affiliation-shokumatrb|Shókuma Tribe]]** is the tribe most associated w
 **[[affiliation-magaratrb|Magara]]** with the Spirit Blades, weapons in which a zohira of the blade is seated. Both practice
 the same tradition, and both regard the other's emphasis as slightly eccentric.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-zohira|Zohira]]
 : the spirits themselves, and the named ones

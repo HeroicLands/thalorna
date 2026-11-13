@@ -21,7 +21,7 @@ Ask a fisherman on the quay at Mirtelos how many people live in the town and he 
 
 The first is [[being-sthrnkhlthn|Sotharion Khalithon]], a lord of Helionite family who is known for his skill in war and for the loyalty of the vassals who follow him. The second is [[being-jdhrsbshrn|Jadharos Basiron]], a common seaman of thirty, reliable and well liked by his crewmates, who means to captain a ship of his own.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kostarosdst|Kostaros District]]
 : the district around the town

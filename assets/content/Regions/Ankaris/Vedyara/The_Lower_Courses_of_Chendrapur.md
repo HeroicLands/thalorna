@@ -22,12 +22,12 @@ The temples hold that the older city was the god's before it was the crown's, wh
 
 Nothing in the lower courses has harmed anyone. The cutters who work above them treat them as a floor.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The room below.** A House digging a new strongroom has broken into a chamber of the older city, stone-roofed and dry, and wants it kept quiet. The crown claims everything below the quarters as the tenth district's, and if the crown hears of the room before the House has emptied it, the House loses whatever is in it.
 - **The forbidden court.** The rule against rebuilding the Moon House's oldest court is older than any charter, and a crack has opened across its floor. The court must decide whether a repair is a rebuilding.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-chendrapur2|Chendrapur]] · [[place-moonhouse|the Moon House]]
 - [[lore-unnumbrdage|The Unnumbered Age]]—the age of stones nobody laid within memory

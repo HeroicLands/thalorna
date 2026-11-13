@@ -105,7 +105,7 @@ The major peoples descended from Pelwar migrations share certain cultural common
 
 The Varokh of Vristwald share Pelwar ancestry with both the Nordmen of the north and the Élavendri of the west, though the three peoples are now profoundly different in culture, language, and outlook.
 
-## See Also
+## See Also {#see-also}
 
 [[skill-elvndrlng|Élavendri Language]]
 : The Pelwar descendant language with the deepest section on Áelendi and Proto-Pelwar

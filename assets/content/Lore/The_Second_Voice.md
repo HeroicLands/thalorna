@@ -25,7 +25,7 @@ renegade's name, said what became of him, or offered any account of what drove h
 Everything below is therefore reconstruction: what the relic evidently did, inferred from what it
 demonstrably achieved.
 
-## What It Does
+## What It Does {#what-it-does}
 
 A [[lore-grukarfolk|Grukar tribe]] is held together by its [[being-grkrahk|Ahk]]. The spawner's chemical suppression keeps
 rival proto-Ahks barren, and its authority over its own spawn is not obedience but something closer to
@@ -122,7 +122,7 @@ defense against a weapon that may still exist is that there is nothing within re
 pick up. They kill Grukar on sight, everywhere, without exception—knowing perfectly well that the
 Grukar were the Second Voice's first victims and chose none of it.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-khazarturn|The Fall of Khazartúrn]] · [[lore-flkkhazar|Khazari]] · [[lore-flksenali|Senali]]
 - [[lore-grukarfolk|Grukar Folk]]

@@ -18,13 +18,13 @@ data:
   notes: "A white-walled port at the mouth of the Alz River, where the tide lifts every hull twice a day, every cargo waits under seal in a bonded warehouse, and the merchant guilds of the House of Factors decide who may land at all."
 ---
 
-## Overview
+## Overview {#overview}
 
 The harbor at Sazumun never sleeps, because the tide does not. Twice a day the sea comes up the mouth of the [[place-alzriver|Alz River]] and lifts every hull at the quays, and twice a day it goes out and takes the outbound ships with it, so the porters, tally-men and pilots of the city keep the tide's hours and not the sun's. About 9,900 people live behind the white-walled warehouses of the quays, in the seat of the city-state of [[affiliation-sazumun|Sazumun]] on the western coast of [[place-visizel|Visizel]]. Above them, on the headland over the river mouth, stands the tall white tower of the [[place-houseoffactors|House of Factors]], where the merchant guilds govern the city.
 
 The name is the toll's: _sazum-_, to levy at the gate, with _-un_, where the act is done. Sazumun is the conduit through which goods flow between the desert trade that crosses the strait from the [[place-dunharargn|Dunhara Region]], the market towns of the islands and the sea routes west to [[place-helionis|Helionis]] and the western realms, and it earns its living by what passes through it and what it charges on the way.
 
-## Arriving
+## Arriving {#arriving}
 
 A ship comes in on the flood. A bar of sand and gravel lies across the river mouth, and a ship crosses it by the marked channel on the rising tide with a harbor pilot aboard, sent out from the pilots' station under the headland. Before the pilot comes, the ship waits in the roads for a flag. The Harbor Master watches the roads from the top of the House of Factors' tower, and when she has read a ship's colors and her papers have come ashore in the pilot boat, she hoists the color of the guild whose trade the ship carries, and the pilot goes out. A ship refused sees a plain black flag, and no pilot comes.
 
@@ -68,7 +68,7 @@ The merchant guilds hold absolute power, and their councils meet in the House of
 
 Every quay, warehouse and market row in Sazumun belongs to a guild, and the guild keeps it. A shopkeeper robbed in the night goes to his own guild's watchmen, who keep his row, and a quarrel between two guilds' men goes to the Registrar. The city's courts hear freemen's cases under the guilds' rules. Order is cheap to keep here, because its sanction is total: a captain, a merchant or a house that breaks guild protocol is outside protocol, and from that day no harbor master accepts the vessel, no crew signs on with her and no guild trades with the offender. The names of those outside protocol are painted on a black board at the foot of the House's stair, and they stay there until the House strikes them off.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The captains' inns along the quays keep the tide's hours, serve a meal whenever a ship comes in and post the tide-table by the door. The lodging houses round Jiramun are cheaper and louder, and their hosts find an interpreter for any tongue by the morning. A party with a letter to a factor of the slope lodges behind his white wall and eats at his table, and in one house on the slope that table is Teshuda's.
 
@@ -83,7 +83,7 @@ Sazumun's name is the toll's, and the city has always lived by what passes its q
 - **The flotsam.** A girl who walks the beaches brings a sealed bale she found on the sand to the apothecary's counter, and its lead seal is a Hitusuni seal, unbroken.
 - **The keel timber.** The timberwright Zattuya Balinuni has been asked to mark next winter's whole cut of keel timber in the Alz woods for one buyer, to lengths she has only ever marked for the [[affiliation-corsairleg|Corsair League]]'s galleys, and the League has ordered nothing.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-sazumun|Sazumun]]
 : the city-state and its guild councils

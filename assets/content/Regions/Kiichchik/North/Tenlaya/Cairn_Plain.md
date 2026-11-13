@@ -17,11 +17,11 @@ data:
 # terran_analog: the High Plains along the Rocky Mountain Front from Montana to Alberta, with the Porcupine Hills and Head-Smashed-In for the drive country, and Wind Cave in the Black Hills for the Breathing Hole
 ---
 
-## Overview
+## Overview {#overview}
 
 Stand anywhere on the Cairn Plain and look west, and the mountains are there, a white wall along the edge of the sky, too far to reach in a week. Everything between you and them is short grass, buff and gray-green, rolling in long swells, and across it run lines of knee-high stone cairns, two lines at a time, a few paces apart at one end and a quarter-mile apart at the other, running for miles toward a break in the ground you cannot see until you stand on it. This is Wehi Oshte, the Cairn Plain, the high western grass of the [[affiliation-tenlaya|Tenlaya]], the Grass People, where the herds winter and the bands take them. About 90,000 people hunt it, all of them in bands, and none of them stays in one place for more than a season.
 
-## The Land
+## The Land {#the-land}
 
 The plain rises westward from the [[place-hesunshewanrgn|Village River]] toward the mountains, and the higher it rises the shorter and drier the grass becomes. Rain is scarce, and most of it falls in hard summer storms that fill the coulees for an afternoon and leave them dry by evening. The rivers that cross the plain run east out of the mountains in deep, narrow valleys, cut below the level of the grass, and a band crossing the plain walks from one of them to the next.
 
@@ -49,7 +49,7 @@ West, the plain ends at the foothills and the mountains, and the passes beyond l
 
 The herds move through it first, and the bands follow them. Meat, fat, robes and hides go east to the villages each autumn. Mountain sheep horn, obsidian and dried roots come over the passes from the western bands. Robes and pemmican go south to the Turquoise People, and once in a while a southern good comes back: a macaw feather, a copper bell, a piece of turquoise strung on a society head's necklace.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tenlayargn|Tenlaya Region]]
 : the grasslands of the Grass People

@@ -17,7 +17,7 @@ data:
   notes: "Valley Settlement"
 ---
 
-## Overview
+## Overview {#overview}
 
 Where two jarls cannot agree how many winters have passed since an oath was sworn, the king's reeve sends to Hnarvdal, because a skald will give a year that suits his patron and the post gives the year. The settlement's elders hold the kingdom's oldest reckoning-post, notched every midwinter for, by the valley's own reckoning, longer than [[place-vithgard|Vithgard]] has had kings to date years by, which makes it the north's oldest count, older than [[lore-domseycount|the Domsei count]] the five kingdoms share, and a dispute anywhere in the kingdom over how many years have passed since an oath or a debt was sworn is settled by sending to Hnarvdal and not by trusting a skald's memory.
 
@@ -29,7 +29,7 @@ The valley's quarrel with the wider kingdom is the reckoning-post's authority ag
 
 Hnarvdal's fell is the setting of the kingdom's best-known tale of a seer. **Velva [Aldurhildur]{.name data-type="being/npc"}**, the story says, vanished into the fell as a child and came back seven winters later with older words and a seer's knowledge. Some say hidden folk kept her and that a hearth-woman in the mountain taught her. The tale explains why Vithgard seeks her sight; it does not establish a public path into the fell. [[lore-vthgdhstry|Histories and Legends of Vithgard]] tells it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : the kingdom whose years this valley counts

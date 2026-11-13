@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Zeghet elu Au'Khelathu** is the chartered guild of the hunters of [[place-aukhelathrgq|Au'Khelathu]]. It licenses both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist, and it sets the terms on which a hunter may work a given territory, so two hunters are rarely chasing the same ground under conflicting claims. Anyone hiring for a dangerous beast checks the license first, since an unlicensed hunter has answered to no one for his methods.
 
@@ -54,7 +54,7 @@ The guild's chief counterparty is anyone who hires a hunter for a dangerous beas
 
 Licensing is the guild's trade. Say a village on the desert edge hires a hunter to deal with a beast that has been taking its herds. The village elder asks for the guild's license before anything else, and reads the territory the hunter is licensed to work. The hunter agrees a fee, does the work, and answers to the guild for the methods.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu]]
 : The empire the guild's licenses cover

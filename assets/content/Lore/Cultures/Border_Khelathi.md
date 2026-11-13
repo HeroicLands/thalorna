@@ -40,7 +40,7 @@ A border household is a soldier's household. Sons and daughters grow up around d
 
 Skin runs deep, from brown through dark brown to ebony, in the south and on the caravan roads. Builds are broad and hard, shaped by drill, mining and long marches, and the sun and wind leave faces weathered and sometimes leathery. People are on average taller and heavier in frame than the valley's. Dress is practical: short kilts, scale or leather armor, headcloths against sun and dust.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]
 : the parent culture

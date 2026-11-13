@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Warm stands on the summit of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], above the sanctuary of [[place-veshvaan|Veshvaan]] on its shoulder. It is the greatest of the inherited works on [[place-klhrcntnnt|Kalihara]]: one body of [[lore-itharisul|ithasul]], gray and seamless like every work, warm to the hand in every season and faintly lit after dark. The custodians call it _Sul-vaan_ (stone of the whole).
 
@@ -40,7 +40,7 @@ From the summit the whole of [[place-klhrbowl|the Bowl]] lies below: the lake on
 
 The summit lies above Veshvaan, and Veshvaan is reached only by water, half a day in the Marivoel's boats, and only by the custodians' leave. The climb from the sanctuary to the summit is the silkan's, and no foreigner has seen the Warm.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrmassif|The Massif]]
 : the mount the Warm stands on

@@ -20,7 +20,7 @@ data:
 # terran_analog: the Chinookan towns at the mouth of the Columbia, the great slave and trade market of the Northwest Coast
 ---
 
-## Overview
+## Overview {#overview}
 
 Every spring two plank canoes come up the empty shore from the south, low in the water, and run in over the bar of the [South River]{.name data-type="place/feature"} to the beach at Lamekis. They carry beads: the [Northern Strand]{.name data-type="lore/custom"}, sent by the chiefs of the northern [[affiliation-shuqash|Shell-Bead People]] so that the Cedar war canoes leave their towns alone. Lamekis, Bear Beach, is the southernmost village of the [[affiliation-kelwanuk|Cedar People]], on a sandspit behind the river bar at the southern end of the [[place-yumisrgn|Outer Beaches]], and about 1,500 people of the Bear House live here. Twenty years ago it was a minor village of a minor house. Now its chief gives the greatest feasts on the coast.
 
@@ -48,7 +48,7 @@ Tsamalkalu knows what Yaldukita has not admitted. There are more beads on the Sh
 
 The houses stand in a double row on the sandspit, the only village on the coast that needs two rows, with the Bear House's great house at the end, its crest pole topped by a bear holding a copper. Behind the spit lie marshes and a lagoon full of wildfowl, and the river beyond is a mile wide. The village has no headland refuge; it has the river, and in danger its people take to the canoes and go upstream.
 
-## See Also
+## See Also {#see-also}
 
 [[place-yumisrgn|Outer Beaches]]
 : the whaling coast of the south

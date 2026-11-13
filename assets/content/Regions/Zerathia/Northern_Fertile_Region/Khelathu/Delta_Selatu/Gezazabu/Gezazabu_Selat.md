@@ -15,7 +15,7 @@ data:
   government: selatgezazab
 ---
 
-## Overview
+## Overview {#overview}
 
 Gezazabu Selat is the land of [[affiliation-selatgezazab|the Selat of Gezazabu]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is an western delta port and its hinterland: the selat's trade is salt-fish and the curing-houses that make it, and the trade road to [[place-bethuargn|Bethua]] runs out of it.
 
@@ -25,7 +25,7 @@ Gezazabu Selat is the land of [[affiliation-selatgezazab|the Selat of Gezazabu]]
 
 Inland of the port the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-thubai|Thuba'i]] and its estates hold land beside the curing-houses.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-gezazabu|Gezazabu]] (~56,000)
 : the selat capital and the seat of the Halzi'a.
@@ -33,7 +33,7 @@ Inland of the port the villages and temple estates grow grain on the usual terms
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgezazab|The Selat of Gezazabu]]
 : The selat that holds this land

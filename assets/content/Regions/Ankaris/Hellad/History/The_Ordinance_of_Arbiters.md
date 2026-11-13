@@ -80,7 +80,7 @@ The first named arbiter, [Sáfireze Dorashidek]{.name data-type="being/npc"}, sa
 - **Nesthiros's stone yards**, rebuilt after the fire.
 - **A tolerance** for rival houses that began as arithmetic and has become a manner.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-byzarianclt|Bizarian]]
 : the culture of the bargain, in which arbitration stands in for feud

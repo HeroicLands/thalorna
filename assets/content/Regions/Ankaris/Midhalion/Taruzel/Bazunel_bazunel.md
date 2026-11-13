@@ -80,7 +80,7 @@ Bazunel is smaller and less wealthy than Besikar, less martial than [[affiliatio
 
 The city's academies are modest beside those of [[place-helionis|Helionis]] or the [[place-provenzrgn|Provénzia Region]], and their character is practical: they turn out excellent navigators, cartographers, physicians and natural philosophers. Bazunel's astronomers are the best in the Confederation, and its navigational charts are prized by captains across the [[place-vylarianse|Vilérian Sea]].
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Bazunel's studios and yards are paid in the [[lore-trzlncrncy|Taruzelian currency]], the Confederation's own system under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. It uses the Vilérian denominations (Solden, Ardin and Bit), but Taruzelian reserves back it rather than the Vilérian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vilérian standard. Merazuni-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vilérian paper is not honored here, and Taruzelian paper is not honored in Vilérian territory.
 
@@ -93,7 +93,7 @@ Bazunel was one of the cities whose trading families grew rich as the empire's i
 - **The warrant.** An agent of a Besikar guild hires a party to bring a copyist out of Zatturel to a ship outside the harbor, because the magistrates will not hear his warrant. The copyist goes for help to [[being-ytlshpshtm|Yutalush Pushutum]]'s clinic.
 - **The sealed answer.** [[being-brshrskn|Abarash Rusakuni]] asks a party to carry his answer on the hereditary seats to Besikar unopened.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-rusakuni|Rusakuni]]
 : the shipwright house of the city

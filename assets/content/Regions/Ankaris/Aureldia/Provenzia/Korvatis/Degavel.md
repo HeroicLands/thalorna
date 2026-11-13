@@ -15,7 +15,7 @@ data:
   packFolder: provenzia
 ---
 
-## Overview
+## Overview {#overview}
 
 Degavel is an earldom of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] in the kingdom's southern country, the [[place-korvathis|Korvatis]], with some three hundred thousand people. Its earl is one of the magnates who decide how Provénzia's court leans. The present **Earl of Degavel**, [[being-rutalplnvr|Rutal Pélanvri]], is the leading lord of the south and First Peer of the [[affiliation-councilpeers|Council of Peers]], and his leadership in the south gives him real weight in both court politics and military strategy.
 
@@ -40,7 +40,7 @@ The earl's family carries the frontier, and the frontier is going badly for it. 
 
 The Pélanvri are the greatest of the houses that hold the country between the cities of the south. The rivalry between Degavel and Atavel took the shape it has in the Council now after [[being-kingvelarikiii|Vélarik III]] gave the great seal to the Count of Atavel in 704 AF ([[lore-velarikreign|The Reign of Vélarik III]]). Two summers ago the Marshal deposed the Tanevar house of Belsaren and gave the lordship to his kinsman, and the family's present trouble on the frontier runs from that day.
 
-## See Also
+## See Also {#see-also}
 
 [[place-degavelcstl|Degavel Castle]]
 : the earl's seat

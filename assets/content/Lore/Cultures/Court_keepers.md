@@ -80,7 +80,7 @@ The Kubindo say the sorcerer who leads [[place-lpdkngcrt|the Leopard King's Cour
 
 An outsider sees a sacred tree hung with offerings, an old man or woman who speaks to it, and a tribe that will not hunt a certain beast, and writes down a temple, a priest and a cult. Northern scholars have written of spirit-courts with priestly hierarchies for generations. What the outsider does not see is that the old keeper has no more say in the tribe than any elder, that anyone may learn what the keeper knows, and that the tribe keeps the keeper from power on purpose.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-bikoclt|Biko]]
 : the forest peoples

@@ -23,7 +23,7 @@ The [[affiliation-rasikara|Rasikara]] shrine stands above the village at the spr
 
 The village farms terraces and keeps goats, and is the poorest in the janpoda. It sends two representatives to the sabhra like any other, and its turn in the rotation has never been passed over.
 
-## See Also
+## See Also {#see-also}
 
 [[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land

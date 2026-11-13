@@ -109,14 +109,14 @@ The war did not end on the ice. It ended five years later at [[place-asgarthul|A
 
 Snirvthann asked a price. Norgaad held five seats on [[place-domsey|Domsei]] against Nordheim's seven, and he asked for two more as the fee for the peace. Both kings refused him, because a seat-count changed by two crowns is a seat-count the other three can change too, and the peace-stave at Asgarthul is still uncut on one face, for the terms never agreed. That face is the oldest grievance in the seat-quarrel, and Norgaad's king raises it at every sitting.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The field.** Skalfvatan, a recurrence, moderate: dangerous to anyone who answers a call from under the ice.
 - **The blank stone.** Gnirthorv's arm-ring is under the lake. The man who brings it up holds a token of the oldest Hlurthidrok claim in a kingdom on the edge of civil war, and a Nordheim jarl who wants the blank stone cut and the grave-ale drunk would end the field and hand Malagna a wergild claim older than its present king.
 - **The [[place-asgarthul|Great Moot]].** Norgaad's Lawspeaker can call the kingdoms to Asgarthul between sittings, and does.
 - **The habit.** Nordheim and Malagna have been rivals since, fraternal and competitive at once, and the border howes are robbed by both sides' kin.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-skalfvatan|Skalfvatan]]—the lake and its field
 - [[place-asgarthul|Asgarthul]]—the hall of the peace and the Great Moot

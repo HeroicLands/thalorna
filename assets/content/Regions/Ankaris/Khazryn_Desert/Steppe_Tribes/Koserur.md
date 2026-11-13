@@ -96,12 +96,12 @@ The Koserur have held their three wells for generations by marrying a daughter w
 
 The Koserur raid nobody this year, because they have no riders to spare from the wells. What they fear is plain to every tent: a second dry year, which would leave them three wells for herds that need four; a Qibudur party at Idvaqkelod in the night; and the day the moot agrees to the Jobizur's terms and the Koserur become a name that families give when asked where they came from.
 
-## Hooks
+## Hooks {#hooks}
 
 - Ghotazkharu Koserur asks a party of guests, who owe no tribe anything, to carry his terms to the Jobizur dovaq and bring back her answer. A Koserur rider seen riding north would tell the warband what its dovaq is doing.
 - A storm has filled the pans at Gorenevod for the first time since the drought, and the first tribe to camp there this season holds the water. The Kenodur have sent riders, and the Koserur have nobody left to send.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

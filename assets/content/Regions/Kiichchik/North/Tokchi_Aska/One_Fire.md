@@ -68,7 +68,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: the Mississippian culture at its height, above all Cahokia about 1050 to 1150, with Etowah and Moundville; the Natchez Great Sun, Sun Mother (White Woman) and sinking ranks; the falcon dancers and the Birdman are the Southeastern Ceremonial Complex, the rolling-stone game is chunkey, the New Fire is the Green Corn ceremony, the funeral of the Hundred is Cahokia's Mound 72, and the shell towns are the Calusa of southwest Florida; the Gatherings and Scatterings are Mississippian chiefdom cycling
 ---
 
-## Overview
+## Overview {#overview}
 
 Tokchi Aska, the One Fire, is the nation of the mound towns of the great river valley and the shell towns of the gulf coast: about 1,500,000 people, the richest and most populous nation of the north and the closest thing it has to a peer of the southern city-states. Its people, the [[lore-tokchiliclt|Tokchili]], name it for the fire on the great mound at [[place-hayopokta|Hayo Pokta]], from which every household in the nation relights its hearth each midsummer. The south calls it Ts'uma No'tun and its people the Serpent People, from the coiled serpents engraved on their shell gorgets. It holds the [[place-tokchiaskargn|Tokchi Aska Region]].
 
@@ -148,13 +148,13 @@ In the [[affiliation-redstncmpct|Red Stone Compact]] the One Fire sends Nobles o
 
 The Great Sun names the delegates each spring at the black drink, and the Sun Mother approves them, so that no Noble goes to the [Red Quarry]{.name data-type="place/site"} without both houses of the great mound behind him. They go up the great river from the landing at Hokpa Hosa, and they can promise only what the black drink council agreed before they left. The One Fire values the compact for its pipe: a trader of the One Fire with a compact pipe in his bag is fed in every town from the lakes to the mesas. It values the council less, because the council is where the Maple People's speakers tell the Suns what is wrong with Suns, and its delegates are the ones the Rememberers most often remind of the One Fire's breach of the quarry's peace. The south is the danger the One Fire fears most, since southern expeditions strike the Turquoise People first and the One Fire second. The Nordmen across the eastern ocean are a danger the One Fire has never seen, and its delegates answer the Maple People's calls for help against them as coolly as the Grass People do.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The One Fire has no money. Wealth is maize in a granary, copper on a Sun, shell on a Noble's chest and the labor a Mound Chief can call on. Tribute goes up the river to Hayo Pokta in baskets of maize and down it again as gifts, feasts and seed in bad years; a Great Sun who keeps more than he gives back is the beginning of a Scattering.
 
 The heartland's craftsmen work copper brought from the Maple People's lake country, in trade through Ha'nal Shi'lan and in plunder, into plates, gorgets and blades. Their shell comes up the river from the coast. Southern goods reach the One Fire across the desert through the [[affiliation-teyumi|Turquoise People]], a little cacao and a few macaw feathers and copper bells at a high price, and its Suns prize them above anything made at home and resent the price. Some coastal captains claim to have traded with people far down the gulf coast who had southern goods, and the Great Sun's court would like to know whether the voyage can be made both ways.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tokchiliclt|Tokchili]]
 : the culture of the One Fire, what it values and what it gets wrong

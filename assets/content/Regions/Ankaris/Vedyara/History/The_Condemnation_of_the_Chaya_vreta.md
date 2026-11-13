@@ -47,13 +47,13 @@ About 470 AF the Council of the Dream, the senior council of oneiromancers that 
 
 The monasteries closed to the line's students at once. No monastery will seat a [[affiliation-chayavreta|Chaya-vreta]] or name one. Nobody pursues them either. The Council's ruling was that the tradition would not keep the vow, and it left the rest of [[place-vedyarargn|Vedyara]] to decide what to do about the people who kept it anyway.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The vow outside the Sameja.** [[affiliation-chayavreta|The Chaya-vreta]] has been taught ever since one student at a time, master to student, with no house and no register.
 - **The shadow-brotherhoods**, which grew from it and train Vedyara's assassins.
 - **[[place-waitinghouse|The Waiting House]].** A line of the vow has been taught in the upper rooms of the Waiting House in [[place-chendrapur2|Chendrapur]] for most of that building's history.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-chayavreta|The Chaya-vreta]]—the condemned vow
 - [[affiliation-svapnasarisameja|Svapnasari-sameja]]—the tradition that condemned it

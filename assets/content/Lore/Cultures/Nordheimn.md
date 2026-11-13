@@ -254,7 +254,7 @@ The family is an extended body of kin, not only parents and their children. Its 
 
 A hall gathers a lord's close kin and sworn followers under one roof. Oath and acknowledged service can bind people who share no ancestry, and their hall's debts become a common obligation. Kin membership and hall service therefore overlap without being identical. A clanless freeman belongs through a following rather than by simply taking a seat, while a thrall's residence rests on ownership. Who answers for a person matters as much as where that person sleeps.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nrdlndsrgn|Nordlands Region]]
 : the fjords, the five kingdoms and the ships

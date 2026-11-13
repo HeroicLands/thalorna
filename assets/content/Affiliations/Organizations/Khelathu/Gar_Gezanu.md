@@ -36,7 +36,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Anything taken unweighed is stolen. That is the whole law of **Gar-Gezanu**, the imperial service that collects the [[lore-garauu|Gar-Au]]'s dues and enforces the law of trade across [[place-aukhelathrgq|Au'Khelathu]], and its assessors apply it at the point of sale or transit, with no regard for the taker's reasons. A weighmaster is therefore a fixture at every market and ford worth taxing, and a merchant who moves goods around the assessors rather than through them is, by the service's own definition, already a thief.
 
@@ -56,7 +56,7 @@ Say you bring six sacks of barley to a market gate. An assessor weighs them, a c
 
 The business of the service is weighing and taxing goods at the point of sale or in transit, and the sack that missed the scale is the one a court hears about. Carry your goods to the weights, and keep your temper while you do.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : The region it belongs to

@@ -19,7 +19,7 @@ data:
 # terran_analog: Tulum, its wall, its cliff-top temple and the lights in its windows that marked the gap in the reef; the name joins ts'okil (a cliff) to kul- (a lord's seat)
 ---
 
-## Overview
+## Overview {#overview}
 
 From the sea, Ts'okilkul is a line of white on top of a gray cliff, with a temple at the cliff's edge and a small beach below it. From the land it is a wall. The wall runs in a great bracket from the cliff edge inland and back to the cliff again, as tall as two men and thick enough to walk along, with five narrow gates and a watchtower at each corner, and the town fills the space inside it. Ts'okilkul, the Walled City, is a harbor town of about 20,000 people on the coast of the [[place-kankulrgn|K'ankul Region]] and one of the great cities of the realm of [[affiliation-kankul|K'ankul]]. Its wall commands the overland roads that run from the coast into the interior, and its harbor commands the sea trade along the coast.
 
@@ -43,7 +43,7 @@ Ts'okilkul is one of the two harbors through which most of K'ankul's sea trade p
 The temple on the cliff has a third window, low in its northern wall and shuttered by day. A lamp set in it lines up with the lamp in the upper seaward window at a point a few hundred paces north of the true gap, where the reef lies just under the surface. Twice in the past two years, on moonless nights, the Ilkanmah has had the true lamps covered and the third window lit when a canoe of Ts'ilil Ne'ts'ik was expected, and both canoes broke on the reef. The cargo that washed ashore is in his storehouses. One of the lamp-keepers took his share and the other refused it, and the one who refused has asked to be sent to another temple.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-kankul2|K'ankul]]
 : the seat of the realm, whose books and jade go out through this harbor

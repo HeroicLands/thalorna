@@ -198,7 +198,7 @@ A married-in adult may own and trade goods in their own name. An Othmund may be 
 
 A captive still worth ransoming is kept rather than absorbed into an owning household. Varokh captives are ransomed by their own tribe as a matter of course and treated well while payment is sought. Nordlanders are commonly ransomed too. A captive from a raided southern coast seldom has kin within reach to pay, and is likely to become permanent household labor. The Skathár reckons ransom alongside blood settlement. Returning captives helps rival villages sustain their feuds without destroying one another, while captives without reachable kin pay for that arrangement with their freedom.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vrystwald|Vristwald Region]]
 : the taiga, rivers and villages

@@ -17,7 +17,7 @@ data:
 
 A small caravan carrying cut gems and a merchant's strongbox leaves [[place-ashvapada|Ashvapada]] for the wells of the west, with the party as its escort. Its guide takes it off the road by a herders' track, a wheel breaks, and the guide rides away. The wagons are standing on [[place-lantustal|Lantustal]], the cursed field of the march, with the sun on the hills. Every sign that night says a crooked company has sold the caravan to the field, and it has. So has the man who hired the party: the merchant is the court's man, riding the stage as bait to take the company's collectors with the goods in their hands, and the party is the blades he needs alive at dawn.
 
-## Overview
+## Overview {#overview}
 
 The adventure runs from sunset to the next morning in five scenes, and the last adversary is the field itself. Each scene can be met with force, stealth, talk, cleverness with the ground or a sacrifice, and each states how play carries on if the party skips it, fails it or cuts it short.
 
@@ -37,7 +37,7 @@ Read [[place-lantustal|Lantustal]] and [[lore-bloodfield|Blood-fields]] first. T
 | The diversion was arranged                | The gully that broke a wheel on the dead man's wagon too; the merchant's escort receipt under the captain's seal; the dead man's ledger in the shelter; the collectors at dawn                      |
 | The merchant arranged it too              | The planted clues below                                                                                                                                                                             |
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 The full truth of the field—the company's racket, the false line, what crosses after dark, [Pallivata]{.name data-type="being/npc"}'s caravan and the court's commission—is in [[place-lantustal#truth|the truth of Lantustal]]. In short: [Kritiraya]{.name data-type="being/npc"}'s company sells caravans to the field through its guide, [Karasha]{.name data-type="being/npc"}, and a stretch of moved stones, and its riders collect the goods at dawn as the field's leavings. [Sundarka]{.name data-type="being/npc"}, whose gems were lost in Pallivata's caravan, carries the court's commission to be caught in the same trap and come out of it alive. He asked for Karasha by name and hired the party because holding the wagons until the collectors come needs blades. He told nobody, and he does not know that the southern stones were moved. This section covers what that does at the table.
 
@@ -82,7 +82,7 @@ Once the reveal lands, the party is torn between surviving the night by the clef
 > [!WARNING]
 > A party that abandons Sundarka on the field closes the court's route to the captain: the collectors find a living merchant with no blades round him, and the court never hears from him. The ledger and the receipt still make a case if the party carries them out. Let the party choose, and let the Aftermath follow from what it knew when it chose.
 
-## Hooks
+## Hooks {#hooks}
 
 Sundarka, a gem merchant of the river country, is taking a small caravan west to the oases of the [[lore-dunhariclt|Dunhari]]: three wagons, his drivers, two guards of his own and a strongbox chained to the bed of the lead wagon. He hires the party at Ashvapada to ride with it, because the company escort he paid for is only a guide and a promise that the company's riders patrol the stage. The guide is Karasha, a lean, cheerful man with a good horse, who knows a way round that saves half a day and brings the wagons to the chain post before sunset.
 
@@ -95,7 +95,7 @@ Other entries suit other heroes:
 - **The debtor.** A character owes Sundarka money, and riding his escort settles the debt.
 - **The kinsman.** A character's brother rode as a driver for Pallivata, a cloth factor whose caravan vanished on this stage last dry season.
 
-## The Opening
+## The Opening {#opening}
 
 Read or paraphrase this as the wheel goes:
 
@@ -273,7 +273,7 @@ Read or paraphrase this as the wheel goes:
 
 **If bypassed.** A party that walked out by the road and never met the collectors still has the ledger and the receipt. The court's case is thinner without Karasha, and the captain has time to have the stones put back.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **The captain brought to court.** The march loses a captain and a company goes unpaid for a season, and the crown's officer at Ashvapada has to answer for what he passed. The stones are reset on their old line, and the companies say nothing about it.
 - **The captain warned.** The false line is gone within the week. The guide is not seen again on the road, and another one, as cheerful, takes his place.
@@ -283,7 +283,7 @@ Read or paraphrase this as the wheel goes:
 - Pallivata. His family learns where he died. A character who brings his spoke home brings them the last thing he wrote.
 - Vijesa. His captain knows who carried a fire to the cleft. The court can take him into its service, or leave him at the post.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-lantustal|Lantustal]]—the field, its dread and its curse
 - [[lore-bloodfield|Blood-fields]]—what crosses a thin field, and what keeps a people beside one

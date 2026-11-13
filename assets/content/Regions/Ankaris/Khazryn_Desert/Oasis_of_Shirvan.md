@@ -17,7 +17,7 @@ data:
   notes: "The first and holiest of the seven Tellumi cities, a spring city under the Vurinkarvem cliff, held by the Atarzád since the Breaking and the seat of the Tellumi Confederation in everything but fact."
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Oasis of Shirvan** is the first of the seven Tellumi cities and the holiest, in the western half of [[place-swoasisbelt|Tellumel]], where the Grazian foothills close in on the belt and the [Vurinkarvem cliff]{.name data-type="place/feature"} stands over the town as a wall of pale rock. About sixty thousand people live inside its rebuilt walls, the largest city of the belt, and perhaps as many again work the gardens and canal villages that fan out below it. Tellumi tradition holds that [[lore-ahurdaendty|Ahurdaen]] revealed the order of the world to the desert peoples here, in the first age, and the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] still names Shirvan as its seat though its princes have not entered the city in ninety years.
 
@@ -47,7 +47,7 @@ The last Tellumi rising began in the Shirvan district about 706. A Zhudek acclai
 - **The cliff.** The Vurinkarvem cliff is riddled with cut chambers and pilgrim stairs, some of them older than the city. After rain the lower galleries flood, and a flood can fill a chamber in the time it takes to climb out of it.
 - **Informers.** Every Tellumi household in the lower town is known to the Ozhmarod. Someone in the quarter reports, and nobody knows who.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the Confederation whose seat Shirvan is
@@ -63,3 +63,7 @@ The last Tellumi rising began in the Shirvan district about 706. A Zhudek acclai
 
 [[place-ashkarad|Ashkarad]] and [[place-zargandur|Zargandur]]
 : the nearest cities along the belt
+
+[[place-peldenderal|Peshdenderat]]
+
+[[place-vurinkarvem|Vurinkarvem]]

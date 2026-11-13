@@ -45,7 +45,7 @@ The autumn fair is the event the town's year turns on, and this year it falls in
 - **A buyer at the stone.** A horse-seller at the fair swears a horse's age at the oath stone, and the horse-judge reads its teeth and says otherwise. The buyer wants the seller answered before the same witnesses, and the seller has friends among the crossbowmen home from contract.
 - **The daughter sent for.** [[being-rithardmvr|Ríthara Dómivar]]'s mother wants a party to carry word to the coast that her daughter must come home, and to bring Ríthara back with them if she will come.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnclthrgl|Council of Thórgila]]
 : the town's government

@@ -73,7 +73,7 @@ The Northern Fertile Region civilizations—the [[affiliation-mtrrchybth|Matriar
 
 To the **far south** lie the coasts of an unnamed ocean and whatever exists beyond it. Savannah knowledge of the southern coast is incomplete—different lineages know different stretches, and no unified picture has ever been assembled. Whatever lies beyond the southern coast is, for the savannah peoples, as mysterious as the savannah itself is to the north.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xerathia|Zerathia Continent]]
 : parent continent
@@ -86,3 +86,7 @@ To the **far south** lie the coasts of an unnamed ocean and whatever exists beyo
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]
 : distant northern civilizations, known only by rumor
+
+[[place-fenjaravlg|Fénjara Village]]
+
+[[place-hetolubemo|Heto Lubemo]]

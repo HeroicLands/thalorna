@@ -17,7 +17,7 @@ data:
   notes: "A highland village of Eskarath built round a spring with a shrine to its spirit, whose water and pasture the neighboring clans share by an order the Water-Warden keeps."
 ---
 
-## Overview
+## Overview {#overview}
 
 Ibotsain, "the place of the spring" in [[skill-eskarilng|Eskari]], is a highland village of about 600 in [[place-eskarath|Eskarath]]. Its houses stand round a spring, and a shrine to the spring's spirit stands at the water ([[affiliation-eskrthsprts|The Spirits of Eskarath]]).
 
@@ -29,7 +29,7 @@ Ibotsain lives by its herds. Each household holds its own flock and its own peop
 
 The elders of the village's clans settle what the young dispute, from their memory of custom and precedent. A quarrel over the water that they cannot end goes to the [[affiliation-biltzarrath|Biltzarrath]] at the solstice.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eskarath|Eskarath]]
 : the highlands it stands in

@@ -23,7 +23,7 @@ The summit shrine is kept by the domain's Tanchei, who hold the mountain record:
 
 When the mountain erupts, the retainers of the house clear the villages in its path and hold the roads while the people leave.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-hojujaidmn|Hojujai Domain]]
 : the house and its regent

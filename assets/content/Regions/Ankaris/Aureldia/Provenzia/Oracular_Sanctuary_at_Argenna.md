@@ -8,7 +8,7 @@ tags: [sacred]
 data: {demonym: null, lore: [], parents: [provenzrgn], population: 0, packFolder: provenzia}
 ---
 
-## Overview
+## Overview {#overview}
 
 Argenna is the site of **the Oracular Sanctuary at Argenna**, a shrine of the [[affiliation-zunelas|Faith of Zunelas]] in the [[place-provenzrgn|Provénzia Region]] whose omens are renowned across kingdoms. Pilgrims come to it from across the continent because they trust that the dreams received there come from the goddess herself.
 
@@ -24,7 +24,7 @@ A priestess explains the practice to newcomers before anything else: you come to
 
 The precinct is crowded beyond its custom. Pilgrims from the withering country of the north come to ask whether their land can be saved, and courtiers from [[place-jalnazdal|Jalnasdal]] come to ask which way the Council of Peers will break. The priestess-oracles are asked by great houses for dreams that favor them, and they refuse; the houses that are refused say the oracles have taken a side.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zunelas|Faith of Zunelas]]
 : the faith that keeps the sanctuary

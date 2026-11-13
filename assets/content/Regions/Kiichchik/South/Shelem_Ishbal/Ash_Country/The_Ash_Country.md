@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, pack
 # terran_analog: the volcanic arc and high puna of the southern Andes, from the Peruvian south through the Atacama's volcano line.
 ---
 
-## Overview
+## Overview {#overview}
 
 The Ash Country, K'aipukal (the ash-bed) in the priests' tongue, is the first country of [[place-xelemixbalrgn|Shelem Ish'bal Region]] and the only one most parties ever see. It begins where the guides of [[place-xelemchalix|Shelem Ch'alish]] turn back, at the place the gate's towers drop below the horizon, and runs south for weeks along a line of mountains, some dead and some still breathing smoke. Gray ash lies over everything, a hand deep on the ridges and deeper than a man in the hollows, and under the ash is black glass, red rock and ground that is hot to the touch.
 
-## The Land
+## The Land {#the-land}
 
 A party comes down into the Ash Country by [[place-ashstair|the Ash Stair]], a day's descent of ash terraces from the high ground of the threshold. Below the Stair the land is a broken plain of ash and old lava flows, cut by canyons and dotted with cones. The mountains stand to the west, and at night the living ones glow red at their tops. The air smells of sulfur and hot iron, and it tastes of it too.
 
@@ -48,13 +48,13 @@ Some returners bring back black glass from Mirror Mountain and wear it at the th
 
 The Ash Country quarrels over what comes out of it. The keepers of the storehouses at Shelem Ch'alish buy the crystals from the canyons below the cones at the gate's price before any northern market sees them, and the treasure-seekers who carried them out of the ash call that price theft. The merchants who back the treasure-seekers, in [[place-nepaxel|Ne' P'ashel]] and the cities of the north, want the crystals carried past the gate, and the priesthood keeps the trade in what the waste yields restricted. The black glass of Mirror Mountain is the other quarrel. In the southern cities a shard of it at the throat is the mark of a warrior who has seen his death, and shards are sold in the camps outside the gate to men who never went farther than the foot of the Ash Stair.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Past the storehouses.** A factor of Ne' P'ashel has outfitted a party of treasure-seekers and wants whatever crystals they bring out of the canyons carried past the storehouses of Shelem Ch'alish and across the flats unseen. He asks the party to be the ones who carry them.
 - **Bought glass.** A lord of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] wears a shard of black glass at his throat and stands ahead of his rivals at every rite. A rival house is sure that he bought it at the gate and never passed the Ash Stair, and hires a party to find the man who sold it to him.
 - **The roped figures.** A house of [[affiliation-kuxiixbal|K'ushi Ish'bal]] whose son went south with a roped party and was never knotted back has heard the returners speak of figures standing in the drifts below the Stair. It asks a party to go down the Stair, find the figures and bring back anything that names him.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xelemixbalrgn|Shelem Ish'bal Region]]
 : the waste

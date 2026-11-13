@@ -146,7 +146,7 @@ The house cannot let the throne default, and it cannot let the city burn. Its fo
 Shattar Kassumi knows who pays him and why. The house has promised him what the legion took from him: a grant of the citizenship from the Senate at the end of ten years' service, for himself and for every man of the company who serves the ten, bought with the house's influence at the next reign's first Senate. The purser knows the source of the coin and not the promise. The lieutenant knows neither. The man of the war council who recommended the contract is in the house's debt for the price of a Vandraks commission, and does not know what the company is for.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-outskirtsorz|Outskirts]]
 : the working city beyond the Clearance, where the company keeps its camp

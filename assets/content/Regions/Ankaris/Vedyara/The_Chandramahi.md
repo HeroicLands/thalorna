@@ -22,7 +22,7 @@ Its lower valley carries the gem-road, the traffic of worked stone, gold and fin
 
 The river is one of the four pilgrim-circuits by which the janpodas are seated at the great assembly. A janpoda of the Chandramahi circuit speaks at the gathering through the circuit's speaker, unless it is one of the forty that hold a seat in their own right. Which circuit a border janpoda belongs to is a question that has gone to litigation, in one case for two hundred and ten years.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-chandrprbh|Chandraprabhava]] · [[place-sthrnwall|the Southern Wall]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-chendrapur2|Chendrapur]] · [[place-chandrmukha|Chendramukhva]]

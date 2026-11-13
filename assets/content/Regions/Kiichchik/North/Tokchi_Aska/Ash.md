@@ -20,7 +20,7 @@ data:
 # terran_analog: the maroon and refugee communities of the southeastern swamps, set in a Mississippian swamp-edge town; no single model
 ---
 
-## Overview
+## Overview {#overview}
 
 Ishochi sits on a long sand ridge at the edge of [Ne' P'uqan]{.name data-type="place/feature"}, the Black Water, with the cypress swamp on one side and the pine flats rising toward the [[place-poktaskorgn|Old Ranges]] on the other. About 1,500 people live in it, the largest of the swamp-edge towns of the [[place-wikopihirgn|Dark Water]], and it is a town of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, by its own account and by the Great Sun's. The name means Ash, which is what is left in a hearth when the fire has gone out.
 
@@ -46,7 +46,7 @@ Pakalo is buried in Ishochi's mound. He came to the town with the coast women, l
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-wikopihirgn|Dark Water]]
 : the swamps of the Black Water

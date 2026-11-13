@@ -25,7 +25,7 @@ Nothing crosses the Grazian wall without a guide's leave, and no state in [[plac
 
 A register-writer at the [[place-suryadvar|Suryadvar]] shrine, asked by a newcomer how busy the wall is, turns back a page of the crossing-book before he answers. "Three or four caravans a year on each of the six roads, all of them in the weeks when the ice lets go. The guides keep roughly half of what a load is worth and the merchant house that organized the caravan keeps the rest. The owner of the cargo keeps the privilege of having moved goods across the highest mountains in the world."
 
-## Overview
+## Overview {#overview}
 
 The **Grazian Mountains** are the unaligned wall north of the Vedyari subcontinent and south of the [[place-khzryndsrtrgn|Khazrin Desert]]. [[place-tantsouregin|Tantsou]] lies north of the range's eastern reach. In the west the range ends in the foothills of the [[place-dunharargn|Dunhara]], and the road between Dunhara and Vedyara goes around it. The ridges answer to no state; the passes are watched by local guides, by the shrines at their summits, and by the occasional lowland garrison at their approaches.
 
@@ -82,7 +82,7 @@ On the Vedyari side the trade is governed as well as taxed. The kingdom of [[aff
 
 Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with [[place-drenavrspn|the Drenavar Spine]] of [[place-elavendre|Élavendre]], a range half a continent away in the western Aureldian world. The two share no geology, no culture and no mythology. The Tellumi name for the Western Descent, [[place-wstrndscnt|Dranavár]], is close enough to the Áelendan name for the Drenavar that travelers mistake one for the other in stories, and the two ranges are entirely separate.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara]]
 : Southern lowlands, fed by Grazian rivers

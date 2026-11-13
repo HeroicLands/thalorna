@@ -91,7 +91,7 @@ The Kelgar gather at a ring of standing stones in the largest of the Stormwood g
 - **The pastures.** The Bradhar have killed a Kelgar herdsman on the high pastures, and both tribes want a stranger to carry word between them before the clans settle it themselves.
 - **A peace in cattle.** A hersvald of Vuldstead's forest edge has let it be known that his district would trade its share of the raided herd for an end to the watch, and the Kelgar want to know whether he can speak for anyone but himself.
 
-## See Also
+## See Also {#see-also}
 
 [[place-stormwood|The Stormwood]]
 : the tribe's country

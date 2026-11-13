@@ -18,7 +18,7 @@ data:
   notes: "Fortress Town"
 ---
 
-## Overview
+## Overview {#overview}
 
 **Balehen** (about 9,900 people) is the strongest fortress the empire holds south of its capital and its gateway to the lands beyond. It is the great fortress-capital of [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]], a double-walled stronghold commanding the river at the first cataract, where the water breaks into rapids and the green valley fails.
 
@@ -33,7 +33,7 @@ What passes under it is the gold, ivory, ebony and slaves of the southern trade,
 - The war-temple of Qeztu, the war-god
 - The garrison barracks and the seat of the warden-Halzi'a
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatzuzllgl|The Selat of Zu-Zalu-Legulu]]
 : Parent selat

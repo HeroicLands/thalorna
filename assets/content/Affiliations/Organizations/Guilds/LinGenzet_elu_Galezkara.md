@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Genzet elu Galezkara** is the guild of advocates, and the license to argue in the courts of [[place-galezkara|Galezkara]] runs through it. Its Examiner tests every candidate before his name goes on the roster. A litigant who hires someone outside the roster takes a risk the guild will not share.
 
@@ -58,7 +58,7 @@ The advocates live between two walls. The imperial courts are where the guild's 
 
 Say you owe a debt and are sued for it. You go to the roster, choose an advocate, and agree a fee. The fee is paid in silver, since an advocate's fee is wages and common commerce, and what you are buying for it is standing: someone whom the guild has examined and will answer for.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The city whose courts its advocates serve

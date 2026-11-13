@@ -17,13 +17,13 @@ data:
   notes: "A small river-port town on the River Vilaris where the road meets the barges, whose boatmen, warehousemen and toll-clerks pass a great part of the capital's grain downstream and decide between them which barge goes and which one waits."
 ---
 
-## Overview
+## Overview {#overview}
 
 Ostenna sits where a navigable river meets the road network, a small river-port town of about 7,000 that transships grain and goods by barge toward the capital. Its boatmen, warehousemen and toll-clerks form a tight and prosperous community, and the river trade gives the town a reach and a worldliness out of proportion to its size.
 
 A toll-clerk at the landing, teaching a boy to read the barges, starts with the one fact that matters: "A great many of the sacks that go to [[place-orzara|Orzara]] by water pass through the hands of this town. The boatman knows the river, the warehouseman knows what is stored, and I know what has paid. When all three of us agree, the barge goes. When we do not, it waits, and a waiting barge is the loudest thing on the river."
 
-## Arriving
+## Arriving {#arriving}
 
 The river is the [[place-vylarisrvr|River Vilaris]], and Ostenna stands on a low bluff above it, upstream of the capital, with the road coming down to the water through a cutting. Below the bluff the [Landing]{.name data-type="place/site"} runs along the bank: stone quays, a row of tall warehouses with hoists jutting from their upper doors, and the [Toll House]{.name data-type="place/structure"}, the one handsome building in the town, with a colonnade on the water side and the tariff of the river cut into a bronze board beside its door. Barges lie two and three deep along the quays, and more wait in a line in midstream for a berth. On a still evening the smell of wet grain carries up to the town.
 
@@ -35,7 +35,7 @@ Carts bring the produce of the inland estates down the road to the Landing, and 
 
 The three trades of the toll-clerk's lesson run the town between them. The boatmen belong to a fraternity that keeps its own hall above the Landing, settles its members' quarrels and buries their drowned. The warehousemen are a handful of families who have held the same warehouses for generations. The toll-clerks are the emperor's men, and they are the only people in Ostenna who were not born there.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Ostenna is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ who answer for its taxes; by custom one _tavemos_ is a boatman and the other a warehouseman. The Toll House is not the town's. Its clerks collect the river toll for the _karezos_ (imperial steward) at [[place-alyssar|Alessar]], and no barge leaves the Landing without their stamp on its manifest. Order on the water belongs to the fraternity, and order on the quays to whoever is loading: a thief caught on the Landing is dealt with there, and the _tavemoi_ hear about it afterward if at all.
 
@@ -43,7 +43,7 @@ Ostenna is a chartered town under the [[affiliation-provinclys|Province of Aless
 
 The river is slow this season, and Orzara's price climbs while the barges wait. The boatmen, the warehousemen and the toll-clerks decide between them which barge is loaded, and a barge has waited eleven days in the midstream line while later ones went down. A toll-clerk was pulled from the river below the Landing, the fraternity buried him, and the _karezos_'s man from [[place-alyssar|Alessar]] who came to ask why can find nobody who will talk to him. A warehouseman's boy has found something in a grain sack that is not grain.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The boatmen's inns stand at the top of the cutting, where the road reaches the bluff, and are loud, cheap and full of men waiting for a berth. The town's one decent inn faces the Toll House across the Landing and serves the factors and the clerks. A party wanting passage downstream asks at the fraternity's hall, where a boatman with room on his barge names a price and a day; the day is the boatman's best guess and nothing more.
 
@@ -53,7 +53,7 @@ The boatmen's inns stand at the top of the cutting, where the road reaches the b
 - **The drowned clerk.** A toll-clerk is pulled from the river below the Landing. The fraternity buries him, and the _karezos_ sends a man from Alessar to ask why. Nobody at the Landing will talk to him, and he hires a party to ask for him.
 - **The sack that rattles.** A warehouseman's boy finds something in a grain sack that is not grain and brings it to the first strangers he meets, because he knows better than to bring it to anyone in the town.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province

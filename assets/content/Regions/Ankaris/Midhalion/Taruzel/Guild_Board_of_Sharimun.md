@@ -83,7 +83,7 @@ Sharimun's guilds have governed the town from their hall on the harbor square wh
 - **The sentence.** The furnace-hand's mother asks a party to prove her son innocent before the Gladiators' Guild collects him, and [[being-nbrnfsnn|Niburan Fusanuni]] offers to help.
 - **The accuser.** Niburan wants a party to learn what the man who accused him was paid, and by whom.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sharimun|Sharimun]]
 : the town the board governs

@@ -17,7 +17,7 @@ data:
   notes: "Coastal Village"
 ---
 
-## Overview
+## Overview {#overview}
 
 A boat caught out in weather that would wreck it anywhere else on the coast can run for Hvalgvík and find calm water the moment it rounds the headland. The village sits in a bay that gives shelter whatever direction the wind turns, which is the plainest reason two hundred people fish from it and not from the exposed coves further up the coast, and its standing with passing fleets rests on that one fact of geography.
 
@@ -29,7 +29,7 @@ A sheltering bay draws more boats in a storm than it can always feed afterward. 
 
 The village tells a tale as a warning. A woman of Hvalgvík went down after her dead husband and brought him home, and the tale says a Green Warden ended what she had brought back. It is a lesson about trying to reclaim someone from [[lore-nahilddty|Nahild]]. [[lore-mlgnahstry|Histories and Legends of Malagna]] keeps it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : the kingdom this coast serves

@@ -90,7 +90,7 @@ shewe ndayela ndeyemi selemba./
 
 Ruwozi men take a single lion-tooth at adulthood, and the taking is the ordeal by which they enter the tradition. Offerings are made where the herds cross the guide's ground; a beast lost to lions on that ground is not a loss but a rendering, and is entered in the tally as such. A Ruwozi who hunts a lion has not committed a crime against the clan—he has committed one against his own ancestry, and the griot will not speak his name in a genealogy afterward.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-lionruwozispr|Lion Spirit]]
 : the guide as a being, apart from the practices of its cult

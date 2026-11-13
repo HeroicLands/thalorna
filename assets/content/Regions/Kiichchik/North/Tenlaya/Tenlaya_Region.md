@@ -17,7 +17,7 @@ data:
 # terran_analog: the Great Plains east of the Rockies, from Texas to Alberta, Saskatchewan and Manitoba, with the Missouri and its tributaries for the village rivers, and the Columbia Plateau and the northern Great Basin beyond the mountains
 ---
 
-## Overview
+## Overview {#overview}
 
 Tenlaya Region is the land of the [[affiliation-tenlaya|Tenlaya]], the Grass People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is a sea of grass and sky at the center of the north, where the horizon runs out of sight in every direction and the herds move across it by the tens of thousands. About 300,000 people live in it, most of them in hunting bands that follow the herds and the rest in villages of earth lodges on the river bottoms. Beyond the western mountains it runs on into dry plateaus and basins, which the western bands hold.
 
@@ -43,7 +43,7 @@ West, beyond the plateaus, the mountains of the coast range close the Grass Peop
 
 The bands trade with the villages above all: meat, fat, robes and hides for corn, beans, squash, sunflower cakes and tobacco, at an autumn trading that is part market and part truce, opened each year with the Corn Pipe at [[place-tansheyawa|Tanshe Yawa]]. Robes and hides go on east to the Maple People and the One Fire, southwest to the Turquoise People for cotton cloth, pottery and turquoise, and west over the passes to the Cedar People.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tenlaya|Tenlaya]]
 : the Grass People, the nation that holds this land

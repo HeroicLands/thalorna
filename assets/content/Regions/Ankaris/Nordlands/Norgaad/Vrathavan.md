@@ -17,7 +17,7 @@ data:
   notes: "Fortified Harbor Town"
 ---
 
-## Overview
+## Overview {#overview}
 
 At Vrathavan the bells come first: dawn and dusk, every day, as reliable as the tide, and everything else in the town keeps their time. Iron bells hang from the stone-faced watchtowers of the town's timber palisade, and their chiming sets the day of about 800 people.
 
@@ -33,7 +33,7 @@ Vrathavan is foremost a military settlement, though commerce follows strength. T
 
 A smith of Vrathavan is the center of one of the kingdom's grimmer tales, of a guard made from iron plates and human bones in the [[lore-stormveldtkn|Stormveld year]], while much of the fleet was away ([[lore-nrgadhstry|Histories and Legends of Norgaad]] has the account).
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmnrgd|Kingdom of Norgaad]]
 : the kingdom whose principal port it is

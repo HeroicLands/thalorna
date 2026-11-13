@@ -14,7 +14,7 @@ data:
   government: vyalendra2
 ---
 
-## Overview
+## Overview {#overview}
 
 The indigo announces **Vyalendra Land** well before the first village does: a stain on the air and the water that tells a traveler the dyers are working upstream. The land is the country [[affiliation-vyalendra2|the city-state of Vyalendra]] holds, the valleys of the [Nilachari]{.name data-type="place/feature"} in the southern [[place-vedyarargn|Vedyara Region]] where cotton fields run to the foot of the hills on both sides, together with the river road that carries the finished cloth down to the sea. The city sits in the middle of it, and the land is a single manufacture spread across a hundred villages—carders in one, spinners in the next, dyers wherever the water is right, and weavers everywhere.
 
@@ -24,7 +24,7 @@ The land is _held_, and it is held by the loom. A village belongs to the house o
 
 The arrangement is not an assembly-republic and should not be mistaken for one. A Vyalendri village has no turn in any sabhra and no voice of its own; what it has is a master, and what the master has is a seat. The cultivators of the cotton land hold use-rights and nothing more, exactly as they would in a janpoda, and the difference they feel is whose door they go to.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql
 SELECT s.address.slug AS _ref,
@@ -57,7 +57,7 @@ Cotton and indigo are the land's crops, and both exist for the cloth. The valley
 
 What leaves is cloth, and it leaves by water. The river road down to the coast is the land's one artery, and it ends at [[place-nilatir|Nilatir]], the bale-port at the river's mouth three days below the last of the valleys. Everything the land makes passes through the yards there. The season in which the bales move is argued out every year with [[affiliation-chendrapur|Chendrapur]], whose galleys carry them beyond the coast.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vyalendra2|Vyalendra]]
 : the city-state that holds this land

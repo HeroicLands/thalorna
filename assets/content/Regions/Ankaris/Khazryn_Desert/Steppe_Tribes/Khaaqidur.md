@@ -88,12 +88,12 @@ The garrison has its own count. The Budakur have told it that the Khaaqidur are 
 
 The Khaaqidur count their dovaqs back to the one into whose camp the sky-gold fell, and the count runs youngest child to youngest child. They hold that they wintered at Dujar before the first banner. The feud with the Budakur is as old as the Empire's pay, and the Khaaqidur date it from the year the Budakur first took silk.
 
-## Hooks
+## Hooks {#hooks}
 
 - A Tantsou officer wants a guide to Dujar and offers the price of a caravan's passage. The only guides who know the way are Budakur, and they want a cup back.
 - One of Khaaqidlun's elder brothers wants the sky-gold looked at by someone who is not of the tribe, because he says the knife is not the knife his father showed.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

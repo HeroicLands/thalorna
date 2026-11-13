@@ -81,7 +81,7 @@ Barter has structural limitations that drive cultures toward currency once the c
 
 Where these limitations bite hard enough, cultures develop formal currency. Where they don't, barter persists indefinitely—as it has in the Khazrin steppe, the Nordland interior, and the southern savannahs for generations.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-kinhalcrdt|Kin and Hall Credit]]
 : the credit-system extension of barter customs in clan- and tribal-based polities

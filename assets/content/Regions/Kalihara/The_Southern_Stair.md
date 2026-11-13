@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Southern Stair is the road over the southern side of [[place-klhrring|the Ring]] of [[place-klhrcntnnt|Kalihara]]. It leaves a river valley of the southern coast and climbs a long ridge to the crest, terrace above terrace, with the steps of the road and the walls of the terraces built as one work of stone. The Kaliharans call the ridge _avothani_ (high ridge), and the lineage [Avothani]{.name data-type="affiliation/lineage"} that holds the ridge and the stair cut into it is named for it. From the crest the road goes down the inner face to the southern shore of [[place-klhrlake|the Bowl Lake]] in [[place-klhrbowl|the Great Bowl]].
 
@@ -30,7 +30,7 @@ Looking down, the stair shows the whole southern coast: the valley it leaves, th
 
 The stair is the longest climb of the three passes, steps the whole way, and it takes three days from the valley floor to the crest. Loads go up on porters' backs, since nothing else can manage the upper steps. In [Deepwater]{.name data-type="lore/calendar"} the terrace walls slump and the stair is closed until the Avothani have rebuilt them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrring|The Ring]]
 : the mountains the stair climbs

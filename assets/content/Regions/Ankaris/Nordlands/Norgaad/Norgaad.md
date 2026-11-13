@@ -14,7 +14,7 @@ data:
   government: kingdmnrgd
 ---
 
-## Overview
+## Overview {#overview}
 
 "Nobody crosses the north without crossing Norgaad," a pass-guide at [[place-tvarnmark|Tvarnmark]] tells a caravan hand who has asked whether there is a way around. "There is the sea, and then there is us." Norgaad is the land of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], at the center of the [[place-nrdlndsrgn|Nordlands]] between its western and eastern kingdoms. About 400,000 people live in it, and it straddles the great fjords and mountain passes that join the western and eastern reaches of the frozen north.
 
@@ -24,7 +24,7 @@ The interior is vast mountain ranges and deep valleys, and the people who live i
 
 Between the ranges the country opens. The rolling heartland around [[place-asgarthul|Asgarthul]] has a fertile river valley and farmland that yields extraordinary crops by northern standards, and Tvarnmark stands on the southern edge of the [[place-flarnfjall|Flarnfjall]] mountains where two swift rivers meet. The coast is a different Norgaad. [[place-gnaldurfjord|Gnaldurfjord]] lies deep in a narrow fjord on the western coast, reached only by sea or through treacherous passes; [[place-vrathavan|Vrathavan]] is the principal port of the northern coast; and the coastal settlements keep respectable fleets, among them the longship yards of [[place-thraskvik|Thraskvík]]. At [[place-hvarnvik|Hvarnvík]] a current keeps the water open when ice locks every other bay in either direction.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmnrgd|Kingdom of Norgaad]]
 : the kingdom that holds this land
@@ -40,3 +40,9 @@ Between the ranges the country opens. The rolling heartland around [[place-asgar
 
 [[place-vruthborg|Vruthborg]]
 : a dead jarl's fortress in the Flarnfjall, whose furnace still burns
+
+[[place-glurvholm|Glurvholm]]
+
+[[place-holafell|Holafell]]
+
+[[place-thraldholl|Thraldholl]]

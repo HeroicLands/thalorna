@@ -197,7 +197,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the welcome. The crown's cordiality to the Order is warm and sincere, the [University of Péravel]{.name data-type="affiliation"} dominates the capital, and the Order has taken artifacts out of the sacred sites for as long as it has been permitted into the kingdom. The Áelendan count the permission, and not any single theft, as the offense. The crown profits from an institution that is robbing its own ancestor-people, and the guides it provides are excellent, courteous and do not lead the Order anywhere that matters. The Colleges teach it to every student in [[lore-harproomqs|the Questions of the Harp-Room]]: [The crown's guides are excellent. They show/the guest all he can bear to know.]{.verse} Everyone concerned understands the arrangement, and the Élavendri call it diplomacy.
 
-## See Also
+## See Also {#see-also}
 
 [[place-elavendre|Élavendre Region]]
 : the woodland kingdom and its cities

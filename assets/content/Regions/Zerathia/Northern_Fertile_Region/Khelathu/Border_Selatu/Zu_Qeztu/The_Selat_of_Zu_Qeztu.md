@@ -56,7 +56,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 **The Selat of Zu-Qeztu** holds the western grazing margin, the horse-pasture where the empire's irrigated fields give out and the herders' country begins, and it keeps the watch against raiders. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the levies, collects the selat's taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The name carries the war-god's, but the patron is the sun-god [[lore-uqaadty|Uqa'a]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-zuqeztunome|Zu-Qeztu]].
 
@@ -64,11 +64,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "The raiders carry arms from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]," a patrol-leader says to the new troopers at [[place-zileti|Zileti]], "and I will not explain it to you, because nobody has explained it to me." The Halzi'a's work is to keep the pastures and the watch: the horses graze the margin, the levies ride its edge, and the herding clans beyond it are traded with warily and watched always. The Halzi'a house is [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the kin of the hill-nomad conquerors, settled on these pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), and it makes the yearly offering at [[place-zelhalzi|Zel-Halzi]]. His seat is Zileti, where his court sits and the selat's chief temple of [[affiliation-uqaa|Uqa'a]] stands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Zu-Qeztu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-borderselatu|The Border Selatu]]
 : Parent selat-class

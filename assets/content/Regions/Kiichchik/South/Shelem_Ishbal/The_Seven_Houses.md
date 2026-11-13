@@ -13,7 +13,7 @@ data:
   packFolder: xelemixbal
 ---
 
-## Overview
+## Overview {#overview}
 
 The Seven Houses, Nuq'el Ch'alish, are seven buildings strung a few days apart along a line that runs south from [[place-ashcountry|the Ash Country]] into [[place-thethirst|the Thirst]]. Each is a single long hall of fitted gray stone, roofless or roofed, with one doorway at its northern end and one at its southern, and no other opening. They stand alone in open country with no road between them. Every house has a rule a party must keep while it is inside, and a price the party pays to come out of the far door. A warrior of the southern cities who swears to pass all seven in order has sworn the boldest oath the waste allows.
 
@@ -39,7 +39,7 @@ The seventh house has no rule anyone can name and nothing in it. It is a long, c
 
 The death-walkers of [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]] hold that the Seven Houses are chambers of [[place-chaltzumaq|Ch'al Ts'umaq]], the passage below, standing in the open air, and that a soul which passes all seven living knows the way through the underworld before it dies. They recite the houses' rules to any party that tells them it means to try. The priests of the cities teach nothing about the houses at all, and nobody claims to know who built them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ashcountry|The Ash Country]]
 : the first three houses

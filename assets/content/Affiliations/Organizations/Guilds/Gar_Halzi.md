@@ -59,7 +59,7 @@ Authority
 Founded
 : Before the current dynasty; the institution is older than reliable record
 
-## Overview
+## Overview {#overview}
 
 Say you are a trader with two thousand silver gezan to move from [[place-galezkara|Galezkara]] to [[place-garanlaghet|Gar-Anlaghet]]. You do not load a barge with metal. You walk into the account-house of a great temple, hand over your silver, and walk out with a sealed clay tablet that any **Gar-Hálzi** chapter in the empire will honor. A Gar-Hálzi Lem-Halzi would tell you why it works: "The temples keep accounts with each other. Your tablet is a promise between two houses of the gods, and the chapters settle it between themselves."
 
@@ -162,7 +162,7 @@ A chit is written on distinctive papyrus stock whose watermark, held to the ligh
 - **The Vilérian Probe.** The Imperial _Tarkelos_ (treasury officer) of the Tarmeks Orzan has made discreet inquiries through diplomatic intermediaries about whether the Gar-Hálzi would consider formal correspondent arrangements with the Vilérian system. The proposal is commercially attractive, since it would narrow the changer spread and speed cross-border commerce, and theologically delicate, since it treats the Tarmeks as a peer. The Council is debating, the priesthood is divided, and the Gar-Au's court is watching to see whether it threatens the institutional separation that has served the empire for centuries.
 - **The Counterfeit Wave.** A coordinated operation has put a large volume of false copper gezan pieces into the markets of Galezkara and Gar-Anlaghet. They pass casual inspection and fail assay at the temple balance. Several chapter-treasuries have reluctantly taken them at face value to protect market confidence. The investigation of the Ilmy'Qelt Weglat is closing in on a suspected smithy, but the smith is the cousin of a powerful selat official whose protection complicates prosecution.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aukhlthcrncy|The Au'Khelathu currency]]
 : Weights, ratios and the token copper the Gar-Hálzi issues

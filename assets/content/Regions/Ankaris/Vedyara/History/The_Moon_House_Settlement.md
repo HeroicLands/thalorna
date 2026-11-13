@@ -51,7 +51,7 @@ They put a cousin of the dead king, [Elvunata]{.name data-type="being/npc"}, on 
 - **The tenth district.** The crown's revenue comes from the waterfront and market ground that belongs to no house: [[place-greatbazaar|the Great Bazaar]], the assay, the customs and the mint.
 - **The charter rule.** A House that loses its trade loses its seat.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The hall of nine seats**, and a court that has run on these terms for four centuries.
 - **The Great Bazaar** as crown ground, where a foreign factor buys on the floor as a Kulena does.
@@ -59,7 +59,7 @@ They put a cousin of the dead king, [Elvunata]{.name data-type="being/npc"}, on 
 
 Three years later [[lore-hndrdbnnrs|the Storm]] came down [[place-wstrndscnt|the Western Descent]], and the city's new court spent its first years watching the west.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-chendrapur|Chendrapur]] · [[place-moonhouse|the Moon House]] · [[place-chendrapur2|Chendrapur]]
 - [[place-greatbazaar|The Great Bazaar]]—the crown's tenth district

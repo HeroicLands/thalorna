@@ -296,7 +296,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin the Tellumi tell against themselves is the lost town. A prince who counted gold and not water turned a veiled woman from his gate in a dry year, and the tellers say she was the Mother of the Oasis. The town died of it, and the prince's debt tablets said he was rich. The cloth-tellers sing it in the caravan yards of Kethramír, and the revived House of Vahurdash hears it as an insult and answers that the drought was a trial and the return its answer. A second failing runs behind it: the Breaking took four of the seven cities in order, Zargandur in the second year, Ashkarad in the fifth, Kethramír in the eighth and Shirvan in the eleventh, one princely house at a time, while Mernagord and Ushtra-ber stood and Vahurdash lay empty, and the Council that stands for them today coordinates and does not rule.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the seven houses and the Council that speaks for them

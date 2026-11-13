@@ -50,7 +50,7 @@ The highland villages keep the Aureldian faiths in their village shrines and kee
 - **The snowmelt.** In spring the streams flood below the passes, and the paths along them go under.
 - **The winter.** A party caught in the highlands by the first heavy snow is shut in until the thaw.
 
-## See Also
+## See Also {#see-also}
 
 [[place-asturath|Asturath]]
 : the mountain kingdom the highlands belong to

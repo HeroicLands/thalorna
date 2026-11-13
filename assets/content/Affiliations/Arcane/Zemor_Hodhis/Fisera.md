@@ -99,7 +99,7 @@ The fellowship's internal culture prizes reliability, deep knowledge, and long s
 
 Politically, the Zulen Fisera is a stabilizing force within the Order. Its members instinctively resist sudden change, defend established practices, and prioritize institutional continuity over reform. This conservatism makes the fellowship a natural ally of [[affiliation-sideris|Sideris]] in most governance debates, and the Earth-Metal bloc is the Order's most formidable obstacle to any faction that proposes rapid institutional change. Critics describe this as reactionary; the fellowship's members describe it as responsible stewardship of an institution that has survived for centuries by not rushing into things.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework

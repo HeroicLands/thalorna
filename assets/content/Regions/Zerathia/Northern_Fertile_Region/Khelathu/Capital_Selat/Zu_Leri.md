@@ -18,7 +18,7 @@ data:
 
 **Zu-Leri** (the **High City**) is the oldest and highest tell of [[place-galezkara|Galezkara]], crowned by the [Temple of Saq'aru]{.name data-type="place/structure"}, dedicated to [[lore-psaqarudty|Saq'aru]], craft-god and patron of the capital, and ringed by the walled mansions of the priestly and noble houses. It stands above the rest of the city because the rest of the city was built on top of what came before it, layer upon layer, with Zu-Leri rising highest of all. The deepest excavation into its ground reaches further into the capital's past than any document in the archives of [[place-garmedjatozo|Gar-Medjatozo]]. [[place-waligelu|Wal-Igelu]], the **Drowned Way**, runs through it as a chain of gardens.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The imperial city

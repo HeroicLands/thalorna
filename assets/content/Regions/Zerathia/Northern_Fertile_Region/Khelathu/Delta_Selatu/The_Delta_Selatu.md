@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Where [[place-zumeleshrvr|the Zumelesh]] reaches the [[place-vylarianse|Vilérian Sea]] it breaks into a fan of channels, marshes and silt-islands, and that fan is the Delta: the richest and most worldly land in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. The Delta Selatu—ten provinces—are the empire's face to the sea and its purse. They hold the international ports, the garden strip that grows the empire's luxury crops, and the densest farmland in the known world, and their Halzi'a are merchants and diplomats as much as governors. Their estates and counting-houses make them, together, the wealthiest aristocracy in the empire.
 
@@ -116,11 +116,11 @@ Run the Delta as the empire's seafront and its money: a country of trade, custom
 
 Adventure here is mercantile and maritime—shipping intrigue and insurance fraud, customs-running through the marsh channels, foreign agents working the quays, Taruzelian and Vilérian factors playing both ends, papyrus and salt monopolies worth killing over, and the constant low friction between the delta's outward-facing Halzi'a and the suspicious river-lords upstream. Fish, fowl, salt, paper, wine and foreign news are abundant. Grain is scarce, because it comes from upriver, and so is any love for the tax-farmer.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Delta Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]] of temple-attested weight-pieces in copper, silver and gold, reckoned in gezan and qelu. The delta ports are also where foreign coin circulates most freely, and where the Gar-Hálzi treasuries do their heaviest banking and letter-of-credit business with foreign houses. A factor paying in Vilérian coin has it weighed and discounted at the quay before it buys anything.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the empire

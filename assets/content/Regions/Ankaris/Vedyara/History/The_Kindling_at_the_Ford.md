@@ -51,14 +51,14 @@ He stayed a season. He fasted, he confessed the kingdom's sins aloud before the 
 
 He burned what he could. Then he put the ember of that fire in a clay pot and carried it away, and the sect holds that every ember any of its priests has carried since is that ember fed and passed on.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The vessel.** The clay vessel with a living ember in it is the one thing a _jvelita_ will not give up, and carrying it is what ordination in the sect confers.
 - **The rite.** The sect's burning of a _shorukshetra_ (blood-field)—a fast, a confession of the district's sins before the ember, and grass-fires walked across the field in lines—is the founder's season repeated.
 - **The doctrine.** The purging fire is owed to the dead before it is owed to anyone else. The orthodox teaching that the unburned dead are the gods' affair and not a priest's is the quarrel behind the sect's first parting from the city temples ([[lore-agmipartng|the Three Partings]]).
 - **The [Night of the Kindled Road]{.name data-type="lore/gathering"}.** At every autumn equinox the priests light their vessels into a common fire at a rendezvous and carry new embers out. In every twelfth year the rendezvous is the east bank of Olurtaran.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-agmipantra|Agmi-pantra]]—the sect the fire founded
 - [[place-olurtaran|Olurtaran]] · [[lore-unburnford|the Unburned Ford]]

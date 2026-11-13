@@ -47,7 +47,7 @@ The Senali have their own ways of dealing with the numinous, and they are _of_ i
 
 Humans reach only the outer fringe. The [[lore-aelendnppl|Áelendan]], whom the Senali love, are taught that fringe and no more. They hold the concept without being able to grasp it whole, because the rest is closed to them. Their words for it are Senali loans, and they have none for the inner ways ([[skill-aelendlng#the-senali-loans|the Senali loans]]).
 
-## History
+## History {#history}
 
 The full history of the Senali is known only to the Senali, and they do not share it. What fragments have reached human scholars—through rare encounters, ancient texts, and the oral traditions of peoples who live near Senalian enclaves—paint a picture in broad, mythic strokes.
 
@@ -131,7 +131,7 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] represents a different kind of
 
 The Senali keep three conclaves in [[place-kiichchik|Kì'ìch'chik]]: [[place-hersellonku|Hersellonku]] in a deep pine forest of the north, [[place-lirnasto|Lirnasto]] in the jungle of the central lowlands and [[place-ilkaivesto|Ilkaivesto]] in a swamp of the south, just north of the wastes. Their contact with the peoples there is the thinnest of any of these exceptions. The Senali of the conclaves have little to do with humans and give their attention to the country they live in. The one arrangement is an understanding with the realm of [[affiliation-kankul|K'ankul]], whose people stay out of Lirnasto's jungle and do not disturb those who live there. The peoples near the other two conclaves keep away from them without any arrangement at all.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-flkkhazar|Khazari]]
 : The second elder race; the Deep Folk

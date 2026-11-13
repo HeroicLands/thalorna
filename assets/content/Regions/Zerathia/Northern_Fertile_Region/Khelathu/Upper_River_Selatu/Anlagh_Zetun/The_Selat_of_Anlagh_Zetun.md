@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "[[lore-qearetdty|Qe'aret]] keeps the scale," a priest of her temple in [[place-anlaghzetun|Anlagh-Zetun]] tells a petitioner who has come to dispute a boundary, "and everything in this selat is measured on it: the field, the harvest and the store. Take your cord-marks to the survey-court and your tally of the grain to the Halzi'a's steward, and do not expect either to hear the other's case."
 
@@ -75,11 +75,11 @@ Anlagh-Zetun is the empire's breadbasket, and its importance is exactly its grai
 
 Adventure here is the intrigue of land and bread: a rigged survey, a stolen grain-tally, a hoarding Halzi'a, a sabotaged dike, a famine someone is profiting from. Grain, order and tradition are abundant. Novelty, coin and any patience for the delta's ways are scarce.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Anlagh-Zetun uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], but its economy runs more on grain-render and granary-account than on struck metal. Taxes are paid and wealth is held in stored grain as much as in silver, reckoned and warehoused through the temple-treasuries and the [[affiliation-garhalzi|Gar-Hálzi]] houses. The river-port of [[place-amqelulegez|Amqelu-Legez]] is where the selat touches the coined economy most. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : parent selat class

@@ -82,7 +82,7 @@ To the **south** lies the Central Rainforests, whose tribes trade cautiously wit
 
 Far to the **south**—beyond the Central Rainforests, across an expanse none of the three regional civilizations has meaningfully explored—lie the [[place-sthrnsvnhs|Southern Savannahs]]. The region's knowledge of the deep south is filtered through the rainforest peoples who trade, intermittently, with savannah herders; no northern power has ever sent an expedition to the southern savanna that returned with reliable reports.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xerathia|Zerathia Continent]]
 : parent continent
@@ -110,3 +110,9 @@ Far to the **south**—beyond the Central Rainforests, across an expanse none of
 
 [[affiliation-nkaruthar|Nkaru'thar]]
 : Okharik religion
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+
+[[place-bethuargn|Bethua Region]]
+
+[[place-okharisrgn|Okharis Region]]

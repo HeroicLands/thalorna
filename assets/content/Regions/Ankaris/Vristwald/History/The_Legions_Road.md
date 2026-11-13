@@ -125,7 +125,7 @@ Balthreth's pass scouts will not serve a foreign claimant, and they say so befor
 
 The road could carry a legion north, and in 291 one marched up it to burn Waldburg and never came back ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]). After that the posts could neither be supplied nor safely relieved. About 340 the Empire withdrew them one by one to the line of Moktur's mountains, and the Varokh burned what would burn behind them and left the stone, because there is nothing in stone a village needs. The reciters began the count again from the winter the last post burned, and the forest's southern edge has been the Empire's frontier and not its road ever since.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The road.** Overgrown and broken, its bridges gone to the rivers, its ruts still legible under the moss where the ground is dry. [[affiliation-blckpnwlvs|The Blackpine Wolves]] hunt travelers on a stretch of it north of the Vilérian border garrison, among milestones that still count miles to a crossing no legion reached.
 - **The posts.** Stone shells in the southern woods, picked over by generations of Varokh treasure-hunters. [[place-thrastein|Thrastein]]'s standing stone watches one, and a Vilérian claimant is presently trying to buy the ground under it; [[place-rikstein|Rikstein]]'s ruined tower tempts outsiders to claim the ground around it.
@@ -134,7 +134,7 @@ The road could carry a legion north, and in 291 one marched up it to burn Waldbu
 
 A milestone that marks more than distance is a story every Vandstein child knows: one stone on the road was cut with a column of names instead of a number, and the treasure-hunters who have looked for it have found three different stones, each claimed to be the one.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]
 : the legion the road carried north

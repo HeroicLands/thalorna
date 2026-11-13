@@ -17,13 +17,13 @@ data:
   notes: "A walled toll-town of about five thousand built across the throat of a mountain pass, where the fur and iron trade between the province and the Vandstein villages pays at one gate, and the command of that gate changes hands from season to season among the border lords."
 ---
 
-## Overview
+## Overview {#overview}
 
 Korras commands one of the principal passes through [[place-moktur|Moktur]]'s mountains, and the first thing a carter learns about it is the price of getting through. The town of about five thousand is a fortified toll-town grown fat on the customs levied on the overland trade between the [[affiliation-vylarinmpr|empire]] and the lands beyond.
 
 Its garrison and its toll-keepers answer to the military _therkos_ (governor). Control of Korras's tolls is a prize worth killing for in [[affiliation-provncmktr|Moktur]]'s rough politics, and more than one border lord has risen or fallen on who holds the gate. A carter who has paid at Korras for years advises a younger one to be civil to the toll-keepers and to remember the name of whoever is in command that season, because it changes.
 
-## Arriving
+## Arriving {#arriving}
 
 The pass road comes up a gorge with a white river in the bottom of it, and for the last hour the cliffs close until a loaded mule can barely pass another. Then the gorge opens into a bowl of steep pasture, and Korras fills the bowl's far end. The town is built across the throat of the pass from cliff to cliff, a wall with the road running through a single gate under a square tower, and the town's houses climb the slopes on either side of the road behind it. There is no other way through. A traveler going north pays at the gate, and so does a traveler coming south.
 
@@ -37,7 +37,7 @@ Korras lives by the gate. Furs come south through it from the [[place-vandstein|
 
 The tolls go to [[place-tyrellan|Tirellan]] in coin, under guard, every month, and they pay the _therkos_'s auxiliaries. The commander of the gate keeps a share of what he collects, by long custom, and the share is why the border lords want the command.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 The commander of the gate is named by the _therkos_ each spring and holds Korras until the next. The border lords ask for the command with gifts, with men lent to the _therkos_'s campaigns and with marriages, and a lord who holds it for one season has the coin to make a second request better than the first. A lord who is refused the command and takes it anyway has done so more than once, and the _therkos_ has confirmed him afterward more than once, when he held the gate firmly. The present commander is a younger son of a border house, with sixty of his own men and two hundred of the _therkos_'s auxiliaries on the wall.
 
@@ -47,7 +47,7 @@ The toll-keepers do not change with the command. They are clerks of the province
 
 The gate is for whoever can hold it. The present commander, a younger son of a border house with sixty men of his own and two hundred of the _therkos_'s auxiliaries, has it until spring, and a lord refused the command this year has sent word that he will come for it at midsummer. The tolls pay the _therkos_'s riders, so the province wants the gate held firmly more than it cares who holds it. A muleteer's load sits at the gate over a quarrel about the painted board, and the widow of a herder found dead below the cliff will speak only to a party with no lord behind it.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The inns stand along the road inside the gate, one against the next, and every one has a yard for mules. The [Marten]{.name data-type="place/structure"} is the furriers' inn, warm, crowded and loud with bargaining in two tongues, and its keeper will tell a party what the toll is today before they ask. Outside the gate, on the south side, a carters' yard takes those who mean to pay at first light and be through before the queue forms.
 
@@ -57,7 +57,7 @@ The inns stand along the road inside the gate, one against the next, and every o
 - **The painted board.** A muleteer swears he paid the dues shown on the board, and the toll-keepers swear he paid a third less, and his load is held at the gate until it is settled. He wants a party to read the board as it was painted last year.
 - **The steading on the edge.** A herder of the upper pastures has been found dead below the cliff, and his kindred say he fell. His widow says he was pushed, and she will not say by whom until a party with no lord behind it comes up to hear her.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provncmktr|Province of Moktur]]
 : parent province

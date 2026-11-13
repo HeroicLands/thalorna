@@ -46,7 +46,7 @@ The test the consortium applies is the master's practice, not the product's perf
 
 If you bring a new method to a guild, bring a master who is willing to say he taught it to you. The consortium will accept a method with a lineage before it accepts a method with a result.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the region it belongs to

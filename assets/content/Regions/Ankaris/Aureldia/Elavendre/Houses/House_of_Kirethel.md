@@ -93,7 +93,7 @@ The lowland houses of the Berav basin acclaimed [Táldoren]{.name data-type="bei
 
 The tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]] about 619 AF, and the house has reigned since in the balance the region describes, between the Order inside the walls and the Áelendan above the tree line. [[being-aurenthekir|Áurenthe]] was crowned about 698 AF, at thirty, on her father's death, and she has reigned since in the manner of her house.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmlvndr|Kingdom of Élavendre]]
 : the realm the house rules

@@ -38,7 +38,7 @@ The Wardens change their watches at the turns, and the council hears what has be
 
 A party does not attend a council. It meets the council's result: a Warden who will take no guest through the pass this season, a delegate on the road home who asks an outsider to carry a word to a village shaman, a market at which the Truce-Warden turns a man out for a quarrel he did not start.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eshalshldg|Ésalosa Lodge]]
 : where the councils sit

@@ -78,6 +78,6 @@ The march is short of men in a season that needs them. The Order hires guards fo
 
 The old war is stirring as well. A hunter has brought into Valdun an imperial helmet that has not rusted and will not say where in the woods he found it, and the [[affiliation-ordoarcanis|Order]]'s antiquarians in the town are paying for his road to the lost cohort's camp. The drovers of the southern hills hold that only one place in the margin keeps iron bright, and they drive their flocks the long way round it.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-elavendre|Élavendre]] · [[place-sorvanda|Sórvanda]] · [[place-vrystwald|Vristwald]]

@@ -14,7 +14,7 @@ data:
   packFolder: taruzel
 ---
 
-## Overview
+## Overview {#overview}
 
 "Deep water is free," a pilot of [[place-yamuzel2|Yamuzel]] tells a captain who asks his fee. "You are paying me for the shallow." The waters of [[place-taruzelrgn|Taruzel]] are the strait between the islands and the Amradi shore, the narrows at the heart of the archipelago, and the channels that wind between the six inhabited islands and the rocks and islets around them. Taruzelians call them all **Zupumun**, from _zupum-_, to run, with _-un_, where the act is done: where the water runs. A current is a _zupumush_ in Taruzeli, and every pilot in the islands can name the currents of his own waters and the hours they turn.
 
@@ -54,7 +54,7 @@ Every party on the coast wants a hand on the water this year. [[being-dlzrtndn|D
 - **The lantern.** A shipowner who lost a hull off the north cape offers a party a share of anything it recovers to find out who shows the lantern.
 - **The toll.** A foreign master in the roads below the Strait Fortress hires a party to learn how many votes [[being-dlzrtndn|Delzuru Tanaduni]] has for his toll before the summer session.
 
-## See Also
+## See Also {#see-also}
 
 [[place-taruzelrgn|Taruzel Region]]
 : the archipelago and its islands

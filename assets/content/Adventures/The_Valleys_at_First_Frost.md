@@ -17,7 +17,7 @@ data:
 
 At the first frost the men of the [[affiliation-ghtkrtrb|Ghotakur]] leave their winter valleys at the forest's edge and go north into [[place-gwtkrrgn|Ghotaqor]] to mend the wall, and the valleys are held by women, boys and old men until the thaw. This autumn a camp of the [[affiliation-svghrtrb|Savaghur]], broken by last year's ice winter, has come to the mouth of a Ghotakur valley with too few beasts to live through the cold on its own ground. The two tribes have been at feud over these valleys for three generations, and the last time a Savaghur camp came into this valley the Ghotakur drove it out into the snow. The Savaghur camp head has not come to raid. He has come to end the feud, and he does not know how to ask.
 
-## Overview
+## Overview {#overview}
 
 The adventure runs over the weeks from the first frost to the first snow that closes the grass, on the northern grass of the [[place-hskrrgn|Ghoshiqor]] where it meets the forest. Its clock is the cold. Every night is colder, the Savaghur camp's beasts are dying at the valley mouth, and once the snow lies the camp either has shelter or does not.
 
@@ -33,7 +33,7 @@ This is a quarrel between two tribes over ground both need, with a third tribe o
 | herds from the gathering man              | the camp sworn under his banner                          | the Savaghur camp, and the gathering man's riders                          |
 | blood                                     | nothing anyone wants                                     | nobody                                                                     |
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 [Savaghjilaq Savaghur]{.name data-type="being/npc"}, head of the Savaghur camp, lost half his beasts in the ice winter and more this summer. His own valley is open to the north wind and will not carry what he has left through another hard winter. He has brought the camp to the mouth of the Ghotakur valley to ask for shelter as guests. He cannot ask: while blood is owed between two kindreds, a man of one does not eat in the tent of the other, and guest-right begins with salt. The only roads out of a feud are a payment of horses or a marriage, and he has no horses.
 
@@ -65,14 +65,14 @@ The turn comes when the party understands what Savaghjilaq wants. It lands at wh
 
 Once the turn lands, the party is a go-between, the one role nobody in either camp can take. It needs a match, a witness, and Jiboqlun's consent; or it needs Khilodlun to take the camp; or it needs to stop the young riders long enough for one of those to happen. The man from the wall turns the valley-mother's arithmetic: her valley needs men more than it needs to be empty.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A fur trader of [[place-qisomrktcmp|Qiiso]] pays the party to winter with the Ghotakur and buy their sable before the Jobizur fur party does, and the Ghotakur sell only to people who have held a valley with them.
 - **The mercenary or common soldier.** Ghotaqtoliz hires the party at the first frost to hold a valley camp until the snow, because every man the valley can spare is going north.
 - **The leader.** [[being-khilodlunbii|Khilodlun Biilokur]], dovaq of the [[affiliation-jbzrtrb|Jobizur]], wants someone who belongs to neither tribe to carry her offer to the Savaghur camp, and to bring back its answer before the snow.
 - **The lone wanderer.** The wanderer has a debt to [[being-tijodorquns|Tijodorghun Savaghur]], the Jobizur's old shaman, who was born Savaghur and asks the wanderer to go and see what has become of his birth tribe's camps.
 
-## The Opening
+## The Opening {#opening}
 
 Read or paraphrase:
 
@@ -211,7 +211,7 @@ Read or paraphrase:
 
 **If bypassed, failed or cut short.** The young riders ride in at dusk; see If the Party Does Nothing.
 
-## If the Party Does Nothing
+## If the Party Does Nothing {#if-the-party-does-nothing}
 
 - The Savaghur camp waits at the valley mouth. Its beasts die one a night.
 - Voghaltoliz takes the valley's boys north to the wall.
@@ -219,14 +219,14 @@ Read or paraphrase:
 - The young riders send word to the gathering man's riders that a Savaghur camp holds a Ghotakur valley, and the herds come with the thaw.
 - The Ghotakur men come home at the thaw to a valley held by their enemies, and the feud has a new winter to tell.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the match was made.** The feud ends with the words, and the two camps share the valley until the thaw. Savaghur men go north to the wall under the wall-oath, and some come back wall-sworn. Ghotaqtoliz, at the thaw, must decide whether the Ghotakur keep a peace their valley-mother made, and the moot at Jiboq argues it all spring.
 - **If the Savaghur went to the Jobizur.** Khilodlun's tribe is a camp larger, the Savaghur a camp smaller, and the other tribes of the northern grass count her dependents again.
 - **If the valley was held.** The Savaghur camp loses what is left of its herd in the snow. Its young riders swear to the gathering man in spring, and they remember the party's faces.
 - **If blood was shed.** The feud has a fresh debt on each side, and the Ghotakur men come home to it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ghtkrtrb|Ghotakur]]
 : the wall-keepers of the forest edge

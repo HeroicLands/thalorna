@@ -22,7 +22,7 @@ The [[affiliation-asguardian|Asguardian Pantheon]]'s own account names the Eye a
 
 The [[affiliation-nahild|Faith of Nahild]] takes an obsidian shard and the Eye of the Void together as its symbol. It venerates the Eye in every one of its hidden hovs and holds that the relic amplifies the powers of death and chaos. In the [Rite of Eternal Darkness]{.name data-type="lore/custom"}, a secret ceremony of the clergy, the cult beseeches power from the Eye to deepen its bond with Nahild. [[affiliation-nalok|Nalok]], the Order of the Void, works in secret to widen the Eye's influence over whatever ground its members can reach.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-theshadow|The Shadow]]
 : the corrupting force the Eye pours into the world

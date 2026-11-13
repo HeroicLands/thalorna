@@ -100,7 +100,7 @@ Two festivals mark the year. The [Festival of the First Harvest]{.name data-type
 
 Five ordeals are held to win Frodvin's favor, and each asks for something a field or a sickbed would ask. The [Pilgrimage of Growth]{.name data-type="lore/custom"} is a journey to sacred sites where the faithful plant trees and restore life to barren land. In the [Healing Trial]{.name data-type="lore/custom"} a participant must heal a grievously injured creature using only the natural remedies attributed to Frodvin. The [Peacewalk]{.name data-type="lore/custom"} asks the faithful to mediate a dispute between feuding families or tribes and bring them to peace. In the [Blessing of the Wild]{.name data-type="lore/custom"} a participant survives alone in the wilderness, relying on the connection to nature and on Frodvin's guidance. In the [Seed of Life]{.name data-type="lore/custom"} the faithful nurture a seedling through harsh conditions until it grows into a strong, healthy tree.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-gronhond|Gronhond]]
 : the Order of the Green Hand, herbalists and caretakers of the sacred groves

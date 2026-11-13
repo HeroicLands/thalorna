@@ -52,7 +52,7 @@ You may go and see the place, though few do. The city stands on open pasture in 
 
 The count is Vedyara's alone. Nobody west of the march road or north of the wall reckons from it, and a Vedyaran envoy abroad carries two dates and converts neither.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-mdstncnt|The Madustan Count]]
 : the year-count dated from the reign

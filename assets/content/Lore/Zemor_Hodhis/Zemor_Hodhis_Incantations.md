@@ -108,6 +108,6 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-zemorhodhis|Zemor Hodhis]]

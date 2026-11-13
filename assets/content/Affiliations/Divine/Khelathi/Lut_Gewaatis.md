@@ -45,7 +45,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Lut-Gewa'atis is the temple of [[lore-gewaatisdty|Gewa'atis]], patron of voyages, maintained by a resident priesthood and the pilgrims who pass through before a journey. The temple's sacred vaults, built by the empire's finest locksmiths, hold offerings and documents too valuable to trust to an ordinary strongroom. Very few hold the keys, and a traveler seeking what is stored there waits on the temple's own schedule, not the road's.
 
@@ -69,7 +69,7 @@ Say a caravan master arrives in the capital with a bundle of sealed contracts sh
 
 Valuables and documents go into the vault; nothing here is sold from it. A traveler seeking what is stored there waits on the temple's schedule, and the temple's patience is the price of its security.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-gewaatisdty|Gewa'atis]]
 : The patron of voyages the temple serves

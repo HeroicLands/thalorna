@@ -50,13 +50,13 @@ The hall burned with the sabhra inside it, and the hall was its own pyre. That i
 
 The janpodas' third confederation army put the adventurer out through the door he had come in by. That year the [Mahva-Melka]{.name data-type="lore/gathering"} met, and in the same ten days it swore [[lore-thirdcmpct|the Third Compact]], it mourned Tirnugram on the roll. It divided the janpoda's land among its neighbors, ordered the hall's doors bricked up with the bell still hanging in the gate, and the priests agreed among themselves that the adventurer's name would not be spoken. [[lore-conchdoor|The Conch-Door Incursion]] still withholds it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The hall.** [[place-tirnuhall|The Silenced Hall of Tirnugram]] stands roofless with its doors bricked and its bell unrung.
 - **The division.** The neighboring janpodas hold Tirnugram's land by the Melka's decision. The janpoda's scattered lineages have never accepted it.
 - **The silence.** The adventurer is unnamed in every Vedyari account.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-tirnuhall|The Silenced Hall of Tirnugram]]—the sealed hall
 - [[lore-conchdoor|The Conch-Door Incursion]]—the adventurer and the army that put him out

@@ -107,7 +107,7 @@ The votes do not sit where the names do. The factors of [[being-krznsthlrts|Korz
 - **The Trial of a House.** A senatorial house has been arraigned before the Seldan in a cause that is as much political as legal. Alliances on the floor, not evidence, will decide the verdict, and every great family is calculating what it owes, what it is owed, and which way safety lies.
 - **The Inconvenient Speech.** A _kurthos_ is preparing to say beneath the dome what the throne would much rather went unspoken. Suppressing him risks proving his point, and letting him speak risks the chamber taking up his cause.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-arvon|Arvon]]—the Inner City in which the Seldan stands
 - [[affiliation-verdanorzara|Verdan Orzara]]—civic government and courts of the city beyond the wall

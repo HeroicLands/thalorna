@@ -17,7 +17,7 @@ data:
   notes: "Inland Trade Town"
 ---
 
-## Overview
+## Overview {#overview}
 
 The road out of Tvarnmark is not always peaceful, and a merchant asks the militia which stretch is quiet this month before loading a single mule. Tvarnmark rises on the southern edge of the [[place-flarnfjall|Flarnfjall]] mountains, at the confluence of two swift rivers, where merchants from the coast meet traders from the high passes and the interior valleys. About 600 people live there, in a town built of stone quarried from the surrounding hills, which is unusual for a [[lore-nordheimnclt|Nordmen]] settlement. Its sturdy buildings seem to grow out of the rock.
 
@@ -31,7 +31,7 @@ Tvarnmark's reputation rests on its weavers and textile workers. The looms produ
 
 The town council is dominated by the great merchant families and the guild masters, and its decisions are made over ale, not in a shield-hall. Tvarnmark also keeps a strong militia, because the road from the mountains is not always peaceful and caravans need protection. The upper road from the town runs toward the [[place-shtrdpks|Shattered Peaks]], and a king's brother set out along it thirty-two years ago with forty companions seeking mithral ([[lore-nrgadhstry|Histories and Legends of Norgaad]] has the account).
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmnrgd|Kingdom of Norgaad]]
 : the kingdom whose inland trade town it is

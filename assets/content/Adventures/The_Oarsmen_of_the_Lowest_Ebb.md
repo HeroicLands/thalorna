@@ -17,13 +17,13 @@ data:
 
 A jarl who could not put down his drowned sons has learned the names of the sea from a [[lore-undead|Helspawn lord]], and his sea-cave hall now holds the drowned of a whole coast at the oars of a ship that never sails. At midwinter the lord comes to collect what the jarl owes. The party goes in on the ebb to take the dead out, or to take what the jarl has gathered.
 
-## Overview
+## Overview {#overview}
 
 Under the stones of the cape, half a day's row from [[place-vrathavan|Vrathavan]], the sea-cave of [[place-thraldholl|Thraldholl]] opens at the lowest ebb. Inside, Jarl [Svilthmil]{.name data-type="being/npc"} keeps a ship on a cradle of whale-ribs, and at its oars he keeps the drowned: his three sons, the crews of lost Vrathavan ships and the bodies the coast gave up to him as it gave up the rest. He calls them by the names cut on the stones above the cave. His teacher is [Thilmorv]{.name data-type="being/creature"}, the Reeve of Quiet, a [[being-tereb|nightwight lord]] of the [[affiliation-nghtwghtcncl|Nightwight Council]]. The price was a hall of the dead, and Thilmorv comes on the longest night of [[lore-jol|Jel]] to take delivery.
 
 All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a grieving man who would not let them go.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A Vrathavan ship-chandler says a southern factor's strongbox went down off the cape three winters back and was never found. A drowned man's skiff, the fishermen say, was seen going in at the cave with something heavy. The chandler wants the box and will pay for it.
 - **The mercenary or common soldier.** The shield-maiden of [[place-shieldhall|the Shield-Hall]] needs three hard people to go down to the cape. A crew-bond she sealed was broken when a crew's dead were taken from their stones, and the bereaved are asking her what became of them. She cannot send her own warriors, who are sworn to the town.
@@ -110,14 +110,14 @@ All of this is [[lore-theshadow|the Shadow]] working on the drowned, and on a gr
 
 **If bypassed.** A party that leaves without the goods hears of the strongroom from the thralls within the month.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the sons were freed and the ledger burned.** The jarl dies on the ebb, a man at last, and the bereaved of Vrathavan raise their stones again. The cave floods and does not clear.
 - **If Thilmorv escaped.** The Council has a new debtor, and the hafnár that remain are his.
 - **If the drowned were freed.** The kin of Vrathavan hold a grave-ale on the cape. The Shield-Hall seals a new bond in the party's honor, and the shield-maiden asks them to find the captain named in the ledger.
 - **If the party failed.** The cave keeps its hall, the Reeve leaves with the jarl's debt paid, and the [Jel-Ride]{.name data-type="lore/spirit"} has more riders than the coast can name.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thraldholl|Thraldholl]]
 : the sea-cave and its hall

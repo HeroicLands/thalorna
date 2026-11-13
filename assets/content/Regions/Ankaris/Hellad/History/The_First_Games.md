@@ -61,7 +61,7 @@ After a battle between two cities the loser's herald walks onto the field under 
 - **The herald's inviolability**, written into every city's offices.
 - **The return of the dead**, the reason Helionite wars end with the field cleared.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-heladlandngs|The Landings]]—the settlement that made the cities
 - [[lore-daughtercts|The Daughter-Cities]]—what the cities do next

@@ -23,7 +23,7 @@ The work came with an endowment six hundred years old. It pays a copyist by the 
 
 Its hands are reckoned plain and accurate. A court wanting a fair copy sends here. A court wanting a beautiful one sends up [[place-sarvedarivr|the Sarveda]] to [[place-dirmapur|Dirmapur]] and pays four times as much for it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

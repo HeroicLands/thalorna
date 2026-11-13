@@ -73,7 +73,7 @@ The Inner City is where the succession will be decided, and everyone in it is co
 - **The niche.** [[being-osmrthlvns|Osmera Thalvenis]] wants the Black Flame's petition read before it is presented, and [[being-trzmsbrkrts|Torzemos Brakarates]] wants to know which _kurthoi_ will speak against it.
 - **The seal.** A house hires a party to learn which claimant has promised Holimar's seal to whose freedman.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-orzara|Orzara]]—the city of which this is the citadel
 - [[place-palvar|Palvar]] · [[affiliation-seldan|Seldan]] · [[place-thaurzurgalis|Thaurzurgalis]] · [[place-pnthnrldnm|Sarkena Dorekis]]

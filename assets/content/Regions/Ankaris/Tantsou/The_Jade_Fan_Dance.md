@@ -59,7 +59,7 @@ The Shadow is not united. Its members are ambitious people joined by the wish to
 
 **The balance.** For all its cruelty the Dance does a necessary thing. It keeps any single faction from gathering enough power to threaten the Emperor's appointment and with it the whole classification. The Tanchei understand this, tolerate the game and usually play it, because a court without rivals is a court where one failure could bring down the empire. The celestial administration, they point out, has competing bureaus for the same reason.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-yanchaizhao|Yanchai Zhau]]
 : a noble house brought low in the Dance

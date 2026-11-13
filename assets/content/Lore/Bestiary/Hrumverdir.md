@@ -22,7 +22,7 @@ In folk speech the word reaches further. Some in [[place-nordheim|Nordheim]] cal
 
 A presence that haunts a place without a body is a spirit and not one of the hrúmverdir. The [[lore-nordheimnclt|Nordheimn]] customs for the restless dead, and the mediation of a local gudi, gudja or velva, concern those presences as well as the walking dead.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-theshadow|The Shadow]]
 : the corrupting force every undead carries

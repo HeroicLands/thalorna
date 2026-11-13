@@ -44,13 +44,13 @@ The truce holds at the trough, and every tribe whose range touches the well take
 
 The truce binds tribesmen and not strangers, and a caravan master who draws a blade at Yemok is dead before he sheathes it. Giant camel spiders live under the trough-stones, and the bucket-men have a rhyme about the hour to draw. In summer, a dust storm from the south will bury the tamarisks to the lowest branches in an afternoon.
 
-## Hooks
+## Hooks {#hooks}
 
 - A caravan arrives with tokens from tribes that were not on its road, and its master swears he was robbed.
 - The riders of the sands are demanding a larger share of the toll and are holding a string at the well until they are paid. The Margin's riders will not turn back until their own share is settled.
 - A rider of the Margin has been found dead in the shade of the tamarisks, a token in his fist that belongs to a tribe that left the truce years ago.
 
-## See Also
+## See Also {#see-also}
 
 [[place-wlqtrrgn|Volketor]]
 : the western margin

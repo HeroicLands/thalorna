@@ -29,6 +29,6 @@ long time. Not the deep craft—the Vardain are clear that what they have is the
 It comes with a condition, and the condition is absolute: **it is not taught onward**. No apprentice is
 taken from outside the valleys, no Vellik smith has ever set up in a lowland town, and mainland offers—which arrive regularly and are enormous—are refused without discussion.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-vardainvalleys|The Vardain Valleys]] · [[place-vargate|Vargate]]

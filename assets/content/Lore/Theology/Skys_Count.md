@@ -69,7 +69,7 @@ The dream drink is the priests' by the society's oath, and it is not only theirs
 
 This autumn a girl of a valley village above Tulishwil died of a cup too strong, given her by her mother's mother, [[being-ayulkal|Ayulkal]], Moon Arriving, who had given it to thirty children before her. At the [Acorn Gathering]{.name data-type="lore/gathering"} the [Sky Elder]{.name data-type="lore/custom"}, [[being-tiyupliq|Tiyupliq]], Clear Sky, asked the headmen of the valleys to forbid the grandmothers' cup. [[being-ayullesh|Ayullesh]], Moon Running, the headman of Tulishwil, said that he would forbid it in the year a priest gave the drink to a valley child for the price of a basket. The priests have not lowered their price, and Ayulkal is grinding the root again.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-shuqashclt|Shuqash]]
 : the culture of the Shell-Bead People, the count and the crossing of the dead

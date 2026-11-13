@@ -97,7 +97,7 @@ What Tantsou did afterward is a matter of record. Its frontier officers have reg
 
 [[affiliation-shikhalaya|Shikhalaya]] holds that the whole northern frontier is the kingdom's to watch, and reads the fort as ground held inside it by a body with no business holding any. The kingdom raises the point at every [Mahva-Melka]{.name data-type="lore/gathering"} and has never done more than raise it. The one armed force ever to come over the wall came by the conch-door, which the kingdom does not hold.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sangrafort|The Sangra-fort]]
 : the garrison the incursion left

@@ -124,7 +124,7 @@ Outsiders do enter the Tribal Lands—traders at edge settlements, pilgrims seek
 
 Those who have reason to travel the Lands are expected to take a tribal guide, to respect the customs of the communities they pass, and to stay clear of sacred ground unless specifically cleared to enter it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aelendnppl|Áelendan]]
 : The people who inhabit these lands

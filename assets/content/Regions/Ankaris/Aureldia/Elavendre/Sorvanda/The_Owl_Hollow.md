@@ -72,7 +72,7 @@ impossible; the tribes have brought outsiders here, for the asking, when someone
 Visitors who arrive on their own account are turned back at the upper path, and the offering-stone is
 as far as most will ever get.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-ossendaspr|Óssenda, the White Owl of the Hollow]] · [[lore-thekindred|the Kindred]]
 - [[place-alndntrblnds|Áelendan Tribal Lands]] · [[place-drenavrspn|the Drenavar Spine]]

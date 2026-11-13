@@ -82,13 +82,13 @@ The [[lore-aelendnppl|Áelendan]] had met such columns before. They let the Twel
 
 The record the army keeps says the Twelfth was destroyed. The cohorts in the fort wintered there, and what became of them is not in any report ([[place-twelfthcamp|The Twelfth's Last Camp]]). The eagle never came back. The army struck the legion from the rolls, as the manual requires of a legion that loses its _orkaima_, and the families whose sons were cashiered in the disbanding have not forgotten it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The passage-gift.** Merchants pay it at the first camp without question, and the chancery has not raised the range since.
 - **The Twelfth's Last Camp.** A ruin on the Vilérian side of the passes, recently cleared of the undead by a border patrol.
 - **The missing eagle.** The families of the disbanded Twelfth want it found, and the legions raised in its place want it left where it is ([[affiliation-vylrnmltry|Vilérian Military]]).
 
-## See Also
+## See Also {#see-also}
 
 [[lore-westernwars|The Western Wars]]
 : the stones the Twelfth was sent to enforce

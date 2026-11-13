@@ -130,7 +130,7 @@ The unit is the household as it lives and works, and the household's shape diffe
 
 Inheritance and marriage tie households into the realm's order. A baron's claim passes with his land and his debts, and a serf's family keeps its strips on the lord's terms. A household that tends ancestors at a shrine or a stone has a further reason to want an heir.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eilwith|Eilwìth Region]]
 : the island, its kingdoms and peoples

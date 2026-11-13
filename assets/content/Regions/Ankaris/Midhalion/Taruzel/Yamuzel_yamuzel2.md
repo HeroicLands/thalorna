@@ -17,11 +17,11 @@ data:
   notes: "The Confederation's naval stronghold on the narrows between the islands of Taruzel: a fortress over the strait, the yards that build the fleet, admirals' houses on the height, and a Veterans' Quarter where the war's children have come of age."
 ---
 
-## Overview
+## Overview {#overview}
 
 Every hull that goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] goes under the walls of Yamuzel. The city stands on the eastern cliffs of [[place-khamisar|Khamisar]], where the narrows close to three miles, with the [[place-straitfortress|Strait Fortress]] above the water and the beacon of [[place-sharimun|Sharimun]] burning on the far cape. It is the naval stronghold of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a heavily fortified town of about 9,900 and the seat of the city-state of [[affiliation-yamuzel|Yamuzel]]. Its name is its work: _yamuz-_, to sail in company, with _-el_, the ground of it. Yamuzel built the fleet that won [[lore-tamzirbattle|The Battle of Tamzir Shoals]] ([[place-tamzirshoals|Tamzir Shoals]]), and where [[place-besikar2|Besikar]] runs on money, Yamuzel runs on pride.
 
-## Arriving
+## Arriving {#arriving}
 
 A ship coming into the narrows is met by the Strait Fortress's guard-boat, a long galley with a marine officer in the stern, before she is abreast of the walls. The officer takes her name, her master's name, her cargo and her port of departure, and either sends her into the harbor under the fortress or tells her to anchor in the roads below it and wait for a convoy. The roads are full in the sailing season: merchantmen bound through the island channels lie there in rows for days, waiting for the galleys of the [[affiliation-corsairleg|Corsair League]] to take them through, and the convoy master of the [[affiliation-tanaduni|Tanaduni]], [Katira Tanaduni]{.name data-type="being/npc"}, gives each a place in the line.
 
@@ -51,7 +51,7 @@ The Admiral's Council governs Yamuzel under First of the Council [[being-tshngmr
 
 The marines keep order in Yamuzel, and they keep a great deal of it. They man the gates, the stairs from the harbor, the yard wall and the ridge road, and a patrol of four walks every street of the city twice a day. A shopkeeper robbed in the night tells the patrol, and the patrol's sergeant brings the matter to the marine post at the head of his street, where it is judged by the post's captain the same morning. A quarrel between freemen goes to the city's court on the height, and a quarrel in the Veterans' Quarter goes, more often, to the hall on the corner. Many of the marines are veterans' sons, raised in the quarter, and the patrols there walk carefully.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The taverns of the harbor streets let rooms by the night to sailors waiting for a ship, and their hosts know which captains are signing crews. The quieter inns stand on the switchback road halfway up the cliff, where the foreign masters waiting for a convoy lodge, and the best of them keeps a slate by the door listing the convoys forming in the roads. A party with business at the fortress or with an admirals' house is lodged by the house it came to see, on the height, and is walked about the city by one of its servants.
 
@@ -66,7 +66,7 @@ Yamuzel's yards built the fleet that won the war of independence. The legions' a
 - **The missing yard man.** A shipwright of the yards has not come back through the gate after the evening bell, and his tally of the day's timber is short by one keel.
 - **The ship models.** A model has vanished from an admirals' house window overnight, and its card has been left behind, with the name of one battle scratched out.
 
-## See Also
+## See Also {#see-also}
 
 [[scenario-mnthbfrrvw|The Month Before the Review]]
 : the campaign frame of the veterans and the summer session

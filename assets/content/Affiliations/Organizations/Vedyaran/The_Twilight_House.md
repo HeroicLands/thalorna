@@ -71,7 +71,7 @@ A Loom-Master's steward, sending his master's nephew off to his first season in 
 
 The Twilight House, also called the House of the Long Evening after its principal house, [[place-sandyagrha|Sandyagriha]], is a courtesan establishment and an intelligence network, and the two are one business. Its principal house stands in Vyalendra and it keeps satellite houses in each major city of [[place-vedyarargn|Vedyara]]. Tradition dates it to the reign of the eleventh and last Maharava of Vyalendra, though the date is uncertain. The court is gone and the House is not, which is the fact everything else about it rests on.
 
-## Overview
+## Overview {#overview}
 
 To the loom-masters and merchant houses of Vyalendra, and to the courts and councils of every city where a satellite stands, the House is the most prestigious courtesan establishment in the realm. Wealth, breeding and reputation grant a man access to it, and the same three can withdraw it. To the same clients it is also the most important intelligence service in the realm.
 
@@ -136,7 +136,7 @@ Working Companions wear no fixed uniform, but each wears a silver chain at the t
 - **The Apprentice Who Saw.** A thirteen-year-old in training has overheard something she should not have, by accident, and is now a security problem. The House must decide whether to protect her, promote her early or quietly disappear her.
 - **The Mistress's Succession.** The Mistress of the Long Evening is dying. The Council of the Veil will choose her replacement, and the choice will decide whether the House's next generation leans toward the Loom-Council, the Merchant Collective or the Adanshreni. Every faction has a candidate, and the campaign is already underway.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sandyagrha|Sandyagriha]]
 : the principal house, four streets from the Loom-Council's hall

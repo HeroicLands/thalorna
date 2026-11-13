@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 **The Selat of Zu-Zel-Iaqtet** holds the land of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]], the empire's strongbox and its anvil. It is one of [[affiliation-borderselatu|the Border Selatu]] in the fullest sense: thinly peopled, harsh and held by a soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who is as much a military governor as a lord. His charge is the mines, the smelter-towns and the long desert quarry-roads, and he guards them against the raiders of the eastern wastes.
 
@@ -87,11 +87,11 @@ Run Zu-Zel-Iaqtet as a hard frontier where wealth comes out of the rock under gu
 
 Adventure here is the roughest kind: convoy-guarding and convoy-robbing, a mine flooded or sabotaged, a turquoise strike worth murdering over, a desert fort gone silent, a convict-gang in revolt, smuggled gold and the people who chase it. Gold, stone and hardship are abundant. Water, grain, comfort and any soft thing at all are scarce.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Zu-Zel-Iaqtet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and as the source of much of the empire's gold and copper it sits at the head of the coined economy, though its own daily life runs on garrison pay and rationed supply rather than open markets. The assay-house at [[place-balqu|Balku]] weighs and seals the crown's metal, and [[affiliation-garhalzi|Gar-Hálzi]] agents travel with the gold-convoys. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-borderselatu|The Border Selatu]]
 : Parent selat-class

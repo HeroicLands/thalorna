@@ -17,7 +17,7 @@ data:
 # terran_analog: the Gulf coast of Florida from Tampa Bay to the Ten Thousand Islands, the Calusa country, with Mound Key and Pineland as the models for the shell towns and their canals
 ---
 
-## Overview
+## Overview {#overview}
 
 The Shell Coast (_koyalo koyoli_) is the gulf shore of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, at the southern end of the [[place-tokchiaskargn|Tokchi Aska Region]]. About 220,000 people live on it, in shell towns on the islands and the estuary shores, and they have never farmed. They are the _koyoli_, the people of the shell: carvers, fishers and the north's only seafarers on the gulf.
 
@@ -41,7 +41,7 @@ The coast has some fifty shell towns of a few hundred to a few thousand people, 
 
 The coast's canoes are its roads. Heavy dugouts, some lashed in pairs under a platform, carry dried fish, shell and carved wood between the towns, and the larger ones go up the delta and the great river to the heartland. Whelk and conch shell is the coast's great export: the heartland's engravers cut it into gorgets and cups, and a Noble's chest is measured in it. In late winter the heartland's traders come down the river with maize, copper and pottery to the Shell Fair. The south lies far down the gulf beyond the Last Shore, and the coast's captains argue over how far.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire, and the Shell Promise

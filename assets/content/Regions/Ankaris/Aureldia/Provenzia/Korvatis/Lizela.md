@@ -59,7 +59,7 @@ The salt has made the quarrel dangerous. The crown's treasurer has asked the coa
 
 In the hills above the town stand the [[place-ruinslizela|Ruins above Lizela]], older than the Vilérians. An instructor of Arnela's school went up to study them and has not come back.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-jalnazdal|Jalnasdal]]
 - [[affiliation-hsekorisvar|House Kórisvar]] · [[place-ruinslizela|Ruins above Lizela]]

@@ -113,7 +113,7 @@ Skeldvir heads the household now, and Gnaldurfjord is deciding whether he should
 
 Any party that comes to Gnaldurfjord this summer finds the question in every house, and both sides want an opinion from strangers.
 
-## See Also
+## See Also {#see-also}
 
 [[place-gnaldurfjord|Gnaldurfjord]]
 : the village that sent the boats

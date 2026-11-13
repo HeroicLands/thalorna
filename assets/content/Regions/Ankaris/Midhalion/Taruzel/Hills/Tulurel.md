@@ -15,7 +15,7 @@ data:
   government: hillcouncil
 ---
 
-## Overview
+## Overview {#overview}
 
 Above the last terrace wall on [[place-qalirel|Qalirel]] the road narrows to a mule track, and the first thing a traveler meets there is a cairn of white stones with a goat skull set on top of it. Past it the land belongs to the hill tribes. On a still evening their camps show as threads of smoke along the ridges, and the herders' dogs come down to the track before the herders do.
 
@@ -23,7 +23,7 @@ Tulurel is the hill country of the islands of the [[place-taruzelrgn|Taruzel Reg
 
 The hill country is what the coast remembers when a levy is needed. The tribes garrisoned the legions' forts for imperial pay for more than a century, sent the foot soldiers of the war of independence down to the coast, and have received nothing from the peace. The forts stand ruined along the ridges, and the road between them is going back to scree.
 
-## The Land
+## The Land {#the-land}
 
 The hill country has the same bones on every island, limestone under a thin soil, and a different face on each.
 
@@ -82,7 +82,7 @@ The hills are counting what the coast owes them. The Saliruni's guides will not 
 
 - **The Balinuni train.** A Kudumel caravan master offers a party double wages to take a train of [[being-llmnblnn|Ellamuna Balinuni]]'s over the Nishurel hill roads, and will not say why the guides refused it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-taruzelrgn|Taruzel Region]]
 : the archipelago

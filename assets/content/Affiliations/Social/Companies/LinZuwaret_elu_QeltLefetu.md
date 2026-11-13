@@ -48,7 +48,7 @@ A caravan guard describes the first day with **Lin'Zuwaret elu Qelt'Lefetu** to 
 
 A trader without that protection who tries to compete on the same routes is pricing in a risk the company has already paid to remove. If you cannot afford the guards, do not take the route.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the region it belongs to

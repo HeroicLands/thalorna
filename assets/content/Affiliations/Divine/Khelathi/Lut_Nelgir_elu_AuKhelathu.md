@@ -36,7 +36,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lut-Nelgir elu Au'Khelathu** names the great temple-estates of [[place-aukhelathrgq|Au'Khelathu]] taken together, not any one god's house but the whole network of granaries, workshops and tenant-villages the temples hold in common. Between them these estates command resources, labor and land enough to rival the [[lore-garauu|Gar-Au]]'s own palace, and each temple's council answers for its own share of that wealth. A dispute that touches temple land is rarely a religious matter alone, because the estate behind the altar is as political as it is sacred.
 
@@ -60,7 +60,7 @@ After the harvest, the steward's wagons cross the estate-town in a line. Say a t
 
 The estates also run workshops, and the stewards run them alongside the granaries. The stores they fill are the temples' working capital: what a temple pays its priests, feeds its dependents and gives to the poor all comes out of the same rooms the steward fills.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu]]
 : The land the estates occupy

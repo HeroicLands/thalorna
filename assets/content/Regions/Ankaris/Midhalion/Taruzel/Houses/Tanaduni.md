@@ -99,7 +99,7 @@ Katira also pays a share of the convoy fees, quietly, to old sailors of her fath
 - **The Review table.** [[being-dlzrtndn|Delzuru Tanaduni]] wants a guest at his Review table who can sit beside the captain of the Tamzir if he comes, and he asks a party with friends in the Veterans' Quarter.
 - **The battle-mage.** The Compact offers a party good money to see that Delzuru's Thordimalon mage misses the sailing.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-corsairleg|Corsair League]]
 : the guild the house is bound to

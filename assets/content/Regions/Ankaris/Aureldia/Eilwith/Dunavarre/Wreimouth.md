@@ -46,6 +46,6 @@ several languages and a good deal of trade pidgin, its shipping houses are comme
 courtly, and the Synod's administration sits more lightly here than anywhere else in the kingdom—not
 from weakness, but because a port that is generating the realm's revenue is granted a certain latitude.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-ravenmoor|Ravenmoor]]

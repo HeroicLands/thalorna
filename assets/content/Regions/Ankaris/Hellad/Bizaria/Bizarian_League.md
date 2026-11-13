@@ -114,11 +114,11 @@ The League steers between the great powers with careful neutrality. The [[affili
 
 Its wars are border wars, against desert raiders, steppe tribes and the occasional eastern warlord. Conscripts fight them under the march lords, and the council contracts mercenary companies when the frontier turns dangerous.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Each city strikes its own coin, and the League as a whole uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The Bizarian League is a post-imperial commonwealth member: it takes full part in the trade and banking infrastructure of the Vilérian system and is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]
 : the League's country, its coast, plateau and passes
@@ -140,3 +140,7 @@ Each city strikes its own coin, and the League as a whole uses the [[lore-vylrnc
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
 : the gods, in their eastern rite
+
+[[affiliation-cncltwlvbzrs|Council of Twelve of Bizaris]]
+
+[[affiliation-mrchntcnsrtchr|Merchant Consortia of Krisamar]]

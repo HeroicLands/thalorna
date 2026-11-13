@@ -51,6 +51,6 @@ where both the Áelendan and the Senali take a direct interest in visitors.
 The trickle has become a stream. A scholar's account of Sirmenne has gone the rounds of the academies of [[place-aureliane|Aurelane]], copied in the scriptorium of the [[affiliation-acadmedcn|Academy of Medicine and Manuscripts]], and this summer treasure-seekers, antiquarians and agents of the Thordimalon are in the borderland woods together, some with permits from a crown that does not administer the site. The Áelendan do not much distinguish between a looter and a licensed antiquarian, and the Senali have been seen at the ruin's edge in daylight, which nobody in the borderland can remember. See
 [[scenario-engmsrmnn|The Enigma of Sirmenne]].
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-aelndntrbs|Áelendan Tribes]] · [[lore-flksenali|Senali]]

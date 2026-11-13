@@ -14,7 +14,7 @@ data:
   government: kngdmnrdhm
 ---
 
-## Overview
+## Overview {#overview}
 
 A pilot who has brought ships into the Nordheim fjords for thirty winters gives every new hand the same first lesson: "Count the headlands, not the days. Every fjord on this coast looks like the last one until you know which hall's smoke is rising at the head of it."
 
@@ -30,7 +30,7 @@ Off the northwestern coast lie volcanic islands where hot springs warm the groun
 
 Winter is long and brutal, with months of near-total darkness; the short summer brings an explosion of life to the coastal lowlands. "The dark is when the halls do their remembering," the pilot says. "The light is when everyone works as if it will never come again."
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 : the kingdom that holds this land

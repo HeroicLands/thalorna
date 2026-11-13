@@ -14,7 +14,7 @@ data:
   government: kingdomlgn
 ---
 
-## Overview
+## Overview {#overview}
 
 "Everything that leaves Malagna leaves by water," a farmer tells the stranger on the next bench at [[place-malstead|Málstead]], where both of them are waiting for the Lawspeaker's circuit to reach the marked stone in the market square. "Everything that gets decided here gets decided at Málstead or at [[place-gnarthborg|Gnarthborg]]. You are in the right place for one of them."
 
@@ -46,7 +46,7 @@ The kingdom is known for its shipbuilding. Malagnan longships are considered the
 [[place-dvilgborg|Dvilgborg]]
 : a garrisoned stronghold on a height.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : the kingdom that holds this land

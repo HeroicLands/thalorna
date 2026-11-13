@@ -196,7 +196,7 @@ The blind spot is still there, and thoughtful Teyumi argue over it. The doctrine
 
 A second argument runs alongside it. Turquoise flows south through Kwatuhosa, and macaw feathers, cacao and copper bells flow north. The cloud dancers cannot dance without the feathers, and some elders say the people are sending their rain away in turquoise to buy the masks they call it with. The other nations of the compact see the same trade and draw another conclusion, that the Turquoise People are closer to the south than an ally should be. Some Teyumi suspect it too.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People as a nation: its ranks, its offices and its towns

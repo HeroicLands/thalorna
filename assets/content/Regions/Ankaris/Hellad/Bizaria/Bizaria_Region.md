@@ -92,7 +92,7 @@ To the south, along the whole of the League's southern border, lies the Kingdom 
 
 Across the sea beyond the Taruzelian islands lie the coasts of [[place-xerathia|Zerathia]], with which Nesthiros's captains have traded for a thousand years; the League's coast and the sea it faces belong to [[place-midhalnrgn|Midhalión]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]
 : the confederation that holds the region
@@ -129,3 +129,17 @@ Across the sea beyond the Taruzelian islands lie the coasts of [[place-xerathia|
 
 [[place-dunharargn|Dunhara Region]]
 : the caravan country beyond Amradad
+
+[[place-argyrteikhos2|Argirteikhos]]
+
+[[place-marshfeld|Marshfeld]]
+
+[[place-orashion2|Órashion]]
+
+[[place-ravenswood|Ravenswood]]
+
+[[place-thessalon|Thessalon]]
+
+[[place-trianthion|Trianthion]]
+
+[[place-veridon|Veridon]]

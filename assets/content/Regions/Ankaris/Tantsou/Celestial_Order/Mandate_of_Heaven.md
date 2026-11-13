@@ -39,7 +39,7 @@ This shapes what the Tantsou admire. The highest virtue is to keep the pattern c
 
 Nine is the number of the Mandate and of every rite of the Emperor and the Zhazho. It is the highest single digit, the fullest count before the return to one, and it stands for classification made complete. Imperial audiences are convened in nines, offerings are presented in sets of nine, and the celestial calendar marks nine as the number of an administration fulfilled. [[lore-numerology|Numerology]] gives the other numbers.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-clstlpnthn|Celestial Pantheon]]
 : the powers from whom the Mandate comes

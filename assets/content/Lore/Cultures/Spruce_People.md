@@ -103,7 +103,7 @@ Every Spruce band knows the story, and every band now holds two rules because of
 
 The blind spot the Spruce People argue over is the _mohkisk_ itself. Every band believes in it, and most of the old people have a story of a person who turned in a starving winter and had to be killed before they killed the band. The argument is over who can be named. Some trail-breakers say that the starving spirit comes out of hunger, and that a band that feeds the hungry stranger will never meet it. Others answer that Loon Lake was a mistake about one party of people and not about the spirit, and that a band too ashamed of an old killing to see the _mohkisk_ in front of it will be eaten. The question is a live one: the Barren-Ground People are coming south through the trees again, hungry, pushed off their land by the kin of the [[affiliation-tikupilarit|Ice-Edge People]], and each band that meets them decides alone what they are.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kawiskakrgn|Kawiskak Region]]
 : the forest, the lakes and the barren grounds beyond the treeline

@@ -17,7 +17,7 @@ data:
   notes: "Settlement"
 ---
 
-## Overview
+## Overview {#overview}
 
 A cold hearth in Braldheim is a question before it is anything else. The three hundred and fifty people who live scattered through its homesteads read a cold hearth as a sign that the house inside has failed, and a neighbor who finds one is obliged to ask why before asking anything else. Braldheim's name is the fire a household banks at night so that it does not die, and Malagnans know the settlement for keeping that custom harder than most.
 
@@ -29,7 +29,7 @@ The one quarrel Braldheim takes to the ting more than any other settlement its s
 
 The [[affiliation-grimvar|Grimvar]] keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim, and a priest of [[affiliation-frodvin|Frodvin]] walked between Braldheim and [[place-malstead|Málstead]] to seek peace between the Grimvar and the [[affiliation-hrafanvar|Hrafanvar]]. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells the story of the howe and the wergild.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : the kingdom this district serves

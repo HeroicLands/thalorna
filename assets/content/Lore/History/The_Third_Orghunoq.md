@@ -66,12 +66,12 @@ About 548 AF an orghun forced the independent tribes of the [[place-khzryndsrtrg
 
 [[place-qimod|Qiimod]] stands on the southern spur, and in the week of the autumn market it was full. [[lore-khazrynclt|Tellumi]] horse-dealers, [[lore-vedyariclt|Vedyari]] spice factors, a [[lore-byzarianclt|Bizarian]] wine-agent, Tantsou silk-brokers and [[lore-sowidesclt|Sovidur]] herdsmen had come to trade, and the gate stood open for the fair. The orghun rode down the spur and by nightfall nobody in the walls was alive. The host took the stock and rode on at dawn. The dead lay where they fell, each belonging to a people whose rite was not performed.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The town.** Qiimod's walls stand whole, with no one in them, over a thin blood-field of silence.
 - **The count.** The year the union rose is year 1 of the Silent Market in [[lore-swdsclndr|the steppe reckoning]], and the count is still running.
 
-## See Also
+## See Also {#see-also}
 
 [[place-qimod|Qiimod]]
 : the town it killed

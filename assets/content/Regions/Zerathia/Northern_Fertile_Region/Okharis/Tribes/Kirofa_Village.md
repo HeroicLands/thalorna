@@ -17,7 +17,7 @@ data:
   notes: "Orchard village of the Kirofa tribe among date palms on a river of Okharis."
 ---
 
-## Overview
+## Overview {#overview}
 
 Kirofa Village is the seat of the [[affiliation-kirofatrb|Kirofa tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

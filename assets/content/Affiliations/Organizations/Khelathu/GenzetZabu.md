@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Genzet'Zabu** is a district-level council of titled families, convened wherever enough noble households sit close enough together to meet regularly. Traditionalist and military thinking generally carries the room, since the families most willing to attend are usually the ones least interested in changing how things are done. A reformer who brings a proposal here should expect a long hearing and a short answer, whatever its merits.
 
@@ -54,7 +54,7 @@ The council handles no trade and no coin. What it holds is the weight its famili
 
 A reformer who brings a proposal should take a long view. A hearing here is long and an answer is short, and the answer is shaped before the proposal is read.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : The region it belongs to

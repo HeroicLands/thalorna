@@ -76,7 +76,7 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 A magistrate of Athenikos cannot leave the city until the auditor says his accounts agree. At the end of the year an auditor's clerk, bent over a retiring magistrate's ledgers, puts it plainly: "He may sail when I say the books balance, and not an hour before." The rule holds in every Helionite city-state, and Athenikos is one of them: a city-state of about 560,000 people governed by an oligarchy of its wealthy patron families. [[place-athenikos2|Athenikos]], with 55,000 of them, is its seat.
 
@@ -94,7 +94,7 @@ The patron families hold the city, and they hold it inside the forms the seven c
 
 Standing in Athenikos is the Helionite ladder. A citizen by descent votes and serves in the militia, a freedman works and trades without a vote for life, and a metic pays tax and stands the levy as a resident foreigner. Athenikos is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and shares the [[skill-helonclng|Helonik tongue]], its gods and its festivals with the other six city-states, among which it competes in everything else.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
 : the seven cities and how they are governed

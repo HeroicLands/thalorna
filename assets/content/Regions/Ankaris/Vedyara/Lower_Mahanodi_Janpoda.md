@@ -73,7 +73,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 The **Lower Mahanodi Janpoda** is the janpoda of the [[place-mahanodi|Mahanodi circuit]] to which [[place-bharanya|Bharanya]] belongs. The town holds no seat of its own at the [Mahva-Melka]{.name data-type="lore/gathering"}; what it has instead is the standing of its [[affiliation-mahajaya|Mahajaya]] temple, which is greater than the janpoda's and older.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Read short.** At the second flood-rite the priests of [[place-bhrnytemple|the Mahajaya Temple at Bharanya]] read out what the water took, village by village, and the reading is a legal record. A village of the reach says its losses were read short last year, and asks the party to walk the reach with its headman and count before this year's reading.
 - **Four islands.** The causeways of [[place-bharanya|Bharanya]] are under water, the town is four islands for a month, and a thousand pilgrims are on the wrong mound for the temple's granary. The temple's steward asks the party to bring boats down from the upstream boatmen before the three days' charity at the gate runs out.

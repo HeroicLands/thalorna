@@ -32,7 +32,7 @@ A caravan scout on the southern routes will tell you the **Wagalu** (the **Crims
 
 The Wagalu are kin, and that keeps them out of a quarrel they do not know they have avoided. Nothing they take is written and nothing they owe each other is entered, because a brother does not enter an obligation against a brother. They are hunted hard by the caravan companies and by nobody in a temple.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]
 : why a band of kin is nobody's doctrinal business

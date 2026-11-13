@@ -222,7 +222,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the drought-war. Three generations ago famine pushed neighboring tribes into the Sengala country, and the regiments were called out against them. The Nyáluba have not lost a war in living memory, and this is one of the wars they did not lose. The Pact's third term shares the rain with the five, and the starving were not among them. The term as [[lore-swearbaobab|The Swearing Under the Baobab]] sings it, [Third: the grass, the rivers and the rains are shared,]{.verse} does not say among whom. Thoughtful Nyáluba differ on whether the third term was ever meant to stop at the five. The Sengala, who trade out and marry out, have the most reason to doubt it, and the Pact's own simplicity gives the others the most reason to leave it alone. The Lubemo has never held the question.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the five clans, the Pact and the Great Lubemo

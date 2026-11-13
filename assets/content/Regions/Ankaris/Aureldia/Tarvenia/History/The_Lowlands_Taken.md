@@ -73,14 +73,14 @@ The legions came west about 140 AF, the first great wave of [[lore-westernwars|t
 
 A _therkos_ (governor) sent to rule the high country of [[place-eskarath|Eskarath]] directly rode into the meadows with an escort and lost it there. The Empire did not replace him. The Eskárathi had fought nobody, and the arrangement they reached afterward with whoever held the lowlands, fighters when the ban was called and left alone otherwise, was the one they had always kept.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **Lyenrik's watchtowers.** A chain of towers across the lowlands, kept up by whoever holds the ground, which the High Kings later turned to face the coast ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
 - **Lyenrik's precedence and law.** The kingdom's formal courts, its fortified manors and its nobility's concern for lineage.
 - **Valthari's harbor.** The port that became a free city and, in time, the home of a trade pidgin.
 - **The Eskárathi arrangement.** The highlanders' freedom from _therkoi_, which the High Kings later found it wise to keep.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-leonrik|Lyenrik]] · [[affiliation-kingdmlnrk|Kingdom of Lyenrik]]
 - [[place-eskarath|Eskarath]] · [[place-valthari|Valthari]]

@@ -19,7 +19,7 @@ data:
 # terran_analog: the river towns of the Orinoco and their flooded forest; the name joins ts'alu (a stream) to kul- (a lord's seat)
 ---
 
-## Overview
+## Overview {#overview}
 
 Ts'alukul has no streets to speak of. It stands where four tributaries of [[place-hanaltzuma|the Misty River]] (Ha'nal Ts'uma) come together, on a scatter of raised mounds and banks between the channels, and its people go from one quarter to the next by canoe. In the dry season the channels are narrow and brown and the mounds stand high on banks of cracked mud. In the rains the river rises over the forest around the town until only the mounds and the treetops show, and the town becomes a set of islands in a moving lake. Ts'alukul, the City of Rivers, is a town of about 25,000 people in the [[place-xelemrgn|Shelem Region]], and the greatest of the river towns of [[affiliation-xelem|Shelem]].
 
@@ -41,7 +41,7 @@ Ts'alukul is a council town. It is governed by a council of the heads of its mer
 The runners of the relay station are paid by the merchant families. A master merchant who learns that a cord about prices or a buyer's need has come in from the north pays the station's keeper to hold the downstream runner for half a day, and in that half day his own canoes are on the water. The keeper shares the fee with two of his runners. No cord is opened, and the keeper calls the delay a rest for a tired runner. The Road's law forbids any delay to a runner, and the priests of the dispatch at [[place-kultaqan|Kul'taq'an]] do not know that it happens.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-hanaltzuma|Ha'nal Ts'uma]]
 : the Misty River whose tributaries meet here

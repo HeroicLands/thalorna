@@ -95,7 +95,7 @@ The stated reason was raiding, and the Order's knights, who were sent to answer 
 [[being-toradhtaravren|Dame Torad Taravren]] fought in the crusade's first years as a decorated warrior of several campaigns and holds it contrary to the principles of the Order and of the [[affiliation-ardavon|Faith of Árdavon]], whose god the Order serves. She has said so to no one. Her posting to the embassy to Tantsou keeps her out of the war in the west.
 :::
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Hushwood.** A blood-field in the western woods, forbidden by the Synod, whose dead the Seilvri cannot reach to settle.
 - **The road.** The Order's road into Teilvari, with its camps and the burned clearings beside it.
@@ -103,7 +103,7 @@ The stated reason was raiding, and the Order's knights, who were sent to answer 
 - **A nemesis in the records.** Dúnavarre's registers name the Seilvri an enemy and say no more.
 - **A question the Synod does not answer.** What the Seilvri keep, and why the Synod wants it gone.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-saelvri|The Seilvri]]
 : the people

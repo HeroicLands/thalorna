@@ -44,7 +44,7 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 A tenant's reeve on the Olkassa estate gives a new hand his first rule in the yard before harvest: "You cut the field with the rest of us, you leave the last sheaf standing, and you say nothing about the wheat in the town. The house does not discuss it. The master lights the lamp at the shrine himself on the anniversary, and on that night you stay in your hut."
 
@@ -68,7 +68,7 @@ House Ganothandis wants no second Olkassa, and the old Orzas has adopted nobody.
 
 The heir wants a field that is only a field. He wants it settled by the rite of Sélmoros before the wedding, his father has given him neither a yes nor a no, and Nethoras Mardovanes is plainly hoping the rite fails. The house has turned two surveyors of the [[affiliation-ordoarcanis|Thordimalon]] away from the estate's gate this year.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The rite.** Zetimas hires a party to bring a priest of Sélmoros out to Olkassa in the anniversary week, past the steward who keeps the gate, and to stay in the field-huts while the rite is said.
 - **The surveyors.** Two surveyors of the Thordimalon have been turned away at the estate's gate twice this year. The third time they come with a writ, and the steward asks a party to find out who signed it.
@@ -77,7 +77,7 @@ The heir wants a field that is only a field. He wants it settled by the rite of 
 **For the GM:** The master of the house has agreed to the Mardovanes's forward sale of the next three Olkassa harvests, at a price only a quickened field could meet. If the rite settles the field, the house breaks its word to the house its heir is marrying, and Zetimas does not know the sale exists.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-olcassafld|The Blood-field of Olkassa]]
 : the field the house farms

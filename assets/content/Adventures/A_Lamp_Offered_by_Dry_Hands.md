@@ -17,7 +17,7 @@ data:
 
 Something is taking the dead out of the villages at the edge of the forest, and the road it takes runs to [[place-sorhupur|Sorhupur]]. The party must follow it through the lamps to the assembly that never adjourned, and decide what to do with a city that will not let its dead go.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** An Arghakara of [[affiliation-adanshreni|the Adanshreni]], a careful man named [Satyarava]{.name data-type="being/npc"}, lays a bronze lamp on the table. It burns without oil. A cell of the [Chinnasutra]{.name data-type="affiliation/criminal"} carried it out of the forest and has not come back, and the shrena wants to know whether more of the same lies where it came from. He cannot be seen asking.
 - **The mercenary or soldier.** An ordained keeper of a lac estate on [[place-bharavarivr|the Bharava]] is paying double to guard a felling crew. The crew has cut into a road of dressed stone where his survey shows nothing, and three of the crew have walked off at night to visit their mothers, who are dead.
@@ -134,7 +134,7 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **If bypassed.** The arch closes by itself with the last lamp, and the forest moves back over the stone.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **The arch closed and the lamps released.** The estates' surveyors redraw the district, and the gathering peoples cross the interior freely for the first time. Valsi's people bring their dead home to burn them.
 - **The city burned.** The Agmi-pantra counts it among the grounds it has cleansed, and the orthodox temples do not forgive it.
@@ -142,7 +142,7 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 - **A lamp carried out.** A receiver in a river town sells it to a Danhija household, and the household's next death is the one that goes missing.
 - **The shrena's debt.** The Adanshreni asks, in the spring, for the cell's ashes.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sorhupur|Sorhupur]]
 : the city and what the forest says of it

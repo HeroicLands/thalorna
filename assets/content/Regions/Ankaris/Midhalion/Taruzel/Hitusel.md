@@ -18,7 +18,7 @@ data:
   notes: "A fishing village on a low headland of Visizel's western coast, north of Sazumun: boats drawn up on two sandy coves, a reef offshore that gives the village its name, and below it the tanning pits whose leather the city buyers ride out for."
 ---
 
-## Overview
+## Overview {#overview}
 
 Below Hitusel are the tanning pits, and the smell of them is the first thing a visitor learns about the place: it reaches a traveler on the coast road a mile before the village does. Hitusel is a fishing village of about 2,000 on a low headland of the western coast of [[place-visizel|Visizel]], half a day's ride north of [[place-sazumun2|Sazumun]], in the [[place-taruzelrgn|Taruzel Region]].
 
@@ -51,7 +51,7 @@ Hitusel's pits are failing with their master. [[being-dpmnjkdn|Dapuman Jakuduni]
 - **The apprentice.** Dapuman Jakuduni has no son and no apprentice, and the Sazumun buyers fear his pits will close with him. One of them offers a party the price of a good horse to find a young hideworker in the city willing to go to Hitusel and learn the old way.
 - **The stranger's boat.** A boat from Sazumun went out round the reef at night without a Hitusel man aboard and came back without striking it. The fishermen want to know who in the village sold the channel.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnclhtsl|Council of Hitusel]]
 : the village's government

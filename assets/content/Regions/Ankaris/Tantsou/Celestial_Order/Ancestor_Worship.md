@@ -55,7 +55,7 @@ The [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] within th
 
 The greatest festival of the dead is the [Festival of the Dead]{.name data-type="lore/gathering"} (Singlei Jwi), held in [Zhenyou]{.name data-type="lore/calendar"}, the Month of Snow, at midwinter. Families provision their ancestors for the coming year: spirit money and paper goods are burned in great heaps, accounts are settled, and the Leigen speak with the dead to learn their instructions for the year ahead. It is the holiest and the costliest event of the Tantsou year, and a family that cannot keep it properly faces a year with weakened advocates in heaven. [[lore-clndrstrlgy|Calendar and Astrology]] gives the whole round of festivals.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nouwen|Nouwen]]
 : the caste from which the Leigen arise

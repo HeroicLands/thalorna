@@ -34,7 +34,7 @@ Pilgrims are the trade. There are lodging-houses along both causeways, garland-m
 
 The rest is river work: grain out of the reach behind the town, the ferry across, and the yards that build the flat-bottomed craft the lower river uses. The temple owns the ferry and lets it by the year.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-mahanodi|The Mahanodi]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-bhrnytemple|The Mahajaya Temple at Bharanya]]—the temple the town serves

@@ -8,7 +8,7 @@ tags: [site, waste, ballcourt]
 data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Playing House, Ts'ulam Ch'alish, is a ballcourt in [[place-thethirst|the Thirst]], larger than the great court of any city in [[place-kiichchik|Kì'ìch'chik Continent]]. Two long walls of red stone face each other across a sunken alley of packed earth, each wall sloping to a high bench, with a stone ring set high in the middle of each. The court stands alone on a gravel plain with nothing built near it, and no sand lies in the alley, though the wind blows across it every afternoon. Nobody sweeps it.
 
@@ -28,7 +28,7 @@ The game in the Playing House is the game of the cities' own courts, played with
 
 A challenger who loses pays his stake from his own side: a boon lost costs a thing of the same weight, a life lost costs his own, and a name lost is gone. In the southern cities a returner who lost his name at the Playing House is known only by his gate-name, and his family speaks of him as though he had died.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thethirst|The Thirst]]
 : the desert around it

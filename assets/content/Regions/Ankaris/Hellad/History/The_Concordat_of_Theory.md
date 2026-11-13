@@ -87,7 +87,7 @@ The Order's [[affiliation-sekran|The Arcane Inquisition]] (the Sekran) treads mo
 - **The Sekran's caution** in the Helionite cities.
 - **The colleges' standing**, as places where arcane theory is taught beside ethics, logic and law.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-crownssettle|The Settlement of the Crowns]]—the settlement that returned Helionis to its own magistrates
 - [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-panepistmm|Epistémion]]

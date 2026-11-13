@@ -79,7 +79,7 @@ The houses that cannot pay for a proof are a smaller quarrel and an older one. A
 - **The roll with a gap.** An Archivist asks the party to find the one witness to a proof who left Péravel in the year the mountains closed, and whose name is cut out of the roll.
 - **At the fair.** A bard of the Line is to sing the heir's line at Elanmere, and someone has told the Master that a Tradition Keeper means to be in the crowd.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-bardicolgs|The Bardic Colleges]]
 : The Colleges and their Circle

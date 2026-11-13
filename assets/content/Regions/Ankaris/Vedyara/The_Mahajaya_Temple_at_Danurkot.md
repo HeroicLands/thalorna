@@ -30,7 +30,7 @@ The **Ritrija** households of the janpoda sit in and around the temple, and the 
 
 The temple deals with the cremation-ground priests outside the walls at arm's length, and has done so for a very long time.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bowfort|The Bow-Fort]] · [[place-danurkot|Danurkot]]
 - [[affiliation-mahajaya|Mahajaya]]—the preserver-goddess

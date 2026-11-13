@@ -20,7 +20,7 @@ data:
 # terran_analog: Etowah in the Georgia foothills, with its great platform mound, its copper plates and its periods of independence from the larger chiefdoms
 ---
 
-## Overview
+## Overview {#overview}
 
 Tokchi Hinchaka stands in the widest valley of the [[place-poktaskorgn|Old Ranges]], on a terrace above a fast green river, with the ridges close on both sides. About 7,000 people live in it and its hamlets, which makes it the largest town of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, outside the [[place-hokpargn|River Valley]]. Its name means the Other Fire. The heartland gave it that name during the Scattering, when the town kept a rival Sun's fire for three lifetimes, and the town took the name up as its own and has never let it go.
 
@@ -44,7 +44,7 @@ The Other Fire was never put out. A day's walk up a side valley, in a house that
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-poktaskorgn|Old Ranges]]
 : the ridges and valleys of the hill towns

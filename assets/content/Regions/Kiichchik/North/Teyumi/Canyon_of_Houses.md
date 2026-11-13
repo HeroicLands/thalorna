@@ -17,7 +17,7 @@ data:
 # terran_analog: Chaco Canyon and the San Juan Basin of northwestern New Mexico, with the Chaco roads and the Cerrillos hills to the north and east
 ---
 
-## Overview
+## Overview {#overview}
 
 The Canyon of Houses (Hosa Oyala) is the country every town of the [[affiliation-teyumi|Turquoise People]] calls its mother. It is a shallow canyon a long morning's walk from end to end, cut into the middle of a wide, dry basin of sage and grass at the heart of the [[place-teyumirgn|Teyumi Region]], and a dozen great houses stand along its floor and on its rims, more than anywhere else in the north. About 25,000 people live in the canyon and the basin around it and in the turquoise hills to the north. The canyon itself feeds fewer than it holds, and the rest of the north keeps it fed.
 
@@ -41,7 +41,7 @@ Each autumn after the harvest the roads fill with pilgrims walking into the cany
 
 This year's feast carries a quarrel the whole north is talking about. The rain chief of the Grandmother House has asked for a [Dry Search]{.name data-type="lore/custom"} at the feast, the first since the Year of Shut Doors, and the house head of the Door House has answered by feeding every hungry family that reaches her.
 
-## See Also
+## See Also {#see-also}
 
 [[place-teyumirgn|Teyumi Region]]
 : the land of the Turquoise People

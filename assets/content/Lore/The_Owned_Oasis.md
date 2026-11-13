@@ -56,7 +56,7 @@ The same spring can open a session three different ways.
 - **A party that knows the cloth.** The party ties it, waits, and gets a first meeting with the steppe on the owners' terms: tea, questions, a price, and a rider offered as guide to a place the party did not know existed.
 - **A party carrying a token from the wrong tribe.** The owners read the sign at once. The token is a debt or an insult, depending on which tribe issued it, and the party finds itself in the middle of a feud it did not know it had joined.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the land and its tribes

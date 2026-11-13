@@ -14,7 +14,7 @@ data:
   notes: "The Nordlands settlement where the Nordmen buy thralls."
 ---
 
-## Overview
+## Overview {#overview}
 
 A household of the [[place-nrdlndsrgn|Nordlands]] that wants a [[lore-thrallrnk|thrall]] buys one at Kruldheim or along the [[place-nalthmark|Nalthmark]] road, and the settlement's name is blunt about the trade: _kruld-_, a load a beast carries without complaint, before _-heim_, a settled place. A buyer comes away from Kruldheim with a thrall, and a person sold there leaves it as one.
 
@@ -24,7 +24,7 @@ A factor who sells at Kruldheim puts the terms to a first-time buyer in one sent
 
 The sale holds wherever the buyer takes the thrall. The five kingdoms hold the standing under one Nordmal law, and the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] holds it under the same name, so a thrall bought at Kruldheim is a thrall in every hall from the Nalthmark to the northern coast.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thrallrnk|Thrall]]
 : the standing of the people sold here

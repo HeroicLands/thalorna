@@ -56,7 +56,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Two things get weighed in [[place-anzetqeltnome|Anzet-Qelt]]," the assayer of the [[affiliation-garhalzi|Gar-Hálzi]] chapter tells a clerk newly posted from the capital. "The metal that crosses this counter, and the heart at the end. The second is not my office."
 
@@ -66,11 +66,11 @@ The Selat of Anzet-Qelt is one of the upper-river selatu of the [[affiliation-em
 
 The seat is [[place-anzet|Anzet]], where the Halzi'a keeps his court and the chief temple of [[affiliation-hezmuiri|Hezmu'iri]] stands. In a selat of embalmers and tomb-guards the two authorities sit close together: the Halzi'a holds the levies, the taxes and the courts, and the temple holds the dead. The priesthood of Hezmu'iri is among the largest and most powerful in the empire, and every household in the selat will need its services in the end.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Anzet-Qelt uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The Gar-Hálzi chapter attached to the chief temple attests the weight-pieces and holds the granary accounts, so a payment at Anzet is weighed by the same house that keeps the selat's grain in ledger. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : parent selat class

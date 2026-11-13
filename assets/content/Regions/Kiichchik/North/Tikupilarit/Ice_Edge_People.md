@@ -58,7 +58,7 @@ sohl: {system: {commonSkills: [tikupilaritlng]}}
 # terran_analog: the Central Alaskan Yup'ik above all, with the Iñupiat and the King Islanders; the men's house is the qasgiq, the boat-holder the umialik, the Messenger Feast the Kevgiq, the Asking the masked dances of Agayuyaraq, and the East People are the Thule moving east across the Arctic
 ---
 
-## Overview
+## Overview {#overview}
 
 The Tikupilarit are the Ice-Edge People, the sea hunters of the far northwestern coast, about 50,000 people in some two hundred villages on the capes and islands of the [[place-tikumanikrgn|Ice Coast]] and along the river channels of the [[place-taluqnapiqrgn|Lake Tundra]] behind it. They take their name from the ice edge (_tikupila_), where the ice fast to the shore meets open water and the spring hunt is made. Their ways are set out in the [[lore-tikupilaritclt|Tikupilarit]] culture note, and their tongue is the [[skill-tikupilaritlng|Tikupilarit Language]]. The south has no name for them and has never met them.
 
@@ -100,7 +100,7 @@ The Ice-Edge People deal with outsiders as little as they can.
 
 The Ice-Edge People fight with sinew-backed bows, spears and knives of stone and copper, and in the old wars they wore armor (_salaq_) of bone and ivory plates. They have fought no war between peoples in living memory. Feuds between families still end in killings, and a killing still ends in a name or in blood. Their danger to the compact is not war. It is the East People, who outhunt every people they meet with skin boats, dogs and the toggling harpoon, and whose advance pushes Those Who Give Way into the hunting country at the edge of the [[affiliation-osetakona|Maple People]].
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tikupilaritclt|Tikupilarit]]
 : the culture: what the Ice-Edge People believe and what they owe

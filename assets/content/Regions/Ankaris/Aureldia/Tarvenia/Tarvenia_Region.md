@@ -84,7 +84,7 @@ The Mercenary Tradition
 The Eskárathi Highlands
 : The [[affiliation-frtrtryskrth|Free Territory of Eskarath]], which holds [[place-eskarath|Eskarath]], preserves a culture older than the Tarveni migration itself, with its own language, laws, and fierce mountain traditions.
 
-## See Also
+## See Also {#see-also}
 
 [[place-durgalis|Dúrgalis]], [[place-herthema|Herthema]], [[place-nebralis|Nebralis]] and [[place-thorgila|Thórgila]]
 : the small towns that govern themselves by council

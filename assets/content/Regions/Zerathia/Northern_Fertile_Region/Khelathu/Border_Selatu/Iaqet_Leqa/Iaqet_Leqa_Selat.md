@@ -15,7 +15,7 @@ data:
   government: selatiaqetlq
 ---
 
-## Overview
+## Overview {#overview}
 
 **Iaqet-Leqa Selat** is the land of [[affiliation-selatiaqetlq|the Selat of Iaqet-Leqa]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
@@ -23,7 +23,7 @@ data:
 
 The way to plan a journey through this selat is by its wells. The quarries lie only a few days' ride behind the desert march of [[place-khuqetmiglet|Khuqet-Miglet]], and the quarry-roads and the well-lines run between them across sun-burned stone. Where a well or a canal reaches, there are villages, estates and temple lands, and the farmers there owe their share of the harvest and labor on the water-works like any in the empire; between them the country is stone and sky, and a garrison keeps the road.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-iaqetleqa|Iaqet-Leqa]] (~12,000)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-chelsur|Chelsur]].
@@ -31,7 +31,7 @@ The way to plan a journey through this selat is by its wells. The quarries lie o
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]]
 : The selat that holds this land

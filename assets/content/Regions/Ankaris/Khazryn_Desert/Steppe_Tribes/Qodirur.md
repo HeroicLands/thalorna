@@ -82,12 +82,12 @@ The Diqrakur are using the moment. They raided a client camp at the turn of the 
 
 The Qodirur say the ring was raised when the tribe came onto the plateau, and they give no year for it. The client families have herded for the ring for as long as their own heads remember.
 
-## Hooks
+## Hooks {#hooks}
 
 - Diqkhunlun wants the two client heads who kept back their gifts brought to the ring to explain themselves, and the clients want a stranger present who carries no tribe's word.
 - The Kenodur have sent word that their winter ravines are open to the Qodirur clients if the clients water at Kenodur wells instead. The ring-warden wants to know which client head carried the message.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

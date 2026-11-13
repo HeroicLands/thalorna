@@ -29,6 +29,6 @@ system is exact to a degree outsiders find unnerving, and the [[lore-flkkhazar|K
 Hudakal is also where a Vardain goes when a matter must be put to the lords. The tally-keepers do not
 claim to speak for anyone; they simply know how to send a question up and are the only people who do.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-vardainvalleys|The Vardain Valleys]] · [[lore-vardain|the Vardain]]

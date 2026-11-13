@@ -189,7 +189,7 @@ The blind spot of the islands is the bond itself. Faith is owed to the lord, and
 
 The sin is the [War of the Empty Seat]{.name data-type="lore/history"}. When Hojujai Henwo, the last Teng Ja, died in 709 AF, his heir was three years old. The houses of the Nine preach faith to a lord's heir as the first of virtues, and the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and the [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on a regency, so that no house should hold it and the balance among them should stand. The war that followed ran until 712 AF. The peace was bought with the throne: the Emperor abdicated in favor of his eleven-year-old son, who has conferred the office on nobody since. The islands hold that the mainland lost the Mandate because its line of emperors was broken. Their own line stands unbroken because the lords made a Son of Heaven step down to pay for their quarrel, and they keep the Dawn Rite each year with the Retired Emperor watching from [[place-lengwou|Lengwou]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court, Teng Ja and the eight houses

@@ -17,13 +17,13 @@ data:
   notes: "A road-city of northern Alessa whose road no longer leads anywhere: about four thousand people among colonnades built for thirty thousand, living by the province's northern court and registry and by selling their city's stone."
 ---
 
-## Overview
+## Overview {#overview}
 
 Soraks is a city of thirty thousand with four thousand people living in it. It stands in northern [[place-alyssa|Alessa]], in the [[affiliation-provinclys|Province of Alessa]] of the [[affiliation-vylarinmpr|Vilérian Empire]], on the old north road from [[place-orzara|Orzara]], and it was built to the measure of that road: a mile of colonnaded street, forums, baths and a council house for a hundred. The road still runs through it, paved and straight, and on its far side, past the river, it runs on to nowhere a cart can reach. The bridge is down, the traffic goes by another road a day to the east, and Soraks is the end of its road, not a stage on it.
 
 A stone-carter who has hauled out of Soraks for twenty years teaches his new boy on the first morning: "Count the columns as we go in. A rope round one means it is sold. A red mark means it is the council's, and you do not touch it. The rest belong to whoever finds the owner first, and the owners are in the tombs along the road, so mostly it is the council. We load from the top down, the carved head first, then the drums, and you keep your feet out from under them. There is more stone in this town than there are people, and we are taking it to [[place-vennara|Vennara]] one cart at a time."
 
-## Arriving
+## Arriving {#arriving}
 
 From the south the north road comes across farmland, straight as a rule, with grass growing in the joints of its paving. Its milestones still stand, cut to the pattern of the _pozerus_ (warden of the roads), and the post-house at the last mile is shut, its stable roofless and its trough full of leaves. The tombs along the last mile are old and handsome and nobody's newest; the families who built them live in Alessar and Lentora now, or nowhere.
 
@@ -39,7 +39,7 @@ Soraks lives by the province's paperwork and by its own stone. The Northern Benc
 
 The stone is the town's second living. The council sells the empty quarters a column at a time, and the carters take them south to the builders of villas in the hills round Vennara and the country houses of the senatorial families, who pay well for old marble with the city's mason-marks on it. The council licenses each column, takes a share of its price, and pays the town's taxes with it. The rest of the town lives as a country town does: a tannery by the river, market gardens inside the walls where the eastern forum was, and sheep on the grass of the baths.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Soraks is a chartered town of the Province of Alessa, with two _tavemoi_ (magistrates) elected every year and a council of _kurthaloi_ (councilors) who answer in their own persons for the taxes it owes. Twelve of them sit in the front rows of a council house built for a hundred. The province assesses the town at a figure fixed for a much larger city, and the _kurthaloi_ meet it by selling columns. The senior _tavemos_ is [[being-iltherosguri|Iltheros Gurimandis]], a cloth-merchant who has spent his life trying to get the bridge mended, and he signs every column sale himself, so he knows the price of each.
 
@@ -53,7 +53,7 @@ Soraks keeps a handful of old families who measure themselves against one anothe
 
 Soraks pays a large city's assessment and sells its colonnades to meet it. Iltheros Gurimandis, the senior _tavemos_, signs every column sale himself and has spent his life trying to get the bridge mended. A villa-builder's agent and a second agent each hold a bill for the same twelve columns of the western portico, sealed a month apart. The registry's page naming the buyer of the [[affiliation-zarkedis|Zarkedis]] house at the creditors' sale has been cut from the book. An antiquary's monograph, drawn from a chancery docket of the Republic, is on order with the copyists of Alessar, and two men from the capital have come up the north road to ask him to withdraw it.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The [Last Mile]{.name data-type="place/structure"}, on the Bench Square opposite the court-house, is full of litigants and lets its rooms by the week, not the night. It is clean, slow and dear. The old post-house inns along the colonnade are shut, but the cookhouse by the gate lets a loft to travelers who arrive after the Last Mile has closed its door.
 
@@ -64,7 +64,7 @@ The [Last Mile]{.name data-type="place/structure"}, on the Bench Square opposite
 - **The monograph.** An antiquary of Soraks has read, in the registry's oldest boxes, a docket of the chancery of the [Vilérian Republic]{.name data-type="affiliation/polity"} that names something kept for the Republic as an egg, and has written a monograph saying what it was. Copyists in Alessar have it on order, and two men from the capital have come up the north road to ask him to withdraw it.
 - **The bridge.** A Lentora merchant says the bridge could be mended in a summer if someone found the stone, and Soraks has more stone than anything else. He wants a party to cross the river and see what the far road is like now.
 
-## See Also
+## See Also {#see-also}
 
 [[place-alyssa|Alessa]]
 : the land the town stands in

@@ -55,7 +55,7 @@ them. See [[scenario-crsyhrvlnhng|The Curse of Yarvalen Henge]].
 The Forge is right. The cult of the Black Flame has been deliberately rousing the curse and magnifying it, drawing power from the destruction and the death—which is entirely consistent with a faith that holds fire's true nature to be purification and dominance, and that regards a dying country as a source rather than a tragedy. Stopping the Black Flame is a separate problem from breaking the curse, and does not by itself undo anything. The crowns have the better chance if the cult is dealt with before the Áelendan come down over the henge.
 :::
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bldfldyharvalen|Blood-field of Yarvalen]] · [[place-provenzrgn|Provénzia Region]]
 - [[affiliation-firstgods|The First Gods]] · [[affiliation-blackflame|the Black Flame]]

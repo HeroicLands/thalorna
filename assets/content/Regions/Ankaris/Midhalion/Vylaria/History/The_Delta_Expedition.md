@@ -84,14 +84,14 @@ The chancery in [[place-orzara|Orzara]] heard of the crowning within the year. I
 
 The Empire lost its strongest field force for as long as the house reigned. Barnakis died in 389, twelve years after the crossing, with no heir named and the army still across the water, and the succession that followed ([[lore-brkensuccsn|The Broken Succession]]) was fought without it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **[[place-chariotfld|The Chariot Field]].** The reed-flat below Khelaga, where the corps' dead and the Vilérian pit lie unread.
 - **[[place-shortway|The short Way]].** Two tombs at [[place-zugezer|Zu-Gezer]], one of them a Vilérian general's under a Khelathi lintel.
 - **A name nobody writes.** A senatorial house that does not speak of a forebear and a chancery that keeps no entry for him.
 - **A saying.** The Khelathi say that even those who conquer the empire end by serving its gods.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-vylconquest|The Vilérian Conquest]]—the same battle from the Khelathi side
 - [[lore-westernwars|The Western Wars]]—the campaigns that built the army

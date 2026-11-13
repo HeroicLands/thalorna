@@ -33,7 +33,7 @@ Below the shelf run the marker stones, a long row of upright slabs worn smooth, 
 - **Robbers**, who are after the tablets and not the metal. The inscribed tablets of the age are the oldest writing in the valley, and a dealer in Galezkara pays more for one than for a gold collar.
 - **The temple of Hezmu'iri**, which says the ground is the god's to keep and the Gar-Au's to visit.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The extra chambers.** A scholar who has surveyed the ground finds more burial chambers than eleven Gar-Auu need. The Keepers will not discuss it.
 - **The stone with a name.** A farmer's plow turns up a marker stone carved with a name the king-list does not hold, and the farmer wants to know whether to bury it again.
@@ -43,7 +43,7 @@ Below the shelf run the marker stones, a long row of upright slabs worn smooth, 
 For the GM, one answer the chambers can have: the round reigns of 150, 120 and 110 years cover more than eleven kings, and the tablets folded several into one name. The extra chambers are theirs. The Keepers will not discuss it because the god's list does not need correcting.
 :::
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-akhfirsttab|The First Tablets]]—the age whose kings lie here
 - [[lore-crossmound|The Crossing to the Mound]]—when the court left them

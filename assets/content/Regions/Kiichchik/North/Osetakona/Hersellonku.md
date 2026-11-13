@@ -29,12 +29,12 @@ The Pine People know the wood by the trees. Their canoe makers come north for th
 
 The Senali ask nothing of the Pine People either. No gift has passed in either direction, and the conclave takes no part in the quarrel over the hunting bands, in the [[lore-tiatorenhsa|Answering]], or in anything else of the Grove's.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Days lost in the pines.** Hunters of a band driven south from the far woods have been following moose onto the far ridges, and two of them came back after nine days believing they had been gone for one. The band's spirit-doctor wants a party to bring back the third, who has not come back, and the Pine People's clan mothers want the band told to hunt elsewhere before the young men use this as their reason to drive it off.
 - **The tallest tree.** A canoe maker of the Falls Country has been promised a hull for the great council's next voyage and means to cut it from a pine he saw on a far ridge. He hires a party to clear the way and carry the trunk out, and the Pine People who would usually guide him say no.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-flksenali|Senali Folk]]
 : the people of the conclave

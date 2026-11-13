@@ -17,13 +17,13 @@ data:
 
 An oath is knocking at a cedar door in the dark, and a town of four thousand has learned not to answer. The party must find out what the voice wants, what it was before it wanted it, and whether the cellars under [[place-velkunvartun|the Barred Gate]] hold more than tablets.
 
-## Overview
+## Overview {#overview}
 
 The settlement of [[place-vahurdash|Vahurdash]] sits in the corner of the old city of [[place-velkunar|Veshkun]] and bars its gate each night against a knocking that speaks the words of the champion in [[lore-velkunsong|the Song of the Lost Town]]. The knocker is the [Gate-dead]{.name data-type="being/creature"}, the work of [[lore-theshadow|the Shadow]], which came in by the gap an unpaid oath left among the unread dead of the record-house. It can be turned away, and it can be answered, and the only people who have answered it are gone.
 
 The adventure runs over three days and two nights. Day one is the arrival and the first night at the gate. Day two is the cellars. The second night is the reckoning at the door. The scenes are arranged as five rooms, and each can be run in any order that the party's choices make natural, with the bypass notes below to carry play on.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A broker in the yards of [[place-kethramir|Kethramír]] will pay well for any one of the clay tablets in the record-house cellars, no questions asked as to which. He does not say which house he fronts for. The cellars are under the settlement, and the settlement does not like strangers who dig.
 - **The mercenary or common soldier.** The [House of Vahurdash]{.name data-type="affiliation/lineage"} keeps a token guard and cannot man its gate. [Khorsád-Vahur]{.name data-type="being/npc"} hires hard men for the dusk watch at a daily wage in barter-weights of dates and iron, and does not say what the watch is for until the first night.
@@ -110,14 +110,14 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **If bypassed.** A party that leaves without the archive is paid by Murelul in thanks and a letter to the Shekhul of Kethramír. The tablets stay where they are.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the Gate-dead is ended.** The Barred Gate opens at night. Caravans reach the rim at dusk and Vahurdash gains trade. The warden sleeps. Murelul begins the reading of the keepers' names in the open and the Tellumi of the belt send delegations.
 - **If the keepers are named and the genealogies shown.** The House of Vahurdash keeps its seat but must say what it is. The exiled houses lose their lever.
 - **If the tablets are sold.** Dulmenul's house learns the descent of the House before the Council does, and a quarrel starts that outlasts the knocking.
 - **If the party fails.** The Gate-dead walks again, the next household goes north, and the settlers begin to leave.
 
-## See Also
+## See Also {#see-also}
 
 [[place-velkunvartun|Veshkunvartun]]
 : the gate and its knocking

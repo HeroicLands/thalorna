@@ -33,7 +33,7 @@ cross, and the crown recognizes the authority of the [[affiliation-alndnwrdns|Á
 them. The Élavendren court, which prefers not to name such things precisely, calls them the thin
 places and leaves their keeping to the people who have always kept them.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aelendnppl|Áelendan People]]
 : their tribal kin

@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Lutgar elu Galezkara** is the association of the innkeepers of [[place-galezkara|Galezkara]], open to every house that takes in travelers for pay. The keepers pool what they learn of the people who sleep under their roofs, and together they refuse the merchant houses that would rather own the capital's inns outright. That shared refusal is an independent keeper's best defense against a buyout offer.
 
@@ -54,7 +54,7 @@ The association's relation to the merchant houses is a standing refusal. The hou
 
 Say a merchant house sends an agent with a purse and an offer for an inn near **[[place-amqelger|Amqel-Ger]] (the Great Quay)**. The keeper takes the offer as a courtesy, names her price as one she knows he will not meet, and mentions it that evening to the others. The next morning the agent is turned away at two more doors. The inns stay independent, and the information they trade is the capital's best-kept public secret.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The city whose inns its members keep

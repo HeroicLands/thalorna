@@ -28,7 +28,7 @@ In the telling of Aldarlok the hound breaks loose, and Eidgar meets it. The stan
 
 The halls draw a lesson for the living from the pair. An outlaw at the ting is a _vargur_ in the law's eye, and a judgment against him binds the judges to see it kept. "You do not get to sentence a man and walk away from him," the Logstead Hofgudi tells a newcomer. "Eidgar didn't. He stood at the end of that chain until the world ended."
 
-## See Also
+## See Also {#see-also}
 
 [[lore-eidgardty|Eidgar]]
 : the god the hound takes at Aldarlok

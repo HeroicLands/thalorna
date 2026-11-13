@@ -17,13 +17,13 @@ data:
   notes: "A market town of Salkalon's inland estate country, where the grain, wool and leather that feed the ports are sold, and whose estate-lords look inland toward Hilen and speak for the war with Taruzel that the coast's merchants fear."
 ---
 
-## Overview
+## Overview {#overview}
 
 Therkara lies in [[place-salkhalon|Salkalon]]'s inland country, where the coastal province turns to farmland, a market town of about four thousand among the agrarian estates that feed the port cities. It supplies grain, leather and wool to the harbors rather than shipping them abroad directly, and it is the quiet, landward face of an otherwise seafaring province.
 
 An estate steward from the interior, in town for market, tells a coast-bred clerk where Therkara's loyalties lie: "Our lords have more in common with the gentry of [[place-hylen|Hilen]] than with the shipping houses of the coast. The sea is somebody else's business, and we sell it what it eats." Its estate-lords look inland, toward Hilen, rather than out to sea.
 
-## Arriving
+## Arriving {#arriving}
 
 The road inland from [[place-mercavia|Delalara]] leaves the coast behind in half a day and climbs into rolling country of wheat, pasture and oak woods, with the villas of the estates on the low ridges and their tenants' villages in the valleys below them. Therkara stands where three estate roads meet the provincial road, a walled town of yellow stone on a hill above a river ford, with its market square inside the gate and the tanneries outside it, downstream, where the smell can go with the water.
 
@@ -35,7 +35,7 @@ Market day is every eighth day, and the estates send in what the coast needs: gr
 
 The estate country has its own temper, which is the temper of Hilen. Its families are old provincial houses named for their estates, they hold to the cult and to the old forms, and they think the coast's merchants are too friendly with the islands. They sent their sons to the marines in the war, and they lost them at the [[place-tamzirshoals|Tamzir Shoals]], and when the admirals at Kastamar say that the war should be resumed, the estate-lords of Therkara are the first in the province to agree.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Therkara is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors) who answer in their own persons for its taxes. The estate-families fill the council through their stewards, and the masters sit in it themselves in winter. The first of them is [Teremos Kalmethen]{.name data-type="being/npc"}, master of the [Kalmethen]{.name data-type="affiliation/lineage"} and of their estate of [Kalmethenna]{.name data-type="place/settlement"}, the largest in the district, who came home from the war with a scar across his face and has spoken for its renewal at every provincial audience since.
 
@@ -45,7 +45,7 @@ The legion stationed in the province keeps its camp on the provincial road an ho
 
 The estate-lords of Therkara speak for the war, and the war's fleet pays them in paper. Teremos Kalmethen and the other masters look inland toward Hilen and want Taruzel humbled, while the fleet's victuallers have bought half the grain at the last three markets with the admiralty's notes, which the stewards cannot spend. Someone has chiseled a name off the war pillar in the night. An old nurse of the Kalmethen household has left the estate and wants a letter carried to the [[affiliation-imperialoffices|Imperial Offices]] in Orzara.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The [Sheaf and Sickle]{.name data-type="place/structure"}, inside the gate, is the inn of the coast's buyers, and on the night before market it is full of factors and victuallers comparing prices. A party with a letter to one of the estate-families is lodged at that family's villa, where the host asks its views on the islands before the second course.
 
@@ -55,7 +55,7 @@ The [Sheaf and Sickle]{.name data-type="place/structure"}, inside the gate, is t
 - **The pillar.** Someone has chiseled a name off the war pillar in the night. The families want to know whose name it was and who wanted it gone.
 - **The old servant.** An old woman who was a nurse in the Kalmethen household has left the estate and come to the town, and she asks a party to carry a letter for her to the [[affiliation-imperialoffices|Imperial Offices]] in Orzara.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provincvld|Province of Salkalon]]
 : parent province

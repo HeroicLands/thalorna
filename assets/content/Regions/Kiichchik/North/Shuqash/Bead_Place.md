@@ -18,7 +18,7 @@ data:
   notes: "Bead Place: the drilling town of Bead Island, where nearly every household makes shell beads and the counter's strands are the ones the coast measures against."
 ---
 
-## Overview
+## Overview {#overview}
 
 The first thing a visitor to Shuqwil hears is the drills: the whir and tick of pump drills in every doorway, from dawn until the light fails. Shuqwil, Bead Place, is the largest town on [Shuq Siwaq]{.name data-type="place/feature"}, Bead Island, a morning's paddle across the channel from [[place-kulaywil|Kulaiwil]], and the place where most of the beads of the [[affiliation-shuqash|Shuqash]] are made. About 2,000 people live here, in domed reed houses on a terrace above a cove, among mounds of broken shell as high as the houses.
 
@@ -36,7 +36,7 @@ The island has little water and almost no wood. Shuqwil's water comes from one s
 
 The chief is [[being-shiyawliq|Shiyawliq]], Clear Sea, who was nine when her father died in a coughing sickness. Ayulchim held the town's beads for her for three winters and counted them back to her at her first feast. Shiyawliq is fifteen now, and the island's canoe masters, who would like a larger share of the cargoes, test her every spring.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People and their towns

@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 From a day away, Vulud looks like a stand of broken teeth: nine tower tops, the highest of them forty feet of cracked brick, standing out of a sea of pale dunes in a country with no other thing taller than a camel. That is all of it that shows. The rest of a city of perhaps ten thousand lies under the sand, which moves a few yards in a year toward the north-east and has been moving for longer than anyone has counted.
 
@@ -39,7 +39,7 @@ A sand-front has opened a street on the eastern edge of the city, and this seaso
 - **Two buyers, one street.** The Bizarian factor and the Tantsou collector each believe the street is theirs, and each hires guards for a dig the other means to have first.
 - **Sold twice over.** The Uruvolur know where everyone in the Ghoshiqor is. A party that finds a fresh street unguided is a competitor, and they sell its position to both buyers.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-towercities|The Tower Cities]]
 : the league that built it

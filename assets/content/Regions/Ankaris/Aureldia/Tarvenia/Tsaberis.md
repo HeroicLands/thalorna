@@ -48,13 +48,13 @@ The town keeps the shrine of [[affiliation-menutsa|the Mother]] in a cave a mile
 
 This year's companies have gone down to the coast and stopped there. The seamen of [[place-valthari|Valthari]] refuse to sign on until the ship-owning houses raise the crew's share, and the company of the High King's own valley, sworn at the stone and led by its captain, [[being-kanarrektsuk|Kanarrek Tsukurreta]], waits on the idle quay for a ship to its Taruzelian buyer. Its contract names a day, and the day is passing. The valleys that drove through Tsaberis in spring are waiting to hear whether the season's pay will come home, and the shepherds' council has a quarrel over the order of the flocks to settle before the drive comes down in autumn.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A contract read at the stone.** A captain has read out terms at the oath stone that are better than any company has been offered in years, and the older men will not put their hands on the stone.
 - **The order of the flocks.** A valley that has driven fifth for a century has been placed last by the shepherds' council, and its elder says the vote was bought.
 - **A name on the roll.** A man signed on at the stone under a name that is not his own, and the company is already on the road to the coast.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-asturath|Asturath]]—the mountain land around it
 - [[affiliation-kngdmstrth|Kingdom of Asturath]]—the kingdom that holds the drove roads

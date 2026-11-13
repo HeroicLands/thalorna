@@ -89,7 +89,7 @@ At Herthema the company's quarrels go on without it. The Keeper of the Roll of t
 - **The struck file-leader.** Prámiza wants to know who in the Council of Herthema arranged the striking, and what they gain.
 - **The war pass.** [[scenario-greenbough|The Green Bough]] turns in part on what Kraveldo's contract with its baron says.
 
-## See Also
+## See Also {#see-also}
 
 [[being-pramizamozk|Prámiza Mozkarreta]]
 : the company's captain

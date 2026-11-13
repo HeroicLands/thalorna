@@ -60,7 +60,7 @@ Region
 Convenes
 : four times a year, at the season-turns; a calling between turns is rare and solemn
 
-## Overview
+## Overview {#overview}
 
 The Circle is older than any of the tribes of the present day. The poets say it was founded when the first Dunhari warriors, wandering bands that had not yet settled into the territories they now claim, met and swore that no Dunhari blade would be raised against another while a common enemy walked the land. The [Old Promise]{.name data-type="lore/custom"} has been broken many times in small ways and has held every time it mattered, and the Circle exists to keep it and, now and then, to use it.
 
@@ -128,7 +128,7 @@ The Foreign Offer
 The Acclamation
 : a young warrior, newly famous, is proposed for the Circle, and an elder of the Council of Scars opposes him for reasons he will not fully give. The meeting becomes the most bitter the Circle has known in years.
 
-## See Also
+## See Also {#see-also}
 
 [[place-stoneofranaz|Stone of Ranaz]]
 : the hill-shrine where the Circle meets

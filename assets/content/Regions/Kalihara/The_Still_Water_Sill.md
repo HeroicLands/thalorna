@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Still-Water Sill lies across the bed of the river at the head of [[place-klhrkthrgap|the Kuethori Gap]], where the water of [[place-klhrlake|the Bowl Lake]] leaves the interior of [[place-klhrcntnnt|Kalihara]] and enters the gorge. It is a long, low swell of [[lore-itharisul|ithasul]] from bank to bank, gray and without a seam, and the river slides over it smooth. The custodians call it _Ithavanu-sul_ (still-water stone), for the lake it keeps.
 
@@ -40,7 +40,7 @@ Upstream the lake lies open and still, with [[place-klhrmassif|the Massif]] stan
 
 The sill is a day along the southern shore of the lake from the terrace country, at the Kuethori's own village. Below it the only way down the gorge is the ledge road, which nobody uses without a Kuethori on it, and in Deepwater the lower ledge goes under.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrkthrgap|The Kuethori Gap]]
 : the gorge at whose head the sill lies

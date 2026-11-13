@@ -16,11 +16,11 @@ data:
   notes: "The pass village at the crest of the Cloud Pass, home of the lineage that keeps the road over Kalihara's Ring and the only village outsiders are ever walked through."
 ---
 
-## Overview
+## Overview {#overview}
 
 Avoluthei is the village in the notch of [[place-klhrcldpss|the Cloud Pass]], on the saddle between the outer and the inner faces of [[place-klhrring|the Ring]]. [[affiliation-lineageavoluthei|The lineage Avoluthei]] that holds the pass takes its name from it (_avoluthei_, cloud pass), and the village gives its name back to the lineage's whole country on either side of the crest. It stands in cloud for most of the year, a double row of low stone houses with turf roofs along the road, built close against the wind.
 
-## The Holding
+## The Holding {#the-holding}
 
 The Avoluthei keep the road: the cut steps, the rope bridges, the shelters below the crest and the gate at the village, where every traveler is stopped and asked for a lineage's word. A traveler without one is turned back, and the lineage's gatekeepers do not discuss the matter. The wind-stone of the pass stands on the crest above the village, a smooth gray swelling out of the wet rock, and the Avoluthei walk it with the custodians out of [[place-mirthaan|Mirthaan]] who tend it. The blindfolded walk by which the island admits an outsider, on the rare occasions it does, begins and ends with this lineage, and the band is woven in the village.
 
@@ -28,15 +28,15 @@ The Avoluthei keep the road: the cut steps, the rope bridges, the shelters below
 
 The wind-stone of the pass is among those that give and are gray, and the Avoluthei say it is well. They say it often. Storms that once broke on the crest above the village now reach the inner face with less of their rain, and [[place-klhrestrrc|the eastern terraces]] beneath the pass have been dry in the [Wet-Turn]{.name data-type="lore/calendar"}. The lineage lays the blame on the ports below, whose foreign hulls, it holds, have drawn the failing in. The village does not argue the matter with anyone from the coast, and it keeps the gate shut a little longer each year.
 
-## What Is Seen from It
+## What Is Seen from It {#what-is-seen}
 
 Cloud, most days. On a clear morning [[place-klhrbowl|the Bowl]] opens to the west and the sea shows to the east beyond the ridges.
 
-## The Cost of Reaching It
+## The Cost of Reaching It {#cost-of-reaching-it}
 
 The village is two days' climb from the last coastal valley and a day's descent from the terraces. The road is closed in [Deepwater]{.name data-type="lore/calendar"}, and the households stay indoors until the rains end.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrcldpss|The Cloud Pass]]
 : the pass the village keeps

@@ -37,7 +37,7 @@ The companies live on their patrons, and the patrons are the houses of the [[pla
 - **The engine.** A machinist's yard has lost the drawings of a new stage engine the night before a season opens, and its company's patron wants them back before a rival house's company stages it.
 - **The patrons' quarrel.** Two houses' clients brawl in an odeon over which company opens the season, and the losing patron wants to know who paid the brawlers.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city

@@ -63,7 +63,7 @@ The Eichthúl tell it as a theft and a desecration in one. The grove at Hrindste
 
 [Mahnulf ira Eichthúl wur Eichreth]{.name data-type="being/npc"}, War Chief of the kindred's village, burned the first stockade within the month. The settlers raised the second on the same posts, and Mahnulf has not yet been given the muster he would need to burn it, because the danger is the Eichthúl's and the neighboring villages' elders have not agreed it is theirs. [Erthilda ira Eichthúl wur Eichreth]{.name data-type="being/npc"}, the kindred's Shaman, keeps the count of the Eichthúl dead who lie under the settlers' floors. She will not cross the settlers' bounds to call them home while the posts stand, and she has not called them since 708, so every winter the count is recited at [Weskskald]{.name data-type="lore/gathering"} with nothing after it. That is the grievance the Eichthúl state first, before the trees and before the ground.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The stockade.** Standing, twice built, with the ring of oaks around it and a second burning expected.
 - **The dead in the grove.** Eichthúl dead lie in the ground under the settlers' posts, and Nordmen have died in the grove since; neither people's rite has been performed for the other's dead, and both know what that leaves.
@@ -71,7 +71,7 @@ The Eichthúl tell it as a theft and a desecration in one. The grove at Hrindste
 
 A party on the Nalthmark road can be hired by either side, and the hire will be the same on both: find out what the other side means to do at the next [[lore-sumarmal|Somarmál]], when the settlers walk their bounds again with fire on ground the Eichthúl have already burned once.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hrindstead|Hrindstead]]
 : the stockade and the grove

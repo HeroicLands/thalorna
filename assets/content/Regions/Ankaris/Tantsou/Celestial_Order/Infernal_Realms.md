@@ -35,7 +35,7 @@ The Warlords of the [[lore-zhazho|Zhazho]] are the empire's first defense agains
 
 Whether the threat is as near as the ruling castes say, or swollen to justify their power, is a question a few people ask, and only in private. The empire's growing troubles—plague, war on its borders, whispers that the [[lore-mandatehvn|Mandate of Heaven]] is failing—may mean the classification is truly fraying, or may be the ordinary friction of a vast administration straining under its own weight. A great deal turns on which, and the Tanchei are divided.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-youweng|Youweng]]
 : the Infernal Realm, its Demon Lords and those who know their forms

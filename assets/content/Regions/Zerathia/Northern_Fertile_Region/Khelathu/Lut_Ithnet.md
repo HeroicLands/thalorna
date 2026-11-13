@@ -71,7 +71,7 @@ The canal leaves the river by a head-gate and runs most of a day by boat across 
 The steward had the head-gate closed and sealed. The canal failed because he wanted it to: nobody leaves the estate by water, and nobody comes. The estate's seal-cord, on the steward's belt, breaks the seal, and water comes down the channel in a day.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the valley and its desert margins

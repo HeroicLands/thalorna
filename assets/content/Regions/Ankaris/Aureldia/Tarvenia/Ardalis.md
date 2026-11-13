@@ -57,13 +57,13 @@ Ardalis is doing an election's trade before there is an election. The High King,
 
 The same lowland money is pressing on the iron. The merchants of [[affiliation-kingdmlnrk|Lyenrik]] offer more for raw iron than the forges pay, as they do every year, and this year one mining family deep in debt has been offered a price for its ore that no forge can match. The town's oldest rule holds only while every family keeps it. Above the main forge, the Warden of the Iron has begun counting the blooms twice.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The lowland offer.** A Liénriki merchant has offered one mining family a price for its ore that no forge can match, and the family is in debt. The other families have noticed.
 - **A captain's bows.** A company has come home with Ardalis bows that failed at the first frost, and its captain wants the forge that made them named before the town.
 - **The tower's count.** The Warden of the Iron has begun counting blooms twice, and nobody in the town can say whom the second count is for.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-asturath|Asturath]]—the mountain land around it
 - [[place-lezkora|Lezkora]]—the High King's city at the top of the road

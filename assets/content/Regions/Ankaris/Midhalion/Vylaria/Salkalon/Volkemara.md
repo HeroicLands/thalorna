@@ -17,13 +17,13 @@ data:
   notes: "A harbor town of boats and curing-sheds on the Salkalon coast, one of the province's four great fishing towns, whose net-masters set the price of salt fish in the capital and whose people keep the old rule that the sea's dead are not asked after."
 ---
 
-## Overview
+## Overview {#overview}
 
 Volkemara, the harbor town, is one of [[place-salkhalon|Salkalon]]'s four great fishing towns, with about eight thousand people, and its harbor is crowded with the boats and the curing-sheds that supply fresh and salted fish to the capital and the interior provinces. It lives by the catch and the fickle sea, and its people keep to the old coastal customs and a wary devotion to the sea's moods.
 
 In a hard winter the price of Volkemara's salt fish is felt as far inland as the capital's markets, and the town's net-masters and curing-houses wield quiet weight in the provincial fish trade. A net-master explains the weather to a newcomer in terms of money: "A good month at sea is a cheap month in [[place-orzara|Orzara]]. A bad one, and the capital pays us for the sea's temper."
 
-## Arriving
+## Arriving {#arriving}
 
 Volkemara lies in a shallow bay behind a spit of shingle, and its harbor is the spit's inner curve: no mole, no quay, only a long beach where the boats are drawn up bow to the land in rows of a hundred, each boat painted with an eye on either side of its stem. The curing-sheds stand behind the boats in long open rows, roofed and walled on the windward side, and the fish are split, salted and stacked in them under weighted boards. The town rises behind the sheds in whitewashed houses with blue doors, and over every door hangs a dried fish, head down, which is the town's old charm against drowning.
 
@@ -37,7 +37,7 @@ The net-masters are a dozen families who have held the town's boats and grounds 
 
 The town has one rule older than its charter. A man the sea takes belongs to the sea, and his death is not asked after: the Priest of Storms gives his name to the water from the Weather Stone, his widow takes his share of the boat, and nobody speaks of how he went.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Volkemara is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) elected each year and a council of _kurthaloi_ (councilors) who answer in their own persons for its taxes. The council is the net-masters, and its business is the grounds: which boats fish where, and what a boat that fishes another's ground owes. The Priest of Storms is not of the council, but no council meets on a black morning without him.
 
@@ -47,7 +47,7 @@ Quarrels on the beach go to the net-master whose boat is in them, and the net-ma
 
 The net-masters keep the grounds to themselves, and the grounds are being pressed. A boat with no eye on her stem fishes the town's grounds by night. The salt boat from Thremuzara is a week overdue and the catch is spoiling in the sheds. A net-master drowned in the autumn gales, the town keeps its rule that the sea's dead are not asked after, and his widow has refused his share of the boat.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The [Painted Eye]{.name data-type="place/structure"}, at the head of the beach, is the town's inn, kept by the widow of a net-master, and its rooms smell of salt and smoke whatever the season. Factors' agents rent the rooms above the curing-sheds for the winter. A party willing to row can be taken onto a boat short of a man and paid a share.
 
@@ -57,7 +57,7 @@ The [Painted Eye]{.name data-type="place/structure"}, at the head of the beach, 
 - **The stranger's boat.** A boat with no eye on her stem has been fishing the town's grounds by night, and the net-masters want her found and her owner named.
 - **The widow's share.** A net-master was drowned in the autumn gales, and his widow has refused to take his share of the boat. She asks a party, quietly, to find out who was with him the night he went out.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provincvld|Province of Salkalon]]
 : parent province

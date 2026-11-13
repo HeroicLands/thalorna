@@ -72,14 +72,14 @@ Magu-Thelqen did not fall. It emptied from the edges inward. The avenues stood, 
 
 The house's scholars set its doctrine down in a book. The temple of Reth'Sa'ar at [[place-khelunu|Khelunu]] holds that a book carrying a Gar-Au's name cannot be burned, and holds as well that this one cannot be read, since it contradicts the Twelve. The priesthood walled it into a chamber of the library-temple and declared its contents heretical. The chamber has stayed sealed since, and the scholars who have wanted it opened have been refused.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The half-empty city.** The selat of Magu-Thelqen has an avenue grid drawn for far more people than live in it.
 - **A rule of caution.** The priesthood treats a Gar-Au who claims too much of the sun as a danger to the throne, and [[lore-akhstruckhs|the Struck House]] proved the point.
 - **The sealed chamber.** A book of the doctrine at Khelunu, and a standing temptation to scholars with a grievance.
 - **The venture west.** The same court sent the army and embassy of [[lore-templetrib|the Tribute of the Temple-Cities]] across the [[place-sthmrchsrgn|South Marches]].
 
-## See Also
+## See Also {#see-also}
 
 [[place-maguathen|Magu-Thelqen]]
 : the city the house built

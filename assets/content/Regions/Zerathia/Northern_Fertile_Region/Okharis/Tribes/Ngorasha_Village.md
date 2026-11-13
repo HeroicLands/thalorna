@@ -17,7 +17,7 @@ data:
   notes: "Fishing village of the Ngorasha tribe on a river of Okharis."
 ---
 
-## Overview
+## Overview {#overview}
 
 Ngorasha Village is the seat of the [[affiliation-ngorashatrb|Ngorasha tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

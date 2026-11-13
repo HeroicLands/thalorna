@@ -37,7 +37,7 @@ On land, the shield-wall asks each fighter to keep a place beside others. The ra
 
 The levy is a public obligation, distinct from a crew's chosen raid. A [[lore-bondirnk|bundi]] answers the muster and pays the kingdom's dues. A [[lore-hersvaldrnk|hersvald]] leads a district's people to war, while the skipstjori answers for its ships at sea. The king's _Hirvstjori_ (marshal) masters the wider muster. In Targud, rotating fort duty is a form of that obligation; on the coast it can call ships and crews away from their ordinary work. A raid can seek gain for those who sail, but a levy claims service under the kingdom's law and the leaders accountable for it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nordheimnclt|Nordheimn]]
 : oaths, hall obligations, the ting and the price of a feud

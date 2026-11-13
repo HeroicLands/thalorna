@@ -97,7 +97,7 @@ Vedyara is overwhelmingly human, and nearly all of it is [[lore-vedyariclt|Vedya
 
 The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass of the floodplains. [[being-vdyrnelphnt|Vedyaran elephants]] serve as temple mounts and war beasts.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : the surrounding continent

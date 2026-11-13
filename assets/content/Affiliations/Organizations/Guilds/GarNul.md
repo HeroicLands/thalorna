@@ -68,7 +68,7 @@ Charter
 Tevran Maldor status
 : Not a member; independent [[lore-khelathiclt|Khelathi]] institution. It has no standing credential equivalence with the [[affiliation-tevran|Tevran Maldor]], and a foreign hunter operating in Au'Khelathu needs a license granted case by case. The [[lore-taruzelianclt|Taruzelian]] [[affiliation-vezakuni|Vezakuni]] has approached **Gar'Nul** with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
 
-## Overview
+## Overview {#overview}
 
 A village on [[place-zumeleshrvr|the Zumelesh]] whose goats keep vanishing at the river's edge does not send for a soldier. It sends for Gar'Nul, which answers with a licensed culler, a bronze token at his belt and a report to file afterward. The guild licenses the empire's professional hunters, and that is the whole of its claim.
 
@@ -170,7 +170,7 @@ Foreign hunters stand outside all of this. The guild licenses them case by case 
 - **The Meglai Provocation.** A Meglai noble has begun running commercial-scale hunts under cover of his hereditary exemption, undercutting guild prices in the meat markets. The Council of the Long Spear's answer will test the accommodation that has kept the two bodies at peace for centuries.
 - **The Foreign Specialist.** A [[lore-vylarianclt|Vilérian]] beast-master claims an [[affiliation-ordoarcanis|Thordimalon]] license to procure rare fauna for arcane study and has begun working in Khelathi territory without a Gar'Nul license. The court has declined to intervene. The guild must decide whether to obstruct him, accommodate him or petition the Gar-Au to refuse **Arcane Order** procurement permits.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garmelnu|Gar'Melnu]]
 : The smiths' guild, sibling imperial chartered guild

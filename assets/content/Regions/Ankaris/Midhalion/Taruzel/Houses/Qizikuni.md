@@ -97,7 +97,7 @@ A marriage merges the debts of two houses, and Katira Tanaduni has asked to read
 - **The broadsheet.** A broadsheet pasted on the bronze doors overnight names the Qizikuni as the lender that took the veterans' land. Tirmana wants the printer found and the sheet left up until she knows who reads it.
 - **The answers.** Tirmana sends a party to Yamuzel and Bazunel with her letters on the hereditary seats, and [[being-dlzrtndn|Delzuru Tanaduni]] and [[being-brshrskn|Abarash Rusakuni]] each ask the party what the other said.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-auricompct|Auric Compact]]
 : the guild the house is bound to

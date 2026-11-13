@@ -79,7 +79,7 @@ The [Festival of the Departed]{.name data-type="lore/gathering"}, celebrated ann
 
 In the nomadic camps, worship of Azravan takes more spontaneous form. A Delkoshekh or fire-keeper may kindle an emergency death-fire whenever a soul departs, regardless of time or season. In some tribes, when a beloved elder lies dying, the entire camp gathers around the death-fire, and each person speaks a memory of the dying one—a deed, a kindness, a moment of courage or wisdom. These testimonies are understood to be recorded by Azravan himself, inscribed upon the soul's ledger before the journey begins. A soul who departs surrounded by such witness is believed to travel the bridge with greater confidence.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Azravan is smaller and more specialized than that of many other deities in the [[affiliation-ashanpnthn|Ashaian pantheon]], for the simple reason that death comes to all at roughly equal intervals regardless of season or circumstance. Unlike the priesthood of [[affiliation-zurathra|Zúrathra]], which must manage irrigation and farming throughout the year, or [[affiliation-ataros|Ataros]], whose flame-tending is an endless daily labor, the priests of Azravan focus their work on a few critical moments—the last breath, the exposure, the burning, the reading of signs.
 

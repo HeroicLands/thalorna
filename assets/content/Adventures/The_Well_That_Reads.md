@@ -17,13 +17,13 @@ data:
 
 Something at the bottom of a shaft trades secrets for blood, and the hidden priest of the [[lore-khazrynclt|Tellumi]] has been feeding it for years to keep his people safe. The oasis is drying because of him. The [[affiliation-tribestrzd|Atarzád fire-warden]] who hunts him is feeding it too. The party goes down to find out which secret is worth the water.
 
-## Overview
+## Overview {#overview}
 
 Under the cliff of [[place-oasishirvn|Shirvan]], the dry well of [[place-peldenderal|Peshdenderat]] answers questions for blood. The thing that answers, the [Tally]{.name data-type="being/creature"}, is a seam of [[lore-theshadow|the Shadow]] that rose through a hundred and forty fathoms of rock to the surface of a burned archive and learned to read. It sells what it reads. [Nurmelul]{.name data-type="being/npc"}, the hidden Shekhul, buys the quarter's safety from it. [Qeshumor]{.name data-type="being/npc"}, a fire-warden of the [Ozhmarod]{.name data-type="affiliation/polity"}, buys the Tellumi's secrets from it, without knowing that his supplier sells to the other side as well. Neither knows the other comes to the well.
 
 The adventure runs over two days and a night. The first day is the quarter and the stair, the night is the descent, and the second day is the vault and the reckoning in the market. The rain in the uplands sets a clock on the lower galleries. The bypass notes carry play on when the party skips a scene or takes a shortcut.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A water-master of the Tellumi quarter, a dry man with ink under his nails and a habit of looking over his shoulder at doorways, offers a contract to burgle the lower gallery. It is the only place in the city the Ozhmarod do not search, and he wants a ledger taken from it. He does not say whose, and he pays half in advance in a coin that is warm from his hand.
 - **The mercenary or common soldier.** An Ozhmarod captain hires a party to guard a fire-warden on a night watch, without telling them it is a descent into the cliff. He gives each hireling a lamp, a cloak and a short oath to the Flame, and tells them that the warden has been robbed. The warden, when they meet him, says nothing of the sort.
@@ -110,14 +110,14 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 **If bypassed.** A party that never enters the vault hears of the clay from a water-master within the year, who asks, with a long look, whether the party saw anything in the cave worth mentioning.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the Tally is silenced.** The spring rises over a season. The quarter loses its eyes, and the hidden Shekhul, if he lives, is exposed. The water-masters reset the channel-hours a third time and this time the hours lengthen, and the eleven households learn they are free of a debt they never fully understood.
 - **If the priest is taken.** The Ozhmarod close the lower galleries and the well drinks on. The quarter hears who talked and the party's name goes into the water-masters' ledger beside the black marks.
 - **If the clay is carried to Amradad.** The exile house gains a hold on the seven cities' treaties. The envoy's face when the first tablet is unwrapped is a thing the party remembers.
 - **If the party fails.** The oasis dries, the priest dies and the Tally finds a new servant. A year later the date groves at the edge of the town are bare, and a stranger in the market offers to sell a secret for a drop.
 
-## See Also
+## See Also {#see-also}
 
 [[place-peldenderal|Peshdenderat]]
 : the well and the voice

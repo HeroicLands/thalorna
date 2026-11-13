@@ -18,7 +18,7 @@ data:
 # terran_analog: the barren grounds of the Kivalliq and the Northwest Territories beyond the treeline; the Barren-Ground People stand for the late Dorset, the Tuniit of Inuit tradition, whom the Thule displaced between about 1000 and 1300
 ---
 
-## Overview
+## Overview {#overview}
 
 Kawiskak Region is the land of the [[lore-kawiskakclt|Kawiskak]], the Spruce People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is the great northern forest: spruce and birch on bare rock, more lakes than anyone has counted, and a winter that lasts seven months. The only roads are the rivers, open water in summer and ice in winter. About 65,000 people live in it. Some 60,000 are Spruce People, who hunt it in small family bands and meet at the fishing lakes in summer, and a few thousand more are the [Barren-Ground People]{.name data-type="lore/culture"} beyond the treeline. Nobody farms here and nobody lives in one place all year.
 
@@ -70,7 +70,7 @@ None of the Spruce People's bands belongs to the [[affiliation-redstncmpct|Red S
 
 Furs and copper go south. Beaver, marten, otter and lynx pelts, the Barren-Ground copper and birch-bark canoes go to the Grass People at the Fish Lake and to the Pine People at their northern villages. From the Grass People come bison fat, dried meat pounded with berries, robes and tobacco, and from the Pine People come maple sugar, corn, flint and the Maple People's own lake copper. The forest bands trade at the edges and nowhere else. Few traders of the compact nations come further in than the Fish Lake, and those who do come with a Spruce guide.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-kawiskakclt|Kawiskak]]
 : the culture of the Spruce People: their bands, their lakes and what they owe

@@ -97,7 +97,7 @@ The fellowship's internal culture prizes rigor and craftsmanship. A Sideris mage
 
 Politically, the Zulen Sideris tends toward conservatism—it defends existing structures, supports established hierarchies, and resists institutional change unless the change can be shown to improve the system's overall coherence. This makes the fellowship a reliable anchor for the Order's leadership but also a frequent obstacle for reformers. When other Zulethalar push for change, it is often Sideris that insists on procedure, precedent, and proper process. The fellowship's critics call this obstruction; its members call it responsible governance.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework

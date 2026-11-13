@@ -15,11 +15,11 @@ data:
   notes: "A school-and-farm village of Gar-Reth'Sa'ar, its fields worked and its rooms let to the households of those studying at Khelunu"
 ---
 
-## Overview
+## Overview {#overview}
 
 Zma-Thothu stands among the fields of [[place-garrethsaarnome|Gar-Reth'Sa'ar]] and lives by two trades that are really one. Its land is worked for grain, and its houses are let room by room to the households of those studying at [[place-khelunu|Khelunu]]. A family here keeps a field and a lodger, so the year turns twice: once on the harvest and once on the school terms.
 
-## See Also
+## See Also {#see-also}
 
 [[place-garrethsaarnome|Gar-Reth'Sa'ar]]
 : the selat country that holds it

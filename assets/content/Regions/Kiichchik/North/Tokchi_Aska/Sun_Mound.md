@@ -17,7 +17,7 @@ data:
   notes: "The Sun Mound, chief town of the One Fire and seat of the Great Sun, on the floodplain of the great river."
 ---
 
-## Overview
+## Overview {#overview}
 
 From the river the first thing a traveler sees of Hayo Pokta is the great mound: a flat-topped hill of earth higher than any tree on the floodplain, with the Great Sun's house on its summit and the smoke of the temple fire rising beside it. The name means the Sun's Mound. It is the seat of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, and the largest town in the north, with about 15,000 people on the floodplain of the great river in the [[place-hokpargn|River Valley]]. The south calls it Ts'uma No'tun, after the nation.
 
@@ -45,7 +45,7 @@ Two Shell Chiefs have already sent canoes down the gulf coast, farther than any 
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire and its nation

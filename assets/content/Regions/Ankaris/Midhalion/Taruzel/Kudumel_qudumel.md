@@ -74,7 +74,7 @@ The population is heavily mixed: Taruzelian merchants, Dunhari tribespeople who 
 
 It is also the city where the [[affiliation-ordoarcanis|Thordimalon]] is weakest. The eastern traditions that come in along the caravan routes—Ashaian fire-worship, Dunhari sand-divination and Vedyaran meditation—are practiced openly, and a thriving magical underground works outside the Arcane Order's control, to the Arcane Order's considerable frustration.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian currency]], issued under the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]]. Its Solden, Ardin and Bit follow the Vilérian denominations but rest on Taruzelian reserves rather than on the Vilérian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vilérian standard. The banking runs through Merazuni-affiliated moneylenders, who honor no Vilérian script and whose own script is honored nowhere in Vilérian territory.
 
@@ -87,7 +87,7 @@ The fire of Kudumel's oldest temple was burning before the empire came to the is
 - **The Tribal Councilor.** A Tribal Councilor has not come down to the council's session, and his household camps by the west gate without him. [[being-llmnblnn|Ellamuna Balinuni]] wants to know where he has gone.
 - **The Arch-Consul's warehouse.** [[being-dnshkmn|Danashu Kumuni]]'s sons, who keep his warehouse on the market, have been offered a contract too generous to be honest, and their father wants a party to learn who is offering it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-qudumel2|Kudumel]]
 : the city itself

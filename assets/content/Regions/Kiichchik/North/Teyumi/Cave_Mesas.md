@@ -17,7 +17,7 @@ data:
 # terran_analog: Mesa Verde and the Montezuma Valley of southwestern Colorado, with the Chimney Rock country to the east; the move into the cliff alcoves is the one made around 1200
 ---
 
-## Overview
+## Overview {#overview}
 
 The Cave Mesas (Wahaula Huvo) are the high northern country of the [[affiliation-teyumi|Turquoise People]]: broad mesas with juniper and piñon on their tops, cut by canyons so deep and narrow that a town on one rim can shout to the next and walk half a day to reach it. About 45,000 people live in them, and over the last generation more and more of them have moved their homes down off the mesa tops into the great alcoves weathered into the canyon walls. The mesas take their name from those alcoves. They are the wettest part of the [[place-teyumirgn|Teyumi Region]], and they are not at peace.
 
@@ -37,7 +37,7 @@ The cliff towns explain the move in different ways. Their elders say the alcoves
 
 The Cave Mesas are the Turquoise People's frontier with the mountains and the plains. The bands of the [[affiliation-tenlaya|Grass People]] come to the eastern mesas in autumn to trade meat and hides for corn and cloth, and a few of their young men winter in the cliff towns as guests. The mesas send their corn, their pottery and their black-on-white painted mugs south to the canyon on the roads, and the signal fire on the Moon Door can call the whole north to arms in an evening.
 
-## See Also
+## See Also {#see-also}
 
 [[place-teyumirgn|Teyumi Region]]
 : the land of the Turquoise People

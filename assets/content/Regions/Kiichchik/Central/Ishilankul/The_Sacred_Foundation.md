@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 0, packFold
 # terran_analog: the walled ceremonial precinct of Tenochtitlan and the pilgrim hostels of the Andean shrine at Pachacamac
 ---
 
-## Overview
+## Overview {#overview}
 
 The pilgrims smell the precinct before they reach its gate. A faint warm breath, damp and sharp like struck flint, drifts down the streets of [[place-kultaqan|Kul'taq'an]] on still mornings, and the crowd moving toward the center of the city goes quiet when it meets it. Ts'omal Ch'alish, the Sacred Foundation, is the walled precinct at the heart of Kul'taq'an in [[affiliation-ixilankul|Ish'ilankul]], built around an ancient volcanic vent from which warm, mineral-laden vapor still rises. It is the holiest site on the [[place-kiichchik|Kì'ìch'chik Continent]] and the supreme destination of its pilgrims. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the [First Age]{.name data-type="lore/cosmology"}.
 
@@ -36,7 +36,7 @@ The great festivals of the calendar fill Kul'taq'an to the horizon, and the Livi
 The estates of the Sacred Foundation cannot feed the pilgrims of 722. The Steward has known it since he counted the hostels he needs. He has bought the maize he lacks from the trading houses of [[place-tsamash|Tsa'mash]], on credit, to be paid from the offerings the pilgrims bring, and the knotted cords that record the debt are held by [[being-pnqltslmksh|P'enqal Ts'alam K'ushi]], eldest of the merchant guild's elders there. If the pilgrims bring less than he expects, the holiest precinct on the continent owes its maize to a merchant of Tsa'mash. The Q'emul Tq'an has not been told.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-kultaqan|Kul'taq'an]]
 : the city that surrounds the precinct

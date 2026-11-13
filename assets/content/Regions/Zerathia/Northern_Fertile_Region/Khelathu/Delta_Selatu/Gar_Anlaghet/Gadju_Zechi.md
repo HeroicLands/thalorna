@@ -15,11 +15,11 @@ data:
   notes: "A marsh-channel village near Gar-Anlaghet, living by net and ferry among the waterways that thread the delta port"
 ---
 
-## Overview
+## Overview {#overview}
 
 Gadju-Zechi sits among the marsh-channels of [[place-garanlghtslt|Gar-Anlaghet Selat]], on the same waterways that lead into the delta port of [[place-garanlaghet|Gar-Anlaghet]]. The village lives by net and by ferry, carrying fish and passengers between channels that the harbor itself has no time for. A household here keeps a boat the way a farm village keeps a plow: nothing moves without one, and a family that loses its boat has lost its trade before it has lost anything else.
 
-## See Also
+## See Also {#see-also}
 
 [[place-garanlghtslt|Gar-Anlaghet Selat]]
 : The selat country that holds it

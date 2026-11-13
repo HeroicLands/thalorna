@@ -17,13 +17,13 @@ data:
   notes: "The chief mining town of Moktur: about seven thousand people in smoke-stained terraces under the iron, copper and silver lodes, whose ore goes down by mule to the furnaces of Stennvold and whose silver every power in the province wants a share of."
 ---
 
-## Overview
+## Overview {#overview}
 
 Iron, copper and silver come down to the imperial forges from the lodes above Zargonara, the chief of [[place-moktur|Moktur]]'s mining settlements, a smoke-stained town of about seven thousand clinging to the slopes beneath them. Its people are miners, smelters, and the hard overseers who drive them. Its wealth is real but grim.
 
 A muleteer who hauls ore down from the lodes to the furnaces of [[place-stennvold|Stennvold]] tells a new driver to keep his mouth shut about the silver: "Everyone from the tax-farmers to the _therkoi_ (governors) wants a share of it, and a carter who knows too much becomes a witness." The silver draws the close attention of imperial tax-farmers and the military _therkoi_ alike, and control of Zargonara's output is a perennial prize in the rough politics of the [[affiliation-provncmktr|Province of Moktur]].
 
-## Arriving
+## Arriving {#arriving}
 
 The ore road climbs to Zargonara up a valley whose floor is gray with spoil. The heaps begin a mile below the town, long ridges of broken rock on which nothing grows, and the stream beside the road runs rust-red over stones stained orange. The town sits in terraces on the north slope, its houses of rough stone roofed with slate and blackened by the smoke of the roasting-hearths, and above the highest terrace the mountainside is pocked with the mouths of the adits, each with a timber frame, a spoil-heap and a path down to the ore-floors.
 
@@ -37,7 +37,7 @@ Zargonara lives by digging. The miners work in gangs under an overseer, each gan
 
 The silver is weighed twice before it leaves. On the Silver Floor a clerk of the _karezos_ (revenue officer) and a clerk of the _therkos_ weigh the sealed panniers together and enter the weight in two books, and the tax-farmers of [[affiliation-tolvan|the Tolvan]] who hold the lease send their own man to watch them do it. At Stennvold the ingots are weighed again. Between the two weighings the silver is the most closely watched cargo in the province, and the muleteers who carry it are paid double and searched at both ends.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 The lodes belong to the province, and the lessees work them under a lease from the _therkos_ that names the share each of them owes. The town is chartered, with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors) who are mostly overseers and lessees' agents, and they answer in their own persons for its taxes. The Master Surveyor of the lodes, a provincial officer named [[being-gurimisnebr|Gurimis Nebralandis]], decides where each gang may cut and settles disputes between lessees over a vein that runs from one lease into another. His word on a vein is final, and the lessees treat him accordingly.
 
@@ -47,7 +47,7 @@ Order is the overseers'. A miner who steals from the ore-floor answers to his ga
 
 Every power in Moktur wants the silver. The _therkos_'s share pays part of his auxiliaries, the lessees' share pays their lease, and the province's standing in the capital rests on what the convoys carry south. The Master Surveyor, Gurimis, decides where each gang may cut. A clerk of the _karezos_ finds that the two books of the Silver Floor have agreed to the ounce every month for three years, and does not believe honest clerks could manage it. A muleteer of the silver escort is missing on the Stennvold road, and his mule came down alone with its panniers sealed. One gang has broken into an old gallery the screechbats hold.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The town has one inn fit for a stranger, the [Lamp]{.name data-type="place/structure"}, on the lowest terrace beside the ore road, where the muleteers sleep. It is smoky, the water tastes of iron, and its keeper rents out mine lamps and ear-wax to anyone with business in the old galleries.
 
@@ -57,7 +57,7 @@ The town has one inn fit for a stranger, the [Lamp]{.name data-type="place/struc
 - **The second book.** A clerk of the _karezos_ has found that the two books of the Silver Floor agree to the ounce every month for three years. He thinks that no two honest clerks could manage it, and he wants a party to watch the next weighing.
 - **The witness.** A muleteer of the silver escort has gone missing on the road to Stennvold, and his mule came down alone with its panniers still sealed. His brother wants to know what the muleteer saw.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provncmktr|Province of Moktur]]
 : parent province

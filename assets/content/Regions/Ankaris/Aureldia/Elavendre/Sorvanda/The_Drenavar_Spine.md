@@ -28,7 +28,7 @@ Controlled by
 Guardians
 : [[affiliation-alndnwrdns|Áelendan Wardens]]
 
-## Overview
+## Overview {#overview}
 
 The **Drenavar Spine** is the central sacred mountain range of [[place-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of [[lore-aelendnppl|Áelendan territory]]—the land in which the [Kindred Pact]{.name data-type="lore/law"} is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of [[affiliation-kngdmlvndr|Élavendre]] recognizes Áelendan sovereignty over the mountains by ancient law.
 
@@ -89,7 +89,7 @@ Trespassers who venture into sacred territory are warned once and escorted out. 
 
 The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar Spine for as long as the kingdom has existed, and the recognition is not ceremonial: the first king swore it as the Tree-Line oath ([[lore-firstcrown|The First Crowning of Élavendre]]). Royal magistrates will not intervene in matters that fall within Áelendan territory; royal troops will not enter the mountains without explicit Áelendan sanction; and royal taxation does not extend to the mountain communities. In exchange, the Áelendan accept the legitimacy of the crown in the lowlands and have, on a small number of historic occasions, contributed warriors to defend Élavendre against existential threats.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aelendnppl|Áelendan]]
 : The people who inhabit and protect the mountains

@@ -20,7 +20,7 @@ data:
 # terran_analog: the Hohokam towns of the Salt and Gila rivers, such as Snaketown and Mesa Grande, with their platform mounds, ball courts and miles of canals
 ---
 
-## Overview
+## Overview {#overview}
 
 The heat is the first thing a visitor from the uplands notices, and the water is the second. Kenuvahosa, the Canal House, stands on the bank of the great river of the [[place-kenuvasokorgn|Canal Plain]], where the main canal leaves it, and from its great house the canals spread out across the flat land like the veins of a leaf. It is the largest town of the [[affiliation-teyumi|Turquoise People]]: about 3,000 people in adobe houses strung along the canals for most of a morning's walk, among fields of corn, cotton, beans and squash that stay green through a summer that would burn the mesa fields brown.
 
@@ -46,7 +46,7 @@ Every summer a trading party leaves the Canal House for the west, over the mount
 
 This past winter a southern trader came up out of the desert to the Canal House by a western route, and went no farther. He sold cacao and copper bells on the mound and went home with turquoise, and nobody sent him on to [[place-kwatuhosa|Kwatuhosa]] to see the Keeper of the South Road. The Keeper has sent a runner to ask why. Kenuvawesa says that a guest who comes to the door is fed, and that the south road is not the only road.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People and their towns

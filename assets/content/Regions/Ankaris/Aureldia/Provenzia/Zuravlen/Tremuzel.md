@@ -17,7 +17,7 @@ data:
   notes: "A small salt and fishing port in a cleft of the Zuravlen cliffs north of Volsater, held for the Earl of Hárivren by his reeve, where the salt pans pay better than the boats and the egg-gatherers go down the cliff on ropes."
 ---
 
-## Overview
+## Overview {#overview}
 
 Tremuzel is a salt and fishing port on the cliff coast of the [[place-zuravlenrgn|Zuravlen Region]], a day's sail north of [[place-volsather|Volsater]] on the cold ocean. Some five hundred people live in a cleft where a stream has cut the cliff down to a shingle beach, and the cleft is the whole of the harbor. It lies outside the barony of Zuravlen, on land the Earl of [[place-harivrencity|Hárivren]] holds himself, and it is the lesser of the two harbors on the Zuravlen coast. Its name is the Provenzal word for a salt rake.
 
@@ -57,7 +57,7 @@ The pans on the clifftop have been worked for as long as anyone in the town can 
 - **Salt below the toll.** If the earl's court gives Iltera leave, a cart train of cheap salt goes up the cleft and into the barony's markets, and the baron's steward means to stop it on the road.
 - **The cliff below the north pans.** A cragclimber has moved onto the stretch of cliff the gatherers work most, and Iltera will pay a party to move it off before the gatherers stop going down.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-zuravlenrgn|Zuravlen Region]] · [[place-volsather|Volsater]] · [[place-harivrencity|Hárivren City]]
 - [[affiliation-erldmhrvrn|Earldom of Hárivren]]

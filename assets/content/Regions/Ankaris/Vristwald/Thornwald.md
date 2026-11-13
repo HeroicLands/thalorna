@@ -23,7 +23,7 @@ Thornwald is where eastern [[place-vrystwald|Vristwald]] meets [[place-velanthrg
 
 [[place-thornhaven|Thornhaven]] shows the mixture plainly: its people share work and kin with the river folk beyond the line, while its own three elders must decide which bargains serve the village. River traffic carries goods in both directions. The further a traveler follows the water, the less useful a simple division between forest village and grain country becomes.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vrystwald|Vristwald]]
 : the wider forest
@@ -33,3 +33,9 @@ Thornwald is where eastern [[place-vrystwald|Vristwald]] meets [[place-velanthrg
 
 [[place-edriwald|Edriwald]] and [[place-skathwald|Skathwald]]
 : the reaches on either side
+
+[[place-frithhaven|Frithhaven]]
+
+[[place-thornryth|Thornreth]]
+
+[[place-vethholt|Vethholt]]

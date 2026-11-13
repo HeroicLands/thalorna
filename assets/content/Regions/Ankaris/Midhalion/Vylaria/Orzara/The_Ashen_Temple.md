@@ -16,7 +16,7 @@ data:
 
 A Scorchmaster of the Ashen Temple, showing a new Aspirant the court where the fire burns, begins with the scar on his own shoulder: "Every man in this house has held his hand in that fire, and every man in this house has a scar to show for it. The house of the Twelve has a fire too, in the Forge-Lord's niche, and nobody in that house has ever been burned by it. That is the whole difference between us. Learn it before you learn anything else."
 
-## Overview
+## Overview {#overview}
 
 The Ashen Temple, Sarkena Elzen in [[skill-vylarilng|Vilari]], "the ash-gray temple", is the great temple of [[affiliation-blackflame|The Black Flame]] in [[place-orzara|Orzara City]], and the largest house of the faith in the [[affiliation-vylarinmpr|Vilérian Empire]]. It stands in the [Vanor]{.name data-type="place/site"}, the Temple District of [[place-arvon|Arvon]], the walled Inner City, apart from [[place-pnthnrldnm|The Temple of the Twelve]], which keeps the niche of [[lore-ustarondty|Ústaron]], the Forge-Lord, for [[affiliation-sacredforge|The Sacred Forge]] and gives the Black Flame no altar. It is the seat of the **High Flame-Warden of Viléria**, who oversees the faith's temples in the Empire, and the house and household he keeps here are called the Flame-Wardenate.
 
@@ -62,7 +62,7 @@ The temple compound is a square of dark stone walls around three spaces. The **c
 - **The challenger.** A provincial Flame-Warden has come to Orzara with his Scorchmasters, and the Ashen Temple wants to know whether he has come to pray or to challenge.
 - **The preacher on the Spire Circle.** A preacher of the Black Flame on the Spire Circle draws a bigger crowd each week, and a watch-house captain wants to know who pays him.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-blackflame|The Black Flame]]
 : the faith whose great temple this is

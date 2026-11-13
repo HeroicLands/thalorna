@@ -63,7 +63,7 @@ The [[affiliation-biltzarrath|Biltzarrath]] of Eskarath and the [[affiliation-co
 
 The assembly is older than the kingdoms, and no Tarvenan account says when it began. The valleys of Asturath kept it through the centuries when the legions held the lowlands, and in [[place-leonrik|Lyenrik]] the imperial legates let the village assemblies settle the villages' quarrels so long as the grain came in ([[lore-lowlandstaken|The Lowlands Taken]]). The councils of the free towns grew out of it, and the High Kingship itself is an election among lords who each answer, at home, to a village that asks a thing three times.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tarvenanclt|Tarvenan]]
 : the people and what they owe one another

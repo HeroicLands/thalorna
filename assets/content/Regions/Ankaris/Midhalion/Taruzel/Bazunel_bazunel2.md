@@ -17,13 +17,13 @@ data:
   notes: "The cultural heart of Taruzel on Tashilar's southern shore: a harbor of painted houses and open-air theaters, the Design Yards on its western arm, astronomers on its roofs, and a council that will not hand a fugitive back to the guilds he fled."
 ---
 
-## Overview
+## Overview {#overview}
 
 The houses of the [[place-paintedharbor|Painted Harbor]] are ochre, blue and red, one color to a house from the waterline to the roof, and a ship coming up from the south sees them before she can make out a single window. Behind them Bazunel climbs a low slope of flat roofs, cisterns and stepped streets to a ridge of vineyards. It is a city of 150,000 on the southern shore of [[place-tashilar|Tashilar]], the seat of the city-state of [[affiliation-bazunel|Bazunel]] and the cultural heart of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]: smaller and less wealthy than [[place-besikar2|Besikar]], less martial than [[place-yamuzel2|Yamuzel]] and less cosmopolitan than [[place-qudumel2|Kudumel]], and ahead of all three in its theaters, its astronomers and the lines of its ships.
 
 The name is the sail's: _bazun-_, to spread cloth to the wind, with _-el_, the ground of it. Bazunel is also the city where people go when the guilds of another city have closed their doors on them. Artists, free-thinkers, debtors with a grievance and the occasional fugitive come here because the council will not send them back, and a good share of the city's talent arrived that way.
 
-## Arriving
+## Arriving {#arriving}
 
 The harbor is a round bay open to the south. [[lore-khelathiclt|Khelathi]] ships make it their first Taruzelian port, and in the sailing season their striped sails lie along the eastern quays beside the coasters from the channels. A ship from the north rounds the island's western end and comes in past the slipways of the [[place-designyards|Design Yards]], which line the bay's western arm, with the half-built hulls on them standing higher than the houses.
 
@@ -68,7 +68,7 @@ The refuge is a matter of law. A stranger who asks to stay is enrolled on the co
 
 Order in the streets rests on the houses and the guilds. A shopkeeper robbed in the night goes first to the house or guild he belongs to, which keeps its own street and wants the thief found before its neighbors hear of it. If that fails, he goes to the magistrates, who sit each morning in the arcade below the council hall and hear complaints in the order they are made. The council's watch is small. It keeps the quays, the yards' gates and the cistern-houses, and it is out in strength only on a theater night, when half the city is on the harbor steps.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The harbor inns stand above the taverns, and their rooms look out on the bay and smell of paint and tar. Their hosts ask which house stands surety for a guest's ship and charge accordingly. In winter, when the theaters are dark, the companies let their players' rooms to travelers, cheaply and with no questions. Zatturel lets rooms by the week to anyone who pays in coin, and its landlords do not write down names. A party with a letter to a house of the harbor lodges in that house's rooms above its warehouse, and its business is known on the quay by morning.
 
@@ -83,7 +83,7 @@ Bazunel's trading families grew rich under the empire as intermediaries of the e
 - **The surety.** A party's ship arrives with no house to stand for her. A factor of the harbor offers to stand surety in return for a small errand, a parcel carried up to the upper town after dark.
 - **The roof.** An astronomer of the Academy finds that someone has been using her rented roof on the nights she does not, and has left chalk marks round the sighting-pillar that are not hers.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-bazunel|Bazunel]]
 : the city-state and its council

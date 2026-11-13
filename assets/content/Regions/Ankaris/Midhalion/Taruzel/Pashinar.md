@@ -20,13 +20,13 @@ data:
   notes: "The trading town on Qalirel's strait shore where the caravan ferries land: caravanserais and warehouses round the one good harbor of the eastern coast, factors who lend to men they may never see again, and a Warden whose roll the caravan trade reads before it trusts a name."
 ---
 
-## Overview
+## Overview {#overview}
 
 Break a bargain in Pashinar and the caravan trade forgets your name for years. A merchant's reputation follows him here and word travels fast along the caravan network, so a trader who swindles or reneges finds himself blacklisted from the trade long after he has left town. Pashinar, a trading town of about 12,000 on the eastern shore of [[place-qalirel|Qalirel]], the largest island of the [[place-taruzelrgn|Taruzel Region]], faces the mainland crossing: the trade routes from the Dunhari desert and the southern part of the [[place-vedyarargn|Vedyara Region]] converge on the Amradi shore opposite, and their goods come over the strait to Pashinar on their way to the city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. It is smaller and less cosmopolitan than [[place-sazumun2|Sazumun]] and no less important to the Confederation's economy: caravan masters stop here to restock, establish credit and settle prices with the local factors before the dangerous journey on to distant markets.
 
 The name is the town's trade: _pashin-_, to name a fair price, with _-ar_, where the thing is kept. A _pashinu_ is a fair price, one both sides leave content with, and Pashinar is where the strait comes to find one.
 
-## Arriving
+## Arriving {#arriving}
 
 Pashinar's bay is the one good harbor on the strait side of Qalirel, and the ferries from the Amradi coastal ports land there, a day's sail with a fair wind. They are broad, slow sailing craft built to carry mules and bales together, and they come in on the morning breeze and tie up three abreast at the ferry quay. The first building a caravan master reaches is the weigh-house at the head of the quay, where the Warden of the Weights' measurers, the _ashurum_, weigh his bales, test his coin and seal what they have weighed with a lead tag. The second is the board's toll-house beside it, where he pays the landing dues on the tags.
 
@@ -52,7 +52,7 @@ The blacklist of the caravan trade is a book. The [[affiliation-gldbrdpshnr|Guil
 
 A caravan master in good standing carries the other half of the system on his belt: a _rasunush_ (tally), a stick of olive wood notched at the weigh-house for every bargain he settles in Pashinar, sealed at one end with the Warden's lead. A factor reads the tally before he reads the man. A long tally with no gaps lends a stranger more credit than any letter, and a caravan master who loses his tally starts again from nothing.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 The town is governed by its [[affiliation-gldbrdpshnr|Guild Board]], the guild officials among its permanent townsfolk, who sit in the toll-house above the ferry quay under a First of the Board who keeps the seal. This term she is [[being-qazmazzrni|Qazima Zazuruni]], whose house owns the largest warehouses on the quay. The Warden of the Weights is [Ashuran Dapumi]{.name data-type="being/npc"}, who keeps the weigh-house and the Forgetting, and the clerk of the Forgetting is [[being-rsnmgttn|Rasunum Gatituni]], who has kept the board's books for thirty years and enters every name in his own hand.
 
@@ -62,7 +62,7 @@ Order in Pashinar is mostly credit. A merchant robbed in a caravanserai goes fir
 
 Pashinar is losing its trade one debt at a time. The [[affiliation-balinuni|Balinuni]] of Kudumel, who want every caravan on the strait landing at the Caravan Gate, have bought the debts of the town's factors through the [[affiliation-auricompct|Auric Compact]] and call them in one at a time, each with a month to pay, and one factor whose note was called has fled across the strait with his ledger. Caravan masters coming down from the pass complain of a new toll-gate on the road to Besikar, kept by men who say they hold it for the hills. On the ferry quay this spring the Warden of the Weights read a Dunhari caravan master's name on the Forgetting, and the master swears he broke no bargain. Above the ferry quays [Yazila Ilammuni]{.name data-type="being/npc"} keeps her counting-room and lends to the [[affiliation-freecaptains|Free Captains]] against their next takings.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 A party that comes with a caravan lodges in its caravanserai, sleeps on the gallery above its animals and eats at the common fire. The caravanserais by the quay are noisy and cheap, and those by the western gate are quieter and kept for trains about to go over the pass. A party with a letter to a factor's house lodges in the guest rooms off its courtyard, eats at its table among the caravan masters, and is expected to be a guest worth having.
 
@@ -72,7 +72,7 @@ A party that comes with a caravan lodges in its caravanserai, sleeps on the gall
 - **The called debt.** The debts of Pashinar's factors are being bought up through the [[affiliation-auricompct|Auric Compact]] and called in one at a time by the [[affiliation-balinuni|Balinuni]] of Kudumel. A factor whose note has been called has a month to pay it, and wants a party to collect what three caravan masters owe him before the month is out.
 - **The gate on the pass.** The caravan masters coming down into Pashinar complain of a new toll-gate on the pass road ([[place-qalirel|Qalirel]]), and one of them wants to know who keeps it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-gldbrdpshnr|Guild Board of Pashinar]]
 : the town's government, and the keepers of the Forgetting

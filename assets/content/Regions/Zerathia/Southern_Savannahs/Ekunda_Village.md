@@ -17,14 +17,14 @@ data:
   notes: "Village of the Ékunda tribe, one of the settled communities of the Southern Savannahs and the tribe's seat."
 ---
 
-## Overview
+## Overview {#overview}
 
 Ékunda Village is the seat of the [[affiliation-ekunda|Ékunda]] tribe, part of the
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. It is one of the settled communities of the
 [[place-sthrnsvnhs|Southern Savannahs]], known to Ankarian travelers as a reliable southern
 outpost.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ekunda|Ékunda]]
 : the tribe that governs the village

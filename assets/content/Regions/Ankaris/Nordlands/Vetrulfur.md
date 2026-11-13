@@ -16,7 +16,7 @@ In the standard telling of [[lore-aldarlok|Aldarlok]], Vetrulfur slips his chain
 
 The Winter-Wolf is one of two chained beasts, and the other belongs to Eidgar's own end rather than Odvar's. [[lore-dulmvargur|Dulmvargur]], the hound chained at the landing of [[place-nulthey|Nulthei]], is the one that destroys Eidgar and is destroyed with him.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-eidgardty|Eidgar]]
 : the god who chained the wolf with his hand

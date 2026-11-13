@@ -15,7 +15,7 @@ data:
 # terran_analog: the stepped pyramids of the central highlands, built in successive casings over older ones; the breath is volcanic gas, heavier than air, which pools in hollows on still days
 ---
 
-## Overview
+## Overview {#overview}
 
 The Ts'ultel Ch'alish, the Sacred Mountain, is the tallest pyramid on the [[place-kiichchik|Kì'ìch'chik Continent]] and the center of [[place-tzomalchalix|the Sacred Foundation]] (Ts'omal Ch'alish), in the city of [[place-kultaqan|Kul'taq'an]]. It stands in nine tiers, each faced in fitted stone and plastered white, with a band of red along the lip of every tier, so that from the plaza it looks striped like a pot. It is about seventy meters high and two hundred and twenty paces along each side of its base. One stair climbs its eastern face, toward the sunrise, in 260 steps, and the priests teach that the nine tiers are the nine layers of the heavens the sun climbs each day.
 
@@ -47,7 +47,7 @@ At the foot of the stair, in the court, stands the hearth of the precinct. After
 The Ts'ultel Ch'alish is a casing. The builder-priests' register counts four older pyramids inside it, each built over the one before, and the innermost is a shrine of three small tiers raised directly over the mouth of the vent, with the shaft for the breath running up through all five. A passage from the third tier of the outer casing, closed by a slab cut with the builder's glyph, leads to the stair of the second pyramid, and from there a crawlway reaches the innermost shrine's summit. The builders open the slab once in every round, on the day after the Living Flame, to inspect the shaft, and they let no one else through it.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-tzomalchalix|Ts'omal Ch'alish]]
 : the precinct that surrounds it

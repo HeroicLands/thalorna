@@ -71,7 +71,7 @@ The [Vilérian Republic]{.name data-type="affiliation/polity"} had other busines
 - **The first charters**, [[affiliation-crtgrphrsgldbyzrnlg|the Cartographers' Guild]] among them, granted by the council the Compact made.
 - **A foreign policy** of being worth more paid than conquered, which the League has followed since.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-heladwells|The Battle of the Wells]]
 : the battle the cities fought together

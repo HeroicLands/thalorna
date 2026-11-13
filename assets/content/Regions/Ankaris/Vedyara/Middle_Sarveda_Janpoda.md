@@ -73,7 +73,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 The **Middle Sarveda Janpoda** is the janpoda of the [[place-sarvedarivr|Sarveda circuit]] to which [[place-dirmapur|Dirmapur]] belongs. The town holds no seat of its own at the [Mahva-Melka]{.name data-type="lore/gathering"}.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Four times the rate.** A court has commissioned an illuminated text from a younger master at [[place-dirmapur|Dirmapur]] and will wait two years for it. The older masters of the shrena hold that a hand drawing attention to itself has failed at the work, and the young master asks the party to bring the orpiment and lac for it up the river from [[place-naughat|Naughat]].
 - **Kalyanika's leaves.** [[being-kalyanikakal|Kalyanika Kalira]] wants her index of [[place-chendrapur2|the Moon City]]'s rolls copied by the Dirmapur shrena at the shrena's rate. She asks the party to carry the leaves upriver and the copies back without [[being-madurvstrpl|Madurava Sutrapal]] learning of it.

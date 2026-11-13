@@ -47,6 +47,6 @@ hill parishes as half-barbarian and the hill parishes regard the lowlands as sof
 
 The march is short of men, and the barons of the vale have asked their upland manors for men for the Wiindmarch's levy. Brinhallow's tenants owe rent in kind and not service in arms, under customs older than the kingdom, and they have refused. The baron who holds the town has not decided whether to press them or to send the men from his lowland manors instead.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-ashford|Ashford]] · [[place-brynwold|Brinwold]]

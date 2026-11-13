@@ -17,7 +17,7 @@ data:
   notes: "Hill Fort"
 ---
 
-## Overview
+## Overview {#overview}
 
 The watch at Skraldborg looks at the headland, not the water, and knows the sail before the sail knows it. From the hill fort a cry carries over the water further than any hill of its size has a right to, and the fort was raised to use exactly that: a watchman here is heard on the water long before a longship rounds the headland. That has made Skraldborg the [[place-nordheim|Nordheim]] coast's standing alarm for longer than any of its two hundred people can date, and the name says as much: _skrald-_ is a cry the wind carries further than it should.
 
@@ -29,7 +29,7 @@ The cove is deep enough to hide a hull under repair from the open water, which i
 
 Skraldborg's tension is the one every watch-post meets. A cry raised too often for a sail that proves friendly costs the hersvald his hearing the one time it matters, and a cry raised too late is not survived to be argued about.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 : the kingdom this watch serves

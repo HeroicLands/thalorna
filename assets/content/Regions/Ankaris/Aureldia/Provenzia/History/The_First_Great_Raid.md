@@ -74,13 +74,13 @@ By the second morning the levy broke. The host took the road, and then found it 
 
 The raid was the first of a long run of them, and the border families on both sides took it as the beginning of a war that nobody declared. It has a calendar, because the passes close; the hosts come when the snow clears and go when it returns. It has no end, because neither crown can afford to be the one that stops. The [[affiliation-wntrassize|Winter Assize]] that sits at [[place-durvalis|Durvalis]] hears the quarrels of the families who took it up.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Blood-field of Malnebris.** The only one of the [[place-provenzrgn|Provénzia Region]]'s fields that is still being added to ([[place-bldfldmalnebris|Malnebris]]).
 - **The campaign season as a calendar.** The march's year runs from the thaw to the first snow, and the courts sit in between.
 - **The border families' feud.** The quarrel is the same one in every generation, and each family on the road has someone to lose to it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-bldfldmalnebris|The Blood-field of Malnebris]]
 : the ground the battle left

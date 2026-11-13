@@ -78,7 +78,7 @@ An outsider sees the Pewaye and thinks they are the forest people. They wear nor
 
 What the outsider does not see is that the leader holds that place only while the tribe keeps its gifts, that the cloth was a gift to be given away, and that the deep forest beyond the edge does not regard the Pewaye as its speaker or as its own.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-bikoclt|Biko]]
 : the forest peoples

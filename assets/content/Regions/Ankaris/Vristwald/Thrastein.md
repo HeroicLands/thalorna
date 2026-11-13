@@ -21,13 +21,13 @@ data:
   notes: "A Varokh village in Vandstein."
 ---
 
-## Overview
+## Overview {#overview}
 
 **Thrastein** (290 people) occupies the unyielding crag in [[place-vandstein|Vandstein]]. A standing stone watches an overgrown Vilérian post in the southern highlands. The War Chief keeps the ruin under watch and wants its buried iron recovered for the village. The Shaman says the stone marks ground that should remain unopened. A traveler has brought a Vilérian claim to the post, giving the Other Chief a chance to bargain for iron while both of her fellow elders reject the bargain for different reasons.
 
 The War Chief holds the strongest of the village's three seats, but the other two elders retain their own authority. The Shaman keeps the [[lore-stagttm|stag]] as the village’s single totem. The neighboring villages are reached by narrow forest tracks, used by messengers and small parties; no village commands the next one along the path.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vandstein|Vandstein]]
 : the reach around the village

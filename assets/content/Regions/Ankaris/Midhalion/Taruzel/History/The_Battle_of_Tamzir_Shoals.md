@@ -136,7 +136,7 @@ Without the squadron the garrisons could not be supplied or relieved. Over the f
 
 What the merchant princes made of the victory is told in [[lore-taruzelbetrayal|The Betrayal of the Revolution]].
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The wrecks.** Most of the squadron still lies in the Shoals, and its bronze rams lie with it (see [[place-tamzirshoals|Tamzir Shoals]]).
 - **The prizes.** The six captured warships were the first warships of the Confederation, and one of them stands in a dry-dock at [[place-besikar2|Besikar]] as the [Tamzir Monument]{.name data-type="place/site"}.
@@ -144,7 +144,7 @@ What the merchant princes made of the victory is told in [[lore-taruzelbetrayal|
 - **The League.** The captains who fought at the Shoals founded the [[affiliation-corsairleg|Corsair League]] as a brotherhood of veterans.
 - **A reckoning in the empire.** The Dukran's report on the war, and the reform it forced on the commission system ([[lore-commissioncmp|The Commission Compromise]]).
 
-## See Also
+## See Also {#see-also}
 
 [[place-tamzirshoals|Tamzir Shoals]]
 : the water the battle was fought in

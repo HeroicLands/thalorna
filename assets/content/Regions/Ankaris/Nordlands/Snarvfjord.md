@@ -25,7 +25,7 @@ In the song, Jarl Hvurnvir is a cautious ruler who makes no major decision witho
 
 The name warns of the water: _snarv-_ is the hour before weather arrives, and the generic that follows is the one for a fjord.
 
-## See Also
+## See Also {#see-also}
 
 [[being-hnirvmylwise|Hnirmil the Wise]]
 : the counselor of the song, whose seat the court keeps

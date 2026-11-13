@@ -100,7 +100,7 @@ Domestic worship mirrors the temple's. A household hearth is kindled from the te
 
 Every fifty-two years, when the [[lore-itsaniclndr#tsen|Ts'en Cycle]] and the [[lore-itsaniclndr#tqan|Tq'an Cycle]] realign, the branch performs the act on which the whole tradition's nerve depends. Every fire in the city is extinguished and the temples go dark; for a day and a night the city keeps silence; then the **Master of the Living Flame** ascends with the highest hierarch and works the obsidian mirrors against the rising sun until the tinder catches. The **Kindlers** run the new flame to every quarter, and every hearth in the city is lit from one spark.
 
-## Organization
+## Organization {#organization}
 
 The ch'ayik tq'an (fire-keepers) live within temple complexes, their labor theological work—the arrangement of kindling, the timing of feeding, the choice of woods are all prayer conducted through material action. The branch is the most rigidly routinized in the priesthood and the least concerned with doctrine; a fire-keeper's competence is measured entirely by whether his flame has ever faltered, and the record is kept for the life of the fire, not the life of the priest.
 

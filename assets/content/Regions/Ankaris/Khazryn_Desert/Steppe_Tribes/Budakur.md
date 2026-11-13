@@ -81,12 +81,12 @@ The clan heads do not agree. Two of them want to take the garrison's pay to coun
 
 Tantsou has treated the tribes of its western frontier as a standing problem for centuries, giving gifts and titles to some chiefs and paying others to keep the pass clear. The Budakur are among the paid, and no Budakur elder remembers a year without the pay.
 
-## Hooks
+## Hooks {#hooks}
 
 - A Budakur surety at the garrison has run, and his clan head needs him found before the officer notices that a son is missing and the clan's share of the pay with him.
 - Budaqjilaq offers a party passage to the pass at half the price if it carries a count of the Voghalur riders to the patrol, and the Voghalur are watching the party at the hand-off.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

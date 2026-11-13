@@ -52,13 +52,13 @@ They kept them out for a century. The moving court went on traveling the circuit
 
 About 540 the great lineages walked back onto the circuit, on terms the crown has kept since: the _rojni_ keeps a standing camp at the winter wells with the treasury, the written record and the hostages, so that the crown's word is held somewhere the crown cannot walk away from.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The empty well-villages** along a dead droveway on the eastern plateau, and Shunyakupa among them.
 - **The standing camp**, and its hostages.
 - **The saying.** A filled well is the plateau's sign for a broken word.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-shunyakupa|Shunyakupa]]—the filled well
 - [[lore-wellbrk1|The First Breaking of the Well Bargain]]—the other half

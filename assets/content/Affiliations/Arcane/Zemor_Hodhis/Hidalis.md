@@ -101,7 +101,7 @@ The fellowship's internal culture prizes empathy, diagnostic skill, and the abil
 
 The Zulen Hidalis is not without its own ambitions, however. Its members understand power as well as anyone—they simply prefer to acquire it quietly, through networks of obligation and gratitude rather than through political confrontation. A Hidalis _holmarendos_ (prelate) who has spent decades healing the ailments of noble families across a region wields a kind of influence that no amount of Fire magic can match.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework

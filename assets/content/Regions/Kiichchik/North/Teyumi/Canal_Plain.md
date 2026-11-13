@@ -17,7 +17,7 @@ data:
 # terran_analog: the Phoenix basin of the Salt and Gila rivers in southern Arizona, the country of the Hohokam canal builders
 ---
 
-## Overview
+## Overview {#overview}
 
 The Canal Plain (Kenuva Soko) is the hot lowland of the [[affiliation-teyumi|Turquoise People]], where two rivers come down out of the mountains onto a flat desert floor and the towns lead their water across it in canals dug by hand. It lies southwest of the mesa country of the [[place-teyumirgn|Teyumi Region]], on the edge of [[place-chakultzklrgn|Ch'akul Tsa'kul]], and about 50,000 people live on it, a third of the nation. In a plain where nothing grows without the canals, every field, every town and every quarrel follows a canal.
 
@@ -39,7 +39,7 @@ The plain is the start of the western trail. Every summer a trading party goes w
 
 The desert begins at the last canal. Southern traders who cross it usually bear east to [[place-kwatuhosa|Kwatuhosa]], but the plain is close to the desert's western routes, and a trader who comes up out of the sand at a canal town is fed like any other guest. A southern war party could come the same way. The plain's towns have signal fires on the rocky hills between the rivers, and their great houses stand on their mounds with the ladders ready to draw up, but the households of the plain live spread out along the canals, far from their mounds.
 
-## See Also
+## See Also {#see-also}
 
 [[place-teyumirgn|Teyumi Region]]
 : the land of the Turquoise People

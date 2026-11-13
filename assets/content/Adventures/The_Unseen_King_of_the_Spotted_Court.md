@@ -149,7 +149,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **If bypassed.** If the party leaves, the Speaker finds them on the trail and asks them to carry a message to the Sengala.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the King lives and the rite ends,** the Court loses its sentry, and the neighbors' gifts falter. Red-Spear takes power, and the rim goes unwatched.
 - **If the King lives and the rite continues,** the Court holds, and the King's lucid hours grow shorter.

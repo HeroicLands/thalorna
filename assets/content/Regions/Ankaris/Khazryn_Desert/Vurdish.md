@@ -14,7 +14,7 @@ data:
   culture: khazrynclt
 ---
 
-## Overview
+## Overview {#overview}
 
 Above the Tellumi belt the north face of [[place-graznmntns|the Grazian Mountains]] rises in a single gray wall, and at one place in it, a morning's walk above the last terrace, there is a doorway. It is forty feet high and plain, with no carving on it, and the passage beyond slopes upward into the mountain at the pitch of a long staircase. The floor is worn. The walls are dressed smooth, and where the passage branches, which it does within a hundred paces, every junction is cut square with a lintel overhead.
 
@@ -46,7 +46,7 @@ An exile house at Amradad has hired an expedition to find the passage to its anc
 - **Stop them.** The rival house wants the first expedition turned back, by persuasion or by the mountain.
 - **The western houses.** The [[affiliation-hsemernagord|House of Mernagord]], which holds that the first lineages walked down the Western Descent, wants to know what comes out of Vurdish before the Council does.
 
-## See Also
+## See Also {#see-also}
 
 [[place-graznmntns|The Grazian Mountains]]
 : the range it climbs into

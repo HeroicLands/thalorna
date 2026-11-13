@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Rethu elu Galezkara**, the **Scholars' Circle**, gathers the learned of [[place-galezkara|Galezkara]]: open-minded scholars, liberal merchants and teachers who find the temple schools too narrow. The circle commissions its own lectures and seminars and funds study the temples do not recognize as worth pursuing. A thinker whose work the temple schools dismiss can find an audience and a stipend here if the circle judges the work has value.
 
@@ -54,7 +54,7 @@ The circle's quarrel is with the temple schools, which dismiss the work it funds
 
 Say a young scholar with a theory of the river's silt has been turned away from the schools of [[affiliation-rethsaar|Reth'Sa'ar]]. She brings her case to the circle. A merchant who has watched his barges ground in the delta offers a stipend for a season's study, a teacher offers a room, and a lecture is announced. The stipend is paid in silver, as wages are.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The city the circle meets in

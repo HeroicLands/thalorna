@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 A herald teaching a pursuivant the roll begins with the funeral of a founding house, because a funeral is where a mistake costs most: "The masks come out in the order the dead held office. The living walk behind them in the order the living hold it. If you put a Silver house before a Gilded one, the Gilded house will remember it at the next three funerals and the Silver house will thank you at none of them. Learn the roll, and never guess."
 
-## Overview
+## Overview {#overview}
 
 The Imperial College of Heralds, the Kalzothalon in [[skill-vylarilng|Vilari]], is the desk of arms and precedence of the [[affiliation-imperialoffices|Imperial Offices]], the bureaucracy of the Vilérian throne in [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara City]]. Its heralds know every house's arms, marks and liveries and the order in which the houses of the [[affiliation-vylarinmpr|Vilérian Empire]] stand before the throne. No act of the throne is proclaimed, no embassy received and no funeral of a founding house held until a herald has settled who stands where. The College also sends heralds in the throne's name: to read an act aloud in a provincial forum, to stand at a foreign court's coronation, and to walk in a great house's funeral procession as the throne's witness.
 
@@ -79,7 +79,7 @@ The College's present quarrel is the succession. The reigning Orzas is old and h
 - **The petition.** A house of the Silver estate pays a party to find, in the roll or in the archive, the precedent that would let it walk before its rival at the accession.
 - **The order of the procession.** A claimant's steward pays a party to learn the Master's draft order for the accession before it is read at the Orzas's Circle.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-imperialoffices|Imperial Offices]]
 : the bureaucracy the College is a desk of

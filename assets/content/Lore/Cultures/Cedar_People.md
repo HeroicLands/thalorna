@@ -204,7 +204,7 @@ The blind spot is still there, and thoughtful Kelwanuk argue over it. The coast 
 
 A second argument runs alongside it. The commoners of a house do the fishing, the rendering, the weaving and the carving that make a feast's gifts, and the chief gives them away. A chief who ruins his house in a rivalry ruins his commoners first, and the commoners hold no names and have no say. Kwemlatsuma's poles stand before other men's doors, and some of the coast's commoners say that this is the whole of the arrangement.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kelwanuk|Kelwanuk]]
 : the Cedar People as a nation: its ranks, its offices and its houses

@@ -106,7 +106,7 @@ In Taruzel the veterans of the Shoals are growing old, and their children have i
 
 Between the two, the old quarrels keep their shape. Viléria refuses the indemnity, its war party wants the islands back, and the treasury cannot pay for a war. Au'Khelathu, whose gold won Taruzel its freedom, offers grain on credit to the throne it humbled. Nartun's high priesthood moves to judge its own king while the forest of its uplands dies, and the High Flame-Warden of the Black Flame that Karomfos would not close has drafted a petition for the Forge-Lord's niche in Orzara's [[place-pnthnrldnm|Temple of the Twelve]]. None of these is settled, and each is a place for a party to stand.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-vylariages|The Vilérian Ages]]
 : the eight ages this history is told in

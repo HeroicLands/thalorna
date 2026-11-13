@@ -97,7 +97,7 @@ The halls are fuller than they have been since the outlawing. The Compact's call
 The Old Hands of the Yamuzel halls, the [[affiliation-freecaptains|Free Captains]] and the harbor veterans mean to rise at the [[lore-fleetreview|Fleet Review]]. Crossbows, boarding pikes and a chest of Vilérian silver, brought from a Sazumun warehouse under a Merchantry seal, lie under the floor of a cooper's shop below Razzina's hall, and she has guessed whose coin paid for them. She has sent the day of the rising to the Besikar halls by Zilmar Ezzinu, whose hall is the one that informs for the Compact. He has not yet passed it on, and his next meeting with the Compact's enforcer falls before the Review.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-freecaptains|Free Captains]]
 : the outlaw masters the freed are taken to

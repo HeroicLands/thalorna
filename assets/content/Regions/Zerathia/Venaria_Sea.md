@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [xerathia], population: 0, packFolder: xerathia}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Venaria Sea lies on the pilgrim road of the astrologers of [[place-aukhelathrgq|Au'Khelathu]]: the sites sacred to the empire's earliest astrologers are scattered widely, and one of the ways between them goes across this water.
 
@@ -16,7 +16,7 @@ The Venaria Sea lies on the pilgrim road of the astrologers of [[place-aukhelath
 
 [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] crossed the Venaria Sea on his pilgrimage to the ancient astrological sites, between the deserts of [[place-beshakan|Beshakan]] and the forgotten ruins where the earliest astronomers carved their star maps. Agents of the rival astrologers and priests who want his reading of [The Convergence of the Nine Moons]{.name data-type="lore/history"} silenced follow the same roads.
 
-## See Also
+## See Also {#see-also}
 
 [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]
 : the astrologer who crossed it

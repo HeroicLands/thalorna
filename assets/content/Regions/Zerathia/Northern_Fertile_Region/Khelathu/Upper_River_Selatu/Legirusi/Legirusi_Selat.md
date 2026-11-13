@@ -15,7 +15,7 @@ data:
   government: selatlegirus
 ---
 
-## Overview
+## Overview {#overview}
 
 The stone leaves [[place-legirusi|Legirusi]] on the flood.
 
@@ -37,7 +37,7 @@ Legirusi grows grain for its granaries and owes labor to the canals and a share 
 - The chief temple of the [[affiliation-psaqaru|Faith of Saq'aru]] and its estates
 - The quarry cliffs and the temple-workshops that finish what they yield
 
-## Settlements
+## Settlements {#settlements}
 
 Legirusi (~38,000)
 : the selat capital and the seat of the Halzi'a.
@@ -45,7 +45,7 @@ Legirusi (~38,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatlegirus|The Selat of Legirusi]]
 : The selat that holds this land

@@ -15,7 +15,7 @@ data:
   government: selatgarzant
 ---
 
-## Overview
+## Overview {#overview}
 
 Gar-Zanit Selat is the land of [[affiliation-selatgarzant|the Selat of Gar-Zanit]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. Its flax fields and linen-weaving towns clothe the empire.
 
@@ -25,7 +25,7 @@ Gar-Zanit Selat is the land of [[affiliation-selatgarzant|the Selat of Gar-Zanit
 
 Away from the flax, the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. What the selat gives the empire beyond grain is cloth: the flax is grown on its fields, spun and woven in its towns, and sold up and down the river and out through the delta ports. The chief temple of [[affiliation-psaqaru|Saq'aru]] and its estates anchor the weaving towns.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-garzanit|Gar-Zanit]] (~34,000)
 : the selat capital and the seat of the Halzi'a.
@@ -33,7 +33,7 @@ Away from the flax, the villages and temple estates grow grain on the usual term
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgarzant|The Selat of Gar-Zanit]]
 : The selat that holds this land

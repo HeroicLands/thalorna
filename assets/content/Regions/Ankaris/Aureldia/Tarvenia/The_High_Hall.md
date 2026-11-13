@@ -40,7 +40,7 @@ The hearth burns, and the hall is quiet. The High King has not come down to it f
 The ledge beside the High King's chair is narrower than it looks from the hall, and its outer edge is loose. Two High Kings have died in falls from it. The chroniclers record both as accidents in the fog, and the Keeper of the Hall knows that one of them was not.
 :::
 
-## See Also
+## See Also {#see-also}
 
 - [[place-lezkora|Lezkora]]—the city on the plateau
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—the crown and its election

@@ -78,7 +78,7 @@ The [Jaju]{.name data-type="affiliation/lineage"} keep the armory and hold Tsaig
 
 The muster is 550 men, and none of them sails. The domain's own forge arms them, and the blades of the Jaju are what the other lords come to buy.
 
-## Relations
+## Relations {#relations}
 
 Tsuijai belongs to neither bloc. Its lord is one of the four independent houses, who together muster 3,970 men and 55 ships and who each have their own price. Tsuijai alone has the iron and the swordsmiths.
 
@@ -86,7 +86,7 @@ Tsuijai belongs to neither bloc. Its lord is one of the four independent houses,
 
 The office of Teng Ja stands vacant, and a new holder receives a blade forged at Tsaigen. The smiths will not begin it until the Emperor names a holder, and someone has asked them to begin early. The Jaju have not said who asked.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses

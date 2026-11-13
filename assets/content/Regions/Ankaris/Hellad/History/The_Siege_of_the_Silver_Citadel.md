@@ -72,7 +72,7 @@ The Citadel surrendered on terms. The city kept its walls and its own garrison, 
 - **The sealed tunnels**, some of the mine workings closed since the siege.
 - **The city's own garrison**, which the Empire left under arms and which the League inherits.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-heladeastwar|The Eastern War]]—the war this siege belongs to
 - [[affiliation-argyrteikhos|Argirteikhos]] · [[place-argyrteikhos2|the city of Argirteikhos]]

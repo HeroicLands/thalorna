@@ -20,13 +20,13 @@ The plateau says "he filled the well" of a man who broke his word, and this is t
 
 Drovers will not water near it, and the droveway that passed it has a new course two days to the south. The dead well-villages are not a _shorukshetra_ (blood-field); nobody died here in any number. The drovers keep away from them at night all the same, because empty villages on the plateau are where anything that hunts the herds goes to ground.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Reopening the well.** The lineage that filled it proposes to clear it and water at it again. The crown must decide whether a reopened Shunyakupa is a new well, the lineage's to keep on its own terms, or the old one, still owed the old guarantee the crown failed to honor. Either answer sets a precedent for every well on the plateau.
 - **Something in the villages.** Herds driven near the dead droveway have been losing stock at night, and what took them left no tracks a drover recognizes. The lineage that wants the well reopened needs the villages cleared first, and is offering water-rights for the work.
 - **The pledge.** The lineage's head carried the well's pledge on his person when the lineage walked off, as the great lineages still do. It was lost on the road a century later, and whoever holds it now can argue the well is theirs.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-emptycrct|The Second Breaking and the Empty Circuit]]—why the well was filled
 - [[lore-wellbrk1|The First Breaking of the Well Bargain]]—the bargain's other half

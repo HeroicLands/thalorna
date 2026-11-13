@@ -190,7 +190,7 @@ Ramavahan Smiritibhara
 [Shemapal Rajapali]{.name data-type="being/npc"}
 : a Rajapuri-born scholar resident in [[place-chendrapur2|Chendrapur]], who corresponds with several of the major Vedyari kingdoms on the merits of further dissolutions on the Rajapuri model. He is controversial and well received in some janpodas. The kingdoms call him a dangerous radical and have asked Chendrapur to expel him; Chendrapur has declined.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Rajepur holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], so its sabhra has a voice in the [[lore-vdyrnbnkng|Vedyaran banking system]] that [[affiliation-mrchntclctvvdyr|the Merchant Collective]] runs. Like every janpoda it strikes no coin of its own; its river traders deal in the silver chendra [[place-moonhouse|the Moon House]] strikes at Chendrapur and in whatever copper comes up the river. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] for the institution.
 
@@ -198,13 +198,13 @@ Rajepur holds one of the five seats in the [[affiliation-assmblycmpct|Assembly o
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The dry room.** A kingdom's envoy has heard that one room of [[place-rajavalilib|the Rajavali Library]] keeps palm-leaf dry, and has asked for the use of it for his own archive. The room is [[place-shitakoshta|the Cold Chamber]], and its correspondence shelf holds [Shemapal Rajapali]{.name data-type="being/npc"}'s letters on further dissolutions. The Memory-Keeper cannot refuse the envoy, and asks the party to learn what he means to read.
 - **The Ford's anniversary.** The upper-river villages send no delegate to any sabhra that sits on the anniversary of [[lore-unburnford|the Unburned Ford]], and this year a session the whole janpoda must attend falls on that day. Karunamoya Podma-Hasta asks the party to carry the sabhra's proposal upriver and bring back the villages' answer before the session opens.
 - **From the chamber's dish.** [[being-mandulikulan|Manduli Kulanaya]] wants the temple's priests to eat [[being-vanikartns|Vanika Ratnisen]]'s feast-meal from the fire chamber's own dish. A Jvelita of the [[affiliation-agmipantra|Agmi-pantra]] has come to Rajepur for the feast, and Manduli asks the party to keep him from the chamber door until it is over, because his praise of the meal would settle the question against her.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land the janpoda holds

@@ -17,7 +17,7 @@ data:
   notes: "The great port of Ish'bal Tsa'ku on the western ocean, ruled by a lord of the sea who keeps his own fleet, whose ships sail from shrine to shrine and never out of sight of one."
 ---
 
-## Overview
+## Overview {#overview}
 
 A white shrine stands on every headland of the coast north and south of Ts'alam Ne', each in sight of the next, and the ships of the port sail from one to the next and never lose sight of them. Out of sight of a shrine the day-tables give no answer, and no captain of Ts'alam Ne' takes a ship where the day cannot be read. Ts'alam Ne', Spring Water, is the great port of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]], a city of about 45,000 where the jungle rivers open into the western ocean, and the richest and most unruly city of the south.
 
@@ -43,7 +43,7 @@ The shrines of the coast belong to the road priests of [[lore-xilanixlandty|Shil
 
 Merchants from [[place-nepaxel|Ne' P'ashel]] send goods down the river for the port to carry along the coast, and the port sends salt, fish and shell back up. Mobility through wealth is commoner in Ts'alam Ne' than anywhere else in the south: a fisherman's son who owns three trading canoes can build a house in the upper city, and many have. The priesthood still takes its levy from every cargo, and the temple crews of the war canoes keep a close watch on what comes in.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
 : the realm that holds the port

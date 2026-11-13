@@ -53,7 +53,7 @@ Below the walls lie the lanes of the back streets, where the sellswords and thei
 - **The reform faction.** The merchants who want [[being-domthgrvth|Dometh Graveth]] discredited are gathering stories of Graveth hulls lost at sea. Dometh suspects the stories, and the wrecks, are not what they seem, and he cannot ask the questions himself.
 - **The oversight.** [[being-gaimelkorvat|Gaimel Korvathandis]] wants witnesses to what [[being-palnsnrcth|Pálina Sánriseth]] does among the poor, and he will pay strangers to watch her.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnclhrthm|Council of Herthema]]
 : the town's government

@@ -66,7 +66,7 @@ The Khelathi claim more than a founding. The mound of [[place-yathtelgu|Yath-Tel
 
 > Before this year nothing is entered, because there was no year to enter it in. There was the dark, and in the dark the serpent whose name is not written at the head of a chronicle, and there was water without a bank. Nothing in it stood, so nothing in it could be counted, and what cannot be counted is not history.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-firstoccasion|The First Occasion]]
 : the telling that opens the count

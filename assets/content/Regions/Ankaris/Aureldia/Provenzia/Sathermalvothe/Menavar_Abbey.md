@@ -65,7 +65,7 @@ The relic is wanted more urgently this year than at any time since the last expe
 Given where Ménavar stands, and given what [[affiliation-sacredforge|the Sacred Forge]] says about the waking of Yarvalen, a fifth interest is
 worth considering. See [[scenario-lstrlcmnvrby|The Lost Relic of Ménavar Abbey]].
 
-## See Also
+## See Also {#see-also}
 
 - [[place-sathvothe|Satvote]] · [[place-yharvalenhenge|Yarvalen Henge]]
 - [[affiliation-arldnpnthn|Aureldian Pantheon]]

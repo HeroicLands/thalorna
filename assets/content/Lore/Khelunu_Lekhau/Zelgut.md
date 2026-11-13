@@ -12,7 +12,7 @@ data: {packFolder: regkharc, culture: khelathiclt}
 
 The tradition teaches it in full because it has to: nothing can be warded against that is not understood. It proscribes the practice, and the temples do not attempt to explain that line to outsiders.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garzelgut|Gar-Zelgút]]
 : the college that holds the treatises

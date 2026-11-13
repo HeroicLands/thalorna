@@ -18,11 +18,11 @@ data:
   notes: "The easternmost city of Taruzel, on the island nearest the mainland: a dusty, polyglot crossroads of mudbrick and tile where the strait ferries land the caravan goods of Dunhara and the Khazrin, the guilds' enforcers are not welcome, and the eastern rites are practiced in the open."
 ---
 
-## Overview
+## Overview {#overview}
 
 A traveler sailing east through the islands of the [[place-taruzelrgn|Taruzel Region]] notices the walls change first. The pale stone of the western harbor cities gives way in Kudumel to mudbrick and tile, the roofs are flat and crowded with cisterns, and the bazaars smell of desert spice and camel. Kudumel, a town of about 9,900 on the eastern shore of [[place-nishurel|Nishurel]], is the easternmost of the larger towns of Taruzel and the seat of the city-state of [[affiliation-qudumel|Kudumel]] in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. Its name is its trade: _kudum-_, to come, with _-el_, the ground of it, the ground of arrival. The caravan roads of the [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazrin Desert Region]] reach the sea on the Amradi shore forty miles across the strait, and their goods come over to Kudumel on the ferries.
 
-## Arriving
+## Arriving {#arriving}
 
 Most of Kudumel's visitors arrive from the east, on the broad-beamed ferries that cross from the Amradi coast in a day with a fair wind, and they land at the [[place-caravangate|Caravan Gate]]. The ferries come in low in the water and loud with camels. A clerk of the [[affiliation-balinuni|Balinuni]], the house that keeps them, walks down the bales with a tally-board before anything is unloaded. The animals go down stone ramps into the watering pens, the goods go to the weigh-house, the people go to the dues hall, and from the dues hall they pass under the great arch of the Gate into the eastern market.
 
@@ -60,7 +60,7 @@ The guilds' enforcers are not welcome in Kudumel, because the caravan peoples wi
 
 The present Arch-Consul of the Confederation, [[being-dnshkmn|Danashu Kumuni]], is a coffee merchant of Kudumel, named to the office by the city's council on the votes of the Balinuni. He keeps his residence in [[place-besikar2|Besikar]] for the year, and his warehouse on the market is kept by his sons.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 A party that comes in with a caravan lodges in its caravansary, eats at the common fire and pays for its animals' water by the skin. The harbor inns take western travelers and charge western prices. A party with a letter to a merchant house lodges behind that house's blank wall, where the courtyard is cool, the coffee is the best in the city and the house's guests are not expected in the Caravansary Quarter after dark.
 
@@ -74,7 +74,7 @@ The fire in Kudumel's oldest temple was burning before the empire came to the is
 - **The cast.** A sand-diviner in the back courts has refused, three caravans running, to cast for any train bound by the southern trail, and the caravan masters want to know what he has seen. The Thordimalon's chapter would like to know who taught him.
 - **The councilor's camp.** A Tribal Councilor has not come down to the session, and his household has camped by the west gate without him.
 
-## See Also
+## See Also {#see-also}
 
 [[scenario-mnthbfrrvw|The Month Before the Review]]
 : the campaign frame of the veterans and the summer session

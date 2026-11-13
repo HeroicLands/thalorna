@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Rethu elu Reth'Sa'ar** is the collective of scholars attached to [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]] (the temple of Reth'Sa'ar), drawn from those the temple has certified to handle its deeper texts. The collective keeps those texts apart from the temple's general archive and decides, case by case, who may read them. The temple defers to its judgment, so a scholar it refuses has nowhere else to ask.
 
@@ -54,7 +54,7 @@ The collective has one relation: [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]], the
 
 Access is the collective's to grant. Say a [[lore-helioniteclt|Helionite]] scholar lodging near the temple libraries asks to read one of the deeper texts. The collective meets, reads her credentials, and asks what she means to do with the text. If the answer satisfies the members, a Certified Scholar sits with her while she reads. If it does not, she is refused. There is no fee that opens the second door.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-rethsaardty|Reth'Sa'ar]]
 : The god of knowledge the temple serves

@@ -17,7 +17,7 @@ data:
 # terran_analog: the Bering Sea coast of Alaska from Bristol Bay north past Norton Sound and the Seward Peninsula to Point Hope, with Nunivak, St. Lawrence and King Island offshore; Whale Point is Point Hope, Cliff Place is King Island, and the coast running east from Whale Point is the Arctic coast the Thule followed
 ---
 
-## Overview
+## Overview {#overview}
 
 The Ice Coast (_tiku manik_) is the shore of the [[affiliation-tikupilarit|Tikupilarit]], the Ice-Edge People, on the far northwestern coast of [[place-northkiichchik|Northern Kì'ìch'chik]], beyond the last fjords of the [[place-kelwanukrgn|Kelwanuk Region]]. It runs north from the glaciers where the Cedar People's country ends, along a low coast of capes, spits and lagoons facing a shallow western sea, to a point where the land turns east along the northern ocean. About 32,000 people live on it in some hundred and twenty villages, nearly all of them on capes, spits and islands where the sea comes close.
 
@@ -41,7 +41,7 @@ North of Whale Point the coast turns east along the northern ocean, and that coa
 
 The coast trades with itself at the Messenger Feast: oil, ivory and walrus hide from the capes go to the river villages, and dried fish, caribou skins and wood from up the rivers come back. Whale Point sends whale bone and baleen south, and Napamiq's ivory carving goes everywhere. At midsummer the Cedar People bring cedar boxes, eulachon grease and copper to Trading Shore and take ivory, furs, gut parkas and oil. Almost nothing from farther south reaches the coast.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tikupilarit|Tikupilarit]]
 : the Ice-Edge People, who hunt this coast

@@ -18,7 +18,7 @@ data:
 # terran_analog: Cancuen, the port of trade where the highland and lowland routes met; the name is the realm's and the city's
 ---
 
-## Overview
+## Overview {#overview}
 
 The road comes up out of the rainforest in switchbacks, climbs to a saddle between two volcanoes, and runs straight down the middle of the city. Ne'ok Ba'ate is built across it: its gates stand at either end of the saddle, its great plaza sits on the road at the top, and every load that crosses the isthmus by land is set down in that plaza at least once. A porter going north carries jaguar hides, macaw feathers and cacao, and a porter going south carries obsidian, fine textiles and priests. Ne'ok Ba'ate, which means "Watery Bridge", is a city of about 70,000 people on the volcanic spine of the [[place-neokbaatergn|Ne'ok Ba'ate Region]], the seat of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]], and the city that holds the bridge between the great northern realms and the wilder, less centralized lands of the south.
 
@@ -40,7 +40,7 @@ Messages from Ish'ilankul reach the city in two to three days by the [[affiliati
 Ishkul Ne'ok sends his most private letters by canoe. A painted fold of bark paper, sealed in a gourd, goes down the eastern road to the coast with one of his own household and out by sea to [[place-tzililnetzik|the Island of Swallows]] (Ts'ilil Ne'ts'ik), where the war canoes of the island carry it on to his envoys and his allies. A letter by canoe takes four times as long as a cord on the Road, and no priest of the dispatch ever reads it. His letters this season go to the Ts'enmah of Q'o Kul'qat and of Ne' Ts'umul. They propose that the cities of the isthmus agree among themselves, before the conclave of 722, on what they will send to Ish'ilankul in the new round, and that each send it on its own day by its own envoy, as Q'o Kul'qat sends its jade.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-neokbaate|Ne'ok Ba'ate]]
 : the realm and its independent Sun Lords

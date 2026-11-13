@@ -80,12 +80,12 @@ The rim is the younger horde's secret. This season a salt-cutter's son of the yo
 
 The Mirjolur count themselves from three brothers who divided their father's herds at Voyer, the eldest taking the grass, the middle the gravel and the youngest the shore of the lake. The younger horde has cut salt on the western rim since before the first banner, and its quarrel with the Khilodur is as old as its cuttings.
 
-## Hooks
+## Hooks {#hooks}
 
 - The younger horde is sure the Khilodur killed its rider and wants outsiders to carry its demand for blood to the Khilodur well, since none of its own can go there and come back: [[scenario-sltnthmth|Salt in the Mouth]].
 - Mirjoltoliz wants to know what the younger horde found on the rim before the gathering man does, and he does not want his own riders seen asking.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

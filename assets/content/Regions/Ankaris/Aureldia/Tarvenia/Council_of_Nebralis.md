@@ -61,7 +61,7 @@ The merchant oligarchy is consolidating its control of Nebralis, and its leaders
 
 The Freemen's Assembly is the older of the town's two bodies, the Tarvenan tradition of communal assembly kept in a port. When a run of harsh years brought drought and hunger to Nebralis, the assembly decided what was shared, and Alethra Ornetis fasted with the town and nearly died of it. The council has grown with the harbor, and the harbor has made the merchant houses rich.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nebralis|Nebralis]]
 : the port town

@@ -17,7 +17,7 @@ data:
   notes: "Salkalon's largest fishing town, famous for its smoke-fish, and the one place on the Vilérian coast with a Nordmal name, given by a raiding crew stranded there in 523 AF."
 ---
 
-## Overview
+## Overview {#overview}
 
 Bralvik is the largest of [[place-salkhalon|Salkalon]]'s four principal fishing towns, about nine thousand people on a deep bay whose boats work the rich offshore grounds. It is a town of net-lofts, smokehouses and the boatwrights who keep the fishing fleet afloat. Their craft are humbler than the warships of [[place-castamar|Kastamar]], but more numerous. It is also the only place on the Vilérian coast that carries a Nordmal name, and every child in it knows why, because once a year the town relights its smokehouses from one fire and tells the story while it does.
 
@@ -60,7 +60,7 @@ The bill and the brand are Bralvik's present. The admiralty files every copy of 
 - **The helm.** A man from Hvirnmil's own hall in [[place-malagna|Malagna]] arrives with the hall's tally of the crew and asks for the captain's helm. The town carries its fire in it, and nobody in Bralvik has ever asked whether it was a gift or a pledge.
 - **The bill is answered.** A new admiral at Kastamar, short of oarsmen for the hunt for the Bethuan privateers, offers at last to settle the [Boat-Bill]{.name data-type="lore"}: one Bralvik crew for the fleet for every boat the fleet owes. The town must choose between the money and the grudge, and either side may hire the party to carry its answer.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-bankedfire|The Winter of the Banked Fire]]
 : the landing, the burning and the terms, dated in both calendars

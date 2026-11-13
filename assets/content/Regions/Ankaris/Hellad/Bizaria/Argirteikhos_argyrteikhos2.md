@@ -16,7 +16,7 @@ data:
   notes: "The Silver Citadel, a garrison city astride the League's principal eastern pass, whose mines pay for the League's defense."
 ---
 
-## Overview
+## Overview {#overview}
 
 The caravans that cross the eastern mountains reach **Argirteikhos** before they reach anything else in the [[affiliation-byzarianlg|Bizarian League]], and the first thing they meet is a wall. The Silver Citadel sits astride the principal pass connecting [[place-byzariargn|Bizaria]] to the eastern lands, and its fortress walls are among the most formidable in the region. About 35,000 people live in it, the smallest of the five League capitals, and it carries the League's weight in the east.
 
@@ -28,7 +28,7 @@ A military governor and a council of merchant-princes govern [[affiliation-argyr
 
 The city is more austere than the other League cities: less ornate, more functional, with the disciplined air of a garrison. The silver mines in the surrounding peaks fund the League's collective defense and give the city a political weight beyond its size, and the mines support a community of skilled engineers and metalworkers. The monasteries of the eastern rite are especially influential here. Their monks are the city's chroniclers and healers and its occasional diplomatic intermediaries with the peoples beyond the passes.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-argyrteikhos|Argirteikhos]]
 : the city-state, its governor and its council

@@ -68,7 +68,7 @@ Two other selatu take Chelsur as their patron, and neither is marsh. [[affiliati
 
 The cult keeps the shared temple ladder; a selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-chelsurdty|Chelsur]]
 : the god

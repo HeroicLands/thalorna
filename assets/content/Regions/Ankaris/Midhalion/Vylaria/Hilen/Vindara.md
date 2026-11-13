@@ -17,13 +17,13 @@ data:
   notes: "A prosperous wine town on the terraced hillsides of Hilen, all vintners, coopers and cellars cut into the slope, whose casks go down to the ports of Salkalon and whose two greatest vineyard houses have been at feud over one terrace wall for eleven years."
 ---
 
-## Overview
+## Overview {#overview}
 
 Vindara sits among the terraced hillsides of [[place-hylen|Hilen]]'s wine country, a prosperous town of six thousand vintners, coopers and the estate-houses whose vintages cross the [[place-vylarianse|Vilérian Sea]]. The slopes around it are quilted with vineyards worked by tenant families, and the town's fortunes rise and fall with the vintage.
 
 Its merchants deal in the casks and the contracts that carry Hilen's wine to the ports of [[place-salkhalon|Salkalon]] and beyond. A cooper's apprentice learns early that a good year fills his master's yard with orders, and a bad one leaves him sweeping it.
 
-## Arriving
+## Arriving {#arriving}
 
 The road climbs to Vindara in long turns between terrace walls, and for the last hour a traveler sees nothing but vines above him and vines below. The town is built across the face of the hill on three terraces of its own, joined by stairs, with the cooperages on the lowest, the houses and the market on the middle one, and the temple of [[lore-olveniadty|Ólvenia]], the Bountiful One, alone on the highest. Smoke rises all day from the cooperage yards, where the coopers toast their staves over fires of vine-cuttings, and the smell of charred oak and old wine hangs over the whole hill.
 
@@ -39,7 +39,7 @@ The coopers are the town's guild of note, and the master coopers sit on the coun
 
 The great vineyard estates belong to provincial families of standing, named for their estates in the provincial way. The two greatest are the [Ronalen]{.name data-type="affiliation/lineage"}, whose estate of [Ronalenna]{.name data-type="place/settlement"} holds the ridge above the town, and the [Kliven]{.name data-type="affiliation/lineage"}, whose estate of [Klivenna]{.name data-type="place/settlement"} holds the slope below it. Between them they own half the terraces in sight of the town, and the fallen wall is where their land meets.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Vindara is a chartered town under the [[affiliation-provnchyln|Province of Hilen]], with two _tavemoi_ (magistrates) elected each year and a council of _kurthaloi_ (councilors) who answer in their own persons for its taxes. By long custom one _tavemos_ is a vintner's man and the other a master cooper, and the council's seats are divided among the vintners, the coopers and the stewards of the estates.
 
@@ -49,7 +49,7 @@ The feud runs through all of it. Eleven winters ago a season of rain brought the
 
 The feud of the slide is the town's present and its politics. The Ronalen and the Kliven still both claim the terrace that slid eleven winters ago, the _therkos_ has sent the case back unsettled four times, every council vote is counted by house, and the town's men stand between the two sets of pickers at the vintage. The Kliven master has betrothed his daughter to a Salkalon shipping family, to be sealed at Delalara this autumn, to bind his wine to their hulls. Vindara-marked casks of fake brand are reaching ships at sea, and the coopers' name pays for them.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The [Vine Stair]{.name data-type="place/structure"}, the inn at the head of the stairs on the middle terrace, takes merchants and travelers and serves the town's own wine at a price that would not buy it in the capital. The carters who take the casks to the coast sleep in the cheaper inns by the cooperages, and in vintage weeks every inn is full of pickers' agents hiring hands. A guest at the Vine Stair is asked, politely and on the first evening, whose wine he drinks, and the answer is remembered.
 
@@ -59,7 +59,7 @@ The [Vine Stair]{.name data-type="place/structure"}, the inn at the head of the 
 - **The betrothal.** The master of the Kliven has betrothed his daughter to the son of a Salkalon shipping family, to bind his wine to their ships. A party is hired to escort her to the betrothal at Delalara, and she asks them, on the road, how fast they can ride.
 - **The bad cask.** A shipment of Vindara-marked casks has leaked its whole cargo into a ship's hold at sea. The merchant blames the cooper, the cooper blames the brand, and the brand turns out to be a fake.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provnchyln|Province of Hilen]]
 : parent province

@@ -123,7 +123,7 @@ The Bardic Colleges operate with considerable institutional independence, but th
 - **A student who changed College.** A student of the Line has gone to the Wood-Song, taking what he learned of the proofs, and the Archivist wants to know what he has told.
 - **Cast Out.** A bard struck from every roll offers a party what he knows of the closed songs, in return for a name in the next house's line.
 
-## See Also
+## See Also {#see-also}
 
 [[place-elavendre|Élavendre]]
 : The kingdom in which the Colleges are based

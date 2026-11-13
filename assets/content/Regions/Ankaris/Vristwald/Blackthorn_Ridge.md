@@ -13,7 +13,7 @@ data:
   packFolder: vrystwald
 ---
 
-## Overview
+## Overview {#overview}
 
 Blackthorn Ridge is the northern bound of the [Garskald]{.name data-type="affiliation/lineage"} clan's hunting grounds in the central [[place-vrystwald|Vristwald]], and it is the line the clan's elders tell their hunters not to cross. South of it lie some sixty miles of oak and pine the Garskald have hunted for as long as anyone remembers; north of it lies country no Varokh clan claims, older, darker and denser than anything in the central forest, with trees so large that their canopy keeps the snow off the ground.
 
@@ -23,7 +23,7 @@ A hunter can stand on the ridge and see game trails in the valleys beyond, and n
 
 The ridge also has a season. The deep snows close it in early winter, and a party caught on the far side when they come stays there until spring. [[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]], the clan's hunting company, is planning a great hunt across it to find elk herds untouched by the shift in the migrations, and its leader has given the crossing three weeks for exactly that reason.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]
 : the hunting company that means to cross it

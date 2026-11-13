@@ -18,7 +18,7 @@ data:
   culture: vedyariclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Meghra-samedra** is the ocean south of [[place-vedyarargn|Vedyara]], and the name means the sea the cloud comes from. The rain that makes the subcontinent crosses this water, and the coast that takes it first takes the heaviest fall in [[place-worldthlrn|Thalorna]]. [[place-chandrmahi|The Chandramahi]] comes down to a delta on this sea, and the deep-water trade of Vedyara is worked from the harbors at its mouth.
 
@@ -36,7 +36,7 @@ The long voyage from this coast runs west and then north-west to the delta citie
 
 What reaches the [[place-vylarianse|Vilérian Sea]] from Vedyara goes through Khelathi hands and at Khelathi rates. The Vedyari houses know this and have never found a way around it. Au'Khelathu keeps its own year, its own weights and its own account of what a cargo is worth at the quay, and a Vedyari factor at the delta learns all three or is beaten on every contract.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara Region]]
 : the coast this sea takes

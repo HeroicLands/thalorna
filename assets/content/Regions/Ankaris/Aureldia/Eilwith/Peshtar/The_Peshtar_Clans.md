@@ -59,7 +59,7 @@ The tongue's sound is a cattle people's speech of the western sea. Most words ha
 
 The tongue leaves out _w_, _z_, _j_, _q_, _ch_ and _ts_, the catch and every mark, and _th_ comes only in the old names of the gods. It avoids the endings of Eilwìthi names, _-wald_, _-rik_, _-mund_, _-ith_ and _-rith_, and the Seilvri endings _-ir_, _-an_ and _-ri_.
 
-## See Also
+## See Also {#see-also}
 
 [[place-pshtrwldrns|Peshtar Wilderness]]
 : the country, its clans' customs and their faith

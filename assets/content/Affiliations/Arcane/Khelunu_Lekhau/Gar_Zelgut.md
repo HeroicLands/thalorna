@@ -66,7 +66,7 @@ The Warden of the Treatises holds the sealed accounts of Azu'athis—his nature,
 
 A seconded practitioner is also counted stained. The Purifier of [[affiliation-garathenuqa|Gar-Thelqen'Uqa]] conducts the cleansing.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-zelgut|Zelgút]]
 : the domain

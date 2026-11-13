@@ -17,7 +17,7 @@ What marks Linhur is that his patronage does not end at the kill. His concern is
 
 In the guild's tradition, Linhur and Linkur are brothers, and the guild swears to both because a brother's judgment is never given alone.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-linhur|Faith of Linhur]]
 : the cult and its offices

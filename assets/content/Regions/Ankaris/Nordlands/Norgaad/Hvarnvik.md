@@ -17,7 +17,7 @@ data:
   notes: "Coastal Village"
 ---
 
-## Overview
+## Overview {#overview}
 
 Every other harbor in the kingdom is shut by the hard months of winter, and the harbor-reeve posted to Hvarnvík for the cold season calls his own the door. A current running close against this stretch of coast keeps the inlet open when ice locks every bay for leagues in either direction, so a ship that times its northern run to reach Hvarnvík before the freeze can still move goods when no other port in [[place-norgaad|Norgaad]] can. The name says it plainly: _hvarn-_ is water that will not freeze.
 
@@ -29,7 +29,7 @@ Hvarnvík's tension is the ordinary one of a place whose value is seasonal and w
 
 Fishers here tell two tales of the sea: an island that rises without birds and takes a boat down with it when it dives, and a thumb tucked under when the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] are counted at [[lore-sumarmal|Somarmál]]. [[lore-nrgadhstry|Histories and Legends of Norgaad]] records both, and neither adds an eleventh god to the Ten.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmnrgd|Kingdom of Norgaad]]
 : the kingdom this harbor keeps open through winter

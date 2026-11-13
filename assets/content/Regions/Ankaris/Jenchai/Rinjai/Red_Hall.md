@@ -26,7 +26,7 @@ The town lives on the fleet and on what the fleet brings home. Shipwrights, rope
 
 Hoja's judges, chosen from his retainers, hear the town's cases.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-rinjaidmn|Rinjai Domain]]
 : the house and its lord

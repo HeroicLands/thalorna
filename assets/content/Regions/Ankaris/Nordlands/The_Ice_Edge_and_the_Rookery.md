@@ -28,7 +28,7 @@ Nothing on a seal is wasted. The meat is eaten fresh through the hungry end of w
 
 Sealskins are also money. Along the northern coasts a bundle of good skins is a standard of value in [[lore-bartercnmy|barter]], alongside walrus ivory, and a household's sealskins carry its debts through a winter in [[lore-kinhalcrdt|hall credit]] the way coin carries them in the south. What is not needed at home goes south with the whale-oil to [[place-midhalnrgn|Midhalión]].
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nrdlndswhal|The Whale Strand]]
 : the whale hunt and the law of the stranded whale

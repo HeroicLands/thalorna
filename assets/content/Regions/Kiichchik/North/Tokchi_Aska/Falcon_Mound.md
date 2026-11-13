@@ -20,7 +20,7 @@ data:
 # terran_analog: the western Mississippian frontier towns on the prairie edge west of the river, with the palisaded Mississippian towns of the Missouri and Arkansas valleys as models; the falcon dancers' house is the Southeastern Ceremonial Complex's warrior cult
 ---
 
-## Overview
+## Overview {#overview}
 
 Kiyo Pokta is the town on the western bank that faces the grass. About 5,000 people live inside and around its two palisades, on a terrace above the [[place-hokpargn|River Valley]] where the bluffs give way to prairie, and from the summit of its mound a watchman can see the smoke of a plains camp a day before its warriors arrive. The name means the Falcon Mound. It is the muster town of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, against the [[affiliation-tenlaya|Grass People]], and the home of the falcon dancers.
 
@@ -46,7 +46,7 @@ Naksochi wants a war, and wants it before the Great Sun dies. A victory would ma
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-hokpargn|River Valley]]
 : the heartland the town guards on the west

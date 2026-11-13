@@ -319,7 +319,7 @@ The Khazari held humans in service. Before the withdrawal, human tribes mined fo
 
 The ethic that forbids a needless cut in stone does not reach people. The Khazari ask a mountain what it wants and did not ask the tribes they bound. They refuse to force a seam and have reshaped valleys, waters and whole peoples to feed a hold. Restraint is their highest virtue, and they have never applied it to the farmers at the gate. Thoughtful Khazari argue about this inside the holds; the Vardain live under its answer.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-flkkhazar|Khazár Folk]]
 : the people, their history and their holds

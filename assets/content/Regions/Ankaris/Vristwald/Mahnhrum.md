@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [mahnryth], population: 0, packFolder: 
 
 A Shaman can call home only the dead whose names are known and whose bodies were given a rite, and the taken had neither, which is why the mound stays empty. A Grukar raid that takes another of the village's people opens the old argument at once: whether to open the mound for the new name, or raise another.
 
-## See Also
+## See Also {#see-also}
 
 [[place-mahnryth|Mahnreth]]
 : the village that keeps the mound

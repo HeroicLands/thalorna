@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 Kelod is a hole in the gravel the width of a market square, and from the rim you see only the first dozen flights of steps. They go down in square turns, wall-hugging, each flight a little narrower than the last, until the dark takes them. The stair is cut from the living rock and is wide enough for two loaded camels abreast, which is to say it was cut for work rather than ceremony; the steps are worn to a dish in the middle by feet that came every day for centuries.
 
@@ -35,7 +35,7 @@ A hard drought has dried every ordinary well within two days of Kelod. The tribe
 - **Three times a guard's wage.** The tribe's elders want the stair cleared to the bottom and pay strangers to do it, and they tell the party the stair is empty.
 - **The cut rope.** Someone went down on the rope at the rim before the party came. The elders do not say who cut it, or who was on the end of it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-basinbldrs|The Basin Builders]]
 : the people who dug it

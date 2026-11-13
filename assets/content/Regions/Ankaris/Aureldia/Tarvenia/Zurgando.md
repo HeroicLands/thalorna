@@ -44,7 +44,7 @@ The cairns are the valleys' count of their men still away, and the valleys read 
 Some stones on the topmost cairn belong to captains who did not come home, and a few belong to captains who did and left them there. A captain who breaks a contract abroad and is struck from every roll in the west may still come home over the pass, and some do, at night and in the fog. The valleys know which stones those are. The stones stay, and nobody in the valley will name the captain who left one.
 :::
 
-## See Also
+## See Also {#see-also}
 
 - [[place-kavrenath|Kávrenath]]—the town below the valleys
 - [[place-asturath|Asturath]]—the mountain land the pass crosses

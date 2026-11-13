@@ -30,7 +30,7 @@ If a guide in the desert offers to take you to a sealed temple, decline. The **Z
 
 They hold ground rather than agreements. No stranger contracts with the Zelqetu and nothing is recorded, so the priesthood's interest in them begins and ends with what they are guarding—which, since it is temple ground they are camped on, is interest enough.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]
 : why a band that records nothing is not the temple's rival

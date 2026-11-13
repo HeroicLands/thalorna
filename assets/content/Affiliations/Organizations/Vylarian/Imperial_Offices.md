@@ -63,7 +63,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 The usher of petitions at the gate of the Offices gives the rule to every petitioner who has climbed to the Inner City on a feast day: "Bring it written, bring it sealed, and bring the fee in coin. I give you a number. You sit on the bench under that number until a clerk calls it, and if he does not call it today, you come back on the next feast day and sit under it again. A gift to the clerk does not buy you a better number. It buys you a clerk who remembers yours."
 
-## Overview
+## Overview {#overview}
 
 The Imperial Offices are the bureaucracy of the Vilérian throne, gathered into a single walled compound of [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]]. Everyone calls them the **Offices**. In [[skill-vylarilng|Vilari]] the whole compound takes the name of its heart, _thizaralon_, the office of the seal, because everything the Offices do ends in a seal. Here thousands of clerks, scribes, tax-assessors, _theronoi_ (censors) and magistrates do the paper of governing an empire: census rolls, tax ledgers, military levies, the dole's records, court judgments and the throne's correspondence.
 
@@ -95,7 +95,7 @@ The Offices are waiting for a new Keeper. A new Orzas appoints a new Keeper of t
 
 The seal is busy meanwhile. The Orzas has no cash, and he sells offices, titles and Senate grants of citizenship quietly, for coin now. The Dole desk pays each month's pensions from silver [[affiliation-tarmex|the Tarmeks]] borrows. The desk for Taruzel has been asked for a copy of the levy it drafts each year for a province twelve years gone. The imperial tribunals in the compound lift cases out of the civic basilicas at the throne's word, and their clerks in gray stoles are watched in the Platan, because a proscription can be read from the platforms on any day the throne needs a house's property.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The number.** A party's patron needs a petition heard before the next feast day, and the usher's bench is full. The clerk who calls the numbers can be bought, and so can the clerk who wants his place.
 - **The desk for Taruzel.** The desk still drafts Taruzel's levy every year, and this year a Taruzelian envoy has asked for a copy. Whoever gives it to him hands the Confederation an insult it can use, and the usos wants to know who in the Offices is selling the desk's papers.
@@ -105,7 +105,7 @@ The seal is busy meanwhile. The Orzas has no cash, and he sells offices, titles 
 **For the GM:** Holimar keeps a private index of every record the Offices have lost on his instruction in nineteen years, with the name of the house that asked and the price it paid. It is the reason no great house has tried to remove him, and it is kept outside the compound, where no successor can seal it away.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-arvon|Arvon]]
 : the Inner City, where the compound stands

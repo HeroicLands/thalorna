@@ -18,13 +18,13 @@ data:
   notes: "The port town on the south-western cape of Qalirel, under the beacon that marks the narrows: pale quarries on the hill, an arena cut into an old quarry pit, a street of furnace-houses, and the court where the Confederation's Arbitrators hear disputes between its cities."
 ---
 
-## Overview
+## Overview {#overview}
 
 Every night of the sailing season a fire burns on the headland above Sharimun, and a ship working through the narrows in the dark steers by it. The town takes its name from that fire: _sharim-_, to burn through the night, with _-un_, where the act is done. Sharimun is a port town of about 30,000 on the south-western cape of [[place-qalirel|Qalirel]], the largest island of the [[place-taruzelrgn|Taruzel Region]], and it stands over the eastern mouth of the narrows, three miles across the water from the cliffs of [[place-khamisar|Khamisar]] and the [[place-straitfortress|Strait Fortress]] of [[place-yamuzel2|Yamuzel]].
 
 It is among the most populous towns of the region, and it lives by four things: the stone of its hill, the glass of its furnace-houses, the fights in its arena, and the lawsuits of the whole [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], whose Arbitrators hold their court here. Its own [[affiliation-gldbrdshrmn|Guild Board of Sharimun]] governs the town and leaves the Confederation's court alone.
 
-## Arriving
+## Arriving {#arriving}
 
 A ship coming down the western coast of Qalirel sees the beacon tower first, a squat round tower of pale stone on the bare headland, and then the hill behind the town, cut back in white terraces where the quarries have taken it. The harbor lies in the lee of the cape, a basin closed by a stone mole, and the quarry quay along its inner side is stacked with cut blocks waiting for hulls. The Harbormaster's men meet a ship at the mole, take her dues and send her master up to the customs-house on the harbor square, where he pays before anything comes ashore.
 
@@ -52,7 +52,7 @@ Below the quarries runs a street of furnace-houses, where the glassmakers work w
 
 The arena lies in the oldest quarry pit, under the terraces. Its walls are the cut rock, its seats are benches hewn into the rock face, and on a fight day the whole town that can afford a bench is in it. The fighters belong to the [Gladiators' Guild of Sharimun]{.name data-type="affiliation/guild"}, which owns the arena, trains free fighters and convicts together, registers every fight and takes its share of every purse. Convicts sentenced to the arena fight for their freedom. Free fighters fight for the purse and the crowd. The champion of the arena is [[being-nbrnfsnn|Niburan Fusanuni]], a former quarry laborer who came into it as a convict, fought five years for his freedom and now fights as a free man. The swordmaster [[being-khrtshklrm|Khurutush Kalurum]] keeps a fencing yard near the arena gate, where he teaches the sons of guild families and is careful never to teach them like gladiators.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 The town is governed by its [[affiliation-gldbrdshrmn|Guild Board]], seven masters who sit for the town's guilds in the guild hall on the harbor square. The First of the Board holds the town's seal; this term he is [[being-qdrmbshrni|Qadurum Basharuni]], a quarry master whose house cuts the largest of the terraces. The Arbitrators answer to the Grand Council alone, and the board's magistrates hear none of their cases. The magistrates hear the town's own: debts, thefts, brawls on the quay and quarrels between guilds.
 
@@ -62,7 +62,7 @@ A shopkeeper robbed in the night goes first to the warden of his own guild, who 
 
 Sharimun is full of litigants and short of patience. The Arbitrators' session fills the lodging-houses on the square, and merchants come with bodyguards as well as papers. A Kudumel merchant's suit against a Besikar house turns on a ship's master who has gone to sea, and the session closes in twenty days. A young furnace-hand has been sentenced to the arena by a magistrate of the [[affiliation-gldbrdshrmn|Guild Board]] for a theft his mother swears he did not commit, and the arena's champion, [[being-nbrnfsnn|Niburan Fusanuni]], wants to know who paid the man who accused him. Across the narrows the Strait Fortress prepares for the Fleet Review, and the Keeper of the Beacon, [Belgina Sinnuni]{.name data-type="being/npc"}, is the member most often outvoted on the board that pays for her fire.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The harbor inns take sailors and quarry buyers and are cheap outside the court's sessions. In a session the lodging-houses on the square fill with litigants' clients, charge by the week and expect payment in advance. A party that comes by the coast road can eat better than anywhere in the town at the roadside tavern an hour short of the gate, where the cook [[being-bssshtndn|Bissush Tanaduni]] feeds carters and travelers on the plain food of the country, and the carters stop whether they are hungry or not.
 
@@ -72,7 +72,7 @@ The harbor inns take sailors and quarry buyers and are cheap outside the court's
 - **The accuser.** Niburan Fusanuni still knows the name of the man who accused him of the theft that sent him to the arena, and he wants a party to learn what that man was paid, and by whom.
 - **The sentence.** A young furnace-hand has been sentenced to the arena for a theft from his master, and his mother swears he took nothing. The Gladiators' Guild collects him at the end of the month.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-gldbrdshrmn|Guild Board of Sharimun]]
 : the town's government

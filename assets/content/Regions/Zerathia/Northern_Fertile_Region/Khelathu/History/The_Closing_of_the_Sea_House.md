@@ -61,13 +61,13 @@ Gez'Uzner I built a navy to enforce the rule, and gave it one task. The ships gu
 
 The navy grew large, and it stayed what the first reign made it. The [[place-vylarianse|Vilérian Sea]] is contested by older fleets, and the Khelathi navy is among the largest of them and the least likely to leave its own shore ([[affiliation-bethuanflt|Bethuan Fleet]]). The empire leaves deep water to others, and has since the first reign of this house.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The weigh-house rule.** An unweighed cargo is contraband, and the quays are built to it.
 - **A homebound navy.** Large, disciplined, and given one coast to keep.
 - **The apex fortifications.** Forts and customs-stations where the river divides, held for the throne and not for any selat.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-searaiders|The Sea-Raiders' Throne]]
 : the house that closed

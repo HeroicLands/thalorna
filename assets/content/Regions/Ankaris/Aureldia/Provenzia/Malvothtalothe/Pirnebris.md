@@ -50,7 +50,7 @@ salt, rope and boots pass through Pirnebris, and the town is a good deal richer 
 would explain. Nobody there is under any illusion about which of its two trades pays, and nobody
 imagines a lasting peace would be good news.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-tiravellake|Lake Tiravel]] · [[place-provenzrgn|Provénzia Region]]
 - [[scenario-hndsrdngssn|Hands for the Raiding Season]]

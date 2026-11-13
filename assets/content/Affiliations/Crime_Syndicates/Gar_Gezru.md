@@ -32,7 +32,7 @@ Ask a magistrate who the **Gar-Gezru** (the **Crimson Syndicate**) are and the a
 
 The network runs on a book, because a network must. Its members are strangers to one another by design—an official in one selat, a Shroshtin in another, introduced by a go-between who is paid to forget it—and what each is owed is written down and enforced. That is the temple's office performed by somebody else, and the priesthood pursues the Gar-Gezru as a heresy while the magistrates pursue it as embezzlement. The two investigations do not cooperate.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]
 : why a book of what strangers owe is the temple's business alone

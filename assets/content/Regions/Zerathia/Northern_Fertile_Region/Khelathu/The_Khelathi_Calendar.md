@@ -96,7 +96,7 @@ The Priests' Thrones (2378 to 2580 ST) are two centuries of priest-raised houses
 
 [[lore-akhhsmeqes|The House of Meqes]] (2580 ST to the present) opens when a regent is crowned in his ward's second year. Every Gar-Au since has been crowned Meqes, and the sixteenth reigns now.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the people whose calendar this is, and its regnal and Qet Telgu dating

@@ -64,7 +64,7 @@ The Master of the Set Form certifies that a wrought form is exact enough to carr
 
 [[lore-qeltnu|Qelt'nu]] is named for the soul-component the embalmers preserve, the one wrapped in linen. [[affiliation-garrethzethu|Gar-Reth'zethu]] holds its pair, the component the scribes inscribe.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-qeltnu|Qelt'nu]]
 : the domain

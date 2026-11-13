@@ -29,13 +29,13 @@ Four centuries ago a Tantsou-backed adventurer came through this door with a few
 
 The upper road is a shelf cut in rock above a gorge that no one has ever measured, in a place where the wind changes without warning. The [[affiliation-hvarnguides|Hvarn]] hearth that is assigned it for the season is small, is related by marriage to half the garrison, and has never lost a party—a record it declines to explain and which the fort's commanders have long since stopped asking about.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The record nobody explains.** The [[affiliation-hvarnguides|Hvarn]] hearth that draws the conch-door has never lost a party. The [[place-sangrafort|Sangra-fort]]'s commander, in the first of his three years, asks the party to cross with it and learn how, which his predecessors stopped asking long ago.
 - **Half a garrison.** The janpoda whose turn it is to man the fort has sent half its men. The commander asks the party to go down into the Bharava circuit and bring up the rest before the window closes, because a fort of thirty is a gift to [[affiliation-shikhalaya|Shikhalaya]]'s complaint at the next [Mahva-Melka]{.name data-type="lore/gathering"}.
 - **Late in the season.** A small party has asked the fort's leave to go over the conch-door into [[place-tantsouregin|Tantsou]] late in the season, carrying nothing a caravan carries. The commander asks the party to go with it as far as the col and learn its business. The last armed men to use this door came the other way, with Tantsou backing.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-kalashkhr|Kalashikhar]] · [[place-sangrafort|the Sangra-fort]] · [[place-estrnreach|the Eastern Reach]]
 - [[affiliation-hvarnguides|The Hvarn]] · [[affiliation-janpdsvdyr|Janpodas of Vedyara]]

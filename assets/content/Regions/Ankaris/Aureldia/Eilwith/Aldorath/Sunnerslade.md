@@ -50,6 +50,6 @@ and are resented for it.
 
 Last summer was cold and the vintage failed, the second failure in three years. The slade's tenants pay their lighter rents in coin from the wine, and many cannot pay this year. Some of their lords have proposed to take labor service instead, as the vale's manors do, and the tenants answer that vines will not bear it and that the lords learned as much long ago. The mainland buyers who come for the wine have found little to buy, and the old vintages in the slade's cellars fetch more than they ever have.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-ironfells|the Ironfells]]

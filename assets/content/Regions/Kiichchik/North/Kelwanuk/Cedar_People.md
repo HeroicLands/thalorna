@@ -62,7 +62,7 @@ sohl: {system: {commonSkills: [kelwanuklng]}}
 # terran_analog: the Kwakwaka'wakw above all, with the Nuu-chah-nulth, Haida, Tlingit, Tsimshian and Coast Salish; the giving feast is the potlatch, the crest poles are totem poles, and the coppers are the coppers of the potlatch
 ---
 
-## Overview
+## Overview {#overview}
 
 The Kelwanuk are the Cedar People, the nation of the western coast, about 200,000 people in villages of cedar-plank houses along the fjords, inlets and outer beaches of the [[place-kelwanukrgn|Kelwanuk Region]]. They take their name from the red cedar (_kelwa_), the tree that gives them their houses, canoes, boxes and clothes. The south calls them _Ish'bal Ki'ahk_, the Eagle People, after the eagles carved on the crest poles of [[place-tsilkasis|Tsilkasis]], where its traders first met them. Their ways are set out in the [[lore-kelwanukclt|Kelwanuk]] culture note, and their tongue is the [[skill-kelwanuklng|Kelwanuk Language]].
 
@@ -129,7 +129,7 @@ The faith of the houses, the [[lore-nakpulalas|Meeting]], has its own page.
 
 The coast trades with itself first: grease, dried salmon, cedar boxes, blankets and canoes move between the houses, and most of it changes hands at feasts. To the south the Cedar People trade along the coast with the [[affiliation-shuqash|Shell-Bead People]], whom they court for their shell money and raid for slaves, and neither side forgets either. In summer their traders cross the mountain passes to the [[affiliation-tenlaya|Grass People]] and the [[affiliation-teyumi|Turquoise People]], and through the Turquoise People a few southern goods reach the coast: a macaw feather on a dancer's mask is something a chief shows his guests. The passes close in winter. To the north, beyond the last villages, the [[affiliation-tikupilarit|Ice-Edge People]] trade ivory and the furs of animals unknown farther south for cedar boxes and grease.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-kelwanukclt|Kelwanuk]]
 : the culture: what the Cedar People believe and what they owe

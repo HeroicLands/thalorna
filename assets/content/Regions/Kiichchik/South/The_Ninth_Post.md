@@ -14,7 +14,7 @@ data:
   packFolder: qapteltzakul
 ---
 
-## Overview
+## Overview {#overview}
 
 Nine posts stand in a ring on the paving before the south gate of [[place-xelemchalix|Shelem Ch'alish]], where a party gathers on the morning it leaves for [[place-xelemixbalrgn|Shelem Ish'bal Region]]. Eight of them are cut stone, dressed square and painted red, each a little taller than a man. The ninth is the one the gate counts first, and it is not stone. The priests call it Pek'ash Kulum, the Ninth Stone, and the parties who wait in the court call it the Ninth Post.
 
@@ -34,13 +34,13 @@ On the opened day, after the gate priest names the gods and the cord-keeper read
 
 The gate priests teach that the Ninth Post is the gate's ninth keeper, the one who counts the leavers, and that what gives under a traveler's palm is the post taking his count. Most travelers touch it once without trouble. Some, perhaps one in five, take their hand away quickly and will not lay it there again. It does nothing else that anyone has seen.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The forty men.** One of [[affiliation-shaqalob|the Severers]] at the gate has demanded that the post be taken up so that its foot can be examined. The attempt was made before witnesses, with forty men, levers and a ramp cut into the paving, and the post did not move by a hair. The Severer says the failure settles nothing. The gate priest says it settles everything. Each wants the party, as outsiders who watched, to give its account to the Ch'alish Tq'an, and each wants it told differently.
 - **The hand at night.** One of the Blood-Denied from the camp outside the north wall got into the court after dark and laid her hand on the post. The priests want to know who let her in and what she means to do, and she wants to go south with a party that will not report her.
 - **The refusal.** A member of the party's own company, or of the party waiting beside it, touched the post on his first morning and will not touch it again. The opened day has come, and the cord-keeper will not knot him.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xelemchalix|Shelem Ch'alish]]
 : the gate whose court it stands in

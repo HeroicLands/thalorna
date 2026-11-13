@@ -8,7 +8,7 @@ tags: [feature, waste, ice, coast]
 data: {demonym: null, lore: [], parents: [longwinter], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Ice Shore, Ilkan Ne'kul, is the end of the [[place-kiichchik|Kì'ìch'chik Continent]]: the coast at the bottom of [[place-longwinter|the Long Winter]], where the ice of the land meets a black sea. The priests of the gate name it in their prayers as the last edge of the world, and the cords at the gate hold no account from anyone who claims to have stood on it. What is known of it comes from the few who saw it from the hills above, and from the rumors that travel north with them.
 
@@ -18,7 +18,7 @@ From the hills the Ice Shore is a wall of white ice, taller than any pyramid, ru
 
 No ship lands on the Ice Shore, and none leaves from it. No harbor is known on it, no fire has ever been seen on it, and no vessel of the cities has sailed far enough south to look.
 
-## See Also
+## See Also {#see-also}
 
 [[place-longwinter|The Long Winter]]
 : the frozen country above the shore

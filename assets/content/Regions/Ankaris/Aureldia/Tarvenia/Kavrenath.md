@@ -46,13 +46,13 @@ Kávrenath belongs to the [[affiliation-kngdmstrth|Kingdom of Asturath]]. The Wa
 
 The Warden's orders are a month old, and the frontier will not wait for new ones. Two hundred refugees are camped below the town gate, and the orders that came from [[place-lezkora|Lezkora]] say to send them back over the Kervaron. A band of imperial deserters has come over the passes with good armor and a captain of its own and wants to sign with a valley company. Beyond the valleys, [[affiliation-goitsathal|Goitsa Thal]], the company of the valleys above the town, has held the imperial road-head below the passes for nine years under its captain, [[being-zedmogltsrg|Zedmo Galtsuregi]], and reads every imperial demand against its contract. Inside the garrison, [[being-tholmargutha|Tholmar Gútharen]], who commands the sector beside [[being-tarsilathelv|Társila Thelvaris]], wants the Kávrenath posting and documents every decision she makes.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The deserters' price.** A band of imperial deserters has come over the passes with good armor and a captain, and they want to sign on with a valley company that already has one.
 - **The refugee road.** Two hundred people are camped below the town gate. The Warden has orders to send them back over the Kervaron, and the orders are a month old.
 - **A toll unpaid.** A Vilérian merchant swears he paid his gift to the clans and his toll at the gate. The clans say he paid neither, and the Warden's clerk has a receipt.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-asturath|Asturath]]—the mountain land it guards
 - [[place-zurgando|Zurgando]]—the pass at the head of its valleys

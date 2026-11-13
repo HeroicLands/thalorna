@@ -14,7 +14,7 @@ data:
   government: provinclys
 ---
 
-## Overview
+## Overview {#overview}
 
 [[place-orzara|Orzara City]] is made outside itself. Beyond the Clearance, the swept strip of open ground that rings the city, sprawl the outskirt communities, the Anthrima in [[skill-vylarilng|Vilari Language]], "beyond the line": the unplanned, half-legal overflow of a city that outgrew its bounds long ago, and the home of most of the people who keep it running. The right to dwell inside the thrima belongs to citizens and their sponsored servants alone, so nearly half a million resident laborers, journeymen and migrants live out here, and so do all the trades the city will not house. The smithies and foundries, the potteries, the timber- and stone-yards and the stinking trades crowd the ground downwind and downriver, the gate-yards ring every gate, and the walled garden-villas of the very rich stand apart on the pleasanter hills and riverbanks.
 
@@ -77,7 +77,7 @@ The outskirts fear a bad year, and this one is lean. When the grain comes short 
 - **The forged mark.** A blade bought in the Gilded Quarter as Vilérian Steel broke on its first blow, and it carries a perfect guild mark. The guild's _kelros_ hires a party to find who cut the mark, quietly, before the price of true blades falls.
 - **The sent-for.** A party is summoned through Thalbezara's gate by a master of the guild who will not say why in writing.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city inside the line

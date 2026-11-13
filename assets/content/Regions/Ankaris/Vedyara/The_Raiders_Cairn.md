@@ -16,12 +16,12 @@ The cairn began as the stones piled on the raiders' bodies, because the king wou
 
 The raiders were burned by nobody. They were a few dozen, and their kingdom took no interest in them. The gorge is a cold place and a quiet one, and the tribute escort does not camp in it, but it is a grave and not a field.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The marked stone.** A stone from the cairn has turned up in a [[affiliation-mrchntclctvvdyr|Merchant Collective counting-house]] at [[place-chendrapur2|Chendrapur]], with a weight mark cut on its underside in the old style of the weighing-station. Someone is tracing the raid's gold, which the record says was all returned to the grain.
 - **The tribute party.** This year's escort is short a rider, and the captain offers a place to anyone who can sit a horse. The ride up is easy. The talk round the fire is about who in Bharyastan's court wants the treaty to lapse at the next succession.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-lastgldrd|The Last Gold Raid]]—the raid and the return
 - [[place-weighingstn|The weighing-station]] · [[place-girimarga|Girimarga]]

@@ -14,7 +14,7 @@ data:
   government: bhumipal
 ---
 
-## Overview
+## Overview {#overview}
 
 The land of Bhumipal is empty between the wells and crowded at them, and that one fact explains its roads, its forts and its kings. It is the land of the march kingdom of [[affiliation-bhumipal|Bhumipal]], the northwestern corner of [[place-vedyarargn|Vedyara]]. It runs from the broken foothills of [[place-wstrndscnt|the Western Descent]] south and west to the shore of the [[place-sandvsmdr|Sandva-samedra]], and it is the driest country in the subcontinent that anybody farms.
 
@@ -38,7 +38,7 @@ Salt is the land's own product, raked from pans along the coast and carried inla
 
 The land grows millet, dates, and barley where a well will reach, and it imports grain in any year the rains fail on the plain behind it. A herder here counts a bad year by what he must sell to eat.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql
 SELECT s.address.slug AS _ref,
@@ -65,7 +65,7 @@ ORDER BY s.name.full COLLATE NOCASE
 
 The three towns of the road hold most of what is not herding. The rest of the land lives at the wells, in hamlets of a few families that answer to the **Samonta** whose fort the well stands under.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-bhumipal|Bhumipal]]
 : the kingdom that holds this land
@@ -87,3 +87,7 @@ The three towns of the road hold most of what is not herding. The rest of the la
 
 [[place-madukupa|Madukupa]]
 : a Samonta's fort over a well that never fails
+
+[[place-ludrapur|Ludrapur]]
+
+[[place-svapnastambha|Svapnastambha]]

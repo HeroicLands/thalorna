@@ -34,7 +34,7 @@ The [[lore-garauu|king-list]] gives every reign of the house with its months.
 
 The age has not ended. Its present is the twelfth year of Meqes XVI (2830 ST, 720 AF), with a nephew near the succession and the peace of the eastern road growing thin.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhpriestthr|The Priests' Thrones]]
 : the age that ended with the child in the night

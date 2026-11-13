@@ -28,7 +28,7 @@ A stranger who arrives in Sóurimel for the night is welcomed and watched. He is
 
 A party that comes up with the village sits where it is put. It hears the song and sees the starlight come up on the bark, birch by birch, until the whole wood stands pale in the dark. On a clouded night the bark stays dark and the village sits all the same. A guest whose hands are not bare is asked once.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sourimael|Sóurimel]]
 : the village that keeps the night

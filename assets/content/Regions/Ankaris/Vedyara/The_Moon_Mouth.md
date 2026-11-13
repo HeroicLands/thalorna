@@ -49,7 +49,7 @@ The town keeps the coast's habit of ignoring station, and keeps it more thorough
 
 What the town does not have is any way for a man to stay. A deck is a place to be, not a place to belong. A runaway who reaches Chendramukhva is safe until the season ends and is safe afterward only if he sails.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-chendrapur|Chendrapur]]
 : the city-state whose port this is

@@ -15,7 +15,7 @@ data:
   government: selatzuger
 ---
 
-## Overview
+## Overview {#overview}
 
 "My grandfather plowed round the stones, and so do I," a farmer of Zu-Ger says, turning his team at the end of a furrow beside a row of old marker stones.
 
@@ -35,7 +35,7 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 - The chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates
 - The old burial-ground of the first dynasties, [[place-firsttablets|the Ground of the First Tablets]]
 
-## Settlements
+## Settlements {#settlements}
 
 Chegu (~39,000)
 : the selat capital and the seat of the Halzi'a.
@@ -43,7 +43,7 @@ Chegu (~39,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatzuger|The Selat of Zu-Ger]]
 : The selat that holds this land

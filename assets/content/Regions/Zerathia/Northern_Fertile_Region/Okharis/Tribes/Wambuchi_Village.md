@@ -17,7 +17,7 @@ data:
   notes: "Grain village of the Wámbuchi tribe amid the fields of the Okharis plains."
 ---
 
-## Overview
+## Overview {#overview}
 
 Wámbuchi Village is the seat of the [[affiliation-wambuchitrb|Wámbuchi tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

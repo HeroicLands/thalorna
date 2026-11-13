@@ -61,7 +61,7 @@ The Republic sent a garrison with its settlers and laid the town out as it laid 
 
 About 80 BF the Republic drew its garrison out. The colony had no orders to leave, and it stayed. The soldiers who chose to remain were absorbed into a town of settlers who had been marrying into Tanevar houses for a generation, and within a few more the colony's Vilérian speech had borrowed so much of the country's that the two could not be told apart at the table. The names stayed Vilérian, and the Provénzian great houses that trace their descent from the colony trace it to the names.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The grid, the aqueduct, the forum and the basilica.** The streets, the water and the courts of [[place-aureliane|Aurelane]] all work as they were built, and the city rests its claim to be the heir of Vilérian civilization in the west on them.
 - **The Vilérian ancestry of the great houses.** The nobility of the coast counts its blood from the colony, and the Tanevar country does not forget whose daughters married whom.
@@ -69,7 +69,7 @@ About 80 BF the Republic drew its garrison out. The colony had no orders to leav
 
 The Empire's [province of the West]{.name data-type="affiliation/polity"} came more than two centuries later, when the legions took the lake country ([[lore-tiravlenbattle|Tiravlen]]) and made Aurelane its capital.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-aureliane|Aurelane]]—the city
 - [[lore-tiravlenbattle|Tiravlen]]—the battle that made it a provincial capital

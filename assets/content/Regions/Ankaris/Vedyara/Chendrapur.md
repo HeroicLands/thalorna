@@ -166,3 +166,5 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 [[skill-vedyarlng|Vedyari]]
 : language and naming
+
+[[affiliation-nshrnchmk|The Pilots' Shrena of Chendramukhva]]

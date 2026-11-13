@@ -23,7 +23,7 @@ At the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_)
 
 The lord's castle town, [[place-hawu|Hawu]], stands on the mountain's shore.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuiwojaidmn|Shuiwojai Domain]]
 : the house and its lord

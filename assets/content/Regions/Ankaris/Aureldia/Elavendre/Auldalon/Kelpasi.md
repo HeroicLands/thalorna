@@ -51,6 +51,6 @@ Sheep, ponies, oats and barley on the valley floor, charcoal off the slopes, and
 weaving through the winter. Kélpasi's cloth is good and reaches Valdun's fairs under other people's
 names.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-auldalon|Áuldalon]] · [[place-valdun|Valdun]] · [[affiliation-thrglnklps|Thárgalon of Kélpasi]] · [[lore-springguest|The Spring Guest]]

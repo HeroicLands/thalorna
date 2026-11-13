@@ -17,13 +17,13 @@ data:
   notes: "A Varokh village in Skathwald that grew up round the standing stone where one of the lost villages kept its totem."
 ---
 
-## Overview
+## Overview {#overview}
 
 **Weskstein** (380 people) is a Varokh village of [[place-skathwald|Skathwald]] under the [[lore-bearttm|bear]], and its Shaman holds the leading seat. It grew up round a standing stone. One of the three villages a Grukar tribe took in the Waking had kept its totem in that stone, and the scattered families of the lost village still visit it.
 
 [[lore-grimakburning|The Burning at Grimak]] tells how the survivors of the three villages scattered.
 
-## See Also
+## See Also {#see-also}
 
 [[place-skathwald|Skathwald]]
 : the reach around the village

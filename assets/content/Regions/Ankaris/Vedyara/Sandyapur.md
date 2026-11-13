@@ -42,7 +42,7 @@ Everything else moves up the road. Dried fish, salt and the coast's own coarse c
 
 A Dunhari factor lives on the same street and is the only man of the sand in the town with a house of his own. He buys for the oases and sells for them, he is dealt with at the palace on terms no Vedyari merchant is offered, and both facts are resented in about equal measure.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-bhumipal|Bhumipal]]—the kingdom whose capital this is
 - [[place-bhumipalland|Bhumipal]]—the land

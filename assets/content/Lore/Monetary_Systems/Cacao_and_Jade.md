@@ -92,7 +92,7 @@ Cacao is heavy for what it buys. A sack of eight thousand beans weighs about 8 k
 | **Market and tribute money** | The southern market towns, [[place-nepaxel\|Ne' P'ashel]] first; the tribute of the coast and the market towns of [[affiliation-ixbaltzaku\|Ish'bal Tsa'ku]], [[affiliation-kuxiixbal\|K'ushi Ish'bal]] and [[affiliation-qapteltzakl\|Q'aptel Tsa'kul]]    |
 | **A rare luxury, not money** | The north beyond the desert, where a cacao bean passed from hand to hand fetches more at [[place-hanalxilan2\|Ha'nal Shi'lan]] than anywhere else in the east; see [[lore-shellbeadcrncy\|Shell-Bead Strands]] and [[lore-nrthcopprcrncy\|Northern Copper]] |
 
-## See Also
+## See Also {#see-also}
 
 [[miscgear-cacaobean|Cacao Bean]]
 : the bean as a piece of money

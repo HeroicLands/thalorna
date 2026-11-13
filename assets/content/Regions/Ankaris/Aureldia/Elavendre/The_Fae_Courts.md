@@ -34,7 +34,7 @@ That said, some Áelendan songs suggest that the Senali and the Fae Courts have 
 
 The Áelendan, for their part, regard Arcane Order curiosity about the Courts with particular wariness. The Courts are not a subject to be studied by outside scholars. They are not a phenomenon to be cataloged. The Áelendan have given no consent for such investigation and they consider unauthorized inquiry into Court matters to be among the more serious violations of the [Kindred Pact]{.name data-type="lore/law"}.
 
-## See Also
+## See Also {#see-also}
 
 [[place-elavendre|Élavendre]]
 : The kingdom in which the Courts are said to dwell

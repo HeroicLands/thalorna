@@ -45,13 +45,13 @@ The moot meets before each season, and its dovaq swear the peace on the well-sto
 
 Thieves work the camp, and the moot's law is severe: a man caught stealing a camel loses his hands. Giant camel spiders feed in the refuse pits at the rim, and a careless trader walking out to relieve himself in the dark has not always come back. The two blood-fields near the road keep every sensible caravan on the track as it approaches and as it leaves.
 
-## Hooks
+## Hooks {#hooks}
 
 - A Bizarian factor and a Tantsou factor each believe the other has bought the entire spring supply of a single dye. Each approaches the party with a request for a quiet look at the other's baggage.
 - A dovaq of the moot is dying, and two of his sons are bidding against each other for the right to speak for his tribe.
 - A well-rider has been found dead in the ring, and the moot must find the killer before the peace breaks and the market empties.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hskrrgn|Ghoshiqor]]
 : the central sands

@@ -118,7 +118,7 @@ The equilibrium holds because no one wants it broken: Viléria cannot project de
 - **The Patron's Price.** Word reaches Bethua that Vilérian envoys have made Au'Khelathu a serious offer to call off its proxy. If Galezkara accepts, the Warrants stop, the prize-money dries up, and Bethua is suddenly alone with the enemy it spent a generation provoking. The court must find out whether the rumor is true and what, if anything, can be done to keep the patron in the game—or whether the time has come to be less of a proxy and more of a power.
 - **The Oar-Slave's Knife.** A warrant-galley returns to port with a story that does not add up: the captain dead, the prize lost, and an oar-deck of men who will not meet a questioner's eye. A rising at sea—the very nightmare the matriarchy is built to prevent—has happened on one ship, and the question of how, and whether it can happen again, and who among the surviving men can be allowed to live to tell of it, lands on the desk of the Naukrátissa and the watchers of the nearest House.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-mtrrchybth|Matriarchy of Bethua]]
 : the realm

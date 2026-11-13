@@ -15,7 +15,7 @@ data:
   government: selatkhelaga
 ---
 
-## Overview
+## Overview {#overview}
 
 Khelaga Selat is the land of [[affiliation-selatkhelaga|the Selat of Khelaga]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the delta apex, the place where the river first divides.
 
@@ -25,7 +25,7 @@ Khelaga Selat is the land of [[affiliation-selatkhelaga|the Selat of Khelaga]], 
 
 Old shrines and customs-stations mark the apex, and boats going down to the sea pass them. Away from the water the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-uqaa|Uqa'a]] and its estates hold much of the land. The forts and customs-stations date from the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]), and the western channel below the apex runs past [[place-chariotfld|the Chariot Field]], a blood-field from the Vilérian conquest of 377 AF.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-khelaga|Khelaga]] (~26,000)
 : the selat capital and the seat of the Halzi'a.
@@ -33,7 +33,7 @@ Old shrines and customs-stations mark the apex, and boats going down to the sea 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatkhelaga|The Selat of Khelaga]]
 : The selat that holds this land

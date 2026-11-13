@@ -98,7 +98,7 @@ Her rival is the [[affiliation-ordoarcanis|Thordimalon]]. Its attempts to regula
 
 A party meets the Mother at the stone. A company hiring in Tsaberis, a sale at Thórgila's horse fair or any bargain a Tarvenan means to keep is sworn there, and a stranger who swears there is held to his word before the same witnesses. At Tsaberis this spring a captain has read out terms better than any company has been offered in years, and the older men will not put their hands on the stone. A party's sick or wounded go to the village wise-woman, who will ask questions they can answer _yes_ or _no_. A party that needs to ask the Mother something goes to the cave with an offering and keeps the four rules, and anyone who takes the cheese from a cave mouth has taken it from her.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-motheryesno|The Mother's Yes and No]]
 : the wise-women's winter tale of the Mother, the first stone and the day she gets up

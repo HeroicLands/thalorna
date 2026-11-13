@@ -64,7 +64,7 @@ The family of [Barren-Ground People]{.name data-type="lore/culture"} that came s
 
 Osipisa has refused. The fat is for one of the people whose heart is turning, she says, and giving it to the strangers is saying that they are _mohkisk_ without a hearing, which is the thing the rule forbids. Yahkinisa answers that the fat never harmed anyone, and that a lake that will not look is a lake that is afraid of what it might see. The strangers have been asked nothing, and they understand little of what is said about them.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-kawiskakclt|Kawiskak]]
 : the culture of the Spruce People, their bands, their lakes and their dead
