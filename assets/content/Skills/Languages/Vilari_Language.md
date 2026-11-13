@@ -8734,7 +8734,6 @@ data:
       - {edge: openCluster, sounds: [st, pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr]}
       - {edge: closeConsonant, sounds: [s, n, r, l]}
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
     syllables: {vowelPairs: [ai, au, oi, aa, ii, uu]}
   cognates:
     - forms: {skill-vylarilng: ulthathen, skill-tarvenlng: ulthad}

@@ -5931,7 +5931,6 @@ data:
   sounds:
     edges: [{edge: openCluster, sounds: [sk, sp, st]}, {edge: closeConsonant, sounds: [n]}]
     clusters: {max: 2}
-    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     cultures: [tenlayaclt]
     parents: [tenlayargn]

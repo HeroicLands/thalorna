@@ -7208,7 +7208,6 @@ data:
       - {edge: openCluster, sounds: [pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr]}
       - {edge: closeConsonant, sounds: [l, n, r, s, th]}
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
     syllables: {vowelPairs: [ai, ei, oi, au, ou]}
   tongues:
     - {tag: provenzal, meaning: a Provenzal name}

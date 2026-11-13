@@ -5880,10 +5880,7 @@ data:
       - "Avonithei"
       - "Kuathivel"
       - "Tavunithei"
-  sounds:
-    edges: [{edge: closeConsonant, sounds: [n, l, r, th]}]
-    clusters: {max: 2}
-    stress: {two: first, longer: penultimate, mark: acute}
+  sounds: {edges: [{edge: closeConsonant, sounds: [n, l, r, th]}], clusters: {max: 2}}
   scope:
     folders: [kalihara, heroesandknaveskalihara]
     cultures: [kaliharanclt]
