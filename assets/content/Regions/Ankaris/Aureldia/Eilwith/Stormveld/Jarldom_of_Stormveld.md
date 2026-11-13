@@ -66,7 +66,7 @@ data:
       Host-Caller: Bearer of the war-arrow that summons the jarldoms to a common muster.
   seat: stormveil
   population: 150000
-  territorial_population: 11000
+  territorial_population: 10000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []

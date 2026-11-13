@@ -60,7 +60,7 @@ data:
       Ganoka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   seat: sandyapur
   population: 2000000
-  territorial_population: 17000
+  territorial_population: 16000
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]
   parents: []
