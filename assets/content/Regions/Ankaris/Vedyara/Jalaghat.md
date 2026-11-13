@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 610
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Landing on the Bharava where the upland tracks meet the river road, and where the janpoda's imports come ashore."

@@ -14,6 +14,7 @@ data:
     - {to: durmelen, bearing: NE, mode: land, days: 10, terrain: [road, coast]}
     - {to: kalipsarun, bearing: W, mode: ship, days: 1, terrain: [coast, open-sea, coast]}
   population: 5600
+  type: town
   government: sarmelisconcl
   packFolder: elavendre
   notes: "The harbor town of Lísere Bay, where the north's salt-fish and ship timber go out, the Kalipsan trade comes in under no flag, and a guarded boom shuts the harbor on the first fire of a raid."

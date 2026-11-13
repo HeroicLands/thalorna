@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 70000
+  type: city
   government: nesthiros
   notes: "The League's great seaport on a fortress isle in the straits, where a dozen languages are spoken on the docks and the admiralty keeps the fleet."
 ---

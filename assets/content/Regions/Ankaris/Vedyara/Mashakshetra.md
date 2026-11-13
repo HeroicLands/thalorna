@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 490
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "Pulse village of the higher ground, which carries the janpoda through a failed rice year."

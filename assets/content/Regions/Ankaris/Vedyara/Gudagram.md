@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 890
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "The sugar village of the Mahanodi floodplain, where the cane is cut and the pale grade is boiled."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ellive]
   population: 1700
+  type: town
   government: kngdmlvndr
   packFolder: elavendre
   notes: "A chartered town on the upper rim of the Berav basin, where the last royal road ends at a gate and the Wardens' ground begins, and where companies of hired guards are outfitted for the forest."

@@ -10,6 +10,7 @@ data:
   lore: [badgerttm]
   parents: [edriwald]
   population: 230
+  type: village
   borders: [{to: eichholt, bearing: W}]
   routes:
     - {to: eichholt, bearing: W, mode: land, days: 3, terrain: [track, forest]}

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [leonrik]
   population: 300
+  type: village
   government: kingdmlnrk
   packFolder: tarvenia
   notes: "Lord Zurgade's manor on the Lyenrik plain a short ride north of Valthari, a fortified house, a village and a thorn-grown hill of hunting covert, whose hunts are kept by the huntswoman Zórila Dómivar and whose fortunes rise and fall with Tarvénian politics."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [chendrapurland]
   population: 90000
+  type: city
   market: 6
   routes: [{to: chandrmukha, bearing: S, mode: boat, days: 1, terrain: [river]}]
   packFolder: vedyara

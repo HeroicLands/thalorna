@@ -10,6 +10,7 @@ data:
   lore: [lynxttm]
   parents: [skathwald]
   population: 320
+  type: village
   borders: [{to: skathburg, bearing: NW}, {to: hildholt, bearing: S}]
   routes:
     - {to: skathburg, bearing: NW, mode: land, days: 2, terrain: [track, forest]}

@@ -15,6 +15,7 @@ data:
     - {to: liranel, bearing: N, mode: land, days: 5, terrain: [forest, road]}
     - {to: portaelion, bearing: N, mode: ship, days: 2, terrain: [coast]}
   population: 25000
+  type: city
   government: kngdmprvnz
   packFolder: provenzia
   notes: "Provénzia's ocean port on the northwestern gulf—an Élavendren city under Provénzian rule, trading north rather than south, and the site of a slow and unresolved quarrel over land, rights and tradition."

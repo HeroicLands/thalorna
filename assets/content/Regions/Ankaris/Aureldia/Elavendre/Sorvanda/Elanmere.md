@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [sorvanda]
   population: 2100
+  type: town
   government: kngdmlvndr
   packFolder: elavendre
   notes: "The lake town at the foot of the Sórvanda mountains—the market where the high country comes down to trade, and the last comfortable place before the passes."

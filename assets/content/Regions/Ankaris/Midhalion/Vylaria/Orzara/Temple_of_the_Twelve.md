@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [orzara]
   population: 400
+  type: village
   government: vylarinmpr
   notes: "Sarkena Dorekis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Vanor of Orzara that honors the whole Aureldian Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Thordimalon."
 ---

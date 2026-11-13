@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 720
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "The bridge village on the pilgrim road below the gold mountain, and one of the twenty-three houses of the Bharava-Devastena."

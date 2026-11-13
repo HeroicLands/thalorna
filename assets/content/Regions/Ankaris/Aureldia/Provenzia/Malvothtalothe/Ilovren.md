@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ceravelvale]
   population: 300
+  type: village
   government: kngdmprvnz
   packFolder: provenzia
   notes: "A lordship of Keravel Vale and the fortified seat of Kilan Ilovrel, a calculating lord who offers the Marshal his help against the vale's bandits and has an eye on his neighbors' land."

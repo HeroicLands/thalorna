@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vedyarargn]
   population: 4200
+  type: town
   government: mddlsrvdjnpd
   packFolder: vedyara
   notes: "The largest of the copying towns of the middle Sarveda, whose Scribes' Shrena sets the rate for a finished page across the subcontinent."

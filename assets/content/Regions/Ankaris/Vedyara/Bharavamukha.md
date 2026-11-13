@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vedyarargn, bharavarivr]
   population: 1100
+  type: town
   market: 3
   packFolder: vedyara
   government: janpdsvdyr

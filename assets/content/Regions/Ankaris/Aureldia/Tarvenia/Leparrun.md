@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [eskarath]
   population: 300
+  type: village
   packFolder: tarvenia
   government: frtrtryskrth
   notes: "A small highland village of Eskarath below a mountain pass, named for the stone that marks the pass and the shrine to the pass's spirit beside it, whose guides take travelers over at a price."

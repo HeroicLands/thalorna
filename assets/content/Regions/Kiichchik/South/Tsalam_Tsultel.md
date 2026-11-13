@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ixbaltzakurgn]
   population: 15000
+  type: city
   government: ixbaltzaku
   packFolder: ixbaltzaku
   notes: "The fortress of the high pass of Ish'bal Tsa'ku, cut into living rock above the clouds, where every load that crosses the mountains is declared, counted and tolled, and the valleys serve their turn on the walls."

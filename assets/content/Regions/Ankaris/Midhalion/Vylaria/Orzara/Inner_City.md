@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [orzara]
   population: 12000
+  type: city
   government: vylarinmpr
   notes: "Arvon, the Eagle City—the walled citadel atop Arvel at the heart of Orzara, the sacred and administrative core of the Vilérian Empire, holding the Temple District, the Palace District, the Senate, the imperial guard, the Imperial Offices, the inner Epistémion, and the Grand Palace."
 ---

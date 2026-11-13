@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [tsuijai]
   population: 2600
+  type: town
   government: tsuijaidmn
   packFolder: jenchai
   culture: jenchaiclt

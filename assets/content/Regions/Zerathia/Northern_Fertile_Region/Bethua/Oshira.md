@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [bethuargn]
   population: 7000
+  type: town
   government: mtrrchybth
   packFolder: bethua
   notes: "Town"

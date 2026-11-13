@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [helionis]
   population: 40000
+  type: city
   government: korinthea
   notes: "A Helionite city of law and honor, where the Temple of Árdavon works as the city's court beside a council of patron families."
 ---

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [amradadrgn]
   population: 15000
+  type: city
   packFolder: amradad
   government: kngdmmrdd
   notes: "The oasis city of the Shebarader's court and seat of the Kingdom of Amradad—gardens, libraries, fire-temples and the astrologers of the great houses."

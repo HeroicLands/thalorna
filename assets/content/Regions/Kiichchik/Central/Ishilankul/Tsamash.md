@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [ixilankulrgn]
   population: 70000
+  type: city
   government: ixilankul
   packFolder: ixilankul
   notes: "The Stone Heart: the merchant city of Ish'ilankul, built around a great rock in its market plaza, whose trading houses own the cacao groves of the southern highlands and choose its Sun Lord."

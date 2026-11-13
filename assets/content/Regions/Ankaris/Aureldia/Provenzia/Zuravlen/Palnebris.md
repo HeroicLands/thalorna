@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [zuravlenrgn]
   population: 310
+  type: village
   government: brnyzrvln
   packFolder: provenzia
   notes: "The great orchard manor of Zuravlen's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."

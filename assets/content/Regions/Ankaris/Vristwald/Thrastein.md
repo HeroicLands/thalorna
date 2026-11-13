@@ -10,6 +10,7 @@ data:
   lore: [stagttm]
   parents: [vandstein]
   population: 290
+  type: village
   borders: [{to: vandgrund, bearing: W}, {to: erthhaven, bearing: E}]
   routes:
     - {to: vandgrund, bearing: W, mode: land, days: 3, terrain: [track, forest]}

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 410
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "Village a mile below the town, built of brick robbed from the ruins of the old kingdom."

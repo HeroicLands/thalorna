@@ -13,6 +13,7 @@ data:
     - {to: leonrik, bearing: SE, mode: land, days: 10, terrain: [hills, road]}
     - {to: trbtrd, bearing: SE, mode: land, days: 5, terrain: [hills, road]}
   population: 5200
+  type: town
   government: kngdmlvndr
   packFolder: elavendre
   notes: "The walled town that anchors Élavendre's eastern march—muster point of the hill levy, market of the drove roads, and the place the raiding has to get past."

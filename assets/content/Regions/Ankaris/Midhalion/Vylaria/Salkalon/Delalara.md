@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [salkhalon]
   population: 50000
+  type: city
   routes: [{to: orzara, bearing: N, mode: land, days: 5, terrain: [road]}]
   packFolder: vylaria
   government: provincvld

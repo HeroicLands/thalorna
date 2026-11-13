@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 390
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Cattle village on the upper Bharava, which keeps the draft oxen the terraces and the smelters both depend on."

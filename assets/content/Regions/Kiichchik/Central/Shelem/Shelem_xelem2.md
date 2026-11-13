@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [xelemrgn]
   population: 60000
+  type: city
   government: xelem
   notes: "The seat of the river realm, the Land of Birds: a long ridge city where two great rivers meet, ruled by one of Shelem's few Sun Lords, whose macaw yards and feather market supply the north."
 

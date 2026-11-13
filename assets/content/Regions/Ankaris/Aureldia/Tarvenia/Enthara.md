@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [leonrik]
   population: 4000
+  type: town
   packFolder: tarvenia
   government: kingdmlnrk
   notes: "Lyenrik's wine town, terraced into the south face of the eastern hills above the Thalsira, whose vintage is bought on the vine by Valthari's merchant houses."

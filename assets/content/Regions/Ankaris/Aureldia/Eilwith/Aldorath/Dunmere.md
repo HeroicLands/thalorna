@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [aldorvale]
   population: 20000
+  type: city
   packFolder: eilwith
   government: kngdmldrth
   notes: "The seat of the Kingdom of Aldorath and the only true city in it—a walled market and castle town where the whole business of a feudal realm is transacted."

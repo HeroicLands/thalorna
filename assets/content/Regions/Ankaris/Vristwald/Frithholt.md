@@ -10,6 +10,7 @@ data:
   lore: [dovettm]
   parents: [skathwald]
   population: 290
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
   notes: "A Varokh village in Skathwald, nearest the old lost ground, that shelters displaced kin without claiming them."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alyssa]
   population: 20000
+  type: city
   packFolder: vylaria
   government: provinclys
   notes: "A secondary city of Alessa, white-columned and visibly mended, which keeps the old patrician forms, a famous fire-school of the Thordimalon, the largest temple of the Black Flame in the province and, a day's ride away, the fenced ground where the Therona ended."

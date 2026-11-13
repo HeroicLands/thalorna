@@ -10,6 +10,7 @@ data:
   lore: [otterttm]
   parents: [edriwald]
   population: 310
+  type: village
   borders: [{to: eichholt, bearing: E}]
   routes:
     - {to: arnstein, bearing: W, mode: land, days: 5, terrain: [track, forest]}

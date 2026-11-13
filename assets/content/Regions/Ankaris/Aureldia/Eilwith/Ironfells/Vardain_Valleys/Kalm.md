@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 900
+  type: village
   government: vrgldhld
   packFolder: eilwith
   notes: "The grain village of the lower valleys—the flattest, warmest ground the Vardain have, and the one that swelled most when the refugees came up."

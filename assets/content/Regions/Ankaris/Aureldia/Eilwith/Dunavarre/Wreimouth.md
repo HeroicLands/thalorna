@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunavarre]
   population: 2500
+  type: town
   packFolder: eilwith
   government: kingdmdnvr
   notes: "Dúnavarre's chief harbor and second city—the working port on the south-eastern coast through which the kingdom's trade with Élavendre and the mainland passes."

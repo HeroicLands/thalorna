@@ -11,6 +11,7 @@ data:
   lore: [tenlayaclt]
   parents: [hesunshewanrgn]
   population: 900
+  type: village
   government: tenlaya
   packFolder: tenlaya
   notes: "Flint Hill: the upstream village of the Village River, whose lodge owners own the flint pits in the bluffs above it, and whose men catch eagles by hand from pits on the ridges."

@@ -15,6 +15,7 @@ data:
     - {to: lizela, bearing: E, mode: ship, days: 1, terrain: [coast]}
     - {to: harivrencity, bearing: N, mode: land, days: 5, terrain: [hills, road]}
   population: 45000
+  type: city
   government: kngdmprvnz
   packFolder: provenzia
   notes: "The great southern port of Provénzia on the warm Vilérian shore—the kingdom as foreigners picture it, rich and polished and wholly dependent on the sea, which is why a blockade is the only weapon that has ever frightened it."

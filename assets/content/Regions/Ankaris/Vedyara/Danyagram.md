@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 930
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Millet village on the dry western terraces, and the largest single contributor to the janpoda's famine store."

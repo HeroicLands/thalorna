@@ -10,6 +10,7 @@ data:
   lore: [foxttm]
   parents: [thornwald]
   population: 360
+  type: village
   borders: [{to: thornhaven, bearing: E}]
   routes:
     - {to: thalgrund, bearing: W, mode: land, days: 5, terrain: [track, forest]}

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 470
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Cattle village on the upland grazing north of the valley."

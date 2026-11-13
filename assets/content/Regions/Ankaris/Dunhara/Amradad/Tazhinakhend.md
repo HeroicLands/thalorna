@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [amradadrgn]
   population: 6000
+  type: town
   government: kngdmmrdd
   packFolder: amradad
   notes: "Town"

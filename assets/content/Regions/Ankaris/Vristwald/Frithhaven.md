@@ -10,6 +10,7 @@ data:
   lore: [goosettm]
   parents: [thornwald]
   population: 420
+  type: village
   borders: [{to: thornhaven, bearing: NW}, {to: vethholt, bearing: E}]
   routes:
     - {to: thornhaven, bearing: NW, mode: land, days: 3, terrain: [track, forest]}

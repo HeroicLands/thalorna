@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [graznmntns, estrnreach]
   population: 290
+  type: village
   market: 2
   packFolder: vedyara
   government: hvarnguides

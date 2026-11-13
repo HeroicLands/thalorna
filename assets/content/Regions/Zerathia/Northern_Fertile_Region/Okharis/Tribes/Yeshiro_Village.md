@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 180
+  type: village
   packFolder: okharis
   government: yeshirotrb
   notes: "Tanning village of the Yéshiro tribe at the edge of the Okharis forest."

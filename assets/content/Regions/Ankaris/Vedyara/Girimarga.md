@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 760
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Village astride the mountain road, which keeps the road and is paid out of the common share for it."

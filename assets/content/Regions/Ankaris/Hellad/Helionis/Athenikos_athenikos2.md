@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [helionis]
   population: 55000
+  type: city
   government: athenikos
   notes: "A Helionite city in which each year is named for its Arsir and the assembly of citizens stays sovereign over the wealthy families who hold it."
 ---

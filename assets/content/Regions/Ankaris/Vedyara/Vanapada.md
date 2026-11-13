@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 440
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Charcoal village at the forest edge, and the jewelers' supplier in the long quarrel over the cutting-rotation."

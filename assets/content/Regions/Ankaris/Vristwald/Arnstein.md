@@ -10,6 +10,7 @@ data:
   lore: [eaglettm]
   parents: [falkhaven]
   population: 340
+  type: village
   borders: [{to: falkensten, bearing: W}]
   routes:
     - {to: falkensten, bearing: W, mode: land, days: 3, terrain: [track, forest]}

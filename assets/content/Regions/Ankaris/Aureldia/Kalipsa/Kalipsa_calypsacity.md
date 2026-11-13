@@ -11,6 +11,7 @@ data:
   parents: [calypsaisle]
   routes: [{to: kalipsarun, bearing: E, mode: ship, days: 1, terrain: [coast, open-sea, coast]}]
   population: 28000
+  type: city
   government: calypsa
   packFolder: calypsa
   notes: "A free port on the east coast of a steep island off Élavendre, governed by a council of shipping houses, kept free by a navy far larger than the city, and in the last year of its Harbormaster's term."

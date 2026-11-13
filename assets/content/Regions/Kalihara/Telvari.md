@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [kaliharargn]
   population: 1200
+  type: town
   packFolder: kalihara
   government: kalihara
   notes: "A town of twelve hundred on an islet off Kalihara's eastern approaches—the pilots' island, where a foreign ship waits for the Kaliharan who will take her in."

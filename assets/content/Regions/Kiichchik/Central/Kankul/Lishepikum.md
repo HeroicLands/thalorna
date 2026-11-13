@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [kankulrgn]
   population: 40000
+  type: city
   government: kankul
   packFolder: kankul
   notes: "The Thrice-Built: the K'ankul city whose temple groups stand on an artificial platform raised three times, each over the last, to give its reckoners a clean horizon on every side."

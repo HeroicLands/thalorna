@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ellive]
   population: 55000
+  type: city
   packFolder: elavendre
   government: kngdmlvndr
   notes: "The capital of Élavendre—a river metropolis fifteen miles up the Berav from the sea, seat of the crown, and home of the largest Epistémion campus outside the Vilérian Empire."

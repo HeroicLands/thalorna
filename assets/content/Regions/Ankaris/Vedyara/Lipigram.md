@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 720
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "The copying village of Rajepur, whose four scriptoria work on an endowment six hundred years old."

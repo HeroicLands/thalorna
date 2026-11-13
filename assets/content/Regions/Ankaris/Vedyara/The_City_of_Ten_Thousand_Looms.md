@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vyalendraland]
   population: 80000
+  type: city
   packFolder: vedyara
   government: vyalendra2
   notes: "The City of Ten Thousand Looms and the capital of the Vyalendra city-state—a shrena republic in the street-plan of a kingdom, where the Loom-Council sits in the last Maharava's audience hall."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [nordheim]
   population: 500
+  type: village
   packFolder: nordheim
   government: kngdmnrdhm
   notes: "Religious/Strategic Settlement"

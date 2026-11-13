@@ -10,6 +10,7 @@ data:
   lore: [foxttm]
   parents: [thornwald]
   population: 300
+  type: village
   borders: [{to: thornryth, bearing: W}, {to: frithhaven, bearing: SE}]
   routes:
     - {to: thornryth, bearing: W, mode: land, days: 2, terrain: [track, forest]}

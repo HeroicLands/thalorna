@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [salkhalon]
   population: 6000
+  type: town
   packFolder: vylaria
   government: provincvld
   notes: "A salt town of the Salkalon coast beside broad salt-pans, one of the province's four great fishing towns, which salts the catch of half the lesser villages and whose handful of pan-owning families are richer and more powerful than the town's size suggests."

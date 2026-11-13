@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 600
+  type: village
   government: trbtvrzvd
   packFolder: dunharadesert
   notes: "A small oasis whose spring has never failed, the summer seat of the chieftain Torvash Shiradar's tribe."

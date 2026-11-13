@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 620
+  type: village
   government: vrgldhld
   packFolder: eilwith
   notes: "The quarry village, whose masons cut the terrace walls that make the high valleys farmable and whose work is mistaken for Khazari by every visitor."

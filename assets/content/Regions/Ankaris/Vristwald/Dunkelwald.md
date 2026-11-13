@@ -10,6 +10,7 @@ data:
   lore: [bearttm]
   parents: [vethwald]
   population: 400
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
   notes: "Deep Forest Settlement"

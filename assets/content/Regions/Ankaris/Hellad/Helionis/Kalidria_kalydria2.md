@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [helionis]
   population: 45000
+  type: city
   government: kalydria
   notes: "The artists' city of Helionis, where patron families compete to fund the finest theater and the Academy of the Silver Veil trains the hetairin."
 ---

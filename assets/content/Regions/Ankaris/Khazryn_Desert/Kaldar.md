@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [swoasisbelt]
   population: 12000
+  type: city
   government: tribestrzd
   packFolder: khazryndesert
   notes: "A university city of Tellumel, founded after the seven Tellumi cities and not counted among them, held by the Atarzád and known for the alchemical faculty of the University of Kaldar."

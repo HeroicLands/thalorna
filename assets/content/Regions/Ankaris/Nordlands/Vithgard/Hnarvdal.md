@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vithgard]
   population: 250
+  type: village
   packFolder: vithgard
   government: kngdmvthgrd
   notes: "Valley Settlement"

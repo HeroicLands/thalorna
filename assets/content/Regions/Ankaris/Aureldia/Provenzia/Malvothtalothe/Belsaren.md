@@ -13,6 +13,7 @@ data:
     - {to: caerceravel, bearing: W, mode: land, days: 1, terrain: [hills, road]}
     - {to: bloodhills, bearing: E, mode: land, days: 1, terrain: [hills, road]}
   population: 220
+  type: village
   government: kngdmprvnz
   packFolder: provenzia
   notes: "A lordship of Keravel Vale rich in timber and minerals, bearing the brunt of the vale's bandit raids under a harsh new lord the Tanevar peasantry resent."

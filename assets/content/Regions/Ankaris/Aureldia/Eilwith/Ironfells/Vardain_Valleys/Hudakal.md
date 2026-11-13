@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 780
+  type: village
   government: vrgldhld
   packFolder: eilwith
   notes: "The oldest of the Vardain villages and the nearest to the Gate—where the tallies are kept and the Khazari schedule is reckoned."

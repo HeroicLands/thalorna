@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 330
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Small woodland village at the head of the valley, which cuts the timber of the academy halls and the fort."

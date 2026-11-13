@@ -10,6 +10,7 @@ data:
   lore: [varokhiclt]
   parents: [moktur]
   population: 1200
+  type: town
   government: provncmktr
   packFolder: vylaria
   notes: "A Mokturan border town at the edge of Vristwald that keeps a Varokh name, where Varokh and Vilérian trade meet under a garrison's eye."

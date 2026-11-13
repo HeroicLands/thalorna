@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [nordheim]
   population: 1500
+  type: town
   packFolder: nordheim
   government: kngdmnrdhm
   notes: "Fortified Town"

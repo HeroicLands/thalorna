@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 30000
+  type: city
   government: cncltwlvbzrs
   packFolder: byzaria
   notes: "Craft City"

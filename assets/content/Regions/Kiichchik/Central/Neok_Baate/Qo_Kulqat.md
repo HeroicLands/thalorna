@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [neokbaatergn]
   population: 35000
+  type: city
   government: neokbaate
   packFolder: neokbaate
   notes: "The Twin Pyramid: the independent city of Ne'ok Ba'ate whose two pyramids stand side by side, one a hand's width higher, whose carvers cut the finest stones on the continent, and whose jade comes out of the mountains behind it."

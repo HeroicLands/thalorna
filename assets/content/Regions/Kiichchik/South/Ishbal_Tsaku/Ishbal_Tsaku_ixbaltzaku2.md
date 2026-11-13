@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ixbaltzakurgn]
   population: 60000
+  type: city
   government: ixbaltzaku
   packFolder: ixbaltzaku
   notes: "Seat of a mountain-and-river realm of fortress-cities, gold-working and absolute priestly control of trade."

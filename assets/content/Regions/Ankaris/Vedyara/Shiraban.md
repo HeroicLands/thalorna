@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 760
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "The reed village in the marsh of the dead channel, which shafts and fletches the janpoda's arrows."

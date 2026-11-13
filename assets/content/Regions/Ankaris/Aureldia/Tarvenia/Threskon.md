@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: 2500
+  type: town
   government: frctyvlthr
   packFolder: tarvenia
   notes: "The salt town of the Free City of Valthari, a harbor of about 2,500 in a lagoon behind the dunes of Tarvénia's sandy southern coast, whose pans salt the herring and cod of Galvaren."

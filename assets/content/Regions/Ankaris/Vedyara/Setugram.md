@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 610
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "Village at the causeway that carries the Rajepur road over the flood channel."

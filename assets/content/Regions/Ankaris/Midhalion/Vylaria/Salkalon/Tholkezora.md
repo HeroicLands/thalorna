@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [salkhalon]
   population: 7000
+  type: town
   packFolder: vylaria
   government: provincvld
   notes: "A fishing town on a rocky headland over deep water, the last of Salkalon's four great fishing towns, whose crews fish the far grounds, hunt the great sea-beasts for their oil, and run cargoes past the imperial customs when the customs press too hard."

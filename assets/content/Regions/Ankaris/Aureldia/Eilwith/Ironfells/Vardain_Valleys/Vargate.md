@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 1500
+  type: town
   government: vrgldhld
   packFolder: eilwith
   notes: "The Vardain town at the foot of the road to Vorgald—the single point at which Khazari work passes into human hands, and the closest any outsider will get to the Deep Folk."

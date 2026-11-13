@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [kostarosdst]
   population: 4000
+  type: town
   packFolder: helionis
   government: kostaros2
   notes: "Coastal Town"

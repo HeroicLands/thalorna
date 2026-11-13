@@ -10,6 +10,7 @@ data:
   lore: [flksenali]
   parents: [silvrfrsts]
   population: 120
+  type: village
   government: nclvlrss
   packFolder: elavendre
   culture: senaliclt

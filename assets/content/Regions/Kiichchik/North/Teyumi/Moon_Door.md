@@ -11,6 +11,7 @@ data:
   lore: [teyumiclt]
   parents: [wahaulahuvorgn]
   population: 300
+  type: village
   government: teyumi
   packFolder: teyumi
   notes: "The Moon Door: a small great house on a high ridge of the Cave Mesas, between two stone pillars through which the moon rises at the Far Rising, with a signal fire that can be seen from the Canyon of Houses."

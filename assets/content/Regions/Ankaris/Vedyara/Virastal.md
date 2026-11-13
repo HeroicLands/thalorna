@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 680
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Sentija lineage village on the hill above the ford, which sends more men to the muster than any other."

@@ -10,6 +10,7 @@ data:
   lore: [owlttm]
   parents: [vandstein]
   population: 280
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
   notes: "A Varokh village in Vandstein whose sacred shelter bent the line of the Legions' Road."

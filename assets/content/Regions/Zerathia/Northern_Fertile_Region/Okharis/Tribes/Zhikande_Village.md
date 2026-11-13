@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 450
+  type: village
   packFolder: okharis
   government: zhikandetrb
   notes: "Weaving village of the Zhíkande tribe among the flax fields of a river of Okharis."

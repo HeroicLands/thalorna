@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [zenjai]
   population: 2800
+  type: town
   government: zenjaidmn
   packFolder: jenchai
   culture: jenchaiclt

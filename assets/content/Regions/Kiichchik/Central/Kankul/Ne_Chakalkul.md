@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [kankulrgn]
   population: 60000
+  type: city
   government: kankul
   packFolder: kankul
   notes: "The Great Water Seat: the K'ankul city whose pyramids stand at the edge of a field of sacred pools, and whose court reckoners have the most exact count of the bright star K'inish'ilan on the continent."

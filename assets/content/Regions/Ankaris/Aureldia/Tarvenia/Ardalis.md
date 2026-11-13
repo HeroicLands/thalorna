@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [asturath]
   population: 5000
+  type: town
   government: kngdmstrth
   packFolder: tarvenia
   notes: "The iron town of Asturath, a day's climb below Lezkora on the plateau road, whose forges make the crossbows and blades the mountain companies carry abroad."

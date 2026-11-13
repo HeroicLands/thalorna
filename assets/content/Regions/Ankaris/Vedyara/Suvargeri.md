@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 2400
+  type: town
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "The temple-seat of the Suvargeri Janpoda, in three parts on the streams of the gold mountain, holding the weighing-station and the jewelers' quarter."

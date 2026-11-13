@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [wejai]
   population: 2200
+  type: town
   government: wejaidmn
   packFolder: jenchai
   culture: jenchaiclt

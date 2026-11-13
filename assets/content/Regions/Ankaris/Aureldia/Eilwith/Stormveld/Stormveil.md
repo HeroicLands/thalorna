@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [stormplain]
   population: 6000
+  type: town
   packFolder: eilwith
   government: jrldmstrmvld
   notes: "The High Jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."

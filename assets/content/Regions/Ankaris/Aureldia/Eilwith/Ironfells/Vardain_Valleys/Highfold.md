@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 540
+  type: village
   government: vrgldhld
   packFolder: eilwith
   notes: "The summer pasture village above the tree line, and the source of the cheese that goes up to the Gate."

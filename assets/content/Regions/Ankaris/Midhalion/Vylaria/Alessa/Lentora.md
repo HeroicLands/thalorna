@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alyssa]
   population: 32000
+  type: city
   packFolder: vylaria
   government: provinclys
   notes: "The second city of Alessa, an old inland city of baths, guildhalls and magistrates' benches where the lesser senatorial houses and the propertied families do the province's ordinary business, and where a seat on the council can ruin the man who holds it."

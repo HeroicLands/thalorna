@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [zuravlenrgn]
   population: 240
+  type: village
   government: brnyzrvln
   packFolder: provenzia
   notes: "A mixed manor of the Zuravlen valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."

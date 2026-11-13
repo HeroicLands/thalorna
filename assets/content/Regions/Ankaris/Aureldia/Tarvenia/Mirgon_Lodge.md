@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [toravarrange]
   population: 240
+  type: village
   government: aelndntrbs
   routes: [{to: kemthoza, bearing: S, mode: land, days: 1, terrain: [mountains, forest]}]
   culture: aelendanclt

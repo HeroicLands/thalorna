@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 780
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "The downstream village of Rajepur, whose Rasikara cremation-ground receives the dead of every constituent village."

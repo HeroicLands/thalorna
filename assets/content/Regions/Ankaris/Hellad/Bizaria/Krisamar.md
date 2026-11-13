@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 25000
+  type: city
   government: mrchntcnsrtchr
   packFolder: byzaria
   notes: "Port City"

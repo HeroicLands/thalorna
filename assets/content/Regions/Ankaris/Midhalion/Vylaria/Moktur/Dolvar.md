@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [moktur]
   population: 6000
+  type: town
   routes: [{to: tyrellan, bearing: S, mode: land, days: 3, terrain: [mountains, road]}]
   packFolder: vylaria
   government: provncmktr

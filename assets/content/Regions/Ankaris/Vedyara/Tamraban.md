@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 910
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "The smelting village below the panning ground, whose furnaces make the best iron in inland Vedyara."

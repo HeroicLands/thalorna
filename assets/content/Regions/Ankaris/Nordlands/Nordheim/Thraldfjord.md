@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [nordheim]
   population: 200
+  type: village
   packFolder: nordheim
   government: kngdmnrdhm
   notes: "Fishing Village"

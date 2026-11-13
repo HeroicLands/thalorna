@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [hylen]
   population: 5000
+  type: town
   packFolder: vylaria
   government: provnchyln
   notes: "A town of presses and oil-merchants in Hilen's olive country, among groves of very old trees, whose press-owning families guard their groves and pressing-rights jealously and whose sealed amphorae of oil travel across the Vilérian Sea."

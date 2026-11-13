@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ellive]
   population: 380
+  type: village
   government: kngdmlvndr
   packFolder: elavendre
   notes: "A chartered pilgrims' village at the birch edge of the Tribal Lands, whose charter binds it to lodge any pilgrim for three nights and to refuse every hired company, and where a young scholar has come to ask leave."

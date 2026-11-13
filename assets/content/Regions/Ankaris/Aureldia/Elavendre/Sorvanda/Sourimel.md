@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [silvrfrsts]
   population: 600
+  type: village
   government: kngdmlvndr
   packFolder: elavendre
   notes: "A woodland settlement within the Silver Forests—one of the few permanent Élavendri holdings inside Áelendan country, existing on sufferance and on an agreement nobody will produce in writing."

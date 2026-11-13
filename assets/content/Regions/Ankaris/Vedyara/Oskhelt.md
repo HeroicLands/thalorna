@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [graznmntns, sthrnwall]
   population: 640
+  type: village
   market: 3
   packFolder: vedyara
   government: osketguides

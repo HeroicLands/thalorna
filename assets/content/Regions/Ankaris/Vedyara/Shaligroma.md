@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 910
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "The largest of the rice villages, on the flood-plain the Sarveda silts and does not cut."

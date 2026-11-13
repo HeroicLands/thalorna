@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 830
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "The largest of the rice villages, set back a mile from the water as the farming villages of the Mahanodi are."

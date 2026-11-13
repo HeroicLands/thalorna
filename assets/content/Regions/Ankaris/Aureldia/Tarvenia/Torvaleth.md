@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [leonrik]
   population: 36000
+  type: city
   packFolder: tarvenia
   government: kingdmlnrk
   notes: "The red-brick capital of the Kingdom of Lyenrik, a market town at the ford of the Thalsira that holds the king's hall, the Court of Pleas, the cattle market of the lowlands and the greatest harvest fair in Tarvénia."

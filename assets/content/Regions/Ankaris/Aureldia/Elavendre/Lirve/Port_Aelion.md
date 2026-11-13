@@ -11,6 +11,7 @@ data:
   parents: [lirve]
   routes: [{to: batarencity, bearing: S, mode: ship, days: 2, terrain: [coast]}]
   population: 9000
+  type: town
   government: twncnclprtaln
   packFolder: elavendre
   notes: "The kingdom's chief harbor, where the Lirve cliffs yield to sheltered water, the Admiral keeps his flag, the Envoys' College sends out its bards, and the tides keep their own hours."

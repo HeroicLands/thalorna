@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ondareth]
   population: 3500
+  type: town
   packFolder: eilwith
   government: repblcndrth
   notes: "The Republic of Ondareth's frontier town at the northern end of its coast, where the legion keeps its camp at a river mouth facing the Peshtar forest."

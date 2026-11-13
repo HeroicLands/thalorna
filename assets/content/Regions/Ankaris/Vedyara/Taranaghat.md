@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 820
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "The crossing village where the Sarveda leaves the hills, and the only place a loaded cart gets over the river above the bow-fort."

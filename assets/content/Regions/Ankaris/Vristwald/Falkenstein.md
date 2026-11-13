@@ -10,6 +10,7 @@ data:
   lore: [falconttm]
   parents: [falkhaven]
   population: 300
+  type: village
   borders: [{to: falkholt, bearing: W}, {to: arnstein, bearing: E}]
   routes:
     - {to: falkholt, bearing: W, mode: land, days: 2, terrain: [track, forest]}

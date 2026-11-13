@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [nartumkngdm]
   population: 60000
+  type: city
   routes: [{to: ashenmere, bearing: S, mode: land, days: 5, terrain: [forest, road]}]
   packFolder: vylaria
   government: hlykngdmnrtm

@@ -10,6 +10,7 @@ data:
   lore: [hawkttm]
   parents: [vandstein]
   population: 450
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
   notes: "A Varokh village in Vandstein whose ruined tower tempts outsiders to claim the ground around it."

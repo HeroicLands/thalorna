@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vedyarargn, sarvedarivr]
   population: 1600
+  type: town
   market: 3
   government: srvdmthjnpd
   packFolder: vedyara

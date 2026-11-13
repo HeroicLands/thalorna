@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [moktur]
   population: 400
+  type: village
   government: provncmktr
   packFolder: vylaria
   notes: "A farming village on the Tirellan circuit whose elder, a retired militia commander, shelters the healer-priest Azendas Damator."

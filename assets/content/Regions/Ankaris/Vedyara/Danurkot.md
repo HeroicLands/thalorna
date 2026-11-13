@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 2000
+  type: town
   packFolder: vedyara
   government: dnrktjnpd
   notes: "The bow-fort town on the upper Sarveda, temple-seat of the Danurkot Janpoda and home of its four archery academies."

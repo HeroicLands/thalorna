@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 980
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "The panning village on the richest of the gold mountain's streams, where nine of the twenty-eight hereditary families work."

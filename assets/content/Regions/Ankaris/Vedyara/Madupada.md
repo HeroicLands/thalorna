@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 380
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Orchard and bee-keeping village of the northern hills, whose wax goes to the fletchers for their bindings."

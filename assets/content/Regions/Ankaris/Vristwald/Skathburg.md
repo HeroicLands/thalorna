@@ -10,6 +10,7 @@ data:
   lore: [wolfttm]
   parents: [skathwald]
   population: 480
+  type: village
   borders: [{to: wulfstein, bearing: SE}]
   routes:
     - {to: vethholt, bearing: NW, mode: land, days: 5, terrain: [track, forest]}

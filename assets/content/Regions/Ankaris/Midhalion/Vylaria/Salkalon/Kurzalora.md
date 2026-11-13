@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [salkhalon]
   population: 3000
+  type: town
   packFolder: vylaria
   government: provincvld
   notes: "A pilgrimage town of the Salkalon coast below a shrine of Brazemas on the height above the sea, where sailors climb to make and keep their vows, the coast keeps its storm vigil each spring, and the admirals want the shrine's tower for a signal station."

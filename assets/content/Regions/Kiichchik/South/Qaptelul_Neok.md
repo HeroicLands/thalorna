@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [kuxiixbalrgn]
   population: 6000
+  type: town
   government: kuxiixbal
   packFolder: kuxiixbal
   notes: "The garrison town at the southern edge of K'ushi Ish'bal's plateau, where the last cord of the Speaking Road is read, the Blood-Workers keep their southern garrison, and every expedition south is outfitted."

@@ -10,6 +10,7 @@ data:
   lore: [owlttm]
   parents: [thornwald]
   population: 270
+  type: village
   borders: [{to: frithhaven, bearing: W}]
   routes:
     - {to: frithhaven, bearing: W, mode: land, days: 2, terrain: [track, forest]}

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [norgaad]
   population: 300
+  type: village
   packFolder: norgaad
   government: kingdmnrgd
   notes: "Remote Fjord Village"

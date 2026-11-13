@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 480
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Quarry village at the rock face above Upper Suvargeri, which cut the stone of all three great temples."

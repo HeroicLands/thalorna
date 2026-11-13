@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [moktur]
   population: 15000
+  type: city
   routes:
     - {to: orzara, bearing: S, mode: land, days: 20, terrain: [road]}
     - {to: dolvar, bearing: N, mode: land, days: 3, terrain: [road, mountains]}

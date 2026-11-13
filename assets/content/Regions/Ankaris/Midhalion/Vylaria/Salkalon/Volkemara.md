@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [salkhalon]
   population: 8000
+  type: town
   packFolder: vylaria
   government: provincvld
   notes: "A harbor town of boats and curing-sheds on the Salkalon coast, one of the province's four great fishing towns, whose net-masters set the price of salt fish in the capital and whose people keep the old rule that the sea's dead are not asked after."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [auldalon]
   population: 280
+  type: village
   government: thrglnklps
   packFolder: elavendre
   notes: "A hill village of the Áuldalon interior, tucked into a fold of ground that has kept it off three centuries of raiders' roads—and keeps observances the kingdom's priests would rather not examine."

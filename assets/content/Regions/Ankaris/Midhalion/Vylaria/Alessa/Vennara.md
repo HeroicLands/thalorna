@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alyssa]
   population: 6000
+  type: town
   packFolder: vylaria
   government: provinclys
   notes: "A villa-town in the hills near the capital, shuttered through the winter and crowded every summer when the court and the senatorial families come up from Orzara to their country houses; this year the therkos of Alessa has not gone home."

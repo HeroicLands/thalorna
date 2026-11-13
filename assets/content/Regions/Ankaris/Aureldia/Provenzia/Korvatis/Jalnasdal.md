@@ -13,6 +13,7 @@ data:
     - {to: lizela, bearing: W, mode: land, days: 2, terrain: [coast, road]}
     - {to: kalveza, bearing: E, mode: land, days: 1, terrain: [coast, road]}
   population: 70000
+  type: city
   packFolder: provenzia
   government: kngdmprvnz
   notes: "The capital of Provénzia on the warm southern shore—the Crown's seat, the home of the Cotiere speech, and the city where the long argument between the crown and the Council of Peers is conducted."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [sthrnsvnhs]
   population: 400
+  type: village
   packFolder: southernsavannahs
   government: ekunda
   notes: "Village of the Ékunda tribe, one of the settled communities of the Southern Savannahs and the tribe's seat."

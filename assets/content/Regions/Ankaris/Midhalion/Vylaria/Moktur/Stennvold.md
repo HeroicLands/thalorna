@@ -10,6 +10,7 @@ data:
   lore: [varokhiclt]
   parents: [moktur]
   population: 4000
+  type: town
   packFolder: vylaria
   government: provncmktr
   notes: "A high furnace town of about four thousand in a valley that is never free of smoke, where half-Varokh furnace-men smelt the ore of Zargonara for the smelt-masters who pay them, and the metal goes out under guard to the most jealous taxation in the empire."

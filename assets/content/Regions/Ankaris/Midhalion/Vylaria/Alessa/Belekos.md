@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alyssa]
   population: 25000
+  type: city
   packFolder: vylaria
   government: provinclys
   notes: "A city of merchant houses above the grain valleys of Alessa, where the great families live over their counting rooms, buy art to be seen buying it and quietly move their money out of an empire they no longer trust to last."

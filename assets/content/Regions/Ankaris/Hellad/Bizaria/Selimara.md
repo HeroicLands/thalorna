@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 5000
+  type: town
   government: cnclslmr
   packFolder: byzaria
   notes: "Trading Town"

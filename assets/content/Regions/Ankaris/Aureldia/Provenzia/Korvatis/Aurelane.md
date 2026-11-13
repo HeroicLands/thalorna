@@ -11,6 +11,7 @@ data:
   parents: [korvathis]
   routes: [{to: lizela, bearing: S, mode: land, days: 1, terrain: [hills, road]}]
   population: 30000
+  type: city
   government: kngdmprvnz
   packFolder: provenzia
   notes: "The old Vilérian foundation of the southern interior—once the provincial capital and still the seat of Provénzian law and learning, a city of enormous prestige and diminished consequence."

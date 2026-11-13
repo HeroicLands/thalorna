@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [degavel]
   population: 2500
+  type: town
   government: kngdmprvnz
   packFolder: provenzia
   notes: "The castle town of the earldom of Degavel in the Korvatis, seat of Rutal Pélanvri, Earl of Degavel, where the southern levy musters and the Pélanvri keep their house."

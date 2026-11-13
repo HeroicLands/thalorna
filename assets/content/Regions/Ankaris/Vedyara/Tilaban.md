@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 540
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Sesame village of the dry terrace above the flood-line, which presses the janpoda's lamp-oil."

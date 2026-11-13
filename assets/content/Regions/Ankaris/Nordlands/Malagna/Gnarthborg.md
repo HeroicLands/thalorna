@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [malagna]
   population: 1200
+  type: town
   packFolder: malagna
   government: kingdomlgn
   notes: "Fortified Town"

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [galezkaraslt]
   population: 180
+  type: village
   packFolder: regkhsett
   government: capitalselat
   banner: khelathubnr

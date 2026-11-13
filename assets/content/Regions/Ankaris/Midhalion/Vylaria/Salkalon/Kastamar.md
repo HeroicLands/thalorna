@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [salkhalon]
   population: 20000
+  type: city
   packFolder: vylaria
   government: provincvld
   notes: "The empire's war-port on the Salkalon coast: a city of slipways, ship-sheds and marine barracks that lives on the fleet's money, keeps half its warships laid up for want of crews, and is ruled in all but name by the admiral who wants war with Taruzel."

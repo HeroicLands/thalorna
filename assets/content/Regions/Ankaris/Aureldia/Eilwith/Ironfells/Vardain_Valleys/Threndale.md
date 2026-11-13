@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 460
+  type: village
   government: vrgldhld
   packFolder: eilwith
   notes: "The burial valley of the Vardain, where the dead of the whole district are brought—and where the graves of the last free generation of Vardanreach are still being added to."

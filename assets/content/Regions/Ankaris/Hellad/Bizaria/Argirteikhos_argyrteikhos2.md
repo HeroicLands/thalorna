@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 35000
+  type: city
   government: argyrteikhos
   notes: "The Silver Citadel, a garrison city astride the League's principal eastern pass, whose mines pay for the League's defense."
 ---

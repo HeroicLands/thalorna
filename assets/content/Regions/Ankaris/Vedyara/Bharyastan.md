@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vedyarargn]
   population: 3000
+  type: town
   market: 3
   packFolder: vedyara
   government: bharyastan

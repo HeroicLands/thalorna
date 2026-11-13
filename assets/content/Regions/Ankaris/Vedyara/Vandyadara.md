@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 640
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "The village on the one stream of the gold mountain that has never yielded gold, below the Rasikara shrine at its spring."

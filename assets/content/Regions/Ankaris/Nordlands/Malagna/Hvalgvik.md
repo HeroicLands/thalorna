@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [malagna]
   population: 200
+  type: village
   packFolder: malagna
   government: kingdomlgn
   notes: "Coastal Village"

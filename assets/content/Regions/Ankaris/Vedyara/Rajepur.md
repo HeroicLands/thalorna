@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 1800
+  type: town
   packFolder: vedyara
   government: rajeprjnpd
   notes: "The temple-seat of the Rajepur Janpoda, standing in the street-plan of the royal capital the sabhra dissolved."

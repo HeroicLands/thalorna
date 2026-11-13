@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 890
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "The bamboo village of the upper Sarveda, whose groves supply the staves every Danurkot bow is made from."

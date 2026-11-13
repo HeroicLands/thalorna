@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [zuravlenrgn]
   population: 1400
+  type: town
   government: brnyzrvln
   packFolder: provenzia
   notes: "The market town and baronial seat of Zuravlen, where every peach in the barony is graded, packed and sold, and where the autumn fair settles the year's accounts."

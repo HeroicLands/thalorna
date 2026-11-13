@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 720
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Horn and sinew village below the fort, which supplies the bowyers their facings and backings."

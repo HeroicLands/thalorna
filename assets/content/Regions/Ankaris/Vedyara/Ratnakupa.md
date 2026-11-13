@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 520
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Lapidary village below Lower Suvargeri, whose cutters rough out the stones the jewelers' quarter sets."

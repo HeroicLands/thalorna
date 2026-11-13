@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [ixilankulrgn]
   population: 45000
+  type: city
   government: ixilankul
   packFolder: ixilankul
   notes: "The Place of Obsidian Blood: a city of Ish'ilankul under a ridge of volcanic glass, which makes the plateau's blades and mirrors, trains its captive-warriors, and holds the training ground of the Blood-Workers."

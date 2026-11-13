@@ -15,6 +15,7 @@ data:
     - {to: morthalmrch, bearing: E, mode: land, days: 1, terrain: [coast, track]}
     - {to: edriwald, bearing: NE, mode: land, days: 5, terrain: [coast, track]}
   population: 340
+  type: village
   government: durmelengrsn
   packFolder: elavendre
   notes: "The crown's border fort at the head of Lísere Bay, on the last headland of the Élavendren shore beside the Vristwald border, where the Great Fire of the beacon chain stands and the shore's levy musters."

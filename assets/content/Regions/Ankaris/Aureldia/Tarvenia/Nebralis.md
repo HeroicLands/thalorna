@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: 6000
+  type: town
   government: cnclnbrls
   packFolder: tarvenia
   notes: "A port town of about 6,000 on Tarvénia's coast, growing rich on its harbor, where the merchant houses that control the harbor trade are taking hold of the council while the fishing families, the farms above the town and their priestess keep the Freemen's Assembly."

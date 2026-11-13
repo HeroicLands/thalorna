@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [greylevels]
   population: 2900
+  type: town
   packFolder: eilwith
   government: kngdmldrth
   notes: "Aldorath's river port on the tidal reach—the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."

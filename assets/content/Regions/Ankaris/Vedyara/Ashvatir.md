@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 600
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "The horse village above the bow-fort, where the Academy of the Swift Hand keeps its mounts."

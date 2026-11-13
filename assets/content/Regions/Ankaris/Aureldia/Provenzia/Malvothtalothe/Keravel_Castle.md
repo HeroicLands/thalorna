@@ -15,6 +15,7 @@ data:
     - {to: belsaren, bearing: E, mode: land, days: 1, terrain: [hills, road]}
     - {to: leravrncstl, bearing: NE, mode: land, days: 1, terrain: [hills, road]}
   population: 1200
+  type: town
   government: kngdmprvnz
   packFolder: provenzia
   notes: "The castle town of Keravel Vale, seat of the Marshal of the Western Army, who holds the vale against Tarvénia and its bandits."

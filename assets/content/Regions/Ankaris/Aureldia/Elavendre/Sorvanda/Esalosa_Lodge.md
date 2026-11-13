@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alndntrblnds]
   population: 1500
+  type: town
   packFolder: elavendre
   government: aelndntrbs
   notes: "Áelendan settlement and ceremonial center"

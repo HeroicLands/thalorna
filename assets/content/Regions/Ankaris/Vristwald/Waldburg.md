@@ -10,6 +10,7 @@ data:
   lore: [dovettm]
   parents: [vrystwldrvrs]
   population: 800
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
   notes: "Forest Stronghold"

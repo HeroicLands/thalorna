@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [cntrlhghlnds]
   population: 350
+  type: village
   packFolder: eilwith
   notes: "A free reed-cutting and fishing village on the north-western shore of Lake Eilìssa, at the end of the lake where the village and Aldorath's Brinwold both claim the reed-beds."
 ---

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 870
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Sugarcane village on the wet ground inside the river bend."

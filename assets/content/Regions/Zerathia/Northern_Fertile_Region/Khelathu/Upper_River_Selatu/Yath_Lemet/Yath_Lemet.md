@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [yathlemetslt]
   population: 6000
+  type: town
   packFolder: regkhsett
   government: selatyathlmt
   notes: "Selat capital of Yath-Lemet."

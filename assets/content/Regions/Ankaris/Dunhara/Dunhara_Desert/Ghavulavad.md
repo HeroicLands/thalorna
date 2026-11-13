@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 1200
+  type: town
   packFolder: dunharadesert
   government: dunhartrbs
   notes: "The oasis seat of the Dunhara Tribes—a hollow of palms and black tents round a single great well, where the common council meets and caravans hire their guides."

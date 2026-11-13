@@ -14,6 +14,7 @@ data:
     - {to: ronalza, bearing: N, mode: land, days: 2, terrain: [mountains, track]}
     - {to: alndntrblnds, bearing: N, mode: land, days: 5, terrain: [mountains, track]}
   population: 1200
+  type: town
   borders: [{to: ceravelvale, bearing: SW}]
   government: kngdmprvnz
   packFolder: provenzia

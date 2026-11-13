@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 930
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Cotton village of the lower curve, whose Karmija weaver workshops clothe most of the janpoda."

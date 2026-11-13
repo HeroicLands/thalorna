@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [xelemrgn]
   population: 25000
+  type: city
   government: xelem
   packFolder: xelem
   notes: "The City of Rivers: the Shelem river town built across several tributaries of the Misty River, where the jungle's feathers, hides, cacao and herbs are gathered for the north, governed by a council of merchant families and priests."

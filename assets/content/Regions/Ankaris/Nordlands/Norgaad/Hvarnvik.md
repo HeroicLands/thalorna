@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [norgaad]
   population: 200
+  type: village
   packFolder: norgaad
   government: kingdmnrgd
   notes: "Coastal Village"

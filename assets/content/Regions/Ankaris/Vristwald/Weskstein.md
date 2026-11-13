@@ -10,6 +10,7 @@ data:
   lore: [bearttm]
   parents: [skathwald]
   population: 380
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
   notes: "A Varokh village in Skathwald that grew up round the standing stone where one of the lost villages kept its totem."

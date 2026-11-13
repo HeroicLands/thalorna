@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: 2500
+  type: town
   government: cnclthrgl
   packFolder: tarvenia
   notes: "A hill town of about 2,500 in Tarvénia, with no sea in sight, whose autumn horse fair and its verse-duel set the measure for the fairs of the Thórgila valleys, and whose farms are run by women while their men are away under contract."

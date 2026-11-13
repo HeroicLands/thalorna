@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [kuxiixbalrgn]
   population: 14000
+  type: city
   government: kuxiixbal
   packFolder: kuxiixbal
   notes: "The temple-city of the sacred lake of K'ushi Ish'bal, whose priests own the lake, its boats and the greatest herds of the plateau, and whose southern shore they have closed."

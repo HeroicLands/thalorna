@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [helionis]
   population: 60000
+  type: city
   government: thyrenae
   notes: "The oldest and most prestigious Helionite city, seat of the great academies, the Library of Thirenae and the first home of the Epistémion."
 ---

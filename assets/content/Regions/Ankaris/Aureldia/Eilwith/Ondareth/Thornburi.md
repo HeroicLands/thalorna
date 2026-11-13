@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ondareth]
   population: 14000
+  type: city
   packFolder: eilwith
   government: repblcndrth
   notes: "The seat of the Republic of Ondareth—where the Senate sits beneath its portico and the republic's offices are bought."

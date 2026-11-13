@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 840
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Village at the foot of the great tank, whose sluices water six villages below it."

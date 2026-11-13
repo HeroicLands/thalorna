@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [hylen]
   population: 4000
+  type: town
   routes: [{to: nartum, bearing: N, mode: land, days: 5, terrain: [road, forest]}]
   packFolder: vylaria
   government: provnchyln

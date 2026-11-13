@@ -13,6 +13,7 @@ data:
     - {to: sarmelis, bearing: NE, mode: land, days: 5, terrain: [road]}
     - {to: harnasel, bearing: SW, mode: land, days: 5, terrain: [road]}
   population: 190
+  type: village
   government: beaconfamlys
   packFolder: elavendre
   notes: "A beacon village set back from the Lísere shingle beside the gap in the reeds where the Dusk Ford track leaves the Coast Road, whose headland beacon is the best-kept on the shore."

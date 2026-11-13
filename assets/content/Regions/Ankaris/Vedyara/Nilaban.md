@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 510
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
   notes: "Indigo village of the lower valley, which dyes for the weavers of Karpasagram."

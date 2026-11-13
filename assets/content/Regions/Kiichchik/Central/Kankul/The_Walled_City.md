@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [kankulrgn]
   population: 20000
+  type: city
   government: kankul
   packFolder: kankul
   notes: "The Walled City: K'ankul's harbor town on the sea-cliffs, walled on three sides and open to the sea on the fourth, whose lamp temple guides canoes through the one gap in the reef."

@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 400
+  type: village
   government: vrgldhld
   packFolder: eilwith
   notes: "The highest village, watching the eastern approaches and the sea cliffs—the Vardain's eyes, and the first to know when anything comes."

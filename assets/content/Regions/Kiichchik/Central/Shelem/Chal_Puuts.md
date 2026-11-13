@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [xelemrgn]
   population: 8000
+  type: town
   government: xelem
   packFolder: xelem
   notes: "Beneath the Mesa: the Shelem town at the foot of a sheer-walled table mountain, where oath-bound herbalists sell the vision-vine and plants found nowhere else, and the rarest goods of the jungle change hands."

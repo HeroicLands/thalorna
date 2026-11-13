@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 350
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Small terrace village on the northern slope, with two panning families and no other trade."

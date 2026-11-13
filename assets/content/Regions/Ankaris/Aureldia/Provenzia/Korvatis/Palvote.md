@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [korvathis]
   population: 2200
+  type: town
   government: kngdmprvnz
   packFolder: provenzia
   notes: "The green hill town on the southern edge of the Túravel Hills—the southern gentry's summer refuge from the coastal heat, and the last comfortable place before the old country begins."

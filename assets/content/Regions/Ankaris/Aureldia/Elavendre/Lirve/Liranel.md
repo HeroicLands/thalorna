@@ -13,6 +13,7 @@ data:
     - {to: batarencity, bearing: S, mode: land, days: 5, terrain: [forest, road]}
     - {to: darvenaroad, bearing: S, mode: land, days: 3, terrain: [forest, road]}
   population: 3400
+  type: town
   packFolder: elavendre
   government: kngdmlvndr
   notes: "A forest town of the western coast, set back from the cliffs at the edge of Senali country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."

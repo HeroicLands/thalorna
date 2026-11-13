@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [talothe]
   population: 4500
+  type: town
   routes:
     - {to: grumagando, bearing: E, mode: land, days: 2, terrain: [mountains, road]}
     - {to: kemthoza, bearing: E, mode: land, days: 3, terrain: [mountains, road]}

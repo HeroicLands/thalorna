@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [neokbaatergn]
   population: 50000
+  type: city
   government: neokbaate
   packFolder: neokbaate
   notes: "Red Water: the city above the great river of Ne'ok Ba'ate, whose astronomical monuments rival K'ankul's, whose fire temple carries the stair text of the Late Fire, and whose builder-priests keep the register of the realm's shut temples."

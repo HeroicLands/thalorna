@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 120
+  type: village
   packFolder: okharis
   government: shokumatrb
   notes: "Forest and river village of the Shókuma tribe, the smallest of the Okharis village seats."

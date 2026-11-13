@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [zuravlenrgn]
   population: 190
+  type: village
   government: brnyzrvln
   packFolder: provenzia
   notes: "The upland sheep manor of Zuravlen—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."

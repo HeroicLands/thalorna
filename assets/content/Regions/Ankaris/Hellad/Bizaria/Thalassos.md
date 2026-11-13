@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 4000
+  type: town
   government: mgstrcythls
   packFolder: byzaria
   notes: "Harbor Town"

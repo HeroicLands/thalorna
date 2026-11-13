@@ -11,6 +11,7 @@ data:
   parents: [talothe]
   routes: [{to: durvalis, bearing: E, mode: land, days: 2, terrain: [hills, road]}]
   population: 1800
+  type: town
   government: kngdmprvnz
   packFolder: provenzia
   notes: "The cherry town of the eastern uplands above Lake Tiravel—the last market before the Tarvénian passes, whose year is set by the blossom and the campaign season together."

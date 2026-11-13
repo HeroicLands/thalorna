@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 270
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "Flower gardens for the temple, whose garland-makers supply the spring festival."

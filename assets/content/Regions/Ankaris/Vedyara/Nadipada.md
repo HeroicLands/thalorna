@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 350
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "Fishing village on the bank itself, the one Rajapuri settlement the river has moved twice."

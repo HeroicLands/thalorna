@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [moktur]
   population: 2000
+  type: town
   packFolder: vylaria
   government: provncmktr
   notes: "A temple town of about two thousand among the heights of Moktur, whose one steep street climbs past the shrines of several faiths to the storm-god's temple, with the province's great prison on the crag above it."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [leonrik]
   population: 2500
+  type: town
   packFolder: tarvenia
   government: kingdmlnrk
   notes: "The castle town at the last bridge over the Thalsira, where the river barges unload for the road to Valthari and the southern tower of Lyenrik's watch-chain looks over the salt marsh to the sea."

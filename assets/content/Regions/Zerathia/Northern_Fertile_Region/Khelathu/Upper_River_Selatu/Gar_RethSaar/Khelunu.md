@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [garrethsaarnome]
   population: 85000
+  type: city
   packFolder: regkhsett
   government: selatgrrthsr
   notes: "Temple City (Scribal)"

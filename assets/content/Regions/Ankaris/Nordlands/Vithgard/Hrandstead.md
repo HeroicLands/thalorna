@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vithgard]
   population: 1000
+  type: town
   packFolder: vithgard
   government: kngdmvthgrd
   notes: "Fortified Settlement / Regional Capital"

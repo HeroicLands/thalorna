@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 560
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Orchard village on the sheltered southern slope, which grows the temperate fruit the lowland plain will not take."

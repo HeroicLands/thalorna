@@ -10,6 +10,7 @@ data:
   lore: [goatttm]
   parents: [vandstein]
   population: 370
+  type: village
   borders: [{to: thrastein, bearing: E}]
   routes:
     - {to: hildholt, bearing: NW, mode: land, days: 5, terrain: [track, forest]}

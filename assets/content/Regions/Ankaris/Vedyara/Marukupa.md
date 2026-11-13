@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [bhumipalland]
   population: 900
+  type: village
   market: 3
   routes: [{to: ashvapada, bearing: E, mode: land, days: 3, terrain: [road, hills, desert]}]
   packFolder: vedyara

@@ -13,6 +13,7 @@ data:
     - {to: valarencity, bearing: S, mode: land, days: 5, terrain: [hills, road]}
     - {to: batarencity, bearing: N, mode: land, days: 3, terrain: [coast, road]}
   population: 34000
+  type: city
   government: erldmhrvrn
   packFolder: provenzia
   notes: "The great city of Provénzia's western march and seat of its Earl—an old inland stronghold turned administrative capital, host of the Lordeme every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."

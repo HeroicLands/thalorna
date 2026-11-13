@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 500
+  type: village
   government: vrgldhld
   packFolder: eilwith
   notes: "The mill village on the fast water, grinding the valleys' grain and fulling their cloth."

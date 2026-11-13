@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [kaliharargn]
   population: 5000
+  type: town
   packFolder: kalihara
   government: kalihara
   notes: "A port town on Kalihara's eastern coast where the Taruzelian captains trade—five thousand people, a quay that speaks the fastest Valtari on the island, and a warden's hall that misses nothing."

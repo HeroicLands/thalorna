@@ -10,6 +10,7 @@ data:
   lore: [crowttm]
   parents: [skathwald]
   population: 250
+  type: village
   borders: [{to: wulfstein, bearing: N}]
   routes:
     - {to: wulfstein, bearing: N, mode: land, days: 3, terrain: [track, forest]}

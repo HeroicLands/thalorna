@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [bhumipalland]
   population: 3200
+  type: town
   market: 4
   routes:
     - {to: sandyapur, bearing: S, mode: land, days: 5, terrain: [road, desert]}

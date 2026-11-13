@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 400
+  type: encampment
   government: kherzlkhmcmp
   packFolder: dunharadesert
   notes: "A hunters' camp at a small oasis near the Khazrin frontier, where trackers from both deserts water, trade hides and keep the Laws of the Well."

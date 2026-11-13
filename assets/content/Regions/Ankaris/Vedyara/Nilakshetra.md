@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 870
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
   notes: "Rice terraces on the eastern shoulder of the gold mountain, the largest block of watered ground in the janpoda."

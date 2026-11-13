@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 560
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "The one Rajapuri village on the north bank, reached by ferry for eight months of the year."

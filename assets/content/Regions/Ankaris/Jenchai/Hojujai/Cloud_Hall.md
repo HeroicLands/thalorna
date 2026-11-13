@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [hojai]
   population: 6000
+  type: town
   government: hojujaidmn
   packFolder: jenchai
   culture: jenchaiclt

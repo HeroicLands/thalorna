@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 620
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
   notes: "An oxbow town of the Rajepur Janpoda that the Mahanodi left on dry ground: a river-town of six hundred whose ghat-steps lead down to a field, whose landings are threshing floors, and which still keeps a boat-shreni with no boats."
