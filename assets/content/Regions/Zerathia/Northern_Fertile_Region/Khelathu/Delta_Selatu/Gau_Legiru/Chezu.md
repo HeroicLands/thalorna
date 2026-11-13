@@ -20,7 +20,7 @@ data:
 
 ## Overview
 
-"Taste it before you talk price," a Chezu vintner tells a factor from the export houses, and pours the second cup before the first is finished. Chezu is a coastal wine-town of about 12,000 among the western vineyards of [[place-gaulegirunome|Gau-Legiru]], and it is famous out of all proportion to its size for what comes out of its cellars.
+"Taste it before you talk price," a Chezu vintner tells a factor from the export houses, and pours the second cup before the first is finished. Chezu is a coastal wine-town of about 9,900 among the western vineyards of [[place-gaulegirunome|Gau-Legiru]], and it is famous out of all proportion to its size for what comes out of its cellars.
 
 Its presses and aging-cellars produce the most prized vintages in the [[affiliation-empireakhlth|Empire of Au'Khelathu]], wines that grace the [[lore-garauu|Gar-Au]]'s table and travel, sealed and named, to the markets of the [[place-midhalnrgn|Midhalión Region]]. The town's little harbor ships them straight down the coast to [[place-garanlaghet|Gar-Anlaghet]] and the export trade, and the dock is never far from a cooper's yard.
 

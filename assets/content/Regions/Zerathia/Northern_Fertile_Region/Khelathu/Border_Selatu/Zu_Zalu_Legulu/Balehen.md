@@ -20,7 +20,7 @@ data:
 
 ## Overview
 
-**Balehen** (about 24,000 people) is the strongest fortress the empire holds south of its capital and its gateway to the lands beyond. It is the great fortress-capital of [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]], a double-walled stronghold commanding the river at the first cataract, where the water breaks into rapids and the green valley fails.
+**Balehen** (about 9,900 people) is the strongest fortress the empire holds south of its capital and its gateway to the lands beyond. It is the great fortress-capital of [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]], a double-walled stronghold commanding the river at the first cataract, where the water breaks into rapids and the green valley fails.
 
 "Stand on the wall at dawn and you can see the whole bargain," a priest of [[affiliation-qeztu|Qeztu]] tells a soldier newly posted to the garrison. "Below you is the river, loud with the cataract. Behind you is the last of the green. In front of you is a country the [[lore-garauu|Gar-Au]] can count on only as far as this wall. Everything that goes between here and there goes under it."
 
