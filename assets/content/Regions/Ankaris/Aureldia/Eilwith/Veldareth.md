@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [eilwith]
   population: 1500
+  market: regional
   type: town
   packFolder: eilwith
   government: freeveldareth

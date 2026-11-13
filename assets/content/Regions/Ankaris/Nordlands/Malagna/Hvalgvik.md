@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [malagna]
   population: 200
+  market: local
   type: village
   packFolder: malagna
   government: kingdomlgn

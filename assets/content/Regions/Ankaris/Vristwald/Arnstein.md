@@ -10,6 +10,7 @@ data:
   lore: [eaglettm]
   parents: [falkhaven]
   population: 340
+  market: local
   type: village
   borders: [{to: falkensten, bearing: W}]
   routes:

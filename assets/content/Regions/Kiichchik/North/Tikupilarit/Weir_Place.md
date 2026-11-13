@@ -11,6 +11,7 @@ data:
   lore: [tikupilaritclt]
   parents: [taluqnapiqrgn]
   population: 300
+  market: local
   government: tikupilarit
   packFolder: tikupilarit
   notes: "Weir Place: a river village of the Lake Tundra, behind its salmon weirs, where the forest hunters come down in spring to trade."

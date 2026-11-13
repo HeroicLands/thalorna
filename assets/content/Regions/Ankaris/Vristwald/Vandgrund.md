@@ -10,6 +10,7 @@ data:
   lore: [goatttm]
   parents: [vandstein]
   population: 370
+  market: local
   type: village
   borders: [{to: thrastein, bearing: E}]
   routes:

@@ -11,6 +11,7 @@ data:
   parents: [athavel]
   routes: [{to: caerceravel, bearing: E, mode: land, days: 2, terrain: [hills, road]}]
   population: 1800
+  market: local
   type: town
   government: kngdmprvnz
   packFolder: provenzia

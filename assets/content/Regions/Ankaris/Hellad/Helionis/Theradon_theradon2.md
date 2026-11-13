@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [helionis]
   population: 50000
+  market: international
   type: city
   government: theradon
   notes: "An inland Helionite city of terraced marble, old libraries and a Epistémion chapterhouse, whose citizens consider themselves qualified to instruct everyone else."

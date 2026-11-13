@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [sorvanda]
   population: 2100
+  market: local
   type: town
   government: kngdmlvndr
   packFolder: elavendre

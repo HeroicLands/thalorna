@@ -13,6 +13,7 @@ data:
     - {to: valarencity, bearing: S, mode: land, days: 5, terrain: [hills, road]}
     - {to: batarencity, bearing: N, mode: land, days: 3, terrain: [coast, road]}
   population: 34000
+  market: regional
   type: city
   government: erldmhrvrn
   packFolder: provenzia

@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [xelemrgn]
   population: 8000
+  market: regional
   type: town
   government: xelem
   packFolder: xelem

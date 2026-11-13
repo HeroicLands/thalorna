@@ -10,6 +10,7 @@ data:
   lore: [dovettm]
   parents: [skathwald]
   population: 290
+  market: local
   type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald

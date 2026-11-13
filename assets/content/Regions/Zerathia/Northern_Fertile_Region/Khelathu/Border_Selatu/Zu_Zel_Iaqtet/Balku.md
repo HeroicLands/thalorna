@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [zuzeliaqtetnome]
   population: 22000
+  market: regional
   packFolder: regkhsett
   government: selatzuzlqtt
   notes: "Fortified Mining Town"

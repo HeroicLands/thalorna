@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ravenshold]
   population: 1600
+  market: local
   type: town
   government: kngdmprvnz
   packFolder: provenzia

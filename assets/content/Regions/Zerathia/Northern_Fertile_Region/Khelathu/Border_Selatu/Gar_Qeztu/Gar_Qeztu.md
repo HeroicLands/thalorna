@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [garqeztuselt]
   population: 13000
+  market: regional
   packFolder: regkhsett
   government: selatgarqezt
   notes: "Selat capital of Gar-Qeztu."

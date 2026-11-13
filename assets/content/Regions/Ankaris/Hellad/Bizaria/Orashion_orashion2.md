@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 45000
+  market: regional
   type: city
   government: orashion
   notes: "Blackstone, the League's forge city of basalt walls, mines and guild masters, where the forges burn day and night."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [asturath]
   population: 10000
+  market: regional
   routes: [{to: kervaron, bearing: E, mode: land, days: 3, terrain: [road, mountains]}]
   packFolder: tarvenia
   government: kngdmstrth

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [anlaghztnslt]
   population: 25000
+  market: international
   packFolder: regkhsett
   government: selatnlghztn
   notes: "River Town (Grain Port)"

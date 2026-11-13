@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [brynwold]
   population: 1800
+  market: local
   type: town
   packFolder: eilwith
   government: kngdmldrth

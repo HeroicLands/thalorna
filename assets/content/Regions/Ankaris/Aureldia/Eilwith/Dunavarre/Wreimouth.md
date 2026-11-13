@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunavarre]
   population: 2500
+  market: regional
   type: town
   packFolder: eilwith
   government: kingdmdnvr

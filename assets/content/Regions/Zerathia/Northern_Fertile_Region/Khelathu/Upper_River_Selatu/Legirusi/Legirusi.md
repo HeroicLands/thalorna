@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [legirusiselt]
   population: 38000
+  market: regional
   packFolder: regkhsett
   government: selatlegirus
   notes: "Selat capital of Legirusi."

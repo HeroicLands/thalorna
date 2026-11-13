@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [lutgethazalunome]
   population: 36000
+  market: regional
   packFolder: regkhsett
   government: selatltgthzl
   notes: "Selat capital of Lut-Getha-Zalu."

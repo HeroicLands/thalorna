@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [garlutselat]
   population: 18000
+  market: regional
   packFolder: regkhsett
   government: selatgarlut
   notes: "Selat capital of Gar-Lut, seat of the chief temple of Uzn'era, the goddess of healing."

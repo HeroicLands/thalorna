@@ -10,6 +10,7 @@ data:
   lore: [bearttm]
   parents: [vandstein]
   population: 410
+  market: local
   type: village
   borders: [{to: thrastein, bearing: W}]
   routes: [{to: thrastein, bearing: W, mode: land, days: 2, terrain: [track, forest]}]

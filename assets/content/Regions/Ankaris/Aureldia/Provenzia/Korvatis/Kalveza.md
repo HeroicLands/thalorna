@@ -13,6 +13,7 @@ data:
     - {to: jalnazdal, bearing: W, mode: land, days: 1, terrain: [coast, road]}
     - {to: lizela, bearing: W, mode: ship, days: 2, terrain: [coast]}
   population: 18000
+  market: international
   government: kngdmprvnz
   packFolder: provenzia
   notes: "The second of Provénzia's great southern ports and one of the two homes of the Cotiere speech—a working harbor where Jalnasdal is a court, and the place the kingdom's bulk trade actually passes through."

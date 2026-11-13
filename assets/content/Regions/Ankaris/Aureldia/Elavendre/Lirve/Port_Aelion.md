@@ -11,6 +11,7 @@ data:
   parents: [lirve]
   routes: [{to: batarencity, bearing: S, mode: ship, days: 2, terrain: [coast]}]
   population: 9000
+  market: regional
   type: town
   government: twncnclprtaln
   packFolder: elavendre

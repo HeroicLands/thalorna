@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vithgard]
   population: 1000
+  market: local
   type: town
   packFolder: vithgard
   government: kngdmvthgrd

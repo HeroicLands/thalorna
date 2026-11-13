@@ -11,6 +11,7 @@ data:
   lore: [tokchiliclt]
   parents: [hokpargn]
   population: 5000
+  market: regional
   government: tokchiaska
   packFolder: tokchiaska
   notes: "The Falcon Mound, the double-walled town on the western bank where the One Fire musters against the plains bands, the falcon dancers train, and maize is traded for robes in the same season as the raids."

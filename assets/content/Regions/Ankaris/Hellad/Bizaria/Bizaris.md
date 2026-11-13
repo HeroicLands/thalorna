@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 30000
+  market: regional
   type: city
   government: cncltwlvbzrs
   packFolder: byzaria

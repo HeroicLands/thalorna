@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [gekhenuselat]
   population: 30000
+  market: regional
   packFolder: regkhsett
   government: selatgekhenu
   notes: "Selat capital of Gekhenu, where library-temples and astronomers keep the calendar of the middle river."

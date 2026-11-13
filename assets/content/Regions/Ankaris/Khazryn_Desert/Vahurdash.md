@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [swoasisbelt]
   population: 4000
+  market: local
   type: town
   government: khzrncnfdrtn
   packFolder: khazryndesert

@@ -10,6 +10,7 @@ data:
   lore: [flksenali]
   parents: [lirve]
   population: 90
+  market: local
   packFolder: elavendre
   culture: senaliclt
   government: nclvsrnthl

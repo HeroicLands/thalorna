@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [neokbaatergn]
   population: 70000
+  market: international
   type: city
   government: neokbaate
   notes: "The seat of the isthmus realm: a trading city built across the one road over the volcanic spine, where the goods of the north and the south change hands and an independent-minded Sun Lord bargains with the north."

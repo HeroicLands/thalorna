@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [bethuargn]
   population: 35000
+  market: regional
   type: city
   packFolder: bethua
   government: mtrrchybth

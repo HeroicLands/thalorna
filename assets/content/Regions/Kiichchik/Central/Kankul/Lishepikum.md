@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [kankulrgn]
   population: 40000
+  market: regional
   type: city
   government: kankul
   packFolder: kankul

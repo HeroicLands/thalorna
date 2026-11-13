@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [hanalxilanrgn]
   population: 1200
+  market: local
   government: hanalxilanmktcncl
   notes: "The trading settlement of the contested river frontier, where the goods of the Maple People, the One Fire and the plains change hands."
 ---

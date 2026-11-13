@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [zuravlenrgn]
   population: 1400
+  market: local
   type: town
   government: brnyzrvln
   packFolder: provenzia

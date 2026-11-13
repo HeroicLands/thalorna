@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [aldorvale]
   population: 20000
+  market: regional
   type: city
   packFolder: eilwith
   government: kngdmldrth

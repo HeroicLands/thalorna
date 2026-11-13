@@ -11,6 +11,7 @@ data:
   lore: [tenlayaclt]
   parents: [potontayuntorgn]
   population: 3000
+  market: local
   government: tenlaya
   packFolder: tenlaya
   notes: "Falling Water: the salmon falls of the Root Fields and their summer camp, where the western bands take fish from platforms over the water and trade with the Cedar People's summer traders, who have brought a captive to sell."

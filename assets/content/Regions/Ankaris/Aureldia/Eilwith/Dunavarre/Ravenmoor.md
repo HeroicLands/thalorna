@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunavarre]
   population: 3500
+  market: regional
   packFolder: eilwith
   government: kingdmdnvr
   notes: "The seat of the Synod and the mandatory first port of call for every ship crossing between Eilwìth and the mainland—where the Arcane Order inspects the island's entire commerce, and takes particular interest in anything magical."

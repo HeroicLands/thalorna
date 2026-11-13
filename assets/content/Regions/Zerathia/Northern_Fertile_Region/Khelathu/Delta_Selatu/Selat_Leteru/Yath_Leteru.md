@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [selatleterunome]
   population: 11000
+  market: regional
   packFolder: regkhsett
   government: selatseltltr
   notes: "Selat capital of Selat-Leteru."

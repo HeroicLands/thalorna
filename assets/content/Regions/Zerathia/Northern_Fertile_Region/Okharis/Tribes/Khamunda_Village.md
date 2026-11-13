@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 400
+  market: local
   type: village
   packFolder: okharis
   government: khamundatrb

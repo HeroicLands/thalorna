@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [khelenetzslt]
   population: 32000
+  market: regional
   packFolder: regkhsett
   government: selatkhelntz
   notes: "Selat capital of Khelenet-Zu."

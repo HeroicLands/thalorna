@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [nordheim]
   population: 700
+  market: local
   packFolder: nordheim
   government: kngdmnrdhm
   notes: "Town"

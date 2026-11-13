@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: 8000
+  market: regional
   type: town
   government: tmplplthms
   packFolder: tarvenia

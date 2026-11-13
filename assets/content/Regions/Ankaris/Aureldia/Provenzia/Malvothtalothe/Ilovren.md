@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ceravelvale]
   population: 300
+  market: local
   type: village
   government: kngdmprvnz
   packFolder: provenzia

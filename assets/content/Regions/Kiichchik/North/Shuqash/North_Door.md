@@ -11,6 +11,7 @@ data:
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
   population: 1200
+  market: local
   government: shuqash
   packFolder: shuqash
   notes: "The North Door: the northernmost town of the Bead Coast, behind the coast's only palisade, which sends the Northern Strand to the Cedar People every spring."

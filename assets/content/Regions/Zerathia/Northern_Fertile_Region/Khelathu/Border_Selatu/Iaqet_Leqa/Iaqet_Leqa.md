@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [iaqetleqaslt]
   population: 12000
+  market: regional
   packFolder: regkhsett
   government: selatiaqetlq
   notes: "Selat capital of Iaqet-Leqa."

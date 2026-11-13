@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [eskarath]
   population: 450
+  market: local
   type: village
   packFolder: tarvenia
   government: frtrtryskrth

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vylariargn]
   population: 40000
+  market: international
   type: city
   government: tevranaelissium
   routes: [{to: orzara, bearing: N, mode: land, days: 5, terrain: [road]}]

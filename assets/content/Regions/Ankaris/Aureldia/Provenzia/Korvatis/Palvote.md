@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [korvathis]
   population: 2200
+  market: local
   type: town
   government: kngdmprvnz
   packFolder: provenzia

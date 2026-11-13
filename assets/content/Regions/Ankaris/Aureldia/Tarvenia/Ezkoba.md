@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [galvaren]
   population: 2500
+  market: regional
   type: town
   packFolder: tarvenia
   government: kngdmglvrn

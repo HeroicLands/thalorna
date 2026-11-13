@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [degavel]
   population: 2500
+  market: local
   type: town
   government: kngdmprvnz
   packFolder: provenzia

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alyssa]
   population: 45000
+  market: regional
   type: city
   routes: [{to: orzara, bearing: E, mode: land, days: 1, terrain: [road]}]
   packFolder: vylaria

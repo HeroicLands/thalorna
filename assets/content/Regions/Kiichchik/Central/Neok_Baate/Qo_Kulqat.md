@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [neokbaatergn]
   population: 35000
+  market: regional
   type: city
   government: neokbaate
   packFolder: neokbaate

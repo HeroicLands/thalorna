@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [anzetqeltnome]
   population: 24000
+  market: regional
   packFolder: regkhsett
   government: selatanztqlt
   notes: "Selat capital of Anzet-Qelt, seat of the chief temple of Hezmu'iri, the jackal-headed god of embalming."

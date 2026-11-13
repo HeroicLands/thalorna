@@ -11,6 +11,7 @@ data:
   lore: [osetakonaclt]
   parents: [kahsiotargn]
   population: 1800
+  market: local
   government: osetakona
   packFolder: osetakona
   notes: "First Sugar, the Rapids People's chief village on the Great River, which always stands within a walk of the sugar bush where the Grove began, and which wants to be the next Kettle."

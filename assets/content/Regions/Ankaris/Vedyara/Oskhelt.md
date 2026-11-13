@@ -11,7 +11,7 @@ data:
   parents: [graznmntns, sthrnwall]
   population: 640
   type: village
-  market: 3
+  market: local
   packFolder: vedyara
   government: osketguides
   culture: osketclt

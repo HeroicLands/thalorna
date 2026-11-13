@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [moktur]
   population: 15000
+  market: regional
   type: city
   routes:
     - {to: orzara, bearing: S, mode: land, days: 20, terrain: [road]}

@@ -10,6 +10,7 @@ data:
   lore: [owlttm]
   parents: [thornwald]
   population: 270
+  market: local
   type: village
   borders: [{to: frithhaven, bearing: W}]
   routes:

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [talothe]
   population: 4500
+  market: local
   type: town
   routes:
     - {to: grumagando, bearing: E, mode: land, days: 2, terrain: [mountains, road]}

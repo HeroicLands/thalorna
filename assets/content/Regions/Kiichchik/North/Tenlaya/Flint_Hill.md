@@ -11,6 +11,7 @@ data:
   lore: [tenlayaclt]
   parents: [hesunshewanrgn]
   population: 900
+  market: local
   type: village
   government: tenlaya
   packFolder: tenlaya

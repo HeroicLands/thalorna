@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [nartumkngdm]
   population: 300
+  market: local
   type: village
   packFolder: vylaria
   government: hlykngdmnrtm

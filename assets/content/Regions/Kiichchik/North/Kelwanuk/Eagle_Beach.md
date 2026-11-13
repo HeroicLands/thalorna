@@ -11,6 +11,7 @@ data:
   lore: [kelwanukclt]
   parents: [hapasrgn]
   population: 3000
+  market: local
   government: kelwanuk
   packFolder: kelwanuk
   notes: "Eagle Beach: a row of carved cedar plank houses facing a salmon river's mouth on a northern fjord, the village of the house that sits first on the coast."

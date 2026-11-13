@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [amradadrgn]
   population: 22000
+  market: regional
   type: city
   government: kngdmmrdd
   packFolder: amradad

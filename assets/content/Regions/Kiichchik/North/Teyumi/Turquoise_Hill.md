@@ -11,6 +11,7 @@ data:
   lore: [teyumiclt]
   parents: [hosaoyalargn]
   population: 400
+  market: local
   type: village
   government: teyumi
   packFolder: teyumi

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [moktur]
   population: 400
+  market: local
   type: village
   government: provncmktr
   packFolder: vylaria

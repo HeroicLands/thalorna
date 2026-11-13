@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [zojai]
   population: 12000
+  market: regional
   government: jenchaiempr
   packFolder: jenchai
   culture: jenchaiclt

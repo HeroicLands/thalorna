@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ixilankulrgn]
   population: 150000
+  market: international
   government: ixilankul
   notes: "The Seat of the Stars: the city of the Q'emulmah, first of the Sun Lords, where the plateau's tribute is counted in the Court of Tribute and a priest watches the sky from every temple summit through the night."
 

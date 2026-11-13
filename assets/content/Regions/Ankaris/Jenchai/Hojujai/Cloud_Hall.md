@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [hojai]
   population: 6000
+  market: regional
   type: town
   government: hojujaidmn
   packFolder: jenchai

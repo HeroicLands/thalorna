@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [qalirel]
   population: 12000
+  market: regional
   routes:
     - {to: besikar2, bearing: NW, mode: land, days: 5, terrain: [hills, road]}
     - {to: amradadrgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}

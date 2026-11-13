@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [chathuselat]
   population: 41000
+  market: regional
   packFolder: regkhsett
   government: selatchathu
   notes: "Selat capital of Chathu."

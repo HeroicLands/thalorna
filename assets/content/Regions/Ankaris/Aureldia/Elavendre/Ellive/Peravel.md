@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ellive]
   population: 55000
+  market: international
   type: city
   packFolder: elavendre
   government: kngdmlvndr

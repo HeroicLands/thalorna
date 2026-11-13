@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [kankulrgn]
   population: 60000
+  market: international
   type: city
   government: kankul
   packFolder: kankul

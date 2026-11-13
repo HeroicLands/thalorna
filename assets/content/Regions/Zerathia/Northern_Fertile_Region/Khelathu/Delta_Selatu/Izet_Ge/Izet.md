@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [izetgenome]
   population: 45000
+  market: regional
   packFolder: regkhsett
   government: selatizetge
   notes: "Selat capital of Izet-Ge."

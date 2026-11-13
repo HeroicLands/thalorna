@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [lenenneztslt]
   population: 26000
+  market: regional
   packFolder: regkhsett
   government: selatlennnzt
   notes: "Selat capital of Lenen-Nezut."

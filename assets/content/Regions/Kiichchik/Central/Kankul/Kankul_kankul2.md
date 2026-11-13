@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [kankulrgn]
   population: 120000
+  market: international
   government: kankul
   notes: "The seat of the realm of astronomers and scribes in the limestone lowlands of the east: a white city around a round tower, home of the Star House that reckons the days for every city the cords reach."
 

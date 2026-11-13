@@ -11,6 +11,7 @@ data:
   lore: [tokchiliclt]
   parents: [wikopihirgn]
   population: 1500
+  market: local
   government: tokchiaska
   packFolder: tokchiaska
   notes: "Ash, the largest swamp-edge town of the Dark Water, which takes in the households whose fires have been put out and says it was founded by the coast women Pakalo saved."

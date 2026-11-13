@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [leonrik]
   population: 300
+  market: local
   type: village
   government: kingdmlnrk
   packFolder: tarvenia

@@ -11,6 +11,7 @@ data:
   lore: [teyumiclt]
   parents: [hosaoyalargn]
   population: 700
+  market: local
   government: teyumi
   packFolder: teyumi
   notes: "The Door House: the great house of the Canyon of Houses with a door cut through its outer wall, where the house heads swear their oath and the hungry of the north are coming to be fed."

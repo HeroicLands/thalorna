@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 12000
+  market: regional
   packFolder: citystates
   government: okharis
   notes: "Garrison Town"

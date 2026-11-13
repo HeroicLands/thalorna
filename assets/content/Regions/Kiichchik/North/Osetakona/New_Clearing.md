@@ -11,6 +11,7 @@ data:
   lore: [osetakonaclt]
   parents: [tionhsekargn]
   population: 600
+  market: local
   government: osetakona
   packFolder: osetakona
   notes: "New Clearing, the River People's southernmost village, built down a valley toward Ha'nal Shi'lan, burned by the One Fire's raiders and rebuilt on the same ground out of stubbornness."

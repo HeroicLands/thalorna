@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [rinjai]
   population: 3000
+  market: regional
   type: town
   government: rinjaidmn
   packFolder: jenchai

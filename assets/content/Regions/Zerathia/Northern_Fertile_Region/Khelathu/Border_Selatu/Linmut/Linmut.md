@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [linmutselat]
   population: 11000
+  market: regional
   packFolder: regkhsett
   government: selatlinmut
   notes: "Selat capital of Linmut."

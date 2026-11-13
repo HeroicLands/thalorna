@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [wagaruselat]
   population: 14000
+  market: regional
   packFolder: regkhsett
   government: selatwagaru
   notes: "Selat capital of Wagaru."

@@ -11,7 +11,7 @@ data:
   parents: [vedyarargn, sarvedarivr]
   population: 1600
   type: town
-  market: 3
+  market: local
   government: srvdmthjnpd
   packFolder: vedyara
   notes: "The seasonal port at the mouth of the Sarveda—a beach, a bar and a warehouse street that is a town for eight months and a fishing village for four."

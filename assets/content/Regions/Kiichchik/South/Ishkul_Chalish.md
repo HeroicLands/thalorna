@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [kuxiixbalrgn]
   population: 14000
+  market: regional
   type: city
   government: kuxiixbal
   packFolder: kuxiixbal

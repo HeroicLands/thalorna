@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 35000
+  market: international
   type: city
   packFolder: citystates
   government: okharis

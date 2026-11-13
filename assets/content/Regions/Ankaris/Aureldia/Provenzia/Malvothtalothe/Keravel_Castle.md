@@ -15,6 +15,7 @@ data:
     - {to: belsaren, bearing: E, mode: land, days: 1, terrain: [hills, road]}
     - {to: leravrncstl, bearing: NE, mode: land, days: 1, terrain: [hills, road]}
   population: 1200
+  market: local
   type: town
   government: kngdmprvnz
   packFolder: provenzia

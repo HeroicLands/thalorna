@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [garshebztslt]
   population: 49000
+  market: regional
   packFolder: regkhsett
   government: selatgrshbzt
   notes: "Selat capital of Gar-Shebazet."

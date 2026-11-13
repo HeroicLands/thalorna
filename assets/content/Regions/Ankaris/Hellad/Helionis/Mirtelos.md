@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [kostarosdst]
   population: 4000
+  market: local
   type: town
   packFolder: helionis
   government: kostaros2

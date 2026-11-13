@@ -11,6 +11,7 @@ data:
   lore: [kelwanukclt]
   parents: [yumisrgn]
   population: 2400
+  market: local
   government: kelwanuk
   packFolder: kelwanuk
   notes: "Orca Beach: the whaling village of the Orca House on the outer coast, where twenty slaves were killed at a feast, where the count that ended the killing is still kept, and where slaves are now freed as gifts."

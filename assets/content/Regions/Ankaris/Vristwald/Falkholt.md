@@ -10,6 +10,7 @@ data:
   lore: [hawkttm]
   parents: [falkhaven]
   population: 280
+  market: local
   type: village
   borders: [{to: falkensten, bearing: E}]
   routes: [{to: falkensten, bearing: E, mode: land, days: 2, terrain: [track, forest]}]

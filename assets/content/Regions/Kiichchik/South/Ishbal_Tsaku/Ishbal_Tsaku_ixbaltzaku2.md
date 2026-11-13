@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ixbaltzakurgn]
   population: 60000
+  market: international
   type: city
   government: ixbaltzaku
   packFolder: ixbaltzaku

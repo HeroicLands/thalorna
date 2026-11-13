@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [anlaghztnslt]
   population: 160
+  market: local
   type: village
   packFolder: regkhsett
   government: selatnlghztn

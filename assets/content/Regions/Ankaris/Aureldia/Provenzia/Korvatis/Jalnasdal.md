@@ -13,6 +13,7 @@ data:
     - {to: lizela, bearing: W, mode: land, days: 2, terrain: [coast, road]}
     - {to: kalveza, bearing: E, mode: land, days: 1, terrain: [coast, road]}
   population: 70000
+  market: international
   type: city
   packFolder: provenzia
   government: kngdmprvnz

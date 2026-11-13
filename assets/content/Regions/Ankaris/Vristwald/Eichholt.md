@@ -10,6 +10,7 @@ data:
   lore: [deerttm]
   parents: [edriwald]
   population: 390
+  market: local
   type: village
   borders: [{to: edrihaven, bearing: W}, {to: thalgrund, bearing: E}]
   routes:

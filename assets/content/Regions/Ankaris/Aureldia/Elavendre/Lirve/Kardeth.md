@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [lirve]
   population: 250
+  market: local
   type: village
   government: kngdmlvndr
   packFolder: elavendre

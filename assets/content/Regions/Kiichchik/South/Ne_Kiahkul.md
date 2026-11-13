@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ixbaltzakurgn]
   population: 12000
+  market: regional
   government: ixbaltzaku
   packFolder: ixbaltzaku
   notes: "The forge town on the flank of a smoking mountain in Ish'bal Tsa'ku, whose smith kin make the steel the warriors of the south carry and the obsidian the priests cut with."

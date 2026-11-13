@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 1200
+  market: local
   type: town
   packFolder: dunharadesert
   government: dunhartrbs

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vithgard]
   population: 450
+  market: regional
   packFolder: vithgard
   government: kngdmvthgrd
   notes: "Port Town"

@@ -11,6 +11,7 @@ data:
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
   population: 2000
+  market: local
   government: shuqash
   packFolder: shuqash
   notes: "Bead Place: the drilling town of Bead Island, where nearly every household makes shell beads and the counter's strands are the ones the coast measures against."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 600
+  market: local
   type: village
   government: trbtvrzvd
   packFolder: dunharadesert

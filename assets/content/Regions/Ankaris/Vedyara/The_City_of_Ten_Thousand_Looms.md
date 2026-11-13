@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vyalendraland]
   population: 80000
+  market: international
   type: city
   packFolder: vedyara
   government: vyalendra2

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [zuqeztunome]
   population: 12000
+  market: regional
   packFolder: regkhsett
   government: selatzuqeztu
   notes: "Selat capital of Zu-Qeztu."

@@ -11,6 +11,7 @@ data:
   lore: [osetakonaclt]
   parents: [tsiorhenrgn]
   population: 900
+  market: local
   government: osetakona
   packFolder: osetakona
   notes: "The Dawn Place: the Dawn People's village that the men from the water burned, moved a day inland out of sight of the sea, with four names neither lying down nor given."

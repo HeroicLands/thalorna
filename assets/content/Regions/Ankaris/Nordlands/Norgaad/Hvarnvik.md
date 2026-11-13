@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [norgaad]
   population: 200
+  market: local
   type: village
   packFolder: norgaad
   government: kingdmnrgd

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [khuqetimntiqnome]
   population: 12000
+  market: regional
   packFolder: regkhsett
   government: seltkhqtmntq
   notes: "Selat capital of Khuqet-Imntiqa."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vithgard]
   population: 700
+  market: local
   packFolder: vithgard
   government: kngdmvthgrd
   notes: "Fortified Town / Capital"

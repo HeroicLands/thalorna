@@ -11,6 +11,7 @@ data:
   lore: [tokchiliclt]
   parents: [koyalorgn]
   population: 2000
+  market: local
   government: tokchiaska
   packFolder: tokchiaska
   notes: "The Last Shore, the southernmost shell town of the One Fire, among mangrove islands at the end of the gulf coast, whose captains say they have sailed farther south than anyone."

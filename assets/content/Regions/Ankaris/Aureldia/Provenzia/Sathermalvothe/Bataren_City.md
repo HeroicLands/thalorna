@@ -15,6 +15,7 @@ data:
     - {to: liranel, bearing: N, mode: land, days: 5, terrain: [forest, road]}
     - {to: portaelion, bearing: N, mode: ship, days: 2, terrain: [coast]}
   population: 25000
+  market: international
   type: city
   government: kngdmprvnz
   packFolder: provenzia

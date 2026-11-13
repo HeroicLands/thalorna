@@ -11,7 +11,7 @@ data:
   parents: [vedyarargn]
   population: 3000
   type: town
-  market: 3
+  market: local
   packFolder: vedyara
   government: bharyastan
   notes: "The one town of the mountain kingdom of Bharyastan—a palace, a horse-ground and a market week, on the shelf where the eight valleys meet."

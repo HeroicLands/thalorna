@@ -10,6 +10,7 @@ data:
   lore: [eaglettm]
   parents: [falkhaven]
   population: 240
+  market: local
   type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [gaulegirunome]
   population: 12000
+  market: regional
   government: selatgaulegr
   packFolder: regkhsett
   notes: "Wine Town"

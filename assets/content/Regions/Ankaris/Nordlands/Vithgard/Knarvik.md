@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vithgard]
   population: 400
+  market: regional
   packFolder: vithgard
   government: kngdmvthgrd
   notes: "Harbor Town"

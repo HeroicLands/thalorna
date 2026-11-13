@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [norgaad]
   population: 400
+  market: local
   packFolder: norgaad
   government: kingdmnrgd
   notes: "Market Town / Seat of Local Nobility"

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [stormplain]
   population: 2500
+  market: local
   type: town
   packFolder: eilwith
   government: jrldmstrmvld

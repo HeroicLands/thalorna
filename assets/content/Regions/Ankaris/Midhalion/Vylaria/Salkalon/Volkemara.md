@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [salkhalon]
   population: 8000
+  market: regional
   type: town
   packFolder: vylaria
   government: provincvld

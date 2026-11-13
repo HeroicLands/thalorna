@@ -11,6 +11,7 @@ data:
   parents: [calypsaisle]
   routes: [{to: kalipsarun, bearing: E, mode: ship, days: 1, terrain: [coast, open-sea, coast]}]
   population: 28000
+  market: international
   type: city
   government: calypsa
   packFolder: calypsa

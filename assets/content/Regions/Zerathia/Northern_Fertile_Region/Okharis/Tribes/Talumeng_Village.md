@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 500
+  market: local
   type: village
   packFolder: okharis
   government: talumengtrb

@@ -12,7 +12,7 @@ data:
   parents: [graznmntns, estrnreach]
   population: 290
   type: village
-  market: 2
+  market: subsistence
   packFolder: vedyara
   government: hvarnguides
   notes: "The Hvarn winter house under the Eastern Reach—one long settlement where the whole people gathers for the closed months and the council sits."

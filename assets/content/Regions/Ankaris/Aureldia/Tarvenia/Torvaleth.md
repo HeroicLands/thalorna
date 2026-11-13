@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [leonrik]
   population: 36000
+  market: regional
   type: city
   packFolder: tarvenia
   government: kingdmlnrk

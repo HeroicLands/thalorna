@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [greylevels]
   population: 2900
+  market: regional
   type: town
   packFolder: eilwith
   government: kngdmldrth

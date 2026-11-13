@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [swoasisbelt]
   population: 3000
+  market: local
   type: town
   government: tribestrzd
   notes: "The priestly seat of the Atarzád at the foot of Mt. Shofar, a settlement of 3,000 that holds the Council of the Twelve and receives fifty thousand pilgrims at midsummer."

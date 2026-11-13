@@ -12,7 +12,7 @@ data:
   parents: [graznmntns, sthrnwall]
   population: 380
   type: village
-  market: 2
+  market: subsistence
   packFolder: vedyara
   government: osketguides
   notes: "The western Osket village between the storm-door and the sixth road—herders who take two caravans a year and keep something worth a great deal more."

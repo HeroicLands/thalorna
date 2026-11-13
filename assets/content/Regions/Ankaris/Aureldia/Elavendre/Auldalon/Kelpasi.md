@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [auldalon]
   population: 280
+  market: local
   type: village
   government: thrglnklps
   packFolder: elavendre

@@ -10,6 +10,7 @@ data:
   lore: [foxttm]
   parents: [thornwald]
   population: 300
+  market: local
   type: village
   borders: [{to: thornryth, bearing: W}, {to: frithhaven, bearing: SE}]
   routes:

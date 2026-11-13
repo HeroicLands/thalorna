@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [selatpelgunnome]
   population: 34000
+  market: regional
   packFolder: regkhsett
   government: selatsltplgn
   notes: "Selat capital of Selat-Pelgun."

@@ -10,6 +10,7 @@ data:
   lore: [flksenali]
   parents: [silvrfrsts]
   population: 120
+  market: local
   type: village
   government: nclvlrss
   packFolder: elavendre

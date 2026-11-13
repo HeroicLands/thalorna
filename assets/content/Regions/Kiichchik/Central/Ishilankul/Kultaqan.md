@@ -10,6 +10,7 @@ data:
   lore: [kiichchikclt]
   parents: [ixilankulrgn]
   population: 110000
+  market: international
   government: ixilankul
   packFolder: ixilankul
   notes: "The Seat of the Priests: the plateau city of Ish'ilankul where the Q'emul Tq'an sits at the Sacred Foundation, the Speaking Road has its central dispatch, and every pilgrim of the continent hopes to come once."

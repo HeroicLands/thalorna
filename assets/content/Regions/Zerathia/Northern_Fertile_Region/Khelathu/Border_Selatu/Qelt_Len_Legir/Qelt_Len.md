@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [qeltlenlegirnome]
   population: 15000
+  market: regional
   packFolder: regkhsett
   government: seltqltlnlgr
   notes: "Selat capital of Qelt-Len-Legir."

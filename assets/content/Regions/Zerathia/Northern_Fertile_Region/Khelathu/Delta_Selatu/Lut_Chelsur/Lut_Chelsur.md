@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [lutchelsrslt]
   population: 38000
+  market: regional
   packFolder: regkhsett
   government: selatltchlsr
   notes: "Selat capital of Lut-Chelsur."

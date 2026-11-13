@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ellive]
   population: 900
+  market: regional
   type: village
   government: kngdmlvndr
   packFolder: elavendre

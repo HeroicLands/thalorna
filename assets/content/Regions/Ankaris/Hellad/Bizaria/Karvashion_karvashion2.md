@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 40000
+  market: regional
   type: city
   government: karvashion
   notes: "The Green Caravanserai, a river-valley city at the junction of the eastern and southern caravan roads, run by its caravansary masters."

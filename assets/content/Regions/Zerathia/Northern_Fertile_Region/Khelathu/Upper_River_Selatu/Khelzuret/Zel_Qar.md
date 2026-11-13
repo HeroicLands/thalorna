@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [khelzuretslt]
   population: 6000
+  market: regional
   packFolder: regkhsett
   government: linzemnlzlqr
   notes: "Tomb-Workers' Village (walled)"

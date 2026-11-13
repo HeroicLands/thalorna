@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [orzara]
   population: 3000
+  market: local
   type: town
   government: vylarinmpr
   notes: "The Palvar, the Grand Palace of Orzara—the largest single structure in the known western world, a city of marble within the Inner City: terraced halls, throne rooms, hanging gardens, and private baths rising over the crown of Arvel, and the stage on which the Thordimalon is permitted to show off."

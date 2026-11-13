@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [rojai]
   population: 7500
+  market: international
   type: town
   government: shuiwojaidmn
   packFolder: jenchai

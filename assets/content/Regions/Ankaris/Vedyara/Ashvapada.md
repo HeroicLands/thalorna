@@ -11,7 +11,7 @@ data:
   parents: [bhumipalland]
   population: 3200
   type: town
-  market: 4
+  market: local
   routes:
     - {to: sandyapur, bearing: S, mode: land, days: 5, terrain: [road, desert]}
     - {to: marukupa, bearing: W, mode: land, days: 3, terrain: [road, hills, desert]}

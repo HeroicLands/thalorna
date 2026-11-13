@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ondareth]
   population: 2800
+  market: local
   type: town
   packFolder: eilwith
   government: repblcndrth

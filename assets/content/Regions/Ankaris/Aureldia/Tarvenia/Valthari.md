@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: 45000
+  market: international
   type: city
   routes:
     - {to: durvolka, bearing: W, mode: ship, days: 3, terrain: [coast]}

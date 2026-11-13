@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [milazun]
   population: 12000
+  market: regional
   government: gldbrdshmlr
   packFolder: taruzel
   notes: "The merchant town of Milazun, on the island's one good harbor: a market square that smells of attar of rose and resin, perfumers who make a scent for one wearer, and a Warden of the Seals who keeps the mark of every still-house on the island."

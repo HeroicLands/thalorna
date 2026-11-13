@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 540
+  market: local
   type: village
   packFolder: vedyara
   government: dnrktjnpd

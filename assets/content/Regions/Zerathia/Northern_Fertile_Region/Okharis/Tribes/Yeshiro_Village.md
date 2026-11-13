@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 180
+  market: local
   type: village
   packFolder: okharis
   government: yeshirotrb

@@ -15,6 +15,7 @@ data:
     - {to: lizela, bearing: E, mode: ship, days: 1, terrain: [coast]}
     - {to: harivrencity, bearing: N, mode: land, days: 5, terrain: [hills, road]}
   population: 45000
+  market: international
   type: city
   government: kngdmprvnz
   packFolder: provenzia

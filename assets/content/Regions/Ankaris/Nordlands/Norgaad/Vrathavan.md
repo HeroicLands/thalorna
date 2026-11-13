@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [norgaad]
   population: 800
+  market: regional
   packFolder: norgaad
   government: kingdmnrgd
   notes: "Fortified Harbor Town"

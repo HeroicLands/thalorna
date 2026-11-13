@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [yujai]
   population: 9000
+  market: international
   type: town
   government: wojaidmn
   packFolder: jenchai

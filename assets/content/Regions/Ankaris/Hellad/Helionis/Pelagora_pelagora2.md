@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [helionis]
   population: 40000
+  market: regional
   type: city
   government: pelagora
   notes: "The naval city of Helionis, a loud democracy of shipwrights and citizen-sailors built around one of the finest harbors on the central sea."

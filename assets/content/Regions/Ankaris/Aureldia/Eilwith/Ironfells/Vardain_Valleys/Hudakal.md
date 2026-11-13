@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 780
+  market: local
   type: village
   government: vrgldhld
   packFolder: eilwith

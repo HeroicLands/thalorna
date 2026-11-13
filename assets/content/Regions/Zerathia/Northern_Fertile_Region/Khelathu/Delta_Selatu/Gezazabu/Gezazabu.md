@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [gezazabuselt]
   population: 56000
+  market: international
   packFolder: regkhsett
   government: selatgezazab
   notes: "Selat capital of Gezazabu."

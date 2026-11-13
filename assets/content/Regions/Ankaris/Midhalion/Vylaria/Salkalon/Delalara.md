@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [salkhalon]
   population: 50000
+  market: international
   type: city
   routes: [{to: orzara, bearing: N, mode: land, days: 5, terrain: [road]}]
   packFolder: vylaria

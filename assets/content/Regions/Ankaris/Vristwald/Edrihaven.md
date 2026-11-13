@@ -10,6 +10,7 @@ data:
   lore: [otterttm]
   parents: [edriwald]
   population: 310
+  market: local
   type: village
   borders: [{to: eichholt, bearing: E}]
   routes:

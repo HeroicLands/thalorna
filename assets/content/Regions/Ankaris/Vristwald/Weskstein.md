@@ -10,6 +10,7 @@ data:
   lore: [bearttm]
   parents: [skathwald]
   population: 380
+  market: local
   type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald

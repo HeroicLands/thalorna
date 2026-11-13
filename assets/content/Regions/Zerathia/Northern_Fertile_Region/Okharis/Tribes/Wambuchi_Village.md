@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 310
+  market: local
   type: village
   packFolder: okharis
   government: wambuchitrb

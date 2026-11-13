@@ -11,6 +11,7 @@ data:
   lore: [tenlayaclt]
   parents: [wehioshtergn]
   population: 2500
+  market: local
   government: tenlaya
   packFolder: tenlaya
   notes: "Thunder Cliff: the greatest drive on the Cairn Plain, where four lanes of cairns meet at one sandstone cliff and several bands drive and butcher together each autumn, and where last year's meat rotted below the drop."

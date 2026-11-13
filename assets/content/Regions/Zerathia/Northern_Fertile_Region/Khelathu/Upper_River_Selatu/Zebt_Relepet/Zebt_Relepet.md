@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [zebtrelptslt]
   population: 28000
+  market: regional
   packFolder: regkhsett
   government: selatzbtrlpt
   notes: "Selat capital of Zebt-Relepet."

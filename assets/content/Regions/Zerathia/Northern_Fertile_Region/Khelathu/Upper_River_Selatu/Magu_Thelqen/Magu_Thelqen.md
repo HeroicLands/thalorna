@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [maguathenslt]
   population: 22000
+  market: regional
   packFolder: regkhsett
   government: selatmaguthn
   notes: "Selat capital of Magu-Thelqen."

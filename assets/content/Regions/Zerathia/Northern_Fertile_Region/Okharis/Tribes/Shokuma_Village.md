@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 120
+  market: local
   type: village
   packFolder: okharis
   government: shokumatrb

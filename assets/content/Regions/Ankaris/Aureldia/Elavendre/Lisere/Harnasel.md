@@ -13,6 +13,7 @@ data:
     - {to: hendrel, bearing: NE, mode: land, days: 5, terrain: [road]}
     - {to: coastroad, bearing: NE, mode: land, days: 10, terrain: [road]}
   population: 260
+  market: local
   type: village
   government: beaconfamlys
   packFolder: elavendre

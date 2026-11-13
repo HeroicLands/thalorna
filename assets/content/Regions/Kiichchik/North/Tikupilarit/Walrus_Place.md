@@ -11,6 +11,7 @@ data:
   lore: [tikupilaritclt]
   parents: [tikumanikrgn]
   population: 600
+  market: local
   government: tikupilarit
   packFolder: tikupilarit
   notes: "Walrus Place: the largest village of the Ice Coast, on a cape above a walrus beach, whose men's house is the greatest on the coast and the birthplace of the Messenger Feast."

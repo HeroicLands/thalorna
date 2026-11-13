@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [asturath]
   population: 3500
+  market: local
   type: town
   government: kngdmstrth
   routes: [{to: thumbalero, bearing: S, mode: land, days: 2, terrain: [mountains, road]}]

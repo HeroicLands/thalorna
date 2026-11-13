@@ -11,6 +11,7 @@ data:
   lore: [tenlayaclt]
   parents: [hesunshewanrgn]
   population: 1100
+  market: local
   government: tenlaya
   packFolder: tenlaya
   notes: "The Forks: the fortified downstream village of the Village River, nearest the One Fire, a third burned last winter in answer to the Coyote band's raids, whose lodge owners now refuse that band at the autumn trading."

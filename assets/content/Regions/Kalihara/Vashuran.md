@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [kaliharargn]
   population: 5000
+  market: international
   type: town
   packFolder: kalihara
   government: kalihara

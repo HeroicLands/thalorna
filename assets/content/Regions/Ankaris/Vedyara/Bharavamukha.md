@@ -11,7 +11,7 @@ data:
   parents: [vedyarargn, bharavarivr]
   population: 1100
   type: town
-  market: 3
+  market: local
   packFolder: vedyara
   government: janpdsvdyr
   notes: "The seasonal port at the mouth of the Bharava—landfall of the pilgrim road, outlet of the forest country, and the only place on that coast a ship can lie."

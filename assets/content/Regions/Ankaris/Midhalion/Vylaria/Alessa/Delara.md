@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alyssa]
   population: 12000
+  market: regional
   packFolder: vylaria
   government: provinclys
   notes: "A market town of inns, drovers' yards and warehouses on one of the great roads into the capital, whose weekly market gathers the produce of the heartland's estates and weighs it on the town's own bronze measures before it goes on to Orzara."

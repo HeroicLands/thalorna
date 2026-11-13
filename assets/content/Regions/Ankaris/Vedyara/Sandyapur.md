@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [bhumipalland, sandvsmdr]
   population: 12000
-  market: 4
+  market: local
   routes: [{to: ashvapada, bearing: N, mode: land, days: 5, terrain: [road, desert]}]
   packFolder: vedyara
   government: bhumipal

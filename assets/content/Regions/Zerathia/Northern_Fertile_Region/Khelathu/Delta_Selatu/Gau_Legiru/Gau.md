@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [gaulegirunome]
   population: 45000
+  market: regional
   packFolder: regkhsett
   government: selatgaulegr
   notes: "Market & Temple Town"

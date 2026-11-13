@@ -11,6 +11,7 @@ data:
   lore: [teyumiclt]
   parents: [wahaulahuvorgn]
   population: 300
+  market: local
   type: village
   government: teyumi
   packFolder: teyumi

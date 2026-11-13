@@ -11,6 +11,7 @@ data:
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
   population: 600
+  market: local
   government: shuqash
   packFolder: shuqash
   notes: "The Crossing Shore: a small town on the westernmost headland of the Bead Coast, where the souls of the dead go down to the sea and the astronomer-priests sing them across."

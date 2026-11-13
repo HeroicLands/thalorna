@@ -11,6 +11,7 @@ data:
   lore: [tikupilaritclt]
   parents: [tikumanikrgn]
   population: 250
+  market: local
   government: tikupilarit
   packFolder: tikupilarit
   notes: "Trading Shore: the southernmost village of the Ice Coast, where the Cedar People land every midsummer to trade, and where the watch on the headland looks for their war canoes."

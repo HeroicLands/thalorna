@@ -11,6 +11,7 @@ data:
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
   population: 4000
+  market: local
   government: shuqash
   packFolder: shuqash
   notes: "Canoe Place: the greatest harbor of the Bead Coast, where the Canoe Kin keep their house and their yard, the Sky Elder keeps the Measure, and the chiefs gather at midwinter."

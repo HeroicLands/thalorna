@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ironfells]
   population: 2000
+  market: local
   type: town
   government: vrgldhld
   packFolder: eilwith

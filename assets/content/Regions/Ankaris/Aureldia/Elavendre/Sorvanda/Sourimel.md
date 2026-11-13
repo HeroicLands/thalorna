@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [silvrfrsts]
   population: 600
+  market: local
   type: village
   government: kngdmlvndr
   packFolder: elavendre

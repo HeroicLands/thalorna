@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [norgaad]
   population: 600
+  market: local
   packFolder: norgaad
   government: kingdmnrgd
   notes: "Inland Trade Town"

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 560
+  market: local
   type: village
   packFolder: vedyara
   government: rajeprjnpd

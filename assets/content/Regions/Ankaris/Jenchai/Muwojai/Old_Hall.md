@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [zijai]
   population: 3200
+  market: local
   type: town
   government: muwojaidmn
   packFolder: jenchai

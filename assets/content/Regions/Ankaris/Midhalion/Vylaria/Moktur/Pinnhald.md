@@ -10,6 +10,7 @@ data:
   lore: [varokhiclt]
   parents: [moktur]
   population: 3000
+  market: local
   type: town
   packFolder: vylaria
   government: provncmktr

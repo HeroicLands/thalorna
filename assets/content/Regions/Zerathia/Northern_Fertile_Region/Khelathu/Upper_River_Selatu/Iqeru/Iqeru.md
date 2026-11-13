@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [iqeruselat]
   population: 33000
+  market: regional
   packFolder: regkhsett
   government: selatiqeru
   notes: "Selat capital of Iqeru, seat of the chief temple of Uqa'a, the solar flame."

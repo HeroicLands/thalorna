@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [neokbaatergn]
   population: 30000
+  market: regional
   type: city
   government: neokbaate
   packFolder: neokbaate

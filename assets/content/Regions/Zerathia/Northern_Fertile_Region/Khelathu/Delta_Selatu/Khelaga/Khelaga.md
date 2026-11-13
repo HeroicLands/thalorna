@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [khelagaselat]
   population: 26000
+  market: regional
   packFolder: regkhsett
   government: selatkhelaga
   notes: "Selat capital of Khelaga."

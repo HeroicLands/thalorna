@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [tashilar]
   population: 150000
+  market: international
   packFolder: taruzel
   government: bazunel
   notes: "The cultural heart of Taruzel on Tashilar's southern shore: a harbor of painted houses and open-air theaters, the Design Yards on its western arm, astronomers on its roofs, and a council that will not hand a fugitive back to the guilds he fled."

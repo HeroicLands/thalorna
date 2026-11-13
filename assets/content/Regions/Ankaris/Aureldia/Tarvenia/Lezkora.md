@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [asturath]
   population: 8000
+  market: regional
   government: kngdmstrth
   routes: [{to: thumbalero, bearing: W, mode: land, days: 1, terrain: [mountains, road]}]
   packFolder: tarvenia

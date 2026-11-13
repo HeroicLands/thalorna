@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [hylen]
   population: 2500
+  market: local
   type: town
   packFolder: vylaria
   government: provnchyln

@@ -11,6 +11,7 @@ data:
   parents: [swoasisbelt]
   routes: [{to: qisomrktcmp, bearing: N, mode: land, days: 20}]
   population: 26000
+  market: regional
   type: city
   government: tribestrzd
   packFolder: khazryndesert

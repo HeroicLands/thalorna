@@ -10,6 +10,7 @@ data:
   lore: [whalettm]
   parents: [falkhaven]
   population: 370
+  market: local
   type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald

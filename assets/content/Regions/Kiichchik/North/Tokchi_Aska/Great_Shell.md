@@ -11,6 +11,7 @@ data:
   lore: [tokchiliclt]
   parents: [koyalorgn]
   population: 5000
+  market: regional
   government: tokchiaska
   packFolder: tokchiaska
   notes: "The Great Shell, the largest of the shell towns: an island of heaped shell cut by canals, seat of the leading Shell Chief, home of the Sun's pledge and the ground of the Shell Fair."

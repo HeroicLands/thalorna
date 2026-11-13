@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [zuravlenrgn]
   population: 900
+  market: regional
   government: brnyzrvln
   packFolder: provenzia
   notes: "Zuravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."

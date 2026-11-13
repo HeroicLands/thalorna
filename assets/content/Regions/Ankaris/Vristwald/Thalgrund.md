@@ -10,6 +10,7 @@ data:
   lore: [badgerttm]
   parents: [edriwald]
   population: 230
+  market: local
   type: village
   borders: [{to: eichholt, bearing: W}]
   routes:

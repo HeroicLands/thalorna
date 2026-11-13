@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vylariargn]
   population: 900000
+  market: international
   routes:
     - {to: tyrellan, bearing: N, mode: land, days: 20, terrain: [road]}
     - {to: alyssar, bearing: W, mode: land, days: 1, terrain: [road]}

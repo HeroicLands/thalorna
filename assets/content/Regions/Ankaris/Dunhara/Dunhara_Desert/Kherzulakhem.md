@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 400
+  market: local
   type: encampment
   government: kherzlkhmcmp
   packFolder: dunharadesert

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [anlaghztnslt]
   population: 80000
+  market: international
   type: city
   packFolder: regkhsett
   government: selatnlghztn

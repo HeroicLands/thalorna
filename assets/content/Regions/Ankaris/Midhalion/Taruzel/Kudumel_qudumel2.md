@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [nishurel]
   population: 220000
+  market: international
   routes: [{to: amradadrgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}]
   packFolder: taruzel
   government: qudumel

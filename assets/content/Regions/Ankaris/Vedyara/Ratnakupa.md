@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 520
+  market: local
   type: village
   packFolder: vedyara
   government: suvrgrjnpd

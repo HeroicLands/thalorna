@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alndntrblnds]
   population: 1500
+  market: local
   type: town
   packFolder: elavendre
   government: aelndntrbs

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [galezkaraslt]
   population: 40000
+  market: regional
   type: city
   packFolder: regkhsett
   government: capitalselat

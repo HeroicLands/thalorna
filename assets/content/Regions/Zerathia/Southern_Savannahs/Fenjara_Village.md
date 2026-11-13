@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [sthrnsvnhs]
   population: 250
+  market: local
   type: village
   packFolder: southernsavannahs
   government: fenjara

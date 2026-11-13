@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [nordfells]
   population: 1800
+  market: regional
   type: town
   packFolder: eilwith
   government: jrldmstrmvld

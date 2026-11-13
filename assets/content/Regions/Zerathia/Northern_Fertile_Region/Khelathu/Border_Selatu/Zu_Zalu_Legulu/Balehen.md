@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [zuzalulegulunome]
   population: 24000
+  market: regional
   packFolder: regkhsett
   government: selatzuzllgl
   notes: "Fortress Town"

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [targud]
   population: 900
+  market: local
   packFolder: targud
   government: kingdmtrgd
   notes: "Town"

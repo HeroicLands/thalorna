@@ -11,6 +11,7 @@ data:
   lore: [kelwanukclt]
   parents: [yumisrgn]
   population: 1500
+  market: local
   government: kelwanuk
   packFolder: kelwanuk
   notes: "Bear Beach: the Bear House's village at the mouth of the South River, the southernmost of the coast, which receives the Northern Strand of beads, sells captives to every house, and means to take the first seat."

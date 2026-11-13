@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [asturath]
   population: 5000
+  market: regional
   type: town
   government: kngdmstrth
   packFolder: tarvenia

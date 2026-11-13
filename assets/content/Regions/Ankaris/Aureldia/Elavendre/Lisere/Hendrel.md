@@ -13,6 +13,7 @@ data:
     - {to: sarmelis, bearing: NE, mode: land, days: 5, terrain: [road]}
     - {to: harnasel, bearing: SW, mode: land, days: 5, terrain: [road]}
   population: 190
+  market: local
   type: village
   government: beaconfamlys
   packFolder: elavendre

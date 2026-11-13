@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [zugernome]
   population: 39000
+  market: regional
   packFolder: regkhsett
   government: selatzuger
   notes: "Selat capital of Zu-Ger."

@@ -11,6 +11,7 @@ data:
   lore: [osetakonaclt]
   parents: [kahsiotargn]
   population: 2000
+  market: local
   government: osetakona
   packFolder: osetakona
   notes: "The Kettle: the palisaded longhouse village by the Great Falls where the Grove's great council sits, and which is about to move."

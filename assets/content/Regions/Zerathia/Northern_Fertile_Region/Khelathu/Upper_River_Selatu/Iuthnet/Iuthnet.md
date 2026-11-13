@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [iuthnetselat]
   population: 42000
+  market: regional
   packFolder: regkhsett
   government: selatiuthnet
   notes: "Selat capital of Iuthnet, seat of the chief temple of Uzn'era, the mother-goddess."

@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [shikhalayaland]
   population: 40000
+  market: regional
   type: city
   routes: [{to: suryadvar, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice]}]
   packFolder: vedyara

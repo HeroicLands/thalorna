@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [byzariargn]
   population: 4000
+  market: regional
   type: town
   government: mgstrcythls
   packFolder: byzaria

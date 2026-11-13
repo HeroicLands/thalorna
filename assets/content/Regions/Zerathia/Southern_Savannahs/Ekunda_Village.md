@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [sthrnsvnhs]
   population: 400
+  market: local
   type: village
   packFolder: southernsavannahs
   government: ekunda

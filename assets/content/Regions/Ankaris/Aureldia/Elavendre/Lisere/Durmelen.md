@@ -15,6 +15,7 @@ data:
     - {to: morthalmrch, bearing: E, mode: land, days: 1, terrain: [coast, track]}
     - {to: edriwald, bearing: NE, mode: land, days: 5, terrain: [coast, track]}
   population: 340
+  market: local
   type: village
   government: durmelengrsn
   packFolder: elavendre

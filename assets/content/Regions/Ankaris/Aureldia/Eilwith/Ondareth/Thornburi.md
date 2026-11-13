@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [ondareth]
   population: 14000
+  market: international
   type: city
   packFolder: eilwith
   government: repblcndrth

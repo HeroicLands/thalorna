@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [alyssa]
   population: 25000
+  market: regional
   type: city
   packFolder: vylaria
   government: provinclys

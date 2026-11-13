@@ -10,6 +10,7 @@ data:
   lore: [hawkttm]
   parents: [vandstein]
   population: 450
+  market: local
   type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald

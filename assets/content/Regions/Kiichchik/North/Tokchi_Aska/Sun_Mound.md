@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [hokpargn]
   population: 15000
+  market: regional
   type: city
   government: tokchiaska
   packFolder: tokchiaska

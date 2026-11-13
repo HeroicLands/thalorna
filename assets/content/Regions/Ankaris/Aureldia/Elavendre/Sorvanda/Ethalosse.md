@@ -10,6 +10,7 @@ data:
   lore: [flksenali]
   parents: [alndntrblnds]
   population: 70
+  market: subsistence
   government: nclvthlss
   packFolder: elavendre
   culture: senaliclt
