@@ -43,7 +43,7 @@ Flarnthann Ulthidrok is the boss of a gang of twelve dockers who work the deep-s
 
 When the Council calls the levy, he and his gang serve in the boarding crews of the navy, who go over a raider's rail with short axes and hooks while the bowmen keep its deck clear. He has fought three times in the summer squadrons, and he is proud of the ear. On the morning of the census his gang dresses the old houses' hulls with flags and warps them into their berths for the tally-men.
 
-:::secret {title="The census warp"}
+:::secret {title="What the referee knows"}
 The factor of the [[affiliation-hsenorodari|Norodari]] counting-room on the lower quay has paid Flarnthann's gang to work for the Norodari on the morning of the spring census, warping three of the house's coasters from the lower quay to the far end of the Mole after the tally-men have counted them, so that they are counted again. He took the money because the old houses pay his gang late. He does not know whether [[being-kubasornrd|Kubasor Norodari]] knows of it, and he has told nobody, least of all [[being-hvulgmrvnd|Hvulgorv Murvendik]].
 :::
 

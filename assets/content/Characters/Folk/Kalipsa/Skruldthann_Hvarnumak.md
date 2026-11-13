@@ -43,7 +43,7 @@ Skruldthann Hvarnumak was Harbormaster of [[affiliation-calypsa|Kalipsa]] from t
 
 His term is remembered for the levy. He raised it twice to pay for the squadrons' new hulls, and the houses that pay it have not forgiven him. He sits with the old houses and dines in the Tvarnidrok hall, and the Council takes his first word on any question as the old houses' first word too.
 
-:::secret {title="Borrowed hulls"}
+:::secret {title="What the referee knows"}
 Hvarnumak's own tonnage fell below the census floor two springs ago. Two hulls on the census roll in the house's name are Tvarnidrok hulls, sold to Hvarnumak on paper for a sum never paid, and they keep its seat. Skruldthann casts his house's voices as [[being-knilthtvrn|Knilthorv Tvarnidrok]] asks, and would lose the seat, the precedence and the house's name on the roll if the census counted only what Hvarnumak owns.
 :::
 

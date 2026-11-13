@@ -80,7 +80,7 @@ data:
   packFolder: calypsa
 sohl: {system: {commonSkills: [nordmalng, valtarlng]}}
 
-# terran_analog: "A fictional island in the northern sea, about sixty-five miles long, seventy-five miles off the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and Norman Aureldian commerce."
+# terran_analog: "A fictional island in the northern sea, about fifteen miles across, seventy-five miles off the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and Norman Aureldian commerce."
 ---
 
 ## Overview {#overview}

@@ -27,6 +27,6 @@ Larad Lúavel wears the dark, plain cloth of a steward and carries a ring of key
 
 **Background.** A keen eye for detail and a strong grip on resources.
 
-:::secret {title="Debt and embezzlement"}
+:::secret {title="What the referee knows"}
 A serious gambler, deep in debt to [[affiliation-umbralcourt|the Umbral Court]] and embezzling from the mission's budget to cover it. The Court threatens to expose the debt and the theft, and to harm his daughter [[being-ilaraluavel|Ilara]], if he does not comply.
 :::

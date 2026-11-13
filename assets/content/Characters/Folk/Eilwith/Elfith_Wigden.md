@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [koldmere]
-  affiliations: {}
+  affiliations: {koldmermoot: {rank: 1, office: Reed-Reeve}}
   socialTies: {}
   gender: female
   species: humanflk

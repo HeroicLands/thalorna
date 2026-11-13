@@ -42,6 +42,10 @@ sohl: {system: {commonSkills: [aelwthlng]}}
 
 The **Free City of Veldareth** is the chartered government of [[place-veldareth|Veldareth]], a free city of about fifteen hundred people on [[place-eilwith|Eilwìth]]'s southern coast, where the coast road from the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] meets the land of the [[affiliation-repblcndrth|Republic of Ondareth]]. Its burgesses sit as the **Table**, and by the charter the master of the city's [[affiliation-panepistmm|Epistémion]] chapterhouse presides as Speaker. The Speaker is [[being-leofwldchlwl|Leofwald Chilwell]]. The city keeps a small watch, no army, and both realms' envoys at its table.
 
+## Current Situation {#present}
+
+Ondareth's envoys ask whose Speaker the Table's Speaker is. [[being-leofwldchlwl|Leofwald Chilwell]] presides as master of a chapterhouse that answers to the Synod's hierarchy, and the Synod governs one of the two realms the city is neutral between. He holds that the chapterhouse's scholarship and the Arcane Order's hierarchy are different things, and he has kept both realms at the Table for eleven years. [[affiliation-kingdmdnvr|Dúnavarre]] has asked to bring the matter of Ondareth's shipping and the compulsory call at Ravenmoor to the Table, and Ondareth has asked for the Table to meet without its Speaker. [[place-veldareth|Veldareth]] tells it in full.
+
 ## History {#history}
 
 The city bought its charter from the kings of [[affiliation-kingdmdnvr|Dúnavarre]] and from Ondareth's Senate in the same generation, before the Synod's rule, and gave the Speaker's chair to the master of its chapterhouse when the two realms first met at its table.

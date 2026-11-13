@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ondareth]
+  routes: [{to: stonyford, bearing: E, mode: land, days: 3, terrain: [hills, plain]}]
   population: 14000
   packFolder: eilwith
   government: repblcndrth

@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [calypsaisle]
+  routes: [{to: calypsacity, bearing: N, mode: land, days: 1, terrain: [hills, road]}]
   population: 17000
   government: calypsa
   packFolder: calypsa

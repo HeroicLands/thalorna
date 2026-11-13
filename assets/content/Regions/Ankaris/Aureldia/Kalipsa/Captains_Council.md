@@ -94,6 +94,9 @@ Nobody outside the houses addresses the Council. A petition reaches it through a
 
 ## See Also {#see-also}
 
+[[scenario-sprngsttng|The Spring Sitting of 720]]
+: the campaign frame for the election
+
 [[affiliation-calypsa|Kalipsa]]
 : the city-state the Council governs
 

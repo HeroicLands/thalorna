@@ -38,7 +38,7 @@ The ambassador’s commission
 The return
 : An expedition comes back with a report instead of the promised artifact. Aran must account for his offer at court and asks the travelers to set out exactly what they agreed to do and what they learned.
 
-:::secret {title="Favor and mistrust"}
+:::secret {title="Further hooks"}
 [[being-marricharavrel|Marrik Háravrel]] deliberately confides his office as Spymaster only to Aran. [[being-loristaravel|Loris Taravel]] has discovered it independently; neither Aran nor Marrik knows of that discovery.
 
 Promoted to the post recently, and part of the Synod's service holds that his rise owes more to private dealing and favor than to merit. He needs to prove his worth in everything he does, which strains his relations with his own party—and [[being-baridanalendavel|Baridan Aléndavel]] resents his authority outright, believing the position should have been his.

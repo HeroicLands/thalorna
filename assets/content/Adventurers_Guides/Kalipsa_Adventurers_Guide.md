@@ -58,8 +58,25 @@ The [[lore-sealaw|Sea-Law]] is the city's law of ships and cargoes, bonds and lo
 - **Invoking the Arcane Order.** The city's position is that the [[affiliation-ordoarcanis|Thordimalon]]'s authority stops at the waterline. Discreet magic is nobody's business; a mage who makes it the city's business is asked to leave.
 - **Assuming the villages are the city's.** The South Shore families hold their coves and their springs by their own custom, and they say so.
 
+## People to Meet
+
+The Harbormaster whose term is ending, the heads of the old houses and the new, and the arbitrator neither side trusts: these are the people a party meets first in Kalipsa, and most of them want something.
+
+- [[being-hrundthrsk|Hrundselda Thraskumak]], Harbormaster of Kalipsa and head of the shipwrights' house of Thraskumak, is in the last year of her single term and must certify the census that decides who follows her.
+- [[being-knilthtvrn|Knilthorv Tvarnidrok]], head of Tvarnidrok, the oldest house on the Captains' Council, leads the old houses' party and means to be elected Harbormaster at the spring sitting.
+- [[being-kubasornrd|Kubasor Norodari]], head of the Norodari, who rose in a decade on the fur trade through Sarmelis, leads the newer houses on the Council and means to keep the old houses from the Harbormaster's chain.
+- [[being-thilmrlthm|Thilminda Ralthumak]], a master arbitrator of the Sea-Law Hall, has sat forty years at the hearings and has never been bought; both parties to the hearing on the lost Norodari hulls want her in the third chair and neither trusts her.
+- [[being-vraldkrldd|Vraldselda Kruldidrok]], syndic of the Syndicate of the Gull, writes most of the bonds on the Kalipsa Run and has refused the Norodari bonds on three hulls lost in the autumn fog.
+- [[being-knurvhnrvn|Knurvorv Hnirvendik]], Guild Master of the pilots, licenses them, keeps the pilots' boat on its station and holds that none of the three Norodari masters lost in the fog took a pilot.
+- [[being-glurvmilhvr|Glurvmil Hvurnaruk]], a licensed pilot of the lower quay, boards incoming hulls off the Hounds and brings them in under the Lantern, and has never lost a hull he took.
+- [[being-snurvdrskr|Snurvinda Druskaruk]], hereditary keeper of the Lantern of Kalipsa, has trimmed its olive-oil lamps every night for twenty years and refuses the fish oil the Council's treasurers want burned in their place.
+- [[being-hvurnvrthm|Hvurnrinna Vrathumak]], elder of Vrellnes on the South Shore, locked the village spring-house against the city's water-carts in the dry summer and has told the other villages to do the same.
+- [[being-ralthannrulth|Ralthann Rultharuk]], Kalipsa's master mason, wants the shifted block of the Old Mole wedged before another storm opens the harbor works.
+- [[being-marvindnalth|Marvinda Naltharuk]], the Thordimalon's Kalipsan factor, seeks time to copy the newly exposed carving on the Old Mole before repairs cover it.
+
 ## Ways In
 
+- **The election of 720.** The party leaders of the Captains' Council hire outsiders to find leverage, votes and tonnage before the spring sitting, where Hrundselda Thraskumak's term ends and she may not stand again. [[scenario-sprngsttng|The Spring Sitting of 720]] is the campaign frame that joins the hearing, the census and the levy.
 - **A count nobody bought.** The Harbormaster needs strangers to walk the quays beside the tally-men at the spring census and count every hull, because the competing houses dispute the count. [[scenario-kalipsahulls|The Third Night and the Spring Count]] joins the census to the pending losses.
 - **The lost hulls.** The Norodari want proof that the pilots' boat was off its station on the eastern approaches the nights their hulls went down, and a witness from Sarmelis who saw the masters leave. Follow the evidence in [[scenario-kalipsahulls|The Third Night and the Spring Count]].
 - **The locked spring.** The city's water-carters want an escort to the South Shore, where the elder of Vrellnes has barred the village spring-house, and the villages want witnesses to their claim that the springs belong to them. [[scenario-vrellnesspring|The Key Above the Dye Vats]] begins at the barred spring-house.

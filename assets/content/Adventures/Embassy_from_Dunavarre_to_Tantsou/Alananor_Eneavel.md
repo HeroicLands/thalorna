@@ -27,6 +27,6 @@ Alananor Enéavel dresses plainly for the road, in a dark coat with stained cuff
 
 **Background.** Expert in alchemy and in producing the potions and remedies a long mission requires.
 
-:::secret {title="Recognition and resentment"}
+:::secret {title="What the referee knows"}
 Feels unacknowledged and underappreciated, and resents it. Could be manipulated into betraying the party for recognition.
 :::

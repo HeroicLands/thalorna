@@ -43,7 +43,7 @@ Thilminda Ralthumak is one of the master arbitrators of [[place-sealawhall|the S
 
 Every great house on the [[affiliation-captnscncl|Captains' Council]] has chosen her as its arbitrator at least once, and every great house has lost a hearing before her. Her fees are smaller than a bought arbitrator's, and the houses she has ruled against choose others when they can. The hearing on the three lost [[affiliation-hsenorodari|Norodari]] hulls has given her the worst year of her life: the two chosen arbitrators cannot agree on the third chair, both parties have named her privately, and neither will name her aloud.
 
-:::secret {title="The verdict of the winter hulls"}
+:::secret {title="What the referee knows"}
 Thilminda remembers a verdict that bears on [[being-knilthtvrn|Knilthorv Tvarnidrok]]'s census rule. A hull bought in winter, before its first voyage, was held by the hall about 590 to be wholly its buyer's from the day the price was paid, and the verdict has been recited with the rule on shares ever since. She has not recited it to anyone outside a hearing. She knows that a master arbitrator has been approached on Tvarnidrok's behalf, she does not know which, and she suspects the one whose grandson has lately been taken as an apprentice without paying a fee he could not have afforded.
 :::
 

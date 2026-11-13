@@ -46,7 +46,7 @@ Knilthorv Tvarnidrok is the head of [[affiliation-hsetvarnidrok|Tvarnidrok]], th
 
 He sailed the house's hulls to [[place-gnarthborg|Gnarthborg]] for twenty years before he took its seat, and he talks of the sea as a master does, in hulls and weather. He has led the old houses on the Council for a decade, and on last year's census they have the voices to make him Harbormaster when [[being-hrundthrsk|Hrundselda Thraskumak]]'s term ends. [[being-kubasornrd|Kubasor Norodari]] has bought hulls all winter to take those voices away, and Knilthorv has answered with the census rule: a hull bought in the winter should not be counted at the spring census until it has made a voyage for its house.
 
-:::secret {title="The third arbitrator"}
+:::secret {title="What the referee knows"}
 Knilthorv has not trusted the hearing on the lost Norodari hulls to the Sea-Law. Through one of the house's sworn masters he has paid the apprenticeship fee of the grandson of a master arbitrator, the one whom Tvarnidrok's chosen arbitrator keeps proposing as the third chair. The arbitrator has taken the fee and given no promise, and Knilthorv does not know which way he will recite. If the payment comes out before the hearing, the old houses lose the arbitrator, the hearing and very likely the election, and Kubasor Norodari is already looking for proof.
 :::
 

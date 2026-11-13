@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [stormplain]
+  routes: [{to: stormveil, bearing: E, mode: land, days: 3, terrain: [plain]}]
   population: 2500
   packFolder: eilwith
   government: jrldmstrmvld

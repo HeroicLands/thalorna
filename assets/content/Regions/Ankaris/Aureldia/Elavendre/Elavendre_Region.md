@@ -16,6 +16,9 @@ data:
     - {to: toravarrange, bearing: E}
     - {to: eskarath, bearing: SE}
     - {to: provenzrgn, bearing: S}
+  routes:
+    - {to: calypsaisle, bearing: N, mode: ship, days: 2, terrain: [coast, open-sea]}
+    - {to: eilwith, bearing: NW, mode: ship, days: 5, terrain: [coast, open-sea]}
   packFolder: elavendre
   government: kngdmlvndr
   culture: elavendriclt

@@ -43,7 +43,7 @@ Knurvorv Hnirvendik is the Guild Master of the pilots' guild of [[affiliation-ca
 
 The autumn has put his guild before [[place-sealawhall|the Sea-Law Hall]]. [the Syndicate of the Gull]{.name data-type="affiliation/venture"} has refused the bonds on three [[affiliation-hsenorodari|Norodari]] hulls lost in the fog, on the rule that a bond is not paid where a master refused a pilot. The three were lost on three nights within a fortnight, and Knurvorv has told the hall that the boat kept its station on every one of them and that none of the three masters hailed it. [[being-kubasornrd|Kubasor Norodari]] says the boat was not there to hail.
 
-:::secret {title="The third night"}
+:::secret {title="What the referee knows"}
 The boat came in early on the night the third hull was lost. Knurvorv's son was aboard it, the fog had thickened until the crew could not see the Hounds from the boat, and Knurvorv, standing on the quay, called it home with the horn two hours before dawn. The roster he gave the hall shows the boat on its station until morning, and the men of its crew have agreed to remember it so. The third Norodari hull went onto the Hounds in those two hours. On the nights the first two were lost the boat kept its station, and neither master hailed it.
 :::
 

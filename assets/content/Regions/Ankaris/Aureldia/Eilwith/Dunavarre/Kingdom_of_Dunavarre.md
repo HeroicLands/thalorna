@@ -38,7 +38,8 @@ data:
         description: >-
           Admitted to the Synod's instruction, sworn to its discipline and beginning to be trusted with its business.
     offices:
-      Captain-General: Commander of the realm's forces, appointed by the Synod and never himself a mage.
+      Prime Marendos: Presiding mage of the Synod and the realm's head of state, chosen by the Elder Marendos from among themselves.
+      Captain-General: Commander of the realm's forces, serving the Synod that appoints him and never himself a mage.
       Justiciar: Chief of the realm's courts, applying a law the Synod writes and may revise at will.
       Bursar: Keeper of the realm's revenue and of the Synod's own considerable endowment.
       Warden of the Ports: Officer of the harbors, their customs, and the licensing of what may enter the realm.
@@ -79,10 +80,13 @@ The Synod's rule gives Dúnavarre a character unlike any other Eilwìthan polity
 
 ## Officers of the Realm
 
-The Synod governs through officers it appoints, and every one of them answers to the closed session at [[place-ravenmoor|Ravenmoor]]:
+The Synod governs through officers it appoints, and every one of them answers to the closed session at [[place-ravenmoor|Ravenmoor]]. Its Prime is the realm's head of state:
+
+Prime Marendos
+: [[being-velisndorrvl|Velisande Orravel]], who presides in the closed session and speaks for the realm.
 
 Captain-General
-: [[being-orvandkthvl|Sir Orvand Kéthavel]], Knight-Marshal of the [[affiliation-justbladeordr|Order of the Just Blade]], who commands the realm's forces and is not a mage.
+: [[being-orvandkthvl|Sir Orvand Kéthavel]], Knight-Marshal of the [[affiliation-justbladeordr|Order of the Just Blade]], who commands the realm's forces in the Synod's service and is not a mage.
 
 Justiciar
 : [[being-ardelvornvl|Ardel Voranvel]], a temple judge of [[affiliation-ardavon|Árdavon]], who keeps the realm's courts under a law the Synod writes.

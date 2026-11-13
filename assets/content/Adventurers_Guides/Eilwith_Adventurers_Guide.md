@@ -12,7 +12,7 @@ data: {packFolder: adventurersguides, culture: aelwythanclt}
 >
 > A boat brings the harbor officers out to you. The first aboard is a woman in a long coat of charcoal wool with a brass chain of office at her throat, followed by a clerk with a writing board and a young man carrying a tray lined with gray felt. She looks at the ship before she looks at anyone on it, then at you. "Welcome to [[place-eilwith|Eilwìth]], friend, and well met," she says, quietly, in the formal way, and again in the court register of the [[skill-elvndrlng|Élavendri Language]] a ship from the mainland is owed: "_Shalor en kir a thel_," welcome, friend of the light. "I am [Ívelin of Ravenmoor]{.name data-type="being/npc"}, and I serve the [[affiliation-dunavarsynod|Synod]]." Her clerk dips his pen. She nods at the felt tray. "Your lading may bide. Hath your ship aught aboard that ye cannot explain?"
 
-Eilwìth is a large island of about seven hundred thousand people off the western coast of [[place-ankrscntnnt|Ankaris]], north-west of Élavendre, a long and dangerous sail from the mainland. Four realms share its coasts, a third of it is old forest that no plow has touched, and fog is the ordinary weather of the west. The island runs its affairs with the entire seriousness of a continent and almost no news of one: its lords hold court as though their precedence mattered beyond the next valley, and most Eilwìthans have no idea how small the island is.
+Eilwìth is a large island of some six hundred and seventy thousand people off the western coast of [[place-ankrscntnnt|Ankaris]], north-west of Élavendre, a long and dangerous sail from the mainland. Four realms share its coasts, a third of it is old forest that no plow has touched, and fog is the ordinary weather of the west. The island runs its affairs with the entire seriousness of a continent and almost no news of one: its lords hold court as though their precedence mattered beyond the next valley, and most Eilwìthans have no idea how small the island is.
 
 **The one thing to understand first: every ship that crosses calls at Ravenmoor.** The Synod of [[affiliation-ordoarcanis|Thordimalon]] mages that governs [[affiliation-kingdmdnvr|Dúnavarre]] requires every vessel between Eilwìth and the mainland to put in at Ravenmoor first, inbound and outbound. Its officers look for prohibited goods, and they record and often detain anything magical. The Synod meets every visitor before anyone else on the island does, and it is the only body on Eilwìth that knows how the island compares with the world.
 
@@ -27,6 +27,25 @@ An Eilwìthan attends the [[affiliation-arldnpnthn|Aureldian]] temple and also l
 [[place-wraymouth|Wreimouth]] is Dúnavarre's working harbor and [[place-dunmere|Dunmere]] Aldorath's walled seat. [[place-sunnerslade|Sunnerslade]] ripens a wine in the lee of [[place-ironfells|the Ironfells]] that has no business existing. In the high valleys of the Ironfells the [[lore-vardain|Vardain]], free remnant of the conquered north, live under the protection of the [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]].
 
 The island's reputation abroad is wrong about its people and right about its land. There are places where the fae are strong, deep in the forest and in the wild north, and the borders of the realms bend around them. [[lore-grukaraelwyth|Grukar]] have lived in the empty third of the island for seven hundred years. The tribes of the [[place-pshtrwldrns|Peshtar Wilderness]] live outside every realm, and the forest peoples are the most warlike of them. [[place-hallowwood|Seirasto]] on the south coast is the forest of Eilwìth's [[lore-flksenali|Senali]], and it does not receive visitors.
+
+## People to Meet
+
+The king who asks his barons for an heir, the Prime who presides over a Synod divided on the cost of its war, the war-leaders who raid three realms at once: these are the people a party meets first on Eilwìth, and most of them want something.
+
+- [[being-aldrikdrthng|Aldrik Drething]], King of Aldorath, rules from Dunmere by the barons' consent and asks the council of barons to accept his young son as king-to-be in his own lifetime.
+- [[being-velisndorrvl|Velisande Orravel]], the Prime Marendos of the Dúnavarre Synod and head of state, presides in the closed session at Ravenmoor while it divides over the cost of the war on the Seilvri.
+- [[being-taliravenvl|Talira Venavel]], Warden of the Ports of Dúnavarre, keeps the compulsory call at Ravenmoor's inspection quay and decides which relics may cross between Eilwìth and the mainland.
+- [[being-merraddovvrn|Sir Merrad Dovavren]], Knight-Captain of the West in the Order of the Just Blade, commands the war on the Seilvri from Kelivren and cuts the Order's road a few miles deeper into Teilvari every summer.
+- [[being-neilwa|Neilwa]], the Elder of the Seilvri, keeps the people's gathering and the rites of their dead in Teilvari, and means to reach the Hushwood to settle the dead the Order killed there.
+- [[being-harwingrymr|Harwin Greimore]], First Senator of the Republic of Ondareth, is in the last year of his term and wants a second.
+- [[being-godstanhrdl|Godstan Hardli]], the Vandraks of Ondareth's frontier legion at Kaermouth, wants another legion after the tribes of the Peshtar forest burned two of his watch-burgs.
+- [[being-ulthorvhrnd|Ulthorv Hrindaruk]], High Jarl of Stormveld, faces a call to put his seat to the jarls at Midsomar, and [[being-draskmilglrv|Draskmil Glarvendik]], Jarl of Drasknes, is the one who has made it.
+- [[being-taskain|Taskain]], War-Leader of the Bradhar of the Highwood, burned two of Ondareth's watch-burgs in the autumn and means to meet the legion in the pines.
+- [[being-kadrum|Kadrum]], War-Leader of the Durrask of the Thornwold, sends raiders against Aldorath's lake-shore manors, Dúnavarre's western estates and Ondareth's eastern horse-grazing at once.
+- [[being-oltessalasslnt|Oltessala Esselinto]], the Lonkunno and Keeper of the Wood, was raised by every voice of Seirasto's hearths and holds the wood and nothing beyond it.
+- [[being-davrimhssk|Davrim Hessek]], Reeve of the Vardain Valleys, speaks for the free Vardain at the Weighing Yard below Vorgald's Gate.
+- [[being-leofwldchlwl|Leofwald Chilwell]], Speaker of the Table of Veldareth, keeps Dúnavarre and Ondareth at one table while Ondareth asks whose Speaker he is.
+- [[being-elfithwgdn|Elfith Wigden]], reed-reeve of Koldmere, sets the village's reed-cutting and keeps its boats, and stands in the quarrel with Brinwold over the reed-beds at the lake's northern end.
 
 ## Ways In
 

@@ -43,7 +43,7 @@ Gerolt Sarne is the Flame-Warden named in the accounts of [[place-blackkilnprior
 
 He speaks with a priest’s certainty, answering questions about his charge and demanding a stranger’s authority before accepting an order. His mail bears a stamp of [[affiliation-sacredforge|The Sacred Forge]].
 
-:::secret {title="The Warden in the fire"}
+:::secret {title="Behind the presentation"}
 Sarne leads [[affiliation-blackflame|The Black Flame]] cell two generations before the present. The cell’s old accounts identify the officials who paid for the priory under the border office’s contract. He burns captive raiders as offerings, and the Shadow enters the fire with them. The clans throw him into his own kiln. What stands there believes it feeds [[lore-ustarondty|Ústaron]], but the fire is the Shadow’s door.
 :::
 
@@ -67,19 +67,19 @@ The farms keep children indoors on autumn nights. The clans that burn the priory
 
 ## Combat Strategy
 
-:::secret {title="The kiln confrontation"}
+:::secret {title="In a fight"}
 Sarne meets intruders at the pit among the cell’s dead. He believes he conducts a necessary offering. The party can fight him, interrupt the offerings, offer his own forge’s iron or challenge the purpose of the rite. His certainty gives a conversation something to work upon.
 :::
 
 ## Attack Methods
 
-:::secret {title="The Warden’s body"}
+:::secret {title="The attacks"}
 Sarne meets intruders at the pit among the cell’s dead and fights as a priest conducting an offering, striking with the burning touch described below; use [[being-damut|Damut]] for his body and for the dead around him. He answers talk and challenge as readily as blows. The confrontation follows [[scenario-blackfireblkkln|Cinders in the Dead Pines]].
 :::
 
 ## Special Abilities
 
-:::secret {title="The black fire"}
+:::secret {title="The abilities"}
 
 ### Burning touch
 

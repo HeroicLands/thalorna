@@ -43,7 +43,7 @@ Keeper Leofwald is the Threshold Keeper named in the registers of [[place-threnh
 
 He asks visitors to consider what the house requires. Its old plans and accounts connect his office with both the rites of the drowned and the sluice below the mound.
 
-:::secret {title="The thirteenth Keeper"}
+:::secret {title="Behind the presentation"}
 Leofwald is a [[being-tereb|Tereb]] on his thirteenth and last life. He raises drowned workers when the house cannot pay for living sluice labor; his novices later raise him with his altered rite. Close to, his face does not quite hold. He knows that another destruction is final.
 :::
 
@@ -55,7 +55,7 @@ The house receives the drowned of [[place-greylevels|The Greilevels]] for the ri
 
 He speaks patiently about plans, registers and the house’s duties. He holds the bell-rope in the crypt water and expects visitors to account for what they ask him to abandon.
 
-:::secret {title="Replacement keepers"}
+:::secret {title="Behind the behavior"}
 His drowned wear out. He rings the bell for living replacements, who are drowned in the crypt, raised and entered in the guests’ book. The workers turn the sluice at every ebb. He refuses to abandon that work, but can bargain over how it continues.
 :::
 
@@ -71,19 +71,19 @@ The Levels’ households tell of his repeated returns and leave the mound alone.
 
 ## Combat Strategy
 
-:::secret {title="A Keeper who cannot afford to lose"}
+:::secret {title="In a fight"}
 Leofwald keeps the congregation and deep water between himself and a threat, gives ground and offers talk. While talking he does not ring. Knowledge of his remaining life presses him toward a bargain for living workers or the sea’s own drowned instead of further takings.
 :::
 
 ## Attack Methods
 
-:::secret {title="The Keeper and congregation"}
+:::secret {title="The attacks"}
 Leofwald lets the drowned congregation fight for him, with the water and the bell’s ring behind them, and keeps it between himself and a threat; use [[being-damut|Damut]] for the congregation. When it reaches him he fights as a [[being-tereb|Tereb]], gently and without haste. His use of the bell and the water follows [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]].
 :::
 
 ## Special Abilities
 
-:::secret {title="The bell and the last life"}
+:::secret {title="The abilities"}
 
 ### The altered rite
 

@@ -143,6 +143,14 @@ The Khazari have never been hostile. They have simply never answered.
 
 The council of the hold sends [[being-valdantnvgrz|Valdan Tanv-guráz]] to the Gate as its Speaker, and the valleys call him the lord of [[affiliation-vrgldhld|Vorgald Hold]]. At the autumn tally he asked the Reeve of the Valleys how many more mouths the granaries would carry, because runaways still come over the passes from the plain. The Master of Works, [[being-rimiktbrslth|Rimik Tabar-suláth]], has gone down to the valleys herself to oversee the recutting of an old channel above Kalm. A band of Grukar from [[place-hornhall|Hornhall]], one of the hold's own abandoned hunting halls, reached the outer workings above Dorrin in the autumn and was killed there, and the Synod's yearly letter lies on the council's table, unanswered.
 
+## History {#history}
+
+Khazartúrn fell in 2427 BF, when a Senali outlaw wielding [[miscgear-secondvoice|the Second Voice]] took tens of thousands of Grukar from their spawners. The Senali recovered the Second Voice, and the two peoples agreed to hold it in trust on Eilwìth, by both races together. Six ships left Élavendre with it and went off the water without wreckage or survivors, and the hold has waited for the delivery since.
+
+[[lore-jointcrown|The Joint Crown]] began about 1585 BF, a single crown held by a Senali king over an island the Senali and the Khazari managed jointly for six hundred years. The Pelwar reached Eilwìth around 1200 BF, driven off the mainland by [[lore-varkhadcnq|the Varkhad Conquest]]. Two centuries of pressure became the Great War, and in 984 BF the king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]]. The surviving Senali withdrew into the forest that is now Seirasto and left the Khazari to finish the war alone.
+
+The Nordmen took the plain below in 660 AF ([[lore-stormveldtkn|the Taking of Stormveld]]), and the Khazari admitted the free Vardain of [[place-vardainvalleys|the valleys]] as refugees.
+
 ## See Also {#see-also}
 
 - [[lore-flkkhazar|Khazari]] · [[place-ironfells|the Ironfells]]

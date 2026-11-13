@@ -43,7 +43,7 @@ Leofmund Stormden answers for the treasury of the [[affiliation-repblcndrth|Repu
 
 This year the Senate has asked him to pay for a legion's levies on the frontier and for the fleet the shipping houses want sent north against Stormveld. He says the treasury cannot pay for both, and he has paid for neither.
 
-:::secret {title="The Flame's purse"}
+:::secret {title="What the referee knows"}
 Leofmund has served [[affiliation-blackflame|the Black Flame]] since his first seat, which its shrines paid for. The treasury cannot pay for the fleet and the frontier because a third of what it held at the year's start has gone, through Leofmund's hands, to the candidates the Flame is buying for next year's magistracies. The burn on his hand is the Flame's mark, and the ring covers it.
 :::
 

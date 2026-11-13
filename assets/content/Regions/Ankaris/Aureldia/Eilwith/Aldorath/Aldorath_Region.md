@@ -10,6 +10,12 @@ data:
   demonym: null
   lore: []
   parents: [eilwith]
+  borders:
+    - {to: stormveld, bearing: NW}
+    - {to: eilissa, bearing: W}
+    - {to: thornwold, bearing: SW}
+    - {to: dunavarre, bearing: S}
+    - {to: ironfells, bearing: N}
   population: 200000
   packFolder: eilwith
   government: kngdmldrth
