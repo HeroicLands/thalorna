@@ -4,7 +4,7 @@ name: {full: "Diamond, cut"}
 type: miscgear
 description: "Hardest stone, brilliant-cut gem refracting light into rainbow fire; marks extraordinary wealth."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

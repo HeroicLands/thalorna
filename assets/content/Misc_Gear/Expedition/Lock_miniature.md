@@ -4,7 +4,7 @@ name: {full: "Lock, miniature"}
 type: miscgear
 description: "Finger-length iron lock for jewelry boxes and caskets; master locksmith's fine craft."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: lock, secondary: [mtlc]}
   kbcat: expedition

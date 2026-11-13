@@ -4,7 +4,7 @@ name: {full: The Warm's Rod}
 type: miscgear
 description: "A living held stone of the Warm, shaped as a rod a forearm long, which warms in the hand while the Warm is tended and cools as the Warm cools."
 tags: [kaan-sul, kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
   kbcat: instruments
   system: {weightBase: 0.4, valueBase: 0, qualityBase: 0, durabilityBase: 20}

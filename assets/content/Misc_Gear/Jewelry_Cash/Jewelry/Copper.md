@@ -4,7 +4,7 @@ name: {full: Copper}
 type: miscgear
 description: "Pure copper in ingots or sheets; soft, corrosion-resistant, the base of every alloy."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

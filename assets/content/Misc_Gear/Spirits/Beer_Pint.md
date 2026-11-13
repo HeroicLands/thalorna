@@ -4,7 +4,7 @@ name: {full: "Beer, Pint"}
 type: miscgear
 description: "Weak cheap small-beer; laborer's drink; safe, ever-present in garrisons."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

@@ -4,7 +4,7 @@ name: {full: A Western Hull's Steering Oar}
 type: miscgear
 description: "The broad-bladed steering oar of a Kaliharan hull, cut by the shipwrights of Nalurithan with their mark in the loom, by which a hull from the island is known abroad."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   system: {weightBase: 6, valueBase: 40, qualityBase: 0, durabilityBase: 10}

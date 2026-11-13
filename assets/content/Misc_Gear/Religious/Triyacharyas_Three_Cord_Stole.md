@@ -4,7 +4,7 @@ name: {full: Triyacharya's Three-Cord Stole}
 type: miscgear
 description: "Temple regalia worn by a Triyacharya, its three cords standing for the three forms he alone is ordained to serve at once."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   craft: {skill: txtl, secondary: []}

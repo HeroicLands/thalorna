@@ -4,7 +4,7 @@ name: {full: Striking-Writ}
 type: miscgear
 description: "The notice a Taruzelian merchant house sends to every counting house, warehouse and ferry it deals with when it strikes a name from the house; whatever the house kept for the one struck is forgotten from that day."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.02, valueBase: 0, qualityBase: 0, durabilityBase: 2}}
 ---
 

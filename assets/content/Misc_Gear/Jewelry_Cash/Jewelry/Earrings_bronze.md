@@ -4,7 +4,7 @@ name: {full: "Earrings, bronze"}
 type: miscgear
 description: "Hard cast bronze pair; keeps its shape where softer wire pulls open."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

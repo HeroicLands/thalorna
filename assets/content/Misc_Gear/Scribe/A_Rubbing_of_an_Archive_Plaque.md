@@ -4,7 +4,7 @@ name: {full: A Rubbing of an Archive Plaque}
 type: miscgear
 description: "A charcoal rubbing on bark-cloth of a carved slab or inscribed plaque from a sanctuary's archive, the only form in which a slab leaves the archive."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.1, valueBase: 0, qualityBase: 0, durabilityBase: 3}}
 ---
 

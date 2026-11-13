@@ -4,7 +4,7 @@ name: {full: "Tarpaulin"}
 type: miscgear
 description: "Tarred canvas sheet for covering loads and shedding rain."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

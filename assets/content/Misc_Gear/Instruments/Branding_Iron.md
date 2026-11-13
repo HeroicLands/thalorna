@@ -4,7 +4,7 @@ name: {full: Branding Iron}
 type: miscgear
 description: "Forged rod with heraldic stamp, heated and pressed into cattle hide."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

@@ -4,7 +4,7 @@ name: {full: "Cauldron Tripod, Iron"}
 type: miscgear
 description: "Wrought-iron tripod frame for hanging cauldron over open fire."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

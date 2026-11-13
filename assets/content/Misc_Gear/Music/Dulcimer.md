@@ -4,7 +4,7 @@ name: {full: Dulcimer}
 type: miscgear
 description: "Trapezoidal frame with gut strings struck by hammers; sweet, haunting chiming voice."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

@@ -4,7 +4,7 @@ name: {full: "Rations, Standard"}
 type: miscgear
 description: "Bread, dried meat, cheese, fruit bundle for traveler's day of moderate labor."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: cook, secondary: []}
   kbcat: food

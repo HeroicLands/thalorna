@@ -4,7 +4,7 @@ name: {full: Cream}
 type: miscgear
 description: "Rich pale cream; enriches sauces and custards, highly perishable, used fresh."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

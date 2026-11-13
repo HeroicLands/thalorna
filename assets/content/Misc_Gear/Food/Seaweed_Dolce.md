@@ -4,7 +4,7 @@ name: {full: "Seaweed, Dolce"}
 type: miscgear
 description: "Dried coastal fronds rehydrating in broth, iodine-rich food and umami."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

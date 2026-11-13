@@ -4,7 +4,7 @@ name: {full: "Amber, cut"}
 type: miscgear
 description: "Translucent golden gem faceted by lapidary; glows warmly for modest jewelry."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

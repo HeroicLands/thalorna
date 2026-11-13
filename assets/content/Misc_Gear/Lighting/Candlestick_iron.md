@@ -4,7 +4,7 @@ name: {full: "Candlestick, iron"}
 type: miscgear
 description: "Iron socket with weighted base; holds candle upright for table or shelf."
 tags: [lighting]
-data: {icon: swapbag, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: lighting

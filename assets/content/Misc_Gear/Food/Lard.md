@@ -4,7 +4,7 @@ name: {full: Lard}
 type: miscgear
 description: "Rendered hog fat for cooking and food preservation, a kitchen staple."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

@@ -4,7 +4,7 @@ name: {full: "Honey, jar"}
 type: miscgear
 description: "Golden honey sealed in clay jar; sweetens porridge and mead, keeps years."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

@@ -4,7 +4,7 @@ name: {full: "Beads, ceramic, 12"}
 type: miscgear
 description: "Dozen fired clay beads, glazed in colour; cheap ornament and small trade goods."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: cmcs, secondary: []}
   kbcat: expedition

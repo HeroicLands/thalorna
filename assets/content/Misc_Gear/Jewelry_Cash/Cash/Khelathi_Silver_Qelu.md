@@ -4,7 +4,7 @@ name: {full: Khelathi Silver Qelu, en: [Silver Qelu, Silver Qezelet]}
 type: miscgear
 description: "Temple-attested silver weight-piece of one qelu; the wage and market denomination."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

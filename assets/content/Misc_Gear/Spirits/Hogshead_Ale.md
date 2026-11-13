@@ -4,7 +4,7 @@ name: {full: Hogshead Ale}
 type: miscgear
 description: "Fifty gallons pale ale; garrison staple; drains in weeks of daily supply."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

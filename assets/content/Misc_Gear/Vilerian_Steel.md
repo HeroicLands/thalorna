@@ -4,7 +4,7 @@ name: {full: Vilérian Steel, en: [Thalbezara Steel]}
 type: miscgear
 description: "The guarded steel of the Steel Guild of Thalbezara in Orzara's Outskirts, sold in bars and finished blades and known by the two marks struck into every piece."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: miscgear}
+data: {kind: miscgear, icon: icon-anvilbdg, templatePriority: null, packFolder: miscgear}
 sohl: {system: {weightBase: 2, valueBase: 80, qualityBase: 0, durabilityBase: 10}}
 ---
 

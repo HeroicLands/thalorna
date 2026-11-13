@@ -4,7 +4,7 @@ name: {full: "Trap, hunting, small"}
 type: miscgear
 description: "Compact gin-trap for rabbit and hare; sets a dozen along warren paths."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

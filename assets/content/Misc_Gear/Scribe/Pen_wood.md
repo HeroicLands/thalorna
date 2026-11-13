@@ -4,7 +4,7 @@ name: {full: "Pen, wood"}
 type: miscgear
 description: "Fruitwood or ash charred tip; cheap disposable; suits paper, cloth, tallies."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: scribe

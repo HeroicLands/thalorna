@@ -4,7 +4,7 @@ name: {full: K'otsel Cord, kiichek: [K'otsel]}
 type: miscgear
 description: "A cord of colored threads knotted in a system only trained readers decode; it carries numbers, tribute tallies and the day's count."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
   craft: {skill: txtl, secondary: []}

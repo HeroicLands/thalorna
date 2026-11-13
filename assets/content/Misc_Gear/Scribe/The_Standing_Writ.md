@@ -4,7 +4,7 @@ name: {full: The Standing Writ, en: [Standing Writ, Sekran Commission]}
 type: miscgear
 description: "The copy of the Sekran's two clauses of commission that every sekeros carries under his head's seal and reads aloud before every hearing, beginning with the first clause: to establish what happened at Alessa, and who did it."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.05, valueBase: 0, qualityBase: 0, durabilityBase: 3}}
 ---
 

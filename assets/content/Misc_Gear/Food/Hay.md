@@ -4,7 +4,7 @@ name: {full: Hay}
 type: miscgear
 description: "Sun-dried grasses bundled; feeds horses and livestock through winter reliably."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

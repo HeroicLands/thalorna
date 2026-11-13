@@ -4,7 +4,7 @@ name: {full: Tomatoes}
 type: miscgear
 description: "Round soft garden fruit, cooked in soups and stews, preserved dried."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

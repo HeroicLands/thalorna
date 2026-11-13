@@ -4,7 +4,7 @@ name: {full: "Chain, light"}
 type: miscgear
 description: "Thinner pliable iron link chain; secures smaller items and restrains prisoners' wrists."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

@@ -4,7 +4,7 @@ name: {full: "Mead, Pint"}
 type: miscgear
 description: "Sweet warming honey mead; festival drink at harvest feasts, noble celebrations."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

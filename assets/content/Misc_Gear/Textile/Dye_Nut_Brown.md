@@ -4,7 +4,7 @@ name: {full: "Dye, Nut Brown"}
 type: miscgear
 description: "Walnut hulls and iron salts; warm earthy brown for everyday working garments."
 tags: [clothing]
-data: {icon: roundpotion, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: dye

@@ -4,7 +4,7 @@ name: {full: "Cup, copper"}
 type: miscgear
 description: "Tinned copper cup; holds warmth well and suits mulled wine or mead."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

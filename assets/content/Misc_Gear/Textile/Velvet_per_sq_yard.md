@@ -4,7 +4,7 @@ name: {full: "Velvet, per sq yard"}
 type: miscgear
 description: "Piled silk-faced cloth of great price; court dress and hangings."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

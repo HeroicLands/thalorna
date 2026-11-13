@@ -4,7 +4,7 @@ name: {full: "Net, Weighted, per 5 ft sq."}
 type: miscgear
 description: "Hempen fishing net with lead weights for casting and sinking."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

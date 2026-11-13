@@ -4,7 +4,7 @@ name: {full: "Blanket, horse"}
 type: miscgear
 description: "Coarse woven blanket for a horse, under saddle or against the cold."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: tack

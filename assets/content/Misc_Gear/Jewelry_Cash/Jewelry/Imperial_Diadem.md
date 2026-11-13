@@ -4,7 +4,7 @@ name: {full: Imperial Diadem, en: [The Diadem, The Orzas's Diadem]}
 type: miscgear
 description: "The gold diadem of the Vilérian Orzas, made new for each reign as the coin's profile is renewed at each accession; whoever wears it holds the throne, and the Senate's strength rises and falls against his."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl: {kbcat: jewelry, system: {weightBase: 0.5, valueBase: 0, qualityBase: 0, durabilityBase: 15}}
 ---
 

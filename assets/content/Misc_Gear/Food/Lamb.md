@@ -4,7 +4,7 @@ name: {full: Lamb}
 type: miscgear
 description: "Tender pale meat; roasted whole or smoked into jerky for caravans."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

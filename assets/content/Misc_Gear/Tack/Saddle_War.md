@@ -4,7 +4,7 @@ name: {full: "Saddle, War"}
 type: miscgear
 description: "Steel-reinforced wood, high pommel, cantle; braces rider in lance-work, combat impacts."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: tack

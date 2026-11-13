@@ -4,7 +4,7 @@ name: {full: Brazier}
 type: miscgear
 description: "Cast-iron or bronze basin on tripod; holds coals for warmth and light."
 tags: [lighting]
-data: {icon: swapbag, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: lighting

@@ -4,7 +4,7 @@ name: {full: "Cloth, per sq yard"}
 type: miscgear
 description: "Standard woollen broadcloth, the common measure against which other cloth is priced."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

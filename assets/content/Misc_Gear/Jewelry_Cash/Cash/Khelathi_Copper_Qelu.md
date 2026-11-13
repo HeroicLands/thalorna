@@ -4,7 +4,7 @@ name: {full: Khelathi Copper Qelu, en: [Copper Qelu, Copper Qezelet]}
 type: miscgear
 description: "Sealed bronze piece at qelu weight; the smallest Khelathi denomination and everyday small change."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

@@ -4,7 +4,7 @@ name: {full: A Gem of the Interior}
 type: miscgear
 description: "An uncut stone, rounded by the river that carried it down from the Ring, of a kind the island alone yields."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   system: {weightBase: 0.02, valueBase: 150, qualityBase: 0, durabilityBase: 10}

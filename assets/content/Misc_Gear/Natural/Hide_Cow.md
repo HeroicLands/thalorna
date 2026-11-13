@@ -4,7 +4,7 @@ name: {full: "Hide, Cow"}
 type: miscgear
 description: "Dairy cow hide; tannery workhorse; russet leather for jerkins and breeches. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: natural

@@ -4,7 +4,7 @@ name: {full: "Oil, cinnamon"}
 type: miscgear
 description: "Distilled cinnamon oil; a costly perfumery base and a medicine."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: pfmy, secondary: []}
   kbcat: expedition

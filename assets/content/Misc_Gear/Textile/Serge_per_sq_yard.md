@@ -4,7 +4,7 @@ name: {full: "Serge, per sq yard"}
 type: miscgear
 description: "Cheap unfulled wool, coarse thread, rural work; brown and grey only."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

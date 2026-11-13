@@ -4,7 +4,7 @@ name: {full: "Horn, fanfare"}
 type: miscgear
 description: "Curved brass-bronze flared bell; triumphant blare for court heralds and royal processions."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

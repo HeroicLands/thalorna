@@ -4,7 +4,7 @@ name: {full: "Steel, Khazárian"}
 type: miscgear
 description: "Crucible steel of Khazárian make; far dearer than common steel, and far better."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

@@ -4,7 +4,7 @@ name: {full: "Hide, Ox"}
 type: miscgear
 description: "Prime even-grained oxhide; strong stock for saddles, breeches, shoe uppers. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: natural

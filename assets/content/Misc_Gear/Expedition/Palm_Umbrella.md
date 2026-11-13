@@ -4,7 +4,7 @@ name: {full: Palm Umbrella}
 type: miscgear
 description: "A wide, stiff palm-leaf parasol carried against sun and monsoon rain alike, folded flat for the road."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   system: {weightBase: 1.5, valueBase: 6, qualityBase: 0, durabilityBase: 5}

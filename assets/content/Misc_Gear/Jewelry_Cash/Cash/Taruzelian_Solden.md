@@ -4,7 +4,7 @@ name: {full: Taruzelian Solden}
 type: miscgear
 description: "Confederation gold coin of the Merazuni; slightly underweight against the imperial standard."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

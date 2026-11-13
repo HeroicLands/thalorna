@@ -4,7 +4,7 @@ name: {full: "Mirror, bronze"}
 type: miscgear
 description: "Hand-sized bronze mirror for signaling, grooming, and spotting pursuers."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

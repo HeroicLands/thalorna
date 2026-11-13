@@ -4,7 +4,7 @@ name: {full: "Horn, bone, hunting"}
 type: miscgear
 description: "Deer-antler or boar-tusk tapered tube; shrill note; low-cost, portable for common huntsmen."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: music

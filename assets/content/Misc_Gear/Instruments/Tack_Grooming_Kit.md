@@ -4,7 +4,7 @@ name: {full: Tack & Grooming Kit}
 type: miscgear
 description: "Leather satchel with currycomb, brushes, hoof pick, bridle awl, strap stock, oil; mount care and tack repair."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

@@ -4,7 +4,7 @@ name: {full: Beeswax}
 type: miscgear
 description: "Pale honey-colored cake; waterproofs leather, caulks wood, and makes fine candles."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: expedition

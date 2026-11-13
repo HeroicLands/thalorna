@@ -4,7 +4,7 @@ name: {full: "Dice, pack of 6"}
 type: miscgear
 description: "Six bone or wooden dice; used in taverns and camps for gaming."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: expedition

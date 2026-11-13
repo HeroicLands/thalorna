@@ -4,7 +4,7 @@ name: {full: Blotting Sand, en: [Drying Sand]}
 type: miscgear
 description: "Fine sand scattered over wet ink; absorbs moisture, prevents smudging."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: scribe

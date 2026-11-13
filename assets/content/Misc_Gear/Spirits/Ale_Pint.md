@@ -4,7 +4,7 @@ name: {full: "Ale, Pint"}
 type: miscgear
 description: "Pale ale in cup or horn; staple wage for laborers and soldiers."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

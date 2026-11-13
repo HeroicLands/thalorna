@@ -4,7 +4,7 @@ name: {full: Parchment}
 type: miscgear
 description: "Sheepskin stretched, chalked, pumiced; durable centuries, preferred for records."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: scribe

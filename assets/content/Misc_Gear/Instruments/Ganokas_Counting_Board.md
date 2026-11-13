@@ -4,7 +4,7 @@ name: {full: Ganoka's Counting-Board, en: [Notation Tablet]}
 type: miscgear
 description: "A slate and stylus carried by a working Ganoka; the tables and notation of the Reckoners' College, portable enough for a court's service."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
   kbcat: instruments
   system: {weightBase: 2, valueBase: 35, qualityBase: 0, durabilityBase: 7}

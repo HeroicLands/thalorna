@@ -4,7 +4,7 @@ name: {full: "Perfume, cheap"}
 type: miscgear
 description: "Coarse scent of common herbs in weak spirit; fades within the hour."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: pfmy, secondary: []}
   kbcat: expedition

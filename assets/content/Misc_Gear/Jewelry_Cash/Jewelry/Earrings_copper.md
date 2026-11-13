@@ -4,7 +4,7 @@ name: {full: "Earrings, copper"}
 type: miscgear
 description: "Cheap copper wire hoops; a child's first pair, easily replaced when lost."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

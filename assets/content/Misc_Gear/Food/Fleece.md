@@ -4,7 +4,7 @@ name: {full: Fleece}
 type: miscgear
 description: "Raw wool sheared or combed; fine yields soft yarn, coarse felts."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

@@ -4,7 +4,7 @@ name: {full: Vyalendri Indigo Bolt}
 type: miscgear
 description: "A loom-sealed bolt of indigo-dyed cloth out of Vyalendra Land, its color guaranteed by the Loom-Council's own mark."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: dye}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: dye}
 sohl:
   kbcat: dye
   craft: {skill: txtl, secondary: []}

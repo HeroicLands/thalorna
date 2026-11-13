@@ -4,7 +4,7 @@ name: {full: "Peas, crate"}
 type: miscgear
 description: "Dried legume bushel, stretches meat into thick nourishing pottage for garrisons."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

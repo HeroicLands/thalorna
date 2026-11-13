@@ -4,7 +4,7 @@ name: {full: "Clappers, bone"}
 type: miscgear
 description: "Carved bone blades hinged or strung; rhythmic snap for folk dances, processionals."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: music

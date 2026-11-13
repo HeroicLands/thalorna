@@ -4,7 +4,7 @@ name: {full: Rajavali Recitation-Roll}
 type: miscgear
 description: "The Memory-Keeper's own working roll—the displaced royal line's genealogy, recited whole on the Day of the Dissolution."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 2, valueBase: 0, qualityBase: 0, durabilityBase: 5}}
 ---
 

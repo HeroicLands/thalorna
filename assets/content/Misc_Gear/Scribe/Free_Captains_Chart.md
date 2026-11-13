@@ -4,7 +4,7 @@ name: {full: Free Captain's Chart}
 type: miscgear
 description: "A Free Captain's own chart of the Taruzelian channels on oiled linen, corrected by hand with the coves, soundings and night-marks no chart for sale shows; it never goes ashore, and the League would pay for any one of them."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.5, valueBase: 0, qualityBase: 0, durabilityBase: 6}}
 ---
 

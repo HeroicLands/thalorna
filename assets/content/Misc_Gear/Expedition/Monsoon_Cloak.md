@@ -4,7 +4,7 @@ name: {full: Monsoon Cloak}
 type: miscgear
 description: "A heavy oiled cloak cut for the coast's wet season, worn by anyone who travels while the rain calendar and the planting calendar disagree."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   craft: {skill: txtl, secondary: []}

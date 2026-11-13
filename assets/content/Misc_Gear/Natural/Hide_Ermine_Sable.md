@@ -4,7 +4,7 @@ name: {full: "Hide, Ermine/Sable"}
 type: miscgear
 description: "Small pelt of stoat or marten; snow-white or dark fur for cloak-trim. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural

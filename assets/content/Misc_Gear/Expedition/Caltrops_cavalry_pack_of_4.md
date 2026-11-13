@@ -4,7 +4,7 @@ name: {full: "Caltrops, cavalry, pack of 4"}
 type: miscgear
 description: "Four cast-iron implements with four points; slows mounted pursuers and damages hooves."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

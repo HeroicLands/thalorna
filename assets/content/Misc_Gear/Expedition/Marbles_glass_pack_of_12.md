@@ -4,7 +4,7 @@ name: {full: "Marbles, glass, pack of 12"}
 type: miscgear
 description: "Dozen polished glass spheres for play, ballast, and crude observation."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: glas, secondary: []}
   kbcat: expedition

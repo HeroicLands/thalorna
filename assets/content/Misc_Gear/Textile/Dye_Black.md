@@ -4,7 +4,7 @@ name: {full: "Dye, Black"}
 type: miscgear
 description: "Logwood or iron-tannate powder for deep, fast-set black cloth dye."
 tags: [clothing]
-data: {icon: roundpotion, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: dye

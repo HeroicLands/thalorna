@@ -4,7 +4,7 @@ name: {full: Lockcraft Kit}
 type: miscgear
 description: "Leather case with picks, files, hammer, key blanks; locksmith's tools."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

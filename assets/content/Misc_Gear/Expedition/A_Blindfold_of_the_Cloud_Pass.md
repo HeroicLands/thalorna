@@ -4,7 +4,7 @@ name: {full: A Blindfold of the Cloud Pass}
 type: miscgear
 description: "The woven band that binds the eyes of an outsider admitted inland, worn from the foot of the outer face to the terraces below the inner face."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   system: {weightBase: 0.1, valueBase: 0, qualityBase: 0, durabilityBase: 4}

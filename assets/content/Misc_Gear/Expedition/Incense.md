@@ -4,7 +4,7 @@ name: {full: Incense}
 type: miscgear
 description: "Frankincense, myrrh, or eastern spices; marks holy occasions and scents chambers."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: pfmy, secondary: []}
   kbcat: expedition

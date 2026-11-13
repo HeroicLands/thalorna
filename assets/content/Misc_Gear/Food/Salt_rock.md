@@ -4,7 +4,7 @@ name: {full: "Salt, rock"}
 type: miscgear
 description: "Mined rock salt, pure and dense, grinds fine, stores indefinitely."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: food

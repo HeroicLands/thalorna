@@ -4,7 +4,7 @@ name: {full: "Pan, copper, medium"}
 type: miscgear
 description: "Medium copper pan; even heat distribution for sauces and sautéing vegetables."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

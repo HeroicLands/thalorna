@@ -4,7 +4,7 @@ name: {full: Tinderbox}
 type: miscgear
 description: "Iron box with charred linen, steel striker, flint; kindles fire anywhere."
 tags: [lighting]
-data: {icon: swapbag, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: lighting

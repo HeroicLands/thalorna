@@ -4,7 +4,7 @@ name: {full: Dream-Stone}
 type: miscgear
 description: "A smooth stone consecrated in the Dream-Stone Blessing, taken home by a petitioner of the Dream Assembly to carry the chamber's stillness with him."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.3, valueBase: 40, qualityBase: 0, durabilityBase: 8}

@@ -4,7 +4,7 @@ name: {full: Credit-Tally}
 type: miscgear
 description: "The split stick of olive wood a caravan master carries out of Kudumel, notched with the silver the Balinuni advanced him; the house keeps the other half, and the debt is settled when the two halves are laid together at the Caravan Gate."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.3, valueBase: 0, qualityBase: 0, durabilityBase: 5}}
 ---
 

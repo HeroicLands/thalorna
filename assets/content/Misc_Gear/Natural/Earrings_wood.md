@@ -4,7 +4,7 @@ name: {full: "Earrings, wood"}
 type: miscgear
 description: "Carved wooden drops on a wire or thong; light enough to be worn all day."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: wood, secondary: [wood]}
   kbcat: natural

@@ -4,7 +4,7 @@ name: {full: Storm's Eye}
 type: miscgear
 description: "A palm-sized jade disk with a serpent's eye cut through it; the seal-stone of a serpent-keepers' branch."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.3, valueBase: 400, qualityBase: 0, durabilityBase: 20}

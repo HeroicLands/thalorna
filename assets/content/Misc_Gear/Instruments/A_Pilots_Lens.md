@@ -4,7 +4,7 @@ name: {full: A Pilot's Lens}
 type: miscgear
 description: "A palm-sized disc of ithasul, a living held stone of a current-stone, through which the broken water of a channel looks still."
 tags: [kaan-sul, kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
   kbcat: instruments
   system: {weightBase: 0.2, valueBase: 0, qualityBase: 0, durabilityBase: 20}

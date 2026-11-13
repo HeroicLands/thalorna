@@ -4,7 +4,7 @@ name: {full: Vedyaran Tomra, vedy: [tomra]}
 type: miscgear
 description: "Copper token coin struck by every Vedyaran kingdom, Chendrapur and Vyalendra, good at face only within the realm that struck it; the everyday coin of ordinary commerce."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

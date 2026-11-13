@@ -4,7 +4,7 @@ name: {full: "Icon, religious, wood, sm"}
 type: miscgear
 description: "Portable palm-sized icon for pilgrims and soldiers; kept at chest or shelf."
 tags: [religious]
-data: {icon: swapbag, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: religious

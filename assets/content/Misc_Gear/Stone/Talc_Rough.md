@@ -4,7 +4,7 @@ name: {full: "Talc, Rough"}
 type: miscgear
 description: "Soft slippery stone chunks; reduces friction, absorbs moisture; fullers, tanners, metalworkers."
 tags: [stone]
-data: {icon: swapbag, templatePriority: 0, packFolder: stone}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: stone}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: stone

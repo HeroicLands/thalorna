@@ -4,7 +4,7 @@ name: {full: Duck}
 type: miscgear
 description: "Dark rich meat with fat layer; roasted whole, fat renders for cooking."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

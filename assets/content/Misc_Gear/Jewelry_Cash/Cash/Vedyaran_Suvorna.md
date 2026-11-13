@@ -4,7 +4,7 @@ name: {full: Vedyaran Suvorna, vedy: [suvorna]}
 type: miscgear
 description: "Chendrapur's gold coin, struck from Suvargeri gold bought at the Weighing; the high-value coin of Vedyaran trade, reckoned at sixteen chendra and worth its gold anywhere."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

@@ -4,7 +4,7 @@ name: {full: "Hide, Horse"}
 type: miscgear
 description: "Supple durable horsehide; favored for saddles and armor linings by cavalry outposts. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: natural

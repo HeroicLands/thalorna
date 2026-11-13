@@ -4,7 +4,7 @@ name: {full: "Dye, Ochre Yellow"}
 type: miscgear
 description: "Ground ochre with iron mordants; earthy mustard yellow for peasant cloth."
 tags: [clothing]
-data: {icon: roundpotion, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: dye

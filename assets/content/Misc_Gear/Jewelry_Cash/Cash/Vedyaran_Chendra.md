@@ -4,7 +4,7 @@ name: {full: Vedyaran Chendra, vedy: [chendra]}
 type: miscgear
 description: "Silver coin struck by the Moon House at Chendrapur; the mid-value coin of Vedyaran trade, reckoned at eight tomra and worth its silver anywhere."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

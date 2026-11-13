@@ -4,7 +4,7 @@ name: {full: "Leather, Tanned, per sq yard"}
 type: miscgear
 description: "Finished vegetable-tanned stock sold by the yard for cordwainers and saddlers."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: natural

@@ -4,7 +4,7 @@ name: {full: "Necklace, copper"}
 type: miscgear
 description: "Copper chain or beaten collar; bright when new, green within the season."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

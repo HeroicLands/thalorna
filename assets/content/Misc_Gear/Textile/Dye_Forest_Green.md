@@ -4,7 +4,7 @@ name: {full: "Dye, Forest Green"}
 type: miscgear
 description: "Woad and madder blend; dark sage green favored by hunters and foresters."
 tags: [clothing]
-data: {icon: roundpotion, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: dye

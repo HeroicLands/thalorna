@@ -4,7 +4,7 @@ name: {full: Hand drill}
 type: miscgear
 description: "Spring-driven iron spindle with rocking crank; carpenters bore clean holes for rivets."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

@@ -4,7 +4,7 @@ name: {full: Trout}
 type: miscgear
 description: "Swift stream fish, delicate pink flesh, best cooked whole or smoked."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

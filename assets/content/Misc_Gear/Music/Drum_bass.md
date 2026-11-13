@@ -4,7 +4,7 @@ name: {full: "Drum, bass"}
 type: miscgear
 description: "Large oak-ash cylinder with ox-hide heads; deep boom signals maneuvers and cadence."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

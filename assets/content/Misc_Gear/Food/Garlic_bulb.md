@@ -4,7 +4,7 @@ name: {full: Garlic bulb}
 type: miscgear
 description: "Papery-skinned bulb of cloves; sharp pungent seasoning, keeps for months."
 tags: [food]
-data: {icon: herbsbundle, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: herbsbundle, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

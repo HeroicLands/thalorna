@@ -4,7 +4,7 @@ name: {full: "Ink, Green"}
 type: miscgear
 description: "Verdigris or woad-iron pigment; marks heraldic and legal ornament, light-sensitive."
 tags: [scribe]
-data: {icon: inkswirl, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: inkswirl, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: scribe

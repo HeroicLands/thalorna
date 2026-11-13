@@ -4,7 +4,7 @@ name: {full: Steel}
 type: miscgear
 description: "Carburised iron, twice the price; takes and holds an edge where iron will not."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

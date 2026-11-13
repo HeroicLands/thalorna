@@ -4,7 +4,7 @@ name: {full: "Holy Symbol, wood"}
 type: miscgear
 description: "Carved wooden sign of a god, worn on a thong or carried in the pack."
 tags: [religious]
-data: {icon: swapbag, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: religious

@@ -4,7 +4,7 @@ name: {full: "Cider, Pint"}
 type: miscgear
 description: "Fermented apple cider; mellow lightly sour; autumn harvest-market drink."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

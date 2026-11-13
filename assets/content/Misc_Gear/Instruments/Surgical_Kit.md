@@ -4,7 +4,7 @@ name: {full: Surgical Kit}
 type: miscgear
 description: "Oiled-leather case with lancets, bone saw, forceps, scalpels, probes; physicians for grave wounds."
 tags: [instruments]
-data: {icon: scalpel, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: scalpel, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

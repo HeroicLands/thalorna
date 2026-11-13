@@ -4,7 +4,7 @@ name: {full: Khelathi Gold Gezan, en: [Gold Gezan]}
 type: miscgear
 description: "Temple-attested gold weight-piece of one gezan; the largest Khelathi denomination."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

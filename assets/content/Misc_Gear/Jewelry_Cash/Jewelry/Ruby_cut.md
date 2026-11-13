@@ -4,7 +4,7 @@ name: {full: "Ruby, cut"}
 type: miscgear
 description: "Rarest gem; deep crimson corundum glowing like fire; marks power and wealth."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

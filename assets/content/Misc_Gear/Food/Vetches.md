@@ -4,7 +4,7 @@ name: {full: Vetches}
 type: miscgear
 description: "Small legume seeds, peasant porridge when simmered, enriches exhausted soil."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

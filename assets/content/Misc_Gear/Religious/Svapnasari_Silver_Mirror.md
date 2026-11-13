@@ -4,7 +4,7 @@ name: {full: Svapnasari Silver Mirror}
 type: miscgear
 description: "The polished silver disc a Dorshaka reads for a petitioner during the Mirror Year, without refusing a reading or accepting a fee."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   craft: {skill: mtlc, secondary: []}

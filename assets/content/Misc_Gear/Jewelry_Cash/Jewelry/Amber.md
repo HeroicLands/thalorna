@@ -4,7 +4,7 @@ name: {full: Amber}
 type: miscgear
 description: "Fossilized golden resin; craftspeople carve or polish into beads and ornaments."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

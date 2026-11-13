@@ -4,7 +4,7 @@ name: {full: A Rain-Rod}
 type: miscgear
 description: "A living held stone of one wind-stone, shaped as a rod; held up on the crest, it warms for a storm its wind-stone breaks and stays cold for a storm that comes over whole."
 tags: [kaan-sul, kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
   kbcat: instruments
   system: {weightBase: 0.4, valueBase: 0, qualityBase: 0, durabilityBase: 20}

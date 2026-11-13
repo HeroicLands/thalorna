@@ -4,7 +4,7 @@ name: {full: Taruzelian Ogdel, en: [Taruzelian Bit]}
 type: miscgear
 description: "Confederation eighth-piece of silver; small change across the Vilérian Sea trade."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

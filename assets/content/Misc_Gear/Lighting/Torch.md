@@ -4,7 +4,7 @@ name: {full: Torch}
 type: miscgear
 description: "Pitch-wrapped oakwood torch; bright, hot flame; common guard light, expendable."
 tags: [lighting]
-data: {icon: swapbag, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: lighting
