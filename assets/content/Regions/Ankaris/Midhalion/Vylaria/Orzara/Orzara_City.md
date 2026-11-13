@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vylariargn]
   population: 900000
+  type: metropolis
   market: international
   routes:
     - {to: tyrellan, bearing: N, mode: land, days: 20, terrain: [road]}
