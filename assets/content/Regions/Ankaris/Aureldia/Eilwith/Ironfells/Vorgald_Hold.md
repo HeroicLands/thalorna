@@ -48,7 +48,7 @@ data:
         Keeps the burial valley of Threndale and the graves of the free Vardain, and buries the valleys' dead.
   seat: vorgald
   population: 10500
-  territorial_population: 8400
+  territorial_population: 11000
   economy: []
   lore: [flkkhazar, vardain]
   parents: []

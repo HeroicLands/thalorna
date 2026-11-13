@@ -68,7 +68,7 @@ data:
       Ambassador: Envoy to a foreign power, instructed by the senate and reporting to it on return.
   seat: thornbury
   population: 150000
-  territorial_population: 21000
+  territorial_population: 150000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []

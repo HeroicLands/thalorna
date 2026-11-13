@@ -51,7 +51,7 @@ data:
         Held by a Factor named by the House. Accepts or refuses every vessel by guild protocol, and turns away any captain outside it.
   seat: sazumun2
   population: 2500000
-  territorial_population: 210000
+  territorial_population: 2500000
   economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]

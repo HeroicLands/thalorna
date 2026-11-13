@@ -48,7 +48,7 @@ data:
         Sky Elder: the eldest astronomer-priest, who sits at Kulaiwil, keeps the Measure and hears the quarrels between towns and between chiefs and priests at the Holding of the Sun.
   seat: null
   population: 350000
-  territorial_population: 9300
+  territorial_population: 350000
   economy: []
   lore: [shuqashclt]
   parents: []

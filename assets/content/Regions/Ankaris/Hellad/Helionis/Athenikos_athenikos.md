@@ -67,7 +67,7 @@ data:
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: athenikos2
   population: 560000
-  territorial_population: 55000
+  territorial_population: 560000
   economy: []
   lore: [humanflk]
   parents: [ctysttshlns]

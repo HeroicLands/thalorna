@@ -47,7 +47,7 @@ data:
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: qeltlen
   population: 280000
-  territorial_population: 15000
+  territorial_population: 280000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [borderselatu]

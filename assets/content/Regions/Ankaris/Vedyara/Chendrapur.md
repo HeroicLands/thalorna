@@ -65,7 +65,7 @@ data:
         Commander of the fleet, who answers for the river mouth and the coast and lets the galleys out by the sailing season.
   seat: chendrapur2
   population: 6000000
-  territorial_population: 110000
+  territorial_population: 6000000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: []

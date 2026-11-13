@@ -72,7 +72,7 @@ data:
         Held by a Freeman of Ezkoba. The senior of the six keepers of the Long Lamp, answerable to the crown for the lamp-due and the oil and to the town for the fire.
   seat: durvolka
   population: 1000000
-  territorial_population: 32000
+  territorial_population: 1000000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: [kingdmtrvn]

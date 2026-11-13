@@ -49,7 +49,7 @@ data:
         Held by a Freeman or above. Carries the crown's word to the lords, and rides to every lord with a seat in the High Hall when a High King dies.
   seat: lezkora
   population: 3500000
-  territorial_population: 240000
+  territorial_population: 3500000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: []

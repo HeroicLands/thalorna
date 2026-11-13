@@ -43,7 +43,7 @@ data:
     offices: {}
   seat: rinwu
   population: 41000
-  territorial_population: 3000
+  territorial_population: 41000
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]

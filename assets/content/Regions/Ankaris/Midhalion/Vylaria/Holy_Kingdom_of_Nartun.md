@@ -61,7 +61,7 @@ data:
         The priest-noble who keeps the king's seal and writes the crown's charters and grants, sitting in the king's council and in his own temple's chapter at once.
   seat: nartum
   population: 2500000
-  territorial_population: 61000
+  territorial_population: 2500000
   economy: [lore-vylrncrncy]
   lore: [humanflk]
   parents: []

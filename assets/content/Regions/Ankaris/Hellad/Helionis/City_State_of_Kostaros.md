@@ -67,7 +67,7 @@ data:
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: null
   population: 40000
-  territorial_population: 4000
+  territorial_population: 40000
   economy: []
   lore: [humanflk]
   parents: [ctysttshlns]

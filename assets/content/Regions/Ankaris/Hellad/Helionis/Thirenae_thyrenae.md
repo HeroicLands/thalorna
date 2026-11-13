@@ -67,7 +67,7 @@ data:
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: thyrenae2
   population: 610000
-  territorial_population: 60000
+  territorial_population: 610000
   economy:
     - affiliation-tarmex
     - affiliation-danvar

@@ -62,7 +62,7 @@ data:
         Captain of the militia, raised from the villages at the sabhra's call and dismissed when the need ends.
   seat: rajepur
   population: 25000
-  territorial_population: 9300
+  territorial_population: 25000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: [janpdsvdyr]

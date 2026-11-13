@@ -64,7 +64,7 @@ data:
         The heads of the twenty-eight hereditary panning-families, who meet quarterly, settle disputes among themselves and speak with one voice on the panning regime.
   seat: suvargeri
   population: 35000
-  territorial_population: 13000
+  territorial_population: 35000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: [janpdsvdyr]

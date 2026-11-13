@@ -50,7 +50,7 @@ data:
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: null
   population: 8000000
-  territorial_population: 720000
+  territorial_population: 8000000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [empireakhlth]

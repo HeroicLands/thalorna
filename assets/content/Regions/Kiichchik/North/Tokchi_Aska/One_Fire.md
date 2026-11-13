@@ -56,7 +56,7 @@ data:
         A Coal Bearer: an Honored runner of the Great Sun's household who carries the New Fire's coal to the towns and the Great Sun's word between New Fires. A Coal Bearer is under the fire's protection, and a town that harms one has put out its own fire.
   seat: hayopokta
   population: 1500000
-  territorial_population: 42000
+  territorial_population: 1500000
   economy: []
   lore: [tokchiliclt]
   parents: []

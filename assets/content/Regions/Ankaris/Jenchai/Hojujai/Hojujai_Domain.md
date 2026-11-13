@@ -43,7 +43,7 @@ data:
     offices: {}
   seat: yanwu
   population: 92000
-  territorial_population: 6000
+  territorial_population: 92000
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]

@@ -57,7 +57,7 @@ data:
         Recoverer of the dead from the gorges, and keeper of where each was found.
   seat: nurvhrn
   population: 9000
-  territorial_population: 290
+  territorial_population: 9000
   economy: [lore-bartercnmy]
   lore: [hvarnclt]
   parents: []

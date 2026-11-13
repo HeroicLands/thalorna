@@ -53,7 +53,7 @@ data:
         Held by a Flame-born of the holding tribe. Takes the toll on every loaded camel, the fee for a guide through the canal country and the levy for lodging where the caravan road enters the belt.
   seat: beitshofar
   population: 1000000
-  territorial_population: 190000
+  territorial_population: 1000000
   economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
   lore: [humanflk]
   parents: []

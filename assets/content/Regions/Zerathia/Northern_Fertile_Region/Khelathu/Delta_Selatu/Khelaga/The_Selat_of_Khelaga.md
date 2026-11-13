@@ -47,7 +47,7 @@ data:
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: khelaga
   population: 350000
-  territorial_population: 26000
+  territorial_population: 350000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [deltaselatu]

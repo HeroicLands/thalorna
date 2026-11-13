@@ -47,7 +47,7 @@ data:
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: khelenetzu
   population: 420000
-  territorial_population: 32000
+  territorial_population: 420000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [upperrivrslt]

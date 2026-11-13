@@ -58,7 +58,7 @@ data:
         Setter of a season's price against a caravan's worth, and keeper of what is owed between lineages.
   seat: oskhelt
   population: 21000
-  territorial_population: 1000
+  territorial_population: 21000
   economy: [lore-bartercnmy]
   lore: [osketclt]
   parents: []

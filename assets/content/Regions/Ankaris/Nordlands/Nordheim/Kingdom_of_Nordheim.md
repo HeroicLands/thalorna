@@ -73,7 +73,7 @@ data:
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: knalthstead
   population: 650000
-  territorial_population: 4100
+  territorial_population: 650000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
   lore: [nordheimnclt]
   parents: []

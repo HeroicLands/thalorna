@@ -67,7 +67,7 @@ data:
       Sarnaks Maldor: Chief priest of the state cult, an office the Orzas holds in his own person.
   seat: orzara
   population: 21000000
-  territorial_population: 1400000
+  territorial_population: 21000000
   economy:
     - affiliation-tarmex
     - affiliation-danvar

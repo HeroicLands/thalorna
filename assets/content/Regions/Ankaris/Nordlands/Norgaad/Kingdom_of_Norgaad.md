@@ -73,7 +73,7 @@ data:
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: asgarthul
   population: 400000
-  territorial_population: 2600
+  territorial_population: 400000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
   lore: [nordheimnclt]
   parents: []

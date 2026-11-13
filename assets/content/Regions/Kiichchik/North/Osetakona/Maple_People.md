@@ -52,7 +52,7 @@ data:
         Sapling: clan kin the great council lets sit and speak without a line's title, for a deed or a gift of speech; no clan mother can take the seat back, and it passes to no one at the sapling's death.
   seat: ostakaten
   population: 750000
-  territorial_population: 7800
+  territorial_population: 750000
   economy: []
   lore: [osetakonaclt]
   parents: []

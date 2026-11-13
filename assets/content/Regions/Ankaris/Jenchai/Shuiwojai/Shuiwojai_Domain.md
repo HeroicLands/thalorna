@@ -44,7 +44,7 @@ data:
       Keeper of the Salt Records: Held by the Besheju, who keep the roll of the salt pans and the salt owed to the granary at Hawu.
   seat: hawu
   population: 105000
-  territorial_population: 7500
+  territorial_population: 110000
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]

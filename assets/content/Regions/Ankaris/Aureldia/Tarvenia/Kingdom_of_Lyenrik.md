@@ -79,7 +79,7 @@ data:
         Held by Gentry. Officer of the harvest fair at Torvaleth, who keeps its peace and its measures, takes its tolls and hears its quarrels on the day they arise.
   seat: torvaleth
   population: 1000000
-  territorial_population: 73000
+  territorial_population: 1000000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: [kingdmtrvn]

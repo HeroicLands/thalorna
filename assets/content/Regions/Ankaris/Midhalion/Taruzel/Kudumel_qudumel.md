@@ -49,7 +49,7 @@ data:
         Held by a House Head named by the council. Inspects measures, coin and quality in the markets, in whatever language the bargain is struck.
   seat: qudumel2
   population: 2300000
-  territorial_population: 220000
+  territorial_population: 2300000
   economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]

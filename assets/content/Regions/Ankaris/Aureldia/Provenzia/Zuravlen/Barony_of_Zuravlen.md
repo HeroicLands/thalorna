@@ -27,7 +27,7 @@ data:
         Held by a Subject of the Lesser Nobility of the realm, who holds the barony of the Earl of Hárivren for the crown. Keeps the barony's courts and records, appoints the graders of Eltrembis for terms of three years, owns the drying yards and takes their share, and brings the barony's levy to the Earl.
   seat: elthrembis
   population: 12000
-  territorial_population: 3100
+  territorial_population: 12000
   economy: []
   lore: [humanflk]
   parents: [erldmhrvrn]

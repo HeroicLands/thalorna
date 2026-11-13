@@ -63,7 +63,7 @@ data:
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: ghavulavad
   population: 1000000
-  territorial_population: 1800
+  territorial_population: 1000000
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

@@ -43,7 +43,7 @@ data:
     offices: {}
   seat: zuwu
   population: 38000
-  territorial_population: 2200
+  territorial_population: 38000
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]

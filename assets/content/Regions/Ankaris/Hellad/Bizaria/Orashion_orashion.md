@@ -62,7 +62,7 @@ data:
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: orashion2
   population: 1600000
-  territorial_population: 45000
+  territorial_population: 1600000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]

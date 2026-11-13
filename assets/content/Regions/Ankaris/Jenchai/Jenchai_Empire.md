@@ -66,7 +66,7 @@ data:
         Court dignity conferring precedence and no function; each domain keeps its own watch over its officials.
   seat: lengwou
   population: 500000
-  territorial_population: 49000
+  territorial_population: 500000
   economy: []
   lore: [humanflk]
   parents: []

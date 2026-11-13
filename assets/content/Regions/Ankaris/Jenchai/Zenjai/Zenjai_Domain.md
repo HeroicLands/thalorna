@@ -44,7 +44,7 @@ data:
       Keeper of the Stables: Held by the Maiju, who keep the horse pastures of the domain and the roll of its mounts.
   seat: buiwu
   population: 52000
-  territorial_population: 2800
+  territorial_population: 52000
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]

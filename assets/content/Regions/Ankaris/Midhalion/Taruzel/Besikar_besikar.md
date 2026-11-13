@@ -52,7 +52,7 @@ data:
         Held by a House Head named by the council. Keeps the Grand Harbor, its naval yards on the northern arm and its fishing quays on the southern, and the dues levied on every hull that enters.
   seat: besikar2
   population: 3000000
-  territorial_population: 450000
+  territorial_population: 3000000
   economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]

@@ -50,7 +50,7 @@ data:
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: garanlaghet
   population: 1100000
-  territorial_population: 140000
+  territorial_population: 1100000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [deltaselatu]
