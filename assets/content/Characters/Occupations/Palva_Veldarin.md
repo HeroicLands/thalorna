@@ -25,6 +25,9 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [clear]
+    nose: upturned
+    brow: straight
+    mouth: full
     extra_features: [a tattoo of a bird in flight on the left shoulder]
   packFolder: aureldiaelavendre
 sohl:

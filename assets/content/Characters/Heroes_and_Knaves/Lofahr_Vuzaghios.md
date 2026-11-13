@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
+    nose: aquiline
     extra_features: [a tattoo of a serpent on the back]
   packFolder: helladbyzaria
 sohl:

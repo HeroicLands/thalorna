@@ -27,6 +27,7 @@ data:
     hair_color: chestnut
     skin_color: tanned
     complexion: [weathered]
+    hair_style: long
     extra_features: [a missing upper front tooth]
   packFolder: aureldiaaelwyth
 ---

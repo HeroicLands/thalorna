@@ -33,6 +33,7 @@ data:
     hair_color: white
     skin_color: light
     complexion: [sallow, wrinkled]
+    hair_style: cropped
     extra_features: [a tremor in both hands, a hollow at each temple where the flesh has gone]
   packFolder: midhalionvylaria
 ---

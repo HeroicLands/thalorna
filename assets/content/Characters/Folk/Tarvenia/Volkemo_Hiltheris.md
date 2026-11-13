@@ -26,6 +26,7 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [weathered, scarred]
+    facial_hair: short_beard
     extra_features: [old burn scars across both forearms, a beard singed short at the edges]
   packFolder: aureldiatarvenia
 ---

@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [frostbite scars on both ears]
   packFolder: aureldiaelavendre
 ---

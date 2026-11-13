@@ -25,6 +25,7 @@ data:
     hair_color: red
     skin_color: light
     complexion: [clear]
+    face_shape: angular
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

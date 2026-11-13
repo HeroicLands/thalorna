@@ -25,6 +25,10 @@ data:
     hair_color: chestnut
     skin_color: pale
     complexion: [clear]
+    hair_texture: wavy
+    face_shape: long
+    nose: narrow
+    mouth: full
     extra_features: [a tattoo of a snake on the chest]
   packFolder: aureldiaelavendre
 sohl:

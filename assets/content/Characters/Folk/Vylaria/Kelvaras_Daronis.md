@@ -31,6 +31,7 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [weathered, ruddy]
+    facial_hair: full_beard
     extra_features:
       - a full beard cut square
       - a pale shiny patch on the forehead where the anointing oil was poured

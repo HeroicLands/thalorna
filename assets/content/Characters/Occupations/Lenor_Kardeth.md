@@ -25,6 +25,10 @@ data:
     hair_color: silver
     skin_color: medium
     complexion: [smooth]
+    face_shape: heart
+    nose: straight
+    brow: straight
+    mouth: full
     extra_features: [a scar on the right elbow]
   packFolder: aureldiaelavendre
 sohl:

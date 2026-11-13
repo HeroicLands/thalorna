@@ -30,6 +30,8 @@ data:
     hair_color: black
     skin_color: golden
     complexion: []
+    face_shape: angular
+    brow: heavy
     extra_features: [a tattoo of dark green vines on the right upper arm and shoulder]
   packFolder: aureldiaprovenzia
 sohl:

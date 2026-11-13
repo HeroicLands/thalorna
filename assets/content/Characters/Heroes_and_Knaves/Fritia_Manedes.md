@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: []
+    face_shape: long
+    nose: aquiline
     extra_features: [a tattoo of a tree on the back]
   packFolder: helladbyzaria
 sohl:

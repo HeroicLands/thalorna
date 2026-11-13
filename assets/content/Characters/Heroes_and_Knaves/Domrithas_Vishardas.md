@@ -25,6 +25,8 @@ data:
     hair_color: greying_brown
     skin_color: pale
     complexion: [clear]
+    face_shape: long
+    nose: straight
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

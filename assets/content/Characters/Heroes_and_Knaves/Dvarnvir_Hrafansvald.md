@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: []
+    face_shape: angular
+    mouth: small
     extra_features: [a tattoo of a fire on the leg]
   packFolder: ankarisnordlands
 sohl:

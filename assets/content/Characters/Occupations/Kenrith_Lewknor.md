@@ -25,6 +25,9 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [freckled]
+    hair_texture: wavy
+    face_shape: long
+    nose: narrow
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

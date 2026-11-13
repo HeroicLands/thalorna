@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [sun_kissed]
+    hair_texture: wavy
+    face_shape: square
+    nose: aquiline
     extra_features: []
   packFolder: helladhelionis
 sohl:

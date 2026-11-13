@@ -25,6 +25,10 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [scarred]
+    hair_texture: wavy
+    face_shape: long
+    brow: arched
+    mouth: wide
     extra_features: [a scar running down the back]
   packFolder: aureldiaaelwyth
 sohl:

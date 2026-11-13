@@ -27,6 +27,7 @@ data:
     hair_color: greying_dark_brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: braided
     extra_features: [small and wiry]
   packFolder: aureldiaelavendre
 ---

@@ -24,6 +24,8 @@ data:
     hair_color: dark_blonde
     skin_color: light
     complexion: [scarred]
+    brow: heavy
+    mouth: small
     extra_features: [a scar on the right hand]
   packFolder: ankarisnordlands
 sohl:

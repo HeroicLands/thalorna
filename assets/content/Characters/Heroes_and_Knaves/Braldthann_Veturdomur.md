@@ -24,6 +24,10 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [ruddy]
+    face_shape: long
+    nose: straight
+    brow: heavy
+    mouth: thin
     extra_features: [a tattoo of a falcon on the right arm]
   packFolder: ankarisnordlands
 sohl:

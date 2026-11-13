@@ -29,6 +29,9 @@ data:
     hair_color: auburn
     skin_color: medium
     complexion: [smooth]
+    hair_texture: curly
+    nose: straight
+    mouth: full
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

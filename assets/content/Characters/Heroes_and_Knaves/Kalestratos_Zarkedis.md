@@ -28,6 +28,9 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [scarred]
+    hair_style: shoulder_length
+    face_shape: long
+    mouth: wide
     extra_features:
       - >-
         Faint burn scarring across both palms and the backs of the hands from years of Pirethos practice

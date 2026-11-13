@@ -25,6 +25,10 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [ruddy]
+    hair_texture: wavy
+    face_shape: round
+    brow: straight
+    mouth: thin
     extra_features: [a scar running down the back]
   packFolder: aureldiaaelwyth
 sohl:

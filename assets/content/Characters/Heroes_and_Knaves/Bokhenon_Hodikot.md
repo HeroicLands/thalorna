@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: light
     complexion: [sun_kissed]
+    face_shape: long
+    brow: heavy
+    mouth: wide
     extra_features: [a tattoo of a skill and crossbones on the chest]
   packFolder: helladbyzaria
 sohl:

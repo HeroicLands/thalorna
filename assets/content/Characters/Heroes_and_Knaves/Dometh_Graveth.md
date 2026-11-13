@@ -25,6 +25,8 @@ data:
     hair_color: greying_black
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
+    nose: aquiline
     extra_features: [a tattoo of a snake on the chest]
   packFolder: aureldiatarvenia
 sohl:

@@ -25,6 +25,10 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [scarred]
+    face_shape: long
+    nose: straight
+    brow: heavy
+    mouth: full
     extra_features: [a scar across the bridge of the nose]
   packFolder: midhalionvylaria
 sohl:

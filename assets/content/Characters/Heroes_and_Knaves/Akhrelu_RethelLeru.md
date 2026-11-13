@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [scarred]
+    face_shape: long
+    mouth: full
     extra_features: [a scar on the back of the left arm]
   packFolder: regkhhk
 sohl:

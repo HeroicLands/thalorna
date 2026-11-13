@@ -24,6 +24,9 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
+    nose: hooked
+    mouth: wide
     extra_features: [a scar on the left ear]
   packFolder: midhalionvylaria
 sohl:

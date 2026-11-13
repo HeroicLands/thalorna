@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [two fingers missing from the left hand]
   packFolder: aureldiaprovenzia
 ---

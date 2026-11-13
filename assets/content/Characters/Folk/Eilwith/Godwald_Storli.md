@@ -30,6 +30,7 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [wrinkled]
+    facial_hair: braided_beard
     extra_features: [a long white beard kept in a single plait]
   packFolder: aureldiaaelwyth
 ---

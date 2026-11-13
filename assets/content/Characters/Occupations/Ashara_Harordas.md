@@ -25,6 +25,8 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [sun_kissed]
+    face_shape: square
+    mouth: thin
     extra_features: [a tattoo of a dragonfly on the neck]
   packFolder: midhalionvylaria
 sohl:

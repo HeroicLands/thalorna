@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: dark_brown
     complexion: [clear]
+    face_shape: square
     extra_features: []
   packFolder: xerathiasouthernsavannahs
 sohl:

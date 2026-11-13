@@ -31,6 +31,7 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [scarred]
+    hair_style: cropped
     extra_features: [a flattened nose and a scar through the upper lip]
   packFolder: midhalionvylaria
 ---

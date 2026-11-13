@@ -24,6 +24,11 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [clear]
+    hair_style: cropped
+    face_shape: long
+    nose: straight
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: helladhelionis
 sohl:

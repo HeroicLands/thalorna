@@ -24,6 +24,9 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [weathered]
+    face_shape: broad
+    nose: broad
+    mouth: wide
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

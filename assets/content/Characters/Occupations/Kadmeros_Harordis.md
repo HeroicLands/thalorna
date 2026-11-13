@@ -25,6 +25,11 @@ data:
     hair_color: auburn
     skin_color: olive
     complexion: [smooth]
+    hair_style: short
+    face_shape: oval
+    nose: aquiline
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

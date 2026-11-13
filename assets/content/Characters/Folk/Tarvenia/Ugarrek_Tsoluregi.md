@@ -26,6 +26,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered]
+    nose: crooked
     extra_features: [a crooked nose]
   packFolder: aureldiatarvenia
 ---

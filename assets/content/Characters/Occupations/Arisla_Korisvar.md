@@ -26,6 +26,9 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered]
+    hair_style: braided
+    nose: aquiline
+    mouth: thin
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

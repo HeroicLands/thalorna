@@ -29,6 +29,9 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [clear]
+    face_shape: oval
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: dunharatribes
 sohl:

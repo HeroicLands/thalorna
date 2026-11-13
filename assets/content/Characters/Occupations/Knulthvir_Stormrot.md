@@ -24,6 +24,8 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [freckled]
+    hair_style: knotted
+    face_shape: square
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

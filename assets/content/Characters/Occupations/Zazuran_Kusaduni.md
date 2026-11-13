@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [weathered]
+    hair_style: cropped
+    face_shape: oval
+    nose: straight
+    mouth: wide
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

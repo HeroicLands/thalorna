@@ -26,6 +26,7 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: [chapped]
+    hair_style: cropped
     extra_features: [a white scar on the chin]
   packFolder: aureldiaelavendre
 ---

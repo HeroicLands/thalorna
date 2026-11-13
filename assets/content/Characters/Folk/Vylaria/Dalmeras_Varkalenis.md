@@ -37,6 +37,7 @@ data:
     hair_color: black
     skin_color: light
     complexion: [pasty, smooth]
+    hair_style: short
     extra_features:
       - the long Varkalenis nose of the masks in the cupboard
       - fingertips stained faintly yellow with beeswax

@@ -24,6 +24,9 @@ data:
     hair_color: auburn
     skin_color: fair
     complexion: [ruddy]
+    hair_style: knotted
+    face_shape: broad
+    mouth: full
     extra_features: [a tattoo of a heart on the chest]
   packFolder: ankarisnordlands
 sohl:

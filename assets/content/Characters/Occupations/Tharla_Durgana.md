@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [scarred]
+    hair_style: braided
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

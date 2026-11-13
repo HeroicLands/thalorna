@@ -25,6 +25,7 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [scarred]
+    hair_style: braided
     extra_features: [a scar on the left thigh]
   packFolder: aureldiaprovenzia
 sohl:

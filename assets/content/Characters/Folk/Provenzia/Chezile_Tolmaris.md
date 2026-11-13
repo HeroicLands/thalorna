@@ -27,6 +27,8 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [smooth]
+    hair_style: long
+    face_shape: long
     extra_features: [ink on the fingers of the right hand]
   packFolder: aureldiaprovenzia
 ---

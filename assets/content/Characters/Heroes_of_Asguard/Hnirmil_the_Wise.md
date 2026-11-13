@@ -24,6 +24,10 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [freckled]
+    hair_style: knotted
+    nose: aquiline
+    brow: heavy
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

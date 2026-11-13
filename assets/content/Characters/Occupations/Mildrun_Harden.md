@@ -25,6 +25,9 @@ data:
     hair_color: blonde
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
+    nose: narrow
+    brow: thin
     extra_features: [a tattoo of a snake on the chest]
   packFolder: aureldiaaelwyth
 sohl:

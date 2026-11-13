@@ -33,6 +33,7 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [clear]
+    hair_style: cropped
     extra_features: [a thin white scar across the back of the right hand]
   packFolder: aureldiaprovenzia
 ---

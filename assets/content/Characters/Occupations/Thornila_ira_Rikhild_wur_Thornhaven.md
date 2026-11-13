@@ -24,6 +24,10 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [rough]
+    hair_style: braided
+    face_shape: broad
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

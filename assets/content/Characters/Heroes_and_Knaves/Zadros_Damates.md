@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [sun_kissed]
+    face_shape: long
+    nose: snub
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

@@ -27,6 +27,7 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [ruddy]
+    hair_style: short
     extra_features: [small burn scars across both forearms]
   packFolder: aureldiaaelwyth
 ---

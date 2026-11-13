@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [sun_kissed]
+    mouth: full
     extra_features: [a tattoo of a woman on the shoulder]
   packFolder: ankariskhazryndesert
 sohl:

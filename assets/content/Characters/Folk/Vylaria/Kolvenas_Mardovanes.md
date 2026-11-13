@@ -35,6 +35,8 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [smooth]
+    hair_style: short
+    facial_hair: none
     extra_features: [the heavy Mardovanes jaw, a thin white scar across the back of the left hand]
   packFolder: midhalionvylaria
 ---

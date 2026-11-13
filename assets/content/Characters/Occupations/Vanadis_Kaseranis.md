@@ -25,6 +25,9 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [smooth]
+    face_shape: oval
+    nose: straight
+    brow: heavy
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

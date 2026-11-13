@@ -27,6 +27,7 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [clear]
+    hair_style: short
     extra_features: [fingertips hardened from the loom]
   packFolder: aureldiaelavendre
 ---

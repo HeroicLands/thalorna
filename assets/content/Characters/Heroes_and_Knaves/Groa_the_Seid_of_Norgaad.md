@@ -29,6 +29,8 @@ data:
     hair_color: blonde
     skin_color: pale
     complexion: []
+    hair_style: long
+    nose: narrow
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: brown
     complexion: [wrinkled]
+    hair_style: long
     extra_features: [blue tattooed lines on the backs of both hands]
   packFolder: aureldiaaelwyth
 ---

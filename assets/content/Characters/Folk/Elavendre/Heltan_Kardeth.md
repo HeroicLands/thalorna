@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [clear]
+    hair_style: cropped
     extra_features: [a healed cut across the left eyebrow]
   packFolder: aureldiaelavendre
 ---

@@ -25,6 +25,10 @@ data:
     hair_color: brown
     skin_color: fair
     complexion: [freckled]
+    hair_style: short
+    face_shape: oval
+    nose: narrow
+    brow: arched
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

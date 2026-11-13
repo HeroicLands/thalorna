@@ -30,6 +30,8 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [smooth]
+    hair_style: cropped
+    facial_hair: short_beard
     extra_features:
       - the blue ordination dot between the brows
       - fine burn scars across the backs of both hands

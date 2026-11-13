@@ -24,6 +24,10 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [weathered]
+    hair_style: knotted
+    face_shape: oval
+    brow: heavy
+    mouth: thin
     extra_features: [a tattoo of a serpent on the back]
   packFolder: ankarisnordlands
 sohl:

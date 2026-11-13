@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered, scarred]
+    hair_style: cropped
     extra_features: [a long scar from the left ear down the jaw]
   packFolder: aureldiaaelwyth
 ---

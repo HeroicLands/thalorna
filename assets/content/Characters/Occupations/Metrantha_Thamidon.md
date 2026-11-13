@@ -24,6 +24,10 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [clear]
+    hair_style: braided
+    face_shape: angular
+    brow: heavy
+    mouth: wide
     extra_features: []
   packFolder: helladhelionis
 sohl:

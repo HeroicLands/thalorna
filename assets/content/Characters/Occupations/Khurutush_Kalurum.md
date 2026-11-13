@@ -25,6 +25,8 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [smooth]
+    hair_style: cropped
+    nose: hooked
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

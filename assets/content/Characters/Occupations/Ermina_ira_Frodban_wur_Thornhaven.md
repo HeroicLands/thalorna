@@ -24,6 +24,9 @@ data:
     hair_color: red
     skin_color: pale
     complexion: [ruddy]
+    hair_style: braided
+    face_shape: broad
+    nose: straight
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

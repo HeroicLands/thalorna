@@ -25,6 +25,9 @@ data:
     hair_color: brown
     skin_color: fair
     complexion: [weathered]
+    hair_style: short
+    face_shape: long
+    brow: arched
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

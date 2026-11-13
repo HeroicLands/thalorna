@@ -27,6 +27,7 @@ data:
     hair_color: greying_black
     skin_color: tanned
     complexion: [weathered]
+    brow: heavy
     extra_features: [a pale scar across the right eyebrow]
   packFolder: aureldiatarvenia
 ---

@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [weathered]
+    face_shape: angular
+    nose: narrow
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

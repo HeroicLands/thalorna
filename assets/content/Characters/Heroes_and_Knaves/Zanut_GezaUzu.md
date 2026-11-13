@@ -25,6 +25,7 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [scarred]
+    mouth: full
     extra_features: [a scar on the left ear]
   packFolder: regkhhk
 sohl:

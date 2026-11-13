@@ -24,6 +24,10 @@ data:
     hair_color: brown
     skin_color: medium
     complexion: [smooth]
+    hair_style: braided
+    face_shape: round
+    nose: snub
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

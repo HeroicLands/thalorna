@@ -31,6 +31,7 @@ data:
     hair_color: greying_brown
     skin_color: fair
     complexion: [weathered]
+    nose: crooked
     extra_features: [a nose broken and badly set, a left hand stiff in the two smallest fingers]
   packFolder: aureldiaaelwyth
 ---

@@ -24,6 +24,9 @@ data:
     hair_color: greying_brown
     skin_color: medium
     complexion: [weathered]
+    hair_style: short
+    face_shape: square
+    nose: aquiline
     extra_features: [a scar on the abdomen]
   packFolder: helladhelionis
 sohl:

@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [weathered]
+    hair_style: braided
     extra_features: []
   packFolder: midhalionvylaria
 ---

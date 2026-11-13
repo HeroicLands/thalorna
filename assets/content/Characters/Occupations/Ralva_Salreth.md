@@ -25,6 +25,11 @@ data:
     hair_color: blonde
     skin_color: tanned
     complexion: [smooth]
+    hair_style: braided
+    face_shape: angular
+    nose: narrow
+    brow: arched
+    mouth: thin
     extra_features: [a tattoo of a skull on the upper arm]
   packFolder: aureldiaelavendre
 sohl:

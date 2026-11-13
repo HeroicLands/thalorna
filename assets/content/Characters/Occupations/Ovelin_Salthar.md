@@ -25,6 +25,8 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [smooth]
+    brow: thin
+    mouth: thin
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

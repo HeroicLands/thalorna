@@ -19,7 +19,12 @@ data:
   height: 6' 0"
   weight: 176 lbs
   frame: medium
-  appearance: {eye_color: brown, hair_color: black, skin_color: tawny, complexion: [clear]}
+  appearance:
+    eye_color: brown
+    hair_color: black
+    skin_color: tawny
+    complexion: [clear]
+    hair_style: short
   packFolder: ankarisvedyara
 sohl:
   items:

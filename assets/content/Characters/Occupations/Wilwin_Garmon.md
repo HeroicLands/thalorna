@@ -25,6 +25,11 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [scarred]
+    hair_style: short
+    face_shape: round
+    nose: narrow
+    brow: thin
+    mouth: wide
     extra_features: [a scar on the right calf]
   packFolder: aureldiaaelwyth
 sohl:

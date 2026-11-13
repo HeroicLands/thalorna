@@ -24,6 +24,8 @@ data:
     hair_color: greying_brown
     skin_color: tanned
     complexion: []
+    face_shape: angular
+    nose: aquiline
     extra_features: [a tattoo of a lion on the thigh]
   packFolder: helladbyzaria
 sohl:

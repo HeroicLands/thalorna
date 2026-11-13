@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: medium
     complexion: [clear]
+    facial_hair: full_beard
     extra_features: [limp, mustache, beard]
   packFolder: midhalionvylaria
 sohl:

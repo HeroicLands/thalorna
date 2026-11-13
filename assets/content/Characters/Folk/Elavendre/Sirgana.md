@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [weathered]
+    hair_style: braided
     extra_features: [a rope burn across both palms]
   packFolder: aureldiaelavendre
 ---

@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_style: cropped
     extra_features: [a scar on the left knee]
   packFolder: aureldiatarvenia
 sohl:

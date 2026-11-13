@@ -33,6 +33,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [smooth]
+    face_shape: long
     extra_features: [a narrow face with the Lédravren jaw]
   packFolder: aureldiaprovenzia
 ---

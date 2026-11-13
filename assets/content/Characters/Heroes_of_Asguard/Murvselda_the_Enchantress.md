@@ -24,6 +24,8 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [clear]
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

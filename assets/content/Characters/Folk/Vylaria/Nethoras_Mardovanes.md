@@ -36,6 +36,8 @@ data:
     hair_color: greying_brown
     skin_color: light
     complexion: [ruddy, smooth]
+    hair_style: short
+    facial_hair: none
     extra_features: [a clean-shaven heavy jaw, soft well-kept hands]
   packFolder: midhalionvylaria
 ---

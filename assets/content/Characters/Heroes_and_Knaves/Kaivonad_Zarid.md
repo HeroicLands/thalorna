@@ -24,6 +24,9 @@ data:
     hair_color: null
     skin_color: light
     complexion: [clear]
+    hair_style: shaved
+    face_shape: long
+    brow: heavy
     extra_features: [a bald head]
   packFolder: ankariskhazryndesert
 sohl:

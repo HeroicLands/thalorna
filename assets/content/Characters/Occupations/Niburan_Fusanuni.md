@@ -25,6 +25,9 @@ data:
     hair_color: grey
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_style: cropped
+    nose: hooked
+    mouth: full
     extra_features: [a tattoo of a horse on the thigh]
   packFolder: midhaliontaruzel
 sohl:

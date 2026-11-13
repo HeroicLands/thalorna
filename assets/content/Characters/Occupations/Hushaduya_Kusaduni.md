@@ -25,6 +25,10 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: braided
+    nose: straight
+    brow: heavy
+    mouth: wide
     extra_features: [a scar on the left ankle]
   packFolder: midhaliontaruzel
 sohl:

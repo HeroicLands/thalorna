@@ -24,6 +24,10 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_style: cropped
+    facial_hair: none
+    nose: hooked
+    mouth: thin
     extra_features: []
   packFolder: helladhelionis
 sohl:

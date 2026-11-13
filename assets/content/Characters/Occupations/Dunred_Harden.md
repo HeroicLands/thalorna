@@ -25,6 +25,10 @@ data:
     hair_color: blonde
     skin_color: medium
     complexion: [freckled]
+    face_shape: heart
+    nose: straight
+    brow: thin
+    mouth: thin
     extra_features: [a tattoo of a fire on the leg]
   packFolder: aureldiaaelwyth
 sohl:

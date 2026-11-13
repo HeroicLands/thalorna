@@ -30,6 +30,7 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [weathered]
+    hair_style: short
     extra_features: [a burn scar across the back of the right hand]
   packFolder: aureldiaprovenzia
 ---

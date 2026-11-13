@@ -30,6 +30,7 @@ data:
     hair_color: grey
     skin_color: pale
     complexion: [rough]
+    facial_hair: short_beard
     extra_features: [an old scar along the line of the jaw]
   packFolder: aureldiaaelwyth
 ---

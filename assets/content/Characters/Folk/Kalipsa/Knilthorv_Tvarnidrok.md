@@ -30,6 +30,8 @@ data:
     hair_color: grey
     skin_color: fair
     complexion: [ruddy, weathered]
+    hair_style: cropped
+    facial_hair: short_beard
     extra_features: [a close-cut beard, a broad white scar across the back of his right hand]
   packFolder: aureldiacalypsa
 ---

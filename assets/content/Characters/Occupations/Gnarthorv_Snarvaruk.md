@@ -24,6 +24,9 @@ data:
     hair_color: dark_blonde
     skin_color: light
     complexion: []
+    face_shape: oval
+    nose: straight
+    brow: heavy
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -30,6 +30,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [sun_kissed, weathered]
+    hair_style: long
     extra_features: []
   packFolder: aureldiaaelwyth
 ---

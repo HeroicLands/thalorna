@@ -19,7 +19,12 @@ data:
   height: 5' 6"
   weight: 138 lbs
   frame: medium
-  appearance: {eye_color: brown, hair_color: black, skin_color: tanned, complexion: [weathered]}
+  appearance:
+    eye_color: brown
+    hair_color: black
+    skin_color: tanned
+    complexion: [weathered]
+    hair_style: braided
   packFolder: ankarisvedyara
 sohl:
   items:

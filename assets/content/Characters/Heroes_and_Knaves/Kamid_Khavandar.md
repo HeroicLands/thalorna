@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [ruddy]
+    face_shape: long
+    mouth: full
     extra_features: [a tattoo of a phoenix on the chest]
   packFolder: ankariskhazryndesert
 sohl:

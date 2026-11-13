@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [clear]
+    hair_style: long
     extra_features: [ink-stained fingers]
   packFolder: aureldiaelavendre
 ---

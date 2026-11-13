@@ -25,6 +25,8 @@ data:
     hair_color: white
     skin_color: light
     complexion: [freckled]
+    hair_style: long
+    mouth: wide
     extra_features: [a scar on the left eye]
   packFolder: aureldiaelavendre
 sohl:

@@ -31,6 +31,7 @@ data:
     hair_color: greying_black
     skin_color: light
     complexion: [weathered, scarred]
+    hair_style: cropped
     extra_features: [a stiff left knee]
   packFolder: aureldiaaelwyth
 ---

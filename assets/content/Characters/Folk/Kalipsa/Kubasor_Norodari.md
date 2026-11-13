@@ -30,6 +30,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [clear]
+    hair_style: short
     extra_features: [ink-stained fingers, a thin scar through his left eyebrow]
   packFolder: aureldiacalypsa
 ---

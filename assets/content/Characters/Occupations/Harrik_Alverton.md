@@ -25,6 +25,10 @@ data:
     hair_color: white
     skin_color: pale
     complexion: [ruddy]
+    hair_style: short
+    face_shape: long
+    nose: narrow
+    brow: arched
     extra_features: [a scar on the left side of the ribcage]
   packFolder: aureldiaaelwyth
 sohl:

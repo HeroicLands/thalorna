@@ -27,6 +27,7 @@ data:
     hair_color: silver
     skin_color: fair
     complexion: [smooth]
+    hair_style: short
     extra_features: [the last two fingers of the right hand gone at the second joint]
   packFolder: aureldiaaelwyth
 ---

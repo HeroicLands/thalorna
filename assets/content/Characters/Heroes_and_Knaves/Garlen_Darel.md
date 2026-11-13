@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: light
     complexion: [sun_kissed]
+    hair_style: short
+    face_shape: long
     extra_features: [a scar running down the right leg]
   packFolder: aureldiaelavendre
 sohl:

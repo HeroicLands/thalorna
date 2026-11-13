@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [sun_kissed]
+    face_shape: oval
     extra_features: [a scar on the left thigh]
   packFolder: helladbyzaria
 sohl:

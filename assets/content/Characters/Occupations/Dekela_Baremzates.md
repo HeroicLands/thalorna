@@ -25,6 +25,10 @@ data:
     hair_color: auburn
     skin_color: olive
     complexion: [ruddy]
+    face_shape: angular
+    nose: hooked
+    brow: heavy
+    mouth: wide
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

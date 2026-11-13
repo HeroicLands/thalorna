@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    hair_style: short
+    face_shape: broad
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

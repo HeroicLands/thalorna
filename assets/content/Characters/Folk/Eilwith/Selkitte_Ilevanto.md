@@ -30,6 +30,7 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [smooth]
+    hair_style: braided
     extra_features: [a long pale scar down the outside of the right forearm]
   packFolder: aureldiaaelwyth
 ---

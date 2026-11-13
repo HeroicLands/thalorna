@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: shaved_sides
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

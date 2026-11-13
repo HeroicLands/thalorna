@@ -24,6 +24,8 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [clear]
+    face_shape: oval
+    brow: straight
     extra_features: [a tattoo of a butterfly on the neck]
   packFolder: helladhelionis
 sohl:

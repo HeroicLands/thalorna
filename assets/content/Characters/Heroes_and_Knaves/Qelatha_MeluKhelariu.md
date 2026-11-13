@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: []
+    face_shape: long
     extra_features: [a tattoo of a spider on the shoulder]
   packFolder: regkhhk
 sohl:

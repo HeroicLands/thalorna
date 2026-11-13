@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [clear]
+    face_shape: oval
     extra_features: []
   packFolder: ankarisvedyara
 sohl:

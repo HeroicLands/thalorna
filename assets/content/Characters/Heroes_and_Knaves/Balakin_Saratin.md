@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [sun_kissed]
+    hair_style: cropped
   packFolder: ankarisvedyara
 sohl:
   items:

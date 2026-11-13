@@ -27,6 +27,7 @@ data:
     hair_color: silver
     skin_color: light
     complexion: [clear]
+    hair_style: braided
     extra_features: []
   packFolder: aureldiaelavendre
 ---

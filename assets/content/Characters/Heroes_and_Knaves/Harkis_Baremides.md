@@ -25,6 +25,10 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [ruddy]
+    face_shape: long
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: [a scar on the left calf]
   packFolder: midhalionvylaria
 sohl:

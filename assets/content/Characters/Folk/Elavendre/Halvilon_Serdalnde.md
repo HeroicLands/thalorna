@@ -27,6 +27,8 @@ data:
     hair_color: greying_brown
     skin_color: fair
     complexion: [smooth]
+    hair_style: short
+    face_shape: long
     extra_features: [the chancery seal on a ribbon at his wrist]
   packFolder: aureldiaelavendre
 ---

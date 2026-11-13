@@ -35,6 +35,8 @@ data:
     hair_color: grey
     skin_color: tawny
     complexion: [smooth]
+    facial_hair: short_beard
+    face_shape: round
     extra_features: [a round face with a short gray beard, plump soft hands]
   packFolder: midhaliontaruzel
 ---

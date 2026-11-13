@@ -24,6 +24,10 @@ data:
     hair_color: blonde
     skin_color: light
     complexion: [clear]
+    hair_texture: wavy
+    hair_style: long
+    nose: straight
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -24,6 +24,8 @@ data:
     hair_color: white
     skin_color: brown
     complexion: [clear]
+    nose: aquiline
+    mouth: full
     extra_features: []
   packFolder: heroesandknaveskalihara
 sohl:

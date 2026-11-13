@@ -29,6 +29,7 @@ data:
     hair_color: white
     skin_color: olive
     complexion: [sun_kissed, wrinkled]
+    hair_style: shoulder_length
     extra_features:
       - a branching lightning scar from the left shoulder down the arm
       - a long thin neck

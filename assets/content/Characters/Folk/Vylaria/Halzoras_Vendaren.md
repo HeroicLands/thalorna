@@ -35,6 +35,7 @@ data:
     hair_color: greying_black
     skin_color: olive
     complexion: [weathered, scarred]
+    face_shape: broad
     extra_features:
       - a sword scar from the left ear down to the jaw
       - two fingers of the right hand that do not close fully

@@ -24,6 +24,11 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [freckled]
+    hair_style: braided
+    face_shape: long
+    nose: broad
+    brow: heavy
+    mouth: thin
     extra_features: [a scar running across the stomach]
   packFolder: ankarisvrystwald
 sohl:

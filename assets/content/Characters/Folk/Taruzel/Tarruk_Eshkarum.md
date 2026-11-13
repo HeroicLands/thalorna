@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [sun_kissed]
+    hair_style: cropped
     extra_features: []
   packFolder: midhaliontaruzel
 ---

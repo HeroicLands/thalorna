@@ -24,6 +24,9 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [scarred]
+    hair_style: knotted
+    face_shape: angular
+    brow: straight
     extra_features: [a scar on the right wrist]
   packFolder: helladhelionis
 sohl:

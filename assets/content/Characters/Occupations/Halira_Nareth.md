@@ -25,6 +25,10 @@ data:
     hair_color: silver
     skin_color: medium
     complexion: [clear]
+    hair_style: long
+    face_shape: oval
+    nose: narrow
+    mouth: thin
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

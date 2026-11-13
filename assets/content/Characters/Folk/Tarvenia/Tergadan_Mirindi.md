@@ -26,6 +26,7 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [weathered]
+    hair_style: braided
     extra_features: [a tattooed band on the left forearm]
   packFolder: aureldiatarvenia
 ---

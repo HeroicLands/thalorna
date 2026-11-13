@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [clear]
+    face_shape: oval
+    nose: aquiline
+    brow: arched
     extra_features: []
   packFolder: regkhhk
 sohl:

@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered, scarred]
+    hair_style: short
+    face_shape: broad
     extra_features: [Two fingers of the right hand lost to frostbite]
   packFolder: ankarisvedyara
 sohl:

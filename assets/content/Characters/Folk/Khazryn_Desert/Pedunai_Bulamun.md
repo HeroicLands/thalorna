@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [sun_kissed]
+    facial_hair: short_beard
     extra_features: [fingertips stained green with verdigris, a thinning crown]
   packFolder: ankariskhazryndesert
 ---

@@ -35,6 +35,8 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [weathered, ruddy, scarred]
+    hair_style: long
+    nose: broad
     extra_features: [a white scar through the left eyebrow, a broad nose broken more than once]
   packFolder: midhaliontaruzel
 ---

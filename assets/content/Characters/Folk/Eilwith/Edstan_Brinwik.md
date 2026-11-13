@@ -30,6 +30,8 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [weathered, ruddy]
+    hair_style: short
+    facial_hair: short_beard
     extra_features: []
   packFolder: aureldiaaelwyth
 ---

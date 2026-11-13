@@ -24,6 +24,8 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [weathered, wrinkled]
+    hair_style: braided
+    face_shape: broad
   packFolder: ankarisvedyara
 sohl:
   items:

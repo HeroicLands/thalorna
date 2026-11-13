@@ -25,6 +25,7 @@ data:
     hair_color: greying_brown
     skin_color: fair
     complexion: [clear]
+    mouth: wide
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

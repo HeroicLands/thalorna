@@ -25,6 +25,9 @@ data:
     hair_color: red
     skin_color: light
     complexion: [freckled]
+    face_shape: round
+    nose: upturned
+    brow: arched
     extra_features: [a scar across the bridge of the nose]
   packFolder: aureldiaaelwyth
 sohl:

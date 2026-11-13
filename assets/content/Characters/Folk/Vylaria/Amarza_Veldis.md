@@ -32,6 +32,8 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [clear]
+    face_shape: long
+    nose: straight
     extra_features:
       - a long straight nose in a narrow face
       - an ink stain on the second finger of the right hand

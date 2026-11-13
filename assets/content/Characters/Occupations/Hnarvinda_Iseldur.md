@@ -24,6 +24,10 @@ data:
     hair_color: dark_blonde
     skin_color: pale
     complexion: []
+    hair_style: braided
+    face_shape: oval
+    nose: broad
+    brow: straight
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -27,6 +27,7 @@ data:
     hair_color: silver
     skin_color: fair
     complexion: [weathered, wrinkled]
+    hair_style: braided
     extra_features:
       - fingertips burned smooth from trimming wicks
       - a burn scar on the back of her left hand

@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [sun_kissed]
+    nose: straight
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 sohl:

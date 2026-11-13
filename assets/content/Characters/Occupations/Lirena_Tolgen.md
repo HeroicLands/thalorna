@@ -25,6 +25,7 @@ data:
     hair_color: dark_blonde
     skin_color: medium
     complexion: [sun_kissed]
+    hair_texture: curly
     extra_features: [a tattoo of a star on the left shoulder]
   packFolder: aureldiaprovenzia
 sohl:

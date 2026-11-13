@@ -26,6 +26,9 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [smooth]
+    hair_texture: wavy
+    nose: aquiline
+    mouth: thin
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: aureldiaprovenzia
 sohl:

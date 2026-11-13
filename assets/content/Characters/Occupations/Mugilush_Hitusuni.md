@@ -25,6 +25,9 @@ data:
     hair_color: grey
     skin_color: golden
     complexion: [clear]
+    face_shape: long
+    nose: straight
+    brow: arched
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

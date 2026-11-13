@@ -27,6 +27,8 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [freckled, scarred]
+    hair_style: cropped
+    nose: crooked
     extra_features: [a split left ear from a boarding fight, a nose broken more than once]
   packFolder: aureldiacalypsa
 ---

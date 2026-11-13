@@ -24,6 +24,7 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [weathered]
+    face_shape: long
     extra_features: []
   packFolder: helladbyzaria
 sohl:

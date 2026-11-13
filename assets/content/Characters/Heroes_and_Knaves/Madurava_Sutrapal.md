@@ -24,6 +24,8 @@ data:
     hair_color: greying_brown
     skin_color: medium
     complexion: [scarred]
+    nose: narrow
+    mouth: wide
     extra_features: [a scar on the left foot]
   packFolder: ankarisvedyara
 sohl:

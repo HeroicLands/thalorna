@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [the tip of the right ear lost to frostbite]
   packFolder: aureldiaaelwyth
 ---

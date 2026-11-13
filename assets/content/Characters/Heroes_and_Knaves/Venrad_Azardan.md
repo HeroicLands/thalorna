@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [scarred]
+    face_shape: oval
+    nose: hooked
+    mouth: full
     extra_features: [a scar on the lower abdomen]
   packFolder: kingdomofamradad
 sohl:

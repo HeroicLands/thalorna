@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [sun_kissed]
+    hair_style: short
     extra_features: [an ink-stained middle finger on her writing hand]
   packFolder: midhalionvylaria
 ---

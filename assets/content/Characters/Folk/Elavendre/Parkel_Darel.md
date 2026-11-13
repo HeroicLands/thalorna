@@ -27,6 +27,7 @@ data:
     hair_color: greying_black
     skin_color: pale
     complexion: [wan]
+    nose: crooked
     extra_features: [a broken nose, badly set]
   packFolder: aureldiaelavendre
 ---

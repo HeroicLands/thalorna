@@ -27,6 +27,7 @@ data:
     hair_color: silver
     skin_color: pale
     complexion: [smooth, wrinkled]
+    hair_style: long
     extra_features: [long, very fine hands]
   packFolder: aureldiaelavendre
 ---

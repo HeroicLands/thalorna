@@ -25,6 +25,8 @@ data:
     hair_color: greying_black
     skin_color: pale
     complexion: [sallow]
+    face_shape: oval
+    mouth: wide
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

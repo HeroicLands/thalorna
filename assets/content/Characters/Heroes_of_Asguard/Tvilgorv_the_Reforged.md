@@ -23,6 +23,8 @@ data:
     hair_color: auburn
     skin_color: fair
     complexion: [scarred]
+    face_shape: broad
+    brow: heavy
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

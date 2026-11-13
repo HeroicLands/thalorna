@@ -24,6 +24,8 @@ data:
     hair_color: red
     skin_color: light
     complexion: [scarred]
+    face_shape: angular
+    nose: upturned
     extra_features: [a scar on the left shoulder]
   packFolder: ankarisnordlands
 sohl:

@@ -26,6 +26,8 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    hair_style: knotted
+    nose: crooked
     extra_features: [a broken nose]
   packFolder: aureldiaelavendre
 ---

@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: light
     complexion: [clear]
+    face_shape: oval
+    nose: hooked
     extra_features: []
   packFolder: kingdomofamradad
 sohl:

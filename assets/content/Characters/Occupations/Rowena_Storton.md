@@ -25,6 +25,8 @@ data:
     hair_color: red
     skin_color: light
     complexion: []
+    face_shape: heart
+    nose: narrow
     extra_features: [a tattoo of a bird on the forearm]
   packFolder: aureldiaaelwyth
 sohl:

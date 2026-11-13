@@ -30,6 +30,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: short
     extra_features: [two fingers missing from the left hand]
   packFolder: aureldiaaelwyth
 ---

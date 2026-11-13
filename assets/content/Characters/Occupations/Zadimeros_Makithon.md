@@ -24,6 +24,8 @@ data:
     hair_color: greying_brown
     skin_color: fair
     complexion: [weathered]
+    face_shape: long
+    mouth: thin
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: helladhelionis
 sohl:

@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [clear]
+    hair_texture: wavy
+    hair_style: short
+    facial_hair: short_beard
+    nose: straight
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

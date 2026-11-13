@@ -31,6 +31,7 @@ data:
     hair_color: chestnut
     skin_color: fair
     complexion: [clear]
+    facial_hair: short_beard
     extra_features: [a short pointed beard oiled and shaped]
   packFolder: midhalionvylaria
 ---

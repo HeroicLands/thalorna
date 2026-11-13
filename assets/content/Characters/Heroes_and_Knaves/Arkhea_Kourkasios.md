@@ -24,6 +24,8 @@ data:
     hair_color: grey
     skin_color: pale
     complexion: [wrinkled]
+    face_shape: long
+    nose: aquiline
     extra_features: [a limp]
   packFolder: helladbyzaria
 sohl:

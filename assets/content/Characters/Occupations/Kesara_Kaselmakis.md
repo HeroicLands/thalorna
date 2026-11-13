@@ -25,6 +25,9 @@ data:
     hair_color: brown
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_style: knotted
+    face_shape: long
+    brow: arched
     extra_features: [a tattoo of a dragonfly on the neck]
   packFolder: midhalionvylaria
 sohl:

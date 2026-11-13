@@ -27,6 +27,7 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [smooth]
+    hair_texture: curly
     extra_features: [rings on every finger]
   packFolder: aureldiaprovenzia
 ---

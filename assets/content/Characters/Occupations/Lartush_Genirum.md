@@ -25,6 +25,7 @@ data:
     hair_color: grey
     skin_color: medium
     complexion: [weathered]
+    mouth: thin
     extra_features: [a scar running down the back, a blind left eye]
   packFolder: midhaliontaruzel
 sohl:

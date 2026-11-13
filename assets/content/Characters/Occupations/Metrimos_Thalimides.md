@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: []
+    face_shape: angular
+    brow: heavy
     extra_features: [a tattoo of a lion's mane on the chest]
   packFolder: helladhelionis
 sohl:

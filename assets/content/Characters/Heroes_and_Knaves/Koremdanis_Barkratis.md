@@ -24,6 +24,8 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: []
+    face_shape: long
+    brow: heavy
     extra_features: [a tattoo of a dragonfly on the neck]
   packFolder: midhalionvylaria
 sohl:

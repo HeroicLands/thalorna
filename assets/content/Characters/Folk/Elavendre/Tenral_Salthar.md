@@ -27,6 +27,7 @@ data:
     hair_color: blonde
     skin_color: tanned
     complexion: [smooth]
+    hair_style: short
     extra_features: [a sea-captain's squint]
   packFolder: aureldiaelavendre
 ---

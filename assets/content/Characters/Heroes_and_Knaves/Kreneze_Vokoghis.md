@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [clear]
+    face_shape: oval
     extra_features: []
   packFolder: helladbyzaria
 sohl:

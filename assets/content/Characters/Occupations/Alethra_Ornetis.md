@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [ruddy]
+    face_shape: angular
     extra_features: [a scar on the right elbow]
   packFolder: aureldiatarvenia
 sohl:

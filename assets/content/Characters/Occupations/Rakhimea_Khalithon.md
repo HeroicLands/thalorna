@@ -24,6 +24,10 @@ data:
     hair_color: chestnut
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: braided
+    face_shape: square
+    nose: straight
+    brow: straight
     extra_features: [a tattoo of a bear on the left arm]
   packFolder: helladhelionis
 sohl:

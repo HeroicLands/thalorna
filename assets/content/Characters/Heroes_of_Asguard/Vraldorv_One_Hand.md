@@ -24,6 +24,7 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [weathered]
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

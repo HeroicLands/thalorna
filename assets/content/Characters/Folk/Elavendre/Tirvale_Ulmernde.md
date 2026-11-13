@@ -27,6 +27,7 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [weathered, wrinkled]
+    hair_style: short
     extra_features: [a cough in the wet months]
   packFolder: aureldiaelavendre
 ---

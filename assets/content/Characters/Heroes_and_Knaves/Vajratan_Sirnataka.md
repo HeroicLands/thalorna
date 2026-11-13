@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: dark_brown
     complexion: [weathered, scarred]
+    hair_style: cropped
     extra_features: [The wrist-line on his left wrist struck through and left bare]
   packFolder: ankarisvedyara
 sohl:

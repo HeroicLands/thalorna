@@ -27,6 +27,7 @@ data:
     hair_color: greying_black
     skin_color: olive
     complexion: [weathered]
+    hair_style: short
     extra_features:
       - a crossbow-string scar across the inside of the left wrist
       - two fingers of the right hand stiff at the last joint

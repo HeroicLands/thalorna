@@ -24,6 +24,9 @@ data:
     hair_color: auburn
     skin_color: pale
     complexion: [clear]
+    face_shape: oval
+    nose: upturned
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

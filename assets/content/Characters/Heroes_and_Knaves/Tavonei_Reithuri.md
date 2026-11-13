@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [scarred]
+    face_shape: angular
+    mouth: full
     extra_features: [a scar across the bridge of the nose]
   packFolder: heroesandknaveskalihara
 sohl:

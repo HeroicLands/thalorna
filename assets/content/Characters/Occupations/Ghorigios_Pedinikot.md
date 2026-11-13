@@ -24,6 +24,9 @@ data:
     hair_color: dark_blonde
     skin_color: olive
     complexion: [clear]
+    hair_style: short
+    nose: straight
+    mouth: thin
     extra_features: [deep-set eyes]
   packFolder: helladbyzaria
 sohl:

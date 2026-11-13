@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [clear]
+    mouth: full
     extra_features: []
   packFolder: ankariskhazryndesert
 sohl:

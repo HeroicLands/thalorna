@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: light
     complexion: [clear]
+    face_shape: long
     extra_features: [gaunt angular face, long arms that give him a gangly look]
   packFolder: ankarisvrystwald
 sohl:

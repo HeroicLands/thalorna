@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered]
+    hair_style: braided
     extra_features: [a pale scar at the throat]
   packFolder: aureldiaelavendre
 ---

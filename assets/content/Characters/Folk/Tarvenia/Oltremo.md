@@ -26,6 +26,7 @@ data:
     hair_color: greying_black
     skin_color: tanned
     complexion: [weathered]
+    hair_style: cropped
     extra_features: []
   packFolder: aureldiatarvenia
 ---

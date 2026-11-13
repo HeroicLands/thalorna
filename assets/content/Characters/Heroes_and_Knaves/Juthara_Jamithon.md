@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [scarred]
+    face_shape: long
+    brow: arched
     extra_features: [a scar running across the stomach]
   packFolder: northernfertileregionbethua
 sohl:

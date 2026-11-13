@@ -25,6 +25,10 @@ data:
     hair_color: chestnut
     skin_color: light
     complexion: [clear]
+    face_shape: long
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

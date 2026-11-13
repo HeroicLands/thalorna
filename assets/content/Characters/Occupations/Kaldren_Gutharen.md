@@ -24,6 +24,7 @@ data:
     hair_color: chestnut
     skin_color: olive
     complexion: []
+    hair_style: shaved_sides
     extra_features: [a tattoo of a tiger on the forearm]
   packFolder: aureldiatarvenia
 sohl:

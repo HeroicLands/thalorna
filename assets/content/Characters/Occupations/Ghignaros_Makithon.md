@@ -24,6 +24,8 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [sun_kissed]
+    face_shape: oval
+    nose: straight
     extra_features: [a scar on the left foot]
   packFolder: helladhelionis
 sohl:

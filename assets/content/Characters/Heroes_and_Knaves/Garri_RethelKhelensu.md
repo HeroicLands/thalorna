@@ -25,6 +25,9 @@ data:
     hair_color: white
     skin_color: golden
     complexion: []
+    face_shape: long
+    nose: aquiline
+    mouth: full
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: regkhhk
 sohl:

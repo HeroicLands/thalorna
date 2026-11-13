@@ -33,6 +33,7 @@ data:
     hair_color: white
     skin_color: light
     complexion: [weathered, scarred]
+    hair_style: cropped
     extra_features:
       - a white scar across the back of the left hand
       - a limp in the right leg that he hides by walking slowly

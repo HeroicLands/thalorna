@@ -26,6 +26,7 @@ data:
     hair_color: grey
     skin_color: golden
     complexion: [clear]
+    face_shape: oval
     extra_features: []
   packFolder: regkhhk
 sohl:

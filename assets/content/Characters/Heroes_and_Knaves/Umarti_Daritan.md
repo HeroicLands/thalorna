@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [scarred]
+    hair_style: braided
     extra_features:
       - A bowstring callus across the first three fingers of the right hand
       - A pale scar along the left forearm from a lance-head

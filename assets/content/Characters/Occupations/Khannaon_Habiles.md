@@ -24,6 +24,9 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [smooth]
+    hair_texture: wavy
+    face_shape: square
+    brow: heavy
     extra_features: []
   packFolder: helladhelionis
 sohl:

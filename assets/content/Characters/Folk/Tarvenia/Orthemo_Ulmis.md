@@ -27,6 +27,7 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [weathered]
+    hair_style: short
     extra_features: [a clerk's ink stain on the right forefinger]
   packFolder: aureldiatarvenia
 ---

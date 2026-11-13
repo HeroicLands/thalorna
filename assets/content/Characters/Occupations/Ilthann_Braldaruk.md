@@ -25,6 +25,7 @@ data:
     hair_color: greying_black
     skin_color: golden
     complexion: [sun_kissed]
+    hair_style: cropped
     extra_features: [scar across forehead]
   packFolder: aureldiaaelwyth
 sohl:

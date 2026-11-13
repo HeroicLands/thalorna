@@ -24,6 +24,9 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [scarred]
+    face_shape: long
+    nose: hooked
+    mouth: full
     extra_features: [a scar on the right wrist]
   packFolder: kingdomofamradad
 sohl:

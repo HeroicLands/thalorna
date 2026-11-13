@@ -26,6 +26,7 @@ data:
     hair_color: black
     skin_color: pale
     complexion: [clear]
+    hair_style: short
     extra_features: []
   packFolder: aureldiaelavendre
 ---

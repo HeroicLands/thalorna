@@ -25,6 +25,7 @@ data:
     hair_color: grey
     skin_color: ebony
     complexion: [weathered]
+    hair_style: cropped
     extra_features: []
   packFolder: helladhelionis
 sohl:

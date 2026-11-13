@@ -26,6 +26,8 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [weathered]
+    hair_style: cropped
+    facial_hair: short_beard
     extra_features: [a white scar splitting the left eyebrow]
   packFolder: aureldiaprovenzia
 ---

@@ -27,6 +27,7 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [chapped, weathered]
+    hair_style: braided
     extra_features:
       - a healed spear-cut along the left jaw
       - hands scarred across the knuckles by rope and frost

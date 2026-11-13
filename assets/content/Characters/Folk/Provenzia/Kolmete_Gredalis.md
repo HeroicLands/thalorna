@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [ruddy]
+    hair_style: cropped
     extra_features: [heavy pouches under the eyes]
   packFolder: aureldiaprovenzia
 ---

@@ -24,6 +24,11 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [weathered]
+    hair_style: braided
+    face_shape: oval
+    nose: broad
+    brow: straight
+    mouth: wide
     extra_features: [a scar on the left arm]
   packFolder: ankarisnordlands
 sohl:

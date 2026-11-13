@@ -19,7 +19,13 @@ data:
   height: 5' 8"
   weight: 139 lbs
   frame: light
-  appearance: {eye_color: dark_brown, hair_color: white, skin_color: brown, complexion: [wrinkled]}
+  appearance:
+    eye_color: dark_brown
+    hair_color: white
+    skin_color: brown
+    complexion: [wrinkled]
+    hair_style: cropped
+    facial_hair: stubble
   packFolder: ankarisvedyara
 sohl:
   items:

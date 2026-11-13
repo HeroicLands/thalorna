@@ -30,6 +30,7 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [weathered]
+    hair_style: braided
     extra_features: [hands stained grey to the wrist by the lime of the channels]
   packFolder: aureldiaaelwyth
 ---

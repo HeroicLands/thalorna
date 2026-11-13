@@ -24,6 +24,9 @@ data:
     hair_color: red
     skin_color: light
     complexion: [weathered]
+    hair_style: knotted
+    face_shape: oval
+    brow: straight
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

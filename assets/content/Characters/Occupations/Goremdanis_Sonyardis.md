@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: short
+    face_shape: long
+    nose: hooked
+    brow: arched
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

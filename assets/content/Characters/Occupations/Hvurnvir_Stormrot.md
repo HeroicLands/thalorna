@@ -24,6 +24,9 @@ data:
     hair_color: red
     skin_color: light
     complexion: [scarred]
+    face_shape: oval
+    nose: broad
+    brow: straight
     extra_features: [a scar on the chin]
   packFolder: ankarisnordlands
 sohl:

@@ -25,6 +25,8 @@ data:
     hair_color: auburn
     skin_color: fair
     complexion: [sun_kissed]
+    hair_texture: wavy
+    face_shape: angular
     extra_features: [prominent scar on neck]
   packFolder: aureldiaelavendre
 sohl:

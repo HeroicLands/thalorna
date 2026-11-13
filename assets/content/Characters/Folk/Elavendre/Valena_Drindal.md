@@ -27,6 +27,7 @@ data:
     hair_color: red
     skin_color: pale
     complexion: [freckled]
+    hair_style: braided
     extra_features: [calluses from the harp-strings on her left fingertips]
   packFolder: aureldiaelavendre
 ---

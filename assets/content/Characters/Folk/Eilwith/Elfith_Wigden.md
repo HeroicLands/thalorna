@@ -27,6 +27,7 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [weathered, freckled]
+    hair_style: braided
     extra_features: [reed-cuts across both palms]
   packFolder: aureldiaaelwyth
 ---

@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [sun_kissed]
+    hair_style: cropped
     extra_features: [a scar on the lower abdomen]
   packFolder: aureldiatarvenia
 sohl:

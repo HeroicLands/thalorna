@@ -25,6 +25,7 @@ data:
     hair_color: red
     skin_color: fair
     complexion: []
+    hair_style: short
     extra_features: [a crescent moon tattoo on the neck]
   packFolder: aureldiaprovenzia
 sohl:

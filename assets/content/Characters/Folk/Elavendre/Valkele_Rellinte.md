@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: light
     complexion: [clear]
+    hair_style: cropped
     extra_features: [stone dust in the grain of both palms]
   packFolder: aureldiaelavendre
 ---

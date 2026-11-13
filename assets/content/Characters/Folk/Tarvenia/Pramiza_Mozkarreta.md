@@ -26,6 +26,7 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    hair_style: short
     extra_features: [a notched left ear]
   packFolder: aureldiatarvenia
 ---

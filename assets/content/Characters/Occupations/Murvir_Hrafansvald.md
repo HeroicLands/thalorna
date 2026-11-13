@@ -24,6 +24,9 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [weathered]
+    face_shape: angular
+    nose: straight
+    brow: straight
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

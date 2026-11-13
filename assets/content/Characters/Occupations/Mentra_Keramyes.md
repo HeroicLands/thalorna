@@ -25,6 +25,9 @@ data:
     hair_color: auburn
     skin_color: medium
     complexion: [ruddy]
+    face_shape: long
+    brow: arched
+    mouth: thin
     extra_features: [a tattoo of a wolf on the shoulder]
   packFolder: midhalionvylaria
 sohl:

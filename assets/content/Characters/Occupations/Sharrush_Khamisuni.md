@@ -25,6 +25,11 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [rough]
+    hair_style: short
+    face_shape: heart
+    nose: aquiline
+    brow: heavy
+    mouth: wide
     extra_features: [a scar running across the stomach]
   packFolder: midhaliontaruzel
 sohl:

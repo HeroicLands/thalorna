@@ -24,6 +24,8 @@ data:
     hair_color: white
     skin_color: tanned
     complexion: [weathered]
+    nose: hooked
+    mouth: full
     extra_features: []
   packFolder: dunharatribes
 sohl:

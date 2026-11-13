@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: light
     complexion: [smooth]
+    hair_style: long
     extra_features: [long-fingered hands]
   packFolder: ankariskhazryndesert
 ---

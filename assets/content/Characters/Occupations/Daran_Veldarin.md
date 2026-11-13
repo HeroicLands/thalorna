@@ -25,6 +25,9 @@ data:
     hair_color: auburn
     skin_color: pale
     complexion: [smooth]
+    hair_style: cropped
+    nose: crooked
+    brow: heavy
     extra_features: [a nose broken and set at least once]
   packFolder: aureldiaelavendre
 sohl:

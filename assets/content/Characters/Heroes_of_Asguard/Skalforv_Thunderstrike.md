@@ -24,6 +24,9 @@ data:
     hair_color: brown
     skin_color: medium
     complexion: [weathered]
+    hair_style: shoulder_length
+    nose: broad
+    mouth: wide
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

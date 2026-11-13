@@ -25,6 +25,7 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [scarred]
+    nose: upturned
     extra_features: [a scar on the left arm]
   packFolder: aureldiaelavendre
 sohl:

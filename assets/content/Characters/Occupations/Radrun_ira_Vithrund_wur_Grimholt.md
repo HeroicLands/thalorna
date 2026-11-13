@@ -24,6 +24,10 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [weathered]
+    hair_texture: wavy
+    face_shape: long
+    nose: straight
+    brow: heavy
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

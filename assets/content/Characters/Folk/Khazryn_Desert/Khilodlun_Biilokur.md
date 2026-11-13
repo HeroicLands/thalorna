@@ -31,6 +31,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: braided
     extra_features:
       - a blue banner-mark tattooed on the back of the right hand
       - a missing upper tooth

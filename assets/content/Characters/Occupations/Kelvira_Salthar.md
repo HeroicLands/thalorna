@@ -25,6 +25,10 @@ data:
     hair_color: auburn
     skin_color: pale
     complexion: [smooth]
+    hair_style: knotted
+    face_shape: heart
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [clear]
+    face_shape: long
+    brow: thin
     extra_features: []
   packFolder: northernfertileregionbethua
 sohl:

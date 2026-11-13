@@ -24,6 +24,10 @@ data:
     hair_color: black
     skin_color: light
     complexion: []
+    hair_style: long
+    face_shape: oval
+    nose: broad
+    mouth: wide
     extra_features: [a tattoo of a bear on the left arm]
   packFolder: ankarisnordlands
 sohl:

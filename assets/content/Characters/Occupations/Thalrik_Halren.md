@@ -25,6 +25,11 @@ data:
     hair_color: blonde
     skin_color: pale
     complexion: [clear]
+    hair_style: long
+    face_shape: angular
+    nose: upturned
+    brow: thin
+    mouth: full
     extra_features: [a scar along the jawline]
   packFolder: aureldiaelavendre
 sohl:

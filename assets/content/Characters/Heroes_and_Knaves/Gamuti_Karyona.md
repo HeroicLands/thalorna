@@ -24,6 +24,7 @@ data:
     hair_color: greying_black
     skin_color: dark_brown
     complexion: [weathered]
+    hair_style: braided
   packFolder: ankarisvedyara
 sohl:
   items:

@@ -24,6 +24,9 @@ data:
     hair_color: auburn
     skin_color: fair
     complexion: [freckled]
+    face_shape: long
+    nose: hooked
+    mouth: full
     extra_features: [a tattoo of a bird on the forearm]
   packFolder: helladbyzaria
 sohl:

@@ -27,6 +27,8 @@ data:
     hair_color: greying_black
     skin_color: fair
     complexion: [weathered]
+    hair_style: cropped
+    facial_hair: none
     extra_features: [a clean-shaven face, a seamed scar along his jaw]
   packFolder: aureldiacalypsa
 ---

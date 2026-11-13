@@ -25,6 +25,9 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [weathered]
+    hair_style: cropped
+    nose: straight
+    brow: straight
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

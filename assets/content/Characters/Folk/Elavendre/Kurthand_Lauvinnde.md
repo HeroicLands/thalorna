@@ -30,6 +30,7 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [wrinkled]
+    hair_style: long
     extra_features: [a harp-callus on every fingertip]
   packFolder: aureldiaelavendre
 ---

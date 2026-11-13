@@ -28,6 +28,8 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [sun_kissed]
+    nose: aquiline
+    brow: arched
     extra_features: []
   packFolder: northernfertileregionbethua
 sohl:

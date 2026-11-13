@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: pale
     complexion: [smooth]
+    hair_texture: wavy
+    face_shape: oval
+    nose: upturned
+    brow: arched
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

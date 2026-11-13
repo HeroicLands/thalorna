@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: olive
     complexion: []
+    face_shape: oval
+    brow: heavy
     extra_features: [a burn mark on the left hand]
   packFolder: kingdomofamradad
 sohl:

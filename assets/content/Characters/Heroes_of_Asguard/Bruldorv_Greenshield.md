@@ -24,6 +24,9 @@ data:
     hair_color: brown
     skin_color: fair
     complexion: [ruddy]
+    face_shape: broad
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

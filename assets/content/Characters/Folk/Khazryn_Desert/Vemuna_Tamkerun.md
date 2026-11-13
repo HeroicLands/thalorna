@@ -27,6 +27,7 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [sun_kissed, scarred]
+    hair_style: cropped
     extra_features: [small burn scars across both forearms, a deaf left ear]
   packFolder: ankariskhazryndesert
 ---

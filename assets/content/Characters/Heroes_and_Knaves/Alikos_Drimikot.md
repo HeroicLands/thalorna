@@ -24,6 +24,7 @@ data:
     hair_color: greying_brown
     skin_color: light
     complexion: [weathered]
+    nose: aquiline
     extra_features: []
   packFolder: helladbyzaria
 sohl:

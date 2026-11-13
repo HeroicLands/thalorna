@@ -25,6 +25,10 @@ data:
     hair_color: chestnut
     skin_color: tanned
     complexion: [weathered]
+    hair_style: short
+    face_shape: angular
+    nose: aquiline
+    mouth: wide
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

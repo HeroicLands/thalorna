@@ -26,6 +26,8 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: [clear]
+    face_shape: long
+    nose: narrow
     extra_features: [a scar on the lower abdomen]
   packFolder: aureldiaprovenzia
 sohl:

@@ -24,6 +24,9 @@ data:
     hair_color: silver
     skin_color: medium
     complexion: [clear]
+    hair_style: knotted
+    face_shape: oval
+    nose: aquiline
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

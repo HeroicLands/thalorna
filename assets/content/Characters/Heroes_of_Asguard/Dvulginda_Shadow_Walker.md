@@ -24,6 +24,9 @@ data:
     hair_color: blonde
     skin_color: light
     complexion: [ruddy]
+    hair_style: cropped
+    face_shape: long
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -26,6 +26,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [a mule-bite scar on the left forearm]
   packFolder: aureldiaprovenzia
 ---

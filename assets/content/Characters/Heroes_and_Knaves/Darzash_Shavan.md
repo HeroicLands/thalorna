@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [clear]
+    face_shape: long
+    nose: aquiline
     extra_features: []
   packFolder: kingdomofamradad
 sohl:

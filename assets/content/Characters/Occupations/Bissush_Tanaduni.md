@@ -25,6 +25,9 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [sun_kissed]
+    hair_style: short
+    nose: straight
+    mouth: full
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

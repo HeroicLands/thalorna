@@ -28,6 +28,7 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [smooth]
+    hair_style: short
     extra_features: [Rasikara's gray ash-mark on her brow, Burn-scars on both palms]
   packFolder: ankarisvedyara
 sohl:

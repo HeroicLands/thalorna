@@ -25,6 +25,9 @@ data:
     hair_color: greying_black
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: braided
+    face_shape: long
+    mouth: full
     extra_features: [a tattoo of a horse on the thigh]
   packFolder: midhaliontaruzel
 sohl:

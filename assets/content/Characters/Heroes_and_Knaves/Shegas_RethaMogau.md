@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [scarred]
+    nose: aquiline
+    brow: arched
     extra_features: [a scar on the left arm]
   packFolder: regkhhk
 sohl:

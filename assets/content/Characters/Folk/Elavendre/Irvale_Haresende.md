@@ -30,6 +30,7 @@ data:
     hair_color: auburn
     skin_color: fair
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [a rider's scar across the back of the left hand]
   packFolder: aureldiaelavendre
 ---

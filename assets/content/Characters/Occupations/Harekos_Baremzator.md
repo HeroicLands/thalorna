@@ -25,6 +25,8 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [weathered]
+    face_shape: square
+    brow: heavy
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

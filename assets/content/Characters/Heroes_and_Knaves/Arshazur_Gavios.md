@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: light
     complexion: [sun_kissed]
+    face_shape: oval
     extra_features: [a tattoo of a rose vine on the leg]
   packFolder: helladbyzaria
 sohl:

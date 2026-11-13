@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: braided
+    nose: crooked
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

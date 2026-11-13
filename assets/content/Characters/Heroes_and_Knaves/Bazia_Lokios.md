@@ -24,6 +24,9 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [scarred]
+    hair_style: knotted
+    face_shape: long
+    brow: heavy
     extra_features: [a scar running down the right leg]
   packFolder: helladbyzaria
 sohl:

@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: [ruddy]
+    hair_style: cropped
     extra_features: [old burn scars across the backs of both hands]
   packFolder: midhalionvylaria
 ---

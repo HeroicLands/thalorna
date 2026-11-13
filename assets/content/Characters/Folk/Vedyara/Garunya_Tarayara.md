@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [clear]
+    hair_style: cropped
     extra_features: [Rope-scarred palms, A wrapped left wrist]
   packFolder: ankarisvedyara
 sohl:

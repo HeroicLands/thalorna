@@ -25,6 +25,9 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [scarred]
+    hair_style: short
+    face_shape: long
+    nose: upturned
     extra_features: [a scar on the right hand]
   packFolder: aureldiaaelwyth
 sohl:

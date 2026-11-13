@@ -24,6 +24,9 @@ data:
     hair_color: greying_brown
     skin_color: medium
     complexion: [smooth]
+    face_shape: long
+    nose: aquiline
+    brow: arched
     extra_features: []
   packFolder: helladhelionis
 sohl:

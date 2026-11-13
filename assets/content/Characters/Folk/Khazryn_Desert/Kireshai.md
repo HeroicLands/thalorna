@@ -27,6 +27,8 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [smooth]
+    hair_style: cropped
+    facial_hair: none
     extra_features: [long arms, a quarterstaff callus on both palms]
   packFolder: ankariskhazryndesert
 ---

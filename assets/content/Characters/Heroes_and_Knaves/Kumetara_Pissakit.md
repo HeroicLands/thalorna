@@ -24,6 +24,8 @@ data:
     hair_color: auburn
     skin_color: golden
     complexion: [clear]
+    nose: straight
+    brow: arched
     extra_features: []
   packFolder: helladbyzaria
 sohl:

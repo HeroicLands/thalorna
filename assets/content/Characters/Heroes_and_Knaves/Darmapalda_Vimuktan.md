@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: golden
     complexion: []
+    face_shape: oval
+    nose: broad
     extra_features: [a tattoo of a flower on the ankle]
   packFolder: ankarisvedyara
 sohl:

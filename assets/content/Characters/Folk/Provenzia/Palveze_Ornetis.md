@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [sallow]
+    hair_style: short
     extra_features: []
   packFolder: aureldiaprovenzia
 ---

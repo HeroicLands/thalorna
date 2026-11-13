@@ -26,6 +26,7 @@ data:
     hair_color: white
     skin_color: pale
     complexion: [wrinkled]
+    hair_style: braided
     extra_features: []
   packFolder: aureldiatarvenia
 ---

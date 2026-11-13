@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [a burn scar across the left forearm]
   packFolder: aureldiaaelwyth
 ---

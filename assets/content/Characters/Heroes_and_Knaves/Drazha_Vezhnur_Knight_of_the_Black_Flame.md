@@ -29,6 +29,9 @@ data:
     hair_color: null
     skin_color: dark_brown
     complexion: []
+    hair_style: shaved
+    nose: broad
+    mouth: full
     extra_features: [a bald head]
   packFolder: helladbyzaria
 sohl:

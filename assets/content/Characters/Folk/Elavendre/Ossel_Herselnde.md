@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: tanned
     complexion: [weathered, wrinkled]
+    hair_style: cropped
     extra_features: [burn scars across both palms from the beacon baskets]
   packFolder: aureldiaelavendre
 ---

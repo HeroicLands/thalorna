@@ -24,6 +24,9 @@ data:
     hair_color: greying_black
     skin_color: light
     complexion: [sun_kissed]
+    face_shape: long
+    nose: hooked
+    brow: arched
     extra_features: []
   packFolder: helladbyzaria
 sohl:

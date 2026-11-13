@@ -35,6 +35,7 @@ data:
     hair_color: white
     skin_color: tanned
     complexion: [weathered, wrinkled]
+    facial_hair: short_beard
     extra_features: [salt-cracked hands, a white beard trimmed square]
   packFolder: ankariskhazryndesert
 ---

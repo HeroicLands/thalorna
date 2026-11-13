@@ -26,6 +26,10 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [clear]
+    hair_style: short
+    face_shape: long
+    nose: straight
+    mouth: full
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

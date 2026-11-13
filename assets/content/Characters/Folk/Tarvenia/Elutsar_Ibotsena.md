@@ -26,6 +26,7 @@ data:
     hair_color: white
     skin_color: swarthy
     complexion: [wrinkled, weathered]
+    hair_style: shoulder_length
     extra_features: [two missing front teeth]
   packFolder: aureldiatarvenia
 ---

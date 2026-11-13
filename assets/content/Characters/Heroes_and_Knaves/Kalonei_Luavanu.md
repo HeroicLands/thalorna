@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [clear]
+    face_shape: angular
+    nose: straight
+    mouth: full
     extra_features: []
   packFolder: heroesandknaveskalihara
 sohl:

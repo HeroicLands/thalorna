@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: ebony
     complexion: [clear]
+    hair_style: cropped
     extra_features: [Knife-scarred fingers, Gold rings in both ears]
   packFolder: ankarisvedyara
 sohl:

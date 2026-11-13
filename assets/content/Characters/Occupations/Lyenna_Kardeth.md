@@ -28,6 +28,10 @@ data:
     hair_color: blonde
     skin_color: light
     complexion: [smooth]
+    hair_style: long
+    nose: upturned
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

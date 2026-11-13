@@ -25,6 +25,10 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [scarred]
+    hair_style: cropped
+    face_shape: heart
+    nose: straight
+    mouth: thin
     extra_features: [a scar on the right forearm]
   packFolder: midhaliontaruzel
 sohl:

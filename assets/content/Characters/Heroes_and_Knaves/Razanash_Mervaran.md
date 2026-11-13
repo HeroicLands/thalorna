@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [scarred]
+    face_shape: long
+    nose: aquiline
     extra_features: [a scar on the left thigh]
   packFolder: ankariskhazryndesert
 sohl:

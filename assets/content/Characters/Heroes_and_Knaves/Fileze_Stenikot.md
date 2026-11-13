@@ -24,6 +24,8 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [clear]
+    face_shape: oval
+    brow: arched
     extra_features: []
   packFolder: helladbyzaria
 sohl:

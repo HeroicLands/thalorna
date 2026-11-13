@@ -25,6 +25,9 @@ data:
     hair_color: grey
     skin_color: tawny
     complexion: [clear]
+    hair_style: shoulder_length
+    nose: narrow
+    mouth: thin
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

@@ -25,6 +25,8 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [ruddy]
+    hair_style: cropped
+    face_shape: heart
     extra_features: [a scar on the left foot]
   packFolder: aureldiaelavendre
 sohl:

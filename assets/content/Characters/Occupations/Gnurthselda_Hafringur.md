@@ -24,6 +24,9 @@ data:
     hair_color: grey
     skin_color: golden
     complexion: [clear]
+    hair_style: braided
+    nose: crooked
+    brow: heavy
     extra_features: [crooked nose]
   packFolder: ankarisnordlands
 sohl:

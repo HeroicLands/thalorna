@@ -31,6 +31,7 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [weathered, freckled]
+    hair_style: long
     extra_features: [a cattle-brand burned into the back of his left hand]
   packFolder: aureldiaaelwyth
 ---

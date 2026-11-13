@@ -34,6 +34,8 @@ data:
     hair_color: greying_brown
     skin_color: tawny
     complexion: [weathered]
+    hair_style: braided
+    face_shape: long
     extra_features:
       - a long face deeply lined at the eyes
       - a white scar across the back of the left hand

@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: light
     complexion: [sun_kissed]
+    hair_style: braided
+    face_shape: long
+    mouth: wide
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

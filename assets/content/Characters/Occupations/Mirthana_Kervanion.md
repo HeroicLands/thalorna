@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [weathered]
+    face_shape: oval
+    brow: heavy
     extra_features: []
   packFolder: helladhelionis
 sohl:
