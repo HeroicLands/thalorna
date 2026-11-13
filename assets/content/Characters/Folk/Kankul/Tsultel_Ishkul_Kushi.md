@@ -26,6 +26,12 @@ data:
     hair_color: grey
     skin_color: tawny
     complexion: [smooth]
+    hair_texture: straight
+    hair_style: short
+    face_shape: oval
+    nose: aquiline
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: kiichchikkankul
 ---

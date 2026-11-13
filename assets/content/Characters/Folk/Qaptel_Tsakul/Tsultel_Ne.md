@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [ruddy]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: broad
+    nose: straight
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: kiichchikqapteltzakul
 ---

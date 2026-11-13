@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: ebony
     complexion: [clear]
+    hair_texture: straight
+    hair_style: short
+    face_shape: oval
+    nose: broad
+    brow: arched
+    mouth: small
     extra_features: []
   packFolder: regkhfolk
 ---

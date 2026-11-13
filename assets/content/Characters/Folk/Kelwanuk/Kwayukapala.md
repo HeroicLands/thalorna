@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [chapped]
+    hair_texture: straight
+    hair_style: knotted
+    face_shape: oval
+    nose: broad
+    brow: heavy
+    mouth: wide
     extra_features: []
   packFolder: kiichchikkelwanuk
 ---

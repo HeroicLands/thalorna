@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [leathery]
+    hair_texture: curly
+    hair_style: braided
+    face_shape: angular
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: ankarisdunhara
 ---

@@ -27,6 +27,11 @@ data:
     skin_color: golden
     complexion: [clear]
     hair_style: bald
+    hair_texture: curly
+    face_shape: long
+    nose: straight
+    brow: straight
+    mouth: wide
     extra_features: ["a bald head"]
   packFolder: regkhfolk
 ---

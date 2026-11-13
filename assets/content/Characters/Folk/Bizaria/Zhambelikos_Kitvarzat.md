@@ -26,6 +26,12 @@ data:
     hair_color: dark_blonde
     skin_color: tanned
     complexion: [ruddy]
+    hair_texture: curly
+    hair_style: long
+    face_shape: angular
+    nose: aquiline
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

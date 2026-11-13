@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: short
+    face_shape: broad
+    nose: crooked
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: ankarisvrystwald
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [clear]
+    hair_texture: coily
+    hair_style: cropped
+    face_shape: long
+    nose: broad
+    brow: straight
+    mouth: full
     extra_features: []
   packFolder: regkhfolk
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: shoulder_length
+    face_shape: long
+    nose: broad
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: regkhfolk
 ---

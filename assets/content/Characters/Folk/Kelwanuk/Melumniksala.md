@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: brown
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: long
+    face_shape: broad
+    nose: aquiline
+    brow: heavy
+    mouth: wide
     extra_features: []
   packFolder: kiichchikkelwanuk
 ---

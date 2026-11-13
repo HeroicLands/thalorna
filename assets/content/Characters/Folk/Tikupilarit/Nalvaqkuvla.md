@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [leathery]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: heart
+    nose: straight
+    brow: thin
+    mouth: small
     extra_features: []
   packFolder: kiichchiktikupilarit
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [chapped]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: round
+    nose: snub
+    brow: arched
+    mouth: small
     extra_features: []
   packFolder: kiichchikkawiskak
 ---

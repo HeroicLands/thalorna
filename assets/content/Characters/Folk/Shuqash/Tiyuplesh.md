@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: long
+    face_shape: broad
+    nose: broad
+    brow: thin
+    mouth: full
     extra_features: []
   packFolder: kiichchikshuqash
 ---

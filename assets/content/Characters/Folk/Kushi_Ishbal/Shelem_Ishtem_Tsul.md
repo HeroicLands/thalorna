@@ -26,6 +26,12 @@ data:
     hair_color: greying_black
     skin_color: golden
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: oval
+    nose: broad
+    brow: heavy
+    mouth: wide
     extra_features: []
   packFolder: kiichchikkuxiixbal
 ---

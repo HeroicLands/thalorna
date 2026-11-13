@@ -26,6 +26,12 @@ data:
     hair_color: white
     skin_color: tawny
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: long
+    face_shape: round
+    nose: broad
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: kiichchikkawiskak
 ---

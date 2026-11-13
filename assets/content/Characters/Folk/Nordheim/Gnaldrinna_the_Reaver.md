@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [ruddy]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: broad
+    nose: straight
+    brow: heavy
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

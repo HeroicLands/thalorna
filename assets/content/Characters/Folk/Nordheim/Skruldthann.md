@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: light
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: braided
+    face_shape: square
+    nose: broad
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: ankarisnordlands
 ---

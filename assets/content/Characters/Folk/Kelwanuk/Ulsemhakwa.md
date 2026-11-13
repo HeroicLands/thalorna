@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [ruddy]
+    hair_texture: straight
+    hair_style: cropped
+    face_shape: broad
+    nose: aquiline
+    brow: bushy
+    mouth: small
     extra_features: []
   packFolder: kiichchikkelwanuk
 ---

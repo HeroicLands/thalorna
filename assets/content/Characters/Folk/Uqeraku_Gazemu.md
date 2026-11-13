@@ -26,6 +26,12 @@ data:
     hair_color: white
     skin_color: dark_brown
     complexion: [clear]
+    hair_texture: wavy
+    hair_style: cropped
+    face_shape: round
+    nose: aquiline
+    brow: straight
+    mouth: full
     extra_features: []
   packFolder: regkhfolk
 ---

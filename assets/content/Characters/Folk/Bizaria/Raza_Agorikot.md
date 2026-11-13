@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: knotted
+    face_shape: long
+    nose: straight
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

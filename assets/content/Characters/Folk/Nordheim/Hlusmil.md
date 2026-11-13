@@ -26,6 +26,12 @@ data:
     hair_color: red
     skin_color: pale
     complexion: [weathered]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: oval
+    nose: aquiline
+    brow: bushy
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 ---

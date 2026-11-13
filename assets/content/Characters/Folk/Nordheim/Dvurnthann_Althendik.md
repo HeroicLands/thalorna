@@ -26,6 +26,12 @@ data:
     hair_color: red
     skin_color: pale
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: shoulder_length
+    face_shape: square
+    nose: straight
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: ankarisnordlands
 ---

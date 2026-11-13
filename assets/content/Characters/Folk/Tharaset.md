@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [weathered, scarred]
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: long
+    nose: straight
+    brow: thin
+    mouth: small
     extra_features: ["a seam of scar from the left ear to the collarbone"]
   packFolder: regkhfolk
 ---

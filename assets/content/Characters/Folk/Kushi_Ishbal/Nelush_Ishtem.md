@@ -26,6 +26,12 @@ data:
     hair_color: white
     skin_color: tawny
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: round
+    nose: straight
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: kiichchikkuxiixbal
 ---

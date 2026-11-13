@@ -26,6 +26,12 @@ data:
     hair_color: white
     skin_color: tawny
     complexion: [weathered, wrinkled]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: angular
+    nose: narrow
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: ankariskhazryndesert
 ---

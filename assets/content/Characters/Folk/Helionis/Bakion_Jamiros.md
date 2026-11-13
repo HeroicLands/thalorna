@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [smooth]
+    hair_texture: straight
+    hair_style: short
+    face_shape: long
+    nose: aquiline
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: helladhelionis
 ---

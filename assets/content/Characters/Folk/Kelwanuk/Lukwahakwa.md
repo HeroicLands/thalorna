@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: knotted
+    face_shape: broad
+    nose: broad
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: kiichchikkelwanuk
 ---

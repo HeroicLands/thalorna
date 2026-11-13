@@ -28,6 +28,12 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: hooked
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

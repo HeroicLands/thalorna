@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: square
+    nose: aquiline
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: kiichchikosetakona
 ---

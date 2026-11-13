@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: olive
     complexion: []
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: angular
+    nose: aquiline
+    brow: bushy
+    mouth: wide
     extra_features: []
   packFolder: regkhfolk
 ---

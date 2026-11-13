@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: long
+    face_shape: round
+    nose: broad
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: kiichchikshuqash
 ---

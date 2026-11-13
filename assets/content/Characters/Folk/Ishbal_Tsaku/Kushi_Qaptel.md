@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: knotted
+    face_shape: round
+    nose: hooked
+    brow: straight
+    mouth: small
     extra_features: []
   packFolder: kiichchikixbaltzaku
 ---

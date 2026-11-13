@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [ruddy]
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

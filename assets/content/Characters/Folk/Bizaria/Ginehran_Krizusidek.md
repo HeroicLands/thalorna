@@ -26,6 +26,12 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: long
+    face_shape: long
+    nose: straight
+    brow: bushy
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: dark_blonde
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: aquiline
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [weathered]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: heart
+    nose: straight
+    brow: bushy
+    mouth: full
     extra_features: []
   packFolder: ankarisdunhara
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: oval
+    nose: aquiline
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

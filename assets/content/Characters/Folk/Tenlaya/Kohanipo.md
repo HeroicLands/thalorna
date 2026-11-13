@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [leathery]
+    hair_texture: wavy
+    hair_style: braided
+    face_shape: oval
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: kiichchiktenlaya
 ---

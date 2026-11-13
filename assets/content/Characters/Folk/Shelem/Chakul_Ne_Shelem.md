@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [smooth]
+    hair_texture: straight
+    hair_style: knotted
+    face_shape: round
+    nose: aquiline
+    brow: arched
+    mouth: small
     extra_features: []
   packFolder: kiichchikxelem
 ---

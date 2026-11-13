@@ -26,6 +26,12 @@ data:
     hair_color: dark_blonde
     skin_color: olive
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: braided
+    face_shape: angular
+    nose: straight
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

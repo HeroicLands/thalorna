@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: light
     complexion: [smooth]
+    hair_texture: curly
+    hair_style: long
+    face_shape: angular
+    nose: aquiline
+    brow: heavy
+    mouth: wide
     extra_features: []
   packFolder: helladbyzaria
 ---

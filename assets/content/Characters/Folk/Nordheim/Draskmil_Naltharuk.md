@@ -28,6 +28,12 @@ data:
     hair_color: dark_brown
     skin_color: pale
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: broad
+    nose: crooked
+    brow: straight
+    mouth: small
     extra_features: []
   packFolder: ankarisnordlands
 ---

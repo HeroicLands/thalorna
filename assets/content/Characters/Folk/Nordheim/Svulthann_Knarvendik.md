@@ -26,6 +26,12 @@ data:
     hair_color: red
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: long
+    nose: crooked
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 ---

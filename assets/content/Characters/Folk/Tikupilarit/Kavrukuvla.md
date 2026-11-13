@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [leathery]
+    hair_texture: straight
+    hair_style: short
+    face_shape: oval
+    nose: upturned
+    brow: thin
+    mouth: small
     extra_features: []
   packFolder: kiichchiktikupilarit
 ---

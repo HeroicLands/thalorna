@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: oval
+    nose: straight
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: kiichchikshuqash
 ---

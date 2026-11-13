@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [clear]
+    hair_texture: straight
+    hair_style: long
+    face_shape: heart
+    nose: straight
+    brow: straight
+    mouth: full
     extra_features: []
   packFolder: regkhfolk
 ---

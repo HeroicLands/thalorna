@@ -26,6 +26,12 @@ data:
     hair_color: auburn
     skin_color: olive
     complexion: [ruddy]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: angular
+    nose: hooked
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [chapped]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: square
+    nose: straight
+    brow: heavy
+    mouth: thin
     extra_features: []
   packFolder: kiichchikkelwanuk
 ---

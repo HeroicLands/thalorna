@@ -26,6 +26,12 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [ruddy]
+    hair_texture: curly
+    hair_style: long
+    face_shape: oval
+    nose: snub
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: aureldiaaelwyth
 ---

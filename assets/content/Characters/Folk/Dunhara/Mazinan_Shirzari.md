@@ -26,6 +26,12 @@ data:
     hair_color: chestnut
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: short
+    face_shape: oval
+    nose: aquiline
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: ankarisdunhara
 ---

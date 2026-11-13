@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: round
+    nose: straight
+    brow: bushy
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

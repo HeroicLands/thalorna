@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: short
+    face_shape: round
+    nose: broad
+    brow: arched
+    mouth: small
     extra_features: []
   packFolder: kiichchiktenlaya
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: long
+    face_shape: oval
+    nose: straight
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: kiichchiktokchiaska
 ---

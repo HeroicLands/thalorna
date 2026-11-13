@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: ebony
     complexion: [clear]
+    hair_texture: coily
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: aquiline
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: regkhhk
 ---

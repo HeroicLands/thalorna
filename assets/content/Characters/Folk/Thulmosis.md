@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [clear]
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: heart
+    nose: straight
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: regkhfolk
 ---

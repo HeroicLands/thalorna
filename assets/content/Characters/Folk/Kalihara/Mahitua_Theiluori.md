@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [clear]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: angular
+    nose: straight
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: kalihara
 ---

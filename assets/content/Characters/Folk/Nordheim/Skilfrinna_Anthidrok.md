@@ -26,6 +26,12 @@ data:
     hair_color: auburn
     skin_color: fair
     complexion: [ruddy]
+    hair_texture: straight
+    hair_style: long
+    face_shape: broad
+    nose: straight
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

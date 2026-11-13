@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_texture: wavy
+    hair_style: braided
+    face_shape: round
+    nose: broad
+    brow: straight
+    mouth: full
     extra_features: []
   packFolder: kiichchiktikupilarit
 ---

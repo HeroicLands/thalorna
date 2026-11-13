@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: brown
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: straight
+    brow: heavy
+    mouth: thin
     extra_features: []
   packFolder: ankarisdunhara
 ---

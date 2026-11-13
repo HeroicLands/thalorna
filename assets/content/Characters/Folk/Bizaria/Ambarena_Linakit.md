@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [ruddy]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: square
+    nose: crooked
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

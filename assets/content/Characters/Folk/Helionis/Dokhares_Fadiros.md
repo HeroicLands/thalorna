@@ -26,6 +26,12 @@ data:
     hair_color: chestnut
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: cropped
+    face_shape: oval
+    nose: aquiline
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: helladhelionis
 ---

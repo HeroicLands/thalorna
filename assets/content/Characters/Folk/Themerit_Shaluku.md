@@ -26,6 +26,12 @@ data:
     hair_color: greying_black
     skin_color: dark_brown
     complexion: [clear]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: round
+    nose: aquiline
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: regkhfolk
 ---

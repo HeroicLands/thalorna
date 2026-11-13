@@ -26,6 +26,12 @@ data:
     hair_color: grey
     skin_color: ebony
     complexion: [clear]
+    hair_texture: coily
+    hair_style: shoulder_length
+    face_shape: heart
+    nose: straight
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: regkhhk
 ---

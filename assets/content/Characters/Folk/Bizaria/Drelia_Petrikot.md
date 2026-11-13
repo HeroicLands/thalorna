@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: square
+    nose: crooked
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

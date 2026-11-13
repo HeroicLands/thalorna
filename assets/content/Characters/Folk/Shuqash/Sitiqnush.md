@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: round
+    nose: broad
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: kiichchikshuqash
 ---

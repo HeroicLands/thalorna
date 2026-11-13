@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: angular
+    nose: straight
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

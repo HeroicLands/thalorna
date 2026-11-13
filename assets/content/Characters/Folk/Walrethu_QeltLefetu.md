@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: dark_brown
     complexion: [clear]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: round
+    nose: narrow
+    brow: bushy
+    mouth: wide
     extra_features: []
   packFolder: regkhfolk
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [leathery]
+    hair_texture: straight
+    hair_style: long
+    face_shape: broad
+    nose: snub
+    brow: arched
+    mouth: small
     extra_features: []
   packFolder: kiichchiktikupilarit
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [clear]
+    hair_texture: coily
+    hair_style: cropped
+    face_shape: heart
+    nose: narrow
+    brow: bushy
+    mouth: wide
     extra_features: []
   packFolder: regkhfolk
 ---

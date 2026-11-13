@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: long
+    face_shape: oval
+    nose: broad
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: kiichchikosetakona
 ---

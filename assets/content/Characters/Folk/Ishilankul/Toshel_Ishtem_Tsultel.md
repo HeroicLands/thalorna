@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [smooth]
+    hair_texture: straight
+    hair_style: long
+    face_shape: square
+    nose: straight
+    brow: heavy
+    mouth: small
     extra_features: []
   packFolder: kiichchikixilankul
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: long
+    nose: hooked
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

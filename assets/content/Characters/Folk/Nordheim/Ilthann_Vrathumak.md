@@ -26,6 +26,12 @@ data:
     hair_color: auburn
     skin_color: pale
     complexion: [smooth]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: angular
+    nose: aquiline
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

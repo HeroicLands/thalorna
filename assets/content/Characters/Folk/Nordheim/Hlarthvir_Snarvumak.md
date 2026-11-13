@@ -26,6 +26,12 @@ data:
     hair_color: red
     skin_color: pale
     complexion: [freckled]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: angular
+    nose: aquiline
+    brow: straight
+    mouth: small
     extra_features: []
   packFolder: ankarisnordlands
 ---

@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [ruddy]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: square
+    nose: aquiline
+    brow: straight
+    mouth: full
     extra_features: []
   packFolder: kiichchikkelwanuk
 ---

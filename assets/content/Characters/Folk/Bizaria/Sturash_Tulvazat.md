@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: knotted
+    face_shape: oval
+    nose: crooked
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: helladbyzaria
 ---

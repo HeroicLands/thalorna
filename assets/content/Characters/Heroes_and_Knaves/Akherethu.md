@@ -27,6 +27,11 @@ data:
     skin_color: dark_brown
     complexion: [weathered]
     hair_style: bald
+    hair_texture: wavy
+    face_shape: long
+    nose: straight
+    brow: arched
+    mouth: wide
     extra_features: ["a bald head"]
   packFolder: regkhhk
 ---

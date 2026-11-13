@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: dark_brown
     complexion: [clear]
+    hair_texture: wavy
+    hair_style: cropped
+    face_shape: long
+    nose: broad
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: regkhfolk
 ---

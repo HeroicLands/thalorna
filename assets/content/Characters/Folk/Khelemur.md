@@ -26,6 +26,12 @@ data:
     hair_color: greying_black
     skin_color: brown
     complexion: [smooth]
+    hair_texture: coily
+    hair_style: long
+    face_shape: heart
+    nose: broad
+    brow: arched
+    mouth: thin
     extra_features: ["ink-stained fingers"]
   packFolder: regkhfolk
 ---

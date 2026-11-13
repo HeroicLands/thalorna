@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: brown
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: shaved_sides
+    face_shape: round
+    nose: broad
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: kiichchiktokchiaska
 ---

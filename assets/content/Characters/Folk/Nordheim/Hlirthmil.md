@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [freckled]
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: snub
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

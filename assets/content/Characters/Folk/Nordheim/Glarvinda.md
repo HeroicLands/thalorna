@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [scarred]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: long
+    nose: straight
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

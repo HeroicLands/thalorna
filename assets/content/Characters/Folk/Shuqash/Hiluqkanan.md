@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: brown
     complexion: [leathery]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: square
+    nose: broad
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: kiichchikshuqash
 ---
