@@ -4,7 +4,7 @@ name: {full: Impaired Vision}
 type: trauma
 subType: physcond
 tags: []
-data: {icon: battlegear, templatePriority: 0, packFolder: traumaphysical}
+data: {kind: physcond, icon: battlegear, templatePriority: 0, packFolder: traumaphysical}
 sohl: {kbcat: physdisability, system: {category: impediment}}
 ---
 

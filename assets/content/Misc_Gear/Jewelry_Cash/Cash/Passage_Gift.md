@@ -4,7 +4,7 @@ name: {full: Passage-Gift}
 type: miscgear
 description: "The bag of silver a Vilérian merchant train hands to the Áelendan clans at the first camp below each Kervaron pass; it is weighed in the hand and never counted, and nobody on either side calls it a toll."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: cash}
 sohl: {kbcat: cash, system: {weightBase: 0.33, valueBase: 100, qualityBase: 0, durabilityBase: 3}}
 ---
 

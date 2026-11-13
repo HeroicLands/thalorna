@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Three-dimensional image of person or creature; dispels upon contact."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

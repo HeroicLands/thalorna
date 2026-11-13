@@ -4,7 +4,7 @@ name: {full: Waxed Canvas Cowl}
 type: armorgear
 description: "Waxed canvas cowl keeping rain off head and shoulders."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: hood, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

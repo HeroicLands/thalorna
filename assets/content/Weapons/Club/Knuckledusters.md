@@ -4,7 +4,7 @@ name: {full: Knuckledusters}
 type: weapongear
 description: "Iron rings weighted-knuckle; tavern brawl and street ambush stealth."
 tags: []
-data: {icon: icon-knuckledusters, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-knuckledusters, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: club
   weaponType: Club

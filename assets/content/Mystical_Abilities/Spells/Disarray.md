@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Scatters enemy formations; combatants stumble and collide confusedly."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

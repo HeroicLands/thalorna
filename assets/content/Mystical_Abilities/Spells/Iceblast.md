@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Compressed ice sphere detonates into razor-sharp, laceration-causing shards."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

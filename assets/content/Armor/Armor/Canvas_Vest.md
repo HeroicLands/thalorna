@@ -4,7 +4,7 @@ name: {full: Canvas Vest}
 type: armorgear
 description: "Sleeveless canvas vest offering tough, unfussy body cover."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leathervest, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

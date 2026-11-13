@@ -4,7 +4,7 @@ name: {full: Ring Vest}
 type: armorgear
 description: "Sleeveless ring-reinforced leather vest; light-duty torso armor."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leathervest, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: ring

@@ -4,7 +4,7 @@ name: {full: Mail Leggings}
 type: armorgear
 description: "Metal ring leg coverings providing substantial protection against slashes."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

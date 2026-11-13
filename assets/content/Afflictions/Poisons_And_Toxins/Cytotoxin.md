@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Cell-destroying toxin; intense pain and necrosis at injection site."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

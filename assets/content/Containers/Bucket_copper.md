@@ -4,7 +4,7 @@ name: {full: "Bucket, copper"}
 type: containergear
 description: "Tinned-copper bucket for heating and cooking without iron."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 2, valueBase: 12, qualityBase: 0, durabilityBase: 4, maxCapacityBase: 24}

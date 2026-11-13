@@ -4,7 +4,7 @@ name: {full: Tower Shield}
 type: weapongear
 description: "Man-tall standing shield providing total cover against arrow storms."
 tags: []
-data: {icon: shieldbdg, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: shieldbdg, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: shield

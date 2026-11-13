@@ -4,7 +4,7 @@ name: {full: Padded Trousers}
 type: armorgear
 description: "Cushioned leg covering providing warmth and added protection."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

@@ -4,7 +4,7 @@ name: {full: The Horn of Hafvald}
 type: miscgear
 description: "One of the three regalia of Groa's quest—the horn of an older sea-power, whose name unsettlingly resembles that of the wraith it is needed to bind."
 tags: [artifact, regalia, nordlands]
-data: {templatePriority: null, packFolder: nordlands}
+data: {kind: miscgear, templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 12}}
 ---
 

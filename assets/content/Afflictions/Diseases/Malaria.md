@@ -6,6 +6,7 @@ subType: disease
 description: "Plasmodium parasite via mosquito; cyclical fever and chills; often fatal untreated."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

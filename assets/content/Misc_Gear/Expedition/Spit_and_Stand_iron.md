@@ -4,7 +4,7 @@ name: {full: "Spit and Stand, iron"}
 type: miscgear
 description: "Iron roasting spit on adjustable stand for campfire or hearth cooking."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

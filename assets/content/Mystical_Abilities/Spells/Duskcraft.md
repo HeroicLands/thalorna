@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Summons darkness; obscures vision within spreading circle of shadow."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

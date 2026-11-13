@@ -4,7 +4,7 @@ name: {full: Quilted Monsoon Coat}
 type: armorgear
 description: "Waxed quilted cotton coat worn on coastal patrol duty; light protection that turns rain as well as a blade."
 tags: []
-data: {icon: sohl-none-icon-cloak, templatePriority: null, packFolder: armorarmor}
+data: {kind: armor, icon: sohl-none-icon-cloak, templatePriority: null, packFolder: armorarmor}
 sohl:
   kbcat: quilted
   armorType: Coat

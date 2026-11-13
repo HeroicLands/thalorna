@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "A pair of dye cakes, a vine green and a coral red, the colors of the ring Thári-vaan takes for its sign, worked by the dyers of Nalurithan and Ilovanu."
 tags: [kalihara]
-data: {icon: icon-potion, templatePriority: null, packFolder: simples}
+data: {kind: simples, icon: icon-potion, templatePriority: null, packFolder: simples}
 sohl:
   system:
     weightBase: 0.4

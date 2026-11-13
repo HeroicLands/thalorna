@@ -4,7 +4,7 @@ name: {full: Knight's Shield}
 type: weapongear
 description: "Heater-shield painted with heraldic coat; nobleman's marked defense."
 tags: []
-data: {icon: shieldbdg, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: shieldbdg, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: shield

@@ -4,7 +4,7 @@ name: {full: "Beer, Keg"}
 type: miscgear
 description: "Small-beer in bulk; thin, sour, cheap for troops and workforces."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

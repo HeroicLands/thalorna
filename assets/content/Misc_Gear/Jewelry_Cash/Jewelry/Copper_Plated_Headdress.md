@@ -4,7 +4,7 @@ name: {full: Copper-Plated Headdress}
 type: miscgear
 description: "A feathered headdress faced with copper plates, worn by the One Fire's falcon dancers before a war."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   craft: {skill: mtlc, secondary: []}

@@ -4,7 +4,7 @@ name: {full: Silver}
 type: miscgear
 description: "Precious metal in ingots or coins; does not tarnish; accepts engraving."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

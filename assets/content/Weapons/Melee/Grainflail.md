@@ -4,7 +4,7 @@ name: {full: Grainflail}
 type: weapongear
 description: "Threshing-floor flail for rapid unpredictable arc; militia's accessible reach."
 tags: []
-data: {icon: flail, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: flail, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: flail

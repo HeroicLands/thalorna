@@ -4,7 +4,7 @@ name: {full: Homespun Dress}
 type: armorgear
 description: "Simple homemade dress providing coverage and comfort."
 tags: []
-data: {icon: dress, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: dress, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

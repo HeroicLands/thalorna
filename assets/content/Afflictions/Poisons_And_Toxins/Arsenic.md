@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Metalloid poison; causes gastrointestinal bleeding and organ failure."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

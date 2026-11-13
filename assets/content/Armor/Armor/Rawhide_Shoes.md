@@ -4,7 +4,7 @@ name: {full: Rawhide Shoes}
 type: armorgear
 description: "Stout hide footwear; durable and protective."
 tags: []
-data: {icon: leatherboot, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leatherboot, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

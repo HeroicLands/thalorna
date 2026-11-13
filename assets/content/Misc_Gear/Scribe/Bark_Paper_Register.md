@@ -4,7 +4,7 @@ name: {full: Bark-Paper Register}
 type: miscgear
 description: "A folded book of bark-paper in which a Warden of the Debt enters each gift of blood against the event it answers."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.8, valueBase: 70, qualityBase: 0, durabilityBase: 4}}
 ---
 

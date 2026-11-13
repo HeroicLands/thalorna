@@ -4,7 +4,7 @@ name: {full: Vilérian Ogdel, en: [Bit], vyl: [Ogdel]}
 type: miscgear
 description: "Physical eighth of an Ardin; the everyday small-denomination imperial coin."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

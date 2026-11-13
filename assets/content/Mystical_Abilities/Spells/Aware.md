@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Sharpens senses; target perceives details invisible to normal sight."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

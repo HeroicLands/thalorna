@@ -4,7 +4,7 @@ name: {full: Ocarina Flute}
 type: miscgear
 description: "Egg-shaped clay-wood vessel with holes; soft mournful voice; shepherd's instrument."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

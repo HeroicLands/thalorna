@@ -5,7 +5,7 @@ type: projectilegear
 subType: bolt
 description: "Iron-headed shaft the length of a leg; loosed by engine, not by arm."
 tags: []
-data: {icon: barbedspear, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: barbedspear, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: fltch, secondary: [wood, mtlc]}
   traits: {ARvalue: 6, bleed: true}

@@ -4,7 +4,7 @@ name: {full: "Lockbox, large"}
 type: containergear
 description: "Iron-banded hardwood chest with wardlock; merchant's vault for valuables."
 tags: []
-data: {icon: chest, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: chest, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 5, valueBase: 150, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 20}

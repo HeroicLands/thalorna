@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Nearly black purple-tinged liquid; seduces with overwhelming attraction."
 tags: [great-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: great}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

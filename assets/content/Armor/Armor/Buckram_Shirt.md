@@ -4,7 +4,7 @@ name: {full: Buckram Shirt}
 type: armorgear
 description: "Stiff buckram shirt providing durability and reliable rigid fit."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

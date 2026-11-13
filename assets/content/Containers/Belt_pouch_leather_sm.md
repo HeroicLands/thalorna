@@ -4,7 +4,7 @@ name: {full: "Belt pouch, leather, sm"}
 type: containergear
 description: "Small leather belt pouch barely larger than a fist."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 0.25, valueBase: 2, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 1.5}

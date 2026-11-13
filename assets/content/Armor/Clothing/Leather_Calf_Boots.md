@@ -4,7 +4,7 @@ name: {full: Leather Calf Boots}
 type: armorgear
 description: "Lightweight leather leg coverings extending below the knee for active pursuers."
 tags: []
-data: {icon: leatherboot, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leatherboot, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

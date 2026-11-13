@@ -4,7 +4,7 @@ name: {full: Grease}
 type: miscgear
 description: "Rendered mutton-beef-hog fat; cooking, waterproofing leather, axle lubrication."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: natural

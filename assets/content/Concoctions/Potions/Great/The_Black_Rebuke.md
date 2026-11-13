@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Nearly black tar-like liquid; causes violent vomiting and illness."
 tags: [great-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: great}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

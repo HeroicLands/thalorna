@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Erupts continuous wall of flame; blocks passage and sears crossing."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

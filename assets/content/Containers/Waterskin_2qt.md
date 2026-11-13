@@ -4,7 +4,7 @@ name: {full: "Waterskin, 2qt."}
 type: containergear
 description: "Pitch-lined hide waterskin with horn plug; essential traveling gear."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 1, valueBase: 2, qualityBase: 0, durabilityBase: 7, maxCapacityBase: 4}

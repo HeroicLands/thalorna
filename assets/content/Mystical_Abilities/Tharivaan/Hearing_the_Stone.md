@@ -5,7 +5,7 @@ type: mysticalability
 subType: divination
 description: "The answering of Kalihara: a person one of Kalihara’s works answers knows that work's state—working, working badly, stopped or dead—and nothing else."
 tags: [tharivaan]
-data: {icon: icon-divination, templatePriority: null, packFolder: tharivaan}
+data: {kind: divination, icon: icon-divination, templatePriority: null, packFolder: tharivaan}
 sohl:
   system:
     assocSkillCode: ""

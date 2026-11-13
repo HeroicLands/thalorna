@@ -4,7 +4,7 @@ name: {full: Worsted Trousers}
 type: armorgear
 description: "Tightly-spun wool trousers; warm, durable leg wear."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: "Urn, ceramic, 5 gallon"}
 type: containergear
 description: "Wide-mouthed storage urn for grain, flour, or salt (5 gallons)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 9, valueBase: 12, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 40}

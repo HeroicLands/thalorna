@@ -4,7 +4,7 @@ name: {full: The Reliquary of Ménavar, en: [The Ménavar Relic]}
 type: miscgear
 description: "A reliquary of beaten silver holding the bones of the hand of Ménavar Abbey's founder, a healer of the Faith of Lizelas, credited with cures and lost in the abbey's ruins since the Nordheim fleets gutted it; four parties want it."
 tags: [artifact, provenzia]
-data: {templatePriority: null, packFolder: provenzia, unique: true}
+data: {kind: miscgear, templatePriority: null, packFolder: provenzia, unique: true}
 sohl: {system: {weightBase: 3, valueBase: 0, qualityBase: 0, durabilityBase: 10}}
 ---
 

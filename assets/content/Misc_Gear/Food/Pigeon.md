@@ -4,7 +4,7 @@ name: {full: Pigeon}
 type: miscgear
 description: "Mild tender meat from trapped cotes, small carcass rich with fat."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: food

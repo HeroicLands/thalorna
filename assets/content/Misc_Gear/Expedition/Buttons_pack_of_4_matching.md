@@ -4,7 +4,7 @@ name: {full: "Buttons, pack of 4 (matching)"}
 type: miscgear
 description: "Four identical bone, horn, or metal buttons; for garment fastening and repairs."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

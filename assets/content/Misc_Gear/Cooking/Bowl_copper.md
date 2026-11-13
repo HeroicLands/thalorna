@@ -4,7 +4,7 @@ name: {full: "Bowl, copper"}
 type: miscgear
 description: "Tinned copper bowl; conducts heat evenly and suits kitchen and table use."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

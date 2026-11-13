@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Burst of psychic pain disorienting multiple targets simultaneously."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

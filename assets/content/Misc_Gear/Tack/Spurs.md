@@ -4,7 +4,7 @@ name: {full: Spurs}
 type: miscgear
 description: "Iron or bronze rowels on heel straps; urges horse; marks cavalry rank."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: tack

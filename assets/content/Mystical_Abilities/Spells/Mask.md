@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Illusion hiding caster's identity and appearance; deeply deceptive."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

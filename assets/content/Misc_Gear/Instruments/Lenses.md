@@ -4,7 +4,7 @@ name: {full: "Lenses"}
 type: miscgear
 description: "Ground and polished glass lenses for magnification; costly and fragile."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: glas, secondary: []}
   kbcat: instruments

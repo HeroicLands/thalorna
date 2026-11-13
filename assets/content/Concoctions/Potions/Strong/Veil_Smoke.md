@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Almost indigo draft; obscures vision and conceals drinker."
 tags: [strong-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: strong}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

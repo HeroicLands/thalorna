@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Perceives an event at a remove in time rather than in distance."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

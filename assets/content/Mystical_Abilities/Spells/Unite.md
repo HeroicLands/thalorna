@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Joins two beings together; creates mystical sympathetic bond."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

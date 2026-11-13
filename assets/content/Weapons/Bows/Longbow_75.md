@@ -4,7 +4,7 @@ name: {full: Longbow 75}
 type: weapongear
 description: "Seventy-five pound village hunter's reliable bow; skirmish-worthy."
 tags: []
-data: {icon: pocketbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: pocketbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: bow

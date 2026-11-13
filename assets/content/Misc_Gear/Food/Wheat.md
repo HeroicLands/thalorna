@@ -4,7 +4,7 @@ name: {full: Wheat}
 type: miscgear
 description: "Golden grain for fine bread and pastries, stores years when sealed."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

@@ -4,7 +4,7 @@ name: {full: Rajavali Palm-Leaf Manuscript}
 type: miscgear
 description: "A bound sheaf of palm-leaf pages from the Rajavali Library, carrying a chronicle, treaty or legal text in the old abjad."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 1.5, valueBase: 25, qualityBase: 0, durabilityBase: 4}}
 ---
 

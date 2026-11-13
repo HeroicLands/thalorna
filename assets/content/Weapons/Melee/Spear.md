@@ -4,7 +4,7 @@ name: {full: Spear}
 type: weapongear
 description: "Sharpened point on wood; universal polearm for thrust and formation."
 tags: []
-data: {icon: spears, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: spears, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: polearm

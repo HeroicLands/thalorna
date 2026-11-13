@@ -4,7 +4,7 @@ name: {full: "Scythe"}
 type: miscgear
 description: "Long curved blade on a bent haft for mowing hay and standing grain."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

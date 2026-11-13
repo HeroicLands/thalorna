@@ -4,7 +4,12 @@ name: {full: The Last Tablet of Sunhemai, en: [The Prince's Last Tablet, The Pri
 type: miscgear
 description: "The tablet on which the last prince of old Vahurdash is sung to have pressed a line with his thumbnail as the sand came in, lying unfound in the record-house under Veshkun with the keepers who would not leave; nobody knows what it says."
 tags: [artifact, khazryn]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: khazryndesert, unique: true}
+data:
+  kind: miscgear
+  icon: icon-coinsbdg
+  templatePriority: null
+  packFolder: khazryndesert
+  unique: true
 sohl: {system: {weightBase: 1, valueBase: 0, qualityBase: 0, durabilityBase: 5}}
 ---
 

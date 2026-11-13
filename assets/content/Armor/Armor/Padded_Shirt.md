@@ -4,7 +4,7 @@ name: {full: Padded Shirt}
 type: armorgear
 description: "Cushioned torso covering for warmth and cold weather protection."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

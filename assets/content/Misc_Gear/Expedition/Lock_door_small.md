@@ -4,7 +4,7 @@ name: {full: "Lock, door, small"}
 type: miscgear
 description: "Refined iron lock for chamber doors and cabinet shutters; finely warded."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: lock, secondary: [mtlc]}
   kbcat: expedition

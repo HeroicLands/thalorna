@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Dominates target's will; forces absolute obedience."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

@@ -5,7 +5,7 @@ type: trauma
 subType: physcond
 description: "Chronic shortage of nutrients; poor healing, scurvy-like signs."
 tags: []
-data: {icon: stomach, templatePriority: 0, packFolder: privations}
+data: {kind: privation, icon: stomach, templatePriority: 0, packFolder: privations}
 sohl: {kbcat: physprivations, system: {category: impediment, levelBase: 2, healingRateBase: 2}}
 ---
 

@@ -4,7 +4,7 @@ name: {full: "Quiver, sm (shoulder or hip)"}
 type: containergear
 description: "Smaller quiver worn at shoulder or hip for light archery and hunting."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 3, valueBase: 8, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 1.5}

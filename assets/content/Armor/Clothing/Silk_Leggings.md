@@ -4,7 +4,7 @@ name: {full: Silk Leggings}
 type: armorgear
 description: "Luxurious silk leggings; soft, elegant for formal occasions."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

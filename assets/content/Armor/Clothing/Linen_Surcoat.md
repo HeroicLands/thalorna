@@ -4,7 +4,7 @@ name: {full: Linen Surcoat}
 type: armorgear
 description: "Light breathable outer layer suitable for warm weather casual wear."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

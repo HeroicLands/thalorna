@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Surrounds caster in concealing mist; obscures vision and movement."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

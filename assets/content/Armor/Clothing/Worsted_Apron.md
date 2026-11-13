@@ -4,7 +4,7 @@ name: {full: Worsted Apron}
 type: armorgear
 description: "Tightly-spun wool apron; durable for tasks requiring resilience."
 tags: []
-data: {icon: cook, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cook, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

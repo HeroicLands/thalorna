@@ -4,7 +4,7 @@ name: {full: Plate ¾-Helm}
 type: armorgear
 description: "Steel helm covering crown and face; knight-favored with narrow sight-slit."
 tags: []
-data: {icon: crestedhelmet, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: crestedhelmet, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

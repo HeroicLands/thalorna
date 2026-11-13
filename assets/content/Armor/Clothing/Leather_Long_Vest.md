@@ -4,7 +4,7 @@ name: {full: Leather Long Vest}
 type: armorgear
 description: "Stylish leather outer layer providing minimal protection for everyday wear."
 tags: []
-data: {icon: leatherarmor, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leatherarmor, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

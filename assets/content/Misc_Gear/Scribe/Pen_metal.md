@@ -4,7 +4,7 @@ name: {full: "Pen, metal"}
 type: miscgear
 description: "Steel nib in bone or wood handle; steady line, favored by professionals."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: scribe

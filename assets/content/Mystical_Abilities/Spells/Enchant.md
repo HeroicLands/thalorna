@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Imbues object with magic; grants it power or special property."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

@@ -4,7 +4,7 @@ name: {full: "Satchel, waxed canvas, lg"}
 type: containergear
 description: "Large waxed canvas shoulder bag; sheds rain."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 1.1, valueBase: 4, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 20}

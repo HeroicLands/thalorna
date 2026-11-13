@@ -4,7 +4,7 @@ name: {full: "Spade"}
 type: miscgear
 description: "Iron-shod digging spade for earth, peat, and drainage work."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

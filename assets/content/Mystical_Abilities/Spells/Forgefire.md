@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Kindles intense heat; burns with hammering force like forge blast."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

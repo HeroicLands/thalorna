@@ -4,7 +4,7 @@ name: {full: "Paint, per gallon"}
 type: miscgear
 description: "Pigmented oil or lime-wash for painters and masons; premium colors cost more."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: expedition

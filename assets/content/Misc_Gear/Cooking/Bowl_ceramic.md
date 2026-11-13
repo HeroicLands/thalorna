@@ -4,7 +4,7 @@ name: {full: "Bowl, ceramic"}
 type: miscgear
 description: "Glazed earthenware bowl for pottage, milk, or dough."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: cmcs, secondary: []}
   kbcat: cooking

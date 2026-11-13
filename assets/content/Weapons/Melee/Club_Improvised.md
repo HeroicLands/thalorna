@@ -4,7 +4,7 @@ name: {full: "Club, Improvised"}
 type: weapongear
 description: "Branch or timber wrenched to hand; widow-maker of necessity."
 tags: []
-data: {icon: club, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: club, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: club

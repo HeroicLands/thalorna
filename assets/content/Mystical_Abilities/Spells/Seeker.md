@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Seeks hidden objects; reveals location of sought-after item."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Shield deflects magical effects back toward their originating caster."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

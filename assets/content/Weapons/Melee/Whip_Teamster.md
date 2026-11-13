@@ -4,7 +4,7 @@ name: {full: "Whip, Teamster"}
 type: weapongear
 description: "Short cord lash stinging rather than cutting; driver's incidental combat tool."
 tags: []
-data: {icon: whip, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: whip, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: whip

@@ -5,7 +5,7 @@ type: trauma
 subType: physcond
 description: "Catastrophic heat injury; dry hot skin, confusion, seizure, death."
 tags: []
-data: {icon: stomach, templatePriority: 0, packFolder: privations}
+data: {kind: privation, icon: stomach, templatePriority: 0, packFolder: privations}
 sohl: {kbcat: physprivations, system: {category: debility, levelBase: 4, healingRateBase: 1}}
 ---
 

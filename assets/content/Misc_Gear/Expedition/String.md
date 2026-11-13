@@ -4,7 +4,7 @@ name: {full: String}
 type: miscgear
 description: "Twisted twine bundled for bundling firewood and lashing bedrolls closed."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

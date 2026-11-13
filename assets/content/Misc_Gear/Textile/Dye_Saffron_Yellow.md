@@ -4,7 +4,7 @@ name: {full: "Dye, Saffron Yellow"}
 type: miscgear
 description: "Dried crocus stigmas; brilliant golden yellow for noble silk garments."
 tags: [clothing]
-data: {icon: roundpotion, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: dye

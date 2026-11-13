@@ -4,7 +4,7 @@ name: {full: Trident}
 type: weapongear
 description: "Three-pronged fork binding and piercing; favored by pit-fighters."
 tags: []
-data: {icon: trident, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: trident, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: polearm

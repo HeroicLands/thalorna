@@ -4,7 +4,7 @@ name: {full: Horsemeat}
 type: miscgear
 description: "Lean meat from spent beasts; tougher, stewed or smoked for pallability."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

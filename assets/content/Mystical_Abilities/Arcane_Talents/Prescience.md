@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Warns of what is about to happen, moments or days before it does."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

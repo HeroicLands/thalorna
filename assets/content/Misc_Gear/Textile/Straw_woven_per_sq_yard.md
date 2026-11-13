@@ -4,7 +4,7 @@ name: {full: "Straw, woven, per sq yard"}
 type: miscgear
 description: "Plaited straw worked into sheet; hats, light summer wear and coarse matting."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

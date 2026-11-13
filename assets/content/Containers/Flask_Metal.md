@@ -4,7 +4,7 @@ name: {full: "Flask, Metal"}
 type: containergear
 description: "Hammered tinned copper flask for carrying liquids at belt."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 0, valueBase: 3, qualityBase: 0, durabilityBase: 7, maxCapacityBase: 1}

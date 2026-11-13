@@ -4,7 +4,7 @@ name: {full: Threshold Lamp}
 type: miscgear
 description: "A small oil lamp lit and kept burning through the night a family member is dying, signifying the household's readiness to release the soul."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: lighting}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: lighting}
 sohl:
   kbcat: lighting
   craft: {skill: mtlc, secondary: []}

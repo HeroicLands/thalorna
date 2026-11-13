@@ -4,7 +4,7 @@ name: {full: "Horn, Hunting"}
 type: miscgear
 description: "Curved ram-bullock horn; sharp clear signals coordinate huntsmen and call hounds."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

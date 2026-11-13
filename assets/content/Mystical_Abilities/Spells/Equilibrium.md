@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Balances forces; negates momentum and prevents caster's displacement."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

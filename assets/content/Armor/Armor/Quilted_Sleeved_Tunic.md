@@ -4,7 +4,7 @@ name: {full: Quilted Sleeved Tunic}
 type: armorgear
 description: "Padded sleeved tunic; cold-weather garment with full-arm coverage."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Clarifies magical intent; improves accuracy and power of caster's magic."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

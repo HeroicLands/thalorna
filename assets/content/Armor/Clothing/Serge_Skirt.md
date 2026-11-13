@@ -4,7 +4,7 @@ name: {full: Serge Skirt}
 type: armorgear
 description: "Twilled serge skirt; practical, durable garment for various activities."
 tags: []
-data: {icon: skirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: skirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

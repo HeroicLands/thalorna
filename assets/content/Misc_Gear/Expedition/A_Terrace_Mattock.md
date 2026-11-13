@@ -4,7 +4,7 @@ name: {full: A Terrace Mattock}
 type: miscgear
 description: "A short-hafted hardwood mattock with a broad blade, the tool by which a terrace household keeps its wall and its drain."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   system: {weightBase: 2.5, valueBase: 6, qualityBase: 0, durabilityBase: 8}

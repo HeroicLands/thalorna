@@ -4,7 +4,7 @@ name: {full: Worsted Breeches}
 type: armorgear
 description: "Tightly-spun wool breeches; durable, comfortable for regular wear."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

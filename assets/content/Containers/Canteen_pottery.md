@@ -4,7 +4,7 @@ name: {full: "Canteen, pottery"}
 type: containergear
 description: "Glazed earthenware canteen with a stopper."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 1, valueBase: 0.75, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 2}

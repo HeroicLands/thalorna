@@ -4,7 +4,7 @@ name: {full: Plate Rerebraces}
 type: armorgear
 description: "Steel upper-arm guards; covers triceps and rear shoulder."
 tags: []
-data: {icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

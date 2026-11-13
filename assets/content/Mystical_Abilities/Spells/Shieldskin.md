@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Hardens skin into barrier; grants deflection of blows."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

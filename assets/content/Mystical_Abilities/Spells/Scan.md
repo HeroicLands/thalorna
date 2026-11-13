@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Searches nearby area; detects creatures and objects remotely."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

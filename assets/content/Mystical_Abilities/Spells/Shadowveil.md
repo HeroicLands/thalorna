@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Wraps in darkness; grants concealment within shadowed areas."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

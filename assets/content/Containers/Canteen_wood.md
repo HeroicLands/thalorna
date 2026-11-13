@@ -4,7 +4,7 @@ name: {full: "Canteen, wood"}
 type: containergear
 description: "Turned wooden canteen with a stopper."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 0.6, valueBase: 0.4, qualityBase: 0, durabilityBase: 4, maxCapacityBase: 2}

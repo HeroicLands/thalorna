@@ -4,7 +4,7 @@ name: {full: "Chest, wicker, large"}
 type: containergear
 description: "Large lidded wicker chest."
 tags: []
-data: {icon: basket, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: basket, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 15, valueBase: 18, qualityBase: 0, durabilityBase: 5, maxCapacityBase: 50}

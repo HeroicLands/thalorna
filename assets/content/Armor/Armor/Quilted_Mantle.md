@@ -4,7 +4,7 @@ name: {full: Quilted Mantle}
 type: armorgear
 description: "Layered shoulder-wrap; insulates without restriction."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cape, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

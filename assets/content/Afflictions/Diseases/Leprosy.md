@@ -6,6 +6,7 @@ subType: disease
 description: "Chronic bacterial infection; skin patches and nerve damage causing permanent disfigurement."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

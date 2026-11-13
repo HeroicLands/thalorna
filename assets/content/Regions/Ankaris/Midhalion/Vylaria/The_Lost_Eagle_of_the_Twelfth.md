@@ -6,7 +6,12 @@ name:
 type: miscgear
 description: "The orkaima of the Doran Hilvan, the Twelfth, which went up into the Kervaron about 680 AF and never came back; the legion was struck from the rolls for its loss, and the eagle may lie in the ruined fort below the passes where the last cohorts wintered."
 tags: [artifact, vylaria]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: vylaria, unique: true}
+data:
+  kind: miscgear
+  icon: icon-coinsbdg
+  templatePriority: null
+  packFolder: vylaria
+  unique: true
 sohl: {system: {weightBase: 10, valueBase: 0, qualityBase: 0, durabilityBase: 20}}
 ---
 

@@ -4,7 +4,7 @@ name: {full: "Bedroll, heavy"}
 type: miscgear
 description: "Quilted wool and linen roll with oiled canvas cover; durable field bedding."
 tags: [expedition]
-data: {icon: sleepingbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: sleepingbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

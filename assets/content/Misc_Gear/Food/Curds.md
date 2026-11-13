@@ -4,7 +4,7 @@ name: {full: Curds}
 type: miscgear
 description: "Soft fresh curd drained from whey; eaten warm with salt or honey."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

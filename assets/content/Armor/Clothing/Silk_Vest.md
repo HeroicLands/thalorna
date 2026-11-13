@@ -4,7 +4,7 @@ name: {full: Silk Vest}
 type: armorgear
 description: "Elegant silk vest; luxurious, refined garment for formal occasions."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: Linen Mantle}
 type: armorgear
 description: "Breathable outer layer providing sun protection without causing overheating."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

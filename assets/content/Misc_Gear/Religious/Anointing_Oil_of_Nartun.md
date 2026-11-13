@@ -4,7 +4,7 @@ name: {full: Anointing Oil of Nartun, en: [Nartun's Anointing Oil, The Oil of An
 type: miscgear
 description: "The oil the Holy Mother of Nartun pours on a king's forehead in the Mother's Hall, kept in its vessel by the temple of Marendas; a man of the royal house is no king until it touches him."
 tags: []
-data: {icon: icon-potion, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-potion, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.2, valueBase: 0, qualityBase: 0, durabilityBase: 2}

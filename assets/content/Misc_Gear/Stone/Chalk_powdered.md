@@ -4,7 +4,7 @@ name: {full: "Chalk, powdered"}
 type: miscgear
 description: "Ground chalk powder in sealed pot; scribes erase, masons whitewash."
 tags: [stone]
-data: {icon: swapbag, templatePriority: 0, packFolder: stone}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: stone}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: stone

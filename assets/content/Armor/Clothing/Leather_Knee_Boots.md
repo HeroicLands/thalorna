@@ -4,7 +4,7 @@ name: {full: Leather Knee Boots}
 type: armorgear
 description: "Durable leather foot coverings extending above the knee for flexible footwear."
 tags: []
-data: {icon: leatherboot, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leatherboot, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

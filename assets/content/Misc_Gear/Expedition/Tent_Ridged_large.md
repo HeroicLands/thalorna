@@ -4,7 +4,7 @@ name: {full: "Tent, Ridged, large"}
 type: miscgear
 description: "Ridge-pole tent for two or three; pitched roof sheds water well."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

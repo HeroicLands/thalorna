@@ -4,7 +4,7 @@ name: {full: Cherries}
 type: miscgear
 description: "Tart dried cherries from summer harvest; flavor game, sweeten puddings."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

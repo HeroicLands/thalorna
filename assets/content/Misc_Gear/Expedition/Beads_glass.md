@@ -4,7 +4,7 @@ name: {full: "Beads, glass"}
 type: miscgear
 description: "Colored glass beads with swirls; prized for beadwork and fine clothing ornament."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: glas, secondary: []}
   kbcat: expedition

@@ -4,7 +4,7 @@ name: {full: Sealskin Robe}
 type: armorgear
 description: "Water-resistant seal-fur robe; comfort for seafaring folk."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: robe, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

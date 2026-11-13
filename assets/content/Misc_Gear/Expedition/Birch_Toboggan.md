@@ -4,7 +4,7 @@ name: {full: Birch Toboggan}
 type: miscgear
 description: "A flat sled of split birch, curled at the front, that a hunter or a dog pulls over snow."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   craft: {skill: txtl, secondary: []}

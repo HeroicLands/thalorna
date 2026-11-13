@@ -4,7 +4,7 @@ name: {full: Worsted Cowl}
 type: armorgear
 description: "Tightly-spun wool cowl; durable, versatile head covering."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: hood, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

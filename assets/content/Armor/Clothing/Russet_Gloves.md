@@ -4,7 +4,7 @@ name: {full: Russet Gloves}
 type: armorgear
 description: "Reddish-brown wool hand-covers; cold-weather protection."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: gloves, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

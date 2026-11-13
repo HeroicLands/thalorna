@@ -4,7 +4,7 @@ name: {full: Rawhide Loincloth}
 type: armorgear
 description: "Stiff hide garment; minimal coverage for rough environments."
 tags: []
-data: {icon: loincloth, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: loincloth, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

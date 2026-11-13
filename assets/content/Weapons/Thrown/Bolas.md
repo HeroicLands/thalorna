@@ -4,7 +4,7 @@ name: {full: Bolas}
 type: weapongear
 description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
 tags: []
-data: {icon: icon-bolas, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-bolas, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: thrown
   weaponType: Thrown

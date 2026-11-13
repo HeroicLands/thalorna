@@ -4,7 +4,7 @@ name: {full: "Necklace, horn"}
 type: miscgear
 description: "A chain or strung band worn at the throat, in carved horn."
 tags: [jewelry_cash]
-data: {icon: gempendant, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: gempendant, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

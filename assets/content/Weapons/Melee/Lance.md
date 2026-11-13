@@ -4,7 +4,7 @@ name: {full: Lance}
 type: weapongear
 description: "Long thrusting pole for couched cavalry charge; shield-breaker."
 tags: []
-data: {icon: cavalry, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: cavalry, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: polearm

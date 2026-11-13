@@ -4,7 +4,7 @@ name: {full: Trebuchet}
 type: weapongear
 description: "Counterweight stone-thrower; the heaviest engine there is, and the only one that breaks a curtain wall."
 tags: []
-data: {icon: stonesphere, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: stonesphere, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: siege

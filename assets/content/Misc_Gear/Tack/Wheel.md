@@ -4,7 +4,7 @@ name: {full: "Wheel"}
 type: miscgear
 description: "Spoked and iron-tyred cart wheel; a specialist's work."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: tack

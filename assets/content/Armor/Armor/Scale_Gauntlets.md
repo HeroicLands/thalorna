@@ -4,7 +4,7 @@ name: {full: Scale Gauntlets}
 type: armorgear
 description: "Reinforced gloves with sewn metal scales; hand-and-wrist protection."
 tags: []
-data: {icon: gauntlet, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: gauntlet, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide, mtlc]}
   kbcat: scale

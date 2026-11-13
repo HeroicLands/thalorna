@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Creates magical eye observing distant location; relays visual information."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Senses heat variations; perceives temperature and thermal patterns."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

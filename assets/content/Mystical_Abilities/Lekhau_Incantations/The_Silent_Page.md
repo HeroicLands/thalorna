@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Renders writing legible only to a named reader, and blank to everyone else."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garrethzethu, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garrethzethu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaurthzth

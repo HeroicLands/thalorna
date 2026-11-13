@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Commands water flow; raises level or creates powerful currents."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

@@ -4,7 +4,7 @@ name: {full: "Bottle, glass, small"}
 type: containergear
 description: "Small pale glass bottle for tinctures and oils."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 2, valueBase: 12, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 2}

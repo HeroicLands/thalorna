@@ -4,7 +4,7 @@ name: {full: "Hide, Otter/Weasel"}
 type: miscgear
 description: "Riverland otter-weasel pelt; dense guard hair sheds water; lining and collar facing. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural

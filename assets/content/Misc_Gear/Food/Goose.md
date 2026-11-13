@@ -4,7 +4,7 @@ name: {full: Goose}
 type: miscgear
 description: "Plucked rich waterfowl; dark robust meat, rendered fat serves kitchen and lamp."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

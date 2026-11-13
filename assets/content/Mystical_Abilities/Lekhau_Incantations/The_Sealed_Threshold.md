@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Inscribes a ward on a doorway or lid that resists opening by any but the named holder."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqarquz

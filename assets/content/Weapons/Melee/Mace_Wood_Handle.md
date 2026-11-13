@@ -4,7 +4,7 @@ name: {full: "Mace, Wood Handle"}
 type: weapongear
 description: "Flanged iron head on wooden shaft; footman and guard's bone-cracker."
 tags: []
-data: {icon: flangedmace, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: flangedmace, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: club

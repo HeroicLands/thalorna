@@ -4,7 +4,7 @@ name: {full: Feathers}
 type: miscgear
 description: "Down and flight feathers; stuff quilts and padding, used for arrow fletching."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

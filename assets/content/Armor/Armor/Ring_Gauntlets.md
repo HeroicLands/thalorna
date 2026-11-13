@@ -4,7 +4,7 @@ name: {full: Ring Gauntlets}
 type: armorgear
 description: "Leather gloves with ring-reinforced back and fingers."
 tags: []
-data: {icon: mailedfist, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: mailedfist, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: ring

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Establishes permanent mystical link between caster and willing partner."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

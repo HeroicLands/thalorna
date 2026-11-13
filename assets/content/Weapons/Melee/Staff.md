@@ -4,7 +4,7 @@ name: {full: Staff}
 type: weapongear
 description: "Six-foot ashwood pole; reach and parry for peasant and veteran."
 tags: []
-data: {icon: bo, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: bo, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: polearm

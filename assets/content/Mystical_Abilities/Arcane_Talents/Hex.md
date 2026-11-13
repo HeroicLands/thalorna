@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Sets misfortune on a named person, which follows them until it has spent itself."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

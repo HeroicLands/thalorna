@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Simplifies complexity; core dynamics become apparent through meditation."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

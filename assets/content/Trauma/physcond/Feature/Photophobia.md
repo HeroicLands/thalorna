@@ -4,7 +4,7 @@ name: {full: Photophobia}
 type: trauma
 subType: physcond
 tags: []
-data: {icon: dread, templatePriority: 0, packFolder: traumaphysical}
+data: {kind: physcond, icon: dread, templatePriority: 0, packFolder: traumaphysical}
 sohl: {kbcat: physfeature, system: {category: trait, levelBase: 0}}
 ---
 

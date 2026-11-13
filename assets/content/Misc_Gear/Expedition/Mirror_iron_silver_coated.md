@@ -4,7 +4,7 @@ name: {full: "Mirror, iron, silver-coated"}
 type: miscgear
 description: "Iron mirror backed with silver; superior reflection for noble and field use."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

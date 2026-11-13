@@ -4,7 +4,7 @@ name: {full: A kaan-sari-val}
 type: miscgear
 description: "The plaited palm-fiber cord a custodian receives on becoming kaan-vaar, whose knots name the wearer's teacher and the teachers before."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.1, valueBase: 0, qualityBase: 0, durabilityBase: 5}

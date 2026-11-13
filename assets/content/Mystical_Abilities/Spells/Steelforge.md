@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Conjures steel; creates working material from air."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

@@ -4,7 +4,7 @@ name: {full: "Saddle, Riding"}
 type: miscgear
 description: "Ash-wood and leather frame, high pommel and cantle; supports rider comfortably."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: tack

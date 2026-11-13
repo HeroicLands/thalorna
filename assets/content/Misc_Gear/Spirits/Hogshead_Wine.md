@@ -4,7 +4,7 @@ name: {full: Hogshead Wine}
 type: miscgear
 description: "Common wine in large cask; merchant households, feeds season of feasts."
 tags: [spirits]
-data: {icon: winebottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: winebottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

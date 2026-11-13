@@ -4,7 +4,7 @@ name: {full: Fetters}
 type: miscgear
 description: "Iron leg-shackles joined by short chain with locks; restrains prisoners during transport."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

@@ -4,7 +4,7 @@ name: {full: Year Robe}
 type: miscgear
 description: "A bison robe painted with one picture for each winter, in a spiral; the history of a band."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
   craft: {skill: txtl, secondary: []}

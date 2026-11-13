@@ -4,7 +4,7 @@ name: {full: Lamp. glass}
 type: containergear
 description: "Hand-blown glass lamp with open reservoir; shows fuel level clearly."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 2, valueBase: 8, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 0.125}

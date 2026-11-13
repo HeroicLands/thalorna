@@ -4,7 +4,7 @@ name: {full: Lyre}
 type: miscgear
 description: "Ancient wooden frame, curved arms and strings; bright voice for hymns."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

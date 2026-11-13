@@ -4,7 +4,7 @@ name: {full: "Hide, Calf"}
 type: miscgear
 description: "Young bovine hide, soft and thin; fine leather for gloves, saddle linings. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: natural

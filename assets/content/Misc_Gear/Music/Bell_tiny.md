@@ -4,7 +4,7 @@ name: {full: "Bell, tiny"}
 type: miscgear
 description: "Delicate brass bell; high thin tone; amulet or chamber summons."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: music

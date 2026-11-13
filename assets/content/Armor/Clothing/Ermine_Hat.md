@@ -4,7 +4,7 @@ name: {full: Ermine Hat}
 type: armorgear
 description: "White ermine fur hat signifying high status and elite prestige."
 tags: []
-data: {icon: pointyhat, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: pointyhat, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

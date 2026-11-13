@@ -4,7 +4,7 @@ name: {full: Crowbar}
 type: weapongear
 description: "Carpenter's iron tool; claw hooks and shaft bludgeons alike."
 tags: []
-data: {icon: club, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: club, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: club

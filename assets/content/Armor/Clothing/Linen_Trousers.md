@@ -4,7 +4,7 @@ name: {full: Linen Trousers}
 type: armorgear
 description: "Light breathable leg coverings ideal for warm weather comfort."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

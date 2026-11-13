@@ -4,7 +4,7 @@ name: {full: Cloth Mantle}
 type: armorgear
 description: "Simple cloth mantle offering comfort and warmth for everyday wear."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cape, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

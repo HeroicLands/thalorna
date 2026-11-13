@@ -4,7 +4,7 @@ name: {full: Vilérian Ardin, en: [Ardini]}
 type: miscgear
 description: "Imperial silver coin; the standard unit of account for ordinary commerce."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

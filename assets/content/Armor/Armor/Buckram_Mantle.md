@@ -4,7 +4,7 @@ name: {full: Buckram Mantle}
 type: armorgear
 description: "Stiff buckram mantle providing durability and reliable rigid cloaking."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cape, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

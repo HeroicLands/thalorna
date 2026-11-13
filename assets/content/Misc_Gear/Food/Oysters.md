@@ -4,7 +4,7 @@ name: {full: Oysters}
 type: miscgear
 description: "Briny shellfish fresh at harbor or preserved in salt and smoke."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Grants frictionless movement; enables sliding across any surface."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

@@ -4,7 +4,7 @@ name: {full: Winter Dance Mask}
 type: miscgear
 description: "A carved cedar mask worn in the winter dances of the Cedar coast; kept by the Keeper of the Masks."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 1.2, valueBase: 80, qualityBase: 0, durabilityBase: 8}

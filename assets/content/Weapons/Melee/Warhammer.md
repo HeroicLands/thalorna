@@ -4,7 +4,7 @@ name: {full: Warhammer}
 type: weapongear
 description: "Flat-faced hammer with spike; one-handed armor-breaker for knights."
 tags: []
-data: {icon: warhammer, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: warhammer, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: axe

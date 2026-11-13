@@ -4,7 +4,7 @@ name: {full: Mackerel}
 type: miscgear
 description: "Oily fish gutted fresh or salt-packed; substantial meal, keeps indefinitely."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

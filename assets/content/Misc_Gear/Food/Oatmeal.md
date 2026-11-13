@@ -4,7 +4,7 @@ name: {full: Oatmeal}
 type: miscgear
 description: "Coarse porridge filling bellies cheaply, stores dry indefinitely for soldiers."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: cook, secondary: []}
   kbcat: food

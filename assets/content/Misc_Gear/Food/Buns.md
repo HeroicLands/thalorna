@@ -4,7 +4,7 @@ name: {full: Buns}
 type: miscgear
 description: "Soft, round dough loaves; market fare studded with dried fruit or herbs."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mill, secondary: []}
   kbcat: food

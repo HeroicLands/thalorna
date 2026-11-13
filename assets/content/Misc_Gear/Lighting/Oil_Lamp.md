@@ -4,7 +4,7 @@ name: {full: "Oil, Lamp"}
 type: miscgear
 description: "Animal fat or oil in clay-bronze reservoir; steady flame with twisted-flax wick."
 tags: [lighting]
-data: {icon: roundpotion, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: lighting

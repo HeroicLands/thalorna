@@ -4,7 +4,7 @@ name: {full: Kûrbúl Kneecops}
 type: armorgear
 description: "Treated leather knee guards with intricate patterns and decorative appeal."
 tags: []
-data: {icon: kneepad, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: kneepad, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

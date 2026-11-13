@@ -4,7 +4,7 @@ name: {full: "Wool, Raw"}
 type: miscgear
 description: "Freshly sheared fleece, carded clean, traded by weight for spinning."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

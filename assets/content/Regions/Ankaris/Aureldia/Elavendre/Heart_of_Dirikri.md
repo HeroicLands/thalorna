@@ -4,7 +4,7 @@ name: {full: Heart of Dirikri}
 type: miscgear
 description: "A crystalline artifact holding the essence of the elemental spirits called the Dirikri—it quickens natural growth around it and manipulates time within its Araelwen, and lies at the center of Úkua-Araelwen behind the Maze of Echoes."
 tags: []
-data: {templatePriority: null, unique: true, packFolder: elavendre}
+data: {kind: miscgear, templatePriority: null, unique: true, packFolder: elavendre}
 sohl: {system: {weightBase: 1, valueBase: 0, durabilityBase: 10}}
 ---
 

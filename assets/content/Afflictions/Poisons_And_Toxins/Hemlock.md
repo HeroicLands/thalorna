@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Toxic alkaloid plant; muscle paralysis progressing from extremities; respiratory failure."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

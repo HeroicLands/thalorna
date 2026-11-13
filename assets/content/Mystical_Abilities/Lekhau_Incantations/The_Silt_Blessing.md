@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Enriches a worked field so that it bears as though newly flooded."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garnlghkhlth, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garnlghkhlth, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhnlghkhlt

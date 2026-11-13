@@ -4,7 +4,7 @@ name: {full: Padded Sleeved Tunic}
 type: armorgear
 description: "Cushioned sleeved garment for cold weather or under-armor protection."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

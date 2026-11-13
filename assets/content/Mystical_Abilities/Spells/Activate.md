@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Sets conditional trigger on prepared spell; fires when condition met."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

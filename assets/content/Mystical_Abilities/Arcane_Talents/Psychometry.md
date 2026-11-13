@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Reads an object for what has been done with it and who has held it."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

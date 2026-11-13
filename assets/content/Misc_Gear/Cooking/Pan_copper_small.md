@@ -4,7 +4,7 @@ name: {full: "Pan, copper, small"}
 type: miscgear
 description: "Small tinned copper pan for warming sauces or cooking for one."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

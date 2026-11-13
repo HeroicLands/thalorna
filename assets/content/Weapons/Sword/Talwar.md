@@ -4,7 +4,7 @@ name: {full: Talwar}
 type: weapongear
 description: "Curved single-edged saber with disk pommel; eastern cavalry preference."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

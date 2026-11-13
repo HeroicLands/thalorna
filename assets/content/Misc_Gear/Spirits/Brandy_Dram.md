@@ -4,7 +4,7 @@ name: {full: "Brandy, Dram"}
 type: miscgear
 description: "Clear fiery distilled spirit; warms chest on winter roads, steadies trembling hands."
 tags: [spirits]
-data: {icon: brandybottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: brandybottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

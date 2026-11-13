@@ -4,7 +4,7 @@ name: {full: Canvas Cloak}
 type: armorgear
 description: "Heavy hemp-weave cloak shedding wind and wear on the road."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cloak, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

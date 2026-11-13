@@ -4,7 +4,7 @@ name: {full: Pickaxe}
 type: weapongear
 description: "Mining tool with point and adze; siege and armor-cracking weapon."
 tags: []
-data: {icon: mining, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: mining, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: axe

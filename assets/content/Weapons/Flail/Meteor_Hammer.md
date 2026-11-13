@@ -4,7 +4,7 @@ name: {full: Meteor Hammer}
 type: weapongear
 description: "Rope-weighted iron ball whirled; master's devastating entangling reach."
 tags: []
-data: {icon: icon-bolas, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-bolas, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: thrown
   weaponType: Thrown

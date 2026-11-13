@@ -4,7 +4,7 @@ name: {full: Wax Tablet}
 type: miscgear
 description: "Beeswax-faced hinged boards; erasable notes for merchants' quick reckoning."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: scribe

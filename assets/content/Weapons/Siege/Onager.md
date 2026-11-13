@@ -4,7 +4,7 @@ name: {full: Onager}
 type: weapongear
 description: "Single-arm torsion stone-thrower; kicks like the wild ass it is named for."
 tags: []
-data: {icon: fallingboulder, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: fallingboulder, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: siege

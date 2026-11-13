@@ -4,7 +4,7 @@ name: {full: Canvas Cowl}
 type: armorgear
 description: "Coarse canvas cowl giving hard-wearing head and shoulder cover."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: hood, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

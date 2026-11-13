@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Lends force to another mystical working, carrying it beyond what its own practitioner could reach."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

@@ -4,7 +4,7 @@ name: {full: Beaver Trousers}
 type: armorgear
 description: "Beaver fur leg-wear for hard winters."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

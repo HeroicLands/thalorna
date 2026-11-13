@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Reverses recent action; undoes last spell or change."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

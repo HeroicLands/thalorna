@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Pale yellow amber liquid; induces despair and hopelessness."
 tags: [mild-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: mild}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

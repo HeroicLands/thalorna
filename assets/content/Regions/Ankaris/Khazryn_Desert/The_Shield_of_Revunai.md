@@ -4,7 +4,12 @@ name: {full: The Shield of Revunai, en: [The Boy's Shield]}
 type: miscgear
 description: "The shield of the boy Revunai, his name cut in its rim, who kept the gate of old Vahurdash on the prince's word and was killed there by his own father on the night the town was woken; the song carries it to Kethramír, and where it lies now is disputed."
 tags: [artifact, khazryn]
-data: {icon: icon-roundshield, templatePriority: null, packFolder: khazryndesert, unique: true}
+data:
+  kind: miscgear
+  icon: icon-roundshield
+  templatePriority: null
+  packFolder: khazryndesert
+  unique: true
 sohl: {system: {weightBase: 8, valueBase: 0, qualityBase: 0, durabilityBase: 10}}
 ---
 

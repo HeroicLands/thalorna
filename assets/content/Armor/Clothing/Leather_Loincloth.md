@@ -4,7 +4,7 @@ name: {full: Leather Loincloth}
 type: armorgear
 description: "Simple lightweight leather garment providing basic coverage and rugged charm."
 tags: []
-data: {icon: loincloth, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: loincloth, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

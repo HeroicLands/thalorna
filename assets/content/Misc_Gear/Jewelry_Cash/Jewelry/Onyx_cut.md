@@ -4,7 +4,7 @@ name: {full: "Onyx, cut"}
 type: miscgear
 description: "Black-and-white banded chalcedony; striking striped pattern, favored for signet rings."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

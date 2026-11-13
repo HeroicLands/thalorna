@@ -4,7 +4,7 @@ name: {full: Woodworking Kit}
 type: miscgear
 description: "Soft leather roll with whittling blades, gouges, chisels, file, mallet; carvers."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

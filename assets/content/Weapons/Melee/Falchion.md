@@ -4,7 +4,7 @@ name: {full: Falchion}
 type: weapongear
 description: "Single-edged curved blade favors overhead chop; sailor and soldier's steel."
 tags: []
-data: {icon: broadsword, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: broadsword, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: sword

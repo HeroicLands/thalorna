@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Target becomes paralyzed with terror; freezes unable to move."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

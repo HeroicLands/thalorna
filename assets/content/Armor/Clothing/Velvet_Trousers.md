@@ -4,7 +4,7 @@ name: {full: Velvet Trousers}
 type: armorgear
 description: "Soft plush velvet trousers; luxurious garment for high-status formal events."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

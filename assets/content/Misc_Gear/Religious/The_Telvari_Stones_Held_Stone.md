@@ -4,7 +4,7 @@ name: {full: The Telvari Stone's Held Stone}
 type: miscgear
 description: "A living held stone of the Telvari Stone, lifted out of the keeping of the pilots' households while its work still works."
 tags: [kaan-sul, kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.3, valueBase: 0, qualityBase: 0, durabilityBase: 20}

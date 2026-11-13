@@ -4,7 +4,7 @@ name: {full: Serge Apron}
 type: armorgear
 description: "Diagonal-twill apron; durable and functional for heavy labor."
 tags: []
-data: {icon: cook, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cook, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

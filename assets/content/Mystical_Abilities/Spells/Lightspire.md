@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Pillars of concentrated light descending; scorches and ignites targets."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

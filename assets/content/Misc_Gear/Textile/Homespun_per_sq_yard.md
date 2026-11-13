@@ -4,7 +4,7 @@ name: {full: "Homespun, per sq yard"}
 type: miscgear
 description: "Unregulated flax cloth of linen weight, woven at the manor and sold by the cloth."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

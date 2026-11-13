@@ -4,7 +4,7 @@ name: {full: "Moonstone, cut"}
 type: miscgear
 description: "Pale feldspar gem glowing from within; rings and pendants for lunar-marked."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

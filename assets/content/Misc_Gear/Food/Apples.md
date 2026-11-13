@@ -4,7 +4,7 @@ name: {full: Apples}
 type: miscgear
 description: "Firm orchard fruit; edible into winter when stored cool, sliced dried."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

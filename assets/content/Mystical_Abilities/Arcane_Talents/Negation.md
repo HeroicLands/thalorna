@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Suppresses a mystical working in progress, or blunts one directed at the practitioner."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

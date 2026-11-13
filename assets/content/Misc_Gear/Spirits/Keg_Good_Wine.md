@@ -4,7 +4,7 @@ name: {full: Keg Good Wine}
 type: miscgear
 description: "Aged fine wine in keg; lord's cellar treasure, craftsman's yearly wage."
 tags: [spirits]
-data: {icon: winebottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: winebottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

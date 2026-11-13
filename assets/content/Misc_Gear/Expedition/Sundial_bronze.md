@@ -4,7 +4,7 @@ name: {full: "Sundial, bronze"}
 type: miscgear
 description: "Brass-mounted bronze dial; marks hours on clear days when set true."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

@@ -4,7 +4,7 @@ name: {full: "Holy Symbol, iron"}
 type: miscgear
 description: "Forged iron token of a god, plain and heavy; a smith's or soldier's symbol."
 tags: [religious]
-data: {icon: prayer, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: prayer, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: religious

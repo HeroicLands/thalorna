@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Opens spring; manifests fresh water flowing from barren ground."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

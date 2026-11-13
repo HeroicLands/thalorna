@@ -4,7 +4,7 @@ name: {full: "Satchel, canvas, sm"}
 type: containergear
 description: "Small canvas shoulder bag with a folding flap."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 0.5, valueBase: 1, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 10}

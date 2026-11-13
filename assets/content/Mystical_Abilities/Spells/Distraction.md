@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Diverts attention; targets ignore caster despite obvious presence."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

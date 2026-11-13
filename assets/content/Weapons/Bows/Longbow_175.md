@@ -4,7 +4,7 @@ name: {full: Longbow 175}
 type: weapongear
 description: "Hundred-seventy-five pound champion's warbow; childhood-trained terror of cavalry."
 tags: []
-data: {icon: pocketbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: pocketbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: bow

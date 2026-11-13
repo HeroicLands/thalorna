@@ -4,7 +4,7 @@ name: {full: Bone/Horn}
 type: miscgear
 description: "Hollow bone-horn pipe stoppered with cork; reedy piercing voice carries across moorland."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: music

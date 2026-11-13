@@ -4,7 +4,7 @@ name: {full: "Water, 1pt."}
 type: miscgear
 description: "Fresh-drawn well water, sustains traveler for light day, precious rationed."
 tags: [food]
-data: {icon: roundpotion, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: food

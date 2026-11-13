@@ -4,7 +4,7 @@ name: {full: Serge Vest}
 type: armorgear
 description: "Twilled serge vest; practical, durable garment for various activities."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

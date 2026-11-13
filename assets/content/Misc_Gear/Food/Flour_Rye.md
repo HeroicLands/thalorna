@@ -4,7 +4,7 @@ name: {full: "Flour, Rye"}
 type: miscgear
 description: "Coarse dark flour; staple for peasant bread, cheaper than wheat flour."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mill, secondary: []}
   kbcat: food

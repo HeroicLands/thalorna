@@ -4,7 +4,7 @@ name: {full: Linen Vest}
 type: armorgear
 description: "Light breathable sleeveless garment perfect for warm weather activities."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

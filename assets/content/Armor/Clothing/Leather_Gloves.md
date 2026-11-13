@@ -4,7 +4,7 @@ name: {full: Leather Gloves}
 type: armorgear
 description: "Lightweight leather hand covering offering style and minor protection."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: gloves, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

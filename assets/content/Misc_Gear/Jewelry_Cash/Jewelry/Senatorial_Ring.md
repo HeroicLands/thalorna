@@ -4,7 +4,7 @@ name: {full: Senatorial Ring}
 type: miscgear
 description: "The signet of a Vilérian kurthos, gold for a senator of a Gilded house and silver for one of a Silver house, cut with the house's registered arms; it seals his letters and shows that no civic court may hold him."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   system: {weightBase: 0.03, valueBase: 120, qualityBase: 0, durabilityBase: 15}

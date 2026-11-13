@@ -4,7 +4,7 @@ name: {full: "Axle, wagon"}
 type: miscgear
 description: "Iron-shod wagon axle; the part that fails first and strands the load."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: tack

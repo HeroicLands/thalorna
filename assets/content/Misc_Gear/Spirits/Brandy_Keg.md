@@ -4,7 +4,7 @@ name: {full: "Brandy, Keg"}
 type: miscgear
 description: "Distilled wine spirit in sealed keg; merchant treasure, used sparingly as medicine."
 tags: [spirits]
-data: {icon: brandybottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: brandybottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

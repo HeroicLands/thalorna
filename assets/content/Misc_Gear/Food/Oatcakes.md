@@ -4,7 +4,7 @@ name: {full: Oatcakes}
 type: miscgear
 description: "Thin griddle rounds, traveler's bread keeping months bundled and dry."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mill, secondary: []}
   kbcat: food

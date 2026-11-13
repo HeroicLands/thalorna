@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Reads a person's character and history from the face and bearing."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

@@ -4,7 +4,7 @@ name: {full: "Ink, Red"}
 type: miscgear
 description: "Vermilion or madder-root; reserved for titles, rubrication, illuminated capitals."
 tags: [scribe]
-data: {icon: inkswirl, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: inkswirl, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: scribe

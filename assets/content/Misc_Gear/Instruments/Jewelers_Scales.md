@@ -4,7 +4,7 @@ name: {full: "Jeweler's Scales"}
 type: miscgear
 description: "Brass balance calibrated for carats and ounces; gem-merchants weigh precious metals."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

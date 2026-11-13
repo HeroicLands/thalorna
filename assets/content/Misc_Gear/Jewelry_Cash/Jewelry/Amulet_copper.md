@@ -4,7 +4,7 @@ name: {full: "Amulet, copper"}
 type: miscgear
 description: "Beaten copper disc-charm; cheap, and reckoned good against aches and fevers."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

@@ -4,7 +4,12 @@ name: {full: The Old Coal, en: [Old Coal, The Coal of Bralvik]}
 type: miscgear
 description: "The banked fire of Bralvik, kept in the Salken smokehouse and held by the town never to have gone out since a stranded northern crew banked it on the headland in 523 AF; every smokehouse lights its autumn fire from it, and only those may burn the rune brand on their barrels."
 tags: [artifact, vylaria]
-data: {icon: icon-firebdg, templatePriority: null, packFolder: vylaria, unique: true}
+data:
+  kind: miscgear
+  icon: icon-firebdg
+  templatePriority: null
+  packFolder: vylaria
+  unique: true
 sohl: {system: {weightBase: 0.5, valueBase: 0, qualityBase: 0, durabilityBase: 1}}
 ---
 

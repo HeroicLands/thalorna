@@ -4,7 +4,7 @@ name: {full: "Backpack, wicker"}
 type: containergear
 description: "Woven wicker pack, inherently framed."
 tags: []
-data: {icon: basket, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: basket, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 2, valueBase: 0.5, qualityBase: 0, durabilityBase: 5, maxCapacityBase: 25}

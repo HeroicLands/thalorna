@@ -4,7 +4,7 @@ name: {full: Rawhide Cap}
 type: armorgear
 description: "Thick hide cap; durable head-cover for tough work."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: billedcap, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

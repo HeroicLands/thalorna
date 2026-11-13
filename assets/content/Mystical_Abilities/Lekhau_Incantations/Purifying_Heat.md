@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Burns spiritual corruption out of a person, painfully and without touching the body."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garathenuqa, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauathenq

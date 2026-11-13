@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Controls water flow; directs stream or creates current."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

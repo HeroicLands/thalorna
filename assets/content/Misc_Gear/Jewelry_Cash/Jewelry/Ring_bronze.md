@@ -4,7 +4,7 @@ name: {full: "Ring, bronze"}
 type: miscgear
 description: "Cast bronze band, hard and cheap; survives labour that would flatten silver."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

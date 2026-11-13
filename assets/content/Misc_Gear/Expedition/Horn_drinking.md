@@ -4,7 +4,7 @@ name: {full: "Horn, drinking"}
 type: miscgear
 description: "Polished steer horn with wooden or horn base; durable for soldiers."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: expedition

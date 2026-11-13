@@ -4,7 +4,7 @@ name: {full: Homespun Skirt}
 type: armorgear
 description: "Simple homemade skirt offering coverage and practical comfort."
 tags: []
-data: {icon: skirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: skirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

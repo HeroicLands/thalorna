@@ -4,7 +4,7 @@ name: {full: "Ale, Keg"}
 type: miscgear
 description: "Tarred stave-built keg; pale malty ale for tavern supply, military provisioning."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

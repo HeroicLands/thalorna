@@ -4,7 +4,7 @@ name: {full: Serge Swaddle}
 type: armorgear
 description: "Durable twilled serge swaddle for infants; warm, secure, reliable."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

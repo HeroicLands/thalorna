@@ -4,7 +4,7 @@ name: {full: Metalworking Kit}
 type: miscgear
 description: "Canvas roll with cold chisels, files, hammers, drifts, scribe; smiths finish metalwork."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

@@ -4,7 +4,7 @@ name: {full: Cloth Cap}
 type: armorgear
 description: "Simple cloth cap offering basic comfort and everyday protection."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: billedcap, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

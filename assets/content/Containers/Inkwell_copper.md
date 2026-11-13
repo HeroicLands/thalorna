@@ -4,7 +4,7 @@ name: {full: "Inkwell, copper"}
 type: containergear
 description: "Compact tinned-copper travel inkwell for scribes and clerks."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 1, valueBase: 12, qualityBase: 0, durabilityBase: 5, maxCapacityBase: 0.25}

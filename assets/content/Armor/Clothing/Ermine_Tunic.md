@@ -4,7 +4,7 @@ name: {full: Ermine Tunic}
 type: armorgear
 description: "Ermine-furred tunic; conspicuous wealth worn close."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

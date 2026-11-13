@@ -4,7 +4,7 @@ name: {full: "Hide, Reindeer"}
 type: miscgear
 description: "Thick northern hide; salted, dried, water-resistant; arctic cloaks. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural

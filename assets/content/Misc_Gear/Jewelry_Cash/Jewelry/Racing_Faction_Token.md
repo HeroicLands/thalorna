@@ -4,7 +4,7 @@ name: {full: Racing-Faction Token, en: [Faction Ring, Gray Ring, Gilded Ring]}
 type: miscgear
 description: "The ring an Orzaran wears on race day to show his racing faction, gray iron for the Irons and gilt for the Golds; in the right stand it is a welcome, and in the wrong street it is a challenge."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   system: {weightBase: 0.02, valueBase: 0.125, qualityBase: 0, durabilityBase: 8}

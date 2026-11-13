@@ -4,7 +4,7 @@ name: {full: "Bucket, wooden, 3 gallon"}
 type: containergear
 description: "Coopered wooden bucket with an iron bail (3 gallons)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 10, valueBase: 3, qualityBase: 0, durabilityBase: 4, maxCapacityBase: 24}

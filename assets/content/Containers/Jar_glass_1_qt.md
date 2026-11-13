@@ -4,7 +4,7 @@ name: {full: "Jar, glass, 1 qt."}
 type: containergear
 description: "Hand-blown glass vessel with cork stopper; stores oils and inks safely (1 quart)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 1, valueBase: 12, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 2}

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Surrounds caster in white-hot flame; scorches those who touch."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

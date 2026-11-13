@@ -4,7 +4,7 @@ name: {full: "Amulet, gold"}
 type: miscgear
 description: "Heavy gold pendant worn at the throat; a charm and a fortune together."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

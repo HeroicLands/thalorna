@@ -4,7 +4,7 @@ name: {full: "Cabinet"}
 type: containergear
 description: "Standing carved cabinet with doors and shelves; a decorative woodworker's showpiece."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 60, valueBase: 144, qualityBase: 0, durabilityBase: 5, maxCapacityBase: 100}

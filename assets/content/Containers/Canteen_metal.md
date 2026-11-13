@@ -4,7 +4,7 @@ name: {full: "Canteen, metal"}
 type: containergear
 description: "Metal drinking canteen with a stopper."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 0.8, valueBase: 2.5, qualityBase: 0, durabilityBase: 7, maxCapacityBase: 2}

@@ -4,7 +4,7 @@ name: {full: Mail Vest}
 type: armorgear
 description: "Metal ring torso armor offering substantial protection and flexibility."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leathervest, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

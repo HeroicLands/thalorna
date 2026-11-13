@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster creates safe space; location becomes sanctuary from magic."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

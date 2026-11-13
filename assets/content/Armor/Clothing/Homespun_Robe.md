@@ -4,7 +4,7 @@ name: {full: Homespun Robe}
 type: armorgear
 description: "Simple homemade robe providing comfort and warmth for everyday."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: robe, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

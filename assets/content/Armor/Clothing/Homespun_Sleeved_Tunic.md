@@ -4,7 +4,7 @@ name: {full: Homespun Sleeved Tunic}
 type: armorgear
 description: "Simple homemade tunic providing comfort and practical warmth."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

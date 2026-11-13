@@ -4,7 +4,7 @@ name: {full: Cloth Cowl}
 type: armorgear
 description: "Simple cloth cowl offering comfort and everyday warmth."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: hood, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

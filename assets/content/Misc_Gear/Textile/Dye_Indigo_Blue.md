@@ -4,7 +4,7 @@ name: {full: "Dye, Indigo Blue"}
 type: miscgear
 description: "Precious indigo powder; rich permanent blue for wealthy merchants and court dyers."
 tags: [clothing]
-data: {icon: roundpotion, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: dye

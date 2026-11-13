@@ -4,7 +4,7 @@ name: {full: Buckram Gloves}
 type: armorgear
 description: "Stiff buckram gloves offering rigid hand covering for structured tasks."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: gloves, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

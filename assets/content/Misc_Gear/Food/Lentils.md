@@ -4,7 +4,7 @@ name: {full: Lentils}
 type: miscgear
 description: "Dried legume staple, poor man's protein, survives long travel and damp."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

@@ -4,7 +4,7 @@ name: {full: Battleaxe}
 type: weapongear
 description: "Massive double-bladed ash-haft for two-handed cleaves; line-breaker."
 tags: []
-data: {icon: battleaxe, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: battleaxe, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: axe

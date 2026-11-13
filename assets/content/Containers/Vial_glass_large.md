@@ -4,7 +4,7 @@ name: {full: "Vial, glass, large"}
 type: containergear
 description: "Narrow-necked glass vial for alchemists storing potent liquids and tinctures."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 1.25, valueBase: 8, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 0.5}

@@ -4,7 +4,7 @@ name: {full: "Nails, pack of 24"}
 type: miscgear
 description: "Mixed iron nails for quick repairs and affixing tent frames."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

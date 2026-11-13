@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Erases an inscription cleanly, disabling whatever working depended on it."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garzelgut, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garzelgut, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauzelgut

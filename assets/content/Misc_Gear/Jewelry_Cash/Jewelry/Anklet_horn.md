@@ -4,7 +4,7 @@ name: {full: "Anklet, horn"}
 type: miscgear
 description: "A band worn at the ankle, closed or hinged, and often hung with small charms, in carved horn."
 tags: [jewelry_cash]
-data: {icon: gempendant, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: gempendant, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

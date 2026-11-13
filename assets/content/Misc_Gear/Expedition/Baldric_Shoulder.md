@@ -4,7 +4,7 @@ name: {full: "Baldric, Shoulder"}
 type: miscgear
 description: "Wide leather strap with brass rings worn diagonally across chest and shoulder."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: expedition

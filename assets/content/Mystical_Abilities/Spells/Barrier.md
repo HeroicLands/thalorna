@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Erupts wall of dense metal from ground; shields and blocks."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

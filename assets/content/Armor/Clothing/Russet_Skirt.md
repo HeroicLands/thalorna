@@ -4,7 +4,7 @@ name: {full: Russet Skirt}
 type: armorgear
 description: "Reddish-brown wool skirt; practical leg-wear for colder climes."
 tags: []
-data: {icon: skirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: skirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

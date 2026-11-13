@@ -4,7 +4,7 @@ name: {full: Hideworking Kit}
 type: miscgear
 description: "Leather roll with scrapers, stretching pegs, fleshing knife; tanners treat raw hides."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

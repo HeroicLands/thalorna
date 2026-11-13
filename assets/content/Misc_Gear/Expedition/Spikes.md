@@ -4,7 +4,7 @@ name: {full: Spikes}
 type: miscgear
 description: "Foot-long iron spikes for climbing, breaking charges, and lashing boards."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

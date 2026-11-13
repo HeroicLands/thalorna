@@ -4,7 +4,7 @@ name: {full: Scones}
 type: miscgear
 description: "Wheat flour rounds lightly sweetened, bakery luxury keeping several days."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mill, secondary: []}
   kbcat: food

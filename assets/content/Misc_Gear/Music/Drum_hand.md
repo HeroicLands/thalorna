@@ -4,7 +4,7 @@ name: {full: "Drum, hand"}
 type: miscgear
 description: "Shallow frame drum played with palms; quick bright voice; favored by minstrels."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

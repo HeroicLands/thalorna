@@ -4,7 +4,7 @@ name: {full: "Ladder, 8 ft"}
 type: miscgear
 description: "Eight-foot wooden ladder with pegged rungs."
 tags: [furniture]
-data: {icon: swapbag, templatePriority: 0, packFolder: furniture}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: furniture}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: furniture

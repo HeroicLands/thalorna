@@ -4,7 +4,7 @@ name: {full: "Candleholder, hand"}
 type: miscgear
 description: "Iron or brass cup with handle; holds single candle, drip-tray included."
 tags: [lighting]
-data: {icon: swapbag, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: lighting

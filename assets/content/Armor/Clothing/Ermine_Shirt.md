@@ -4,7 +4,7 @@ name: {full: Ermine Shirt}
 type: armorgear
 description: "White ermine fur shirt signifying high status and elite prestige."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

@@ -4,7 +4,7 @@ name: {full: Mail Cuisse}
 type: armorgear
 description: "Metal ring thigh protection offering flexibility and defense for soldiers."
 tags: []
-data: {icon: chainmail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: chainmail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

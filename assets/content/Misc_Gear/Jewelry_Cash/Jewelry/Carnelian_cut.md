@@ -4,7 +4,7 @@ name: {full: "Carnelian, cut"}
 type: miscgear
 description: "Translucent warm orange-red gem from iron oxide; durable favorite for rings."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry
