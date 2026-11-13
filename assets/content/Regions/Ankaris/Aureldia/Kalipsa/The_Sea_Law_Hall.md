@@ -22,7 +22,7 @@ The hall belongs to the city, and the arbitrators keep it. The master arbitrator
 
 **The open quay.** The arbitrators heard cases on the quay itself before there was a hall, under an awning beside the customs house, and the hall's long shape follows the stretch of quay they used.
 
-**The hall.** The present hall was built after the civil war of about 470 AF, when the houses that ended the war agreed that the Sea-Law would be heard under a roof that belonged to no house. The hall's three chairs, at the landward end, are older than the building and were carried in from the quay.
+**The hall.** The present hall was built after [[lore-calypsacivilwar|the civil war]] of about 470 AF, when the houses that ended the war agreed that the Sea-Law would be heard under a roof that belonged to no house. The hall's three chairs, at the landward end, are older than the building and were carried in from the quay.
 
 **The roll.** The roll of hearings runs back unbroken to the hall's building, and the master arbitrators can recite a verdict for almost every name on it.
 

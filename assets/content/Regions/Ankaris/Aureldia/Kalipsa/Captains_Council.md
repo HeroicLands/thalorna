@@ -69,7 +69,7 @@ Clerk of the Council
 
 The Customs Officer takes the tonnage census each spring, by counting every hull a house owns or holds a share in at its berth or on the customs roll, and the Clerk of the Council enters the totals on the census roll. The Harbormaster certifies the roll at the spring sitting, and the voices of every question that year follow it. A house casts all its voices together, as its head decides.
 
-The Harbormaster calls the sittings, keeps the order of business and puts the question; the Clerk counts. A question carries on a majority of the voices cast. The Harbormaster's own election is held at the spring sitting of a term's last year, after the census is certified, and the outgoing Harbormaster may stand for nothing. The single term and the bar on the next are the rule the houses took after the civil war of about 470 AF, and no Council since has set either aside.
+The Harbormaster calls the sittings, keeps the order of business and puts the question; the Clerk counts. A question carries on a majority of the voices cast. The Harbormaster's own election is held at the spring sitting of a term's last year, after the census is certified, and the outgoing Harbormaster may stand for nothing. The single term and the bar on the next are the rule the houses took after [[lore-calypsacivilwar|the civil war]] of about 470 AF, and no Council since has set either aside.
 
 Between sittings the Harbormaster holds the harbor, the forts, the customs and the navy and acts on the Council's standing orders. A question the standing orders do not cover waits for the Council, or the Harbormaster calls a sitting for it.
 

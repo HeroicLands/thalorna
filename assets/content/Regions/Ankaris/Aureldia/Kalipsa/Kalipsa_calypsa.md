@@ -152,7 +152,7 @@ The city-state's domain is the whole [[place-calypsaisle|Isle of Kalipsa]]:
 
 **The Empire.** Under the [[affiliation-vylarinmpr|Vilérian Empire]] the port took the guild charter of the Tevran Maldor during the western conquests, paid the Empire its dues, and kept its own Council. Through the Tribute Peace, from about 418 to 512, the west paid and was left alone, and Kalipsa with it.
 
-**The civil war.** About 470 AF a Harbormaster who would not give up the office brought on a civil war among the houses, fought in the harbor and the streets of the old city. The houses that won it gave the Harbormaster a single term with no second to follow it, built the Sea-Law Hall so that the Sea-Law would be heard under a roof that belonged to no house, and have honored the rule since without exception.
+**The civil war.** About 470 AF a Harbormaster who would not give up the office brought on a civil war among the houses ([[lore-calypsacivilwar|The Civil War of Kalipsa]]), fought in the harbor and the streets of the old city. The houses that won it gave the Harbormaster a single term with no second to follow it, built the Sea-Law Hall so that the Sea-Law would be heard under a roof that belonged to no house, and have honored the rule since without exception.
 
 **The navy.** When [[lore-southrnfleets|the Southern Fleets]] of Nordheim went south every summer from 519 to 530, the houses built the navy on the tonnage levy, hung the harbor chain from the mole's head and raised the Lantern's tower. The fleets burned Élavendre's north shore and passed the island by.
 
