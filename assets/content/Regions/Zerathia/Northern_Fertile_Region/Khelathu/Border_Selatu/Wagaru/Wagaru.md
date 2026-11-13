@@ -13,6 +13,7 @@ data:
   population: 14000
   packFolder: regkhsett
   government: selatwagaru
+  notes: "Selat capital of Wagaru."
 ---
 
 ## Overview

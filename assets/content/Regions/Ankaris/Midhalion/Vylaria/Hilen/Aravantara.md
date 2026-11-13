@@ -13,6 +13,7 @@ data:
   routes: [{to: orzara, bearing: W, mode: land, days: 10, terrain: [road]}]
   packFolder: vylaria
   government: provnchyln
+  notes: "The provincial capital of Hilen: a walled city of yards, scales and granaries where the breadbasket's grain, wine and oil are weighed and taxed on their way to the capital, governed by an appointed therkos and run by the councils of the old landed houses."
 ---
 
 ## Overview

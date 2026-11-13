@@ -13,6 +13,7 @@ data:
   government: zenjaidmn
   packFolder: jenchai
   culture: jenchaiclt
+  notes: "The castle town of House Zenjai on the lower slope of Snow Peak—a granary, a hall and a stable-yard, seat of the northern lord Zenjai Tsuiwo."
 ---
 
 Buiwu (White Hall) is the castle town and seat of [Zenjai Tsuiwo]{.name data-type="being/npc"}, a town of 2,800 people on the lower slope of [[place-zenjai|Zenjai]]. Snow lies on its roofs from the first frost until the thaw, which gives the hall its name.

@@ -13,6 +13,7 @@ data:
   population: 2000
   government: tokchiaska
   packFolder: tokchiaska
+  notes: "The Last Shore, the southernmost shell town of the One Fire, among mangrove islands at the end of the gulf coast, whose captains say they have sailed farther south than anyone."
 
 # terran_analog: the Ten Thousand Islands and the Calusa towns of the southwest Florida coast, facing the Gulf toward the Yucatan
 ---

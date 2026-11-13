@@ -12,6 +12,7 @@ data:
   population: 280
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Vandstein whose sacred shelter bent the line of the Legions' Road."
 ---
 
 ## Overview

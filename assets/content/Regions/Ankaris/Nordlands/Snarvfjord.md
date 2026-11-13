@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "A fjord seat of the Nordlands and court of the cautious Jarl Hvurnvir, who decides nothing of weight without Hnirmil the Wise."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  packFolder: nordlands
+  notes: "A fjord seat of the Nordlands and court of the cautious Jarl Hvurnvir, who decides nothing of weight without Hnirmil the Wise."
 ---
 
 An envoy who has ridden three days to see the jarl at Snarvfjord is sent to put his case to the jarl's counselor first, because the jarl will ask him anyway. An envoy who tries to hurry the jarl past his counselor finds the hall suddenly in no hurry at all.

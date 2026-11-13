@@ -13,6 +13,7 @@ data:
   population: 49000
   packFolder: regkhsett
   government: selatgrshbzt
+  notes: "Selat capital of Gar-Shebazet."
 ---
 
 ## Overview

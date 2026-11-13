@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A Nordheim settlement down the Nalthmark road, raised on old hall-posts in an oak grove the Varokhi Eichthúl clan claims as its own."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nordheim], population: 0, packFolder: nordheim}
+data:
+  demonym: null
+  lore: []
+  parents: [nordheim]
+  population: 0
+  packFolder: nordheim
+  notes: "A Nordheim settlement down the Nalthmark road, raised on old hall-posts in an oak grove the Varokhi Eichthúl clan claims as its own."
 ---
 
 ## Overview

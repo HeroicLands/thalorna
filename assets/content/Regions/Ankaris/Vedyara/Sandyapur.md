@@ -14,6 +14,7 @@ data:
   routes: [{to: ashvapada, bearing: N, mode: land, days: 5, terrain: [road, desert]}]
   packFolder: vedyara
   government: bhumipal
+  notes: "The capital of Bhumipal and the only town on Vedyara's western shore—a court, a roadstead behind a sand spit, the salt pans, and the southern end of the march road."
 ---
 
 **Sandyapur** (12,000, market 4) is the capital of [[affiliation-bhumipal|Bhumipal]] and the only town of any size on the [[place-vedyarargn|Vedyara Region]]'s western shore. It stands behind a sand spit at the mouth of a seasonal river, at the southern end of [[place-marchroad|the march road]]. It is a court, a customs house and a salt town, in that order of dignity and the reverse order of income.

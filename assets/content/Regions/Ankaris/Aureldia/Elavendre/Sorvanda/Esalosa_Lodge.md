@@ -12,6 +12,7 @@ data:
   population: 1500
   packFolder: elavendre
   government: aelndntrbs
+  notes: "Áelendan settlement and ceremonial center"
 ---
 
 **Controlled by:** [[lore-aelendnppl|Áelendan]]

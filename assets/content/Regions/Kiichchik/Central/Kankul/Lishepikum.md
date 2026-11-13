@@ -12,6 +12,7 @@ data:
   population: 40000
   government: kankul
   packFolder: kankul
+  notes: "The Thrice-Built: the K'ankul city whose temple groups stand on an artificial platform raised three times, each over the last, to give its reckoners a clean horizon on every side."
 
 # terran_analog: Uxmal and the Puuc cities, their raised platforms and rock-cut cisterns; the name opens on lishe (three)
 ---

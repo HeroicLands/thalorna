@@ -13,6 +13,7 @@ data:
   population: 25000
   packFolder: regkhsett
   government: selatnlghztn
+  notes: "River Town (Grain Port)"
 ---
 
 ## Overview

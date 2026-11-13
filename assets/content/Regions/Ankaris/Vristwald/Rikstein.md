@@ -12,6 +12,7 @@ data:
   population: 450
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Vandstein whose ruined tower tempts outsiders to claim the ground around it."
 ---
 
 ## Overview

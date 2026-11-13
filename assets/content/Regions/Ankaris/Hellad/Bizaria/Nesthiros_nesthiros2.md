@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The League's great seaport on a fortress isle in the straits, where a dozen languages are spoken on the docks and the admiralty keeps the fleet."
 tags: [port, city]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 70000, government: nesthiros}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: 70000
+  government: nesthiros
+  notes: "The League's great seaport on a fortress isle in the straits, where a dozen languages are spoken on the docks and the admiralty keeps the fleet."
 ---
 
 ## Overview

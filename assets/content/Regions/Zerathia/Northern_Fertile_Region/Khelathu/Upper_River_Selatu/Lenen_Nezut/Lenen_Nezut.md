@@ -13,6 +13,7 @@ data:
   population: 26000
   packFolder: regkhsett
   government: selatlennnzt
+  notes: "Selat capital of Lenen-Nezut."
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   routes: [{to: tantsouregin, bearing: NE, mode: ship, days: 45, terrain: [open-sea]}]
   packFolder: vedyara
   government: vyalendra2
+  notes: "Vyalendra's outport at the mouth of the Nilachari—a mile of bale-yards, a customs shed and a road to the city, where the cloth is sealed, counted and put aboard."
 ---
 
 **Nilatir** (12,000) stands where the [Nilachari]{.name data-type="place/feature"} reaches the eastern sea, three days below the last of [[place-vyalendraland|Vyalendra Land]]'s valleys. It exists to put cloth on ships. Nothing is woven here and nothing is grown here worth the naming. The bolts come down the river road in covered boats, lie in the yards for a season, and leave in a hull.

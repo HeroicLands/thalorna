@@ -13,6 +13,7 @@ data:
   population: 900
   government: osetakona
   packFolder: osetakona
+  notes: "The Dawn Place: the Dawn People's village that the men from the water burned, moved a day inland out of sight of the sea, with four names neither lying down nor given."
 
 # terran_analog: a St. Lawrence Iroquoian village such as Stadacona, after the European voyages along the Gulf of St. Lawrence
 ---

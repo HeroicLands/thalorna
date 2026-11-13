@@ -12,6 +12,7 @@ data:
   population: 620
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "An oxbow town of the Rajepur Janpoda that the Mahanodi left on dry ground: a river-town of six hundred whose ghat-steps lead down to a field, whose landings are threshing floors, and which still keeps a boat-shreni with no boats."
 ---
 
 **Rushaghat** (620), the dust landing, is a river-town without a river. It stands on its old levee in the floodplain of [[place-mahanodi|the Mahanodi]], a half-day's walk inland from the water, and its broad stone ghat-steps go down eleven courses to a field of millet. The river moved away from it in one of the three changes of course the record never dated, and the town stayed where it was.

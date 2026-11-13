@@ -12,6 +12,7 @@ data:
   population: 4000
   packFolder: helionis
   government: kostaros2
+  notes: "Coastal Town"
 ---
 
 Ask a fisherman on the quay at Mirtelos how many people live in the town and he says four thousand, then names two of them he thinks you ought to meet. Mirtelos is a coastal town of the [[place-kostarosdst|Kostaros District]], held by the Helionite city-state of [[affiliation-kostaros2|Kostaros]], and its people are of the [[lore-humanflk|Human Folk]].

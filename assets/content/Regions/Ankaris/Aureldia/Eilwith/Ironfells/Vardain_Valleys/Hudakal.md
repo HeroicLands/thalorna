@@ -12,6 +12,7 @@ data:
   population: 780
   government: vrgldhld
   packFolder: eilwith
+  notes: "The oldest of the Vardain villages and the nearest to the Gate—where the tallies are kept and the Khazari schedule is reckoned."
 ---
 
 **Hudakal** lies highest of the inhabited valleys but one, closest to the road up to

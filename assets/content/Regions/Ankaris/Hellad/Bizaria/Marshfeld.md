@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "An agrarian Bizarian village governed by its Village Council, which hires the mercenary Fileze Stenikot every year against bandits and raiders."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [byzariargn], packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  packFolder: byzaria
+  notes: "An agrarian Bizarian village governed by its Village Council, which hires the mercenary Fileze Stenikot every year against bandits and raiders."
 ---
 
 ## Overview

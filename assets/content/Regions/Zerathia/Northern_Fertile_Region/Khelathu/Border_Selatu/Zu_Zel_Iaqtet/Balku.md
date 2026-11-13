@@ -13,6 +13,7 @@ data:
   population: 22000
   packFolder: regkhsett
   government: selatzuzlqtt
+  notes: "Fortified Mining Town"
 ---
 
 ## Overview

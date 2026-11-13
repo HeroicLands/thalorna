@@ -12,6 +12,7 @@ data:
   population: 600
   packFolder: norgaad
   government: kingdmnrgd
+  notes: "Inland Trade Town"
 ---
 
 ## Overview

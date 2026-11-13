@@ -13,6 +13,7 @@ data:
   population: 700
   government: teyumi
   packFolder: teyumi
+  notes: "The Door House: the great house of the Canyon of Houses with a door cut through its outer wall, where the house heads swear their oath and the hungry of the north are coming to be fed."
 
 # terran_analog: Chetro Ketl and the other great houses facing Pueblo Bonito across Chaco Canyon; the door cut through the outer wall is this setting's own
 ---

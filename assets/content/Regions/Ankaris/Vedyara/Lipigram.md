@@ -12,6 +12,7 @@ data:
   population: 720
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "The copying village of Rajepur, whose four scriptoria work on an endowment six hundred years old."
 ---
 
 Lipigram (720) copies. Four scriptoria work here besides the temple's own at [[place-rajepur|Rajepur]], and about a hundred and thirty men and women of the village earn their bread with a stylus.

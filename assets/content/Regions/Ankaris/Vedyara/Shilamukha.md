@@ -12,6 +12,7 @@ data:
   population: 480
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "Quarry village at the rock face above Upper Suvargeri, which cut the stone of all three great temples."
 ---
 
 **Shilamukha** is a quarry village at the rock face above [Upper Suvargeri]{.name data-type="place/site"}, in the [[place-suvargerijnpd|Suvargeri Janpoda]]. Its quarry cut the stone of all three great temples. The three temples are kept equals by the constitution, and all three are cut from one rock face.

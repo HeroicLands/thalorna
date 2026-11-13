@@ -13,6 +13,7 @@ data:
   routes: [{to: suryadvar, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice]}]
   packFolder: vedyara
   government: shikhalaya
+  notes: "The fortress-capital of Shikhalaya, built across the throat of Suryadvar—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
 ---
 
 **Suryagarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-shikhalaya|Shikhalaya]] and stands across the throat of [[place-suryadvar|Suryadvar]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not go beneath the walls. The city exists because of that one fact and would not otherwise be where it is.

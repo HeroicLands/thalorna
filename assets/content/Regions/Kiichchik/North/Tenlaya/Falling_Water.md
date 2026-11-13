@@ -13,6 +13,7 @@ data:
   population: 3000
   government: tenlaya
   packFolder: tenlaya
+  notes: "Falling Water: the salmon falls of the Root Fields and their summer camp, where the western bands take fish from platforms over the water and trade with the Cedar People's summer traders, who have brought a captive to sell."
 
 # terran_analog: Celilo Falls on the Columbia, the great fishing and trading place of the Plateau peoples, with its dip-net platforms, its first-salmon rite and its summer trade fair
 ---

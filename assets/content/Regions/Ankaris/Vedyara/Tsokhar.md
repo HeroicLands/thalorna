@@ -14,6 +14,7 @@ data:
   market: 2
   packFolder: vedyara
   government: osketguides
+  notes: "The western Osket village between the storm-door and the sixth road—herders who take two caravans a year and keep something worth a great deal more."
 ---
 
 **Tsokhar** sits in a high valley between [[place-meghadvar|Meghadvar]] and [[place-gudesroad|the Guides' Road]], on the only ground in the western wall that will carry a herd through a winter. Three hundred and eighty people live there. It has a weekly market in the open season, a smith, and nothing else a lowlander would call a trade.

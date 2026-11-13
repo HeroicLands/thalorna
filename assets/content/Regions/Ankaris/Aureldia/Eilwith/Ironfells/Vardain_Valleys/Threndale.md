@@ -12,6 +12,7 @@ data:
   population: 460
   government: vrgldhld
   packFolder: eilwith
+  notes: "The burial valley of the Vardain, where the dead of the whole district are brought—and where the graves of the last free generation of Vardanreach are still being added to."
 ---
 
 **Threndale** is a side valley given over to the dead, and the village of four hundred and sixty that

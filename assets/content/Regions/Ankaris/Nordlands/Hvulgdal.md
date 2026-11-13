@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A farming dale of the Nordlands under Jarl Hlaskinda, whose harvests Bruldorv Greenshield manages on her authority."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  population: 0
+  packFolder: nordlands
+  notes: "A farming dale of the Nordlands under Jarl Hlaskinda, whose harvests Bruldorv Greenshield manages on her authority."
 ---
 
 In a north where most land is rock, fell or fjord, a dale that grows grain reliably is wealth of the kind a jarl guards closely, and Hvulgdal is that dale. The halls stand on the slopes and the fields lie below them, and in a good year the dale feeds more than its own people. It is a farming dale of the [[place-nrdlndsrgn|Nordlands]], held by **Jarl [[being-hlaskynda|Hlaskinda]] of Hvulgdal**.

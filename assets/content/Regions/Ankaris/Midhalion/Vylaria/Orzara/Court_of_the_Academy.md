@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The Ombalon, the ceremonial inner seat of the Epistémion within Arvon—no place of teaching but a palace of counsel and keeping, where the Academy's most senior scholars answer the throne's questions and guard the Notral Sevan, the warded library of the rarest and most dangerous knowledge in the Empire."
 tags: [hall, settlement, vylaria, imperial, orzara, scholarly]
-data: {demonym: null, lore: [], parents: [orzara], population: 300, government: vylarinmpr}
+data:
+  demonym: null
+  lore: []
+  parents: [orzara]
+  population: 300
+  government: vylarinmpr
+  notes: "The Ombalon, the ceremonial inner seat of the Epistémion within Arvon—no place of teaching but a palace of counsel and keeping, where the Academy's most senior scholars answer the throne's questions and guard the Notral Sevan, the warded library of the rarest and most dangerous knowledge in the Empire."
 ---
 
 ## Ombalon—The Court of the Academy of Knowledge

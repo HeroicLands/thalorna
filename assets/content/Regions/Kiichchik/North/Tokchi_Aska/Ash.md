@@ -13,6 +13,7 @@ data:
   population: 1500
   government: tokchiaska
   packFolder: tokchiaska
+  notes: "Ash, the largest swamp-edge town of the Dark Water, which takes in the households whose fires have been put out and says it was founded by the coast women Pakalo saved."
 
 # terran_analog: the maroon and refugee communities of the southeastern swamps, set in a Mississippian swamp-edge town; no single model
 ---

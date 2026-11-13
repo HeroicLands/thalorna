@@ -12,6 +12,7 @@ data:
   population: 450
   packFolder: tarvenia
   government: frtrtryskrth
+  notes: "A highland village of Eskarath in a valley of old oaks, whose grove holds a shrine to the forest guardians."
 ---
 
 ## Overview

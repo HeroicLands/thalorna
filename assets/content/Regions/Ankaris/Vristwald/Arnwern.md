@@ -12,6 +12,7 @@ data:
   population: 0
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A burned Varokh village on a lake behind Falkhaven's shore, the first the Sons of Eldheim destroyed."
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   government: kngdmstrth
   routes: [{to: thumbalero, bearing: S, mode: land, days: 2, terrain: [mountains, road]}]
   packFolder: tarvenia
+  notes: "The drove town of Asturath's high valleys north of Lezkora, where in one spring week the flocks go up to the summer meadows and the young men go down to the coast under contract."
 ---
 
 Tsaberis is the drove town of the high valleys north of [[place-lezkora|Lezkora]] in [[place-asturath|Asturath]], three thousand five hundred people in stone houses around a great walled sheepfold at the meeting of four drove roads. Its name is the old mountain word for a sheepfold, _tsaber_. In one week of every spring the town sends the flocks up to the summer meadows and the young men down to the coast. "Half went up and half went down" is the valleys' praise for a family that keeps the old way.

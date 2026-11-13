@@ -13,6 +13,7 @@ data:
   population: 11000
   packFolder: regkhsett
   government: selatlinmut
+  notes: "Selat capital of Linmut."
 ---
 
 ## Overview

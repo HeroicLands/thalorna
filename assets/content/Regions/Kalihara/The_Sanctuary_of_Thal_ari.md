@@ -13,6 +13,7 @@ data:
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "The sanctuary on the western slopes of Kalihara's Ring, facing the sea, where the custodians who tend the works of the coast and the approaches are trained."
 ---
 
 ## Overview

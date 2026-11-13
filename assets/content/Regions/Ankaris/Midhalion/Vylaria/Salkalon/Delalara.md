@@ -13,6 +13,7 @@ data:
   routes: [{to: orzara, bearing: N, mode: land, days: 5, terrain: [road]}]
   packFolder: vylaria
   government: provincvld
+  notes: "The provincial capital of Salkalon and the busiest harbor left to the empire: a city of quays, warehouses and shipping houses whose eastern trade pays Taruzelian dues, whose Taruzelian and Helionite factors live by yearly waiver, and whose merchants share the province with an appointed therkos."
 ---
 
 ## Overview

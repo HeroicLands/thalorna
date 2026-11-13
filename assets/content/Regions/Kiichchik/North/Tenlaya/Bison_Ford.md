@@ -13,6 +13,7 @@ data:
   population: 1500
   government: tenlaya
   packFolder: tenlaya
+  notes: "Bison Ford: the largest earth-lodge village of the Grass People, where the herds cross the river and the hunting bands come each autumn to trade meat and robes for corn under the Corn Pipe."
 ---
 
 ## Overview

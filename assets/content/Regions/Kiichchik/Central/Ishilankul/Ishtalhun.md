@@ -12,6 +12,7 @@ data:
   population: 45000
   government: ixilankul
   packFolder: ixilankul
+  notes: "The Place of Obsidian Blood: a city of Ish'ilankul under a ridge of volcanic glass, which makes the plateau's blades and mirrors, trains its captive-warriors, and holds the training ground of the Blood-Workers."
 
 # terran_analog: the obsidian sources and workshops of the central highlands, and the warrior houses of a Mexica city; the name copies no Nahuatl or Maya place
 ---

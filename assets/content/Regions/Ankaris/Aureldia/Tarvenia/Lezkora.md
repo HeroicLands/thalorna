@@ -13,6 +13,7 @@ data:
   government: kngdmstrth
   routes: [{to: thumbalero, bearing: W, mode: land, days: 1, terrain: [mountains, road]}]
   packFolder: tarvenia
+  notes: "The fortress-city on a cliff-walled plateau in Asturath's central mountains, seat of the kings of Asturath and of Tarvénia's elected High King, reached by one road and one gate."
 ---
 
 Lezkora is a city of eight thousand on top of a mountain with a flat roof. The plateau it stands on rises out of the central ranges of [[place-asturath|Asturath]] on cliffs a thousand feet high, and one road climbs them to one gate. It is the seat of the kings of the [[affiliation-kngdmstrth|Kingdom of Asturath]] and of the elected High King of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and no army has ever reached the top. Its name comes from _lezkor_ (rock shelter), a word of the old mountain speech.

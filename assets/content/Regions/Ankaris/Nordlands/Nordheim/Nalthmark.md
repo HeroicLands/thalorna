@@ -12,6 +12,7 @@ data:
   population: 250
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Border Settlement"
 ---
 
 ## Overview

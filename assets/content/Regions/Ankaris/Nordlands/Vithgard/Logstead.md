@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The law-stead of Vithgard, where the kingdom's ting sits, Eidgar's hov keeps its oaths, and the Order of the Sworn Hand keeps its mother-hall."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [vithgard], government: kngdmvthgrd, packFolder: vithgard}
+data:
+  demonym: null
+  lore: []
+  parents: [vithgard]
+  government: kngdmvthgrd
+  packFolder: vithgard
+  notes: "The law-stead of Vithgard, where the kingdom's ting sits, Eidgar's hov keeps its oaths, and the Order of the Sworn Hand keeps its mother-hall."
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "One of the farm-and-market villages of the Capital Selat, of a few hundred to a few thousand souls, feeding the capital's granaries and drawing its living from the same traffic"
 ---
 
 ## Overview

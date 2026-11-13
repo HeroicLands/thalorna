@@ -13,6 +13,7 @@ data:
   population: 45000
   packFolder: regkhsett
   government: selatizetge
+  notes: "Selat capital of Izet-Ge."
 ---
 
 ## Overview

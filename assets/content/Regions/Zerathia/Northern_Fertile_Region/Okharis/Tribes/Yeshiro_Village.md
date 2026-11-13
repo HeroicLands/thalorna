@@ -12,6 +12,7 @@ data:
   population: 180
   packFolder: okharis
   government: yeshirotrb
+  notes: "Tanning village of the Yéshiro tribe at the edge of the Okharis forest."
 ---
 
 ## Overview

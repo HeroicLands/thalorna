@@ -13,6 +13,7 @@ data:
   population: 12000
   packFolder: regkhsett
   government: selatiaqetlq
+  notes: "Selat capital of Iaqet-Leqa."
 ---
 
 ## Overview

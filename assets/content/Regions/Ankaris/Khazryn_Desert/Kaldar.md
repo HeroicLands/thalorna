@@ -12,6 +12,7 @@ data:
   population: 12000
   government: tribestrzd
   packFolder: khazryndesert
+  notes: "A university city of Tellumel, founded after the seven Tellumi cities and not counted among them, held by the Atarzád and known for the alchemical faculty of the University of Kaldar."
 ---
 
 ## Overview

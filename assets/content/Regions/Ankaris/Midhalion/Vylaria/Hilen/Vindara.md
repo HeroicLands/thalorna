@@ -12,6 +12,7 @@ data:
   population: 6000
   packFolder: vylaria
   government: provnchyln
+  notes: "A prosperous wine town on the terraced hillsides of Hilen, all vintners, coopers and cellars cut into the slope, whose casks go down to the ports of Salkalon and whose two greatest vineyard houses have been at feud over one terrace wall for eleven years."
 ---
 
 ## Overview

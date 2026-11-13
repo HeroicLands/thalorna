@@ -12,6 +12,7 @@ data:
   population: 9000
   packFolder: tarvenia
   government: kngdmglvrn
+  notes: "The cod port at the southern end of Galvaren's coast, a town of about 9,000 at the mouth of a long drowned valley, whose half-decked boats work the Far Grounds for weeks at a time and whose masters chart the open sea."
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 1000
   government: osetakona
   packFolder: osetakona
+  notes: "Birches, a Birch People village on the last edge of the forest, which trades with the Grass People every summer, is raided by them some springs, and sends the Grove's best speaker to the Red Quarry."
 
 # terran_analog: a late Iroquoian-style village set at the prairie-forest edge of Wisconsin and Minnesota, where Ojibwe and Dakota met to trade and fight
 ---

@@ -12,6 +12,7 @@ data:
   population: 3200
   government: kngdmlvndr
   packFolder: elavendre
+  notes: "The orchard town of the middle basin, a day above Péravel by barge, whose cider presses supply the capital and whose oldest orchard keeps a holy well that has gone dry."
 ---
 
 ## Overview {#overview}

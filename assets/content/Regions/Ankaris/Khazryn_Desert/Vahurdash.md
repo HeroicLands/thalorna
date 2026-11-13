@@ -12,6 +12,7 @@ data:
   population: 4000
   government: khzrncnfdrtn
   packFolder: khazryndesert
+  notes: "The fifth of the seven Tellumi cities, given to the desert by an ancient drought and resettled within the last generation on the dry northern rim of Tellumel, where the streams give out."
 ---
 
 ## Overview

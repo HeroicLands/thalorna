@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A basin village of Anlagh-Zetun, of the dense farm-country that makes the selat one of the empire's granaries"
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   population: 30000
   government: neokbaate
   packFolder: neokbaate
+  notes: "The Island of Swallows: Ne'ok Ba'ate's island port off the eastern coast, ruled by a royal lady, which holds an archipelago with its own war canoes, carries much of K'ankul's sea trade, and keeps a spring where women come to ask for children."
 
 # terran_analog: Cozumel, the island of swallows, its port of trade and the women's pilgrimage to the shrine of the moon goddess; the name joins ts'ilil (a swallow) to ne'ts'ik (an island)
 ---

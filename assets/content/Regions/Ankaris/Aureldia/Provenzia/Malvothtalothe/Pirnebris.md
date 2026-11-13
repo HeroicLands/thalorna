@@ -13,6 +13,7 @@ data:
   population: 1800
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The cherry town of the eastern uplands above Lake Tiravel—the last market before the Tarvénian passes, whose year is set by the blossom and the campaign season together."
 ---
 
 **Pirnebris**—the cherry vale—is a hill town of [[place-talothe|Talote]], standing above the

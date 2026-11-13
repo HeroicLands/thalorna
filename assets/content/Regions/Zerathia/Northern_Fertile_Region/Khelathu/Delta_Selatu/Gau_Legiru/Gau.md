@@ -13,6 +13,7 @@ data:
   population: 45000
   packFolder: regkhsett
   government: selatgaulegr
+  notes: "Market & Temple Town"
 ---
 
 ## Overview

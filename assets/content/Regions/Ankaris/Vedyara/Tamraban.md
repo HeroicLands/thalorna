@@ -12,6 +12,7 @@ data:
   population: 910
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "The smelting village below the panning ground, whose furnaces make the best iron in inland Vedyara."
 ---
 
 **Tamraban** (910) is the smelting village, a mile below the panning ground on the same stream. It takes its name from the copper that was worked here before the iron was, and the copper is long finished.

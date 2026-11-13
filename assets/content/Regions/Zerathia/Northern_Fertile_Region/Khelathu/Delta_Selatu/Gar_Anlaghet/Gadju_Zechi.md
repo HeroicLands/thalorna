@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A marsh-channel village near Gar-Anlaghet, living by net and ferry among the waterways that thread the delta port"
 ---
 
 ## Overview

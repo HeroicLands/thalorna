@@ -13,6 +13,7 @@ data:
   population: 900
   government: tenlaya
   packFolder: tenlaya
+  notes: "Flint Hill: the upstream village of the Village River, whose lodge owners own the flint pits in the bluffs above it, and whose men catch eagles by hand from pits on the ridges."
 
 # terran_analog: the Knife River flint quarries and the Hidatsa villages at the mouth of the Knife River in North Dakota, with the Hidatsa practice of catching eagles by hand from covered pits
 ---

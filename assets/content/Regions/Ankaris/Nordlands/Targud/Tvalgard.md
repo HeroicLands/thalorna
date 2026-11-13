@@ -12,6 +12,7 @@ data:
   population: 900
   packFolder: targud
   government: kingdmtrgd
+  notes: "Town"
 ---
 
 ## Overview

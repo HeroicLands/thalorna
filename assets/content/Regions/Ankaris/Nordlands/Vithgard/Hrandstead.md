@@ -12,6 +12,7 @@ data:
   population: 1000
   packFolder: vithgard
   government: kngdmvthgrd
+  notes: "Fortified Settlement / Regional Capital"
 ---
 
 ## Overview

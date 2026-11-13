@@ -12,6 +12,7 @@ data:
   population: 760
   packFolder: vedyara
   government: dnrktjnpd
+  notes: "The reed village in the marsh of the dead channel, which shafts and fletches the janpoda's arrows."
 ---
 
 Everything in **Shiraban** (760) is counted in bundles of five hundred shafts. The village cuts the reed the arrows are shafted from, in the marsh where a dead channel of [[place-sarvedarivr|the Sarveda]] holds water through the dry season. The reed is cut green, bundled, and straightened over a slow fire.

@@ -13,6 +13,7 @@ data:
   government: muwojaidmn
   packFolder: jenchai
   culture: jenchaiclt
+  notes: "The castle town of House Muwojai on the slope of Zijai—a granary, a hall and the garrison of the roads to the Emperor, seat of the loyalist lord Muwojai Chaiwo."
 ---
 
 Kowu (Old Hall) is the castle town and seat of [Muwojai Chaiwo]{.name data-type="being/npc"}, a town of 3,200 people on the lower slope of [[place-zijai|Zijai]]. The hall gives the town its name; the lord's house has kept it for generations. It stands on a terrace of cedar beams above the town, with the peak behind it.

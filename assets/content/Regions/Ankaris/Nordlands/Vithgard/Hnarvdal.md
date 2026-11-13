@@ -12,6 +12,7 @@ data:
   population: 250
   packFolder: vithgard
   government: kngdmvthgrd
+  notes: "Valley Settlement"
 ---
 
 ## Overview

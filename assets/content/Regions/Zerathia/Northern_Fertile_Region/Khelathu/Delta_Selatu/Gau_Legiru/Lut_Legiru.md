@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A farm-and-press community of Gau-Legiru, small and prosperous, whose presses account for a share of the wine that leaves the selat by water"
 ---
 
 ## Overview

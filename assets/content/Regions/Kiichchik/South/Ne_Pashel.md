@@ -12,6 +12,7 @@ data:
   population: 18000
   government: ixbaltzaku
   packFolder: ixbaltzaku
+  notes: "The river-junction market town of Ish'bal Tsa'ku, where llama-trains from the highlands meet the jungle canoes, the cargo waits for an opened day, and the two halves of the town quarrel over every wharf."
 ---
 
 ## Overview

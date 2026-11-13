@@ -12,6 +12,7 @@ data:
   population: 2500
   packFolder: eilwith
   government: jrldmstrmvld
+  notes: "A jarl's hall-town on the western edge of the Stormplain, where Stormveld's grain land runs up to the Peshtar forest and the jarldom's steadings stand armed against the tribes."
 ---
 
 ## Overview {#overview}

@@ -12,6 +12,7 @@ data:
   population: 70000
   government: ixilankul
   packFolder: ixilankul
+  notes: "The Stone Heart: the merchant city of Ish'ilankul, built around a great rock in its market plaza, whose trading houses own the cacao groves of the southern highlands and choose its Sun Lord."
 
 # terran_analog: the great market of Tlatelolco with its market judges, and the counterfeit cacao beans of the Mexica markets; the name copies no Nahuatl or Maya place
 ---

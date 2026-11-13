@@ -15,6 +15,7 @@ data:
   population: 260
   government: beaconfamlys
   packFolder: elavendre
+  notes: "The beacon village nearest Olvalonke on the Lísere coast, which bakes the bread the Wardens' night watch at the Fen Door lives on and keeps its lamps lit every night of the winter."
 ---
 
 ## Overview {#overview}

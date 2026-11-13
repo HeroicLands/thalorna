@@ -13,6 +13,7 @@ data:
   population: 30000
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The old Vilérian foundation of the southern interior—once the provincial capital and still the seat of Provénzian law and learning, a city of enormous prestige and diminished consequence."
 ---
 
 **Aurelane** stands inland in the south, on the great road, and is the oldest city in [[place-provenzrgn|Provénzia]]. It

@@ -13,6 +13,7 @@ data:
   population: 1500
   government: kelwanuk
   packFolder: kelwanuk
+  notes: "Bear Beach: the Bear House's village at the mouth of the South River, the southernmost of the coast, which receives the Northern Strand of beads, sells captives to every house, and means to take the first seat."
 
 # terran_analog: the Chinookan towns at the mouth of the Columbia, the great slave and trade market of the Northwest Coast
 ---

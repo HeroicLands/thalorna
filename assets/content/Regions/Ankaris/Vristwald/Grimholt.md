@@ -12,6 +12,7 @@ data:
   population: 450
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Fortified Village"
 ---
 
 ## Overview

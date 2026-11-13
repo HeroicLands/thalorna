@@ -16,6 +16,7 @@ data:
     - {to: thalgrund, bearing: E, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Edriwald."
 ---
 
 ## Overview

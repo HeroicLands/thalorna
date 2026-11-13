@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Arvon, the Eagle City—the walled citadel atop Arvel at the heart of Orzara, the sacred and administrative core of the Vilérian Empire, holding the Temple District, the Palace District, the Senate, the imperial guard, the Imperial Offices, the inner Epistémion, and the Grand Palace."
 tags: [settlement, vylaria, imperial, orzara, citadel]
-data: {demonym: null, lore: [], parents: [orzara], population: 12000, government: vylarinmpr}
+data:
+  demonym: null
+  lore: []
+  parents: [orzara]
+  population: 12000
+  government: vylarinmpr
+  notes: "Arvon, the Eagle City—the walled citadel atop Arvel at the heart of Orzara, the sacred and administrative core of the Vilérian Empire, holding the Temple District, the Palace District, the Senate, the imperial guard, the Imperial Offices, the inner Epistémion, and the Grand Palace."
 ---
 
 ## Arvon—the Inner City of Orzara

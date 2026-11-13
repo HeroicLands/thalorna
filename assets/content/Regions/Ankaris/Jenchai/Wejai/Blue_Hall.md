@@ -13,6 +13,7 @@ data:
   government: wejaidmn
   packFolder: jenchai
   culture: jenchaiclt
+  notes: "The castle town of House Wejai in the one sheltered bay of the typhoon coast—a whaling quay, a granary and a hall, seat of the independent lord Wejai Rowo."
 ---
 
 Zuwu (Blue Hall) is the castle town and seat of [Wejai Rowo]{.name data-type="being/npc"}, a town of 2,200 people in the sheltered bay under [[place-wejai|Wejai]]. The hall is roofed in blue-glazed tile that shows from far out to sea, and the whalers steer by it. It stands on a shoulder of the mountain above the quay.

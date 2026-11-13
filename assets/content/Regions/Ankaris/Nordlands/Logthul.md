@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "A Nordlands town whose Court of Justice is the oldest seat of law in the northern territories, where Knalthann Lawgiver earned his name."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  packFolder: nordlands
+  notes: "A Nordlands town whose Court of Justice is the oldest seat of law in the northern territories, where Knalthann Lawgiver earned his name."
 ---
 
 A suitor at the [Court of Justice at Logthul]{.name data-type="affiliation/governmental"} brings a witness and brings patience, because Logthul takes the cases the district tings cannot. The town is built around its court. The **Court of Justice at Logthul** is the oldest seat of law in the northern territories, and it is the court the north reaches for when a case is too great for a district ting.

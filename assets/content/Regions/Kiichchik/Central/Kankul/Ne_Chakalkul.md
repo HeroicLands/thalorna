@@ -12,6 +12,7 @@ data:
   population: 60000
   government: kankul
   packFolder: kankul
+  notes: "The Great Water Seat: the K'ankul city whose pyramids stand at the edge of a field of sacred pools, and whose court reckoners have the most exact count of the bright star K'inish'ilan on the continent."
 
 # terran_analog: Chactún and the Venus tables of the lowland courts; the name joins ne' (water) and ch'akal (great) to kul- (a lord's seat)
 ---

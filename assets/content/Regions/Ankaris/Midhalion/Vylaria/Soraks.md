@@ -12,6 +12,7 @@ data:
   population: 4000
   government: provinclys
   packFolder: vylaria
+  notes: "A road-city of northern Alessa whose road no longer leads anywhere: about four thousand people among colonnades built for thirty thousand, living by the province's northern court and registry and by selling their city's stone."
 ---
 
 ## Overview

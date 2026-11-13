@@ -13,6 +13,7 @@ data:
   population: 56000
   packFolder: regkhsett
   government: selatgezazab
+  notes: "Selat capital of Gezazabu."
 ---
 
 ## Overview

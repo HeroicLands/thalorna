@@ -12,6 +12,7 @@ data:
   population: 940
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "The upstream village of Rajepur, at the head-gate of the irrigation works and the Mahajaya shrine where the year's water is divided."
 ---
 
 **Khandapur** (940) is the upstream village of the janpoda and stands at the head of the irrigation works. Its [[affiliation-mahajaya|Mahajaya]] shrine is the one every cultivator in [[affiliation-rajeprjnpd|Rajepur]] comes to at planting, when the channels are blessed and the year's water is divided between the villages below.

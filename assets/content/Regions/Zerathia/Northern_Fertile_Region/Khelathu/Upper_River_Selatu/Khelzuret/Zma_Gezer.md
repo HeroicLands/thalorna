@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A pilgrim village of Khelzuret, on the road that carries the dead and their mourners, and fed by that road as much as by its fields"
 ---
 
 ## Overview

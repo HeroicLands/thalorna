@@ -15,6 +15,7 @@ data:
   population: 3400
   packFolder: elavendre
   government: kngdmlvndr
+  notes: "A forest town of the western coast, set back from the cliffs at the edge of Senali country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."
 ---
 
 **Liranel** stands a few miles inland of the [[place-lirve|Lirve]] cliffs, in the belt of worked

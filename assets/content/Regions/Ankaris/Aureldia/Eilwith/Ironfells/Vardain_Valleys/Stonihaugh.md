@@ -12,6 +12,7 @@ data:
   population: 620
   government: vrgldhld
   packFolder: eilwith
+  notes: "The quarry village, whose masons cut the terrace walls that make the high valleys farmable and whose work is mistaken for Khazari by every visitor."
 ---
 
 **Stonihaugh** is the quarry, and the masons. Six hundred and twenty people cutting the gray stone that

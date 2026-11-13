@@ -12,6 +12,7 @@ data:
   population: 25000
   government: xelem
   packFolder: xelem
+  notes: "The City of Rivers: the Shelem river town built across several tributaries of the Misty River, where the jungle's feathers, hides, cacao and herbs are gathered for the north, governed by a council of merchant families and priests."
 
 # terran_analog: the river towns of the Orinoco and their flooded forest; the name joins ts'alu (a stream) to kul- (a lord's seat)
 ---

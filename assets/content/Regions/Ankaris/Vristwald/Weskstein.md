@@ -12,6 +12,7 @@ data:
   population: 380
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Skathwald that grew up round the standing stone where one of the lost villages kept its totem."
 ---
 
 ## Overview

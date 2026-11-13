@@ -13,6 +13,7 @@ data:
   population: 400
   government: teyumi
   packFolder: teyumi
+  notes: "Turquoise Hill: the digging camp in the bare hills north of the Canyon of Houses, where work parties from every town cut the sacred stone out of the rock in turn, and the deep pits are going quiet."
 
 # terran_analog: the Cerrillos turquoise mines south of Santa Fe, worked by the Ancestral Puebloans with stone mauls and antler picks, and the turquoise workshops of Chaco Canyon
 ---

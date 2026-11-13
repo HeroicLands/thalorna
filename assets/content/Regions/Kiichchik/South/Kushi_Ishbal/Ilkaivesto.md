@@ -12,6 +12,7 @@ data:
   population: null
   packFolder: kuxiixbal
   culture: senaliclt
+  notes: "The southern conclave of the Senali in Kì'ìch'chik, in the great swamp of the lowland below K'ushi Ish'bal's plateau, the last green country north of the wastes."
 ---
 
 **Ilkaivesto**, the place of herons in the [[skill-senalilng|Senali language]], is the southernmost of the three conclaves the [[lore-flksenali|Senali Folk]] keep in [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], in the great swamp of the lowland east of the plateau, where the land falls away below the sacred lake into slow rivers and standing water. South of the swamp the waste of [[place-xelemixbalrgn|Shelem Ish'bal Region]] begins. Nobody outside it has counted the Senali there.

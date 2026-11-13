@@ -13,6 +13,7 @@ data:
   population: 15000
   packFolder: regkhsett
   government: seltqltlnlgr
+  notes: "Selat capital of Qelt-Len-Legir."
 ---
 
 ## Overview

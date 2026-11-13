@@ -12,6 +12,7 @@ data:
   population: 1800
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "The temple-seat of the Rajepur Janpoda, standing in the street-plan of the royal capital the sabhra dissolved."
 ---
 
 **Rajepur** (1,800) is the capital of the [[affiliation-rajeprjnpd|Rajepur Janpoda]] and stands on the ground of the kingdom it replaced. The dynastic city was much the larger place. Eighteen hundred people now live inside a street-plan laid out for several times that many, and the empty ground shows in every quarter.

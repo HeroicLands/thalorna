@@ -12,6 +12,7 @@ data:
   population: 200
   packFolder: norgaad
   government: kingdmnrgd
+  notes: "Coastal Village"
 ---
 
 ## Overview

@@ -15,6 +15,7 @@ data:
   population: 1100
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The stronghold of the Princess of Gefavel in the Satvote, where Itrola Lédravren governs her branch's lands in the seasons between the Council's sittings and counts what the Resumption cost her."
 ---
 
 ## Overview

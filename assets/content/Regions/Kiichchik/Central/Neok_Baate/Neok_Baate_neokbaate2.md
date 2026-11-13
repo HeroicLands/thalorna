@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The seat of the isthmus realm: a trading city built across the one road over the volcanic spine, where the goods of the north and the south change hands and an independent-minded Sun Lord bargains with the north."
 tags: [city]
-data: {demonym: null, lore: [], parents: [neokbaatergn], population: 70000, government: neokbaate}
+data:
+  demonym: null
+  lore: []
+  parents: [neokbaatergn]
+  population: 70000
+  government: neokbaate
+  notes: "The seat of the isthmus realm: a trading city built across the one road over the volcanic spine, where the goods of the north and the south change hands and an independent-minded Sun Lord bargains with the north."
 
 # terran_analog: Cancuen, the port of trade where the highland and lowland routes met; the name is the realm's and the city's
 ---

@@ -12,6 +12,7 @@ data:
   population: 3500
   packFolder: eilwith
   government: kingdmdnvr
+  notes: "The seat of the Synod and the mandatory first port of call for every ship crossing between Eilwìth and the mainland—where the Arcane Order inspects the island's entire commerce, and takes particular interest in anything magical."
 ---
 
 Ravenmoor stands on [[place-eilwith|Eilwìth]]'s south-eastern coast where the open moor that gives it its name breaks

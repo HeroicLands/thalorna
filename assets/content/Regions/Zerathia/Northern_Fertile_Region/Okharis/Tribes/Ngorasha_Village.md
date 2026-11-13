@@ -12,6 +12,7 @@ data:
   population: 340
   packFolder: okharis
   government: ngorashatrb
+  notes: "Fishing village of the Ngorasha tribe on a river of Okharis."
 ---
 
 ## Overview

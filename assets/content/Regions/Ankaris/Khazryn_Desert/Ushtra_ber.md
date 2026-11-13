@@ -12,6 +12,7 @@ data:
   population: 20000
   government: khzrncnfdrtn
   packFolder: khazryndesert
+  notes: "The last-founded of the seven Tellumi cities, a remote and austere glacier-fed oasis at the eastern end of Tellumel under the Eastern Reach, still ruled by its own house."
 ---
 
 ## Overview

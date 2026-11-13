@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The artists' city of Helionis, where patron families compete to fund the finest theater and the Academy of the Silver Veil trains the hetairin."
 tags: [city-state, city]
-data: {demonym: null, lore: [], parents: [helionis], population: 45000, government: kalydria}
+data:
+  demonym: null
+  lore: []
+  parents: [helionis]
+  population: 45000
+  government: kalydria
+  notes: "The artists' city of Helionis, where patron families compete to fund the finest theater and the Academy of the Silver Veil trains the hetairin."
 ---
 
 ## Overview

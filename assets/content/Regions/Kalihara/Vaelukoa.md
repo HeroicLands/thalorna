@@ -13,6 +13,7 @@ data:
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "A reef village on Kalihara's eastern coast, between Nalurithan and the approaches off Telvari, beside a current-stone that has run intermittently for a generation, where the island's pilots are raised."
 ---
 
 ## Overview

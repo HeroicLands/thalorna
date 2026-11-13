@@ -12,6 +12,7 @@ data:
   population: 290
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Skathwald, nearest the old lost ground, that shelters displaced kin without claiming them."
 ---
 
 ## Overview

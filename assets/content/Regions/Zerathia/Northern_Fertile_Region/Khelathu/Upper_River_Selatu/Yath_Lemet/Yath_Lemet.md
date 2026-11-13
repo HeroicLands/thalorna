@@ -13,6 +13,7 @@ data:
   population: 6000
   packFolder: regkhsett
   government: selatyathlmt
+  notes: "Selat capital of Yath-Lemet."
 ---
 
 ## Overview

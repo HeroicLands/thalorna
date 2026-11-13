@@ -13,6 +13,7 @@ data:
   routes: [{to: orzara, bearing: E, mode: land, days: 1, terrain: [road]}]
   packFolder: vylaria
   government: provinclys
+  notes: "The provincial capital of Alessa: a city of colonnades, clerks and petitioners on its ridge, which keeps the province's rolls, hears its appeals and governs everything in Alessa except the imperial capital standing inside it."
 ---
 
 ## Overview

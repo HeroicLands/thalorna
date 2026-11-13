@@ -12,6 +12,7 @@ data:
   population: 300
   packFolder: norgaad
   government: kingdmnrgd
+  notes: "Remote Fjord Village"
 ---
 
 ## Overview

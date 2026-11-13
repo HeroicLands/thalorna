@@ -12,6 +12,7 @@ data:
   population: 700
   government: vrgldhld
   packFolder: eilwith
+  notes: "The smiths' village of the Vardain valleys—the only humans anywhere taught anything of Khazari technique, and forbidden to teach it onward."
 ---
 
 **Vellik** sits where the beck drops enough to drive hammers, and it is where

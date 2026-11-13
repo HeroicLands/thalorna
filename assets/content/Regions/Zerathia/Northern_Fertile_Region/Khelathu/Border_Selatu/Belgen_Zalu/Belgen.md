@@ -13,6 +13,7 @@ data:
   population: 11000
   packFolder: regkhsett
   government: selatbelgnzl
+  notes: "Selat capital of Belgen-Zalu."
 ---
 
 ## Overview

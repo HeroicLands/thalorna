@@ -13,6 +13,7 @@ data:
   government: tsuijaidmn
   packFolder: jenchai
   culture: jenchaiclt
+  notes: "The castle town of House Tsuijai on the slope of Tsuijai—a granary, a hall and an armory below the mines, seat of the independent lord Tsuijai Rezo."
 ---
 
 Tsuiwu (Iron Hall) is the castle town and seat of [Tsuijai Rezo]{.name data-type="being/npc"}, a town of 2,600 people on the slope of [[place-tsuijai|Tsuijai]]. The hall is framed in iron and stone, and it stands above the smelters' smoke on a terrace cut from the rock.

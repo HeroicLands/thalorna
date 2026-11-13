@@ -13,6 +13,7 @@ data:
   population: 11000
   packFolder: regkhsett
   government: selatseltltr
+  notes: "Selat capital of Selat-Leteru."
 ---
 
 ## Overview

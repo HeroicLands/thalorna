@@ -12,6 +12,7 @@ data:
   population: 250
   government: kngdmlvndr
   packFolder: elavendre
+  notes: "A village and noble seat of Lirve within reach of Liranel, held by the young Lady Áulirane Kardeth, a noblewoman of Áelendan ancestry who buys discreet remedies from the alchemist Melrik Salvin."
 ---
 
 ## Overview {#overview}

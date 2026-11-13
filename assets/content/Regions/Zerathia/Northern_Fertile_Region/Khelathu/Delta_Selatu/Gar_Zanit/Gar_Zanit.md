@@ -13,6 +13,7 @@ data:
   population: 34000
   packFolder: regkhsett
   government: selatgarzant
+  notes: "Selat capital of Gar-Zanit."
 ---
 
 ## Overview

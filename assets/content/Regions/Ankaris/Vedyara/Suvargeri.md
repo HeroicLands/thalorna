@@ -12,6 +12,7 @@ data:
   population: 2400
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "The temple-seat of the Suvargeri Janpoda, in three parts on the streams of the gold mountain, holding the weighing-station and the jewelers' quarter."
 ---
 
 **Suvargeri** (2,400) is the capital of the [[affiliation-suvrgrjnpd|Suvargeri Janpoda]] and stands in three parts on the lower slopes of [[place-goldmountain|the gold mountain]]. [Upper Suvargeri]{.name data-type="place/site"} is at the junction of the two highest streams, [Middle Suvargeri]{.name data-type="place/site"} in the central valley below the panning grounds, and [Lower Suvargeri]{.name data-type="place/site"} at the foot of the mountain where [[place-bharavarivr|the Bharava]] proper begins. Name the part you want when you ask the way: four miles of steep road join the highest to the lowest, and a Suvargeri who says the name means all three.

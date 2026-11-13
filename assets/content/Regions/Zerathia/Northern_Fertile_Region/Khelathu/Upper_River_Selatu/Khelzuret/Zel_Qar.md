@@ -13,6 +13,7 @@ data:
   population: 6000
   packFolder: regkhsett
   government: linzemnlzlqr
+  notes: "Tomb-Workers' Village (walled)"
 ---
 
 ## Overview

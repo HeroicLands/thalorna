@@ -12,6 +12,7 @@ data:
   population: 200
   packFolder: malagna
   government: kingdomlgn
+  notes: "Coastal Village"
 ---
 
 ## Overview

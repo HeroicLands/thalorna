@@ -13,6 +13,7 @@ data:
   population: 200
   government: tikupilarit
   packFolder: tikupilarit
+  notes: "Cliff Place: a village of houses on stilts up the face of a rock island off the Ice Coast, home of the coast's best walrus hunters, ivory carvers and mask makers."
 ---
 
 ## Overview

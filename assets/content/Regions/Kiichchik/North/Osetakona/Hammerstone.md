@@ -13,6 +13,7 @@ data:
   population: 1500
   government: osetakona
   packFolder: osetakona
+  notes: "Hammerstone, the Copper People's chief village on the Copper Lake, where smiths beat pure copper cold for the whole north and the Grove argues about who may buy it."
 
 # terran_analog: the Old Copper workshops of the Keweenaw Peninsula and Isle Royale on Lake Superior, set in a later Iroquoian-style longhouse village
 ---

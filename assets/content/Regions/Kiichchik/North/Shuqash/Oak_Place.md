@@ -13,6 +13,7 @@ data:
   population: 1500
   government: shuqash
   packFolder: shuqash
+  notes: "Oak Place: the largest town of the Oak Valleys, where the coast comes over the pass for the Acorn Gathering and the Painted Cave lies in the canyon above."
 ---
 
 ## Overview

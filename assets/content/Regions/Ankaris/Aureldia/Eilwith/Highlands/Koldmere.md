@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A free reed-cutting and fishing village on the north-western shore of Lake Eilìssa, at the end of the lake where the village and Aldorath's Brinwold both claim the reed-beds."
 tags: [village, lake, inland]
-data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: 350, packFolder: eilwith}
+data:
+  demonym: null
+  lore: []
+  parents: [cntrlhghlnds]
+  population: 350
+  packFolder: eilwith
+  notes: "A free reed-cutting and fishing village on the north-western shore of Lake Eilìssa, at the end of the lake where the village and Aldorath's Brinwold both claim the reed-beds."
 ---
 
 ## Overview {#overview}

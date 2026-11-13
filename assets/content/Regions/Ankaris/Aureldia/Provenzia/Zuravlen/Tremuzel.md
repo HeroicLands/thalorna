@@ -12,6 +12,7 @@ data:
   population: 500
   government: erldmhrvrn
   packFolder: provenzia
+  notes: "A small salt and fishing port in a cleft of the Zuravlen cliffs north of Volsater, held for the Earl of Hárivren by his reeve, where the salt pans pay better than the boats and the egg-gatherers go down the cliff on ropes."
 ---
 
 ## Overview

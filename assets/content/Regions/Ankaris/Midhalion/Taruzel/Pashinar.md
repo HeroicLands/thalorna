@@ -15,6 +15,7 @@ data:
     - {to: amradadrgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}
   government: gldbrdpshnr
   packFolder: taruzel
+  notes: "The trading town on Qalirel's strait shore where the caravan ferries land: caravanserais and warehouses round the one good harbor of the eastern coast, factors who lend to men they may never see again, and a Warden whose roll the caravan trade reads before it trusts a name."
 ---
 
 ## Overview

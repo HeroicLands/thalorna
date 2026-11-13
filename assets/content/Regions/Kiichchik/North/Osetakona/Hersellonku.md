@@ -12,6 +12,7 @@ data:
   population: null
   packFolder: osetakona
   culture: senaliclt
+  notes: "The northern conclave of the Senali in Kì'ìch'chik, in a deep wood of old pine beyond the Pine People's last village, where the Grove's canoe makers do not cut."
 ---
 
 **Hersellonku**, the pine deep-wood in the [[skill-senalilng|Senali language]], is the northernmost of the three conclaves the [[lore-flksenali|Senali Folk]] keep in [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-tsitarargn|Pine Country]], north and west of the Pine People's six villages, where the ridges of rock and the cold lakes run on into country with no villages at all. Nobody outside it has counted the Senali there.

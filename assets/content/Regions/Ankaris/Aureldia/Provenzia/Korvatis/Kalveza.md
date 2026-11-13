@@ -15,6 +15,7 @@ data:
   population: 18000
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The second of Provénzia's great southern ports and one of the two homes of the Cotiere speech—a working harbor where Jalnasdal is a court, and the place the kingdom's bulk trade actually passes through."
 ---
 
 **Kalveza** stands on the warm southern shore and is, with [[place-jalnazdal|Jalnasdal]], one of the

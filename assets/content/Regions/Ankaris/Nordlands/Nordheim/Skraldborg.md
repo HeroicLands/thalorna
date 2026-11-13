@@ -12,6 +12,7 @@ data:
   population: 200
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Hill Fort"
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   population: 380
   packFolder: vedyara
   government: dnrktjnpd
+  notes: "Orchard and bee-keeping village of the northern hills, whose wax goes to the fletchers for their bindings."
 ---
 
 **Madupada** (380) is an orchard and bee-keeping village of the northern hills, in the [[place-danurkotjnpd|Danurkot Janpoda]], and it is the smallest of the villages that feed the bow trade. Its wax goes to the fletchers of the janpoda for their bindings, so every arrow shot by an academy graduate carries a little of Madupada's hives.

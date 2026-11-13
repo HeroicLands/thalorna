@@ -12,6 +12,7 @@ data:
   population: 5000
   packFolder: vylaria
   government: provnchyln
+  notes: "A plain market town of the Hilen estate country where the stewards of the great houses sell their estates' produce, and whose market register gives every buyer a clean title to what he takes home."
 ---
 
 ## Overview

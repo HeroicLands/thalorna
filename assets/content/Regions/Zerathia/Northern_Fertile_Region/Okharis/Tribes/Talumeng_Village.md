@@ -12,6 +12,7 @@ data:
   population: 500
   packFolder: okharis
   government: talumengtrb
+  notes: "Seat of the Tálumeng tribe and its cattle, on the open plains of Okharis."
 ---
 
 ## Overview

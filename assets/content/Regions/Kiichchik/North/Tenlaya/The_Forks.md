@@ -13,6 +13,7 @@ data:
   population: 1100
   government: tenlaya
   packFolder: tenlaya
+  notes: "The Forks: the fortified downstream village of the Village River, nearest the One Fire, a third burned last winter in answer to the Coyote band's raids, whose lodge owners now refuse that band at the autumn trading."
 
 # terran_analog: the fortified Initial Coalescent and Plains Village sites of the lower Missouri in South Dakota, such as Crow Creek and Fay Tolton, with bastioned ditches and burned lodges
 ---

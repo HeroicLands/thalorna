@@ -13,6 +13,7 @@ data:
   routes: [{to: chandrmukha, bearing: W, mode: ship, days: 5, terrain: [coast]}]
   government: lwrmhndjnpd
   packFolder: vedyara
+  notes: "The pilgrim town of the lower Mahanodi, built on mounds around one of the three great Mahajaya temples of inland Vedyara."
 ---
 
 **Bharanya** (5,400) stands on the lower reaches of [[place-mahanodi|the Mahanodi]], and it is there for the temple. The great temple, [[place-bhrnytemple|the Mahajaya Temple at Bharanya]], is one of the three largest pilgrim-temples in central [[place-vedyarargn|Vedyara]], and its senior priest is one of the three of [The Council of Three]{.name data-type="affiliation/governmental"}.

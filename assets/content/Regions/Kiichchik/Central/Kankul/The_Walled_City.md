@@ -12,6 +12,7 @@ data:
   population: 20000
   government: kankul
   packFolder: kankul
+  notes: "The Walled City: K'ankul's harbor town on the sea-cliffs, walled on three sides and open to the sea on the fourth, whose lamp temple guides canoes through the one gap in the reef."
 
 # terran_analog: Tulum, its wall, its cliff-top temple and the lights in its windows that marked the gap in the reef; the name joins ts'okil (a cliff) to kul- (a lord's seat)
 ---

@@ -16,6 +16,7 @@ data:
     - {to: frithhaven, bearing: SE, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Settlement"
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 38000
   packFolder: regkhsett
   government: selatlegirus
+  notes: "Selat capital of Legirusi."
 ---
 
 ## Overview

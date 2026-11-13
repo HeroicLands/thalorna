@@ -12,6 +12,7 @@ data:
   population: 650
   government: kngdmlvndr
   packFolder: elavendre
+  notes: "A reed-cutters' village in the tidal marsh between Péravel and the sea, where the Berav braids through its beds, and where a drowned guard has just been found with a Warden's arrow in him."
 ---
 
 ## Overview {#overview}

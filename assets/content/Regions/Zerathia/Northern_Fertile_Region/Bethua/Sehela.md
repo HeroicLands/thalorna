@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A small grain-village of Bethua's dry southern interior, kept alive by the engineer-priestesses' qanats and held by House Khalithon."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [bethuargn], government: mtrrchybth, packFolder: bethua}
+data:
+  demonym: null
+  lore: []
+  parents: [bethuargn]
+  government: mtrrchybth
+  packFolder: bethua
+  notes: "A small grain-village of Bethua's dry southern interior, kept alive by the engineer-priestesses' qanats and held by House Khalithon."
 ---
 
 ## Overview

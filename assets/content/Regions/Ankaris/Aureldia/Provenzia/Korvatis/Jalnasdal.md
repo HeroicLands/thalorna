@@ -15,6 +15,7 @@ data:
   population: 70000
   packFolder: provenzia
   government: kngdmprvnz
+  notes: "The capital of Provénzia on the warm southern shore—the Crown's seat, the home of the Cotiere speech, and the city where the long argument between the crown and the Council of Peers is conducted."
 ---
 
 **Jalnasdal** is the capital of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and, with some

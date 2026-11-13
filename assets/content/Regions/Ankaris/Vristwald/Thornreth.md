@@ -16,6 +16,7 @@ data:
     - {to: thornhaven, bearing: E, mode: land, days: 2, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Thornwald."
 ---
 
 ## Overview

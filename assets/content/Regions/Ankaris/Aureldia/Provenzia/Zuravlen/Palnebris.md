@@ -12,6 +12,7 @@ data:
   population: 310
   government: brnyzrvln
   packFolder: provenzia
+  notes: "The great orchard manor of Zuravlen's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
 ---
 
 Palnebris holds the best of the upper terraces, and is the wealthiest manor in

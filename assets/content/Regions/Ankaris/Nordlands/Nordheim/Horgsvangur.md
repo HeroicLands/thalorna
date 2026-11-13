@@ -12,6 +12,7 @@ data:
   population: 300
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Ritual Site / Ancient Settlement"
 ---
 
 ## Overview

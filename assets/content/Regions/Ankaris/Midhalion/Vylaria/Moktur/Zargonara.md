@@ -12,6 +12,7 @@ data:
   population: 7000
   packFolder: vylaria
   government: provncmktr
+  notes: "The chief mining town of Moktur: about seven thousand people in smoke-stained terraces under the iron, copper and silver lodes, whose ore goes down by mule to the furnaces of Stennvold and whose silver every power in the province wants a share of."
 ---
 
 ## Overview

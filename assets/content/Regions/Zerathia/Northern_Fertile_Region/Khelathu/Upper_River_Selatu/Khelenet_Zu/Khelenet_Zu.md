@@ -13,6 +13,7 @@ data:
   population: 32000
   packFolder: regkhsett
   government: selatkhelntz
+  notes: "Selat capital of Khelenet-Zu."
 ---
 
 ## Overview

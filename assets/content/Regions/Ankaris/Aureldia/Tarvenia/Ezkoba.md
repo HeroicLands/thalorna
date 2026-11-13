@@ -12,6 +12,7 @@ data:
   population: 2500
   packFolder: tarvenia
   government: kngdmglvrn
+  notes: "A cliff town of about 2,500 in the one cleft of the Black Cliffs north of Durvolka, which keeps the Long Lamp that brings the boats of the coast home in fog, and whose harbor teller is the senior teller of the Drowned Road."
 ---
 
 ## Overview

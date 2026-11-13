@@ -12,6 +12,7 @@ data:
   population: 30000
   packFolder: tarvenia
   government: kingdmlnrk
+  notes: "The gray-walled city at the foot of the mountains where the Thalsira leaves its gorge—built by the legions to hold the lowland march, and now Lyenrik's market and gate to Asturath."
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   population: 8000
   government: tmplplthms
   packFolder: tarvenia
+  notes: "A Tarvenan city whose Great Temple of Árdavon trains the faith's priests in theology, law and the sword, and whose prelate seals the arbitrations and commissions of its traveling priests."
 ---
 
 ## Overview {#overview}

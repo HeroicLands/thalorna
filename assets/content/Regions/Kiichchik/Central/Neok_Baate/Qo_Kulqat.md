@@ -12,6 +12,7 @@ data:
   population: 35000
   government: neokbaate
   packFolder: neokbaate
+  notes: "The Twin Pyramid: the independent city of Ne'ok Ba'ate whose two pyramids stand side by side, one a hand's width higher, whose carvers cut the finest stones on the continent, and whose jade comes out of the mountains behind it."
 
 # terran_analog: Copan, its deep-relief stelae and its jade; the name joins q'o (two) to kul'qat (a sacred peak)
 ---

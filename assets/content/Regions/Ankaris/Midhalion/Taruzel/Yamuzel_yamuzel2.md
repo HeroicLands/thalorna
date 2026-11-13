@@ -12,6 +12,7 @@ data:
   population: 180000
   packFolder: taruzel
   government: yamuzel
+  notes: "The Confederation's naval stronghold on the narrows between the islands of Taruzel: a fortress over the strait, the yards that build the fleet, admirals' houses on the height, and a Veterans' Quarter where the war's children have come of age."
 ---
 
 ## Overview

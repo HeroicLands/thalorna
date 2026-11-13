@@ -18,6 +18,7 @@ data:
     - {to: aelissium, bearing: S, mode: land, days: 5, terrain: [road]}
   packFolder: vylaria
   government: verdanorzara
+  notes: "Capital City of Viléria"
 ---
 
 > _"All roads are the [[affiliation-vylarinmpr|Empire]]'s roads, and every one of them runs home to Orzara."_—Vilérian proverb

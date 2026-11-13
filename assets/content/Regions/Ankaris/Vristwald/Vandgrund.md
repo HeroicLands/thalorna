@@ -16,6 +16,7 @@ data:
     - {to: thrastein, bearing: E, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Vandstein."
 ---
 
 ## Overview

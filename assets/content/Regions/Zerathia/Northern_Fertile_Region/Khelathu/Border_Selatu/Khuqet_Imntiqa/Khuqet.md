@@ -13,6 +13,7 @@ data:
   population: 12000
   packFolder: regkhsett
   government: seltkhqtmntq
+  notes: "Selat capital of Khuqet-Imntiqa."
 ---
 
 ## Overview

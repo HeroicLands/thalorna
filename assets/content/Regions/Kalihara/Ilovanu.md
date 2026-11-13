@@ -12,6 +12,7 @@ data:
   population: 18000
   packFolder: kalihara
   government: kalihara
+  notes: "The principal port of Kalihara on the island's eastern coast—spice and gem entrepôt, seat of the island's Council, and the one place on the island most foreigners ever see."
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 27000
   packFolder: regkhsett
   government: selatgadjuml
+  notes: "Selat capital of Gadju-Mulu, seat of the chief temple of Thuba'i, the god of plenty."
 ---
 
 ## Overview

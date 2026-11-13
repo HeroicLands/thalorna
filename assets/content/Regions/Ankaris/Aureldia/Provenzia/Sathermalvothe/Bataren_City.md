@@ -17,6 +17,7 @@ data:
   population: 25000
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "Provénzia's ocean port on the northwestern gulf—an Élavendren city under Provénzian rule, trading north rather than south, and the site of a slow and unresolved quarrel over land, rights and tradition."
 ---
 
 Bataren stands on the [[place-batarengulf|Gulf of Bataren]] in the northwest, and is [[affiliation-kngdmprvnz|Provénzia]]'s

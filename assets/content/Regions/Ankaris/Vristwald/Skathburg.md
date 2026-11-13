@@ -16,6 +16,7 @@ data:
     - {to: wulfstein, bearing: SE, mode: land, days: 2, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Skathwald."
 ---
 
 ## Overview

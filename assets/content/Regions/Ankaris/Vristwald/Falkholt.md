@@ -14,6 +14,7 @@ data:
   routes: [{to: falkensten, bearing: E, mode: land, days: 2, terrain: [track, forest]}]
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Falkhaven."
 ---
 
 ## Overview

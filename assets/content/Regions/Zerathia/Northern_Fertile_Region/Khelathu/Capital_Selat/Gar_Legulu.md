@@ -13,6 +13,7 @@ data:
   population: 30000
   packFolder: regkhsett
   government: capitalselat
+  notes: "Temple-Estate Town"
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 5000
   government: tokchiaska
   packFolder: tokchiaska
+  notes: "The Falcon Mound, the double-walled town on the western bank where the One Fire musters against the plains bands, the falcon dancers train, and maize is traded for robes in the same season as the raids."
 
 # terran_analog: the western Mississippian frontier towns on the prairie edge west of the river, with the palisaded Mississippian towns of the Missouri and Arkansas valleys as models; the falcon dancers' house is the Southeastern Ceremonial Complex's warrior cult
 ---

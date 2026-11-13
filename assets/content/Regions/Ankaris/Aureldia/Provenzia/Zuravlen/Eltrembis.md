@@ -12,6 +12,7 @@ data:
   population: 1400
   government: brnyzrvln
   packFolder: provenzia
+  notes: "The market town and baronial seat of Zuravlen, where every peach in the barony is graded, packed and sold, and where the autumn fair settles the year's accounts."
 ---
 
 **Eltrembis** stands where the Zuravlen valley opens toward the plain, and it exists to sell what the

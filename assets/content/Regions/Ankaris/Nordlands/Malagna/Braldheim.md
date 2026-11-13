@@ -12,6 +12,7 @@ data:
   population: 350
   packFolder: malagna
   government: kingdomlgn
+  notes: "Settlement"
 ---
 
 ## Overview

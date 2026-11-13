@@ -15,6 +15,7 @@ data:
   population: 34000
   government: erldmhrvrn
   packFolder: provenzia
+  notes: "The great city of Provénzia's western march and seat of its Earl—an old inland stronghold turned administrative capital, host of the Lordeme every fifth year, and the one place in Ankaris where the Black Flame is held openly by a man nobody can touch."
 ---
 
 **Hárivren** is the great city of [[affiliation-kngdmprvnz|Provénzia]]'s **western march**—inland, on the river that gathers the

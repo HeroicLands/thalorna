@@ -12,6 +12,7 @@ data:
   population: 5000
   packFolder: vylaria
   government: provncmktr
+  notes: "A walled toll-town of about five thousand built across the throat of a mountain pass, where the fur and iron trade between the province and the Vandstein villages pays at one gate, and the command of that gate changes hands from season to season among the border lords."
 ---
 
 ## Overview

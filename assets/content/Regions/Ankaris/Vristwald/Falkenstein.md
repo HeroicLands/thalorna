@@ -16,6 +16,7 @@ data:
     - {to: arnstein, bearing: E, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Hill Fort"
 ---
 
 ## Overview

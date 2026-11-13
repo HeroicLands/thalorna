@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A grain-village of the flood-basin in Anlagh-Zetun, working its share of the inundated land and sending its harvest up the chain to the granaries and the Halzi'a"
 ---
 
 ## Overview

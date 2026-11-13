@@ -12,6 +12,7 @@ data:
   population: 7000
   packFolder: vylaria
   government: provnchyln
+  notes: "The chief grain-market of central Hilen: a town of granaries, weighing-yards and sack-carriers where the harvest of a hundred estates is gathered and measured, and where an empty granary is the empire's first warning that its bread is short."
 ---
 
 ## Overview

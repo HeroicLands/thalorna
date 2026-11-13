@@ -15,6 +15,7 @@ data:
   population: 190
   government: beaconfamlys
   packFolder: elavendre
+  notes: "A beacon village set back from the Lísere shingle beside the gap in the reeds where the Dusk Ford track leaves the Coast Road, whose headland beacon is the best-kept on the shore."
 ---
 
 ## Overview {#overview}

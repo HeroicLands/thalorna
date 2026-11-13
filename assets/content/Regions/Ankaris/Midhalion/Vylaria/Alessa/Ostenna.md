@@ -12,6 +12,7 @@ data:
   population: 7000
   packFolder: vylaria
   government: provinclys
+  notes: "A small river-port town on the River Vilaris where the road meets the barges, whose boatmen, warehousemen and toll-clerks pass a great part of the capital's grain downstream and decide between them which barge goes and which one waits."
 ---
 
 ## Overview

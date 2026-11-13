@@ -14,6 +14,7 @@ data:
   packFolder: vedyara
   government: osketguides
   culture: osketclt
+  notes: "The principal Osket village, above the throat of Suryadvar—stacked stone on a south-facing slope, full for two months of the year and shut for ten."
 ---
 
 **Oskhelt** is the one place on the wall where a lowlander arranges a crossing instead of being granted one. It stands on a south-facing slope above the upper stages of [[place-suryadvar|Suryadvar]], four days' climb from [[place-suryagarha|Suryagarha]] and well above anything that will grow grain, and it is the largest settlement of [[affiliation-osketguides|the Osket]].

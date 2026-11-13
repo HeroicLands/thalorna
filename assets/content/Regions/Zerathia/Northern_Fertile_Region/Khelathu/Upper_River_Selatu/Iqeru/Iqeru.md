@@ -13,6 +13,7 @@ data:
   population: 33000
   packFolder: regkhsett
   government: selatiqeru
+  notes: "Selat capital of Iqeru, seat of the chief temple of Uqa'a, the solar flame."
 ---
 
 ## Overview

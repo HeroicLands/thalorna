@@ -12,6 +12,7 @@ data:
   population: 25000
   government: mrchntcnsrtchr
   packFolder: byzaria
+  notes: "Port City"
 ---
 
 "Ask the shipper what is in the crate," a Krisamar captain tells a new mate. "Ask me where it is going and when." The harborfront behind him is a wall of warehouses, and most of them belong to merchant consortiums that operate independently of the strict governance of the [[affiliation-byzarianlg|League's larger cities]].

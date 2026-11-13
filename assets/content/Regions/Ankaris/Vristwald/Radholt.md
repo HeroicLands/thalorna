@@ -12,6 +12,7 @@ data:
   population: 320
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Skathwald whose grove council sounds the alarm when anyone goes missing near the Grimak thicket."
 ---
 
 ## Overview

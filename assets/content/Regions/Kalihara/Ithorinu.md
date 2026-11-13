@@ -13,6 +13,7 @@ data:
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "The lake-shore town of Kalihara's Bowl, where the Elders of the lineages keep their inland houses and the island's record of Council decisions is kept."
 ---
 
 ## Overview

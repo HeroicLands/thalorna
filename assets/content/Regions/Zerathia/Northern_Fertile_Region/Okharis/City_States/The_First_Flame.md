@@ -12,6 +12,7 @@ data:
   population: 40000
   packFolder: citystates
   government: okharis
+  notes: "Temple City"
 ---
 
 **meaning:** _The First Flame_

@@ -13,6 +13,7 @@ data:
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "The terrace town on the eastern shore of Kalihara's Bowl Lake, seat of the Master of the Terraces and home of the granaries, whose lowest terraces stand under the risen water."
 ---
 
 ## Overview

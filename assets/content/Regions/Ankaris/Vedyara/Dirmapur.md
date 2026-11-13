@@ -12,6 +12,7 @@ data:
   population: 4200
   government: mddlsrvdjnpd
   packFolder: vedyara
+  notes: "The largest of the copying towns of the middle Sarveda, whose Scribes' Shrena sets the rate for a finished page across the subcontinent."
 ---
 
 Bring a commission to a **Dirmapur** copyist and the first figure you hear is the shrena's rate for a finished page; she has no other to quote. Dirmapur (4,200) stands on the middle reaches of [[place-sarvedarivr|the Sarveda]], ninety miles below the bow-country, and is the largest of the copying towns of that reach. About one adult in five here can read, and no other place in [[place-vedyarargn|Vedyara]] outside a city comes near it.

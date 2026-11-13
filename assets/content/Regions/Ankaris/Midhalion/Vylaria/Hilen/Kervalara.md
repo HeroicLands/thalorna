@@ -12,6 +12,7 @@ data:
   population: 2500
   packFolder: vylaria
   government: provnchyln
+  notes: "The forest town at the edge of the imperial game-reserve in Hilen, a town of wardens, houndsmen and lodge-keepers that swells when the court comes to hunt, where the forest's boundary moves outward into the tenants' fields and a poacher's sentence is the rope."
 ---
 
 ## Overview

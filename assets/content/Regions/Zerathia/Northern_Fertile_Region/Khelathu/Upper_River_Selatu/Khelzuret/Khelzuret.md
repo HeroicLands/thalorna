@@ -13,6 +13,7 @@ data:
   population: 90000
   packFolder: regkhsett
   government: selatkhelzrt
+  notes: "Temple City (Necropolis)"
 ---
 
 ## Overview

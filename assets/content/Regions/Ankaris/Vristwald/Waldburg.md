@@ -12,6 +12,7 @@ data:
   population: 800
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Forest Stronghold"
 ---
 
 ## Overview

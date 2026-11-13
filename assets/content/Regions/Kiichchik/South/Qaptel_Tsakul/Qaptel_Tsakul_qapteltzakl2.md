@@ -12,6 +12,7 @@ data:
   population: 4000
   government: qapteltzakl
   packFolder: qapteltzakul
+  notes: "Seat of the border realm, a fortress-temple that sells guides, provisions and blessings to those about to cross into the wastes."
 ---
 
 ## Overview

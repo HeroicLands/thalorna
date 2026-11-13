@@ -13,6 +13,7 @@ data:
   population: 28000
   packFolder: regkhsett
   government: selatzbtrlpt
+  notes: "Selat capital of Zebt-Relepet."
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 4000
   packFolder: regkhsett
   government: empireakhlth
+  notes: "The sacred midstream island at the heart of Galezkara—held to be the primeval mound where creation began, walled in white limestone, and bearing the two poles of imperial power: the Great Temple of Uqa'a and the palace of the Gar-Au, with the great flood-gauge called the Measure."
 ---
 
 ## Overview

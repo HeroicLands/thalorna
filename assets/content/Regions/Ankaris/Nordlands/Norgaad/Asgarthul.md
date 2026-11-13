@@ -12,6 +12,7 @@ data:
   population: 400
   packFolder: norgaad
   government: kingdmnrgd
+  notes: "Market Town / Seat of Local Nobility"
 ---
 
 ## Overview

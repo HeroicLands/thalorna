@@ -12,6 +12,7 @@ data:
   population: 270
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "Flower gardens for the temple, whose garland-makers supply the spring festival."
 ---
 
 **Pushpaban** (270) grows flowers for the temple, and once a year the town of [[place-rajepur|Rajepur]] depends on it. The village is a ring of gardens in the [[place-rajepurjnpd|Rajepur Janpoda]], and its garland-makers supply the [Spring Festival of Vyalendra]{.name data-type="lore/gathering"} (see [[affiliation-vyalendra|Vyalendra]]), when the town takes perhaps fifteen thousand visitors, better than fifty times Pushpaban's own number.

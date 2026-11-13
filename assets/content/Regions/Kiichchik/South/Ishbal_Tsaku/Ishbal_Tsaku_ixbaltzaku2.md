@@ -12,6 +12,7 @@ data:
   population: 60000
   government: ixbaltzaku
   packFolder: ixbaltzaku
+  notes: "Seat of a mountain-and-river realm of fortress-cities, gold-working and absolute priestly control of trade."
 ---
 
 ## Overview

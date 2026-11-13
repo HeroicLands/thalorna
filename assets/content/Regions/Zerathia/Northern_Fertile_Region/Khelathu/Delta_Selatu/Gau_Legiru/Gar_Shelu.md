@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "An orchard community of the Gau-Legiru garden strip, of a few hundred to a couple of thousand, whose fruit and oil go out through the selat's little harbors"
 ---
 
 ## Overview

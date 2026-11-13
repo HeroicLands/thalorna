@@ -12,6 +12,7 @@ data:
   population: 6000
   government: cnclkstrsh
   packFolder: byzaria
+  notes: "Port Town"
 ---
 
 ## Overview

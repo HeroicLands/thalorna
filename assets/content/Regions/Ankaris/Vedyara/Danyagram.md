@@ -12,6 +12,7 @@ data:
   population: 930
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "Millet village on the dry western terraces, and the largest single contributor to the janpoda's famine store."
 ---
 
 **Danyagram** is a millet village on the dry western terraces of the [[place-suvargerijnpd|Suvargeri Janpoda]], and no village puts more into the janpoda's famine store. Millet asks little of a terrace, and these terraces have little to give, so the village is dry ground put to the one use it suits. A lean year elsewhere in the janpoda is eaten out of what these slopes grew.

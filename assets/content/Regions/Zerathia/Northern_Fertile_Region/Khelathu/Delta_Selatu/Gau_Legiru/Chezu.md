@@ -13,6 +13,7 @@ data:
   population: 12000
   government: selatgaulegr
   packFolder: regkhsett
+  notes: "Wine Town"
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 7000
   government: tokchiaska
   packFolder: tokchiaska
+  notes: "The Other Fire, chief of the hill towns of the Old Ranges, which kept a rival Sun's fire through the Scattering and lights its New Fire from a coal its own Keeper carries."
 
 # terran_analog: Etowah in the Georgia foothills, with its great platform mound, its copper plates and its periods of independence from the larger chiefdoms
 ---

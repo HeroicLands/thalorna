@@ -12,6 +12,7 @@ data:
   population: 890
   packFolder: vedyara
   government: dnrktjnpd
+  notes: "The bamboo village of the upper Sarveda, whose groves supply the staves every Danurkot bow is made from."
 ---
 
 **Veniban** (890) holds three years of its own product in its drying sheds at any time, which is why it is the wealthiest of the cultivator villages and the most anxious. It grows the bamboo the Danurkot bows are made from. Its groves run four miles along the north bank of [[place-sarvedarivr|the Sarveda]] and are cut on a seven-year rotation, which the village has kept without a break for as long as the academies have taught.

@@ -12,6 +12,7 @@ data:
   population: 900
   government: qapteltzakl
   packFolder: qapteltzakul
+  notes: "The gate of the south: a fortress-temple of Q'aptel Tsa'kul at the edge of the waste, where parties wait for an opened day, hear their own funeral recited, and leave through the last gate on the continent."
 ---
 
 ## Overview

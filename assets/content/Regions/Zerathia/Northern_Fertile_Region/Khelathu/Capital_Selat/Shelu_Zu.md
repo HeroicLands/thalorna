@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A village of the market-belt around Galezkara, rendering its share of grain, beer and labor and living by the nearness of the city"
 ---
 
 ## Overview

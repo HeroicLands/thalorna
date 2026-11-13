@@ -13,6 +13,7 @@ data:
   government: nclvthlss
   packFolder: elavendre
   culture: senaliclt
+  notes: "The threshold enclave on the edge of the Áelendan tribal lands—small, deliberately placed, and the point through which the Senali deal with the rest of humanity by way of Áelendan intermediaries."
 ---
 
 **Ethalosse**, as it is called in [[skill-elvndrlng|Élavendri]], sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the

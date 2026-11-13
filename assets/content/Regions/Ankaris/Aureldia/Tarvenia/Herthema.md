@@ -12,6 +12,7 @@ data:
   population: 4000
   government: cnclhrthm
   packFolder: tarvenia
+  notes: "A walled coastal town of about 4,000 in Tarvénia that breeds sellswords, builds ships and blows plain glass for the wine trade, and whose shipyards, furnace-houses and temple are all quarreling over whether the old standard should give way to the new."
 ---
 
 ## Overview {#overview}

@@ -12,6 +12,7 @@ data:
   population: 450
   packFolder: okharis
   government: zhikandetrb
+  notes: "Weaving village of the Zhíkande tribe among the flax fields of a river of Okharis."
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   population: 38000
   government: tribestrzd
   packFolder: khazryndesert
+  notes: "The craft city of Tellumel, second of the seven Tellumi cities, where master-craftsmen's councils rule the workshops and the Teghumod tribe holds the walls and the roads south."
 ---
 
 ## Overview

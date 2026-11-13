@@ -12,6 +12,7 @@ data:
   population: 260
   packFolder: okharis
   government: magaratrb
+  notes: "Seat of the warlike Magara tribe and its horse herds, on the open plains of Okharis."
 ---
 
 ## Overview

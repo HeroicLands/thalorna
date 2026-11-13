@@ -16,6 +16,7 @@ data:
     - {to: skathburg, bearing: SE, mode: land, days: 5, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Thornwald."
 ---
 
 ## Overview

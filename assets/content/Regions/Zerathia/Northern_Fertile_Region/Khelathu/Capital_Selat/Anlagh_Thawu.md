@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A hinterland village of the Capital Selat, one of the ring that feeds Galezkara"
 ---
 
 ## Overview

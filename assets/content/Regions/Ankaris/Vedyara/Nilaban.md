@@ -12,6 +12,7 @@ data:
   population: 510
   packFolder: vedyara
   government: dnrktjnpd
+  notes: "Indigo village of the lower valley, which dyes for the weavers of Karpasagram."
 ---
 
 **Nilaban** (510) is the indigo village of the lower valley, in the [[place-danurkotjnpd|Danurkot Janpoda]], and its dyers can be told by their hands, which are blue to the wrist. It dyes for the weavers of [[place-karpasagram|Karpasagram]] and sends them the color the valley wears.

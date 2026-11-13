@@ -12,6 +12,7 @@ data:
   population: 600
   government: kngdmlvndr
   packFolder: elavendre
+  notes: "A woodland settlement within the Silver Forests—one of the few permanent Élavendri holdings inside Áelendan country, existing on sufferance and on an agreement nobody will produce in writing."
 ---
 
 **Sóurimel** lies inside [[place-silvrfrsts|the Silver Forests]] of [[place-sorvanda|Sórvanda]], which

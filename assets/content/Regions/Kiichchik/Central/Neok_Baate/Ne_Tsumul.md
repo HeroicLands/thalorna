@@ -12,6 +12,7 @@ data:
   population: 50000
   government: neokbaate
   packFolder: neokbaate
+  notes: "Red Water: the city above the great river of Ne'ok Ba'ate, whose astronomical monuments rival K'ankul's, whose fire temple carries the stair text of the Late Fire, and whose builder-priests keep the register of the realm's shut temples."
 
 # terran_analog: Quirigua, its great stelae and its river; the hieroglyphic stairway as the Late Fire's stair
 ---

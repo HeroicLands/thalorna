@@ -12,6 +12,7 @@ data:
   population: 400
   packFolder: okharis
   government: khamundatrb
+  notes: "Village of the Khamunda tribe, one of the settled communities of Okharis."
 ---
 
 ## Overview

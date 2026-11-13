@@ -13,6 +13,7 @@ data:
   population: 85000
   packFolder: regkhsett
   government: selatgrrthsr
+  notes: "Temple City (Scribal)"
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 14000
   government: selatgrnlght
   packFolder: regkhsett
+  notes: "Fishing & Victualing Town"
 ---
 
 ## Overview

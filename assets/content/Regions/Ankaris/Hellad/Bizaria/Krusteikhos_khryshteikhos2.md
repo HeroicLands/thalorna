@@ -11,6 +11,7 @@ data:
   parents: [byzariargn]
   population: 80000
   government: khryshteikhos
+  notes: "The Golden Fortress, wealthiest city of the Bizarian League, where eastern goods are banked and the League council meets in the Merchant Hall."
 ---
 
 ## Overview

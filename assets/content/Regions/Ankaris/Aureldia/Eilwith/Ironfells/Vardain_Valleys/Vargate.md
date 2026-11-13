@@ -12,6 +12,7 @@ data:
   population: 1500
   government: vrgldhld
   packFolder: eilwith
+  notes: "The Vardain town at the foot of the road to Vorgald—the single point at which Khazari work passes into human hands, and the closest any outsider will get to the Deep Folk."
 ---
 
 **Vargate** stands at the foot of the road that climbs to [[place-vorgald|Vorgald]], and it is the only

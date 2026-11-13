@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The oldest and most prestigious Helionite city, seat of the great academies, the Library of Thirenae and the first home of the Epistémion."
 tags: [city-state, city]
-data: {demonym: null, lore: [], parents: [helionis], population: 60000, government: thyrenae}
+data:
+  demonym: null
+  lore: []
+  parents: [helionis]
+  population: 60000
+  government: thyrenae
+  notes: "The oldest and most prestigious Helionite city, seat of the great academies, the Library of Thirenae and the first home of the Epistémion."
 ---
 
 ## Overview

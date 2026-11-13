@@ -13,6 +13,7 @@ data:
   population: 13000
   packFolder: regkhsett
   government: selatgarqezt
+  notes: "Selat capital of Gar-Qeztu."
 ---
 
 ## Overview

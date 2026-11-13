@@ -12,6 +12,7 @@ data:
   population: 1400
   packFolder: eilwith
   government: kngdmldrth
+  notes: "The old royal manor of Aldorath—a village around a hunting seat the kings still use, where they are still crowned and still buried."
 ---
 
 ## Overview {#overview}

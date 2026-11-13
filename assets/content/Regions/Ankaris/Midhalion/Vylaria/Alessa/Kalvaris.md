@@ -12,6 +12,7 @@ data:
   population: 9000
   packFolder: vylaria
   government: provinclys
+  notes: "A temple-and-market town at the foot of an ancient hilltop precinct of the Twelve, empty and quiet between its festivals and choked with pilgrims during them; its priests keep the savings of the country round about in the precinct's treasury."
 ---
 
 ## Overview

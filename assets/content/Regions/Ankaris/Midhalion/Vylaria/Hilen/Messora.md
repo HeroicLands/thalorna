@@ -12,6 +12,7 @@ data:
   population: 4000
   packFolder: vylaria
   government: provnchyln
+  notes: "A harvest-market town of the southern Hilen estates, shuttered for most of the year, where the factors of the great houses settle the season's accounts with their tenants at the stone tables of the square and keep their counting-rooms and storehouses."
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 300
   government: tikupilarit
   packFolder: tikupilarit
+  notes: "Weir Place: a river village of the Lake Tundra, behind its salmon weirs, where the forest hunters come down in spring to trade."
 ---
 
 ## Overview

@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The Nordlands settlement where the Nordmen buy thralls."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  population: 0
+  packFolder: nordlands
+  notes: "The Nordlands settlement where the Nordmen buy thralls."
 ---
 
 ## Overview

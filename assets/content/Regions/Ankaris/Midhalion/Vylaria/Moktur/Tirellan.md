@@ -15,6 +15,7 @@ data:
     - {to: dolvar, bearing: N, mode: land, days: 3, terrain: [road, mountains]}
   packFolder: vylaria
   government: provncmktr
+  notes: "The provincial capital of Moktur: a walled gray city at the head of a farming valley below the mountains, where the military therkos holds court in the keep the city grew around, pays his own auxiliaries, and keeps the posting-road that every letter to the capital travels."
 ---
 
 ## Overview

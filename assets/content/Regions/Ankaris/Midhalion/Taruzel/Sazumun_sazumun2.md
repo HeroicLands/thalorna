@@ -13,6 +13,7 @@ data:
   routes: [{to: hitusel, bearing: N, mode: land, days: 1, terrain: [road, coast]}]
   packFolder: taruzel
   government: sazumun
+  notes: "A white-walled port at the mouth of the Alz River, where the tide lifts every hull twice a day, every cargo waits under seal in a bonded warehouse, and the merchant guilds of the House of Factors decide who may land at all."
 ---
 
 ## Overview

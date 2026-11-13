@@ -12,6 +12,7 @@ data:
   population: 35000
   packFolder: bethua
   government: mtrrchybth
+  notes: "The capital of the Matriarchy of Bethua, a harbor city on a bay of the Vilérian Sea—where the Sacred College and the Council of Houses sit, and the Trade-Houses keep their principal hall."
 ---
 
 ## Overview

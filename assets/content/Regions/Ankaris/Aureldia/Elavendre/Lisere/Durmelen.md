@@ -17,6 +17,7 @@ data:
   population: 340
   government: durmelengrsn
   packFolder: elavendre
+  notes: "The crown's border fort at the head of Lísere Bay, on the last headland of the Élavendren shore beside the Vristwald border, where the Great Fire of the beacon chain stands and the shore's levy musters."
 ---
 
 ## Overview {#overview}

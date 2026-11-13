@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "An island holding of Malagna, seat of the Hersvald of Glarvei, whose halls are thatched by a Hvalgvík thatcher."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [malagna], packFolder: malagna}
+data:
+  demonym: null
+  lore: []
+  parents: [malagna]
+  packFolder: malagna
+  notes: "An island holding of Malagna, seat of the Hersvald of Glarvei, whose halls are thatched by a Hvalgvík thatcher."
 ---
 
 ## Overview

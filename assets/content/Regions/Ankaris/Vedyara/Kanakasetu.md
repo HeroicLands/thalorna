@@ -12,6 +12,7 @@ data:
   population: 720
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "The bridge village on the pilgrim road below the gold mountain, and one of the twenty-three houses of the Bharava-Devastena."
 ---
 
 Kanakasetu (720) stands at the bridge where the pilgrim road crosses [[place-bharavarivr|the Bharava]] below the mountain. Everything that goes up to [[place-suvargeri|Suvargeri]] comes through it. The bridge is stone, of four spans, and is kept by the janpoda out of the common share.

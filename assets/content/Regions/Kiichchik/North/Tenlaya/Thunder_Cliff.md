@@ -13,6 +13,7 @@ data:
   population: 2500
   government: tenlaya
   packFolder: tenlaya
+  notes: "Thunder Cliff: the greatest drive on the Cairn Plain, where four lanes of cairns meet at one sandstone cliff and several bands drive and butcher together each autumn, and where last year's meat rotted below the drop."
 
 # terran_analog: Head-Smashed-In buffalo jump in the Porcupine Hills of Alberta, with its gathering basin, drive lanes of stone cairns, kill site and processing camp below the cliff
 ---

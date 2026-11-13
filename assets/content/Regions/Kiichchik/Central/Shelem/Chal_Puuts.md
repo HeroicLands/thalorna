@@ -12,6 +12,7 @@ data:
   population: 8000
   government: xelem
   packFolder: xelem
+  notes: "Beneath the Mesa: the Shelem town at the foot of a sheer-walled table mountain, where oath-bound herbalists sell the vision-vine and plants found nowhere else, and the rarest goods of the jungle change hands."
 
 # terran_analog: Kamarata at the foot of Auyán-tepui, and the ayahuasca healers of the Amazon; the name joins ch'al (beneath) to pu'uts (a mesa)
 ---

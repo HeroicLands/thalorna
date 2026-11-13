@@ -12,6 +12,7 @@ data:
   population: 5000
   government: cnclslmr
   packFolder: byzaria
+  notes: "Trading Town"
 ---
 
 ## Overview

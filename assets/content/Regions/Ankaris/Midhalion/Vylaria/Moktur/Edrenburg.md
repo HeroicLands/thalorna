@@ -12,6 +12,7 @@ data:
   population: 1200
   government: provncmktr
   packFolder: vylaria
+  notes: "A Mokturan border town at the edge of Vristwald that keeps a Varokh name, where Varokh and Vilérian trade meet under a garrison's eye."
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   population: 3000
   packFolder: vylaria
   government: provncmktr
+  notes: "A half-Varokh logging town of about three thousand on the forested slopes, where timber is felled and floated down the mountain rivers to the shipwrights of Salkalon, and the town answers first to its headmen and the timber-lords who hold the cutting-rights."
 ---
 
 ## Overview

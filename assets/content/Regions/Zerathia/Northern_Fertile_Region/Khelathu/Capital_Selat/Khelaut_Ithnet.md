@@ -13,6 +13,7 @@ data:
   population: 800
   packFolder: regkhsett
   government: capitalselat
+  notes: "The vast general necropolis of Galezkara—the graded burial-fields flanking the royal necropolis of Zu-Gezer, where everyone below the throne is buried, from the gold-rich mastabas of the nobility to the common sand-graves of the poor, and the endless war between trap-built tombs and the robbers who plunder them."
 ---
 
 ## Overview

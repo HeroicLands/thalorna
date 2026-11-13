@@ -12,6 +12,7 @@ data:
   population: 1800
   packFolder: eilwith
   government: jrldmstrmvld
+  notes: "The one harbor of the Nordfells, a jarl's hall on a beacon headland on Stormveld's northern coast, living on the coasters who put in there rather than at Stormveil."
 ---
 
 ## Overview {#overview}

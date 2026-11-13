@@ -12,6 +12,7 @@ data:
   population: 500
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Religious/Strategic Settlement"
 ---
 
 ## Overview

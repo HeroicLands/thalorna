@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The Green Caravanserai, a river-valley city at the junction of the eastern and southern caravan roads, run by its caravansary masters."
 tags: [city, caravan]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 40000, government: karvashion}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: 40000
+  government: karvashion
+  notes: "The Green Caravanserai, a river-valley city at the junction of the eastern and southern caravan roads, run by its caravansary masters."
 ---
 
 ## Overview

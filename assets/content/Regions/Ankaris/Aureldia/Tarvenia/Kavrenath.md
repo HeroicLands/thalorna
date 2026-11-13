@@ -13,6 +13,7 @@ data:
   routes: [{to: kervaron, bearing: E, mode: land, days: 3, terrain: [road, mountains]}]
   packFolder: tarvenia
   government: kngdmstrth
+  notes: "The frontier town at Asturath's eastern edge, where the road climbs toward the Kervaron Spine and the imperial frontier, home of the Warden of the March and of the crossbow companies of the valleys above it."
 ---
 
 Kávrenath is the frontier town of [[place-asturath|Asturath]], ten thousand people behind a wall at the eastern edge of the kingdom, where the last valley road leaves the mountains of [[place-tarvenirgn|Tarvénia]] and climbs toward the [[place-kervaron|Kervaron Spine]]. Beyond the Kervaron lies the [[affiliation-vylarinmpr|Vilérian Empire]], and everything that crosses between the Empire and Asturath by land comes through Kávrenath or goes round it in the dark. The town is famous for two things: its fortress, and the crossbow companies of the valleys above it.

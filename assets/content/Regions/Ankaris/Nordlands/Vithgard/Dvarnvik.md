@@ -12,6 +12,7 @@ data:
   population: 450
   packFolder: vithgard
   government: kngdmvthgrd
+  notes: "Port Town"
 ---
 
 ## Overview

@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "The neutral ground on the Nordheim–Vithgard border, guaranteed by all five kingdoms, where the mercenary Compact keeps its Hall and the Skalds' Circle was sworn."
 tags: []
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  packFolder: nordlands
+  notes: "The neutral ground on the Nordheim–Vithgard border, guaranteed by all five kingdoms, where the mercenary Compact keeps its Hall and the Skalds' Circle was sworn."
 ---
 
 ## Overview

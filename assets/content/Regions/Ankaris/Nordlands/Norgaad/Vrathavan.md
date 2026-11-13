@@ -12,6 +12,7 @@ data:
   population: 800
   packFolder: norgaad
   government: kingdmnrgd
+  notes: "Fortified Harbor Town"
 ---
 
 ## Overview

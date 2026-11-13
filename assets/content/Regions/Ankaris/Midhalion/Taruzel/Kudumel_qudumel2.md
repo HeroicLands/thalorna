@@ -13,6 +13,7 @@ data:
   routes: [{to: amradadrgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}]
   packFolder: taruzel
   government: qudumel
+  notes: "The easternmost city of Taruzel, on the island nearest the mainland: a dusty, polyglot crossroads of mudbrick and tile where the strait ferries land the caravan goods of Dunhara and the Khazrin, the guilds' enforcers are not welcome, and the eastern rites are practiced in the open."
 ---
 
 ## Overview

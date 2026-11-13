@@ -12,6 +12,7 @@ data:
   population: 1500
   packFolder: eilwith
   government: freeveldareth
+  notes: "A free city of about fifteen hundred on Eilwìth's southern coast, at the end of Ondareth's shore west of Seirasto, belonging to neither Ondareth nor Dúnavarre: the neutral ground where the two realms meet, governed by a council whose Speaker is the master of its Epistémion chapterhouse."
 ---
 
 ## Overview {#overview}

@@ -13,6 +13,7 @@ data:
   population: 41000
   packFolder: regkhsett
   government: selatchathu
+  notes: "Selat capital of Chathu."
 ---
 
 ## Overview

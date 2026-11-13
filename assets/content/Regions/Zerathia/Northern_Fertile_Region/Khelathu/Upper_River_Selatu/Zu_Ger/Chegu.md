@@ -13,6 +13,7 @@ data:
   population: 39000
   packFolder: regkhsett
   government: selatzuger
+  notes: "Selat capital of Zu-Ger."
 ---
 
 ## Overview

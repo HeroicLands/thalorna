@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A Helionite city of law and honor, where the Temple of Árdavon works as the city's court beside a council of patron families."
 tags: [city-state, city, draft]
-data: {demonym: null, lore: [], parents: [helionis], population: 40000, government: korinthea}
+data:
+  demonym: null
+  lore: []
+  parents: [helionis]
+  population: 40000
+  government: korinthea
+  notes: "A Helionite city of law and honor, where the Temple of Árdavon works as the city's court beside a council of patron families."
 ---
 
 ## Overview

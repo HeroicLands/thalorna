@@ -12,6 +12,7 @@ data:
   population: 700
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Town"
 ---
 
 ## Overview

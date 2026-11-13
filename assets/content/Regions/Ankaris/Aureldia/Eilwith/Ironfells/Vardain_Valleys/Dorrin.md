@@ -12,6 +12,7 @@ data:
   population: 400
   government: vrgldhld
   packFolder: eilwith
+  notes: "The highest village, watching the eastern approaches and the sea cliffs—the Vardain's eyes, and the first to know when anything comes."
 ---
 
 **Dorrin** is the highest inhabited place in the valleys, on the shoulder where the ground falls away

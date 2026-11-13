@@ -12,6 +12,7 @@ data:
   population: 250
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Woodland Village"
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   government: hojujaidmn
   packFolder: jenchai
   culture: jenchaiclt
+  notes: "The castle town of House Hojujai on the slope of Hojai—a granary, a hall and a bathing town, held for a fourteen-year-old lord by his mother."
 ---
 
 Yanwu (Cloud Hall) is the castle town and seat of [[affiliation-hojujaidmn|House Hojujai]], a town of 6,000 people on the lower slope of [[place-hojai|Hojai]]. The steam of the springs lies over it in the cold months, which gives the town its name. The hall of the lord stands on a terrace above the streets, with the mountain's smoke behind it.

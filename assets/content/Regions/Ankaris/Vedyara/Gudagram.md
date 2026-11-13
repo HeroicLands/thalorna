@@ -12,6 +12,7 @@ data:
   population: 890
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "The sugar village of the Mahanodi floodplain, where the cane is cut and the pale grade is boiled."
 ---
 
 Gudagram (890) boils the Mahanodi sugar. The cane grows on the wet ground either side of the village, and the boiling-sheds work from the cutting in the cold season until the last of the crop is through, about eleven weeks.

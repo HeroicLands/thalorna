@@ -12,6 +12,7 @@ data:
   population: 45000
   government: ixbaltzaku
   packFolder: ixbaltzaku
+  notes: "The great port of Ish'bal Tsa'ku on the western ocean, ruled by a lord of the sea who keeps his own fleet, whose ships sail from shrine to shrine and never out of sight of one."
 ---
 
 ## Overview

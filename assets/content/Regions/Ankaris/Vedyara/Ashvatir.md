@@ -12,6 +12,7 @@ data:
   population: 600
   packFolder: vedyara
   government: dnrktjnpd
+  notes: "The horse village above the bow-fort, where the Academy of the Swift Hand keeps its mounts."
 ---
 
 Two hundred and forty horses stand at **Ashvatir** (600) in an ordinary year, on four miles of water-meadow above the town, and the village's whole work is grazing, breaking and keeping them. It keeps the horses of [[place-swifthand|the Academy of the Swift Hand]].

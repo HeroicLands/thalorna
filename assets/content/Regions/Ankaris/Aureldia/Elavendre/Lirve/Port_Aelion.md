@@ -13,6 +13,7 @@ data:
   population: 9000
   government: twncnclprtaln
   packFolder: elavendre
+  notes: "The kingdom's chief harbor, where the Lirve cliffs yield to sheltered water, the Admiral keeps his flag, the Envoys' College sends out its bards, and the tides keep their own hours."
 ---
 
 ## Overview {#overview}

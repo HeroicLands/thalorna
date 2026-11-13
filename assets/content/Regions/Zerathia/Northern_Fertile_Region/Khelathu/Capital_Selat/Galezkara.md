@@ -13,6 +13,7 @@ data:
   population: 450000
   packFolder: regkhsett
   government: empireakhlth
+  notes: "Imperial City (Capital)"
 ---
 
 ## Overview

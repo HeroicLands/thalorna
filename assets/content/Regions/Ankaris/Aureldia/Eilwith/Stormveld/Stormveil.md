@@ -12,6 +12,7 @@ data:
   population: 6000
   packFolder: eilwith
   government: jrldmstrmvld
+  notes: "The High Jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."
 ---
 
 **Stormveil** is not a city and does not aspire to be one. It is the seat of the

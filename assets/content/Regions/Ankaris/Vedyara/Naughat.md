@@ -13,6 +13,7 @@ data:
   market: 3
   government: srvdmthjnpd
   packFolder: vedyara
+  notes: "The seasonal port at the mouth of the Sarveda—a beach, a bar and a warehouse street that is a town for eight months and a fishing village for four."
 ---
 
 For eight months of the year **Naughat** (1,600, market 3) is a town, and for four it is a fishing village. It stands on the south bank at the mouth of [[place-sarvedarivr|the Sarveda]], where the river's small craft meet the coasting ships. It is the outlet of the copying country: palm-leaf, cotton, sugar and the rice of the middle valley come down two hundred miles of gentle water and go out from here, and the river craft that brought them take back salt, iron and the foreign goods the coast lands.

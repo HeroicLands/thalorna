@@ -12,6 +12,7 @@ data:
   population: 400
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Deep Forest Settlement"
 ---
 
 ## Overview

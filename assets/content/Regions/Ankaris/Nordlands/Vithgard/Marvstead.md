@@ -12,6 +12,7 @@ data:
   population: 500
   packFolder: vithgard
   government: kngdmvthgrd
+  notes: "Town"
 ---
 
 ## Overview

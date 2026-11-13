@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A farm-and-press village of Gau-Legiru, tending vines and olives and sending the year's oil and wine to the harbor"
 ---
 
 ## Overview

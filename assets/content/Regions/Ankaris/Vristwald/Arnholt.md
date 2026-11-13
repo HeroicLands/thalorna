@@ -12,6 +12,7 @@ data:
   population: 240
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village on Falkhaven's western shore whose cliff watch warns of unfamiliar sails."
 ---
 
 ## Overview

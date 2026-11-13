@@ -14,6 +14,7 @@ data:
   routes: [{to: kemthoza, bearing: S, mode: land, days: 1, terrain: [mountains, forest]}]
   culture: aelendanclt
   packFolder: tarvenia
+  notes: "The winter lodge of the Mirindi, an Áelendan clan of the Toravar's western arm, under the boundary cairn where the clan's ground begins, a day's climb above Kemthoza and the valleys of the Western March."
 ---
 
 ## Overview {#overview}

@@ -13,6 +13,7 @@ data:
   market: 3
   packFolder: vedyara
   government: bharyastan
+  notes: "The one town of the mountain kingdom of Bharyastan—a palace, a horse-ground and a market week, on the shelf where the eight valleys meet."
 ---
 
 **Bharyastan** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastan]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from [[place-goldmountain|the Gold Mountain]] of [[affiliation-suvrgrjnpd|Suvargeri Janpoda]].

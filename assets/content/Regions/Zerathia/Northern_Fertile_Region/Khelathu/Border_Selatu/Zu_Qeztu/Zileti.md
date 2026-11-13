@@ -13,6 +13,7 @@ data:
   population: 12000
   packFolder: regkhsett
   government: selatzuqeztu
+  notes: "Selat capital of Zu-Qeztu."
 ---
 
 ## Overview

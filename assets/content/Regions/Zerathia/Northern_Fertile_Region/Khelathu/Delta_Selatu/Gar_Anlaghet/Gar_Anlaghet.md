@@ -13,6 +13,7 @@ data:
   population: 120000
   packFolder: regkhsett
   government: selatgrnlght
+  notes: "City (Port)"
 ---
 
 ## Overview

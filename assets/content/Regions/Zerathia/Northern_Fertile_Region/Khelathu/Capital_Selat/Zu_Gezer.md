@@ -13,6 +13,7 @@ data:
   population: 40000
   packFolder: regkhsett
   government: capitalselat
+  notes: "Necropolis City"
 ---
 
 ## Overview

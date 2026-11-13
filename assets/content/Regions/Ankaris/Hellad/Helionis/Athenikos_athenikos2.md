@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A Helionite city in which each year is named for its Arsir and the assembly of citizens stays sovereign over the wealthy families who hold it."
 tags: [city-state, city, draft]
-data: {demonym: null, lore: [], parents: [helionis], population: 55000, government: athenikos}
+data:
+  demonym: null
+  lore: []
+  parents: [helionis]
+  population: 55000
+  government: athenikos
+  notes: "A Helionite city in which each year is named for its Arsir and the assembly of citizens stays sovereign over the wealthy families who hold it."
 ---
 
 ## Overview

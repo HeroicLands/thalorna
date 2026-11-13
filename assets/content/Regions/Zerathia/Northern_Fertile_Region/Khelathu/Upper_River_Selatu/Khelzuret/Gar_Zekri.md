@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A pilgrim-and-farm village of Khelzuret, strung along the east bank and the pilgrim-road"
 ---
 
 ## Overview

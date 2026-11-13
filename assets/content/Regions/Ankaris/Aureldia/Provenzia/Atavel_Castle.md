@@ -13,6 +13,7 @@ data:
   population: 1800
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The castle town of the county of Atavel in the western basins of the Talote, the Count of Atavel's seat, where his steward keeps the county for an absent count and the count's brother keeps a second court."
 ---
 
 ## Overview

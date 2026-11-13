@@ -12,6 +12,7 @@ data:
   population: 12000
   packFolder: citystates
   government: okharis
+  notes: "Garrison Town"
 ---
 
 **meaning:** _The Wild Flame_

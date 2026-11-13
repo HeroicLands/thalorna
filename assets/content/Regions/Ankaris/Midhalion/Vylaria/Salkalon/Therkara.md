@@ -12,6 +12,7 @@ data:
   population: 4000
   packFolder: vylaria
   government: provincvld
+  notes: "A market town of Salkalon's inland estate country, where the grain, wool and leather that feed the ports are sold, and whose estate-lords look inland toward Hilen and speak for the war with Taruzel that the coast's merchants fear."
 ---
 
 ## Overview

@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The Silver Citadel, a garrison city astride the League's principal eastern pass, whose mines pay for the League's defense."
 tags: [fortress, city]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 35000, government: argyrteikhos}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: 35000
+  government: argyrteikhos
+  notes: "The Silver Citadel, a garrison city astride the League's principal eastern pass, whose mines pay for the League's defense."
 ---
 
 ## Overview

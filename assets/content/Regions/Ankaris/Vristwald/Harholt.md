@@ -12,6 +12,7 @@ data:
   population: 350
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Falkhaven whose old pines are where the western musters gather each thaw."
 ---
 
 ## Overview

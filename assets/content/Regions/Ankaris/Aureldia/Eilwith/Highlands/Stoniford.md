@@ -12,6 +12,7 @@ data:
   population: 2800
   packFolder: eilwith
   government: repblcndrth
+  notes: "The market town of Ondareth's upland edge, by the Central Highlands, where the road from Thornburi crosses a highland river on a stretch of the old Crown Road, and where the island buys its horses."
 ---
 
 ## Overview {#overview}

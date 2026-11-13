@@ -12,6 +12,7 @@ data:
   population: 900
   government: brnyzrvln
   packFolder: provenzia
+  notes: "Zuravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
 ---
 
 Volsater lies at the foot of the cliffs on the [[place-zuravlenrgn|Zuravlen Region]]'s western shore, reached

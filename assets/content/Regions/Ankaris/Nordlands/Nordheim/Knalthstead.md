@@ -12,6 +12,7 @@ data:
   population: 1500
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Fortified Town"
 ---
 
 ## Overview

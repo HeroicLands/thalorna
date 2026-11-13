@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The priestly seat of the Atarzád at the foot of Mt. Shofar, a settlement of 3,000 that holds the Council of the Twelve and receives fifty thousand pilgrims at midsummer."
 tags: [settlement, temple]
-data: {demonym: null, lore: [], parents: [swoasisbelt], population: 3000, government: tribestrzd}
+data:
+  demonym: null
+  lore: []
+  parents: [swoasisbelt]
+  population: 3000
+  government: tribestrzd
+  notes: "The priestly seat of the Atarzád at the foot of Mt. Shofar, a settlement of 3,000 that holds the Council of the Twelve and receives fifty thousand pilgrims at midsummer."
 ---
 
 ## Overview

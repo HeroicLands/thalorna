@@ -16,6 +16,7 @@ data:
     - {to: edrihaven, bearing: E, mode: land, days: 5, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Falkhaven."
 ---
 
 ## Overview

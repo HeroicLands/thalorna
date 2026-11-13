@@ -15,6 +15,7 @@ data:
   population: 220
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "A lordship of Keravel Vale rich in timber and minerals, bearing the brunt of the vale's bandit raids under a harsh new lord the Tanevar peasantry resent."
 ---
 
 ## Overview

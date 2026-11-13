@@ -12,6 +12,7 @@ data:
   population: 700
   packFolder: vithgard
   government: kngdmvthgrd
+  notes: "Fortified Town / Capital"
 ---
 
 ## Overview

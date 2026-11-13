@@ -12,6 +12,7 @@ data:
   population: 2500
   packFolder: eilwith
   government: kingdmdnvr
+  notes: "Dúnavarre's chief harbor and second city—the working port on the south-eastern coast through which the kingdom's trade with Élavendre and the mainland passes."
 ---
 
 **Wreimouth** stands where the [Wrei]{.name data-type="place/feature"} comes down to the sea on [[place-eilwith|Eilwìth]]'s south-eastern coast, and is the

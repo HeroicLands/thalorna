@@ -13,6 +13,7 @@ data:
   government: rinjaidmn
   packFolder: jenchai
   culture: jenchaiclt
+  notes: "The castle town of House Rinjai above the main harbor of the lesser island—a granary, a hall and the berths of twenty-five raiding ships, seat of the lord sworn to Shuiwojai."
 ---
 
 Rinwu (Red Hall) is the castle town and seat of [Rinjai Hoja]{.name data-type="being/npc"}, a town of 3,000 people on the lesser island. The hall is lacquered red, and it stands on a spur above the main harbor with the strait in front of it.

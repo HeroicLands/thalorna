@@ -12,6 +12,7 @@ data:
   population: 110000
   government: ixilankul
   packFolder: ixilankul
+  notes: "The Seat of the Priests: the plateau city of Ish'ilankul where the Q'emul Tq'an sits at the Sacred Foundation, the Speaking Road has its central dispatch, and every pilgrim of the continent hopes to come once."
 
 # terran_analog: Teotihuacan as the pilgrimage city of the great pyramid and the quarters, and Cuzco as the hub of the runners' roads; the name joins kul- (a lord's seat) to a priestly element and copies no Maya or Nahuatl place
 ---

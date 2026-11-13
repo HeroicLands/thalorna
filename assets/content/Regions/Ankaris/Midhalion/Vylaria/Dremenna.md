@@ -12,6 +12,7 @@ data:
   population: 300
   packFolder: vylaria
   government: hlykngdmnrtm
+  notes: "A woodcrafters' village in a valley of the Nartun Kingdom, a street of open workshops where carvers, turners, coopers and joiners work the timber that comes down from the forest, and whose village elder keeps the peace."
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   population: 500
   government: vrgldhld
   packFolder: eilwith
+  notes: "The mill village on the fast water, grinding the valleys' grain and fulling their cloth."
 ---
 
 **Koldbek** stands on the fastest water in the valleys and uses all of it. Five hundred

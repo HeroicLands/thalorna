@@ -13,6 +13,7 @@ data:
   routes: [{to: tyrellan, bearing: S, mode: land, days: 3, terrain: [mountains, road]}]
   packFolder: vylaria
   government: provncmktr
+  notes: "The legion fortress-town of the northern march: a garrison of about six thousand on a shoulder above the Black Marsh, where the vandraks rules by camp law, the smoke tallies come down from the towers, and the sons of the Vandstein villages live inside the wall as surety for the truce."
 ---
 
 ## Overview

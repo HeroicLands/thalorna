@@ -12,6 +12,7 @@ data:
   population: 600
   packFolder: tarvenia
   government: frtrtryskrth
+  notes: "A highland village of Eskarath built round a spring with a shrine to its spirit, whose water and pasture the neighboring clans share by an order the Water-Warden keeps."
 ---
 
 ## Overview

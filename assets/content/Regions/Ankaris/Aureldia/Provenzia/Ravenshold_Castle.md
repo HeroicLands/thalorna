@@ -12,6 +12,7 @@ data:
   population: 1600
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The castle town of the county of Ravenshold in the Korvatis, seat of Melvare Elvanis, Count of Ravenshold, a rich town kept by the count's steward while the count lives at court."
 ---
 
 ## Overview

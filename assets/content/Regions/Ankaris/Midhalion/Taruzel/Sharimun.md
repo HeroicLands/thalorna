@@ -13,6 +13,7 @@ data:
   routes: [{to: besikar2, bearing: NE, mode: land, days: 2, terrain: [plain, road]}]
   government: gldbrdshrmn
   packFolder: taruzel
+  notes: "The port town on the south-western cape of Qalirel, under the beacon that marks the narrows: pale quarries on the hill, an arena cut into an old quarry pit, a street of furnace-houses, and the court where the Confederation's Arbitrators hear disputes between its cities."
 ---
 
 ## Overview

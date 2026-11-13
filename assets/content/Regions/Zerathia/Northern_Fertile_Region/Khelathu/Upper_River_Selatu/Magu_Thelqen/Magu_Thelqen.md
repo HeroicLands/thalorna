@@ -13,6 +13,7 @@ data:
   population: 22000
   packFolder: regkhsett
   government: selatmaguthn
+  notes: "Selat capital of Magu-Thelqen."
 ---
 
 ## Overview

@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A basin village of Anlagh-Zetun, one of the scores that work the flood-country and render grain upward to the selat's stores"
 ---
 
 ## Overview

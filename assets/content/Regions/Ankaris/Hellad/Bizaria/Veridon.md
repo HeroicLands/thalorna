@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "A small town of the Bizarian hinterland that lives off the fortified compound of the Iron Wolves Company outside its walls."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [byzariargn], packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  packFolder: byzaria
+  notes: "A small town of the Bizarian hinterland that lives off the fortified compound of the Iron Wolves Company outside its walls."
 ---
 
 ## Overview

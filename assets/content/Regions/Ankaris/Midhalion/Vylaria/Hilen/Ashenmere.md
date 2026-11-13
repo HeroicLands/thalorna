@@ -13,6 +13,7 @@ data:
   routes: [{to: nartum, bearing: N, mode: land, days: 5, terrain: [road, forest]}]
   packFolder: vylaria
   government: provnchyln
+  notes: "Hilen's march-town on the north-eastern edge of the province, where the last estates give way to the forested uplands of the Holy Kingdom of Nartun: a customs-post, a horse market and a forge-shrine of the Sacred Forge facing a chapel of the kingdom's knights across the border stream."
 ---
 
 ## Overview

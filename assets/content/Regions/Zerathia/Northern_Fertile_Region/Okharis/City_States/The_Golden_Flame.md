@@ -12,6 +12,7 @@ data:
   population: 35000
   packFolder: citystates
   government: okharis
+  notes: "Trading Port"
 ---
 
 **meaning:** _The Golden Flame_

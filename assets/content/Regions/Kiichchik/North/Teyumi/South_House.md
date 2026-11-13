@@ -13,6 +13,7 @@ data:
   population: 1000
   government: teyumi
   packFolder: teyumi
+  notes: "The South House: the great house at the mouth of a desert wash where every trader out of the south arrives first, and where the Keeper of the South Road decides what goes north."
 ---
 
 ## Overview

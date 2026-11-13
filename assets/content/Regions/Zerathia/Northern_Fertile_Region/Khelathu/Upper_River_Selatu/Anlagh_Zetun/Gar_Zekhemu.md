@@ -13,6 +13,7 @@ data:
   packFolder: regkhsett
   government: selatnlghztn
   banner: khelathubnr
+  notes: "A grain-village of 160 people in the flood-basin country of Anlagh-Zetun Selat, distinct from the village of the same name near Galezkara"
 ---
 
 ## Overview

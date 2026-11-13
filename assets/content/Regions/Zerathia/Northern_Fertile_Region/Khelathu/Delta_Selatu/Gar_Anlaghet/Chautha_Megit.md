@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A fishing-and-ferry community of the marsh-channels around Gar-Anlaghet, living by its boats, its nets, and the custom of the great port"
 ---
 
 ## Overview

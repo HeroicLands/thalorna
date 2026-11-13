@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "A Nordlands city of strict laws and rigid order, brought to riot by Skulfmil Fire-Tongue, whose ruling council has put the largest bounty in northern history on his head."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  packFolder: nordlands
+  notes: "A Nordlands city of strict laws and rigid order, brought to riot by Skulfmil Fire-Tongue, whose ruling council has put the largest bounty in northern history on his head."
 ---
 
 A bard who walks through the gates of Tvurnholm is looked at twice. The city of the [[place-nrdlndsrgn|Nordlands]] is known for its strict laws and its rigid social order. Everyone in Tvurnholm knows their place, and the city's rulers have long held that order to be its greatest strength.

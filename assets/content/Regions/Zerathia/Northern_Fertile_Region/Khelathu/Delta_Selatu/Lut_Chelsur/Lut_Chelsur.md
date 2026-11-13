@@ -13,6 +13,7 @@ data:
   population: 38000
   packFolder: regkhsett
   government: selatltchlsr
+  notes: "Selat capital of Lut-Chelsur."
 ---
 
 ## Overview

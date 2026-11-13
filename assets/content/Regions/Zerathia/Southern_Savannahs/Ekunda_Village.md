@@ -12,6 +12,7 @@ data:
   population: 400
   packFolder: southernsavannahs
   government: ekunda
+  notes: "Village of the Ékunda tribe, one of the settled communities of the Southern Savannahs and the tribe's seat."
 ---
 
 ## Overview

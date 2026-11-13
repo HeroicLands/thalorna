@@ -16,6 +16,7 @@ data:
   population: 5600
   government: sarmelisconcl
   packFolder: elavendre
+  notes: "The harbor town of Lísere Bay, where the north's salt-fish and ship timber go out, the Kalipsan trade comes in under no flag, and a guarded boom shuts the harbor on the first fire of a raid."
 ---
 
 ## Overview {#overview}

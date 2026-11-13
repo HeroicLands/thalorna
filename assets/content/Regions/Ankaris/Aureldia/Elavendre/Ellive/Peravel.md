@@ -12,6 +12,7 @@ data:
   population: 55000
   packFolder: elavendre
   government: kngdmlvndr
+  notes: "The capital of Élavendre—a river metropolis fifteen miles up the Berav from the sea, seat of the crown, and home of the largest Epistémion campus outside the Vilérian Empire."
 ---
 
 **Péravel** stands on [[place-beravriver|the Berav]] some **fifteen miles up from the western sea**, at

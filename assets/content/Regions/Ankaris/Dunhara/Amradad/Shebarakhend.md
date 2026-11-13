@@ -12,6 +12,7 @@ data:
   population: 15000
   packFolder: amradad
   government: kngdmmrdd
+  notes: "The oasis city of the Shebarader's court and seat of the Kingdom of Amradad—gardens, libraries, fire-temples and the astrologers of the great houses."
 ---
 
 Shebarakhend is the oasis city of the Shebarader's court and the seat of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is not the largest city of [[place-amradadrgn|Amradad]], with fifteen thousand people to [[place-tahrodan|Tahrodan]]'s thirty, and it has no need to be: the Shebarader, his Grand Vashkader, the divans and the households of the great families live here, and the business of the whole realm comes through its gates.

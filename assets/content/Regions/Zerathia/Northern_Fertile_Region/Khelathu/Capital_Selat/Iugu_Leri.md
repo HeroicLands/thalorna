@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A farm-and-market village of the Capital Selat, one of the scores that ring Galezkara within half a day's barge of its wharves"
 ---
 
 ## Overview

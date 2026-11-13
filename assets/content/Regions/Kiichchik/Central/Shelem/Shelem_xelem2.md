@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The seat of the river realm, the Land of Birds: a long ridge city where two great rivers meet, ruled by one of Shelem's few Sun Lords, whose macaw yards and feather market supply the north."
 tags: [city]
-data: {demonym: null, lore: [], parents: [xelemrgn], population: 60000, government: xelem}
+data:
+  demonym: null
+  lore: []
+  parents: [xelemrgn]
+  population: 60000
+  government: xelem
+  notes: "The seat of the river realm, the Land of Birds: a long ridge city where two great rivers meet, ruled by one of Shelem's few Sun Lords, whose macaw yards and feather market supply the north."
 
 # terran_analog: the macaw-breeding pens of Paquime and the feather-workers of the Mexica, set at a river confluence of the Orinoco basin
 ---

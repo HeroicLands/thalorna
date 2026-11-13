@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The seat of the realm of astronomers and scribes in the limestone lowlands of the east: a white city around a round tower, home of the Star House that reckons the days for every city the cords reach."
 tags: [city]
-data: {demonym: null, lore: [], parents: [kankulrgn], population: 120000, government: kankul}
+data:
+  demonym: null
+  lore: []
+  parents: [kankulrgn]
+  population: 120000
+  government: kankul
+  notes: "The seat of the realm of astronomers and scribes in the limestone lowlands of the east: a white city around a round tower, home of the Star House that reckons the days for every city the cords reach."
 
 # terran_analog: Chichen Itza, its round observatory and its sacred well, with the painted books of the lowland courts; the Star House stands in for no Earth institution
 ---

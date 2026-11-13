@@ -12,6 +12,7 @@ data:
   population: 220
   packFolder: okharis
   government: dongarutrb
+  notes: "Forest village of the Dóngaru tribe, ringed by charcoal pits."
 ---
 
 ## Overview

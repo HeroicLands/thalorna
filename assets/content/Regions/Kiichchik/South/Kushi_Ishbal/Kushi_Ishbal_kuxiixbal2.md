@@ -12,6 +12,7 @@ data:
   population: 30000
   government: kuxiixbal
   packFolder: kuxiixbal
+  notes: "Seat of the plateau realm, a thin-aired garrison city that outfits expeditions into the southern wastes."
 ---
 
 ## Overview

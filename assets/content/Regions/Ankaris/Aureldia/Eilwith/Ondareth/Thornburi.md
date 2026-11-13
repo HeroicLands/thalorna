@@ -12,6 +12,7 @@ data:
   population: 14000
   packFolder: eilwith
   government: repblcndrth
+  notes: "The seat of the Republic of Ondareth—where the Senate sits beneath its portico and the republic's offices are bought."
 ---
 
 **Thornburi** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on [[place-eilwith|Eilwìth]]'s western

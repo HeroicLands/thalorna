@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "An orchard village of the garden strip in Gau-Legiru, tending groves and vines and sending oil, wine and fruit down to the market-towns"
 ---
 
 ## Overview

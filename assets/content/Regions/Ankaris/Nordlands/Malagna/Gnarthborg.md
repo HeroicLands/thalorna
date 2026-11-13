@@ -12,6 +12,7 @@ data:
   population: 1200
   packFolder: malagna
   government: kingdomlgn
+  notes: "Fortified Town"
 ---
 
 ## Overview

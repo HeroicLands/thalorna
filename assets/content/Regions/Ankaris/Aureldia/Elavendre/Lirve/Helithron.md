@@ -12,6 +12,7 @@ data:
   population: 300
   government: kngdmlvndr
   packFolder: elavendre
+  notes: "A woodcutting village of the licensed forest behind Liranel, where strangers have been seen watching the road the alchemist Sevren Mírkelis travels, and the hauling season is about to begin."
 ---
 
 ## Overview {#overview}

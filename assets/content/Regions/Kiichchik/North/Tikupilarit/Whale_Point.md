@@ -13,6 +13,7 @@ data:
   population: 450
   government: tikupilarit
   packFolder: tikupilarit
+  notes: "Whale Point: the whaling village at the northern tip of the Ice Coast, of houses roofed with whale bone, whose skin boat crews hunt the great whales and go east along the ice."
 ---
 
 ## Overview

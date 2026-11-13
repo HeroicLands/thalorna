@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "A Bizarian harbor whose Harbor Master steers ship-repair contracts toward the seamen whose judgment of a hull he trusts."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [byzariargn], packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  packFolder: byzaria
+  notes: "A Bizarian harbor whose Harbor Master steers ship-repair contracts toward the seamen whose judgment of a hull he trusts."
 ---
 
 ## Overview

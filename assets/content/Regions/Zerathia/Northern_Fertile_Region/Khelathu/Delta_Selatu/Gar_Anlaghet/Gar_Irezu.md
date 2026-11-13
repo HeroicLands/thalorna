@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A channel village of the Gar-Anlaghet marshes, of a few hundred to a couple of thousand, working the water and the ferry-traffic the harbor cannot be bothered with"
 ---
 
 ## Overview

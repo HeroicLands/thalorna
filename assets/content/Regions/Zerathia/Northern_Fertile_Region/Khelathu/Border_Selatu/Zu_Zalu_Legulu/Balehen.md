@@ -13,6 +13,7 @@ data:
   population: 24000
   packFolder: regkhsett
   government: selatzuzllgl
+  notes: "Fortress Town"
 ---
 
 ## Overview

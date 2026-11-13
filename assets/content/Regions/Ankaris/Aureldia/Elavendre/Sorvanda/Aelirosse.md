@@ -13,6 +13,7 @@ data:
   government: nclvlrss
   packFolder: elavendre
   culture: senaliclt
+  notes: "The Senali enclave of the Silver Forests—one of the three, seated near the Uron Tekhi and closer to the Áelendan than any Senalian community elsewhere in the world."
 ---
 
 **Aelirosse**, as it is called in [[skill-elvndrlng|Élavendri]], lies deep in [[place-silvrfrsts|the Silver Forests]], within the

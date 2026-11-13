@@ -12,6 +12,7 @@ data:
   population: 250
   packFolder: norgaad
   government: kingdmnrgd
+  notes: "Mountain Settlement"
 ---
 
 ## Overview

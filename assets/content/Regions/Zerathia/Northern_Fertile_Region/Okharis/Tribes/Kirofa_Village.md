@@ -12,6 +12,7 @@ data:
   population: 290
   packFolder: okharis
   government: kirofatrb
+  notes: "Orchard village of the Kirofa tribe among date palms on a river of Okharis."
 ---
 
 ## Overview

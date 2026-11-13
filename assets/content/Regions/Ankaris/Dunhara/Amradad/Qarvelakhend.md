@@ -12,6 +12,7 @@ data:
   population: 22000
   government: kngdmmrdd
   packFolder: amradad
+  notes: "City"
 ---
 
 Qarvelakhend is a city in [[place-amradadrgn|Amradad]], the settled corner of the [[place-dunharargn|Dunhara]], where walled cities, their oases and the caravan routes between them are held by the [[affiliation-kngdmmrdd|Kingdom of Amradad]].

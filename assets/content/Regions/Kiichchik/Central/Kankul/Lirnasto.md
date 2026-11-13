@@ -12,6 +12,7 @@ data:
   population: null
   packFolder: kankul
   culture: senaliclt
+  notes: "The central conclave of the Senali in Kì'ìch'chik, in the uncut high jungle of the limestone lowlands, which the realm of K'ankul keeps its people out of by an old understanding."
 ---
 
 **Lirnasto**, the place of vines in the [[skill-senalilng|Senali language]], is the conclave the [[lore-flksenali|Senali Folk]] keep in the middle of [[place-kiichchik|Kì'ìch'chik Continent]]. It lies in the [[place-kankulrgn|K'ankul Region]], in the high jungle of the interior of the limestone platform, a long way from the coast and from every city of the realm. It is the one place in Kì'ìch'chik where the Senali and a human realm hold to an understanding. Nobody outside it has counted the Senali there.

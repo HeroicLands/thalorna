@@ -12,6 +12,7 @@ data:
   population: 150
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Trading Post"
 ---
 
 ## Overview

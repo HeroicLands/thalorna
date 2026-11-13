@@ -12,6 +12,7 @@ data:
   population: 400
   packFolder: vithgard
   government: kngdmvthgrd
+  notes: "Harbor Town"
 ---
 
 ## Overview

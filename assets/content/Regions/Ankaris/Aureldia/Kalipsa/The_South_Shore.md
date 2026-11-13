@@ -12,6 +12,7 @@ data:
   population: 17000
   government: calypsa
   packFolder: calypsa
+  notes: "The fishing villages of Kalipsa's southern coves and the steadings of the upland above them, seventeen thousand people who net, dye and herd for a city that holds their votes in no account and drinks their springs dry."
 ---
 
 ## Overview {#overview}

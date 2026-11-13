@@ -12,6 +12,7 @@ data:
   population: 0
   packFolder: regkhsett
   banner: khelathubnr
+  notes: "A farm village of Gar-Reth'Sa'ar within reach of Khelunu, lodging pupils' families and drawing its trade from the schools"
 ---
 
 ## Overview

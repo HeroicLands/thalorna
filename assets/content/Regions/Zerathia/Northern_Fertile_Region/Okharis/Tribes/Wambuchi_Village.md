@@ -12,6 +12,7 @@ data:
   population: 310
   packFolder: okharis
   government: wambuchitrb
+  notes: "Grain village of the Wámbuchi tribe amid the fields of the Okharis plains."
 ---
 
 ## Overview

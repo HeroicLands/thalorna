@@ -12,6 +12,7 @@ data:
   population: 80000
   packFolder: vedyara
   government: vyalendra2
+  notes: "The City of Ten Thousand Looms and the capital of the Vyalendra city-state—a shrena republic in the street-plan of a kingdom, where the Loom-Council sits in the last Maharava's audience hall."
 ---
 
 **Vyalendra** (80,000) is the capital of [[affiliation-vyalendra2|the city-state of Vyalendra]] and the only place in the subcontinent where the finest brocades are made. It stands in the middle of its own valleys, on the [Nilachari]{.name data-type="place/feature"} where the river first carries a laden boat, with the cotton land on both banks and the dye-villages upstream of the water-gate. The streets are narrow, shaded by old banyans, and the looms are audible in all of them from first light until dark.

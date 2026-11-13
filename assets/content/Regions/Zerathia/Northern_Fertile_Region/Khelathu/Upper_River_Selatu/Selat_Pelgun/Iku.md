@@ -13,6 +13,7 @@ data:
   population: 34000
   packFolder: regkhsett
   government: selatsltplgn
+  notes: "Selat capital of Selat-Pelgun."
 ---
 
 ## Overview

@@ -13,6 +13,7 @@ data:
   population: 300
   government: teyumi
   packFolder: teyumi
+  notes: "The Moon Door: a small great house on a high ridge of the Cave Mesas, between two stone pillars through which the moon rises at the Far Rising, with a signal fire that can be seen from the Canyon of Houses."
 
 # terran_analog: Chimney Rock, the Chacoan outlier on a high mesa in southwestern Colorado whose great house looks between twin rock pillars at the moon's major standstill rising
 ---

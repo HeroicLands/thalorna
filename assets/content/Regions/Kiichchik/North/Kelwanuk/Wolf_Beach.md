@@ -13,6 +13,7 @@ data:
   population: 1200
   government: kelwanuk
   packFolder: kelwanuk
+  notes: "Wolf Beach: the Wolf House's village at the head of the longest inlet, where the eulachon grease is rendered and carried over the mountains on the Grease Trail, and where a captive went over the passes for sale this summer."
 
 # terran_analog: a Nuxalk village at the head of the Bella Coola inlet, where the grease trail began, with a Nisga'a eulachon fishery
 ---

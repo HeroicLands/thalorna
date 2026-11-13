@@ -13,6 +13,7 @@ data:
   population: 80000
   packFolder: regkhsett
   government: selatnlghztn
+  notes: "City (Granary Capital)"
 ---
 
 ## Overview

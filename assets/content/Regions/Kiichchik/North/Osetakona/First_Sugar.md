@@ -13,6 +13,7 @@ data:
   population: 1800
   government: osetakona
   packFolder: osetakona
+  notes: "First Sugar, the Rapids People's chief village on the Great River, which always stands within a walk of the sugar bush where the Grove began, and which wants to be the next Kettle."
 
 # terran_analog: an Onondaga or Oneida village of the sixteenth century, set on the upper St. Lawrence rapids
 ---

@@ -12,6 +12,7 @@ data:
   population: 30000
   packFolder: amradad
   government: kngdmmrdd
+  notes: "The fortress city of the Amradi caravan road, largest in the Kingdom, where every caravan from the interior pays its toll on the way to the coast."
 ---
 
 ## Overview

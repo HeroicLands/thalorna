@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A significant rural settlement of Amradad whose Village Elders keep the astrologer Fakhrad Tamaran on retainer for seasonal and long-term counsel."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [amradadrgn], government: kngdmmrdd, packFolder: amradad}
+data:
+  demonym: null
+  lore: []
+  parents: [amradadrgn]
+  government: kngdmmrdd
+  packFolder: amradad
+  notes: "A significant rural settlement of Amradad whose Village Elders keep the astrologer Fakhrad Tamaran on retainer for seasonal and long-term counsel."
 ---
 
 ## Overview

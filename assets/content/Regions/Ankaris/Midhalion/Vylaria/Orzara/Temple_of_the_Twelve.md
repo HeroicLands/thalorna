@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Sarkena Dorekis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Vanor of Orzara that honors the whole Aureldian Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Thordimalon."
 tags: [temple, aureldian, vylaria, imperial, orzara, precinct]
-data: {demonym: null, lore: [], parents: [orzara], population: 400, government: vylarinmpr}
+data:
+  demonym: null
+  lore: []
+  parents: [orzara]
+  population: 400
+  government: vylarinmpr
+  notes: "Sarkena Dorekis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Vanor of Orzara that honors the whole Aureldian Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Thordimalon."
 ---
 
 ## Sarkena Dorekis—The House of the Twelve {#overview}

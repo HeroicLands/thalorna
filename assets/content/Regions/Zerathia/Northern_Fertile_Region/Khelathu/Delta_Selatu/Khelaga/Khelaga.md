@@ -13,6 +13,7 @@ data:
   population: 26000
   packFolder: regkhsett
   government: selatkhelaga
+  notes: "Selat capital of Khelaga."
 ---
 
 ## Overview

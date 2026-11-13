@@ -13,6 +13,7 @@ data:
   population: 2400
   government: kelwanuk
   packFolder: kelwanuk
+  notes: "Orca Beach: the whaling village of the Orca House on the outer coast, where twenty slaves were killed at a feast, where the count that ended the killing is still kept, and where slaves are now freed as gifts."
 
 # terran_analog: a Makah whaling village of the outer Washington coast, such as Ozette, with Kwakwaka'wakw houses and feasts
 ---

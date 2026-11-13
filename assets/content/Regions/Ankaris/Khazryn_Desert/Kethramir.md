@@ -13,6 +13,7 @@ data:
   population: 26000
   government: tribestrzd
   packFolder: khazryndesert
+  notes: "The caravan city of Tellumel, fourth of the seven Tellumi cities, where the southern spur from the interior comes down to the belt, held by the scholar-tribe Tozhirod."
 ---
 
 ## Overview

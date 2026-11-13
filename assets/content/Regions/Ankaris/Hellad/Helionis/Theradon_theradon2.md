@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "An inland Helionite city of terraced marble, old libraries and a Epistémion chapterhouse, whose citizens consider themselves qualified to instruct everyone else."
 tags: [city-state, city]
-data: {demonym: null, lore: [], parents: [helionis], population: 50000, government: theradon}
+data:
+  demonym: null
+  lore: []
+  parents: [helionis]
+  population: 50000
+  government: theradon
+  notes: "An inland Helionite city of terraced marble, old libraries and a Epistémion chapterhouse, whose citizens consider themselves qualified to instruct everyone else."
 ---
 
 ## Overview

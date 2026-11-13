@@ -16,6 +16,7 @@ data:
     - {to: hildholt, bearing: S, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Skathwald."
 ---
 
 ## Overview

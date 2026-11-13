@@ -12,6 +12,7 @@ data:
   population: 2900
   packFolder: eilwith
   government: kngdmldrth
+  notes: "Aldorath's river port on the tidal reach—the kingdom's outlet to the sea, and the place its trade meets the Synod's requirement."
 ---
 
 **Greiwater** stands on the tidal reach of the river that drains the eastern part of the [[place-aldorathrgn|Aldorath Region]], at the point where

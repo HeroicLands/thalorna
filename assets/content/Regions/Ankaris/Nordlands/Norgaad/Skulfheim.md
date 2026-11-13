@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A Norgaad mining place whose miners knock on their timber and listen for the thursar before entering a gallery."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [norgaad], population: 0, packFolder: norgaad}
+data:
+  demonym: null
+  lore: []
+  parents: [norgaad]
+  population: 0
+  packFolder: norgaad
+  notes: "A Norgaad mining place whose miners knock on their timber and listen for the thursar before entering a gallery."
 ---
 
 ## Overview

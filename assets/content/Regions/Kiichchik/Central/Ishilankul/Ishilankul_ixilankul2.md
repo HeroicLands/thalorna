@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The Seat of the Stars: the city of the Q'emulmah, first of the Sun Lords, where the plateau's tribute is counted in the Court of Tribute and a priest watches the sky from every temple summit through the night."
 tags: [city]
-data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 150000, government: ixilankul}
+data:
+  demonym: null
+  lore: []
+  parents: [ixilankulrgn]
+  population: 150000
+  government: ixilankul
+  notes: "The Seat of the Stars: the city of the Q'emulmah, first of the Sun Lords, where the plateau's tribute is counted in the Court of Tribute and a priest watches the sky from every temple summit through the night."
 
 # terran_analog: Tenochtitlan as the city of the huey tlatoani, with its palace storehouses and the tribute rolls of the Codex Mendoza; the summit houses are this city's own
 ---

@@ -13,6 +13,7 @@ data:
   population: 36000
   packFolder: regkhsett
   government: selatltgthzl
+  notes: "Selat capital of Lut-Getha-Zalu."
 ---
 
 ## Overview

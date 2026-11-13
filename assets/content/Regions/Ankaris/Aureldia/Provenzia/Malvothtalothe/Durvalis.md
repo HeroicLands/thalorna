@@ -17,6 +17,7 @@ data:
     - {to: caerceravel, bearing: W, mode: land, days: 2, terrain: [hills, road]}
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The fortress town of Talote, Provénzia's eastern march—the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
 ---
 
 **Durvalis**—the bright castle—commands the road below the Tarvénian passes, and is the

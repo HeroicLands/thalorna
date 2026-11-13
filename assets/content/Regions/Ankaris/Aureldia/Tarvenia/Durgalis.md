@@ -12,6 +12,7 @@ data:
   population: 3000
   government: cncldrgls
   packFolder: tarvenia
+  notes: "A castle town of about 3,000 in Tarvénia's hill country, whose castle stands over a square with a well and an oath stone, and whose valley assembly governs the barley farms below it and buys no contract against the hail."
 ---
 
 ## Overview {#overview}
