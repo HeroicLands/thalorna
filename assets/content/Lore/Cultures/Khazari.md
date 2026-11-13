@@ -42,6 +42,13 @@ data:
     hair_color: {black: 4, dark_brown: 4, grey: 2, brown: 1}
     skin_color: {light: 3, medium: 3, pale: 2, olive: 1}
     complexion: {rough: 3, weathered: 2, clear: 2, scarred: 1}
+    hair_texture: {wavy: 4, curly: 3, straight: 3}
+    hair_style: {long: 3, shoulder_length: 3, short: 2, braided: 1, knotted: 1}
+    facial_hair: {full_beard: 5, long_beard: 4, short_beard: 1}
+    face_shape: {broad: 4, square: 4, round: 2, angular: 1}
+    nose: {broad: 4, straight: 3, aquiline: 2, hooked: 1, crooked: 1}
+    brow: {heavy: 4, bushy: 4, straight: 1}
+    mouth: {wide: 3, full: 3, thin: 2, small: 1}
     height: {female: {min: 4' 4", max: 5' 0"}, male: {min: 4' 8", max: 5' 4"}}
 
 # terran_analog: "No human people. The governing attitude is the Sakuteiki's (11th-century Japanese garden manual): set each stone as the stone asks. The Khazari extend it to architecture, mining, craft and ethics."

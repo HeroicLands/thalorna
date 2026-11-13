@@ -21,6 +21,12 @@ data:
       dark_blonde: 5
     skin_color: {fair: 22, medium: 19, olive: 19, light: 18, pale: 11, tanned: 10, tawny: 2}
     complexion: {weathered: 29, sun_kissed: 21, smooth: 19, clear: 16, ruddy: 8, freckled: 8}
+    hair_texture: {straight: 4, wavy: 4, curly: 2}
+    hair_style: {short: 4, shoulder_length: 3, long: 2, cropped: 1, braided: 1, knotted: 1}
+    face_shape: {oval: 3, round: 2, square: 2, long: 2, heart: 1, angular: 1}
+    nose: {straight: 5, aquiline: 2, snub: 1, upturned: 1, broad: 1, crooked: 1}
+    brow: {straight: 3, arched: 3, bushy: 2, thin: 1, heavy: 1}
+    mouth: {thin: 3, full: 3, wide: 1, small: 1}
     height: {female: {min: 5' 1", max: 6' 1"}, male: {min: 5' 5", max: 6' 5"}}
 ---
 

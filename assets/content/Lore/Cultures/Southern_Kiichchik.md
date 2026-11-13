@@ -13,6 +13,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {brown: 4, dark_brown: 3, tanned: 2, swarthy: 1}
     complexion: {ruddy: 4, weathered: 3, leathery: 2, chapped: 1}
+    hair_texture: {straight: 9, wavy: 1}
+    hair_style: {long: 4, braided: 4, short: 2, knotted: 1}
+    face_shape: {round: 4, broad: 3, square: 2, oval: 1}
+    nose: {aquiline: 4, broad: 4, straight: 2, hooked: 1}
+    brow: {straight: 4, heavy: 3, arched: 2, thin: 1}
+    mouth: {full: 4, wide: 2, thin: 2, small: 1}
     height: {female: {min: 4' 7", max: 5' 1"}, male: {min: 4' 11", max: 5' 5"}}
 
 # terran_analog: "The Zapotec of the Oaxaca valleys and the highland Andes, the two models the central note names for the south. Carries over: terraced hillsides and valley irrigation, upper and lower halves in every town, households counted in twenties and in four hundreds, knotted-cord accounts, herds kept by the temples, and the mountain-top fortress-temples."

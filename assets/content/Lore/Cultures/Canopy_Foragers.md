@@ -13,6 +13,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {brown: 5, dark_brown: 3, tawny: 2, golden: 1}
     complexion: {smooth: 5, clear: 4, weathered: 1}
+    hair_texture: {coily: 9, curly: 1}
+    hair_style: {cropped: 5, short: 3, shaved: 1, braided: 1}
+    face_shape: {round: 4, heart: 3, broad: 2, oval: 2}
+    nose: {broad: 5, snub: 3, upturned: 2}
+    brow: {straight: 3, arched: 3, thin: 2, heavy: 1}
+    mouth: {full: 5, wide: 3, small: 2}
     height: {female: {min: 4' 5", max: 4' 11"}, male: {min: 4' 7", max: 5' 2"}}
 
 # terran_analog: "The Mbuti and BaAka foragers of the Congo basin. Carries over: small mobile bands, net-hunting, honey, leaf huts, the forest as a parent, strict sharing, a light and easily abandoned leadership, and the night song that wakes the forest. Departs: one tongue shared with every other forest tradition, no dependence on farming villages, and the dead left in an abandoned camp."

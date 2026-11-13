@@ -13,6 +13,12 @@ data:
     hair_color: {black: 8, dark_brown: 2}
     skin_color: {dark_brown: 5, ebony: 3, brown: 2, dark: 1}
     complexion: {weathered: 5, leathery: 2, clear: 2, sun_kissed: 2}
+    hair_texture: {coily: 4, curly: 4, wavy: 2}
+    hair_style: {cropped: 3, short: 3, braided: 3, long: 1}
+    face_shape: {angular: 3, oval: 3, long: 2, heart: 1}
+    nose: {broad: 3, straight: 3, aquiline: 1, narrow: 2}
+    brow: {arched: 3, straight: 3, heavy: 2}
+    mouth: {full: 4, wide: 2, thin: 1}
     height: {female: {min: 5' 3", max: 5' 11"}, male: {min: 5' 7", max: 6' 2"}}
 
 # terran_analog: "Lower Nubia and the cataract frontier of Egypt, with the eastern desert mining hills and the western oasis grazing country: garrison towns, gold-roads and fortress-lines held by soldier-governors, with Nubian, desert and herder peoples on the far side. Carries over: a militarized, mixed frontier that supplies the heartland with soldiers and metal. Departs: the frontier is ten selatu under hereditary Halzi'a, with the war-god Qeztu strong where the valley prefers gentler gods."

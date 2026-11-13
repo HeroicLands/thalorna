@@ -30,6 +30,12 @@ data:
     hair_color: {black: 7, dark_brown: 3}
     skin_color: {olive: 7, swarthy: 2, dark_brown: 1}
     complexion: {rough: 4, leathery: 3, blotchy: 2, oily: 1}
+    hair_texture: {straight: 4, coily: 2, wavy: 2, curly: 1}
+    hair_style: {long: 3, locked: 3, shaved_sides: 2, shaved: 2, cropped: 2, braided: 1}
+    face_shape: {broad: 4, square: 3, angular: 3, long: 1}
+    nose: {broad: 5, crooked: 3, snub: 2, hooked: 1}
+    brow: {heavy: 6, bushy: 3, straight: 1}
+    mouth: {wide: 5, thin: 2, full: 2}
     height:
       female: {min: 4' 4", max: 6' 8"}
       male: {min: 4' 4", max: 6' 8"}

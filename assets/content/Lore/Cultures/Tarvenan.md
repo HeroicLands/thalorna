@@ -44,6 +44,12 @@ data:
     hair_color: {dark_brown: 5, black: 4, brown: 2, dark_blonde: 1}
     skin_color: {olive: 5, tanned: 3, medium: 3, light: 1}
     complexion: {weathered: 4, sun_kissed: 4, ruddy: 1, smooth: 1}
+    hair_texture: {wavy: 5, curly: 3, straight: 2}
+    hair_style: {short: 3, shoulder_length: 3, long: 2, braided: 2, cropped: 1}
+    face_shape: {long: 3, oval: 3, angular: 2, square: 2, round: 1}
+    nose: {aquiline: 4, straight: 3, hooked: 1, broad: 1, crooked: 1}
+    brow: {bushy: 3, arched: 3, heavy: 2, straight: 1}
+    mouth: {thin: 3, full: 3, wide: 1, small: 1}
     height: {female: {min: 5' 5", max: 6' 1"}, male: {min: 5' 6", max: 6' 4"}}
 
 # terran_analog: "Central Spain, Andorra and southeastern France up to the southern Alps (a patchwork of feudal kingdoms, free cities and contested mountain marches). Carries over: independent feudal kingdoms and free cities, mercenary swordsmen and crossbowmen, women running holdings while men are under contract. Departs: a deep skepticism of institutional magic and of the Thordimalon."

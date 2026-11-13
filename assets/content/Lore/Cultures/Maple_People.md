@@ -64,6 +64,12 @@ data:
     hair_color: {black: 6, dark_brown: 3, brown: 1}
     skin_color: {tawny: 4, medium: 3, tanned: 2, brown: 1}
     complexion: {clear: 4, weathered: 3, smooth: 2, scarred: 1}
+    hair_texture: {straight: 8, wavy: 2}
+    hair_style: {shaved_sides: 3, long: 3, braided: 3, short: 2, knotted: 1}
+    face_shape: {round: 3, broad: 3, oval: 2, square: 2}
+    nose: {broad: 3, straight: 3, aquiline: 3, snub: 1}
+    brow: {straight: 4, heavy: 3, arched: 2, thin: 1}
+    mouth: {full: 3, thin: 3, wide: 2, small: 1}
     height: {female: {min: 5' 2", max: 5' 8"}, male: {min: 5' 6", max: 6' 1"}}
 
 # terran_analog: "The Haudenosaunee Confederacy and the Huron-Wendat, with Algonquian neighbors such as the Lenape, the Wampanoag and the Ojibwe. Carries over: palisaded villages of bark longhouses that move every ten to twenty years, the three crops in one hill, maple sugaring, matrilineal clans spread across every nation, clan mothers who name and depose the chiefs, consensus councils and long oratory, chiefly titles held by lineages, wampum belts as the record of agreements, mourning wars and the adoption of captives into the places of the dead, the condolence payment for a killing, the Huron Feast of the Dead when a village moved, and the soul's wishes made known in dreams and answered at midwinter. Departs: the people call themselves for the maple and picture their league as a sugar bush, the council is a boiling and not a longhouse, the founding is a shared feast of the dead, the Island People's absorption stands for the dispersals of the seventeenth century, and the lineage titles are named as the culture's own blind spot."

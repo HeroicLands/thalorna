@@ -32,6 +32,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {dark_brown: 5, brown: 4, ebony: 1, tawny: 1}
     complexion: {smooth: 4, weathered: 3, clear: 2}
+    hair_texture: {coily: 7, curly: 3}
+    hair_style: {cropped: 3, short: 3, shaved_sides: 2, locked: 1, shaved: 1}
+    face_shape: {oval: 3, round: 3, broad: 2, square: 1, heart: 1}
+    nose: {broad: 5, straight: 3, snub: 1}
+    brow: {straight: 3, arched: 3, heavy: 2, thin: 1}
+    mouth: {full: 4, wide: 3, thin: 1, small: 1}
     height: {female: {min: 5' 1", max: 5' 8"}, male: {min: 5' 5", max: 6' 0"}}
 
 # terran_analog: "Iroquois Confederacy (Haudenosaunee), Sotho-Tswana morafe and Shona heirs of Great Zimbabwe: five clan-nations bound by an ancient pact, cattle-pastoral, with a stone-ruin heritage. Carries over: a league of distinct nations under a shared covenant renewed in person, council by consensus, cattle wealth, totem clans. Departs: the five clans keep lion, crocodile, eagle, leopard and baobab totems and differ in dress, dialect and marriage custom."

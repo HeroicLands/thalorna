@@ -45,6 +45,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {golden: 3, light: 3, medium: 3, tawny: 1}
     complexion: {smooth: 4, clear: 3, weathered: 3}
+    hair_texture: {straight: 9, wavy: 1}
+    hair_style: {knotted: 4, shaved_sides: 3, long: 2, short: 2, shaved: 1}
+    face_shape: {oval: 4, round: 3, long: 2, square: 1}
+    nose: {straight: 5, narrow: 2, snub: 2, upturned: 1}
+    brow: {straight: 5, thin: 3, arched: 1}
+    mouth: {small: 4, thin: 3, full: 2}
     height: {female: {min: 4' 11", max: 5' 6"}, male: {min: 5' 2", max: 5' 11"}}
 
 # terran_analog: "Feudal Japan (island feudalism under a sacred and powerless court). Carries over: the powerless sacred court, domain lords who are kings in all but name, retainers paid in rice stipends, granted names, and ritual death as a statement. Departs: the Mandate claim against a living mainland empire, the caste ladder inherited from Tantsou, and a navy that has kept the strait for a thousand years."

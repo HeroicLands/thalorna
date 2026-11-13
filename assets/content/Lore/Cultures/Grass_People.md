@@ -58,6 +58,12 @@ data:
     hair_color: {black: 7, dark_brown: 2, brown: 1}
     skin_color: {tanned: 4, tawny: 3, brown: 2, swarthy: 1}
     complexion: {weathered: 5, leathery: 2, chapped: 2, sunburnt: 1}
+    hair_texture: {straight: 8, wavy: 2}
+    hair_style: {long: 4, braided: 4, short: 2, shaved_sides: 1, knotted: 1}
+    face_shape: {broad: 3, round: 3, oval: 2, square: 2, angular: 1}
+    nose: {aquiline: 4, straight: 3, broad: 2, hooked: 1}
+    brow: {straight: 4, heavy: 3, arched: 2, thin: 1}
+    mouth: {full: 3, wide: 3, thin: 2, small: 1}
     height: {female: {min: 5' 3", max: 5' 9"}, male: {min: 5' 8", max: 6' 3"}}
 
 # terran_analog: "The pre-horse Plains bison hunters and the Plains Village farmers ancestral to the Mandan, Hidatsa and Pawnee, around 1100. Carries over: dogs and travois, buffalo jumps and pounds with drive lanes of cairns, such as Head-Smashed-In, the akicita who policed the communal hunt and broke the weapons of anyone who spoiled it, earth lodges owned by women and fortified villages with ditches and palisades, the corn-for-meat trade between villages and bands, winter counts, coups, giveaways, scaffold burial, the Lakota keeping of the soul for a year, and the Mandan ring of skulls outside the village. The Winter of the Ditch is drawn from the Crow Creek massacre of about 1325. Departs: the bands and the villages are one people of one tongue, the raiding ethic is named as the culture's own blind spot, and nobody rides."

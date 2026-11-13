@@ -41,6 +41,12 @@ data:
     hair_color: {black: 7, dark_brown: 3}
     skin_color: {dark_brown: 4, brown: 4, tawny: 1}
     complexion: {smooth: 4, clear: 3, sun_kissed: 1, weathered: 1}
+    hair_texture: {wavy: 4, curly: 3, straight: 3}
+    hair_style: {long: 3, braided: 3, shoulder_length: 3, knotted: 2}
+    face_shape: {oval: 4, long: 3, angular: 2, heart: 1}
+    nose: {straight: 5, aquiline: 2, broad: 2, narrow: 1}
+    brow: {arched: 4, straight: 3, bushy: 1}
+    mouth: {full: 4, wide: 2, thin: 2, small: 1}
     height: {female: {min: 5' 0", max: 5' 8"}, male: {min: 5' 5", max: 6' 1"}}
 
 # terran_analog: "Atlantis as Plato describes it in the Timaeus and Critias, not the modern legend."

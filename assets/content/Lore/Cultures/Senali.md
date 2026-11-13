@@ -19,6 +19,13 @@ data:
     hair_color: {silver: 3, white: 2, blonde: 2, black: 2, dark_brown: 1}
     skin_color: {pale: 4, fair: 3, light: 3}
     complexion: {clear: 5, smooth: 5}
+    hair_texture: {straight: 7, wavy: 3}
+    hair_style: {long: 5, braided: 3, shoulder_length: 2}
+    facial_hair: {none: 1}
+    face_shape: {oval: 4, long: 3, angular: 3, heart: 1}
+    nose: {straight: 6, narrow: 3, aquiline: 1}
+    brow: {arched: 5, straight: 3, thin: 2}
+    mouth: {thin: 4, full: 3, small: 2}
     height: {female: {min: 5' 9", max: 6' 6"}, male: {min: 6' 0", max: 6' 9"}}
 ---
 

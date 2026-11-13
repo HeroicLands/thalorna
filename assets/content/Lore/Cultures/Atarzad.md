@@ -47,6 +47,12 @@ data:
     hair_color: {black: 6, dark_brown: 4}
     skin_color: {tawny: 4, tanned: 3, olive: 2, brown: 2, light: 1}
     complexion: {weathered: 4, sun_kissed: 3, clear: 2, leathery: 1}
+    hair_texture: {wavy: 4, curly: 3, straight: 3}
+    hair_style: {shoulder_length: 3, short: 3, long: 2, braided: 1, knotted: 1}
+    face_shape: {oval: 3, long: 3, angular: 2, heart: 1}
+    nose: {aquiline: 4, straight: 3, hooked: 2, broad: 1}
+    brow: {arched: 3, bushy: 3, heavy: 2, straight: 1}
+    mouth: {full: 4, wide: 2, thin: 2}
     height: {female: {min: 5' 2", max: 6' 0"}, male: {min: 5' 4", max: 6' 3"}}
 
 # terran_analog: "The Israelites of the Exodus and the Conquest, seen from inside: a twelve-tribe people out of bondage, a covenant that forbids images and kings, judges raised for one crisis, a promised land taken from an older urban people. Carries over: genealogy as membership, dietary law, first fruits and pilgrimage, prophets the council cannot place. Departs: a monolatrous fire-cult inside a wider pantheon, the household flame as the term of the land-grant, and the dead given to the fire."

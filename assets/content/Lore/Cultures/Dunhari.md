@@ -39,6 +39,12 @@ data:
     hair_color: {black: 5, dark_brown: 5, chestnut: 1}
     skin_color: {tawny: 4, tanned: 3, brown: 3, olive: 2, light: 1}
     complexion: {weathered: 4, leathery: 2, ruddy: 1, sun_kissed: 2}
+    hair_texture: {wavy: 4, curly: 3, straight: 3}
+    hair_style: {long: 3, shoulder_length: 3, braided: 2, short: 2, knotted: 1}
+    face_shape: {long: 3, angular: 3, oval: 3, heart: 1}
+    nose: {aquiline: 4, hooked: 2, straight: 3, narrow: 1}
+    brow: {bushy: 3, heavy: 3, arched: 2, straight: 1}
+    mouth: {thin: 3, full: 3, wide: 1}
     height: {female: {min: 5' 6", max: 6' 3"}, male: {min: 5' 6", max: 6' 5"}}
 
 # terran_analog: "The Persian-and-Arabian world, specifically the Bedouin tribal desert (sheikhs, salt hospitality, poet-genealogists, codified blood-feud and its settlement) with a fire-and-light faith on the Persianate side. Carries over: lineage and seasonal-circuit organization, law and genealogy kept in verse. Departs: an oath sworn at a fire is a single legal and religious instrument, and disputed histories are judged by poets of a third tribe."

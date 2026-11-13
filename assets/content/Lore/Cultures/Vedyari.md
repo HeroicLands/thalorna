@@ -47,6 +47,12 @@ data:
     hair_color: {black: 7, dark_brown: 3}
     skin_color: {golden: 3, tawny: 2, brown: 3, dark_brown: 2, medium: 1}
     complexion: {smooth: 4, clear: 3, weathered: 2}
+    hair_texture: {wavy: 5, straight: 3, curly: 2}
+    hair_style: {long: 4, knotted: 3, short: 2, shoulder_length: 2, braided: 1}
+    face_shape: {oval: 4, round: 3, heart: 2, long: 1}
+    nose: {straight: 3, aquiline: 3, broad: 2, narrow: 1, upturned: 1}
+    brow: {arched: 4, straight: 2, thin: 2, bushy: 1}
+    mouth: {full: 5, wide: 2, thin: 1, small: 1}
     height: {female: {min: 5' 2", max: 5' 10"}, male: {min: 5' 6", max: 6' 4"}}
 
 # terran_analog: "The Indian subcontinent, especially medieval South Indian temple-republics (Chola-era sabhra and ur village federations governed by temple-anchored assemblies). Carries over: appearance, dress and naming follow an Indian palette, a hereditary system of orders and lineages that settles profession, marriage and standing, pilgrimage networks. Departs: order and lineage are cut as two signs inside the left wrist at naming, and a wrapped wrist hides a station."

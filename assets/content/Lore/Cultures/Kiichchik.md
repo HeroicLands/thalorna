@@ -54,6 +54,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {brown: 5, tawny: 3, olive: 1, dark_brown: 1}
     complexion: {smooth: 4, clear: 3, weathered: 2, sun_kissed: 1}
+    hair_texture: {straight: 8, wavy: 2}
+    hair_style: {long: 4, braided: 3, knotted: 2, short: 2, shaved_sides: 1}
+    face_shape: {round: 4, broad: 3, oval: 2, square: 1}
+    nose: {aquiline: 4, broad: 3, straight: 2, hooked: 1}
+    brow: {straight: 4, arched: 2, heavy: 2, thin: 1}
+    mouth: {full: 3, wide: 2, thin: 2, small: 1}
     height: {female: {min: 4' 8", max: 5' 2"}, male: {min: 5' 0", max: 5' 6"}}
 
 # terran_analog: "Mesoamerica: the Classic Maya and the Mexica above all, with the Zapotec and the highland Andes for the south. Carries over: the 365-day and 260-day counts and the fifty-two-year round, the New Fire, the five unlucky days at the year's end, maize-dough humankind, bloodletting and captive sacrifice, the flower-war captive-hunt, the calpolli ward with its house of youths, cacao and jade as money, the paid death rites of the underworld journey, and the Andean counted households, labor turn and knotted cords in the south. Departs: one priesthood serves all ten gods and holds the calendar, the roads and the relay, warriors fight in steel, and the house name rule decides who may shorten whose name."

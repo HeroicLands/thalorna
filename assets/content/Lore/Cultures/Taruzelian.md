@@ -42,6 +42,12 @@ data:
     hair_color: {dark_brown: 4, black: 3, brown: 2}
     skin_color: {medium: 3, olive: 3, tawny: 2, golden: 2, tanned: 1}
     complexion: {sun_kissed: 4, weathered: 3, smooth: 1, clear: 1}
+    hair_texture: {wavy: 4, curly: 4, straight: 2}
+    hair_style: {short: 3, shoulder_length: 3, long: 2, knotted: 1, braided: 1}
+    face_shape: {oval: 3, long: 3, angular: 2, round: 1, heart: 1}
+    nose: {aquiline: 4, straight: 3, hooked: 2, broad: 1}
+    brow: {arched: 3, bushy: 3, heavy: 2, straight: 1}
+    mouth: {full: 4, thin: 2, wide: 2, small: 1}
     height: {female: {min: 5' 5", max: 6' 2"}, male: {min: 5' 6", max: 6' 3"}}
 
 # terran_analog: "Israel and Lebanon with their island coasts (a Phoenician-and-Levantine maritime confederation: trader city-states, naval power, merchant oligarchs), with archaic-speaking inland tribes. Carries over: trading houses as family firms, independent ship captains, banking and shipping combined. Departs: the confederation won independence from the Vilérian Empire by force of arms, women captain ships and hold partnerships, and the Auric Compact banking cartel holds its treasury."

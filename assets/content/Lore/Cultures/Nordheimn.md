@@ -85,6 +85,12 @@ data:
     hair_color: {brown: 3, blonde: 3, dark_blonde: 3, dark_brown: 3, red: 2, auburn: 2, black: 2}
     skin_color: {light: 4, fair: 3, pale: 3, tanned: 2, medium: 1}
     complexion: {weathered: 4, ruddy: 3, freckled: 1, smooth: 1, scarred: 1}
+    hair_texture: {straight: 4, wavy: 4, curly: 1}
+    hair_style: {long: 3, braided: 3, shoulder_length: 3, short: 2, knotted: 1}
+    face_shape: {square: 3, broad: 3, long: 2, oval: 2, angular: 1}
+    nose: {straight: 4, broad: 2, aquiline: 2, snub: 1, crooked: 1}
+    brow: {heavy: 3, straight: 3, bushy: 2, arched: 1}
+    mouth: {thin: 3, wide: 2, full: 2, small: 1}
     height: {female: {min: 5' 1", max: 5' 11"}, male: {min: 5' 4", max: 6' 6"}}
 
 # terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blet offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods. Norse settlement on Eilwìth (Stormveld, Northeastern Scotland analog) stays culturally tied to its kindred kingdom across the sea."

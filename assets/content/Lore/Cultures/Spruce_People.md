@@ -20,6 +20,12 @@ data:
     hair_color: {black: 6, dark_brown: 3, brown: 1}
     skin_color: {tawny: 4, light: 3, olive: 2, tanned: 1}
     complexion: {chapped: 4, weathered: 3, ruddy: 2, clear: 1}
+    hair_texture: {straight: 8, wavy: 2}
+    hair_style: {long: 4, braided: 4, short: 2, knotted: 1}
+    face_shape: {round: 3, broad: 3, oval: 3, square: 1}
+    nose: {straight: 3, broad: 3, aquiline: 2, snub: 1}
+    brow: {straight: 4, heavy: 2, arched: 2, thin: 1}
+    mouth: {thin: 3, full: 3, wide: 2, small: 1}
     height: {female: {min: 5' 0", max: 5' 6"}, male: {min: 5' 4", max: 5' 11"}}
 
 # terran_analog: "The boreal Algonquian hunters of about 1100, with the Woods and Swampy Cree as the guide and the Selkirk and Blackduck peoples of the archaeological record behind them. Carries over: winter bands of a few related families, each with its customary hunting ground, summer gatherings at fishing lakes and sturgeon runs, leadership by the best hunter and consensus, birch-bark canoes, snowshoes and toboggans, the respect owed to animals and the hanging of bones, the bear's skull set in a tree, the shaking tent, and the windigo, the famine spirit that makes a person a cannibal, with the executions it brought. Departs: no real people is depicted, the dead go north beyond the treeline, and the killing of the strangers at Loon Lake and the argument it leaves are invented."

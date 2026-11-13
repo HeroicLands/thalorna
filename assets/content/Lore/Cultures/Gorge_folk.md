@@ -13,6 +13,12 @@ data:
     hair_color: {black: 10}
     skin_color: {ebony: 6, dark_brown: 3, dark: 1}
     complexion: {smooth: 5, clear: 3, weathered: 1}
+    hair_texture: {coily: 8, curly: 2}
+    hair_style: {cropped: 4, short: 3, braided: 3, shaved: 1}
+    face_shape: {broad: 3, round: 3, oval: 2, square: 2}
+    nose: {broad: 5, snub: 2, straight: 2, upturned: 1}
+    brow: {straight: 3, heavy: 2, arched: 2, bushy: 1}
+    mouth: {full: 5, wide: 3, small: 1}
     height: {female: {min: 5' 2", max: 5' 9"}, male: {min: 5' 6", max: 6' 1"}}
 
 # terran_analog: "The Lower Congo peoples of the Livingstone Falls and the gorge country: river-portage and market communities in a forest whose rapids force every canoe ashore. Carries over: portage and toll work, trade-post markets, ridge gardens and fishing, and a standing between the interior and the coast. Departs: no kingdom, a leader who answers to his tribe, and a trade conducted through the forest's mediating intermediaries."

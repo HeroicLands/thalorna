@@ -60,6 +60,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {golden: 4, light: 4, medium: 2, tawny: 1}
     complexion: {smooth: 5, clear: 4, weathered: 1}
+    hair_texture: {straight: 1}
+    hair_style: {knotted: 4, long: 3, short: 2, braided: 1, shaved_sides: 1}
+    face_shape: {oval: 4, round: 3, long: 2, heart: 1, square: 1}
+    nose: {straight: 5, narrow: 2, snub: 2, broad: 1}
+    brow: {straight: 5, thin: 3, arched: 1}
+    mouth: {small: 3, thin: 3, full: 3}
     height: {female: {min: 4' 11", max: 5' 7"}, male: {min: 5' 3", max: 6' 0"}}
 
 # terran_analog: "Imperial China (celestial bureaucracy, caste, mandate of heaven) and the mainland eastern sphere of river civilizations and tributary kingdoms. Carries over: formal, indirect manner, omen-reading, a written bureaucratic record of persons. Departs: an eight-caste order in which a name is a privilege attached to classification and states caste, lineage and generation."
