@@ -4,13 +4,13 @@ name: {full: Q'aptel Tsa'kul}
 type: place
 subType: settlement
 description: "Seat of the border realm, a fortress-temple that sells guides, provisions and blessings to those about to cross into the wastes."
-tags: [town]
+tags: [village]
 data:
   demonym: null
   lore: []
   parents: [qapteltzaklrgn]
-  population: 1000
-  type: town
+  population: 490
+  type: village
   market: local
   government: qapteltzakl
   packFolder: qapteltzakul
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-Before the crossing south, a party stops at Q'aptel Tsa'kul, and the temple's quartermaster sells it everything it will need. The seat of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], whose name begins with _q'aptel_, the border, about 1,000 people, is a fortress-temple built to endure at the last edge of the ordered Kì'ìch'chik world, where managed fields and pyramid-cities give way to toxic mineral flats, hissing geothermal vents and a sky that glows sickly yellow or bruised purple with distant storms. The settlements here exist as waypoints for the doomed and the desperate.
+Before the crossing south, a party stops at Q'aptel Tsa'kul, and the temple's quartermaster sells it everything it will need. The seat of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]], whose name begins with _q'aptel_, the border, about 490 people, is a fortress-temple built to endure at the last edge of the ordered Kì'ìch'chik world, where managed fields and pyramid-cities give way to toxic mineral flats, hissing geothermal vents and a sky that glows sickly yellow or bruised purple with distant storms. The settlements here exist as waypoints for the doomed and the desperate.
 
 ## The Price of Passage
 
