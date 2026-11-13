@@ -9,7 +9,6 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [kankulrgn]
-  population: null
   packFolder: kankul
   culture: senaliclt
   notes: "The central conclave of the Senali in Kì'ìch'chik, in the uncut high jungle of the limestone lowlands, which the realm of K'ankul keeps its people out of by an old understanding."

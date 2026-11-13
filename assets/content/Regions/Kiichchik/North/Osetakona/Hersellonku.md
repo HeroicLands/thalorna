@@ -9,7 +9,6 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [tsitarargn]
-  population: null
   packFolder: osetakona
   culture: senaliclt
   notes: "The northern conclave of the Senali in Kì'ìch'chik, in a deep wood of old pine beyond the Pine People's last village, where the Grove's canoe makers do not cut."
