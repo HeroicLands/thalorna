@@ -891,3 +891,5 @@ packageBuild:
           reason: an independent town or city; its feeding countryside lies in neighbouring polities
         - address: affiliation-calypsa
           reason: an island port that feeds itself through trade and maritime goods
+        - address: affiliation-brdrmltia
+          reason: a military order whose seat is counted under the kingdom that governs it
