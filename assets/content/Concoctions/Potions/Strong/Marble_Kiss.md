@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Clouded murky pale greenish draft; causes paralysis and petrification."
 tags: [strong-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: strong}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

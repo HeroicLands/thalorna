@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "A bitter herbal draught the Pass-Shrine ushtakas brew for lowlanders their own bodies cannot yet forgive the cols for."
 tags: [mild-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: mild}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25
