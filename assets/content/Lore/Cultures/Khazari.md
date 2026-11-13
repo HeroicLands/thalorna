@@ -45,7 +45,7 @@ data:
     hair_texture: {wavy: 4, curly: 3, straight: 3}
     hair_style: {long: 3, shoulder_length: 3, short: 2, braided: 1, knotted: 1}
     facial_hair: {full_beard: 5, long_beard: 4, short_beard: 1}
-    face_shape: {broad: 4, square: 4, round: 2, angular: 1}
+    face_shape: {broad: 4, square: 4, angular: 4}
     nose: {broad: 4, straight: 3, aquiline: 2, hooked: 1, crooked: 1}
     brow: {heavy: 4, bushy: 4, straight: 1}
     mouth: {wide: 3, full: 3, thin: 2, small: 1}
