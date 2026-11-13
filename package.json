@@ -90,7 +90,7 @@
     "devDependencies": {
         "@changesets/cli": "^3.0.3",
         "@heroiclands/fonts": "^1.4.1",
-        "@heroiclands/package-build": "^25.8.0",
+        "@heroiclands/package-build": "^25.8.1",
         "countries-list": "^3.4.1",
         "cypress": "^16.2.1",
         "esbuild": "^0.28.2",
