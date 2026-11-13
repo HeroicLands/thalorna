@@ -26,7 +26,7 @@ data:
     offices: {}
   seat: null
   population: null
-  territorial_population: 10000
+  territorial_population: 11000
   economy: []
   lore: [varokhiclt]
   parents: []
