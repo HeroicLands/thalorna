@@ -72,6 +72,7 @@ data:
       Harbor-Mistress: Warden of a port, collecting its dues and licensing the privateers that sail from it.
   seat: bethura
   population: 3000000
+  territorial_population: 42000
   economy: [lore-aukhlthcrncy, affiliation-bthntrdhss, affiliation-garhalzi]
   lore: [humanflk]
   parents: []

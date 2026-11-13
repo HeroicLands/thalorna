@@ -65,6 +65,7 @@ data:
         Held by a member of the Gentry or above, appointed by the King. Keeps the royal forest above Kingshollow under forest law, holds its forest court, and marks the tree the king gives the village each midwinter.
   seat: dunmere
   population: 200000
+  territorial_population: 32000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: []

@@ -32,6 +32,7 @@ data:
         Held by a Freeman who can read a horse's teeth. At the autumn horse fair he says each horse's age and soundness, and his word settles the sale. At the fair's verse-duel he gives each bout its theme, its parts and its vowel, and says which way the fair's stamping went.
   seat: thorgila
   population: null
+  territorial_population: 2500
   economy: []
   lore: [humanflk]
   parents: [kingdmtrvn]

@@ -73,6 +73,7 @@ data:
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: thrunborg
   population: 300000
+  territorial_population: 3300
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
   lore: [nordheimnclt]
   parents: []

@@ -60,6 +60,7 @@ data:
       Ganoka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   seat: suryagarha
   population: 8000000
+  territorial_population: 40000
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]
   parents: []

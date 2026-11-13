@@ -55,6 +55,7 @@ data:
         Held by an Officer of the Council or a Councilor, commissioned by an act of the Council under the Arch-Consul's seal. Carries the Confederation's treaties to the realms around the Vilérian Sea.
   seat: besikar2
   population: 12000000
+  territorial_population: 1300000
   economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: []

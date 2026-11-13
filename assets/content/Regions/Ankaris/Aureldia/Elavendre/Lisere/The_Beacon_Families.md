@@ -41,6 +41,7 @@ data:
         Held by a Head of a Line named by the council. Treats with the sheriff of Lísere and the crown's clerks for the chain's rights in the forest fuel and in the levy.
   seat: harnasel
   population: null
+  territorial_population: 450
   economy: []
   lore: [humanflk]
   parents: [kngdmlvndr]

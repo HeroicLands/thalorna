@@ -76,6 +76,7 @@ data:
         Lord of traders: an elder of the merchant guild, who sends its caravans to Shelem and the south, judges its members in the guild's own court, and brings the Ts'enmah what its traders saw abroad.
   seat: ixilankul2
   population: null
+  territorial_population: 380000
   economy: []
   lore: [kiichchikclt]
   parents: []

@@ -38,6 +38,7 @@ data:
         Held by a Councilor named by the council. Keeps the sellswords' roll of Herthema, entering the men who may take hire in the town lawfully and striking those who may not.
   seat: herthema
   population: null
+  territorial_population: 4000
   economy: []
   lore: [humanflk]
   parents: [kingdmtrvn]

@@ -67,6 +67,7 @@ data:
         Holder of a tower for the lord or the king who appointed them, answerable for its garrison and stores; a knight or a sworn man.
   seat: lezkora
   population: 1000000
+  territorial_population: 27000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: [kingdmtrvn]

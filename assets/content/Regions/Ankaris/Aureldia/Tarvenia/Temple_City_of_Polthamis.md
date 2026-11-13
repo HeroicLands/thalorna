@@ -36,6 +36,7 @@ data:
         Held by the Prelate, elected by the chapter from its canons and holding for life. Presides over the chapter, rules and judges in the city under the royal charter, and seals the arbitrations and commissions of the faith's traveling priests.
   seat: polthamis
   population: 8000
+  territorial_population: 8000
   economy: [lore-vylrncrncy]
   lore: [humanflk]
   parents: [kingdmtrvn]

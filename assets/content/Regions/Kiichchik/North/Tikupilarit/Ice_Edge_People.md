@@ -46,6 +46,7 @@ data:
         Messenger: a young man sent by his men's house to carry its invitation and its list of requests to another village for the Messenger Feast.
   seat: null
   population: 50000
+  territorial_population: 1800
   economy: []
   lore: [tikupilaritclt]
   parents: []

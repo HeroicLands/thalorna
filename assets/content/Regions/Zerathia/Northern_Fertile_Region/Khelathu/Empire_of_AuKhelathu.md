@@ -55,6 +55,7 @@ data:
         Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
   seat: galezkara
   population: 19000000
+  territorial_population: 2000000
   economy: [affiliation-bthntrdhss, affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: []

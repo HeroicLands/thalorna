@@ -58,6 +58,7 @@ data:
         Contrary: one who has dreamed of the Thunders, who speaks and acts backward until a spring storm frees him, holds no office in council, and is the first into any fight.
   seat: tansheyawa
   population: 300000
+  territorial_population: 9000
   economy: []
   lore: [tenlayaclt]
   parents: []

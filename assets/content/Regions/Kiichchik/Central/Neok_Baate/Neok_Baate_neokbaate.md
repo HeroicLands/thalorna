@@ -72,6 +72,7 @@ data:
         Envoy: a K'anulmah kept at the court of Ish'ilankul or of a neighboring city, who speaks for his Ts'enmah there and is answered as if he were the Ts'enmah.
   seat: neokbaate2
   population: null
+  territorial_population: 190000
   economy: []
   lore: [kiichchikclt]
   parents: []

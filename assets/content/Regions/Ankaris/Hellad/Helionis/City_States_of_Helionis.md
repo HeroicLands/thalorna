@@ -69,6 +69,7 @@ data:
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: null
   population: 3000000
+  territorial_population: 300000
   economy:
     - affiliation-tarmex
     - affiliation-danvar

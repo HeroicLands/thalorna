@@ -32,6 +32,7 @@ data:
         Held by a Lord, raised to it for things done and by every voice. Governs Ethalosse after the Senali manner, which is not the manner of a human lordship.
   seat: ethalosse
   population: 70
+  territorial_population: 70
   economy: []
   lore: [flksenali]
   parents: []

@@ -64,6 +64,7 @@ data:
         Master of one of the four archery academies, holding its reserved seat on the sabhra. The four are seated together and answer together on any question of war.
   seat: danurkot
   population: 30000
+  territorial_population: 12000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: [janpdsvdyr]

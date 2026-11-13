@@ -58,6 +58,7 @@ data:
         Held by one Elder. Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: eshalshldg
   population: 150000
+  territorial_population: 1800
   economy: [lore-kinhalcrdt, affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []

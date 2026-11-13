@@ -60,6 +60,7 @@ data:
       Ganoka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   seat: bharyastan2
   population: 120000
+  territorial_population: 3000
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]
   parents: []

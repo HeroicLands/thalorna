@@ -32,6 +32,7 @@ data:
         Held by a Lord, raised to it for things done and by every voice. Governs Serenthale after the Senali manner, which is not the manner of a human lordship.
   seat: serenthale
   population: 90
+  territorial_population: 90
   economy: []
   lore: [flksenali]
   parents: []

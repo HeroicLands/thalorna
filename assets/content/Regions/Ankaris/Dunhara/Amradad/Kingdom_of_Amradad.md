@@ -67,6 +67,7 @@ data:
       Court Astrologer: Reader of the heavens for the timing of campaigns, marriages and journeys.
   seat: shebarakhend
   population: 2000000
+  territorial_population: 78000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt, lore-trzlncrncy]
   lore: [humanflk]
   parents: []

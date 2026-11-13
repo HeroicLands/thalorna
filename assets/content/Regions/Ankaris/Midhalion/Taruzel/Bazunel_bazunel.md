@@ -55,6 +55,7 @@ data:
         Held by a Councilor named by the old noble families, whose seats are older than the guilds' presence in the city.
   seat: bazunel2
   population: 2000000
+  territorial_population: 150000
   economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]

@@ -34,6 +34,7 @@ data:
         Held by a Freeman, named by the lord of the castle. Serves as the castle's notary: writes down the terms the assembly agrees, reads them aloud when they fall due, and seals them with the castle's seal.
   seat: durgalis
   population: null
+  territorial_population: 3000
   economy: []
   lore: [humanflk]
   parents: [kingdmtrvn]

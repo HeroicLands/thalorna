@@ -44,6 +44,7 @@ data:
       Keeper of the Armory: Held by the Jaju, who keep the armory of the domain and the forge-village of Tsaigen.
   seat: tsuiwu
   population: 40000
+  territorial_population: 2600
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]

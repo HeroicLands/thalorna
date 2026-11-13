@@ -37,6 +37,7 @@ data:
         Held by a Householder named by the council. Allots the beach of the southern cove and the drying racks among the boats, and keeps the reef channel's marks.
   seat: hitusel
   population: null
+  territorial_population: 2000
   economy: []
   lore: [humanflk]
   parents: [sazumun]

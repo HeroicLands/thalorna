@@ -32,6 +32,7 @@ data:
         Held by a Lord, raised to it for things done and by every voice. Governs Aelirosse after the Senali manner, which is not the manner of a human lordship.
   seat: aelirosse
   population: 120
+  territorial_population: 120
   economy: []
   lore: [flksenali]
   parents: []

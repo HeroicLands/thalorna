@@ -58,6 +58,7 @@ data:
         Runner: a young townsperson or initiate who carries word along the straight roads, word for word, and whom every town must feed and let pass.
   seat: null
   population: 150000
+  territorial_population: 6600
   economy: []
   lore: [teyumiclt]
   parents: []

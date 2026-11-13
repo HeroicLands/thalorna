@@ -62,6 +62,7 @@ data:
         Priest of the provincial cult, presiding over the rites that bind the province to the capital.
   seat: alyssar
   population: 7000000
+  territorial_population: 170000
   economy:
     - affiliation-tarmex
     - affiliation-danvar

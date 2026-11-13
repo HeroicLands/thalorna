@@ -49,6 +49,7 @@ data:
         Held by a Master named by the board. Hears the town's debts, thefts and brawls, and sentences to fines, flogging or the arena.
   seat: sharimun
   population: null
+  territorial_population: 30000
   economy: []
   lore: [humanflk]
   parents: [besikar]

@@ -25,6 +25,7 @@ data:
     offices: {}
   seat: byzaris
   population: null
+  territorial_population: 30000
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

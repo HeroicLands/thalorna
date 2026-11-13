@@ -44,6 +44,7 @@ data:
       Keeper of the Harbors: Held by the Woju, who keep the roll of the anchorages, moorings and tolls of the domain.
   seat: yuwu
   population: 70000
+  territorial_population: 9000
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]

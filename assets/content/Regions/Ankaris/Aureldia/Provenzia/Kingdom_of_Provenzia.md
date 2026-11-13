@@ -69,6 +69,7 @@ data:
         Held by a member of the Lesser Nobility or above, appointed by the King. Holds the eastern march for the crown from Durvalis: its walls and garrison, the spring muster and autumn dispersal of its levy, and the peace of the Winter Assize while it sits.
   seat: jalnazdal
   population: 5000000
+  territorial_population: 260000
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: []

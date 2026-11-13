@@ -50,6 +50,7 @@ data:
         Seat Holder: a noble of the house that sits first, sent each summer with a Speaker to hold the coast's seat at the council of the Red Stone Compact; he can promise only what the first seat has agreed.
   seat: tsilkasis
   population: 200000
+  territorial_population: 9900
   economy: []
   lore: [kelwanukclt]
   parents: []

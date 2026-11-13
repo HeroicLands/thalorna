@@ -26,6 +26,7 @@ data:
     offices: {}
   seat: kherzulakhem
   population: null
+  territorial_population: 400
   economy: []
   lore: [humanflk]
   parents: []

@@ -27,6 +27,7 @@ data:
         Held by a Subject of the Greater Nobility of the realm, who holds the western march of the crown directly. Governs the march from Hárivren City, keeps its courts and tolls, receives the fealty and levies of its barons, brings the march's levy to the crown, sits for the march in the Council of Peers, and hosts the Lordeme every fifth year.
   seat: harivrencity
   population: 750000
+  territorial_population: 38000
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

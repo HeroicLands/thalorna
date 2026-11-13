@@ -38,6 +38,7 @@ data:
         The one who meets the wood's guests at its edge, named by the Keeper from among the lords. Fetches in the embassies the wood receives, hears them, and gives them the Keeper's answer.
   seat: hallowwood
   population: 4000
+  territorial_population: 4000
   economy: []
   lore: [flksenali]
   parents: []

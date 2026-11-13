@@ -35,6 +35,7 @@ data:
         A sorhand who meets the priests, the crown's sheriffs and the cloth-buyers when they come up the track, and answers for the village to them.
   seat: kelpasi
   population: null
+  territorial_population: 280
   economy: []
   lore: [humanflk]
   parents: [kngdmlvndr]

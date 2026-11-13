@@ -49,6 +49,7 @@ data:
         Held by an Islander or an Ithakan. Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.
   seat: ilovanu
   population: 3000000
+  territorial_population: 34000
   economy: [lore-bartercnmy]
   lore: [humanflk]
   parents: []

@@ -44,6 +44,7 @@ data:
       Keeper of the Court Treasury: Held by the Weiju, who keep the strongroom of the Dawn Court at Tsaimu and the roll of what is paid into it.
   seat: kowu
   population: 42000
+  territorial_population: 3200
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
