@@ -34,6 +34,10 @@ data:
     complexion: [clear]
     face_shape: long
     nose: straight
+    hair_texture: wavy
+    hair_style: knotted
+    brow: bushy
+    mouth: thin
     extra_features:
       - a long straight nose in a narrow face
       - an ink stain on the second finger of the right hand

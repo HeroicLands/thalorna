@@ -26,6 +26,10 @@ data:
     complexion: [weathered]
     hair_style: braided
     nose: crooked
+    hair_texture: wavy
+    face_shape: square
+    brow: arched
+    mouth: full
     extra_features: [crooked nose]
   packFolder: aureldiatarvenia
 sohl:

@@ -26,6 +26,10 @@ data:
     complexion: [scarred]
     face_shape: long
     brow: arched
+    hair_texture: wavy
+    hair_style: shoulder_length
+    nose: straight
+    mouth: full
     extra_features: [a scar running across the stomach]
   packFolder: northernfertileregionbethua
 sohl:

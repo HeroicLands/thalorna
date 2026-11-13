@@ -31,13 +31,14 @@ data:
     skin_color: medium
     complexion: [weathered]
     hair_style: braided
+    facial_hair: short_beard
     extra_features: [hands stained grey to the wrist by the lime of the channels]
   packFolder: aureldiaaelwyth
 ---
 
 # Appearance {#appearance}
 
-Rimik Tabar-suláth (_REE-meek tah-bahr-soo-LAHTH_) is a Khazár woman of 4'8" and heavy build, with medium, weathered skin, black hair braided close to the head and dark brown eyes. Her hands are stained grey to the wrist by the lime of the channels. She wears a leather apron over a working coat and carries a sounding hammer at her belt.
+Rimik Tabar-suláth (_REE-meek tah-bahr-soo-LAHTH_) is a Khazár woman of 4'8" and heavy build, with medium, weathered skin, black hair braided close to the head, a short black beard and dark brown eyes. Her hands are stained grey to the wrist by the lime of the channels. She wears a leather apron over a working coat and carries a sounding hammer at her belt.
 
 # Dossier {#dossier}
 

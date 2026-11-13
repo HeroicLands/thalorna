@@ -26,6 +26,10 @@ data:
     complexion: []
     hair_style: short
     nose: broad
+    hair_texture: straight
+    face_shape: broad
+    brow: bushy
+    mouth: wide
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -26,6 +26,10 @@ data:
     complexion: [clear]
     face_shape: heart
     nose: broad
+    hair_texture: wavy
+    hair_style: knotted
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: ankarisvedyara
 sohl:

@@ -27,6 +27,11 @@ data:
     complexion: []
     hair_style: shoulder_length
     facial_hair: none
+    hair_texture: wavy
+    face_shape: square
+    nose: aquiline
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

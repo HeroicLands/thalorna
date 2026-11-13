@@ -36,6 +36,10 @@ data:
     complexion: [clear]
     hair_texture: straight
     hair_style: short
+    face_shape: oval
+    nose: crooked
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: aureldiaaelwyth
 ---

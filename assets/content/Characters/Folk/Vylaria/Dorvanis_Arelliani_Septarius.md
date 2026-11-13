@@ -34,6 +34,12 @@ data:
     hair_color: grey
     skin_color: medium
     complexion: [smooth, wrinkled]
+    hair_texture: curly
+    hair_style: short
+    face_shape: oval
+    nose: crooked
+    brow: straight
+    mouth: thin
     extra_features: [a bald crown, a deep crease between the brows]
   packFolder: midhalionvylaria
 ---

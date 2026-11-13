@@ -28,6 +28,9 @@ data:
     face_shape: oval
     nose: aquiline
     brow: arched
+    hair_texture: wavy
+    hair_style: shoulder_length
+    mouth: small
     extra_features: []
   packFolder: regkhhk
 sohl:

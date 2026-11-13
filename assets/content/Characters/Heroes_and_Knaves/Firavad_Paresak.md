@@ -26,6 +26,10 @@ data:
     complexion: [weathered]
     nose: hooked
     mouth: full
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: oval
+    brow: bushy
     extra_features: []
   packFolder: dunharatribes
 sohl:

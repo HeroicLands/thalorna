@@ -31,6 +31,12 @@ data:
     skin_color: fair
     complexion: [wrinkled]
     facial_hair: braided_beard
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: round
+    nose: straight
+    brow: arched
+    mouth: full
     extra_features: [a long white beard kept in a single plait]
   packFolder: aureldiaaelwyth
 ---
