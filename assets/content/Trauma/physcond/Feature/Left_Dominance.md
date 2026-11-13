@@ -4,7 +4,7 @@ name: {full: Left Dominance}
 type: trauma
 subType: physcond
 tags: []
-data: {icon: hand, templatePriority: 0, packFolder: traumaphysical}
+data: {kind: physcond, icon: hand, templatePriority: 0, packFolder: traumaphysical}
 sohl: {kbcat: physfeature, system: {category: trait}}
 ---
 
