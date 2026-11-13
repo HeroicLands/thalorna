@@ -9,8 +9,9 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [khamisar]
-  population: 180000
-  market: international
+  population: 9900
+  type: town
+  market: regional
   packFolder: taruzel
   government: yamuzel
   notes: "The Confederation's naval stronghold on the narrows between the islands of Taruzel: a fortress over the strait, the yards that build the fleet, admirals' houses on the height, and a Veterans' Quarter where the war's children have come of age."

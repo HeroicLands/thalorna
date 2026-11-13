@@ -10,7 +10,8 @@ data:
   demonym: null
   lore: []
   parents: [iuthnetselat]
-  population: 42000
+  population: 9900
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatiuthnet

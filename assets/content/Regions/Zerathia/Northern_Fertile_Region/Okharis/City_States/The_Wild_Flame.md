@@ -9,7 +9,8 @@ data:
   demonym: null
   lore: []
   parents: [okharisrgn]
-  population: 12000
+  population: 9900
+  type: town
   market: regional
   packFolder: citystates
   government: okharis

@@ -9,7 +9,8 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [amradadrgn]
-  population: 30000
+  population: 9900
+  type: town
   market: regional
   packFolder: amradad
   government: kngdmmrdd

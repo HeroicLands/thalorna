@@ -10,7 +10,8 @@ data:
   demonym: null
   lore: []
   parents: [maguathenslt]
-  population: 22000
+  population: 9900
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatmaguthn

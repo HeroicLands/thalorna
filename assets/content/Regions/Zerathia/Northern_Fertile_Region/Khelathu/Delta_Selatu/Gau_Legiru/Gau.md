@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [gaulegirunome]
   population: 45000
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatgaulegr

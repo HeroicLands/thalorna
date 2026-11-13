@@ -10,7 +10,8 @@ data:
   demonym: null
   lore: []
   parents: [zugernome]
-  population: 39000
+  population: 9900
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatzuger

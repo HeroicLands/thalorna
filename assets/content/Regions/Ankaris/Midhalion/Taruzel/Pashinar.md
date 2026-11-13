@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [qalirel]
   population: 12000
+  type: town
   market: regional
   routes:
     - {to: besikar2, bearing: NW, mode: land, days: 5, terrain: [hills, road]}

@@ -10,7 +10,8 @@ data:
   demonym: null
   lore: []
   parents: [qeltlenlegirnome]
-  population: 15000
+  population: 9900
+  type: town
   market: regional
   packFolder: regkhsett
   government: seltqltlnlgr

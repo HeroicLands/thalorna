@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [chendrapurland, chandrmahi]
   population: 16000
+  type: town
   market: regional
   routes:
     - {to: chendrapur2, bearing: N, mode: boat, days: 1, terrain: [river]}

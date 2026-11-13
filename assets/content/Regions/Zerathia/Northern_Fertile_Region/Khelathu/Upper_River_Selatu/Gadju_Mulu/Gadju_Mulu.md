@@ -10,7 +10,8 @@ data:
   demonym: null
   lore: []
   parents: [gadjumuluslt]
-  population: 27000
+  population: 9900
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatgadjuml

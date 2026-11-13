@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [vyalendraland]
   population: 12000
+  type: town
   market: international
   routes: [{to: tantsouregin, bearing: NE, mode: ship, days: 45, terrain: [open-sea]}]
   packFolder: vedyara

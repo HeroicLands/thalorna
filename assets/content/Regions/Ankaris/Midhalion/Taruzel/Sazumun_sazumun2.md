@@ -9,7 +9,8 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [visizel]
-  population: 200000
+  population: 9900
+  type: town
   market: international
   routes: [{to: hitusel, bearing: N, mode: land, days: 1, terrain: [road, coast]}]
   packFolder: taruzel

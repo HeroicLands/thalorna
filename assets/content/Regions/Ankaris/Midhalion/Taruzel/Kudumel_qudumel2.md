@@ -9,8 +9,9 @@ data:
   demonym: Kudumelian
   lore: [humanflk]
   parents: [nishurel]
-  population: 220000
-  market: international
+  population: 9900
+  type: town
+  market: regional
   routes: [{to: amradadrgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}]
   packFolder: taruzel
   government: qudumel

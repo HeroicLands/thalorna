@@ -10,7 +10,8 @@ data:
   demonym: null
   lore: []
   parents: [garqeztuselt]
-  population: 13000
+  population: 9900
+  type: town
   market: regional
   packFolder: regkhsett
   government: selatgarqezt
