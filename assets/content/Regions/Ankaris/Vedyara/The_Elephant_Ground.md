@@ -30,13 +30,13 @@ Living elephants refuse the slope at any season, by day or night, and a mahout w
 
 Nobody tends the field. The [[affiliation-agmipantra|Agmi-pantra]] tried to burn it about 280 AF against the kings' ban, and it was a recurrence before the sect came and a recurrence after.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The tusks under the cairn.** A Kulena's house in [[place-chendrapur2|Chendrapur]] wants the tusks of a famous war-elephant said to lie under a cairn at the center of the slope. Digging there takes more than one day, and the house wants it done by night, when nobody will see the hole.
 - **The war-chest.** A court asks for a Threshold-keeper's warrant to question a dead general about the war-chest Purnatir lost on the field. The warrant is refused on both its grounds at once, war and trade, and the claimant starts looking for someone less particular.
 - **A night's wages.** A droveway keeper offers good money to anyone who will spend nine nights on the slope counting what passes, because a lineage claims the field has grown.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-fieldelephnt|The Field of Elephants]]—the battle that made it
 - [[lore-bloodfield|Blood-fields]]—what a _shorukshetra_ is

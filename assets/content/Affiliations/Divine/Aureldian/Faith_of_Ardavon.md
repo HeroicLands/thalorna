@@ -77,7 +77,7 @@ Another major observance is the [Sanctification of Swords]{.name data-type="lore
 
 Individual piety to Árdavon takes the form of adherence to a personal code of honor. The devout are expected to maintain their oaths without exception, to defend the weak, to punish the wicked through lawful means, and to submit to legitimate authority while remaining vigilant against tyranny. Many Árdavan households maintain a shrine with a twin-faced representation of the god, and the faithful may spend hours in quiet meditation before the shrine, contemplating the balance between compassion and justice, between mercy and law. The making of vows to Árdavon is treated with great gravity—a broken oath is not merely social disgrace but cosmic offense, believed to bring direct divine punishment upon the oath-breaker and their bloodline.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Árdavon is the most powerful and politically influential of any Aureldian faith, second only to [[affiliation-sacredforge|the Sacred Forge]] in sheer institutional wealth and territorial control. At its head stands the **Volsarnor**, the High Judge and keeper of cosmic law, a position of supreme ecclesiastical and often political authority. The Volsarnor is final arbiter of Árdavan doctrine and maintains headquarters in the greatest temple, typically located in the capital city of whatever kingdom grants the faith its primary patronage. The current Volsarnor, based in the [[place-provenzrgn|Provénzia Region]], is a formidable figure whose counsel influences the decisions of kings and city councils across western Ankaris.
 

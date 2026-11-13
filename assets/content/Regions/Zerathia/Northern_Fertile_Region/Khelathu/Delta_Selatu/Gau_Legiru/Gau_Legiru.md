@@ -15,7 +15,7 @@ data:
   government: selatgaulegr
 ---
 
-## Overview
+## Overview {#overview}
 
 "Learn the olive first," an orchard-keeper tells a traveler who has stopped at a wall to look at the view. "The vine tells you what a year was. The olive tells you what ten years were." Gau-Legiru, "the fair land of [[place-gau|Gau]]," is the garden coast of [[affiliation-deltaselatu|the Delta Selatu]] and the land of [[affiliation-selatgaulegr|the Selat of Gau-Legiru]], one of the delta's ten selatu in the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
@@ -27,7 +27,7 @@ Where [[affiliation-selatgrnlght|the Selat of Gar-Anlaghet]] is all quay and cou
 
 Luxury agriculture is the whole of its economy. The selat grows and processes the empire's wine, olive oil, citrus, figs and dates, high-value crops that travel well and sell dear, especially abroad. The wines of Gau-Legiru and the dates of the eastern plantations are named articles of trade in Midhalión, and the oil presses supply temple and table across the empire. Much of the land is held in large villa-estates run for the market and worked by tenants and seasonal labor, and the selat imports its bread-grain from upriver as readily as the ports do. The birth-shrines and healing-temples of [[lore-uzneradty|Uzn'era]], goddess of the fertile land, stand among the orchards.
 
-## Settlements
+## Settlements {#settlements}
 
 Gau (~45,000)
 : the selat capital, an old, prosperous market-and-temple town set back a little from the coast; the great temple of Uzn'era, the produce-markets where the orchard harvest is bought and shipped, and the administrative seat of the Halzi'a.
@@ -38,7 +38,7 @@ Gau (~45,000)
 The orchard villages
 : dozens of small farm-and-press communities of 500–2,500 dot the garden strip, among them [[place-gariuget|Gar-Iuget]], [[place-lutlegiru|Lut-Legiru]], [[place-zmachezu|Zma-Chezu]], [[place-yathkhelenet|Yath-Khelenet]] and [[place-garshelu|Gar-Shelu]], each tending its groves and vines and sending oil, wine and fruit to the market-towns.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgaulegr|The Selat of Gau-Legiru]]
 : The selat that holds this land

@@ -12,7 +12,7 @@ Of the eight domains, **Qar'kuzu** is the one the others stand on. In the tradit
 
 It is not one domain among eight but the frame, with [[lore-zelgut|Zelgút]], inside which the other six work. A lekhau does not learn [[lore-athenuqa|Thelqen'Uqa]] as one subject and Qar'kuzu as another, but learns Thelqen'Uqa as one of the ways order is maintained against the alternative.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garqarquzu|Gar-Qar'kuzu]]
 : the House that holds the domain

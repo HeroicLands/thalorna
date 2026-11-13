@@ -20,7 +20,7 @@ Rajepur Janpoda, the land held by the [[affiliation-rajeprjnpd|Rajepur Janpoda]]
 
 What a stranger notices first is how far the houses stand from the river. The Mahanodi moves, and the villages keep a mile back from it, on old levees and raised mounds, with the fields between. [[place-nadipada|Nadipada]], the fishing village, is the one that lives on the bank.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql
 SELECT s.address.slug AS _ref,
@@ -55,7 +55,7 @@ The cultivator villages grow the standard Vedyari mix of rice, cotton and pulse.
 
 Floodplain farming, the sugar, the manuscript trade out of the scriptoria of [[place-lipigram|Lipigram]] and the temple, and the pilgrim economy of the [[affiliation-vyalendra|Vyalendra]] temple together leave the janpoda a comfortable surplus most years. The pilgrims of the spring festival are fed from that surplus, and [[place-pushpaban|Pushpaban]] garlands the temple for them.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-rajeprjnpd|Rajepur Janpoda]]
 : the temple-republic that holds this land

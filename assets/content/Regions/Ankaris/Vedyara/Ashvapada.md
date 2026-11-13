@@ -30,7 +30,7 @@ Ashvapada is the second stage of the escort. A caravan pays here for the run wes
 
 The [[affiliation-svapnasarisameja|Svapnasari-sameja]] keeps a house above the town on the hill road, and one of its dream-readers sits at the fair through both months. Sellers and buyers both consult him, separately and about each other, and the sect takes no fee at the fair and a good deal of grain afterward. A dealer from the river country, asked how to buy at Ashvapada, gives a newcomer the practical reading of that: "Assume the man across the pen has already slept on you."
 
-## See Also
+## See Also {#see-also}
 
 - [[place-marchroad|The march road]] · [[place-sandyapur|Sandyapur]] · [[place-marukupa|Marukupa]]
 - [[affiliation-bhumipal|Bhumipal]]—the kingdom

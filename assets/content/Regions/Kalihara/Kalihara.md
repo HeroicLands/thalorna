@@ -57,7 +57,7 @@ data:
 sohl: {system: {commonSkills: [kalihrlng, valtarlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Kalihara is the only country in the world that has never had a war, and the only one whose people say their civilization was given to them. A Helionite factor who has traded at [[place-ilovanu|Ilovanu]] for twenty years tells a newcomer both things on the first evening, and then admits that they are the whole of what he knows for certain. The island lies in the western ocean, four hundred and fifty to seven hundred miles west of the [[place-okharisrgn|Okharis Region]] and the [[place-provenzrgn|Provénzia Region]], about a week's sail in fair weather and out of sight of land the whole way, and it holds one of the oldest continuous civilizations on [[place-worldthlrn|Thalorna]], older by millennia than the arrival of the [[lore-flksenali|Senali Folk]] and the [[lore-flkkhazar|Khazár Folk]]. Three million Kaliharans live on it. Outsiders are almost never admitted to the interior, and the rare one who is goes in through [[place-klhrcldpss|the Cloud Pass]] blindfolded. Trade with the world runs through four ports on the eastern coast, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
 
@@ -135,11 +135,11 @@ The Ithakan carry great influence and are not rulers in any conventional sense. 
 
 The result is a society that has avoided the cycles of expansion, civil war and collapse that mark most civilizations on Thalorna. Kalihara has never had an empire, never fought a war of conquest, and never suffered the dynastic upheavals that reshape continental nations every few centuries. Whether the stability comes from the councils, from the commitment to Thári-vaan, from the island's isolation, or from all three together is a question Kaliharan scholars presumably debate among themselves, and not with outsiders.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Kalihara stands outside the continental monetary systems. Internal commerce runs substantially on [[lore-bartercnmy|barter]] and on the island's own traditions of lineage credit, and the few foreign coins that reach the island through the port trade are valued as exotic goods and not as money. No foreigner has seen how the interior settles a debt, and no Kaliharan has explained it; what the ports take for spice and stones is foreign goods, foreign coin by weight, and letters of credit the merchant houses of Ilovanu honor among themselves.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrcntnnt|Kalihara]]
 : the island, its seas, and the long way home

@@ -133,7 +133,7 @@ The smoke counted from the company's towers has risen through the spring. The to
 - **The tower that lit its fire.** A Hrendskari tower lights its basket at midnight, the signal for a war-band crossing. No other tower saw anything. The warden swears to what she saw, and the _vandraks_ needs to know whether she lied or the other towers slept.
 - **The therkos's offer.** A rider from Tirellan brings the captain a sealed letter from the _therkos_ and waits for an answer. Knarvselda asks a party she trusts to carry her reply and to watch who opens it on the road.
 
-## See Also
+## See Also {#see-also}
 
 [[place-dolvar|Dolvar]]
 : the legion fortress-town below the company's towers

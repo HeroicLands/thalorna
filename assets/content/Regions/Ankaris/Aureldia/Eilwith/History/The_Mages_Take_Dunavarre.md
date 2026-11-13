@@ -63,14 +63,14 @@ The kingdom's own chronicles tell this as a natural evolution, and the account i
 
 The Synod governs from Ravenmoor, with no head named outside its closed session. Its arm is the [[affiliation-justbladeordr|Order of the Just Blade]], whose Knight-Captains command the realm's forces under the Synod's authority and carry the principles of the [[affiliation-ardavon|Faith of Árdavon]] into the field. The arrangement gave the Arcane Order the one kingdom in the world where it holds direct power, and it gave the island's other courts a neighbor that can withdraw their advisors.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Synod.** A closed session of Arcane Order mages that sets policy, judges, commands and answers to nobody outside it.
 - **The empty chair.** The last king's seat in Ravenmoor's hall, kept and never filled, which petitioners to the Synod are shown on their way in.
 - **A darker telling.** Aldorath's and Ondareth's account of how it was done, kept alive as a reason for caution.
 - **The compulsory call.** The Synod's rule that every ship between the island and the mainland put in at Ravenmoor, which it institutes in 660 AF.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmdnvr|The Kingdom of Dúnavarre]]
 : the realm the Synod governs

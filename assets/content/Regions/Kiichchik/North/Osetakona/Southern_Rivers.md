@@ -17,7 +17,7 @@ data:
 # terran_analog: the Allegheny plateau and the upper Ohio valley, western Pennsylvania and southwestern New York, with the Erie and Monongahela country as models
 ---
 
-## Overview
+## Overview {#overview}
 
 The Southern Rivers (_tionhseka ohiatse_) are the River People's country: a broad upland of forested ridges south of the lakes, cut by rivers that all run south toward [[place-hanalxilanrgn|Ha'nal Shi'lan]] and the country of the [[affiliation-tokchiaska|One Fire]]. About 140,000 people live here, the River People of the [[affiliation-osetakona|Osetakona]], in the southwestern part of the [[place-osetakonargn|Osetakona Region]]. It is the Grove's best farmland after the Falls Country, and its only border where the fighting never stops.
 
@@ -43,7 +43,7 @@ In peace the rivers carry trade south: copper, furs and maple sugar going down t
 
 The River People accuse the One Fire of raiding their valleys under cover of pipe kinship, and say so at every council of the [[affiliation-redstncmpct|Red Stone Compact]]. The One Fire answers that the River People's villages are being built on its land. Within the Grove the River People have a second grievance: the copper of the [[place-kahnionrgn|Western Lakes]] goes south to the One Fire and comes back as war clubs, and the Copper People will not agree to stop selling it. The River People's speakers raise the question at every great council, and every great council ends without agreeing.
 
-## See Also
+## See Also {#see-also}
 
 [[place-osetakonargn|Osetakona Region]]
 : the whole land of the Maple People

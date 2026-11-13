@@ -14,7 +14,7 @@ data:
   government: kingdmlnrk
 ---
 
-## Overview
+## Overview {#overview}
 
 Ornetho is the gray city in a red country. Every other town of [[place-leonrik|Lyenrik]] is built of the brick the lowland clay makes, and Ornetho is built of cut stone hauled down from the mountains it stands under, in a ring of walls so tall and so straight that they show as a gray line across the green for half a day's ride up the [Thalsira]{.name data-type="place/feature"} valley. The city takes its name from what stands behind it: _orneth_ is a mountain as it is seen from below, and the peaks of [[place-asturath|Asturath]] fill the sky over its north wall.
 
@@ -50,7 +50,7 @@ The city's faith keeps a soldier's shape. [[lore-ardavondty|Árdavon]] of gates 
 
 The Empire built Ornetho after it took the lowlands about 140 AF ([[lore-lowlandstaken|The Lowlands Taken]]), and it was the garrison city of the occupied march for four centuries, the seat from which the Empire governed Lyenrik and watched the mountains. When the lowlands stopped paying and the garrisons were driven out ([[lore-tarvfallsawy|Tarvénia Falls Away]]), the new kings of Lyenrik took the city whole, kept the legions' rule of twelve at its gates and turned every tower of the chain but the north gate's to face the coast. The castellancy has gone to a son or a brother of the king since the kingdom was founded.
 
-## See Also
+## See Also {#see-also}
 
 [[place-leonrik|Lyenrik]]
 : the lowland country whose northern gate the city holds

@@ -44,7 +44,7 @@ The two councils do not at present agree who is to be acclaimed after the presen
 
 Everyone at court can name which side a given delay belongs to.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-shikhalaya|Shikhalaya]] · [[place-suryagarha|Suryagarha]]
 - [[lore-passcharter|The Charter of the Pass-Road]]—the two halls and the councils that sit in them

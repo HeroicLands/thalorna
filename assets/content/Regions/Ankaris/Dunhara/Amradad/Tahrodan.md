@@ -14,7 +14,7 @@ data:
   government: kngdmmrdd
 ---
 
-## Overview
+## Overview {#overview}
 
 Tahrodan is the fortress city of the caravan road and the largest city of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], thirty thousand people inside walls that every caravan from the desert interior must pass on its way to the coastal ports and the merchant cities of [[place-taruzelrgn|Taruzel]]. Its governor holds it for the Shebarader with a garrison of mounted warriors who keep the roads clear of raiders for a day's ride in every direction, and the tolls collected at its gates are one of the pillars of the Shebarader's treasury.
 
@@ -22,7 +22,7 @@ Its bazaars are as crowded and various as those of [[place-sazumun2|Sazumun]] an
 
 The fire-temples of the [[affiliation-ashanpnthn|Ashaian gods]] fill the city's central district, and their priests are a power in Tahrodan: they hold great estates in the surrounding oases and the spiritual authority that goes with the temples. The governor must be seen to keep the rites and honor the priests, and the priests need the governor's soldiers and his tolls, so neither can rule without the other, and no decision of weight is made in Tahrodan until both have been heard.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : the realm the city serves

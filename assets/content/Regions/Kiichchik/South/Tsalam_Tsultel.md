@@ -14,7 +14,7 @@ data:
   packFolder: ixbaltzaku
 ---
 
-## Overview
+## Overview {#overview}
 
 A llama-train coming up to the pass halts at a stone gate in the mist, and nothing goes through it until every bale has been opened, named and knotted on a cord. Ts'alam Ts'ultel, Spring Mountain, is the fortress of the highest pass through the mountain range that runs the length of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]: about 15,000 people in a city cut into the living rock, commanding the road between the western valleys and the eastern ones. Every load that crosses the mountains passes it, and every load pays.
 
@@ -36,7 +36,7 @@ A merchant declares his cargo at the gate. The cord-keepers knot each load, its 
 
 The toll makes the fortress rich, and almost none of the wealth stays in the upper city. Life there is plain and martial. The people are soldiers, their families, the storehouse keepers and a few merchants who sell to the garrison, and rank and standing in the garrison decide almost everything.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
 : the realm that holds the fortress

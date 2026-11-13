@@ -78,7 +78,7 @@ The major festivals fall at the height of the annual inundation, when the river 
 
 At home a devotee keeps a shrine with offerings of food, drink, flowers or incense. Many homes put an image of Thuba'i in a dining area or bedchamber to remind the household to appreciate its comforts. People weighing an important business deal, an artistic project or a romance make a special offering to ask his favor, and evening meals often end with a ritual toast to him, a moment of gratitude for the food and a hope for continued prosperity.
 
-## Organization
+## Organization {#organization}
 
 The priesthood is organized around the temples, which are centers of feasting and celebration as much as places of worship. The Thaz'Lekhau (High Priest) is typically chosen for spiritual knowledge and also for a demonstrated ability to organize festivals and keep the temple's reputation for generosity and excellent food. Beneath serve the Lem'Nelgir (ordained priests), who oversee different parts of the temple's operation: the keeper of the wine vaults, the keeper of the granaries and the keeper of the festival calendar.
 

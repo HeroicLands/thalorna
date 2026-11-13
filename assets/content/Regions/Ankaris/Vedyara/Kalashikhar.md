@@ -22,7 +22,7 @@ data:
 
 There is no shrine on Kalashikhar. [[place-pssshrines|The Pass-Shrines]] hold every other high point of the crossing roads, and the absence here is old enough that the orthodox explanation—that the mountain belongs to [[lore-kalavratadty|Kalavrata]] and needs no house built for him—is younger than the absence it explains. [[affiliation-hvarnguides|The Hvarn]] who take caravans under it give it a wide berth on the western side for reasons they describe as weather.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-shankhadvr|Shankhadvar]] · [[place-sangrafort|the Sangra-fort]]
 - [[affiliation-hvarnguides|The Hvarn]] · [[affiliation-kalavrata|Kalavrata]]

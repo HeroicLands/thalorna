@@ -190,7 +190,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the sale of the road. The Osket remember in detail the two occasions on which a lineage sold the Guides' Road, and say what they say about them among themselves. A lowlander who learned the road would be worth killing, and an Osket who sold it is worth more, and the Osket deal with the seller themselves and have never explained how. The sixth road carries passage for people and packets that cannot be seen to cross, paid in advance and in gold, and the Pass-Shrines' refusal to bless it is older than any of the four reasons given for it. The lineages of the western passes do not discuss the lowlander at all.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-osketguides|The Osket]]
 : the hearths, their ranks and their offices

@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Selat of Gau-Legiru holds the land of [[place-gaulegirunome|Gau-Legiru]], and it is the prettiest country in the empire. The merchant-princes of [[affiliation-selatgrnlght|the Selat of Gar-Anlaghet]] and the other ports keep their country villas here, so the selat is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[lore-uzneradty|Uzn'era]], goddess of fertility and abundance, which suits a land that exists to grow good things.
 
@@ -72,11 +72,11 @@ The working population is a broad class of orchard smallholders, tenant farmers,
 
 Run Gau-Legiru as the empire's pleasure-garden: wealth at rest, the country-estate counterpart to the ports' counting-houses. The conflicts are quieter and more personal than in the harbor selatu. They are villa rivalries and marriage alliances among the merchant gentry, the vintners' jealousies over the best slopes and the most prized labels, smuggling of high-value wine and oil to dodge the customs, poison and inheritance among the leisured rich, and the resentment of the orchard tenants beneath the comfortable surface. It is the natural place for the softer side of delta intrigue, since a foreign agent or a fugitive courtier is far likelier to hide in a Gau-Legiru villa than in a [[place-garanlaghet|Gar-Anlaghet]] warehouse. Wine, oil, fruit and leisure are abundant here. Grain is scarce and imported, and so is any trace of the delta's harder edge.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gau-Legiru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Its high-value export trade means its great estates deal readily in struck silver and gold and in the foreign coin that comes back from Gar-Anlaghet's harbor, banked and exchanged through the [[affiliation-garhalzi|Gar-Hálzi]] agents who serve the merchant villas. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

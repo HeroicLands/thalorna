@@ -17,7 +17,7 @@ His great house is the war-temple at [[place-balehen|Balehen]], the double-walle
 
 Qeztu is a selat god without a myth. He is Balehen's god: the fortress's oath and its cataract. His demand at the weighing is the soldier's oath kept.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-qeztu|Faith of Qeztu]]
 : the cult and its offices

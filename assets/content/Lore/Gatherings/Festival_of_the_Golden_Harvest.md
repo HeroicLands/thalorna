@@ -34,7 +34,7 @@ Hospitality at the Golden Harvest is a display of credit, as it is all year on t
 
 In the trading cities of the [[place-provenzrgn|Provénzia Region]] the Golden Harvest is the summer [[lore-pozerasdty|Pozeras]] the Wayfarer stayed at Ólvenia's table, as [[lore-boughtlonging|How the South Bought Longing]] tells it, which is why the temples of the two gods stand side by side there. Patrons commission singers for their tables, and a divided question such as [[lore-orderqstn|The Divided Question of the Order]] is sung at a patron's table on the second night. The singers who have no patron sing in the temple squares, and [[lore-namelessjar|The Song of the Nameless Jar]] is theirs.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-olvenia|Faith of Ólvenia]]
 : the faith that keeps the festival

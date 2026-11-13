@@ -14,7 +14,7 @@ data:
   government: kirofatrb
 ---
 
-## Overview
+## Overview {#overview}
 
 Kirofa Village is the seat of the [[affiliation-kirofatrb|Kirofa tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

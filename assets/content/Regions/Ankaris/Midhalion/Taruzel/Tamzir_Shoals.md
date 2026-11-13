@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [zupumun], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Tamzir Shoals lie in the channels of the **Taruzelian archipelago**, the islands of [[place-taruzelrgn|Taruzel Region]] that lie across a strait from the Amradi coast, and every pilot on the coast gives a newcomer the same first warning about them: do not take a deep-keeled ship into those waters without someone aboard who knows them. The Shoals are a maze of sandbars, submerged rocks and hard currents in the channels of [[place-zupumun|Zupumun]], filling the water between the western shore of [[place-khamisar|Khamisar]] and the eastern coast of [[place-visizel|Visizel]], some twelve miles from north to south and eight across. A ship that does not know the channels finds the sand.
 
@@ -51,7 +51,7 @@ Three parties want the rams, and the water keeps them. The admirals of Yamuzel w
 - **The factor's offer.** A Vilérian factor in the eastern harbors offers a party good silver to bring him word of any ram raised from the Shoals, and the admirals of Yamuzel offer the same party more to bring the ram to them.
 - **The pilot.** A League master bound through the channels west of Khamisar wants a Brotherhood pilot without his owners hearing of it, and asks a party to meet the boat that comes out at dusk.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the state the battle founded

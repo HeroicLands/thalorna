@@ -229,3 +229,5 @@ A person under an unsettled feud stands outside the confederation's protection u
 
 [[lore-khzrnclndr|The Tellumi Calendar]]
 : the Shekhulukhem's reckoning
+
+[[affiliation-hshldrlvnnsh|Household of Relvanninesh]]

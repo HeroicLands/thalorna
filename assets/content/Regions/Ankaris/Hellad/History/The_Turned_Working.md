@@ -84,7 +84,7 @@ No herald could cross the ground to take the dead home, for either army. The [[l
 - **[[place-korinthea2|Korinthea]]'s shame**, and with it the loss of standing of its assembly. The city's law has been kept at the temple of the [[affiliation-ardavon|Faith of Árdavon]] since, under a line of High Judges that begins with [Nomason]{.name data-type="being/npc"} in the year of the battle.
 - **The Helionite reading** that magic failing on a battlefield is exactly what a large working does, which the cities formed on this plain and still repeat.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-helionscnq|The Conquest of Helionis]]—the war this battle belongs to
 - [[lore-dragondead|The Dragon Dead at Theradon]]—the Riders' first year

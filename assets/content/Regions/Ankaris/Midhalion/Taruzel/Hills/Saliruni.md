@@ -87,7 +87,7 @@ The unpaid share is the tribe's quarrel, and this season the tribe has acted on 
 - **The refusal.** [[being-llmnblnn|Ellamuna Balinuni]] wants a Saliruni guide who will take her train over the hills, and hires a party to find one who can be persuaded.
 - **The councilor.** The household of the missing Tribal Councilor asks a party going up into the hills to carry word to him that the council at Kudumel is sitting.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tulurel|Tulurel]]
 : the hill country

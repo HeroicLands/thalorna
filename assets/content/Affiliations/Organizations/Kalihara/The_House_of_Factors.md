@@ -71,7 +71,7 @@ The House wants what a port wants: more hulls, lower pilot fees and the approach
 
 The Council allows the House its trade and sends the harbor-wardens to watch it; the House sends its views to the Council through the Councilor of the ports. [[affiliation-wardensapproaches|The Wardens of the Approaches]] are its constant antagonist, since the pilots' fees and the harbor-wardens' inquiries fall on the House's cargoes. Nalurithan's merchant houses are Ilovanu's rivals for the gem trade, and the quarrel is kept to prices and letters. The language of the House's business is [[skill-valtarlng|Valtari]].
 
-## See Also
+## See Also {#see-also}
 
 [[place-ilovanu|Ilovanu]]
 : the port whose council the House is

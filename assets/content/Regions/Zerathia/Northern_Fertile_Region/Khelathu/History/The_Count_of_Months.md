@@ -32,7 +32,7 @@ The age holds fourteen houses in all. The Keepers give the rest as the list give
 
 The age closes in 2281 ST (171 AF), when the priesthood crowns the house the necropolis calls [[affiliation-garzinelrelu|Gar-Zin'el'Relu]], the struck house. From that crowning the list gives every reign whole ([[lore-akhstruckhs|the Struck House]]).
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhrestcrown|The Restored Crown]] · [[lore-akhstruckhs|the Struck House]]
 : the ages on either side

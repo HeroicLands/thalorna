@@ -101,7 +101,7 @@ The major ceremony is the [Ts'uqal Ne']{.name data-type="lore/custom"} ("Moon Wa
 
 The goddess is given little blood and a great deal of water. Offerings are flowers, incense, jade and clean water carried some distance to be poured; the branch teaches that to bring water to water is the plainest way of saying that the gift is the labor. Fouling a sacred pool, by contrast, is the gravest sacrilege the branch recognizes, and the **Warden of the Sacred Pools** may bar an offender's whole household from the water—a sentence of practical exile.
 
-## Organization
+## Organization {#organization}
 
 The priesthood is unique in being almost entirely female—the Ch'alish Ha'nal (Keeper of Waters) is chief healer of the city-state, the Ch'alishbal Ts'ab (birth priestesses) attend all significant births, and the Ch'alishbal Pul'ik (healing priestesses) maintain gardens of medicinal plants near water sources. Their accumulated archives of healing knowledge make them the most advanced practitioners of medicine in Kì'ì'chek civilization.
 

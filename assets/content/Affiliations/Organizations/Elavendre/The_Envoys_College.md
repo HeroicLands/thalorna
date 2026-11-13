@@ -77,7 +77,7 @@ The Master holds that an envoy must know the Order to speak to it, and that the 
 - **Under the College's name.** An Envoy of the College needs a party to walk with him to a house beyond Péravel, because a letter he carries is read by three people before it is delivered.
 - **The Circle's displeasure.** A Bard of the Circle from another College asks a party to find out how much the Order paid.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-bardicolgs|The Bardic Colleges]]
 : The Colleges and their Circle

@@ -27,7 +27,7 @@ What the temple does, year in and year out, is measure. Every day of the open se
 
 The series is nine hundred years long. It is the best single record of the wall's melt anybody has. [[affiliation-mrchntclctvvdyr|The Merchant Collective]] has twice offered to buy a copy, and the temple has twice declined without giving a reason, which the Collective has correctly read as the price going up.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-vyalsrctmp|The Vyalendra Source-Temple]]—the building on the shelf
 - [[place-sarvedarivr|The Sarveda]] · [[place-sthrnwall|the Southern Wall]] · [[affiliation-vyalendra|Vyalendra]]

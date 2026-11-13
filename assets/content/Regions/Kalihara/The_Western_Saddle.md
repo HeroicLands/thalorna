@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Western Saddle is the lowest crossing of [[place-klhrring|the Ring]] on the west of [[place-klhrcntnnt|Kalihara]], a broad dip in the crest between two higher peaks. Mist comes up off the western ocean most mornings and pours through it into [[place-klhrbowl|the Bowl]], and the Kaliharans call the saddle _theinuvael_ (silver mist); the lineage [Theinuvael]{.name data-type="affiliation/lineage"} that holds it is named for it. The road from the western coast climbs the steep outer slopes past the sanctuary of [[place-thalari|Thal-ari]], crosses the saddle, and comes down the inner face into [[place-klhrdpfrst|the Deep Forest]].
 
@@ -30,7 +30,7 @@ Westward the outer slopes drop to the coast and the open ocean beyond it, with t
 
 The saddle is the gentlest of the three passes in grade and the wettest. The climb from the coast takes a long day and the outer slopes are steep the whole way; the mist soaks a traveler to the skin by mid-morning, and the turf of the saddle is bog in the wet months. A traveler who reaches the crest needs the Theinuvael to get there and a forest lineage to go on, since no road crosses the Deep Forest. In [Deepwater]{.name data-type="lore/calendar"} the road is closed.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrring|The Ring]]
 : the mountains the saddle crosses

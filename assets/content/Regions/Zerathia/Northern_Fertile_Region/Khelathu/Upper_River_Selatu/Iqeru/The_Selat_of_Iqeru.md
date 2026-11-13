@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Read the roll aloud," the senior scribe of the tax bureau in [[place-iqeru|Iqeru]] tells a new hand, "and then tell me whose land each line stands on: the Halzi'a's, an estate's or the sun-temple's. Every line has an owner, and every owner has a share to render."
 
@@ -65,11 +65,11 @@ The Selat of Iqeru is one of the upper-river selatu of the [[affiliation-empirea
 
 The seat is Iqeru, where the Halzi'a keeps his court and the chief temple of [[affiliation-uqaa|Uqa'a]] stands. The temples of a solar god own land, and a selat of sun-temples and wheatland is one where the Halzi'a's tax rolls and the temples' estates run side by side. The priesthood of Uqa'a is among the most powerful in the empire, and the high priest of the solar god has deposed or raised more Gar-Auu than any army.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Iqeru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-twothrones|The War of the Two Thrones]]
 : the battle fought in the selat's wheat

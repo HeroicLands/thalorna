@@ -14,13 +14,13 @@ data:
   government: provnchyln
 ---
 
-## Overview
+## Overview {#overview}
 
 You smell Olivenna before you see it. The town of five thousand lies in [[place-hylen|Hilen]]'s olive country and is built of presses and oil-merchants, and its sealed amphorae of olive oil travel across the [[place-vylarianse|Vilérian Sea]].
 
 Its prosperity rises and falls with the olive harvest and with the price of oil in distant markets. The press-owning families guard their groves and their pressing-rights jealously, and a stranger who asks whose press is the best will be told, in each house, that it is that house's.
 
-## Arriving
+## Arriving {#arriving}
 
 The road to Olivenna runs for its last miles through groves of olive trees older than any house in the province, their trunks split and twisted into hollow columns a man can stand inside, still bearing. Low walls of stone divide the groves, and on each gate is painted the mark of the press its olives go to. The town itself lies in a shallow bowl among the groves, a cluster of tiled roofs round a market square, and behind it rises a hill of a strange reddish color that turns out at closer range to be broken pottery: the sherds of every amphora that cracked in the kilns or on the road, heaped up by the town's potters for longer than anyone has kept count.
 
@@ -34,7 +34,7 @@ The press-owning families hold the pressing-rights of the groves around the town
 
 The town keeps a shrine of [[affiliation-lizelas|the Faith of Lizelas]] at the edge of the oldest grove, and on the first night of the pressing every press-house sends the shrine a lamp filled with its first oil.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Olivenna is a chartered town under the [[affiliation-provnchyln|Province of Hilen]], with two _tavemoi_ (magistrates) elected each year and a council of _kurthaloi_ (councilors) who answer in their own persons for its taxes. The council is the five press families and the merchants who buy from them, and the two _tavemoi_ are by custom always a press-owner and a merchant. Their court sits in the square on market days and hears cases of pressing-rights, stolen olives and broken seals, which make up most of the town's law.
 
@@ -44,7 +44,7 @@ The families keep their own order. Each press-house has its overseers, its press
 
 The five press families quarrel over their seal and their tenants. Amphorae with Olivenna stoppers are selling in the capital full of other oil, each family suspects another, and the council is looking for whose stamp was copied. A grove tenant lost his tenancy for carrying his olives to another house's press after his own refused them. A well-spoken man from the capital goes from press-house to press-house asking after a hand of fifty or so taken on since last winter, and the families answer him politely and tell him nothing.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The [Lamp]{.name data-type="place/structure"}, on the square, is the town's inn for merchants and travelers, and it lights every room with the heavy oil of the last pressing, which smokes. The merchants' agents who come in for the season rent rooms over the press-houses. In the pressing season a party willing to work can be taken on at any press-house for the winter, fed and given a bed in the loft over the mill, and the families ask few questions of a hand who can lift his share of the mats.
 
@@ -54,7 +54,7 @@ The [Lamp]{.name data-type="place/structure"}, on the square, is the town's inn 
 - **The broken seal.** Amphorae with Olivenna stoppers are being sold in the capital full of oil from somewhere else, and the five families each suspect another. The council hires a party to find whose stamp was copied.
 - **The tenant's olives.** A grove tenant carried his olives to another house's press because his own press refused them, and lost his tenancy for it. He asks a party to find out why his press turned him away.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provnchyln|Province of Hilen]]
 : parent province

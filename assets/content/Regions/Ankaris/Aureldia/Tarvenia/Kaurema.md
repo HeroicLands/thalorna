@@ -8,7 +8,7 @@ tags: [coast]
 data: {demonym: null, lore: [], parents: [galvaren], population: 0, packFolder: tarvenia}
 ---
 
-## Overview
+## Overview {#overview}
 
 Kaurema is the black cliff, _kaure_ and _korema_ in the coast's Tarveni, and the fishermen of [[place-galvaren|Galvaren]] call it the Black Cliffs when they speak of it at all. North of [[place-durvolka|Durvolka]] the green hills of the coast end in a wall of dark rock that runs for about eighteen miles, three hundred feet high at its southern end and six hundred at its northern, sheer to the water along nearly all of it. The rock is a hard, close-grained stone that weathers black, and in rain, which is most days, it shines like wet slate.
 
@@ -26,7 +26,7 @@ The clifftop is open heath, short turf and gorse, grazed by sheep and cut by the
 
 The cliff path from Ezkoba runs the length of the top, and it is the only road. In summer the gull and guillemot ledges are worked from it: the Ezkoba men go over the edge on ropes for eggs and young birds, and a good ledge is a family's property, passed down and quarreled over like a field.
 
-## Dangers
+## Dangers {#dangers}
 
 The cliffs kill more people than anything that lives at their foot. A boat in an onshore wind has nowhere to land, the tide runs hard along the reefs, the edge of the heath is undercut in places and gives way without warning, and the fog comes in fast enough to lose a shepherd a hundred yards from the path. The coast also tells of what comes with the fog, the cold lights among the stones that the [[being-vprwsp|vaporwisps]] are blamed for, and of a long dark shape that boats coming home late have seen gliding along the cliff face against the stars.
 
@@ -34,7 +34,7 @@ The cliffs kill more people than anything that lives at their foot. A boat in an
 
 Three things draw people to the cliffs this year. Twice this autumn a boat has come onto the reefs south of [[place-ezkoba|Ezkoba]] steering on a yellow light that was not the Long Lamp, and what a wreck brings ashore under Kaurema goes to the crown once its crew is counted dead, which is the harbor teller's ruling, and is claimed by the Warden of Wrecks unless it reaches somebody else first. Goods whose owners live to claim them stay theirs. The Long Lamp itself is short of oil, with a month's fuel left and the darkest months to come. And a spring tide in late summer will uncover more of the sunken city than anyone living has seen, and a young man of Ezkoba has a boat ready to go down the stairs.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ezkoba|Ezkoba]]
 : the lamp town in the one cleft of the cliffs

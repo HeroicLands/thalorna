@@ -24,12 +24,12 @@ The dead were few by the standard of the river wars, and both sides carried thei
 - **Returning graduates**, each autumn.
 - **Bharyastani horse** on exercise, who ride the gorge to keep the road known.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The struck roll.** The academies struck from their rolls the names of the graduates who stayed in Daunapur's service. One of those names belongs to a family now prominent in a patron kingdom, and the family wants it restored before a marriage. The academy masters want evidence of what that graduate did at Sharamukha, and the only witness left is the cairn.
 - **The recall.** Daunapur's present dynasty has quietly hired graduates of [[place-hiddenstring|the Hidden String]], and the [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]'s sabhra has noticed. The masters must decide whether the Highland War's recall is a precedent or an exception before anyone asks them in public.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-hghlndwar|The Highland War]]—the battle
 - [[affiliation-dnrktjnpd|Danurkot Janpoda]] · [[affiliation-bharyastan|Bharyastan]] · [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]

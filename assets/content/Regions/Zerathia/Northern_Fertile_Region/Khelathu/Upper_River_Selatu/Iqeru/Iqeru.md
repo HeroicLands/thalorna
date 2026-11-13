@@ -15,7 +15,7 @@ data:
   government: selatiqeru
 ---
 
-## Overview
+## Overview {#overview}
 
 "We do not ask whether the sun will rise," a priest at the temple of [[lore-uqaadty|Uqa'a]] says to a pilgrim in Iqeru. "Every night he goes down into the underworld and fights [[lore-azuathisdty|Azu'athis]], the Devouring Shadow, and every morning he has won. We ask what we owe him for it."
 
@@ -25,7 +25,7 @@ Uqa'a's demand on a life is a hard one, clarity, purpose and righteous intensity
 
 The wheat outside the town is the [Field at Iqeru]{.name data-type="place/site"}, where the war between [[place-lenennezut|Lenen-Nezut]] and [[place-galezkara|Galezkara]] ended in 1531 ST (580 BF) with the death of the Gar-Au [Zab'el'Psaqa III]{.name data-type="being/npc"} ([[lore-twothrones|the War of the Two Thrones]]). It is an ordinary battlefield: the dead were carried home to their tombs and rites, and the field is farmed like any other.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-twothrones|The War of the Two Thrones]]
 : the battle fought in the town's wheat

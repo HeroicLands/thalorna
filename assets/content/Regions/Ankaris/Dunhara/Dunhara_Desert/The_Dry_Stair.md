@@ -44,7 +44,7 @@ Sheikhs and poets avoid it. Others do not. Merchants of [[place-qarvelakhend|Qar
 
 The vault moves with the dunes, and there is no road. A guide who has seen the Dry Stair open can lead a party to the dune that covers it, and a guide who has been down it cannot be hired for any price.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The seal.** A tagemader of Amradad pays a thief to bring out the king's signet.
 - **The guide.** A caravan guard is paid to take two foreigners to a dune whose location was sold to them by a man who died of thirst.
@@ -52,7 +52,7 @@ The vault moves with the dunes, and there is no road. A guide who has seen the D
 
 [[scenario-kprdrystr|A Stair of Veiled Women]] gives these as a five-scene adventure.
 
-## See Also
+## See Also {#see-also}
 
 [[place-dunhardsrtrgn|Dunhara Desert Region]]
 : the country of the dunes

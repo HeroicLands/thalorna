@@ -64,7 +64,7 @@ About 421 AF, when the Edicts of Arzanas closed the western wars and the crowns 
 - **The frozen note.** A merchant holds a chest of notes cashed against the suspended Ólvestran house and cannot redeem them, and he needs his petition carried to the Imperial _Tarkelos_ in Orzara ([[affiliation-tarmex|the Tarmeks]]).
 - **The refusal at the gate.** A baron of the hills rides up to the Twin Gate, and the Twinblade on station refuses him ([[place-twingate|the Twin Gate]]).
 
-## See Also
+## See Also {#see-also}
 
 [[place-twingate|The Twin Gate]]
 : the city's gate and the Twinblade mother-house

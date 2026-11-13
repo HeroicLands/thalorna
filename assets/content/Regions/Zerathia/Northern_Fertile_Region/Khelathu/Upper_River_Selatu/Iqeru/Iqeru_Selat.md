@@ -15,7 +15,7 @@ data:
   government: selatiqeru
 ---
 
-## Overview
+## Overview {#overview}
 
 "Wheat as far as the canal reaches, and not a furrow past it," a farmer says to a traveler crossing the selat on the canal road. "I owe my share of the harvest and my days on the ditches, and I have never missed either."
 
@@ -27,7 +27,7 @@ Canals carry the river's water out across the wheat, and the temples of the sola
 
 The wheatland holds a battlefield. In 1531 ST (580 BF) the war between the thrones of [[place-lenennezut|Lenen-Nezut]] and [[place-galezkara|Galezkara]] ended in these fields, and farmers still turn up bronze in them ([[lore-twothrones|the War of the Two Thrones]]).
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-iqeru|Iqeru]] (~33,000)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the Faith of Uqa'a and its estates.
@@ -35,7 +35,7 @@ The wheatland holds a battlefield. In 1531 ST (580 BF) the war between the thron
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-twothrones|The War of the Two Thrones]]
 : the battle the wheatland remembers

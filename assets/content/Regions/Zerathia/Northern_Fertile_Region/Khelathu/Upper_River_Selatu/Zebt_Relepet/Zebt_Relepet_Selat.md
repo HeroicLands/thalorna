@@ -15,7 +15,7 @@ data:
   government: selatzbtrlpt
 ---
 
-## Overview
+## Overview {#overview}
 
 "Cut it from the left," a natron-cutter at [[place-zebtrelepet|Zebt-Relepet]] tells the new hand beside him, as the crust on the flat breaks into gray plates under their picks. "The embalmers will have it by evening, and the first thing they will ask is whether it is dry."
 
@@ -35,7 +35,7 @@ The selat runs on the flood, the harvest and the render like every Khelathi sela
 - The chief temple of the [[affiliation-wethur|Faith of Weth'ur]] and its estates
 - The cavern-tombs and the natron workings of the mortuary trade
 
-## Settlements
+## Settlements {#settlements}
 
 Zebt-Relepet (~28,000)
 : the selat capital and the seat of the Halzi'a.
@@ -43,7 +43,7 @@ Zebt-Relepet (~28,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatzbtrlpt|The Selat of Zebt-Relepet]]
 : The selat that holds this land

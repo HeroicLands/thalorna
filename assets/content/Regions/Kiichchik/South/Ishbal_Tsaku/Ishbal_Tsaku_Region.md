@@ -17,7 +17,7 @@ data:
 # terran_analog: Equador, Peru, western Brazil
 ---
 
-## Overview
+## Overview {#overview}
 
 Ish'bal Tsa'ku Region is the land of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]], and lies within [[place-southkiichchik|Southern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
@@ -51,13 +51,13 @@ Markets in the great cities—particularly [[place-nepaxel|Ne' P'ashel]] and Ts'
 
 Ish'bal Tsa'ku quarrels over who counts. The priesthood levies every cargo, the Ts'enmah's inspectors weigh every town's tribute against its cords, and each of the realm's working towns keeps a count it would rather nobody checked. At Ts'alam Ne' the Ne'kalmah, the lord of the sea, keeps the city's fleet and its cords himself, and the inspectors come to the coast by appointment and count what he shows them. [[affiliation-stormfleet|The Storm Fleet]], the temple's navy in the same harbor, counts what it sees, and its Captain holds that the Ne'kalmah's cords are not the only ones that count his ships. Inland, [[affiliation-steelkin|The Steel Kin]] of Ne' Ki'ahkul meet the capital's inspectors at the edge of their town and walk them from forge to forge, and the merchants of Ne' P'ashel want to buy steel at forges the smiths will not open to them. A piece of steel without a kin group's mark is steel that should have gone into the Ts'enmah's weight, and somebody in the south is selling it.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Proof for the temple.** [[being-kushiqaptel|K'ushi Q'aptel]], Captain of the Storm Fleet, pays for proof of any cargo that came into Ts'alam Ne' uncounted, and pays best for proof of one belonging to [[being-chakulish|Ch'akul Ish]], the Ne'kalmah. He asks a party to take passage on one of the Ne'kalmah's trading canoes and watch where it puts in before it reaches the harbor mouth.
 - **Unmarked steel.** [[being-toshelneok|Toshel Ne'ok]], who speaks for the six kin groups of the forges, has seen unmarked steel on sale in the market of Ne' P'ashel. She pays a party to buy a piece, follow it back to whoever sold it, and bring her the seller's name before the inspectors hear of it.
 - **The light load.** [[being-penqalqaptl|P'enqal Q'aptel]], Ts'ikmah of Ts'alam Ts'ultel, has a merchant whose loads were lighter at the pass than at the market below, and the merchant swears they were not. He asks a party to go down to the market, read its cords against the cords of the pass, and learn which count is false.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
 : The realm that holds this land

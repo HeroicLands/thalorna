@@ -63,7 +63,7 @@ A divorce is rare, because it removes a registered household from the cosmic ord
 
 The process takes a petition to the Bureau of Creation, the return of each ancestor tablet to its own family's shrine, and the breaking of the household seal. It is costly, it damages both families' ledgers, and it is a social disaster, because it says that the classification made a mistake, and the Tanchei and Leigen who approved the match carry the blame.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : the castes that may and may not marry

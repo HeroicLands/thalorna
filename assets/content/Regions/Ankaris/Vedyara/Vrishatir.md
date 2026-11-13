@@ -16,7 +16,7 @@ data:
 
 **Vrishatir** is a cattle village on the upper reaches of [[place-bharavarivr|the Bharava]], in the [[place-suvargerijnpd|Suvargeri Janpoda]]. It keeps the draft oxen that the terraces and the smelters both depend on, so a plowing season on the slopes and a charcoal haul to the furnaces start from the same herds.
 
-## See Also
+## See Also {#see-also}
 
 [[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land

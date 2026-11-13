@@ -14,7 +14,7 @@ data:
   government: kingdmlnrk
 ---
 
-## Overview
+## Overview {#overview}
 
 Enthara is a town of terraces. It climbs the south face of the eastern hills above the [Thalsira]{.name data-type="place/feature"} valley in tiers of vineyard walls, each a man's height of dry stone holding up a strip of vines, and the town itself sits halfway up on the one shelf wide enough to build on, with the press-house of its lord at the top of the street and the market square below it. About 4,000 people live there, and its name is the word for what they make: _entho_ is wine.
 
@@ -44,7 +44,7 @@ Enthara is held of the king by a lord whose house has held it since the kingdom 
 
 The advance came up the hill road this spring as it does every spring, and this year the wine has nowhere to go. The seamen of [[place-valthari|Valthari]] refuse to sign on until the ship-owning houses raise the crew's share, the port's ships lie idle, and the wine that went down to Bruthena by barge waits there and at the port for a hull. The factors still want the vintage the advance bought. The growers say a house that cannot ship the wine it holds has no business buying more of it, and the terraces that owe the most are the ones that cannot refuse.
 
-## See Also
+## See Also {#see-also}
 
 [[place-leonrik|Lyenrik]]
 : the lowland country whose eastern hills the town looks over

@@ -23,7 +23,7 @@ The town lives on its water. Bathhouses fed from the springs take pilgrims on th
 
 Rewei governs through judges the household appoints from among the retainers. The envoys of the other houses watch the town; the [[affiliation-shuiwojaidmn|Shuiwojai]] envoy there sends word to [[place-hawu|Hawu]] after every tremor.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-hojujaidmn|Hojujai Domain]]
 : the house and its regent

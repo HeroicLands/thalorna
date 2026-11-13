@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The wind-stones are twelve inherited works along the crest of [[place-klhrring|the Ring]], standing round [[place-klhrbowl|the Bowl]] at intervals: one at the head of each of the three passes, and the rest on the stretches of crest between them. Each is a smooth swelling of [[lore-itharisul|ithasul]] out of the rock or the turf, gray and seamless, with no mark on it anywhere. The custodians call them _Naothuri-sul_ (green-wind stones).
 
@@ -46,7 +46,7 @@ A wind-stone looks down two ways: inward over the Bowl to the lake and [[place-k
 
 The three stones at the passes stand on the roads, and the lineage that holds each pass decides who reaches it. The others lie along crest paths that belong to the lineages of each stretch and are walked with one of their households. Every path to the crest is closed in Deepwater.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrring|The Ring]]
 : the mountains whose crest the stones stand on

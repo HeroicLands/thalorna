@@ -15,7 +15,7 @@ data:
   government: selatyathlmt
 ---
 
-## Overview
+## Overview {#overview}
 
 "Watch the banks, not the water," a river pilot tells a passenger entering the gorge of [[place-yathlemet|Yath-Lemet]]. "The cliffs come in until you could throw a stone across. The farms are on that thin strip under them, and so are the beasts."
 
@@ -35,7 +35,7 @@ Yath-Lemet runs on the flood and the harvest on a smaller scale than any other u
 - The chief temple of the [[affiliation-chelsur|Faith of Chelsur]] and its estates
 - The narrow gorge where the valley pinches to almost nothing
 
-## Settlements
+## Settlements {#settlements}
 
 Yath-Lemet (~6,000)
 : the selat capital and the seat of the Halzi'a.
@@ -43,7 +43,7 @@ Yath-Lemet (~6,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatyathlmt|The Selat of Yath-Lemet]]
 : The selat that holds this land

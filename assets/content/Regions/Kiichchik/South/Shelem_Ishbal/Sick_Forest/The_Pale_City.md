@@ -8,7 +8,7 @@ tags: [site, waste, forest, ruin, temple]
 data: {demonym: null, lore: [], parents: [sickforest], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Pale City, Kulal Ch'upul, lies deep in [[place-sickforest|the Sick Forest]] of [[place-xelemixbalrgn|Shelem Ish'bal Region]], on a low rise where the great fungi thin out and the trees stand back. It is a city of stone: broad plazas, raised causeways running between them, terraced platforms, and at its center a stepped pyramid of six tiers with a temple on top. Every stone of it is wrapped in white. A thick, soft growth of fungus covers the whole city like felt, smoothing every edge, so that the pyramid looks like a hill of snow and the causeways like paths through snow running off into the green.
 
@@ -30,7 +30,7 @@ The temple on the top of the pyramid is the one room in the city with no felt in
 
 The returners say the temple is the only place in the Sick Forest where a party can sleep safely. They also say it is a long way down the stair in the morning, and that a party should mark its causeway before it climbs.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sickforest|The Sick Forest]]
 : the forest around it

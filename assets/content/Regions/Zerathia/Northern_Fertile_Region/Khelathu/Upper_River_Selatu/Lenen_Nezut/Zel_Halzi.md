@@ -44,13 +44,13 @@ The Halzi'a house of [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the kin
 - **Robbers**, after the bronze of an army no one stripped.
 - **Families** whose ancestor was a Galezkara soldier and never came home.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The boundary suit.** Two estates on either side of the field go to law over a line that only the field itself can settle. The court needs someone to measure it, and the only season in which it can be measured is Gelet, when it is worst.
 - **The account.** A Tha'Ulgau heir cannot be confirmed in his seat until the house's debt at the field is closed with a name, and the name his house needs is one nobody in the west remembers.
 - **The soul-hunters.** The Akhoza-Menlaa has been taking men from the edge of the field. The priest of Hezmu'iri who holds the Reading has missed three in a year.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-thaulgau|The Coming of the Tha'Ulgau]]—the battle that made it
 - [[lore-hillhouse|The Closing of the Hill House]]—the end of the house that took the throne

@@ -85,7 +85,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: the governance takes the shape of the lowland Maya towns ruled by a council of lineage heads in a council house, beside the dynastic courts of the Classic cities; no title is a Maya word
 ---
 
-## Overview
+## Overview {#overview}
 
 Shelem holds the land of the [[place-xelemrgn|Shelem Region]]. Shelem is less urbanized than the central heartland, less densely settled, less strictly governed by the hierarchies of the [[affiliation-itzanpnthn|Itsani priesthood]]. Yet it is indispensable to the greater Kì'ìch'chik world, for Shelem is the source of luxuries without which no Ts'enmah can claim true power.
 
@@ -105,7 +105,7 @@ The priesthood in Shelem is notably less hierarchical and less centralized than 
 
 Most crucially, Shelem is the source of stability and prestige goods through which northern Ts'enmah establish and maintain their authority. A Ts'enmah who commands a steady supply of jaguar hides and quetzal feathers can dress his warriors for the rites, honor his priests, and demonstrate his power to rival city-states. Thus, maintaining good trading relationships with Shelem's merchant families and river settlements is essential to political survival in Ish'ilankul and K'ankul. The merchant families of Shelem have leveraged this dependence skillfully, maintaining their autonomy and prosperity through careful diplomacy and the judicious cultivation of competing interests among the northern powers.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixilankul|Ish'ilankul]]
 : The paramount northern realm that depends on Shelem's luxury goods
@@ -121,3 +121,5 @@ Most crucially, Shelem is the source of stability and prestige goods through whi
 
 [[place-xelemrgn|Shelem Region]]
 : The land Shelem holds
+
+[[affiliation-riverhouses|The River Houses]]

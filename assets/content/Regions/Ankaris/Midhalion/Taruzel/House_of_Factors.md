@@ -8,7 +8,7 @@ tags: [taruzel, hall, guild]
 data: {demonym: null, lore: [], parents: [sazumun2], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 The House of Factors stands on the headland above the harbor of [[place-sazumun2|Sazumun]], on the north side of the [[place-alzriver|Alz River]] mouth, and it is the tallest building in the city. The merchant guilds' councils meet in it, and through them it governs the city-state of [[affiliation-sazumun|Sazumun]]. Every ship that comes to Sazumun is accepted or refused from its tower, and every tariff the city charges is set in its hall.
 
@@ -42,7 +42,7 @@ The House sits often this season and argues more than it posts. A Khelathi capta
 - **The charter dinner.** [[being-ashurazhitus|Ashuraz Hitusuni]] wants guests at his dinner for the Merazuni's clerks who can tell him afterward what the clerks said when he left the room.
 - **The pilot's fine.** A harbor pilot fined a year's wages for a grounding on the bar asks a party to stand beside him when he appeals to the House, if the Speaker will call it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sazumun2|Sazumun]]
 : the city below the House

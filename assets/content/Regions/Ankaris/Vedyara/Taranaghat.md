@@ -20,7 +20,7 @@ The janpoda takes a toll here on everything but pilgrims and academy aspirants. 
 
 The village is walled, which no other village of the janpoda is. The wall is low and would not stop a determined force. It stops the kind of trouble a crossing attracts, which is what it was built for.
 
-## See Also
+## See Also {#see-also}
 
 [[place-danurkotjnpd|Danurkot Janpoda]]
 : the land

@@ -34,7 +34,7 @@ In the [[place-taruzelrgn|Taruzel Region]] the Vigil opens the year of the voyag
 
 The morning after belongs to the harbors. In [[place-besikar2|Besikar]] [[lore-harbordue|the Harbor Due]] waits for the first fair morning after the Vigil, when the First of the Council carries the city's debt out to the head of the breakwater, and no Besikar hull leaves the harbor until it is paid. In [[place-qudumel2|Kudumel]] the faithful of both rites keep the night in the court of the [[place-twofirestemple|Temple of Two Fires]], at the column carved on one face with the thunderbolt of Brazemas and on the other with the spear of [[lore-bazhramisdty|Bazhrámish]], who rules the storm in [[affiliation-ashanpnthn|the Twelve of the Flame]], and in the morning the temple reads its oldest roll aloud.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-brazemas|Faith of Brazemas]]
 : the faith that keeps the Vigil

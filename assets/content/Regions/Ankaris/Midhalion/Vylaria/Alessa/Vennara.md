@@ -14,13 +14,13 @@ data:
   government: provinclys
 ---
 
-## Overview
+## Overview {#overview}
 
 Vennara is a pleasant villa-town of about 6,000 in the hills near the capital, long favored by senatorial families for their country estates. Its permanent townsfolk serve the great houses round about, and the town swells each summer when the court and its hangers-on flee the heat of [[place-orzara|Orzara]] for the cooler hills.
 
 An innkeeper whose house stands empty from autumn until the first heat describes the year to a cousin who has come to help: "A long quiet season, then a summer that makes the year's money. The steward comes first, and the villa is aired. Then the household, then the guests, then the guests' guests. By midsummer you will be feeding people whose names you will not be told, and you will serve them as though you were told."
 
-## Arriving
+## Arriving {#arriving}
 
 The road climbs out of the farm country through terraced vineyards and olive groves, and the air cools with every bend. The villas begin before the town does: long garden walls of pale stone along the road, each with a gate, a porter's lodge and a glimpse of cypress and fountain through the bars. Vennara itself sits in a saddle between two hills, a single street of shops and houses opening onto a fountain square with a temple of [[affiliation-morvana|Morvana]] at one end and the town's inn at the other. The fountain is fed from a spring above the town, and its water is cold even in high summer, which the town counts as its whole fortune.
 
@@ -34,7 +34,7 @@ The villas themselves range from splendid to shabby. The great houses of the cou
 
 One villa on the south hill belongs to [[affiliation-ordoarcanis|the Thordimalon]], which keeps it as a research house among the senatorial ones. It looks like its neighbors from the road, a pale wall, a gate and a porter's lodge, but its garden is bare of flowers, its cellars are dug deeper than a wine store needs, and its household is made of quiet people who buy their food in the town and their other supplies in the capital. The neighboring houses call it the Scholars' Villa and keep their gardeners out of its walls.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Vennara is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ answerable for its taxes, and in winter they govern it. In summer the stewards of the great villas govern it in practice: they hire the town's labor, buy its food, settle its quarrels with their households and bring their own guards. A townsman who has a complaint against a villa takes it to the steward, never to the _tavemoi_, who would only take it to the steward themselves.
 
@@ -44,7 +44,7 @@ This year one villa did not shut. The _therkos_ of Alessa, [[being-kldrmslthzs|K
 
 One villa was opened in the spring, before the season, and has not shut. The _therkos_ of Alessa, Kaldremas Elthezis, has stayed in his house on the north hill, couriers come up from [[place-alyssar|Alessar]] and go down sealed, and his steward buys broth, linen, lamp oil and the physician's wine as though for a sickroom. The town has noticed and says so only among itself. The summer's households come up from Orzara with the succession in their baggage, and a [[affiliation-varkalenis|Varkalenis]] cousin wants to know what the tax-farmer who leases the ancestral villa has done to its frescoes.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Vennara has one inn, on the fountain square, and in winter it has every room free. In summer it is full by the first heat, and a stranger finds a bed only by renting a room in a townsman's house, at a summer price, or by finding work in a villa's household, which is how most strangers in Vennara spend a summer. Strangers in winter are rare enough to be talked about by evening.
 
@@ -54,7 +54,7 @@ Vennara has one inn, on the fountain square, and in winter it has every room fre
 - **The let villa.** A Varkalenis cousin hires a party to see what the tax-farmer has done to the ancestral villa's frescoes before the house's master hears it from anyone else.
 - **The physician's errand.** The _therkos_'s physician asks a party to fetch a remedy from Orzara, quickly and without telling anyone in Alessar who it is for.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province

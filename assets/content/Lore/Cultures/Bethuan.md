@@ -219,7 +219,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the Spadai. The realm takes boys young, unmakes them, binds them by oath and sings of them, and a mother who puts a beautiful and gifted son forward does it with pride. The Houseless are the other half of the account. A woman is cast out when the Houses need a failure to blame, and some of those cast out are the Spadai the realm unmade, now loose in the south with a grievance the [Court of the Veil]{.name data-type="affiliation/governmental"} would rather not admit it made. The order is paid for by the men it holds and the women it casts out, and no council has put either account on its agenda.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-mtrrchybth|Matriarchy of Bethua]]
 : the realm, its two pillars and its sovereign

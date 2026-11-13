@@ -24,7 +24,7 @@ The Mahanodi line traces itself to a heroic ancestor the recitation names only a
 
 The age ends with the reign of the philosopher-kings of [[place-madustan|Madustan]], who fix the classical tongue and start [[lore-mdstncnt|the count]] that every Vedyari court still keeps. Their first year, 1 AK, opens [[lore-agekingdoms|the Age of Kingdoms]], the first age of the count.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-unnumbrdage|The Unnumbered Age]]
 : the age before it

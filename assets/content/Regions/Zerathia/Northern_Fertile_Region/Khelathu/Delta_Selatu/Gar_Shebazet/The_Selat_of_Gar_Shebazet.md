@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Gar-Shebazet is the delta selat that makes the empire's paper. Its marshes grow the papyrus, its people cut the reed and fowl the water, and its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) answers to the [[lore-garauu|Gar-Au]] for all of it: the Halzi'a commands the levies, collects the taxes and dispenses the justice, at a distance from the throne that shrinks and grows with the strength of whoever wears the crown. The patron is [[lore-shebazetdty|Shebazet]], the cobra-goddess, and the selat's religious life runs through her temples and their estates. The land it holds is [[place-garshebztslt|Gar-Shebazet Selat]].
 
@@ -65,11 +65,11 @@ Gar-Shebazet is the delta selat that makes the empire's paper. Its marshes grow 
 
 The seat is [[place-garshebazet|Gar-Shebazet]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-shebazet|Shebazet]] stands. Shebazet is a local marsh cult with no standing in the Twelve, and yet a civilization that runs on tax rolls, contracts and king-lists writes all of them on reeds her priests bless. The selat's quiet weight in the empire rests on that.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gar-Shebazet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so a papyrus-cutter paid for a season's stems is paid in pieces the temple has already vouched for. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

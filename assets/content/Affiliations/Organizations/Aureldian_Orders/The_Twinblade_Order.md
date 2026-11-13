@@ -59,7 +59,7 @@ Patron
 Region
 : [[place-aureldirgn|Aureldia]]—chapter houses at the most consequential gates, borders, and threshold-sites across the five kingdoms; mother-house at the Twin Gate of [[place-olvestria|Ólvestra]]
 
-## Overview
+## Overview {#overview}
 
 If [[affiliation-ordrsldwrd|the Order of the Sealed Word]] is the juridical arm of the [[affiliation-ardavon|Faith of Árdavon]]—riding to where oaths have been broken to render judgment—the Twinblade Order is its territorial one. The Twinblades guard _thresholds_: the great city gates of the Aureldian capitals, the contested borders between kingdoms, the sacred boundaries around fae-touched groves and ancient battlefields, the formal frontier-stones marking where one polity ends and another begins. Their working principle is that thresholds are the places where one order gives way to another, that these places are sacred to Árdavon by their nature, and that they require armed presence to hold their sanctity against the casual transgression that would otherwise erode them.
 

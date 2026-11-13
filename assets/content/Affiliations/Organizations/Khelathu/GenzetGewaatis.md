@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Insurers and investors look for the council's blessing before they back a voyage. **Genzet'Gewa'atis** is the governing council of [[affiliation-lutgewaatis|Lut-Gewa'atis]] (the temple of Gewa'atis), drawn from the temple's senior priests and the captains whose voyages are held to be protected by the god, and it administers the temple's holdings and authorizes the voyages that claim his protection. A voyage undertaken without its sanction sails without that protection in the council's view, whatever its captain privately believes about the god's favor.
 
@@ -54,7 +54,7 @@ The council administers the temple's holdings and sanctions voyages. Insurers an
 
 Say you want to carry silk to a port across the sea. Before a merchant house lends you the cargo, ask whether the council has blessed the voyage. If not, the merchant has already decided.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-lutgewaatis|Lut-Gewa'atis]]
 : The temple it governs

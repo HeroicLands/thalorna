@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Deep Forest covers the western and northern reaches of [[place-klhrbowl|the Great Bowl]] of the [[place-klhrcntnnt|Kalihara Continent]], from the reed-beds of [[place-klhrlake|the lake]] to the inner face of [[place-klhrring|the Ring]]. Nothing in it is cleared: the canopy closes overhead from the shore to the cliffs, and the streams that come down the inner slopes run to the lake under it. The Kaliharans call it _kuathivoel_ (deep forest), and the lineage [Kuathivel]{.name data-type="affiliation/lineage"}, the eldest of the forest lineages, is named for it.
 
@@ -30,7 +30,7 @@ Inside the forest nothing is seen beyond the next trunks, and the light on the f
 
 No road crosses the Deep Forest. The forest lineages keep paths through their own reaches and lead a traveler from one reach to the next, and a stranger off those paths is lost within a day. The crossing from [[place-klhrwstsddl|the Western Saddle]] to the lakeshore takes three or four days on foot. In [Deepwater]{.name data-type="lore/calendar"} the streams flood the lower forest and the paths along them go under water.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrbowl|The Great Bowl]]
 : the basin the forest covers in part
@@ -40,3 +40,5 @@ No road crosses the Deep Forest. The forest lineages keep paths through their ow
 
 [[place-klhrestrrc|The Eastern Terraces]]
 : the cleared land across the lake
+
+[[place-narivothei|Narivothei]]

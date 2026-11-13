@@ -143,6 +143,6 @@ The Khazari have never been hostile. They have simply never answered.
 
 The council of the hold sends [[being-valdantnvgrz|Valdan Tanv-guráz]] to the Gate as its Speaker, and the valleys call him the lord of [[affiliation-vrgldhld|Vorgald Hold]]. At the autumn tally he asked the Reeve of the Valleys how many more mouths the granaries would carry, because runaways still come over the passes from the plain. The Master of Works, [[being-rimiktbrslth|Rimik Tabar-suláth]], has gone down to the valleys herself to oversee the recutting of an old channel above Kalm. A band of Grukar from [[place-hornhall|Hornhall]], one of the hold's own abandoned hunting halls, reached the outer workings above Dorrin in the autumn and was killed there, and the Synod's yearly letter lies on the council's table, unanswered.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-flkkhazar|Khazari]] · [[place-ironfells|the Ironfells]]

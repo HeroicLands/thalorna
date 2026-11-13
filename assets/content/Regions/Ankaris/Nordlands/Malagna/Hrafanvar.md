@@ -55,7 +55,7 @@ Rival
 Holds
 : its half of the split oath-stave.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-grimvar|Grimvar]]
 : the other great clan of Malagna

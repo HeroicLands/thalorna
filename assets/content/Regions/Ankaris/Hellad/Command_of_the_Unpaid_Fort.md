@@ -71,7 +71,7 @@ The commander is old, and the heir will not take the commission unless the chanc
 
 - **The heir's condition.** The commander hires the party to ride with this spring's report to Orzara and come back with the chancery's answer.
 
-## See Also
+## See Also {#see-also}
 
 [[place-unpaidfort|The Unpaid Fort]]
 : the fort and its pass

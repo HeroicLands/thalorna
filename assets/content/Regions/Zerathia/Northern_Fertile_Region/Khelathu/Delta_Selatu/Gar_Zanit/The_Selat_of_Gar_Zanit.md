@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Look at the hem of your own tunic: if it is linen and it came from the delta, it probably began in [[place-garzanit|Gar-Zanit]]. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a country of flax fields and linen-weaving towns whose cloth clothes the empire. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-psaqarudty|Saq'aru]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-garzanitselt|Gar-Zanit Selat]].
 
@@ -65,11 +65,11 @@ Look at the hem of your own tunic: if it is linen and it came from the delta, it
 
 The seat is Gar-Zanit, where the Halzi'a keeps court and the selat's chief temple of [[affiliation-psaqaru|Saq'aru]] stands. Saq'aru is the god of creation and craftsmanship, and a selat of weavers keeps his name for the work of the hands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gar-Zanit uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, which means a weaver's bolt of linen and a farmer's sack of grain are measured against the same attested standard. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

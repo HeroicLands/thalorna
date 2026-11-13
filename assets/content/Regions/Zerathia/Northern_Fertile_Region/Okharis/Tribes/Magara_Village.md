@@ -14,7 +14,7 @@ data:
   government: magaratrb
 ---
 
-## Overview
+## Overview {#overview}
 
 Magara Village is the seat of the [[affiliation-magaratrb|Magara tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

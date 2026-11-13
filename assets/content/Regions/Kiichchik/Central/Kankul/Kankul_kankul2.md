@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [kankulrgn], population: 120000, govern
 # terran_analog: Chichen Itza, its round observatory and its sacred well, with the painted books of the lowland courts; the Star House stands in for no Earth institution
 ---
 
-## Overview
+## Overview {#overview}
 
 The first thing a traveler sees of K'ankul, across the flat green of the lowland jungle, is a round tower. It stands on a two-tiered platform at the western edge of the city, plastered white, with a domed top and a few small square windows high in its side, and at dusk a light shows in one of them. The tower is the sighting house of [[affiliation-ishilanshulum|the Star House]], the college of reckoners that computes the day-tables for every city on the continent the cords reach, and K'ankul's standing among the realms rests on it. K'ankul is a city of about 120,000 people in the limestone lowlands of the [[place-kankulrgn|K'ankul Region]], and the seat of the realm of [[affiliation-kankul|K'ankul]], the intellectual heart of Kì'ìch'chik civilization.
 
@@ -44,7 +44,7 @@ K'ankul trades in knowledge. Its scribes and mathematicians are paid extraordina
 The Ts'enmah knows that the court of Ish'ilankul wants K'ankul's partnership reduced to plain tribute before the conclave of 722. He has asked the First of the Star House, privately, to let it be known that the tables for the new round may be late if K'ankul is pressed, and the First has refused, because the house's honesty is its whole value. The Master of the Cords, who knots the tables and hands them to the runners, is the Ts'enmah's sister's son. He has said nothing to the First, and he has told his uncle that a cord can be knotted slowly.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kankul|K'ankul]]
 : the realm of scribes and astronomers

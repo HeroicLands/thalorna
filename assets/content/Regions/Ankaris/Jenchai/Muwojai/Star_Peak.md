@@ -21,7 +21,7 @@ The slopes are cedar forest below and bare rock above. The terraces at the mount
 
 The summit holds a shrine and the **observatory** of the omen-readers. The Tanchei who serve as Omen-Reader to the court keep the heavens from it, and the timing of imperial acts is fixed from what they record there. The air above the interior is clearer than the coast's, and the instruments stand on the open rock. At the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) the lord's roll is closed on the same summit, beside the instruments of the court.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-muwojaidmn|Muwojai Domain]]
 : the house and its lord

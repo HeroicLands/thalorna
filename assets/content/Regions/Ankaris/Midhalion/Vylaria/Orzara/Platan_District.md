@@ -14,7 +14,7 @@ data:
   government: verdanorzara
 ---
 
-## Overview
+## Overview {#overview}
 
 Most people come to the Platan District because somebody has sent for them. It is the civic heart of [[place-orzara|Orzara City]], laid out in the central saddle between [[place-arvel|Eagle Hill]] and [Torvel]{.name data-type="place/feature"}, and everything in it is built to hear a case, record a decision or announce one. The basilicas of the civic courts, the hall of the [[affiliation-verdanorzara|Orzara Courts]], the central hall of [[affiliation-imprlscrblgld|The Imperial Scribal Guild]], the grandest public baths and libraries in the city and the speakers' platforms all stand round the [Circle of Árdavon]{.name data-type="place/site"}, under the statue of [[lore-ardavondty|Árdavon]] of the Gates, lord of order and justice.
 
@@ -69,7 +69,7 @@ The Platan fears the noon proclamations, and all three it dreads are close. A sh
 - **The early copy.** A scribe on the Guild's steps is offered ten Soldeni to make a copy of a list before it is posted on the platform boards. He wants a party to learn what the list is before he decides.
 - **The gray stole.** A client's case was lifted out of the civil basilica into the Offices in the middle of a hearing, and the client has not come back down the hill. His family wants to know which tribunal holds him.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city

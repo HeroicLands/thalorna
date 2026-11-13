@@ -14,13 +14,13 @@ data:
   government: provnchyln
 ---
 
-## Overview
+## Overview {#overview}
 
 Kelborara is where [[place-hylen|Hilen]]'s bread is counted. The chief grain-market of central Hilen, a town of seven thousand, is built around its granaries and weighing-yards, and the harvest of a hundred estates is gathered there, measured, and sent on toward the capital and the legions.
 
 A weighing-yard clerk tells you he knows the state of the [[affiliation-vylarinmpr|Vilérian Empire]] before [[affiliation-seldan|Seldan]] (the Senate) does. In a good year the town overflows with sacked grain and there is nowhere to stand. In a lean year the granaries are empty, and that is the first warning that the empire's bread is short.
 
-## Arriving
+## Arriving {#arriving}
 
 Kelborara shows above the wheat from ten miles off as a line of pale roofs, and the roofs are the granaries. There are more than sixty of them, long halls of whitewashed stone raised on squat piers so that rats cannot climb in, set in rows like the barracks of a camp, and the town's houses fill the lanes between the rows. The road from [[place-aravantia|Aravantara]] comes in past the legion's camp and enters the town between the two oldest granaries, which carry the eagle over their doors and are the property of the state.
 
@@ -36,7 +36,7 @@ The heaviest work belongs to the sack-carriers, some four hundred men who unload
 
 A granary-keeper turns the grain once a month all winter, airs the halls on dry days and burns sulfur in them in spring against the weevil, and a granary that loses a fifth of its grain to rot or vermin by spring is accounted well kept. The keepers say that the grain in a granary is never the same grain twice: what comes out in spring is lighter than what went in at harvest, and the clerks enter the difference as shrinkage.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Kelborara is a chartered town under the [[affiliation-provnchyln|Province of Hilen]], with two _tavemoi_ (magistrates) elected each year and a council of _kurthaloi_ (councilors) who answer in their own persons for the town's taxes. The council is made up of granary-keepers and the stewards of the houses whose granaries stand in the eastern rows. The _tavemoi_ keep the town's own standard measures in a locked chest on the Counting Floor and hear every dispute over a weight there, on the spot.
 
@@ -46,7 +46,7 @@ The state granaries answer to the _karezos_ (revenue officer) at Aravantara, who
 
 Kelborara counts the empire's bread, and its granaries are its politics. The houses' granaries in the eastern rows are full of grain bought for the capital, the tenant villages around the town are short in a lean year, and the sack-carriers who carry both are villagers' sons. The capital's factors hear that the granaries hold less than the clerks report, and one of them is paying to have the sacks counted. A roofless state granary in the western rows burned on a windless night though it held nothing that could burn, and the cohort's officer has not learned who was inside it. A carrier's younger brother has been missing since midsummer, and the fraternity's hall says nothing.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Kelborara has four carters' inns round the Counting Floor, full and loud in harvest weeks and half empty the rest of the year. A party that cannot find a bed at harvest time can rent a granary-keeper's loft above one of the halls, which is dry, cheap and smells of wheat. The town's one good inn, the [Measure]{.name data-type="place/structure"}, is kept for the factors of the grain houses and charges for its quiet.
 
@@ -56,7 +56,7 @@ Kelborara has four carters' inns round the Counting Floor, full and loud in harv
 - **The lean-year price.** A factor in Orzara hears that the Kelborara granaries are lower this year than the clerks have reported and hires a party to count the sacks in three of them, without the keepers knowing.
 - **The carrier's brother.** A sack-carrier asks a party to find his younger brother, who left the tenant village for the town in spring and has not been seen on the Counting Floor or in the fraternity's hall since midsummer.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provnchyln|Province of Hilen]]
 : parent province

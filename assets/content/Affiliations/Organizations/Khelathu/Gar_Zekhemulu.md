@@ -40,7 +40,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Gar-Zekhemulu** is old enough and large enough that its affairs need a steward of their own, and [[place-galezkara|Galezkara]] judges the house by the steward it keeps. A mediocre appointment reflects on the family's judgment as much as on the servant's competence. A steward who serves this household well builds a reputation the other great houses of the capital notice, and a poor one is replaced before the damage spreads.
 
@@ -60,7 +60,7 @@ The household is large enough to need a dedicated steward, who manages its affai
 
 If you are hired into such a house, remember whose name is on the entries you write. They are the master's, and the steward keeps them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The city it belongs to

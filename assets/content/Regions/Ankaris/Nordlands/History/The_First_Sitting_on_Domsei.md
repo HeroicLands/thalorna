@@ -94,7 +94,7 @@ What they swore that evening is the whole law of the island. Steel would never a
 
 One thing the kings did not do. The dead of 287 were burned where they fell, but no grave-ale was drunk for them, because to drink it is to speak the reckoning over it, and the reckoning names who owes. Four centuries of [[lore-kinhalcrdt|hall credit]] compound on that question. A crown that admitted its hirv struck first would owe wergild for nine jarls to four other crowns, with the interest the north keeps on an unpaid debt, and no king has been willing to be the one who says it. So the dead of Domsei are the unreckoned dead, and the island is a _vrellvoll_, a blood-field of the silence: nothing sings there, no ewe has dropped a living lamb on it, and for six years in every seven the herdsman who rows out to count Nordheim's sheep counts one figure more than he has sheep at dusk and does not count again. The Landsgudi's hallowing closes the ground for the days of a sitting, and lifting the peace opens it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The ting-peace.** A blow struck inside the stones is an offense against the gods and the five crowns together, and no wergild settles it, because a man who draws steel there feels the dead of 287 stand up behind his seat.
 - **The seats and the quarrel.** Twenty-seven, unchanged since; Norgaad's five and Vithgard's three are the oldest grievance in the north.
@@ -103,7 +103,7 @@ One thing the kings did not do. The dead of 287 were burned where they fell, but
 
 A party at a sitting can be handed either half of this. A Malagnan claimant who offers to drink the grave-ale of 287 in his own name is offering to reckon the debt, and a reckoning that found Nordheim's hirv drew first would put the island's keeping in question before every king in the north. And the field under the seats is thin, and held shut only by the hallowing: a [[affiliation-nahild|Nahild cell]] that means to spill blood inside the stones at the sixty-third sitting would open it with all five kings sitting on it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-domsey|Domsei]]
 : the island, the seats and the hallowing

@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [swoasisbelt], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 The people who live in [[place-vahurdash|Vahurdash]] walk on Veshkun every day. The settlement of four thousand is a small thing set down in the northern corner of a much larger plan, and what the sand has not taken of the old city surrounds it on three sides: a grid of streets forty feet wide, houses without roofs, courtyards with the stumps of palms in them, and at the dry rim, where the belt's last streams fail, a long wall of fitted stone with the sand banked to its parapet. This is the fifth city of the Tellumi, in the dry northern rim of the belt, the place where the streams ran out.
 
@@ -40,7 +40,7 @@ The temple quarter is the prize: courses of carved stone, columns with their let
 - **The opposite purpose.** A rival house in exile has made the same offer, and wants the tablets in its own hands before the Council of the Princes sits again.
 - **The vaults under the lanes.** The camel spiders that come up at dusk take the settlement's goats and sometimes its children, and the settlers want the vaults under their own lanes cleared.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vahurdash|Vahurdash]]
 : the settlement reclaimed among the ruins

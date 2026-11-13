@@ -22,13 +22,13 @@ A typical one is a ring of dry-stone wall on a spur, with a gate-tower, a cister
 
 The forts are not _shorukshetras_ (blood-fields). Their kingdoms ended in successions, debts and lost wars fought elsewhere, and their dead were burned. The hill villages keep away from them at night all the same, because a fort with its gate walled up is a place someone wanted shut.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The charter.** A family with its clan name in a dead kingdom's charter wants its fort, and has asked the janpoda below for leave to unwall the gate. The janpoda's sabhra is divided: an occupied fort above the fields is a kingdom waiting to happen.
 - **From the inside.** In one fort above the Bharava the walling of the gate has been pulled down from inside, the stones lying outward on the path. Nobody went in. The villages want to know what came out.
 - **The cistern.** A shepherd's boy dropped into a fort's cistern after a goat and came up with a bronze seal of a king nobody can name.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-hundredcrwn|The Hundred Crowns]]
 : the age that built most of them

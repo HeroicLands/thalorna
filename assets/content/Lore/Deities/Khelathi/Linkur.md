@@ -17,7 +17,7 @@ He is the second of [[affiliation-empireakhlth|Au'Khelathu]]'s two hunt-patrons 
 
 In the guild's tradition, Linkur and Linhur are brothers, and the guild swears to both because a brother's judgment is never given alone. Beyond the hunt there is nothing to tell: Linkur is a guild god, and his whole being is the clean kill. He has no myth, no cosmic role and no place in the [[affiliation-khelathpnthn|Khelathi Pantheon]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-linkur|Faith of Linkur]]
 : the cult and its offices

@@ -92,7 +92,7 @@ The house built its wealth on coastal trade and the pans and kept it by keeping 
 - **The answer to the Treasurer.** Arnela must give Lizela's answer to the crown's loan before the council votes, and she wants a party to find out which of her council colleagues is selling her letters to Aurente.
 - **Debts of the father.** The Taruzel merchant's papers must be proved or broken before the house's enemies on the council learn of them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-lizela|Lizela]]
 : the house's town

@@ -17,7 +17,7 @@ data:
 # terran_analog: the Mississippi valley and the Southeast, with the Florida and Gulf coasts and the Appalachian Mountains on its eastern side; Ne' P'uqan, the Black Water, is the Great Dismal Swamp; the shell towns are the Calusa country of southwest Florida
 ---
 
-## Overview
+## Overview {#overview}
 
 The Tokchi Aska Region is the land of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It runs from the valley of the great river in the west, over the old forested ranges, down to the swamps and the shell coasts of the south. About 1,500,000 people live in it, more than in any other land of the north, and most of them live within a day's walk of a mound.
 
@@ -53,7 +53,7 @@ The great towns of the One Fire are its mound towns, and each country has its ow
 
 To the north the valley opens into [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the One Fire contests with the [[affiliation-osetakona|Maple People]]. To the west, across the river, the land rises into the grasslands of the [[affiliation-tenlaya|Grass People]], whose bands raid the western towns. Shell from the coast goes up the river to the heartland's engravers, copper comes down from the Maple People's lake country in trade and in plunder, and the few southern goods that reach the region come overland through the [[affiliation-teyumi|Turquoise People]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire, the nation that holds this land

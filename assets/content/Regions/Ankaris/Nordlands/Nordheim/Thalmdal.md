@@ -20,7 +20,7 @@ Status
 Current Master
 : [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]
 
-## Overview
+## Overview {#overview}
 
 Thalmdal is what the Nordmen call Haulonna, a hidden enclave of the [[lore-flksenali|Senali]] in the deep interior of [[place-nordheim|Nordheim]] and one of the northernmost sanctuaries of the Firstborn anywhere in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. For centuries it lay concealed in a forested mountain valley, shielded from human knowledge by wards older than the [[affiliation-vylarinmpr|Vilérian Empire]]. The Nordmen who hunted the surrounding highlands sometimes spoke of a valley where the trees never lost their leaves, where the snow melted before it touched the ground, and where the birdsong was strange and beautiful, but nobody could find the way there twice, and most people took the stories for tall tales. They were accurate. Haulonna is Senali for the hearth of the unfallen leaf, and the Nordmen were describing exactly what it says; Thalmdal, in their own tongue, is the hush that has lain over the valley since.
 
@@ -56,7 +56,7 @@ The destruction showed that Senalian enclaves, long thought inviolable, can be f
 
 Among the Nordmen the spreading blight is a growing concern. The highland clans know the hidden valley from the songs, and the older velvur hold that the songs tell the truth about what happened to whatever it once sheltered. Several have gone to look and have not returned.
 
-## See Also
+## See Also {#see-also}
 
 [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]
 : the Nightwight necromancer who destroyed the enclave

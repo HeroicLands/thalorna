@@ -62,7 +62,7 @@ In the first dozen years of his reign the first Orzas walled the crown, built th
 - **The vouching.** A petitioner from the provinces has been held in the gatehouse for three days, and his patron on the Heights will not vouch for him. His wife hires a party to find out what the patron is afraid of.
 - **The rollover.** A factor of a great house of [[affiliation-danvar|the Danvar]] carries his house's terms for the throne's next loan up the Paldor this week, and a rival house hires a party to learn them before the chamberlain does.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sixhillsvyl|Six Hills]]
 : the hills of Orzara

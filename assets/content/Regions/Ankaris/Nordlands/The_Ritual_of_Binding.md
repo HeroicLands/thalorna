@@ -29,7 +29,7 @@ Sealing Njorven turns on knowledge, strategy and diplomacy as much as on the rit
 
 The Ritual seals; it does not kill. It has evidently been worked before, since Njorven was in a watery prison to begin with and is stirring out of it now, and whatever is achieved at the coastal temple is a reprieve of the same kind. The velva says it last, and plainly: everyone involved knows it.
 
-## See Also
+## See Also {#see-also}
 
 [[being-njorven|Njorven]]
 : the Sea Wraith the rite seals away

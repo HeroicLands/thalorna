@@ -17,7 +17,7 @@ data:
 # terran_analog: a Haida village of Haida Gwaii, such as Skidegate or Masset, with its canoe builders
 ---
 
-## Overview
+## Overview {#overview}
 
 The beach at Gwemlasis is never empty of canoes, and most of them are not finished. Thunderbird Beach, the village of the Thunderbird House, stands on a sheltered strait shore of the [[place-yatsalargn|Outer Islands]], and along its sand lie war canoes in every stage: rough hulls just floated down from the forest, hulls being hollowed with adzes and fire, hulls full of water and hot stones to steam their sides wide, and finished canoes painted black and red with a thunderbird on the bow, waiting for their buyers. About 1,800 [[affiliation-kelwanuk|Kelwanuk]] live here in nine plank houses, and the poles before the houses are the oldest on the coast.
 
@@ -37,7 +37,7 @@ The chief of the Thunderbird House is [[being-dusdoltalwa|Dusdoltalwa]], Thunder
 
 The nine houses face the strait in one long row, and behind them the forest begins at once. The island has no eulachon river, so Gwemlasis buys its grease from the Long Inlets, and the village is poorer in food than in anything else; in a bad salmon year the Thunderbird House trades a canoe for a winter's grease. The village's refuge is not on a headland but on a small island off the beach, reached by canoe and impossible to approach by any other way.
 
-## See Also
+## See Also {#see-also}
 
 [[place-yatsalargn|Outer Islands]]
 : the great islands across the strait

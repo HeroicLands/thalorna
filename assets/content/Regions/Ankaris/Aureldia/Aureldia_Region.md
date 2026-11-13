@@ -103,7 +103,7 @@ To the **southeast**, [[place-midhalnrgn|Midhalión]] is at once Aureldia's grea
 
 To the **east**, beyond the [[place-drenavrspn|Drenavar Spine]], lie the interior regions of Ankaris. Contact is thinner and filtered through mountain passes, and the interior peoples view Aureldia as distant and slightly unreal—a land of cathedrals and bards on the far side of the mountains.
 
-## History
+## History {#history}
 
 Aureldia's history is several histories that touch at a handful of points: the Pelwar coming west over the mountains and the water, the legions coming west after them, and the Empire's going. Dates are in [[lore-commoncal|the Vilérian Calendar]]. The ages in brief:
 
@@ -121,7 +121,7 @@ Aureldia's [[lore-bloodfield|blood-fields]] lie mostly in Provénzia, which has 
 
 Aureldia uses the **Vilérian Calendar**—the AF/BF system established by the [[affiliation-vylarinmpr|Vilérian Empire]] after its founding, now universally adopted across the region. See [[affiliation-vylarinmpr#the-vylarian-calendar|the Vilérian Empire's calendar]] for the full reckoning.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
 : The Twelve; the region's defining faith

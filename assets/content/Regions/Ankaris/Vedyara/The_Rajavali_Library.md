@@ -30,7 +30,7 @@ Historians come from across the region and are admitted. The question they ask a
 
 What a visiting scholar is not shown without the Memory-Keeper's word is the correspondence shelf in [[place-shitakoshta|Shitakoshta]], which holds letters to and from janpodas and kingdoms about the dissolution and about whether it should be repeated elsewhere. Some of that correspondence is sixty years old and some of it arrived this year.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepur|Rajepur]]
 : the temple-seat

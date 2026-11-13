@@ -15,7 +15,7 @@ data:
   government: selatgrrthsr
 ---
 
-## Overview
+## Overview {#overview}
 
 "Before we go in," a schoolmaster of [[affiliation-rethsaar|Reth'Sa'ar]] tells the family of a seven-year-old at the city gate, "understand what this place is for. The schools do not teach your son to be clever. They teach him to be exact, and exactness is what the empire pays for."
 
@@ -41,7 +41,7 @@ The Thaz'Lekhau of Reth'Sa'ar is less wealthy than the heads of the great solar 
 - A sealed chamber of the library-temple, walled up since the house of the sun was closed and its doctrine declared heretical ([[lore-sunhouse|the Sun-House at Magu-Thelqen]])
 - The scriptoria and the medical, legal and mathematical learning of the temple
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]]
 : parent selat

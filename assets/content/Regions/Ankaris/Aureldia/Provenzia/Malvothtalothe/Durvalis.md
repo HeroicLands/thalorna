@@ -59,7 +59,7 @@ because everyone involved is snowed in together and will be until spring.
 
 The campaign season is at its height and the town is full. The levy is out along the road, the remount lines run to the walls, and the victualers are already laying in for a winter when the passes shut and nothing comes up from the lake for months. That store is the town's present quarrel. Barrels in the garrison's winter store have begun to spoil, and they carry the mark of the salter [[being-chynrkrsvr|Chinara Kórisvar]], who says the mark is forged by a rival victualer. The quartermaster must have a sound store before the snow, and the Winter Assize must hear the claim and counterclaim when it sits, with both parties shut in with the court until spring.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-pirnebris|Pirnebris]] · [[place-tiravellake|Lake Tiravel]] · [[place-tarvenirgn|Tarvénia Region]]
 - [[scenario-hndsrdngssn|Hands for the Raiding Season]]

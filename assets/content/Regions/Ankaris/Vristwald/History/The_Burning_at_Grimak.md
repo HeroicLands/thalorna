@@ -76,7 +76,7 @@ For four winters the nest grew, and the raids out of the thicket grew with it. I
 
 The Grukar fight hardest at the spawner, and the muster had to cut its way to the spawn-chamber at the thicket's heart through the whole tribe. It burned the chamber with the Ahk in it and fired the thicket behind it. Most of the tribe died in the burning and the fight before it, and so did a third of the muster. The muster's own dead were carried out, named and burned, and went home. The people the Grukar had taken in the four winters before had already been eaten, and there was nothing of them to carry.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **[[place-grimak|Grimak]], the fierce thicket.** A ring of burned stumps around a black hollow, regrown with thorn. It is a [[lore-bloodfield|blood-field]]: the people taken there died unreceived, and something in the thicket calls Varokh names in a grandmother's voice.
 - **[[place-mahnhrom|Mahnhrum]], the empty mound.** A kinsmen's mound with grave goods and no dead in it, for the taken. A Grukar raid that takes another of the village's people opens the old argument at once: whether to open the mound for the new name, or raise another.
@@ -84,7 +84,7 @@ The Grukar fight hardest at the spawner, and the muster had to cut its way to th
 - **The custom at [[place-frithholt|Frithholt]].** Frithholt, the village nearest the old lost ground, shelters displaced kin without claiming them as its own, and has since the Waking.
 - **The [[place-radholt|Radholt]] alarm.** The grove council at Radholt sounds its alarm if anyone is missing near the thicket, and the whole village goes out with torches before dark.
 
-## See Also
+## See Also {#see-also}
 
 [[place-grimak|Grimak]]
 : the thicket and the field

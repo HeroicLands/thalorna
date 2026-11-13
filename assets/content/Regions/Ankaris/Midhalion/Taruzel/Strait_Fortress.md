@@ -8,7 +8,7 @@ tags: [taruzel, yamuzel, fortress]
 data: {demonym: null, lore: [], parents: [yamuzel2], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Strait Fortress stands on the eastern cliffs of [[place-khamisar|Khamisar]] above the city of [[place-yamuzel2|Yamuzel]], where the narrows between Khamisar and [[place-qalirel|Qalirel]] close to three miles, and no hull goes through the heart of the islands of the [[place-taruzelrgn|Taruzel Region]] without passing under its walls. Vilérian engineers built it, and Taruzelian marines hold it. In a sailor's mouth "the strait" means these narrows, and the fortress gave the word that meaning ([[place-zupumun|Zupumun]]).
 
@@ -45,7 +45,7 @@ Vilérian engineers built the fortress to close the narrows to the empire's enem
 - **The second key.** [[being-yshdyjkdn|Yushuduya Jakuduni]] hires a party to learn whom the Admiral's Council's man for the strongroom's second key owes, before he stands at the strongroom door.
 - **The last boat.** A sergeant of marines who grew up in the Veterans' Quarter asks a party to carry word to [[being-rzznpddn|Razzina Padduni]]'s hall that the Commander means to catch the last boat this year.
 
-## See Also
+## See Also {#see-also}
 
 [[place-yamuzel2|Yamuzel]]
 : the city it stands over

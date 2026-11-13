@@ -171,7 +171,7 @@ The reckoners of the Ganoka-shalda compute the same year instead of sighting it,
 
 Vedyara's neighbors keep their own counts and not the Madustan one. [[affiliation-empireakhlth|Empire of Au'Khelathu]] dates from [[lore-qettelgu|the Qet Telgu]] and the [[affiliation-tantsouempr|Empire of Tantsou]] from the **[[lore-clndrstrlgy|Celestial Calendar]]**'s [[lore-greatcnvrg|Great Convergence]]. None of the three converts to either of the others in ordinary use. A trader or an envoy crossing between them carries both dates and translates neither.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-triyangasampradeya|Triyanga-sampradeya]]
 : sights the year at the Surta temple

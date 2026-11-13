@@ -81,7 +81,7 @@ The Old Mole's stones are the oldest thing on the island, and nobody can date th
 - **The census.** [[being-hrundthrsk|The Harbormaster]] must certify the spring census, and both candidates want a witness to the count who is not in either house's pay.
 - **The spring-houses.** A village of the South Shore has barred its spring-house to the city's water-carts, and the carters want an escort.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-calypsa|Kalipsa]]
 : the city-state that governs the island

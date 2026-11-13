@@ -55,7 +55,7 @@ Selvin was a hill of gardens while the [Vilérian Republic]{.name data-type="aff
 - **The votes.** Nethoras Mardovanes wants to know which _kurthoi_ on Selvin would vote his ancestor a temple, and which of them already owe the house that would vote against it.
 - **The seating.** The steward of [[affiliation-mardovanes|House Mardovanes]] must seat the Olkassa wedding feast, and the friends of every claimant expect a place near the high table. He hires a party to learn, before the invitations go out, which guests will not sit beside which.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sixhillsvyl|Six Hills]]
 : the hills of Orzara

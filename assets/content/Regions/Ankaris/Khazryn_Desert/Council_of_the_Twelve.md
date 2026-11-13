@@ -46,7 +46,7 @@ data:
 sohl: {system: {commonSkills: [atarzadilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Council of the Twelve**, the _ghizolukhem_ in [[skill-atarzadilng|Atárzadi]], is the common council of the [[affiliation-tribestrzd|Tribes of Atarzád]], and the nearest thing the tribes have to a government. It meets once a year at [[place-beitshofar|Beit-Shofár]], the priestly seat at the foot of [[place-mountshofar|Mount Shofar]], for a session of six weeks. Each of the twelve tribes sends its Rezhul (hereditary chieftain), the senior elders of its principal lineages and its senior priest. Between sessions there is no council at all: each tribe governs the city or the ground apportioned to it, and the Rezhuls deal with each other directly.
 
@@ -80,7 +80,7 @@ Only a tribe has standing at the session. An outsider with business there, a car
 - **Testimony about the Prophet.** The Ozhmarod want Aqeshat honored and the Teghumod want her repudiated, and each wants a witness who heard her preach to stand before the Rezhuls. A witness the Council finds lying is repudiated or expelled, whichever tribe sent him.
 - **Word from the north.** The Envoy of the Twelve wants to know, before the session closes, whether the northern dovaq is a man to send an envoy to or a man to acclaim a Zhudek against, and needs riders who can reach his camp and come back.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
 : the confederation the Council speaks for

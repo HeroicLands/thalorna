@@ -63,7 +63,7 @@ In [[lore-charterwar|the War of the Charter]] the port cities held the coast for
 
 In [[lore-warprinces|the War of the Princes]] the coast houses backed the prince who promised a crown strong enough to bind the provinces, and the compromise that ended the war left them richer and the crown no stronger. Every reign since has added to the palace and the harbor, and several have borrowed to do it.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmprvnz|Kingdom of Provénzia]] · [[place-kalveza|Kalveza]] · [[place-valarencity|Válaren City]]
 - [[affiliation-hseledravren|House Lédravren]], whose court is here · [[affiliation-brnngbrnd|Order of the Burning Brand]], whose chapter house is here

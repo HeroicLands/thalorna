@@ -15,7 +15,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 Koathevoi is the terrace town. It stands where the broadest of the eastern valleys meets [[place-klhrlake|the Bowl Lake]], among terrace walls that rise above it for a morning's climb, and it holds the granaries from which the interior is fed. The Kaliharans call the soil here _koathevoi_ (dark soil), and the lineage [Koathevoi]{.name data-type="affiliation/lineage"} that holds the largest share of [[place-klhrestrrc|the Eastern Terraces]] is named for it. The Master of the Terraces, the office of [[affiliation-kalihara|Kalihara]] that answers for all the terraces together, keeps its house in the town.
 
@@ -35,7 +35,7 @@ Westward the water, with the drowned walls in the near shallows and [[place-klhr
 
 The town is a day along the shore from [[place-ithorianu|Ithorinu]] by the paths on the terrace walls, and the walls are watched the whole way. A boat from the other shores lands at the granary quay, where the Master's clerks ask what it carries.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrestrrc|The Eastern Terraces]]
 : the country the town holds

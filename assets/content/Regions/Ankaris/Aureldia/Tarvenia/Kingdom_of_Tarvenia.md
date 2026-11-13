@@ -66,7 +66,7 @@ sohl: {system: {commonSkills: [tarvenlng]}}
 # terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps—the senior of the four Tarvenan feudal kingdoms, holding the mountain heartland and the principal mountain passes."
 ---
 
-## Overview
+## Overview {#overview}
 
 The Kingdom of Tarvénia is less a unified state than a political idea—a loose confederation of fiercely independent petty kingdoms, city-states, and frontier territories held together by a shared language, a common warrior culture, and periodic external threats. The High King of Tarvénia claims sovereignty over all Tarvéni-speaking lands, but in practice each local lord, town council, and clan chief governs their own territory with minimal interference.
 
@@ -136,7 +136,7 @@ Tarvénia's culture prizes individual courage, personal honor, and independence 
 
 The Tarvenans are deeply skeptical of magic and of the [[affiliation-ordoarcanis|Thordimalon]] in particular. The Arcane Order maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The kingdom is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
@@ -158,7 +158,7 @@ The lords of Lyenrik have contested the crown more often than anyone, and [Estar
 
 About 709 AF the hearth of the High Hall went out, and the greater candidates, the king of Lyenrik, [[being-zenotholtr|Zenoth Oltris]], among them, could each block the others. The lords gave their voices instead to [[being-ularrekgarr|Ularrek Garrundeta]], an old lord of Asturath's high valleys, who swore the terms and lit the hearth ([[lore-ularrekelect|The Election of Ularrek]]). He holds the crown still, as the guest of the king of Asturath at Lezkora, and the next election is already being bought.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tarvenirgn|Tarvénia Region]]
 : Regional overview

@@ -83,7 +83,7 @@ The factor is the Bataren bookseller who keeps the shop below [[being-zdmdrvs|Ze
 - **The commission book.** Cholsama wants a party to find the factor who paid for the copies of the account of Sirmenne, and to learn who he paid for.
 - **A physician for the march.** The Warden of the Talote has asked the academy for a physician to keep the garrison at [[place-durvalis|Durvalis]] through the raiding season. No licentiate has volunteered, and the Rector needs one escorted there who will go.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aureliane|Aurelane]]
 : the city of the academies

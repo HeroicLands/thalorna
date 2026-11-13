@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Do not wash at the low steps after dusk," a priest of [[affiliation-chelsur|Chelsur]] tells a newcomer to [[place-yathlemet|Yath-Lemet]] on the first evening, "and do not let a child go down to the water alone. The crocodile is the god's, and the crocodile is also what takes them. We keep both facts in the same head."
 
@@ -65,11 +65,11 @@ The Selat of Yath-Lemet is one of the eighteen provinces of [[affiliation-upperr
 
 The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Yath-Lemet governs fewer people than anyone else on the upper river, in a valley so narrow that farmers, villages and river-beasts share the same banks. His seat is Yath-Lemet, where he keeps his court and the chief temple of Chelsur stands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Yath-Lemet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : Parent selat-class

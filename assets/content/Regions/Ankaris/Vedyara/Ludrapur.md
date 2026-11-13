@@ -22,13 +22,13 @@ The march companies winter in it. The wall still turns the wind, the cisterns un
 
 The dead of Ludrapur were the townspeople, killed in their streets, and the town burned over them. The companies treat it as a ruin and not as a _shorukshetra_ (blood-field), and the ruin has given them no reason to think otherwise. They do not sleep in the palace hollow all the same.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The treasury.** [Marupal]{.name data-type="affiliation/polity"}'s treasury was never found. It was not in the palace when the host burned it, and the steppe did not carry it off, because the orghunoq's camps in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] had no march gold in them. A company sergeant has found a stair going down under the palace platform, below the cisterns.
 - **The seal.** Bhumipal's title to the march rests on Marupal having left no heir. A claimant arrives at Sandyapur with a seal cut with [Ashvakirti]{.name data-type="being/npc"}'s name and a genealogy that runs through a daughter nobody recorded, and the companies, who are owed arrears, are listening.
 - **The image.** The Sandyapur temple's image came from here. Its priests are quietly asking a party to find out whether the god went with the statue or stayed in the empty house.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-marupalfl|The Fall of Marupal]]—the burning
 - [[place-lantustal|Lantustal]]—where Marupal's host died

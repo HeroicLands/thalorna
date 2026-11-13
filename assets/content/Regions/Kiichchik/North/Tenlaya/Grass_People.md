@@ -69,7 +69,7 @@ sohl: {system: {commonSkills: [tenlayalng]}}
 # terran_analog: the pre-horse Plains bison hunters, with dogs and travois and communal drives such as Head-Smashed-In buffalo jump, and the Plains Village farmers ancestral to the Mandan, Hidatsa and Pawnee; the warrior societies that policed the hunt are the Plains akicita
 ---
 
-## Overview
+## Overview {#overview}
 
 The Tenlaya are the Grass People, about 300,000 people on the plains at the center of the north and in the dry country beyond the western mountains. They take their name from the grass (_tenla_), which feeds the herds that feed them. The south calls them _P'enqal Ch'akal_, after their grassland, and its traders the _Ts'okum Ts'omalil_, the Coyote People, after the coyotes painted on the shields of one of their warrior societies. Their ways are set out in the [[lore-tenlayaclt|Tenlaya]] culture note, and their tongue is the [[skill-tenlayalng|Tenlaya Language]].
 
@@ -125,7 +125,7 @@ Three troubles press on the Grass People at once. Last winter the One Fire burne
 
 Meat, fat, robes and hides go from the bands to the villages and on to the other nations; corn, beans, squash, sunflower cakes and the tobacco the village old men grow for every pipe on the plains go back. The bands trade with the Turquoise People for cotton cloth, turquoise and pottery, and through them reach the occasional southern good, a macaw feather or a copper bell, which a war leader wears and then gives away. Over the western mountains the bands trade robes to the Cedar People's summer traders for shell and dried salmon. Southern steel almost never reaches the plains.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tenlayaclt|Tenlaya]]
 : the culture: what the Grass People believe and what they owe

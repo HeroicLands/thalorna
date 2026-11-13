@@ -77,7 +77,7 @@ A second, smaller festival celebrates the heliacal rising of major stars—the m
 
 Individual worship of Khórsadra involves devotion to learning and truthfulness. A merchant might maintain a small shrine to the goddess in their counting-house, making daily offerings of incense or oil-lamp fuel while seeking her guidance on business decisions. A scholar will spend evening hours in study and meditation, deliberately seeking to increase their understanding of a subject as a form of prayer to the goddess. Some devotees practice a discipline of daily truth-telling—a commitment to avoid any deception in speech, no matter how small or convenient, as a way of aligning themselves with Khórsadra's principle and making their own lives an offering to her. A group of philosophers in Amradad is known to gather weekly to debate fundamental questions—not to reach definitive answers (which may be impossible), but to expose themselves and each other to new perspectives, to refine their understanding, to push thinking to sharper edges. They consider these philosophical debates a form of worship deeper than any ritual.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Khórsadra is perhaps the most intellectually demanding of all Ashaian religious orders. Unlike the warrior-priests of [[affiliation-bazhramis|Bazhrámish]] or the flame-keepers of [[affiliation-ataros|Ataros]], the priests of Khórsadra must combine spiritual devotion with scholarly attainment. The training is rigorous and extended, often lasting a decade or more.
 

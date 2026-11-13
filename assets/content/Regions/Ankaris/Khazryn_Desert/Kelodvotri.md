@@ -57,7 +57,7 @@ This season the stone over Kelodvotri is new, and it is chained. The Kuuyoyur ca
 
 Kelodvotri is marked on no map and lies off every caravan track. A string blown off the road by a dust storm in the [Long Dry]{.name data-type="place/feature"}, west of [[place-qisomrktcmp|Qiiso]], can reach it by the stars if its guide knows the mesa. The next water is three days off across open sand.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hskrrgn|Ghoshiqor]]
 : the sand range

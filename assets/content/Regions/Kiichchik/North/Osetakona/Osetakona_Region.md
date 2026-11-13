@@ -17,7 +17,7 @@ data:
 # terran_analog: the Northeast and the Great Lakes: New York, New England, Ontario and Quebec; the largest lakes are the Great Lakes, the Great Falls is Niagara, the Great River is the St. Lawrence, and the Copper Lake is Lake Superior
 ---
 
-## Overview
+## Overview {#overview}
 
 Osetakona Region is the land of the [[affiliation-osetakona|Osetakona]], the Maple People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is a country of lakes joined by rivers and portages, and of hardwood and pine forest, running from the inland seas of the west to the rocky shores of the eastern ocean. About 750,000 people live in it, in the palisaded villages of the eight nations of the Grove.
 
@@ -62,7 +62,7 @@ To the west the forest gives way to the grassland of [[place-tenlayargn|P'enqal 
 
 The Maple People's canoes carry copper, furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and on to the other nations. Their copper reaches every corner of the north, and the One Fire's engravers depend on it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-osetakona|Osetakona]]
 : the Maple People, the nation that holds this land

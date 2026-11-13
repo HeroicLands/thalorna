@@ -102,7 +102,7 @@ Three festivals mark the year. The Fire-Weeks are the faith's defining ordeal, k
 
 Two ordeals are held to win his favor. In the [Firewalk]{.name data-type="lore/custom"} participants cross a bed of hot coals barefoot to prove their devotion. In the [Flame's Trial]{.name data-type="lore/custom"} the faithful must survive in a volcanic region, relying on Svartbrandur's protection to endure its heat and danger.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-smideldur|Smideldur]]
 : the Order of the Inferno, priests who master fire as blacksmiths and forge-masters

@@ -15,7 +15,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 Ithorinu is the largest town of the interior. It stands on the eastern shore of [[place-klhrlake|the Bowl Lake]], where the river valleys of [[place-klhrestrrc|the Eastern Terraces]] come down to the water, and the Kaliharans call it _ithorianu_ (rain song) for the sound the [Wet-Turn]{.name data-type="lore/calendar"} makes on its roofs of laid bark. [[affiliation-councilisland|The Council]] of [[affiliation-kalihara|Kalihara]] sits at [[place-ilovanu|Ilovanu]], on the coast; Ithorinu is where the Elders of the lineages keep the houses they live in while the Council's business holds them, and where the island's record of what the Council has decided is kept.
 
@@ -35,7 +35,7 @@ The lake lies open to the west, with [[place-klhrmassif|the Massif]] standing in
 
 A traveler comes to Ithorinu along the terrace walls from the Cloud Pass or by boat from the other shores. A stranger is asked his lineage at the first terrace and again at the landing, and the Elders' houses are not open to anyone a lineage has not brought.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrestrrc|The Eastern Terraces]]
 : the country the town stands in

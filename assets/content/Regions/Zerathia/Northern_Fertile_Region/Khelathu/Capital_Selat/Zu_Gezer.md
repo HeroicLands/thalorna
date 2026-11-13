@@ -15,7 +15,7 @@ data:
   government: capitalselat
 ---
 
-## Overview
+## Overview {#overview}
 
 "Nobody sleeps in **Zu-Gezer** without cause," a keeper-priest tells a new apprentice on the dawn ferry. "It is held unlucky. So we cross at sunrise and cross back at sunset, and the dead keep the night to themselves."
 
@@ -55,7 +55,7 @@ For the GM: Khelafiru was no mere tyrant but one of the great sorcerers of his a
 - The cursed road—the warded Way of the False Uqa'a, the sorcerer-king embalmed alive and bound; by standing order, any who seek it are killed on sight
 - The mortuary temples of the royal dead, and the embalmers' and tomb-builders' settlements
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]
 : Parent selat

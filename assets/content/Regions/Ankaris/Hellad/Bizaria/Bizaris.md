@@ -28,7 +28,7 @@ The city lacks the political grandeur of [[affiliation-khryshteikhos|Krusteikhos
 
 The heads of the twelve greatest guilds make up the [[affiliation-cncltwlvbzrs|city's council]], which makes Bizaris the only League city-state with formal guild governance. The arrangement gives the city stability and endless subtle negotiation, as artisan interests jockey for precedence and resources. In League politics Bizaris keeps a careful neutrality, because its influence depends on staying indispensable to all of its rivals.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]
 : the confederation of city-states

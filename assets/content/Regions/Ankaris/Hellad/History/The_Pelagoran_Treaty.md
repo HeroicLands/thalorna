@@ -78,7 +78,7 @@ Pelagora became the [Vilérian Republic]{.name data-type="affiliation/polity"}'s
 - **Pelagora's boast** that it has never been conquered.
 - **The bronze copy** in the agorin, one line of which a Thirenaean student has chiseled away.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-heladturnedwrk|The Turned Working]]—the fall of Korinthea
 - [[lore-heladthyrsiege|The Siege of Thirenae]]—the blockade's last target

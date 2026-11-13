@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 [[place-khelaga|Khelaga]] sits where the river first divides, and the empire has put a toll on the division. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a country of old shrines and customs-stations at the delta apex. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-uqaadty|Uqa'a]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
 
@@ -65,11 +65,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 The seat is Khelaga, where the Halzi'a keeps court and the selat's chief temple of [[affiliation-uqaa|Uqa'a]] stands. Uqa'a, the sun, is the patron here, and the selat's old shrines and customs-stations stand at the point where the river first divides. The apex forts and customs-stations date from the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]), and the selat's western bank holds [[place-chariotfld|the Chariot Field]], where the chariot corps broke in 377 AF ([[lore-vylconquest|the Vilérian Conquest]]).
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Khelaga uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the customs-stations and the temple measure with the same attested weights. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

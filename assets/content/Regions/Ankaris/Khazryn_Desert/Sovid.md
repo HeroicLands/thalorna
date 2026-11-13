@@ -44,13 +44,13 @@ The riders of Idvaqor take the highest price on the road and count the camels ag
 
 Sand wurms are seen in the last dunes, and a caravan arriving after dark does well to wait for dawn. A rider who lost his caravan on the road is not taken back by his tribe, and some of them come to Sovid and stay. They live in the hall's loft and sell their knowledge of the stone desert to anyone who will pay, and some of what they sell is true.
 
-## Hooks
+## Hooks {#hooks}
 
 - A caravan master arrives one token short of the count the riders of Idvaqor expect, and they have told him the missing one cannot be bought.
 - A Tantsou patrol is waiting at the well to turn back any caravan carrying a particular cargo, and has not said what.
 - One of the outcast riders in the loft knows where a cistern lies in the hills that no tribe has found, and wants a party to take him there.
 
-## See Also
+## See Also {#see-also}
 
 [[place-idwkrrgn|Idvaqor]]
 : the eastern stone desert

@@ -36,7 +36,7 @@ The climate is brutal. A summer day can kill a man without water in a few hours,
 
 The region holds two countries. [[place-amradadrgn|Amradad]], in the northwestern corner along the sea, is the country of walled cities, irrigated oases and the caravan roads between them. The [[place-dunhardsrtrgn|Dunhara Desert]] is everything else: the open desert of the tribes, bounded by nothing but the customary circuits of the confederations and the oases each holds by right.
 
-## Peoples
+## Peoples {#peoples}
 
 The Dunhari live by lineage, household and the seasonal circuit, the yearly round of wells and grazing each tribe has walked for generations. A tribe is led by a **sheikh** whose authority rests on three things together—his birth, his personal standing and the consent of the elders—and who is a man with a title once he loses any of them. Below him stand the warriors, whose standing comes from raid and caravan escort; the poet-scholars, who keep the law and the genealogies; and the herders, craftsmen, traders and camp-followers who are most of the tribe.
 
@@ -82,7 +82,7 @@ Amradad taxes the caravans that pass through its cities and spends the revenue o
 
 **Southwest** lies [[place-xerathia|Zerathia]], and above all the [[affiliation-empireakhlth|Empire of Au'Khelathu]], met by land across [[place-khuqetmiglet|Khuqet-Miglet]], the desert march the empire garrisons and the western clans contest. Contact is ancient and constant: tolls, quarrels over wells and skirmishes at the march, and a sea trade carried by Taruzelian and Khelathi merchants on the Vilérian Sea.
 
-## See Also
+## See Also {#see-also}
 
 [[place-dunhardsrtrgn|Dunhara Desert Region]]
 : the open desert of the tribes

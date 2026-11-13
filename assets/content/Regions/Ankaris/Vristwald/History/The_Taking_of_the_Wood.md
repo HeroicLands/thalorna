@@ -99,7 +99,7 @@ They left holy ground behind them that the host did not understand: rock-cut shr
 
 The Varokh call Vristwald their primeval homeland, and the claim rests on both halves of their descent. The tellings keep two accounts of this century side by side and do not choose between them. In one, the people came out of the east with the spear and took the wood. In the other, the people came out of the oaks and were always here, and the strangers who came from the east were absorbed into them. Deepwood reciters tell both at the same Weskskald. The forest's old people hold that a child who asks which is true has not yet understood either.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **[[place-vethhrom|Vethhrum]], the hallowed mound.** The oldest kindred mound in the Deepwood, claimed by both tellings. A flood once opened its side and showed grave goods of two kinds lying together, and the Shaman who saw it had the side closed again before anyone could say which kind lay deeper.
 - **[[place-theodhaven|Theódhaven]], the leavers' landing.** A stone landing and rock-cut shrines on the Edriwald bay that no Varokh village uses. Varokh boat crews cut across it, and the Wardens turn them back.
@@ -107,7 +107,7 @@ The Varokh call Vristwald their primeval homeland, and the claim rests on both h
 
 A Varokh child who finds a carved stone on the bay shore and brings it home brings a question with it that no Shaman in Edriwald wants to answer: whose dead the stone was cut for, and whether they are owed anything by the people who took the wood.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-wintertally|The Tally of Winters]]
 : the ages of the forest, from this one on

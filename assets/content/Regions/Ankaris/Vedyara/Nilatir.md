@@ -35,7 +35,7 @@ Most of the cloth goes west and south in [[affiliation-chendrapur|Chendrapur]]'s
 
 A ship's master does not ask to see a wrist. The crews are made up in the lodging houses at the landward end of the street, and a third of the men in them are **Outcastes**, placed outside the tarona, and some number nobody counts are bonded servants who came down the river without a token. The temples take the position that what happens on a deck is outside their province. The Loom-Council takes the position that the cloth has to move. A runaway who reaches the yards is not sent back, and a runaway who is taken on the road above the town is.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vyalendra2|Vyalendra]]
 : the city-state whose port this is

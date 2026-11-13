@@ -39,13 +39,13 @@ A Reading held at the edge for the unnamed quiets the field for the night it is 
 - **Necromancers,** who find a thin field of unreceived soldiers an attraction.
 - **Boat-crews** who misjudge the hour and moor on the wrong bank.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The Vilérian request.** An embassy wants its dead raised for an honorable burial, and the court wants the price to be [[affiliation-mtrrchybth|Bethua]]. The priests of [[affiliation-selmoros|Sélmoros]] who would place the dead in the god's keeping would quiet one bank, and not the other.
 - **The second bank.** A chariot heir followed the second bank and came back at dawn in the same reach, changed, and will not say who stood on it.
 - **The lamp-lit shapes.** A family of the corps swears it saw its son's name written on the water, a name the Reading never entered.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-vylconquest|The Vilérian Conquest]]
 : the battle that made it

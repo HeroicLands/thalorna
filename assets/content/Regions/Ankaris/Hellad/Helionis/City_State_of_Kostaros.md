@@ -75,7 +75,7 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Twenty years I have paid the tax and stood the levy," says a metic who has kept a shop on the Kostaros coast for that long, "and the assembly has never once asked what I think." A resident foreigner's lot is the same in every Helionite city-state, and what marks Kostaros is its land. It is a coastal city-state of about 40,000 people that governs the district around it, the [[place-kostarosdst|Kostaros District]], which takes in the town of [[place-myrtillos|Mirtelos]]. An oligarchy of its wealthy patron families holds the government.
 
@@ -93,11 +93,11 @@ Kostaros works inside the forms the seven city-states share. The assembly of cit
 
 Standing is the common Helionite ladder, and the metic's complaint belongs to its middle rung: a resident foreigner is taxed and liable to the levy, with no vote and no right to own land. A citizen by descent votes in the assembly and serves in the militia.
 
-## Relations
+## Relations {#relations}
 
 Kostaros is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and shares the [[skill-helonclng|Helonik tongue]] and the festivals of the other six cities. Within its land lies Mirtelos, a town of 4,000.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
 : the seven cities and how they are governed

@@ -14,13 +14,13 @@ data:
   banner: khelathubnr
 ---
 
-## Overview
+## Overview {#overview}
 
 "**Lut-Regit** sells to the city before it sells to anyone else," a farmer from the next village complains over the boundary ditch, "and the city always wants more."
 
 Lut-Regit farms the country around [[place-galezkara|Galezkara]], within [[place-galezkaraslt|Galezkara Selat]]. It renders grain and labor up to the capital, and takes back the custom of a city large enough to want more than its own hinterland grows. A village this close to Galezkara sells to the capital before it sells to its neighbors, and the neighbors notice.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkaraslt|Galezkara Selat]]
 : The selat country that holds it

@@ -43,7 +43,7 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 A clerk of the provincial administration in [[place-skoraz|Soraks]], asked by a stranger for the Zarkedis house, takes him to the corner of the square and points. "That one, with the new shutters. It is not theirs. The creditors sold it with everything in it, the cupboard by the door included, and the buyer has not taken the faces out. You will find the old man in two rented rooms behind the tannery. Do not call him by the name in the street. He still answers to it."
 
@@ -65,7 +65,7 @@ House Zarkedis has a name and no house, and its quarrels are all over debts. Its
 
 The house wants its masks back in a cupboard it owns. It wants a seat again, in Soraks or anywhere, and a name the Empire repeats; a Vilérian is a failure when the city stops saying his name, and the Zarkedis have heard it stop. Kalestratos wants more than that, and the Zarkedis name is what he says when he is asked why.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The cupboard across the square.** Kalestratos hires a party to buy the Zarkedis masks from the house's new owner, who refuses to sell and will not say who he bought the house for.
 - **The ledger.** The creditors' sale was recorded at Soraks, and the page that names the buyer has been cut from the book. The clerk who cut it is still in the provincial administration.
@@ -74,7 +74,7 @@ The house wants its masks back in a cupboard it owns. It wants a seat again, in 
 **For the GM:** The buyer at the creditors' sale was a factor of House Thalurates, and the house in Soraks, its cupboard and its masks belong to that house. Ilthere Thalurates knows. She has not told Kalestratos, and she means the masks to be the price she names when she asks him for the loyalty she wants.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-skoraz|Soraks]]
 : the city of the house

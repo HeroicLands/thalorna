@@ -20,7 +20,7 @@ Forty families live by the burning: the wood-sellers, the ghat-keepers, the barb
 
 The village farms as well, and farms badly, because the best of its ground is what the burning-ground stands on.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

@@ -15,7 +15,7 @@ data:
   culture: khazrynclt
 ---
 
-## Overview
+## Overview {#overview}
 
 Three days north-west of [[place-ashkarad|Ashkarad]], where the irrigated strip of [[place-swoasisbelt|Tellumel]] frays into broken ground and the last springs have failed, a low hill is crowned with something that catches the sun like a lake. It is the palace of [Nimeshun]{.name data-type="affiliation/lineage"}, the "house of silver", a cadet line of the craft house of Ashkarad whose princes held a small oasis of their own and made their fortune in silvered glass: mirrors, lamp-chimneys and the clear lenses that the whole belt bought. The Tellumi call the palace **Relvanninesh**, "the princes' house". The tribes of the edge call it the Glass Princes' Palace and give it a day's ride of empty ground on every side.
 
@@ -68,7 +68,7 @@ The household sits at table as it has for ninety years, and travelers still come
 
 The palace stands on a hill in open ground. There is no shade and no water within a day. The track from Ashkarad is marked by a line of glass rods, stuck into the sand by the house's servants in the first years and never taken up. At noon the hill throws a glare that blinds.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ashkarad|Ashkarad]]
 : the craft city of which the house is a cadet line

@@ -183,7 +183,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the Unhoused. A person put out of the winter house for a fault the council has named is fed by nobody, and the closed months are not a season in which a person who is fed by nobody lives. The council cannot compel anything, so the sentence is carried out by every hearth declining to feed him, and no one hearth-head has to say it. The mercy the Hvarn grant in every other matter, the place at the fire for the stranger and the widow, is not extended to the person the house has named. It is rarely done, and the council has no form for undoing it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-hvarnguides|The Hvarn]]
 : the hearths, the winter council and its offices

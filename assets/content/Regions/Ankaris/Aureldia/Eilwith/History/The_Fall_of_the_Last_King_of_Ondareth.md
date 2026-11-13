@@ -56,14 +56,14 @@ The captains had won a war and needed a way to govern what they had won, and the
 
 Almost no one in Thornburi has ever seen the original, and the Senate has never been corrected. The forms were copied without being understood, and Ondareth has performed them in earnest for nearly three centuries.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The [[affiliation-repblcndrth|Republic of Ondareth]].** A Senate at Thornburi whose seats are bought and whose legions are the best-drilled on the island.
 - **The Senate house and its portico.** Raised by masons working from descriptions of buildings none of them had seen.
 - **The tyrant's rock.** The broken castle above [[place-thornbury|Thornburi]], climbed by the Senate once a year.
 - **The citizen-soldier tradition.** Service in the levy as the road to office, from Zalmen's army.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-repblcndrth|The Republic of Ondareth]]
 : the government the rising made

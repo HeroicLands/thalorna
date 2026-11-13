@@ -14,13 +14,13 @@ data:
   government: provnchyln
 ---
 
-## Overview
+## Overview {#overview}
 
 The first thing a newcomer learns in Kervalara is where the imperial forest begins, because the wardens of the town will show him the line and explain what happens to a man found on the wrong side of it. The crown reserves the great game-forest from [[place-hylen|Hilen]]'s farmland, and Kervalara, a town of two and a half thousand wardens, houndsmen and lodge-keepers, stands at its edge.
 
 The town swells when the court comes to hunt and drowses the rest of the year. Poaching the imperial deer is a serious crime, and the foresters of Kervalara are as much game-wardens and law-keepers as woodsmen. A warden walking a new man along the boundary puts the standing quarrel in a sentence: "Behind us, tenants who are hungry. Ahead, deer that belong to the emperor. Our work is to stand in between and keep both of them alive." The tension between the reserved forest and the tenantry around it is a standing feature of local life, and around Kervalara the penalty for poaching is the rope.
 
-## Arriving
+## Arriving {#arriving}
 
 The road to Kervalara runs through tenant fields to the very edge of the trees, and the edge is a made thing: a ditch, a bank behind it, and on the bank a paling of split oak stakes taller than a man, painted at every hundredth stake with the eagle. The town lies along the outside of the paling for half a mile, a single long street of timber houses with the forest at their backs, and the gate into the forest stands at the street's head, guarded day and night by a warden with a horn.
 
@@ -38,7 +38,7 @@ The town's other trade is the law. Poachers, wood-thieves and trespassers taken 
 
 The tenants of the villages round the forest keep a shrine of [[affiliation-lizelas|the Faith of Lizelas]] at the edge of their fields, where they pray for the harvest and leave bread for those hanged on the green.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 The forest is the crown's and is ruled by its officers. The head warden, [[being-greltharvolk|Grelthar Volkemates]], has kept the forest for sixteen years and commands some two hundred wardens and houndsmen; he answers to the household of the Orzas in the capital, and the province's _therkos_ (governor) at [[place-aravantia|Aravantara]] has no say in the forest at all. The forest magistrate is appointed from the capital in the same way and sits in the Lodge.
 
@@ -48,7 +48,7 @@ Kervalara itself is too small to hold a charter and is governed by the [[affilia
 
 The paling is moving again, and the villages are refusing. The order to carry it outward comes from the household of the Orzas, the head warden, Grelthar, carries it out, and the tenants whose fields it takes blame him. The forest magistrate in the Lodge hangs a tenant taken with a deer within the week, and a boy of fourteen waits on the green for a hind while his village raises a purse for a judge nobody has seen take one. The court comes to hunt this autumn after three years away, and several villages have refused to send beaters. A tenant whose cottage the paling took last spring went into the forest and has not come out.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Kervalara has two inns. The [Horn]{.name data-type="place/structure"}, by the forest gate, is the wardens' inn, and a stranger who drinks there is asked his business before his first cup is finished. The [Paling]{.name data-type="place/structure"}, at the far end of the street, takes carters and the tenants' carriers and is cheaper and friendlier. When the court comes, every bed in the town is let to its servants, and a party without a place in the court's train sleeps in the villages outside.
 
@@ -58,7 +58,7 @@ Kervalara has two inns. The [Horn]{.name data-type="place/structure"}, by the fo
 - **The hunt.** The court comes this autumn after three years away, and the head warden is short of beaters, since several villages have refused to drive. He hires a party to drive the deer and to watch the beaters.
 - **The magistrate's sentence.** A boy of fourteen is to be hanged on the green for a hind. His village has raised a purse, and the forest magistrate is said to take one, but nobody in the village has met a man who paid him.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provnchyln|Province of Hilen]]
 : parent province

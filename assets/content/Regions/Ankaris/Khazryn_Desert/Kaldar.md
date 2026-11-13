@@ -14,7 +14,7 @@ data:
   packFolder: khazryndesert
 ---
 
-## Overview
+## Overview {#overview}
 
 **Kaldar** is a city of about twelve thousand in the foothills on the southern edge of [[place-swoasisbelt|Tellumel]], between [[place-zargandur|Zargandur]] and [[place-kethramir|Kethramír]], where a copper-bearing spur of the Grazian foothills runs down into the belt. It is a later city than the seven. A scholars' college was founded there in the centuries after the seven cities, and the town grew around the college, which is why the Tellumi record of the seven does not count it. The [[affiliation-tribestrzd|Atarzád]] took it in the war without a siege, because the college would not close its gates to either side, and they hold it now. It is known across the scholarly world for one institution, the [University of Kaldar]{.name data-type="affiliation"}, whose research faculty in alchemy has made the study of mineral transmutation, the stable conversion of base metals and common stones into substances of greater rarity and value, its specialty.
 
@@ -45,7 +45,7 @@ The scholars' college on the copper spur was founded in the centuries after the 
 - **The runoff.** The water that runs off the refineries is not what it was when the Tellumi built the basins. A child's illness in the lower terraces is a symptom, and a physician from Zargandur who traces it to the University finds the University's patrons unwilling to hear.
 - **The old workings.** The deep mines under the spur break into passages that were not dug by any miner on the University's rolls. Students who go down looking for ore come back with stories.
 
-## See Also
+## See Also {#see-also}
 
 [[being-kayvondzrd|Kaivonad Zarid]]
 : a Senior Researcher of the University

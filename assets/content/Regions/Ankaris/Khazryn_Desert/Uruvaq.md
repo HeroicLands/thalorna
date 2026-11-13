@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [idwkrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 In the [[place-idwkrrgn|Idvaqor]], the east range, a line of low ridges stands out of the stone desert like the backs of kneeling animals. They are the Hollow Hills, and the wind gives them their name: at dusk, when the day's heat goes out of the rock, the air rushes through openings in the ridge flanks and the whole range moans on a single low note, audible a day's ride away. The tribes call the sound the breathing of the country, and the ridges are its lungs.
 
@@ -39,7 +39,7 @@ The tribes of the [[place-idwkrrgn|Idvaqor]] keep their watchers at the larger o
 - **The rest of the script.** The Tantsou scholar at the western passes pays a fortune for a copy of the painted walls, and needs someone the tribes will let in.
 - **The tribes' price.** The tribes of the Idvaqor want a thing brought out of Tantsou in exchange for their leave, and they will not say what it is until a party has agreed to carry it.
 
-## See Also
+## See Also {#see-also}
 
 [[being-sandwurm|Sand Wurm]]
 : the tunneler of the lower caverns

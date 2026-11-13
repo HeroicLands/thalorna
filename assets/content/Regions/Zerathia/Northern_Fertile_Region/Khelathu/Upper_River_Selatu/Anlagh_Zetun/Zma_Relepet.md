@@ -14,11 +14,11 @@ data:
   banner: khelathubnr
 ---
 
-## Overview
+## Overview {#overview}
 
 Zma-Relepet farms the basin of [[place-anlaghztnslt|Anlagh-Zetun Selat]], rendering its measure to the granaries each season. It lives by what the flood leaves behind, the silt as much as the water, and plants accordingly. A thin flood year means a thin village year, and nobody in Zma-Relepet pretends the two are separate questions.
 
-## See Also
+## See Also {#see-also}
 
 [[place-anlaghztnslt|Anlagh-Zetun Selat]]
 : the selat country that holds it

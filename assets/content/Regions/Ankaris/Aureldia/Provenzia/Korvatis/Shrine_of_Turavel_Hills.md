@@ -55,6 +55,6 @@ The shrine has survived because nobody could find it. That protection is wearing
 
 See [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Túravel Hills]].
 
-## See Also
+## See Also {#see-also}
 
 - [[place-thuravelhills|Túravel Hills]] · [[affiliation-firstgods|the First Gods]]

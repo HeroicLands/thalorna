@@ -13,7 +13,7 @@ data:
   packFolder: vedyara
 ---
 
-## Overview
+## Overview {#overview}
 
 The islands lie southeast of [[place-vedyarargn|Vedyara]] across open water, scattered over several days' sailing and belonging to nobody on the mainland. Each of the larger ones holds a coastal kingdom of its own, and the Vedyari deal with those kingdoms as they deal with any foreign court. What Vedyara knows of the chain it knows through its own shipping, and the charts are the property of the houses that made them.
 
@@ -21,7 +21,7 @@ On a dozen of the islands there is a Vedyari merchant colony, planted for the sp
 
 The [[skill-vedyarlng|Vedyari]] spoken in the colonies is the Eastern Outlier dialect and has drifted furthest of any. Case and agreement have gone, the gender distinctions are going, and a second and a third language are mixed into ordinary speech. A scholar of the northern dialect can follow a colony merchant's letter and cannot follow his household.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql {allow-empty=true}
 SELECT s.address.slug AS _ref,
@@ -48,7 +48,7 @@ ORDER BY s.name.full COLLATE NOCASE
 
 The query names the settlements of the chain. A merchant colony is a quarter of an island king's port and is counted with that port, so none stands here in its own name.
 
-## See Also
+## See Also {#see-also}
 
 [[place-surtasamdra|The Surta-samedra]]
 : the sea the chain lies in

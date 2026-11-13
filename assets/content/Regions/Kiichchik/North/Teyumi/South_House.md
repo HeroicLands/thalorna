@@ -15,7 +15,7 @@ data:
   packFolder: teyumi
 ---
 
-## Overview
+## Overview {#overview}
 
 A southern trader who survives the desert crossing comes up a dry wash, sees a wall of stone rooms four stories high against the canyon cliff, and has arrived. Kwatuhosa, the South House, is the southernmost great house of the [[affiliation-teyumi|Teyumi]], the Turquoise People, and the first on the routes out of [[place-chakultzklrgn|Ch'akul Tsa'kul]]. About 1,000 people live in it and in the smaller houses on the canyon floor around it. The south counts it as the seat of the whole nation, and calls it by the nation's name, _Ishtem Tsul_; the Turquoise People count it as one town among many, and the one that stands closest to the south.
 
@@ -33,7 +33,7 @@ What the traders say of the south is carried north along the roads, and the hous
 
 This winter the Keeper's monopoly has a crack in it. A southern trader came up out of the desert by a western route to [[place-kenuvahosa|Kenuvahosa]], the Canal House on the lowland canals, sold his cacao and copper bells there, and went home with turquoise without ever coming to the South House. The Keeper has sent a runner (_ponuyo_) to the Canal House to ask why, and the canal chief has answered that a guest who comes to the door is fed.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People and their nation

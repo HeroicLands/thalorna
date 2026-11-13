@@ -78,7 +78,7 @@ Delzuru wants the Council to grant the League a toll on every hull that passes t
 - **The count.** [[being-dlzrtndn|Delzuru Tanaduni]] needs the League's oars at the Review to come to a number the Council will remember, and a councilor of Besikar hires a party to count the galleys in the roads the night before.
 - **The mage's contract.** The Compact pays a party to see that Delzuru's Thordimalon mage misses the sailing, and the League pays better to see that he does not.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the parent polity

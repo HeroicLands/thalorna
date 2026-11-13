@@ -22,7 +22,7 @@ Four hundred households of goldsmiths, gem-setters and enamelers work below the 
 
 Pilgrims and buyers arrive at the same gate, and the temple keeps two courts so that they do not have to share one.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-goldmountain|The Gold Mountain]] · [[place-suvargeri|Suvargeri]] · [[place-bharavarivr|the Bharava]]
 - [[place-uppersuvtmpl|The Temple of Upper Suvargeri]] · [[place-middlesuvtmpl|the Temple of Middle Suvargeri]]

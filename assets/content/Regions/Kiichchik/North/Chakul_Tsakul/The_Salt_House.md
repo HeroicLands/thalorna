@@ -8,7 +8,7 @@ tags: [site, desert, ruin, salt]
 data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Salt House, Sh'ulum Ne'shik, stands on an island of dark rock two days out on the salt flats of southern [[place-chakultzklrgn|Ch'akul Tsa'kul Region]]. From the shore of the flat it is a white glitter on the horizon, shaking in the heat. Closer, it is a building of three broad terraces climbing the island's back, each terrace a row of rooms, and every wall, step and lintel is grown over with salt crystal, white and glittering, so that the whole house looks carved out of salt.
 
@@ -30,7 +30,7 @@ The flat is the great danger, going and coming. The house adds its brine: the fl
 
 What the salt keeps is the treasure. Cloth that has kept its color sells in the south as a wonder, and the baskets, bowls and cord are like nothing woven in [[place-kiichchik|Kì'ìch'chik Continent]]. The traders who know the house carry out what they can, and take nothing from the seated dead; they leave the ornaments where the salt has grown over them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-chakultzklrgn|Ch'akul Tsa'kul Region]]
 : the desert and its salt flats

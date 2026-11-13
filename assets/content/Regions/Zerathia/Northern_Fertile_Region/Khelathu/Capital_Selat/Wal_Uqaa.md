@@ -20,7 +20,7 @@ data:
 
 The road is laid to the solstice line. At midsummer dawn the sun rises exactly down its eastern length, and at midwinter dusk it sets exactly down its western length into the necropolis. By law nothing may stand in the way of either view from the temple, and on the high festivals the image of [[lore-uqaadty|Uqa'a]] is carried in procession down the avenue and across the water to the island.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The imperial city

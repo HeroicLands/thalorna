@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [gwtkrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 North of the dry grass the [[place-khzryndsrtrgn|Khazrin]] ends in forest. The [[place-gwtkrrgn|Ghotaqor]], the forest range, runs unbroken to the icy coast: dark spruce, bogs that never fully thaw, and long lakes locked under ice for eight months of the year. Small unorganized bands live here, sealing and fishing on the coast and hunting deer in the interior, and not one of them has a chief or a town. It is the same belt of taiga that runs through upper [[place-velanthrgn|Velanthia]], all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]], and at its southern edge it is the least known part of the region.
 
@@ -34,7 +34,7 @@ A Targud fur-trader pays well for any word of the doorway under the tide line, a
 
 A Targud fur-trader pays well for any word of the doorway under the tide line, and he is not the only one asking. A man who knew the coast went north with a hired boat and a lamp, and the sealers say he has not come back.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the region the forest bounds

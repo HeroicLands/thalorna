@@ -60,14 +60,14 @@ The host overran his line there. Ashvakirti died with his army, and the chronicl
 
 Nobody was left to burn the dead. Marupal's dead had no households near enough to sound a conch, and the orghunoq's dead were not received by their own rites either. The field is Lantustal, the banner ground: the third _shorukshetra_ (blood-field) in Vedyara, and the thinnest.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The field.** Lantustal is a dread and a _ghurakshetra_ (cursed field). The overrun host's panic comes on anyone who lingers, and on any night of the year things come out of it that can kill.
 - **The ruin.** Ludrapur was never reoccupied.
 - **The kingdom after.** A clan of the salt coast took the empty march ([[lore-bhmplraise|the Raising of Bhumipal]]). Its court sits at the far end of the road, and every fort on the road was built after this spring.
 - **The road.** The march road bends south round the field, and the march companies bar that stretch at dusk.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-lantustal|Lantustal]] · [[place-ludrapur|Ludrapur]]
 - [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the host that came down the Descent

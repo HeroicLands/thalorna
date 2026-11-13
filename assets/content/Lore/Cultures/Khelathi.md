@@ -384,7 +384,7 @@ A Khelathi owes in order: the house comes first, then the dead of the house, the
 
 Above all of it he owes a true heart at the weighing—and he owes it whether or not anyone is watching, because the one witness who counts takes no bribe and sees through every lie.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the civilization this is the culture of
@@ -406,6 +406,10 @@ Above all of it he owes a true heart at the weighing—and he owes it whether or
 
 [[affiliation-garhalzi|Gar-Hálzi]]
 : the temple-treasury houses
+
+[[lore-bordkhelclt|Border Khelathi]]
+
+[[lore-deltakhelclt|Delta Khelathi]]
 
 ## Glossary {#glossary}
 

@@ -14,13 +14,13 @@ data:
   packFolder: taruzel
 ---
 
-## Overview
+## Overview {#overview}
 
 The smell of Shamular's market square comes from a perfume shop: attar of rose from the island valleys, resins off the Khelathi ships, ambergris when the corsairs have some. Shamular is a merchant town of about 12,000 on the southern shore of [[place-milazun|Milazun]], the island of roses in the [[place-taruzelrgn|Taruzel Region]], and it is the island's one town and its one good harbor. The rose-water, the attar and the thyme honey of the valleys all leave Milazun from its quay, and the island belongs, with [[place-khamisar|Khamisar]], to the city-state of [[affiliation-yamuzel|Yamuzel]].
 
 The name is the harbor's luck: _shamul-_, to blow fair, with _-ar_, where the thing is kept. The bay faces south, out of the north wind, and a _shamulu_ (fair wind) carries a laden ship out of it in most weathers.
 
-## Arriving
+## Arriving {#arriving}
 
 A ship comes into Shamular's bay between two low headlands planted with olive, and the town lies round the head of it in tiers of whitewashed houses with flat roofs, where the households dry rose petals on cloths in the harvest weeks. The quay is short and crowded. Merchant ships load at its outer end, and fishing boats and the island boats from Khamisar and [[place-tashilar|Tashilar]] tie up at its inner one. The Harbormaster's clerk counts a ship's cargo onto a slate as it goes aboard and charges the dues by the flask and the jar, and a captain who loads attar pays more for a crate the size of a loaf than for a hold full of honey.
 
@@ -36,7 +36,7 @@ The perfumers are the square's pride. [[being-kdmyqbsn|Kadumuya Kubasuni]] keeps
 
 Every still-house on Milazun seals its flasks with its own mark pressed in wax, and the mark is what a buyer pays for. The marks are kept in the guild hall by the Warden of the Seals, an officer of the [[affiliation-gldbrdshmlr|Guild Board of Shamular]], who holds an impression of every still-house's seal in a cabinet of shallow drawers and compares any seal brought to her against it. A merchant buying attar on the square can ask the Warden to look at a flask before he pays, for a small fee, and most merchants do. The Warden is [Meraza Latari]{.name data-type="being/npc"}, a precise, short-sighted woman of fifty who looks at a seal through a lens of ground glass and has never been bribed that anyone knows of.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 The town is governed by its [[affiliation-gldbrdshmlr|Guild Board]], the heads of the guild families of the perfumers, the still-house factors, the honey merchants and the shipping houses, who meet in the guild hall on the square. Its First of the Board is [[being-lmrndmni|Lamiran Dammuni]], a moneylender whose house has lent to the still-houses for three generations against the coming harvest. The board answers to Yamuzel for the city-state's dues and keeps the rest of the town's business to itself.
 
@@ -46,7 +46,7 @@ A shopkeeper robbed in the night goes to the board's clerk at the guild hall, wh
 
 Shamular's quarrels are quiet and expensive, and they turn on seals and debts. Someone has bought up [[being-kdmyqbsn|Kadumuya Kubasuni]]'s late debts, her suppliers' notes and her unpaid guild dues, and has not yet presented them; her shop holds the oldest perfumer's license on the square and the board seat that goes with it. A strongbox locked by [[being-tndnhlrn|Tanadan Helaruni]] was opened without a mark and its ambergris is gone, and its owner tells the board the locksmith kept a key. Attar sold in Besikar under the seals of Milazun's still-houses has been found cut with cheaper oil, and the Warden of the Seals, [Meraza Latari]{.name data-type="being/npc"}, has been brought a flask whose seal matches no mark in her drawers.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Shamular has two inns on the quay, both clean and both full in the harvest, when buyers come from every island. Outside the harvest a party can take rooms above a honey merchant's or a rose-water seller's shop, where the hosts feed their guests on bread, cheese and candied fruit and charge by the week. The guild families' houses on the hills above the town take only guests who come with a letter.
 
@@ -56,7 +56,7 @@ Shamular has two inns on the quay, both clean and both full in the harvest, when
 - **The lock that opened.** A strongbox with one of Tanadan Helaruni's locks was opened in the night without a mark on the lock, and the ambergris in it is gone. The owner has told the board that the locksmith must have kept a key, and Tanadan wants his name cleared.
 - **The seal under the lens.** A buyer from Besikar has brought the Warden of the Seals a flask whose seal she cannot match against any still-house's mark in her drawers ([[place-milazun|Milazun]]).
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-gldbrdshmlr|Guild Board of Shamular]]
 : the town's government

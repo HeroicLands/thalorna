@@ -60,7 +60,7 @@ At every autumn fair the assembly stands in the square and says aloud how many f
 
 The assembly once bought a contract against the hail from an adept of the [[affiliation-ordoarcanis|Thordimalon]], on terms the wise-woman [Beruzta]{.name data-type="being/npc"} set before it, and paid him exactly what the contract said ([[lore-adepthail|the Adept and the Hail]]). The count of the hail's fields at the autumn fair began with that summer, and the assembly has bought no contract against the hail since.
 
-## See Also
+## See Also {#see-also}
 
 [[place-durgalis|Dúrgalis]]
 : the castle town and its valley

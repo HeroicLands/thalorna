@@ -32,7 +32,7 @@ Nothing, mostly. The Kulena of the quarter has the charter in his records. The c
 
 The house's difficulty is not the court. It is the gap between the conch and the pyre. A [[affiliation-thresholdkeepers|Threshold-keeper]] with a warrant and one well-framed question reaches past everything the vow can do, and the warrants are licensed for inheritance and for murder and refused for trade—which is the arrangement a merchant house of this city is presently trying to have read the other way, in a matter that the men on the ground floor of the Waiting House already know more about than the petitioner does.
 
-## See Also
+## See Also {#see-also}
 
 [[place-chendrapur2|Chendrapur]]
 : the city

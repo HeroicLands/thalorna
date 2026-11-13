@@ -24,11 +24,11 @@ At the head of the stadium stands the heralds' altar. Here the heralds of every 
 - **Pilgrims**, who come for the sanctuary's gods in the season of the Games and out of it.
 - **Priests of the sanctuary**, who keep the altar and the tablets for no city in particular.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The forged tablet.** One city now claims that another's oath-tablet was forged in a later century to hide a broken truce, and the heralds of both have asked the priests to inspect it.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-firstgames|The First Games]]—the meeting that made the sanctuary
 - [[affiliation-ctysttshlns|City-States of Helionis]]—the offices and the herald

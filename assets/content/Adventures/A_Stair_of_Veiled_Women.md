@@ -17,7 +17,7 @@ data:
 
 The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. Mezhvadez is a vault the [[lore-dunhariclt|Dunhari]] do not claim, built by a people whose king's name is chiseled from every wall, and the woman who kept his household lies at its center. The party must reach her, learn what she keeps, and carry out what they can.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A tagemader of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], a polished man named [Ghezrun]{.name data-type="being/npc"}, pays well for the king's signet and says he does not care how it is taken.
 - **The mercenary or soldier.** A merchant's caravan is short a guard. The caravan-master wants an escort to the dune that covers the stair, and his two foreign clients carry a map.
@@ -130,14 +130,14 @@ The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. Mezhvadez i
 
 **If bypassed.** The vault closes. The Dry Stair is gone with the next wind.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **The door sealed.** The southern pastures are quiet and the poets add a stanza to the recitation. A _tagemader_ in [[place-qarvelakhend|Qarvelakhend]] stops paying anyone to dig.
 - **The Keeper laid to rest in the open.** Zirvash and the guides say her fire was seen across the dune sea. The tribes' account of what came before the Dunhara gets a new line.
 - **The door opened.** The Hollow King walks the southern pastures and the dead begin to stand. The Warrior's Circle meets in an extra gathering.
 - **The signet in Amradad.** The tagemader has the proof he wanted and a debt he does not know about.
 
-## See Also
+## See Also {#see-also}
 
 [[place-mezhvadez|Mezhvadez]]
 : the vault and what the tribes say of it

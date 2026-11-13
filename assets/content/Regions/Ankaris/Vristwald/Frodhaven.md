@@ -14,7 +14,7 @@ data:
   packFolder: vrystwald
 ---
 
-## Overview
+## Overview {#overview}
 
 **Fródhaven** (280 people) is a Varokh village of [[place-vandstein|Vandstein]] under the [[lore-owlttm|owl]], and its Shaman holds the leading seat. The Shaman knows where the owl pair roosts in the village's woods.
 
@@ -22,7 +22,7 @@ data:
 
 [[being-vndrcgrwld|Vandarik ira Garwald wur Fródhaven]] of [[affiliation-blckpnwlvs|the Blackpine Wolves]] bears the village's name.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vandstein|Vandstein]]
 : the reach around the village

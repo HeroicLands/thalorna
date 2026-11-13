@@ -8,7 +8,7 @@ tags: [city-state, city, draft]
 data: {demonym: null, lore: [], parents: [helionis], population: 55000, government: athenikos}
 ---
 
-## Overview
+## Overview {#overview}
 
 **Athenikos** is a city of 55,000 in [[place-helionis|Helionis]], and the way to learn it is to learn how it names a year. Each year takes the name of its _arsir_ (the presiding magistrate), who lends the year his name and hands the office back at the end of it. Whoever holds the title, the assembly of citizens stays sovereign, and the arsir presides over it without ruling it.
 
@@ -22,7 +22,7 @@ A visitor meets the city through two offices. The _agóranir_, warden of the mar
 
 Athenikos shares the [[skill-helonclng|Helonik Language]], the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the festivals and games of its sister city-states, and competes with them in everything else. Its agorin works as every Helionite agorin does. A claim made there is examined on the spot, before witnesses, and a reputation is something a citizen performs rather than inherits. A newcomer who wants to be taken seriously says something and defends it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-athenikos|Athenikos]]
 : the city-state and its constitution

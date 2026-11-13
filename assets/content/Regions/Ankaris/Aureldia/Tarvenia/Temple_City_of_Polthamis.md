@@ -62,7 +62,7 @@ The seal's protection holds only while the work it covers never reaches the roya
 
 The city's government is a High King's charter, so it dates from the High Kingship, which the lords of Tarvénia elected about 540 AF to drive the imperial garrisons out of the lowlands ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The prelates of [[place-grttmplrdvn|the Great Temple]] have ruled the city under that charter since, each elected for life by the chapter from its canons, and the seal they keep has stood behind the arbitrations of the faith's traveling priests. The present prelate is [[being-thalurozenot|Thaluro Zenothis]].
 
-## See Also
+## See Also {#see-also}
 
 [[place-polthamis|Polthamis]]
 : the city it rules

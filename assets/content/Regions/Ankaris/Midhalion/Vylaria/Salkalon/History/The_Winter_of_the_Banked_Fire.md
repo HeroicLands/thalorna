@@ -102,14 +102,14 @@ The _felzos_ (legate) chose to starve the headland rather than storm it, and the
 
 In the spring of 524, 238 HF, the _therkos_ (governor) of [[affiliation-provincvld|Salkalon]], [Zenothas Varelis]{.name data-type="being/npc"}, offered terms rather than an assault: seven years at the oars of the Kastamar fleet, the captain rowing with his men, and passage home at the end of them. Twenty-eight went to the oars and three stayed in the village by the _therkos_'s leave. One of the three, [Dvilgvir]{.name data-type="being/npc"}, who had kept the fire, married Ilthera the next year. About eighteen of the rowers, Hvirnmil among them, came home to Malagna in 532 AF, the year of the thirty-sixth sitting on [[place-domsey|Domsei]], with imperial pay in their purses and the first account the north had of the [[affiliation-vylarinmpr|Vilérian Empire]]'s own coast.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **A name.** The crew called the bay [[place-braldvik|Bralvik]], the inlet of the banked fire, and the village kept the name because the [[place-mercavia|Delalara]] factors bought its first smoke-fish under it.
 - **A fire.** The [[miscgear-oldcoal|Old Coal]], banked in the Salken smokehouse and carried in Hvirnmil's helm on the eve of 1 [Karnavar]{.name data-type="lore/calendar"}, lights every smokehouse in the town.
 - **A bill.** Bralvik has sent the Kastamar admiralty a bill for its forty-one boats every autumn since 524, and the admiralty has paid none of them.
 - **A claim.** The town holds that the crew off [[place-hvirnmilhd|Hvirnmil's Head]] were the first Nordmen the empire ever paid, a generation before [[lore-compactsignd|the Signing of the Compact]] (the hiring of the Nordmen). The rowers drew pay for their seven years; whether a term of oars set as a surrender counts as hire is a question the empire's chroniclers answer differently.
 
-## See Also
+## See Also {#see-also}
 
 [[place-braldvik|Bralvik]]
 : the town, its smokehouses and its Coal Night

@@ -35,7 +35,7 @@ The palace keeps a failing old man and the whole court's attention. [[being-zrml
 - **The audience.** A claimant's household wants a party in the antechamber when the Orzas receives a rival's, to report who stood nearest him.
 - **The noon showing.** A chamberlain wants a party to escort a League agent to the Orrery's noon showing of the eagle and keep him apart from the Khelathi envoy.
 
-## See Also
+## See Also {#see-also}
 
 [[place-arvon|Arvon]]
 : the Inner City crowned by the palace

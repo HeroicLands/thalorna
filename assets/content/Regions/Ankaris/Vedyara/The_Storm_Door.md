@@ -32,13 +32,13 @@ The road is [[affiliation-osketguides|Osket ground]] from the last terraces to t
 
 A caravan-master who argues with a refusal at Meghadvar is not overruled. He is simply not taken, and there is no second guide to go to.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Not taken.** A caravan master whose cargo must reach the Khazrin this year has been refused at [[place-tsokhar|Tsokhar]], and on the storm-door there is no second guide. He asks the party to go up to the guide village and learn why the lineage refused him, and what would change its answer before the cloud comes back onto the peak.
 - **A third caravan.** The cloud has come off [[place-meghashkhr|Meghashikhar]] early, and a third caravan this season is possible. A great house that sends its bulk by [[place-suryadvar|Suryadvar]] asks the party to reach Tsokhar ahead of every other bidder and buy the crossing from western lineages that are in no hurry to sell it.
 - **Yaks before the rain.** A hard winter has thinned the herds at Tsokhar, and a share of two caravans will not feed a hearth through the closed months. A guide-mother asks the party to drive yaks bought in the marches up the lower road before the monsoon shuts it from below, and pays in a crossing of the storm-door next season.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-sthrnwall|The Southern Wall]] · [[place-meghashkhr|Meghashikhar]] · [[place-gudesroad|the Guides' Road]]
 - [[affiliation-osketguides|The Osket]] · [[affiliation-svapnasarisameja|Svapnasari-sameja]] · [[place-pssshrines|the Pass-Shrines]]

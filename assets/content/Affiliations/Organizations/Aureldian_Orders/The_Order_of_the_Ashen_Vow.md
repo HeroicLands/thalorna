@@ -60,7 +60,7 @@ Patron
 Region
 : [[place-aureldirgn|Aureldia]], operating clandestinely except in territories where Black Flame influence is locally tolerated; remote chapter sites in the [[place-drenavrspn|Drenavar Spine]] and the Tarvénian highlands
 
-## Overview
+## Overview {#overview}
 
 The Order of the Ashen Vow is the largest organized fighting body of [[affiliation-blackflame|the Black Flame]]. Its members are sworn to a particular reading of [[lore-ustarondty|Ústaron]]'s nature—that the god's true aspect is the purifying conflagration that destroys what no other remedy can cleanse, that mercy without strength is surrender, and that fire does not ask permission to burn. They take this doctrine as a personal vow. A Sworn Brother of the Ashen Vow has, at his initiation, bound himself to a life in service to the purifying flame: to find what cannot be redeemed and burn it, to find what has compromised the faith and cleanse it, to find what other authorities have tolerated for reasons of expediency and remove the tolerance.
 

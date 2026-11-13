@@ -91,7 +91,7 @@ On the [[lore-vedyariclt|Vedyari]] side the march has been arranged around that 
 
 The storm opened a hard generation for Vedyara. While the kingdoms were looking west, an adventurer came through the conch-door (see [[lore-conchdoor|the Conch-Door Incursion]]) in the east, and within a few years the polities signed [[lore-thirdcmpct|the Third Compact]] at the Melka of 320 AF.
 
-## See Also
+## See Also {#see-also}
 
 [[place-wstrndscnt|The Western Descent]] · [[place-marchroad|the march road]]
 : the way the host came

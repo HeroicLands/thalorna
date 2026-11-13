@@ -76,13 +76,13 @@ The conquerors' kin were not sent away. They were given the western horse-pastur
 
 Their horses stayed with them. The small, sturdy animals of the chariot corps are bred on the pastures of [[place-lenenneztslt|Lenen-Nezut]] and Zu-Qeztu, and the stock is the hill-people's.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The chariot horse.** The chariot corps rides animals of this stock.
 - **The offering.** The house still owes the dead of the floodplain a yearly offering, made in [[lore-geletssn|Gelet]], the season of emergence ([[place-zelhalzi|Zel-Halzi]]).
 - **The barrows.** The first Tha'Ulgau lie in the grazing country of the west, in the hill way, and the house visits them without telling the priesthood ([[place-horsebarrows|the Horse Barrows]]).
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-akhdivriver|The Divided River]] · [[lore-akhrestcrown|the Restored Crown]]—the ages this closing joins
 - [[lore-thaulgau|The Coming of the Tha'Ulgau]]—the conquest that raised the house

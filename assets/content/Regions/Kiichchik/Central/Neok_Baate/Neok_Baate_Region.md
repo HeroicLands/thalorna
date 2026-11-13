@@ -17,7 +17,7 @@ data:
 # terran_analog: Nicaragua through Colombia; Ne' Ts'umul is Quirigua; Q'o Kul'qat is Copan; Ts'ilil Ne'ts'ik, the Island of Swallows, is Cozumel; the eastern coast is the Caribbean, the eastern rains are Atlantic-facing, and the rivers are the Rio Grande and the Rio Negro
 ---
 
-## Overview
+## Overview {#overview}
 
 Ne'ok Ba'ate Region is the land of [[affiliation-neokbaate|Ne'ok Ba'ate]], and lies within [[place-centralkiichchik|Central Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
@@ -47,13 +47,13 @@ The maritime trade is particularly significant. Ne'ok Ba'ate's merchants have es
 
 Ne'ok Ba'ate quarrels with the priesthood over its own word. Every cord the isthmus sends north goes by the [[affiliation-chumishlan|Ch'um Ish'lan]], the Speaking Road, and every Sun Lord of the isthmus knows that his letters pass through priests' hands at the dispatch of [[place-kultaqan|Kul'taq'an]]. The Sun Lords have tried more than once to run messengers of their own, and the priesthood has broken each attempt. The sea offers what the road does not: the war canoes of the Island of Swallows go where no runner goes, and a letter that travels by sea is one no priest has read. Beneath the quarrel over letters lies the older one over tribute. The isthmus is too rich and too useful for Ish'ilankul to conquer and too small to refuse it outright, and its Sun Lords resent every round in which the north sets what they send.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The empty nights.** The priestesses of the spring on the Island of Swallows have noticed that the war canoes go out on nights when there is nothing to escort, and [[being-ishblnkkush|Ish'bal Ne'ok K'ushi]], the island's Ish'kanmah, has learned that they noticed. She asks a party to find out whom the priestesses have told.
 - **A gourd for the island.** [[being-ishkulnktsl|Ishkul Ne'ok Ts'ultel]], Ts'enmah of [[place-neokbaate2|Ne'ok Ba'ate]], has a sealed gourd that must reach the Island of Swallows by the eastern road and the sea, and his household messenger has fallen ill. He hires a party to carry it unopened. A Reader of the Cords at the city's dispatch hall pays the same party to tell him where it went.
 - **The mountain over the road.** The seat stands across the one road over the volcanic spine, and the mountain above it has begun to smoke. If it wakes and cuts the road, whoever holds the old paths around it holds the traffic and the runners of the south for a season. The Ts'enmah wants the paths walked and marked by his own people, the dispatch wants them walked by its runners, and each asks the party first.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-neokbaate|Ne'ok Ba'ate]]
 : The realm that holds this land

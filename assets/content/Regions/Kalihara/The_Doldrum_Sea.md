@@ -8,7 +8,7 @@ tags: [sea]
 data: {demonym: null, lore: [], parents: [klhrcntnnt], population: null, packFolder: kalihara}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Doldrum Sea is the band of dead air that lies across the long way home from [[place-klhrcntnnt|Kalihara]]. North of the island's passage, between the steady wind that blows from the continents toward the island and the westerly winds that blow back toward the coasts of [[place-provenzrgn|Provénzia]], the air stops moving: the sea goes flat and oily, the heat presses down by day and hangs close at night, and a slow current carries whatever floats on it. It lies out in the open ocean west of the strait, far from any coast, and nothing marks its edges. A master knows he has entered it when the wind fails and knows he has left it when the wind comes back.
 
@@ -24,7 +24,7 @@ A ship can lie motionless here for weeks, waiting for a wind that may be a month
 
 The reward is the westerly wind beyond. A master who crosses and finds it runs home before it and saves a week on the beat to windward. The masters who do not find it make up the one voyage in eight that the shipowners of [[place-midhalnrgn|Midhalión]] build into their insurance rates.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrcntnnt|Kalihara]]
 : the island, the wind out and the long way back

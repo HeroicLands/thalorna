@@ -65,7 +65,7 @@ The Elder peoples respect the empire's [[lore-ancstrwrshp|ancestor worship]] and
 
 A few Senali and Khazari rise high in the empire as craftsmen, scholars or officers. Most live on the edge of human society, respected and never fully trusted. Their efforts to keep their tongues, traditions and magic are watched with suspicion. They have a voice in the empire's affairs and little weight behind it, and protect their interests by diplomacy and quiet maneuvering, since an open show of strength would bring a backlash. Rich as their crafts make them, they stand outside the highest circles of wealth, because human merchant houses and noble families control the trade routes their goods must travel.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : how the Elder peoples are classified

@@ -64,7 +64,7 @@ The Keeper of the Masks of Malkisis, [[being-gunistalwa|Gunistalwa]], the Mask S
 
 The coast cannot agree what happened. The Eagle House says that a power meets a person, and a slave is not a person, so whatever came out of the forest was not taken by the Hungry Power, and the Bringing Back was a mockery. Gunistalwa answers that he did not choose the boy, the power did, and that the Eagle House is welcome to go to the far end of the forest and tell the Hungry Power its mistake. The chief of the Orca House has not freed the boy, and has not said why.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-kelwanukclt|Kelwanuk]]
 : the culture of the Cedar People, their names and their dead

@@ -35,7 +35,7 @@ data:
 sohl: {system: {commonSkills: [provnzlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Barony of Zuravlen** is the valley holding of Baron [[being-selvarezrvl|Selvare Zuravel]], who holds it for the [[affiliation-kngdmprvnz|Crown of Provénzia]] through his overlord, [[being-avaarlzlvrn|Avaarl Zilavren]], the Earl of Hárivren ([[affiliation-erldmhrvrn|Earldom of Hárivren]]). It is one valley of [[place-zuravlenrgn|the Zuravlen Region]], some twelve thousand souls, and it grows the finest peaches on the [[place-ankrscntnnt|Ankaris Continent]] and some of its better wine. Its seat is [[place-elthrembis|Eltrembis]], the market town where the grading records, water-rolls and manor customs are kept. Selvare is also Baron of [[place-kyvarel|Kivarel]] in the western valleys, which he holds with Zuravlen.
 
@@ -93,7 +93,7 @@ The valley has been terraced and watered for some four hundred years, and the wa
 - **The yard share.** [[being-selvarezrvl|Baron Selvare]] wants the upper valley's refusal settled before the fair, without the courts and without blood.
 - **A grader for sale.** The baron must find out who is selling first marks before the factors stop trusting the Zuravlen name.
 
-## See Also
+## See Also {#see-also}
 
 [[place-zuravlenrgn|Zuravlen Region]]
 : the seaboard the barony gives its name to

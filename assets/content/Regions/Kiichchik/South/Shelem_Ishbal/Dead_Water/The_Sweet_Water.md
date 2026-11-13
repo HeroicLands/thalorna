@@ -8,7 +8,7 @@ tags: [feature, waste, swamp, lake]
 data: {demonym: null, lore: [], parents: [deadwater], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Sweet Water, Ne' Nal'ishik, is a lake in the heart of [[place-deadwater|the Dead Water]], and after days of brown channels it looks like rescue. Its water is clear to the bottom, its shores are firm white sand, and no reeds grow in it. The water tastes clean and faintly sweet, like rain caught in a new jar. Every account at the gate that mentions it says the same thing first: do not drink it.
 
@@ -20,7 +20,7 @@ The lake is round and shallow, a few hours' poling across, and its bottom is whi
 
 A traveler who drinks from the Sweet Water feels well for a day, better than he has felt since the gate. Then it takes him one of two ways. Some go mad: they grow quiet, then cheerful, and walk into the swamp in the night, smiling. The rest waste away over weeks, eating and drinking as much as they can hold and growing thinner with every day, until they die looking like men who have starved. The returners' accounts tell of whole parties found on the white shore, with their water jars full of the lake.
 
-## See Also
+## See Also {#see-also}
 
 [[place-deadwater|The Dead Water]]
 : the swamps around the lake

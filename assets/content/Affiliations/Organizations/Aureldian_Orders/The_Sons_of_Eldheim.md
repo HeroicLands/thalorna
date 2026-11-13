@@ -42,7 +42,7 @@ The order has gained a foothold in [[affiliation-jrldmstrmvld|Stormveld]] on [[p
 
 [[being-sirethoskhol|Sirethos]] holds the order's **Blazewarden** title and commands forces in that campaign. He has sworn to burn the Varokhi forest and sacrifice its Shamans to [[lore-ustarondty|Ústaron]]. The threat gives the villages a common enemy without placing them under a lasting unified command.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-blackflame|The Black Flame]]
 : the destructive Ústaran faith to which the order belongs

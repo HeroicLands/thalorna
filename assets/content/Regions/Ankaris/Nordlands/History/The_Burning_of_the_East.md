@@ -89,7 +89,7 @@ In 613 the horde reached Nulthgard. The king's hirv and the bundi of the eastern
 
 Skruldmil fell back west to the ridge at Tvalgard, the last defensible ground before what was now the burned ground, and raised his hall there. The order he gave from it is the whole system of Targud's defense today: every bundi in the kingdom would stand his weeks on the wall in rotation, mustered through Tvalgard, so that the frontier would never again be held by farmers who had come to a hall because there was nowhere else. A king's kinsman killed a hound with [Vrellbrandur]{.name data-type="weapongear"} in the rout, the sword that must drink when drawn, and [[lore-trgdahstry|Histories and Legends of Targud]] keeps that tale. The horde spent itself the next year, in the quarrels a tribe falls into when its Sha has nothing further to plan, and the Grukar side of the frontier remembers it, if at all, as a tribe that outgrew its range.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The burned ground.** Burned farmsteads, abandoned watchtowers, and forests where neither Nordmen nor Grukar travel alone.
 - **[[place-dvulgvangur|Dvulgvangur]].** The field: thin, dangerous, and double-edged, since what it returns is the steadiness of men who could not leave their post.
@@ -99,7 +99,7 @@ Skruldmil fell back west to the ridge at Tvalgard, the last defensible ground be
 
 The king's ride to the howes at Nulthgard is due in the present reign, and the escort is short. A party that rides with it crosses the burned ground, pours ale at four howes on the wrong side of the line, and comes back past the ford at dusk, which is the hour the field keeps a man standing.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-dvulgvangur|Dvulgvangur]] · [[place-nulthgard|Nulthgard]]—the field and the ruin
 - [[place-tvalgard|Tvalgard]] · [[affiliation-kingdmtrgd|Kingdom of Targud]]—the seat and the rotation

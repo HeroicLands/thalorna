@@ -24,7 +24,7 @@ Hunters from the upper villages work the margin and do not go deep. The forest p
 
 Ascetics go in. It is one of the places a renunciant disappears into for years at a time, and the ones who come back are received with reverence and are not cross-examined. The accounts that reach the hostels come from them, at third hand, and are the least reliable of all.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-bharavarivr|the Bharava]]
 - [[place-bhrvdvstna|The Bharava-Devastena Hostels]]—the road that stops at the margin

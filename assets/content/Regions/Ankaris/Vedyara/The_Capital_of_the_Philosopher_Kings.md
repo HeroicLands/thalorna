@@ -32,7 +32,7 @@ Stone is not scarce on the plateau and timber is, so there was never anything in
 
 That reign standardized Classical [[skill-vedyarlng|Vedyari]] and produced the commentaries, the legal codes and the epics an educated Vedyari still studies, and every court and temple from the passes to the southern sea dates its year from it. The inscriptions in the ruin are in the standardized hand, which is what a scholar goes there to see: the language every literate person in the region writes, cut at the moment it stopped changing, on a wall with a cow tied to it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vandyabhumi|Vandyabhumi]]
 : the plateau it stands on

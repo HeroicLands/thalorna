@@ -52,7 +52,7 @@ Veldareth's charter is older than the Synod's rule. The town bought its freedom 
 - **The library.** A treaty in the chapterhouse's library sets each realm's rights on the coast road along Seirasto's shore, and one of them wants the page.
 - **A Seilvri at the Table.** A Seilvri envoy has come to Veldareth to ask the Table to hear the people's case, and the [[affiliation-justbladeordr|Order of the Just Blade]] wants her before she is heard.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-freeveldareth|Free City of Veldareth]]
 : the town's charter and its Table

@@ -14,7 +14,7 @@ data:
   packFolder: khazryndesert
 ---
 
-## Overview
+## Overview {#overview}
 
 **Zargandur** is the third of the seven Tellumi cities, in the heart of [[place-swoasisbelt|Tellumel]], and it was the war-city of the Tellumi: the seat of their strongest cavalry and the first city the [[affiliation-tribestrzd|Atarzád]] took, in the second year of the war. About forty-five thousand people live inside its walls today. The [Zhoqarod]{.name data-type="affiliation"}, the largest and most martial of the twelve Atarzád tribes, hold it as their garrison city, and their herds graze the pastures to the north. The walls are higher than any in the belt, because the Atarzád rebuilt them after the war to keep the Tellumi in as well as other people out.
 
@@ -49,7 +49,7 @@ Outside the northern wall, past the last irrigated plot, lies the [[place-henhul
 - **The weirs.** In a dry year the Zhoqarod cut the Tellumi plots off first. A Tellumi water-engineer would pay a stranger to open a sluice at the right hour, and the penalty for opening one is hanging.
 - **Garrison brawls.** The streets near the garrison turn violent when the soldiers drink, and a stranger with a sword at his hip is a natural target.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the Confederation whose House of Zargandur sits in exile

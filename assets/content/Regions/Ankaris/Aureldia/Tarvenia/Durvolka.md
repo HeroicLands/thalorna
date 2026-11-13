@@ -15,7 +15,7 @@ data:
   government: kngdmglvrn
 ---
 
-## Overview
+## Overview {#overview}
 
 In Durvolka the fog comes first and the boats come second. The capital of the [[affiliation-kngdmglvrn|Kingdom of Galvaren]] is a harbor town of about 20,000 people on the deepest bay of the [[place-galvaren|Galvaren]] coast, halfway down the green, rain-soaked south-western shore of [[place-tarvenirgn|Tarvénia]]. Its name is plain Tarveni, _durka_ (fog) and _volkema_ (harbor), and the town has earned it: from late spring to the end of autumn a gray bank lies on the bay most mornings, and the herring boats go out through it by sound, steering on the bell at the harbor mouth and the shouts of the boat ahead.
 
@@ -60,7 +60,7 @@ Durvolka keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], 
 - **A seat at the Long Table.** The Masters' Hall elects in autumn, and a shipmaster who lost two boats on the Far Grounds this year is standing for one of Durvolka's three seats against the king's own candidate. Somebody has been paying the herring crews to vote, which is unlawful, and somebody else has been threatening them, which is worse.
 - **The spider in the grave.** The passage grave at the top of the Lantern Stair has lost its spider, and the teller will not say a drowned man in at the door, and the grave-keeper will not carry one, until the door is kept again. Three bodies wait in the teller's cellar, the families are at the door, and the nearest grave with a spider in it is two days' walk up the coast.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galvaren|Galvaren]]
 : the land

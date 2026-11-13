@@ -17,7 +17,7 @@ data:
 # terran_analog: the lower St. Lawrence and the Gulf of St. Lawrence, with the St. Lawrence Iroquoian villages of Stadacona and Hochelaga, and the coasts of Maine and the Maritimes
 ---
 
-## Overview
+## Overview {#overview}
 
 The Dawn Shore (_tsiorhen_) is the eastern edge of the Grove, where the [Great River]{.name data-type="place/feature"} widens until its banks are a day apart and then becomes the sea. The Dawn People live here, the easternmost nation of the [[affiliation-osetakona|Osetakona]], about 100,000 people in the [[place-osetakonargn|Osetakona Region]]. They see the sun come out of the ocean every morning, and they are the nation that met the men from the water, and since the raid on [[place-tsiorhenten|Tsiorhenten]] every council of the Grove has had them on its mind.
 
@@ -45,7 +45,7 @@ Nothing comes from the sea. Twice in twenty-one summers a strange boat has come 
 
 The Dawn People want the Grove to treat the sea as a border. They have asked the great council for warriors to hold the coves and for the next Kettle to stand nearer the shore, so that the council can see what it is deciding about. The western nations, a month's paddle away, answer that one boat in twenty-one years is not a war. The Dawn People answer that the boat came back, and that the council will hear about the third one from them too. The Grove has carried the same question to the [[affiliation-redstncmpct|Red Stone Compact]], and there it meets its own answer: three summers ago, when the [[affiliation-teyumi|Turquoise People]] sent the pipe against a southern war party, the Grove did not smoke.
 
-## See Also
+## See Also {#see-also}
 
 [[place-osetakonargn|Osetakona Region]]
 : the whole land of the Maple People

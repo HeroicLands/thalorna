@@ -118,7 +118,7 @@ The Ts'enmah of [[affiliation-neokbaate|Ne'ok Ba'ate]] try from time to time to 
 - **Ask a station keeper the news.** A keeper knows which roads are cut and which runners came through in a hurry, and he is not forbidden to say so. What the cords said he does not know.
 - **Carry a cord beyond the end of the Road.** The dispatch pays travelers bound south of Q'aptel'ul Ne'ok to carry its cords to garrisons and expeditions where no runner goes, and a party that carries one comes back owed a favor by the priests of Kul'taq'an.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-itsanihierarchy|The Itsani Hierarchy]]
 : the priesthood whose word the Road carries

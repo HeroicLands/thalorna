@@ -80,12 +80,12 @@ The Voghalur feud sharpens it. The Voghalur want the union more than any tribe o
 
 About 312 AF the survivors of Vomek came over the dunes to the Kesukur, and the Khuvanur dovaq walked in after them on foot, said the names from dawn to dawn, and died on the Kesukur laying-out ground. The elders spoke their witnessed word at Todva in the first year of [[lore-hndrdbnnrs|the Hundred Banners]], and every eldest since has repeated it.
 
-## Hooks
+## Hooks {#hooks}
 
 - The eldest wants a witness who belongs to no tribe at Vomek on the day the Kesukur say the names there, if that day comes, and wants to know first how the gathering man's riders would take it.
 - A Voghalur rider has been found dead on Kesukur grass, outside every truce, and Khuvankharu must decide whether to answer for him before the Voghalur decide it for him.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

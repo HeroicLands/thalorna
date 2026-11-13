@@ -247,7 +247,7 @@ Counterfeiting an attested temple piece is a sacrilegious crime under Khelathi r
 
 Like the Vilérian system, large sums of physical metal are heavy. 100 silver gezan (2,000 Ardin) weighs about 2.3 kg (5 lb); 1,000 silver gezan weighs nearly 23 kg (50 lb), a burden for a single traveler. Gold carries the same value in a tenth of the weight, but gold pieces are few and conspicuous. Wealth above the carryable threshold moves on temple chits or trade-house correspondent arrangements. A Khelathi merchant's purse in serious commerce typically contains: a handful of gold pieces (qelu or gezan) for emergency liquidity, perhaps 20–50 silver qelu for ordinary transactions, a small bag of copper for daily small purchases, and a sealed temple chit for the bulk of his working capital.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garhalzi|Gar-Hálzi]]
 : the temple-treasury institution that issues and backs the system

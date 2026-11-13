@@ -14,7 +14,7 @@ data:
   packFolder: hanalxilan
 ---
 
-## Overview
+## Overview {#overview}
 
 Below the bluff of [[place-hanalxilan2|Ha'nal Shi'lan]], where the two rivers meet, a low gray dome stands at the edge of the bottomland, above the reach of the spring floods but not far above it. It is about four paces high and twelve across, one body with no seam, ribbed and vaulted inside like the inside of a great shell. The town calls it the Warm Lodge. The [[affiliation-osetakona|Maple People]] who come down the rivers call it _tsiotarie kahnisa_, the spirit's lodge.
 
@@ -32,13 +32,13 @@ The [[affiliation-hanalxilanmktcncl|Ha'nal Shi'lan Market Council]] holds its wi
 
 The Maple People hold that a spirit keeps the lodge and warms it for guests who honor it. Their traders who winter in the town leave tobacco at the oval when they first go in each season, and speak quietly inside. The council pays the same courtesy, since many of its families are of Maple blood, and it suits a market town to agree with its best customers.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The notched stick.** Two old women who have slept nearest the wall for a decade have been measuring the oval against a notched stick. It is a hand's breadth narrower than it was three winters ago, and the far side of the lodge is no longer warm enough to sleep in. They have told nobody on the council. They tell the party, because the party will be gone in spring.
 - **The guest.** A [[affiliation-tokchiaska|One Fire]] envoy has arrived in the town in the first snow and asks to winter in the Warm Lodge, as an honored guest is entitled to. The Maple People's traders say the spirit will not have him. The council cannot refuse a guest and cannot afford to offend its traders.
 - **The cedar log.** A Family Head who has heard the women's measurement means to wedge a squared cedar log into the oval to hold it open. He wants strong backs, and quietly, before the council hears of it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hanalxilan2|Ha'nal Shi'lan]]
 : the town on the bluff above it

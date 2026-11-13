@@ -110,14 +110,14 @@ The tellings disagree about what became of him, and the Varokh keep all three:
 - **The [[place-vethwald|Vethwald]] (Deepwood) telling.** The elders sent men after him, and Vandilda would not say whose.
 - **The telling nobody admits to.** He went south over the passes and took the _therkos_'s silver, as [Vristulf ira Theodhild wur Balthreth]{.name data-type="being/npc"} had, and died in Moktur an old man. Thrastein's reciters call this the Mokturan telling, and the Mokturans have never heard it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **[[place-skathhreth|Skathhreth]].** The thinnest blood-field in the forest, upstream of which Vilérian loggers are felling the [Garskald]{.name data-type="affiliation/lineage"}'s sacred trees without knowing what the ford is.
 - **The eagle in the river.** Moktur has wanted it back for four centuries, and a _Lusar_ who raised it would make a career.
 - **The Sundered Talisman.** Fragments kept by village elders across the forest, laid together at Waldburg when a common War Chief is acclaimed. Some villages' fragments have been lost, traded or stolen in four hundred winters, and nobody has ever counted how many remain.
 - **The rule.** The forest's suspicion of any War Chief whose renown outgrows his village. [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s ambition to rally the villages against [[affiliation-sonsmuspell|the Sons of Eldheim]] is measured against Dorgulf's winter by every elder who hears it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-skathhreth|Skathhreth]]
 : the ford and the field

@@ -20,7 +20,8 @@ Below the highlands the river runs through forest held by temple-domains and by 
 
 The pilgrim road runs the whole length of the river, sea to ice, and the hostels that make the walk possible are endowed out of exactly those forest products. A great many people whose devotion would not survive the cost of the journey make it anyway, on other people's charity, and that fact is itself part of the observance.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bhrvprbhav|Bharavaprabhava]] · [[place-estrnreach|the Eastern Reach]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-chandrmahi|The Chandramahi]] · [[place-sarvedarivr|the Sarveda]] · [[place-mahanodi|the Mahanodi]]
+- [[place-bharavamukha|Bharavamukha]]

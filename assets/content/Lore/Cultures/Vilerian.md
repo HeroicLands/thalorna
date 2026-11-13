@@ -202,7 +202,7 @@ Vilérian craftsmanship is the best in Ankaris, and [[miscgear-vylsteel|Viléria
 
 The manners are formal, precise, and conscious of rank at every moment. A Vilérian establishes precedence early in an encounter and is comfortable once it is settled. A foreigner who will not be placed makes him uneasy, though seldom angry, so the quickest way to an easy evening is to say who you are, whom you serve, and whose guest you are before anyone has to ask. Patronage governs private life as thoroughly as law governs public life. Vilérians are generous hosts, tremendous snobs, and better company than their reputation, provided the question of whose empire it is has been settled to their satisfaction before dinner.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : the state, its Senate and its provinces

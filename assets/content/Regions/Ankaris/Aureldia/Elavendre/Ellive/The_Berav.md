@@ -37,6 +37,6 @@ A river that carries a kingdom's trade and passes its capital fifteen miles from
 inevitably, the kingdom's chief vulnerability. It has never been forced. That it could be is the
 standing argument of every Élavendren admiral who has ever wanted money.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-ellive|Éllive]] · [[place-beravel|Péravel]]

@@ -21,7 +21,7 @@ The mountain is under snow for much of the year. The terraces at its foot take o
 
 The summit shrine is kept by the domain's Tanchei, who hold the mountain record of eruptions, earthquakes and springs. Zenjai's [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) falls late, when the harvest is in and the assessment paid, and the lord climbs to the shrine through the first snow.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zenjaidmn|Zenjai Domain]]
 : the house and its lord

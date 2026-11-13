@@ -15,7 +15,7 @@ data:
   government: selatchathu
 ---
 
-## Overview
+## Overview {#overview}
 
 Chathu Selat is the land of [[affiliation-selatchathu|the Selat of Chathu]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the sea-margin of the delta: salt-pans, natron flats, and the curing of the lesser villages' catch.
 
@@ -27,7 +27,7 @@ The selat is flat, bright and salt, a margin where the sea comes in and the pans
 
 The selat's silt-islands are where the sea-raiders landed in 1960 ST (151 BF) ([[lore-searaiders|the Sea-Raiders' Throne]]). The port they burned, [[place-zelamqelu|Zel-Amqelu]], is a reed-grown mound in the flats.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-chathu|Chathu]] (~41,000)
 : the selat capital and the seat of the Halzi'a.
@@ -35,7 +35,7 @@ The selat's silt-islands are where the sea-raiders landed in 1960 ST (151 BF) ([
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatchathu|The Selat of Chathu]]
 : The selat that holds this land

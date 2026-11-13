@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 In [[lore-azletssn|Azlet]], the season of inundation, the fields of Legirusi are under water and nobody is idle.
 
@@ -67,11 +67,11 @@ The Selat of Legirusi is one of the eighteen provinces of [[affiliation-upperriv
 
 The Halzi'a's authority in Legirusi is mostly labor. His steward administers the selat's revenue, its granaries and its corvée, and in this selat the corvée is stone: the flood-season gangs that cut and haul it are his. The best workmen belong to the temple-workshops of [[affiliation-psaqaru|Saq'aru]], and like every major temple this one holds estates to rival the Halzi'a's own, so the selat is shared between a landlord and a god. The seat is [[place-legirusi|Legirusi]], where the Halzi'a keeps his court and the chief temple stands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Legirusi uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces that pay for the work and holds the granary accounts that feed the gangs while it is done. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : Parent selat-class

@@ -14,7 +14,7 @@ data:
   packFolder: vylaria
 ---
 
-## Overview
+## Overview {#overview}
 
 Milanthos is a farming village on the rural circuit of [[place-tyrellan|Tirellan]] in [[place-moktur|Moktur]], and one of the places [[being-azendsdmtr|Azendas Damator]], Senior Priest of [[affiliation-lizelas|Lizelas]] in the Tirellan region, visits on his rounds. Its farmers leave part of their harvest at the temple, and they do it because they have seen the priest's blessing turn into a harvest that keeps them alive.
 
@@ -50,7 +50,7 @@ Milanthos has no inn. A party is lodged by Pirkelos in the upper room of the Blo
 - **The blight.** A blight has appeared in the barley on the upper strips, and the priest's blessing has not stopped it. Some of the farmers whisper that Lizelas has turned from him. Azendas asks a party to carry a sample of the blighted grain to someone who knows more than he does.
 - **The muster.** The smoke on the ridge calls the militia out, and Pirkelos has eighteen men fit to carry a spear. A party in the village is asked to stand with them at the wall until the riders from Tirellan come.
 
-## See Also
+## See Also {#see-also}
 
 [[being-azendsdmtr|Azendas Damator]]
 : the healer-priest the village shelters

@@ -28,7 +28,7 @@ The songs of the [[doc-heroessgrd|Heroes of Asguard]] put [[being-krldthnshldbr|
 
 The songs spell it Driskborg, and the Targud accounts Draskborg. The name is what a refugee looks for on the road at night: _drask-_ is a light kept burning on a headland, whose beacon is the _dresk_, and the generic that follows is the one for a stronghold on a height.
 
-## See Also
+## See Also {#see-also}
 
 [[being-krldthnshldbr|Krildthann Shieldbearer]]
 : the defender the songs put on its walls

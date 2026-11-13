@@ -14,7 +14,7 @@ data:
   government: kalihara
 ---
 
-## Overview
+## Overview {#overview}
 
 Ilovanu is where the world is allowed to touch [[place-klhrcntnnt|Kalihara]], and the first thing a factor tells a new captain is where that permission ends: at the gate of the foreign quarter, at the harbor-warden's word, and at the last warehouse on the quay, beyond which the jungle begins and almost no foreigner has ever been invited. Eighteen thousand people live here, on the island's eastern coast, in a city of whitewashed warehouses and carved wooden balconies set between natural breakwaters and a wall of green ridgeline, and it is the seat of [[affiliation-councilisland|the Council of the Island]] of [[affiliation-kalihara|Kalihara]] as well as the island's principal port.
 
@@ -34,7 +34,7 @@ The population of the quarter is as mixed as any port on the Vilérian Sea: nati
 - **There is no one to bribe for the interior.** The port has no guide inland to sell, and a merchant who asks for one has told the wardens something about himself.
 - **Ilovanu has no enemies to be neutral between.** There is one power on the island and never has been another; the city's peace is the island's, and the quarrels of the realms across the water stop at the breakwater.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kalihara|Kalihara]]
 : the polity whose Council sits here, its councils and its wardens

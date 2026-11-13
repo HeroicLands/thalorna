@@ -77,7 +77,7 @@ The ring lies a day's walk along the envoys' road from the last lowland steading
 - **Silver on the stones.** A fence in [[place-beravel|Péravel]] has bought silver bands of an old pattern from a band of poachers and wants more.
 - **A brother's voice.** A charcoal-burner's son walked toward his dead brother's voice one dusk and has not come back.
 
-## See Also
+## See Also {#see-also}
 
 - [[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]—a scenario set here
 - [[place-silvrfrsts|The Silver Forests]] · [[place-sourimael|Sóurimel]] · [[place-eshalshldg|Ésalosa Lodge]]

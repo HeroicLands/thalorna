@@ -58,7 +58,7 @@ The [[affiliation-ordoarcanis|Thordimalon]] has never established a presence in 
 
 A traveler in the highlands passes the shrines on the passes, waters at the springs that have them and walks through the oak groves where they stand. An Eskárathi who reads the weather or treats a wound with herbs does it in plain sight.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-frtrtryskrth|Free Territory of Eskarath]]
 : the people who keep it

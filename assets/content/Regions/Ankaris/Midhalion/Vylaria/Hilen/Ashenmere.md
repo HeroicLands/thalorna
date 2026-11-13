@@ -15,13 +15,13 @@ data:
   government: provnchyln
 ---
 
-## Overview
+## Overview {#overview}
 
 Ashenmere is where [[place-hylen|Hilen]]'s estates run out. A town of about four thousand on the march of Hilen, the breadbasket of the [[affiliation-vylarinmpr|Vilérian Empire]], it is the province's border town, and a carter coming in from the edge of the province passes the last estate's boundary stones a few miles before its gate.
 
 An estate steward from the interior, sent to Ashenmere with a wagon of tenants' goods, would call it a foreign posting. Inland the lord is whoever owns the land, and every road leads to a manor. On the march the roads lead out of the province as well as into it, and the town is where the two kinds of traffic meet.
 
-## Arriving
+## Arriving {#arriving}
 
 The march lies on the north-eastern edge of the province, where the wheat country rises into wooded hills and the hills climb on into the forested uplands of the [[place-nartumkngdm|Nartun Kingdom]]. The imperial road comes up from the estates through the last fields, crosses a belt of rough common pasture, and reaches Ashenmere on a low shoulder of ground above a stream. The town has a wall, the only wall between here and [[place-aravantia|Aravantara]], of gray stone patched with brick, and a gate with a tower over it that the town keeps manned.
 
@@ -37,7 +37,7 @@ The town lives on serving both. It has a horse and mule market, where the Nartun
 
 Pilgrims cross too. Devout Vilérians who find the empire's temples too easy come up the road to cross into the kingdom, and they cross under the eyes of the Order's chapel. Nartunese priests who come down to preach on the estates cross under the eyes of the Forge-priest.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Ashenmere is a chartered town under the [[affiliation-provnchyln|Province of Hilen]], with two _tavemoi_ (magistrates) elected each year and a council of _kurthaloi_ (councilors) who answer in their own persons for its taxes. The council is made up of innkeepers, grain dealers and horse-dealers, and it keeps the wall, the gate and the town's night watch.
 
@@ -47,7 +47,7 @@ The Customs House is not the town's. Its officer and his clerks collect the empe
 
 The Two Lights are the march's quarrel. The Hammer-Priest of the forge-shrine, Huraden, holds the Black Flame to be the corruption of his own god's fire, and the knights of the chapel on the kingdom's bank serve a kingdom that broke with the empire over the same faith. Nartunese priests come down to preach on the estates of the march, and the stewards who would rather they did not are the masters' men. Tenant households on the march have left their cottages in the night, hearths warm and nothing taken, and the stewards cannot say whether they ran across the stream. At the bridge the customs officer, Ornethos, has found a false bottom in a grain dealer's wagon that the dealer swears he never built.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The inns of Ashenmere stand inside the gate along the road, and each favors one trade: the drovers, the grain carters, or the Nartunese pack-masters, who keep to their own inn and their own table. The [Bridge Lamp]{.name data-type="place/structure"}, at the top of the road down to the bridge, has the best rooms in the town and windows that look across the stream at the Two Lights. A party bound into the kingdom takes the advice of its innkeeper on what not to carry across, and the innkeeper is right more often than not.
 
@@ -57,7 +57,7 @@ The inns of Ashenmere stand inside the gate along the road, and each favors one 
 - **The preacher's escort.** A Nartunese priest means to preach on the estates of the march and hires a party to see him safely to the villages and back to the bridge. Several stewards would rather he did not arrive.
 - **The searched wagon.** A grain dealer's wagon is held at the Customs House for a false bottom that the dealer swears he never built. He wants a party to find out who built it and what it was meant to carry across.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hylen|Hilen]]
 : the land the town stands in

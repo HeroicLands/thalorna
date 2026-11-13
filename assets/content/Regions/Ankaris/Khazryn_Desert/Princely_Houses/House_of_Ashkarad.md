@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: [tellumilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **House of Ashkarad** is the craft-house of the [[affiliation-khzrncnfdrtn|Tellumi Confederation]], the house of the white peak, [Viluntenhur]{.name data-type="place/feature"}, and of [[place-ashkarad|Ashkarad]], the city the rest of the belt buys its tools, harness and glazed jars from. Before [The Breaking]{.name data-type="lore/history"} it kept the most cosmopolitan court of the seven. The [Teghumod]{.name data-type="affiliation/polity"}, the merchant tribe of the [[affiliation-tribestrzd|Atarzád]], have held its city since the fifth year of that war, and the house keeps its court in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], where it is the richest of the four exile houses.
 
@@ -67,12 +67,12 @@ The house wants Ashkarad back with its workshops whole: the craft councils solve
 
 The Teghumod are the obstacle, and they are watching. They have noticed the pattern of Nimeshai's loans, and a party sent from Amradad with coin for the quarter walks into a trade the tribe already follows. They need the craft families' goods more than they need a quarrel, so they leave the councils alone, and the resentment runs through contracts instead of streets.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The handle.** The adze needs a new handle, and the wood must come from the house's own groves. A party that brings a length of palm out of the groves below Ashkarad, cut and carried past a Teghumod gate, earns the court's gratitude, and a party caught at it gives the Teghumod a reason to look harder at every caravan bound for Amradad.
 - **The loan.** A craft family needs Nimeshai's silver before the next Teghumod bid. Carrying it into the quarter is easy to arrange and hard to do unseen.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ashkarad|Ashkarad]]
 : the city the house claims

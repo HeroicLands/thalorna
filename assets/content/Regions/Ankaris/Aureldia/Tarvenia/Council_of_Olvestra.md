@@ -68,7 +68,7 @@ About 421 AF, when the Edicts of Arzanas closed the western wars, Árdavon's pri
 
 Seven years ago the Ólvestran Marendos of the Sealed Word died three days before he was to issue a writ against a baron of the hills. The death was ruled natural, and the city has not stopped talking about it. The suspension of one of its great houses by [[affiliation-tarmex|the Tarmeks]] is the council's present trouble.
 
-## See Also
+## See Also {#see-also}
 
 [[place-olvestria|Ólvestra]]
 : the city the council governs

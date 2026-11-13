@@ -145,7 +145,7 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 **If bypassed.** A party that leaves without reading the alcove learns of the Clearing from a river-tribe elder a season later.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the wheels are stopped,** the Keepers collapse, the Bride is gone, and the river-tribes reopen the drowned plain within a season. The Quiet Dead walk farther from the Clearing than they did.
 - **If the wheels still turn,** the Bride's plan goes on, and the river-water darkens another stretch downstream.

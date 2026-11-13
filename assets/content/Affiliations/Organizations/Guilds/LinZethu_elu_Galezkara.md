@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Zethu elu Galezkara** is the consortium of the scribes of [[place-galezkara|Galezkara]] who work outside the temple schools. They take private commissions the schools will not touch, and what a client pays for is discretion as much as the hand that does the work. A scribe who breaks a confidence once rarely gets a second commission from those clients, who talk among themselves more than the consortium would like.
 
@@ -54,7 +54,7 @@ The consortium works outside the temple schools and takes the commissions they r
 
 A private commission pays for confidential copying, and the consortium guards that trade closely. Say a widow wants a copy of her husband's accounts made without the household steward hearing of it. She comes by the back stair, pays a premium in silver for the copy and for the silence, and takes both away. The scribe has been paid for discretion as much as for the hand, and the widow's confidence is the consortium's best advertisement.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]
 : The temple whose schools the consortium works outside

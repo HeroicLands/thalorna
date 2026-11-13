@@ -21,7 +21,7 @@ Akhoza-Menlaa is a circle's hidden work, not a place a map could show. Its site 
 
 Whoever finds it without being shown is marked for the embalmer's table, which is the circle's whole answer to the question of discovery.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]
 : the people and their ways

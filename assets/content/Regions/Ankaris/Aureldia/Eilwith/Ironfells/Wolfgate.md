@@ -42,7 +42,7 @@ The narrows: a ledge path under an overhang, with a drop on the other side and t
 - **The first crossing.** The Reeve of the Valleys wants the narrows cleared before the thaw, so that the runaways reach the valleys alive.
 - **The bales.** A smuggler of the Wiindmarch lost a pony train at the narrows in the autumn, and pays for whatever of its cargo can be brought out.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-grukaraelwyth|The Grukar of Eilwìth]]
 : the nests of the island

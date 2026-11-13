@@ -48,7 +48,7 @@ The field is awake and the withering is spreading outward at a pace that has sto
 The curse was awakened on purpose. The cult of the Black Flame has been rousing and magnifying it, drawing power from the destruction—a blood-field being a permanent reservoir of exactly what that faith holds sacred. The dying of the surrounding country is not incidental to their working. It is the working.
 :::
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-yharvalenhenge|Yarvalen Henge]]
 - [[affiliation-blackflame|The Black Flame]] · [[scenario-crsyhrvlnhng|The Curse of Yarvalen Henge]]

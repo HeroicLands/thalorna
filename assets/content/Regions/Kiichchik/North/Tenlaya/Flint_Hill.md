@@ -17,7 +17,7 @@ data:
 # terran_analog: the Knife River flint quarries and the Hidatsa villages at the mouth of the Knife River in North Dakota, with the Hidatsa practice of catching eagles by hand from covered pits
 ---
 
-## Overview
+## Overview {#overview}
 
 The bluffs above the village look as if something has been digging in them for a thousand years, and something has. Their slopes are pocked with hundreds of pits, each a few paces across, with heaps of broken stone beside them, and in summer there are people in dozens of them, prying out nodules of dark brown stone and knocking flakes off them to see what is inside. Kopen Mokin, Flint Hill, is the upstream village of the [[place-hesunshewanrgn|Village River]] and the northernmost village of the [[affiliation-tenlaya|Grass People]]: about 900 people in some thirty earth lodges on a low terrace where a small river joins the great one, under the flint bluffs. The stone in its pits is the best on the plains, glassy and even, and an arrowhead or a knife of it is worth a robe on the [[place-wehioshtergn|Cairn Plain]] and two at the One Fire's towns.
 
@@ -47,7 +47,7 @@ Last summer a lodge owner's daughter, digging deeper than anyone had dug on that
 The points are real, and very old: the work of hunters who lived on the plains long before the Grass People, and who hunted beasts larger than bison. Below the pocket where they lay, the gravel of the bluff holds the bones of one of those beasts, a great tusked animal, a pace below the deepest pit.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-hesunshewanrgn|Village River]]
 : the valley of the villages

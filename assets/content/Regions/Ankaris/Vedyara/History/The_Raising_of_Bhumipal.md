@@ -59,7 +59,7 @@ The first Maharava, [Kavrabira]{.name data-type="being/npc"}, did four things in
 
 The men who built the forts became the [Martial Council]{.name data-type="affiliation/governmental"} that confirmed him, and the council has confirmed every Maharava of the march since.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-bhumipal|Bhumipal]]—the kingdom the clan made
 - [[place-sandyapur|Sandyapur]] · [[place-marchroad|the march road]]

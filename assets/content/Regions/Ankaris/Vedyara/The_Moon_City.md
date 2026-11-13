@@ -48,7 +48,7 @@ Above all of them stand the temples of the [[affiliation-vrnkpnthn|Varnuka]], wh
 
 A stone stair a quarter-mile long runs the whole of the city's river face, and the city's public life happens on it. The boats come up to it from [[place-chandrmukha|the Moon-Mouth]] on the tide. Pilgrims wash on it. Accessions are proclaimed from the head of it. In the dry months the water drops far enough to expose the oldest courses, which are of a heavier and plainer stonework than anything above them and belong to a city the present one was built on top of. [[place-lowercourses|The Lower Courses of Chendrapur]] show under the cellars of the oldest quarters as well.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-chendrapur|Chendrapur]]
 : the city-state this city is the capital of
@@ -67,3 +67,5 @@ A stone stair a quarter-mile long runs the whole of the city's river face, and t
 
 [[lore-moonsettle|The Moon House Settlement]]
 : how the Nine Houses took their seats
+
+[[place-waitinghouse|The Waiting House]]

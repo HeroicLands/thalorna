@@ -137,7 +137,7 @@ The janpodas hold the overwhelming mass of Vedyara's people: on the order of **e
 [The Council of Three]{.name data-type="affiliation/governmental"}
 : the informal consultation of the senior priests of the three largest pilgrim-temples of central Vedyara, which are Sangema, [[place-surtatempl|the Surta temple]] at the source of the Chandramahi, and [[place-bhrnytemple|the Mahajaya Temple at Bharanya]], the great temple at [[place-bharanya|Bharanya]]. A joint pronouncement of the three on a matter before the Mahva-Sangra carries near-universal weight. It works as an executive committee, and the priests deny that it is one.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 A janpoda strikes no coin. Its traders carry whichever city's or kingdom's coin they deal in, and [[affiliation-mrchntclctvvdyr|the Merchant Collective]] clears it through [[lore-vdyrnbnkng|the Vedyaran banking system]]. Two janpodas, [[affiliation-rajeprjnpd|Rajepur]] and [[affiliation-dnrktjnpd|Danurkot]], hold seats of their own in the [[affiliation-assmblycmpct|Assembly of the Compact]] that governs the system; [[affiliation-suvrgrjnpd|Suvargeri]] keeps its gold outside it by its own constitution. Foreign coin and weighed metal are exchanged at the frontier moneylenders at Collective rates.
 
@@ -145,13 +145,13 @@ A janpoda strikes no coin. Its traders carry whichever city's or kingdom's coin 
 
 A person placed outside the tarona, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The next Sabhapavi.** The next Mahva-Melka is Mahaprasoda's last as convening priest, and a joint word of the Council of Three carries near-universal weight. A janpoda's Dutsa asks the party to learn, before the thirty days of observance begin, which candidate the senior priests of [[place-surtatempl|the Surta temple]] and [[place-bhrnytemple|Bharanya]] favor.
 - **Tirnugram's land.** The descendants of Tirnugram have never accepted the division of its land, and mean to raise it again in the last ten days. They ask the party to find, in the roll at [[place-sangema|Sangema]], the entry of the Melka of 320 that mourned it, and what was said of the land beside it.
 - **Which water.** A border janpoda's circuit has been in litigation at Sangema for generations, and the roll is read at the coming Melka. Its sabhra asks the party to find an old survey among the copyists of [[place-dirmapur|Dirmapur]] that shows which river its fields drink.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara Region]]
 : parent region
@@ -182,3 +182,9 @@ A person placed outside the tarona, by transgression or by birth, is excluded fr
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
+
+[[affiliation-lwrmhndjnpd|Lower Mahanodi Janpoda]]
+
+[[affiliation-mddlsrvdjnpd|Middle Sarveda Janpoda]]
+
+[[affiliation-srvdmthjnpd|Sarveda Mouth Janpoda]]

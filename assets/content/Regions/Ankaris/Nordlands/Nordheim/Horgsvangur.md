@@ -14,7 +14,7 @@ data:
   government: kngdmnrdhm
 ---
 
-## Overview
+## Overview {#overview}
 
 The road to Horgsvangur is the first thing the place asks of a pilgrim, and the last day of it, from the final farm, is the hardest. Horgsvangur, the Altar-Field, lies in the interior of [[place-nordheim|Nordheim]], far from the coast and the merchant routes, and reaching it means crossing difficult ground that few outsiders choose to cross. The remoteness is deliberate.
 
@@ -30,7 +30,7 @@ Women of the older clans say that the mothers of their oldest lines lie beneath 
 
 The settlement draws pilgrims of a particular kind: people who seek communion with the divine at the deepest level, who will endure hardship and lay their innermost selves open, and whose questions only a priestess of Horgsvangur can answer. The word of the priestesses carries weight throughout Nordheim and beyond, far past what a settlement of 300 would command, and a district's hersvald will travel a long way to ask their counsel on a grave matter.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 : the kingdom whose hersvaldar make the journey

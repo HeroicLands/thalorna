@@ -65,7 +65,7 @@ sohl:
   system: {commonSkills: [ritualigelnr, sohl-sohl-skill-srvl, sohl-sohl-skill-melee, khelathlng]}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Don't call it sport," a Bearer at the [Summer Lodge]{.name data-type="place/structure"} tells a newly hired hand who has asked what the company is for. "Sport is for people who can go home afterward. We feed the temples, we settle the river god's account, and we keep the hippopotami out of the barley. Survival in sacred robes, that is the hunt."
 
@@ -159,7 +159,7 @@ The company serves a game master in several ways:
 - A way into Khelathi religion, caste and temple politics through one concrete job.
 - A route to a dungeon crawl in the drowned ruins of the southern marshes.
 
-## See Also
+## See Also {#see-also}
 
 [[place-zumeleshrvr|The Zumelesh]]
 : the river whose southern reach the company holds

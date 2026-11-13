@@ -77,7 +77,7 @@ The major festival celebrating Ataros is the [Feast of Flames]{.name data-type="
 
 Private devotion to Ataros often focuses on specific purposes. Individuals seeking purification from guilt or spiritual corruption will visit a fire-temple and, under the supervision of a priest, walk carefully between two small flames (a rite that requires courage but rarely causes serious injury if performed with proper intention and focus). Those facing difficult decisions will spend time in the presence of the sacred fire, meditating on the problem while watching the flames, seeking clarity from the god's wordless wisdom. Merchants will carry small portions of ashes from the temple fire in sealed containers, believed to carry the god's blessing and protection on trade journeys. Sick individuals are sometimes brought to the fire-temple, where healers will expose them to the warmth and smoke of carefully tended flames while reciting healing prayers, relying on Ataros's transformative power to burn away disease.
 
-## Organization
+## Organization {#organization}
 
 The priesthood dedicated to Ataros forms the core structure of all Ashaian religious organization. Every fire-temple, regardless of which specific deity is its primary focus, maintains an altar dedicated to Ataros and priests trained in the sacred rituals of fire-kindling and maintenance. The hierarchy is organized around responsibility for the flame itself:
 

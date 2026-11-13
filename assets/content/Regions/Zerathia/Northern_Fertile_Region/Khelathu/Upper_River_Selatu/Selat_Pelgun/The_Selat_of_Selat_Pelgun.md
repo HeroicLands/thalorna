@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "At harvest the whole selat comes in to thank the god, and nobody is shy about it," a priest of [[affiliation-pelgun|Pelgun]] tells a newcomer to the temple at [[place-iqu|Iku]]. "[[lore-pelgundty|Pelgun]] keeps the fields and the desert roads, and his cult keeps the household too. Ask me about the rites before you ask the neighbors."
 
@@ -65,11 +65,11 @@ The Selat of Selat-Pelgun is one of the eighteen provinces of [[affiliation-uppe
 
 The caravans come down from the eastern roads and the harvest comes in from the fields, and the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] has both to govern. His seat is Iku, where he keeps his court and where the chief temple of Pelgun stands, and the selat's year runs between the arrival of the loads and the festivals that thank the god for the grain.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Selat-Pelgun uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts, so the caravans from the desert roads settle their business in the same weights as the farmers. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : Parent selat-class

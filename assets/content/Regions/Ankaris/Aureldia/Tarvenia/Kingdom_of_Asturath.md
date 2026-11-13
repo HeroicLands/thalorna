@@ -98,7 +98,7 @@ Pantheon
 Government
 : Hereditary monarchy with a council of mountain lords
 
-## Overview
+## Overview {#overview}
 
 The Kingdom of Asturath is the mountain kingdom at the heart of the [[place-tarvenirgn|Tarvénia Region]], a realm of valley lords under a king who is the first of them, and the one part of Tarvénia that the [[affiliation-vylarinmpr|Vilérian Empire]] never held. It is a mountain people's freedom kept by their own arms: Outsiders know it for two things: the crossbowmen its valleys send to other people's wars, and the plateau city of [[place-lezkora|Lezkora]], where the kingdom's king and the High King of [[affiliation-kingdmtrvn|Tarvénia]] both keep their courts. The kingdom holds the land of [[place-asturath|Asturath]].
 
@@ -150,7 +150,7 @@ Lezkora holds two courts. The High King of [[affiliation-kingdmtrvn|Tarvénia]],
 
 The lords of the lowlands, whose king [[being-zenotholtr|Zenoth Oltris]] means to stand at the next election, have begun sending their men up the road one and two at a time. At the eastern edge the Warden of the March, [[being-estarildomi|Estaril Dómivar]], holds the road at [[place-kavrenath|Kávrenath]] against smugglers, deserters and refugees, and in the high valleys the companies are abroad under contract.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Kingdom of Asturath uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. It is a post-imperial commonwealth member—it takes part fully in the trade and banking of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
@@ -168,7 +168,7 @@ With the lowlands in revolt against the Empire, the mountain lords met at Lezkor
 
 The lords of Lyenrik took the High Kingship from about 605 AF and have contested it at every election since. The High King has still most often been an Astúrathi lord, and the present one is.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
 : The loose overlord

@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Hold it to the light," says a [[affiliation-garhalzi|Gar-Hálzi]] assayer, turning a weight-piece between finger and thumb for a newly arrived carter. "Every selat on this coast tells you what it is by what it sells. [[place-gezazabu|Gezazabu]] sells salt-fish, and the whole selat smells of it." The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], an western delta port of salt-fish and curing-houses, with the trade road to [[place-bethuargn|Bethua]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-thubaidty|Thuba'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-gezazabuselt|Gezazabu Selat]].
 
@@ -63,11 +63,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 The seat is Gezazabu, where the Halzi'a keeps court and the selat's chief temple of [[affiliation-thubai|Thuba'i]] stands. Thuba'i is the god of abundance and plenty, and a port that lives by the catch and the carrying trade keeps his festivals with a will.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gezazabu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of Gar-Hálzi attached to the chief temple attests the weight-pieces and holds the granary accounts, and a curing-house that sells a cargo of salt-fish by the barrel is paid in pieces that chapter has weighed. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

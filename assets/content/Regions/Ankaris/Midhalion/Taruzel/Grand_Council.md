@@ -108,7 +108,7 @@ Behind the list the houses talk of something larger. Tirmana Qizikuni has sounde
 - **The visitors from Yamuzel.** [[being-llmnblnn|Ellamuna Balinuni]] wants to know what Danashu's late-evening visitors from Yamuzel asked him and what he answered.
 - **The closed roll.** [[being-trmnqzkn|Tirmana Qizikuni]] sends a party with sealed letters to the heads of two other houses, and each head asks the party what the others answered.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the confederation the Council governs

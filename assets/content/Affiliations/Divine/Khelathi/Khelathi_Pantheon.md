@@ -145,7 +145,7 @@ The pantheon's theology turns on one opposition, _order against chaos_. Qe'aret 
 
 The coherence of the scheme impressed the [[place-helionis|Helionite]] philosophers who studied it. The gods are parts of a cosmic system, each with a defined role in keeping existence going. The annual flood of the river—the land drowned and reborn each year—is the living image of that cycle of destruction and renewal, and the whole Khelathi calendar of festivals, rites and observances is arranged around it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the civilization

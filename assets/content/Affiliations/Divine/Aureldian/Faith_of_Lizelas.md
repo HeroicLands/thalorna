@@ -71,7 +71,7 @@ Individual worship of Lizelas is warm and personal. Pregnant women visit her tem
 
 Offerings to Lizelas are abundant and sensory—fresh flowers, honey, wine, sweet herbs, and the first fruits of harvest. Many homes maintain small shrines to the goddess with blooming plants or fresh flowers, which are replaced regularly as they fade. Gardens and herb-lofts maintained for healing purposes are often dedicated to Lizelas, and those who work in healing professions frequently maintain personal devotion to the goddess.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Lizelas is led by the **Lizena**, the High Priestess (occasionally High Priest, though the role is more frequently filled by women). This figure is typically a middle-aged priestess of renowned skill in healing and gardening, someone whose wisdom and warmth draw the faithful and whose authority extends throughout the priesthood. The Lizena is a healer, teacher, and intermediary between the goddess and her people.
 

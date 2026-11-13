@@ -65,7 +65,7 @@ Sittings
 Founded
 : With the Compact itself, which tradition dates to the [[lore-thirdcmpct|Third Janpoda Compact]], sworn at the **Mahva-Melka** of 320 AF
 
-## Overview
+## Overview {#overview}
 
 The Assembly of the Compact governs [[lore-thirdcmpct|the Third Compact]], a body of standing trade law: arbitration procedure, weights and measures, currency standards, and the roads, caravanserai and watch posts that carry Vedyaran commerce between one polity and the next. The Shreshthins who wrote it could not unify the subcontinent and did not try. What they could do was make the terms of trade the same on both sides of every border, and then invite each polity to sign or to watch its neighbors grow richer than it. Each signed. They have signed every renewal since.
 
@@ -104,7 +104,7 @@ At the head of all of it stands the **High Speaker**, elected by the kulena from
 
 The arrangement suits Suvargeri and irritates everybody else. The Assembly would like a sixth seat and the gold standing behind it. It has no means of compelling one, and the gold reaches the coast regardless, through buyers who pay in coin at the edge of the territory and ask no questions inside it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]
 : the federation the Assembly governs

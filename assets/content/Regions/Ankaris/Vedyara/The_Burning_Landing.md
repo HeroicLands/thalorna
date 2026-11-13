@@ -52,7 +52,7 @@ The gap, left open too often in one place, stops closing. The ground at the Land
 
 A road runs upriver from Naughat along the north bank, a mile of packed earth between rice-ground and reeds. Carts of the dead come down it at dawn. The Landing can also be reached by river, and the keeper keeps a landing-boat. At night the road is empty.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The light urn.** A Danhija household buried an urn that rattled. The widow has been told to say nothing, and wants someone to ask the ash.
 - **The cell.** The Sabhra of the shrena wants a Chinnasutra cell removed and cannot be seen to, and the cell has chosen the one place nobody searches.
@@ -60,7 +60,7 @@ A road runs upriver from Naughat along the north bank, a mile of packed earth be
 
 [[scenario-ashthatwouldnottake|Between the Conch and the Flame]] gives these as a five-scene adventure.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-bloodfield|Blood-fields]]—what ground the unburned dead make
 - [[affiliation-kalavrata|Kalavrata]] · [[affiliation-thresholdkeepers|the Threshold-keepers]]—the passage, and the gap before the pyre

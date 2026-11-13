@@ -14,7 +14,7 @@ data:
   government: wambuchitrb
 ---
 
-## Overview
+## Overview {#overview}
 
 Wámbuchi Village is the seat of the [[affiliation-wambuchitrb|Wámbuchi tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

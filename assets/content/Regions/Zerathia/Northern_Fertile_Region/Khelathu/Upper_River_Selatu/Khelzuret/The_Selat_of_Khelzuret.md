@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Learn the two sets of keys first," the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]'s steward at [[place-khelzuret|Khelzuret]] tells a clerk newly posted from the capital. "The Halzi'a holds the keys to the granaries and the Thaz'Lekhau hold the keys to the tombs, and nothing in this selat that matters opens with only one set."
 
@@ -72,11 +72,11 @@ Khelzuret is solemn, ancient and given over to death, though not morbidly, becau
 
 Khelzuret is the empire's uncanny heart, and it plays like nowhere else—a whole society organized around death, with all the wealth, secrecy, and dread that implies. Run it as a place of sacred industry and buried danger: the embalmers' guild-secrets, the tomb-workers' closed brotherhood at [[place-zelqar|Zel-Qar]], the rivalry between the Halzi'a and the mortuary priesthoods, the endless war between the tomb-builders who hide the dead and the tomb-robbers who plunder them. The funerary magic here is real and the curses guarding the tombs are not always idle superstition. Adventure runs from the mundane—pilgrim-fleecing, grave-goods fraud, stolen mortuary papyri—to the eerie: what walks the necropolis after dark, what the deepest tombs were built to keep in as much as out, and what a desperate or greedy party finds when it goes down into the houses of eternity. What is abundant here is ritual, stone, and the dead; what is scarce is levity, and any tomb that has not already been robbed at least once.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Khelzuret uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Much of its wealth moves as temple-account and pilgrim-offering rather than open trade, banked through the mortuary temples' own treasuries and the [[affiliation-garhalzi|Gar-Hálzi]] houses that serve them; the grave-goods and amulet trades, by contrast, deal briskly in struck copper and silver. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : Parent selat-class

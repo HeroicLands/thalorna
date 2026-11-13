@@ -17,7 +17,7 @@ data:
 
 The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the [Pale Floor]{.name data-type="place/region"}, and the lightning finds it every night the sky offers. Its last master, [Vahrun Marzuvan]{.name data-type="being/npc"}, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to one of the [[lore-dunhariclt|Dunhari]] who has stopped being one.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A fence in [[place-qarvelakhend|Qarvelakhend]] pays well for the master's iron crown and asks no questions. A rival went south before him and did not come back.
 - **The mercenary or soldier.** The Amradi _ghedvader_ at Qarvelakhend posts the party to the [Kinless Watch]{.name data-type="place/structure"} on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
@@ -129,14 +129,14 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **If bypassed.** A party that leaves without learning what the master held finds the storm back above the Floor within a season, and a second figure standing in the gallery.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the master is bound.** The Floor is safe to cross, the toll falls, and the Lightning-Marked lineage grows in standing. Mehrava's readings are taken more seriously by the Council.
 - **If the master is killed.** The storm leaves the tower and goes into the open desert. Caravans lose camels to lightning that does not strike.
 - **If the crown is taken to the Stone of Ranaz.** The Council argues for a season, and the Circle is asked whether the Old Promise binds against a Dunhari who is a door.
 - **If the Kinless Watch learns what was done.** They report to [[affiliation-kngdmmrdd|Amradad]], and the Kingdom's interest in the Floor deepens.
 
-## See Also
+## See Also {#see-also}
 
 [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]
 : the site and its toll

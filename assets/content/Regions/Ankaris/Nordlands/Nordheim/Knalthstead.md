@@ -14,7 +14,7 @@ data:
   government: kngdmnrdhm
 ---
 
-## Overview
+## Overview {#overview}
 
 "Do not count what the ring weighs," a clerk of the Hringvordur, the keeper of the rings the king gives, tells a newcomer standing at the back of the hall at Knalthstead. "Count who is watching when it is handed over." Knalthstead is the seat of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], whose king holds the realm only as long as the ting goes on handing back his arm-ring, and the hall here is where that handing-back is watched most closely. A hringberi slighted at this hall is slighted in front of every clan with business here, which makes a king's generosity a public performance and not a private virtue.
 
@@ -26,7 +26,7 @@ A ship beaching at Knalthstead's quays meets a working harbor before it meets a 
 
 The harbor-reeve who tolls the wharves and the landvordur who rides the king's dues out through the district work from the same hall as the Lawspeaker who recites the law at the ting and the Hirvstjori who masters the muster. Three of the town's own households make their living from what that concentration of offices draws to one place. [[being-mrvrhrfnsvld|Murvir Hrafansvald]] sets amber and silver for a court that must look the part. [[being-sklfvrasgrnd|Skilfvir Asgrind]] sells what the forest yields to the kitchen that feeds the hall's hirv. [[being-hrndmylsnrvrkh|Hrundmil Snarvaruk]] holds the keys to the cell a niding occupies until the ting decides his case.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 : its seat and the king's hall

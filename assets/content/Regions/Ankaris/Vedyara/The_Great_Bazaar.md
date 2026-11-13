@@ -30,7 +30,7 @@ The Bazaar's second rule is that a trade done under the roof is done in the open
 
 The open floor also makes the Bazaar the best place in southern Vedyara to hear something. Every Kulena keeps a man there who buys nothing.
 
-## See Also
+## See Also {#see-also}
 
 [[place-chendrapur2|Chendrapur]]
 : the city

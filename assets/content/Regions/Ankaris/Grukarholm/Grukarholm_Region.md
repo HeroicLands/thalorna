@@ -87,7 +87,7 @@ Vristwald curls around this area on its way east. The stretch called Skathwald i
 
 Velanthia lies north of the thickest Grukar country and in the pocket to its southeast. Velanthian villages watch the same raiding paths as the Varokh. A Sha may understand a warning, but no Velanthian prince can make an agreement that binds a nest or the other tribes behind it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-grukarfolk|Grukar Folk]]
 : the castes, inheritance rite and appetite

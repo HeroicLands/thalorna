@@ -29,12 +29,12 @@ The dead of both armies stand on the plain on the anniversary of the battle, wor
 - **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, whom Korinthea refuses at the ring.
 - **[[affiliation-blackflame|The Black Flame]]**, which works fields anywhere, and for which a withering that spreads is the work already half done.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The moved stone.** The boundary stone nearest the road has moved overnight, by hand, and a farm on the wrong side of it is for sale cheap.
 - **The motion.** A Korinthean assembly has, for the first time, a motion before it to pay for the settlement rite, and the families who oppose it have a reason they will not give.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-heladturnedwrk|The Turned Working]]—the battle that made the plain
 - [[lore-bloodfield|Blood-fields]]—what a withering is

@@ -17,13 +17,13 @@ data:
 
 A prince bargained with something under the sand for his house's survival, and it kept the bargain. The house is still at table, unchanged, and every guest who sits down is a payment. The party is asked to dine.
 
-## Overview
+## Overview {#overview}
 
 The palace of the cadet house of [Nimeshun]{.name data-type="affiliation/lineage"}, [[place-relvanninel|Relvanninesh]], is a ruin of fused glass that has not weathered in ninety years. Twelve people live in it, unaged and glass-clear, bound to a long table and a law: the house has never turned away a guest and cannot. The [Tenant]{.name data-type="being/creature"} beneath the palace, a seam of black glass that is a piece of [[lore-theshadow|the Shadow]], takes years from every guest who shares the house's bread. The adventure is a banquet with a prince who wants to die and a thing that does not want him to.
 
 The adventure runs over a day and two nights. The party arrives in the glare of one afternoon, dines that evening, sleeps in the east wing and goes down to the cistern in the small hours or the next noon. Because the Tenant draws years by the hour, time is the resource the scenes spend. The bypass notes carry play on when the party skips or shortens a scene.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A glass-seller in [[place-ashkarad|Ashkarad]], a thin man with a lens-grinder's squint and a scar across the thumb, pays well for a lens from the palace, the clear sort that the house made in its last years. He keeps one on his counter that shows the street upside down and nothing at all of the person looking. He does not mention that two thieves went for one and came back old, though a boy sweeping his shop floor will say it for a coin.
 - **The mercenary or common soldier.** A [Teghumod]{.name data-type="affiliation/polity"} factor needs a party to escort a debtor across the edge of the belt, by a road that passes within sight of the hill. The debtor is a man the factor would be glad to see the hill take, and the factor is careful never to say so in a sentence that could be repeated. The pay is good, and the road is the shortest, and the factor has marked it on the map with a thumbnail.
@@ -110,14 +110,14 @@ The adventure runs over a day and two nights. The party arrives in the glare of 
 
 **If bypassed.** A party that leaves without the ledgers learns of them from the glass-seller within the year, who knows by now what was in the vault and which house stands to profit.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the Tenant is broken.** The palace weathers in a season. The household is received at last. The Teghumod pull down the ruin for its glass, and the lenses that come out of it show the street the right way up. The craft quarter of Ashkarad lights lamps for the lamp-maker, who dies in the party's presence with her name spoken, and the great-granddaughter takes the mirror down from her wall.
 - **If the names are read.** The house is released with its rite and the Tenant goes quiet. The palace stands, empty and ringing, and the edge-tribes stop burying their animals.
 - **If the party takes the bargain.** The table has new seats, and the guests keep coming. The party's names enter the ledger, and the silver at midwinter goes to Amradad in a hand that is not the steward's.
 - **If the party fails.** The party is three or four years older, and the house has new guests at its table. The glass-seller's lens shows nothing of the party's faces, and the party does not ask why.
 
-## See Also
+## See Also {#see-also}
 
 [[place-relvanninel|Relvanninesh]]
 : the palace and the house in it

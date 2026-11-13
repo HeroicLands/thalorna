@@ -13,7 +13,7 @@ data:
   packFolder: nordheim
 ---
 
-## Overview
+## Overview {#overview}
 
 Nobody lives on Domsei, and nobody may. The island lies in [[place-nordheim|Nordheim]]'s waters at the heart of the [[place-nrdlndsrgn|Nordlands]], a low hump of turf and gray rock a long morning's row from the nearest strand, and for six years in every seven the only feet on it belong to the sheep the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] grazes there and the herdsman who rows out to count them. In the seventh year, at [[lore-sumarmal|Somarmál]], the kings of all five kingdoms and their principal jarls land on its strand for the [King of All Clans]{.name data-type="affiliation/governmental"}, the one assembly whose judgments reach beyond any single kingdom's writ. The island's name says what it is for: _dóms-_, the judgment's, and _-ei_, an island.
 
@@ -57,7 +57,7 @@ What was not done that evening is why the island is empty. No grave-ale was ever
 
 The Landsgudi pours one cup at the law-rock at each opening, "for the ones the count left out", and that is the whole of what the north does for them. A Malagnan claimant who offered to drink the grave-ale of 287 in his own name would be offering to reckon the debt before every king in the north, and a reckoning that found Nordheim's hirv drew first would put the island's keeping in question. A [[affiliation-nahild|Nahild cell]] that meant to spill blood inside the stones at the sixty-third sitting would open the field with all five kings sitting on it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nordheim|Nordheim]]
 : the land whose waters hold the island

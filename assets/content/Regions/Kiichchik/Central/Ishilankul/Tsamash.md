@@ -16,7 +16,7 @@ data:
 # terran_analog: the great market of Tlatelolco with its market judges, and the counterfeit cacao beans of the Mexica markets; the name copies no Nahuatl or Maya place
 ---
 
-## Overview
+## Overview {#overview}
 
 In the middle of the market plaza of Tsa'mash stands a rock. It is a dome of dark gray stone, smooth and rounded, as tall as a house of three stories, and the city has never moved it. The market is laid out around it in rings, and every trader in the city gives directions from it. Tsa'mash, the Stone Heart, takes its name from the rock. It is a city of about 70,000 on the southern edge of the [[place-ixilankulrgn|Ish'ilankul Region]], one of the city-states of [[affiliation-ixilankul|Ish'ilankul]], and it is the greatest market on the plateau.
 
@@ -38,7 +38,7 @@ Tsa'mash is ruled by a Ts'enmah chosen from its royal line by four P'eshalmah an
 False cacao is moving through the market in quantity. It is made in a workshop in the potters' ward: good beans are opened, emptied, packed with gray clay and closed with a smear of wax, so that they look and weigh almost right. The workshop belongs to a trading house of P'enqal's own quarter, and two of the market judges have been paid to look at the beans in a complaint and find them sound. A buyer who breaks a bean open with a thumbnail can see the clay.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-kultaqan|Kul'taq'an]]
 : the city that shares its market cycle

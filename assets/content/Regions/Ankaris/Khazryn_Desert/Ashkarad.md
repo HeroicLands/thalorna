@@ -14,7 +14,7 @@ data:
   packFolder: khazryndesert
 ---
 
-## Overview
+## Overview {#overview}
 
 **Ashkarad** is the second of the seven Tellumi cities, in the heart of [[place-swoasisbelt|Tellumel]], and the one the rest of the belt buys its tools, harness and glazed jars from. About thirty-eight thousand people live inside the walls, and the workshops outnumber the houses in the old quarter, where every street takes its name from the craft that fills it. Since [The Breaking]{.name data-type="lore/history"} the city has belonged to the [Teghumod]{.name data-type="affiliation"}, the merchant tribe of the [[affiliation-tribestrzd|Atarzád]], who hold its gates, the point where the caravan road from the steppe comes into the belt, and its caravans. The craft families still hold the workshops, and the councils that govern each craft still meet.
 
@@ -45,7 +45,7 @@ Ashkarad is the second of the seven cities in order of founding, after [[place-o
 - **The loan.** Nimeshai's money has bought loyalty in the quarter, and the Teghumod have noticed the pattern. A party sent from Amradad to carry coin into Ashkarad is walking into a watched trade.
 - **The tunnels.** The deep shafts run for miles under the foothills. Some break into older workings no one has mapped, and air in a long tunnel can turn foul without warning.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the Confederation whose House of Ashkarad sits in exile
@@ -61,3 +61,7 @@ Ashkarad is the second of the seven cities in order of founding, after [[place-o
 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the faith of the central plaza
+
+[[place-relvanninel|Relvanninesh]]
+
+[[place-talbemsirvel|Tashbemsirvesh]]

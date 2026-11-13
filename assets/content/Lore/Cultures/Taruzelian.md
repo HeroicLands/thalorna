@@ -196,7 +196,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the betrayal that followed. Within two years of independence the Confederation was an oligarchy in all but name, and the men who had financed the war wrote its charter. The Compact called in its debts, the Corsair League was turned from a brotherhood of veterans into a shipping cartel, and the veterans were accused of debts they did not owe and crimes they did not commit, bought off with small posts, tried in guild-friendly courts or declared outlaws. The hill tribes, who had sent their warriors to die for the port cities, received nothing and were worse off than before. The veterans keep the broadsheet on the wall of the hall and read it as a promise the guilds made and did not keep. The coast treats the settlement of a debt as the basis of the trade, and the debt of the Shoals is unsettled.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the twelve-year-old confederation

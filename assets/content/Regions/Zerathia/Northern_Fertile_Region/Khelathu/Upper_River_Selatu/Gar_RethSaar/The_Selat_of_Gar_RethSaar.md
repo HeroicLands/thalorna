@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "You are welcome in our libraries, which is more than most foreigners are told," an archivist of [[affiliation-rethsaar|Reth'Sa'ar]] says to a scholar from [[place-helionis|Helionis]] who has come upriver to read. "Be welcome in the right order. The king-lists first, because they are what everything else is dated by, and then whatever you came for."
 
@@ -84,11 +84,11 @@ Gar-Reth'Sa'ar is the empire's archive and academy, and it plays best as a place
 
 Run adventure here as the intrigue of the written word: a forged genealogy that would change a succession, a lost or suppressed record, a scholar who has read too much, the theft of a unique text, the rivalry of schools and the politics of the archive. Helionite scholars, among the few foreigners welcomed into [[lore-khelathiclt|Khelathi]] temple libraries, pass through here, and where scholars meet, so do their secrets. Learning, records and trained men are abundant. Forgetfulness is scarce, and so is any document that cannot be made to say something dangerous.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gar-Reth'Sa'ar uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Its school-fees, text-sales and certification-dues bring a steady flow of struck silver into a selat that would otherwise run, like its neighbors, on grain-render. The temple of Reth'Sa'ar banks its endowments through the [[affiliation-garhalzi|Gar-Hálzi]] treasuries and is itself a noted lender and holder of records of account. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : parent selat class

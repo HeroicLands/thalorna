@@ -138,7 +138,7 @@ The contract names the reigning Orzas by his name, as every imperial contract do
 The captain's companion, [Oltremo Ugarreta]{.name data-type="being/npc"}, sells the deserters their passage. A runaway legionary who reaches the Step with silver is taken over the pass with the company's half going home, in the company's cloak, and is put into a valley company's hands at Kávrenath with a word in the right ear. Zedmo knows that it happens and has never asked how much it pays. It is not in the contract, so in his reading it is not the company's business, and the money goes into the roll as gifts from travelers. The legion's officers suspect it and cannot prove it. If they could, they would have a breach of the empire's peace by a company in its pay, and the war council would have to choose between its cheapest garrison and its officers.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-kavrenath|Kávrenath]]
 : the frontier town below the company's valleys

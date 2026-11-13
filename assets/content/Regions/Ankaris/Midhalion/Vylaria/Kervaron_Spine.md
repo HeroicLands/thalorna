@@ -17,7 +17,7 @@ data:
 # terran_analog: "The western Alps between the Po lowlands and Savoy, held by their own mountain people against a lowland power's paper claim."
 ---
 
-## Overview
+## Overview {#overview}
 
 The Kervaron Spine is the great arc of high mountains that closes the western frontier of the [[affiliation-vylarinmpr|Vilérian Empire]], between the Vilérian peninsula and the eastern reaches of [[place-elavendre|Élavendre Region]] and the northeastern marches of [[place-tarvenirgn|Tarvénia Region]]. It is snow on the peaks, forest in the deep valleys, glacier-fed rivers, and high pastures that bloom for two months of the year. Its dozen narrow passes are the only practicable crossings from east to west, and each of them is held by a clan of the [[lore-aelendnppl|Áelendan People]].
 
@@ -69,7 +69,7 @@ The clans hold the passes, and the empire lists them. The [[affiliation-seldan|S
 - **The taken stone.** A spring-stone has gone from its spring, and a dealer in Orzara is selling a carved stone with Áelendan runes on it as a relic of the First Gods. The clan that lost it has closed its pass to every Vilérian train until the stone comes back.
 - **The surveyor.** A young chancery surveyor arrives with orders to re-measure the boundary-stones and enter their condition. He means to do it properly, which means visiting all of them, and the clans have not been told he is coming.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vylariargn|Viléria Region]]
 : the land whose western frontier it closes

@@ -15,7 +15,7 @@ data:
   packFolder: kelwanuk
 ---
 
-## Overview
+## Overview {#overview}
 
 A canoe coming in from the sea sees the village before it sees the beach: a long row of cedar plank houses above the tide line, each with a crest pole before its door carved with the beings of the lineage that lives there, and the tallest pole of all, topped by an eagle with spread wings, before the house that sits first on the coast. This is Tsilkasis, Eagle Beach, where the first Tsilkas came down from the sky as an eagle and took off his mask. About 3,000 people live here, at the mouth of a salmon river at the head of a northern fjord of the [[place-hapasrgn|Long Inlets]], where cedar forest runs from the water to a spine of snow-crowned volcanic peaks.
 
@@ -37,7 +37,7 @@ Every midsummer the Eagle House sends a few big canoes north past the glaciers t
 
 The salmon run is the pulse of the village's year. In late summer the whole village works at the weir across the river, taking, splitting, drying and smoking fish enough to last until spring. In autumn the houses give and attend feasts, and in winter they turn to the masked dances, and the war canoes are drawn up under cover until the raiding season. At the end of winter the eulachon crowd the river mouth, and the village renders their grease in pits along the shore.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kelwanuk|Kelwanuk]]
 : the Cedar People and their nation

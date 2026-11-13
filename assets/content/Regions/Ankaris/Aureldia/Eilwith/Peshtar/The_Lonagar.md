@@ -89,7 +89,7 @@ The Lonagar gather on the headland above the largest inlet, inside a ring of sto
 - **The burned strand.** Sennog wants to know which of the pact's ships burned his clan's boats, and he will guide anyone who can tell him through the moor to the Nordfells and back.
 - **The western cape.** A clan of the western inlets is trading with a coaster that comes round the cape, and its master is asking questions about the Nordmoor's inlets that have nothing to do with salt.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nordmoor|The Nordmoor]]
 : the tribe's country

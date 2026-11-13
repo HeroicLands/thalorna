@@ -16,13 +16,13 @@ data:
 # terran_analog: the Vindhya range of central India and its hill kingdoms; the name keeps clear of Vindhya and is built from shikhena, a peak, and alaja, an abode
 ---
 
-## Overview
+## Overview {#overview}
 
 A carter on the terrace road, setting a first-time passenger down at the foot of the climb, gives him the lay of the land in the order he will need it. "Rice and barley on the steps below you, sheep and goats above, snow-water in every ditch, and a stone fortress where the road narrows. Everything you buy in the north came up this way, and everything the north sells goes down it."
 
 Shikhalaya is the land of the highland kingdom of [[affiliation-shikhalaya|Shikhalaya]], the northern passes of [[place-vedyarargn|Vedyara]] through [[place-graznmntns|the Grazian Mountains]]. The southern Vedyari kingdoms are river valleys, tropical ports and the slow rhythms of farming and craft. Shikhalaya is pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql
 SELECT s.address.slug AS _ref,
@@ -68,7 +68,7 @@ The terrain limits highland farming. The great terraced fields of the lower vall
 [[place-slvrgorges|The Silver Gorges]]
 : steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom, and carrying [[place-tamradvar|Tamradvar]] up to the marches beyond. The mines are held by hereditary smithing clans whose prerogatives predate the Maharava's own charter.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shikhalaya|Shikhalaya]]
 : The kingdom that holds this land

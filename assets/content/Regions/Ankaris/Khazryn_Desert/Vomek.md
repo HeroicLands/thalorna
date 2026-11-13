@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 The water at Vomek is the best on the whole road. It comes up cold through white sand into a pool the size of a threshing floor, and round it stand date palms thicker than a man's waist, their crowns so heavy with fruit that the trunks lean. The grass is knee-high in a country where grass means a good year. There is no skull-pole at the approach, no well-stone and no mark cut in a palm. No tent has stood beside it since anyone's grandmother.
 
@@ -41,13 +41,13 @@ A caravan short of water that draws here in daylight and moves off before dusk t
 
 The gear of the dead is in the grass: saddle-trees gone gray, iron fittings in the shapes of buckles and bits, a pile of tent-poles that has gone to roots and put out leaves. The tribe's herd-marks are visible on a few skulls. Nobody has taken more than a handful of them. A stranger seen carrying something out is news that an Uruvol guide sells to the nearest tribes within the month.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Sweet dates.** A hidden-water guide at [[place-qisomrktcmp|Qiiso]] has been selling jars of Vomek dates to a Bizarian spice-buyer who thinks they come from a private grove. The buyer's cook has stopped sleeping.
 - **The names.** The few who escaped were taken in by a neighboring tribe, whose elders still hold the names of the dead by heart and have never agreed to speak them at the oasis. Saying them would mean naming the orghun's part in it aloud, before every tribe on the road, and that tribe sells passage to all of them.
 - **The caravan that camped.** A merchant's string stands at the oasis in good order, tents pitched and animals fat, and the drivers lie asleep and breathing. None has woken in four days. The tribe whose range it is has offered a price to anyone who will carry them out before dusk, in daylight, without lingering.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
 : the union whose founding orghun made it

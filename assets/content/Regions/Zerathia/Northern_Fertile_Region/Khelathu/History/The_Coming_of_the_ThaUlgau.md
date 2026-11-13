@@ -74,14 +74,14 @@ The victors forbade the rites for the dead. The valley's law is that the dead of
 
 The priesthood crowned the nomad chief as [Kuz'Uqa]{.name data-type="being/npc"}, "strong of the sun-lord," because the throne cannot stand empty and the temples had always crowned whoever stood upon the mound. His house held it for four reigns and fifty-nine years, and the temple chronicle enters it by the usual formulas ([[lore-hillhouse|the Closing of the Hill House]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The field.** The ground is [[place-zelhalzi|Zel-Halzi]], the Unmeasured Field, the first _zelqezat_ (the place of a battle left unread) in Khelathi memory. No survey roll gives it a line.
 - **The Tha'Ulgau.** When the hill house closed, its kin were settled on the western pastures and became a Halzi'a house, and they have kept the offering the field is owed ever since.
 - **The fear of horsemen.** The western march still watches its edge, and the cult of [[affiliation-qeztu|Qeztu]] is strong there.
 - **The horse barrows.** The first Tha'Ulgau to die were buried in the hill way, with their horses, in the grazing country of the west ([[place-horsebarrows|the Horse Barrows]]).
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhdivriver|The Divided River]]
 : the age this conquest falls in

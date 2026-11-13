@@ -52,7 +52,7 @@ The coast holds that the strongest shaman alive is [[being-pinaqaklu|Pinaqaklu]]
 
 Last winter the boat-holders of [[place-imlakkagaq|Imlak Kagaq]], Whale Point, sent for her. Their leading boat-holder, [[being-tikumalu|Tikumalu]], Ice Running, holds that the whales chose the Whale Point crews when they led them east, and that the [Taking]{.name data-type="lore/history"} was the whales' choice and no breach. He asked Pinaqaklu to go beneath to the whales' house and ask them. She went. When the lamps were lit again she said that she would tell what the whales said at a Telling, and only at a Telling held by Whale Point and [[place-kavrumiq|Kavrumiq]] together, in one men's house, with both villages on the benches. Neither village has asked the other.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tikupilaritclt|Tikupilarit]]
 : the culture of the Ice-Edge People, the Rules of the Catch and the names that come back

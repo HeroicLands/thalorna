@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Above the delta [[place-zumeleshrvr|the Zumelesh]] runs for hundreds of leagues through a narrow, fertile valley walled by dry upland on either side, and the eighteen Upper River Selatu, eighteen provinces, hold it. They are the most numerous of the four classes of selat and the agricultural heartland of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: every year the flood drowns and renews their fields, and every harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed and most stubbornly traditional country in the realm, and its Halzi'a are the conscience of the empire and its dead weight in equal measure.
 
@@ -117,11 +117,11 @@ Run the upper river as the empire's deep, conservative interior—temple-bound, 
 
 Adventure here is older and stranger than in the Delta: tomb robbery and the curses that guard against it, temple politics and cult rivalries, succession intrigue among hereditary houses, the embalmers' guilds and their secrets, flood failure and famine, banditry among the desert-edge tombs, and the slow, grinding feud between the river traditionalists and the [[lore-garauu|Gar-Au]]'s reformers. Grain, stone, linen and faith are abundant. Coin, foreign news and any appetite for novelty are scarce.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], but much of the valley's economy runs on grain-render and temple account rather than weighed metal. The [[affiliation-garhalzi|Gar-Hálzi]] treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. A tenant pays his share in sacks, and the scribe who receives it enters the sacks.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the empire

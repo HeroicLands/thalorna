@@ -14,7 +14,7 @@ In that account, one of the kin was killed instead of banished. [[lore-hrimthurs
 
 Where the kin came from is another matter, and [[lore-aldarhringur|Aldarhringur]] gives both accounts. Odholm's rune-hall holds that they are the part of the old age's remnant that would not take a new shape. The adherents of the [[affiliation-hrimthur|Faith of Hrimthur]] hold that they are the old age's own folk, older than the Ten, and that the gods are the newcomers. Both are taught openly.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aldarhringur|Aldarhringur]]
 : the two accounts of where the giant-kin came from

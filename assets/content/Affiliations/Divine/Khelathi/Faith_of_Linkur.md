@@ -60,7 +60,7 @@ The pairing gives the two cults their shape. In their teaching, one god watches 
 
 The cult keeps the same temple ladder as every other selat god's.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-linkurdty|Linkur]]
 : the god

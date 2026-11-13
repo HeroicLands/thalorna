@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Genzet'Yalgu**, the **Court of the Nine Moons**, does its business out of the [[lore-garauu|Gar-Au]]'s hearing on purpose. It is a body of the imperial court whose members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike.
 
@@ -54,7 +54,7 @@ Its members trade in influence, information and favor, and nothing else changes 
 
 A newcomer who wants to know whether the court has taken an interest should watch for a favor that arrives before it was asked for. A favor that arrives unasked is worth asking about.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The capital where it sits

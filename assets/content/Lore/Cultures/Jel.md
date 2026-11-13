@@ -29,7 +29,7 @@ Why the dead ride is disputed three ways. The hovs teach that the riders are the
 
 A seeker may keep the howe-wake on the ninth night, sitting awake on a burial mound or at a crossroads, with a velva's customary leave. A private answer from the dead must still be supported by living evidence before anyone acts on it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-midsumar|Midsomar]], [[lore-sumarmal|Somarmál]] and [[lore-veturnetur|Veturnetur]]
 : the other three great blets

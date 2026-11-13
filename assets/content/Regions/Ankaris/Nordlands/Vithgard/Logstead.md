@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [vithgard], government: kngdmvthgrd, packFolder: vithgard}
 ---
 
-## Overview
+## Overview {#overview}
 
 Swear nothing lightly at Logstead. An oath made here is made before the hov of [[lore-eidgardty|Eidgar]], and the north holds the breaking of such an oath the gravest offense its faith knows. That is why the two brothers who had fought seven summers for [[affiliation-kngdmvthgrd|Vithgard]]'s crown were brought here in 701 to swear their truce ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]). The kingdom holds its own ting at this law-stead, and the hov of Eidgar swears its blet into the same oath the assembly swears over it. Ask anyone on the road in why the place matters and you get the same answer in fewer words: the offering and the law are bound together at one hearth here, and nowhere else in the north binds them so tightly.
 
@@ -35,7 +35,7 @@ Keeps
 Offices
 : the Hofgudi of Logstead; the Council of Hands; the Voice of Logstead.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vithgard|Vithgard]]
 : the land around the stead

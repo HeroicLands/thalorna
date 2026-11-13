@@ -40,17 +40,17 @@ Their herds are horses and sheep, and the tribes test the March's herds and unes
 
 The tribes of the margin sell passage at the edge of the March and carry the Velanthian frontier trade. In the [[place-hekardesert|Desert of Hek'ar]] the Blazing Oath of the Black Flame keeps a camp at the tower of the [[place-ruinsarkor|Ruins of Arkor]] and fights rival factions of its own faith, and the tribes sell passage to every faction at once. At [[place-roqid|Oroqid]] the tribe that holds the cistern awaits a Vilérian official who wants a standard from the strongroom, and word has reached the margin of a dovaq gathering the northern tribes.
 
-## Dangers
+## Dangers {#dangers}
 
 Raiders test unescorted strings; a string with a rider of the right tribe is rarely touched, and a string with none is lawful prey. Dust storms blow up in midsummer and last three days. In Hek'ar, knights of [[affiliation-blackflame|the Black Flame]] hunt the [[miscgear-velokeye|Eye of Velok]] among the [[place-ruinsarkor|Ruins of Arkor]] and fight one another over how. A fort from the days of the [[affiliation-vylarinmpr|Vilérian Empire]], [[place-roqid|Oroqid]] ("the camp"), stands on a low ridge near the road with its cistern still filling, and the tribe that waters there charges for the water and for its silence.
 
-## Hooks
+## Hooks {#hooks}
 
 - The Black Flame faction in Hek'ar has run out of coin and offers a caravan master double rates to carry a sealed chest east, and will not say what is in it.
 - A Volketor tribe claims to know the way into the strongroom at Oroqid where the Vilérian legion standards lie, and an envoy of the Empire has come asking to buy the way without saying why it matters.
 - A rider who joined a caravan at the March's edge has been stealing its tokens one at a time, and the master must decide whether to say so at the first hand-off well, [[place-yemokwell|Yemok]], where the rider's own tribe will hear.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region

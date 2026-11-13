@@ -32,7 +32,7 @@ The upkeep comes out of the temple share of the gold, one-half of everything the
 
 What it buys Suvargeri is reputation, which the janpoda is careful never to say out loud. Twenty-three houses on the great roads keep a small, rich, awkwardly placed temple-republic in good standing with every priesthood in Vedyara.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bharavarivr|The Bharava]]—the pilgrim road's river
 - [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]—the endowment behind the network

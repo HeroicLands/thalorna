@@ -27,7 +27,7 @@ Tellers connect the door-seat to [[lore-threewinters|the Three Winters]], the fa
 
 Veturnetur is one of two seasons when a seeker may sit awake on a burial mound or at a crossroads to hear the dead; the other is the ninth night of [[lore-jol|Jel]]. A velva's leave is customary and seldom given, because the dead may demand a truthful answer to a question of their own. What the dead tell a seeker in the dark is no skald's witnessed record, and anyone who acts on it must first find living evidence. A wake worked against a named person can be judged a grave wrong at the ting, which then withdraws its peace from the seeker.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nordheimnclt|Nordheimn]]
 : the door-seat, the three winters and the dead near home

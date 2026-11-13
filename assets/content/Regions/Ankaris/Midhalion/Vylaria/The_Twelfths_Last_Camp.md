@@ -13,7 +13,7 @@ data:
   packFolder: vylaria
 ---
 
-## Overview
+## Overview {#overview}
 
 A patrol sergeant, reporting to a Mokturan officer over a table in a border post, put the matter plainly. "We cleared it in the autumn. Eleven of them, in the barracks, in the old order of the watch, and they did not run. The captain says that is the end of it. I would not sleep there."
 
@@ -46,7 +46,7 @@ The ground is held and nobody has decided what to do with it. A border patrol ho
 - A salvager's cart returns from the fort with a gilt fragment that may be part of an eagle, and three different parties offer to buy it.
 - The patrol that cleared the fort is ordered to say it found nothing, and the sergeant who reported it wants someone to know he did not.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-twelfthloss|The Loss of the Twelfth]]
 : the campaign that ended here

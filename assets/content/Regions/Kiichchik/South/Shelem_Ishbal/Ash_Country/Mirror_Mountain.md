@@ -8,7 +8,7 @@ tags: [site, waste, obsidian]
 data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 Mirror Mountain, Ha'kin Ts'ultel, is a low hill in [[place-ashcountry|the Ash Country]] covered in standing slabs of obsidian and mica, each taller than a pyramid's tier and polished on both faces like a mirror. They stand close together in no order, leaning a little, so that the ways between them twist and close, and from a distance the hill flashes in the sun like water. It lies a week south of [[place-ashstair|the Ash Stair]], and for a warrior of the southern cities it is the third and greatest of the oaths most men will swear.
 
@@ -22,7 +22,7 @@ The choosing is the whole of it. A warrior who has chosen walks out on the far s
 
 A traveler who cannot choose does not come out. Parties wait at the foot of the hill for a companion for days, and hear him moving among the slabs and calling, and do not go in after him, because a man who goes in to fetch someone faces his own deaths too. The returners' accounts at the gate speak of voices on the hill that answer to the names of men who went in seasons ago.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ashcountry|The Ash Country]]
 : the country around it

@@ -16,7 +16,7 @@ data:
   culture: okharinclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Okharis Region is the southern margin of the
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the country held by
@@ -59,7 +59,7 @@ grazing rights, and a Khelathi attempt centuries ago to bring the eastern
 temple-cities into a tributary relationship collapsed within a generation
 ([[lore-templetrib|the Tribute of the Temple-Cities]]).
 
-## See Also
+## See Also {#see-also}
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]
 : the parent region

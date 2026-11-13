@@ -17,7 +17,7 @@ data:
 
 In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothills with water, and its Samonta gives it free. The party must find out what the water costs, who has been paying, and whether the fort can be saved from its own well.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A road-keeper of [[affiliation-adanshreni|the Adanshreni]] pays well for the Samonta's ledgers. The shrena has never been able to stop a wagon near the fort, and the Margapala who licenses that stretch wants to know why before his charter is renewed.
 - **The mercenary or soldier.** A caravan-master is short two guards for the dry stretch past the fort, and says it quietly: _drink only from your own skins._
@@ -133,7 +133,7 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 
 **If bypassed.** The Well-Mother lets the sleepers go herself, a few at a time, over the next season, and the fort fills with strangers who do not know the year.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **The bargain broken.** The seam fails. Three wells in the foothills go dry in the next drought, and the march road's herders move south. The Maharava's council quarrels.
 - **A new oath.** Madukupa keeps its water. The Samonta sleeps for the first time in a year, and his heir is told the truth.
@@ -141,7 +141,7 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 - **The sleepers freed.** The herder village below fills with returned dead who are not dead. The temple at [[place-ashvapada|Ashvapada]] has to rule on whether they are the same people.
 - **The ledger in the shrena's hands.** The Margapala renews the charter on the stretch of road and says nothing.
 
-## See Also
+## See Also {#see-also}
 
 [[place-madukupa|Madukupa]]
 : the fort and what the caravans say of it

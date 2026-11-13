@@ -14,11 +14,11 @@ data:
   banner: khelathubnr
 ---
 
-## Overview
+## Overview {#overview}
 
 Lut-Legiru is a small, prosperous farm-and-press village of [[place-gaulegirunome|Gau-Legiru]]. It lives by the press as much as by the field, and its wine is counted in the share that leaves the selat by water each season. The village answers for more of the selat's wine than its size would suggest, and its growers guard that reputation as closely as their fields.
 
-## See Also
+## See Also {#see-also}
 
 [[place-gaulegirunome|Gau-Legiru]]
 : The selat country that holds it

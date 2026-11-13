@@ -14,11 +14,11 @@ data:
   banner: khelathubnr
 ---
 
-## Overview
+## Overview {#overview}
 
 Yath-Khelunu lies within easy reach of [[place-khelunu|Khelunu]], on the farmland of [[place-garrethsaarnome|Gar-Reth'Sa'ar]]. Families who arrive with pupils bound for the great temple-schools lodge here, and the village draws most of its trade from that traffic. A house with a spare room is a house with an income, whether or not its own fields do well that year.
 
-## See Also
+## See Also {#see-also}
 
 [[place-garrethsaarnome|Gar-Reth'Sa'ar]]
 : the selat country that holds it

@@ -15,13 +15,13 @@ data:
   government: hlykngdmnrtm
 ---
 
-## Overview
+## Overview {#overview}
 
 Nartun Kingdom is a country of forest owned by temples. It is the land of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], about two and a half million people in the forested uplands of the north-east of the [[place-vylariargn|Viléria Region]]: an independent Vilari-speaking realm that [[place-orzara|Orzara]] does not govern, ruled from the holy city of [[place-nartum|Nartun]]. An outsider knows it for its charcoal and carved wood, which go down into the empire by the wagonload, and for its priests, who come down the same road to preach.
 
 A _kurthos_'s freedman secretary in Orzara, asked what [[affiliation-seldan|Seldan]] (the Senate) makes of the kingdom, gives the official answer and the practical one in the same breath: "The Senate calls it a wayward province that will come back. Nartun calls the Senate a corrupted institution that has strayed. Both say it politely, in the same language. Meanwhile every smith in Hilen burns Nartun's charcoal." Nartun's people speak an archaic dialect of [[skill-vylarilng|Vilari]], its aristocracy holds its authority through religious office, and its king is anointed by the high priesthood. The kingdom keeps no Vilérian magistrate and takes no direction from the [[affiliation-vylarinmpr|Vilérian Empire]], which it left about 224 AF ([[lore-nartumrefuse|Nartun Refuses the Empire]]).
 
-## The Land
+## The Land {#the-land}
 
 The kingdom lies north-east of the empire's provinces. To the south the wheat country of [[place-hylen|Hilen]] rises into wooded hills, and the border runs along a stream below the Hilen march-town of [[place-ashenmere|Ashenmere]], where the imperial road crosses into the kingdom by a bridge of three arches. To the west the mountains of [[place-moktur|Moktur]] stand above the treetops. To the north the forest thins, over many days' travel, into the forest-steppe of [[place-velanthrgn|Velanthia]].
 
@@ -51,7 +51,7 @@ The forest feeds the kingdom by way of the empire. Charcoal is the greatest trad
 
 The forest is dying, and the kingdom quarrels over why. The temples order penance where the Withering appears and raise the village's dues for the year. The lay barons, [[being-ardmsvlthmn|Ardemos Velthamen]] loudest, blame the priors who sell whole valleys to the contract crews, and the priors, [[being-mlknssrvths|Melkanas Sarvothis]] first among them, go on selling. The [[affiliation-blackflame|Black Flame]] calls the Withering a sign against the Order, and the woodsmen fear something older. Dead stands burn as well as live ones, so the price of charcoal at Ashenmere has fallen, and the old burners who cut only chosen timber are losing their buyers to young crews. In the holy city the high priesthood moves to judge the king ([[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]).
 
-## Settlements
+## Settlements {#settlements}
 
 The holy city of Nartun is the kingdom's one city. Its other people live in temple villages, lumber settlements and woodcrafters' villages of a few hundred each, in the halls and hamlets of the barons, and in market villages where the forest roads cross.
 
@@ -69,7 +69,7 @@ The holy city of Nartun is the kingdom's one city. Its other people live in temp
 - **The penance.** A prior has ordered a village's dues raised for the Withering in its stand, and its headman wants a party to show the prior that the stand was cut by his own contract crew the winter before.
 - **The cheap char.** The old burners of [[place-kalderenna|Kalderenna]] want proof that the dead-wood charcoal their rivals sell is worse than theirs.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
 : the kingdom that holds this land

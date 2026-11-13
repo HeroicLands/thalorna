@@ -8,7 +8,7 @@ tags: [feature, waste, forest, fungus]
 data: {demonym: null, lore: [], parents: [sickforest], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Green Moonlight, Ts'uqal Ha'nak, is a chain of valleys deep in [[place-sickforest|the Sick Forest]] whose floors are carpeted from wall to wall with luminous fungi. By day the carpet is a pale, soft gray. At dusk it begins to glow, and by full dark each valley is lit from below with a cold green light, bright enough to read a cord by, while the forest on the ridges above stands black. The returners who have seen it call it the most beautiful thing in the waste.
 
@@ -18,7 +18,7 @@ The valleys are quiet. The great fungi of the forest do not grow on their floors
 
 The floors are full of sleepers. They lie on the glowing carpet singly and in groups, travelers with their packs beside them, and the fungus has grown over them so evenly that they glow too. Some have lain there long enough to be only a shape under the light. The returners' rule is to cross the valleys by day, when the carpet does not glow, and to be on the ridge by dusk.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sickforest|The Sick Forest]]
 : the forest around the valleys

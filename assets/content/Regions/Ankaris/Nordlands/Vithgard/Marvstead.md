@@ -14,7 +14,7 @@ data:
   government: kngdmvthgrd
 ---
 
-## Overview
+## Overview {#overview}
 
 A length of walrus tusk held to the lamp at Marvstead shows where the grain runs for a comb, where it wants a hilt, and which end is only good for trade-weight beads. Five hundred people here turn walrus tusk, narwhal horn and reindeer antler into the carved goods that carry [[place-vithgard|Vithgard]]'s name as far south as [[place-midhalnrgn|Midhalión]]. A carver reads the grain the way a shipwright reads a plank, and the settlement's reputation rests on knowing which piece of ivory wants which use.
 
@@ -22,7 +22,7 @@ The name is the grain inside worked antler. The town is one of the larger Vithga
 
 Marvstead's quarrel with its own hersvald runs on supply and not on law. Ivory is only as good as what the hunters bring in, and a thin season at the ice edge means carvers with empty workbenches and a hersvald still expecting the same dues he collected the year before.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : the kingdom this craft serves

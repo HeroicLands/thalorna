@@ -25,7 +25,7 @@ The glacier-mouth itself is a cave some sixty feet across, blue inside, that mov
 
 The rite is simple to the point of bareness: a pilgrim goes to the water, says nothing, and comes away. Every elaboration attempted here in four hundred years has been abandoned within a generation, which the priests regard as the mountain's own editing.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-mahanodi|The Mahanodi]] · [[place-sthrnwall|the Southern Wall]]
 - [[place-chandrprbh|Chandraprabhava]] · [[place-sarvaprbhv|Sarvaprabhava]] · [[place-bhrvprbhav|Bharavaprabhava]]

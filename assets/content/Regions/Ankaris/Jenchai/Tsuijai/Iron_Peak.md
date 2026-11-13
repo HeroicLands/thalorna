@@ -21,7 +21,7 @@ The mines open on the middle slopes, and the ore road of [Jidu]{.name data-type=
 
 The summit shrine keeps the earth and metal aspects of [[affiliation-tengwouronglei|the Celestial Order]], and the domain's Tanchei hold the mountain record there. Tsuijai's roll is closed beside it at the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_), when the harvest is in.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tsuijaidmn|Tsuijai Domain]]
 : the house and its lord

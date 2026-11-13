@@ -73,7 +73,7 @@ The major temple festivals honoring Ahurdaen occur at the solstices and equinoxe
 
 Private worship of Ahurdaen is characterized by stillness and contemplation. Devotees often fast before important decisions, seeking clarity from the god about what Ozhmar demands. Many maintain small prayer-shrines in their homes where they sit in silence at dawn, watching the fire and meditating on the order of the cosmos. Merchant caravans departing on long journeys will often spend the night before departure at a fire-temple, spending hours in prayer to Ahurdaen for safe passage and successful trade. Notably, prayer to Ahurdaen is seldom a petition for specific blessings—the theology teaches that the supreme god has already ordered all things for the best. Instead, prayers are requests for understanding, for wisdom to perceive what Ozhmar demands, for strength to live in accordance with it.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Ahurdaen forms the backbone of the entire Ashaian religious structure. The Shekhul of the [Great Fire-Temple of Amradad]{.name data-type="place/structure"}, dedicated to Ahurdaen, holds a position of extraordinary influence—not merely spiritual but political and economic. The current Shekhul, [Aravdán the Stargazer]{.name data-type="being/npc"}, is said to wield as much power as the Shebarader's vashkader, and in matters of state religion and cosmic portent, more. The Great Fire-Temple maintains the most ancient and elaborate astronomical observatories in all [[place-ankrscntnnt|Ankaris]]; the Shekhul and his learned Delkoshekhs map the movements of planets and stars, observing them for signs of cosmic order or disorder, for omens that guide state policy.
 

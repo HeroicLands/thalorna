@@ -15,7 +15,7 @@ data:
   government: selatizetge
 ---
 
-## Overview
+## Overview {#overview}
 
 Izet-Ge is the land of [[affiliation-selatizetge|the Selat of Izet-Ge]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. Its date-palm plantations and the sweet delta wines are what the empire knows it for.
 
@@ -25,7 +25,7 @@ Izet-Ge is the land of [[affiliation-selatizetge|the Selat of Izet-Ge]], one of 
 
 Away from the palms, the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-thubai|Thuba'i]] and its estates hold much of the palm country.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-izet|Izet]] (~45,000)
 : the selat capital and the seat of the Halzi'a.
@@ -33,7 +33,7 @@ Away from the palms, the villages and temple estates grow grain on the usual ter
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatizetge|The Selat of Izet-Ge]]
 : The selat that holds this land

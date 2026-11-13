@@ -14,7 +14,7 @@ data: {packFolder: regkhcult, culture: khelathiclt}
 
 What the empire does beyond its own borders it does in Shelu. The season closes the twelve months, and five days that belong to no month follow it before [[lore-azletssn|Azlet]] and the flood begin the year again.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]
 : The people and their ways

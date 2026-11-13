@@ -32,7 +32,7 @@ Beyond those three, every faith claims an heir of its own and no two tellings ag
 
 The heirs give the north its idea of what a death is for. A man's heir drinks the grave-ale before taking the high seat, and the Tvelgaett are the same custom told at the size of the world: the Ten fall, their heirs inherit, and nothing of the old age crosses except what it left in the hands of the next. The hovs read the lesson as a duty rather than a promise. A god who dies at Aldarlok leaves an heir; a person who dies in this age leaves an oath kept or broken, a craft taught or lost, and a name the skalds will or will not say.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aldarlok|Aldarlok]]
 : the close of this age, and the fire the heirs come through

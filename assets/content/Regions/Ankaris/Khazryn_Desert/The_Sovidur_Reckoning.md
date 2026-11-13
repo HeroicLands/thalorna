@@ -77,7 +77,7 @@ The Silent Market
 Before the Lantern Union
 : add 190 for the year BF. 1 BLU is 191 BF.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-commoncal|The Vilérian Calendar]]
 : the count the steppe's dates are carried to

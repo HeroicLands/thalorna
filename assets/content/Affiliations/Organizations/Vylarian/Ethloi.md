@@ -80,7 +80,7 @@ The rivalry with the Irons is hot. The Golds won the last great race, at the fea
 - **The remounts.** A Gold patron's new team was bought from a legion breeder's yard, and a cavalry prefect says the horses were meant for his wing. He wants a party to prove it before the next race.
 - **The box.** A patron of the Golds has died, and two houses claim his seat on the board and his box above the finishing line.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zargoi|Zargoi]]
 : the Irons, the Golds' rivals

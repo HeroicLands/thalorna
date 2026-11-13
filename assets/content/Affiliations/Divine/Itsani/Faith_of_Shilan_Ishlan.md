@@ -96,7 +96,7 @@ During the trading season, great traveling festivals bring merchants from dozens
 
 Blood is given lightly and often—a thumb at a shrine, a few drops at a crossroads—and the branch is easy about it, holding that a traveler gives his god the miles.
 
-## Organization
+## Organization {#organization}
 
 The priesthood is unique in being partially distributed and mobile. Road shrines dot the white roads, each maintaining a resident priest who records travelers, provides refreshment, monitors the road for damage, and is a living node in the information network. A **Road Shrine Keeper** may go a season without seeing another priest of his own branch, and the office is given to men of settled temperament; conversely, the runners and caravan chaplains are almost never in one place, and the branch's internal life is conducted largely by message.
 

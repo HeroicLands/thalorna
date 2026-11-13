@@ -30,7 +30,7 @@ Rajepur keeps four scriptoria, three of them the temple's, and the manuscript tr
 
 There is no garrison and no armory. The janpoda has kept no soldiers since the dissolution, and the town watch is twelve men who lock the granary at night.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-rajeprjnpd|Rajepur Janpoda]]
 : the temple-republic seated here

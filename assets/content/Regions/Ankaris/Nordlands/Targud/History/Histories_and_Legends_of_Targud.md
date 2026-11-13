@@ -61,7 +61,7 @@ hear a warning about the next war. These are readings of the tale, not a prophec
 king or a rule every blade obeys. The binding at Tvalgard matters because people who live under the
 frontier's pressure must decide what it would mean to find the knots cut.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kingdmtrgd|Kingdom of Targud]] · [[place-targud|Targud]]
 - [[place-grkrhlmrgn|Grukarholm]] · [[lore-aldarlok|Aldarlok]]

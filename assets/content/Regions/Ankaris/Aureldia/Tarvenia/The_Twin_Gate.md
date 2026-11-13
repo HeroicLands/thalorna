@@ -38,7 +38,7 @@ The Ólvestran chapter of the Sealed Word lost its Marendos seven years ago, thr
 - **The refusal at the gate.** A baron of the hills rides up to the Twin Gate with his retinue, and the gate is formally closed to him. The Twinblade on station refuses him, and the baron's men contest the refusal by combat at the threshold.
 - **The cadre.** The ceremonial cadre sets out from the mother-house for a coronation, and an agent of a rival claimant has offered its commander a sum to allow one protocol violation in the ceremony ([[affiliation-twinbldrdr|the Twinblade Order]]).
 
-## See Also
+## See Also {#see-also}
 
 [[place-olvestria|Ólvestra]]
 : the city behind the gate

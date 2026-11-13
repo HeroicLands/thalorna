@@ -25,7 +25,7 @@ data:
 
 The Nordlands Region is the frozen north of the [[place-ankrscntnnt|Ankaris Continent]]: jagged mountains, deep fjords, boreal forest and glacier-fed rivers, and the homeland of the [[lore-nordheimnclt|Nordmen]]. Five kinship-kingdoms share one tongue, one pantheon and one seafaring life, and the Nordlands are among the most cohesive regions on the continent; no imperial authority has ever ruled here. An outsider remembers them for their longships, which carry the north's trade south in one season and its raiders in the next.
 
-## The Land
+## The Land {#the-land}
 
 The Nordlands occupy northwestern Ankaris, with [[place-aureldirgn|Aureldia]] to the southwest, [[place-vrystwald|Vristwald]] and [[place-velanthrgn|Velanthia]] to the south and east, and the open northern ocean off every coast. The coast decides everything else. Glaciers carved it into granite and basalt as a saw-toothed line of thousands of natural harbors, and the fjords run so far inland that each one is a sheltered road for a fleet. A ship goes where a cart cannot, and every settlement of any size stands where a keel can reach it.
 
@@ -105,7 +105,7 @@ The two great crowns fought each other for two generations and settled it under 
 
 Three fields of the dead lie in the north, Domsei, Skalfvatan and [[place-dvulgvangur|Dvulgvangur]], and a fourth that northern hands made in [[place-provenzrgn|Provénzia]]; [[lore-bloodfield|Blood-fields]] says what a _vrellvoll_ is and what the halls do about one. The sixty-third sitting is due at the next Somarmál, with Malagna's crown unsettled, Vithgard's truce waiting on a funeral and the sea going wrong, and every kingdom's history, from [[lore-nrdhmhstry|Nordheim]]'s to [[lore-vthgdhstry|Vithgard]]'s, ends on a question the sitting will have to hear.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : the five Nordmal kingdoms

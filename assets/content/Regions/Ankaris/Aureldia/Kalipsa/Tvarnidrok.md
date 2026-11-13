@@ -85,7 +85,7 @@ Two black ships on a gray field, keel to keel, for the two things the house coun
 
 - **The rule unwritten.** Knilthorv Tvarnidrok wants a master arbitrator to recite a verdict that supports the census rule, and needs someone to find one who remembers such a verdict.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-captnscncl|Captains' Council]]
 : the council where the house sits

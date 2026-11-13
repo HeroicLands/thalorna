@@ -49,7 +49,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Lut-Reth'Sa'ar is the temple of [[lore-rethsaardty|Reth'Sa'ar]], god of knowledge and of the written hand, and the physical seat of the archives, the observatory and the scribal schools that feed them. Its priests catalog what the empire knows, track the stars for the calendar the whole administration runs on, and train the scribes who staff it. A scholar seeking a lost record starts here before anywhere else, because what the temple has not cataloged is, for most purposes, lost for good.
 
@@ -82,7 +82,7 @@ The temple's holdings are its records, and what it sells is the work of keeping 
 
 The temple is paid in the god's own coin. Visitors leave fine papyrus, inks made from rare minerals, and copies of important texts; a scholar of means commissions a copy and gives it to the shelves. Say a visiting scholar is turned away from the deeper texts: he leaves a commissioned copy of a treatise, as courtesy and as hope, and the Keeper of the Archives enters it. The collective that holds the deeper texts is not moved by the gift.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-rethsaardty|Reth'Sa'ar]]
 : The god of knowledge the temple serves

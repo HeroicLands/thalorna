@@ -38,7 +38,7 @@ A court of love has no law behind it. It cannot fine, imprison or annul, and the
 
 The courts that matter sit in the capital during the sittings of the [[affiliation-councilpeers|Council of Peers]], when the great houses are all at [[place-jalnazdal|Jalnasdal]] at once. The most sought this season is the one [[being-itrolaldrvn|Itrola Lédravren]], Princess of Gefavel, keeps in her house there. A princess who lost her standing at court has a court of her own, and the Peers whose voices she needs come to it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-provenzianclt|The Provénzians]]
 : the people whose code it is

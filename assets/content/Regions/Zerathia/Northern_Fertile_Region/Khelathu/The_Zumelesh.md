@@ -32,7 +32,7 @@ Crocodiles bask on the mud banks and hippopotami bellow in the marshes, and both
 
 The doctrine both hold is that wantonness in the killing offends the gods as much as it offends the guild, and that a hunt is a religious act performed at need. What neither will discuss with an outsider is what happens when the beasts are thriving, the priesthood is asking questions about the cull, and the charter-holder's tenure depends on the answer.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-aukhelathrgq|Au'Khelathu Region]] · [[affiliation-empireakhlth|Empire of Au'Khelathu]] · [[lore-khelathiclt|Khelathi culture]]
 - [[lore-igelnarudty|Igelnaru]] · [[affiliation-zeghetnelgu|Zeghet'Nelgu]] · [[affiliation-garnul|Gar'Nul]]

@@ -14,7 +14,7 @@ data:
   packFolder: khazryndesert
 ---
 
-## Overview
+## Overview {#overview}
 
 **Ushtra-ber** is the seventh of the seven Tellumi cities, the last founded, at the far eastern end of [[place-swoasisbelt|Tellumel]], where the belt narrows against the foot of [[place-estrnreach|the Eastern Reach]]. About twenty thousand people live in the city, and perhaps seventy thousand more in the terraced villages of its valley. It is the farthest of the seven from [[place-wstrndscnt|the Western Descent]] where the Tellumi first came down, and the farthest from the heartland of the [[affiliation-tribestrzd|Tribes of Atarzád]] round the [[place-oasishirvn|Oasis of Shirvan]], which is why it is still free.
 
@@ -45,7 +45,7 @@ Ushtra-ber is left alone and means to stay so. The Tozhirod have never pressed i
 - **The pass-guide.** A caravan master heading east needs a guide who can read the wells of the stone desert, and the best one in the city has a feud with a family in the Hvarn villages. A party could settle it or be caught in it.
 - **The winter.** Snow closes the valley road from late autumn to the thaw. A party that arrives late stays until spring, in a city that rations its fuel by household.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the council of the seven houses

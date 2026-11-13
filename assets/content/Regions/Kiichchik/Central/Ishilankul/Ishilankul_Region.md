@@ -17,7 +17,7 @@ data:
 # terran_analog: Central Mexico; Ish'ilankul (ish'ilan star + -kul seat, "Seat of the Stars") is kept clear of the Maya site Balamkú and of the near-identical form Balamkul
 ---
 
-## Overview
+## Overview {#overview}
 
 Ish'ilankul Region is the land of [[affiliation-ixilankul|Ish'ilankul]], and lies within [[place-centralkiichchik|Central Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
@@ -51,13 +51,13 @@ The most prestigious trade good, however, is neither practical nor abundant: the
 
 The plateau quarrels over what a war is for. Its cities fight the captive-hunt, the _ch'utik'at_, and [[affiliation-takingsocs|The Taking Societies]] of Ishtal'hun hold that a captive taken alive is the only victory there is. [[affiliation-tsumulob|The Blood-Workers]] train on the same field below Ishtal'hun and take the cleanest takers of the societies into the priesthood, and the societies' Elders call it the priesthood harvesting their field. The captains who come home from the frontiers, where the peoples beyond fight to kill, have learned to kill back, and their men come home with no captives at all. The societies will not admit any of them until he has taken a captive in a hunt. Each side holds that the others are wasting the plateau's warriors: the priests by taking the best of them, the societies by refusing the hardened, and the captains by spilling on the ground the blood the altars need.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A captive for each man.** A captain back from the frontier wants his men admitted to the Taking Societies, and the Elders have told him to his face that none of them is a taker. He hires a party to train his men in the taking of men alive before the war month, and to stand with them in their first hunt, where a man who kills instead of binding is cut from the societies for good.
 - **The taker who would be a priest.** [[being-penqalneok|P'enqal Ne'ok]], the societies' most-traveled Marshal of the treaty-hunts, has learned that the Master of Ishtal'hun means to test the best young taker of the season for the Blood-Workers. He asks a party to persuade the young man's house to keep him in the societies, and the Master asks the same party to bring the boy to the test.
 - **The ransom.** A trading house of Tsa'mash had a son taken in a treaty-hunt and wants him back before the Dedicator of Captives assigns him to a rite, after which no ransom is heard. It asks a party to find the taker and agree a price, and the taker needs this captive for his fourth knot and names a price the house cannot pay.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixilankul|Ish'ilankul]]
 : The realm that holds this land

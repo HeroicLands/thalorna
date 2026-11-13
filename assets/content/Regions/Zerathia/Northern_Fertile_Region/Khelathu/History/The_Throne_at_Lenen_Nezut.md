@@ -64,7 +64,7 @@ The house did not leave its dead to the capital. The three Gar-Auu were buried a
 
 The line ended in the field. In 1531 ST (580 BF) Zab'el'Psaqa III was killed at [[place-iqeru|Iqeru]] in a war with the house that ruled the delta, and the upriver throne did not outlast him ([[lore-twothrones|the War of the Two Thrones]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **A capital-sized town.** Lenen-Nezut holds a temple forecourt, a scribal bureau and a set of granaries far larger than a selat seat needs.
 - **The Halzi'a's house.** The house of Geze'el'Anlaghu was kept as the Halzi'a of Lenen-Nezut after its Gar-Auu fell, and its descendants hold the selat now. A claim of royal descent sits awkwardly beside the question of the next succession.
@@ -72,7 +72,7 @@ The line ended in the field. In 1531 ST (580 BF) Zab'el'Psaqa III was killed at 
 - **A precedent.** The upper river crowned a Gar-Au in its own city once, and the priesthood has not forgotten that it can.
 - **The pride.** The town "remembers" its throne because the house that rules it does.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-twothrones|The War of the Two Thrones]]—how the line ended
 - [[place-lnzways|The Lenen-Nezut Ways]]—where the three are buried

@@ -83,7 +83,7 @@ In a later spring Dhargan asked about the fog that had kept his son. Hauletta to
 
 Each spring thereafter he came to the wood's edge and sat, and Hauletta went out to him and they spoke of sheep at first and then of more. He brought Nela there when she was grown and made her sing the whole of the lore back to him. She had it, and it was her own. It was his last climb. Hauletta knelt by him the next year when he could not sit up, and he asked her to come down with him to where he was from, and she said yes. He died before the dawn, and the people buried him under stone. A birch came up through it. It is old now and silver and tall, and no one has cut it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Long Stair's rules,** taught to every child in order, and the offering made at the lowest pool.
 - **The [[affiliation-alndnwrdns|Wardens]].** The watch on the fog-hollow is the first thing the order keeps, and its charge grew from the hollow to the passes and the groves ([[affiliation-alndnwrdns|The Áelendan Wardens]]).
@@ -91,7 +91,7 @@ Each spring thereafter he came to the wood's edge and sat, and Hauletta went out
 - **The rule that a pact is asked for.** The [[lore-aelendnppl|Áelendan]] hold that the land is not taken and not earned, and that a people may sit at its edge and ask.
 - **Dhargan's cairn and its birch.** The tree is old and silver, the Senali visit it as they visit no other human place, and no one knows where under the stone he lies.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-theasking|The Asking]]—the lay that tells the pact
 - [[place-longstair|The Long Stair]] · [[lore-salendaspr|Sálenda of the Long Stair]]

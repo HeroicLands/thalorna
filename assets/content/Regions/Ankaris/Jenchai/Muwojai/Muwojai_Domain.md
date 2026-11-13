@@ -81,7 +81,7 @@ The [Weiju]{.name data-type="affiliation/lineage"} keep the treasury of the cour
 
 The muster is 750 men, and none of them sails. Most of them garrison the roads and the passes into the Emperor's district, where the lord's duty to the throne is performed in person.
 
-## Relations
+## Relations {#relations}
 
 Muwojai and [[affiliation-hojujaidmn|Hojujai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody.
 
@@ -89,7 +89,7 @@ Muwojai and [[affiliation-hojujaidmn|Hojujai]] together form the loyalist bloc, 
 
 Chaiwo is sixty-one and has no grown heir. Whoever succeeds him will hold the gate to the Emperor, and every bloc is courting the candidates in advance: [The Strait]{.name data-type="affiliation"} bloc to learn what passes over the ferry, the loyalists to keep the gate shut, and the independent houses to be admitted without being watched.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses

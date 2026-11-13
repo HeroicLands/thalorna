@@ -99,7 +99,7 @@ A party can carry the receipt to Pazasan, or recover his record and carry it to 
 - **The forged seal.** A Hitusuni seal on a Compact cargo landed in Besikar is a forgery, and Ashuraz wants the forger found before the Compact asks him about it.
 - **The silk.** Ashuraz needs someone to carry his offer of a cargo to the captain of the Tamzir, wherever she lies.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-mrchntryvl|Merchantry of the Veil]]
 : the guild the house is bound to

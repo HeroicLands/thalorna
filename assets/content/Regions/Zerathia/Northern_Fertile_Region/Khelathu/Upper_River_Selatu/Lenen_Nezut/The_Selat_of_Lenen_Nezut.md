@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of [[place-lenennezut|Lenen-Nezut]] rules from a town that once held a throne, and the town remembers it.
 
@@ -67,11 +67,11 @@ The Selat of Lenen-Nezut is one of the eighteen provinces of [[affiliation-upper
 
 The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The Halzi'a's house is [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"}, descended from the Lenen-Nezut Gar-Auu ([[lore-thronelnz|the Throne at Lenen-Nezut]]), and it keeps their tombs, [[place-lnzways|the Lenen-Nezut Ways]], and the claim of royal blood that sits awkwardly beside the question of the next succession. The seat is Lenen-Nezut, where the Halzi'a keeps his court and the chief temple of Uqa'a stands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Lenen-Nezut uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at its chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thronelnz|The Throne at Lenen-Nezut]]
 : the dynasty behind the house

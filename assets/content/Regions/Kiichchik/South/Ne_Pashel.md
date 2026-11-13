@@ -14,7 +14,7 @@ data:
   packFolder: ixbaltzaku
 ---
 
-## Overview
+## Overview {#overview}
 
 Every morning a road priest climbs the pyramid of [[lore-xilanixlandty|Shilan Ish'lan]] and calls the day, and on the wharves below the boatmen listen for one word. On a day the Walker of Paths has opened, the canoes push off. On a day he has closed, nobody launches, and the cargo stays in the warehouses at a fee. Ne' P'ashel, Quetzal Water, is the market town of about 18,000 where three highland rivers meet the great river that runs down through the jungle to the coast, and it is the busiest place in [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] after the port at [[place-tzalamne|Ts'alam Ne']].
 
@@ -40,7 +40,7 @@ Ne' P'ashel is the most mixed town of the south. Highlanders, river people and c
 
 The road priests are the town's busiest clergy. They call the day, bless every canoe that leaves, and keep the shrines on the river trail down to the coast. Travelers on the rivers make offerings to Shilan Ish'lan at the wharf shrine before they push off, and canoe crews who reach Ne' P'ashel on a closed day tie up at the town's edge and wait there for the next opened one.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
 : the realm that holds the town

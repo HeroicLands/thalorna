@@ -250,7 +250,7 @@ The One Fire is the northern nation most tempted to deal privately with the sout
 
 The shell towns hold a second road in their hands. The gulf runs south along the coast toward the southern lands, and some coastal captains claim to have sailed far enough down it to trade with people who had southern goods. Nobody has made the voyage both ways in living memory. The Great Sun's court would like to know whether it can be done, and the Shell Chiefs, who would own the route, have not said. Every other nation of the [[affiliation-redstncmpct|Red Stone Compact]] knows about the temptation and watches for it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire, its ranks and its offices

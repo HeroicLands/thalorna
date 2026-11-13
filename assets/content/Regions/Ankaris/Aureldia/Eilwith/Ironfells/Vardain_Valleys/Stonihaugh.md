@@ -26,6 +26,6 @@ The village keeps the rota, judges the disputes it generates, and regards the an
 the single most important thing that happens in the Vardain year—more important, they will tell you,
 than anything that goes up the mountain.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-vardainvalleys|The Vardain Valleys]]

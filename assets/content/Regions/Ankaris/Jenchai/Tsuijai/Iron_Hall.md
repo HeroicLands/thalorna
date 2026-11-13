@@ -21,7 +21,7 @@ The castle holds the **granary**, where the lord's four parts in ten are deliver
 
 The town lives on iron. Smelters, charcoal-burners, carters and ore-weighers work along the road from the mines, and the iron is sold at the town's market to the buyers of the other houses; the blades come down from [Tsaigen]{.name data-type="place/settlement"} with an entry in the Jaju roll. Shwonong merchants carry the iron away, and the buyers' envoys lodge in the town through the year, each waiting on the Jaju.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tsuijaidmn|Tsuijai Domain]]
 : the house and its lord

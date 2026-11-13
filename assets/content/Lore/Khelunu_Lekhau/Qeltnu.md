@@ -12,7 +12,7 @@ Watch an embalmer at work and you are watching the _qelt_ kept. **Qelt'nu**, the
 
 The pairing was not invented for the philosophy. The philosophy noticed what the funerary rites had always done: preserve the dead twice over, and hold that losing either is total.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garqeltnu|Gar-Qelt'nu]]
 : the House that holds the domain

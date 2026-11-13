@@ -126,7 +126,7 @@ Day to day, the brothers serve as chapter staff, as an armed presence at remote 
 
 A Born of the Wound bears the order's permanent mark, a tattooed scar-pattern across the chest in the design of the founding cosmogony, given at initiation by ritual cutting. The mark is the inviolable testimony of membership, and falsifying it on someone who has not been initiated is one of the most serious offenses the order recognizes. Outside the hall the brothers wear plain dark clothing without insignia, and senior brothers wear a heavy ring of bog iron on the left forefinger.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The False Mark.** A man bearing the founding mark has been seen in a port town, claiming to be a Child of the Wound. The order has no record of him. The mark is accurate but slightly wrong in a detail no real brother would miss. The Voice from the Wound has sent a senior brother to learn whether the man is an impostor, a heretic, or something the order has not met before.
 - **The Gathering Call.** The Voice from the Wound has called a gathering, the first in twelve years, without disclosing the cause. Brothers are traveling to the rendezvous from across the Nordlands. The crowns are alarmed, the priesthood is silent, and the cause, once revealed, will define the season.

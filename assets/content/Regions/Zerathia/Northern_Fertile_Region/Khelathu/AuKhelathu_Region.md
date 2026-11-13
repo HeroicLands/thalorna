@@ -20,7 +20,7 @@ data:
   culture: khelathiclt
 ---
 
-## Overview
+## Overview {#overview}
 
 Au'Khelathu is a single river and the land it waters: [[place-zumeleshrvr|the Zumelesh]] runs north out of the southern uplands for hundreds of leagues, through desert, to a delta on the [[place-vylarianse|Vilérian Sea]], and nineteen million people live within reach of its water. Everyone in the [[place-nrthrnfrtlrgn|Northern Fertile Region]] knows the country by its flood. Once a year the river rises over the fields and goes down again leaving black silt behind, and that silt is why the [[affiliation-empireakhlth|Empire of Au'Khelathu]] can feed more people on less ground than anywhere else in the known world.
 
@@ -48,7 +48,7 @@ Along the western margins, herding peoples graze the dry country under arrangeme
 
 The region is the heartland of the Empire of Au'Khelathu and is administered through its thirty-nine selatu (provinces), grouped as [[affiliation-deltaselatu|the Delta Selatu]], [[affiliation-upperrivrslt|the Upper River Selatu]], [[affiliation-borderselatu|the Border Selatu]] and [[affiliation-capitalselat|the Capital Selat]] around [[place-galezkara|Galezkara]]. The frontier with Bethua to the west has never been precisely drawn, and the occasional friction along it is the region's most persistent quarrel with a neighbor.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]
 : the parent region

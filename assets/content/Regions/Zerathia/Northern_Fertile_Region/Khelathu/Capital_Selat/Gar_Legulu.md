@@ -15,7 +15,7 @@ data:
   government: capitalselat
 ---
 
-## Overview
+## Overview {#overview}
 
 "We have no lord here," says the estate-steward of **Gar-Legulu**, unrolling a tally-sheet across his knees. "We have a god, and he has a great many fields."
 
@@ -23,7 +23,7 @@ Gar-Legulu is a temple-estate town east of [[place-galezkara|Galezkara]], one of
 
 Its streets hold the estate-stewards and tally-scribes who run the holdings, the brewers, bakers, weavers and craftsmen who supply the temple's daily offerings and its priests' needs, and the lesser shrines and schools that orbit the great sanctuary in the capital. The town is prosperous, orderly and bound wholly to its temple, and it is a small example of the institution that, multiplied across the selat, makes the great temples economic powers to rival the Halzi'a. [[place-zelgeru|The Zelgeru]] names the whole class of such estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]
 : Parent selat

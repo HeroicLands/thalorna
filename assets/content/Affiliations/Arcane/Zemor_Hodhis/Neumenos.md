@@ -99,7 +99,7 @@ The fellowship's internal culture prizes self-mastery above all else. Where Pire
 
 Politically, the Zulen (fellowship) Neumenos is the most isolated of the six fellowships. Its members are too few, too specialized, and too mistrusted to build the broad alliances that other Zulethalar rely on. They compensate with the one resource that is always in demand: knowledge. A Neumenos _marendos_ (master) who has spent decades studying the entities that haunt a particular region, or who understands the spiritual dimensions of a problem that baffles purely material analysis, possesses information that no other school can provide. This makes the fellowship indispensable even to those who would prefer not to rely on it—a dynamic that the Spirit mages have learned to exploit with a quiet pragmatism that their reputation for otherworldly mysticism tends to obscure.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework

@@ -17,7 +17,7 @@ data:
 # terran_analog: an Onondaga or Oneida village of the sixteenth century, set on the upper St. Lawrence rapids
 ---
 
-## Overview
+## Overview {#overview}
 
 First Sugar has moved six times in eleven generations, and it has never moved out of sight of one stand of maples. The village is the chief village of the Rapids People, about 1,800 people behind a palisade on a terrace above the rapids of the [Great River]{.name data-type="place/feature"}, in the [[place-kahsiotargn|Falls Country]]. Its name (_tsinikwen kasiwa_) is the name of the sugar made in that stand in the thaw when the Grove began, and whichever clearing the village moves to, it keeps the name and keeps within a walk of the trees.
 
@@ -39,7 +39,7 @@ The village's rememberer is [[being-ohnakensakwenta|Ohnakensakwenta]], Remembers
 
 The Rapids People are the Grove's second nation, and they are tired of being second. The great council has sat in the Falls People's villages for most of eleven generations, and the Kettle is about to move again. The Dawn People want it moved to the sea, the Falls People want it to stay among their own villages, and the clan mother [[being-osetarahion|Osetarahion]] of First Sugar has offered her village, which stands between the two, beside the First Grove where the Grove began. She has sent sugar from the First Grove to every clan mother of the Falls People with the offer. None has answered, and the Rapids People know that a Falls clan mother who does not answer has not said no.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kahsiotargn|Falls Country]]
 : the heart of the Grove, around the falls and down the river

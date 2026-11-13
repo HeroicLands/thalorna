@@ -14,7 +14,7 @@ The rune-hall holds two readings of the birds, and the newcomer learns the first
 
 [[being-hnirvmylwise|Hnirmil the Wise]] claims to hear Hugvin's whisper in the wind, guiding him toward hidden knowledge and lost lore. The claim is his own.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-munvin|Munvin]]
 : the raven of memory, who flies beside Hugvin

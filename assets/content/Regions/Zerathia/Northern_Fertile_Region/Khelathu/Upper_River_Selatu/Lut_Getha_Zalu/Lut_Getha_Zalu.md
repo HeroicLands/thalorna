@@ -15,7 +15,7 @@ data:
   government: selatltgthzl
 ---
 
-## Overview
+## Overview {#overview}
 
 You smell the smith-towns of Lut-Getha-Zalu before you see them: charcoal smoke lies along the bank for a mile, and on a still evening the hammering carries across the water.
 
@@ -35,7 +35,7 @@ The selat feeds its granaries from the flood like the rest of the valley. Its pa
 - The chief temple of the Faith of Saq'aru and its estates
 - The smith-towns and craft-temples, where bronze and gold become the nobility's ceremonial arms
 
-## Settlements
+## Settlements {#settlements}
 
 Lut-Getha (~36,000)
 : the selat capital and the seat of the Halzi'a.
@@ -43,7 +43,7 @@ Lut-Getha (~36,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]]
 : The selat that holds this land

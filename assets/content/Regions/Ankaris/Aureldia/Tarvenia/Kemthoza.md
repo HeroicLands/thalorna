@@ -39,7 +39,7 @@ Kemthoza is the fort that holds the head of [[place-grumagando|Grumagando]], the
 
 The fort watches the saddle for the snow's going, because the first host over Grumagando sets the terms of the season. On the far side the walls of [[place-durvalis|Durvalis]] hold the road down from the pass, and the Talote's muster gathers there when the snow clears. The dead of the first raid lie on that road unreceived, and every host that goes down from Kemthoza passes them.
 
-## See Also
+## See Also {#see-also}
 
 [[place-westernmrch|Western March]]
 : the March the fort guards

@@ -59,14 +59,14 @@ The Reth'Sa'ar priesthood did not oppose it. The sacred hand was the god's, and 
 
 After the decree a Khelathi scribe learned two things where his predecessors had learned one. The sacred hand was the prestige register: slow, exact, cut into stone, and kept for what lasts. [[skill-qalzscrscrpt|Qalezu]] was the working register: quick, plain, abbreviated, and the hand in which most of the empire's business was written. Every educated Khelathi read the first or the second, and a stranger's schooling was measured by which.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The question at the gate.** "Which hand were you taught?" sorts every foreigner and every clerk.
 - **The counting-house and the tax roll.** Both are written in Qalezu, and the forgers work in it too.
 - **A queen the empire boasts of.** Gith'el'Retha I is one of the rulers the Khelathi cite when they say their queens were their ablest.
 - **A division of literacy.** The temples read the sacred hand and the bureaus read Qalezu, and the schools of [[place-khelunu|Khelunu]] teach both.
 
-## See Also
+## See Also {#see-also}
 
 [[skill-qalzscrscrpt|Qalezu]]
 : the twenty-four-sign alphabet

@@ -79,7 +79,7 @@ A party meets the council standing at the edge of the square on a day it sits, o
 - **The road to Lezkora.** The First of the Council wants a party to ride to Lezkora and send word the day the High King's hearth goes out, before any other house's rider brings it, so that the council can choose its man first.
 - **The struck house.** The Keeper of the Roll has been asked to strike a failing house from the roll, and the house's head offers a party good money to find out which councilor bought its debts.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-frctyvlthr|Free City of Valthari]]
 : the city-state the council governs

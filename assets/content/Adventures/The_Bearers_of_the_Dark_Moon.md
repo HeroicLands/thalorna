@@ -17,13 +17,13 @@ data:
 
 A priest who refused to let a hundred dead go keeps them on a stone platform where they do not rot. The party climbs a tower the vultures will not fall on, to learn what he is keeping the dead from and what he keeps in the walls.
 
-## Overview
+## Overview {#overview}
 
 In the fifth year of [The Breaking]{.name data-type="lore/history"}, when the [[affiliation-tribestrzd|Atarzád]] took [[place-ashkarad|Ashkarad]], the Expositor [Yumelul]{.name data-type="being/npc"} of the Tower of Silence ([[place-talbemsirvel|Tashbemsirvesh]]) on the bench north of the city faced a field of unreceived dead of the [[lore-khazrynclt|Tellumi]] and a spirit realm full of hunters. He did the one thing the rite of [[affiliation-azravan|Azravan]] forbids. He bound the dead to their bodies so the hunters could not take them, and he has kept them bound for ninety years. The binding is the opening [[lore-theshadow|the Shadow]] needs. What he started in grief has become a corruption he cannot stop and will not admit to: the dead walk on the dark of the moon to bring him more, and the Shadow in him has turned his protection into a collection.
 
 Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's water, which the craft councils entrusted to Yumelul in the fifth year of the war, and which the Atarzád tax assessors have never seen.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A craft council of Ashkarad needs a set of deeds back from a tower no priest will enter. The reward is a share in the water of a family shaft, which is worth more than silver. The council says nothing of the dead.
 - **The mercenary or common soldier.** A [Teghumod]{.name data-type="affiliation/polity"} factor needs the road north of Ashkarad made safe by dark of moon, when freshly buried corpses go missing from the caravan camps. He hires men to watch a camp from the rocks and to follow what takes the dead.
@@ -110,13 +110,13 @@ Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's wate
 
 **If bypassed.** A party that leaves the deeds in the walls hears of them within a year, when the Teghumod tear the tower down looking for them.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the names are read.** The Tower of Silence returns to the rite. Delkoshekhs of Azravan go back to the bench. The vultures feed, and the dead of Ashkarad are given to the sky again.
 - **If the deeds are brought out.** The craft councils gain a document the Atarzád cannot refuse. The Teghumod are obliged to deal with them openly or move against them.
 - **If the party fails.** The tower keeps its dead and widens its road. The caravans on the northern track begin to bury their dead at midday, deep.
 
-## See Also
+## See Also {#see-also}
 
 [[place-talbemsirvel|Tashbemsirvesh]]
 : the tower and what lies on it

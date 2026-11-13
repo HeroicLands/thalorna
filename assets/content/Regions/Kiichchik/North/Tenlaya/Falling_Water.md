@@ -17,7 +17,7 @@ data:
 # terran_analog: Celilo Falls on the Columbia, the great fishing and trading place of the Plateau peoples, with its dip-net platforms, its first-salmon rite and its summer trade fair
 ---
 
-## Overview
+## Overview {#overview}
 
 You hear the falls from half a day away, and smell them from a mile: water, wet rock and fish drying on a thousand racks. Hiye Spito, Falling Water, is where the great river of the [[place-potontayuntorgn|Root Fields]] drops over a ledge of black rock into a narrow gorge, and where the western bands of the [[affiliation-tenlaya|Grass People]] gather every summer for the salmon. About 300 people winter in pit lodges along the bank. From early summer to the first frost, when the fish are running, about 3,000 camp here, and in the busiest weeks of the trading half as many again.
 
@@ -43,7 +43,7 @@ This summer the Cedar People's traders have brought a captive with them to sell:
 
 The camp is divided. Some families want to buy her and adopt her, because a child bought out of a Cedar house is a child saved. Others say that a band that pays for a person teaches the Cedar People that the plains will pay, and that next summer the traders will bring ten. Tashusawi has not decided, and the traders are packing to go back over the passes before the snow.
 
-## See Also
+## See Also {#see-also}
 
 [[place-potontayuntorgn|Root Fields]]
 : the dry country beyond the mountains

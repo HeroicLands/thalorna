@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [mountshofar], population: 0, packFolde
 
 The stair from Beit-Shofár ends on a shelf of black stone high on the southern face of [[place-mountshofar|Mount Shofar]], and the Flame stands in the middle of it. It is about the height of a kneeling man, pale yellow at the root and clear at the tip, and it comes straight out of the bare rock: no hearth, no wood, no oil, and no crack in the stone beneath it. It makes no sound. The wind bends it and lets it go. A pilgrim who reaches the top of the stair at dawn sees it before seeing anything else on the shelf, and most kneel there, at the last step, before going any nearer.
 
-## Overview
+## Overview {#overview}
 
 The **Unconsuming Flame** is the first holy site of the [[affiliation-tribestrzd|Atarzád]]. In their teaching it is the flame in which [[lore-atarosdty|Ataros]] revealed himself to the prophet [Yotekhor]{.name data-type="being/npc"} and gave him the [Promise of the Tellumel]{.name data-type="lore"}, burning in the open air on bare stone for three days and nights without fuel and without diminishing, and it still burns. Below it on the slope stands the tomb of Yotekhor, the second holy site, and at the mountain's foot lies the priestly seat of [[place-beitshofar|Beit-Shofár]].
 
@@ -64,7 +64,7 @@ The keepers sit their turns of four as they always have, and the Toqel who reads
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-mountshofar|Mount Shofar]]
 : the mountain it burns on

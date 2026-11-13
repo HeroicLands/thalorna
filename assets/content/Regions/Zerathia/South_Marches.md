@@ -118,7 +118,7 @@ matriarchy's own ways of war and owe it nothing. The [Court of the Veil]{.name d
 the country as its own, collects what tribute it can, patrols the line it can
 hold, and would rather not look past it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xerathia|Zerathia]]
 : the parent continent
@@ -146,3 +146,5 @@ hold, and would rather not look past it.
 
 [[being-argyrirjckl|Argirira the Jackal]]
 : the exile-queen who rules the road
+
+[[place-khuqetzalu|Khuqet-Zalu]]

@@ -98,7 +98,7 @@ The Free Captains are closer to the halls ashore this year than at any time sinc
 The Free Captains mean to be on the water when the halls rise at the [[lore-fleetreview|Fleet Review]], and Nazzuna means to read the rebels' original promise of prize money to the coast that day, from the narrows. Their coves have been receiving crossbows and Vilérian silver out of a [[affiliation-hitusuni|Hitusuni]] warehouse, paid for by an agent of the [[affiliation-vylarinmpr|Vilérian Empire]], and [[being-ashurazhitus|Ashuraz Hitusuni]] has sold three of those deliveries' dates to the Compact. [[being-dlzrtndn|Delzuru Tanaduni]] has offered, through a League captain, to ask the Council to lift the outlawry of any captain who takes Tanaduni service if it grants his toll, and Nazzuna has not answered or told the other captains.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shoalsbrthd|Shoals Brotherhood]]
 : the crews who pilot them through the Shoals

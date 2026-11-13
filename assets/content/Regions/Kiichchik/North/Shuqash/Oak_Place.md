@@ -15,7 +15,7 @@ data:
   packFolder: shuqash
 ---
 
-## Overview
+## Overview {#overview}
 
 A traveler coming down from the pass in autumn hears Tulishwil before seeing it: the beat of stone pestles from a granite outcrop at the edge of town, where thirty women sit at once over the mortar holes worn into the rock and pound acorns. Tulishwil, Oak Place, is the largest town of the [[place-tulishlumuqrgn|Oak Valleys]], about 1,500 people at the mouth of a canyon where a creek leaves the foothills, with oaks all around it and the reed marshes of the valley floor below. It is the first town the coast reaches over the pass, and the one where the [[affiliation-shuqash|Shuqash]] of the coast and of the valleys meet.
 
@@ -35,7 +35,7 @@ An hour's climb up the canyon, under an overhang of sandstone, is [Tishal Hapuq]
 
 On the ridge across the canyon stands the first watch fire that [Kowiqnaq]{.name data-type="being/npc"}, Acorn Seed, built after the [Pointing]{.name data-type="lore/history"}. A boy of the town keeps it ready from spring to autumn.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People of the coast and the valleys

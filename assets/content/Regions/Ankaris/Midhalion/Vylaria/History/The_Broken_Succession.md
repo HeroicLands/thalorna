@@ -79,13 +79,13 @@ Each claimant carried an eagle and held a part of the Empire's revenue, and none
 
 The Guard Camp learned that the gate decides a reign, and every Orzas since has paid the guard in donatives on accession and at intervals after. The Senate learned how to make an Orzas and how little a made one is worth without a legion. The legions learned that the Senate, the guard and the throne could all be walked over by an army that held the right granaries. The war that settled the claims ([[lore-olcassabtl|The Battle of Olkassa]]) was fought over [[place-hylen|Hilen]]'s granaries.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Guard Camp's lesson.** A guard that knows its gates make reigns, and an Orzas who pays accordingly.
 - **The Senate's taste for succession crises.** The habit of acclaiming a candidate of its own whenever a throne falls vacant.
 - **The legions' memory.** Moktur's claim to have put the reigning house on its throne, and the quiet pride that goes with it.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-deltaexped|The Delta Expedition]]—the army that was not at home
 - [[lore-olcassabtl|The Battle of Olkassa]]—where the claims were fought out

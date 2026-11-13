@@ -58,7 +58,7 @@ A playwright writes the company's productions and a director directs them on its
 
 Say you want to join. Bring a part you can play, and a patron who can speak for you. A company whose license can be questioned does not hire a player without someone to vouch.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : the city it plays in

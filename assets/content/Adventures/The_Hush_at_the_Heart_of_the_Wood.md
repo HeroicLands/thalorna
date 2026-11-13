@@ -146,7 +146,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **If bypassed.** The party can learn the same from the Warden's tally-cord, if they brought it out.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the Listener is killed,** the Rising stops for a season and the tribes return to their villages. The wound keeps growing.
 - **If the Ash-Warden lives,** he keeps the rim, and the rite of the bells passes to a successor.

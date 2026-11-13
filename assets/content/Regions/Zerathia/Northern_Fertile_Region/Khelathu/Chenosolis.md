@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [aukhelathrgq], population: 0, packFolder: regkhregn}
 ---
 
-## Overview
+## Overview {#overview}
 
 Chenosolis is highland country of [[place-aukhelathrgq|Au'Khelathu]], and what draws anyone up into it is a mountain shrine where the oldest records of the empire's astrologers are kept. The shrine is one of the sacred places of the early astrologers of Au'Khelathu, and its oldest records were laid down in the age of [[lore-akhfirsttab|the First Tablets]]. An astrologer who wants to read the sky the way the first ones read it has to climb to it.
 
@@ -16,7 +16,7 @@ Chenosolis is highland country of [[place-aukhelathrgq|Au'Khelathu]], and what d
 
 The way to Chenosolis is usually found before it is walked. [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], court astrologer, found fragments of a lost prophecy at the [[place-anlaghura|Anlaghura]] in the [Targa River Valley]{.name data-type="place/region"}, and they pointed him to the shrine in the highlands of Chenosolis. He went on a pilgrimage through the empire's sacred sites to understand the event he calls [The Convergence of the Nine Moons]{.name data-type="lore/history"}, and the records at Chenosolis are among the oldest evidence he can consult. Rival astrologers and priests who do not want his reading confirmed have sent agents along the same road.
 
-## See Also
+## See Also {#see-also}
 
 [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]
 : the astrologer whose pilgrimage leads here

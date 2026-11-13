@@ -15,7 +15,7 @@ data:
   government: selatiuthnet
 ---
 
-## Overview
+## Overview {#overview}
 
 "Say what you came for, whether it is a child, a cure or only a blessing," a Wazu of the temple of [[affiliation-uznera|Uzn'era]] tells a pilgrim at the door in Iuthnet, "and the first priestess you meet will know where to send you."
 
@@ -23,7 +23,7 @@ Iuthnet is the capital of [[affiliation-selatiuthnet|the Selat of Iuthnet]] and 
 
 Uzn'era's priestesses practice medicine and hold office up to the highest. Behind them stands the doctrine that creation needs the balanced partnership of a masculine and a feminine divine principle, which is why [[lore-khelathiclt|Khelathi]] women own property, initiate divorce and plead in the courts.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatiuthnet|The Selat of Iuthnet]]
 : parent selat

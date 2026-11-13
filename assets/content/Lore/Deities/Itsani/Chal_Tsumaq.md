@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [], population: 0, packFolder: settinglore}
 ---
 
-## Overview
+## Overview {#overview}
 
 Ch'al Ts'umaq ("beneath the night sky") is the underworld of the [[affiliation-itzanpnthn|Itsani Pantheon]], the subterranean realm beneath every sinkhole, cave and sacred spring. It is the domain of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], the death god. It is not a place of punishment but of passage.
 
@@ -28,7 +28,7 @@ Every sacred pool is at once a portal to Ch'al Ts'umaq and the body of [[lore-xa
 
 [[lore-pikultzumaqdty|Pik'ul Ts'umaq]] was once the guardian of the threshold of Ch'al Ts'umaq. It concluded that the underworld is a trap rather than a passage and began pulling souls back out of it, opening the boundary it was set to keep shut. [[affiliation-tzumaqkalanil|The Serpent Awakeners]] (Ts'umaq K'alanil), who follow it, can demonstrably pull the recently dead back out of the labyrinth.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]]
 : the faith whose god holds the underworld

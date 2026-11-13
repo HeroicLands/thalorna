@@ -203,7 +203,7 @@ here and nothing warmer.
 The ledger's last entry records the Senali envoy who came for the king's body and was turned away at the gate. It is the one thing the wood least wants to see written down.
 :::
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-nclvhllwwd|Enclave of Seirasto]] · [[lore-threesistrs|The Battle of the Three Sisters]]
 - [[lore-flksenali|Senali]] · [[place-eilwith|Eilwìth]] · [[lore-aelendnppl|Áelendan People]]

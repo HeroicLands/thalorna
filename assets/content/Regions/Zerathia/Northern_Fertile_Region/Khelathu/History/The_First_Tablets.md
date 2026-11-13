@@ -31,7 +31,7 @@ The lengths are round, and they sum end to end, with none of the shared year a r
 
 Lin'Uzner's twenty-six years are the first reign of a length a man could live, and with them Azlet'Kutu closes in 1006 ST (1105 BF). The next house leaves the Great Land and carries the court to the mound at [[place-galezkara|Galezkara]] ([[lore-crossmound|the Crossing to the Mound]]), and the age of [[lore-akhsunroad|the Sun's Road]] begins.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhsunroad|The Sun's Road]]
 : the age that follows

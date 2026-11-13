@@ -24,7 +24,7 @@ The academy knows the contradiction. Its answer is that it has asked the sabhra 
 
 Swift Hand graduates serve in the horse of the western kingdoms and on the desert frontier. The [[place-dunharargn|Dunhara tribes]] there ride better than anybody the academy trains, and the academy says so in its own teaching.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bowfort|The Bow-Fort]] · [[place-danurkot|Danurkot]]
 - [[place-highdraw|The Academy of the High Draw]] · [[place-patienteye|the Academy of the Patient Eye]] · [[place-hiddenstring|the Academy of the Hidden String]]

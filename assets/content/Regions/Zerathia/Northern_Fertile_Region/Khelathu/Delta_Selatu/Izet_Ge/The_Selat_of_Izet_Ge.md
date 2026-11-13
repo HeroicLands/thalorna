@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Izet-Ge is the delta selat of date palms and sweet wines, and one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-thubaidty|Thuba'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-izetgenome|Izet-Ge]].
 
@@ -65,11 +65,11 @@ Izet-Ge is the delta selat of date palms and sweet wines, and one of [[affiliati
 
 The seat is [[place-izet|Izet]], where the Halzi'a keeps court and the selat's chief temple of Thuba'i stands. Temples of Thuba'i hold wine vaults and granaries, and in a selat of date plantations and sweet wine the vaults are a working part of the economy and not a symbol of it.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Izet-Ge uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the temple that stores the vintage is also the one that vouches for the price. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

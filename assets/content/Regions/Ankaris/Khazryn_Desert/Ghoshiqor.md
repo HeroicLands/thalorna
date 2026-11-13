@@ -39,7 +39,7 @@ Among them live the **[[affiliation-rwlstrb|Uruvolur]]**, "the water people", sm
 
 The tribes of the sands hold the dearest wells on the road and keep its strictest custom, and this season the sands are giving things up. A street of [[place-wilud|Vulud]] stands open, and the Uruvolur have sold the news of it twice. A salt-cutter's son has broken into a stair under the crust at [[place-ewod|Evod]], and his tribe's elders have told no one outside. At [[place-qelodwatri|Kelodvotri]] the Kuuyoyur have chained a new stone over the well, and their water-warden is not with them. At [[place-qisomrktcmp|Qiiso]] the factors of both ends of the road ask what a union rising among the northern tribes would make of the market.
 
-## Dangers
+## Dangers {#dangers}
 
 The dead cities are the region's reputation. A league of caravan towns once stood on the first Celestial Road, and its towers were lighthouses, lit at night so that strings could march in the cool and steer for the next well. The road bends three days south round [[place-jilaq|Jilaq]], "the lantern", the league's chief city, where a dozen towers still stand over a ring wall and the ground is a blood-field of the thin kind, crossed at night by hunters in semi-material form. A smaller tower city, [[place-wilud|Vulud]], "the wonder", is half drowned in a moving dune sea, and every generation or so the dunes uncover whole streets of it. One such street ends at [[place-bolidqiso|Bolidqiiso]], a counting-house tower whose stone watchman still keeps its door.
 
@@ -47,7 +47,7 @@ The dry lake [[place-ewod|Evod]] is crusted with salt over brine mud, and steppe
 
 Beyond the cities there are giant camel spiders at every well, bone scorpions in the shade of the standing towers, and the dune collapses that take a camel and its load in a breath. Every lidded well has its telling. Of [[place-qelodwatri|Kelodvotri]], an owned spring under twelve palms at the foot of a black mesa, the guides of the grass say the thing in its cistern is no [[being-qelodud|kelodud]], and they drink there only from their own skins.
 
-## Hooks
+## Hooks {#hooks}
 
 - A Bizarian factor will pay a fortune for one lens of tower-glass from [[place-jilaq|Jilaq]], the clearest anyone has seen, and the road bends three days round it for a reason.
 - An Uruvol band has found that a street of Vulud has opened this season and is selling the news to two buyers at once.
@@ -56,7 +56,7 @@ Beyond the cities there are giant camel spiders at every well, bone scorpions in
 - A caravan cut off in the Long Dry reaches an owned spring whose well is chained shut, and something under the stone is winding up a rope: [[scenario-weightwell|The Weight upon the Well]].
 - A sandstorm drives treasure hunters into a counting-house of Vulud, where the stone watchman is closing the house: [[scenario-wludwtchmn|The Watchman beneath Vulud]].
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region

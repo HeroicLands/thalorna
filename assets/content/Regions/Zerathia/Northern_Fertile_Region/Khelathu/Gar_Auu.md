@@ -158,7 +158,7 @@ The Keepers abstract the older list for the scholars who ask for it, and the abs
 
 Only the houses that ruled from [[place-galezkara|Galezkara]] lie in the royal necropolis across the river from it. [The First House]{.name data-type="affiliation/lineage"} and [Azlet'Kutu]{.name data-type="affiliation/lineage"} lie at Zu-Ger, the house of [[place-lenennezut|Lenen-Nezut]] in its own old capital, and the house of [[place-maguathen|Magu-Thelqen]] in its own half-empty city, so the row of Ways at Zu-Gezer is the list with whole stretches missing.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : the state the throne heads

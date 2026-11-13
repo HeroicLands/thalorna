@@ -26,7 +26,7 @@ The town's character is rough and maritime. Dockworkers, sailors, merchant facto
 
 The town keeps a shrine to [[lore-pozerasdty|Pozeras]], the Aureldian god of voyages and safe passage. Pilgrims making maritime vows stop in Thálassos to leave offerings, and the priests have a reputation for giving real sanctuary to those fleeing pursuit, a tradition they guard jealously whatever the League's politics.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]
 : the confederation of city-states

@@ -72,7 +72,7 @@ The Compact is the one a visitor feels first. Its headquarters is the old Vilér
 
 Besikar is where the Confederation's quarrels come to be counted, and this year most of them are counted in money. The [[affiliation-auricompct|Auric Compact]] calls in what the city's shopkeepers and fishermen owe sooner and dearer this season, and the veterans' halls of the old city fill with the men it calls on. [[being-zlmrzzn|Zilmar Ezzinu]], elder of a waterfront hall, preaches patience in them and carries the veterans' petition to the Arch-Consul's residence before every session. [[being-trmnqzkn|Tirmana Qizikuni]], head of the city's great house, presses the [[affiliation-grandcouncil|Grand Council]] for an audit of the [[affiliation-merazuni|Merazuni]] and sounds the other houses on council seats that pass from a head to an heir. Khelathi hulls at the factorage quay still pay the lowest harbor due in the city, and nobody on the Council of Elders explains why. On the waterfront, the Compact's factors petition the Council of Elders each year to break up the [[place-tamzirmonument|Tamzir Monument]], and the veterans sit up in her dock at night.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian currency]], whose treasury, the [[affiliation-merazuni|Merazuni]] of the [[affiliation-vezakuni|Vezakuni]], has its strongroom here. The coins carry the Vilérian denominations (Solden, Ardin and Bit) on Taruzelian reserves rather than on the Vilérian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vilérian standard. Merazuni-affiliated moneylenders carry the city's banking; they refuse Vilérian script, and no Vilérian house takes theirs.
 
@@ -85,7 +85,7 @@ Besikar was the seat of the empire's rule in the islands: the _therkos_ kept his
 - **The night watch.** The Harbormaster wants the veterans who sit up in the Tamzir Monument's dock gone before the Vilérian hulls come in, and [[being-zlmrzzn|Zilmar Ezzinu]] wants to know who his men are guarding her from.
 - **The audit's friends.** [[being-trmnqzkn|Tirmana Qizikuni]] hires a party to learn which councilors of the Council of Elders would vote to instruct the city's councilors for the audit.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-qizikuni|Qizikuni]]
 : the banking house of the city

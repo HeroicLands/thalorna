@@ -46,7 +46,7 @@ The Great Temple keeps the faith's two great observances. At the [Feast of Thres
 [[being-zenothaulmis|Lady Zenotha Ulmis]] publicly supports the Árdavonian faith and is secretly allied with the corrupt nobles Father Ostaran is pursuing. She is working quietly against him at the royal court, spreading rumors and spending her influence to undermine his reputation, which is the one place the prelate's protection does not reach.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-polthamis|Polthamis]]
 : the city of the Great Temple

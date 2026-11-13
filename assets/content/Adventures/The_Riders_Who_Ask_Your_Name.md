@@ -17,7 +17,7 @@ data:
 
 At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between rival recitations. A poet named [Melkhur]{.name data-type="being/npc"} now holds the oasis, trades stolen names to a hollow in the well, and sends raiders who have no names of their own onto the southern circuit. The party must learn what he is buying, and with what.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A sheikh's steward pays a thief to break into Vazhmavad and bring out one recitation, a single line of his lord's genealogy, before the common council sits.
 - **The mercenary or soldier.** A caravan-master hires the party as guards for the southern circuit. Three caravans have vanished on it, and the survivors of the fourth cannot say whom they were hired by.
@@ -129,14 +129,14 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 
 **If bypassed.** If the party flees before the recitation, the poets finish it unheard, and the neighbors hear it from them.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **Melkhur taken to Tevrazavad.** The man who ended a civil war by refusing to win it hears a case no law has met, and the desert watches.
 - **The recitation of Bazuran spoken.** The two neighboring tribes are shamed in the common council. Their sheikhs seek an exit, and the poets of a third tribe are asked to judge.
 - **The recitation buried.** The southern circuit is safe, the oasis is silent, and a wrong goes unanswered.
 - **The Unrecited.** Those who regain their names return to their tribes or are rejected by them. Those rejected by their tribes become Kinless.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vzhmvd|Vazhmavad]]
 : the weighing-place

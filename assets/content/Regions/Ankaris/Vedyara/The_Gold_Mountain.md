@@ -22,7 +22,7 @@ Every stream off the mountain is panned but one. [[place-rasikarastrm|The Rasika
 
 Three great temples ring the lower slopes at the three principal stream-confluences, one at each, and the weighing-station stands beside the treasury in the middle of the three.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bharavarivr|The Bharava]] · [[place-suvargeri|Suvargeri]]
 - [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]—the temple-republic the gold pays for

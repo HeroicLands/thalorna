@@ -62,7 +62,7 @@ Gar'Nul, the Gar-Au's chartered guild of hunters, keeps this cult and [[affiliat
 
 Like every selat god's cult, this one keeps the shared temple ladder of Wazu, Lem'Nelgir and Thaz'Lekhau. A selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-linhurdty|Linhur]]
 : the god

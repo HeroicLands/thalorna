@@ -8,7 +8,7 @@ tags: [feature, waste, geyser]
 data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Boiling Ground, Ne' K'ayich (hot water), lies two days south of [[place-ashstair|the Ash Stair]] in [[place-ashcountry|the Ash Country]], and a party smells it a day before it sees it. It is a basin of white and yellow crust a long day across, steaming in a hundred places, where geysers throw scalding water higher than a pyramid's tier and mud pots boil gray and blue between them. Every party bound deeper into the waste crosses it or goes around it, and going around it costs four days.
 
@@ -22,7 +22,7 @@ The geysers do not keep to their places. A vent that has thrown water every hour
 
 The crust at the edges of the basin holds crystals of yellow sulfur and pale salts, and returners bring them out by the sackful. The gate's storehouses buy them for the reagent-makers of the north, who grind them into powders for workings and medicines. A party that loads itself with crystals crosses the rest of the waste heavier than it should.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ashcountry|The Ash Country]]
 : the country around it

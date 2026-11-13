@@ -82,12 +82,12 @@ The rim makes it urgent. Word has come round the salt that a stair has been foun
 
 The Khilodur hold that they have cut salt on the southern rim since before the first banner. Their tellings say nothing of the lake when it held water, and their elders refuse to speak of the builders at all.
 
-## Hooks
+## Hooks {#hooks}
 
 - Iqodlun wants an outsider to carry the Khilodur's offer to the gathering man, because she doubts the man's camp lets a Khilodur rider speak.
 - A Mirjolur rider has been found dead on the western rim with salt in his mouth, and the Mirjolur say only the Khilodur kill that way. The Khilodur say nobody does: [[scenario-sltnthmth|Salt in the Mouth]].
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

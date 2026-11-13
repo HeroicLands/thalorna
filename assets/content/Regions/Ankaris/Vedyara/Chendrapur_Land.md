@@ -14,7 +14,7 @@ data:
   government: chendrapur
 ---
 
-## Overview
+## Overview {#overview}
 
 In Chendrapur Land, go up [[place-chandrmahi|the Chandramahi]] from the sea and the country changes three times before you reach the rapids: a shore of salt-pans and fishing beaches, a floodplain of rice and cotton, and above the city a valley of workshops. All three belong to the city-state of [[affiliation-chendrapur|Chendrapur]], which holds the lower river from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it, from the gem-road that climbs the valley to the cutting-villages to the boat-timber the shore sends down to the yards.
 
@@ -24,7 +24,7 @@ The land is _held_, not endowed, and that is the first thing a traveler up from 
 
 The seats descend by house and not by turn, so a Chandrapuri village changes hands at a marriage or a bankruptcy and never at an election. The Houses' rise and fall is read off the map of the valley as much as off the court's seating.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql
 SELECT s.address.slug AS _ref,
@@ -65,7 +65,7 @@ The gem trade organizes the whole land. Rough stone arrives at the city from min
 
 The river mouth is the other half of it. The fleet lies at Chendramukhva, and the sailing season governs the land's year as firmly as the monsoon governs its planting.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-chendrapur|Chendrapur]]
 : the city-state that holds this land

@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [norgaad], population: 0, packFolder: norgaad}
 ---
 
-## Overview
+## Overview {#overview}
 
 Once a year, at the turn of winter, someone cuts into the rock at Holafell, and nobody mends the cut before the next one. Holafell is a bare hill in [[place-norgaad|Norgaad]] with a sanctuary cut into its stone, and it is the oldest hov of [[lore-hrimthurspr|Hrimthur]], the Rime-Giant whose faithful teach that the world was cut from a living body by a violence nobody has stopped committing. The [[affiliation-hrimthur|Faith of Hrimthur]] has few hovs and all of them are hard to reach. Holafell is the eldest, and the [Northern Hall]{.name data-type="place/structure"} in [[place-targud|Targud]] is the largest. The name is the description: _hola-_ is a sanctuary cut into the rock, set before the generic for a bare hill.
 
@@ -22,7 +22,7 @@ The pilgrimage that leads to it is [The Walk to Holafell]{.name data-type="lore/
 
 The Giant's Children at Holafell tell the famine of [[lore-threewinters|the Three Winters]] differently from the halls below. In their account a predecessor failed to keep the wound open, and winter did not end until the next elder cut it again. That is their explanation of the famine and not an attested cause of it; the valley halls remember failed harvests, deaths and disputed acts without accepting the Children's claim. A visitor who repeats the Holafell telling at a valley hearth starts an argument.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-hrimthur|Faith of Hrimthur]]
 : the faith whose oldest hov this is

@@ -23,7 +23,7 @@ data:
 # terran_analog: "The present United States and southern Canada around 1100: the Haudenosaunee and their Algonquian neighbors, the Mississippian chiefdoms at the height of Cahokia, the pre-horse Plains hunters and Plains Village farmers, the Ancestral Puebloans of Chaco Canyon and Mesa Verde, and the Pacific Northwest coast. The two peoples outside the compact are drawn from California (the Chumash and the acorn peoples) and Alaska (the Unangan, Yup'ik and Iñupiat, and the early Thule). The compact draws on the calumet ceremony and the Pipestone quarry; the sea raiders are the Norse voyages of about 1000 to 1100, and the arctic newcomers the Thule expansion of about 1000 to 1300."
 ---
 
-## Overview
+## Overview {#overview}
 
 Northern Kì'ìch'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the One Fire holds 1,500,000 of them and the Maple People 750,000, the [[affiliation-shuqash|Shell-Bead People]] 350,000, the Grass People 300,000, the Cedar People 200,000, the Turquoise People 150,000 and the [[affiliation-tikupilarit|Ice-Edge People]] 50,000, while about 200,000 more live in boreal and other bands outside every polity.
 
@@ -82,7 +82,7 @@ The [Red Quarry]{.name data-type="place/site"}, where the compact's council meet
 
 North of the Maple People and the grasslands lies the [[place-kawiskakrgn|Kawiskak Region]], the boreal forest of spruce, rock and lakes, which runs out into tundra at the treeline. It is sparse hunting country, held by the family bands of the [[lore-kawiskakclt|Spruce People]], who meet at the fishing lakes in summer and trade furs and copper south at the forest's edge. Beyond the treeline small bands of caribou hunters live on the barren grounds, between the Maple People's reach and the Ice-Edge People's coast.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the agreement that binds the five nations
@@ -106,3 +106,21 @@ North of the Maple People and the grasslands lies the [[place-kawiskakrgn|Kawisk
 
 [[place-centralkiichchik|Central Kì'ìch'chik]]
 : the heartland of the southern city-states
+
+[[place-shuqhalaqrgn|Bead Coast]]
+
+[[place-tikumanikrgn|Ice Coast]]
+
+[[place-kelwanukrgn|Kelwanuk Region]]
+
+[[place-taluqnapiqrgn|Lake Tundra]]
+
+[[place-tulishlumuqrgn|Oak Valleys]]
+
+[[place-osetakonargn|Osetakona Region]]
+
+[[place-tenlayargn|Tenlaya Region]]
+
+[[place-teyumirgn|Teyumi Region]]
+
+[[place-tokchiaskargn|Tokchi Aska Region]]

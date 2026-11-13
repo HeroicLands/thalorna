@@ -77,7 +77,7 @@ The same queen chartered the guild of [[affiliation-garmelnu|Gar'Melnu]], so the
 
 The separation of Bethua belongs to the age in which the [[affiliation-vylarinmpr|Vilérian Empire]] and its neighbors began losing provinces ([[lore-empirdclne|the Decline Begins]]). Provénzia—now the [[affiliation-kngdmprvnz|Kingdom of Provénzia]]—drifted out of its empire's hands without a war and became a realm in all but name; Bethua, on the southern shore of the same sea, left its own metropole by war, and the Khelathi court lent the gold openly, as a loan, with its engineers walking the capital's streets. About a century later the court repeated the arrangement for [[affiliation-cnfdrtntrzlnstts|Taruzel]], in secret and under the name of humanitarian commerce.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Khelathi machinery of the Matriarchy.** Treasury, water corps and court accounts speak Khelathi, and the Izet-Mu and Izet-Halzi of Bethura answer to the Metrissa.
 - **The patron relationship.** Bethua receives a Khelathi envoy with a courtesy it gives no other foreign man, and the court at Galezkara cultivates the Matriarchy as an instrument, with subsidy and loans and no sentiment in it ([[affiliation-mtrrchybth|the Matriarchy of Bethua]]).
@@ -85,7 +85,7 @@ The separation of Bethua belongs to the age in which the [[affiliation-vylarinmp
 - **[[affiliation-pelagora|Pelagora]]'s grievance.** Helionite captains hunt Bethuan privateers on sight, and the council of Pelagora counts the colony's loss as a debt ([[lore-heladpelagtrty|The Pelagoran Treaty]]).
 - **A fleet.** The privateer war on Vilérian shipping that the court cannot be accused of is fought by [[affiliation-bethuanflt|the Bethuan Fleet]].
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-akhhsmeqes|The House of Meqes]]—the age
 - [[lore-empirdclne|The Decline Begins]]—the loss of provinces that followed

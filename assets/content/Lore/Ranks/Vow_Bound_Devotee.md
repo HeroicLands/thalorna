@@ -29,7 +29,7 @@ The first privilege is the favor the ordeal was undertaken for, which is the poi
 
 The obligation is the vow's own terms, for life, whatever those terms were. Where the ordeal imposed a continuing abstinence, a continuing practice or a continuing service, that is the obligation, and it does not lapse with age or with distance from where it was undertaken.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vrnkpnthn|Varnuka Pantheon]]
 : the gods whose ordeals confer the vow

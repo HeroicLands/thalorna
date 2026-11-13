@@ -17,7 +17,7 @@ data:
 # terran_analog: Venezuela, Guyana, Suriname, the Guianas, northern Brazil; the Ha'nal Ts'uma is the Orinoco and the Ha'nal Shilik the Essequibo; the eastern highlands are the Guiana Highlands and the pu'uts are its tepuis; Ts'alukul is Orinoquia and Ch'al Pu'uts is Kamarata; the vision-vine is ayahuasca
 ---
 
-## Overview
+## Overview {#overview}
 
 Shelem Region is the land of [[affiliation-xelem|Shelem]], and lies within [[place-centralkiichchik|Central Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
@@ -49,13 +49,13 @@ Cacao grown in Shelem's highland regions is of exceptional quality, and the choc
 
 Shelem quarrels with the north over who buys at the forest's edge. [[affiliation-riverhouses|The River Houses]], the merchant families who govern the river towns, buy what the jungle sells at their own landings and carry it north in their own dugouts, so the price the north pays is set on the landings. The plateau's traders want to buy upriver, where the forest traders come in, and the families keep the rivers closed to them: a northern caravan that hires its own canoes finds that no forest trader sells to it twice. The [[affiliation-chumishlan|Ch'um Ish'lan]] reaches the river towns only because the families pay its stations, and the families mean their payments to buy something. Shelem's allegiance to the north is renewed every year with its trade agreements, and every year the families decide what the north's goodwill is worth.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Past the landings.** A Ch'eshmah of the merchant guild of Ish'ilankul has brought a caravan to Ts'alukul and means to take it upriver past the landings, to buy feathers where the forest traders come in. He hires a party to find canoe-men who will paddle for him and forest traders who will sell to him, and the families of the town are watching whom he hires.
 - **The cheaper feathers.** [[being-chakulneshlm|Ch'akul Ne' Shelem]], speaker of Ts'alukul, has heard that feathers of the river are being sold in [[place-tsamash|Tsa'mash]] below every landing's price. He asks a party to go north and learn whose feathers they are, and his rival on the council, [[being-nelushpuqem|Nelush Puq'em]], would pay well to know that he has asked.
 - **The tired runner.** A Reader of the Cords at [[place-kultaqan|Kul'taq'an]] has noticed that cords about prices reach the river towns half a day later than they should. He asks a party to travel the river route beside the Speaking Road's runners and time every stage.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-xelem|Shelem]]
 : The realm that holds this land

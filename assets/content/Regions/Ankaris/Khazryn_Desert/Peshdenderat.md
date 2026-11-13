@@ -14,7 +14,7 @@ data:
   culture: khazrynclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The [Vurinkarvem cliff]{.name data-type="place/feature"} over [[place-oasishirvn|Shirvan]] is riddled with cut chambers and pilgrim stairs, and some of them are older than the city. At the bottom of one of the oldest, a gallery of seven bays below the level of the lower basin, a well-head of gray stone stands in a round chamber. The Tellumi of the quarter call it **Peshdenderat**, "the dry well". It has no water in it.
 
@@ -67,7 +67,7 @@ The gallery lies below the level of the lower basin, at the foot of an old pilgr
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-oasishirvn|Oasis of Shirvan]]
 : the city above it

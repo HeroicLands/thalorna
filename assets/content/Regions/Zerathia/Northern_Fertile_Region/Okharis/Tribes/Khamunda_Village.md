@@ -14,7 +14,7 @@ data:
   government: khamundatrb
 ---
 
-## Overview
+## Overview {#overview}
 
 Khamunda Village is the seat of the [[affiliation-khamundatrb|Khamunda tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

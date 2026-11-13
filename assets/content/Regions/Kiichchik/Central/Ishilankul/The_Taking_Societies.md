@@ -112,7 +112,7 @@ The Elder of the Patterned Cloaks is [[being-penqalneok|P'enqal Ne'ok]], a broad
 - **Walk a treaty field.** Two cities that distrust each other's Marshals sometimes ask an outsider to walk the field with them as a witness, and a party known to neither city may be asked.
 - **Ransom a captive.** A house whose son was taken needs someone to reach the taker before the Dedicator assigns him, and to agree a price.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ishtalhun|Ishtal'hun]]
 : the city of the taking field

@@ -44,14 +44,14 @@ The eastern barons held the lowland farms of the country, and their families had
 
 The arrangement shaped the crown that followed. A king of Aldorath rules with the consent of barons who hold their land from their own ancestors and regard the crown as a convenience they granted. The barons' conviction that they are older than the throne is accurate.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The hall, the chapel and the royal graves.** Kept in repair for six centuries by successive kings. The court moved to [[place-dunmere|Dunmere]] generations later, in the reign of [Tenral]{.name data-type="being/npc"}, and no king has given up the hall, the midwinter feast or the burial ground behind it.
 - **The royal forest.** The wood above the village, hunted by the kings under forest law, and the grievance of the tenants beside it who may not cut the timber.
 - **The first formal campaign.** [Réncaris]{.name data-type="being/npc"}, a king of the third century, led the first campaign the crown mounted against the Grukar. It was declared a success, as each of the dozen that followed it was.
 - **The barons' memory.** Aldorath's lords keep a record in which the crown is a gift of theirs, and they are not mistaken in it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kingsholow|Kingshollow]]
 : the village and its hall

@@ -49,7 +49,7 @@ A Wohou officer known for years as "Second Son of the Shield Bearer of the [Zhow
 
 A Tanchei scholar known as "Third Daughter of the Sage of the [Zhi Zhai Clan]{.name data-type="affiliation/lineage"}, near Weichai" observed and recorded a new star that her seniors had missed. She was granted the name [Zhi Zhai Leng Cheng]{.name data-type="being/npc"}, "Rising Bright Star Bird," for the discovery, and the star carries her name in the court registers.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : the castes that may and may not be named

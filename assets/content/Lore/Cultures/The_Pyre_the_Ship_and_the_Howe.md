@@ -48,7 +48,7 @@ The rite runs in a fixed order. A skald or the eldest of the kin gives the prais
 
 The gudja of Solrún tells newcomers why the grave-ale cannot be skipped. The dead who never receive it are the riders of the Jel-Ride, and the custom is held to start with the first grave there ever was, when [Dvarnrinna]{.name data-type="being/npc"} drank to [Hrandmil]{.name data-type="being/npc"} at the first howe. That account is told in [[lore-gnumborinn|Gnúmborinn]].
 
-## See Also
+## See Also {#see-also}
 
 [[lore-gnumborinn|Gnúmborinn]]
 : the first death and the first grave-ale

@@ -79,7 +79,7 @@ The [Festival of the Woven Night]{.name data-type="lore/gathering"}, celebrated 
 
 Daily worship of Zárvanya is more subtle. Before sleep, the pious will often kindle a small lamp—the dream-light—and offer a brief prayer: "Zárvanya, Weaver of truth, open the gates of vision. Let me see clearly in sleep what is hidden in waking. Speak to me in the language of symbols and thread. Guide my steps tomorrow with the wisdom perceived tonight." Upon waking, before rising or speaking to anyone, a devoted worshipper will reflect on any dreams they remember, seeking for Zárvanya's message.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Zárvanya is distinctive among the Ashaian cults because it is simultaneously highly formalized and deeply mystical. The formal structure reflects the institutional side: the priesthood maintains the Dream Houses, trains interpreters, and preserves the accumulated knowledge of dream-symbolism across generations. Yet within that structure, every priest is understood to be a mystic—directly touched by the goddess, capable of receiving visions, responsible for interpreting cosmic truths from the raw material of symbol and image.
 

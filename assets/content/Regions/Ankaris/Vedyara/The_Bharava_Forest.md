@@ -44,11 +44,11 @@ The pilgrim road runs the whole length of the river, sea to ice, and the [[place
 
 The road is also the only continuous line through the forest. Everything else is a season's path to a gathering ground, cut for a season and closed after it, and the estates prefer it that way.
 
-## Who Holds It
+## Who Holds It {#who-holds-it}
 
 The [[affiliation-bhrvdvbhon|Bharava-Devabhona]] is the whole of the government here: estates endowed to the temples of the river, each held by an ordained keeper who answers to the temple that holds his endowment and to nobody else. There is no assembly above them. What coordination exists is the mother-temples consulting each other, which they do when the price of lac moves and not otherwise.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql {allow-empty=true}
 SELECT s.address.slug AS _ref,
@@ -75,7 +75,7 @@ ORDER BY s.name.full COLLATE NOCASE
 
 The query names the settlements of the forest country. A gathering group moves with the season and a temple station is counted with the estate that keeps it, so the forest carries nothing that stands in its own name.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara Region]]
 : parent region

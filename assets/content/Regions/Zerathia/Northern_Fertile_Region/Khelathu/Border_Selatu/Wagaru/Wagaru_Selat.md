@@ -15,7 +15,7 @@ data:
   government: selatwagaru
 ---
 
-## Overview
+## Overview {#overview}
 
 **Wagaru Selat** is the land of [[affiliation-selatwagaru|the Selat of Wagaru]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
@@ -23,7 +23,7 @@ data:
 
 This is the country of the southern gold-road, and everything on it is arranged around the road. The mines feed it, the caravan-stations are strung along it, and the tribute-collectors work from it. Beside it the ordinary [[lore-khelathiclt|Khelathi]] villages, estates and temple lands raise what the road's traffic eats, and the farmers owe their share of the harvest and labor on the canals as they do anywhere in the empire; the difference is that here the nearest customer is a caravan.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-wagaru|Wagaru]] (~14,000)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-psaqaru|Saq'aru]].
@@ -31,7 +31,7 @@ This is the country of the southern gold-road, and everything on it is arranged 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatwagaru|The Selat of Wagaru]]
 : The selat that holds this land

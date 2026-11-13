@@ -163,7 +163,7 @@ Valthari is everything the mountain lords of [[affiliation-kngdmstrth|Asturath]]
 
 The city and [[affiliation-kingdmlnrk|Lyenrik]] depend on each other entirely and like each other very little: the city buys the lowlands' harvest, and Lyenrik's crown takes a toll on it at [[place-bruthena|Bruthena]]'s bridge. [[affiliation-kngdmglvrn|Galvaren]] buys its salt from the southern coast. Abroad, the city's best customers are the [[place-provenzrgn|Provénzia Region]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and Valthari is one of the ports where Aureldian and Midhalión traders meet on neutral ground.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-consejarath|Konsezarath]]
 : the council that governs the city

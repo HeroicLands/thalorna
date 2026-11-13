@@ -83,7 +83,7 @@ Honor in Tantsou is a standing on the ledger. Honorable conduct makes credits, d
 
 The harshness of the law follows from what the Tantsou believe is at stake. Every breach left uncorrected is a crack in the wall between the sorted world and the Hwenlei, and the magistrate's work is to keep that wall standing.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : the castes, the Imperial Registry and the classification tablet

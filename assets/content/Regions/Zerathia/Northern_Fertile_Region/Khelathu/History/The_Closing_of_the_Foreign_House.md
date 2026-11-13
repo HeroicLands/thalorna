@@ -65,14 +65,14 @@ The Vilérian garrisons held the apex forts and customs-stations of the delta, t
 
 The new house gave them none. It closed the grain-barges to the forts and let the stores run down, and the garrisons were starved out in about three years, in about 398 AF. The gates opened one by one as the supplies ran out. The Khelathi record enters no battle for any of them, and the Vilérian account has no ending to give.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The last foreign house.** The [Amralo'Methu]{.name data-type="affiliation/lineage"} are the third conquerors the priesthood absorbed, after the hill-nomads and the sea-raiders, and the last.
 - **The delta forts in Khelathi hands.** The apex forts and customs-stations return to the Halzi'a of [[affiliation-selatkhelaga|Khelaga]] and the delta selatu, and the garrisons that held them are gone from the record.
 - **The Short Way.** The second tomb of the foreign house closed the stub and the Way was never lengthened ([[place-shortway|the Short Way of Amralo'Methu]]).
 - **The second war.** The starving-out is counted with the conquest among the wars the two empires have fought, and the Vilérian record gives the garrisons no ending.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-vylconquest|The Vilérian Conquest]]—the event before it
 - [[lore-akhpriestthr|The Priests' Thrones]]—the age it belongs to

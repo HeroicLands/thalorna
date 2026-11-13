@@ -85,7 +85,7 @@ A party meets the cell at second hand: in a refusal at the Twin Gate that is con
 The cell's commander is Elder Oltremo of the Sealed Forge, a name taken at his initiation; the brother's birth name is no longer used. In the hills he is [[being-oltremohills|Oltremo]], a horse-breeder who sells remounts to the barons and to the companies, and his trade carries the cell's candidates and messages between the baronies.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ordershnvw|The Order of the Ashen Vow]]
 : the order the cell belongs to

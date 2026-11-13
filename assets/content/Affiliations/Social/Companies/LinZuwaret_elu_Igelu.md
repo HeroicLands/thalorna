@@ -46,7 +46,7 @@ What is landed at the dock is priced at the dock, and the markets inherit the fi
 
 A shipper who wants a fair price deals with the consortium directly, before the cargo is unloaded, and has the terms entered while the barge is still at the quay. The alternative is to let the price be set by whoever happens to be standing on the dock when the barge ties up.
 
-## See Also
+## See Also {#see-also}
 
 [[place-waligelu|Wal-Igelu]]
 : the waterfront quarter it works

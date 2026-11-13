@@ -75,7 +75,7 @@ is kept among women, beyond the public rites of the gudar. Men know that it is h
 to know what happens there. The belief says what the living ask of their foremothers; it does not
 settle whether every misfortune is a dead woman's judgment.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] · [[place-nordheim|Nordheim]]
 - [[lore-nordheimnclt|Nordheimn culture]] · [[lore-kinhalcrdt|Kin and Hall Credit]]

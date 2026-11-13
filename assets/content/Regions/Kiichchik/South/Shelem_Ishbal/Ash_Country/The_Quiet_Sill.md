@@ -8,7 +8,7 @@ tags: [site, waste, strange]
 data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 Four days below [[place-ashstair|the Ash Stair]], past [[place-boilingground|the Boiling Ground]], a party walking through [[place-ashcountry|the Ash Country]] comes to a road. It is not a road: it is a band of smooth gray as wide as a road, flush with the ground, that comes up out of the ash at one end and runs a mile before the ash closes over it again. The returners call it the Quiet Sill. Its name in the priests' tongue is Ish'lan Sh'anik, the quiet road.
 
@@ -26,13 +26,13 @@ Nothing marks it. Returners have swung axes at it, struck it with obsidian and s
 
 The death-walkers of [[affiliation-tzuqilixbal|Faith of Ts'uqil Ish'bal]], who recite the underworld to each party the night before it leaves the gate, add a warning about the Sill to their recitation. They hold that it is the roof of a road the dead walk below, and that its silence is the dead listening. They tell a party to say nothing on the Sill that it would not want carried down to [[place-chaltzumaq|Ch'al Ts'umaq]], and never to speak a companion's name there.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The cuttings.** A factor of [[place-nepaxel|Ne' P'ashel]], with Ankarian silver behind him, holds a grant from the Q'aptelmah to whatever comes off the Quiet Sill, and pays by weight. Three crews he sent have come back with nothing. He is outfitting a fourth, with better steel, and wants a party to lead it.
 - **The name.** A member of the party's company spoke a dead friend's name on the Sill, and the death-walkers at the gate will not recite for him again until he has gone back and unsaid it there.
 - **The other party.** A party sheltering on the Sill in an ash-storm finds another party's camp already there, its fire laid and its packs tied, and nobody in it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ashcountry|The Ash Country]]
 : the country it runs through

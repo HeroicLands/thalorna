@@ -40,7 +40,7 @@ What the ring teaches about the fire is that it is not the end of everything. Th
 
 The ring is the reason the north is grave without being hopeless. A people who know the world has ended before, and was kindled again from what it left, do not expect the last fire to be the last thing. They do expect it to take everything they love. So the hovs teach the ring as a lesson about remnants: what a person leaves when they go—a kept oath, a taught craft, a child, a howe with a name on it—is the coal the next thing is kindled from, and it is the only part of anyone that crosses into what comes after. A Hofgudja of [[affiliation-motefnir|Mótefnir]] put it to a newcomer plainly: "Every age gets made out of the last one's leftovers. See that yours are worth the making."
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thursblot|Thursblet]]
 : the cutting of the world from Hrimthur's body

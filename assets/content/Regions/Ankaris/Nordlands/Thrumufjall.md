@@ -472,7 +472,7 @@ komri‼ halv ner thru hvitna‼/
 berva hondi na gang bak‼
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]
 : the order whose mother-hall stands on the summit

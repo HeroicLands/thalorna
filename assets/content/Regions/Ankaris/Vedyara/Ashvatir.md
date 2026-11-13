@@ -20,7 +20,7 @@ The academy breeds none of them. They are bought as three-year-olds out of the m
 
 The headman is a graduate of the academy and a **Karmija**, a cultivator by birth, which in [[affiliation-dnrktjnpd|Danurkot]] is neither remarkable nor quite ordinary.
 
-## See Also
+## See Also {#see-also}
 
 [[place-danurkotjnpd|Danurkot Janpoda]]
 : the land

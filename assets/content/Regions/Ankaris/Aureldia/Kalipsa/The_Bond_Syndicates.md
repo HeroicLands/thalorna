@@ -70,7 +70,7 @@ The quarrel has a second edge. If the Gull pays, the Norodari can buy hulls befo
 - **The Gull's book.** The Gull's underwriters need to know how much of their book has been sold to buyers abroad before word of the losses reaches them, and how many of those buyers will sell.
 - **The two bonds that were paid.** The Gull paid the bonds on the two other hulls lost in the fog without a hearing, and the Norodari want to know why.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sealaw|The Sea-Law]]
 : the law that says when a bond is paid

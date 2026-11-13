@@ -15,7 +15,7 @@ data:
   packFolder: regkhsett
 ---
 
-## Overview
+## Overview {#overview}
 
 "Taste it before you talk price," a Chezu vintner tells a factor from the export houses, and pours the second cup before the first is finished. Chezu is a coastal wine-town of about 12,000 among the western vineyards of [[place-gaulegirunome|Gau-Legiru]], and it is famous out of all proportion to its size for what comes out of its cellars.
 
@@ -23,7 +23,7 @@ Its presses and aging-cellars produce the most prized vintages in the [[affiliat
 
 The year turns on the vintage, and a good or bad season is felt in every household. Vintners, coopers and merchant-factors live here, prosperous and proud. The labels are jealously guarded, the best slopes are worth a fortune, and the wine-merchants reckon themselves a cut above ordinary orchard-folk.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgaulegr|The Selat of Gau-Legiru]]
 : Parent selat

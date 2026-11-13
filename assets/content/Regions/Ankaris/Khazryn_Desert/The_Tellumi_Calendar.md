@@ -49,7 +49,7 @@ The calendar follows the model of the Faith of Ahurdaen's own tradition. Delkosh
 
 The [[affiliation-tribestrzd|Atarzád]] keep a different ritual reckoning, cycling twelve thirty-day lunations against whatever civil year their cities use: a count of fire-festivals rather than a count of years. Tellumi living under Atarzád rule track both, the Tellumi one for their own observances and the Atarzád one because the cities they live in run by it. A contract in [[place-ashkarad|Ashkarad]] or [[place-kethramir|Kethramír]] may carry both dates, and a debt falling due on an Atarzád festival day is a common cause of dispute. The Tellumi in the free oases of [[place-mehrnagord|Mernagord]], [[place-ushtraber|Ushtra-ber]] and [[place-vahurdash|Vahurdash]] keep the Tellumi calendar alone.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the people whose calendar this is

@@ -39,13 +39,13 @@ The house of Tha'Ulgau does not leave them alone. Its Halzi'a rides out once a y
 - **Scholars of the conquest**, who want to know whether the first Gar-Au of the hill house lies here or in the necropolis, and what his people buried with him.
 - **Herders**, who keep their stock off the tops and say nothing.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The opened mound.** Robbers dig into a barrow and let out something the hill-people bound with a horse instead of a seal. The herders see it first, and the Halzi'a's house wants the robbers found before the priesthood learns what its lord visits.
 - **The empty barrow.** A scholar from [[place-khelunu|Khelunu]] opens the end mound with the Halzi'a's permission and finds a grave with the horse and no man in it.
 - **The pressed grass.** A new herder follows the Halzi'a out one morning and sees what the house leaves at the foot of the mound.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-thaulgau|The Coming of the Tha'Ulgau]]—who they were
 - [[lore-hillhouse|The Closing of the Hill House]]—how they came to the pastures

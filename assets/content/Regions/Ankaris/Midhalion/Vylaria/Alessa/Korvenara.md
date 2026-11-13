@@ -14,13 +14,13 @@ data:
   government: provinclys
 ---
 
-## Overview
+## Overview {#overview}
 
 Korvenara is the garrison town of [[place-alyssa|Alessa]], a town of about 9,000 anchoring the interior of a province where towns, villas and senatorial estates form a near-continuous quilt around the imperial capital. The [[affiliation-vylarinmpr|Vilérian Empire]] holds its enemies at distant frontiers, so a garrison in the middle of Alessa watches no foreign border, only the bandit hills. It anchors the interior.
 
 A drover who has delivered into Korvenara for twenty years tells the lads new to the road where to take their meals: "Eat where the soldiers eat, and you will be served quickly. Korvenara keeps the garrison's hours, and a stranger learns them by missing a meal."
 
-## Arriving
+## Arriving {#arriving}
 
 The camp is seen before the town. It stands on level ground beside the road, a walled rectangle of dressed stone with a gate in the middle of each side and towers at the corners, and the town has grown against its south wall like ivy. The approach runs between the veterans' plots, small square fields each with a cottage and a vine, laid out by the surveyors' chains in rows as straight as the camp's streets. Trumpets from the camp mark the watches, and the town wakes, eats and shuts its shops by them.
 
@@ -32,7 +32,7 @@ The town lives by the legion. It bakes the camp's bread, mends its boots and har
 
 Korvenara is also where Alessa's commoners become soldiers and soldiers become citizens. Boys of fifteen walk in from every corner of the province to take the legion's oath, and the recruiting hall by the south gate is full each spring. Twenty years later the survivors come out by the same gate as citizens, and many go no farther than the plots along the road. The town is therefore full of veterans of thirty-five and older, men with the dole, a vote at law and the habit of command, who sit on its council, keep its inns and complain about the recruits.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Two laws run in Korvenara, and the wall marks the line between them. Inside the camp the legion governs itself. Its _vandraks_ (legion commander) commands it and is the _therkos_'s deputy in the field, but his commission is a court appointment and he spends most of the year in [[place-orzara|Orzara]]. The man who runs the camp day to day is its Vallar (camp prefect), a career soldier raised from the ranks, who keeps the discipline, the stores and the training, and whose patrols keep the road clear for a day's march in each direction.
 
@@ -42,7 +42,7 @@ Outside the wall Korvenara is a chartered town under the [[affiliation-provincly
 
 An officer is coming from Orzara to inspect the legion. The _vandraks_ spends most of the year at court, the Vallar keeps the camp, and the Vallar would like the officer three days late. The legion takes the province's recruits at fifteen, though recruits are fewer every year, and a widow wants her son home before he swears. Two veterans claim the same plot along the road on two genuine-looking surveyor's papers, and the Vallar wants the forger found before the quarrel comes to knives.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The inns stand along the street that runs from the south gate into the town, and they keep the garrison's hours: hot food at the change of each watch and none between. The drover's advice is the town's own. Strangers who carry weapons are asked their business by the gate patrol on their first evening, politely and in detail, and the answer is written down. A party that gives a patron's name in Alessar or the capital is left alone afterward; one that gives no name is asked again the next evening.
 
@@ -52,7 +52,7 @@ The inns stand along the street that runs from the south gate into the town, and
 - **The plot.** Two veterans claim the same plot along the road, each with a surveyor's paper that looks genuine, and the Vallar wants the forger found before the quarrel comes to knives.
 - **The count.** An officer is coming from Orzara to inspect the legion. The Vallar asks a party, quietly, to delay the officer on the road for three days.
 
-## See Also
+## See Also {#see-also}
 
 [[place-alyssa|Alessa]]
 : the province's land

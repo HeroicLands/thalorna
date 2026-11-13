@@ -14,13 +14,13 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Bowl is the island's heart: a great bowl at its center, enclosed on every side by [[place-klhrring|the Ring]]. [[place-klhrlake|The Bowl Lake]] lies in it, and [[place-klhrmassif|the Massif]] stands in the lake as a mount.
 
 The oldest of the custodians' sanctuaries, [[place-veshvaan|Veshvaan]], stands on the Massif. Almost no foreigner has seen the Bowl.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrring|The Ring]]
 : the mountains that enclose the Bowl
@@ -42,3 +42,5 @@ The oldest of the custodians' sanctuaries, [[place-veshvaan|Veshvaan]], stands o
 
 [[affiliation-tharivaan|Thári-vaan]]
 : the custodians and their sanctuaries
+
+[[place-mirthaan|The Sanctuary of Mirthaan]]

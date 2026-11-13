@@ -89,7 +89,7 @@ The bundle keepers of the west say that it was waste. Last autumn at [[place-kun
 
 Nobody on the plains has said, in council, that the raids themselves might be what the Herd Mother is answering. A few old doctors have said it to their nephews. It is the old argument over the raids, with the bison in it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tenlayaclt|Tenlaya]]
 : the culture: the open hand, the drive and the round of the year

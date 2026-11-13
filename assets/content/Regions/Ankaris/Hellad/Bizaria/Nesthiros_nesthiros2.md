@@ -8,7 +8,7 @@ tags: [port, city]
 data: {demonym: null, lore: [], parents: [byzariargn], population: 70000, government: nesthiros}
 ---
 
-## Overview
+## Overview {#overview}
 
 [[place-khryshteikhos2|Krusteikhos]] has the gold, a Nesthirian says, but Nesthiros has the ships. The city sits on a fortress isle in the straits that carry its name, and it is the principal seaport of the [[affiliation-byzarianlg|Bizarian League]], the gateway where the overland caravan routes of the east meet the sea-trading powers of the west. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vilérian Sea]], and about 70,000 people live and work around it.
 
@@ -24,7 +24,7 @@ A council of merchant-princes and the admiralty govern [[affiliation-nesthiros|N
 
 Nesthiros lives on transfer. Eastern goods arrive from [[place-khryshteikhos2|Krusteikhos]] by the lowland road and leave in League and foreign hulls; western goods make the journey in reverse. Its captains have traded with the coasts of [[place-midhalnrgn|Midhalión]] and [[place-xerathia|Zerathia]] for a thousand years.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-nesthiros|Nesthiros]]
 : the city-state, its council and its admiralty

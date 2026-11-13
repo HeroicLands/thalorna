@@ -8,7 +8,7 @@ tags: [site, waste, strange]
 data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 A week into [[place-thethirst|the Thirst]], on the gravel plains below the first of the stony ranges, a low ridge runs across the desert from north-east to south-west. It is no higher than a man's knee in most places and his waist in a few, and it is not rock. It is a row of long gray ribs, each running into the next with no seam, like the back of something lying down in the gravel. The returners call it the Cold Spine, and the priests' tongue has it as Ch'upum Ha'kanal, the back of the cold.
 
@@ -28,13 +28,13 @@ For a generation that stretch has been growing shorter. The walkers step over th
 
 [[affiliation-tzumaqkalanil|The Serpent Awakeners]] hold that the Cold Spine is the back of [[lore-puqilchaqundty|P'uqil Ch'akun]], the storm-serpent, lying asleep under the waste, and that the walkers keep away from it out of fear of what it will be when it wakes. They take its shortening as the serpent stirring. A few of their devoted go south through the gate each year to sleep one night with their backs against the gray, and come home, if they come home, to be honored in their cells.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The resurvey.** The returners' accounts at the gate give the length of the safe stretch, and the last two parties to come back say the accounts are wrong. The gate priests want the stretch paced and knotted afresh by a party that will come back with the cord.
 - **The pilgrim.** An Awakener of the jungle cells asks to join a party bound for the Thirst, and says only that she means to sleep one night at the Cold Spine. The gate's priests do not know what she is, and a party that does has to decide whether to tell them.
 - **The gap.** At the southern end of the stretch a party finds the walkers standing on the near side of a place where the ridge runs under the gravel, between it and its camp.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thethirst|The Thirst]]
 : the desert it lies in

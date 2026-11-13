@@ -74,7 +74,7 @@ data:
 sohl: {system: {commonSkills: [varokhlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Vristwald Tribes are the [[lore-varokhiclt|Varokh]] clans and villages of the dense forests between the [[lore-nordheimnclt|Nordmen]] kingdoms to the north and the [[affiliation-vylarinmpr|Vilérian Empire]] to the south. They share a language and a fierce commitment to their ancestral forests, but distrust other tribes and fight among themselves. This name gathers a people, not a government over them.
 
@@ -92,11 +92,11 @@ The Varokh descend from the [[lore-pelwarpepl|Pelwar]], the stock the Vilérians
 
 The [[place-vrystwald|Vristwald]]'s frontier with [[affiliation-provncmktr|Moktur province]] is the Vilérian Empire's most persistent military problem. Varokh raiding parties strike south into imperial territory for cattle, weapons, and slaves, then disappear back into forests that the legions cannot effectively patrol. The empire has tried everything—punitive expeditions, frontier forts, alliances with friendly chiefs, resettlement schemes—but the forest always wins.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Vristwald Tribes use the [[lore-vylrncrncy|Vilérian Currency]] (Solden / Ardin / Bit) as their _de facto_ currency for transactions conducted in money—no native coin exists, and no chapters of [[affiliation-danvar|the Danvar]] operate in Vristwald. The Vilérian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|clan credit]] customs that have no relationship with the Vilérian banking system.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vrystwald|Vristwald]]
 : Regional overview

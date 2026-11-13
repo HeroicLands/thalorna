@@ -82,12 +82,12 @@ The Guredur are selling the same man camels at their well, and the Bodekur belie
 
 The Bodekur hold that Akhaq was theirs before the first banner. When the last union rose, the tribe left its wells and rode away rather than swear, and it came back when the union broke. The clans swore the Word at Akhaq on their return, and the feud over Jibun began the same year.
 
-## Hooks
+## Hooks {#hooks}
 
 - Bodeklun wants a witness from outside the steppe at Jibun when the Bodekur well-cutter recuts the mark this autumn, because a witness the Guredur cannot call kin is the only one both tribes might hear.
 - A Bodekur rider has killed another Bodekur, and the Word prices the death at more camels than his line owns. His line wants to know whether a stranger's camels pay a Bodekur debt.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

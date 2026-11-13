@@ -16,13 +16,13 @@ data:
   packFolder: vrystwald
 ---
 
-## Overview
+## Overview {#overview}
 
 **Erthhaven** (410 people) occupies the earth shelter in [[place-vandstein|Vandstein]]. A sheltered terrace catches the last warmth before the high passes close. The Shaman keeps a bear den above it undisturbed, even in a lean spring when its occupant took sheep. The Other Chief has arranged to replace the lost animals from the winter store. The War Chief calls that payment a bounty on restraint and says his hunters will take the bear if it returns; the next thaw will test which elder the households obey.
 
 The Shaman holds the strongest of the village's three seats, but the other two elders retain their own authority. The Shaman keeps the [[lore-bearttm|bear]] as the village’s single totem. The neighboring villages are reached by narrow forest tracks, used by messengers and small parties; no village commands the next one along the path.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vandstein|Vandstein]]
 : the reach around the village

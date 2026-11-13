@@ -18,7 +18,7 @@ data:
   packFolder: vrystwald
 ---
 
-## Overview
+## Overview {#overview}
 
 Thornhaven sits where the forest thins toward the [[place-velanthrgn|Velanthian]] grain-belt, on the eastern stretch of [[place-vrystwald|Vristwald]] that meets [[place-velanthrgn|Velanthia]], within reach of the [[place-grkrhlmrgn|Grukarholm]] enclave, close enough to that frontier that the three hundred people who live here look as much like Velanthian river-folk as they do like their kin deeper in the forest, a mixing every village along this stretch of the frontier shares after generations of intermarriage and shared landings. Thornhaven's Shaman keeps the fox as the village's totem, an animal that survives contested ground by reading both sides of it rather than committing fully to either, which is as near as the village comes to naming what frontier life has made of it. [[being-erminfrdbn|Ermina ira Frodbán wur Thornhaven]] fishes the lake the village sits on, and [[being-thldrdrthgr|Thaldrá ira Druthgar wur Thornhaven]] crews the river-boats that carry Thornhaven's goods toward the same markets its neighbors across the frontier use.
 
@@ -26,7 +26,7 @@ A War Chief's standing at Thornhaven rests on managing that frontier rather than
 
 Thornhaven's tension runs along the same frontier that built it: a village this mixed is useful to the Velanthian princes as an auxiliary and trusted by them as nothing more, and the village's own elders know it, which is why Thornhaven's loyalty to the wider [[affiliation-vrystwldtrbs|Vristwald tribes]] is asserted more often and more loudly here than in a village that has never had reason to doubt it—and it is the Other Chief who does the asserting loudest, since a seat with less left to decide has more left to prove.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vrystwldtrbs|Vristwald Tribes]]
 : The independent villages this frontier village insists it belongs among

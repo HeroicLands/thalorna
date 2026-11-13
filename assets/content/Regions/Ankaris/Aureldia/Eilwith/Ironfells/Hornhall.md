@@ -51,7 +51,7 @@ A door cut square in the crag face, with a pair of stag's antlers carved in the 
 - **The thin figure.** The Highfold herders pay in cheese and wool for whatever is watching them from the crest to be driven off or killed.
 - **The hall.** A scholar who knows the Khazari kept outer halls would give a great deal for a drawing of one, and Hornhall is the only one any human has found.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-grukaraelwyth|The Grukar of Eilwìth]]
 : the nests of the island

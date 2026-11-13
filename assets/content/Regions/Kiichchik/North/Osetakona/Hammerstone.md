@@ -17,7 +17,7 @@ data:
 # terran_analog: the Old Copper workshops of the Keweenaw Peninsula and Isle Royale on Lake Superior, set in a later Iroquoian-style longhouse village
 ---
 
-## Overview
+## Overview {#overview}
 
 Hammerstone is heard before it is seen. From the lake a canoe catches the sound of stone on copper from a mile out, a steady knocking from a dozen hearths at once, and then the village comes into sight on a rocky point of the [Copper Lake]{.name data-type="place/feature"}'s northern shore: a palisade of pine stakes, the smoke of forty fires and a beach lined with big lake canoes. The name (_kahnekwaroten_) means the place of hammers. About 1,500 people of the Copper People live here, and it is the largest village of the [[place-kahnionrgn|Western Lakes]] and the place where most of the north's copper is made into something.
 
@@ -43,7 +43,7 @@ The village's speaker on the great council is [[being-tsikenhakahtiron|Tsikenhak
 
 The River People want the copper trade with the [[affiliation-tokchiaska|One Fire]] stopped, because the One Fire's warriors carry copper-headed clubs into their valleys. Hammerstone sells to the One Fire's traders every summer, by way of the Falls Country and the rivers south, and has refused three times at the great council to stop. Tsikenhakahtiron says that copper is the Copper People's maize and that a village does not stop planting because someone might steal its corn. The River People's speakers answer that it is their corn being stolen. His clan mother, [[being-kenrisatsiotie|Kenrisatsiotie]], has not told him which answer she wants him to give at the next council, and the village knows she is thinking about it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kahnionrgn|Western Lakes]]
 : the lakes, the copper and the Birch People's forest

@@ -15,7 +15,7 @@ data:
   government: selatgrrthsr
 ---
 
-## Overview
+## Overview {#overview}
 
 "We grow two crops here," a lodging-house keeper tells a traveler on the road to [[place-khelunu|Khelunu]]. "The wheat comes up in [[lore-geletssn|Gelet]] like everyone's wheat. The other crop walks in at seven years old, holding its mother's hand and a reed pen it has never used."
 
@@ -30,7 +30,7 @@ The selat farms its share of upper-river grain like any other, but its distincti
 - The great library-temple of [[affiliation-rethsaar|Reth'Sa'ar]] at Khelunu, the deepest archive in the empire
 - The astronomers' observatory and the calendar-service that keeps the realm's time
 
-## Settlements
+## Settlements {#settlements}
 
 Khelunu (~85,000)
 : the selat capital and the empire's great temple-city of learning: the library-temple of Reth'Sa'ar, the scribal schools, the observatory, the archives and the pupil-and-scholar quarters that surround them, beside the seat of the Halzi'a.
@@ -38,7 +38,7 @@ Khelunu (~85,000)
 The school-and-farm villages
 : the grain-country holds the usual scatter of villages of 500 to 2,500 people. Among them are [[place-gargezehuti|Gar-Gezehuti]], [[place-lutzethu2|Lut-Zethu]], [[place-yathkhelunu|Yath-Khelunu]] and [[place-zmathothu|Zma-Thothu]], several of them grown prosperous as lodging-towns for the families of pupils and for the lesser temple-schools that feed the great one at Khelunu.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]]
 : the selat that holds this land

@@ -138,7 +138,7 @@ The [[affiliation-ataros|Faith of Ataros]], the fire-faith of the [[affiliation-
 - **The Bareheaded Dunhari.** A Dunhari herder came north to be marked, went out for the forty days and came back a shaman of the tribe that took him in. The Storm Cults want him brought before the Stone of Ranaz, his dovaq has refused, and the cults have hired riders to fetch him from the caravan he travels with.
 - **The Dig.** A scholar has hired the party to excavate in the sands. The tribe whose range it is will sell water and guides but not leave to dig, and the scholar wants the digging done at night.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

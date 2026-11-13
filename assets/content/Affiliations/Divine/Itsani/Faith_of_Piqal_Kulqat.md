@@ -96,7 +96,7 @@ Women in labor call on P'iqal Kul'qat as readily as masons do, and the branch ma
 
 Blood is given at foundations and at dedications and rarely otherwise; the goddess is held to prefer work to blood, and the branch's festivals are consequently working days on which the city's craftspeople repair the temples for nothing.
 
-## Organization
+## Organization {#organization}
 
 Her theology is fundamentally optimistic. Where the solar god demands fidelity because failure ends the world, P'iqal Kul'qat teaches that failure is part of learning to build better. The ruins dotting the continent are understood not as signs of displeasure but as traces of her experiments. The **Warden of the Ruins** keeps that record deliberately—what fell, in what season, under what load—and the registers are consulted before any large work is attempted. It is the nearest thing to an engineering archive on the continent, and it exists because the branch's doctrine forbids treating a collapse as a disgrace.
 

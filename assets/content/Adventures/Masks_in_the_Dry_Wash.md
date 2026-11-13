@@ -17,13 +17,13 @@ data:
 
 Six hundred dead were put in a trench with the treasure of their shrines, and nobody read their names. A raiding band has cut into the grave, and what stands up from it is not the dead alone. The party can take the gold, put the dead down with fire or give the household its names, and each costs something.
 
-## Overview
+## Overview {#overview}
 
 The palace household of [[place-zargandur|Zargandur]] lies in a dry wash east of the city with the sacked gold of its shrines. A band of grave-robbers has dug into it for a season and has lost a third of its number. [[lore-theshadow|The Shadow]] enters the opening they have made and wears the dead. The [[affiliation-tribestrzd|Atarzád fire-priests]] say only fire puts them down, and they know it for a reason they do not tell: the grave also holds sixty of their own, thrown in three days after the fall.
 
 The adventure runs over a day and a night. The party reaches the wash in the afternoon, digs in the trench until dark and faces what rises, and the morning brings the reckoning with the garrison. The scenes can be taken in a different order when the party's choices pull that way, and the bypass notes carry play on from whichever scene is skipped.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A broker in Zargandur's quarter of the [[lore-khazrynclt|Tellumi]], a soft-spoken man who weighs silver with his eyes shut, buys any seal or signet out of the wash, no questions, and pays in barter-goods or silver by weight. The word in his back room is that the raiders have dug for a season and have not found [[miscgear-zargchain|the chain of office]], which is the piece he wants most and will not name. He lets it be understood that the last two men he sent did not come back to be paid.
 - **The mercenary or common soldier.** A [Zhoqarod]{.name data-type="affiliation/polity"} captain who is not permitted to say so wants the wash cleared. His own men will not cross the lip, and he cannot order them to without telling them why, so he pays a party of outsiders in horses, half before and half after, to go where his men will not. He pours the wine himself and does not drink it.
@@ -110,14 +110,14 @@ The adventure runs over a day and a night. The party reaches the wash in the aft
 
 **If bypassed.** A party that leaves without the lowest layer never learns the truth. They hear it from Roqeshor within the year, in the mouth of a man who has been broken by a hearing and wants an audience.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the dead are burned.** The wash is quiet for a season and the gold is lost with the bodies. The Tellumi quarter is not told, and the lamps at its doors burn for a household that no one has avenged. Hosikqenod's band scatters among the tribes, and the stories they take with them are of a grave that screamed when it burned.
 - **If the names are read.** The household is received. The Tellumi quarter learns it and lights its lamps for a different reason. The chieftain's sons, if any lived, come home with their eyes on the ground and their mouths shut. Gureshai hears of it at Amradad and sends for the party.
 - **If both rites are said.** The Zhoqarod and the Tellumi share a grave, and the garrison cannot decide what to do about it. The prefect forbids the story and cannot forbid the lamps.
 - **If the party fails.** The trench is deeper, the raiders are dead and the dead begin to walk toward the city. The east gate is shut at dusk for the first time in ninety years.
 
-## See Also
+## See Also {#see-also}
 
 [[place-relvanvesul|Relvanvesut]]
 : the grave and its gold

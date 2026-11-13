@@ -53,7 +53,7 @@ A senior factor of **the Merchant Collective** gives a newly sponsored entrant t
 
 The Collective is what the five seats of [[lore-thirdcmpct|the Compact]] have instead of a unified state. It is a mercantile federation, known as the **Vyapori Sangra** or simply the Collective, and its caravan stations run as far west as [[place-amradadrgn|Amradad]] and as far north as the [[place-khzryndsrtrgn|Khazrin frontier]]. Its five seats are [[affiliation-chendrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-shikhalaya|Shikhalaya]], [[affiliation-rajeprjnpd|Rajepur Janpoda]] and [[affiliation-dnrktjnpd|Danurkot Janpoda]], the five polities that sit in its governing body, the [[affiliation-assmblycmpct|Assembly of the Compact]]. Tradition dates its founding to [[lore-thirdcmpct|the Third Compact]], sworn at the [Mahva-Melka]{.name data-type="lore/gathering"} of 320 AF.
 
-## Overview
+## Overview {#overview}
 
 The five seats keep separate councils, separate watches and separate courts. Their great houses intermarry until they nearly amount to a single class, and they have never amounted to a single throne. The Collective is the one institution that crosses every border, taxes every road and has a hand in every mine of consequence the Compact reaches: outright where it can hold the ground, by lease where the ground is somebody's by older right, and not at all where a constitution shuts it out.
 
@@ -117,7 +117,7 @@ Kulena-rank members wear a gold pin at the collar in the shape of a balance-scal
 - **The Reform Petition.** A younger kulena, supported by a coalition of pratisthas and a sympathetic sabhra, formally proposes a labor reform at the Assembly of the Compact. The proposal would cost the older houses substantial profits, and the Speaker's procedural rulings will decide whether it reaches a vote at all.
 - **The Crown's Default.** Shikhalaya has defaulted on its Collective loans and offers, in lieu of repayment, a permanent grant of the Silver Gorges. The crown has never established that the rock is the crown's, and the smithing clans already lease it to the Collective over the crown's objection. Accepting turns a quiet arrangement into a claim the clans must answer, and every other seat of the Compact reads it as the precedent it is.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-assmblycmpct|Assembly of the Compact]]
 : the body that governs the Collective and writes its law

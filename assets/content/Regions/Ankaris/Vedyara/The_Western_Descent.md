@@ -24,7 +24,7 @@ The foothills are uplands with a desert under them, which is an unusual combinat
 
 The [[affiliation-khzrncnfdrtn|Khazrin]] hold the Descent to be their ancestral country and trace lineage-origins to named peaks above it, most of which no living member of the house concerned has seen. Their own name for it, **Dranavár**, is close enough to [[place-drenavrspn|the Drenavar Spine]] half a world away that travelers' tales confuse the two with some regularity.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-sthrnwall|the Southern Wall]]
 - [[place-dunharargn|Dunhara]] · [[place-khzryndsrtrgn|Khazrin Desert]] · [[place-drenavrspn|the Drenavar Spine]]

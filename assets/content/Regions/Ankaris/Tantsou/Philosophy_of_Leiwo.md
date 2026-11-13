@@ -114,7 +114,7 @@ Marriage, ritual and daily custom are all arranged to keep Lei flowing properly 
 
 The [Festival of Harmonious Lei]{.name data-type="lore/gathering"}. The greatest festival of the year, the Hou Lei Jwi, celebrates the continued success of the Great Sorting. The Emperor performs its central rite, an audit of the empire's Lei in which he and his Tanchei review the classification and declare it in good order. It is a religious observance, a state ceremony and an administrative procedure at once, and any failure or interruption in it is taken as a dire omen for the coming year.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-celestlrdr|Celestial Order]]
 : the bureaucracy of heaven that Leiwo explains

@@ -26,7 +26,7 @@ The mountain is a moderately sized peak, perhaps three thousand feet above the s
 
 Where the ounces go is the business of the [Gold Constitution]{.name data-type="lore/law"}: half to the three temples, a quarter to the common treasury, a quarter paid out to the households, and no household allowed to keep more than about twelve ounces of its own.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql
 SELECT s.address.slug AS _ref,
@@ -61,7 +61,7 @@ Its smiths are better than the country around them. The iron-smelting at [[place
 
 The janpoda sells gold, iron and ironwork, fine jewelry, mountain produce, and the considerable manuscripts of the Suvargeri Mahajaya tradition. About half the year's gold is sold or traded into the wider Vedyari economy, and that is the cash the common-share expenditures are met from. It buys textiles, books, gemstones, salt, and the luxuries its households can afford within the cap.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 : the temple-republic that holds this land

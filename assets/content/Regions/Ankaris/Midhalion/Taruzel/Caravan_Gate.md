@@ -8,7 +8,7 @@ tags: [taruzel, kudumel, market]
 data: {demonym: null, lore: [], parents: [qudumel2], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Caravan Gate is where the east comes ashore in [[place-qudumel2|Kudumel]]. It stands on the city's eastern waterfront facing the strait, forty miles across from the Amradi coast, and the ferries that carry the caravan goods of the [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazrin Desert Region]] over the water land there and nowhere else in the city. Everything that comes off them is counted, weighed and taxed before it passes the arch into the eastern market, and the counting is the Gate's whole purpose.
 
@@ -47,7 +47,7 @@ The Gate is busy, and its takings are down this season, while caravan goods sell
 - **The short dues.** A merchant losing sales to the cheap goods in the bazaars asks a party to watch the weigh-house for a week and tell him where the Gate's takings go.
 - **The surety's price.** [Nirabu Balinuni]{.name data-type="being/npc"} stands surety for a party on the quay, and that evening [[being-llmnblnn|Ellamuna Balinuni]] asks it, as a favor between friends, to guard the house's train into the hills.
 
-## See Also
+## See Also {#see-also}
 
 [[place-qudumel2|Kudumel]]
 : the city the Gate opens into

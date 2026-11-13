@@ -12,7 +12,7 @@ A rite that calls on the day without the night is held to have asked only half t
 
 In the tradition's account, what [[lore-uqaadty|Uqa'a]] crosses by day in light, the god crosses by night under Ithnetáu's half of the same journey. The two are read as a single road, not as a matched pair of subjects.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garithnetau|Gar-Ithnetáu]]
 : the House that holds the domain

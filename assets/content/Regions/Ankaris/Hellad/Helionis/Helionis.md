@@ -15,7 +15,7 @@ data:
 # terran_analog: the shared culture is Greek-like.
 ---
 
-## Overview
+## Overview {#overview}
 
 When the cities of Helionis meet at a sacred site for the games, they send runners, wrestlers and chariot teams against one another, and they treat taking part as a duty owed to the gods. A season later the same cities may be at war. Helionis is seven independent city-states that share a tongue, a pantheon, a calendar of festivals and an unshakable confidence in their own civilization, and agree about almost nothing else. Three million people live there, in the hills and valleys east of [[place-vylariargn|Viléria]] and along one short stretch of coast. An outsider remembers Helionis for its philosophers and its theaters, for the hetairin of [[place-kalydria2|Kalidria]], and for the fact that the [[affiliation-ordoarcanis|Thordimalon]] was born out of its academies.
 
@@ -102,7 +102,7 @@ The games
 The theaters
 : Helionite tragedy, comedy and satire, the most celebrated literary tradition in western Ankaris.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
 : how the seven cities are governed
@@ -148,3 +148,13 @@ The theaters
 
 [[skill-helonclng|Helonik]]
 : the tongue and its naming traditions
+
+[[place-athenikos2|Athenikos]]
+
+[[place-korinthea2|Korinthea]]
+
+[[place-kostarosdst|Kostaros District]]
+
+[[place-pelagora2|Pelagora]]
+
+[[place-theradon2|Theradon]]

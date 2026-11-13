@@ -62,13 +62,13 @@ The legions held the islands' coasts first. In the decade after, they turned to 
 
 They manned the forts with the people who knew the hills. Hill horsemen, hired on the [[affiliation-vylarinmpr|Empire]]'s pay, held the line against the bands the Storm might scatter and against one another. The practice outlasted the Storm: Taruzelian auxiliaries served in the imperial army for over a century, and many of them were the hill tribes' sons.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The forts and the road.** Ruined hill forts and a road that runs between them across the larger islands' interior, unmaintained since the revolution.
 - **The auxiliary tradition.** The hill tribes' habit of serving the Empire for pay, which supplied the Empire's eastern auxiliaries for a century and the foot soldiers of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] in the war of independence.
 - **Long acquaintance with legion pay.** The tribes know exactly what imperial silver is worth, and what the guilds' coin is not.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
 : the host the line was built against

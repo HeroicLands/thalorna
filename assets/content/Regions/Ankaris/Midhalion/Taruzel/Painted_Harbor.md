@@ -8,7 +8,7 @@ tags: [taruzel, port, district]
 data: {demonym: null, lore: [], parents: [bazunel2], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Painted Harbor is the waterfront of [[place-bazunel2|Bazunel]], a curve of quays and houses round the head of the city's bay on the southern shore of [[place-tashilar|Tashilar]]. It runs from the fish market on the eastern quay to the foot of the [[place-designyards|Design Yards]] on the western arm, about a mile of stone quay, and most of what Bazunel is known for stands on it or within sight of it: its merchant houses, its theaters and its taverns.
 
@@ -43,7 +43,7 @@ The season is on and the money is nervous. A theater's patron has withdrawn in t
 - **The costumes.** [[being-brshrskn|Abarash Rusakuni]] pays a party to learn who holds the oldest theater's loan, because whoever holds it is buying the theater cheaply.
 - **The dark stage.** The manager of the company whose patron withdrew hires a party to learn why before the other patrons hear of it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-bazunel2|Bazunel]]
 : the city of the harbor

@@ -98,7 +98,7 @@ That second purpose is the one the serpent-keepers actually manage, and they man
 
 Ordinary devotion is simpler and more constant. Households keep a jade chip or a green feather at the doorpost against the wind; travelers caught in the open give blood where they stand rather than wait for shelter; and a hurricane season passed without loss is answered with offerings at the next rain-calling, not with thanksgiving, since the god is not thanked for restraint he may withdraw.
 
-## Organization
+## Organization {#organization}
 
 The ne'tq'an (water-priests) spend significant time at high-altitude temples, enduring exposure to lightning and storm. Many cultivate distinctive appearances—long hair woven with feathers and storm-talismans, visible scars from lightning strikes worn as insignia. A priest struck by lightning and surviving is considered marked by P'uqil Ch'akun for special purposes, though the experience often leaves them scarred or slightly mad. Such a **Lightning-Marked** priest holds no fixed place in the hierarchy and is, in practice, outside it: he may contradict a Ch'alish in open ceremony without sanction, and the branch treats whatever he says as data to be recorded rather than as insubordination.
 

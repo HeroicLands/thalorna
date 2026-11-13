@@ -8,7 +8,7 @@ tags: [site, desert, ruin, temple]
 data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Sleeping Pyramid, Kul'qat Ishan, lies in the sand seas of northern [[place-chakultzklrgn|Ch'akul Tsa'kul Region]], under a dune. Most years nothing of it shows but a small square shrine of white stone sitting on a dune crest, with a doorway on each side, like a hut someone built on the sand. In some years the dune moves off it, and a pyramid of five smooth tiers stands in a hollow of the sand, plastered white and banded with red, with the shrine on its top. No two years show the same part of it.
 
@@ -28,7 +28,7 @@ The clear rooms hold what the sand has kept. Jars of painted clay stand along th
 
 The traders say the pyramid shows itself after a winter of hard west winds, and that a party should leave it before the wind turns.
 
-## See Also
+## See Also {#see-also}
 
 [[place-chakultzklrgn|Ch'akul Tsa'kul Region]]
 : the desert and its sand seas

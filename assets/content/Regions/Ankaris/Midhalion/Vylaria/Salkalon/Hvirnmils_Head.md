@@ -8,7 +8,7 @@ tags: [coast, headland]
 data: {demonym: null, lore: [bankedfire], parents: [salkhalon], population: 0, packFolder: vylaria}
 ---
 
-## Overview
+## Overview {#overview}
 
 Hvirnmil's Head is the north headland of the bay at [[place-braldvik|Bralvik]], a blunt shoulder of turf and gray rock that stands between the town's beach and the open sea. It is the first thing a boat sees of Bralvik coming in from the fishing grounds and the last thing it loses going out. The town named it for [Hvirnmil]{.name data-type="being/npc"}, the Malagna captain whose crew dug in on its top after the bay burned, and it is the reason the town carries a northern name at all ([[lore-bankedfire|The Winter of the Banked Fire]]).
 
@@ -38,7 +38,7 @@ The Head is the town's sea-mark and the Salken family's charge, and strangers ar
 - **The runes read.** A northern sailor ashore from a merchant ship climbs the Head and reads the nine stones aloud. Each names a man of the crew and his hall, and the last of them adds that his share lies with the fire.
 - **The overdue fire.** The fire is lit in the hollow for a Bralvik boat three days overdue, and on the second night a light answers it from far out to sea, where no boat of the town should be.
 
-## See Also
+## See Also {#see-also}
 
 [[place-braldvik|Bralvik]]
 : the town below it, and its Coal Night

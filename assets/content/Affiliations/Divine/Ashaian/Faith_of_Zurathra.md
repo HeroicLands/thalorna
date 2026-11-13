@@ -75,7 +75,7 @@ Festivals honoring Zúrathra fall at the times of greatest seasonal stress: duri
 
 Among the [[affiliation-khzrncnfdrtn|Tellumi]] of the Khazrin she receives the deepest popular devotion of all the twelve. Every Tellumi oasis, and every Tellumi quarter inside a city of the [[affiliation-tribestrzd|Tribes of Atarzád]], keeps her shrine at its principal water-source. Her great shrine at the [[place-oasishirvn|Oasis of Shirvan]] was destroyed in the Breaking, and the Atarzád keep an offering flame of Ataros burning over the holy spring.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Zúrathra is unique among the Ashaian cults in being almost entirely composed of women, though men are not forbidden from serving and occasionally do so in strictly subordinate roles. The hierarchy is clear: the Shekhul of Zúrathra is always a woman of considerable age, typically a former midwife of great renown, and she oversees a network of Delkoshekhs who serve the springs and oases, most often women who have borne children and understand the mysteries of blood and birth. Below them are the Roqeshekhs—initiates who may be of any age, though young women who show aptitude for healing are encouraged to join. The order maintains a system of apprenticeship that begins in childhood; girls marked as having the gift for midwifery or herbalism are taken into the temples as soon as they can walk, and they spend years learning the secrets of healing, the properties of plants that grow at springs and oases, and the prayers and rituals that accompany childbirth.
 

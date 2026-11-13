@@ -36,7 +36,7 @@ Every hall teaches that the first two were made without death in them, and that 
 
 Whichever account a hall keeps, it tells the same ending. When Hrandmil was gone, Dvarnrinna raised the first howe over him, poured the first cup at it, and drank the first grave-ale—the _hrúmsminni_ every heir in the north still drinks before taking a dead man's seat. The north's whole manner of burying its dead, from the pyre to the howe, is held to start with her, and is set out in [[lore-nrdlndsfnrl|the Pyre, the Ship and the Howe]].
 
-## See Also
+## See Also {#see-also}
 
 [[lore-motefnirdty|Mótefnir]]
 : the Maker who pressed the first two out of the clay

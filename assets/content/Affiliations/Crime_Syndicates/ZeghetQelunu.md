@@ -38,7 +38,7 @@ A hunter of the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], asked about the **Zegh
 
 Poaching at scale needs arrangements: a Taker, a Carrier, a Buyer, and an Official Who Looks Elsewhere, none of whom need meet. The ring is organized along military lines and has resources to match. Those arrangements are recorded, because nobody in that chain would otherwise trust the next. It is the recording rather than the poaching that brings priests into the matter.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-zeghetnelgu|Zeghet'Nelgu]]
 : the hunt that keeps the river's beasts

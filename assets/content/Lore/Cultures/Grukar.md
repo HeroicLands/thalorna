@@ -143,7 +143,7 @@ The wrong the Grukar commit by their own purpose is the tribe that dies in good 
 
 The blind spot is that the tribe eats its own best minds. The knowledge a guest carries goes into the next laying, and the guest does not; a tribe that keeps what its Sha learned keeps none of its Sha's ability to learn more. The Sha are the only Grukar that see either fault, and they have no way to say it. When the end of a dying tribe is plain enough, two Sha of one mind find a Hushk with a grievance, raid the spawn-chamber, cut out a proto-Ahk and run with it until it wakes fertile. Half the tribe lives. The other half stays where it stood, in the ordered care of its spawner, and dies of whatever drove the others out.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-grukarfolk|Grukar Folk]]
 : the body, the castes, the spawner and the invitation to dinner

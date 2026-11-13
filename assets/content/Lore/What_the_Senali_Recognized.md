@@ -22,7 +22,7 @@ The Senali have given no public account of their visit to the island, and their 
 
 Comparisons with other accounts and possible interpretations belong to [[doc-itharigm|The Ithari (GM)]]. None changes what this record says.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-flksenali|The Senali]]
 : the elder people who reached the island and were refused

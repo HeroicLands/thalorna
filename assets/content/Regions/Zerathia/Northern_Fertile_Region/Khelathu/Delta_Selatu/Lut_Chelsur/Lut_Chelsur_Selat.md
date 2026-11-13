@@ -15,7 +15,7 @@ data:
   government: selatltchlsr
 ---
 
-## Overview
+## Overview {#overview}
 
 Lut-Chelsur Selat is the land of [[affiliation-selatltchlsr|the Selat of Lut-Chelsur]], one of [[affiliation-deltaselatu|the Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the eastern marsh of the delta, where the great crocodile cult and the river-beast hunters make their living.
 
@@ -25,7 +25,7 @@ Lut-Chelsur Selat is the land of [[affiliation-selatltchlsr|the Selat of Lut-Che
 
 The selat is marsh, and the hunters are its particular trade. On the firmer ground the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-chelsur|Chelsur]] and its estates hold the marsh's richest ground.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-lutchelsur|Lut-Chelsur]] (~38,000)
 : the selat capital and the seat of the Halzi'a.
@@ -33,7 +33,7 @@ The selat is marsh, and the hunters are its particular trade. On the firmer grou
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatltchlsr|The Selat of Lut-Chelsur]]
 : The selat that holds this land

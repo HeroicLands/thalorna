@@ -14,13 +14,13 @@ data:
   government: provncmktr
 ---
 
-## Overview
+## Overview {#overview}
 
 Pinnhald is a logging town of about three thousand on the forested slopes of [[place-moktur|Moktur]], where timber is felled and floated down the mountain rivers toward the lowland yards and the shipwrights of [[place-salkhalon|Salkalon]]. A raftsman tying off at the town landing tells you who to ask for when you arrive: the headmen, and after them the timber-lords who hold the cutting-rights.
 
 The people are half-[[lore-varokhiclt|Varokh]]. They speak the border patois and keep customs the southern priests frown on. The imperial chancery counts Pinnhald Vilérian, but the town answers first to its own headmen and to the timber-lords.
 
-## Arriving
+## Arriving {#arriving}
 
 Pinnhald is built of its own trade. The town stands where a forest river comes out of a gorge into a wider valley, and everything in it is timber: houses of squared logs with roofs of shingle and turf, a palisade of whole trunks round the upper town, and a landing of piled logs along the river where the rafts are made up. The air smells of resin and wet bark. In spring, when the snow-water comes down, the river is full of logs from bank to bank, and the raftsmen walk on them with long hooked poles.
 
@@ -34,7 +34,7 @@ Pinnhald lives by cutting and floating. The timber-lords hold the cutting-rights
 
 The town's own customs are the forest's. A cutting crew leaves one tree in three standing where it cuts, the straightest, and a crew that cuts a stand clean is put out of the town's work for a season by the headmen. The custom is older than the cutting-rights and the timber-lords keep it, because the headmen choose the crews.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 The chancery counts Pinnhald a chartered town of the province, with two _tavemoi_ (magistrates) and a council. In practice the _tavemoi_ are chosen from among the headmen, and the council is the headmen's hall by another name. The first of the headmen is [[being-sundriththal|Sundrith ira Thalruvan wur Pinnhald]], an old raftsman who has made the spring run thirty times, and a quarrel in the town goes to him and the other headmen before it goes anywhere else. The _therkos_ sends a clerk up in summer to count the rafts and take the province's share, and otherwise leaves the town alone.
 
@@ -42,7 +42,7 @@ The chancery counts Pinnhald a chartered town of the province, with two _tavemoi
 
 The headmen under Sundrith keep the town's own customs hard: a crew that felled one of the straight trees the custom leaves standing has been put out of the town's work, and its leader swears another crew marked the tree. A raft of mast timber and its four raftsmen have vanished on the spring run. A priest of the southern faith wants to make an offering in the headmen's hall, and the headmen have refused him the door.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The [Landing House]{.name data-type="place/structure"} by the river takes raftsmen and buyers, and a party can sleep there for very little in any season but the spring, when it is full. A guest with a letter to one of the headmen sleeps in the headman's house, and eats with his family.
 
@@ -52,7 +52,7 @@ The [Landing House]{.name data-type="place/structure"} by the river takes raftsm
 - **The priest's offering.** A priest of the southern faith has come up to Pinnhald to make an offering in the headmen's hall itself, by order of his temple, and the headmen have refused him the door. He asks a party to help him persuade them, and the headmen ask the same party to see him safely back down the road.
 - **The marked tree.** A cutting crew has felled one of the straight trees the custom leaves standing, and the headmen have put the crew out of the town's work. The crew's leader swears another crew marked the tree as theirs to cut. He wants a party to prove it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provncmktr|Province of Moktur]]
 : parent province

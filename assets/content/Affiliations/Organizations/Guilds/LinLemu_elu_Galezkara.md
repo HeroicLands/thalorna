@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Lemu elu Galezkara** is the mutual aid society of the household servants of [[place-galezkara|Galezkara]], open to any servant willing to pay into its common fund. The fund covers the three hazards a servant's own wages rarely do: sickness, dismissal and burial. Most servants join before they need it.
 
@@ -54,7 +54,7 @@ The households that employ its members are the reason the fund exists. The socie
 
 The common fund is the society's whole purpose. Say a footman is dismissed without warning on the day a household changes its steward. He goes to the society, the fund pays out immediately, and he lives on it while he finds a new post. A servant too sick to work draws on the same fund, and so does the family of one who has died and needs burying. The contribution is paid in copper by those who can spare nothing larger.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The city whose household servants make up its membership

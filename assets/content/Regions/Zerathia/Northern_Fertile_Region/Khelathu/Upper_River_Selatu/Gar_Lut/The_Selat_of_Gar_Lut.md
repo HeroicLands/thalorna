@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "Water first, then everything else," the Canal-Warden of [[place-garlut|Gar-Lut]] tells a surveyor sent to look at his works. "The gardens, the shrines and the grain all stand or fall on the ditches, and a ditch that is not cleared in its season does not forgive you."
 
@@ -65,11 +65,11 @@ The Selat of Gar-Lut is one of the upper-river selatu of the [[affiliation-empir
 
 The seat is Gar-Lut, where the Halzi'a keeps his court and the chief temple of [[affiliation-uznera|Uzn'era]] stands. The Canal-Warden keeps the irrigation works on which the selat's harvest and its tax depend. Uzn'era's teaching, that creation needs the partnership of a masculine and a feminine principle, is the foundation of the standing [[lore-khelathiclt|Khelathi]] women hold in law, and her priestesses take high office in the temples.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gar-Lut uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : parent selat class

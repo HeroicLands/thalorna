@@ -24,12 +24,12 @@ Pilgrims climbing to the source stop on the top terrace for the view, which runs
 - **Correspondents of [Shemapal Rajapali]{.name data-type="being/npc"}** and other scholars of the kingdom, who want the stone the first kings were hallowed on and have not found it.
 - **The upper-river villages**, whose goats graze it and whose elders tell the legend.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The buyer.** The hill has been bought, quietly, through two intermediaries, by a family of the upper river. The Memory-Keeper's recitation names in each generation the collateral heir of the Mahanodi line, the one who would have reigned, and that heir's family is alive and holds land upriver. The kingdoms that call Shemapal a radical would find a living Mahanodi heir more useful than a dead precedent, and so would Shemapal.
 - **The stone face-down.** A pilgrim party sheltering on the terraces from a storm finds a cut altar-stone lying face-down under the turf of the second terrace, older in its working than [[place-sandstonealtr|the sandstone altar]] at Rajepur. Turning it over is a day's work for ten men, and the village does not want it turned.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-mhndkngdm|The Kingdom of Mahanodi]]—the kings who may have sat here
 - [[lore-foundingage|The Founding Age]]—the age of the old seat

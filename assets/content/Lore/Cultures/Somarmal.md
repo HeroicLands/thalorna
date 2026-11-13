@@ -25,7 +25,7 @@ On the frontier, neighbors use the season to settle where one household ends and
 
 A stone found moved becomes a matter for the ting: the mover, or the mover's kin after death, must answer the claim. The tale says a stone-mover whose kin refuse that duty comes back after death carrying the stone, still asking where to set it. A child who hears it does not forget where a boundary runs, though the ting settles title on the word of living witnesses.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-nordheimnclt|Nordheimn]]
 : the boundary rite and the ting's peace

@@ -75,7 +75,7 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 In the Province of Moktur the _therkos_ (governor) is a soldier, and some _therkoi_ behave as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The province is mountainous, lies on the [[place-vrystwald|Vristwald]] border and answers for the defense of the frontier against Varokh raids and incursions, and its military _therkoi_ command wide autonomy. The Province of Moktur holds the land of [[place-moktur|Moktur]], and its _therkos_ sits at [[place-tyrellan|Tirellan]]. The [[affiliation-vylarinmpr|Empire]] organized the province as a march when it cut [[lore-legionsroad|the Legions' Road]] north into the Vristwald, and the marshes below its passes saw [[lore-blackmarshbtl|the Battle of the Black Marsh]].
 
@@ -115,7 +115,7 @@ The province's other quarrels are the frontier's.
 - **The forest.** [[place-pinnhald|Pinnhald]]'s headmen keep the town's customs hard, and a raft of mast timber and its four raftsmen have vanished on the spring run.
 - **The metal.** Every power in the province wants a share of [[place-ferrovan|Zargonara]]'s silver, a clerk of the revenue finds its books too tidy, and the children of [[place-stennvold|Stennvold]]'s furnace crews are dying of a winter cough.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Province of Moktur uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
@@ -135,7 +135,7 @@ The watchtowers of the northern march count the smoke at dusk, and their sergean
 - **The surveyor.** The clerk of the [[affiliation-imperialoffices|Imperial Offices]] measuring the province's road wants a guard, because the last man sent on the errand came back with a broken leg.
 - **The second book.** A clerk of the revenue at [[place-ferrovan|Zargonara]] hires a party to watch a weighing on the Silver Floor.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : parent polity

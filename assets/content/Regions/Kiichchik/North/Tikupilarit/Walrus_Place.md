@@ -15,7 +15,7 @@ data:
   packFolder: tikupilarit
 ---
 
-## Overview
+## Overview {#overview}
 
 Kavrumiq, Walrus Place, stands on a cape in the middle of the [[place-tikumanikrgn|Ice Coast]], above a gravel beach where walrus haul out in hundreds every spring and autumn. About 600 people live in it, the largest village of the [[affiliation-tikupilarit|Tikupilarit]]. Its men's house, dug into the beach ridge at the root of the cape, is the greatest on the coast: forty paces around, roofed with driftwood logs a man's thigh thick, with room on its benches for every man and boy of the village and their guests from three others.
 
@@ -33,7 +33,7 @@ The speaker of the men's house is the oldest man of the village and the most lis
 
 Kavrumiq hosts more Messenger Feasts than any other village, and guests come to it from the river villages and the islands. It gives walrus hide for boat covers, oil and ivory, and takes dried fish, caribou skins, wood and bird skins in return.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tikupilarit|Tikupilarit]]
 : the Ice-Edge People and their villages

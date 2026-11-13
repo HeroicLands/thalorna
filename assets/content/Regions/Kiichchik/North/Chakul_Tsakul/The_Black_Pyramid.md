@@ -8,7 +8,7 @@ tags: [site, desert, ruin, temple, dragon]
 data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Black Pyramid, Kul'qat P'uqan, stands at the closed end of the deepest box canyon in the central badlands of [[place-chakultzklrgn|Ch'akul Tsa'kul Region]], where the canyon walls rise sheer on three sides and the sky is a strip overhead. It is a pyramid of seven steep tiers built of a dense black stone, with a single stair up its face and a temple on its top, and it fills the end of the canyon from wall to wall. It is the lair and treasure house of the [[being-mtrfrdrg|Mature Fire Dragon]] that holds the badlands.
 
@@ -26,7 +26,7 @@ The temple on the top is a single long room with a doorway wide enough for the d
 
 Nobody comes to the Black Pyramid but thieves and those who come to kill the dragon, and the bones on the glazed road are most of them. The guides of the badlands take a party to the mouth of the canyon and no further. The traders who leave tribute at the foot of the dragon's mesa speak of the pyramid as the dragon's house and nothing else, and they know no name for it but the black one.
 
-## See Also
+## See Also {#see-also}
 
 [[being-mtrfrdrg|Mature Fire Dragon]]
 : the dragon that keeps its hoard here

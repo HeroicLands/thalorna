@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Zethu elu Au'Khelathu** is the chartered guild of the scribes of [[place-aukhelathrgq|Au'Khelathu]], and no court or ministry treats a document as the original record unless a certified member made it. The guild sets the hands a document must be written in and examines every pupil before certifying her. It also holds [[affiliation-lutzethu|Lut-Zethu]] (the Imperial Library), through a Keeper who grants or refuses a reader's permission.
 
@@ -58,7 +58,7 @@ The guild's two great relations are with the library it holds and the offices th
 
 A certified scribe's document is what a court or ministry accepts as the original record, and a clerk without certification can copy a text but cannot make one. Say a merchant in the capital needs a lease entered in the proper hand. He goes to a Zethu, who writes it, and the court receives it. If he goes to an uncertified clerk to save the fee, the court sends it back, and he pays twice. The fee is paid in silver, and the guild keeps its authority by keeping the examination hard.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-lutzethu|Lut-Zethu]]
 : The Imperial Library

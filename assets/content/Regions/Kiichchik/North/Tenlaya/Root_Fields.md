@@ -17,11 +17,11 @@ data:
 # terran_analog: the Columbia Plateau and the northern Great Basin, with the camas prairies of Idaho and Oregon, the Snake and Columbia gorges, and Celilo Falls for the salmon falls; the western bands draw on the Plateau peoples in their way of life only
 ---
 
-## Overview
+## Overview {#overview}
 
 Come over the western passes in late spring and the first thing you see below you is blue: whole meadows of small blue flowers, acres of them, in the wet hollows of a sagebrush plateau, with women and children bent over them digging with sticks. The flowers grow from a bulb the size of a thumb, sweet when it is baked in a pit for two days, and the meadows are why the western bands call their country Potonta Yunto, the Root Fields. It is the dry country of the [[affiliation-tenlaya|Tenlaya]], the Grass People, beyond the mountains: plateaus of sage and bunchgrass, river gorges a thousand feet deep, and basins to the south where the rivers run into salt lakes and vanish. About 60,000 people live in it, all in bands.
 
-## The Land
+## The Land {#the-land}
 
 The plateaus lie between the western mountains of the [[place-wehioshtergn|Cairn Plain]] and the coast range, high, dry and open, with the snow-peaks standing above them on both sides. Rivers cross them in deep gorges of dark rock, and the greatest of them runs west through a canyon to the sea. The weather is harder than on the plains: hot and dusty in summer, bitterly cold in winter, with little rain in any season, and what grows is sage, bitterbrush, bunchgrass and, wherever there is water in spring, the root meadows.
 
@@ -45,7 +45,7 @@ West, beyond the coast range and its passes, lies the cedar coast of the [[affil
 
 The Root Fields are the meeting place of the plains and the coast. Robes and bison meat come over the passes from the east, shell and coastal goods over the coast range from the west, and both meet at the falls, where the western bands trade them on with their own dried salmon and roots. Obsidian from the volcanic country to the south goes east to the plains as arrowheads. A traveler going from the Grass People to the Cedar People or back goes through the falls in summer or not at all, because the passes close in winter.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tenlayargn|Tenlaya Region]]
 : the land of the Grass People

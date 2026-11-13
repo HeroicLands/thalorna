@@ -77,7 +77,7 @@ Every child in the empire is tested at the age of ten. A child of the [[lore-wan
 
 In the [[lore-phlsphyleiwo|Leiwo]] framework the Nouwen are the tenders of the earth's Lei: their labor draws its generative force into grain and keeps the empire's most basic balance from tipping.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : rights and restrictions governing the Nouwen

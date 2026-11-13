@@ -14,7 +14,7 @@ data:
   packFolder: vrystwald
 ---
 
-## Overview
+## Overview {#overview}
 
 Grimholt sits at a river landing good enough to have grown past what a [[place-vrystwald|Vristwald]] clearing usually holds, and four hundred and fifty people live by exactly that: furs coming down from the northern taiga and grain-belt goods coming up from the [[place-velanthrgn|Velanthian]] frontier both change hands at Grimholt's wharves, and the village has fortified itself the way any landing worth raiding eventually has to. It remains, by the only measure that matters here, a village rather than a town—nothing about how it is governed changes with its size, and the same council of elders that would run a clearing of fifty runs this one of four hundred and fifty. Grimholt keeps the sturgeon as its totem, a fish that outlasts flood and drought by moving slowly and committing to nothing it cannot sustain, which describes the village's council about as well as it describes the river.
 
@@ -22,7 +22,7 @@ The women who work the landing set the prices and keep the reckonings, as they d
 
 Grimholt's one standing argument is with the tribes further up the same river, who hold that a landing fortified this well has started acting like something more than a village even if its council insists otherwise—a complaint the upriver villages bring to the [[place-waldburg|Waldburg]] market every season and never see resolved, because resolving it would mean admitting a Varokh settlement can become a town.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vrystwldtrbs|Vristwald Tribes]]
 : The independent villages whose furs pass this landing

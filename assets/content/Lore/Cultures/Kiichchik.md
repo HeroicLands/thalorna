@@ -186,7 +186,7 @@ The sin the Kì'ìch'chik admit is the taking of farmers. The captive-hunt is fo
 
 The blind spot is the one the ledger cannot see. The Warden of the Debt announces the city's blood every month, to the drop. Nobody announces the households that sold themselves in a hungry year while the festival granaries stood full, because the granaries are the god's and the hunger is the household's. The [[affiliation-pikob|Owl Keepers]] say that a city which counts its blood and not its hunger is keeping the wrong account, and that the Fifth Age is owed people as much as it is owed blood. The priests of K'anish Ha'kan answer that the granaries feed the whole city at the harvest, and that a granary emptied in the hungry season is a festival the god does not get. Ishkul Puq'em Tsul has refused to take farmers all his life, and Nelush Ts'alam K'ushi has refused to let the priests leave a dead mother out of the ledger, and neither of them has changed the count.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kiichchik|Kì'ìch'chik Continent]]
 : the continent, its peoples, and the Speaking Road that binds the cities
@@ -208,6 +208,8 @@ The blind spot is the one the ledger cannot see. The Warden of the Debt announce
 
 [[affiliation-ixilankul|Ish'ilankul]]
 : the paramount realm, its wards and its houses of youths
+
+[[lore-southkiichchikclt|Southern Kì'ìch'chik]]
 
 ## Glossary {#glossary}
 

@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "The streets were laid for more people than we are, so we use the half that has roofs," a Legha'lutu whose estate runs up to the edge of the empty quarter tells a visitor from the capital.
 
@@ -65,11 +65,11 @@ The Selat of Magu-Thelqen is one of the eighteen provinces of [[affiliation-uppe
 
 The estates are the working part of the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs through the Legha'lutu who rule them, each answerable to him for the manor, the fields and the village that belong to it, and in [[place-maguathen|Magu-Thelqen]] those estates carry the weight the empty city cannot. The city is the work of the house of [Thelqen'Relu]{.name data-type="affiliation/lineage"}, the house of the sun, and it emptied when the temples of the [[affiliation-qearet|Faith of Qe'aret]] and the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] refused the house's doctrine and the court went home to [[place-galezkara|Galezkara]] ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]). The seat is Magu-Thelqen, where the Halzi'a keeps his court and the chief temple of [[affiliation-uqaa|Uqa'a]] stands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Magu-Thelqen uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : Parent selat-class

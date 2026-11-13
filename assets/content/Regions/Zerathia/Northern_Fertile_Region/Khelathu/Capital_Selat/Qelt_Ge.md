@@ -18,7 +18,7 @@ data:
 
 **Qelt-Ge** (the Forefront) is the monumental plaza of [[place-galezkara|Galezkara]], at the head of the [Bridge of the Coming-Forth]{.name data-type="place/structure"}, where [[place-waluqaa|Wal-Uqa'a]] meets the river facing the sacred island. It is the civic heart of the capital: proclamations are read here, and the great crowds of the city gather on this ground before anywhere else. Whatever Galezkara needs the whole city to hear is said first at Qelt-Ge, and only afterward anywhere else.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : The imperial city

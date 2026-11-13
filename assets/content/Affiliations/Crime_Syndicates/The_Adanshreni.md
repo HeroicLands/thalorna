@@ -134,7 +134,7 @@ Vedyara is a subcontinent, and the Adanshreni is dominant without being sole.
 - **The wrong client.** The Twilight House has sold intelligence to a client whose interests the shrena opposes. The standing arrangement between them is about to become a standing quarrel.
 - **A succession.** A Shroshtin has died without the Sabhra agreeing on a successor, and two craft-lines are arming.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]
 : the syndicate model this shrena is not

@@ -49,7 +49,7 @@ A day's ride west of the mound, on a rock that stands clear of the salt, an Amra
 
 From the Amradi shore the route runs south through the oasis towns and then by the long wells to the northern tent of the toll. From [[place-ghavulavad|Ghavulavad]] the road is nine days over open sand. A guide who knows the Floor charges more than one who does not, and one who knows it well will not take a traveler to the mound itself.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The crown.** A thief has heard that the master's iron crown went into the storm with him, and that lightning cannot melt it.
 - **The watch.** A soldier is posted to the Kinless Watch, where nobody owes him water and the nights are loud.
@@ -57,7 +57,7 @@ From the Amradi shore the route runs south through the oasis towns and then by t
 
 [[scenario-irncrwnstrm|What Walks Above the Pale Floor]] gives these as a five-scene adventure.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the lineages and the Council that denounced the master

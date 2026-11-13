@@ -17,13 +17,13 @@ data:
 
 A hall-lord of the [Age of Halls]{.name data-type="lore/calendar"} sits in his high seat under a bare fell, with his dead war-band at the benches and the grave-ale owed to him still undrunk. A hidden servant of [[lore-nahilddty|Nahild]], the corpse-goddess, has set a shard of black glass in his ship to hold him there, and means to turn the oldest oath on the pass into a weapon. The party climbs to the howe to find out what the dead man wants and what it will cost to give it to him.
 
-## Overview
+## Overview {#overview}
 
 Above the farms of [[place-horgsvangur|Horgsvangur]], the pass road runs under the fell of [[place-unthmylsfell|Unthmilsfell]]. Under the turf lies the ship of [Unthmil]{.name data-type="being/npc"}, who held the pass before there were kings. His heir died beside him, nobody drank the grave-ale, and in the north's reckoning he is a dead man still in his chair. That was a sorrow and not a danger until a **Drottmadur of [[affiliation-nalok|Nalok]]**, [Knirvthann]{.name data-type="being/npc"}, climbed the fell in the autumn and set a shard of black glass cut from the ice of [[place-dvilgvatan|Dvilgvatan]] into the ship's prow-post. The glass gives [[lore-theshadow|the Shadow]] a place to grip. The dead hall now wakes by night, the war-band stands at the toll-cairns on the pass road, and Knirvthann means to bind the hall-lord as a [[lore-nagengir|nágengir]] and the war-band as [[lore-haugverdir|hrúmverdir]] for a hidden hov.
 
 The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard of it and cannot spare the warriors.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A fence in the trading stead below Horgsvangur will pay for hack-silver of the old make, which the traders say lies in the ship of Unthmil. He does not mention the toll-stones. Taking goods from a howe is theft from the dead and the line together, and the thief knows it. The fence knows it too, and pays well enough to be forgiven.
 - **The mercenary or common soldier.** [Hrandinda]{.name data-type="being/npc"}, a sworn warrior of the Raven Guard, needs strong arms to carry the baggage and hold the road behind her while she sets a ward on the howe. The Guard cannot send a company, and she has the pay of three men in her own purse.
@@ -110,14 +110,14 @@ The [[affiliation-ravenguard|Raven Guard]] of [[place-odholm|Odholm]] have heard
 
 **If bypassed.** A party that leaves the stern at once hears of the tally from Hrumrún within a season, when a herder finds a bone case on the fell and brings it to her.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the cup was drunk.** The war-band falls and the toll-stones go quiet. The drinker is named among the district's old halls, and the herders send the door-seat share to the drinker's own table. The hold of the Nalok on the pass is broken, and the black glass in the prow-post goes dull.
 - **If the shard was broken without the cup.** The Shadow loosens its grip and Unthmil subsides into the long restlessness of an unreceived dead man. The toll-stones stop their questions and begin to ask for something else.
 - **If Knirvthann escaped.** He carries the tally to his Dróttstjori, and another howe is seeded within the year.
 - **If the party failed.** Unthmil becomes a nágengir, the war-band becomes hrúmverdir, and the pass road is closed until the Raven Guard can find the warriors to open it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-unthmylsfell|Unthmilsfell]]
 : the howe and the hall under it

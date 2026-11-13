@@ -67,7 +67,7 @@ Kinship here is literal to a degree outsiders find disturbing. A Kolembozi who l
 
 Each dangerous reach and each ford has its own protocols, its own required offering and its own Guardian, and the requirements do not transfer between them. This is why no Spirit-Speaker holds two crossings: what keeps a person alive at one is not what keeps them alive at the next, and a shaman who confused them would be believed to have killed whoever followed him.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-crocodilekolembozispr|Crocodile Spirit]]
 : the guide as a being, apart from the practices of its cult

@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 A square of dressed stone stands on the grass-and-dust country of the [[place-wlqtrrgn|Volketor]], the grass range, a hundred miles beyond the last caravanserai of Bizaria's [[place-eastrnmrch|Eastern March]]: four walls twenty feet high, a tower at each corner, a single gate facing west. It is the work of the [[affiliation-vylarinmpr|Vilérian Empire]], which in its height drove a handful of such forts into the western margin to watch the grass road east. The tribes call it Oroqid, the camp, as they would any place a force of strangers halted, and they never found a reason to rename it.
 
@@ -39,7 +39,7 @@ The tribe that waters at the cistern keeps the gate clear and the courtyard swep
 - **The standard.** The Vilérian official wants one standard out of the strongroom and will not say why. He pays a party to bring it out, and he means to see that nobody else does.
 - **The tribe's price.** The tribe that holds the cistern has been told the official is coming. Its elders want to know what he wants before he arrives, and they charge a larger price still to anyone who goes into the headquarters.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : who built it

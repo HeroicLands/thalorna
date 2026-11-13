@@ -21,7 +21,7 @@ The crocodile is the god's creature and not the god. A cull is therefore a servi
 
 On one stretch of [[place-zumeleshrvr|the Zumelesh]] the same god is held under a noble family's charter and goes by the name [[lore-igelnarudty|Igelnaru]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-chelsur|Faith of Chelsur]]
 : the cult and its offices

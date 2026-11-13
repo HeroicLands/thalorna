@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [dunhardsrtrgn], population: 0, packFolder: dunharadesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Stone of Ranaz is an ancient hill-shrine where three tribal territories of the [[place-dunhardsrtrgn|Dunhara]] meet, and because it belongs to all three it belongs to none. It is where the Dunhari gather when something concerns more than one tribe: the warriors and the storm-cult elders at the season-turns, and petitioners whenever a wrong is too large for a single chieftain to answer.
 
@@ -26,7 +26,7 @@ The Council’s authority was challenged by [Vahrun Marzuvan]{.name data-type="b
 
 The Warrior’s Circle is at rest between gatherings, with no host in the field. The next season-turn brings its standing questions to the Stone: Sovidur raiders, contested wells, borders tested by the Tellumi Confederation and the dead against the southern pastures. [[being-shadznkmrz|Shadezan Kamruz]], the storm cults’ most prominent recognized vessel, has led the gathered warriors twice in the last decade.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
 : the pan-tribal circle that meets here

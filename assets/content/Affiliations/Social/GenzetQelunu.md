@@ -50,7 +50,7 @@ In a land where a name in a record binds the person it names, the circle keeps i
 
 If you are offered a ledger, ask what is in it and not who wrote it. The second question ends the sale.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the region it belongs to

@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 The women of **Gar-Theqeru** carry influence in their own right, and not only through the men they married into the family. The house is a noble one of [[place-aukhelathrgq|Au'Khelathu]] whose patronage reaches into the healing trades, funding physicians and the preparation of remedies that a less generous house would leave to the temples alone. A healer who gains the house's patronage gains the standing that comes with it, and loses it just as visibly if the house withdraws support.
 
@@ -56,7 +56,7 @@ The house funds physicians and the preparation of remedies. A healer's standing 
 
 If you are a healer looking for backing, bring a record of cases the house can read. The house funds work it can see.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : The region it belongs to

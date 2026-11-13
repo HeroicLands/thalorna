@@ -30,7 +30,7 @@ The consortium warehouses give Krisamar a more informal, entrepreneurial charact
 
 Relations with Nesthiros stay perpetually tense, with commercial rivalry, occasional naval skirmishes between merchant fleets and careful diplomatic posturing at League councils.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]
 : the confederation of city-states

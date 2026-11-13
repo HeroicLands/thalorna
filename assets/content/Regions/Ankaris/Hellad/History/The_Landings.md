@@ -77,7 +77,7 @@ The newcomers who climbed to the eastern plateau found stepped tombs and rock-cu
 
 The cities filled their valleys and, a few centuries on, began sending their younger sons over the sea ([[lore-daughtercts|the Daughter-Cities]]).
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-pelwarmigr|The Pelwar Migration]]—the displacement whose southern edge this is
 - [[lore-firstgames|The First Games]]—what the cities build once they are settled

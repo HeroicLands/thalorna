@@ -16,7 +16,7 @@ data:
 # terran_analog: Quirigua, its great stelae and its river; the hieroglyphic stairway as the Late Fire's stair
 ---
 
-## Overview
+## Overview {#overview}
 
 In the rainy months the great river of [[place-neokbaatergn|Ne'ok Ba'ate Region]] comes down from the highlands the color of brick, carrying the red clay of the volcanic slopes, and for half the year the water below the city is as red as its name. Ne' Ts'umul, Red Water, is a city of about 50,000 people on the bluffs above that river, one of the greatest city-states of [[affiliation-neokbaate|Ne'ok Ba'ate]], and one of the few in the realm that keeps the full ceremonial life of the [[affiliation-itzanpnthn|Itsani Pantheon]]. It sprawls along the bluffs for most of a morning's walk, temple group after temple group, and between the groups stand the monuments that make it famous.
 
@@ -42,7 +42,7 @@ Most of the entries in the register were last written by a builder who looked in
 
 A Ts'enmah rules Ne' Ts'umul by descent from his father or his brother, with Kulmah over its lesser seats and Ha'nalmah over the towns along the river. The city sends regular tribute to [[affiliation-ixilankul|Ish'ilankul]], and its Ts'enmah keeps an envoy at the court there who is answered as if he were the Ts'enmah himself. The city's Presiding Ch'alish Tq'an is the strongest priest in the realm, and the Ts'enmah of Ne' Ts'umul rarely does anything the priesthood would refuse.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-latefire|The Late Fire]]
 : the stair text of the fire temple

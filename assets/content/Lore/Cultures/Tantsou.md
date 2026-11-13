@@ -248,7 +248,7 @@ The sin is [[being-tuijawengyan|Tuija Wengyan]]. A general of the Wohou, named I
 
 Three peoples share the eight castes, the script and the calendar. The [[lore-tantsouimpclt|imperial core]] is the Tantsou of the river basins and the court, and its look is the profile of the Tantsou as a whole. The [[lore-tantsoutribclt|tributary peoples]] hold the subtropical southern coast and its deltas. The [[lore-tantsoumrchclt|frontier peoples]] hold the northern marches and the western passes.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the realm, its ministries and its Mandate

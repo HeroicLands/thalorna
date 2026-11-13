@@ -21,7 +21,7 @@ The mountain rises steeply from the sea, and its coast is cut with coves that sh
 
 The summit shrine is kept by the domain's Tanchei, who hold the mountain record. The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) is held there when the harvest is in.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-rinjaidmn|Rinjai Domain]]
 : the house and its lord

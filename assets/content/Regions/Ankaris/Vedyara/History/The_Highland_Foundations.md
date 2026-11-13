@@ -92,7 +92,7 @@ The fort they were founded in is older than they are. Its megalithic foundations
 
 Down the river, the first forest of [[place-bharavaban|Bharavaban]] was given to a temple in perpetuity as _devabhona_, the god's portion out of which the temple is fed. The gift was made again and again over the centuries that followed, and what accumulated is the [[affiliation-bhrvdvbhon|Bharava-Devabhona]]: six hundred miles of forest held in temple estates, where no assembly sits and no sabhra meets.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 : the gold temples and their constitution

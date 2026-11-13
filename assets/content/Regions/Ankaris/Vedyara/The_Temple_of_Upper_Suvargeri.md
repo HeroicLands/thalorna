@@ -22,7 +22,7 @@ The house of the upper temple is the school. Priests for all three temples are t
 
 Above the temple there is nothing but the observation posts and the bare slope. The two streams that meet below it are the coldest water on the mountain and the poorest panning, and the families working them are the ones [The Twenty-Eight]{.name data-type="affiliation"} take least notice of.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-goldmountain|The Gold Mountain]] · [[place-suvargeri|Suvargeri]]
 - [[place-middlesuvtmpl|The Temple of Middle Suvargeri]] · [[place-lowersuvtmpl|the Temple of Lower Suvargeri]]

@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Gar-Sa'Akutu** advances on two fronts at once. Its sons are raised through the officer ranks of the army of [[affiliation-empireakhlth|Au'Khelathu]] and its daughters are placed at court, and the family treats command and courtly influence as complementary halves of one strategy, each generation's placements chosen to support the other. The women hold no rank in the army, and they are no less the house's instruments than the men.
 
@@ -58,7 +58,7 @@ The house is not a trading house. Its wealth is its land, held by the master, an
 
 An outsider who wants the house's favor does not offer coin. The currency is a good placement, an introduction, or a promotion that serves a plan the master has already made.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : The region it belongs to

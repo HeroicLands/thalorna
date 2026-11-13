@@ -14,7 +14,7 @@ data:
   government: hlykngdmnrtm
 ---
 
-## Overview
+## Overview {#overview}
 
 Kalderenna is a lumber settlement of about three hundred at the edge of the forest in the [[place-nartumkngdm|Nartun Kingdom]], where the cutting is. Its name is _kaldera_ (timber) with the ending that makes a village of it. Everything in it serves the felling and the hauling: sawpits, timber yards, the turf-covered mounds of charcoal clamps that smoke day and night, and the huts of the fellers, sawyers, charcoal-burners and carters who live beside them.
 
@@ -40,7 +40,7 @@ The carters' bunkhouse stands beside the timber yard, a long hut of unpeeled log
 - **The apprentice who asks too much.** A pleasant youth has attached himself to the charcoal grounds, asking the burners how they judge a clamp's heat. The burners think he is learning the trade, and Branakis thinks otherwise.
 - **The stand that sickens.** The prior's forester has marked a stand for felling that the old fellers say should be left alone. The leaves are the wrong color, and nobody will say so to the prior.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nartumkngdm|Nartun Kingdom]]
 : the land it stands in

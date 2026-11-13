@@ -95,7 +95,7 @@ The deep rural areas of every settled polity
 
 Kin-and-hall credit also operates as a _secondary_ system in many settled polities—handling intimate commerce within clans and families even where formal banking is available, because the kin-credit system's social-binding character makes it preferable for transactions where the relationship matters more than the strict commercial terms.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-bartercnmy|The Barter Economy]]—the goods-exchange system that kin-and-hall credit extends into deferred-obligation form
 - [[lore-vylrncrncy|Vilérian Currency]]—the formal currency that operates alongside or instead of kin-credit in various polities

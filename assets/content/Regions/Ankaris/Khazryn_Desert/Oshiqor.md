@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [dkrqrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 South of the basin the ground rises into the [[place-dkrqrrgn|Diqraqor]], the stone range: black mesas, dry ravines and a cold plateau where nothing grows taller than a thornbush. In the walls of eleven of its ravines are doorways, each at the head of a flight of steps that goes down into the rock instead of up to it. The steps are what give Oshiqor its second name. The doorways stand at the level of the old ravine floor, and the floor has risen with silt, so a visitor today walks down onto a stair that begins below his feet and ends in the cliff.
 
@@ -40,7 +40,7 @@ The tombs are being robbed, and by an Atarzád. The son of an elder of the tribe
 - **The rivals' proof.** The rival herd-chief holds the blue bead and wants the elder shamed before the tribe, and he wants a witness who has seen the boy in the ravines.
 - **A rubbing of the walls.** A Tantsou scholar wants a rubbing of the painted procession and pays for a guide the Atarzád cannot forbid.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-basinbldrs|The Basin Builders]]
 : the people who cut the tombs

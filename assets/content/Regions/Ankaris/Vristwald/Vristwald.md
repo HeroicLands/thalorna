@@ -27,7 +27,7 @@ data:
 # terran_analog: "A forest-and-river frontier between the northwestern kingdoms and the eastern grain belt. The Visigoths."
 ---
 
-## Overview
+## Overview {#overview}
 
 South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vristwald—the [[lore-varokhiclt|Varokh]] homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aureldia]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the [[lore-pelwarpepl|Pelwar]] and of the [Varkhad]{.name data-type="lore/folk"} who conquered them, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vristwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
 
@@ -80,7 +80,7 @@ who **drove [[lore-pelwarmigr|the Pelwar Migration]]**—the great displacement 
 continent and eventually onto [[place-eilwith|Eilwìth]]—and themselves descend from the Pelwar. Both are correct.
 The Varkhad drove out the Pelwar who would not stay, and the Varokh are the children of the Varkhad and the Pelwar who did.
 
-## History
+## History {#history}
 
 The Varokh keep no written history, and they count time by winters from the last thing every hearth remembers; [[lore-wintertally|the Tally of Winters]] sets out that count and the seven ages it divides into. The forest's past in brief:
 
@@ -354,7 +354,7 @@ The Vilérian Ruins
 The Common Council
 : A brief gathering of village elders when imminent danger requires several villages to act together. The agreement ends with their response.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nrdlndsrgn|Nordlands Region]]
 : western neighbor
@@ -385,3 +385,7 @@ The Common Council
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
+
+[[place-blackthornrdg|Blackthorn Ridge]]
+
+[[place-vethengrund|Véthengrund]]

@@ -13,11 +13,11 @@ data:
   packFolder: dunharadesert
 ---
 
-## Overview
+## Overview {#overview}
 
 A guide leading his first foreigners into the open desert stops at the last well of the Amradi road, fills every skin twice, and tells them that from here on, the water belongs to someone. The Dunhara Desert Region is the open desert of the [[place-dunharargn|Dunhara Region]]: everything the walled cities of [[place-amradadrgn|Amradad]] do not hold, which is nearly all of it. It is the country of the [[affiliation-dunhartrbs|Dunhara Tribes]], and it has no borders on any map. What divides it is custom: the circuits each tribe rides through the year, and the oases each holds by right of long use.
 
-## The Land
+## The Land {#the-land}
 
 Great sand seas cover most of the country, dunes up to fifty meters high that walk slowly north on the prevailing wind, broken by rocky mesas, lone volcanic plugs and the pale floors of dry lakes. The oases are the fixed points of everything. Some are lush and permanent, like the hollow of palms at [[place-ghavulavad|Ghavulavad]] or the spring at the [[place-oasistvrzvd|Oasis of Tevrazavad]] that has never failed; others fill only in a wet season, or lie at the end of a wadi that floods once in ten years. Every route across the desert is a chain of them, and a guide's worth is the number of links he knows.
 
@@ -31,7 +31,7 @@ The desert's people are the Dunhari of the tribes, living by lineage, household 
 
 No one rules the open desert. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit, and they join against an outside threat and quarrel the rest of the time. Their common council meets at Ghavulavad, their [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] at the [[place-stoneofranaz|Stone of Ranaz]], and the practitioners of the [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] travel with every camp of consequence. The balance has held for centuries.
 
-## Places
+## Places {#places}
 
 [[place-ghavulavad|Ghavulavad]]
 : the oasis seat of the tribes, where caravans hire their guides
@@ -54,7 +54,7 @@ No one rules the open desert. Perhaps a dozen great confederations and many smal
 [[place-vzhmvd|Vazhmavad]]
 : the weighing-place of the poets
 
-## See Also
+## See Also {#see-also}
 
 [[place-dunharargn|Dunhara Region]]
 : the parent region

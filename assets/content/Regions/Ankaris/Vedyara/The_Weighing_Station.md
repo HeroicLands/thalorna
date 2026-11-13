@@ -24,7 +24,7 @@ A family's wage is fixed and its yield is not, so the weighing is also where a b
 
 The scale itself is the temple's and is touched by [[affiliation-mahajaya|Mahajaya]]'s rite once a year. Suvargeri holds that a weight sworn on that scale is not arguable, and the factors of [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]], who may not set foot in the yard, have never found a way to test the claim.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-middlesuvtmpl|The Temple of Middle Suvargeri]] · [[place-goldmountain|the Gold Mountain]]
 - [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]—the constitution the station serves

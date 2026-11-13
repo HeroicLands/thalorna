@@ -45,7 +45,7 @@ The merchant houses are consolidating their hold on Nebralis, and the old arrang
 - **The cut trace.** [[being-estrsnrcth|Estara Sánriseth]]'s best team bolted on the quay road with a cut trace a month before the guild's vote, and she wants the hand that cut it found and named before the guild.
 - **The steward's notes.** [[being-alvrkrnthl|Alvarik Árenthar]] needs his harvest in and sold before the lord's steward can call his notes, and the steward's men have been seen at his water-course.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnclnbrls|Council of Nebralis]]
 : the town's government

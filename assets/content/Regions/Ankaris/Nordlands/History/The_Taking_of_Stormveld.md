@@ -106,7 +106,7 @@ In the forest south of the kingdoms the taking changed a trade. A jarldom that w
 
 The island did little. [[affiliation-kngdmldrth|Aldorath]] mustered no host against the Nordmen, though it counts the Jarldom its nemesis. The Vardain who could reach the passes went up into [[place-vardainvalleys|the Vardain Valleys]] (the high valleys) and the Khazari took them in, and [[place-threndale|Threndale]] is still adding graves to the ground the Vardain call the new ground. The [[affiliation-dunavarsynod|Dúnavarre Synod]] answered in the way it answers everything: that year it instituted the compulsory call at [[place-ravenmoor|Ravenmoor]], so that every vessel crossing between the island and the mainland puts in there first, and left the northern water alone.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Jarldom.** Thirty thousand Nordmen, a hundred and twenty thousand thralls, and jarls who hold land on both sides of the water.
 - **Vorgald's grief.** A friendship of thousands of years ended in a summer, and a hold that did not come down and has not said why.
@@ -115,7 +115,7 @@ The island did little. [[affiliation-kngdmldrth|Aldorath]] mustered no host agai
 
 A party can come to Stormveld as Nordheim kin taking service in a hall, or from the southern kingdoms the jarls raid, or from the high valleys where the free Vardain keep a list of names. The pilot's grandson will bring their hull in past the headland either way.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-stormveld|Stormveld]]
 : what the taking made

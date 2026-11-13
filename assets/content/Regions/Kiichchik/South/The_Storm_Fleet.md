@@ -71,7 +71,7 @@ The fleet sails the way every ship of Ts'alam Ne' sails, from one shore shrine o
 
 The shore shrines carry the [[affiliation-chumishlan|Ch'um Ish'lan]]'s slow post along the coast, and the fleet carries it between them: a temple canoe that passes a shrine takes on whatever the keeper has waiting for the next.
 
-## Membership
+## Membership {#membership}
 
 The paddlers are mostly **Vowed Paddlers**: faithful of the storm god who have pledged a season at the paddle against a debt of blood, Debt-Bearers in [[affiliation-itsanihierarchy|the Itsani Hierarchy]]'s ladder, and who go home when the season ends with the debt paid. Fishermen's sons vow seasons at the paddle the way inland boys vow pilgrimages. The **Temple Crewmen** are sworn to the temple for life and are the fleet's fighters. The Steersmen and Captains are ordained priests of the storm god's branch, the water-priests and serpent-keepers, and the **Captain of the Storm Fleet** is a Ch'alish of the branch, named by the temple's Ch'alish Tq'an.
 
@@ -96,7 +96,7 @@ The priesthood takes its share of every cargo that comes into Ts'alam Ne', and t
 - **A season at the paddle.** A party member with a debt of blood to clear may vow a season as a Vowed Paddler.
 - **A hidden cargo.** The Captain of the Storm Fleet pays well for proof of a cargo that came into the harbor without being counted, and pays best for proof of one of the Ne'kalmah's.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tzalamne|Ts'alam Ne']]
 : the great port where the fleet lies under the temple

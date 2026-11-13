@@ -57,7 +57,7 @@ The fold lies a day's walk south of the last Áuldalon drove road, where the pon
 - **A drover's brother.** A boy followed a lamp into the fold and has been counted at the door for three years.
 - **The banner.** A Vilérian collector pays for a cohort's standard, and [[miscgear-keptstandard|the Kept cohort's]] hangs in the hall. A Bardic College pays for the lament's last verse.
 
-## See Also
+## See Also {#see-also}
 
 - [[scenario-drkptfr|The Roll Beneath the Hill]]—a scenario set here
 - [[lore-elvtribute|The Tribute of Élavendre]]—the war the cohort fought in

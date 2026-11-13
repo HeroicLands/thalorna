@@ -24,7 +24,7 @@ A single short road climbs from the cultivated edge to a shelf of pale rock abov
 
 The three tombs are those of the Gar-Auu who reigned from Lenen-Nezut for sixty-nine years and were buried at home, outside the row at the capital ([[lore-thronelnz|the Throne at Lenen-Nezut]]). The first was cut for [Zab'el'Psaqa I]{.name data-type="being/npc"}, crowned in 1462 ST (649 BF), and the last holds [Zab'el'Psaqa III]{.name data-type="being/npc"}, killed in the wheat at [[place-iqeru|Iqeru]] in 1531 ST (580 BF) ([[lore-twothrones|the War of the Two Thrones]]). The road was meant to be the first of a long row, and it is the whole of it, because the house that built it lost its throne before it could lay a fourth tomb.
 
-## What Is There Now
+## What Is There Now {#present}
 
 The crown keeps no endowment here. The mortuary priests of the capital's necropolis are paid to tend the Ways of the houses that ruled from [[place-galezkara|Galezkara]], and the Ways of Lenen-Nezut are not in their ledgers. The Halzi'a's house, descended from the three, keeps them, and keeps them as a house with a small estate can: a steward, a few families of tomb-servants, a mason hired for a season when the roof of a chapel comes down. The gilding on the outer doorways is gone, the lintel of the third tomb has cracked, and wind drifts sand into the second chapel faster than the servants sweep it. The wards are intact. The names are cut deep, and the house reads them aloud once a year.
 
@@ -35,13 +35,13 @@ The crown keeps no endowment here. The mortuary priests of the capital's necropo
 - **Robbers,** who find the Ways less guarded than any royal tomb in the empire and less rich than they hope, since the three Gar-Auu were buried with what a selat could afford.
 - **Scholars,** from the bureaus and from abroad, who ask to see where a Gar-Au was laid outside the necropolis.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The quiet restoration.** In the year the court asks about the succession, the Halzi'a's house begins to repair the Ways, hiring masons from three selatu so that none of them knows the full extent. A crown inspector wants to know who ordered the work, and what it means.
 - **The sealed chapel.** The second tomb's chapel has been closed since before the steward's grandfather, and the house will not say why. Robbers have started to ask in the town.
 - **The fourth chamber.** An heir of the house, looking for proof of descent, finds the register of what was buried with the three. It lists a fourth chamber.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-thronelnz|The Throne at Lenen-Nezut]]—the dynasty that lies here
 - [[lore-twothrones|The War of the Two Thrones]]—how it ended

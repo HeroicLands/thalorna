@@ -78,7 +78,7 @@ data:
 sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Kingdom of Aldorath is the heartland kingdom of [[place-eilwith|Eilwìth]], occupying the fertile lowlands and gentle hills east of the great central lake, [[place-eilissa|Lake Eilìssa]]. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, [Drethar of Kingshollow]{.name data-type="being/npc"}, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of the [[place-aldorathrgn|Aldorath Region]]: the lake's eastern shore and the country east of it to the sea, under the Ironfells, while the western shore is upland that no realm holds.
 
@@ -176,7 +176,7 @@ The eastern barons crowned Drethar of Kingshollow about 120 AF because they want
 
 Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive—the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblcndrth|Republic of Ondareth]], beyond the lake and the Highlands to the west, are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The Nordmen of [[affiliation-jrldmstrmvld|Stormveld]] to the north-west are a persistent concern—raiding parties from the fjords have troubled Aldorath's northern borders for generations, while [[place-vorgald|Vorgald]], the [[lore-flkkhazar|Khazari]] hold in [[place-ironfells|the Ironfells]] to the north, keeps apart from both realms. The Ironfells are unclaimed by any realm. The [[lore-grukaraelwyth|Grukar]] are at war with the kingdom as with everyone: the nest at Hartfell raids the Wiindmarch forest, [[place-fernbank|Fernbank]] the old road south of Dunmere, and [[place-aldermire|Aldermire]] the lake's lower shore.
 
-## See Also
+## See Also {#see-also}
 
 [[place-eilwith|Eilwìth]]
 : The island

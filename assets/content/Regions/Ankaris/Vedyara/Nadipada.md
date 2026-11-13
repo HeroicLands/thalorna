@@ -18,7 +18,7 @@ data:
 
 A fisherman here will tell you the bargain is a fair one: a fishing village a mile from the water would be a farming village. When the channel shifts, the houses follow it. If you are marking Nadipada on a map, mark it lightly.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

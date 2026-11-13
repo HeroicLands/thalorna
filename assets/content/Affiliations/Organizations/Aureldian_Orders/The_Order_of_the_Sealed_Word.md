@@ -60,7 +60,7 @@ Patron
 Region
 : [[place-aureldirgn|Aureldia]]—chapter houses in all five Aureldian kingdoms, with the mother-house at [[place-olvestria|Ólvestra]] in [[place-tarvenirgn|Tarvénia]]
 
-## Overview
+## Overview {#overview}
 
 In the Aureldian [[affiliation-ardavon|tradition]], an oath sworn before Árdavon is the bond that holds the social order together. The merchant's contract sealed in Árdavon's name, the noble's pledge of fealty, the marriage vow, the treaty between rival cities—all rest on the assumption that the sworn word will be honored, and that some adequate remedy exists when it is not. The civil courts handle the routine: the contract dispute, the inheritance claim, the breached commercial covenant. When the civil courts cannot—when the oath-breaker is too powerful for the local magistracy, when the breach is so grievous that ordinary remedy fails, when the sworn matter is one the magistracy will not touch—Árdavon's faith provides the alternative. The Order of the Sealed Word is that alternative.
 

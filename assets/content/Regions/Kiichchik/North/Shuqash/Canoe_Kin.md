@@ -93,7 +93,7 @@ Every spring, when the winter storms end, the Canoe Kin open the sea road at the
 - **A voyage north.** A party that wants to reach the Cedar People's beaches by sea needs a canoe master willing to take it, and Sitiqnush is the one who goes.
 - **A canoe.** Only by buying one, from a canoe master, at his price. Nobody outside the brotherhood is taught to build one, and a party that tries to learn is in more danger than one that steals.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People and their towns

@@ -22,7 +22,7 @@ One-quarter of everything the mountain yields is deposited here as the common sh
 
 Six centuries ago a wealthy family tried to buy an amendment to the panning rolls in its own favor. It was discovered, stripped of all its gold and exiled, and the cap was codified in the same session. The treasury has held the difference ever since.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-weighingstn|The Weighing-Station]] · [[place-goldmountain|the Gold Mountain]]
 - [[place-uppersuvtmpl|The Temple of Upper Suvargeri]] · [[place-lowersuvtmpl|the Temple of Lower Suvargeri]]

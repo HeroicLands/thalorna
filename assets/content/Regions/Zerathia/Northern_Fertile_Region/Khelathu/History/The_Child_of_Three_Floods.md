@@ -55,13 +55,13 @@ He kept his own name as his throne name. A throne name is chosen at the crowning
 
 Every Gar-Au of the house has been crowned Meqes, and the list numbers them as it numbers any name, by bearers across the whole length of the list. The first was Meqes I, who reigned fourteen years. The sixteenth is the Gar-Au who reigns now, [[being-garaumeqesxv|Meqes XVI]]. The name makes a contract or a tax roll easy to date within the house and impossible to date without a numeral, and every clerk in the bureaus learns the numerals before the signs.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The name and the house.** The reigning house, [[lore-akhhsmeqes|the longest of the Near Count]], descends from a regent who was crowned in a child's second year.
 - **The dread of children's reigns.** The house has two children's reigns of its own in the list, and the court keeps a regent's loyalty in mind.
 - **The Way.** The house raised its Way at the traditional frontier of the necropolis at [[place-zugezer|Zu-Gezer]], and its sixth Gar-Au carried it to the river-front ([[lore-greatremovl|the Great Removal]]).
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhhsmeqes|The House of Meqes]]
 : the age the crowning opened

@@ -69,7 +69,7 @@ The merchants who had paid on that standard for a generation did not wait for th
 - **The first common act** of the five councils since [[lore-heladcompact|the Compact]], remembered whenever the councils swear the Compact.
 - **A conviction** that a reputation for keeping terms is infrastructure, which the [[lore-byzarianclt|Bizarian]] people count from this afternoon.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-arzanasedict|The Edicts of Arzanas]]—the edicts that created the Tolvan
 - [[lore-heladcompact|The Compact of the Five]]—the pact whose councils acted together again

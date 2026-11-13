@@ -18,6 +18,6 @@ Few know where she is, and those who do are not in the habit of saying. Some of 
 
 What a visitor gets is counsel on a matter of conscience, given in terms that are cryptic at the time and are generally found to have been right afterward. She does not adjudicate, she does not intercede, and she has never been heard to comment on the [Gold Constitution]{.name data-type="lore/law"}.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-goldmountain|The Gold Mountain]] · [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]

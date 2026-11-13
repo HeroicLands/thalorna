@@ -25,13 +25,13 @@ That does not make the hall a pleasant place at night. The hill people keep away
 - **Priests of the [[place-bharavarivr|Bharava circuit]]** on their way up to a turn at the Sangra-fort, who stop to light a lamp at the bricked door and go on.
 - **Descendants of Tirnugram's lineages**, scattered through the neighboring janpodas, who come on the anniversary and say the names of their families at the gate.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The petition.** A descendant of Tirnugram's lineages is preparing a petition to the next Melka, at [[place-sangema|Sangema]], asking that Tirnugram be recognized as newly formed. Recognition would undo a four-century division of its land, and the janpodas that hold the land want the petitioner discredited before the assembly meets.
 - **The bell.** A priest of the Sangra-fort, coming down late, heard the bell ring once in the night. Nobody else heard it, the bar has not moved, and the bell's clapper was taken out by the Melka's order five centuries ago.
 - **The survey.** The petition fails without proof of the janpoda's old boundaries, and every copy burned in the hall. A rumor puts a second copy in a temple on the Tantsou side of the conch-door, where the adventurer came from.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-silenthall|The Silenced Hall]]—the burning
 - [[lore-conchdoor|The Conch-Door Incursion]]—the adventurer, unnamed

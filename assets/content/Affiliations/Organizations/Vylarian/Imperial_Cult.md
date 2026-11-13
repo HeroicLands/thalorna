@@ -56,7 +56,7 @@ sohl: {system: {commonSkills: []}}
 
 A clerk of the cult, sitting at a folding table beside the altar on an accession day in [[place-orzara|Orzara]], explains the offering to a newly enrolled citizen who has never made it: "A pinch of incense on the coal, the Orzas's name aloud, and then your own name to me. Pray to whichever god you like afterward; the [[place-pnthnrldnm|Temple of the Twelve]] is across the square. The coal is for heaven. The roll is for the city, and the roll is what a magistrate asks to see."
 
-## Overview
+## Overview {#overview}
 
 The Imperial Cult, _zalvon_ in [[skill-vylarilng|Vilari]], is the state cult of the [[affiliation-vylarinmpr|Vilérian Empire]]: the veneration of dead Orzoi as divine or half-divine. Its temples stand in every city of the Empire, and taking part in it is a religious act and a declaration of political loyalty at once. It sits above the [[affiliation-arldnpnthn|Aureldian Pantheon]], whose gods rule the city's year, and above every other faith in the Empire, and it binds the subjects of all of them to one ritual of allegiance.
 
@@ -105,13 +105,13 @@ The death will open the post of _holzathos_, the most contested appointment in a
 Dalmeras has sent word to Nartun, by a priest of the Sacred Forge, that he will proscribe the Black Flame when he reigns if Nartun's knights and temple coin stand behind his adoption. The Holy Mother has agreed to nothing. Torzemos has learned that a claimant's house sent a priest up the holy road, and has warned every household what such a promise would cost.
 :::
 
-## Hooks
+## Hooks {#hooks}
 
 - **The count.** A _kurthos_ (senator) who owes favors in three directions hires a party to learn, before the old Orzas dies, how the Seldan's votes on his consecration will fall.
 - **The let porch.** A stallholder who rents the porch of a divine Orzas's temple finds a strongbox of old gold under the paving, and the temple's _zalvos_, the cult's treasurer and the stallholder each claim it.
 - **The refuser.** A witness in a case before the imperial tribunals turns out to be entered as a refuser in a provincial roll he swears he never saw. Someone has added him, and his testimony is worthless until a party finds the clerk who did.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : the state the cult binds together

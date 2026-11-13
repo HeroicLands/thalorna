@@ -18,7 +18,7 @@ data:
 
 A carter on the road describes the crossing before he mentions the village.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

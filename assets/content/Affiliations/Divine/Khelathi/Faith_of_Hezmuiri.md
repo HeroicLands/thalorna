@@ -90,7 +90,7 @@ The great annual observance is the [Festival of the Preserved Dead]{.name data-t
 
 His worship also reaches into daily life through amulets against decay and corruption. Nearly every household keeps small mummified objects, mice or birds preserved by techniques the priests of Hezmu'iri developed, as talismans that the owner's own body will be preserved perfectly at death. They pass down through families for generations, and the fact that they never rot is taken as reassuring evidence of his power and kindness.
 
-## Organization
+## Organization {#organization}
 
 Essentially every person needs these priests one day, and the preparation of tombs and burial goods creates enormous economic activity, so the priesthood of Hezmu'iri is among the largest and most powerful in [[affiliation-empireakhlth|Au'Khelathu]]. The Thaz'Lekhau (High Priest) of Hezmu'iri typically holds influence second only to the [[lore-garauu|Gar-Au]]'s and can at times rival it, depending on the political alignments of the day and the strength of the individual priesthoods.
 

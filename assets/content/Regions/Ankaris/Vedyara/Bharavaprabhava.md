@@ -25,7 +25,7 @@ The spring rises under a hanging glacier that drops ice into the upper basin eve
 
 The temple here is small, is staffed in rotation by houses that send two priests each for a season at a time, and keeps no record of who comes. That is deliberate: the eastern pilgrimage is the one a person makes when he does not wish it known where he has gone.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bharavarivr|The Bharava]] · [[place-estrnreach|the Eastern Reach]] · [[place-slvrgorges|the Silver Gorges]]
 - [[place-chandrprbh|Chandraprabhava]] · [[place-sarvaprbhv|Sarvaprabhava]] · [[place-mahaprbhva|Mahaprabhava]]

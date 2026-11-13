@@ -8,7 +8,7 @@ tags: [ruin, hill, inland]
 data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Ruins above Lizela** stand on a hilltop in the hills above [[place-lizela|Lizela]], in the [[place-korvathis|Korvatis]], within sight of the great crossroads where the coast road meets the road inland. From the town they are a line of gray on the skyline above the salt pans, and the town calls them the Old Walls.
 
@@ -41,7 +41,7 @@ The ruins have drawn a second visitor. [[being-brnklnthrk|Barneke Lantrike]], th
 - **The missing instructor.** Arnela Kórisvar hires a party to find her instructor and his notes before the Sekran do.
 - **The door in the verse.** Barneke Lantrike wants company to look for the door the fishermen's verse names, and he will share the song.
 
-## See Also
+## See Also {#see-also}
 
 [[place-lizela|Lizela]]
 : the salt town below the hill

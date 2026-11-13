@@ -16,7 +16,7 @@ Zel-Amqelu was a trading port on one of the silt-islands where the river's mouth
 
 The place is not a blood-field. The town burned and its dead were burned with it, and the raiders buried their own. Its dead were received, and the town's rites were said for them.
 
-## What Is There Now
+## What Is There Now {#present}
 
 A broad reed-grown mound stands in the flats of the [[place-chathuselat|Chathu Selat]]. The burned temple's pylon still stands out of the mound, with the lower courses of the temple walls round it, and the old quay line shows as a pale seam in the reeds at low water. Everything else is silt over ash.
 
@@ -33,13 +33,13 @@ The raiders buried their own dead in the temple court, and they did it in a mann
 - **The customs patrol** of the weigh-houses, which would like the landing closed without a fight.
 - **Scholars** who want the raiders' origin, which the Khelathi record does not hold, and who have come to dig in the temple court.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The graves.** A scholar offers to pay a party to guard a quiet dig in the temple court. The goods in the graves would name the raiders' country, and the Halzi'a's officials do not want them named.
 - **The ring at the landing.** A smuggling ring uses the ruin as a store, and the customs-house wants it closed without bloodshed. The ring's leader is a salt-cutter with a cousin in the weigh-house.
 - **The pylon.** Someone has been cutting new marks into the pylon's lower courses at night, in a hand that is not Khelathi.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-searaiders|The Sea-Raiders' Throne]]—the landing that burned it
 - [[lore-seahouse|The Closing of the Sea House]]—the rule that now watches the landing

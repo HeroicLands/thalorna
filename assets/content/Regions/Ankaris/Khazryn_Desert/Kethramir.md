@@ -15,7 +15,7 @@ data:
   packFolder: khazryndesert
 ---
 
-## Overview
+## Overview {#overview}
 
 **Kethramír** is the fourth of the seven Tellumi cities and the door of [[place-swoasisbelt|Tellumel]] to the north. The southern spur of the long caravan road comes down out of [[place-dkrqrrgn|Diqraqor]], the Stone Uplands, and ends here, and every string that wants the belt's dates, books and horses, or the guides who take light goods over the Grazian passes, arrives at its gates. About twenty-six thousand people live in the city, and in the weeks when the spring caravans are in, several thousand more sleep in its yards. The [Tozhirod]{.name data-type="affiliation"}, the scholar-tribe of the [[affiliation-tribestrzd|Atarzád]], took the city in the eighth year of the war and hold it with a light hand.
 
@@ -46,7 +46,7 @@ Kethramír is the fourth of the seven cities in order of founding, and its wells
 - **The spur.** The interior road beyond the city is the least safe stretch of the trade. A string leaving Kethramír with spices has to pay a toll to every tribe it passes, and the tribes know when the strings leave. The riders who sell guides and escorts here will tell a party which tribe is not honoring its own passage this year, for a price.
 - **The wells.** If the third well turns brackish in a dry year, the Tellumi quarter has no other source, and the Tozhirod magistrate has the power to share the other two or to keep them.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the Confederation whose House of Kethramír sits in exile

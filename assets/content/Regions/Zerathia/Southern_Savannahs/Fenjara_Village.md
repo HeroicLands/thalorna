@@ -14,7 +14,7 @@ data:
   government: fenjara
 ---
 
-## Overview
+## Overview {#overview}
 
 Fénjara Village is the seat of the [[affiliation-fenjara|Fénjara]], set where the open savannah closes into gallery
 forest along a year-round watercourse. It is a village of the deep bush rather than the plain:

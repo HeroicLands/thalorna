@@ -20,7 +20,7 @@ The iron comes from a poor seam on the back slope and would not be worth carryin
 
 The jewelers of [Lower Suvargeri]{.name data-type="place/site"} want the same wood, and the charcoal-burners of [[place-vanapada|Vanapada]] cut it for them. The quarrel over the rotation comes to the sabhra about once in five years and is settled the same way each time.
 
-## See Also
+## See Also {#see-also}
 
 [[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land

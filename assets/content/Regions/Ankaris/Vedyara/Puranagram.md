@@ -18,7 +18,7 @@ data:
 
 The sabhra put the palace's stones into the temple by decree. The brick in Puranagram went into its houses without one.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

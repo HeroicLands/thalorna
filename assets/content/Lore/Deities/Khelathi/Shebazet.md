@@ -17,7 +17,7 @@ She stands outside the [[affiliation-khelathpnthn|Khelathi Pantheon]], and the d
 
 Her animal is the [[being-cobra|cobra]]. Cobras hunt the rats that ruin the reed harvest that makes papyrus, and in her cult's teaching she guards the reeds, so Reth'Sa'ar's writing rests on her.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shebazet|Faith of Shebazet]]
 : the cult and its offices

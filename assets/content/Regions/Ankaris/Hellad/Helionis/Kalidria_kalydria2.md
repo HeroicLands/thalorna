@@ -8,7 +8,7 @@ tags: [city-state, city]
 data: {demonym: null, lore: [], parents: [helionis], population: 45000, government: kalydria}
 ---
 
-## Overview
+## Overview {#overview}
 
 Say you reach **Kalidria** in the weeks of a theater festival. The inns are full, a crowd is outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. Where [[place-thyrenae2|Thirenae]] pursues truth and [[place-pelagora2|Pelagora]] pursues power, this city of 45,000 pursues beauty, and it is the cultural jewel of [[place-helionis|Helionis]]. Its patron is [[lore-zunelasdty|Zunelas]], goddess of dreams and visions.
 
@@ -24,7 +24,7 @@ The city's most distinctive institution is the [Academy of the Silver Veil]{.nam
 
 Kalidria sells what it makes. Sculptors and painters trained here are sought by wealthy patrons across Midhalión, and artists from elsewhere come to be trained. The city uses the [[lore-vylrncrncy|Vilérian currency]], with full access to the banking houses of [[affiliation-danvar|the Danvar]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kalydria|Kalidria]]
 : the city-state and its patron families

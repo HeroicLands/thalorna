@@ -96,7 +96,7 @@ The chancery did not contest the oath. The Orzas's roll kept the province of Biz
 - **The custom** that the chair of the council reads the Compact aloud at each session's opening.
 - **The way-forts**, which were the Empire's and are the League's.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-heladcompact|The Compact of the Five]]—the oath sworn again
 - [[lore-heladeastwar|The Eastern War]]—the annexation that dissolved it

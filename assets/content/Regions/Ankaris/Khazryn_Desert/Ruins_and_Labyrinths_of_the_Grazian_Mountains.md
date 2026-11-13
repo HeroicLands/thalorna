@@ -14,7 +14,7 @@ data:
   culture: khazrynclt
 ---
 
-## Overview
+## Overview {#overview}
 
 Nobody has counted the peaks of [[place-graznmntns|the Grazian Mountains]], and the glaciers that lie between them are older than any name for them. The range is a wall of ice and rock two thousand miles long, and its north face above the [[place-khzryndsrtrgn|Khazrin]] is the least traveled part of it: a few known passes, each open for a handful of weeks in late summer, and between them ridge after ridge of blue ice that no caravan has crossed and few climbers have named.
 
@@ -42,7 +42,7 @@ The old Tellumi houses send climbers after the signs that would prove their clai
 
 A guide of the Osket, old and dying, wants one last crossing of the Eastern Reach and has a place he will take a party to on the way, if they carry his body down. He will not say what is there. His own people have told him he may not go, and have told the party's patron the same.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vurdil|Vurdish]]
 : the labyrinth above the Tellumi belt

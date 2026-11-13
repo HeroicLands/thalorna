@@ -131,7 +131,7 @@ The Black Lotus has minimal contact with the Vilérian Sea syndicates. The geogr
 
 Members carry no visible identification. Recognition passes through calligraphic signs—subtle marks on correspondence, particular seal impressions on documents, specific ideograms used as signatures—that an uneducated observer mistakes for ordinary scribal flourishes. The black lotus itself is never displayed; the name is not a symbol but a warning. The flower is associated in Tantsou folklore with funeral offerings that have gone unaccepted—offerings the ancestors have refused. A household that finds a black lotus left on its threshold understands the message without further explanation.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : The empire in which the Society operates

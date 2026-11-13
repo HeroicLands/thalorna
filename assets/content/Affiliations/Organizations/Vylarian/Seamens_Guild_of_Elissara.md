@@ -41,7 +41,7 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 A boy who comes home from his first voyage out of [[place-aelissium|Elissara]] is taken by the hand who sailed with him to the [Roll House]{.name data-type="place/structure"} on the [Long Quay]{.name data-type="place/feature"}, where the Marker sits at a table by the door with a needle and a pot of soot ink. The hand gives him the lesson while the needle works. "From today you are on the roll, and the roll is the guild. A captain who wants a crew comes here, and the Korvelos gives him the next names in turn, and you go when your name comes up. If a captain wants you and nobody else, he pays the guild for the asking, and that is what you work twenty years for. You sign for the voyage and you stay for the voyage. A man who walks off a ship in a foreign port gets a bar through that anchor, and after that he can sail out of Taruzel if they will have him, because nobody here will."
 
@@ -76,7 +76,7 @@ The roll is the quarrel, and two buyers want it. The fleet is short of seamen an
 
 The city's charter is sealed anew by every Orzas, and the reigning one is dying. An advocate from [[place-mercavia|Delalara]] has asked every guild for its copy, the Roll House among them. The [[affiliation-byzarianlg|Bizarian League]]'s clerks collect the customs at the river mouth outside the walls, and on the eastern runs Taruzel's privateers take Vilérian ships whose hands come home, if they come home, to a guild that pays no ransoms.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The struck ship.** The guild has struck an owner's ship as unfit, and the owner says the guild did it because his captain refused to call the guild's men by name. He hires a party to prove the ship sound before the season turns.
 - **The barred anchor.** A man with a barred anchor on his arm has signed onto a ship in the basin under another name, with the bar burned out of his skin. The Marker knows the scar, and the captain who took the man wants nobody told.
@@ -88,7 +88,7 @@ The city's charter is sealed anew by every Orzas, and the reigning one is dying.
 Volkema Satheris has guessed it. She has sold the copies anyway, because the guild needs the money and because she believes the fleet would take the men without them, and the copy she is checking for the officer has every called hand's lodging written wrong. The Marker knows. The old hands do not, and the _kelros_ would carry it to the Tevran of Elissara if he did.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-aelissium|Elissara]]
 : the free city whose seamen the guild keeps

@@ -26,7 +26,7 @@ The town of [[place-danurkot|Danurkot]] stands on a low fortified hill where the
 
 The fort's name has always been Danurkot, and what the word means is disputed. Some scholars derive _danur_ from the bow that has been the janpoda's emblem since before recorded history. Others derive it from a much older root meaning a bend in a river, which is the likelier account: the bow came to the name after the academies were founded, and nothing will get it out again.
 
-## Settlements
+## Settlements {#settlements}
 
 ```sql
 SELECT s.address.slug AS _ref,
@@ -77,7 +77,7 @@ Danurkot's economy rests on three things. The first is agriculture, the standard
 
 The academies bring in the least direct revenue of the three and the most of everything else: the pilgrim traffic of aspirants and their families, the steady payments from patron kingdoms for graduate services, and the donations to the Mahajaya temple.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-dnrktjnpd|Danurkot Janpoda]]
 : the temple-republic that holds this land
@@ -87,3 +87,9 @@ The academies bring in the least direct revenue of the three and the most of eve
 
 [[place-danurkot|Danurkot]]
 : the temple-seat
+
+[[place-hiddenstring|The Academy of the Hidden String]]
+
+[[place-highdraw|The Academy of the High Draw]]
+
+[[place-patienteye|The Academy of the Patient Eye]]

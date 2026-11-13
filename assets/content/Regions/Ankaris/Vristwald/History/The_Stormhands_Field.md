@@ -60,14 +60,14 @@ The western villages' elders met under the old pines at [[place-harholt|Harholt]
 
 Half the company died in the valley. The muster took most of the rest alive, which is the thing the Varokh tell the story for. A Nordlander is worth ransoming, and these were worth a great deal: the Compact paid for every one of them, through [[place-waldburg|Waldburg]], over the next two winters. The muster let the survivors carry their dead home over the frontier under truce, and the Brotherhood's dead got their grave-ale in their own halls. No field was left in the valley, because no one was left on it.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **Falkenstein's watch.** The hill fort has been manned in every season since, and its War Chief's word carries further inside its timber ring than any War Chief's in the forest.
 - **The Hall's caution.** The Compact tells the story to every new captain, and a company that signs to take ground in Vristwald signs knowing what the Stormhand found there.
 - **The ransom.** The largest the forest ever took, and the reason the Nordmal halls of the [[place-nalthmark|Nalthmark]] still say, sourly, that the Varokh are reasonable people to lose to.
 - **The valley.** A wooded valley a week inside the frontier with rusted mail in its leaf-mold and nothing else; the Varokh treat it as ordinary ground, because it is.
 
-## See Also
+## See Also {#see-also}
 
 [[place-falkensten|Falkenstein]]
 : the hill fort the company came for

@@ -88,7 +88,7 @@ The signatures constituted the [[affiliation-assmblycmpct|Assembly of the Compac
 
 Chendrapur's settlement between its crown and its [Nine Houses]{.name data-type="affiliation"} has held since the same generation, and the city has kept the gem trade its own for as long. The Collective has been the connective tissue of Vedyaran life for the four centuries since, and nothing moves without it.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-assmblycmpct|Assembly of the Compact]]
 : the body the signatures constitute

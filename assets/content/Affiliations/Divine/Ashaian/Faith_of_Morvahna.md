@@ -79,7 +79,7 @@ The most important festival in Mórvahna's worship is the [Festival of the Turni
 
 For the seriously ill or the elderly, Mórvahna becomes a comforting presence. A Delkoshekh of Mórvahna might spend long hours with the dying, not urging them to fight or to hold on, but helping them understand their passage as part of the natural cycle. Prayers to Mórvahna at the bedside of the dying are gentle: "Mórvahna, Silent Keeper, guide this body back to the elements from which it came. This life has been lived, these years have been full. Let the passing be graceful. Let the transformation be complete." The dying find peace in such prayers, understanding their death not as a personal failure but as participation in the cosmic cycle.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Mórvahna is smaller and less formally structured than that of many other Ashaian deities. This reflects the nature of Mórvahna's domain: decay does not require constant attention or ritual maintenance in the way that the sacred flame requires tending or the kingdom requires ordered governance. Decay happens of its own accord. The role of Mórvahna's priesthood is not to cause decay or to accelerate it, but rather to bear witness to it, to help the faithful understand it rightly, and to maintain the ancient knowledge of how transformation occurs.
 

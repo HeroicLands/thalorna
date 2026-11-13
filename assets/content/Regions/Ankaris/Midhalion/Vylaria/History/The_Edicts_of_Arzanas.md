@@ -85,13 +85,13 @@ Over seven years he gave the [[affiliation-vylarinmpr|Empire]] its present insti
 
 The treasury [Makandas]{.name data-type="being/npc"} had spent on peace was empty, and the rebuilding was banked. The [House of Peleris]{.name data-type="affiliation/venture"}, founded in [[place-orzara|Orzara]] to carry the debt, lent the Orzas the money and has been the largest of the great banking houses since ([[affiliation-danvar|Danvar]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Empire's machinery.** Almost every institution that governs the Empire today is the second Orzas's, with a few additions.
 - **"Three centuries ago."** The phrase the Empire's notes give for its guilds, its fiscal court and its central bank.
 - **The House of Peleris.** The great bank that financed the rebuilding.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-restorehouse|The Restoration]]—the house Arzanas belonged to
 - [[lore-westernwars|The Western Wars]]—the conquests the edict closed

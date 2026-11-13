@@ -88,7 +88,7 @@ In the temples the priests perform fuller rituals, lighting sacred fires at dawn
 
 One of the most important rituals is the purification ceremony. Anyone who has sinned or been exposed to spiritually corrupting influences may come to a temple of Uqa'a to be ritually cleansed. The supplicant stands in direct sunlight while a priest anoints them with sacred oils and recites prayers of purification, and the belief is that the god's light burns the corruption away and leaves them spiritually renewed. The ceremony matters most to warriors who have killed in combat. The killing may have been justified, but it leaves a spiritual stain that must be cleansed before the warrior can take a full part in temple life.
 
-## Organization
+## Organization {#organization}
 
 The priesthood is hierarchical, with the Thaz'Lekhau at its apex holding great political and spiritual authority. The choice of a new Thaz'Lekhau of Uqa'a has historically been decided by the sitting Gar-Au in consultation with the outgoing Thaz'Lekhau, though the priesthood has occasionally asserted the right to choose, and those contests have on rare occasions led to open conflict between throne and temple.
 

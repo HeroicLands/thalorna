@@ -23,7 +23,7 @@ The Emperor does not leave the mountain: the imperial person may not set foot be
 
 The summit shrine is kept by the Tanchei of the court, and the mountain record is kept there with the other records of the imperial house. The Emperor holds the one claim to the whole [[lore-mandatehvn|Mandate of Heaven]], and Zojai is where he makes it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-lengwou|Lengwou]]
 : the capital on the lowest slope of the mountain

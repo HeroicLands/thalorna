@@ -38,7 +38,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Melnu elu Au'Khelathu** is the chartered guild of the metalworkers of [[place-aukhelathrgq|Au'Khelathu]] and the acknowledged heir of forge-companies whose practice is older than its charter. It trains smiths in that inherited practice and certifies work against it before a piece may be sold as guild-standard. A smith who departs from the old methods without the guild's sanction risks the certification that makes his work sellable at all.
 
@@ -58,7 +58,7 @@ The guild's one great relation is to the ancient forge-companies. It is their ac
 
 Certification is the commodity. Say a smith finishes a sword and brings it to the guild, which tests it against the practice of the forge-companies and stamps it if it passes. The stamped piece sells as guild-standard, at the price the stamp commands. The unstamped piece sells as a sword and at a sword's price. A smith struck from the roll loses the certification that makes work sellable, and with it the price.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu]]
 : The empire the guild's charter covers

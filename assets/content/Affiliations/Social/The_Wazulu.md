@@ -44,7 +44,7 @@ The Wazulu are a severe and active movement within the priesthood of the sterner
 
 Keep your license where a priest can read it, and keep your plays inoffensive to the temple that holds it. The temple is the one place a license can be questioned.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]
 : the company whose license they threaten

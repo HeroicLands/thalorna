@@ -15,7 +15,7 @@ data:
   government: selatzuzlqtt
 ---
 
-## Overview
+## Overview {#overview}
 
 **Balku** (about 22,000 people) is the capital of [[affiliation-selatzuzlqtt|the empire's Selat of Zu-Zel-Iaqtet]] in the empire, a fortified hill-town at the mouth of the chief mining district where the desert roads come down out of the hills. The eastern gold is gathered here, weighed and sealed for the long guarded journey to the capital.
 
@@ -30,7 +30,7 @@ Balku is walled, watchful and built for control rather than comfort, and it is t
 - The great temple of Saq'aru the smith
 - The smelter-works and the mine-captains' quarters
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]]
 : Parent selat

@@ -52,7 +52,7 @@ A scholar whose reading of the heavens changes the empire's course may be grante
 
 In the [[lore-phlsphyleiwo|Leiwo]] framework the Tanchei are the keepers of intellectual and spiritual Lei: the records, readings and rites that keep the sorted order sorted.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : rights and restrictions governing the Tanchei

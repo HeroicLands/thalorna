@@ -40,7 +40,7 @@ data:
 
 The name is the keel-kin: _thresk-_ is a keel, and _-aett_ is a kin reckoned together.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-malldbndlg|Málalidabandalag]]
 : the Compact that names it

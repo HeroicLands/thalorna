@@ -35,7 +35,7 @@ Hélithron belongs to the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], and 
 - **The road through.** [[being-sevnmyrkls|Sevren Mírkelis]] has to pass through Hélithron and wants company that can fight. He does not want to know whether the men are there for him until he is past them.
 - **What they want.** Sevren pays strangers to go to Hélithron ahead of him and learn what Úrthaven's men are waiting for, without letting the men learn who sent them.
 
-## See Also
+## See Also {#see-also}
 
 [[being-sevnmyrkls|Sevren Mírkelis]]
 : the alchemist Úrthaven's men are watching

@@ -22,7 +22,7 @@ Standing is part of the price. A house whose filings are in order and whose taxe
 
 Vilérian, Khelathi and Vedyaran coin is exchangeable at the empire's frontier trading posts and in the walled merchant quarters of the port cities, and nowhere else. The rate is set by the bureau that administers the post, posted for the season, and applied to every trader alike; no moneylender in Tantsou negotiates it, and a trader who tries is told that the classification of foreign silver is not his to argue. Foreign coin bought at the frontier is held by the bureau against the trader's credit for the length of his classification, and what he carries out is settled when his tablet is surrendered at the gate. No coin of the empire's own striking is seen abroad, and the empire's trade with the west is reckoned in goods, in frontier credit and in the silver the west brings east.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the bureaus, the castes and the frontiers

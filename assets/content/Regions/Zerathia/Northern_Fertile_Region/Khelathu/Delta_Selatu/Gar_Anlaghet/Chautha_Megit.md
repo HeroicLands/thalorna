@@ -14,11 +14,11 @@ data:
   banner: khelathubnr
 ---
 
-## Overview
+## Overview {#overview}
 
 Chautha-Megit lies among the channels of [[place-garanlghtslt|Gar-Anlaghet Selat]], within reach of the great port of [[place-garanlaghet|Gar-Anlaghet]]. Its families live by their boats and nets, and by the custom a port of that size throws off to the villages around it. A poor catch is made up with a good sale at the port's own quays, so a family here works both and thinks of them as one trade.
 
-## See Also
+## See Also {#see-also}
 
 [[place-garanlghtslt|Gar-Anlaghet Selat]]
 : The selat country that holds it

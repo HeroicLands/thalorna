@@ -326,7 +326,7 @@ The city began on [[place-antel|Antel]], the Old Hill, where the [Vilérian Repu
 - **The stairs.** [[being-sthmrrdln|Sathemar Ardelen]] wants a party to find out which claimant's men are buying drinks on the River Circle's stairs.
 - **The factor's grain.** The Seldan's hawks want to know what [[being-mthszrtml|Methisi Azeret'Mulu]] has promised the Tarmeks before the chamber votes on his grain.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aulpnpstmm|Court of the Academy]]
 : the Ombalon, the Academy’s ceremonial inner seat

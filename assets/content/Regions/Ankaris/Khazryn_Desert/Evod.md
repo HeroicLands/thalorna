@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-## Overview
+## Overview {#overview}
 
 Evod is flat, white and enormous. From the dune crest on its southern rim the salt runs to a horizon forty miles away, so even and so bright that a rider shades his eyes at noon and cannot judge his distance to anything. Along the old shoreline, a day's ride round the rim, a chain of stepped mounds stands against the sky, each a pyramid of baked brick with its flanks eaten by wind, and between the mounds the canal banks run straight out of the dunes and straight under the salt, as if the people who dug them expected the water to be back by the next harvest.
 
@@ -39,7 +39,7 @@ The slab-cutters work the salt as they always have, and none of them works the m
 - **The boy who can find it.** The tribe's elders want the stair opened before anyone outside hears of it, and the only guide they have is eleven years old.
 - **Lying or not.** The boy's father wants to know whether his son broke into a stair or into a story, and the boy is the only one who can show him.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-basinbldrs|The Basin Builders]]
 : the people who lived by the lake

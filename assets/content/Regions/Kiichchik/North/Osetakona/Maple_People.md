@@ -63,7 +63,7 @@ sohl: {system: {commonSkills: [osetakonalng]}}
 # terran_analog: the Haudenosaunee Confederacy and the Huron-Wendat, with Algonquian neighbors such as the Lenape, Wampanoag and Ojibwe; the clan mothers, the lineage titles, the consensus councils, the wampum and the mourning wars are Haudenosaunee, and the Feast of Bones is the Huron Feast of the Dead
 ---
 
-## Overview
+## Overview {#overview}
 
 The Osetakona are the Maple People, a league of eight nations in the lakes and forests of the northeast, about 750,000 people in palisaded villages of bark longhouses across the [[place-osetakonargn|Osetakona Region]]. They take their name from the sugar maple (_oseta_), whose sap opens their year, and they picture their league as a sugar bush (_osetaten_), the Grove: many trees tapped for one sugar. The south calls them _Shik'ul Ch'akal_, after their great lakes, and its traders call them the Otter People, after the otters carved on their canoe prows. Their ways are set out in the [[lore-osetakonaclt|Osetakona]] culture note, and their tongue is the [[skill-osetakonalng|Osetakona Language]].
 
@@ -138,7 +138,7 @@ The Grove contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier to
 
 The Grove's lake country is where the north's copper comes from. It lies in the ground pure on the shores of the [Copper Lake]{.name data-type="place/feature"}, and the Copper People's smiths hammer it cold into blades, awls and sheets that the other nations want. Canoes carry it with furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and beyond. Southern goods reach the Grove last and fewest, by way of the Turquoise People and the One Fire.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-osetakonaclt|Osetakona]]
 : the culture: what the Maple People believe and what they owe

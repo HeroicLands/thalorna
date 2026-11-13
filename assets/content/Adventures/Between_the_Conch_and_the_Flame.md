@@ -17,7 +17,7 @@ data:
 
 At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead stand in the river at night. The party must find who is selling the hour between the conch and the fire, what is being bought with it, and whether the ground can still be closed.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A Stovira of [[affiliation-adanshreni|the Adanshreni]] needs a [Chinnasutra]{.name data-type="affiliation/criminal"} cell removed and cannot be seen near it. The cell takes from houses in mourning, which the shrena forbids, and hides its takings where nobody looks. The contract is generous and will not be honored in writing.
 - **The mercenary or soldier.** A Danhija widow hires two reliable swords to stand beside her at her husband's pyre. She will not say why. Her husband's brother wants the household's keys, and a dying man's wishes are in dispute.
@@ -133,7 +133,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 
 **If bypassed.** The Waiting dissolve with the dawn, and the ground starts to close over the course of a season.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **The ground burned and the dead named.** The Landing is quiet. The Agmi-pantra is thanked at Naughat and cursed by the temple of the passage.
 - **The ground left to itself.** The river villages move their dead to the sea-shore, and the Landing becomes a shorukshetra of the lower Sarveda.
@@ -141,7 +141,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 - **The shrena.** The Sabhra of the Adanshreni has its cell removed and does not thank anyone for it.
 - **Kholu's house.** The keeper's family loses the Landing to a younger branch.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-dahanaghat|Dahanaghat]]—the stair and what the villages say of it
 - [[lore-bloodfield|Blood-fields]]—what the unburned dead make of ground

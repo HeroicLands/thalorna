@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
 ---
 
-## Overview
+## Overview {#overview}
 
 "Count the sacks, and then ask whose sacks they are," a Lem'Nelgir who runs a temple's lands tells a new tally-boy at the estate gate. "The grain is the same grain a lord would hold. The owner is a god."
 
@@ -28,7 +28,7 @@ The Zelgeru holds no single tract of ground. Its estates lie wherever the empire
 
 The estates’ western trade reaches [[place-orzara|Orzara City]] through their factor, [[being-mthszrtml|Methisi Azeret'Mulu]], who offers the Vilérian throne grain on credit and silver for its paper. The capital’s shipping houses want the grain contract, while its grain dealers oppose the foreign supply.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the enclosing region

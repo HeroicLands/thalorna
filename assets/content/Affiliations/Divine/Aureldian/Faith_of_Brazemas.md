@@ -71,7 +71,7 @@ Another significant observance occurs in late summer when the growing season dep
 
 Individual devotion to Brazemas often involves vows and promises. A farmer might vow that if Brazemas grants sufficient rain for a bountiful harvest, he will dedicate a portion of his profits to the temple and sponsor a festival in the god's honor. Sailors and merchants dependent on favorable winds maintain small shrines to Brazemas aboard their vessels, making daily offerings of wine or the first portion of their meal. Those caught in dangerous thunderstorms may make impulsive bargains with Brazemas, promising future service or piety if the god grants safe passage. These vows are understood as binding contracts, and their violation is believed to invite Brazemas's active malice.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Brazemas is structured around the **Bravsarnor**, the High Priest of the Storm, who is regarded as the primary voice of the god and the interpreter of his will as revealed through natural phenomena. The Bravsarnor is traditionally a figure of considerable authority, often consulted by kings and city councils on matters affecting agriculture, trade, and maritime ventures. The current Bravsarnor, based in [[affiliation-vylarinmpr|Viléria]], maintains an extensive network of weather-watchers throughout the empire who track storm patterns, record rainfall, and report omens to the central temple.
 

@@ -20,7 +20,7 @@ A stave is cut in the cold season, split, and seasoned three years under cover b
 
 Fire in the sheds is the thing the village fears. It keeps its own watch through the dry months and fines its own people for a lamp carried where a lamp should not be.
 
-## See Also
+## See Also {#see-also}
 
 [[place-danurkotjnpd|Danurkot Janpoda]]
 : the land

@@ -96,13 +96,13 @@ The Jobizur raid seldom, and only to answer a raid. They fear three things: a wi
 
 The Jobizur have held the northern grass and the wells round Ekon as long as their tellings run, and their tellings are of the families they took in. The Biilokur came in to them in a bad winter of the present dovaq's grandmother's youth, three Koserur families came in the last bad year, and four [[affiliation-svghrtrb|Savaghur]] families came in after the ice winter.
 
-## Hooks
+## Hooks {#hooks}
 
 - Khilodlun wants a witness from outside the steppe to the spoken terms of the Koserur protection, because the Koserur trust no witness from another tribe. A witness who hears the terms becomes a party to them, and the Koserur warband will want to know what was said.
 - Khilodlun wants her offer carried to a starving Savaghur camp at the mouth of a Ghotakur valley before the snow, by someone who belongs to neither tribe: [[scenario-vllysfrstfrst|The Valleys at First Frost]].
 - The Jobizur fur party that went north to the forest bands this summer is a month overdue. Its leader carried the tribe's salt and the dovaq's gift to a band that has never failed to send the party home.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

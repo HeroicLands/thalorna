@@ -119,7 +119,7 @@ The sea passage costs as many months as the camels and loses a larger share of w
 - A caravan master has died on the march and the heir cannot read his father's list.
 - A string has come out of the [Long Dry]{.name data-type="place/feature"} with half its camels dead and its water gone, and a guide of the hidden-water bands at the edge of the sand is offering to sell it more than water.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the land the road crosses

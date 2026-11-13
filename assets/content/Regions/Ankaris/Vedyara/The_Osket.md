@@ -92,13 +92,13 @@ The lineages of [[place-suryadvar|Suryadvar]] are rich by any standard, keep Osk
 
 The Osket keep a crossing nobody blesses, nobody taxes and nobody else can find. What it is worth, who has paid for it and what happens to a lineage that sells it are matters they settle among themselves, and the two occasions on which a lineage did sell it are remembered by the Osket in detail and by everyone else as rumor.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The man who was shown the road.** [[being-nshng|Nushang]], guide-mother of the hearth of Shomber at [[place-tsokhar|Tsokhar]], wants a lowlander dead before the window opens. She cannot go below the last Pass-Shrine in the closed months, and she asks the party to find him in the town he went down to, from a name that is not his and a face she can describe.
 - **Owed at Oskhelt.** A caravan master borrowed at [[place-oskhelt|Oskhelt]] against last season's crossing and has not come back up. The lineage that lent to him asks the party to find him below the shrines and collect, in the months when no Osket goes down.
 - **A summons up the mountain.** A court at [[place-suryagarha|Suryagarha]] has summoned an Osket guide-mother to answer for a party lost on her road. The order of stations has never placed the Osket and no court has tested it, and the Dandanayeka who issued the summons asks the party to carry it up to her and bring back whatever she sends down.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-oskhelt|Oskhelt]] · [[place-tsokhar|Tsokhar]]
 - [[affiliation-hvarnguides|The Hvarn]] · [[place-gudesroad|the Guides' Road]] · [[skill-osketlng|the Osket Tongue]]

@@ -62,7 +62,7 @@ The grinding has started to draw blood. This year an Élavendren merchant was be
 
 The Nordheim fleets came into the gulf from 519 to 530 AF ([[lore-southrnfleets|The Southern Fleets]]), threw down [[place-yharvalenhenge|Yarvalen Henge]] a day's march inland and sacked [[place-menavarabbey|Ménavar Abbey]], and the province's failure to defend the north is still remembered in the city. When the kingdom took the province's place after [[lore-charterwar|the War of the Charter]], the crown's officers brought Provénzian law to a city that had kept its own, and the quarrels over inheritance, observance and title that grind in Bataren today began with the first of them.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-batarengulf|Gulf of Bataren]] · [[place-elavendre|Élavendre]] · [[place-darvenaroad|The Darvena Road]]
 - [[lore-elavendrnppl|Élavendren People]] · [[scenario-slntwrbtrn|The Silent War in Bataren]]

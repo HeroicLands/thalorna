@@ -14,13 +14,13 @@ data:
   government: provinclys
 ---
 
-## Overview
+## Overview {#overview}
 
 Belekos is a city of wealthy merchant families, with opulent townhouses and manicured gardens that look down on the fertile river valleys supplying much of [[place-alyssa|Alessa]]'s grain. It makes nothing that anyone travels to buy. Its prosperity comes from controlling the agricultural surplus of the valleys and the trade that carries it away.
 
 A grain factor of one of the great houses, walking a newly hired clerk through the city on his first morning, makes the point at the first gate he comes to: "You came in by the front door, and you are standing in the counting room. Here the family sleeps upstairs, the sacks are stored behind, and the ledger is read in the hall where the guests are received. A house in Belekos does not keep its business out of sight, and you should not be surprised to find how much of the family's life you are expected to keep out of the ledger."
 
-## Arriving
+## Arriving {#arriving}
 
 The road comes up out of the valleys, past granaries the size of temples, and enters Belekos by a gate the great houses paid for, carved with their emblems in a row. The city is built on the slopes above the river, and its streets climb in terraces. The great houses stand along the upper terraces, each a long front of pale stone with a wide gate for carts in the middle and a garden behind, and each gate opens into a hall where the sacks are tallied under painted ceilings and colored windows. The lower city along the river is warehouses, wharves for the valley barges, the cooperages and the streets where the clerks, porters and carters live.
 
@@ -48,7 +48,7 @@ Belekos is a chartered town under the [[affiliation-provinclys|Province of Aless
 
 The great houses rule Belekos and are quietly leaving it. They fill every council seat for what it decides, the river dues, the warehouse leases and the city's bids for imperial grain, and they buy art in public to be seen buying it while they move their money out of an empire they no longer trust to last. A house that fell last year left a townhouse, a warehouse and a gladiator under contract, and its creditors and its last son race to collect them. A glassworker is making a window of a rival house's broken emblem, to be set where the rival must pass it every morning. A clerk of a great house is offering to sell a ledger his master keeps apart from the one read in the hall.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Inns stand by the gate and along the river, and the good ones are near the gate, where the factors of buyers from the capital and from abroad stay while they bargain. A stranger with a letter to one of the great houses is lodged in the house itself, in the guest rooms off the counting hall, and is expected to be grateful, discreet and seen at dinner. A guest of one house who calls on a rival house is remembered by both.
 
@@ -64,7 +64,7 @@ The decline reached Belekos as a question of trust rather than of loss ([[lore-e
 - **The fallen house.** A house that fell last year has left a townhouse, a warehouse and a gladiator under contract, and its creditors hire a party to collect all three before the house's last son does.
 - **The window.** A glassworker is commissioned to make a window showing a rival house's emblem broken, for a house that means to set it where the rival must pass it every morning.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province

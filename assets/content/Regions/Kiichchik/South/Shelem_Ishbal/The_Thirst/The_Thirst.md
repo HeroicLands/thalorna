@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, pack
 # terran_analog: the Atacama coast and the Monte desert of western Argentina, in the character of the Mojave.
 ---
 
-## Overview
+## Overview {#overview}
 
 The Thirst, Ts'ikukal (the place of thirst), is the kindest country of [[place-xelemixbalrgn|Shelem Ish'bal Region]], and the returners name it so because thirst is the worst of what it does. It runs south-west from [[place-ashcountry|the Ash Country]] for months along the western coast: a hot desert of gravel plains, dry lake beds and stony ranges, under a sky that is clear more often than anywhere else in the waste. A party that reaches it from the ash breathes easier for the first time since the gate.
 
-## The Land
+## The Land {#the-land}
 
 The Thirst looks like a desert anyone could cross. Creosote and low gray brush grow in an even scatter over the gravel, tall spiny trees with crooked arms stand alone on the slopes, and the ranges rise bare and pale out of the plain, one behind another. In the hollows lie dry lakes, white and flat as a floor. The days are very hot and the nights cold, and the wind blows every afternoon.
 
@@ -50,13 +50,13 @@ The death-walkers of the gate hold that the things walking on the plains are sou
 
 The Thirst quarrels over its springs. A party crosses it from spring to spring, the springs lie a week apart, and their places are kept in the returners' cords. The gate of [[place-xelemchalix|Shelem Ch'alish]] holds the accounts it knotted when each returner came back, and shares them only with the worthy and the desperate. The returners hold that what they found is theirs to sell, and sell their springs to parties in the gate's court for whatever a party will pay. Some springs run sweet, some poison and some are not where the last party found them, so every account sold is a quarrel waiting for the party that bought it to come back. The death-walkers of the gate quarrel with the returners as well: the death-walkers hold that the walkers on the plains are souls owed a recital, and the returners hold that a party owes them nothing but to keep moving.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The gate's own account.** The cord-keeper of Shelem Ch'alish has learned that a returner is selling, in the court, the account of the springs that the gate knotted from him on his return, and holds that the account is the gate's. He asks a party to buy it from the returner and bring it to him, and the returner wants that party to take him south again instead.
 - **A spring that moved.** A party bought a returner's springs, went south, and came back with half its members, saying that the second spring was not there. Its captain wants the returner who sold them, and the returner wants a party to go back with him, find the spring and clear his name.
 - **A recital on the plain.** A death-walker of the gate has vowed to recite the chambers below to the walkers on the plains, and wants a party to take her to them and wait while she does. The returners say that the walkers come nearer to a party that stops.
 
-## See Also
+## See Also {#see-also}
 
 [[place-xelemixbalrgn|Shelem Ish'bal Region]]
 : the waste

@@ -116,7 +116,7 @@ In 660 AF the Nordmen took the plain and enslaved most of the Vardain ([[lore-st
 
 The hold has no treaty, embassy or correspondence with any realm. A handful of times in a century it deals directly with [[affiliation-kngdmldrth|Aldorath]] or Dúnavarre, and every other dealing goes through Vardain hands at Vargate. It is at war with the Grukar, a war that has no end, and kills them wherever it finds them. The Nordmen of Stormveld covet the Ironfells passes the hold overlooks, and no war-band has raided the valleys in memory.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vorgald|Vorgald]]
 : the hold

@@ -26,6 +26,6 @@ Nothing about this is a military arrangement. Dorrin's people are herders who wa
 when they see something is send word down to [[place-barakth|Hudakal]] and let the tally-keepers put it
 up the mountain. What happens after that is not theirs to know.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-vardainvalleys|The Vardain Valleys]] · [[place-ironfells|the Ironfells]]

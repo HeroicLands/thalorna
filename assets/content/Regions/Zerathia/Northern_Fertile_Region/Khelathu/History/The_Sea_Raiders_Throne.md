@@ -59,14 +59,14 @@ The priesthood did what it does. It crowned the raiders' chief under the throne 
 
 The raiders ruled as the Khelathi priesthood let them, which was through the existing bureaus. The temples kept their rites and their estates, and a conqueror who left [The Measure]{.name data-type="place/structure"} alone found the Measure left alone. The house lasted thirty years because no one needed to remove it. In 1990 ST (121 BF) its third Gar-Au died, and the priesthood raised another house ([[lore-seahouse|the Closing of the Sea House]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **A burned port.** Zel-Amqelu, never rebuilt, in the Selat of Chathu.
 - **The apex defenses.** The forts and customs-stations at the delta's apex date from the raiders' going, when the next house resolved that a landing would not reach the river again.
 - **A shared alarm.** The three powers of the northern shore coordinate against sea-raids still.
 - **A house in the list.** Malu'Thenoru, a house of the Khelathi list whose people came from a country the record does not name.
 
-## See Also
+## See Also {#see-also}
 
 [[place-zelamqelu|Zel-Amqelu]]
 : the burned port

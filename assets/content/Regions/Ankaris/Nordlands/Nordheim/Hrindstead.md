@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nordheim], population: 0, packFolder: nordheim}
 ---
 
-## Overview
+## Overview {#overview}
 
 Follow the [[place-nalthmark|Nalthmark]] road down past the last fenced farms of [[place-nordheim|Nordheim]] and you come to Hrindstead: a stockade of Nordheim settlers standing in an oak grove that the [Eichthúl]{.name data-type="affiliation/lineage"}, a [[lore-varokhiclt|Varokhi]] clan, hold to be theirs. The settlement is twelve years old, and its name says what its founders meant by it: _hrind-_, a thing set down that will not be moved, before _-stead_, a farmstead. The thing set down is the settlers' own hall-posts, carried down the road from the halls they left and planted in the grove.
 
@@ -20,7 +20,7 @@ The settlers made their claim in the way their faith teaches. They walked the bo
 
 To the settlers the grove is ground walked and witnessed. To the Eichthúl it is sacred ground, because a Varokhi clan's grove holds its shared identity, its oldest trees house powerful spirits, and no one takes from a protected grove without the shaman's consent. Each claim rests on what its people hold holy, and the two cannot both be satisfied. The fire-walking is part of the quarrel. It shows what the settlers believe, and it does not show that the grove was theirs to take.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nalthmark|Nalthmark]]
 : the frontier settlement at the head of the road

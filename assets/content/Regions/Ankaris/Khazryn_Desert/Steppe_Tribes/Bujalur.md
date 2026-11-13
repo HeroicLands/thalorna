@@ -79,12 +79,12 @@ The tribe has answered the gathering man's riders that the Bujalur winter in the
 
 The Bujalur hold that they have wintered in the foothills under one truce or another since before the March had walls. Their tellings of the League are of horse fairs, of truces sworn at the spring-forts, and of the winters when a union rose and the March turned the camps out.
 
-## Hooks
+## Hooks {#hooks}
 
 - Bujalqiimod wants someone the March trusts to stand beside his truce-rider when the Lord Commander's officers come to count the camps, because the count is the first step of something: [[scenario-trcecmpsmrch|The Truce Camps of the March]].
 - A Bujalur boy has sold a garrison officer a horse with a brand the March knows, and the officer wants to know where the boy got it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

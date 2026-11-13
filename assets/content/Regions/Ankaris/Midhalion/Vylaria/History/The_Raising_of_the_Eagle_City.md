@@ -74,14 +74,14 @@ He then had the thrima walked and consecrated, the sacred line that bounds the c
 
 The colossus of the Founder stands in the [Orzas's Circle]{.name data-type="place/site"} before the Inner City's gate, and every accession and triumph passes it. On the plinth, in the [[skill-thrvrknscrpt|Tharavarkon letters]], a crowned rune stands where the script's rule puts the name of a god, a founder or a reigning Orzas. The rune encloses a patch of the stone that has been worked smooth. Nobody who works in the Circle can say when it was done, and the Seldan's clerks, asked whose name it was meant to hold, refer the question to the record, which does not give the Founder's name.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The [Inner Wall]{.name data-type="place/structure"}.** The ring on the crown of Arvel, the only wall Orzara has.
 - **The Old Hill.** Antel, left to the families too proud or too poor to leave it, its early monuments weathering unrepaired.
 - **The Seldan's forms.** The Republic's debate carried uphill, which the Senate offers as its proof of continuity and the throne as its proof of ownership.
 - **A palace over sealed rooms.** The [[place-palvar|Palvar]] stands on the hill whose galleries nobody opens, and [[affiliation-sorvan|the Sorvan]] holds its doors and does not say why.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thefounding|The Founding]]
 : the _kurthos_ who made himself the first Orzas

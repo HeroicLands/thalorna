@@ -15,7 +15,7 @@ data:
   government: selatsltplgn
 ---
 
-## Overview
+## Overview {#overview}
 
 "Look at that," a caravan driver says to the boy beside him on the last descent from the eastern hills, as the green strip of Selat-Pelgun comes into sight below. "Days of sand, and then this. The animals smell the water before we do."
 
@@ -35,7 +35,7 @@ The selat feeds its granaries from the flood like every [[lore-khelathiclt|Khela
 - The chief temple of the Faith of Pelgun and its estates
 - The caravan-roads from the eastern desert and the harvest-festivals of Pelgun
 
-## Settlements
+## Settlements {#settlements}
 
 Iku (~34,000)
 : the selat capital and the seat of the Halzi'a.
@@ -43,7 +43,7 @@ Iku (~34,000)
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatsltplgn|The Selat of Selat-Pelgun]]
 : The selat that holds this land

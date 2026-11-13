@@ -17,13 +17,13 @@ data:
 
 A lake of black ice north of the refugee fortress does not thaw, and the dead who freeze on it stand up again. Under the ice stands a hidden hov dedicated to [[lore-nahilddty|Nahild]], the corpse-goddess, kept by people who came to [[place-driskborg|Draskborg]] for shelter and found a gentler master. The party crosses the ice to close the place where [[lore-ginnauga|Ginnauga]], the Eye of the Void, leaks into the world, and finds that closing it costs more than a fire.
 
-## Overview
+## Overview {#overview}
 
 [[place-dvilgvatan|Dvilgvatan]] lies a day north of Draskborg, up the river and beyond the last burned farm. The ice at its center is black and will not melt. Under it, a hidden hov of [[affiliation-nahild|Nahild]] stands with its roof-ridge a man's height below the surface, kept by [[affiliation-nalok|Nalok]] under a **Dróttstjori**, [Gnuldurthira]{.name data-type="being/npc"}, who was the wife of a bundi from the [[affiliation-kingdmtrgd|Kingdom of Targud]] before the burning of her farm. The lake is a seep of the Eye of the Void: [[lore-theshadow|the Shadow]] comes through it in a cold that does not warm, and the dead who freeze there rise as **Ginnborn**. Nalok cuts shards of the black ice to set in howes elsewhere in the north.
 
 Draskborg's wardens see the dark from the tower. The fortress is full of people who have lost everything, and some of them walk north in the night.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A Draskborg gate-warden pays a thief to bring back a woman who walked out of the fortress with a child, and who is said to have taken the fortress's seal-ring with her. The ring is not why he wants her back.
 - **The mercenary or common soldier.** The hirvman who keeps the tower wants a patrol sent up the river to learn what is wrong with the north. He has no men to spare, and he will pay hirvman's rates to anyone who goes.
@@ -110,14 +110,14 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 **If bypassed.** A party that flees without the cache hears of the tally-sticks from the hirvman, when a patrol finds the hov open and empty.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the altar was broken and the hov burned.** The leak does not close, but it stops spreading. The wardens of Draskborg set a watch on the north shore and light the beacon toward the lake as well as the river.
 - **If Gnuldurthira was persuaded.** She leaves the lake and walks into Draskborg, where the gate-warden opens the gate for her as he opens it for all of them.
 - **If the tally-sticks were taken.** The [[affiliation-ravenguard|Raven Guard]] learn where the shards lie, and the work of cleansing the howes begins.
 - **If the party failed.** The black spreads, and Draskborg takes in a new kind of refugee: the ones who walked out of the north with ice in their limbs.
 
-## See Also
+## See Also {#see-also}
 
 [[place-dvilgvatan|Dvilgvatan]]
 : the lake

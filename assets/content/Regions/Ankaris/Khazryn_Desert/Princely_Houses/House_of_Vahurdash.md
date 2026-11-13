@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: [tellumilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **House of Vahurdash** is the house of the red peak, [Darhertenhur]{.name data-type="place/feature"}, the one the sun sets on, and of [[place-vahurdash|Vahurdash]], the fifth of the seven Tellumi cities, on the dry northern rim of [[place-swoasisbelt|Tellumel]] where the last of the belt's snowmelt streams fail. A drought in the deep past emptied the city and the house with it. Within the last generation Tellumi families from the free oases and the subject quarters came back to settle beside the stones of [[place-velkunar|Veshkun]], Old Vahurdash, and the house was revived with the settlement. The roll of the peaks says it plain: the house is seated again among its own stones, by acclamation, and drinks from two wells.
 
@@ -69,12 +69,12 @@ The house wants proof. Its rivals say an acclamation cannot make a prince, and t
 
 The house also wants water. The town drinks from two old wells and irrigates from a single channel, cut and recut across the sand from a spring higher up the rim. In a dry year the channel stops, and the town measures its harvest by how many days the water ran. The herders of the uplands own the small oases north of the town's fields, and a settler who waters a goat at the wrong spring meets their owners.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The title.** The house pays a party to find the old archive's tablets and bring them to Khorsád-Vahur. A rival pays the same party to leave them lost.
 - **The spring.** If the spring on the rim weakens, the town has weeks to find another source, and a party with a water-diviner or a map of the old channels is worth a great deal to the house.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vahurdash|Vahurdash]]
 : the town the house governs

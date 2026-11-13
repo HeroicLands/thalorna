@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Melnu-Qenuwa elu Galezkara** is the consortium of the goldsmiths of [[place-galezkara|Galezkara]], who supply the gilded fittings and funerary gold that the city's temples and necropoli consume in quantity. It admits only smiths whose work is judged fit for temple and tomb alike, and it guards its standards jealously. A smith whose work fails a temple's inspection can expect the consortium's own scrutiny to follow.
 
@@ -54,7 +54,7 @@ The consortium works for two kinds of customer, and both inspect. The temples an
 
 Say a temple orders a gilded fitting for a procession. The smith delivers it, a priest inspects it, and the consortium waits for his report. If the work passes, the smith is paid and the commission is entered in the consortium's roll as another reason to admit him. If it fails, the smith is paid less, if at all, and a review follows.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-linmelnglzkr|Lin'Melnu elu Galezkara]]
 : The blacksmiths of the same city

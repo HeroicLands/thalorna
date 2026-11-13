@@ -14,7 +14,7 @@ data:
   government: provinclys
 ---
 
-## Overview
+## Overview {#overview}
 
 Kalvaris is a market town of about 9,000 around an ancient hilltop precinct dedicated to the [[affiliation-arldnpnthn|Aureldian Pantheon]], and it lives by its festivals. Several times a year the roads from the surrounding country choke with the devout and with the merchants who follow them, and the market squares fill.
 
@@ -22,7 +22,7 @@ A pilgrim who has made the climb every year since she was a girl tells first-tim
 
 The town and the precinct need each other: the pilgrims feed the market, and the festivals fill the squares.
 
-## Arriving
+## Arriving {#arriving}
 
 The hill stands alone in flat farm country, and its crown of white colonnades is visible half a day before the town. Kalvaris itself lies at the foot of the south slope, a grid of paved squares and arcaded streets far too large for its people on an ordinary day, built for the crowds of the festivals. From the largest square the [Pilgrims' Stair]{.name data-type="place/feature"} climbs the hill in twelve flights, each with a landing and a shrine to one of the Twelve gods, and the stalls selling incense, wax figures, ribbons and cakes climb it too.
 
@@ -34,7 +34,7 @@ On a festival day Kalvaris holds ten times its people. Pilgrims sleep in the squ
 
 The precinct also keeps money. Families of the surrounding country, from tenant farmers to the stewards of senatorial estates, deposit their savings, dowries and wills in the precinct's treasury, because a god's house is the safest strongroom they know and the priests keep a careful book. A deposit earns a modest interest and a blessing, and the priests lend out what they hold to borrowers of good standing. The treasury is the reason the far shrines are shabby and the near ones bright: the priests spend on what the depositors see.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 The hill and the town are governed separately. The precinct belongs to the priests of the Twelve, led by a high priest of [[affiliation-ardavon|Árdavon]], and its own ground, from the first landing of the stair to the summit, is under their law; they keep a small guard of temple servants and close the gates at dusk. The town below is a chartered town under the [[affiliation-provinclys|Province of Alessa]], with two _tavemoi_ elected each year and a council of _kurthaloi_ answerable for its taxes. On festival days the _zoralus_ at [[place-alyssar|Alessar]] sends a detachment of the urban cohorts to help keep the squares, and the cutpurses who follow the pilgrims learn to work the far end of the market, away from the soldiers.
 
@@ -42,7 +42,7 @@ The hill and the town are governed separately. The precinct belongs to the pries
 
 The country round about keeps its savings in the precinct's treasury, and its heirs and creditors come to draw them. A dying farmer's heirs and his nephew race to draw the same deposit, a gang means to rob the offering-chests on the night of the great festival, and the high priest of [[affiliation-ardavon|Árdavon]] wants it stopped without the pilgrims learning anyone tried. A pilgrim came down from the closed shrine on the far side of the ring white and silent.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Between festivals a party can take a room anywhere in the town for very little. During one, there is nothing to take unless it was arranged in advance, and the pilgrim's advice holds: sleep at the foot of the hill and be on the stair before dawn. Several of the larger houses on the main square run as pilgrim hostels all year, with long rooms of beds and a shrine in the courtyard, and they keep the best beds for families who have deposited with the treasury.
 
@@ -52,7 +52,7 @@ Between festivals a party can take a room anywhere in the town for very little. 
 - **The closed shrine.** A pilgrim who slipped into the closed shrine on the far side of the ring comes down the stair white and silent, and his family wants to know what he saw.
 - **The festival's take.** A gang means to rob the offering-chests on the night of the great festival, and the high priest hires a party to stop them without the pilgrims learning that anyone tried.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province

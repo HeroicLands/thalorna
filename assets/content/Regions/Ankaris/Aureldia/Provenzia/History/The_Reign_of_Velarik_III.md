@@ -84,14 +84,14 @@ The rest of the reign was quiet by Provénzian measure. Vélarik never asked the
 
 Vélarik had no son. When he died in 709 at sixty-four, his nephew [[being-kralenldrvn|Kralen Lédravren]], the son of his younger brother, was his nearest kin, and the Peers, the cities and the great officers sent their oaths within the month. Nobody put up another claimant. Kralen kept his uncle's Chancellor and his uncle's lands.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Gefavel grievance.** Itrola Lédravren's petition for her branch's grants and the great seal stands before the Council of Peers.
 - **A richer crown.** The resumed lands pay for the king's household, and Kralen keeps them.
 - **The Chancellor.** Velzore Aitevis holds the seal Gefavel wants.
 - **An open succession.** Kralen has no child, and the Charter gives the Council no ruling on who follows him.
 
-## See Also
+## See Also {#see-also}
 
 [[being-kingvelarikiii|King Vélarik III]]
 : the king

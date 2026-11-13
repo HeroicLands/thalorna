@@ -35,13 +35,13 @@ At the upper end the Astúrathi raised a cairn after the battle. They leave noth
 - **Vilérian antiquarians**, who want the legion's name and its standards.
 - **Pilgrims of [[affiliation-sacredforge|the Sacred Forge]]**, who climb to Lezkora by [[place-thumbalero|Thumbalero]], the path above the gorge.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The paychest.** The legion's strongbox was never found, and nobody in [[place-asturath|Asturath]] will say whether it was looked for.
 - **A name read at the cairn.** A Vilérian family wants a name read aloud there, which may be the beginning of a settlement or of something worse.
 - **The recall.** Someone has begun to answer the horns, and the answer comes from higher up the gorge.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-horngorgebtl|The Battle of the Horn Gorge]]—the battle that made it
 - [[place-asturath|Asturath]] · [[place-lezkora|Lezkora]]

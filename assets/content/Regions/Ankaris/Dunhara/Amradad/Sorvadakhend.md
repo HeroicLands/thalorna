@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [amradadrgn], government: kngdmmrdd, packFolder: amradad}
 ---
 
-## Overview
+## Overview {#overview}
 
 Sorvadakhend is a significant rural settlement of [[place-amradadrgn|Amradad]], governed by the [Village Elders of Sorvadakhend]{.name data-type="affiliation/governmental"}, who decide its affairs collectively. A farming settlement lives by the seasons, and the elders do not decide when to plant, when to move water or when to store against a bad year without first hearing what the stars say.
 
@@ -16,7 +16,7 @@ Sorvadakhend is a significant rural settlement of [[place-amradadrgn|Amradad]], 
 
 For that the elders keep [[being-fakhrdtmrn|Fakhrad Tamaran]], an astrologer of [[place-shebarakhend|Shebarakhend]], on retainer as their adviser on seasonal matters and on the settlement's longer-term planning. A newcomer who wants the elders' agreement to anything that touches the land learns quickly that the question will also be put to Fakhrad.
 
-## See Also
+## See Also {#see-also}
 
 [[being-fakhrdtmrn|Fakhrad Tamaran]]
 : the elders' astrologer

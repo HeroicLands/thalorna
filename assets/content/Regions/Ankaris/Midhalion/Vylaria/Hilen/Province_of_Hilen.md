@@ -75,7 +75,7 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Province of Hilen holds the land of [[place-hylen|Hilen]], and its landed aristocracy is the most conservative faction in Vilérian politics: traditionalist, suspicious of change, and deeply invested in the old social order. The _therkos_ (governor) sits at [[place-aravantia|Aravantara]].
 
@@ -111,7 +111,7 @@ The province is governed by an outsider and run by its houses. The _therkos_ (go
 - **The tax.** [[being-ylzmsmlvrts|Yalzemas Molvarates]], whose house farms the land tax a year at a time, offers the throne three years' silver now for a ten-year contract. The houses that sit in the Seldan argue against it, because a farmer who has paid ten years in advance collects ten years' worth.
 - **The march.** At [[place-ashenmere|Ashenmere]] the forge-shrine of the Sacred Forge and the chapel of Nartun's knights face each other across the border stream, Nartunese priests come down to preach on the estates, and tenant households on the march have left their cottages in the night with nothing taken.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Province of Hilen uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Imperial taxation is administered by [[affiliation-tolvan|the Tolvan]] and revenues flow to [[affiliation-tarmex|the Tarmeks Orzan]]. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
@@ -131,7 +131,7 @@ The field is farmed again, and the best wheat in Hilen comes off [[place-olcassa
 - **The contract.** [[being-ylzmsmlvrts|Yalzemas Molvarates]] wants a party to carry her bid to the capital before the Seldan sits on it, and a house of the province wants the same party to arrive late.
 - **The beaters.** The head warden at [[place-cervalia|Kervalara]] is short of beaters for the court's hunt and pays a party to find out why the villages refused.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : parent polity

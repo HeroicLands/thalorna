@@ -15,7 +15,7 @@ data:
   government: capitalselat
 ---
 
-## Overview
+## Overview {#overview}
 
 "Count the barges on the grain quay and then count the mouths," a granary clerk tells a new tally-boy at the [[place-galezkara|Galezkara]] docks. "There are two and a half million of them in this selat, and the barges have to keep up."
 
@@ -37,7 +37,7 @@ The great temple-complexes are economic enterprises in their own right, owning f
 - The great temples—the [[affiliation-uqaa|cult of Uqa'a]] that defines official doctrine chief among them
 - The royal necropolis on the western bank—pyramids and rock-cut tombs of eighteen centuries of dynasties, from the Crossing to the Mound onward
 
-## Settlements
+## Settlements {#settlements}
 
 The selat's settlement pattern is a single great metropolis ringed by temple-towns, workshop-towns and the necropolis-cities of the western bank.
 
@@ -62,7 +62,7 @@ The bank of the dead and the temple-towns:
 
 The hinterland villages: the dense farm-and-market country around the capital holds scores of villages, many of 500–3,000 people. Among them are [[place-iuguleri|Iugu-Leri]], [[place-garzekhemu|Gar-Zekhemu]] (180), [[place-zmabelgen|Zma-Belgen]], [[place-khelutathen|Khelut-Thelqen]], [[place-yathzabes|Yath-Zabes]], [[place-garger|Gar-Ger]], [[place-sheluzu|Shelu-Zu]], [[place-anlaghthawu|Anlagh-Thawu]], [[place-amqelagefu|Amqel-Agefu]] and [[place-lutregyt|Lut-Regit]]. Each renders grain, beer and labor to the capital and the temples, and each lies within a half-day's barge of the great city's markets.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]
 : The selat that holds this land

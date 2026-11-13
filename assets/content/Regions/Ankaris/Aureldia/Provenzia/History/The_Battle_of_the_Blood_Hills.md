@@ -87,13 +87,13 @@ The storm cleared to a hillside strewn with the dead, and the Flame's zealots an
 
 The Forge made the battle its own. It had beaten the Flame at the cost of its knights, and in the province the victory is its own. The Empire's _therkoi_, who had watched the whole of it from Aurelane, drew the conclusion that the quarrel was one the province's faiths would settle among themselves. The Forge drew another, and it carried the grievance against an Empire that would not choose between the faiths for the next three and a half centuries ([[lore-charterwar|the War of the Charter]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Blood Hills.** A blood-field east of Keravel ([[place-bloodhills|The Blood Hills]]).
 - **The Gashang shrine.** A cave the zealots made, whose traps still guard the relic ([[scenario-maulgashng|The Maul of Gashang]]).
 - **The Forge's standing in [[place-provenzrgn|Provénzia]].** The faith's greatest influence and the seat of its Hamsarnor.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bloodhills|The Blood Hills]]—the ground the battle left
 - [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|the Black Flame]]

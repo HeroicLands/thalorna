@@ -36,13 +36,13 @@ The Short Way is not a blood-field. It holds two bodies, buried with rites, and 
 - **Robbers,** who think a foreigner's tomb is lightly warded.
 - **The necropolis-guard,** who walk the avenue each dusk and have never had to do more.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The name inside.** A Vilérian scholar is sure the commander's grave-goods carry the name he was born to, and that the name would embarrass a living senatorial house.
 - **The embassy.** A Vilérian envoy, quoted a price for [[place-chariotfld|the Chariot Field]], asks instead to pay respects at the Short Way, and the court has to decide whether a foreign hand at a royal tomb is a concession.
 - **The lintel.** A restoration guild bids to cut the eagle off the commander's door, and a Vilérian faction wants it kept.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-vylconquest|The Vilérian Conquest]] · [[lore-foreignhs|the Closing of the Foreign House]]
 : the house and its end

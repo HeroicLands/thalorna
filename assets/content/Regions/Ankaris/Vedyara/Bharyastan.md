@@ -25,7 +25,7 @@ The four hundred horse of the kingdom are mustered here twice a year and quarter
 
 Market week follows the spring muster. Walnut timber, hill barley, hides, a little iron and the coarse woolens the upper valleys weave come down to it, and salt, cotton cloth, oil and the manufactured goods of the river country come up. A trader who wants anything finer than that orders it and waits until autumn.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-bharyastan|The Kingdom of Bharyastan]]
 : the kingdom whose capital this is

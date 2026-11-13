@@ -199,7 +199,7 @@ The most elaborate and expensive festival in the calendar, held during Zhenyou i
 
 The final administrative event of the year, held during Chenyou. Every household, temple and office is ritually cleansed and its accounts closed. Old spirit documents are burned (transmitting them to the celestial archive), expired filings are cleared, and the Hearth Monitors (Tsaiken) submit their final annual moral reports on each household. The purification closes the books, and the new year's audit opens them again.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-celestlrdr|Celestial Order]]
 : The cosmological and administrative framework that the calendar serves

@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nordheim], packFolder: nordheim}
 ---
 
-## Overview
+## Overview {#overview}
 
 Say you cut timber in the forests behind the [[place-nordheim|Nordheim]] coast and a factor on Vrithholm offers you silver for the whole season's felling. The offer is a good one, and the terms behind it belong to someone else. Vrithholm is an islet trading post of Nordheim whose wharves serve a foreign buyer as much as any Nordman: the agents of [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]], the merchant consortium of [[place-aukhelathrgq|Au'Khelathu]], keep a house here and buy the timber of the coast's forests. The islet takes its name from the iron that passes through it: _vrith-_, the temper iron takes from the fire, before the generic for an islet.
 
@@ -16,7 +16,7 @@ Say you cut timber in the forests behind the [[place-nordheim|Nordheim]] coast a
 
 The consortium's agents want more than a share of the trade. They want timber harvested at industrial scale, and the independent woodcutters of the hinterland stand in their way. They have tried repeatedly to buy out or absorb [[being-krldmylvtrdmr|Kralmil Veturdomur]] of [[place-raltholm|Raltholm]], whose independent operation they see as the obstacle, and he has refused every offer. A woodcutter who sells to Vrithholm sells on the consortium's terms.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]
 : the consortium whose agents work from the islet

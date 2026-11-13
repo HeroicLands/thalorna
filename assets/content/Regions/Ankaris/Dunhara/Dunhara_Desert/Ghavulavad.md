@@ -22,7 +22,7 @@ The well is the town. Boys haul dripping leather buckets up from it from dawn to
 
 Ghavulavad is home to [[being-shadznkmrz|Shadezan Kamruz]], the chieftain whom the storm cults recognize as a vessel of their god, and to the storm-shaman [[being-firavdprsk|Firavad Paresak]], and petitioners come from across the desert to put their troubles before one or the other. When the common council sits, the tents spread far out across the gravel, and the Truce-Warden's peace holds over all of them.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-dunhartrbs|Dunhara Tribes]]
 : the confederations whose council meets here

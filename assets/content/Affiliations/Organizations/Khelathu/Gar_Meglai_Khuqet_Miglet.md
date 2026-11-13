@@ -42,7 +42,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 On the northern desert road, the wells matter more than the forts, and the garrison of [[place-khuqetmiglet|Khuqet-Miglet]] holds both. **Gar-Meglai Khuqet-Miglet** is the frontier command that keeps the road and its water open against the desert tribes, manned by soldiers posted far from the comforts of the capital. Its officers keep a nominal peace with the [[lore-dunhariclt|Dunhari]] and break it about as often as they keep it, so a caravan master on this road checks the state of that peace before relying on it.
 
@@ -62,7 +62,7 @@ Holding the wells matters as much as holding any fort, because between one well 
 
 If your party crosses the march, ask at the first fort which wells are open this month and whose they are. The answer costs less than a lost day, and the wrong answer costs the camels.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khuqetmiglet|Khuqet-Miglet]]
 : The desert-march it holds

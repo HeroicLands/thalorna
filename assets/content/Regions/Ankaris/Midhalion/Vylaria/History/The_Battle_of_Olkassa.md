@@ -77,13 +77,13 @@ Makandas won the field and could not use it. He had half his army, the estates' 
 
 Hilen has not forgotten. The province's great houses, whose estates the armies marched across, say that no Vilérian should draw a sword on another, and the conservatism that marks the province's politics owes a good deal to the field. The ground itself is farmed ([[place-olcassafld|The Blood-field of Olkassa]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Blood-field of Olkassa.** A quickening in the province's breadbasket.
 - **Hilen's horror of civil war.** The estates' lasting dread of any claimant who marches on another.
 - **The estate's grain in the capital's bread.** The best wheat of the province goes to the state granaries, and nobody says where it grew.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-brkensuccsn|The Broken Succession]]—the claims the battle settled
 - [[lore-greatburnng|The Great Burning]]—what the lost harvest led to

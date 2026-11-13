@@ -15,7 +15,7 @@ data:
   packFolder: provenzia
 ---
 
-## Overview
+## Overview {#overview}
 
 Leravren lies northeast of [[place-ceravelvale|Keravel Vale]] in the [[place-talothe|Talote]], and it is the gateway to the mountains and forests whose timber, ore and passes the march lives on. Some six thousand people live in its valleys, in timber camps, small mining settlements in the high valleys and farms on the lower ground. Whoever holds Leravren holds a road the rest of the frontier needs.
 
@@ -50,7 +50,7 @@ The mountain road is the frontier's back door, and in the raiding season it is w
 
 The road through Leravren is the march's oldest way into the mountains, and its lords have taken toll on it for as long as the vale has been settled. The Lénavel hold it as a branch of the Zuravel clan, the western seaboard's house, and they have kept the Flame there while the clan's line in the west turned to the Order and the Forge. The Battle of the Blood Hills was fought on the lordship's edge about 248 AF ([[lore-bloodhillsbtl|The Battle of the Blood Hills]]), and the Forge's knights have kept their vigil there since.
 
-## See Also
+## See Also {#see-also}
 
 [[place-leravrncstl|Leravren Castle]]
 : the lord's seat

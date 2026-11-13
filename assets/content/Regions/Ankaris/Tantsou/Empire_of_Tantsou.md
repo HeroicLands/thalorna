@@ -245,7 +245,7 @@ The Empire's external trade is enormous. It flows west along [[lore-celestialroa
 
 The Nwitsou are slaves and outcasts, the caste that is not a caste, whose members may hold no name the law recognizes.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tantsouregin|Tantsou Region]]
 : the regional geography, peoples and culture

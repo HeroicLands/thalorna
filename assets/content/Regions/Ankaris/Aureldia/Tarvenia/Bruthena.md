@@ -14,7 +14,7 @@ data:
   government: kingdmlnrk
 ---
 
-## Overview
+## Overview {#overview}
 
 Bruthena is a bridge with a town attached. Seven stone arches carry the road from [[place-torvaleth|Torvaleth]] to [[place-valthari|Valthari]] over the lower [Thalsira]{.name data-type="place/feature"}, the last bridge before the river spreads into the salt marsh and the sea, and the town of about 2,500 has grown up on both banks to live off what crosses it. Its name is the word for what holds it together: _brutha_ is a bridge.
 
@@ -48,7 +48,7 @@ Bruthena is a royal town. The castle is the seat of the Warden of the Towers, th
 **For the GM:** Some of the light-due is paid twice. A few of the towerkeeping families along the lower river take money from the marsh smugglers, who move Valthari goods and Lyenrik grain through the reed channels to avoid the bridge toll, and on a night agreed beforehand the paid towers keep a particular lamp dark or lit as a signal that the castle's boats are out. The Warden of the Towers suspects one family. There are three.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-leonrik|Lyenrik]]
 : the lowland country whose road to the sea the bridge carries

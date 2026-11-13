@@ -17,7 +17,7 @@ data:
 # terran_analog: the southern Appalachians and their foothills, the Tennessee, Coosa and upper Savannah valleys, with Etowah as the model for the hill towns
 ---
 
-## Overview
+## Overview {#overview}
 
 The Old Ranges (_poktasko hoshalo_) are the forested ridges east of the [[place-hokpargn|River Valley]], in the [[place-tokchiaskargn|Tokchi Aska Region]]. About 330,000 people live in them, in hill towns strung along the valley floors between the ridges, each with its own small river, its own fields and its own mound. They are part of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, and the heartland has never been sure how firmly.
 
@@ -39,7 +39,7 @@ The hill towns take the coal at every New Fire and send their tribute in salt, m
 
 The ranges are crossed along their valleys, never over the ridges when a stream will do. Salt, mica and soapstone go west down the streams to the great river. Copper and furs come south from Ha'nal Shi'lan along the northern valleys, and war parties of the [[affiliation-osetakona|Maple People]] come the same way. South and east, the valleys fall away into the swamps of the [[place-wikopihirgn|Dark Water]], and a few traders go down through them toward the eastern ocean, which the One Fire does not sail.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire, which holds the ranges

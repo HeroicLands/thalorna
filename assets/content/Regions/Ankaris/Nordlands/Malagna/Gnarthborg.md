@@ -14,7 +14,7 @@ data:
   government: kingdomlgn
 ---
 
-## Overview
+## Overview {#overview}
 
 The finest shipyards in the north stand in Gnarthborg's harbor, and the clans that work them do not give up a hull's lines, a keel's proportions or a trade secret for any price a stranger has yet offered. The name is a jaw that will not open, and the kingdom built on it has a reputation to match. Twelve hundred people live within the fortified town, second only to [[place-knalthstead|Knalthstead]] among the settlements of the [[place-nrdlndsrgn|Nordlands]], and [[being-knghlrthni|King Hlurthann III]] holds his hall here, acclaimed at the ting like every king before him and answerable to the same assembly for every arm-ring he is handed back.
 
@@ -24,7 +24,7 @@ The jaw that will not open cuts both ways. Gnarthborg's shipwrights guard their 
 
 The killing that began the [[place-malstead|Málstead]] wergild happened in a Gnarthborg shipyard, three generations ago, between a [[affiliation-hrafanvar|Hrafanvar]] shipwright and a [[affiliation-grimvar|Grimvar]] boy. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells what followed.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdomlgn|Kingdom of Malagna]]
 : its seat and the king's hall

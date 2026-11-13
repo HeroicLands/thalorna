@@ -32,7 +32,7 @@ The custodians of dark works keep it. They live at [[place-kuomethei|Kuomethei]]
 
 Narivothei's Elder petitioned the Council in the second year after the village's stone went white, and the Council has sent no custodian to answer it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-itharisul|Ithasul]]
 : the substance of the works, and the states a work passes through

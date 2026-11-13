@@ -23,7 +23,7 @@ The town lives on whale and fish. Flensers, coopers, net-makers and oil-boilers 
 
 The wreck-officers report to the hall after every storm, and what they bring in from the reefs is entered in the granary roll.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-wejaidmn|Wejai Domain]]
 : the house and its lord

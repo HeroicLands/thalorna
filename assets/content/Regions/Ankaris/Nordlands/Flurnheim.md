@@ -20,7 +20,7 @@ The people hailed Rilthorv as their savior, and his song entered their harvest r
 
 The name is a hard country's: _flurn-_ is a flake of stone split off by frost, and the generic that follows is the one for a settled place.
 
-## See Also
+## See Also {#see-also}
 
 [[being-rlthrvrnskld|Rilthorv Runaskald]]
 : the skald who lifted the blight

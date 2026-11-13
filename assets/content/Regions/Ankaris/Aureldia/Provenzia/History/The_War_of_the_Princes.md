@@ -72,7 +72,7 @@ The vale of Keravel lay between the two parties and on the road from the east, a
 
 The war ended with neither prince. The moderate houses of both parties found a third man in the royal house and gave him the crown: [**Dalenar** Lédravren]{.name data-type="being/npc"}, a king both sides could bear. He confirmed the Charter and left the question of the succession where it had been, with the Council.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **Grudges.** Every great house still nurses a grievance from the war, and the families know which.
 - **The Tanevar and Provénzian divide.** Traditional Tanevar leaders turned the country's discontent against the cities' rule, and the line between the two peoples has run where the war drew it ever since ([[affiliation-kngdmprvnz|The Kingdom of Provénzia]]).
@@ -82,7 +82,7 @@ The war ended with neither prince. The moderate houses of both parties found a t
 - **[[place-durvalis|Durvalis]].** The fortress town raised to hold the road ([[place-durvalis|Durvalis]]).
 - **A crown that contests the Council.** The argument over prerogative and taxation that still occupies the court.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ceravelvale|Keravel Vale]]
 : the battleground

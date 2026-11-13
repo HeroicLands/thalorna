@@ -14,7 +14,7 @@ data:
   packFolder: norgaad
 ---
 
-## Overview
+## Overview {#overview}
 
 High in the [[place-flarnfjall|Flarnfjall]], above a pass that snow closes for half the year, a fortress of dry-laid stone stands on a spur over the mouths of its own mines. It is **Vruthborg**: _vruth-_, the temper iron takes from the fire, in its deep grade, with _-borg_, a stronghold on a height. The iron and silver that come out of the rock under it are some of the best in [[place-norgaad|Norgaad]], and the fortress was built to hold them: a curtain wall with a gatehouse, a hall, a barracks range for the jarl's drengir and miners, a treasury cut into the rock, and a foundry whose furnace was the pride of the district.
 
@@ -55,7 +55,7 @@ The watch stands at its morning posts, waiting for its lord's word. Each one ros
 
 By the pass road through the Flarnfjall, a day's climb above the last summer pasture, and then by a switchback track up the spur to the gatehouse. The workings under the fortress run through the mountain, and an old haulage tunnel carries ore down from them to a sledge-road on the far side of the pass, below the snow line. Late in the year, snow closes the pass road behind a party that goes up.
 
-## See Also
+## See Also {#see-also}
 
 [[scenario-furnaceashnjarl|The Furnace of the Ashen Jarl]]
 : a scenario set here

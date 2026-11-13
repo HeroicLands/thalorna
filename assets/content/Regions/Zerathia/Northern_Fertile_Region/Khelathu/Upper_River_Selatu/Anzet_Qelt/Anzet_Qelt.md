@@ -15,7 +15,7 @@ data:
   government: selatanztqlt
 ---
 
-## Overview
+## Overview {#overview}
 
 "Walk the edge at dusk, when the heat goes out of the sand," a watch-priest tells the boy who carries his water. "That line of low walls is not a boundary. Every one of those walls marks a tomb, and every tomb belongs to somebody who is paying to have it watched."
 
@@ -27,7 +27,7 @@ The selat takes its character from [[lore-hezmuiridty|Hezmu'iri]], the jackal-he
 
 Behind the tombs lies ordinary [[lore-khelathiclt|Khelathi]] country. Villages and estate-towns of a few hundred to a few thousand people cluster on the cultivable ground and on the temple estates. The farmers owe a share of the harvest and labor on the canals, the grain goes to the granaries, and the temples and the crown take their portion of everything. The scribes among them are the one reliable ladder out of the fields. Past the reach of the water the land is high desert and chaparral.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-anzet|Anzet]] (~24,000)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates.
@@ -35,7 +35,7 @@ Behind the tombs lies ordinary [[lore-khelathiclt|Khelathi]] country. Villages a
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatanztqlt|The Selat of Anzet-Qelt]]
 : the selat that holds this land

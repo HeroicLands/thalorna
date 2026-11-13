@@ -243,11 +243,11 @@ ndeyamo liwe ngende ngabeli shewe lome ndebyo nyendemoshi.
 
 **The Drum-Master of Sengala**, an unnamed (or rather, name-suppressed) figure who maintains the central relay station of the northern drum-network. By long custom, the holder of this post has no public identity; only the other drum-masters know who occupies it at any given time. The arrangement is a security measure that has held for nine generations.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Nyáluba trade almost entirely by [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]]. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Khelathi currency through southern trade-routes) is more developed than commerce with the western Vilérian system.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sthrnsvnhs|Southern Savannahs]]
 : parent region
@@ -269,3 +269,7 @@ The Nyáluba trade almost entirely by [[lore-bartercnmy|the Barter Economy]] and
 
 [[place-xerathia|Zerathia]]
 : parent continent
+
+[[affiliation-ekunda|Ékunda Tribe]]
+
+[[affiliation-fenjara|Fénjara Tribe]]

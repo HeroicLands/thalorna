@@ -41,13 +41,13 @@ A Reading held for the unnamed at the edge quiets the field for the night it is 
 - **The starving,** in a famine year, who have heard the dome is full.
 - **The Halzi'a's wardens,** who walk the wall and keep the door bricked.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The hungry year.** A lean year presses a Halzi'a to open the Eleventh Granary for the grain he is sure it holds, and a party is hired either to open it or to keep it shut.
 - **The extra granary.** A tally-scribe keeps finding a twelfth entry in the roll, and the extra granary has no door.
 - **The name.** A family proves an ancestor lay in the dome and wants him read aloud, which is the one thing that might settle part of the field.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sealedgran|The Battle of the Sealed Granaries]]
 : the battle that made it

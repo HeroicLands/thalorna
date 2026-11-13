@@ -92,7 +92,7 @@ Nobody outside the houses addresses the Council. A petition reaches it through a
 - **The count.** [[being-hrundthrsk|The Harbormaster]] wants a census taken by someone in neither party's pay, and the Customs Officer's tally-men are in both.
 - **One arbitrator.** [[being-kubasornrd|Kubasor Norodari]] wants proof that the old houses have bought an arbitrator before the hearing on the lost hulls.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-calypsa|Kalipsa]]
 : the city-state the Council governs

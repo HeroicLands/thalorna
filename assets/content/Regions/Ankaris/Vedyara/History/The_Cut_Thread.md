@@ -35,7 +35,7 @@ About 660 AF the craft-lines that rejected the taboos, chiefly the prohibition o
 
 The shrena treats every other rival as competition. It treats the Chinnasutra as a matter of its survival, for a plain reason: a killing during a taking is read as a shrena killing, whoever did it, and charters have been suspended for Chinnasutra work the shrena had nothing to do with. Every Chinnasutra killing costs the Adanshreni its standing with the courts that tolerate it.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-adanshreni|The Adanshreni]]—the shrena
 - [[lore-agepatrons|The Age of Patrons]]

@@ -179,7 +179,7 @@ The Merazuni's strongroom holds less than its books say: among the reserves Yush
 - **The Reformist Vote.** A coalition of younger councilors of the Gatitush has formally proposed strengthening the Pazasuni's enforcement powers against the merchant-prince factions whose interests the present Pazasuni have visibly declined to pursue. If it passes, it ends the comfortable arrangement that has left the Crimson Ledger's reach into the Taruzelian guilds largely untouched. Pazasuya Lataruni has signaled quiet support, the merchant princes are mobilizing against it, and the vote will be very close.
 - **The Helionite Arbitrage.** Over the past three years one Helionite moneylender house has become the largest cross-border script intermediary on either side of the Vilérian–Taruzelian frontier, accepting both Tarmeks and Merazuni paper and keeping accounts with both institutions on a scale neither fully appreciates. Its senior partners are in delicate negotiations with both the Imperial _Tarkelos_ (treasury officer) and the Kubasum. The arrangement earns enormous profits and is formally irregular under both institutions' rules. The _rozimoi_ of the Tarmeks have begun preliminary inquiries, and the Pazasuni have not yet been asked to. Disclosure could end the arrangement, damage both treasuries' political positions and ruin the house; silence carries its own risk if either institution's auditors notice on their own.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the polity that chartered the Vezakuni

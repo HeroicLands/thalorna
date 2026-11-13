@@ -53,7 +53,7 @@ Patron
 Region
 : [[place-aureldirgn|Aureldia]]—no fixed bases; operates as a network of cells with no permanent stations; coordinated from sites that change every season
 
-## Overview
+## Overview {#overview}
 
 Where [[affiliation-ordershnvw|the Order of the Ashen Vow]] is [[affiliation-blackflame|the Black Flame]]'s doctrinal arm—sworn to a public theology of purification and committed to acts of cleansing whose justifications are themselves part of the doctrine—the Iron Cinder is its operational arm. The Iron Cinder does not preach. It does not justify. It does not, in the conventional sense, exist. What it does is the work that the Ashen Vow's doctrinal commitments make difficult: the targeted assassination, the discrete arson, the quiet removal of a witness who has become inconvenient, the destruction of an archive that has begun to record what the Black Flame would prefer not to be recorded.
 

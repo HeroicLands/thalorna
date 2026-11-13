@@ -56,7 +56,7 @@ data:
 sohl: {system: {commonSkills: [tellumilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **House of Ushtra-ber** rules [[place-ushtraber|Ushtra-ber]], the last founded of the seven Tellumi cities, at the far eastern end of [[place-swoasisbelt|Tellumel]] where the belt narrows against the foot of [[place-estrnreach|the Eastern Reach]]. It is the house of the green peak, [Yermimtenhur]{.name data-type="place/feature"}, where a glacier lies in a green valley, and the roll of the peaks gives it the last word: it keeps the forms, it will not take up any court's manners but its own, and it holds its city. About twenty thousand people live in the city and perhaps seventy thousand more in the terraced villages of its valley, and the house governs them all.
 
@@ -72,11 +72,11 @@ The house wants to be left alone, and so far it has been. The [Tozhirod]{.name d
 
 Its quarrels at the [[affiliation-cnclprinces|Council of the Princes]] are about form. Nartemai holds that the exile courts have let their ceremonial slip in ninety years of foreign hospitality, and he is the most exacting of those who say that an acclamation cannot make a prince, which sets him against the head of the [[affiliation-hsevahurdash|House of Vahurdash]]. The tablets that would settle that question are the kind of record his archive keeps.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The old forms.** A scholar from Amradad or [[place-caldar|Kaldar]] wants copies from the archive. Nartemai grants access to those who learn the forms and earn his respect, and refuses everyone else, so the scholar wants a party to earn it for him.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ushtraber|Ushtra-ber]]
 : the city the house rules

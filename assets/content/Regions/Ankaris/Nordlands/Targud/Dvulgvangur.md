@@ -13,7 +13,7 @@ data:
   packFolder: targud
 ---
 
-## Overview
+## Overview {#overview}
 
 The watch at [[place-tvalgard|Tvalgard]] has one rule about Dvulgvangur that it gives every bundi on his first rotation: cross it by noon, or do not cross it. The ford lies on the burned ground east of the ridge, a day's walk out, where the river comes shallow over gravel below the rise that [[place-nulthgard|Nulthgard]] stands on, and the old road to the eastern districts goes through it because there is nowhere else to go through. Its name is the sleep a man takes standing, on watch, _dvulg-_, before the generic for a field, and it was given after.
 
@@ -29,13 +29,13 @@ On any night of the year presences walk the gravel, and in the thaw, when the ri
 
 Nobody keeps the field. The Lawspeaker's circuit never sits within sight of it, the fort-captains do not take a muster across it after noon, and a bundi who must cross goes by day, goes quickly and does not look at the far bank until he is on it.
 
-## What a Party Finds
+## What a Party Finds {#what-a-party-finds}
 
 - A crossing at dusk that cannot be left before dawn, with a Grukar raid coming down the old road behind it and the field choosing which side it steadies.
 - An old bundi of the eastern districts who wants to drink the grave-ale for his great-grandfather on the field itself, with the reckoning spoken, which is the one rite that might end it, and who needs someone to hold the ford while he does.
 - The king's ride to the howes at Nulthgard, which crosses the ford twice.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-burningeast|The Burning of the East]]
 : the three days, and the hall that burned above them

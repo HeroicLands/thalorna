@@ -44,7 +44,7 @@ A senior priest of [[affiliation-lutqearet|Qe'aret's temple]], instructing a you
 
 A young priest who joins the Qethalu takes on no business and no fortune. He takes on a cause: that the one who judges for the goddess should not owe anything to a throne.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-lutqearet|Lut-Qe'aret]]
 : the temple they serve

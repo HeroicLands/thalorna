@@ -8,7 +8,7 @@ tags: [city, naval]
 data: {demonym: null, lore: [], parents: [helionis], population: 40000, government: pelagora}
 ---
 
-## Overview
+## Overview {#overview}
 
 **Pelagora** settles things by shouting, and the shouting decides a fleet. The city of 40,000 is the naval power of [[place-helionis|Helionis]], a democracy in which an assembly of free citizens votes on war, trade and law, and every citizen is expected to serve in the fleet or the militia. Its patron is [[lore-ardavondty|Árdavon]], god of order and justice, and the assembly is the loudest place in the city: debates turn into shouting matches, demagogues rise and fall with the public mood, and the city lives with it because a man who owns a share of the city fights for it.
 
@@ -28,7 +28,7 @@ The bronze copy of [[lore-heladpelagtrty|the Pelagoran Treaty]] stands in the ag
 
 Thirenae needs Pelagora's fleet, and Pelagora needs Thirenae's diplomatic connections, so the two are rivals and partners at once.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-pelagora|Pelagora]]
 : the city-state and its assembly

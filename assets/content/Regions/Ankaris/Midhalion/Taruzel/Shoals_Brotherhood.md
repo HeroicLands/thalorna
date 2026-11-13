@@ -111,7 +111,7 @@ The League's galleys hunt the channels round the Shoals, and no League galley ha
 - **The pilot.** A Brotherhood boat comes out of the Shoals at dusk and offers a party's ship a pilot, and the master would rather risk the sand than pay the share the pilot names, which is not bargained.
 - **The bread.** The Yamuzel hall that buys the Brotherhood's bread and tar has had its credit stopped by its chandler, and [[being-rzznpddn|Razzina Padduni]] wants a party to carry coin to the chandler before the boats run short.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tamzirshoals|Tamzir Shoals]]
 : the water the Brotherhood holds

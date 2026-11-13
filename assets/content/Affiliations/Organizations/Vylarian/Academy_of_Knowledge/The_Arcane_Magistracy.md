@@ -68,7 +68,7 @@ The register is the Order's now, and so is the habit it taught. A name on the re
 
 The Kandral has not sat since 75 BF, and nobody fights over it. Its register survives, and the Order owns it. The cedar boxes stand in the Order's archive, a new student is shown the page where one arcanist was lent to three men in a year, and the Senate's own archive of the same decades has gaps, so the Order holds the fuller record of the Republic's last arcane century. While the Order argues whether it should crown and uncrown rulers, the register is its record of the century when the state lent its arcanists to whichever faction paid.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ordoarcanis|Thordimalon]]
 : the Order that replaced it and keeps its register

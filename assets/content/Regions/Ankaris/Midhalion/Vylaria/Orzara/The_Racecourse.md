@@ -52,7 +52,7 @@ The Racecourse is where the city shouts, and every claimant to the next reign wa
 - **The senator's son.** A _kurthos_ of [[affiliation-seldan|the Seldan]] learns that his son owes the leading faction's betting-books more than the house can pay, and hires a party to buy the debt back without the faction learning who is buying.
 - **More men.** The captain of the Racecourse Circle watch-house of [[affiliation-vylrnmltry|the City Watch]] hires a party out of his own purse to stand between the colors on the next race day.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city and its public life

@@ -38,19 +38,19 @@ They live in the shadow of the [[affiliation-tantsouempr|Empire]]. Tantsou has t
 
 The tribes sell the last and hardest passage on the road under the Empire's eye: Tantsou gives gifts and titles to some chiefs, pays others to keep the pass clear, and rides the road a week out from the pass. At [[place-ruweq|Uruvaq]] the tribes have named their price for the painted script, and it is not silver but a thing brought out of Tantsou, which a Tantsou scholar at the western passes wants badly enough to weigh.
 
-## Dangers
+## Dangers {#dangers}
 
 The cold takes animals first and men second. [[being-sandwurm|Sand wurms]] live in the deeper desert, and the caravans reroute for a season when one is reported. [[being-erthrvr|Earthreavers]] tunnel under the cavern floors in the ridges.
 
 The tribes hold the caverns as the country's own lungs and bar them to strangers. In one of them, [[place-ruweq|Uruvaq]], "the wind", cisterns cut in the rock hold sweet water in a waterless land, and the walls beside them are painted with a script no one reads. Whoever cut the cisterns left no name behind.
 
-## Hooks
+## Hooks {#hooks}
 
 - A Tantsou scholar wants a copy of the painted script from the caverns, and the tribe that holds them wants a price no scholar can pay.
 - A Tantsou patrol officer is selling pass-tokens to caravans that have not paid a single tribe, and a tribe has noticed.
 - A caravan reached the customs-house with a dead rider's token in the master's pack, and the Tantsou clerk will release the cargo only to the rider's kin.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region

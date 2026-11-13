@@ -66,7 +66,7 @@ The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaih
 
 Most [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] who live within the empire are classified Tsaihwo, because their work fits no other caste so well. Senalian woodcarvers, weavers and jewelers and Khazárian smiths, masons and engineers make work that sells for many times the price of a human master's, and the richest of them live better and wield more influence than many Wohou, whatever their tablets say.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-castelaws|Caste Laws]]
 : rights and restrictions governing the Tsaihwo

@@ -78,7 +78,7 @@ The Arsir of the year, [Sothanos Kosamides]{.name data-type="being/npc"}, sent t
 - **The day of the extraction**, which the colleges keep as a day of silence.
 - **Thirenae's claim** to be the birthplace of the [[affiliation-ordoarcanis|Arcane Order]] and its first victim.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-helionscnq|The Conquest of Helionis]]—the war this siege ends
 - [[lore-heladpelagtrty|The Pelagoran Treaty]]—what the ships on the coast were bought with

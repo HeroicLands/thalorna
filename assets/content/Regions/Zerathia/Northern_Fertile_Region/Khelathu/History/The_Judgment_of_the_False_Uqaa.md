@@ -69,7 +69,7 @@ The sentence was given in the order of the crime. His wives and children were ki
 
 The next flood came full. The temple takes that as the answer, and the famine broke.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The cursed road.** The Way lies four crossing-roads back from the river-front, walled by dunes, with a warning stela at its mouth, and the necropolis guard kill anyone seen seeking it.
 - **The struck name.** The formula _the name is struck; the years stand_ is the temple's heaviest sentence on a record, and a document of the house carries no name. A private contract that escaped the scraping is valid and dangerous to own.
@@ -77,7 +77,7 @@ The next flood came full. The temple takes that as the answer, and the famine br
 - **The whispered name.** The oldest servants of the necropolis keep what he was called and say it to no stranger. A scholar who wants it has to find the people the erasure never reached.
 - **A sect that would wake him.** Now and again a cult comes to the sand, wanting to wake him, and the sand takes it.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-sealedgran|The Battle of the Sealed Granaries]] · [[lore-akhpriestthr|the Priests' Thrones]]—the event before it and the age it opens
 - [[lore-akhstruckhs|The Struck House]]—the age it closes

@@ -16,7 +16,7 @@ data:
 # terran_analog: Chactún and the Venus tables of the lowland courts; the name joins ne' (water) and ch'akal (great) to kul- (a lord's seat)
 ---
 
-## Overview
+## Overview {#overview}
 
 East of the city the jungle opens onto a flat plain of pale limestone, and the plain is full of holes. There are dozens of them, round and sheer-sided, from a few paces across to the width of a plaza, and at the bottom of each lies still water, blue-green and clear enough to show the fish twenty meters down. Ne' Ch'akalkul, the Great Water Seat, stands along the western edge of that field of sacred pools, the _ch'uqil_. It is a city of about 60,000 people in the [[place-kankulrgn|K'ankul Region]], one of the great city-states of [[affiliation-kankul|K'ankul]], and its pyramids look out over the pools to the eastern horizon.
 
@@ -38,7 +38,7 @@ Ne' Ish has found that the day-tables [[affiliation-ishilanshulum|the Star House
 
 A Ts'enmah rules Ne' Ch'akalkul by descent and names his heir in a public rite while the heir is still a child. Kulmah hold the lesser seats in the jungle around the city, and the court reckoner and the keeper of the stones are both kin of the royal house. Like every city of K'ankul, Ne' Ch'akalkul competes with its neighbors in discoveries rather than in war, and its Ts'enmah measures his reign by the calculations he has announced.
 
-## See Also
+## See Also {#see-also}
 
 [[place-smoothstep|The Smooth Step]]
 : the gray swelling at the westernmost pyramid's foot, where the reckoners stand

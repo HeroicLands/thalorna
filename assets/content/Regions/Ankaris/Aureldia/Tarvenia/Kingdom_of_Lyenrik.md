@@ -110,7 +110,7 @@ Government
 Seat
 : [[place-torvaleth|Torvaleth]]
 
-## Overview
+## Overview {#overview}
 
 The Kingdom of Lyenrik holds the land of [[place-leonrik|Lyenrik]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of the [[place-tarvenirgn|Tarvénia Region]]—and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.
 
@@ -144,7 +144,7 @@ King [[being-zenotholtr|Zenoth Oltris]] means to stand at the next election of a
 
 On the plain the Towerkeepers keep their beacons lit and take the light-due. The crown of Lyenrik and the crown of Galvaren quarrel over the tolls on the one road between them, and each is the other's best customer.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 The Kingdom of Lyenrik uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The kingdom is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
@@ -162,7 +162,7 @@ From about 538 AF, with the legions drawn north, the lowlands stopped paying the
 
 [Estaril]{.name data-type="being/npc"} of Lyenrik held the High Kingship from about 605 AF, the first of several Liénriki High Kings, and the lords of Lyenrik have contested the crown at every election since. The High King has still most often been an Astúrathi lord, and the present one is.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]
 : The loose overlord

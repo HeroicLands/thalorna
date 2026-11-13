@@ -69,7 +69,7 @@ Another important observance is the [Celebration of Arrivals]{.name data-type="l
 
 Individual devotion to Pozeras often centers on the making of vows and offerings before departure. A merchant will vow that if Pozeras grants safe passage and profitable trade, he will donate a portion of his profits to build a way-shrine—a small, rudimentary temple maintained by the priesthood and available to all travelers for prayer and brief rest. A soldier might vow to offer a weapon or piece of armor won in distant battle if the god grants her safe return home. Sailors make offerings of wine or the first catch of fish before embarking on sea voyages, understanding that the cooperation of Pozeras’s faith with the [[affiliation-brazemas|Faith of Brazemas]] is essential to safe passage across unpredictable waters.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Pozeras is uniquely decentralized and mobile compared to other Aureldian faiths. At the nominal apex stands the **Tramar**, the Master of Wayfaring, who maintains headquarters at one of the great port cities but spends considerable time traveling among the secondary centers of the priesthood. The Tramar is the keeper of maps, route knowledge, and travel wisdom accumulated over generations, and the final arbiter of Pozeras's theological interpretation. The current Tramar, based in a major port city, is a navigator and former merchant-captain who has traveled to every major coast of [[place-ankrscntnnt|Ankaris]] and beyond.
 

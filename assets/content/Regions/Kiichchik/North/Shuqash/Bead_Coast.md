@@ -17,7 +17,7 @@ data:
 # terran_analog: the California coast from Point Conception north to Monterey Bay, with the Santa Barbara Channel and the northern Channel Islands; the tar seeps are those of Carpinteria and the Goleta coast, and the Crossing Shore is Point Conception
 ---
 
-## Overview
+## Overview {#overview}
 
 The Bead Coast (_shuq halaq_) is the shore of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People, on the western coast of [[place-northkiichchik|Northern Kì'ìch'chik]], south of the fjords of the [[place-kelwanukrgn|Kelwanuk Region]]. It is a long strip of beaches, river mouths and headlands between the sea and the coastal mountains, with a chain of islands a morning's paddle offshore. About 230,000 people live on it in some sixty towns, more people to the mile than anywhere else in the north, and every one of them can reach the sea before noon.
 
@@ -41,7 +41,7 @@ The coast trades with itself first. Fish, seal meat, shell, tar and beads move b
 
 The danger comes from the north. The Cedar People's war canoes come down the coast in summer, and watchers on the headlands send up smoke when they are sighted. The northern towns pay the Northern Strand every spring, and the war canoes pass the coast by.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People, who hold this coast

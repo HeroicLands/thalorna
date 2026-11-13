@@ -61,7 +61,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: the governance takes the shape of the Inca state's kin groups and counts under a temple's priests, as at the oracle of Pachacamac: the kin groups are the ayllu, the two halves hanan and hurin, the labor turn the mit'a, the Ts'obmah the decimal officials counted here in twenties, the K'otselbal the quipu keepers and the storehouses the qollqa; no title is an Inca word
 ---
 
-## Overview
+## Overview {#overview}
 
 Q'aptel Tsa'kul holds the land of the [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]], the poisoned threshold between the plateau of [[affiliation-kuxiixbal|K'ushi Ish'bal]] and the wastes of [[place-xelemixbalrgn|Shelem Ish'bal Region]]. It is the smallest realm of the south and the strangest: it has no Sun Lord, no town but its two fortress-temples and almost no fields, and it lives on the parties that pass through it. Its priesthood serves two gods above the rest, [[lore-puqilchaqundty|P'uqil Ch'akun]], who commands the weather and the fury of storms, and [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], mistress of death. Blood flows freely on their altars, offered for safe passage through what lies beyond.
 
@@ -85,7 +85,7 @@ The few passes through the region are held in the priesthood's name, but there i
 
 Passage is the realm's trade. The Q'aptelmah sets a fee for every party that passes south, the cord-keepers knot each party and its fee into the _k'otsel_, and the keepers of the storehouses sell each one its food, its cloths and its amulets. The priesthood profits immensely from this transit trade, and the fees are the realm's tribute.
 
-## See Also
+## See Also {#see-also}
 
 [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]
 : the land Q'aptel Tsa'kul holds

@@ -17,7 +17,7 @@ data:
   packFolder: provenzia
 ---
 
-## Overview
+## Overview {#overview}
 
 Torvila Gefavel is the stronghold of the Princess of [[place-gwefavel|Gefavel]], [[being-itrolaldrvn|Itrola Lédravren]], in the valleys of the [[place-sathvothe|Satvote]]. Some eleven hundred people live in the town below it. It is the seat of a cadet branch of [[affiliation-hseledravren|House Lédravren]], and it is a poorer seat than it was. The trail over [[place-hidralza|Hidralza]] starts in the valley above the town, and the flocks go up it after the thaw.
 
@@ -42,7 +42,7 @@ The hall keeps the branch's charters and the copies of every grant the Gefavel p
 - **The grant rolls.** The princess wants the stronghold's old grant rolls compared with the crown's copies at Jalnasdal, and she needs someone the Chancellor's clerks will not recognize.
 - **The lender's agent.** The moneylender's man wants to see the stronghold's accounts, and the steward wants him to see a version of them.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-gwefavel|Gefavel]] · [[place-sathvothe|Satvote]]
 - [[being-itrolaldrvn|Itrola Lédravren]]

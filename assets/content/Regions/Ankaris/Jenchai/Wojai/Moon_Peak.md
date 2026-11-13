@@ -21,7 +21,7 @@ The south face is the domain's market. The anchorage at [Showo]{.name data-type=
 
 The summit is kept as a shrine of the Minister of the Moon, and the domain's Tanchei hold the mountain record there. Yujai's [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) waits until the tolls of the year are counted as well as the harvest, and only then is the lord's roll closed.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-wojaidmn|Wojai Domain]]
 : the house and its lord

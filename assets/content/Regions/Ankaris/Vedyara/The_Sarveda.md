@@ -24,7 +24,9 @@ The Sarveda is the gentlest of the four. It rises slowly, spreads where the othe
 
 Boats work it for nine hundred miles. Its river trade is small craft and short hops, where the other three carry long haulage.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-sarvaprbhv|Sarvaprabhava]] · [[place-sthrnwall|the Southern Wall]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-chandrmahi|The Chandramahi]] · [[place-mahanodi|the Mahanodi]] · [[place-bharavarivr|the Bharava]]
+- [[place-naughat|Naughat]]
+- [[place-dahanaghat|The Burning Landing]]

@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Lut-Chelsur is the selat of the crocodile-god, and it lives with the difficulty that comes with him. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], an eastern marsh of river-beast hunters around the great crocodile cult. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-chelsurdty|Chelsur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-lutchelsrslt|Lut-Chelsur Selat]].
 
@@ -65,11 +65,11 @@ Lut-Chelsur is the selat of the crocodile-god, and it lives with the difficulty 
 
 The seat is [[place-lutchelsur|Lut-Chelsur]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-chelsur|Chelsur]] stands. The cult's central difficulty is that the animal sacred to the god is also the animal that takes farmers and children along the river, and must sometimes be killed.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Lut-Chelsur uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of Gar-Hálzi attached to the chief temple attests the weight-pieces and holds the granary accounts, and a hunter paid for a season's work is paid in pieces the chapter has weighed. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

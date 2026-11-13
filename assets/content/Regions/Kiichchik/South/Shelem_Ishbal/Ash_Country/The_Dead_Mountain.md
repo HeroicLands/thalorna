@@ -8,7 +8,7 @@ tags: [feature, waste, mountain, lair]
 data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Dead Mountain, Ts'ultel Ts'uqil, is the one mountain of [[place-ashcountry|the Ash Country]] that never smokes. It stands among the living cones of the western line, a broad black peak with a broken top, and the ground grows hotter as a traveler walks toward it, not cooler, until the metal on his gear is too hot to touch. At its foot is a cavern mouth wide enough to drive a herd through, and in the cavern lives the [[being-oldfrdrg|Old Fire Dragon]].
 
@@ -22,7 +22,7 @@ At the mouth of the cavern lie the tributes of a thousand years, in rows, and be
 
 Warriors come to the Dead Mountain to test themselves against the dragon, and almost none come back. A few priests of the [[affiliation-itzanpnthn|Itsani Pantheon]] hold that the dragon is a power of the waste to be approached with offerings, and they come with jade, copper and blood to lay at the cavern mouth. Some of them come back. A few of those carry a message from the dragon for someone, and will not repeat it to anyone else.
 
-## See Also
+## See Also {#see-also}
 
 [[being-oldfrdrg|Old Fire Dragon]]
 : the wyrm that lairs here

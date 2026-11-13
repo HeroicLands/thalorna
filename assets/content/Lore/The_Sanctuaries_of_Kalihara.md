@@ -38,7 +38,7 @@ The custodians of [[place-windstones|the wind-stones]] winter at [[place-kuometh
 
 Once in ten years the senior custodians of each sanctuary walk the full round of their region's works, in a sequence set down in the oldest records, and perform an extended tending at each. A Walk takes from three weeks to three months, according to the region. It is the silkan's survey of the state each work is in, and the kaan-sili who carry their elders' tools on it are introduced to every work they may one day tend.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tharivaan|Thári-vaan]]
 : the custodians, their ranks, their offices and their liturgies

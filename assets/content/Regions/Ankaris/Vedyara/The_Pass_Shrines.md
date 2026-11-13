@@ -35,7 +35,7 @@ A register-writer will turn the book round for anyone who asks and can read it. 
 
 A caravan takes the blessing at the summit before it begins the descent, and pays what it chooses. The shrine may also refuse it. A refusal is rare, is never explained, and is not appealable; a caravan that goes down unblessed will find [[affiliation-osketguides|the Osket]] unwilling to take it, and no lowland court has ever found a way to compel either.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-sthrnwall|the Southern Wall]] · [[place-gudesroad|the Guides' Road]]
 - [[affiliation-vrnkpnthn|Varnuka Pantheon]] · [[affiliation-osketguides|the Osket]] · [[affiliation-hvarnguides|the Hvarn]]

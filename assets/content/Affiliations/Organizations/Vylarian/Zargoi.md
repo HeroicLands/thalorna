@@ -87,7 +87,7 @@ The rivalry with the Golds is as hot as it has been in years. The Golds won the 
 - **The teams at dawn.** The Irons' teams cross the Clearance at first light on race day, and somebody means them not to reach the Racecourse.
 - **The captain's price.** A claimant's agent wants the captains of the Irons' biggest stand-clubs bought before the Master can sell them to someone else.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ethloi|Ethloi]]
 : the Golds, the Irons' rivals

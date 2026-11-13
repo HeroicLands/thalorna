@@ -59,7 +59,7 @@ A party comes to Vazhmavad as guests. The poets do not stop reciting to greet th
 
 - **The first case in years.** A sheikh whose line is disputed brings his poet and his rival's to Vazhmavad, because no other bench will hear a case this old. Melkhur agrees to have it weighed, and the sheikh wants the party with him on the benches when the recitations begin.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vzhmvd|Vazhmavad]]
 : the weighing-place the bench sits at

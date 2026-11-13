@@ -8,7 +8,7 @@ tags: [site, waste, swamp, ruin, temple]
 data: {demonym: null, lore: [], parents: [deadwater], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Drowned Pyramid, Ch'al Ne', stands in the reed beds of [[place-deadwater|the Dead Water]], weeks into [[place-xelemixbalrgn|Shelem Ish'bal Region]], where three slow channels meet in a broad pool. It is round, not square: a stack of stone rings, each narrower than the one below, like a great stepped cone. Four rings show above the water, and the brown water hides how many more go down. On the topmost ring stands a round temple of stone with a pointed roof of stone slabs, and it is the only dry roof for days in any direction.
 
@@ -30,7 +30,7 @@ A party that comes to the pyramid comes at dusk, poles in close after the last b
 
 The temple holds nothing a party can carry. The flooded rings hold doorways, seen when the water clears, low and square, opening into the pyramid below the waterline. Returners who have dived to them speak of rooms full of black water, and of something on the floor of the first room that glints.
 
-## See Also
+## See Also {#see-also}
 
 [[place-deadwater|The Dead Water]]
 : the swamps around it

@@ -71,7 +71,7 @@ A party that finds its way to Kélpasi meets the Speaker before anyone else, usu
 
 - **The Speaker's absence.** The Speaker took the winter cloth down to Valdun and has not come back. The council cannot choose another while the Speaker's own hearth has no voice at the spring, a priest from the lowlands is expected within the month, and the elders ask the party to bring the Speaker home before the priest arrives.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kelpasi|Kélpasi]]
 : the village the council governs

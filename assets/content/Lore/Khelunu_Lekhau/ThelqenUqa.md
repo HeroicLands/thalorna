@@ -12,7 +12,7 @@ data: {packFolder: regkharc, culture: khelathiclt}
 
 The tradition insists on the pairing. In its telling, [[lore-uqaadty|Uqa'a]] crosses the sky by day and the underworld by night, and neither half of the journey is the whole of it. A lekhau who commands the day and not the night can work only until sundown, in every sense the tradition cares about.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garathenuqa|Gar-Thelqen'Uqa]]
 : the House that holds the domain

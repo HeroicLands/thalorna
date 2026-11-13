@@ -104,7 +104,7 @@ The faith's festival is the [Feast of Valsal]{.name data-type="lore/gathering"},
 
 Five ordeals are held to win the All-Father's favor. In the [Trial of the Runes]{.name data-type="lore/custom"} the faithful must interpret a complex rune casting correctly in a time of crisis. The [Vision Quest]{.name data-type="lore/custom"} is a solitary journey into the wilderness to seek visions from Odvar, often with fasting and meditation. In the [Saga's Challenge]{.name data-type="lore/custom"} participants compose and recite a saga that honors Odvar, which tests their poetic skill. The [Warrior's Vigil]{.name data-type="lore/custom"} is a night-long vigil in which the faithful must stay awake and guard a sacred site or artifact. In the [Raven's Oath]{.name data-type="lore/custom"} the participant makes a binding oath under the watch of ravens, pledging themselves to a task or goal that must then be achieved.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-hrafanrun|Hrafanrún]]
 : the Order of the Raven, priests devoted to rune-lore and divination

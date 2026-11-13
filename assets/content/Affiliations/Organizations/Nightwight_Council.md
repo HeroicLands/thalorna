@@ -34,7 +34,7 @@ data:
   packFolder: organizations
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Nightwight Council** is a cabal of Helspawn lords who serve [[affiliation-nahild|Nahild]]. Its members are [[being-tereb|Nightwights]], and it recognizes [[being-hvrnrvdthmg|Hvirnorv the Deathmage]] as its most powerful member.
 
@@ -44,7 +44,7 @@ The Council supplies Hvirnorv with Helspawn servants and with intelligence. It g
 
 Hvirnorv's ambition has drawn the suspicion of the other Nightwight lords, who fear that he plans to usurp Nahild's authority. A power struggle among the Helspawn could be exploited, or could make matters far worse.
 
-## See Also
+## See Also {#see-also}
 
 [[being-hvrnrvdthmg|Hvirnorv the Deathmage]]
 : the Council's most powerful member

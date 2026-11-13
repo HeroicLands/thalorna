@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Eastern Terraces are the cleared land of [[place-klhrbowl|the Great Bowl]] of the [[place-klhrcntnnt|Kalihara Continent]]. They run along the eastern and southern shores of [[place-klhrlake|the lake]] and climb the inner face of [[place-klhrring|the Ring]] in steps of volcanic soil, wall above wall, up the river valleys that come down to the lake from the east. Most of the food the interior eats grows here, and much of the spice the ports sell.
 
@@ -32,7 +32,7 @@ From any terrace the view runs west, across the water to [[place-klhrmassif|the 
 
 The terraces are the easiest country in the interior to cross, a day or two along the shore by the paths on the terrace walls. They are also the most watched: every terrace belongs to a household, and a stranger on its wall is noticed and asked his lineage before he has gone a mile. In [Deepwater]{.name data-type="lore/calendar"} the paths stay open but the walls run with water, and nobody travels who does not have to.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrbowl|The Great Bowl]]
 : the basin the terraces lie in
@@ -45,3 +45,7 @@ The terraces are the easiest country in the interior to cross, a day or two alon
 
 [[place-klhrkthrgap|The Kuethori Gap]]
 : where the lake that waters them runs out
+
+[[place-ithorianu|Ithorinu]]
+
+[[place-koathevoi|Koathevoi]]

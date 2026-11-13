@@ -15,7 +15,7 @@ data:
   packFolder: tenlaya
 ---
 
-## Overview
+## Overview {#overview}
 
 In autumn the bands walk in off the grass with their dogs dragging travois piled with dried meat and robes, set up their hide lodges on the flat below the palisade, and wait for the Corn Pipe. Tanshe Yawa, Bison Ford, is the largest village of the [[affiliation-tenlaya|Tenlaya]], the Grass People: about 1,500 people in some sixty earth lodges on a terrace above the [[place-hesunshewanrgn|Village River]], the great river of the plains, at the shallows where the herds cross it every spring and autumn. Its fields of corn, beans, squash and sunflowers lie on the bottomland below. No band or village takes orders from it, but more of the plains' trade passes through it than through any other place. The south counts it as the seat of the Grass People and calls it by the nation's name, _P'enqal Ch'akal_.
 
@@ -43,7 +43,7 @@ Downstream at [[place-henushewan|Henu Shewan]], the Forks, the lodge owners have
 
 The village trades on to the east and the southwest: robes and hides to the Maple People and the One Fire, and to the Turquoise People for cotton cloth, pottery and turquoise. Now and then a southern good comes up the trails from the Turquoise People, a macaw feather or a copper bell, and a war leader who gets one wears it until he gives it away.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tenlaya|Tenlaya]]
 : the Grass People and their nation

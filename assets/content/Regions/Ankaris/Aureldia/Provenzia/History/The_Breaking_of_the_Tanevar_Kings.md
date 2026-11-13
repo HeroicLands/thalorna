@@ -74,13 +74,13 @@ The kings were broken. Some died on the shore and some were taken, and the rest 
 
 The [[affiliation-vylarinmpr|Empire]] made Aurelane the capital of the [province of the West]{.name data-type="affiliation/polity"} and ruled the west from it for the next four and a half centuries. The Tanevar country was left its villages and its customs, and the legions did not trouble to learn which king had held which valley. The country people kept the memory of governing themselves, and they have kept it since.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Blood-field of Tiravlen.** The battle replays over the water on its anniversary, on the night of 9 [Karnavar]{.name data-type="lore/calendar"}, and the lake villages draw up their boats and shut their shutters ([[place-bldfldtiravlen|Tiravlen]]).
 - **The end of the Tanevar kingdoms.** The petty kings of the old Provenzal country are not named in any surviving record, and the country people do not name them either.
 - **Aurelane's provincial centuries.** The city that was a colony becomes the capital of everything the Empire held west of the sea.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bldfldtiravlen|The Blood-field of Tiravlen]]—the ground the battle left
 - [[place-tiravellake|Lake Tiravel]]

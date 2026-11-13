@@ -36,7 +36,7 @@ Bharyastan
 
 The age ends in 524 AF, 190 CP, the year before a kingdom up the river took [[affiliation-rajeprjnpd|Rajepur Janpoda]]'s head-gate and the janpoda went under Chendrapur's protection. [[lore-agepatrons|The Age of Patrons]] opens with that protection. The plateau's empty century outlasted the peace by fifteen years: the great lineages walked back onto Gomarga's circuit about 540, in the new age.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-hardgenrtn|The Hard Generation]] · [[lore-agepatrons|the Age of Patrons]]
 : the ages on either side

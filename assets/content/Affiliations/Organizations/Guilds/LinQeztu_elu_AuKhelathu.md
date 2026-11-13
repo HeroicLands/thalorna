@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Qeztu elu Au'Khelathu** is the chartered body that regulates paid soldiering across [[place-aukhelathrgq|Au'Khelathu]], open to any fighter willing to accept its terms of hire. It places members with employers who want soldiers on contract rather than levied troops, and it vouches for a member's standing and conduct to whoever is hiring.
 
@@ -54,7 +54,7 @@ The guild's relation is with employers, who hire contract soldiers through the g
 
 Say a caravan-owner needs a dozen guards for the road to the delta. He goes to the guild, names the length of the hire and the pay, and the guild places a dozen members on its terms. The guild's vouching is what the hire is made against: a member's standing and conduct are the guarantee, and the employer pays for it. An employer who hires outside the guild takes a soldier on trust alone, which is exactly the risk the guild's charter exists to remove.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu]]
 : The empire whose paid soldiering the guild regulates

@@ -35,7 +35,7 @@ The recitation names the six by their vices and never by name; [Dandabira]{.name
 
 In the next year, 241 BF, the drunkard died without an heir in a famine, after his guard had opened the royal granaries, and the villages asked a priest for a sabhra and no king. [[lore-fortydays|The Forty Days]] dissolved the kingdom, and the count marks that year as the first of [[lore-agecopyists|the Age of Copyists]], 1 AC.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-foundingage|The Founding Age]] · [[lore-agecopyists|the Age of Copyists]]
 : the ages on either side

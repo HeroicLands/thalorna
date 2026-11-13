@@ -84,7 +84,7 @@ To swear a contract or take a solemn oath, the parties come before her altar. Th
 
 Each month the Wazu of her temples perform the [Ritual of the Scales]{.name data-type="lore/custom"}. They inscribe the temple's ledger of disputes and resolutions so that every judgment is recorded in full. The archive is a historical record and also, in their belief, a spiritual proof: it shows Qe'aret that justice was upheld during her people's lives on earth.
 
-## Organization
+## Organization {#organization}
 
 At the head stands the Thaz'Lekhau, the High Priest or High Priestess, among the most powerful positions in [[affiliation-empireakhlth|Au'Khelathu]] because the holder is the final arbiter of divine law and justice. Below stand the Lem'Nelgir, the ordained priests who serve as judges, keepers of law and interpreters of Qe'aret's will. They are chosen for wisdom, impartiality and unwavering commitment to truth, and many train in law, rhetoric and theology for decades before ordination.
 

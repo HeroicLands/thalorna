@@ -31,7 +31,7 @@ The work takes the better part of two years and is the standing occupation of th
 
 Pilgrims come in the eleven intervening years as well, in ones and twenties rather than in delegations, and the bathing place at the confluence is held sacred whether the confederation is sitting or not. The grazing is let to the villages of the reach, on the understanding that the herds come off the plain in the year before a Melka and that nothing is built.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-mahanodi|The Mahanodi]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-sangema|Sangema]]—the temple on the ground

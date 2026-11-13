@@ -69,7 +69,7 @@ Individual worship of Morvana is most often private and personal, undertaken by 
 
 Offerings to Morvana are the gifts of decay itself: autumn leaves, withering flowers, fruit past ripeness, wine that has begun to turn, grain that has molded. The symbolism is clear—these are offerings made not of what is valued but of what must be let go, life returned willingly to the cycle. Some nobles maintain Mórvanic shrines in family crypts, making annual offerings and speaking their ancestors' names, asking Morvana to give them rest and to grant their own eventual passing the dignity they showed to those before them.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Morvana is led by the **Valmena**, the High Priestess or High Priest. This figure is typically an older priestess who has spent decades in service to the goddess, often someone who has survived personal losses and has transformed grief into compassionate service to others. The Valmena is a counselor to the dying, a teacher of the faith, and an interpreter of the goddess's will.
 

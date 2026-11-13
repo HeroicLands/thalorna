@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [qudumel2], population: 0, packFolder: 
 # terran_analog: "The fire temples of Yazd and the Parsi agiaries, for an eternal flame of recorded descent fed with tongs by veiled keepers; the shared shrines of the Levantine ports where two faiths keep one holy place on a timetable. Departs: the two halves are joined by a court whose columns pair the gods of two pantheons with the same domains, and the flame's descent hides a debt between the two fires."
 ---
 
-## Overview
+## Overview {#overview}
 
 Two plumes of smoke rise over the north side of [[place-qudumel2|Kudumel]]'s eastern market. The thin gray plume climbs from the smoke-hole of a low mudbrick dome, where the eternal flame of [[lore-atarosdty|Ataros]], the Sacred Flame, has burned since before the empire came to the islands. The darker one, smelling of charcoal and hot iron, comes from the chimney of a pale stone hall beside it, where a forge-fire burns for [[lore-ustarondty|Ústaron]], the Forge-Lord. The Temple of Two Fires is the one house in the [[place-taruzelrgn|Taruzel Region]] where the faiths of [[affiliation-ashanpnthn|the Twelve of the Flame]] and the [[affiliation-arldnpnthn|Aureldian Pantheon]] are served under one roof, and Kudumel, a city whose households keep the Ashaian fire-rite at sunrise and sunset while its harbor trades with the west, is the city that needs it.
 
@@ -60,7 +60,7 @@ The temple is being asked about its fire from both sides of the strait. An envoy
 - **The reader who stopped.** A Roqeshekh of nineteen, [Temada Bissi]{.name data-type="being/npc"}, whose readings in the altar fire came true three times this season, has stopped reading, and the Thordimalon's chapter has asked for her by name.
 - **The cracked token.** A ship's master swears that the ash token over his cabin door cracked across the anvil face on the night his ship was lost under him, and he wants the temple to tell him which god refused him.
 
-## See Also
+## See Also {#see-also}
 
 [[place-qudumel2|Kudumel]]
 : the city round the temple

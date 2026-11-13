@@ -18,7 +18,7 @@ data:
   culture: vedyariclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Sandva-samedra** is the ocean west of [[place-vedyarargn|Vedyara]], and the name means the sea of evening. It takes the short western coast of Vedyara, which runs south from the desert-margin below the western end of [[place-graznmntns|the Grazian Mountains]]. The shore is arid where the other two are lush. No great river reaches it, and the country behind it is march country and not river country.
 
@@ -36,7 +36,7 @@ Vedyari shipping on this sea is coastwise. Hulls work between the roadsteads and
 
 The far shore is the eastern coast of [[place-xerathia|Zerathia]], a month of open water to the west, and no Vedyari hull works it. West-north-west lie the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and the [[place-dunharargn|Dunhara]], both already known to Vedyara by their own roads. What the men of this coast know of the Zerathian shore they have from Khelathi masters met at the delta and from crews blown out and back; it is enough to know that the cargoes worth carrying come round the other way. The becalmed water the Kalihara trade fears is [[place-dldrmsea|the Doldrum Sea]], which lies on Zerathia's farther side, and the Sandva-samedra is a different water.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara Region]]
 : the coast this sea takes
@@ -46,3 +46,5 @@ The far shore is the eastern coast of [[place-xerathia|Zerathia]], a month of op
 
 [[place-graznmntns|Grazian Mountains]]
 : the wall whose western end the coast runs south from
+
+[[place-sandyapur|Sandyapur]]

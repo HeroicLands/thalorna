@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Cloud Pass carries the road from the eastern coast of [[place-klhrcntnnt|Kalihara]] over [[place-klhrring|the Ring]] and into [[place-klhrbowl|the Bowl]]. It climbs from the paths behind [[place-ilovanu|Ilovanu]] that a foreigner is not shown, crosses the crest in a high notch that stands in cloud for most of the year, and comes down the inner face to [[place-klhrestrrc|the Eastern Terraces]]. The Kaliharans call the pass _avoluthei_ (cloud pass), and [[affiliation-lineageavoluthei|the lineage Avoluthei]] that holds it is named for it. It is the busiest of the three passes, with the principal port on one side of it and the terrace country on the other.
 
@@ -36,7 +36,7 @@ Most days the crest shows nothing but cloud. On a clear morning in the dry month
 
 From the last coastal valley the climb to the crest takes two days and the descent to the terraces a third. The cloud wets everything, the steps are slick, and the crest is cold for people raised on the coast. In [Deepwater]{.name data-type="lore/calendar"} the road is closed, and the Avoluthei stay in their villages until the rains end.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrring|The Ring]]
 : the mountains the pass crosses
@@ -49,3 +49,5 @@ From the last coastal valley the climb to the crest takes two days and the desce
 
 [[place-klhrwstsddl|The Western Saddle]], [[place-klhrsthstr|the Southern Stair]] and [[place-klhrkthrgap|the Kuethori Gap]]
 : the other ways through the Ring
+
+[[place-avoluthei|Avoluthei]]

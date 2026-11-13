@@ -49,7 +49,7 @@ data:
 sohl: {system: {commonSkills: [tellumilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Council of the Princes**, the _tselvun_ in [[skill-tellumilng|Tellumi]], is the one body that speaks for the whole [[affiliation-khzrncnfdrtn|Tellumi Confederation]]. It meets once a year in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], on ground the Kingdom lends it, and it seats the seven princely houses of the Tellumi: the three that still rule their oases and the four whose cities the [[affiliation-tribestrzd|Tribes of Atarzád]] hold. It coordinates, and it does not govern. No oasis takes a law from it, no prince takes an order from it, and the one thing it has never done in two thousand years of sessions is decide a question that would unseat a house.
 
@@ -85,7 +85,7 @@ The Council receives no petitions. A Tellumi with a grievance takes it to the De
 - **The merchants' answer.** The Atarzád merchants who sounded out Hemvanai of Mernagord want their terms carried to him where the exile houses will not see them, and the exile houses pay well to see whatever is carried to him.
 - **The union and the sword.** Gureshai of Zargandur wants to know whether the northern union will press the held cities, and asks a messenger with no seat to lose to go north and see it for him.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the confederation the Council speaks for

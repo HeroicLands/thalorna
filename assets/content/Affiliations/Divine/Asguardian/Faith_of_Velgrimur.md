@@ -100,7 +100,7 @@ Two festivals mark the year. The [Festival of Masks]{.name data-type="lore/gathe
 
 Four ordeals are held to win his favor. In the [Shadow Walk]{.name data-type="lore/custom"} participants infiltrate a heavily guarded location and retrieve a valuable item, relying on stealth and deception alone. The [Trial of Lies]{.name data-type="lore/custom"} asks the faithful to weave a web of lies so intricate that it ensnares a powerful figure. In the [Serpent's Maze]{.name data-type="lore/custom"} the participant navigates a deadly labyrinth of traps, illusions and false leads. In the [Whispering Hunt]{.name data-type="lore/custom"} participants gather valuable secrets from influential figures and use them to turn events in Velgrimur's favor.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-skygrimur|Skigrimur]]
 : the Order of the Shifting Veil, priests trained in illusion and disguise as spies

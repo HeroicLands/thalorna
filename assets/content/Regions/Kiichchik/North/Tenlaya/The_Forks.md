@@ -17,7 +17,7 @@ data:
 # terran_analog: the fortified Initial Coalescent and Plains Village sites of the lower Missouri in South Dakota, such as Crow Creek and Fay Tolton, with bastioned ditches and burned lodges
 ---
 
-## Overview
+## Overview {#overview}
 
 A traveler coming up the river from the One Fire's country sees the Forks long before reaching it: a hump of black on a high terrace at the fork of two rivers, and as he comes closer, the black resolves into burned posts standing out of fallen earth, and behind them, still standing, the domes of the lodges that did not burn. Henu Shewan, the Forks, is the downstream village of the [[place-hesunshewanrgn|Village River]] and the nearest of the [[affiliation-tenlaya|Grass People]]'s villages to the [[affiliation-tokchiaska|One Fire]]: about 1,100 people, where there were 1,500 a year ago, in some forty earth lodges inside two ditches and a palisade, with eighteen more lodges standing burned inside the same walls. Its fields lie in the angle between the rivers, and the women who work them do it with men watching from the bluffs.
 
@@ -45,7 +45,7 @@ The thirty-one are in the One Fire's western towns, and some of them are probabl
 
 A trade is possible. The One Fire's towns would ransom their own people for robes, and would sell back the captives from the Forks for more. Somebody would have to walk two weeks into the One Fire's country under a compact pipe to arrange it, and the Forks has nobody the One Fire would listen to.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hesunshewanrgn|Village River]]
 : the valley of the villages

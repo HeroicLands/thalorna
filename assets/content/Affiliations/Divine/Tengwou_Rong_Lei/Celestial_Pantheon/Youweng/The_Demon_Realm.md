@@ -65,7 +65,7 @@ Parent cosmology
 Inhabitants
 : Demon Lords, lesser demons (Youweng), and the rare fallen functionary
 
-## Overview
+## Overview {#overview}
 
 In Tantsou cosmology, the **Youweng** is the Infernal Realm of [[affiliation-tengwouronglei|Tengwou Rong Lei]], the Tantsou Celestial Bureaucracy—the region of the celestial cosmology in which the system's failures, refusals, and corruptions reside. It is not a hell in the Western sense. It is not a place of punishment, not an afterlife for the wicked, and not a theological counterweight to a heavenly realm. It is, rather, the _administrative remainder_ of the classification system: the place where things that could not be cleanly sorted were consigned, where fallen functionaries retreated after their corruption was detected, and where the primordial refusers of [Dau Zhaulei]{.name data-type="lore/cosmology"}, the Great Sorting, dwell.
 
@@ -155,7 +155,7 @@ The cult of the Demon Lords among mortals—most conspicuously the [[affiliation
 
 A person [[affiliation-wantou|Wantou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The celestial cosmology of which the Youweng is the shadow-remainder

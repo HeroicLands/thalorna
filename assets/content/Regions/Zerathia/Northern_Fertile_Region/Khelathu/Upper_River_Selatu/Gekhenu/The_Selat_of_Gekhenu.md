@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "If you want a date, go to the astronomers. If you want a tax, go to the bureau. If you want either of them to move, come to me," the Halzi'a's steward tells a clerk newly posted to [[place-gekhenu|Gekhenu]]. "The Halzi'a signs for all three."
 
@@ -65,11 +65,11 @@ The Selat of Gekhenu is one of the upper-river selatu of the [[affiliation-empir
 
 The seat is Gekhenu, where the Halzi'a keeps his court and the chief temple of [[affiliation-rethsaar|Reth'Sa'ar]] stands. The steward administers the selat's revenue, its granaries and its corvée, and beside him the temple keeps the count of the year. A selat whose patron is the scribe of the gods keeps its authority in writing: the tax rolls, the granary accounts and the calendar all pass through scribal hands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Gekhenu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : parent selat class

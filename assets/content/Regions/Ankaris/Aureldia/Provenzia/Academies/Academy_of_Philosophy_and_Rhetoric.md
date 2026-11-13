@@ -79,7 +79,7 @@ The academy began as the schools of rhetoric of the provincial capital. When the
 - **The unsigned oration.** An oration for the Peers' side of the salt loan is circulating at Jalnasdal under no name, and the crown's lawyers want to know which master wrote it. The Rector does not want it known.
 - **A son sent down.** A Peer's son has been sent down for debt, and his father wants the debt paid quietly and the son restored before the Council sits. The masters he owes do not.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aureliane|Aurelane]]
 : the city of the academies

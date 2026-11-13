@@ -14,13 +14,13 @@ data:
   government: provinclys
 ---
 
-## Overview
+## Overview {#overview}
 
 Lentora is the second city of [[affiliation-provinclys|Alessa]] after the capital, an old inland city of about 32,000 with forums, baths and guildhalls, and the market and administrative hub of the populous farm-and-villa country of the inner province. Beside [[place-orzara|Orzara]] it is wealthy and unglamorous, which suits the people who keep their seats here: the lesser senatorial houses and the prosperous _gulmen_ (equestrian) families.
 
 A villa steward who rides in at the turn of each season to settle the household's accounts and attend its suits describes the city to the new under-steward: "Do not look for [[affiliation-seldan|Seldan]], the Senate, here. Look for the guildhalls and the magistrates' benches. The capital is busy with the empire, and so a great deal of what Alessa actually needs done, the leases, the roads, the disputes between neighbors, gets done in Lentora, by people nobody in the capital has heard of."
 
-## Arriving
+## Arriving {#arriving}
 
 Lentora sits in open farm country with no hill to make it grand, and it announces itself by its walls, which are old, whole and kept in repair, a rare thing in the heartland. Inside the gate the main street runs straight to the [Great Forum]{.name data-type="place/site"}, a paved square larger than the city needs, with the guildhalls on three sides and the magistrates' basilica on the fourth. Every guild in the inner province keeps a hall there, each with its emblem over the door and a bench outside where its members wait for business: the surveyors with their chains, the notaries, the builders, the oil-pressers, the wool merchants and a dozen more.
 
@@ -42,7 +42,7 @@ A seat on the council is the city's great honor and its great danger. Each _kurt
 
 Lentora's council is falling into a stranger's hands. A factor who gives his name as a buyer of debts, and will not say whose he is, has bought the notes of several lesser houses that sit on the council, and the guilds talk of little else in the baths. The seats are a danger in a poor year, because each _kurthalos_ makes up the city's shortfall from his own purse, and the _gulmen_ families send their sons to the capital so they cannot be named. The _tavemoi_ mean to name an absent man to an empty seat before he can refuse. Someone is trying to put out the furnaces of the baths.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Strangers lodge around the forum, where the inns serve the people who have come in on business, or in the hostels the guilds keep for their own members from out of town, which take paying guests when they have beds. An inn on the forum clears its tables at the hour the baths open and fills them again at dusk. Lentora's people are polite to strangers and incurious about them; a newcomer who wants to be noticed has to have a suit, a lease or a letter.
 
@@ -58,7 +58,7 @@ The decline is written in the same stones ([[lore-empirdclne|The Decline of the 
 - **The empty seat.** The _tavemoi_ mean to name a party's patron to the council while he is away from the city. His steward hires the party to reach him first, so that he can refuse in person.
 - **The furnace.** Someone is trying to put out the furnaces of the baths. The city regards this as a threat to everything it is.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provinclys|Province of Alessa]]
 : the parent province

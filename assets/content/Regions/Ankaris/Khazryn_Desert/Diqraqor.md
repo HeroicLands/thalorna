@@ -35,19 +35,19 @@ In the south, the Atarzád graze their flocks on the uplands' southern slopes an
 
 The southern spur is the belt's road to the rest of the world, and the tribes of the plateau sell escort on it and raid what does not buy. On the southern slopes Atarzád flocks graze ground the tribes call theirs, and the line between them, drawn from well to well, is the most active feud on the plateau. In the ravines of [[place-osikor|Oshiqor]] an Atarzád elder's son has been caught robbing the tombs his people hold unclean, and a rival herd-chief holds the proof.
 
-## Dangers
+## Dangers {#dangers}
 
 Falls, floods and collapse take more lives here than raiders. A ravine floor that is dry at noon can run with a flash flood from a storm forty miles away. [[being-gntscrpn|Giant scorpions]] hunt the warm rocks at dusk, and [[being-crglrkr|crag lurkers]] wait on the ledges above the narrow places.
 
 In the ravines of the northern plateau, rock-cut tombs open into the cliffs, [[place-osikor|Oshiqor]], "the bone range", the burial ground of a people who vanished long before the tribes. Their galleries are painted and furnished with grave-goods, and in the deepest a [[being-damut|damut]] walks. The Atarzád hold them unclean and forbid approach.
 
-## Hooks
+## Hooks {#hooks}
 
 - An Atarzád elder's son has been robbing the tombs for two years; a rival herd-chief has found a bead of the blue stone in his saddlebag, and his father denies it.
 - A tribe on the spur offers to guide a Tellumi house in exile to a hidden cistern, and the house cannot tell whether the price is the cistern or the house.
 - A Tantsou scholar wants a rubbing from the painted tomb walls and will pay for a guide the Atarzád cannot forbid.
 
-## See Also
+## See Also {#see-also}
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the enclosing region

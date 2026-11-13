@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Kuethori Gap is the one place where [[place-klhrring|the Ring]] of [[place-klhrcntnnt|Kalihara]] is broken. On the south-eastern side of the island the crest gives way to a deep gorge, and through it the water of [[place-klhrlake|the Bowl Lake]] leaves the interior: a river runs out of the lake across the southern floor of [[place-klhrbowl|the Bowl]], enters the gap, and falls through it in a fast, deep channel toward the sea. The Kaliharans call that water _kuethori_ (swift current), and [[affiliation-lineagekuethori|the lineage Kuethori]] that holds the gap is named for it.
 
@@ -32,7 +32,7 @@ From the head of the gap the lake lies behind, open and still, with [[place-klhr
 
 No boat passes the gorge; the river runs too fast over too much rock. The road is a ledge cut along the gorge wall above the water, a day's walk from end to end, and nobody uses it without a Kuethori on it. In Deepwater the river fills the gorge and the lower ledge goes under, and the gap is closed until the water drops.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrring|The Ring]]
 : the mountains the gap breaks
@@ -45,3 +45,7 @@ No boat passes the gorge; the river runs too fast over too much rock. The road i
 
 [[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrsthstr|the Southern Stair]]
 : the passes over the Ring
+
+[[place-kuethori|Kuethori]]
+
+[[place-stillwatersill|The Still-Water Sill]]

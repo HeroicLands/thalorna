@@ -14,7 +14,7 @@ data:
   government: hlykngdmnrtm
 ---
 
-## Overview
+## Overview {#overview}
 
 Dremenna is a woodcrafters' village of about three hundred, in a valley of the [[place-nartumkngdm|Nartun Kingdom]]. Its name is _dremathen_ (to carve) with the ending that makes a village of it. It stays where it is: its single street is a row of workshops with the doors open, and the sound of mallet and lathe carries from one end to the other.
 
@@ -40,7 +40,7 @@ The village keeps one inn, a joiners' house at the head of the street with a car
 - **The cheap goods.** Mass-made bowls and boxes from the south are selling in the village market at half the craftsmen's price. The elder suspects that someone in the village is letting the pedlars in, and she wants to know who.
 - **The stranger's timber.** A traveler arrives with a load of wood from a distant forest and will pay a fortune to have it carved. It resists the chisel, and the old coopers will not touch it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-nartumkngdm|Nartun Kingdom]]
 : the land it stands in

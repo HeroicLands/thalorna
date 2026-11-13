@@ -8,7 +8,7 @@ tags: [draft, ruin, temple, jungle]
 data: {demonym: null, lore: [], parents: [neokbaatergn], population: 0, packFolder: neokbaate}
 ---
 
-## Overview
+## Overview {#overview}
 
 On the eastern slopes of [[place-neokbaatergn|Ne'ok Ba'ate]], where the rains come in off the sea and fall for half the year, a stepped platform rises out of the rainforest on the shoulder of an old volcano. Its stair was plastered red once, and the plaster still holds in long runs between the roots, so that the steps show red through the green from the valley below. The builders called it Kul'qat Ts'umul, the red pyramid, _kul'qat_ the sacred peak and _ts'umul_ red. The few who know the valley call it the Red Steps.
 
@@ -64,7 +64,7 @@ The register is wrong. The guardian never failed. With the Storm's Eye lying in 
 
 By the eastern trail from the highland valleys toward the coast, which climbs the volcano's shoulder above the river gorge. The trail passes below the temple and does not go to it; the red of the stair through the trees is the only sign. From the river a processional stair climbs to the platform from a sheltered landing, overgrown and still sound.
 
-## See Also
+## See Also {#see-also}
 
 [[scenario-redstepsrainfst|The Red Steps in the Eastern Rainforest]]
 : a scenario set here

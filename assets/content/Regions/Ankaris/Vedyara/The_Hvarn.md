@@ -87,13 +87,13 @@ It also makes the Hvarn the confederation's eyes on a frontier the confederation
 
 The **Bone-bringer** is the Hvarn office with the longest memory. He recovers the dead from the eastern gorges wherever recovery is possible at all, and he keeps where each was found. The account is the longest continuous record the people hold, and the one they will show an outsider.
 
-## Hooks
+## Hooks {#hooks}
 
 - **Silver in the winter store.** [[being-dlzhvrstn|Delzh Vrestun]], the Turn-keeper, has reason to think one hearth has taken Shikhalayan silver into its winter store against a draw the council has not made. She asks the party to learn which hearth before the hearth-heads sit at [[place-nurvhrn|Nurvharn]].
 - **The ledge under the Long Lip.** [[being-vrndzlbrn|Vurn Dzelbern]]'s aunt Shemli lies on a ledge under the Long Lip that no Hvarn rope from above can reach. He asks the party, if they climb rock, to fix a line from the far wall of the gorge before midwinter, and he pays out of his own share of the season's fee.
 - **Out of turn.** [[being-vamikshaajar|Vamiksha Ajaran]] wants two Hvarn guides for an expedition south, and the Hvarn give out their work only by the turn. She asks the party to put her case to the hearth-heads at Nurvharn, who shelter her each winter and ask lowlanders for nothing as a rule.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nurvharn]] · [[place-sangrafort|the Sangra-fort]]
 - [[affiliation-osketguides|The Osket]] · [[affiliation-janpdsvdyr|Janpodas of Vedyara]] · [[skill-hvarnlng|the Hvarn Tongue]]

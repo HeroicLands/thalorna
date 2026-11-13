@@ -78,7 +78,7 @@ That changes what rebellion means. In the kingdoms of the west a rebel is a crim
 [[lore-ancstrwrshp|Ancestor Worship]]
 : the moral ledger, the afterlife as a posting, and the household altar
 
-## See Also
+## See Also {#see-also}
 
 [[lore-phlsphyleiwo|Philosophy of Leiwo]]
 : the theory of Lei behind medicine, magic and government

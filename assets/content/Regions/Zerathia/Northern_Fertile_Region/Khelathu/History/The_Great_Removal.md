@@ -59,14 +59,14 @@ The cursed Way of the struck house stood four crossing-roads back from the river
 
 The new Way is dressed in white stone, gleaming with gold leaf and polished bronze, and inlaid with the deep cobalt blue the Khelathi prize above every other color. It is still lengthened with each royal burial. The Removed Kings lie in galleries at the necropolis's outer reaches, where the endowments that were to pay for their restoration have lapsed with the houses that gave them ([[place-removedkings|the Galleries of the Removed Kings]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Way of Zu'Meku.** The showpiece of the necropolis, at the head of the death-road.
 - **The Galleries of the Removed Kings.** Under-guarded and dusty, the one reach of the royal necropolis where robbers regularly work.
 - **A standing argument.** Whether the Removal was the height of glory or the height of hubris, which the court answers as glory.
 - **A map.** The guild that moved the kings kept a record of what it carried and what it did not, and the descendants of an old house sometimes ask for it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-removedkings|The Galleries of the Removed Kings]]
 : where the removed houses lie

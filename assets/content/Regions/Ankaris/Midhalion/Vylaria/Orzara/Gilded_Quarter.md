@@ -14,7 +14,7 @@ data:
   government: verdanorzara
 ---
 
-## Overview
+## Overview {#overview}
 
 The Gilded Quarter is the one ward of [[place-orzara|Orzara City]] where craft and luxury still keep house together inside the city. It climbs the lower slopes of [[place-selvin|the Laurel]], toward the walled villas of the [[place-heightsorz|Heights]] above it, and its streets hold the clean and costly trades the district law allows within the thrima: goldsmiths, jewelers, perfumers, fine tailors, apothecaries and instrument-makers, who make and sell in the same shop to the rich who live up the hill. The physicians, the scriveners, the mask-makers and the seal-cutters keep their rooms among them, and the city's better baths and inns stand along its lower streets. At its foot lies the [Circle of Waters]{.name data-type="place/site"}, the grandest of the city's fountain-displays.
 
@@ -65,7 +65,7 @@ The Gilded Quarter fears the fall of a house, and with the succession open every
 - **The second stamp.** A seal-cutter has been asked, with a warrant that looks right, to cut a copy of a granary's stamp. He suspects the warrant and wants a party to find out who wrote it.
 - **The mask.** A new house on Selvin has ordered a cupboard of ancestor masks from the Street of Masks, and the mask-maker has been given a face to copy for one of them that he recognizes from another house's cupboard.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city

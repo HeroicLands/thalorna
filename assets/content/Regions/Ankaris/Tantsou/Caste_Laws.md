@@ -111,7 +111,7 @@ Inside their own enclaves, the Senalian forest sanctuaries and the Khazárian mo
 
 The empire manages this tension and never resolves it. The classification insists that it sorted everything, the Elder Races included; the Elder Races' quiet refusal to take their classifications to heart is, from the cosmological side, a low-grade breach that has been running for millennia. The Tanchei know it and have collectively decided not to think about it too hard. [[lore-elderraces|Elder Races]] gives the territories, the autonomy, the military cooperation and the diplomacy in full.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tseising|Law and Honor]]
 : the Teng Lou (Heavenly Law) and the system of punishment

@@ -17,7 +17,7 @@ data:
 # terran_analog: the Cerrillos turquoise mines south of Santa Fe, worked by the Ancestral Puebloans with stone mauls and antler picks, and the turquoise workshops of Chaco Canyon
 ---
 
-## Overview
+## Overview {#overview}
 
 The hills north of the [[place-hosaoyalargn|Canyon of Houses]] are bare and pale, and their slopes are pocked with pits and heaps of broken rock as far as a person can see from the top of any one of them. Teyu Potama, Turquoise Hill, is the camp among the pits: about 400 people in a cluster of stone rooms around a single chamber, with as many again in the summer, when the work parties come. Every piece of turquoise (_teyu_) the [[affiliation-teyumi|Turquoise People]] wear, give to their dead and send south comes out of these hills.
 
@@ -39,7 +39,7 @@ The deep pits on the eastern hill have gone quiet. A work party from a canyon to
 People are in them. A band of the Dry, expelled from their towns in the last two short summers, has been living in the worked-out galleries that join the deep pits under the eastern hill, coming up at night for water and for the cornmeal at the pit mouths. Some of the camp's families know and leave food for them, because some of the camp's families were Dry themselves before the camp took them in without asking. The band numbers about thirty, and its oldest member was a chamber elder.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People and their towns

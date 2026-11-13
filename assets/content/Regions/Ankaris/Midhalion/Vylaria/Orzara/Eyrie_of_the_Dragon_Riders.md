@@ -8,7 +8,7 @@ tags: [ruin, sealed]
 data: {demonym: null, lore: [ridersdisb], parents: [arvel], population: 0, packFolder: vylaria}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Eyrie of the Dragon Riders is a set of galleries cut into the rock under the crown of [[place-arvel|Eagle Hill]], the highest of the [[place-sixhillsvyl|Six Hills]] of [[place-orzara|Orzara City]]. The [Dragon Riders]{.name data-type="affiliation"} of the [Vilérian Republic]{.name data-type="affiliation/polity"} were quartered in it for nearly three centuries, and it has been sealed since the Republic refused to renew its lease with the dragons, about 45 BF ([[lore-ridersdisb|The Lease Refused]]). [[place-palvar|The Grand Palace]] stands on the rock above it, and [[affiliation-sorvan|The Imperial Guard]], the Orzas's guard, holds its door.
 
@@ -48,7 +48,7 @@ This year a Helionite scholar has leave to measure the door for a book that will
 - **The measurer.** A Helionite scholar has leave to measure the door and wants a party to escort him to it and keep him alive while he does. His book will say there were never any dragons, and a chamberlain of the palace, who wants no foreigner writing about the hill at all, has asked the Sorvan to see that he never finishes.
 - **The rider's ring.** A provincial family brings to the capital a signet it says belonged to a Rider, cut with a device nobody in the heralds' office can place, and asks the Sorvan to compare it with whatever is behind the door.
 
-## See Also
+## See Also {#see-also}
 
 [[place-arvel|Arvel]]
 : the Eagle Hill, under whose crown it lies

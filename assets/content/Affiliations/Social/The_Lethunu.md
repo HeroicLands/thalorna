@@ -48,7 +48,7 @@ Its members wish to shorten the apprenticeship, broaden recruitment beyond the t
 
 An apprentice's first practical question is whose term he is serving: the old one or the one the Lethunu want.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-garmelnu|Gar'Melnu]]
 : the guild it works within

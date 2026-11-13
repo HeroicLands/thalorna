@@ -80,7 +80,7 @@ not secret, and the tribes are not ashamed of it—but always accompanied, alway
 and always with the offering explained beforehand rather than afterward. Visitors who arrive with a
 gift they purchased are gently told to come back another year.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-salendaspr|Sálenda of the Long Stair]] · [[lore-thekindred|the Kindred]]
 - [[place-drenavrspn|The Drenavar Spine]] · [[place-alndntrblnds|Áelendan Tribal Lands]]

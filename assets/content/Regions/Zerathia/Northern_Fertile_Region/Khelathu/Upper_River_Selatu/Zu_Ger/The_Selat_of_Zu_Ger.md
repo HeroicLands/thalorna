@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "The first dynasties buried their kings in that ground," a Lem'Nelgir of [[affiliation-hezmuiri|Hezmu'iri]] tells a pilgrim at [[place-chegu|Chegu]], nodding at the fields beyond the temple wall. "That is why the selat is called the Great Land. Hezmu'iri keeps the passage, and in [[place-zugernome|Zu-Ger]] he keeps the oldest of the dead."
 
@@ -65,11 +65,11 @@ The Selat of Zu-Ger is one of the eighteen provinces of [[affiliation-upperrivrs
 
 The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Zu-Ger governs an ancient royal selat that holds the oldest dead of the empire in its ground. His seat is Chegu, where he keeps his court and the chief temple of Hezmu'iri stands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Zu-Ger uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : Parent selat-class

@@ -18,7 +18,7 @@ data:
 
 Like every village below the head-gate at [[place-khandapur|Khandapur]], it takes its water from the share divided there at planting. It is the largest grower of rice, so the tenth of the year's water that is argued over matters more to Vrihistal than to any village in the janpoda, and its headman sits through all three days of the argument.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

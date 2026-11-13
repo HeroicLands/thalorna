@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [norgaad], population: 0, packFolder: norgaad}
 ---
 
-## Overview
+## Overview {#overview}
 
 Before you go into a gallery at Skulfheim, you knock on the timber, and then you listen. The miners of this [[place-norgaad|Norgaad]] mining place say that the _thursar_ (giant-kin) knock back when a mountain is unsafe, and none of them goes in without waiting for the answer. The place is named for the same caution: _skulf-_ is the shudder in ice before it gives, set before _-heim_, a settled place.
 
@@ -20,7 +20,7 @@ The knock is the first thing a new hand learns at Skulfheim and the last thing a
 
 The same lore reaches the saddle on the upper road from [[place-tvarnmark|Tvarnmark]] toward the [[place-shtrdpks|Shattered Peaks]]. A great stone there has gathered cloaks, left for travelers the mountains took. Some are for men of the king's brother's expedition, which went up that road thirty-two years ago seeking mithral. The king's brother and most of his forty companions never came back, and memorial stones on the upper road name some of the lost. Mountain lore holds that the great stones are the walking remnants of [[lore-hrimthurspr|Hrimthur]], the Rime-Giant. The memorials and the miners' caution stand without proving it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thursaett|Thursaett]]
 : the giant-kin the miners listen for

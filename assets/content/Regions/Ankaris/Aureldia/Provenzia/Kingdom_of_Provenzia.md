@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [provnzlng]}}
 # terran_analog: "Southwestern France, Atlantic Spain, and all of Portugal—the kingdom of vineyards and river-mouth ports along the Atlantic seaboard."
 ---
 
-## Overview
+## Overview {#overview}
 
 The Kingdom of Provénzia is a prosperous, cultured realm in the southwest of [[place-aureldirgn|Aureldia]], and it holds the land of the [[place-provenzrgn|Provénzia Region]]. Its king, [[being-kralenldrvn|Kralen Lédravren]] of [[affiliation-hseledravren|House Lédravren]], reigns from [[place-jalnazdal|Jalnasdal]] on the warm southern coast over some five million people, Provénzian city-dwellers and the Tanevar of the old country. He reigns under the [[lore-chrtrrghts|Charter of Rights]], which binds him to take counsel of the [[affiliation-councilpeers|Council of Peers]], to levy only by the estates' consent and to leave the chartered cities their own law.
 
@@ -263,7 +263,7 @@ Vélarik's nephew Kralen Lédravren succeeded him without a quarrel, kept the re
 - **The salt loan.** The [[being-gredalekalv|Treasurer]] wants to know which coastal houses will lend before he asks.
 - **Two accounts of one raid.** The [[being-talvenekmrl|Warden]] and the [[being-jarvelplnvr|Marshal]] disagree about the frontier, and the king wants a third account.
 
-## See Also
+## See Also {#see-also}
 
 [[place-provenzrgn|Provénzia Region]]
 : Regional overview

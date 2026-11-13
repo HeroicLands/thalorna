@@ -17,7 +17,7 @@ data:
 # terran_analog: the upper Great Lakes, Lake Superior's Keweenaw Peninsula and Isle Royale for the copper, and the forest-prairie edge of Wisconsin and Minnesota for the Birch People
 ---
 
-## Overview
+## Overview {#overview}
 
 The Western Lakes (_kahnionten_) are the inland seas of the Grove, three lakes so large that a canoe on any of them loses the far shore by midmorning. Two nations of the [[affiliation-osetakona|Osetakona]] live on them: the Copper People along the northern shores, who dig the copper the whole north wants, and the Birch People in the forest to the southwest, where the trees give out and the grassland begins. About 160,000 people live here, in the westernmost part of the [[place-osetakonargn|Osetakona Region]], farther from the Kettle than anyone else in the Grove except the Pine People.
 
@@ -48,7 +48,7 @@ The Birch People's trade runs west as well. Every summer they meet the Grass Peo
 
 The Copper People sell copper to the One Fire, which uses it for the plates and headdresses of its Suns and for the war clubs it carries into the River People's valleys. The River People have asked the great council three times to stop the trade, and three times the Copper People have refused to agree. A council of the Grove decides nothing until every nation agrees, so the copper still goes south, and the River People still bury dead killed under copper blades.
 
-## See Also
+## See Also {#see-also}
 
 [[place-osetakonargn|Osetakona Region]]
 : the whole land of the Maple People

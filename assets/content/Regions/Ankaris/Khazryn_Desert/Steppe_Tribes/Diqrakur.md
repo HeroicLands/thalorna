@@ -82,12 +82,12 @@ The Atarzád have heard of the gathering too, and [[affiliation-cncltwelve|the C
 
 The oldest rows at Khamaq are worn round and lean, and the stone-setter names the dead each one answers for back to his grandfather's grandfather. The Atarzád stones are the newest rows on both slopes.
 
-## Hooks
+## Hooks {#hooks}
 
 - Atazyaqnar wants an outsider to carry his offer north to the gathering man, because a Diqrakur rider who goes himself can be followed, and the Burqalod are watching the plateau's northern trails.
 - A Burqalod herd-chief offers a price for the return of his son's body from below the rows, and the stone-setter has raised no stone for him.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

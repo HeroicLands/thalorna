@@ -38,7 +38,7 @@ It is the best record of the wall's melt that exists. [[affiliation-mrchntclctvv
 
 The approach is the hardest of the four source-pilgrimages. The last two days are a stair cut in rock, there is no way to carry a man up it, and perhaps four hundred pilgrims a year finish it. They come for a child, mostly, the Shaper being the god of foundations and so of beginnings of every kind, and they come from the villages of the upper Sarveda rather than from any distance. The temple lodges them in the forecourt, feeds them from the cistern and the caravan stores, and asks nothing.
 
-## See Also
+## See Also {#see-also}
 
 [[place-sarvaprbhv|Sarvaprabhava]]
 : the spring it stands on

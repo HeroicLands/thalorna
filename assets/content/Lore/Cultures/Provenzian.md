@@ -183,7 +183,7 @@ The sin sits beside it. The [[place-talothe|Talote]] lives on a war it does not 
 
 The same habit runs through the frontier of the north. At Bataren, which faces the open ocean, the settled Élavendren and the crown quarrel over land and rights, and both crowns treat it as a domestic matter because their friendship depends on not looking closely. Thoughtful Provénzians dispute whether the courtesy is how a civilization keeps from looking at what it lives on or how it keeps a kingdom of self-governing chartered cities from falling apart, and they argue it from opposite ends.
 
-## See Also
+## See Also {#see-also}
 
 [[place-provenzrgn|Provénzia Region]]
 : the coast, the cities and the trade

@@ -17,7 +17,7 @@ data:
 # terran_analog: the Ten Thousand Islands and the Calusa towns of the southwest Florida coast, facing the Gulf toward the Yucatan
 ---
 
-## Overview
+## Overview {#overview}
 
 Koyalo Lintako is the last town of the [[place-koyalorgn|Shell Coast]] before the open gulf. It stands on a cluster of shell heaps among hundreds of small mangrove islands, where the coast breaks up into a maze of channels that only its own people can paddle without getting lost. The name means the Last Shore. About 2,000 people live in it, the southernmost subjects of [[affiliation-tokchiaska|Tokchi Aska]], the One Fire, and the farthest from the fire on the great mound: the Coal Bearer who brings the New Fire's coal needs eleven days by river and canoe to reach it.
 
@@ -41,7 +41,7 @@ Chasise has made the voyage both ways. Two years ago he followed the coast south
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-koyalorgn|Shell Coast]]
 : the islands, marshes and shell towns of the gulf

@@ -8,7 +8,7 @@ tags: [settlement, temple]
 data: {demonym: null, lore: [], parents: [swoasisbelt], population: 3000, government: tribestrzd}
 ---
 
-## Overview
+## Overview {#overview}
 
 For most of the year **Beit-Shofár** is a settlement of 3,000 at the foot of [[place-mountshofar|Mount Shofar]]. At the summer festival it is a camp of fifty thousand. The priestly seat of the [[affiliation-tribestrzd|Tribes of Atarzád]] holds the [Council of the Twelve]{.name data-type="affiliation/governmental"}, the common treasury and the keeping of the [[place-unconsflame|Unconsuming Flame]], and every adult of the Flame-born is expected to make the pilgrimage here at least once before death. Many come every year.
 
@@ -32,7 +32,7 @@ Beit-Shofár waits on an old man, a young woman and a rumor from the north. The 
 - **Honored or repudiated.** The [Teghumod]{.name data-type="affiliation/polity"}, whose trade runs on Tellumi hands, want Aqeshat repudiated before her following outgrows the Council, and they want witnesses who heard her preach to testify before the Rezhuls. A Flame-born witness found lying to the Council is repudiated, and an outsider is expelled from the tribes' ground.
 - **Counting banners.** Khemozor of Zhoqarod wants to know whether the northern union is real before the Rezhuls debate it, and he pays riders who will go up onto the steppe and count its banners.
 
-## See Also
+## See Also {#see-also}
 
 [[place-mountshofar|Mount Shofar]]
 : the mountain the seat stands under

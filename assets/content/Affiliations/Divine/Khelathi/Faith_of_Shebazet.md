@@ -62,7 +62,7 @@ The cult's work is the marsh's two livelihoods. The **Warden of the Papyrus Harv
 
 The ladder above and below them is the shared one: lay faithful who keep the observances, Wazu, Lem'Nelgir, and a Thaz'Lekhau whose standing is real inside the selat and slight outside it. The worship of a goddess with no imperial standing therefore supports a local temple, a local priesthood and, through the paper, the physical basis of [[affiliation-rethsaar|Reth'Sa'ar]]'s whole domain.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-shebazetdty|Shebazet]]
 : the goddess

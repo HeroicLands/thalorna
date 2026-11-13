@@ -15,7 +15,7 @@ data:
   government: selatzuzlqtt
 ---
 
-## Overview
+## Overview {#overview}
 
 **Zu-Zel-Iaqtet** is the land of [[affiliation-selatzuzlqtt|the Selat of Zu-Zel-Iaqtet]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
@@ -37,7 +37,7 @@ Mining and quarrying are the whole of it. The gold and copper feed the empire's 
 - The smelter-towns and the temple-workshops of [[affiliation-psaqaru|Saq'aru]]
 - The desert quarry-roads and the forts and water-stations that guard them
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-balqu|Balku]] (~22,000)
 : the selat capital, a fortified hill-town at the mouth of the chief mining district: the seat of the soldier-Halzi'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Saq'aru the smith.
@@ -45,7 +45,7 @@ Mining and quarrying are the whole of it. The gold and copper feed the empire's 
 The mine-and-quarry camps
 : mining settlements, smelter-towns and quarry-camps of 500–4,000 people lie scattered through the hills and desert, each clustered around its diggings and its guard-fort and supplied by water-caravan from the river. Among them are [[place-baliazalu|Balia-Zalu]] (the copper diggings), [[place-melgat|Melgat]] (the turquoise camps), [[place-inululedju|Inulu-Ledju]] (the white-stone quarry) and the convict-station of [[place-kheset|Kheset]].
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]]
 : The selat that holds this land

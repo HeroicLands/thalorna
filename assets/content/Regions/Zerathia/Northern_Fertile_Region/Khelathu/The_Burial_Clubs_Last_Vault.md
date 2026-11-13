@@ -48,14 +48,14 @@ The caravan road west of the river runs through dry country, and a day's walk fr
 
 The valley's guard, the [Meglai]{.name data-type="affiliation/governmental"}, patrol only the river and the canal heads. Out here a traveler answers to nobody and is answered by nobody.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A drover sells a rumor: the club kept its savings in the vault, in the sealed chamber at the back, and has never been robbed because nobody thinks a poor club's purse is worth the walk.
 - **The deserter.** A soldier fleeing the valley with the Meglai behind him is told the margin is empty. It is not, and the one place in it with a door that closes is the vault.
 - **The captain.** A temple's captain of the guard has three watch-priests missing from a western patrol, and no one above him will authorize a search for men who strayed beyond the rolls.
 - **The widow.** A woman asks to be taken to her husband's niche so that someone can say the words, and she cannot pay in anything but copper tokens.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the valley and its desert margins

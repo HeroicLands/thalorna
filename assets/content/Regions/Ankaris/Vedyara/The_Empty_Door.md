@@ -33,7 +33,7 @@ Every Osket crossing of the road walks through it. Not round it, though round is
 
 [[place-pssshrines|The Pass-Shrines]]' refusal to bless the sixth road is older than any of the four reasons currently given for it, and the reasons change.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-gudesroad|The Guides' Road]] · [[affiliation-osketguides|the Osket]] · [[place-pssshrines|the Pass-Shrines]]
 - [[place-sthrnwall|The Southern Wall]]

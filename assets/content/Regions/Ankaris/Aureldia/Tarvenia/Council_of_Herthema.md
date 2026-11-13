@@ -62,7 +62,7 @@ The council's merchants are the town's new money, and they are pressing Herthema
 
 Herthema has been a fortified town with a garrison for as long as its oldest masters remember: the master who trained the glassworker [[being-vlmrjthrn|Velmar Gútharen]] more than thirty years ago made plain ware for the town's needs, panes for the garrison's windows among them. The sellswords' roll answers to the trade the town breeds, since a Tarvenan expects to go abroad under contract, and the roll says which men may be hired at home.
 
-## See Also
+## See Also {#see-also}
 
 [[place-herthema|Herthema]]
 : the walled town

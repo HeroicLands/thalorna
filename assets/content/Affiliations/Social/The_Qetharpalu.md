@@ -44,7 +44,7 @@ data:
 
 The faction's strength is the number of seats it holds, and that sets the timeline of any proposed change. The usual advice has three parts. Learn how many seats the faction holds on the council you are petitioning. Learn which of them might be persuaded. Plan the change for the time it takes, not the time you would like it to take.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the region it belongs to

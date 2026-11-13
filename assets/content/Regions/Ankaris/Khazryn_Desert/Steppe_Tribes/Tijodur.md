@@ -84,12 +84,12 @@ Tijodkharu has told the riders the tribe swears to no one who closes its feuds u
 
 The Tijodur hold that they have buried their unavenged at Kuyad since before the first banner, and the oldest mounds there are older than any count of the tribe's dovaqs. When the last union broke, the tribe opened more mounds in one summer than in the generation before, as the feuds the union had closed came due.
 
-## Hooks
+## Hooks {#hooks}
 
 - The mound-keeper wants the two Tijodur heads brought home from the Khaaqidur well, and will open both mounds for whoever brings them, whatever it costs the one who does.
 - A young Tijodur rider has gone south alone to take a Khaaqidur head for his father's mound, and his mother wants him brought back before the Khaaqidur add his skull to their cups.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

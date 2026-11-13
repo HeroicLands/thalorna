@@ -54,7 +54,7 @@ data:
 sohl: {system: {commonSkills: [tellumilng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The **House of Kethramír** is the priest-house of the [[affiliation-khzrncnfdrtn|Tellumi Confederation]], the house of the sun peak, [Talhishtenhur]{.name data-type="place/feature"}, where the light comes first in the morning on the whole range. The roll of the peaks says its lineage brought down the order of the gods, the count of the days and the change of the seasons, and settled the three wells of [[place-kethramir|Kethramír]] that have never failed. It stands closest of the seven to the [Shekhulukhem]{.name data-type="affiliation"}, the Tellumi priesthood, and it took the worst of the killing of the clergy in [The Breaking]{.name data-type="lore/history"} and the least of the land. The [Tozhirod]{.name data-type="affiliation/polity"}, the scholar-tribe of the [[affiliation-tribestrzd|Atarzád]], have held its city since the eighth year of that war, and the house keeps its court in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]].
 
@@ -70,11 +70,11 @@ The house wants Kethramír back, and it wants the argument won first. Narvuna wr
 
 The Tozhirod are an unusual enemy. They keep the scriptural archive and the law-codes of [Yotekhor]{.name data-type="being/npc"}, they rule Kethramír by precedent from a college of law at the edge of the yards, and their magistrate reads the Tellumi tablets and sometimes agrees with them. A Tozhirod clerk who finds the book in a bale has to decide whether it is a crime or a book, and a Tozhirod scholar wants a copy so that he can answer it. The house's sharper enemy is the preacher [Aqeshat]{.name data-type="being/npc"} the Prophet, who calls for the Tellumi to be expelled from the cities, and whose followers burn the book where they find it.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The book and the answer.** A Tozhirod scholar in Kethramír wants a copy of _On the Ungrantable Land_ in order to refute it, and a Delkoshekh in the Tellumi quarter wants the scholar's refutation in order to refute that. A party can carry both ways and be paid by each side for not telling the other.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kethramir|Kethramír]]
 : the city the house claims

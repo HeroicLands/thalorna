@@ -29,7 +29,7 @@ data:
 
 > At the frontier way-station beyond [[place-jnanadvar|Jnanadvar]] the registrar's second daughter, a Tanchei in a scholar's blue robe, walks a newly classified merchant to the eastern gate and points down the valley with her closed fan. "Everything below us is written down," she says. "Every terrace has a lineage, every lineage has a page, and every page has a seal. You are on the page now. Do not step off it."
 
-## Overview
+## Overview {#overview}
 
 The Tantsou Region is the far east of the [[place-ankrscntnnt|Ankaris Continent]]: a vast expanse of river basins, temperate plains and coastal lowlands walled in by mountains, which has been the cradle of [[affiliation-tantsouempr|Tantsou civilization]] for more than three millennia. An outsider remembers it for its porcelain and its silk, and for the registers. Where the [[place-aureldirgn|Aureldian west]] is a mosaic of sovereign kingdoms bound by related faiths, Tantsou is one continuous civilization whose political form is nearly always imperial, whose eight castes have outlasted every dynasty, and whose celestial bureaucracy understands this land as the one place where the cosmos has been properly classified. The west of Ankaris has no emperor and does not want one. The east has had little else.
 
@@ -77,7 +77,7 @@ To the west, beyond the mountain passes, the Khazrin Desert is a buffer crossed 
 
 To the north, the frontier toward the [[place-grkrhlmrgn|Grukarholm Region]] is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the [Black Wilds]{.name data-type="place/region"}, is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern provinces.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the imperial polity of the region

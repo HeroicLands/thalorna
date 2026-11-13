@@ -61,7 +61,7 @@ Válaren was a fishing harbor on the southern shore when Vilérian shipping firs
 
 The last blockade is the event the city dates itself by. For a quarter of a year forces nobody identified held the roads and the water, and the partnerships that bound the merchant houses came apart one by one. The houses that survived it lend short to this day, and Válaren's standing in the Vilérian ports took a generation to recover.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-provenzrgn|Provénzia Region]] · [[place-vylarianse|Vilérian Sea]]
 - [[scenario-siegevalrn|The Siege of Válaren]] · [[scenario-pechszrvln|The Peaches of Zuravlen]]

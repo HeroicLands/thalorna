@@ -17,7 +17,7 @@ data:
   packFolder: provenzia
 ---
 
-## Overview
+## Overview {#overview}
 
 Belsaren is a lordship and village of [[place-ceravelvale|Keravel Vale]], and when the vale's bandits strike, they strike here hardest. Its lord keeps a map of Belsaren spread on the table of his hall, and the marks on it are raids. The land is worth fighting over: Belsaren has valuable timber and minerals, and east of it rise [[place-bloodhills|the Blood Hills]], where [[affiliation-blackflame|the Black Flame]] fought its most infamous battle, [[lore-bloodhillsbtl|the Battle of the Blood Hills]], about 248 AF and where something of the Black Flame's is said to lie hidden still.
 
@@ -42,7 +42,7 @@ The quarrel between the two lords serves a third. Kilan Ilovrel wants Belsaren's
 - **The clerk.** A clerk who drew the treason charge against the old lords lives in the village, and a party looking into the charge may need what he remembers ([[scenario-webdeceit|The Web of Deceit]]).
 - **The road east.** Belsaren's road is the way into the Blood Hills ([[scenario-firsbldhls|The Fires of the Blood Hills]]).
 
-## See Also
+## See Also {#see-also}
 
 [[scenario-bldshscrvlvl|Blood and Ashes in Keravel Vale]]
 : the campaign that sets the lordship in its vale

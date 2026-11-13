@@ -87,7 +87,7 @@ The coast is divided about the house. The northern houses say that beads paid to
 - **War canoes.** The house buys its war canoes from the Thunderbird House of [[place-gwemlasis|Thunderbird Beach]], and a party that can carry word or wealth between the two beaches is welcome at both.
 - **The river.** In danger the people of Lamekis take to their canoes and go up the South River, and they know it a mile wide and far inland.
 
-## See Also
+## See Also {#see-also}
 
 [[place-lamekis|Lamekis]]
 : Bear Beach, the house's village

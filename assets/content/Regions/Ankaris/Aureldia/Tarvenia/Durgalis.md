@@ -50,7 +50,7 @@ The square under the castle is the whole public life of Dúrgalis. The assembly 
 - **The day after.** Hail has come out of a clear sky onto a single field of the valley, and its owner swore in the square the day before. The assembly wants the lie found and answered before the autumn count, and the owner says the hail fell on the wrong field.
 - **The raiders on the pass road.** The militia leader who took [[being-trsrthldrn|Tórsaro Thalidran]] into the militia wants the bandits who raid the valley's farms followed to wherever they winter, and he has more young men than experienced ones.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cncldrgls|Council of Dúrgalis]]
 : the valley's assembly and how it governs

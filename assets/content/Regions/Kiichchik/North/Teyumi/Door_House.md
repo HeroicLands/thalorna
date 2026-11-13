@@ -17,7 +17,7 @@ data:
 # terran_analog: Chetro Ketl and the other great houses facing Pueblo Bonito across Chaco Canyon; the door cut through the outer wall is this setting's own
 ---
 
-## Overview
+## Overview {#overview}
 
 Every other great house of the [[affiliation-teyumi|Turquoise People]] shows a stranger a blank outer wall and a ladder he must wait to have let down. Hepuhosa, the Door House, shows him a door. It stands across the [[place-hosaoyalargn|Canyon of Houses]] from [[place-yaahosa|Yaahosa]], a block of some three hundred rooms against the south cliff, and at the foot of its outer wall is a doorway as tall as a man, cut through the masonry and never closed. About 700 people live in it and in the small houses around it.
 
@@ -35,7 +35,7 @@ The house head is [[being-teyuhesi|Teyuhesi]] of the Corn clan, a woman of forty
 
 The Grandmother House has given it twice. Its rain chief, [[being-waimahalu|Waimahalu]], has said that the Door House is gathering every dry heart in the north into one canyon, and that the rain will not come until somebody looks at who is eating there. Teyuhesi has answered him in the one way the canyon respects, which is by saying nothing and opening another storeroom. Everyone in the canyon expects the two houses to meet over this at the canyon feast.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People and their towns

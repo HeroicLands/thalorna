@@ -8,7 +8,7 @@ tags: []
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
-## Overview
+## Overview {#overview}
 
 Hringstead sits on the border between [[place-nordheim|Nordheim]] and [[place-vithgard|Vithgard]] and belongs to neither. All five kingdoms of the north guarantee it as neutral ground, and the first thing anyone tells a stranger at the gate is [The Hall's Truce]{.name data-type="lore/custom"}, the rule that makes the guarantee real. On [Compact-Hall]{.name data-type="place/structure"} ground every signed warrior is under truce, and to kill a man at Hringstead, even your worst enemy, is an act for which there is no expiation. Men who have hunted each other across three kingdoms drink at the same board here and keep their hands on the table.
 
@@ -24,7 +24,7 @@ People at Hringstead tell of the [Ride over Hringstead]{.name data-type="lore/hi
 
 A man has been killed during a gathering-feast, and the Council of the Hall convenes at once. The killer’s company is one of the largest signed companies, and its employer is a king who needs it in the field within the month. The Hall’s Truce allows no excuse for the killing.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-malldbndlg|Málalidabandalag]]
 : the compact whose Hall stands here

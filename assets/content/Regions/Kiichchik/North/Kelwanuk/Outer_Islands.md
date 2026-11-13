@@ -17,7 +17,7 @@ data:
 # terran_analog: Haida Gwaii, with the Haida canoe builders who sold their great dugouts up and down the coast, and the west coast of Vancouver Island
 ---
 
-## Overview
+## Overview {#overview}
 
 Nearly every war canoe on the coast was cut on the Outer Islands (_yatsala_, the gathering of islands). They lie off the middle of the [[place-kelwanukrgn|Kelwanuk Region]], a chain of large islands across a strait a day's paddle wide, and the cedars on them are the oldest and the tallest the [[affiliation-kelwanuk|Kelwanuk]] know. About 30,000 people live here, and the island houses build the seagoing canoes (_yakwis_) that the rest of the coast buys, raids in and is buried with.
 
@@ -43,7 +43,7 @@ Everything else comes in: grease from the inlets, because the islands have no eu
 
 The Thunderbird House sold war canoes to the Eagle House for the raids that made the Eagle House rich, and now it sells them to the Bear House of [[place-lamekis|Lamekis]]. The island chiefs argue among themselves whether to keep selling to every house that pays, or to sell only to the house they want to see sit first.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kelwanukrgn|Kelwanuk Region]]
 : the whole coast of the Cedar People

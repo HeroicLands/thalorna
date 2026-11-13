@@ -18,13 +18,13 @@ data:
   government: besikar
 ---
 
-## Overview
+## Overview {#overview}
 
 A ship bound for Besikar passes between fortified islets and two long breakwaters before the city opens in front of her, and inside them lies the [Grand Harbor]{.name data-type="place/feature"}, a deep natural bay that can shelter hundreds of hulls at once. It is the finest anchorage on the [[place-vylarianse|Vilérian Sea]]. Besikar, a city of about 400,000 on the north-western coast of [[place-qalirel|Qalirel]], is the seat of the city-state of [[affiliation-besikar|Besikar]], the largest and wealthiest member of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and the city where the Confederation's [[affiliation-grandcouncil|Grand Council]] meets.
 
 The name is the harbor's: _besik-_, to shelter from the swell, with _-ar_, where the thing is kept. Everything else in Besikar follows from the water. The banks that lend against cargoes stand on the quay where the cargoes land, the Council that votes the Confederation's tariffs sits a street from the customs, and the dock workers who carry it all live in the old city behind the warehouses and count none of it.
 
-## Arriving
+## Arriving {#arriving}
 
 The Harbormaster's launch meets every hull at the inner breakwater. Its clerk reads the ship's papers on deck, measures her draft against a painted pole, and gives her master a berth and a chit for the dues, which fall on tonnage and are paid at the customs before any cargo leaves the quay. The harbor has two arms. The northern arm holds the naval yards, where the Confederation's warships are built and refitted behind a wall, and no merchant berths there. The southern arm holds the fishing fleet, the coasters and the smaller traders. Between the two, along the deep water, run the merchant quays of the Guild Quarter, where the great hulls of the eastern trade lie three deep in the sailing season.
 
@@ -66,7 +66,7 @@ The vote that seats the council belongs to the Roll, the book in the Chancellor'
 
 Order on the quays belongs to the Harbormaster, whose men carry staves, keep the berths, search what they are told to search and turn smugglers over to the customs. The Guild Quarter keeps itself: each house has its doorkeepers, and the Compact's enforcers collect its debts in their own way. In the old city a shopkeeper robbed in the night goes first to the warden of his bazaar, a man paid by the stallholders to keep the vault, who knows every thief who works under it. If the warden cannot help, the shopkeeper needs the city's court, and a Resident cannot plead there in his own name: he finds a freeman to stand for him as his _rumukum_ (surety), and the freeman takes a share of anything recovered. The city militia, drilled by property-holders' sons, is called out only for a riot or a fire.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The sailors' inns of the southern arm are cheap, loud and honest about it, and their hosts change foreign coin at a poor rate. The caravan inns at the head of the pass road are cleaner and quieter, and their stables are good. A party with a letter to a house of the Guild Quarter lodges in that house's guest rooms above the counting house, eats at its table and finds its own business known on the quay by morning.
 
@@ -83,7 +83,7 @@ Independence put new masters in the old buildings. The Auric Compact took the _t
 - **The clerk at the gate.** A young Khelathi clerk of the factorage slips out of the gate before it closes and asks a party, in careful Taruzeli, to carry a sealed letter to a ship lying in the roads, and to give it to nobody else.
 - **The runner.** One of the moneylender houses' evening runners has not reached the Vezakar, and his satchel was chained to his wrist.
 
-## See Also
+## See Also {#see-also}
 
 [[scenario-mnthbfrrvw|The Month Before the Review]]
 : the campaign frame of the veterans and the summer session

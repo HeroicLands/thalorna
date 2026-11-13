@@ -15,7 +15,7 @@ data:
   government: linzemnlzlqr
 ---
 
-## Overview
+## Overview {#overview}
 
 Zel-Qar, "the Place of Truth," is the walled company-village on the western bank where the craftsmen who cut and decorate the [[place-khelzuret|Khelzuret]] necropolis live apart, close to their work. About 6,000 people live here, in [[affiliation-selatkhelzrt|the Selat of Khelzuret]]: stonecutters, draftsmen, sculptors and painters.
 
@@ -25,7 +25,7 @@ Behind the wall the village keeps itself, with its own headmen, its own little c
 
 The tombs they raise are meant never to be opened again, and the men of Zel-Qar know better than anyone where the dead and their treasures lie. That makes the village the most trusted and the most watched community in the selat, and it makes a bribed craftsman the tomb-robbers' surest master key.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatkhelzrt|The Selat of Khelzuret]]
 : Parent selat

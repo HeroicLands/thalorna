@@ -23,7 +23,7 @@ The town lives on the road. Carters, ferrymen, innkeepers and the clerks of the 
 
 Every house keeps an envoy in the town, since a message for the Emperor passes through Kowu first.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-muwojaidmn|Muwojai Domain]]
 : the house and its lord

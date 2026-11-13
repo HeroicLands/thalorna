@@ -62,7 +62,7 @@ The cult has two working offices, and the selat's year turns between them. The *
 
 The ladder below them is the shared one: lay faithful who keep the observances and bring offerings, Wazu in the long temple education, Lem'Nelgir who run the temple, and a Thaz'Lekhau whose weight is real inside the selat and slight outside it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-pelgundty|Pelgun]]
 : the god

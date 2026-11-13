@@ -8,7 +8,7 @@ tags: [taruzel, craft, naval]
 data: {demonym: null, lore: [], parents: [bazunel2], population: 0, packFolder: taruzel}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Design Yards line the western arm of the bay of [[place-bazunel2|Bazunel]], below the point where ships from the channels round into the harbor. They are where the Confederation's best ships are conceived. Few of those ships are built here. The yards build the first hull of each new line, and the yards of [[place-yamuzel2|Yamuzel]], [[place-besikar2|Besikar]] and harbors across the [[place-vylarianse|Vilérian Sea]] build the rest to drawings bought from Bazunel. A hull drawn here is known on any sea by its long, clean lines and its inventive rigging.
 
@@ -43,7 +43,7 @@ The yards are busy and owed. The League owes the Rusakuni their fees on several 
 - **The coaster on the slip.** [[being-brshrskn|Abarash Rusakuni]] pays a party to cross the strait and tell him whose drawing the Amradi coaster was built from.
 - **The galley's fee.** Abarash hires a party to learn what the League's privileges are worth on the Painted Harbor before he takes them in place of coin.
 
-## See Also
+## See Also {#see-also}
 
 [[place-bazunel2|Bazunel]]
 : the city on whose bay the yards stand

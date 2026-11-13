@@ -157,7 +157,7 @@ But the Áelendan do not regard Aureldian worship as an alternative to the Old W
 
 The Aureldian priesthood expects the Élavendri noble houses, who claim Áelendan ancestry, to follow Aureldian worship and give up the older beliefs. Many of them, the lesser houses especially, still keep to the Kindred Pact in secret, and to the Old Way within which it is understood, behind their public Aureldian observance. Among the common people the priesthood officially opposes the older customs and in practice turns a blind eye to them. The [[affiliation-ordoarcanis|Thordimalon]] regards the secret practice with suspicion, as it regards any ungoverned religious practice as a category of problem.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-firstgods|The First Gods]]
 : The pantheon the Old Way venerates (the Bright, the Dark, and the Kindred)

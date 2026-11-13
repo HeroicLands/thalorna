@@ -16,7 +16,7 @@ data:
 # terran_analog: Kamarata at the foot of Auyán-tepui, and the ayahuasca healers of the Amazon; the name joins ch'al (beneath) to pu'uts (a mesa)
 ---
 
-## Overview
+## Overview {#overview}
 
 The wall of the mountain fills half the sky. It goes straight up out of the forest for nearly a thousand meters, bare pink rock streaked black where the water runs, and its top is flat and lost in cloud most mornings. A ribbon of water falls from the top and turns to mist long before it reaches the bottom. Ch'al Pu'uts, Beneath the Mesa, is a town of about 8,000 people at the foot of that _pu'uts_ (table mountain), on the eastern highlands of the [[place-xelemrgn|Shelem Region]], where the river that the waterfall feeds comes out of the forest. It is the last town of [[affiliation-xelem|Shelem]] before the highland peoples who keep their own leaders, and the place where the strangest goods of the jungle are sold.
 
@@ -38,7 +38,7 @@ None of the herbalists of Ch'al Pu'uts has been to the top of the mountain. Half
 
 Ch'al Pu'uts is a council town, governed by the heads of its herbalist families and its master merchants together with the priests of its one temple. The council chooses a Ts'omeshmah each year, when the town renews its agreements with the river towns and sends its gifts north, and the speaker is nearly always the head of an herbalist family, because the merchants of the town have little to sell that the herbalists do not supply. The town keeps no levy. The highland peoples around it trade with it and owe it nothing.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tsalukul|Ts'alukul]]
 : the City of Rivers, where the town's goods go downriver

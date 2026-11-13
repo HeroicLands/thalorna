@@ -146,7 +146,7 @@ The Sect is organized in small, compartmentalized cells that rarely know each ot
 
 Every new member is subjected to an extended evaluation process—years, typically—during which their loyalty, discretion, and operational discipline are tested repeatedly. The Sect cannot afford to admit informers. It has, on at least three recorded occasions in its history, dissolved entire cells that were suspected of compromise, relocating the uncompromised members and liquidating the operations before imperial investigators could assemble a case.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-wanduo|Wandwo]]
 : The chattel sorcerer caste from which the Sect's members are drawn

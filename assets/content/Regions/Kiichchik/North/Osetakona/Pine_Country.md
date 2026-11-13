@@ -17,7 +17,7 @@ data:
 # terran_analog: the Canadian Shield north of Lake Ontario and the Ottawa valley, the edge of the boreal forest; the hunting bands are Algonquian peoples such as the Algonquin, Nipissing and Cree
 ---
 
-## Overview
+## Overview {#overview}
 
 The Pine Country (_tsitaraten_) is the northern edge of the Grove, a country of granite, pine and cold lakes where the maize ripens in some years and not in others. The Pine People hold it, about 70,000 people, the smallest and hardiest nation of the [[affiliation-osetakona|Osetakona]], at the northern end of the [[place-osetakonargn|Osetakona Region]]. Beyond them the forest runs north into spruce, muskeg and caribou country with no villages at all. The Pine People are the Grove's door to that country, and this year the people of that country are standing in it.
 
@@ -47,7 +47,7 @@ The Pine People's speaker [[being-okwiahasterio|Okwiahasterio]], Watches the Bea
 
 Furs go south: beaver, marten, otter and moose hide, down the rivers to the Falls Country. Maize comes north, with copper blades, beads and pots. The bands bring caribou hides and the tools of the far north, and they have begun to bring news of the newcomers from the ice, which the Pine People's runners carry to the Kettle every spring.
 
-## See Also
+## See Also {#see-also}
 
 [[place-osetakonargn|Osetakona Region]]
 : the whole land of the Maple People

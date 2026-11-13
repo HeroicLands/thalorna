@@ -41,7 +41,7 @@ relationship in one gesture.
 
 The foothill villages are frightened this year, and the mountain is the reason they give. Shepherds who came down from the lower pastures in spring tell of bad dreams on the high ground, two flocks have sickened, and a pilgrim who went up the customary way came down without speaking. The village priests are divided over whether the mountain is angered or something on it is wrong. The crown would like to send someone to look at the springs and cannot without breaking the arrangement that keeps its water flowing, and the Áelendan have set a closer watch on the paths up to the springs. See [[scenario-crsmnthydrvn|The Curse of Mount Hidraven]].
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-aelndntrbs|Áelendan Tribes]] · [[place-provenzrgn|Provénzia Region]]
 - [[scenario-crsmnthydrvn|The Curse of Mount Hidraven]]

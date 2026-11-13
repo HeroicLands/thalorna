@@ -88,14 +88,14 @@ In the years after, the crown held the head of the bay with stone and not only w
 
 The sworn men of the [[affiliation-brdrmltia|Border Militia]] were added to the shore's levy in the same years, and the [[affiliation-morthalwtch|Morthal Watch]] was made from the posts of the hill steadings when it became plain that a coast held on one side was entered on the other.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The oath.** No treaty, no embassy and no appetite for either, and a Nordman who comes to the gate under a flag is not admitted ([[place-durmelen|Durmelen]]).
 - **The chain.** A single fire on the tower for boats on the bay, two for a landing, three for a fleet from the open sea. Three has not been lit in the present Castellan's lifetime.
 - **The wall.** Sarmelis's mole and boom, and a shore that sets its villages back from the water.
 - **The standing arm.** The sworn companies of the border, which stand beside a levy that cannot be raised in the time a fleet takes to come and go.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-southrnfleets|The Southern Fleets]]
 : the Nordmen's account of the same summers

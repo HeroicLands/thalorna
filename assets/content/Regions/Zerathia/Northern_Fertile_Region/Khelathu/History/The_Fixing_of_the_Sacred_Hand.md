@@ -64,14 +64,14 @@ The [[lore-garauu|king-list]] enters nothing of it. [[lore-akhfirsttab|The First
 
 **The rule of the glyph.** A curse or a ward is not written beside the signs of a tomb. It is worked into the shape of the glyph itself, so that cutting the sign makes the ward and defacing it breaks the ward. The rule rests on the Fixing, because a working in a glyph's shape holds only while the shape does not change.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The prestige register.** The classical register is still the language of temples, tombs and royal monuments, and the sacred script is read with it. Qalezu, the bureaus' alphabet reduced from it ([[lore-qalezusanction|the Sanction of Qalezu]]), is the bureaus' tool and not the god's.
 - **The oldest inscriptions.** The records the earliest astrologers keep at [[place-chenosolis|Chenosolis]] and the star maps they cut into the stones of [[place-beshakan|Beshakan]] are written in the fixed hand.
 - **The scribal schools.** Khelunu and the temple of Reth'Sa'ar keep the signs, the king-lists and the calendar tables, and every scribe who rises takes his schooling in the signs as that reign closed them.
 - **A warded script.** Because the working lives in the glyph, a robber who reads the lintel of a tomb is reading the ward as well.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhfirsttab|The First Tablets]]
 : the age in which the signs were fixed

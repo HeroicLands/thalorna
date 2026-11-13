@@ -57,7 +57,7 @@ South of the city the road drops through the terraced valleys that feed it—ric
 
 It is an easy road and a well-kept one, and it is the reason Suryagarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a **Samonta** who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior ushtaka of the temples.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-shikhalaya|Shikhalaya]]—the kingdom seated here
 - [[place-shikhalayaland|Shikhalaya]]—the land

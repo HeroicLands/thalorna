@@ -16,7 +16,7 @@ data:
 # terran_analog: "Atlantis as Plato describes it in the Timaeus and Critias, not the modern legend."
 ---
 
-## Overview
+## Overview {#overview}
 
 The Kalihara Region is the inhabited country of the island of [[place-klhrcntnnt|Kalihara]], which is to say very nearly the whole of it. Every other great landmass of [[place-worldthlrn|Thalorna]] is a mosaic of regions and rival powers; Kalihara carries one continuous civilization, one people, one language family and one philosophical tradition, so the island and its region are the same country under two names. The distinction is the one Kaliharans draw themselves: the region is the land as it is lived in and governed by [[affiliation-kalihara|Kalihara]], the one polity of its lineages and its ports, and the island is the landmass and the ocean approaches that guard it.
 
@@ -42,7 +42,7 @@ The Kaliharans are one people and two kinds. The Kaliharan of the interior keeps
 
 The region is held by Kalihara, one polity of lineages and ports under [[affiliation-councilisland|the Council of the Island]], a single Council seated at Ilovanu and governed by layered councils whose composition no foreigner has been told. The custodians of Thári-vaan carry great influence and do not rule. There is no rival power on the island and never has been: Kalihara has never had an empire, never fought a war of conquest, and never admitted a settler it did not choose.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrcntnnt|Kalihara]]
 : the island, its seas and the long way home
@@ -61,3 +61,7 @@ The region is held by Kalihara, one polity of lineages and ports under [[affilia
 
 [[lore-kaliharanclt|Kaliharan]]
 : the people, their observances and their names
+
+[[place-reithovani|Reithovani]]
+
+[[place-vaelukoa|Vaelukoa]]

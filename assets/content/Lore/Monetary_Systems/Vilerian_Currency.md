@@ -251,7 +251,7 @@ Large sums of coin are heavy. One thousand Ardin (about 6.25 Solden) weighs abou
 
 A merchant on the road typically carries a modest mix. He keeps a handful of Soldeni, concealed, for emergency liquidity, perhaps 20–50 Ardin in a belt purse for daily expenses, and a sealed traveler's note for the bulk of his working capital, sewn into a pocket or carried by a trusted servant. The Bits pile up from the day's change.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tarmex|The Tarmeks Orzan]]
 : the institution that mints, regulates and ultimately backs the currency; the full description of the paper script system

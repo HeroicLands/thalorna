@@ -249,7 +249,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the unburned dead. A king at the ford of [[place-olurtaran|Olurtaran]] forbade the pyre for the villages that came down to be heard, and the ground stands cursed to this day. The orthodox temples did not light it afterward. When the Agmi-pantra's founder spent a season burning the ford, the temples held that the unburned dead were Kalavrata's affair, and the cities put his priests out. Some centuries later the kings of [[lore-hundredcrwn|the Hundred Crowns]] forbade the sect to touch [[place-gajastal|Gajastal]], and three capitals banned its priests for going anyway. The ground is a recurrence still, and the villages along its foot have built its bones into well-heads and walls. A people whose whole rite is to see the dead off within the day left a field of dead standing in the doorway for centuries, and the orthodox account is that it was never theirs to light.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara Region]]
 : the subcontinent this is the culture of

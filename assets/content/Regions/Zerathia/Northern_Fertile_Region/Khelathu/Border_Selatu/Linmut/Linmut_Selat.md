@@ -15,7 +15,7 @@ data:
   government: selatlinmut
 ---
 
-## Overview
+## Overview {#overview}
 
 **Linmut Selat** is the land of [[affiliation-selatlinmut|the Selat of Linmut]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
@@ -23,7 +23,7 @@ data:
 
 The fortress stands on an island in the river at the second cataract, and the selat is built around that one narrow passage. The river's banks carry the usual [[lore-khelathiclt|Khelathi]] villages, estates and temple lands, where farmers owe a share of the harvest and labor on the canals, and the scribes keep the rolls; but the island is what a traveler sees, and the island is what the selat is for. It is a gateway and a toll-gate, and traffic on the river passes under the fortress.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-linmut|Linmut]] (~11,000)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-wethur|Weth'ur]].
@@ -31,7 +31,7 @@ The fortress stands on an island in the river at the second cataract, and the se
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatlinmut|The Selat of Linmut]]
 : The selat that holds this land

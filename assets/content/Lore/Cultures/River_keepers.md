@@ -76,7 +76,7 @@ The Luwando hold some reaches of their rivers forbidden, and do not fish them or
 
 An outsider sees a fishing village on a riverbank, a courteous welcome, three days of food and no questions, and a trader who speaks for the village. Most outsiders take the trader for a chief and the camp for the tribe, and both are wrong. The outsider does not see the leader, who does not trade, or the elders who made that leader, and does not see the river as the Luwando see it: as the host who brought the outsider, and who expects its guests to behave.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-bikoclt|Biko]]
 : the forest peoples

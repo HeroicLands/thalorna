@@ -51,7 +51,7 @@ Her work is to keep the classification whole through its weakest hours, so that 
 
 Art shows her pale, a lantern in one hand for the light of classification lasting through the dark, and in the other a sealed scroll of the night's dispatches waiting for morning.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-fvlmntlrds|Five Elemental Lords]]
 : the administrators of the elements, beneath the great powers

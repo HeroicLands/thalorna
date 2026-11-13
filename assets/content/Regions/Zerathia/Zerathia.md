@@ -96,3 +96,15 @@ Beyond the Vilérian Sea, Zerathia's contact with the rest of Thalorna is thin. 
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : The northern continent
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+
+[[place-bethuargn|Bethua Region]]
+
+[[place-okharisrgn|Okharis Region]]
+
+[[place-sthmrchsrgn|South Marches]]
+
+[[place-velkhara|Vel'Khara]]
+
+[[place-venariasea|Venaria Sea]]

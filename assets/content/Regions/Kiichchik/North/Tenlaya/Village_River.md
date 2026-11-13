@@ -17,7 +17,7 @@ data:
 # terran_analog: the middle Missouri valley of the Dakotas, with the Knife River flint quarries upstream and the fortified Plains Village sites downstream, around 1100
 ---
 
-## Overview
+## Overview {#overview}
 
 Walk west across the open grass for a week and the ground drops away without warning into a valley two or three miles wide, full of cottonwood, willow and ash, with a broad brown river wandering through it. Above the floodplain on both sides, on the terraces where the floods never reach, stand the villages: low domes of earth inside ditches and palisades, smoke rising from their tops, and fields of corn, beans, squash and sunflowers below them on the bottomland. This is the Village River, Hesun Shewan, the great river of the plains, and the farming heart of the [[affiliation-tenlaya|Tenlaya]], the Grass People. About 70,000 people live along it, some 30,000 in its villages and the rest in the bands that winter in its bottoms.
 
@@ -49,7 +49,7 @@ The river is the plains' road. Bull boats carry corn and robes from village to v
 
 Last autumn a war party of the Coyote band came home from the One Fire's western towns with robes and captives, and in midwinter the One Fire answered by burning a third of the lodges of the Forks. The lodge owners of the Forks have said that they will not open their cache pits to the Coyote band at this autumn's trading, Corn Pipe or no Corn Pipe, and every village on the river is waiting to see what the bundle keeper of Tanshe Yawa says about it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tenlayargn|Tenlaya Region]]
 : the grasslands around the river

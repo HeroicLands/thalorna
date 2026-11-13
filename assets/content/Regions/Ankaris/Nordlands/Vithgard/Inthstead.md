@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: vithgard}
 ---
 
-## Overview
+## Overview {#overview}
 
 Check the lines before you check your sword: that is the rule [[being-dvrnvrhrfnsvld|Dvarnvir Hrafansvald]] has given levymen for years, and the reason is a night at Inthstead.
 
@@ -18,7 +18,7 @@ Inthstead is a steading on the borders of [[place-vithgard|Vithgard]]. The levie
 
 At [The Burning of Inthstead]{.name data-type="lore/history"}, one night of [[lore-vthgrdsccwrs|the Vithgard Succession Wars]] of 694 to 701, fire took the levy's tent-lines, and the canvas that should have sheltered the men trapped them instead. Dvarnvir, a young soldier at the start of fifteen years in the levy, carried burning canvas out of his company's tent before it could close over his companions, and earned his fire tattoo for it. The night taught him that good men can be killed by the failure of their gear, and he became a tentmaker because of it.
 
-## See Also
+## See Also {#see-also}
 
 [[being-dvrnvrhrfnsvld|Dvarnvir Hrafansvald]]
 : the soldier who pulled the canvas clear

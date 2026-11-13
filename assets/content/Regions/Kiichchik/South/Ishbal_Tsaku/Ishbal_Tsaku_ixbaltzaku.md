@@ -79,7 +79,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: the governance takes the shape of the Inca state: the Ts'enmah is the Sapa Inca, the Ts'en Nalash the royal panaqa that kept a dead ruler's body and estates, the kin groups the ayllu, the two halves hanan and hurin, the labor turn the mit'a, the Ts'obmah and Pel'ushmah the decimal officials counted here in twenties, the hereditary Pel'ushmah the curaca, the K'ayalbal the inspectors, the K'otselbal the quipu keepers and the storehouses the qollqa; no title is an Inca word
 ---
 
-## Overview
+## Overview {#overview}
 
 Ish'bal Tsa'ku holds the land of the [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]], the mountains, terraced valleys, jungle rivers and western coast that are the richest country of the south. Its cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur, and its forges make much of the steel the warriors of [[place-kiichchik|Kì'ìch'chik Continent]] carry. The jaguar is its emblem, revered as the spotted image of divine power.
 
@@ -113,7 +113,7 @@ Tribute flows constantly to the temples: the finest goods, the most precious off
 
 The Ts'enmah of Ish'bal Tsa'ku chafes at one thing. [[affiliation-itsanihierarchy|The Itsani Hierarchy]] (Q'emul Tq'an), the supreme high priest of the whole faith, sits at Kul'taq'an in Ish'ilankul, and the Sun Lords of Ish'ilankul's cities treat him as their own. At each conclave the Presiding Ch'alish Tq'an of Ish'bal Tsa'ku goes north with his city's coal and his Ts'enmah's instruction to press for a Q'emul Tq'an from the south, and at each conclave the heartland's high priests choose one of their own. The Ts'enmah's court says openly that a realm whose cities rival Ish'ilankul's deserves a voice at the top of the ladder.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]
 : the land Ish'bal Tsa'ku holds
@@ -126,3 +126,5 @@ The Ts'enmah of Ish'bal Tsa'ku chafes at one thing. [[affiliation-itsanihierarch
 
 [[affiliation-itzanpnthn|Itsani Pantheon]]
 : the faith whose priesthood binds the realm
+
+[[affiliation-steelkin|The Steel Kin]]

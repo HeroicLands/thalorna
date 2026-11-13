@@ -78,7 +78,7 @@ Copper is heavy, and the north moves it by canoe. A pound of lake copper is a fa
 | **Wealth, gift and payment** | The [[affiliation-osetakona\|Maple People]]; the [[affiliation-tokchiaska\|One Fire]]; the [[affiliation-kelwanuk\|Cedar People]]; the [[affiliation-teyumi\|Turquoise People]], whose richest warriors carry copper |
 | **Scarce**                   | The [[place-shuqhalaqrgn\|Bead Coast]], which has almost none but what the Cedar People bring; see [[lore-shellbeadcrncy\|Shell-Bead Strands]]                                                                       |
 
-## See Also
+## See Also {#see-also}
 
 [[lore-osetakonaclt|Osetakona]]
 : the Maple People, their sweetening and their Feast of Bones

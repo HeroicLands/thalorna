@@ -51,7 +51,7 @@ The household has taught itself that this is a kind of tithe, as a temple takes 
 
 A track leaves the march road at the wells above [[place-ashvapada|Ashvapada]] and climbs north into the foothills, a day by horse. There is no other water on it. A traveler who reaches the fort at dusk is received as the custom has it: fed before he is questioned, lodged before he is told the rules, and given the cup.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The cup.** A caravan-master hires guards for the two days that pass the fort, and tells them in confidence to drink only from their own skins.
 - **The bond-market.** A mother arrives at the fort looking for a son sold into its household three dry seasons ago. The Samonta says the boy left.
@@ -59,7 +59,7 @@ A track leaves the march road at the wells above [[place-ashvapada|Ashvapada]] a
 
 [[scenario-sweetwellmadu|A Cup Before Questions]] gives these as a five-scene adventure.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bhumipalland|Bhumipal Land]]—the march it stands in
 - [[affiliation-bhumipal|Bhumipal]]—the kingdom whose Maharava the Samonta serves

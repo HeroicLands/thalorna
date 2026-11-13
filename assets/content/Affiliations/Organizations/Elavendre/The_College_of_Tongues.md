@@ -77,7 +77,7 @@ The Wardens have asked the College for the names of the pupils who go. The Colle
 - **Examiner's mark.** A pupil failed the Examiner's test and was licensed anyway by a house. The Examiner wants to know who signed.
 - **What the library does not lend.** A text in the College's closed shelf was copied, and the copy turns up in a Péravel chapterhouse collection.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-bardicolgs|The Bardic Colleges]]
 : The Colleges and their Circle

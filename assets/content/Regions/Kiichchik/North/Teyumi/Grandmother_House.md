@@ -17,7 +17,7 @@ data:
 # terran_analog: Pueblo Bonito in Chaco Canyon, the D-shaped great house of about 650 rooms with its great kiva, its walled plaza and the trash mound where pots were broken
 ---
 
-## Overview
+## Overview {#overview}
 
 From the rim of the [[place-hosaoyalargn|Canyon of Houses]] the Grandmother House looks like a half-moon of stone laid on the canyon floor: a curved back wall five stories high against the north cliff, terraces stepping down inside it, and a straight wall closing the plaza on the south. Yaahosa, the Grandmother House, is the first great house of the [[affiliation-teyumi|Teyumi]], the Turquoise People, raised where [Teyuwesa]{.name data-type="being/npc"} stopped walking. It has some six hundred rooms. About 1,200 people live in it and in the small houses on the canyon floor below it, and at the canyon feast ten times that many camp along the wash.
 
@@ -43,7 +43,7 @@ The two have stopped agreeing. Three summers have come up short of rain, and at 
 
 The Grandmother House kept its ladders up through all nine years of the [Year of Shut Doors]{.name data-type="lore/history"}. The canyon remembers it as the house that held the most corn and opened none of it, and the rain chiefs of the house have answered for that at every feast since. The storerooms are full today because the pilgrims fill them, and the oath its house head swears is the oath that the other house across the canyon made necessary.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People and their towns

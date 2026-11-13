@@ -14,7 +14,7 @@ The stone stands alone in the middle of the [Targa River Valley]{.name data-type
 
 The astrologers hold the monolith to be the first stone of a road that ends in the sands of [[place-lareshu|Lareshu]], at [[place-lutzelutha|Lut-Zelutha]].
 
-## See Also
+## See Also {#see-also}
 
 [[place-lareshu|Lareshu]]
 : the waste of sand where the astrologers' road is held to end

@@ -82,7 +82,7 @@ The funerals divide the faith, and the division runs between its two halves. The
 
 The shell towns hold the knowers' teaching to a household, and so do many commoners of the heartland, who are the households most likely to lose a servant or a captive kinsman at a funeral. The Keepers answer that the knowers are cheapening the rite to sell their own services. The old Great Sun, [[being-opahiko|Opahiko]], is dying, the Eldest Keeper wants him buried with a full following, and every knower in the nation is being asked by every household what will happen to those who go with him.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tokchiliclt|Tokchili]]
 : the culture of the One Fire, the up and the down of the dead

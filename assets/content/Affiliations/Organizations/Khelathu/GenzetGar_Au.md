@@ -48,7 +48,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 A decision made anywhere else in [[affiliation-empireakhlth|Au'Khelathu]] still has to survive the [[lore-garauu|Gar-Au]]'s court before it becomes policy. **Genzet'Gar-Au** is the household and council that surrounds the Gar-Au, the body through which imperial appointment is made and favor distributed, and every faction with an interest in the empire's direction keeps a presence in it. A petitioner's request moves at the pace of whichever faction currently has the Gar-Au's ear, which is rarely the petitioner's own.
 
@@ -70,7 +70,7 @@ The court deals in appointment and favor rather than goods. Its coin is access: 
 
 If you come to the palace with a petition, find out which faction is in favor this season before you find out what the law says. The law is a scribe's business. The faction is yours.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : The region it belongs to

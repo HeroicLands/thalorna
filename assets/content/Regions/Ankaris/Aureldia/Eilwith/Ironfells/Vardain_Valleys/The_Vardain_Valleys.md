@@ -200,6 +200,6 @@ the history of the two realms with the Deep Folk has gone through Vardain hands.
 - **The frost.** A conduit above Kalm failed in the autumn frost and brought down two terraces below it. The engineers mended the conduit within the week and stayed to recut a stretch of the old channel above it, and the masons of Stonihaugh are rebuilding the terraces before the sowing.
 - **The tracks.** A band of [[lore-grukaraelwyth|Grukar]] crossed the high grazing above Highfold and Dorrin in the autumn and reached the hold's outer workings, where the Khazari killed it. The watch at Dorrin did not see it come, and the herders of Highfold have seen a thin figure on the crest above the summer pastures twice since ([[place-hornhall|Hornhall]]).
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-vardain|The Vardain]] · [[place-vorgald|Vorgald]] · [[place-ironfells|the Ironfells]]

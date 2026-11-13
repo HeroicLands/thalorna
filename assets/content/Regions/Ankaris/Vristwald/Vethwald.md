@@ -18,10 +18,16 @@ Vethwald is the Deepwood: an old stand within [[place-vrystwald|Vristwald]]'s ce
 
 [[place-dunkelwald|Dunkelwald]] lives under that canopy. Its old rites have lasted in part because a journey out through the trees takes time and neighboring villages cannot readily oversee what is kept here. People beyond the Deepwood speak of ancient powers within it; the people who live there know the practical cost of moving, hunting and finding a path without direct sun.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vrystwald|Vristwald]]
 : the forest that contains the Deepwood
 
 [[place-dunkelwald|Dunkelwald]]
 : a village inside it
+
+[[place-eichengrnd|Eichengrund]]
+
+[[place-vethhrom|Vethhrum]]
+
+[[place-vrystengrund|Vristengrund]]

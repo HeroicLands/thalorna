@@ -29,7 +29,7 @@ The age ends in two strokes. In 1960 ST (151 BF) raiders from across the sea bur
 
 The age closes with the sea house in 1990 ST (121 BF). The list then begins to enter a reign's months beside its years, and the Keepers date a new age from that change ([[lore-akhcountmon|the Count of Months]]).
 
-## See Also
+## See Also {#see-also}
 
 [[lore-akhdivriver|The Divided River]] · [[lore-akhcountmon|the Count of Months]]
 : the ages on either side

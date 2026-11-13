@@ -28,7 +28,7 @@ The drowning is the one move anyone dates. The Mahanodi has moved three other ti
 
 Those are the **oxbow towns**: river-towns stranded in the floodplain, their landing stairs going down to grass. A dead channel runs past each of them as a long crescent of marsh and reed-bed, wet in the rains and cracked in the dry season, and the stone steps where boats once tied up end in pasture. Most were abandoned within a generation. A few kept their people, and the best known of those is [[place-rushaghat|Rushaghat]], the dust landing, whose ghat-steps lead down to a field.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-mahanodi|The Mahanodi]]—the river that moved
 - [[lore-drwnngseat|The Drowning of the Royal Seat]]—the move, dated

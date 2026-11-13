@@ -25,7 +25,7 @@ The cult therefore sits inside a noble family's charter rather than inside a pri
 
 Igelnaru and Chelsur are one god. They share the water, the river-beasts and the problem of the cull because the name belongs to the stretch of river and the god is the same. The hunting companies know this and keep quiet about it: the charter gives the Halzi'a the god's authority on that reach, and the family's hold on the water rests on the god being theirs alone.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-igelnaru|Faith of Igelnaru]]
 : the cult and its offices

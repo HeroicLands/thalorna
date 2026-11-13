@@ -17,7 +17,7 @@ data:
 # terran_analog: the Pacific Northwest coast, from the Columbia River to the Alaska panhandle (Oregon, Washington and British Columbia), west of the crest of the Cascades and the Coast Mountains
 ---
 
-## Overview
+## Overview {#overview}
 
 Kelwanuk Region is the land of the [[affiliation-kelwanuk|Kelwanuk]], the Cedar People, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]]. It is the far western coast of the north: a strip of fjords, islands and outer beaches between the open sea and a wall of snow-crowned volcanic peaks, with cedar and redwood forest running from the tide line up into the clouds. About 200,000 people live in it, nearly all of them in villages on the beaches, and the forest behind them is crossed by the rivers and little else.
 
@@ -55,7 +55,7 @@ The coast trades with itself first: grease, dried salmon, cedar boxes, blankets 
 
 To the north, beyond the last villages, the [[affiliation-tikupilarit|Ice-Edge People]] of the [[place-tikumanikrgn|Ice Coast]] trade ivory and the furs of animals unknown farther south, and bone carved in their own style, for cedar boxes and grease.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kelwanuk|Kelwanuk]]
 : the Cedar People, the nation that holds this land

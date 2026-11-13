@@ -30,7 +30,7 @@ The [Tha'Ulgau]{.name data-type="affiliation/lineage"} hold the throne for four 
 
 The age closes in 1671 ST (440 BF) with the hill house, whose kin settle the western pastures, and the throne returns to Galezkara under [Azlet'Ralu]{.name data-type="affiliation/lineage"} ([[lore-akhrestcrown|the Restored Crown]]).
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-akhsunroad|The Sun's Road]] · [[lore-akhrestcrown|the Restored Crown]]—the ages on either side
 - [[lore-garauu|Gar-Auu]]—the king-list

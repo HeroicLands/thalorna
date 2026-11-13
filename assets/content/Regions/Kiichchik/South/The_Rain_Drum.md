@@ -8,7 +8,7 @@ tags: [site, strange, shrine]
 data: {demonym: null, lore: [], parents: [tzalamtzltl], population: 0, packFolder: ixbaltzaku}
 ---
 
-## Overview
+## Overview {#overview}
 
 Below the eastern wall of [[place-tzalamtzltl|Ts'alam Ts'ultel]] the mountain falls away in terraces, field below field of maize and potatoes held up by walls of fitted stone, down into the cloud. Halfway down them, on a shelf of its own, stands a shrine with no roof, and in its floor lies the Rain-Drum. The terrace families call it Ne'chan Ch'umel, the voice of the rain, and nobody in the fortress calls it anything else.
 
@@ -26,13 +26,13 @@ The shrine belongs to the kin groups of the fortress's lower half, who hold the 
 
 The terrace families hold that the note calls the rain. In their account, the first planting on the eastern slope was made in a drought, and the rain came on the afternoon of the first stroke and has come every planting since. A dull note, to them, means a dry year, and the last two have frightened them more than any raid.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The steel disc.** The shrine-keeper means to have a disc of steel cast at [[place-nekiahkul|Ne' Ki'ahkul]], laid over the Rain-Drum and beaten instead, so that the note rings true again. The terrace families want nothing laid on it at all. A party carrying goods up the pass is asked to bring the steel up, and asked by the families to lose it on the way.
 - **The two years.** The rains at the last two plantings were one good and one poor. Each side of the quarrel tells the party the year that proves its point, and each wants the party to say so to the lord of the lower half.
 - **The slide.** A terraced slope across the valley came down in the last rains and buried a village's fields. The eastern families want the Rain-Drum struck out of season, which has never been done, and the shrine-keeper refuses.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tzalamtzltl|Ts'alam Ts'ultel]]
 : the fortress above the terraces

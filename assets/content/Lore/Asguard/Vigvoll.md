@@ -12,7 +12,7 @@ The last place a skald names on the last night of [[lore-jol|Jel]] is a field, a
 
 The Asguardian telling is blunt about what the field offers. The defenders know the muster fails and gather anyway, and Vigvoll is the appointed place where that defiance is made. A rune-priest who teaches it adds no promise to the lesson, because the field promises no triumph to anyone who stands on it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aldarlok|Aldarlok]]
 : the close of the age, which the field is for

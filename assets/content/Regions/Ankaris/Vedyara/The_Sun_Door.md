@@ -36,13 +36,13 @@ A crossing needs a pass-token from the customs-house. The token is cheap, the in
 
 The north-eastern branch has carried a Tantsou community down into Suryagarha for centuries—merchants, a way-station's worth of clerks, and every few decades an imperial envoy who arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both quote that fact rather more often than a fact requires quoting.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The frame in the ice.** The thaw has brought a pack-frame with a [[affiliation-mrchntclctvvdyr|Merchant Collective]] seal down out of the ice on the col, off the caravan that lost eleven people the season [[being-asvrshmbtn|Asvari Shambatan]] overruled a guide-mother. [[being-ubrn|Ubren]], who carried on that rope, asks the party to bring the frame down to [[place-suryagarha|Suryagarha]] before the Collective's factor reaches it, and to set what is on it beside the manifest the customs-house holds.
 - **The date on the token.** A caravan master's pass-token is dated for the last week of the season, which on this road is a year's wait if the weather comes early. He asks the party to get the date moved at the customs-house without his name on the request. The clerk who can move it has not named a price.
 - **Nine days without water.** The spring beside [[place-surtatempl|the Surta temple]] froze for [[lore-nineice|the Nine Days of Ice]] two winters ago, the caravans in the pass went without water, and the temple has entered nothing. A Suryagarha house that prices its winter crossings off that water asks the party to go up before the window and learn whether it has frozen again. The priests answer no Shikhalayan on the point.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-suryagarha|Suryagarha]] · [[place-suryashkhr|Suryashikhar]] · [[place-sthrnwall|the Southern Wall]]
 - [[affiliation-shikhalaya|Shikhalaya]] · [[affiliation-osketguides|the Osket]] · [[place-pssshrines|the Pass-Shrines]]

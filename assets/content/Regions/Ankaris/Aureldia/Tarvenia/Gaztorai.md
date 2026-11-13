@@ -8,7 +8,7 @@ tags: [mountain]
 data: {demonym: null, lore: [], parents: [eskarath], population: 0, packFolder: tarvenia}
 ---
 
-## Overview
+## Overview {#overview}
 
 Gaztorai, "the high meadow" in [[skill-eskarilng|Eskari]], is the mountain meadow in [[place-eskarath|Eskarath]] where the [[affiliation-biltzarrath|Biltzarrath]] meets at the summer solstice. It is the council's only seat. Nothing is built for the council there: it sits in the open, with no hall, no archive and no clerks.
 
@@ -20,7 +20,7 @@ The council of the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] holds
 
 The Biltzarrath has met in the high meadow for as long as the clans' custom reaches, and it keeps no written record of its sittings.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-biltzarrath|Biltzarrath]]
 : the council that sits here

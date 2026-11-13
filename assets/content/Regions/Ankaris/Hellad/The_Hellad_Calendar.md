@@ -122,7 +122,7 @@ The cities defend themselves. Helionis fights its first war among its own cities
 
 The present: Helionis a province on paper with its own magistrates, the [[affiliation-byzarianlg|League]] neutral and indispensable, unpaid forts in the interior, and the arrangement between the philosophers and the [[affiliation-ordoarcanis|Arcane Order]] that still holds ([[lore-heladconcordat|The Concordat of Theory]]).
 
-## See Also
+## See Also {#see-also}
 
 [[lore-commoncal|The Vilérian Calendar]]
 : the official count the ages are converted to

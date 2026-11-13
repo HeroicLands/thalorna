@@ -15,7 +15,7 @@ data:
   government: selatgadjuml
 ---
 
-## Overview
+## Overview {#overview}
 
 "The maps call it Green Waters," a fowler says as he poles a passenger between the reed-beds, "and for once the maps have it right. Most of the upper river is a ribbon of green with desert behind it. Here the water spreads out, and it stays."
 
@@ -27,7 +27,7 @@ The marsh gives the selat its two specialties. Flax grows on the wet ground and 
 
 Its patron is [[lore-thubaidty|Thuba'i]], the god of plenty, and a wet, abundant selat suits him.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-gadjumulu|Gadju-Mulu]] (~27,000)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-thubai|Faith of Thuba'i]] and its estates.
@@ -35,7 +35,7 @@ Its patron is [[lore-thubaidty|Thuba'i]], the god of plenty, and a wet, abundant
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgadjuml|The Selat of Gadju-Mulu]]
 : the selat that holds this land
@@ -45,3 +45,5 @@ The villages and estate-towns
 
 [[place-gadjumulu|Gadju-Mulu]]
 : selat capital
+
+[[place-drownstones|The Drowned Stones]]

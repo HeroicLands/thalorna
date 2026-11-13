@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Selat of Zu-Zalu-Legulu holds [[place-zuzalulegulunome|Zu-Zalu-Legulu]], "the **Southern Land of Rule**," the great southern march of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the selat where the empire ends and the tribal lands begin. Its soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony and slaves that come up the river-road from the deep south, and watches the southern tribes, whose loyalty runs from grudging vassalage to open war.
 
@@ -94,11 +94,11 @@ The warden-Halzi'a is the figure to build around. He is the empire's shield in t
 
 Gold, ivory, danger and hard soldiers are abundant. Grain, safety and any certainty about where the empire truly ends are scarce.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Zu-Zalu-Legulu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the southern frontier is one of the places where struck gold and silver circulate most: garrison pay, caravan tolls and the southern gold trade all run on weighed metal, alongside a brisk barter in southern goods. The [[affiliation-garhalzi|Gar-Hálzi]] agents who follow the army and the trade-road weigh and discount foreign and tribal valuables. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-borderselatu|The Border Selatu]]
 : Parent selat-class

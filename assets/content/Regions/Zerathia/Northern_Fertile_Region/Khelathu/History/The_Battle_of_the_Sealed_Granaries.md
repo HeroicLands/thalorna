@@ -75,14 +75,14 @@ One of the great granaries had been emptied to feed the guard. The dead of both 
 
 The god-king was taken within the month, and the host went down the river to the capital with the freed grain behind it. The next flood came full ([[lore-judgfalseuq|the Judgment of the False Uqa'a]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Eleventh Granary.** The sealed granary is a blood-field, the second in Khelathi memory ([[place-eleventhgran|the Eleventh Granary]]). The Halzi'a's house keeps it shut by order.
 - The [Bread for the Gate]{.name data-type="lore/custom"}. On each anniversary the selat throws bread over the granary wall, and the festival has its name from that.
 - **A kingmaker's house.** The Halzi'a of Anlagh-Zetun who holds the granaries holds the capital's bread, and the house of Anlaghet'Zaru is the case in point.
 - **A rule for the upper river.** When a dynasty weakens, the upper-river Halzi'a and the temple priesthoods decide who sits the throne, and the rising of 2378 ST is the case they cite.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-failfloods|The Failing Floods]] · [[lore-judgfalseuq|the Judgment of the False Uqa'a]]—the events on either side
 - [[lore-akhstruckhs|The Struck House]]—the age it belongs to

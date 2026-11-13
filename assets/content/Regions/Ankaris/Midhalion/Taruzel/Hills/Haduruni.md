@@ -76,7 +76,7 @@ The Haduruni's quarrel is with a charter they were never asked about. [[affiliat
 - **The stand above the line.** [[being-zttyblnn|Zattuya Balinuni]] asks a party to wait with her at the stone heap with silver, and to speak for her when the Keeper of the Boundary comes down.
 - **The unmarked trunk.** A trunk without the closed square has come down the Alz on the winter flood, and the Haduruni send to the timber camp it came from for twice its price.
 
-## See Also
+## See Also {#see-also}
 
 [[place-tulurel|Tulurel]]
 : the hill country

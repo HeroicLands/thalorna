@@ -17,7 +17,7 @@ data:
 # terran_analog: a Makah whaling village of the outer Washington coast, such as Ozette, with Kwakwaka'wakw houses and feasts
 ---
 
-## Overview
+## Overview {#overview}
 
 At the north end of the beach at Malkisis there is a stretch of sand, between two black rocks, where nobody draws up a canoe and children are told not to play. That is where the twenty died. Malkisis, Orca Beach, is the village of the Orca House, on a whaling beach of the [[place-yumisrgn|Outer Beaches]] where an orca walked out of the sea in the first days and took off its fin to become the first chief. About 2,400 [[affiliation-kelwanuk|Kelwanuk]] live here, in eleven plank houses facing the surf, and it is the second village of the coast after [[place-tsilkasis|Tsilkasis]].
 
@@ -45,7 +45,7 @@ Kwemulkita frees slaves because Kalunukwas told him to, privately, five winters 
 
 The houses face the surf behind a bank of driftwood logs that breaks the winter waves. Behind them, in the edge of the forest, stand the grave houses of the Orca House's dead and a mortuary pole carved with an orca, on which the first Kwemulkita lies in his box. On the headland to the south is the refuge, walled with logs. The winter dance house stands apart from the others at the forest edge, and in the dark months the Keeper of the Masks of Malkisis, [[being-gunistalwa|Gunistalwa]], a commoner, rules it; the [[lore-nakpulalas|Meeting]], the faith of the coast, tells of the boy he brought back last winter.
 
-## See Also
+## See Also {#see-also}
 
 [[place-yumisrgn|Outer Beaches]]
 : the whaling coast of the south

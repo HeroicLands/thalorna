@@ -47,7 +47,7 @@ The carters who take the salt to Valthari keep an inn at the dune road's end, pl
 - **The night ship.** The crown of Galvaren's buyers offer a party a share of the fines if it can name the ship that sells salt outside Durvolka's bay, and the Reeve offers the same party more to bring the name to him first.
 - **The channel.** The spring storms have filled the channel through the dunes early, and the houses want it dug out before the salt ships are due, at a cost each wants another house to pay.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-frctyvlthr|Free City of Valthari]]
 : the city-state that holds the town

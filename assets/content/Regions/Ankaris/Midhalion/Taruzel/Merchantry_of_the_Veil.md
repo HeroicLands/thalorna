@@ -81,7 +81,7 @@ Since the winter, crates of crossbows, boarding pikes and Vilérian silver have 
 - **The mage's lease.** [[being-trmnqzkn|Tirmana Qizikuni]] wants the lease of the Thordimalon mage's house in Besikar broken by its owner, and the Merchantry broker who arranged it wants to know who is asking.
 - **The ring.** A party that has done the Merchantry a favor is given a sigil ring and a phrase, and the first person who answers the phrase asks it to carry a sealed letter to [[being-brshrskn|Abarash Rusakuni]]'s loft.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the parent polity

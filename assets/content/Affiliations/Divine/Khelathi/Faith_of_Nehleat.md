@@ -78,7 +78,7 @@ The most sacred night in the Khelathi calendar is the Festival of Deep Sleep, he
 
 Every home keeps a small shrine to Nehle'at, often a carved crescent moon or an amulet near the sleeping quarters. Before bed the family offers small tokens: a cup of milk or water, a pinch of incense, a whispered prayer. Parents teach children to ask his protection before closing their eyes, and elders pass on that a bad dream, once the All-Seeing Eye has marked it as one, becomes a lesson instead of a curse. That household habit probably makes him the most frequently invoked god in daily Khelathi life, more than the great gods in their stone temples.
 
-## Organization
+## Organization {#organization}
 
 His priesthood is small and specialized beside the clergy of the [[affiliation-wethur|Faith of Weth'ur]] or the [[affiliation-qearet|Faith of Qe'aret]]. All priests answer ultimately to the Gar-Au as high priest of all the gods, and the Thaz'Lekhau (High Priest) of Nehle'at oversees a smaller body than theirs. The smallness follows from the god's nature as the faith understands it: he is met alone, in the privacy of sleep, so his priests work less as administrators of grand temple complexes and more as guides and interpreters, in shrines and nightlong vigils.
 

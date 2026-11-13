@@ -81,7 +81,7 @@ Two festivals mark the year. The [Festival of the Radiant Dawn]{.name data-type=
 
 Four ordeals are held to win Bjart's particular favor, and each tests a different part of a seer. In the [Dreamwalk]{.name data-type="lore/custom"} the faithful travel through the spirit realm, facing their fears and desires until they emerge enlightened. The [Elder's Blessing]{.name data-type="lore/custom"} is a pilgrimage to the ancient groves or halls of the elder races, seeking their wisdom and Bjart's favor. The [Luminous Quest]{.name data-type="lore/custom"} sends the faithful to retrieve a lost artifact of light from a dark and dangerous place. In the [Rite of Pure Vision]{.name data-type="lore/custom"} a participant endures a period of sensory deprivation and comes out, if the rite works, with true vision and clarity.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-bjarthond|Bjarthond]]
 : the Order of the Radiant Hand, priests who heal and spread Bjart's light

@@ -71,7 +71,7 @@ The story told at the fire in [[lore-stonetongue|The Stone Tongue]] begins from 
 
 > You know the Old Hetos. No, you don't. None of us do, unless we are Ngonzi, and the Ngonzi don't let anyone in. Not a Ruwozi, not a Sengala, not a Lobwezi with every clan's fathers in his mouth. Each Heto has its guardian, and the guardian says no.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-eaglengonzispr|Eagle Spirit]]
 : the guide as a being, apart from the practices of its cult

@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Selat-Leteru is the quietest of [[affiliation-deltaselatu|the Delta Selatu]]: few people, many shrines. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a pilgrimage selat of shrine-islands and marsh-temples with few people. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-uzneradty|Uzn'era]], and the selat's religious life runs through her temples and their estates. The land it holds is [[place-selatleterunome|Selat-Leteru]].
 
@@ -65,11 +65,11 @@ The selat holds about 150,000 people, the smallest population of the ten, and mo
 
 The seat is [[place-yathleteru|Yath-Leteru]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-uznera|Uzn'era]] stands. Uzn'era is the goddess of fertility, renewal and healing, and a pilgrim comes to her marsh-temples for one of the three.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Selat-Leteru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and a pilgrim who pays a boatman in copper pays in a piece the chapter has attested. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Parent selat-class

@@ -15,7 +15,7 @@ data:
   government: selatgaulegr
 ---
 
-## Overview
+## Overview {#overview}
 
 You smell Gau before you see it: crushed olive and warm citrus peel carried inland on the sea breeze. The town is the capital of [[affiliation-selatgaulegr|the delta's Selat of Gau-Legiru]] in the delta, old and prosperous, about 45,000 strong, and set back a little from the [[place-vylarianse|Vilérian Sea]] among the orchards and vineyards.
 
@@ -30,7 +30,7 @@ The market is the other half of the town. Its great produce-markets buy the gard
 - The press-houses and warehouses of the luxury-crop trade
 - The seat of the Halzi'a among the merchant-villa gentry
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-selatgaulegr|The Selat of Gau-Legiru]]
 : Parent selat

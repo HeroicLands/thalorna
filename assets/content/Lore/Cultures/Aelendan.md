@@ -192,7 +192,7 @@ The Áelendan's blind spot is the conservatism that defines them. A people that 
 
 The sin is the Black Snow, and the Áelendan tell it as the people's and not the chief's. In a killing winter Ghalmir said the silver birch should be cut, the people let him, and nobody spoke against it. The watch came off the fog-hollow for one spring because hands were needed to haul and split, and the people thought so too. The right song was held whole by a Tradition Keeper, and nobody asked her. The Áelendan say that the thing in the fog came in not through the fog but through a door the people left open themselves, and the shape of every telling after it is failure, return and asking.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-aelendnppl|Áelendan People]]
 : the people, their institutions and where they live

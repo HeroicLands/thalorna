@@ -30,7 +30,7 @@ The rule against rebuilding the old court is the crown's argument for itself in 
 
 The temples make a different claim, and make it at an accession: the rites are performed in the old court, by the **Purohata** with the [[affiliation-vrnkpnthn|Varnuka ushtakas]], and the man is not king until they are done. The building the crown uses to say it does not change is also the room in which the priesthood says the crown is theirs to give.
 
-## See Also
+## See Also {#see-also}
 
 [[place-chendrapur2|Chendrapur]]
 : the city

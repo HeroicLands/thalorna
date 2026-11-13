@@ -40,7 +40,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 Lem'Reth'Sa'ar is the sworn priesthood of [[lore-rethsaardty|Reth'Sa'ar]], god of knowledge and of the written hand, drawn from scribes who pass beyond the guild halls into his direct service. Its priests keep the god's archives and set the disciplines of the written hand that every scribal text is measured against. A document this order refuses to recognize carries no standing anywhere a court or a temple will accept it.
 
@@ -66,7 +66,7 @@ The order deals in recognition, and a single refusal from it can cost more than 
 
 The order takes no coin for a ruling. It accepts the god's offerings, the fine papyrus, the rare inks made from precious minerals, and the carefully copied texts that scholars of means commission and give to the temple. A text it accepts can be presented anywhere in the empire; a text it refuses cannot.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-rethsaardty|Reth'Sa'ar]]
 : The god the order serves

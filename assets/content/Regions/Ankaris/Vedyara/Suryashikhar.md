@@ -24,7 +24,7 @@ The [[place-chandrprbh|Chandraprabhava]] rises under the peak's southern glacier
 
 [[place-suryadvar|Suryadvar]] runs up the mountain's western flank. Every caravan that crosses by the greatest of the passes spends four days in sight of the summit and, by long custom, does not speak on those days after dark.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-sthrnwall|The Southern Wall]] · [[place-chandrprbh|Chandraprabhava]] · [[place-himashila|Himashila]]
 - [[place-suryadvar|Suryadvar]] · [[affiliation-triyangasampradeya|Triyanga-sampradeya]]

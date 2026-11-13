@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [aulpnpstmm], population: 0, packFolder
 
 A senior scholar of the Ombalon, asked by a young reader of the Epistémion how to get into the Notral Sevan, gives him the answer every reader gets: "Write to the throne. Say what you want to read and why. If the throne says yes, a keeper will take you down, stand beside you while you read, and take you up again. If the throne says nothing, that is the answer. Most readers in this city have died waiting for one."
 
-## Overview
+## Overview {#overview}
 
 The Notral Sevan is the warded library of [[affiliation-panepistmm|The Academy]], the Epistémion, kept beneath the [[place-aulpnpstmm|Court of the Academy]], the Ombalon, in [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara City]]. It holds the rarest knowledge the Epistémion possesses: singular manuscripts that exist nowhere else, the captured archives of conquered peoples, and arcane artifacts too valuable or too dangerous to leave in open hands. It is not a library one visits. Entry is by the throne's leave alone, behind the wards of [[affiliation-ordoarcanis|the Thordimalon]] that guard the imperial precincts, and what is kept inside is known in full to very few.
 
@@ -41,7 +41,7 @@ The Thordimalon wants the library kept closed. The Order's wards guard it, and t
 - **The leave.** A house has the throne's leave for one afternoon, and it needs a reader who can find what it wants in that time and remember it after the keeper counts the leaves.
 - **The copy.** A scholar of the Ombalon has made a copy of an accession record at the throne's order, and a second copy of it has been offered for sale on Mernel.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aulpnpstmm|Court of the Academy]]
 : the Ombalon, the Epistémion's inner seat above the library

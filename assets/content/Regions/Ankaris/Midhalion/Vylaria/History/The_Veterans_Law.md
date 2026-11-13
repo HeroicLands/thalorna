@@ -66,14 +66,14 @@ The statute bound three things to the status together. The dole, a pension in co
 
 Recruits in numbers the Republic's levy never gave. A legion filled by men who wanted the status asked for no bounty, and a throne that could count on a standing army did not need the Senate's vote to raise one. The statute also settled the discharged veteran in the capital or near it, where thirty-five-year-old men trained to arms and owed the throne their living were a heavier counterweight to the Senate than any guard.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **An old soldiers' city.** The capital's citizen body is a veterans' class at its core, and the dole is the thing every Orzas fears to miss.
 - **A charge the treasury can neither afford nor cut.** The dole began as the reward for the first generation of veterans and is now the largest standing charge on the [[affiliation-vylarinmpr|Empire]]. Each pension is modest, but the pensioners are many. The charge was no burden while conquest paid for it, and now that the Empire is receding there is no way to claw it back.
 - **The waiver and its clerks.** A resident needs a registered waiver to sleep inside the thrima, and the clerks who register them sell them.
 - **The nobility's exemption.** The only citizens by birth, which is part of what makes them the nobility.
 
-## See Also
+## See Also {#see-also}
 
 [[doc-vylrnctznshp|Vilérian Citizenship]]
 : what the status carries and how it is earned

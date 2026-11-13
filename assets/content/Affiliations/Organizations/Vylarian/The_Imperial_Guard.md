@@ -125,7 +125,7 @@ At the officers' supper in the cookshop below the camp, two watches hold to Kolv
 - **The Wrong Gate.** On a night of crisis, the question of which way the gates of the Guard Camp open will decide a succession. A handful of watch-captains hold the answer, and rival claimants and their agents are courting, threatening and bribing each of them.
 - **The Guard's Reach.** A senior guard officer has begun extending the guard's keeping of order within the Inner City into matters that properly belong to the imperial tribunals: arrests, detentions, quiet disappearances, all under color of protecting the throne. The civic courts and the affected great houses are alarmed. The Orzas finds the overreach useful and is in no hurry to curb it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thaurzurgalis|Thaurzurgalis]]
 : the guard's fortress on the palace hill

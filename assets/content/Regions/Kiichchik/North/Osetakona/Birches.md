@@ -17,7 +17,7 @@ data:
 # terran_analog: a late Iroquoian-style village set at the prairie-forest edge of Wisconsin and Minnesota, where Ojibwe and Dakota met to trade and fight
 ---
 
-## Overview
+## Overview {#overview}
 
 From the palisade of Birches a watcher can see the forest end. To the east and north the birch and maple stand thick, and to the west and south they thin into oak openings and then stop, and beyond them the grass runs on to the sky. The village stands on a low ridge at that line, about 1,000 people of the Birch People behind a double palisade, at the western edge of the [[place-kahnionrgn|Western Lakes]]. Its name (_kaniestraten_) means the place of birches, for the white trees around it, whose bark the village peels for the best canoes in the Grove. It is also the village of [[being-skahniotiaro|Skahniotiaro]], the speaker the western villages name when they say what a man should be.
 
@@ -41,7 +41,7 @@ The Grass People raid Birches in some springs, when a band's young men want war 
 
 The village argues about Skahniotiaro, in the way the Grove argues about adopted men. The last raid, two springs ago, came from his birth band, and two of the village's young men died. He carried the pipe to the band that summer and brought home a truce and two of their sons as hostages, raised in the village as Elk kin. Half the village calls it the best answer anyone could have given. The other half asks why the raid came from his band, and why the truce was so easy to get. Kaniestrakerens has heard both, and has not taken his copper.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kahnionrgn|Western Lakes]]
 : the lakes and the forest's edge

@@ -17,7 +17,7 @@ data:
 
 The dunes of the [[place-hskrrgn|Ghoshiqor]] have scoured open again the street of [[place-wilud|Vulud]] that [Uruvolun]{.name data-type="being/npc"} sold twice four years ago, and at its end the counting-house tower of the league of [[lore-towercities|the Tower Cities]] whose door the [[lore-tantsouclt|Tantsou]] collector's men forced then, the first to enter it in some nine hundred years. [[affiliation-rwlstrb|An Uruvol guide]] brings the party to it a day behind a rival crew. A sandstorm drives the party inside, where it finds the rival crew's work half done, one of them crushed flat with nothing on top of him, and a stone watchman at the foot of the stair that is never quite where the party left it. The watchman is not hunting the party. It keeps the house's goods, and it comes for whatever the party carries.
 
-## Overview
+## Overview {#overview}
 
 The adventure runs over one storm, from noon to the next dawn. Its clock is the sand: from the moment the storm breaks, sand pours through the doorways and windows of the ground floor, the shaded entrance fills by nightfall, and the lower passages fill after it, until the only ways out are the service door, which the watchman is blocking, and the roof, which is in the storm.
 
@@ -34,7 +34,7 @@ Vulud was abandoned, not massacred, and nothing in [[place-bolidqiso|Bolidqiiso]
 | the hall floor is weak and the counterweights can fall                 | the engineer's diagram (Scene Two); the cracked floor and the chains (Scene Four); Uruvolun (Scene Three)       |
 | it does not cross a threshold out of the house                         | Uruvolun's league-lore (Scene One); its halt at the lamp-stair (Scene Three); the panel of the closed door      |
 
-## What Is Really Happening
+## What Is Really Happening {#what-is-really-happening}
 
 The full truth of the house—what the watchman keeps, what a seal covers, the order in which it closes the house, and who of the rival crew lies where—is in [[place-bolidqiso#truth|the truth of Bolidqiiso]]. In short: the watchman hunts the house's goods and whoever carries them unsealed. It weighs a thief against his theft in the great balance, and once the house is closed it files anyone left empty-handed and unsealed in a niche as stock. Every bronze weight the party pockets on the way up marks the one who carries it. This section covers what that does at the table.
 
@@ -82,7 +82,7 @@ Once the reveal lands, the treasure is the danger, and the greed that brought th
 > [!TIP]
 > Setting a load down is not a free escape. An unsealed party member with nothing in his hands is stock once the thieves are dealt with, and the watchman files him. Filing is slow and survivable, as Kesukenod shows, so it makes a tense middle course rather than a death.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The thief.** A Tantsou collector paid Uruvolun for the news of the street and is a day behind. Four years ago his men were the first into this house and came home with seals and weights, and he has paid the party to go ahead of him and bring out the seals before anyone else does. He tells the party his men worked a whole day in the house and the stone figure never moved.
 - **The mercenary or common soldier.** A [[lore-byzarianclt|Bizarian]] factor bought the same news, and his own crew went in ahead. Four years ago he paid for this street and reached it a day too late, and this time he sent his crew the hour he paid. He hires the party to follow, find out why his crew has not come back, and bring out what they found.
@@ -92,7 +92,7 @@ Once the reveal lands, the treasure is the danger, and the greed that brought th
 > [!NOTE]
 > Uruvolun tells the tale of this street at the fire at Qiiso, in [[lore-roadnights|The Nights of the Road]]: the street sold twice, the counting-house door at its end, the Tantsou's men carrying out seals and weights. A party that has heard the tale knows the house was opened four years ago and that nobody died of it.
 
-## The Opening
+## The Opening {#opening}
 
 Read or paraphrase:
 
@@ -289,7 +289,7 @@ The man in the pan is Kesukenod's partner. His chest carries the same palm marks
 
 **If bypassed, failed or cut short.** A party that never reached the strongroom still reaches the court by the roof, and can come back for the treasure after the storm, when the watchman, if it still walks, has gone back to its doorway and stands with its hands out and its head turned toward the street. A party trapped inside at dawn finds the storm over and the light through the roof-slits strong enough to see the lamp-stair door, which Uruvolun has been holding open.
 
-## Aftermath
+## Aftermath {#aftermath}
 
 - **If the watchman is stopped.** The house is open. Buyers send crews; Uruvolun sells the street to each.
 - **If it is buried or hauled up.** It is still bound and still the house's, and it works its way free within a season.
@@ -299,7 +299,7 @@ The man in the pan is Kesukenod's partner. His chest carries the same palm marks
 - **If the party left the rival crew to the watchman.** The rival factor learns of it from Uruvolun, who sells that too.
 - **If the Tantsou collector hears why his men came home whole.** He knows his caskets were sealed and never thought it mattered, and he wants the party for his next street.
 
-## See Also
+## See Also {#see-also}
 
 [[place-bolidqiso|Bolidqiiso]]
 : the counting-house tower

@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Genzet'Halzi'a** is where the provinces of [[affiliation-empireakhlth|Au'Khelathu]] bargain. The Halzi'a of the selats meet in session, each speaking for his own province, and settle taxation and levies with the imperial center and water, roads and boundary disputes with one another, the last being matters the center would rather not adjudicate. A governor who arrives at session without allies already secured generally leaves having traded away more than one who came prepared.
 
@@ -54,7 +54,7 @@ Two bargains run at once. Taxation and levies are bargained between the province
 
 A governor who arrives with allies already secured leaves with what he came for. One who arrives alone has to pay for each vote in something he wanted to keep.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : The region it belongs to

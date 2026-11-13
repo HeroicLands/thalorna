@@ -68,7 +68,7 @@ To the **south**, Jenchai trading ships reach Vedyara and sometimes Zerathian po
 
 To the **north**, the archipelago's outer islands trail off into frozen seas the Jenchai rarely cross. What lies beyond is mostly legend.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai]]
 : the empire of Jenchai, its politics, and its culture
@@ -84,3 +84,17 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
+
+[[place-hojai|Fire Peak]]
+
+[[place-tsuijai|Iron Peak]]
+
+[[place-yujai|Moon Peak]]
+
+[[place-rinjai|Red Peak]]
+
+[[place-zenjai|Snow Peak]]
+
+[[place-rojai|Thunder Peak]]
+
+[[place-wejai|Wind Peak]]

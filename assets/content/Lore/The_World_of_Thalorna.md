@@ -113,3 +113,8 @@ ORDER BY name.full COLLATE NOCASE
 
 - [[doc-lnggsthlrn|Languages of Thalorna]]
 - [[lore-pnthnrgnlmp|Pantheon Regional Map]]
+- [[place-ankrscntnnt|Ankaris Continent]]
+- [[place-arnscntnnt|Aurionis Continent]]
+- [[place-isrncntnnt|Iseron Continent]]
+- [[place-klhrcntnnt|Kalihara Continent]]
+- [[place-xerathia|Zerathia]]

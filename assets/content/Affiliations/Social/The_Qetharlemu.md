@@ -44,7 +44,7 @@ The Qethar'lemu are priests of the stricter observances across [[place-aukhelath
 
 A scholar who wants a reinterpretation heard should expect the objection and prepare for it: bring the oldest text that supports the reading, and have it read in the form the Qethar'lemu would call original.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the region it belongs to

@@ -15,7 +15,7 @@ data:
   packFolder: shuqash
 ---
 
-## Overview
+## Overview {#overview}
 
 Where the Bead Coast turns north, a high headland of dark rock runs out into the open ocean, and the wind never stops. On the sheltered side of it, above a small cove, stands Hipal Halaq, the Crossing Shore, a town of about 600 people. Every one of the [[affiliation-shuqash|Shuqash]], the Shell-Bead People, expects to pass through it once, three days after death, on the way to the Far Island.
 
@@ -33,7 +33,7 @@ Hipal Halaq is a fishing town that lives on the dead. Its chief, [[being-tiyuple
 The strands thrown from the ledge land on a rock shelf that the lowest tides of the year uncover. Every winter the town's divers bring up what the surf has not scattered, and the chief and the astronomer-priests of the house divide it. Tiyuplesh holds that the strands have already paid for the crossing by the time they reach the shelf, and that what the sea leaves is the town's. The Sky Elder knows of the practice and has not stopped it. The dives are made at night, and the secret is the town's most valuable possession: the Feast of Strands, and the priests' fees for it, depend on every family believing that its strands went across with its dead.
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-shuqash|Shuqash]]
 : the Shell-Bead People and their towns

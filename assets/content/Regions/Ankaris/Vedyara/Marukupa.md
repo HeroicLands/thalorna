@@ -26,7 +26,7 @@ The wells are the crown's and the water is sold, which is the practice of the ma
 
 Salt and dried fish come up from the coast, grain and cotton from the plain, and all of it stops here to be watered and loaded for the crossing. Horses, hides and wool come the other way and go on to [[place-ashvapada|Ashvapada]].
 
-## See Also
+## See Also {#see-also}
 
 - [[place-svapnastambha|Svapnastambha]]—the Sameja's tower above the wells
 - [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-sandyapur|Sandyapur]]

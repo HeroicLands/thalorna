@@ -83,7 +83,7 @@ The Admiral keeps a house on the harbor at Válaren, and her captains hire pilot
 - **Ships nobody owns.** The Admiral wants to know whose the hulls standing off Válaren are before the merchant houses start hoarding grain.
 - **A captain's loan.** Jalteza wants a Válaren house to fit out two ships at its own cost for a share of the prizes, and she needs someone the Treasurer does not know to carry the offer.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : the realm whose coasts the ships keep

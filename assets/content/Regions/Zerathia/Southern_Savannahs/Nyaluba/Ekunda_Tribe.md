@@ -65,7 +65,7 @@ The Ékunda are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal N
 
 The Ékunda are not one of the five clan-nations, and they have made a living of standing between them. They follow the common Nyáluban customs of lineage, elders and leadership by descent and consent, and the village of four hundred is run by its elders more than by its chief. The Ékunda send a delegate to the [Great Lubemo]{.name data-type="affiliation/governmental"}, who may speak for the tribe and may bind it only with the elders' agreement, and the clans listen, because every one of them waters its cattle at Ékunda in a bad year.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation the tribe belongs to

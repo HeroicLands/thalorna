@@ -99,7 +99,7 @@ From Dalenar on, each king of the house strengthened the crown inside the Charte
 - **The nearest blood.** A Peer of the Atavel party wants a party to find out, quietly, which princes of the blood stand nearest the crown, and who among them is in debt to whom.
 - **The writ.** [[being-itrolaldrvn|The Princess of Gefavel]] needs a sight of Vélarik III's writ of resumption, which the Chancellor keeps at Jalnasdal, before her petition is heard.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : the realm the house reigns over

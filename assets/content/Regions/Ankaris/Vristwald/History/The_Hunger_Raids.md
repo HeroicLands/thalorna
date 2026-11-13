@@ -108,14 +108,14 @@ In the spring of 520 Skathrik took the eagle south again, at the head of the lar
 
 No Shaman went south with the host, because no Shaman goes raiding, and nobody called any of its dead home to their totems. The Varokh hold that they are still in the marsh, a dozen villages' sons who cannot find their way north, and that the dread on that ground is theirs: the thing a man feels there is what a war-band feels when the ground gives way under it and there is nowhere to go. Gargrund has never sent its Shaman to call them, because the marsh is in Moktur and a Varokh Shaman at the edge of it would be taken for a raider and killed. The village keeps an empty place at [Weskskald]{.name data-type="lore/gathering"} for each of its dead, and recites their names every year with nothing after them.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The smoke-counting.** Every tower on the Moktur frontier counts the forest's columns at dusk, and the Black Marsh is the most famous night the count was right.
 - **[[place-dolvar|Dolvar]].** A legion fortress-town of six thousand built to stop the Grain Summers, and still manned against the raids that followed.
 - **Gargrund's empty places.** A village in Vandstein that recites forty names at Weskskald with no rite after them, and asks every party bound south whether they will carry a Shaman.
 - **The decline.** The Empire's own account of its losses names barbarian pressure from Vristwald, and this is what it means.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-threewinters|The Three Winters]]
 : the famine the raids answered

@@ -64,7 +64,7 @@ The **Finder of Names** establishes the true name of a thing. The work is slow a
 
 [[lore-rethzethu|Reth'zethu]] is named for the soul-component the funerary rites inscribe on every available surface, and with [[lore-qeltnu|Qelt'nu]] it makes the pair on which the whole tradition turns.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-rethzethu|Reth'zethu]]
 : the domain

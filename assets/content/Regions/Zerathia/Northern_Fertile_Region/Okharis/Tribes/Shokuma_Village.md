@@ -14,7 +14,7 @@ data:
   government: shokumatrb
 ---
 
-## Overview
+## Overview {#overview}
 
 Shókuma Village is the seat of the [[affiliation-shokumatrb|Shókuma tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of

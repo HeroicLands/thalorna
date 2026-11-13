@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 **The Selat of Belgen-Zalu** is the last province of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] before the tribal frontier, and the empire's writ reaches only as far as its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] can send a patrol and bring it home. He holds the deepest fort on the southern march, commands its levies, collects its taxes and hears its cases, and he answers to the [[lore-garauu|Gar-Au]] at a distance that is greater here than anywhere in the empire, and greater still when the throne is weak. His patron is the war-god [[lore-qeztudty|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-belgenzalunome|Belgen-Zalu]].
 
@@ -63,11 +63,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 A Halzi'a in the valley governs through clerks and leaves his troops in their barracks. The Halzi'a of Belgen-Zalu has the clerks as well, a steward for the revenue, the granaries and the labor levy and a warden for the canals, but his authority rests on the soldiers he can put in the field, because nothing lies south of him except the tribal lands. Under a strong throne he reports to the capital, and under a weak one he decides. His seat is [[place-belgen|Belgen]], where his court sits and the selat's chief temple of [[affiliation-qeztu|Qeztu]] stands.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Belgen-Zalu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts, which are the figures that tell the Halzi'a how long his forts can hold. See the currency note for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-borderselatu|The Border Selatu]]
 : Parent selat-class

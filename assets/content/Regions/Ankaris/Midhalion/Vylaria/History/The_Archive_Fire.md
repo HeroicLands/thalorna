@@ -58,14 +58,14 @@ The cause was never established, and the question was never put in public. A hou
 
 The Imperial Scribal Guild had been chartered in the first century of the [[affiliation-vylarinmpr|Empire]] to write the Empire's documents. After the fire the Empire gave it the custody of what was written next. The archive the Guild keeps in [[place-orzara|Orzara]] begins in 318, and every original in it was written after the fire. The Guild keeps provincial archives at each chapterhouse as well, and many of the copies by which the Republic is now read were made from those. The Guild's charter is renewed by imperial edict in the eighty-third year of the present dynasty, about 489 AF.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The four-century horizon.** The Guild's central archive holds the original of every edict issued in the last four centuries, and the history before 318 is read from copies.
 - **The Senate's losses.** The rolls of the Republic are known by series, and a scholar working on a decade of the Republic finds that the series for it is lost, or survives in a copy nobody can check.
 - **The gap.** Every scholar of the Republic meets it, and the Guild's index lists the missing years and does not say what each held.
 - **The Guild's sense of its own fragility.** The documentary apparatus is older and more fragile than its sponsors understand, and the Guild's senior leaders are the ones who say so.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-imprlscrblgld|Imperial Scribal Guild]]
 : the guild that keeps the archive that began that year

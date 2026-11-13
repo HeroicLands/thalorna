@@ -67,13 +67,13 @@ The South Marches have no river, and a column cannot cross them on what it bring
 
 The venture was the sun-house's and it ended with the sun-house. When the house closed in 1822 ST (289 BF) and the court went back to [[place-galezkara|Galezkara]], the new house had no use for a distant claim that cost a garrison a year in wells and grain. The tribute stopped, the garrisons were called in, and the forts were left standing across a country nobody in the valley wanted to hold. The generation the venture lasted is the longest the Khelathi record admits.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The forts.** Broken mud-brick, standing cisterns and a chain of dry-country wells that the free companies of the Marches use as lairs ([[place-khuqetzalu|Khuqet-Zalu]]).
 - **A wariness.** The Okharik temple-cities treat a Khelathi embassy as a thing that wants something, and have done so since.
 - **An unclaimed treasury.** Somewhere along the chain, the tribute of one generation that nobody came east to collect.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-sunhouse|The Sun-House at Magu-Thelqen]]—the house that sent the army
 - [[place-khuqetzalu|Khuqet-Zalu]]—the forts as they stand

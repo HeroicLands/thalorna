@@ -59,7 +59,7 @@ The Vilérian Republic planted the colony on the great road about 110 BF ([[lore
 
 In [[lore-charterwar|the War of the Charter]] the _therkos_'s legion held the great road and Aurelane, and the city was the last place in the west where the Empire's writ ran. The peace kept its courts and its academies and gave the crown to the coast. Aurelane accepted the first and has never accepted the second, and it has kept the law of the kingdom since as a consolation it takes very seriously.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-vylarinmpr|Vilérian Empire]] · [[place-jalnazdal|Jalnasdal]]
 - [[affiliation-acadrhetrc|Academy of Philosophy and Rhetoric]] · [[affiliation-acadlaw|Academy of Law]] · [[affiliation-acadmedcn|Academy of Medicine and Manuscripts]]

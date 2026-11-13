@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [vethwald], population: 0, packFolder: 
 
 Both tellings claim it. A flood once opened its side and showed grave goods of two kinds lying together, and the Shaman who saw it had the side closed again before anyone could say which kind lay deeper. [[lore-takingwood|The Taking of the Wood]] gives the two tellings.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vethwald|Vethwald]]
 : the Deepwood the mound stands in

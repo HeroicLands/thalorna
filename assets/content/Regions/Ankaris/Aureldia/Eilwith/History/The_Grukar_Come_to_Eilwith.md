@@ -66,14 +66,14 @@ The tribal peoples took the weight of it and took it for good. A society that fi
 
 The [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]] kill Grukar without exception and without the patience they extend to anything else on the island, and the landing gave that rule a new field. The Grukar of Eilwìth had no part in [[lore-khazarturn|Khazartúrn]], and the hatred does not ask. It is older than the landing by twenty-four centuries.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The forest peoples' war.** A war without campaigns or treaties, fought in every generation by everyone who lives in the interior.
 - **The Wiindmarch's losses.** A standing line in the steadings' accounts.
 - **Vorgald's rule.** Kill on sight, wherever found.
 - **Aldorath's campaigns.** Perhaps a dozen, each declared a success, none visibly a difference.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-grukaraelwyth|The Grukar of Eilwìth]]—where they live and how the island lives beside them
 - [[lore-grukarapp|The Appearing of the Grukar]]—their first record, at Khazartúrn

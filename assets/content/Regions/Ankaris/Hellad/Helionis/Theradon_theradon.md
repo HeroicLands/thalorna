@@ -80,7 +80,7 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 Theradon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the [Theradik Gulf]{.name data-type="place/feature"}, known for its philosophers, physicians and natural historians and for an [[affiliation-panepistmm|Epistémion]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Theradon]]. Theradon fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in 330 BF, the first city of the war to fall, and lost its mage-warlord and his workshop in the same season. The chapterhouse does not teach that year.
 
@@ -102,11 +102,11 @@ Scholars from across the realms come to study with Theradon's philosophers, phys
 
 The temples of the [[affiliation-arldnpnthn|Aureldian pantheon]] keep high standards of ritual propriety, but the academy is the center of spiritual life, because the pursuit of wisdom is treated here as a sacred duty. Markets are orderly and regulated, and art and architecture are built to elevate the soul and sharpen the intellect. Theradon is sublime and stifling in the same afternoon: beauty and insight beside a narrow certainty about what counts as truth and a proper life.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Theradon uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-ctysttshlns|City-States of Helionis]]—the seven cities and how they are governed
 - [[place-helionis|Helionis]]—the region

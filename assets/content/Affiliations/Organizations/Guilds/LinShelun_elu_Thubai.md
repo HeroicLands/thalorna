@@ -34,7 +34,7 @@ data:
   packFolder: regkhaff
 ---
 
-## Overview
+## Overview {#overview}
 
 **Lin'Shelun elu Thuba'i** is the collective of performers and artists who work under the patronage of [[affiliation-thubai|Thuba'i]]. The god's temple funds their work and takes a share of whatever acclaim it earns. Musicians, actors and visual artists enter by invitation, and membership is a mark of standing among the capital's players.
 
@@ -54,7 +54,7 @@ The collective has one patron, [[affiliation-lutthubai|Lut-Thuba'i]], which fund
 
 The temple pays for the work in exchange for a share of the acclaim. Say a painter is commissioned to decorate a feast-hall for the flood festival. The temple supplies the pigments, the wall and the wage, and the painter supplies the picture. When the hall fills and the city talks, the credit is divided: the painter's name is spoken, and so is the temple's, and the next commission follows from both.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-thubaidty|Thuba'i]]
 : The god whose patronage the collective works under

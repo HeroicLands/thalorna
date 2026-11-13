@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Council of the Island governs [[affiliation-kalihara|Kalihara]] and decides, above everything else, what outsiders may be told. It sits at [[place-ilovanu|Ilovanu]], the one place on the island where the world is allowed to touch it, so that a Kaliharan of the interior who wants the Council's word travels to the coast for it. Two kinds of member hold its seats: the Elders of the lineages, who sit for the land they hold, and the custodians of the [[affiliation-tharivaan|Ithakan]], who sit for the works in their charge. A Councilor of the ports sits beside them, because the four ports stand under a structure of their own and have business the Elders cannot speak to. The Speaker for the Island presides.
 
@@ -75,7 +75,7 @@ What the Council tells outsiders is settled in the same room. A harbor-warden at
 
 The Ithakan sit in the Council and keep its works; [[affiliation-wardensapproaches|the Wardens of the Approaches]] answer to its councils and carry its decisions to the sea-lanes and the quays. [[affiliation-housefactors|The House of Factors]] runs the port's trade under its leave and sends its views through the Councilor of the ports; the Council and the House want different things from the approaches, and the quay's trade goes on regardless. A few Elders and custodians belong to [[affiliation-silharicircle|the Sílhari circle]], which argues in the Council's corridors and has no seat of its own. The Council does not name [[affiliation-keepershouse|the Keeper's House]] among its bodies.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kalihara|Kalihara]]
 : the polity, its standings and its offices

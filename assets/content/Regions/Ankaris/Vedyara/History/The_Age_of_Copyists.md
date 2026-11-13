@@ -31,7 +31,7 @@ Bharyastan
 
 About 150 AF the eleventh Vyalendri king's line ended, and the [Loom-Council]{.name data-type="affiliation/governmental"} sat down in his audience hall ([[lore-vylndrkngs|the End of the Vyalendri Kingship]]). [[lore-hundredcrwn|The Hundred Crowns]] follow.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-agekingdoms|The Age of Kingdoms]] · [[lore-hundredcrwn|the Hundred Crowns]]
 : the ages on either side

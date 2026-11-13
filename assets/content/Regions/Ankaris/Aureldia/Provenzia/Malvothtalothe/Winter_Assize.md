@@ -40,7 +40,7 @@ data:
 sohl: {system: {commonSkills: [provnzlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Winter Assize is the court of [[place-talothe|the Talote]], the eastern march of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], and it sits at [[place-durvalis|Durvalis]] from the closing of the passes to the thaw. Nothing can be fought in winter, so winter is when the march does its law. The Assize hears everything the campaign season has had no time for: claims over stolen stock, disputed ransoms, the standing quarrels of border families, and the occasional charge against an officer that could not safely be brought while he was needed.
 
@@ -76,7 +76,7 @@ A plea must reach Durvalis before the passes close, and its witnesses with it. A
 - **The captain's account.** The [[being-talvenekmrl|Warden]] wants his captain's story proved before the Marshal's witnesses arrive.
 - **The last witness.** [[being-dilmaravlch|The Justice]] needs a witness brought down from a high valley before the snow closes it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-durvalis|Durvalis]]
 : the fortress town where the Assize sits

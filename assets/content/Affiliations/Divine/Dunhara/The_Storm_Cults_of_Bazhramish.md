@@ -87,7 +87,7 @@ Patron
 Region
 : [[affiliation-dunhartrbs|The Dunhara Tribes]]—present in every Dunhari encampment of significance, with the great gathering-shrine at the [[place-stoneofranaz|Stone of Ranaz]] (shared with the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]])
 
-## Overview
+## Overview {#overview}
 
 Among the [[affiliation-dunhartrbs|Dunhara tribes]], the storm is the most consequential fact of life. The arrival of a season's rain decides whether the grass will hold, whether the herds will fatten, whether the wells will refill, whether the year will be one of stability or of the slow tribal movements that follow drought. The Dunhari also understand the storm as the most direct testimony of the gods' attention to the world: the lightning strike that splits a tree near a sheikh's tent is a verdict; the squall that turns aside a raiding party is a judgment; the long thunder that walks across the sand in the dry months is a god's voice making itself heard.
 
@@ -167,7 +167,7 @@ Recognized vessels of Bazhrámish wear a heavy iron torc at the throat, given at
 - **The Misread Drought.** The Wind-Readers and Rain-Callers have given incompatible readings on the coming season's rainfall; the chieftains, forced to plan herd movements, cannot wait for the cults to reconcile. The senior elders of both lineages are committed to their readings. One lineage will be discredited by the outcome.
 - **The Stolen Stones.** The marked stones used by the Warrior's Circle to choose the Voice of the Quarter have gone missing from cult custody. Their loss prevents the next Warrior's Circle meeting from being convened in proper form. The cults must recover the stones before the Circle gathering, and the absence of the stones is itself an indication that someone with knowledge of the cults' internal procedures is acting against them.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-bazhramis|Faith of Bazhrámish]]
 : the storm god the cults serve

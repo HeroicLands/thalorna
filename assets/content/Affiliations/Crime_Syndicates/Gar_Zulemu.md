@@ -40,7 +40,7 @@ A waterfront trader explains the **Gar-Zulemu** (the **Corruption Ring**) by wal
 
 A smuggling ring is a stranger-trade. The man who lands the cargo has never met the man who sells it, and both must be sure of the man in between, so the ring runs on three posts, the Lander, the Seller and the Middleman, and on accounts of what it is owed. The Gar-Zulemu keeps those accounts and collects on them, which makes it heretical as well as criminal. Its own members mostly do not know this, and its principals take considerable trouble to make sure the books read as an ordinary merchant's.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]
 : why a record of what strangers owe is the temple's business alone

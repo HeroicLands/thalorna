@@ -83,13 +83,13 @@ The army counts the day as a recovery. The province counts it as the day the smo
 
 The ground did not settle. The marsh keeps a quality the garrisons describe and do not explain, and the Varokh villages that lost their sons to it say the same thing in their own words ([[place-blackmarshfld|The Blood-field of the Black Marsh]]).
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Blood-field of the Black Marsh.** A dread on the march, thin enough that things cross.
 - **The Korvan's gold band.** The honor the manual gives a legion that recovers a lost eagle, carried by the Korvan ever since.
 - **The smoke count.** The northern watch's first lesson, and the reason a sergeant does not look at the marsh.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-hungerraids|The Hunger Raids]]
 : the war-bands and the Taking of the Eagle, as the forest tells them

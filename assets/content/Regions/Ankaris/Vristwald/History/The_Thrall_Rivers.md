@@ -90,13 +90,13 @@ About 672, at the summer market, a man of one village killed a man of another ov
 
 The market peace takes its present form from that day. A killing at Waldburg's market is answered at once by every tribe present, not by the dead man's kin alone, and the peace is held by a Frithmund the market acclaims. The first was [Edrilda ira Othwald wur Waldburg]{.name data-type="being/npc"}, who had kept the landing where the killing happened and had shut it first. The office is acclaimed and never inherited: [Hródila ira Othwald wur Waldburg]{.name data-type="being/npc"} held it after her, and [Arnhilda ira Grimwald wur Waldburg]{.name data-type="being/npc"} holds it now. The Frithmund commands nobody and answers to no crown; she keeps the peace for the days of the market, and every war-band at it keeps the peace with her.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Frithmund's stone.** The ringed stone in the Waldburg market where the killer was answered and the peace is sworn. A killing at the stone during a muster would set the market's law against the muster's, and Waldburg's old people say it has never happened, which is not the same as saying it never will.
 - **Waldburg's size.** A village of eight hundred whose triad is strained by everything it is asked, and which the upriver villages suspect of becoming something more than a village.
 - **The rivers.** The forest's one road to the world, which carries furs, amber and people down the same water in the same boats. The irony that the Varokh, descended in part from the [Varkhad]{.name data-type="lore/folk"} who drove the [[lore-pelwarpepl|Pelwar]] off the mainland, now sell displaced people down the same rivers is one the forest has never had a reason to notice.
 
-## See Also
+## See Also {#see-also}
 
 [[place-waldburg|Waldburg]]
 : the crossing, the market and the stone

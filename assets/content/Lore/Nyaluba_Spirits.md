@@ -92,7 +92,7 @@ desecrating a grove, not hunting what they have not been permitted to hunt, not 
 totemic precinct uninvited, not disturbing a cairn or a river-shrine. Most clans extend that
 minimum reciprocity to respectful visitors. Those who transgress discover—sometimes slowly—that the guides take offense, and that the clans do not intercede for a transgressor.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-nyalbpnthn|The Nyáluba Way]]
 : the tradition of which the guides are the substance

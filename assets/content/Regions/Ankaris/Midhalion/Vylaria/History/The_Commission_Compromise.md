@@ -65,12 +65,12 @@ About 710 the two sides settled.
 
 The Orzas's position is that the matter is "under continuing review." It stays there until the next major war exposes the system or the balance at court changes.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The centurions' grievance.** A real and continuing discontent among the army's senior career soldiers.
 - **"Under continuing review."** The Orzas's answer to every petition on the subject.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vylrnmltry|Vilérian Military]]
 : the commission system and the Vallar

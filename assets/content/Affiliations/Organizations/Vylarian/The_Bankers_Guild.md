@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 
 Watch a clerk at a chapterhouse counter take in a traveler's note and you see the guild's whole trade. He has under a minute to decide to believe in a slip of sealed paper. Say he works at the chapter in [[place-orzara|Orzara City]], and he checks three things from habit: the wax (red for a retail note, blue for a traveler's note, gold for a master note), the serial against the chapter's register, and the moneylender's mark above the chapter's countersignature. "People think we lend money," he tells the apprentice at the next desk. "We don't, mostly. We tell strangers whom to trust. The lending is what we do in the afternoons."
 
-## Overview
+## Overview {#overview}
 
 The Danvar, "the Bankers' College," is the moneylenders' guild chartered under [[affiliation-tevran|the Tevran Maldor]], and the visible banking institution of the post-imperial commonwealth. On paper it is one of the thirty-six trade guilds the Tevran charters, alongside the smiths, the scribes, the cartographers and the rest. In practice it is by some distance the largest and most consequential of them. Its member houses run the banking system that most large-value commerce in the commonwealth depends on, and its chapterhouses outside the empire are the working front end of [[affiliation-tarmex|the Tarmeks Orzan]]'s central-bank functions. Its senior partners carry political weight, and their presence at court rivals the senior nobility's.
 

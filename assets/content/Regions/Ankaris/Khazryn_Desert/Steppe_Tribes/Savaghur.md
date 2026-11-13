@@ -82,13 +82,13 @@ Savaghbiiloq knows what each offer costs. To go in to the Jobizur family by fami
 
 The Savaghur have held the northern grass at the forest's edge as long as their tellings run, and their tellings are of winters: which ones closed the grass, which camps went in to the Jobizur, and which came back.
 
-## Hooks
+## Hooks {#hooks}
 
 - Savaghbiiloq wants someone who belongs to neither offer to ride to the Jobizur grass and ask Tijodorghun Savaghur what the sky says, because the Savaghur shaman read the ice winter wrong.
 - A Savaghur camp with too few beasts to winter on its own valley has come to the mouth of a Ghotakur valley the week the Ghotakur men left for the north, and its camp head cannot ask for what he came for: [[scenario-vllysfrstfrst|The Valleys at First Frost]].
 - A Savaghur raiding party has taken a Jobizur horse herd by mistake in the dark, and the Savaghur families living among the Jobizur want it returned before anyone counts it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

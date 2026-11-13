@@ -20,7 +20,7 @@ Meqet-Garu is a small village within [[place-aukhelathrgq|Au'Khelathu Region]], 
 
 Gasher has spent every year since wishing the story would end.
 
-## See Also
+## See Also {#see-also}
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : the enclosing region

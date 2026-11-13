@@ -37,7 +37,7 @@ They are creatures of craft and endurance. Where the Senali's relationship with 
 
 Their magic, like the Senali's, bears no resemblance to the [[affiliation-ordoarcanis|Thordimalon]]'s arcane system. Khazárian arts are bound up in craft—in the forging of metal, the shaping of stone, the singing of deep songs that resonate with the bones of the earth. The Arcane Order has never successfully studied Khazárian magic, primarily because no Khazár has ever consented to be studied. The few Arcane Order scholars who have encountered genuine Khazárian craftsmanship have been deeply unsettled by their inability to explain how it works.
 
-## History
+## History {#history}
 
 Like the Senali, the Khazari keep their own history and do not share it with humans. What fragments have reached human knowledge come from the oldest oral traditions of mountain peoples and from the rare, cryptic encounters between Khazárian individuals and human scholars.
 
@@ -145,7 +145,7 @@ Though the Khazari themselves are invisible, their works are not—or at least, 
 
 The Khazari do not appear to care that humans possess these remnants. They are relics of an age that is over, and the Khazari are not sentimental about the past—or if they are, their sentimentality does not extend to reclaiming objects that humans have stumbled across. Let the younger race play with the toys. The Khazari have moved on to other work.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-khazariclt|Khazari]]
 : The culture: listening to stone, life in the cliff face, mining, teaching and outsiders

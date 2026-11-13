@@ -72,14 +72,14 @@ The great families of the Old Hill did not rebuild where their houses had stood.
 
 The Senate and the guild-masters rebuilt. They passed the decree of the [Clearance]{.name data-type="place/feature"}, which set the open ground that rings the city, and the district law that banishes the forges and the foul trades from the walls. Both were written for the next fire, and both are in force.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The fear of a missed dole.** Every Orzas since has paid it before he paid anything else.
 - **The Old Hill's decay and the Laurel's rise.** The one hill empty and the other full, from the same six days.
 - **The Clearance and the district law.** Statutes that carve the city into wards a fire can gut without leaping.
 - **The cellars.** The foundations and cellars of the burned ward lie under three centuries of cheaper building, part of the Warrens now.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-antel|Antel]] · [[place-selvin|Selvin]]—the hill that burned and the hill that rose
 - [[lore-olcassabtl|The Battle of Olkassa]]—the war behind the failed dole

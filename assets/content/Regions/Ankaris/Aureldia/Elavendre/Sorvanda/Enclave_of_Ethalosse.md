@@ -75,7 +75,7 @@ About 1380 BF a band of Áelendan came down from Nelgan in the dark and found be
 - **The Arcane Order** is turned back at the tree line by the [[affiliation-alndnwrdns|Áelendan Wardens]], who regard it as an intruder on what the tribes exist to keep.
 - **The other enclaves**, [[affiliation-nclvlrss|Aelirosse]] and [[affiliation-nclvsrnthl|Serenthale]], deal with the world through Ethalosse when they deal with it at all.
 
-## See Also
+## See Also {#see-also}
 
 [[place-ethalosse|Ethalosse]]
 : the enclave's seat

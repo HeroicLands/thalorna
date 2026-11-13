@@ -83,12 +83,12 @@ Gorenyemok means the first raid of this spring to be a gift to the gathering man
 
 The Gorenur count themselves from one father, whose five sons founded the five lines, and their line-tellers say the lines back to him by name. They hold that they have watered at Khelid since before the first banner. Their raids on the March are as old as its herds, and the feud with the Bujalur dates from the camp the March burned for a Gorenur raid.
 
-## Hooks
+## Hooks {#hooks}
 
 - A Gorenur weaver will sell a door-felt with another line's mark on it to whoever pays enough, and the felt makes a tent look Gorenur to anyone who reads marks: [[scenario-trcecmpsmrch|The Truce Camps of the March]].
 - Gorenyemok offers a party a share of the spring raid's horses if it keeps a March patrol in its fort on the night of the first storm.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

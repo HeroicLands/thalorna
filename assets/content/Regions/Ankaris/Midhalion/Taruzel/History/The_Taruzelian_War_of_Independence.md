@@ -119,14 +119,14 @@ A flotilla fought that war. It was made of warships from the merchant fleets, ar
 
 In the summer of 708 the empire sent the largest squadron it had ever gathered in the eastern sea to break the blockade of the island channels, and the flotilla met it at the [[place-tamzirshoals|Tamzir Shoals]]. The battle is told in [[lore-tamzirbattle|The Battle of Tamzir Shoals]], and what the merchant princes made of the victory in [[lore-taruzelbetrayal|The Betrayal of the Revolution]].
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The broadsheets.** Printed by the guilds to raise a war and kept on the walls of the veterans' halls, where they are read as a promise.
 - **The debt.** Khelathi gold the Confederation denies in public and repays in private, through reduced harbor fees and trade agreements that favor Khelathi hulls.
 - **The empty forts.** The hill garrisons rode home and never came back, and the old military road is unmaintained.
 - **A habit of small boats.** The fishing boats that carried rams in the war carry nets again, and the [[affiliation-corsairleg|Corsair League]] still hires their crews as pilots.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-tamzirbattle|The Battle of Tamzir Shoals]]
 : the battle that ended the war at sea

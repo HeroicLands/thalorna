@@ -14,7 +14,7 @@ data:
   government: kngdmvthgrd
 ---
 
-## Overview
+## Overview {#overview}
 
 A stall at Hrandstead comes with a contract that is read aloud before signing and read back by the clerk, because the jarl's garrison enforces what is written and nobody has to like it.
 
@@ -40,7 +40,7 @@ Ruled by
 Known for
 : its garrison, its fair markets and its contracts.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 : [[lore-nordheimnclt|Nordmen]] kingdom of Vithgard

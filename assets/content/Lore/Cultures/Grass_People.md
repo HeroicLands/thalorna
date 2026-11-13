@@ -203,7 +203,7 @@ The Grass People tell it as two wrongs in one winter, and as the worst they know
 
 The blind spot the Grass People argue over is the raid. A man's standing rests on coups and gifts, and the surest way to both is a raid. A young man with no coup has no name, no society and few prospects of a wife, and so the young men raid: the western towns of the [[affiliation-tokchiaska|One Fire]], the western villages of the [[affiliation-osetakona|Maple People]], and other bands of their own people. The raiders come home with names. The towns they raid strike back, and they strike back at what does not move: the river villages, whose lodges and fields stand where they stood. Some elders say that the open hand needs something to give, and that a people without raids would be a people without names. The lodge owners of the villages answer that the bands make the names and the villages pay for them, and ask how many coups the Winter of the Ditch was worth. [Kanwesawi]{.name data-type="being/npc"}, Coyote Runs, the war leader killed at the [Red Quarry]{.name data-type="place/site"} by a One Fire noble, is remembered as a hero by the bands. The villages remember the One Fire's raids that came after his death.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tenlaya|Tenlaya]]
 : the Grass People as a nation: its ranks, its offices and its bands

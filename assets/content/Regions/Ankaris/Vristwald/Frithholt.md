@@ -14,11 +14,11 @@ data:
   packFolder: vrystwald
 ---
 
-## Overview
+## Overview {#overview}
 
 **Frithholt** (290 people) is a Varokh village of [[place-skathwald|Skathwald]] under the [[lore-dovettm|dove]], and the Other Chief holds its leading seat. It is the village nearest the old lost ground, and it shelters displaced kin without claiming them as its own. It has kept that custom since the Waking, when a Grukar tribe took three villages in a winter; [[lore-grimakburning|the Burning at Grimak]] tells how.
 
-## See Also
+## See Also {#see-also}
 
 [[place-skathwald|Skathwald]]
 : the reach around the village

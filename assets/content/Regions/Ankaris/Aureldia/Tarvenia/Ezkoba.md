@@ -14,7 +14,7 @@ data:
   government: kngdmglvrn
 ---
 
-## Overview
+## Overview {#overview}
 
 Ezkoba is named for a lantern, the _ezkobe_ that a Tarvenan house sets on its threshold for its dead, and it is the lantern of the whole coast. The town of about 2,500 stands in the only break in [[place-kaurema|Kaurema]], the black sea-cliffs north of [[place-durvolka|Durvolka]]: a steep cleft about a third of the way up the cliffs from their southern end, where a stream comes down to the sea, with a stone cove at the bottom, a harbor wall built across its mouth, and the town stacked up both sides of the cleft in terraces of slate-roofed houses joined by stairs. On the clifftop at the seaward edge of the cleft stands the [Long Lamp]{.name data-type="place/structure"}, a squat round tower with a fire-basket in an iron cage on its roof.
 
@@ -47,7 +47,7 @@ The passage graves inside the stone ring at the northern end of the cliffs belon
 - **The teller's successor.** Nelma Ularris is failing, and she has not named who will keep the rolls after her. Two women want the post, one a teller's daughter and one a widow who has learned the rolls by heart, and the tellers of the other harbors are already taking sides.
 - **The lowest tide of the year.** A spring tide in late summer will uncover more of the sunken city than anyone living has seen, and a young man of the town has a boat ready and a plan to go down the stairs. His mother wants him stopped. His friends want him helped.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kaurema|Kaurema]]
 : the black cliffs the town stands in

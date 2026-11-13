@@ -14,7 +14,7 @@ data:
   government: kingdmnrgd
 ---
 
-## Overview
+## Overview {#overview}
 
 The boat is the way into Gnaldurfjord when the weather allows, since the mountain pass is not one a traveler crosses twice by choice. Gnaldurfjord lies deep in a narrow fjord on the western coast of [[place-norgaad|Norgaad]], reached only by sea or through treacherous mountain passes, and about 300 people live there in turf-roofed houses clustered at the water's edge. The mountains that tower above it give the place an air of isolation and mystery. The fjord runs cold and deep, and the villagers speak in hushed tones of currents that pull wrongly and of lights that dance beneath the ice in winter.
 
@@ -34,7 +34,7 @@ The village sustains itself by fishing, by hunting seal and whale, and by trade 
 
 Gnaldurfjord is the only place in the north whose boats have crossed the western ocean. The household of [Hafthann the Surf-Farer]{.name data-type="being/npc"}, a whaling jarl, made a probing crossing in 699 and led three longboats west in 707, when a storm swamped two of them and drowned him with thirty-five of his men. His son [Skeldvir Hafthannsen]{.name data-type="being/npc"} brought one boat home from a modest raid in 719, with a few thralls and some artifacts that now sit on the household's shelves. The widows of 707 and the whalers who need every oar at home argue against another voyage, and Skeldvir and the younger men argue for it. Nothing has settled the question, and [[lore-westrnvoyages|The Western Voyages]] tells all three crossings and both sides of it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-westrnvoyages|The Western Voyages]]
 : the crossings made from the fjord, and the argument over the next

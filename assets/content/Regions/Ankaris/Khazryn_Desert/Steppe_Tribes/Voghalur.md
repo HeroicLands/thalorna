@@ -82,12 +82,12 @@ The young riders do not want to wait. They talk of riding east against the Tants
 
 The Voghalur hold that their dovaq swore under every one of the three banners and that the three stones mark those oaths. The tribes they rode beside tell it otherwise, and the stones carry signs and no words.
 
-## Hooks
+## Hooks {#hooks}
 
 - Voghalghakhiq wants an outsider, who carries no tribe's quarrel, to ride west and bring back the gathering man's terms, word for word, as a witness would say them at the stones.
 - A Tantsou officer at the pass wants to know which Voghalur riders are planning to strike his patrols, and he pays in silk, which no Voghalur can touch.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

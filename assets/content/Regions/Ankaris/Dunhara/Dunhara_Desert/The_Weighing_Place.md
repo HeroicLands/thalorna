@@ -42,7 +42,7 @@ The source of the sorcery is below the deepest well of the oasis. Melkhur found 
 
 The oasis lies on the southern circuit, a few days beyond the long wells. Its location is known to every guide, and every guide now routes around it.
 
-## Hooks
+## Hooks {#hooks}
 
 - **A claim lost.** A sheikh is asked to prove his line before the common council at [[place-ghavulavad|Ghavulavad]] and cannot, because his poet came back from Vazhmavad empty.
 - **A debt unwritten.** A merchant finds the kin-credit that carried half his trade has vanished from every memory but his own.
@@ -50,7 +50,7 @@ The oasis lies on the southern circuit, a few days beyond the long wells. Its lo
 
 [[scenario-nrctdvzhmvd|The Riders Who Ask Your Name]] gives these as a five-scene adventure.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-dunhariclt|Dunhari]]
 : the poets, the recitation and the Old Promise

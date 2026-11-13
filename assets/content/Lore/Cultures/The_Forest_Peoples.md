@@ -72,7 +72,7 @@ An outsider sees one people. Every tribe wears bark cloth, hunts with nets, spea
 
 What the outsider cannot see is the tradition. The accents sound alike to an ear not raised on them, the sacred words are not spoken in an outsider's hearing, and the differences that matter most are matters of belief: whether a leader is chosen, recognized, dreamed or earned, whether the dead go downstream or stay, whether a stranger is a guest, a child or a danger. A traveler who has met one forest tribe knows how to greet the next one and nothing else about it. The forest people know this, and the gbenindo who handle outsiders say as little about the other traditions as the outsiders allow.
 
-## See Also
+## See Also {#see-also}
 
 [[place-cntrlrnfrsts|Central Rainforests]]
 : the forest

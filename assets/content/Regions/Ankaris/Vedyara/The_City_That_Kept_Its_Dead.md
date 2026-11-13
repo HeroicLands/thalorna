@@ -52,7 +52,7 @@ The orthodox hold that the unburned dead are Kalavrata's affair and that no prie
 
 From the pilgrim road along [[place-bharavarivr|the Bharava]], an estate station on the river's south bank cuts a season's path inland to a gathering ground, three days on foot through closed canopy. The causeway starts where the path ends, and nothing marks the place but the stone under the moss. The path is closed in the rains. A guide from the gathering peoples is needed, and a guide who walks out to a plains town with a wrist anyone asks to see is an **Outcaste** the moment it is asked.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The overdue cell.** A receiver of the shrena shows a bronze lamp with a flame in it and asks where the cell that carried it out has gone.
 - **The felling crew.** An estate loses a crew's worth of timber-men to a road of dressed stone in the felling-line, one at a time, over a month.
@@ -60,7 +60,7 @@ From the pilgrim road along [[place-bharavarivr|the Bharava]], an estate station
 
 [[scenario-kptdeadsorhupur|A Lamp Offered by Dry Hands]] gives these as a five-scene adventure.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-bharavaban|Bharavaban]]—the forest country it lies in
 - [[affiliation-bhrvdvbhon|The Bharava-Devabhona]]—the estates that strike it from the survey

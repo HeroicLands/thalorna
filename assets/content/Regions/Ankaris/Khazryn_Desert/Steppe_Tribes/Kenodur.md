@@ -96,12 +96,12 @@ The Kenodur raid the Koserur's southern graze and any tribe's distant herds that
 
 The quarrel with the [[affiliation-ksrrtrb|Koserur]] took its present shape after the drought that dried the Koserur seasonal water, when a Kenodur riding party took eight of their people from a southern graze.
 
-## Hooks
+## Hooks {#hooks}
 
 - Kharulun will let the youngest of the Koserur captives go free with any outsider who carries her terms to the Koserur and brings back their answer before the named day. The Koserur warband watches Lushiq, and a stranger riding out of it with a Kenodur child looks like a Kenodur go-between.
 - A Tellumi caravan bound down the spur wants to cross without buying Kenodur water, and has hired a party to find another well south of Qiimod. The Kenodur know of one, and they have been paid by somebody to forget it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes

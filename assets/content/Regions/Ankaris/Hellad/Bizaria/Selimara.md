@@ -14,7 +14,7 @@ data:
   packFolder: byzaria
 ---
 
-## Overview
+## Overview {#overview}
 
 Selímara is a market town of about 5,000 on the inland roads of [[place-byzariargn|Bizaria]]. The maps in the counting houses of [[place-khryshteikhos2|Krusteikhos]] record a place like it as tolls collected, and that is all the [[affiliation-byzarianlg|League's ledgers]] say of it.
 
@@ -22,7 +22,7 @@ Selímara is a market town of about 5,000 on the inland roads of [[place-byzaria
 
 Two of the people in the character notes call Selímara home: [[being-morzhrxylkt|Morzáhr Zilakit]], a timberwright, and [[being-alykosmpsn|Alikos Bridutis]], a physician.
 
-## See Also
+## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in

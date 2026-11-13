@@ -38,7 +38,7 @@ Design
 Seals and banners
 : households and clans work auspicious numbers into their seals, their banners and the spirit documents they burn for their ancestors, so that the celestial bureaus will look on their business favorably.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-marriage|Marriage]]
 : wedding dates chosen by number

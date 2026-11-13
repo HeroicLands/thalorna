@@ -118,3 +118,9 @@ Across the Vilérian Sea, Ankaris is connected to [[place-xerathia|Zerathia]]: t
 
 [[lore-pnthnrgnlmp|Pantheon Regional Map]]
 : Where each pantheon holds sway
+
+[[place-surtasamdra|The Eastern Sea]]
+
+[[place-meghrsmdra|The Southern Sea]]
+
+[[place-sandvsmdr|The Western Sea]]

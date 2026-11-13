@@ -206,7 +206,7 @@ The newest question in the Grove came out of the eastern sea. Twenty-one summers
 
 The Dawn People have asked the Grove for help, and the great council is still boiling it down. The Grove has asked the Red Stone Compact for help in turn, and the Grass People, who have never seen the sea, have asked why they should give it. Two other troubles press at the same time. In the north, hunting bands driven out of the far woods by newcomers from the ice are moving into the Pine People's country, and the Pine People argue over whether to adopt them, trade with them or drive them off. In the southwest the River People's villages push down the valleys of [[place-hanalxilanrgn|Ha'nal Shi'lan]], and the One Fire's war parties burn them. The Maple People are the compact's diplomats and its memory, and they say that the compact exists for exactly this. The other nations note that the Maple People say so most loudly when the danger is theirs.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-osetakona|Osetakona]]
 : the Maple People as a nation: its ranks, its offices and its councils

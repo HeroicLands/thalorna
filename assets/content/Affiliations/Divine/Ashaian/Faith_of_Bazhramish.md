@@ -79,7 +79,7 @@ Individual worship of Bazhrámish often takes the form of vows and contracts. A 
 
 The ordeal of the storm is also central to coming-of-age ceremonies, particularly among nomadic peoples. Young people preparing for adulthood may deliberately expose themselves to dangerous weather, standing in lightning storms (at a careful distance) or riding through rain-swollen wadis, tests of courage that are understood as seeking Bazhrámish's acknowledgment of their transition to adult status. Those who survive such ordeals with courage intact are recognized as having received the god's blessing for their adult lives.
 
-## Organization
+## Organization {#organization}
 
 The priesthood of Bazhrámish is fundamentally different from that of the [[affiliation-ataros|Faith of Ataros]] or the [[affiliation-ahurdaen|Faith of Ahurdaen]]. The priests of the Thunder Rider are themselves warriors and martial practitioners, and they maintain a much looser, more decentralized organizational structure. Rather than a strict hierarchy focused on temple administration and liturgical purity, the priesthood of Bazhrámish is organized around the individual strength and authority of powerful priest-warriors.
 

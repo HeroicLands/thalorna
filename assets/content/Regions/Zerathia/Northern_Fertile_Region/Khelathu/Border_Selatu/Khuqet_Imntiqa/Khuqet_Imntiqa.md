@@ -15,7 +15,7 @@ data:
   government: seltkhqtmntq
 ---
 
-## Overview
+## Overview {#overview}
 
 **Khuqet-Imntiqa** is the far western desert, and the land of [[affiliation-seltkhqtmntq|the Selat of Khuqet-Imntiqa]], one of [[affiliation-borderselatu|the Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
@@ -23,7 +23,7 @@ data:
 
 Cross it with a caravan and you measure the country in forts rather than villages. The oasis-forts stand where the sand gives way to water, and the trade-tracks run from one to the next; around each a little ground is farmed, and the farmers owe their share of the harvest and labor on the water-works like any in the empire. Between the forts the desert is empty, and the garrisons keep it that way.
 
-## Settlements
+## Settlements {#settlements}
 
 [[place-khuqet|Khuqet]] (~12,000)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-uqaa|Uqa'a]].
@@ -31,7 +31,7 @@ Cross it with a caravan and you measure the country in forts rather than village
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-seltkhqtmntq|The Selat of Khuqet-Imntiqa]]
 : The selat that holds this land

@@ -66,13 +66,13 @@ The smithing clans of [[place-slvrgorges|the Silver Gorges]] were working lapis 
 
 About 260 AF the ushtakas of the great temple-complexes won a voice the charter had not given them, and the [Priestly Court]{.name data-type="affiliation/governmental"} got its hall: a temple court with a hall attached, raised forty paces from the Martial Council's door. In the same years the Martial Council acclaimed a younger brother over the expected heir, the first of the acclamations the kingdom remembers.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The kingdom** and its citadel across Suryadvar.
 - **The two halls**, forty paces apart, and the two councils that do not at present agree who is to be acclaimed next.
 - **The quarrel over the rock**, kept unsettled on purpose.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-shikhalaya|Shikhalaya]] · [[place-suryagarha|Suryagarha]]
 - [[place-slvrgorges|The Silver Gorges]]—the rock the charter does not mention

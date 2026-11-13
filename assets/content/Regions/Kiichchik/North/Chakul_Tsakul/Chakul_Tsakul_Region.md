@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [northkiichchik], population: 0, packFo
 # terran_analog: A deadly Mojave-like desert barrier spanning the California–Texas analog through northern Mexico; the Sonoran-like extent is intensified. Approximate comparison only.
 ---
 
-## Overview
+## Overview {#overview}
 
 Ch'akul Tsa'kul Region is an uninhabited desert claimed by no nation, and lies within [[place-northkiichchik|Northern Kì'ìch'chik]] on the [[place-kiichchik|Kì'ìch'chik Continent]].
 
@@ -48,7 +48,7 @@ No trading posts, way-stations, seasonal settlements or staffed oases operate in
 
 The crossing limits north-south trade to a trickle, and only goods light and precious enough to justify the risk make it. Southern traders and pilgrims carry cacao, scarlet macaws and cast copper bells north, and bring turquoise back. The routes end in the north at the Turquoise People, whose great houses receive everyone who comes out of the desert and decide what goes on to the rest of the north. Now and then a southern expedition crosses with other aims, and the Turquoise People are the first to meet it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-northkiichchik|Northern Kì'ìch'chik]]
 : The enclosing region

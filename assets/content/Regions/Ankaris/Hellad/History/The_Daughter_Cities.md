@@ -80,7 +80,7 @@ Colonists and traders from several cities found the harbors of the eastern strai
 - **The Bizarian stock**, Helonik at root, which centuries of trade across the straits have hardened into a people of its own.
 - **Nesthiros's sea-trade**, which the eastern harbors have kept for as long as there have been captains to keep it.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-firstgames|The First Games]]—the peace the cities keep while they send their sons out
 - [[lore-heladpelagtrty|The Pelagoran Treaty]]—how Pelagora keeps Bethua through the conquest

@@ -21,7 +21,7 @@ The seaward slope is bare and wind-cut, and the shore below it is dune and reef.
 
 The summit shrine keeps the storm aspect of [[affiliation-tengwouronglei|the Celestial Order]], and the domain's Tanchei hold the mountain record there. Wejai's record enters every typhoon with its year and its wrecks beside the eruptions and earthquakes, and the Tanchei read the year from it at the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_).
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-wejaidmn|Wejai Domain]]
 : the house and its lord

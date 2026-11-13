@@ -14,7 +14,7 @@ data:
   packFolder: vrystwald
 ---
 
-## Overview
+## Overview {#overview}
 
 Eichengrund is a woodland village within [[place-vethwald|Vethwald]] (the Deepwood), home to two hundred and fifty people and the seat of [[being-athlwvthrnd|Athalwa ira Vithrúnd wur Eichengrund]], its War Chief and one of the few women in living [[place-vrystwald|Vristwald]] memory to hold the seat by the warband's own acclamation rather than by a council's preference. Her hall is the largest building the village has, and a visitor who comes expecting the quiet woodland clearing the description promises finds instead a War Chief's seat with the traffic of envoys, petitioners and her own sworn warriors that a leader of her reach draws to it.
 
@@ -22,7 +22,7 @@ Several kindreds share the clearing. Athalwa's [Vithrúnd]{.name data-type="affi
 
 Eichengrund's tension is the one that follows its War Chief rather than the village itself: Athalwa's seat is contested by kin who would rather see a man hold it, and a visitor who stays long enough hears both sides argued with equal conviction—by her sworn warband, who credit her visions and her victories, and by elders who have never fully forgiven the council that let her claim the hall at all.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vrystwldtrbs|Vristwald Tribes]]
 : The independent villages and their shared customs

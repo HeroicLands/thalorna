@@ -55,7 +55,7 @@ data:
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 "My husband's name is on the ledger, and mine is on the land," a Zabet'lutu of an [[place-iuthnet|Iuthnet]] estate tells a newcomer who has asked who rules the selat. "The Halzi'a holds the selat. The estates answer to him. The temple answers to the goddess. Learn those three and you will be understood."
 
@@ -65,11 +65,11 @@ The Selat of Iuthnet is one of the upper-river selatu of the [[affiliation-empir
 
 The seat is Iuthnet, where the Halzi'a keeps his court and the chief temple of [[affiliation-uznera|Uzn'era]] stands. Below the Halzi'a, estates are held by a Legha'lutu or a Zabet'lutu, master or mistress of the manor, its fields and its village, and a Zabet'lutu holds hers in her own right. That is Uzn'era's teaching at work: women in the empire own property, initiate divorce and hold priestly office, up to the highest, because the goddess's faith will not treat a wife as property.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Iuthnet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-upperrivrslt|The Upper River Selatu]]
 : parent selat class

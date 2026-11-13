@@ -8,7 +8,7 @@ tags: [feature, waste, desert, thin-place]
 data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
 ---
 
-## Overview
+## Overview {#overview}
 
 The Bruise is a broad, shallow basin in [[place-thethirst|the Thirst]], a few days' walk across, and over it the sky is purple. It is purple at noon and at midnight, the deep, mottled purple of a week-old bruise, darker at the center and yellowing toward the rim, and no sun or moon shows through it. Light comes from the whole sky at once. The priests of the gate call it H'ulal Ts'upal, the Ugly Sky, and the returners call it the Bruise.
 
@@ -23,7 +23,7 @@ The basin's floor is ordinary desert, gravel and brush and a dry wash or two, an
 
 The returners' accounts say the basin is safe to cross for a party that is not bleeding. They do not camp in it, because a traveler who sleeps under the purple sky wakes not knowing how long he has slept, and because the voices of other parties come across the basin at night, very clear, saying ordinary things.
 
-## See Also
+## See Also {#see-also}
 
 [[place-thethirst|The Thirst]]
 : the desert around it

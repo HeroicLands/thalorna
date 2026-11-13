@@ -53,7 +53,7 @@ The year turns on the fields and the hunt. The plain is sown in autumn and sprin
 - **The kinsman.** A kinsman from the hunting family Zórila grew up in comes to Thornhill asking for a place in the retinue on the strength of her name, and the old huntsman who wants her gone takes him under his wing.
 - **The offer.** A greater lord who hunted as Lord Zurgade's guest offers Zórila a post in his own household, and leaving Thornhill would cost her the trust she has built there.
 
-## See Also
+## See Also {#see-also}
 
 [[being-zurgadeugarr|Zurgade Ugarreta]]
 : the lord of the manor

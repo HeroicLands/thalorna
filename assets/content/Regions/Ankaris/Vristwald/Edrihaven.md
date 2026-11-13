@@ -18,13 +18,13 @@ data:
   packFolder: vrystwald
 ---
 
-## Overview
+## Overview {#overview}
 
 **Edrihaven** (310 people) occupies the sheltered boundary in [[place-edriwald|Edriwald]]. This bay landing lies behind a hedge of alder and oak where the coast path turns east. The Other Chief keeps a careful record of boat dues and the promises made to Aelendan visitors. Her daughter has begun letting strangers cross the village grove to reach the shore more quickly. The Shaman calls the passage trespass, and neither elder can settle the matter for the families whose ground the path cuts.
 
 The Other Chief holds the strongest of the village's three seats, but the other two elders retain their own authority. The Shaman keeps the [[lore-otterttm|otter]] as the village’s single totem. The neighboring villages are reached by narrow forest tracks, used by messengers and small parties; no village commands the next one along the path.
 
-## See Also
+## See Also {#see-also}
 
 [[place-edriwald|Edriwald]]
 : the reach around the village

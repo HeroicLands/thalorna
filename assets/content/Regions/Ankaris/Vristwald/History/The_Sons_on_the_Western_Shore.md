@@ -53,13 +53,13 @@ The Sons are an order of [[affiliation-blackflame|the Black Flame]], and their c
 
 The danger is common, and the elders have not agreed on it. The villages of the shore are the ones burning, and the villages a week inland are the ones that would have to send their war-bands to the coast for a season. A common muster would need a War Chief, and the War Chief most eager for the command is [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] of [[place-eichengrnd|Eichengrund]], whose band has raided the Sons' outposts and ambushed their patrols on its own account. Every elder who hears him argue for a muster hears [Dorgulf ira Grimskorn wur Thrastein]{.name data-type="being/npc"}'s winter in it ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]), and Thornak's own village's Shaman opposes him.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **[[place-arnwern|Arnwern]].** A burned clearing on the lake behind the shore, which the Sons have begun to fortify with the village's own timber. Varokh scavengers go in by night for what the fire left, and the Sons' patrols wait for them.
 - **The eagle stone.** Blackened, and still standing at the lake's edge. No Shaman has called Arnwern's dead home, because Arnwern's Shaman was the one who would have done it.
 - **The argument.** Whether the western villages will lay their fragments of the talisman together, and whether they will lay them down for Thornak.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-sonsmuspell|Sons of Eldheim]]
 : the order on the shore

@@ -61,7 +61,7 @@ The search goes outside the island. The circle has already sent one of its custo
 
 The circle is a company inside the [[affiliation-tharivaan|Ithakan]] and a rival to its majority. [[affiliation-keepershouse|The Keeper's House]], whose custodians have no work left to tend, has the most reason of any body on the island to want the principles found. The circle is not allied with the Council, which hears its Elders and answers none of them. It has no standing with [[affiliation-wardensapproaches|the Wardens of the Approaches]], who guard the door a Seeker must leave by and a foreign reader must come in through.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tharivaan|Thári-vaan]]
 : the faith the circle belongs to, its ranks and its first records

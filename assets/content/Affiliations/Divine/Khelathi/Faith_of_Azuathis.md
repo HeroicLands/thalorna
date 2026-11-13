@@ -68,7 +68,7 @@ In plague, famine or war a community performs rites designed to turn the serpent
 
 Some people, touched by tragedy or corruption, grow an obsessive fear of him that borders on a twisted worship. They keep elaborate systems of protective ritual and fill their homes with symbols of binding and restriction. The priesthood treats them with pity and wariness, because excessive fear of Azu'athis is itself a kind of chaos, a corruption of the mind by the thing feared.
 
-## Organization
+## Organization {#organization}
 
 Within the orthodoxy of Au'Khelathu a priesthood of Azu'athis cannot exist. Knowledge of him lives instead in the higher echelons of other temples. The **Thaz'Lekhau of Uqa'a** keep secret records and treatises on his nature, his manifestations and his methods of attack, so the priesthood can counsel the [[lore-garauu|Gar-Au]] and prepare the realm for catastrophe. The scribes of [[affiliation-rethsaar|Reth'Sa'ar]] record everything bearing on the chaos god, since knowledge is understood as a powerful defense against chaos.
 

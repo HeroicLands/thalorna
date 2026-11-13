@@ -46,7 +46,7 @@ The Knight-Marshal, [[being-orvandkthvl|Sir Orvand Kéthavel]], names the champi
 
 The tournament closes the Order's spring. When the stands come down, the knights of the Order and every guest knight who chooses to ride with them muster at the commandery's gate, and the Knight-Captain of the West, [[being-merraddovvrn|Sir Merrad Dovavren]], leads them up the valley to the summer's war on the [[affiliation-saelvri|Seilvri]] in [[place-teilvari|Teilvari]] ([[lore-saelvricrusade|The Seilvri Crusade]]). A guest knight who rides west is honored at the next year's tournament.
 
-## See Also
+## See Also {#see-also}
 
 [[place-kelivren|Kelivren]]
 : where it is held

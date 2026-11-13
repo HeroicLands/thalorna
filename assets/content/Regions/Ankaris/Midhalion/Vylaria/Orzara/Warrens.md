@@ -14,7 +14,7 @@ data:
   government: verdanorzara
 ---
 
-## Overview
+## Overview {#overview}
 
 The Warrens are where [[place-orzara|Orzara City]]'s citizens live. They are the dense tenement wards, Katsur in [[skill-vylarilng|Vilari Language]], that fill every valley and lower slope the grander quarters leave them, and they are packed thickest on [Nerval]{.name data-type="place/feature"}, the River Hill, above the [[place-wharvesorz|Wharves]]. Their buildings are _tengali_ (tenements), five, six and seven stories of brick below and timber above, crowded wall to wall along stepped lanes, and they are home to nearly two hundred thousand people: the veteran-citizens and their families, and the sponsored working folk whose livelihoods keep them inside the line. At their heart lies the [Spire Circle]{.name data-type="place/site"}, built about a soaring spire hauled from a conquered province.
 
@@ -65,7 +65,7 @@ The Warrens fear fire, the short dole and dear bread, and every power in the cit
 - **The eighth story.** A landlord has added an eighth story of timber to a tenement on Nerval, and the _peltros_ has not ordered it down. A tenant on the seventh floor pays a party to learn why before the winter rains.
 - **The widow's token.** A veteran's widow reported her husband's death to the ward two winters ago, and she hears that his pension is still drawn every month at the pay-hall of another ward on a token in his name. She wants a party to find the man who is drawing it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city

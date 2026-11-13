@@ -17,7 +17,7 @@ data:
 # terran_analog: the confluence of the Ohio and the Mississippi, with the Kincaid and Wickliffe mound sites as models
 ---
 
-## Overview
+## Overview {#overview}
 
 Hokpa Hosa stands where two rivers meet: the great river coming down from the north, wide and brown, and the clearer eastern river coming in from [[place-hanalxilanrgn|Ha'nal Shi'lan]], whose water runs beside the brown for a mile before the two mix. The name means Two Rivers. About 6,000 people live in the town, on a bluff above the meeting of the waters, and it is the northern gate of the [[place-hokpargn|River Valley]]: anything that comes into the heartland from the north, by canoe or on foot, passes under its palisade.
 
@@ -45,7 +45,7 @@ The Maple People accuse the One Fire of raiding Ha'nal Shi'lan under cover of pi
 
 :::
 
-## See Also
+## See Also {#see-also}
 
 [[place-hokpargn|River Valley]]
 : the heartland the town guards

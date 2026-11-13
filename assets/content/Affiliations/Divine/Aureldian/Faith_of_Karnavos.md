@@ -63,7 +63,7 @@ During certain seasonal transitions—particularly at the boundaries between sea
 
 Karnavos has no temples in the conventional sense, but many cities maintain small, hidden shrines—sometimes barely more than an altar stone hidden in a forest grove or behind a tavern. These are places of last resort, where the desperate or defiant may leave offerings and prayers when no god of order will answer them.
 
-## Organization
+## Organization {#organization}
 
 Unlike the structured hierarchies of other Aureldian faiths, the priesthood of Karnavos is deliberately decentralized and anarchic. There is no High Priestess or universal priesthood; instead, local shamans, hermits, eccentric philosophers, and wilderness dwellers serve as informal priests of the god. These individuals are rarely formally ordained and often function as solitary practitioners rather than members of any institutional church.
 

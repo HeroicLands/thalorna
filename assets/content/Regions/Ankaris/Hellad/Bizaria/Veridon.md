@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [byzariargn], packFolder: byzaria}
 ---
 
-## Overview
+## Overview {#overview}
 
 Before a traveler sees Veridon, he sees the compound outside it: the fortified permanent base of [[affiliation-irnwlvscmpny|the Iron Wolves Company]], with barracks, training fields, an extensive armory, stables for the cavalry detachment and the company's archives. Veridon is a small town in the hinterland of [[place-byzariargn|Bizaria]], and it depends on the company for its living.
 
@@ -16,7 +16,7 @@ Before a traveler sees Veridon, he sees the compound outside it: the fortified p
 
 The company is the town's employer, its customer and its protection, and it is also the company that did what it did at [[place-trianthion|Trianthion]]. The arrangement has given Veridon stability, and it has given its people a manner a stranger cannot read: their attitudes toward the company are opaque to outsiders. Say you ask an innkeeper about the company next door. He knows what it drinks and what it pays, and he answers with exactly that.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-irnwlvscmpny|The Iron Wolves Company]]
 : the free company based outside the town

@@ -14,7 +14,7 @@ data:
   packFolder: ixbaltzaku
 ---
 
-## Overview
+## Overview {#overview}
 
 Come down the great southern white road from [[place-neokbaatergn|Ne'ok Ba'ate]] and the mountains of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] fill the horizon: a range running north to south, with snow on the peaks, fortress-cities and ceremonial centers on the heights, and jungle in the valleys below. The seat of the realm of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] is a city of about 60,000, in the jewel of the southern Kì'ìch'chik territories, a realm whose cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur and influence. The name carries _ish'bal_, the jaguar, and the people revere the spotted predator as an emblem of divine power.
 
@@ -26,7 +26,7 @@ Ish'bal Tsa'ku is the uppermost reach of the south, fully integrated into the un
 
 The highlands export worked gold and silver, in ceremonial vessels, jewelry and temple adornments, along with steel blades and breastplates, iron and copper implements, and finished textiles. The valleys send cacao, fruit, jaguar pelts, medicinal herbs and the feathers of the quetzal and macaw, and rubber tapped from jungle trees. The most valuable cacao and the rarest feathers go north to the great pyramid cities. Rivers are sacred highways, and those who travel them make offerings to [[lore-xilanixlandty|Shilan Ish'lan]], god of voyages.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]
 : the realm and its priesthood

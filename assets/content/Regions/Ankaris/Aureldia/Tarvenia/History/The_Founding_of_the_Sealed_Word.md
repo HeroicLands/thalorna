@@ -72,13 +72,13 @@ The first petition the order accepted was a boundary oath between two Tarvénian
 
 The order keeps a master register at Ólvestra of every contested oath it has ruled on, and its [Council of the Seal]{.name data-type="affiliation/governmental"} meets there every quarter. It is licensed by each of the Aureldian crowns to hold hearings in their courts, and the license is renewed as a political matter. Its rulings bind nobody in law and are obeyed in practice, because the order refuses petitions it cannot substantiate and does not favor the powerful.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The mother-house and master register at Ólvestra.** The archive of three centuries of contested oaths, whose keys the Senior Brothers wear at the throat ([[affiliation-ordrsldwrd|The Order of the Sealed Word]]).
 - **The Council of the Seal.** Twelve Senior Brothers from the five kingdoms.
 - **The order's license in each crown.** A standing that every crown is reluctant to confirm and unwilling to refuse.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-ordrsldwrd|The Order of the Sealed Word]]—the order
 - [[place-olvestria|Ólvestra]]—where it was chartered

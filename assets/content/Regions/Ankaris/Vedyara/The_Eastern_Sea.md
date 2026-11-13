@@ -15,7 +15,7 @@ data:
   culture: vedyariclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The **Surta-samedra** is the warm ocean east of [[place-vedyarargn|Vedyara]], and the name means the sea the sun rises from. It takes the eastern coast of Vedyara from the forest country in the north down to the turn of the land in the south, and it carries the greater part of the subcontinent's sea trade. Three of the four great rivers come down to it. [[place-mahanodi|The Mahanodi]], [[place-sarvedarivr|the Sarveda]] and [[place-bharavarivr|the Bharava]] each reach the sea on this coast, and the ports stand at their mouths and nowhere else.
 
@@ -41,7 +41,7 @@ A ship's crew works outside the order of stations, and this is the one settled e
 
 What the deck gives, it gives only afloat. A sailor who takes his pay and stays ashore is what he was before he signed.
 
-## See Also
+## See Also {#see-also}
 
 [[place-vedyarargn|Vedyara Region]]
 : the coast this sea takes

@@ -62,7 +62,7 @@ sohl: {system: {commonSkills: [okharclng]}}
 # terran_analog: "A rain-fed North Africa in the west, the Sahel (pastoral savanna with temple-city trading centers) in the east"
 ---
 
-## Overview
+## Overview {#overview}
 
 Okharis occupies the southern edge of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. West of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and bounded on the south by the [[place-cntrlrnfrsts|Central Rainforests]], trackless except by its rivers, Okharis is a hot kingdom of rain-fed forest, river valleys and grassland in the west, drying eastward to savanna, held by three great temple-cities. Where its northern neighbors built civilization on aqueducts and irrigation, Okharis built it on rain-fed land and the herds.
 
@@ -103,6 +103,6 @@ Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death),
 - The rural tribes view the pyramidal temples as sacred and their tribal leaders often act as mediators between the nobles and common folk.
 - Annual festivals at each temple complex draw pilgrims from across the kingdom, reinforcing cultural unity.
 
-## Commerce and Currency
+## Commerce and Currency {#commerce}
 
 Okharis uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units. Okharis has no native coinage; the Khelathi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through [[affiliation-crwntrdskhrs|the crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gar-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|the Crown Trades of Okharis]] for the Okhárian institutional arrangements.

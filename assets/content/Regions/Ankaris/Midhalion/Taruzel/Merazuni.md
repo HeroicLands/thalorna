@@ -117,7 +117,7 @@ The head factor of the Khelathi factorage on the Guild Quarter has twice offered
 - **The second key.** Yushuduya hires a party to learn whom the new marine captain owes before he stands at the strongroom door.
 - **The clerks' dinner.** [[being-ashurazhitus|Ashuraz Hitusuni]] wants guests at his dinner for the treasury's clerks who can tell him afterward what the clerks said when he left the room.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vezakuni|Vezakuni]]
 : the guild umbrella whose office the treasury is

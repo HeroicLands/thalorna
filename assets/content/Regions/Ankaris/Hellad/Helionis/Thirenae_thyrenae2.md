@@ -8,7 +8,7 @@ tags: [city-state, city]
 data: {demonym: null, lore: [], parents: [helionis], population: 60000, government: thyrenae}
 ---
 
-## Overview
+## Overview {#overview}
 
 A scholar's first lesson in **Thirenae** is where the credential comes from: a Thirenean education is the most prestigious a scholar can claim. The city is the oldest of the three that lead the seven, home to 60,000 people and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation that gave rise to the [[affiliation-ordoarcanis|Thordimalon]]. Its academies remain the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students travel from across [[place-midhalnrgn|Midhalión]] to attend them. Its patron is [[lore-marendasdty|Marendas]], goddess of knowledge and wisdom.
 
@@ -28,7 +28,7 @@ A gate in the western wall is walled up and has never been reopened. It is the b
 
 Thirenae's relationship with the Arcane Order is the most complicated in [[place-helionis|Helionis]]. The Arcane Order was born here, and the city's academies still preserve the non-arcane colleges of the original federation with real authority. Thirenean philosophers may study arcane theory without joining the Arcane Order so long as they do not practice, and the boundary between theory and practice is a standing source of tension.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-thyrenae|Thirenae]]
 : the city-state and its council

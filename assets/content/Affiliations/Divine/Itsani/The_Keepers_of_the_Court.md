@@ -101,7 +101,7 @@ The Keepers stand high in their cities, above the city's judges in any matter th
 - **Find a sold stroke.** A side that has lost and believes a player or a Keeper was paid may ask a party to prove it. A proved charge opens the judgment, and a false one is an insult to the god's answer.
 - **Read the stones.** The judgment stones of an old court record what every house in the city has lost and owes, and a Keeper of the Judgment Stones reads them aloud for a gift.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-itsanihierarchy|The Itsani Hierarchy]]
 : the priesthood under which every court is kept

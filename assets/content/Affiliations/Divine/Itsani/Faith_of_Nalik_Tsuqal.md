@@ -96,7 +96,7 @@ The dark of the moon governs the branch's calendar as the solstices govern the s
 
 Ordinary devotion needs no temple. A household sets flowers and a cup of cacao by the sleeping mat before an important day and speaks the question aloud into the dark. What comes is remembered and, if it seems to matter, carried to the temple to be entered in the archive.
 
-## Organization
+## Organization {#organization}
 
 The Ts'uqal'ob (dream-keepers) operate vast dream-temples—places of comfort and beauty built with soft materials, textiles draped from walls, sleeping platforms positioned where starlight and moonlight enter through carefully placed openings. They are the only Itsani temples built for the comfort of the people who use them, and the builder-priests who raise them treat the commission as a change of trade.
 

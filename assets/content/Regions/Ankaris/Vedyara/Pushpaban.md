@@ -18,7 +18,7 @@ data:
 
 Come for the festival and every garland you see in the temple precinct was made from a flower grown here.
 
-## See Also
+## See Also {#see-also}
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land

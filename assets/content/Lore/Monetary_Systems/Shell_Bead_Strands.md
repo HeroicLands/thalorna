@@ -81,7 +81,7 @@ A strand weighs a few ounces and coils into a palm. A canoe's price, a hundred s
 | **Shell by weight, not money** | The rest of the north, through [[place-hanalxilan2\|Ha'nal Shi'lan]]; see [[lore-nrthcopprcrncy\|Northern Copper]]                    |
 | **Absent**                     | The Kì'ìch'chik city-states south of the desert; see [[lore-cacaojadecrncy\|Cacao and Jade]]                                          |
 
-## See Also
+## See Also {#see-also}
 
 [[miscgear-shellstrand|Shell Strand]]
 : the strand as a piece of money

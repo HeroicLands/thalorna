@@ -65,7 +65,7 @@ The leopard suits them, and they say so. It is the guide that works alone, moves
 
 Because Sengala parties travel, the leopard is the Nyáluba guide most often addressed outside Nyáluba territory—and this raises a question the tradition otherwise does not face, since spirits are territorial and local by nature. The Sengala answer is that the guide accompanies the clan rather than the country, and that the ordeal binds the person, not the ground. Shamans of the other four clans consider this convenient, and do not accept it.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-leopardsengalaspr|Leopard Spirit]]
 : the guide as a being, apart from the practices of its cult

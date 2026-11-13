@@ -15,7 +15,7 @@ data:
   government: provnchyln
 ---
 
-## Overview
+## Overview {#overview}
 
 Come to Aravantara in the weeks after harvest and you will find a city that works like a scale. Wagons from a hundred aristocratic estates queue at its yards to have their grain, wine and oil weighed, taxed, and sent on toward the capital, and the whole of [[place-hylen|Hilen]]'s wealth passes through the town on its way to someone else. It is the administrative seat of the [[affiliation-provnchyln|province's administration]] and the clearing-house of the breadbasket, with twenty-eight thousand people living off the traffic.
 
@@ -79,7 +79,7 @@ Inside the wall, the [Bronze Bushel]{.name data-type="place/structure"} on the f
 - **The audience.** Linthimas Orvelis suspects that every petition he hears has been agreed before it reaches him. He wants a party with no house behind it to dine on the Street of the Houses and tell him what is said at table.
 - **The shuttered office.** The [[affiliation-ordoarcanis|Thordimalon]] keeps one officer in Aravantara, in two rooms behind the forum whose shutters are closed more often than open. He asks a party to carry a sealed report to Orzara by hand, because the province's posting-station has lost three of his letters this year.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provnchyln|Province of Hilen]]
 : parent province

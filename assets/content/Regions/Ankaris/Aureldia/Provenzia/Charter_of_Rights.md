@@ -36,7 +36,7 @@ The Charter also does not speak for the country. The Tanevar of the old valleys 
 
 The sealed charter is kept in the archive of the high courts at Aurelane, and the Chancellor keeps a sealed copy with the crown's writs at [[place-jalnazdal|Jalnasdal]]. Every king swears to it at his crowning, and every city keeps its own _daktela_ beside a copy of it. Lawyers argue its clauses before the Justiciar, and Peers quote them in the Council. The [[being-itrolaldrvn|Princess of Gefavel]]'s petition against the resumption of her branch's grants is an argument from the clause on counsel.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-charterwar|The War of the Charter]]
 : the war that won it

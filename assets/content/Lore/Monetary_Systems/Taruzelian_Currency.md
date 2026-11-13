@@ -48,7 +48,7 @@ In casual commerce within Taruzelian territory the underweight Solden passes at 
 | Northern Fertile Region             | Accepted as foreign currency through changers; conversion to Khelathi weight-pieces                                                 |
 | Elsewhere                           | Effectively absent                                                                                                                  |
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-vezakuni|Vezakuni]]
 : the chartering institution; full description of the Merazuni, the Kubasum's office, and the Taruzelian banking infrastructure

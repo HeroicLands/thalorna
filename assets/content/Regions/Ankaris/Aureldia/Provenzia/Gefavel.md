@@ -14,7 +14,7 @@ data:
   packFolder: provenzia
 ---
 
-## Overview
+## Overview {#overview}
 
 Gefavel is the domain of the **Princess of Gefavel**, [[being-itrolaldrvn|Itrola Lédravren]], one of the powerful magnates of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]], and some hundred and twenty thousand people live in it. She is of the royal blood, of a cadet branch of [[affiliation-hseledravren|House Lédravren]], and holds the rank that blood gives. From her stronghold she exerts considerable influence over the country around it, and she uses that influence with a purpose.
 
@@ -39,7 +39,7 @@ The princess is back at court and means to be counted. [[being-kralenldrvn|Krale
 
 The princes of Gefavel descend from a younger son of House Lédravren. They held crown lands by grant and, in the last prince's time, the great seal as Chancellor. In 688 AF [[being-kingvelarikiii|Vélarik III]] resumed the grants and took the seal, and the branch lost its standing at court ([[lore-velarikreign|The Reign of Vélarik III]]). The court calls it the Resumption, and Gefavel calls it the Taking. The prince died without recovering either, and Itrola has held Gefavel since she was seventeen.
 
-## See Also
+## See Also {#see-also}
 
 [[place-gefavelcstl|Gefavel Castle]]
 : the princess's stronghold

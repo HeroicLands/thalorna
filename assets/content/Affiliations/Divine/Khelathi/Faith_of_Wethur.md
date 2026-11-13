@@ -82,7 +82,7 @@ When the embalming is done, the body is placed in a coffin, often decorated with
 
 The relation between the living and the dead continues past the sealing. On set dates through the year family members return to the tomb with offerings of food, drink and flowers. They speak to their dead, ask for intercession with the gods and assure them of continuing love and respect. The dead stay active in the lives of the living and can bless or curse their descendants according to how well they are honored and remembered.
 
-## Organization
+## Organization {#organization}
 
 A Thaz'Lekhau (High Priest) heads the priesthood and oversees the mortuary temples and the vast mortuary industry. The Thaz'Lekhau keeps the standards of sacred practice and sees that all the dead, whatever their status, receive fitting preparation and burial. Below stand the Lem'Nelgir (ordained priests), who oversee individual mortuary temples and perform the rites of embalming and burial.
 

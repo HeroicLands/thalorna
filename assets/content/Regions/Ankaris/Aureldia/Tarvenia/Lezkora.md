@@ -49,13 +49,13 @@ The plateau has never been taken, and the city's whole defense is the cliff and 
 
 Lezkora is older than anything written about it, and its name is a word of the old mountain speech. The kings of Asturath held it through the occupation, when the legions took the lowlands and left the mountains alone after the [[lore-horngorgebtl|Battle of the Horn Gorge]] about 143 AF. About 540 AF the mountain lords met here to elect [Garvaneth]{.name data-type="being/npc"} of Asturath the first High King ([[lore-tarvfallsawy|Tarvénia Falls Away]]), and every High King since has been elected in [[place-lezkorahall|the High Hall]] on the plateau's lip. The crown has gone to the lords of Lyenrik several times since about 605 AF, and each of those kings lived at Lezkora as the guest of Asturath. The present High King, Ularrek Garrundeta, is an Astúrathi lord who is not Asturath's king, and the city has held two courts since his election.
 
-## Hooks
+## Hooks {#hooks}
 
 - **The old king's health.** The High King has not come down to the hall for a month. The lords of the lowlands have begun sending men up the road one and two at a time, and the Warden of the Plateau Gate is counting them.
 - **A cistern gone foul.** One of the western cisterns has turned in a dry spring, and the Warden wants to know whether the weather did it.
 - **A petitioner at the gate.** A man waiting in the yard between the gates says he has a quarrel with a lord that only the High King can hear, and the lord is already in the city.
 
-## See Also
+## See Also {#see-also}
 
 - [[place-asturath|Asturath]]—the mountain land the city crowns
 - [[place-lezkorahall|The High Hall]]—the High King's hall on the plateau's lip

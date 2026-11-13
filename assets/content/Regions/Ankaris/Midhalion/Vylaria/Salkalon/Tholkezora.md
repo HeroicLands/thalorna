@@ -14,13 +14,13 @@ data:
   government: provincvld
 ---
 
-## Overview
+## Overview {#overview}
 
 Tholkezora is the last of [[place-salkhalon|Salkalon]]'s four principal fishing towns, perched with its seven thousand people on the rocky headland its name describes, over deep water. Its crews fish the far grounds and, in season, hunt the great sea-beasts whose oil lights lamps across the province. That is a harder, more dangerous trade than the inshore netting of its sister-towns.
 
 Tholkezora men have a name up and down the coast for being half-wild and wholly fearless. A [[place-mercavia|Delalara]] sailing master, hiring a crew, tells his mate what the name means on a dock: "They will go where you will not, and they will not always tell the customs-house where they went." Its captains are as comfortable smuggling as fishing when the imperial customs press too hard.
 
-## Arriving
+## Arriving {#arriving}
 
 The headland stands out into the sea like a fist, a mass of dark rock with the town packed on its top and down its landward side, and the coast road reaches it over a neck of land so narrow that a cart and a man can barely pass. The houses are of the same dark stone as the rock, low and thick-walled against the winter gales, and their roofs are weighted with stones on ropes. There is no harbor on the seaward side, only cliffs and the sound of the swell in the caves under them. The harbor is on the lee side, a deep cove under the headland where the water is black and still, and the boats lie at moorings in it: long, decked, high-bowed boats built for the open sea, with a lance-rack along each gunwale.
 
@@ -32,7 +32,7 @@ The far grounds lie a day and a night out, over deep water where the fish run bi
 
 The other trade is the one the sailing master means. A boat a week out on the far grounds can meet another boat, and what she brings home under her salt fish pays no duty. Tholkezora boats carry wine and steel out and bring back spices, cloth and silver, and the caves under the headland hold what the customs would like to see. Bralvik crews sail with Tholkezora captains when the money is good, and the town's grandmothers can name every customs cutter on the coast by her rig.
 
-## Who Rules and Keeps Order
+## Who Rules and Keeps Order {#who-rules}
 
 Tholkezora is a chartered town under the [[affiliation-provincvld|Province of Salkalon]], with two _tavemoi_ (magistrates) and a council of _kurthaloi_ (councilors) who answer in their own persons for its taxes. The council is the captains, who own the decked boats, and the first of them is [[being-revothoslint|Revothos Linthimis]], a hunter of sea-beasts for thirty years, who has lost two boats and three fingers and has never been caught with anything he should not have carried.
 
@@ -42,7 +42,7 @@ The town keeps its own order, and it keeps it hard. A crew settles its own quarr
 
 The customs press harder this year, and the captains push back. A new customs cutter with a captain who cannot be bought has taken two Tholkezora boats in a month, and the captains under Revothos Linthimis want her captain persuaded, warned or wrecked. A boat towed in a sea-beast with a Taruzelian harpoon in its back, and a Delalara factor wants to know how far out the boats go. The same factor's house has bought two smokehouses in the town and wants the use of a cave the captains will not give.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 The [Lance]{.name data-type="place/structure"}, on the cove, is the town's only inn, and a stranger who takes a room there is asked his business by three people before supper. The rooms are clean, the oil-lamps burn bright, and the keeper's prices rise for anyone who asks too many questions about the caves. A party that comes with a captain's word is lodged in the captain's house instead, and is treated as one of his crew for as long as it stays.
 
@@ -52,7 +52,7 @@ The [Lance]{.name data-type="place/structure"}, on the cove, is the town's only 
 - **The cutter.** A new customs cutter has come to the coast with a captain who cannot be bought, and she has taken two Tholkezora boats in a month. The captains want her captain persuaded, warned or wrecked, and do not mind which.
 - **The cellar.** A Delalara shipping house has bought two smokehouses in Tholkezora and wants the use of a cave. The captains refuse. The house hires a party to find out what is in the cave that it cannot have.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provincvld|Province of Salkalon]]
 : parent province

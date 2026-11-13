@@ -14,7 +14,7 @@ data:
   government: verdanorzara
 ---
 
-## Overview
+## Overview {#overview}
 
 The Scholars' District is the one quarter of [[place-orzara|Orzara City]] where nothing is for sale. It covers [Mernel]{.name data-type="place/feature"}, the Scholars' Hill, around the [Circle of Marendas]{.name data-type="place/site"} and the statue of [[lore-marendasdty|Marendas]], goddess of wisdom, and it is the main campus of [[affiliation-panepistmm|The Academy]] and the greatest seat of that institution anywhere in the [[affiliation-vylarinmpr|Vilérian Empire]]. Its colleges, lecture halls, great reading-library, gardens, gymnasia and walled residence halls belong to a student body drawn from the patrician and well-propertied houses. It is a scholarly quarter and not a working one: ordered, expensive and quietly proud, chartered to keep no trade or workshop within it. Among the colleges stands the chapter house of [[affiliation-ordoarcanis|The Order]], whose domes are the ones a traveler sees glittering from the road.
 
@@ -67,7 +67,7 @@ Mernel fears the Seldan's displeasure and the Order's, and the succession sharpe
 - **The disputation.** A master of the College of Law is to dispute tomorrow against a reader of the College of Political Philosophy, and someone has paid the College of Law's students to break up the disputation if it goes against their master. The reader's college hires a party to keep the Circle quiet.
 - **The name at the gate.** A member of the Order sends a party a note asking for them by name at the chapter house gate, at night.
 
-## See Also
+## See Also {#see-also}
 
 [[place-orzara|Orzara]]
 : the city

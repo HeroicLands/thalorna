@@ -77,14 +77,14 @@ The list enters what followed in its own formulas. The Gar-Au [Gez'el'Qar II]{.n
 
 Late in 315 the host reached the walls of [[affiliation-kngdmmrdd|Amradad]], the side nobody had built them to face, and over the winter it broke up on its khan's death.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The fort line.** In the decades after, the empire walled and garrisoned the wells of Khuqet-Miglet. Each fort stands on a well, and the garrisons dug or deepened most of the wells.
 - **The Overseer of the March.** The commander of the imperial garrison, a crown appointment answerable to the capital's military officers and to no Halzi'a, dates from the walling.
 - **The Burned Wells.** A ring of wells beside the first forts was filled with carcasses in the host's wake and has never been cleared. The garrison and the clans each name the other as having done it.
 - **The Khelathi account of the Dunhari.** Whether the Dunhari rode with the host or stood out of its way is argued wherever the Storm is told. The garrisons of the eastern road answer that both are true: some clans raided in its wake, and most stood back.
 
-## See Also
+## See Also {#see-also}
 
 - [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the host
 - [[lore-akhpriestthr|The Priests' Thrones]]—the age it belongs to

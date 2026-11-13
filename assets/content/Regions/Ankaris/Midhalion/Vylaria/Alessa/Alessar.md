@@ -15,7 +15,7 @@ data:
   government: provinclys
 ---
 
-## Overview
+## Overview {#overview}
 
 Alessar is the capital of a province whose greatest city it does not govern. About 45,000 people live here, and it is the administrative seat of [[place-alyssa|Alessa]] proper: the [[affiliation-provinclys|Province of Alessa]] is held from Alessar by the _therkos_ (governor) the emperor appoints, while [[place-orzara|Orzara]], which stands within the province and is counted with it, is kept as a thing of its own.
 
@@ -71,7 +71,7 @@ The best of the inns is the [Two Seals]{.name data-type="place/structure"}, wher
 - **The reading on the steps.** A lease the party's employer was sure of is refused in an act read from the steps of the Governor's House. The employer wants to know who in Vennara wrote it.
 - **The strategist's offer.** Filezos Klethes buys a party a supper at the Two Seals and asks what they would charge to carry a sealed letter to [[place-velysara|Velisara]] without opening it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-alyssa|Alessa]]
 : the land this city governs

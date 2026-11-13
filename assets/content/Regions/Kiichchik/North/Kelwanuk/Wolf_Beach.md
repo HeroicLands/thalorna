@@ -17,7 +17,7 @@ data:
 # terran_analog: a Nuxalk village at the head of the Bella Coola inlet, where the grease trail began, with a Nisga'a eulachon fishery
 ---
 
-## Overview
+## Overview {#overview}
 
 The smell reaches a canoe an hour before the village does. Mukwasis, Wolf Beach, stands at the head of the longest of the [[place-hapasrgn|Long Inlets]], where a river full of eulachon comes out of the mountains, and at the end of every winter its beach is lined with rendering pits where the small oil fish rot and are boiled into grease. About 1,200 [[affiliation-kelwanuk|Kelwanuk]] of the Wolf House live here in seven plank houses. Behind the village the valley climbs toward a pass, and up the valley runs the [Grease Trail]{.name data-type="place/feature"}, the one road the Cedar People keep over the mountains.
 
@@ -37,7 +37,7 @@ This summer the carriers took something other than grease over the pass. The Bea
 
 The chief of the Wolf House, [[being-ulsemhakwa|Ulsemhakwa]], Lifts the Fire, agreed, because the Bear House is rich and its feasts are coming. Melumniksala took the girl over the pass, and she is at Falling Water now, with a price of twenty robes on her that nobody there has yet paid. Melumniksala has said at the Wolf House's fire that if the plains do not buy her, she will not carry the girl back over the pass. She has not said what she will do instead.
 
-## See Also
+## See Also {#see-also}
 
 [[place-hapasrgn|Long Inlets]]
 : the northern fjords

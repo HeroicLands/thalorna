@@ -80,7 +80,7 @@ The [Festival of Pathways]{.name data-type="lore/gathering"} falls once a year i
 
 In the great trading cities a temple of Gewa'atis doubles as a way-station and an information desk. Merchants gather there to share what they know of road conditions, water sources and dangers along each route, and the priesthood keeps it carefully, writing maps and route descriptions that countless travelers refine over the years. The priests serve as sources of navigational expertise as much as spiritual guides.
 
-## Organization
+## Organization {#organization}
 
 Gewa'atis's priesthood stays closer to ordinary people's practical concerns than most in the [[lore-khelathiclt|Khelathi]] religion. Where the priests of the [[affiliation-wethur|Faith of Weth'ur]] or the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] turn to theology and cosmic principle, those of Gewa'atis worry about road conditions, safe campsites, water sources and how to avoid bandits and wild animals.
 

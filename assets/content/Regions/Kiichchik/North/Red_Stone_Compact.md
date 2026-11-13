@@ -115,7 +115,7 @@ The compact has one strong answer: a nation under attack can send Pipe Bearers t
 
 Two peoples of the north stand outside the compact. The [[affiliation-shuqash|Shell-Bead People]] of the southwestern coast are rich, crowded and walled off by mountains and desert, and they see no need for it; the Cedar People and the Turquoise People both trade with them and court them. The Ice-Edge People of the far northwest are remote, self-sufficient and uninterested in southern quarrels. A pipe kinsman of the compact has no standing with either.
 
-## See Also
+## See Also {#see-also}
 
 [[place-northkiichchik|Northern Kì'ìch'chik]]
 : the north and its peoples

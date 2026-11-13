@@ -210,7 +210,7 @@ Not every crew came home with Imlakaklu. [Kilnaqivi]{.name data-type="being/npc"
 
 The blind spot is the Rules themselves, and thoughtful Ice-Edge People argue over it. The coast holds that every gift must be answered. It answers the seal with a drink and the village with a share, and it settles a killing with a name. It does not apply the Rules to Those Who Give Way. The coast's name for them says that the land is finished with them and that they step aside, as the seals leave a careless hunter. Whale Point's boat-holders, among them Imlakaklu's descendant [[being-tikumalu|Tikumalu]], Ice Running, hold that the whales chose the Whale Point crews and that a people the animals leave has broken the Rules somewhere. The speaker of Kavrumiq's men's house answers that the camp gave the crew a winter's food and was answered with killing, that a gift taken and not answered is the first evil the Rules name, and that the whales remember. The Bladder Feast has not been held jointly between Whale Point and Kavrumiq since the argument began.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tikupilarit|Tikupilarit]]
 : the Ice-Edge People's villages, men's houses, boat-holders and shamans

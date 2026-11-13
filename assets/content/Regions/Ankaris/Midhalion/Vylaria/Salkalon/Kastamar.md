@@ -14,13 +14,13 @@ data:
   government: provincvld
 ---
 
-## Overview
+## Overview {#overview}
 
 Kastamar is a working war-port of about twenty thousand people, the great naval city of [[place-salkhalon|Salkalon]] and the home of the imperial shipyards and of the command that keeps what remains of the [[affiliation-vylarinmpr|Vilérian Empire]]'s sea power. Its harbor is dry-docks and slipways, cordage-walks and timber-yards, marine barracks, and the offices of the officers of the Vormal, as the fleet is called in [[affiliation-vylrnmltry|the Vilérian military]].
 
 A shipwright of the yards, showing a new apprentice the slips, makes the point about how the city lives: "Warships go down these ways when [[affiliation-seldan|Seldan]], the Senate, votes the money, and not before. When the money is late, the yard is quiet and so is every tavern in Kastamar." Where its sister-city [[place-mercavia|Delalara]] up the coast lives by trade, Kastamar lives by the fleet. Its fortunes rise and fall with imperial naval spending, and since the loss of [[affiliation-cnfdrtntrzlnstts|Taruzel]] broke Vilérian supremacy in the eastern sea, that spending has been anxious and political. Discipline sets the city's tone, and a third of its people draw their bread, directly or not, from the navy.
 
-## Arriving
+## Arriving {#arriving}
 
 The harbor of Kastamar is closed. Two moles of heavy stone reach toward each other across the mouth of a deep round bay and leave a gap a hundred yards wide between their towers, and at night a chain of iron is drawn across it from tower to tower. A merchantman comes in by day only, by the admiralty's leave, and is given a berth on the outer quay where the marines can see her. Inside the moles the bay is the fleet's, and the first thing a newcomer notices is how much of it is empty: a long quay built for sixty warships with fewer than twenty moored along it, their oars stowed and their decks swept.
 
@@ -50,7 +50,7 @@ Under him the admiralty runs the city's life. Its clerks keep the Roll of the Fl
 
 The admiral wants a war the fleet cannot pay for. Tharkas Gurimandis writes to the Senate for the war with Taruzel in every letter, and his officers say so after him. Half his warships lie laid up in the sheds for want of crews, and the oarsmen of the rest are paid in notes that a waterfront moneylender buys at half their face from men who believe the next quarter is not coming. A shipping house of Delalara offers to hire three laid-up warships with their crews to escort its convoys east, and the admiral will not lend the fleet to merchants. Short of oarsmen for the summer, he is weighing an offer to settle Bralvik's Boat-Bill in crews.
 
-## Where a Party Lodges
+## Where a Party Lodges {#lodging}
 
 Strangers are watched in Kastamar, and a party is asked its business at the gate and again at its inn. The [Slipway]{.name data-type="place/structure"}, below the Admiralty, is the inn of officers' guests, merchants with contracts to sell and anyone with a letter to the admiral, and its keeper is a retired bosun who reports each new guest to the marines without being asked. The sailors' lodging-houses along the waterfront are cheaper, noisier and full of men waiting for the quarter, and their talk is of the Senate, the merchants and the Taruzelians, in that order.
 
@@ -69,7 +69,7 @@ The second is in 708. The islands of Taruzel rose in 707 ([[lore-taruzelwar|The 
 - **The drowned name.** A widow has found her husband's name cut on the mole among the dead of the Tamzir Shoals, and a sailor home from Taruzel says he is alive and rowing in the islands. She asks a party to find out which is true before she remarries.
 - **The answer to the bill.** The admiral is short of oarsmen for the summer and has begun to listen to the idea of settling Bralvik's Boat-Bill in crews. He sends a party to Bralvik to learn the town's price before he makes the offer.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-provincvld|Province of Salkalon]]
 : parent province

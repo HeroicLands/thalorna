@@ -15,7 +15,7 @@ data:
   packFolder: tikupilarit
 ---
 
-## Overview
+## Overview {#overview}
 
 Taqvamiq, Weir Place, stands on a high bank of a channel of the northern river of the [[place-taluqnapiqrgn|Lake Tundra]], a few days' paddle from the sea. About 300 people live in it. Below the village three weirs (_taqva_) of driftwood stakes and woven willow cross the channel, each with a basket trap at its gap, and in summer the salmon fill them faster than the women can cut and hang the fish on the racks along the bank.
 
@@ -31,7 +31,7 @@ The village follows the river. In spring the seals come up from the sea after th
 
 In spring, when the river opens, the forest hunters come down from the spruce country upriver with caribou hides, wolverine and marten fur and rolls of birch bark, and camp across the channel. The trade is done with signs over a fire on the bank: oil and dried fish for hides and fur. The forest hunters do not enter the village, and nobody of Taqvamiq goes up the river past the first spruce.
 
-## See Also
+## See Also {#see-also}
 
 [[affiliation-tikupilarit|Tikupilarit]]
 : the Ice-Edge People and their villages

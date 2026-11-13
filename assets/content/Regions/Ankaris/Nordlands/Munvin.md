@@ -14,7 +14,7 @@ The unordained meet the birds as messengers, and some in the rune-hall keep that
 
 [[being-hnirvmylwise|Hnirmil the Wise]] claims to hear Munvin's whisper in the wind, guiding him toward hidden knowledge and lost lore. The claim is his own.
 
-## See Also
+## See Also {#see-also}
 
 [[lore-hugvin|Hugvin]]
 : the raven of thought, who flies beside Munvin

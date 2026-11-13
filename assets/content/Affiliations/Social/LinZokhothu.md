@@ -44,7 +44,7 @@ A client choosing a locksmith in [[place-galezkara|Galezkara]] is told two stori
 
 Judge the locks, not the quarrel. Ask to see the work, and ask the person who made it whom they were taught by. Reputation is the thing both sides are fighting over, so the work is the part nobody can argue.
 
-## See Also
+## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]
 : the city whose locksmiths it contests

@@ -8,7 +8,7 @@ tags: [woodland]
 data: {demonym: null, lore: [], parents: [korvathis], population: 0, packFolder: provenzia}
 ---
 
-## Overview
+## Overview {#overview}
 
 Thornwood is a stretch of woodland in the [[place-korvathis|Korvatis]], close enough to the great crossroads above [[place-lizela|Lizela]], where the coast road meets the great road inland, that a band of brigands can strike the road and be back under its trees by dark. The band has no name but its captain's, and he, the cruel **Captain [[being-kalzothegain|Kalzote]]**, has a taste for horses.
 
@@ -20,7 +20,7 @@ The Dumvaral, the inn at the crossroads, stables some of the most valuable horse
 
 The bandits have grown bold enough to cost the crossroads money. Kalzote's men took two horses from the inn's stable this spring and a merchant's string on the road at midsummer, and the merchants who stable at the Dumvaral have begun to ask whether its horses are worth the risk of riding them past the wood. The innkeeper wants the band broken before the autumn traffic, and Chorvan Jarlen wants the horses back. No lord has sent men into the wood, because no lord's land ends at it.
 
-## See Also
+## See Also {#see-also}
 
 [[being-kjrvngjrln|Chorvan Jarlen]]
 : the ostler who recovers what the bandits take

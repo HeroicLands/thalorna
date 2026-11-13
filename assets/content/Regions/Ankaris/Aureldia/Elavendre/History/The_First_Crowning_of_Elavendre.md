@@ -77,7 +77,7 @@ The place where the line runs is the tree line, and the oath is the Tree-Line oa
 
 [[affiliation-bardicolgs|The Bardic Colleges]] (the Bardic Circle) and [[affiliation-groveconcl|the Grove Council]] were already old when the first king was acclaimed, older than the crown that came to need them. They became his counsel. The bards kept the genealogy that the kingdom's claim to rule rests on: the king is of the old blood, and the old blood is the Áelendan's.
 
-## What It Left
+## What It Left {#what-it-left}
 
 - **The Tree-Line oath,** sworn at every crowning, and the reason no royal magistrate, soldier or tax-collector enters Áelendan country without being asked ([[place-drenavrspn|The Drenavar Spine]]).
 - **The honor-song at Ésalosa.** The monarchs the Áelendan have invited to the Lodge are remembered in a song, and its list of kings does not match the Colleges' on one name ([[place-eshalshldg|Ésalosa Lodge]]).
@@ -86,7 +86,7 @@ The place where the line runs is the tree line, and the oath is the Tree-Line oa
 
 The kingdom is the oldest continuously governed realm in the west of [[place-ankrscntnnt|Ankaris]], older than the [[affiliation-vylarinmpr|Empire]] by more than five centuries, and a good deal younger than the [Kindred Pact]{.name data-type="lore/law"}.
 
-## See Also
+## See Also {#see-also}
 
 - [[affiliation-kngdmlvndr|Kingdom of Élavendre]]—the realm the first crowning began
 - [[place-eshalshldg|Ésalosa Lodge]]—where the oath is sworn

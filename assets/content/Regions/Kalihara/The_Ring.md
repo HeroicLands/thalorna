@@ -14,7 +14,7 @@ data:
   culture: kaliharanclt
 ---
 
-## Overview
+## Overview {#overview}
 
 The Ring is the first thing of [[place-klhrcntnnt|Kalihara]] a ship raises and the last thing a foreigner understands about it. Tall mountains stand all the way round the island, and their peaks, wrapped in cloud for most of the year, show from far out at sea. Nothing a foreigner sees from the water or from the quays of the four ports lies beyond them.
 
@@ -28,7 +28,7 @@ Overland travel across the Ring is impractical for anyone who does not know the 
 
 The custodians hold that [[place-sulvaan|the Warm]] keeps the Ring's mountains asleep. Nothing confirms it.
 
-## See Also
+## See Also {#see-also}
 
 [[place-klhrcntnnt|Kalihara]]
 : the island the Ring encloses
@@ -47,3 +47,7 @@ The custodians hold that [[place-sulvaan|the Warm]] keeps the Ring's mountains a
 
 [[place-kaliharargn|Kalihara Region]]
 : the country within and below the Ring
+
+[[place-kuomethei|Kuomethei]]
+
+[[place-windstones|The Wind-Stones]]

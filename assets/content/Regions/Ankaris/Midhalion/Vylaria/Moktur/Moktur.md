@@ -19,7 +19,7 @@ data:
   government: provncmktr
 ---
 
-## Overview
+## Overview {#overview}
 
 Two million people live in the mountains along the northern edge of the [[place-vylariargn|Viléria Region]], against the [[place-vrystwald|Vristwald]], among mines, timber and fortified valleys. This is Moktur, the land of the [[affiliation-provncmktr|Province of Moktur]] of the [[affiliation-vylarinmpr|Vilérian Empire]]. Its seat is [[place-tyrellan|Tirellan]]. The Empire organized the land as a march when it cut [[lore-legionsroad|the Legions' Road]] north into the Vristwald, and the marshes below its passes saw [[lore-blackmarshbtl|the Battle of the Black Marsh]].
 
@@ -44,7 +44,7 @@ Mining and timber are the primary industries, supplemented by herding and limite
 
 Moktur is the province the capital can neither lose nor hold. It cannot lose it, because the frontier towers, the legion at [[place-dolvar|Dolvar]] and the silver of [[place-ferrovan|Zargonara]] stand between the Vristwald and the wheat of the south. It cannot hold it, because the treasury's coin reaches the north late or not at all, and the men who keep the frontier are paid by whoever has coin on the day. The _therkos_ at [[place-tyrellan|Tirellan]] pays his own auxiliaries, the legion waits on the capital, and the frontier is kept by arrangements made on the spot: the truce boys in Dolvar's House of Guests, the command of the gate at [[place-korrast|Korras]] that the border lords bid for each spring, the headmen's rule at [[place-pinnhald|Pinnhald]]. Every one of them is under strain this year.
 
-## Settlements
+## Settlements {#settlements}
 
 Moktur's settlements are few, fortified, and strung along the mountain valleys and the garrison roads.
 
@@ -81,7 +81,7 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 - **The tower that is silent.** The _vandraks_ at [[place-dolvar|Dolvar]] is short of men and of coin, and hires a party to ride up to a tower whose smoke tally is late.
 - **The midsummer banner.** A border lord refused the gate of [[place-korrast|Korras]] says he will take it at midsummer, and both he and the commander want to know who the other can call on.
 
-## See Also
+## See Also {#see-also}
 
 [[place-blackmarshfld|The Blood-field of the Black Marsh]]
 : the marsh below the Vandstein passes
