@@ -4,7 +4,7 @@ name: {full: The Spear of Skraldthira}
 type: miscgear
 description: "One of the three regalia of Groa's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
 tags: [artifact, regalia, nordlands]
-data: {templatePriority: null, packFolder: nordlands}
+data: {kind: miscgear, templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 5, valueBase: 0, durabilityBase: 15}}
 ---
 

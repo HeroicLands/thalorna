@@ -4,7 +4,12 @@ name: {full: The Banner-Staff of Zargandur, en: [Budishai's Staff]}
 type: miscgear
 description: "The staff of the war-house's banner, carried in the last sortie of Zargandur by Budishai, who did not drop it; it stands in the filled trench of Henhutpedin with its cloth rotted off and its bearer beneath it, on a field nobody walks at night."
 tags: [artifact, khazryn]
-data: {icon: icon-polearm, templatePriority: null, packFolder: khazryndesert, unique: true}
+data:
+  kind: miscgear
+  icon: icon-polearm
+  templatePriority: null
+  packFolder: khazryndesert
+  unique: true
 sohl: {system: {weightBase: 8, valueBase: 0, qualityBase: 0, durabilityBase: 15}}
 ---
 

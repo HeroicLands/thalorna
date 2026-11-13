@@ -4,7 +4,12 @@ name: {full: The Lineage Lamp of Shirvan, en: [The Lamp of Shirvan]}
 type: miscgear
 description: "The lamp of the great fire-temple of Ataros at Shirvan, the first entry in its fire-lineage, which the temple's Shekhul carries up Mount Shofar to be relit at the Unconsuming Flame every festival; Valsuma has carried it for twenty-six years and is too frail to carry it again."
 tags: [artifact, khazryn]
-data: {icon: icon-firebdg, templatePriority: null, packFolder: khazryndesert, unique: true}
+data:
+  kind: miscgear
+  icon: icon-firebdg
+  templatePriority: null
+  packFolder: khazryndesert
+  unique: true
 sohl: {system: {weightBase: 2, valueBase: 0, qualityBase: 0, durabilityBase: 15}}
 ---
 

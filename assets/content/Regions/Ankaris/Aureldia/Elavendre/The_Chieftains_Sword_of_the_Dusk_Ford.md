@@ -4,7 +4,12 @@ name: {full: The Chieftain's Sword of the Dusk Ford, en: [The Chieftain's Sword]
 type: miscgear
 description: "A Nordmen chieftain's long sword with a wrapped hilt that lies among the raiders' plunder in the tally-house beyond the Dusk Ford, and carries the debt of the chieftain who gave his name to cross and sits on a bench in the nearest ship."
 tags: [artifact, elavendre]
-data: {icon: icon-sword, templatePriority: null, packFolder: elavendre, unique: true}
+data:
+  kind: miscgear
+  icon: icon-sword
+  templatePriority: null
+  packFolder: elavendre
+  unique: true
 sohl: {system: {weightBase: 4, valueBase: 0, qualityBase: 0, durabilityBase: 14}}
 ---
 

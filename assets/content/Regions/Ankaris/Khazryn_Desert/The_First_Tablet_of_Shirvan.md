@@ -4,7 +4,12 @@ name: {full: The First Tablet of Shirvan, en: [The First Tablet]}
 type: miscgear
 description: "The tablet the first lineage of the Tellumi carried unpressed down from the snow peak and pressed at the spring of Shirvan with one word, here; the House of Shirvan keeps it at its court in exile in Shebarakhend and shows it to nobody outside the house."
 tags: [artifact, khazryn]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: khazryndesert, unique: true}
+data:
+  kind: miscgear
+  icon: icon-coinsbdg
+  templatePriority: null
+  packFolder: khazryndesert
+  unique: true
 sohl: {system: {weightBase: 1, valueBase: 0, qualityBase: 0, durabilityBase: 1}}
 ---
 
