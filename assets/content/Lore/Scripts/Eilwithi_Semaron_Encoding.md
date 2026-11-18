@@ -102,6 +102,7 @@ data:
   rules:
     normalization: NFC
     matching: longest-first
+    roundTrip: none
     case:
       single-letter: preserve
       consonant-group: lowercase-or-initial-uppercase
@@ -124,7 +125,8 @@ data:
 
 Eilwìthi is written in [[skill-semrnscrpt|Semaron]], in the Kuriale hand.
 This encoding writes [[skill-aelwthlng|Eilwìthi]] Roman spelling. The [[skill-aelwthlng#pronunciation|language note]] defines its pronunciation,
-grammar and words.
+grammar and words. Where several spellings share a sign, decoding returns
+every one of them in brackets, separated by `|`.
 
 ## Letters and groups
 
@@ -159,7 +161,7 @@ A grave writes a short vowel, as in the common guide. Eilwìthi uses one, ì,
 the short i of sit, as in Eilwìth. Semaron draws the short vowel with the same
 sign as the plain one, so ì writes ILTHERA followed by the font's non-printing
 SHORT mark, and Ì writes the majuscule with the same mark. The mark keeps the
-grave in the native text, so decoding restores it exactly. No other grave is
+grave in the native text, so decoding writes ì and Ì again. No other grave is
 accepted.
 
 ## Word spelling
