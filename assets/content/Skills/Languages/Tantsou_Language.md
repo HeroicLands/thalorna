@@ -6450,7 +6450,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-tantsoulng'
 A syllable rests on one of these finals, and on nothing else. A _w_ or a _y_ before a vowel glides into it, so _chwen_ and _chyau_ are each one syllable.
 
 ```sql
-SELECT '_' || final || '_' AS "Final", "like" AS "Sounds like"
+SELECT '_' || final || '_' AS "Final"
 FROM finals WHERE language = 'thalorna-note-skill-tantsoulng' ORDER BY position
 ```
 
