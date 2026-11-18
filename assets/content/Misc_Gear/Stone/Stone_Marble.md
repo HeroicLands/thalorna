@@ -4,7 +4,7 @@ name: {full: "Stone, Marble"}
 type: miscgear
 description: "Banded metamorphic stone; costly beautiful durable; altars, memorials, noble halls."
 tags: [stone]
-data: {icon: swapbag, templatePriority: 0, packFolder: stone}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: stone}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: stone

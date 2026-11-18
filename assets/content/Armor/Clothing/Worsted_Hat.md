@@ -4,7 +4,7 @@ name: {full: Worsted Hat}
 type: armorgear
 description: "Tightly-spun wool hat; durable, stylish head covering."
 tags: []
-data: {icon: pointyhat, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: pointyhat, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

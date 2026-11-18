@@ -4,7 +4,7 @@ name: {full: "Holy Symbol, silver"}
 type: miscgear
 description: "Silver sign of a god, chased by a jeweller; a cleric's badge of office."
 tags: [religious]
-data: {icon: swapbag, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: religious

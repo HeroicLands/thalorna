@@ -13,6 +13,12 @@ data:
     hair_color: {dark_brown: 5, black: 4, brown: 2}
     skin_color: {tawny: 4, olive: 3, brown: 3, golden: 2, dark_brown: 2, ebony: 1}
     complexion: {sun_kissed: 4, clear: 3, smooth: 2, weathered: 1}
+    hair_texture: {wavy: 4, curly: 3, coily: 1, straight: 2}
+    hair_style: {short: 3, shoulder_length: 3, cropped: 2, braided: 1, long: 1}
+    face_shape: {oval: 4, round: 2, long: 2, heart: 1}
+    nose: {straight: 3, broad: 3, aquiline: 2, narrow: 1}
+    brow: {arched: 3, straight: 3, bushy: 2, thin: 1}
+    mouth: {full: 4, wide: 2, thin: 1}
     height: {female: {min: 5' 1", max: 5' 9"}, male: {min: 5' 5", max: 6' 0"}}
 
 # terran_analog: "The Nile delta and the Mediterranean coast of Egypt: a lowland of marsh channels, ports and orchards where the river meets the sea and a long run of traders, settlers and sailors has mixed with the valley people. Carries over: a cosmopolitan, polyglot, mercantile coast and a river-valley neighbor that thinks it faintly suspect. Departs: the delta provinces are ten selatu of an empire whose gods, script and law are the valley's own."

@@ -4,7 +4,7 @@ name: {full: Mail Longshirt}
 type: armorgear
 description: "Metal ring torso and upper arm garment providing substantial protection."
 tags: []
-data: {icon: chainmail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: chainmail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

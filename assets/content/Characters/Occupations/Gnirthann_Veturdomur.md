@@ -24,6 +24,7 @@ data:
     hair_color: auburn
     skin_color: olive
     complexion: [smooth]
+    facial_hair: short_beard
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

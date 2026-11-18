@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [nordheim]
   population: 250
+  market: local
+  type: village
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Border Settlement"
 ---
 
 ## Overview {#overview}

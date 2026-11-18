@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 35000
+  market: international
+  type: city
   packFolder: citystates
   government: okharis
+  notes: "Trading Port"
 ---
 
 **meaning:** _The Golden Flame_

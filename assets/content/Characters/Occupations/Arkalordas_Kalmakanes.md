@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [scarred]
+    nose: aquiline
+    brow: straight
+    mouth: thin
     extra_features: [a scar on the right calf and a Seaman's Guild tattoo on his right arm]
   packFolder: midhalionvylaria
 sohl:

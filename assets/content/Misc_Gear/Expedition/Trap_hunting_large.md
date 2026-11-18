@@ -4,7 +4,7 @@ name: {full: "Trap, hunting, large"}
 type: miscgear
 description: "Heavy iron jaw-trap for deer and boar; set along game trails."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

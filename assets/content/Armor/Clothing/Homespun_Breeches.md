@@ -4,7 +4,7 @@ name: {full: Homespun Breeches}
 type: armorgear
 description: "Simple homemade cloth breeches; practical for laborers and farmers."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

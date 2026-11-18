@@ -13,6 +13,12 @@ data:
     hair_color: {brown: 4, dark_brown: 3, blonde: 2, dark_blonde: 2, black: 2, red: 1, auburn: 1}
     skin_color: {fair: 3, light: 3, tanned: 3, medium: 2, olive: 1}
     complexion: {weathered: 4, ruddy: 2, sun_kissed: 2, clear: 2, freckled: 1}
+    hair_texture: {straight: 3, wavy: 4, curly: 3}
+    hair_style: {short: 3, shoulder_length: 3, long: 2, braided: 2, cropped: 1}
+    face_shape: {round: 3, square: 2, oval: 2, broad: 2, long: 1}
+    nose: {straight: 3, broad: 2, aquiline: 2, crooked: 2, snub: 1}
+    brow: {bushy: 3, straight: 3, arched: 2, heavy: 1}
+    mouth: {thin: 3, wide: 2, full: 2, small: 1}
     height: {female: {min: 5' 2", max: 5' 11"}, male: {min: 5' 5", max: 6' 4"}}
 
 # terran_analog: "A free port of the northern seas with a Norse old city and a Norman and Mediterranean merchant quarter, governed like a Hanseatic or Venetian merchant republic. Carries over: shipping houses that are families and firms at once, marine insurance and shares in hulls, an oral sea-law kept by a professional caste, guest-right. Departs: seats weighted by tonnage counted each spring, and a Harbormaster of a single term."

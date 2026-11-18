@@ -4,7 +4,7 @@ name: {full: "Jar, ointment, medium"}
 type: containergear
 description: "Ceramic apothecary jar with wide mouth for creams and medicinal tinctures."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system:

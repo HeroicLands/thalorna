@@ -35,6 +35,8 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [weathered, scarred]
+    hair_style: cropped
+    brow: straight
     extra_features: [a healed saber cut across the left forearm, a rider's calluses on both palms]
   packFolder: ankariskhazryndesert
 ---

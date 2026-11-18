@@ -4,7 +4,7 @@ name: {full: Beaver Sleeved Tunic}
 type: armorgear
 description: "Beaver fur tunic providing warmth and elegance for northern climates."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

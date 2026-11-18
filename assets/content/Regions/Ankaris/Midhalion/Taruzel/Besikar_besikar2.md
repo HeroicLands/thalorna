@@ -10,12 +10,15 @@ data:
   lore: [humanflk]
   parents: [qalirel]
   population: 400000
+  type: city
+  market: international
   routes:
     - {to: pashinar, bearing: SE, mode: land, days: 5, terrain: [road, hills]}
     - {to: sharimun, bearing: SW, mode: land, days: 2, terrain: [road, plain]}
     - {to: valthari, bearing: NW, mode: ship, days: 5, terrain: [open-sea]}
   packFolder: taruzel
   government: besikar
+  notes: "The largest and wealthiest city of Taruzel and the seat of its Grand Council: a marble Guild Quarter along the finest anchorage on the Vilérian Sea, a Khelathi factorage on its own quay, and an old city of covered bazaars and tenements whose people have no vote."
 ---
 
 ## Overview {#overview}

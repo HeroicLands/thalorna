@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Ritual binding substantial arcane energy into vessel; months-long persistence."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

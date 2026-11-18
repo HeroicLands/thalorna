@@ -26,6 +26,12 @@ data:
     hair_color: white
     skin_color: brown
     complexion: [weathered]
+    hair_texture: wavy
+    hair_style: braided
+    face_shape: round
+    nose: straight
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: kiichchikshuqash
 ---

@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 340
+  market: local
+  type: village
   packFolder: okharis
   government: ngorashatrb
+  notes: "Fishing village of the Ngorasha tribe on a river of Okharis."
 ---
 
 ## Overview {#overview}

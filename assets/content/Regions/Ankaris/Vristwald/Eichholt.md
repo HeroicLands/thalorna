@@ -10,12 +10,15 @@ data:
   lore: [deerttm]
   parents: [edriwald]
   population: 390
+  market: local
+  type: village
   borders: [{to: edrihaven, bearing: W}, {to: thalgrund, bearing: E}]
   routes:
     - {to: edrihaven, bearing: W, mode: land, days: 2, terrain: [track, forest]}
     - {to: thalgrund, bearing: E, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Edriwald."
 ---
 
 ## Overview {#overview}

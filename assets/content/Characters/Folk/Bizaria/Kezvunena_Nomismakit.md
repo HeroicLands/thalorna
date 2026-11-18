@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: golden
     complexion: [sun_kissed]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: oval
+    nose: aquiline
+    brow: bushy
+    mouth: small
     extra_features: []
   packFolder: helladbyzaria
 ---

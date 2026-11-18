@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [scarred]
+    face_shape: oval
     extra_features: [a scar on the left side of the neck]
   packFolder: regkhhk
 sohl:

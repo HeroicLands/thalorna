@@ -5,14 +5,22 @@ type: place
 subType: settlement
 description: "The seat of the realm of astronomers and scribes in the limestone lowlands of the east: a white city around a round tower, home of the Star House that reckons the days for every city the cords reach."
 tags: [city]
-data: {demonym: null, lore: [], parents: [kankulrgn], population: 120000, government: kankul}
+data:
+  demonym: null
+  lore: []
+  parents: [kankulrgn]
+  population: 9000
+  type: town
+  market: regional
+  government: kankul
+  notes: "The seat of the realm of astronomers and scribes in the limestone lowlands of the east: a white city around a round tower, home of the Star House that reckons the days for every city the cords reach."
 
 # terran_analog: Chichen Itza, its round observatory and its sacred well, with the painted books of the lowland courts; the Star House stands in for no Earth institution
 ---
 
 ## Overview {#overview}
 
-The first thing a traveler sees of K'ankul, across the flat green of the lowland jungle, is a round tower. It stands on a two-tiered platform at the western edge of the city, plastered white, with a domed top and a few small square windows high in its side, and at dusk a light shows in one of them. The tower is the sighting house of [[affiliation-ishilanshulum|the Star House]], the college of reckoners that computes the day-tables for every city on the continent the cords reach, and K'ankul's standing among the realms rests on it. K'ankul is a city of about 120,000 people in the limestone lowlands of the [[place-kankulrgn|K'ankul Region]], and the seat of the realm of [[affiliation-kankul|K'ankul]], the intellectual heart of Kì'ìch'chik civilization.
+The first thing a traveler sees of K'ankul, across the flat green of the lowland jungle, is a round tower. It stands on a two-tiered platform at the western edge of the city, plastered white, with a domed top and a few small square windows high in its side, and at dusk a light shows in one of them. The tower is the sighting house of [[affiliation-ishilanshulum|the Star House]], the college of reckoners that computes the day-tables for every city on the continent the cords reach, and K'ankul's standing among the realms rests on it. K'ankul is a city of about 9,000 people in the limestone lowlands of the [[place-kankulrgn|K'ankul Region]], and the seat of the realm of [[affiliation-kankul|K'ankul]], the intellectual heart of Kì'ìch'chik civilization.
 
 ## The City
 

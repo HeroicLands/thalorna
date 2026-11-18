@@ -4,7 +4,7 @@ name: {full: Trishula}
 type: weapongear
 description: "Sacred three-pronged polearm symbolizing cosmic order and battlefield virtue."
 tags: []
-data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm

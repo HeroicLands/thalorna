@@ -4,7 +4,7 @@ name: {full: Keys}
 type: miscgear
 description: "Iron keys on leather thong or ring; merchants and stewards carry daily."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: lock, secondary: [mtlc]}
   kbcat: expedition

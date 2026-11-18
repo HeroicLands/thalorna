@@ -9,10 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [klhrmassif]
-  population: null
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "The oldest and largest sanctuary of Kalihara's custodians, on a shoulder of the Massif in the middle of the Bowl Lake, where the deepest archives of inherited procedure are kept."
 ---
 
 ## Overview {#overview}

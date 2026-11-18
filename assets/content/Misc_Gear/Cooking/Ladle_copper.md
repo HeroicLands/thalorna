@@ -4,7 +4,7 @@ name: {full: "Ladle, copper"}
 type: miscgear
 description: "Tinned copper ladle with long handle; serves hot liquids from cauldron safely."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

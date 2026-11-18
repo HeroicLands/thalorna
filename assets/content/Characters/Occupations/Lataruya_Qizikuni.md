@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [sun_kissed]
+    face_shape: long
+    brow: arched
+    mouth: thin
     extra_features: [a tattoo of a leaf on the wrist]
   packFolder: midhaliontaruzel
 sohl:

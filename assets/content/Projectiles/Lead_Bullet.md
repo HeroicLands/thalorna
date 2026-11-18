@@ -5,7 +5,7 @@ type: projectilegear
 subType: bullet
 description: "Cast lead almond-shaped ball; farther-flying, harder-striking than stone; pierces gambesons."
 tags: []
-data: {icon: stonepile, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: stonepile, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: mtlc, secondary: []}
   traits: {ARvalue: 0, bleed: false}

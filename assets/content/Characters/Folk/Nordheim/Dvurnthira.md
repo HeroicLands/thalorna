@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: fair
     complexion: [freckled]
+    hair_texture: wavy
+    hair_style: knotted
+    face_shape: broad
+    nose: straight
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

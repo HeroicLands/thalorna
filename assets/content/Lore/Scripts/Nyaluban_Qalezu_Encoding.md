@@ -126,7 +126,7 @@ data:
   rules:
     normalization: NFC
     matching: longest-first
-    roundTrip: canonical
+    roundTrip: none
     contextual-mappings:
       - {match: a, at: start, emit: CATCH}
       - {match: e, at: start, emit: CATCH}

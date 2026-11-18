@@ -4,7 +4,7 @@ name: {full: "Jug, ceramic, 1 gallon"}
 type: containergear
 description: "Narrow-necked earthenware jug with a loop handle for pouring (1 gallon)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 5, valueBase: 8, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 8}

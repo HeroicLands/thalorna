@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered]
+    brow: arched
     extra_features: []
   packFolder: regkhhk
 sohl:

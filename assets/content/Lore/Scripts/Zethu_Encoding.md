@@ -8,7 +8,7 @@ data:
   language: zxx
   font: khelathi-zethu-glyphs
   mappings: {}
-  rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
+  rules: {normalization: NFC, matching: longest-first, roundTrip: exact}
   accepts: []
 ---
 

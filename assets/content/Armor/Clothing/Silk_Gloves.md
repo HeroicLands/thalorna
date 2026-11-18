@@ -4,7 +4,7 @@ name: {full: Silk Gloves}
 type: armorgear
 description: "Soft silk gloves; luxury touch for formal occasions and high-status."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: gloves, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

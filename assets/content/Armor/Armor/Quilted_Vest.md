@@ -4,7 +4,7 @@ name: {full: Quilted Vest}
 type: armorgear
 description: "Sleeveless padded vest; core warmth without arm-weight."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leathervest, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

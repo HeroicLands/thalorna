@@ -24,6 +24,10 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [weathered]
+    face_shape: broad
+    nose: straight
+    brow: arched
+    mouth: full
     extra_features: [a tattoo of a lion's mane on the chest]
   packFolder: ankarisnordlands
 sohl:

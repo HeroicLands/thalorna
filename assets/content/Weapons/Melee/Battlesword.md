@@ -4,7 +4,7 @@ name: {full: Battlesword}
 type: weapongear
 description: "Broad heavy blade for mounted sweeping cuts; pitched-field workhorse."
 tags: []
-data: {icon: broadsword, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: broadsword, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: sword

@@ -4,7 +4,7 @@ name: {full: "Pipe, smoking"}
 type: miscgear
 description: "Fruitwood or horn pipe for tobacco; carved for nobles, plain for soldiers."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: expedition

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Restores caster's spent energy; regains magical power quickly."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

@@ -26,6 +26,12 @@ data:
     hair_color: {dark_brown: 5, black: 4, brown: 3, auburn: 1, dark_blonde: 1}
     skin_color: {light: 4, tanned: 4, olive: 2, golden: 1, fair: 1}
     complexion: {weathered: 4, sun_kissed: 3, smooth: 2, ruddy: 1}
+    hair_texture: {wavy: 4, curly: 3, straight: 3}
+    hair_style: {short: 3, shoulder_length: 3, long: 2, knotted: 1, braided: 1}
+    face_shape: {oval: 3, long: 2, square: 2, angular: 2, round: 1}
+    nose: {aquiline: 4, straight: 3, hooked: 1, broad: 1, crooked: 1}
+    brow: {arched: 3, bushy: 3, straight: 2, heavy: 1}
+    mouth: {full: 3, thin: 3, wide: 1, small: 1}
     height: {female: {min: 5' 4", max: 6' 1"}, male: {min: 5' 6", max: 6' 5"}}
 
 # terran_analog: "Classical and Byzantine-era Anatolia (philosophical city-states, caravan crossroads, an upland plateau behind the coast, frontier marches facing the Persian and Pontic worlds). Carries over: crossroads cities of mixed Helonik, Levantine and Persian-world families, guild-chartered trade, monasteries serving an eastern-rite civic faith. Departs: five cities held together by a reputation for keeping terms, with professional arbitrators and guild enforcement in place of feud."

@@ -4,7 +4,7 @@ name: {full: Kûrbúl Cuirass}
 type: armorgear
 description: "Specially treated leather torso armor for those prioritizing agility."
 tags: []
-data: {icon: breastplate, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: breastplate, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

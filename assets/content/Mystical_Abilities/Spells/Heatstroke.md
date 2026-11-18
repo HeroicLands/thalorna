@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Accelerates victim's body temperature; induces exhaustion and eventual collapse."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

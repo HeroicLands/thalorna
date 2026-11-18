@@ -24,6 +24,8 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [smooth]
+    face_shape: long
+    brow: arched
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

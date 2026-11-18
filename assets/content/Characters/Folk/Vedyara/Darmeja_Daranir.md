@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [smooth]
+    hair_style: short
+    facial_hair: none
     extra_features: [A red silk sash, dyed to match his sail]
   packFolder: ankarisvedyara
 sohl:

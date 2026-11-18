@@ -4,7 +4,7 @@ name: {full: "Pot, cooking, large"}
 type: containergear
 description: "Iron cookpot with wire handle; hangs over fire or sits in embers."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 2.3, valueBase: 4, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 4}

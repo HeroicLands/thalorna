@@ -10,8 +10,11 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 540
+  market: local
+  type: village
   government: vrgldhld
   packFolder: eilwith
+  notes: "The summer pasture village above the tree line, and the source of the cheese that goes up to the Gate."
 ---
 
 **Highfold** is the highest grazing, a scatter of stone steadings around a village of three hundred and

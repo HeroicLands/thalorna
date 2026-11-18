@@ -4,7 +4,7 @@ name: {full: Composite Crossbow 300}
 type: weapongear
 description: "Three-hundred pound windlass-spanned arbalest; wall-breach devastating volley."
 tags: []
-data: {icon: crossbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: crossbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: crossbow

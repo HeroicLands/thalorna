@@ -24,6 +24,9 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [sun_kissed]
+    hair_style: knotted
+    face_shape: broad
+    nose: straight
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

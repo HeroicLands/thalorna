@@ -4,7 +4,7 @@ name: {full: Kaliharan Cardamom}
 type: miscgear
 description: "Cardamom pods packed in a sealed gourd, the island's principal export, passing through Ilovanu to Vedyara, Taruzel and the western kingdoms."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   system: {weightBase: 1.5, valueBase: 90, qualityBase: 0, durabilityBase: 4}

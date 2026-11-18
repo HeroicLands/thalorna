@@ -4,7 +4,7 @@ name: {full: Mail Sleeved Byrnie}
 type: armorgear
 description: "Long sleeved metal ring shirt providing substantial torso and arm protection."
 tags: []
-data: {icon: chainmail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: chainmail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

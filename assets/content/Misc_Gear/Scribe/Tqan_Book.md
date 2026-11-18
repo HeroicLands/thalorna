@@ -4,7 +4,7 @@ name: {full: Tq'an Book, kiichek: [Tq'an P'ilam]}
 type: miscgear
 description: "A temple's folded record of what each sign of the 260-day count brought at its last turn, read aloud at the month's close."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 1.2, valueBase: 200, qualityBase: 0, durabilityBase: 4}}
 ---
 

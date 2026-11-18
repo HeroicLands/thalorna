@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [nordheim]
   population: 300
+  market: local
+  type: village
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Ritual Site / Ancient Settlement"
 ---
 
 ## Overview {#overview}

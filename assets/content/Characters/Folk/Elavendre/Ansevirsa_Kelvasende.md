@@ -30,6 +30,7 @@ data:
     hair_color: chestnut
     skin_color: fair
     complexion: [freckled]
+    face_shape: round
     extra_features: [a deep crease between the brows]
   packFolder: aureldiaelavendre
 ---

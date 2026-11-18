@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Sound magic amplifying and redirecting acoustic waves dangerously."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

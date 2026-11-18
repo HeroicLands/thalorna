@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 600
+  market: local
+  type: village
   government: trbtvrzvd
   packFolder: dunharadesert
+  notes: "A small oasis whose spring has never failed, the summer seat of the chieftain Torvash Shiradar's tribe."
 ---
 
 The Oasis of Tevrazavad is a small, permanent oasis in the [[place-dunhardsrtrgn|Dunhara Desert]], a pool under date palms fed by a spring that has never been known to fail. A tribe that holds a spring that never fails holds a fortune, and the tribe that holds Tevrazavad by right of usage camps there through the hottest months, when every other water on its circuit has shrunk to mud.

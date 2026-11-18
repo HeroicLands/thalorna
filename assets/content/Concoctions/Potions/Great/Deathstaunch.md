@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Nearly black crystalline preparation; stops bleeding and rapid death."
 tags: [great-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: great}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

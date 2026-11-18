@@ -4,7 +4,7 @@ name: {full: K'otsel Ledger, kiichek: [K'otsel]}
 type: miscgear
 description: "A valley's households, harvests, herds and stores knotted into cord; the inspector's check on its lords."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
   craft: {skill: txtl, secondary: []}

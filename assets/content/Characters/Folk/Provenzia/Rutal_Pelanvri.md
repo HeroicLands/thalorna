@@ -30,6 +30,8 @@ data:
     hair_color: greying_brown
     skin_color: tanned
     complexion: [weathered, ruddy]
+    hair_style: short
+    nose: crooked
     extra_features: [a broken nose set slightly crooked]
   packFolder: aureldiaprovenzia
 ---

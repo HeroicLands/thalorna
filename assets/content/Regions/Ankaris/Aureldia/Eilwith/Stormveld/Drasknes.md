@@ -11,8 +11,11 @@ data:
   parents: [nordfells]
   routes: [{to: stormveil, bearing: S, mode: land, days: 3, terrain: [hills, track]}]
   population: 1800
+  market: regional
+  type: town
   packFolder: eilwith
   government: jrldmstrmvld
+  notes: "The one harbor of the Nordfells, a jarl's hall on a beacon headland on Stormveld's northern coast, living on the coasters who put in there rather than at Stormveil."
 ---
 
 ## Overview {#overview}

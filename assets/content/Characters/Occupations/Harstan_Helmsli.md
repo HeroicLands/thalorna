@@ -25,6 +25,9 @@ data:
     hair_color: red
     skin_color: fair
     complexion: []
+    face_shape: long
+    nose: straight
+    mouth: thin
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

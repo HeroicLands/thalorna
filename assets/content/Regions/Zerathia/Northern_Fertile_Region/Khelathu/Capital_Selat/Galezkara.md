@@ -11,8 +11,11 @@ data:
   lore: []
   parents: [galezkaraslt]
   population: 450000
+  type: city
+  market: international
   packFolder: regkhsett
   government: empireakhlth
+  notes: "Imperial City (Capital)"
 ---
 
 ## Overview {#overview}

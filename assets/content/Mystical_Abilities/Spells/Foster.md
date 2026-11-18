@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Accelerates growth; crops ripen fast and creatures mature rapidly."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

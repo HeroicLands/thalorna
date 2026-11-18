@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Radiates steady light from caster; illuminates surroundings without heat."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

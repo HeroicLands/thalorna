@@ -4,7 +4,7 @@ name: {full: Bone-and-Ivory Armor}
 type: armorgear
 description: "Overlapping plates of bone and ivory laced on a hide backing; the Ice-Edge People's armor, kept in use only on the Trading Shore."
 tags: []
-data: {icon: sohl-none-icon-cloak, templatePriority: null, packFolder: armorarmor}
+data: {kind: armor, icon: sohl-none-icon-cloak, templatePriority: null, packFolder: armorarmor}
 sohl:
   kbcat: plate
   armorType: Plate

@@ -4,7 +4,7 @@ name: {full: Plums}
 type: miscgear
 description: "Late-summer dried fruit, chewy nuggets sustaining soldiers through cold winter."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

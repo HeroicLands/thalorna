@@ -25,6 +25,7 @@ data:
     hair_color: chestnut
     skin_color: olive
     complexion: [weathered]
+    hair_style: braided
     extra_features: [a tattoo of a spider on the shoulder]
   packFolder: aureldiaprovenzia
 sohl:

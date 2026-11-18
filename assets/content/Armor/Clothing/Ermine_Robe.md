@@ -4,7 +4,7 @@ name: {full: Ermine Robe}
 type: armorgear
 description: "Full-length ermine robe; ceremonial dress of the highest rank."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: robe, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

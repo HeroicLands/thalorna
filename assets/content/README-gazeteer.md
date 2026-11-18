@@ -312,12 +312,12 @@ is judged when the land's rendered pages are read.
 A place is written as deep as a party is likely to need it, which is not the same
 as how large or old it is. There are four depths, and a deeper one never removes
 a shallower one: a city with a full note still has its line in its parent and its
-row in the region's settlement table.
+row in its polity's settlement list.
 
 | Depth        | Form                                                                  | Size                   |
 | ------------ | --------------------------------------------------------------------- | ---------------------- |
 | Index line   | the parent names and links the child, or lists it with an `sql` table | one line               |
-| Row          | a row in the region's `data.settlements`                              | one row                |
+| Row          | a row in the polity's `data.settlements`                              | one row                |
 | Summary note | its own note, with its outline's required slots                       | about 250–600 words    |
 | Full note    | its own note at its full outline, with named people and its present   | about 900 words and up |
 
@@ -386,8 +386,8 @@ crosses two shires is a region, and each shire is a district.
 
 The other kinds are tags or live elsewhere:
 
-- **A hamlet** is tagged `hamlet`, and is a row in its region's settlement table
-  until it earns a note.
+- **A hamlet** has `data.type: hamlet`, and is a row in its polity's
+  `data.settlements` until it earns a note.
 - **A manor** is a settlement tagged `village`. A `manor` tag is declared when a
   land needs one.
 - **A religious house** keeps its offices on its faith's affiliation note; the
@@ -406,23 +406,111 @@ The person in charge is never written as a key on the place: it is the holder of
 the governing body's first-listed office, derived from the beings who hold it.
 
 **Tenure is never labeled.** No tag or key names a holding model. Where a
-culture holds land, a row of its region's settlement table may name what holds
+culture holds land, a row of its polity's settlement list may name what holds
 the settlement by address, and the meaning follows from what that address is: a
 temple, a lineage, the city, a kin group or a person. Where land is not owned,
 no row names a holder. Who governs and who holds are separate facts: a
 settlement may be governed by the crown and held by a temple. Disputed holdings,
 crown estates and endowments are told in prose.
 
-**A region declares its settlement table in `data.settlements`**, as `rows` and a
-`tail`. Each row gives a settlement's `place` (its note's address) or `name`
-(plain text, where it has no note), its `market` (the class from 1 to 6) and
-`population`, and optionally its holder, as `heldBy` (an address) or `holder`
-(plain text), and a `for` phrase saying why the place is there. The `tail` is the
-sentence stating what the table leaves out. Where a row links a note, the two
-agree, and every settlement note has its row in the nearest region above it
-that declares a table. The table is
-generated from this data; a hand-written table under `## Settlements` is refused.
-The package-build format reference gives the full shape.
+**A polity lists its settlements in `data.settlements`.** A region never does:
+a region carries no settlement list, and a `data.settlements` on a `place` is an
+error. The list holds the polity's directly held settlements that have no note of
+their own; a settlement with a note states the same facts in its own `data` and
+has no row. The build merges the two sources into a Settlements table of the
+polity's direct subjects and a Settlement index of every settlement beneath it,
+and the same generated tables appear on the website, in Foundry and in books. A
+hand-written table under `## Settlements` is refused. Each row is a mapping with
+these fields, all required unless marked:
+
+| Field           | Value                                                                           |
+| --------------- | ------------------------------------------------------------------------------- |
+| `settlement`    | the settlement's name, plain nonempty text                                      |
+| `polity`        | the governing polity, as an address (`affiliation-<shortcode>`) or a plain name |
+| `location`      | the enclosing place, as an address (`place-<shortcode>`)                        |
+| `type`          | `encampment`, `homestead`, `hamlet`, `village`, `town`, `city` or `metropolis`  |
+| `fortification` | optional: `none`, `minimal`, `palisade`, `walled`, `fortress`, or `null`        |
+| `stronghold`    | optional: `fort`, `castle`, `keep`, `fortified manor`, `tower`, or `null`       |
+| `holder`        | who holds the land, as an affiliation or being address, or a plain name         |
+| `population`    | a positive whole number with at most two significant digits                     |
+| `market`        | `international`, `regional`, `local` or `subsistence`                           |
+| `notes`         | short nonempty text saying what distinguishes the settlement                    |
+
+`stronghold` names a kind of building and is never an address. A settlement that
+is listed twice, or listed and also given a note, is an error. A list has no
+`tail` key and no `rows` wrapper: it is a plain list of rows, and a settlement
+the polity does not list is simply an unlisted one that the territorial
+population may include.
+
+A settlement with its own note carries the same facts in `data`: `government`
+naming its polity, `parents` naming its enclosing places, and `type`,
+`fortification`, `stronghold`, `population`, `market` and `notes` with the
+values above. A populated settlement note requires `type`, `market`, `notes` and
+a `government` that resolves to a polity.
+
+**A polity states two populations, and they count different people.**
+`data.population` is the membership: the people who belong to the body.
+`data.territorial_population` is the inhabitants of the land it governs, whoever
+they belong to. A polity with settlements, a seat or subordinate polities
+requires the territorial figure. The listed and noted settlements throughout its
+subordinate chain must not exceed it, a seat counts once, and a subordinate
+polity's territorial total is never added to the settlement sum. Settlements of
+type `town`, `city` and `metropolis` together must not exceed the urban share of
+the territorial population, which is ten percent unless
+`packageBuild.settlementPopulation` in `package-build.config.yaml` says
+otherwise. The territorial population may include people in unlisted rural
+settlements. A polity may name at most one superior in `parents`, and the chain of
+superiors has no cycles. A polity whose totals cannot yet meet these checks is
+named in `packageBuild.settlementExemptions` with a reason; the entry is removed
+when the polity's land pass is complete.
+
+A worked polity, with three listed settlements of different sizes and one
+settlement that has a note (and so no row):
+
+```yaml
+type: affiliation
+subType: polity
+shortcode: kingdmexmpl
+data:
+  seat: exmplhall # a settlement note; it has no row here
+  population: 8000 # the members of the kingdom
+  territorial_population: 12000 # everyone who lives on its land
+  parents: []
+  settlements:
+    - settlement: East Farm
+      polity: affiliation-kingdmexmpl
+      location: place-exmpldale
+      type: homestead
+      fortification: null
+      stronghold: null
+      holder: Aldric Vane
+      population: 40
+      market: subsistence
+      notes: A farm by the ford road.
+    - settlement: Greywater
+      polity: affiliation-kingdmexmpl
+      location: place-exmpldale
+      type: village
+      fortification: palisade
+      stronghold: tower
+      holder: affiliation-exmpltmpl
+      population: 350
+      market: local
+      notes: A fishing village whose tower watches the river mouth.
+    - settlement: Marrow Cross
+      polity: affiliation-kingdmexmpl
+      location: place-exmpldale
+      type: town
+      fortification: walled
+      stronghold: null
+      holder: affiliation-kingdmexmpl
+      population: 1100
+      market: regional
+      notes: A walled market town where three roads meet.
+```
+
+The listed rows total 1,490 people and the one town is 1,100, within the urban
+share of 1,200 that a territory of 12,000 allows.
 
 **A polity with a liege names it in `parents`.** Its `seat` names its capital, or
 is `null` where it has none.
@@ -1043,7 +1131,9 @@ data:
     offices: {}
   seat: null # shortcode of the affiliation's capital settlement; `null` where it has none or none is known, never ""
   # Record government on each governed place with data.government, not here.
-  population: 0 # population of the affiliation
+  population: 0 # members of the affiliation
+  territorial_population: 0 # polity only: inhabitants of its land; required with settlements, a seat or subordinate polities
+  settlements: [] # polity only: directly held settlements without notes; see Governance and holding
   economy: []
   lore: [humanflk]
   parents: []
@@ -1216,7 +1306,11 @@ data:
   parents: [] # shortcodes of containing places
   population: 0
   government: "" # the governing affiliation; every settlement names one
-  market: null # market class, 1 hamlet to 6 great city
+  type: village # encampment, homestead, hamlet, village, town, city or metropolis
+  fortification: null # none, minimal, palisade, walled, fortress, or null
+  stronghold: null # fort, castle, keep, fortified manor, tower, or null
+  market: local # international, regional, local or subsistence
+  notes: "" # short text saying what distinguishes the settlement
   routes: [] # journeys from here: to, bearing, mode, days
   packFolder: ""  # must be specified
 ---
@@ -1252,9 +1346,9 @@ data:
   lore: [humanflk]
   parents: [] # parent region shortcodes
   population: 0 # population of region
+  # A region carries no settlement list; its polities list settlements in their own data.settlements
   borders: [] # neighbors: to, bearing
   routes: [] # journeys from here: to, bearing, mode, days
-  # settlements: { rows, tail } # the settlement table; see Governance and holding
   packFolder: ""  # must be specified
 ---
 

@@ -4,7 +4,7 @@ name: {full: Russet Swaddle}
 type: armorgear
 description: "Reddish-brown wool wrap; infant comfort in cold."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

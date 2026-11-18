@@ -34,6 +34,7 @@ data:
     hair_color: white
     skin_color: olive
     complexion: [weathered, wrinkled]
+    hair_style: cropped
     extra_features: [long knob-knuckled hands with chalk ground into the creases, callused knees]
   packFolder: midhaliontaruzel
 ---

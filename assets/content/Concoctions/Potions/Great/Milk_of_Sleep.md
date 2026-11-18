@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Black opaque draft; induces deep unconsciousness and complete rest."
 tags: [great-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: great}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

@@ -25,6 +25,10 @@ data:
     hair_color: chestnut
     skin_color: medium
     complexion: [clear]
+    face_shape: angular
+    nose: narrow
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

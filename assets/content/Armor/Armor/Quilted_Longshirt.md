@@ -4,7 +4,7 @@ name: {full: Quilted Longshirt}
 type: armorgear
 description: "Long stitched tunic; warmth and light padding for cold seasons."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

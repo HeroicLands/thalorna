@@ -4,7 +4,7 @@ name: {full: Wrist-Line Marking Needle}
 type: miscgear
 description: "The temple's own naming instrument; cuts the two signs of tarona and kulpa into an eight-day-old child's left wrist."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   craft: {skill: mtlc, secondary: []}

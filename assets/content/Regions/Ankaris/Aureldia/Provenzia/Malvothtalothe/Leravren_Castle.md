@@ -14,9 +14,12 @@ data:
     - {to: ronalza, bearing: N, mode: land, days: 2, terrain: [mountains, track]}
     - {to: alndntrblnds, bearing: N, mode: land, days: 5, terrain: [mountains, track]}
   population: 1200
+  market: local
+  type: town
   borders: [{to: ceravelvale, bearing: SW}]
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The castle town of the lordship of Leravren in the Talote, Kaldin al Lénavel's hall on the mountain road, where the timber and ore of the high valleys pay his toll and the priests of the Black Flame keep his fire."
 ---
 
 ## Overview {#overview}

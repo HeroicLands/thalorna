@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: light
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: short
+    face_shape: square
+    nose: hooked
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

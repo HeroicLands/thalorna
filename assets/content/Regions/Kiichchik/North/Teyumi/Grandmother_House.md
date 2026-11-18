@@ -4,15 +4,18 @@ name: {full: Grandmother House, teyu: [yaahosa]}
 type: place
 subType: settlement
 description: "The Grandmother House: the first and largest great house of the Canyon of Houses, where the canyon feast is held, the sun watcher names the days for every town, and the rain chief has called for a Dry Search."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: teyumiclt
   demonym: null
   lore: [teyumiclt]
   parents: [hosaoyalargn]
   population: 1200
+  type: town
+  market: local
   government: teyumi
   packFolder: teyumi
+  notes: "The Grandmother House: the first and largest great house of the Canyon of Houses, where the canyon feast is held, the sun watcher names the days for every town, and the rain chief has called for a Dry Search."
 
 # terran_analog: Pueblo Bonito in Chaco Canyon, the D-shaped great house of about 650 rooms with its great kiva, its walled plaza and the trash mound where pots were broken
 ---

@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Deep amber golden liquid; brings profound peace and calm."
 tags: [strong-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: strong}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

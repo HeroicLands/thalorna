@@ -24,6 +24,12 @@ data:
     hair_color: {red: 3, auburn: 3, blonde: 3, dark_blonde: 2, brown: 3, dark_brown: 2, black: 1}
     skin_color: {fair: 5, pale: 3, light: 3, medium: 1}
     complexion: {freckled: 3, weathered: 3, ruddy: 2, clear: 2, smooth: 1}
+    hair_texture: {straight: 3, wavy: 4, curly: 2}
+    hair_style: {short: 3, shoulder_length: 3, long: 2, braided: 1, cropped: 1}
+    face_shape: {oval: 3, round: 2, square: 2, long: 2, broad: 1}
+    nose: {straight: 4, upturned: 2, snub: 1, aquiline: 1, crooked: 1, broad: 1}
+    brow: {straight: 3, bushy: 2, arched: 2, thin: 1}
+    mouth: {thin: 3, full: 3, wide: 1, small: 1}
     height: {female: {min: 5' 1", max: 5' 11"}, male: {min: 5' 6", max: 6' 5"}}
 
 # terran_analog: "The British Isles joined into one compact island (England-analog kingdoms in the south and east, Ireland-analog Peshtar country in the north-west, a Norse-settled Scottish-analog north). Carries over: rival petty kingdoms, insular parochialism, folk observance of stones, lakes and crossroads beneath the temple faith, a Norse-held conquered plain, and Peshtar tribes holding the highland-and-lake interior against every outside ambition. Departs: a single landmass of roughly seven hundred thousand people, strong fae places, Grukar in the empty third, a western republic imitating the Vilérian constitution from hearsay, and a Synod of mages governing Dúnavarre."

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Creates sacred space; grants sanctuary and refuge from intrusion."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

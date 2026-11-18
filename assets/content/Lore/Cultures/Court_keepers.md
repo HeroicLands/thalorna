@@ -13,6 +13,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {dark_brown: 5, brown: 3, ebony: 2}
     complexion: {smooth: 4, clear: 3, weathered: 2}
+    hair_texture: {coily: 8, curly: 2}
+    hair_style: {cropped: 3, braided: 3, short: 2, shaved: 2, locked: 1}
+    face_shape: {oval: 3, round: 3, heart: 2, angular: 1, long: 1}
+    nose: {broad: 4, straight: 3, narrow: 1, snub: 1}
+    brow: {arched: 3, straight: 3, thin: 2, heavy: 1}
+    mouth: {full: 4, wide: 2, thin: 2, small: 1}
     height: {female: {min: 4' 8", max: 5' 3"}, male: {min: 4' 11", max: 5' 7"}}
 
 # terran_analog: "The sacred groves and shrine-keeping lineages of forest and savanna peoples in central Africa, set among foragers. Carries over: one place-bound spirit per community, an elder who keeps its rules, burial at the shrine, and healing sought there. Departs: no priesthood and no shrine-building, a leader chosen by a night spent at the spirit-place, and a rule that the keeper may never lead."

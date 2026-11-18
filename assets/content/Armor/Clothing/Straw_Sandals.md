@@ -4,7 +4,7 @@ name: {full: Straw Sandals}
 type: armorgear
 description: "Light breathable straw sandals; minimal protection, maximum airflow."
 tags: []
-data: {icon: flipflops, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: flipflops, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

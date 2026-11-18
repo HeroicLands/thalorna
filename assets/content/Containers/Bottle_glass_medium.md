@@ -4,7 +4,7 @@ name: {full: "Bottle, glass, medium"}
 type: containergear
 description: "Hand-blown glass bottle for apothecary use and merchants."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 3, valueBase: 30, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 4}

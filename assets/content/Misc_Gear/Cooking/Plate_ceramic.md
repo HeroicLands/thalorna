@@ -4,7 +4,7 @@ name: {full: "Plate, ceramic"}
 type: miscgear
 description: "Glazed earthenware plate, eight inches across."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: cmcs, secondary: []}
   kbcat: cooking

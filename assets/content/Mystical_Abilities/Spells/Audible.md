@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Carries whispered words on spiraling wind; heard at great distance."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

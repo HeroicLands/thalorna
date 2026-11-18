@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster radiates blinding white light; sears vision of those nearby."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

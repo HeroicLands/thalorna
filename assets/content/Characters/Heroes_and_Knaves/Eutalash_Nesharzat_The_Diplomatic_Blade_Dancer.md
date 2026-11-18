@@ -29,6 +29,9 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: []
+    face_shape: oval
+    nose: aquiline
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 sohl:

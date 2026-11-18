@@ -4,7 +4,7 @@ name: {full: "Linen, per sq yard"}
 type: miscgear
 description: "Light flax cloth, somewhat coarse, cheap colours; the common shift and shirt cloth."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

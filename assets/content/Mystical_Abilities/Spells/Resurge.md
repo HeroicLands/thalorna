@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Pours fresh energy into failing magical construct; restores framework."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

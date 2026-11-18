@@ -26,6 +26,12 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: long
+    face_shape: oval
+    nose: crooked
+    brow: bushy
+    mouth: small
     extra_features: []
   packFolder: helladbyzaria
 ---

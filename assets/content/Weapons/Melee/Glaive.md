@@ -4,7 +4,7 @@ name: {full: Glaive}
 type: weapongear
 description: "Single-edged polearm cleaver; line infantry cavalry-breaker."
 tags: []
-data: {icon: halberd, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: halberd, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: polearm

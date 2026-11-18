@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: braided
     extra_features: [a rope-burn scar on the right forearm]
   packFolder: aureldiaelavendre
 ---

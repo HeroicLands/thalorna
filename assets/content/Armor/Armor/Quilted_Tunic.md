@@ -4,7 +4,7 @@ name: {full: Quilted Tunic}
 type: armorgear
 description: "Padded tunic; stitched layers offer steady warmth."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

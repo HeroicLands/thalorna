@@ -4,15 +4,18 @@ name: {full: Zel-Qar}
 type: place
 subType: settlement
 description: "Tomb-Workers' Village (walled)"
-tags: [village]
+tags: [town]
 data:
   banner: khelathubnr
   demonym: null
   lore: []
   parents: [khelzuretslt]
   population: 6000
+  type: town
+  market: regional
   packFolder: regkhsett
-  government: linzemnlzlqr
+  government: selatkhelzrt
+  notes: "Tomb-Workers' Village (walled)"
 ---
 
 ## Overview {#overview}

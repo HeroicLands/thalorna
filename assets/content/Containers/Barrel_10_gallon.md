@@ -4,7 +4,7 @@ name: {full: "Barrel, 10 gallon"}
 type: containergear
 description: "Coopered oak barrel bound with iron hoops (10 gallons)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 30, valueBase: 8, qualityBase: 0, durabilityBase: 5, maxCapacityBase: 80}

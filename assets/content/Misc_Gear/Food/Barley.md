@@ -4,7 +4,7 @@ name: {full: Barley}
 type: miscgear
 description: "Hardy grain, ground into meal or boiled for broth and bread."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

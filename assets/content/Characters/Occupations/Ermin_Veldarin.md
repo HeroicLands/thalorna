@@ -25,6 +25,8 @@ data:
     hair_color: grey
     skin_color: medium
     complexion: [weathered]
+    hair_style: cropped
+    nose: narrow
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

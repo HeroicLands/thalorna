@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: light
     complexion: [clear]
+    face_shape: round
+    nose: broad
+    mouth: full
     extra_features: []
   packFolder: ankarisvedyara
 sohl:

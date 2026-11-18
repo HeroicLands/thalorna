@@ -24,6 +24,8 @@ data:
     hair_color: blonde
     skin_color: light
     complexion: [clear]
+    hair_style: braided
+    face_shape: angular
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

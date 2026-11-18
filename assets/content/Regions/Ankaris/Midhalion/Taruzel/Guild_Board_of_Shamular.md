@@ -47,6 +47,7 @@ data:
         Held by a Licensed House named by the board. Keeps the quay and collects the dues on every flask and jar loaded there.
   seat: shamular
   population: null
+  territorial_population: 12000
   economy: []
   lore: [humanflk]
   parents: [yamuzel]

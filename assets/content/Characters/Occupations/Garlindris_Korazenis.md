@@ -25,6 +25,10 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [weathered]
+    face_shape: square
+    nose: hooked
+    brow: heavy
+    mouth: thin
     extra_features: [a tattoo of a lion on the thigh]
   packFolder: midhalionvylaria
 sohl:

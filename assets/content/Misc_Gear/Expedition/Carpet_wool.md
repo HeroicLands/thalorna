@@ -4,7 +4,7 @@ name: {full: "Carpet, wool"}
 type: miscgear
 description: "Knotted wool carpet, three feet square; wall-hanging as often as floor covering."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

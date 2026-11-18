@@ -4,7 +4,7 @@ name: {full: "Salt, sack"}
 type: miscgear
 description: "Bulk coarse crystals, preserves a dozen fish or full ham."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: food

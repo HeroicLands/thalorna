@@ -25,6 +25,11 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [freckled]
+    hair_style: braided
+    face_shape: round
+    nose: narrow
+    brow: arched
+    mouth: full
     extra_features: [a tattoo of a skull on the upper arm]
   packFolder: aureldiaaelwyth
 sohl:

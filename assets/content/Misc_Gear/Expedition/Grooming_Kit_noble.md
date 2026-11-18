@@ -4,7 +4,7 @@ name: {full: "Grooming Kit, noble"}
 type: miscgear
 description: "Fitted case with an ivory comb, silver hand-mirror, fine perfume and silver implements; a great house's upkeep."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

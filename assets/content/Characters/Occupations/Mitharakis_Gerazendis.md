@@ -25,6 +25,9 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [weathered]
+    hair_style: short
+    brow: heavy
+    mouth: thin
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

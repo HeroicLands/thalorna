@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Focuses immense pressure; compresses target or ruins structures utterly."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

@@ -4,7 +4,7 @@ name: {full: Leather Cap}
 type: armorgear
 description: "Simple lightweight leather cap offering basic elemental protection and rugged charm."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: billedcap, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

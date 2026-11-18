@@ -27,6 +27,8 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [weathered]
+    hair_style: short
+    facial_hair: short_beard
     extra_features: []
   packFolder: midhalionvylaria
 ---

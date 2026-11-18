@@ -4,7 +4,7 @@ name: {full: Velvet Gloves}
 type: armorgear
 description: "Plush velvet gloves; opulent garment for high-status formal occasions."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: gloves, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

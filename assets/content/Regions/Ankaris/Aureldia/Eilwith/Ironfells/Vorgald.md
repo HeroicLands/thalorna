@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [ironfells]
   population: 2000
+  market: local
+  type: town
   government: vrgldhld
   packFolder: eilwith
+  notes: "A Khazari hold in the eastern heights of the Ironfells—known to exist, effectively impossible to reach, and holding no relationship with any realm on Eilwìth."
 ---
 
 **Vorgald** is a hold of the [[lore-flkkhazar|Khazari]] in the eastern heights of

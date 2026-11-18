@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: short
+    nose: straight
+    brow: heavy
+    mouth: wide
     extra_features: [a tattoo of a dragon wrapping around the arm]
   packFolder: midhalionvylaria
 sohl:

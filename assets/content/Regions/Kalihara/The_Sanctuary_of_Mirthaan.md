@@ -9,10 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [klhrbowl]
-  population: null
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "The sanctuary in an eastern river valley of Kalihara's Bowl, among the terraces, where the custodians who tend the works of the terraces, the rain and the lake are trained."
 ---
 
 ## Overview {#overview}

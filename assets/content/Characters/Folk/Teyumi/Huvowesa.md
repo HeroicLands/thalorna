@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: heart
+    nose: narrow
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: kiichchikteyumi
 ---

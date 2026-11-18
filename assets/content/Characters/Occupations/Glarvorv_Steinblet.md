@@ -24,6 +24,10 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [scarred]
+    hair_style: braided
+    face_shape: long
+    nose: straight
+    mouth: wide
     extra_features: [a scar on the left side of the neck]
   packFolder: ankarisnordlands
 sohl:

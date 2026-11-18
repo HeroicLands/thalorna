@@ -24,6 +24,12 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [clear]
+    face_shape: long
+    brow: thin
+    hair_texture: curly
+    hair_style: short
+    nose: straight
+    mouth: full
     extra_features: []
   packFolder: northernfertileregionbethua
 sohl:

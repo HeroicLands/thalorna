@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: pale
     complexion: [clear]
+    face_shape: heart
+    nose: upturned
     extra_features: [a scar on the right side of the face]
   packFolder: aureldiaelavendre
 sohl:

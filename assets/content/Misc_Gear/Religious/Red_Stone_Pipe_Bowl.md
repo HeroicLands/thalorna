@@ -4,7 +4,7 @@ name: {full: Red Stone Pipe Bowl}
 type: miscgear
 description: "A pipe bowl cut from the red quarry; the delegates of the five northern nations carry one as their pledge of the compact's peace."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.4, valueBase: 20, qualityBase: 0, durabilityBase: 10}

@@ -24,6 +24,11 @@ data:
     hair_color: greying_brown
     skin_color: tawny
     complexion: [smooth]
+    hair_texture: wavy
+    face_shape: oval
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: [a scar on the right hand]
   packFolder: helladhelionis
 sohl:

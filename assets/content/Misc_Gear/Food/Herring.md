@@ -4,7 +4,7 @@ name: {full: Herring}
 type: miscgear
 description: "Small oil-rich fish; smoked or salt-packed, heavily salted lasts indefinitely."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

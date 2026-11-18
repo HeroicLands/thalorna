@@ -10,8 +10,11 @@ data:
   lore: [humanflk]
   parents: [eskarath]
   population: 450
+  market: local
+  type: village
   packFolder: tarvenia
   government: frtrtryskrth
+  notes: "A highland village of Eskarath in a valley of old oaks, whose grove holds a shrine to the forest guardians."
 ---
 
 ## Overview {#overview}

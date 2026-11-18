@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [zuravlenrgn]
   population: 240
+  market: local
+  type: village
   government: brnyzrvln
   packFolder: provenzia
+  notes: "A mixed manor of the Zuravlen valley floor—grain, fold and a little fruit—and the ordinary model that most of the barony actually resembles."
 ---
 
 **Blavera** lies on the flat ground where the [Zuravlen river]{.name data-type="place/feature"} slows, and grows wheat, barley, beans and

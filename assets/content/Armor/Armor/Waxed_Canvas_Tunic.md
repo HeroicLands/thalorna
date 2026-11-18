@@ -4,7 +4,7 @@ name: {full: Waxed Canvas Tunic}
 type: armorgear
 description: "Waxed canvas tunic proofed against rain and sea spray."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

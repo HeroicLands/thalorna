@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Binds shadow of target; restricts movement to caster's proximity."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

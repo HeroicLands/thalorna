@@ -4,7 +4,7 @@ name: {full: Horseshoe}
 type: miscgear
 description: "Curved iron plate nailed to hoof; distributes wear, grips stone and mud."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: tack

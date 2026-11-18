@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: []
+    face_shape: long
+    brow: heavy
     extra_features: []
   packFolder: ankariskhazryndesert
 sohl:

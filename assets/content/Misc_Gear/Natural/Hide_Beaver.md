@@ -4,7 +4,7 @@ name: {full: "Hide, Beaver"}
 type: miscgear
 description: "Beaver pelt with dense underfur and waterproof guard hairs; cloaks, winter garments. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural

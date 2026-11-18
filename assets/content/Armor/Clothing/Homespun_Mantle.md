@@ -4,7 +4,7 @@ name: {full: Homespun Mantle}
 type: armorgear
 description: "Simple homemade mantle providing weather protection for folk."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

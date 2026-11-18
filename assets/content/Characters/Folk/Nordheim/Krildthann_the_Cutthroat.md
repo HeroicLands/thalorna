@@ -26,6 +26,12 @@ data:
     hair_color: blonde
     skin_color: pale
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: angular
+    nose: straight
+    brow: heavy
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

@@ -4,7 +4,7 @@ name: {full: Velvet Hat}
 type: armorgear
 description: "Soft plush velvet hat; luxury status symbol for formal occasions."
 tags: []
-data: {icon: pointyhat, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: pointyhat, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

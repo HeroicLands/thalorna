@@ -24,6 +24,8 @@ data:
     hair_color: brown
     skin_color: light
     complexion: []
+    face_shape: angular
+    brow: heavy
     extra_features: [a tattoo of a skull on the upper arm]
   packFolder: ankarisnordlands
 sohl:

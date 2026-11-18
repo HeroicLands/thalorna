@@ -66,6 +66,7 @@ data:
         Envoy to a river court or a janpoda sabhra, and in practice the kingdom's cattle-broker as well.
   seat: null
   population: 1200000
+  territorial_population: 1200000
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]
   parents: []

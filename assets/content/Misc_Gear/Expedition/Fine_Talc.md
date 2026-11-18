@@ -4,7 +4,7 @@ name: {full: Fine Talc}
 type: miscgear
 description: "Fine mineral powder; dries sweat, prevents chafing, dusts wounds, and gives grip to the climber's or wrestler's hands."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: expedition

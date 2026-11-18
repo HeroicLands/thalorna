@@ -4,7 +4,7 @@ name: {full: "Candles, Beeswax"}
 type: miscgear
 description: "Pure beeswax candles; bright, sweet-scented; favored by churches and gentry."
 tags: [lighting]
-data: {icon: swapbag, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: lighting

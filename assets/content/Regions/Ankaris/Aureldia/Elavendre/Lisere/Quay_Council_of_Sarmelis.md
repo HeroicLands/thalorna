@@ -39,6 +39,7 @@ data:
         Held by a Quay-Freeman sitting as Quay-Councilor, named by the council. Closes the boom across the harbor mouth at the first fire of a raid and opens it on the all-clear from the Lamp Tower.
   seat: sarmelis
   population: 5600
+  territorial_population: 5600
   economy: []
   lore: [humanflk]
   parents: [kngdmlvndr]

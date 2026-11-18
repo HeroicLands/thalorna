@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Blade sings with resonant force; strikes echo with doubled damage."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

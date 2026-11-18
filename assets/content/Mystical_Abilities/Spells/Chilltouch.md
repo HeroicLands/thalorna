@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster's hand withers flesh with unnatural cold on contact."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

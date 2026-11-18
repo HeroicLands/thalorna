@@ -27,6 +27,8 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: cropped
+    brow: heavy
     extra_features: [a rider's bowed legs, an old spear scar across the back of the right hand]
   packFolder: midhalionvylaria
 ---

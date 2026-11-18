@@ -4,7 +4,7 @@ name: {full: "Pole, load carrying"}
 type: containergear
 description: "Shoulder pole for carrying slung loads."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 2, valueBase: 0.25, qualityBase: 0, durabilityBase: 5, maxCapacityBase: 35}

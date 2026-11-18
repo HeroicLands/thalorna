@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: light
     complexion: [sun_kissed]
+    face_shape: long
+    nose: aquiline
     extra_features: []
   packFolder: helladbyzaria
 sohl:

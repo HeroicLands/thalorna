@@ -24,6 +24,9 @@ data:
     hair_color: greying_brown
     skin_color: golden
     complexion: []
+    face_shape: oval
+    nose: narrow
+    mouth: full
     extra_features: [a tattoo of a horse on the thigh]
   packFolder: ankarisvedyara
 sohl:

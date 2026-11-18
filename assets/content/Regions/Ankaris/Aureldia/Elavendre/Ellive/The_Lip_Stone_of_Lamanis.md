@@ -4,7 +4,12 @@ name: {full: The Lip-Stone of Lámanis, en: [The Lip-Stone]}
 type: miscgear
 description: "The worn ring of gray stone through which the holy well in the oldest orchard of Lámanis rose, lifted out in the autumn by University scholars, the grove-elder says; the well has been dry since midwinter."
 tags: [artifact, elavendre]
-data: {icon: icon-water, templatePriority: null, packFolder: elavendre, unique: true}
+data:
+  kind: miscgear
+  icon: icon-water
+  templatePriority: null
+  packFolder: elavendre
+  unique: true
 sohl: {system: {weightBase: 120, valueBase: 0, qualityBase: 0, durabilityBase: 20}}
 ---
 

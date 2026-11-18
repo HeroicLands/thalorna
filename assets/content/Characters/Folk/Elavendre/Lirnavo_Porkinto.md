@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: light
     complexion: [smooth]
+    hair_style: short
     extra_features: [long pale fingers stained gray-green with sap]
   packFolder: aureldiaelavendre
 ---

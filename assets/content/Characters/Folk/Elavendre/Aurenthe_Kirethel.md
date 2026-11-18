@@ -33,6 +33,7 @@ data:
     hair_color: grey
     skin_color: pale
     complexion: [wrinkled]
+    hair_style: long
     extra_features:
       - long fingers stained at the tips from the harp strings
       - a thin white scar across the left palm

@@ -26,6 +26,7 @@ data:
     offices: {}
   seat: kostaros
   population: null
+  territorial_population: 6000
   economy: []
   lore: [humanflk]
   parents: []

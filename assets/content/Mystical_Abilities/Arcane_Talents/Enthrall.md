@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Holds a person's attention and compliance for as long as the talent is sustained."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

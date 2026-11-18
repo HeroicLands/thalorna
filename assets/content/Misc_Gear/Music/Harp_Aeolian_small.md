@@ -4,7 +4,7 @@ name: {full: "Harp, Aeolian (small)"}
 type: miscgear
 description: "Compact stringed frame harp; gut-silk strings in diatonic scale; bright ringing voice."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

@@ -4,7 +4,7 @@ name: {full: Canvas Leggings}
 type: armorgear
 description: "Tough canvas leg-wear built for labour and long marches."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

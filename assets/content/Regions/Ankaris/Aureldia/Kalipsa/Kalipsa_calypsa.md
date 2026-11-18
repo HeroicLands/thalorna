@@ -69,6 +69,7 @@ data:
         A salaried officer of the city, not a Councilor. Keeps the census roll, the record of every sitting of the Captains' Council, its charters, its seal and its correspondence, and counts the voices when the Harbormaster puts the question.
   seat: calypsacity
   population: 45000
+  territorial_population: 45000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []

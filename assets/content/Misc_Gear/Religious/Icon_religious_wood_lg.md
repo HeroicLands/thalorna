@@ -4,7 +4,7 @@ name: {full: "Icon, religious, wood, lg"}
 type: miscgear
 description: "Hand-painted oak or pine panel depicting saint or patron god in tempera."
 tags: [religious]
-data: {icon: swapbag, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: religious

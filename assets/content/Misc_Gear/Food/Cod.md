@@ -4,7 +4,7 @@ name: {full: Cod}
 type: miscgear
 description: "Salt-cured white fish; dried or salted for long trade voyages."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

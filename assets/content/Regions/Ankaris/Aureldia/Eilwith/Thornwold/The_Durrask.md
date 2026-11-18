@@ -37,6 +37,7 @@ data:
         Sworn to by the spears at the autumn fire for one year's raiding, and sworn to again only if the year went well.
   seat: thornwold
   population: 9000
+  territorial_population: 9000
   economy: []
   lore: [humanflk]
   parents: []

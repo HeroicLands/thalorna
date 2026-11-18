@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Creates body of water; water persists or evaporates gradually."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

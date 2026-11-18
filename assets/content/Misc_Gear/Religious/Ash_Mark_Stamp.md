@@ -4,7 +4,7 @@ name: {full: Ash-Mark Stamp}
 type: miscgear
 description: "A small stamp for tracing Rasikara's ash-mark on the brow before razing a condemned house, felling a diseased tree, or cutting a blighted harvest."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   craft: {skill: mtlc, secondary: []}

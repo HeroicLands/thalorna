@@ -4,7 +4,7 @@ name: {full: Cloth Swaddle}
 type: armorgear
 description: "Soft cloth infant swaddle offering comfort and basic warmth."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

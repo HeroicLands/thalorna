@@ -4,7 +4,7 @@ name: {full: "Coffer, leather & wood"}
 type: containergear
 description: "Leather-covered wooden coffer with a key lock."
 tags: []
-data: {icon: chest, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: chest, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 5, valueBase: 45, qualityBase: 0, durabilityBase: 7, maxCapacityBase: 12}

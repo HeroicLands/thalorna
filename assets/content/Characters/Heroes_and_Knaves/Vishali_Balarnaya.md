@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [scarred]
+    face_shape: round
+    nose: aquiline
     extra_features: [a scar on the right elbow]
   packFolder: ankarisvedyara
 sohl:

@@ -4,7 +4,7 @@ name: {full: "Cauldron, Iron"}
 type: containergear
 description: "Heavy cast-iron pot for communal cooking or laundry."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 30, valueBase: 72, qualityBase: 0, durabilityBase: 10, maxCapacityBase: 80}

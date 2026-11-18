@@ -4,7 +4,7 @@ name: {full: Flax}
 type: miscgear
 description: "Dried stalks; raw material of linen, seeds press for oil and meal."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

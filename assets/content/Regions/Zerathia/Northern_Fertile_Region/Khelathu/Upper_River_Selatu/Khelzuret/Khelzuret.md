@@ -11,8 +11,11 @@ data:
   lore: []
   parents: [khelzuretslt]
   population: 90000
+  market: international
+  type: city
   packFolder: regkhsett
   government: selatkhelzrt
+  notes: "Temple City (Necropolis)"
 ---
 
 ## Overview {#overview}

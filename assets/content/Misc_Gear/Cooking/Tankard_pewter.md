@@ -4,7 +4,7 @@ name: {full: "Tankard, pewter"}
 type: miscgear
 description: "Straight-sided pewter tankard for taverns and barracks serving ale by pint."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

@@ -4,7 +4,7 @@ name: {full: Rabbit}
 type: miscgear
 description: "Lean pale meat cooks quickly, jerked for campaigns, fur for furriers."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: food

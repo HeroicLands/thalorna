@@ -4,7 +4,7 @@ name: {full: Dog Sled}
 type: miscgear
 description: "A runnered sled pulled by a team of dogs; the winter road of the far north and the way a kayak crosses the ice."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   craft: {skill: txtl, secondary: []}

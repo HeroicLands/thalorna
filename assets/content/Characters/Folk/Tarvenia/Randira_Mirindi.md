@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: tawny
     complexion: [weathered, wrinkled]
+    hair_style: braided
     extra_features: [a blue tattooed band on each wrist]
   packFolder: aureldiatarvenia
 ---

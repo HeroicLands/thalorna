@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [wan]
+    hair_style: cropped
     extra_features: [ink-stained fingers]
   packFolder: aureldiaprovenzia
 ---

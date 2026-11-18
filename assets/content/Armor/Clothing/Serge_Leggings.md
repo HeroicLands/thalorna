@@ -4,7 +4,7 @@ name: {full: Serge Leggings}
 type: armorgear
 description: "Twilled serge leggings; warm, durable leg covering for daily activities."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

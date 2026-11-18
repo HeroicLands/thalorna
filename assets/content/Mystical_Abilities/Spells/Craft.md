@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Shapes and binds materials together; crafts items from raw substance."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

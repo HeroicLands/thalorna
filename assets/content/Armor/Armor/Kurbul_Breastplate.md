@@ -4,7 +4,7 @@ name: {full: Kûrbúl Breastplate}
 type: armorgear
 description: "Treated leather chest armor offering agility without sacrificing defense."
 tags: []
-data: {icon: breastplate, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: breastplate, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

@@ -4,7 +4,7 @@ name: {full: Mail Cowl}
 type: armorgear
 description: "Metal ring head and neck armor providing substantial combat protection."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: hood, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

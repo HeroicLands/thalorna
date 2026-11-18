@@ -28,7 +28,7 @@ const data = {
                 language: "letters",
                 font: "demo-script",
                 mappings: { a: "A", b: "B" },
-                rules: { normalization: "NFC", matching: "longest-first" },
+                rules: { normalization: "NFC", matching: "longest-first", roundTrip: "none" },
             },
             codes: { A: "\uE000", B: "\uE001" },
         },
@@ -37,7 +37,7 @@ const data = {
                 language: "signs",
                 font: "demo-script",
                 mappings: {},
-                rules: { normalization: "NFC", matching: "longest-first" },
+                rules: { normalization: "NFC", matching: "longest-first", roundTrip: "none" },
             },
             codes: { A: "\uE000", B: "\uE001" },
         },
@@ -109,15 +109,15 @@ test("shared browser API handles alphabetic unknowns, logographic refusals and f
         checkRoman(data, "letters", "aa", { enc: alphabet }).findings[0].kind,
         "unknown-word",
     );
-    assert.match(
-        decode(data, "letters", unknown.text, { enc: alphabet }).findings[0].message,
-        /not in.*lexicon/,
-    );
+    assert.deepEqual(decode(data, "letters", unknown.text, { enc: alphabet }), {
+        text: "aa",
+        findings: [],
+    });
     assert.match(
         encode(data, "signs", "missing", { enc: glyphs }).findings[0].message,
         /no writing|not in.*encoding/,
     );
-    assert.equal(decode(data, "signs", "\uE000", { enc: glyphs }).text, "first");
+    assert.equal(decode(data, "signs", "\uE000", { enc: glyphs }).text, "[first | later]");
     assert.ok(decode(data, "signs", "\uE001", { enc: glyphs }).findings.length);
 });
 

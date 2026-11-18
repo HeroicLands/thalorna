@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Scrying magic searching distant location; reveals conditions and inhabitants."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

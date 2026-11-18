@@ -4,7 +4,7 @@ name: {full: Serge Mantle}
 type: armorgear
 description: "Durable twilled serge mantle; versatile protective outer garment."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Prismatic light fracturing; causes profound disorientation and vertigo."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

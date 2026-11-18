@@ -4,7 +4,7 @@ name: {full: "Rope, 1” hemp, per ft  (1,125 lb cap.)"}
 type: miscgear
 description: "Stiff hemp rope for wagons and builders; tarred against weather damage."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

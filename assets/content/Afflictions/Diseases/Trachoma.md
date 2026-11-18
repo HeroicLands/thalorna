@@ -6,6 +6,7 @@ subType: disease
 description: "Chlamydia eye infection; scarring eyelids turn inward, scratching cornea."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

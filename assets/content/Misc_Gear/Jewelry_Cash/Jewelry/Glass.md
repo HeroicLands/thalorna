@@ -4,7 +4,7 @@ name: {full: Glass}
 type: miscgear
 description: "Melted sand cast or blown into vessels, lamps, windows, and goblets."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: glas, secondary: []}
   kbcat: jewelry

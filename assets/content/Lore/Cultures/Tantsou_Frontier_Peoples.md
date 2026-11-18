@@ -13,6 +13,12 @@ data:
     hair_color: {black: 6, dark_brown: 3, brown: 1}
     skin_color: {light: 4, fair: 2, golden: 2, tanned: 2}
     complexion: {weathered: 4, ruddy: 2, chapped: 2, clear: 2}
+    hair_texture: {straight: 9, wavy: 1}
+    hair_style: {braided: 4, shaved_sides: 3, long: 3, knotted: 2, short: 1}
+    face_shape: {broad: 3, square: 3, angular: 2, round: 2, oval: 1}
+    nose: {straight: 4, broad: 3, narrow: 2, snub: 1}
+    brow: {straight: 5, heavy: 2, thin: 2, arched: 1}
+    mouth: {thin: 3, wide: 2, full: 2, small: 2}
     height: {female: {min: 5' 1", max: 5' 9"}, male: {min: 5' 6", max: 6' 3"}}
 
 # terran_analog: "The northern and mountain marches of the eastern imperial sphere: Manchuria, Korea and the Himalayan and Yunnan borderlands. Carries over: fortified marchland of watchtowers and garrison colonies, cold coasts, terraced highland villages, soldier-settlers and hill peoples drawn into the imperial register. Departs: every march village keeps the eight castes and its lineage page."

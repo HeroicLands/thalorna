@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Grants empathic perception; detects nearby emotions and thoughts."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

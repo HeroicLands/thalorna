@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: braided
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -26,6 +26,7 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [sun_kissed]
+    hair_style: long
     extra_features: []
   packFolder: aureldiatarvenia
 ---

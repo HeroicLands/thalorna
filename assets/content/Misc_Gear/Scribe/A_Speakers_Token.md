@@ -4,7 +4,7 @@ name: {full: A Speaker's Token}
 type: miscgear
 description: "The carved ring an Envoy carries abroad, the only credential a foreign power sees."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.1, valueBase: 0, qualityBase: 0, durabilityBase: 5}}
 ---
 

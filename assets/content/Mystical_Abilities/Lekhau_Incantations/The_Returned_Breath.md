@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Returns the recently dead to life, if the Name and the Form are both entire."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garithnetau, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garithnetau, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauithnet

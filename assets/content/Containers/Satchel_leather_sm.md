@@ -4,7 +4,7 @@ name: {full: "Satchel, leather, sm"}
 type: containergear
 description: "Small leather shoulder bag with a buckled flap."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 0.8, valueBase: 3, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 10}

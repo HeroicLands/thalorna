@@ -25,6 +25,9 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [weathered]
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: aquiline
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

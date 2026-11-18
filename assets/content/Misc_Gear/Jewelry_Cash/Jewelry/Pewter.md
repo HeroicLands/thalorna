@@ -4,7 +4,7 @@ name: {full: Pewter}
 type: miscgear
 description: "Soft tin-lead alloy; cheaper than silver; tavern cups and household goods."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

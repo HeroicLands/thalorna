@@ -4,7 +4,7 @@ name: {full: Silk Robe}
 type: armorgear
 description: "Elegant silk robe; luxurious garment for formal occasions and refinement."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: robe, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

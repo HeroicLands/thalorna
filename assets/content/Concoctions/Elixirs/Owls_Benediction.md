@@ -5,7 +5,7 @@ type: concoctiongear
 subType: elixir
 description: "Midnight-blue elixir; grants darkness vision to distance of Aural Shock."
 tags: [elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
+data: {kind: elixir, icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

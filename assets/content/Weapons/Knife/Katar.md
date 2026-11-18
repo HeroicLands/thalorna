@@ -4,7 +4,7 @@ name: {full: Katar}
 type: weapongear
 description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcing steel."
 tags: []
-data: {icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife

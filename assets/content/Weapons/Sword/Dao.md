@@ -4,7 +4,7 @@ name: {full: Dao}
 type: weapongear
 description: "Curved single-edged blade gathering momentum through geometry."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

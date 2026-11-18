@@ -4,7 +4,7 @@ name: {full: Iron}
 type: miscgear
 description: "Bloomery iron in bars; the commonest working metal, cheap and endlessly reforged."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

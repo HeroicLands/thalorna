@@ -37,6 +37,7 @@ data:
         The war-chief the shamans name to lead the tribe in a war, followed while the clans see a reason to follow.
   seat: nordmoor
   population: 17000
+  territorial_population: 17000
   economy: []
   lore: [humanflk]
   parents: []

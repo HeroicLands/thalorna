@@ -4,7 +4,7 @@ name: {full: Rye}
 type: miscgear
 description: "Hardy grain thriving in poor soil, grinds to dark bread flour."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

@@ -4,7 +4,7 @@ name: {full: Cacao Bean, kiichek: ["Ch'ishel"]}
 type: miscgear
 description: "A dried cacao bean; the small money of the Kì'ìch'chik markets, counted by the twenty, forty to the Ardin."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   kbcat: cash
   system: {weightBase: 0.002, valueBase: 0.025, qualityBase: 0, durabilityBase: 1}

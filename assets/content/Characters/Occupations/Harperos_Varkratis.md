@@ -25,6 +25,10 @@ data:
     hair_color: auburn
     skin_color: medium
     complexion: [sun_kissed]
+    face_shape: square
+    nose: aquiline
+    brow: arched
+    mouth: thin
     extra_features: [a scar along the jawline]
   packFolder: midhalionvylaria
 sohl:

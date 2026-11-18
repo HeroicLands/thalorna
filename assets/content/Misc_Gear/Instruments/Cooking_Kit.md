@@ -4,7 +4,7 @@ name: {full: Cooking Kit}
 type: miscgear
 description: "Oiled-leather satchel holding iron pans, spoons, knife, grater, ladle for field cooking."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

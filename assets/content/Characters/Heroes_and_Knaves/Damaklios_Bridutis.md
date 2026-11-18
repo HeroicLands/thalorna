@@ -24,6 +24,8 @@ data:
     hair_color: greying_brown
     skin_color: light
     complexion: [sun_kissed]
+    face_shape: angular
+    nose: hooked
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: helladbyzaria
 sohl:

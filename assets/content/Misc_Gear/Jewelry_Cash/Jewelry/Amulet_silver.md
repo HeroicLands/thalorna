@@ -4,7 +4,7 @@ name: {full: "Amulet, silver"}
 type: miscgear
 description: "Silver charm-pendant, engraved with a protective sign; the common warding piece."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

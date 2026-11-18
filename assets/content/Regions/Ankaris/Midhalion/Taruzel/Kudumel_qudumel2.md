@@ -9,15 +9,18 @@ data:
   demonym: Kudumelian
   lore: [humanflk]
   parents: [nishurel]
-  population: 220000
+  population: 9900
+  type: town
+  market: regional
   routes: [{to: amradadrgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}]
   packFolder: taruzel
   government: qudumel
+  notes: "The easternmost city of Taruzel, on the island nearest the mainland: a dusty, polyglot crossroads of mudbrick and tile where the strait ferries land the caravan goods of Dunhara and the Khazrin, the guilds' enforcers are not welcome, and the eastern rites are practiced in the open."
 ---
 
 ## Overview {#overview}
 
-A traveler sailing east through the islands of the [[place-taruzelrgn|Taruzel Region]] notices the walls change first. The pale stone of the western harbor cities gives way in Kudumel to mudbrick and tile, the roofs are flat and crowded with cisterns, and the bazaars smell of desert spice and camel. Kudumel, a city of about 220,000 on the eastern shore of [[place-nishurel|Nishurel]], is the easternmost of the major cities of Taruzel and the seat of the city-state of [[affiliation-qudumel|Kudumel]] in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. Its name is its trade: _kudum-_, to come, with _-el_, the ground of it, the ground of arrival. The caravan roads of the [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazrin Desert Region]] reach the sea on the Amradi shore forty miles across the strait, and their goods come over to Kudumel on the ferries.
+A traveler sailing east through the islands of the [[place-taruzelrgn|Taruzel Region]] notices the walls change first. The pale stone of the western harbor cities gives way in Kudumel to mudbrick and tile, the roofs are flat and crowded with cisterns, and the bazaars smell of desert spice and camel. Kudumel, a town of about 9,900 on the eastern shore of [[place-nishurel|Nishurel]], is the easternmost of the larger towns of Taruzel and the seat of the city-state of [[affiliation-qudumel|Kudumel]] in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. Its name is its trade: _kudum-_, to come, with _-el_, the ground of it, the ground of arrival. The caravan roads of the [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazrin Desert Region]] reach the sea on the Amradi shore forty miles across the strait, and their goods come over to Kudumel on the ferries.
 
 ## Arriving {#arriving}
 

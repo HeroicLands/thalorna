@@ -25,6 +25,10 @@ data:
     hair_color: greying_brown
     skin_color: fair
     complexion: [weathered]
+    face_shape: long
+    nose: upturned
+    brow: straight
+    mouth: full
     extra_features: [a tattoo of a mystical symbol on the forearm]
   packFolder: aureldiaelavendre
 sohl:

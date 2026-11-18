@@ -45,6 +45,12 @@ data:
     hair_color: {black: 6, dark_brown: 4}
     skin_color: {tawny: 4, olive: 3, tanned: 2, brown: 1}
     complexion: {weathered: 4, sun_kissed: 3, chapped: 1}
+    hair_texture: {straight: 7, wavy: 2, curly: 1}
+    hair_style: {braided: 4, long: 3, shaved_sides: 2, short: 2, knotted: 1}
+    face_shape: {broad: 4, round: 3, square: 2, angular: 2}
+    nose: {broad: 3, straight: 3, snub: 2, aquiline: 1}
+    brow: {straight: 4, heavy: 3, thin: 2, bushy: 1}
+    mouth: {thin: 3, wide: 2, full: 2, small: 1}
     height: {female: {min: 5' 3", max: 5' 10"}, male: {min: 5' 8", max: 6' 3"}}
 
 # terran_analog: "The horse-and-camel nomads of the Eurasian steppe, in the broadest sense: herding tribes on seasonal circuits between owned water, hospitality sworn on salt, a sky-religion with shamans, and the periodic conqueror who binds the tribes by force for the length of one lifetime. Carries over: tribal independence, caravan tolls paid tribe by tribe, the dead laid out under open sky. Departs: no union outlives its founder, and no tribe keeps a successor in waiting."

@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [ruddy]
+    face_shape: long
     extra_features: [a scar on the right hand]
   packFolder: kingdomofamradad
 sohl:

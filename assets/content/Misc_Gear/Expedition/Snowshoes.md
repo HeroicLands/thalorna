@@ -4,7 +4,7 @@ name: {full: Snowshoes}
 type: miscgear
 description: "Birch frames laced with rawhide; they spread a walker's weight on soft snow."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   craft: {skill: txtl, secondary: []}

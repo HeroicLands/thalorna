@@ -25,6 +25,8 @@ data:
     hair_color: brown
     skin_color: medium
     complexion: [rough]
+    nose: crooked
+    brow: heavy
     extra_features: [a broken nose, massive hands]
   packFolder: ankarisvrystwald
 sohl:

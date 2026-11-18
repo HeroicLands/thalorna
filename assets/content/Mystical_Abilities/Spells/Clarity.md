@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Reveals truth; strips away glamour and shows reality plainly."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

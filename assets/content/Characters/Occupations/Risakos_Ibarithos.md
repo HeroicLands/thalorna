@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [clear]
+    face_shape: long
+    nose: straight
+    brow: heavy
     extra_features: [a scar on the left calf]
   packFolder: helladhelionis
 sohl:

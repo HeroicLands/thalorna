@@ -4,7 +4,7 @@ name: {full: Leather Cloak}
 type: armorgear
 description: "Rugged leather outer garment protecting against wind and light rain."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cloak, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

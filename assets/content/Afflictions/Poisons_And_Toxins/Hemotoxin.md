@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Venom that destroys red blood cells; severe tissue damage and bleeding."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

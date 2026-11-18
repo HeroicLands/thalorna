@@ -4,7 +4,7 @@ name: {full: Factor's Seal, en: [House Seal]}
 type: miscgear
 description: "The cut-stone seal a factor of a Taruzelian merchant house carries abroad, which binds the house to whatever it seals; a struck name loses its seals with its house, and a lost seal is the house's loss."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   system: {weightBase: 0.05, valueBase: 0, qualityBase: 0, durabilityBase: 15}

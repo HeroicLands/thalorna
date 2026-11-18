@@ -24,6 +24,11 @@ data:
     hair_color: greying_black
     skin_color: olive
     complexion: [clear]
+    hair_texture: wavy
+    face_shape: oval
+    nose: straight
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: helladhelionis
 sohl:

@@ -4,7 +4,7 @@ name: {full: "Wax, sealing"}
 type: miscgear
 description: "Beeswax or tallow stick; melted, impressed with seal ring to authenticate letters."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: scribe

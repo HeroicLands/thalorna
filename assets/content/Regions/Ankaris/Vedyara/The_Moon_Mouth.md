@@ -10,13 +10,15 @@ data:
   lore: []
   parents: [chendrapurland, chandrmahi]
   population: 16000
-  market: 5
+  type: town
+  market: regional
   routes:
     - {to: chendrapur2, bearing: N, mode: boat, days: 1, terrain: [river]}
     - {to: aukhelathrgq, bearing: SW, mode: ship, days: 30}
     - {to: bharanya, bearing: E, mode: ship, days: 5, terrain: [coast]}
   packFolder: vedyara
   government: chendrapur
+  notes: "The deep-water port at the Chandramahi's mouth—the bar, the roadstead, the yards that build Chendrapur's galleys, and the one place in Vedyara the Thordimalon is licensed to stand."
 ---
 
 **Chendramukhva** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of [[place-chandrmahi|the Chandramahi]] crosses the bar into the [[place-meghrsmdra|Southern Sea]]. The name means the moon's mouth, and it is the mouth of [[place-chendrapur2|the Moon City]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.

@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [smooth]
+    hair_style: braided
     extra_features: [frost-whitened tips to both ears]
   packFolder: aureldiaaelwyth
 ---

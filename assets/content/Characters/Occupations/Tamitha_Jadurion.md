@@ -24,6 +24,9 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [weathered]
+    hair_style: knotted
+    nose: straight
+    brow: arched
     extra_features: []
   packFolder: helladhelionis
 sohl:

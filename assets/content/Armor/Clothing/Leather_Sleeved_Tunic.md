@@ -4,7 +4,7 @@ name: {full: Leather Sleeved Tunic}
 type: armorgear
 description: "Rugged leather sleeved garment with stylish look and minimal defense."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

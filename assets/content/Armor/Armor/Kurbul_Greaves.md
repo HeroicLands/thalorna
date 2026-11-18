@@ -4,7 +4,7 @@ name: {full: Kûrbúl Greaves}
 type: armorgear
 description: "Treated leather leg armor combining protection and flexibility with decorative patterns."
 tags: []
-data: {icon: greaves, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: greaves, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

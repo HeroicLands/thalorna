@@ -5,7 +5,7 @@ type: concoctiongear
 subType: elixir
 description: "Viscous dark liquid; inverted mechanics reward failures over successes."
 tags: [elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: elixirs}
+data: {kind: elixir, icon: icon-potion, templatePriority: null, packFolder: elixirs}
 sohl:
   system:
     weightBase: 0.25

@@ -4,7 +4,7 @@ name: {full: Russet Vest}
 type: armorgear
 description: "Reddish-brown wool vest; sleeveless torso warmth."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

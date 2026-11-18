@@ -11,8 +11,11 @@ data:
   lore: []
   parents: [garanlghtslt]
   population: 14000
+  type: town
+  market: regional
   government: selatgrnlght
   packFolder: regkhsett
+  notes: "Fishing & Victualing Town"
 ---
 
 ## Overview {#overview}

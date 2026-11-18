@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Animates material into humanoid servant; obeys caster's spoken commands."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

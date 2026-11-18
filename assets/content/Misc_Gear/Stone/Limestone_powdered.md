@@ -4,7 +4,7 @@ name: {full: "Limestone, powdered"}
 type: miscgear
 description: "White caustic powder; mortar, whitewash, soil acidity; kept sealed, handled cautiously."
 tags: [stone]
-data: {icon: swapbag, templatePriority: 0, packFolder: stone}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: stone}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: stone

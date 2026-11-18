@@ -4,7 +4,7 @@ name: {full: "Book, Travelling"}
 type: miscgear
 description: "Wooden-bound parchment workbook; scribes, sages, herbalists carry afield."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: scribe

@@ -23,6 +23,12 @@ data:
     hair_color: {black: 6, dark_brown: 4}
     skin_color: {tawny: 3, golden: 3, tanned: 2, brown: 2, medium: 1}
     complexion: {weathered: 4, chapped: 2, ruddy: 2, leathery: 1}
+    hair_texture: {straight: 7, wavy: 3}
+    hair_style: {braided: 4, long: 3, knotted: 2, short: 2, cropped: 1}
+    face_shape: {broad: 4, round: 3, square: 2, angular: 2}
+    nose: {broad: 3, straight: 3, snub: 2, narrow: 2}
+    brow: {straight: 4, heavy: 3, bushy: 2, thin: 1}
+    mouth: {thin: 3, wide: 2, full: 2, small: 1}
     height: {female: {min: 5' 0", max: 5' 8"}, male: {min: 5' 4", max: 6' 1"}}
 
 # terran_analog: "The Himalaya, Karakoram, Pamir and Tian Shan wall (the Grazian Mountains analogue): drover peoples who guide caravans over the cols. Carries over: pack-beast herding, high summer pastures, a winter spent indoors together. Departs: crossings are assigned by yearly rotation among hearth-heads, the whole people shares one turf long-house, and no authority stands above the hearth."

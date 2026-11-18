@@ -5,7 +5,7 @@ type: projectilegear
 subType: bullet
 description: "Dressed round shot for an engine; a stone the weight of a man."
 tags: []
-data: {icon: stoneblock, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: stoneblock, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: srvl, secondary: []}
   traits: {ARvalue: 0, bleed: false}

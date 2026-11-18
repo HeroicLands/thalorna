@@ -10,12 +10,15 @@ data:
   lore: [stagttm]
   parents: [vandstein]
   population: 290
+  market: local
+  type: village
   borders: [{to: vandgrund, bearing: W}, {to: erthhaven, bearing: E}]
   routes:
     - {to: vandgrund, bearing: W, mode: land, days: 3, terrain: [track, forest]}
     - {to: erthhaven, bearing: E, mode: land, days: 2, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Vandstein."
 ---
 
 ## Overview {#overview}

@@ -31,6 +31,8 @@ data:
     hair_color: white
     skin_color: olive
     complexion: [leathery, wrinkled]
+    hair_style: cropped
+    facial_hair: stubble
     extra_features:
       - a stiff left knee that makes him walk with a stick
       - two fingers missing from the left hand

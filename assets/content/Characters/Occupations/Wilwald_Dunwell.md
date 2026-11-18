@@ -25,6 +25,9 @@ data:
     hair_color: blonde
     skin_color: pale
     complexion: [weathered]
+    hair_style: short
+    face_shape: long
+    nose: straight
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

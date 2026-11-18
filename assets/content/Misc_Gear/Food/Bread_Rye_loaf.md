@@ -4,7 +4,7 @@ name: {full: "Bread, Rye, loaf"}
 type: miscgear
 description: "Dense dark loaf; stays fresh for days, fills belly, peasant staple."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mill, secondary: []}
   kbcat: food

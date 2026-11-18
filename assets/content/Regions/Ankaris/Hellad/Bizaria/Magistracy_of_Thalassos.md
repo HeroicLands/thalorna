@@ -25,6 +25,7 @@ data:
     offices: {}
   seat: thalassos
   population: null
+  territorial_population: 4000
   economy: []
   lore: [humanflk]
   parents: []

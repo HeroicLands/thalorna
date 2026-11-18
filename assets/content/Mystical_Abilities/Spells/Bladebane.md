@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Curse upon weapon; blades dull and shatter under strain."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

@@ -4,7 +4,7 @@ name: {full: Rawhide Skirt}
 type: armorgear
 description: "Tough hide garment; leg coverage for hard labor."
 tags: []
-data: {icon: skirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: skirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

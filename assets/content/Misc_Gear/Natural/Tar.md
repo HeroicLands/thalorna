@@ -4,7 +4,7 @@ name: {full: Tar}
 type: miscgear
 description: "Pine-birch pitch sold in pots; seals hull seams, waterproofs leather, tars rope."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: natural

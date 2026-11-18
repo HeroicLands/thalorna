@@ -27,6 +27,7 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [freckled]
+    hair_style: braided
     extra_features: [a white scar through the left eyebrow]
   packFolder: aureldiaaelwyth
 ---

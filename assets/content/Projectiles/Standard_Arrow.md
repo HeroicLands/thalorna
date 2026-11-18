@@ -5,7 +5,7 @@ type: projectilegear
 subType: arrow
 description: "Ash or birch shaft, goose-feather fletching; workaday deer or skirmish arrow."
 tags: []
-data: {icon: broadheadarrow, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: broadheadarrow, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: fltch, secondary: [wood, mtlc]}
   traits: {ARvalue: 4, bleed: false}

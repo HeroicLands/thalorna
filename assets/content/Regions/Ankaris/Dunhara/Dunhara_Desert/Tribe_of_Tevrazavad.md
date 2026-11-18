@@ -26,6 +26,7 @@ data:
     offices: {}
   seat: oasistvrzvd
   population: null
+  territorial_population: 600
   economy: []
   lore: [humanflk]
   parents: [dunhartrbs]

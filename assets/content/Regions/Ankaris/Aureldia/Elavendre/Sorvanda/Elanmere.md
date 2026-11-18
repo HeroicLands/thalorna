@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [sorvanda]
   population: 2100
+  market: local
+  type: town
   government: kngdmlvndr
   packFolder: elavendre
+  notes: "The lake town at the foot of the Sórvanda mountains—the market where the high country comes down to trade, and the last comfortable place before the passes."
 ---
 
 **Elanmere** stands on the shore of the lake that gives it its name, in a glacial valley at the western

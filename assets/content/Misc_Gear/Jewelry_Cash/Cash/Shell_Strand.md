@@ -4,7 +4,7 @@ name: {full: Shell Strand, shuq: [hamil]}
 type: miscgear
 description: "A cord of drilled shell beads long enough to reach once around a grown hand; the unit of every price on the Bead Coast."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl: {kbcat: cash, system: {weightBase: 0.2, valueBase: 10, qualityBase: 0, durabilityBase: 8}}
 ---
 

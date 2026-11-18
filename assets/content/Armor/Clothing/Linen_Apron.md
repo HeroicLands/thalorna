@@ -4,7 +4,7 @@ name: {full: Linen Apron}
 type: armorgear
 description: "Breathable linen apron ideal for daily chores and cooking."
 tags: []
-data: {icon: cook, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cook, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

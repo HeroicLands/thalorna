@@ -25,6 +25,10 @@ data:
     hair_color: brown
     skin_color: medium
     complexion: [scarred]
+    face_shape: oval
+    nose: aquiline
+    brow: straight
+    mouth: full
     extra_features: [a scar on the chin]
   packFolder: midhaliontaruzel
 sohl:

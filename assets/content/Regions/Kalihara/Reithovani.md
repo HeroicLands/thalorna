@@ -9,10 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [kaliharargn]
-  population: null
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "A fishing village on the eastern coast of Kalihara, a half-day south of Ilovanu, whose fishing-stone has gone dark and whose kaan-vaar has done something to the village that nobody names."
 ---
 
 ## Overview {#overview}

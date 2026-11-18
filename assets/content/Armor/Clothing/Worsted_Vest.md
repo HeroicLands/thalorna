@@ -4,7 +4,7 @@ name: {full: Worsted Vest}
 type: armorgear
 description: "Tightly-spun wool vest; durable, practical protective garment."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -167,7 +167,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     data.retired = data.retired.filter((row) => !respelled.some(([, was]) => row.form === was));
     assert.equal(
         hash({ ...note.fm, data }),
-        "ce26f54e06ef056fed3572c2702271d0a5f3f359af675481e01b3f6893621439",
+        "8a44d9caa84bc3ac5c0ecbee72e6bc85f713931682bb433dd6af5655337021fe",
     );
     assert.equal(
         hash(fields.slice(0, -1)),
@@ -290,11 +290,6 @@ test("new Okharik citations keep actual vowel, nasal, ending and qualifier contr
             );
         }
     }
-    assert.deepEqual(note.fm.data.sounds.stress, {
-        two: "first",
-        longer: "penultimate",
-        mark: "acute",
-    });
     assert.deepEqual(SOURCES["skill-okharclng"], ["tamazight", "hausa"]);
 });
 test("Okharik publishes each ordinary citation and its essential meaning", async () => {

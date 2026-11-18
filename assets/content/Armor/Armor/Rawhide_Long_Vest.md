@@ -4,7 +4,7 @@ name: {full: Rawhide Long Vest}
 type: armorgear
 description: "Extended hide vest; tough torso protection without sleeves."
 tags: []
-data: {icon: leatherarmor, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leatherarmor, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

@@ -4,7 +4,7 @@ name: {full: "Beaker, glass, small"}
 type: containergear
 description: "Small open glass beaker."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 0.4, valueBase: 1.5, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 1}

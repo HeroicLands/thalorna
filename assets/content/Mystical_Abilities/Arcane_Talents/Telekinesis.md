@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Moves an object at a distance, within a weight the practitioner could lift by hand."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

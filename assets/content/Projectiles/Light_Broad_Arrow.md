@@ -5,7 +5,7 @@ type: projectilegear
 subType: arrow
 description: "Light hunting shaft, leaf-shaped iron edge; bleeds prey, deer, fox, unarmoured men."
 tags: []
-data: {icon: broadheadarrow, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: broadheadarrow, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: fltch, secondary: [wood, mtlc]}
   traits: {ARvalue: 4, bleed: true}

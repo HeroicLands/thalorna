@@ -4,7 +4,7 @@ name: {full: "Belt, Waist"}
 type: miscgear
 description: "Leather waist belt with buckle; universal for suspending pouches, tools, and weapons."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: expedition

@@ -4,7 +4,7 @@ name: {full: Chendrapur Moon-Cut Gem}
 type: miscgear
 description: "A stone assayed, sawn, cut, polished and set within Chendrapur's own walls—the finished end of the gem trade the whole region cuts for."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   system: {weightBase: 0.02, valueBase: 450, qualityBase: 0, durabilityBase: 10}

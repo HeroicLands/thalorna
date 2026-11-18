@@ -4,7 +4,7 @@ name: {full: Sling Staff}
 type: weapongear
 description: "Pole-mounted sling multiplying range and power for peasant levy."
 tags: []
-data: {icon: sling, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: sling, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: hide, secondary: [wood]}
   kbcat: sling

@@ -4,7 +4,7 @@ name: {full: Morningstar}
 type: weapongear
 description: "Spiked iron sphere on short haft; mounted man-at-arms' shock-versatility."
 tags: []
-data: {icon: flangedmace, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: flangedmace, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: club

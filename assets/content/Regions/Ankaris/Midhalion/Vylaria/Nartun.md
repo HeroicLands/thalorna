@@ -10,9 +10,12 @@ data:
   lore: []
   parents: [nartumkngdm]
   population: 60000
+  market: international
+  type: city
   routes: [{to: ashenmere, bearing: S, mode: land, days: 5, terrain: [forest, road]}]
   packFolder: vylaria
   government: hlykngdmnrtm
+  notes: "The holy city of the Holy Kingdom of Nartun, about sixty thousand people on a long wooded height: the Holy Mother's hall at the summit, the king's hall on the terrace beneath it, twelve temples with their schools and treasuries, and walls held by the Order of the Sacred Flame."
 ---
 
 ## Overview {#overview}

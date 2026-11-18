@@ -32,6 +32,7 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [freckled]
+    face_shape: round
     extra_features: [a round face with a small sharp chin]
   packFolder: midhalionvylaria
 ---

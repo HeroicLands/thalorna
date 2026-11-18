@@ -27,6 +27,8 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [weathered]
+    hair_style: long
+    facial_hair: braided_beard
     extra_features: [a long white beard braided in two]
   packFolder: aureldiaprovenzia
 ---

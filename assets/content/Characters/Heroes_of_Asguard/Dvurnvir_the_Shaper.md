@@ -24,6 +24,8 @@ data:
     hair_color: silver
     skin_color: light
     complexion: [freckled]
+    face_shape: long
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

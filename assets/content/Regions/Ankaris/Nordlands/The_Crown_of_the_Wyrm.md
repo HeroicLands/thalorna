@@ -4,7 +4,7 @@ name: {full: The Crown of the Wyrm}
 type: miscgear
 description: "One of the three regalia of Groa's quest—a crown of the wyrm, required with the Horn and the Spear to work the Ritual of Binding against Njorven."
 tags: [artifact, regalia, nordlands]
-data: {templatePriority: null, packFolder: nordlands}
+data: {kind: miscgear, templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 3, valueBase: 0, durabilityBase: 15}}
 ---
 

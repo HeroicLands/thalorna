@@ -28,6 +28,12 @@ data:
     hair_color: dark_blonde
     skin_color: pale
     complexion: [weathered]
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: aquiline
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

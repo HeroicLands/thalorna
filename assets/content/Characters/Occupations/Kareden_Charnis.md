@@ -25,6 +25,7 @@ data:
     hair_color: white
     skin_color: light
     complexion: [sun_kissed]
+    hair_style: short
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

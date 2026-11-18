@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: pale
     complexion: [freckled]
+    hair_style: braided
     extra_features: []
   packFolder: aureldiaelavendre
 ---

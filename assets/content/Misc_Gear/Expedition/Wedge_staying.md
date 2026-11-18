@@ -4,7 +4,7 @@ name: {full: "Wedge, staying"}
 type: miscgear
 description: "Small wooden or bone wedge; prevents tent poles and wagon wheels slipping."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

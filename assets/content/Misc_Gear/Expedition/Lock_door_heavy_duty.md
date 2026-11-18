@@ -4,7 +4,7 @@ name: {full: "Lock, door, heavy-duty"}
 type: miscgear
 description: "Heavy iron triple-warded deadbolt; secures vault doors and fortified manor gates."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: lock, secondary: [mtlc]}
   kbcat: expedition

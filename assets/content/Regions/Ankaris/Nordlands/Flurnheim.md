@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A northern realm once beset by a blight no healer could cure, lifted by Rilthorv Runaskald's rune and Odvar's verses."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  population: 0
+  packFolder: nordlands
+  notes: "A northern realm once beset by a blight no healer could cure, lifted by Rilthorv Runaskald's rune and Odvar's verses."
 ---
 
 At Flurnheim's harvest feasts the farmers sing the verses attributed to [[lore-odvardty|Odvar]] that [[being-rlthrvrnskld|Rilthorv Runaskald]] sang to lift the blight, and not one of the singers has ever seen him. Flurnheim is farming country in the [[place-nrdlndsrgn|Nordlands]], and its people remember the year their crops failed better than any year they succeeded.

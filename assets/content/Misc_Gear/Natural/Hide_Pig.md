@@ -4,7 +4,7 @@ name: {full: "Hide, Pig"}
 type: miscgear
 description: "Hog hide thicker than sheep; moderately soft leather for gloves and belts. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: natural

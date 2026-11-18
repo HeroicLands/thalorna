@@ -10,9 +10,12 @@ data:
   lore: []
   parents: [galvaren]
   population: 20000
+  type: town
+  market: international
   routes: [{to: valthari, bearing: E, mode: ship, days: 3, terrain: [coast]}]
   packFolder: tarvenia
   government: kngdmglvrn
+  notes: "The harbor capital of Galvaren, a fog-bound fishing port of about 20,000 on a deep south-western bay, where the shipmasters sit at the king's Long Table and the harbor teller keeps the roll of the drowned."
 ---
 
 ## Overview {#overview}

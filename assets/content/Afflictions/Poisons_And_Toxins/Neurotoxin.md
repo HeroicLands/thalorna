@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Nerve toxin; paralysis and convulsions; disrupts neurotransmission leading to respiratory failure."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 830
+  market: local
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "The largest of the rice villages, set back a mile from the water as the farming villages of the Mahanodi are."
 ---
 
 **Vrihistal** (830) is the largest of the rice villages of the [[place-rajepurjnpd|Rajepur Janpoda]]. It stands a mile back from the water, as the farming villages of [[place-mahanodi|the Mahanodi]] do, and the river reaches its fields by channel and not by flood.

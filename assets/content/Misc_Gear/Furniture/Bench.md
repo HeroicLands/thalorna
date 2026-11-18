@@ -4,7 +4,7 @@ name: {full: "Bench"}
 type: miscgear
 description: "Long backless wooden seat for a table, hall, or workshop."
 tags: [furniture]
-data: {icon: swapbag, templatePriority: 0, packFolder: furniture}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: furniture}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: furniture

@@ -13,6 +13,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {brown: 4, tawny: 3, dark_brown: 2, golden: 2}
     complexion: {weathered: 4, sun_kissed: 3, leathery: 2, smooth: 1}
+    hair_texture: {coily: 8, curly: 2}
+    hair_style: {cropped: 3, short: 3, braided: 3, locked: 1}
+    face_shape: {oval: 3, heart: 2, round: 2, angular: 2, broad: 1}
+    nose: {broad: 3, snub: 3, straight: 3, upturned: 1}
+    brow: {straight: 3, arched: 3, thin: 2, heavy: 1}
+    mouth: {full: 4, wide: 2, thin: 2, small: 1}
     height: {female: {min: 5' 0", max: 5' 8"}, male: {min: 5' 4", max: 6' 1"}}
 
 # terran_analog: "The pastoralist and hunter-gatherer peoples of the Kalahari and the southern African grasslands: Herero and Himba cattle-herders, Khoikhoi herders and San hunters. Carries over: clan and lineage in place of kingdom, cattle as wealth and dowry, cattle-raiding as a rite of passage, ancestor veneration, and rock-art in the dry country. Departs: a rough trade-pidgin shared with the forest intermediaries, and a recognized sky-creator who is called on only in crisis."

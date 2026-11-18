@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [byzariargn]
   population: 6000
+  market: international
+  type: town
   government: cnclkstrsh
   packFolder: byzaria
+  notes: "Port Town"
 ---
 
 ## Overview {#overview}

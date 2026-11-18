@@ -4,7 +4,7 @@ name: {full: Bridle}
 type: miscgear
 description: "Leather straps and iron rings; fits horse's head, steers via reins."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: tack

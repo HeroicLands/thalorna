@@ -4,7 +4,7 @@ name: {full: Warflail}
 type: weapongear
 description: "Spiked chain-joined heads bypassing guard; armor-defeating reach for professionals."
 tags: []
-data: {icon: flail, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: flail, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: flail

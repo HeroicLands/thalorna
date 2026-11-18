@@ -4,15 +4,18 @@ name: {full: Other Fire, tokc: [tokchi hinchaka]}
 type: place
 subType: settlement
 description: "The Other Fire, chief of the hill towns of the Old Ranges, which kept a rival Sun's fire through the Scattering and lights its New Fire from a coal its own Keeper carries."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: tokchiliclt
   demonym: null
   lore: [tokchiliclt]
   parents: [poktaskorgn]
   population: 7000
+  type: town
+  market: regional
   government: tokchiaska
   packFolder: tokchiaska
+  notes: "The Other Fire, chief of the hill towns of the Old Ranges, which kept a rival Sun's fire through the Scattering and lights its New Fire from a coal its own Keeper carries."
 
 # terran_analog: Etowah in the Georgia foothills, with its great platform mound, its copper plates and its periods of independence from the larger chiefdoms
 ---

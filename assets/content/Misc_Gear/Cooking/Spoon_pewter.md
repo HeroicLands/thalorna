@@ -4,7 +4,7 @@ name: {full: "Spoon, pewter"}
 type: miscgear
 description: "Cast pewter spoon with deepened bowl for eating and stirring cooking."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

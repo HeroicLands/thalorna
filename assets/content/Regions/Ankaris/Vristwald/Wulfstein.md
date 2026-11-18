@@ -10,12 +10,15 @@ data:
   lore: [lynxttm]
   parents: [skathwald]
   population: 320
+  market: local
+  type: village
   borders: [{to: skathburg, bearing: NW}, {to: hildholt, bearing: S}]
   routes:
     - {to: skathburg, bearing: NW, mode: land, days: 2, terrain: [track, forest]}
     - {to: hildholt, bearing: S, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Skathwald."
 ---
 
 ## Overview {#overview}

@@ -4,7 +4,7 @@ name: {full: Sinew-Backed Bow}
 type: weapongear
 description: "Short horn-and-wood bow lined along the back with sinew; the arctic hunter's and warrior's ranged weapon."
 tags: []
-data: {icon: sohl-none-icon-longbow, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: sohl-none-icon-longbow, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: bow
   weaponType: Bow

@@ -4,7 +4,7 @@ name: {full: "Wrappings, leather"}
 type: containergear
 description: "Leather sheet for wrapping and waterproofing."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 0.5, valueBase: 0.5, qualityBase: 0, durabilityBase: 4, maxCapacityBase: 2}

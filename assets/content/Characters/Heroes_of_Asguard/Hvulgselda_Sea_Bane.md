@@ -24,6 +24,9 @@ data:
     hair_color: red
     skin_color: light
     complexion: []
+    hair_style: short
+    nose: straight
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

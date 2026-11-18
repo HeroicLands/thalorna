@@ -10,9 +10,12 @@ data:
   lore: [humanflk]
   parents: [rojai]
   population: 7500
+  market: international
+  type: town
   government: shuiwojaidmn
   packFolder: jenchai
   culture: jenchaiclt
+  notes: "The castle town of House Shuiwojai on the strait coast of Rojai—a harbor, a granary and a hall, seat of the lord who wants the office of Teng Ja."
 ---
 
 Hawu (Dark Hall) is the castle town and seat of [Shuiwojai Henzo]{.name data-type="being/npc"}, a town of 7,500 people. The lord's hall stands above the harbor on a shoulder of [[place-rojai|Rojai]]; the town fills the ground between the hall and the water.

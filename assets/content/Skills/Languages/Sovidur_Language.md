@@ -92,7 +92,6 @@ data:
       - "Khaaqidur"
       - "Vurakur"
   sounds:
-    stress: {two: first, longer: penultimate}
     syllables:
       onsets: single
       codas: [b, d, t, k, g, q, gh, kh, j, ch, s, sh, z, m, n, l, r, v, y]

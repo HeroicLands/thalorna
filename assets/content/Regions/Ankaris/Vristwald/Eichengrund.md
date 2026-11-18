@@ -10,8 +10,11 @@ data:
   lore: [boarttm]
   parents: [vethwald]
   population: 250
+  market: local
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Woodland Village"
 ---
 
 ## Overview {#overview}

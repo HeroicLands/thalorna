@@ -25,6 +25,10 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [clear]
+    hair_texture: wavy
+    face_shape: angular
+    nose: straight
+    mouth: full
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

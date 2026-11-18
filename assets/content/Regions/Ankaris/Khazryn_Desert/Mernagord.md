@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [swoasisbelt]
   population: 30000
+  market: regional
+  type: city
   government: khzrncnfdrtn
   packFolder: khazryndesert
+  notes: "The largest oasis still ruled by a Tellumi prince, at the western end of Tellumel by the salt pans and the Western Descent, and the first city a caravan meets coming over the range."
 ---
 
 ## Overview {#overview}

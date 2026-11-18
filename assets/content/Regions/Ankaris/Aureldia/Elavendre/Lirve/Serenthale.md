@@ -4,15 +4,18 @@ name: {full: Serenthale}
 type: place
 subType: settlement
 description: "The sea-facing Senali enclave of the western deep forest—older and far more withdrawn than the mountain enclaves, and the one no Áelendan will guide anyone to."
-tags: [village, woodland, coastal]
+tags: [hamlet, woodland, coastal]
 data:
   demonym: null
   lore: [flksenali]
   parents: [lirve]
   population: 90
+  type: hamlet
+  market: local
   packFolder: elavendre
   culture: senaliclt
   government: nclvsrnthl
+  notes: "The sea-facing Senali enclave of the western deep forest—older and far more withdrawn than the mountain enclaves, and the one no Áelendan will guide anyone to."
 ---
 
 **Serenthale**, as it is called in [[skill-elvndrlng|Élavendri]], stands in the old forest of [[place-lirve|Lirve]], somewhere in the country between

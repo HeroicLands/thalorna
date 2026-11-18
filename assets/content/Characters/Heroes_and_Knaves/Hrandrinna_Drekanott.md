@@ -24,6 +24,8 @@ data:
     hair_color: blonde
     skin_color: light
     complexion: [scarred]
+    face_shape: oval
+    mouth: wide
     extra_features: [a scar running down the right leg]
   packFolder: ankarisnordlands
 sohl:

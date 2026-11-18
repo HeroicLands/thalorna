@@ -10,8 +10,11 @@ data:
   lore: [sturgeonttm]
   parents: [vrystwldrvrs]
   population: 450
+  market: local
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Fortified Village"
 ---
 
 ## Overview {#overview}

@@ -26,6 +26,7 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [wan]
+    hair_style: locked
     extra_features: [a matted beard]
   packFolder: aureldiaelavendre
 ---

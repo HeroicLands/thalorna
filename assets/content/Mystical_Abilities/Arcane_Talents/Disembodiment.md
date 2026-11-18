@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Separates the perceiving self from the body, which lies insensible while it is away."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

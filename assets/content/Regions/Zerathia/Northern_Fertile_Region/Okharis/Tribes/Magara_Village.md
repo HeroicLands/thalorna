@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 260
+  market: local
+  type: village
   packFolder: okharis
   government: magaratrb
+  notes: "Seat of the warlike Magara tribe and its horse herds, on the open plains of Okharis."
 ---
 
 ## Overview {#overview}

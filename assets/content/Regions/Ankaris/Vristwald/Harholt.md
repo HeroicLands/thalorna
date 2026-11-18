@@ -10,8 +10,11 @@ data:
   lore: [wolfttm]
   parents: [falkhaven]
   population: 350
+  market: local
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Falkhaven whose old pines are where the western musters gather each thaw."
 ---
 
 ## Overview {#overview}

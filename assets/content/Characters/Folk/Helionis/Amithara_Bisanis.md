@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: knotted
+    face_shape: square
+    nose: straight
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: helladhelionis
 ---

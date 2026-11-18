@@ -4,7 +4,7 @@ name: {full: Knife}
 type: weapongear
 description: "Single-edged blade for camp work and brawl alike."
 tags: []
-data: {icon: plaindagger, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: plaindagger, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: knife

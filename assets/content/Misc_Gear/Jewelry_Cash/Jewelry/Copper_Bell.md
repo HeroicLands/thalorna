@@ -4,7 +4,7 @@ name: {full: Copper Bell}
 type: miscgear
 description: "A small cast copper bell of southern make; it reaches the One Fire across the desert at a high price."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   craft: {skill: mtlc, secondary: []}

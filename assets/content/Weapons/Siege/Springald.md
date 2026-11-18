@@ -4,7 +4,7 @@ name: {full: Springald}
 type: weapongear
 description: "Light torsion bolt-thrower; two-crew wall-top engine for picking men off a rampart."
 tags: []
-data: {icon: spearhook, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: spearhook, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: siege

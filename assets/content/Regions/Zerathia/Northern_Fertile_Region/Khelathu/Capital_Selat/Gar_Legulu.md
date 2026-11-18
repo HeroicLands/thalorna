@@ -11,8 +11,11 @@ data:
   lore: []
   parents: [galezkaraslt]
   population: 30000
+  type: town
+  market: regional
   packFolder: regkhsett
   government: capitalselat
+  notes: "Temple-Estate Town"
 ---
 
 ## Overview {#overview}

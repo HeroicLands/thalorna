@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: medium
     complexion: [weathered]
+    hair_style: shaved_sides
     extra_features: [a scar on the chin]
   packFolder: aureldiatarvenia
 sohl:

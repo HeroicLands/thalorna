@@ -4,7 +4,7 @@ name: {full: "Chrysolite, cut"}
 type: miscgear
 description: "Pale yellow-green faceted gem; nobility and clergy set in rings."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

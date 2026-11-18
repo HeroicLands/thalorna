@@ -4,7 +4,7 @@ name: {full: Scale Leggings}
 type: armorgear
 description: "Leggings with sewn metal scales; leg-and-thigh armor."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide, mtlc]}
   kbcat: scale

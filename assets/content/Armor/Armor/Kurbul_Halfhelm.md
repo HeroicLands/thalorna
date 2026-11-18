@@ -4,7 +4,7 @@ name: {full: Kûrbúl Halfhelm}
 type: armorgear
 description: "Leather helm covering head and jawline with styled design and reduced weight."
 tags: []
-data: {icon: barbute, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: barbute, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

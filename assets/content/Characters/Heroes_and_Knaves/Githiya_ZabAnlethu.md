@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: ebony
     complexion: [clear]
+    face_shape: oval
     extra_features: []
   packFolder: regkhhk
 sohl:

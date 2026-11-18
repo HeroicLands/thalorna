@@ -25,6 +25,11 @@ data:
     hair_color: blonde
     skin_color: light
     complexion: [clear]
+    hair_style: shoulder_length
+    face_shape: heart
+    nose: straight
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

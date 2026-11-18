@@ -4,7 +4,7 @@ name: {full: "Alembic, copper, 5 gallon"}
 type: containergear
 description: "Copper still-head for distillation, five gallons."
 tags: []
-data: {icon: cookingpot, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: cookingpot, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 10, valueBase: 180, qualityBase: 0, durabilityBase: 4, maxCapacityBase: 40}

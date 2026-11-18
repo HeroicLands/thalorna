@@ -24,6 +24,8 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [sun_kissed]
+    face_shape: long
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 sohl:

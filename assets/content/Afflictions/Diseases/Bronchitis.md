@@ -6,6 +6,7 @@ subType: disease
 description: "Wet cough, fever, chest pain; inflames airways for weeks."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

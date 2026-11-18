@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [clear]
+    face_shape: long
+    nose: aquiline
     extra_features: []
   packFolder: helladbyzaria
 sohl:

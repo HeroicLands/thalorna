@@ -4,7 +4,7 @@ name: {full: Urumi}
 type: weapongear
 description: "Flexible-bladed whip spiraling from grip; specialist's weapon demanding conditioning."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

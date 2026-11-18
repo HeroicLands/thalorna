@@ -4,7 +4,7 @@ name: {full: Velvet Dress}
 type: armorgear
 description: "Soft plush velvet dress; symbol of luxury and high status."
 tags: []
-data: {icon: dress, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: dress, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

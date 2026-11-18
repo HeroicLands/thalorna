@@ -35,6 +35,7 @@ data:
         Held by a Kelros, who sets which guild keeps which night of the city's watch.
   seat: aelissium
   population: 40000
+  territorial_population: 40000
   economy: [affiliation-tarmex, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: [vylarinmpr]

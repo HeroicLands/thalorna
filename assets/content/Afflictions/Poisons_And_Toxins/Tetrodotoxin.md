@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Neurotoxin; blocks nerve signals; progressive paralysis including respiratory muscles."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

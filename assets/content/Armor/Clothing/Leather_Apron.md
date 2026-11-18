@@ -4,7 +4,7 @@ name: {full: Leather Apron}
 type: armorgear
 description: "Leather apron for craftsmen and artisans, more style than protection."
 tags: []
-data: {icon: cook, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cook, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

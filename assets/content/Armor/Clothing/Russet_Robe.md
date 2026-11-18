@@ -4,7 +4,7 @@ name: {full: Russet Robe}
 type: armorgear
 description: "Reddish-brown wool robe; everyday garment for cooler weather."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: robe, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

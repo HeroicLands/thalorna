@@ -25,6 +25,9 @@ data:
     hair_color: blonde
     skin_color: light
     complexion: [freckled]
+    face_shape: angular
+    nose: straight
+    brow: arched
     extra_features: [a tattoo of a rose vine on the leg]
   packFolder: aureldiaelavendre
 sohl:

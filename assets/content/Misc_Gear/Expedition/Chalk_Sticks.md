@@ -4,7 +4,7 @@ name: {full: Chalk Sticks}
 type: miscgear
 description: "Soft mineral sticks; marks stone, parchment, and leather for masons and merchants."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: expedition

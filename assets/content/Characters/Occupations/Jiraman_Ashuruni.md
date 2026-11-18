@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: []
+    hair_style: cropped
+    face_shape: angular
+    nose: straight
+    brow: arched
     extra_features: [a tattoo of a falcon on the right arm]
   packFolder: midhaliontaruzel
 sohl:

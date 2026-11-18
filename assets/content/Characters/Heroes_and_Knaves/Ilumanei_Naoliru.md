@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [scarred]
+    hair_style: cropped
+    face_shape: oval
+    nose: narrow
     extra_features: [a scar on the chin]
   packFolder: heroesandknaveskalihara
 sohl:

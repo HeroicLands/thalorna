@@ -6,6 +6,7 @@ subType: disease
 description: "Vibrio bacterium; sudden profuse watery diarrhea; rapid dehydration fatal without treatment."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

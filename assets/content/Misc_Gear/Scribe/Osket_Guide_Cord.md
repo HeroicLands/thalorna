@@ -4,7 +4,7 @@ name: {full: Osket Guide-Cord}
 type: miscgear
 description: "A knotted length of hide recording a route across the wall; unreadable to a lowlander and never sold to one."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
   craft: {skill: txtl, secondary: []}

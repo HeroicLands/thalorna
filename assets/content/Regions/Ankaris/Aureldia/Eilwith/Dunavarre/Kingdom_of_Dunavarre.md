@@ -49,6 +49,7 @@ data:
         Envoy to a foreign court, invariably a mage, and invariably assumed to be more than an envoy.
   seat: ravenmoor
   population: 75000
+  territorial_population: 75000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []

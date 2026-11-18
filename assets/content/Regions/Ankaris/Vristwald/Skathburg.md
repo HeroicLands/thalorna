@@ -10,12 +10,15 @@ data:
   lore: [wolfttm]
   parents: [skathwald]
   population: 480
+  market: local
+  type: village
   borders: [{to: wulfstein, bearing: SE}]
   routes:
     - {to: vethholt, bearing: NW, mode: land, days: 5, terrain: [track, forest]}
     - {to: wulfstein, bearing: SE, mode: land, days: 2, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Skathwald."
 ---
 
 ## Overview

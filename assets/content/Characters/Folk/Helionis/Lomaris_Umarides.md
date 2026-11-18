@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [sun_kissed]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: angular
+    nose: straight
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: helladhelionis
 ---

@@ -4,7 +4,7 @@ name: {full: "Hide, Sheep"}
 type: miscgear
 description: "Sturdy dried hide; yields suede for jerkins or tanned leather bookbindings. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: natural

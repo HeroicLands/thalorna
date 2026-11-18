@@ -4,7 +4,7 @@ name: {full: "Silk, per sq yard"}
 type: miscgear
 description: "Imported woven silk, light and lustrous; the dearest cloth in any market."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -24,6 +24,12 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: []
+    face_shape: round
+    nose: narrow
+    mouth: wide
+    hair_texture: straight
+    hair_style: knotted
+    brow: arched
     extra_features: [a tattoo of a waterfall on the shoulder]
   packFolder: ankarisvedyara
 sohl:

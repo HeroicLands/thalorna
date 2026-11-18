@@ -4,7 +4,7 @@ name: {full: Sociable}
 type: trauma
 subType: psycond
 tags: []
-data: {icon: battlegear, templatePriority: 0, packFolder: quirks}
+data: {kind: quirk, icon: battlegear, templatePriority: 0, packFolder: quirks}
 sohl: {kbcat: psybehavior, system: {category: quirk}}
 ---
 

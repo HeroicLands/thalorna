@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [clear]
+    hair_texture: curly
+    brow: thin
     extra_features: []
   packFolder: regkhhk
 sohl:

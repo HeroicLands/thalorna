@@ -4,7 +4,7 @@ name: {full: Cloth Loincloth}
 type: armorgear
 description: "Soft cloth loincloth offering basic coverage and casual comfort."
 tags: []
-data: {icon: loincloth, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: loincloth, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

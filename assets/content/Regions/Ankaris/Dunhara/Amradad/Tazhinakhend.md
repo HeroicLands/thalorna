@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [amradadrgn]
   population: 6000
+  market: regional
+  type: town
   government: kngdmmrdd
   packFolder: amradad
+  notes: "Town"
 ---
 
 Tazhinakhend is a town in [[place-amradadrgn|Amradad]], the settled corner of the [[place-dunharargn|Dunhara]], whose walled cities, oases and caravan routes are held by the [[affiliation-kngdmmrdd|Kingdom of Amradad]].

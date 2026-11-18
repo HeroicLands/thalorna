@@ -25,6 +25,9 @@ data:
     hair_color: greying_black
     skin_color: tawny
     complexion: []
+    face_shape: oval
+    nose: straight
+    brow: arched
     extra_features: [a tattoo of a fish on the lower back]
   packFolder: midhaliontaruzel
 sohl:

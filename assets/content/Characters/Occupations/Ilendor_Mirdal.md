@@ -26,6 +26,8 @@ data:
     hair_color: chestnut
     skin_color: olive
     complexion: [weathered]
+    nose: aquiline
+    mouth: wide
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

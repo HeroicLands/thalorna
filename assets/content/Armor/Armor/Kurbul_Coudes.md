@@ -4,7 +4,7 @@ name: {full: Kûrbúl Coudes}
 type: armorgear
 description: "Treated leather elbow protection with intricate patterns for function and flair."
 tags: []
-data: {icon: elbowpad, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: elbowpad, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

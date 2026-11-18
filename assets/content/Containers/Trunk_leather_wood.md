@@ -4,7 +4,7 @@ name: {full: "Trunk, leather & wood"}
 type: containergear
 description: "Leather-covered wooden travelling trunk."
 tags: []
-data: {icon: chest, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: chest, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 7.5, valueBase: 18, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 50}

@@ -4,7 +4,7 @@ name: {full: Khelathi Gold Qelu, en: [Gold Qelu, Gold Qezelet]}
 type: miscgear
 description: "Temple-attested gold weight-piece of one qelu, a tenth of a gezan."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

@@ -4,7 +4,7 @@ name: {full: "Milk, goat"}
 type: miscgear
 description: "Tangy dairy curdles quickly into sharp cheese, richer than sheep's."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

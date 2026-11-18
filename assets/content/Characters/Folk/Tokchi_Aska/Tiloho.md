@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: broad
+    nose: broad
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: kiichchiktokchiaska
 ---

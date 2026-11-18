@@ -4,7 +4,7 @@ name: {full: "Book case, travelling"}
 type: containergear
 description: "Waxed leather shoulder case; shields travelling book and scribe's kit from weather."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 2.5, valueBase: 180, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 8}

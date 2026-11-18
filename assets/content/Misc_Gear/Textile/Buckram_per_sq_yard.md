@@ -4,7 +4,7 @@ name: {full: "Buckram, per sq yard"}
 type: miscgear
 description: "Heavy coarse linen, loosely woven; cloth armour, sailcloth and sacking."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: Leather Shoes}
 type: armorgear
 description: "Comfortable lightweight leather foot covering for everyday wear or light adventuring."
 tags: []
-data: {icon: leatherboot, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leatherboot, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

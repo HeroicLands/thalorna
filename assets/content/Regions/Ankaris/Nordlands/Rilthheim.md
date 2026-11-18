@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "The settlement of the Skalds' Hall, a prestigious gathering of northern skalds and loremasters that keeps archives of ancient sagas."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  packFolder: nordlands
+  notes: "The settlement of the Skalds' Hall, a prestigious gathering of northern skalds and loremasters that keeps archives of ancient sagas."
 ---
 
 At Rilthheim a saga is heard before it is read, and it is read only by those [The Skalds' Hall of Rilthheim]{.name data-type="affiliation"} has taken in; a traveler who asks for one is seated on the long bench to listen. The settlement is known across the [[place-nrdlndsrgn|Nordlands]] for one building and the people who gather in it: **the Skalds' Hall of Rilthheim**, a prestigious gathering of northern skalds and loremasters.

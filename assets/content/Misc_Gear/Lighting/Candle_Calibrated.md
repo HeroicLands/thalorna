@@ -4,7 +4,7 @@ name: {full: "Candle, Calibrated"}
 type: miscgear
 description: "Marked candle burned to measure hours; favored by scribes, scholars, astrologers."
 tags: [lighting]
-data: {icon: swapbag, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: lighting

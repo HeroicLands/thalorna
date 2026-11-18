@@ -4,7 +4,7 @@ name: {full: Ch'alish Codex}
 type: miscgear
 description: "A folded book of bark-paper written in glyphs; the priesthood's temple archive in portable form."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 1, valueBase: 120, qualityBase: 0, durabilityBase: 4}}
 ---
 

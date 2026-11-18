@@ -4,7 +4,7 @@ name: {full: Ballista}
 type: weapongear
 description: "Heavy torsion bolt-thrower; four-crew engine that spits a shaft through shield, mail and man."
 tags: []
-data: {icon: aerodynamicharpoon, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: aerodynamicharpoon, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: siege

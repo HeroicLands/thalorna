@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [clear]
+    brow: arched
     extra_features: []
   packFolder: ankariskhazryndesert
 sohl:

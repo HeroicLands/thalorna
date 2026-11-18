@@ -24,6 +24,9 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [scarred]
+    face_shape: angular
+    brow: heavy
+    mouth: wide
     extra_features: [a scar above the left eyebrow]
   packFolder: helladhelionis
 sohl:

@@ -26,6 +26,12 @@ data:
     hair_color: grey
     skin_color: tawny
     complexion: [ruddy]
+    hair_texture: straight
+    hair_style: long
+    face_shape: square
+    nose: aquiline
+    brow: thin
+    mouth: full
     extra_features: []
   packFolder: kiichchikixbaltzaku
 ---

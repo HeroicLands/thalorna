@@ -31,6 +31,8 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [scarred]
+    hair_style: shaved
+    facial_hair: none
     extra_features:
       - the Mark of the Fist branded on the right side of the chest
       - the left forearm and hand shiny and ridged with old burns

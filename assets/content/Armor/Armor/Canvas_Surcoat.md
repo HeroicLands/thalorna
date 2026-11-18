@@ -4,7 +4,7 @@ name: {full: Canvas Surcoat}
 type: armorgear
 description: "Hard-wearing canvas surcoat worn over gear on the march."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

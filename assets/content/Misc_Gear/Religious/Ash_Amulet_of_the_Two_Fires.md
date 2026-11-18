@@ -4,7 +4,7 @@ name: {full: Ash-Amulet of the Two Fires, en: [Ash Token, Two-Fires Token]}
 type: miscgear
 description: "A clay disc pressed with ash from the altar of the Temple of Two Fires in Kudumel, stamped with Ústaron's anvil on one face and Ataros's flame on the other, sold in the gate passage to travelers bound for the road or the sea."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-firebdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.02, valueBase: 0.25, qualityBase: 0, durabilityBase: 2}

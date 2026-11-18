@@ -4,7 +4,7 @@ name: {full: Coin Balance}
 type: miscgear
 description: "Bronze hand-scale with shallow pans; merchants detect shaved or debased coins."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

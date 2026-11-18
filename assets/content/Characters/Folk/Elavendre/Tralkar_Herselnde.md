@@ -27,6 +27,7 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [smooth]
+    facial_hair: short_beard
     extra_features: [a pierced left ear]
   packFolder: aureldiaelavendre
 ---

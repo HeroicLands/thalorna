@@ -26,6 +26,12 @@ data:
     hair_color: dark_blonde
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: short
+    face_shape: broad
+    nose: snub
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 ---

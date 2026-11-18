@@ -4,7 +4,7 @@ name: {full: Corn Pipe}
 type: miscgear
 description: "The long pipe of Tanshe Yawa's bundle, smoked to open the autumn trading and to bind band and village to its peace."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl: {kbcat: religious, system: {weightBase: 1, valueBase: 0, qualityBase: 0, durabilityBase: 20}}
 ---
 

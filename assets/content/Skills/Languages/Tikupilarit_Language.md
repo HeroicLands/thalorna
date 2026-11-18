@@ -5927,10 +5927,7 @@ data:
         - "kavrukali"
         - "tikukuvla"
     village: ["kavrumiq", "napamiq", "taqvamiq", "imlak kagaq", "simi manik"]
-  sounds:
-    edges: [{edge: closeConsonant, sounds: [q, k, n, t]}]
-    clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
+  sounds: {edges: [{edge: closeConsonant, sounds: [q, k, n, t]}], clusters: {max: 3}}
   scope:
     folders: [tikupilarit]
     cultures: [tikupilaritclt]

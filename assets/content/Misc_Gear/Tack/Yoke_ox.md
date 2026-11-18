@@ -4,7 +4,7 @@ name: {full: "Yoke, ox"}
 type: miscgear
 description: "Shaped wooden beam coupling a pair of oxen to a plough or cart."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: tack

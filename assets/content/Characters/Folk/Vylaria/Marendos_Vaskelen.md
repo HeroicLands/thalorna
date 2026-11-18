@@ -31,6 +31,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: short
     extra_features:
       - a thick black-and-gray beard cut square
       - two fingers of the left hand stiff and crooked from an old rope burn

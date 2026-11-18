@@ -4,7 +4,7 @@ name: {full: A Reef Spear}
 type: weapongear
 description: "A barbed hardwood spear tipped with worked shell, the common weapon of the island's reef villages and a fishing tool first."
 tags: [kalihara]
-data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm

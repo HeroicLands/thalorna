@@ -9,10 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [klhrring]
-  population: null
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "A village high on the southern crest of Kalihara's Ring, where the custodians of the wind-stones winter and the custodians of dark works are kept, above a grove-stone that holds its hillside."
 ---
 
 ## Overview {#overview}

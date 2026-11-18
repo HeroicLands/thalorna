@@ -4,7 +4,7 @@ name: {full: Serge Tunic}
 type: armorgear
 description: "Twilled serge tunic; practical, versatile garment for everyday wear."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: Horn (for carving)}
 type: miscgear
 description: "Cattle horn and deer or elk antler; twice the price of bone, and worked much the same."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural

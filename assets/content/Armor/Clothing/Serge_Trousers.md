@@ -4,7 +4,7 @@ name: {full: Serge Trousers}
 type: armorgear
 description: "Twilled serge trousers; practical, versatile everyday leg wear."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

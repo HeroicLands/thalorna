@@ -25,6 +25,9 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [clear]
+    hair_style: long
+    face_shape: broad
+    nose: narrow
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

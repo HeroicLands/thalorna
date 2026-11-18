@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: fair
     complexion: [weathered]
+    hair_style: long
     extra_features: [a chipped front tooth]
   packFolder: aureldiaelavendre
 ---

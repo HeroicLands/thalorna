@@ -61,6 +61,12 @@ data:
     hair_color: {black: 6, dark_brown: 3, brown: 1}
     skin_color: {tawny: 4, light: 2, olive: 2, golden: 1, brown: 1}
     complexion: {clear: 3, ruddy: 3, weathered: 2, smooth: 1}
+    hair_texture: {straight: 8, wavy: 2}
+    hair_style: {long: 4, braided: 3, shoulder_length: 3, knotted: 1, cropped: 1}
+    face_shape: {broad: 3, round: 3, oval: 2, square: 2}
+    nose: {broad: 3, straight: 3, aquiline: 3, snub: 1}
+    brow: {straight: 4, heavy: 2, arched: 2, bushy: 1}
+    mouth: {full: 3, wide: 3, thin: 2, small: 1}
     height: {female: {min: 5' 0", max: 5' 6"}, male: {min: 5' 4", max: 5' 10"}}
 
 # terran_analog: "The peoples of the Pacific Northwest coast: the Kwakwaka'wakw above all, with the Nuu-chah-nulth, Haida, Tlingit, Tsimshian and Coast Salish. Carries over: cedar-plank houses and carved house posts, crest poles, bentwood boxes, cedar-bark clothing, the salmon runs and the first-salmon rite, eulachon grease, seagoing dugouts, coppers and their breaking, the potlatch with its paid witnesses and ranked seats, hereditary names as property inherited through either parent, the winter ceremonial season with its own order of names, the Hamatsa initiation, food burned for the dead, and raid-taken slaves. Departs: no house rules another, the whole coast ranks its houses in one order of seats, and the killing of slaves at a feast is ended by a ruling of the count, not by outside law."

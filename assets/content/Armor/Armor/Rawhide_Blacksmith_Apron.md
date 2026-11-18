@@ -4,7 +4,7 @@ name: {full: Rawhide Blacksmith Apron}
 type: armorgear
 description: "Thick hide apron; guards against forge-spark and heat."
 tags: []
-data: {icon: cook, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cook, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

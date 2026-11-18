@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 780
+  market: local
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "The downstream village of Rajepur, whose Rasikara cremation-ground receives the dead of every constituent village."
 ---
 
 The dead of every village in the janpoda come to **Muktoshvara** (780), the downstream village, and the [[affiliation-rasikara|Rasikara]] cremation-ground that receives them runs along a half-mile of bank below the houses. Its ghats are stone and are kept by the village at the janpoda's charge.

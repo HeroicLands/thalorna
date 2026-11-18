@@ -13,8 +13,11 @@ data:
     - {to: vuldstead, bearing: W, mode: land, days: 3, terrain: [plain]}
     - {to: drasknes, bearing: N, mode: land, days: 3, terrain: [track, hills]}
   population: 6000
+  market: international
+  type: town
   packFolder: eilwith
   government: jrldmstrmvld
+  notes: "The High Jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."
 ---
 
 **Stormveil** is not a city and does not aspire to be one. It is the seat of the

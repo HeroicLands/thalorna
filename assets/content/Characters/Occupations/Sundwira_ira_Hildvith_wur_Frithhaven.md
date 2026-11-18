@@ -24,6 +24,8 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [ruddy]
+    hair_style: braided
+    face_shape: long
     extra_features: [a burn mark on the left hand]
   packFolder: ankarisvrystwald
 sohl:

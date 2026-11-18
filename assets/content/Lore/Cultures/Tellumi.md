@@ -30,6 +30,12 @@ data:
     hair_color: {black: 6, dark_brown: 3, grey: 1}
     skin_color: {olive: 3, tawny: 3, golden: 2, light: 2, tanned: 2}
     complexion: {weathered: 3, smooth: 3, sun_kissed: 2, clear: 1}
+    hair_texture: {wavy: 4, straight: 3, curly: 3}
+    hair_style: {short: 3, shoulder_length: 3, long: 2, knotted: 2, braided: 1}
+    face_shape: {oval: 3, long: 3, angular: 2, heart: 2}
+    nose: {aquiline: 3, straight: 3, narrow: 2, hooked: 1, broad: 1}
+    brow: {arched: 3, bushy: 3, straight: 2, heavy: 1}
+    mouth: {full: 3, thin: 3, wide: 1, small: 1}
     height: {female: {min: 5' 4", max: 6' 0"}, male: {min: 5' 6", max: 6' 3"}}
   events:
     - id: migration

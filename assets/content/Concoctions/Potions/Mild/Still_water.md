@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "A pale green sleeping draught made from the weed of the Bowl Lake, kept by the physicians of Ithorinu."
 tags: [kalihara]
-data: {icon: icon-potion, templatePriority: null, packFolder: mild}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

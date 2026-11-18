@@ -4,7 +4,7 @@ name: {full: Cloth Surcoat}
 type: armorgear
 description: "Simple cloth surcoat providing comfort and practical outer wear."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

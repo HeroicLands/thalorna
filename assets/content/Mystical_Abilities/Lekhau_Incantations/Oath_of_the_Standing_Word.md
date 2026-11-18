@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Binds a spoken oath so that both parties know, at once and without doubt, when it is broken."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqarquz

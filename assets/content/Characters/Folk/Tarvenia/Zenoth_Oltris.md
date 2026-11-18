@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: [clear]
+    hair_style: short
     extra_features: []
   packFolder: aureldiatarvenia
 ---

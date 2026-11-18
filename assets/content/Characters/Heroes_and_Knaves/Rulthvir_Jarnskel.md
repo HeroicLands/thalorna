@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
+    nose: straight
+    mouth: small
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

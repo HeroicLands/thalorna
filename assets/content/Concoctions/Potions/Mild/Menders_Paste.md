@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Pale green poultice; heals wounds and promotes recovery."
 tags: [mild-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: mild}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

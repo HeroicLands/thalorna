@@ -4,7 +4,7 @@ name: {full: Linen Cowl}
 type: armorgear
 description: "Breathable head and shoulder covering providing sun protection without overheating."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: hood, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

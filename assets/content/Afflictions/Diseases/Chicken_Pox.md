@@ -6,6 +6,7 @@ subType: disease
 description: "Varicella virus; red spots progress to fluid-filled blisters; highly contagious."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

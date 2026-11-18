@@ -4,7 +4,7 @@ name: {full: Beaver Mittens}
 type: armorgear
 description: "Beaver fur mittens offering comfort and warmth for cold climates."
 tags: []
-data: {icon: gloves, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: gloves, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

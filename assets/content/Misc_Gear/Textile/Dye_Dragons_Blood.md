@@ -4,7 +4,7 @@ name: {full: "Dye, Dragon's Blood"}
 type: miscgear
 description: "Crimson resin powder; rich red dye for fine silk and noble garments."
 tags: [clothing]
-data: {icon: roundpotion, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: dye

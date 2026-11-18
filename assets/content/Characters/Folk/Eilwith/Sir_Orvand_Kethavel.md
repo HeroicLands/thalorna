@@ -34,6 +34,8 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [weathered]
+    hair_style: short
+    facial_hair: short_beard
     extra_features: [a stiff left knee, a lance scar across the jaw]
   packFolder: aureldiaaelwyth
 ---

@@ -24,6 +24,9 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    face_shape: angular
+    nose: upturned
+    mouth: small
     extra_features: [a scar along the jawline]
   packFolder: ankarisnordlands
 sohl:

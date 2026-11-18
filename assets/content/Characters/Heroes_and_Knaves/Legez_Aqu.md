@@ -25,6 +25,9 @@ data:
     hair_color: null
     skin_color: dark_brown
     complexion: [weathered]
+    hair_style: shaved
+    brow: heavy
+    mouth: full
     extra_features:
       - a bald head
       - Tablets-of-Qe'aret tattoos on both forearms scored through with deliberate cuts

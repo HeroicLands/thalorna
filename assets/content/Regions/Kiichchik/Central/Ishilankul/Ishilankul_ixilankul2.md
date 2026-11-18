@@ -5,14 +5,22 @@ type: place
 subType: settlement
 description: "The Seat of the Stars: the city of the Q'emulmah, first of the Sun Lords, where the plateau's tribute is counted in the Court of Tribute and a priest watches the sky from every temple summit through the night."
 tags: [city]
-data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 150000, government: ixilankul}
+data:
+  demonym: null
+  lore: []
+  parents: [ixilankulrgn]
+  population: 11000
+  type: city
+  market: regional
+  government: ixilankul
+  notes: "The Seat of the Stars: the city of the Q'emulmah, first of the Sun Lords, where the plateau's tribute is counted in the Court of Tribute and a priest watches the sky from every temple summit through the night."
 
 # terran_analog: Tenochtitlan as the city of the huey tlatoani, with its palace storehouses and the tribute rolls of the Codex Mendoza; the summit houses are this city's own
 ---
 
 ## Overview {#overview}
 
-Ish'ilankul goes dark at night as no other city on the plateau does. No fire burns on its temple summits after sunset. Each pyramid is crowned instead by a small square house of white plaster with narrow slots cut through its walls, and on every clear night a priest sits in each one with his eye to a slot and a tally-cord across his knees. Ish'ilankul, the Seat of the Stars, takes its name from those summit houses. It is a city of about 150,000 people in the central valleys of the [[place-ixilankulrgn|Ish'ilankul Region]], the largest on the plateau, and the seat of the realm of [[affiliation-ixilankul|Ish'ilankul]]. Its Ts'enmah is the Q'emulmah, the first of the Sun Lords, and the other cities of the plateau send their tribute here.
+Ish'ilankul goes dark at night as no other city on the plateau does. No fire burns on its temple summits after sunset. Each pyramid is crowned instead by a small square house of white plaster with narrow slots cut through its walls, and on every clear night a priest sits in each one with his eye to a slot and a tally-cord across his knees. Ish'ilankul, the Seat of the Stars, takes its name from those summit houses. It is a city of about 11,000 people in the central valleys of the [[place-ixilankulrgn|Ish'ilankul Region]], the largest on the plateau, and the seat of the realm of [[affiliation-ixilankul|Ish'ilankul]]. Its Ts'enmah is the Q'emulmah, the first of the Sun Lords, and the other cities of the plateau send their tribute here.
 
 ## The City
 

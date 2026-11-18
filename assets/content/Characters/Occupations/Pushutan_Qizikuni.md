@@ -25,6 +25,9 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [weathered]
+    hair_style: short
+    face_shape: heart
+    brow: heavy
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

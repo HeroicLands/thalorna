@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Perceives the feeling and intent of those nearby, without their words."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

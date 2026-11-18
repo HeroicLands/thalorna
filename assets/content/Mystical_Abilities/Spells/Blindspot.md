@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster becomes invisible when still; seen only if moving."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

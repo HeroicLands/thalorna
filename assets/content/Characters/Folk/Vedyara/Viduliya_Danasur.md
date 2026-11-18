@@ -28,6 +28,7 @@ data:
     hair_color: grey
     skin_color: tawny
     complexion: [weathered]
+    hair_style: short
     extra_features: [Reading-callus on the right forefinger]
   packFolder: ankarisvedyara
 sohl:

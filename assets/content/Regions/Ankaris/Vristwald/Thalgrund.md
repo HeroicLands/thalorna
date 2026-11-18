@@ -10,12 +10,15 @@ data:
   lore: [badgerttm]
   parents: [edriwald]
   population: 230
+  market: local
+  type: village
   borders: [{to: eichholt, bearing: W}]
   routes:
     - {to: eichholt, bearing: W, mode: land, days: 3, terrain: [track, forest]}
     - {to: thornryth, bearing: E, mode: land, days: 5, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Edriwald."
 ---
 
 ## Overview {#overview}

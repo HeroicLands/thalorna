@@ -25,6 +25,10 @@ data:
     hair_color: brown
     skin_color: light
     complexion: []
+    hair_texture: wavy
+    face_shape: oval
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

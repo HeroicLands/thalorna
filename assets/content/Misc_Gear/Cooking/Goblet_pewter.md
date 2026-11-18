@@ -4,7 +4,7 @@ name: {full: "Goblet, pewter"}
 type: miscgear
 description: "Stemmed pewter goblet for merchants and minor lords' formal tables."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

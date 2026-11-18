@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [weathered, ruddy]
+    hair_style: cropped
     extra_features: [two fingers of the left hand stiff from an old break]
   packFolder: aureldiatarvenia
 ---

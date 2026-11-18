@@ -4,7 +4,7 @@ name: {full: Serge Cloak}
 type: armorgear
 description: "Durable twilled serge cloak; protective outer garment for all weather."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cloak, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

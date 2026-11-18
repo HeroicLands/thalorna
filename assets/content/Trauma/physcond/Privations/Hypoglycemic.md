@@ -5,7 +5,7 @@ type: trauma
 subType: physcond
 description: "Blood sugar crashes; tremor, sweating, confusion, collapse."
 tags: []
-data: {icon: stomach, templatePriority: 0, packFolder: privations}
+data: {kind: privation, icon: stomach, templatePriority: 0, packFolder: privations}
 sohl: {kbcat: physprivations, system: {category: impediment, levelBase: 2, healingRateBase: 5}}
 ---
 

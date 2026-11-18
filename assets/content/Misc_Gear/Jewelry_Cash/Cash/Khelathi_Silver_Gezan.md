@@ -4,7 +4,7 @@ name: {full: Khelathi Silver Gezan, en: [Silver Gezan]}
 type: miscgear
 description: "Temple-attested silver weight-piece of one gezan; the standard for significant commerce."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

@@ -4,7 +4,7 @@ name: {full: Kûrbúl Rerebraces}
 type: armorgear
 description: "Leather upper arm guards offering protection and flexibility with ornamental designs."
 tags: []
-data: {icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

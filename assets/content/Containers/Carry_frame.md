@@ -4,7 +4,7 @@ name: {full: "Carry frame"}
 type: containergear
 description: "Wooden pack frame for lashing loads to."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 5, valueBase: 1, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 40}

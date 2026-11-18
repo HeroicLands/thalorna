@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [korvathis]
   population: 2200
+  market: local
+  type: town
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The green hill town on the southern edge of the Túravel Hills—the southern gentry's summer refuge from the coastal heat, and the last comfortable place before the old country begins."
 ---
 
 **Palvote**—the green hill—sits in the uplands above the warm southern plain, at the point where

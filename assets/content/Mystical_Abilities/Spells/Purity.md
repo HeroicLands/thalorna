@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Purifies water and food; removes toxins and contamination."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

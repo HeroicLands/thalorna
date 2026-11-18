@@ -4,7 +4,7 @@ name: {full: "Bowl, pewter"}
 type: miscgear
 description: "Cast pewter bowl; durable, soft-sheen, and safe for food and drink."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

@@ -4,7 +4,7 @@ name: {full: Buckram Surcoat}
 type: armorgear
 description: "Stiff buckram surcoat providing durability and reliable structured fit."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

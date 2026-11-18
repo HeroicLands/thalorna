@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [clear]
+    hair_style: braided
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

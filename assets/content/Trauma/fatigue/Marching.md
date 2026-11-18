@@ -5,7 +5,7 @@ type: trauma
 subType: fatigue
 description: "Sustained weariness from long-distance walking at travel pace."
 tags: []
-data: {icon: sleepy, templatePriority: 0, packFolder: fatigue}
+data: {kind: physcond, icon: sleepy, templatePriority: 0, packFolder: fatigue}
 sohl: {kbcat: fatigue, system: {category: weariness, levelBase: 1, healingRateBase: 3}}
 ---
 

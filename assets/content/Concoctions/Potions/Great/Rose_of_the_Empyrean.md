@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Translucent luminous perfume; grants beauty and supernatural charisma."
 tags: [great-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: great}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

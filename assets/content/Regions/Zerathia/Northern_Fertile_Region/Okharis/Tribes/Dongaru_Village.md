@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 220
+  market: local
+  type: village
   packFolder: okharis
   government: dongarutrb
+  notes: "Forest village of the Dóngaru tribe, ringed by charcoal pits."
 ---
 
 ## Overview {#overview}

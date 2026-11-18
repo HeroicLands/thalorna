@@ -26,6 +26,7 @@ data:
     hair_color: white
     skin_color: tanned
     complexion: [weathered, leathery]
+    hair_style: cropped
     extra_features: [a cloudy left eye]
   packFolder: aureldiatarvenia
 ---

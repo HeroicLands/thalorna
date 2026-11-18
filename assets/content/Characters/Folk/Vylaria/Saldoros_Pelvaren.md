@@ -32,6 +32,7 @@ data:
     hair_color: grey
     skin_color: fair
     complexion: [weathered, scarred]
+    hair_style: cropped
     extra_features:
       - a lance scar across the bridge of the nose
       - hair cropped close to the scalp

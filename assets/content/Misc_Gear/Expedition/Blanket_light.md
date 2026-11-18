@@ -4,7 +4,7 @@ name: {full: "Blanket, light"}
 type: miscgear
 description: "Thin linen or light wool blanket; pocketable and quick-drying for mild seasons."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

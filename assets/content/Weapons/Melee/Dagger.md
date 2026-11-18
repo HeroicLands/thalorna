@@ -4,7 +4,7 @@ name: {full: Dagger}
 type: weapongear
 description: "Short double-edged blade for parry and stab; universal sidearm."
 tags: []
-data: {icon: broaddagger, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: broaddagger, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: knife

@@ -26,6 +26,12 @@ data:
     hair_color: greying_black
     skin_color: brown
     complexion: [weathered]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: broad
+    nose: hooked
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: kiichchikneokbaate
 ---

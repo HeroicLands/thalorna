@@ -4,7 +4,7 @@ name: {full: Plate Cuirass}
 type: armorgear
 description: "Shaped steel plates protecting torso and ribs."
 tags: []
-data: {icon: breastplate, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: breastplate, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

@@ -27,6 +27,7 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [smooth]
+    hair_style: cropped
     extra_features: []
   packFolder: midhalionvylaria
 ---

@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "A bitter brown draught steeped from forest bark, the apothecaries' answer to the island's fevers."
 tags: [kalihara]
-data: {icon: icon-potion, templatePriority: null, packFolder: mild}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

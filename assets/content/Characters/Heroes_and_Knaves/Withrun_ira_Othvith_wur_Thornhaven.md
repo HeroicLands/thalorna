@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: pale
     complexion: [clear]
+    hair_style: braided
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

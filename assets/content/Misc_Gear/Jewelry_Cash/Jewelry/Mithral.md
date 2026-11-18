@@ -4,7 +4,7 @@ name: {full: Mithral}
 type: miscgear
 description: "Rare silvery metal harder than steel; prized by weaponcrafters and crown."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

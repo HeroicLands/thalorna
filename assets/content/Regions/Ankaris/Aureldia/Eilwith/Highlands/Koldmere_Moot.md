@@ -2,7 +2,7 @@
 shortcode: koldmermoot
 name: {full: Koldmere Moot, en: [The Moot, Koldmere's Moot]}
 type: affiliation
-subType: governmental
+subType: polity
 description: "The village moot of Koldmere, which governs the free reed-cutting village on Lake Eilìssa without a lord and chooses a reed-reeve each spring to speak for it."
 tags: []
 data:
@@ -27,7 +27,8 @@ data:
       Reed-Reeve: >-
         Chosen by the moot each spring. Sets the cutting, keeps the boats, and speaks for the village to anyone who comes asking, the Ondarethan senators at Stoniford among them.
   seat: koldmere
-  population: null
+  population: 350
+  territorial_population: 350
   economy: []
   lore: []
   packFolder: eilwith

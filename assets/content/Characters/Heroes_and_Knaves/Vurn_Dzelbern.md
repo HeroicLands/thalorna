@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    hair_style: short
     extra_features: [Rope-burn scars across both palms]
   packFolder: ankarisvedyara
 sohl:

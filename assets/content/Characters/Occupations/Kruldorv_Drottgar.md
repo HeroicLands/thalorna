@@ -24,6 +24,9 @@ data:
     hair_color: dark_blonde
     skin_color: pale
     complexion: [ruddy]
+    hair_style: braided
+    face_shape: angular
+    brow: straight
     extra_features: [a scar on the right cheek]
   packFolder: ankarisnordlands
 sohl:

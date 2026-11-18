@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Deep gray blue-tinged liquid; induces deep sleep and rest."
 tags: [strong-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: strong}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

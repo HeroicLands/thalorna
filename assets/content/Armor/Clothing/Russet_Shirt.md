@@ -4,7 +4,7 @@ name: {full: Russet Shirt}
 type: armorgear
 description: "Reddish-brown wool shirt; basic cold-weather core."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

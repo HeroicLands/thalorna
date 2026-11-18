@@ -4,7 +4,7 @@ name: {full: Russet Trousers}
 type: armorgear
 description: "Reddish-brown wool breeches; leg-wear for outdoor work."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

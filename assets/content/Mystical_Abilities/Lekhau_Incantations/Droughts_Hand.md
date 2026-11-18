@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Withholds water from a stated ground until the working is lifted."
 tags: [gethunu-lekhau, incantation]
-data: {icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaugezrlt

@@ -4,7 +4,12 @@ name: {full: The Legate's Roll, en: [Legrotherna, The Roll of the March]}
 type: miscgear
 description: "The imperial legate's roll of the occupied march of Lyenrik, given into the keeping of Árdavon's temple at Ornetho's north gate when the garrisons left and taken from it in 680 AF; the old knight Kotsude Kanarris has sought it ever since."
 tags: [artifact, tarvenia]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: tarvenia, unique: true}
+data:
+  kind: miscgear
+  icon: icon-coinsbdg
+  templatePriority: null
+  packFolder: tarvenia
+  unique: true
 sohl: {system: {weightBase: 4, valueBase: 0, qualityBase: 0, durabilityBase: 2}}
 ---
 

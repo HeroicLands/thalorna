@@ -25,6 +25,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
     extra_features: [a tattoo of a crown on the chest]
   packFolder: aureldiaelavendre
 sohl:

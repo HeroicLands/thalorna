@@ -28,6 +28,8 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [weathered]
+    face_shape: oval
+    nose: straight
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

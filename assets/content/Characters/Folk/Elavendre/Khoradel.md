@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: tanned
     complexion: [weathered]
+    hair_style: shoulder_length
     extra_features: [broad, heavy shoulders]
   packFolder: aureldiaelavendre
 ---

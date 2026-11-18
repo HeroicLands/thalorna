@@ -25,6 +25,7 @@ data:
     offices: {}
   seat: chrysamar
   population: null
+  territorial_population: 25000
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

@@ -4,7 +4,7 @@ name: {full: "Ink, Black"}
 type: miscgear
 description: "Oak-gall ink; indelible black for clerks, scribes, chroniclers' work."
 tags: [scribe]
-data: {icon: inkswirl, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: inkswirl, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: scribe

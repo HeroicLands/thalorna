@@ -5,7 +5,7 @@ type: projectilegear
 subType: bolt
 description: "Heavy hardwood quarrel with ball head; breaks ribs, clears crowds bloodlessly."
 tags: []
-data: {icon: broadheadarrow, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: broadheadarrow, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: fltch, secondary: [wood, mtlc]}
   traits: {ARvalue: 4, bleed: true}

@@ -24,6 +24,7 @@ data:
     hair_color: chestnut
     skin_color: medium
     complexion: [freckled]
+    brow: heavy
     extra_features: []
   packFolder: dunharatribes
 sohl:

@@ -4,7 +4,7 @@ name: {full: Canvas Robe}
 type: armorgear
 description: "Full-length canvas robe favouring durability over comfort."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: robe, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

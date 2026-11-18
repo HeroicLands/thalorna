@@ -10,12 +10,15 @@ data:
   lore: [foxttm]
   parents: [thornwald]
   population: 360
+  market: local
+  type: village
   borders: [{to: thornhaven, bearing: E}]
   routes:
     - {to: thalgrund, bearing: W, mode: land, days: 5, terrain: [track, forest]}
     - {to: thornhaven, bearing: E, mode: land, days: 2, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Thornwald."
 ---
 
 ## Overview {#overview}

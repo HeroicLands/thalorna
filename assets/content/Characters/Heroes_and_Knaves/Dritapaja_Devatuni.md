@@ -24,6 +24,7 @@ data:
     hair_color: white
     skin_color: tawny
     complexion: [weathered, wrinkled]
+    hair_style: long
     extra_features: [Ink stains on the right thumb and forefinger]
   packFolder: ankarisvedyara
 sohl:

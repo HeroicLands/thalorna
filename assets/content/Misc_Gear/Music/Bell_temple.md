@@ -4,7 +4,7 @@ name: {full: "Bell, temple"}
 type: miscgear
 description: "Substantial bronze bell on frame; deep tone carries far beyond sanctuary."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: music

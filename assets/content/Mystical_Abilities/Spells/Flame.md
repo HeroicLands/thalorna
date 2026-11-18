@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Conjures bright persistent flame; ignites targets or illuminates darkness."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

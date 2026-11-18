@@ -4,7 +4,7 @@ name: {full: "Holy Symbol, brass"}
 type: miscgear
 description: "Cast brass token of a god, hung at the neck; the commonest metal symbol."
 tags: [religious]
-data: {icon: prayer, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: prayer, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: religious

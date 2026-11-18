@@ -4,7 +4,7 @@ name: {full: Buckram Coat}
 type: armorgear
 description: "Stiff buckram coat offering durable, reliable outer protection."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: Leather Shirt}
 type: armorgear
 description: "Stylish and practical leather garment offering minimal protection."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

@@ -4,7 +4,7 @@ name: {full: Buckram Knee Boots}
 type: armorgear
 description: "Stiff buckram knee boots offering durability and structured leg protection."
 tags: []
-data: {icon: leatherboot, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leatherboot, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

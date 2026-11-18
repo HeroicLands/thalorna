@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 490
+  market: local
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "Pulse village of the higher ground, which carries the janpoda through a failed rice year."
 ---
 
 **Mashakshetra** (490) is the village the rest of the [[place-rajepurjnpd|Rajepur Janpoda]] looks to when the rice fails. It stands on the higher ground, above the wet fields of the floodplain, and grows pulse, the dry-ground third of the standard Vedyari mix of rice, cotton and pulse.

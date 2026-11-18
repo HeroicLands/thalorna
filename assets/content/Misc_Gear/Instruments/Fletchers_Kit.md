@@ -4,7 +4,7 @@ name: {full: Fletcher's Kit}
 type: miscgear
 description: "Wooden case with feather shears, binding silk, glue pot, nocking jig, shaft plane for arrows."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

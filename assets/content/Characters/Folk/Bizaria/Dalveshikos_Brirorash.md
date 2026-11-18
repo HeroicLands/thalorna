@@ -28,6 +28,12 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [sun_kissed]
+    hair_texture: wavy
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: aquiline
+    brow: bushy
+    mouth: wide
     extra_features: []
   packFolder: helladbyzaria
 ---

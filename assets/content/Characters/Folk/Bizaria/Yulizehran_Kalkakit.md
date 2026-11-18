@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: oval
+    nose: aquiline
+    brow: straight
+    mouth: small
     extra_features: []
   packFolder: helladbyzaria
 ---

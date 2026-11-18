@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [byzariargn]
   population: 4000
+  market: regional
+  type: town
   government: mgstrcythls
   packFolder: byzaria
+  notes: "Harbor Town"
 ---
 
 If you want your cargo inspected, Thálassos is the wrong harbor; if you want it left alone, it is the right one. The town's magistrate keeps minimal customs authority and leaves the tariffs to a handful of bonded merchants, an arrangement that suits independent traders and small-scale smugglers equally well.

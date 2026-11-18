@@ -4,7 +4,7 @@ name: {full: "Plate, tin"}
 type: miscgear
 description: "Thin stamped tin plate for military camps and common inns; cheap."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

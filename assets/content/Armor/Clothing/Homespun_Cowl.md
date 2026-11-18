@@ -4,7 +4,7 @@ name: {full: Homespun Cowl}
 type: armorgear
 description: "Simple homemade cowl offering warmth and basic protection."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: hood, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

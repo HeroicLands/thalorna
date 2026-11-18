@@ -37,6 +37,8 @@ data:
     hair_color: greying_black
     skin_color: olive
     complexion: [sun_kissed]
+    hair_style: short
+    facial_hair: full_beard
     extra_features: [a full black beard going gray at the chin, soft heavy hands]
   packFolder: midhaliontaruzel
 ---

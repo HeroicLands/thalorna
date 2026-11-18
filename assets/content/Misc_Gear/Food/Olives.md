@@ -4,7 +4,7 @@ name: {full: Olives}
 type: miscgear
 description: "Pickled brined relish, luxury trade good, keeps indefinitely under brine."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

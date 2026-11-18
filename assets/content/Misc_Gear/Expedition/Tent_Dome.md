@@ -4,7 +4,7 @@ name: {full: "Tent, Dome"}
 type: miscgear
 description: "Low hemispherical shelter; resists wind and sheds rain from all angles."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

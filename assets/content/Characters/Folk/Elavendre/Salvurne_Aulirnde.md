@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [clear]
+    hair_style: cropped
     extra_features: [a lamp-black scar across the right cheek]
   packFolder: aureldiaelavendre
 ---

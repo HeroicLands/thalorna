@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [swoasisbelt]
   population: 60000
+  market: international
+  type: city
   government: tribestrzd
   packFolder: khazryndesert
+  notes: "The first and holiest of the seven Tellumi cities, a spring city under the Vurinkarvem cliff, held by the Atarzád since the Breaking and the seat of the Tellumi Confederation in everything but fact."
 ---
 
 ## Overview {#overview}

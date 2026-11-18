@@ -4,7 +4,7 @@ name: {full: Beaver Cloak}
 type: armorgear
 description: "Dense beaver fur cloak providing exceptional warmth and opulent status marking."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cloak, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

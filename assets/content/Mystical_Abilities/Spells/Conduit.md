@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Establishes flowing channel; directs water, air, or energy through."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

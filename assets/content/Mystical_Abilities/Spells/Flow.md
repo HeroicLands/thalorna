@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster merges with nearby liquid; moves through as substance."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

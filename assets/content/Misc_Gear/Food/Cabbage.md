@@ -4,7 +4,7 @@ name: {full: Cabbage}
 type: miscgear
 description: "Dense pale head; sweet fresh, soured pickled for winter larder."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

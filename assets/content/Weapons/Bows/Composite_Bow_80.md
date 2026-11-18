@@ -4,7 +4,7 @@ name: {full: Composite Bow 80}
 type: weapongear
 description: "Eighty-pound cavalry bow for charged volleys from saddle."
 tags: []
-data: {icon: pocketbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: pocketbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, hide]}
   kbcat: bow

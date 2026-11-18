@@ -4,7 +4,7 @@ name: {full: Kûrbúl Spaulders}
 type: armorgear
 description: "Treated leather shoulder guards combining functionality with elaborate decorative patterns."
 tags: []
-data: {icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

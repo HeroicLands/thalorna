@@ -4,7 +4,7 @@ name: {full: Beef}
 type: miscgear
 description: "Fresh meat quartered or jointed; spoils quickly unless salted, smoked, jerked."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

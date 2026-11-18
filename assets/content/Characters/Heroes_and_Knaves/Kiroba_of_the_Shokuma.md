@@ -28,6 +28,10 @@ data:
     hair_color: dark_brown
     skin_color: dark_brown
     complexion: []
+    hair_texture: curly
+    hair_style: short
+    facial_hair: short_beard
+    face_shape: angular
     extra_features: []
   packFolder: northernfertileregionokharis
 sohl:

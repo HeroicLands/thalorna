@@ -24,6 +24,7 @@ data:
     hair_color: greying_brown
     skin_color: light
     complexion: [wrinkled]
+    face_shape: angular
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

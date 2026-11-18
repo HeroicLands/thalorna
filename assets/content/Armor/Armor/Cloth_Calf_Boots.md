@@ -4,7 +4,7 @@ name: {full: Cloth Calf Boots}
 type: armorgear
 description: "Light, breathable cloth boots for casual wear and comfort."
 tags: []
-data: {icon: leatherboot, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leatherboot, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

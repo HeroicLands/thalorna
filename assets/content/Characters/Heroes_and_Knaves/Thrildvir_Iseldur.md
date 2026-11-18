@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [scarred]
+    mouth: small
     extra_features: [a scar above the left eyebrow]
   packFolder: ankarisnordlands
 sohl:

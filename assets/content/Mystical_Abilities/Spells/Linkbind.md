@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Two willing targets linked; damage inflicted on one transfers."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

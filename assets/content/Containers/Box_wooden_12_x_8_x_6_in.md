@@ -4,7 +4,7 @@ name: {full: "Box, wooden, 12 x 8 x 6 in"}
 type: containergear
 description: "Small carved wooden box with a fitted lid, for oddments and keepsakes."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 3, valueBase: 6, qualityBase: 0, durabilityBase: 4, maxCapacityBase: 10}

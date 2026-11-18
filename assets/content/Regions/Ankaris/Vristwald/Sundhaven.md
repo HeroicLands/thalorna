@@ -10,8 +10,11 @@ data:
   lore: [whalettm]
   parents: [falkhaven]
   population: 370
+  market: local
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village on Falkhaven's western shore that a stranded whale fed through the worst of the Three Winters."
 ---
 
 ## Overview {#overview}

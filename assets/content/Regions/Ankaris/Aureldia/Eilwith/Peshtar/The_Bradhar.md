@@ -37,6 +37,7 @@ data:
         A war-chief the shamans name to lead the tribe's clans in one war, followed while the war goes well and left when it does not.
   seat: highwood
   population: 24000
+  territorial_population: 24000
   economy: []
   lore: [humanflk]
   parents: []

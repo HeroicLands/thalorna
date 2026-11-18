@@ -4,7 +4,7 @@ name: {full: Qiang}
 type: weapongear
 description: "Leaf-shaped slender thrusting spear with silk tassel; versatile reach."
 tags: []
-data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm

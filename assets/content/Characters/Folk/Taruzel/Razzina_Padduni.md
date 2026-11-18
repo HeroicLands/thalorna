@@ -32,6 +32,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered, scarred]
+    hair_style: short
     extra_features:
       - a burn scar over the left forearm and the back of the hand
       - the bent and callused first two fingers of the right hand

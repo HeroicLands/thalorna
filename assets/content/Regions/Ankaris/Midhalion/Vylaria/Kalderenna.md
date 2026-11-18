@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [nartumkngdm]
   population: 300
+  market: local
+  type: village
   packFolder: vylaria
   government: hlykngdmnrtm
+  notes: "A lumber settlement at the forest's edge in the Nartun Kingdom, all sawpits, timber yards and smoking charcoal clamps, whose fellers, sawyers and charcoal-burners work stands the prior marks and answer to a knight of the Flame."
 ---
 
 ## Overview {#overview}

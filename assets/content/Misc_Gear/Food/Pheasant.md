@@ -4,7 +4,7 @@ name: {full: Pheasant}
 type: miscgear
 description: "Prized game bird, delicate meat roasts well, smokes into jerky."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: food

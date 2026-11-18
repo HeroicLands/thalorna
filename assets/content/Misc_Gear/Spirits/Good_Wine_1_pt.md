@@ -4,7 +4,7 @@ name: {full: "Good Wine, 1 pt."}
 type: miscgear
 description: "Oak-aged fine wine in bottle; body and sweetness beyond common vintage."
 tags: [spirits]
-data: {icon: winebottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: winebottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

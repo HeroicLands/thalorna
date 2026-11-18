@@ -43,6 +43,12 @@ data:
     hair_color: {black: 4, dark_brown: 4, brown: 3, chestnut: 1}
     skin_color: {olive: 4, medium: 3, tanned: 3, tawny: 1, fair: 1}
     complexion: {sun_kissed: 4, weathered: 3, clear: 2, smooth: 2}
+    hair_texture: {wavy: 4, curly: 4, straight: 2}
+    hair_style: {short: 4, shoulder_length: 2, cropped: 2, long: 1, knotted: 1}
+    face_shape: {oval: 3, square: 2, long: 2, angular: 2, round: 1}
+    nose: {straight: 5, aquiline: 3, broad: 1, hooked: 1}
+    brow: {arched: 3, straight: 3, bushy: 3, heavy: 1}
+    mouth: {full: 3, thin: 3, wide: 1, small: 1}
     height: {female: {min: 5' 3", max: 6' 1"}, male: {min: 5' 6", max: 6' 6"}}
 
 # terran_analog: "Greece, Bulgaria, North Macedonia and Albania (the Aegean and southern Balkan sphere of philosopher city-states and merchant confederations). Carries over: rival cities that unite for shared festivals and defense, agora debate, public athletics and theater, educated female companions (hetairai). Departs: seven cities, three of them leading, one a democratic naval power, with an academy at Kalidria that trains the companions as political agents across the region."

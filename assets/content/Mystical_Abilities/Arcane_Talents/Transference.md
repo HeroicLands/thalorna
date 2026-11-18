@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Moves a hurt, a quality or a working from one bearer to another."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

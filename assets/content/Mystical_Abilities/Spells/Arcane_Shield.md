@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Translucent disc of force deflects blows and scatters hostile magic."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

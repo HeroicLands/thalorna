@@ -4,7 +4,7 @@ name: {full: "Bread, Wheat, loaf"}
 type: miscgear
 description: "Light golden loaf; finer crumb than rye, keeps shorter than peasant bread."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mill, secondary: []}
   kbcat: food

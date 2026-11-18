@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 310
+  market: local
+  type: village
   packFolder: okharis
   government: wambuchitrb
+  notes: "Grain village of the Wámbuchi tribe amid the fields of the Okharis plains."
 ---
 
 ## Overview {#overview}

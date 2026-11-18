@@ -4,7 +4,7 @@ name: {full: Swan}
 type: miscgear
 description: "Dark gamey waterfowl meat, reserved for noble tables, substantial yield."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: food

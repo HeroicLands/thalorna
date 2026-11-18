@@ -4,7 +4,7 @@ name: {full: Leather Mantle}
 type: armorgear
 description: "Rugged leather outer garment protecting against elements for travelers."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

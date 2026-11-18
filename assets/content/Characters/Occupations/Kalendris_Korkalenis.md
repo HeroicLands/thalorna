@@ -25,6 +25,10 @@ data:
     hair_color: auburn
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: knotted
+    face_shape: angular
+    nose: aquiline
+    brow: arched
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

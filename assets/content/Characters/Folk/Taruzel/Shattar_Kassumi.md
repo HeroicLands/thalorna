@@ -27,6 +27,7 @@ data:
     hair_color: greying_black
     skin_color: olive
     complexion: [smooth]
+    facial_hair: short_beard
     extra_features:
       - a close-trimmed beard in an old legionary fashion
       - a thin white scar through the left eyebrow

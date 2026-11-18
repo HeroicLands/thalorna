@@ -11,8 +11,11 @@ data:
   lore: []
   parents: [belgenzalunome]
   population: 11000
+  type: town
+  market: regional
   packFolder: regkhsett
   government: selatbelgnzl
+  notes: "Selat capital of Belgen-Zalu."
 ---
 
 ## Overview {#overview}

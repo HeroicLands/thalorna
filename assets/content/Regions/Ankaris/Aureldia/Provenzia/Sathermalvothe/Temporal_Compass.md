@@ -4,7 +4,7 @@ name: {full: Temporal Compass}
 type: miscgear
 description: "An ornate enchanted instrument that steadies time around its bearer, allowing a traveler to cross the slow zone of Úkua-Araelwen without losing weeks or months to it."
 tags: [artifact]
-data: {templatePriority: null, packFolder: provenzia, unique: true}
+data: {kind: miscgear, templatePriority: null, packFolder: provenzia, unique: true}
 sohl: {system: {weightBase: 1, valueBase: 0, durabilityBase: 8}}
 ---
 

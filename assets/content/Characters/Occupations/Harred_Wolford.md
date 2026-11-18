@@ -25,6 +25,11 @@ data:
     hair_color: greying_brown
     skin_color: light
     complexion: [clear]
+    hair_style: short
+    face_shape: oval
+    nose: straight
+    brow: straight
+    mouth: full
     extra_features: [a scar above the left eyebrow]
   packFolder: aureldiaaelwyth
 sohl:

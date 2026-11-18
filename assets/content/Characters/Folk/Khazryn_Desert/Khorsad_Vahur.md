@@ -31,6 +31,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered, leathery]
+    hair_style: short
     extra_features: [a digger's broad shoulders, a shovel-callus across the right palm]
   packFolder: ankariskhazryndesert
 ---

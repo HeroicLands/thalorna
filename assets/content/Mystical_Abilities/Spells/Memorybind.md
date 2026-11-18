@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Imprints memory into object; anyone touching it relives experience."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

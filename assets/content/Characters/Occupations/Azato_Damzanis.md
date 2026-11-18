@@ -29,6 +29,10 @@ data:
     hair_color: brown
     skin_color: medium
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: cropped
+    nose: hooked
+    mouth: thin
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

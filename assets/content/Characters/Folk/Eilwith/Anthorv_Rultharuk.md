@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered, leathery]
+    hair_style: short
     extra_features: [a missing front tooth]
   packFolder: aureldiaaelwyth
 ---

@@ -24,6 +24,10 @@ data:
     hair_color: dark_blonde
     skin_color: light
     complexion: [ruddy]
+    hair_style: braided
+    face_shape: square
+    brow: heavy
+    mouth: full
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: ankarisvrystwald
 sohl:

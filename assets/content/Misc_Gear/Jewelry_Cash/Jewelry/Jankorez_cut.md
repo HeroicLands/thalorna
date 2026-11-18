@@ -4,7 +4,7 @@ name: {full: "Jankorez, cut"}
 type: miscgear
 description: "Rare pale blue-white gem; clarity rivals diamonds; royal use only."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

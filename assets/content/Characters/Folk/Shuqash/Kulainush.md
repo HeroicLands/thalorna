@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [smooth]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: broad
+    nose: snub
+    brow: thin
+    mouth: wide
     extra_features: []
   packFolder: kiichchikshuqash
 ---

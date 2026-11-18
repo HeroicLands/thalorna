@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: long
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: helladhelionis
 sohl:

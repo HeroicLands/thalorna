@@ -4,7 +4,7 @@ name: {full: Russet Leggings}
 type: armorgear
 description: "Reddish-brown wool leg-covers; warmth for the lower body."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

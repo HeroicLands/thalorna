@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: pale
     complexion: [clear]
+    face_shape: broad
+    nose: snub
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

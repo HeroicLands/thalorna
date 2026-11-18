@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [ruddy]
+    face_shape: square
+    nose: straight
     extra_features: [a tattoo of a heart on the chest]
   packFolder: helladhelionis
 sohl:

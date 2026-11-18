@@ -4,7 +4,7 @@ name: {full: Wooden Crossbow 160}
 type: weapongear
 description: "Heavy prod spanning by cranequin; castle-wall and convoy suppression weapon."
 tags: []
-data: {icon: crossbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: crossbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: crossbow

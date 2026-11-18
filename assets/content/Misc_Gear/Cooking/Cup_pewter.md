@@ -4,7 +4,7 @@ name: {full: "Cup, pewter"}
 type: miscgear
 description: "Cast pewter cup for ale-houses and tavern daily use and casual damage."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

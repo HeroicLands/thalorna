@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [scarred]
+    face_shape: oval
+    brow: arched
     extra_features: [a scar on the left ankle]
   packFolder: ankariskhazryndesert
 sohl:

@@ -26,6 +26,7 @@ data:
     offices: {}
   seat: selimara
   population: null
+  territorial_population: 5000
   economy: []
   lore: [humanflk]
   parents: []

@@ -5858,7 +5858,6 @@ data:
       - {edge: closeConsonant, sounds: [n, ng, t, k, m]}
       - {edge: vowelPair, sounds: [ai, au, ei, oi]}
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
     syllables: {vowelPairs: [aa, ii, uu, ai, au, ei, oi]}
   scope:
     cultures: [teyumiclt]

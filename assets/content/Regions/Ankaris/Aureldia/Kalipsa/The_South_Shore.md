@@ -11,13 +11,16 @@ data:
   parents: [calypsaisle]
   routes: [{to: calypsacity, bearing: N, mode: land, days: 1, terrain: [hills, road]}]
   population: 17000
+  type: village
+  market: regional
   government: calypsa
   packFolder: calypsa
+  notes: "The fishing villages of Kalipsa's southern coves and the steadings of the upland above them, seventeen thousand people who net, dye and herd for a city that holds their votes in no account and drinks their springs dry."
 ---
 
 ## Overview {#overview}
 
-**The South Shore** is the name the city of [[place-calypsacity|Kalipsa]] gives to everything on the [[place-calypsaisle|Isle of Kalipsa]] that is not the city: the fishing villages of the southern coves, and the steadings on the slopes above them up to the bare turf of [Hlomfell]{.name data-type="place/feature"}. About seventeen thousand people live there. Four of the villages are large enough to have a market day and a priest, and a dozen smaller coves hold a few families each, with their boats hauled up on the shingle below the houses.
+**The South Shore** is the name the city of [[place-calypsacity|Kalipsa]] gives to everything on the [[place-calypsaisle|Isle of Kalipsa]] that is not the city: the fishing villages of the southern coves, and the steadings on the slopes above them up to the bare turf of [Hlomfell]{.name data-type="place/feature"}. About seventeen thousand people live there. Four of the villages are large enough to have a market day and a priest, and a dozen smaller coves hold a few families each, with their boats hauled up on the shingle below the houses. The figure for the whole shore is the sum of many villages, and no single settlement of that size stands there.
 
 The villages are older than most of the city's houses, and they speak the city's [[skill-nordmalng|Nordmal]] with an older sound. They are governed by the [[affiliation-calypsa|city-state]] and have no seat on its [[affiliation-captnscncl|Captains' Council]].
 

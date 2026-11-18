@@ -4,7 +4,7 @@ name: {full: Silk Sleeved Tunic}
 type: armorgear
 description: "Elegant flowing silk sleeved tunic; perfect for formal occasions."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

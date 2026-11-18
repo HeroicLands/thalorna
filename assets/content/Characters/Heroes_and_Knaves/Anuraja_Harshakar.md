@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: []
+    nose: straight
+    mouth: full
     extra_features: [a tattoo of a tiger on the forearm]
   packFolder: ankarisvedyara
 sohl:

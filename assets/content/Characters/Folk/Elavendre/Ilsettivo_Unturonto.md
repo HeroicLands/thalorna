@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: light
     complexion: [smooth]
+    hair_style: cropped
     extra_features: [a notch in the rim of the right ear]
   packFolder: aureldiaelavendre
 ---

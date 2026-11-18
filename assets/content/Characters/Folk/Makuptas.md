@@ -26,6 +26,12 @@ data:
     hair_color: null
     skin_color: dark_brown
     complexion: [clear]
+    hair_style: bald
+    hair_texture: curly
+    face_shape: angular
+    nose: aquiline
+    brow: arched
+    mouth: full
     extra_features: ["a bald head"]
   packFolder: regkhfolk
 ---

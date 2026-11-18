@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 930
+  market: local
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
+  notes: "Cotton village of the lower curve, whose Karmija weaver workshops clothe most of the janpoda."
 ---
 
 **Karpasagram** (930) is the cotton village of the lower curve, and in the picking weeks the lint drifts across the lanes like late snow. Its workshops, kept by **Karmija** weaving households, clothe most of the [[place-danurkotjnpd|Danurkot Janpoda]]. The indigo grown and dyed at [[place-nilaban|Nilaban]] comes to its looms, so the blue cloth of the valley is made by the two villages together.

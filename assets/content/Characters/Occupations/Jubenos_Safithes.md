@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [sun_kissed]
+    hair_style: cropped
+    brow: straight
     extra_features: [a tattoo of a skull on the upper arm]
   packFolder: helladhelionis
 sohl:

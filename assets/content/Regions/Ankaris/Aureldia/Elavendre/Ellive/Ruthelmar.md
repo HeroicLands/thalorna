@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [ellive]
   population: 4800
+  market: local
+  type: town
   government: kngdmlvndr
   packFolder: elavendre
+  notes: "The market town at the head of barge navigation on the Berav, forty miles inland, where the basin's grain and cattle are sold to the factors of Péravel and where the Gandelis road begins."
 ---
 
 ## Overview {#overview}

@@ -4,7 +4,7 @@ name: {full: Velvet Breeches}
 type: armorgear
 description: "Plush velvet breeches; luxurious garment for high-status formal events."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -26,6 +26,12 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: long
+    face_shape: angular
+    nose: straight
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

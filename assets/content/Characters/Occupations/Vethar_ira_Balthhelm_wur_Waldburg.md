@@ -24,6 +24,9 @@ data:
     hair_color: red
     skin_color: medium
     complexion: [rough]
+    hair_style: knotted
+    nose: broad
+    mouth: thin
     extra_features: [a scar on the right hand]
   packFolder: ankarisvrystwald
 sohl:

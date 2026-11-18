@@ -26,6 +26,12 @@ data:
     hair_color: red
     skin_color: tanned
     complexion: [scarred]
+    hair_texture: straight
+    hair_style: long
+    face_shape: oval
+    nose: straight
+    brow: straight
+    mouth: small
     extra_features: []
   packFolder: ankarisnordlands
 ---

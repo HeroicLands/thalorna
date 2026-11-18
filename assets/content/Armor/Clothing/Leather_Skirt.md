@@ -4,7 +4,7 @@ name: {full: Leather Skirt}
 type: armorgear
 description: "Lightweight styled leather leg garment adding edge with minimal protection."
 tags: []
-data: {icon: skirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: skirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

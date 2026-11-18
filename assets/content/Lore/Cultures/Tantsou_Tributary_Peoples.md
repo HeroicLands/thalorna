@@ -13,6 +13,12 @@ data:
     hair_color: {black: 8, dark_brown: 2}
     skin_color: {tawny: 4, brown: 3, medium: 2, golden: 1}
     complexion: {smooth: 4, clear: 3, sun_kissed: 2, weathered: 1}
+    hair_texture: {straight: 8, wavy: 2}
+    hair_style: {long: 4, knotted: 3, short: 3, shoulder_length: 1, braided: 1}
+    face_shape: {round: 4, oval: 3, broad: 2, heart: 1}
+    nose: {broad: 4, snub: 3, straight: 3, upturned: 1}
+    brow: {straight: 4, arched: 3, thin: 2, heavy: 1}
+    mouth: {full: 4, small: 2, thin: 2, wide: 1}
     height: {female: {min: 4' 9", max: 5' 4"}, male: {min: 5' 1", max: 5' 10"}}
 
 # terran_analog: "The tributary kingdoms and mainland Southeast Asian lowlands of the eastern imperial sphere (Vietnam, Laos, Thailand, Cambodia, Myanmar). Carries over: delta and coastal rice country, river and sea trade, tribute sent to the imperial court, local rulers and customs kept under imperial recognition. Departs: all of it lies inside the Empire's registers, and every person of it holds a caste."

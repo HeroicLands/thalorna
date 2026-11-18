@@ -4,7 +4,7 @@ name: {full: Overconfident}
 type: trauma
 subType: psycond
 tags: []
-data: {icon: battlegear, templatePriority: 0, packFolder: disorders}
+data: {kind: disorder, icon: battlegear, templatePriority: 0, packFolder: disorders}
 sohl: {kbcat: psybehavior, system: {category: quirk}}
 ---
 

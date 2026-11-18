@@ -10,9 +10,12 @@ data:
   lore: []
   parents: [vylariargn]
   population: 40000
+  market: international
+  type: city
   government: tevranaelissium
   routes: [{to: orzara, bearing: N, mode: land, days: 5, terrain: [road]}]
   packFolder: vylaria
+  notes: "A chartered free city of about 40,000 at the mouth of the River Vilaris, outside the provinces, where the capital's sea-borne supply goes from ship to barge and the trade guilds govern under the Orzas's charter."
 ---
 
 ## Overview {#overview}

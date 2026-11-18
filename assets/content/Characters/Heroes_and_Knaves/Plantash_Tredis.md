@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    nose: aquiline
+    mouth: wide
     extra_features: []
   packFolder: helladbyzaria
 sohl:

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Writes text magically; creates inscriptions without visible implement."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

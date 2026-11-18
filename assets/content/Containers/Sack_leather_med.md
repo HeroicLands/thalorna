@@ -4,7 +4,7 @@ name: {full: "Sack, leather, med"}
 type: containergear
 description: "Moderate leather sack closed by a drawstring."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system:

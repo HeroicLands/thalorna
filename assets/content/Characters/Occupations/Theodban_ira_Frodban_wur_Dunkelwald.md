@@ -24,6 +24,9 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [rough]
+    hair_style: braided
+    face_shape: angular
+    nose: straight
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

@@ -58,6 +58,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {tanned: 4, brown: 3, swarthy: 2, medium: 1}
     complexion: {weathered: 4, clear: 3, chapped: 2, sun_kissed: 1}
+    hair_texture: {straight: 8, wavy: 2}
+    hair_style: {shoulder_length: 3, long: 3, knotted: 3, cropped: 2, braided: 1}
+    face_shape: {round: 4, oval: 3, broad: 3, heart: 1}
+    nose: {broad: 3, straight: 3, narrow: 2, aquiline: 1}
+    brow: {straight: 4, arched: 3, heavy: 1, thin: 1}
+    mouth: {full: 3, thin: 3, small: 2, wide: 1}
     height: {female: {min: 4' 9", max: 5' 3"}, male: {min: 5' 1", max: 5' 7"}}
 
 # terran_analog: "The Ancestral Puebloans, above all Chaco Canyon about 1050 to 1130 and Mesa Verde, with the Hohokam canal builders of the Sonoran lowlands. Carries over: multistory great houses aligned to the sun and moon, straight roads and signal stations, dry farming above and canals below, kivas with their sipapu, matrilineal clans and matrilocal households, clowns and masked rain dancers, turquoise, macaws, cacao in cylinder jars and copper bells from Mesoamerica, and the drought that ended Chaco after 1130. Departs: the people call themselves for turquoise, the great houses rule as one institution with the rain rites, and the witch accusations of dry years are named as the culture's own blind spot."

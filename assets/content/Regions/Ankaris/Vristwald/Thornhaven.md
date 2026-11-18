@@ -10,12 +10,15 @@ data:
   lore: [foxttm]
   parents: [thornwald]
   population: 300
+  market: local
+  type: village
   borders: [{to: thornryth, bearing: W}, {to: frithhaven, bearing: SE}]
   routes:
     - {to: thornryth, bearing: W, mode: land, days: 2, terrain: [track, forest]}
     - {to: frithhaven, bearing: SE, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "Settlement"
 ---
 
 ## Overview {#overview}

@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: [sun_kissed]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: square
+    nose: aquiline
+    brow: bushy
+    mouth: full
     extra_features: []
   packFolder: midhalionvylaria
 ---

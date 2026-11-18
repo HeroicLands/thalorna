@@ -24,6 +24,9 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [scarred]
+    hair_style: cropped
+    nose: broad
+    mouth: wide
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

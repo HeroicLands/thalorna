@@ -9,9 +9,12 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [amradadrgn]
-  population: 30000
+  population: 9900
+  type: town
+  market: regional
   packFolder: amradad
   government: kngdmmrdd
+  notes: "The fortress city of the Amradi caravan road, largest in the Kingdom, where every caravan from the interior pays its toll on the way to the coast."
 ---
 
 ## Overview {#overview}

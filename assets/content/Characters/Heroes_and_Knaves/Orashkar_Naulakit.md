@@ -24,6 +24,8 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [ruddy]
+    face_shape: long
+    mouth: wide
     extra_features: []
   packFolder: helladbyzaria
 sohl:

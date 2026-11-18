@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [chapped]
+    hair_texture: wavy
+    hair_style: shaved_sides
+    face_shape: square
+    nose: straight
+    brow: straight
+    mouth: wide
     extra_features: []
   packFolder: kiichchiktenlaya
 ---

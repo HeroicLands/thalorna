@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [clear]
+    hair_style: knotted
+    face_shape: square
+    brow: heavy
     extra_features: []
   packFolder: helladhelionis
 sohl:

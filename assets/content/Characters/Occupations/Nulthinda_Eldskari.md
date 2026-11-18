@@ -24,6 +24,10 @@ data:
     hair_color: dark_brown
     skin_color: pale
     complexion: [weathered]
+    hair_style: braided
+    face_shape: long
+    nose: straight
+    brow: straight
     extra_features: [a scar on the right forearm]
   packFolder: ankarisnordlands
 sohl:

@@ -4,7 +4,12 @@ name: {full: The Eye of Velok, en: [The Eye]}
 type: miscgear
 description: "The relic of Ústaron that the Black Flame holds to contain the essence of a fire demon, believed to lie in the buried tower city of Arkor in the Desert of Hek'ar; the Blazing Oath digs for it, and the tribes of the Volketor call it a rumor."
 tags: [artifact, khazryn]
-data: {icon: icon-firebdg, templatePriority: null, packFolder: khazryndesert, unique: true}
+data:
+  kind: miscgear
+  icon: icon-firebdg
+  templatePriority: null
+  packFolder: khazryndesert
+  unique: true
 sohl: {system: {weightBase: 12, valueBase: 0, qualityBase: 0, durabilityBase: 15}}
 ---
 

@@ -5,7 +5,7 @@ type: trauma
 subType: physcond
 description: "Insufficient water; thirst, dry mouth, dark urine, dizziness, collapse."
 tags: []
-data: {icon: stomach, templatePriority: 0, packFolder: privations}
+data: {kind: privation, icon: stomach, templatePriority: 0, packFolder: privations}
 sohl: {kbcat: physprivations, system: {category: impediment, levelBase: 2, healingRateBase: 5}}
 ---
 

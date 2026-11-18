@@ -4,7 +4,7 @@ name: {full: "Ink, Blue"}
 type: miscgear
 description: "Indigo or woad-derived; marks official margins and decorative chapter headings."
 tags: [scribe]
-data: {icon: inkswirl, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: inkswirl, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: scribe

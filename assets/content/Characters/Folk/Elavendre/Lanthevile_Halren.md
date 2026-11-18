@@ -27,6 +27,7 @@ data:
     hair_color: red
     skin_color: tanned
     complexion: [smooth]
+    hair_style: braided
     extra_features: [a squint line at each eye]
   packFolder: aureldiaelavendre
 ---

@@ -4,7 +4,7 @@ name: {full: Straw Hat}
 type: armorgear
 description: "Lightweight breathable straw hat; excellent sun protection for laborers."
 tags: []
-data: {icon: pointyhat, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: pointyhat, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

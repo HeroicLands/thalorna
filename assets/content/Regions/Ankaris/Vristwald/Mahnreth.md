@@ -10,8 +10,11 @@ data:
   lore: [rabbitttm]
   parents: [skathwald]
   population: 240
+  market: local
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A refugee clearing in Skathwald that became a lasting Varokh village, which keeps an empty mound for the people the Grukar took."
 ---
 
 ## Overview {#overview}

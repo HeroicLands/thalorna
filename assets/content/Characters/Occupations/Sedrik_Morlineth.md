@@ -25,6 +25,11 @@ data:
     hair_color: black
     skin_color: light
     complexion: [weathered]
+    hair_style: long
+    face_shape: long
+    nose: narrow
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

@@ -4,7 +4,7 @@ name: {full: "Milk, cow"}
 type: miscgear
 description: "Fresh dairy, curdles into cheese and butter by afternoon daily."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "A Nordlands port city of influential money and organized crime, home to the Gilded Cage salon and its enemies on the Morality Council."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  packFolder: nordlands
+  notes: "A Nordlands port city of influential money and organized crime, home to the Gilded Cage salon and its enemies on the Morality Council."
 ---
 
 The ferry to Gnaldurholm is paid before the crossing, and a purse stays out of sight until the quay: the islet is rich, and it knows how to keep what it earns. The port city stands on an islet of the [[place-nrdlndsrgn|Nordlands]] coast, rich enough to support a class of influential figures who trade in secrets as readily as in goods, and organized enough to support a criminal network that runs heists and cons the way other cities run guilds.

@@ -31,6 +31,7 @@ data:
     hair_color: grey
     skin_color: brown
     complexion: [leathery, weathered]
+    hair_style: braided
     extra_features: [a bowed rider's legs, an old arrow scar in the left shoulder]
   packFolder: ankariskhazryndesert
 ---

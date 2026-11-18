@@ -4,7 +4,7 @@ name: {full: "Medical Supplies, per IL"}
 type: miscgear
 description: "Bandages, splints, sutures, poultices, salves; one unit treats one injury level."
 tags: [medical]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: expedition

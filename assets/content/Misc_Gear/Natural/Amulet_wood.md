@@ -4,7 +4,7 @@ name: {full: "Amulet, wood"}
 type: miscgear
 description: "Carved wooden charm on a thong; often cut by the wearer or a household elder."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: wood, secondary: [wood]}
   kbcat: natural

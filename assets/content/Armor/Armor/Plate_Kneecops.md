@@ -4,7 +4,7 @@ name: {full: Plate Kneecops}
 type: armorgear
 description: "Steel knee-guards; protects joints from heavy blows."
 tags: []
-data: {icon: kneepad, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: kneepad, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster descends slowly; falls without impact or harm sustained."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

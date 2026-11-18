@@ -4,7 +4,7 @@ name: {full: Serge Cap}
 type: armorgear
 description: "Twilled serge cap; comfortable, durable head covering for daily use."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: billedcap, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

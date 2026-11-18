@@ -4,7 +4,7 @@ name: {full: Mail Habergeon}
 type: armorgear
 description: "Mid-length metal ring shirt offering substantial protection against bladed attacks."
 tags: []
-data: {icon: chainmail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: chainmail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: mail

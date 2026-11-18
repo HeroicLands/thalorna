@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Projects sound as force; creates shockwave from noise."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

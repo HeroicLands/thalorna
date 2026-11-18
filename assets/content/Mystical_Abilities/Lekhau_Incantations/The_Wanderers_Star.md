@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Fixes an unerring sense of direction toward a named place."
 tags: [gethunu-lekhau, incantation]
-data: {icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: gargezrulutu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaugezrlt

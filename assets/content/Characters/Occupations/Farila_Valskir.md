@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [sun_kissed]
+    nose: narrow
+    mouth: thin
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

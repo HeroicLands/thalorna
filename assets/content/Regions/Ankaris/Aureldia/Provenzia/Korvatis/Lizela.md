@@ -16,8 +16,11 @@ data:
     - {to: valarencity, bearing: W, mode: ship, days: 1, terrain: [coast]}
     - {to: kalveza, bearing: E, mode: ship, days: 2, terrain: [coast]}
   population: 6000
+  market: regional
+  type: town
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "A southern coastal town living on shipping and the great salt flats to its east—modest, wealthy for its size, and home to minor houses whose fortunes rest on salt rather than on land."
 ---
 
 **Lizela** lies on the warm southern coast between the great ports, a town of some six thousand

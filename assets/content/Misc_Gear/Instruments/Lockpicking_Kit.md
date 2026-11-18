@@ -4,7 +4,7 @@ name: {full: Lockpicking Kit}
 type: miscgear
 description: "Concealable wallet of picks, rakes, and tension wrenches; thieves' lock-bypassing kit."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

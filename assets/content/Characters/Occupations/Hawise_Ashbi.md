@@ -25,6 +25,8 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [scarred]
+    face_shape: heart
+    mouth: wide
     extra_features: [a scar across the right hand]
   packFolder: aureldiaaelwyth
 sohl:

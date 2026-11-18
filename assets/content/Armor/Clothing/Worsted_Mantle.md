@@ -4,7 +4,7 @@ name: {full: Worsted Mantle}
 type: armorgear
 description: "Tightly-spun wool mantle; durable, practical protective garment."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

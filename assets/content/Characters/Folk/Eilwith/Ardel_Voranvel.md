@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: light
     complexion: [wrinkled]
+    hair_style: cropped
     extra_features: []
   packFolder: aureldiaaelwyth
 ---

@@ -25,6 +25,7 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [clear]
+    nose: aquiline
     extra_features: []
   packFolder: midhalionvylaria
 sohl:

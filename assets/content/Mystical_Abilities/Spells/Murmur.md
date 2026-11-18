@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Whispered suggestion influencing target's thoughts and decisions."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

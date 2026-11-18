@@ -4,7 +4,7 @@ name: {full: Chisel}
 type: miscgear
 description: "Steel blade beveled for stone and wood, driven by hammer."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

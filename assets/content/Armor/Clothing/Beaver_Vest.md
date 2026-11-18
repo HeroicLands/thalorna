@@ -4,7 +4,7 @@ name: {full: Beaver Vest}
 type: armorgear
 description: "Beaver fur vest combining comfort and status for the elite wearer."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

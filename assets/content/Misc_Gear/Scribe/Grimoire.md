@@ -4,7 +4,7 @@ name: {full: Grimoire}
 type: miscgear
 description: "Leather-bound vellum tome for spells, catalogs, heraldry, scripture."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: scribe

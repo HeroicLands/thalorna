@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [weathered, sun_kissed]
+    hair_style: braided
     extra_features:
       - a seaman's tattoo of two stacked lanterns inside the left wrist
       - rope scars across both palms

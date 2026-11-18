@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [smooth]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: square
+    nose: broad
+    brow: arched
+    mouth: full
     extra_features: [a scar on the left forearm]
   packFolder: kiichchikneokbaate
 ---

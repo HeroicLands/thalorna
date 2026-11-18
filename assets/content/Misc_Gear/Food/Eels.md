@@ -4,7 +4,7 @@ name: {full: Eels}
 type: miscgear
 description: "Fresh freshwater fish; rich fat, distinctive flavor, preserves well smoked."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

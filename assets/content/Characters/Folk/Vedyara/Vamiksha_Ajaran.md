@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [weathered]
+    hair_style: braided
     extra_features: [Two fingers of the left hand lost to frost, A wrapped left wrist]
   packFolder: ankarisvedyara
 sohl:

@@ -25,6 +25,7 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [weathered]
+    hair_style: braided
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

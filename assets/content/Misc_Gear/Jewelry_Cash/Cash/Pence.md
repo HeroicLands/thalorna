@@ -4,7 +4,7 @@ name: {full: Pence}
 type: miscgear
 description: "Alloyed silver coin, everyday currency of trade; worth its face, not its metal."
 tags: [jewelry_cash]
-data: {icon: coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

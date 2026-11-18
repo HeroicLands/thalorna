@@ -4,7 +4,7 @@ name: {full: Hogshead Good Wine}
 type: miscgear
 description: "Fine oak-aged wine in barrel; noble cellar treasure, aged years before tapping."
 tags: [spirits]
-data: {icon: winebottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: winebottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

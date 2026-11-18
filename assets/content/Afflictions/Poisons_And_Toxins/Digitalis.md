@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Foxglove cardiac glycoside; nausea, visual disturbances, severe cardiac effects."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

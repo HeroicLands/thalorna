@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Freezes target's motion; roots them in place unable to move."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

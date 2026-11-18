@@ -4,7 +4,7 @@ name: {full: "Lockbox, small"}
 type: containergear
 description: "Portable iron-banded lockbox for coin, documents, or letters of credit."
 tags: []
-data: {icon: chest, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: chest, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 3, valueBase: 72, qualityBase: 0, durabilityBase: 7, maxCapacityBase: 5}

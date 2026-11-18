@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Surrounds self in protective flame; harms those who strike caster."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

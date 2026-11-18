@@ -4,7 +4,7 @@ name: {full: Quilted Trousers}
 type: armorgear
 description: "Layered quilted leg covering; warmth and light padding."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

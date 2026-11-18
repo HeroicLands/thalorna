@@ -27,6 +27,8 @@ data:
     hair_color: white
     skin_color: light
     complexion: [wrinkled]
+    hair_style: short
+    nose: hooked
     extra_features: [a narrow hooked nose, deep lines bracketing her mouth]
   packFolder: aureldiacalypsa
 ---

@@ -27,6 +27,8 @@ data:
     hair_color: brown
     skin_color: medium
     complexion: [clear]
+    hair_style: short
+    brow: straight
     extra_features: [gray stains on the fingertips]
   packFolder: aureldiaelavendre
 ---

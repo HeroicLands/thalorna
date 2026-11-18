@@ -4,7 +4,7 @@ name: {full: "Hide, Rabbit"}
 type: miscgear
 description: "Tiny soft fur pelt; lined winter hoods and muffs by furriers. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural

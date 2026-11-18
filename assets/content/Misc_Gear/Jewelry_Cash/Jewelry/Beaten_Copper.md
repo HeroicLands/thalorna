@@ -4,7 +4,7 @@ name: {full: Beaten Copper}
 type: miscgear
 description: "A shield-shaped sheet of copper with its own name and history; the greatest gift on the Cedar coast."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   craft: {skill: mtlc, secondary: []}

@@ -31,6 +31,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [smooth]
+    hair_style: short
     extra_features: [a thin white scar through the left eyebrow]
   packFolder: aureldiaprovenzia
 ---

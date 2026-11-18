@@ -27,6 +27,7 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [weathered]
+    hair_style: braided
     extra_features: [a long white scar on her left forearm, deep lines at the corners of her eyes]
   packFolder: aureldiacalypsa
 ---

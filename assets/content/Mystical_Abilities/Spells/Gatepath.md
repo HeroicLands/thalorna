@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Opens doorway between distant locations; establishes passage through barriers."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

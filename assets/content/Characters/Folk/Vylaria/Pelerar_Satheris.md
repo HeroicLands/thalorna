@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: medium
     complexion: [sun_kissed, wrinkled]
+    hair_style: cropped
     extra_features: [the old white seams of practice cuts across both forearms]
   packFolder: midhalionvylaria
 ---

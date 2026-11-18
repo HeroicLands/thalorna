@@ -30,6 +30,7 @@ data:
     hair_color: light_brown
     skin_color: fair
     complexion: [weathered]
+    hair_style: short
     extra_features: []
   packFolder: midhalionvylaria
 ---

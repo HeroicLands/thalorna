@@ -4,7 +4,7 @@ name: {full: Beaver Hat}
 type: armorgear
 description: "Beaver fur hat combining warmth and opulent comfort for winter months."
 tags: []
-data: {icon: pointyhat, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: pointyhat, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

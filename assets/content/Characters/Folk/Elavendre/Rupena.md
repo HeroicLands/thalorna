@@ -26,6 +26,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered, chapped]
+    hair_style: braided
     extra_features: []
   packFolder: aureldiaelavendre
 ---

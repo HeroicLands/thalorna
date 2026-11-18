@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
 tags: [mild-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: mild}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

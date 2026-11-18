@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 820
+  market: local
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
+  notes: "The crossing village where the Sarveda leaves the hills, and the only place a loaded cart gets over the river above the bow-fort."
 ---
 
 A loaded cart crosses [[place-sarvedarivr|the Sarveda]] above [[place-bowfort|the bow-fort]] at one place only, and the village that holds it is **Taranaghat** (820). It stands where the river leaves the hills. The ford works from the end of the rains to the start of them, so plan a heavy cart for the dry months: through the wet season the village runs two flat ferries and a rope.

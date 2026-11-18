@@ -4,7 +4,7 @@ name: {full: Sling}
 type: weapongear
 description: "Leather cradle on cords; low-cost ranged arm for skirmishers."
 tags: []
-data: {icon: sling, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: sling, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: sling

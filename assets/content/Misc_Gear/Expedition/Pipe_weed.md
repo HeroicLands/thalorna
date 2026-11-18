@@ -4,7 +4,7 @@ name: {full: Pipe weed}
 type: miscgear
 description: "Dried tobacco leaf for smoking; eases fatigue and steadies nerves."
 tags: [expedition]
-data: {icon: herbsbundle, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: herbsbundle, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: expedition

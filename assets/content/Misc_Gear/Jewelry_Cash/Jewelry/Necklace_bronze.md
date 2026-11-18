@@ -4,7 +4,7 @@ name: {full: "Necklace, bronze"}
 type: miscgear
 description: "Heavy bronze torc or chain; hard-wearing, and old among the tribal peoples."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

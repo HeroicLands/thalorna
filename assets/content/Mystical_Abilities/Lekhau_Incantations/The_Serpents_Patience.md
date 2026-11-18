@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Sets an unmaking that lies dormant, sometimes for generations, until a stated condition is met."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garzelgut, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garzelgut, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauzelgut

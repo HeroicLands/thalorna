@@ -4,7 +4,7 @@ name: {full: Leather Sandals}
 type: armorgear
 description: "Lightweight leather foot covering combining comfort with rugged charm."
 tags: []
-data: {icon: flipflops, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: flipflops, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

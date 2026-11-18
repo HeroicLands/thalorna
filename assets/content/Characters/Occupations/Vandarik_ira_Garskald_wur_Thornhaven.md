@@ -24,6 +24,9 @@ data:
     hair_color: blonde
     skin_color: medium
     complexion: [rough]
+    hair_style: long
+    face_shape: long
+    brow: heavy
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

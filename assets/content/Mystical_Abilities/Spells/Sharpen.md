@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Sharpens blade; grants keener edge and cutting power."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

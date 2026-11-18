@@ -40,6 +40,7 @@ data:
         Held by a Councilor, chosen by the council each year. Presides over the council, keeps the High King's charter and the city's seal, and answers to the crown for the city's yearly due.
   seat: olvestria
   population: 30000
+  territorial_population: 30000
   economy: [affiliation-danvar, lore-vylrncrncy]
   lore: [humanflk]
   parents: [kingdmtrvn]

@@ -4,7 +4,7 @@ name: {full: Falcastra}
 type: weapongear
 description: "Curved-blade polearm for shield-wall sweeping; foot soldier's reach."
 tags: []
-data: {icon: halberd, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: halberd, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: polearm

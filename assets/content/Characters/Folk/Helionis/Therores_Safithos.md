@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [sun_kissed]
+    hair_texture: curly
+    hair_style: short
+    face_shape: oval
+    nose: straight
+    brow: bushy
+    mouth: full
     extra_features: []
   packFolder: helladhelionis
 ---

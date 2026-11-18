@@ -55,6 +55,7 @@ data:
       Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
   seat: fenjaravlg
   population: null
+  territorial_population: 250
   economy: []
   lore: [humanflk]
   parents: [nylbtrblntn]

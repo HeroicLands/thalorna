@@ -4,7 +4,7 @@ name: {full: Collective Letter of Credit}
 type: miscgear
 description: "A standardized letter redeemable at any Merchant Collective member's house; the closest thing Vedyara has to a unified currency."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.02, valueBase: 0, qualityBase: 0, durabilityBase: 2}}
 ---
 

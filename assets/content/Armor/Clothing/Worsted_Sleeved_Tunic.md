@@ -4,7 +4,7 @@ name: {full: Worsted Sleeved Tunic}
 type: armorgear
 description: "Tightly-spun wool sleeved tunic; durable, practical garment."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

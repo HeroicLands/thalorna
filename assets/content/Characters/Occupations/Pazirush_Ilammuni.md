@@ -25,6 +25,11 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: []
+    hair_style: short
+    face_shape: long
+    nose: straight
+    brow: arched
+    mouth: thin
     extra_features: [a tattoo of a waterfall on the shoulder]
   packFolder: midhaliontaruzel
 sohl:

@@ -750,3 +750,146 @@ packageBuild:
             - type: banner
               url: modules/thalorna/assets/images/media/thalornabanner.webp
         socket: true
+    settlementExemptions:
+        - address: affiliation-bdkrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-besikar
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-bjlrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-bnchvzhmvd
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-bodekrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-brnyzrvln
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-capitalselat
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-chylrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-cmmndnpdfrt
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-dqrkrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-frctyvlthr
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-ghtkrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-grdrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-grimvar
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-grnrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-hrafanvar
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-hshldrlvnnsh
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-jbzrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-khldrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-khqdrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-kndrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-kngdmldrth
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-kskrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-ksrrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-morthalwtch
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-mrjlrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-nqkhkrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-qbdrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-qdrrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-repblcndrth
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-rqdrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-rwlstrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-selatgrnlght
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-selatgrrthsr
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-selatkhelzrt
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-selatnlghztn
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-sqrtrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-svghrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-tantsouempr
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-tjdrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-tribestrzd
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-vghlrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-vrgldhld
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-vrkrtrb
+          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+        - address: affiliation-wojaidmn
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        # Provisional: each polity below governs one town or city, so its urban share is
+        # trivially 100 percent. Delete this group when the package skips single-settlement polities.
+        - address: affiliation-twncnclprtaln
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-sarmelisconcl
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cncldrgls
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cnclhrthm
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cnclnbrls
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cnclolvstr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cnclthrgl
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-tmplplthms
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-cncltwlvbzrs
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-mrchntcnsrtchr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-gldbrdpshnr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-gldbrdshmlr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-gldbrdshrmn
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-tevranaelissium
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-lwrmhndjnpd
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-mddlsrvdjnpd
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-srvdmthjnpd
+          reason: territory is a single settlement; the polity above it carries the urban share
+        # Provisional: each polity below is a single town or city with no polity above it. The
+        # entries stand until the package rule for single-settlement polities lands.
+        - address: affiliation-freeveldareth
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-cnclkstrsh
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-cnclslmr
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-mgstrcythls
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-hanalxilanmktcncl
+          reason: an independent town or city; its feeding countryside lies in neighbouring polities
+        - address: affiliation-calypsa
+          reason: an island port that feeds itself through trade and maritime goods
+        - address: affiliation-brdrmltia
+          reason: a military order whose seat is counted under the kingdom that governs it

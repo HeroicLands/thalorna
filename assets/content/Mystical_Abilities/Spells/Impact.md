@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Blazing sphere descending from sky; massive heat and explosion."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

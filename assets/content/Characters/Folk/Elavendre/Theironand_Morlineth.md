@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: short
     extra_features: [a scar across the bridge of the nose]
   packFolder: aureldiaelavendre
 ---

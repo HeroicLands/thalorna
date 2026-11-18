@@ -4,7 +4,7 @@ name: {full: "Bed, single"}
 type: miscgear
 description: "Wooden bedstead with a roped frame to carry a mattress."
 tags: [furniture]
-data: {icon: swapbag, templatePriority: 0, packFolder: furniture}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: furniture}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: furniture

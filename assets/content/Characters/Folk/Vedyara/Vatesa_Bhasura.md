@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [smooth]
+    hair_style: long
     extra_features: [A fresh flower garland, changed every morning]
   packFolder: ankarisvedyara
 sohl:

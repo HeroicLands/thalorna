@@ -4,7 +4,7 @@ name: {full: "Brandy, Pint"}
 type: miscgear
 description: "Clear fiery bottle; noble digestif or soldier's wound-cleaner; costs a laborer's wages."
 tags: [spirits]
-data: {icon: brandybottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: brandybottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

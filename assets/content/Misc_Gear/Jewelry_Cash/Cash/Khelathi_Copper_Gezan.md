@@ -4,7 +4,7 @@ name: {full: Khelathi Copper Gezan, en: [Copper Gezan]}
 type: miscgear
 description: "Sealed bronze piece at gezan weight, passing at its attested face rather than its metal."
 tags: [jewelry_cash]
-data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: 0, packFolder: regkhposs}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

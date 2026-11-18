@@ -4,7 +4,7 @@ name: {full: Padded Cuisse}
 type: armorgear
 description: "Cushioned thigh protection ideal for wear under heavier armor."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

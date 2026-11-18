@@ -31,6 +31,7 @@ data:
     hair_color: greying_black
     skin_color: olive
     complexion: [sallow]
+    hair_style: shaved
     extra_features: [head shaved to the skin, long thin hands]
   packFolder: midhalionvylaria
 ---

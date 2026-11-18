@@ -332,7 +332,7 @@ export function generateEncoding(tongue) {
         rules: {
             normalization: "NFC",
             matching: "longest-first",
-            roundTrip: "canonical",
+            roundTrip: "none",
             "word-separators": ["-"],
             "contextual-mappings": [...contextual.values()],
         },

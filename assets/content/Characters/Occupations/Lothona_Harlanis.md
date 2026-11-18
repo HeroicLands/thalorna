@@ -25,6 +25,8 @@ data:
     hair_color: chestnut
     skin_color: tanned
     complexion: [freckled]
+    hair_style: shoulder_length
+    face_shape: broad
     extra_features: [calloused knuckles]
   packFolder: midhalionvylaria
 sohl:

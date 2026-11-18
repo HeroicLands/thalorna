@@ -4,7 +4,12 @@ name: {full: The Standards of Oroqid, en: [The Legion's Standards]}
 type: miscgear
 description: "The standards of the Vilérian garrison of Oroqid, left wrapped in oilcloth in the fort's shut strongroom when the garrison was called away; the tribe that waters at the fort sweeps it for the legion's return, and a Vilérian official has come for one particular standard."
 tags: [artifact, khazryn]
-data: {icon: icon-polearm, templatePriority: null, packFolder: khazryndesert, unique: true}
+data:
+  kind: miscgear
+  icon: icon-polearm
+  templatePriority: null
+  packFolder: khazryndesert
+  unique: true
 sohl: {system: {weightBase: 40, valueBase: 0, qualityBase: 0, durabilityBase: 10}}
 ---
 

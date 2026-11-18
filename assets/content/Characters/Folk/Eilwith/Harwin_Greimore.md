@@ -32,6 +32,7 @@ data:
     hair_color: white
     skin_color: light
     complexion: [ruddy, wrinkled]
+    hair_style: cropped
     extra_features: [a heavy jowl]
   packFolder: aureldiaaelwyth
 ---

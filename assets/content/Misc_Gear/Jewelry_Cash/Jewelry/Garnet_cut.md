@@ -4,7 +4,7 @@ name: {full: "Garnet, cut"}
 type: miscgear
 description: "Deep red-purple gem favored for signet rings by the merchant class."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

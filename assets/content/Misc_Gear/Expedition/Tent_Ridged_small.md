@@ -4,7 +4,7 @@ name: {full: "Tent, Ridged, small"}
 type: miscgear
 description: "One-person ridge-pole tent; tight profile resists wind, packs readily."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

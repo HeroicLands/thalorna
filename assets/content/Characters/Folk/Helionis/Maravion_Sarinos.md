@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [clear]
+    hair_texture: wavy
+    hair_style: cropped
+    face_shape: oval
+    nose: straight
+    brow: arched
+    mouth: thin
     extra_features: []
   packFolder: helladhelionis
 ---

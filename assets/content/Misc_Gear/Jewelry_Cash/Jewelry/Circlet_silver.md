@@ -4,7 +4,7 @@ name: {full: "Circlet, silver"}
 type: miscgear
 description: "A plain band for the brow, worn by those with rank enough to show it and not enough for a coronet, in silver."
 tags: [jewelry_cash]
-data: {icon: gempendant, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: gempendant, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

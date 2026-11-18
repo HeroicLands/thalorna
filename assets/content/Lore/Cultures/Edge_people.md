@@ -13,6 +13,12 @@ data:
     hair_color: {black: 8, dark_brown: 2}
     skin_color: {brown: 4, dark_brown: 4, tawny: 2, ebony: 1}
     complexion: {weathered: 4, sun_kissed: 3, smooth: 2, clear: 2}
+    hair_texture: {coily: 8, curly: 2}
+    hair_style: {cropped: 4, short: 3, braided: 2, shaved: 1}
+    face_shape: {round: 3, oval: 3, broad: 2, heart: 1, square: 1}
+    nose: {broad: 4, snub: 2, straight: 3, upturned: 1}
+    brow: {straight: 3, arched: 3, thin: 1, heavy: 1}
+    mouth: {full: 4, wide: 2, small: 2, thin: 1}
     height: {female: {min: 4' 11", max: 5' 6"}, male: {min: 5' 3", max: 5' 11"}}
 
 # terran_analog: "The forest-margin peoples of the Congo basin, foragers and small gardeners who traded and married with the herders and farmers of the savanna. Carries over: small thorn-fenced gardens, borrowed metal and words, marriage across the margin, and a fierce sense of the forest as their own ground. Departs: no chiefs, a leader made by bringing gifts home from outside, and the dead set at the edge to guard it."

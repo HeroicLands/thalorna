@@ -4,7 +4,7 @@ name: {full: "Flute, wooden"}
 type: miscgear
 description: "Turned fruitwood pipe with fipple; warm sweet voice, apt for folk melody."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

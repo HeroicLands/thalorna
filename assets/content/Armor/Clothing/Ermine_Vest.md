@@ -4,7 +4,7 @@ name: {full: Ermine Vest}
 type: armorgear
 description: "White ermine fur vest signifying high status and elite prestige."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

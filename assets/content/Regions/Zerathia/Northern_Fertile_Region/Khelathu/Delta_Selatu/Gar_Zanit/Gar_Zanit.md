@@ -11,8 +11,11 @@ data:
   lore: []
   parents: [garzanitselt]
   population: 34000
+  type: town
+  market: regional
   packFolder: regkhsett
   government: selatgarzant
+  notes: "Selat capital of Gar-Zanit."
 ---
 
 ## Overview {#overview}

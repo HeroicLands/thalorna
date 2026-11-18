@@ -25,6 +25,9 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [sallow]
+    face_shape: square
+    brow: arched
+    mouth: wide
     extra_features: [a scar on the right elbow]
   packFolder: midhalionvylaria
 sohl:

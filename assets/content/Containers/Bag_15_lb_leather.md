@@ -4,7 +4,7 @@ name: {full: "Bag, 15 lb, leather"}
 type: containergear
 description: "Leather shoulder bag with a buckled flap (15 lb capacity)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 1.2, valueBase: 2, qualityBase: 0, durabilityBase: 4, maxCapacityBase: 15}

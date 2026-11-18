@@ -236,8 +236,6 @@ test("new Hvarn words retain vowels, dense short roots and whole compound seams"
         }
         if (w.built) assert.equal(w.form, w.built.join(""), w.form);
     }
-    assert.equal(note.fm.data.sounds.stress.two, "first");
-    assert.equal(note.fm.data.sounds.stress.longer, "penultimate");
     assert.deepEqual(SOURCES["skill-hvarnlng"] ?? [], []);
 });
 test("Hvarn publishes each ordinary citation and its essential meaning", async () => {

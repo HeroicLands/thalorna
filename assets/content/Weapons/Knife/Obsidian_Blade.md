@@ -4,7 +4,7 @@ name: {full: Obsidian Blade}
 type: weapongear
 description: "Volcanic-glass blade that cuts bone clean and shatters on hard use; the temples' ritual edge and a warrior's sidearm."
 tags: []
-data: {icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife

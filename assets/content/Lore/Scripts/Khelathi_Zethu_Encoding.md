@@ -8,10 +8,10 @@ data:
   language: khel
   font: khelathi-zethu-glyphs
   mappings: {}
-  rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
+  rules: {normalization: NFC, matching: longest-first, roundTrip: none}
 ---
 
-This encoding writes [[skill-khelathlng|Khelathi]] in khelathi-zethu-glyphs. A passage selects it with `enc=khelzethuenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
+This encoding writes [[skill-khelathlng|Khelathi]] in khelathi-zethu-glyphs. A passage selects it with `enc=khelzethuenc`. The note supplies its language and font. Roman word spaces are retained. Where several words share a writing, decoding returns every reading in brackets, separated by `|`.
 
 ## How a passage is written
 

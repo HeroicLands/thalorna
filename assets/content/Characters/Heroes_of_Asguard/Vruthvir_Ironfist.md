@@ -24,6 +24,9 @@ data:
     hair_color: brown
     skin_color: fair
     complexion: [ruddy]
+    hair_style: cropped
+    nose: crooked
+    brow: heavy
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

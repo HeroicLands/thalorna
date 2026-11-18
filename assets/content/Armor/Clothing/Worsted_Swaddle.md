@@ -4,7 +4,7 @@ name: {full: Worsted Swaddle}
 type: armorgear
 description: "Tightly-spun wool swaddle; warm, durable infant wrapping."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

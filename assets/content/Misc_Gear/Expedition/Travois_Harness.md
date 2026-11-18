@@ -4,7 +4,7 @@ name: {full: Travois Harness}
 type: miscgear
 description: "Shoulder-and-chest straps and a pair of trailing poles by which a dog drags lodge poles and goods across the grass."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   craft: {skill: txtl, secondary: []}

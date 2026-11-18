@@ -6,6 +6,7 @@ subType: disease
 description: "Lung infection; fever, productive cough, chest pain, shortness of breath."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

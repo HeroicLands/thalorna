@@ -4,7 +4,7 @@ name: {full: Quilted Cap}
 type: armorgear
 description: "Layered-fabric head-cover; light insulation for mild cold."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: billedcap, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

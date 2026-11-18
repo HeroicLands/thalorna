@@ -4,14 +4,17 @@ name: {full: Marvstead}
 type: place
 subType: settlement
 description: "Town"
-tags: [town]
+tags: [village]
 data:
   demonym: null
   lore: []
   parents: [vithgard]
   population: 500
+  type: village
+  market: local
   packFolder: vithgard
   government: kngdmvthgrd
+  notes: "Town"
 ---
 
 ## Overview {#overview}

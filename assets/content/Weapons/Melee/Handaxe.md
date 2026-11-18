@@ -4,7 +4,7 @@ name: {full: Handaxe}
 type: weapongear
 description: "Light ash-haft axe; foot-soldier's main arm or cavalry sidearm."
 tags: []
-data: {icon: battleaxe, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: battleaxe, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: axe

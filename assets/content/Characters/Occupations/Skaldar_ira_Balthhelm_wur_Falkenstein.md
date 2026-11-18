@@ -24,6 +24,9 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: [ruddy]
+    hair_style: locked
+    nose: broad
+    brow: heavy
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

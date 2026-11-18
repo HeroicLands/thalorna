@@ -4,7 +4,7 @@ name: {full: Bond-Token}
 type: miscgear
 description: "A household's stamped tally, worn by a bonded servant as proof of whose debt he works and how much of it stands."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
   craft: {skill: mtlc, secondary: []}

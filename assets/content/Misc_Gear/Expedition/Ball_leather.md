@@ -4,7 +4,7 @@ name: {full: "Ball, leather"}
 type: miscgear
 description: "Cloth-core leather sphere; suits children's games and camp recreation safely."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: expedition

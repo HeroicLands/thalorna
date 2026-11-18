@@ -26,6 +26,12 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [freckled]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: broad
+    nose: broad
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 ---

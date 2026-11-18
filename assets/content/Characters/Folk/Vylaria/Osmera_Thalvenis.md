@@ -30,6 +30,7 @@ data:
     hair_color: white
     skin_color: medium
     complexion: [wrinkled, smooth]
+    hair_style: short
     extra_features: [short-sighted]
   packFolder: midhalionvylaria
 ---

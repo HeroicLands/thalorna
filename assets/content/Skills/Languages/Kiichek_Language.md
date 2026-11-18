@@ -3422,7 +3422,6 @@ data:
       - {edge: openCluster, sounds: [tq', sh', h']}
       - {edge: closeConsonant, sounds: ["'", k, k', q, l, m, n, t, ch, sh, ts, b, h, y]}
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     folders: [tenlaya, teyumi, deitiesitzani, itzani, chakultzakul, hanalxilan]
     cultures: [kiichchikclt]

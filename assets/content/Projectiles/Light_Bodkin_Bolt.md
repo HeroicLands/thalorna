@@ -5,7 +5,7 @@ type: projectilegear
 subType: bolt
 description: "Light narrow shaft, small square spike; pierces light mail, flat trajectory."
 tags: []
-data: {icon: broadheadarrow, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: broadheadarrow, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: fltch, secondary: [wood, mtlc]}
   traits: {ARvalue: 4, bleed: false}

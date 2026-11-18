@@ -35,6 +35,7 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [wrinkled]
+    hair_style: short
     extra_features:
       - the blue dot of a Delkoshekh's ordination tattooed between the brows
       - a stoop at the shoulders

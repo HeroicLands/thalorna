@@ -4,7 +4,7 @@ name: {full: Plate Vambraces}
 type: armorgear
 description: "Steel forearm-guards; protects wrists and inner arms."
 tags: []
-data: {icon: bracer, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: bracer, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

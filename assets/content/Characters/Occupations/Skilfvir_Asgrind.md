@@ -24,6 +24,8 @@ data:
     hair_color: auburn
     skin_color: pale
     complexion: [rough]
+    hair_style: long
+    face_shape: oval
     extra_features: [a scar on the back of the left arm]
   packFolder: ankarisnordlands
 sohl:

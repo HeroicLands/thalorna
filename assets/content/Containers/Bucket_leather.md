@@ -4,7 +4,7 @@ name: {full: "Bucket, leather"}
 type: containergear
 description: "Fire-bucket of boiled cowhide with iron rim."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 4, valueBase: 4, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 40}

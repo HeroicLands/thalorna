@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 870
+  market: local
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "Rice terraces on the eastern shoulder of the gold mountain, the largest block of watered ground in the janpoda."
 ---
 
 **Nilakshetra** is a village of rice terraces on the eastern shoulder of [[place-goldmountain|the gold mountain]], in the [[place-suvargerijnpd|Suvargeri Janpoda]]. Rice wants standing water, and on a mountain ground that holds water is made rather than found. These terraces are the largest block of watered ground in the janpoda, and from the road below they show as steps of green against the gray rock above.

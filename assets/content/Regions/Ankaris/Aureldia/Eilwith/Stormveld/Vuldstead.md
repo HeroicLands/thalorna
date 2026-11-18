@@ -11,8 +11,11 @@ data:
   parents: [stormplain]
   routes: [{to: stormveil, bearing: E, mode: land, days: 3, terrain: [plain]}]
   population: 2500
+  market: local
+  type: town
   packFolder: eilwith
   government: jrldmstrmvld
+  notes: "A jarl's hall-town on the western edge of the Stormplain, where Stormveld's grain land runs up to the Peshtar forest and the jarldom's steadings stand armed against the tribes."
 ---
 
 ## Overview {#overview}

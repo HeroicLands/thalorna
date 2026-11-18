@@ -4,7 +4,7 @@ name: {full: Backpack}
 type: containergear
 description: "Canvas or oiled-linen shoulder pack for travelers and soldiers."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 2, valueBase: 8, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 30}

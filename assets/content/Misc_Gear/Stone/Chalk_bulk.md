@@ -4,7 +4,7 @@ name: {full: "Chalk, bulk"}
 type: miscgear
 description: "Soft quarried chalk block; masons' plaster, scribes' pouncing, shepherd marking stock."
 tags: [stone]
-data: {icon: swapbag, templatePriority: 0, packFolder: stone}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: stone}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: stone

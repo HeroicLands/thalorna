@@ -4,7 +4,7 @@ name: {full: Buckram Cloak}
 type: armorgear
 description: "Stiff, glue-stiffened cloth cloak providing structure and reliable durability."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cloak, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

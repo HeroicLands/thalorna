@@ -176,7 +176,7 @@ Skern grula, werhul ludra howra thewen.
 :::
 
 ::: {.verse form=prose lang=varo enc=varosemaronenc work=vow-reckoning}
-**Tavreth er Skathár.** Edrarún halwen hem, Skathár wur Othholt, vird mawen nather hem. Armund ira Grimskorn, Druthmund, wredri inwe werlak et rend threm dagren nather wathra. Wethan thum Vristulf ira Harvith, mi brold, et larg, slagren frar hem, feor birwen thewen marwen malwen er hemwen. Harvith harve skuldren, erwen bludwirdra er marwen. Harvith bubra et rend eom munra nather, frar threm sethar, inwe hemra er Grimskorn, fedr tenra skurth er grema, marth, fukth, badra mi fedr hralwen, ukthe, hraldi melgud, thei Othmund, marwen virwe bemra fran sudren, vird helwen er werlak er Harvith ter othwa er Armund, Árhilda, hem harve fimra grema. Edrarún skatha hem lurni. Othrún er Grimskorn malwen rend eom, mowen er Skathrik virwe Armund.
+[Tavreth er Skathár.]{.emph} Edrarún halwen hem, Skathár wur Othholt, vird mawen nather hem. Armund ira Grimskorn, Druthmund, wredri inwe werlak et rend threm dagren nather wathra. Wethan thum Vristulf ira Harvith, mi brold, et larg, slagren frar hem, feor birwen thewen marwen malwen er hemwen. Harvith harve skuldren, erwen bludwirdra er marwen. Harvith bubra et rend eom munra nather, frar threm sethar, inwe hemra er Grimskorn, fedr tenra skurth er grema, marth, fukth, badra mi fedr hralwen, ukthe, hraldi melgud, thei Othmund, marwen virwe bemra fran sudren, vird helwen er werlak er Harvith ter othwa er Armund, Árhilda, hem harve fimra grema. Edrarún skatha hem lurni. Othrún er Grimskorn malwen rend eom, mowen er Skathrik virwe Armund.
 :::
 
 : Before the Three Seats {#seats}

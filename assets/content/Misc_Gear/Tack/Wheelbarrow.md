@@ -4,7 +4,7 @@ name: {full: "Wheelbarrow"}
 type: miscgear
 description: "Single-wheeled barrow for moving earth, stone, or dung by hand."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: tack

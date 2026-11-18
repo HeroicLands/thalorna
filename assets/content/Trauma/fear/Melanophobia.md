@@ -4,7 +4,7 @@ name: {full: Melanophobia}
 type: trauma
 subType: fear
 tags: []
-data: {icon: dread, templatePriority: 0, packFolder: phobias}
+data: {kind: fear, icon: dread, templatePriority: 0, packFolder: phobias}
 sohl: {kbcat: phobias, system: {category: none, levelBase: 0}}
 ---
 

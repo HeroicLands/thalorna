@@ -4,7 +4,7 @@ name: {full: Homespun Vest}
 type: armorgear
 description: "Simple homemade vest offering comfort and practical warmth."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

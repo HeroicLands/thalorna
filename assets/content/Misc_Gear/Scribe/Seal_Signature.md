@@ -4,7 +4,7 @@ name: {full: "Seal, Signature"}
 type: miscgear
 description: "Brass or iron seal carved with owner's mark; authenticates charters, contracts, deeds."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: scribe

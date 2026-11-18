@@ -4,7 +4,7 @@ name: {full: Padded Vest}
 type: armorgear
 description: "Quilted linen vest; inner padding offers warmth and under-armor cushioning."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leathervest, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

@@ -4,7 +4,7 @@ name: {full: Leather Cowl}
 type: armorgear
 description: "Lightweight leather head and shoulder covering offering rugged simplicity."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: hood, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

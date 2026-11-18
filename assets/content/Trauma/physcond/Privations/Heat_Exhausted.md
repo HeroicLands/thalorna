@@ -5,7 +5,7 @@ type: trauma
 subType: physcond
 description: "Moderate heat injury; pale, clammy skin, weak pulse, nausea, faintness."
 tags: []
-data: {icon: stomach, templatePriority: 0, packFolder: privations}
+data: {kind: privation, icon: stomach, templatePriority: 0, packFolder: privations}
 sohl: {kbcat: physprivations, system: {category: impediment, levelBase: 2, healingRateBase: 3}}
 ---
 

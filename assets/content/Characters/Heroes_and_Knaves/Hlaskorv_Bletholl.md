@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
     extra_features: [a scar running down the back]
   packFolder: ankarisnordlands
 sohl:

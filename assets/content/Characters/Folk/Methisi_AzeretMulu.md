@@ -32,6 +32,7 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [smooth]
+    hair_style: shaved
     extra_features: [a shaven and oiled head, a thin line of kohl at each eye]
   packFolder: regkhfolk
 ---

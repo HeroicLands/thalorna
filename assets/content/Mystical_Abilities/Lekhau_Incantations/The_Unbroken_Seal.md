@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Sets a seal that cannot be opened at all except by a named holder, and cannot be worked around."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garqarquzu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauqarquz

@@ -4,7 +4,7 @@ name: {full: Katana}
 type: weapongear
 description: "Folded-layer curved single-edged blade; officer's status and discipline."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

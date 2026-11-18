@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Beam of brilliant light; sears flesh and ignites combustibles."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

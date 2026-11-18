@@ -4,7 +4,7 @@ name: {full: "Sapphire, cut"}
 type: miscgear
 description: "Brilliant deep-blue corundum; reserved for the highest nobility and clergy."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

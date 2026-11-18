@@ -4,7 +4,7 @@ name: {full: Russet Breeches}
 type: armorgear
 description: "Reddish-brown wool breeches; warm and hardy leg-wear."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

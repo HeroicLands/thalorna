@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Clear greenish tinted draft; causes violent purging of body."
 tags: [mild-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: mild}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: mild}
 sohl:
   system:
     weightBase: 0.25

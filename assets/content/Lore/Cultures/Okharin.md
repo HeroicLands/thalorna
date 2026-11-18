@@ -38,6 +38,12 @@ data:
     hair_color: {black: 7, dark_brown: 3}
     skin_color: {brown: 4, dark_brown: 3, tawny: 3, ebony: 2, swarthy: 1}
     complexion: {weathered: 4, sun_kissed: 3, smooth: 2, clear: 2}
+    hair_texture: {coily: 4, curly: 4, wavy: 2}
+    hair_style: {cropped: 3, braided: 3, short: 2, locked: 1, long: 1, shaved: 1}
+    face_shape: {long: 3, oval: 3, angular: 2, heart: 2}
+    nose: {straight: 4, narrow: 3, aquiline: 2, broad: 1}
+    brow: {arched: 3, straight: 3, thin: 2, bushy: 1}
+    mouth: {full: 4, thin: 2, wide: 2, small: 1}
     height: {female: {min: 5' 5", max: 6' 1"}, male: {min: 5' 9", max: 6' 5"}}
 
 # terran_analog: "A rain-fed North Africa in the west and the Sahel in the east (pastoral savanna with temple-city trading centers). Carries over: nomadic grazing clans and fixed temple-cities that depend on each other, metal-craft and entrepôt trade, arranged marriage as an alliance of grazing rights. Departs: a three-flame faith served from three temple-cities, with a pyramid and pilgrimage tradition."

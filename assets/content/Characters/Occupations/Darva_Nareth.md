@@ -25,6 +25,9 @@ data:
     hair_color: greying_brown
     skin_color: fair
     complexion: []
+    hair_style: long
+    face_shape: oval
+    brow: thin
     extra_features: [a tattoo of a bird in flight on the left shoulder]
   packFolder: aureldiaelavendre
 sohl:

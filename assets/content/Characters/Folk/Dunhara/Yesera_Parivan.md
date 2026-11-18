@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [ruddy]
+    hair_texture: straight
+    hair_style: long
+    face_shape: oval
+    nose: aquiline
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: ankarisdunhara
 ---

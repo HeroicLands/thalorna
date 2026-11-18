@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [nordheim]
   population: 200
+  market: local
+  type: village
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Hill Fort"
 ---
 
 ## Overview {#overview}

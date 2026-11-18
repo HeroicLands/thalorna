@@ -25,6 +25,10 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [smooth]
+    hair_style: braided
+    face_shape: long
+    brow: thin
+    mouth: full
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

@@ -30,6 +30,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered]
+    facial_hair: short_beard
     extra_features: [a thrall's brand on the right shoulder]
   packFolder: aureldiaaelwyth
 ---

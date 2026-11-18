@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [aldorvale]
   population: 3200
+  market: local
+  type: town
   packFolder: eilwith
   government: kngdmldrth
+  notes: "Aldorath's chief river crossing and drove-market—where the kingdom's wool and cattle are gathered before going down to the coast."
 ---
 
 ## Overview {#overview}

@@ -4,7 +4,7 @@ name: {full: "Table"}
 type: miscgear
 description: "Trestle-mounted board seating several (roughly 4 x 6 feet)."
 tags: [furniture]
-data: {icon: swapbag, templatePriority: 0, packFolder: furniture}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: furniture}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: furniture

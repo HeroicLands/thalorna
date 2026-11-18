@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [sun_kissed]
+    hair_style: long
     extra_features: [a burn scar along the left jaw and ear, bare feet hardened like leather]
   packFolder: ankariskhazryndesert
 ---

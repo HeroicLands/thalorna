@@ -24,6 +24,9 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [ruddy]
+    hair_style: knotted
+    face_shape: angular
+    mouth: thin
     extra_features: [a scar on the left ear]
   packFolder: ankarisvrystwald
 sohl:

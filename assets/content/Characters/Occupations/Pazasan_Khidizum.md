@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: medium
     complexion: [clear]
+    hair_texture: curly
+    facial_hair: short_beard
+    face_shape: long
+    nose: straight
     extra_features: [scar through left eyebrow]
   packFolder: midhaliontaruzel
 sohl:

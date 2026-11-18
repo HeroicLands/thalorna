@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: short
+    face_shape: oval
+    nose: straight
+    brow: bushy
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

@@ -4,7 +4,7 @@ name: {full: "Bottle, ceramic, 2 pints"}
 type: containergear
 description: "Stoneware bottle with a corked neck; travels better than glass (2 pints)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 1, valueBase: 6, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 2}

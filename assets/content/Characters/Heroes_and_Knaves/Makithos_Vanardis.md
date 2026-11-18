@@ -24,6 +24,10 @@ data:
     hair_color: black
     skin_color: light
     complexion: [sun_kissed]
+    face_shape: long
+    nose: aquiline
+    brow: heavy
+    mouth: wide
     extra_features: [a scar on the right side of the face]
   packFolder: midhalionvylaria
 sohl:

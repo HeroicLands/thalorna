@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: light
     complexion: [sun_kissed]
+    hair_style: knotted
     extra_features: []
   packFolder: midhalionvylaria
 ---

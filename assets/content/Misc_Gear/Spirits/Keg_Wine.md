@@ -4,7 +4,7 @@ name: {full: Keg Wine}
 type: miscgear
 description: "Common wine keg; cheaper than aged; served at feasts and better tables."
 tags: [spirits]
-data: {icon: winebottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: winebottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

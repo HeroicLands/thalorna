@@ -4,7 +4,7 @@ name: {full: Leather Bracers}
 type: armorgear
 description: "Lightweight leather arm guards allowing full flexibility and movement."
 tags: []
-data: {icon: bracer, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: bracer, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

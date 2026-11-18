@@ -4,7 +4,7 @@ name: {full: Muzzle}
 type: miscgear
 description: "Leather or iron cage over snout; prevents biting; kennel and hunt use."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: tack

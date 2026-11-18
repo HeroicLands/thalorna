@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [sun_kissed]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: oval
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

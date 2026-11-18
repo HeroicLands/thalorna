@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Curse; target suffers weakness; failures cascade into fresh misfortune."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

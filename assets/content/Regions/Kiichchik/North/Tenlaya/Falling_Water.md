@@ -4,15 +4,18 @@ name: {full: Falling Water, tenl: [hiye spito]}
 type: place
 subType: settlement
 description: "Falling Water: the salmon falls of the Root Fields and their summer camp, where the western bands take fish from platforms over the water and trade with the Cedar People's summer traders, who have brought a captive to sell."
-tags: [village, draft]
+tags: [town, draft]
 data:
   culture: tenlayaclt
   demonym: null
   lore: [tenlayaclt]
   parents: [potontayuntorgn]
   population: 3000
+  type: town
+  market: local
   government: tenlaya
   packFolder: tenlaya
+  notes: "Falling Water: the salmon falls of the Root Fields and their summer camp, where the western bands take fish from platforms over the water and trade with the Cedar People's summer traders, who have brought a captive to sell."
 
 # terran_analog: Celilo Falls on the Columbia, the great fishing and trading place of the Plateau peoples, with its dip-net platforms, its first-salmon rite and its summer trade fair
 ---

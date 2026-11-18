@@ -9,10 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [klhrdpfrst]
-  population: null
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "A lineage village in a spring valley on the northern inner slope of Kalihara's Ring, whose spring-stone has gone bone-white and whose spring runs muddy."
 ---
 
 ## Overview {#overview}

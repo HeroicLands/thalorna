@@ -10,6 +10,8 @@ data:
   lore: []
   parents: [vylariargn]
   population: 900000
+  type: metropolis
+  market: international
   routes:
     - {to: tyrellan, bearing: N, mode: land, days: 20, terrain: [road]}
     - {to: alyssar, bearing: W, mode: land, days: 1, terrain: [road]}
@@ -17,7 +19,8 @@ data:
     - {to: mercavia, bearing: S, mode: land, days: 5, terrain: [road]}
     - {to: aelissium, bearing: S, mode: land, days: 5, terrain: [road]}
   packFolder: vylaria
-  government: verdanorzara
+  government: vylarinmpr
+  notes: "Capital City of Viléria"
 ---
 
 > _"All roads are the [[affiliation-vylarinmpr|Empire]]'s roads, and every one of them runs home to Orzara."_—Vilérian proverb

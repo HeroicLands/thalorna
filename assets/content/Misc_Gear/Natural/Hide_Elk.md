@@ -4,7 +4,7 @@ name: {full: "Hide, Elk"}
 type: miscgear
 description: "Thick durable elk hide; heavy leather for armor backing and saddles. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural

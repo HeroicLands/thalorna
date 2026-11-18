@@ -4,7 +4,7 @@ name: {full: Copper/Bronze}
 type: miscgear
 description: "Melted, cast ingots or sheets; resists weathering, worked into vessels and ornaments."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: mnrl, secondary: []}
   kbcat: jewelry

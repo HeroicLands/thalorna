@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [scarred]
+    hair_style: cropped
+    face_shape: heart
+    brow: arched
+    mouth: thin
     extra_features: [a scar running down the right leg]
   packFolder: midhaliontaruzel
 sohl:

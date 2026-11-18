@@ -4,7 +4,7 @@ name: {full: "Box, ceramic, lidded, 12 x 8 x 6 in"}
 type: containergear
 description: "Lidded earthenware box for dry goods kept away from damp and vermin."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 2, valueBase: 4, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 10}

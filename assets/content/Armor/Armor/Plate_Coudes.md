@@ -4,7 +4,7 @@ name: {full: Plate Coudes}
 type: armorgear
 description: "Steel elbow-caps; joint-guard for armed combat or labor."
 tags: []
-data: {icon: elbowpad, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: elbowpad, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

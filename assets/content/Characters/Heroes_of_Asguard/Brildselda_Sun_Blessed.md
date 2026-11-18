@@ -24,6 +24,11 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [freckled]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: round
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -4,7 +4,7 @@ name: {full: Bagpipes}
 type: miscgear
 description: "Sheepskin-covered wooden stock with drones and chanter; penetrating wail for festivals, marches."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

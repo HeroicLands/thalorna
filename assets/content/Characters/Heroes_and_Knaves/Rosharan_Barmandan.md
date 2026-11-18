@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: light
     complexion: []
+    face_shape: long
+    mouth: full
     extra_features: [a tattoo of a bear on the left arm]
   packFolder: kingdomofamradad
 sohl:

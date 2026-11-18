@@ -24,6 +24,8 @@ data:
     hair_color: brown
     skin_color: pale
     complexion: [ruddy]
+    hair_style: shoulder_length
+    nose: upturned
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

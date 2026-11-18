@@ -4,7 +4,7 @@ name: {full: Strongroom Key, en: [Vault Key, Tarmeks Key]}
 type: miscgear
 description: "One of the three keys that secure the strongroom of the Tarmeks Orzan at Orzara, each held by a different officer and none of them enough alone; the empire's bullion and the credit of its paper sit behind them."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: miscgear}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: miscgear}
 sohl: {system: {weightBase: 0.5, valueBase: 0, qualityBase: 0, durabilityBase: 20}}
 ---
 

@@ -25,6 +25,10 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [freckled]
+    hair_style: short
+    face_shape: round
+    nose: narrow
+    brow: arched
     extra_features: [a scar on the abdomen]
   packFolder: aureldiaaelwyth
 sohl:

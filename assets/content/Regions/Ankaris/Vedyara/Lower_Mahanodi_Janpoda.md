@@ -62,6 +62,7 @@ data:
         Captain of the militia, raised from the villages at the sabhra's call and dismissed when the need ends.
   seat: null
   population: null
+  territorial_population: 5400
   economy: []
   lore: [vedyariclt]
   parents: [janpdsvdyr]

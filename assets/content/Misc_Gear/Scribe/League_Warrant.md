@@ -4,7 +4,7 @@ name: {full: League Warrant}
 type: miscgear
 description: "The Corsair League's sealed paper naming a captain and her hull as members under the League's charter: berths, customs passed, a sword on any Taruzelian quay, and the difference between a corsair and a pirate."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.05, valueBase: 0, qualityBase: 0, durabilityBase: 3}}
 ---
 

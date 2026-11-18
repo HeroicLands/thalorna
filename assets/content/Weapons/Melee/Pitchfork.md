@@ -4,7 +4,7 @@ name: {full: Pitchfork}
 type: weapongear
 description: "Farm prong-fork for thrusting and binding; levy's accessible polearm."
 tags: []
-data: {icon: pitchfork, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: pitchfork, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: polearm

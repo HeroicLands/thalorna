@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [nordheim]
   population: 150
+  market: local
+  type: village
   packFolder: nordheim
   government: kngdmnrdhm
+  notes: "Trading Post"
 ---
 
 ## Overview {#overview}

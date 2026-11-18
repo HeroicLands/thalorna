@@ -4,7 +4,7 @@ name: {full: Grappling Hook, en: [Grapnel, "Hook, grappling"]}
 type: miscgear
 description: "Four-pronged iron hook for throwing over walls and ledges. Reusable if the line can be recovered."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

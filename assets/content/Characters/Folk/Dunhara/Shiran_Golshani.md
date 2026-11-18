@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_texture: curly
+    hair_style: long
+    face_shape: angular
+    nose: aquiline
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: ankarisdunhara
 ---

@@ -4,14 +4,17 @@ name: {full: Asgarthul}
 type: place
 subType: settlement
 description: "Market Town / Seat of Local Nobility"
-tags: [town, market]
+tags: [village, market]
 data:
   demonym: null
   lore: []
   parents: [norgaad]
   population: 400
+  type: village
+  market: local
   packFolder: norgaad
   government: kingdmnrgd
+  notes: "Market Town / Seat of Local Nobility"
 ---
 
 ## Overview {#overview}

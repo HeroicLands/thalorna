@@ -38,6 +38,12 @@ data:
       red: 1
     skin_color: {fair: 4, pale: 3, light: 4, medium: 2, tanned: 1}
     complexion: {smooth: 4, clear: 3, freckled: 1, weathered: 1}
+    hair_texture: {wavy: 4, straight: 3, curly: 2}
+    hair_style: {long: 3, shoulder_length: 3, braided: 2, knotted: 2, short: 2}
+    face_shape: {oval: 4, heart: 3, long: 2, round: 1, angular: 1}
+    nose: {straight: 5, narrow: 2, aquiline: 2, upturned: 1}
+    brow: {arched: 4, thin: 3, straight: 2}
+    mouth: {thin: 3, full: 3, small: 2, wide: 1}
     height: {female: {min: 5' 3", max: 6' 0"}, male: {min: 5' 6", max: 6' 4"}}
 
 # terran_analog: "Northern France and Switzerland (the Pelwar courtly sphere with its bardic colleges and an Alpine highland interior). Carries over: courtly aristocratic houses, bards, mountain monasteries and highland kin peoples. Departs: the Élavendri live openly beside the Elder Races, and the ancestor tribes (Áelendan) hold the ranges as pact-bound keepers of the old ways."

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Draws liquid essence; drains vitality through insidious wood-touch."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

@@ -4,7 +4,7 @@ name: {full: "Icon, religious, stone, sm"}
 type: miscgear
 description: "Palm-sized devotional figure cut from soapstone or limestone; heavier and dearer than clay."
 tags: [religious]
-data: {icon: prayer, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: prayer, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: religious

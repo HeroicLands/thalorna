@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "White-hot supernatural flame consuming stone and metal; spreads inexorably."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

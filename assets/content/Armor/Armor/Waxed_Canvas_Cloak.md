@@ -4,7 +4,7 @@ name: {full: Waxed Canvas Cloak}
 type: armorgear
 description: "Wax-impregnated canvas cloak turning rain and spray."
 tags: []
-data: {icon: cloak, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cloak, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: "Glue, pint"}
 type: miscgear
 description: "Hide glue from bone and sinew; rejoin wood, leather, and bone."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: expedition

@@ -5,7 +5,7 @@ type: trauma
 subType: physcond
 description: "A limb pinned, bound, or paralyzed — it cannot be moved, but it keeps its grip."
 tags: []
-data: {icon: handcuffed, templatePriority: 0, packFolder: traumaphysical}
+data: {kind: physcond, icon: handcuffed, templatePriority: 0, packFolder: traumaphysical}
 sohl: {kbcat: physdisability, system: {category: impediment}}
 ---
 

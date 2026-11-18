@@ -4,7 +4,7 @@ name: {full: Pork}
 type: miscgear
 description: "Fatty rich swine meat, salts and smokes excellently, garrison staple."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

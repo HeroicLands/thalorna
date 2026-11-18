@@ -4,7 +4,7 @@ name: {full: "Mace, Steel Handle"}
 type: weapongear
 description: "Flanged iron head on steel haft; armored knight's shock-weapon."
 tags: []
-data: {icon: flangedmace, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: flangedmace, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: club

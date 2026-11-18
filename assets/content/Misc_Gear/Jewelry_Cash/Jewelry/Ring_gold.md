@@ -4,7 +4,7 @@ name: {full: "Ring, gold"}
 type: miscgear
 description: "Half an ounce of soft gold, sized to a finger; a purse that cannot be cut away."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: [mtlc]}
   kbcat: jewelry

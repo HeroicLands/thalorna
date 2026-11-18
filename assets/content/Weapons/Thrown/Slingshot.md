@@ -4,7 +4,7 @@ name: {full: Slingshot}
 type: weapongear
 description: "Y-framed pouch-cord; concealed, silent, favored by hunters and footpads."
 tags: []
-data: {icon: slingshot, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: slingshot, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: thrown

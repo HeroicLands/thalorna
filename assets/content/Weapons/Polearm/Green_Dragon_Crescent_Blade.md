@@ -4,7 +4,7 @@ name: {full: Green Dragon Crescent Blade}
 type: weapongear
 description: "Curved polearm blade for slashing across multiple foes."
 tags: []
-data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm

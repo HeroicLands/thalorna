@@ -776,19 +776,6 @@ export function withNameForms(fm, current) {
     return copy;
 }
 
-/** Notes whose stress follows the common rule; the baseline stated their own. */
-export const COMMON_STRESS_NOTES = new Set([
-    "skill-aelendlng",
-    "skill-hvarnlng",
-    "skill-nordmalng",
-    "skill-senalilng",
-    "skill-nyalbnlng",
-    "skill-provnzlng",
-    "skill-tellumilng",
-    "skill-kelwanuklng",
-    "skill-sowideslng",
-]);
-
 /** Baseline sentences about stress, by note address, and the sentences that now stand in their place. */
 export const STRESS_PROSE = new Map([
     [
@@ -1221,13 +1208,17 @@ export function withGuideSounds(fm, file) {
     return copy;
 }
 
-/** The baseline stress setting of a note that now follows the common rule. */
-export function withCommonStress(fm, file) {
-    if (!fm?.data?.sounds?.stress) return fm;
-    if (![...COMMON_STRESS_NOTES].some((address) => notePath(address) === file)) return fm;
+/**
+ * The baseline without the sound keys a language note does not carry: the guide
+ * owns stress, and a written ending keeps no reading.
+ */
+export function withoutRetiredSounds(fm) {
+    const sounds = fm?.data?.sounds;
+    if (!sounds) return fm;
     const copy = structuredClone(fm);
-    copy.data.sounds.stress.two = "first";
-    copy.data.sounds.stress.longer = "penultimate";
+    delete copy.data.sounds.stress;
+    for (const row of copy.data.sounds.finals ?? []) delete row.like;
+    if (Object.keys(copy.data.sounds).length === 0) delete copy.data.sounds;
     return copy;
 }
 
@@ -1291,12 +1282,11 @@ export function assertEncodingMigrationPreserved(
                                 withRespellings(
                                     withTranslationRetags(
                                         withNameForms(
-                                            withCommonStress(
+                                            withoutRetiredSounds(
                                                 withGuideSounds(
                                                     withWordRenames(before.fm, file),
                                                     file,
                                                 ),
-                                                file,
                                             ),
                                             current.fm,
                                         ),

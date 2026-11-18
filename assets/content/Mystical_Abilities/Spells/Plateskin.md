@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster's skin hardens like armor; deflects blows and blades."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

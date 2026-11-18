@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    face_shape: oval
+    nose: narrow
     extra_features: [a scar on the right cheek]
   packFolder: ankarisnordlands
 sohl:

@@ -5,7 +5,12 @@ type: place
 subType: settlement
 description: "A Nordlands fishing village saved from sea raiders by Skalforv Thunderstrike, whose richest fisherwoman keeps him supplied with a ship and crew."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  packFolder: nordlands
+  notes: "A Nordlands fishing village saved from sea raiders by Skalforv Thunderstrike, whose richest fisherwoman keeps him supplied with a ship and crew."
 ---
 
 "You sail against raiders, you sail on the widow's keel," says a hand on one of the inlet's boats, shouldering a coil of line along the strand at Ralthvík. "Ask anyone here whose keel that was." The fishing village sits on an inlet of the [[place-nrdlndsrgn|Nordlands]] coast, and its boats go out in every season the sea allows. Its people live by what they bring back.

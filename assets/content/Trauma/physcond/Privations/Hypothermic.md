@@ -5,7 +5,7 @@ type: trauma
 subType: physcond
 description: "Core body temperature drops; shivering, slurred speech, stupor, death."
 tags: []
-data: {icon: stomach, templatePriority: 0, packFolder: privations}
+data: {kind: privation, icon: stomach, templatePriority: 0, packFolder: privations}
 sohl: {kbcat: physprivations, system: {category: debility, levelBase: 3, healingRateBase: 2}}
 ---
 

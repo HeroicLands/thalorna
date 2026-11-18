@@ -4,7 +4,7 @@ name: {full: Straw Skirt}
 type: armorgear
 description: "Lightweight breathable straw skirt; airy garment for hot climates."
 tags: []
-data: {icon: skirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: skirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

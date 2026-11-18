@@ -10,8 +10,11 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 900
+  market: local
+  type: village
   government: vrgldhld
   packFolder: eilwith
+  notes: "The grain village of the lower valleys—the flattest, warmest ground the Vardain have, and the one that swelled most when the refugees came up."
 ---
 
 **Kalm** holds the broadest and lowest of the valley floors, which makes it [[lore-vardain|the Vardain]]'s grain country:

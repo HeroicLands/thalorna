@@ -47,6 +47,7 @@ data:
       Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
   seat: magaravlg
   population: null
+  territorial_population: 260
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk, shengelspr]
   parents: [okharis]

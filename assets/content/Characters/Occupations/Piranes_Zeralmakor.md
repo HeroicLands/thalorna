@@ -25,6 +25,8 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [weathered]
+    face_shape: square
+    nose: straight
     extra_features: [a scar on the left thigh]
   packFolder: midhalionvylaria
 sohl:

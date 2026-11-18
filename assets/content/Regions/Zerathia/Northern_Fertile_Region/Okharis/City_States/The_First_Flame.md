@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 40000
+  market: regional
+  type: city
   packFolder: citystates
   government: okharis
+  notes: "Temple City"
 ---
 
 **meaning:** _The First Flame_

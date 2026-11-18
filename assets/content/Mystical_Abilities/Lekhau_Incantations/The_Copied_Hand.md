@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Reproduces a document exactly, including the qualities of the hand that made it."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garrethzethu, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garrethzethu, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhaurthzth

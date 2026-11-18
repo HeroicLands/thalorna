@@ -6,6 +6,7 @@ subType: disease
 description: "Leishmania parasite via sandfly bite; skin sores or organ damage."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

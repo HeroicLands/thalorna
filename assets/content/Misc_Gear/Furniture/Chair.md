@@ -4,7 +4,7 @@ name: {full: "Chair"}
 type: miscgear
 description: "Single wooden seat with a back; a mark of standing in the household."
 tags: [furniture]
-data: {icon: swapbag, templatePriority: 0, packFolder: furniture}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: furniture}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: furniture

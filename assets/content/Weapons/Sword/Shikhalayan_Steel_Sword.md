@@ -4,7 +4,7 @@ name: {full: Shikhalayan Steel Sword}
 type: weapongear
 description: "Plain straight blade of Shikhalayan mountain steel; serviceable, cheap, and bought by the wagonload."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

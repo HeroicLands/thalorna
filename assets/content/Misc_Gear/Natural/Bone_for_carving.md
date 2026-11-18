@@ -4,7 +4,7 @@ name: {full: Bone (for carving)}
 type: miscgear
 description: "Scraped bone scraps; used by carvers and flute-makers for chess, combs, ornaments."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural

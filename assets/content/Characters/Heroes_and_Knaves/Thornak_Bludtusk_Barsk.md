@@ -29,6 +29,8 @@ data:
     hair_color: auburn
     skin_color: pale
     complexion: []
+    hair_style: long
+    facial_hair: long_beard
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

@@ -4,7 +4,7 @@ name: {full: "Goblet, glass"}
 type: miscgear
 description: "Stemmed glass goblet; rare and costly for formal feasts and display."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: glas, secondary: []}
   kbcat: cooking

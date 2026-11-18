@@ -27,6 +27,7 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [weathered]
+    hair_style: braided
     extra_features: [flour in the creases of her knuckles]
   packFolder: aureldiaelavendre
 ---

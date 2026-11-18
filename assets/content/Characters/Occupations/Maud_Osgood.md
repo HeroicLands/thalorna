@@ -25,6 +25,10 @@ data:
     hair_color: dark_blonde
     skin_color: light
     complexion: [freckled]
+    hair_style: long
+    face_shape: angular
+    nose: upturned
+    mouth: thin
     extra_features: [a scar on the back of the left arm]
   packFolder: aureldiaaelwyth
 sohl:

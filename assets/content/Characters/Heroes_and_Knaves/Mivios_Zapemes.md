@@ -24,6 +24,8 @@ data:
     hair_color: greying_brown
     skin_color: tanned
     complexion: [ruddy]
+    face_shape: long
+    nose: hooked
     extra_features: []
   packFolder: helladbyzaria
 sohl:

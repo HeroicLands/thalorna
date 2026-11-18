@@ -4,7 +4,7 @@ name: {full: Dhal}
 type: weapongear
 description: "Brass-bossed circular shield; prestige and practical deflection."
 tags: []
-data: {icon: icon-roundshield, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-roundshield, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: shield
   weaponType: Shield

@@ -4,7 +4,7 @@ name: {full: Coin of Passage}
 type: miscgear
 description: "A small copper disc placed in the hand of the deceased at cremation; not an offering, but a reminder of what a soul carries to the threshold."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   craft: {skill: mtlc, secondary: []}

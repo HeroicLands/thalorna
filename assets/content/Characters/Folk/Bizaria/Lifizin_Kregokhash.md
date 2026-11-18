@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: knotted
+    face_shape: square
+    nose: straight
+    brow: heavy
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

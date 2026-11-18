@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [salt-cracked hands]
   packFolder: aureldiaprovenzia
 ---

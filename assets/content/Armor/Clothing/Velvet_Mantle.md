@@ -4,7 +4,7 @@ name: {full: Velvet Mantle}
 type: armorgear
 description: "Soft plush velvet mantle; opulent garment for nobility and grandeur."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

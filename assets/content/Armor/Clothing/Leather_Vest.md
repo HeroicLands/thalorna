@@ -4,7 +4,7 @@ name: {full: Leather Vest}
 type: armorgear
 description: "Lightweight styled leather sleeveless garment offering minimal protection and edge."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

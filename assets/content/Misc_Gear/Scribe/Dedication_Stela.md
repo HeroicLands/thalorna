@@ -4,7 +4,7 @@ name: {full: Dedication Stela, kiichek: [Shok'al Kulum]}
 type: miscgear
 description: "A carved stone raised at the turn of the count; it records what the Ts'enmah's reign chose to remember."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
   system: {weightBase: 2000, valueBase: 300, qualityBase: 0, durabilityBase: 40}

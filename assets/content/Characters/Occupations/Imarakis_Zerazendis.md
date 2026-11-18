@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [ruddy]
+    face_shape: angular
+    nose: hooked
+    mouth: full
     extra_features: [a scar along the jawline]
   packFolder: midhalionvylaria
 sohl:

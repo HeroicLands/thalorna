@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Erases a name from every record and from living memory, ending the named as thoroughly as death does not."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garzelgut, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garzelgut, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhauzelgut

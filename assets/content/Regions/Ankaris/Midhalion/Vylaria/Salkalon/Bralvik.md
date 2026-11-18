@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [salkhalon]
   population: 9000
+  market: regional
+  type: town
   packFolder: vylaria
   government: provincvld
+  notes: "Salkalon's largest fishing town, famous for its smoke-fish, and the one place on the Vilérian coast with a Nordmal name, given by a raiding crew stranded there in 523 AF."
 ---
 
 ## Overview {#overview}

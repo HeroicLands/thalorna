@@ -4,7 +4,7 @@ name: {full: Wakizashi}
 type: weapongear
 description: "Short curved single-edged blade; secondary steel marking standing and privilege."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

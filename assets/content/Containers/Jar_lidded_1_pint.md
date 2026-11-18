@@ -4,7 +4,7 @@ name: {full: "Jar, lidded, 1 pint"}
 type: containergear
 description: "Compact stoneware jar with tight seal for spices and traveling supplies (1 pint)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 1.7, valueBase: 3, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 1}

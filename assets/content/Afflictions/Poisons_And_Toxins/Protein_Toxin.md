@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Marine spine venom; intense pain and tissue necrosis; cardiovascular distress."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

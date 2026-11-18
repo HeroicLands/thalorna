@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: golden
     complexion: [weathered, wrinkled]
+    hair_style: cropped
     extra_features: [both forearms marked with the white scars of old fire-ordeals]
   packFolder: ankariskhazryndesert
 ---

@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: tawny
     complexion: [leathery, wrinkled]
+    facial_hair: long_beard
     extra_features: [eyes clouded at the edges, a bald crown, liver-spotted hands]
   packFolder: ankariskhazryndesert
 ---

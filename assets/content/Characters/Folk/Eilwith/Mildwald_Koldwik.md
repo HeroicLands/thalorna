@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: light
     complexion: [ruddy]
+    hair_texture: curly
+    hair_style: shoulder_length
+    face_shape: round
+    nose: straight
+    brow: straight
+    mouth: full
     extra_features: []
   packFolder: aureldiaaelwyth
 ---

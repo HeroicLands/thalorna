@@ -35,6 +35,7 @@ data:
     hair_color: silver
     skin_color: fair
     complexion: [smooth]
+    hair_style: shoulder_length
     extra_features: [an old burn scar across the palm of the left hand]
   packFolder: aureldiaprovenzia
 ---

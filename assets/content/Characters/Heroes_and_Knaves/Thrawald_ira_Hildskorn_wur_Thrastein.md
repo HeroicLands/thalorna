@@ -24,6 +24,9 @@ data:
     hair_color: greying_brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: cropped
+    nose: crooked
+    brow: heavy
     extra_features: [missing two fingers on left hand, thick neck, nose broken multiple times]
   packFolder: ankarisvrystwald
 sohl:

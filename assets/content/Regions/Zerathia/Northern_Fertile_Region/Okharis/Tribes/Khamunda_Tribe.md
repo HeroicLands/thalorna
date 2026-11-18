@@ -47,6 +47,7 @@ data:
       Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
   seat: khamundavlg
   population: null
+  territorial_population: 400
   economy: []
   lore: [humanflk]
   parents: [okharis]

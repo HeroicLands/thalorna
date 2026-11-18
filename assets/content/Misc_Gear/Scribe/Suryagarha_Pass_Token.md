@@ -4,7 +4,7 @@ name: {full: Suryagarha Pass-Token}
 type: miscgear
 description: "A halved copper tally, one struck per caravan at the customs-house; the two halves rejoin only if the count agrees."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl:
   kbcat: scribe
   craft: {skill: mtlc, secondary: []}

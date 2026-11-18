@@ -4,7 +4,7 @@ name: {full: "Beans, crate"}
 type: miscgear
 description: "Dried beans in bushel crate; reliable protein, keep for years dry."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

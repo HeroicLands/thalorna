@@ -4,7 +4,7 @@ name: {full: Truncheon}
 type: weapongear
 description: "Wooden club; town watch tool enforcing order without obvious intent."
 tags: []
-data: {icon: club, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: club, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: club

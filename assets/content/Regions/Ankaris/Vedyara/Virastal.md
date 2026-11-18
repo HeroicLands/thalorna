@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [danurkotjnpd]
   population: 680
+  market: local
+  type: village
   packFolder: vedyara
   government: dnrktjnpd
+  notes: "Sentija lineage village on the hill above the ford, which sends more men to the muster than any other."
 ---
 
 **Virastal** (680) is the lineage village of **Sentija** households on the hill above the ford, in the [[place-danurkotjnpd|Danurkot Janpoda]]. Born to arms, its men owe service in the host, and when the sabhra calls the muster they come down off the hill in greater numbers than any other village sends.

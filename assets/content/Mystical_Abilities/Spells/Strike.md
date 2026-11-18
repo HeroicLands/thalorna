@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster's blow lands true; grants power and accuracy."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

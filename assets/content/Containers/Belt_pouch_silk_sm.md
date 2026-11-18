@@ -4,7 +4,7 @@ name: {full: "Belt pouch, silk, sm"}
 type: containergear
 description: "Small silk belt pouch; display rather than security."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 0.3, valueBase: 36, qualityBase: 0, durabilityBase: 1, maxCapacityBase: 1.5}

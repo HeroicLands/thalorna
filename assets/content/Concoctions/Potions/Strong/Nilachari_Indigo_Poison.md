@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "A deep-blue poison distilled from spent indigo vats; one of the subtler preparations to come out of Chandratar's apothecary."
 tags: [strong-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: strong}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

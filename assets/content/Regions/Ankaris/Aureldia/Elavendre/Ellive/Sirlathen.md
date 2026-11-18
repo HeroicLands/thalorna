@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [ellive]
   population: 900
+  market: regional
+  type: village
   government: kngdmlvndr
   packFolder: elavendre
+  notes: "The pilots' village at the mouth of the Berav, where every sea-going hull takes a pilot for the fifteen miles to Péravel and where the crown's harbor-clerk counts what comes in."
 ---
 
 ## Overview {#overview}

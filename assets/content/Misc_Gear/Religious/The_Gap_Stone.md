@@ -4,7 +4,7 @@ name: {full: The Gap Stone}
 type: miscgear
 description: "A living held stone of the Still-Water Sill, the size of a child's hand and carried sealed in a lacquered case; it looks like a key and opens nothing."
 tags: [kaan-sul, kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.3, valueBase: 0, qualityBase: 0, durabilityBase: 20}

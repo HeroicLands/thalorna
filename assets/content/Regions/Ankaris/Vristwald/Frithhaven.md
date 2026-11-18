@@ -10,12 +10,15 @@ data:
   lore: [goosettm]
   parents: [thornwald]
   population: 420
+  market: local
+  type: village
   borders: [{to: thornhaven, bearing: NW}, {to: vethholt, bearing: E}]
   routes:
     - {to: thornhaven, bearing: NW, mode: land, days: 3, terrain: [track, forest]}
     - {to: vethholt, bearing: E, mode: land, days: 2, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Thornwald."
 ---
 
 ## Overview {#overview}

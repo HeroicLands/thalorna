@@ -10,9 +10,12 @@ data:
   lore: []
   parents: [visizel]
   population: 2000
+  type: village
+  market: local
   routes: [{to: sazumun2, bearing: S, mode: land, days: 1, terrain: [coast, road]}]
   government: cnclhtsl
   packFolder: taruzel
+  notes: "A fishing village on a low headland of Visizel's western coast, north of Sazumun: boats drawn up on two sandy coves, a reef offshore that gives the village its name, and below it the tanning pits whose leather the city buyers ride out for."
 ---
 
 ## Overview {#overview}

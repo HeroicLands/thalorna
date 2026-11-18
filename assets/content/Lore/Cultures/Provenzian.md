@@ -20,6 +20,12 @@ data:
     hair_color: {dark_brown: 4, black: 4, chestnut: 3, brown: 2, red: 1, auburn: 1}
     skin_color: {olive: 4, fair: 3, medium: 3, tawny: 1, light: 1}
     complexion: {sun_kissed: 3, clear: 3, weathered: 2, smooth: 2}
+    hair_texture: {wavy: 5, curly: 3, straight: 2}
+    hair_style: {short: 3, shoulder_length: 3, long: 2, braided: 1, knotted: 1, cropped: 1}
+    face_shape: {oval: 4, heart: 2, round: 2, long: 2, angular: 1}
+    nose: {straight: 4, aquiline: 3, narrow: 1, upturned: 1, hooked: 1}
+    brow: {arched: 4, straight: 3, bushy: 2, thin: 1}
+    mouth: {full: 4, thin: 2, wide: 1, small: 2}
     height: {female: {min: 5' 4", max: 6' 0"}, male: {min: 5' 6", max: 6' 4"}}
 
 # terran_analog: "Southwestern France, the Atlantic coast of Spain and Portugal (vineyards, river-mouth ports, illuminated-manuscript scriptoria and glass work), with cities of marble and aqueduct inherited from the Roman-analog empire. Carries over: city-first loyalty, self-governing chartered cities (noble, citizen or guild councils), dress and table as the public record of a family's standing. Departs: regional feeling arises only against a Vilérian or a Nordman."

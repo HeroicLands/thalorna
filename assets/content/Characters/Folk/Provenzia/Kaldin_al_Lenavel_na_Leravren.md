@@ -33,6 +33,8 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered]
+    hair_style: short
+    facial_hair: short_beard
     extra_features: [an old scar across the back of the left hand]
   packFolder: aureldiaprovenzia
 ---

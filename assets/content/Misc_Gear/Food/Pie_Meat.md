@@ -4,7 +4,7 @@ name: {full: "Pie, Meat"}
 type: miscgear
 description: "Baked dough with minced spiced meat, feeds one hungry traveler daily."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: cook, secondary: []}
   kbcat: food

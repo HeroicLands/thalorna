@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [hokpargn]
   population: 15000
+  market: regional
+  type: city
   government: tokchiaska
   packFolder: tokchiaska
+  notes: "The Sun Mound, chief town of the One Fire and seat of the Great Sun, on the floodplain of the great river."
 ---
 
 ## Overview {#overview}

@@ -25,6 +25,9 @@ data:
     hair_color: red
     skin_color: fair
     complexion: []
+    hair_style: cropped
+    face_shape: long
+    mouth: thin
     extra_features: [tattoo on arm]
   packFolder: midhalionvylaria
 sohl:

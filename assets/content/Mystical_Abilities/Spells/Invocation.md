@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Summoned wind-spirit scouting terrain and engaging in aerial combat."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

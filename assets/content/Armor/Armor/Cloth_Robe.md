@@ -4,7 +4,7 @@ name: {full: Cloth Robe}
 type: armorgear
 description: "Simple cloth robe providing comfort and warmth for practical wear."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: robe, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

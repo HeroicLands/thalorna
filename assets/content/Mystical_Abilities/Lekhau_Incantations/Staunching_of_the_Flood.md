@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Stops a flow of liquid, whether from a wound, a vessel or a breached bank."
 tags: [gethunu-lekhau, incantation]
-data: {icon: garnlghkhlth, templatePriority: null, packFolder: regkhmys}
+data: {kind: incantation, icon: garnlghkhlth, templatePriority: null, packFolder: regkhmys}
 sohl:
   system:
     assocSkillCode: lekhnlghkhlt

@@ -4,7 +4,7 @@ name: {full: Scale Vest}
 type: armorgear
 description: "Sleeveless scale-armor; overlapping metal scales cover torso only."
 tags: []
-data: {icon: scalemail, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: scalemail, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide, mtlc]}
   kbcat: scale

@@ -24,6 +24,8 @@ data:
     hair_color: auburn
     skin_color: medium
     complexion: [ruddy]
+    hair_style: braided
+    face_shape: oval
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

@@ -4,7 +4,7 @@ name: {full: "Spinel, cut"}
 type: miscgear
 description: "Hard gemstone in red-pink-purple; brilliant and durable; often confused with ruby."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

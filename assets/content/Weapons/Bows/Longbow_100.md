@@ -4,7 +4,7 @@ name: {full: Longbow 100}
 type: weapongear
 description: "Hundred-pound yew warbow; footman archer's competent field standard."
 tags: []
-data: {icon: pocketbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: pocketbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: bow

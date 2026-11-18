@@ -24,6 +24,9 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [ruddy]
+    face_shape: angular
+    nose: upturned
+    mouth: thin
     extra_features: [a tattoo of a tiger on the forearm]
   packFolder: ankarisnordlands
 sohl:

@@ -24,6 +24,8 @@ data:
     hair_color: red
     skin_color: medium
     complexion: [ruddy]
+    hair_style: long
+    face_shape: long
     extra_features: [a tattoo of a serpent on the back]
   packFolder: ankarisvrystwald
 sohl:

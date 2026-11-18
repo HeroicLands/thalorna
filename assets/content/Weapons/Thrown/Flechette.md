@@ -4,7 +4,7 @@ name: {full: Fléchette}
 type: weapongear
 description: "Small aerodynamic dart thrown in volleys; skirmisher's ranged harassment."
 tags: []
-data: {icon: dart, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: dart, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: thrown

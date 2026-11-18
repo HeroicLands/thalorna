@@ -10,9 +10,12 @@ data:
   lore: []
   parents: [galezkaraslt]
   population: 180
+  market: local
+  type: village
   packFolder: regkhsett
   government: capitalselat
   banner: khelathubnr
+  notes: "A grain-village of 180 people in the farm-and-market country around Galezkara, distinct from the village of the same name in Anlagh-Zetun Selat"
 ---
 
 ## Overview {#overview}

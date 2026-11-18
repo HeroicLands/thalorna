@@ -4,7 +4,7 @@ name: {full: "Wine, 1 pt."}
 type: miscgear
 description: "Tart thin grape wine in bottle; preferable to ale; merchant-class drink."
 tags: [spirits]
-data: {icon: winebottle, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: winebottle, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

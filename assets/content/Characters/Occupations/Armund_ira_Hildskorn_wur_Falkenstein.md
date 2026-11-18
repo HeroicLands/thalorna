@@ -24,6 +24,8 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [freckled]
+    hair_style: locked
+    mouth: thin
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

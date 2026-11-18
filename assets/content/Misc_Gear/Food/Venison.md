@@ -4,7 +4,7 @@ name: {full: Venison}
 type: miscgear
 description: "Lean dark gamey deer meat, roasted fresh or smoked into jerky."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: food

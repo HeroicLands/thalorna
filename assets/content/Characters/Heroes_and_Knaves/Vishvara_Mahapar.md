@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [scarred]
+    mouth: full
     extra_features: [a scar on the right calf]
   packFolder: ankarisvedyara
 sohl:

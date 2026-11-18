@@ -4,7 +4,7 @@ name: {full: "Plate, pewter"}
 type: miscgear
 description: "Flat pewter plate for daily household or tavern meals and service."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cooking

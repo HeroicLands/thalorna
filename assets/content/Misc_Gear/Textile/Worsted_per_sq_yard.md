@@ -4,7 +4,7 @@ name: {full: "Worsted, per sq yard"}
 type: miscgear
 description: "Fine fulled wool in strong colours; urban guild work only."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

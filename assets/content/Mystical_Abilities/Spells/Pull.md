@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Force yanks target toward caster; resists movement with difficulty."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

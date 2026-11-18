@@ -4,7 +4,7 @@ name: {full: "Brooch, copper"}
 type: miscgear
 description: "A pin and catch worked into a plate, worn to fasten a cloak at the shoulder, in raised copper."
 tags: [jewelry_cash]
-data: {icon: gempendant, templatePriority: 0, packFolder: jewelry}
+data: {kind: miscgear, icon: gempendant, templatePriority: 0, packFolder: jewelry}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: jewelry

@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Deep maroon almost-black coagulant; stops bleeding effectively."
 tags: [strong-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: strong}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: strong}
 sohl:
   system:
     weightBase: 0.25

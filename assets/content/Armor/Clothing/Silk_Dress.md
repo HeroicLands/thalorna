@@ -4,7 +4,7 @@ name: {full: Silk Dress}
 type: armorgear
 description: "Elegant flowing silk dress; perfect for formal events and occasions."
 tags: []
-data: {icon: dress, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: dress, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

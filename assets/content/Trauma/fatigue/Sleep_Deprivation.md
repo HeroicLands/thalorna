@@ -5,7 +5,7 @@ type: trauma
 subType: fatigue
 description: "Extended wakefulness; weariness, slow reflexes, hallucinations, collapse."
 tags: []
-data: {icon: sleepy, templatePriority: 0, packFolder: fatigue}
+data: {kind: physcond, icon: sleepy, templatePriority: 0, packFolder: fatigue}
 sohl: {kbcat: fatigue, system: {category: weariness, levelBase: 2, healingRateBase: 5}}
 ---
 

@@ -25,6 +25,8 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [weathered]
+    hair_texture: wavy
+    mouth: thin
     extra_features: [a scar near the right ear]
   packFolder: aureldiaelavendre
 sohl:

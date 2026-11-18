@@ -4,7 +4,7 @@ name: {full: "File, metal"}
 type: miscgear
 description: "Broad coarse-toothed steel file hafted in wood; blacksmiths use to true edges."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

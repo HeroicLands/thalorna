@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [kaliharargn]
   population: 9000
+  market: international
+  type: town
   packFolder: kalihara
   government: kalihara
+  notes: "The second port of Kalihara, a day's sail along the eastern coast from Ilovanu—the harbor of the island's own coasting trade, and the rival of Ilovanu's merchant houses."
 ---
 
 ## Overview {#overview}

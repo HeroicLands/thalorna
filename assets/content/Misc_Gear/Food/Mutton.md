@@ -4,7 +4,7 @@ name: {full: Mutton}
 type: miscgear
 description: "Dark meat of aging sheep, stronger than lamb, suits hearty dishes."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

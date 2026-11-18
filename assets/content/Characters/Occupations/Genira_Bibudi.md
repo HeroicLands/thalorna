@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [scarred]
+    face_shape: long
+    nose: crooked
+    brow: straight
     extra_features: [a scar on the right upper arm]
   packFolder: midhaliontaruzel
 sohl:

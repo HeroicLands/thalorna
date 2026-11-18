@@ -25,6 +25,11 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: []
+    hair_style: short
+    face_shape: heart
+    nose: upturned
+    brow: straight
+    mouth: thin
     extra_features: [a tattoo of a phoenix on the chest]
   packFolder: aureldiaaelwyth
 sohl:

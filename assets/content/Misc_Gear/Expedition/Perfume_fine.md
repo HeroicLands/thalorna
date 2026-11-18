@@ -4,7 +4,7 @@ name: {full: "Perfume, fine"}
 type: miscgear
 description: "Perfumer's best work, built on costly imported oils."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: pfmy, secondary: []}
   kbcat: expedition

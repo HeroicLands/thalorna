@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 400
+  market: local
+  type: village
   packFolder: okharis
   government: khamundatrb
+  notes: "Village of the Khamunda tribe, one of the settled communities of Okharis."
 ---
 
 ## Overview {#overview}

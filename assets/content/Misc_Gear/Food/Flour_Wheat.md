@@ -4,7 +4,7 @@ name: {full: "Flour, Wheat"}
 type: miscgear
 description: "Fine pale flour; light breads and pastries, reserved for wealthier folk."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mill, secondary: []}
   kbcat: food

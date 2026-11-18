@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Grants water-breathing; enables underwater respiration. effect"
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

@@ -4,7 +4,7 @@ name: {full: Velvet Cap}
 type: armorgear
 description: "Soft plush velvet cap; luxury status symbol for formal settings."
 tags: []
-data: {icon: billedcap, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: billedcap, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

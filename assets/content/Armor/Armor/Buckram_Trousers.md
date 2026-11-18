@@ -4,7 +4,7 @@ name: {full: Buckram Trousers}
 type: armorgear
 description: "Stiff buckram trousers providing durability and dependable rigid fit."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -4,7 +4,7 @@ name: {full: Russet Hat}
 type: armorgear
 description: "Reddish-brown wool hat; hardy and practical."
 tags: []
-data: {icon: pointyhat, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: pointyhat, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

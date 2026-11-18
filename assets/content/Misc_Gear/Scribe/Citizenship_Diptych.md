@@ -4,7 +4,7 @@ name: {full: Citizenship Diptych, en: [Discharge Diptych]}
 type: miscgear
 description: "Two hinged bronze leaves engraved at a Vilérian legionary's discharge with his name, legion, final rank and witnesses: the only proof he carries of twenty years' service and the citizenship it bought."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.3, valueBase: 0, qualityBase: 0, durabilityBase: 15}}
 ---
 

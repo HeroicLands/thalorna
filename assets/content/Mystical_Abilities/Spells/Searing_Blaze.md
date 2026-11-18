@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Conjures intense flames; caster's touch ignites and burns."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

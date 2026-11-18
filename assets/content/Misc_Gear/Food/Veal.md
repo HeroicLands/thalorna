@@ -4,7 +4,7 @@ name: {full: Veal}
 type: miscgear
 description: "Pale tender young calf meat, fine-grained, favored by wealthy households."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

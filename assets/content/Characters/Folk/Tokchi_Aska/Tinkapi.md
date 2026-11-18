@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: knotted
+    face_shape: broad
+    nose: broad
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: kiichchiktokchiaska
 ---

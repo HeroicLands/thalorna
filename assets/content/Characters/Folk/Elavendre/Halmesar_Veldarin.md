@@ -29,6 +29,8 @@ data:
     hair_color: white
     skin_color: pale
     complexion: [weathered]
+    hair_style: cropped
+    brow: heavy
     extra_features: [a stiff left knee, a spear-wound taken on the border]
   packFolder: aureldiaelavendre
 ---

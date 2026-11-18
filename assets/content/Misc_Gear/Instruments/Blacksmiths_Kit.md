@@ -4,7 +4,7 @@ name: {full: Blacksmith's Kit}
 type: miscgear
 description: "Heavy canvas roll with forging hammers, tongs, hardies, fullers, swages, punches, hot chisels; smiths forge iron at the anvil."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

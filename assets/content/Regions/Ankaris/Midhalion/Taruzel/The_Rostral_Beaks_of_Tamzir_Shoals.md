@@ -4,7 +4,12 @@ name: {full: The Rostral Beaks of Tamzir Shoals, en: [The Squadron's Rams, The R
 type: miscgear
 description: "The cast-bronze rams of the Vilérian squadron destroyed in the Tamzir Shoals in 708 AF, still on the wrecks where the outlaws of the Shoals Brotherhood live; Yamuzel wants them on a column, the empire wants them home, and the Brotherhood's code forbids selling a single one."
 tags: [artifact, taruzel]
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: taruzel, unique: true}
+data:
+  kind: miscgear
+  icon: icon-anvilbdg
+  templatePriority: null
+  packFolder: taruzel
+  unique: true
 sohl: {system: {weightBase: 900, valueBase: 0, qualityBase: 0, durabilityBase: 25}}
 ---
 

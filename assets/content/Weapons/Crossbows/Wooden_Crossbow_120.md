@@ -4,7 +4,7 @@ name: {full: Wooden Crossbow 120}
 type: weapongear
 description: "Town-watch crossbow; balanced draw for long patrols and garrison duty."
 tags: []
-data: {icon: crossbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: crossbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: crossbow

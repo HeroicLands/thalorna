@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: light
     complexion: [ruddy]
+    hair_style: long
+    face_shape: angular
+    brow: heavy
     extra_features: [a tattoo of a fire on the leg]
   packFolder: ankarisvrystwald
 sohl:

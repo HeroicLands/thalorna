@@ -10,8 +10,11 @@ data:
   lore: [crowttm]
   parents: [skathwald]
   population: 320
+  market: local
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Skathwald whose grove council sounds the alarm when anyone goes missing near the Grimak thicket."
 ---
 
 ## Overview {#overview}

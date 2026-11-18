@@ -4,7 +4,7 @@ name: {full: "Vial, glass, medium"}
 type: containergear
 description: "Glass vial with stopper for traveling medicine kits and apothecary supplies."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system:

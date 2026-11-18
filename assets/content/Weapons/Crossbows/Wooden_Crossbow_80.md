@@ -4,7 +4,7 @@ name: {full: Wooden Crossbow 80}
 type: weapongear
 description: "Light wooden-prod crossbow; hunter's arm for unarmoured targets."
 tags: []
-data: {icon: crossbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: crossbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: crossbow

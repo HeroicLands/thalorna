@@ -4,7 +4,7 @@ name: {full: Ermine Mantle}
 type: armorgear
 description: "White ermine mantle signifying wealth and elite nobility."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

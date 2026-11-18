@@ -26,6 +26,12 @@ data:
     hair_color: {dark_brown: 4, brown: 3, black: 3, blonde: 2, auburn: 1, chestnut: 1, red: 1}
     skin_color: {fair: 3, pale: 2, light: 4, medium: 2, tanned: 2}
     complexion: {smooth: 2, clear: 3, freckled: 1, weathered: 3}
+    hair_texture: {straight: 3, wavy: 4, curly: 2}
+    hair_style: {short: 3, shoulder_length: 2, braided: 2, long: 2, knotted: 1}
+    face_shape: {square: 3, broad: 2, oval: 2, round: 2, angular: 1}
+    nose: {straight: 3, broad: 2, aquiline: 2, snub: 1, crooked: 1}
+    brow: {bushy: 3, straight: 3, heavy: 2, arched: 1}
+    mouth: {thin: 3, wide: 2, full: 2, small: 1}
     height: {female: {min: 5' 2", max: 5' 11"}, male: {min: 5' 5", max: 6' 3"}}
 
 # terran_analog: "The high Alpine valleys of Switzerland and eastern France: transhumant herding, lodge and hall, councils of elders, and a mountain people who change slowly by choice. Departs: the Áelendan live beside an Elder Race and the thin places, keep an unwritten compact with the land, and own none of it."

@@ -4,7 +4,7 @@ name: {full: Padded Mantle}
 type: armorgear
 description: "Well-insulated outer garment providing warmth and protection in cold climates."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cape, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

@@ -24,6 +24,8 @@ data:
     hair_color: blonde
     skin_color: pale
     complexion: []
+    face_shape: oval
+    brow: straight
     extra_features: [a tattoo of an eagle on the back]
   packFolder: ankarisvrystwald
 sohl:

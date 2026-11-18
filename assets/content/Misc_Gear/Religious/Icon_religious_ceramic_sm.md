@@ -4,7 +4,7 @@ name: {full: "Icon, religious, ceramic, sm"}
 type: miscgear
 description: "Small fired-clay devotional figure for a household shrine or a traveller's pack."
 tags: [religious]
-data: {icon: swapbag, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: cmcs, secondary: []}
   kbcat: religious

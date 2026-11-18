@@ -4,7 +4,7 @@ name: {full: "Back bag, lg, leather"}
 type: containergear
 description: "Leather shoulder sack for substantial travel or carrying loads."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 2.5, valueBase: 6, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 40}

@@ -4,7 +4,7 @@ name: {full: "Bell, small"}
 type: miscgear
 description: "Modest bronze-iron bell with handle; lighter, sharper than hand bell; livestock tracking."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: music

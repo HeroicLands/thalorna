@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Ground shakes violently; disrupts footing and causes damage."
 tags: []
-data: {icon: icon-tree, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: fisera

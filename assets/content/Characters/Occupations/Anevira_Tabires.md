@@ -24,6 +24,10 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [weathered]
+    hair_style: long
+    face_shape: angular
+    nose: straight
+    mouth: thin
     extra_features: []
   packFolder: helladhelionis
 sohl:

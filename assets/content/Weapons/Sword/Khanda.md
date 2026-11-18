@@ -4,7 +4,7 @@ name: {full: Khanda}
 type: weapongear
 description: "Straight broad double-edged blade for hacking; ranked warrior's symbol."
 tags: []
-data: {icon: icon-sword, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-sword, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: sword
   weaponType: Sword

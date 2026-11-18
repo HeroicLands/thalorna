@@ -4,7 +4,7 @@ name: {full: Leash}
 type: miscgear
 description: "Rope or leather cord with snap and loop; leads dogs, goats, beasts."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: tack

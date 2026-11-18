@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [a tally-notch tattooed on each knuckle of the right hand]
   packFolder: aureldiaaelwyth
 ---

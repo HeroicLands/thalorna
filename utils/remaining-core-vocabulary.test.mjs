@@ -11,7 +11,7 @@ import { WORD_CLASS_BASES, parseWordClass } from "@heroiclands/package-build/eng
 import {
     americanSpelling,
     baselinePath,
-    withCommonStress,
+    withoutRetiredSounds,
     withNameForms,
     withStressProse,
 } from "./encoding-preservation.mjs";
@@ -596,7 +596,7 @@ test("original language entries, metadata and prose are retained", () => {
         const oldMetadata = structuredClone(
             withoutKeptTag(
                 withoutReplacedOlderNames(
-                    withCommonStress(withNameForms(before.fm, after.fm), file),
+                    withoutRetiredSounds(withNameForms(before.fm, after.fm)),
                     file,
                 ),
                 file,

@@ -4,7 +4,7 @@ name: {full: Twilight House Wrist-Wrap}
 type: miscgear
 description: "Fine cloth wound over the wrist-line, taught by the Twilight House as a fashion rather than a concealment."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: expedition}
 sohl:
   kbcat: expedition
   craft: {skill: txtl, secondary: []}

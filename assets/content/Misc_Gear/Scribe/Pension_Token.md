@@ -4,7 +4,7 @@ name: {full: Pension Token, en: [Dole Token, Token from the Roll]}
 type: miscgear
 description: "The bronze token a Vilérian veteran-citizen shows at his ward's pay-hall on dole-day: the roll's proof that he is owed his pension in coin, at the rate of the rank he left the legion with."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.02, valueBase: 0, qualityBase: 0, durabilityBase: 10}}
 ---
 

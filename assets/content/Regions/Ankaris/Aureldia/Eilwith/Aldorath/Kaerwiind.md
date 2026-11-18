@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [wyndmarch]
   population: 2400
+  market: local
+  type: town
   packFolder: eilwith
   government: kngdmldrth
+  notes: "Aldorath's northern fortress, watching the interior and the forest margin—a garrison town whose whole reason is the country beyond it."
 ---
 
 ## Overview {#overview}

@@ -3177,7 +3177,6 @@ data:
       gloss: "all, every; the feminine _pluma_ stands in the bazaar's _pef fótamir, pluma reshir_"
       variants: [pluma]
       concept: [all, every, each]
-  sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

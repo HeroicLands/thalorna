@@ -31,6 +31,8 @@ data:
     hair_color: greying_brown
     skin_color: tanned
     complexion: [weathered, leathery]
+    hair_style: braided
+    nose: crooked
     extra_features: [a broken nose set crooked, hands scarred by rope and bark]
   packFolder: midhalionvylaria
 ---

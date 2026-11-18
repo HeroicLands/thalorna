@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Reveals hidden world beneath earth; perceives buried metal glowing."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

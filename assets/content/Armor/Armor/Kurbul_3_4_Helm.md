@@ -4,7 +4,7 @@ name: {full: Kûrbúl ¾-Helm}
 type: armorgear
 description: "Treated leather helm with reinforced ridges and embossing for protection and style."
 tags: []
-data: {icon: crestedhelmet, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: crestedhelmet, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [hide]}
   kbcat: kurbul

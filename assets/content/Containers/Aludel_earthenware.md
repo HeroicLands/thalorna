@@ -4,7 +4,7 @@ name: {full: "Aludel, earthenware"}
 type: containergear
 description: "Earthenware sublimation vessel, pear-shaped."
 tags: []
-data: {icon: cookingpot, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: cookingpot, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: cmcs, secondary: []}
   system: {weightBase: 1.5, valueBase: 9, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 1}

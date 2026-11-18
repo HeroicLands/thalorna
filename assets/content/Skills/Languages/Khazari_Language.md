@@ -12153,7 +12153,6 @@ data:
       - "vald-sukár"
       - "kaval-zunáth"
   sounds:
-    stress: {two: first, longer: penultimate, mark: acute}
     skeleton:
       - {second: [m, n, s], third: [r, m, n], between: u}
       - {second: [l, r, m, n, s]}

@@ -25,6 +25,10 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [clear]
+    hair_style: braided
+    face_shape: angular
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

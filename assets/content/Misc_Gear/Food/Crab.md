@@ -4,7 +4,7 @@ name: {full: Crab}
 type: miscgear
 description: "Sweet firm crustacean meat; fresh at harbor, salted for inland trade."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

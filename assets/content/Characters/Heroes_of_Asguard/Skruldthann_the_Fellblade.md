@@ -24,6 +24,9 @@ data:
     hair_color: dark_blonde
     skin_color: pale
     complexion: [scarred]
+    hair_style: locked
+    face_shape: broad
+    nose: crooked
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

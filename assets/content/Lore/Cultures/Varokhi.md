@@ -54,6 +54,12 @@ data:
     hair_color: {brown: 3, dark_brown: 3, dark_blonde: 2, red: 2, blonde: 1, black: 2, auburn: 1}
     skin_color: {light: 4, fair: 3, pale: 3, medium: 2}
     complexion: {rough: 3, weathered: 3, ruddy: 3, freckled: 1}
+    hair_texture: {straight: 3, wavy: 4, curly: 2}
+    hair_style: {long: 4, braided: 3, shoulder_length: 3, short: 2, knotted: 1}
+    face_shape: {broad: 3, square: 3, long: 2, round: 2, angular: 1}
+    nose: {straight: 3, broad: 2, aquiline: 2, crooked: 2, hooked: 1}
+    brow: {heavy: 3, bushy: 3, straight: 2, arched: 1}
+    mouth: {wide: 3, thin: 3, full: 2, small: 1}
     height: {female: {min: 5' 2", max: 5' 11"}, male: {min: 5' 7", max: 6' 6"}}
 
 # terran_analog: "The Visigoths."

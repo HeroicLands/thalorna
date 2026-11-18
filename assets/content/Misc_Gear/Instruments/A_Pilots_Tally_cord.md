@@ -4,7 +4,7 @@ name: {full: A Pilot's Tally-cord}
 type: miscgear
 description: "A knotted cord recording the currents of the approaches, one knotting for each approach, which only the pilot who cut it can read."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
   kbcat: instruments
   system: {weightBase: 0.1, valueBase: 0, qualityBase: 0, durabilityBase: 3}

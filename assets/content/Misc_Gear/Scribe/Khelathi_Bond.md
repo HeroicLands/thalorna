@@ -4,7 +4,7 @@ name: {full: Khelathi Bond, en: [The Khelathi Bond, War Note]}
 type: miscgear
 description: "Paper from the war debt Taruzel owes Au'Khelathu for the aid that won its independence, a debt the Confederation denies in public and honors in private; nobody on the quays has seen one."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.02, valueBase: 0, qualityBase: 0, durabilityBase: 3}}
 ---
 

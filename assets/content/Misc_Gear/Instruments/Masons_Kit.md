@@ -4,7 +4,7 @@ name: {full: Mason's Kit}
 type: miscgear
 description: "Heavy canvas roll with mallets, pitching tool, chisels, plumb, level; masons shape stone."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

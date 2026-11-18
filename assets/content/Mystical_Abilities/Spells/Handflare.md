@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Manifests bright spark in palm; ignites or signals with flame."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

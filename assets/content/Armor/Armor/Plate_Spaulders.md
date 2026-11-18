@@ -4,7 +4,7 @@ name: {full: Plate Spaulders}
 type: armorgear
 description: "Broad steel shoulder-plates; guards vulnerable arm-sockets."
 tags: []
-data: {icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: dorsalscales, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

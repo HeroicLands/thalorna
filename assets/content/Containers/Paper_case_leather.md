@@ -4,7 +4,7 @@ name: {full: "Paper case, leather"}
 type: containergear
 description: "Waxed leather tube for carrying folded documents and parchment safely."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: hide, secondary: []}
   system: {weightBase: 0.9, valueBase: 12, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 0.5}

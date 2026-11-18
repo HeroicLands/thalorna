@@ -26,6 +26,12 @@ data:
     hair_color: chestnut
     skin_color: tawny
     complexion: [leathery]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: oval
+    nose: straight
+    brow: bushy
+    mouth: thin
     extra_features: []
   packFolder: ankarisdunhara
 ---

@@ -24,6 +24,12 @@ data:
     hair_color: auburn
     skin_color: medium
     complexion: [weathered]
+    hair_style: braided
+    nose: crooked
+    hair_texture: wavy
+    face_shape: square
+    brow: arched
+    mouth: full
     extra_features: [crooked nose]
   packFolder: aureldiatarvenia
 sohl:

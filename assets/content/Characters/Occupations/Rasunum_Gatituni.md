@@ -25,6 +25,10 @@ data:
     hair_color: brown
     skin_color: olive
     complexion: [smooth]
+    hair_style: short
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

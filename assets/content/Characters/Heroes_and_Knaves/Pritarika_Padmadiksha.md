@@ -24,6 +24,8 @@ data:
     hair_color: dark_brown
     skin_color: brown
     complexion: [clear]
+    nose: narrow
+    mouth: full
     extra_features: []
   packFolder: ankarisvedyara
 sohl:

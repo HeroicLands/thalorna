@@ -4,7 +4,7 @@ name: {full: Gold Crown}
 type: miscgear
 description: "Royal-sealed coin of alloyed gold; the great coin of merchants, nobles and the crown."
 tags: [jewelry_cash]
-data: {icon: coinsbdg, templatePriority: 0, packFolder: cash}
+data: {kind: miscgear, icon: coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: cash

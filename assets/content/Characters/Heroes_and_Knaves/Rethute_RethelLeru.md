@@ -29,6 +29,7 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: [clear]
+    mouth: full
     extra_features: []
   packFolder: regkhhk
 sohl:

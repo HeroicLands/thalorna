@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [brynwold]
   population: 1800
+  market: local
+  type: town
   packFolder: eilwith
   government: kngdmldrth
+  notes: "A hill town of Aldorath's uplands—a wool and stone town, poorer and older than the lowland manors, keeping observances the cathedral at Dunmere would rather not examine."
 ---
 
 ## Overview {#overview}

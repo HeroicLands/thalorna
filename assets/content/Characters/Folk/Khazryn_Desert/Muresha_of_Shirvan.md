@@ -36,6 +36,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [clear]
+    hair_style: braided
     extra_features:
       - ink in the creases of the right forefinger and thumb
       - a small burn scar on the back of the left hand

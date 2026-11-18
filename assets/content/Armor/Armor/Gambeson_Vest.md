@@ -4,7 +4,7 @@ name: {full: Gambeson Vest}
 type: armorgear
 description: "Padded vest providing protection under or worn standalone."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leathervest, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: gambeson

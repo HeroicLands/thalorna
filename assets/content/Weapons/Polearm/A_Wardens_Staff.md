@@ -4,7 +4,7 @@ name: {full: A Warden's Staff}
 type: weapongear
 description: "An iron-shod staff of dark hardwood, the mark of office of the Wardens of the Approaches and the only iron most islanders handle."
 tags: [kalihara]
-data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm

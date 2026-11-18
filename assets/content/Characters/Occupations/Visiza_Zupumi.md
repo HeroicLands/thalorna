@@ -25,6 +25,10 @@ data:
     hair_color: dark_brown
     skin_color: golden
     complexion: [sun_kissed]
+    hair_texture: wavy
+    face_shape: long
+    nose: hooked
+    brow: heavy
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

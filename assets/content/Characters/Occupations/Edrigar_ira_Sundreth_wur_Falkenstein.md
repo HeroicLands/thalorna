@@ -24,6 +24,10 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [rough]
+    hair_style: knotted
+    face_shape: angular
+    nose: straight
+    mouth: wide
     extra_features: []
   packFolder: ankarisvrystwald
 sohl:

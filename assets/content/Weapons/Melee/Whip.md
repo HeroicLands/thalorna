@@ -4,7 +4,7 @@ name: {full: Whip}
 type: weapongear
 description: "Leather lash reaching beyond guard; reaches, entangles, intimidates and wounds."
 tags: []
-data: {icon: whip, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: whip, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: whip

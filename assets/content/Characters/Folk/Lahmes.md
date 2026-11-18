@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: ebony
     complexion: [clear]
+    hair_texture: curly
+    hair_style: braided
+    face_shape: long
+    nose: aquiline
+    brow: straight
+    mouth: full
     extra_features: []
   packFolder: regkhfolk
 ---

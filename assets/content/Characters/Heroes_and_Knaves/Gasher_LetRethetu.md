@@ -25,6 +25,7 @@ data:
     hair_color: dark_brown
     skin_color: ebony
     complexion: [weathered]
+    face_shape: oval
     extra_features: [a scar on the left eye]
   packFolder: regkhhk
 sohl:

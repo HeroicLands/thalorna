@@ -34,6 +34,7 @@ data:
     hair_color: silver
     skin_color: fair
     complexion: [smooth]
+    hair_style: braided
     extra_features: [a white scar through the left eyebrow]
   packFolder: aureldiaaelwyth
 ---

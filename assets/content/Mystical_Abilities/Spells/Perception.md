@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Enhances caster's senses dramatically; sees clearly despite obstacles."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

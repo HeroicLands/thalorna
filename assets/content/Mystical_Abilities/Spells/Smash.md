@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Shatters brittle object; reduces stone and glass to dust."
 tags: []
-data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: sideris

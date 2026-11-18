@@ -13,8 +13,11 @@ data:
     - {to: hendrel, bearing: NE, mode: land, days: 5, terrain: [road]}
     - {to: coastroad, bearing: NE, mode: land, days: 10, terrain: [road]}
   population: 260
+  market: local
+  type: village
   government: beaconfamlys
   packFolder: elavendre
+  notes: "The beacon village nearest Olvalonke on the Lísere coast, which bakes the bread the Wardens' night watch at the Fen Door lives on and keeps its lamps lit every night of the winter."
 ---
 
 ## Overview {#overview}

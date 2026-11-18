@@ -26,6 +26,12 @@ data:
     hair_color: greying_black
     skin_color: ebony
     complexion: [weathered]
+    hair_texture: coily
+    hair_style: short
+    face_shape: long
+    nose: straight
+    brow: straight
+    mouth: small
     extra_features: []
   packFolder: regkhfolk
 ---

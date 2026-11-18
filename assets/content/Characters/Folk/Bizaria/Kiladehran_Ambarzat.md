@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    hair_texture: curly
+    hair_style: shoulder_length
+    face_shape: angular
+    nose: straight
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 ---

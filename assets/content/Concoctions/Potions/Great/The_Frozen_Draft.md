@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Sickly pale green viscous substance; freezes body and movement."
 tags: [great-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: great}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

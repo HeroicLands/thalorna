@@ -27,6 +27,7 @@ data:
     hair_color: auburn
     skin_color: medium
     complexion: [weathered]
+    hair_style: knotted
     extra_features: []
   packFolder: midhalionvylaria
 ---

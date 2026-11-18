@@ -24,6 +24,9 @@ data:
     hair_color: dark_blonde
     skin_color: fair
     complexion: [weathered]
+    hair_style: braided
+    facial_hair: stubble
+    nose: straight
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

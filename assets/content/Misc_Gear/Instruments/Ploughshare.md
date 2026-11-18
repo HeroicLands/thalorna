@@ -4,7 +4,7 @@ name: {full: "Ploughshare"}
 type: miscgear
 description: "Iron cutting share for a plough; the costliest iron on most farms."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

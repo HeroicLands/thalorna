@@ -24,6 +24,9 @@ data:
     hair_color: white
     skin_color: fair
     complexion: [scarred]
+    face_shape: broad
+    brow: heavy
+    mouth: thin
     extra_features: [a scar on the left ear]
   packFolder: ankarisnordlands
 sohl:

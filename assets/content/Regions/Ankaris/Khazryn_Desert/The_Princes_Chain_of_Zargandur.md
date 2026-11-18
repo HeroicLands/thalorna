@@ -4,7 +4,12 @@ name: {full: The Prince's Chain of Zargandur, en: [The Chain of Office of Zargan
 type: miscgear
 description: "The gold chain of office of the princes of Zargandur, buried with the palace household and the shrine gold in the trench of Relvanvesut after the Breaking; the thing that walks the wash on dark nights wears it, and the Tellumi of the quarter would pay more than any goldsmith for its return."
 tags: [artifact, khazryn]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: khazryndesert, unique: true}
+data:
+  kind: miscgear
+  icon: icon-coinsbdg
+  templatePriority: null
+  packFolder: khazryndesert
+  unique: true
 sohl: {system: {weightBase: 2, valueBase: 0, qualityBase: 0, durabilityBase: 20}}
 ---
 

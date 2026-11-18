@@ -70,7 +70,6 @@ data:
       - {edge: closeConsonant, sounds: [k, n]}
       - {edge: closeCluster, sounds: [sk, hk]}
     clusters: {max: 2}
-    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     cultures: [kawiskakclt]
     parents: [kawiskakrgn]

@@ -4,7 +4,7 @@ name: {full: A Cold Stone}
 type: miscgear
 description: "A bone-white, hard piece of ithasul from a dead work, sold as a curiosity in the stalls of Ilovanu."
 tags: [kaan-sul, kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.5, valueBase: 30, qualityBase: 0, durabilityBase: 20}

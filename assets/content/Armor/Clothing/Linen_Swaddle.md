@@ -4,7 +4,7 @@ name: {full: Linen Swaddle}
 type: armorgear
 description: "Light breathable infant wrapping perfect for warm climates."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: trousers, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

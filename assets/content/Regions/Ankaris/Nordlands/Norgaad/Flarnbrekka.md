@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [norgaad]
   population: 250
+  market: local
+  type: village
   packFolder: norgaad
   government: kingdmnrgd
+  notes: "Mountain Settlement"
 ---
 
 ## Overview {#overview}

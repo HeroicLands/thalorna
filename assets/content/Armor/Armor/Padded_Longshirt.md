@@ -4,7 +4,7 @@ name: {full: Padded Longshirt}
 type: armorgear
 description: "Cushioned long-sleeved garment for under-armor padding or standalone wear."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

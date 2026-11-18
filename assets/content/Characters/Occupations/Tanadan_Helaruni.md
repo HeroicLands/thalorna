@@ -25,6 +25,9 @@ data:
     hair_color: grey
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_style: short
+    face_shape: long
+    brow: arched
     extra_features: [a tattoo of a knight's helmet on the shoulder]
   packFolder: midhaliontaruzel
 sohl:

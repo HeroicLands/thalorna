@@ -4,7 +4,7 @@ name: {full: Cheese}
 type: miscgear
 description: "Aged or fresh curd rounds; soft or hard, keeps weeks traveling safely."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

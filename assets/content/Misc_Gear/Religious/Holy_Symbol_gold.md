@@ -4,7 +4,7 @@ name: {full: "Holy Symbol, gold"}
 type: miscgear
 description: "Gold token of a god; the symbol of a prelate or a great house."
 tags: [religious]
-data: {icon: prayer, templatePriority: 0, packFolder: religious}
+data: {kind: miscgear, icon: prayer, templatePriority: 0, packFolder: religious}
 sohl:
   craft: {skill: jewl, secondary: []}
   kbcat: religious

@@ -62,6 +62,12 @@ data:
     hair_color: {black: 7, dark_brown: 2, brown: 1}
     skin_color: {olive: 3, tawny: 3, brown: 2, golden: 2}
     complexion: {sun_kissed: 4, smooth: 3, clear: 2, freckled: 1}
+    hair_texture: {straight: 8, wavy: 2}
+    hair_style: {long: 4, shoulder_length: 3, braided: 2, knotted: 1, short: 1}
+    face_shape: {round: 3, broad: 3, oval: 3, square: 1}
+    nose: {broad: 4, straight: 3, snub: 1, aquiline: 1}
+    brow: {straight: 4, arched: 2, heavy: 2, thin: 1}
+    mouth: {full: 4, wide: 2, thin: 2, small: 1}
     height: {female: {min: 4' 10", max: 5' 4"}, male: {min: 5' 3", max: 5' 9"}}
 
 # terran_analog: "The Chumash of the Santa Barbara Channel and its islands, with the acorn-and-basket peoples of the central California valleys and foothills (the Yokuts, Salinan and Miwok among them). Carries over: the sewn-plank tomol and the hereditary Brotherhood of the Tomol, olivella shell-bead money drilled on the Channel Islands and measured by wrapping a strand around the hand, hereditary town chiefs (wots) with heralds (ksens), chiefly polygyny that tied towns together, the 'antap society with its paid initiation, the astronomer-priests ('alchuklash) who named children by the sky and kept the winter solstice rite, painted caves such as Painted Cave, the datura drink at coming of age, the sweathouse, the mourning ceremony, souls leaving from Point Conception for an island of the dead in the west, acorn granaries and bedrock mortars, and watertight coiled baskets. Departs: the bead is held to be a fallen star, the crossing to the dead is paid in beads, debt bondage is a standing institution, and the paying of northern raiders to raid the valleys instead is the culture's own sin."

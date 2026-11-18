@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [sun_kissed]
+    brow: straight
+    mouth: wide
     extra_features: [a scar across the cheek]
   packFolder: midhalionvylaria
 sohl:

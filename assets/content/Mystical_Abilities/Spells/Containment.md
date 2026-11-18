@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Reinforced cage of force imprisons; resists magic attempting break."
 tags: []
-data: {icon: icon-wind, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: zefaris

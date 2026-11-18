@@ -24,6 +24,7 @@ data:
     hair_color: dark_blonde
     skin_color: olive
     complexion: [sun_kissed]
+    hair_style: braided
     extra_features: [missing tooth]
   packFolder: aureldiatarvenia
 sohl:

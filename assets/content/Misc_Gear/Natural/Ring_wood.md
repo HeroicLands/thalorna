@@ -4,7 +4,7 @@ name: {full: "Ring, wood"}
 type: miscgear
 description: "Ring turned or whittled from close-grained wood; a token, not a valuable."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: wood, secondary: [wood]}
   kbcat: natural

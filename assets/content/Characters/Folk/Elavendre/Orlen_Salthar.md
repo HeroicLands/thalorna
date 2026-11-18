@@ -27,6 +27,7 @@ data:
     hair_color: grey
     skin_color: tanned
     complexion: [ruddy, weathered]
+    hair_style: cropped
     extra_features: [a missing fingertip on the left hand]
   packFolder: aureldiaelavendre
 ---

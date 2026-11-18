@@ -4,7 +4,7 @@ name: {full: "Dye, Tazach Purple"}
 type: miscgear
 description: "Murex shellfish or Tazach lichen; rare purple marking rank and authority."
 tags: [clothing]
-data: {icon: roundpotion, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: roundpotion, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: herb, secondary: []}
   kbcat: dye

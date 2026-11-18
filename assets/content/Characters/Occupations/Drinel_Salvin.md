@@ -25,6 +25,9 @@ data:
     hair_color: red
     skin_color: fair
     complexion: [smooth]
+    face_shape: heart
+    nose: straight
+    brow: arched
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

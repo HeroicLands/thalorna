@@ -4,7 +4,7 @@ name: {full: Heralds' Cipher-Tablet, en: [Cipher-Tablet, Herald's Tablet]}
 type: miscgear
 description: "The wax tablet of a herald of the Imperial College of Heralds, written in the College's cipher of arms, in which a herald notes in a few strokes who stood where, wore what and walked beside whom."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.5, valueBase: 2, qualityBase: 0, durabilityBase: 5}}
 ---
 

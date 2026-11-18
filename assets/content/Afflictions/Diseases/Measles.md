@@ -6,6 +6,7 @@ subType: disease
 description: "Viral infection; fever, cough, characteristic red rash; highly contagious."
 tags: []
 data:
+  kind: disease
   icon: virus
   templatePriority: 0
   packFolder: diseases

@@ -28,6 +28,8 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [scarred]
+    hair_style: braided
+    mouth: full
     extra_features:
       - a flame-shaped tattoo over ritual scarification on the right forearm
       - >-

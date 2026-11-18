@@ -4,7 +4,7 @@ name: {full: "Backpack, canvas"}
 type: containergear
 description: "Frameless canvas pack with shoulder straps."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 1.2, valueBase: 3, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 25}

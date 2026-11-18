@@ -4,7 +4,7 @@ name: {full: "Mead, Keg"}
 type: miscgear
 description: "Honey-fermented mead; poor lord's luxury; warmed in winter, poured at feasts."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

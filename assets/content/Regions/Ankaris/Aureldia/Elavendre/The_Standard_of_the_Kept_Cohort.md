@@ -4,7 +4,12 @@ name: {full: The Standard of the Kept Cohort, en: [The Cohort's Banner]}
 type: miscgear
 description: "The standard of the Vilérian cohort lost in the war at Valdun, which hangs rotted but legible in the rack of its Lusar's alcove in the hall under the hill, and which the felzos's house at Péravel records as unaccounted for."
 tags: [artifact, elavendre]
-data: {icon: icon-polearm, templatePriority: null, packFolder: elavendre, unique: true}
+data:
+  kind: miscgear
+  icon: icon-polearm
+  templatePriority: null
+  packFolder: elavendre
+  unique: true
 sohl: {system: {weightBase: 12, valueBase: 0, qualityBase: 0, durabilityBase: 6}}
 ---
 

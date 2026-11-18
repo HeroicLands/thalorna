@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [ruddy]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: long
+    nose: aquiline
+    brow: straight
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 ---

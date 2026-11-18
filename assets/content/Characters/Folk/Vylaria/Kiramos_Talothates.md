@@ -27,6 +27,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [sun_kissed]
+    hair_style: short
     extra_features: []
   packFolder: midhalionvylaria
 ---

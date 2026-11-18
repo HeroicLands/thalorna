@@ -4,7 +4,7 @@ name: {full: Velvet Robe}
 type: armorgear
 description: "Soft plush velvet robe; opulent garment for formal settings and grandeur."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: robe, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

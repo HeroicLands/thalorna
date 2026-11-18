@@ -5879,7 +5879,6 @@ data:
       - {edge: closeConsonant, sounds: [s, k, l, m, n, t]}
       - {edge: vowelPair, sounds: [ai, au]}
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
     syllables: {vowelPairs: [ai, au]}
   scope:
     folders: [kelwanuk]

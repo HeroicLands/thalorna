@@ -10,12 +10,15 @@ data:
   lore: [eaglettm]
   parents: [falkhaven]
   population: 340
+  market: local
+  type: village
   borders: [{to: falkensten, bearing: W}]
   routes:
     - {to: falkensten, bearing: W, mode: land, days: 3, terrain: [track, forest]}
     - {to: edrihaven, bearing: E, mode: land, days: 5, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Falkhaven."
 ---
 
 ## Overview {#overview}

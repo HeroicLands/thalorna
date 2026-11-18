@@ -4,7 +4,7 @@ name: {full: Buckram Robe}
 type: armorgear
 description: "Stiff buckram robe offering durability and reliable rigid coverage."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: robe, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

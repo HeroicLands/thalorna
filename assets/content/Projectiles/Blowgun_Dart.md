@@ -5,7 +5,7 @@ type: projectilegear
 subType: dart
 description: "Slender splinter tipped and fletched with fluff wadding; carried on breath, not force."
 tags: []
-data: {icon: dart, templatePriority: 0, packFolder: projectiles}
+data: {kind: projectile, icon: dart, templatePriority: 0, packFolder: projectiles}
 sohl:
   craft: {skill: wood, secondary: [txtl]}
   traits: {ARvalue: 2, bleed: false}

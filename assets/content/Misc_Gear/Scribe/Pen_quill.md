@@ -4,7 +4,7 @@ name: {full: "Pen, quill"}
 type: miscgear
 description: "Goose or swan feather; soft flowing strokes, dulls quickly, needs frequent resharpening."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: scribe

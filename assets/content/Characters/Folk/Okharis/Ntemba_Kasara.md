@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: brown
     complexion: [smooth]
+    hair_texture: curly
+    hair_style: cropped
+    face_shape: angular
+    nose: broad
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: northernfertileregionokharis
 ---

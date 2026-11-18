@@ -4,7 +4,7 @@ name: {full: Serge Dress}
 type: armorgear
 description: "Durable twilled serge dress for everyday activities and general wear."
 tags: []
-data: {icon: dress, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: dress, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -25,6 +25,10 @@ data:
     hair_color: grey
     skin_color: pale
     complexion: [ruddy]
+    face_shape: long
+    nose: straight
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

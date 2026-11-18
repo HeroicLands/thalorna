@@ -4,7 +4,7 @@ name: {full: Mahajaya's Touched Scale, en: [The Weighing's Scale]}
 type: miscgear
 description: "The beam scale of Suvargeri's central temple weighing-station, blessed and read in open sabhra session at every new moon."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
   kbcat: instruments
   craft: {skill: mtlc, secondary: []}

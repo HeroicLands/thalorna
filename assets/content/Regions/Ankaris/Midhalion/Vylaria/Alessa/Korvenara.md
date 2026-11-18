@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [alyssa]
   population: 9000
+  market: regional
+  type: town
   packFolder: vylaria
   government: provinclys
+  notes: "The garrison town of Alessa, grown against the walls of a legion's camp built for more soldiers than it holds; it keeps the camp's hours, takes the province's recruits at fifteen and settles its veterans at thirty-five."
 ---
 
 ## Overview {#overview}

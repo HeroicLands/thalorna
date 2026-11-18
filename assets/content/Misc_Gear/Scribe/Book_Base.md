@@ -4,7 +4,7 @@ name: {full: "Book, Base"}
 type: miscgear
 description: "Unbound quires with oak boards and bronze clasps; ready for binding."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: scribe

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Cancels existing spell; dispels active magical effects instantly."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

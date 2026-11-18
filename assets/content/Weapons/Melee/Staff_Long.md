@@ -4,7 +4,7 @@ name: {full: "Staff, Long"}
 type: weapongear
 description: "Nine-foot hardwood pole; sweeping reach for pike-levies holding ground."
 tags: []
-data: {icon: halberd, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: halberd, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: polearm

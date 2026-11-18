@@ -24,6 +24,8 @@ data:
     hair_color: white
     skin_color: tanned
     complexion: [weathered]
+    nose: upturned
+    brow: straight
     extra_features: [a tattoo of a snake on the chest]
   packFolder: ankarisnordlands
 sohl:

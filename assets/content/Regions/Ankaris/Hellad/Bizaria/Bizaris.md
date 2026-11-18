@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [byzariargn]
   population: 30000
+  market: regional
+  type: city
   government: cncltwlvbzrs
   packFolder: byzaria
+  notes: "Craft City"
 ---
 
 "Your master's name opens the door," a guild examiner of Bizaris tells a journeyman who has arrived with a letter of introduction, "and what you made opens the workshop."

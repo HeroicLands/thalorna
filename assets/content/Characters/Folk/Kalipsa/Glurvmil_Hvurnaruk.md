@@ -27,6 +27,7 @@ data:
     hair_color: greying_brown
     skin_color: fair
     complexion: [weathered, chapped]
+    facial_hair: full_beard
     extra_features: [a broad gray-shot beard, a white seam of scar across his left cheekbone]
   packFolder: aureldiacalypsa
 ---

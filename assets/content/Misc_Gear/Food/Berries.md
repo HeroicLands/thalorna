@@ -4,7 +4,7 @@ name: {full: Berries}
 type: miscgear
 description: "Dried summer berries; tart, bright in winter cooking, keeps seasons."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: agri, secondary: []}
   kbcat: food

@@ -4,7 +4,7 @@ name: {full: Harpoon}
 type: weapongear
 description: "Toggling-headed hunting spear on a line; the sea hunter's tool and, in the far north, a weapon of war."
 tags: []
-data: {icon: icon-polearm, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-polearm, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: polearm
   weaponType: Polearm

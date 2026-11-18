@@ -4,7 +4,7 @@ name: {full: Spigot}
 type: miscgear
 description: "Wooden or bronze spigot for controlling flow from barrel or large vessel."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: cooking

@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [sun_kissed]
+    hair_texture: straight
+    hair_style: shoulder_length
+    face_shape: oval
+    nose: straight
+    brow: arched
+    mouth: wide
     extra_features: []
   packFolder: kiichchikshuqash
 ---

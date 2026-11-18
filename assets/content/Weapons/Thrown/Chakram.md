@@ -4,7 +4,7 @@ name: {full: Chakram}
 type: weapongear
 description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's precise reach."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-circle, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife

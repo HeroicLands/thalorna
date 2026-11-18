@@ -4,7 +4,7 @@ name: {full: "Sack, waxed canvas, lg"}
 type: containergear
 description: "Large waxed canvas sack; keeps the wet out."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 1, valueBase: 2, qualityBase: 0, durabilityBase: 3, maxCapacityBase: 30}

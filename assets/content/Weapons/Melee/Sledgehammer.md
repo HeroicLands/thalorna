@@ -4,7 +4,7 @@ name: {full: Sledgehammer}
 type: weapongear
 description: "Massive twin-faced forge-hammer for breaching timber, stone, and mail."
 tags: []
-data: {icon: clawhammer, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: clawhammer, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: axe

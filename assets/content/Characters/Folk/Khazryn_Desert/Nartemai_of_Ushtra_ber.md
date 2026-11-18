@@ -34,6 +34,7 @@ data:
     hair_color: greying_black
     skin_color: light
     complexion: [chapped, weathered]
+    facial_hair: short_beard
     extra_features:
       - a long jaw
       - close-cropped beard

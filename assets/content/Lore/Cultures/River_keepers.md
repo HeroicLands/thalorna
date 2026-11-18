@@ -13,6 +13,12 @@ data:
     hair_color: {black: 9, dark_brown: 1}
     skin_color: {dark_brown: 5, ebony: 4, dark: 1}
     complexion: {smooth: 4, clear: 3, weathered: 2}
+    hair_texture: {coily: 7, curly: 3}
+    hair_style: {cropped: 3, short: 3, braided: 2, shaved: 2}
+    face_shape: {oval: 3, round: 3, long: 2, square: 1, broad: 1}
+    nose: {broad: 4, straight: 3, upturned: 1, narrow: 1}
+    brow: {straight: 3, heavy: 2, arched: 2, thin: 1}
+    mouth: {full: 4, wide: 3, thin: 1, small: 1}
     height: {female: {min: 5' 0", max: 5' 7"}, male: {min: 5' 4", max: 6' 0"}}
 
 # terran_analog: "The riverine fishing peoples of the Congo basin, who traded fish and foreign goods with the foraging bands of the interior. Carries over: villages on the high bank, dugouts, weirs and traps, small plantain gardens, matrilineal reckoning and hereditary trade partners. Departs: no chiefs, no farming villages of any size, and the river itself treated as the host of every guest."

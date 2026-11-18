@@ -4,7 +4,7 @@ name: {full: "Flour, Barley"}
 type: miscgear
 description: "Earthy pale flour; bakes flatbreads and thickens pottage when wheat scarce."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: mill, secondary: []}
   kbcat: food

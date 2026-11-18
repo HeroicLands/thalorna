@@ -4,7 +4,7 @@ name: {full: Plate Helm}
 type: armorgear
 description: "Plain steel skullcap helm; covers the crown alone and leaves the face open."
 tags: []
-data: {icon: crestedhelmet, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: crestedhelmet, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

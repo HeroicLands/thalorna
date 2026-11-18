@@ -4,7 +4,7 @@ name: {full: Buckram Swaddle}
 type: armorgear
 description: "Stiff buckram swaddle offering sturdy rigid infant wrapping."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

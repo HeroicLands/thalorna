@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
+    nose: hooked
+    mouth: full
     extra_features: []
   packFolder: helladbyzaria
 sohl:

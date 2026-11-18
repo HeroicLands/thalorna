@@ -4,7 +4,7 @@ name: {full: Salmon}
 type: miscgear
 description: "Rich orange-fleshed river fish, firm and oily, smoked or salted."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: fish, secondary: []}
   kbcat: food

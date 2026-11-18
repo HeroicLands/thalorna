@@ -5,7 +5,7 @@ type: concoctiongear
 subType: exotic
 description: "Nearly transparent golden distillation; heals poison and venom damage."
 tags: [great-elixir]
-data: {icon: icon-potion, templatePriority: null, packFolder: great}
+data: {kind: potion, icon: icon-potion, templatePriority: null, packFolder: great}
 sohl:
   system:
     weightBase: 0.25

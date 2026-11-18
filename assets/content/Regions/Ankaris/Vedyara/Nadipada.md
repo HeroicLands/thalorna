@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [rajepurjnpd]
   population: 350
+  market: local
+  type: village
   packFolder: vedyara
   government: rajeprjnpd
+  notes: "Fishing village on the bank itself, the one Rajapuri settlement the river has moved twice."
 ---
 
 **Nadipada** (350) is the one village of the [[place-rajepurjnpd|Rajepur Janpoda]] that does not keep its distance from [[place-mahanodi|the Mahanodi]]. The farming villages sit back from the water; Nadipada's fishermen live on the bank itself, with the boats drawn up at the door and the nets spread over the house-walls to dry, and the river has moved the village twice.

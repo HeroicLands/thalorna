@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [okharisrgn]
   population: 290
+  market: local
+  type: village
   packFolder: okharis
   government: kirofatrb
+  notes: "Orchard village of the Kirofa tribe among date palms on a river of Okharis."
 ---
 
 ## Overview {#overview}

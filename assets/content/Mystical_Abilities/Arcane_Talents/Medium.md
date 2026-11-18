@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Hears and answers the dead and other disembodied spirits."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

@@ -5,7 +5,7 @@ type: trauma
 subType: physcond
 description: "Mild heat strain; flushing, sweating, headache, irritability."
 tags: []
-data: {icon: stomach, templatePriority: 0, packFolder: privations}
+data: {kind: privation, icon: stomach, templatePriority: 0, packFolder: privations}
 sohl: {kbcat: physprivations, system: {category: trait, levelBase: 1, healingRateBase: 5}}
 ---
 

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Magical sustenance replacing food; prevents hunger and maintains strength."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

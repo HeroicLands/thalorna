@@ -10,8 +10,11 @@ data:
   lore: [eaglettm]
   parents: [falkhaven]
   population: 240
+  market: local
+  type: village
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village on Falkhaven's western shore whose cliff watch warns of unfamiliar sails."
 ---
 
 ## Overview {#overview}

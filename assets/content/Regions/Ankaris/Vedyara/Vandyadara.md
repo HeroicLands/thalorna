@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 640
+  market: local
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "The village on the one stream of the gold mountain that has never yielded gold, below the Rasikara shrine at its spring."
 ---
 
 Vandyadara (640) sits at the head of the one stream on the mountain that has never yielded gold. Panning there is forbidden, and has been forbidden longer than the prohibition's reason has been remembered.

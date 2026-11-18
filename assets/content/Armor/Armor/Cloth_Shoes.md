@@ -4,7 +4,7 @@ name: {full: Cloth Shoes}
 type: armorgear
 description: "Breathable cloth footwear for casual, light-duty wear."
 tags: []
-data: {icon: leatherboot, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: leatherboot, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

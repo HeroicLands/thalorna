@@ -4,15 +4,18 @@ name: {full: Kelivren}
 type: place
 subType: settlement
 description: "The walled commandery of the Order of the Just Blade at the foot of Dúnavarre's western hills, with a village of about six hundred beneath it: the tiltyard of the Royal Kelivren Tournament of Chivalry each spring, and the base of the war on the Seilvri each summer."
-tags: [fortified, town]
+tags: [fortified, village]
 data:
   demonym: null
   lore: [humanflk]
   parents: [dunavarre]
   routes: [{to: teilvari, bearing: W, mode: land, days: 1, terrain: [road, forest]}]
   population: 600
+  type: village
+  market: local
   packFolder: eilwith
   government: kingdmdnvr
+  notes: "The walled commandery of the Order of the Just Blade at the foot of Dúnavarre's western hills, with a village of about six hundred beneath it: the tiltyard of the Royal Kelivren Tournament of Chivalry each spring, and the base of the war on the Seilvri each summer."
 ---
 
 ## Overview {#overview}

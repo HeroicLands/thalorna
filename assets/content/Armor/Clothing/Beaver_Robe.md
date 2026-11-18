@@ -4,7 +4,7 @@ name: {full: Beaver Robe}
 type: armorgear
 description: "Full-length beaver fur robe; heavy warmth and quiet status."
 tags: []
-data: {icon: robe, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: robe, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

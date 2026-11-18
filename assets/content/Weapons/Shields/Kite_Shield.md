@@ -4,7 +4,7 @@ name: {full: Kite Shield}
 type: weapongear
 description: "Tall teardrop shield protects mounted leg; cavalry skirmisher's deep coverage."
 tags: []
-data: {icon: shieldbdg, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: shieldbdg, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: shield

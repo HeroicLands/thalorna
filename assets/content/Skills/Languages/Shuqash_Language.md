@@ -5832,7 +5832,6 @@ data:
   sounds:
     edges: [{edge: closeConsonant, sounds: [sh, q, l, n, k, y, w, t, p, s, m]}]
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     cultures: [shuqashclt]
     parents: [shuqhalaqrgn, tulishlumuqrgn]

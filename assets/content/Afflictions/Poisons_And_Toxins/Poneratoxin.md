@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Ant venom neurotoxin; the most painful insect sting imaginable; lasts 24 hours."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

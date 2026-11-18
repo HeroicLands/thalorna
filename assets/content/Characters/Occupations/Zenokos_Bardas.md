@@ -25,6 +25,7 @@ data:
     hair_color: dark_brown
     skin_color: pale
     complexion: [scarred]
+    nose: straight
     extra_features: [scar across forehead]
   packFolder: midhalionvylaria
 sohl:

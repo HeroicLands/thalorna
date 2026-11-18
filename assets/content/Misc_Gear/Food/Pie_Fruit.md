@@ -4,7 +4,7 @@ name: {full: "Pie, Fruit"}
 type: miscgear
 description: "Hand-sized pastry with sweet apple or berry filling from baker."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: cook, secondary: []}
   kbcat: food

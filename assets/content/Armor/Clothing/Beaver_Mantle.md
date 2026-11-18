@@ -4,7 +4,7 @@ name: {full: Beaver Mantle}
 type: armorgear
 description: "Beaver fur mantle blending function and status; warm and luxurious."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

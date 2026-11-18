@@ -5,6 +5,7 @@ type: weapongear
 description: "The Ashlord Hazarak Bloodhand's spiked mace of blackened steel, made by the Black Flame's priest-artificers, lost at the Battle of the Blood Hills and hidden by the Flame's zealots in a trapped cave shrine in the hills."
 tags: [artifact, provenzia]
 data:
+  kind: weapon
   icon: sohl-none-icon-spikedmace
   templatePriority: null
   packFolder: bloodandashesinceravelvale

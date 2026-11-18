@@ -24,6 +24,7 @@ data:
     hair_color: greying_black
     skin_color: golden
     complexion: []
+    nose: straight
     extra_features: [a tattoo of a butterfly on the neck]
   packFolder: ankarisvedyara
 sohl:

@@ -4,7 +4,7 @@ name: {full: "Cider, Keg"}
 type: miscgear
 description: "Pressed apple cider, fermented; gentler than ale, spoils in warm weather quickly."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

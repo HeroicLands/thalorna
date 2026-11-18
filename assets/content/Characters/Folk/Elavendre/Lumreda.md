@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: light
     complexion: [wrinkled, weathered]
+    hair_style: braided
     extra_features: [hands folded one over the other when she is still]
   packFolder: aureldiaelavendre
 ---

@@ -4,7 +4,7 @@ name: {full: Composite Crossbow 200}
 type: weapongear
 description: "Two-hundred pound horn-and-sinew crossbow; siege crew wall-assault weapon."
 tags: []
-data: {icon: crossbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: crossbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: crossbow

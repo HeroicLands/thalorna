@@ -11,8 +11,11 @@ data:
   parents: [ondareth]
   routes: [{to: stonyford, bearing: E, mode: land, days: 3, terrain: [hills, plain]}]
   population: 14000
+  market: international
+  type: city
   packFolder: eilwith
   government: repblcndrth
+  notes: "The seat of the Republic of Ondareth—where the Senate sits beneath its portico and the republic's offices are bought."
 ---
 
 **Thornburi** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on [[place-eilwith|Eilwìth]]'s western

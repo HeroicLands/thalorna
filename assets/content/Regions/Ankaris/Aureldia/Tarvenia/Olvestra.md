@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: 30000
+  market: regional
+  type: city
   government: cnclolvstr
   packFolder: tarvenia
+  notes: "A great commercial city of Tarvénia behind the Twin Gate, home to the mother-houses of the Order of the Sealed Word and the Twinblade Order, the master register of contested oaths, and the moneylenders who make it one of the costliest markets in the west."
 ---
 
 ## Overview {#overview}

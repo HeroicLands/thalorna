@@ -4,7 +4,7 @@ name: {full: Jeweler's Kit}
 type: miscgear
 description: "Fine leather roll with graduated files, pin hammer, pliers, loupe, tweezers, drawplate, burnishers; goldsmiths' precision tools."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

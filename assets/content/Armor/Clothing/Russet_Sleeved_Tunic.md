@@ -4,7 +4,7 @@ name: {full: Russet Sleeved Tunic}
 type: armorgear
 description: "Reddish-brown wool tunic; full-arm coverage for warmth."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

@@ -24,6 +24,8 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [weathered]
+    face_shape: long
+    nose: straight
     extra_features: [a scar on the right hand]
   packFolder: helladbyzaria
 sohl:

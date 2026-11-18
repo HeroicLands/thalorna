@@ -4,7 +4,7 @@ name: {full: "Necklace, wood"}
 type: miscgear
 description: "Strung wooden beads, turned and polished; counted by the devout and the idle alike."
 tags: [jewelry_cash]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: wood, secondary: [wood]}
   kbcat: natural

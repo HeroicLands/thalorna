@@ -9,16 +9,19 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [neokbaatergn]
-  population: 35000
+  population: 2700
+  market: local
+  type: town
   government: neokbaate
   packFolder: neokbaate
+  notes: "The Twin Pyramid: the independent city of Ne'ok Ba'ate whose two pyramids stand side by side, one a hand's width higher, whose carvers cut the finest stones on the continent, and whose jade comes out of the mountains behind it."
 
 # terran_analog: Copan, its deep-relief stelae and its jade; the name joins q'o (two) to kul'qat (a sacred peak)
 ---
 
 ## Overview {#overview}
 
-Coming up the valley through the maize fields, a traveler sees two pyramids long before the city, side by side on one platform, with the green wall of the jade mountains behind them. They look like a pair, but the right-hand one stands a hand's width higher, and the city has made that hand's width its pride. Q'o Kul'qat, the Twin Pyramid, is a city of about 35,000 people in a highland valley of [[place-neokbaatergn|Ne'ok Ba'ate Region]], one of the greatest city-states of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]] and the proudest of them, and it is known everywhere for two things: its carved stones, and its independence.
+Coming up the valley through the maize fields, a traveler sees two pyramids long before the city, side by side on one platform, with the green wall of the jade mountains behind them. They look like a pair, but the right-hand one stands a hand's width higher, and the city has made that hand's width its pride. Q'o Kul'qat, the Twin Pyramid, is a city of about 2,700 people in a highland valley of [[place-neokbaatergn|Ne'ok Ba'ate Region]], one of the greatest city-states of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]] and the proudest of them, and it is known everywhere for two things: its carved stones, and its independence.
 
 ## The Two Pyramids
 

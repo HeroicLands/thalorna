@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Caster's fists harden; strikes with supernatural force and damage."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

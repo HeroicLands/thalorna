@@ -4,7 +4,7 @@ name: {full: Tackle Block}
 type: miscgear
 description: "Single-wheel pulley; multiplies mechanical advantage for hauling cargo safely."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: expedition

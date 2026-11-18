@@ -30,6 +30,8 @@ data:
     hair_color: grey
     skin_color: fair
     complexion: [wrinkled]
+    hair_style: short
+    face_shape: long
     extra_features: [ink stains on the first two fingers of the right hand]
   packFolder: aureldiaelavendre
 ---

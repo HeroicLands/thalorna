@@ -4,7 +4,7 @@ name: {full: "Beer, Hogshead"}
 type: miscgear
 description: "Weak sour small-beer; cheap garrison drink, prevents tainted water sickness."
 tags: [spirits]
-data: {icon: beerstein, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: beerstein, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

@@ -4,7 +4,7 @@ name: {full: "Honey, pot"}
 type: miscgear
 description: "Gallon pot of honey; winter household supply or merchant trade good."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

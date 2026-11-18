@@ -4,7 +4,7 @@ name: {full: Palm-leaf Procedure Sheets}
 type: miscgear
 description: "The fresh palm-leaf transcription of a work's procedure, written from memory at a Seasonal Recitation and set against the archived record."
 tags: [kalihara]
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: scribe}
 sohl: {kbcat: scribe, system: {weightBase: 0.3, valueBase: 1, qualityBase: 0, durabilityBase: 3}}
 ---
 

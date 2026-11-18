@@ -49,6 +49,7 @@ data:
         Held by a Factor named by the board. Berths the ferries, collects the landing dues on every sealed bale and keeps the watch at the quay and the gate.
   seat: pashinar
   population: null
+  territorial_population: 12000
   economy: []
   lore: [humanflk]
   parents: [besikar]

@@ -4,7 +4,7 @@ name: {full: "Chest, wooden, large"}
 type: containergear
 description: "Large joined wooden chest."
 tags: []
-data: {icon: chest, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: chest, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 40, valueBase: 90, qualityBase: 0, durabilityBase: 5, maxCapacityBase: 90}

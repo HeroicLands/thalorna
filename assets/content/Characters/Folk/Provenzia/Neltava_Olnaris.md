@@ -27,6 +27,7 @@ data:
     hair_color: auburn
     skin_color: fair
     complexion: [freckled]
+    hair_style: braided
     extra_features: []
   packFolder: aureldiaprovenzia
 ---

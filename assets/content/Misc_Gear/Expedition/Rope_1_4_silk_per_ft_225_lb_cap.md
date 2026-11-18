@@ -4,7 +4,7 @@ name: {full: "Rope, ¼” silk, per ft (225 lb cap.)"}
 type: miscgear
 description: "Light silk rope; strong, rot-resistant, preferred by wealthy climbers."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

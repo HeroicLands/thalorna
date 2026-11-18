@@ -4,7 +4,7 @@ name: {full: Cloth Breeches}
 type: armorgear
 description: "Soft cloth breeches offering everyday comfort for all wearers."
 tags: []
-data: {icon: trousers, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: trousers, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

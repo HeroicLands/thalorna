@@ -4,7 +4,7 @@ name: {full: "Lantern, metal"}
 type: containergear
 description: "Tinned copper lantern with horn panels; protects flame from wind and rain."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: mtlc, secondary: []}
   system: {weightBase: 1, valueBase: 15, qualityBase: 0, durabilityBase: 7, maxCapacityBase: 0.125}

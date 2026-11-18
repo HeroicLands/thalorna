@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Speaks mind to mind with another, at a distance and without sound."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

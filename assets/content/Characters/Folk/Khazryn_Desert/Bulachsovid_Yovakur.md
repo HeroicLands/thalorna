@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [sun_kissed]
+    facial_hair: none
     extra_features: [a soft beardless jaw, ink-stained fingers]
   packFolder: ankariskhazryndesert
 ---

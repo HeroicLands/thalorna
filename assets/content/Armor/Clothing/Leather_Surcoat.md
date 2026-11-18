@@ -4,7 +4,7 @@ name: {full: Leather Surcoat}
 type: armorgear
 description: "Rugged styled leather outer layer offering minimal protection and flexibility."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: shirt, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

@@ -4,7 +4,7 @@ name: {full: Sealskin Vest}
 type: armorgear
 description: "Water-resistant seal-fur sleeveless vest; core protection from wet."
 tags: []
-data: {icon: leathervest, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: leathervest, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

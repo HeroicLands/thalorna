@@ -4,7 +4,7 @@ name: {full: Rawhide Mantle}
 type: armorgear
 description: "Heavy hide cloak; harsh-weather outer layer."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: cape, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: leather

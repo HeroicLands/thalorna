@@ -10,12 +10,15 @@ data:
   lore: [goatttm]
   parents: [vandstein]
   population: 370
+  market: local
+  type: village
   borders: [{to: thrastein, bearing: E}]
   routes:
     - {to: hildholt, bearing: NW, mode: land, days: 5, terrain: [track, forest]}
     - {to: thrastein, bearing: E, mode: land, days: 3, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
+  notes: "A Varokh village in Vandstein."
 ---
 
 ## Overview {#overview}

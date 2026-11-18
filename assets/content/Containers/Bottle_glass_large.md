@@ -4,7 +4,7 @@ name: {full: "Bottle, glass, large"}
 type: containergear
 description: "Substantial blown glass bottle for liquids and provisions."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: glas, secondary: []}
   system: {weightBase: 4, valueBase: 48, qualityBase: 0, durabilityBase: 2, maxCapacityBase: 8}

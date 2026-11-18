@@ -4,7 +4,7 @@ name: {full: Hypochondriasis}
 type: trauma
 subType: psycond
 tags: []
-data: {icon: battlegear, templatePriority: 0, packFolder: quirks}
+data: {kind: quirk, icon: battlegear, templatePriority: 0, packFolder: quirks}
 sohl: {kbcat: psypsychosis, system: {category: impulse}}
 ---
 

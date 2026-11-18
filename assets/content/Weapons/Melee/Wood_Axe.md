@@ -4,7 +4,7 @@ name: {full: Wood Axe}
 type: weapongear
 description: "Heavy felling tool; slow-swinging militia arm pressed into service."
 tags: []
-data: {icon: battleaxe, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: battleaxe, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: mtlc, secondary: [wood]}
   kbcat: axe

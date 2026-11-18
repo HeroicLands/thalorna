@@ -24,6 +24,7 @@ data:
     hair_color: grey
     skin_color: tawny
     complexion: [ruddy]
+    hair_style: long
     extra_features: []
   packFolder: ankarisvedyara
 sohl:

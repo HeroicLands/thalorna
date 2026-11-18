@@ -9,16 +9,19 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [ixilankulrgn]
-  population: 110000
+  population: 8400
+  type: town
+  market: regional
   government: ixilankul
   packFolder: ixilankul
+  notes: "The Seat of the Priests: the plateau city of Ish'ilankul where the Q'emul Tq'an sits at the Sacred Foundation, the Speaking Road has its central dispatch, and every pilgrim of the continent hopes to come once."
 
 # terran_analog: Teotihuacan as the pilgrimage city of the great pyramid and the quarters, and Cuzco as the hub of the runners' roads; the name joins kul- (a lord's seat) to a priestly element and copies no Maya or Nahuatl place
 ---
 
 ## Overview {#overview}
 
-A pilgrim on the white road sees Kul'taq'an a day before he reaches it. On a cold morning a thread of white stands over the hills ahead, straight up from the summit of the [[place-tsultelchalish|Ts'ultel Ch'alish]], where the warm breath of a volcanic vent comes out of the greatest pyramid on the continent. Kul'taq'an, the Seat of the Priests, is a city of about 110,000 people in the high valleys of the [[place-ixilankulrgn|Ish'ilankul Region]], one of the city-states of [[affiliation-ixilankul|Ish'ilankul]]. It holds three things no other city has: [[place-tzomalchalix|The Sacred Foundation]] (Ts'omal Ch'alish), where the [[affiliation-itzanpnthn|Itsani Pantheon]] teaches that the creator first breathed the world into being; the seat of the Q'emul Tq'an, the supreme high priest; and the central dispatch of the [[affiliation-chumishlan|Ch'um Ish'lan]], the Speaking Road.
+A pilgrim on the white road sees Kul'taq'an a day before he reaches it. On a cold morning a thread of white stands over the hills ahead, straight up from the summit of the [[place-tsultelchalish|Ts'ultel Ch'alish]], where the warm breath of a volcanic vent comes out of the greatest pyramid on the continent. Kul'taq'an, the Seat of the Priests, is a city of about 8,400 people in the high valleys of the [[place-ixilankulrgn|Ish'ilankul Region]], one of the city-states of [[affiliation-ixilankul|Ish'ilankul]]. It holds three things no other city has: [[place-tzomalchalix|The Sacred Foundation]] (Ts'omal Ch'alish), where the [[affiliation-itzanpnthn|Itsani Pantheon]] teaches that the creator first breathed the world into being; the seat of the Q'emul Tq'an, the supreme high priest; and the central dispatch of the [[affiliation-chumishlan|Ch'um Ish'lan]], the Speaking Road.
 
 ## The City
 

@@ -4,7 +4,7 @@ name: {full: Surta Temple Gnomon-Rod}
 type: miscgear
 description: "The year-sighting instrument of the Surta temple's forecourt, read against the parapet marks to declare the orthodox civil year."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
   kbcat: instruments
   craft: {skill: mtlc, secondary: []}

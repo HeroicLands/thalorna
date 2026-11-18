@@ -30,6 +30,8 @@ data:
     hair_color: grey
     skin_color: olive
     complexion: [sallow]
+    hair_style: short
+    face_shape: long
     extra_features: [a narrow face with a long jaw, ink-stained fingertips on both hands]
   packFolder: midhaliontaruzel
 ---

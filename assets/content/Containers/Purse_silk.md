@@ -4,7 +4,7 @@ name: {full: "Purse, silk"}
 type: containergear
 description: "Drawstring silk purse, often embroidered; conspicuously fine."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 0.2, valueBase: 24, qualityBase: 0, durabilityBase: 1, maxCapacityBase: 1}

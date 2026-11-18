@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tawny
     complexion: [leathery]
+    hair_texture: wavy
+    hair_style: long
+    face_shape: broad
+    nose: straight
+    brow: straight
+    mouth: small
     extra_features: []
   packFolder: kiichchiktikupilarit
 ---

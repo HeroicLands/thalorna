@@ -4,7 +4,7 @@ name: {full: Russet Mantle}
 type: armorgear
 description: "Reddish-brown wool shoulder-wrap; practical outer layer."
 tags: []
-data: {icon: cape, templatePriority: 0, packFolder: clothing}
+data: {kind: clothing, icon: cape, templatePriority: 0, packFolder: clothing}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

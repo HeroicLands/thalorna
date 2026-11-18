@@ -4,7 +4,7 @@ name: {full: "Harness, Ox"}
 type: miscgear
 description: "Stout leather bands, rope, iron; yoke-fitted; moves stone, timber, heavy laden carts."
 tags: [tack]
-data: {icon: swapbag, templatePriority: 0, packFolder: tack}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: tack}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: tack

@@ -4,7 +4,7 @@ name: {full: Copper-Headed War Club}
 type: weapongear
 description: "Hardwood club capped with a hammered copper head; the One Fire's warriors' close weapon."
 tags: []
-data: {icon: icon-club, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-club, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: club
   weaponType: Club

@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Quickens movement; caster moves with supernatural speed and grace."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

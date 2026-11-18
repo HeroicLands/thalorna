@@ -9,10 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [klhrcldpss]
-  population: null
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt
+  notes: "The pass village at the crest of the Cloud Pass, home of the lineage that keeps the road over Kalihara's Ring and the only village outsiders are ever walked through."
 ---
 
 ## Overview {#overview}

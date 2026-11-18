@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [sun_kissed]
+    face_shape: heart
+    brow: straight
+    mouth: thin
     extra_features: [a tattoo of a compass on the chest]
   packFolder: midhaliontaruzel
 sohl:

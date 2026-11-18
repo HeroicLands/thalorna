@@ -4,7 +4,7 @@ name: {full: Cup Good Wine}
 type: miscgear
 description: "Oak-aged fine wine; fuller-bodied, less sour; marks deals and occasions."
 tags: [spirits]
-data: {icon: jeweledchalice, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: jeweledchalice, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

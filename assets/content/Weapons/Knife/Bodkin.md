@@ -4,7 +4,7 @@ name: {full: Bodkin}
 type: weapongear
 description: "Needle-pointed dart punches mail and plate; duelist's finishing steel."
 tags: []
-data: {icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
+data: {kind: weapon, icon: icon-broaddagger, templatePriority: null, packFolder: weapons}
 sohl:
   kbcat: knife
   weaponType: Knife

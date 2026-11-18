@@ -24,6 +24,10 @@ data:
     hair_color: red
     skin_color: light
     complexion: [clear]
+    face_shape: long
+    nose: aquiline
+    brow: heavy
+    mouth: small
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

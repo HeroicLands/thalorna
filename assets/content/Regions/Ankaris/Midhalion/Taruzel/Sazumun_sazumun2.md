@@ -9,15 +9,18 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [visizel]
-  population: 200000
+  population: 9900
+  type: town
+  market: international
   routes: [{to: hitusel, bearing: N, mode: land, days: 1, terrain: [road, coast]}]
   packFolder: taruzel
   government: sazumun
+  notes: "A white-walled port at the mouth of the Alz River, where the tide lifts every hull twice a day, every cargo waits under seal in a bonded warehouse, and the merchant guilds of the House of Factors decide who may land at all."
 ---
 
 ## Overview {#overview}
 
-The harbor at Sazumun never sleeps, because the tide does not. Twice a day the sea comes up the mouth of the [[place-alzriver|Alz River]] and lifts every hull at the quays, and twice a day it goes out and takes the outbound ships with it, so the porters, tally-men and pilots of the city keep the tide's hours and not the sun's. About 200,000 people live behind the white-walled warehouses of the quays, in the seat of the city-state of [[affiliation-sazumun|Sazumun]] on the western coast of [[place-visizel|Visizel]]. Above them, on the headland over the river mouth, stands the tall white tower of the [[place-houseoffactors|House of Factors]], where the merchant guilds govern the city.
+The harbor at Sazumun never sleeps, because the tide does not. Twice a day the sea comes up the mouth of the [[place-alzriver|Alz River]] and lifts every hull at the quays, and twice a day it goes out and takes the outbound ships with it, so the porters, tally-men and pilots of the city keep the tide's hours and not the sun's. About 9,900 people live behind the white-walled warehouses of the quays, in the seat of the city-state of [[affiliation-sazumun|Sazumun]] on the western coast of [[place-visizel|Visizel]]. Above them, on the headland over the river mouth, stands the tall white tower of the [[place-houseoffactors|House of Factors]], where the merchant guilds govern the city.
 
 The name is the toll's: _sazum-_, to levy at the gate, with _-un_, where the act is done. Sazumun is the conduit through which goods flow between the desert trade that crosses the strait from the [[place-dunharargn|Dunhara Region]], the market towns of the islands and the sea routes west to [[place-helionis|Helionis]] and the western realms, and it earns its living by what passes through it and what it charges on the way.
 

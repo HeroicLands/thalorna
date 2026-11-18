@@ -25,6 +25,8 @@ data:
     hair_color: grey
     skin_color: fair
     complexion: [clear]
+    face_shape: heart
+    mouth: thin
     extra_features: []
   packFolder: aureldiaelavendre
 sohl:

@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: light
     complexion: []
+    face_shape: oval
+    nose: straight
     extra_features: [a tattoo of a fire on the leg]
   packFolder: helladbyzaria
 sohl:

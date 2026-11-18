@@ -11,8 +11,11 @@ data:
   parents: [athavel]
   routes: [{to: caerceravel, bearing: E, mode: land, days: 2, terrain: [hills, road]}]
   population: 1800
+  market: local
+  type: town
   government: kngdmprvnz
   packFolder: provenzia
+  notes: "The castle town of the county of Atavel in the western basins of the Talote, the Count of Atavel's seat, where his steward keeps the county for an absent count and the count's brother keeps a second court."
 ---
 
 ## Overview {#overview}

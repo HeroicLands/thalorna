@@ -4,7 +4,7 @@ name: {full: Longbow 125}
 type: weapongear
 description: "Hundred-twenty-five pound warbow; recognized veteran archer's plate-piercer."
 tags: []
-data: {icon: pocketbow, templatePriority: 0, packFolder: weapons}
+data: {kind: weapon, icon: pocketbow, templatePriority: 0, packFolder: weapons}
 sohl:
   craft: {skill: fltch, secondary: [wood, timb]}
   kbcat: bow

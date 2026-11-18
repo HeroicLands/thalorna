@@ -61,6 +61,12 @@ data:
     hair_color: {dark_brown: 4, black: 3, brown: 3, auburn: 2, chestnut: 1}
     skin_color: {light: 3, medium: 3, olive: 3, tanned: 3, fair: 2, pale: 1}
     complexion: {weathered: 4, sun_kissed: 3, ruddy: 1, smooth: 1}
+    hair_texture: {wavy: 4, curly: 4, straight: 2}
+    hair_style: {short: 4, cropped: 3, shoulder_length: 2, knotted: 2, long: 1}
+    face_shape: {square: 3, oval: 3, long: 2, angular: 2, broad: 1}
+    nose: {aquiline: 4, straight: 4, hooked: 1, broad: 1, crooked: 1}
+    brow: {heavy: 3, straight: 3, arched: 2, bushy: 2}
+    mouth: {thin: 4, full: 3, wide: 1, small: 1}
     height: {female: {min: 5' 3", max: 6' 0"}, male: {min: 5' 5", max: 6' 4"}}
 
 # terran_analog: "The Roman empire (Italy, Croatia, Bosnia, Serbia, Hungary and Austria): a Senate, senatorial and equestrian orders, citizens, slaves, patron and client, codified appealable law, aqueducts and forums. Carries over: precedence-worked manners, patronage, legal remedy as the civilized reflex. Departs: the Thordimalon operates as a licensed arm of the administration, the Aureldian pantheon is the imperial cult, and Vilérian Steel is a guild-guarded alloy."

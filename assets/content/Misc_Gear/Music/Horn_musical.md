@@ -4,7 +4,7 @@ name: {full: "Horn, musical"}
 type: miscgear
 description: "Polished ox or ram horn; mellow voice; blends with strings and woodwinds."
 tags: [music]
-data: {icon: swapbag, templatePriority: 0, packFolder: music}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: music}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: music

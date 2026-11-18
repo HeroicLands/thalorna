@@ -4,15 +4,18 @@ name: {full: Two Rivers, tokc: [hokpa hosa]}
 type: place
 subType: settlement
 description: "Two Rivers, the One Fire's northern gate, where the river from Ha'nal Shi'lan meets the great river, the copper of the north is bought, and the delegates to the Red Quarry set out."
-tags: [city, draft]
+tags: [town, draft]
 data:
   culture: tokchiliclt
   demonym: null
   lore: [tokchiliclt]
   parents: [hokpargn]
   population: 6000
+  type: town
+  market: regional
   government: tokchiaska
   packFolder: tokchiaska
+  notes: "Two Rivers, the One Fire's northern gate, where the river from Ha'nal Shi'lan meets the great river, the copper of the north is bought, and the delegates to the Red Quarry set out."
 
 # terran_analog: the confluence of the Ohio and the Mississippi, with the Kincaid and Wickliffe mound sites as models
 ---

@@ -4,7 +4,7 @@ name: {full: Quilted Shirt}
 type: armorgear
 description: "Stitched-layer shirt; winter-weight padding for torso."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: quilted

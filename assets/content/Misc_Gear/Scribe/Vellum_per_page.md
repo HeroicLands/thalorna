@@ -4,7 +4,7 @@ name: {full: "Vellum, per page"}
 type: miscgear
 description: "Calf skin; finest white durable surface for royal charters, illuminated gospels."
 tags: [scribe]
-data: {icon: swapbag, templatePriority: 0, packFolder: scribe}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: scribe}
 sohl:
   craft: {skill: hide, secondary: []}
   kbcat: scribe

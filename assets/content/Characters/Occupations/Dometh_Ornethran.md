@@ -24,6 +24,7 @@ data:
     hair_color: brown
     skin_color: tanned
     complexion: [weathered]
+    hair_style: shaved_sides
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

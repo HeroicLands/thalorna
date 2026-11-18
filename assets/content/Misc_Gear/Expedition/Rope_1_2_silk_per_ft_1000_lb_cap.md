@@ -4,7 +4,7 @@ name: {full: "Rope, ½” silk, per ft (1000 lb cap.)"}
 type: miscgear
 description: "Supple silk rope; strong, light, and prized by climbers and thieves."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

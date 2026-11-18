@@ -26,6 +26,12 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [chapped]
+    hair_texture: straight
+    hair_style: cropped
+    face_shape: round
+    nose: narrow
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: kiichchikteyumi
 ---

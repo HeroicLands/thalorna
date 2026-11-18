@@ -4,15 +4,18 @@ name: {full: Door House, teyu: [hepuhosa]}
 type: place
 subType: settlement
 description: "The Door House: the great house of the Canyon of Houses with a door cut through its outer wall, where the house heads swear their oath and the hungry of the north are coming to be fed."
-tags: [city, draft]
+tags: [village, draft]
 data:
   culture: teyumiclt
   demonym: null
   lore: [teyumiclt]
   parents: [hosaoyalargn]
   population: 700
+  type: village
+  market: local
   government: teyumi
   packFolder: teyumi
+  notes: "The Door House: the great house of the Canyon of Houses with a door cut through its outer wall, where the house heads swear their oath and the hungry of the north are coming to be fed."
 
 # terran_analog: Chetro Ketl and the other great houses facing Pueblo Bonito across Chaco Canyon; the door cut through the outer wall is this setting's own
 ---

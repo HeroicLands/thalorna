@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Enchantment inflaming emotion; targets act with heightened intensity."
 tags: []
-data: {icon: icon-divination, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: neumenos

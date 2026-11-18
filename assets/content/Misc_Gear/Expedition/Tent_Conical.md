@@ -4,7 +4,7 @@ name: {full: "Tent, Conical"}
 type: miscgear
 description: "Linen cone over single pole; peaked roof sheds rain, allows campfire."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: expedition

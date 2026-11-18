@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Shapes ambient moisture into solid, durable ice structures and tools."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

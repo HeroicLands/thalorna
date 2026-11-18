@@ -24,6 +24,9 @@ data:
     hair_color: black
     skin_color: pale
     complexion: [weathered]
+    hair_style: braided
+    nose: narrow
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

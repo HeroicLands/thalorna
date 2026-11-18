@@ -26,6 +26,8 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [clear]
+    hair_texture: curly
+    face_shape: long
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

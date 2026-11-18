@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [swoasisbelt]
   population: 45000
+  market: regional
+  type: city
   government: tribestrzd
   packFolder: khazryndesert
+  notes: "The Tellumi war-city, third of the seven, the first to fall to the Atarzád and now the garrison city of the Zhoqarod tribe."
 ---
 
 ## Overview {#overview}

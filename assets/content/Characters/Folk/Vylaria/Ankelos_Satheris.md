@@ -32,6 +32,7 @@ data:
     hair_color: auburn
     skin_color: light
     complexion: [weathered]
+    hair_style: cropped
     extra_features: [a smith's burn scars on both forearms]
   packFolder: midhalionvylaria
 ---

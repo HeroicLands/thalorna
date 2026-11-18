@@ -5,7 +5,7 @@ type: trauma
 subType: fatigue
 description: "Long-term weakness from carrying an active disease."
 tags: []
-data: {icon: sleepy, templatePriority: 0, packFolder: fatigue}
+data: {kind: physcond, icon: sleepy, templatePriority: 0, packFolder: fatigue}
 sohl: {kbcat: fatigue, system: {category: weakness, levelBase: 1, healingRateBase: 1}}
 ---
 

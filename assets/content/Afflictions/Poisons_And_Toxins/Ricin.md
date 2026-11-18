@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Castor bean toxin; organ failure over days; lethal in tiny amounts."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

@@ -4,7 +4,7 @@ name: {full: Padded Cowl}
 type: armorgear
 description: "Cushioned head and shoulder covering providing warmth and helmet compatibility."
 tags: []
-data: {icon: hood, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: hood, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: padded

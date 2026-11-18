@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 980
+  market: local
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "The panning village on the richest of the gold mountain's streams, where nine of the twenty-eight hereditary families work."
 ---
 
 **Hiranyadara** (980) lies two miles above [Middle Suvargeri]{.name data-type="place/site"} on the richest of the mountain's streams, and is where most of the gold is won. Nine of the twenty-eight hereditary panning families live here, which is more than any other village holds.

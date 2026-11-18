@@ -25,6 +25,9 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    face_shape: oval
+    nose: straight
+    mouth: small
     extra_features: [a tattoo of a tree on the forearm]
   packFolder: midhalionvylaria
 sohl:

@@ -4,7 +4,7 @@ name: {full: Butter}
 type: miscgear
 description: "Pale yellow churned cream; enriches vegetables, fries meat, keeps better salted."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: food

@@ -4,7 +4,7 @@ name: {full: "Cage, wooden, large"}
 type: miscgear
 description: "Large slatted wooden cage for livestock or hounds (roughly 27 cubic feet)."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: expedition

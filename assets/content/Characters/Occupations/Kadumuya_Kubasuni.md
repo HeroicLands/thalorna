@@ -25,6 +25,9 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [sun_kissed]
+    hair_style: braided
+    face_shape: long
+    brow: straight
     extra_features: [a scar on the neck]
   packFolder: midhaliontaruzel
 sohl:

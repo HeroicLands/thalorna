@@ -4,7 +4,7 @@ name: {full: "Basket, large"}
 type: containergear
 description: "Woven wicker or willow basket for produce or storage."
 tags: []
-data: {icon: basket, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: basket, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 3.5, valueBase: 4, qualityBase: 0, durabilityBase: 8, maxCapacityBase: 25}

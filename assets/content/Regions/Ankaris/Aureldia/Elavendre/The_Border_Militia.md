@@ -45,6 +45,7 @@ data:
         Held by a Serjeant. Keeps the levy rolls of a district and calls each village's turn to its post.
   seat: valdun
   population: null
+  territorial_population: 5200
   economy: []
   lore: [humanflk]
   parents: [kngdmlvndr]

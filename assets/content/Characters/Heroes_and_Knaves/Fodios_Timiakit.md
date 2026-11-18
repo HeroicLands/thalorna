@@ -24,6 +24,8 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
+    nose: hooked
     extra_features: [a scar on the neck]
   packFolder: helladbyzaria
 sohl:

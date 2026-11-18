@@ -10,10 +10,13 @@ data:
   lore: []
   parents: [tarvenirgn]
   population: 45000
+  market: international
+  type: city
   routes:
     - {to: durvolka, bearing: W, mode: ship, days: 3, terrain: [coast]}
     - {to: besikar2, bearing: SE, mode: ship, days: 5, terrain: [open-sea]}
   government: frctyvlthr
+  notes: "Tarvénia's richest port, a free city of 45,000 on the sandy southern coast, governed by the merchant houses of the Konsezarath under a royal charter and distrusted by the mountain lords."
 ---
 
 ## Overview {#overview}

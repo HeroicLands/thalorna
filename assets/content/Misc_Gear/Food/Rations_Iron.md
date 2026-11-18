@@ -4,7 +4,7 @@ name: {full: "Rations, Iron"}
 type: miscgear
 description: "Compact military bundle of hardtack and salt pork, sustains one day."
 tags: [food]
-data: {icon: swapbag, templatePriority: 0, packFolder: food}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: food}
 sohl:
   craft: {skill: cook, secondary: []}
   kbcat: food

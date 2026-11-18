@@ -4,7 +4,7 @@ name: {full: Fishing Kit}
 type: miscgear
 description: "Cloth pouch with hooks, sinker, horsehair line, bone needle for riverside hunting."
 tags: [instruments]
-data: {icon: swapbag, templatePriority: 0, packFolder: instruments}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: instruments}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: instruments

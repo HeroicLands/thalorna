@@ -27,6 +27,8 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered, scarred]
+    hair_style: cropped
+    nose: crooked
     extra_features: [a broken nose badly set]
   packFolder: aureldiatarvenia
 ---

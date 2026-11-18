@@ -25,6 +25,11 @@ data:
     hair_color: grey
     skin_color: medium
     complexion: []
+    hair_style: short
+    face_shape: oval
+    nose: straight
+    brow: arched
+    mouth: wide
     extra_features: [a tattoo of a heart on the chest]
   packFolder: midhalionvylaria
 sohl:

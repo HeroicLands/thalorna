@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcanetalent
 description: "Throws a bolt of raw elemental force at a target in sight."
 tags: [draft]
-data: {icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
+data: {kind: psychicgift, icon: icon-psionics, templatePriority: null, packFolder: arcanetalents}
 sohl:
   system:
     assocSkillCode: ""

@@ -4,7 +4,7 @@ name: {full: "Trunk, wooden"}
 type: containergear
 description: "Large banded travelling trunk with a domed lid (1.5 x 2 x 3.5 feet)."
 tags: []
-data: {icon: swapbag, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: swapbag, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: wood, secondary: []}
   system: {weightBase: 40, valueBase: 90, qualityBase: 0, durabilityBase: 5, maxCapacityBase: 150}

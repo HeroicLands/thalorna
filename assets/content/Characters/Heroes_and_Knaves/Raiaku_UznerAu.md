@@ -26,6 +26,7 @@ data:
     hair_color: greying_black
     skin_color: ebony
     complexion: [clear]
+    brow: arched
     extra_features: []
   packFolder: regkhhk
 sohl:

@@ -6,6 +6,7 @@ subType: poisontoxin
 description: "Tropane alkaloids; visual disturbances and delirium; often ingested secretly."
 tags: []
 data:
+  kind: poisontoxin
   icon: poisonbottle
   templatePriority: 0
   packFolder: poisonsandtoxins

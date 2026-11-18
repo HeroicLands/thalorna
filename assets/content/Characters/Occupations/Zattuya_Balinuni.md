@@ -25,6 +25,9 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_style: shoulder_length
+    nose: hooked
+    mouth: thin
     extra_features: []
   packFolder: midhaliontaruzel
 sohl:

@@ -4,7 +4,7 @@ name: {full: Gambeson Tunic}
 type: armorgear
 description: "Padded tunic offering protection worn under or over armor."
 tags: []
-data: {icon: shirt, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: shirt, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: gambeson

@@ -4,7 +4,7 @@ name: {full: "Candles, Tallow"}
 type: miscgear
 description: "Rendered mutton-beef fat candles; smoky, acrid, cheap; light of soldiers and poor."
 tags: [lighting]
-data: {icon: swapbag, templatePriority: 0, packFolder: lighting}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: lighting}
 sohl:
   craft: {skill: anmcft, secondary: []}
   kbcat: lighting

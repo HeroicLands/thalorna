@@ -25,6 +25,10 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [clear]
+    face_shape: heart
+    nose: upturned
+    brow: thin
+    mouth: thin
     extra_features: [a tattoo of a crown on the chest]
   packFolder: aureldiaelavendre
 sohl:

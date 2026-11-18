@@ -4,7 +4,7 @@ name: {full: "Belt pouch, silk, med"}
 type: containergear
 description: "Moderate silk belt pouch; conspicuous wealth worn at the hip."
 tags: []
-data: {icon: knapsack, templatePriority: 0, packFolder: containers}
+data: {kind: container, icon: knapsack, templatePriority: 0, packFolder: containers}
 sohl:
   craft: {skill: txtl, secondary: []}
   system: {weightBase: 0.6, valueBase: 72, qualityBase: 0, durabilityBase: 1, maxCapacityBase: 3}

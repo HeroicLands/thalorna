@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Wreathed in roaring magical flame; burning and radiating intense heat."
 tags: []
-data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: pirethos

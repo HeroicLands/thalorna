@@ -4,7 +4,7 @@ name: {full: "Russet, per sq yard"}
 type: miscgear
 description: "Unfulled cloth of finer thread and better wool; town work, good colours."
 tags: [clothing]
-data: {icon: rolledcloth, templatePriority: 0, packFolder: textile}
+data: {kind: miscgear, icon: rolledcloth, templatePriority: 0, packFolder: textile}
 sohl:
   craft: {skill: txtl, secondary: []}
   kbcat: cloth

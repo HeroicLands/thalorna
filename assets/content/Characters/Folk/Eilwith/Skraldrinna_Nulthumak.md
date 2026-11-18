@@ -27,6 +27,7 @@ data:
     hair_color: black
     skin_color: fair
     complexion: [clear]
+    hair_style: short
     extra_features: []
   packFolder: aureldiaaelwyth
 ---

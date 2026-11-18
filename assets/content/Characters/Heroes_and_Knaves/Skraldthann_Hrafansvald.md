@@ -24,6 +24,8 @@ data:
     hair_color: grey
     skin_color: light
     complexion: [ruddy]
+    nose: upturned
+    brow: heavy
     extra_features: [a scar on the abdomen]
   packFolder: ankarisnordlands
 sohl:

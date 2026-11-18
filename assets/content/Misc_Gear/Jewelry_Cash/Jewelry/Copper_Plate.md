@@ -4,7 +4,7 @@ name: {full: Copper Plate}
 type: miscgear
 description: "A sheet of hammered copper embossed with the bird-man; worn by the One Fire's nobles and buried with its Suns."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: jewelry}
 sohl:
   kbcat: jewelry
   craft: {skill: mtlc, secondary: []}

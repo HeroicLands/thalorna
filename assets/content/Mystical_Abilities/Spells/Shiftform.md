@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Grants temporary form change; transforms into beast or being."
 tags: []
-data: {icon: icon-circle, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-circle, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: kentra

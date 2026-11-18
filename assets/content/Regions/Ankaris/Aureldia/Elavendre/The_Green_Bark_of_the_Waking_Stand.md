@@ -4,7 +4,12 @@ name: {full: The Green Bark of the Waking Stand, en: [The Green Bark]}
 type: miscgear
 description: "A strip of bark cut from a tree of the Waking Stand in the Silver Forests, which has stayed green on a shelf of the Fisera herbarium at Péravel since the autumn it was taken, and which the Wardens want back with the man who cut it."
 tags: [artifact, elavendre]
-data: {icon: icon-tree, templatePriority: null, packFolder: elavendre, unique: true}
+data:
+  kind: miscgear
+  icon: icon-tree
+  templatePriority: null
+  packFolder: elavendre
+  unique: true
 sohl: {system: {weightBase: 0, valueBase: 0, qualityBase: 0, durabilityBase: 2}}
 ---
 

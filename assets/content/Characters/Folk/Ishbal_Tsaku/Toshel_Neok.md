@@ -28,6 +28,12 @@ data:
     hair_color: greying_black
     skin_color: dark_brown
     complexion: [scarred]
+    hair_texture: straight
+    hair_style: long
+    face_shape: round
+    nose: aquiline
+    brow: heavy
+    mouth: full
     extra_features: []
   packFolder: kiichchikixbaltzaku
 ---

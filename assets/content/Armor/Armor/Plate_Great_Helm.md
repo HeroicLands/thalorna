@@ -4,7 +4,7 @@ name: {full: Plate Great Helm}
 type: armorgear
 description: "Fully enclosed steel helm; maximum head-and-face coverage for warriors."
 tags: []
-data: {icon: visoredhelm, templatePriority: 0, packFolder: armorarmor}
+data: {kind: armor, icon: visoredhelm, templatePriority: 0, packFolder: armorarmor}
 sohl:
   craft: {skill: wpnc, secondary: [mtlc, mnrl]}
   kbcat: plate

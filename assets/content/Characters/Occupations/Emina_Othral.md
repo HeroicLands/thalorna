@@ -25,6 +25,9 @@ data:
     hair_color: blonde
     skin_color: fair
     complexion: [scarred]
+    face_shape: heart
+    brow: thin
+    mouth: thin
     extra_features: [a scar on the left side of the neck]
   packFolder: aureldiaelavendre
 sohl:

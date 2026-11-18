@@ -4,7 +4,7 @@ name: {full: Cup Wine}
 type: miscgear
 description: "Common wine in cup; less refined than aged vintages; for modest means."
 tags: [spirits]
-data: {icon: jeweledchalice, templatePriority: 0, packFolder: spirits}
+data: {kind: miscgear, icon: jeweledchalice, templatePriority: 0, packFolder: spirits}
 sohl:
   craft: {skill: brew, secondary: []}
   kbcat: spirits

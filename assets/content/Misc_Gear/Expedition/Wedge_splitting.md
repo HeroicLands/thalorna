@@ -4,7 +4,7 @@ name: {full: "Wedge, splitting"}
 type: miscgear
 description: "Steel wedge for cleaving logs; lasts years and saves labor on campaign."
 tags: [expedition]
-data: {icon: swapbag, templatePriority: 0, packFolder: expedition}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: expedition}
 sohl:
   craft: {skill: mtlc, secondary: []}
   kbcat: expedition

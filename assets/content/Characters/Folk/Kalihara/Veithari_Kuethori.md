@@ -26,6 +26,12 @@ data:
     hair_color: dark_brown
     skin_color: brown
     complexion: [clear]
+    hair_texture: wavy
+    hair_style: braided
+    face_shape: angular
+    nose: aquiline
+    brow: bushy
+    mouth: full
     extra_features: []
   packFolder: kalihara
 ---

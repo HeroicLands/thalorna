@@ -25,6 +25,11 @@ data:
     hair_color: greying_brown
     skin_color: fair
     complexion: []
+    hair_style: braided
+    face_shape: round
+    nose: narrow
+    brow: arched
+    mouth: wide
     extra_features: [a tattoo of a snake wrapping around the leg]
   packFolder: aureldiaaelwyth
 sohl:

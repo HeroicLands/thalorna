@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [suvargerijnpd]
   population: 840
+  market: local
+  type: village
   packFolder: vedyara
   government: suvrgrjnpd
+  notes: "Village at the foot of the great tank, whose sluices water six villages below it."
 ---
 
 **Sarasapada** is a village at the foot of the great tank, in the [[place-suvargerijnpd|Suvargeri Janpoda]]. The tank's sluices water six villages below it, and Sarasapada sits at the head of that water. The share each village draws is for the sabhra's reckoner to compute, and the level of the tank is the first thing anyone in Sarasapada reads in a dry year.

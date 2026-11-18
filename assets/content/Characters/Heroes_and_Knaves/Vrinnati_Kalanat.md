@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_style: braided
   packFolder: ankarisvedyara
 sohl:
   items:

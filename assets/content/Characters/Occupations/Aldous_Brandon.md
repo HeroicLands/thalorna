@@ -25,6 +25,10 @@ data:
     hair_color: auburn
     skin_color: fair
     complexion: [clear]
+    hair_texture: wavy
+    face_shape: round
+    nose: upturned
+    brow: straight
     extra_features: []
   packFolder: aureldiaaelwyth
 sohl:

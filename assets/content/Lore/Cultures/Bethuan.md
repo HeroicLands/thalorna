@@ -71,6 +71,12 @@ data:
     hair_color: {black: 7, dark_brown: 3, brown: 1}
     skin_color: {brown: 4, olive: 3, tawny: 3, dark_brown: 2, golden: 2}
     complexion: {sun_kissed: 4, smooth: 3, clear: 3, weathered: 1}
+    hair_texture: {wavy: 4, curly: 4, straight: 2}
+    hair_style: {long: 3, shoulder_length: 3, short: 3, braided: 1, knotted: 1}
+    face_shape: {oval: 3, long: 2, heart: 2, angular: 2, round: 1}
+    nose: {aquiline: 3, straight: 3, broad: 2, hooked: 1, narrow: 1}
+    brow: {arched: 3, heavy: 2, bushy: 2, straight: 1}
+    mouth: {full: 4, wide: 2, thin: 1, small: 1}
     height: {female: {min: 5' 4", max: 6' 0"}, male: {min: 5' 5", max: 5' 11"}}
 
 # terran_analog: "Maghreb and Carthage (Mediterranean coast shading into the Saharan interior): a naval, mercantile coast state. Carries over: seafaring, fleets and privateering, a patron relationship with the Nile-valley empire. Departs: a matriarchy in which men are property, with sworn eunuch-warriors (Spadai) as the one armed exception and a women's open-hand martial art; no real-world counterpart for that order."

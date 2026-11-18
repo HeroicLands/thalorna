@@ -10,10 +10,12 @@ data:
   lore: []
   parents: [chendrapurland]
   population: 90000
-  market: 6
+  type: city
+  market: international
   routes: [{to: chandrmukha, bearing: S, mode: boat, days: 1, terrain: [river]}]
   packFolder: vedyara
   government: chendrapur
+  notes: "The white city at the head of the Chandramahi delta—the capital of the city-state, the gem market the whole region cuts for, and the nine quarters the Nine Houses keep."
 ---
 
 **Chendrapur** (90,000, market 6) is the capital and principal settlement of [[affiliation-chendrapur|Chendrapur]], and it stands at the head of the [[place-chandrmahi|Chandramahi delta]] where the river divides and the tide stops. It is built of a pale limestone that weathers whiter rather than grayer, which is where the **Moon City** comes from, and the temples and the shrena halls are kept washed so that the name stays true.

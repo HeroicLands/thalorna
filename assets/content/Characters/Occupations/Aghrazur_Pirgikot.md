@@ -24,6 +24,9 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: [smooth]
+    hair_texture: curly
+    facial_hair: short_beard
+    nose: broad
     extra_features: [tattoo on arm]
   packFolder: helladbyzaria
 sohl:

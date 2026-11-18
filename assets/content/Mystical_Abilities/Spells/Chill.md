@@ -5,7 +5,7 @@ type: mysticalability
 subType: arcaneincantation
 description: "Radiates unnatural cold; freezes moisture and dulls warmth nearby."
 tags: []
-data: {icon: icon-water, templatePriority: null, packFolder: spells}
+data: {kind: spell, icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
     assocSkillCode: hidalis

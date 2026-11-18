@@ -26,6 +26,12 @@ data:
     hair_color: greying_black
     skin_color: tawny
     complexion: [weathered]
+    hair_texture: straight
+    hair_style: braided
+    face_shape: broad
+    nose: straight
+    brow: straight
+    mouth: thin
     extra_features: []
   packFolder: kiichchikkankul
 ---

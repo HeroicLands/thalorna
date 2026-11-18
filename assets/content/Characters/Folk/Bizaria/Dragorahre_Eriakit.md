@@ -26,6 +26,12 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [smooth]
+    hair_texture: wavy
+    hair_style: short
+    face_shape: long
+    nose: aquiline
+    brow: heavy
+    mouth: thin
     extra_features: []
   packFolder: helladbyzaria
 ---

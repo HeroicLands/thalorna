@@ -4,7 +4,7 @@ name: {full: Grindstone}
 type: miscgear
 description: "Sandstone or granite disc; horizontal axle; grinds grain, ore, pigment by hand-turn."
 tags: [stone]
-data: {icon: swapbag, templatePriority: 0, packFolder: stone}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: stone}
 sohl:
   craft: {skill: masn, secondary: []}
   kbcat: stone

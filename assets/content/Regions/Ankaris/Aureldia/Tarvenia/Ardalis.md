@@ -10,8 +10,11 @@ data:
   lore: []
   parents: [asturath]
   population: 5000
+  market: regional
+  type: town
   government: kngdmstrth
   packFolder: tarvenia
+  notes: "The iron town of Asturath, a day's climb below Lezkora on the plateau road, whose forges make the crossbows and blades the mountain companies carry abroad."
 ---
 
 Ardalis is the iron town of [[place-asturath|Asturath]], a smoky valley town of five thousand a day's climb below [[place-lezkora|Lezkora]] on the plateau road. Its name is the old mountain word for iron, _ardal_, and the town has never had another trade. When a Tarvenan crossbowman abroad shows off his weapon, the steel bow on it was most likely forged here.

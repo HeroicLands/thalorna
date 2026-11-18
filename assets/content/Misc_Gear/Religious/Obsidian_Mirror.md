@@ -4,7 +4,7 @@ name: {full: Obsidian Mirror, kiichek: [Ha'kin]}
 type: miscgear
 description: "A polished disk of volcanic glass held to the sun; it draws the new fire and, the priests say, shows a warrior's true face."
 tags: []
-data: {icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
+data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: religious}
 sohl:
   kbcat: religious
   system: {weightBase: 0.6, valueBase: 150, qualityBase: 0, durabilityBase: 6}

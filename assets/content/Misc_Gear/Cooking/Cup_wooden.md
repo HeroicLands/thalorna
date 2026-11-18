@@ -4,7 +4,7 @@ name: {full: "Cup, wooden"}
 type: miscgear
 description: "Turned wooden cup; the everyday drinking vessel."
 tags: [cooking]
-data: {icon: swapbag, templatePriority: 0, packFolder: cooking}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: cooking}
 sohl:
   craft: {skill: wood, secondary: []}
   kbcat: cooking

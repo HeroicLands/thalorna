@@ -26,6 +26,9 @@ data:
     hair_color: dark_brown
     skin_color: tawny
     complexion: [sun_kissed]
+    hair_texture: curly
+    nose: aquiline
+    brow: arched
     extra_features: []
   packFolder: aureldiaprovenzia
 sohl:

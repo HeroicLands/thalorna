@@ -4,7 +4,7 @@ name: {full: "Hide, Seal"}
 type: miscgear
 description: "Coastal oiled hide; waterproof supple leather for sea-boots, deckcloaks. Price is for one whole skin."
 tags: [natural]
-data: {icon: swapbag, templatePriority: 0, packFolder: natural}
+data: {kind: miscgear, icon: swapbag, templatePriority: 0, packFolder: natural}
 sohl:
   craft: {skill: srvl, secondary: []}
   kbcat: natural
