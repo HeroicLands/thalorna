@@ -25,6 +25,7 @@ import { encodeAddresses } from "@heroiclands/package-build/engine/address-value
 import { checkNotes, generateEncoding, GLYPH_CODES, NOTES } from "./veldikko-spelling.mjs";
 import { checkLanguage, readIndex, referenceWithPerformance } from "./veldikko-guard.mjs";
 import { convertVeldikko } from "./veldikko-reference.mjs";
+import { admits } from "./decoded-readings.mjs";
 
 const config = {
     contentPackage: "thalorna",
@@ -303,24 +304,6 @@ test("an acute on a held vowel's or diphthong's second letter splits it", () => 
     assert.equal(referenceWithPerformance("paí", convertVeldikko), sign(P, A, CARRIER, I, STRESS));
     assert.equal(referenceWithPerformance("pái", convertVeldikko), sign(P, A, STRESS, I));
 });
-
-const escapeRegExp = (text) => text.replace(/[.*+?^${}()|[\]\\]/gu, "\\$&");
-
-/**
- * Whether a decoding admits the source. The Senali program shares signs between
- * spellings, so its decoding lists every spelling of a shared sign as `[a | b]`.
- */
-function admits(decoded, source) {
-    const pattern = decoded
-        .split(/(\[[^\]]+\])/u)
-        .map((part) =>
-            /^\[[^\]]+\]$/u.test(part) ?
-                `(?:${part.slice(1, -1).split(" | ").map(escapeRegExp).join("|")})`
-            :   escapeRegExp(part),
-        )
-        .join("");
-    return new RegExp(`^${pattern}$`, "u").test(source);
-}
 
 /** The Senali program compiled with the installed font's codes. */
 function senali() {

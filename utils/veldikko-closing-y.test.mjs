@@ -3,6 +3,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { decodeText, encodeText } from "@heroiclands/package-build/engine/encoding";
+import { admits } from "./decoded-readings.mjs";
 import { encodingReference } from "./encoding-reference.mjs";
 
 const onset = [
@@ -35,7 +36,7 @@ for (const [language, accepted, refused] of [
             assert.throws(() => encodeText(encoding, source), /matches "y"/u, source);
         for (const source of accepted) {
             const native = encodeText(encoding, source);
-            assert.equal(encodeText(encoding, decodeText(encoding, native)), native, source);
+            assert.ok(admits(decodeText(encoding, native), source), source);
         }
     });
 }
