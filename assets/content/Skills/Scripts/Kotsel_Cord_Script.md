@@ -5,7 +5,7 @@ type: skill
 subType: script
 description: "The knotted cord-records of the Kì'ìch'chik—tribute, tallies and day-counts carried by runners and read by priests."
 tags: []
-data: {kind: script, icon: icon-speaking, templatePriority: null, packFolder: script}
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"

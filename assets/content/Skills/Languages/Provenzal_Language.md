@@ -6,7 +6,6 @@ subType: language
 description: "The melodic speech of Provénzia—shaped by Vilari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
 tags: []
 data:
-  kind: language
   roman: "abcdefghijklmnoprstuvyzABCDEFGHIJKLMNOPRSTUVYZáéíóúëÁÉÍÓÚË0123456789qQ"
   core: true
   family: skill-vylarilng

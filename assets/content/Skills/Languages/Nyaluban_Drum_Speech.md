@@ -5,7 +5,7 @@ type: skill
 subType: language
 description: "The drum register of Nyáluban—tonal melody struck rather than spoken, carrying names, summons and genealogies twenty kilometers."
 tags: [nyaluba]
-data: {kind: language, roman: "", icon: icon-speaking, templatePriority: null, packFolder: language}
+data: {roman: "", icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

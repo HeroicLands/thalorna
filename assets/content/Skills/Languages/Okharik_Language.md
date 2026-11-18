@@ -6,7 +6,6 @@ subType: language
 description: "The tongue of the three Okhari city-states, with an archaic sacred register reserved for scripture and temple rites."
 tags: []
 data:
-  kind: language
   roman: "abcdefghiklmnoprstuvwyzáéíóúë0123456789()–-j'"
   core: true
   abbreviation: Okh.

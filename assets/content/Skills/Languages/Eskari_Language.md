@@ -6,7 +6,6 @@ subType: language
 description: "The tongue of the Eskárathi of Tarvénia's northern highlands, related to no other: open vowels, a trilled rr and a hard z, and names that close on a vowel or on n, r, z or ts."
 tags: []
 data:
-  kind: language
   roman: "abdegiklmnoprstuz0123456789-"
   abbreviation: Esk.
   icon: icon-speaking

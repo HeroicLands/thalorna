@@ -6,7 +6,6 @@ subType: script
 description: "The graven letters of imperial Viléria—the ceremonial runic script of temple, tomb and triumphal arch."
 tags: []
 data:
-  kind: script
   icon: icon-speaking
   templatePriority: null
   packFolder: script

@@ -5,7 +5,7 @@ type: skill
 subType: script
 description: "The old Áelendan runes—the softened western branch of the graven work, used for carving: monuments, old magic and poetry."
 tags: []
-data: {kind: script, icon: icon-speaking, templatePriority: null, packFolder: script}
+data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"

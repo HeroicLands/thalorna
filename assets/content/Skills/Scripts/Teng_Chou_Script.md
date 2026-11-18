@@ -6,7 +6,6 @@ subType: script
 description: "The Celestial Record—the shared logographic writing of Tantsou and Jenchai, read alike by people who cannot speak to one another."
 tags: []
 data:
-  kind: script
   icon: icon-speaking
   templatePriority: null
   packFolder: script

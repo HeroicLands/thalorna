@@ -6,7 +6,6 @@ subType: script
 description: "The Helonik letters—the eastern alphabet of theater, verse and the ledger, carried by three tongues and every harbor between them."
 tags: []
 data:
-  kind: script
   icon: icon-speaking
   templatePriority: null
   packFolder: script

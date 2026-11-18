@@ -6,7 +6,6 @@ subType: language
 description: "The island speech of the Nine Mountains—a daughter of Tantsou hardened by a thousand years of separation, and layered with the most elaborate honorifics in the east."
 tags: []
 data:
-  kind: language
   roman: "abcdefghijkmnorstuwyzáéíóúë0123456789()–-"
   core: true
   abbreviation: Jur.

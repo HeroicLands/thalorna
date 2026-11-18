@@ -6,7 +6,6 @@ subType: language
 description: "The tongue of culture and the arts—drama, rhetoric, poetry and the epics—spoken in Helionis and the parent of Bizarian and Bethuan."
 tags: []
 data:
-  kind: language
   roman: "abcdefghiklmnoprstuvwyzABCDEFGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789-jJ"
   core: true
   abbreviation: Hel.

@@ -6,7 +6,6 @@ subType: language
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae—a daughter-tongue of old Áelendi."
 tags: []
 data:
-  kind: language
   roman: "abcdefghijklmnoprstuvwyzABCDEFGHIJKLMNOPRSTUVWYZáéíóúëýÁÉÍÓÚËÝ0123456789"
   core: true
   family: skill-aelendlng

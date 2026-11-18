@@ -6,7 +6,6 @@ subType: language
 description: "The unwritten tongue of the Shell-Bead People of the western coast and the oak valleys: clipped, closed and full of sh and q, spoken from the islands to the snow mountains."
 tags: []
 data:
-  kind: language
   roman: "acehiklmnopqstuwyáéíóú0123456789-"
   core: true
   abbreviation: Shuq.

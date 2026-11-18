@@ -6,7 +6,6 @@ subType: script
 description: "The forty-eight syllables of Vedyara—a temple script for law, lineage and liturgy, with a running hand for the caravan."
 tags: []
 data:
-  kind: script
   icon: icon-speaking
   templatePriority: null
   packFolder: script

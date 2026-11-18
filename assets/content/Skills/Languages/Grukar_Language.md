@@ -6,7 +6,6 @@ subType: language
 description: "How the Grukar converse: by body language and scent, with grunts, growls, bellows and screams for emphasis, and no words and no script."
 tags: []
 data:
-  kind: language
   roman: ""
   abbreviation: Gruk.
   icon: icon-speaking

@@ -6,7 +6,6 @@ subType: language
 description: "The imperial tongue of the Vilérian court and, as the Vilérians hold it, the language of learning, government, the arcane and the university system in the empire and the lands that look to it."
 tags: []
 data:
-  kind: language
   core: true
   abbreviation: Vyl.
   roman: "ABDEFGHIKLMNOPRSTUVWYZabdefghiklmnoprstuvwyzÁÉÍÓÚÝáéíóúýËë0123456789'"

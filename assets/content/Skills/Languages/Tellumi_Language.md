@@ -6,7 +6,6 @@ subType: language
 description: "The measured, liquid tongue of the Tellumi, the old oasis people at the foot of the Grazian Mountains."
 tags: []
 data:
-  kind: language
   roman: "abdefghiklmnoprstuvy0123456789()–-záí'"
   core: true
   abbreviation: Tell.
