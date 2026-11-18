@@ -13,7 +13,7 @@ import {
     WRANGLER_VERSION,
 } from "./site-publication.mjs";
 
-const SHARED = "5d2db91909feba6a8c99013ac15c9a155f066445";
+const SHARED = "5a31ee2627a7b464710f0942dbfb4c19a4f90f94";
 
 test("a tag that matches v* but not the version pattern names the event and ref", () => {
     assert.throws(() => selectPublication("push", "refs/tags/v2"), /push refs\/tags\/v2/);

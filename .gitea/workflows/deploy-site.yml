@@ -67,7 +67,7 @@ jobs:
               with:
                   repository: HeroicLands/.github
                   github-server-url: https://git.pupluppy.org
-                  ref: 5d2db91909feba6a8c99013ac15c9a155f066445 # main
+                  ref: 5a31ee2627a7b464710f0942dbfb4c19a4f90f94 # main
                   path: trusted-deploy
                   persist-credentials: false
             - name: Inventory the internal pages artifact
@@ -90,7 +90,7 @@ jobs:
     internal:
         needs: build
         if: ${{ needs.build.outputs.mode == 'internal' }}
-        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-site.yml@5d2db91909feba6a8c99013ac15c9a155f066445 # main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-site.yml@5a31ee2627a7b464710f0942dbfb4c19a4f90f94 # main
         with:
             artifact-name: thalorna-site-publication
             package: thalorna
