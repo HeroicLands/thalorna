@@ -185,7 +185,7 @@ Hóuthathen tose thes al kergis rith miron taldathen al tírvale‼ Nóurethen t
 
 --- {.canto}
 
-**Al raumel rith al áuldalon.** Rith al kirdis al auranra dárkathen al legyon al gyethar mirlon gouthe al írvaloste mirlerth, reik árnathen geinra gyerth nelgon reik ólvessaste rith ti áuldalon, seis róugathen geinra lourth gyerth al dulgis dren nyes. En uk legyon reithik mórdamon nolgrar tharan, reik al raumel geile al talgon thren geinra, reik al tírvaland héilathen al tírvale giethe al thoudra geinra sendrel árnathen geinra. Nóurethen tose uk gurnalon geile al auldar tírvale. Hórmathen tose to‼ Ukal gurnon en uk tharan lothe uk thorgon, reik al gurnalon teihes milon largar.
+[Al raumel rith al áuldalon.]{.emph} Rith al kirdis al auranra dárkathen al legyon al gyethar mirlon gouthe al írvaloste mirlerth, reik árnathen geinra gyerth nelgon reik ólvessaste rith ti áuldalon, seis róugathen geinra lourth gyerth al dulgis dren nyes. En uk legyon reithik mórdamon nolgrar tharan, reik al raumel geile al talgon thren geinra, reik al tírvaland héilathen al tírvale giethe al thoudra geinra sendrel árnathen geinra. Nóurethen tose uk gurnalon geile al auldar tírvale. Hórmathen tose to‼ Ukal gurnon en uk tharan lothe uk thorgon, reik al gurnalon teihes milon largar.
 
 Nond dryégathen al greiklon gene. Nond en al greiklon uk andargand. Góldathen gene uk thélkeron tis, uk dyeldalon goure, rith óssenda, reik róugathen gene gourthe, reik ánkenathen al mirlathon thren al legyon reik hálmathen geinra grend dren gene. Pínathen al legyon al galnis lothe dorla, nonduk gurnon rith geinra, reik hendathen gene geinra, reik pínathen gene al déilamen ánkenar reik. Reik árnathen al kenralon lourth threl al sórvanda dren gene, reik threl al lonke thren gene, reik nond dryégathen geinra reik, gase algin en geinra sendri ólvessaste, rith al salve nal al rinel al lonke, reik sélgathen al legyon geinra, geithe sélgathen tose uk hernon lothe tosri gorkon. Geirnin árnathen gene nal dyelon gyerth al rinel al lonke, rith miron róugathen al aulde gryene rith al mouglar salve, reik hóuthathen gene goure, reik kérathen gene al dorla, reik hórmathen gene.
 
@@ -195,7 +195,7 @@ Geirnin méisathen al legandon al nogand greile al rinel gyerth al mirlathon, re
 
 --- {.canto}
 
-**Al ánhrason geile al mórvalis.** Nal al rinel, giethe al lonke, elnathen uk mirlathon géilathen al auldar drun. Sárgathen tose al auldar drun, kurnar, geildar, reik al geirasa sárgathen tose. Dónkathen al drungailand nal al neldra thren, reik géilathen al délsara al mirlathon lothe al hélnora, Derva, teihes reik gondis kirdon, reik lothe al helnor, Sevrel, meithur kirdon. Nond gyernathen geinra sendrel gyernathen al derar, geirnen en al drun geile al gorth leigis, reik nond ránathen tose al drun. Geirnin pínathen al legyon geinra.
+[Al ánhrason geile al mórvalis.]{.emph} Nal al rinel, giethe al lonke, elnathen uk mirlathon géilathen al auldar drun. Sárgathen tose al auldar drun, kurnar, geildar, reik al geirasa sárgathen tose. Dónkathen al drungailand nal al neldra thren, reik géilathen al délsara al mirlathon lothe al hélnora, Derva, teihes reik gondis kirdon, reik lothe al helnor, Sevrel, meithur kirdon. Nond gyernathen geinra sendrel gyernathen al derar, geirnen en al drun geile al gorth leigis, reik nond ránathen tose al drun. Geirnin pínathen al legyon geinra.
 
 Góldathen al legyon al drun, alnar, gyerth al thelkon, reik léigathen gene uk fírsamis nond geindathen kendar rith al áuldalon lesathen. Reik gonde árnathen al nogand al legandon, uk tharan nond menthar rith uk lurmon gorkon, ryenathen nusri óstila angeildar, reik hóuthathen gene nal al mórvalis al délsara, nond leithar, geithe gársathen geinra, reik légathen gene geile gene uk gyelmon ánhrason. Nond uk desnon. Uk gyelmon. Al anhraz al Órzalon, lothe al raumel geile gene, geirin thinar al mirlathon nóurethen rith ta teihes kirdon drun.
 
@@ -209,7 +209,7 @@ Gine dárkathen al áuldalon gournar hormon geile to gyelmon, greinde to kyeron.
 
 --- {.canto}
 
-**Rith al rinel.** Elnathen uk senthron greile to lonke, reik algin sárgathen al áuldalon gene, reik en to al dournon. Nond en gene al senthron ryenar grend. Róugathen uk tharan rith greile gene reik árnathen gene gounel nal al miron dernar, reik róugathen gene rith grend nal al déilamen kyeron reik árnathen gene gounel nal uk derar miron, gose nond árnathen gene gounel. Sárgathen al henduland al threnon. Nond sárgathen kendar gere miron róugathen gene, geirnen nond en gene rith miron. En gene gere léigathen al lonke gyerth tose.
+[Rith al rinel.]{.emph} Elnathen uk senthron greile to lonke, reik algin sárgathen al áuldalon gene, reik en to al dournon. Nond en gene al senthron ryenar grend. Róugathen uk tharan rith greile gene reik árnathen gene gounel nal al miron dernar, reik róugathen gene rith grend nal al déilamen kyeron reik árnathen gene gounel nal uk derar miron, gose nond árnathen gene gounel. Sárgathen al henduland al threnon. Nond sárgathen kendar gere miron róugathen gene, geirnen nond en gene rith miron. En gene gere léigathen al lonke gyerth tose.
 
 Rith al géstaren kirnis góldathen Derva al gyelmon threl al mórvalis, reik geirnin góldathen gene gene, reik róugathen gene gryene gyerth al threnon al senthron, giethe al mouglar salve nal al gorth rinel al largar ilmis. Deirnathen gene geintathen gene rith, ryenathen al mougand. Ryenathen kren deirnathen gene kernathen al lonke seis góldathen gene al ánhrason reik léigathen al ondren grend, geithe légathen tose uk tárnevine geile uk ugra. Hóuthathen gene geile al dúrmera nal al gorth rinel al ilmis, al gyelmon geile al gúrdamon, reik nond geinde dalgathen gene, reik gonde nóurethen gene nond en gene ukar.
 
@@ -260,7 +260,7 @@ Ryenathen gene «Gonde en geinra goldar.» Reik nond en gene goure, reik en al m
 
 --- {.canto}
 
-**Al senthron.** Róugathen gene lourth al largar ilmis gyerth al dorla al legyon, al ánhrason rith al thralel, reik ryenathen gene gyerth al nogand seis sélkathen gene al senthron, reik árnathen al ondren lothe gene, gose nond sénkathen gene uk thoudrin. Thélkathen al nogand gene gyerth al legandon, reik nóurethen al legandon gene largar kirdis, reik gonde dróusathen gene. Árnathen Sevrel gounel. Nond ruskathen kendar gene. Málmathen gene angeildar, reik nonduk derar. Gírdathen gene gyerth Derva, reik góldathen gene gene gryene.
+[Al senthron.]{.emph} Róugathen gene lourth al largar ilmis gyerth al dorla al legyon, al ánhrason rith al thralel, reik ryenathen gene gyerth al nogand seis sélkathen gene al senthron, reik árnathen al ondren lothe gene, gose nond sénkathen gene uk thoudrin. Thélkathen al nogand gene gyerth al legandon, reik nóurethen al legandon gene largar kirdis, reik gonde dróusathen gene. Árnathen Sevrel gounel. Nond ruskathen kendar gene. Málmathen gene angeildar, reik nonduk derar. Gírdathen gene gyerth Derva, reik góldathen gene gene gryene.
 
 Dren shéiranda théndathen al kórthelon nal al gorth rinel al largar ilmis, ordur dórkamon reik dorgen teihes tharan, reik al kreipar geile uk drun, reik al kernon geile al talgon, reik al muland. Kernathen al kreipar «Gere miron róugathen al senthron?» Ryenathen gene «Greile.» En to tenar. Kernathen gene «Gere menthis kirdis?» Ryenathen gene «Ta kyeron, gyese ílnathen al lonke nyes.» En to tenar reik, reik nond ílnathen gene to, reik dróusathen gene geri.
 
@@ -278,7 +278,7 @@ Sárgathen al legyon gene dren sendri kyeron, gyese árethathen al nogand threl 
 
 --- {.canto}
 
-**Valdun.** Geildathen al legyon gyerth al kórthelon, reik geildathen, reik méisathen gene al nogand geile al senthron, reik pínathen al nogand al senthron, reik árnathen geinra gounel al lonke rith uk derar miron, gose nond. Dren uk óskena sárgathen al legandon gélgathen gene uk kórthelon reik nengin góldathen gene gene grend, reik géilathen al greiklon tengin al gandurth al dulgis, reik en al kenralon tengin rith al salve, sendri ólvessaste. Reik méisathen gene gyerth al auranra.
+[Valdun.]{.emph} Geildathen al legyon gyerth al kórthelon, reik geildathen, reik méisathen gene al nogand geile al senthron, reik pínathen al nogand al senthron, reik árnathen geinra gounel al lonke rith uk derar miron, gose nond. Dren uk óskena sárgathen al legandon gélgathen gene uk kórthelon reik nengin góldathen gene gene grend, reik géilathen al greiklon tengin al gandurth al dulgis, reik en al kenralon tengin rith al salve, sendri ólvessaste. Reik méisathen gene gyerth al auranra.
 
 En al auranra Réidane, threl al halthon Orethan, reik árnathen gene gryene threl Péravel gyerth Valdun seis ryenathen gyethe geinra, reik árnathen gene nathar, geithe árnathen al arlathon. Hóuthathen al greiklon rith Valdun reik nóurethen gene árnathen gryene geile al auldar tírvale lothe alnar al syénalon gene, reik al hormon al aulde en al hormon al aulde. Sárgathen tose gene. Gase en gene geildar auranra, ryenathen al aulde, reik nóurethen gene gere elnathen. Nond geindathen gene dryégathen al legyon gourthe, reik nond geindathen al legyon dryégathen al thargalon gourthe, reik geilnathen geinra ryenathen to rith leithon géilathen al thend.
 
@@ -312,7 +312,7 @@ Légathen al tírvaland al legyon al mílkergis geile al tírvale sendrel árnat
 
 --- {.canto}
 
-**Thren.** Élthethen Derva largar kirdis, reik sénkathen gene thren ukal kendon róugathen lothe gene, rith alnar gene elthis. Nond en to lunnar geiron. Hórmathen tose to‼
+[Thren.]{.emph} Élthethen Derva largar kirdis, reik sénkathen gene thren ukal kendon róugathen lothe gene, rith alnar gene elthis. Nond en to lunnar geiron. Hórmathen tose to‼
 
 Dónkathen al ámmira, reik sénkathen gene thren al thélkela al ámmira, nond dren, rith miron sénkathen uk hélnora, reik nóurethen alnar al dulgis uk hélnora sénkathen thren al sélvorosa ámmira geithe úldathen gene uk gurnon gyerth al kurnand, reik nengin dyelmethen kren geinra gene, reik nond geindathen gene ryenathen al gouris. Nond thálmathen gene, geirnen nond elnathen uk senthron gyerth uk thalmon thren alnar, reik ryenathen gene nond gársathen gene uk tharan sénkathen dren gene rith alnar gene elthis geithe uk muland. Róugathen gene gyerth al kurnand al gurnalon reik sénkathen gene thren al gurnalon, uk dournon miron, reik nal ta kirdin dárnathen al gurnalon gene geinin, reik ryenathen al gurnand gene Rúndomris, reik gonde ryenathen geinra gene nonduk, geirnen nond en gene uk myelnis. Nal al kirdis lyero geinra rith al dulgis al máldalon al auranra, árnathen uk lyeronno threl al Rontha gryene rith al aulde seis nóurethen gene, nal uk kirdin, reik sénkathen gene dren gene lourth al auldar tírvale uk milon, kernathen kernis, reik róugathen gene lourth reik lyero gene to, reik nond lyero gene gene.
 
@@ -322,7 +322,7 @@ Dónkathen Sevrel, uk mouglar tharan, reik sénkathen gene thren gene thélkela 
 
 --- {.canto}
 
-**Dren.** Rith al kélvase kirgon dren dónkathen al ondren, róugathen Derva gryene al largar ilmis, ukar, gyerth al dúrmera nal al gorth rinel, rith miron hóuthathen gene lothe al gyelmon. En gene geiri mouglar. Hóuthathen gene geile al dúrmera. Reik nond dárkathen al mougand shéimara geile gere eldathen gonde, reik ryenathen geinra alnar, geirnen uk geiron nond seinar nond targathen kurnar.
+[Dren.]{.emph} Rith al kélvase kirgon dren dónkathen al ondren, róugathen Derva gryene al largar ilmis, ukar, gyerth al dúrmera nal al gorth rinel, rith miron hóuthathen gene lothe al gyelmon. En gene geiri mouglar. Hóuthathen gene geile al dúrmera. Reik nond dárkathen al mougand shéimara geile gere eldathen gonde, reik ryenathen geinra alnar, geirnen uk geiron nond seinar nond targathen kurnar.
 
 Ryenathen kren elnathen al senthron goure, talar, thar giethe al thoudra, reik geindathen uk thélkeron róugathen geile gene, reik árnathen geile gene threl al salve gyerth gene, geiri halnar, ordur rith ukal lanris, reik uk kernon geile uk talgon, reik uk drun, reik al muland, reik nond árnathen geinra gounel al salve gase térgathen geinra nal al rinel reik róugathen rith grend, reik róunithen gene threl al dúrmera reik róugathen gene rith dren geinra. Dren. Geirnen sénkathen gene geinra rith, reik nond sénkathen kendar dren geinra greinde, reik uk geiron gársathen tose gyerth kendar targathen uk molthon, reik to en al molthon dyelar.
 
