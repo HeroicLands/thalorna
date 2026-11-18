@@ -26,6 +26,16 @@ data:
     complexion: [pockmarked]
     extra_features: []
   packFolder: ankarisvrystwald
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: clb, model: weapongear-clb, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltcowl, model: armorgear-ltcowl, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 4}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -72,15 +82,15 @@ sohl:
     - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 44}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-clb}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltcowl}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 4}}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: clb, model: sohl-sohl-weapongear-clb}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltcowl, model: sohl-sohl-armorgear-ltcowl}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 4}}
   system:
     body:
       structure:

@@ -29,6 +29,21 @@ data:
     mouth: full
     extra_features: [a tattoo of a bird on the forearm]
   packFolder: helladbyzaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: sgbrch, model: armorgear-sgbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: satchelwithbird, name: Satchel with bird treats and seed, kind: miscgear, system: {weight: 1}}
+    - {key: trainingrods, name: Training rods and whistles, kind: miscgear, system: {weight: 0.5}}
+    - {key: bellsforbirdtraining, name: Bells for bird training, kind: miscgear, system: {weight: 0.2}}
+    - {key: trainersjournal, name: Trainer's journal and notes, kind: miscgear, system: {weight: 0.3}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1.5}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -76,30 +91,35 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 12}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-sgbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Satchel with bird treats and seed
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: sgbrch, model: sohl-sohl-armorgear-sgbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: satchelwithbird
+      name: Satchel with bird treats and seed
       type: miscgear
       system: {shortcode: satchelwithbird, weight: 1, value: 100, durability: 3}
-    - name: Training rods and whistles
+    - key: trainingrods
+      name: Training rods and whistles
       type: miscgear
       system: {shortcode: trainingrods, weight: 0.5, value: 100, durability: 3}
-    - name: Bells for bird training
+    - key: bellsforbirdtraining
+      name: Bells for bird training
       type: miscgear
       system: {shortcode: bellsforbirdtraining, weight: 0.2, value: 100, durability: 3}
-    - name: Trainer's journal and notes
+    - key: trainersjournal
+      name: Trainer's journal and notes
       type: miscgear
       system: {shortcode: trainersjournal, weight: 0.3, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

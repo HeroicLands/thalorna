@@ -31,6 +31,21 @@ data:
     mouth: full
     extra_features: []
   packFolder: midhalionvylaria
+  items:
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: slktunic, model: armorgear-slktunic, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: slkstnc, model: armorgear-slkstnc, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: quillset, name: Quill set (goose and reed), kind: miscgear, system: {quantity: 12, weight: 1}}
+    - {key: inkwellwithpremium, name: Inkwell with premium black ink, kind: miscgear, system: {weight: 0.3}}
+    - {key: parchment, name: Parchment (premium sheets), kind: miscgear, system: {quantity: 25, weight: 1}}
+    - {key: sealingwax, name: Sealing wax (assorted colors), kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: sealstamps, name: Seal stamps (personal and guild), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: blottings, name: Blotting sand, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: rulerandstraightedge, name: Ruler and straightedge (brass), kind: miscgear, system: {weight: 1}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,34 +91,41 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 16}}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-slktunic}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-slkstnc}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Quill set (goose and reed)
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: slktunic, model: sohl-sohl-armorgear-slktunic}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: slkstnc, model: sohl-sohl-armorgear-slkstnc}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: quillset
+      name: Quill set (goose and reed)
       type: miscgear
       system: {shortcode: quillset, quantity: 12, weight: 1, value: 100, durability: 3}
-    - name: Inkwell with premium black ink
+    - key: inkwellwithpremium
+      name: Inkwell with premium black ink
       type: miscgear
       system: {shortcode: inkwellwithpremium, value: 2, weight: 0.3, durability: 3}
-    - name: Parchment (premium sheets)
+    - key: parchment
+      name: Parchment (premium sheets)
       type: miscgear
       system: {shortcode: parchment, quantity: 25, weight: 1, value: 100, durability: 3}
-    - name: Sealing wax (assorted colors)
+    - key: sealingwax
+      name: Sealing wax (assorted colors)
       type: miscgear
       system: {shortcode: sealingwax, quantity: 3, value: 1, weight: 1, durability: 3}
-    - name: Seal stamps (personal and guild)
+    - key: sealstamps
+      name: Seal stamps (personal and guild)
       type: miscgear
       system: {shortcode: sealstamps, quantity: 2, value: 3, weight: 1, durability: 3}
-    - name: Blotting sand
+    - key: blottings
+      name: Blotting sand
       type: miscgear
       system: {shortcode: blottings, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Ruler and straightedge (brass)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: rulerandstraightedge
+      name: Ruler and straightedge (brass)
       type: miscgear
       system: {shortcode: rulerandstraightedge, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

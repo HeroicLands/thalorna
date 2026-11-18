@@ -32,6 +32,20 @@ data:
     mouth: full
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: quills, name: Quills (various nib sizes), kind: miscgear, system: {quantity: 6, weight: 1}}
+    - {key: inks, name: "Inks (black, colored, specialty pigments)", kind: miscgear, system: {quantity: 5, weight: 1}}
+    - {key: parchment, name: "Parchment (sheets, rolls, specialty papers)", kind: miscgear, system: {quantity: 12, weight: 1}}
+    - {key: goldleaf, name: Gold leaf and decorative materials, kind: miscgear, system: {weight: 1}}
+    - {key: rulerandmeasuring, name: Ruler and measuring tools, kind: miscgear, system: {weight: 1}}
+    - {key: burnishingtools, name: Burnishing tools and brushes, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,31 +90,37 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 85}}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Quills (various nib sizes)
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: quills
+      name: Quills (various nib sizes)
       type: miscgear
       system: {shortcode: quills, quantity: 6, weight: 1, value: 100, durability: 3}
-    - name: Inks (black, colored, specialty pigments)
+    - key: inks
+      name: Inks (black, colored, specialty pigments)
       type: miscgear
       system: {shortcode: inks, quantity: 5, weight: 1, value: 100, durability: 3}
-    - name: Parchment (sheets, rolls, specialty papers)
+    - key: parchment
+      name: Parchment (sheets, rolls, specialty papers)
       type: miscgear
       system: {shortcode: parchment, quantity: 12, weight: 1, value: 100, durability: 3}
-    - name: Gold leaf and decorative materials
+    - key: goldleaf
+      name: Gold leaf and decorative materials
       type: miscgear
       system: {shortcode: goldleaf, weight: 1, value: 100, durability: 3}
-    - name: Ruler and measuring tools
+    - key: rulerandmeasuring
+      name: Ruler and measuring tools
       type: miscgear
       system: {shortcode: rulerandmeasuring, weight: 1, value: 100, durability: 3}
-    - name: Burnishing tools and brushes
+    - key: burnishingtools
+      name: Burnishing tools and brushes
       type: miscgear
       system: {shortcode: burnishingtools, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

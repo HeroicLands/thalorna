@@ -27,6 +27,20 @@ data:
     face_shape: long
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: gcoat, model: armorgear-gcoat, kind: armor}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: gcoat-2, model: armorgear-gcoat, kind: armor}
+    - {key: herbalpoultices, name: Herbal poultices (healing preparations), kind: miscgear, system: {quantity: 6, weight: 1}}
+    - {key: ritualcomponents, name: "Ritual components (chalk, salt, rare herbs)", kind: miscgear, system: {weight: 0.5}}
+    - {key: enchantedstones, name: Enchanted stones (amulet set), kind: miscgear, system: {quantity: 4, weight: 1}}
+    - {key: tarotcards, name: Tarot cards (worn but well-cared), kind: miscgear, system: {weight: 1}}
+    - {key: grimoire, name: Grimoire (personal magical notes), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -73,29 +87,34 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-gcoat}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-gcoat, system: {shortcode: GCoat2}}
-    - name: Herbal poultices (healing preparations)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: gcoat, model: sohl-sohl-armorgear-gcoat}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: gcoat-2, model: sohl-sohl-armorgear-gcoat, system: {shortcode: GCoat2}}
+    - key: herbalpoultices
+      name: Herbal poultices (healing preparations)
       type: miscgear
       system: {shortcode: herbalpoultices, quantity: 6, value: 5, weight: 1, durability: 3}
-    - name: Ritual components (chalk, salt, rare herbs)
+    - key: ritualcomponents
+      name: Ritual components (chalk, salt, rare herbs)
       type: miscgear
       system: {shortcode: ritualcomponents, weight: 0.5, value: 4, durability: 3}
-    - name: Enchanted stones (amulet set)
+    - key: enchantedstones
+      name: Enchanted stones (amulet set)
       type: miscgear
       system: {shortcode: enchantedstones, quantity: 4, value: 8, weight: 1, durability: 3}
-    - name: Tarot cards (worn but well-cared)
+    - key: tarotcards
+      name: Tarot cards (worn but well-cared)
       type: miscgear
       system: {shortcode: tarotcards, value: 3, weight: 1, durability: 3}
-    - name: Grimoire (personal magical notes)
+    - key: grimoire
+      name: Grimoire (personal magical notes)
       type: miscgear
       system: {shortcode: grimoire, weight: 1, value: 5, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

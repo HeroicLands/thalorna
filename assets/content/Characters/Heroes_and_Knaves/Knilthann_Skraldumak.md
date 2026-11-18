@@ -28,6 +28,21 @@ data:
     mouth: small
     extra_features: [a scar on the right hand]
   packFolder: ankarisnordlands
+  items:
+    - {key: haxe, model: weapongear-haxe, kind: weapon}
+    - {key: stk, model: weapongear-stk, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: bvcloak, model: armorgear-bvcloak, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: woodenboxforscrolls, name: Wooden box for scrolls, kind: miscgear, system: {weight: 0.5}}
+    - {key: runestones, name: Runestones for divination, kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: ceremonialdrinking, name: Ceremonial drinking horn, kind: miscgear, system: {weight: 0.4}}
+    - {key: luteorharp, name: Lute or harp (musical instrument), kind: miscgear, system: {weight: 2}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -74,28 +89,32 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-haxe}
-    - {model: sohl-sohl-weapongear-stk}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-bvcloak}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Wooden box for scrolls
+    - {key: haxe, model: sohl-sohl-weapongear-haxe}
+    - {key: stk, model: sohl-sohl-weapongear-stk}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: bvcloak, model: sohl-sohl-armorgear-bvcloak}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: woodenboxforscrolls
+      name: Wooden box for scrolls
       type: miscgear
       system: {shortcode: woodenboxforscrolls, weight: 0.5, value: 100, durability: 3}
-    - name: Runestones for divination
+    - key: runestones
+      name: Runestones for divination
       type: miscgear
       system: {shortcode: runestones, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Ceremonial drinking horn
+    - key: ceremonialdrinking
+      name: Ceremonial drinking horn
       type: miscgear
       system: {shortcode: ceremonialdrinking, weight: 0.4, value: 100, durability: 3}
-    - name: Lute or harp (musical instrument)
+    - key: luteorharp
+      name: Lute or harp (musical instrument)
       type: miscgear
       system: {shortcode: luteorharp, weight: 2, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

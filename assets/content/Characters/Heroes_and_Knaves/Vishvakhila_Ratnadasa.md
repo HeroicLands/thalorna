@@ -28,6 +28,20 @@ data:
     mouth: full
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: clb, model: weapongear-clb, kind: weapon}
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: canvasbagforcarrying, name: Canvas bag for carrying supplies, kind: miscgear, system: {weight: 1}}
+    - {key: scentedoilsforcandle, name: Scented oils for candle-making, kind: miscgear, system: {weight: 0.5}}
+    - {key: dyesandcolorants, name: Dyes and colorants, kind: miscgear, system: {weight: 0.5}}
+    - {key: beeswaxandtallow, name: Beeswax and tallow supplies, kind: miscgear, system: {weight: 2}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -75,27 +89,31 @@ sohl:
     - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-clb}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-sgtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Canvas bag for carrying supplies
+    - {key: clb, model: sohl-sohl-weapongear-clb}
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: sgtrsr, model: sohl-sohl-armorgear-sgtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: canvasbagforcarrying
+      name: Canvas bag for carrying supplies
       type: miscgear
       system: {shortcode: canvasbagforcarrying, weight: 1, value: 20, durability: 3}
-    - name: Scented oils for candle-making
+    - key: scentedoilsforcandle
+      name: Scented oils for candle-making
       type: miscgear
       system: {shortcode: scentedoilsforcandle, weight: 0.5, value: 100, durability: 3}
-    - name: Dyes and colorants
+    - key: dyesandcolorants
+      name: Dyes and colorants
       type: miscgear
       system: {shortcode: dyesandcolorants, weight: 0.5, value: 100, durability: 3}
-    - name: Beeswax and tallow supplies
+    - key: beeswaxandtallow
+      name: Beeswax and tallow supplies
       type: miscgear
       system: {shortcode: beeswaxandtallow, weight: 2, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

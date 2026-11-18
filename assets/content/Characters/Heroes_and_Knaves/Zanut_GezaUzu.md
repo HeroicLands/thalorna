@@ -28,6 +28,20 @@ data:
     mouth: full
     extra_features: [a scar on the left ear]
   packFolder: regkhhk
+  items:
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wickerbasket, name: Wicker basket with fresh herbs, kind: miscgear, system: {weight: 2}}
+    - {key: herbalremedies, name: Herbal remedies (prepared tinctures), kind: miscgear, system: {quantity: 8, weight: 1}}
+    - {key: alchemicallaboratory, name: "Alchemical laboratory tools (mortar, pestle, scales)", kind: miscgear, system: {weight: 1}}
+    - {key: glassbottles, name: Glass bottles (assorted sizes), kind: miscgear, system: {quantity: 6, weight: 1}}
+    - {key: herbalreferencetexts, name: Herbal reference texts (personal notes), kind: miscgear, system: {weight: 0.5}}
+    - {key: ritualmourningmark, name: "Ritual mourning mark (ear scar, spiritual significance)", kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -77,31 +91,37 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Wicker basket with fresh herbs
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: wickerbasket
+      name: Wicker basket with fresh herbs
       type: miscgear
       system: {shortcode: wickerbasket, weight: 2, value: 100, durability: 3}
-    - name: Herbal remedies (prepared tinctures)
+    - key: herbalremedies
+      name: Herbal remedies (prepared tinctures)
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 8, value: 8, weight: 1, durability: 3}
-    - name: Alchemical laboratory tools (mortar, pestle, scales)
+    - key: alchemicallaboratory
+      name: Alchemical laboratory tools (mortar, pestle, scales)
       type: miscgear
       system: {shortcode: alchemicallaboratory, weight: 1, value: 5, durability: 3}
-    - name: Glass bottles (assorted sizes)
+    - key: glassbottles
+      name: Glass bottles (assorted sizes)
       type: miscgear
       system: {shortcode: glassbottles, quantity: 6, value: 2, weight: 1, durability: 3}
-    - name: Herbal reference texts (personal notes)
+    - key: herbalreferencetexts
+      name: Herbal reference texts (personal notes)
       type: miscgear
       system: {shortcode: herbalreferencetexts, weight: 0.5, value: 100, durability: 3}
-    - name: Ritual mourning mark (ear scar, spiritual significance)
+    - key: ritualmourningmark
+      name: Ritual mourning mark (ear scar, spiritual significance)
       type: miscgear
       system: {shortcode: ritualmourningmark, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

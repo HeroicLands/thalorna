@@ -30,6 +30,17 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: northernfertileregionbethua
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: thepurplewarrant, name: The Purple Warrant (the stolen original — crown purple-dyed vellum under the Naukrátissa's unforgeable seals), kind: miscgear, system: {weight: 2}}
+    - {key: scribeswritingkit, name: "Scribe's writing kit (reeds, inks, wax, seals)", kind: miscgear, system: {weight: 2}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 4}}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear, system: {quantity: 30}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -65,20 +76,22 @@ sohl:
     - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wtunic, name: Traveling clothes (worsted)}
-    - {model: sohl-sohl-armorgear-wclk}
-    - name: The Purple Warrant (the stolen original — crown purple-dyed vellum under the Naukrátissa's unforgeable seals)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic, name: Traveling clothes (worsted)}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - key: thepurplewarrant
+      name: The Purple Warrant (the stolen original — crown purple-dyed vellum under the Naukrátissa's unforgeable seals)
       type: miscgear
       system: {shortcode: thepurplewarrant, weight: 2, value: 0, durability: 2}
-    - name: Scribe's writing kit (reeds, inks, wax, seals)
+    - key: scribeswritingkit
+      name: Scribe's writing kit (reeds, inks, wax, seals)
       type: miscgear
       system: {shortcode: scribeswritingkit, weight: 2, value: 120, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 30}}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 30}}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -26,6 +26,19 @@ data:
     complexion: [sun_kissed]
     extra_features: [A narrow tribal tattoo of three dots beneath the left eye]
   packFolder: ankarisvedyara
+  items:
+    - {key: scmtr, model: weapongear-scmtr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: letterofcredit, model: miscgear-letterofcredit, kind: miscgear}
+    - {key: scalesweig, model: miscgear-scalesweig, kind: miscgear}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -70,18 +83,18 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 25}}
     - {model: skill-vedyarlng, system: {masteryLevelBase: 60}}
     - {model: skill-qalzscrscrpt, system: {masteryLevelBase: 50}}
-    - {model: sohl-sohl-weapongear-scmtr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: miscgear-letterofcredit}
-    - {model: sohl-sohl-miscgear-scalesweig}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: scmtr, model: sohl-sohl-weapongear-scmtr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: letterofcredit, model: miscgear-letterofcredit}
+    - {key: scalesweig, model: sohl-sohl-miscgear-scalesweig}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

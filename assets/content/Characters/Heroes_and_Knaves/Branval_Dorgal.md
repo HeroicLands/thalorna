@@ -32,6 +32,30 @@ data:
     complexion: [weathered]
     extra_features: []
   packFolder: aureldiaprovenzia
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: lbw75, model: weapongear-lbw75, kind: weapon}
+    - {key: ctrsr, model: armorgear-ctrsr, kind: armor}
+    - {key: cstnc, model: armorgear-cstnc, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: mbyr, model: armorgear-mbyr, kind: armor}
+    - {key: pcap, model: armorgear-pcap, kind: armor}
+    - {key: pcoat, model: armorgear-pcoat, kind: armor}
+    - {key: pl34hlm, model: armorgear-pl34hlm, kind: armor}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: map, model: miscgear-map, kind: miscgear, system: {quantity: 3}}
+    - {key: ringgold, model: miscgear-ringgold, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: litebdrl, model: miscgear-litebdrl, kind: miscgear}
+    - {key: batlstd, name: Battle standard, kind: miscgear, system: {weight: 20}}
+    - {key: quiverlgsh, model: containergear-quiverlgsh, kind: container}
+    - {key: arwhbrd, model: projectilegear-arwhbrd, kind: projectile, system: {quantity: 12}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bagleather15, model: containergear-bagleather15, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -81,31 +105,32 @@ sohl:
     - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-timb, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-weapongear-lbw75}
-    - {model: sohl-sohl-armorgear-ctrsr}
-    - {model: sohl-sohl-armorgear-cstnc}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-mbyr}
-    - {model: sohl-sohl-armorgear-pcap}
-    - {model: sohl-sohl-armorgear-pcoat}
-    - {model: sohl-sohl-armorgear-pl34hlm}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-map, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-ringgold, name: "Family Signet Ring"}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-litebdrl}
-    - name: "Battle standard"
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: lbw75, model: sohl-sohl-weapongear-lbw75}
+    - {key: ctrsr, model: sohl-sohl-armorgear-ctrsr}
+    - {key: cstnc, model: sohl-sohl-armorgear-cstnc}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: mbyr, model: sohl-sohl-armorgear-mbyr}
+    - {key: pcap, model: sohl-sohl-armorgear-pcap}
+    - {key: pcoat, model: sohl-sohl-armorgear-pcoat}
+    - {key: pl34hlm, model: sohl-sohl-armorgear-pl34hlm}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: map, model: sohl-sohl-miscgear-map, system: {quantity: 3}}
+    - {key: ringgold, model: sohl-sohl-miscgear-ringgold, name: "Family Signet Ring"}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: litebdrl, model: sohl-sohl-miscgear-litebdrl}
+    - key: batlstd
+      name: "Battle standard"
       type: miscgear
       system: {shortcode: batlstd, value: 35, weight: 20}
-    - {model: sohl-sohl-containergear-quiverlgsh}
-    - {model: sohl-sohl-projectilegear-arwhbrd, system: {quantity: 12}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bagleather15}
+    - {key: quiverlgsh, model: sohl-sohl-containergear-quiverlgsh}
+    - {key: arwhbrd, model: sohl-sohl-projectilegear-arwhbrd, system: {quantity: 12}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bagleather15, model: sohl-sohl-containergear-bagleather15}
   system:
     body:
       structure:

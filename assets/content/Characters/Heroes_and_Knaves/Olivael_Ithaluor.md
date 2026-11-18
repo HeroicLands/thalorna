@@ -28,6 +28,21 @@ data:
     mouth: full
     extra_features: []
   packFolder: heroesandknaveskalihara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: slkmntl, model: armorgear-slkmntl, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: lcap, model: armorgear-lcap, kind: clothing}
+    - {key: leatherboundastral, name: Leather-bound astral charts journal, kind: miscgear, system: {weight: 2}}
+    - {key: brassastrolabe, name: Brass astrolabe, kind: miscgear, system: {weight: 1.5}}
+    - {key: coppertelescope, name: Copper telescope (brass-fitted), kind: miscgear, system: {weight: 2.5}}
+    - {key: starmaps, name: Star maps (rolled parchment set), kind: miscgear, system: {weight: 0.5}}
+    - {key: inkandquills, name: Ink and quills, kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: carvedbonedice, name: Carved bone dice for divination, kind: miscgear, system: {weight: 0.2}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 30}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -79,32 +94,38 @@ sohl:
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-slkmntl}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-armorgear-lcap}
-    - name: Leather-bound astral charts journal
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: slkmntl, model: sohl-sohl-armorgear-slkmntl}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: lcap, model: sohl-sohl-armorgear-lcap}
+    - key: leatherboundastral
+      name: Leather-bound astral charts journal
       type: miscgear
       system: {shortcode: leatherboundastral, weight: 2, value: 100, durability: 3}
-    - name: Brass astrolabe
+    - key: brassastrolabe
+      name: Brass astrolabe
       type: miscgear
       system: {shortcode: brassastrolabe, weight: 1.5, value: 100, durability: 3}
-    - name: Copper telescope (brass-fitted)
+    - key: coppertelescope
+      name: Copper telescope (brass-fitted)
       type: miscgear
       system: {shortcode: coppertelescope, weight: 2.5, value: 100, durability: 3}
-    - name: Star maps (rolled parchment set)
+    - key: starmaps
+      name: Star maps (rolled parchment set)
       type: miscgear
       system: {shortcode: starmaps, weight: 0.5, value: 100, durability: 3}
-    - name: Ink and quills
+    - key: inkandquills
+      name: Ink and quills
       type: miscgear
       system: {shortcode: inkandquills, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Carved bone dice for divination
+    - key: carvedbonedice
+      name: Carved bone dice for divination
       type: miscgear
       system: {shortcode: carvedbonedice, weight: 0.2, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 30}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 30}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

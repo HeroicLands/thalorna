@@ -27,6 +27,14 @@ data:
     hair_style: cropped
     extra_features: [Rope-scarred palms, A wrapped left wrist]
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: clb, model: weapongear-clb, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: monsooncloak, model: miscgear-monsooncloak, kind: miscgear}
+    - {key: rope12hemp, model: miscgear-rope12hemp, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -66,13 +74,13 @@ sohl:
     - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 35}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-weapongear-clb}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: miscgear-monsooncloak}
-    - {model: sohl-sohl-miscgear-rope12hemp}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: clb, model: sohl-sohl-weapongear-clb}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: monsooncloak, model: miscgear-monsooncloak}
+    - {key: rope12hemp, model: sohl-sohl-miscgear-rope12hemp}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

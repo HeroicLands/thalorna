@@ -28,6 +28,24 @@ data:
     nose: aquiline
     extra_features: [a scar on the left thigh]
   packFolder: ankariskhazryndesert
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltrobe, model: armorgear-ltrobe, kind: clothing}
+    - {key: ltmntl, model: armorgear-ltmntl, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: wovenritualbag, name: Woven ritual bag with stones and bells, kind: miscgear, system: {weight: 1.2}}
+    - {key: copperbells, name: Copper bells (set of 7), kind: miscgear, system: {weight: 0.6}}
+    - {key: bundleofsacredherbs, name: Bundle of sacred herbs (desert plants), kind: miscgear, system: {weight: 0.5}}
+    - {key: bonediviningsticks, name: Bone divining sticks, kind: miscgear, system: {weight: 0.3}}
+    - {key: silkheadwraps, name: Silk head wraps, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: healingherbs, name: Healing herbs, kind: miscgear, system: {weight: 1}}
+    - {key: divinationstones, name: Divination stones, kind: miscgear, system: {weight: 1}}
+    - {key: ceremonialfeathers, name: Ceremonial feathers, kind: miscgear, system: {weight: 1}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -78,37 +96,45 @@ sohl:
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-mysticalability-trnc, system: {masteryLevelBase: 75}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltrobe}
-    - {model: sohl-sohl-armorgear-ltmntl}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - name: Woven ritual bag with stones and bells
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltrobe, model: sohl-sohl-armorgear-ltrobe}
+    - {key: ltmntl, model: sohl-sohl-armorgear-ltmntl}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - key: wovenritualbag
+      name: Woven ritual bag with stones and bells
       type: miscgear
       system: {shortcode: wovenritualbag, weight: 1.2, value: 100, durability: 3}
-    - name: Copper bells (set of 7)
+    - key: copperbells
+      name: Copper bells (set of 7)
       type: miscgear
       system: {shortcode: copperbells, weight: 0.6, value: 100, durability: 3}
-    - name: Bundle of sacred herbs (desert plants)
+    - key: bundleofsacredherbs
+      name: Bundle of sacred herbs (desert plants)
       type: miscgear
       system: {shortcode: bundleofsacredherbs, weight: 0.5, value: 100, durability: 3}
-    - name: Bone divining sticks
+    - key: bonediviningsticks
+      name: Bone divining sticks
       type: miscgear
       system: {shortcode: bonediviningsticks, weight: 0.3, value: 100, durability: 3}
-    - name: Silk head wraps
+    - key: silkheadwraps
+      name: Silk head wraps
       type: miscgear
       system: {shortcode: silkheadwraps, quantity: 3, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Healing herbs
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: healingherbs
+      name: Healing herbs
       type: miscgear
       system: {shortcode: healingherbs, weight: 1, value: 100, durability: 3}
-    - name: Divination stones
+    - key: divinationstones
+      name: Divination stones
       type: miscgear
       system: {shortcode: divinationstones, weight: 1, value: 100, durability: 3}
-    - name: Ceremonial feathers
+    - key: ceremonialfeathers
+      name: Ceremonial feathers
       type: miscgear
       system: {shortcode: ceremonialfeathers, weight: 1, value: 100, durability: 3}
   system:

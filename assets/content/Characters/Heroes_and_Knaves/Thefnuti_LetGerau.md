@@ -29,6 +29,22 @@ data:
     face_shape: oval
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: cdgl, model: weapongear-cdgl, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: leathertoolbelt, name: Leather tool belt with pouches, kind: miscgear, system: {weight: 1.5}}
+    - {key: woodenchest, name: Wooden chest for clockwork and mechanism parts, kind: miscgear, system: {weight: 2}}
+    - {key: tinygearsandsprings, name: Tiny gears and springs (assorted), kind: miscgear, system: {quantity: 2, weight: 1.5}}
+    - {key: woodenmodels, name: Wooden models and prototypes, kind: miscgear, system: {weight: 1.5}}
+    - {key: clockmakers, name: "Clockmaker’s and toymaker’s tools (files, drills, gauges)", kind: miscgear, system: {weight: 0.8}}
+    - {key: waxandfinishing, name: Wax and finishing materials, kind: miscgear, system: {weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -77,33 +93,39 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-cdgl}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Leather tool belt with pouches
+    - {key: cdgl, model: sohl-sohl-weapongear-cdgl}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: leathertoolbelt
+      name: Leather tool belt with pouches
       type: miscgear
       system: {shortcode: leathertoolbelt, weight: 1.5, value: 100, durability: 3}
-    - name: Wooden chest for clockwork and mechanism parts
+    - key: woodenchest
+      name: Wooden chest for clockwork and mechanism parts
       type: miscgear
       system: {shortcode: woodenchest, weight: 2, value: 100, durability: 3}
-    - name: Tiny gears and springs (assorted)
+    - key: tinygearsandsprings
+      name: Tiny gears and springs (assorted)
       type: miscgear
       system: {shortcode: tinygearsandsprings, quantity: 2, weight: 1.5, value: 100, durability: 3}
-    - name: Wooden models and prototypes
+    - key: woodenmodels
+      name: Wooden models and prototypes
       type: miscgear
       system: {shortcode: woodenmodels, weight: 1.5, value: 100, durability: 3}
-    - name: Clockmaker’s and toymaker’s tools (files, drills, gauges)
+    - key: clockmakers
+      name: Clockmaker’s and toymaker’s tools (files, drills, gauges)
       type: miscgear
       system: {shortcode: clockmakers, weight: 0.8, value: 50, durability: 4}
-    - name: Wax and finishing materials
+    - key: waxandfinishing
+      name: Wax and finishing materials
       type: miscgear
       system: {shortcode: waxandfinishing, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

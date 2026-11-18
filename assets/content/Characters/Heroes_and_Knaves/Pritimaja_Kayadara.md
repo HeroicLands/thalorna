@@ -29,6 +29,21 @@ data:
     mouth: full
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: leatherjewelerstool, name: "Leather jeweler's tool roll (files, chisels, gravers)", kind: miscgear, system: {weight: 1.2}}
+    - {key: brassmagnifyingglass, name: Brass magnifying glass, kind: miscgear, system: {weight: 0.2}}
+    - {key: polishingcloths, name: Polishing cloths and compound (bundle), kind: miscgear, system: {weight: 1}}
+    - {key: woodengemcase, name: Wooden gem case with compartments, kind: miscgear, system: {weight: 0.8}}
+    - {key: stonecollection, name: Stone collection (raw samples for study), kind: miscgear, system: {weight: 2}}
+    - {key: smallsilverpendant, name: Small silver pendant (personal work), kind: miscgear, system: {weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 25}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,32 +91,38 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 16}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Leather jeweler's tool roll (files, chisels, gravers)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: leatherjewelerstool
+      name: Leather jeweler's tool roll (files, chisels, gravers)
       type: miscgear
       system: {shortcode: leatherjewelerstool, weight: 1.2, value: 100, durability: 3}
-    - name: Brass magnifying glass
+    - key: brassmagnifyingglass
+      name: Brass magnifying glass
       type: miscgear
       system: {shortcode: brassmagnifyingglass, weight: 0.2, value: 100, durability: 3}
-    - name: Polishing cloths and compound (bundle)
+    - key: polishingcloths
+      name: Polishing cloths and compound (bundle)
       type: miscgear
       system: {shortcode: polishingcloths, weight: 1, value: 100, durability: 3}
-    - name: Wooden gem case with compartments
+    - key: woodengemcase
+      name: Wooden gem case with compartments
       type: miscgear
       system: {shortcode: woodengemcase, weight: 0.8, value: 100, durability: 3}
-    - name: Stone collection (raw samples for study)
+    - key: stonecollection
+      name: Stone collection (raw samples for study)
       type: miscgear
       system: {shortcode: stonecollection, weight: 2, value: 100, durability: 3}
-    - name: Small silver pendant (personal work)
+    - key: smallsilverpendant
+      name: Small silver pendant (personal work)
       type: miscgear
       system: {shortcode: smallsilverpendant, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 25}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 25}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

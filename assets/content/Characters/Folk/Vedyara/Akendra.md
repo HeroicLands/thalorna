@@ -27,6 +27,12 @@ data:
     hair_style: cropped
     extra_features: [Knife-scarred fingers, Gold rings in both ears]
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: slktunic, model: armorgear-slktunic, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: satchltmd, model: containergear-satchltmd, kind: container}
+    - {key: ringgold, model: miscgear-ringgold, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -65,11 +71,11 @@ sohl:
     - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-slktunic}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-containergear-satchltmd}
-    - {model: sohl-sohl-miscgear-ringgold}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: slktunic, model: sohl-sohl-armorgear-slktunic}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: satchltmd, model: sohl-sohl-containergear-satchltmd}
+    - {key: ringgold, model: sohl-sohl-miscgear-ringgold}
   system:
     body:
       structure:

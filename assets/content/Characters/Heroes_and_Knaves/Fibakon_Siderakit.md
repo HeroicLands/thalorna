@@ -28,6 +28,18 @@ data:
     nose: straight
     extra_features: [a tattoo of a fire on the leg]
   packFolder: helladbyzaria
+  items:
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: leatherbriefcase, name: Leather briefcase for trade documents, kind: miscgear, system: {weight: 1}}
+    - {key: samplesofgoods, name: "Samples of goods (spices, textiles)", kind: miscgear, system: {quantity: 5, weight: 1}}
+    - {key: tradeagreements, name: Trade agreements and contracts, kind: miscgear, system: {weight: 1}}
+    - {key: personalmerchant, name: Personal merchant ledger, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: inkandwritingquills, name: Ink and writing quills, kind: miscgear, system: {weight: 1}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -79,27 +91,32 @@ sohl:
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wclk}
-    - name: Leather briefcase for trade documents
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - key: leatherbriefcase
+      name: Leather briefcase for trade documents
       type: miscgear
       system: {shortcode: leatherbriefcase, weight: 1, value: 100, durability: 3}
-    - name: Samples of goods (spices, textiles)
+    - key: samplesofgoods
+      name: Samples of goods (spices, textiles)
       type: miscgear
       system: {shortcode: samplesofgoods, quantity: 5, weight: 1, value: 100, durability: 3}
-    - name: Trade agreements and contracts
+    - key: tradeagreements
+      name: Trade agreements and contracts
       type: miscgear
       system: {shortcode: tradeagreements, weight: 1, value: 100, durability: 3}
-    - name: Personal merchant ledger
+    - key: personalmerchant
+      name: Personal merchant ledger
       type: miscgear
       system: {shortcode: personalmerchant, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Ink and writing quills
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: inkandwritingquills
+      name: Ink and writing quills
       type: miscgear
       system: {shortcode: inkandwritingquills, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

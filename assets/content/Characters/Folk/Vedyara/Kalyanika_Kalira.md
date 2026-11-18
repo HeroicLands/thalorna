@@ -26,6 +26,14 @@ data:
     complexion: [smooth]
     extra_features: [Ink on the fingers of the right hand]
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: penquill, model: miscgear-penquill, kind: miscgear}
+    - {key: inkblk, model: miscgear-inkblk, kind: miscgear}
+    - {key: waxtablet, model: miscgear-waxtablet, kind: miscgear}
+    - {key: satchltmd, model: containergear-satchltmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -65,13 +73,13 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-miscgear-penquill}
-    - {model: sohl-sohl-miscgear-inkblk}
-    - {model: sohl-sohl-miscgear-waxtablet}
-    - {model: sohl-sohl-containergear-satchltmd}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: penquill, model: sohl-sohl-miscgear-penquill}
+    - {key: inkblk, model: sohl-sohl-miscgear-inkblk}
+    - {key: waxtablet, model: sohl-sohl-miscgear-waxtablet}
+    - {key: satchltmd, model: sohl-sohl-containergear-satchltmd}
   system:
     body:
       structure:

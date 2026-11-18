@@ -30,6 +30,21 @@ data:
     mouth: small
     extra_features: [a tattoo of a tree on the forearm]
   packFolder: midhalionvylaria
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: rhapr, model: armorgear-rhapr, kind: armor}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhkboot, model: armorgear-rhkboot, kind: armor}
+    - {key: kilnmaintenancetools, name: "Kiln maintenance tools (shovel, rake, poker)", kind: miscgear, system: {weight: 2}}
+    - {key: leathergloves, name: Leather gloves (heavy work), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: charcoalsamples, name: Charcoal samples (assorted grades), kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: firewoodbundle, name: Firewood bundle, kind: miscgear, system: {weight: 2}}
+    - {key: woodenmarkers, name: Wooden markers and measuring tools, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -79,30 +94,35 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-armorgear-rhapr}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhkboot}
-    - name: Kiln maintenance tools (shovel, rake, poker)
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: rhapr, model: sohl-sohl-armorgear-rhapr}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhkboot, model: sohl-sohl-armorgear-rhkboot}
+    - key: kilnmaintenancetools
+      name: Kiln maintenance tools (shovel, rake, poker)
       type: miscgear
       system: {shortcode: kilnmaintenancetools, weight: 2, value: 100, durability: 3}
-    - name: Leather gloves (heavy work)
+    - key: leathergloves
+      name: Leather gloves (heavy work)
       type: miscgear
       system: {shortcode: leathergloves, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Charcoal samples (assorted grades)
+    - key: charcoalsamples
+      name: Charcoal samples (assorted grades)
       type: miscgear
       system: {shortcode: charcoalsamples, weight: 1, quantity: 1, value: 100, durability: 3}
-    - name: Firewood bundle
+    - key: firewoodbundle
+      name: Firewood bundle
       type: miscgear
       system: {shortcode: firewoodbundle, weight: 2, value: 100, durability: 3}
-    - name: Wooden markers and measuring tools
+    - key: woodenmarkers
+      name: Wooden markers and measuring tools
       type: miscgear
       system: {shortcode: woodenmarkers, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

@@ -26,6 +26,19 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: sgskirt, model: armorgear-sgskirt, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: smallpouch, name: Small pouch for personal items, kind: miscgear, system: {weight: 1}}
+    - {key: cosmeticsandmakeup, name: Cosmetics and makeup, kind: miscgear, system: {weight: 1}}
+    - {key: herbalscentsandoils, name: Herbal scents and oils, kind: miscgear, system: {weight: 1}}
+    - {key: guildcommunication, name: Shrena communication tokens, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: encryptednotesfrom, name: Encrypted notes from the Adanshreni, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -73,28 +86,33 @@ sohl:
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-sgskirt}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - name: Small pouch for personal items
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: sgskirt, model: sohl-sohl-armorgear-sgskirt}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - key: smallpouch
+      name: Small pouch for personal items
       type: miscgear
       system: {shortcode: smallpouch, weight: 1, value: 100, durability: 3}
-    - name: Cosmetics and makeup
+    - key: cosmeticsandmakeup
+      name: Cosmetics and makeup
       type: miscgear
       system: {shortcode: cosmeticsandmakeup, weight: 1, value: 100, durability: 3}
-    - name: Herbal scents and oils
+    - key: herbalscentsandoils
+      name: Herbal scents and oils
       type: miscgear
       system: {shortcode: herbalscentsandoils, weight: 1, value: 100, durability: 3}
-    - name: Shrena communication tokens
+    - key: guildcommunication
+      name: Shrena communication tokens
       type: miscgear
       system: {shortcode: guildcommunication, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Encrypted notes from the Adanshreni
+    - key: encryptednotesfrom
+      name: Encrypted notes from the Adanshreni
       type: miscgear
       system: {shortcode: encryptednotesfrom, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

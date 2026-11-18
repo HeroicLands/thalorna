@@ -28,6 +28,23 @@ data:
     nose: hooked
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: helladbyzaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: leathermapcase, name: Leather map case, kind: miscgear, system: {weight: 1}}
+    - {key: brasssurveyors, name: Brass surveyor's compass, kind: miscgear, system: {weight: 1}}
+    - {key: cartographers, name: Cartographer's measuring tools, kind: miscgear, system: {weight: 0.5}}
+    - {key: charcoalsticks, name: Charcoal sticks (bundle), kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: parchment, model: miscgear-parchment, kind: miscgear, system: {quantity: 10}}
+    - {key: inkwellandquills, name: Inkwell and quills, kind: miscgear, system: {weight: 1}}
+    - {key: silvercrescentmoon, name: Silver crescent-moon amulet (Lizelas cult token), kind: miscgear, system: {weight: 1}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -76,34 +93,40 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Leather map case
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: leathermapcase
+      name: Leather map case
       type: miscgear
       system: {shortcode: leathermapcase, weight: 1, value: 100, durability: 3}
-    - name: Brass surveyor's compass
+    - key: brasssurveyors
+      name: Brass surveyor's compass
       type: miscgear
       system: {shortcode: brasssurveyors, weight: 1, value: 100, durability: 3}
-    - name: Cartographer's measuring tools
+    - key: cartographers
+      name: Cartographer's measuring tools
       type: miscgear
       system: {shortcode: cartographers, weight: 0.5, value: 100, durability: 3}
-    - name: Charcoal sticks (bundle)
+    - key: charcoalsticks
+      name: Charcoal sticks (bundle)
       type: miscgear
       system: {shortcode: charcoalsticks, quantity: 1, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-parchment, system: {quantity: 10}}
-    - name: Inkwell and quills
+    - {key: parchment, model: sohl-sohl-miscgear-parchment, system: {quantity: 10}}
+    - key: inkwellandquills
+      name: Inkwell and quills
       type: miscgear
       system: {shortcode: inkwellandquills, weight: 1, value: 100, durability: 3}
-    - name: Silver crescent-moon amulet (Lizelas cult token)
+    - key: silvercrescentmoon
+      name: Silver crescent-moon amulet (Lizelas cult token)
       type: miscgear
       system: {shortcode: silvercrescentmoon, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

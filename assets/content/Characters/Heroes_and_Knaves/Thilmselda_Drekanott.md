@@ -28,6 +28,19 @@ data:
     nose: straight
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: hsdress, model: armorgear-hsdress, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: innkeepersledger, name: Innkeeper's ledger and records, kind: miscgear, system: {weight: 1}}
+    - {key: cookingimplements, name: Cooking implements and utensils, kind: miscgear, system: {weight: 1}}
+    - {key: herbalremedies, name: Herbal remedies and tinctures, kind: miscgear, system: {quantity: 5, weight: 1}}
+    - {key: provisions, name: "Provisions (dried herbs, spices)", kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: parchmentandwriting, name: Parchment and writing supplies, kind: miscgear, system: {weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 10}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -74,28 +87,33 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-hsdress}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - name: Innkeeper's ledger and records
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: hsdress, model: sohl-sohl-armorgear-hsdress}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - key: innkeepersledger
+      name: Innkeeper's ledger and records
       type: miscgear
       system: {shortcode: innkeepersledger, weight: 1, value: 100, durability: 3}
-    - name: Cooking implements and utensils
+    - key: cookingimplements
+      name: Cooking implements and utensils
       type: miscgear
       system: {shortcode: cookingimplements, weight: 1, value: 100, durability: 3}
-    - name: Herbal remedies and tinctures
+    - key: herbalremedies
+      name: Herbal remedies and tinctures
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 5, weight: 1, value: 100, durability: 3}
-    - name: Provisions (dried herbs, spices)
+    - key: provisions
+      name: Provisions (dried herbs, spices)
       type: miscgear
       system: {shortcode: provisions, quantity: 3, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Parchment and writing supplies
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: parchmentandwriting
+      name: Parchment and writing supplies
       type: miscgear
       system: {shortcode: parchmentandwriting, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 10}}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 10}}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

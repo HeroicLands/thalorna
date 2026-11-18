@@ -27,6 +27,22 @@ data:
     face_shape: long
     extra_features: [a scar running down the back]
   packFolder: ankarisnordlands
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: ltshirt, model: armorgear-ltshirt, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: largecanvasbag, name: Large canvas bag for tools, kind: miscgear, system: {weight: 1}}
+    - {key: sawfortimberwork, name: Saw for timber work, kind: miscgear, system: {weight: 1.5}}
+    - {key: ropeandcordage, name: Rope and cordage, kind: miscgear, system: {weight: 1}}
+    - {key: saplingseeds, name: Sapling seeds for forest restoration, kind: miscgear, system: {weight: 0.5}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -72,31 +88,36 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-armorgear-ltshirt}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Large canvas bag for tools
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: ltshirt, model: sohl-sohl-armorgear-ltshirt}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: largecanvasbag
+      name: Large canvas bag for tools
       type: miscgear
       system: {shortcode: largecanvasbag, weight: 1, value: 100, durability: 3}
-    - name: Saw for timber work
+    - key: sawfortimberwork
+      name: Saw for timber work
       type: miscgear
       system: {shortcode: sawfortimberwork, weight: 1.5, value: 100, durability: 3}
-    - name: Rope and cordage
+    - key: ropeandcordage
+      name: Rope and cordage
       type: miscgear
       system: {shortcode: ropeandcordage, weight: 1, value: 100, durability: 3}
-    - name: Sapling seeds for forest restoration
+    - key: saplingseeds
+      name: Sapling seeds for forest restoration
       type: miscgear
       system: {shortcode: saplingseeds, weight: 0.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

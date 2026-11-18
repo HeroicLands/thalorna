@@ -29,6 +29,16 @@ data:
     brow: heavy
     extra_features: [missing two fingers on left hand, thick neck, nose broken multiple times]
   packFolder: ankarisvrystwald
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: psht, model: armorgear-psht, kind: armor}
+    - {key: rhcap, model: armorgear-rhcap, kind: armor}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 7}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -63,15 +73,15 @@ sohl:
     - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 12}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-psht}
-    - {model: sohl-sohl-armorgear-rhcap}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 7}}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: psht, model: sohl-sohl-armorgear-psht}
+    - {key: rhcap, model: sohl-sohl-armorgear-rhcap}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 7}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -28,6 +28,29 @@ data:
     mouth: full
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: ankarisvedyara
+  items:
+    - {key: scmtr, model: weapongear-scmtr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: bosunswhistle, name: Bosun’s whistle (brass), kind: miscgear, system: {weight: 0.2}}
+    - {key: ropecoil, name: "Rope coil (hemp, multi-purpose)", kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: fishingnetandhooks, name: Fishing net and hooks, kind: miscgear, system: {weight: 1.5}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - {key: tarandroperepairkit, name: Tar and rope repair kit, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: flaskofrum, name: Flask of rum (personal), kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 25}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: leatherbag, name: Leather bag for personal items, kind: miscgear, system: {weight: 1}}
+    - {key: ropes, name: Ropes, kind: miscgear, system: {weight: 1}}
+    - {key: navigationtools, name: Navigation tools, kind: miscgear, system: {weight: 1}}
+    - {key: shipslog, name: Ship's log, kind: miscgear, system: {weight: 1}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -78,46 +101,56 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-scmtr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Bosun’s whistle (brass)
+    - {key: scmtr, model: sohl-sohl-weapongear-scmtr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: bosunswhistle
+      name: Bosun’s whistle (brass)
       type: miscgear
       system: {shortcode: bosunswhistle, weight: 0.2, value: 100, durability: 3}
-    - name: Rope coil (hemp, multi-purpose)
+    - key: ropecoil
+      name: Rope coil (hemp, multi-purpose)
       type: miscgear
       system: {shortcode: ropecoil, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Fishing net and hooks
+    - key: fishingnetandhooks
+      name: Fishing net and hooks
       type: miscgear
       system: {shortcode: fishingnetandhooks, weight: 1.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - name: Tar and rope repair kit
+    - key: tarandroperepairkit
+      name: Tar and rope repair kit
       type: miscgear
       system: {shortcode: tarandroperepairkit, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - name: Flask of rum (personal)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - key: flaskofrum
+      name: Flask of rum (personal)
       type: miscgear
       system: {shortcode: flaskofrum, quantity: 1, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 25}}
-    - {model: sohl-sohl-containergear-bktlrg}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Leather bag for personal items
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 25}}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: leatherbag
+      name: Leather bag for personal items
       type: miscgear
       system: {shortcode: leatherbag, weight: 1, value: 100, durability: 3}
-    - name: Ropes
+    - key: ropes
+      name: Ropes
       type: miscgear
       system: {shortcode: ropes, weight: 1, value: 100, durability: 3}
-    - name: Navigation tools
+    - key: navigationtools
+      name: Navigation tools
       type: miscgear
       system: {shortcode: navigationtools, weight: 1, value: 100, durability: 3}
-    - name: Ship's log
+    - key: shipslog
+      name: Ship's log
       type: miscgear
       system: {shortcode: shipslog, weight: 1, value: 100, durability: 3}
   system:

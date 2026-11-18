@@ -30,6 +30,17 @@ data:
     complexion: [rough]
     extra_features: [a thin scar from ear to jawline on the right side, sharp pointed features]
   packFolder: ankarisvrystwald
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: dgr-2, model: weapongear-dgr, kind: weapon}
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltbrcr, model: armorgear-ltbrcr, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container, system: {quantity: 2}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 22}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -68,16 +79,16 @@ sohl:
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 8}}
     - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-dgr, name: Dagger 1, system: {shortcode: Dgr1}}
-    - {model: sohl-sohl-weapongear-dgr, name: Dagger 2, system: {shortcode: Dgr2}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltbrcr}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-containergear-bpchmd, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 22}}
-    - {model: sohl-sohl-miscgear-tndrbx}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr, name: Dagger 1, system: {shortcode: Dgr1}}
+    - {key: dgr-2, model: sohl-sohl-weapongear-dgr, name: Dagger 2, system: {shortcode: Dgr2}}
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltbrcr, model: sohl-sohl-armorgear-ltbrcr}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd, system: {quantity: 2}}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 22}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
   system:
     body:
       structure:

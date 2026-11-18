@@ -26,6 +26,16 @@ data:
     complexion: [weathered]
     extra_features: [Two fingers of the left hand stiff from frostbite taken on a winter crossing]
   packFolder: ankarisvedyara
+  items:
+    - {key: shkhlynswd, model: weapongear-shkhlynswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: ringgold, model: miscgear-ringgold, kind: miscgear}
+    - {key: passtoken, model: miscgear-passtoken, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -71,15 +81,15 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 25}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 55}}
-    - {model: weapongear-shkhlynswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: sohl-sohl-miscgear-ringgold}
-    - {model: miscgear-passtoken}
+    - {key: shkhlynswd, model: weapongear-shkhlynswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: ringgold, model: sohl-sohl-miscgear-ringgold}
+    - {key: passtoken, model: miscgear-passtoken}
   system:
     body:
       structure:

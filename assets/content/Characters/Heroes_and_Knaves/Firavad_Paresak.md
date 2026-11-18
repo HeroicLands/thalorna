@@ -32,6 +32,21 @@ data:
     brow: bushy
     extra_features: []
   packFolder: dunharatribes
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: bvcloak, model: armorgear-bvcloak, kind: clothing}
+    - {key: leatherpouch, name: Leather pouch with sacred shamanic herbs, kind: miscgear, system: {weight: 1}}
+    - {key: bonecharms, name: Bone charms and talismans, kind: miscgear, system: {quantity: 5, weight: 1}}
+    - {key: ritualartifacts, name: Ritual artifacts and ceremonial items, kind: miscgear, system: {weight: 1}}
+    - {key: healingpoultices, name: Healing poultices and medicine bundles, kind: miscgear, system: {quantity: 4, weight: 1}}
+    - {key: drumorceremonial, name: Drum or ceremonial percussion instrument, kind: miscgear, system: {weight: 1}}
+    - {key: dreamstones, name: Dream stones and meditation aids, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -79,32 +94,38 @@ sohl:
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-mysticalability-trnc, system: {masteryLevelBase: 75}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-bvcloak}
-    - name: Leather pouch with sacred shamanic herbs
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: bvcloak, model: sohl-sohl-armorgear-bvcloak}
+    - key: leatherpouch
+      name: Leather pouch with sacred shamanic herbs
       type: miscgear
       system: {shortcode: leatherpouch, weight: 1, value: 100, durability: 3}
-    - name: Bone charms and talismans
+    - key: bonecharms
+      name: Bone charms and talismans
       type: miscgear
       system: {shortcode: bonecharms, quantity: 5, weight: 1, value: 100, durability: 3}
-    - name: Ritual artifacts and ceremonial items
+    - key: ritualartifacts
+      name: Ritual artifacts and ceremonial items
       type: miscgear
       system: {shortcode: ritualartifacts, weight: 1, value: 100, durability: 3}
-    - name: Healing poultices and medicine bundles
+    - key: healingpoultices
+      name: Healing poultices and medicine bundles
       type: miscgear
       system: {shortcode: healingpoultices, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Drum or ceremonial percussion instrument
+    - key: drumorceremonial
+      name: Drum or ceremonial percussion instrument
       type: miscgear
       system: {shortcode: drumorceremonial, weight: 1, value: 100, durability: 3}
-    - name: Dream stones and meditation aids
+    - key: dreamstones
+      name: Dream stones and meditation aids
       type: miscgear
       system: {shortcode: dreamstones, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

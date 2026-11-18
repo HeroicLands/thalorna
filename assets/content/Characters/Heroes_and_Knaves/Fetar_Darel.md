@@ -28,6 +28,13 @@ data:
     complexion: [freckled]
     extra_features: []
   packFolder: aureldiaprovenzia
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 88}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -77,12 +84,12 @@ sohl:
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 66}}
     - {model: sohl-sohl-skill-shpw, system: {masteryLevelBase: 37}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 31}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 88}}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 88}}
   system:
     body:
       structure:

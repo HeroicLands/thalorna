@@ -30,6 +30,22 @@ data:
     complexion: []
     extra_features: []
   packFolder: northernfertileregionokharis
+  items:
+    - {key: tlwr, model: weapongear-tlwr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: spiritblade, name: Spirit Blade (legendary curved sword with ethereal properties), kind: miscgear, system: {weight: 1}}
+    - {key: leatherbracers, name: Leather bracers with spiritual symbols, kind: miscgear, system: {weight: 1}}
+    - {key: tribalmarkings, name: Tribal markings and body wrappings, kind: miscgear, system: {weight: 1}}
+    - {key: bonetalismans, name: Bone talismans and spirit tokens, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: meditationherbs, name: Meditation herbs and ritual supplies, kind: miscgear, system: {weight: 1}}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -79,31 +95,36 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 42}}
-    - {model: weapongear-tlwr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - name: Spirit Blade (legendary curved sword with ethereal properties)
+    - {key: tlwr, model: weapongear-tlwr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - key: spiritblade
+      name: Spirit Blade (legendary curved sword with ethereal properties)
       type: miscgear
       system: {shortcode: spiritblade, weight: 1, value: 100, durability: 3}
-    - name: Leather bracers with spiritual symbols
+    - key: leatherbracers
+      name: Leather bracers with spiritual symbols
       type: miscgear
       system: {shortcode: leatherbracers, weight: 1, value: 100, durability: 3}
-    - name: Tribal markings and body wrappings
+    - key: tribalmarkings
+      name: Tribal markings and body wrappings
       type: miscgear
       system: {shortcode: tribalmarkings, weight: 1, value: 100, durability: 3}
-    - name: Bone talismans and spirit tokens
+    - key: bonetalismans
+      name: Bone talismans and spirit tokens
       type: miscgear
       system: {shortcode: bonetalismans, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Meditation herbs and ritual supplies
+    - key: meditationherbs
+      name: Meditation herbs and ritual supplies
       type: miscgear
       system: {shortcode: meditationherbs, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

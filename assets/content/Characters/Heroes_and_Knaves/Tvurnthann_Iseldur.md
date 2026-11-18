@@ -27,6 +27,24 @@ data:
     face_shape: long
     extra_features: [a tattoo of a dolphin on the left wrist]
   packFolder: ankarisnordlands
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: wrobe, model: armorgear-wrobe, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: leathersatchel, name: Leather satchel with magical texts, kind: miscgear, system: {weight: 2.5}}
+    - {key: grimoirebound, name: Grimoire bound in leather, kind: miscgear, system: {weight: 1.2}}
+    - {key: collectionofrunes, name: Collection of runes and ritual marks (carved bone), kind: miscgear, system: {weight: 0.5}}
+    - {key: inkwellandquills, name: Ink well and quills (for spell notation), kind: miscgear, system: {weight: 1}}
+    - {key: ritualcandles, name: "Ritual candles (wax, scented)", kind: miscgear, system: {quantity: 12, weight: 1}}
+    - {key: parchment, name: Parchment (spell paper), kind: miscgear, system: {quantity: 20, weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 20}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: spellbook, name: Spellbook, kind: miscgear, system: {weight: 1}}
+    - {key: arcanefocus, name: Arcane focus, kind: miscgear, system: {weight: 1}}
+    - {key: magicalreagents, name: Magical reagents, kind: miscgear, system: {weight: 1}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -74,39 +92,48 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-wrobe}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Leather satchel with magical texts
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: wrobe, model: sohl-sohl-armorgear-wrobe}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: leathersatchel
+      name: Leather satchel with magical texts
       type: miscgear
       system: {shortcode: leathersatchel, weight: 2.5, value: 100, durability: 3}
-    - name: Grimoire bound in leather
+    - key: grimoirebound
+      name: Grimoire bound in leather
       type: miscgear
       system: {shortcode: grimoirebound, weight: 1.2, value: 100, durability: 3}
-    - name: Collection of runes and ritual marks (carved bone)
+    - key: collectionofrunes
+      name: Collection of runes and ritual marks (carved bone)
       type: miscgear
       system: {shortcode: collectionofrunes, weight: 0.5, value: 100, durability: 3}
-    - name: Ink well and quills (for spell notation)
+    - key: inkwellandquills
+      name: Ink well and quills (for spell notation)
       type: miscgear
       system: {shortcode: inkwellandquills, weight: 1, value: 100, durability: 3}
-    - name: Ritual candles (wax, scented)
+    - key: ritualcandles
+      name: Ritual candles (wax, scented)
       type: miscgear
       system: {shortcode: ritualcandles, quantity: 12, weight: 1, value: 100, durability: 3}
-    - name: Parchment (spell paper)
+    - key: parchment
+      name: Parchment (spell paper)
       type: miscgear
       system: {shortcode: parchment, quantity: 20, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - name: Spellbook
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - key: spellbook
+      name: Spellbook
       type: miscgear
       system: {shortcode: spellbook, weight: 1, value: 100, durability: 3}
-    - name: Arcane focus
+    - key: arcanefocus
+      name: Arcane focus
       type: miscgear
       system: {shortcode: arcanefocus, weight: 1, value: 100, durability: 3}
-    - name: Magical reagents
+    - key: magicalreagents
+      name: Magical reagents
       type: miscgear
       system: {shortcode: magicalreagents, weight: 1, value: 100, durability: 3}
   system:

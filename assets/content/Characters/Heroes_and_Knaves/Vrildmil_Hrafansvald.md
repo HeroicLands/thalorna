@@ -27,6 +27,22 @@ data:
     nose: upturned
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltstunic, model: armorgear-ltstunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: huntingknife, name: Hunting knife (well-maintained), kind: miscgear, system: {weight: 1}}
+    - {key: bedroll, name: Bedroll (military style), kind: miscgear, system: {weight: 1}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 3}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: militarydocuments, name: Military documents and insignia, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -72,29 +88,33 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltstunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - name: Hunting knife (well-maintained)
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltstunic, model: sohl-sohl-armorgear-ltstunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - key: huntingknife
+      name: Hunting knife (well-maintained)
       type: miscgear
       system: {shortcode: huntingknife, weight: 1, value: 100, durability: 3}
-    - name: Bedroll (military style)
+    - key: bedroll
+      name: Bedroll (military style)
       type: miscgear
       system: {shortcode: bedroll, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
-    - name: Whetstone
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - name: Military documents and insignia
+    - key: militarydocuments
+      name: Military documents and insignia
       type: miscgear
       system: {shortcode: militarydocuments, value: 2, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

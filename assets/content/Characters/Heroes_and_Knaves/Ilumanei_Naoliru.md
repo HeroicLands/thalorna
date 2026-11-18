@@ -29,6 +29,23 @@ data:
     nose: narrow
     extra_features: [a scar on the chin]
   packFolder: heroesandknaveskalihara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: leatherportfolio, name: Leather portfolio with writing implements, kind: miscgear, system: {weight: 1.2}}
+    - {key: setofqualityquills, name: Set of quality quills (goose and reed), kind: miscgear, system: {quantity: 20, weight: 1}}
+    - {key: multiplebottles, name: Multiple bottles of inks (various colors), kind: miscgear, system: {weight: 1}}
+    - {key: parchment, name: Parchment (prime quality sheets), kind: miscgear, system: {quantity: 50, weight: 1}}
+    - {key: accountingledgers, name: Accounting ledgers (blank and personal), kind: miscgear, system: {weight: 2}}
+    - {key: inkstoneandgrinding, name: Ink stone and grinding rod, kind: miscgear, system: {weight: 0.5}}
+    - {key: blottingsandandcloth, name: Blotting sand and cloth, kind: miscgear, system: {weight: 0.3}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 20}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -74,36 +91,43 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Leather portfolio with writing implements
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: leatherportfolio
+      name: Leather portfolio with writing implements
       type: miscgear
       system: {shortcode: leatherportfolio, weight: 1.2, value: 100, durability: 3}
-    - name: Set of quality quills (goose and reed)
+    - key: setofqualityquills
+      name: Set of quality quills (goose and reed)
       type: miscgear
       system: {shortcode: setofqualityquills, quantity: 20, weight: 1, value: 100, durability: 3}
-    - name: Multiple bottles of inks (various colors)
+    - key: multiplebottles
+      name: Multiple bottles of inks (various colors)
       type: miscgear
       system: {shortcode: multiplebottles, weight: 1, value: 100, durability: 3}
-    - name: Parchment (prime quality sheets)
+    - key: parchment
+      name: Parchment (prime quality sheets)
       type: miscgear
       system: {shortcode: parchment, quantity: 50, weight: 1, value: 100, durability: 3}
-    - name: Accounting ledgers (blank and personal)
+    - key: accountingledgers
+      name: Accounting ledgers (blank and personal)
       type: miscgear
       system: {shortcode: accountingledgers, weight: 2, value: 100, durability: 3}
-    - name: Ink stone and grinding rod
+    - key: inkstoneandgrinding
+      name: Ink stone and grinding rod
       type: miscgear
       system: {shortcode: inkstoneandgrinding, weight: 0.5, value: 100, durability: 3}
-    - name: Blotting sand and cloth
+    - key: blottingsandandcloth
+      name: Blotting sand and cloth
       type: miscgear
       system: {shortcode: blottingsandandcloth, weight: 0.3, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

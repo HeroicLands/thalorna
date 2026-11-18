@@ -34,6 +34,27 @@ data:
     mouth: full
     extra_features: []
   packFolder: aureldiatarvenia
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: lnc, model: weapongear-lnc, kind: weapon}
+    - {key: knsh, model: weapongear-knsh, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: plbreast, model: armorgear-plbreast, kind: armor}
+    - {key: plgrvs, model: armorgear-plgrvs, kind: armor}
+    - {key: plvamb, model: armorgear-plvamb, kind: armor}
+    - {key: plspld, model: armorgear-plspld, kind: armor}
+    - {key: plgthlm, model: armorgear-plgthlm, kind: armor}
+    - {key: plkncp, model: armorgear-plkncp, kind: armor}
+    - {key: plcou, model: armorgear-plcou, kind: armor}
+    - {key: plrebr, model: armorgear-plrebr, kind: armor}
+    - {key: knightsheraldic, name: Knight's heraldic surcoat (quartered arms), kind: miscgear, system: {weight: 0.5}}
+    - {key: silkcloak, name: Silk cloak with knightly insignia, kind: miscgear, system: {weight: 1}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 5}}
+    - {key: whetstoneforblade, name: Whetstone for blade maintenance, kind: miscgear, system: {weight: 1}}
+    - {key: smallholyicon, name: Small holy icon (Brazemas), kind: miscgear, system: {weight: 1}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -82,34 +103,38 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-lnc}
-    - {model: sohl-sohl-weapongear-knsh}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-plbreast}
-    - {model: sohl-sohl-armorgear-plgrvs}
-    - {model: sohl-sohl-armorgear-plvamb}
-    - {model: sohl-sohl-armorgear-plspld}
-    - {model: sohl-sohl-armorgear-plgthlm}
-    - {model: sohl-sohl-armorgear-plkncp}
-    - {model: sohl-sohl-armorgear-plcou}
-    - {model: sohl-sohl-armorgear-plrebr}
-    - name: Knight's heraldic surcoat (quartered arms)
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: lnc, model: sohl-sohl-weapongear-lnc}
+    - {key: knsh, model: sohl-sohl-weapongear-knsh}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: plbreast, model: sohl-sohl-armorgear-plbreast}
+    - {key: plgrvs, model: sohl-sohl-armorgear-plgrvs}
+    - {key: plvamb, model: sohl-sohl-armorgear-plvamb}
+    - {key: plspld, model: sohl-sohl-armorgear-plspld}
+    - {key: plgthlm, model: sohl-sohl-armorgear-plgthlm}
+    - {key: plkncp, model: sohl-sohl-armorgear-plkncp}
+    - {key: plcou, model: sohl-sohl-armorgear-plcou}
+    - {key: plrebr, model: sohl-sohl-armorgear-plrebr}
+    - key: knightsheraldic
+      name: Knight's heraldic surcoat (quartered arms)
       type: miscgear
       system: {shortcode: knightsheraldic, weight: 0.5, value: 100, durability: 3}
-    - name: Silk cloak with knightly insignia
+    - key: silkcloak
+      name: Silk cloak with knightly insignia
       type: miscgear
       system: {shortcode: silkcloak, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
-    - name: Whetstone for blade maintenance
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1, value: 100, durability: 3}
-    - name: Small holy icon (Brazemas)
+    - key: smallholyicon
+      name: Small holy icon (Brazemas)
       type: miscgear
       system: {shortcode: smallholyicon, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

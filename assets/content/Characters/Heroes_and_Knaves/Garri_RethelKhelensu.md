@@ -30,6 +30,20 @@ data:
     mouth: full
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: regkhhk
+  items:
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: quills, name: Quills (various styles), kind: miscgear, system: {quantity: 6, weight: 1}}
+    - {key: inkandwriting, name: Ink and writing supplies, kind: miscgear, system: {weight: 1}}
+    - {key: philosophicaltexts, name: Philosophical texts (personal collection), kind: miscgear, system: {quantity: 4, weight: 1}}
+    - {key: parchmentforwriting, name: Parchment for writing, kind: miscgear, system: {quantity: 8, weight: 1}}
+    - {key: meditationbeads, name: Meditation beads, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,29 +90,34 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Quills (various styles)
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: quills
+      name: Quills (various styles)
       type: miscgear
       system: {shortcode: quills, quantity: 6, weight: 1, value: 100, durability: 3}
-    - name: Ink and writing supplies
+    - key: inkandwriting
+      name: Ink and writing supplies
       type: miscgear
       system: {shortcode: inkandwriting, weight: 1, value: 100, durability: 3}
-    - name: Philosophical texts (personal collection)
+    - key: philosophicaltexts
+      name: Philosophical texts (personal collection)
       type: miscgear
       system: {shortcode: philosophicaltexts, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Parchment for writing
+    - key: parchmentforwriting
+      name: Parchment for writing
       type: miscgear
       system: {shortcode: parchmentforwriting, quantity: 8, weight: 1, value: 100, durability: 3}
-    - name: Meditation beads
+    - key: meditationbeads
+      name: Meditation beads
       type: miscgear
       system: {shortcode: meditationbeads, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

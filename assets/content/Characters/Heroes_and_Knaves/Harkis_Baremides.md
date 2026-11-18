@@ -31,6 +31,22 @@ data:
     mouth: full
     extra_features: [a scar on the left calf]
   packFolder: midhalionvylaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltshirt, model: armorgear-ltshirt, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: beltpouchwithvials, name: Belt pouch with vials and phials, kind: miscgear, system: {quantity: 1, weight: 1.5}}
+    - {key: poisonsamples, name: "Poison samples (locked, labeled)", kind: miscgear, system: {weight: 0.8}}
+    - {key: antidoterecipes, name: Antidote recipes (hidden manuscript), kind: miscgear, system: {weight: 0.3}}
+    - {key: medicaltoolkit, name: "Medical toolkit (lancets, herbs, bandages)", kind: miscgear, system: {weight: 1.2}}
+    - {key: mortarandpestle, name: Mortar and pestle (bronze), kind: miscgear, system: {weight: 1.5}}
+    - {key: alchemistsmeasuring, name: Alchemist's measuring scale, kind: miscgear, system: {weight: 1.5}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -80,33 +96,39 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltshirt}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - name: Belt pouch with vials and phials
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltshirt, model: sohl-sohl-armorgear-ltshirt}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - key: beltpouchwithvials
+      name: Belt pouch with vials and phials
       type: miscgear
       system: {shortcode: beltpouchwithvials, quantity: 1, weight: 1.5, value: 100, durability: 3}
-    - name: Poison samples (locked, labeled)
+    - key: poisonsamples
+      name: Poison samples (locked, labeled)
       type: miscgear
       system: {shortcode: poisonsamples, weight: 0.8, value: 100, durability: 3}
-    - name: Antidote recipes (hidden manuscript)
+    - key: antidoterecipes
+      name: Antidote recipes (hidden manuscript)
       type: miscgear
       system: {shortcode: antidoterecipes, weight: 0.3, value: 100, durability: 3}
-    - name: Medical toolkit (lancets, herbs, bandages)
+    - key: medicaltoolkit
+      name: Medical toolkit (lancets, herbs, bandages)
       type: miscgear
       system: {shortcode: medicaltoolkit, weight: 1.2, value: 100, durability: 4}
-    - name: Mortar and pestle (bronze)
+    - key: mortarandpestle
+      name: Mortar and pestle (bronze)
       type: miscgear
       system: {shortcode: mortarandpestle, weight: 1.5, value: 100, durability: 3}
-    - name: Alchemist's measuring scale
+    - key: alchemistsmeasuring
+      name: Alchemist's measuring scale
       type: miscgear
       system: {shortcode: alchemistsmeasuring, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

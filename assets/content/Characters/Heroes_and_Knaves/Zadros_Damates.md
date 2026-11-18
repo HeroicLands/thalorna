@@ -28,6 +28,21 @@ data:
     nose: snub
     extra_features: []
   packFolder: midhalionvylaria
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: ltshirt, model: armorgear-ltshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: woodentoolbox, name: Wooden toolbox with carving implements, kind: miscgear, system: {weight: 2}}
+    - {key: chiselsandgouges, name: Chisels and gouges, kind: miscgear, system: {weight: 1}}
+    - {key: woodpolish, name: Wood polish and finishes, kind: miscgear, system: {weight: 0.5}}
+    - {key: samplewoods, name: Sample woods for display, kind: miscgear, system: {weight: 1}}
+    - {key: whetstoneforcarving, name: Whetstone for carving tools, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -75,30 +90,35 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-ltshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Wooden toolbox with carving implements
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: ltshirt, model: sohl-sohl-armorgear-ltshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: woodentoolbox
+      name: Wooden toolbox with carving implements
       type: miscgear
       system: {shortcode: woodentoolbox, weight: 2, value: 100, durability: 3}
-    - name: Chisels and gouges
+    - key: chiselsandgouges
+      name: Chisels and gouges
       type: miscgear
       system: {shortcode: chiselsandgouges, weight: 1, value: 100, durability: 3}
-    - name: Wood polish and finishes
+    - key: woodpolish
+      name: Wood polish and finishes
       type: miscgear
       system: {shortcode: woodpolish, weight: 0.5, value: 100, durability: 3}
-    - name: Sample woods for display
+    - key: samplewoods
+      name: Sample woods for display
       type: miscgear
       system: {shortcode: samplewoods, weight: 1, value: 100, durability: 3}
-    - name: Whetstone for carving tools
+    - key: whetstoneforcarving
+      name: Whetstone for carving tools
       type: miscgear
       system: {shortcode: whetstoneforcarving, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

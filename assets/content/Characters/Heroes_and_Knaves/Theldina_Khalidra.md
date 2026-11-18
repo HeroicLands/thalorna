@@ -28,6 +28,13 @@ data:
     hair_texture: wavy
     extra_features: []
   packFolder: helladhelionis
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 52}}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear, system: {quantity: 4}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -77,12 +84,12 @@ sohl:
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 27}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 27}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 44}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 52}}
-    - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 4}}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 52}}
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 4}}
   system:
     body:
       structure:

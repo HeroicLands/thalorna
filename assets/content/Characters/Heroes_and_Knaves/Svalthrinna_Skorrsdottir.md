@@ -27,6 +27,20 @@ data:
     complexion: [scarred]
     extra_features: [lean and wiry, scar on her right hand]
   packFolder: ankarisnordlands
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ccowl, model: armorgear-ccowl, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: plhhelm, model: armorgear-plhhelm, kind: armor}
+    - {key: plvamb, model: armorgear-plvamb, kind: armor}
+    - {key: mbyr, model: armorgear-mbyr, kind: armor}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 168}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -72,19 +86,19 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 46}}
     - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ccowl}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-plhhelm}
-    - {model: sohl-sohl-armorgear-plvamb}
-    - {model: sohl-sohl-armorgear-mbyr}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 168}}
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ccowl, model: sohl-sohl-armorgear-ccowl}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: plhhelm, model: sohl-sohl-armorgear-plhhelm}
+    - {key: plvamb, model: sohl-sohl-armorgear-plvamb}
+    - {key: mbyr, model: sohl-sohl-armorgear-mbyr}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 168}}
   system:
     body:
       structure:

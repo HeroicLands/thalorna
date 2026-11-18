@@ -34,6 +34,26 @@ data:
     mouth: full
     extra_features: [a bald head]
   packFolder: helladbyzaria
+  items:
+    - {key: bstdswd, model: weapongear-bstdswd, kind: weapon}
+    - {key: shkn, model: weapongear-shkn, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: plbreast, model: armorgear-plbreast, kind: armor}
+    - {key: plgrvs, model: armorgear-plgrvs, kind: armor}
+    - {key: plvamb, model: armorgear-plvamb, kind: armor}
+    - {key: plspld, model: armorgear-plspld, kind: armor}
+    - {key: pl34hlm, model: armorgear-pl34hlm, kind: armor}
+    - {key: plkncp, model: armorgear-plkncp, kind: armor}
+    - {key: plcou, model: armorgear-plcou, kind: armor}
+    - {key: plrebr, model: armorgear-plrebr, kind: armor}
+    - {key: knightssurcoat, name: Knight's surcoat with Black Flame sigil, kind: miscgear, system: {weight: 0.6}}
+    - {key: leatherridinggloves, name: Leather riding gloves, kind: miscgear, system: {weight: 1}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 3}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 4}}
+    - {key: whetstoneandoil, name: Whetstone and oil for weapons, kind: miscgear, system: {weight: 1}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -82,31 +102,34 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 64}}
-    - {model: sohl-sohl-weapongear-bstdswd}
-    - {model: sohl-sohl-weapongear-shkn}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-plbreast}
-    - {model: sohl-sohl-armorgear-plgrvs}
-    - {model: sohl-sohl-armorgear-plvamb}
-    - {model: sohl-sohl-armorgear-plspld}
-    - {model: sohl-sohl-armorgear-pl34hlm}
-    - {model: sohl-sohl-armorgear-plkncp}
-    - {model: sohl-sohl-armorgear-plcou}
-    - {model: sohl-sohl-armorgear-plrebr}
-    - name: Knight's surcoat with Black Flame sigil
+    - {key: bstdswd, model: sohl-sohl-weapongear-bstdswd}
+    - {key: shkn, model: sohl-sohl-weapongear-shkn}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: plbreast, model: sohl-sohl-armorgear-plbreast}
+    - {key: plgrvs, model: sohl-sohl-armorgear-plgrvs}
+    - {key: plvamb, model: sohl-sohl-armorgear-plvamb}
+    - {key: plspld, model: sohl-sohl-armorgear-plspld}
+    - {key: pl34hlm, model: sohl-sohl-armorgear-pl34hlm}
+    - {key: plkncp, model: sohl-sohl-armorgear-plkncp}
+    - {key: plcou, model: sohl-sohl-armorgear-plcou}
+    - {key: plrebr, model: sohl-sohl-armorgear-plrebr}
+    - key: knightssurcoat
+      name: Knight's surcoat with Black Flame sigil
       type: miscgear
       system: {shortcode: knightssurcoat, weight: 0.6, value: 100, durability: 3}
-    - name: Leather riding gloves
+    - key: leatherridinggloves
+      name: Leather riding gloves
       type: miscgear
       system: {shortcode: leatherridinggloves, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
-    - name: Whetstone and oil for weapons
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - key: whetstoneandoil
+      name: Whetstone and oil for weapons
       type: miscgear
       system: {shortcode: whetstoneandoil, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

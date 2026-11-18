@@ -32,6 +32,19 @@ data:
     mouth: full
     extra_features: []
   packFolder: northernfertileregionbethua
+  items:
+    - {key: slkdress, model: armorgear-slkdress, kind: clothing}
+    - {key: vglv, model: armorgear-vglv, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 150}}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear, system: {quantity: 2}}
+    - {key: merchantsledger, name: Merchant's ledger (personal business records), kind: miscgear, system: {weight: 1}}
+    - {key: traderoutemap, name: Trade route map (hand-annotated), kind: miscgear, system: {weight: 1}}
+    - {key: writingmaterials, name: "Writing materials (ink, quills, parchment)", kind: miscgear, system: {weight: 1}}
+    - {key: merchantfamily, name: Merchant family credentials, kind: miscgear, system: {weight: 1}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -76,26 +89,30 @@ sohl:
     - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 22}}
-    - {model: sohl-sohl-armorgear-slkdress}
-    - {model: sohl-sohl-armorgear-vglv}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 150}}
-    - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 2}}
-    - name: Merchant's ledger (personal business records)
+    - {key: slkdress, model: sohl-sohl-armorgear-slkdress}
+    - {key: vglv, model: sohl-sohl-armorgear-vglv}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 150}}
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 2}}
+    - key: merchantsledger
+      name: Merchant's ledger (personal business records)
       type: miscgear
       system: {shortcode: merchantsledger, weight: 1, value: 100, durability: 3}
-    - name: Trade route map (hand-annotated)
+    - key: traderoutemap
+      name: Trade route map (hand-annotated)
       type: miscgear
       system: {shortcode: traderoutemap, weight: 1, value: 100, durability: 3}
-    - name: Writing materials (ink, quills, parchment)
+    - key: writingmaterials
+      name: Writing materials (ink, quills, parchment)
       type: miscgear
       system: {shortcode: writingmaterials, weight: 1, value: 100, durability: 3}
-    - name: Merchant family credentials
+    - key: merchantfamily
+      name: Merchant family credentials
       type: miscgear
       system: {shortcode: merchantfamily, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

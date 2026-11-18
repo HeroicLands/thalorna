@@ -26,6 +26,19 @@ data:
     complexion: [clear]
     extra_features: [Chalk-dust ground into the creases of her fingers]
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wdress, model: armorgear-wdress, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: bookbase, model: miscgear-bookbase, kind: miscgear}
+    - {key: waxtablet, model: miscgear-waxtablet, kind: miscgear}
+    - {key: inkblk, model: miscgear-inkblk, kind: miscgear}
+    - {key: penquill, model: miscgear-penquill, kind: miscgear}
+    - {key: candlestal, model: miscgear-candlestal, kind: miscgear}
+    - {key: satchltmd, model: containergear-satchltmd, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -69,18 +82,18 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 15}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 75}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wdress}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-miscgear-bookbase}
-    - {model: sohl-sohl-miscgear-waxtablet}
-    - {model: sohl-sohl-miscgear-inkblk}
-    - {model: sohl-sohl-miscgear-penquill}
-    - {model: sohl-sohl-miscgear-candlestal}
-    - {model: sohl-sohl-containergear-satchltmd}
-    - {model: sohl-sohl-miscgear-tndrbx}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wdress, model: sohl-sohl-armorgear-wdress}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: bookbase, model: sohl-sohl-miscgear-bookbase}
+    - {key: waxtablet, model: sohl-sohl-miscgear-waxtablet}
+    - {key: inkblk, model: sohl-sohl-miscgear-inkblk}
+    - {key: penquill, model: sohl-sohl-miscgear-penquill}
+    - {key: candlestal, model: sohl-sohl-miscgear-candlestal}
+    - {key: satchltmd, model: sohl-sohl-containergear-satchltmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
   system:
     body:
       structure:

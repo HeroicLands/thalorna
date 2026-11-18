@@ -32,6 +32,25 @@ data:
     mouth: wide
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: lbw100, model: weapongear-lbw100, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: mshirt, model: armorgear-mshirt, kind: armor}
+    - {key: mleg, model: armorgear-mleg, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: mhbgn, model: armorgear-mhbgn, kind: armor}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 30}}
+    - {key: quiver, name: Quiver (leather), kind: miscgear, system: {weight: 1}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 5}}
+    - {key: rope, name: Rope (hemp), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: fishinglineandhooks, name: Fishing line and hooks, kind: miscgear, system: {weight: 0.3}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 20}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -77,33 +96,37 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-weapongear-lbw100}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-mshirt}
-    - {model: sohl-sohl-armorgear-mleg}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-mhbgn}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 30}}
-    - name: Quiver (leather)
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: lbw100, model: sohl-sohl-weapongear-lbw100}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: mshirt, model: sohl-sohl-armorgear-mshirt}
+    - {key: mleg, model: sohl-sohl-armorgear-mleg}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: mhbgn, model: sohl-sohl-armorgear-mhbgn}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 30}}
+    - key: quiver
+      name: Quiver (leather)
       type: miscgear
       data: {icon: icon-quiver}
       system: {shortcode: quiver, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
-    - name: Rope (hemp)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
+    - key: rope
+      name: Rope (hemp)
       type: miscgear
       system: {shortcode: rope, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Fishing line and hooks
+    - key: fishinglineandhooks
+      name: Fishing line and hooks
       type: miscgear
       system: {shortcode: fishinglineandhooks, weight: 0.3, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -29,6 +29,23 @@ data:
     mouth: full
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: lkni, model: weapongear-lkni, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: leathersatchel, name: Leather satchel for trap components and tools, kind: miscgear, system: {weight: 1}}
+    - {key: steelanimaltraps, name: Steel animal traps (assorted sizes), kind: miscgear, system: {quantity: 3, weight: 1.2}}
+    - {key: snaresandtripcord, name: Snares and trip-cord (bundled), kind: miscgear, system: {weight: 1}}
+    - {key: driedmeatandgame, name: Dried meat and game provisions, kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: flintandsteelforfire, name: Flint and steel for fire, kind: miscgear, system: {weight: 1}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -78,32 +95,37 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-lkni}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - name: Leather satchel for trap components and tools
+    - {key: lkni, model: sohl-sohl-weapongear-lkni}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - key: leathersatchel
+      name: Leather satchel for trap components and tools
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1, value: 100, durability: 3}
-    - name: Steel animal traps (assorted sizes)
+    - key: steelanimaltraps
+      name: Steel animal traps (assorted sizes)
       type: miscgear
       system: {shortcode: steelanimaltraps, quantity: 3, weight: 1.2, value: 100, durability: 3}
-    - name: Snares and trip-cord (bundled)
+    - key: snaresandtripcord
+      name: Snares and trip-cord (bundled)
       type: miscgear
       system: {shortcode: snaresandtripcord, weight: 1, value: 100, durability: 3}
-    - name: Dried meat and game provisions
+    - key: driedmeatandgame
+      name: Dried meat and game provisions
       type: miscgear
       system: {shortcode: driedmeatandgame, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Flint and steel for fire
+    - key: flintandsteelforfire
+      name: Flint and steel for fire
       type: miscgear
       system: {shortcode: flintandsteelforfire, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

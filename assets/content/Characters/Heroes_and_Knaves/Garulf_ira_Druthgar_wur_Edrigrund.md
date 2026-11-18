@@ -29,6 +29,19 @@ data:
     brow: heavy
     extra_features: [a broken nose, massive hands]
   packFolder: ankarisvrystwald
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: falcn, model: weapongear-falcn, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: mvest, model: armorgear-mvest, kind: armor}
+    - {key: kvamb, model: armorgear-kvamb, kind: armor}
+    - {key: plhhelm, model: armorgear-plhhelm, kind: armor}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 16}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -80,18 +93,18 @@ sohl:
     - {model: sohl-sohl-skill-shpw, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 59}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-falcn}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-mvest}
-    - {model: sohl-sohl-armorgear-kvamb}
-    - {model: sohl-sohl-armorgear-plhhelm}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 16}}
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: falcn, model: sohl-sohl-weapongear-falcn}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: mvest, model: sohl-sohl-armorgear-mvest}
+    - {key: kvamb, model: sohl-sohl-armorgear-kvamb}
+    - {key: plhhelm, model: sohl-sohl-armorgear-plhhelm}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 16}}
   system:
     body:
       structure:

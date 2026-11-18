@@ -30,6 +30,20 @@ data:
     mouth: wide
     extra_features: [a scar on the right side of the face]
   packFolder: midhalionvylaria
+  items:
+    - {key: vshirt, model: armorgear-vshirt, kind: clothing}
+    - {key: vbrch, model: armorgear-vbrch, kind: clothing}
+    - {key: vcap, model: armorgear-vcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: leatherboundnotebook, name: Leather-bound notebook (script drafts and notes), kind: miscgear, system: {weight: 1}}
+    - {key: writingkit, name: "Writing kit (quill, inks, parchment)", kind: miscgear, system: {weight: 1}}
+    - {key: collectionofdramatic, name: Collection of dramatic scripts (personal works), kind: miscgear, system: {weight: 1}}
+    - {key: theatricalprops, name: "Theatrical props (small, personal collection)", kind: miscgear, system: {weight: 1}}
+    - {key: mask, name: "Mask (theatrical, personal)", kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -73,29 +87,34 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 12}}
-    - {model: sohl-sohl-armorgear-vshirt}
-    - {model: sohl-sohl-armorgear-vbrch}
-    - {model: sohl-sohl-armorgear-vcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - name: Leather-bound notebook (script drafts and notes)
+    - {key: vshirt, model: sohl-sohl-armorgear-vshirt}
+    - {key: vbrch, model: sohl-sohl-armorgear-vbrch}
+    - {key: vcap, model: sohl-sohl-armorgear-vcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - key: leatherboundnotebook
+      name: Leather-bound notebook (script drafts and notes)
       type: miscgear
       system: {shortcode: leatherboundnotebook, weight: 1, value: 100, durability: 3}
-    - name: Writing kit (quill, inks, parchment)
+    - key: writingkit
+      name: Writing kit (quill, inks, parchment)
       type: miscgear
       system: {shortcode: writingkit, weight: 1, value: 100, durability: 3}
-    - name: Collection of dramatic scripts (personal works)
+    - key: collectionofdramatic
+      name: Collection of dramatic scripts (personal works)
       type: miscgear
       system: {shortcode: collectionofdramatic, weight: 1, value: 100, durability: 3}
-    - name: Theatrical props (small, personal collection)
+    - key: theatricalprops
+      name: Theatrical props (small, personal collection)
       type: miscgear
       system: {shortcode: theatricalprops, weight: 1, value: 100, durability: 3}
-    - name: Mask (theatrical, personal)
+    - key: mask
+      name: Mask (theatrical, personal)
       type: miscgear
       system: {shortcode: mask, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

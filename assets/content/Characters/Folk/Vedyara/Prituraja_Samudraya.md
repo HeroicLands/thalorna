@@ -21,6 +21,16 @@ data:
   frame: medium
   appearance: {eye_color: amber, hair_color: black, skin_color: golden, complexion: [clear]}
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: monsooncloak, model: miscgear-monsooncloak, kind: miscgear}
+    - {key: letterofcredit, model: miscgear-letterofcredit, kind: miscgear}
+    - {key: scalesweig, model: miscgear-scalesweig, kind: miscgear}
+    - {key: waxtablet, model: miscgear-waxtablet, kind: miscgear}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: satchltmd, model: containergear-satchltmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -61,15 +71,15 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 55}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: miscgear-monsooncloak}
-    - {model: miscgear-letterofcredit}
-    - {model: sohl-sohl-miscgear-scalesweig}
-    - {model: sohl-sohl-miscgear-waxtablet}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: sohl-sohl-containergear-satchltmd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: monsooncloak, model: miscgear-monsooncloak}
+    - {key: letterofcredit, model: miscgear-letterofcredit}
+    - {key: scalesweig, model: sohl-sohl-miscgear-scalesweig}
+    - {key: waxtablet, model: sohl-sohl-miscgear-waxtablet}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: satchltmd, model: sohl-sohl-containergear-satchltmd}
   system:
     body:
       structure:

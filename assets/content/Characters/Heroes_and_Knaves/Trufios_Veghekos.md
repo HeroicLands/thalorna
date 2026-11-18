@@ -26,6 +26,21 @@ data:
     complexion: [weathered]
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: ltshirt, model: armorgear-ltshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: rhapr, model: armorgear-rhapr, kind: armor}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: canvastoolbag, name: "Canvas tool bag with saws, chisels, planes", kind: miscgear, system: {weight: 3}}
+    - {key: blueprintsandplans, name: Blueprints and plans case (leather), kind: miscgear, system: {weight: 1}}
+    - {key: measuringrope, name: Measuring rope and chalk, kind: miscgear, system: {weight: 1}}
+    - {key: caulkingtools, name: Caulking tools and pitch, kind: miscgear, system: {weight: 1}}
+    - {key: timbergrainsamples, name: Timber grain samples (reference collection), kind: miscgear, system: {weight: 1}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -79,30 +94,35 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-armorgear-ltshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-rhapr}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Canvas tool bag with saws, chisels, planes
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: ltshirt, model: sohl-sohl-armorgear-ltshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: rhapr, model: sohl-sohl-armorgear-rhapr}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: canvastoolbag
+      name: Canvas tool bag with saws, chisels, planes
       type: miscgear
       system: {shortcode: canvastoolbag, weight: 3, value: 100, durability: 3}
-    - name: Blueprints and plans case (leather)
+    - key: blueprintsandplans
+      name: Blueprints and plans case (leather)
       type: miscgear
       system: {shortcode: blueprintsandplans, weight: 1, value: 100, durability: 3}
-    - name: Measuring rope and chalk
+    - key: measuringrope
+      name: Measuring rope and chalk
       type: miscgear
       system: {shortcode: measuringrope, weight: 1, value: 100, durability: 3}
-    - name: Caulking tools and pitch
+    - key: caulkingtools
+      name: Caulking tools and pitch
       type: miscgear
       system: {shortcode: caulkingtools, weight: 1, value: 100, durability: 3}
-    - name: Timber grain samples (reference collection)
+    - key: timbergrainsamples
+      name: Timber grain samples (reference collection)
       type: miscgear
       system: {shortcode: timbergrainsamples, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

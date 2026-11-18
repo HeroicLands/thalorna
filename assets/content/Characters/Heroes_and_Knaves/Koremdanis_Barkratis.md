@@ -28,6 +28,20 @@ data:
     brow: heavy
     extra_features: [a tattoo of a dragonfly on the neck]
   packFolder: midhalionvylaria
+  items:
+    - {key: estc, model: weapongear-estc, kind: weapon}
+    - {key: pcoat, model: armorgear-pcoat, kind: armor}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: woodenweaponcase, name: Wooden weapon case (sturdy construction), kind: miscgear, system: {weight: 1}}
+    - {key: practicefoils, name: "Practice foils (padded, 3)", kind: miscgear, system: {weight: 1}}
+    - {key: leatherfencingmask, name: Leather fencing mask, kind: miscgear, system: {weight: 1}}
+    - {key: instructionalmanuals, name: Instructional manuals on the Path of Breath, kind: miscgear, system: {weight: 1}}
+    - {key: whetstoneforblade, name: Whetstone for blade maintenance, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -74,29 +88,34 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-weapongear-estc}
-    - {model: sohl-sohl-armorgear-pcoat}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Wooden weapon case (sturdy construction)
+    - {key: estc, model: sohl-sohl-weapongear-estc}
+    - {key: pcoat, model: sohl-sohl-armorgear-pcoat}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: woodenweaponcase
+      name: Wooden weapon case (sturdy construction)
       type: miscgear
       system: {shortcode: woodenweaponcase, weight: 1, value: 100, durability: 3}
-    - name: Practice foils (padded, 3)
+    - key: practicefoils
+      name: Practice foils (padded, 3)
       type: miscgear
       system: {shortcode: practicefoils, weight: 1, value: 100, durability: 3}
-    - name: Leather fencing mask
+    - key: leatherfencingmask
+      name: Leather fencing mask
       type: miscgear
       system: {shortcode: leatherfencingmask, weight: 1, value: 100, durability: 3}
-    - name: Instructional manuals on the Path of Breath
+    - key: instructionalmanuals
+      name: Instructional manuals on the Path of Breath
       type: miscgear
       system: {shortcode: instructionalmanuals, weight: 1, value: 100, durability: 3}
-    - name: Whetstone for blade maintenance
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

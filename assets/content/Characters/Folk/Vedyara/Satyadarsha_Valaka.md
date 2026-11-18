@@ -27,6 +27,14 @@ data:
     complexion: [smooth]
     extra_features: [A horseman's broad shoulders, A bow-callus on the left hand]
   packFolder: ankarisvedyara
+  items:
+    - {key: lbw75, model: weapongear-lbw75, kind: weapon}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile}
+    - {key: quiversmsh, model: containergear-quiversmsh, kind: container}
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: saddlewar, model: miscgear-saddlewar, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -68,13 +76,13 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 55}}
-    - {model: sohl-sohl-weapongear-lbw75}
-    - {model: sohl-sohl-projectilegear-arwstd}
-    - {model: sohl-sohl-containergear-quiversmsh}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-miscgear-saddlewar}
+    - {key: lbw75, model: sohl-sohl-weapongear-lbw75}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd}
+    - {key: quiversmsh, model: sohl-sohl-containergear-quiversmsh}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: saddlewar, model: sohl-sohl-miscgear-saddlewar}
   system:
     body:
       structure:

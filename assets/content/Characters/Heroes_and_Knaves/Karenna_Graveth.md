@@ -27,6 +27,20 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: aureldiatarvenia
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: leathersatchel, name: Leather satchel for official documents, kind: miscgear, system: {weight: 1}}
+    - {key: scrollsofroyal, name: Scrolls of royal announcements, kind: miscgear, system: {weight: 1}}
+    - {key: familyseal, name: Family seal (Graveth), kind: miscgear, system: {weight: 1}}
+    - {key: silverwritingpen, name: Silver writing pen, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: inkbottle, name: Ink bottle and parchment sheaf, kind: miscgear, system: {weight: 1}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -73,29 +87,34 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-sgtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - name: Leather satchel for official documents
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: sgtrsr, model: sohl-sohl-armorgear-sgtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - key: leathersatchel
+      name: Leather satchel for official documents
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1, value: 100, durability: 3}
-    - name: Scrolls of royal announcements
+    - key: scrollsofroyal
+      name: Scrolls of royal announcements
       type: miscgear
       system: {shortcode: scrollsofroyal, weight: 1, value: 100, durability: 3}
-    - name: Family seal (Graveth)
+    - key: familyseal
+      name: Family seal (Graveth)
       type: miscgear
       system: {shortcode: familyseal, weight: 1, value: 100, durability: 3}
-    - name: Silver writing pen
+    - key: silverwritingpen
+      name: Silver writing pen
       type: miscgear
       system: {shortcode: silverwritingpen, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Ink bottle and parchment sheaf
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: inkbottle
+      name: Ink bottle and parchment sheaf
       type: miscgear
       system: {shortcode: inkbottle, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

@@ -32,6 +32,20 @@ data:
     nose: straight
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: haxe, model: weapongear-haxe, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: shipwrightsleather, name: Shipwright's leather tool belt, kind: miscgear, system: {weight: 1}}
+    - {key: specialized, name: Specialized shipbuilding tools, kind: miscgear, system: {weight: 1}}
+    - {key: measuringscales, name: Measuring scales and marking tools, kind: miscgear, system: {weight: 1}}
+    - {key: ropeandcordage, name: Rope and cordage, kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -81,27 +95,31 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-haxe}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - name: Shipwright's leather tool belt
+    - {key: haxe, model: sohl-sohl-weapongear-haxe}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - key: shipwrightsleather
+      name: Shipwright's leather tool belt
       type: miscgear
       system: {shortcode: shipwrightsleather, weight: 1, value: 100, durability: 3}
-    - name: Specialized shipbuilding tools
+    - key: specialized
+      name: Specialized shipbuilding tools
       type: miscgear
       system: {shortcode: specialized, weight: 1, value: 100, durability: 3}
-    - name: Measuring scales and marking tools
+    - key: measuringscales
+      name: Measuring scales and marking tools
       type: miscgear
       system: {shortcode: measuringscales, weight: 1, value: 100, durability: 3}
-    - name: Rope and cordage
+    - key: ropeandcordage
+      name: Rope and cordage
       type: miscgear
       system: {shortcode: ropeandcordage, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

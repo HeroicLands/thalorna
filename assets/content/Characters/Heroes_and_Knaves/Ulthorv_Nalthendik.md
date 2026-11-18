@@ -29,6 +29,20 @@ data:
     mouth: thin
     extra_features: [a tattoo of a tiger on the forearm]
   packFolder: ankarisnordlands
+  items:
+    - {key: stk, model: weapongear-stk, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - {key: clothsackforcarrying, name: Cloth sack for carrying mining tools and ore, kind: miscgear, system: {weight: 1}}
+    - {key: pickaxe, name: Pickaxe (mining tool), kind: miscgear, system: {weight: 1}}
+    - {key: oldmapofthemine, name: Old map of the mine workings, kind: miscgear, system: {weight: 1}}
+    - {key: measuringtools, name: Measuring tools and mining markers, kind: miscgear, system: {weight: 1}}
+    - {key: ropeandtwine, name: Rope and twine (utility), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: chiselandhammer, name: Chisel and hammer (mining implements), kind: miscgear, system: {weight: 0.4}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 2}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -83,31 +97,37 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-stk}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-hscap}
-    - name: Cloth sack for carrying mining tools and ore
+    - {key: stk, model: sohl-sohl-weapongear-stk}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - key: clothsackforcarrying
+      name: Cloth sack for carrying mining tools and ore
       type: miscgear
       system: {shortcode: clothsackforcarrying, weight: 1, value: 100, durability: 3}
-    - name: Pickaxe (mining tool)
+    - key: pickaxe
+      name: Pickaxe (mining tool)
       type: miscgear
       system: {shortcode: pickaxe, weight: 1, value: 100, durability: 3}
-    - name: Old map of the mine workings
+    - key: oldmapofthemine
+      name: Old map of the mine workings
       type: miscgear
       system: {shortcode: oldmapofthemine, weight: 1, value: 100, durability: 3}
-    - name: Measuring tools and mining markers
+    - key: measuringtools
+      name: Measuring tools and mining markers
       type: miscgear
       system: {shortcode: measuringtools, weight: 1, value: 100, durability: 3}
-    - name: Rope and twine (utility)
+    - key: ropeandtwine
+      name: Rope and twine (utility)
       type: miscgear
       system: {shortcode: ropeandtwine, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Chisel and hammer (mining implements)
+    - key: chiselandhammer
+      name: Chisel and hammer (mining implements)
       type: miscgear
       system: {shortcode: chiselandhammer, weight: 0.4, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 2}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

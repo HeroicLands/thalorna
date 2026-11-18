@@ -28,6 +28,23 @@ data:
     brow: heavy
     extra_features: [a burn mark on the left hand]
   packFolder: kingdomofamradad
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: horsegroomingkit, name: "Horse grooming kit (brushes, combs, cloth)", kind: miscgear, system: {weight: 1}}
+    - {key: herbalremedies, name: Herbal remedies for equines (dried herbs bundle), kind: miscgear, system: {weight: 0.6}}
+    - {key: feedbags, name: Feed bags (canvas), kind: miscgear, system: {quantity: 4, weight: 1}}
+    - {key: rope, name: Rope (hemp), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - {key: linimentformuscle, name: Liniment for muscle soreness, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: flaskofrosewater, name: Flask of rosewater (personal), kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 15}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -74,36 +91,43 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Horse grooming kit (brushes, combs, cloth)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: horsegroomingkit
+      name: Horse grooming kit (brushes, combs, cloth)
       type: miscgear
       system: {shortcode: horsegroomingkit, weight: 1, value: 100, durability: 3}
-    - name: Herbal remedies for equines (dried herbs bundle)
+    - key: herbalremedies
+      name: Herbal remedies for equines (dried herbs bundle)
       type: miscgear
       system: {shortcode: herbalremedies, weight: 0.6, value: 100, durability: 3}
-    - name: Feed bags (canvas)
+    - key: feedbags
+      name: Feed bags (canvas)
       type: miscgear
       system: {shortcode: feedbags, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Rope (hemp)
+    - key: rope
+      name: Rope (hemp)
       type: miscgear
       system: {shortcode: rope, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - name: Liniment for muscle soreness
+    - key: linimentformuscle
+      name: Liniment for muscle soreness
       type: miscgear
       system: {shortcode: linimentformuscle, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Flask of rosewater (personal)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: flaskofrosewater
+      name: Flask of rosewater (personal)
       type: miscgear
       system: {shortcode: flaskofrosewater, quantity: 1, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -27,6 +27,12 @@ data:
     hair_style: long
     extra_features: [A fresh flower garland, changed every morning]
   packFolder: ankarisvedyara
+  items:
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: incense, model: miscgear-incense, kind: miscgear}
+    - {key: flutewoode, model: miscgear-flutewoode, kind: miscgear}
+    - {key: candlestal, model: miscgear-candlestal, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -70,11 +76,11 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 10}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 55}}
     - {model: skill-kamavrata, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-miscgear-incense}
-    - {model: sohl-sohl-miscgear-flutewoode}
-    - {model: sohl-sohl-miscgear-candlestal}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: incense, model: sohl-sohl-miscgear-incense}
+    - {key: flutewoode, model: sohl-sohl-miscgear-flutewoode}
+    - {key: candlestal, model: sohl-sohl-miscgear-candlestal}
   system:
     body:
       structure:

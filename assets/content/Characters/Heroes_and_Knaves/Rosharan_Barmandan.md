@@ -28,6 +28,26 @@ data:
     mouth: full
     extra_features: [a tattoo of a bear on the left arm]
   packFolder: kingdomofamradad
+  items:
+    - {key: haxe, model: weapongear-haxe, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: shipwrightstools, name: "Shipwright's tools (planes, saws, chisels, measuring)", kind: miscgear, system: {weight: 3}}
+    - {key: leathertoolroll, name: Leather tool roll and belt, kind: miscgear, system: {weight: 0.8}}
+    - {key: scaledrawingsandship, name: Scale drawings and ship plans (rolled parchment), kind: miscgear, system: {weight: 1}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - {key: rope, name: "Rope (hemp, various weights)", kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: boatbuildingnails, name: Boat-building nails and fasteners, kind: miscgear, system: {weight: 1.5}}
+    - {key: sealingwaxandink, name: Sealing wax and ink (for drafting), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 25}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -80,39 +100,46 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-weapongear-haxe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - name: Shipwright's tools (planes, saws, chisels, measuring)
+    - {key: haxe, model: sohl-sohl-weapongear-haxe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - key: shipwrightstools
+      name: Shipwright's tools (planes, saws, chisels, measuring)
       type: miscgear
       system: {shortcode: shipwrightstools, weight: 3, value: 100, durability: 3}
-    - name: Leather tool roll and belt
+    - key: leathertoolroll
+      name: Leather tool roll and belt
       type: miscgear
       system: {shortcode: leathertoolroll, weight: 0.8, value: 100, durability: 3}
-    - name: Scale drawings and ship plans (rolled parchment)
+    - key: scaledrawingsandship
+      name: Scale drawings and ship plans (rolled parchment)
       type: miscgear
       system: {shortcode: scaledrawingsandship, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - name: Rope (hemp, various weights)
+    - key: rope
+      name: Rope (hemp, various weights)
       type: miscgear
       system: {shortcode: rope, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Boat-building nails and fasteners
+    - key: boatbuildingnails
+      name: Boat-building nails and fasteners
       type: miscgear
       system: {shortcode: boatbuildingnails, weight: 1.5, value: 100, durability: 3}
-    - name: Sealing wax and ink (for drafting)
+    - key: sealingwaxandink
+      name: Sealing wax and ink (for drafting)
       type: miscgear
       system: {shortcode: sealingwaxandink, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 25}}
-    - {model: sohl-sohl-containergear-bktlrg}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 25}}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

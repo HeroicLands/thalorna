@@ -28,6 +28,22 @@ data:
     brow: arched
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: mshirt, model: armorgear-mshirt, kind: armor}
+    - {key: mleg, model: armorgear-mleg, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: herbalremedies, name: Herbal remedies and healing poultices, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: survivalgear, name: "Survival gear (rope, hooks, line)", kind: miscgear, system: {weight: 0.4}}
+    - {key: whetstoneforblade, name: Whetstone for blade maintenance, kind: miscgear, system: {weight: 1}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 4}}
+    - {key: personaleffects, name: "Personal effects (old letters, mementos)", kind: miscgear, system: {weight: 1}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -76,29 +92,33 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-mshirt}
-    - {model: sohl-sohl-armorgear-mleg}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - name: Herbal remedies and healing poultices
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: mshirt, model: sohl-sohl-armorgear-mshirt}
+    - {key: mleg, model: sohl-sohl-armorgear-mleg}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - key: herbalremedies
+      name: Herbal remedies and healing poultices
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Survival gear (rope, hooks, line)
+    - key: survivalgear
+      name: Survival gear (rope, hooks, line)
       type: miscgear
       system: {shortcode: survivalgear, weight: 0.4, value: 100, durability: 3}
-    - name: Whetstone for blade maintenance
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
-    - name: Personal effects (old letters, mementos)
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - key: personaleffects
+      name: Personal effects (old letters, mementos)
       type: miscgear
       system: {shortcode: personaleffects, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -27,6 +27,22 @@ data:
     nose: straight
     extra_features: [a tattoo of a butterfly on the neck]
   packFolder: ankarisvedyara
+  items:
+    - {key: waxe, model: weapongear-waxe, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: largewoodenchest, name: Large wooden chest for tools and materials, kind: miscgear, system: {weight: 2.5}}
+    - {key: saw, name: Saw (hand saw for woodworking), kind: miscgear, system: {weight: 1}}
+    - {key: woodglueandfinishing, name: Wood glue and finishing oils, kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: planingandshaving, name: Planing and shaving tools, kind: miscgear, system: {weight: 0.6}}
+    - {key: measuringtools, name: Measuring tools and squares, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -75,31 +91,36 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-waxe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Large wooden chest for tools and materials
+    - {key: waxe, model: sohl-sohl-weapongear-waxe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: largewoodenchest
+      name: Large wooden chest for tools and materials
       type: miscgear
       system: {shortcode: largewoodenchest, weight: 2.5, value: 100, durability: 3}
-    - name: Saw (hand saw for woodworking)
+    - key: saw
+      name: Saw (hand saw for woodworking)
       type: miscgear
       system: {shortcode: saw, weight: 1, value: 100, durability: 3}
-    - name: Wood glue and finishing oils
+    - key: woodglueandfinishing
+      name: Wood glue and finishing oils
       type: miscgear
       system: {shortcode: woodglueandfinishing, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Planing and shaving tools
+    - key: planingandshaving
+      name: Planing and shaving tools
       type: miscgear
       system: {shortcode: planingandshaving, weight: 0.6, value: 100, durability: 3}
-    - name: Measuring tools and squares
+    - key: measuringtools
+      name: Measuring tools and squares
       type: miscgear
       system: {shortcode: measuringtools, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

@@ -27,6 +27,28 @@ data:
     complexion: [scarred]
     extra_features: [a scar running down the right leg]
   packFolder: regkhhk
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: lbw75, model: weapongear-lbw75, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 20}}
+    - {key: quiver, name: Quiver (leather), kind: miscgear, system: {weight: 1}}
+    - {key: leathersatchel, name: Leather satchel for navigational documents, kind: miscgear, system: {weight: 1}}
+    - {key: starcharts, name: Star charts and nautical maps (rolled), kind: miscgear, system: {weight: 0.8}}
+    - {key: brasscompass, name: Brass compass, kind: miscgear, system: {weight: 0.3}}
+    - {key: fishinghooksandlines, name: Fishing hooks and lines, kind: miscgear, system: {weight: 0.3}}
+    - {key: rope, name: "Rope (hemp, coiled)", kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 22}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: cargomanifests, name: Cargo manifests, kind: miscgear, system: {weight: 1}}
+    - {key: navigationtools, name: Navigation tools, kind: miscgear, system: {weight: 1}}
+    - {key: maps, name: Maps, kind: miscgear, system: {weight: 1}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -77,44 +99,52 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 12}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-weapongear-lbw75}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 20}}
-    - name: Quiver (leather)
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: lbw75, model: sohl-sohl-weapongear-lbw75}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 20}}
+    - key: quiver
+      name: Quiver (leather)
       type: miscgear
       data: {icon: icon-quiver}
       system: {shortcode: quiver, weight: 1, value: 100, durability: 3}
-    - name: Leather satchel for navigational documents
+    - key: leathersatchel
+      name: Leather satchel for navigational documents
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1, value: 100, durability: 3}
-    - name: Star charts and nautical maps (rolled)
+    - key: starcharts
+      name: Star charts and nautical maps (rolled)
       type: miscgear
       system: {shortcode: starcharts, weight: 0.8, value: 100, durability: 3}
-    - name: Brass compass
+    - key: brasscompass
+      name: Brass compass
       type: miscgear
       system: {shortcode: brasscompass, weight: 0.3, value: 100, durability: 3}
-    - name: Fishing hooks and lines
+    - key: fishinghooksandlines
+      name: Fishing hooks and lines
       type: miscgear
       system: {shortcode: fishinghooksandlines, weight: 0.3, value: 100, durability: 3}
-    - name: Rope (hemp, coiled)
+    - key: rope
+      name: Rope (hemp, coiled)
       type: miscgear
       system: {shortcode: rope, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 22}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Cargo manifests
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 22}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: cargomanifests
+      name: Cargo manifests
       type: miscgear
       system: {shortcode: cargomanifests, weight: 1, value: 100, durability: 3}
-    - name: Navigation tools
+    - key: navigationtools
+      name: Navigation tools
       type: miscgear
       system: {shortcode: navigationtools, weight: 1, value: 100, durability: 3}
-    - {name: Maps, type: miscgear, system: {shortcode: maps, weight: 1, value: 100, durability: 3}}
+    - {key: maps, name: Maps, type: miscgear, system: {shortcode: maps, weight: 1, value: 100, durability: 3}}
   system:
     body:
       structure:

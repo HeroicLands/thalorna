@@ -30,6 +30,20 @@ data:
     nose: narrow
     extra_features: []
   packFolder: aureldiaelavendre
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: wcboot, model: armorgear-wcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: leatherbagforscripts, name: Leather bag for scripts, kind: miscgear, system: {weight: 0.5}}
+    - {key: theatercostumes, name: Theater costumes and changes, kind: miscgear, system: {weight: 2}}
+    - {key: makeupkit, name: Makeup kit with cosmetics, kind: miscgear, system: {weight: 0.3}}
+    - {key: collectionofdramatic, name: Collection of dramatic scripts, kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: lute, name: Lute, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -75,27 +89,31 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 12}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-wcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Leather bag for scripts
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: wcboot, model: sohl-sohl-armorgear-wcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: leatherbagforscripts
+      name: Leather bag for scripts
       type: miscgear
       system: {shortcode: leatherbagforscripts, weight: 0.5, value: 100, durability: 3}
-    - name: Theater costumes and changes
+    - key: theatercostumes
+      name: Theater costumes and changes
       type: miscgear
       system: {shortcode: theatercostumes, weight: 2, value: 100, durability: 3}
-    - name: Makeup kit with cosmetics
+    - key: makeupkit
+      name: Makeup kit with cosmetics
       type: miscgear
       system: {shortcode: makeupkit, weight: 0.3, value: 100, durability: 3}
-    - name: Collection of dramatic scripts
+    - key: collectionofdramatic
+      name: Collection of dramatic scripts
       type: miscgear
       system: {shortcode: collectionofdramatic, quantity: 1, weight: 1, value: 100, durability: 3}
-    - {name: Lute, type: miscgear, system: {shortcode: lute, weight: 1, value: 100, durability: 3}}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: lute, name: Lute, type: miscgear, system: {shortcode: lute, weight: 1, value: 100, durability: 3}}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

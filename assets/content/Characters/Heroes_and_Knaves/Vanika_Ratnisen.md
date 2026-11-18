@@ -30,6 +30,20 @@ data:
     mouth: wide
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: falcn, model: weapongear-falcn, kind: weapon}
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: rhapr, model: armorgear-rhapr, kind: armor}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: largecookingpot, name: Large cooking pot (iron), kind: miscgear, system: {weight: 3}}
+    - {key: claystoragepots, name: Clay storage pots, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: woodenladleandspoons, name: Wooden ladle and spoons, kind: miscgear, system: {weight: 0.5}}
+    - {key: whetstoneforcleaver, name: Whetstone for cleaver, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -78,27 +92,31 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 12}}
-    - {model: sohl-sohl-weapongear-falcn}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-rhapr}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Large cooking pot (iron)
+    - {key: falcn, model: sohl-sohl-weapongear-falcn}
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: rhapr, model: sohl-sohl-armorgear-rhapr}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: largecookingpot
+      name: Large cooking pot (iron)
       type: miscgear
       system: {shortcode: largecookingpot, weight: 3, value: 100, durability: 3}
-    - name: Clay storage pots
+    - key: claystoragepots
+      name: Clay storage pots
       type: miscgear
       system: {shortcode: claystoragepots, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Wooden ladle and spoons
+    - key: woodenladleandspoons
+      name: Wooden ladle and spoons
       type: miscgear
       system: {shortcode: woodenladleandspoons, weight: 0.5, value: 100, durability: 3}
-    - name: Whetstone for cleaver
+    - key: whetstoneforcleaver
+      name: Whetstone for cleaver
       type: miscgear
       system: {shortcode: whetstoneforcleaver, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

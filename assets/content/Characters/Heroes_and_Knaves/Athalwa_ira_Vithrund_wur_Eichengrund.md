@@ -28,6 +28,22 @@ data:
     brow: straight
     extra_features: [a tattoo of an eagle on the back]
   packFolder: ankarisvrystwald
+  items:
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltstunic, model: armorgear-ltstunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltmntl, model: armorgear-ltmntl, kind: clothing}
+    - {key: tribalnecklace, name: "Tribal necklace (bone and silver, leadership insignia)", kind: miscgear, system: {weight: 1}}
+    - {key: huntingknife, name: Hunting knife (bone handle), kind: miscgear, system: {weight: 1}}
+    - {key: territorialmaps, name: Territorial maps and survey notes, kind: miscgear, system: {weight: 0.5}}
+    - {key: herbalremedies, name: Herbal remedies (wound treatment), kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: leadershipseal, name: Leadership seal (carved bone), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -73,31 +89,36 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltstunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltmntl}
-    - name: Tribal necklace (bone and silver, leadership insignia)
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltstunic, model: sohl-sohl-armorgear-ltstunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltmntl, model: sohl-sohl-armorgear-ltmntl}
+    - key: tribalnecklace
+      name: Tribal necklace (bone and silver, leadership insignia)
       type: miscgear
       system: {shortcode: tribalnecklace, value: 10, weight: 1, durability: 3}
-    - name: Hunting knife (bone handle)
+    - key: huntingknife
+      name: Hunting knife (bone handle)
       type: miscgear
       system: {shortcode: huntingknife, weight: 1, value: 100, durability: 3}
-    - name: Territorial maps and survey notes
+    - key: territorialmaps
+      name: Territorial maps and survey notes
       type: miscgear
       system: {shortcode: territorialmaps, weight: 0.5, value: 100, durability: 3}
-    - name: Herbal remedies (wound treatment)
+    - key: herbalremedies
+      name: Herbal remedies (wound treatment)
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 3, value: 2, weight: 1, durability: 3}
-    - name: Leadership seal (carved bone)
+    - key: leadershipseal
+      name: Leadership seal (carved bone)
       type: miscgear
       system: {shortcode: leadershipseal, value: 5, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

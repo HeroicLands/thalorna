@@ -26,6 +26,21 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: pkaxe, model: weapongear-pkaxe, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: rhmntl, model: armorgear-rhmntl, kind: armor}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: leathersatchel, name: Leather satchel for personal items, kind: miscgear, system: {weight: 0.5}}
+    - {key: miningtools, name: Mining tools and chisels, kind: miscgear, system: {weight: 2}}
+    - {key: safetygear, name: "Safety gear (padding, gloves)", kind: miscgear, system: {weight: 1}}
+    - {key: lanternwithoil, name: Lantern with oil, kind: miscgear, system: {weight: 1}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -73,30 +88,35 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-weapongear-pkaxe}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-rhmntl}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - name: Leather satchel for personal items
+    - {key: pkaxe, model: sohl-sohl-weapongear-pkaxe}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: rhmntl, model: sohl-sohl-armorgear-rhmntl}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - key: leathersatchel
+      name: Leather satchel for personal items
       type: miscgear
       system: {shortcode: leathersatchel, weight: 0.5, value: 100, durability: 3}
-    - name: Mining tools and chisels
+    - key: miningtools
+      name: Mining tools and chisels
       type: miscgear
       system: {shortcode: miningtools, weight: 2, value: 100, durability: 3}
-    - name: Safety gear (padding, gloves)
+    - key: safetygear
+      name: Safety gear (padding, gloves)
       type: miscgear
       system: {shortcode: safetygear, weight: 1, value: 100, durability: 3}
-    - name: Lantern with oil
+    - key: lanternwithoil
+      name: Lantern with oil
       type: miscgear
       system: {shortcode: lanternwithoil, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

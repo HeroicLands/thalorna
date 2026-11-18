@@ -27,6 +27,18 @@ data:
     complexion: [weathered]
     extra_features: [a long scar across his left jaw]
   packFolder: midhaliontaruzel
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: mvest, model: armorgear-mvest, kind: armor}
+    - {key: plhhelm, model: armorgear-plhhelm, kind: armor}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 189}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -77,17 +89,17 @@ sohl:
     - {model: sohl-sohl-skill-shpw, system: {masteryLevelBase: 34}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 37}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-mvest}
-    - {model: sohl-sohl-armorgear-plhhelm}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 189}}
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: mvest, model: sohl-sohl-armorgear-mvest}
+    - {key: plhhelm, model: sohl-sohl-armorgear-plhhelm}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 189}}
   system:
     body:
       structure:

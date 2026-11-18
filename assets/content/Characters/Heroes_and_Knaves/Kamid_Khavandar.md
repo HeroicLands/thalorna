@@ -28,6 +28,17 @@ data:
     mouth: full
     extra_features: [a tattoo of a phoenix on the chest]
   packFolder: ankariskhazryndesert
+  items:
+    - {key: clbimp, model: weapongear-clbimp, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: carvedwoodenphoenix, name: Carved wooden phoenix charm, kind: miscgear, system: {weight: 1}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -72,18 +83,19 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-clbimp}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-hscap}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - name: Carved wooden phoenix charm
+    - {key: clbimp, model: sohl-sohl-weapongear-clbimp}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - key: carvedwoodenphoenix
+      name: Carved wooden phoenix charm
       type: miscgear
       system: {shortcode: carvedwoodenphoenix, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

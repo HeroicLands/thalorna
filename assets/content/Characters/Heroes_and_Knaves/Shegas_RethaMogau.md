@@ -29,6 +29,22 @@ data:
     brow: arched
     extra_features: [a scar on the left arm]
   packFolder: regkhhk
+  items:
+    - {key: sgdress, model: armorgear-sgdress, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: surgkit, model: miscgear-surgkit, kind: miscgear}
+    - {key: wovenbasketforherbs, name: Woven basket for herbs, kind: miscgear, system: {weight: 1}}
+    - {key: herbalpouchwithdried, name: Herbal pouch with dried remedies, kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: woodenmortar, name: Wooden mortar and pestle, kind: miscgear, system: {weight: 0.4}}
+    - {key: fieldguide, name: Field guide to medicinal herbs, kind: miscgear, system: {weight: 1}}
+    - {key: apothecarysscales, name: Apothecary's scales and weights, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -78,31 +94,36 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 22}}
-    - {model: sohl-sohl-armorgear-sgdress}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-miscgear-surgkit}
-    - name: Woven basket for herbs
+    - {key: sgdress, model: sohl-sohl-armorgear-sgdress}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: surgkit, model: sohl-sohl-miscgear-surgkit}
+    - key: wovenbasketforherbs
+      name: Woven basket for herbs
       type: miscgear
       system: {shortcode: wovenbasketforherbs, weight: 1, value: 100, durability: 3}
-    - name: Herbal pouch with dried remedies
+    - key: herbalpouchwithdried
+      name: Herbal pouch with dried remedies
       type: miscgear
       system: {shortcode: herbalpouchwithdried, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Wooden mortar and pestle
+    - key: woodenmortar
+      name: Wooden mortar and pestle
       type: miscgear
       system: {shortcode: woodenmortar, weight: 0.4, value: 100, durability: 3}
-    - name: Field guide to medicinal herbs
+    - key: fieldguide
+      name: Field guide to medicinal herbs
       type: miscgear
       system: {shortcode: fieldguide, weight: 1, value: 100, durability: 3}
-    - name: Apothecary's scales and weights
+    - key: apothecarysscales
+      name: Apothecary's scales and weights
       type: miscgear
       system: {shortcode: apothecarysscales, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

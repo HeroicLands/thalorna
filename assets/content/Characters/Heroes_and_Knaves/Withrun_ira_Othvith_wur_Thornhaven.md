@@ -27,6 +27,22 @@ data:
     hair_style: braided
     extra_features: []
   packFolder: ankarisvrystwald
+  items:
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: kish, model: weapongear-kish, kind: weapon}
+    - {key: cbw60, model: weapongear-cbw60, kind: weapon}
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: bvcloak, model: armorgear-bvcloak, kind: clothing}
+    - {key: bvcap, model: armorgear-bvcap, kind: clothing}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 4}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: riverrope, name: Coiled river rope and personal totem token, kind: miscgear, system: {weight: 2}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -56,21 +72,22 @@ sohl:
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 60}}
     - {model: skill-varokhlng, system: {masteryLevelBase: 90}}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-weapongear-kish}
-    - {model: sohl-sohl-weapongear-cbw60}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-bvcloak}
-    - {model: sohl-sohl-armorgear-bvcap}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Coiled river rope and personal totem token
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: kish, model: sohl-sohl-weapongear-kish}
+    - {key: cbw60, model: sohl-sohl-weapongear-cbw60}
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: bvcloak, model: sohl-sohl-armorgear-bvcloak}
+    - {key: bvcap, model: sohl-sohl-armorgear-bvcap}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: riverrope
+      name: Coiled river rope and personal totem token
       type: miscgear
       system: {shortcode: riverrope, weight: 2, value: 20, durability: 3}
   system:

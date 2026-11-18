@@ -26,6 +26,19 @@ data:
     complexion: []
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: ankarisnordlands
+  items:
+    - {key: hsclk, model: armorgear-hsclk, kind: clothing}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: stshoes, model: armorgear-stshoes, kind: clothing}
+    - {key: wornlute, name: Worn lute (well-maintained despite appearance), kind: miscgear, system: {weight: 1}}
+    - {key: tincup, name: Tin cup (dented but functional), kind: miscgear, system: {weight: 1}}
+    - {key: simplenecklace, name: Simple necklace (keepsake from parents), kind: miscgear, system: {weight: 1}}
+    - {key: woolshawl, name: Wool shawl (extra layer for warmth), kind: miscgear, system: {weight: 1}}
+    - {key: herbalthroatremedies, name: Herbal throat remedies (for singing), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -70,28 +83,33 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-armorgear-hsclk}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-stshoes}
-    - name: Worn lute (well-maintained despite appearance)
+    - {key: hsclk, model: sohl-sohl-armorgear-hsclk}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: stshoes, model: sohl-sohl-armorgear-stshoes}
+    - key: wornlute
+      name: Worn lute (well-maintained despite appearance)
       type: miscgear
       system: {shortcode: wornlute, value: 8, weight: 1, durability: 3}
-    - name: Tin cup (dented but functional)
+    - key: tincup
+      name: Tin cup (dented but functional)
       type: miscgear
       system: {shortcode: tincup, weight: 1, value: 100, durability: 3}
-    - name: Simple necklace (keepsake from parents)
+    - key: simplenecklace
+      name: Simple necklace (keepsake from parents)
       type: miscgear
       system: {shortcode: simplenecklace, value: 2, weight: 1, durability: 3}
-    - name: Wool shawl (extra layer for warmth)
+    - key: woolshawl
+      name: Wool shawl (extra layer for warmth)
       type: miscgear
       system: {shortcode: woolshawl, weight: 1, value: 100, durability: 3}
-    - name: Herbal throat remedies (for singing)
+    - key: herbalthroatremedies
+      name: Herbal throat remedies (for singing)
       type: miscgear
       system: {shortcode: herbalthroatremedies, quantity: 2, value: 1, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

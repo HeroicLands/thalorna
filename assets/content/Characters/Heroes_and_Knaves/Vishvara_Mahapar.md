@@ -27,6 +27,21 @@ data:
     mouth: full
     extra_features: [a scar on the right calf]
   packFolder: ankarisvedyara
+  items:
+    - {key: scmtr, model: weapongear-scmtr, kind: weapon}
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: largecanvasbag, name: Large canvas bag for personal items, kind: miscgear, system: {weight: 1}}
+    - {key: nauticalropesandcord, name: Nautical ropes and cord, kind: miscgear, system: {weight: 2}}
+    - {key: navigation, name: "Navigation instruments (compass, lead line)", kind: miscgear, system: {weight: 0.5}}
+    - {key: fishinglinesandhooks, name: Fishing lines and hooks, kind: miscgear, system: {weight: 0.3}}
+    - {key: whetstoneforcutlass, name: Whetstone for cutlass, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -76,30 +91,35 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-scmtr}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - name: Large canvas bag for personal items
+    - {key: scmtr, model: sohl-sohl-weapongear-scmtr}
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - key: largecanvasbag
+      name: Large canvas bag for personal items
       type: miscgear
       system: {shortcode: largecanvasbag, weight: 1, value: 100, durability: 3}
-    - name: Nautical ropes and cord
+    - key: nauticalropesandcord
+      name: Nautical ropes and cord
       type: miscgear
       system: {shortcode: nauticalropesandcord, weight: 2, value: 100, durability: 3}
-    - name: Navigation instruments (compass, lead line)
+    - key: navigation
+      name: Navigation instruments (compass, lead line)
       type: miscgear
       system: {shortcode: navigation, weight: 0.5, value: 100, durability: 3}
-    - name: Fishing lines and hooks
+    - key: fishinglinesandhooks
+      name: Fishing lines and hooks
       type: miscgear
       system: {shortcode: fishinglinesandhooks, weight: 0.3, value: 100, durability: 3}
-    - name: Whetstone for cutlass
+    - key: whetstoneforcutlass
+      name: Whetstone for cutlass
       type: miscgear
       system: {shortcode: whetstoneforcutlass, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

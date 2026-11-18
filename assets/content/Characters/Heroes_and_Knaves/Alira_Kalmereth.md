@@ -30,6 +30,20 @@ data:
     mouth: full
     extra_features: []
   packFolder: aureldiaelavendre
+  items:
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: hsclk, model: armorgear-hsclk, kind: clothing}
+    - {key: woodencarvingtools, name: "Wooden carving tools (knife, chisel, burins)", kind: miscgear, system: {weight: 0.5}}
+    - {key: plantbaseddyes, name: Plant-based dyes (assorted colors), kind: miscgear, system: {quantity: 6, weight: 1.5}}
+    - {key: strawandfiber, name: Straw and fiber for stuffing, kind: miscgear, system: {weight: 2}}
+    - {key: fineclothscraps, name: "Fine cloth scraps (linen, wool)", kind: miscgear, system: {weight: 1}}
+    - {key: naturalglue, name: Natural glue and adhesive, kind: miscgear, system: {weight: 1.5}}
+    - {key: paintbrushesandfine, name: Paintbrushes and fine tools, kind: miscgear, system: {quantity: 8, weight: 2}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: burlapsack, name: Burlap sack, kind: miscgear, system: {weight: 1.5}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -78,33 +92,40 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-hsclk}
-    - name: Wooden carving tools (knife, chisel, burins)
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: hsclk, model: sohl-sohl-armorgear-hsclk}
+    - key: woodencarvingtools
+      name: Wooden carving tools (knife, chisel, burins)
       type: miscgear
       system: {shortcode: woodencarvingtools, weight: 0.5, value: 50, durability: 4}
-    - name: Plant-based dyes (assorted colors)
+    - key: plantbaseddyes
+      name: Plant-based dyes (assorted colors)
       type: miscgear
       system: {shortcode: plantbaseddyes, quantity: 6, value: 3, weight: 1.5, durability: 3}
-    - name: Straw and fiber for stuffing
+    - key: strawandfiber
+      name: Straw and fiber for stuffing
       type: miscgear
       system: {shortcode: strawandfiber, weight: 2, value: 100, durability: 3}
-    - name: Fine cloth scraps (linen, wool)
+    - key: fineclothscraps
+      name: Fine cloth scraps (linen, wool)
       type: miscgear
       system: {shortcode: fineclothscraps, weight: 1, value: 100, durability: 3}
-    - name: Natural glue and adhesive
+    - key: naturalglue
+      name: Natural glue and adhesive
       type: miscgear
       system: {shortcode: naturalglue, weight: 1.5, value: 100, durability: 3}
-    - name: Paintbrushes and fine tools
+    - key: paintbrushesandfine
+      name: Paintbrushes and fine tools
       type: miscgear
       system: {shortcode: paintbrushesandfine, quantity: 8, weight: 2, value: 50, durability: 4}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Burlap sack
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: burlapsack
+      name: Burlap sack
       type: miscgear
       system: {shortcode: burlapsack, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

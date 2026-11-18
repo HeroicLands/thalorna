@@ -31,6 +31,14 @@ data:
     hair_style: short
     extra_features: [Reading-callus on the right forefinger]
   packFolder: ankarisvedyara
+  items:
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: booktrvl, model: miscgear-booktrvl, kind: miscgear}
+    - {key: penquill, model: miscgear-penquill, kind: miscgear}
+    - {key: inkblk, model: miscgear-inkblk, kind: miscgear}
+    - {key: candlestal, model: miscgear-candlestal, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -72,13 +80,13 @@ sohl:
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 80}}
     - {model: skill-vyalendravada, system: {masteryLevelBase: 70}}
     - {model: skill-jnanasura, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-armorgear-lrobe}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-miscgear-booktrvl}
-    - {model: sohl-sohl-miscgear-penquill}
-    - {model: sohl-sohl-miscgear-inkblk}
-    - {model: sohl-sohl-miscgear-candlestal}
+    - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: booktrvl, model: sohl-sohl-miscgear-booktrvl}
+    - {key: penquill, model: sohl-sohl-miscgear-penquill}
+    - {key: inkblk, model: sohl-sohl-miscgear-inkblk}
+    - {key: candlestal, model: sohl-sohl-miscgear-candlestal}
   system:
     body:
       structure:

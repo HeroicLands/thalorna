@@ -28,6 +28,21 @@ data:
     mouth: full
     extra_features: [a tattoo of a serpent on the back]
   packFolder: regkhhk
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rhapr, model: armorgear-rhapr, kind: armor}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: rhgntl, model: armorgear-rhgntl, kind: armor}
+    - {key: leathertoolbelt, name: Leather tool belt, kind: miscgear, system: {weight: 1}}
+    - {key: forgetools, name: "Forge tools (hammer, tongs, chisel, anvil stand)", kind: miscgear, system: {weight: 2.5}}
+    - {key: sharpeningstones, name: Sharpening stones, kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: ironandsteelingots, name: Iron and steel ingots (trade goods), kind: miscgear, system: {quantity: 3, weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -78,28 +93,32 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-rhapr}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-rhgntl}
-    - name: Leather tool belt
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rhapr, model: sohl-sohl-armorgear-rhapr}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: rhgntl, model: sohl-sohl-armorgear-rhgntl}
+    - key: leathertoolbelt
+      name: Leather tool belt
       type: miscgear
       system: {shortcode: leathertoolbelt, weight: 1, value: 100, durability: 3}
-    - name: Forge tools (hammer, tongs, chisel, anvil stand)
+    - key: forgetools
+      name: Forge tools (hammer, tongs, chisel, anvil stand)
       type: miscgear
       system: {shortcode: forgetools, weight: 2.5, value: 100, durability: 3}
-    - name: Sharpening stones
+    - key: sharpeningstones
+      name: Sharpening stones
       type: miscgear
       system: {shortcode: sharpeningstones, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Iron and steel ingots (trade goods)
+    - key: ironandsteelingots
+      name: Iron and steel ingots (trade goods)
       type: miscgear
       system: {shortcode: ironandsteelingots, quantity: 3, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

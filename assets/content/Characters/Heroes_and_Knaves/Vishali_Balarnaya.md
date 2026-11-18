@@ -28,6 +28,19 @@ data:
     nose: aquiline
     extra_features: [a scar on the right elbow]
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: vdress, model: armorgear-vdress, kind: clothing}
+    - {key: vshirt, model: armorgear-vshirt, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: vcap, model: armorgear-vcap, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: smallpouchfortricks, name: Small pouch for tricks and sleight-of-hand supplies, kind: miscgear, system: {weight: 0.3}}
+    - {key: propsandjuggling, name: Props and juggling items, kind: miscgear, system: {weight: 1}}
+    - {key: musicalinstruments, name: "Musical instruments (small pipes, bells)", kind: miscgear, system: {weight: 0.5}}
+    - {key: ornatemirr, name: Ornate mirror for tricks, kind: miscgear, system: {weight: 0.2}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -73,26 +86,30 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 16}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-vdress}
-    - {model: sohl-sohl-armorgear-vshirt}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-vcap}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Small pouch for tricks and sleight-of-hand supplies
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: vdress, model: sohl-sohl-armorgear-vdress}
+    - {key: vshirt, model: sohl-sohl-armorgear-vshirt}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: vcap, model: sohl-sohl-armorgear-vcap}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: smallpouchfortricks
+      name: Small pouch for tricks and sleight-of-hand supplies
       type: miscgear
       system: {shortcode: smallpouchfortricks, weight: 0.3, value: 100, durability: 3}
-    - name: Props and juggling items
+    - key: propsandjuggling
+      name: Props and juggling items
       type: miscgear
       system: {shortcode: propsandjuggling, weight: 1, value: 100, durability: 3}
-    - name: Musical instruments (small pipes, bells)
+    - key: musicalinstruments
+      name: Musical instruments (small pipes, bells)
       type: miscgear
       system: {shortcode: musicalinstruments, weight: 0.5, value: 100, durability: 3}
-    - name: Ornate mirror for tricks
+    - key: ornatemirr
+      name: Ornate mirror for tricks
       type: miscgear
       system: {shortcode: ornatemirr, weight: 0.2, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

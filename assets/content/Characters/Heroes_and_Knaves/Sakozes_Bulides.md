@@ -28,6 +28,21 @@ data:
     nose: aquiline
     extra_features: [a tattoo of a lion on the thigh]
   packFolder: helladbyzaria
+  items:
+    - {key: wdmce, model: weapongear-wdmce, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ceremonialrobes, name: Ceremonial robes (formal official attire), kind: miscgear, system: {weight: 1}}
+    - {key: familysignetring, name: Family signet ring, kind: miscgear, system: {weight: 1}}
+    - {key: quillsandwriting, name: Quills and writing supplies, kind: miscgear, system: {weight: 1}}
+    - {key: officialscrolls, name: Official scrolls and documents, kind: miscgear, system: {quantity: 4, weight: 1}}
+    - {key: heraldicprecedent, name: Heraldic precedent references (book), kind: miscgear, system: {weight: 1}}
+    - {key: waxsealsandribbon, name: Wax seals and ribbon, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -77,32 +92,38 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-wdmce}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Ceremonial robes (formal official attire)
+    - {key: wdmce, model: sohl-sohl-weapongear-wdmce}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: ceremonialrobes
+      name: Ceremonial robes (formal official attire)
       type: miscgear
       system: {shortcode: ceremonialrobes, weight: 1, value: 100, durability: 3}
-    - name: Family signet ring
+    - key: familysignetring
+      name: Family signet ring
       type: miscgear
       system: {shortcode: familysignetring, weight: 1, value: 100, durability: 3}
-    - name: Quills and writing supplies
+    - key: quillsandwriting
+      name: Quills and writing supplies
       type: miscgear
       system: {shortcode: quillsandwriting, weight: 1, value: 100, durability: 3}
-    - name: Official scrolls and documents
+    - key: officialscrolls
+      name: Official scrolls and documents
       type: miscgear
       system: {shortcode: officialscrolls, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Heraldic precedent references (book)
+    - key: heraldicprecedent
+      name: Heraldic precedent references (book)
       type: miscgear
       system: {shortcode: heraldicprecedent, weight: 1, value: 100, durability: 3}
-    - name: Wax seals and ribbon
+    - key: waxsealsandribbon
+      name: Wax seals and ribbon
       type: miscgear
       system: {shortcode: waxsealsandribbon, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

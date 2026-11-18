@@ -28,6 +28,20 @@ data:
     nose: hooked
     extra_features: [a scar on the neck]
   packFolder: helladbyzaria
+  items:
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: slktunic, model: armorgear-slktunic, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: slkstnc, model: armorgear-slkstnc, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: glassbottles, name: "Glass bottles (assorted sizes, decorated)", kind: miscgear, system: {quantity: 12, weight: 1}}
+    - {key: blendingtools, name: "Blending tools (glass rods, scales, pipettes)", kind: miscgear, system: {weight: 0.5}}
+    - {key: scentsamples, name: Scent samples (rare botanicals), kind: miscgear, system: {quantity: 15, weight: 1}}
+    - {key: herbalandanimal, name: "Herbal and animal essences (oils, resins)", kind: miscgear, system: {quantity: 8, weight: 1}}
+    - {key: perfumersnotebook, name: Perfumer's notebook (formula records), kind: miscgear, system: {weight: 0.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -75,29 +89,34 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 18}}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-slktunic}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-slkstnc}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Glass bottles (assorted sizes, decorated)
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: slktunic, model: sohl-sohl-armorgear-slktunic}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: slkstnc, model: sohl-sohl-armorgear-slkstnc}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: glassbottles
+      name: Glass bottles (assorted sizes, decorated)
       type: miscgear
       system: {shortcode: glassbottles, quantity: 12, value: 6, weight: 1, durability: 3}
-    - name: Blending tools (glass rods, scales, pipettes)
+    - key: blendingtools
+      name: Blending tools (glass rods, scales, pipettes)
       type: miscgear
       system: {shortcode: blendingtools, weight: 0.5, value: 5, durability: 3}
-    - name: Scent samples (rare botanicals)
+    - key: scentsamples
+      name: Scent samples (rare botanicals)
       type: miscgear
       system: {shortcode: scentsamples, quantity: 15, value: 20, weight: 1, durability: 3}
-    - name: Herbal and animal essences (oils, resins)
+    - key: herbalandanimal
+      name: Herbal and animal essences (oils, resins)
       type: miscgear
       system: {shortcode: herbalandanimal, quantity: 8, value: 15, weight: 1, durability: 3}
-    - name: Perfumer's notebook (formula records)
+    - key: perfumersnotebook
+      name: Perfumer's notebook (formula records)
       type: miscgear
       system: {shortcode: perfumersnotebook, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

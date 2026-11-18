@@ -28,6 +28,23 @@ data:
     brow: heavy
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: lute, name: Lute (well-maintained traveler's instrument), kind: miscgear, system: {weight: 1}}
+    - {key: travelingbedroll, name: Traveling bedroll, kind: miscgear, system: {weight: 1}}
+    - {key: litebdrl, model: miscgear-litebdrl, kind: miscgear}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 3}}
+    - {key: waxtablets, name: Wax tablets for composing songs, kind: miscgear, system: {weight: 1}}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -75,28 +92,31 @@ sohl:
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - name: Lute (well-maintained traveler's instrument)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - key: lute
+      name: Lute (well-maintained traveler's instrument)
       type: miscgear
       system: {shortcode: lute, weight: 1, value: 100, durability: 3}
-    - name: Traveling bedroll
+    - key: travelingbedroll
+      name: Traveling bedroll
       type: miscgear
       system: {shortcode: travelingbedroll, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-litebdrl}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
-    - name: Wax tablets for composing songs
+    - {key: litebdrl, model: sohl-sohl-miscgear-litebdrl}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
+    - key: waxtablets
+      name: Wax tablets for composing songs
       type: miscgear
       system: {shortcode: waxtablets, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

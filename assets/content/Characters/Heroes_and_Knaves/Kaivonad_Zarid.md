@@ -29,6 +29,20 @@ data:
     brow: heavy
     extra_features: [a bald head]
   packFolder: ankariskhazryndesert
+  items:
+    - {key: pvest, model: armorgear-pvest, kind: armor}
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: laboratorynotes, name: Laboratory notes and formulae (extensive), kind: miscgear, system: {weight: 1.5}}
+    - {key: raremineralsamples, name: "Rare mineral samples (lead, silver, precious compounds)", kind: miscgear, system: {weight: 1.5}}
+    - {key: alchemicalapparatus, name: Alchemical apparatus tools, kind: miscgear, system: {weight: 2}}
+    - {key: measuringscales, name: Measuring scales and weights, kind: miscgear, system: {weight: 1.5}}
+    - {key: crucibles, name: Crucibles and distillation vessels (small), kind: miscgear, system: {weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 5}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 7}}
@@ -79,29 +93,34 @@ sohl:
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 8}}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-armorgear-pvest}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Laboratory notes and formulae (extensive)
+    - {key: pvest, model: sohl-sohl-armorgear-pvest}
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: laboratorynotes
+      name: Laboratory notes and formulae (extensive)
       type: miscgear
       system: {shortcode: laboratorynotes, weight: 1.5, value: 100, durability: 3}
-    - name: Rare mineral samples (lead, silver, precious compounds)
+    - key: raremineralsamples
+      name: Rare mineral samples (lead, silver, precious compounds)
       type: miscgear
       system: {shortcode: raremineralsamples, weight: 1.5, value: 100, durability: 3}
-    - name: Alchemical apparatus tools
+    - key: alchemicalapparatus
+      name: Alchemical apparatus tools
       type: miscgear
       system: {shortcode: alchemicalapparatus, weight: 2, value: 50, durability: 4}
-    - name: Measuring scales and weights
+    - key: measuringscales
+      name: Measuring scales and weights
       type: miscgear
       system: {shortcode: measuringscales, weight: 1.5, value: 100, durability: 3}
-    - name: Crucibles and distillation vessels (small)
+    - key: crucibles
+      name: Crucibles and distillation vessels (small)
       type: miscgear
       system: {shortcode: crucibles, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

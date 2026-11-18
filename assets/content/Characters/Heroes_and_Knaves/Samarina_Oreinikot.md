@@ -27,6 +27,27 @@ data:
     face_shape: oval
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: herdingcrook, name: "Herding crook (wooden, carved)", kind: miscgear, system: {weight: 1}}
+    - {key: basketofherdingtools, name: Basket of herding tools and equipment, kind: miscgear, system: {weight: 1.5}}
+    - {key: rope, name: "Rope (hemp, for tethering)", kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: bonewhistle, name: Bone whistle (herd calls), kind: miscgear, system: {weight: 0.1}}
+    - {key: herbalremedies, name: Herbal remedies (for animals), kind: miscgear, system: {weight: 0.8}}
+    - {key: flintandtinder, name: Flint and tinder, kind: miscgear, system: {weight: 0.3}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 12}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: whistleforcallingher, name: Whistle for calling her flock, kind: miscgear, system: {weight: 1}}
+    - {key: herbalremedies2, name: Herbal remedies, kind: miscgear, system: {weight: 1}}
+    - {key: woolshears, name: Wool shears, kind: miscgear, system: {weight: 1}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -76,42 +97,51 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Herding crook (wooden, carved)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: herdingcrook
+      name: Herding crook (wooden, carved)
       type: miscgear
       system: {shortcode: herdingcrook, weight: 1, value: 100, durability: 3}
-    - name: Basket of herding tools and equipment
+    - key: basketofherdingtools
+      name: Basket of herding tools and equipment
       type: miscgear
       system: {shortcode: basketofherdingtools, weight: 1.5, value: 100, durability: 3}
-    - name: Rope (hemp, for tethering)
+    - key: rope
+      name: Rope (hemp, for tethering)
       type: miscgear
       system: {shortcode: rope, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Bone whistle (herd calls)
+    - key: bonewhistle
+      name: Bone whistle (herd calls)
       type: miscgear
       system: {shortcode: bonewhistle, weight: 0.1, value: 100, durability: 3}
-    - name: Herbal remedies (for animals)
+    - key: herbalremedies
+      name: Herbal remedies (for animals)
       type: miscgear
       system: {shortcode: herbalremedies, weight: 0.8, value: 100, durability: 3}
-    - name: Flint and tinder
+    - key: flintandtinder
+      name: Flint and tinder
       type: miscgear
       system: {shortcode: flintandtinder, weight: 0.3, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 12}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Whistle for calling her flock
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 12}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: whistleforcallingher
+      name: Whistle for calling her flock
       type: miscgear
       system: {shortcode: whistleforcallingher, weight: 1, value: 100, durability: 3}
-    - name: Herbal remedies
+    - key: herbalremedies2
+      name: Herbal remedies
       type: miscgear
       system: {shortcode: herbalremedies2, weight: 1, value: 100, durability: 3}
-    - name: Wool shears
+    - key: woolshears
+      name: Wool shears
       type: miscgear
       system: {shortcode: woolshears, weight: 1, value: 100, durability: 3}
   system:

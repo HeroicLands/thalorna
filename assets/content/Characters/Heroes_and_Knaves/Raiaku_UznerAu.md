@@ -29,6 +29,20 @@ data:
     brow: arched
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rhapr, model: armorgear-rhapr, kind: armor}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: metalwrktl, model: miscgear-metalwrktl, kind: miscgear}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 20}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -78,21 +92,22 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-rhapr}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-miscgear-metalwrktl}
-    - name: Whetstone
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rhapr, model: sohl-sohl-armorgear-rhapr}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: metalwrktl, model: sohl-sohl-miscgear-metalwrktl}
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 5, durability: 0}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 20}}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

@@ -26,6 +26,13 @@ data:
     complexion: [weathered]
     extra_features: [Hands broad and scarred from sixty years of adze and chisel]
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: waxtablet, model: miscgear-waxtablet, kind: miscgear}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -66,12 +73,12 @@ sohl:
     - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 10}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-miscgear-waxtablet}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-miscgear-liteblkt}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: waxtablet, model: sohl-sohl-miscgear-waxtablet}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
   system:
     body:
       structure:

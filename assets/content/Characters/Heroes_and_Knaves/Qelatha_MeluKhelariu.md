@@ -28,6 +28,21 @@ data:
     face_shape: long
     extra_features: [a tattoo of a spider on the shoulder]
   packFolder: regkhhk
+  items:
+    - {key: lbw100, model: weapongear-lbw100, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 40}}
+    - {key: leatherquiver, name: "Leather quiver (crafted, well-made)", kind: miscgear, system: {weight: 1.5}}
+    - {key: localareamap, name: Local area map (hand-drawn by her people), kind: miscgear, system: {weight: 1.5}}
+    - {key: whetstoneforblade, name: Whetstone for blade maintenance, kind: miscgear, system: {weight: 1.5}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 5}}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -76,26 +91,29 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-weapongear-lbw100}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 40}}
-    - name: Leather quiver (crafted, well-made)
+    - {key: lbw100, model: sohl-sohl-weapongear-lbw100}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 40}}
+    - key: leatherquiver
+      name: Leather quiver (crafted, well-made)
       type: miscgear
       system: {shortcode: leatherquiver, weight: 1.5, value: 100, durability: 3}
-    - name: Local area map (hand-drawn by her people)
+    - key: localareamap
+      name: Local area map (hand-drawn by her people)
       type: miscgear
       system: {shortcode: localareamap, weight: 1.5, value: 100, durability: 3}
-    - name: Whetstone for blade maintenance
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

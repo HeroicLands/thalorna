@@ -29,6 +29,19 @@ data:
     mouth: full
     extra_features: [a tattoo of a horse on the thigh]
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: sgbrch, model: armorgear-sgbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: linenchefsapron, name: Linen chef's apron, kind: miscgear, system: {weight: 1}}
+    - {key: woodenspicebox, name: Wooden spice box, kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: cookingutensils, name: Cooking utensils (set), kind: miscgear, system: {weight: 1}}
+    - {key: recipebook, name: Recipe book, kind: miscgear, system: {weight: 1}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -77,28 +90,33 @@ sohl:
     - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-sgbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Linen chef's apron
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: sgbrch, model: sohl-sohl-armorgear-sgbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: linenchefsapron
+      name: Linen chef's apron
       type: miscgear
       system: {shortcode: linenchefsapron, weight: 1, value: 100, durability: 3}
-    - name: Wooden spice box
+    - key: woodenspicebox
+      name: Wooden spice box
       type: miscgear
       system: {shortcode: woodenspicebox, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Cooking utensils (set)
+    - key: cookingutensils
+      name: Cooking utensils (set)
       type: miscgear
       system: {shortcode: cookingutensils, weight: 1, value: 100, durability: 3}
-    - name: Recipe book
+    - key: recipebook
+      name: Recipe book
       type: miscgear
       system: {shortcode: recipebook, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

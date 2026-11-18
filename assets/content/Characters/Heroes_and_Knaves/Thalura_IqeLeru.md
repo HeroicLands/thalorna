@@ -27,6 +27,22 @@ data:
     complexion: [scarred]
     extra_features: [Tablets-of-Qe'aret scarification across the collarbones]
   packFolder: regkhhk
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: slkglv, model: armorgear-slkglv, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: goldenscalesqearet, name: Golden scales of Qe'aret (ritual artifact), kind: miscgear, system: {weight: 0.5}}
+    - {key: tablettoken, name: Tablet token of the goddess, kind: miscgear, system: {weight: 0.05}}
+    - {key: consecratedchalk, name: Consecrated chalk and ritual powder, kind: miscgear, system: {weight: 0.3}}
+    - {key: libationvessels, name: Libation vessels (bronze), kind: miscgear, system: {weight: 1}}
+    - {key: oraclebones, name: "Oracle bones (inherited, ancient divination set)", kind: miscgear, system: {weight: 0.4}}
+    - {key: judicial, name: Judicial correspondence and alliance ledgers, kind: miscgear, system: {weight: 2}}
+    - {key: goldpectoralcollar, name: Gold pectoral collar of office, kind: miscgear, system: {weight: 1}}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 15}}
+    - {key: incensefortempleuse, name: Incense for temple use, kind: miscgear, system: {weight: 0.5}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -78,37 +94,45 @@ sohl:
     - {model: sohl-sohl-skill-ritual, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 25}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-slkglv}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - name: Golden scales of Qe'aret (ritual artifact)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: slkglv, model: sohl-sohl-armorgear-slkglv}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - key: goldenscalesqearet
+      name: Golden scales of Qe'aret (ritual artifact)
       type: miscgear
       system: {shortcode: goldenscalesqearet, weight: 0.5, value: 40, durability: 3}
-    - name: Tablet token of the goddess
+    - key: tablettoken
+      name: Tablet token of the goddess
       type: miscgear
       system: {shortcode: tablettoken, weight: 0.05, value: 15, durability: 3}
-    - name: Consecrated chalk and ritual powder
+    - key: consecratedchalk
+      name: Consecrated chalk and ritual powder
       type: miscgear
       system: {shortcode: consecratedchalk, weight: 0.3, value: 100, durability: 3}
-    - name: Libation vessels (bronze)
+    - key: libationvessels
+      name: Libation vessels (bronze)
       type: miscgear
       system: {shortcode: libationvessels, weight: 1, value: 100, durability: 3}
-    - name: Oracle bones (inherited, ancient divination set)
+    - key: oraclebones
+      name: Oracle bones (inherited, ancient divination set)
       type: miscgear
       system: {shortcode: oraclebones, weight: 0.4, value: 50, durability: 3}
-    - name: Judicial correspondence and alliance ledgers
+    - key: judicial
+      name: Judicial correspondence and alliance ledgers
       type: miscgear
       system: {shortcode: judicial, weight: 2, value: 100, durability: 3}
-    - name: Gold pectoral collar of office
+    - key: goldpectoralcollar
+      name: Gold pectoral collar of office
       type: miscgear
       system: {shortcode: goldpectoralcollar, value: 60, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-gldcrwn}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
-    - name: Incense for temple use
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
+    - key: incensefortempleuse
+      name: Incense for temple use
       type: miscgear
       system: {shortcode: incensefortempleuse, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

@@ -28,6 +28,20 @@ data:
     nose: aquiline
     extra_features: [a limp]
   packFolder: helladbyzaria
+  items:
+    - {key: stk, model: weapongear-stk, kind: weapon}
+    - {key: hsclk, model: armorgear-hsclk, kind: clothing}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: stshoes, model: armorgear-stshoes, kind: clothing}
+    - {key: wornshawl, name: Worn shawl (layered for warmth), kind: miscgear, system: {weight: 0.5}}
+    - {key: oldblanket, name: Old blanket (tattered but functional), kind: miscgear, system: {weight: 1}}
+    - {key: walkingstick, name: Walking stick (reinforced wood), kind: miscgear, system: {weight: 1}}
+    - {key: ceramicbeggingbowl, name: Ceramic begging bowl, kind: miscgear, system: {weight: 1}}
+    - {key: herbalremedies, name: Herbal remedies for street folk, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: stringinstrument, name: "String instrument (lute, well-maintained despite appearance)", kind: miscgear, system: {weight: 1}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 7}}
@@ -73,31 +87,37 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 18}}
-    - {model: sohl-sohl-weapongear-stk}
-    - {model: sohl-sohl-armorgear-hsclk}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-stshoes}
-    - name: Worn shawl (layered for warmth)
+    - {key: stk, model: sohl-sohl-weapongear-stk}
+    - {key: hsclk, model: sohl-sohl-armorgear-hsclk}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: stshoes, model: sohl-sohl-armorgear-stshoes}
+    - key: wornshawl
+      name: Worn shawl (layered for warmth)
       type: miscgear
       system: {shortcode: wornshawl, weight: 0.5, value: 100, durability: 3}
-    - name: Old blanket (tattered but functional)
+    - key: oldblanket
+      name: Old blanket (tattered but functional)
       type: miscgear
       system: {shortcode: oldblanket, weight: 1, value: 100, durability: 3}
-    - name: Walking stick (reinforced wood)
+    - key: walkingstick
+      name: Walking stick (reinforced wood)
       type: miscgear
       system: {shortcode: walkingstick, weight: 1, value: 100, durability: 3}
-    - name: Ceramic begging bowl
+    - key: ceramicbeggingbowl
+      name: Ceramic begging bowl
       type: miscgear
       system: {shortcode: ceramicbeggingbowl, weight: 1, value: 100, durability: 3}
-    - name: Herbal remedies for street folk
+    - key: herbalremedies
+      name: Herbal remedies for street folk
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 3, value: 1, weight: 1, durability: 3}
-    - name: String instrument (lute, well-maintained despite appearance)
+    - key: stringinstrument
+      name: String instrument (lute, well-maintained despite appearance)
       type: miscgear
       system: {shortcode: stringinstrument, value: 5, weight: 1, durability: 3}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

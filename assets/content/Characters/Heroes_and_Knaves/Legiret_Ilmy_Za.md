@@ -29,6 +29,20 @@ data:
     brow: thin
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: inkandquills, name: Ink and quills, kind: miscgear, system: {weight: 1.5}}
+    - {key: parchment, name: Parchment (bundle), kind: miscgear, system: {quantity: 10, weight: 1.5}}
+    - {key: starcharts, name: Star charts (maps and diagrams), kind: miscgear, system: {weight: 1.5}}
+    - {key: referencetexts, name: Reference texts (scrolls), kind: miscgear, system: {quantity: 4, weight: 1.5}}
+    - {key: writingdeskmaterials, name: Writing desk materials, kind: miscgear, system: {weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -76,29 +90,34 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Ink and quills
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: inkandquills
+      name: Ink and quills
       type: miscgear
       system: {shortcode: inkandquills, weight: 1.5, value: 100, durability: 3}
-    - name: Parchment (bundle)
+    - key: parchment
+      name: Parchment (bundle)
       type: miscgear
       system: {shortcode: parchment, quantity: 10, weight: 1.5, value: 100, durability: 3}
-    - name: Star charts (maps and diagrams)
+    - key: starcharts
+      name: Star charts (maps and diagrams)
       type: miscgear
       system: {shortcode: starcharts, weight: 1.5, value: 100, durability: 3}
-    - name: Reference texts (scrolls)
+    - key: referencetexts
+      name: Reference texts (scrolls)
       type: miscgear
       system: {shortcode: referencetexts, quantity: 4, weight: 1.5, value: 200, durability: 3}
-    - name: Writing desk materials
+    - key: writingdeskmaterials
+      name: Writing desk materials
       type: miscgear
       system: {shortcode: writingdeskmaterials, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

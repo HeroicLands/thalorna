@@ -27,6 +27,22 @@ data:
     complexion: [weathered]
     extra_features: []
   packFolder: aureldiaprovenzia
+  items:
+    - {key: lbw75, model: weapongear-lbw75, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: cshirt, model: armorgear-cshirt, kind: armor}
+    - {key: cbrch, model: armorgear-cbrch, kind: armor}
+    - {key: cswd, model: armorgear-cswd, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: litebdrl, model: miscgear-litebdrl, kind: miscgear}
+    - {key: arwlbrd, model: projectilegear-arwlbrd, kind: projectile, system: {quantity: 30}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: quiversmsh, model: containergear-quiversmsh, kind: container}
+    - {key: bagleather15, model: containergear-bagleather15, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: iconwdsm, model: miscgear-iconwdsm, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -75,21 +91,21 @@ sohl:
     - {model: sohl-sohl-skill-timb, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-trak, system: {masteryLevelBase: 88}}
     - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-lbw75}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-cshirt}
-    - {model: sohl-sohl-armorgear-cbrch}
-    - {model: sohl-sohl-armorgear-cswd}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-litebdrl}
-    - {model: sohl-sohl-projectilegear-arwlbrd, system: {quantity: 30}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-quiversmsh}
-    - {model: sohl-sohl-containergear-bagleather15}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-iconwdsm}
+    - {key: lbw75, model: sohl-sohl-weapongear-lbw75}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: cshirt, model: sohl-sohl-armorgear-cshirt}
+    - {key: cbrch, model: sohl-sohl-armorgear-cbrch}
+    - {key: cswd, model: sohl-sohl-armorgear-cswd}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: litebdrl, model: sohl-sohl-miscgear-litebdrl}
+    - {key: arwlbrd, model: sohl-sohl-projectilegear-arwlbrd, system: {quantity: 30}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: quiversmsh, model: sohl-sohl-containergear-quiversmsh}
+    - {key: bagleather15, model: sohl-sohl-containergear-bagleather15}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: iconwdsm, model: sohl-sohl-miscgear-iconwdsm}
   system:
     body:
       structure:

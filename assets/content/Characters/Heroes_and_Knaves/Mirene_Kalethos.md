@@ -36,6 +36,20 @@ data:
         Faint burn scars across the fingertips of both hands from years of fire divination practice
 
   packFolder: midhalionvylaria
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: hookedfightingnet, name: Hooked fighting net, kind: weapon, system: {weight: 1}}
+    - {key: wrobe, model: armorgear-wrobe, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: ltbrcr, model: armorgear-ltbrcr, kind: clothing}
+    - {key: firedivination, name: "Fire divination implements (copper bowl, consecrated oils, ritual kindling)", kind: miscgear, system: {weight: 1}}
+    - {key: blackflameholysymbol, name: "Black Flame holy symbol (cast bronze, worn at throat)", kind: miscgear, system: {weight: 1}}
+    - {key: mendicantscord, name: Mendicant's cord and seal, kind: miscgear, system: {weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 15}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -86,27 +100,31 @@ sohl:
     - {model: sohl-sohl-mysticalability-summ, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-ritual, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 20}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - name: Hooked fighting net
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - key: hookedfightingnet
+      name: Hooked fighting net
       type: weapongear
       system: {shortcode: hookedfightingnet, value: 15, weight: 1, durability: 3}
-    - {model: sohl-sohl-armorgear-wrobe}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-armorgear-ltbrcr}
-    - name: Fire divination implements (copper bowl, consecrated oils, ritual kindling)
+    - {key: wrobe, model: sohl-sohl-armorgear-wrobe}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: ltbrcr, model: sohl-sohl-armorgear-ltbrcr}
+    - key: firedivination
+      name: Fire divination implements (copper bowl, consecrated oils, ritual kindling)
       type: miscgear
       system: {shortcode: firedivination, weight: 1, value: 100, durability: 3}
-    - name: Black Flame holy symbol (cast bronze, worn at throat)
+    - key: blackflameholysymbol
+      name: Black Flame holy symbol (cast bronze, worn at throat)
       type: miscgear
       system: {shortcode: blackflameholysymbol, weight: 1, value: 100, durability: 3}
-    - name: Mendicant's cord and seal
+    - key: mendicantscord
+      name: Mendicant's cord and seal
       type: miscgear
       system: {shortcode: mendicantscord, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -27,6 +27,19 @@ data:
     nose: aquiline
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: leatherbound, name: Leather-bound spellbook (personal grimoire), kind: miscgear, system: {weight: 1}}
+    - {key: collectionofrare, name: Collection of rare arcane texts, kind: miscgear, system: {weight: 1}}
+    - {key: arcaneinkandquills, name: Arcane ink (multiple colors) and quills, kind: miscgear, system: {weight: 1}}
+    - {key: silveramulet, name: Silver amulet inscribed with protective runes, kind: miscgear, system: {weight: 1}}
+    - {key: parchment, name: Parchment (sheaf for notes and research), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -76,28 +89,33 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Leather-bound spellbook (personal grimoire)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: leatherbound
+      name: Leather-bound spellbook (personal grimoire)
       type: miscgear
       system: {shortcode: leatherbound, weight: 1, value: 100, durability: 3}
-    - name: Collection of rare arcane texts
+    - key: collectionofrare
+      name: Collection of rare arcane texts
       type: miscgear
       system: {shortcode: collectionofrare, weight: 1, value: 100, durability: 3}
-    - name: Arcane ink (multiple colors) and quills
+    - key: arcaneinkandquills
+      name: Arcane ink (multiple colors) and quills
       type: miscgear
       system: {shortcode: arcaneinkandquills, weight: 1, value: 100, durability: 3}
-    - name: Silver amulet inscribed with protective runes
+    - key: silveramulet
+      name: Silver amulet inscribed with protective runes
       type: miscgear
       system: {shortcode: silveramulet, weight: 1, value: 100, durability: 3}
-    - name: Parchment (sheaf for notes and research)
+    - key: parchment
+      name: Parchment (sheaf for notes and research)
       type: miscgear
       system: {shortcode: parchment, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

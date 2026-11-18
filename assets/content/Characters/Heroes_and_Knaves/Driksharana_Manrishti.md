@@ -32,6 +32,19 @@ data:
     brow: arched
     extra_features: [a tattoo of a waterfall on the shoulder]
   packFolder: ankarisvedyara
+  items:
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: formalservants, name: Formal servant's uniform (jacket and waistcoat), kind: miscgear, system: {weight: 1.5}}
+    - {key: leatherpouch, name: Leather pouch for gratuities, kind: miscgear, system: {weight: 1.5}}
+    - {key: silverservingtray, name: Silver serving tray, kind: miscgear, system: {weight: 1.5}}
+    - {key: whitegloves, name: White gloves (formal service), kind: miscgear, system: {quantity: 2, weight: 1.5}}
+    - {key: pocketwatch, name: Pocket watch, kind: miscgear, system: {weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 5}}
+    - {key: handkerchief, name: Handkerchief (linen), kind: miscgear, system: {weight: 1.5}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -79,30 +92,36 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-sgtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Formal servant's uniform (jacket and waistcoat)
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: sgtrsr, model: sohl-sohl-armorgear-sgtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: formalservants
+      name: Formal servant's uniform (jacket and waistcoat)
       type: miscgear
       system: {shortcode: formalservants, weight: 1.5, value: 100, durability: 3}
-    - name: Leather pouch for gratuities
+    - key: leatherpouch
+      name: Leather pouch for gratuities
       type: miscgear
       system: {shortcode: leatherpouch, weight: 1.5, value: 100, durability: 3}
-    - name: Silver serving tray
+    - key: silverservingtray
+      name: Silver serving tray
       type: miscgear
       system: {shortcode: silverservingtray, weight: 1.5, value: 100, durability: 3}
-    - name: White gloves (formal service)
+    - key: whitegloves
+      name: White gloves (formal service)
       type: miscgear
       system: {shortcode: whitegloves, quantity: 2, weight: 1.5, value: 100, durability: 3}
-    - name: Pocket watch
+    - key: pocketwatch
+      name: Pocket watch
       type: miscgear
       system: {shortcode: pocketwatch, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 5}}
-    - name: Handkerchief (linen)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 5}}
+    - key: handkerchief
+      name: Handkerchief (linen)
       type: miscgear
       system: {shortcode: handkerchief, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

@@ -27,6 +27,21 @@ data:
     complexion: [weathered]
     extra_features: [a scar running down the back]
   packFolder: helladbyzaria
+  items:
+    - {key: bstdswd, model: weapongear-bstdswd, kind: weapon}
+    - {key: mshirt, model: armorgear-mshirt, kind: armor}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: leatherswordscabbard, name: "Leather sword scabbard (well-worn, serviceable)", kind: miscgear, system: {weight: 1}}
+    - {key: whetstoneforblade, name: Whetstone for blade maintenance, kind: miscgear, system: {weight: 1}}
+    - {key: woodenpracticeswords, name: "Wooden practice swords (trainer set, 2)", kind: miscgear, system: {weight: 1}}
+    - {key: leathereyepatch, name: Leather eye patch, kind: miscgear, system: {weight: 1}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 5}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -76,28 +91,32 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-bstdswd}
-    - {model: sohl-sohl-armorgear-mshirt}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Leather sword scabbard (well-worn, serviceable)
+    - {key: bstdswd, model: sohl-sohl-weapongear-bstdswd}
+    - {key: mshirt, model: sohl-sohl-armorgear-mshirt}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: leatherswordscabbard
+      name: Leather sword scabbard (well-worn, serviceable)
       type: miscgear
       system: {shortcode: leatherswordscabbard, weight: 1, value: 100, durability: 3}
-    - name: Whetstone for blade maintenance
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1, value: 100, durability: 3}
-    - name: Wooden practice swords (trainer set, 2)
+    - key: woodenpracticeswords
+      name: Wooden practice swords (trainer set, 2)
       type: miscgear
       system: {shortcode: woodenpracticeswords, weight: 1, value: 100, durability: 3}
-    - name: Leather eye patch
+    - key: leathereyepatch
+      name: Leather eye patch
       type: miscgear
       system: {shortcode: leathereyepatch, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

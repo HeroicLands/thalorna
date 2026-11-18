@@ -28,6 +28,22 @@ data:
     brow: arched
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: hcht, model: weapongear-hcht, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wcoat, model: armorgear-wcoat, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: leathersatchel, name: Leather satchel for woodworking tools, kind: miscgear, system: {weight: 1}}
+    - {key: handsawforcutting, name: Hand saw for cutting wood, kind: miscgear, system: {weight: 1}}
+    - {key: rope, name: Rope (coiled), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: woodenmallet, name: Wooden mallet and wedges, kind: miscgear, system: {weight: 1}}
+    - {key: sharpeningstone, name: Sharpening stone and honing tools, kind: miscgear, system: {weight: 1}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -78,31 +94,36 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-hcht}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wcoat}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Leather satchel for woodworking tools
+    - {key: hcht, model: sohl-sohl-weapongear-hcht}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wcoat, model: sohl-sohl-armorgear-wcoat}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: leathersatchel
+      name: Leather satchel for woodworking tools
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1, value: 100, durability: 3}
-    - name: Hand saw for cutting wood
+    - key: handsawforcutting
+      name: Hand saw for cutting wood
       type: miscgear
       system: {shortcode: handsawforcutting, weight: 1, value: 100, durability: 3}
-    - name: Rope (coiled)
+    - key: rope
+      name: Rope (coiled)
       type: miscgear
       system: {shortcode: rope, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Wooden mallet and wedges
+    - key: woodenmallet
+      name: Wooden mallet and wedges
       type: miscgear
       system: {shortcode: woodenmallet, weight: 1, value: 100, durability: 3}
-    - name: Sharpening stone and honing tools
+    - key: sharpeningstone
+      name: Sharpening stone and honing tools
       type: miscgear
       system: {shortcode: sharpeningstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

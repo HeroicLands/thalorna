@@ -32,6 +32,22 @@ data:
     brow: arched
     extra_features: []
   packFolder: northernfertileregionbethua
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltshirt, model: armorgear-ltshirt, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 4}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1.5}}
+    - {key: ropeandclimbinggear, name: Rope and climbing gear, kind: miscgear, system: {weight: 1}}
+    - {key: trackerstools, name: Tracker's tools and tracking supplies, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -77,27 +93,30 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltshirt}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
-    - name: Whetstone
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltshirt, model: sohl-sohl-armorgear-ltshirt}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1.5, value: 100, durability: 3}
-    - name: Rope and climbing gear
+    - key: ropeandclimbinggear
+      name: Rope and climbing gear
       type: miscgear
       system: {shortcode: ropeandclimbinggear, weight: 1, value: 30, durability: 5}
-    - name: Tracker's tools and tracking supplies
+    - key: trackerstools
+      name: Tracker's tools and tracking supplies
       type: miscgear
       system: {shortcode: trackerstools, weight: 1, value: 50, durability: 4}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -27,6 +27,19 @@ data:
     hair_style: long
     extra_features: [Ink stains on the right thumb and forefinger]
   packFolder: ankarisvedyara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: incense, model: miscgear-incense, kind: miscgear}
+    - {key: bookbase, model: miscgear-bookbase, kind: miscgear}
+    - {key: inkblk, model: miscgear-inkblk, kind: miscgear}
+    - {key: penquill, model: miscgear-penquill, kind: miscgear}
+    - {key: candlestal, model: miscgear-candlestal, kind: miscgear}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -71,18 +84,18 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 15}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 70}}
     - {model: skill-svapnasarisameja, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-lrobe}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-miscgear-incense}
-    - {model: sohl-sohl-miscgear-bookbase}
-    - {model: sohl-sohl-miscgear-inkblk}
-    - {model: sohl-sohl-miscgear-penquill}
-    - {model: sohl-sohl-miscgear-candlestal}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-tndrbx}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: incense, model: sohl-sohl-miscgear-incense}
+    - {key: bookbase, model: sohl-sohl-miscgear-bookbase}
+    - {key: inkblk, model: sohl-sohl-miscgear-inkblk}
+    - {key: penquill, model: sohl-sohl-miscgear-penquill}
+    - {key: candlestal, model: sohl-sohl-miscgear-candlestal}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
   system:
     body:
       structure:

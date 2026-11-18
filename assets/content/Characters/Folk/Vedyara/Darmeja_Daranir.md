@@ -28,6 +28,15 @@ data:
     facial_hair: none
     extra_features: [A red silk sash, dyed to match his sail]
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: slktunic, model: armorgear-slktunic, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: monsooncloak, model: miscgear-monsooncloak, kind: miscgear}
+    - {key: letterofcredit, model: miscgear-letterofcredit, kind: miscgear}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: ringgold, model: miscgear-ringgold, kind: miscgear}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -69,14 +78,14 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 30}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-slktunic}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: miscgear-monsooncloak}
-    - {model: miscgear-letterofcredit}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: sohl-sohl-miscgear-ringgold}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: slktunic, model: sohl-sohl-armorgear-slktunic}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: monsooncloak, model: miscgear-monsooncloak}
+    - {key: letterofcredit, model: miscgear-letterofcredit}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: ringgold, model: sohl-sohl-miscgear-ringgold}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

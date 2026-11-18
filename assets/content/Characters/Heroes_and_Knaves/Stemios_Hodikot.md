@@ -28,6 +28,20 @@ data:
     nose: straight
     extra_features: [a scar on the right hand]
   packFolder: helladbyzaria
+  items:
+    - {key: stk, model: weapongear-stk, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: cookingutensils, name: Cooking utensils (set), kind: miscgear, system: {weight: 1}}
+    - {key: herbalremedies, name: Herbal remedies and medicinal preparations, kind: miscgear, system: {quantity: 4, weight: 1}}
+    - {key: ledgerforbookings, name: Ledger for bookings and accounts, kind: miscgear, system: {weight: 1}}
+    - {key: brewingsupplies, name: "Brewing supplies (hops, grains, vessels)", kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -73,27 +87,31 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 22}}
-    - {model: sohl-sohl-weapongear-stk}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Cooking utensils (set)
+    - {key: stk, model: sohl-sohl-weapongear-stk}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: cookingutensils
+      name: Cooking utensils (set)
       type: miscgear
       system: {shortcode: cookingutensils, weight: 1, value: 100, durability: 3}
-    - name: Herbal remedies and medicinal preparations
+    - key: herbalremedies
+      name: Herbal remedies and medicinal preparations
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Ledger for bookings and accounts
+    - key: ledgerforbookings
+      name: Ledger for bookings and accounts
       type: miscgear
       system: {shortcode: ledgerforbookings, weight: 1, value: 100, durability: 3}
-    - name: Brewing supplies (hops, grains, vessels)
+    - key: brewingsupplies
+      name: Brewing supplies (hops, grains, vessels)
       type: miscgear
       system: {shortcode: brewingsupplies, quantity: 3, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

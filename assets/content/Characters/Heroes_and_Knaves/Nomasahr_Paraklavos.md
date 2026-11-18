@@ -26,6 +26,17 @@ data:
     complexion: [weathered]
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: leatherbriefcase, name: Leather briefcase for documents, kind: miscgear, system: {weight: 1}}
+    - {key: legalreference, name: Legal reference scrolls, kind: miscgear, system: {weight: 1}}
+    - {key: writingmaterials, name: "Writing materials (ink, quill, parchment)", kind: miscgear, system: {weight: 1}}
+    - {key: tradeagreementcopies, name: Trade agreement copies, kind: miscgear, system: {weight: 1}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -74,24 +85,28 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 11}}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Leather briefcase for documents
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: leatherbriefcase
+      name: Leather briefcase for documents
       type: miscgear
       system: {shortcode: leatherbriefcase, weight: 1, value: 100, durability: 3}
-    - name: Legal reference scrolls
+    - key: legalreference
+      name: Legal reference scrolls
       type: miscgear
       system: {shortcode: legalreference, weight: 1, value: 100, durability: 3}
-    - name: Writing materials (ink, quill, parchment)
+    - key: writingmaterials
+      name: Writing materials (ink, quill, parchment)
       type: miscgear
       system: {shortcode: writingmaterials, weight: 1, value: 100, durability: 3}
-    - name: Trade agreement copies
+    - key: tradeagreementcopies
+      name: Trade agreement copies
       type: miscgear
       system: {shortcode: tradeagreementcopies, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

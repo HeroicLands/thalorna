@@ -26,6 +26,18 @@ data:
     complexion: [weathered]
     hair_style: braided
   packFolder: ankarisvedyara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: hsdress, model: armorgear-hsdress, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: bucketleat, model: containergear-bucketleat, kind: container}
+    - {key: rope12hemp, model: miscgear-rope12hemp, kind: miscgear, system: {quantity: 60}}
+    - {key: waxtablet, model: miscgear-waxtablet, kind: miscgear}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -73,17 +85,17 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 35}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 40}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-hsdress}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-containergear-bucketleat}
-    - {model: sohl-sohl-miscgear-rope12hemp, system: {quantity: 60}}
-    - {model: sohl-sohl-miscgear-waxtablet}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: hsdress, model: sohl-sohl-armorgear-hsdress}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: bucketleat, model: sohl-sohl-containergear-bucketleat}
+    - {key: rope12hemp, model: sohl-sohl-miscgear-rope12hemp, system: {quantity: 60}}
+    - {key: waxtablet, model: sohl-sohl-miscgear-waxtablet}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

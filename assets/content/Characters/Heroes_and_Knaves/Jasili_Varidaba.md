@@ -26,6 +26,18 @@ data:
     complexion: [sun_kissed]
     hair_style: cropped
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: clb, model: weapongear-clb, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: monsooncloak, model: miscgear-monsooncloak, kind: miscgear}
+    - {key: scalesweig, model: miscgear-scalesweig, kind: miscgear}
+    - {key: waxtablet, model: miscgear-waxtablet, kind: miscgear}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -69,17 +81,17 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 40}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 35}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-clb}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: miscgear-monsooncloak}
-    - {model: sohl-sohl-miscgear-scalesweig}
-    - {model: sohl-sohl-miscgear-waxtablet}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-miscgear-tndrbx}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: clb, model: sohl-sohl-weapongear-clb}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: monsooncloak, model: miscgear-monsooncloak}
+    - {key: scalesweig, model: sohl-sohl-miscgear-scalesweig}
+    - {key: waxtablet, model: sohl-sohl-miscgear-waxtablet}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
   system:
     body:
       structure:

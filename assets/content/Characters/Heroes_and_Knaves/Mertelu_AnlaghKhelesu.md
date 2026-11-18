@@ -27,6 +27,21 @@ data:
     complexion: [weathered]
     extra_features: [a tattoo of a bird in flight on the left shoulder]
   packFolder: regkhhk
+  items:
+    - {key: wdress, model: armorgear-wdress, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: householdkeys, name: "Household keys (iron, extensive set)", kind: miscgear, system: {weight: 1}}
+    - {key: cleaningtools, name: Cleaning tools and implements, kind: miscgear, system: {weight: 1}}
+    - {key: aprons, name: "Aprons (linen, multiple)", kind: miscgear, system: {weight: 1}}
+    - {key: clothbagforsupplies, name: Cloth bag for supplies, kind: miscgear, system: {weight: 1}}
+    - {key: inventoryledger, name: Inventory ledger (personal household records), kind: miscgear, system: {weight: 1}}
+    - {key: waxseal, name: Wax seal (household mark), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -75,32 +90,38 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-armorgear-wdress}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - name: Household keys (iron, extensive set)
+    - {key: wdress, model: sohl-sohl-armorgear-wdress}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - key: householdkeys
+      name: Household keys (iron, extensive set)
       type: miscgear
       system: {shortcode: householdkeys, weight: 1, value: 100, durability: 3}
-    - name: Cleaning tools and implements
+    - key: cleaningtools
+      name: Cleaning tools and implements
       type: miscgear
       system: {shortcode: cleaningtools, weight: 1, value: 100, durability: 3}
-    - name: Aprons (linen, multiple)
+    - key: aprons
+      name: Aprons (linen, multiple)
       type: miscgear
       system: {shortcode: aprons, weight: 1, value: 100, durability: 3}
-    - name: Cloth bag for supplies
+    - key: clothbagforsupplies
+      name: Cloth bag for supplies
       type: miscgear
       system: {shortcode: clothbagforsupplies, weight: 1, value: 100, durability: 3}
-    - name: Inventory ledger (personal household records)
+    - key: inventoryledger
+      name: Inventory ledger (personal household records)
       type: miscgear
       system: {shortcode: inventoryledger, weight: 1, value: 100, durability: 3}
-    - name: Wax seal (household mark)
+    - key: waxseal
+      name: Wax seal (household mark)
       type: miscgear
       system: {shortcode: waxseal, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

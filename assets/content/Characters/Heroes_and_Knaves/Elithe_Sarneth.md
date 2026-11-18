@@ -27,6 +27,35 @@ data:
     complexion: [freckled]
     extra_features: []
   packFolder: aureldiaelavendre
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: pvest, model: armorgear-pvest, kind: armor}
+    - {key: cstnc, model: armorgear-cstnc, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: wskirt, model: armorgear-wskirt, kind: clothing}
+    - {key: ccap, model: armorgear-ccap, kind: armor}
+    - {key: whclk, model: armorgear-whclk, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: bagleather15, model: containergear-bagleather15, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: surgkit, model: miscgear-surgkit, kind: miscgear}
+    - {key: sewkit, model: miscgear-sewkit, kind: miscgear}
+    - {key: booktrvl, model: miscgear-booktrvl, kind: miscgear}
+    - {key: bookbase, model: miscgear-bookbase, kind: miscgear}
+    - {key: herbkit, model: miscgear-herbkit, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: litebdrl, model: miscgear-litebdrl, kind: miscgear}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 32}}
+    - {key: elxheal, model: concoctiongear-elxheal, kind: elixir}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: candlestal, model: miscgear-candlestal, kind: miscgear, system: {quantity: 12}}
+    - {key: parchment, model: miscgear-parchment, kind: miscgear}
+    - {key: inkblk, model: miscgear-inkblk, kind: miscgear}
+    - {key: penquill, model: miscgear-penquill, kind: miscgear}
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: waxsealing, model: miscgear-waxsealing, kind: miscgear}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -75,36 +104,37 @@ sohl:
     - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-pvest}
-    - {model: sohl-sohl-armorgear-cstnc}
-    - {model: sohl-sohl-armorgear-cleg}
-    - model: sohl-sohl-armorgear-wskirt
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: pvest, model: sohl-sohl-armorgear-pvest}
+    - {key: cstnc, model: sohl-sohl-armorgear-cstnc}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - key: wskirt
+      model: sohl-sohl-armorgear-wskirt
       name: Worsted split skirt
       system: {shortcode: wsplskirt}
-    - {model: sohl-sohl-armorgear-ccap}
-    - {model: sohl-sohl-armorgear-whclk}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-containergear-bagleather15}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-surgkit}
-    - {model: sohl-sohl-miscgear-sewkit}
-    - {model: sohl-sohl-miscgear-booktrvl}
-    - {model: sohl-sohl-miscgear-bookbase}
-    - {model: sohl-sohl-miscgear-herbkit}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-litebdrl}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 32}}
-    - {model: concoctiongear-elxheal}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-candlestal, system: {quantity: 12}}
-    - {model: sohl-sohl-miscgear-parchment}
-    - {model: sohl-sohl-miscgear-inkblk}
-    - {model: sohl-sohl-miscgear-penquill}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-miscgear-waxsealing}
-    - {model: sohl-sohl-miscgear-sealsignat}
+    - {key: ccap, model: sohl-sohl-armorgear-ccap}
+    - {key: whclk, model: sohl-sohl-armorgear-whclk}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: bagleather15, model: sohl-sohl-containergear-bagleather15}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: surgkit, model: sohl-sohl-miscgear-surgkit}
+    - {key: sewkit, model: sohl-sohl-miscgear-sewkit}
+    - {key: booktrvl, model: sohl-sohl-miscgear-booktrvl}
+    - {key: bookbase, model: sohl-sohl-miscgear-bookbase}
+    - {key: herbkit, model: sohl-sohl-miscgear-herbkit}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: litebdrl, model: sohl-sohl-miscgear-litebdrl}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 32}}
+    - {key: elxheal, model: concoctiongear-elxheal}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: candlestal, model: sohl-sohl-miscgear-candlestal, system: {quantity: 12}}
+    - {key: parchment, model: sohl-sohl-miscgear-parchment}
+    - {key: inkblk, model: sohl-sohl-miscgear-inkblk}
+    - {key: penquill, model: sohl-sohl-miscgear-penquill}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: waxsealing, model: sohl-sohl-miscgear-waxsealing}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
   system:
     body:
       structure:

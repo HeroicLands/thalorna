@@ -26,6 +26,21 @@ data:
     complexion: [scarred]
     extra_features: [A long scar from brow to jaw on the left side]
   packFolder: northernfertileregionbethua
+  items:
+    - {key: scmtr, model: weapongear-scmtr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: shkn, model: weapongear-shkn, kind: weapon}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 20}}
+    - {key: kbrst, model: armorgear-kbrst, kind: armor}
+    - {key: ltstunic, model: armorgear-ltstunic, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: warhorse, name: War-horse (desert-bred mare), kind: miscgear, system: {weight: 0}}
+    - {key: hvybdrl, model: miscgear-hvybdrl, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 5}}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear, system: {quantity: 25}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container, system: {quantity: 2}}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -59,22 +74,23 @@ sohl:
     - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 44}}
-    - {model: sohl-sohl-weapongear-scmtr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-shkn}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 20}}
-    - {model: sohl-sohl-armorgear-kbrst}
-    - {model: sohl-sohl-armorgear-ltstunic}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - name: War-horse (desert-bred mare)
+    - {key: scmtr, model: sohl-sohl-weapongear-scmtr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: shkn, model: sohl-sohl-weapongear-shkn}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 20}}
+    - {key: kbrst, model: sohl-sohl-armorgear-kbrst}
+    - {key: ltstunic, model: sohl-sohl-armorgear-ltstunic}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - key: warhorse
+      name: War-horse (desert-bred mare)
       type: miscgear
       system: {shortcode: warhorse, weight: 0, value: 2500, durability: 5}
-    - {model: sohl-sohl-miscgear-hvybdrl}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
-    - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 25}}
-    - {model: sohl-sohl-containergear-wtrskin, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: hvybdrl, model: sohl-sohl-miscgear-hvybdrl}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 25}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin, system: {quantity: 2}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

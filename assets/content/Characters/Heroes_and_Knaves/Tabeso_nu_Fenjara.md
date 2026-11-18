@@ -27,6 +27,23 @@ data:
     face_shape: square
     extra_features: []
   packFolder: xerathiasouthernsavannahs
+  items:
+    - {key: lbw150, model: weapongear-lbw150, kind: weapon}
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: quiver, name: "Quiver (leather, reinforced for heavy use)", kind: miscgear, system: {weight: 1.5}}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 30}}
+    - {key: trackingtools, name: Tracking tools and marking materials, kind: miscgear, system: {weight: 2}}
+    - {key: animalsnaresandtraps, name: Animal snares and traps, kind: miscgear, system: {quantity: 4, weight: 1.5}}
+    - {key: driedmeatandtravel, name: Dried meat and travel provisions, kind: miscgear, system: {quantity: 3, weight: 1.5}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -77,20 +94,23 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-weapongear-lbw150}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - name: Quiver (leather, reinforced for heavy use)
+    - {key: lbw150, model: sohl-sohl-weapongear-lbw150}
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - key: quiver
+      name: Quiver (leather, reinforced for heavy use)
       type: miscgear
       system: {shortcode: quiver, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 30}}
-    - name: Tracking tools and marking materials
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 30}}
+    - key: trackingtools
+      name: Tracking tools and marking materials
       type: miscgear
       system: {shortcode: trackingtools, weight: 2, value: 50, durability: 4}
-    - name: Animal snares and traps
+    - key: animalsnaresandtraps
+      name: Animal snares and traps
       type: miscgear
       system:
         shortcode: animalsnaresandtraps
@@ -98,14 +118,15 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - name: Dried meat and travel provisions
+    - key: driedmeatandtravel
+      name: Dried meat and travel provisions
       type: miscgear
       system: {shortcode: driedmeatandtravel, quantity: 3, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

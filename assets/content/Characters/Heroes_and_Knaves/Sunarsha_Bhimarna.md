@@ -27,6 +27,17 @@ data:
     hair_style: long
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: shkhlynswd, model: weapongear-shkhlynswd, kind: weapon}
+    - {key: lnc, model: weapongear-lnc, kind: weapon}
+    - {key: rhnhdshld, model: weapongear-rhnhdshld, kind: weapon}
+    - {key: slktunic, model: armorgear-slktunic, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: chendra, model: miscgear-chendra, kind: miscgear, system: {quantity: 30}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -72,16 +83,16 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 25}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 50}}
-    - {model: weapongear-shkhlynswd}
-    - {model: sohl-sohl-weapongear-lnc}
-    - {model: weapongear-rhnhdshld}
-    - {model: sohl-sohl-armorgear-slktunic}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: miscgear-chendra, system: {quantity: 30}}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: shkhlynswd, model: weapongear-shkhlynswd}
+    - {key: lnc, model: sohl-sohl-weapongear-lnc}
+    - {key: rhnhdshld, model: weapongear-rhnhdshld}
+    - {key: slktunic, model: sohl-sohl-armorgear-slktunic}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: chendra, model: miscgear-chendra, system: {quantity: 30}}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

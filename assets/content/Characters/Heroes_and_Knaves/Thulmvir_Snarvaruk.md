@@ -29,6 +29,20 @@ data:
     mouth: small
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: hsclk, model: armorgear-hsclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: leathertoolpouch, name: Leather tool pouch, kind: miscgear, system: {weight: 1.5}}
+    - {key: potterywheel, name: Pottery wheel (workshop equipment), kind: miscgear, system: {weight: 1.5}}
+    - {key: claypreparationtools, name: Clay preparation tools and kiln supplies, kind: miscgear, system: {weight: 2}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1.5}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -77,27 +91,31 @@ sohl:
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-hscap}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-hsclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Leather tool pouch
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: hsclk, model: sohl-sohl-armorgear-hsclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: leathertoolpouch
+      name: Leather tool pouch
       type: miscgear
       system: {shortcode: leathertoolpouch, weight: 1.5, value: 100, durability: 3}
-    - name: Pottery wheel (workshop equipment)
+    - key: potterywheel
+      name: Pottery wheel (workshop equipment)
       type: miscgear
       system: {shortcode: potterywheel, weight: 1.5, value: 100, durability: 3}
-    - name: Clay preparation tools and kiln supplies
+    - key: claypreparationtools
+      name: Clay preparation tools and kiln supplies
       type: miscgear
       system: {shortcode: claypreparationtools, weight: 2, value: 50, durability: 4}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

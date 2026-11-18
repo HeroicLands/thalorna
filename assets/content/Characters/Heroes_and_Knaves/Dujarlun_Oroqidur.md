@@ -28,6 +28,20 @@ data:
     brow: heavy
     extra_features: []
   packFolder: ankariskhazryndesert
+  items:
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - {key: herbalhealingkit, name: Herbal healing kit, kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: ritualcomponents, name: "Ritual components (herbs, stones, bones)", kind: miscgear, system: {weight: 1.5}}
+    - {key: divinationmaterials, name: "Divination materials (bones, shells, sand)", kind: miscgear, system: {weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container, system: {quantity: 2}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: wovenprayercord, name: Woven prayer cord, kind: miscgear, system: {weight: 1.5}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -74,27 +88,31 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-mysticalability-trnc, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-armorgear-hscap}
-    - name: Herbal healing kit
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - key: herbalhealingkit
+      name: Herbal healing kit
       type: miscgear
       system: {shortcode: herbalhealingkit, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Ritual components (herbs, stones, bones)
+    - key: ritualcomponents
+      name: Ritual components (herbs, stones, bones)
       type: miscgear
       system: {shortcode: ritualcomponents, weight: 1.5, value: 100, durability: 3}
-    - name: Divination materials (bones, shells, sand)
+    - key: divinationmaterials
+      name: Divination materials (bones, shells, sand)
       type: miscgear
       system: {shortcode: divinationmaterials, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-containergear-wtrskin, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - name: Woven prayer cord
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin, system: {quantity: 2}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - key: wovenprayercord
+      name: Woven prayer cord
       type: miscgear
       system: {shortcode: wovenprayercord, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

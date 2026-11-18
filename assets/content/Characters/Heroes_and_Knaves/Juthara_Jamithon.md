@@ -32,6 +32,21 @@ data:
     mouth: full
     extra_features: [a scar running across the stomach]
   packFolder: northernfertileregionbethua
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: smallsatchel, name: Small satchel for research notes and manuscripts, kind: miscgear, system: {weight: 1}}
+    - {key: herbsamplecollection, name: Herb sample collection (sealed containers), kind: miscgear, system: {weight: 1.2}}
+    - {key: laboratoryequipment, name: "Laboratory equipment (mortar, pestle, vials, scales)", kind: miscgear, system: {weight: 2}}
+    - {key: referencebookson, name: Reference books on medicine and natural philosophy, kind: miscgear, system: {weight: 2.5}}
+    - {key: drawingsupplies, name: Drawing supplies for anatomical sketches, kind: miscgear, system: {weight: 0.5}}
+    - {key: healingtinctures, name: Healing tinctures and remedies (personal stock), kind: miscgear, system: {weight: 0.8}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -79,32 +94,38 @@ sohl:
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - name: Small satchel for research notes and manuscripts
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - key: smallsatchel
+      name: Small satchel for research notes and manuscripts
       type: miscgear
       system: {shortcode: smallsatchel, weight: 1, value: 100, durability: 3}
-    - name: Herb sample collection (sealed containers)
+    - key: herbsamplecollection
+      name: Herb sample collection (sealed containers)
       type: miscgear
       system: {shortcode: herbsamplecollection, weight: 1.2, value: 100, durability: 3}
-    - name: Laboratory equipment (mortar, pestle, vials, scales)
+    - key: laboratoryequipment
+      name: Laboratory equipment (mortar, pestle, vials, scales)
       type: miscgear
       system: {shortcode: laboratoryequipment, weight: 2, value: 100, durability: 3}
-    - name: Reference books on medicine and natural philosophy
+    - key: referencebookson
+      name: Reference books on medicine and natural philosophy
       type: miscgear
       system: {shortcode: referencebookson, weight: 2.5, value: 100, durability: 3}
-    - name: Drawing supplies for anatomical sketches
+    - key: drawingsupplies
+      name: Drawing supplies for anatomical sketches
       type: miscgear
       system: {shortcode: drawingsupplies, weight: 0.5, value: 100, durability: 3}
-    - name: Healing tinctures and remedies (personal stock)
+    - key: healingtinctures
+      name: Healing tinctures and remedies (personal stock)
       type: miscgear
       system: {shortcode: healingtinctures, weight: 0.8, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

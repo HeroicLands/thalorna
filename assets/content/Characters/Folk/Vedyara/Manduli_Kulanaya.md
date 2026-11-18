@@ -31,6 +31,13 @@ data:
     hair_style: short
     extra_features: [Rasikara's gray ash-mark on her brow, Burn-scars on both palms]
   packFolder: ankarisvedyara
+  items:
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: ashmarkstamp, model: miscgear-ashmarkstamp, kind: miscgear}
+    - {key: incense, model: miscgear-incense, kind: miscgear}
+    - {key: candlestal, model: miscgear-candlestal, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -74,12 +81,12 @@ sohl:
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 60}}
     - {model: skill-triyangasampradeya, system: {masteryLevelBase: 60}}
     - {model: skill-rasikara, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-armorgear-lrobe}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: miscgear-ashmarkstamp}
-    - {model: sohl-sohl-miscgear-incense}
-    - {model: sohl-sohl-miscgear-candlestal}
-    - {model: sohl-sohl-miscgear-tndrbx}
+    - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: ashmarkstamp, model: miscgear-ashmarkstamp}
+    - {key: incense, model: sohl-sohl-miscgear-incense}
+    - {key: candlestal, model: sohl-sohl-miscgear-candlestal}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
   system:
     body:
       structure:

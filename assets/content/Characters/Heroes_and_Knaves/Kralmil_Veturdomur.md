@@ -29,6 +29,23 @@ data:
     mouth: small
     extra_features: [a scar along the jawline]
   packFolder: ankarisnordlands
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: woodcutterssaw, name: "Woodcutter's saw (folding, high-quality steel)", kind: miscgear, system: {weight: 1}}
+    - {key: ropecoil, name: "Rope coil (braided hemp, 60 feet)", kind: miscgear, system: {weight: 2}}
+    - {key: sharpeningstone, name: Sharpening stone and honing oils, kind: miscgear, system: {weight: 0.5}}
+    - {key: timbersamples, name: Timber samples for reference, kind: miscgear, system: {weight: 1}}
+    - {key: woodworkingtools, name: "Woodworking tools (chisels, wedges, measuring)", kind: miscgear, system: {weight: 2.5}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -74,32 +91,37 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - name: Woodcutter's saw (folding, high-quality steel)
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - key: woodcutterssaw
+      name: Woodcutter's saw (folding, high-quality steel)
       type: miscgear
       system: {shortcode: woodcutterssaw, weight: 1, value: 100, durability: 3}
-    - name: Rope coil (braided hemp, 60 feet)
+    - key: ropecoil
+      name: Rope coil (braided hemp, 60 feet)
       type: miscgear
       system: {shortcode: ropecoil, weight: 2, value: 100, durability: 3}
-    - name: Sharpening stone and honing oils
+    - key: sharpeningstone
+      name: Sharpening stone and honing oils
       type: miscgear
       system: {shortcode: sharpeningstone, weight: 0.5, value: 100, durability: 3}
-    - name: Timber samples for reference
+    - key: timbersamples
+      name: Timber samples for reference
       type: miscgear
       system: {shortcode: timbersamples, weight: 1, value: 100, durability: 3}
-    - name: Woodworking tools (chisels, wedges, measuring)
+    - key: woodworkingtools
+      name: Woodworking tools (chisels, wedges, measuring)
       type: miscgear
       system: {shortcode: woodworkingtools, weight: 2.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

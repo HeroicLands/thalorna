@@ -28,6 +28,24 @@ data:
     nose: upturned
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhlngvst, model: armorgear-rhlngvst, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: rhapr, model: armorgear-rhapr, kind: armor}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 12}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: potterstoolbag, name: "Potter's tool bag (chisels, modeling tools, wire cutters)", kind: miscgear, system: {weight: 1.2}}
+    - {key: potterywheel, name: "Pottery wheel (portable, collapsible design)", kind: miscgear, system: {weight: 4}}
+    - {key: kilnfiringtools, name: Kiln-firing tools and temperature gauges, kind: miscgear, system: {weight: 2}}
+    - {key: assortedceramic, name: Assorted ceramic glazes (sealed vials), kind: miscgear, system: {weight: 1}}
+    - {key: claysamplesandtest, name: Clay samples and test pieces (reference set), kind: miscgear, system: {weight: 0.8}}
+    - {key: ashsamplesfrom, name: Ash samples from various kiln fires, kind: miscgear, system: {weight: 0.5}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: quiver, name: Quiver (leather), kind: container, system: {quantity: 1, weight: 1.5}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -75,35 +93,42 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 85}}
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhlngvst}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-rhapr}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 12}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Potter's tool bag (chisels, modeling tools, wire cutters)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhlngvst, model: sohl-sohl-armorgear-rhlngvst}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: rhapr, model: sohl-sohl-armorgear-rhapr}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 12}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: potterstoolbag
+      name: Potter's tool bag (chisels, modeling tools, wire cutters)
       type: miscgear
       system: {shortcode: potterstoolbag, weight: 1.2, value: 50, durability: 4}
-    - name: Pottery wheel (portable, collapsible design)
+    - key: potterywheel
+      name: Pottery wheel (portable, collapsible design)
       type: miscgear
       system: {shortcode: potterywheel, weight: 4, value: 15, durability: 3}
-    - name: Kiln-firing tools and temperature gauges
+    - key: kilnfiringtools
+      name: Kiln-firing tools and temperature gauges
       type: miscgear
       system: {shortcode: kilnfiringtools, weight: 2, value: 50, durability: 4}
-    - name: Assorted ceramic glazes (sealed vials)
+    - key: assortedceramic
+      name: Assorted ceramic glazes (sealed vials)
       type: miscgear
       system: {shortcode: assortedceramic, weight: 1, value: 10, durability: 3}
-    - name: Clay samples and test pieces (reference set)
+    - key: claysamplesandtest
+      name: Clay samples and test pieces (reference set)
       type: miscgear
       system: {shortcode: claysamplesandtest, weight: 0.8, value: 100, durability: 3}
-    - name: Ash samples from various kiln fires
+    - key: ashsamplesfrom
+      name: Ash samples from various kiln fires
       type: miscgear
       system: {shortcode: ashsamplesfrom, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Quiver (leather)
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: quiver
+      name: Quiver (leather)
       type: containergear
       system: {shortcode: quiver, quantity: 1, weight: 1.5, value: 100, durability: 3}
   system:

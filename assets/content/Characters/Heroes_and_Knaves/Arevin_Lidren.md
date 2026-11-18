@@ -29,6 +29,22 @@ data:
     face_shape: broad
     extra_features: []
   packFolder: aureldiaelavendre
+  items:
+    - {key: pkaxe, model: weapongear-pkaxe, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: wcboot, model: armorgear-wcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: geologicalsurvey, name: "Geological survey tools (hammer, chisel, loupe)", kind: miscgear, system: {weight: 1}}
+    - {key: safetyrope, name: Safety rope and carabiners, kind: miscgear, system: {weight: 2}}
+    - {key: oillanternwithlamp, name: Oil lantern with lamp oil, kind: miscgear, system: {weight: 1}}
+    - {key: geologicalmaps, name: Geological maps and survey notes, kind: miscgear, system: {weight: 0.5}}
+    - {key: mineralsample, name: Mineral sample collection (assorted ore), kind: miscgear, system: {quantity: 1, weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -77,31 +93,36 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-weapongear-pkaxe}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-wcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Geological survey tools (hammer, chisel, loupe)
+    - {key: pkaxe, model: sohl-sohl-weapongear-pkaxe}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: wcboot, model: sohl-sohl-armorgear-wcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: geologicalsurvey
+      name: Geological survey tools (hammer, chisel, loupe)
       type: miscgear
       system: {shortcode: geologicalsurvey, weight: 1, value: 6, durability: 3}
-    - name: Safety rope and carabiners
+    - key: safetyrope
+      name: Safety rope and carabiners
       type: miscgear
       system: {shortcode: safetyrope, weight: 2, value: 100, durability: 3}
-    - name: Oil lantern with lamp oil
+    - key: oillanternwithlamp
+      name: Oil lantern with lamp oil
       type: miscgear
       system: {shortcode: oillanternwithlamp, weight: 1, value: 100, durability: 3}
-    - name: Geological maps and survey notes
+    - key: geologicalmaps
+      name: Geological maps and survey notes
       type: miscgear
       system: {shortcode: geologicalmaps, weight: 0.5, value: 3, durability: 3}
-    - name: Mineral sample collection (assorted ore)
+    - key: mineralsample
+      name: Mineral sample collection (assorted ore)
       type: miscgear
       system: {shortcode: mineralsample, weight: 1.5, quantity: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

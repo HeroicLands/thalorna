@@ -26,6 +26,15 @@ data:
     complexion: [clear]
     hair_style: short
   packFolder: ankarisvedyara
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lbw75, model: weapongear-lbw75, kind: weapon}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile}
+    - {key: quiversmsh, model: containergear-quiversmsh, kind: container}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -65,14 +74,14 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 65}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 35}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-lbw75}
-    - {model: sohl-sohl-projectilegear-arwstd}
-    - {model: sohl-sohl-containergear-quiversmsh}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-miscgear-sealsignat}
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lbw75, model: sohl-sohl-weapongear-lbw75}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd}
+    - {key: quiversmsh, model: sohl-sohl-containergear-quiversmsh}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
   system:
     body:
       structure:

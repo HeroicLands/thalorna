@@ -28,6 +28,13 @@ data:
     complexion: [sun_kissed]
     extra_features: [perpetually stained hands]
   packFolder: midhaliontaruzel
+  items:
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 21}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -78,12 +85,12 @@ sohl:
     - {model: sohl-sohl-skill-shpw, system: {masteryLevelBase: 98}}
     - {model: sohl-sohl-skill-timb, system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 54}}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 21}}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 21}}
   system:
     body:
       structure:

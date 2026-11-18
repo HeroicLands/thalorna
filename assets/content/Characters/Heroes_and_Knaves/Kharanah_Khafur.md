@@ -28,6 +28,19 @@ data:
     mouth: full
     extra_features: []
   packFolder: ankariskhazryndesert
+  items:
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltmntl, model: armorgear-ltmntl, kind: clothing}
+    - {key: perfumerytools, name: "Perfumery tools (pestles, mortars, blending rods)", kind: miscgear, system: {weight: 1}}
+    - {key: glassbottles, name: "Glass bottles for fragrance storage (decorative, 12)", kind: miscgear, system: {weight: 1}}
+    - {key: rarebotanical, name: "Rare botanical essences (oils, extracts)", kind: miscgear, system: {weight: 1}}
+    - {key: measuringscales, name: Measuring scales for precise blending, kind: miscgear, system: {weight: 1}}
+    - {key: parchment, name: Parchment for fragrance formulas, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -75,28 +88,33 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltmntl}
-    - name: Perfumery tools (pestles, mortars, blending rods)
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltmntl, model: sohl-sohl-armorgear-ltmntl}
+    - key: perfumerytools
+      name: Perfumery tools (pestles, mortars, blending rods)
       type: miscgear
       system: {shortcode: perfumerytools, weight: 1, value: 100, durability: 3}
-    - name: Glass bottles for fragrance storage (decorative, 12)
+    - key: glassbottles
+      name: Glass bottles for fragrance storage (decorative, 12)
       type: miscgear
       system: {shortcode: glassbottles, weight: 1, value: 100, durability: 3}
-    - name: Rare botanical essences (oils, extracts)
+    - key: rarebotanical
+      name: Rare botanical essences (oils, extracts)
       type: miscgear
       system: {shortcode: rarebotanical, weight: 1, value: 100, durability: 3}
-    - name: Measuring scales for precise blending
+    - key: measuringscales
+      name: Measuring scales for precise blending
       type: miscgear
       system: {shortcode: measuringscales, weight: 1, value: 100, durability: 3}
-    - name: Parchment for fragrance formulas
+    - key: parchment
+      name: Parchment for fragrance formulas
       type: miscgear
       system: {shortcode: parchment, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

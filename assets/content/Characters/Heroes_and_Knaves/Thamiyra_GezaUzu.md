@@ -27,6 +27,18 @@ data:
     complexion: [scarred]
     extra_features: [a faint scar on the left side of the neck]
   packFolder: regkhhk
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkdress, model: armorgear-slkdress, kind: clothing}
+    - {key: ecloak, model: armorgear-ecloak, kind: clothing}
+    - {key: vhat, model: armorgear-vhat, kind: clothing}
+    - {key: embroideredsilkbag, name: "Embroidered silk bag (ornate, hand-sewn)", kind: miscgear, system: {weight: 1}}
+    - {key: elegantgown, name: Elegant gown (additional formal dress), kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: books, name: Books (philosophical and romantic texts), kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: calligraphyset, name: "Calligraphy set (brushes, inks, papers)", kind: miscgear, system: {weight: 1}}
+    - {key: jewelryandcosmetics, name: Jewelry and cosmetics, kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: scentbottles, name: Scent bottles (perfumes and oils), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -74,29 +86,35 @@ sohl:
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 22}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkdress}
-    - {model: sohl-sohl-armorgear-ecloak}
-    - {model: sohl-sohl-armorgear-vhat}
-    - name: Embroidered silk bag (ornate, hand-sewn)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkdress, model: sohl-sohl-armorgear-slkdress}
+    - {key: ecloak, model: sohl-sohl-armorgear-ecloak}
+    - {key: vhat, model: sohl-sohl-armorgear-vhat}
+    - key: embroideredsilkbag
+      name: Embroidered silk bag (ornate, hand-sewn)
       type: miscgear
       system: {shortcode: embroideredsilkbag, weight: 1, value: 100, durability: 3}
-    - name: Elegant gown (additional formal dress)
+    - key: elegantgown
+      name: Elegant gown (additional formal dress)
       type: miscgear
       system: {shortcode: elegantgown, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Books (philosophical and romantic texts)
+    - key: books
+      name: Books (philosophical and romantic texts)
       type: miscgear
       system: {shortcode: books, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Calligraphy set (brushes, inks, papers)
+    - key: calligraphyset
+      name: Calligraphy set (brushes, inks, papers)
       type: miscgear
       system: {shortcode: calligraphyset, weight: 1, value: 100, durability: 3}
-    - name: Jewelry and cosmetics
+    - key: jewelryandcosmetics
+      name: Jewelry and cosmetics
       type: miscgear
       system: {shortcode: jewelryandcosmetics, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Scent bottles (perfumes and oils)
+    - key: scentbottles
+      name: Scent bottles (perfumes and oils)
       type: miscgear
       system: {shortcode: scentbottles, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

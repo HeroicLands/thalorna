@@ -27,6 +27,20 @@ data:
     brow: arched
     extra_features: []
   packFolder: ankariskhazryndesert
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - {key: beeswaxandtallow, name: Beeswax and tallow, kind: miscgear, system: {quantity: 5, weight: 1}}
+    - {key: wickmaterials, name: Wick materials, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: candlemolds, name: Candle molds (various sizes), kind: miscgear, system: {quantity: 4, weight: 1}}
+    - {key: measuringscales, name: Measuring scales and weights, kind: miscgear, system: {weight: 1}}
+    - {key: perfumeoils, name: Perfume oils (set of essences), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -77,29 +91,34 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 12}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-hscap}
-    - name: Beeswax and tallow
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - key: beeswaxandtallow
+      name: Beeswax and tallow
       type: miscgear
       system: {shortcode: beeswaxandtallow, quantity: 5, weight: 1, value: 100, durability: 3}
-    - name: Wick materials
+    - key: wickmaterials
+      name: Wick materials
       type: miscgear
       system: {shortcode: wickmaterials, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Candle molds (various sizes)
+    - key: candlemolds
+      name: Candle molds (various sizes)
       type: miscgear
       system: {shortcode: candlemolds, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Measuring scales and weights
+    - key: measuringscales
+      name: Measuring scales and weights
       type: miscgear
       system: {shortcode: measuringscales, weight: 1, value: 100, durability: 3}
-    - name: Perfume oils (set of essences)
+    - key: perfumeoils
+      name: Perfume oils (set of essences)
       type: miscgear
       system: {shortcode: perfumeoils, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:
