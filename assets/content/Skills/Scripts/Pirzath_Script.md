@@ -6,6 +6,7 @@ subType: script
 description: "The letters of the Khazari—angular carved characters that follow the stone, a plain printed hand for everyday use, and a people who write down nearly everything."
 tags: []
 data:
+  kind: script
   icon: icon-speaking
   templatePriority: null
   packFolder: script

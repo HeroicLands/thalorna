@@ -6,6 +6,7 @@ subType: language
 description: "The poetic tongue of the desert peoples, carried on recited verse far more often than on ink."
 tags: []
 data:
+  kind: language
   roman: "abdefghijklmnopqrstuvwyzáéíóúë0123456789·-'"
   core: true
   abbreviation: Dun.

@@ -6,6 +6,7 @@ subType: script
 description: "The cut runes of the Nordmen north—knife-work and chisel-work, the script of memorial stones, oath-staves and the sagas that matter."
 tags: []
 data:
+  kind: script
   icon: icon-speaking
   templatePriority: null
   packFolder: script

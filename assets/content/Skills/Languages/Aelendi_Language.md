@@ -6,6 +6,7 @@ subType: language
 description: "The old Pelwar tongue of the Áelendan highlanders, unchanged in its mountain valleys for hundreds of years and heavily marked by Senali."
 tags: []
 data:
+  kind: language
   roman: "adeghiklmnoprstuáéíóúë-"
   core: true
   abbreviation: Ael.

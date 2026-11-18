@@ -6,6 +6,7 @@ subType: language
 description: "The unwritten tongue of the Vristwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."
 tags: []
 data:
+  kind: language
   roman: "abcdefghijklmnoprstuvwyzABCDEFGHIJKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789-"
   core: true
   abbreviation: Var.

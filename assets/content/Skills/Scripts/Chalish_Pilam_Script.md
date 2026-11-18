@@ -5,7 +5,7 @@ type: skill
 subType: script
 description: "Kì'ìch'chik writing: a common hand of simple glyphs, from the shaft wall to the scribe's vellum, and a ceremonial hand of pictures on temples and monuments."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: script}
+data: {kind: script, icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"

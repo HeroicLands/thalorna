@@ -6,6 +6,7 @@ subType: script
 description: "The imperial letters—the everyday alphabetic hand of Viléria, and the script most of the civilized west now writes in."
 tags: []
 data:
+  kind: script
   icon: icon-speaking
   templatePriority: null
   packFolder: script

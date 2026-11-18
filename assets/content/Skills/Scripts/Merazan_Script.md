@@ -5,7 +5,7 @@ type: skill
 subType: script
 description: "The merchants' abjad of Taruzel—twenty-four consonants, vowels pointed only when money depends on it."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: script}
+data: {kind: script, icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"

@@ -6,6 +6,7 @@ subType: language
 description: "The eldest of the Elder Tongues—vowel-heavy, clean-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
 tags: []
 data:
+  kind: language
   roman: "adehiklmnoprstuvwyáéíóúýâîûǎǐǔì-"
   core: true
   abbreviation: Sin.

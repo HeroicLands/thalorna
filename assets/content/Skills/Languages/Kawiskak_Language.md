@@ -6,6 +6,7 @@ subType: language
 description: "The unwritten tongue of the Spruce People of the northern forest: soft, full of w, with only three vowels, and words that close on a breath and a k."
 tags: []
 data:
+  kind: language
   roman: "ahikmnopstwyáíó0123456789-"
   abbreviation: Kaw.
   icon: icon-speaking

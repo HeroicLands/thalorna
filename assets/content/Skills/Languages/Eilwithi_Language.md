@@ -7,6 +7,7 @@ description: "The speech of the island of Eilwìth, given in these pages in the 
 tags: []
 
 data:
+  kind: language
   roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚìÌ0123456789"
   core: true
   abbreviation: Aelw.

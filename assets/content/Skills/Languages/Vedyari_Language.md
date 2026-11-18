@@ -6,6 +6,7 @@ subType: language
 description: "The language of the Vedyara Region—a family in its own right, whose Classical register stands apart from every spoken vernacular."
 tags: []
 data:
+  kind: language
   roman: "abcdefghijklmnoprstuvyáéíóúë0123456789-'"
   core: true
   abbreviation: Ved.

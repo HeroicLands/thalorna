@@ -6,6 +6,7 @@ subType: language
 description: "The unwritten tongue of the Ice-Edge People of the far northwestern coast: long words ending on q and k, built from short roots, spoken in the men's houses from the walrus capes to the river villages of the Lake Tundra."
 tags: []
 data:
+  kind: language
   roman: "aceghiklmnpqrstuvwyáéíú0123456789-"
   core: true
   abbreviation: Tiku.
