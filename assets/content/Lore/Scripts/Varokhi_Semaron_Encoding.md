@@ -144,7 +144,7 @@ data:
   rules:
     normalization: NFC
     matching: longest-first
-    roundTrip: canonical
+    roundTrip: none
     contextual-mappings:
       - {match: y, before: vowel, emit: YALZEMIS_MIN}
       - {match: Y, before: vowel, emit: YALZEMIS_MAJ}
@@ -152,7 +152,7 @@ data:
       - {match: Ý, before: vowel, emit: YALZEMIS_MAJ}
 ---
 
-This encoding writes [[skill-varokhlng|Varokhi]] in semaron-kuriale. A passage selects it with `enc=varosemaronenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
+This encoding writes [[skill-varokhlng|Varokhi]] in semaron-kuriale. A passage selects it with `enc=varosemaronenc`. The note supplies its language and font. Roman word spaces are retained. Where several spellings share a sign, decoding returns every one of them in brackets, separated by `|`.
 
 ## From the Spelling Guide to Semaron
 

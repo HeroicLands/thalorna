@@ -67,11 +67,11 @@ data:
   rules:
     normalization: NFC
     matching: longest-first
-    roundTrip: canonical
+    roundTrip: none
     contextual-mappings: [{match: y, before: vowel, emit: JA}]
 ---
 
-This encoding writes [[skill-nordmalng|Nordmal]] in thuravark-carved. A passage selects it with `enc=nordthuravarkenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
+This encoding writes [[skill-nordmalng|Nordmal]] in thuravark-carved. A passage selects it with `enc=nordthuravarkenc`. The note supplies its language and font. Roman word spaces are retained. Where several spellings share a sign, decoding returns every one of them in brackets, separated by `|`.
 
 ## From the Spelling Guide to Thuravark
 

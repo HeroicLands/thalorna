@@ -72,7 +72,7 @@ data:
   rules:
     normalization: NFC
     matching: longest-first
-    roundTrip: canonical
+    roundTrip: none
     contextual-mappings:
       - {match: k, before: vowel, emit: KA}
       - {match: kh, before: vowel, emit: KHA}
@@ -123,7 +123,7 @@ data:
       - {match: aií, at: start, emit: [AI, I]}
 ---
 
-This encoding writes [[skill-vedyarlng|Vedyari]] in vedyakshara-classical. A passage selects it with `enc=vedyvedyaksharaenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
+This encoding writes [[skill-vedyarlng|Vedyari]] in vedyakshara-classical. A passage selects it with `enc=vedyvedyaksharaenc`. The note supplies its language and font. Roman word spaces are retained. Where several spellings share a sign, decoding returns every one of them in brackets, separated by `|`.
 
 ## From the Spelling Guide to the Vedyakshara
 

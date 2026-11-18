@@ -218,7 +218,7 @@ data:
   rules:
     normalization: NFC
     matching: longest-first
-    roundTrip: canonical
+    roundTrip: none
     word-separators: ["-"]
     contextual-mappings:
       - {match: "-", emit: [], at: start}
@@ -388,7 +388,7 @@ data:
       - {match: ýúý, emit: [CARRIER, SIGN_Y, CARRIER, SIGN_U, CARRIER, SIGN_Y], at: start}
 ---
 
-This encoding writes [[skill-aelendlng|Áelendi]] in veldikko. A passage selects it with `enc=aeleveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
+This encoding writes [[skill-aelendlng|Áelendi]] in veldikko. A passage selects it with `enc=aeleveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Where several spellings share a sign, decoding returns every one of them in brackets, separated by `|`.
 
 ## From the Spelling Guide to the Veldikko
 

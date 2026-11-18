@@ -8,7 +8,7 @@ data:
   language: zxx
   font: teng-chou
   mappings: {}
-  rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
+  rules: {normalization: NFC, matching: longest-first, roundTrip: exact}
   accepts: []
 ---
 

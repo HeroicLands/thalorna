@@ -219,7 +219,7 @@ data:
   rules:
     normalization: NFC
     matching: longest-first
-    roundTrip: canonical
+    roundTrip: none
     word-separators: ["-"]
     contextual-mappings:
       - {match: "-", emit: [], at: start}
@@ -2449,7 +2449,7 @@ data:
   vowels: aeiouyìáéíóúýǎâǐîǔû
 ---
 
-This encoding writes [[skill-senalilng|Senali]] in veldikko. A passage selects it with `enc=senaveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
+This encoding writes [[skill-senalilng|Senali]] in veldikko. A passage selects it with `enc=senaveldikkoenc`. The note supplies its language and font. Roman word spaces are retained. Where several spellings share a sign, decoding returns every one of them in brackets, separated by `|`.
 
 ## From the Spelling Guide to the Veldikko
 

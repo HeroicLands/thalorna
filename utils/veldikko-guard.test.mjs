@@ -304,6 +304,24 @@ test("an acute on a held vowel's or diphthong's second letter splits it", () => 
     assert.equal(referenceWithPerformance("pái", convertVeldikko), sign(P, A, STRESS, I));
 });
 
+const escapeRegExp = (text) => text.replace(/[.*+?^${}()|[\]\\]/gu, "\\$&");
+
+/**
+ * Whether a decoding admits the source. The Senali program shares signs between
+ * spellings, so its decoding lists every spelling of a shared sign as `[a | b]`.
+ */
+function admits(decoded, source) {
+    const pattern = decoded
+        .split(/(\[[^\]]+\])/u)
+        .map((part) =>
+            /^\[[^\]]+\]$/u.test(part) ?
+                `(?:${part.slice(1, -1).split(" | ").map(escapeRegExp).join("|")})`
+            :   escapeRegExp(part),
+        )
+        .join("");
+    return new RegExp(`^${pattern}$`, "u").test(source);
+}
+
 /** The Senali program compiled with the installed font's codes. */
 function senali() {
     return compileEncoding(
@@ -333,18 +351,18 @@ test("the Senali program accepts only the common tone and stress marks", () => {
     for (const source of accepted) {
         const native = encodeText(encoding, source);
         assert.equal(native, referenceWithPerformance(source, convertVeldikko), source);
-        assert.equal(decodeText(encoding, native).replace(/^ch/, "k"), source, source);
+        assert.ok(admits(decodeText(encoding, native), source), source);
     }
     for (const source of ["kâ", "kǎ", "kaâ", "kêe", "kôo", "kâi", "kaî", "kấa", "kâá", "ŷ"])
         assert.throws(() => encodeText(encoding, source), undefined, source);
 });
 
-test("the Senali program round-trips the people's name and a person of them", () => {
+test("the Senali program reads back the people's name and a person of them", () => {
     const encoding = senali();
     for (const source of ["senali", "senalo"]) {
         const native = encodeText(encoding, source);
         assert.equal(native, referenceWithPerformance(source, convertVeldikko), source);
-        assert.equal(decodeText(encoding, native).replace(/^ch/, "k"), source, source);
+        assert.ok(admits(decodeText(encoding, native), source), source);
     }
 });
 
@@ -367,7 +385,7 @@ test("the Senali program groups three or more vowels as the reference does", () 
     ]) {
         const native = encodeText(encoding, source);
         assert.equal(native, referenceWithPerformance(source, convertVeldikko), source);
-        assert.equal(decodeText(encoding, native).replace(/^ch/, "k"), source, source);
+        assert.ok(admits(decodeText(encoding, native), source), source);
     }
 });
 
@@ -409,7 +427,7 @@ test("the Senali program refuses a tone the left-to-right grouping puts off a he
     for (const source of PLACED_TONES) {
         const native = encodeText(encoding, source);
         assert.equal(native, referenceWithPerformance(source, convertVeldikko), source);
-        assert.equal(decodeText(encoding, native), source, source);
+        assert.ok(admits(decodeText(encoding, native), source), source);
     }
     // A row condition sees one letter back, so a second toned held vowel
     // straight after a group-and-tone row has no row.
@@ -440,10 +458,10 @@ test("a lexicon form with a tone on a group's second letter is a finding", (t) =
         );
 });
 
-test("a held vowel's tone round-trips on its first letter, bare and with the lexicon", (t) => {
+test("a held vowel's tone reads back on its first letter, bare and with the lexicon", (t) => {
     const encoding = senali();
     for (const source of ["onsâa", "ovûu"])
-        assert.equal(decodeText(encoding, encodeText(encoding, source)), source);
+        assert.ok(admits(decodeText(encoding, encodeText(encoding, source)), source), source);
     const values = records();
     values[0].data.words = [
         { form: "onsâa", gloss: "test" },
@@ -461,7 +479,8 @@ test("a held vowel's tone round-trips on its first letter, bare and with the lex
         const encoded = encodeWithLanguage(selected.encoding, source, options);
         assert.deepEqual(encoded.findings, [], source);
         const back = decodeWithLanguage(selected.encoding, encoded.text, options);
-        assert.deepEqual(back, { text: source, findings: [] });
+        assert.deepEqual(back.findings, [], source);
+        assert.ok(admits(back.text, source), source);
     }
 });
 

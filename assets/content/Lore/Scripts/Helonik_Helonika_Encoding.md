@@ -125,10 +125,10 @@ data:
     ÓU: LONG_O_MAJ
     –: []
     "-": []
-  rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
+  rules: {normalization: NFC, matching: longest-first, roundTrip: none}
 ---
 
-This encoding writes [[skill-helonclng|Helonik]] in helonika-book. A passage selects it with `enc=helohelonikaenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
+This encoding writes [[skill-helonclng|Helonik]] in helonika-book. A passage selects it with `enc=helohelonikaenc`. The note supplies its language and font. Roman word spaces are retained. Where several spellings share a sign, decoding returns every one of them in brackets, separated by `|`.
 
 ## From the Spelling Guide to the Helónika
 
