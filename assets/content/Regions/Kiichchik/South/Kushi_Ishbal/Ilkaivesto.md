@@ -9,7 +9,6 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [kuxiixbalrgn]
-  population: null
   packFolder: kuxiixbal
   culture: senaliclt
   notes: "The southern conclave of the Senali in Kì'ìch'chik, in the great swamp of the lowland below K'ushi Ish'bal's plateau, the last green country north of the wastes."

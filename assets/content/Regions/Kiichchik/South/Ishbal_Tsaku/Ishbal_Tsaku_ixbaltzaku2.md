@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [ixbaltzakurgn]
-  population: 60000
-  market: international
-  type: city
+  population: 4500
+  market: local
+  type: town
   government: ixbaltzaku
   packFolder: ixbaltzaku
   notes: "Seat of a mountain-and-river realm of fortress-cities, gold-working and absolute priestly control of trade."
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-Come down the great southern white road from [[place-neokbaatergn|Ne'ok Ba'ate]] and the mountains of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] fill the horizon: a range running north to south, with snow on the peaks, fortress-cities and ceremonial centers on the heights, and jungle in the valleys below. The seat of the realm of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] is a city of about 60,000, in the jewel of the southern Kì'ìch'chik territories, a realm whose cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur and influence. The name carries _ish'bal_, the jaguar, and the people revere the spotted predator as an emblem of divine power.
+Come down the great southern white road from [[place-neokbaatergn|Ne'ok Ba'ate]] and the mountains of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] fill the horizon: a range running north to south, with snow on the peaks, fortress-cities and ceremonial centers on the heights, and jungle in the valleys below. The seat of the realm of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] is a city of about 4,500, in the jewel of the southern Kì'ìch'chik territories, a realm whose cities rival the great ones of [[affiliation-ixilankul|Ish'ilankul]] in grandeur and influence. The name carries _ish'bal_, the jaguar, and the people revere the spotted predator as an emblem of divine power.
 
 ## Who Governs
 

@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [ixbaltzakurgn]
-  population: 12000
+  population: 1000
   type: town
-  market: regional
+  market: local
   government: ixbaltzaku
   packFolder: ixbaltzaku
   notes: "The forge town on the flank of a smoking mountain in Ish'bal Tsa'ku, whose smith kin make the steel the warriors of the south carry and the obsidian the priests cut with."
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-Every forge in Ne' Ki'ahkul is lit from the fire on the temple of [[lore-kayikchalixdty|K'ayik Ch'alish]], and a smith whose forge goes out does not relight it from a neighbor's. He walks up the temple stair with a covered jar, pays the fire-keepers, and carries the coal down again. Ne' Ki'ahkul is the forge town of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]: about 12,000 people on the steep flank of a mountain that smokes, where the heat of the ground warms the workshops and the valleys below run with black glass. Its smiths make the steel blades and breastplates that the warriors of the south carry, and its stoneworkers cut the obsidian that the priests of every city use.
+Every forge in Ne' Ki'ahkul is lit from the fire on the temple of [[lore-kayikchalixdty|K'ayik Ch'alish]], and a smith whose forge goes out does not relight it from a neighbor's. He walks up the temple stair with a covered jar, pays the fire-keepers, and carries the coal down again. Ne' Ki'ahkul is the forge town of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]: about 1,000 people on the steep flank of a mountain that smokes, where the heat of the ground warms the workshops and the valleys below run with black glass. Its smiths make the steel blades and breastplates that the warriors of the south carry, and its stoneworkers cut the obsidian that the priests of every city use.
 
 ## The Mountain and the Town
 

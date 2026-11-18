@@ -6332,7 +6332,6 @@ data:
       - "zakedala"
       - "zimbala"
   sounds:
-    stress: {two: first, longer: penultimate, mark: acute}
     edges:
       - {edge: openCluster, sounds: [mb, mp, nd, nt, nk, nj, nz]}
       - {edge: closeConsonant, sounds: []}

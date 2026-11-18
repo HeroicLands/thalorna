@@ -43,7 +43,7 @@ The Reeve of Wenlorne keeps [[place-wenlornestage|Wenlorne Stage]], offering sup
 
 He bows, takes a guest’s name and asks for news of the road in a level, dusty voice. He returns every conversation to the safety of travelers and the duties of his office.
 
-:::secret {title="The oath’s host"}
+:::secret {title="Behind the presentation"}
 The dead Reeve believes the Great War is in its last night. The Shadow holds him to his oath that no guest leaves while the road is unsafe. His apparent solicitude is exact: he keeps the guests under his roof indefinitely.
 :::
 
@@ -67,19 +67,19 @@ Dunmere’s foresters count nine missing patrols and stop sending more. The last
 
 ## Combat Strategy
 
-:::secret {title="Keeping the guests"}
+:::secret {title="In a fight"}
 The Reeve fights to keep guests inside. He brings the porters toward an escape route and counts the party before using the cord of his office. Breaking the lamps and board weakens him until dawn. Sounding the road-horn draws the dead into the court.
 :::
 
 ## Attack Methods
 
-:::secret {title="The porters"}
+:::secret {title="The attacks"}
 The Reeve fights to keep guests inside. His porters move toward an escape route and crowd the doorways, and he lays his dry, cold touch and the cord of his office on whoever tries to leave; use [[being-damut|Damut]] for the porters and for the Reeve’s own body, with the abilities below. His confrontation follows [[scenario-lampswenlorne|Pale Lamps on the Crown Road]].
 :::
 
 ## Special Abilities
 
-:::secret {title="The names and the oath"}
+:::secret {title="The abilities"}
 
 ### The guest’s keeping
 

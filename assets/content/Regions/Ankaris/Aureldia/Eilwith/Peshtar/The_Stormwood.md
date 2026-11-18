@@ -9,6 +9,11 @@ data:
   demonym: Kelgar
   lore: [humanflk]
   parents: [pshtrwldrns]
+  borders:
+    - {to: stormplain, bearing: E}
+    - {to: nordfells, bearing: N}
+    - {to: highwood, bearing: W}
+    - {to: nordmoor, bearing: NW}
   population: 22000
   government: kelgar
   packFolder: eilwith

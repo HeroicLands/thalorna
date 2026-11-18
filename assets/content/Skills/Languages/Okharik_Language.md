@@ -4703,7 +4703,6 @@ data:
       - {edge: closeConsonant, sounds: [n, ng, m, l, r, t, s]}
       - {edge: vowelPair, sounds: [ai, au, ei, oi, ou, io]}
     clusters: {max: 2}
-    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     folders:
       - okharis

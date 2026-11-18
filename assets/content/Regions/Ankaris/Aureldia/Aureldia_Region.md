@@ -30,6 +30,16 @@ Climate varies correspondingly: cool and rain-washed in the north and west, temp
 ## Polities
 
 ```sql
+WITH RECURSIVE lands(addr) AS (
+  SELECT r.address.canonical
+  FROM notes r
+  WHERE r.type = 'place' AND r.shortcode = 'aureldirgn'
+  UNION
+  SELECT c.address.canonical
+  FROM notes c
+  JOIN lands ON list_contains(c.data.parents, lands.addr)
+  WHERE c.type = 'place'
+)
 SELECT p.address.slug AS _ref,
        p.name.full    AS "Polity",
        p.description  AS "Overview"
@@ -39,9 +49,8 @@ WHERE p.type = 'affiliation'
   AND EXISTS (
     SELECT 1
     FROM notes l
-    WHERE l.type = 'place'
-      AND l.data.government IN (p.address.canonical, p.documentation)
-      AND (l.shortcode = 'aureldirgn' OR list_contains(l.data.parents, 'thalorna-note-place-aureldirgn'))
+    JOIN lands ON l.address.canonical = lands.addr
+    WHERE l.data.government IN (p.address.canonical, p.documentation)
   )
 ORDER BY p.name.full COLLATE NOCASE
 ```
@@ -88,6 +97,24 @@ The major powers of the region are:
 : The [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and its constellation of cultured cities ([[place-kalveza|Kalveza]], [[place-palvothe|Palvote]], [[place-pirnebris|Pirnebris]], [[place-aureliane|Aurelane]], [[place-durvalis|Durvalis]], [[place-lizela|Lizela]], [[place-jalnazdal|Jalnasdal]]).
 
 The [[affiliation-ordoarcanis|Thordimalon]] maintains chapters across most Aureldian polities, asserting its claim to oversee all arcane practice—a claim honored in breach as often as in observance. Élavendre's independent magical traditions ([[lore-faecourts|the Fae Courts]], the Bardic Colleges, the Silver Forests mysteries) chafe constantly against Arcane Order authority, and the Eilwìthan shamans have never truly accepted Arcane Order oversight at all. The result is a magical culture that is broadly licensed under Arcane Order rules on paper and riddled with regional exceptions in practice.
+
+## Current Situation {#present}
+
+Each land keeps one quarrel that shapes its season, and three more cross the lands. Each land's own note tells its quarrel in full.
+
+- **[[place-tarvenirgn#present|Tarvénia]].** The High King, [[being-ularrekgarr|Ularrek Garrundeta]], is old and holds his court at [[place-lezkora|Lezkora]] as the guest of [[being-alzemozold|Alzemo Zolduregi]] of Asturath, while [[being-zenotholtr|Zenoth Oltris]] of Lyenrik means to stand at the next election.
+- **[[place-provenzrgn#present|Provénzia]].** [[being-kralenldrvn|Kralen Lédravren]] reigns over a Council of Peers that cannot find a majority, and a Princess of [[place-gwefavel|Gefavel]] means to win back the standing her line lost.
+- **[[place-elavendre#present|Élavendre]].** The royal house of Kírethel, the Bardic Colleges, the Grove Council and the Áelendan hold their own magical traditions against the Thordimalon's claim to oversee them.
+- **[[place-eilwith#present|Eilwìth]].** [[being-velisndorrvl|Velisande Orravel]], Prime of Dúnavarre's Synod, holds every crossing through Ravenmoor and presses the war on the Seilvri; [[being-aldrikdrthng|Aldrik Drething]] asks the barons of Aldorath to accept his son as king-to-be; [[being-godstanhrdl|Godstan Hardli]] wants another legion raised for Ondareth's northern frontier; [[being-draskmilglrv|Draskmil Glarvendik]] means to put the High Jarl's seat to the Midsomar moot; and the Grukar nests are at war with every realm.
+- **[[place-calypsaisle#present|Kalipsa]].** The term of the Harbormaster, [[being-hrundthrsk|Hrundselda Thraskumak]], ends at the spring sitting, where [[being-knilthtvrn|Knilthorv Tvarnidrok]] means to succeed her and [[being-kubasornrd|Kubasor Norodari]] means to stop him over the tonnage census, and the levy under the quarrel pays for the squadrons on which northern Élavendre's coast depends.
+
+Three quarrels run through more than one land.
+
+**The Thordimalon's writ.** Élavendre's traditions contest it, Dúnavarre is governed by it, and Kalipsa holds it to the waterline.
+
+**The northern edge.** The Nordmen hold Stormveld and raid the coasts of Élavendre, and Kalipsa pays them no tribute.
+
+**The Tarvénian and Provénzian frontier.** The barons of the Western March go down the passes into the Talote every season the snow allows, in the [[lore-summerwar|Summer War]], by a road that Provénzia's walls at [[place-durvalis|Durvalis]] stand on.
 
 ## Trade
 

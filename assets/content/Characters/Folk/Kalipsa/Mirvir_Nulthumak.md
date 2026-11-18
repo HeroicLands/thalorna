@@ -43,7 +43,7 @@ Mirvir Nulthumak is the Clerk of the Council of [[affiliation-calypsa|Kalipsa]],
 
 He was a house clerk of the lower quay before the Council chose him, and he has kept the roll for nine years. Each spring he enters the totals [[being-tvilgrlthr|the Customs Officer]] brings him from the tonnage census, house by house, with every sale of a hull or a share that the parties have registered in the year. This spring the roll decides the Harbormaster's election, and he has never been so popular.
 
-:::secret {title="A sale not paid"}
+:::secret {title="What the referee knows"}
 Two springs ago Mirvir entered the sale of two hulls from [[affiliation-hsetvarnidrok|Tvarnidrok]] to [Hvarnumak]{.name data-type="affiliation/lineage"}, and the sale came to him without a [[affiliation-danvar|Danvar]] receipt for the price. He entered it anyway, because the roll records what the parties register and not what they pay, and because the houses were Tvarnidrok and a Past Harbormaster's. He has kept the paper, and he knows that without those two hulls Hvarnumak has no seat.
 :::
 

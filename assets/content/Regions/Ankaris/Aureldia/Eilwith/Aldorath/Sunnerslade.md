@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [aldorathrgn]
+  borders: [{to: aldorvale, bearing: S}, {to: ironfells, bearing: N}]
   population: 21000
   government: kngdmldrth
   packFolder: eilwith

@@ -86,7 +86,6 @@ data:
       - "Kervishun"
       - "Budemun"
   sounds:
-    stress: {two: first, longer: penultimate}
     syllables:
       onsets: single
       codas: [l, m, n, r, t, d, k, s, sh]

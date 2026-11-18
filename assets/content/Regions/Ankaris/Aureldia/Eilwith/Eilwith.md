@@ -8,7 +8,8 @@ data:
   demonym: null
   lore: []
   parents: [aureldirgn]
-  population: 710000
+  routes: [{to: elavendre, bearing: SE, mode: ship, days: 5, terrain: [open-sea, coast]}]
+  population: 670000
   packFolder: eilwith
   culture: aelwythanclt
 
@@ -155,7 +156,7 @@ house does not say whether it has been tried.
 
 Two things are true about Eilwìth at once, and neither of the people concerned believes the other.
 
-**Eilwìthans think of themselves as the world.** Seven hundred thousand people on one island conduct
+**Eilwìthans think of themselves as the world.** Some six hundred and seventy thousand people on one island conduct
 their affairs with the entire seriousness of continental powers: the rivalry between
 Aldorath and Dúnavarre is followed as great
 politics, the standing of the realms is weighed and argued, and a good Eilwìthan family knows its
@@ -270,22 +271,25 @@ denied a story about the island in its life.
 
 ## Population
 
-Eilwìth holds about **710,000** people, which is few for an island of its size, and the reason is that
+Eilwìth holds about **670,000** people, which is few for an island of its size, and the reason is that
 most of Eilwìth is empty: **a third of it is dense forest**—old, deep and effectively unsettled—and
 beyond that lie further large tracts of upland, moor and bog that support nobody at all.
 
-They fall into three groups, and the smallest of the three is not a tribe and should not be counted as
-one.
+They fall into several groups, and the Vardain are not a tribe and should not be counted as one.
 
-| Group                         | People   |
-| ----------------------------- | -------- |
-| The four settled realms       | ~575,000 |
-| The tribal peoples            | ~125,000 |
-| The [[lore-vardain\|Vardain]] | ~8,500   |
+| Group                                       | People   |
+| ------------------------------------------- | -------- |
+| The four settled realms                     | ~575,000 |
+| The tribal peoples                          | ~74,000  |
+| The free steadings of the Central Highlands | ~9,000   |
+| The [[lore-vardain\|Vardain]]               | ~8,500   |
+| The [[lore-flksenali\|Senali]] of Seirasto  | ~4,000   |
+| The [[lore-flkkhazar\|Khazari]] of Vorgald  | ~2,000   |
+| The free city of Veldareth                  | ~1,500   |
 
-The **tribal peoples**—about a sixth of the island—live outside every realm, in the
-Peshtar Wilderness across the north-west and much of the northern coast, and in
-isolated wooded communities through the interior and the southern forest. The lowland realms
+The **tribal peoples**—about a tenth of the island—live outside every realm, in the
+Peshtar Wilderness across the north-west and much of the northern coast, in the Thornwold,
+and in the old woods of western Dúnavarre. The lowland realms
 call all of them barbarians, which is convenient and uninformative; the forest peoples are markedly more
 warlike than the northern tribes, and the settled realms treat the forest margins as frontier rather
 than border.

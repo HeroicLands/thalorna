@@ -47,7 +47,7 @@ Kubasor Norodari is the head of [[affiliation-hsenorodari|the Norodari]], a hous
 
 He took the house's seat when its tonnage first passed the census floor, and the newer houses that rose with the Run's trade follow him because a [[affiliation-hsetvarnidrok|Tvarnidrok]] Harbormaster would hold the levy on the old houses' terms. All winter he has bought and ordered hulls, two of them building in the [[affiliation-hsethraskumak|Thraskumak]] yards, to change the voices before the spring census. Three of his hulls went down in the autumn fog, and he borrowed against their bonds to pay for the new ones. [the Syndicate of the Gull]{.name data-type="affiliation/venture"} has refused the bonds, and the loss is before [[place-sealawhall|the Sea-Law Hall]].
 
-:::secret {title="What the house owes"}
+:::secret {title="What the referee knows"}
 The Norodari owe the [[affiliation-danvar|Danvar]] moneylenders of the quay more than the house is worth without the three bonds. The notes fall due at the spring census, and the moneylenders hold the two hulls building in the Thraskumak yards as their surety. If the Gull does not pay, Kubasor loses the new hulls on the morning they would have been counted, and the house falls below the census floor within a year. He has told nobody but his factor at Sarmelis, and he speaks in the Council as a man with money to spare.
 :::
 

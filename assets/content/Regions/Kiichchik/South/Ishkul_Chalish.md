@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [kuxiixbalrgn]
-  population: 14000
-  market: regional
-  type: city
+  population: 1100
+  market: local
+  type: town
   government: kuxiixbal
   packFolder: kuxiixbal
   notes: "The temple-city of the sacred lake of K'ushi Ish'bal, whose priests own the lake, its boats and the greatest herds of the plateau, and whose southern shore they have closed."
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-At dawn the lake is a mirror, and the first light of the sun comes off it onto the face of the great pyramid, which was set on the shore to catch it. Ishkul Ch'alish, the Holy Silver Seat, is the temple-city of the sacred lake that fills the eastern reaches of the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]: about 14,000 people on its northern shore, nearly all of whom serve the temples in one way or another. The lake is held to be the eye through which the gods watch the world, and the priesthood owns it outright. Nobody fishes it, nobody crosses it on business, and nobody sets foot in a boat on it without a priest's blessing.
+At dawn the lake is a mirror, and the first light of the sun comes off it onto the face of the great pyramid, which was set on the shore to catch it. Ishkul Ch'alish, the Holy Silver Seat, is the temple-city of the sacred lake that fills the eastern reaches of the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]: about 1,100 people on its northern shore, nearly all of whom serve the temples in one way or another. The lake is held to be the eye through which the gods watch the world, and the priesthood owns it outright. Nobody fishes it, nobody crosses it on business, and nobody sets foot in a boat on it without a priest's blessing.
 
 ## The Lake and the City
 

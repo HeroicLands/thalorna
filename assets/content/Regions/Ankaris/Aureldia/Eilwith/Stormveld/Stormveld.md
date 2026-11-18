@@ -9,6 +9,11 @@ data:
   demonym: Stormvelder
   lore: [humanflk]
   parents: [eilwith]
+  borders:
+    - {to: pshtrwldrns, bearing: W}
+    - {to: ironfells, bearing: E}
+    - {to: aldorathrgn, bearing: SE}
+    - {to: eilissa, bearing: S}
   population: 150000
   packFolder: eilwith
   government: jrldmstrmvld

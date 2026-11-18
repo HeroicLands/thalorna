@@ -42,7 +42,7 @@ The Rooted Chief is the ancestor figure at the oldest oak of [[place-nethermooth
 
 A question addressed to the ancestor receives a slow answer through the wood. Its antlered shape follows the split in the trunk.
 
-:::secret {title="The voice beneath the Shadow"}
+:::secret {title="Behind the presentation"}
 The Shadow wears the first chief’s remains and speaks through the black seam in the oak. The chief’s own will can still answer beneath it. Addressing him as a clansman gives the party a way to hear that difference.
 :::
 
@@ -52,7 +52,7 @@ The oak stands at the hollow’s lowest point among the clan’s burial trees. [
 
 ## Key Behaviors
 
-:::secret {title="The binding’s command"}
+:::secret {title="Behind the behavior"}
 The figure calls the root-sworn against intruders and against Brodet as she tries to hold the seam shut. The dead want release from the binding. Killing Brodet leaves that binding intact.
 :::
 
@@ -68,19 +68,19 @@ Gorlen’s warriors skirt the dell’s north side and leave the witch alone. The
 
 ## Combat Strategy
 
-:::secret {title="At the oldest oak"}
+:::secret {title="In a fight"}
 The Shadow calls the root-sworn to defend the seam. Cutting the oak wounds the great body, but does not free the dead. The chief beneath the voice can be addressed while Brodet struggles at the roots.
 :::
 
 ## Attack Methods
 
-:::secret {title="The rooted body"}
+:::secret {title="The attacks"}
 The Chief fights from the oldest oak. Its great antlered body reaches along the split in the trunk at anyone who comes near the seam, while the root-sworn gray figures from the dell’s rim press in against intruders; use [[being-damut|Damut]] for the rooted dead’s close fighting. It does not leave the oak. The choices at the seam are in [[scenario-yearsinoaks|Ten Winters in the Bark]].
 :::
 
 ## Special Abilities
 
-:::secret {title="The omitted funeral rite"}
+:::secret {title="The abilities"}
 
 ### The binding
 

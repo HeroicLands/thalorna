@@ -382,6 +382,6 @@ Sir Arren Thábavel is a knight in a tournament winner's bright surcoat, with hi
 
 **Background.** A brave and experienced knight of great martial reputation, lately winner of the [[lore-kelivrentrny|Royal Kelivren Tournament of Chivalry]].
 
-:::secret {title="Jealousy of Dame Torad"}
+:::secret {title="What the referee knows"}
 Feels overshadowed by [[being-toradhtaravren|Dame Torad Taravren]], whose distinctions come from real campaigns rather than tournaments. His jealousy drives him to outshine her in any confrontation, and could produce reckless decisions.
 :::

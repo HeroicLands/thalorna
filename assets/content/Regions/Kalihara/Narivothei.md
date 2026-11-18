@@ -9,7 +9,6 @@ data:
   demonym: null
   lore: []
   parents: [klhrdpfrst]
-  population: null
   packFolder: kalihara
   government: kalihara
   culture: kaliharanclt

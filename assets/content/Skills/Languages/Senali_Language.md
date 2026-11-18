@@ -7425,7 +7425,6 @@ data:
       - "sìllente"
       - "ressinto"
   sounds:
-    stress: {two: first, longer: penultimate}
     syllables:
       vowelPairs: [ai, au, oi, ou, ei]
       harmony: {back: [a, o, u, ai, au, oi, ou], front: [ì], neutral: [e, i, ei], neutralAs: back}

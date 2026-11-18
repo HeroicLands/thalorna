@@ -9,6 +9,12 @@ data:
   demonym: Durrask
   lore: [humanflk]
   parents: [eilwith]
+  borders:
+    - {to: ondareth, bearing: W}
+    - {to: cntrlhghlnds, bearing: NW}
+    - {to: dunavarre, bearing: E}
+    - {to: hallowwood, bearing: S}
+    - {to: aldorathrgn, bearing: NE}
   population: 9000
   government: durrask
   packFolder: eilwith
@@ -34,4 +40,4 @@ The Durrask fight [[lore-grukaraelwyth|Grukar]] wherever they meet them in the c
 : a scenario: brood mares taken and the names of the riders who killed a war-leader's brother
 
 [[scenario-lampswenlorne|Pale Lamps on the Crown Road]]
-: a scenario: pale lamps that lead to a waystation whose gate never opens again
+: a scenario: pale lamps that light a relay house on the old road south of Dunmere

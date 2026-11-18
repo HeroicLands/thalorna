@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [kankulrgn]
-  population: 20000
-  market: regional
-  type: city
+  population: 1500
+  market: local
+  type: town
   government: kankul
   packFolder: kankul
   notes: "The Walled City: K'ankul's harbor town on the sea-cliffs, walled on three sides and open to the sea on the fourth, whose lamp temple guides canoes through the one gap in the reef."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-From the sea, Ts'okilkul is a line of white on top of a gray cliff, with a temple at the cliff's edge and a small beach below it. From the land it is a wall. The wall runs in a great bracket from the cliff edge inland and back to the cliff again, as tall as two men and thick enough to walk along, with five narrow gates and a watchtower at each corner, and the town fills the space inside it. Ts'okilkul, the Walled City, is a harbor town of about 20,000 people on the coast of the [[place-kankulrgn|K'ankul Region]] and one of the great cities of the realm of [[affiliation-kankul|K'ankul]]. Its wall commands the overland roads that run from the coast into the interior, and its harbor commands the sea trade along the coast.
+From the sea, Ts'okilkul is a line of white on top of a gray cliff, with a temple at the cliff's edge and a small beach below it. From the land it is a wall. The wall runs in a great bracket from the cliff edge inland and back to the cliff again, as tall as two men and thick enough to walk along, with five narrow gates and a watchtower at each corner, and the town fills the space inside it. Ts'okilkul, the Walled City, is a harbor town of about 1,500 people on the coast of the [[place-kankulrgn|K'ankul Region]] and one of the great cities of the realm of [[affiliation-kankul|K'ankul]]. Its wall commands the overland roads that run from the coast into the interior, and its harbor commands the sea trade along the coast.
 
 ## The Reef and the Lamp
 

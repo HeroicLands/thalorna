@@ -45,7 +45,7 @@ Hvurnrinna Vrathumak is the elder of [Vrellnes]{.name data-type="place/settlemen
 
 The spring of Vrellnes is the best on the shore, and the vats need it. When the city's cisterns ran low in the dry summer, the Harbormaster's office sent water-carts over the ridge to buy from the village spring-houses at the city's price. [Dvonvík]{.name data-type="place/settlement"} sold. Hvurnrinna locked the spring-house and turned the carters away, and they went back to the city with empty casks and a complaint to the Master of the Watch, [[being-krildtvlgr|Krildthira Tvulgaruk]]. She has since sent word to every village on the shore that a spring-house that opens to one cart opens to all.
 
-:::secret {title="The jars in the spring-house"}
+:::secret {title="What the referee knows"}
 The spring-house of Vrellnes has a cellar under its floor, and in it stand half the season's sealed dye-jars, which the village told a cloth-merchant's factor in the city had gone over the ridge to him. Hvurnrinna kept them back to sell to a Provénzian buyer who has offered twice the factor's price at the Dvonvík quay in the spring. The jars are one reason the spring-house stays locked: its cellar steps go down straight among them.
 :::
 

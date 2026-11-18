@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [ixbaltzakurgn]
-  population: 18000
+  population: 1400
   type: town
-  market: regional
+  market: local
   government: ixbaltzaku
   packFolder: ixbaltzaku
   notes: "The river-junction market town of Ish'bal Tsa'ku, where llama-trains from the highlands meet the jungle canoes, the cargo waits for an opened day, and the two halves of the town quarrel over every wharf."
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-Every morning a road priest climbs the pyramid of [[lore-xilanixlandty|Shilan Ish'lan]] and calls the day, and on the wharves below the boatmen listen for one word. On a day the Walker of Paths has opened, the canoes push off. On a day he has closed, nobody launches, and the cargo stays in the warehouses at a fee. Ne' P'ashel, Quetzal Water, is the market town of about 18,000 where three highland rivers meet the great river that runs down through the jungle to the coast, and it is the busiest place in [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] after the port at [[place-tzalamne|Ts'alam Ne']].
+Every morning a road priest climbs the pyramid of [[lore-xilanixlandty|Shilan Ish'lan]] and calls the day, and on the wharves below the boatmen listen for one word. On a day the Walker of Paths has opened, the canoes push off. On a day he has closed, nobody launches, and the cargo stays in the warehouses at a fee. Ne' P'ashel, Quetzal Water, is the market town of about 1,400 where three highland rivers meet the great river that runs down through the jungle to the coast, and it is the busiest place in [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] after the port at [[place-tzalamne|Ts'alam Ne']].
 
 ## The Town
 

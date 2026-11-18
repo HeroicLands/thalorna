@@ -9,6 +9,7 @@ data:
   demonym: Lonagar
   lore: [humanflk]
   parents: [pshtrwldrns]
+  borders: [{to: nordfells, bearing: E}, {to: highwood, bearing: S}, {to: stormwood, bearing: SE}]
   population: 17000
   government: lonagar
   packFolder: eilwith

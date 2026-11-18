@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The warm open uplands at the middle of Eilwìth, between Ondareth and the western shore of Lake Eilìssa—rising above the coastal fog into the clearest and kindest weather on the island, and held by no realm."
 tags: [region, hill, inland]
-data: {demonym: null, lore: [], parents: [eilwith], population: 9000, packFolder: eilwith}
+data:
+  demonym: null
+  lore: []
+  parents: [eilwith]
+  borders: [{to: ondareth, bearing: W}, {to: thornwold, bearing: SE}]
+  population: 9000
+  packFolder: eilwith
 ---
 
 The **Central Highlands** occupy the middle of [[place-eilwith|Eilwìth]], between the

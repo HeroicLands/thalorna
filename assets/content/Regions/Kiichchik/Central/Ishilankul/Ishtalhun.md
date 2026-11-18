@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [ixilankulrgn]
-  population: 45000
-  market: regional
-  type: city
+  population: 3400
+  market: local
+  type: town
   government: ixilankul
   packFolder: ixilankul
   notes: "The Place of Obsidian Blood: a city of Ish'ilankul under a ridge of volcanic glass, which makes the plateau's blades and mirrors, trains its captive-warriors, and holds the training ground of the Blood-Workers."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-The streets of Ishtal'hun glitter. Chips of black glass lie in the dust of every path, swept out of the knappers' yards and ground in by feet, and a newcomer learns on the first day to walk in sandals with thick soles. Ishtal'hun, the Place of Obsidian Blood, is a city of about 45,000 people on the eastern spine of the [[place-ixilankulrgn|Ish'ilankul Region]], built up the slopes of a valley under a long ridge of volcanic glass. It is one of the city-states of [[affiliation-ixilankul|Ish'ilankul]], and it makes two things that the whole plateau needs: obsidian, and warriors who take their enemies alive.
+The streets of Ishtal'hun glitter. Chips of black glass lie in the dust of every path, swept out of the knappers' yards and ground in by feet, and a newcomer learns on the first day to walk in sandals with thick soles. Ishtal'hun, the Place of Obsidian Blood, is a city of about 3,400 people on the eastern spine of the [[place-ixilankulrgn|Ish'ilankul Region]], built up the slopes of a valley under a long ridge of volcanic glass. It is one of the city-states of [[affiliation-ixilankul|Ish'ilankul]], and it makes two things that the whole plateau needs: obsidian, and warriors who take their enemies alive.
 
 ## The Glass
 

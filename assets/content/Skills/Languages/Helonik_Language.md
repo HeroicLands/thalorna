@@ -5482,7 +5482,6 @@ data:
       - {edge: closeCluster, sounds: [hr]}
     clusters: {max: 3}
     syllables: {vowelPairs: [ai, ei, oi, au, ou]}
-    stress: {two: first, longer: penultimate, mark: acute}
     joining:
       - first: [a, a]
         second: [a, a]

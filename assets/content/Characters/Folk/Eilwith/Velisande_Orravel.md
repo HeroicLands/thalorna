@@ -15,7 +15,7 @@ data:
   homes: [ravenmoor]
   affiliations:
     dunavarsynod: {rank: 4, office: Prime Marendos}
-    kingdmdnvr: {rank: 5}
+    kingdmdnvr: {rank: 5, office: Prime Marendos}
     ordoarcanis: {rank: 5}
   socialTies:
     being-ithrelildvl: friend

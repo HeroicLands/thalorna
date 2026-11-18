@@ -9,6 +9,7 @@ data:
   demonym: Peshtar
   lore: [humanflk]
   parents: [eilwith]
+  borders: [{to: stormveld, bearing: E}, {to: ondareth, bearing: S}]
   population: 63000
   packFolder: eilwith
 
@@ -86,8 +87,8 @@ To the **north and west** lies the sea. The Peshtar have no maritime ambition, a
 
 The **Peshtar Wilderness** is not a polity and does not consider itself one. It covers the **entire
 north-west of Eilwìth and much of the northern coast**, and about **63,000** Peshtar live in it. With the
-forest peoples of the interior and the south, the island's tribal peoples number roughly **125,000**,
-about a sixth of everyone on the island.
+Durrask of the Thornwold and the Seilvri of western Dúnavarre, the island's tribal peoples number roughly **74,000**,
+about a tenth of everyone on the island.
 
 They are not one people. The wilderness supports many **tribal cultures**, differing in speech, custom
 and disposition, sharing chiefly the fact that no realm's writ reaches them. Along the northern coasts

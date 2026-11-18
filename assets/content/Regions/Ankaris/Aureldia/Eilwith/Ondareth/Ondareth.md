@@ -9,6 +9,13 @@ data:
   demonym: Ondarethan
   lore: [humanflk]
   parents: [eilwith]
+  borders:
+    - {to: pshtrwldrns, bearing: N}
+    - {to: cntrlhghlnds, bearing: E}
+    - {to: thornwold, bearing: E}
+    - {to: hallowwood, bearing: E}
+    - {to: veldareth, bearing: SE}
+    - {to: highwood, bearing: N}
   population: 150000
   packFolder: eilwith
   government: repblcndrth

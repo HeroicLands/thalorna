@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [neokbaatergn]
-  population: 30000
-  market: regional
-  type: city
+  population: 2300
+  market: local
+  type: town
   government: neokbaate
   packFolder: neokbaate
   notes: "The Island of Swallows: Ne'ok Ba'ate's island port off the eastern coast, ruled by a royal lady, which holds an archipelago with its own war canoes, carries much of K'ankul's sea trade, and keeps a spring where women come to ask for children."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-At dusk the swallows come in. They nest by the thousand under the eaves of the island's temples and in the cracks of the low cliffs along its shore, and for the last hour of every day they pour in over the harbor in dark, twisting clouds, so thick that the canoe-men on the beach duck their heads. Ts'ilil Ne'ts'ik, the Island of Swallows, takes its name from them. It is an island port of about 30,000 people off the eastern coast of the [[place-neokbaatergn|Ne'ok Ba'ate Region]], one of the greatest city-states of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]], and it holds a wide archipelago of small islands around it.
+At dusk the swallows come in. They nest by the thousand under the eaves of the island's temples and in the cracks of the low cliffs along its shore, and for the last hour of every day they pour in over the harbor in dark, twisting clouds, so thick that the canoe-men on the beach duck their heads. Ts'ilil Ne'ts'ik, the Island of Swallows, takes its name from them. It is an island port of about 2,300 people off the eastern coast of the [[place-neokbaatergn|Ne'ok Ba'ate Region]], one of the greatest city-states of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]], and it holds a wide archipelago of small islands around it.
 
 ## The Harbor
 

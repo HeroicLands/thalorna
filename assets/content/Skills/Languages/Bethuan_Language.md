@@ -331,7 +331,6 @@ data:
       field: Everyday expression
       gloss: Freedom; the state of being free to act.
       concept: freedom
-  sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

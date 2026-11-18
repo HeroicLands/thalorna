@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [xelemrgn]
-  population: 25000
-  market: regional
-  type: city
+  population: 1900
+  market: local
+  type: town
   government: xelem
   packFolder: xelem
   notes: "The City of Rivers: the Shelem river town built across several tributaries of the Misty River, where the jungle's feathers, hides, cacao and herbs are gathered for the north, governed by a council of merchant families and priests."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-Ts'alukul has no streets to speak of. It stands where four tributaries of [[place-hanaltzuma|the Misty River]] (Ha'nal Ts'uma) come together, on a scatter of raised mounds and banks between the channels, and its people go from one quarter to the next by canoe. In the dry season the channels are narrow and brown and the mounds stand high on banks of cracked mud. In the rains the river rises over the forest around the town until only the mounds and the treetops show, and the town becomes a set of islands in a moving lake. Ts'alukul, the City of Rivers, is a town of about 25,000 people in the [[place-xelemrgn|Shelem Region]], and the greatest of the river towns of [[affiliation-xelem|Shelem]].
+Ts'alukul has no streets to speak of. It stands where four tributaries of [[place-hanaltzuma|the Misty River]] (Ha'nal Ts'uma) come together, on a scatter of raised mounds and banks between the channels, and its people go from one quarter to the next by canoe. In the dry season the channels are narrow and brown and the mounds stand high on banks of cracked mud. In the rains the river rises over the forest around the town until only the mounds and the treetops show, and the town becomes a set of islands in a moving lake. Ts'alukul, the City of Rivers, is a town of about 1,900 people in the [[place-xelemrgn|Shelem Region]], and the greatest of the river towns of [[affiliation-xelem|Shelem]].
 
 ## The Landings
 

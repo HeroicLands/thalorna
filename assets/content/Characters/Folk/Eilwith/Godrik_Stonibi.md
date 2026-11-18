@@ -43,7 +43,7 @@ Godrik Stonibi is a traveler recorded in the guest book of [[place-threnhallow|T
 
 He asks patiently to be admitted before the tide comes. He knows his own name and recognizes his possessions.
 
-:::secret {title="The newly drowned traveler"}
+:::secret {title="Behind the presentation"}
 Godrik is a newly raised [[being-damut|Damut]], confused enough to believe himself alive. When he leans toward the light at the window, the water’s damage to his eyes becomes visible. His urgency is that of a worker late for the sluice, which he cannot explain clearly.
 :::
 
@@ -67,19 +67,19 @@ The local fowlers avoid the causeway after dark. They warn that the house’s de
 
 ## Combat Strategy
 
-:::secret {title="Water and the turn"}
+:::secret {title="In a fight"}
 Godrik joins the drowned congregation wherever the house’s water reaches. He cannot follow onto dry stone. At the turn of the tide he goes with the others to the sluice, leaving the confrontation for the work.
 :::
 
 ## Attack Methods
 
-:::secret {title="The drowned traveler"}
+:::secret {title="The attacks"}
 Godrik does not pursue. He reaches for visitors with raw hands from the window and from wherever the water comes, and he fights as part of the drowned congregation; use [[being-damut|Damut]] for his physical attacks. He cannot follow onto dry stone. [[scenario-bellsgreylvl|The Bells Beneath the Greilevels]] describes the flooded house and his part in its congregation.
 :::
 
 ## Special Abilities
 
-:::secret {title="The house’s water"}
+:::secret {title="The abilities"}
 
 ### Bound to the water
 

@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [neokbaatergn]
-  population: 70000
-  market: international
-  type: city
+  population: 5400
+  market: regional
+  type: town
   government: neokbaate
   notes: "The seat of the isthmus realm: a trading city built across the one road over the volcanic spine, where the goods of the north and the south change hands and an independent-minded Sun Lord bargains with the north."
 
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-The road comes up out of the rainforest in switchbacks, climbs to a saddle between two volcanoes, and runs straight down the middle of the city. Ne'ok Ba'ate is built across it: its gates stand at either end of the saddle, its great plaza sits on the road at the top, and every load that crosses the isthmus by land is set down in that plaza at least once. A porter going north carries jaguar hides, macaw feathers and cacao, and a porter going south carries obsidian, fine textiles and priests. Ne'ok Ba'ate, which means "Watery Bridge", is a city of about 70,000 people on the volcanic spine of the [[place-neokbaatergn|Ne'ok Ba'ate Region]], the seat of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]], and the city that holds the bridge between the great northern realms and the wilder, less centralized lands of the south.
+The road comes up out of the rainforest in switchbacks, climbs to a saddle between two volcanoes, and runs straight down the middle of the city. Ne'ok Ba'ate is built across it: its gates stand at either end of the saddle, its great plaza sits on the road at the top, and every load that crosses the isthmus by land is set down in that plaza at least once. A porter going north carries jaguar hides, macaw feathers and cacao, and a porter going south carries obsidian, fine textiles and priests. Ne'ok Ba'ate, which means "Watery Bridge", is a city of about 5,400 people on the volcanic spine of the [[place-neokbaatergn|Ne'ok Ba'ate Region]], the seat of the realm of [[affiliation-neokbaate|Ne'ok Ba'ate]], and the city that holds the bridge between the great northern realms and the wilder, less centralized lands of the south.
 
 ## The Crossing
 

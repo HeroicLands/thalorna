@@ -27,6 +27,6 @@ Lady Ilara Lúavel dresses as a noble's daughter on a long journey: a good trave
 
 **Background.** Beloved daughter of [[being-laradhluavel|Larad Lúavel]].
 
-:::secret {title="The Court’s leverage"}
+:::secret {title="What the referee knows"}
 Ilara lives under the shadow of her father’s debts. Her safety is her father's first concern, which [[affiliation-umbralcourt|the Umbral Court]] exploits to guarantee his cooperation.
 :::

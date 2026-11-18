@@ -6421,7 +6421,6 @@ data:
       - {edge: closeConsonant, sounds: [n, s, k]}
       - {edge: vowelPair, sounds: [ai]}
     clusters: {max: 3}
-    stress: {two: first, longer: penultimate, mark: acute}
     syllables: {vowelPairs: [ai]}
   scope:
     cultures: [osetakonaclt]

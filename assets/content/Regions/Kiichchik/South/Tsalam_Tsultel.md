@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [ixbaltzakurgn]
-  population: 15000
-  market: regional
-  type: city
+  population: 1100
+  market: local
+  type: town
   government: ixbaltzaku
   packFolder: ixbaltzaku
   notes: "The fortress of the high pass of Ish'bal Tsa'ku, cut into living rock above the clouds, where every load that crosses the mountains is declared, counted and tolled, and the valleys serve their turn on the walls."
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-A llama-train coming up to the pass halts at a stone gate in the mist, and nothing goes through it until every bale has been opened, named and knotted on a cord. Ts'alam Ts'ultel, Spring Mountain, is the fortress of the highest pass through the mountain range that runs the length of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]: about 15,000 people in a city cut into the living rock, commanding the road between the western valleys and the eastern ones. Every load that crosses the mountains passes it, and every load pays.
+A llama-train coming up to the pass halts at a stone gate in the mist, and nothing goes through it until every bale has been opened, named and knotted on a cord. Ts'alam Ts'ultel, Spring Mountain, is the fortress of the highest pass through the mountain range that runs the length of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]: about 1,100 people in a city cut into the living rock, commanding the road between the western valleys and the eastern ones. Every load that crosses the mountains passes it, and every load pays.
 
 ## The Fortress
 

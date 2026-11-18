@@ -9,9 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [ixbaltzakurgn]
-  population: 45000
-  market: international
-  type: city
+  population: 3400
+  market: regional
+  type: town
   government: ixbaltzaku
   packFolder: ixbaltzaku
   notes: "The great port of Ish'bal Tsa'ku on the western ocean, ruled by a lord of the sea who keeps his own fleet, whose ships sail from shrine to shrine and never out of sight of one."
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-A white shrine stands on every headland of the coast north and south of Ts'alam Ne', each in sight of the next, and the ships of the port sail from one to the next and never lose sight of them. Out of sight of a shrine the day-tables give no answer, and no captain of Ts'alam Ne' takes a ship where the day cannot be read. Ts'alam Ne', Spring Water, is the great port of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]], a city of about 45,000 where the jungle rivers open into the western ocean, and the richest and most unruly city of the south.
+A white shrine stands on every headland of the coast north and south of Ts'alam Ne', each in sight of the next, and the ships of the port sail from one to the next and never lose sight of them. Out of sight of a shrine the day-tables give no answer, and no captain of Ts'alam Ne' takes a ship where the day cannot be read. Ts'alam Ne', Spring Water, is the great port of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]], a city of about 3,400 where the jungle rivers open into the western ocean, and the richest and most unruly city of the south.
 
 ## The Harbor
 

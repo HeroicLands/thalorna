@@ -93,7 +93,7 @@ The [[affiliation-alndnwrdns|Áelendan Wardens]], who keep Úkua-Araelwen and co
 2. **The scroll's missing lines.** A copyist of the book quarter has found a second fragment in the same hand as Áelithra's scroll, and sells it to whoever pays first. The Loremaster wants it, and so does the Order's Sekran.
 3. **The compass comes back alone.** A party that took the Temporal Compass into the Araelwen has not come out, and the Compass has turned up on a stall in Péravel's book quarter. Áelithra wants to know who brought it out, and how long they were inside.
 
-:::secret {title="The Order's copy"}
+:::secret {title="Further hooks"}
 Áelithra made a fair copy of the scroll before she showed it to the Queen, and sent it to her house's chapter at Péravel. What she reads in the scroll and what she tells the court are the same. What the Order reads in it she does not know, because the chapter has not answered.
 
 **Hook: the second party.** An Order party with hired guards has already left Péravel for the Provénzian frontier, with no royal guide and no word to the Loremaster.

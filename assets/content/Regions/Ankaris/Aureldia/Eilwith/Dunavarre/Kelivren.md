@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [dunavarre]
+  routes: [{to: teilvari, bearing: W, mode: land, days: 1, terrain: [road, forest]}]
   population: 600
   type: village
   market: local

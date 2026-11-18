@@ -23,6 +23,10 @@ data:
 thousand people, the only place in the realm that is a city rather than a market town. It stands inland
 on the eastern side of [[place-eilwith|Eilwìth]], at the south-eastern tip of [[place-eilissa|Lake Eilìssa]], where the river leaves the lake and Aldorath's shore meets [[place-dunavarre|Dúnavarre]], under a castle that has been extended by every king who could afford to. Its name is the dark lake.
 
+## Arriving {#arriving}
+
+The river leaves the lake at Dunmere and runs down the [[place-aldorvale|Aldorvale]] to [[place-ashford|Ashford]] at its crossing. The old Crown Road starts at a ford below the last foresters' lodge and runs south under the oaks of [[place-thornwold|the Thornwold]] toward [[place-hallowwood|Seirasto]]. North of the city the lake shore is farm and mill country, and in the autumn the [[affiliation-durrask|Durrask]] raiders under [[being-kadrum|Kadrum]] burned a mill on it a morning's ride from the walls and drove off the plough-oxen of three manors.
+
 ## History {#history}
 
 The kings of Aldorath were crowned at [[place-kingsholow|Kingshollow]] and ruled from the hall there for their first generations. In the reign of [Tenral]{.name data-type="being/npc"} the court settled at the lakeside town, and it has ruled from Dunmere since, while every king is still crowned, and buried, at Kingshollow ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The castle on the shore is the work of many reigns, and the court seers have read the lake's mists from the strand below it as long as the court has been here.
@@ -30,6 +34,10 @@ The kings of Aldorath were crowned at [[place-kingsholow|Kingshollow]] and ruled
 ## Current Situation {#present}
 
 The council of barons sits at Dunmere at midsummer, and the city is already filling with retinues. King [[being-aldrikdrthng|Aldrik Drething]] has asked the council to accept his nine-year-old son as king-to-be, and [[being-godwaldstrl|Godwald Storli]], the Elder of the Council, holds most of the barons against it. Every baron's town house is a place where voices are bought, and the court waits on the First Seer, [[being-elfrunthrnl|Elfrun Thornli]], who has read the lake three times on the matter and given no reading.
+
+## Order and Law {#order-and-law}
+
+The assize sits at Dunmere, and the crown's officers keep their households in the city. The king's foresters keep lodges above the ford where the Crown Road starts. They have stopped sending patrols down the old road south after the ninth failed to return, and their captain keeps the names of the lost on a roll.
 
 ## The Holder {#holder}
 
@@ -62,6 +70,10 @@ Below the castle: the market, the guild halls of trades that would be modest any
 hide staples that carry the kingdom's trade, and the cathedral dedicated to the
 [[affiliation-arldnpnthn|Aureldian Pantheon]]. Beyond the walls, in every direction, the manorial country that
 holds four in five of Aldorath's people.
+
+## Faith and Festivals {#faith-and-festivals}
+
+The cathedral below the castle is dedicated to the Aureldian Pantheon. The court seers read the mists of the lake before every campaign, marriage and crowning, and the First Seer is heard first. Like every Eilwìthan court, Dunmere also keeps an advisor of the [[affiliation-ordoarcanis|Thordimalon]], whom the [[affiliation-dunavarsynod|Synod]] can withdraw, and one of the Epistémion's five chapterhouses on the island stands in the city. Every king is crowned, buried and given the midwinter feast at [[place-kingsholow|Kingshollow]], not here.
 
 ## See Also {#see-also}
 

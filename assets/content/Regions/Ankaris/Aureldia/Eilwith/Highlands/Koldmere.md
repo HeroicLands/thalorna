@@ -14,6 +14,7 @@ data:
   type: village
   packFolder: eilwith
   notes: "A free reed-cutting and fishing village on the north-western shore of Lake Eilìssa, at the end of the lake where the village and Aldorath's Brinwold both claim the reed-beds."
+  government: koldmermoot
 ---
 
 ## Overview {#overview}
@@ -30,7 +31,7 @@ The land is the villagers' own, held in small farms, with the moor above it graz
 
 ## Who Leads It {#who-leads}
 
-Koldmere chooses a reed-reeve each spring to set the cutting and keep the boats, and the reeve speaks for the village to anyone who comes asking, and to the Ondarethan senators at [[place-stonyford|Stoniford]], who buy its fish and its reed. [[being-elfithwgdn|Elfith Wigden]] has been chosen four springs running.
+Koldmere governs itself by [[affiliation-koldmermoot|its own village moot]] and has no lord. The moot chooses a reed-reeve each spring to set the cutting and keep the boats, and the reeve speaks for the village to anyone who comes asking, and to the Ondarethan senators at [[place-stonyford|Stoniford]], who buy its fish and its reed. [[being-elfithwgdn|Elfith Wigden]] has been chosen four springs running.
 
 ## The Failing or the Quarrel {#present}
 

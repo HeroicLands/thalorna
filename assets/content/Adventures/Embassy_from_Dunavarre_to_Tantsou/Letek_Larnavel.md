@@ -27,6 +27,6 @@ Letek Larnavel wears the vestments of a High Priest of Árdavon over his traveli
 
 **Background.** A High Priest of [[affiliation-ardavon|Árdavon]], known for dedication and steadfastness, who keeps the party's moral compass and sees the mission adheres to the principles of order and justice.
 
-:::secret {title="The chaplain’s hidden drinking"}
+:::secret {title="What the referee knows"}
 Struggles with alcoholism and hides it, fearing exposure would undermine his authority. The vulnerability can be exploited.
 :::

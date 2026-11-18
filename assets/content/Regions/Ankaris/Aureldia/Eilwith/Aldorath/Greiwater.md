@@ -39,6 +39,10 @@ The name is honest. The river runs gray with the peat of the interior, the tidal
 are extensive and treacherous, and pilotage into Greiwater is a hereditary trade whose families guard
 their knowledge as closely as any guild.
 
+## The Present {#present}
+
+Ships are being lost on the bar below the town in weather that should not sink them. [[being-kenwinhighmo|Kenwin Highmore]], lord captain of the harbor guard, suspects smuggling or worse, and keeps the date, the master and the weather of every hull that clears the bar and does not reach Ravenmoor. Every hull bound for the mainland still calls at [[place-ravenmoor|Ravenmoor]] to be inspected, and the town complies without exception.
+
 ## See Also {#see-also}
 
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-ravenmoor|Ravenmoor]]

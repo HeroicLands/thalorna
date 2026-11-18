@@ -382,6 +382,6 @@ Geldar Panivel the Younger is broad in the hands and quick on his feet, in a sta
 
 **Background.** Well known for his culinary skill.
 
-:::secret {title="The cook’s other service"}
+:::secret {title="What the referee knows"}
 Secretly an acolyte and spy for the [[affiliation-selmoros|Faith of Sélmoros]]. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]]—a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Sélmorans. May be planning poisonings or sabotage.
 :::

@@ -5756,7 +5756,6 @@ data:
       word: isapa
       examples: [tokchisa, itakisa]
   sounds:
-    stress: {two: first, longer: penultimate, mark: acute}
     edges:
       - {edge: openCluster, sounds: []}
       - {edge: closeConsonant, sounds: [k, s]}
