@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [aukhelathrgq]
   borders: [{to: dunharargn, bearing: NE}]
+  routes: [{to: dunhardsrtrgn, bearing: NE, mode: land, days: 20, terrain: [road, desert]}]
   population: null
   packFolder: regkhregn
 

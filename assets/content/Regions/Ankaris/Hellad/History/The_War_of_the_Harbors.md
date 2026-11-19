@@ -92,7 +92,7 @@ After the last battle the heralds of the three cities met on the field and excha
 ## What the War Left
 
 - **Pelagora's dues**, cut to a third and paid to this day.
-- **The [Heralds' Stone]{.name data-type="place/structure"}**, where the dead were exchanged, touched before each war season.
+- **The [[place-hrldsstone|Heralds' Stone]]**, where the dead were exchanged, touched before each war season.
 - **The sharper quarrel** between Thirenae and Pelagora, which now has a price as well as a grievance.
 - **[[lore-heladtruce|The Truce of the Games]]**, the rules the cities wrote at the next meeting so that their next war would be smaller.
 

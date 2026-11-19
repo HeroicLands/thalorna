@@ -3,7 +3,7 @@ shortcode: byzarianlg
 name: {full: Bizarian League}
 type: affiliation
 subType: polity
-description: "Confederation of five trading cities at the crossroads of east and west—neither kingdom nor loose alliance, but a commercial pact binding merchant-princes under common tariffs and collective naval defense."
+description: "Confederation of five city-states at the crossroads of east and west—neither kingdom nor loose alliance, but a commercial pact binding merchant-princes under common tariffs and collective naval defense."
 data:
   templatePriority: null
   demonym: Bizarian
@@ -62,11 +62,11 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: khryshteikhos2
-  population: 8000000
-  territorial_population: 8000000
+  population: 1200000
+  territorial_population: 1200000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
-  parents: []
+  parents: [vylarinmpr]
   relations:
     arldnpnthn: aligned
     vylarinmpr: unaligned
@@ -76,17 +76,17 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The League council meets in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]], a vast, ornate building that is parliament and exchange at once, and the business on its table is narrow: tariffs, the joint fleet and army, the three marches, and quarrels between member cities. Everything else belongs to the cities. The Bizarian League is a confederation of five trading cities at the crossroads of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]], and it is a commercial pact. Its members grant one another trade privileges, charge outsiders common tariffs and defend one another, and each governs itself inside its own walls. About eight million people live under it in [[place-byzariargn|Bizaria]].
+The League council meets in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]], a vast, ornate building that is parliament and exchange at once, and the business on its table is narrow: tariffs, the joint fleet and army, the three marches, and quarrels between member cities. Everything else belongs to the cities. The Bizarian League is a confederation of five city-states at the crossroads of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]], and it is a commercial pact. Its members grant one another trade privileges, charge outsiders common tariffs and defend one another, and each governs itself inside its own walls. About 1,200,000 people live under it in [[place-byzariargn|Bizaria]].
 
 The League's power is its position. It holds the overland routes that link the markets of [[place-midhalnrgn|Midhalión]] to the [[place-khzryndsrtrgn|Khazrin Desert Region]], to the [[place-dunharargn|Dunhara Region]] and to the distant east, and an outsider remembers it for the bargain: a League contract is slow to make, exact to the word, and kept.
 
 ## The Five Cities
 
-- [[affiliation-khryshteikhos|Krusteikhos]], _the Golden Fortress_, is the wealthiest and most politically influential of the five and the League's capital in all but name. The council convenes in its Merchant Hall, its banking houses finance trade across half of Ankaris, and its merchant-princes set the League's foreign policy, or try to.
+- [[affiliation-khryshteikhos|Krusteikhos]], _the Golden Fortress_, is the wealthiest and most politically influential of the five and the League's capital. The council convenes in its Merchant Hall, its banking houses finance trade across half of Ankaris, and its merchant-princes set the League's foreign policy, or try to.
 - [[affiliation-nesthiros|Nesthiros]], _the Sea-Between_, is the League's principal seaport on the Vilérian coast, where maritime and overland trade meet. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vilérian Sea]], and its shipyards build the fast galleys that protect League commerce from pirates and from Taruzelian competitors.
-- [[affiliation-karvashion|Karvashion]], _the Green Caravanserai_, is an inland city at the junction of the caravan routes east toward the Khazrin and south toward Dunhara. Eastern goods—spices, silk, incense—first enter League hands in its vast bazaars and caravanserais, and its caravansary masters are famously shrewd.
-- [[affiliation-argyrteikhos|Argirteikhos]], _the Silver Citadel_, is a fortified mountain city guarding the eastern passes into Bizaria. Its garrison keeps the mountain routes open and discourages eastern warlords and desert raiders, and its silver mines pay for the League's collective defense.
-- [[affiliation-orashion|Órashion]], _Blackstone_, is a mining and manufacturing city in the mountainous interior, built on rich deposits of iron and semi-precious stones. It makes the arms, armor and metalwork the other cities trade, and its craftsmen are renowned throughout the region. It is the least glamorous of the five and the one the others could least do without.
+- [[affiliation-karvashion|Karvashion]], _the Green Caravanserai_, is an inland town at the junction of the caravan routes east toward the Khazrin and south toward Dunhara. Eastern goods—spices, silk, incense—first enter League hands in its vast bazaars and caravanserais, and its caravansary masters are famously shrewd.
+- [[affiliation-argyrteikhos|Argirteikhos]], _the Silver Citadel_, is a fortified mountain town guarding the eastern passes into Bizaria. Its garrison keeps the mountain routes open and discourages eastern warlords and desert raiders, and its silver mines pay for the League's collective defense.
+- [[affiliation-orashion|Órashion]], _Blackstone_, is a mining and manufacturing town in the mountainous interior, built on rich deposits of iron and semi-precious stones. It makes the arms, armor and metalwork the other cities trade, and its craftsmen are renowned throughout the region. It is the least glamorous of the five and the one the others could least do without.
 
 ## Who Decides
 
@@ -104,13 +104,13 @@ Standing in a League city runs from the register outward. A freeman of the city 
 
 ## People and Faith
 
-Bizarian culture joins Helionite intellectual traditions, Vilérian administrative practice, and eastern influences from [[place-taruzelrgn|Taruzel]] and the desert peoples. The cities are multilingual and multi-faith, full of merchants, scholars and travelers from every corner of Ankaris. Bizarians are master traders and diplomats, practiced at crossing the cultural divide between east and west, and their cities are famous for their bazaars, silk-weavers, jewelers and spice markets. In those bazaars western Vilérian goods meet eastern spices, Dunhari incense and the occasional luxury from the [[place-vedyarargn|Vedyara Region]] or the [[place-tantsouregin|Tantsou Region]]. [[skill-byzarnlng|Bizarian]], the League's trade tongue, has more words for kinds of business agreement than most languages have for colors.
+Bizarian culture joins Helionite intellectual traditions, Vilérian administrative practice, and eastern influences from [[place-taruzelrgn|Taruzel]] and the desert peoples. The cities and towns are multilingual and multi-faith, full of merchants, scholars and travelers from every corner of Ankaris. Bizarians are master traders and diplomats, practiced at crossing the cultural divide between east and west, and their cities and towns are famous for their bazaars, silk-weavers, jewelers and spice markets. In those bazaars western Vilérian goods meet eastern spices, Dunhari incense and the occasional luxury from the [[place-vedyarargn|Vedyara Region]] or the [[place-tantsouregin|Tantsou Region]]. [[skill-byzarnlng|Bizarian]], the League's trade tongue, has more words for kinds of business agreement than most languages have for colors.
 
 The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are dominant, in a distinct eastern rite that puts mysticism, contemplation, personal revelation and elaborate ritual ahead of institutional authority. Its clergy are monks more than priests, and their monasteries are centers of learning, of manuscript copying, and of quiet political influence. The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a significant following as well, above all among the merchant communities with eastern connections.
 
 ## Neutrality and War
 
-The League steers between the great powers with careful neutrality. The [[affiliation-vylarinmpr|Vilérian Empire]] would like to absorb it; the [[affiliation-cnfdrtntrzlnstts|Taruzelian]] guilds would like to dominate its trade, and [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea; the Asháian-worshipping peoples to the east regard it as a useful but unreliable partner. The League survives by being indispensable to all of them and subservient to none.
+The League steers between the great powers with careful neutrality. The [[affiliation-vylarinmpr|Vilérian Empire]] holds the League in law and keeps the passes, the tariffs and the muster through its own officers, and a legate is rumored to be on his way; the [[affiliation-cnfdrtntrzlnstts|Taruzelian]] guilds would like to dominate its trade, and [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea; the Asháian-worshipping peoples to the east regard it as a useful but unreliable partner. The League survives by being indispensable to all of them, and its merchants chafe at the imperial claim.
 
 Its wars are border wars, against desert raiders, steppe tribes and the occasional eastern warlord. Conscripts fight them under the march lords, and the council contracts mercenary companies when the frontier turns dangerous.
 
@@ -128,6 +128,9 @@ Each city strikes its own coin, and the League as a whole uses the [[lore-vylrnc
 
 [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]
 : the member city-states
+
+[[affiliation-cncltwlvbzrs|Council of Twelve of Bizaris]], [[affiliation-mrchntcnsrtchr|Merchant Consortia of Krisamar]], [[affiliation-mgstrcythls|Magistracy of Thalassos]], [[affiliation-cnclslmr|Council of Selímara]]
+: the councils of the lesser towns
 
 [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]
 : the districts the council holds directly

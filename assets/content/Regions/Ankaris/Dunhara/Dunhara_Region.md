@@ -18,6 +18,7 @@ data:
     - {to: vylarianse, bearing: W}
     - {to: wlqtrrgn, bearing: NE}
   population: 3000000
+  government: null
   packFolder: dunhara
   culture: dunhariclt
 
@@ -28,7 +29,7 @@ A caravan-master of the southern road, taking on a hired guard from the Viléria
 
 An outsider remembers the Dunhara for its caravans and its poets. The desert holds few people and a great deal of culture, and it is entirely unimpressed by the settled kingdoms at its edges.
 
-## Geography
+## Geography {#the-land}
 
 The desert runs south and east from the dry scrublands behind the Vilérian shore into country that will kill the unprepared. Great sand seas fill most of it, dunes fifty meters high in places, walking slowly north on the prevailing wind, broken by rocky mesas, lone volcanic plugs and the pale floors of dry lakes. The oases are the fixed points of the whole country: some lush and permanent, some that fill only in a wet season, some at the end of long wadis that flood once a decade. Every caravan route is a chain of them.
 
@@ -56,7 +57,7 @@ The open desert has no temples and no temple priesthood; the great fire-temples 
 
 The holy places are features of the land: certain oases, rock formations, mesa-tops and caves no one has found the end of. Pilgrimage to them is central to the faith, and a Dunhari who has completed the whole round carries a prestige no other deed can earn. The greatest of them is the [[place-stoneofranaz|Stone of Ranaz]], the hill-shrine where three tribal territories meet and the storm-cult elders gather at the season-turns.
 
-## Power
+## Power {#who-holds-it}
 
 The desert has no single ruler. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit. They join against an outside threat and quarrel among themselves the rest of the time, and the balance has held for centuries. The [[affiliation-dunhartrbs|Dunhara Tribes]] describes the confederations and the councils where they meet.
 
@@ -64,7 +65,7 @@ The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of an
 
 The [[affiliation-ordoarcanis|Thordimalon]] has no footing here. The tribes call it a Vilérian institution with no standing in their country, and the Arcane Order gave up trying to found chapters long ago. Magic in the Dunhara comes through faith and blood: the mystics, the poets held to be blessed, the storm-cult practitioners and the sheikhs' houses that claim a gift running in the line.
 
-## Trade
+## Trade {#roads-and-trade}
 
 The Dunhari tribes hold the southern caravan routes that join [[affiliation-cnfdrtntrzlnstts|Taruzel]] and the Vilérian Sea to Vedyara and, through further hands, to the far east. Spice, silk, jewels, fine cloth, medicinal herbs and the rare goods of the south travel west; iron, salt, wine, worked metal and the wares of the settled kingdoms travel east. A caravan carries the stock of several tribes under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands, a system that works because the honor code makes the alternative unthinkable.
 

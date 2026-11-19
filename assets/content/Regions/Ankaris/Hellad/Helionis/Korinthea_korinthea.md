@@ -10,64 +10,45 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: democracy
-    summary: Oligarchy of wealthy patron families.
+    model: oligarchy
+    summary: "Oligarchy of wealthy patron families governing through a council, beside the judges of the Temple of Árdavon, who keep the city's law."
     ranks:
       - level: 0
         title: Átimor
-        description: >-
-          Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him.
+        description: "Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him."
       - level: 1
         title: Slave
-        description: Owned outright, with no standing before the law except through an owner.
+        description: "Owned outright, with no standing before the law except through an owner."
       - level: 2
         title: Freedman
-        description: Manumitted, working and trading in the city, and barred from the assembly for life.
+        description: "Manumitted, working and trading in the city, and barred from the assembly for life."
       - level: 3
         title: Metic
-        description: A resident foreigner, taxed and liable to the levy, with no vote and no right to own land.
+        description: "A resident foreigner, taxed and liable to the levy, with no vote and no right to own land."
       - level: 4
         title: Citizen
-        description: >-
-          Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council.
+        description: "Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council."
       - level: 5
         title: Councilor
-        description: >-
-          Chosen by lot to the council that prepares the assembly's business, for one year and never twice.
+        description: "Chosen by lot to the council that prepares the assembly's business, for one year and never twice."
       - level: 6
         title: Magistrate
-        description: >-
-          Elected or allotted to an office of the city—its markets, its walls, its treasury, its courts—and audited at the end of the year.
+        description: "Elected or allotted to an office of the city, its markets, its walls, its treasury, its courts, and audited at the end of the year. A judge of Árdavon holds a civic office of this kind."
       - level: 7
         title: Strátimor
-        description: >-
-          Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit.
+        description: "Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit."
       - level: 8
         title: Arsir
-        description: >-
-          Presiding magistrate of the year, who gives it his name and hands it back—the assembly remains sovereign throughout.
+        description: "Presiding magistrate of the year, who gives it his name and hands it back, while the assembly remains sovereign throughout."
     offices:
-      Arsir: >-
-        Presiding magistrate for the year, who gives the year his name and surrenders the office at its end.
-      Strátimor: >-
-        Elected commander of the city's forces by land and sea; the one office held by election and without term limit.
-      Councilor: Member of the council that prepares business for the assembly, allotted for a single year.
-      Treasurer: >-
-        Keeper of the city's revenue and of the sacred treasuries, audited publicly at the end of his term.
-      Agóranir: Warden of the market—its weights, its coin, its quality and its disputes.
-      Nomasfilir: Guardian of the laws, who may halt a decree of the assembly that contradicts them.
-      Secretary of the Council: Keeper of the council's record and of the decrees the assembly passes.
-      Auditor: >-
-        Examiner of every magistrate's accounts at the end of his year, without whose clearance he may not leave the city.
-      Herald: >-
-        Voice of the assembly and of the city abroad, whose person is inviolable even between enemies.
-      Ambassador: >-
-        Elected to treat with another city or power, and answerable to the assembly for what he agrees.
-      Ghimarir: >-
-        Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
+      "High Judge of the Temple": "Regional head of the judges of the Temple of Árdavon, serving beneath the Volsarnor, the faith's one High Judge; consulted by the council on law and civic honor, and his judgment on a dispute is final in most cases."
+      "Judge of Árdavon": "Priest-judge who says what the council's rules mean when two people disagree about them; priesthood and civic office are held together."
+      Councilor: "Member of the Council of Korinthea, chosen by lot to prepare the assembly's business and serving a single year."
+      Arsir: "Presiding magistrate for the year, who gives the year his name."
+      Strátimor: "Elected commander of the forces of Korinthea by land and sea."
   seat: korinthea2
-  population: 410000
-  territorial_population: 410000
+  population: 160000
+  territorial_population: 160000
   economy: []
   lore: [humanflk]
   parents: [ctysttshlns]
@@ -78,7 +59,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview {#overview}
 
-The [Council of Korinthea]{.name data-type="affiliation/governmental"} consults the Temple of [[lore-ardavondty|Árdavon]] on matters of law and civic honor before it acts. The council is the visible government of a city-state of about 410,000 people, held by an oligarchy of its wealthy patron families, and the temple's judges sit beside the families who rule it, in the service of a god of order and justice. [[place-korinthea2|Korinthea]], with 40,000 of the people, is the seat.
+The [Council of Korinthea]{.name data-type="affiliation/governmental"} consults the [[place-tmplrdvn|Temple of Árdavon]] on matters of law and civic honor before it acts. The council is the visible government of a city-state of about 160,000 people, held by an oligarchy of its wealthy patron families, and the temple's judges sit beside the families who rule it, in the service of a god of order and justice. [[place-korinthea2|Korinthea]], with 5,000 of the people, is the seat.
 
 Government
 : oligarchy of wealthy patron families, working through a council
@@ -86,14 +67,14 @@ Government
 Patron deity
 : [[lore-ardavondty|Árdavon]], god of order and justice
 
-High Judge of the Temple
+High Judge of the Temple (regional rank)
 : [[being-dumarsrfrs|Dumares Rafiros]]
 
 ## Who Decides
 
 Two bodies share the work. The council governs inside the forms every Helionite city-state keeps: a sovereign assembly, a council chosen by lot, audited magistrates, an elected strátimor and an arsir who names the year. The temple judges. A priest-judge of [[affiliation-ardavon|Árdavon]] explains the division in a sentence: "The council writes the rules, and the temple says what they mean when two men disagree about them."
 
-The High Judge, [[being-dumarsrfrs|Dumares Rafiros]], is consulted by the council on law and civic honor, and his judgment on a dispute is final in most cases. Being a judge of Árdavon is a civic office in Korinthea, in line with the Helionite habit of holding priesthood and magistracy together. The temple has kept the city's law since 327 BF, when the city's assembly lost its standing after [[lore-heladturnedwrk|the Turned Working]] (the battle on [[place-sourplain|the Sour Plain]]) and the first High Judge, [Nomason]{.name data-type="being/npc"}, took the law into the temple's keeping; the present High Judge sits in an unbroken line from him.
+The High Judge of the Temple, [[being-dumarsrfrs|Dumares Rafiros]], holds a regional rank beneath the Volsarnor, the one High Judge of the [[affiliation-ardavon|Faith of Árdavon]], who sits in the [[place-provenzrgn|Provénzia Region]]. He is consulted by the council on law and civic honor, and his judgment on a dispute is final in most cases. The Patriarchate of the temple is an ancient honorary title that no one now holds, and he answers to it nominally, as to a tradition. Being a judge of Árdavon is a civic office in Korinthea, in line with the Helionite habit of holding priesthood and magistracy together. The temple has kept the city's law since 327 BF, when the city's assembly lost its standing after [[lore-heladturnedwrk|the Turned Working]] (the battle on [[place-sourplain|the Sour Plain]]) and the first High Judge of the temple at Korinthea, [Nomason]{.name data-type="being/npc"}, took the law into the temple's keeping; the present High Judge sits in an unbroken line from him.
 
 ## Standing and Relations
 
@@ -102,13 +83,16 @@ Standing in Korinthea is the common Helionite ladder, from the citizen by descen
 ## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
-: the seven cities and how they are governed
+: the seven city-states and how they are governed
 
 [[place-helionis|Helionis]]
 : the region
 
 [[place-korinthea2|Korinthea]]
-: the city itself
+: the town itself
+
+[[place-sufanos|Sufanos]], [[place-hadrithon|Hadrithon]]
+: the hinterland towns the city-state holds
 
 [[being-dumarsrfrs|Dumares Rafiros]]
 : High Judge of the Temple of Árdavon

@@ -8,7 +8,13 @@ data:
   demonym: null
   lore: []
   parents: [heladrgn]
-  population: 3000000
+  borders:
+    - {to: vylariargn, bearing: W}
+    - {to: velanthrgn, bearing: N}
+    - {to: byzariargn, bearing: E}
+    - {to: vylarianse, bearing: SW}
+  routes: [{to: taruzelrgn, bearing: S, mode: ship, days: 5, terrain: [open-sea]}]
+  population: 1200000
   packFolder: helionis
   culture: helioniteclt
 
@@ -17,27 +23,31 @@ data:
 
 ## Overview {#overview}
 
-When the cities of Helionis meet at a sacred site for the games, they send runners, wrestlers and chariot teams against one another, and they treat taking part as a duty owed to the gods. A season later the same cities may be at war. Helionis is seven independent city-states that share a tongue, a pantheon, a calendar of festivals and an unshakable confidence in their own civilization, and agree about almost nothing else. Three million people live there, in the hills and valleys east of [[place-vylariargn|Viléria]] and along one short stretch of coast. An outsider remembers Helionis for its philosophers and its theaters, for the hetairin of [[place-kalydria2|Kalidria]], and for the fact that the [[affiliation-ordoarcanis|Thordimalon]] was born out of its academies.
+When the cities of Helionis meet at a sacred site for the games, they send runners, wrestlers and chariot teams against one another, and they treat taking part as a duty owed to the gods. A season later the same cities may be at war. Helionis is seven independent city-states that share a tongue, a pantheon, a calendar of festivals and an unshakable confidence in their own civilization, and agree about almost nothing else. About 1.2 million people live there, in the hills and valleys east of [[place-vylariargn|Viléria]] and along one short stretch of coast. An outsider remembers Helionis for its philosophers and its theaters, for the hetairin of [[place-kalydria2|Kalidria]], and for the fact that the [[affiliation-ordoarcanis|Thordimalon]] was born out of its academies.
 
 Helionis was once the cultural heart of the [[affiliation-vylarinmpr|Vilérian Empire]], and it is still the place the rest of the west goes to learn. Philosophy, art and magic are its traditions, old gods and heroes are its history, and it carries all of them forward while the empire that conquered it fades.
 
 ## The Country
 
-Helionis lies east of Viléria, south of [[place-velanthrgn|Velanthia]] and west of [[place-byzariargn|Bizaria]], and it reaches the [[place-vylarianse|Vilérian Sea]] only along a short coast at its south-western corner, where its port cities face the water and, across it to the south, the islands of [[place-taruzelrgn|Taruzel]]. The land is a patchwork of olive-clad hills, narrow fertile valleys and abrupt mountain ranges, with rocky shores along its one stretch of coast. The roads through the valleys and over the passes connect the cities and, as often, divide them.
+Helionis lies east of Viléria, south of [[place-velanthrgn|Velanthia]] and west of [[place-byzariargn|Bizaria]], and it reaches the [[place-vylarianse|Vilérian Sea]] only along a short coast at its south-western corner, where its ports face the water and, across it to the south, the islands of [[place-taruzelrgn|Taruzel]]. The land is a patchwork of olive-clad hills, narrow fertile valleys and abrupt mountain ranges, with rocky shores along its one stretch of coast. The roads through the valleys and over the passes connect the cities and, as often, divide them.
 
 The climate is warm and dry. The sun is bright, the sea is blue to the horizon, and the light has a clarity that artists and philosophers have celebrated for millennia. The soil is thin but productive: olive groves, vineyards and hardy grain grow on terraces cut into the hillsides.
 
-## Seven Cities, and the Three That Lead
+## The Hinterland {#hinterland}
 
-Helionis is organized around its cities, and every city of note has its academies, its gymnasia and its theaters. Helionite culture prizes intellectual achievement, artistic excellence and personal virtue above everything else, and public debate on philosophy and politics is a cherished part of civic life. The region has produced many of the greatest philosophers, mathematicians, playwrights and sculptors of the [[place-ankrscntnnt|Ankaris Continent]], and the tradition of inquiry that made them is unbroken.
+Behind the coastal belt, mountains cover about half of Helionis and hold a quarter of its people. [[place-khaddaria|Khaddaria]] is the hinterland of mines, fortified towns and caravan stops that stretches north-east toward [[place-velanthrgn|Velanthia]] and [[place-byzariargn|Bizaria]]: twelve towns, held by five of the city-states, and the villages that ring them behind palisades. The ore and metal of the seven city-states come from there, and so do the marauders and the Black Flame that the cities' philosophers prefer not to discuss.
 
-Three cities lead the seven:
+## Seven City-States, and the Three That Lead
+
+Helionis is organized around its city-states, and every seat of one has its academies, its gymnasia and its theaters. Helionite culture prizes intellectual achievement, artistic excellence and personal virtue above everything else, and public debate on philosophy and politics is a cherished part of civic life. The region has produced many of the greatest philosophers, mathematicians, playwrights and sculptors of the [[place-ankrscntnnt|Ankaris Continent]], and the tradition of inquiry that made them is unbroken.
+
+Three city-states lead the seven:
 
 - [[affiliation-thyrenae|Thirenae]] is the intellectual capital and holds the great academies.
 - [[affiliation-pelagora|Pelagora]] is the democratic naval power that commands the sea lanes.
-- [[affiliation-kalydria|Kalidria]] is the city of artists and theaters, and home of the [Academy of the Silver Veil]{.name data-type="affiliation"}.
+- [[affiliation-kalydria|Kalidria]] is the town of artists and theaters, and home of the [[affiliation-slvrvlacdmy|Academy of the Silver Veil]].
 
-The other four are [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]]. Each of the seven has its own government, laws and customs. They combine for common defense and for the shared religious festivals, and they compete fiercely in everything else: trade, athletic contests, intellectual prestige and, now and then, open war. The [[affiliation-ctysttshlns|City-States of Helionis]] note sets out how they are governed.
+The other four are [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]]. Only Kostaros and Mirtelos, which lies in Kostaros's district, are cities; the seats of the other six city-states are towns. Each of the seven has its own government, laws and customs. They combine for common defense and for the shared religious festivals, and they compete fiercely in everything else: trade, athletic contests, intellectual prestige and, now and then, open war. The [[affiliation-ctysttshlns|City-States of Helionis]] note sets out how they are governed.
 
 Women's standing varies from city to city. In some cities women are confined to domestic life; in others they take part in intellectual and even political life. The hetairin (educated companions), trained in music, philosophy, rhetoric and the social arts, are the most socially mobile women in Helionite society. The Academy of the Silver Veil trains them, and its graduates serve as companions, advisors and subtle political agents across [[place-midhalnrgn|Midhalión]].
 
@@ -47,7 +57,7 @@ The [[affiliation-arldnpnthn|Aureldian Pantheon]] runs through every part of Hel
 
 Three of the gods stand highest here. [[lore-marendasdty|Marendas]], goddess of knowledge and wisdom, holds special prominence in a region that lives by its learning. Artists and mystics revere [[lore-zunelasdty|Zunelas]], goddess of dreams and visions. [[lore-ardavondty|Árdavon]], god of order and justice, is honored as presiding over legal and civic affairs.
 
-The mystery cults are a distinctly Helionite institution: secretive religious societies that promise their initiates deeper spiritual knowledge through revelation in stages. Some are purely spiritual. Several have real political influence.
+The [[affiliation-mystrshlns|Mysteries of Helionis]] are a distinctly Helionite institution: the mystery cults, secretive religious societies that promise their initiates deeper spiritual knowledge through revelation in stages. Some are purely spiritual. Several have real political influence.
 
 ## Magic and the Birth of the Order
 
@@ -97,7 +107,7 @@ The mystery cults
 : secret societies of initiation in stages, some purely spiritual and some with political ends.
 
 The games
-: regular contests between the cities in running, wrestling, chariot racing and other sports, held at [[place-gamessanct|the Sanctuary of the Games]] since about 880 BF ([[lore-firstgames|the First Games]]), in which taking part is a sacred duty and a herald's person is inviolable even between enemies. After a battle between cities the loser's herald crosses the field under truce and takes the dead home, which is why the wars between Helionite cities leave no blood-field. The heralds of [[lore-heladharbors|the War of the Harbors]] set a stone where they met to exchange their dead, and heralds touch it before each war season.
+: regular contests between the cities in running, wrestling, chariot racing and other sports, held at [[place-gamessanct|the Sanctuary of the Games]] since about 880 BF ([[lore-firstgames|the First Games]]), in which taking part is a sacred duty and a herald's person is inviolable even between enemies. After a battle between cities the loser's herald crosses the field under truce and takes the dead home, which is why the wars between Helionite cities leave no blood-field. The heralds of [[lore-heladharbors|the War of the Harbors]] set [[place-hrldsstone|the Heralds' Stone]] where they met to exchange their dead, and heralds touch it before each war season.
 
 The theaters
 : Helionite tragedy, comedy and satire, the most celebrated literary tradition in western Ankaris.
@@ -105,13 +115,25 @@ The theaters
 ## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
-: how the seven cities are governed
+: how the seven city-states are governed
 
 [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]
 : the three leading city-states
 
 [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]
 : the other four
+
+[[place-athenikos2|Athenikos]], [[place-korinthea2|Korinthea]], [[place-pelagora2|Pelagora]], [[place-theradon2|Theradon]]
+: the towns that seat four of the seven city-states
+
+[[place-kostaros2|Kostaros]], [[place-myrtillos|Mirtelos]]
+: the two cities of Helionis
+
+[[place-kostarosdst|Kostaros District]]
+: the land of the city-state of Kostaros
+
+[[place-khaddaria|Khaddaria]]
+: the mountain hinterland and its twelve fortified towns
 
 [[lore-helioniteclt|Helionite]]
 : the culture and what it holds a person owes
@@ -149,12 +171,11 @@ The theaters
 [[skill-helonclng|Helonik]]
 : the tongue and its naming traditions
 
-[[place-athenikos2|Athenikos]]
+[[affiliation-slvrvlacdmy|Academy of the Silver Veil]]
+: the Kalidrian school of the hetairin
 
-[[place-korinthea2|Korinthea]]
+[[place-thyrnelbrry|Library of Thirenae]], [[place-cmmssnrsgate|Commissioners' Gate]], [[affiliation-cllgofethcs|College of Ethics]]
+: the institutions and the walled gate of Thirenae
 
-[[place-kostarosdst|Kostaros District]]
-
-[[place-pelagora2|Pelagora]]
-
-[[place-theradon2|Theradon]]
+[[place-hrldsstone|Heralds' Stone]]
+: where the heralds exchanged the dead and touch the stone before each war season

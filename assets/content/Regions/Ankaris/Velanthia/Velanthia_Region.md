@@ -16,6 +16,7 @@ data:
     - {to: khzryndsrtrgn, bearing: E}
     - {to: vylariargn, bearing: S}
     - {to: heladrgn, bearing: S}
+    - {to: helionis, bearing: S}
     - {to: wlqtrrgn, bearing: SE}
     - {to: gwtkrrgn, bearing: E}
     - {to: nartumkngdm, bearing: S}

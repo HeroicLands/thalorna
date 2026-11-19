@@ -34,7 +34,7 @@ data:
     - {key: ltvest, model: armorgear-ltvest, kind: clothing}
     - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
     - {key: bpchmd, model: containergear-bpchmd, kind: container}
-    - {key: pence, model: miscgear-pence, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 31}}
     - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
     - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
@@ -81,7 +81,7 @@ sohl:
     - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
     - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
     - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
-    - {key: pence, model: sohl-sohl-miscgear-pence, system: quantity:31}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 31}}
     - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
     - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:

@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: nesthiros2
-  population: 1800000
-  territorial_population: 1800000
+  population: 300000
+  territorial_population: 300000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The fast war-galleys that keep pirates and Taruzelian competitors off League cargoes are Nesthiros's, built in its own yards and kept by its own admiralty. That fleet is the city-state's weight in the [[affiliation-byzarianlg|Bizarian League]], and it is why a council of merchants shares its authority with admirals. The city-state governs about 1.8 million people from [[place-nesthiros2|Nesthiros]], the fortress isle in the straits that carry its name, and the League's principal seaport on the [[place-vylarianse|Vilérian Sea]] coast. [[affiliation-khryshteikhos|Krusteikhos]] has the gold, as the Nesthirian saying goes, but Nesthiros has the ships.
+The fast war-galleys that keep pirates and Taruzelian competitors off League cargoes are Nesthiros's, built in its own yards and kept by its own admiralty. That fleet is the city-state's weight in the [[affiliation-byzarianlg|Bizarian League]], and it is why a council of merchants shares its authority with admirals. The city-state governs about 300,000 people from [[place-nesthiros2|Nesthiros]], the fortress isle in the straits that carry its name, and the League's principal seaport on the [[place-vylarianse|Vilérian Sea]] coast. [[affiliation-khryshteikhos|Krusteikhos]] has the gold, as the Nesthirian saying goes, but Nesthiros has the ships.
 
 ## The Council and the Admiralty
 
@@ -92,6 +92,14 @@ Nesthiros and Taruzelian merchantmen share the same docks and the same sea. [[af
 ## Commerce and Currency
 
 Nesthiros uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Nesthiros is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## Current Situation {#present}
+
+The council and the admiralty share one table, and the fleet that keeps pirates and Taruzelian competitors off League cargo is the reason neither governs without the other. The council's standing business is the quarrel with Krisamar over the coastal trade and the cost of keeping the galleys at sea.
+
+## History {#history}
+
+The captains of Nesthiros have traded with the coasts of Midhalión and Zerathia for a thousand years, and the Eastern War of about 209 AF brought the city-state into the empire with the rest of the League.
 
 ## See Also
 

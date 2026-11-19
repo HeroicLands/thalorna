@@ -13,7 +13,7 @@ subType: governmental
 description: "The ancient circle of acclaimed Dunhari warriors, meeting at the season-turns at the Stone of Ranaz to keep the peace among the tribes and to gather them against an enemy no tribe could face alone."
 tags: []
 data:
-  culture: vylarianclt
+  culture: dunhariclt
   templatePriority: null
   demonym: null
   epithet: null
@@ -39,6 +39,7 @@ data:
       Voice of the Quarter: >-
         Calls the meeting to order, frames the questions and announces the rulings. Chosen by lot from among those present and rotating each meeting, from marked stones the Storm Cults keep in trust between sittings.
   seat: null
+  range: [dunhardsrtrgn]
   population: null
   economy: []
   lore: []

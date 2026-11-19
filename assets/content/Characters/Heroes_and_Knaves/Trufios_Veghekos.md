@@ -459,7 +459,7 @@ Trufios stands 6'0" tall with a heavy build. He has weathered tanned skin, dark 
 
 **The Shipwright's Apprenticeship**
 
-Born in the maritime city of [[place-chrysamar|Krisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the [[place-byzariargn|Bizarian coast]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
+Born in the maritime town of [[place-chrysamar|Krisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the [[place-byzariargn|Bizarian coast]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
 
 **Rising Through the Guild Ranks**
 

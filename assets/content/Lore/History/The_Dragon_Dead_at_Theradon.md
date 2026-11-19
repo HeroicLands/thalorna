@@ -66,7 +66,7 @@ took their souls at the transit, and bound them. The [Vilérian Republic]{.name 
 workshop with it, and found the jars: bronze, lead-sealed, lettered in Helonik with an inventory
 number and nothing else.
 
-Theradon is an inland city of terraced marble and old libraries, and it fell early. Nothing about the
+Theradon is an inland town of terraced marble and old libraries, and it fell early. Nothing about the
 way it fell is remarkable, which is a large part of why nobody has ever looked closely at what left
 it. What the Republic carried out of that workshop is the reason the rest of the war went the way it
 did, and the debt it created has never been discharged.

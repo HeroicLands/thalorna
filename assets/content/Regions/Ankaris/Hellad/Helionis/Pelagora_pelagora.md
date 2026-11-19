@@ -11,63 +11,43 @@ data:
   symbol: null
   governance:
     model: democracy
-    summary: Democratic assembly of free citizens.
+    summary: "Democratic assembly of free citizens, each expected to serve in the fleet or the militia and so to carry a stake in what he votes for."
     ranks:
       - level: 0
         title: Átimor
-        description: >-
-          Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him.
+        description: "Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him."
       - level: 1
         title: Slave
-        description: Owned outright, with no standing before the law except through an owner.
+        description: "Owned outright, with no standing before the law except through an owner."
       - level: 2
         title: Freedman
-        description: Manumitted, working and trading in the city, and barred from the assembly for life.
+        description: "Manumitted, trading in Pelagora's markets and voting on nothing."
       - level: 3
         title: Metic
-        description: A resident foreigner, taxed and liable to the levy, with no vote and no right to own land.
+        description: "A resident foreigner trading in Pelagora's markets, taxed and liable to the levy, with no vote."
       - level: 4
         title: Citizen
-        description: >-
-          Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council.
+        description: "A free citizen who votes in the assembly on war, trade and law and is expected to serve in the fleet or the militia. A citizen is not yet a member of the council."
       - level: 5
         title: Councilor
-        description: >-
-          Chosen by lot to the council that prepares the assembly's business, for one year and never twice.
+        description: "Chosen by lot to the council that prepares the assembly's business, for one year and never twice."
       - level: 6
         title: Magistrate
-        description: >-
-          Elected or allotted to an office of the city—its markets, its walls, its treasury, its courts—and audited at the end of the year.
+        description: "Elected or allotted to an office of the city, its markets, its walls, its treasury, its courts, and audited at the end of the year."
       - level: 7
         title: Strátimor
-        description: >-
-          Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit.
+        description: "Elected by the assembly to command the forces of Pelagora by land and sea, without power to override it."
       - level: 8
         title: Arsir
-        description: >-
-          Presiding magistrate of the year, who gives it his name and hands it back—the assembly remains sovereign throughout.
+        description: "Presiding magistrate of the year, who gives it his name; he does not override the assembly."
     offices:
-      Arsir: >-
-        Presiding magistrate for the year, who gives the year his name and surrenders the office at its end.
-      Strátimor: >-
-        Elected commander of the city's forces by land and sea; the one office held by election and without term limit.
-      Councilor: Member of the council that prepares business for the assembly, allotted for a single year.
-      Treasurer: >-
-        Keeper of the city's revenue and of the sacred treasuries, audited publicly at the end of his term.
-      Agóranir: Warden of the market—its weights, its coin, its quality and its disputes.
-      Nomasfilir: Guardian of the laws, who may halt a decree of the assembly that contradicts them.
-      Secretary of the Council: Keeper of the council's record and of the decrees the assembly passes.
-      Auditor: >-
-        Examiner of every magistrate's accounts at the end of his year, without whose clearance he may not leave the city.
-      Herald: >-
-        Voice of the assembly and of the city abroad, whose person is inviolable even between enemies.
-      Ambassador: >-
-        Elected to treat with another city or power, and answerable to the assembly for what he agrees.
-      Ghimarir: >-
-        Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
+      Strátimor: "Commander of the forces of Pelagora by land and sea, elected by the assembly; neither he nor the arsir overrides it."
+      Arsir: "Presiding magistrate for the year, who gives the year his name."
+      Admiral: "Flag officer of the fleet, which defends Helionite waters against incursions, rival powers and pirates."
+      Trierarch: "Captain of a galley of the fleet, whose crew of citizens voted for the voyage they row."
   seat: pelagora2
-  population: 410000
-  territorial_population: 410000
+  population: 160000
+  territorial_population: 160000
   economy:
     - affiliation-tarmex
     - affiliation-danvar
@@ -83,7 +63,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-"Every man at an oar in this fleet voted for the voyage," says a boatswain on a Pelagoran trierarch's galley, "so nobody gets to complain about the rowing." Pelagora is the naval power of [[place-helionis|Helionis]]: it holds the most important harbors, controls the sea lanes of the eastern [[place-vylarianse|Vilérian Sea]], and keeps the largest fleet in the region. About 410,000 people live under its assembly, and 40,000 of them in the city of [[place-pelagora2|Pelagora]], whose harbor ranks among the finest natural anchorages in the central sea.
+"Every man at an oar in this fleet voted for the voyage," says a boatswain on a Pelagoran trierarch's galley, "so nobody gets to complain about the rowing." Pelagora is the naval power of [[place-helionis|Helionis]]: it holds the most important harbors, controls the sea lanes of the eastern [[place-vylarianse|Vilérian Sea]], and keeps the largest fleet in the region. About 160,000 people live under its assembly, and 6,500 of them in the town of [[place-pelagora2|Pelagora]], whose harbor ranks among the finest natural anchorages in the central sea.
 
 Patron deity
 : [[lore-ardavondty|Árdavon]], god of order and justice
@@ -115,16 +95,24 @@ Pelagora is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]]. Its 
 
 Pelagora uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
+## Current Situation {#present}
+
+The assembly's mood decides each season's voyages, and the fleet it votes keeps the sea lanes of the eastern Vilérian Sea. Pelagora and Thirenae stay rivals and partners, the fleet needing the diplomats and the diplomats needing the fleet.
+
+## History {#history}
+
+In 314 BF the assembly voted to treat alone and became the Republic's naval ally, keeping its fleet, its walls and its overseas daughter-cities ([[lore-heladpelagtrty|the Pelagoran Treaty]]).
+
 ## See Also
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
-: the seven cities and how they are governed
+: the seven city-states and how they are governed
 
 [[place-helionis|Helionis]]
 : the region
 
 [[place-pelagora2|Pelagora]]
-: the city itself
+: the town itself
 
 [[affiliation-thyrenae|Thirenae]], [[affiliation-kalydria|Kalidria]]
 : the other two leading city-states

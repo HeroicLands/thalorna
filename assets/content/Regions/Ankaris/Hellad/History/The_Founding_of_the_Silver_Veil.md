@@ -41,7 +41,7 @@ data:
       unresolved: [whether Lékhisira Kálides wrote the first rule herself or only signed it]
 ---
 
-A graduate of the [Academy of the Silver Veil]{.name data-type="affiliation"} asked why [[affiliation-kalydria|Kalidria]] teaches its daughters to listen answers by quoting the first rule of her school, set out at The Founding of the Silver Veil, and she quotes it in the founder's words: the city could not keep its freedom by arms, and would keep it by conversation.
+A graduate of the [[affiliation-slvrvlacdmy|Academy of the Silver Veil]] asked why [[affiliation-kalydria|Kalidria]] teaches its daughters to listen answers by quoting the first rule of her school, set out at The Founding of the Silver Veil, and she quotes it in the founder's words: the city could not keep its freedom by arms, and would keep it by conversation.
 
 ## The Founding
 
@@ -57,11 +57,11 @@ The Academy's first rule is the sentence its graduates carry. The city could not
 
 - **The Academy of the Silver Veil**, the most distinctive institution of Kalidria, whose graduates are hetairin and are never called courtesans in the city.
 - **The graduates' web** across [[place-midhalnrgn|Midhalión]], an unofficial intelligence service with no office and no master.
-- **The root of [[affiliation-velvethand|the Velvet Hand]].** The syndicate recruits from the Academy's graduates and dropouts alike, and its trade is the Academy's skill turned to another purpose.
+- **A contested root of [[affiliation-velvethand|the Velvet Hand]].** The syndicate recruits from the Academy's graduates and dropouts alike. The households of Vilérian governors and senators say the Hand began with those graduates; the Hand says it was born from the Helionite mystery cults and the Vilérian court. Neither account is established.
 - **A reputation.** Kalidrian taste, in manners and entertainment, travels farther than Kalidria's arms ever could.
 
 ## See Also {#see-also}
 
 - [[lore-helionscnq|The Conquest of Helionis]]—the war the Academy answers
-- [[affiliation-kalydria|Kalidria]] · [[place-kalydria2|the city of Kalidria]]
-- [[affiliation-velvethand|The Velvet Hand]]—the syndicate that grew from the Academy's skills
+- [[affiliation-kalydria|Kalidria]] · [[place-kalydria2|the town of Kalidria]]
+- [[affiliation-velvethand|The Velvet Hand]]—the syndicate that recruits from the Academy's graduates, whose origin two rival accounts dispute

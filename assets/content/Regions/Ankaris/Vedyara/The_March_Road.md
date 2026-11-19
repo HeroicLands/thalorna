@@ -5,7 +5,13 @@ type: place
 subType: feature
 description: "The road round the western end of the Grazian wall—the one way into Vedyara that crosses no pass, and the one a steppe host came down."
 tags: [frontier, caravan, inland]
-data: {demonym: null, lore: [], parents: [bhumipalland], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [bhumipalland]
+  routes: [{to: dunhardsrtrgn, bearing: NW, mode: land, days: 30, terrain: [road, desert]}]
+  population: null
+  packFolder: vedyara
 ---
 
 **The march road** runs from [[place-sandyapur|Sandyapur]] on the western coast north to [[place-ashvapada|Ashvapada]] under the foothills, west from there to the wells of [[place-marukupa|Marukupa]], and out of [[place-vedyarargn|Vedyara]] across the desert-margin toward the Dunhari oases and the emporia beyond them. It crosses no pass. It goes round the western end of the Grazian wall ([[place-graznmntns|The Grazian Mountains]]) through the broken country of [[place-wstrndscnt|the Western Descent]], and a loaded camel takes it without climbing anything worth the name.

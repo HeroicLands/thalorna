@@ -5,7 +5,7 @@ name:
   en: [Thalorna Demographics, World Population, Population of Thalorna]
 type: doc
 subType: reference
-description: "Reference estimate of the population of Thalorna by continent and region—a pre-industrial, agrarian world of roughly 370 million, with the eastern giants Tantsou and Vedyara holding the majority of humankind."
+description: "Reference estimate of the population of Thalorna by continent and region—a pre-industrial, agrarian world of roughly 360 million, with the eastern giants Tantsou and Vedyara holding the majority of humankind."
 tags: [reference, demographics, worldbuilding]
 
 # terran_analog: the agrarian share matches Earth before the modern age; the eastern majority mirrors China and India holding about half of humanity in the pre-modern era; a 1M capital compares to Rome (~1M) atop Roman Italy (~12–14M).
@@ -15,7 +15,7 @@ tags: [reference, demographics, worldbuilding]
 
 A working demographic model of the inhabited world. [[place-worldthlrn|Thalorna]] in **720 AF** is a pre-industrial, overwhelmingly agrarian world in which some **85–90% of people live on the land**, in countless small villages and farms, and only a thin urban crust lives in the named cities and towns. The figures below are population _totals_ for whole regions—not the sum of named settlements, which are only the notable places.
 
-Every figure here is **derived from the region and polity notes themselves**, rounded to two significant digits. Where a region's note states a number, that number governs and this page follows it; where the region's own note states nothing, the figure is the sum of the lands inside it. The world comes to roughly **370 million** souls, comparable to Earth around the 14th–15th centuries.
+Every figure here is **derived from the region and polity notes themselves**, rounded to two significant digits. Where a region's note states a number, that number governs and this page follows it; where the region's own note states nothing, the figure is the sum of the lands inside it. The world comes to roughly **360 million** souls, comparable to Earth around the 14th–15th centuries.
 
 ### By Region
 
@@ -23,7 +23,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 | Region                           | Population      |
 | -------------------------------- | --------------- |
-| [[place-midhalnrgn\|Midhalión]]  | ~47,000,000     |
+| [[place-midhalnrgn\|Midhalión]]  | ~38,000,000     |
 | [[place-aureldirgn\|Aureldia]]   | ~11,000,000     |
 | [[place-khzryndsrtrgn\|Khazrin]] | ~3,000,000      |
 | [[place-dunharargn\|Dunhara]]    | ~3,000,000      |
@@ -31,7 +31,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | [[place-vrystwald\|Vristwald]]   | ~500,000        |
 | [[place-grkrhlmrgn\|Grukarholm]] | ~50,000         |
 | Other minor western regions      | ~5,000,000      |
-| **Western Ankaris subtotal**     | **~72,000,000** |
+| **Western Ankaris subtotal**     | **~63,000,000** |
 
 **Within Midhalión**, the west's demographic heart:
 
@@ -39,9 +39,9 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | ----------------------------- | ----------- |
 | [[place-vylariargn\|Viléria]] | ~24,000,000 |
 | Taruzel                       | ~12,000,000 |
-| [[place-heladrgn\|Hellád]]    | ~11,000,000 |
+| [[place-heladrgn\|Hellád]]    | ~2,400,000  |
 
-[[place-vylariargn|Viléria]] divides between the [[affiliation-vylarinmpr|Vilérian Empire]]'s four core provinces (~21,000,000) and the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]] (~2,500,000); the [[place-heladrgn|Hellád Region]] between the [[place-byzariargn|Bizaria Region]] (~8,000,000) and the city-states of [[place-helionis|Helionis]] (~3,000,000).
+[[place-vylariargn|Viléria]] divides between the [[affiliation-vylarinmpr|Vilérian Empire]]'s four core provinces (~21,000,000) and the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]] (~2,500,000); the [[place-heladrgn|Hellád Region]] between the [[place-byzariargn|Bizaria Region]] (~1,200,000) and the city-states of [[place-helionis|Helionis]] (~1,200,000).
 
 **Within Aureldia**, the mosaic of kingdoms bound by the Twelve:
 
@@ -92,16 +92,16 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 ### World Total
 
-**≈ 370 million.**
+**≈ 360 million.**
 
 | Continent / bloc     | Population |
 | -------------------- | ---------- |
-| Ankaris (west)       | ~72M       |
+| Ankaris (west)       | ~63M       |
 | Ankaris (east)       | ~230M      |
 | Zerathia             | ~29M       |
 | Kì'ìch'chik          | ~35M       |
 | Kalihara & scattered | ~6M        |
-| **World**            | **~370M**  |
+| **World**            | **~360M**  |
 
 ### Notes and Sanity Checks
 
@@ -113,7 +113,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 **The Aureldian kingdoms are itemized, not estimated.** [[place-provenzrgn|Provénzia]], [[place-elavendre|Élavendre]], [[place-tarvenirgn|Tarvénia]], [[place-eilwith|Eilwìth]] and [[affiliation-calypsa|Kalipsa]] each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vilérian Empire's, which is why no Aureldian crown can face Orzara alone and why the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], not a treaty, are what hold the west together.
 
-**The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád and [[place-taruzelrgn|Taruzel]] run higher, toward 12–15%, and the frontier and pastoral country of the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]] and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
+**The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád sit at 10% and [[place-taruzelrgn|Taruzel]]'s run higher, toward 12–15%, and the frontier and pastoral country of the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]] and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
 
 **Approximate by design.** Every figure here is round and approximate—good to roughly the nearest few million at the regional scale, not the nearest soul—and any may be revised as the setting develops.
 

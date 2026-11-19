@@ -42,7 +42,7 @@ The pass is the shortest road between the hills of Helionis and the plateau of B
 ## Hooks {#hooks}
 
 - **The answer.** A reply to the yearly report has arrived, and the commander has not opened it.
-- **The offer.** Two cities, each unwilling to see the other hold the fort, have each offered the commander a garrison's pay in return for his oath, and he has not answered either.
+- **The offer.** Two city-states, each unwilling to see the other hold the fort, have each offered the commander a garrison's pay in return for his oath, and he has not answered either.
 - **The paychest.** The fort's founders left a strongroom, and the commander says that it holds the pay of the years before 619 and that he will not open it until the Empire pays what it owes.
 
 ## See Also {#see-also}

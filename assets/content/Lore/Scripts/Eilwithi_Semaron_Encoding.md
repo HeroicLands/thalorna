@@ -7,8 +7,8 @@ data:
   packFolder: languages
   language: aelw
   font: semaron-kuriale
-  accepts: [a-w, y-z, A-W, Y-Z, 0-9, á, é, í, ó, ú, Á, É, Í, Ó, Ú, ì, Ì]
-  vowels: aeiouAEIOUáéíóúÁÉÍÓÚìÌ
+  accepts: [a-w, y-z, A-W, Y-Z, 0-9, á, é, í, ó, ú, Á, É, Í, Ó, Ú, à, ì, ò, ù, À, Ì, Ò, Ù]
+  vowels: aeiouAEIOUáéíóúÁÉÍÓÚàìòùÀÌÒÙ
   mappings:
     "0": DIGIT_ZERO
     "1": DIGIT_ONE
@@ -97,8 +97,14 @@ data:
     Í: [ILTHERA_MAJ, STRESS]
     Ó: [ORNETHE_MAJ, STRESS]
     Ú: [ULMERA_MAJ, STRESS]
+    à: [ANKRON_MIN, SHORT]
     ì: [ILTHERA_MIN, SHORT]
+    ò: [ORNETHE_MIN, SHORT]
+    ù: [ULMERA_MIN, SHORT]
+    À: [ANKRON_MAJ, SHORT]
     Ì: [ILTHERA_MAJ, SHORT]
+    Ò: [ORNETHE_MAJ, SHORT]
+    Ù: [ULMERA_MAJ, SHORT]
   rules:
     normalization: NFC
     matching: longest-first
@@ -157,12 +163,13 @@ acute on its second vowel starts a syllable there, as
 and STRESS: the two vowels with the modifier after the second. Each vowel
 takes its own sign, in a group or apart. The diaeresis is not used.
 
-A grave writes a short vowel, as in the common guide. Eilwìthi uses one, ì,
-the short i of sit, as in Eilwìth. Semaron draws the short vowel with the same
-sign as the plain one, so ì writes ILTHERA followed by the font's non-printing
-SHORT mark, and Ì writes the majuscule with the same mark. The mark keeps the
-grave in the native text, so decoding writes ì and Ì again. No other grave is
-accepted.
+A grave writes a short vowel, as in the common guide: à the short a of cat,
+ì the short i of sit, as in Eilwìth, ò the vowel of cup and ù the short u of
+put. Semaron draws the short vowel with the same sign as the plain one, so each
+grave vowel writes its base vowel followed by the font's non-printing SHORT
+mark, and a capital writes the majuscule with the same mark. The mark keeps the
+grave in the native text, so decoding writes the grave vowel again. No other
+grave is accepted.
 
 ## Word spelling
 

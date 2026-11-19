@@ -145,6 +145,6 @@ linguistic guide extraction, and another language without English paradigms.
 `node utils/aelwythi-respell.mjs` prints a deterministic inventory with source
 locations and newly converging spellings. It does not write files. Mechanical
 candidates do not supersede reviewed forms in the language note: scent is
-sente, thick is thikke and sceptic is skeptik. The word kold and the naming
+sent, thick is thìk and sceptic is skeptìk. The word kold and the naming
 element kold are the same lexeme. English glosses and the historical English
 dictionary retain their English spellings.

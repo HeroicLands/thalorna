@@ -17,18 +17,18 @@ const hash = (text) => createHash("sha256").update(text).digest("hex");
 
 test("ordinary Aelwythi questions and courtesies state the addressee's number", () => {
     for (const [concept, form] of [
-        ["question-polar", "Knowest thou him."],
-        ["question-why", "Wherefore weepest thou."],
-        ["question-how", "How farest thou."],
+        ["question-polar", "Knoest dhau him."],
+        ["question-why", "Wherefore weepest dhau."],
+        ["question-how", "How farest dhau."],
         ["question-how-many", "How meni ben there."],
-        ["question-to-whom", "To whom speakest thou."],
-        ["question-for-what-purpose", "To what end labourest thou."],
-        ["question-clarification", "What meanest thou."],
-        ["expression-please", "I pray thee"],
-        ["expression-thank-you", "I thank thee"],
-        ["expression-how-do-you-say", "How sayst thou this in Eilwìthi."],
-        ["expression-what-is-this-called", "What callest thou this."],
-        ["expression-excuse-me", "By thy leave"],
+        ["question-to-whom", "To whom speakest dhau."],
+        ["question-for-what-purpose", "To what end labourest dhau."],
+        ["question-clarification", "What miinest dhau."],
+        ["expression-please", "I prai dhii"],
+        ["expression-thank-you", "I thank dhii"],
+        ["expression-how-do-you-say", "How seist dhau this in Eilwìthi."],
+        ["expression-what-is-this-called", "What kallest dhau this."],
+        ["expression-excuse-me", "Bi dhai leave"],
     ])
         assert(
             forms(concept).includes(guideSpelled(form)),
@@ -54,7 +54,7 @@ test("declared finite forms support the prescribed present paradigms without mod
     for (const row of rows) {
         const { verb: headword, I, thou, heSheIt, plural } = row;
         const displayed = [I, thou, heSheIt, plural];
-        const word = words.find(({ form }) => form === guideSpelled(headword));
+        const word = words.find(({ form }) => form === headword);
         assert(word, `${headword} needs an entry`);
         const declared = new Set([word.form, ...(word.variants ?? [])]);
         for (const form of displayed)
@@ -66,13 +66,13 @@ test("declared finite forms support the prescribed present paradigms without mod
         "speaken",
         "ben",
         "haven",
-        "doen",
+        "duuen",
         "goen",
-        "comen",
-        "knowen",
-        "mayst",
+        "komen",
+        "knoen",
+        "meist",
     ])
-        assert(all.has(guideSpelled(form)), `${form} is part of the prescribed standard`);
+        assert(all.has(form), `${form} is part of the prescribed standard`);
     for (const form of ["are", "has", "does", "willen", "shallen", "canen", "mayen"])
         assert(!all.has(form), `${form} conflicts with the prescribed present standard`);
 });
@@ -89,29 +89,29 @@ test("the illustrative sample words retain their reviewed form", () => {
     const reviewed = [
         [
             true,
-            "Whither goest thou stranger and what carriest thou in thy pack. The fog lieth heavy on the water and the gate is shut ere dark. Tarry with us this night and we will ask thee naught more.",
+            "Whither goest dhau stranger and what karriest dhau in dhai pàk. The fog lieth heavi on the water and the gate is shut ere dark. Tarri with us this night and we will ask dhii naught more.",
             "Whither goest thou, stranger, and what carriest thou in thy pack? The fog lieth heavy on the water, and the gate is shut ere dark. Tarry with us this night, and we will ask thee naught more.",
         ],
         [
             true,
-            "A word once given is a stone laid in the wall. pluck it out and the whole house falleth.",
+            "A word onse given is a stone leid in the waal. pluk it out and the whole house falleth.",
             "A word once given is a stone laid in the wall: pluck it out, and the whole house falleth.",
         ],
-        [false, "The wool is shorn the barley bound", "The wool is shorn, the barley bound,"],
-        [false, "The last of summer's gold is ground", "The last of summer's gold is ground;"],
-        [false, "Fill high the cup and drink it deep", "Fill high the cup, and drink it deep,"],
-        [false, "And name the dead now fast asleep.", "And name the dead, now fast asleep."],
-        [false, "Go softly thou that walkest late", "Go softly, thou that walkest late,"],
-        [false, "And leave thine offering at the gate", "And leave thine offering at the gate;"],
-        [false, "Who watcheth by the crossing wide", "Who watcheth by the crossing wide"],
-        [false, "Will let the courteous pass beside.", "Will let the courteous pass beside."],
+        [false, "The wool is shorn the barlei bound", "The wool is shorn, the barley bound,"],
+        [false, "The last of summeres gold is ground", "The last of summer's gold is ground;"],
+        [false, "Fill high the kup and drink it deep", "Fill high the cup, and drink it deep,"],
+        [false, "And name the dead nau fast asleep.", "And name the dead, now fast asleep."],
+        [false, "Go softli dhau that walkest late", "Go softly, thou that walkest late,"],
+        [false, "And leave dhain ofrìng at the gate", "And leave thine offering at the gate;"],
+        [false, "Who wàcheth bi the krossing wide", "Who watcheth by the crossing wide"],
+        [false, "Will let the kùrtyòs pass beside.", "Will let the courteous pass beside."],
     ];
     const actual = samples.prose
         .map((line) => [true, line])
         .concat(aelwythiVerseLines(samples).map((line) => [false, line]));
     assert.deepEqual(
         actual,
-        reviewed.map(([prose, current]) => [prose, guideSpelled(current)]),
+        reviewed.map(([prose, current]) => [prose, current]),
     );
     let quoted = reviewed
         .map(([prose, _current, previous]) => (prose ? `> "${previous}"` : `> ${previous}`))
@@ -134,14 +134,14 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         "_We haven come_",
         "_we haven awaited_",
         "_thei will come_",
-        "_thei mai enter_",
+        "_thei mei enter_",
         "_Come hither_",
         "_Enter not_",
         "_we believen not_",
         "_thei comen not_",
-        "_Haven ye seen him._",
+        "_Haven ye siin him._",
         "_Methinks we haven tarried too long._",
-        "We haven been waiting for thee since morn.",
+        "We haven biin waiting for dhii since morn.",
         "We ben merchants of the north and haven come hither to sell our wares.",
         "Ye cannot enter till morn.",
         "We cannot abide here longer.",
@@ -162,7 +162,7 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         ["will", "wilt"],
         ["shall", "shalt"],
         ["can", "canst"],
-        ["may", "mayst"],
+        ["mei", "meist"],
         ["might", "mightst"],
         ["would", "wouldst"],
         ["should", "shouldst"],
@@ -175,7 +175,7 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         );
         assert(!all.has(guideSpelled(`${headword}en`)), `${headword} cannot take a plural ending`);
     }
-    for (const form of ["Methinks", "Meseems", "Me likes", "Me lists"])
+    for (const form of ["Methinks", "Meseems", "Mii likes", "Mii lists"])
         assert(words.some((word) => word.form === form && /fixed impersonal/.test(word.gloss)));
     assert(forConcept("cannot").every((word) => /unable/.test(word.gloss)));
     assert(forConcept("may-permission").every((word) => /permission/.test(word.gloss)));
@@ -185,12 +185,20 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
 });
 
 test("performed verse takes its reading from the guide without lexical contractions", () => {
-    // #1256 removes dictionary readings; #1257 owns any further respelling.
-    // The preceding exact-sample assertion still preserves every performed word.
-    assert.equal(aelwythiVerseLines(samples).length, 8);
-    for (const form of ["offering", "kourteous"]) {
+    // The charm's two-syllable readings are recorded as variants of the dictionary forms.
+    const verse = aelwythiVerseLines(samples);
+    assert.equal(verse.length, 8);
+    for (const [form, charm] of [
+        ["ófòrìng", "ofrìng"],
+        ["kourteous", "kùrtyòs"],
+    ]) {
         const word = words.find((entry) => entry.form === form);
         assert(word, `${form} remains in the vocabulary`);
+        assert(word.variants.includes(charm), `${form} records its charm reading`);
+        assert(
+            verse.some((line) => line.split(/\s+/).includes(charm)),
+            `the charm is written ${charm}`,
+        );
         assert(!Object.hasOwn(word, "pronunciation"), `${form} has no reading override`);
         assert(
             !/\b(?:contract(?:ed|ion)?|two[- ]syllable)\b|OFF-ring|COUR-teous/i.test(
@@ -226,6 +234,15 @@ test("the standard uses guide sounds and preserves authored lexical meanings", (
     assert.equal(encoding.font, "semaron-kuriale");
     assert.equal(encoding.mappings["."], "POINT");
     assert.equal(encoding.mappings.k, "KALPEZA_MIN");
+    for (const [letter, vowel] of [
+        ["à", "ANKRON"],
+        ["ì", "ILTHERA"],
+        ["ò", "ORNETHE"],
+        ["ù", "ULMERA"],
+    ]) {
+        assert.deepEqual(encoding.mappings[letter], [`${vowel}_MIN`, "SHORT"]);
+        assert.deepEqual(encoding.mappings[letter.toUpperCase()], [`${vowel}_MAJ`, "SHORT"]);
+    }
     assert(!Object.hasOwn(encoding, "map"));
     assert(words.every((word) => !Object.hasOwn(word, "native")));
     assert(
@@ -233,8 +250,8 @@ test("the standard uses guide sounds and preserves authored lexical meanings", (
     );
     for (const [form, gloss] of [
         ["eksakt", "require or demand"],
-        ["konquer", "overcome or subdue"],
-        ["skeptik", "one who doubts"],
+        ["kongkòr", "overcome or subdue"],
+        ["skeptìk", "one who doubts"],
     ])
         assert(
             words.some((word) => word.form === form && word.gloss === gloss),

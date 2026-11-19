@@ -20,6 +20,10 @@
  *
  * No language is exempt: Aelwythi is held to the standard like every other.
  *
+ * The structured fields of a language note that hold a word, affix or ending
+ * (`WORD_FIELD_PATHS`: joining forms, element and affix forms, examples,
+ * endings, cognates and the like) are read as in-world spellings too.
+ *
  * Diaeresis findings remain report-only warnings. Closing ay, ey and oy are
  * errors in in-world spellings; iy and uy stay. The source audit includes
  * typed forms, native names, Roman runs, verse and explicit English passages.
@@ -416,7 +420,7 @@ export function main(argv, io = { out: console.log, err: console.error }, cwd = 
     }
     for (const hit of audit.findings)
         io.err(
-            `${hit.file}:${hit.line}:${hit.column}: error: \"${hit.form}\" closes \"${hit.pair}\"; write \"${hit.replacement}\" (${hit.language}; ${hit.field}; ${hit.surface})`,
+            `${hit.file}:${hit.line}:${hit.column}: error: \"${hit.form}\" closes \"${hit.pair}\"; ${closingAdvice(hit)} (${hit.language}; ${hit.field}; ${hit.surface})`,
         );
     io.out(
         `${audit.findings.length} deprecated pair occurrence(s); ${audit.ambiguities.length} ambiguous occurrence(s), available with --json`,
@@ -504,9 +508,34 @@ export function deprecatedPairs(form, groups = GUIDE_GROUPS) {
         const offset = a.index,
             end = b.index + b[0].length;
         const pair = form.slice(offset, end);
-        out.push({ pair, offset, end, replacement: a[0] + (b[0] === "Y" ? "I" : "i") });
+        const closing = b[0] === "Y" ? "I" : "i";
+        const hit = { pair, offset, end, replacement: a[0] + closing };
+        // y is a consonant: the vowel before it is ai (time) or ei (day), by sound.
+        if (baseLetter(a[0]) === "a")
+            hit.replacements = [a[0] + closing, withBase(a[0], "e") + closing];
+        out.push(hit);
     }
     return out;
+}
+
+/** The letter with its base replaced by `base`, keeping its case and marks. */
+function withBase(letter, base) {
+    const decomposed = letter.normalize("NFD");
+    const swapped =
+        (decomposed[0] === decomposed[0].toUpperCase() ? base.toUpperCase() : base) +
+        decomposed.slice(1);
+    return letter === decomposed ? swapped : swapped.normalize("NFC");
+}
+
+/**
+ * What to write for a closing pair. y is a consonant, so the closing vowel is
+ * written by its sound: ei is the vowel of day, ai the vowel of time and oi
+ * the vowel of boy.
+ */
+export function closingAdvice(hit) {
+    if (!hit.replacements) return `write \"${hit.replacement}\"`;
+    const [time, day] = hit.replacements;
+    return `write \"${time}\" for the vowel of time or \"${day}\" for the vowel of day`;
 }
 
 /** The form with every closing pair respelled. */
@@ -515,6 +544,19 @@ export function respelled(form) {
     for (const hit of deprecatedPairs(form).reverse())
         out = out.slice(0, hit.offset) + hit.replacement + out.slice(hit.end);
     return out;
+}
+
+/** Every respelling of a form's closing pairs: the ai reading and the ei reading. */
+export function respelledForms(form) {
+    const forms = new Set([respelled(form)]);
+    let day = form;
+    for (const hit of deprecatedPairs(form).reverse())
+        day =
+            day.slice(0, hit.offset) +
+            (hit.replacements?.[1] ?? hit.replacement) +
+            day.slice(hit.end);
+    forms.add(day);
+    return [...forms];
 }
 
 /** The measured and prospective inventory, both derived from the authored rows. */
@@ -536,6 +578,67 @@ export function soundInventory(text) {
             rows.filter((row) => !(row.letters ?? []).some((s) => DEPRECATED.has(s))),
         ),
     };
+}
+
+/**
+ * The structured fields of a language note that hold an in-world word, affix
+ * or ending, as dotted paths under the frontmatter. List positions are not
+ * written, and `*` stands for any one map key. The language schema declares
+ * what each field holds in prose only, so this is the one place that names the
+ * word-holding fields.
+ */
+export const WORD_FIELD_PATHS = Object.freeze([
+    "data.words.form",
+    "data.words.variants",
+    "data.words.plural",
+    "data.words.built",
+    "data.affixes.form",
+    "data.affixes.front",
+    "data.affixes.replaces",
+    "data.affixes.examples",
+    "data.older.form",
+    "data.elements.form",
+    "data.elements.variants",
+    "data.elements.examples",
+    "data.elements.word",
+    "data.elements.joining",
+    "data.retired.instead",
+    "data.cognates.forms.*",
+    "data.cognates.proto",
+    "data.callingNames.closings.form",
+    "data.negation.particle",
+    "data.sounds.finals.final",
+    "data.sounds.joining.example",
+    "data.sounds.mutations.example",
+    "data.sounds.frames.examples.*",
+    "data.naming.heldFrom.joining",
+    "data.naming.heldFrom.elements",
+    "data.naming.nearName.examples.near",
+    "data.naming.nearName.examples.given",
+    "data.grammar.plural.ending",
+    "data.grammar.plural.becomes",
+    "data.grammar.verbs.persons.*",
+    "data.grammar.verbs.replaces",
+    "data.grammar.agreement.endings",
+    "data.grammar.participles.root",
+    "data.grammar.participles.affixes",
+]);
+
+/**
+ * Whether a scalar's key path is one of {@link WORD_FIELD_PATHS}.
+ *
+ * @param {(string|number)[]} keys - The scalar's path from the frontmatter root.
+ * @returns {boolean}
+ */
+export function isWordField(keys) {
+    const named = keys.filter((key) => typeof key !== "number");
+    return WORD_FIELD_PATHS.some((path) => {
+        const parts = path.split(".");
+        return (
+            parts.length === named.length &&
+            parts.every((part, i) => part === "*" || part === named[i])
+        );
+    });
 }
 
 /** Parse source once, keeping YAML ranges in the original text (including CRLF). */
@@ -654,7 +757,7 @@ export function pairInventory(sources, config = {}) {
             for (const part of new Set([m[0], ...m[0].split(/[-'’]/)])) {
                 if (!part || !deprecatedPairs(part).length) continue;
                 if (part[0] === part[0].toLowerCase()) continue;
-                const ids = [normalizeName(part), normalizeName(respelled(part))];
+                const ids = [part, ...respelledForms(part)].map(normalizeName);
                 if (ids.some(isEnglish)) continue;
                 for (const id of ids) {
                     hits.push(...(spelled.get(id) ?? []));
@@ -682,7 +785,10 @@ export function pairInventory(sources, config = {}) {
         );
         const tokens = [...text.matchAll(WORD)];
         const i = tokens.findIndex((w) => w.index === from);
-        if (i < 0 || [tokens[i][0], respelled(tokens[i][0])].map(normalizeName).some(isEnglish))
+        if (
+            i < 0 ||
+            [tokens[i][0], ...respelledForms(tokens[i][0])].map(normalizeName).some(isEnglish)
+        )
             return [];
         const joins = (k) => {
             const gap = text.slice(tokens[k].index + tokens[k][0].length, tokens[k + 1].index);
@@ -698,7 +804,7 @@ export function pairInventory(sources, config = {}) {
                     .slice(a, b + 1)
                     .map((t) => t[0])
                     .join(" ");
-                for (const id of [normalizeName(span), normalizeName(respelled(span))]) {
+                for (const id of [span, ...respelledForms(span)].map(normalizeName)) {
                     hits.push(...(names.get(id) ?? []));
                     hits.push(
                         ...(words.get(id) ?? []).filter((e) => e.surface === "registered-name"),
@@ -713,7 +819,7 @@ export function pairInventory(sources, config = {}) {
         for (const m of form.matchAll(WORD))
             for (const part of new Set([m[0], ...m[0].split(/[-'’]/)])) {
                 if (!part || !deprecatedPairs(part).length) continue;
-                const ids = [normalizeName(part), normalizeName(respelled(part))];
+                const ids = [part, ...respelledForms(part)].map(normalizeName);
                 if (skipEnglish && ids.some(isEnglish)) continue;
                 if (skipEnglish && m[0].split(/[-'’]/).some((p) => isEnglish(normalizeName(p))))
                     continue;
@@ -733,7 +839,7 @@ export function pairInventory(sources, config = {}) {
             if (
                 detail.surface === "glossary" &&
                 [...(word?.[0] ?? form).split(/[-'’]/)].some((part) =>
-                    [part, respelled(part)].map(normalizeName).some(isEnglish),
+                    [part, ...respelledForms(part)].map(normalizeName).some(isEnglish),
                 )
             ) {
                 exclusions.push({
@@ -766,6 +872,7 @@ export function pairInventory(sources, config = {}) {
                 end,
                 source,
                 replacement,
+                ...(hit.replacements ? { replacements: hit.replacements } : {}),
                 context: n.text.slice(
                     n.text.lastIndexOf("\n", start - 1) + 1,
                     n.text.indexOf("\n", end) < 0 ? n.text.length : n.text.indexOf("\n", end),
@@ -935,14 +1042,8 @@ export function pairInventory(sources, config = {}) {
                     surface = "element";
                 if (section === "roots" && ["form", "variants"].includes(leaf)) surface = "root";
                 if (section === "retired" && leaf === "instead") surface = "replacement-target";
-                if (section === "older" && leaf === "form") {
-                    surface = "historical-form";
-                    ambiguous = true;
-                }
-                if (section === "affixes" && leaf === "examples") {
-                    surface = "mixed-affix-example";
-                    ambiguous = true;
-                }
+                if (section === "older" && leaf === "form") surface = "historical-form";
+                if (section === "affixes" && leaf === "examples") surface = "affix-example";
                 if (
                     section === "grammar" &&
                     (s.keys.includes("presentParadigms") || s.keys.includes("present")) &&
@@ -968,6 +1069,8 @@ export function pairInventory(sources, config = {}) {
                     surface = "registered-name";
                 }
             }
+            if (!surface && n.fm.subType === "language" && isWordField(s.keys))
+                surface = "structured-field";
             if (top === "data" && section === "glossary" && ["name", "variants"].includes(leaf)) {
                 lang = glossaryLanguage(n.fm.data.glossary[row], n.record, {
                     keyOf: key,
@@ -1092,7 +1195,7 @@ export function pairInventory(sources, config = {}) {
                         !m[0]
                             .split(/[-'’]/)
                             .some((part) =>
-                                [part, respelled(part)].map(normalizeName).some(isEnglish),
+                                [part, ...respelledForms(part)].map(normalizeName).some(isEnglish),
                             )
                     )
                         push(
@@ -1342,7 +1445,7 @@ export function pairInventory(sources, config = {}) {
                     form.length > 2 &&
                     n.fm.subType === "language" &&
                     ![...form.matchAll(WORD)].some((w) =>
-                        [w[0], respelled(w[0])].map(normalizeName).some(isEnglish),
+                        [w[0], ...respelledForms(w[0])].map(normalizeName).some(isEnglish),
                     );
                 if (range?.stated === "zxx" || (range?.stated === "en" && !nativeEntries.length)) {
                     exclusions.push({
