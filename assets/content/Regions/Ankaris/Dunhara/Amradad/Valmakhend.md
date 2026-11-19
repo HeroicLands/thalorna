@@ -28,17 +28,23 @@ Valmakhend is the port of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the 
 
 The ferries of the [[affiliation-balinuni|Balinuni]] of [[place-qudumel2|Kudumel]] cross from here to Kudumel's [[place-caravangate|Caravan Gate]] and to [[place-pashinar|Pashinar]] in a day with a fair wind, and longer when the winter wind is against them. They are broad, slow sailing craft built to carry mules and bales together. A caravan that has paid its toll at the gates of [[place-tahrodan|Tahrodan]] comes down to the quay here, and Balinuni factors cross over to meet it and offer the caravan master the house's silver for a share.
 
-## What the Port Lives By {#what-the-port-lives-by}
+## What the Port Lives By {#what-the-town-lives-by}
 
-The port lives by the crossing. [[lore-vylrncrncy|Vilérian coin]] is the main money of trade in the Kingdom's port cities. A shipyard stands near the harbor, kept by the shipwright [[being-rshrnbrmndn|Rosharan Barmandan]], whose vessels are known throughout the Kingdom. The pilots of the coast, who warn every newcomer off the [[place-tamzirshoals|Tamzir Shoals]], work from here, and [[being-venradzrdn|Venrad Azardan]], a pilot of the Kingdom's coast, was born here.
+The port lives by the crossing. The ferry fees, the porters' and camel-drivers' hire, the fodder for animals waiting on the quay and the inns that hold their drivers are most of its trade, and [[lore-vylrncrncy|Vilérian coin]] is the money on the quay, as it is at Tahrodan. A shipyard stands near the harbor, kept by the shipwright [[being-rshrnbrmndn|Rosharan Barmandan]], whose vessels are known throughout the Kingdom. The pilots of the coast, who warn every newcomer off the [[place-tamzirshoals|Tamzir Shoals]], work from here, and [[being-venradzrdn|Venrad Azardan]], a pilot of the Kingdom's coast, was born here.
+
+The coast feeds the town better than the desert feeds its towns inland. Its fishing boats work the shallows below the shoals, and the coastal villages north and south of it grow barley, figs and olives on the strip the sea air keeps green, much of it in orchards that [[affiliation-khzrncnfdrtn|Tellumi]] landholders of the exile community own and Amradi tenants work. Grain comes down with the caravans when the coast's harvest is short. Valmakhend sends out the ships of its yard, its salt fish, and the pilots every ferry and coaster on this coast hires.
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The Shebarader holds the port through a governor, a _tagemader_, as he holds every city and oasis of the realm.
+The Shebarader holds the port through a governor, a _tagemader_, as he holds every city and town of the realm. The caravans pay their toll at Tahrodan, so the governor's revenue here is the landing due on every ferry and the dues of the yard. His harbor-watch keeps the quay and searches what lands from Taruzel, and it does not search the Balinuni factors' strongroom on the quay, which the house rents from him.
 
 ## The Present {#present}
 
 The quarrel between Kudumel and Pashinar over which of them the caravans land at is fought on this quay as well as in their councils. The Balinuni lend to the caravan masters here, so that the caravans cross on their ferries and land at the Gate, and a Pashinar factor whose debt the house called has fled to this shore with his ledger. A yard on the Amradi shore is said to be building a coaster to a Taruzelian line sold to nobody there.
+
+## Where a Party Lodges {#lodging}
+
+The inns on the quay take drivers by the night and keep the animals in yards behind. A party crossing with a caravan sleeps where its master puts it, and the pilots' hall takes a stranger only on a pilot's word.
 
 ## Hooks {#hooks}
 

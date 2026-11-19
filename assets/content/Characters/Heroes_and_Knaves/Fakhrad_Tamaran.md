@@ -525,8 +525,8 @@ Vulnerability to Temptation
 Farmer [Torvan]{.name data-type="being/npc"} of the [Eastern Fields]{.name data-type="place/feature"}
 : A wealthy and influential grain merchant who has relied on Fakhrad's astronomical counsel for harvesting decisions for nearly two decades; Torvan actively defends Fakhrad against criticism.
 
-The Village Elders of [[place-sorvadakhend|Sorvadakhend]]
-: The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
+The Elders of [[place-sorvadakhend|Sorvadakhend]]
+: The collective leadership of a farming town maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
 
 Merchant Caravan Master [Yelmad]{.name data-type="being/npc"}
 : A trader who conducts seasonal journeys across the kingdom uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
