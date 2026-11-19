@@ -20,6 +20,10 @@
  *
  * No language is exempt: Aelwythi is held to the standard like every other.
  *
+ * The structured fields of a language note that hold a word, affix or ending
+ * (`WORD_FIELD_PATHS`: joining forms, element and affix forms, examples,
+ * endings, cognates and the like) are read as in-world spellings too.
+ *
  * Diaeresis findings remain report-only warnings. Closing ay, ey and oy are
  * errors in in-world spellings; iy and uy stay. The source audit includes
  * typed forms, native names, Roman runs, verse and explicit English passages.
@@ -538,6 +542,67 @@ export function soundInventory(text) {
     };
 }
 
+/**
+ * The structured fields of a language note that hold an in-world word, affix
+ * or ending, as dotted paths under the frontmatter. List positions are not
+ * written, and `*` stands for any one map key. The language schema declares
+ * what each field holds in prose only, so this is the one place that names the
+ * word-holding fields.
+ */
+export const WORD_FIELD_PATHS = Object.freeze([
+    "data.words.form",
+    "data.words.variants",
+    "data.words.plural",
+    "data.words.built",
+    "data.affixes.form",
+    "data.affixes.front",
+    "data.affixes.replaces",
+    "data.affixes.examples",
+    "data.older.form",
+    "data.elements.form",
+    "data.elements.variants",
+    "data.elements.examples",
+    "data.elements.word",
+    "data.elements.joining",
+    "data.retired.instead",
+    "data.cognates.forms.*",
+    "data.cognates.proto",
+    "data.callingNames.closings.form",
+    "data.negation.particle",
+    "data.sounds.finals.final",
+    "data.sounds.joining.example",
+    "data.sounds.mutations.example",
+    "data.sounds.frames.examples.*",
+    "data.naming.heldFrom.joining",
+    "data.naming.heldFrom.elements",
+    "data.naming.nearName.examples.near",
+    "data.naming.nearName.examples.given",
+    "data.grammar.plural.ending",
+    "data.grammar.plural.becomes",
+    "data.grammar.verbs.persons.*",
+    "data.grammar.verbs.replaces",
+    "data.grammar.agreement.endings",
+    "data.grammar.participles.root",
+    "data.grammar.participles.affixes",
+]);
+
+/**
+ * Whether a scalar's key path is one of {@link WORD_FIELD_PATHS}.
+ *
+ * @param {(string|number)[]} keys - The scalar's path from the frontmatter root.
+ * @returns {boolean}
+ */
+export function isWordField(keys) {
+    const named = keys.filter((key) => typeof key !== "number");
+    return WORD_FIELD_PATHS.some((path) => {
+        const parts = path.split(".");
+        return (
+            parts.length === named.length &&
+            parts.every((part, i) => part === "*" || part === named[i])
+        );
+    });
+}
+
 /** Parse source once, keeping YAML ranges in the original text (including CRLF). */
 function pairSource({ file, text }) {
     const front = /^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/.exec(text);
@@ -935,14 +1000,8 @@ export function pairInventory(sources, config = {}) {
                     surface = "element";
                 if (section === "roots" && ["form", "variants"].includes(leaf)) surface = "root";
                 if (section === "retired" && leaf === "instead") surface = "replacement-target";
-                if (section === "older" && leaf === "form") {
-                    surface = "historical-form";
-                    ambiguous = true;
-                }
-                if (section === "affixes" && leaf === "examples") {
-                    surface = "mixed-affix-example";
-                    ambiguous = true;
-                }
+                if (section === "older" && leaf === "form") surface = "historical-form";
+                if (section === "affixes" && leaf === "examples") surface = "affix-example";
                 if (
                     section === "grammar" &&
                     (s.keys.includes("presentParadigms") || s.keys.includes("present")) &&
@@ -968,6 +1027,8 @@ export function pairInventory(sources, config = {}) {
                     surface = "registered-name";
                 }
             }
+            if (!surface && n.fm.subType === "language" && isWordField(s.keys))
+                surface = "structured-field";
             if (top === "data" && section === "glossary" && ["name", "variants"].includes(leaf)) {
                 lang = glossaryLanguage(n.fm.data.glossary[row], n.record, {
                     keyOf: key,
