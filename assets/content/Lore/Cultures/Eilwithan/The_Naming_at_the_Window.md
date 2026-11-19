@@ -4,7 +4,7 @@ name: {full: The Naming at the Window, en: [The Lament for Mildwald of Ashwold]}
 type: lore
 subType: literature
 description: "The lament a widow of the Wiindmarch says at her window over the black candle on the first night of the Silent Passage: the husband who rode into the wood with the watch and left no body for the gate, the old woman who would not come down from the burning steading, the boy who went to the wood's edge to look, the steading itself, the one line the steward wrote for all of them, and the names given to a daughter to say after her."
-tags: [draft, eilwith]
+tags: [eilwith]
 data:
   culture: aelwythanclt
   packFolder: settinglore

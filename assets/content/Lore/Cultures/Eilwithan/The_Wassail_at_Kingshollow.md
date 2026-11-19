@@ -4,7 +4,7 @@ name: {full: The Wassail at Kingshollow, en: [The Hall-Door Carol]}
 type: lore
 subType: literature
 description: "The carol the tenants of Kingshollow sing at the shut door of the royal hall on the night of the midwinter feast: the ash bowl, the crown the barons gave, the forest the village may not cut, the king whose health is the harvest, the kings in the yard behind the hall and the one who is not among them, and the single tree the king gives back."
-tags: [draft, eilwith]
+tags: [eilwith]
 data:
   culture: aelwythanclt
   packFolder: settinglore

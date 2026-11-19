@@ -221,8 +221,9 @@ Aldorath's lords fund the idea of a restored Dúnavarran monarchy intermittently
   destroyed.
 - **The unmasking.** A Herald's register surfaces that bears on who the Veiled Crown is. Every possible
   answer is catastrophic for somebody.
-- **A Knight-Captain's conscience.** An officer of the Just Blade has begun passing word to the Court.
-  He believes he is serving Árdavon. He may be right, and it will get him killed either way.
+- **A Knight-Captain's conscience.** The Court has sympathizers among the Knight-Captains of the
+  Just Blade, and a knight who acts on that sympathy believes he is serving Árdavon. He may be
+  right, and it will get him killed either way.
 
 ## See Also {#see-also}
 

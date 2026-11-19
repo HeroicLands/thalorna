@@ -112,7 +112,7 @@ Ambassador
 
 **The Durrask.** [[affiliation-durrask|The Durrask]] of the Thornwold raid the western estates along Seirasto's northern edge as well. The Order hanged five of their raiders at the roadside in the summer, and they have raided the estates twice since.
 
-**Abroad.** The embassy to Tantsou is the Synod's boldest act on the world's stage, and the [[affiliation-umbralcourt|Umbral Court]] holds the mission's Steward by his debts.
+**Abroad.** The embassy to Tantsou is the Synod's boldest act on the world's stage, and the [[affiliation-umbralcourt|Umbral Court]] takes an interest in it.
 
 ## Character
 

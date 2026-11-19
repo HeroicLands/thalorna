@@ -4,7 +4,7 @@ name: {full: The Head at Koldford, en: [The Head of Harmund]}
 type: lore
 subType: literature
 description: "The tale the Wiindmarch tells at its wakes after the candles are trimmed at midnight: the three bans laid on a child at the crossroads stone, the champion's portion won at a lord's board and the errand that came with it, the bread given away and the water crossed after dark, the head set on a stake facing the wood that kept the ford seven winters, and the priest of the Silent Judge who asked it whether it would go."
-tags: [draft, eilwith]
+tags: [eilwith]
 data:
   culture: aelwythanclt
   packFolder: settinglore

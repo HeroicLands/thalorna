@@ -4,7 +4,7 @@ name: {full: The Finding at the Far Edge, khaz: [varg-fukár]}
 type: lore
 subType: literature
 description: "The founding account of Vorgald, read below on the day of the finding: how the finder Fikir read the sea-cliff from a hired boat, refused the wide dry caverns of the north face, listened for a season, and found the refuge before a single home."
-tags: [draft, khazari]
+tags: [khazari]
 data:
   packFolder: settinglore
   culture: khazariclt

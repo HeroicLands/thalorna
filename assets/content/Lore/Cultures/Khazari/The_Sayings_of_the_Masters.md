@@ -4,7 +4,7 @@ name: {full: The Sayings of the Masters, khaz: [gathar-buzán]}
 type: lore
 subType: literature
 description: "The workshop sayings of twelve Khazari masters as Vorgald keeps them, received in a named chain and read whole below on the day an apprentice is admitted to strike, with a dispute over the farmers at the gate kept unresolved."
-tags: [draft, khazari]
+tags: [khazari]
 data:
   packFolder: settinglore
   culture: khazariclt
