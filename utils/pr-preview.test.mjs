@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import fs from "node:fs/promises";
 import test from "node:test";
 import { parse } from "yaml";
-import { previewRequest, previewDecision } from "./pr-preview.mjs";
+import { previewRequest, previewDecision, writePreviewDiagnostic } from "./pr-preview.mjs";
 import * as helpers from "../trusted-preview-contracts/actions/internal-site-deploy/publish.mjs";
 
 const repository = "HeroicLands/thalorna";
@@ -29,7 +29,7 @@ const currentPR = (overrides = {}) => ({
     ...overrides,
 });
 
-test("event identity uses the PR head and rejects alternate repository, base, fork and malformed identity", () => {
+test("event identity uses the PR head and rejects alternate repository, fork and malformed identity", () => {
     const selected = request("synchronized");
     assert.equal(selected.context.sourceSha, sha);
     assert.equal(selected.context.prNumber, 42);
@@ -40,9 +40,6 @@ test("event identity uses the PR head and rejects alternate repository, base, fo
         previewRequest("pull_request_target", event("synchronized"), "Elsewhere/thalorna"),
     );
     for (const mutate of [
-        (e) => {
-            e.pull_request.base.ref = "topic";
-        },
         (e) => {
             e.pull_request.base.repo.full_name = "Elsewhere/thalorna";
         },
@@ -64,6 +61,37 @@ test("event identity uses the PR head and rejects alternate repository, base, fo
     });
 });
 
+test("forks on other bases are unsupported and retargeted closed PRs clean up without building", () => {
+    const fork = event("closed");
+    fork.pull_request.base.ref = "topic";
+    fork.pull_request.head.repo.full_name = "Elsewhere/thalorna";
+    const unsupported = previewRequest("pull_request_target", fork, repository);
+    assert.deepEqual(previewDecision(unsupported, null, helpers), {
+        build: false,
+        cleanup: false,
+        reopen: false,
+        unsupported: true,
+    });
+
+    const retargeted = event("closed");
+    retargeted.pull_request.base.ref = "topic";
+    const selected = previewRequest("pull_request_target", retargeted, repository);
+    const current = currentPR({ state: "closed", base: retargeted.pull_request.base });
+    assert.deepEqual(previewDecision(selected, current, helpers), {
+        build: false,
+        cleanup: true,
+        reopen: false,
+        unsupported: false,
+    });
+    retargeted.action = "synchronized";
+    const refresh = previewRequest("pull_request_target", retargeted, repository);
+    assert.equal(
+        previewDecision(refresh, currentPR({ base: retargeted.pull_request.base }), helpers).build,
+        false,
+    );
+    assert.equal(previewDecision(refresh, currentPR(), helpers).build, false);
+});
+
 test("only native label additions and sticky refreshes build when the shared current-head guard allows them", () => {
     const pr = currentPR();
     const requests = [
@@ -81,6 +109,96 @@ test("only native label additions and sticky refreshes build when the shared cur
         { removed_labels: [{ name: "ci/preview" }] },
     ])
         assert.equal(previewDecision(request("label_updated", changes), pr, helpers).build, false);
+});
+
+test("controller diagnostics contain only booleans and match the helper decision", async () => {
+    for (const [candidate, pr] of [
+        [
+            request("label_updated", { added_labels: [{ name: "ci/preview", secret: "private" }] }),
+            currentPR(),
+        ],
+        [request("label_updated", { removed_labels: [{ name: "ci/preview" }] }), currentPR()],
+        [request("synchronized"), currentPR({ draft: true })],
+        [request("reopened"), currentPR()],
+        [request("closed"), currentPR({ state: "closed" })],
+        [
+            previewRequest(
+                "workflow_dispatch",
+                { inputs: { operation: "publish", "pr-number": "42", "source-sha": sha } },
+                repository,
+                "refs/heads/main",
+            ),
+            currentPR(),
+        ],
+        [
+            previewRequest(
+                "workflow_dispatch",
+                { inputs: { operation: "cleanup", "pr-number": "42", "source-sha": sha } },
+                repository,
+                "refs/heads/main",
+            ),
+            currentPR({ state: "closed" }),
+        ],
+        [{ unsupported: true }, null],
+    ]) {
+        let diagnostic;
+        const decision = previewDecision(candidate, pr, helpers, (value) => {
+            diagnostic = value;
+        });
+        assert.deepEqual(
+            Object.keys(diagnostic).sort(),
+            [
+                "action_label_updated",
+                "action_synchronized",
+                "action_reopened",
+                "action_closed",
+                "action_publish",
+                "action_cleanup",
+                "added_labels_array",
+                "added_preview",
+                "base_is_main",
+                "current_eligible",
+                "requested",
+                "build",
+                "cleanup",
+                "reopen",
+                "unsupported",
+            ].sort(),
+        );
+        assert.ok(Object.values(diagnostic).every((value) => typeof value === "boolean"));
+        for (const action of [
+            "label_updated",
+            "synchronized",
+            "reopened",
+            "closed",
+            "publish",
+            "cleanup",
+        ])
+            assert.equal(diagnostic[`action_${action}`], candidate.action === action);
+        for (const [key, value] of Object.entries(decision)) assert.equal(diagnostic[key], value);
+        if (!candidate.unsupported) {
+            assert.equal(
+                diagnostic.current_eligible,
+                helpers.previewEligible(pr, candidate.context),
+            );
+            assert.equal(
+                diagnostic.requested,
+                candidate.action === "publish" ||
+                    helpers.previewRequested(candidate.action, candidate.changes),
+            );
+        }
+        const logs = [];
+        const summaries = [];
+        await writePreviewDiagnostic(diagnostic, {
+            summary: "summary",
+            log: (value) => logs.push(value),
+            append: async (file, value) => summaries.push({ file, value }),
+        });
+        assert.equal(logs.length, 1);
+        assert.deepEqual(summaries, [{ file: "summary", value: logs[0] + "\n" }]);
+        assert.deepEqual(JSON.parse(logs[0]), diagnostic);
+        assert.doesNotMatch(logs[0], /private|ci\/preview|Preview proof|aaaa/);
+    }
 });
 
 test("close cleanup and reopen invalidation remain independent of label, head eligibility and builds", () => {
@@ -277,6 +395,11 @@ test("the actual workflow pins trusted code, isolates build secrets and handles 
         (step) => step.name === "Run the utility tests",
     );
     assert.ok(contractIndex >= 0 && contractIndex < testsIndex);
+    assert.equal(lint.jobs.guards.steps[contractIndex].if, "${{ !cancelled() }}");
+    const publishing = await fs.readFile(new URL("../docs/publishing.md", import.meta.url), "utf8");
+    assert.ok(
+        publishing.includes(`git -C trusted-preview-contracts checkout --detach ${revision}`),
+    );
     assert.equal(lint.jobs.guards.steps[contractIndex].with.ref, revision);
     assert.equal(lint.jobs.guards.steps[contractIndex].with.repository, "HeroicLands/.github");
     assert.equal(lint.jobs.guards.steps[contractIndex].with.path, "trusted-preview-contracts");

@@ -171,14 +171,17 @@ only the derived PR subtree, reads its completion receipt and records
 the internal preview; browser consumers require the current open PR head and
 matching success evidence. Main pages and CDN assets remain separate.
 
-Closing or merging runs cleanup independently of builds and labels. Cleanup
-rechecks closed state under the same lock, invalidates current-head preview
+Closing or merging runs cleanup independently of builds and labels when the
+PR's target branch carries the controller fix for retargeted closures. If the
+target branch lacks that fix, dispatch `cleanup` from `main` with the closed
+PR's number and full head SHA. Cleanup rechecks closed state under the same lock, invalidates current-head preview
 statuses before deleting the numbered subtree, and leaves a reopened PR alone.
 A reopen event invalidates current-head evidence before any requested build,
 including when the label is absent. The manual `cleanup` operation uses the
 same closed-state check. A suppressed close event has no scheduled recovery.
 Publication and cleanup failures remain failed jobs and can be retried with
-the eligible identity.
+the eligible identity. The controller writes boolean request, eligibility and
+decision fields to its log and step summary to explain why a build or lifecycle action is selected.
 
 The workflow pins both shared reusable interfaces and helper code to one
 accepted shared `main` commit. CI checks out that same revision as
@@ -186,6 +189,8 @@ accepted shared `main` commit. CI checks out that same revision as
 eligibility functions; they require that checkout when run directly:
 
 ```sh
+git clone https://git.pupluppy.org/HeroicLands/.github.git trusted-preview-contracts
+git -C trusted-preview-contracts checkout --detach ff345f6c8e0f56de582860d1f8c78d31801ef0d1
 node --test utils/pr-preview.test.mjs
 ```
 
