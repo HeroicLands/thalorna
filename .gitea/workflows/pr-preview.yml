@@ -1,0 +1,125 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# The target event checks out only its trusted base revision, never PR code.
+name: Preview a Thalorna pull request
+on:
+    pull_request_target:
+        types: [labeled, synchronize, reopened, closed]
+    workflow_dispatch:
+        inputs:
+            operation:
+                description: Publish the labeled PR or clean its closed preview
+                type: choice
+                options: [publish, cleanup]
+                required: true
+            pr-number:
+                description: Same-repository pull request number
+                type: string
+                required: true
+            source-sha:
+                description: Full pull request head SHA
+                type: string
+                required: true
+permissions:
+    contents: write
+jobs:
+    controller:
+        if: ${{ github.server_url != 'https://github.com' && vars.HL_DEPLOY_ENABLED == 'true' }}
+        runs-on: light
+        timeout-minutes: 5
+        permissions:
+            contents: read
+        outputs:
+            build: ${{ steps.request.outputs.build }}
+            cleanup: ${{ steps.request.outputs.cleanup }}
+            reopen: ${{ steps.request.outputs.reopen }}
+            unsupported: ${{ steps.request.outputs.unsupported }}
+            pr-number: ${{ steps.request.outputs.pr-number }}
+            source-sha: ${{ steps.request.outputs.source-sha }}
+        steps:
+            - name: Checkout trusted controller
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+              with:
+                  ref: ${{ github.sha }}
+                  persist-credentials: false
+            - name: Checkout reviewed shared helper
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+              with:
+                  repository: HeroicLands/.github
+                  github-server-url: https://git.pupluppy.org
+                  ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+                  path: trusted-deploy
+                  persist-credentials: false
+            - name: Setup Node
+              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+              with:
+                  node-version: ${{ vars.CI_NODE_VERSION || '24' }}
+            - name: Read current PR and decide operations
+              id: request
+              env:
+                  GITEA_TOKEN: ${{ github.token }}
+              run: node utils/pr-preview.mjs
+    unsupported:
+        name: Fork previews are unsupported
+        needs: controller
+        if: ${{ needs.controller.outputs.unsupported == 'true' }}
+        runs-on: light
+        permissions:
+            contents: read
+        steps:
+            - run: |
+                  echo "Previews are not built for fork pull requests."
+                  exit 1
+    reopen:
+        needs: controller
+        if: ${{ needs.controller.outputs.reopen == 'true' }}
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
+        with:
+            trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            operation: reopen
+            pr-number: ${{ needs.controller.outputs.pr-number }}
+            source-sha: ${{ needs.controller.outputs.source-sha }}
+            package: thalorna
+    build:
+        needs: [controller, reopen]
+        if: >-
+            ${{ !cancelled() && needs.controller.result == 'success'
+            && needs.controller.outputs.build == 'true'
+            && (needs.reopen.result == 'success' || needs.reopen.result == 'skipped') }}
+        uses: HeroicLands/.github/.gitea/workflows/build-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
+        permissions:
+            contents: read
+        with:
+            trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            pr-number: ${{ needs.controller.outputs.pr-number }}
+            source-sha: ${{ needs.controller.outputs.source-sha }}
+            package: thalorna
+            artifact-name: thalorna-pr-preview
+            min-pages: 1001
+            max-pages: 0
+    publish:
+        needs: [controller, build]
+        if: ${{ needs.build.result == 'success' }}
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
+        with:
+            trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            operation: publish
+            pr-number: ${{ needs.controller.outputs.pr-number }}
+            source-sha: ${{ needs.controller.outputs.source-sha }}
+            package: thalorna
+            artifact-name: thalorna-pr-preview
+            min-pages: 1001
+            max-pages: 0
+        secrets:
+            PREVIEW_SSH_PRIVATE_KEY: ${{ secrets.PREVIEW_SSH_PRIVATE_KEY }}
+    cleanup:
+        needs: controller
+        if: ${{ needs.controller.outputs.cleanup == 'true' }}
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
+        with:
+            trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            operation: cleanup
+            pr-number: ${{ needs.controller.outputs.pr-number }}
+            source-sha: ${{ needs.controller.outputs.source-sha }}
+            package: thalorna
+        secrets:
+            PREVIEW_SSH_PRIVATE_KEY: ${{ secrets.PREVIEW_SSH_PRIVATE_KEY }}

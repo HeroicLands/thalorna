@@ -116,6 +116,53 @@ describes artifact validation, pinned host identity, monotonic history checks
 and failure behavior in full. Authentication and live receiver behavior are
 verified by deployment CI, beyond these local fixtures.
 
+## Preview a pull request
+
+Add `ci/preview` to a ready pull request in this repository to request an internal
+preview. A labeled PR refreshes when its head changes or it reopens. A `WIP:`
+title or draft state prevents the build. Removing the label stops refreshes and
+keeps the published pages until the PR closes. Fork previews have an explicit
+unsupported check.
+
+The trusted `pr-preview.yml` controller reads current PR identity from Gitea.
+Its target-event workflow and script come from the base revision; the event's
+PR head identifies the content. Only adding the preview label requests an
+initial build: Gitea's native `label_updated` action also covers removals.
+The manually dispatched `publish` operation accepts a PR number and full head
+SHA and applies the same current-state, label, draft and head checks.
+
+The shared build workflow receives no forwarded secrets. It checks out and
+verifies the exact PR head in an isolated 4 GiB container, installs the normal
+lockfile dependencies and builds with `--root internal.heroiclands.org` and
+`--base-url https://www.internal.heroiclands.org/pr/thalorna/<number>/thalorna/`.
+Its Node heap limit is 3072 MiB and its timeout is 30 minutes. The shared helper
+validates the nested tree and stages its package files into a normalized pages
+artifact. The main/public selector and payload validator serve their ordinary
+package paths; preview staging uses the shared nested-path validator.
+
+The separate trusted publisher receives only `PREVIEW_SSH_PRIVATE_KEY` and the
+ordinary job token. Under one per-PR lock, it rechecks eligibility, publishes
+only the derived PR subtree, reads its completion receipt and records
+`preview/thalorna/pr-<number>` success on that exact head. The status links to
+the internal preview; browser consumers require the current open PR head and
+matching success evidence. Main pages and CDN assets remain separate.
+
+Closing or merging runs cleanup independently of builds and labels. Cleanup
+rechecks closed state under the same lock, invalidates current-head preview
+statuses before deleting the numbered subtree, and leaves a reopened PR alone.
+A reopen event invalidates current-head evidence before any requested build,
+including when the label is absent. The manual `cleanup` operation uses the
+same closed-state check. A suppressed close event has no scheduled recovery.
+Publication and cleanup failures remain failed jobs and can be retried with
+the eligible identity.
+
+The workflow pins both shared reusable interfaces and helper code to one
+reviewed commit. Its focused fixtures run with the repository utility tests:
+
+```sh
+node --test utils/pr-preview.test.mjs
+```
+
 ## Deploy public pages
 
 Public builds publish to the Cloudflare Pages project `sohl-thalorna`,
