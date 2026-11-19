@@ -97,7 +97,7 @@ Where the coastal syndicates fight over harbors and docks, the Ash Road commands
 
 ## Organization
 
-The Ash Road is structured around the caravan system it exploits. At the top, a small council of senior merchants based in Kudumel makes strategic decisions—which routes to prioritize, which competitors to eliminate, which officials to bribe. These leaders are outwardly respectable: caravan outfitters, spice wholesalers, guide service operators, caravanserai owners. They travel freely, attend trade fairs, and socialize with Taruzelian guild officials.
+The Ash Road is structured around the caravan system it exploits. At the top stands the boss, whose word is the organization's only law. A small circle of senior merchants based in Kudumel advises the boss on which routes to prioritize, which competitors to eliminate and which officials to bribe, and decides nothing the boss has not approved. These advisers are outwardly respectable: caravan outfitters, spice wholesalers, guide service operators, caravanserai owners. They travel freely, attend trade fairs, and socialize with Taruzelian guild officials.
 
 Below them, caravan masters serve as operational commanders on specific routes. A master controls everything that moves along their route—legitimate cargo and contraband alike. They manage relationships with Dunhari tribal leaders (whose cooperation is essential for desert travel), maintain hidden caches and safe houses, and enforce discipline among their crews. Caravan masters are selected for desert expertise, linguistic skill (most speak three or more languages), and absolute ruthlessness.
 
@@ -118,3 +118,7 @@ The Gray Tide is the Road's primary partner for human trafficking and maritime s
 ## Identifying Marks
 
 Ash Road members use desert navigation symbols—stylized representations of stars, dunes, and oasis markers—scratched or drawn in ash at meeting points, safe houses, and caches. These marks are invisible to anyone unfamiliar with desert travel and meaningless to most who are. Members also carry small pouches of ash-gray sand from a specific (and secret) location in the Khazrin, which is a token of affiliation. The sand has a distinctive color and mineral composition that cannot be easily faked.
+
+## The Southern Circuit {#present}
+
+The Road's Dunhari routes are in trouble this year. [The Unrecited]{.name data-type="affiliation/criminal"} strike caravans on the southern circuit of the [[place-dunhardsrtrgn|Dunhara Desert]] without regard to whose ash marks the safe houses, and the survivors cannot say who they were, so the Road's crew bosses cannot tell which of their own drivers rode with the raiders. The long detour around [[place-vzhmvd|Vazhmavad]] costs the Road's caravans days of water. Grave-goods are coming up out of [[place-mezhvadez|the Dry Stair]] this season, and the few guides who bring them sell to the buyers of [[place-qarvelakhend|Qarvelakhend]], who send them west through the Road's caravans to Kudumel. The boss wants a guide who has been down the stair, whatever the merchants in Kudumel who advise the boss think of the risk, and that is the one kind of guide no price hires.
