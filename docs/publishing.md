@@ -122,7 +122,7 @@ Add `ci/preview` to a ready pull request in this repository to request an intern
 preview. A labeled PR refreshes when its head changes or it reopens. A `WIP:`
 title or draft state prevents the build. Removing the label stops refreshes and
 keeps the published pages until the PR closes. Fork previews have an explicit
-unsupported check.
+unsupported status without failing an unrequested preview.
 
 The trusted `pr-preview.yml` controller reads current PR identity from Gitea.
 Its target-event workflow and script come from the base revision; the event's
@@ -142,6 +142,13 @@ validates the nested tree and stages its package files into a normalized pages
 artifact. The main/public selector and payload validator serve their ordinary
 package paths; preview staging uses the shared nested-path validator.
 
+Eligible builds share a concurrency group for their PR. A newer eligible build
+cancels the superseded build. Label removal, unrelated label edits and requests
+that fail eligibility do not enter that group. Cleanup and reopen invalidation
+remain independent of build cancellation: a delayed build cannot cancel either
+operation. Close cleanup proceeds while an active build finishes; the publisher
+checks current closed state before any transfer.
+
 The separate trusted publisher receives only `PREVIEW_SSH_PRIVATE_KEY` and the
 ordinary job token. Under one per-PR lock, it rechecks eligibility, publishes
 only the derived PR subtree, reads its completion receipt and records
@@ -159,7 +166,9 @@ Publication and cleanup failures remain failed jobs and can be retried with
 the eligible identity.
 
 The workflow pins both shared reusable interfaces and helper code to one
-reviewed commit. Its focused fixtures run with the repository utility tests:
+reviewed commit. CI checks out that same revision as `trusted-preview-contracts`
+for the utility tests. The focused fixtures import its real request and
+eligibility functions; they require that checkout when run directly:
 
 ```sh
 node --test utils/pr-preview.test.mjs

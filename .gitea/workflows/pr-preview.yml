@@ -20,7 +20,7 @@ on:
                 type: string
                 required: true
 permissions:
-    contents: write
+    contents: read
 jobs:
     controller:
         if: >-
@@ -70,10 +70,11 @@ jobs:
         steps:
             - run: |
                   echo "Previews are not built for fork pull requests."
-                  exit 1
     reopen:
         needs: controller
         if: ${{ needs.controller.outputs.reopen == 'true' }}
+        permissions:
+            contents: write
         uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
         with:
             trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
@@ -87,6 +88,10 @@ jobs:
             ${{ !cancelled() && needs.controller.result == 'success'
             && needs.controller.outputs.build == 'true'
             && (needs.reopen.result == 'success' || needs.reopen.result == 'skipped') }}
+        # Only eligible builds compete; lifecycle and no-op events keep their jobs.
+        concurrency:
+            group: ${{ github.repository }}-pr-preview-build-${{ needs.controller.outputs.pr-number }}
+            cancel-in-progress: true
         uses: HeroicLands/.github/.gitea/workflows/build-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
         permissions:
             contents: read
@@ -101,6 +106,8 @@ jobs:
     publish:
         needs: [controller, build]
         if: ${{ needs.build.result == 'success' }}
+        permissions:
+            contents: write
         uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
         with:
             trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
@@ -116,6 +123,8 @@ jobs:
     cleanup:
         needs: controller
         if: ${{ needs.controller.outputs.cleanup == 'true' }}
+        permissions:
+            contents: write
         uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
         with:
             trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f

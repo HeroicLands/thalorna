@@ -4,6 +4,7 @@ import fs from "node:fs/promises";
 import test from "node:test";
 import { parse } from "yaml";
 import { previewRequest, previewDecision } from "./pr-preview.mjs";
+import * as helpers from "../trusted-preview-contracts/actions/internal-site-deploy/publish.mjs";
 
 const repository = "HeroicLands/thalorna";
 const sha = "a".repeat(40);
@@ -19,15 +20,13 @@ const event = (action, changes) => ({
 });
 const request = (action, changes) =>
     previewRequest("pull_request_target", event(action, changes), repository);
-const helpers = (eligible) => ({
-    previewEligible: (pr, context) => {
-        assert.equal(context.sourceSha, sha);
-        return eligible;
-    },
-    previewRequested: (action, changes) =>
-        ["synchronized", "reopened"].includes(action) ||
-        (action === "label_updated" &&
-            changes?.added_labels?.some((label) => label.name === "ci/preview")),
+const currentPR = (overrides = {}) => ({
+    ...event("synchronized").pull_request,
+    state: "open",
+    title: "Preview proof",
+    draft: false,
+    labels: [{ name: "ci/preview" }],
+    ...overrides,
 });
 
 test("event identity uses the PR head and rejects alternate repository, base, fork and malformed identity", () => {
@@ -66,47 +65,122 @@ test("event identity uses the PR head and rejects alternate repository, base, fo
 });
 
 test("only native label additions and sticky refreshes build when the shared current-head guard allows them", () => {
-    const pr = { state: "open" };
+    const pr = currentPR();
     const requests = [
         request("label_updated", { added_labels: [{ name: "ci/preview" }] }),
         request("synchronized"),
         request("reopened"),
     ];
     for (const candidate of requests) {
-        assert.equal(previewDecision(candidate, pr, helpers(true)).build, true);
-        assert.equal(previewDecision(candidate, pr, helpers(false)).build, false);
+        assert.equal(previewDecision(candidate, pr, helpers).build, true);
+        assert.equal(previewDecision(candidate, currentPR({ labels: [] }), helpers).build, false);
     }
     for (const changes of [
         undefined,
         { added_labels: [{ name: "area/devops" }] },
         { removed_labels: [{ name: "ci/preview" }] },
     ])
-        assert.equal(
-            previewDecision(request("label_updated", changes), pr, helpers(true)).build,
-            false,
-        );
+        assert.equal(previewDecision(request("label_updated", changes), pr, helpers).build, false);
 });
 
 test("close cleanup and reopen invalidation remain independent of label, head eligibility and builds", () => {
     assert.equal(
-        previewDecision(request("closed"), { state: "closed" }, helpers(false)).cleanup,
+        previewDecision(request("closed"), currentPR({ state: "closed" }), helpers).cleanup,
         true,
     );
     assert.equal(
-        previewDecision(request("closed"), { state: "open" }, helpers(false)).cleanup,
+        previewDecision(request("closed"), currentPR({ labels: [] }), helpers).cleanup,
         false,
     );
-    assert.deepEqual(previewDecision(request("reopened"), { state: "open" }, helpers(false)), {
+    assert.deepEqual(previewDecision(request("reopened"), currentPR({ labels: [] }), helpers), {
         build: false,
         cleanup: false,
         reopen: true,
         unsupported: false,
     });
     assert.equal(
-        previewDecision(request("reopened"), { state: "closed" }, helpers(false)).reopen,
+        previewDecision(request("reopened"), currentPR({ state: "closed" }), helpers).reopen,
         false,
     );
     assert.equal(previewDecision({ unsupported: true }, null, {}).unsupported, true);
+});
+
+test("the pinned helper rejects stale, draft, WIP, closed and cross-repository candidates", () => {
+    const candidate = request("synchronized");
+    for (const change of [
+        { labels: [] },
+        { draft: true },
+        { title: "wip: not ready" },
+        { state: "closed" },
+        { head: { ...currentPR().head, sha: "b".repeat(40) } },
+    ])
+        assert.equal(previewDecision(candidate, currentPR(change), helpers).build, false);
+    for (const change of [
+        { base: { ...currentPR().base, ref: "topic" } },
+        { head: { ...currentPR().head, repo: { full_name: "Elsewhere/thalorna" } } },
+    ])
+        assert.throws(
+            () => previewDecision(candidate, currentPR(change), helpers),
+            /identity rejected/,
+        );
+});
+
+test("only eligible builds share PR cancellation; no-op and lifecycle jobs cannot cancel a queued refresh or cleanup", async () => {
+    const workflow = parse(
+        await fs.readFile(new URL("../.gitea/workflows/pr-preview.yml", import.meta.url), "utf8"),
+    );
+    const { build, controller, publish, cleanup, reopen } = workflow.jobs;
+    assert.equal(workflow.concurrency, undefined);
+    for (const job of [controller, publish, cleanup, reopen])
+        assert.equal(job.concurrency, undefined);
+    assert.equal(build.concurrency["cancel-in-progress"], true);
+    assert.equal(
+        build.concurrency.group,
+        "${{ github.repository }}-pr-preview-build-${{ needs.controller.outputs.pr-number }}",
+    );
+    const group = (number) =>
+        build.concurrency.group
+            .replace("${{ github.repository }}", repository)
+            .replace("${{ needs.controller.outputs.pr-number }}", String(number));
+    assert.equal(group(42), group(42));
+    assert.notEqual(group(42), group(43));
+    const enabled = (decision, reopenResult = "skipped") =>
+        Function(
+            "needs",
+            "cancelled",
+            `return (${build.if.replace(/^\$\{\{\s*|\s*\}\}$/g, "")});`,
+        )(
+            {
+                controller: { result: "success", outputs: { build: String(decision.build) } },
+                reopen: { result: reopenResult },
+            },
+            () => false,
+        );
+    assert.equal(enabled(previewDecision(request("synchronized"), currentPR(), helpers)), true);
+    for (const changes of [
+        undefined,
+        { added_labels: [{ name: "area/devops" }] },
+        { removed_labels: [{ name: "ci/preview" }] },
+    ])
+        assert.equal(
+            enabled(previewDecision(request("label_updated", changes), currentPR(), helpers)),
+            false,
+        );
+    const closed = previewDecision(request("closed"), currentPR({ state: "closed" }), helpers);
+    assert.equal(closed.cleanup, true);
+    assert.equal(enabled(closed), false);
+    const reopened = previewDecision(request("reopened"), currentPR(), helpers);
+    assert.equal(reopened.reopen, true);
+    assert.equal(enabled(reopened, "failure"), false);
+    assert.equal(enabled(reopened, "cancelled"), false);
+    assert.equal(enabled(reopened, "success"), true);
+    assert.equal(
+        enabled(
+            previewDecision(request("reopened"), currentPR({ labels: [] }), helpers),
+            "success",
+        ),
+        false,
+    );
 });
 
 test("manual requests keep the exact identity and ordinary publication eligibility", () => {
@@ -117,13 +191,13 @@ test("manual requests keep the exact identity and ordinary publication eligibili
             repository,
             ref,
         );
-    assert.equal(previewDecision(manual("publish"), { state: "open" }, helpers(true)).build, true);
+    assert.equal(previewDecision(manual("publish"), currentPR(), helpers).build, true);
     assert.equal(
-        previewDecision(manual("publish"), { state: "open" }, helpers(false)).build,
+        previewDecision(manual("publish"), currentPR({ labels: [] }), helpers).build,
         false,
     );
     assert.equal(
-        previewDecision(manual("cleanup"), { state: "closed" }, helpers(false)).cleanup,
+        previewDecision(manual("cleanup"), currentPR({ state: "closed" }), helpers).cleanup,
         true,
     );
     assert.throws(() => manual("shell"));
@@ -174,7 +248,7 @@ test("the actual workflow pins trusted code, isolates build secrets and handles 
         "publish",
         "cleanup",
     ]);
-    assert.equal(workflow.permissions.contents, "write");
+    assert.equal(workflow.permissions.contents, "read");
     assert.equal(workflow.on.schedule, undefined);
     const { controller, reopen, build, publish, cleanup } = workflow.jobs;
     assert.equal(workflow.jobs.unsupported.name, "Fork previews are unsupported");
@@ -182,8 +256,22 @@ test("the actual workflow pins trusted code, isolates build secrets and handles 
         workflow.jobs.unsupported.if,
         "${{ needs.controller.outputs.unsupported == 'true' }}",
     );
-    assert.match(workflow.jobs.unsupported.steps[0].run, /exit 1/);
+    assert.doesNotMatch(workflow.jobs.unsupported.steps[0].run, /exit 1/);
     assert.equal(controller.permissions.contents, "read");
+    const lint = parse(
+        await fs.readFile(new URL("../.gitea/workflows/lint.yml", import.meta.url), "utf8"),
+    );
+    const contractIndex = lint.jobs.guards.steps.findIndex(
+        (step) => step.name === "Checkout pinned preview contracts",
+    );
+    const testsIndex = lint.jobs.guards.steps.findIndex(
+        (step) => step.name === "Run the utility tests",
+    );
+    assert.ok(contractIndex >= 0 && contractIndex < testsIndex);
+    assert.equal(lint.jobs.guards.steps[contractIndex].with.ref, revision);
+    assert.equal(lint.jobs.guards.steps[contractIndex].with.repository, "HeroicLands/.github");
+    assert.equal(lint.jobs.guards.steps[contractIndex].with.path, "trusted-preview-contracts");
+    assert.equal(lint.jobs.guards.steps[contractIndex].with["persist-credentials"], false);
     const checkouts = controller.steps.filter((step) => step.uses?.startsWith("actions/checkout@"));
     assert.equal(checkouts.length, 2);
     assert.equal(checkouts[0].with.ref, "${{ github.sha }}");
@@ -202,7 +290,10 @@ test("the actual workflow pins trusted code, isolates build secrets and handles 
         assert.equal(job.with["source-sha"], "${{ needs.controller.outputs.source-sha }}");
         assert.equal(job.with["pr-number"], "${{ needs.controller.outputs.pr-number }}");
         assert.equal(job.with.package, "thalorna");
-        if (name !== "build") assert.equal(job.with.operation, name);
+        if (name !== "build") {
+            assert.equal(job.with.operation, name);
+            assert.equal(job.permissions.contents, "write");
+        }
     }
     assert.equal(build.permissions.contents, "read");
     assert.equal(build.secrets, undefined);

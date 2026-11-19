@@ -1,5 +1,6 @@
 # Dependency directories
 /node_modules/
+/trusted-preview-contracts/
 
 # dotenv environment variables file
 /.env
