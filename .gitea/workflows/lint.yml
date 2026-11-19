@@ -172,6 +172,15 @@ jobs:
             # The tree's own guards, the deployment headers among them. Two
             # pull requests that pass alone can fail together, and this catches
             # that before merge.
+            - name: Checkout pinned preview contracts
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+              with:
+                  repository: HeroicLands/.github
+                  github-server-url: https://git.pupluppy.org
+                  ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
+                  path: trusted-preview-contracts
+                  persist-credentials: false
+
             - name: Run the utility tests
               if: ${{ !cancelled() }}
               run: node --test 'utils/**/*.test.mjs'

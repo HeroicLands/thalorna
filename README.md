@@ -153,6 +153,13 @@ Neither site building nor page deployment uploads or fetches missing images.
 See the [publishing guide](docs/publishing.md) for commands, credentials,
 host identity and partial-transfer limits.
 
+Add `ci/preview` to a ready same-repository pull request to build an internal
+preview at `/pr/thalorna/<number>/thalorna/`. The label keeps it refreshed as
+the head changes; removing the label stops refreshes. Closing or merging the
+PR removes its preview. Draft and `WIP:` pull requests do not build previews.
+The [preview publishing guide](docs/publishing.md#preview-a-pull-request)
+describes exact-head status links, manual requests and cleanup.
+
 ### The address is written down once
 
 The authored public site URL is `package.json`'s own `homepage`, and
