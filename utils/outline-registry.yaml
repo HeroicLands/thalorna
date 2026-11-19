@@ -55,7 +55,45 @@ archetypes:
 archetypeAbsences: {}
 
 # Addresses of affiliations whose shared governance block an owner ruling keeps.
-sharedGovernance: []
+sharedGovernance:
+    - affiliation-selatanztqlt
+    - affiliation-selatbelgnzl
+    - affiliation-selatchathu
+    - affiliation-selatgadjuml
+    - affiliation-selatgarlut
+    - affiliation-selatgarqezt
+    - affiliation-selatgarzant
+    - affiliation-selatgaulegr
+    - affiliation-selatgekhenu
+    - affiliation-selatgezazab
+    - affiliation-selatgrnlght
+    - affiliation-selatgrrthsr
+    - affiliation-selatgrshbzt
+    - affiliation-selatiaqetlq
+    - affiliation-selatiqeru
+    - affiliation-selatiuthnet
+    - affiliation-selatizetge
+    - affiliation-selatkhelaga
+    - affiliation-selatkhelntz
+    - affiliation-selatkhelzrt
+    - affiliation-selatlegirus
+    - affiliation-selatlennnzt
+    - affiliation-selatlinmut
+    - affiliation-selatltchlsr
+    - affiliation-selatltgthzl
+    - affiliation-selatmaguthn
+    - affiliation-selatnlghztn
+    - affiliation-selatseltltr
+    - affiliation-selatsltplgn
+    - affiliation-selatwagaru
+    - affiliation-selatyathlmt
+    - affiliation-selatzbtrlpt
+    - affiliation-selatzuger
+    - affiliation-selatzuqeztu
+    - affiliation-selatzuzllgl
+    - affiliation-selatzuzlqtt
+    - affiliation-seltkhqtmntq
+    - affiliation-seltqltlnlgr
 
 # Settlements an owner exception excuses from a homed being: address, then the reason.
 homedBeingExceptions: {}

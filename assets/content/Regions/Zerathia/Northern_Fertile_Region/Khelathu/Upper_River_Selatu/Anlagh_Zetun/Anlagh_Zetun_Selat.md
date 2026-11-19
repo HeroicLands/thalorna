@@ -46,7 +46,7 @@ Amqelu-Legez (~25,000)
 : the river-port, where the grain of the basin is gathered, measured and loaded onto the barges for the capital and the delta; the selat's window on the river traffic.
 
 The basin villages
-: the dense farm-country holds scores of grain-villages, many of 500 to 3,000 people, each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a. Among them are [[place-garzekhemu2|Gar-Zekhemu]] (160), [[place-lutmulu|Lut-Mulu]], [[place-yaththawu|Yath-Thawu]], [[place-zmarelepet|Zma-Relepet]] and [[place-garanpuqa|Gar-Anpuqa]].
+: the dense farm-country holds scores of grain-villages, many of 500 to 3,000 people, each working its share of the flood-basin and rendering grain up the chain to the granaries and the Halzi'a. Among them are [[place-garmesanu|Gar-Mesanu]] (160), [[place-lutmulu|Lut-Mulu]], [[place-yaththawu|Yath-Thawu]], [[place-zmarelepet|Zma-Relepet]] and [[place-garanpuqa|Gar-Anpuqa]].
 
 ## See Also {#see-also}
 

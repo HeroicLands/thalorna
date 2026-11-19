@@ -21,6 +21,8 @@ data:
     - {to: leonrik, bearing: N}
     - {to: galvaren, bearing: N}
     - {to: helionis, bearing: NE}
+    - {to: bethuargn, bearing: S}
+    - {to: okharisrgn, bearing: S}
   population: null
   packFolder: midhalion
 

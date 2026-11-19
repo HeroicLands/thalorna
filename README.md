@@ -86,7 +86,7 @@ edited by hand.
 | Calendar               | File          | Kept by                                       |
 | ---------------------- | ------------- | --------------------------------------------- |
 | The Common Calendar    | `commoncal`   | Vylaria and the lands it reaches              |
-| The Khelâthi Calendar  | `khprclndr`   | Aû'Khelâthu                                   |
+| The Khelathi Calendar  | `khprclndr`   | Au'Khelathu                                   |
 | The Tellumi Calendar   | `khzrnclndr`  | The Tellumi cities and the exile Shekhulukhem |
 | The Madustan Count     | `mdstncnt`    | Vedyara                                       |
 | Calendar and Astrology | `clndrstrlgy` | The Empire of Tānvür                          |

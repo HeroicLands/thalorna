@@ -38,6 +38,11 @@
  *    wikilink outside code to the child's address (`[[place-x|Name]]`, written bare or
  *    fully qualified), or a string of its
  *    own frontmatter, `data.parents` aside, is the child's address or shortcode.
+ *    A parent also points to the children a children query lists: a fenced
+ *    `sql` block whose `list_contains(data.parents, '<parent>')` condition names
+ *    the parent, narrowed by any `type = '…'` or `subType = '…'` it states.
+ *    Only that complete form counts; any other clause or predicate makes the
+ *    query point to nothing.
  * 5. **`shared-governance`** — two or more affiliations whose `governance`
  *    objects are identical, unless the registry's `sharedGovernance` lists the
  *    affiliation's address.
@@ -70,6 +75,89 @@ import {
     treeIndex,
     wordCount,
 } from "./outline-guard.mjs";
+
+/** The top-level columns of the notes table a children query may name. */
+const NOTE_COLUMNS = new Set([
+    "address",
+    "name",
+    "description",
+    "shortcode",
+    "type",
+    "subtype",
+    "tags",
+    "data",
+    "documentation",
+]);
+
+/**
+ * A column reference with its qualifier bound to the FROM clause: the alias, or
+ * the table name when there is none, may lead the path and is dropped. The path
+ * then starts at a top-level column, so `data.type` is a field of `data` and
+ * never the top-level `type`, and a qualifier that is not the FROM binding
+ * reads as an unknown column.
+ *
+ * @param {string} ref - A dotted reference.
+ * @param {string} binding - The FROM alias, or `notes`.
+ * @returns {string | undefined} The unqualified path, lowercased, if the reference is valid.
+ */
+function columnPath(ref, binding) {
+    if (!/^[A-Za-z_]\w*(?:\.[A-Za-z_]\w*)*$/.test(ref)) return undefined;
+    const parts = ref.toLowerCase().split(".");
+    if (parts.length > 1 && parts[0] === binding) parts.shift();
+    return NOTE_COLUMNS.has(parts[0]) ? parts.join(".") : undefined;
+}
+
+/**
+ * The parent and narrowing a children query states, or `undefined` when the
+ * query is not exactly the supported form: a projection of plain column
+ * references (or a lone `*`), `FROM notes` with an optional alias that every
+ * qualifier must match, a `WHERE` of one `list_contains(data.parents, '<parent>')`
+ * and optional `type = '<literal>'` and `subType = '<literal>'` joined by `AND`,
+ * and an optional `ORDER BY` of column references. A function call, aggregate,
+ * `DISTINCT`, expression, literal, subquery, comment or any other clause is
+ * unsupported, and so is a field such as `data.type`, which is not the note's
+ * `type`.
+ *
+ * @param {string} sql - The text of a fenced `sql` block.
+ * @returns {{target: string, type?: string, subType?: string} | undefined}
+ */
+function readChildrenQuery(sql) {
+    if (/--|\/\*|;[\s\S]*\S/.test(sql)) return undefined;
+    const form =
+        /^\s*SELECT\s+([^;]+?)\s+FROM\s+notes(?:\s+(?!WHERE\b)(\w+))?\s+WHERE\s+([\s\S]+?)(?:\s+ORDER\s+BY\s+([^;]+?))?\s*;?\s*$/i.exec(
+            sql,
+        );
+    if (!form) return undefined;
+    const [, selected, alias, conditions, order] = form;
+    const binding = (alias ?? "notes").toLowerCase();
+    const projection = selected.trim();
+    if (projection !== "*" && projection.toLowerCase() !== `${binding}.*`) {
+        for (const item of projection.split(",")) {
+            const column = /^\s*([\w.]+)(?:\s+AS\s+(?:\w+|"[^"]*"))?\s*$/i.exec(item);
+            if (!column || columnPath(column[1], binding) === undefined) return undefined;
+        }
+    }
+    for (const item of order?.split(",") ?? []) {
+        const key = /^\s*([\w.]+)(?:\s+COLLATE\s+NOCASE)?(?:\s+(?:ASC|DESC))?\s*$/i.exec(item);
+        if (!key || columnPath(key[1], binding) === undefined) return undefined;
+    }
+    const found = {};
+    let target;
+    for (const raw of conditions.split(/\s+AND\s+/i)) {
+        const condition = raw.trim();
+        const parents = /^list_contains\(\s*([\w.]+)\s*,\s*'([^']+)'\s*\)$/i.exec(condition);
+        const narrowing = /^([\w.]+)\s*=\s*'([^']*)'$/.exec(condition);
+        if (parents && columnPath(parents[1], binding) === "data.parents" && target === undefined)
+            target = parents[2];
+        else if (narrowing) {
+            const key = columnPath(narrowing[1], binding);
+            if ((key !== "type" && key !== "subtype") || found[key] !== undefined) return undefined;
+            found[key] = narrowing[2];
+        } else return undefined;
+    }
+    if (target === undefined) return undefined;
+    return { target, type: found.type, subType: found.subtype };
+}
 
 /** Place-valued references that give a note with no place parents its lands. */
 const LOCATION_KEYS = { scenario: ["locations"] };
@@ -172,6 +260,31 @@ export function check({ root = ".", registry = loadRegistry() } = {}) {
         return out;
     };
 
+    // The children queries a body holds. Only one complete form counts: a single
+    // `SELECT … FROM notes WHERE list_contains(data.parents, '<parent>')`,
+    // narrowed only by `type = '<literal>'` and `subType = '<literal>'` joined by
+    // `AND`, with an optional `ORDER BY`. A query with any other clause,
+    // predicate, comment or nesting points to nothing.
+    const queriesOf = (n) => {
+        if (!n.queries) {
+            n.queries = [];
+            for (const [, sql] of n.body.matchAll(/^```sql[^\n]*\n([\s\S]*?)^```/gm)) {
+                const query = readChildrenQuery(sql);
+                if (query) n.queries.push(query);
+            }
+        }
+        return n.queries;
+    };
+    const queryPoints = (parent, child) =>
+        queriesOf(parent).some(
+            (q) =>
+                [parent.address, `thalorna-note-${parent.address}`, parent.fm.shortcode].includes(
+                    q.target,
+                ) &&
+                (q.type ?? child.fm.type) === child.fm.type &&
+                (q.subType ?? child.fm.subType) === child.fm.subType,
+        );
+
     const report = (note, rule, message, at = {}, landIds = note.lands) => {
         const land = landIds.find((l) => finished.has(l)) ?? landIds[0];
         findings.push({
@@ -257,7 +370,7 @@ export function check({ root = ".", registry = loadRegistry() } = {}) {
         for (const parentRef of asList(n.fm.data?.parents)) {
             const parent = ref(parentRef, parentTypes(n.fm.type));
             if (!parent) continue;
-            const linked = linksOf(parent).includes(n);
+            const linked = linksOf(parent).includes(n) || queryPoints(parent, n);
             const { parents: _parents, ...rest } = parent.fm.data ?? {};
             const named = [...strings(rest)].some((s) => s === n.address || s === n.fm.shortcode);
             if (linked || named) continue;
