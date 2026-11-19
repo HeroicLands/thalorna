@@ -41,6 +41,11 @@ and the content command clears the marker at startup. Without the marker,
 Veldikko reports missing publication and fails without reading stale output.
 The content build and aggregate lint checks retain every failure.
 
+The manually dispatched `Sound round trips` workflow runs the explicit sound
+transcription diagnostic. Its `sound-roundtrip-report` artifact retains every
+finding as JSON Lines, the console and fixture output, the source revision and
+dependency versions for 30 days. See [sound encoding round trips](docs/writing-in-the-tongues.md#sound-encoding-round-trips).
+
 Both font jobs use the workflow's shared `FONTS_REVISION` commit. Advance that
 pin deliberately when adopting fonts changes, and verify both jobs together.
 The content job fetches the independent Veldikko converter with a sparse

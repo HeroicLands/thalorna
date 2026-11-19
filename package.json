@@ -78,6 +78,7 @@
         "lint:affix-replaces": "node utils/affix-replaces.mjs",
         "lint:vowel-pairs": "node utils/vowel-pairs.mjs",
         "lint:spelling": "node utils/spelling-guard.mjs",
+        "check:sound-roundtrip": "node utils/sound-roundtrip.mjs",
         "build:browser": "node utils/build-browser.mjs",
         "build:module": "npm run build:browser && npm run build:manifest",
         "lint:retired": "node --test utils/retired-names.test.mjs",

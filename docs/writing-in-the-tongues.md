@@ -1626,3 +1626,7 @@ Each is a real finding or a real trap.
     and the tongues written in it use them; no other tongue's script does.
 22. **Writing code points from memory.** Type through a layout, or write roman
     under `map=`.
+
+## Sound encoding round trips
+
+Run `npm run check:sound-roundtrip` to check language-owned spellings against each sound-script encoding and font. The check reads indexed language, script, encoding and pronunciation-guide frontmatter, including inherited words and their derived forms, plus each language's own names, elements and affixes. It compares the direct decoded text with the source after Unicode NFC normalization. Literal and logographic encodings are listed separately. Missing associations, incomplete sound inventories, conversion errors and ambiguous or changed readings produce a nonzero exit. The manually dispatched `Sound round trips` workflow retains `findings.jsonl`, the console diagnostic and fixture output, source revision, and dependency versions in the `sound-roundtrip-report` artifact for 30 days. The JSON Lines file contains every finding even when console output is limited. Font-lexicon utilities select encodings through `utils/encoding-reference.mjs`, using the same published context that supplies each language's `data.sounds.letters` and inherited vocabulary. A missing or invalid exact inventory remains a compiler finding; the helper does not substitute a compatibility encoding. Languages with several font varieties require an explicit font selection.
