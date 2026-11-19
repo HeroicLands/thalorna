@@ -186,6 +186,8 @@ accepted shared `main` commit. CI checks out that same revision as
 eligibility functions; they require that checkout when run directly:
 
 ```sh
+git clone https://git.pupluppy.org/HeroicLands/.github.git trusted-preview-contracts
+git -C trusted-preview-contracts checkout --detach ff345f6c8e0f56de582860d1f8c78d31801ef0d1
 node --test utils/pr-preview.test.mjs
 ```
 

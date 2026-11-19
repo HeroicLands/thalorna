@@ -9,16 +9,16 @@ const SHA = /^[0-9a-f]{40}$/;
 /** Read identity from the event; the forge lookup supplies current eligibility. */
 export function previewRequest(eventName, event, repository, ref) {
     if (repository !== REPOSITORY) throw new Error("preview repository rejected");
-    let number, sourceSha, action;
+    let number, sourceSha, action, baseIsMain = true;
     if (eventName === "workflow_dispatch") {
         if (ref !== "refs/heads/main") throw new Error("manual preview requires main");
         ({ "pr-number": number, "source-sha": sourceSha, operation: action } = event.inputs ?? {});
         if (!["publish", "cleanup"].includes(action)) throw new Error("preview operation rejected");
     } else if (eventName === "pull_request_target") {
         const pr = event.pull_request;
-        if (pr?.base?.repo?.full_name !== repository || pr.base.ref !== "main")
-            throw new Error("preview base rejected");
+        if (pr?.base?.repo?.full_name !== repository) throw new Error("preview base rejected");
         if (pr.head?.repo?.full_name !== repository) return { unsupported: true };
+        baseIsMain = pr.base.ref === "main";
         number = pr.number;
         sourceSha = pr.head.sha;
         action = event.action;
@@ -33,6 +33,7 @@ export function previewRequest(eventName, event, repository, ref) {
         throw new Error("preview identity rejected");
     return {
         action,
+        baseIsMain,
         changes: event.changes,
         context: {
             mode: "pr",
@@ -50,10 +51,10 @@ export function previewRequest(eventName, event, repository, ref) {
 export function previewDecision(request, pr, { previewEligible, previewRequested }) {
     if (request.unsupported)
         return { build: false, cleanup: false, reopen: false, unsupported: true };
-    const { context, action, changes } = request;
+    const { context, action, changes, baseIsMain } = request;
     const eligible = previewEligible(pr, context);
     return {
-        build: eligible && (action === "publish" || previewRequested(action, changes)),
+        build: baseIsMain && eligible && (action === "publish" || previewRequested(action, changes)),
         cleanup: ["closed", "cleanup"].includes(action) && pr.state === "closed",
         reopen: action === "reopened" && pr.state === "open",
         unsupported: false,

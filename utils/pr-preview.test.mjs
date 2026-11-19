@@ -29,7 +29,7 @@ const currentPR = (overrides = {}) => ({
     ...overrides,
 });
 
-test("event identity uses the PR head and rejects alternate repository, base, fork and malformed identity", () => {
+test("event identity uses the PR head and rejects alternate repository, fork and malformed identity", () => {
     const selected = request("synchronized");
     assert.equal(selected.context.sourceSha, sha);
     assert.equal(selected.context.prNumber, 42);
@@ -40,9 +40,6 @@ test("event identity uses the PR head and rejects alternate repository, base, fo
         previewRequest("pull_request_target", event("synchronized"), "Elsewhere/thalorna"),
     );
     for (const mutate of [
-        (e) => {
-            e.pull_request.base.ref = "topic";
-        },
         (e) => {
             e.pull_request.base.repo.full_name = "Elsewhere/thalorna";
         },
@@ -62,6 +59,28 @@ test("event identity uses the PR head and rejects alternate repository, base, fo
     assert.deepEqual(previewRequest("pull_request_target", fork, repository), {
         unsupported: true,
     });
+});
+
+test("forks on other bases are unsupported and retargeted closed PRs clean up without building", () => {
+    const fork = event("closed");
+    fork.pull_request.base.ref = "topic";
+    fork.pull_request.head.repo.full_name = "Elsewhere/thalorna";
+    const unsupported = previewRequest("pull_request_target", fork, repository);
+    assert.deepEqual(previewDecision(unsupported, null, helpers), {
+        build: false, cleanup: false, reopen: false, unsupported: true,
+    });
+
+    const retargeted = event("closed");
+    retargeted.pull_request.base.ref = "topic";
+    const selected = previewRequest("pull_request_target", retargeted, repository);
+    const current = currentPR({ state: "closed", base: retargeted.pull_request.base });
+    assert.deepEqual(previewDecision(selected, current, helpers), {
+        build: false, cleanup: true, reopen: false, unsupported: false,
+    });
+    retargeted.action = "synchronized";
+    const refresh = previewRequest("pull_request_target", retargeted, repository);
+    assert.equal(previewDecision(refresh, currentPR({ base: retargeted.pull_request.base }), helpers).build, false);
+    assert.equal(previewDecision(refresh, currentPR(), helpers).build, false);
 });
 
 test("only native label additions and sticky refreshes build when the shared current-head guard allows them", () => {
@@ -277,6 +296,7 @@ test("the actual workflow pins trusted code, isolates build secrets and handles 
         (step) => step.name === "Run the utility tests",
     );
     assert.ok(contractIndex >= 0 && contractIndex < testsIndex);
+    assert.equal(lint.jobs.guards.steps[contractIndex].if, "${{ !cancelled() }}");
     assert.equal(lint.jobs.guards.steps[contractIndex].with.ref, revision);
     assert.equal(lint.jobs.guards.steps[contractIndex].with.repository, "HeroicLands/.github");
     assert.equal(lint.jobs.guards.steps[contractIndex].with.path, "trusted-preview-contracts");

@@ -169,10 +169,8 @@ jobs:
             - name: Check vowel pairs
               run: npm run lint:vowel-pairs
 
-            # The tree's own guards, the deployment headers among them. Two
-            # pull requests that pass alone can fail together, and this catches
-            # that before merge.
             - name: Checkout pinned preview contracts
+              if: ${{ !cancelled() }}
               uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
               with:
                   repository: HeroicLands/.github
@@ -181,6 +179,9 @@ jobs:
                   path: trusted-preview-contracts
                   persist-credentials: false
 
+            # The tree's own guards, the deployment headers among them. Two
+            # pull requests that pass alone can fail together, and this catches
+            # that before merge.
             - name: Run the utility tests
               if: ${{ !cancelled() }}
               run: node --test 'utils/**/*.test.mjs'
