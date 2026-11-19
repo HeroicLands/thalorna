@@ -3,7 +3,7 @@ shortcode: okharis
 name: {full: Okharis}
 type: affiliation
 subType: polity
-description: "Collection of ancient city-states in the Northern Fertile Region of Zerathia—centers of civilization and learning in a tropical realm of rivers and rainforests."
+description: "An independent hereditary kingdom of three temple-cities and the village tribes that owe tribute to its King."
 tags: []
 data:
   templatePriority: null
@@ -107,3 +107,35 @@ Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death),
 ## Commerce and Currency {#commerce}
 
 Okharis uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units. Okharis has no native coinage; the Khelathi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through [[affiliation-crwntrdskhrs|the crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gar-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|the Crown Trades of Okharis]] for the Okhárian institutional arrangements.
+
+## See Also {#see-also}
+
+[[affiliation-kirofatrb|Kirofa Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-magaratrb|Magara Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-khamundatrb|Khamunda Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-dongarutrb|Dóngaru Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-talumengtrb|Tálumeng Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-shokumatrb|Shókuma Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-ngorashatrb|Ngorasha Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-wambuchitrb|Wámbuchi Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-yeshirotrb|Yéshiro Tribe]]
+: a village tribe that owes tribute to the King
+
+[[affiliation-zhikandetrb|Zhíkande Tribe]]
+: a village tribe that owes tribute to the King

@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [xerathia]
+  borders: [{to: cntrlrnfrsts, bearing: N}]
   population: 2000000
   packFolder: southernsavannahs
 

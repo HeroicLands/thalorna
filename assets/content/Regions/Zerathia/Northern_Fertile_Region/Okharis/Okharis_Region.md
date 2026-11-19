@@ -9,7 +9,10 @@ data:
   demonym: Okharik
   lore: [humanflk]
   parents: [nrthrnfrtlrgn, xerathia]
-  borders: [{to: bethuargn, bearing: E}]
+  borders:
+    - {to: bethuargn, bearing: E}
+    - {to: cntrlrnfrsts, bearing: S}
+    - {to: vylarianse, bearing: N}
   population: 4000000
   packFolder: okharis
   government: okharis
@@ -68,7 +71,46 @@ temple-cities into a tributary relationship collapsed within a generation
 : the realm that holds this region
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
-: neighbor to the north
+: the empire beyond Bethua, to the east
 
 [[place-cntrlrnfrsts|Central Rainforests]]
 : the wall to the south
+
+[[place-shuremis|The Ash-Fold]]
+: the walled temple estate on the grazing lands east of Zarhanis
+
+[[place-yandazhrng|The Mountains of the Spirits]]
+: the mountain range on the frontier held to be the dwelling of the gods
+
+[[place-dongaruvlg|Dóngaru Village]]
+: the village of [[affiliation-dongarutrb|Dóngaru Tribe]]
+
+[[place-khamundavlg|Khamunda Village]]
+: the village of [[affiliation-khamundatrb|Khamunda Tribe]]
+
+[[place-kirofavlg|Kirofa Village]]
+: the village of [[affiliation-kirofatrb|Kirofa Tribe]]
+
+[[place-magaravlg|Magara Village]]
+: the village of [[affiliation-magaratrb|Magara Tribe]]
+
+[[place-ngorashavlg|Ngorasha Village]]
+: the village of [[affiliation-ngorashatrb|Ngorasha Tribe]]
+
+[[place-shokumavlg|Shókuma Village]]
+: the village of [[affiliation-shokumatrb|Shókuma Tribe]]
+
+[[place-talumengvlg|Tálumeng Village]]
+: the village of [[affiliation-talumengtrb|Tálumeng Tribe]]
+
+[[place-wambuchivlg|Wámbuchi Village]]
+: the village of [[affiliation-wambuchitrb|Wámbuchi Tribe]]
+
+[[place-yeshirovlg|Yéshiro Village]]
+: the village of [[affiliation-yeshirotrb|Yéshiro Tribe]]
+
+[[place-zhikandevlg|Zhíkande Village]]
+: the village of [[affiliation-zhikandetrb|Zhíkande Tribe]]
+
+[[place-vylarianse|Vilérian Sea]]
+: the sea beyond the coast

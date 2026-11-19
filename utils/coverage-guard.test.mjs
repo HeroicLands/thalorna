@@ -156,6 +156,27 @@ test("a link inside a fenced block does not point to a child", () => {
     assert.deepEqual(files(run("fenced-code-link", {}, "unpointed-child").found), ["fenced.md"]);
 });
 
+test("a children query points to the children it selects and no others", () => {
+    const { found } = run("children-query", {}, "unpointed-child");
+    assert.deepEqual(files(found), ["moor.md"]);
+});
+
+test("a query outside a fenced sql block does not point to a child", () => {
+    assert.deepEqual(files(run("inline-code-query", {}, "unpointed-child").found), ["coded.md"]);
+});
+
+for (const name of Object.keys(RULES).filter((n) => n.startsWith("query-included-"))) {
+    test(`a children query of the form ${name.slice(15)} points to the child it selects`, () => {
+        assert.deepEqual(run(name, {}, "unpointed-child").found, []);
+    });
+}
+
+for (const name of Object.keys(RULES).filter((n) => n.startsWith("query-excluded-"))) {
+    test(`a children query with ${name.slice(15)} points to no child`, () => {
+        assert.deepEqual(files(run(name, {}, "unpointed-child").found), ["town.md"]);
+    });
+}
+
 test("a unique item's links inside code do not count", () => {
     assert.deepEqual(files(run("unique-code-link", {}, "unique-linked").found), ["Code.md"]);
 });

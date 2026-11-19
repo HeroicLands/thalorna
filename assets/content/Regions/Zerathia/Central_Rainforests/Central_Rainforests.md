@@ -9,6 +9,10 @@ data:
   demonym: null
   lore: [humanflk, flksenali]
   parents: [xerathia]
+  borders:
+    - {to: okharisrgn, bearing: N}
+    - {to: sthmrchsrgn, bearing: N}
+    - {to: sthrnsvnhs, bearing: S}
   population: 250000
   packFolder: centralrainforests
 

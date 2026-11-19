@@ -48,6 +48,37 @@ Along the western margins, herding peoples graze the dry country under arrangeme
 
 The region is the heartland of the Empire of Au'Khelathu and is administered through its thirty-nine selatu (provinces), grouped as [[affiliation-deltaselatu|the Delta Selatu]], [[affiliation-upperrivrslt|the Upper River Selatu]], [[affiliation-borderselatu|the Border Selatu]] and [[affiliation-capitalselat|the Capital Selat]] around [[place-galezkara|Galezkara]]. The frontier with Bethua to the west has never been precisely drawn, and the occasional friction along it is the region's most persistent quarrel with a neighbor.
 
+## Places {#places}
+
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Place",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'region'
+  AND list_contains(data.parents, 'thalorna-note-place-aukhelathrgq')
+ORDER BY name.full COLLATE NOCASE
+```
+
+[[place-akhozamenlaa|Akhoza-Menlaa]]
+: a hidden site kept out of every record, of which the embalmers tell dark stories
+
+[[place-anlaghura|Anlaghura]]
+: the monolith standing alone in the [Targa River Valley]{.name data-type="place/region"}
+
+[[place-beshakan|Beshakan]]
+: the desert ruins where the earliest astronomers carved star maps into the stones
+
+[[place-chenosolis|Chenosolis]]
+: the highlands whose mountain shrine keeps the oldest records of the empire's astrologers
+
+[[place-meqetgaru2|Meqet-Garu]]
+: a small village remembered for a night a celebrated performer would rather forget
+
+[[place-clublstvlt|The Burial Club's Last Vault]]
+: the rock-cut common tomb in the dry margin west of the river
+
 ## See Also {#see-also}
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]
