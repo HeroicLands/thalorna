@@ -28,6 +28,39 @@ data:
     brow: heavy
     extra_features: [a scar on the abdomen]
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: pcoat, model: armorgear-pcoat, kind: armor}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - key: velvetlinedgarment
+      name: Velvet-lined garment bag for carrying fine clothes
+      kind: miscgear
+      system: {weight: 1}
+    - key: highqualityfabrics
+      name: "High-quality fabrics (silk, velvet, wool samples)"
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: fineneedles
+      name: Fine needles and specialty thread
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: goldthread
+      name: "Gold thread (specialty, for embroidery)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: fashionsketchbook
+      name: Fashion sketchbook and design notes
+      kind: miscgear
+      system: {weight: 1}
+    - key: measuringtools
+      name: Measuring tools and tailoring patterns
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -77,32 +110,38 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 75}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-pcoat}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Velvet-lined garment bag for carrying fine clothes
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: pcoat, model: sohl-sohl-armorgear-pcoat}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: velvetlinedgarment
+      name: Velvet-lined garment bag for carrying fine clothes
       type: miscgear
       system: {shortcode: velvetlinedgarment, weight: 1, value: 100, durability: 3}
-    - name: High-quality fabrics (silk, velvet, wool samples)
+    - key: highqualityfabrics
+      name: High-quality fabrics (silk, velvet, wool samples)
       type: miscgear
       system: {shortcode: highqualityfabrics, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Fine needles and specialty thread
+    - key: fineneedles
+      name: Fine needles and specialty thread
       type: miscgear
       system: {shortcode: fineneedles, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Gold thread (specialty, for embroidery)
+    - key: goldthread
+      name: Gold thread (specialty, for embroidery)
       type: miscgear
       system: {shortcode: goldthread, weight: 1, value: 100, durability: 3}
-    - name: Fashion sketchbook and design notes
+    - key: fashionsketchbook
+      name: Fashion sketchbook and design notes
       type: miscgear
       system: {shortcode: fashionsketchbook, weight: 1, value: 100, durability: 3}
-    - name: Measuring tools and tailoring patterns
+    - key: measuringtools
+      name: Measuring tools and tailoring patterns
       type: miscgear
       system: {shortcode: measuringtools, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

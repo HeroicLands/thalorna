@@ -28,6 +28,40 @@ data:
     nose: aquiline
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - key: potterswheel
+      name: "Potter's wheel (portable, artist-grade)"
+      kind: miscgear
+      system: {weight: 3}
+    - key: kilnfiringtools
+      name: Kiln-firing tools and temperature gauges
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: assortedceramic
+      name: Assorted ceramic glazes (sealed containers)
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: selectionofbrushes
+      name: Selection of brushes and carving tools
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: sketchbookanddrawing
+      name: Sketchbook and drawing materials
+      kind: miscgear
+      system: {weight: 0.6}
+    - key: claysamples
+      name: Clay samples (various sources)
+      kind: miscgear
+      system: {weight: 1.2}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -74,33 +108,39 @@ sohl:
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Potter's wheel (portable, artist-grade)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: potterswheel
+      name: Potter's wheel (portable, artist-grade)
       type: miscgear
       system: {shortcode: potterswheel, weight: 3, value: 12, durability: 3}
-    - name: Kiln-firing tools and temperature gauges
+    - key: kilnfiringtools
+      name: Kiln-firing tools and temperature gauges
       type: miscgear
       system: {shortcode: kilnfiringtools, weight: 1.5, value: 100, durability: 3}
-    - name: Assorted ceramic glazes (sealed containers)
+    - key: assortedceramic
+      name: Assorted ceramic glazes (sealed containers)
       type: miscgear
       system: {shortcode: assortedceramic, weight: 1.5, value: 20, durability: 3}
-    - name: Selection of brushes and carving tools
+    - key: selectionofbrushes
+      name: Selection of brushes and carving tools
       type: miscgear
       system: {shortcode: selectionofbrushes, weight: 0.5, value: 100, durability: 3}
-    - name: Sketchbook and drawing materials
+    - key: sketchbookanddrawing
+      name: Sketchbook and drawing materials
       type: miscgear
       system: {shortcode: sketchbookanddrawing, weight: 0.6, value: 100, durability: 3}
-    - name: Clay samples (various sources)
+    - key: claysamples
+      name: Clay samples (various sources)
       type: miscgear
       system: {shortcode: claysamples, weight: 1.2, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

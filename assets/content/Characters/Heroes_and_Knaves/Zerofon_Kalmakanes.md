@@ -29,6 +29,23 @@ data:
     mouth: wide
     extra_features: [a scar on the left ear]
   packFolder: midhalionvylaria
+  items:
+    - {key: maul, model: weapongear-maul, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ltrsr, model: armorgear-ltrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: mvest, model: armorgear-mvest, kind: armor}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 2}}
+    - {key: ironkeyring, name: Iron key ring, kind: miscgear, system: {weight: 1}}
+    - key: shacklesandrestraint
+      name: Shackles and restraint chains
+      kind: miscgear
+      system: {weight: 3}
+    - {key: guardswhistle, name: Guard's whistle, kind: miscgear, system: {weight: 0.1}}
+    - {key: prisonlogbook, name: Prison logbook, kind: miscgear, system: {weight: 0.5}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -74,29 +91,34 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-maul}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ltrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-mvest}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 2}}
-    - name: Iron key ring
+    - {key: maul, model: sohl-sohl-weapongear-maul}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ltrsr, model: sohl-sohl-armorgear-ltrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: mvest, model: sohl-sohl-armorgear-mvest}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 2}}
+    - key: ironkeyring
+      name: Iron key ring
       type: miscgear
       system: {shortcode: ironkeyring, weight: 1, value: 100, durability: 3}
-    - name: Shackles and restraint chains
+    - key: shacklesandrestraint
+      name: Shackles and restraint chains
       type: miscgear
       system: {shortcode: shacklesandrestraint, weight: 3, value: 100, durability: 3}
-    - name: Guard's whistle
+    - key: guardswhistle
+      name: Guard's whistle
       type: miscgear
       system: {shortcode: guardswhistle, weight: 0.1, value: 100, durability: 3}
-    - name: Prison logbook
+    - key: prisonlogbook
+      name: Prison logbook
       type: miscgear
       system: {shortcode: prisonlogbook, weight: 0.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

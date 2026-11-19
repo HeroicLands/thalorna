@@ -27,6 +27,19 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: stk, model: weapongear-stk, kind: weapon}
+    - {key: wvest, model: armorgear-wvest, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: thatchingtools, name: Thatching tools (set), kind: miscgear, system: {weight: 1}}
+    - {key: bundlesofreed, name: Bundles of reed, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: woodenpegs, name: Wooden pegs, kind: miscgear, system: {quantity: 50, weight: 1}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -78,26 +91,30 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 44}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 55}}
-    - {model: sohl-sohl-weapongear-stk}
-    - {model: sohl-sohl-armorgear-wvest}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Thatching tools (set)
+    - {key: stk, model: sohl-sohl-weapongear-stk}
+    - {key: wvest, model: sohl-sohl-armorgear-wvest}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: thatchingtools
+      name: Thatching tools (set)
       type: miscgear
       system: {shortcode: thatchingtools, weight: 1, value: 100, durability: 3}
-    - name: Bundles of reed
+    - key: bundlesofreed
+      name: Bundles of reed
       type: miscgear
       system: {shortcode: bundlesofreed, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Wooden pegs
+    - key: woodenpegs
+      name: Wooden pegs
       type: miscgear
       system: {shortcode: woodenpegs, quantity: 50, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

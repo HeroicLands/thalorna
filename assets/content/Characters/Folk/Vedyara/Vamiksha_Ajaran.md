@@ -27,6 +27,17 @@ data:
     hair_style: braided
     extra_features: [Two fingers of the left hand lost to frost, A wrapped left wrist]
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: bvcloak, model: armorgear-bvcloak, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: map, model: miscgear-map, kind: miscgear}
+    - {key: hvyblkt, model: miscgear-hvyblkt, kind: miscgear}
+    - {key: rope12hemp, model: miscgear-rope12hemp, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -70,16 +81,16 @@ sohl:
     - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 40}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 55}}
     - {model: skill-hvarnlng, system: {masteryLevelBase: 40}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-armorgear-bvcloak}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-miscgear-map}
-    - {model: sohl-sohl-miscgear-hvyblkt}
-    - {model: sohl-sohl-miscgear-rope12hemp}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-tndrbx}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: bvcloak, model: sohl-sohl-armorgear-bvcloak}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: map, model: sohl-sohl-miscgear-map}
+    - {key: hvyblkt, model: sohl-sohl-miscgear-hvyblkt}
+    - {key: rope12hemp, model: sohl-sohl-miscgear-rope12hemp}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
   system:
     body:
       structure:

@@ -28,6 +28,36 @@ data:
     mouth: wide
     extra_features: [a scar on the left foot]
   packFolder: ankarisvedyara
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: ptnc, model: armorgear-ptnc, kind: armor}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: cmntl, model: armorgear-cmntl, kind: armor}
+    - key: leathersatchel
+      name: Leather satchel for scrolls (professional quality)
+      kind: miscgear
+      system: {weight: 1}
+    - key: scrollsofroyal
+      name: Scrolls of royal decrees and precedents
+      kind: miscgear
+      system: {weight: 1}
+    - key: genealogicalrecords
+      name: Genealogical records (personal copies)
+      kind: miscgear
+      system: {weight: 1}
+    - key: writingkit
+      name: "Writing kit (ink, quills, parchment, wax seal)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: familycrestmedallion
+      name: "Family crest medallion (brass, suspended)"
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -76,30 +106,35 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-ptnc}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-cmntl}
-    - name: Leather satchel for scrolls (professional quality)
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: ptnc, model: sohl-sohl-armorgear-ptnc}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: cmntl, model: sohl-sohl-armorgear-cmntl}
+    - key: leathersatchel
+      name: Leather satchel for scrolls (professional quality)
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1, value: 100, durability: 3}
-    - name: Scrolls of royal decrees and precedents
+    - key: scrollsofroyal
+      name: Scrolls of royal decrees and precedents
       type: miscgear
       system: {shortcode: scrollsofroyal, weight: 1, value: 100, durability: 3}
-    - name: Genealogical records (personal copies)
+    - key: genealogicalrecords
+      name: Genealogical records (personal copies)
       type: miscgear
       system: {shortcode: genealogicalrecords, weight: 1, value: 100, durability: 3}
-    - name: Writing kit (ink, quills, parchment, wax seal)
+    - key: writingkit
+      name: Writing kit (ink, quills, parchment, wax seal)
       type: miscgear
       system: {shortcode: writingkit, weight: 1, value: 100, durability: 3}
-    - name: Family crest medallion (brass, suspended)
+    - key: familycrestmedallion
+      name: Family crest medallion (brass, suspended)
       type: miscgear
       system: {shortcode: familycrestmedallion, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

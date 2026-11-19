@@ -36,6 +36,39 @@ data:
         Faint burn scarring across both palms and the backs of the hands from years of Pirethos practice
       - A thin scar along the left jawline from a Sekran field operation
   packFolder: midhalionvylaria
+  items:
+    - {key: eblt, model: mysticalability-eblt, kind: psychicgift}
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wcoat, model: armorgear-wcoat, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltbrcr, model: armorgear-ltbrcr, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 3}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - key: pirethosfocus
+      name: "Pirethos focus (fire-opal set in bronze, worn at the throat)"
+      kind: miscgear
+      system: {weight: 0.2}
+    - key: ordoarcanissigilring
+      name: Thordimalon sigil ring (therman rank)
+      kind: miscgear
+      system: {weight: 1}
+    - key: arcanejournal
+      name: Arcane journal (research notes on pre-Order techniques)
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: writingimplements
+      name: "Writing implements (ink, quills, arcane notation tools)"
+      kind: miscgear
+      system: {weight: 0.4}
+    - key: herbalcooking
+      name: Herbal cooking ingredients and spice kit
+      kind: miscgear
+      system: {weight: 0.8}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 30}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -85,35 +118,40 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 28}}
-    - {model: mysticalability-eblt, system: {masteryLevelBase: 62}}
+    - {key: eblt, model: mysticalability-eblt, system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-skill-ritual, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wcoat}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltbrcr}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Pirethos focus (fire-opal set in bronze, worn at the throat)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wcoat, model: sohl-sohl-armorgear-wcoat}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltbrcr, model: sohl-sohl-armorgear-ltbrcr}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: pirethosfocus
+      name: Pirethos focus (fire-opal set in bronze, worn at the throat)
       type: miscgear
       system: {shortcode: pirethosfocus, weight: 0.2, value: 25, durability: 3}
-    - name: Thordimalon sigil ring (therman rank)
+    - key: ordoarcanissigilring
+      name: Thordimalon sigil ring (therman rank)
       type: miscgear
       system: {shortcode: ordoarcanissigilring, value: 8, weight: 1, durability: 3}
-    - name: Arcane journal (research notes on pre-Order techniques)
+    - key: arcanejournal
+      name: Arcane journal (research notes on pre-Order techniques)
       type: miscgear
       system: {shortcode: arcanejournal, weight: 0.5, value: 100, durability: 3}
-    - name: Writing implements (ink, quills, arcane notation tools)
+    - key: writingimplements
+      name: Writing implements (ink, quills, arcane notation tools)
       type: miscgear
       system: {shortcode: writingimplements, weight: 0.4, value: 100, durability: 3}
-    - name: Herbal cooking ingredients and spice kit
+    - key: herbalcooking
+      name: Herbal cooking ingredients and spice kit
       type: miscgear
       system: {shortcode: herbalcooking, weight: 0.8, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 30}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 30}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

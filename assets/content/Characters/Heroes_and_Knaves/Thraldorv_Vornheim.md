@@ -28,6 +28,21 @@ data:
     nose: aquiline
     extra_features: [a scar on the right forearm]
   packFolder: ankarisnordlands
+  items:
+    - {key: cdgl, model: weapongear-cdgl, kind: weapon}
+    - {key: shkn, model: weapongear-shkn, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: mshirt, model: armorgear-mshirt, kind: armor}
+    - {key: mleg, model: armorgear-mleg, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 4}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: healerspoulticekit, name: Healer's poultice kit, kind: miscgear, system: {weight: 0.5}}
+    - {key: whetstoneforweapons, name: Whetstone for weapons, kind: miscgear, system: {weight: 1}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -76,24 +91,26 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-cdgl}
-    - {model: sohl-sohl-weapongear-shkn}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-mshirt}
-    - {model: sohl-sohl-armorgear-mleg}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Healer's poultice kit
+    - {key: cdgl, model: sohl-sohl-weapongear-cdgl}
+    - {key: shkn, model: sohl-sohl-weapongear-shkn}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: mshirt, model: sohl-sohl-armorgear-mshirt}
+    - {key: mleg, model: sohl-sohl-armorgear-mleg}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: healerspoulticekit
+      name: Healer's poultice kit
       type: miscgear
       system: {shortcode: healerspoulticekit, weight: 0.5, value: 100, durability: 3}
-    - name: Whetstone for weapons
+    - key: whetstoneforweapons
+      name: Whetstone for weapons
       type: miscgear
       system: {shortcode: whetstoneforweapons, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

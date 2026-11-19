@@ -27,6 +27,30 @@ data:
     complexion: []
     extra_features: [a tattoo of a leaf on the wrist]
   packFolder: regkhhk
+  items:
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 1}}
+    - key: leathersatchel
+      name: Leather satchel for legal documents
+      kind: miscgear
+      system: {weight: 1}
+    - key: legaltexts
+      name: Legal texts and reference volumes
+      kind: miscgear
+      system: {weight: 2}
+    - key: writingmaterials
+      name: "Writing materials (parchment, ink, quills)"
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: casenotesandcase
+      name: Case notes and case files
+      kind: miscgear
+      system: {quantity: 1, weight: 1}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -74,25 +98,29 @@ sohl:
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-sgtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 1}}
-    - name: Leather satchel for legal documents
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: sgtrsr, model: sohl-sohl-armorgear-sgtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 1}}
+    - key: leathersatchel
+      name: Leather satchel for legal documents
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1, value: 100, durability: 3}
-    - name: Legal texts and reference volumes
+    - key: legaltexts
+      name: Legal texts and reference volumes
       type: miscgear
       system: {shortcode: legaltexts, weight: 2, value: 100, durability: 3}
-    - name: Writing materials (parchment, ink, quills)
+    - key: writingmaterials
+      name: Writing materials (parchment, ink, quills)
       type: miscgear
       system: {shortcode: writingmaterials, weight: 0.5, value: 100, durability: 3}
-    - name: Case notes and case files
+    - key: casenotesandcase
+      name: Case notes and case files
       type: miscgear
       system: {shortcode: casenotesandcase, quantity: 1, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

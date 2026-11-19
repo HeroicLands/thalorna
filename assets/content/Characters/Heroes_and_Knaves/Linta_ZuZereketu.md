@@ -27,6 +27,31 @@ data:
     complexion: []
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: lbw75, model: weapongear-lbw75, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltbrcr, model: armorgear-ltbrcr, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 25}}
+    - {key: quiver, name: "Quiver (leather, reinforced)", kind: miscgear, system: {weight: 1}}
+    - key: climbingrope
+      name: Climbing rope and grappling hook
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: mapoftraderoutes
+      name: Map of trade routes (caravan paths)
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 30}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -71,33 +96,37 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-weapongear-lbw75}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltbrcr}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 25}}
-    - name: Quiver (leather, reinforced)
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: lbw75, model: sohl-sohl-weapongear-lbw75}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltbrcr, model: sohl-sohl-armorgear-ltbrcr}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 25}}
+    - key: quiver
+      name: Quiver (leather, reinforced)
       type: miscgear
       data: {icon: icon-quiver}
       system: {shortcode: quiver, weight: 1, value: 100, durability: 3}
-    - name: Climbing rope and grappling hook
+    - key: climbingrope
+      name: Climbing rope and grappling hook
       type: miscgear
       system: {shortcode: climbingrope, weight: 1.5, value: 100, durability: 3}
-    - name: Map of trade routes (caravan paths)
+    - key: mapoftraderoutes
+      name: Map of trade routes (caravan paths)
       type: miscgear
       system: {shortcode: mapoftraderoutes, weight: 0.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 30}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 30}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

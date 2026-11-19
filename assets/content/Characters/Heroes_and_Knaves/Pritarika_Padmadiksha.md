@@ -28,6 +28,37 @@ data:
     mouth: full
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: slktunic, model: armorgear-slktunic, kind: clothing}
+    - {key: vbrch, model: armorgear-vbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: slkmntl, model: armorgear-slkmntl, kind: clothing}
+    - {key: ehat, model: armorgear-ehat, kind: clothing}
+    - key: leatherwritingcase
+      name: Leather writing case with parchment and ink
+      kind: miscgear
+      system: {weight: 1}
+    - key: sealedleatherpouch
+      name: Sealed leather pouch of governance documents
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: brasssealofhouse
+      name: Brass seal of House Padmadiksha
+      kind: miscgear
+      system: {weight: 0.3}
+    - key: goldembroidered
+      name: Gold-embroidered ledger for estate accounts
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: carvedwoodenprayer
+      name: Carved wooden prayer beads (Mahajaya)
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 50}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -78,31 +109,36 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-slktunic}
-    - {model: sohl-sohl-armorgear-vbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-slkmntl}
-    - {model: sohl-sohl-armorgear-ehat}
-    - name: Leather writing case with parchment and ink
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: slktunic, model: sohl-sohl-armorgear-slktunic}
+    - {key: vbrch, model: sohl-sohl-armorgear-vbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: slkmntl, model: sohl-sohl-armorgear-slkmntl}
+    - {key: ehat, model: sohl-sohl-armorgear-ehat}
+    - key: leatherwritingcase
+      name: Leather writing case with parchment and ink
       type: miscgear
       system: {shortcode: leatherwritingcase, weight: 1, value: 100, durability: 3}
-    - name: Sealed leather pouch of governance documents
+    - key: sealedleatherpouch
+      name: Sealed leather pouch of governance documents
       type: miscgear
       system: {shortcode: sealedleatherpouch, weight: 1.5, value: 100, durability: 3}
-    - name: Brass seal of House Padmadiksha
+    - key: brasssealofhouse
+      name: Brass seal of House Padmadiksha
       type: miscgear
       system: {shortcode: brasssealofhouse, weight: 0.3, value: 100, durability: 3}
-    - name: Gold-embroidered ledger for estate accounts
+    - key: goldembroidered
+      name: Gold-embroidered ledger for estate accounts
       type: miscgear
       system: {shortcode: goldembroidered, weight: 0.8, value: 150, durability: 4}
-    - name: Carved wooden prayer beads (Mahajaya)
+    - key: carvedwoodenprayer
+      name: Carved wooden prayer beads (Mahajaya)
       type: miscgear
       system: {shortcode: carvedwoodenprayer, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 50}}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 50}}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

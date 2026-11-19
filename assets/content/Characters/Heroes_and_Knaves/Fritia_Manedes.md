@@ -28,6 +28,27 @@ data:
     nose: aquiline
     extra_features: [a tattoo of a tree on the back]
   packFolder: helladbyzaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: lute, name: Lute (fine instrument), kind: miscgear, system: {weight: 1}}
+    - key: sparelutestrings
+      name: Spare lute strings
+      kind: miscgear
+      system: {quantity: 4, weight: 1}
+    - key: collectionoffolk
+      name: Collection of folk songs (manuscript)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: leathercaseforlute, name: Leather case for lute, kind: miscgear, system: {weight: 1}}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -71,28 +92,32 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Lute (fine instrument)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: lute
+      name: Lute (fine instrument)
       type: miscgear
       system: {shortcode: lute, weight: 1, value: 100, durability: 3}
-    - name: Spare lute strings
+    - key: sparelutestrings
+      name: Spare lute strings
       type: miscgear
       system: {shortcode: sparelutestrings, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Collection of folk songs (manuscript)
+    - key: collectionoffolk
+      name: Collection of folk songs (manuscript)
       type: miscgear
       system: {shortcode: collectionoffolk, weight: 1, value: 100, durability: 3}
-    - name: Leather case for lute
+    - key: leathercaseforlute
+      name: Leather case for lute
       type: miscgear
       system: {shortcode: leathercaseforlute, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

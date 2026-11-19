@@ -27,6 +27,30 @@ data:
     face_shape: oval
     extra_features: [a tattoo of a rose vine on the leg]
   packFolder: helladbyzaria
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: knsh, model: weapongear-knsh, kind: weapon}
+    - {key: mhbk, model: armorgear-mhbk, kind: armor}
+    - {key: mleg, model: armorgear-mleg, kind: armor}
+    - {key: mcui, model: armorgear-mcui, kind: armor}
+    - key: whetstone
+      name: Whetstone and sharpening tools
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: bedroll, name: Bedroll (military standard), kind: miscgear, system: {weight: 1}}
+    - key: militaryinsigni
+      name: Military insignia and documents
+      kind: miscgear
+      system: {weight: 1}
+    - key: lettersfromhome
+      name: Letters from home (family)
+      kind: miscgear
+      system: {weight: 0.1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 4}}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -75,28 +99,32 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-knsh}
-    - {model: sohl-sohl-armorgear-mhbk}
-    - {model: sohl-sohl-armorgear-mleg}
-    - {model: sohl-sohl-armorgear-mcui}
-    - name: Whetstone and sharpening tools
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: knsh, model: sohl-sohl-weapongear-knsh}
+    - {key: mhbk, model: sohl-sohl-armorgear-mhbk}
+    - {key: mleg, model: sohl-sohl-armorgear-mleg}
+    - {key: mcui, model: sohl-sohl-armorgear-mcui}
+    - key: whetstone
+      name: Whetstone and sharpening tools
       type: miscgear
       system: {shortcode: whetstone, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Bedroll (military standard)
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: bedroll
+      name: Bedroll (military standard)
       type: miscgear
       system: {shortcode: bedroll, weight: 1, value: 100, durability: 3}
-    - name: Military insignia and documents
+    - key: militaryinsigni
+      name: Military insignia and documents
       type: miscgear
       system: {shortcode: militaryinsigni, value: 2, weight: 1, durability: 3}
-    - name: Letters from home (family)
+    - key: lettersfromhome
+      name: Letters from home (family)
       type: miscgear
       system: {shortcode: lettersfromhome, weight: 0.1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

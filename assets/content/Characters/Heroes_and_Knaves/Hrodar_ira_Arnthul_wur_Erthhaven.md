@@ -27,6 +27,17 @@ data:
     face_shape: long
     extra_features: [gaunt angular face, long arms that give him a gangly look]
   packFolder: ankarisvrystwald
+  items:
+    - {key: haxe, model: weapongear-haxe, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: psht, model: armorgear-psht, kind: armor}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: ltcowl, model: armorgear-ltcowl, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 9}}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 3}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -62,16 +73,16 @@ sohl:
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-skill-timb, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 40}}
-    - {model: sohl-sohl-weapongear-haxe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-psht}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-ltcowl}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 9}}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: haxe, model: sohl-sohl-weapongear-haxe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: psht, model: sohl-sohl-armorgear-psht}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: ltcowl, model: sohl-sohl-armorgear-ltcowl}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 9}}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
   system:
     body:
       structure:

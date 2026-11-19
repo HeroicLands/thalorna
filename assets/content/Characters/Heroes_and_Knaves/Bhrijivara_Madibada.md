@@ -27,6 +27,18 @@ data:
     hair_style: cropped
     facial_hair: stubble
   packFolder: ankarisvedyara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: ashmarkstamp, model: miscgear-ashmarkstamp, kind: miscgear}
+    - {key: threshlamp, model: miscgear-threshlamp, kind: miscgear}
+    - {key: incense, model: miscgear-incense, kind: miscgear}
+    - {key: booktrvl, model: miscgear-booktrvl, kind: miscgear}
+    - {key: inkblk, model: miscgear-inkblk, kind: miscgear}
+    - {key: penquill, model: miscgear-penquill, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -75,17 +87,17 @@ sohl:
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 25}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 75}}
     - {model: skill-triyangasampradeya, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-lrobe}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: miscgear-ashmarkstamp}
-    - {model: miscgear-threshlamp}
-    - {model: sohl-sohl-miscgear-incense}
-    - {model: sohl-sohl-miscgear-booktrvl}
-    - {model: sohl-sohl-miscgear-inkblk}
-    - {model: sohl-sohl-miscgear-penquill}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: ashmarkstamp, model: miscgear-ashmarkstamp}
+    - {key: threshlamp, model: miscgear-threshlamp}
+    - {key: incense, model: sohl-sohl-miscgear-incense}
+    - {key: booktrvl, model: sohl-sohl-miscgear-booktrvl}
+    - {key: inkblk, model: sohl-sohl-miscgear-inkblk}
+    - {key: penquill, model: sohl-sohl-miscgear-penquill}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

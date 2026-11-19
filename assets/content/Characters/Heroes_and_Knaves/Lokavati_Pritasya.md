@@ -26,6 +26,18 @@ data:
     complexion: [clear]
     extra_features: [Fingertips stained amber-red from testing lac]
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: ldress, model: armorgear-ldress, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: monsooncloak, model: miscgear-monsooncloak, kind: miscgear}
+    - {key: scalesweig, model: miscgear-scalesweig, kind: miscgear}
+    - {key: waxtablet, model: miscgear-waxtablet, kind: miscgear}
+    - {key: tomra, model: miscgear-tomra, kind: miscgear, system: {quantity: 40}}
+    - {key: satchltmd, model: containergear-satchltmd, kind: container}
+    - {key: jarliddedm, model: containergear-jarliddedm, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -71,17 +83,17 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 35}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-ldress}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: miscgear-monsooncloak}
-    - {model: sohl-sohl-miscgear-scalesweig}
-    - {model: sohl-sohl-miscgear-waxtablet}
-    - {model: miscgear-tomra, system: {quantity: 40}}
-    - {model: sohl-sohl-containergear-satchltmd}
-    - {model: sohl-sohl-containergear-jarliddedm}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: ldress, model: sohl-sohl-armorgear-ldress}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: monsooncloak, model: miscgear-monsooncloak}
+    - {key: scalesweig, model: sohl-sohl-miscgear-scalesweig}
+    - {key: waxtablet, model: sohl-sohl-miscgear-waxtablet}
+    - {key: tomra, model: miscgear-tomra, system: {quantity: 40}}
+    - {key: satchltmd, model: sohl-sohl-containergear-satchltmd}
+    - {key: jarliddedm, model: sohl-sohl-containergear-jarliddedm}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

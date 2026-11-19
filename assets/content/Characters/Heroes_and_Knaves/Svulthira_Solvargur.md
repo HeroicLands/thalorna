@@ -28,6 +28,35 @@ data:
     brow: heavy
     extra_features: [a tattoo of a skull on the upper arm]
   packFolder: ankarisnordlands
+  items:
+    - {key: lbw75, model: weapongear-lbw75, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhmntl, model: armorgear-rhmntl, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 24}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: trapmakingmaterials
+      name: "Trap-making materials (wire, springs, snares)"
+      kind: miscgear
+      system: {weight: 2}
+    - key: herbalremedybundle
+      name: Herbal remedy bundle (healing salves)
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: boneknifeforfield
+      name: Bone knife for field dressing
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: fletchingkitforarrow
+      name: Fletching kit for arrow maintenance
+      kind: miscgear
+      system: {weight: 3}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: quiver, name: Quiver (leather), kind: container, system: {quantity: 1, weight: 1.5}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -76,30 +105,35 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-weapongear-lbw75}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhmntl}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 24}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Trap-making materials (wire, springs, snares)
+    - {key: lbw75, model: sohl-sohl-weapongear-lbw75}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhmntl, model: sohl-sohl-armorgear-rhmntl}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 24}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: trapmakingmaterials
+      name: Trap-making materials (wire, springs, snares)
       type: miscgear
       system: {shortcode: trapmakingmaterials, weight: 2, value: 100, durability: 3}
-    - name: Herbal remedy bundle (healing salves)
+    - key: herbalremedybundle
+      name: Herbal remedy bundle (healing salves)
       type: miscgear
       system: {shortcode: herbalremedybundle, weight: 0.5, value: 100, durability: 3}
-    - name: Bone knife for field dressing
+    - key: boneknifeforfield
+      name: Bone knife for field dressing
       type: miscgear
       system: {shortcode: boneknifeforfield, weight: 1.5, value: 100, durability: 3}
-    - name: Fletching kit for arrow maintenance
+    - key: fletchingkitforarrow
+      name: Fletching kit for arrow maintenance
       type: miscgear
       system: {shortcode: fletchingkitforarrow, weight: 3, value: 100, durability: 4}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Quiver (leather)
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: quiver
+      name: Quiver (leather)
       type: containergear
       system: {shortcode: quiver, quantity: 1, weight: 1.5, value: 100, durability: 3}
   system:

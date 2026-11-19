@@ -26,6 +26,14 @@ data:
     complexion: [clear]
     extra_features: [White at the temples]
   packFolder: ankarisvedyara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: scalesweig, model: miscgear-scalesweig, kind: miscgear}
+    - {key: bookbase, model: miscgear-bookbase, kind: miscgear}
+    - {key: penquill, model: miscgear-penquill, kind: miscgear}
+    - {key: inkblk, model: miscgear-inkblk, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -65,13 +73,13 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-lrobe}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-miscgear-scalesweig}
-    - {model: sohl-sohl-miscgear-bookbase}
-    - {model: sohl-sohl-miscgear-penquill}
-    - {model: sohl-sohl-miscgear-inkblk}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: scalesweig, model: sohl-sohl-miscgear-scalesweig}
+    - {key: bookbase, model: sohl-sohl-miscgear-bookbase}
+    - {key: penquill, model: sohl-sohl-miscgear-penquill}
+    - {key: inkblk, model: sohl-sohl-miscgear-inkblk}
   system:
     body:
       structure:

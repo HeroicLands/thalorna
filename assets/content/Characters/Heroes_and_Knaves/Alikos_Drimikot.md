@@ -27,6 +27,30 @@ data:
     nose: aquiline
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: haxe, model: weapongear-haxe, kind: weapon}
+    - {key: wcoat, model: armorgear-wcoat, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - key: carpenterstoolbox
+      name: "Carpenter's toolbox (chisel set, hammer, handsaw, plane)"
+      kind: miscgear
+      system: {weight: 2}
+    - key: whetstones
+      name: Whetstones and stropping leather
+      kind: miscgear
+      system: {quantity: 2, weight: 0.5}
+    - key: woodendowelsandpegs
+      name: Wooden dowels and pegs (assorted)
+      kind: miscgear
+      system: {quantity: 20, weight: 1.5}
+    - {key: workapron, name: Work apron (heavy canvas), kind: miscgear, system: {weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: watersk, name: Waterskin (leather), kind: miscgear, system: {weight: 1.5}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -74,19 +98,22 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-haxe}
-    - {model: sohl-sohl-armorgear-wcoat}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Carpenter's toolbox (chisel set, hammer, handsaw, plane)
+    - {key: haxe, model: sohl-sohl-weapongear-haxe}
+    - {key: wcoat, model: sohl-sohl-armorgear-wcoat}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: carpenterstoolbox
+      name: Carpenter's toolbox (chisel set, hammer, handsaw, plane)
       type: miscgear
       system: {shortcode: carpenterstoolbox, weight: 2, value: 8, durability: 3}
-    - name: Whetstones and stropping leather
+    - key: whetstones
+      name: Whetstones and stropping leather
       type: miscgear
       system: {shortcode: whetstones, quantity: 2, weight: 0.5, value: 100, durability: 3}
-    - name: Wooden dowels and pegs (assorted)
+    - key: woodendowelsandpegs
+      name: Wooden dowels and pegs (assorted)
       type: miscgear
       system:
         shortcode: woodendowelsandpegs
@@ -94,15 +121,17 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - name: Work apron (heavy canvas)
+    - key: workapron
+      name: Work apron (heavy canvas)
       type: miscgear
       system: {shortcode: workapron, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Waterskin (leather)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: watersk
+      name: Waterskin (leather)
       type: miscgear
       system: {shortcode: watersk, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

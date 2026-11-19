@@ -32,6 +32,33 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkdress, model: armorgear-slkdress, kind: clothing}
+    - {key: slkmntl, model: armorgear-slkmntl, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: ehat, model: armorgear-ehat, kind: clothing}
+    - key: leatherboundjournal
+      name: Leather-bound journal of political observations
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: bookofcourtetiquette
+      name: Book of court etiquette and history
+      kind: miscgear
+      system: {weight: 1.2}
+    - key: accountingledger
+      name: Accounting ledger for patronage donations
+      kind: miscgear
+      system: {weight: 0.6}
+    - {key: silkcosmeticspouch, name: Silk cosmetics pouch, kind: miscgear, system: {weight: 1}}
+    - key: goldenhandmirr
+      name: Golden hand mirror (Uzn'era cult devotional)
+      kind: miscgear
+      system: {weight: 0.3}
+    - {key: inkandquills, name: Ink and quills, kind: miscgear, system: {weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 40}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,32 +103,38 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkdress}
-    - {model: sohl-sohl-armorgear-slkmntl}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-armorgear-ehat}
-    - name: Leather-bound journal of political observations
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkdress, model: sohl-sohl-armorgear-slkdress}
+    - {key: slkmntl, model: sohl-sohl-armorgear-slkmntl}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: ehat, model: sohl-sohl-armorgear-ehat}
+    - key: leatherboundjournal
+      name: Leather-bound journal of political observations
       type: miscgear
       system: {shortcode: leatherboundjournal, weight: 0.8, value: 100, durability: 3}
-    - name: Book of court etiquette and history
+    - key: bookofcourtetiquette
+      name: Book of court etiquette and history
       type: miscgear
       system: {shortcode: bookofcourtetiquette, weight: 1.2, value: 100, durability: 3}
-    - name: Accounting ledger for patronage donations
+    - key: accountingledger
+      name: Accounting ledger for patronage donations
       type: miscgear
       system: {shortcode: accountingledger, weight: 0.6, value: 100, durability: 3}
-    - name: Silk cosmetics pouch
+    - key: silkcosmeticspouch
+      name: Silk cosmetics pouch
       type: miscgear
       system: {shortcode: silkcosmeticspouch, weight: 1, value: 100, durability: 3}
-    - name: Golden hand mirror (Uzn'era cult devotional)
+    - key: goldenhandmirr
+      name: Golden hand mirror (Uzn'era cult devotional)
       type: miscgear
       system: {shortcode: goldenhandmirr, weight: 0.3, value: 100, durability: 3}
-    - name: Ink and quills
+    - key: inkandquills
+      name: Ink and quills
       type: miscgear
       system: {shortcode: inkandquills, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 40}}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 40}}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

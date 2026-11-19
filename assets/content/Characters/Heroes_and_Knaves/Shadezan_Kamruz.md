@@ -27,6 +27,31 @@ data:
     complexion: [ruddy]
     extra_features: []
   packFolder: dunharatribes
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: cbw100, model: weapongear-cbw100, kind: weapon}
+    - {key: mbyr, model: armorgear-mbyr, kind: armor}
+    - {key: mleg, model: armorgear-mleg, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 25}}
+    - {key: quiver, name: "Quiver (leather, tribal design)", kind: miscgear, system: {weight: 1}}
+    - key: drinkinghorn
+      name: "Drinking horn (carved bone, personal)"
+      kind: miscgear
+      system: {weight: 0.4}
+    - key: tribalrunestone
+      name: "Tribal runestone (engraved, sacred)"
+      kind: miscgear
+      system: {weight: 0.8}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - {key: rope, name: "Rope (hemp, braided)", kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 5}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 40}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 17}}
@@ -72,35 +97,40 @@ sohl:
     - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 22}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-weapongear-cbw100}
-    - {model: sohl-sohl-armorgear-mbyr}
-    - {model: sohl-sohl-armorgear-mleg}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 25}}
-    - name: Quiver (leather, tribal design)
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: cbw100, model: sohl-sohl-weapongear-cbw100}
+    - {key: mbyr, model: sohl-sohl-armorgear-mbyr}
+    - {key: mleg, model: sohl-sohl-armorgear-mleg}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 25}}
+    - key: quiver
+      name: Quiver (leather, tribal design)
       type: miscgear
       data: {icon: icon-quiver}
       system: {shortcode: quiver, weight: 1, value: 100, durability: 3}
-    - name: Drinking horn (carved bone, personal)
+    - key: drinkinghorn
+      name: Drinking horn (carved bone, personal)
       type: miscgear
       system: {shortcode: drinkinghorn, weight: 0.4, value: 100, durability: 3}
-    - name: Tribal runestone (engraved, sacred)
+    - key: tribalrunestone
+      name: Tribal runestone (engraved, sacred)
       type: miscgear
       system: {shortcode: tribalrunestone, weight: 0.8, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - name: Rope (hemp, braided)
+    - key: rope
+      name: Rope (hemp, braided)
       type: miscgear
       system: {shortcode: rope, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 40}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 40}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -28,6 +28,35 @@ data:
     mouth: full
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - key: medicaltext
+      name: Medical text (comprehensive anatomy treatise)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: surgkit, model: miscgear-surgkit, kind: miscgear}
+    - key: herbalremedies
+      name: Herbal remedies (assorted tinctures)
+      kind: miscgear
+      system: {quantity: 8, weight: 1}
+    - key: surgicalinstruments
+      name: "Surgical instruments (scalpels, lancets, forceps)"
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: healingpoultices
+      name: Healing poultices (prepared)
+      kind: miscgear
+      system: {quantity: 4, weight: 0.5}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: herbalreferenceguide
+      name: Herbal reference guide (personal notes)
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,29 +105,34 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wclk}
-    - name: Medical text (comprehensive anatomy treatise)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - key: medicaltext
+      name: Medical text (comprehensive anatomy treatise)
       type: miscgear
       system: {shortcode: medicaltext, weight: 1, value: 20, durability: 4}
-    - {model: sohl-sohl-miscgear-surgkit}
-    - name: Herbal remedies (assorted tinctures)
+    - {key: surgkit, model: sohl-sohl-miscgear-surgkit}
+    - key: herbalremedies
+      name: Herbal remedies (assorted tinctures)
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 8, value: 12, weight: 1, durability: 3}
-    - name: Surgical instruments (scalpels, lancets, forceps)
+    - key: surgicalinstruments
+      name: Surgical instruments (scalpels, lancets, forceps)
       type: miscgear
       system: {shortcode: surgicalinstruments, weight: 0.5, value: 8, durability: 5}
-    - name: Healing poultices (prepared)
+    - key: healingpoultices
+      name: Healing poultices (prepared)
       type: miscgear
       system: {shortcode: healingpoultices, quantity: 4, value: 2, weight: 0.5, durability: 1}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Herbal reference guide (personal notes)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: herbalreferenceguide
+      name: Herbal reference guide (personal notes)
       type: miscgear
       system: {shortcode: herbalreferenceguide, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

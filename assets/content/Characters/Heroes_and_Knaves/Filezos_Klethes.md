@@ -29,6 +29,29 @@ data:
     mouth: wide
     extra_features: []
   packFolder: midhalionvylaria
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: msbyr, model: armorgear-msbyr, kind: armor}
+    - {key: mleg, model: armorgear-mleg, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - key: militarymanuals
+      name: Military manuals and tactical references
+      kind: miscgear
+      system: {weight: 1}
+    - key: mapcasewithcampaign
+      name: Map case with campaign maps
+      kind: miscgear
+      system: {weight: 1}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: firestarting
+      name: Fire-starting materials and oil vials
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -75,27 +98,31 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-msbyr}
-    - {model: sohl-sohl-armorgear-mleg}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - name: Military manuals and tactical references
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: msbyr, model: sohl-sohl-armorgear-msbyr}
+    - {key: mleg, model: sohl-sohl-armorgear-mleg}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - key: militarymanuals
+      name: Military manuals and tactical references
       type: miscgear
       system: {shortcode: militarymanuals, weight: 1, value: 100, durability: 3}
-    - name: Map case with campaign maps
+    - key: mapcasewithcampaign
+      name: Map case with campaign maps
       type: miscgear
       system: {shortcode: mapcasewithcampaign, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Fire-starting materials and oil vials
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: firestarting
+      name: Fire-starting materials and oil vials
       type: miscgear
       system: {shortcode: firestarting, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

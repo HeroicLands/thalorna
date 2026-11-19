@@ -30,6 +30,39 @@ data:
     mouth: wide
     extra_features: []
   packFolder: aureldiaelavendre
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wrobe, model: armorgear-wrobe, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - key: alchemicalsatchel
+      name: Alchemical satchel with crucibles and vials
+      kind: miscgear
+      system: {weight: 2}
+    - key: driedherbsandplant
+      name: Dried herbs and plant specimens (bundle)
+      kind: miscgear
+      system: {weight: 1.2}
+    - key: bottlesofprepared
+      name: Bottles of prepared tinctures and extracts
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: brassscales
+      name: Brass scales and measuring weights
+      kind: miscgear
+      system: {weight: 0.6}
+    - key: leatherbound
+      name: Leather-bound alchemical journal
+      kind: miscgear
+      system: {weight: 1}
+    - {key: inkandquills, name: Ink and quills, kind: miscgear, system: {weight: 1}}
+    - {key: mortarandpestle, name: Mortar and pestle (stone), kind: miscgear, system: {weight: 1}}
+    - {key: oillampandst, name: Oil lamp and stand, kind: miscgear, system: {weight: 0.8}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 28}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -79,39 +112,47 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 64}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wrobe}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Alchemical satchel with crucibles and vials
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wrobe, model: sohl-sohl-armorgear-wrobe}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: alchemicalsatchel
+      name: Alchemical satchel with crucibles and vials
       type: miscgear
       system: {shortcode: alchemicalsatchel, weight: 2, value: 100, durability: 3}
-    - name: Dried herbs and plant specimens (bundle)
+    - key: driedherbsandplant
+      name: Dried herbs and plant specimens (bundle)
       type: miscgear
       system: {shortcode: driedherbsandplant, weight: 1.2, value: 100, durability: 3}
-    - name: Bottles of prepared tinctures and extracts
+    - key: bottlesofprepared
+      name: Bottles of prepared tinctures and extracts
       type: miscgear
       system: {shortcode: bottlesofprepared, weight: 1.5, value: 100, durability: 3}
-    - name: Brass scales and measuring weights
+    - key: brassscales
+      name: Brass scales and measuring weights
       type: miscgear
       system: {shortcode: brassscales, weight: 0.6, value: 100, durability: 3}
-    - name: Leather-bound alchemical journal
+    - key: leatherbound
+      name: Leather-bound alchemical journal
       type: miscgear
       system: {shortcode: leatherbound, weight: 1, value: 100, durability: 3}
-    - name: Ink and quills
+    - key: inkandquills
+      name: Ink and quills
       type: miscgear
       system: {shortcode: inkandquills, weight: 1, value: 100, durability: 3}
-    - name: Mortar and pestle (stone)
+    - key: mortarandpestle
+      name: Mortar and pestle (stone)
       type: miscgear
       system: {shortcode: mortarandpestle, weight: 1, value: 100, durability: 3}
-    - name: Oil lamp and stand
+    - key: oillampandst
+      name: Oil lamp and stand
       type: miscgear
       system: {shortcode: oillampandst, weight: 0.8, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 28}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 28}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

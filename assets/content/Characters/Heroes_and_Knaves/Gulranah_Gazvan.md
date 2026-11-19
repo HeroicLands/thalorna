@@ -29,6 +29,33 @@ data:
     mouth: full
     extra_features: [a scar on the right wrist]
   packFolder: kingdomofamradad
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: wcboot, model: armorgear-wcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - key: leathercharcoalsacks
+      name: "Leather charcoal sacks (reinforced, qty 3)"
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - key: kilnmasterstools
+      name: "Kiln master's tools (rakes, tongs, measuring scales)"
+      kind: miscgear
+      system: {weight: 2}
+    - key: herbalbundle
+      name: Herbal bundle (curative plants)
+      kind: miscgear
+      system: {weight: 1}
+    - key: firestarterflint
+      name: Fire-starter flint and striker
+      kind: miscgear
+      system: {weight: 1}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -74,28 +101,32 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 33}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-wcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Leather charcoal sacks (reinforced, qty 3)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: wcboot, model: sohl-sohl-armorgear-wcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: leathercharcoalsacks
+      name: Leather charcoal sacks (reinforced, qty 3)
       type: miscgear
       system: {shortcode: leathercharcoalsacks, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Kiln master's tools (rakes, tongs, measuring scales)
+    - key: kilnmasterstools
+      name: Kiln master's tools (rakes, tongs, measuring scales)
       type: miscgear
       system: {shortcode: kilnmasterstools, weight: 2, value: 100, durability: 3}
-    - name: Herbal bundle (curative plants)
+    - key: herbalbundle
+      name: Herbal bundle (curative plants)
       type: miscgear
       system: {shortcode: herbalbundle, weight: 1, value: 100, durability: 3}
-    - name: Fire-starter flint and striker
+    - key: firestarterflint
+      name: Fire-starter flint and striker
       type: miscgear
       system: {shortcode: firestarterflint, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -27,6 +27,41 @@ data:
     face_shape: oval
     extra_features: [a scar on the left thigh]
   packFolder: helladbyzaria
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: psht, model: armorgear-psht, kind: armor}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 3}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - key: waterproofmapcase
+      name: Waterproof map case (leather-bound)
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: surveyingtools
+      name: "Surveying tools (compass, quadrant, measuring chains)"
+      kind: miscgear
+      system: {weight: 2}
+    - key: magnifyingglass
+      name: Magnifying glass for detailed work
+      kind: miscgear
+      system: {weight: 1}
+    - key: brasscompass
+      name: Brass compass (precision navigational)
+      kind: miscgear
+      system: {weight: 1}
+    - key: inkbottlesanddrawing
+      name: Ink bottles and drawing implements
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: parchmentandpaper
+      name: Parchment and paper (sketching stock)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -74,34 +109,40 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-psht}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - name: Waterproof map case (leather-bound)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: psht, model: sohl-sohl-armorgear-psht}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - key: waterproofmapcase
+      name: Waterproof map case (leather-bound)
       type: miscgear
       system: {shortcode: waterproofmapcase, weight: 0.8, value: 100, durability: 3}
-    - name: Surveying tools (compass, quadrant, measuring chains)
+    - key: surveyingtools
+      name: Surveying tools (compass, quadrant, measuring chains)
       type: miscgear
       system: {shortcode: surveyingtools, weight: 2, value: 100, durability: 3}
-    - name: Magnifying glass for detailed work
+    - key: magnifyingglass
+      name: Magnifying glass for detailed work
       type: miscgear
       system: {shortcode: magnifyingglass, weight: 1, value: 100, durability: 3}
-    - name: Brass compass (precision navigational)
+    - key: brasscompass
+      name: Brass compass (precision navigational)
       type: miscgear
       system: {shortcode: brasscompass, value: 8, weight: 1, durability: 3}
-    - name: Ink bottles and drawing implements
+    - key: inkbottlesanddrawing
+      name: Ink bottles and drawing implements
       type: miscgear
       system: {shortcode: inkbottlesanddrawing, weight: 0.5, value: 100, durability: 3}
-    - name: Parchment and paper (sketching stock)
+    - key: parchmentandpaper
+      name: Parchment and paper (sketching stock)
       type: miscgear
       system: {shortcode: parchmentandpaper, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

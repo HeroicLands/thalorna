@@ -29,6 +29,23 @@ data:
       - A bowstring callus across the first three fingers of the right hand
       - A pale scar along the left forearm from a lance-head
   packFolder: ankarisvedyara
+  items:
+    - {key: swfthndbw, model: weapongear-swfthndbw, kind: weapon}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile}
+    - {key: quiverlgsh, model: containergear-quiverlgsh, kind: container}
+    - {key: shkhlynswd, model: weapongear-shkhlynswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: mshirt, model: armorgear-mshirt, kind: armor}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: saddlewar, model: miscgear-saddlewar, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: litebdrl, model: miscgear-litebdrl, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -74,22 +91,22 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 35}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 25}}
-    - {model: weapongear-swfthndbw}
-    - {model: sohl-sohl-projectilegear-arwstd}
-    - {model: sohl-sohl-containergear-quiverlgsh}
-    - {model: weapongear-shkhlynswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-mshirt}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - {model: sohl-sohl-miscgear-saddlewar}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-litebdrl}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: swfthndbw, model: weapongear-swfthndbw}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd}
+    - {key: quiverlgsh, model: sohl-sohl-containergear-quiverlgsh}
+    - {key: shkhlynswd, model: weapongear-shkhlynswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: mshirt, model: sohl-sohl-armorgear-mshirt}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - {key: saddlewar, model: sohl-sohl-miscgear-saddlewar}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - {key: litebdrl, model: sohl-sohl-miscgear-litebdrl}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

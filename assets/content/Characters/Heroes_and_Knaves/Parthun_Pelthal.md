@@ -29,6 +29,28 @@ data:
     face_shape: heart
     extra_features: [a scar on the left foot]
   packFolder: aureldiaelavendre
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: inkandquills, name: Ink and quills (fine quality), kind: miscgear, system: {weight: 1}}
+    - {key: sealingwaxandseal, name: Sealing wax and seal, kind: miscgear, system: {weight: 1}}
+    - key: locallawsandlegal
+      name: Local laws and legal references (book)
+      kind: miscgear
+      system: {weight: 1}
+    - key: officialdocuments
+      name: Official documents (collection)
+      kind: miscgear
+      system: {quantity: 5, weight: 1}
+    - key: parchment
+      name: Parchment (writing supplies)
+      kind: miscgear
+      system: {quantity: 6, weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -77,30 +99,36 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 11}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Ink and quills (fine quality)
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: inkandquills
+      name: Ink and quills (fine quality)
       type: miscgear
       system: {shortcode: inkandquills, weight: 1, value: 100, durability: 3}
-    - name: Sealing wax and seal
+    - key: sealingwaxandseal
+      name: Sealing wax and seal
       type: miscgear
       system: {shortcode: sealingwaxandseal, weight: 1, value: 100, durability: 3}
-    - name: Local laws and legal references (book)
+    - key: locallawsandlegal
+      name: Local laws and legal references (book)
       type: miscgear
       system: {shortcode: locallawsandlegal, weight: 1, value: 100, durability: 3}
-    - name: Official documents (collection)
+    - key: officialdocuments
+      name: Official documents (collection)
       type: miscgear
       system: {shortcode: officialdocuments, quantity: 5, weight: 1, value: 100, durability: 3}
-    - name: Parchment (writing supplies)
+    - key: parchment
+      name: Parchment (writing supplies)
       type: miscgear
       system: {shortcode: parchment, quantity: 6, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Whetstone
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

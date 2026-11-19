@@ -33,6 +33,29 @@ data:
       - Tablets-of-Qe'aret tattoos on both forearms scored through with deliberate cuts
       - Deep horizontal scar across the left palm from the exile branding
   packFolder: regkhhk
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: ltbrcr, model: armorgear-ltbrcr, kind: clothing}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 3}}
+    - key: concealedritual
+      name: "Concealed ritual implements of Qe'aret (bronze scales, tablet token, consecrated chalk)"
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 40}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: metalwrktl, model: miscgear-metalwrktl, kind: miscgear}
+    - key: scrollsandnoteson
+      name: Scrolls and notes on theological doctrine
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -81,26 +104,28 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 44}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-ritual, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-armorgear-ltbrcr}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
-    - name: Concealed ritual implements of Qe'aret (bronze scales, tablet token, consecrated chalk)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: ltbrcr, model: sohl-sohl-armorgear-ltbrcr}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
+    - key: concealedritual
+      name: Concealed ritual implements of Qe'aret (bronze scales, tablet token, consecrated chalk)
       type: miscgear
       system: {shortcode: concealedritual, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 40}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-metalwrktl}
-    - name: Scrolls and notes on theological doctrine
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 40}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: metalwrktl, model: sohl-sohl-miscgear-metalwrktl}
+    - key: scrollsandnoteson
+      name: Scrolls and notes on theological doctrine
       type: miscgear
       system: {shortcode: scrollsandnoteson, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

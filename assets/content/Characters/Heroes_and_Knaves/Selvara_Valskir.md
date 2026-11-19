@@ -28,6 +28,20 @@ data:
     complexion: [weathered]
     extra_features: []
   packFolder: aureldiatarvenia
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: plgrvs, model: armorgear-plgrvs, kind: armor}
+    - {key: plhhelm, model: armorgear-plhhelm, kind: armor}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 34}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -75,19 +89,19 @@ sohl:
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 62}}
     - {model: sohl-sohl-skill-shpw, system: {masteryLevelBase: 27}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 58}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-plgrvs}
-    - {model: sohl-sohl-armorgear-plhhelm}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 34}}
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: plgrvs, model: sohl-sohl-armorgear-plgrvs}
+    - {key: plhhelm, model: sohl-sohl-armorgear-plhhelm}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 34}}
   system:
     body:
       structure:

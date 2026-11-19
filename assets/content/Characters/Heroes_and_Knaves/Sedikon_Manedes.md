@@ -29,6 +29,40 @@ data:
     brow: arched
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - key: leatherweaponcase
+      name: Leather weapon case (for primary blade)
+      kind: miscgear
+      system: {weight: 1}
+    - key: practiceswords
+      name: "Practice swords (wooden, for training)"
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: whetstones
+      name: Whetstones and sharpening tools
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: instructionalscrolls
+      name: Instructional scrolls on sword technique
+      kind: miscgear
+      system: {weight: 1}
+    - key: oilandleather
+      name: Oil and leather conditioner for blades
+      kind: miscgear
+      system: {weight: 1}
+    - key: clothforcleaning
+      name: Cloth for cleaning and maintenance
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 10}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -74,33 +108,39 @@ sohl:
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - name: Leather weapon case (for primary blade)
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - key: leatherweaponcase
+      name: Leather weapon case (for primary blade)
       type: miscgear
       system: {shortcode: leatherweaponcase, weight: 1, value: 100, durability: 3}
-    - name: Practice swords (wooden, for training)
+    - key: practiceswords
+      name: Practice swords (wooden, for training)
       type: miscgear
       system: {shortcode: practiceswords, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Whetstones and sharpening tools
+    - key: whetstones
+      name: Whetstones and sharpening tools
       type: miscgear
       system: {shortcode: whetstones, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Instructional scrolls on sword technique
+    - key: instructionalscrolls
+      name: Instructional scrolls on sword technique
       type: miscgear
       system: {shortcode: instructionalscrolls, weight: 1, value: 100, durability: 3}
-    - name: Oil and leather conditioner for blades
+    - key: oilandleather
+      name: Oil and leather conditioner for blades
       type: miscgear
       system: {shortcode: oilandleather, weight: 1, value: 100, durability: 3}
-    - name: Cloth for cleaning and maintenance
+    - key: clothforcleaning
+      name: Cloth for cleaning and maintenance
       type: miscgear
       system: {shortcode: clothforcleaning, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 10}}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 10}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

@@ -27,6 +27,40 @@ data:
     face_shape: long
     extra_features: [a scar on the right hand]
   packFolder: kingdomofamradad
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: sgshirt, model: armorgear-sgshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: sgclk, model: armorgear-sgclk, kind: clothing}
+    - key: wornleathertravelbag
+      name: Worn leather travel bag
+      kind: miscgear
+      system: {weight: 1}
+    - key: astronomicalalmanac
+      name: Astronomical almanac and star charts
+      kind: miscgear
+      system: {weight: 1}
+    - key: simplebrasstelescope
+      name: Simple brass telescope
+      kind: miscgear
+      system: {weight: 1}
+    - key: woodenconstellation
+      name: Wooden constellation carvings
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - key: tarotcards
+      name: Tarot cards and divination tools
+      kind: miscgear
+      system: {weight: 1}
+    - key: writingsupplies
+      name: Writing supplies and observation notes
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -78,33 +112,39 @@ sohl:
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-sgshirt}
-    - {model: sohl-sohl-armorgear-sgtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-sgclk}
-    - name: Worn leather travel bag
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: sgshirt, model: sohl-sohl-armorgear-sgshirt}
+    - {key: sgtrsr, model: sohl-sohl-armorgear-sgtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: sgclk, model: sohl-sohl-armorgear-sgclk}
+    - key: wornleathertravelbag
+      name: Worn leather travel bag
       type: miscgear
       system: {shortcode: wornleathertravelbag, weight: 1, value: 100, durability: 3}
-    - name: Astronomical almanac and star charts
+    - key: astronomicalalmanac
+      name: Astronomical almanac and star charts
       type: miscgear
       system: {shortcode: astronomicalalmanac, weight: 1, value: 100, durability: 3}
-    - name: Simple brass telescope
+    - key: simplebrasstelescope
+      name: Simple brass telescope
       type: miscgear
       system: {shortcode: simplebrasstelescope, weight: 1, value: 100, durability: 3}
-    - name: Wooden constellation carvings
+    - key: woodenconstellation
+      name: Wooden constellation carvings
       type: miscgear
       system: {shortcode: woodenconstellation, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Tarot cards and divination tools
+    - key: tarotcards
+      name: Tarot cards and divination tools
       type: miscgear
       system: {shortcode: tarotcards, weight: 1, value: 100, durability: 3}
-    - name: Writing supplies and observation notes
+    - key: writingsupplies
+      name: Writing supplies and observation notes
       type: miscgear
       system: {shortcode: writingsupplies, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

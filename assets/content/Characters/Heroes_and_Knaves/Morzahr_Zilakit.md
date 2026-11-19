@@ -26,6 +26,31 @@ data:
     complexion: [weathered]
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: waxe, model: weapongear-waxe, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: saw, name: "Saw (crosscut, well-maintained)", kind: miscgear, system: {weight: 1}}
+    - key: measuringrope
+      name: Measuring rope and timber gauges
+      kind: miscgear
+      system: {weight: 1}
+    - key: woodcarvingknives
+      name: "Woodcarving knives (set of 5, various sizes)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: whetstonesforblade
+      name: Whetstones for blade sharpening
+      kind: miscgear
+      system: {weight: 1}
+    - {key: chalkfortimber, name: Chalk for timber marking, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 5}}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -73,31 +98,36 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-waxe}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Saw (crosscut, well-maintained)
+    - {key: waxe, model: sohl-sohl-weapongear-waxe}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: saw
+      name: Saw (crosscut, well-maintained)
       type: miscgear
       system: {shortcode: saw, weight: 1, value: 100, durability: 3}
-    - name: Measuring rope and timber gauges
+    - key: measuringrope
+      name: Measuring rope and timber gauges
       type: miscgear
       system: {shortcode: measuringrope, weight: 1, value: 100, durability: 3}
-    - name: Woodcarving knives (set of 5, various sizes)
+    - key: woodcarvingknives
+      name: Woodcarving knives (set of 5, various sizes)
       type: miscgear
       system: {shortcode: woodcarvingknives, weight: 1, value: 100, durability: 3}
-    - name: Whetstones for blade sharpening
+    - key: whetstonesforblade
+      name: Whetstones for blade sharpening
       type: miscgear
       system: {shortcode: whetstonesforblade, weight: 1, value: 100, durability: 3}
-    - name: Chalk for timber marking
+    - key: chalkfortimber
+      name: Chalk for timber marking
       type: miscgear
       system: {shortcode: chalkfortimber, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

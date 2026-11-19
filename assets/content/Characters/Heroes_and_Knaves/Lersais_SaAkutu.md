@@ -28,6 +28,45 @@ data:
     brow: arched
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: falcstra, model: weapongear-falcstra, kind: weapon}
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: cbw100, model: weapongear-cbw100, kind: weapon}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 20}}
+    - {key: sslbyrn, model: armorgear-sslbyrn, kind: armor}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: twrsh, model: weapongear-twrsh, kind: weapon}
+    - key: largecommandchest
+      name: Large command chest for documents and seals
+      kind: miscgear
+      system: {weight: 3}
+    - key: militarycampaignmaps
+      name: Military campaign maps (leather case)
+      kind: miscgear
+      system: {weight: 1}
+    - key: battlestandard
+      name: "Battle standard (folded, ceremonial)"
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: goldheadedmace
+      name: Gold-headed mace (symbol of command authority)
+      kind: miscgear
+      system: {weight: 1}
+    - key: goldpectoralcollar
+      name: Gold pectoral collar of rank (rank insignia)
+      kind: miscgear
+      system: {weight: 1}
+    - key: bronzeandgold
+      name: Bronze and gold ceremonial khopesh (court occasions)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - key: quiver
+      name: "Quiver (leather, reinforced military grade)"
+      kind: container
+      system: {quantity: 1, weight: 1}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -77,35 +116,42 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-weapongear-falcstra}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-weapongear-cbw100}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 20}}
-    - {model: sohl-sohl-armorgear-sslbyrn}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-weapongear-twrsh}
-    - name: Large command chest for documents and seals
+    - {key: falcstra, model: sohl-sohl-weapongear-falcstra}
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: cbw100, model: sohl-sohl-weapongear-cbw100}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 20}}
+    - {key: sslbyrn, model: sohl-sohl-armorgear-sslbyrn}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: twrsh, model: sohl-sohl-weapongear-twrsh}
+    - key: largecommandchest
+      name: Large command chest for documents and seals
       type: miscgear
       system: {shortcode: largecommandchest, weight: 3, value: 100, durability: 3}
-    - name: Military campaign maps (leather case)
+    - key: militarycampaignmaps
+      name: Military campaign maps (leather case)
       type: miscgear
       system: {shortcode: militarycampaignmaps, weight: 1, value: 100, durability: 3}
-    - name: Battle standard (folded, ceremonial)
+    - key: battlestandard
+      name: Battle standard (folded, ceremonial)
       type: miscgear
       system: {shortcode: battlestandard, weight: 0.5, value: 100, durability: 3}
-    - name: Gold-headed mace (symbol of command authority)
+    - key: goldheadedmace
+      name: Gold-headed mace (symbol of command authority)
       type: miscgear
       system: {shortcode: goldheadedmace, value: 35, weight: 1, durability: 3}
-    - name: Gold pectoral collar of rank (rank insignia)
+    - key: goldpectoralcollar
+      name: Gold pectoral collar of rank (rank insignia)
       type: miscgear
       system: {shortcode: goldpectoralcollar, value: 50, weight: 1, durability: 3}
-    - name: Bronze and gold ceremonial khopesh (court occasions)
+    - key: bronzeandgold
+      name: Bronze and gold ceremonial khopesh (court occasions)
       type: miscgear
       system: {shortcode: bronzeandgold, value: 25, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Quiver (leather, reinforced military grade)
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: quiver
+      name: Quiver (leather, reinforced military grade)
       type: containergear
       system: {shortcode: quiver, quantity: 1, weight: 1, value: 100, durability: 3}
   system:

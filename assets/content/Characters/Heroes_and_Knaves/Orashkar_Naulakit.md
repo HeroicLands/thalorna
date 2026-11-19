@@ -28,6 +28,24 @@ data:
     mouth: wide
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: stk, model: weapongear-stk, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: wcboot, model: armorgear-wcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: what, model: armorgear-what, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: mapoftraderoutes, name: Map of trade routes, kind: miscgear, system: {weight: 0.2}}
+    - key: pipeandtobaccopouch
+      name: Pipe and tobacco pouch
+      kind: miscgear
+      system: {weight: 0.3}
+    - {key: wagonmaintenance, name: Wagon maintenance tools, kind: miscgear, system: {weight: 1.5}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -76,28 +94,32 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-weapongear-stk}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-wcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-what}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - name: Map of trade routes
+    - {key: stk, model: sohl-sohl-weapongear-stk}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: wcboot, model: sohl-sohl-armorgear-wcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: what, model: sohl-sohl-armorgear-what}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - key: mapoftraderoutes
+      name: Map of trade routes
       type: miscgear
       system: {shortcode: mapoftraderoutes, weight: 0.2, value: 100, durability: 3}
-    - name: Pipe and tobacco pouch
+    - key: pipeandtobaccopouch
+      name: Pipe and tobacco pouch
       type: miscgear
       system: {shortcode: pipeandtobaccopouch, weight: 0.3, value: 100, durability: 3}
-    - name: Wagon maintenance tools
+    - key: wagonmaintenance
+      name: Wagon maintenance tools
       type: miscgear
       system: {shortcode: wagonmaintenance, weight: 1.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

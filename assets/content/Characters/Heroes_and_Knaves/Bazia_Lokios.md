@@ -29,6 +29,39 @@ data:
     brow: heavy
     extra_features: [a scar running down the right leg]
   packFolder: helladbyzaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkrobe, model: armorgear-slkrobe, kind: clothing}
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - key: smallpouchforritual
+      name: Small pouch for ritual offerings
+      kind: miscgear
+      system: {weight: 1}
+    - key: herbalbundle
+      name: "Herbal bundle for ritual work (lavender, rose, cinnamon)"
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: sacredtempletexts
+      name: Sacred temple texts and prayer scrolls
+      kind: miscgear
+      system: {weight: 1}
+    - key: healingsalves
+      name: Healing salves and herbal remedies
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: decorativehaircord
+      name: Decorative hair cord and flower braid tokens
+      kind: miscgear
+      system: {weight: 1}
+    - key: bronzemirr
+      name: Bronze mirror for ritual reflection
+      kind: miscgear
+      system: {weight: 1}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -75,32 +108,38 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkrobe}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Small pouch for ritual offerings
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: smallpouchforritual
+      name: Small pouch for ritual offerings
       type: miscgear
       system: {shortcode: smallpouchforritual, weight: 1, value: 100, durability: 3}
-    - name: Herbal bundle for ritual work (lavender, rose, cinnamon)
+    - key: herbalbundle
+      name: Herbal bundle for ritual work (lavender, rose, cinnamon)
       type: miscgear
       system: {shortcode: herbalbundle, weight: 0.5, value: 100, durability: 3}
-    - name: Sacred temple texts and prayer scrolls
+    - key: sacredtempletexts
+      name: Sacred temple texts and prayer scrolls
       type: miscgear
       system: {shortcode: sacredtempletexts, weight: 1, value: 100, durability: 3}
-    - name: Healing salves and herbal remedies
+    - key: healingsalves
+      name: Healing salves and herbal remedies
       type: miscgear
       system: {shortcode: healingsalves, weight: 0.8, value: 100, durability: 3}
-    - name: Decorative hair cord and flower braid tokens
+    - key: decorativehaircord
+      name: Decorative hair cord and flower braid tokens
       type: miscgear
       system: {shortcode: decorativehaircord, weight: 1, value: 100, durability: 3}
-    - name: Bronze mirror for ritual reflection
+    - key: bronzemirr
+      name: Bronze mirror for ritual reflection
       type: miscgear
       system: {shortcode: bronzemirr, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

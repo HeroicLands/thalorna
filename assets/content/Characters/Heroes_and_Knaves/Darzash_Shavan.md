@@ -28,6 +28,27 @@ data:
     nose: aquiline
     extra_features: []
   packFolder: kingdomofamradad
+  items:
+    - {key: hcht, model: weapongear-hcht, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: leathertoolapron, name: Leather tool apron, kind: miscgear, system: {weight: 1}}
+    - key: setofcarving
+      name: Set of carving and woodworking tools
+      kind: miscgear
+      system: {weight: 1}
+    - key: woodstainsanddyes
+      name: Wood stains and dyes
+      kind: miscgear
+      system: {quantity: 4, weight: 1}
+    - key: varnishandfinishing
+      name: Varnish and finishing compounds
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -76,25 +97,29 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 64}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-hcht}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - name: Leather tool apron
+    - {key: hcht, model: sohl-sohl-weapongear-hcht}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - key: leathertoolapron
+      name: Leather tool apron
       type: miscgear
       system: {shortcode: leathertoolapron, weight: 1, value: 100, durability: 3}
-    - name: Set of carving and woodworking tools
+    - key: setofcarving
+      name: Set of carving and woodworking tools
       type: miscgear
       system: {shortcode: setofcarving, weight: 1, value: 100, durability: 3}
-    - name: Wood stains and dyes
+    - key: woodstainsanddyes
+      name: Wood stains and dyes
       type: miscgear
       system: {shortcode: woodstainsanddyes, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Varnish and finishing compounds
+    - key: varnishandfinishing
+      name: Varnish and finishing compounds
       type: miscgear
       system: {shortcode: varnishandfinishing, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

@@ -28,6 +28,25 @@ data:
     brow: arched
     extra_features: [a scar on the left ankle]
   packFolder: ankariskhazryndesert
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: rhgntl, model: armorgear-rhgntl, kind: armor}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: rhmntl, model: armorgear-rhmntl, kind: armor}
+    - key: metalcrafttools
+      name: "Metalcraft tools (chisels, files, engraving burins)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: decorativegemstones
+      name: Decorative gemstones (assorted)
+      kind: miscgear
+      system: {quantity: 20, weight: 1}
+    - {key: leatherapron, name: Leather apron for workshop, kind: miscgear, system: {weight: 1}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -74,26 +93,30 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-armorgear-rhgntl}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-rhmntl}
-    - name: Metalcraft tools (chisels, files, engraving burins)
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: rhgntl, model: sohl-sohl-armorgear-rhgntl}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: rhmntl, model: sohl-sohl-armorgear-rhmntl}
+    - key: metalcrafttools
+      name: Metalcraft tools (chisels, files, engraving burins)
       type: miscgear
       system: {shortcode: metalcrafttools, weight: 1.5, value: 100, durability: 3}
-    - name: Decorative gemstones (assorted)
+    - key: decorativegemstones
+      name: Decorative gemstones (assorted)
       type: miscgear
       system: {shortcode: decorativegemstones, quantity: 20, value: 50, weight: 1, durability: 3}
-    - name: Leather apron for workshop
+    - key: leatherapron
+      name: Leather apron for workshop
       type: miscgear
       system: {shortcode: leatherapron, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

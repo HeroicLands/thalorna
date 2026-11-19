@@ -28,6 +28,32 @@ data:
     face_shape: oval
     extra_features: [a scar on the left side of the neck]
   packFolder: regkhhk
+  items:
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - key: intricateglass
+      name: Intricate glass bottles (various sizes)
+      kind: miscgear
+      system: {quantity: 6, weight: 1}
+    - key: perfumesamples
+      name: Perfume samples (testing collection)
+      kind: miscgear
+      system: {quantity: 8, weight: 1}
+    - key: blendingtools
+      name: "Blending tools (mortar, pestle, measuring implements)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: rareingredients
+      name: Rare ingredients catalog (reference book)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: waxsealsandstoppers, name: Wax seals and stoppers, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -76,29 +102,34 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 51}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Intricate glass bottles (various sizes)
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: intricateglass
+      name: Intricate glass bottles (various sizes)
       type: miscgear
       system: {shortcode: intricateglass, quantity: 6, weight: 1, value: 100, durability: 3}
-    - name: Perfume samples (testing collection)
+    - key: perfumesamples
+      name: Perfume samples (testing collection)
       type: miscgear
       system: {shortcode: perfumesamples, quantity: 8, weight: 1, value: 100, durability: 3}
-    - name: Blending tools (mortar, pestle, measuring implements)
+    - key: blendingtools
+      name: Blending tools (mortar, pestle, measuring implements)
       type: miscgear
       system: {shortcode: blendingtools, weight: 1, value: 100, durability: 3}
-    - name: Rare ingredients catalog (reference book)
+    - key: rareingredients
+      name: Rare ingredients catalog (reference book)
       type: miscgear
       system: {shortcode: rareingredients, weight: 1, value: 100, durability: 3}
-    - name: Wax seals and stoppers
+    - key: waxsealsandstoppers
+      name: Wax seals and stoppers
       type: miscgear
       system: {shortcode: waxsealsandstoppers, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

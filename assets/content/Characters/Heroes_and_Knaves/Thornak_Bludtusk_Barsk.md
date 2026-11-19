@@ -33,6 +33,35 @@ data:
     facial_hair: long_beard
     extra_features: []
   packFolder: ankarisvrystwald
+  items:
+    - {key: spr, model: weapongear-spr, kind: weapon}
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: bvcloak, model: armorgear-bvcloak, kind: clothing}
+    - {key: bvcap, model: armorgear-bvcap, kind: clothing}
+    - key: furcloak
+      name: "Fur cloak (boar-hide, ritualistic)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: ritualisticbone
+      name: Ritualistic bone decorations and totems
+      kind: miscgear
+      system: {quantity: 2, weight: 1.5}
+    - key: huntingknife
+      name: Hunting knife (bone-handled)
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: driedgamemeat
+      name: Dried game meat and pemmican
+      kind: miscgear
+      system: {quantity: 3, weight: 1.5}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 4}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 17}}
@@ -83,30 +112,34 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-spr}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-bvcloak}
-    - {model: sohl-sohl-armorgear-bvcap}
-    - name: Fur cloak (boar-hide, ritualistic)
+    - {key: spr, model: sohl-sohl-weapongear-spr}
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: bvcloak, model: sohl-sohl-armorgear-bvcloak}
+    - {key: bvcap, model: sohl-sohl-armorgear-bvcap}
+    - key: furcloak
+      name: Fur cloak (boar-hide, ritualistic)
       type: miscgear
       system: {shortcode: furcloak, weight: 1.5, value: 100, durability: 3}
-    - name: Ritualistic bone decorations and totems
+    - key: ritualisticbone
+      name: Ritualistic bone decorations and totems
       type: miscgear
       system: {shortcode: ritualisticbone, quantity: 2, weight: 1.5, value: 100, durability: 3}
-    - name: Hunting knife (bone-handled)
+    - key: huntingknife
+      name: Hunting knife (bone-handled)
       type: miscgear
       system: {shortcode: huntingknife, weight: 1.5, value: 100, durability: 3}
-    - name: Dried game meat and pemmican
+    - key: driedgamemeat
+      name: Dried game meat and pemmican
       type: miscgear
       system: {shortcode: driedgamemeat, quantity: 3, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

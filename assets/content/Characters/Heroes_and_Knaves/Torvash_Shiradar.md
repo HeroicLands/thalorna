@@ -26,6 +26,21 @@ data:
     complexion: [weathered]
     extra_features: [a scar from forehead to cheek across the left eye]
   packFolder: dunharatribes
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltstunic, model: armorgear-ltstunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: bvmntl, model: armorgear-bvmntl, kind: clothing}
+    - {key: bvcap, model: armorgear-bvcap, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: tribalinsigni, name: Tribal insignia pendant, kind: miscgear, system: {weight: 1}}
+    - {key: warhorn, name: War horn (bone and copper), kind: miscgear, system: {weight: 1}}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear, system: {quantity: 2}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -71,24 +86,26 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltstunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-bvmntl}
-    - {model: sohl-sohl-armorgear-bvcap}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - name: Tribal insignia pendant
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltstunic, model: sohl-sohl-armorgear-ltstunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: bvmntl, model: sohl-sohl-armorgear-bvmntl}
+    - {key: bvcap, model: sohl-sohl-armorgear-bvcap}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - key: tribalinsigni
+      name: Tribal insignia pendant
       type: miscgear
       system: {shortcode: tribalinsigni, weight: 1, value: 100, durability: 3}
-    - name: War horn (bone and copper)
+    - key: warhorn
+      name: War horn (bone and copper)
       type: miscgear
       system: {shortcode: warhorn, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-liteblkt, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt, system: {quantity: 2}}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

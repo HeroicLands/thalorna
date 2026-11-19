@@ -34,6 +34,43 @@ data:
     mouth: full
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: scmtr, model: weapongear-scmtr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: slktunic, model: armorgear-slktunic, kind: clothing}
+    - {key: vbrch, model: armorgear-vbrch, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: vcap, model: armorgear-vcap, kind: clothing}
+    - {key: slkmntl, model: armorgear-slkmntl, kind: clothing}
+    - key: leatherboundjournal
+      name: Leather-bound journal of diplomatic notes
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: silkpouchofcosmetics
+      name: Silk pouch of cosmetics and oils
+      kind: miscgear
+      system: {weight: 1}
+    - key: goldembroidered
+      name: Gold-embroidered handkerchief
+      kind: miscgear
+      system: {weight: 0.2}
+    - key: setofluxuryinks
+      name: Set of luxury inks and quills
+      kind: miscgear
+      system: {weight: 1}
+    - key: smallharporoud
+      name: Small harp or oud (musical instrument)
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: perfumedsilkscarves
+      name: Perfumed silk scarves
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - {key: letters, name: Letters of introduction from court, kind: miscgear, system: {weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 50}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -80,38 +117,45 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-weapongear-scmtr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-slktunic}
-    - {model: sohl-sohl-armorgear-vbrch}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-armorgear-vcap}
-    - {model: sohl-sohl-armorgear-slkmntl}
-    - name: Leather-bound journal of diplomatic notes
+    - {key: scmtr, model: sohl-sohl-weapongear-scmtr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: slktunic, model: sohl-sohl-armorgear-slktunic}
+    - {key: vbrch, model: sohl-sohl-armorgear-vbrch}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: vcap, model: sohl-sohl-armorgear-vcap}
+    - {key: slkmntl, model: sohl-sohl-armorgear-slkmntl}
+    - key: leatherboundjournal
+      name: Leather-bound journal of diplomatic notes
       type: miscgear
       system: {shortcode: leatherboundjournal, weight: 0.8, value: 100, durability: 3}
-    - name: Silk pouch of cosmetics and oils
+    - key: silkpouchofcosmetics
+      name: Silk pouch of cosmetics and oils
       type: miscgear
       system: {shortcode: silkpouchofcosmetics, weight: 1, value: 100, durability: 3}
-    - name: Gold-embroidered handkerchief
+    - key: goldembroidered
+      name: Gold-embroidered handkerchief
       type: miscgear
       system: {shortcode: goldembroidered, weight: 0.2, value: 100, durability: 3}
-    - name: Set of luxury inks and quills
+    - key: setofluxuryinks
+      name: Set of luxury inks and quills
       type: miscgear
       system: {shortcode: setofluxuryinks, weight: 1, value: 100, durability: 3}
-    - name: Small harp or oud (musical instrument)
+    - key: smallharporoud
+      name: Small harp or oud (musical instrument)
       type: miscgear
       system: {shortcode: smallharporoud, weight: 1.5, value: 100, durability: 3}
-    - name: Perfumed silk scarves
+    - key: perfumedsilkscarves
+      name: Perfumed silk scarves
       type: miscgear
       system: {shortcode: perfumedsilkscarves, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Letters of introduction from court
+    - key: letters
+      name: Letters of introduction from court
       type: miscgear
       system: {shortcode: letters, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 50}}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 50}}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

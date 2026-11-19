@@ -28,6 +28,36 @@ data:
     nose: hooked
     extra_features: []
   packFolder: kingdomofamradad
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: jewelrymakingtools
+      name: Jewelry-making tools (set)
+      kind: miscgear
+      system: {weight: 2}
+    - key: polishingcloths
+      name: Polishing cloths and materials
+      kind: miscgear
+      system: {quantity: 3, weight: 1.5}
+    - key: gemsandsemiprecious
+      name: Gems and semi-precious stones (various)
+      kind: miscgear
+      system: {quantity: 5, weight: 1.5}
+    - {key: metalwrktl, model: miscgear-metalwrktl, kind: miscgear}
+    - key: designsketches
+      name: Design sketches (portfolio)
+      kind: miscgear
+      system: {quantity: 1, weight: 1.5}
+    - key: parchmentandcharcoal
+      name: Parchment and charcoal (drawing supplies)
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -73,30 +103,35 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 64}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Jewelry-making tools (set)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: jewelrymakingtools
+      name: Jewelry-making tools (set)
       type: miscgear
       system: {shortcode: jewelrymakingtools, weight: 2, value: 50, durability: 4}
-    - name: Polishing cloths and materials
+    - key: polishingcloths
+      name: Polishing cloths and materials
       type: miscgear
       system: {shortcode: polishingcloths, quantity: 3, weight: 1.5, value: 100, durability: 3}
-    - name: Gems and semi-precious stones (various)
+    - key: gemsandsemiprecious
+      name: Gems and semi-precious stones (various)
       type: miscgear
       system: {shortcode: gemsandsemiprecious, quantity: 5, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-metalwrktl}
-    - name: Design sketches (portfolio)
+    - {key: metalwrktl, model: sohl-sohl-miscgear-metalwrktl}
+    - key: designsketches
+      name: Design sketches (portfolio)
       type: miscgear
       system: {shortcode: designsketches, quantity: 1, weight: 1.5, value: 100, durability: 3}
-    - name: Parchment and charcoal (drawing supplies)
+    - key: parchmentandcharcoal
+      name: Parchment and charcoal (drawing supplies)
       type: miscgear
       system: {shortcode: parchmentandcharcoal, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

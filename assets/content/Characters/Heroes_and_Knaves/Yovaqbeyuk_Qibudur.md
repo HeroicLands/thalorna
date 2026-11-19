@@ -27,6 +27,32 @@ data:
     mouth: full
     extra_features: [a tattoo of a woman on the shoulder]
   packFolder: ankariskhazryndesert
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhkboot, model: armorgear-rhkboot, kind: armor}
+    - {key: rhmntl, model: armorgear-rhmntl, kind: armor}
+    - key: leatherharnesses
+      name: Leather harnesses and leads (assorted)
+      kind: miscgear
+      system: {quantity: 4, weight: 2}
+    - {key: rope, name: Rope (braided leather and hemp), kind: miscgear, system: {weight: 2}}
+    - key: animalfeed
+      name: Animal feed (grain and dried fodder)
+      kind: miscgear
+      system: {weight: 3}
+    - key: herbalremedies
+      name: Herbal remedies for animal wounds
+      kind: miscgear
+      system: {quantity: 4, weight: 1}
+    - key: trainingwhistle
+      name: Training whistle and animal calls
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -74,29 +100,34 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhkboot}
-    - {model: sohl-sohl-armorgear-rhmntl}
-    - name: Leather harnesses and leads (assorted)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhkboot, model: sohl-sohl-armorgear-rhkboot}
+    - {key: rhmntl, model: sohl-sohl-armorgear-rhmntl}
+    - key: leatherharnesses
+      name: Leather harnesses and leads (assorted)
       type: miscgear
       system: {shortcode: leatherharnesses, weight: 2, quantity: 4, value: 100, durability: 3}
-    - name: Rope (braided leather and hemp)
+    - key: rope
+      name: Rope (braided leather and hemp)
       type: miscgear
       system: {shortcode: rope, weight: 2, value: 100, durability: 3}
-    - name: Animal feed (grain and dried fodder)
+    - key: animalfeed
+      name: Animal feed (grain and dried fodder)
       type: miscgear
       system: {shortcode: animalfeed, weight: 3, value: 100, durability: 3}
-    - name: Herbal remedies for animal wounds
+    - key: herbalremedies
+      name: Herbal remedies for animal wounds
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 4, value: 3, weight: 1, durability: 3}
-    - name: Training whistle and animal calls
+    - key: trainingwhistle
+      name: Training whistle and animal calls
       type: miscgear
       system: {shortcode: trainingwhistle, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

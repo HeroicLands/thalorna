@@ -27,6 +27,39 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: starcharts
+      name: "Star charts (personal collection, extensive)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: astrological
+      name: "Astrological instruments (astrolabe, quadrant)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: sacredtextsofthoth
+      name: Sacred texts of Reth'Sa'ar (god of wisdom)
+      kind: miscgear
+      system: {weight: 1}
+    - key: parchmentandwriting
+      name: Parchment and writing materials
+      kind: miscgear
+      system: {weight: 1}
+    - key: ritualcomponents
+      name: "Ritual components (incense, offerings)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: prophecyscrolls
+      name: Prophecy scrolls (copies of readings)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 5}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,32 +109,38 @@ sohl:
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 64}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 64}}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Star charts (personal collection, extensive)
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: starcharts
+      name: Star charts (personal collection, extensive)
       type: miscgear
       system: {shortcode: starcharts, weight: 1, value: 100, durability: 3}
-    - name: Astrological instruments (astrolabe, quadrant)
+    - key: astrological
+      name: Astrological instruments (astrolabe, quadrant)
       type: miscgear
       system: {shortcode: astrological, weight: 1, value: 100, durability: 3}
-    - name: Sacred texts of Reth'Sa'ar (god of wisdom)
+    - key: sacredtextsofthoth
+      name: Sacred texts of Reth'Sa'ar (god of wisdom)
       type: miscgear
       system: {shortcode: sacredtextsofthoth, weight: 1, value: 100, durability: 3}
-    - name: Parchment and writing materials
+    - key: parchmentandwriting
+      name: Parchment and writing materials
       type: miscgear
       system: {shortcode: parchmentandwriting, weight: 1, value: 100, durability: 3}
-    - name: Ritual components (incense, offerings)
+    - key: ritualcomponents
+      name: Ritual components (incense, offerings)
       type: miscgear
       system: {shortcode: ritualcomponents, weight: 1, value: 100, durability: 3}
-    - name: Prophecy scrolls (copies of readings)
+    - key: prophecyscrolls
+      name: Prophecy scrolls (copies of readings)
       type: miscgear
       system: {shortcode: prophecyscrolls, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

@@ -28,6 +28,24 @@ data:
     mouth: wide
     extra_features: [a scar running down the right leg]
   packFolder: ankarisnordlands
+  items:
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: thatchingtools, name: Thatching tools (set), kind: miscgear, system: {weight: 1}}
+    - {key: twineandrope, name: Twine and rope, kind: miscgear, system: {quantity: 3, weight: 1}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - key: sketchesanddesign
+      name: Sketches and design notes
+      kind: miscgear
+      system: {weight: 1}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -77,28 +95,32 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - name: Thatching tools (set)
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - key: thatchingtools
+      name: Thatching tools (set)
       type: miscgear
       system: {shortcode: thatchingtools, weight: 1, value: 100, durability: 3}
-    - name: Twine and rope
+    - key: twineandrope
+      name: Twine and rope
       type: miscgear
       system: {shortcode: twineandrope, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - name: Sketches and design notes
+    - key: sketchesanddesign
+      name: Sketches and design notes
       type: miscgear
       system: {shortcode: sketchesanddesign, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-miscgear-stdrtns}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

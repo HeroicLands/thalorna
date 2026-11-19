@@ -34,6 +34,37 @@ data:
     mouth: full
     extra_features: []
   packFolder: dunharatribes
+  items:
+    - {key: lbw100, model: weapongear-lbw100, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: rhmntl, model: armorgear-rhmntl, kind: armor}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 20}}
+    - key: quiver
+      name: "Quiver (leather, desert-crafted)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: herbalremedies
+      name: Herbal remedies (desert plants)
+      kind: miscgear
+      system: {quantity: 4, weight: 1}
+    - key: trackingtools
+      name: Tracking tools (bone markers)
+      kind: miscgear
+      system: {quantity: 5, weight: 2}
+    - {key: watersk, name: "Waterskin (large, decorated)", kind: miscgear, system: {weight: 1.5}}
+    - key: desertrations
+      name: Desert rations (dried meat and dates)
+      kind: miscgear
+      system: {quantity: 1, weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: spiritualamulet
+      name: Spiritual amulet (bone and leather)
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -81,33 +112,39 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-lbw100}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-rhmntl}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 20}}
-    - name: Quiver (leather, desert-crafted)
+    - {key: lbw100, model: sohl-sohl-weapongear-lbw100}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: rhmntl, model: sohl-sohl-armorgear-rhmntl}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 20}}
+    - key: quiver
+      name: Quiver (leather, desert-crafted)
       type: miscgear
       system: {shortcode: quiver, weight: 1.5, value: 100, durability: 3}
-    - name: Herbal remedies (desert plants)
+    - key: herbalremedies
+      name: Herbal remedies (desert plants)
       type: miscgear
       system: {shortcode: herbalremedies, quantity: 4, value: 3, weight: 1, durability: 3}
-    - name: Tracking tools (bone markers)
+    - key: trackingtools
+      name: Tracking tools (bone markers)
       type: miscgear
       system: {shortcode: trackingtools, quantity: 5, weight: 2, value: 50, durability: 4}
-    - name: Waterskin (large, decorated)
+    - key: watersk
+      name: Waterskin (large, decorated)
       type: miscgear
       system: {shortcode: watersk, weight: 1.5, value: 100, durability: 3}
-    - name: Desert rations (dried meat and dates)
+    - key: desertrations
+      name: Desert rations (dried meat and dates)
       type: miscgear
       system: {shortcode: desertrations, quantity: 1, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Spiritual amulet (bone and leather)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: spiritualamulet
+      name: Spiritual amulet (bone and leather)
       type: miscgear
       system: {shortcode: spiritualamulet, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

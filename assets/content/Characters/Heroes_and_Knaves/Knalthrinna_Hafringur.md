@@ -29,6 +29,37 @@ data:
     mouth: small
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: wcboot, model: armorgear-wcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - key: canvasdelivery
+      name: Canvas delivery manifest satchel
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: wagonrepairtools
+      name: "Wagon repair tools (hammers, nails, rope)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: horsegroomingkit
+      name: Horse grooming kit and bridle care supplies
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: routemapsandschedule
+      name: Route maps and schedule ledgers
+      kind: miscgear
+      system: {weight: 1}
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
+      kind: miscgear
+      system: {weight: 1}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -75,31 +106,36 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-wcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Canvas delivery manifest satchel
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: wcboot, model: sohl-sohl-armorgear-wcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: canvasdelivery
+      name: Canvas delivery manifest satchel
       type: miscgear
       system: {shortcode: canvasdelivery, weight: 0.5, value: 100, durability: 3}
-    - name: Wagon repair tools (hammers, nails, rope)
+    - key: wagonrepairtools
+      name: Wagon repair tools (hammers, nails, rope)
       type: miscgear
       system: {shortcode: wagonrepairtools, weight: 1.5, value: 100, durability: 3}
-    - name: Horse grooming kit and bridle care supplies
+    - key: horsegroomingkit
+      name: Horse grooming kit and bridle care supplies
       type: miscgear
       system: {shortcode: horsegroomingkit, weight: 0.8, value: 100, durability: 3}
-    - name: Route maps and schedule ledgers
+    - key: routemapsandschedule
+      name: Route maps and schedule ledgers
       type: miscgear
       system: {shortcode: routemapsandschedule, weight: 1, value: 100, durability: 3}
-    - name: Whetstone for blade maintenance
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

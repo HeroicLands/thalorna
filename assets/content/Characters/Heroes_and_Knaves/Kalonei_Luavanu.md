@@ -29,6 +29,39 @@ data:
     mouth: full
     extra_features: []
   packFolder: heroesandknaveskalihara
+  items:
+    - {key: hcht, model: weapongear-hcht, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - key: burlapsacks
+      name: Burlap sacks (charcoal transport)
+      kind: miscgear
+      system: {quantity: 4, weight: 1}
+    - key: kilntools
+      name: "Kiln tools (rake, poker, spade)"
+      kind: miscgear
+      system: {weight: 2}
+    - key: firestartingflint
+      name: Fire-starting flint and steel
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - key: woodsamples
+      name: "Wood samples (oak, cedar, pine)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: clothforfiltering
+      name: Cloth for filtering charcoal dust
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -73,35 +106,41 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-hcht}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-hscap}
-    - name: Burlap sacks (charcoal transport)
+    - {key: hcht, model: sohl-sohl-weapongear-hcht}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - key: burlapsacks
+      name: Burlap sacks (charcoal transport)
       type: miscgear
       system: {shortcode: burlapsacks, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Kiln tools (rake, poker, spade)
+    - key: kilntools
+      name: Kiln tools (rake, poker, spade)
       type: miscgear
       system: {shortcode: kilntools, weight: 2, value: 100, durability: 3}
-    - name: Fire-starting flint and steel
+    - key: firestartingflint
+      name: Fire-starting flint and steel
       type: miscgear
       system: {shortcode: firestartingflint, weight: 0.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - name: Wood samples (oak, cedar, pine)
+    - key: woodsamples
+      name: Wood samples (oak, cedar, pine)
       type: miscgear
       system: {shortcode: woodsamples, weight: 1, value: 100, durability: 3}
-    - name: Cloth for filtering charcoal dust
+    - key: clothforfiltering
+      name: Cloth for filtering charcoal dust
       type: miscgear
       system: {shortcode: clothforfiltering, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - {model: sohl-sohl-containergear-bktlrg}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

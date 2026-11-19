@@ -32,6 +32,33 @@ data:
     mouth: full
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: lkni, model: weapongear-lkni, kind: weapon}
+    - {key: rhapr, model: armorgear-rhapr, kind: armor}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - key: leatherbookkeeping
+      name: Leather bookkeeping ledger for inn
+      kind: miscgear
+      system: {weight: 1}
+    - key: brewingsupplies
+      name: "Brewing supplies (herbs, spices, seeds)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: measuringcups, name: Measuring cups and scales, kind: miscgear, system: {weight: 0.8}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: samplebottles
+      name: Sample bottles of various ales
+      kind: miscgear
+      system: {quantity: 4, weight: 1.5}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 35}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: cookingtools, name: Cooking tools, kind: miscgear, system: {weight: 2}}
+    - {key: servingdishes, name: Serving dishes, kind: miscgear, system: {weight: 1.5}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -80,35 +107,42 @@ sohl:
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-lkni}
-    - {model: sohl-sohl-armorgear-rhapr}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-hscap}
-    - name: Leather bookkeeping ledger for inn
+    - {key: lkni, model: sohl-sohl-weapongear-lkni}
+    - {key: rhapr, model: sohl-sohl-armorgear-rhapr}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - key: leatherbookkeeping
+      name: Leather bookkeeping ledger for inn
       type: miscgear
       system: {shortcode: leatherbookkeeping, weight: 1, value: 200, durability: 3}
-    - name: Brewing supplies (herbs, spices, seeds)
+    - key: brewingsupplies
+      name: Brewing supplies (herbs, spices, seeds)
       type: miscgear
       system: {shortcode: brewingsupplies, weight: 1.5, value: 100, durability: 3}
-    - name: Measuring cups and scales
+    - key: measuringcups
+      name: Measuring cups and scales
       type: miscgear
       system: {shortcode: measuringcups, weight: 0.8, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Sample bottles of various ales
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: samplebottles
+      name: Sample bottles of various ales
       type: miscgear
       system: {shortcode: samplebottles, quantity: 4, weight: 1.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 35}}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Cooking tools
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 35}}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: cookingtools
+      name: Cooking tools
       type: miscgear
       system: {shortcode: cookingtools, weight: 2, value: 50, durability: 4}
-    - name: Serving dishes
+    - key: servingdishes
+      name: Serving dishes
       type: miscgear
       system: {shortcode: servingdishes, weight: 1.5, value: 100, durability: 3}
   system:

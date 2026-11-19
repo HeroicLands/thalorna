@@ -29,6 +29,29 @@ data:
     brow: arched
     extra_features: [a tattoo of a dragonfly on the neck]
   packFolder: regkhhk
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgbrch, model: armorgear-sgbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: sgclk, model: armorgear-sgclk, kind: clothing}
+    - {key: vcap, model: armorgear-vcap, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - key: silkpouchformakeup
+      name: Silk pouch for makeup and cosmetics
+      kind: miscgear
+      system: {weight: 0.3}
+    - {key: stagepropcollection, name: Stage prop collection, kind: miscgear, system: {weight: 1}}
+    - key: scripts
+      name: Scripts and performance notes
+      kind: miscgear
+      system: {quantity: 1, weight: 1}
+    - key: mirrorwithornate
+      name: Mirror with ornate frame
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -71,27 +94,31 @@ sohl:
     - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-sgbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-sgclk}
-    - {model: sohl-sohl-armorgear-vcap}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Silk pouch for makeup and cosmetics
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: sgbrch, model: sohl-sohl-armorgear-sgbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: sgclk, model: sohl-sohl-armorgear-sgclk}
+    - {key: vcap, model: sohl-sohl-armorgear-vcap}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: silkpouchformakeup
+      name: Silk pouch for makeup and cosmetics
       type: miscgear
       system: {shortcode: silkpouchformakeup, weight: 0.3, value: 100, durability: 3}
-    - name: Stage prop collection
+    - key: stagepropcollection
+      name: Stage prop collection
       type: miscgear
       system: {shortcode: stagepropcollection, weight: 1, value: 100, durability: 3}
-    - name: Scripts and performance notes
+    - key: scripts
+      name: Scripts and performance notes
       type: miscgear
       system: {shortcode: scripts, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Mirror with ornate frame
+    - key: mirrorwithornate
+      name: Mirror with ornate frame
       type: miscgear
       system: {shortcode: mirrorwithornate, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

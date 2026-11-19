@@ -28,6 +28,38 @@ data:
     face_shape: long
     extra_features: [a tattoo of a crown on the chest]
   packFolder: aureldiaelavendre
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: ltshirt, model: armorgear-ltshirt, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: bvcloak, model: armorgear-bvcloak, kind: clothing}
+    - {key: bvcap, model: armorgear-bvcap, kind: clothing}
+    - key: leatherritualsatchel
+      name: Leather ritual satchel
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: bundleofmedicinal
+      name: Bundle of medicinal herbs (dried)
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: handdrum
+      name: "Hand drum (deer hide, carved wood)"
+      kind: miscgear
+      system: {weight: 0.7}
+    - key: setofcarvedbone
+      name: Set of carved bone and wooden totems
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: smallcarvedfetish
+      name: Small carved fetish (personal spiritual item)
+      kind: miscgear
+      system: {weight: 0.2}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 5}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container, system: {quantity: 1}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin-2, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -73,32 +105,37 @@ sohl:
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-mysticalability-trnc, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-ltshirt}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-armorgear-bvcloak}
-    - {model: sohl-sohl-armorgear-bvcap}
-    - name: Leather ritual satchel
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: ltshirt, model: sohl-sohl-armorgear-ltshirt}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: bvcloak, model: sohl-sohl-armorgear-bvcloak}
+    - {key: bvcap, model: sohl-sohl-armorgear-bvcap}
+    - key: leatherritualsatchel
+      name: Leather ritual satchel
       type: miscgear
       system: {shortcode: leatherritualsatchel, weight: 1.5, value: 100, durability: 3}
-    - name: Bundle of medicinal herbs (dried)
+    - key: bundleofmedicinal
+      name: Bundle of medicinal herbs (dried)
       type: miscgear
       system: {shortcode: bundleofmedicinal, weight: 0.8, value: 100, durability: 3}
-    - name: Hand drum (deer hide, carved wood)
+    - key: handdrum
+      name: Hand drum (deer hide, carved wood)
       type: miscgear
       system: {shortcode: handdrum, weight: 0.7, value: 100, durability: 3}
-    - name: Set of carved bone and wooden totems
+    - key: setofcarvedbone
+      name: Set of carved bone and wooden totems
       type: miscgear
       system: {shortcode: setofcarvedbone, weight: 0.5, value: 100, durability: 3}
-    - name: Small carved fetish (personal spiritual item)
+    - key: smallcarvedfetish
+      name: Small carved fetish (personal spiritual item)
       type: miscgear
       system: {shortcode: smallcarvedfetish, weight: 0.2, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
-    - {model: sohl-sohl-containergear-wtrskin, system: {quantity: 1}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin, system: {shortcode: wtrskin2}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 5}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin, system: {quantity: 1}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin-2, model: sohl-sohl-containergear-wtrskin, system: {shortcode: wtrskin2}}
   system:
     body:
       structure:

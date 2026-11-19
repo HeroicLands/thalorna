@@ -27,6 +27,35 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: aureldiaelavendre
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: scrollcase
+      name: Scroll case with astrological charts
+      kind: miscgear
+      system: {weight: 0.4}
+    - {key: brasssurveyors, name: Brass surveyor's compass, kind: miscgear, system: {weight: 1}}
+    - key: starmaps
+      name: "Star maps (portable, rolled)"
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: nauticalalmanac, name: Nautical almanac, kind: miscgear, system: {weight: 1}}
+    - key: tarotdeckanddivining
+      name: Tarot deck and divining cards
+      kind: miscgear
+      system: {weight: 1}
+    - key: astronomical
+      name: Astronomical calculator and tables
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -75,34 +104,40 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-mysticalability-tarot, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Scroll case with astrological charts
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: scrollcase
+      name: Scroll case with astrological charts
       type: miscgear
       system: {shortcode: scrollcase, weight: 0.4, value: 100, durability: 3}
-    - name: Brass surveyor's compass
+    - key: brasssurveyors
+      name: Brass surveyor's compass
       type: miscgear
       system: {shortcode: brasssurveyors, weight: 1, value: 100, durability: 3}
-    - name: Star maps (portable, rolled)
+    - key: starmaps
+      name: Star maps (portable, rolled)
       type: miscgear
       system: {shortcode: starmaps, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Nautical almanac
+    - key: nauticalalmanac
+      name: Nautical almanac
       type: miscgear
       system: {shortcode: nauticalalmanac, weight: 1, value: 100, durability: 3}
-    - name: Tarot deck and divining cards
+    - key: tarotdeckanddivining
+      name: Tarot deck and divining cards
       type: miscgear
       system: {shortcode: tarotdeckanddivining, weight: 1, value: 100, durability: 3}
-    - name: Astronomical calculator and tables
+    - key: astronomical
+      name: Astronomical calculator and tables
       type: miscgear
       system: {shortcode: astronomical, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

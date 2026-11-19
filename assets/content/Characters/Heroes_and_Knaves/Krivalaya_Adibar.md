@@ -26,6 +26,22 @@ data:
     complexion: [clear]
     extra_features: [A thin scar across the bridge of the nose from a snapped bowstring]
   packFolder: ankarisvedyara
+  items:
+    - {key: lbw100, model: weapongear-lbw100, kind: weapon}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile}
+    - {key: quiversmsh, model: containergear-quiversmsh, kind: container}
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: wmntl, model: armorgear-wmntl, kind: clothing}
+    - {key: letterofcredit, model: miscgear-letterofcredit, kind: miscgear}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: scalesweig, model: miscgear-scalesweig, kind: miscgear}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -70,21 +86,21 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 20}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 50}}
-    - {model: sohl-sohl-weapongear-lbw100}
-    - {model: sohl-sohl-projectilegear-arwstd}
-    - {model: sohl-sohl-containergear-quiversmsh}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-wmntl}
-    - {model: miscgear-letterofcredit}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: sohl-sohl-miscgear-scalesweig}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: lbw100, model: sohl-sohl-weapongear-lbw100}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd}
+    - {key: quiversmsh, model: sohl-sohl-containergear-quiversmsh}
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: wmntl, model: sohl-sohl-armorgear-wmntl}
+    - {key: letterofcredit, model: miscgear-letterofcredit}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: scalesweig, model: sohl-sohl-miscgear-scalesweig}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

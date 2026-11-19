@@ -26,6 +26,37 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkdress, model: armorgear-slkdress, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: vhat, model: armorgear-vhat, kind: clothing}
+    - {key: vglv, model: armorgear-vglv, kind: clothing}
+    - key: silkpurse
+      name: "Silk purse (ornate, hand-embroidered)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: jewelry
+      name: "Jewelry (earrings, bangles, multiple pieces)"
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - key: perfumedoils
+      name: Perfumed oils and incense
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: sitarorv
+      name: Sitar or vina (stringed instrument)
+      kind: miscgear
+      system: {weight: 1.2}
+    - key: cosmeticpreparations
+      name: "Cosmetic preparations (kohl, henna, rouge)"
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: silkscarves
+      name: Silk scarves (various colors)
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -69,30 +100,36 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkdress}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - {model: sohl-sohl-armorgear-vhat}
-    - {model: sohl-sohl-armorgear-vglv}
-    - name: Silk purse (ornate, hand-embroidered)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkdress, model: sohl-sohl-armorgear-slkdress}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - {key: vhat, model: sohl-sohl-armorgear-vhat}
+    - {key: vglv, model: sohl-sohl-armorgear-vglv}
+    - key: silkpurse
+      name: Silk purse (ornate, hand-embroidered)
       type: miscgear
       system: {shortcode: silkpurse, weight: 1, value: 100, durability: 3}
-    - name: Jewelry (earrings, bangles, multiple pieces)
+    - key: jewelry
+      name: Jewelry (earrings, bangles, multiple pieces)
       type: miscgear
       system: {shortcode: jewelry, quantity: 3, value: 15, weight: 1, durability: 3}
-    - name: Perfumed oils and incense
+    - key: perfumedoils
+      name: Perfumed oils and incense
       type: miscgear
       system: {shortcode: perfumedoils, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Sitar or vina (stringed instrument)
+    - key: sitarorv
+      name: Sitar or vina (stringed instrument)
       type: miscgear
       system: {shortcode: sitarorv, weight: 1.2, value: 100, durability: 3}
-    - name: Cosmetic preparations (kohl, henna, rouge)
+    - key: cosmeticpreparations
+      name: Cosmetic preparations (kohl, henna, rouge)
       type: miscgear
       system: {shortcode: cosmeticpreparations, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Silk scarves (various colors)
+    - key: silkscarves
+      name: Silk scarves (various colors)
       type: miscgear
       system: {shortcode: silkscarves, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

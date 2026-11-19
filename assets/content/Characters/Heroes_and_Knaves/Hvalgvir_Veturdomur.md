@@ -28,6 +28,31 @@ data:
     brow: straight
     extra_features: [a tattoo of a snake on the chest]
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - key: woodencask
+      name: Wooden cask (for ale storage and service)
+      kind: miscgear
+      system: {weight: 2}
+    - key: cookingandbrewing
+      name: Cooking and brewing supplies
+      kind: miscgear
+      system: {quantity: 1, weight: 1.5}
+    - key: innkeepersledger
+      name: Innkeeper's ledger (guest records)
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: measuringvessels
+      name: Measuring vessels and cups
+      kind: miscgear
+      system: {quantity: 6, weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -73,26 +98,30 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wclk}
-    - name: Wooden cask (for ale storage and service)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - key: woodencask
+      name: Wooden cask (for ale storage and service)
       type: miscgear
       system: {shortcode: woodencask, weight: 2, value: 100, durability: 3}
-    - name: Cooking and brewing supplies
+    - key: cookingandbrewing
+      name: Cooking and brewing supplies
       type: miscgear
       system: {shortcode: cookingandbrewing, weight: 1.5, quantity: 1, value: 100, durability: 3}
-    - name: Innkeeper's ledger (guest records)
+    - key: innkeepersledger
+      name: Innkeeper's ledger (guest records)
       type: miscgear
       system: {shortcode: innkeepersledger, weight: 0.5, value: 2, durability: 3}
-    - name: Measuring vessels and cups
+    - key: measuringvessels
+      name: Measuring vessels and cups
       type: miscgear
       system: {shortcode: measuringvessels, quantity: 6, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

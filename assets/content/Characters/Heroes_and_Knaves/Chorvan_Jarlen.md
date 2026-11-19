@@ -32,6 +32,33 @@ data:
     mouth: full
     extra_features: []
   packFolder: aureldiaprovenzia
+  items:
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - key: equinegroomingtools
+      name: "Equine grooming tools (brushes, curry comb, hoof pick)"
+      kind: miscgear
+      system: {weight: 2}
+    - key: veterinarysupplies
+      name: Veterinary supplies for horse care
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: horsefeedbags
+      name: "Horse feed bags (canvas, multiple)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: firstaidkitforequine
+      name: First aid kit for equine injuries
+      kind: miscgear
+      system: {weight: 3}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -80,28 +107,32 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wclk}
-    - name: Equine grooming tools (brushes, curry comb, hoof pick)
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - key: equinegroomingtools
+      name: Equine grooming tools (brushes, curry comb, hoof pick)
       type: miscgear
       system: {shortcode: equinegroomingtools, weight: 2, value: 50, durability: 4}
-    - name: Veterinary supplies for horse care
+    - key: veterinarysupplies
+      name: Veterinary supplies for horse care
       type: miscgear
       system: {shortcode: veterinarysupplies, weight: 1.5, value: 100, durability: 3}
-    - name: Horse feed bags (canvas, multiple)
+    - key: horsefeedbags
+      name: Horse feed bags (canvas, multiple)
       type: miscgear
       system: {shortcode: horsefeedbags, weight: 1, value: 20, durability: 3}
-    - name: First aid kit for equine injuries
+    - key: firstaidkitforequine
+      name: First aid kit for equine injuries
       type: miscgear
       system: {shortcode: firstaidkitforequine, weight: 3, value: 100, durability: 4}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

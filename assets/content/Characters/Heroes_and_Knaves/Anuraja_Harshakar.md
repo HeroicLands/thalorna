@@ -28,6 +28,26 @@ data:
     mouth: full
     extra_features: [a tattoo of a tiger on the forearm]
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon, system: {quantity: 2}}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltstunic, model: armorgear-ltstunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: lockpicks
+      name: Lockpicks and specialized tools
+      kind: miscgear
+      system: {weight: 0.3}
+    - key: poisons
+      name: Poisons (assorted compounds)
+      kind: miscgear
+      system: {quantity: 4, weight: 1}
+    - {key: grphook, model: miscgear-grphook, kind: miscgear}
+    - {key: climbinggloves, name: Climbing gloves (leather), kind: miscgear, system: {weight: 1}}
+    - {key: garottewire, name: Garotte wire (concealed), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -75,27 +95,31 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 36}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-dgr, system: {quantity: 2}}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltstunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Lockpicks and specialized tools
+    - {key: dgr, model: sohl-sohl-weapongear-dgr, system: {quantity: 2}}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltstunic, model: sohl-sohl-armorgear-ltstunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: lockpicks
+      name: Lockpicks and specialized tools
       type: miscgear
       system: {shortcode: lockpicks, weight: 0.3, value: 5, durability: 3}
-    - name: Poisons (assorted compounds)
+    - key: poisons
+      name: Poisons (assorted compounds)
       type: miscgear
       system: {shortcode: poisons, quantity: 4, value: 10, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-grphook}
-    - name: Climbing gloves (leather)
+    - {key: grphook, model: sohl-sohl-miscgear-grphook}
+    - key: climbinggloves
+      name: Climbing gloves (leather)
       type: miscgear
       system: {shortcode: climbinggloves, weight: 1, value: 100, durability: 3}
-    - name: Garotte wire (concealed)
+    - key: garottewire
+      name: Garotte wire (concealed)
       type: miscgear
       system: {shortcode: garottewire, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

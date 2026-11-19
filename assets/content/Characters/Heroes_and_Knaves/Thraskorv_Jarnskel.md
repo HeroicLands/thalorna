@@ -28,6 +28,29 @@ data:
     nose: narrow
     extra_features: [a scar on the right cheek]
   packFolder: ankarisnordlands
+  items:
+    - {key: stk, model: weapongear-stk, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: hstunic-2, model: armorgear-hstunic, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - key: woodenshovel
+      name: Wooden shovel (farming tool)
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: handcarvedcharm
+      name: Hand-carved charm (blessed)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: roughrope, name: Rough rope (coil), kind: miscgear, system: {weight: 1}}
+    - key: wovensackforsupplies
+      name: Woven sack for supplies
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -80,27 +103,31 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-stk}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-hstunic, system: {shortcode: HsTunic2}}
-    - {model: sohl-sohl-armorgear-hscap}
-    - name: Wooden shovel (farming tool)
+    - {key: stk, model: sohl-sohl-weapongear-stk}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: hstunic-2, model: sohl-sohl-armorgear-hstunic, system: {shortcode: HsTunic2}}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - key: woodenshovel
+      name: Wooden shovel (farming tool)
       type: miscgear
       system: {shortcode: woodenshovel, weight: 0.8, value: 100, durability: 3}
-    - name: Hand-carved charm (blessed)
+    - key: handcarvedcharm
+      name: Hand-carved charm (blessed)
       type: miscgear
       system: {shortcode: handcarvedcharm, weight: 1, value: 100, durability: 3}
-    - name: Rough rope (coil)
+    - key: roughrope
+      name: Rough rope (coil)
       type: miscgear
       system: {shortcode: roughrope, weight: 1, value: 100, durability: 3}
-    - name: Woven sack for supplies
+    - key: wovensackforsupplies
+      name: Woven sack for supplies
       type: miscgear
       system: {shortcode: wovensackforsupplies, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 2}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

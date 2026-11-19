@@ -28,6 +28,10 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: midhalionvylaria
+  items:
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -75,9 +79,9 @@ sohl:
     - {model: sohl-sohl-mysticalability-runecft, system: {masteryLevelBase: 117}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-mysticalability-astr, system: {masteryLevelBase: 44}}
-    - {model: sohl-sohl-armorgear-lrobe}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

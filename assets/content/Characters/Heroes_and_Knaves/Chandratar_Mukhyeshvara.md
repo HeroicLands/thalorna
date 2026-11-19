@@ -26,6 +26,25 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: leathersatchel
+      name: Leather satchel with herbal samples
+      kind: miscgear
+      system: {weight: 1}
+    - {key: mortarandpestle, name: Mortar and pestle, kind: miscgear, system: {weight: 1.5}}
+    - key: glassvialsforpotions
+      name: Glass vials for potions
+      kind: miscgear
+      system: {quantity: 12, weight: 1.5}
+    - {key: herbalmanuscripts, name: Herbal manuscripts, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -75,18 +94,21 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-sgtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Leather satchel with herbal samples
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: sgtrsr, model: sohl-sohl-armorgear-sgtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: leathersatchel
+      name: Leather satchel with herbal samples
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1, value: 100, durability: 3}
-    - name: Mortar and pestle
+    - key: mortarandpestle
+      name: Mortar and pestle
       type: miscgear
       system: {shortcode: mortarandpestle, weight: 1.5, value: 100, durability: 3}
-    - name: Glass vials for potions
+    - key: glassvialsforpotions
+      name: Glass vials for potions
       type: miscgear
       system:
         shortcode: glassvialsforpotions
@@ -94,12 +116,13 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - name: Herbal manuscripts
+    - key: herbalmanuscripts
+      name: Herbal manuscripts
       type: miscgear
       system: {shortcode: herbalmanuscripts, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

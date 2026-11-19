@@ -29,6 +29,35 @@ data:
     mouth: full
     extra_features: [a scar on the lower abdomen]
   packFolder: kingdomofamradad
+  items:
+    - {key: scmtr, model: weapongear-scmtr, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: navigatorslogbook
+      name: Navigator's logbook (personal records)
+      kind: miscgear
+      system: {weight: 1}
+    - key: collectionofrutters
+      name: Collection of rutters (navigation charts)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: compass, name: "Compass (brass, well-maintained)", kind: miscgear, system: {weight: 1}}
+    - {key: astrolabe, name: "Astrolabe (brass, personal)", kind: miscgear, system: {weight: 1}}
+    - key: measuringinstruments
+      name: "Measuring instruments (sextant, scale)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: ropeandline
+      name: Rope and line (navigation quality)
+      kind: miscgear
+      system: {weight: 1}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 5}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -77,34 +106,40 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-weapongear-scmtr}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Navigator's logbook (personal records)
+    - {key: scmtr, model: sohl-sohl-weapongear-scmtr}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: navigatorslogbook
+      name: Navigator's logbook (personal records)
       type: miscgear
       system: {shortcode: navigatorslogbook, weight: 1, value: 100, durability: 3}
-    - name: Collection of rutters (navigation charts)
+    - key: collectionofrutters
+      name: Collection of rutters (navigation charts)
       type: miscgear
       system: {shortcode: collectionofrutters, weight: 1, value: 100, durability: 3}
-    - name: Compass (brass, well-maintained)
+    - key: compass
+      name: Compass (brass, well-maintained)
       type: miscgear
       system: {shortcode: compass, weight: 1, value: 100, durability: 3}
-    - name: Astrolabe (brass, personal)
+    - key: astrolabe
+      name: Astrolabe (brass, personal)
       type: miscgear
       system: {shortcode: astrolabe, weight: 1, value: 100, durability: 3}
-    - name: Measuring instruments (sextant, scale)
+    - key: measuringinstruments
+      name: Measuring instruments (sextant, scale)
       type: miscgear
       system: {shortcode: measuringinstruments, weight: 1, value: 100, durability: 3}
-    - name: Rope and line (navigation quality)
+    - key: ropeandline
+      name: Rope and line (navigation quality)
       type: miscgear
       system: {shortcode: ropeandline, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 5}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

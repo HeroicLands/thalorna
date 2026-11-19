@@ -21,6 +21,15 @@ data:
   frame: medium
   appearance: {eye_color: dark_brown, hair_color: black, skin_color: golden, complexion: [clear]}
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wcoat, model: armorgear-wcoat, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: letterofcredit, model: miscgear-letterofcredit, kind: miscgear}
+    - {key: scalesweig, model: miscgear-scalesweig, kind: miscgear}
+    - {key: waxtablet, model: miscgear-waxtablet, kind: miscgear}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: satchltmd, model: containergear-satchltmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -60,14 +69,14 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wcoat}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: miscgear-letterofcredit}
-    - {model: sohl-sohl-miscgear-scalesweig}
-    - {model: sohl-sohl-miscgear-waxtablet}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: sohl-sohl-containergear-satchltmd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wcoat, model: sohl-sohl-armorgear-wcoat}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: letterofcredit, model: miscgear-letterofcredit}
+    - {key: scalesweig, model: sohl-sohl-miscgear-scalesweig}
+    - {key: waxtablet, model: sohl-sohl-miscgear-waxtablet}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: satchltmd, model: sohl-sohl-containergear-satchltmd}
   system:
     body:
       structure:

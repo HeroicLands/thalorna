@@ -28,6 +28,26 @@ data:
     nose: aquiline
     extra_features: [a tattoo of a serpent on the back]
   packFolder: helladbyzaria
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: knsh, model: weapongear-knsh, kind: weapon}
+    - {key: plbreast, model: armorgear-plbreast, kind: armor}
+    - {key: plgrvs, model: armorgear-plgrvs, kind: armor}
+    - {key: plkncp, model: armorgear-plkncp, kind: armor}
+    - {key: plspld, model: armorgear-plspld, kind: armor}
+    - {key: plvamb, model: armorgear-plvamb, kind: armor}
+    - {key: pl34hlm, model: armorgear-pl34hlm, kind: armor}
+    - key: healingpoultices
+      name: Healing poultices (field dressings)
+      kind: miscgear
+      system: {quantity: 6, weight: 1}
+    - {key: hvybdrl, model: miscgear-hvybdrl, kind: miscgear}
+    - {key: hvyblkt, model: miscgear-hvyblkt, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: personalseal, name: Personal seal and insignia, kind: miscgear, system: {weight: 1}}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -75,26 +95,28 @@ sohl:
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-knsh}
-    - {model: sohl-sohl-armorgear-plbreast}
-    - {model: sohl-sohl-armorgear-plgrvs}
-    - {model: sohl-sohl-armorgear-plkncp}
-    - {model: sohl-sohl-armorgear-plspld}
-    - {model: sohl-sohl-armorgear-plvamb}
-    - {model: sohl-sohl-armorgear-pl34hlm}
-    - name: Healing poultices (field dressings)
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: knsh, model: sohl-sohl-weapongear-knsh}
+    - {key: plbreast, model: sohl-sohl-armorgear-plbreast}
+    - {key: plgrvs, model: sohl-sohl-armorgear-plgrvs}
+    - {key: plkncp, model: sohl-sohl-armorgear-plkncp}
+    - {key: plspld, model: sohl-sohl-armorgear-plspld}
+    - {key: plvamb, model: sohl-sohl-armorgear-plvamb}
+    - {key: pl34hlm, model: sohl-sohl-armorgear-pl34hlm}
+    - key: healingpoultices
+      name: Healing poultices (field dressings)
       type: miscgear
       system: {shortcode: healingpoultices, quantity: 6, value: 4, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-hvybdrl}
-    - {model: sohl-sohl-miscgear-hvyblkt}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Personal seal and insignia
+    - {key: hvybdrl, model: sohl-sohl-miscgear-hvybdrl}
+    - {key: hvyblkt, model: sohl-sohl-miscgear-hvyblkt}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: personalseal
+      name: Personal seal and insignia
       type: miscgear
       system: {shortcode: personalseal, value: 2, weight: 1, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

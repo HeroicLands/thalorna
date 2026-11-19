@@ -28,6 +28,28 @@ data:
     nose: hooked
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: lkni, model: weapongear-lkni, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltstunic, model: armorgear-ltstunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - key: snaresandhunting
+      name: Snares and hunting traps
+      kind: miscgear
+      system: {quantity: 6, weight: 1}
+    - key: driedmeat
+      name: Dried meat and provisions
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: flintandstriker, name: Flint and striker, kind: miscgear, system: {weight: 1}}
+    - {key: ropeandcord, name: Rope and cord, kind: miscgear, system: {quantity: 2, weight: 1}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -74,29 +96,33 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-lkni}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltstunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - name: Snares and hunting traps
+    - {key: lkni, model: sohl-sohl-weapongear-lkni}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltstunic, model: sohl-sohl-armorgear-ltstunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - key: snaresandhunting
+      name: Snares and hunting traps
       type: miscgear
       system: {shortcode: snaresandhunting, quantity: 6, weight: 1, value: 100, durability: 3}
-    - name: Dried meat and provisions
+    - key: driedmeat
+      name: Dried meat and provisions
       type: miscgear
       system: {shortcode: driedmeat, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Flint and striker
+    - key: flintandstriker
+      name: Flint and striker
       type: miscgear
       system: {shortcode: flintandstriker, weight: 1, value: 100, durability: 3}
-    - name: Rope and cord
+    - key: ropeandcord
+      name: Rope and cord
       type: miscgear
       system: {shortcode: ropeandcord, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

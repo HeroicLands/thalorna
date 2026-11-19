@@ -27,6 +27,40 @@ data:
     complexion: []
     extra_features: [a tattoo of a wolf on the shoulder]
   packFolder: aureldiatarvenia
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - key: woodencrateforglass
+      name: Wooden crate for glass supplies and tools
+      kind: miscgear
+      system: {weight: 2}
+    - key: glasscutters
+      name: Glass cutters and scoring tools
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: coloredglasspieces
+      name: Colored glass pieces (assorted)
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: metalframesandleads
+      name: Metal frames and leads for window assembly
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: glasspolishing
+      name: Glass polishing and smoothing tools
+      kind: miscgear
+      system: {weight: 1}
+    - key: furnacematerials
+      name: Furnace materials and fusing supplies
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -73,33 +107,39 @@ sohl:
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Wooden crate for glass supplies and tools
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: woodencrateforglass
+      name: Wooden crate for glass supplies and tools
       type: miscgear
       system: {shortcode: woodencrateforglass, weight: 2, value: 100, durability: 3}
-    - name: Glass cutters and scoring tools
+    - key: glasscutters
+      name: Glass cutters and scoring tools
       type: miscgear
       system: {shortcode: glasscutters, weight: 0.5, value: 100, durability: 3}
-    - name: Colored glass pieces (assorted)
+    - key: coloredglasspieces
+      name: Colored glass pieces (assorted)
       type: miscgear
       system: {shortcode: coloredglasspieces, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Metal frames and leads for window assembly
+    - key: metalframesandleads
+      name: Metal frames and leads for window assembly
       type: miscgear
       system: {shortcode: metalframesandleads, weight: 0.8, value: 100, durability: 3}
-    - name: Glass polishing and smoothing tools
+    - key: glasspolishing
+      name: Glass polishing and smoothing tools
       type: miscgear
       system: {shortcode: glasspolishing, weight: 1, value: 100, durability: 3}
-    - name: Furnace materials and fusing supplies
+    - key: furnacematerials
+      name: Furnace materials and fusing supplies
       type: miscgear
       system: {shortcode: furnacematerials, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

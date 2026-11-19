@@ -27,6 +27,28 @@ data:
     facial_hair: full_beard
     extra_features: [limp, mustache, beard]
   packFolder: midhalionvylaria
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: crobe, model: armorgear-crobe, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: cmntl, model: armorgear-cmntl, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 342}}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear}
+    - key: walkingstick
+      name: "Walking stick (blackthorn, well-worn)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: cipherdocuments
+      name: Cipher documents (encoded intelligence)
+      kind: miscgear
+      system: {weight: 1}
+    - key: vylarianfamilyseal
+      name: Vilérian family seal ring
+      kind: miscgear
+      system: {weight: 1}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -72,24 +94,27 @@ sohl:
     - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 50}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 16}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-crobe}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-cmntl}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 342}}
-    - {model: sohl-sohl-miscgear-gldcrwn}
-    - name: Walking stick (blackthorn, well-worn)
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: crobe, model: sohl-sohl-armorgear-crobe}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: cmntl, model: sohl-sohl-armorgear-cmntl}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 342}}
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn}
+    - key: walkingstick
+      name: Walking stick (blackthorn, well-worn)
       type: miscgear
       system: {shortcode: walkingstick, weight: 1, value: 100, durability: 3}
-    - name: Cipher documents (encoded intelligence)
+    - key: cipherdocuments
+      name: Cipher documents (encoded intelligence)
       type: miscgear
       system: {shortcode: cipherdocuments, weight: 1, value: 100, durability: 3}
-    - name: Vilérian family seal ring
+    - key: vylarianfamilyseal
+      name: Vilérian family seal ring
       type: miscgear
       system: {shortcode: vylarianfamilyseal, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

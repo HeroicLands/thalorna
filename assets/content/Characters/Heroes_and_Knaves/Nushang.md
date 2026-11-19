@@ -27,6 +27,19 @@ data:
     hair_style: braided
     face_shape: broad
   packFolder: ankarisvedyara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: wdress, model: armorgear-wdress, kind: clothing}
+    - {key: bvcloak, model: armorgear-bvcloak, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: bvcap, model: armorgear-bvcap, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: guidecord, model: miscgear-guidecord, kind: miscgear}
+    - {key: hvyblkt, model: miscgear-hvyblkt, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -69,18 +82,18 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-wdress}
-    - {model: sohl-sohl-armorgear-bvcloak}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-bvcap}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: miscgear-guidecord}
-    - {model: sohl-sohl-miscgear-hvyblkt}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: wdress, model: sohl-sohl-armorgear-wdress}
+    - {key: bvcloak, model: sohl-sohl-armorgear-bvcloak}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: bvcap, model: sohl-sohl-armorgear-bvcap}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: guidecord, model: miscgear-guidecord}
+    - {key: hvyblkt, model: sohl-sohl-miscgear-hvyblkt}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

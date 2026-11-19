@@ -31,6 +31,18 @@ data:
     complexion: [weathered]
     extra_features: []
   packFolder: midhalionvylaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, name: "Concealed leather vest", kind: clothing}
+    - {key: wdress, model: armorgear-wdress, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - key: sealedletters
+      name: Sealed letters of credit and forged passes
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear, system: {quantity: 60}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -66,16 +78,17 @@ sohl:
     - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltvest, name: Concealed leather vest}
-    - {model: sohl-sohl-armorgear-wdress}
-    - {model: sohl-sohl-armorgear-wclk}
-    - name: Sealed letters of credit and forged passes
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest, name: Concealed leather vest}
+    - {key: wdress, model: sohl-sohl-armorgear-wdress}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - key: sealedletters
+      name: Sealed letters of credit and forged passes
       type: miscgear
       system: {shortcode: sealedletters, weight: 0.5, value: 200, durability: 2}
-    - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 60}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 60}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

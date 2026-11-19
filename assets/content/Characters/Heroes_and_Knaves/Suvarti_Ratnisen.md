@@ -26,6 +26,32 @@ data:
     complexion: [scarred]
     extra_features: [a scar running down the right leg]
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - key: woodencratefortoy
+      name: Wooden crate for toy supplies and materials
+      kind: miscgear
+      system: {weight: 2.2}
+    - key: carving
+      name: "Carving and woodworking tools (chisels, gouges, knives)"
+      kind: miscgear
+      system: {weight: 0.7}
+    - key: paintbrushesandpaint
+      name: Paintbrushes and paint pigments
+      kind: miscgear
+      system: {quantity: 2, weight: 1.5}
+    - key: woodenblocks
+      name: "Wooden blocks (assorted sizes, blanks for carving)"
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - {key: ceramicpaints, name: Ceramic paints and glazes, kind: miscgear, system: {weight: 1.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -74,18 +100,21 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Wooden crate for toy supplies and materials
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: woodencratefortoy
+      name: Wooden crate for toy supplies and materials
       type: miscgear
       system: {shortcode: woodencratefortoy, weight: 2.2, value: 100, durability: 3}
-    - name: Carving and woodworking tools (chisels, gouges, knives)
+    - key: carving
+      name: Carving and woodworking tools (chisels, gouges, knives)
       type: miscgear
       system: {shortcode: carving, weight: 0.7, value: 50, durability: 4}
-    - name: Paintbrushes and paint pigments
+    - key: paintbrushesandpaint
+      name: Paintbrushes and paint pigments
       type: miscgear
       system:
         shortcode: paintbrushesandpaint
@@ -93,15 +122,17 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - name: Wooden blocks (assorted sizes, blanks for carving)
+    - key: woodenblocks
+      name: Wooden blocks (assorted sizes, blanks for carving)
       type: miscgear
       system: {shortcode: woodenblocks, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Ceramic paints and glazes
+    - key: ceramicpaints
+      name: Ceramic paints and glazes
       type: miscgear
       system: {shortcode: ceramicpaints, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

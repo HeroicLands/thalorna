@@ -28,6 +28,36 @@ data:
     nose: hooked
     extra_features: []
   packFolder: kingdomofamradad
+  items:
+    - {key: clb, model: weapongear-clb, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: wagonrepairtools
+      name: Wagon repair tools and spare parts
+      kind: miscgear
+      system: {weight: 1}
+    - key: ropeandheavycord
+      name: Rope and heavy cord
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: animalfeed
+      name: Animal feed (grain)
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - key: leatherharnesses
+      name: Leather harnesses and tack
+      kind: miscgear
+      system: {weight: 1}
+    - key: whetstones
+      name: Whetstones and maintenance tools
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -78,30 +108,35 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-clb}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Wagon repair tools and spare parts
+    - {key: clb, model: sohl-sohl-weapongear-clb}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: wagonrepairtools
+      name: Wagon repair tools and spare parts
       type: miscgear
       system: {shortcode: wagonrepairtools, weight: 1, value: 100, durability: 3}
-    - name: Rope and heavy cord
+    - key: ropeandheavycord
+      name: Rope and heavy cord
       type: miscgear
       system: {shortcode: ropeandheavycord, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Animal feed (grain)
+    - key: animalfeed
+      name: Animal feed (grain)
       type: miscgear
       system: {shortcode: animalfeed, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Leather harnesses and tack
+    - key: leatherharnesses
+      name: Leather harnesses and tack
       type: miscgear
       system: {shortcode: leatherharnesses, weight: 1, value: 100, durability: 3}
-    - name: Whetstones and maintenance tools
+    - key: whetstones
+      name: Whetstones and maintenance tools
       type: miscgear
       system: {shortcode: whetstones, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

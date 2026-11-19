@@ -27,6 +27,36 @@ data:
     face_shape: oval
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: ltbrcr, model: armorgear-ltbrcr, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: tanningsolutions
+      name: Tanning solutions and chemical compounds
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - key: decorativedyes
+      name: Decorative dyes (powders and prepared solutions)
+      kind: miscgear
+      system: {quantity: 6, weight: 1}
+    - key: sewingandembroidery
+      name: Sewing and embroidery kit
+      kind: miscgear
+      system: {weight: 1}
+    - key: leatherworkingtools
+      name: Leather-working tools (set)
+      kind: miscgear
+      system: {weight: 1}
+    - key: designsketches
+      name: Design sketches and pattern references
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -74,30 +104,35 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 39}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-ltbrcr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Tanning solutions and chemical compounds
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: ltbrcr, model: sohl-sohl-armorgear-ltbrcr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: tanningsolutions
+      name: Tanning solutions and chemical compounds
       type: miscgear
       system: {shortcode: tanningsolutions, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Decorative dyes (powders and prepared solutions)
+    - key: decorativedyes
+      name: Decorative dyes (powders and prepared solutions)
       type: miscgear
       system: {shortcode: decorativedyes, quantity: 6, weight: 1, value: 100, durability: 3}
-    - name: Sewing and embroidery kit
+    - key: sewingandembroidery
+      name: Sewing and embroidery kit
       type: miscgear
       system: {shortcode: sewingandembroidery, weight: 1, value: 100, durability: 3}
-    - name: Leather-working tools (set)
+    - key: leatherworkingtools
+      name: Leather-working tools (set)
       type: miscgear
       system: {shortcode: leatherworkingtools, weight: 1, value: 100, durability: 3}
-    - name: Design sketches and pattern references
+    - key: designsketches
+      name: Design sketches and pattern references
       type: miscgear
       system: {shortcode: designsketches, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

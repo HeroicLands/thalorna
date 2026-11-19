@@ -28,6 +28,32 @@ data:
     brow: arched
     extra_features: [a tattoo of a knight's helmet on the shoulder]
   packFolder: regkhhk
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: wbrch, model: armorgear-wbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - key: locksmithtools
+      name: "Locksmith tools (picks, tension wrenches, feeler gauges)"
+      kind: miscgear
+      system: {weight: 0.6}
+    - key: templatesforlock
+      name: Templates for lock designs (parchment)
+      kind: miscgear
+      system: {weight: 1}
+    - key: legalcontracts
+      name: Legal contracts and guild permits
+      kind: miscgear
+      system: {weight: 1}
+    - key: measuringcalipers
+      name: Measuring calipers and rulers
+      kind: miscgear
+      system: {weight: 0.3}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -76,27 +102,31 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 56}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-wbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Locksmith tools (picks, tension wrenches, feeler gauges)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: wbrch, model: sohl-sohl-armorgear-wbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: locksmithtools
+      name: Locksmith tools (picks, tension wrenches, feeler gauges)
       type: miscgear
       system: {shortcode: locksmithtools, weight: 0.6, value: 100, durability: 3}
-    - name: Templates for lock designs (parchment)
+    - key: templatesforlock
+      name: Templates for lock designs (parchment)
       type: miscgear
       system: {shortcode: templatesforlock, weight: 1, value: 100, durability: 3}
-    - name: Legal contracts and guild permits
+    - key: legalcontracts
+      name: Legal contracts and guild permits
       type: miscgear
       system: {shortcode: legalcontracts, weight: 1, value: 100, durability: 3}
-    - name: Measuring calipers and rulers
+    - key: measuringcalipers
+      name: Measuring calipers and rulers
       type: miscgear
       system: {shortcode: measuringcalipers, weight: 0.3, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

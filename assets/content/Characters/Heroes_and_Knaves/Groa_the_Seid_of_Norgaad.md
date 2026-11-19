@@ -33,6 +33,37 @@ data:
     nose: narrow
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhmntl, model: armorgear-rhmntl, kind: armor}
+    - {key: rhshoe, model: armorgear-rhshoe, kind: armor}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 3}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - key: bonerunes
+      name: Bone runes for divination (carved set)
+      kind: miscgear
+      system: {weight: 1}
+    - key: ritualbellsandcharms
+      name: Ritual bells and charms
+      kind: miscgear
+      system: {weight: 0.3}
+    - key: herbalbundleforsmoke
+      name: Herbal bundle for smoke-calling
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: offeringbowl, name: Offering bowl (pewter), kind: miscgear, system: {weight: 1}}
+    - key: leatherjournal
+      name: Leather journal of visions and omens
+      kind: miscgear
+      system: {weight: 1}
+    - key: crowfeathers
+      name: Crow feathers (collected tokens)
+      kind: miscgear
+      system: {quantity: 7, weight: 1}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -76,33 +107,39 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-mysticalability-trnc, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhmntl}
-    - {model: sohl-sohl-armorgear-rhshoe}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Bone runes for divination (carved set)
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhmntl, model: sohl-sohl-armorgear-rhmntl}
+    - {key: rhshoe, model: sohl-sohl-armorgear-rhshoe}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 3}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: bonerunes
+      name: Bone runes for divination (carved set)
       type: miscgear
       system: {shortcode: bonerunes, weight: 1, value: 100, durability: 3}
-    - name: Ritual bells and charms
+    - key: ritualbellsandcharms
+      name: Ritual bells and charms
       type: miscgear
       system: {shortcode: ritualbellsandcharms, weight: 0.3, value: 100, durability: 3}
-    - name: Herbal bundle for smoke-calling
+    - key: herbalbundleforsmoke
+      name: Herbal bundle for smoke-calling
       type: miscgear
       system: {shortcode: herbalbundleforsmoke, weight: 0.5, value: 100, durability: 3}
-    - name: Offering bowl (pewter)
+    - key: offeringbowl
+      name: Offering bowl (pewter)
       type: miscgear
       system: {shortcode: offeringbowl, weight: 1, value: 100, durability: 3}
-    - name: Leather journal of visions and omens
+    - key: leatherjournal
+      name: Leather journal of visions and omens
       type: miscgear
       system: {shortcode: leatherjournal, weight: 1, value: 100, durability: 3}
-    - name: Crow feathers (collected tokens)
+    - key: crowfeathers
+      name: Crow feathers (collected tokens)
       type: miscgear
       system: {shortcode: crowfeathers, quantity: 7, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

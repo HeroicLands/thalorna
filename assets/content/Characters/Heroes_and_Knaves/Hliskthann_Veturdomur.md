@@ -28,6 +28,28 @@ data:
     nose: upturned
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: hcht, model: weapongear-hcht, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: rhgntl, model: armorgear-rhgntl, kind: armor}
+    - {key: thatchingknife, name: Thatching knife and combs, kind: miscgear, system: {weight: 1}}
+    - key: setofspecialized
+      name: Set of specialized thatching tools
+      kind: miscgear
+      system: {weight: 1}
+    - key: ropeandbindingtwine
+      name: Rope and binding twine
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: bundlesofstraw
+      name: Bundles of straw and reeds
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -76,26 +98,30 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-hcht}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-rhgntl}
-    - name: Thatching knife and combs
+    - {key: hcht, model: sohl-sohl-weapongear-hcht}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: rhgntl, model: sohl-sohl-armorgear-rhgntl}
+    - key: thatchingknife
+      name: Thatching knife and combs
       type: miscgear
       system: {shortcode: thatchingknife, weight: 1, value: 100, durability: 3}
-    - name: Set of specialized thatching tools
+    - key: setofspecialized
+      name: Set of specialized thatching tools
       type: miscgear
       system: {shortcode: setofspecialized, weight: 1, value: 100, durability: 3}
-    - name: Rope and binding twine
+    - key: ropeandbindingtwine
+      name: Rope and binding twine
       type: miscgear
       system: {shortcode: ropeandbindingtwine, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Bundles of straw and reeds
+    - key: bundlesofstraw
+      name: Bundles of straw and reeds
       type: miscgear
       system: {shortcode: bundlesofstraw, quantity: 3, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

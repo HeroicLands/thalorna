@@ -27,6 +27,16 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: midhalionvylaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: surgkit, model: miscgear-surgkit, kind: miscgear}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 233}}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear, system: {quantity: 3}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -71,15 +81,15 @@ sohl:
     - {model: sohl-sohl-mysticalability-alch, system: {masteryLevelBase: 74}}
     - {model: sohl-sohl-skill-herb, system: {masteryLevelBase: 77}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-surgkit}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 233}}
-    - {model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 3}}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: surgkit, model: sohl-sohl-miscgear-surgkit}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 233}}
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn, system: {quantity: 3}}
   system:
     body:
       structure:

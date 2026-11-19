@@ -28,6 +28,40 @@ data:
     mouth: small
     extra_features: [a tattoo of a fire on the leg]
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: rhapr, model: armorgear-rhapr, kind: armor}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - key: woodenchest
+      name: Wooden chest for storing fabric and supplies
+      kind: miscgear
+      system: {weight: 2}
+    - key: sewingtools
+      name: "Sewing tools (needles, thread spools, scissors)"
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: canvasrolls
+      name: Canvas rolls (sample materials)
+      kind: miscgear
+      system: {weight: 2}
+    - key: leatherthimbles
+      name: Leather thimbles and hand protectors
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - key: whetstoneforblade
+      name: Whetstone for blade sharpening
+      kind: miscgear
+      system: {weight: 1}
+    - key: measuringtape
+      name: Measuring tape and marking chalk
+      kind: miscgear
+      system: {weight: 1}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -77,33 +111,39 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-rhapr}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Wooden chest for storing fabric and supplies
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: rhapr, model: sohl-sohl-armorgear-rhapr}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: woodenchest
+      name: Wooden chest for storing fabric and supplies
       type: miscgear
       system: {shortcode: woodenchest, weight: 2, value: 100, durability: 3}
-    - name: Sewing tools (needles, thread spools, scissors)
+    - key: sewingtools
+      name: Sewing tools (needles, thread spools, scissors)
       type: miscgear
       system: {shortcode: sewingtools, weight: 0.8, value: 100, durability: 3}
-    - name: Canvas rolls (sample materials)
+    - key: canvasrolls
+      name: Canvas rolls (sample materials)
       type: miscgear
       system: {shortcode: canvasrolls, weight: 2, value: 100, durability: 3}
-    - name: Leather thimbles and hand protectors
+    - key: leatherthimbles
+      name: Leather thimbles and hand protectors
       type: miscgear
       system: {shortcode: leatherthimbles, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Whetstone for blade sharpening
+    - key: whetstoneforblade
+      name: Whetstone for blade sharpening
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1, value: 100, durability: 3}
-    - name: Measuring tape and marking chalk
+    - key: measuringtape
+      name: Measuring tape and marking chalk
       type: miscgear
       system: {shortcode: measuringtape, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

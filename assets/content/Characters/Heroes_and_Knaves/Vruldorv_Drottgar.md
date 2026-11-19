@@ -28,6 +28,24 @@ data:
     nose: upturned
     extra_features: [a scar on the left shoulder]
   packFolder: ankarisnordlands
+  items:
+    - {key: stlmce, model: weapongear-stlmce, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: mshirt, model: armorgear-mshirt, kind: armor}
+    - {key: ltrsr, model: armorgear-ltrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 3}}
+    - key: navigationtools
+      name: "Navigation tools (compass, maps)"
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -77,24 +95,26 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-mill, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-weapongear-stlmce}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-mshirt}
-    - {model: sohl-sohl-armorgear-ltrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
-    - name: Navigation tools (compass, maps)
+    - {key: stlmce, model: sohl-sohl-weapongear-stlmce}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: mshirt, model: sohl-sohl-armorgear-mshirt}
+    - {key: ltrsr, model: sohl-sohl-armorgear-ltrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
+    - key: navigationtools
+      name: Navigation tools (compass, maps)
       type: miscgear
       system: {shortcode: navigationtools, weight: 0.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

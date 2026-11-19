@@ -29,6 +29,34 @@ data:
     mouth: wide
     extra_features: []
   packFolder: aureldiatarvenia
+  items:
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ltrsr, model: armorgear-ltrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: officialleather
+      name: Official leather satchel for documents
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: bureaucraticledger
+      name: Bureaucratic ledger and record book
+      kind: miscgear
+      system: {weight: 1}
+    - key: writingquills
+      name: Writing quills (supply of 12)
+      kind: miscgear
+      system: {quantity: 12, weight: 1}
+    - key: sealingwax
+      name: Sealing wax and official seal ring
+      kind: miscgear
+      system: {weight: 0.2}
+    - {key: inkbottle, name: Ink bottle (ceremonial black), kind: miscgear, system: {weight: 1}}
+    - key: readingspectacles
+      name: Reading spectacles with case
+      kind: miscgear
+      system: {weight: 1}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 1}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -79,30 +107,36 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 10}}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ltrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Official leather satchel for documents
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ltrsr, model: sohl-sohl-armorgear-ltrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: officialleather
+      name: Official leather satchel for documents
       type: miscgear
       system: {shortcode: officialleather, weight: 0.5, value: 100, durability: 3}
-    - name: Bureaucratic ledger and record book
+    - key: bureaucraticledger
+      name: Bureaucratic ledger and record book
       type: miscgear
       system: {shortcode: bureaucraticledger, weight: 1, value: 100, durability: 3}
-    - name: Writing quills (supply of 12)
+    - key: writingquills
+      name: Writing quills (supply of 12)
       type: miscgear
       system: {shortcode: writingquills, quantity: 12, weight: 1, value: 100, durability: 3}
-    - name: Sealing wax and official seal ring
+    - key: sealingwax
+      name: Sealing wax and official seal ring
       type: miscgear
       system: {shortcode: sealingwax, weight: 0.2, value: 100, durability: 3}
-    - name: Ink bottle (ceremonial black)
+    - key: inkbottle
+      name: Ink bottle (ceremonial black)
       type: miscgear
       system: {shortcode: inkbottle, weight: 1, value: 100, durability: 3}
-    - name: Reading spectacles with case
+    - key: readingspectacles
+      name: Reading spectacles with case
       type: miscgear
       system: {shortcode: readingspectacles, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 1}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 1}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

@@ -31,6 +31,31 @@ data:
     mouth: full
     extra_features: []
   packFolder: aureldiaprovenzia
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltstunic, model: armorgear-ltstunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 4}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: firstaidkit
+      name: "First aid kit (salves, poultices, bandages)"
+      kind: miscgear
+      system: {weight: 0.6}
+    - key: survivalkit
+      name: "Survival kit (rope, grappling tools, climbing gear)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
+      kind: miscgear
+      system: {weight: 1}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -76,27 +101,30 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltstunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: First aid kit (salves, poultices, bandages)
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltstunic, model: sohl-sohl-armorgear-ltstunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: firstaidkit
+      name: First aid kit (salves, poultices, bandages)
       type: miscgear
       system: {shortcode: firstaidkit, weight: 0.6, value: 100, durability: 3}
-    - name: Survival kit (rope, grappling tools, climbing gear)
+    - key: survivalkit
+      name: Survival kit (rope, grappling tools, climbing gear)
       type: miscgear
       system: {shortcode: survivalkit, weight: 1.5, value: 100, durability: 3}
-    - name: Whetstone for blade maintenance
+    - key: whetstoneforblade
+      name: Whetstone for blade maintenance
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

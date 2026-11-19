@@ -26,6 +26,14 @@ data:
     complexion: [clear]
     extra_features: [A white beard cut square, Rasikara's gray ash-mark on his brow at the feasts]
   packFolder: ankarisvedyara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lrobe, model: armorgear-lrobe, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: monsooncloak, model: miscgear-monsooncloak, kind: miscgear}
+    - {key: bookbase, model: miscgear-bookbase, kind: miscgear}
+    - {key: ashmarkstamp, model: miscgear-ashmarkstamp, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -69,13 +77,13 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 45}}
     - {model: skill-rasikara, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lrobe}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: miscgear-monsooncloak}
-    - {model: sohl-sohl-miscgear-bookbase}
-    - {model: miscgear-ashmarkstamp}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lrobe, model: sohl-sohl-armorgear-lrobe}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: monsooncloak, model: miscgear-monsooncloak}
+    - {key: bookbase, model: sohl-sohl-miscgear-bookbase}
+    - {key: ashmarkstamp, model: miscgear-ashmarkstamp}
   system:
     body:
       structure:

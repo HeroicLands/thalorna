@@ -27,6 +27,28 @@ data:
     hair_style: braided
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: hcht, model: weapongear-hcht, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - {key: hsclk, model: armorgear-hsclk, kind: clothing}
+    - key: thatchingtools
+      name: "Thatching tools (knife, pricker, needle set)"
+      kind: miscgear
+      system: {weight: 1}
+    - {key: coilofstrongtwine, name: Coil of strong twine, kind: miscgear, system: {weight: 0.5}}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 0.5}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: flaskofmead, name: Flask of mead, kind: miscgear, system: {quantity: 1, weight: 1}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: ladder, name: Ladder, kind: miscgear, system: {weight: 1}}
+    - {key: bundlesofstraw, name: Bundles of straw, kind: miscgear, system: {weight: 1}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -75,34 +97,40 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-weapongear-hcht}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-hscap}
-    - {model: sohl-sohl-armorgear-hsclk}
-    - name: Thatching tools (knife, pricker, needle set)
+    - {key: hcht, model: sohl-sohl-weapongear-hcht}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - {key: hsclk, model: sohl-sohl-armorgear-hsclk}
+    - key: thatchingtools
+      name: Thatching tools (knife, pricker, needle set)
       type: miscgear
       system: {shortcode: thatchingtools, weight: 1, value: 100, durability: 3}
-    - name: Coil of strong twine
+    - key: coilofstrongtwine
+      name: Coil of strong twine
       type: miscgear
       system: {shortcode: coilofstrongtwine, weight: 0.5, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - name: Flask of mead
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - key: flaskofmead
+      name: Flask of mead
       type: miscgear
       system: {shortcode: flaskofmead, quantity: 1, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bktlrg}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - name: Ladder
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - key: ladder
+      name: Ladder
       type: miscgear
       system: {shortcode: ladder, weight: 1, value: 100, durability: 3}
-    - name: Bundles of straw
+    - key: bundlesofstraw
+      name: Bundles of straw
       type: miscgear
       system: {shortcode: bundlesofstraw, weight: 1, value: 100, durability: 3}
   system:

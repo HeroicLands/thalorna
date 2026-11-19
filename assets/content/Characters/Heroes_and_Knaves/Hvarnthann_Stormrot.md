@@ -29,6 +29,25 @@ data:
     mouth: small
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wtunic, model: armorgear-wtunic, kind: clothing}
+    - {key: lnbrch, model: armorgear-lnbrch, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: rope, name: Rope (coil), kind: miscgear, system: {quantity: 2, weight: 1}}
+    - key: navigationtools
+      name: "Navigation tools (compass, sextant)"
+      kind: miscgear
+      system: {weight: 0.3}
+    - {key: fishinggearandhooks, name: Fishing gear and hooks, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 4}}
+    - {key: fishingnet, name: "Fishing net (compact, rolled)", kind: miscgear, system: {weight: 1}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -77,29 +96,33 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wtunic}
-    - {model: sohl-sohl-armorgear-lnbrch}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Rope (coil)
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wtunic, model: sohl-sohl-armorgear-wtunic}
+    - {key: lnbrch, model: sohl-sohl-armorgear-lnbrch}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: rope
+      name: Rope (coil)
       type: miscgear
       system: {shortcode: rope, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Navigation tools (compass, sextant)
+    - key: navigationtools
+      name: Navigation tools (compass, sextant)
       type: miscgear
       system: {shortcode: navigationtools, weight: 0.3, value: 100, durability: 3}
-    - name: Fishing gear and hooks
+    - key: fishinggearandhooks
+      name: Fishing gear and hooks
       type: miscgear
       system: {shortcode: fishinggearandhooks, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
-    - name: Fishing net (compact, rolled)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - key: fishingnet
+      name: Fishing net (compact, rolled)
       type: miscgear
       system: {shortcode: fishingnet, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

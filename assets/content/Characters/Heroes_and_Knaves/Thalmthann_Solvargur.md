@@ -28,6 +28,23 @@ data:
     nose: straight
     extra_features: [a scar on the chin]
   packFolder: ankarisnordlands
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: ltshirt, model: armorgear-ltshirt, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: glassblowingpipe, name: Glassblowing pipe, kind: miscgear, system: {weight: 1}}
+    - key: woodentoolbox
+      name: Wooden toolbox with molds and tools
+      kind: miscgear
+      system: {weight: 3}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: clothforpolishing, name: Cloth for polishing, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -78,27 +95,31 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-armorgear-ltshirt}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Glassblowing pipe
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: ltshirt, model: sohl-sohl-armorgear-ltshirt}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: glassblowingpipe
+      name: Glassblowing pipe
       type: miscgear
       system: {shortcode: glassblowingpipe, weight: 1, value: 100, durability: 3}
-    - name: Wooden toolbox with molds and tools
+    - key: woodentoolbox
+      name: Wooden toolbox with molds and tools
       type: miscgear
       system: {shortcode: woodentoolbox, weight: 3, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - name: Cloth for polishing
+    - key: clothforpolishing
+      name: Cloth for polishing
       type: miscgear
       system: {shortcode: clothforpolishing, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

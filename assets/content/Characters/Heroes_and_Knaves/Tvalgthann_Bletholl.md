@@ -30,6 +30,29 @@ data:
     mouth: small
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: vtunic, model: armorgear-vtunic, kind: clothing}
+    - {key: vbrch, model: armorgear-vbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: vcap, model: armorgear-vcap, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - key: satchelforjestprops
+      name: Satchel for jest props
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: musicalinstruments
+      name: "Musical instruments (pipes, bells, lute)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: jugglingballs, name: Juggling balls, kind: miscgear, system: {quantity: 1, weight: 1}}
+    - key: collectionofwritten
+      name: Collection of written jests and jokes
+      kind: miscgear
+      system: {weight: 0.3}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,27 +99,31 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 68}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 16}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-vtunic}
-    - {model: sohl-sohl-armorgear-vbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-vcap}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Satchel for jest props
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: vtunic, model: sohl-sohl-armorgear-vtunic}
+    - {key: vbrch, model: sohl-sohl-armorgear-vbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: vcap, model: sohl-sohl-armorgear-vcap}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: satchelforjestprops
+      name: Satchel for jest props
       type: miscgear
       system: {shortcode: satchelforjestprops, weight: 0.5, value: 100, durability: 3}
-    - name: Musical instruments (pipes, bells, lute)
+    - key: musicalinstruments
+      name: Musical instruments (pipes, bells, lute)
       type: miscgear
       system: {shortcode: musicalinstruments, weight: 1.5, value: 100, durability: 3}
-    - name: Juggling balls
+    - key: jugglingballs
+      name: Juggling balls
       type: miscgear
       system: {shortcode: jugglingballs, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Collection of written jests and jokes
+    - key: collectionofwritten
+      name: Collection of written jests and jokes
       type: miscgear
       system: {shortcode: collectionofwritten, weight: 0.3, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

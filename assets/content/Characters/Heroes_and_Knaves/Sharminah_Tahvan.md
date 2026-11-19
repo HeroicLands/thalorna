@@ -27,6 +27,35 @@ data:
     mouth: full
     extra_features: []
   packFolder: ankariskhazryndesert
+  items:
+    - {key: wfl, model: weapongear-wfl, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: scui, model: armorgear-scui, kind: armor}
+    - {key: sleg, model: armorgear-sleg, kind: armor}
+    - {key: sgntl, model: armorgear-sgntl, kind: armor}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: satchelforritual
+      name: Satchel for ritual tools and sacred texts
+      kind: miscgear
+      system: {weight: 2}
+    - key: fireincense
+      name: Fire incense (bundle)
+      kind: miscgear
+      system: {quantity: 3, weight: 1.5}
+    - key: ceremonialofferings
+      name: Ceremonial offerings for rituals
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: prayerbeads
+      name: Prayer beads of the Sacred Flame
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -74,30 +103,34 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-mysticalability-summ, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-wfl}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-scui}
-    - {model: sohl-sohl-armorgear-sleg}
-    - {model: sohl-sohl-armorgear-sgntl}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Satchel for ritual tools and sacred texts
+    - {key: wfl, model: sohl-sohl-weapongear-wfl}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: scui, model: sohl-sohl-armorgear-scui}
+    - {key: sleg, model: sohl-sohl-armorgear-sleg}
+    - {key: sgntl, model: sohl-sohl-armorgear-sgntl}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: satchelforritual
+      name: Satchel for ritual tools and sacred texts
       type: miscgear
       system: {shortcode: satchelforritual, weight: 2, value: 50, durability: 4}
-    - name: Fire incense (bundle)
+    - key: fireincense
+      name: Fire incense (bundle)
       type: miscgear
       system: {shortcode: fireincense, quantity: 3, weight: 1.5, value: 100, durability: 3}
-    - name: Ceremonial offerings for rituals
+    - key: ceremonialofferings
+      name: Ceremonial offerings for rituals
       type: miscgear
       system: {shortcode: ceremonialofferings, weight: 1.5, value: 100, durability: 3}
-    - name: Prayer beads of the Sacred Flame
+    - key: prayerbeads
+      name: Prayer beads of the Sacred Flame
       type: miscgear
       system: {shortcode: prayerbeads, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -28,6 +28,27 @@ data:
     nose: narrow
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wcoat, model: armorgear-wcoat, kind: clothing}
+    - {key: lnbrch, model: armorgear-lnbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - key: needleandthread
+      name: Needle and thread (multiple types)
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - key: fabricdyes
+      name: Fabric dyes (powdered)
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: smallportableloom, name: Small portable loom, kind: miscgear, system: {weight: 1.2}}
+    - {key: clothswatches, name: Cloth swatches and samples, kind: miscgear, system: {weight: 1}}
+    - {key: measuringtape, name: Measuring tape and shears, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -76,30 +97,35 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 65}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wcoat}
-    - {model: sohl-sohl-armorgear-lnbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-wcap}
-    - name: Needle and thread (multiple types)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wcoat, model: sohl-sohl-armorgear-wcoat}
+    - {key: lnbrch, model: sohl-sohl-armorgear-lnbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - key: needleandthread
+      name: Needle and thread (multiple types)
       type: miscgear
       system: {shortcode: needleandthread, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Fabric dyes (powdered)
+    - key: fabricdyes
+      name: Fabric dyes (powdered)
       type: miscgear
       system: {shortcode: fabricdyes, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Small portable loom
+    - key: smallportableloom
+      name: Small portable loom
       type: miscgear
       system: {shortcode: smallportableloom, weight: 1.2, value: 100, durability: 3}
-    - name: Cloth swatches and samples
+    - key: clothswatches
+      name: Cloth swatches and samples
       type: miscgear
       system: {shortcode: clothswatches, weight: 1, value: 100, durability: 3}
-    - name: Measuring tape and shears
+    - key: measuringtape
+      name: Measuring tape and shears
       type: miscgear
       system: {shortcode: measuringtape, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

@@ -28,6 +28,27 @@ data:
     nose: aquiline
     extra_features: []
   packFolder: midhalionvylaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 4}}
+    - {key: ropecoil, name: Rope coil (50 feet), kind: miscgear, system: {weight: 2}}
+    - key: fishinglineandhooks
+      name: Fishing line and hooks (bundle)
+      kind: miscgear
+      system: {weight: 1}
+    - key: navigationslate
+      name: Navigation slate for star-reading
+      kind: miscgear
+      system: {weight: 1}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -73,26 +94,29 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
-    - name: Rope coil (50 feet)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 4}}
+    - key: ropecoil
+      name: Rope coil (50 feet)
       type: miscgear
       system: {shortcode: ropecoil, weight: 2, value: 100, durability: 3}
-    - name: Fishing line and hooks (bundle)
+    - key: fishinglineandhooks
+      name: Fishing line and hooks (bundle)
       type: miscgear
       system: {shortcode: fishinglineandhooks, weight: 1, value: 100, durability: 3}
-    - name: Navigation slate for star-reading
+    - key: navigationslate
+      name: Navigation slate for star-reading
       type: miscgear
       system: {shortcode: navigationslate, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

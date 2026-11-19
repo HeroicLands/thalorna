@@ -29,6 +29,36 @@ data:
     face_shape: long
     extra_features: [a scar running down the right leg]
   packFolder: aureldiaelavendre
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - key: leatherworkersknives
+      name: Leather worker's knives and tools
+      kind: miscgear
+      system: {weight: 1}
+    - key: tanningsupplies
+      name: "Tanning supplies (lime, alum, salts)"
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - {key: dyesandstains, name: Dyes and stains, kind: miscgear, system: {quantity: 4, weight: 1}}
+    - key: stitchingtools
+      name: "Stitching tools (needles, thread, waxed cord)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: scrapersandfinishing
+      name: Scrapers and finishing tools
+      kind: miscgear
+      system: {weight: 1}
+    - key: oilandconditioning
+      name: Oil and conditioning compounds
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: bktlrg, model: containergear-bktlrg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -76,32 +106,38 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - name: Leather worker's knives and tools
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - key: leatherworkersknives
+      name: Leather worker's knives and tools
       type: miscgear
       system: {shortcode: leatherworkersknives, weight: 1, value: 100, durability: 3}
-    - name: Tanning supplies (lime, alum, salts)
+    - key: tanningsupplies
+      name: Tanning supplies (lime, alum, salts)
       type: miscgear
       system: {shortcode: tanningsupplies, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Dyes and stains
+    - key: dyesandstains
+      name: Dyes and stains
       type: miscgear
       system: {shortcode: dyesandstains, quantity: 4, weight: 1, value: 100, durability: 3}
-    - name: Stitching tools (needles, thread, waxed cord)
+    - key: stitchingtools
+      name: Stitching tools (needles, thread, waxed cord)
       type: miscgear
       system: {shortcode: stitchingtools, weight: 1, value: 100, durability: 3}
-    - name: Scrapers and finishing tools
+    - key: scrapersandfinishing
+      name: Scrapers and finishing tools
       type: miscgear
       system: {shortcode: scrapersandfinishing, weight: 1, value: 100, durability: 3}
-    - name: Oil and conditioning compounds
+    - key: oilandconditioning
+      name: Oil and conditioning compounds
       type: miscgear
       system: {shortcode: oilandconditioning, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-bktlrg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: bktlrg, model: sohl-sohl-containergear-bktlrg}
   system:
     body:
       structure:

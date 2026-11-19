@@ -28,6 +28,33 @@ data:
     nose: snub
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ldress, model: armorgear-ldress, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: wickerbasket
+      name: Wicker basket for carrying household items
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: cleaningragsandwork
+      name: Cleaning rags and work cloths (bundle)
+      kind: miscgear
+      system: {quantity: 8, weight: 1}
+    - key: woodenhairbrush
+      name: "Wooden hairbrush (well-worn, cherished)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: smallkeepsakefromher
+      name: Small keepsake from her home (carved wooden token)
+      kind: miscgear
+      system: {weight: 0.1}
+    - key: herbalremedies
+      name: Herbal remedies and healing salves
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 1}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -74,27 +101,32 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ldress}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Wicker basket for carrying household items
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ldress, model: sohl-sohl-armorgear-ldress}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: wickerbasket
+      name: Wicker basket for carrying household items
       type: miscgear
       system: {shortcode: wickerbasket, weight: 0.5, value: 100, durability: 3}
-    - name: Cleaning rags and work cloths (bundle)
+    - key: cleaningragsandwork
+      name: Cleaning rags and work cloths (bundle)
       type: miscgear
       system: {shortcode: cleaningragsandwork, quantity: 8, weight: 1, value: 100, durability: 3}
-    - name: Wooden hairbrush (well-worn, cherished)
+    - key: woodenhairbrush
+      name: Wooden hairbrush (well-worn, cherished)
       type: miscgear
       system: {shortcode: woodenhairbrush, weight: 1, value: 100, durability: 3}
-    - name: Small keepsake from her home (carved wooden token)
+    - key: smallkeepsakefromher
+      name: Small keepsake from her home (carved wooden token)
       type: miscgear
       system: {shortcode: smallkeepsakefromher, weight: 0.1, value: 0, durability: 3}
-    - name: Herbal remedies and healing salves
+    - key: herbalremedies
+      name: Herbal remedies and healing salves
       type: miscgear
       system: {shortcode: herbalremedies, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 1}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 1}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

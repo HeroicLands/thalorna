@@ -26,6 +26,15 @@ data:
     complexion: [freckled]
     extra_features: []
   packFolder: ankarisvrystwald
+  items:
+    - {key: clb, model: weapongear-clb, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slng, model: weapongear-slng, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: sston, model: projectilegear-sston, kind: projectile, system: {quantity: 2}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 2}}
 sohl:
   kbcat: npc
   items:
@@ -61,14 +70,14 @@ sohl:
     - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 20}}
-    - {model: sohl-sohl-weapongear-clb}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-slng}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-projectilegear-sston, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 2}}
+    - {key: clb, model: sohl-sohl-weapongear-clb}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slng, model: sohl-sohl-weapongear-slng}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: sston, model: sohl-sohl-projectilegear-sston, system: {quantity: 2}}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 2}}
     - {model: sohl-sohl-skill-spirit, initSkillMult: 3}
     - {model: sohl-sohl-skill-bflkbite, initSkillMult: 2}
     - {model: sohl-sohl-skill-bflkgrab, initSkillMult: 2}

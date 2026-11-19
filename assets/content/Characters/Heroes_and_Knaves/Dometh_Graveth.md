@@ -29,6 +29,35 @@ data:
     nose: aquiline
     extra_features: [a tattoo of a snake on the chest]
   packFolder: aureldiatarvenia
+  items:
+    - {key: hcht, model: weapongear-hcht, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsbrch, model: armorgear-hsbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - key: woodentoolbox
+      name: Wooden toolbox with specialized shipbuilding tools
+      kind: miscgear
+      system: {weight: 2}
+    - key: tarandpitch
+      name: Tar and pitch for caulking
+      kind: miscgear
+      system: {quantity: 2, weight: 1.5}
+    - key: ropeandcordage
+      name: Rope and cordage (various weights)
+      kind: miscgear
+      system: {quantity: 3, weight: 5}
+    - key: nauticalcharts
+      name: Nautical charts and ship designs
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: chalkandmeasuring
+      name: Chalk and measuring implements
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -83,29 +112,34 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-weapongear-hcht}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - name: Wooden toolbox with specialized shipbuilding tools
+    - {key: hcht, model: sohl-sohl-weapongear-hcht}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsbrch, model: sohl-sohl-armorgear-hsbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - key: woodentoolbox
+      name: Wooden toolbox with specialized shipbuilding tools
       type: miscgear
       system: {shortcode: woodentoolbox, weight: 2, value: 50, durability: 4}
-    - name: Tar and pitch for caulking
+    - key: tarandpitch
+      name: Tar and pitch for caulking
       type: miscgear
       system: {shortcode: tarandpitch, quantity: 2, weight: 1.5, value: 100, durability: 3}
-    - name: Rope and cordage (various weights)
+    - key: ropeandcordage
+      name: Rope and cordage (various weights)
       type: miscgear
       system: {shortcode: ropeandcordage, quantity: 3, weight: 5, value: 30, durability: 5}
-    - name: Nautical charts and ship designs
+    - key: nauticalcharts
+      name: Nautical charts and ship designs
       type: miscgear
       system: {shortcode: nauticalcharts, weight: 1.5, value: 100, durability: 3}
-    - name: Chalk and measuring implements
+    - key: chalkandmeasuring
+      name: Chalk and measuring implements
       type: miscgear
       system: {shortcode: chalkandmeasuring, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

@@ -29,6 +29,36 @@ data:
     brow: straight
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: ctrsr, model: armorgear-ctrsr, kind: armor}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ccoat, model: armorgear-ccoat, kind: armor}
+    - key: jestersbells
+      name: Jester’s bells (sewn into cap and vest)
+      kind: miscgear
+      system: {weight: 0.4}
+    - key: satchelofprops
+      name: "Satchel of props (juggling balls, scarves, masks)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: handdrum, name: Hand drum, kind: miscgear, system: {weight: 0.6}}
+    - {key: woodenflute, name: Wooden flute, kind: miscgear, system: {weight: 0.2}}
+    - {key: lute, name: Lute, kind: miscgear, system: {weight: 1.8}}
+    - key: rope
+      name: "Rope (silk, multi-colored)"
+      kind: miscgear
+      system: {quantity: 1, weight: 1}
+    - key: theatricalmakeup
+      name: Theatrical makeup and paint
+      kind: miscgear
+      system: {weight: 1}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 15}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: jugglingballs, name: Juggling balls, kind: miscgear, system: {weight: 1}}
+    - {key: writtenroutines, name: Written routines, kind: miscgear, system: {weight: 1}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -77,39 +107,48 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 16}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-ctrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ccoat}
-    - name: Jester’s bells (sewn into cap and vest)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: ctrsr, model: sohl-sohl-armorgear-ctrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ccoat, model: sohl-sohl-armorgear-ccoat}
+    - key: jestersbells
+      name: Jester’s bells (sewn into cap and vest)
       type: miscgear
       system: {shortcode: jestersbells, weight: 0.4, value: 100, durability: 3}
-    - name: Satchel of props (juggling balls, scarves, masks)
+    - key: satchelofprops
+      name: Satchel of props (juggling balls, scarves, masks)
       type: miscgear
       system: {shortcode: satchelofprops, weight: 1.5, value: 100, durability: 3}
-    - name: Hand drum
+    - key: handdrum
+      name: Hand drum
       type: miscgear
       system: {shortcode: handdrum, weight: 0.6, value: 100, durability: 3}
-    - name: Wooden flute
+    - key: woodenflute
+      name: Wooden flute
       type: miscgear
       system: {shortcode: woodenflute, weight: 0.2, value: 100, durability: 3}
-    - name: Lute
+    - key: lute
+      name: Lute
       type: miscgear
       system: {shortcode: lute, weight: 1.8, value: 100, durability: 3}
-    - name: Rope (silk, multi-colored)
+    - key: rope
+      name: Rope (silk, multi-colored)
       type: miscgear
       system: {shortcode: rope, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Theatrical makeup and paint
+    - key: theatricalmakeup
+      name: Theatrical makeup and paint
       type: miscgear
       system: {shortcode: theatricalmakeup, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-backpk}
-    - name: Juggling balls
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 15}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - key: jugglingballs
+      name: Juggling balls
       type: miscgear
       system: {shortcode: jugglingballs, weight: 1, value: 100, durability: 3}
-    - name: Written routines
+    - key: writtenroutines
+      name: Written routines
       type: miscgear
       system: {shortcode: writtenroutines, weight: 1, value: 100, durability: 3}
   system:

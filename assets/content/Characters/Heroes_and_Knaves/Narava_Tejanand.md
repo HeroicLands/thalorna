@@ -26,6 +26,28 @@ data:
     complexion: []
     extra_features: [a tattoo of a compass on the chest]
   packFolder: ankarisvedyara
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: ltapn, model: armorgear-ltapn, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: glassblowingpipe, name: Glassblowing pipe, kind: miscgear, system: {weight: 1}}
+    - {key: tongs, name: Tongs (various weights), kind: miscgear, system: {quantity: 3, weight: 1}}
+    - key: coloredglasspowders
+      name: Colored glass powders
+      kind: miscgear
+      system: {quantity: 5, weight: 1}
+    - key: heatresistantleather
+      name: Heat-resistant leather gloves
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: sketchmaterials
+      name: "Sketch materials (charcoal, parchment)"
+      kind: miscgear
+      system: {weight: 1}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -78,28 +100,33 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-armorgear-ltapn}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - name: Glassblowing pipe
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: ltapn, model: sohl-sohl-armorgear-ltapn}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - key: glassblowingpipe
+      name: Glassblowing pipe
       type: miscgear
       system: {shortcode: glassblowingpipe, weight: 1, value: 100, durability: 3}
-    - name: Tongs (various weights)
+    - key: tongs
+      name: Tongs (various weights)
       type: miscgear
       system: {shortcode: tongs, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Colored glass powders
+    - key: coloredglasspowders
+      name: Colored glass powders
       type: miscgear
       system: {shortcode: coloredglasspowders, quantity: 5, weight: 1, value: 100, durability: 3}
-    - name: Heat-resistant leather gloves
+    - key: heatresistantleather
+      name: Heat-resistant leather gloves
       type: miscgear
       system: {shortcode: heatresistantleather, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Sketch materials (charcoal, parchment)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: sketchmaterials
+      name: Sketch materials (charcoal, parchment)
       type: miscgear
       system: {shortcode: sketchmaterials, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

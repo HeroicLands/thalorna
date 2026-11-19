@@ -34,6 +34,24 @@ data:
     brow: heavy
     extra_features: [a tattoo of dark green vines on the right upper arm and shoulder]
   packFolder: aureldiaprovenzia
+  items:
+    - {key: estc, model: weapongear-estc, kind: weapon}
+    - {key: slkdress, model: armorgear-slkdress, kind: clothing}
+    - {key: vglv, model: armorgear-vglv, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - key: silverflask
+      name: "Silver flask (fine work, engraved)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: theatricalmask
+      name: "Theatrical mask (leather, decorated)"
+      kind: miscgear
+      system: {weight: 1}
+    - {key: velvetcoinpurse, name: Velvet coin purse, kind: miscgear, system: {weight: 1}}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 75}}
+    - {key: gldcrwn, model: miscgear-gldcrwn, kind: miscgear}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -81,23 +99,26 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-estc}
-    - {model: sohl-sohl-armorgear-slkdress}
-    - {model: sohl-sohl-armorgear-vglv}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - name: Silver flask (fine work, engraved)
+    - {key: estc, model: sohl-sohl-weapongear-estc}
+    - {key: slkdress, model: sohl-sohl-armorgear-slkdress}
+    - {key: vglv, model: sohl-sohl-armorgear-vglv}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - key: silverflask
+      name: Silver flask (fine work, engraved)
       type: miscgear
       system: {shortcode: silverflask, weight: 1, value: 100, durability: 3}
-    - name: Theatrical mask (leather, decorated)
+    - key: theatricalmask
+      name: Theatrical mask (leather, decorated)
       type: miscgear
       system: {shortcode: theatricalmask, weight: 1, value: 100, durability: 3}
-    - name: Velvet coin purse
+    - key: velvetcoinpurse
+      name: Velvet coin purse
       type: miscgear
       system: {shortcode: velvetcoinpurse, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 75}}
-    - {model: sohl-sohl-miscgear-gldcrwn}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 75}}
+    - {key: gldcrwn, model: sohl-sohl-miscgear-gldcrwn}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

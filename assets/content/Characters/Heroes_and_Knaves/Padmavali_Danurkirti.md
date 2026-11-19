@@ -27,6 +27,32 @@ data:
     face_shape: oval
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: charcoalpencils
+      name: Charcoal pencils and drawing sticks
+      kind: miscgear
+      system: {quantity: 6, weight: 1}
+    - key: watercolorpalette
+      name: Watercolor palette and brushes
+      kind: miscgear
+      system: {weight: 1}
+    - key: parchment
+      name: Parchment (bundle for sketches)
+      kind: miscgear
+      system: {quantity: 10, weight: 1}
+    - key: measuringcompass
+      name: Measuring compass and straightedge
+      kind: miscgear
+      system: {weight: 1}
+    - {key: inkandquills, name: Ink and quills, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -76,29 +102,34 @@ sohl:
     - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Charcoal pencils and drawing sticks
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: charcoalpencils
+      name: Charcoal pencils and drawing sticks
       type: miscgear
       system: {shortcode: charcoalpencils, quantity: 6, weight: 1, value: 100, durability: 3}
-    - name: Watercolor palette and brushes
+    - key: watercolorpalette
+      name: Watercolor palette and brushes
       type: miscgear
       system: {shortcode: watercolorpalette, weight: 1, value: 100, durability: 3}
-    - name: Parchment (bundle for sketches)
+    - key: parchment
+      name: Parchment (bundle for sketches)
       type: miscgear
       system: {shortcode: parchment, quantity: 10, weight: 1, value: 100, durability: 3}
-    - name: Measuring compass and straightedge
+    - key: measuringcompass
+      name: Measuring compass and straightedge
       type: miscgear
       system: {shortcode: measuringcompass, weight: 1, value: 100, durability: 3}
-    - name: Ink and quills
+    - key: inkandquills
+      name: Ink and quills
       type: miscgear
       system: {shortcode: inkandquills, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

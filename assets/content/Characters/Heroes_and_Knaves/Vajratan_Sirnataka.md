@@ -27,6 +27,19 @@ data:
     hair_style: cropped
     extra_features: [The wrist-line on his left wrist struck through and left bare]
   packFolder: ankarisvedyara
+  items:
+    - {key: falcn, model: weapongear-falcn, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: monsooncloak, model: miscgear-monsooncloak, kind: miscgear}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: map, model: miscgear-map, kind: miscgear}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -73,18 +86,18 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-weapongear-falcn}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: miscgear-monsooncloak}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: sohl-sohl-miscgear-map}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - {model: sohl-sohl-miscgear-tndrbx}
+    - {key: falcn, model: sohl-sohl-weapongear-falcn}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: monsooncloak, model: miscgear-monsooncloak}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: map, model: sohl-sohl-miscgear-map}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
   system:
     body:
       structure:

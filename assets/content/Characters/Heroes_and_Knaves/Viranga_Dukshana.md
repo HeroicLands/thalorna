@@ -28,6 +28,25 @@ data:
     mouth: full
     extra_features: []
   packFolder: ankarisvedyara
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - key: leatherpouch
+      name: Leather pouch for administrative documents
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: landledger, name: Land ledger and accounts, kind: miscgear, system: {weight: 1}}
+    - key: agriculturaltools
+      name: Agricultural tools and implements
+      kind: miscgear
+      system: {weight: 2}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -76,26 +95,30 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 22}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-sgtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Leather pouch for administrative documents
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: sgtrsr, model: sohl-sohl-armorgear-sgtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: leatherpouch
+      name: Leather pouch for administrative documents
       type: miscgear
       system: {shortcode: leatherpouch, weight: 0.5, value: 100, durability: 3}
-    - name: Land ledger and accounts
+    - key: landledger
+      name: Land ledger and accounts
       type: miscgear
       system: {shortcode: landledger, weight: 1, value: 100, durability: 3}
-    - name: Agricultural tools and implements
+    - key: agriculturaltools
+      name: Agricultural tools and implements
       type: miscgear
       system: {shortcode: agriculturaltools, weight: 2, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

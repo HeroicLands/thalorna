@@ -28,6 +28,46 @@ data:
     face_shape: oval
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hsskirt, model: armorgear-hsskirt, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: lapn, model: armorgear-lapn, kind: clothing}
+    - {key: hscap, model: armorgear-hscap, kind: clothing}
+    - key: ringofironhousehold
+      name: Ring of iron household keys
+      kind: miscgear
+      system: {weight: 1}
+    - key: householdledger
+      name: Household ledger and inventory records
+      kind: miscgear
+      system: {weight: 1.2}
+    - key: herbalmedicines
+      name: Herbal medicines and remedies (bundle)
+      kind: miscgear
+      system: {weight: 1}
+    - key: embalmingmaterials
+      name: "Embalming materials (natron, unguents)"
+      kind: miscgear
+      system: {weight: 2}
+    - key: cookingherbs
+      name: Cooking herbs and spices (pouch)
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: clothforcleaning
+      name: Cloth for cleaning and maintenance
+      kind: miscgear
+      system: {quantity: 6, weight: 1.5}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: waxcandles
+      name: Wax candles (household stock sample)
+      kind: miscgear
+      system: {quantity: 4, weight: 1.5}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 10}}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
+    - {key: cleaningsupplies, name: Cleaning supplies, kind: miscgear, system: {weight: 1.5}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -76,38 +116,46 @@ sohl:
     - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hsskirt}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-lapn}
-    - {model: sohl-sohl-armorgear-hscap}
-    - name: Ring of iron household keys
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hsskirt, model: sohl-sohl-armorgear-hsskirt}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: lapn, model: sohl-sohl-armorgear-lapn}
+    - {key: hscap, model: sohl-sohl-armorgear-hscap}
+    - key: ringofironhousehold
+      name: Ring of iron household keys
       type: miscgear
       system: {shortcode: ringofironhousehold, weight: 1, value: 100, durability: 3}
-    - name: Household ledger and inventory records
+    - key: householdledger
+      name: Household ledger and inventory records
       type: miscgear
       system: {shortcode: householdledger, weight: 1.2, value: 150, durability: 4}
-    - name: Herbal medicines and remedies (bundle)
+    - key: herbalmedicines
+      name: Herbal medicines and remedies (bundle)
       type: miscgear
       system: {shortcode: herbalmedicines, weight: 1, value: 100, durability: 3}
-    - name: Embalming materials (natron, unguents)
+    - key: embalmingmaterials
+      name: Embalming materials (natron, unguents)
       type: miscgear
       system: {shortcode: embalmingmaterials, weight: 2, value: 100, durability: 3}
-    - name: Cooking herbs and spices (pouch)
+    - key: cookingherbs
+      name: Cooking herbs and spices (pouch)
       type: miscgear
       system: {shortcode: cookingherbs, weight: 0.8, value: 100, durability: 3}
-    - name: Cloth for cleaning and maintenance
+    - key: clothforcleaning
+      name: Cloth for cleaning and maintenance
       type: miscgear
       system: {shortcode: clothforcleaning, quantity: 6, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Wax candles (household stock sample)
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: waxcandles
+      name: Wax candles (household stock sample)
       type: miscgear
       system: {shortcode: waxcandles, quantity: 4, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 10}}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-bpchlg}
-    - name: Cleaning supplies
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 10}}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
+    - key: cleaningsupplies
+      name: Cleaning supplies
       type: miscgear
       system: {shortcode: cleaningsupplies, weight: 1.5, value: 100, durability: 3}
   system:

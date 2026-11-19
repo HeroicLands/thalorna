@@ -28,6 +28,27 @@ data:
     nose: broad
     extra_features: [a tattoo of a flower on the ankle]
   packFolder: ankarisvedyara
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - key: firstaidkit
+      name: First aid kit with bandages and salves
+      kind: miscgear
+      system: {weight: 1}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 3}}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: ropeandgrapplinggear
+      name: Rope and grappling gear
+      kind: miscgear
+      system: {weight: 1}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -76,24 +97,26 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 52}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - name: First aid kit with bandages and salves
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - key: firstaidkit
+      name: First aid kit with bandages and salves
       type: miscgear
       system: {shortcode: firstaidkit, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Rope and grappling gear
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: ropeandgrapplinggear
+      name: Rope and grappling gear
       type: miscgear
       system: {shortcode: ropeandgrapplinggear, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

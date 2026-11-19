@@ -28,6 +28,30 @@ data:
     mouth: wide
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: scmtr, model: weapongear-scmtr, kind: weapon}
+    - {key: sgshirt, model: armorgear-sgshirt, kind: clothing}
+    - {key: sgbrch, model: armorgear-sgbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: sgclk, model: armorgear-sgclk, kind: clothing}
+    - {key: sgcap, model: armorgear-sgcap, kind: clothing}
+    - key: sailorsrope
+      name: Sailor’s rope (coiled)
+      kind: miscgear
+      system: {quantity: 1, weight: 2}
+    - key: navigationtools
+      name: "Navigation tools (compass, astrolabe)"
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: fishinghooksandline
+      name: Fishing hooks and line
+      kind: miscgear
+      system: {quantity: 3, weight: 1}
+    - {key: net, name: Net (small), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -74,28 +98,32 @@ sohl:
     - {model: sohl-sohl-skill-cmcs, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 10}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 11}}
-    - {model: sohl-sohl-weapongear-scmtr}
-    - {model: sohl-sohl-armorgear-sgshirt}
-    - {model: sohl-sohl-armorgear-sgbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-armorgear-sgclk}
-    - {model: sohl-sohl-armorgear-sgcap}
-    - name: Sailor’s rope (coiled)
+    - {key: scmtr, model: sohl-sohl-weapongear-scmtr}
+    - {key: sgshirt, model: sohl-sohl-armorgear-sgshirt}
+    - {key: sgbrch, model: sohl-sohl-armorgear-sgbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: sgclk, model: sohl-sohl-armorgear-sgclk}
+    - {key: sgcap, model: sohl-sohl-armorgear-sgcap}
+    - key: sailorsrope
+      name: Sailor’s rope (coiled)
       type: miscgear
       system: {shortcode: sailorsrope, weight: 2, quantity: 1, value: 100, durability: 3}
-    - name: Navigation tools (compass, astrolabe)
+    - key: navigationtools
+      name: Navigation tools (compass, astrolabe)
       type: miscgear
       system: {shortcode: navigationtools, weight: 0.5, value: 8, durability: 3}
-    - name: Fishing hooks and line
+    - key: fishinghooksandline
+      name: Fishing hooks and line
       type: miscgear
       system: {shortcode: fishinghooksandline, quantity: 3, weight: 1, value: 100, durability: 3}
-    - name: Net (small)
+    - key: net
+      name: Net (small)
       type: miscgear
       system: {shortcode: net, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

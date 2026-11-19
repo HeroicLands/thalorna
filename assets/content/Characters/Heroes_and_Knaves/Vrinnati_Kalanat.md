@@ -26,6 +26,22 @@ data:
     complexion: [sun_kissed]
     hair_style: braided
   packFolder: ankarisvedyara
+  items:
+    - {key: lnc, model: weapongear-lnc, kind: weapon}
+    - {key: shkhlynswd, model: weapongear-shkhlynswd, kind: weapon}
+    - {key: cbw60, model: weapongear-cbw60, kind: weapon}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile}
+    - {key: quiversmsh, model: containergear-quiversmsh, kind: container}
+    - {key: rhnhdshld, model: weapongear-rhnhdshld, kind: weapon}
+    - {key: mbyr, model: armorgear-mbyr, kind: armor}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltcap, model: armorgear-ltcap, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: saddlewar, model: miscgear-saddlewar, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -70,21 +86,21 @@ sohl:
     - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 45}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 20}}
-    - {model: sohl-sohl-weapongear-lnc}
-    - {model: weapongear-shkhlynswd}
-    - {model: sohl-sohl-weapongear-cbw60}
-    - {model: sohl-sohl-projectilegear-arwstd}
-    - {model: sohl-sohl-containergear-quiversmsh}
-    - {model: weapongear-rhnhdshld}
-    - {model: sohl-sohl-armorgear-mbyr}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltcap}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-miscgear-saddlewar}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: lnc, model: sohl-sohl-weapongear-lnc}
+    - {key: shkhlynswd, model: weapongear-shkhlynswd}
+    - {key: cbw60, model: sohl-sohl-weapongear-cbw60}
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd}
+    - {key: quiversmsh, model: sohl-sohl-containergear-quiversmsh}
+    - {key: rhnhdshld, model: weapongear-rhnhdshld}
+    - {key: mbyr, model: sohl-sohl-armorgear-mbyr}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltcap, model: sohl-sohl-armorgear-ltcap}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: saddlewar, model: sohl-sohl-miscgear-saddlewar}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

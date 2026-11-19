@@ -26,6 +26,19 @@ data:
     complexion: [weathered]
     hair_style: braided
   packFolder: ankarisvedyara
+  items:
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: wdress, model: armorgear-wdress, kind: clothing}
+    - {key: wcoat, model: armorgear-wcoat, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: bvcap, model: armorgear-bvcap, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: hvyblkt, model: miscgear-hvyblkt, kind: miscgear}
+    - {key: rope12hemp, model: miscgear-rope12hemp, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -70,18 +83,18 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 15}}
     - {model: skill-vedyarlng, system: {masteryLevelBase: 40}}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-armorgear-wdress}
-    - {model: sohl-sohl-armorgear-wcoat}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-bvcap}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-miscgear-hvyblkt}
-    - {model: sohl-sohl-miscgear-rope12hemp}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: wdress, model: sohl-sohl-armorgear-wdress}
+    - {key: wcoat, model: sohl-sohl-armorgear-wcoat}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: bvcap, model: sohl-sohl-armorgear-bvcap}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: hvyblkt, model: sohl-sohl-miscgear-hvyblkt}
+    - {key: rope12hemp, model: sohl-sohl-miscgear-rope12hemp}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

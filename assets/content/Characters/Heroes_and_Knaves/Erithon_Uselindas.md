@@ -29,6 +29,32 @@ data:
     nose: narrow
     extra_features: [a tattoo of a serpent on the back]
   packFolder: midhalionvylaria
+  items:
+    - {key: lbw125, model: weapongear-lbw125, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - key: quiver
+      name: "Quiver (leather, well-maintained)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 24}}
+    - key: sparebowstring
+      name: Spare bowstring
+      kind: miscgear
+      system: {quantity: 2, weight: 1.5}
+    - key: arrowstraightener
+      name: Arrow straightener and maintenance tools
+      kind: miscgear
+      system: {weight: 2}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear, system: {quantity: 2}}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -78,28 +104,31 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 32}}
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-weapongear-lbw125}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - name: Quiver (leather, well-maintained)
+    - {key: lbw125, model: sohl-sohl-weapongear-lbw125}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - key: quiver
+      name: Quiver (leather, well-maintained)
       type: miscgear
       system: {shortcode: quiver, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-projectilegear-arwstd, system: {quantity: 24}}
-    - name: Spare bowstring
+    - {key: arwstd, model: sohl-sohl-projectilegear-arwstd, system: {quantity: 24}}
+    - key: sparebowstring
+      name: Spare bowstring
       type: miscgear
       system: {shortcode: sparebowstring, quantity: 2, weight: 1.5, value: 100, durability: 3}
-    - name: Arrow straightener and maintenance tools
+    - key: arrowstraightener
+      name: Arrow straightener and maintenance tools
       type: miscgear
       system: {shortcode: arrowstraightener, weight: 2, value: 50, durability: 4}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch, system: {quantity: 2}}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

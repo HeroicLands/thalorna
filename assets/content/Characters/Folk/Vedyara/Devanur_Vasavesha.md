@@ -26,6 +26,12 @@ data:
     skin_color: medium
     complexion: [weathered]
   packFolder: ankarisvedyara
+  items:
+    - {key: shkhlynswd, model: weapongear-shkhlynswd, kind: weapon}
+    - {key: slktunic, model: armorgear-slktunic, kind: clothing}
+    - {key: ltcboot, model: armorgear-ltcboot, kind: clothing}
+    - {key: sealsignat, model: miscgear-sealsignat, kind: miscgear}
+    - {key: ringgold, model: miscgear-ringgold, kind: miscgear}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -65,11 +71,11 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 30}}
     - {model: skill-vdykshrscrpt, system: {masteryLevelBase: 40}}
-    - {model: weapongear-shkhlynswd}
-    - {model: sohl-sohl-armorgear-slktunic}
-    - {model: sohl-sohl-armorgear-ltcboot}
-    - {model: sohl-sohl-miscgear-sealsignat}
-    - {model: sohl-sohl-miscgear-ringgold}
+    - {key: shkhlynswd, model: weapongear-shkhlynswd}
+    - {key: slktunic, model: sohl-sohl-armorgear-slktunic}
+    - {key: ltcboot, model: sohl-sohl-armorgear-ltcboot}
+    - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
+    - {key: ringgold, model: sohl-sohl-miscgear-ringgold}
   system:
     body:
       structure:

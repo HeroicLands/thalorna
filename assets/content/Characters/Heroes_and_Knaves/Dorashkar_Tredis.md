@@ -28,6 +28,32 @@ data:
     mouth: full
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: wcap, model: armorgear-wcap, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: castironcookware
+      name: Cast-iron cookware (multiple pots and pans)
+      kind: miscgear
+      system: {weight: 1}
+    - key: woodencuttingboards
+      name: Wooden cutting boards and utensils
+      kind: miscgear
+      system: {weight: 1}
+    - key: leathergloves
+      name: Leather gloves for handling hot vessels
+      kind: miscgear
+      system: {weight: 1}
+    - key: assorteddriedherbs
+      name: Assorted dried herbs and spices
+      kind: miscgear
+      system: {weight: 1}
+    - {key: ceramicstorage, name: Ceramic storage vessels, kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -75,29 +101,34 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-wcap}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Cast-iron cookware (multiple pots and pans)
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: wcap, model: sohl-sohl-armorgear-wcap}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: castironcookware
+      name: Cast-iron cookware (multiple pots and pans)
       type: miscgear
       system: {shortcode: castironcookware, weight: 1, value: 100, durability: 3}
-    - name: Wooden cutting boards and utensils
+    - key: woodencuttingboards
+      name: Wooden cutting boards and utensils
       type: miscgear
       system: {shortcode: woodencuttingboards, weight: 1, value: 100, durability: 3}
-    - name: Leather gloves for handling hot vessels
+    - key: leathergloves
+      name: Leather gloves for handling hot vessels
       type: miscgear
       system: {shortcode: leathergloves, weight: 1, value: 100, durability: 3}
-    - name: Assorted dried herbs and spices
+    - key: assorteddriedherbs
+      name: Assorted dried herbs and spices
       type: miscgear
       system: {shortcode: assorteddriedherbs, weight: 1, value: 100, durability: 3}
-    - name: Ceramic storage vessels
+    - key: ceramicstorage
+      name: Ceramic storage vessels
       type: miscgear
       system: {shortcode: ceramicstorage, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

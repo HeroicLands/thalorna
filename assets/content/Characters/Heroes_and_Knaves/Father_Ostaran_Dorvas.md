@@ -31,6 +31,39 @@ data:
     nose: straight
     extra_features: []
   packFolder: aureldiatarvenia
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ltrsr, model: armorgear-ltrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: ceremonialpriestly
+      name: Ceremonial priestly robes (white with silver embroidery)
+      kind: miscgear
+      system: {weight: 1}
+    - key: ardavonholysymbol
+      name: Árdavonian holy symbol (staff-topped amulet)
+      kind: miscgear
+      system: {weight: 1}
+    - key: holyscripture
+      name: Holy scripture and theological texts
+      kind: miscgear
+      system: {weight: 1}
+    - key: prayerbeadsandritual
+      name: Prayer beads and ritual items
+      kind: miscgear
+      system: {weight: 1}
+    - key: blessedoils
+      name: Blessed oils and incense
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: redsash, name: Red sash (symbol of priesthood), kind: miscgear, system: {weight: 1}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: parchmentandwriting
+      name: Parchment and writing supplies
+      kind: miscgear
+      system: {weight: 1}
+    - {key: pence, model: miscgear-pence, kind: miscgear, system: {quantity: 5}}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -75,34 +108,41 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ltrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Ceremonial priestly robes (white with silver embroidery)
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ltrsr, model: sohl-sohl-armorgear-ltrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: ceremonialpriestly
+      name: Ceremonial priestly robes (white with silver embroidery)
       type: miscgear
       system: {shortcode: ceremonialpriestly, weight: 1, value: 100, durability: 3}
-    - name: Árdavonian holy symbol (staff-topped amulet)
+    - key: ardavonholysymbol
+      name: Árdavonian holy symbol (staff-topped amulet)
       type: miscgear
       system: {shortcode: ardavonholysymbol, weight: 1, value: 100, durability: 3}
-    - name: Holy scripture and theological texts
+    - key: holyscripture
+      name: Holy scripture and theological texts
       type: miscgear
       system: {shortcode: holyscripture, weight: 1, value: 100, durability: 3}
-    - name: Prayer beads and ritual items
+    - key: prayerbeadsandritual
+      name: Prayer beads and ritual items
       type: miscgear
       system: {shortcode: prayerbeadsandritual, weight: 1, value: 100, durability: 3}
-    - name: Blessed oils and incense
+    - key: blessedoils
+      name: Blessed oils and incense
       type: miscgear
       system: {shortcode: blessedoils, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Red sash (symbol of priesthood)
+    - key: redsash
+      name: Red sash (symbol of priesthood)
       type: miscgear
       system: {shortcode: redsash, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Parchment and writing supplies
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: parchmentandwriting
+      name: Parchment and writing supplies
       type: miscgear
       system: {shortcode: parchmentandwriting, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-pence, system: {quantity: 5}}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: {quantity: 5}}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

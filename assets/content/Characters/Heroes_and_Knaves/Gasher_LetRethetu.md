@@ -28,6 +28,26 @@ data:
     face_shape: oval
     extra_features: [a scar on the left eye]
   packFolder: regkhhk
+  items:
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: lyreorharp, name: Lyre or harp (fine instrument), kind: miscgear, system: {weight: 3}}
+    - key: notebookforlyrics
+      name: Notebook for lyrics and compositions
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: healingherbs
+      name: Healing herbs and poultices
+      kind: miscgear
+      system: {quantity: 3, weight: 0.5}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear}
+    - {key: liteblkt, model: miscgear-liteblkt, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -75,25 +95,28 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - name: Lyre or harp (fine instrument)
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - key: lyreorharp
+      name: Lyre or harp (fine instrument)
       type: miscgear
       system: {shortcode: lyreorharp, weight: 3, value: 300, durability: 4}
-    - name: Notebook for lyrics and compositions
+    - key: notebookforlyrics
+      name: Notebook for lyrics and compositions
       type: miscgear
       system: {shortcode: notebookforlyrics, weight: 1.5, value: 200, durability: 3}
-    - name: Healing herbs and poultices
+    - key: healingherbs
+      name: Healing herbs and poultices
       type: miscgear
       system: {shortcode: healingherbs, quantity: 3, weight: 0.5, value: 30, durability: 1}
-    - {model: sohl-sohl-miscgear-frtns}
-    - {model: sohl-sohl-miscgear-liteblkt}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bglgcvs}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns}
+    - {key: liteblkt, model: sohl-sohl-miscgear-liteblkt}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
   system:
     body:
       structure:

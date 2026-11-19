@@ -30,6 +30,27 @@ data:
     mouth: full
     extra_features: [a tattoo of a lion's mane on the chest]
   packFolder: ankarisnordlands
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: mhbk, model: armorgear-mhbk, kind: armor}
+    - {key: mleg, model: armorgear-mleg, kind: armor}
+    - {key: mcui, model: armorgear-mcui, kind: armor}
+    - {key: pl34hlm, model: armorgear-pl34hlm, kind: armor}
+    - key: whetstone
+      name: Whetstone and sharpening tools
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: bedroll, name: Bedroll (military style), kind: miscgear, system: {weight: 1}}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 4}}
+    - key: militaryinsigni
+      name: Military insignia and documents
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -78,26 +99,29 @@ sohl:
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 26}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-mhbk}
-    - {model: sohl-sohl-armorgear-mleg}
-    - {model: sohl-sohl-armorgear-mcui}
-    - {model: sohl-sohl-armorgear-pl34hlm}
-    - name: Whetstone and sharpening tools
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: mhbk, model: sohl-sohl-armorgear-mhbk}
+    - {key: mleg, model: sohl-sohl-armorgear-mleg}
+    - {key: mcui, model: sohl-sohl-armorgear-mcui}
+    - {key: pl34hlm, model: sohl-sohl-armorgear-pl34hlm}
+    - key: whetstone
+      name: Whetstone and sharpening tools
       type: miscgear
       system: {shortcode: whetstone, quantity: 2, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - name: Bedroll (military style)
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - key: bedroll
+      name: Bedroll (military style)
       type: miscgear
       system: {shortcode: bedroll, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
-    - name: Military insignia and documents
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
+    - key: militaryinsigni
+      name: Military insignia and documents
       type: miscgear
       system: {shortcode: militaryinsigni, value: 2, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

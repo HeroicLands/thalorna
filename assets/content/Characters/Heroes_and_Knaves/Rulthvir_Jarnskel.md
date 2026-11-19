@@ -30,6 +30,24 @@ data:
     mouth: small
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: lstf, model: weapongear-lstf, kind: weapon}
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: ltcloak, model: armorgear-ltcloak, kind: clothing}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 3}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: herdingropeandknots, name: Herding rope and knots, kind: miscgear, system: {weight: 2}}
+    - key: animalfeedpouch
+      name: Animal feed pouch
+      kind: miscgear
+      system: {quantity: 1, weight: 1}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - {key: bglgcvs, model: containergear-bglgcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -78,26 +96,29 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 65}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-weapongear-lstf}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-ltcloak}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Herding rope and knots
+    - {key: lstf, model: sohl-sohl-weapongear-lstf}
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: ltcloak, model: sohl-sohl-armorgear-ltcloak}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 3}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: herdingropeandknots
+      name: Herding rope and knots
       type: miscgear
       system: {shortcode: herdingropeandknots, weight: 2, value: 100, durability: 3}
-    - name: Animal feed pouch
+    - key: animalfeedpouch
+      name: Animal feed pouch
       type: miscgear
       system: {shortcode: animalfeedpouch, quantity: 1, weight: 1, value: 100, durability: 3}
-    - name: Whetstone
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bglgcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bglgcvs, model: sohl-sohl-containergear-bglgcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

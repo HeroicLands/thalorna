@@ -29,6 +29,27 @@ data:
     mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
+  items:
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: woolshawl, name: Wool shawl, kind: miscgear, system: {weight: 1}}
+    - key: sewingmaterials
+      name: "Sewing materials (needles, thread, scissors)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: fabricscraps
+      name: Fabric scraps (assorted dyes and weaves)
+      kind: miscgear
+      system: {quantity: 5, weight: 1}
+    - key: naturaldyes
+      name: Natural dyes (powders and prepared solutions)
+      kind: miscgear
+      system: {quantity: 4, weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 8}}
@@ -77,25 +98,29 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 11}}
     - {model: sohl-sohl-skill-txtl, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 11}}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Wool shawl
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: woolshawl
+      name: Wool shawl
       type: miscgear
       system: {shortcode: woolshawl, weight: 1, value: 100, durability: 3}
-    - name: Sewing materials (needles, thread, scissors)
+    - key: sewingmaterials
+      name: Sewing materials (needles, thread, scissors)
       type: miscgear
       system: {shortcode: sewingmaterials, weight: 1, value: 100, durability: 3}
-    - name: Fabric scraps (assorted dyes and weaves)
+    - key: fabricscraps
+      name: Fabric scraps (assorted dyes and weaves)
       type: miscgear
       system: {shortcode: fabricscraps, quantity: 5, weight: 1, value: 100, durability: 3}
-    - name: Natural dyes (powders and prepared solutions)
+    - key: naturaldyes
+      name: Natural dyes (powders and prepared solutions)
       type: miscgear
       system: {shortcode: naturaldyes, quantity: 4, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

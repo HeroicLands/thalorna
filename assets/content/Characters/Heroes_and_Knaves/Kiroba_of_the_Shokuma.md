@@ -34,6 +34,24 @@ data:
     face_shape: angular
     extra_features: []
   packFolder: northernfertileregionokharis
+  items:
+    - {key: lttunic, model: armorgear-lttunic, kind: clothing}
+    - {key: ltbrch, model: armorgear-ltbrch, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: bonependant
+      name: "Bone pendant (carved, ritual significance)"
+      kind: miscgear
+      system: {weight: 1}
+    - {key: spiritcharms, name: Spirit charms and talismans, kind: miscgear, system: {weight: 1}}
+    - key: ritualherbsandsacred
+      name: Ritual herbs and sacred offerings
+      kind: miscgear
+      system: {weight: 1}
+    - {key: shamanicmedicine, name: Shamanic medicine pouch, kind: miscgear, system: {weight: 1}}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 3}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -82,25 +100,29 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 45}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-armorgear-lttunic}
-    - {model: sohl-sohl-armorgear-ltbrch}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Bone pendant (carved, ritual significance)
+    - {key: lttunic, model: sohl-sohl-armorgear-lttunic}
+    - {key: ltbrch, model: sohl-sohl-armorgear-ltbrch}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: bonependant
+      name: Bone pendant (carved, ritual significance)
       type: miscgear
       system: {shortcode: bonependant, weight: 1, value: 100, durability: 3}
-    - name: Spirit charms and talismans
+    - key: spiritcharms
+      name: Spirit charms and talismans
       type: miscgear
       system: {shortcode: spiritcharms, weight: 1, value: 100, durability: 3}
-    - name: Ritual herbs and sacred offerings
+    - key: ritualherbsandsacred
+      name: Ritual herbs and sacred offerings
       type: miscgear
       system: {shortcode: ritualherbsandsacred, weight: 1, value: 100, durability: 3}
-    - name: Shamanic medicine pouch
+    - key: shamanicmedicine
+      name: Shamanic medicine pouch
       type: miscgear
       system: {shortcode: shamanicmedicine, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-miscgear-torch}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 3}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

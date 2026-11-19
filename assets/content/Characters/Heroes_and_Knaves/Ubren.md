@@ -28,6 +28,24 @@ data:
     face_shape: broad
     extra_features: [Two fingers of the right hand lost to frostbite]
   packFolder: ankarisvedyara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: slng, model: weapongear-slng, kind: weapon}
+    - {key: sston, model: projectilegear-sston, kind: projectile, system: {quantity: 10}}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: wshirt, model: armorgear-wshirt, kind: clothing}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: bvcloak, model: armorgear-bvcloak, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: guidecord, model: miscgear-guidecord, kind: miscgear}
+    - {key: rope12hemp, model: miscgear-rope12hemp, kind: miscgear}
+    - {key: hvyblkt, model: miscgear-hvyblkt, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 4}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 15}}
@@ -69,23 +87,23 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 35}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 20}}
     - {model: skill-vedyarlng, system: {masteryLevelBase: 40}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-weapongear-slng}
-    - {model: sohl-sohl-projectilegear-sston, system: {quantity: 10}}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-wshirt}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-bvcloak}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: miscgear-guidecord}
-    - {model: sohl-sohl-miscgear-rope12hemp}
-    - {model: sohl-sohl-miscgear-hvyblkt}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: slng, model: sohl-sohl-weapongear-slng}
+    - {key: sston, model: sohl-sohl-projectilegear-sston, system: {quantity: 10}}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: wshirt, model: sohl-sohl-armorgear-wshirt}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: bvcloak, model: sohl-sohl-armorgear-bvcloak}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: guidecord, model: miscgear-guidecord}
+    - {key: rope12hemp, model: sohl-sohl-miscgear-rope12hemp}
+    - {key: hvyblkt, model: sohl-sohl-miscgear-hvyblkt}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 4}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

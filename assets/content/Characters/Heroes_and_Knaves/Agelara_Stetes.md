@@ -28,6 +28,39 @@ data:
     nose: aquiline
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: lshirt, model: armorgear-lshirt, kind: clothing}
+    - {key: ldress, model: armorgear-ldress, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - key: wickerbasket
+      name: Wicker basket for supplies and deliveries
+      kind: miscgear
+      system: {weight: 0.8}
+    - key: cookingutensils
+      name: "Cooking utensils (ladle, tongs, knives)"
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: finelinenforbedding
+      name: Fine linen for bedding (sample bolts)
+      kind: miscgear
+      system: {weight: 1}
+    - key: ledger
+      name: Ledger for reservations and records
+      kind: miscgear
+      system: {weight: 0.5}
+    - key: recipecollection
+      name: Recipe collection (personal notes)
+      kind: miscgear
+      system: {weight: 0.3}
+    - key: winetastingcups
+      name: "Wine tasting cups (glass, decorative)"
+      kind: miscgear
+      system: {weight: 0.2}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
@@ -75,32 +108,38 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-lshirt}
-    - {model: sohl-sohl-armorgear-ldress}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Wicker basket for supplies and deliveries
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: lshirt, model: sohl-sohl-armorgear-lshirt}
+    - {key: ldress, model: sohl-sohl-armorgear-ldress}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: wickerbasket
+      name: Wicker basket for supplies and deliveries
       type: miscgear
       system: {shortcode: wickerbasket, weight: 0.8, value: 100, durability: 3}
-    - name: Cooking utensils (ladle, tongs, knives)
+    - key: cookingutensils
+      name: Cooking utensils (ladle, tongs, knives)
       type: miscgear
       system: {shortcode: cookingutensils, weight: 1.5, value: 100, durability: 3}
-    - name: Fine linen for bedding (sample bolts)
+    - key: finelinenforbedding
+      name: Fine linen for bedding (sample bolts)
       type: miscgear
       system: {shortcode: finelinenforbedding, weight: 1, value: 100, durability: 3}
-    - name: Ledger for reservations and records
+    - key: ledger
+      name: Ledger for reservations and records
       type: miscgear
       system: {shortcode: ledger, weight: 0.5, value: 100, durability: 3}
-    - name: Recipe collection (personal notes)
+    - key: recipecollection
+      name: Recipe collection (personal notes)
       type: miscgear
       system: {shortcode: recipecollection, weight: 0.3, value: 100, durability: 3}
-    - name: Wine tasting cups (glass, decorative)
+    - key: winetastingcups
+      name: Wine tasting cups (glass, decorative)
       type: miscgear
       system: {shortcode: winetastingcups, weight: 0.2, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bgsmcvs}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

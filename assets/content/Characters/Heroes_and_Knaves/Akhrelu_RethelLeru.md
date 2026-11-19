@@ -29,6 +29,37 @@ data:
     mouth: full
     extra_features: [a scar on the back of the left arm]
   packFolder: regkhhk
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhkboot, model: armorgear-rhkboot, kind: armor}
+    - {key: rhmntl, model: armorgear-rhmntl, kind: armor}
+    - key: trainingwhistle
+      name: Training whistle (bone)
+      kind: miscgear
+      system: {quantity: 2, weight: 1}
+    - key: animaltreatsandfeed
+      name: Animal treats and feed
+      kind: miscgear
+      system: {quantity: 1, weight: 1}
+    - key: leatherleashes
+      name: Leather leashes and ropes (assorted)
+      kind: miscgear
+      system: {quantity: 3, weight: 1.5}
+    - key: animalgroomingtools
+      name: "Animal grooming tools (brush, comb, scraper)"
+      kind: miscgear
+      system: {weight: 1}
+    - key: healingsalve
+      name: Healing salve for animal wounds
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
@@ -77,31 +108,36 @@ sohl:
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhkboot}
-    - {model: sohl-sohl-armorgear-rhmntl}
-    - name: Training whistle (bone)
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhkboot, model: sohl-sohl-armorgear-rhkboot}
+    - {key: rhmntl, model: sohl-sohl-armorgear-rhmntl}
+    - key: trainingwhistle
+      name: Training whistle (bone)
       type: miscgear
       system: {shortcode: trainingwhistle, quantity: 2, weight: 1, value: 100, durability: 3}
-    - name: Animal treats and feed
+    - key: animaltreatsandfeed
+      name: Animal treats and feed
       type: miscgear
       system: {shortcode: animaltreatsandfeed, weight: 1, quantity: 1, value: 100, durability: 3}
-    - name: Leather leashes and ropes (assorted)
+    - key: leatherleashes
+      name: Leather leashes and ropes (assorted)
       type: miscgear
       system: {shortcode: leatherleashes, weight: 1.5, quantity: 3, value: 100, durability: 3}
-    - name: Animal grooming tools (brush, comb, scraper)
+    - key: animalgroomingtools
+      name: Animal grooming tools (brush, comb, scraper)
       type: miscgear
       system: {shortcode: animalgroomingtools, weight: 1, value: 100, durability: 3}
-    - name: Healing salve for animal wounds
+    - key: healingsalve
+      name: Healing salve for animal wounds
       type: miscgear
       system: {shortcode: healingsalve, value: 1, weight: 1, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:

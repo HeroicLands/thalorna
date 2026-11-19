@@ -26,6 +26,17 @@ data:
     complexion: [sallow]
     extra_features: [tattoo of a serpent on his forearm]
   packFolder: ankarisvrystwald
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}
+    - {key: ctunic, model: armorgear-ctunic, kind: armor}
+    - {key: cleg, model: armorgear-cleg, kind: armor}
+    - {key: ltvest, model: armorgear-ltvest, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
+    - {key: pence, model: miscgear-pence, kind: miscgear}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -63,16 +74,16 @@ sohl:
     - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 25}}
     - {model: sohl-sohl-skill-lgdm, system: {masteryLevelBase: 48}}
     - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 35}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-shrtswd}
-    - {model: sohl-sohl-armorgear-ctunic}
-    - {model: sohl-sohl-armorgear-cleg}
-    - {model: sohl-sohl-armorgear-ltvest}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - {model: sohl-sohl-containergear-bpchmd}
-    - {model: sohl-sohl-miscgear-pence, system: quantity:31}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: shrtswd, model: sohl-sohl-weapongear-shrtswd}
+    - {key: ctunic, model: sohl-sohl-armorgear-ctunic}
+    - {key: cleg, model: sohl-sohl-armorgear-cleg}
+    - {key: ltvest, model: sohl-sohl-armorgear-ltvest}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
+    - {key: pence, model: sohl-sohl-miscgear-pence, system: quantity:31}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -28,6 +28,23 @@ data:
     mouth: full
     extra_features: [a scar across the bridge of the nose]
   packFolder: heroesandknaveskalihara
+  items:
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: knsh, model: weapongear-knsh, kind: weapon}
+    - {key: mhbk, model: armorgear-mhbk, kind: armor}
+    - {key: mleg, model: armorgear-mleg, kind: armor}
+    - {key: mmtn, model: armorgear-mmtn, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: medsupil, model: miscgear-medsupil, kind: miscgear, system: {quantity: 4}}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container, system: {quantity: 2}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: whetstone, name: Whetstone, kind: miscgear, system: {weight: 1}}
+    - key: physiciansroll
+      name: "Physician's roll (bandages, herbs, salves)"
+      kind: miscgear
+      system: {weight: 1}
+    - {key: backpk, model: containergear-backpk, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -74,23 +91,25 @@ sohl:
     - {model: sohl-sohl-skill-glas, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-weapongear-brdswd}
-    - {model: sohl-sohl-weapongear-knsh}
-    - {model: sohl-sohl-armorgear-mhbk}
-    - {model: sohl-sohl-armorgear-mleg}
-    - {model: sohl-sohl-armorgear-mmtn}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-containergear-wtrskin, system: {quantity: 2}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - name: Whetstone
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: knsh, model: sohl-sohl-weapongear-knsh}
+    - {key: mhbk, model: sohl-sohl-armorgear-mhbk}
+    - {key: mleg, model: sohl-sohl-armorgear-mleg}
+    - {key: mmtn, model: sohl-sohl-armorgear-mmtn}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: medsupil, model: sohl-sohl-miscgear-medsupil, system: {quantity: 4}}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin, system: {quantity: 2}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - key: whetstone
+      name: Whetstone
       type: miscgear
       system: {shortcode: whetstone, weight: 1, value: 100, durability: 3}
-    - name: Physician's roll (bandages, herbs, salves)
+    - key: physiciansroll
+      name: Physician's roll (bandages, herbs, salves)
       type: miscgear
       system: {shortcode: physiciansroll, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
   system:
     body:
       structure:

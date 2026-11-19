@@ -29,6 +29,27 @@ data:
     brow: arched
     extra_features: []
   packFolder: helladbyzaria
+  items:
+    - {key: pkaxe, model: weapongear-pkaxe, kind: weapon}
+    - {key: rhtunic, model: armorgear-rhtunic, kind: armor}
+    - {key: rhbrch, model: armorgear-rhbrch, kind: armor}
+    - {key: rhkboot, model: armorgear-rhkboot, kind: armor}
+    - {key: rhmntl, model: armorgear-rhmntl, kind: armor}
+    - {key: rhcap, model: armorgear-rhcap, kind: armor}
+    - {key: minerspickaxe, name: Miner's pickaxe (spare), kind: miscgear, system: {weight: 2}}
+    - {key: safetyrope, name: Safety rope, kind: miscgear, system: {weight: 1.5}}
+    - key: oillanternwithlamp
+      name: Oil lantern with lamp oil
+      kind: miscgear
+      system: {weight: 1}
+    - key: miningassessment
+      name: "Mining assessment tools (loupe, hardness tester)"
+      kind: miscgear
+      system: {weight: 1}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: frtns, model: miscgear-frtns, kind: miscgear, system: {quantity: 2}}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
+    - {key: bgsmcvs, model: containergear-bgsmcvs, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -78,28 +99,32 @@ sohl:
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-weapongear-pkaxe}
-    - {model: sohl-sohl-armorgear-rhtunic}
-    - {model: sohl-sohl-armorgear-rhbrch}
-    - {model: sohl-sohl-armorgear-rhkboot}
-    - {model: sohl-sohl-armorgear-rhmntl}
-    - {model: sohl-sohl-armorgear-rhcap}
-    - name: Miner's pickaxe (spare)
+    - {key: pkaxe, model: sohl-sohl-weapongear-pkaxe}
+    - {key: rhtunic, model: sohl-sohl-armorgear-rhtunic}
+    - {key: rhbrch, model: sohl-sohl-armorgear-rhbrch}
+    - {key: rhkboot, model: sohl-sohl-armorgear-rhkboot}
+    - {key: rhmntl, model: sohl-sohl-armorgear-rhmntl}
+    - {key: rhcap, model: sohl-sohl-armorgear-rhcap}
+    - key: minerspickaxe
+      name: Miner's pickaxe (spare)
       type: miscgear
       system: {shortcode: minerspickaxe, weight: 2, value: 100, durability: 3}
-    - name: Safety rope
+    - key: safetyrope
+      name: Safety rope
       type: miscgear
       system: {shortcode: safetyrope, weight: 1.5, value: 100, durability: 3}
-    - name: Oil lantern with lamp oil
+    - key: oillanternwithlamp
+      name: Oil lantern with lamp oil
       type: miscgear
       system: {shortcode: oillanternwithlamp, weight: 1, value: 100, durability: 3}
-    - name: Mining assessment tools (loupe, hardness tester)
+    - key: miningassessment
+      name: Mining assessment tools (loupe, hardness tester)
       type: miscgear
       system: {shortcode: miningassessment, weight: 1, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-frtns, system: {quantity: 2}}
-    - {model: sohl-sohl-containergear-wtrskin}
-    - {model: sohl-sohl-containergear-bgsmcvs}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: frtns, model: sohl-sohl-miscgear-frtns, system: {quantity: 2}}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
+    - {key: bgsmcvs, model: sohl-sohl-containergear-bgsmcvs}
   system:
     body:
       structure:

@@ -29,6 +29,36 @@ data:
     mouth: wide
     extra_features: [a tattoo of a skill and crossbones on the chest]
   packFolder: helladbyzaria
+  items:
+    - {key: whmr, model: weapongear-whmr, kind: weapon}
+    - {key: psht, model: armorgear-psht, kind: armor}
+    - {key: wtrsr, model: armorgear-wtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - key: sacredrobesoffire
+      name: Sacred robes of fire-resistant linen (ceremonial)
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: leathersatchel
+      name: Leather satchel for ritual items
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: sacredtexts
+      name: Sacred texts of Lizelas (fire aspect)
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: incenseandritual
+      name: Incense and ritual offerings (various)
+      kind: miscgear
+      system: {weight: 1.5}
+    - key: ceremonial
+      name: Ceremonial firestarter (blessed)
+      kind: miscgear
+      system: {weight: 1.5}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: torch, model: miscgear-torch, kind: miscgear}
+    - {key: fireblessed, name: Fire-blessed ceremonial oil, kind: miscgear, system: {weight: 1.5}}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: bpchmd, model: containergear-bpchmd, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
@@ -77,32 +107,38 @@ sohl:
     - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-mysticalability-summ, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-weapongear-whmr}
-    - {model: sohl-sohl-armorgear-psht}
-    - {model: sohl-sohl-armorgear-wtrsr}
-    - {model: sohl-sohl-armorgear-ltshoe}
-    - name: Sacred robes of fire-resistant linen (ceremonial)
+    - {key: whmr, model: sohl-sohl-weapongear-whmr}
+    - {key: psht, model: sohl-sohl-armorgear-psht}
+    - {key: wtrsr, model: sohl-sohl-armorgear-wtrsr}
+    - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
+    - key: sacredrobesoffire
+      name: Sacred robes of fire-resistant linen (ceremonial)
       type: miscgear
       system: {shortcode: sacredrobesoffire, weight: 1.5, value: 100, durability: 3}
-    - name: Leather satchel for ritual items
+    - key: leathersatchel
+      name: Leather satchel for ritual items
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1.5, value: 100, durability: 3}
-    - name: Sacred texts of Lizelas (fire aspect)
+    - key: sacredtexts
+      name: Sacred texts of Lizelas (fire aspect)
       type: miscgear
       system: {shortcode: sacredtexts, weight: 1.5, value: 200, durability: 3}
-    - name: Incense and ritual offerings (various)
+    - key: incenseandritual
+      name: Incense and ritual offerings (various)
       type: miscgear
       system: {shortcode: incenseandritual, weight: 1.5, value: 100, durability: 3}
-    - name: Ceremonial firestarter (blessed)
+    - key: ceremonial
+      name: Ceremonial firestarter (blessed)
       type: miscgear
       system: {shortcode: ceremonial, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-torch}
-    - name: Fire-blessed ceremonial oil
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: torch, model: sohl-sohl-miscgear-torch}
+    - key: fireblessed
+      name: Fire-blessed ceremonial oil
       type: miscgear
       system: {shortcode: fireblessed, weight: 1.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-containergear-bpchmd}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: bpchmd, model: sohl-sohl-containergear-bpchmd}
   system:
     body:
       structure:

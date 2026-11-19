@@ -26,6 +26,20 @@ data:
     complexion: [sun_kissed]
     hair_style: cropped
   packFolder: ankarisvedyara
+  items:
+    - {key: stf, model: weapongear-stf, kind: weapon}
+    - {key: slng, model: weapongear-slng, kind: weapon}
+    - {key: sston, model: projectilegear-sston, kind: projectile}
+    - {key: kni, model: weapongear-kni, kind: weapon}
+    - {key: hstunic, model: armorgear-hstunic, kind: clothing}
+    - {key: hstrsr, model: armorgear-hstrsr, kind: clothing}
+    - {key: ltsndls, model: armorgear-ltsndls, kind: clothing}
+    - {key: wclk, model: armorgear-wclk, kind: clothing}
+    - {key: bondtoken, model: miscgear-bondtoken, kind: miscgear}
+    - {key: flutewoode, model: miscgear-flutewoode, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -71,19 +85,19 @@ sohl:
     - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-musc, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-stf}
-    - {model: sohl-sohl-weapongear-slng}
-    - {model: sohl-sohl-projectilegear-sston}
-    - {model: sohl-sohl-weapongear-kni}
-    - {model: sohl-sohl-armorgear-hstunic}
-    - {model: sohl-sohl-armorgear-hstrsr}
-    - {model: sohl-sohl-armorgear-ltsndls}
-    - {model: sohl-sohl-armorgear-wclk}
-    - {model: miscgear-bondtoken}
-    - {model: sohl-sohl-miscgear-flutewoode}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: stf, model: sohl-sohl-weapongear-stf}
+    - {key: slng, model: sohl-sohl-weapongear-slng}
+    - {key: sston, model: sohl-sohl-projectilegear-sston}
+    - {key: kni, model: sohl-sohl-weapongear-kni}
+    - {key: hstunic, model: sohl-sohl-armorgear-hstunic}
+    - {key: hstrsr, model: sohl-sohl-armorgear-hstrsr}
+    - {key: ltsndls, model: sohl-sohl-armorgear-ltsndls}
+    - {key: wclk, model: sohl-sohl-armorgear-wclk}
+    - {key: bondtoken, model: miscgear-bondtoken}
+    - {key: flutewoode, model: sohl-sohl-miscgear-flutewoode}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

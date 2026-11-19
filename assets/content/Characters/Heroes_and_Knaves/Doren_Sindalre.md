@@ -27,6 +27,26 @@ data:
     complexion: [scarred]
     extra_features: [Deep ragged scar diagonally across left cheek]
   packFolder: aureldiaprovenzia
+  items:
+    - {key: baxe, model: weapongear-baxe, kind: weapon}
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
+    - {key: ctrsr, model: armorgear-ctrsr, kind: armor}
+    - {key: cswd, model: armorgear-cswd, kind: armor}
+    - {key: cstnc, model: armorgear-cstnc, kind: armor}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: ltglove, model: armorgear-ltglove, kind: clothing}
+    - {key: sbyrn, model: armorgear-sbyrn, kind: armor}
+    - {key: pcap, model: armorgear-pcap, kind: armor}
+    - {key: pstnc, model: armorgear-pstnc, kind: armor}
+    - {key: plhhelm, model: armorgear-plhhelm, kind: armor}
+    - {key: bagleather15, model: containergear-bagleather15, kind: container}
+    - {key: grindstone, model: miscgear-grindstone, kind: miscgear}
+    - {key: flaskmetal, model: containergear-flaskmetal, kind: container}
+    - {key: backpk, model: containergear-backpk, kind: container}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 3}}
+    - {key: litebdrl, model: miscgear-litebdrl, kind: miscgear}
+    - {key: wtrskin, model: containergear-wtrskin, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 17}}
@@ -75,25 +95,25 @@ sohl:
     - {model: sohl-sohl-skill-smsh, system: {masteryLevelBase: 12}}
     - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 55}}
     - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-weapongear-baxe}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-weapongear-rndsh}
-    - {model: sohl-sohl-armorgear-ctrsr}
-    - {model: sohl-sohl-armorgear-cswd}
-    - {model: sohl-sohl-armorgear-cstnc}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-ltglove}
-    - {model: sohl-sohl-armorgear-sbyrn}
-    - {model: sohl-sohl-armorgear-pcap}
-    - {model: sohl-sohl-armorgear-pstnc}
-    - {model: sohl-sohl-armorgear-plhhelm}
-    - {model: sohl-sohl-containergear-bagleather15}
-    - {model: sohl-sohl-miscgear-grindstone}
-    - {model: sohl-sohl-containergear-flaskmetal}
-    - {model: sohl-sohl-containergear-backpk}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
-    - {model: sohl-sohl-miscgear-litebdrl}
-    - {model: sohl-sohl-containergear-wtrskin}
+    - {key: baxe, model: sohl-sohl-weapongear-baxe}
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
+    - {key: ctrsr, model: sohl-sohl-armorgear-ctrsr}
+    - {key: cswd, model: sohl-sohl-armorgear-cswd}
+    - {key: cstnc, model: sohl-sohl-armorgear-cstnc}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: ltglove, model: sohl-sohl-armorgear-ltglove}
+    - {key: sbyrn, model: sohl-sohl-armorgear-sbyrn}
+    - {key: pcap, model: sohl-sohl-armorgear-pcap}
+    - {key: pstnc, model: sohl-sohl-armorgear-pstnc}
+    - {key: plhhelm, model: sohl-sohl-armorgear-plhhelm}
+    - {key: bagleather15, model: sohl-sohl-containergear-bagleather15}
+    - {key: grindstone, model: sohl-sohl-miscgear-grindstone}
+    - {key: flaskmetal, model: sohl-sohl-containergear-flaskmetal}
+    - {key: backpk, model: sohl-sohl-containergear-backpk}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
+    - {key: litebdrl, model: sohl-sohl-miscgear-litebdrl}
+    - {key: wtrskin, model: sohl-sohl-containergear-wtrskin}
   system:
     body:
       structure:

@@ -28,6 +28,29 @@ data:
     face_shape: oval
     extra_features: []
   packFolder: regkhhk
+  items:
+    - {key: dgr, model: weapongear-dgr, kind: weapon}
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgbrch, model: armorgear-sgbrch, kind: clothing}
+    - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: stdrtns, model: miscgear-stdrtns, kind: miscgear, system: {quantity: 2}}
+    - key: lockpicksandthiefs
+      name: Lockpicks and thief's tools
+      kind: miscgear
+      system: {weight: 0.3}
+    - {key: disguisekit, name: Disguise kit and cosmetics, kind: miscgear, system: {weight: 0.5}}
+    - key: writingmaterials
+      name: Writing materials and coded notes
+      kind: miscgear
+      system: {weight: 0.3}
+    - {key: finesilkfaceveil, name: Fine silk face veil, kind: miscgear, system: {weight: 0.1}}
+    - key: ropeandgrapplinghook
+      name: Rope and grappling hook
+      kind: miscgear
+      system: {weight: 0.5}
+    - {key: bpchlg, model: containergear-bpchlg, kind: container}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 9}}
@@ -77,29 +100,34 @@ sohl:
     - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 14}}
     - {model: sohl-sohl-skill-lock, system: {masteryLevelBase: 60}}
     - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-weapongear-dgr}
-    - {model: sohl-sohl-armorgear-slkshirt}
-    - {model: sohl-sohl-armorgear-sgbrch}
-    - {model: sohl-sohl-armorgear-ltkboot}
-    - {model: sohl-sohl-armorgear-slkclk}
-    - {model: sohl-sohl-miscgear-tndrbx}
-    - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
-    - name: Lockpicks and thief's tools
+    - {key: dgr, model: sohl-sohl-weapongear-dgr}
+    - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
+    - {key: sgbrch, model: sohl-sohl-armorgear-sgbrch}
+    - {key: ltkboot, model: sohl-sohl-armorgear-ltkboot}
+    - {key: slkclk, model: sohl-sohl-armorgear-slkclk}
+    - {key: tndrbx, model: sohl-sohl-miscgear-tndrbx}
+    - {key: stdrtns, model: sohl-sohl-miscgear-stdrtns, system: {quantity: 2}}
+    - key: lockpicksandthiefs
+      name: Lockpicks and thief's tools
       type: miscgear
       system: {shortcode: lockpicksandthiefs, weight: 0.3, value: 100, durability: 3}
-    - name: Disguise kit and cosmetics
+    - key: disguisekit
+      name: Disguise kit and cosmetics
       type: miscgear
       system: {shortcode: disguisekit, weight: 0.5, value: 100, durability: 3}
-    - name: Writing materials and coded notes
+    - key: writingmaterials
+      name: Writing materials and coded notes
       type: miscgear
       system: {shortcode: writingmaterials, weight: 0.3, value: 100, durability: 3}
-    - name: Fine silk face veil
+    - key: finesilkfaceveil
+      name: Fine silk face veil
       type: miscgear
       system: {shortcode: finesilkfaceveil, weight: 0.1, value: 100, durability: 3}
-    - name: Rope and grappling hook
+    - key: ropeandgrapplinghook
+      name: Rope and grappling hook
       type: miscgear
       system: {shortcode: ropeandgrapplinghook, weight: 0.5, value: 100, durability: 3}
-    - {model: sohl-sohl-containergear-bpchlg}
+    - {key: bpchlg, model: sohl-sohl-containergear-bpchlg}
   system:
     body:
       structure:
