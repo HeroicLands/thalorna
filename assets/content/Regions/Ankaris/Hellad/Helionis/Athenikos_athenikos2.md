@@ -3,32 +3,34 @@ shortcode: athenikos2
 name: {full: Athenikos}
 type: place
 subType: settlement
-description: "A Helionite city in which each year is named for its Arsir and the assembly of citizens stays sovereign over the wealthy families who hold it."
-tags: [city-state, city, draft]
+description: "A Helionite town in which each year is named for its Arsir and the assembly of citizens stays sovereign over the wealthy families who hold it."
+tags: [city-state, town, draft]
 data:
   demonym: null
   lore: []
   parents: [helionis]
-  population: 55000
-  market: international
-  type: city
+  population: 7000
+  market: regional
+  type: town
   government: athenikos
-  notes: "A Helionite city in which each year is named for its Arsir and the assembly of citizens stays sovereign over the wealthy families who hold it."
+  notes: "A Helionite town in which each year is named for its Arsir and the assembly of citizens stays sovereign over the wealthy families who hold it."
 ---
 
 ## Overview {#overview}
 
-**Athenikos** is a city of 55,000 in [[place-helionis|Helionis]], and the way to learn it is to learn how it names a year. Each year takes the name of its _arsir_ (the presiding magistrate), who lends the year his name and hands the office back at the end of it. Whoever holds the title, the assembly of citizens stays sovereign, and the arsir presides over it without ruling it.
+**Athenikos** is a town of 7,000 in [[place-helionis|Helionis]], and the way to learn it is to learn how it names a year. Each year takes the name of its _arsir_ (the presiding magistrate), who lends the year his name and hands the office back at the end of it. Whoever holds the title, the assembly of citizens stays sovereign, and the arsir presides over it without ruling it.
 
 ## Who Governs
 
-[[affiliation-athenikos|Athenikos]] is held by an oligarchy of its wealthy patron families, working inside the forms every Helionite city-state keeps. Citizens by descent vote in the assembly and serve in the militia. A council chosen by lot prepares the assembly's business for one year, and no one sits on it twice. Every magistrate's accounts go to an auditor at the end of his term, and without the auditor's clearance he may not leave the city. The one officer the citizens elect rather than allot is the _strátimor_, who commands the city's forces by land and sea and may be re-elected without limit.
+[[affiliation-athenikos|Athenikos]] is held by an oligarchy of its wealthy patron families, working inside the forms every Helionite city-state keeps. Citizens by descent vote in the assembly and serve in the militia. A council chosen by lot prepares the assembly's business for one year, and no one sits on it twice. Every magistrate's accounts go to an auditor at the end of his term, and without the auditor's clearance he may not leave the town. The one officer the citizens elect rather than allot is the _strátimor_, who commands the town's forces by land and sea and may be re-elected without limit.
 
-A visitor meets the city through two offices. The _agóranir_, warden of the market, rules on weights, coin, quality and disputes, so a stranger who buys or sells in the agorin answers to him first. A foreigner who stays is a metic: taxed, liable to the levy, with no vote and no right to own land.
+A visitor meets the town through two offices. The _agóranir_, warden of the market, rules on weights, coin, quality and disputes, so a stranger who buys or sells in the agorin answers to him first. A foreigner who stays is a metic: taxed, liable to the levy, with no vote and no right to own land.
 
 ## Character
 
 Athenikos shares the [[skill-helonclng|Helonik Language]], the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the festivals and games of its sister city-states, and competes with them in everything else. Its agorin works as every Helionite agorin does. A claim made there is examined on the spot, before witnesses, and a reputation is something a citizen performs rather than inherits. A newcomer who wants to be taken seriously says something and defends it.
+
+The town eats from the grain fields and olive terraces of its own valley. Wool, horses and gold come down to it from [[place-daminea|Daminea]] and [[place-rakiria|Rakiria]], the two towns it holds in the hills, and the bread that goes up to them is paid for with that wool and gold.
 
 ## See Also {#see-also}
 

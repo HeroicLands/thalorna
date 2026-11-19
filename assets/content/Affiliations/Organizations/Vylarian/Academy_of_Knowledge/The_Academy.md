@@ -49,7 +49,7 @@ sohl: {system: {commonSkills: []}}
 
 _**Epistémion** is the Helonik word for a university, "the place of all knowledge"; in plain words it is the Academy of Knowledge._
 
-A lecturer of the [College of Ethics]{.name data-type="affiliation"}, asked what the Epistémion is, takes you to the gate of a chapterhouse and points at the sign. "That is the seal of the oldest scholarly body in the west. It teaches law, logic, language and natural philosophy, and a farmer's son can learn his letters under it. Now ask me who pays for the roof, who appoints the head of the house, and whose students are quietly counted for a talent the Order wants. My college refused its seal to the charter that made the Order, and the seal is on the door anyway."
+A lecturer of the [[affiliation-cllgofethcs|College of Ethics]], asked what the Epistémion is, takes you to the gate of a chapterhouse and points at the sign. "That is the seal of the oldest scholarly body in the west. It teaches law, logic, language and natural philosophy, and a farmer's son can learn his letters under it. Now ask me who pays for the roof, who appoints the head of the house, and whose students are quietly counted for a talent the Order wants. My college refused its seal to the charter that made the Order, and the seal is on the door anyway."
 
 The **Epistémion** is the oldest and broadest scholarly institution in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. It was founded in the [[place-helionis|Helionite]] city-states around 400 BF (see [[lore-panepistfnd|the Founding of the Epistémion]]) as a federation of all philosophical inquiry, a place where every domain of knowledge could be studied, debated and advanced under one roof: natural philosophy, ethics, logic, metaphysics, the study of mind and language, the principles of governance and law, and the arcane arts. The Helionite name for the idea is _sinthasin_, the bringing together.
 
@@ -89,7 +89,7 @@ The traditional colleges of the Epistémion, as they stood in the Helionite peri
 
 **The [College of Epistemology]{.name data-type="affiliation"}**—The study of knowledge and belief. How do we come to know things, and what makes a belief justified? Where prophecy, divination and what worshippers regard as divine revelation are real phenomena, these questions carry a practical urgency.
 
-**The College of Ethics**—Also called moral philosophy: moral values, principles, and the question of how one ought to act. The ethical colleges of Helionis produced some of the most influential moral frameworks in western Ankaris, several of which still underpin Vilérian law.
+**The [[affiliation-cllgofethcs|College of Ethics]]**—Also called moral philosophy: moral values, principles, and the question of how one ought to act. The ethical colleges of Helionis produced some of the most influential moral frameworks in western Ankaris, several of which still underpin Vilérian law.
 
 **The [College of Logic]{.name data-type="affiliation"}**—The study of reasoning and argument, and of whether an argument is valid and sound. The Helionite logicians laid the foundations the other colleges build on, and their methods remain the shared language of scholarly discourse.
 
@@ -171,3 +171,6 @@ Below the Inner Wall the colleges fear the Seldan's displeasure. A reader whose 
 
 [[place-provenzrgn|Provénzia]]
 : Strong philosophical traditions, particularly in ethics and aesthetics
+
+[[affiliation-cllgofethcs|College of Ethics]]
+: The Epistémion's college of moral philosophy at Thirenae

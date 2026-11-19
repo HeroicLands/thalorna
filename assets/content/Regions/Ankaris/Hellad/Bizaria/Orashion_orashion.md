@@ -3,7 +3,7 @@ shortcode: orashion
 name: {full: Órashion}
 type: affiliation
 subType: polity
-description: "City-state of the Bizarian League—the League's forge city in the mountain interior, built on its mines, basalt walls and guild masters."
+description: "City-state of the Bizarian League—the League's forge city-state in the mountain interior, built on its mines, basalt walls and guild masters."
 data:
   templatePriority: null
   demonym: Órashian
@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: orashion2
-  population: 1600000
-  territorial_population: 1600000
+  population: 220000
+  territorial_population: 220000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
@@ -71,11 +71,11 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Órashion is the one [[affiliation-byzarianlg|League city]] where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 1.6 million people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of [[place-byzariargn|Bizaria]], and the others in the League regard it as the least glamorous of the five and the one they could least do without.
+Órashion is the one [[affiliation-byzarianlg|League seat]] where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 220,000 people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of [[place-byzariargn|Bizaria]], and the others in the League regard it as the least glamorous of the five and the one they could least do without.
 
 ## Who Decides
 
-A guild council and the merchant-princes share the government. The guilds control the quality and quantity of production, so a buyer who wants a blade, a cast or a commission negotiates with a guild before any merchant-prince. That makes Órashion a working-class city whose politics run more egalitarian than the oligarchies of [[affiliation-khryshteikhos|Krusteikhos]] and [[affiliation-nesthiros|Nesthiros]], or at least more contentious. An ore-wagon driver on the mountain road says it from his own seat: "I know whose seal is on my load before I know its weight."
+A guild council and the merchant-princes share the government. The guilds control the quality and quantity of production, so a buyer who wants a blade, a cast or a commission negotiates with a guild before any merchant-prince. That makes Órashion a working-class city-state whose politics run more egalitarian than the oligarchies of [[affiliation-khryshteikhos|Krusteikhos]] and [[affiliation-nesthiros|Nesthiros]], or at least more contentious. An ore-wagon driver on the mountain road says it from his own seat: "I know whose seal is on my load before I know its weight."
 
 The council elects a First of the Council for a fixed term, who holds the city's seal. In Órashion the Guild Master, who speaks before the council for a chartered trade and answers for his members' conduct, sits at that table with the same authority as a merchant-prince.
 
@@ -91,6 +91,14 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 
 Órashion uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Órashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
+## Current Situation {#present}
+
+The guilds and the merchant-princes share the council, and the guilds decide how much the forges produce. The city-state's weight in the League is the arms and metalwork the other four cities trade.
+
+## History {#history}
+
+Órashion entered the Compact of the Five with the other four cities about 157 BF. The Eastern War of about 209 AF annexed the League as a province, and the guild council kept its seat.
+
 ## See Also
 
 [[affiliation-byzarianlg|Bizarian League]]
@@ -100,7 +108,7 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 : the League's country
 
 [[place-orashion2|Órashion]]
-: the forge city
+: the forge town
 
 [[place-eastrnmrch|Eastern March]]
 : the frontier whose Vezhnur holds Órashion brokers with

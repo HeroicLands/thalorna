@@ -3,13 +3,13 @@ shortcode: adhelimisgho
 name: {full: Adhélimis Ghotones, en: [Patriarch Adhélimis Ghotones]}
 type: being
 subType: npc
-description: The ancient Temple Patriarch, who relies heavily on Dumares Rafiros and has indicated that he may be groomed as successor.
+description: An ancient priest of the Temple of Árdavon in Korinthea and keeper of the tradition of its honorary Patriarchate, who relies heavily on Dumares Rafiros.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: Temple Patriarch
+  occupation: Priest
   lore: []
   culture: helioniteclt
   homes: []
@@ -42,4 +42,4 @@ Adhélimis Ghotones is a 90-year-old man who stands 5'10" tall with a medium bui
 
 # Dossier {#dossier}
 
-Adhélimis Ghotones is the ancient Temple Patriarch. He relies heavily on [[being-dumarsrfrs|Dumares Rafiros]] and has indicated privately that Dumares may be groomed as his successor.
+Adhélimis Ghotones is an ancient priest of the [[place-tmplrdvn|Temple of Árdavon]] in Korinthea. The Patriarchate is an ancient honorary title of the temple that no one now holds, and he keeps its tradition. He relies heavily on [[being-dumarsrfrs|Dumares Rafiros]], who answers nominally to that tradition, and has indicated privately that Dumares may be groomed to carry it.

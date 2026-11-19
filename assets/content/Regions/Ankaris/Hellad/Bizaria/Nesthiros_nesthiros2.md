@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [byzariargn]
-  population: 70000
+  population: 30000
   market: international
   type: city
   government: nesthiros
@@ -18,7 +18,7 @@ data:
 
 ## Overview {#overview}
 
-[[place-khryshteikhos2|Krusteikhos]] has the gold, a Nesthirian says, but Nesthiros has the ships. The city sits on a fortress isle in the straits that carry its name, and it is the principal seaport of the [[affiliation-byzarianlg|Bizarian League]], the gateway where the overland caravan routes of the east meet the sea-trading powers of the west. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vilérian Sea]], and about 70,000 people live and work around it.
+[[place-khryshteikhos2|Krusteikhos]] has the gold, a Nesthirian says, but Nesthiros has the ships. The city sits on a fortress isle in the straits that carry its name, and it is the principal seaport of the [[affiliation-byzarianlg|Bizarian League]], the gateway where the overland caravan routes of the east meet the sea-trading powers of the west. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vilérian Sea]], and about 30,000 people live and work around it.
 
 ## The Waterfront
 
@@ -31,6 +31,8 @@ A council of merchant-princes and the admiralty govern [[affiliation-nesthiros|N
 ## Making a Living
 
 Nesthiros lives on transfer. Eastern goods arrive from [[place-khryshteikhos2|Krusteikhos]] by the lowland road and leave in League and foreign hulls; western goods make the journey in reverse. Its captains have traded with the coasts of [[place-midhalnrgn|Midhalión]] and [[place-xerathia|Zerathia]] for a thousand years.
+
+The fortress isle has no fields, so the city buys its bread: Velanthian grain comes down the Northern March and along the lowland road, and the olive and vine villages of the coastal hills behind the harbors send up oil and wine. The shipyards buy their timber abroad, and what the city sends out is the eastern trade and the war-galleys its own yards build.
 
 ## See Also {#see-also}
 

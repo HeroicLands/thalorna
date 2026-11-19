@@ -52,7 +52,7 @@ Word has come down the road that a dovaq of the northern steppe is gathering tri
 
 ## Economy
 
-The March produces silver, tolls and contracts. The mines in the ranges around Argirteikhos are the League's single greatest source of revenue, and their output is minted in the city and spent, in large part, on the March itself. Every caravan crossing the passes pays the League's tariff at the outer caravanserai and the pass-fort, and the collectors are League officers rather than city ones. Supplying the garrison—grain, fodder, remounts, leather, iron—is a business in its own right, and the merchant houses that hold the contracts are among the wealthiest in Argirteikhos. Beyond that there are horses bought from the steppe clans, wool from the upland herds, and the small, steady trade in what the smugglers bring over the mule-tracks and nobody asks about.
+The March produces silver, tolls and contracts. The mines in the ranges around Argirteikhos are the League's single greatest source of revenue, and their output is minted in the town and spent, in large part, on the March itself. Every caravan crossing the passes pays the League's tariff at the outer caravanserai and the pass-fort, and the collectors are League officers rather than city ones. Supplying the garrison—grain, fodder, remounts, leather, iron—is a business in its own right, and the merchant houses that hold the contracts are among the wealthiest in Argirteikhos. Beyond that there are horses bought from the steppe clans, wool from the upland herds, and the small, steady trade in what the smugglers bring over the mule-tracks and nobody asks about.
 
 ## See Also {#see-also}
 
@@ -63,7 +63,7 @@ The March produces silver, tolls and contracts. The mines in the ranges around A
 : the confederation that commissions its lord
 
 [[affiliation-argyrteikhos|Argirteikhos]]
-: the city that anchors it
+: the town that anchors it
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : the country it faces

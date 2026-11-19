@@ -10,64 +10,44 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: democracy
-    summary: ""
+    model: oligarchy
+    summary: "Oligarchic assembly of the wealthiest and most educated citizens, who hold that this fits them to guide the city toward justice and virtue."
     ranks:
       - level: 0
         title: Átimor
-        description: >-
-          Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him.
+        description: "Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him."
       - level: 1
         title: Slave
-        description: Owned outright, with no standing before the law except through an owner.
+        description: "Owned outright, with no standing before the law except through an owner."
       - level: 2
         title: Freedman
-        description: Manumitted, working and trading in the city, and barred from the assembly for life.
+        description: "Manumitted, working and trading in the city, and barred from the assembly for life."
       - level: 3
         title: Metic
-        description: A resident foreigner, taxed and liable to the levy, with no vote and no right to own land.
+        description: "A resident foreigner, taxed and liable to the levy, with no vote and no right to own land."
       - level: 4
         title: Citizen
-        description: >-
-          Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council.
+        description: "Of the citizen body by descent, voting in the assembly and serving in the militia; the assembly's weight lies with the wealthiest and most educated of them. A citizen is not yet a member of the council."
       - level: 5
         title: Councilor
-        description: >-
-          Chosen by lot to the council that prepares the assembly's business, for one year and never twice.
+        description: "Chosen by lot to the council that prepares the assembly's business, for one year and never twice."
       - level: 6
         title: Magistrate
-        description: >-
-          Elected or allotted to an office of the city—its markets, its walls, its treasury, its courts—and audited at the end of the year.
+        description: "Elected or allotted to an office of the city, its markets, its walls, its treasury, its courts, and audited at the end of the year."
       - level: 7
         title: Strátimor
-        description: >-
-          Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit.
+        description: "Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit."
       - level: 8
         title: Arsir
-        description: >-
-          Presiding magistrate of the year, who gives it his name and hands it back—the assembly remains sovereign throughout.
+        description: "Presiding magistrate of the year, who gives it his name and hands it back, while the assembly remains sovereign throughout."
     offices:
-      Arsir: >-
-        Presiding magistrate for the year, who gives the year his name and surrenders the office at its end.
-      Strátimor: >-
-        Elected commander of the city's forces by land and sea; the one office held by election and without term limit.
-      Councilor: Member of the council that prepares business for the assembly, allotted for a single year.
-      Treasurer: >-
-        Keeper of the city's revenue and of the sacred treasuries, audited publicly at the end of his term.
-      Agóranir: Warden of the market—its weights, its coin, its quality and its disputes.
-      Nomasfilir: Guardian of the laws, who may halt a decree of the assembly that contradicts them.
-      Secretary of the Council: Keeper of the council's record and of the decrees the assembly passes.
-      Auditor: >-
-        Examiner of every magistrate's accounts at the end of his year, without whose clearance he may not leave the city.
-      Herald: >-
-        Voice of the assembly and of the city abroad, whose person is inviolable even between enemies.
-      Ambassador: >-
-        Elected to treat with another city or power, and answerable to the assembly for what he agrees.
-      Ghimarir: >-
-        Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
+      Arsir: "Presiding magistrate for the year, who gives the year his name, drawn from the wealthiest and most educated citizens who run Theradon."
+      Strátimor: "Elected commander of the forces of Theradon by land and sea."
+      Councilor: "Member of the council chosen by lot to prepare business for an assembly of the wealthiest and most educated citizens, serving a single year."
+      Magistrate: "Officer of the city's markets, walls, treasury or courts, elected or allotted, who treats government as a branch of philosophy and is audited at the end of the year."
   seat: theradon2
-  population: 510000
-  territorial_population: 510000
+  population: 190000
+  territorial_population: 190000
   economy:
     - affiliation-tarmex
     - affiliation-danvar
@@ -83,13 +63,13 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview {#overview}
 
-Theradon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the [Theradik Gulf]{.name data-type="place/feature"}, known for its philosophers, physicians and natural historians and for an [[affiliation-panepistmm|Epistémion]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Theradon]]. Theradon fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in 330 BF, the first city of the war to fall, and lost its mage-warlord and his workshop in the same season. The chapterhouse does not teach that year.
+Theradon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides in the Helionite interior, known for its philosophers, physicians and natural historians and for an [[affiliation-panepistmm|Epistémion]] chapterhouse. About 190,000 people live under its assembly, and 6,000 of them in the town of [[place-theradon2|Theradon]]. Theradon fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in 330 BF, the first city of the war to fall, and lost its mage-warlord and his workshop in the same season. The chapterhouse does not teach that year.
 
 Government
 : oligarchic assembly of the wealthiest and most educated citizens
 
 Seat
-: the city of [[place-theradon2|Theradon]]
+: the town of [[place-theradon2|Theradon]]
 
 ## Who Decides
 
@@ -99,7 +79,7 @@ The result is real intellectual achievement beside real arrogance. A student fro
 
 ## Learning and Faith
 
-Scholars from across the realms come to study with Theradon's philosophers, physicians and natural historians. The city's libraries hold some of the oldest written texts in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its colonnades are full of students in dialectic with their teachers. The Epistémion (the Academy of Knowledge) chapterhouse, part of the federation [[lore-panepistfnd|founded around 400 BF]], gives the city its standing as a place of study.
+Scholars from across the realms come to study with Theradon's philosophers, physicians and natural historians. Theradon's libraries hold some of the oldest written texts in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and its colonnades are full of students in dialectic with their teachers. The Epistémion (the Academy of Knowledge) chapterhouse, part of the federation [[lore-panepistfnd|founded around 400 BF]], gives Theradon its standing as a place of study.
 
 The temples of the [[affiliation-arldnpnthn|Aureldian pantheon]] keep high standards of ritual propriety, but the academy is the center of spiritual life, because the pursuit of wisdom is treated here as a sacred duty. Markets are orderly and regulated, and art and architecture are built to elevate the soul and sharpen the intellect. Theradon is sublime and stifling in the same afternoon: beauty and insight beside a narrow certainty about what counts as truth and a proper life.
 
@@ -109,9 +89,10 @@ Theradon uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel
 
 ## See Also {#see-also}
 
-- [[affiliation-ctysttshlns|City-States of Helionis]]—the seven cities and how they are governed
+- [[affiliation-ctysttshlns|City-States of Helionis]]—the seven city-states and how they are governed
 - [[place-helionis|Helionis]]—the region
-- [[place-theradon2|Theradon]]—the city itself
+- [[place-theradon2|Theradon]]—the town itself
+- [[place-nafrithos|Nafrithos]], [[place-tumaron|Tumaron]], [[place-mubaria|Mubaria]]—the hinterland towns the city-state holds
 - [[skill-helonclng|Helonik]]—the naming tradition
 - [[affiliation-arldnpnthn|Aureldian Pantheon]]—the shared faith
 - [[affiliation-panepistmm|Epistémion]]—the scholarly federation

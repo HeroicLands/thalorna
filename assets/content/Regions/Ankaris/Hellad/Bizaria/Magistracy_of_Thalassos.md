@@ -28,10 +28,14 @@ data:
   territorial_population: 4000
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [byzarianlg]
   relations: {}
   packFolder: byzaria
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
 The **Magistracy of Thálassos** is the office of the town's magistrate, who keeps minimal customs authority at [[place-thalassos|Thálassos]] and leaves the tariffs to a handful of bonded merchants. The arrangement suits independent traders and small-scale smugglers.
+
+## History {#history}
+
+The magistracy answers to the Bizarian League, which the Eastern War annexed to the empire about 209 AF. The town's protected natural harbor is what made it a refuge for ships caught by seasonal storms.

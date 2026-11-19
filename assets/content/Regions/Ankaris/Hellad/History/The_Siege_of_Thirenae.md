@@ -61,7 +61,7 @@ data:
         - what the commissioners carried out of the college's rooms, which no inventory the city kept survives to name
 ---
 
-[[place-thyrenae2|Thirenae]]'s walls have a long scar on the western side where a gate was walled up and never reopened. It is the [Commissioners' Gate]{.name data-type="place/structure"}, and it marks where the last free city of [[place-helionis|Helionis]] let the [Vilérian Republic]{.name data-type="affiliation/polity"} in during The Siege of Thirenae.
+[[place-thyrenae2|Thirenae]]'s walls have a long scar on the western side where a gate was walled up and never reopened. It is the [[place-cmmssnrsgate|Commissioners' Gate]], and it marks where the last free city of [[place-helionis|Helionis]] let the [Vilérian Republic]{.name data-type="affiliation/polity"} in during The Siege of Thirenae.
 
 ## The Siege
 
@@ -74,7 +74,7 @@ The Arsir of the year, [Sothanos Kosamides]{.name data-type="being/npc"}, sent t
 ## What the Siege Left
 
 - **The Commissioners' Gate**, walled up in the days after and never reopened. Antiquarians go to see it, and nobody else uses the street.
-- **The [Library of Thirenae]{.name data-type="place/structure"}**, whole, and the colleges around it, which are the reason the city still teaches.
+- **The [[place-thyrnelbrry|Library of Thirenae]]**, whole, and the colleges around it, which are the reason the city still teaches.
 - **The day of the extraction**, which the colleges keep as a day of silence.
 - **Thirenae's claim** to be the birthplace of the [[affiliation-ordoarcanis|Arcane Order]] and its first victim.
 
@@ -82,5 +82,5 @@ The Arsir of the year, [Sothanos Kosamides]{.name data-type="being/npc"}, sent t
 
 - [[lore-helionscnq|The Conquest of Helionis]]—the war this siege ends
 - [[lore-heladpelagtrty|The Pelagoran Treaty]]—what the ships on the coast were bought with
-- [[affiliation-thyrenae|Thirenae]] · [[place-thyrenae2|the city of Thirenae]]
+- [[affiliation-thyrenae|Thirenae]] · [[place-thyrenae2|the town of Thirenae]]
 - [[affiliation-panepistmm|Epistémion]]

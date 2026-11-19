@@ -25,7 +25,7 @@ data:
     offices: {}
   seat: chrysamar
   population: null
-  territorial_population: 25000
+  territorial_population: 4500
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]
@@ -34,4 +34,8 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The **Merchant Consortia of Krisamar** hold the warehouses of the harborfront at [[place-chrysamar|Krisamar]], a secondary port city of the [[affiliation-byzarianlg|Bizarian League]]. They operate independently of the strict governance of the League's larger cities, which gives the port a looser, more entrepreneurial character.
+The **Merchant Consortia of Krisamar** hold the warehouses of the harborfront at [[place-chrysamar|Krisamar]], a secondary port town of the [[affiliation-byzarianlg|Bizarian League]]. They operate independently of the strict governance of the League's larger seats, which gives the port a looser, more entrepreneurial character.
+
+## History {#history}
+
+Krisamar was placed on the coast to rival the supremacy of Nesthiros, and the consortia's warehouses line its harborfront outside the stricter governance of the League's larger seats.
