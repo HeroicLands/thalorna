@@ -28,13 +28,13 @@ data:
     skin_color: pale
     complexion: [smooth]
     hair_style: long
-    extra_features: [a pale ring around each iris]
+    extra_features: [a thin pale scar through the left eyebrow]
   packFolder: kiichchikkuxiixbal
 ---
 
 # Appearance {#appearance}
 
-Ulpesavo Velliranto is a man of 1,500 years who stands 6' 3" tall and is of light build. His long white hair is bound at the nape with a heron's quill, his eyes are grey with a pale ring around each iris, and his pale skin is almost without color. He wears a long robe of woven reed and sits at the lagoon's edge every evening, motionless, until the last flight has gone up.
+Ulpesavo Velliranto is a man of 1,500 years who stands 6' 3" tall and is of light build. His long white hair is bound at the nape with a heron's quill, his eyes are grey, a thin pale scar runs through his left eyebrow, and his pale skin is almost without color. He wears a long robe of woven reed and sits at the lagoon's edge every evening, motionless, until the last flight has gone up.
 
 # Dossier {#dossier}
 
