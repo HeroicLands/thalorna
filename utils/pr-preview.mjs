@@ -7,10 +7,11 @@ const REPOSITORY = "HeroicLands/thalorna";
 const SHA = /^[0-9a-f]{40}$/;
 
 /** Read identity from the event; the forge lookup supplies current eligibility. */
-export function previewRequest(eventName, event, repository) {
+export function previewRequest(eventName, event, repository, ref) {
     if (repository !== REPOSITORY) throw new Error("preview repository rejected");
     let number, sourceSha, action;
     if (eventName === "workflow_dispatch") {
+        if (ref !== "refs/heads/main") throw new Error("manual preview requires main");
         ({ "pr-number": number, "source-sha": sourceSha, operation: action } = event.inputs ?? {});
         if (!["publish", "cleanup"].includes(action)) throw new Error("preview operation rejected");
     } else if (eventName === "pull_request_target") {
@@ -65,6 +66,7 @@ async function main() {
         process.env.GITHUB_EVENT_NAME,
         event,
         process.env.GITHUB_REPOSITORY,
+        process.env.GITHUB_REF,
     );
     const helper = await import(
         pathToFileURL(path.resolve("trusted-deploy/actions/internal-site-deploy/publish.mjs"))

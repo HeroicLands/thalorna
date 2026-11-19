@@ -128,6 +128,8 @@ The trusted `pr-preview.yml` controller reads current PR identity from Gitea.
 Its target-event workflow and script come from the base revision; the event's
 PR head identifies the content. Only adding the preview label requests an
 initial build: Gitea's native `label_updated` action also covers removals.
+Manual publication and cleanup dispatch only from `main`; branch and tag
+dispatches stop before the controller checks out or executes repository code.
 The manually dispatched `publish` operation accepts a PR number and full head
 SHA and applies the same current-state, label, draft and head checks.
 

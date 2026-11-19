@@ -110,11 +110,12 @@ test("close cleanup and reopen invalidation remain independent of label, head el
 });
 
 test("manual requests keep the exact identity and ordinary publication eligibility", () => {
-    const manual = (operation, sourceSha = sha) =>
+    const manual = (operation, sourceSha = sha, ref = "refs/heads/main") =>
         previewRequest(
             "workflow_dispatch",
             { inputs: { operation, "pr-number": "42", "source-sha": sourceSha } },
             repository,
+            ref,
         );
     assert.equal(previewDecision(manual("publish"), { state: "open" }, helpers(true)).build, true);
     assert.equal(
@@ -127,6 +128,39 @@ test("manual requests keep the exact identity and ordinary publication eligibili
     );
     assert.throws(() => manual("shell"));
     assert.throws(() => manual("publish", "main"));
+    for (const ref of ["refs/heads/topic", "refs/tags/v1.0.0", "main", "", undefined])
+        assert.throws(
+            () =>
+                previewRequest(
+                    "workflow_dispatch",
+                    {
+                        inputs: { operation: "publish", "pr-number": "42", "source-sha": sha },
+                    },
+                    repository,
+                    ref,
+                ),
+            /requires main/,
+        );
+});
+
+test("the workflow rejects branch and tag dispatches before any controller step", async () => {
+    const workflow = parse(
+        await fs.readFile(new URL("../.gitea/workflows/pr-preview.yml", import.meta.url), "utf8"),
+    );
+    const expression = workflow.jobs.controller.if.replace(/^\$\{\{\s*|\s*\}\}$/g, "");
+    const allowed = (event_name, ref) =>
+        Function(
+            "github",
+            "vars",
+            `return (${expression});`,
+        )(
+            { event_name, ref, server_url: "https://git.pupluppy.org" },
+            { HL_DEPLOY_ENABLED: "true" },
+        );
+    assert.equal(allowed("workflow_dispatch", "refs/heads/main"), true);
+    for (const ref of ["refs/heads/topic", "refs/tags/v1.0.0", "main", "", undefined])
+        assert.equal(allowed("workflow_dispatch", ref), false);
+    assert.equal(allowed("pull_request_target", "refs/heads/main"), true);
 });
 
 test("the actual workflow pins trusted code, isolates build secrets and handles cleanup independently", async () => {

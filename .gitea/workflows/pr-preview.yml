@@ -23,7 +23,9 @@ permissions:
     contents: write
 jobs:
     controller:
-        if: ${{ github.server_url != 'https://github.com' && vars.HL_DEPLOY_ENABLED == 'true' }}
+        if: >-
+            ${{ github.server_url != 'https://github.com' && vars.HL_DEPLOY_ENABLED == 'true'
+            && (github.event_name != 'workflow_dispatch' || github.ref == 'refs/heads/main') }}
         runs-on: light
         timeout-minutes: 5
         permissions:
