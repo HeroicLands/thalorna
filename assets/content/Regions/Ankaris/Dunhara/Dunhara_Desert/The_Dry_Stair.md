@@ -76,3 +76,6 @@ The vault moves with the dunes, and there is no road. A guide who has seen the D
 
 [[miscgear-sgntmezhvad|The King's Signet of Mezhvadez]]
 : the king's seal
+
+[[scenario-kprdrystr|A Stair of Veiled Women]]
+: a scenario: a stair of veiled women, and a vault whose king's name is chiseled away

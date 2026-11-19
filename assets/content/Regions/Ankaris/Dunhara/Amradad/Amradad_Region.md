@@ -97,3 +97,6 @@ What Amradad sends out is less than what passes through it. Dates, oil, wool and
 
 [[affiliation-khzrncnfdrtn|Tellumi Confederation]]
 : the princely houses whose exile courts sit in Shebarakhend
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario: one spring on the caravan road while a dovaq gathers tribes under his banner

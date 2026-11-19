@@ -117,18 +117,9 @@ finished: [tarvenia, elavendre, provenzia]
 closing: [truth, glossary]
 
 # Scenario and place pairs, written `<scenario shortcode> <place shortcode>`,
-# whose place's See Also does not yet link the scenario. The `scenario-backlink`
-# rule skips exactly these pairs; an entry goes when the link is added.
-deferredBacklinks:
-    - kprdrystr mezhvadez
-    - kprdrystr dunhardsrtrgn
-    - nrctdvzhmvd vzhmvd
-    - nrctdvzhmvd dunhardsrtrgn
-    - sprngbfrbnnr amradadrgn
-    - sprngbfrbnnr valmakhend
-    - sprngbfrbnnr tahrodan
-    - irncrwnstrm twrlghtnmrkd
-    - irncrwnstrm dunhardsrtrgn
+# whose place's See Also does not link the scenario. The `scenario-backlink`
+# rule skips exactly these pairs; the list is empty when every pair links.
+deferredBacklinks: []
 slotLevel: 2
 
 kinds:

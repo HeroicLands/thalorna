@@ -74,3 +74,6 @@ The oasis lies on the southern circuit, a few days beyond the long wells. Its lo
 
 [[affiliation-bnchvzhmvd|Bench of Vazhmavad]]
 : the judging poets who sit at the oasis
+
+[[scenario-nrctdvzhmvd|The Riders Who Ask Your Name]]
+: a scenario: silent riders who ask each captive's name on the southern circuit

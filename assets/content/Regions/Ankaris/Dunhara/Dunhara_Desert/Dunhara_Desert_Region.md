@@ -83,3 +83,12 @@ Thirst is the first danger and the commonest killer, and the guides exist becaus
 
 [[place-amradadrgn|Amradad Region]]
 : the Kingdom's country north-west of the desert
+
+[[scenario-kprdrystr|A Stair of Veiled Women]]
+: a scenario: a stair of veiled women, and a vault whose king's name is chiseled away
+
+[[scenario-nrctdvzhmvd|The Riders Who Ask Your Name]]
+: a scenario: silent riders who ask each captive's name on the southern circuit
+
+[[scenario-irncrwnstrm|What Walks Above the Pale Floor]]
+: a scenario: nightly lightning on a salt-flat tower and the Master of the Tower calling the desert onto the white

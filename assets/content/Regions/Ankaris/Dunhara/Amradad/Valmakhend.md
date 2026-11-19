@@ -64,3 +64,6 @@ The inns on the quay take drivers by the night and keep the animals in yards beh
 
 [[place-caravangate|Caravan Gate]]
 : where the ferries land on Kudumel
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario: one spring on the caravan road while a dovaq gathers tribes under his banner
