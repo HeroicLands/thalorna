@@ -11,7 +11,7 @@ data:
   occupation: Pilot
   lore: []
   culture: dunhariclt
-  homes: [qarvelakhend]
+  homes: [valmakhend]
   affiliations: {kngdmmrdd: {rank: 3}, bazhramis: {rank: 1}}
   gender: male
   species: humanflk
@@ -469,7 +469,7 @@ Venrad stands 5'7" tall with a light build. He has warm olive skin, dark black h
 
 ### The Child of the Storm
 
-Venrad was born in the coastal settlements of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] to a family of traders and minor pilots who navigated the treacherous waters between the kingdom and distant ports. His father, a respected merchant captain, intended that Venrad would follow the family tradition of commerce and cautious navigation. From his earliest childhood, however, Venrad displayed an unusual gift—an almost intuitive understanding of wind, water, and weather. He could sense approaching storms before they became visible, read the subtle changes in water color that indicated dangerous currents, and predict with startling accuracy the behavior of vessels in difficult conditions. His father recognized something rare: genius rather than mere competence.
+Venrad was born in [[place-valmakhend|Valmakhend]], the port of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], to a family of traders and minor pilots who navigated the treacherous waters between the kingdom and distant ports. His father, a respected merchant captain, intended that Venrad would follow the family tradition of commerce and cautious navigation. From his earliest childhood, however, Venrad displayed an unusual gift—an almost intuitive understanding of wind, water, and weather. He could sense approaching storms before they became visible, read the subtle changes in water color that indicated dangerous currents, and predict with startling accuracy the behavior of vessels in difficult conditions. His father recognized something rare: genius rather than mere competence.
 
 ### The Pilot's Apprenticeship
 

@@ -73,3 +73,6 @@ From the Amradi shore the route runs south through the oasis towns and then by t
 
 [[lore-dunhariclt|Dunhari]]
 : salt, the Kinless and the Old Promise
+
+[[miscgear-crwnvahrun|The Iron Crown of Vahrun Marzuvan]]
+: Vahrun's iron crown

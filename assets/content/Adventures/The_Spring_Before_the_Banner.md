@@ -12,6 +12,7 @@ data:
     - pashinar
     - zupumun
     - amradadrgn
+    - valmakhend
     - tahrodan
     - wstrndscnt
     - mehrnagord
@@ -61,7 +62,7 @@ Every spring the caravan masters in the Caravansary Quarter of [[place-qudumel2|
 
 ## The Situation and the Stakes {#the-situation}
 
-**The road.** A caravan bound for Kethramír crosses the strait from Kudumel or [[place-pashinar|Pashinar]] to the Amradi coast in a day with a fair wind, on the broad ferries the [[affiliation-balinuni|Balinuni]] keep. It goes up through the [[affiliation-kngdmmrdd|Kingdom of Amradad]], pays its toll at the gates of [[place-tahrodan|Tahrodan]], and after days of road goes round the end of the Grazian wall by [[place-wstrndscnt|the Western Descent]], the one stretch a caravan crosses without a guide. [[place-mehrnagord|Mernagord]], the largest free Tellumi oasis, is the first city of the belt. From there the belt road runs east between the walls of gardens: four days to [[place-oasishirvn|Shirvan]], four to [[place-ashkarad|Ashkarad]], three to [[place-zargandur|Zargandur]], two to [[place-caldar|Kaldar]] and two to Kethramír, a loaded camel's days, and a rider on a good horse takes about half. Every held city tolls the road at its gates, and the tolls have risen.
+**The road.** A caravan bound for Kethramír crosses the strait from Kudumel or [[place-pashinar|Pashinar]] to [[place-valmakhend|Valmakhend]] on the Amradi coast in a day with a fair wind, on the broad ferries the [[affiliation-balinuni|Balinuni]] keep. It goes up through the [[affiliation-kngdmmrdd|Kingdom of Amradad]], pays its toll at the gates of [[place-tahrodan|Tahrodan]], and after days of road goes round the end of the Grazian wall by [[place-wstrndscnt|the Western Descent]], the one stretch a caravan crosses without a guide. [[place-mehrnagord|Mernagord]], the largest free Tellumi oasis, is the first city of the belt. From there the belt road runs east between the walls of gardens: four days to [[place-oasishirvn|Shirvan]], four to [[place-ashkarad|Ashkarad]], three to [[place-zargandur|Zargandur]], two to [[place-caldar|Kaldar]] and two to Kethramír, a loaded camel's days, and a rider on a good horse takes about half. Every held city tolls the road at its gates, and the tolls have risen.
 
 **The two courts.** Two settled peoples of the belt carry its trade to the strait, and in Kudumel they lodge apart. The Teghumod merchants of the [[affiliation-tribestrzd|Atarzád]] keep the long courts along the southern wall of the Caravansary Quarter; the caravan-masters of the [[affiliation-khzrncnfdrtn|Tellumi]] houses in Amradad keep courts of their own. Both buy at Kethramír and sell at the [[place-caravangate|Caravan Gate]], bidding for the same bales at each end. The Teghumod hold Ashkarad's gates and take the largest share of the belt's tolls; the Tellumi masters pay those tolls at the gates of four cities their houses claim and do not rule.
 

@@ -7,12 +7,9 @@ import { noteFilesWhere } from "./note-index.mjs";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { runContext } from "@heroiclands/package-build/engine/content-scripts";
-import { parseAddress, isAddressTuple } from "@heroiclands/package-build/engine/address";
-import { compileEncoding } from "@heroiclands/package-build/engine/encoding";
 import { encodingFor } from "@heroiclands/package-build/engine/encoding-lexicon";
 import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
 import { fontCodes } from "@heroiclands/package-build/engine/encoding-notes";
-import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
 
 export function readEncodingNote(file) {
     const raw = fs.readFileSync(file, "utf8");
@@ -31,25 +28,16 @@ export function encodingDocuments() {
         ({ type, data }) => type === "doc" && data?.mappings && data?.rules,
     ).map(readEncodingNote));
 }
+/**
+ * Compile indexed encoding and language declarations together, including family ancestors.
+ * @param {object} config - Package configuration and installed-font root.
+ * @param {object[]} [records] - Indexed or {fm,file,raw} records overriding source records by Address.
+ * @returns {ReturnType<typeof runContext>} The published context with compiler findings intact.
+ */
 export function referenceContext(config, records = []) {
-    const all = [...encodingDocuments(), ...records].map(recordOf);
-    const byAddress = new Map(all.map((record) => [`${record.type}-${record.shortcode}`, record]));
     languageNotes ??= languageFiles().map(readEncodingNote);
-    const available = new Map(
-        languageNotes.map((note) => [`${note.fm.type}-${note.fm.shortcode}`, recordOf(note)]),
-    );
-    for (const record of byAddress.values()) {
-        const family = record.data?.family;
-        const parentAddress = parseAddress(
-            typeof family?.address === "string" ? family.address : family,
-            { package: config.contentPackage, system: "note", types: new Set(["skill"]) },
-        );
-        if (!isAddressTuple(parentAddress) || parentAddress.package !== config.contentPackage)
-            continue;
-        const parent = `${parentAddress.type}-${parentAddress.shortcode}`;
-        if (!byAddress.has(parent) && available.has(parent))
-            byAddress.set(parent, available.get(parent));
-    }
+    const all = [...encodingDocuments(), ...languageNotes, ...records].map(recordOf);
+    const byAddress = new Map(all.map((record) => [`${record.type}-${record.shortcode}`, record]));
     return runContext({ ...config, rootDir: config.rootDir ?? process.cwd() }, [
         ...byAddress.values(),
     ]);
@@ -66,6 +54,17 @@ export function languageAlias(
     if (!pair) throw new Error(`No configured language for ${fm.shortcode}`);
     return pair[0];
 }
+/**
+ * Select one language/font document using the context's compiled sound inventory.
+ * @param {string|object} language - Configured language key or its indexed/{fm,file,raw} note.
+ * @param {object} [options] - Selection and source overrides.
+ * @param {string} [options.font] - Required when the language has more than one font document.
+ * @param {object[]} [options.records] - Source records overriding indexed notes by Address.
+ * @param {object} [options.config] - Package configuration; defaults to package-build.config.yaml.
+ * @returns {object} The document, compiled encoding, context, font codes, selection and encode function.
+ * @throws {Error} If selection is ambiguous, unavailable or names an absent installed font.
+ * An unavailable selection retains the compiler's located errors in error.findings.
+ */
 export function encodingReference(
     language,
     {
@@ -81,24 +80,19 @@ export function encodingReference(
     const own = documents.length === 1 ? documents[0] : undefined;
     if (!own)
         throw new Error(`Select one encoding document for ${alias}${font ? ` in ${font}` : ""}`);
-    const fonts = resolveScriptFonts(process.cwd());
-    const codes = fontCodes(fonts, own.fm.data.font);
-    const { packFolder: _packFolder, ...data } = own.fm.data;
-    const encoding = compileEncoding(data, {
-        codes,
-        name: `thalorna-note-doc-${own.fm.shortcode}`,
-    });
-    languageNotes ??= languageFiles().map(readEncodingNote);
-    const ownLanguage = languageNotes.find(
-        (note) => `${note.fm.type}-${note.fm.shortcode}` === config.languages[alias]?.note,
-    );
+    const name = `${config.contentPackage}-note-doc-${own.fm.shortcode}`;
     const ctx = referenceContext(config, [
-        ...(ownLanguage ? [ownLanguage] : []),
         ...records,
         ...(typeof language === "object" ? [language] : []),
     ]);
-    const selection = encodingFor(ctx, { enc: encoding.name, lang: alias });
-    if (!selection) throw new Error(`Cannot select ${encoding.name} for ${alias}`);
+    const selection = encodingFor(ctx, { enc: name, lang: alias });
+    if (!selection)
+        throw Object.assign(new Error(`Cannot select ${name} for ${alias}`), {
+            findings: ctx.encodingFindings,
+        });
+    const { encoding } = selection;
+    const fonts = ctx.fonts;
+    const codes = fontCodes(fonts, encoding.font);
     const face = fonts.faces.get(encoding.font);
     if (!face) throw new Error(`Missing installed face ${encoding.font}`);
     return {

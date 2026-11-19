@@ -15,9 +15,8 @@ data:
     - {to: vylarianse, bearing: W}
     - {to: taruzelrgn, bearing: W}
     - {to: zupumun, bearing: W}
-  routes:
-    - {to: qudumel2, bearing: W, mode: ship, days: 1, terrain: [open-sea]}
-    - {to: pashinar, bearing: W, mode: ship, days: 1, terrain: [open-sea]}
+    - {to: byzariargn, bearing: N}
+    - {to: dunhardsrtrgn, bearing: SE}
   population: 2000000
   packFolder: amradad
   government: kngdmmrdd
@@ -27,9 +26,9 @@ data:
 
 A caravan coming out of the open desert sees Amradad first as a line of green on the horizon and then as a wall: the first city of Amradad, the settled northwestern corner of the [[place-dunharargn|Dunhara Region]] and the country of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the only part of the Dunhara held by a realm with fixed borders, a standing army and a court. Its share of the desert's wealth is far larger than its share of the land: walled cities, the oases that feed them, the caravan roads that join them, and the ports of its coast.
 
-## Geography
+## Geography {#the-land}
 
-The region runs from the eastern shore of the [[place-vylarianse|Vilérian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Bizaria Region]] of the [[affiliation-byzarianlg|Bizarian League]] lies along its northern border, the islands of [[place-taruzelrgn|Taruzel]] across the strait to the west, and its southern edge reaches toward [[place-aukhelathrgq|Au'Khelathu]].
+The region runs from the eastern shore of the [[place-vylarianse|Vilérian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Bizaria Region]] of the [[affiliation-byzarianlg|Bizarian League]] lies along its northern border, the islands of [[place-taruzelrgn|Taruzel]] across the strait to the west, and its southern edge gives onto the open desert of the [[place-dunhardsrtrgn|Dunhara Desert]].
 
 This is the desert's wettest margin, which is not saying much. A thin winter rain falls here that the deep south never sees, enough for herding on dry pasture and a narrow belt of grass that greens for a season. Settlement follows the water: the permanent oases, which the cities stand on, and the wadis that run after the winter rains, along which the farming villages string out their fields and orchards.
 
@@ -42,7 +41,10 @@ This is the desert's wettest margin, which is not saying much. A thin winter rai
 : the fortress city on the caravan road, largest in the realm
 
 [[place-qarvelakhend|Qarvelakhend]]
-: a walled city of the oases
+: a walled town of the oases
+
+[[place-valmakhend|Valmakhend]]
+: the port, where the ferries cross to Taruzel
 
 [[place-tazhinakhend|Tazhinakhend]] and [[place-venzelakhend|Venzelakhend]]
 : market towns of the caravan roads

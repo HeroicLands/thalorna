@@ -19,7 +19,7 @@ Vazhmavad is the weighing-place, an oasis of date palms on a gravel shelf where 
 
 ## The Weighing
 
-Vazhmavad is not a settlement. Its wells are deep and good, its palms are old, and a ring of low stone benches stands under the largest of them where the judging poets sit to hear each side recite. A Truce-Warden's peace lies over it in the season of a hearing, and poet-apprentices learn the recitations of every tribe there by listening. It is the nearest thing the desert has to an archive: not a building but a gathering of memories, each one held by a living person.
+Vazhmavad is not a settlement: the three hundred counted there are the gathering at its peak, in the season of a hearing, and nobody keeps a household there the rest of the year. Its wells are deep and good, its palms are old, and a ring of low stone benches stands under the largest of them where the judging poets sit to hear each side recite. A Truce-Warden's peace lies over it in the season of a hearing, and poet-apprentices learn the recitations of every tribe there by listening. It is the nearest thing the desert has to an archive: not a building but a gathering of memories, each one held by a living person.
 
 ## What Holds It
 
@@ -63,3 +63,6 @@ The oasis lies on the southern circuit, a few days beyond the long wells. Its lo
 
 [[place-dunhardsrtrgn|Dunhara Desert Region]]
 : the southern circuit
+
+[[affiliation-bnchvzhmvd|Bench of Vazhmavad]]
+: the judging poets who sit at the oasis
