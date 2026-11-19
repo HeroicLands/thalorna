@@ -34,3 +34,6 @@ The crown's post below has no authority over the tower and the tower asks nothin
 
 [[place-bhumipalland|Bhumipal]]
 : the land
+
+[[scenario-roadroundwall|The Road Round the Wall]]
+: a scenario set here

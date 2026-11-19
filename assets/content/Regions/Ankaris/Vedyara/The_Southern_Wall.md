@@ -39,3 +39,4 @@ Above the last of [[place-pssshrines|the Pass-Shrines]] no rule of station reach
 - [[place-oskhelt|Oskhelt]]
 - [[place-shunydvar|The Empty Door]]
 - [[place-tsokhar|Tsokhar]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]

@@ -28,3 +28,5 @@ The [[affiliation-khzrncnfdrtn|Khazrin]] hold the Descent to be their ancestral 
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-sthrnwall|the Southern Wall]]
 - [[place-dunharargn|Dunhara]] · [[place-khzryndsrtrgn|Khazrin Desert]] · [[place-drenavrspn|the Drenavar Spine]]
+- [[scenario-roadroundwall|The Road Round the Wall]]
+- [[scenario-sprngbfrbnnr|The Spring Before the Banner]]

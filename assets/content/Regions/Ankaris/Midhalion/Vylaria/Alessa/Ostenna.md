@@ -67,6 +67,9 @@ The boatmen's inns stand at the top of the cutting, where the road reaches the b
 [[place-orzara|Orzara]]
 : where the grain goes
 
+[[scenario-sndbnthcrst|The Sand Beneath the Crust]]
+: a scenario set here
+
 # The Truth of Ostenna {#truth .secret}
 
 The waiting is a business. Grain brokers in the capital pay the three trades of Ostenna to slow the river in the weeks before the new harvest comes down, when the state granaries are low and every sack in the city is worth more for being late. The boatmen find reasons not to sail, the warehousemen find reasons not to load, and the toll-clerks find faults in manifests, and the price in Orzara climbs while the barges sit. The payments come through one broker's agent at the Landing, who also sells the timing of each slowdown to a second broker, so that the capital's grain market is being played twice from one quay.

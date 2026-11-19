@@ -34,3 +34,4 @@ The dead of Ludrapur were the townspeople, killed in their streets, and the town
 - [[place-lantustal|Lantustal]]—where Marupal's host died
 - [[lore-bhmplraise|The Raising of Bhumipal]]—the kingdom that did not move back in
 - [[place-marchroad|The march road]] · [[place-bhumipalland|Bhumipal]]
+- [[scenario-roadroundwall|The Road Round the Wall]]—a scenario set here

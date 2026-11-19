@@ -75,6 +75,9 @@ The decline is written in the same stones ([[lore-empirdclne|The Decline of the 
 [[place-alyssar|Alessar]]
 : where Lentora's appeals are heard
 
+[[scenario-rdtsrks|The Road to Soraks]]
+: a scenario set here
+
 # The Truth of Lentora {#truth .secret}
 
 The factor buys for [[affiliation-thalurates|House Thalurates]], the house raised from the clerks of the [[affiliation-imperialoffices|Imperial Offices]], which is buying the debts of old houses everywhere. In Lentora it is buying a council. The notes the factor holds belong to seven of the city's _kurthaloi_, and in a poor year each of them must find his share of the city's taxes or default. The house means to forgive the notes one at a time, each in return for a vote, until Lentora's council does what the Thalurates ask, and the Thalurates mean to ask for the city's lease of the imperial estates around it, which come up for renewal at the next Thresholds.

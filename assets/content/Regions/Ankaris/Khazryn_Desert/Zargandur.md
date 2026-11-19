@@ -68,3 +68,6 @@ Outside the northern wall, past the last irrigated plot, lies the [[place-henhul
 
 [[being-nushirnrsf|Nushir Narsafi]]
 : a chandler of Zargandur
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here

@@ -101,6 +101,15 @@ A party that comes with a caravan lodges in its caravanserai, sleeps on the gall
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the eastern religious tradition
 
+[[scenario-frmnspttn|The Freeman's Petition]]
+: a scenario set here
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: a scenario set here
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here
+
 # The Truth of the Forgetting {#truth .secret}
 
 **Names are entered at a price.** The Warden of the Weights, Ashuran Dapumi, has entered four names on the Forgetting in the last two seasons on the oaths of witnesses he was paid to believe. All four belong to caravan masters who land at Pashinar every year and never at Kudumel. The man who brought the witnesses, and paid the Warden, pays in Kudumel script and calls himself a cloth broker; nobody in Pashinar's cloth market has bought or sold from him.

@@ -67,3 +67,6 @@ The last Tellumi rising began in the Shirvan district about 706. A Zhudek acclai
 [[place-peldenderal|Peshdenderat]]
 
 [[place-vurinkarvem|Vurinkarvem]]
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here

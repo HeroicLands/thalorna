@@ -116,6 +116,12 @@ A party with business in the Eastern Quarter can lodge there, at a Taruzelian lo
 [[being-nebralenelth|Nebralen Elthezis]]
 : a merchant captain of the city
 
+[[scenario-hllsndrfrtrs|The Hulls Under the Fortress]]
+: a scenario set here
+
+[[scenario-prmsndcoin|The Promise and the Coin]]
+: a scenario set here
+
 # The Truth of Delalara {#truth .secret}
 
 The harbor pays Taruzelian dues at home as well as abroad. When the Delalara customs came up for bidding three years ago, Solteras Tharozates bid more for them than any _tolar_ had ever offered, because a rival house of tax-farmers in Orzara meant to take them and his house's standing rested on keeping them. He did not have the money. He borrowed the whole of the bid from the Auric Compact's counting house in the Eastern Quarter, through a Helionite partner whose name stands on the contract, and pledged the customs themselves as the security. Every quarter, out of what his clerks chalk on the quay, the interest goes to the Compact, and every week the Compact's master of the counting house, [Lamuna Pilmuni]{.name data-type="being/npc"}, reads a fair copy of the customs ledger: every cargo that crosses the wharf, whose it is, what it is worth and where it is bound.

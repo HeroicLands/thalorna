@@ -100,6 +100,9 @@ The outskirts fear a bad year, and this one is lean. When the grain comes short 
 [[place-alyssa|Alessa]]
 : the land around the capital
 
+[[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]
+: a scenario set here
+
 # The Truth of the Steel Town {#truth .secret}
 
 The guild has lost a third of its secret. The _kelthon_ of Vilérian Steel is held in three parts, and no master holds more than one: the Bench of the Clay knows how the crucibles are made and of what earth, the Bench of the Charge knows what goes into each crucible with the iron, and the Bench of the Fire knows how long, how hot and how slowly each firing runs. Each part passes from a master to his heir by word, and the guild's oath forbids writing any of it down. Forty years ago the last master of the Bench of the Fire died before he had adopted an heir, and the whole of his part died with him.

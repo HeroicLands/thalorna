@@ -77,3 +77,12 @@ Selvin was a hill of gardens while the [Vilérian Republic]{.name data-type="aff
 
 [[place-orzara|Orzara]]
 : the city
+
+[[scenario-prmsndcoin|The Promise and the Coin]]
+: a scenario set here
+
+[[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]
+: a scenario set here
+
+[[scenario-sndbnthcrst|The Sand Beneath the Crust]]
+: a scenario set here

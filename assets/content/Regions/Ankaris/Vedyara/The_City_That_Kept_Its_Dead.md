@@ -66,3 +66,4 @@ From the pilgrim road along [[place-bharavarivr|the Bharava]], an estate station
 - [[affiliation-bhrvdvbhon|The Bharava-Devabhona]]—the estates that strike it from the survey
 - [[lore-bloodfield|Blood-fields]]—what ground the unburned dead make
 - [[affiliation-kalavrata|Kalavrata]] · [[affiliation-agmipantra|Agmi-pantra]]
+- [[scenario-kptdeadsorhupur|A Lamp Offered by Dry Hands]]—a scenario set here

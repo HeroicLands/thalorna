@@ -71,3 +71,6 @@ The Racecourse is where the city shouts, and every claimant to the next reign wa
 
 [[affiliation-ethloi|Ethloi]]
 : the Golds, the Gilded houses' faction
+
+[[scenario-hlfwrdshrt|Half a Ward Short]]
+: a scenario set here

@@ -59,3 +59,6 @@ Not every lower gallery floods, and not every one is closed. An old pilgrim stai
 
 [[affiliation-zurathra|Faith of Zúrathra]]
 : the Mother of the Oasis, whose great shrine stood at the spring
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here

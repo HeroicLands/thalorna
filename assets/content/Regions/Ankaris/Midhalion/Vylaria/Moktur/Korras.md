@@ -74,6 +74,9 @@ The inns stand along the road inside the gate, one against the next, and every o
 [[place-vandstein|Vandstein]]
 : the highlands beyond the pass
 
+[[scenario-lttrnbdypnd|The Letter Nobody Opened]]
+: a scenario set here
+
 # The Truth of Korras {#truth .secret}
 
 The gate does not close the pass. A herders' path leaves the upper pastures above the town, runs along a ledge under the cliff for a mile, and comes down into the gorge below the wall, out of sight of every tower. A man on foot can take it, and so can a sheep. A war-band can take it in single file by night in an hour, and every summer the Varokh bands that come over the march and strip the steads to the south take it, and are guided along it by the herding kindreds of the upper pasture.

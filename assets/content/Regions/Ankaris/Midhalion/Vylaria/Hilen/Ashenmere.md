@@ -77,6 +77,9 @@ The inns of Ashenmere stand inside the gate along the road, and each favors one 
 [[affiliation-sacredforge|The Sacred Forge]]
 : the faith whose forge-shrine stands on the Hilen bank
 
+[[scenario-bxsldkngsrng|A Box Sealed with the King's Ring]]
+: a scenario set here
+
 # The Truth of Ashenmere {#truth .secret}
 
 The knights cross the stream by night. Men of the Order of the Sacred Flame ford the border above the bridge, out of sight of the Customs House, and take worshippers of [[affiliation-blackflame|the Black Flame]] out of the villages of the march: a smith who keeps the black flame in his hearth, a family that went down to the Night of Ashes in a port of Salkalon, a tenant overheard at a gathering in a barn. They carry them back across the water and up into the kingdom to be judged by the kingdom's priests, whose high priesthood broke with the empire over that faith. The empire does not proscribe the Black Flame, and every one of the people taken is a subject of the emperor taken from imperial ground by a foreign order of knights.

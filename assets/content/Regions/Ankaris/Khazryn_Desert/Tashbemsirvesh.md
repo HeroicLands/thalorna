@@ -75,3 +75,6 @@ The tower is reached by a faint track from Ashkarad's north gate, a day's ride t
 
 [[lore-bloodfield|Blood-fields]]
 : the ground where the dead are left unreceived
+
+[[scenario-emptytowerdead|The Bearers of the Dark Moon]]
+: a scenario set here

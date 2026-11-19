@@ -59,3 +59,4 @@ The Forge is right. The cult of the Black Flame has been deliberately rousing th
 
 - [[place-bldfldyharvalen|Blood-field of Yarvalen]] · [[place-provenzrgn|Provénzia Region]]
 - [[affiliation-firstgods|The First Gods]] · [[affiliation-blackflame|the Black Flame]]
+- [[scenario-crsyhrvlnhng|The Curse of Yarvalen Henge]]

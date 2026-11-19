@@ -61,3 +61,6 @@ The scholars' college on the copper spur was founded in the centuries after the 
 
 [[place-zargandur|Zargandur]] and [[place-kethramir|Kethramír]]
 : the nearest cities along the belt
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here

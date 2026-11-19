@@ -44,3 +44,4 @@ Copper and tin north, finished Shikhalayan steel north in small quantities and a
 
 - [[place-slvrgorges|The Silver Gorges]] · [[place-estrnreach|the Eastern Reach]] · [[affiliation-osketguides|the Osket]]
 - [[affiliation-shikhalaya|Shikhalaya]] · [[affiliation-mrchntclctvvdyr|Merchant Collective of Vedyara]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]

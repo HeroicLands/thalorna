@@ -48,3 +48,4 @@ A Dunhari factor lives on the same street and is the only man of the sand in the
 - [[place-bhumipalland|Bhumipal]]—the land
 - [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-marukupa|Marukupa]]
 - [[place-sandvsmdr|The Sandva-samedra]]—the sea off the roadstead
+- [[scenario-roadroundwall|The Road Round the Wall]]—a scenario set here

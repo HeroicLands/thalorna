@@ -84,3 +84,9 @@ Beyond the cities there are giant camel spiders at every well, bone scorpions in
 
 [[place-bolidqiso|Bolidqiiso]]
 : a counting-house tower of Vulud
+
+[[scenario-sltnthmth|Salt in the Mouth]]
+: a scenario set here
+
+[[scenario-vllysfrstfrst|The Valleys at First Frost]]
+: a scenario set here

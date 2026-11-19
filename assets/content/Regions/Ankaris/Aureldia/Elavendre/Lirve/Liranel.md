@@ -70,3 +70,4 @@ The forest court has a quarrel of its own. A ring of old oak inside the block th
 - [[place-darvenaroad|The Darvena Road]] · [[place-batarencity|Bataren City]]
 - [[scenario-crpntrsnght|The Carpenters' Night]], a scenario set here
 - [[scenario-smmrpsttrln|The Summer Past the Tree Line]], a scenario set here
+- [[scenario-grvthtsntrs|The Grove That Is Not Ours]], a scenario set here

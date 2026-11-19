@@ -34,3 +34,4 @@ Pilgrims climbing to the source stop on the top terrace for the view, which runs
 - [[lore-mhndkngdm|The Kingdom of Mahanodi]]—the kings who may have sat here
 - [[lore-foundingage|The Founding Age]]—the age of the old seat
 - [[place-mahaprbhva|Mahaprabhava]] · [[place-sandstonealtr|the sandstone altar]]
+- [[scenario-lastmelka|The Last Melka of Mahaprasoda]]—a scenario set here

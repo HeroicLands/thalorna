@@ -54,3 +54,4 @@ The trickle has become a stream. A scholar's account of Sirmenne has gone the ro
 ## See Also {#see-also}
 
 - [[affiliation-aelndntrbs|Áelendan Tribes]] · [[lore-flksenali|Senali]]
+- [[scenario-engmsrmnn|The Enigma of Sirmenne]]

@@ -78,3 +78,5 @@ The Inner City is where the succession will be decided, and everyone in it is co
 - [[place-orzara|Orzara]]—the city of which this is the citadel
 - [[place-palvar|Palvar]] · [[affiliation-seldan|Seldan]] · [[place-thaurzurgalis|Thaurzurgalis]] · [[place-pnthnrldnm|Sarkena Dorekis]]
 - [[affiliation-vylarinmpr|Vilérian Empire]] · [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-panepistmm|Epistémion]]
+- [[scenario-hlfwrdshrt|Half a Ward Short]]—a scenario set here
+- [[scenario-prmsndcoin|The Promise and the Coin]]—a scenario set here

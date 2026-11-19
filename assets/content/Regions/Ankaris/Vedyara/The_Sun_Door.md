@@ -46,3 +46,4 @@ The north-eastern branch has carried a Tantsou community down into Suryagarha fo
 
 - [[place-suryagarha|Suryagarha]] · [[place-suryashkhr|Suryashikhar]] · [[place-sthrnwall|the Southern Wall]]
 - [[affiliation-shikhalaya|Shikhalaya]] · [[affiliation-osketguides|the Osket]] · [[place-pssshrines|the Pass-Shrines]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]

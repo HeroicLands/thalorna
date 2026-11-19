@@ -56,3 +56,6 @@ The village keeps one inn, a joiners' house at the head of the street with a car
 
 [[place-kalderenna|Kalderenna]]
 : the lumber settlement that sends it timber
+
+[[scenario-bxsldkngsrng|A Box Sealed with the King's Ring]]
+: a scenario set here

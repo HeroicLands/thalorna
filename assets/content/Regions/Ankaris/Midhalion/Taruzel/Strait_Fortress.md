@@ -62,6 +62,15 @@ Vilérian engineers built the fortress to close the narrows to the empire's enem
 [[affiliation-corsairleg|Corsair League]]
 : the guild whose galleys take the convoys through
 
+[[scenario-hllsndrfrtrs|The Hulls Under the Fortress]]
+: a scenario set here
+
+[[scenario-lstbtnrrws|The Last Boat Through the Narrows]]
+: a scenario set here
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: a scenario set here
+
 # The Truth of the Fortress {#truth .secret}
 
 **The drawings exist.** A copy of the engineers' plans of the fortress lies in the naval offices of the [[affiliation-vylarinmpr|Vilérian Empire]], and a Vilérian naval officer has been studying it since the war. The plans show what the marines have never found: a second sea door, cut through the rock under the keep, opening on a cave at the waterline that a boat can enter at low tide. Inside the cave a stair climbs to a storeroom under the keep, and the storeroom's inner door was bricked over by the imperial garrison before it marched out and plastered to match the wall. The marines use the storeroom for old sails. A party that knows where to knock finds the wall hollow.

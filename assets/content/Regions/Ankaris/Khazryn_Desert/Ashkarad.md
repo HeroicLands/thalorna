@@ -68,3 +68,6 @@ Ashkarad is the second of the seven cities in order of founding, after [[place-o
 [[place-relvanninel|Relvanninesh]]
 
 [[place-talbemsirvel|Tashbemsirvesh]]
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here
