@@ -9,7 +9,9 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [byzariargn]
-  routes: [{to: yemokwell, bearing: E, mode: land, days: 30}]
+  routes:
+    - {to: yemokwell, bearing: E, mode: land, days: 30}
+    - {to: amradadrgn, bearing: S, mode: land, days: 20, terrain: [road, hills]}
   population: null
   packFolder: byzaria
 
