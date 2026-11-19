@@ -44,6 +44,15 @@ The site build runs with `NODE_OPTIONS=--max-old-space-size=6144`, which caps
 the V8 old-space heap of the build process at 6 GiB; it does not cap the
 process's total memory. To build locally with the same limit, run
 `NODE_OPTIONS=--max-old-space-size=6144 node_modules/.bin/package-build site build --root <root>`.
+The build step carries an explicit `--max-old-space-size` limit; the limit is
+not derived from a measured peak. Before raising it, measure the peak resident
+memory (RSS) of the site build on a manual run, and the aggregate RSS of the
+builds that can overlap: the internal and public site builds, and the lint and
+build runners that share one memory slice. Keep the sum of the per-process caps
+that can run concurrently within that slice with headroom. The slice size is
+recorded in the runner records under `infrastructure/systems/`. Raise the limit
+in `deploy-site.yml`, and the value the publishing fixtures require, in the same
+change as that evidence.
 The build job has no SSH, Cloudflare or R2 deployment secrets, and only the
 `public` job receives the Cloudflare credentials. The build verifies the package
 prefix, nonempty landing/404/root headers and at least 1,001 index pages. Root
