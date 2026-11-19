@@ -42,7 +42,6 @@ data:
     mouth: thin
     extra_features: [a bald crown, a deep crease between the brows]
   packFolder: midhalionvylaria
-  items: [{key: lenses, model: miscgear-lenses, kind: miscgear}]
 ---
 
 # Appearance {#appearance}
