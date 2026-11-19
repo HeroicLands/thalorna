@@ -256,7 +256,7 @@ A thornrat is built like a lean, long-bodied rat or a mongoose, muscular and qui
 
 ## In the Land
 
-Tahrodan is a city goods pass through, thirty thousand people inside walls that every caravan must pass, and its lower quarter is caravanserais, stables, tanneries and dung-yards. The thornrat colony lives there, a few hundred strong, in the dung-heaps and refuse-pits, the drains and cesspits, the burial ground outside the walls, and anywhere else that death and filth gather. They eat refuse, carrion and dung, and kill small animals, dogs and sleeping beggars. They are nocturnal. They spread through the quarter along the drains, and individual thornrats ride out of the city in caravan baggage and turn up, singly, at the caravanserais along the road, where they do great harm before anyone knows what they are.
+Tahrodan is a city goods pass through, twenty thousand people inside walls that every caravan must pass, and its lower quarter is caravanserais, stables, tanneries and dung-yards. The thornrat colony lives there, a few hundred strong, in the dung-heaps and refuse-pits, the drains and cesspits, the burial ground outside the walls, and anywhere else that death and filth gather. They eat refuse, carrion and dung, and kill small animals, dogs and sleeping beggars. They are nocturnal. They spread through the quarter along the drains, and individual thornrats ride out of the city in caravan baggage and turn up, singly, at the caravanserais along the road, where they do great harm before anyone knows what they are.
 
 ## Key Behaviors
 

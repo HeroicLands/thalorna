@@ -77,13 +77,17 @@ data:
     cnfdrtntrzlnstts: aligned
     vylarinmpr: rival
     shikhalaya: unaligned
+    byzarianlg: unaligned
+    khzrncnfdrtn: aligned
+    cnclprinces: aligned
+    bhumipal: unaligned
   packFolder: amradad
 sohl: {system: {commonSkills: [dunharlng]}}
 
 # terran_analog: "Turkey, Syria, Georgia, Armenia, and Azerbaijan—Anatolian-Caucasian kingdom fusing Turkic political-military traditions with Persianate court culture and Persian-language theology, a settled imperial counterpoint to the tribal Dunhari interior."
 ---
 
-## Overview
+## Overview {#overview}
 
 The Amradi say that their ancestors were the only Dunhari clever enough to stop walking. The Kingdom of Amradad is the great exception to the [[place-dunharargn|Dunhara Region]]'s tribal patchwork: a settled, walled and comparatively rich kingdom built around a cluster of great oases in the northwestern Dunhara, between the eastern shore of the [[place-vylarianse|Vilérian Sea]] and the open desert. Where the [[affiliation-dunhartrbs|Dunhara Tribes]] move with their herds and answer to no one above their sheikhs, Amradad has cities, walls, irrigation, a standing army, and a court as refined as any on the Vilérian coast. An outsider remembers it for the fire-temples of its cities and for the caravan tolls that pay for them.
 
@@ -93,13 +97,13 @@ Amradad was founded generations ago, when a powerful tribal confederation settle
 
 The court at [[place-shebarakhend|Shebarakhend]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Ashaian faith]] finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Ashaian orthodoxy for the tribes and the Taruzeli alike, whether or not either listens.
 
-## Governance
+## Governance {#how-it-is-ruled}
 
 The Shebarader rules in his own right. His orders pass through the **Grand Vashkader**, who heads the administration, to the vashkaders of the treasury, the army, the post and the waters, and from them to a governor (_tagemader_) in every city and oasis. A judge (_vazhmader_) sits in each city, ruling by law and custom and administering the pious endowments of the temples; a market inspector (_nuzgader_) checks weights and measures and public morals, and is the most resented man in any city. The **Keeper of the Wells** rules on the oases' water rights, and his rulings decide which caravans may cross. The **Master of the Post** keeps the courier roads, and with them most of what the Shebarader knows.
 
 The Shebarader's power is real and it has limits. The priests of the fire-temples hold great landed wealth and spiritual authority, and in every city the governor and the high priest each need the other. The great caravan-masters are chartered by the Shebarader and answer to him for their dues, and they know to the coin how much of his treasury they fill.
 
-## Relations
+## Relations {#relations}
 
 The Shebarader claims authority over every Dunhari people, and the tribes find the claim hilarious. In practice the two live together through trade agreements, marriages between the court and the sheikhs' houses, and carefully negotiated arrangements at the edge of the sown. The standing army is strong enough to hold the oases and too slow to catch anyone in the open desert, where the nomads go wherever they like.
 

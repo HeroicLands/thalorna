@@ -65,3 +65,6 @@ The vault moves with the dunes, and there is no road. A guide who has seen the D
 
 [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]
 : the gatherers of the tribes against what walks the land
+
+[[miscgear-sgntmezhvad|The King's Signet of Mezhvadez]]
+: the king's seal

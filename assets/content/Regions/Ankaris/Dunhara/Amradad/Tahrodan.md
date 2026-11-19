@@ -3,14 +3,14 @@ shortcode: tahrodan
 name: {full: Tahrodan}
 type: place
 subType: settlement
-description: "The fortress city of the Amradi caravan road, largest in the Kingdom, where every caravan from the interior pays its toll on the way to the coast."
-tags: [fortress, town]
+description: "The inland fortress city of the Amradi caravan road, largest in the Kingdom, where every caravan from the interior pays its toll on the way down to the port."
+tags: [fortress, city]
 data:
   demonym: null
   lore: [humanflk]
   parents: [amradadrgn]
-  population: 9900
-  type: town
+  population: 20000
+  type: city
   market: regional
   packFolder: amradad
   government: kngdmmrdd
@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-Tahrodan is the fortress city of the caravan road and the largest city of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], thirty thousand people inside walls that every caravan from the desert interior must pass on its way to the coastal ports and the merchant cities of [[place-taruzelrgn|Taruzel]]. Its governor holds it for the Shebarader with a garrison of mounted warriors who keep the roads clear of raiders for a day's ride in every direction, and the tolls collected at its gates are one of the pillars of the Shebarader's treasury.
+Tahrodan is the fortress city of the caravan road and the largest city of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], twenty thousand people inside walls that every caravan from the desert interior must pass on its way down to the port of [[place-valmakhend|Valmakhend]] and the merchant cities of [[place-taruzelrgn|Taruzel]] beyond the strait. The city stands inland, on the road, and has no harbor of its own. Its governor holds it for the Shebarader with a garrison of mounted warriors who keep the roads clear of raiders for a day's ride in every direction, and the tolls collected at its gates are one of the pillars of the Shebarader's treasury.
 
 Its bazaars are as crowded and various as those of [[place-sazumun2|Sazumun]] and [[place-pashinar|Pashinar]] across the strait, and less sociable. Tahrodan is a city goods pass through. A merchant comes in, pays his toll, sells or trades on, and leaves, and the market runs on brisk efficiency and not on long afternoons of bargaining over tea. The governor plays the great powers of the region against one another as carefully as the Shebarader does, because the city's wealth depends entirely on the road staying open.
 
@@ -32,6 +32,9 @@ The fire-temples of the [[affiliation-ashanpnthn|Ashaian gods]] fill the city's 
 
 [[place-amradadrgn|Amradad Region]]
 : the settled country around it
+
+[[place-valmakhend|Valmakhend]]
+: the port the caravans come down to
 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the faith of the city's temples

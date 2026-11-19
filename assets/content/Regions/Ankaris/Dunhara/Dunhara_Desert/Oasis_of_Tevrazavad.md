@@ -28,3 +28,6 @@ The oasis is the summer seat of [[being-trvshshrdr|Torvash Shiradar]], the chief
 
 [[affiliation-dunhartrbs|Dunhara Tribes]]
 : the confederations that range the country
+
+[[affiliation-trbtvrzvd|Tribe of Tevrazavad]]
+: the tribe that holds the oasis

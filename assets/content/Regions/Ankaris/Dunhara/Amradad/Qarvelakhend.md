@@ -3,18 +3,18 @@ shortcode: qarvelakhend
 name: {full: Qarvelakhend}
 type: place
 subType: settlement
-description: "City"
-tags: [city, draft]
+description: "Town"
+tags: [town, draft]
 data:
   demonym: null
   lore: []
   parents: [amradadrgn]
-  population: 22000
+  population: 8000
   market: regional
-  type: city
+  type: town
   government: kngdmmrdd
   packFolder: amradad
-  notes: "City"
+  notes: "Town"
 ---
 
-Qarvelakhend is a city in [[place-amradadrgn|Amradad]], the settled corner of the [[place-dunharargn|Dunhara]], where walled cities, their oases and the caravan routes between them are held by the [[affiliation-kngdmmrdd|Kingdom of Amradad]].
+Qarvelakhend is a town in [[place-amradadrgn|Amradad]], the settled corner of the [[place-dunharargn|Dunhara]], where walled cities, their oases and the caravan routes between them are held by the [[affiliation-kngdmmrdd|Kingdom of Amradad]].

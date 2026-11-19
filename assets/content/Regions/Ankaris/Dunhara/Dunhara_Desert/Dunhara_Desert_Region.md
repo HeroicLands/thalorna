@@ -9,7 +9,12 @@ data:
   demonym: Dunharan
   lore: [humanflk]
   parents: [dunharargn]
+  borders: [{to: amradadrgn, bearing: NW}]
+  routes:
+    - {to: khuqetmiglet, bearing: SW, mode: land, days: 20, terrain: [desert, road]}
+    - {to: marchroad, bearing: SE, mode: land, days: 30, terrain: [desert, road]}
   population: 1000000
+  government: dunhartrbs
   packFolder: dunharadesert
 ---
 
@@ -23,11 +28,11 @@ Great sand seas cover most of the country, dunes up to fifty meters high that wa
 
 The climate kills. A summer day can finish a man without water in hours, a winter night falls far below freezing, and a windstorm can bury a camp or strip the paint from a merchant's chests in minutes. The deep south sees almost no rain at all, and only the northern and western margins get enough winter rain to green the grazing for a month or two.
 
-## The Tribes
+## The Tribes {#peoples}
 
 The desert's people are the Dunhari of the tribes, living by lineage, household and the seasonal circuit. A **sheikh** leads each tribe by birth, by standing and by the consent of the elders, and the code of salt, feud and reputation binds them all. The poets keep the law: genealogy, history, precedent and the terms of every treaty are carried in verse by the tribal poets, and written records count for little. [[lore-dunhariclt|Dunhari]] gives the customs in full.
 
-## Power
+## Power {#who-holds-it}
 
 No one rules the open desert. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit, and they join against an outside threat and quarrel the rest of the time. Their common council meets at Ghavulavad, their [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] at the [[place-stoneofranaz|Stone of Ranaz]], and the practitioners of the [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] travel with every camp of consequence. The balance has held for centuries.
 
