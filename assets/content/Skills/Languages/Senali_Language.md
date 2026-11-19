@@ -7314,6 +7314,14 @@ data:
         - "raltila"
         - "issaltela"
         - "valkele"
+        - "sorvelitta"
+        - "ennitta"
+        - "sennila"
+        - "nantorutta"
+        - "ruvalitta"
+        - "pallevotta"
+        - "tessikala"
+        - "miskotta"
       male:
         - "nuuvatti"
         - "kalpitti"
@@ -7382,6 +7390,13 @@ data:
         - "lirnavo"
         - "aldessevo"
         - "auldivo"
+        - "hapirivo"
+        - "kolpavo"
+        - "hellurivo"
+        - "kelsipavo"
+        - "ennumivo"
+        - "aspelitti"
+        - "ulpesavo"
     lineage:
       - "nuuvanto"
       - "kalpinto"
@@ -7423,6 +7438,19 @@ data:
       - "liserinto"
       - "sìllente"
       - "ressinto"
+      - "kersanto"
+      - "vessanto"
+      - "haltunto"
+      - "peskonto"
+      - "rovennanto"
+      - "tolkunto"
+      - "hummarinto"
+      - "kossanto"
+      - "nurellanto"
+      - "velliranto"
+      - "sepullanto"
+      - "hirsunto"
+      - "okkelanto"
   sounds:
     syllables:
       vowelPairs: [ai, au, oi, ou, ei]
@@ -7714,6 +7742,21 @@ data:
     - {name: unturovo kilpente, tongue: senali, built: [unturo, -vo, kilpe, -nte]}
     - {name: lovatta hìssente, tongue: senali, built: [lova, -tta, hìsse, -nte]}
     - {name: solmerivo nuuvanto, tongue: senali, built: [solmeri, -vo, nuuva, -nto]}
+    - {name: sorvelitta kersanto, tongue: senali, built: [sorveli, -tta, kersa, -nto]}
+    - {name: hapirivo vessanto, tongue: senali, built: [hapiri, -vo, vessa, -nto]}
+    - {name: kolpavo haltunto, tongue: senali, built: [kolpa, -vo, haltu, -nto]}
+    - {name: ennitta peskonto, tongue: senali, built: [enni, -tta, pesko, -nto]}
+    - {name: sennila rovennanto, tongue: senali, built: [senni, -la, rovenna, -nto]}
+    - {name: hellurivo tolkunto, tongue: senali, built: [helluri, -vo, tolku, -nto]}
+    - {name: nantorutta hummarinto, tongue: senali, built: [nantoru, -tta, hummari, -nto]}
+    - {name: kelsipavo kossanto, tongue: senali, built: [kelsipa, -vo, kossa, -nto]}
+    - {name: ruvalitta nurellanto, tongue: senali, built: [ruvali, -tta, nurella, -nto]}
+    - {name: pallevotta kossanto, tongue: senali, built: [pallevo, -tta, kossa, -nto]}
+    - {name: tessikala velliranto, tongue: senali, built: [tessika, -la, vellira, -nto]}
+    - {name: ennumivo sepullanto, tongue: senali, built: [ennumi, -vo, sepulla, -nto]}
+    - {name: aspelitti hirsunto, tongue: senali, built: [aspeli, -tti, hirsu, -nto]}
+    - {name: miskotta okkelanto, tongue: senali, built: [misko, -tta, okkela, -nto]}
+    - {name: ulpesavo velliranto, tongue: senali, built: [ulpesa, -vo, vellira, -nto]}
   negation: {particle: ahi, mutation: wearing}
   naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
   retired:
@@ -8415,15 +8458,15 @@ A Senali known for something more carries it as an epithet, which stands after t
 
 ### Male Given Names
 
-Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Hwomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nwomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hìsseve, Ilvìtti, Tellakitti, Eilavatti, Rellìtti, Nelìvetti, Hìssetti, Pelvaitti, Tilvaitti, Esselivo, Elvìritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nwomitti, Selkitti, Nìlkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo, Seittavo, Ilkaivetti, Ilsettivo, Orvakkatti, Lauppivo, Lirnavo, Aldessevo, Auldivo
+Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Hwomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nwomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hìsseve, Ilvìtti, Tellakitti, Eilavatti, Rellìtti, Nelìvetti, Hìssetti, Pelvaitti, Tilvaitti, Esselivo, Elvìritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nwomitti, Selkitti, Nìlkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo, Seittavo, Ilkaivetti, Ilsettivo, Orvakkatti, Lauppivo, Lirnavo, Aldessevo, Auldivo, Hapirivo, Kolpavo, Hellurivo, Kelsipavo, Ennumivo, Aspelitti, Ulpesavo
 
 ### Female Given Names
 
-Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Hwomala, Hwomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelìvele, Talvela, Talvetta, Nwomila, Nwomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hìssele, Hìssette, Ilvìle, Ilvìtte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rellìle, Rellìtte, Nelìvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvìrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nìlkile, Nìlkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta, Rukkola, Sìlkele, Seltula, Saikila, Sìrnele, Raltila, Issaltela, Valkele
+Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Hwomala, Hwomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelìvele, Talvela, Talvetta, Nwomila, Nwomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkitta, Hìssele, Hìssette, Ilvìle, Ilvìtte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rellìle, Rellìtte, Nelìvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvìrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nìlkile, Nìlkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta, Rukkola, Sìlkele, Seltula, Saikila, Sìrnele, Raltila, Issaltela, Valkele, Sorvelitta, Ennitta, Sennila, Nantorutta, Ruvalitta, Pallevotta, Tessikala, Miskotta
 
 ### Lineage Names (Inherited Matrilineally)
 
-Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Hwomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nwominto—"the still hour" Lovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hìssente—"the held breath" Ilvìnte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rellìnte—"the turning leaf" Nelìvente—"the first frost" Pelvainto—"the low cloud" Elvìrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nìlkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Sìllente—"the rising note" Ressinto—"the plaited mat"
+Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Hwomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nwominto—"the still hour" Lovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hìssente—"the held breath" Ilvìnte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rellìnte—"the turning leaf" Nelìvente—"the first frost" Pelvainto—"the low cloud" Elvìrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nìlkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Sìllente—"the rising note" Ressinto—"the plaited mat" Kersanto—"the red pine" Vessanto—"the needle floor" Haltunto—"the hollow log" Peskonto—"the thin smoke" Rovennanto—"the cold shore" Tolkunto—"the buttress root" Hummarinto—"the heavy vine" Kossanto—"the sunken pool" Nurellanto—"the hanging moss" Velliranto—"the heron's call" Sepullanto—"the floating weed" Hirsunto—"the reed bed" Okkelanto—"the heron's perch"
 
 ## Lexicon
 
