@@ -4713,7 +4713,82 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Pelwar}}
+  flags:
+    thalorna:
+      lang_family: Pelwar
+      writing:
+        paradigms:
+          - {verb: speak, I: speak, thou: speakest, heSheIt: speaketh, plural: speaken}
+          - {verb: love, I: love, thou: lovest, heSheIt: loveth, plural: loven}
+          - {verb: karri, I: karri, thou: karriest, heSheIt: karrieth, plural: karryen}
+          - {verb: be, I: am, thou: art, heSheIt: is, plural: ben}
+          - {verb: have, I: have, thou: hast, heSheIt: hath, plural: haven}
+          - {verb: do, I: do, thou: dost, heSheIt: doth, plural: doen}
+          - {verb: go, I: go, thou: goest, heSheIt: goeth, plural: goen}
+          - {verb: kome, I: kome, thou: komest, heSheIt: kometh, plural: komen}
+          - {verb: know, I: know, thou: knowest, heSheIt: knoweth, plural: knowen}
+          - {verb: sai, I: sai, thou: saist, heSheIt: saith, plural: sayen}
+        examples:
+          - We haven kome
+          - we haven awaited
+          - thei will kome
+          - thei mai enter
+          - Kome hither
+          - Enter not
+          - we believen not
+          - thei komen not
+          - Haven ye seen him.
+          - Methinks we haven tarried too long.
+          - We haven been waiting for thee sinse morn.
+          - We ben merchants of the north and haven kome hither to sell our wares.
+          - Ye kannot enter till morn.
+          - We kannot abide here longer.
+          - Whither goest thou.
+          - I go unto the market.
+          - Hast thou koin enough.
+          - Nai but I have wares to sell.
+          - The knight said I shall return ere night.
+          - Such wikedness have I never seen.
+          - Yield I shall not.
+          - Thou shalt not enter. Not now nor ever.
+          - I seek not thi gold but thi oath.
+          - Not for fear do I kneel but for honour.
+          - I do know thi purpose.
+          - I did warn thee.
+        worked:
+          - meaning: Where are you going? We have been waiting for you since morning. (One addressee.)
+            text: Whither goest thou. We haven been waiting for thee sinse morn.
+          - meaning: Do not enter the forest after dark. Dangerous things live there.
+            text: Enter not the forest after nightfall. Perilous things dwellen therein.
+          - meaning: I do not believe what you are saying. You have lied to us before. (One addressee.)
+            text: I believe not thi words. Thou hast lied unto us ere now.
+          - meaning: You all know what happened. We cannot stay here any longer.
+            text: Ye knowen what hath befallen. We kannot abide here longer.
+          - meaning: The king has ruled that nobody may cross the river until the war ends.
+            text: The king hath dekreed that none mai kross the river till the war is ended.
+        conversation:
+          - Who ben ye and whither goen ye.
+          - We ben merchants of the north and haven kome hither to sell our wares.
+          - The gates standen shut. Ye kannot enter till morn.
+          - Then we will bide here. Yet far haven we journeyed and weari ben we.
+          - Ye mai bide but stir no strife. The kaptain will kome at dawn.
+      samples:
+        prose:
+          - Whither goest thou stranger and what karriest thou in thi pak. The fog lieth heavi on the water and the gate is shut ere dark. Tarri with us this night and we will ask thee naught more.
+          - A word onse given is a stone laid in the wall. pluk it out and the whole house falleth.
+        verse:
+          - work: harvestsong
+            lines:
+              - The wool is shorn the barlei bound
+              - The last of summeres gold is ground
+              - Fill high the kup and drink it deep
+              - And name the dead now fast asleep.
+          - work: crossroadscharm
+            lines:
+              - Go softli thou that walkest late
+              - And leave thine offering at the gate
+              - Who watcheth bi the krossing wide
+              - Will let the kourteous pass beside.
 ---
 
 Eilwìthi is the speech of the island of [[place-eilwith|Eilwìth]]. Fluency measures the sophistication of expression in Eilwìthi, from the halting phrases of a visitor to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

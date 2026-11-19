@@ -1,15 +1,14 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
-import fs from "node:fs";
 import { createHash } from "node:crypto";
 import test from "node:test";
-import YAML from "yaml";
 import { respellText } from "./aelwythi-respell.mjs";
-import { notePath } from "./note-index.mjs";
+import { frontmatterOf, notePath } from "./note-index.mjs";
 
-const raw = fs.readFileSync(notePath("skill-aelwthlng"), "utf8");
-const words = YAML.parse(raw.split("---")[1]).data.words;
+const note = frontmatterOf(notePath("skill-aelwthlng"));
+const words = note.data.words;
+const { writing, samples } = note.sohl.flags.thalorna;
 // Historical native test phrases receive only the approved closing-y substitutions.
 const guideSpelled = (text) => respellText(text).replace(/([aeo])y(?![aeiou])/g, "$1i");
 const forConcept = (id) => words.filter((word) => [word.concept ?? []].flat().includes(id));
@@ -49,17 +48,12 @@ test("ordinary Aelwythi questions and courtesies state the addressee's number", 
 
 test("declared finite forms support the prescribed present paradigms without modal plural endings", () => {
     const all = new Set(words.flatMap((word) => [word.form, ...(word.variants ?? [])]));
-    // Derive every displayed paradigm's usable forms from the author-facing table.
-    const table = raw
-        .split(/\| Verb\s*\| I\s*\| Thou\s*\| He \/ she \/ it\s*\| We \/ ye \/ thei\s*\|/)[1]
-        .split("\n\n")[0];
-    const rows = table.split("\n").filter((line) => /^\| [a-z]/.test(line));
-    assert.equal(rows.length, 10, "the ordinary and named exceptional paradigms remain visible");
+    // Derive every declared paradigm's usable forms from the note's declared paradigms.
+    const rows = writing.paradigms;
+    assert.equal(rows.length, 10, "the ordinary and named exceptional paradigms remain declared");
     for (const row of rows) {
-        const [headword, ...displayed] = row
-            .split("|")
-            .slice(1, -1)
-            .map((cell) => cell.trim());
+        const { verb: headword, I, thou, heSheIt, plural } = row;
+        const displayed = [I, thou, heSheIt, plural];
         const word = words.find(({ form }) => form === guideSpelled(headword));
         assert(word, `${headword} needs an entry`);
         const declared = new Set([word.form, ...(word.variants ?? [])]);
@@ -83,23 +77,11 @@ test("declared finite forms support the prescribed present paradigms without mod
         assert(!all.has(form), `${form} conflicts with the prescribed present standard`);
 });
 
-/** The lines of the Aelwythi verse divs in `samples`, without their line-end marks. */
-const aelwythiVerseLines = (samples) => {
-    const lines = [];
-    let inside = false;
-    for (const line of samples.split("\n")) {
-        if (/^::: \{\.verse\b[^}]*\blang=aelw\b[^}]*\}$/.test(line)) inside = true;
-        else if (line === ":::") inside = false;
-        else if (inside && line) lines.push(line.replace(/\/$/, ""));
-    }
-    return lines;
-};
+/** The lines of the declared Aelwythi verse works in `samples`. */
+const aelwythiVerseLines = ({ verse }) => verse.flatMap(({ lines }) => lines);
 
 test("the illustrative sample words retain their reviewed form", () => {
-    const samples = raw
-        .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
-        .split("\n## Naming Traditions")[0];
-    const proseSamples = samples.split("\n").filter((line) => line.startsWith("> "));
+    const proseSamples = samples.prose;
     assert.equal(proseSamples.length, 2);
     assert(proseSamples.every((line) => !/["“”]/.test(line)));
     // Exact sample spellings preserve words while applying the declared pause characters.
@@ -124,10 +106,8 @@ test("the illustrative sample words retain their reviewed form", () => {
         [false, "Who watcheth by the crossing wide", "Who watcheth by the crossing wide"],
         [false, "Will let the courteous pass beside.", "Will let the courteous pass beside."],
     ];
-    const actual = samples
-        .split("\n")
-        .filter((line) => line.startsWith("> "))
-        .map((line) => [true, line.slice(2)])
+    const actual = samples.prose
+        .map((line) => [true, line])
         .concat(aelwythiVerseLines(samples).map((line) => [false, line]));
     assert.deepEqual(
         actual,
@@ -149,10 +129,7 @@ test("the illustrative sample words retain their reviewed form", () => {
 });
 
 test("auxiliary, modal and fixed impersonal examples keep their meaning and finite agreement", () => {
-    const guide = raw
-        .split("### Rules for writers")[1]
-        .split("### Sample passages")[0]
-        .replace(/\s+/g, " ");
+    const declared = writing.examples;
     for (const phrase of [
         "_We haven come_",
         "_we haven awaited_",
@@ -170,17 +147,13 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         "We cannot abide here longer.",
     ])
         assert(
-            guide.includes(respellText(phrase.replaceAll("_", ""))),
+            declared.includes(respellText(phrase.replaceAll("_", ""))),
             `missing meaningful example: ${phrase}`,
         );
     const utterances = [
-        guide.split("**Worked phrases.**")[0],
-        ...raw
-            .split("**Worked phrases.**")[1]
-            .split("A gate conversation")[0]
-            .split("\n")
-            .filter((line) => line.startsWith("| "))
-            .map((line) => line.split("|").at(-2).trim()),
+        ...declared,
+        ...writing.worked.map(({ text }) => text),
+        ...writing.conversation,
     ].join(" ");
     for (const phrase of [/haven comen/i, /(?:we|ye|they) (?:are|have|do|go|come|know)\b/i])
         assert(!phrase.test(utterances), `a finite-only agreement regression: ${phrase}`);
@@ -214,9 +187,6 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
 test("performed verse takes its reading from the guide without lexical contractions", () => {
     // #1256 removes dictionary readings; #1257 owns any further respelling.
     // The preceding exact-sample assertion still preserves every performed word.
-    const samples = raw
-        .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
-        .split("\n## Naming Traditions")[0];
     assert.equal(aelwythiVerseLines(samples).length, 8);
     for (const form of ["offering", "kourteous"]) {
         const word = words.find((entry) => entry.form === form);
@@ -229,11 +199,11 @@ test("performed verse takes its reading from the guide without lexical contracti
             `${form} has no contraction override`,
         );
     }
-    assert(!/eight-syllable|OFF-ring|COUR-teous/.test(raw));
+    assert(!/eight-syllable|OFF-ring|COUR-teous/.test(JSON.stringify(note)));
 });
 
 test("the standard uses guide sounds and preserves authored lexical meanings", () => {
-    const data = (file) => YAML.parse(fs.readFileSync(file, "utf8").split("---")[1]).data;
+    const data = (file) => frontmatterOf(file).data;
     const sounds = data(notePath("doc-prnncthlrn")).sounds.letters;
     for (const [letters, ipa] of [
         ["a", "ɑ"],
