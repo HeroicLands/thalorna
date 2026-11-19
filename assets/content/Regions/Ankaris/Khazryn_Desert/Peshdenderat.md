@@ -80,3 +80,6 @@ The gallery lies below the level of the lower basin, at the foot of an old pilgr
 
 [[lore-theshadow|The Shadow]]
 : the chaos from outside creation
+
+[[scenario-drywellshirvn|The Well That Reads]]
+: a scenario set here

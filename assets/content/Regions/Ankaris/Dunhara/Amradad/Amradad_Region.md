@@ -17,6 +17,10 @@ data:
     - {to: zupumun, bearing: W}
     - {to: byzariargn, bearing: N}
     - {to: dunhardsrtrgn, bearing: SE}
+    - {to: southrnmrch, bearing: N}
+  routes:
+    - {to: southrnmrch, bearing: N, mode: land, days: 10, terrain: [hills, road]}
+    - {to: eastrnmrch, bearing: N, mode: land, days: 20, terrain: [hills, road]}
   population: 2000000
   packFolder: amradad
   government: kngdmmrdd

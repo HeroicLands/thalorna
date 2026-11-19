@@ -42,3 +42,4 @@ A caravan-master who argues with a refusal at Meghadvar is not overruled. He is 
 
 - [[place-sthrnwall|The Southern Wall]] · [[place-meghashkhr|Meghashikhar]] · [[place-gudesroad|the Guides' Road]]
 - [[affiliation-osketguides|The Osket]] · [[affiliation-svapnasarisameja|Svapnasari-sameja]] · [[place-pssshrines|the Pass-Shrines]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]

@@ -399,9 +399,9 @@ Nubaris Jadiros is a 36-year-old woman who stands 5'7" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Nubaris Jadiros is a courtier of [[place-theradon2|Theradon]], in [[place-helionis|Helionis]], a [[lore-helioniteclt|Helionite]] noblewoman of a minor house with a seat in the city's assembly, who has made herself the person the greater houses send for when they need something settled quietly.
+Nubaris Jadiros is a courtier of [[place-theradon2|Theradon]], in [[place-helionis|Helionis]], a [[lore-helioniteclt|Helionite]] noblewoman of a minor house with a seat in Theradon's assembly, who has made herself the person the greater houses send for when they need something settled quietly.
 
-The city is governed by an assembly of its wealthiest and most educated citizens. The Jadiros seat is an old one and a small one, and Nubaris inherited it with the debts attached. She mediates. When two houses fall out over a marriage, a tax farm or a philosopher's chair, Nubaris is the one who knows what each side actually wants, carries the messages neither will send directly, and proposes the settlement both can accept. She takes a fee from both. Her contacts run through every house in Theradon and several in [[place-thyrenae2|Thirenae]] and she has never been caught telling anyone what she was told. That reputation for discretion is her whole capital.
+Theradon is governed by an assembly of its wealthiest and most educated citizens. The Jadiros seat is an old one and a small one, and Nubaris inherited it with the debts attached. She mediates. When two houses fall out over a marriage, a tax farm or a philosopher's chair, Nubaris is the one who knows what each side actually wants, carries the messages neither will send directly, and proposes the settlement both can accept. She takes a fee from both. Her contacts run through every house in Theradon and several in [[place-thyrenae2|Thirenae]] and she has never been caught telling anyone what she was told. That reputation for discretion is her whole capital.
 
 ## Psyche
 

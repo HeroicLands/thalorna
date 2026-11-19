@@ -45,3 +45,9 @@ Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Ban
 
 [[place-dunharargn|Dunhara]]
 : what it goes to
+
+[[scenario-lastwagonadv|The Last Wagon on the Banner Ground]]
+: a scenario set here
+
+[[scenario-roadroundwall|The Road Round the Wall]]
+: a scenario set here

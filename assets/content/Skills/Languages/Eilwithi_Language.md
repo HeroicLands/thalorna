@@ -7,7 +7,7 @@ description: "The speech of the island of Eilwìth, given in these pages in the 
 tags: []
 
 data:
-  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚìÌ0123456789"
+  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚàìòùÀÌÒÙ0123456789"
   core: true
   abbreviation: Aelw.
   fields:
@@ -29,18 +29,26 @@ data:
       holds: Ability, permission, obligation and everyday exchanges.
   words:
     - {form: eksakt, class: v, gloss: require or demand, field: Ordinary speech}
-    - {form: konquer, class: v, gloss: overcome or subdue, field: Ordinary speech}
-    - {form: skeptik, class: n, gloss: one who doubts, field: Ordinary speech}
-    - {form: pak, class: n, field: Needs and the household, gloss: a bundle carried for a journey}
+    - {form: kongkòr, class: v, gloss: overcome or subdue, field: Ordinary speech}
+    - {form: skeptìk, class: n, gloss: one who doubts, field: Ordinary speech}
+    - {form: pàk, class: n, field: Needs and the household, gloss: a bundle carried for a journey}
     - {form: pluk, class: v, field: Doing and being, gloss: pull or pick out}
-    - {form: offering, class: n, field: Ordinary speech, gloss: a gift presented}
-    - {form: kourteous, class: adj, field: Ordinary speech, gloss: showing courtesy or respect}
-    - form: see
+    - form: ófòrìng
+      class: n
+      field: Ordinary speech
+      gloss: a gift presented
+      variants: [ofrìng]
+    - form: kourteous
+      class: adj
+      field: Ordinary speech
+      gloss: showing courtesy or respect
+      variants: [kùrtyòs]
+    - form: sii
       class: v
       field: Senses and the body
       gloss: to see
       concept: see-verb
-      variants: [saw, seen]
+      variants: [saw, siin]
     - form: sight
       class: n
       field: Senses and the body
@@ -54,7 +62,7 @@ data:
       variants: [heard]
     - {form: sound, class: n, field: Senses and the body, gloss: a sound, concept: hear-noun}
     - {form: smell, class: v, field: Senses and the body, gloss: to smell, concept: smell-verb}
-    - form: sente
+    - form: sent
       class: n
       field: Senses and the body
       gloss: a smell; a scent
@@ -72,18 +80,18 @@ data:
       concept: touch-verb
       variants: [touched]
     - {form: a touch, class: n, field: Senses and the body, gloss: a touch, concept: touch-noun}
-    - form: look
+    - form: lùk
       class: v
       field: Senses and the body
       gloss: to look
       concept: look
-      variants: [looked, looking]
-    - form: watch
+      variants: [lùkt, lùkìng]
+    - form: wàch
       class: v
       field: Senses and the body
       gloss: to watch; to observe attentively
       concept: watch
-      variants: [watched, watcheth, watching]
+      variants: [wàcht, wàcheth, wàchìng]
     - form: outward show
       class: n
       field: Senses and the body
@@ -102,7 +110,7 @@ data:
       concept: listen
     - {form: noise, class: n, field: Senses and the body, gloss: noise, concept: noise}
     - {form: voise, class: n, field: Senses and the body, gloss: voice, concept: voice}
-    - {form: silense, class: n, field: Senses and the body, gloss: silence, concept: silence}
+    - {form: sailòns, class: n, field: Senses and the body, gloss: silence, concept: silence}
     - form: loud
       class: adj
       field: Senses and the body
@@ -153,7 +161,7 @@ data:
       field: Senses and the body
       gloss: to perceive through the senses or understanding
       concept: perceive
-    - form: know again
+    - form: kno again
       class: v
       field: Senses and the body
       gloss: to recognize someone or something encountered before
@@ -292,7 +300,7 @@ data:
       field: Feelings and affections
       gloss: frustration; distress at an obstacle to one's purpose
       concept: frustration
-    - form: desire to know
+    - form: desire to kno
       class: n
       field: Feelings and affections
       gloss: curiosity; wanting to learn or discover
@@ -330,17 +338,17 @@ data:
       gloss: reverence
       concept: reverence
     - {form: awe, class: n, field: Feelings and affections, gloss: awe, concept: awe}
-    - form: loverses love
+    - form: loverses lòv
       class: n
       field: Feelings and affections
       gloss: romantic love; attachment between lovers, distinct from sexual desire alone
       concept: love-eros
-    - form: love of friends
+    - form: lòv of friends
       class: n
       field: Feelings and affections
       gloss: friendship; affectionate regard between friends
       concept: love-philia
-    - form: love of kindred
+    - form: lòv of kindred
       class: n
       field: Feelings and affections
       gloss: the love of family members for one another
@@ -381,7 +389,7 @@ data:
       gloss: companionship; sharing company with a companion
       concept: companionship
     - {form: enmiti, class: n, field: Feelings and affections, gloss: enmity, concept: enmity}
-    - {form: head, class: n, field: Senses and the body, gloss: the head, concept: head}
+    - {form: hed, class: n, field: Senses and the body, gloss: the head, concept: head}
     - {form: hair, class: n, field: Senses and the body, gloss: the hair, concept: hair}
     - {form: fase, class: n, field: Senses and the body, gloss: the face, concept: face}
     - form: eye
@@ -433,12 +441,12 @@ data:
     - {form: bak, class: n, field: Senses and the body, gloss: the back, concept: back}
     - {form: hip, class: n, field: Senses and the body, gloss: the hip, concept: hip}
     - {form: leg, class: n, field: Senses and the body, gloss: the leg, concept: leg}
-    - form: knee
+    - form: knii
       class: n
       field: Senses and the body
       gloss: the knee
       concept: knee
-      variants: [knees]
+      variants: [kniiz]
     - form: foot
       class: n
       field: Senses and the body
@@ -549,7 +557,7 @@ data:
       concept: sleep-verb
       variants: [sleepen, slept]
     - {form: urine, class: n, field: Needs and the household, gloss: urine, concept: urine}
-    - form: make water
+    - form: meik water
       class: v
       field: Needs and the household
       gloss: to urinate
@@ -609,7 +617,7 @@ data:
     - {form: hot, class: adj, field: Needs and the household, gloss: hot, concept: hot}
     - {form: warm, class: adj, field: Needs and the household, gloss: warm, concept: warm}
     - {form: kool, class: adj, field: Needs and the household, gloss: cool, concept: cool}
-    - {form: freeze, class: v, field: Needs and the household, gloss: freeze, concept: freeze}
+    - {form: friiz, class: v, field: Needs and the household, gloss: freeze, concept: freeze}
     - form: burn
       class: v
       field: Needs and the household
@@ -659,7 +667,7 @@ data:
       field: Needs and the household
       gloss: grow
       concept: grow
-      variants: [grew]
+      variants: [gruu]
     - form: grow old
       class: v
       field: Needs and the household
@@ -876,7 +884,7 @@ data:
     - {form: table, class: n, field: Needs and the household, gloss: a table, concept: table}
     - {form: bed, class: n, field: Needs and the household, gloss: a bed, concept: bed}
     - {form: floor, class: n, field: Needs and the household, gloss: a floor, concept: floor}
-    - {form: wall, class: n, field: Needs and the household, gloss: a wall, concept: wall}
+    - {form: waal, class: n, field: Needs and the household, gloss: a wall, concept: wall}
     - {form: roof, class: n, field: Needs and the household, gloss: a roof, concept: roof}
     - form: house
       class: n
@@ -917,7 +925,7 @@ data:
       gloss: a knife
       concept: knife
       variants: [knifees]
-    - {form: spoon, class: n, field: Needs and the household, gloss: a spoon, concept: spoon}
+    - {form: spuun, class: n, field: Needs and the household, gloss: a spoon, concept: spoon}
     - {form: pot, class: n, field: Needs and the household, gloss: a pot, concept: pot}
     - {form: lamp, class: n, field: Needs and the household, gloss: a lamp, concept: lamp}
     - {form: kloth, class: n, field: Needs and the household, gloss: cloth, concept: cloth}
@@ -973,7 +981,7 @@ data:
       concept: wood
       variants: [woodes]
     - {form: metal, class: n, field: Needs and the household, gloss: metal, concept: metal}
-    - {form: klai, class: n, field: Needs and the household, gloss: clay, concept: clay}
+    - {form: klei, class: n, field: Needs and the household, gloss: clay, concept: clay}
     - {form: leather, class: n, field: Needs and the household, gloss: leather, concept: leather}
     - {form: wool, class: n, field: Needs and the household, gloss: wool, concept: wool}
     - {form: thread, class: n, field: Needs and the household, gloss: thread, concept: thread}
@@ -1013,19 +1021,24 @@ data:
     - {form: river, class: n, field: Land and living things, gloss: river, concept: river}
     - {form: stream, class: n, field: Land and living things, gloss: stream, concept: stream}
     - {form: lake, class: n, field: Land and living things, gloss: lake, concept: lake}
-    - {form: sea, class: n, field: Land and living things, gloss: sea, concept: sea}
+    - form: sea
+      class: n
+      field: Land and living things
+      gloss: sea
+      concept: sea
+      variants: [sii]
     - {form: osean, class: n, field: Land and living things, gloss: ocean, concept: ocean}
     - {form: shore, class: n, field: Land and living things, gloss: shore, concept: shore}
     - {form: rain, class: n, field: Land and living things, gloss: rain, concept: rain}
     - {form: snow, class: n, field: Land and living things, gloss: snow, concept: snow}
     - {form: ise, class: n, field: Land and living things, gloss: ice, concept: ice}
     - {form: skai, class: n, field: Land and living things, gloss: sky, concept: sky}
-    - form: sun
+    - form: sòn
       class: n
       field: Land and living things
       gloss: sun
       concept: sun
-      variants: [sunes]
+      variants: [sònes]
     - {form: moon, class: n, field: Land and living things, gloss: moon, concept: moon}
     - {form: star, class: n, field: Land and living things, gloss: star, concept: star}
     - {form: kloud, class: n, field: Land and living things, gloss: cloud, concept: cloud}
@@ -1038,12 +1051,12 @@ data:
       gloss: lightning
       concept: lightning
     - {form: plant, class: n, field: Land and living things, gloss: plant, concept: plant}
-    - form: tree
+    - form: trii
       class: n
       field: Land and living things
       gloss: tree
       concept: tree
-      variants: [trees]
+      variants: [triiz]
     - form: leaf
       class: n
       field: Land and living things
@@ -1067,12 +1080,12 @@ data:
       gloss: beast
       concept: beast
       variants: [beasts]
-    - form: bird
+    - form: bùrd
       class: n
       field: Land and living things
       gloss: bird
       concept: bird
-      variants: [birds]
+      variants: [bùrdz]
     - {form: fish, class: n, field: Land and living things, gloss: fish, concept: fish}
     - form: insekt
       class: n
@@ -1198,13 +1211,13 @@ data:
     - {form: blue, class: adj, field: Number and appearance, gloss: blue, concept: blue}
     - {form: grei, class: adj, field: Number and appearance, gloss: gray, concept: grey}
     - {form: brown, class: adj, field: Number and appearance, gloss: brown, concept: brown}
-    - form: light of kolour
+    - form: lait of kolour
       class: adj
       field: Number and appearance
       gloss: light in color
       concept: light-colour
     - {form: pale, class: adj, field: Number and appearance, gloss: pale, concept: pale}
-    - form: letting no light through
+    - form: letting no lait thruu
       class: adj
       field: Number and appearance
       gloss: opaque; allowing no light through
@@ -1235,12 +1248,12 @@ data:
       field: Number and appearance
       gloss: striped; marked with lines or bands
       concept: striped
-    - form: be
+    - form: bii
       class: v
       field: Doing and being
       gloss: to be
       concept: be
-      variants: [am, art, is, ben, was, wast, wert, were, been]
+      variants: [am, art, is, ben, was, wast, wert, were, biin]
     - form: have
       class: v
       field: Doing and being
@@ -1252,7 +1265,7 @@ data:
       field: Doing and being
       gloss: to go
       concept: go
-      variants: [goest, goeth, goen, went, gone, going]
+      variants: [goest, goeth, goen, went, gone, goìng]
     - form: kome
       class: v
       field: Doing and being
@@ -1271,47 +1284,47 @@ data:
       gloss: to take
       concept: take
       variants: [taken, taketh, took]
-    - form: make
+    - form: meik
       class: v
       field: Doing and being
       gloss: to make
       concept: make
-      variants: [made]
-    - form: do
+      variants: [meid]
+    - form: duu
       class: v
       field: Doing and being
       gloss: to do
       concept: do
-      variants: [dost, doth, doen, did, done]
-    - form: sai
+      variants: [dòst, dòth, duuen, did, dòn]
+    - form: sei
       class: v
       field: Doing and being
       gloss: to say
       concept: say
-      variants: [saist, saith, sayen, said]
+      variants: [seist, seith, seien, sed]
     - form: speak
       class: v
       field: Doing and being
       gloss: to speak
       concept: speak
       variants: [speakest, speaketh, speaken, spoke, spoken]
-    - form: know
+    - form: kno
       class: v
       field: Doing and being
       gloss: to know
       concept: know
-      variants: [knowest, knoweth, knowen, knew, knewest, known]
+      variants: [knoest, knoeth, knoen, knuu, knuuest, knon]
     - form: think
       class: v
       field: Doing and being
       gloss: to think
       concept: think
       variants: [thought]
-    - form: love
+    - form: lòv
       class: v
       field: Feelings and affections
       gloss: to feel love or affection for someone or something
-      variants: [lovest, loveth, loven, loved]
+      variants: [lòvest, lòveth, lòven, lòvd]
     - form: to desire
       class: v
       field: Doing and being
@@ -1336,12 +1349,12 @@ data:
       gloss: to run
       concept: run
       variants: [ran, runneth]
-    - form: sit
+    - form: sìt
       class: v
       field: Doing and being
       gloss: to sit
       concept: sit
-      variants: [sat, sitteth, sitting]
+      variants: [sat, sìteth, sìtìng]
     - form: stand
       class: v
       field: Doing and being
@@ -1361,7 +1374,7 @@ data:
       gloss: to bring
       concept: bring
       variants: [bringen, bringeth, brought]
-    - {form: put, class: v, field: Doing and being, gloss: to put, concept: put}
+    - {form: pùt, class: v, field: Doing and being, gloss: to put, concept: put}
     - form: find
       class: v
       field: Doing and being
@@ -1459,7 +1472,7 @@ data:
       field: Doing and being
       gloss: to throw
       concept: throw
-      variants: [threw]
+      variants: [thruu]
     - {form: katch, class: v, field: Doing and being, gloss: to catch, concept: catch}
     - {form: build, class: v, field: Doing and being, gloss: to build, concept: build}
     - {form: kreate, class: v, field: Doing and being, gloss: to create, concept: create}
@@ -1503,7 +1516,7 @@ data:
       concept: shout
       variants: [krying]
     - {form: whisper, class: v, field: Doing and being, gloss: to whisper, concept: whisper}
-    - form: make plain
+    - form: meik plain
       class: v
       field: Doing and being
       gloss: to explain; to make a meaning clear
@@ -1569,7 +1582,7 @@ data:
     - {form: help, class: v, field: Doing and being, gloss: to help, concept: help}
     - {form: share, class: v, field: Doing and being, gloss: to share, concept: share}
     - {form: trade, class: v, field: Doing and being, gloss: to trade, concept: trade}
-    - {form: buy, class: v, field: Doing and being, gloss: to buy, concept: buy}
+    - {form: bai, class: v, field: Doing and being, gloss: to buy, concept: buy}
     - {form: sell, class: v, field: Doing and being, gloss: to sell, concept: sell}
     - {form: promise, class: v, field: Doing and being, gloss: to promise, concept: promise-verb}
     - {form: thank, class: v, field: Doing and being, gloss: to thank, concept: thank-verb}
@@ -1665,7 +1678,7 @@ data:
       field: Place and time
       gloss: the left side or direction
       concept: left-direction
-    - form: the right hand
+    - form: the rait hand
       class: n
       field: Place and time
       gloss: the right side or direction
@@ -1677,7 +1690,7 @@ data:
     - {form: bakward, class: adv, field: Place and time, gloss: backward, concept: backward}
     - {form: toward, class: part, field: Place and time, gloss: toward, concept: toward}
     - {form: awai, class: adv, field: Place and time, gloss: away, concept: away}
-    - {form: through, class: part, field: Place and time, gloss: through, concept: through}
+    - {form: thruu, class: part, field: Place and time, gloss: through, concept: through}
     - {form: akross, class: part, field: Place and time, gloss: across, concept: across}
     - form: round about
       class: part
@@ -1699,20 +1712,15 @@ data:
       field: Place and time
       gloss: position; the place occupied by something
       concept: position
-    - form: which wai
+    - form: which wei
       class: n
       field: Place and time
       gloss: direction; the way something faces or goes
       concept: direction
     - {form: distanse, class: n, field: Place and time, gloss: distance, concept: distance}
-    - {form: time, class: n, field: Place and time, gloss: time, concept: time, variants: [times]}
+    - {form: taim, class: n, field: Place and time, gloss: time, concept: time, variants: [taimz]}
     - {form: moment, class: n, field: Place and time, gloss: moment, concept: moment}
-    - form: dai
-      class: n
-      field: Place and time
-      gloss: day
-      concept: day
-      variants: [dayes, dais]
+    - {form: dei, class: n, field: Place and time, gloss: day, concept: day, variants: [deiz]}
     - form: night
       class: n
       field: Place and time
@@ -1728,26 +1736,26 @@ data:
       concept: evening
       variants: [eveninges]
     - {form: midnight, class: n, field: Place and time, gloss: midnight, concept: midnight}
-    - {form: now, class: adv, field: Place and time, gloss: now, concept: now}
+    - {form: nau, class: adv, field: Place and time, gloss: now, concept: now}
     - form: then
       class: adv
       field: Place and time
       gloss: [at that time, introducing the consequence of a condition]
       concept: [then, then-conditional]
-    - {form: todai, class: adv, field: Place and time, gloss: today, concept: today}
+    - {form: tòdéi, class: adv, field: Place and time, gloss: today, concept: today}
     - {form: yesterdai, class: adv, field: Place and time, gloss: yesterday, concept: yesterday}
     - {form: tomorrow, class: adv, field: Place and time, gloss: tomorrow, concept: tomorrow}
-    - form: time past
+    - form: taim past
       class: n
       field: Place and time
       gloss: the past; time that has already passed
       concept: past
-    - form: the present time
+    - form: the present taim
       class: n
       field: Place and time
       gloss: the present; the time now occurring
       concept: present
-    - form: time to kome
+    - form: taim to kome
       class: n
       field: Place and time
       gloss: the future; time that has not yet arrived
@@ -1839,44 +1847,44 @@ data:
       field: Reference and questions
       gloss: the speaker as subject; me as object
       concept: i
-      variants: [me]
+      variants: [mii]
     - form: mi
       class: pron
       field: Reference and questions
       gloss: possession by the speaker; mine when standing alone
       concept: my
-      variants: [mine]
-    - form: thou
+      variants: [main]
+    - form: dhau
       class: pron
       field: Reference and questions
       gloss: one addressee as subject; thee as object, whether familiar or formal
       concept: you-reference
-      variants: [thee]
+      variants: [dhii]
     - form: ye
       class: pron
       field: Reference and questions
       gloss: plural addressees as subject; you as object
       concept: you-reference
       variants: [you]
-    - form: thi
+    - form: dhai
       class: pron
       field: Reference and questions
       gloss: possession by one addressee; thine when standing alone or optionally before a vowel sound
       concept: your
-      variants: [thine]
+      variants: [dhain]
     - form: your
       class: pron
       field: Reference and questions
       gloss: possession by plural addressees; yours when standing alone
       concept: your
       variants: [yours]
-    - form: he
+    - form: hii
       class: pron
       field: Reference and questions
       gloss: a male person as subject; him as object
       concept: he
       variants: [him]
-    - form: she
+    - form: shii
       class: pron
       field: Reference and questions
       gloss: a female person as subject; her as object
@@ -1903,7 +1911,7 @@ data:
       variants: [ours]
     - {form: this, class: dem, field: Reference and questions, gloss: this, concept: this}
     - {form: that, class: dem, field: Reference and questions, gloss: that, concept: that}
-    - {form: these, class: dem, field: Reference and questions, gloss: these, concept: these}
+    - {form: dhiiz, class: dem, field: Reference and questions, gloss: these, concept: these}
     - {form: those, class: dem, field: Reference and questions, gloss: those, concept: those}
     - form: somebodi
       class: pron
@@ -1945,7 +1953,7 @@ data:
       field: Reference and questions
       gloss: reflexive reference; use myself, thyself, himself, herself, itself, ourselves, yourselves or themselves to match the person
       concept: self
-      variants: [miself, thiself, himself, herself, itself, ourselves, yourselves, themselves]
+      variants: [miself, dhaisélf, himself, herself, itself, ourselves, yourselves, themselves]
     - {form: other, class: adj, field: Reference and questions, gloss: other, concept: other}
     - form: another
       class: pron
@@ -1958,7 +1966,7 @@ data:
       field: Reference and questions
       gloss: different
       concept: different
-    - form: "Who art thou."
+    - form: "Who art dhau."
       class: call
       field: Reference and questions
       gloss: Who are you? A question asking for a person's identity; who introduces questions about a person
@@ -1968,27 +1976,27 @@ data:
       field: Reference and questions
       gloss: What is this? A question asking what a thing is; what asks about a thing or action
       concept: question-what
-    - form: "Which wilt thou have."
+    - form: "Which wilt dhau have."
       class: call
       field: Reference and questions
       gloss: Which will you have? A question choosing among alternatives; which asks for a selection
       concept: question-which
-    - form: "Where art thou."
+    - form: "Where art dhau."
       class: call
       field: Reference and questions
       gloss: Where are you? A question asking for a location; where asks about place
       concept: question-where
-    - form: "When wilt thou kome."
+    - form: "When wilt dhau kome."
       class: call
       field: Reference and questions
       gloss: When will you come? A question asking for a time; when asks about time
       concept: question-when
-    - form: "Wherefore weepest thou."
+    - form: "Wherefore weepest dhau."
       class: call
       field: Reference and questions
       gloss: Why are you crying? A question asking for a reason; why asks about cause or motive
       concept: question-why
-    - form: "How farest thou."
+    - form: "How farest dhau."
       class: call
       field: Reference and questions
       gloss: How are you? A question asking about condition; how also asks about manner or means
@@ -1998,7 +2006,7 @@ data:
       field: Reference and questions
       gloss: How many are there? A question asking the number of countable things
       concept: question-how-many
-    - form: "How much wilt thou give."
+    - form: "How much wilt dhau give."
       class: call
       field: Reference and questions
       gloss: How much will you give? A question asking an amount or quantity
@@ -2008,27 +2016,27 @@ data:
       field: Reference and questions
       gloss: Whose house is this? A question asking who owns something
       concept: question-whose
-    - form: "To whom speakest thou."
+    - form: "To whom speakest dhau."
       class: call
       field: Reference and questions
       gloss: To whom are you speaking? A question asking the recipient or addressee
       concept: question-to-whom
-    - form: "Whense komest thou."
+    - form: "Whense komest dhau."
       class: call
       field: Reference and questions
       gloss: Where do you come from? A question asking the place of origin
       concept: question-from-where
-    - form: "To what end labourest thou."
+    - form: "To what end labourest dhau."
       class: call
       field: Reference and questions
       gloss: For what purpose are you working? To what end asks about purpose
       concept: question-for-what-purpose
-    - form: "Knowest thou him."
+    - form: "Knoest dhau him."
       class: call
       field: Reference and questions
       gloss: Do you know him? A yes-or-no question addressed to one person; invert the finite verb and subject
       concept: question-polar
-    - form: "What meanest thou."
+    - form: "What miinest dhau."
       class: call
       field: Reference and questions
       gloss: What do you mean? A request to clarify what has just been said
@@ -2039,14 +2047,14 @@ data:
       gloss: yes; an affirmative response
       concept: yes
       variants: [yes]
-    - form: nai
+    - form: nei
       class: part
       field: Truth and reasoning
       gloss: no; a negative response
       concept: no
       variants: [no]
     - {form: not, class: part, field: Truth and reasoning, gloss: not, concept: not}
-    - form: "true"
+    - form: "truu"
       class: adj
       field: Truth and reasoning
       gloss: in accordance with fact
@@ -2110,11 +2118,11 @@ data:
       class: call
       field: Truth and reasoning
       gloss: it appears to me; a fixed impersonal expression
-    - form: Me likes
+    - form: Mii likes
       class: call
       field: Feelings and affections
       gloss: it pleases me; a fixed impersonal expression
-    - form: Me lists
+    - form: Mii lists
       class: call
       field: Feelings and affections
       gloss: I desire or am inclined; a fixed impersonal expression
@@ -2123,7 +2131,7 @@ data:
       field: Truth and reasoning
       gloss: apparently; according to how things appear
       concept: apparently
-    - form: as men sayen
+    - form: as men seien
       class: adv
       field: Truth and reasoning
       gloss: supposedly; according to what people claim, without endorsing it as fact
@@ -2146,6 +2154,7 @@ data:
       field: Truth and reasoning
       gloss: [correct; free from error, morally acceptable]
       concept: [correct, right-ethical]
+      variants: [rait]
     - form: wrong
       class: adj
       field: Truth and reasoning
@@ -2257,7 +2266,7 @@ data:
     - {form: wide, class: adj, field: Number and appearance, gloss: wide, concept: wide}
     - {form: narrow, class: adj, field: Number and appearance, gloss: narrow, concept: narrow}
     - {form: heavi, class: adj, field: Number and appearance, gloss: heavy, concept: heavy}
-    - form: light
+    - form: lait
       class: adj
       field: Number and appearance
       gloss: light in weight; not heavy
@@ -2355,12 +2364,12 @@ data:
       field: Number and appearance
       gloss: barely; only just, as in scarce enough to live
       concept: barely
-    - form: too much
+    - form: tuu much
       class: part
       field: Number and appearance
       gloss: too much
       concept: too-much
-    - form: too little
+    - form: tuu little
       class: part
       field: Number and appearance
       gloss: too little
@@ -2417,12 +2426,12 @@ data:
       field: Ability and conversation
       gloss: impossible
       concept: impossible
-    - form: mai
+    - form: mei
       class: v
       field: Ability and conversation
       gloss: to have permission to act; an auxiliary followed by a bare verb
       concept: may-permission
-      variants: [maist]
+      variants: [meist]
     - form: might
       class: v
       field: Ability and conversation
@@ -2450,7 +2459,7 @@ data:
       field: Ability and conversation
       gloss: required
       concept: required
-    - form: at thi choise
+    - form: at dhai choise
       class: adj
       field: Ability and conversation
       gloss: optional; left to your choice
@@ -2501,7 +2510,7 @@ data:
       field: Ability and conversation
       gloss: accidental; happening without intention
       concept: accidental
-    - form: Good dai
+    - form: Good dei
       class: call
       field: Ability and conversation
       gloss: hello; a greeting on meeting someone
@@ -2516,12 +2525,12 @@ data:
       field: Ability and conversation
       gloss: welcome; a greeting of hospitality
       concept: expression-welcome
-    - form: I prai thee
+    - form: I prai dhii
       class: call
       field: Ability and conversation
       gloss: please; a courteous introduction to a request addressed to one person
       concept: expression-please
-    - form: I thank thee
+    - form: I thank dhii
       class: call
       field: Ability and conversation
       gloss: thank you; an expression of gratitude addressed to one person
@@ -2531,7 +2540,7 @@ data:
       field: Ability and conversation
       gloss: you're welcome; a courteous response to thanks
       concept: expression-youre-welcome
-    - form: Bi thi leave
+    - form: Bi dhai leave
       class: call
       field: Ability and conversation
       gloss: excuse me; asking one person for permission to pass or interrupt
@@ -2541,7 +2550,7 @@ data:
       field: Ability and conversation
       gloss: sorry; expressing regret or sympathy
       concept: expression-sorry
-    - form: Forgive me
+    - form: Forgive mii
       class: call
       field: Ability and conversation
       gloss: forgive me; a request for forgiveness
@@ -2556,7 +2565,7 @@ data:
       field: Ability and conversation
       gloss: listen; a call for attention
       concept: expression-listen
-    - form: Look
+    - form: Lùk
       class: call
       field: Ability and conversation
       gloss: look; a call to direct the eyes or attention
@@ -2611,12 +2620,12 @@ data:
       field: Ability and conversation
       gloss: I do not understand; stating a failure to comprehend
       concept: expression-i-do-not-understand
-    - form: "How saist thou this in Eilwìthi."
+    - form: "How seist dhau this in Eilwìthi."
       class: call
       field: Ability and conversation
       gloss: How do you say this in Eilwìthi? A request for a translation or the words that express a thing or thought
       concept: expression-how-do-you-say
-    - form: "What kallest thou this."
+    - form: "What kallest dhau this."
       class: call
       field: Ability and conversation
       gloss: What is this called? A request for the name of something
@@ -2712,7 +2721,12 @@ data:
     - {form: justise, class: n, field: Kindred and society, gloss: justice, concept: justice}
     - {form: injustise, class: n, field: Kindred and society, gloss: injustice, concept: injustice}
     - {form: pease, class: n, field: Kindred and society, gloss: peace, concept: peace}
-    - {form: war, class: n, field: Kindred and society, gloss: war, concept: war, variants: [wars]}
+    - form: waar
+      class: n
+      field: Kindred and society
+      gloss: war
+      concept: war
+      variants: [waarz]
     - form: liberti
       class: n
       field: Kindred and society
@@ -2733,7 +2747,7 @@ data:
       field: Kindred and society
       gloss: property; land, goods or other things owned
       concept: property
-    - form: the right of possession
+    - form: the rait of possession
       class: n
       field: Kindred and society
       gloss: ownership; the right to hold something as one's own
@@ -2955,7 +2969,7 @@ data:
       field: Ordinary speech
       gloss: block or fill a passage so that it cannot run freely
       variants: [choked]
-    - {form: klean, class: adj, field: Ordinary speech, gloss: free from dirt or stain}
+    - {form: kliin, class: adj, field: Ordinary speech, gloss: free from dirt or stain}
     - {form: koat, class: n, field: Ordinary speech, gloss: an outer garment}
     - form: koin
       class: n
@@ -3007,7 +3021,7 @@ data:
       variants: [dareth]
     - {form: dawn, class: n, field: Ordinary speech, gloss: the first light of day}
     - {form: dear, class: adj, field: Ordinary speech, gloss: cherished; costly}
-    - form: dekline
+    - form: dekláin
       class: n
       field: Ordinary speech
       gloss: a descent or lowering, as of the setting sun
@@ -3041,7 +3055,7 @@ data:
       field: Ordinary speech
       gloss: a percussion instrument with a stretched skin
       variants: [drums]
-    - {form: due, class: adj, field: Ordinary speech, gloss: owed or required}
+    - {form: due, class: adj, field: Ordinary speech, gloss: owed or required, variants: [duu]}
     - {form: dun, class: adj, field: Ordinary speech, gloss: dull dark brown}
     - {form: dusk, class: n, field: Ordinary speech, gloss: the fading light of evening}
     - {form: dwell, class: v, field: Ordinary speech, gloss: live or reside, variants: [dwelleth]}
@@ -3074,7 +3088,7 @@ data:
       variants: [fells]
     - {form: fifteen, class: num, field: Ordinary speech, gloss: the number 15}
     - {form: fill, class: n, field: Ordinary speech, gloss: as much food or drink as one wants}
-    - {form: fine, class: adj, field: Ordinary speech, gloss: excellent or handsome}
+    - {form: fain, class: adj, field: Ordinary speech, gloss: excellent or handsome}
     - form: fit
       class: v
       field: Ordinary speech
@@ -3141,7 +3155,7 @@ data:
       field: Ordinary speech
       gloss: one of the Grukar Folk
       variants: [grukares]
-    - form: hall
+    - form: haal
       class: n
       field: Ordinary speech
       gloss: a large meeting or dwelling room; the building containing it
@@ -3150,7 +3164,7 @@ data:
       field: Ordinary speech
       gloss: the gathering of crops; the gathered crop
     - {form: haste, class: n, field: Ordinary speech, gloss: great speed or urgency}
-    - {form: hat, class: n, field: Ordinary speech, gloss: a head covering}
+    - {form: hàt, class: n, field: Ordinary speech, gloss: a head covering}
     - {form: health, class: n, field: Ordinary speech, gloss: the state of bodily well-being}
     - form: height
       class: n
@@ -3192,7 +3206,7 @@ data:
     - {form: huntsman, class: n, field: Ordinary speech, gloss: a man who hunts}
     - {form: huzza, class: call, field: Ordinary speech, gloss: a shout of celebration}
     - {form: into, class: part, field: Ordinary speech, gloss: from outside to the inside of}
-    - {form: judge, class: n, field: Ordinary speech, gloss: a person who gives judgment}
+    - {form: jòj, class: n, field: Ordinary speech, gloss: a person who gives judgment}
     - form: jug
       class: n
       field: Ordinary speech
@@ -3203,11 +3217,11 @@ data:
       gloss: retain; guard or tend
       variants: [keepen, keepeth, kept]
     - {form: kindle, class: v, field: Ordinary speech, gloss: set alight, variants: [kindlest]}
-    - form: king
+    - form: kìng
       class: n
       field: Ordinary speech
       gloss: a male monarch
-      variants: [kinges, kings]
+      variants: [kìnges, kìngs]
     - {form: knight, class: n, field: Ordinary speech, gloss: a mounted warrior of noble rank}
     - form: lak
       class: v
@@ -3226,14 +3240,14 @@ data:
       gloss: make the sounds of amusement
       variants: [laughed]
     - {form: lawful, class: adj, field: Ordinary speech, gloss: permitted by law}
-    - form: lai
+    - form: lei
       class: v
       field: Ordinary speech
       gloss: put or set something down
-      variants: [laid, laying]
+      variants: [leid, leiìng]
     - {form: let, class: v, field: Ordinary speech, gloss: allow or permit}
     - {form: lisense, class: n, field: Ordinary speech, gloss: permission or freedom to act}
-    - form: line
+    - form: lain
       class: n
       field: Ordinary speech
       gloss:
@@ -3259,7 +3273,7 @@ data:
       gloss: a landed estate and its principal house
     - {form: march, class: n, field: Ordinary speech, gloss: a border district}
     - {form: mare, class: n, field: Ordinary speech, gloss: an adult female horse}
-    - {form: mean, class: v, field: Ordinary speech, gloss: signify or intend}
+    - {form: miin, class: v, field: Ordinary speech, gloss: signify or intend}
     - {form: meat, class: n, field: Ordinary speech, gloss: animal flesh used as food}
     - {form: middle, class: n, field: Ordinary speech, gloss: the central part}
     - form: midwinter
@@ -3327,12 +3341,12 @@ data:
       field: Ordinary speech
       gloss: a track made for walking
       variants: [paths]
-    - form: pai
+    - form: pei
       class: v
       field: Ordinary speech
       gloss: give money or another thing owed
-      variants: [paid]
-    - form: paiment
+      variants: [peid]
+    - form: peiment
       class: n
       field: Ordinary speech
       gloss: money or goods given to discharge a debt
@@ -3342,12 +3356,12 @@ data:
       class: n
       field: Ordinary speech
       gloss: an ailment of fowl; a comic name for a minor sickness
-    - {form: plai, class: n, field: Ordinary speech, gloss: a dramatic performance}
-    - form: player
+    - {form: plei, class: n, field: Ordinary speech, gloss: a dramatic performance}
+    - form: pleier
       class: n
       field: Ordinary speech
       gloss: a performer or participant in a game
-      variants: [players]
+      variants: [pleiers]
     - {form: plough, class: n, field: Ordinary speech, gloss: a tool for turning the earth}
     - {form: poor, class: adj, field: Ordinary speech, gloss: having little wealth; deserving pity}
     - {form: portion, class: n, field: Ordinary speech, gloss: a person's share}
@@ -3452,13 +3466,13 @@ data:
       class: n
       field: Ordinary speech
       gloss: an act held to offend divine or moral law
-    - form: sing
+    - form: sìng
       class: v
       field: Ordinary speech
       gloss: make music with the voice
-      variants: [sang, singen, singeth, singing, sung]
+      variants: [sang, sìngen, sìngeth, sìngìng, sung]
     - {form: sir, class: n, field: Ordinary speech, gloss: a courteous title for one man}
-    - {form: slai, class: v, field: Ordinary speech, gloss: kill, variants: [slain, slew]}
+    - {form: slei, class: v, field: Ordinary speech, gloss: kill, variants: [slein, slew]}
     - {form: sleet, class: n, field: Ordinary speech, gloss: rain mixed with ice or snow}
     - {form: softli, class: adv, field: Ordinary speech, gloss: quietly or gently}
     - form: Solden
@@ -3476,7 +3490,7 @@ data:
       field: Ordinary speech
       gloss: the season following winter; a source of water
     - {form: stake, class: n, field: Ordinary speech, gloss: a pointed post driven into the ground}
-    - {form: stai, class: v, field: Ordinary speech, gloss: remain in a place, variants: [stayed]}
+    - {form: stei, class: v, field: Ordinary speech, gloss: remain in a place, variants: [steid]}
     - form: steading
       class: n
       field: Ordinary speech
@@ -3501,7 +3515,7 @@ data:
     - {form: straight, class: adj, field: Ordinary speech, gloss: without bends}
     - {form: strange, class: adj, field: Ordinary speech, gloss: unfamiliar or unusual}
     - {form: straw, class: n, field: Ordinary speech, gloss: the dried stalks of cereal plants}
-    - {form: strai, class: v, field: Ordinary speech, gloss: wander from a course or company}
+    - {form: strei, class: v, field: Ordinary speech, gloss: wander from a course or company}
     - {form: street, class: n, field: Ordinary speech, gloss: a road within a settlement}
     - form: strip
       class: n
@@ -3536,11 +3550,11 @@ data:
       field: Ordinary speech
       gloss: belonging to the people or things referred to
     - {form: thereon, class: adv, field: Ordinary speech, gloss: on that place or thing}
-    - form: thikke
+    - form: thìk
       class: adj
       field: Ordinary speech
       gloss: dense; broad from one surface to another
-    - {form: thin, class: adj, field: Ordinary speech, gloss: narrow from one surface to another}
+    - {form: thìn, class: adj, field: Ordinary speech, gloss: narrow from one surface to another}
     - form: thorn
       class: n
       field: Ordinary speech
@@ -3553,7 +3567,7 @@ data:
       gloss: wood prepared or suitable for building
     - {form: together, class: adv, field: Ordinary speech, gloss: with one another or in one place}
     - {form: toll, class: n, field: Ordinary speech, gloss: a charge paid for passage}
-    - {form: tonight, class: adv, field: Ordinary speech, gloss: during this night}
+    - {form: tònáit, class: adv, field: Ordinary speech, gloss: during this night}
     - form: town
       class: n
       field: Ordinary speech
@@ -3597,11 +3611,11 @@ data:
       class: v
       field: Ordinary speech
       gloss: drink to the health of someone or something
-    - form: wai
+    - form: wei
       class: n
       field: Ordinary speech
       gloss: a route or manner of doing something
-      variants: [wais]
+      variants: [weiz]
     - form: wear
       class: v
       field: Ordinary speech
@@ -3639,11 +3653,11 @@ data:
       field: Ordinary speech
       gloss: a unit of speech; a promise
       variants: [words]
-    - form: write
+    - form: rait
       class: v
       field: Ordinary speech
       gloss: mark words or letters on a surface
-      variants: [writeth, wrote]
+      variants: [raiteth, wrote]
     - {form: yew, class: n, field: Ordinary speech, gloss: a dark evergreen tree}
     - {form: yonder, class: adv, field: Ordinary speech, gloss: "over there, at some distance"}
     - form: get
@@ -3657,11 +3671,11 @@ data:
       gloss: the placing of a dead person in the earth
     - {form: forester, class: n, field: Ordinary speech, gloss: an officer or keeper of a forest}
     - {form: inside, class: part, field: Ordinary speech, gloss: within the boundary of}
-    - form: singer
+    - form: sìnger
       class: n
       field: Ordinary speech
       gloss: a person who sings
-      variants: [singers]
+      variants: [sìngers]
     - {form: verse, class: n, field: Ordinary speech, gloss: a stanza or a passage of poetry}
     - {form: village, class: n, field: Ordinary speech, gloss: a small settlement}
     - form: Harmund
@@ -3713,10 +3727,10 @@ data:
       gloss: the surface of the earth; a place set apart for a purpose
     - {form: a pale, class: n, field: Ordinary speech, gloss: a fence or enclosure}
     - {form: a well, class: n, field: Ordinary speech, gloss: a deep source of water}
-    - {form: the light, class: n, field: Ordinary speech, gloss: illumination or its source}
+    - {form: the lait, class: n, field: Ordinary speech, gloss: illumination or its source}
     - {form: safe and sound, class: adj, field: Ordinary speech, gloss: healthy and unharmed}
     - {form: straight ahead, class: adv, field: Ordinary speech, gloss: directly along a course}
-    - form: do it klean
+    - form: duu it kliin
       class: v
       field: Ordinary speech
       gloss: perform a task neatly or thoroughly
@@ -3731,13 +3745,13 @@ data:
       field: Ordinary speech
       gloss: remove trees or obstacles from
       variants: [kleared]
-    - {form: to light, class: v, field: Ordinary speech, gloss: set alight, variants: [lit]}
+    - {form: to lait, class: v, field: Ordinary speech, gloss: set alight, variants: [lit]}
     - {form: to like, class: v, field: Ordinary speech, gloss: take pleasure in, variants: [liken]}
     - form: to lie
       class: v
       field: Ordinary speech
       gloss: recline or rest horizontally
-      variants: [lien, lieth, lai]
+      variants: [lien, lieth, lei]
     - {form: to bark, class: v, field: Ordinary speech, gloss: make the sharp cry of a dog}
     - form: to boast
       class: v
@@ -3757,11 +3771,11 @@ data:
       field: Ordinary speech
       gloss: go by or through
       variants: [passed]
-    - form: to plai
+    - form: to plei
       class: v
       field: Ordinary speech
       gloss: perform a game, music or a dramatic role
-      variants: [playen]
+      variants: [pleien]
     - {form: to step, class: v, field: Ordinary speech, gloss: move by taking a step}
     - form: to trim
       class: v
@@ -3820,11 +3834,11 @@ data:
       gloss: a cone-bearing evergreen tree
       variants: [pines]
     - {form: oer, class: part, field: Place and time, gloss: "over, across or above"}
-    - form: dekree
+    - form: dekríi
       class: v
       field: Kindred and society
       gloss: order with authority
-      variants: [dekreed, dekreeth]
+      variants: [dekríid, dekríith]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -4613,7 +4627,7 @@ data:
     - {form: Winley, instead: Winli, why: a surname ends in li}
     - {form: Wolfley, instead: Wolfli, why: a surname ends in li}
     - {form: brinley, instead: brinli, why: a surname ends in li}
-    - {form: klay, instead: klai, why: closing y is not a spelling}
+    - {form: klay, instead: klei, why: closing y is not a spelling}
     - {form: many, instead: meni, why: y is never a vowel}
     - {form: any man, instead: eni man, why: y is never a vowel}
     - {form: anything, instead: enithing, why: y is never a vowel}
@@ -4694,8 +4708,10 @@ data:
     - {form: tally, instead: talli, why: y is never a vowel}
     - {form: tarry, instead: tarri, why: y is never a vowel}
     - {form: thirsty, instead: thirsti, why: y is never a vowel}
-    - {form: thy, instead: thi, why: y is never a vowel}
-    - {form: thyself, instead: thiself, why: y is never a vowel}
+    - {form: thy, instead: dhai, why: "y is never a vowel; th as in this is dh; the vowel of time"}
+    - form: thyself
+      instead: dhaisélf
+      why: "y is never a vowel; th as in this is dh; the vowel of time"
     - {form: truly, instead: truli, why: y is never a vowel}
     - {form: try, instead: tri, why: y is never a vowel}
     - {form: twenty, instead: twenti, why: y is never a vowel}
@@ -4705,6 +4721,201 @@ data:
     - {form: sky, instead: skai, why: y is never a vowel}
     - {form: wyn, instead: wiin, why: y is never a vowel}
     - {form: hildwin, instead: hildwiin, why: y is never a vowel}
+    - form: konquer
+      instead: kongkòr
+      why: "respelled to Pronouncing Thalorna: the ng of sing and the vowel of cup"
+    - form: skeptik
+      instead: skeptìk
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: offering
+      instead: ófòrìng
+      why: "respelled to Pronouncing Thalorna: the vowels of cup and sit; the stress on the first syllable"
+    - form: sente
+      instead: sent
+      why: "respelled to Pronouncing Thalorna: every letter is sounded, and the e is not final"
+    - form: looking
+      instead: lùkìng
+      why: "respelled to Pronouncing Thalorna: the short i of sit; the short u of put"
+    - form: watcheth
+      instead: wàcheth
+      why: "respelled to Pronouncing Thalorna: the short a of cat"
+    - form: watching
+      instead: wàchìng
+      why: "respelled to Pronouncing Thalorna: the short i of sit; the short a of cat"
+    - form: silense
+      instead: sailòns
+      why: "respelled to Pronouncing Thalorna: the vowel of cup; the vowel of time"
+    - form: going
+      instead: goìng
+      why: "respelled to Pronouncing Thalorna: the vowel of go; oi would read as in boy"
+    - form: knewest
+      instead: knuuest
+      why: "respelled to Pronouncing Thalorna: the held oo of spoon"
+    - form: sitteth
+      instead: sìteth
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: sitting
+      instead: sìtìng
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: thou
+      instead: dhau
+      why: "respelled to Pronouncing Thalorna: th as in this; the vowel of now"
+    - form: thee
+      instead: dhii
+      why: "respelled to Pronouncing Thalorna: th as in this; the held ee of see"
+    - form: thi
+      instead: dhai
+      why: "respelled to Pronouncing Thalorna: th as in this; the vowel of time"
+    - form: thine
+      instead: dhain
+      why: "respelled to Pronouncing Thalorna: th as in this; the vowel of time"
+    - form: thiself
+      instead: dhaisélf
+      why: "respelled to Pronouncing Thalorna: th as in this; the vowel of time; the stress on the second syllable"
+    - form: judge
+      instead: jòj
+      why: "respelled to Pronouncing Thalorna: the vowel of cup; dge is j"
+    - form: singeth
+      instead: sìngeth
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: singing
+      instead: sìngìng
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: writeth
+      instead: raiteth
+      why: "respelled to Pronouncing Thalorna: the vowel of time"
+    - form: todai
+      instead: tòdéi
+      why: "respelled to Pronouncing Thalorna: the vowel of cup; the vowel of day; the stress on the second syllable"
+    - form: dekline
+      instead: dekláin
+      why: "respelled to Pronouncing Thalorna: the vowel of time; the stress on the second syllable"
+    - form: tonight
+      instead: tònáit
+      why: "respelled to Pronouncing Thalorna: the vowel of cup; the vowel of time; the stress on the second syllable"
+    - form: dekree
+      instead: dekríi
+      why: "respelled to Pronouncing Thalorna: the held ee of see; the stress on the second syllable"
+    - form: dekreed
+      instead: dekríid
+      why: "respelled to Pronouncing Thalorna: the held ee of see; the stress on the second syllable"
+    - form: dekreeth
+      instead: dekríith
+      why: "respelled to Pronouncing Thalorna: the held ee of see; the stress on the second syllable"
+    - form: these
+      instead: dhiiz
+      why: "respelled to Pronouncing Thalorna: th as in this; the held ee of see"
+    - form: laying
+      instead: leiìng
+      why: "respelled to Pronouncing Thalorna: the short i of sit; the vowel of day"
+    - form: singers
+      instead: sìngers
+      why: "respelled to Pronouncing Thalorna: the short i of sit"
+    - form: through
+      instead: thruu
+      why: "respelled to Pronouncing Thalorna: the held oo of spoon"
+    - {form: pak, instead: pàk, why: "respelled to Pronouncing Thalorna: the short a of cat"}
+    - {form: see, instead: sii, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: seen, instead: siin, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: look, instead: lùk, why: "respelled to Pronouncing Thalorna: the short u of put"}
+    - {form: looked, instead: lùkt, why: "respelled to Pronouncing Thalorna: the short u of put"}
+    - {form: watch, instead: wàch, why: "respelled to Pronouncing Thalorna: the short a of cat"}
+    - {form: watched, instead: wàcht, why: "respelled to Pronouncing Thalorna: the short a of cat"}
+    - {form: wall, instead: waal, why: "respelled to Pronouncing Thalorna: the held ah of wall"}
+    - {form: spoon, instead: spuun, why: "respelled to Pronouncing Thalorna: the held oo of spoon"}
+    - {form: bird, instead: bùrd, why: "respelled to Pronouncing Thalorna: the short u of put"}
+    - {form: birds, instead: bùrdz, why: "respelled to Pronouncing Thalorna: the short u of put"}
+    - {form: be, instead: bii, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: been, instead: biin, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: make, instead: meik, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: made, instead: meid, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: do, instead: duu, why: "respelled to Pronouncing Thalorna: the held oo of spoon"}
+    - {form: dost, instead: dòst, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: doth, instead: dòth, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: doen, instead: duuen, why: "respelled to Pronouncing Thalorna: the held oo of spoon"}
+    - {form: done, instead: dòn, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: know, instead: kno, why: "respelled to Pronouncing Thalorna: the vowel of go"}
+    - {form: knowest, instead: knoest, why: "respelled to Pronouncing Thalorna: the vowel of go"}
+    - {form: knoweth, instead: knoeth, why: "respelled to Pronouncing Thalorna: the vowel of go"}
+    - {form: knowen, instead: knoen, why: "respelled to Pronouncing Thalorna: the vowel of go"}
+    - {form: known, instead: knon, why: "respelled to Pronouncing Thalorna: the vowel of go"}
+    - {form: knew, instead: knuu, why: "respelled to Pronouncing Thalorna: the held oo of spoon"}
+    - {form: love, instead: lòv, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: lovest, instead: lòvest, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: loveth, instead: lòveth, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: loven, instead: lòven, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: loved, instead: lòvd, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: sit, instead: sìt, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+    - {form: put, instead: pùt, why: "respelled to Pronouncing Thalorna: the short u of put"}
+    - {form: time, instead: taim, why: "respelled to Pronouncing Thalorna: the vowel of time"}
+    - {form: times, instead: taimz, why: "respelled to Pronouncing Thalorna: the vowel of time"}
+    - {form: now, instead: nau, why: "respelled to Pronouncing Thalorna: the vowel of now"}
+    - {form: he, instead: hii, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: she, instead: shii, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: light, instead: lait, why: "respelled to Pronouncing Thalorna: the vowel of time"}
+    - {form: war, instead: waar, why: "respelled to Pronouncing Thalorna: the held ah of wall"}
+    - {form: wars, instead: waarz, why: "respelled to Pronouncing Thalorna: the held ah of wall"}
+    - {form: line, instead: lain, why: "respelled to Pronouncing Thalorna: the vowel of time"}
+    - {form: sing, instead: sìng, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+    - {form: singen, instead: sìngen, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+    - {form: thikke, instead: thìk, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+    - {form: thin, instead: thìn, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+    - {form: write, instead: rait, why: "respelled to Pronouncing Thalorna: the vowel of time"}
+    - {form: dai, instead: dei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: dais, instead: deiz, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: dayes, instead: deiz, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: sai, instead: sei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: saist, instead: seist, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: saith, instead: seith, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: sayen, instead: seien, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: said, instead: sed, why: "respelled to Pronouncing Thalorna: the e of bed"}
+    - {form: mai, instead: mei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: maist, instead: meist, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: pai, instead: pei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: paid, instead: peid, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: wai, instead: wei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: wais, instead: weiz, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: klai, instead: klei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: buy, instead: bai, why: "respelled to Pronouncing Thalorna: the vowel of time"}
+    - {form: hat, instead: hàt, why: "respelled to Pronouncing Thalorna: the short a of cat"}
+    - {form: nai, instead: nei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: lai, instead: lei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: laid, instead: leid, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: slai, instead: slei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: stai, instead: stei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: strai, instead: strei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: plai, instead: plei, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: head, instead: hed, why: "respelled to Pronouncing Thalorna: the e of bed"}
+    - {form: "true", instead: truu, why: "respelled to Pronouncing Thalorna: the held oo of spoon"}
+    - {form: sun, instead: sòn, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: klean, instead: kliin, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: mean, instead: miin, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: me, instead: mii, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: king, instead: kìng, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+    - {form: mine, instead: main, why: "respelled to Pronouncing Thalorna: the vowel of time"}
+    - {form: fine, instead: fain, why: "respelled to Pronouncing Thalorna: the vowel of time"}
+    - {form: hall, instead: haal, why: "respelled to Pronouncing Thalorna: the held ah of wall"}
+    - {form: tree, instead: trii, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: trees, instead: triiz, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: threw, instead: thruu, why: "respelled to Pronouncing Thalorna: the held oo of spoon"}
+    - {form: grew, instead: gruu, why: "respelled to Pronouncing Thalorna: the held oo of spoon"}
+    - {form: too, instead: tuu, why: "respelled to Pronouncing Thalorna: the held oo of spoon"}
+    - {form: knee, instead: knii, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: knees, instead: kniiz, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: freeze, instead: friiz, why: "respelled to Pronouncing Thalorna: the held ee of see"}
+    - {form: kinges, instead: kìnges, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+    - {form: kings, instead: kìngs, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+    - {form: sunes, instead: sònes, why: "respelled to Pronouncing Thalorna: the vowel of cup"}
+    - {form: players, instead: pleiers, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: stayed, instead: steid, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: slain, instead: slein, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: playen, instead: pleien, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: paiment, instead: peiment, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - form: meanest
+      instead: miinest
+      why: "respelled to Pronouncing Thalorna: the held ee of see"
+    - {form: player, instead: pleier, why: "respelled to Pronouncing Thalorna: the vowel of day"}
+    - {form: singer, instead: sìnger, why: "respelled to Pronouncing Thalorna: the short i of sit"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -4770,14 +4981,16 @@ name is recorded once rather than as separate capitalized copies. A word and
 a registered name may share a spelling. If will and Will are both recorded,
 a query returns both without changing their case.
 A consonant group still follows the encoding's lowercase or initial-capital
-rule; an all-uppercase group such as TH in THIKKE remains invalid.
+rule; an all-uppercase group such as TH in THÌK remains invalid.
 
 ### Coined words and names {#coined-pronunciation}
 
 Coined words, names and naming elements follow the guide and the naming
-palette below. Eilwìthi has no _ny_, and no word closes on _ay_, _ey_ or _oy_: _ai_, _ei_
-and _oi_ stand there. English-shaped words such as _meni_ and _kompani_,
-and the element _stoni_, end on _i_.
+palette below. Eilwìthi has no _ny_, and no word closes on _ay_, _ey_ or _oy_, because _y_ is
+a consonant. A closing vowel is written by its sound: _ei_ for the vowel of
+_day_, _ai_ for the vowel of _time_ and _oi_ for the vowel of _boy_.
+English-shaped words such as _meni_ and _kompani_, and the element _stoni_,
+end on _i_.
 
 ### Foreign words and names {#foreign-names}
 
@@ -4835,8 +5048,8 @@ Use the guide for spelling and punctuation in every Eilwìthi passage.
 Direct speech normally identifies its speaker without quotation marks.
 Verse boundaries are structural.
 
-The possessive is -es, added to the full stem without an apostrophe: kinges
-from king, summeres from summer and stonees from stone. A plural stem likewise
+The possessive is -es, added to the full stem without an apostrophe: kìnges
+from kìng, summeres from summer and stonees from stone. A plural stem likewise
 takes -es, as loverses from lovers.
 Other elisions omit the apostrophe: English o'er is Eilwìthi oer, without
 restoring the omitted v. Apostrophes are not Eilwìthi characters.
@@ -4851,34 +5064,34 @@ ordinary English supplies these where neither specifies otherwise.
 #### Address and present verbs {#present-agreement}
 
 Number is mandatory, even in polite or formal address. One person is always
-thou or thee; several are ye or you. Courtesy does not change number.
+dhau or dhii; several are ye or you. Courtesy does not change number.
 
-| Use                    | Singular                                   | Plural     |
-| ---------------------- | ------------------------------------------ | ---------- |
-| Subject                | thou                                       | ye         |
-| Object                 | thee                                       | you        |
-| Possessive determiner  | thi; thine optionally before a vowel sound | your       |
-| Independent possessive | thine                                      | yours      |
-| Reflexive              | thiself                                    | yourselves |
+| Use                    | Singular                                    | Plural     |
+| ---------------------- | ------------------------------------------- | ---------- |
+| Subject                | dhau                                        | ye         |
+| Object                 | dhii                                        | you        |
+| Possessive determiner  | dhai; dhain optionally before a vowel sound | your       |
+| Independent possessive | dhain                                       | yours      |
+| Reflexive              | dhaisélf                                    | yourselves |
 
 An ordinary finite present verb has a bare first singular, -est or -st
-with thou, -eth or -th with he, she or it, and -en with every
+with dhau, -eth or -th with hii, shii or it, and -en with every
 plural subject. Ordinary third singular -s is not an alternative. The table
 gives the regular patterns and the common exceptional forms; its plural column
 applies to we, ye and thei, as well as plural nouns.
 
-| Verb  | I     | Thou     | He / she / it | We / ye / thei |
-| ----- | ----- | -------- | ------------- | -------------- |
-| speak | speak | speakest | speaketh      | speaken        |
-| love  | love  | lovest   | loveth        | loven          |
-| karri | karri | karriest | karrieth      | karryen        |
-| be    | am    | art      | is            | ben            |
-| have  | have  | hast     | hath          | haven          |
-| do    | do    | dost     | doth          | doen           |
-| go    | go    | goest    | goeth         | goen           |
-| kome  | kome  | komest   | kometh        | komen          |
-| know  | know  | knowest  | knoweth       | knowen         |
-| sai   | sai   | saist    | saith         | sayen          |
+| Verb  | I     | Dhau     | Hii / shii / it | We / ye / thei |
+| ----- | ----- | -------- | --------------- | -------------- |
+| speak | speak | speakest | speaketh        | speaken        |
+| lòv   | lòv   | lòvest   | lòveth          | lòven          |
+| karri | karri | karriest | karrieth        | karryen        |
+| bii   | am    | art      | is              | ben            |
+| have  | have  | hast     | hath            | haven          |
+| duu   | duu   | dòst     | dòth            | duuen          |
+| go    | go    | goest    | goeth           | goen           |
+| kome  | kome  | komest   | kometh          | komen          |
+| kno   | kno   | knoest   | knoeth          | knoen          |
+| sei   | sei   | seist    | seith           | seien          |
 
 An explicit form in the table takes precedence over the regular ending
 pattern. A variant listed in the lexicon is an attested form; the grammar
@@ -4886,23 +5099,23 @@ and its context determine its use, rather than the list alone assigning
 a tense or person.
 
 Keep the word recognizable: a final e gives way before these endings,
-as in love, lovest, loveth, loven. With consonant plus y, use -iest
+as in lòv, lòvest, lòveth, lòven. With consonant plus y, use -iest
 and -ieth in the singular, but keep y before plural -en: karriest,
 karrieth, karryen. These are the setting's readable patterns.
 
 Only the finite verb carries present agreement. We haven kome and we haven
-awaited retain their participles; thei will kome and thei mai enter retain
+awaited retain their participles; thei will kome and thei mei enter retain
 bare verbs. Infinitives and commands also stay bare: to speak, Kome hither,
 Enter not, whether one person or several are addressed. Keep recognizable
-past forms such as kame, went, spoke, knew and gave, with familiar
-thou knewest and thou gavest where needed. Past plurals do not acquire
+past forms such as kame, went, spoke, knuu and gave, with familiar
+dhau knuuest and dhau gavest where needed. Past plurals do not acquire
 present -en.
 
 #### Modals, questions and negation {#modals-and-questions}
 
 Modals take no plural -en. Their second singular forms include wilt,
-shalt, kanst, maist, mightst, wouldst, shouldst and oughtest;
-thou must stays must. The other persons use will, shall, kan, mai,
+shalt, kanst, meist, mightst, wouldst, shouldst and oughtest;
+dhau must stays must. The other persons use will, shall, kan, mei,
 might, would, should, ought and must. A following verb is bare,
 with to after ought.
 
@@ -4911,23 +5124,23 @@ with to after ought.
 | shall        | obligation, determination or future action |
 | will         | volition, intention or expectation         |
 | kan / kannot | ability / inability                        |
-| mai          | permission or possibility                  |
+| mei          | permission or possibility                  |
 | might        | possibility or conditional permission      |
 | must         | necessity                                  |
 | ought        | moral obligation                           |
 | would        | conditional action or volition             |
 | should       | expectation or obligation                  |
 
-Thus Thou shalt obey commands, Thou wilt obey expresses will or expected
-action, Thou must obey states necessity, and Thou oughtest to obey states
-moral duty. Thou maist depart grants permission. We kannot abide here
-longer states inability; mai not would change that meaning.
+Thus Dhau shalt obey commands, Dhau wilt obey expresses will or expected
+action, Dhau must obey states necessity, and Dhau oughtest to obey states
+moral duty. Dhau meist depart grants permission. We kannot abide here
+longer states inability; mei not would change that meaning.
 
-Prefer inversion to ask a question: `Knowest thou him.`, `How farest thou.`,
-`Wherefore weepest thou.` and `Understanden thei.` An existing auxiliary inverts
-normally: `Wilt thou kome.`, `Hast thou seen him.` and `Haven ye seen him.`
+Prefer inversion to ask a question: `Knoest dhau him.`, `How farest dhau.`,
+`Wherefore weepest dhau.` and `Understanden thei.` An existing auxiliary inverts
+normally: `Wilt dhau kome.`, `Hast dhau siin him.` and `Haven ye siin him.`
 Use auxiliary do in questions or negatives only when needed to prevent
-ambiguity. Put not after the finite verb: I know not, he understandeth
+ambiguity. Put not after the finite verb: I kno not, hii understandeth
 not, we believen not, thei komen not. Fear not and Enter not are
 negative commands. Use naught for nothing; none, no man, neither and
 nor retain their ordinary distinct uses. Ordinary speech uses not, without
@@ -4936,12 +5149,12 @@ older alternative negative particles or contracted negatives.
 #### Word order and familiar vocabulary {#vocabulary-and-meaning}
 
 Subject, verb, object is the default. Front a phrase for emphasis where it
-reads naturally: Such a thing have I never seen; Long haven we awaited thi
+reads naturally: Such a thing have I never siin; Long haven we awaited dhai
 koming; Weari ben we. An adjective may follow its noun in a familiar title
 or emphatic phrase, such as a knight errant or the forest deep. These
 orders are occasional choices. The fixed impersonals are limited to
-Methinks (it seems to me), Meseems (it appears to me), Me likes (it
-pleases me) and Me lists (I desire or am inclined). Keep these forms intact;
+Methinks (it seems to me), Meseems (it appears to me), Mii likes (it
+pleases me) and Mii lists (I desire or am inclined). Keep these forms intact;
 their embedded clauses still agree: Methinks we haven tarried too long.
 
 Prefer plain familiar words. Abide or bide can mean stay, tarri delay or
@@ -4959,7 +5172,7 @@ there, hense and thense from here and there, whither toward where, and
 whense from where. Where asks location; wherefore asks why. Anon
 means soon, oft often, betwixt between, straightway immediately,
 erewhile previously, erstwhile formerly and till until. Use yea and
-nai for ordinary answers; yes and no remain available to distinguish
+nei for ordinary answers; yes and no remain available to distinguish
 responses to positive and negative questions. Use sertes, verili and
 forsooth sparingly.
 
@@ -4968,16 +5181,16 @@ forsooth sparingly.
 Ordinary conversation stays brief:
 
 ::: {lang=aelw font=serif}
-Whither goest thou.
+Whither goest dhau.
 
 I go unto the market.
 
-Hast thou koin enough.
+Hast dhau koin enough.
 
-Nai but I have wares to sell.
+Nei but I have wares to sell.
 :::
 
-Formal speech can carry more emphasis: Mi lord long haven we awaited thi
+Formal speech can carry more emphasis: Mi lord long haven we awaited dhai
 kounsel. The folk growen weari and the winter draweth nigh. Ceremonial speech
 can add parallelism and repetition: Bi the troth of our fathers and the blood
 of our forebears we binden ourselves unto this oath. Neither sword nor flame
@@ -4992,7 +5205,7 @@ an attribution and the speech; the point does not itself introduce dialogue.
 Write possessives with -es.
 
 ::: {lang=aelw font=serif}
-The knight said I shall return ere night.
+The knight sed I shall return ere night.
 :::
 
 Convey emphasis through word choice, order and inversion, repetition,
@@ -5000,7 +5213,7 @@ parallelism and antithesis. Eilwìthi passages use no bold, italics or underline
 Fronting can give prominence to an object or refusal:
 
 ::: {lang=aelw font=serif}
-Such wikedness have I never seen.
+Such wikedness have I never siin.
 
 Yield I shall not.
 :::
@@ -5008,11 +5221,11 @@ Yield I shall not.
 Repetition and balanced clauses can strengthen a prohibition or a contrast:
 
 ::: {lang=aelw font=serif}
-Thou shalt not enter. Not now nor ever.
+Dhau shalt not enter. Not nau nor ever.
 
-I seek not thi gold but thi oath.
+I seek not dhai gold but dhai oath.
 
-Not for fear do I kneel but for honour.
+Not for fear duu I kneel but for honour.
 :::
 
 Affirmative emphatic do is permitted when the speaker stresses an assertion
@@ -5021,21 +5234,21 @@ Ordinary questions and negatives still prefer inversion and lexical negation,
 with do-support reserved for avoiding ambiguity.
 
 ::: {lang=aelw font=serif}
-I do know thi purpose.
+I duu kno dhai purpose.
 
-I did warn thee.
+I did warn dhii.
 :::
 
 **Worked phrases.** These examples preserve number, tense and the intended
 meaning while applying the same grammar:
 
-| Meaning                                                                            | Eilwìthi                                                                   |
-| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Where are you going? We have been waiting for you since morning. (One addressee.)  | Whither goest thou. We haven been waiting for thee sinse morn.             |
-| Do not enter the forest after dark. Dangerous things live there.                   | Enter not the forest after nightfall. Perilous things dwellen therein.     |
-| I do not believe what you are saying. You have lied to us before. (One addressee.) | I believe not thi words. Thou hast lied unto us ere now.                   |
-| You all know what happened. We cannot stay here any longer.                        | Ye knowen what hath befallen. We kannot abide here longer.                 |
-| The king has ruled that nobody may cross the river until the war ends.             | The king hath dekreed that none mai kross the river till the war is ended. |
+| Meaning                                                                            | Eilwìthi                                                                    |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Where are you going? We have been waiting for you since morning. (One addressee.)  | Whither goest dhau. We haven biin waiting for dhii sinse morn.              |
+| Do not enter the forest after dark. Dangerous things live there.                   | Enter not the forest after nightfall. Perilous things dwellen therein.      |
+| I do not believe what you are saying. You have lied to us before. (One addressee.) | I believe not dhai words. Dhau hast lied unto us ere nau.                   |
+| You all know what happened. We cannot stay here any longer.                        | Ye knoen what hath befallen. We kannot abide here longer.                   |
+| The king has ruled that nobody may cross the river until the war ends.             | The kìng hath dekríid that none mei kross the river till the waar is ended. |
 
 A gate conversation, addressed to several merchants:
 
@@ -5047,7 +5260,7 @@ The gates standen shut. Ye kannot enter till morn.
 
 Then we will bide here. Yet far haven we journeyed and weari ben we.
 
-Ye mai bide but stir no strife. The kaptain will kome at dawn.
+Ye mei bide but stir no strife. The kaptain will kome at dawn.
 
 **Review a passage by meaning first.** Establish person, number and tense;
 choose the pronouns and finite verb; then check questions, negation and word
@@ -5061,11 +5274,11 @@ prose, as do descriptive notes throughout the setting.
 
 A harbor-gate greeting:
 
-> Whither goest thou stranger and what karriest thou in thi pak. The fog lieth heavi on the water and the gate is shut ere dark. Tarri with us this night and we will ask thee naught more.
+> Whither goest dhau stranger and what karriest dhau in dhai pàk. The fog lieth heavi on the water and the gate is shut ere dark. Tarri with us this night and we will ask dhii naught more.
 
 A saying of the manors:
 
-> A word onse given is a stone laid in the wall. pluk it out and the whole house falleth.
+> A word onse given is a stone leid in the waal. pluk it out and the whole house falleth.
 
 : A harvest song {#harvestsong}
 
@@ -5080,7 +5293,7 @@ And name the dead, now fast asleep.
 The wool is shorn the barlei bound/
 The last of summeres gold is ground/
 Fill high the kup and drink it deep/
-And name the dead now fast asleep.
+And name the dead nau fast asleep.
 :::
 
 : A charm said at the crossroads {#crossroadscharm}
@@ -5093,10 +5306,10 @@ Will let the courteous pass by.
 :::
 
 ::: {.verse form=charm lang=aelw enc=aelwsemaronenc work=crossroadscharm}
-Go softli thou that walkest late/
-And leave thine offering at the gate/
-Who watcheth bi the krossing wide/
-Will let the kourteous pass beside.
+Go softli dhau that walkest late/
+And leave dhain ofrìng at the gate/
+Who wàcheth bi the krossing wide/
+Will let the kùrtyòs pass beside.
 :::
 
 _Who_ here means _whoever_.
@@ -5127,7 +5340,7 @@ Names on Eilwìth use the authoritative spellings given in the register. Every n
 
 **A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brinwold]]_ the upland of the hills, _[[place-wyndmarch|The Wiindmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonihaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greiwater]]_ the gray river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
 
-**A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwin_, _Edrun_.
+**A given name is two elements set together,** and a feminine name often closes on _-a_, _-ith_ or _-rith_: _Leofred_, _Harred_, _Aldwald_, _Hildwiin_, _Edrun_.
 
 **A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsli_, _Ashbi_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Greiling_ does.
 
@@ -5157,16 +5370,16 @@ a complete greeting, question, request or response. Numbered senses distinguish
 uses of one expression. _Before_ can refer to space or time, and _then_ can
 name a time or introduce the consequence of a condition.
 
-_Lovers' love_, _love of friends_, _love of kindred_ and _chariti toward all_
+_loverses lòv_, _lòv of friends_, _lòv of kindred_ and _chariti toward all_
 distinguish romantic, friendly, familial and selfless universal love. _Lust_
 names sexual desire. _Truth_ concerns what is so; _assurance_ concerns how
 certain someone feels. _Hurt_ causes pain or injury; _feel pain_ describes the
 sufferer's experience.
 
-Questions are given as usable utterances. _Who art thou._ asks for identity;
-_Whence comest thou._ asks for origin. _Knowest thou him._ asks for a yes or
-no answer. _What meanest thou._ asks for clarification, while _Speak once again_
-asks for repetition. _I pray thee_ introduces a courteous request;
+Questions are given as usable utterances. _Who art dhau._ asks for identity;
+_Whense komest dhau._ asks for origin. _Knoest dhau him._ asks for a yes or
+no answer. _What miinest dhau._ asks for clarification, while _Speak onse again_
+asks for repetition. _I prai dhii_ introduces a courteous request;
 _It is not worth thanks_ answers gratitude.
 
 Ordinal counting continues _fourth_, _fifth_, _sixth_ and onward. It gives

@@ -108,7 +108,7 @@ A century of the Epist√©mion (the Academy of Knowledge) is followed by the [Vil√
 
 ### The Province and the Compact, 312 BF to about 209 AF
 
-Helionis is a province whose cities keep their councils and teach their conquerors; the [Academy of the Silver Veil]{.name data-type="affiliation"} is founded to win by influence what was lost by arms ([[lore-heladsilverveil|The Founding of the Silver Veil]]). In the east the five cities break a steppe host at the springs ([[lore-heladwells|The Battle of the Wells]]) and bind themselves ([[lore-heladcompact|The Compact of the Five]]). It ends when the legions come over the mountains into [[place-byzariargn|Bizaria]] ([[lore-heladeastwar|The Eastern War]]).
+Helionis is a province whose cities keep their councils and teach their conquerors; the [[affiliation-slvrvlacdmy|Academy of the Silver Veil]] is founded to win by influence what was lost by arms ([[lore-heladsilverveil|The Founding of the Silver Veil]]). In the east the five cities break a steppe host at the springs ([[lore-heladwells|The Battle of the Wells]]) and bind themselves ([[lore-heladcompact|The Compact of the Five]]). It ends when the legions come over the mountains into [[place-byzariargn|Bizaria]] ([[lore-heladeastwar|The Eastern War]]).
 
 ### The Imperial Peace, 209 to 511
 

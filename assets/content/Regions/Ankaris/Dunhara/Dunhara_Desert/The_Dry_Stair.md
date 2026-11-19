@@ -3,7 +3,7 @@ shortcode: mezhvadez
 name: {full: The Dry Stair, en: [The Keeper's Vault], dunh: [mezhvadez]}
 type: place
 subType: site
-description: "A tomb-vault of a people older than the tribes, buried under a dune sea and opened by the wind at long intervals, where the keeper of a lost king's household guards what the sand has hidden."
+description: "A tomb-vault of a people older than the tribes, buried under a dune sea and opened by the wind at long intervals, where the keeper of a lost king's household lies among her dead."
 tags: [tomb, ruin, haunted, buried, draft]
 data:
   culture: dunhariclt
@@ -18,7 +18,7 @@ In the deep sand south of the long wells there is a place the tribes name Mezhva
 
 ## What Lies There
 
-The stair descends in broad flights, each landing carved with figures: women in long veils bearing jars and keys, and between them, higher up the wall, men with their faces chiseled away. Below the stair is a vault, wider than any tent, with a roof held on pillars of a stone not found in the [[place-dunharargn|Dunhara]]. Along the walls are alcoves for the dead, each sealed with a slab, and in the middle a raised dais where the keeper lies. The air is dry and sweet and holds no smell of rot. The dead are not rotten, and nothing in the place disturbs them.
+The stair descends in broad flights, each landing carved with figures: women in long veils bearing jars and keys, and between them, higher up the wall, men with their faces chiseled away. Below the stair is a vault, wider than any tent, with a roof held on pillars of a stone not found in the [[place-dunharargn|Dunhara]]. Along the walls are alcoves for the dead, each sealed with a slab, and in the middle a raised dais where the keeper lies. The air is dry and sweet and holds no smell of rot. The dead are not rotten, and the air holds no smell of them.
 
 The vault is a tomb, which marks it as foreign. The Dunhari carry their dead deep into the desert and kindle a fire where the body is set down, so that no tomb stands to be kept and no grave to be robbed. A people who build vaults under the sand are not the people of the tribes, and the poets do not claim them. Their account of the Dunhara begins after Mezhvadez and says nothing of what came before.
 
@@ -32,9 +32,17 @@ The vault is a tomb, which marks it as foreign. The Dunhari carry their dead dee
 
 ## What It Is
 
-Whatever the king's people believed, their dead are held to the world by [[lore-theshadow|the Shadow]], the chaos outside creation from which every undead thing stems. The retainers sealed in the alcoves are **dust-sworn**, bodies dried by the vault's air and kept moving by something that is not breath. They guard. They do not hunt. The keeper at the center of the vault is something more, because she was set there to keep a door, and the door is not a door into the earth.
+The guides who have been down call the retainers sealed in the alcoves **dust-sworn**: bodies they say the vault's air has dried, which move without breath, guard the alcoves and do not follow a stranger past them. The keeper at the center of the vault lies still on her dais, whole and unrotted, and no guide has seen her move.
 
 The [[affiliation-ashanpnthn|Ashaian priests]] of the cities say that the dead of Mezhvadez have taken the [Ghuzdak]{.name data-type="lore/cosmology"} in their mouths and that the bridge is a razor for them. The tribes say nothing and avoid the place.
+
+:::secret {title="What holds the dead"}
+Whatever the king's people believed, their dead are held to the world by [[lore-theshadow|the Shadow]], the chaos outside creation from which every undead thing stems. The dust-sworn are kept moving by it. The keeper at the center of the vault is something more, because she was set there to keep a door, and the door is not a door into the earth.
+:::
+
+## What Is There Now {#present}
+
+The wind has bared the stair this spring, and the dune that covers it stands open on its northern flank. The sand closes it again within a season or a few years, and nobody can say which. Word of the opening reached [[place-qarvelakhend|Qarvelakhend]] before it reached most of the tribes, and the few guides who have seen the stair open are sought out in every market between the long wells and the Amradi road. The tribes of the southern pastures keep their herds farther north than the grazing warrants, because their herders say something walks from the stair toward the pastures at night.
 
 ## Who Wants It
 

@@ -61,3 +61,6 @@ A stranger may come in and listen to any hearing, and a stranger who has a dispu
 
 [[scenario-kalipsahulls|The Third Night and the Spring Count]]
 : a scenario: three lost hulls, a disputed pilot roster and a census before the Sea-Law Hall
+
+[[scenario-sprngsttng|The Spring Sitting of 720]]
+: a scenario set here

@@ -77,6 +77,20 @@ finished: [tarvenia, elavendre, provenzia]
 # selects on frontmatter `data` keys, and `match.subType` may be a list. A
 # `profile` is a number, or a list of numbers, from the plan's adopted profiles.
 closing: [truth, glossary]
+
+# Scenario and place pairs, written `<scenario shortcode> <place shortcode>`,
+# whose place's See Also does not yet link the scenario. The `scenario-backlink`
+# rule skips exactly these pairs; an entry goes when the link is added.
+deferredBacklinks:
+    - kprdrystr mezhvadez
+    - kprdrystr dunhardsrtrgn
+    - nrctdvzhmvd vzhmvd
+    - nrctdvzhmvd dunhardsrtrgn
+    - sprngbfrbnnr amradadrgn
+    - sprngbfrbnnr valmakhend
+    - sprngbfrbnnr tahrodan
+    - irncrwnstrm twrlghtnmrkd
+    - irncrwnstrm dunhardsrtrgn
 slotLevel: 2
 
 kinds:

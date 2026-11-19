@@ -399,7 +399,7 @@ Bulelon Hadrikes is a 41-year-old man who stands 5'7" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Bulelon Hadrikes is a scholar of [[place-theradon2|Theradon]], the philosophers' city of [[place-helionis|Helionis]], a [[lore-helioniteclt|Helionite]] of an old house who lectures at the city's [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) chapterhouse on the history of [[lore-helionscnq|the Vilérian conquest]] and digs for what the record left out.
+Bulelon Hadrikes is a scholar of [[place-theradon2|Theradon]], the philosophers' town of [[place-helionis|Helionis]], a [[lore-helioniteclt|Helionite]] of an old house who lectures at Theradon's [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) chapterhouse on the history of [[lore-helionscnq|the Vilérian conquest]] and digs for what the record left out.
 
 Bulelon comes of a house that has sat in the assembly of Theradon for six generations, and the assembly's oligarchs hold that a Theradon citizen's duty is to know more than anyone else. He took the duty literally. He has spent twenty-five years on the Helionite city-states before and during the conquest, reading in the chapterhouse's library, which holds texts older than the empire, and traveling to the old battlefields and the ruins of the mage-warlords' seats to find what nobody has read. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. It stops, he has found, at the same place every time: [[lore-ridersdisb|The Lease Refused]] (the disbanding of the [Dragon Riders]{.name data-type="affiliation"}), of which the [Vilérian Republic]{.name data-type="affiliation/polity"}'s histories say nothing honest and the chapterhouse's oldest fragments say something. He has no idea how much of what he says in a lecture hall is heard outside it.
 
@@ -419,13 +419,13 @@ Deeply learned, a clear speaker, a fine reader of old texts.
 
 ## Social
 
-Bulelon holds a lectureship at the Epistémion chapterhouse of Theradon and a seat in the city's assembly by his house's right, which he attends when reminded.
+Bulelon holds a lectureship at the Epistémion chapterhouse of Theradon and a seat in Theradon's assembly by his house's right, which he attends when reminded.
 
 ## Companions
 
 ### Patrons
 
-Bulelon's patrons are the oligarchs of the Theradon assembly, who fund the chapterhouse's library and count his lectures among the city's ornaments.
+Bulelon's patrons are the oligarchs of the Theradon assembly, who fund the chapterhouse's library and count his lectures among the town's ornaments.
 
 ### Enemies
 

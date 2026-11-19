@@ -152,3 +152,6 @@ A silver casket sent up for the council is overdue, and its envoy with it. The L
 
 [[scenario-smmrpsttrln|The Summer Past the Tree Line]]
 : a scenario set here
+
+[[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]
+: a scenario set here

@@ -80,6 +80,15 @@ Khamisar is a navy's island waiting for its festival with a quarrel on its south
 [[place-tamzirshoals|Tamzir Shoals]]
 : the shoals off the western shore
 
+[[scenario-clsdroll|The Closed Roll]]
+: a scenario set here
+
+[[scenario-lstbtnrrws|The Last Boat Through the Narrows]]
+: a scenario set here
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: a scenario set here
+
 # The Truth of the South Slope {#truth .secret}
 
 **The plots were surveyed.** In the second year of the war, when Yamuzel needed men for the fleet, its admirals had the south slope surveyed into plots and promised one to every man who served through the war. A surveyor of the Strait Fortress set the stones, and the plots were entered by number in a survey book with a list of the men who signed for them. The stones were never painted then; the veterans painted them this year, to make them easy to see.

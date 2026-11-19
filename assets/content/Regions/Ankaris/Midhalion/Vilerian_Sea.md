@@ -20,6 +20,7 @@ data:
     - {to: tarvenirgn, bearing: N}
     - {to: leonrik, bearing: N}
     - {to: galvaren, bearing: N}
+    - {to: helionis, bearing: NE}
   population: null
   packFolder: midhalion
 

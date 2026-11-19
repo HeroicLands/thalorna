@@ -70,3 +70,9 @@ Thieves work the camp, and the moot's law is severe: a man caught stealing a cam
 
 [[lore-celestialroad|The Celestial Road]]
 : the caravan road to Tantsou
+
+[[scenario-sltnthmth|Salt in the Mouth]]
+: a scenario set here
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here

@@ -39,3 +39,4 @@ The upper road is a shelf cut in rock above a gorge that no one has ever measure
 
 - [[place-kalashkhr|Kalashikhar]] · [[place-sangrafort|the Sangra-fort]] · [[place-estrnreach|the Eastern Reach]]
 - [[affiliation-hvarnguides|The Hvarn]] · [[affiliation-janpdsvdyr|Janpodas of Vedyara]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]

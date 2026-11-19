@@ -530,7 +530,7 @@ Mercenary Lord [[being-ruzhvelissap|Ruzhvelis Sapipidek]]
 : A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
 
 The corrupt [House of Magistrates]{.name data-type="affiliation/governmental"}
-: City officials who profit from allowing crime to flourish. They view Fileze as a threat to their comfortable arrangements.
+: Town officials who profit from allowing crime to flourish. They view Fileze as a threat to their comfortable arrangements.
 
 ### Affiliations
 

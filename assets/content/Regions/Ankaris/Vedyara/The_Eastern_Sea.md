@@ -57,3 +57,6 @@ What the deck gives, it gives only afloat. A sailor who takes his pay and stays 
 
 [[place-jenchairgn|Jenchai Region]]
 : the eastern archipelago
+
+[[scenario-seasonbar|The Season Over the Bar]]
+: a scenario set here

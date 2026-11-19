@@ -91,3 +91,6 @@ Geography sets Salkalon's pattern: two great cities and a working coast of fishi
 
 [[place-mercavia|Delalara]]
 : the provincial capital
+
+[[scenario-hllsndrfrtrs|The Hulls Under the Fortress]]
+: a scenario set here

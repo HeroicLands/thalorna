@@ -141,6 +141,15 @@ test("site workflow builds secret-free pages and delegates only internal artifac
     assert.ok(!JSON.stringify(build).includes("secrets."));
     assert.ok(build.steps.some((step) => step.run?.includes('site build --root "$BUILD_ROOT"')));
     assert.ok(build.steps.some((step) => step.run?.includes("git merge-base --is-ancestor")));
+    const siteBuild = build.steps.find((step) =>
+        step.run?.includes('site build --root "$BUILD_ROOT"'),
+    );
+    assert.match(siteBuild.env.NODE_OPTIONS, /(^|\s)--max-old-space-size=\d+(\s|$)/);
+    assert.equal(
+        Number(/--max-old-space-size=(\d+)/.exec(siteBuild.env.NODE_OPTIONS)[1]),
+        6144,
+        "raising the heap limit needs aggregate runner memory evidence; see docs/publishing.md",
+    );
     const trusted = build.steps.find((step) => step.with?.repository === "HeroicLands/.github");
     assert.equal(trusted.with.ref, SHARED);
     assert.equal(trusted.with["github-server-url"], "https://git.pupluppy.org");

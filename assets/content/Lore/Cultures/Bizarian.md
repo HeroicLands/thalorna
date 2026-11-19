@@ -49,9 +49,9 @@ Apprenticeship is long and is understood as a kind of adoption. A master owes hi
 
 ## Two Bizarias
 
-The coast and the caravan cities are a deep mixture—Helonik, [[lore-taruzelianclt|Taruzeli]], Khazrin and [[lore-vylarianclt|Vilérian]] families intermarried for generations, with [[lore-dunhariclt|Dunhari]] and Khazrini merchant quarters that keep their own tongues, faiths and law and are left to do it.
+The coast and the caravan towns are a deep mixture—Helonik, [[lore-taruzelianclt|Taruzeli]], Khazrin and [[lore-vylarianclt|Vilérian]] families intermarried for generations, with [[lore-dunhariclt|Dunhari]] and Khazrini merchant quarters that keep their own tongues, faiths and law and are left to do it.
 
-The plateau is another country: herding clans and farming villages, more homogeneous and considerably more conservative, speaking with an upland accent and regarding the coastal cities as foreigners who happen to buy their wool. The plateau feeds and clothes the coast and resents it; the coast pays the plateau and patronizes it. Neither can do without the other, and both say so only when drunk.
+The plateau is another country: herding clans and farming villages, more homogeneous and considerably more conservative, speaking with an upland accent and regarding the coastal towns and cities as foreigners who happen to buy their wool. The plateau feeds and clothes the coast and resents it; the coast pays the plateau and patronizes it. Neither can do without the other, and both say so only when drunk.
 
 ## The Terms Come First
 

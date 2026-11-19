@@ -95,6 +95,9 @@ Yamuzel's yards built the fleet that won the war of independence. The legions' a
 [[place-zupumun|Zupumun]]
 : the narrows and the channels
 
+[[scenario-hllsndrfrtrs|The Hulls Under the Fortress]]
+: a scenario set here
+
 # The Truth of Yamuzel {#truth .secret}
 
 **The quarter shelters the outlaws.** The captains the guilds outlawed after the war have friends in every hall of the Veterans' Quarter, and a Free Captain who needs a new crew, a surgeon or a week ashore comes in at night by boat to the rocks below the slope and climbs to the halls by a goat path the marines know of. The marine patrols do not climb it. Their sergeants grew up in the quarter, some of their fathers sailed with the outlawed captains, and the Commander of the Marines has never asked why the path has no post. The captain of [[affiliation-thetamzir|the Tamzir]] has more friends in the quarter than anywhere else in Taruzel, and his enemies on the height know it.

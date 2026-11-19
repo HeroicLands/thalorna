@@ -54,3 +54,6 @@ The temple's senior priest is one of the three who sit as [The Council of Three]
 
 [[affiliation-triyangasampradeya|Triyanga-sampradeya]]
 : the sect that keeps it
+
+[[scenario-lastmelka|The Last Melka of Mahaprasoda]]
+: a scenario set here

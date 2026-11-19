@@ -34,3 +34,5 @@ The Gorges' forges are the best in the highlands and among the strangest in [[pl
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-tamradvar|Tamradvar]] · [[place-shikhalayaland|Shikhalaya]]
 - [[affiliation-mrchntclctvvdyr|Merchant Collective of Vedyara]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]
+- [[scenario-wrappedwrist|The Wrapped Wrist]]

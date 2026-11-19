@@ -80,3 +80,6 @@ Hendrel lies on the Coast Road, five days from Sarmelis, and the road is easy: d
 
 [[affiliation-beaconfamlys|The Beacon Families]]
 : the families that keep the lamps
+
+[[scenario-tlldskfrd|The Toll You Will Not Miss]]
+: a scenario set here

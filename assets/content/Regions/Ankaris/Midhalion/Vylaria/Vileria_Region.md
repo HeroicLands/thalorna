@@ -15,6 +15,7 @@ data:
     - {to: vandstein, bearing: NW}
     - {to: tarvenirgn, bearing: W}
     - {to: heladrgn, bearing: E}
+    - {to: helionis, bearing: E}
     - {to: vylarianse, bearing: S}
   population: 24000000
   packFolder: vylaria

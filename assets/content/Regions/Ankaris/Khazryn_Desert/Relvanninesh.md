@@ -81,3 +81,6 @@ The palace stands on a hill in open ground. There is no shade and no water withi
 
 [[affiliation-tribestrzd|Tribes of Atarzád]]
 : the conquerors who found the household at table
+
+[[scenario-glassprincetbl|Twelve at the Glass Table]]
+: a scenario set here

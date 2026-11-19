@@ -51,3 +51,9 @@ A ship's master does not ask to see a wrist. The crews are made up in the lodgin
 
 [[affiliation-chendrapur|Chendrapur]]
 : whose galleys carry the bales
+
+[[scenario-seasonbar|The Season Over the Bar]]
+: a scenario set here
+
+[[scenario-wrappedwrist|The Wrapped Wrist]]
+: a scenario set here

@@ -94,3 +94,6 @@ The wash is a two-hour walk from the east gate over open gravel, no cover and no
 
 [[lore-turemrecital|The Recitation of the Breaking]]
 : the names the Tellumi say in place of reading them
+
+[[scenario-trenchprinces|Masks in the Dry Wash]]
+: a scenario set here

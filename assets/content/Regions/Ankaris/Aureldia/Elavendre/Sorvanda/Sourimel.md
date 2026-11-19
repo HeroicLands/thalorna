@@ -50,3 +50,4 @@ Sóurimel keeps the birch law beside [[place-aelirosse|Aelirosse]] and the [[lor
 ## See Also {#see-also}
 
 - [[place-silvrfrsts|The Silver Forests]] · [[place-sorvanda|Sórvanda]] · [[place-urontekhi|the Uron Tekhi]]
+- [[scenario-pggdmnbrchrng|Eight Birches Wound in Silver]]

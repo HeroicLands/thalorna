@@ -108,6 +108,9 @@ Inside the wall, the [Bronze Bushel]{.name data-type="place/structure"} on the f
 [[place-granaria|Kelborara]]
 : the grain-market of central Hilen, on the road past the legion's camp
 
+[[scenario-rtbfrwddng|The Rite Before the Wedding]]
+: a scenario set here
+
 # The Truth of Aravantara {#truth .secret}
 
 The houses have sworn to close the Yards. Two springs ago, with the reigning Orzas old and the succession in doubt, the masters of the great houses of Hilen met by night at the Speakers' Stone, one from each house, and swore before the _zalvos_ of the province and the image of the Orzas in the provincial temple that when he dies, no grain of Hilen is to be weighed at Aravantara for any claimant who brings a legion inside the capital's boundary. The Yards are to close, the wagons to stand in the road, and the granaries to stay shut until [[affiliation-seldan|Seldan]] (the Senate) and the legions have both accepted one Orzas. It is the province's horror of civil war written into an oath, and the masters call it the Compact of the Stone.

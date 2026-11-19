@@ -10,13 +10,15 @@ import { CONTENT_DIR, notePath } from "./note-index.mjs";
 
 test("approved respelling is deterministic and preserves case and ch/qu", () => {
     for (const [before, after] of [
-        ["silence", "silense"],
+        ["silence", "sailòns"],
         ["scent", "sent"],
         ["science", "siense"],
-        ["pack", "pak"],
+        ["pack", "pàk"],
         ["pluck", "pluk"],
         ["cold", "kold"],
         ["exact", "eksakt"],
+        ["exist", "egzist"],
+        ["box", "boks"],
         ["Xen", "Zen"],
         ["xen", "zen"],
         ["Blackkiln", "Blakkiln"],
@@ -27,7 +29,7 @@ test("approved respelling is deterministic and preserves case and ch/qu", () => 
         ["EXACT", "EKSAKT"],
     ])
         assert.equal(respellWord(before), after, before);
-    assert.equal(respellText("Exact scent; silence, pack!"), "Eksakt sent; silense, pak!");
+    assert.equal(respellText("Exact scent; silence, pack!"), "Eksakt sent; sailòns, pàk!");
     assert.equal(
         respellText(respellText("scenic, exact, quench")),
         respellText("scenic, exact, quench"),
@@ -41,9 +43,9 @@ test("tagged edits preserve English prose, attributes and link addresses", () =>
     assert.deepEqual(
         edits.map(({ form, replacement }) => [form, replacement]),
         [
-            ["pack", "pak"],
+            ["pack", "pàk"],
             ["scent", "sent"],
-            ["Pack", "Pak"],
+            ["Pack", "Pàk"],
             ["pluck", "pluk"],
         ],
     );
@@ -52,20 +54,20 @@ test("tagged edits preserve English prose, attributes and link addresses", () =>
         changed = changed.slice(0, edit.from) + edit.replacement + changed.slice(edit.to);
     assert(changed.startsWith("English pack [pack]{lang=en}"));
     assert(changed.includes("[cold]{lang=en}"));
-    assert(changed.includes("[[place-pack|Pak]]{lang=aelw}"));
+    assert(changed.includes("[[place-pack|Pàk]]{lang=aelw}"));
     assert(changed.includes("(/English-cold/)"));
     assert(changed.includes("font=serif"));
 });
 
 test("the owner's whole-word sceptic exception preserves every letter's case", () => {
     for (const [before, after] of [
-        ["sceptic", "skeptik"],
-        ["Sceptic", "Skeptik"],
-        ["SCEPTIC", "SKEPTIK"],
-        ["sCePtIc", "sKePtIk"],
+        ["sceptic", "skeptìk"],
+        ["Sceptic", "Skeptìk"],
+        ["SCEPTIC", "SKEPTÌK"],
+        ["sCePtIc", "sKePtÌk"],
     ])
         assert.equal(respellWord(before), after);
-    assert.equal(respellWord("sceptical"), "septikal");
+    assert.equal(respellWord("sceptical"), "skeptikal");
 });
 
 test("encoding-only spans and fences select Aelwythi without changing other languages", () => {
@@ -95,11 +97,11 @@ test("encoding-only spans and fences select Aelwythi without changing other lang
     assert.deepEqual(
         edits.map(({ form, replacement }) => [form, replacement]),
         [
-            ["sceptic", "skeptik"],
-            ["Pack", "Pak"],
-            ["Pack", "Pak"],
+            ["sceptic", "skeptìk"],
+            ["Pack", "Pàk"],
+            ["Pack", "Pàk"],
             ["pluck", "pluk"],
-            ["pack", "pak"],
+            ["pack", "pàk"],
             ["exact", "eksakt"],
         ],
     );

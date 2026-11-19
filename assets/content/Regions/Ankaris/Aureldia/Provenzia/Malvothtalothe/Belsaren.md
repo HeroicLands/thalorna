@@ -58,3 +58,12 @@ The quarrel between the two lords serves a third. Kilan Ilovrel wants Belsaren's
 
 [[place-ilovren|Ilovren]]
 : the neighboring lordship whose lord wants it
+
+[[scenario-caveoutlin|Cave Outline]]
+: a scenario set here
+
+[[scenario-firsbldhls|The Fires of the Blood Hills]]
+: a scenario set here
+
+[[scenario-webdeceit|The Web of Deceit]]
+: a scenario set here

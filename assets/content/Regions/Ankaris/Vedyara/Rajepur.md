@@ -40,3 +40,6 @@ There is no garrison and no armory. The janpoda has kept no soldiers since the d
 
 [[place-rajepurjnpd|Rajepur Janpoda]]
 : the land
+
+[[scenario-lastmelka|The Last Melka of Mahaprasoda]]
+: a scenario set here

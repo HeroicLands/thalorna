@@ -91,3 +91,6 @@ The three towns of the road hold most of what is not herding. The rest of the la
 [[place-ludrapur|Ludrapur]]
 
 [[place-svapnastambha|Svapnastambha]]
+
+[[scenario-sweetwellmadu|A Cup Before Questions]]
+: a scenario set here

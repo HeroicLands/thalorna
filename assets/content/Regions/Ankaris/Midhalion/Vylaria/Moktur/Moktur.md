@@ -94,3 +94,6 @@ Moktur's settlements are few, fortified, and strung along the mountain valleys a
 
 [[place-tyrellan|Tirellan]]
 : the provincial capital
+
+[[scenario-lttrnbdypnd|The Letter Nobody Opened]]
+: a scenario set here

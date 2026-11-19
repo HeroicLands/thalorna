@@ -42,3 +42,4 @@ The [[place-shunydvar|Shunyadvar]] stands on the col, and every Osket crossing w
 
 - [[place-meghadvar|Meghadvar]] · [[place-suryadvar|Suryadvar]] · [[place-shunydvar|Shunyadvar]]
 - [[affiliation-osketguides|The Osket]] · [[place-sthrnwall|the Southern Wall]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]

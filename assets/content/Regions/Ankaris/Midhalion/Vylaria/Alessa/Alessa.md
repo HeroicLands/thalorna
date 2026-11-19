@@ -107,3 +107,6 @@ Alessa is the most densely settled of the provinces. A carter can leave one town
 
 [[place-alyssar|Alessar]]
 : the provincial capital
+
+[[scenario-rdtsrks|The Road to Soraks]]
+: a scenario set here

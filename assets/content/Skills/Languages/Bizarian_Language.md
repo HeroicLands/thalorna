@@ -3370,19 +3370,28 @@ data:
   register:
     - {name: Agórankar, tongue: byzarian}
     - {name: Argirteikhos, tongue: byzarian}
+    - {name: Bruzash, tongue: byzarian}
     - {name: Dezhbalara, tongue: byzarian}
     - {name: Ghéranides, tongue: byzarian}
+    - {name: Halzikos, tongue: byzarian}
     - {name: Karvashion, tongue: byzarian}
     - {name: Kezvunash, tongue: byzarian}
+    - {name: Krenel, tongue: byzarian}
     - {name: Kreniza, tongue: byzarian}
     - {name: Krusteikhos, tongue: byzarian}
     - {name: Marendas, tongue: byzarian}
     - {name: Nesthiros, tongue: byzarian}
     - {name: Nevarash, tongue: byzarian}
+    - {name: Oinelena, tongue: byzarian}
+    - {name: Parzhenar, tongue: byzarian}
     - {name: Ruzhveleze, tongue: byzarian}
+    - {name: Siderash, tongue: byzarian}
     - {name: Strátimos, tongue: byzarian}
     - {name: Tchirnalash, tongue: byzarian}
     - {name: Teíkhazur, tongue: byzarian}
+    - {name: Tolzur, tongue: byzarian}
+    - {name: Vezhrelion, tongue: byzarian}
+    - {name: Zalvarion, tongue: byzarian}
     - {name: Zavan, tongue: byzarian}
     - {name: Zighahr, tongue: byzarian}
     - {name: Ánevazur, tongue: byzarian}

@@ -68,3 +68,6 @@ The watch is two thousand men and is commanded by a graduate of the [[affiliatio
 
 [[affiliation-dnrktjnpd|Danurkot Janpoda]]
 : where the watch commander is found
+
+[[scenario-wrappedwrist|The Wrapped Wrist]]
+: a scenario set here

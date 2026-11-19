@@ -94,6 +94,9 @@ The best of the inns is the [Two Seals]{.name data-type="place/structure"}, wher
 [[place-corvinus|Korvenara]]
 : the camp of the province's legion
 
+[[scenario-rdtsrks|The Road to Soraks]]
+: a scenario set here
+
 # The Truth of Alessar {#truth .secret}
 
 The _therkos_ has not sealed an act himself since the spring. Kaldremas Elthezis is failing in his villa at Vennara, clear in his mind on some days and lost on most, and his seal-ring is in Alessar, in the keeping of Nethoren, who seals the province's business with it and reads the acts from the steps as though they came down the Vennara road. Nethoren is careful and, by his own lights, honest: he seals what the _therkos_ would have sealed, and he refuses the bribes he is offered for anything else. He keeps a ledger of every act in his own hand, against the day he must answer for them.

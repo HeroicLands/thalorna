@@ -9,8 +9,8 @@ data:
   demonym: null
   lore: []
   parents: [byzariargn]
-  population: 80000
-  market: international
+  population: 15000
+  market: regional
   type: city
   government: khryshteikhos
   notes: "The Golden Fortress, wealthiest city of the Bizarian League, where eastern goods are banked and the League council meets in the Merchant Hall."
@@ -18,7 +18,7 @@ data:
 
 ## Overview {#overview}
 
-Nothing from the east reaches the western sea without passing through **Krusteikhos**. The lowland road from [[place-nesthiros2|Nesthiros]] climbs the last escarpment to the edge of the plateau, and the first thing in sight is the gilded domes of the counting houses. This is the Golden Fortress, the largest city of the [[affiliation-byzarianlg|Bizarian League]] at 80,000 people and its wealthiest and most influential, and its banking houses finance trade across half of the continent. Eastern goods cross the plateau to Krusteikhos, are banked here, and then descend to the coast to be shipped west.
+Nothing from the east reaches the western sea without passing through **Krusteikhos**. The lowland road from [[place-nesthiros2|Nesthiros]] climbs the last escarpment to the edge of the plateau, and the first thing in sight is the gilded domes of the counting houses. This is the Golden Fortress, the League's capital, a city of 15,000 people and its wealthiest and most influential seat, and its banking houses finance trade across half of the continent. Eastern goods cross the plateau to Krusteikhos, are banked here, and then descend to the coast to be shipped west.
 
 ## Who Governs
 
@@ -27,6 +27,8 @@ A council of merchant-princes governs [[affiliation-khryshteikhos|Krusteikhos]],
 ## Character
 
 The city is renowned for its goldsmiths, its bankers and its silk markets. Centuries of accumulated wealth show in its architecture: gilded domes, marble colonnades and ornamental gardens that blend Helonik elegance with eastern opulence. The banks hold their wealth in the [[lore-vylrncrncy|Vilérian currency]] and the paper-script of [[affiliation-danvar|the Danvar]], and Krusteikhos is a member of the post-imperial commonwealth, taking part in the whole banking system without answering to imperial governance or paying imperial tax.
+
+Krusteikhos grows little on the edge of the plateau and eats what the villages of the valley bottoms send in and what the grain road brings down from Velanthia, whose contracts its bankers hold and whose wagons its merchants own. What it sends out is credit: the goods and tolls of the hinterland towns are counted, banked and lent against here, and the plateau's wool, hides and horses are bought for the silk markets.
 
 ## See Also {#see-also}
 

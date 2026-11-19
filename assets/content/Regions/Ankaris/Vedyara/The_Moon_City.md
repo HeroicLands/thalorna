@@ -71,3 +71,9 @@ A stone stair a quarter-mile long runs the whole of the city's river face, and t
 : how the Nine Houses took their seats
 
 [[place-waitinghouse|The Waiting House]]
+
+[[scenario-seasonbar|The Season Over the Bar]]
+: a scenario set here
+
+[[scenario-wrappedwrist|The Wrapped Wrist]]
+: a scenario set here

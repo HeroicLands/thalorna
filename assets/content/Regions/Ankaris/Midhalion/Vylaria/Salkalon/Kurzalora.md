@@ -74,6 +74,9 @@ Every house on the street is a lodging-house, and a party has its choice of them
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : imperial overview
 
+[[scenario-hllsndrfrtrs|The Hulls Under the Fortress]]
+: a scenario set here
+
 # The Truth of Kurzalora {#truth .secret}
 
 The height is a road out of the fleet. When the quarter is late at Kastamar and the oarsmen are paid in notes, some of them walk off the quay and up the coast road to Kurzalora, climb to the altar and vow themselves to the god. Under the grant they are the shrine's for a year and a day, and the marines who follow them can only stand at the bottom of the steps. For nine years Yalzema Kaldremis has not kept them for the year. Within a month of his vow each man goes down the landward side of the hill by night in a pilgrim's cloak, to a lodging-house in Delalara whose keeper finds him a berth on a merchant ship under another name. The shipping houses are always short of oarsmen, and the houses whose ships take the men pay the shrine a gift for each of them, which goes into the upkeep of the court.
