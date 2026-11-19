@@ -160,7 +160,7 @@ Campaigns start well from a contest. A city needs a team for the games and its b
 - [[place-helionis|Helionis]] for the country, its gods, its magic and its history
 - [[affiliation-ctysttshlns|City-States of Helionis]] for the constitutions, the offices and the ladder of standing
 - [[lore-helioniteclt|Helionite]] for what a Helionite holds a person owes
-- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]] and [[affiliation-kalydria|Kalidria]] for the three leading cities, and [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]] for the other four
+- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]] and [[affiliation-kalydria|Kalidria]] for the three leading city-states, and [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]] for the other four
 - [[affiliation-panepistmm|The Epistémion]], [[lore-panepistfnd|its founding]] and [[affiliation-ordoarcanis|the Thordimalon]] for the academies and the order that grew out of them
 - [[lore-helionscnq|The Conquest of Helionis]] for the war that ended the cities' freedom and began the Order
 - [[affiliation-arldnpnthn|The Aureldian Pantheon]] for the gods the cities share

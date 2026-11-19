@@ -18,10 +18,9 @@ import { landsOf, treeIndex } from "./outline-guard.mjs";
  * listed in COVERED or when its seat lies in the land of Hellád, so a new
  * polity is checked without editing the guard.
  *
- * The ALLOWED lists hold the violations the guard tolerates until each
- * polity is rewritten. A listed polity that no longer violates fails the
- * test, so an entry is removed in the same change that fixes its polity, and
- * a violation not listed fails at once.
+ * The ALLOWED lists name the polities that may still violate. A listed
+ * polity that passes fails the test, so an entry is removed in the change
+ * that fixes its polity, and a violation not listed fails at once.
  */
 
 const LAND = { hellad: ["heladrgn"] };

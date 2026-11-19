@@ -20,7 +20,7 @@ data:
 
 The Eastern March is the frontier district of the [[affiliation-byzarianlg|Bizarian League]] on the desert side of [[place-byzariargn|Bizaria]]—the high passes east of [[place-argyrteikhos2|Argirteikhos]] and the dry country at their feet, where the League's territory ends and the [[place-khzryndsrtrgn|Khazrin Desert]] begins. It is a march in the old sense: land held not because it is worth anything in itself but because whoever holds it holds the road, and the road is the whole reason the League exists.
 
-Like the League's other marches it is common territory, outside the charter of any city. Its lord is commissioned by the League council in [[place-khryshteikhos2|Krusteikhos]] and answers to it; its garrison is drawn from the joint army all five cities raise by conscription; its treasury is the common treasury, fed by the silver of the Argirteikhos mines. The present holder of the commission is **Lord Commander [[being-mazitosrekha|Mazitos]] of the Eastern March**, who has held it for two decades and is by any practical measure the League's senior soldier.
+Like the League's other marches it is common territory, outside the charter of any city-state. Its lord is commissioned by the League council in [[place-khryshteikhos2|Krusteikhos]] and answers to it; its garrison is drawn from the joint army all five city-states raise by conscription; its treasury is the common treasury, fed by the silver of the Argirteikhos mines. The present holder of the commission is **Lord Commander [[being-mazitosrekha|Mazitos]] of the Eastern March**, who has held it for two decades and is by any practical measure the League's senior soldier.
 
 ## Geography
 

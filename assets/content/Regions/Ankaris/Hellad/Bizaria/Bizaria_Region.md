@@ -3,7 +3,7 @@ shortcode: byzariargn
 name: {full: Bizaria Region}
 type: place
 subType: region
-description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant cities of the Bizarian League and guarded by its three marches.
+description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant city-states of the Bizarian League and guarded by its three marches.
 tags: [region]
 data:
   demonym: Bizarian
@@ -42,7 +42,7 @@ Nine more towns of 2,500 to 4,500 people stand in the country between the coast 
 
 ## The Marches
 
-The five cities govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the cities raise by conscription, and paid for from the common treasury and the silver of Argirteikhos.
+The five city-states govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city-state's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the city-states raise by conscription, and paid for from the common treasury and the silver of Argirteikhos.
 
 - The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Argirteikhos, facing the Khazrin steppe and, to the south-east, the oasis-belt and the northern edge of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
 - The [[place-southrnmrch|Southern March]] is the dry pastoral upland south and east of Karvashion, through which the caravan road runs to [[place-dunharargn|Dunhara]]. It is hunting and herding country, held by a landed lord rather than a soldier.
@@ -54,7 +54,7 @@ The marches exist because the cities distrust one another: a frontier held by Ar
 
 ## Peoples and Culture
 
-Bizaria holds some 1,200,000 people, nearly all of them citizens or subjects of one of the five city-states:
+Bizaria holds some 1,200,000 people, every one of them a citizen or subject of one of the five city-states. Each figure counts the harbor towns and villages that the city-state's council holds under the League:
 
 | City-state                                 | People   |
 | ------------------------------------------ | -------- |
@@ -76,11 +76,11 @@ The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a substantial following amon
 
 ## Politics and Power
 
-The League is a commercial pact, not a state. Each city keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"} settles tariffs, the joint fleet and army, the marches, and disputes between cities, and nothing else. Krusteikhos's bankers dominate the council by weight of money, Nesthiros's admiralty by weight of ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison.
+The League is a commercial pact, not a state. Each city keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"} settles tariffs, the joint fleet and army, the marches, and disputes between city-states, and nothing else. Krusteikhos's bankers dominate the council by weight of money, Nesthiros's admiralty by weight of ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison.
 
 The [[affiliation-vylarinmpr|empire]] annexed the League as a province in [[lore-heladeastwar|the Eastern War]], about 209 AF. [[lore-heladcompact|The Compact]] that bound the five cities was dissolved by edict, and the cities kept their councils while the passes, the tariffs and the muster passed to imperial officers.
 
-The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vilérian Empire]] holds it in law and keeps its passes, tariffs and muster through imperial officers, while its cities keep their own councils; the Taruzelian guilds would dominate its trade, and the Ashaian powers to the east regard it as a useful but unreliable partner; the League survives by being indispensable to all of them. Its wars are border wars—against desert raiders, steppe tribes and the occasional eastern warlord—fought by conscripts under the march lords and by mercenary companies contracted when the frontier turns dangerous.
+The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vilérian Empire]] holds it in law and keeps its passes, tariffs and muster through imperial officers, while its city-states keep their own councils; the Taruzelian guilds would dominate its trade, and the Ashaian powers to the east regard it as a useful but unreliable partner; the League survives by being indispensable to all of them. Its wars are border wars—against desert raiders, steppe tribes and the occasional eastern warlord—fought by conscripts under the march lords and by mercenary companies contracted when the frontier turns dangerous.
 
 ## Trade
 

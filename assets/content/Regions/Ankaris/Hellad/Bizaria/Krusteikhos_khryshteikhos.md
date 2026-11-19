@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about 310,000 people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five seats and the League's capital, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
+Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between city-states. The second belongs to the city-state alone, which governs about 310,000 people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five seats and the League's capital, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
 
 ## Who Decides
 
@@ -87,7 +87,7 @@ Above the freeman the rungs are earned by weight. A guild master speaks for a ch
 
 ## Relations
 
-Inside the League, Krusteikhos's weight is money; [[affiliation-nesthiros|Nesthiros]]'s is ships and [[affiliation-argyrteikhos|Argirteikhos]]'s is the garrison, and the three together decide more than any vote. The north is Krusteikhos's own concern. The grain road leaves the city for [[place-velanthrgn|Velanthia]], Krusteikhos's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the [[place-northrnmrch|Northern March]] is by custom a younger son of a Krustéikhian house. The other four cities accept this because the council's commission can be revoked, which would not be true if the March were simply Krusteikhos's.
+Inside the League, Krusteikhos's weight is money; [[affiliation-nesthiros|Nesthiros]]'s is ships and [[affiliation-argyrteikhos|Argirteikhos]]'s is the garrison, and the three together decide more than any vote. The north is Krusteikhos's own concern. The grain road leaves the city for [[place-velanthrgn|Velanthia]], Krusteikhos's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the [[place-northrnmrch|Northern March]] is by custom a younger son of a Krustéikhian house. The other four city-states accept this because the council's commission can be revoked, which would not be true if the March were simply Krusteikhos's.
 
 The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]], whose faith traditions are the civic traditions of the League.
 

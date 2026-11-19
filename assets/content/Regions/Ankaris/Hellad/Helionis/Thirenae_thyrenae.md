@@ -93,7 +93,7 @@ Thirenae was the last city of Helionis to fall, in 312 BF, on terms its arsir [S
 
 ## Relations
 
-Thirenae is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and with the Epistémion. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thirenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thirenae has built, so the two are rivals and partners together. Thirenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
+Thirenae is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and with the Epistémion. Among the city-states, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thirenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thirenae has built, so the two are rivals and partners together. Thirenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
 
 ## Commerce and Currency
 

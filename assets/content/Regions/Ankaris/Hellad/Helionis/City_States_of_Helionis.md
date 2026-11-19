@@ -12,7 +12,7 @@ data:
   symbol: null
   governance:
     model: confederation
-    summary: "Seven sovereign cities bound by shared culture, gods and the Games, with no common executive: an assembly of the cities' envoys and a bench of arbiters at the Sanctuary of the Games keep the Truce."
+    summary: "Seven sovereign city-states bound by shared culture, gods and the Games, with no common executive: an assembly of the city-states' envoys and a bench of arbiters at the Sanctuary of the Games keep the Truce."
     ranks:
       - level: 0
         title: Pilgrim

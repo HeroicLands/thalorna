@@ -211,7 +211,7 @@ A census clerk of the Scribal Guild, asked how large the empire is, answers in t
 | [[affiliation-ctysttshlns\|Helionis]] | another 1,200,000 | practically independent; a province on paper   |
 | [[place-byzariargn\|Bizaria]]         | about 1,200,000   | annexed in law, governed by its own councils   |
 
-Some **21 million** people live under direct imperial governance in the four core provinces, and about twenty-three million if Helionis and Bizaria, both annexed in law, are counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hilen's grain, Salkalon's fisheries and seaborne imports, and the granaries and markets of the [[affiliation-verdanorzara|Veramus of the Grain]], the same logistics that make so large a city possible at all.
+Some **21 million** people live under direct imperial governance in the four core provinces, and about twenty-three million if Bizaria, annexed in law, and Helionis, tied to the empire in form only, are counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hilen's grain, Salkalon's fisheries and seaborne imports, and the granaries and markets of the [[affiliation-verdanorzara|Veramus of the Grain]], the same logistics that make so large a city possible at all.
 
 ## The Four Provinces
 

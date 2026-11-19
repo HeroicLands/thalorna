@@ -54,7 +54,7 @@ data:
 # terran_analog: "Greece, Bulgaria, North Macedonia and Albania (the Aegean and southern Balkan sphere of philosopher city-states and merchant confederations). Carries over: rival cities that unite for shared festivals and defense, agora debate, public athletics and theater, educated female companions (hetairai). Departs: seven cities, three of them leading, one a democratic naval power, with an academy at Kalidria that trains the companions as political agents across the region."
 ---
 
-[[place-helionis|Helionis]] is seven cities that agree about the gods, cooperate on defense, and compete about absolutely everything else. A Helionite's loyalty is to his city first and to the idea of Helionis a distant second, and the idea is mostly invoked when someone from outside needs reminding that all seven are civilized and he is not. What a Helionite is measured by is excellence, demonstrated in public, in front of people competent to judge it. That is the whole of the culture and everything else is detail.
+[[place-helionis|Helionis]] is seven city-states that agree about the gods, cooperate on defense, and compete about absolutely everything else. A Helionite's loyalty is to his city-state first and to the idea of Helionis a distant second, and the idea is mostly invoked when someone from outside needs reminding that all seven are civilized and he is not. What a Helionite is measured by is excellence, demonstrated in public, in front of people competent to judge it. That is the whole of the culture and everything else is detail.
 
 ## Three Great City-States and Four More
 
@@ -198,7 +198,7 @@ The schools teach a city's songs, legends and plays as its record, and these are
 ## See Also {#see-also}
 
 [[place-helionis|Helionis]]
-: the seven cities and the country around them
+: the seven city-states and the country around them
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
 : how the cities govern themselves

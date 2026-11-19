@@ -35,7 +35,7 @@ The March's other duty is the one the League never says aloud: it watches the no
 
 The garrison is small: a League detachment at the customs posts and the pass-forts, and the lord's own household at his seat on the grain road. The lord's court settles the March's justice under League law—grazing, water, tolls, the endless disputes between Bizarian villages and the Velanthian drovers who winter their herds on the Bizarian side of the passes by long custom and no treaty. Relations with the atamans of the nearest Hosts are conducted by the lord in person, usually at the autumn horse-fair on the frontier, and are on the whole cordial: both sides make money from the road and neither wants the other's trouble.
 
-The March's relationship to the capital is that of a country estate to a great house. Krusteikhos's bankers hold the grain contracts, Krusteikhos's merchants own the wagons, and the lord is very often a Krustéikhian by birth. The other cities tolerate the arrangement because the alternative—grain in Krustéikhian hands _and_ a March in Krustéikhian hands, with no council commission to revoke—is worse.
+The March's relationship to the capital is that of a country estate to a great house. Krusteikhos's bankers hold the grain contracts, Krusteikhos's merchants own the wagons, and the lord is very often a Krustéikhian by birth. The other city-states tolerate the arrangement because the alternative—grain in Krustéikhian hands _and_ a March in Krustéikhian hands, with no council commission to revoke—is worse.
 
 ## Peoples {#peoples}
 

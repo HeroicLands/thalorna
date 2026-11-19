@@ -37,7 +37,7 @@ data:
 # terran_analog: "Classical and Byzantine-era Anatolia (philosophical city-states, caravan crossroads, an upland plateau behind the coast, frontier marches facing the Persian and Pontic worlds). Carries over: crossroads cities of mixed Helonik, Levantine and Persian-world families, guild-chartered trade, monasteries serving an eastern-rite civic faith. Departs: five cities held together by a reputation for keeping terms, with professional arbitrators and guild enforcement in place of feud."
 ---
 
-Bizarian culture is the culture of the bargain. The tongue has more words for kinds of agreement than most languages have for colors, the courts are staffed by professional arbitrators, and the highest civic honor in any of the five cities of the [[affiliation-byzarianlg|Bizarian League]] is to be named Warden of the Weights—the officer whose inspections make the city's word good. [[lore-heladweighing|The Weighing at Krusteikhos]], about 455 AF, is where the first Warden proved a tax-farmer's brass standard false. A Bizarian understands that his cities have no great river and no divine mandate. What they have is a reputation for keeping terms, and he regards that reputation as infrastructure.
+Bizarian culture is the culture of the bargain. The tongue has more words for kinds of agreement than most languages have for colors, the courts are staffed by professional arbitrators, and the highest civic honor in any of the five city-states of the [[affiliation-byzarianlg|Bizarian League]] is to be named Warden of the Weights—the officer whose inspections make the city's word good. [[lore-heladweighing|The Weighing at Krusteikhos]], about 455 AF, is where the first Warden proved a tax-farmer's brass standard false. A Bizarian understands that his city-states have no great river and no divine mandate. What they have is a reputation for keeping terms, and he regards that reputation as infrastructure.
 
 ## The Guild Is the Skeleton
 
@@ -193,7 +193,7 @@ The Cartographers' Guild shows the same pattern in a smaller place. Its seal mak
 ## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]
-: the five cities, the plateau and the marches
+: the five city-states, the plateau and the marches
 
 [[affiliation-byzarianlg|Bizarian League]]
 : the confederation, its council and its ladder of standing

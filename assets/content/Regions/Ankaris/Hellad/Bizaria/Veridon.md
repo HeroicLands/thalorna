@@ -23,7 +23,7 @@ Before a traveler sees Veridon, he sees the compound outside it: the fortified p
 
 ## A Company Town
 
-The company is the town's employer, its customer and its protection, and it is also the company that did what it did at [[place-trianthion|Trianthion]]. The arrangement has given Veridon stability, and it has given its people a manner a stranger cannot read: their attitudes toward the company are opaque to outsiders. Say you ask an innkeeper about the company next door. He knows what it drinks and what it pays, and he answers with exactly that.
+The company is the town's employer, its customer and its protection, and it is also the company that did what it did at [[place-trianthion|Trianthion]]. The arrangement has given Veridon stability, and it has given its people a manner a stranger cannot read: their attitudes toward the company are opaque to outsiders. Asked about the company next door, a Veridon innkeeper knows what it drinks and what it pays, and says exactly that.
 
 ## See Also {#see-also}
 

@@ -46,7 +46,7 @@ Season decides the journey. The eastern passes are snowbound from late autumn to
 
 ## The Marches
 
-The League governs only three districts directly, and they are the ones nobody else wants: the border country. Each march lies outside every city's charter, under a lord the League council commissions and can dismiss, garrisoned by conscripts all five cities raise, and paid from the common treasury and the silver of Argirteikhos. The marches exist because the cities distrust one another: a frontier held by any one city would make it master of the rest.
+The League governs only three districts directly, and they are the ones nobody else wants: the border country. Each march lies outside every city-state's charter, under a lord the League council commissions and can dismiss, garrisoned by conscripts all five city-states raise, and paid from the common treasury and the silver of Argirteikhos. The marches exist because the city-states distrust one another: a frontier held by any one city-state would make it master of the rest.
 
 The [[place-eastrnmrch|Eastern March]] runs downhill from Argirteikhos's eastern gate into the steppe margin of the [[place-khzryndsrtrgn|Khazrin]]. Way-forts stand a day's march apart on the paved pass road, and every spring in the foothills has a fort, a shrine or a caravanserai built on it. Lord Commander [[being-mazitosrekha|Mazitos]] has held the March for two decades and is the League's senior soldier. Steppe raiders are the constant trouble, and a great khanate rising in the desert is the reason the walls are so thick. In the high passes above Órashion live the [Vezhnur]{.name data-type="affiliation/lineage"} holds, warrior clans outside any charter whom the League tolerates as its eastern shield.
 

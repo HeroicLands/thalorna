@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The smallest of the five [[affiliation-byzarianlg|League seats]] pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 5,500 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 200,000 that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Bizaria]], and that fact settles most of what the other four cities think of it: the League trades in peace because Argirteikhos is ready for war.
+The smallest of the five [[affiliation-byzarianlg|League seats]] pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 5,500 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 200,000 that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Bizaria]], and that fact settles most of what the other four city-states think of it: the League trades in peace because Argirteikhos is ready for war.
 
 ## Who Decides
 
@@ -89,7 +89,7 @@ Argirteikhos keeps the League's ladder of standing. The freeman is enrolled in t
 
 ## Relations
 
-Argirteikhos is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Its silver goes into the common treasury that pays the March's garrison and the joint army all five cities raise by conscription, and that arrangement is the reason the other four cities put up with a soldier at the council table.
+Argirteikhos is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Its silver goes into the common treasury that pays the March's garrison and the joint army all five city-states raise by conscription, and that arrangement is the reason the other four city-states put up with a soldier at the council table.
 
 ## Commerce and Currency
 
@@ -97,7 +97,7 @@ Argirteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / O
 
 ## Current Situation {#present}
 
-The silver of the peaks pays for the pass and the joint army, and the other four cities accept a soldier at the council table because of it. The governor and the Lord Commander of the Eastern March answer to different offices and watch the same road.
+The silver of the peaks pays for the pass and the joint army, and the other four city-states accept a soldier at the council table because of it. The governor and the Lord Commander of the Eastern March answer to different offices and watch the same road.
 
 ## History {#history}
 

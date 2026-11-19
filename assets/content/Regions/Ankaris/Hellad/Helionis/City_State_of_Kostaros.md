@@ -76,7 +76,7 @@ Standing is the common Helionite ladder, and the metic's complaint belongs to it
 
 ## Relations {#relations}
 
-Kostaros is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and shares the [[skill-helonclng|Helonik tongue]] and the festivals of the other six cities. Within its land lies Mirtelos, a city of 20,000.
+Kostaros is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and shares the [[skill-helonclng|Helonik tongue]] and the festivals of the other six city-states. Within its land lies Mirtelos, a city of 20,000.
 
 ## See Also {#see-also}
 
