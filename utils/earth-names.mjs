@@ -43,20 +43,28 @@ import { notePath } from "./note-index.mjs";
 
 const CONTENT_DIR = "assets/content";
 
-const PRONUNCIATION_GUIDE = notePath("doc-prnncthlrn");
-// These technical references explain the reader's spelling and pronunciation conventions.
-const PRONUNCIATION_REFERENCES = new Set([
-    PRONUNCIATION_GUIDE,
-    notePath("skill-aelwthlng"),
-    notePath("doc-aelwsemaronenc"),
-]);
+let pronunciationCache;
 
-/** Files that may name Earth. */
-const EXEMPT_FILES = new Set([
-    notePath("doc-trnnlgsrfrnc"),
-    // Technical pronunciation references necessarily name reference languages.
-    ...PRONUNCIATION_REFERENCES,
-]);
+/**
+ * The note files that may name the reader's languages and Earth, read from the
+ * working directory's content tree on first use.
+ *
+ * @returns {{references: Set<string>, exempt: Set<string>}}
+ */
+export function pronunciationFiles() {
+    if (!pronunciationCache) {
+        // These technical references explain the reader's spelling and pronunciation conventions.
+        const references = new Set([
+            notePath("doc-prnncthlrn"),
+            notePath("skill-aelwthlng"),
+            notePath("doc-aelwsemaronenc"),
+        ]);
+        // Files that may name Earth: the Terran analogs note and the references.
+        const exempt = new Set([notePath("doc-trnnlgsrfrnc"), ...references]);
+        pronunciationCache = { references, exempt };
+    }
+    return pronunciationCache;
+}
 
 /**
  * A language note lists the forms it refuses in `data.retired`, so each entry's
@@ -831,10 +839,11 @@ const COMMON_CALENDAR = /\bcommon calendar\b/gi;
  * @param {string} file path relative to the working directory
  * @param {string} text
  * @param {RegExp} [names] the Earth-name matcher
+ * @param {{references: Set<string>, exempt: Set<string>}} [files] the files that may name Earth; the content tree's own when omitted
  * @returns {string[]} one `file:line:column: error: message` finding per hit
  */
-export function findEarthNames(file, text, names = earthMatcher()) {
-    const exemptFile = EXEMPT_FILES.has(file);
+export function findEarthNames(file, text, names = earthMatcher(), files = pronunciationFiles()) {
+    const exemptFile = files.exempt.has(file);
     // Only an executable encoding document can use Roman as an orthographic
     // label. Names of peoples and places in its ordinary prose still count.
     let encodingDocument = false;
@@ -879,9 +888,7 @@ export function findEarthNames(file, text, names = earthMatcher()) {
         const exempt = exemptFile || ANALOG_LINE.test(line);
         const hits = [];
         for (const [re, what, subject] of [
-            ...(PRONUNCIATION_REFERENCES.has(file) ?
-                []
-            :   [[READER_LANGUAGES, "the reader's language"]]),
+            ...(files.references.has(file) ? [] : [[READER_LANGUAGES, "the reader's language"]]),
             ...(exempt ?
                 []
             :   [

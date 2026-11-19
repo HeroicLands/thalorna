@@ -462,28 +462,39 @@ const DEPRECATED = new Map([
     ["ey", "ei"],
     ["oy", "oi"],
 ]);
-const HELD_ENTRIES = JSON.parse(
-    fs.readFileSync(new URL("./fixtures/vowel-pairs-held.json", import.meta.url), "utf8"),
-).held;
-/** Forms kept as spelled, whatever a register attests: `utils/fixtures/vowel-pairs-held.json`. */
-const HELD = new Set(
-    HELD_ENTRIES.filter((entry) => entry.scope !== "en").map((entry) => entry.form.toLowerCase()),
-);
-/** Forms kept as spelled inside explicit English passages only (`"scope": "en"`). */
-const HELD_ENGLISH = new Set(
-    HELD_ENTRIES.filter((entry) => entry.scope === "en").map((entry) => entry.form.toLowerCase()),
-);
+let heldCache;
+/**
+ * The forms `utils/fixtures/vowel-pairs-held.json` keeps as spelled, read on
+ * first use: `held` whatever a register attests, `english` inside explicit
+ * English passages only (`"scope": "en"`).
+ */
+const heldForms = () => {
+    if (!heldCache) {
+        const entries = JSON.parse(
+            fs.readFileSync(new URL("./fixtures/vowel-pairs-held.json", import.meta.url), "utf8"),
+        ).held;
+        const forms = (test) =>
+            new Set(entries.filter(test).map((entry) => entry.form.toLowerCase()));
+        heldCache = {
+            held: forms((entry) => entry.scope !== "en"),
+            english: forms((entry) => entry.scope === "en"),
+        };
+    }
+    return heldCache;
+};
 
 const WORD = /[\p{L}\p{M}]+(?:[-'’][\p{L}\p{M}]+)*/gu;
 const baseLetter = (s) => s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
 
-const GUIDE_GROUPS = groupsOf(fs.readFileSync(notePath("doc-prnncthlrn"), "utf8"));
+let guideGroups;
+const guideGroupsOf = () =>
+    (guideGroups ??= groupsOf(fs.readFileSync(notePath("doc-prnncthlrn"), "utf8")));
 
 /** Closing ay/ey/oy, in original UTF-16 coordinates, with only y changed.
  * Consume guide vowel groups first; a marked vowel after y still starts
  * the next syllable.
  */
-export function deprecatedPairs(form, groups = GUIDE_GROUPS) {
+export function deprecatedPairs(form, groups = guideGroupsOf()) {
     const letters = [...form.matchAll(/\P{M}\p{M}*/gu)];
     const out = [];
     for (let i = 0; i + 1 < letters.length; i++) {
@@ -970,8 +981,8 @@ export function pairInventory(sources, config = {}) {
     const isEnglish = (id) =>
         [id, id.replace(/s$/, "")].some(
             (word) =>
-                HELD.has(word) ||
-                (englishPassage && HELD_ENGLISH.has(word)) ||
+                heldForms().held.has(word) ||
+                (englishPassage && heldForms().english.has(word)) ||
                 (englishWords.has(word) &&
                     !names.has(word) &&
                     !words.has(word) &&
