@@ -12,7 +12,7 @@ data:
   occupation: Speaker
   lore: []
   culture: osetakonaclt
-  homes: [tsitarargn]
+  homes: [kenrisaten]
   affiliations: {osetakona: {rank: 2}}
   gender: male
   species: humanflk

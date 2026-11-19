@@ -33,7 +33,7 @@ The [Lake of Islands]{.name data-type="place/feature"} lies on their southern ed
 
 ## The Villages
 
-The Pine People keep six palisaded villages, smaller than the southern nations' and farther apart. The largest is [Snow Place]{.name data-type="place/settlement"} (_kenrisaten_), about 900 people on a river below a falls, where the nation's council sits.
+The Pine People keep six palisaded villages, smaller than the southern nations' and farther apart. The largest is [[place-kenrisaten|Snow Place]] (_kenrisaten_), about 900 people on a river below a falls, where the nation's council sits.
 
 ## The Bands
 
@@ -54,6 +54,9 @@ Furs go south: beaver, marten, otter and moose hide, down the rivers to the Fall
 
 [[place-kahsiotargn|Falls Country]]
 : the heart of the Grove, to the south
+
+[[place-kenrisaten|Snow Place]]
+: the Pine People's largest village
 
 [[place-hersellonku|Hersellonku]]
 : the Senali conclave on the far ridges
