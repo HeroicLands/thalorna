@@ -42,6 +42,7 @@ data:
       - a long straight nose in a narrow face
       - an ink stain on the second finger of the right hand
   packFolder: midhalionvylaria
+  items: [{key: broochgold, model: miscgear-broochgold, kind: miscgear}]
 ---
 
 # Appearance {#appearance}

@@ -32,6 +32,11 @@ data:
     mouth: full
     extra_features: [crooked nose]
   packFolder: aureldiatarvenia
+  items:
+    - {key: mhbgn, model: armorgear-mhbgn, kind: armor}
+    - {key: gtnc, model: armorgear-gtnc, kind: armor}
+    - {key: brdswd, model: weapongear-brdswd, kind: weapon}
+    - {key: rndsh, model: weapongear-rndsh, kind: weapon}
 sohl:
   items:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 11}}
@@ -57,6 +62,10 @@ sohl:
     - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 27}}
     - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 43}}
     - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 20}}
+    - {key: mhbgn, model: sohl-sohl-armorgear-mhbgn}
+    - {key: gtnc, model: sohl-sohl-armorgear-gtnc}
+    - {key: brdswd, model: sohl-sohl-weapongear-brdswd}
+    - {key: rndsh, model: sohl-sohl-weapongear-rndsh}
   system:
     body:
       structure:

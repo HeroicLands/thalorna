@@ -39,6 +39,7 @@ data:
     mouth: full
     extra_features: [a long white beard kept in a single plait]
   packFolder: aureldiaaelwyth
+  items: [{key: stf, model: weapongear-stf, kind: weapon}]
 ---
 
 # Appearance {#appearance}

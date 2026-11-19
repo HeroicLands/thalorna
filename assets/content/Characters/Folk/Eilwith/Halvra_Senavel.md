@@ -42,6 +42,7 @@ data:
     mouth: thin
     extra_features: []
   packFolder: aureldiaaelwyth
+  items: [{key: waxtablet, model: miscgear-waxtablet, kind: miscgear}]
 ---
 
 # Appearance {#appearance}
