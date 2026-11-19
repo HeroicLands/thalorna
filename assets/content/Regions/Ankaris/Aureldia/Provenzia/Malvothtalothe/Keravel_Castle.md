@@ -53,3 +53,9 @@ The Marshal's command is stretched between two enemies. The raiding season has h
 
 [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : the kingdom the Marshal serves, its magnates and its feuds
+
+[[scenario-bldshscrvlvl|Blood and Ashes in Keravel Vale]]
+: a scenario set here
+
+[[scenario-webdeceit|The Web of Deceit]]
+: a scenario set here

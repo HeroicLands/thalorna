@@ -55,7 +55,45 @@ archetypes:
 archetypeAbsences: {}
 
 # Addresses of affiliations whose shared governance block an owner ruling keeps.
-sharedGovernance: []
+sharedGovernance:
+    - affiliation-selatanztqlt
+    - affiliation-selatbelgnzl
+    - affiliation-selatchathu
+    - affiliation-selatgadjuml
+    - affiliation-selatgarlut
+    - affiliation-selatgarqezt
+    - affiliation-selatgarzant
+    - affiliation-selatgaulegr
+    - affiliation-selatgekhenu
+    - affiliation-selatgezazab
+    - affiliation-selatgrnlght
+    - affiliation-selatgrrthsr
+    - affiliation-selatgrshbzt
+    - affiliation-selatiaqetlq
+    - affiliation-selatiqeru
+    - affiliation-selatiuthnet
+    - affiliation-selatizetge
+    - affiliation-selatkhelaga
+    - affiliation-selatkhelntz
+    - affiliation-selatkhelzrt
+    - affiliation-selatlegirus
+    - affiliation-selatlennnzt
+    - affiliation-selatlinmut
+    - affiliation-selatltchlsr
+    - affiliation-selatltgthzl
+    - affiliation-selatmaguthn
+    - affiliation-selatnlghztn
+    - affiliation-selatseltltr
+    - affiliation-selatsltplgn
+    - affiliation-selatwagaru
+    - affiliation-selatyathlmt
+    - affiliation-selatzbtrlpt
+    - affiliation-selatzuger
+    - affiliation-selatzuqeztu
+    - affiliation-selatzuzllgl
+    - affiliation-selatzuzlqtt
+    - affiliation-seltkhqtmntq
+    - affiliation-seltqltlnlgr
 
 # Settlements an owner exception excuses from a homed being: address, then the reason.
 homedBeingExceptions: {}
@@ -77,6 +115,20 @@ finished: [tarvenia, elavendre, provenzia]
 # selects on frontmatter `data` keys, and `match.subType` may be a list. A
 # `profile` is a number, or a list of numbers, from the plan's adopted profiles.
 closing: [truth, glossary]
+
+# Scenario and place pairs, written `<scenario shortcode> <place shortcode>`,
+# whose place's See Also does not yet link the scenario. The `scenario-backlink`
+# rule skips exactly these pairs; an entry goes when the link is added.
+deferredBacklinks:
+    - kprdrystr mezhvadez
+    - kprdrystr dunhardsrtrgn
+    - nrctdvzhmvd vzhmvd
+    - nrctdvzhmvd dunhardsrtrgn
+    - sprngbfrbnnr amradadrgn
+    - sprngbfrbnnr valmakhend
+    - sprngbfrbnnr tahrodan
+    - irncrwnstrm twrlghtnmrkd
+    - irncrwnstrm dunhardsrtrgn
 slotLevel: 2
 
 kinds:

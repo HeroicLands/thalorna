@@ -102,3 +102,8 @@ With [[lore-khorsadradty|Khórsadra]] (Bearer of Eternal Light), Bazhrámish mai
 The opposition with [[lore-angarosdty|Angaros]] is expressed most dramatically through battle itself. Every righteous war is understood as Bazhrámish fighting Angaros through the agency of mortal warriors. The priesthood teaches that the god is most present and most powerful in moments of combat against evil—the warrior whose cause is just will find supernatural strength flowing through them, the enemy's weapons will seem clumsy and slow, the victory will come as if the god himself wielded the sword. Conversely, in this teaching, warriors engaged in unjust causes will find Bazhrámish actively opposing them—their weapons will fail, their horses will stumble, their courage will drain away.
 
 With the other deities, Bazhrámish maintains cordial but somewhat distant relationships. He does not deeply involve himself in the concerns of [[lore-aravestadty|Aravesta]] (prosperity) or [[lore-zurathradty|Zúrathra]] (fertility)—not because he opposes them, but because those gentle deities' concerns seem trivial compared to the cosmic struggle. Yet he recognizes that prosperity and fertility are expressions of Ozhmar, and that the protection he provides through storm and strength allows those domains to flourish. [[lore-azravandty|Azravan]] the death-god earns his respect as the one who maintains the boundary between life and death, another form of necessary order. [[lore-mitharadty|Míthara]] the creator receives acknowledgment as the original source of all existence—even Bazhrámish's strength derives ultimately from her creative force.
+
+## See Also
+
+[[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
+: the cult network of the Dunhara tribes that serves the storm god

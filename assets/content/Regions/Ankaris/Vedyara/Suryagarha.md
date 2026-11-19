@@ -67,3 +67,5 @@ It is an easy road and a well-kept one, and it is the reason Suryagarha is a cit
 - [[place-suryadvar|Suryadvar]]—the pass the city stands across
 - [[place-pssshrines|The Pass-Shrines]] · [[affiliation-osketguides|the Osket]] · [[place-slvrgorges|the Silver Gorges]]
 - [[place-oskhelt|Oskhelt]]—the Osket village four days above the city
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]—a scenario set here
+- [[scenario-wrappedwrist|The Wrapped Wrist]]—a scenario set here

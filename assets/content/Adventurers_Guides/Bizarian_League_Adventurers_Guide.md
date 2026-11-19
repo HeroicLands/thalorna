@@ -3,16 +3,16 @@ shortcode: byzariaadvguide
 name: {full: Bizarian League Adventurer's Guide, en: [Bizaria Adventurer's Guide]}
 type: doc
 subType: settingguide
-description: A player and GM introduction to the Bizarian League—its caravan cities, guilds and arbitrators, its marches and monasteries, and the ways a campaign begins there.
+description: A player and GM introduction to the Bizarian League—its caravan towns, guilds and arbitrators, its marches and monasteries, and the ways a campaign begins there.
 tags: []
 data: {packFolder: adventurersguides, culture: byzarianclt}
 ---
 
-> The road has been dust for six days: pale limestone, red earth, thorn and juniper, and gorges where last winter's streams have shrunk to green pools. Late in the afternoon it tips over a ridge, and the valley below is green. Poplars and planes line the river. Gardens step down to the water in rows of melons and vines. And across the valley floor, wall after wall, stand the caravanserais of [[place-karvashion2|Karvashion]]—square fortified inns the size of villages, their gates wide enough for a loaded camel, the domes and arcades of the city rising behind them in the low gold light. The heat goes out of the air as you come down among the trees. You smell water before you see it, then dung, woodsmoke, cumin and something sweeter that turns out to be a cart of incense resin ahead of you in the line.
+> The road has been dust for six days: pale limestone, red earth, thorn and juniper, and gorges where last winter's streams have shrunk to green pools. Late in the afternoon it tips over a ridge, and the valley below is green. Poplars and planes line the river. Gardens step down to the water in rows of melons and vines. And across the valley floor, wall after wall, stand the caravanserais of [[place-karvashion2|Karvashion]]—square fortified inns the size of villages, their gates wide enough for a loaded camel, the domes and arcades of the town rising behind them in the low gold light. The heat goes out of the air as you come down among the trees. You smell water before you see it, then dung, woodsmoke, cumin and something sweeter that turns out to be a cart of incense resin ahead of you in the line.
 >
 > Inside the gate, the yard is a market in its own right. Dunhari drivers in dust-colored headcloths couch their camels and argue over stalls; an Amradi drover in a striped coat counts sheep through a side gate while a boy chalks the tally on the wall; a clerk with ink-stained fingers reads a bill of lading aloud to two men who each hold a copy and follow it line by line. Bales are weighed on a beam scale under an arch, and a man in a plain gray robe writes down each weight before anyone touches the bale again. Nobody shouts; the bargaining goes on in low voices, with a great deal of smiling and nobody conceding anything. The master of the house comes out of the arcade wiping his hands on a cloth: a broad man with a trimmed black beard, a green sash, and a brass seal on a cord at his neck. "_Shyn émfarin, lefir kérdanir_," he says: with the merchant, profit is clear. "[Theodarash Karvashzát]{.name data-type="being/npc"}, master of this caravanserai, under the charter of Karvashion's caravansary masters; my father's brother taught me the trade. And you—of what trade, and whose?" While you answer, he raises two fingers to a boy at the kitchen door. By the time you sit, there is flat bread hot from the oven on the cushion beside you, a bowl of yogurt with mint, and lamb with cumin still hissing from the grill, and the boy has set down a wax tablet beside the bowl with each dish and the stabling scratched on it, item by item, with a price. Theodarash reads the tablet to you aloud, twice, and waits until you nod. Only when you have eaten does he mention the house in [[place-khryshteikhos2|Krusteikhos]] that needs hands for the plateau road, and the terms it wants sealed before dawn.
 
-The [[affiliation-byzarianlg|Bizarian League]] has no great river and no divine mandate. It has a road. Every silk, spice, incense and porcelain that crosses from the far east to the western sea comes over the eastern passes or up the road from [[place-dunharargn|Dunhara]], crosses the Bizarian plateau, and goes down to the coast to be shipped, and five merchant cities take their cut at every step. About eight million people live in [[place-byzariargn|Bizaria]], the inland band of upland and mountain in the east of [[place-heladrgn|Hellád]], which reaches the [[place-vylarianse|Vilérian Sea]] only at its western end. Their wealth rests on one thing, and they say so without embarrassment: a reputation for keeping terms.
+The [[affiliation-byzarianlg|Bizarian League]] has no great river and no divine mandate. It has a road. Every silk, spice, incense and porcelain that crosses from the far east to the western sea comes over the eastern passes or up the road from [[place-dunharargn|Dunhara]], crosses the Bizarian plateau, and goes down to the coast to be shipped, and five merchant city-states take their cut at every step. About 1,200,000 people live in [[place-byzariargn|Bizaria]], the inland band of upland and mountain in the east of [[place-heladrgn|Hellád]], which reaches the [[place-vylarianse|Vilérian Sea]] only at its western end. Their wealth rests on one thing, and they say so without embarrassment: a reputation for keeping terms.
 
 This guide is the letter that [House Krisakit]{.name data-type="affiliation/venture"}, a banking house of Krusteikhos, gives the guards, drivers and correspondents it hires for the first time. Its factors write it the way they write everything—courteously, patiently and to the letter—and they leave out what a house would rather a new hire did not know.
 
@@ -24,7 +24,7 @@ Bizaria rises in three steps from the sea, and the trade climbs them in reverse.
 
 The coast is short, warm and dry, with olive groves and vineyards terraced on the hills behind the harbors. [[place-nesthiros2|Nesthiros]], the League's great seaport, sits on a fortress isle in the straits that carry its name; a dozen languages are heard on its docks, and Taruzelian merchantmen lie beside Vilérian galleys. [[place-chrysamar|Krisamar]] rivals it with quick turnarounds, consortium warehouses and fewer questions. [[place-thalassos|Thálassos]] keeps so little customs authority that ships wanting privacy put in there, and [[place-kostaros|Kostaros]] is another of the small harbors along the shore.
 
-The plateau behind the coast is the country most outsiders never see: a broad, treeless upland of grass and scrub, cold in winter and baked in summer, where herds move between seasonal pastures. Krusteikhos, the Golden Fortress, stands at the top of the last escarpment where the lowland road from Nesthiros reaches the plateau. Its counting houses wear gilded domes, and eastern goods are banked there before they go down to the sea. Inland from Nesthiros, on the arid highland, sprawls [[place-nykhtion|Nikhtion]], the city of the dead, where every great house keeps its tombs. [[place-byzaris|Bizaris]] is the artisan city of the guilds, governed by the heads of its twelve greatest guilds; [[place-selimara|Selímara]] is a market town on the inland roads.
+The plateau behind the coast is the country most outsiders never see: a broad, treeless upland of grass and scrub, cold in winter and baked in summer, where herds move between seasonal pastures. Krusteikhos, the Golden Fortress, stands at the top of the last escarpment where the lowland road from Nesthiros reaches the plateau. Its counting houses wear gilded domes, and eastern goods are banked there before they go down to the sea. Inland from Nesthiros, on the arid highland, sprawls [[place-nykhtion|Nikhtion]], the city of the dead, where every great house keeps its tombs. [[place-byzaris|Bizaris]] is the artisan town of the guilds, governed by the heads of its twelve greatest guilds; [[place-selimara|Selímara]] is a market town on the inland roads.
 
 The mountains close the country to the east and north. [[place-orashion2|Órashion]], Blackstone, quarries black basalt and mines iron and copper in the interior, and its forges burn day and night. [[place-argyrteikhos2|Argirteikhos]], the Silver Citadel, sits astride the principal eastern pass behind some of the most formidable walls in the region, and the silver of its mines pays for the League's defense. Karvashion, the Green Caravanserai, lies in its river valley where the roads east and south divide, and it is where eastern goods first pass into League hands.
 
@@ -42,7 +42,7 @@ ORDER BY data.population DESC, name.full COLLATE NOCASE
 
 > On the plateau road out of Karvashion the wind never stops; it hisses through the dry grass and fills your teeth with grit, and the only shade for a day at a time is the tarred canvas of the wagon. At the first toll post, a stone hut with a striped pole across the road, the collector unfolds your wagon master's paper, reads every line with his lips moving, walks the length of the load counting bales against it, and presses a disk of red wax onto the foot of the page with a brass seal. At the second post, two days on, the collector takes the same paper, turns it over to the red wax, rubs it once with his thumb, and lifts the pole. At the third, he does not get up from his stool.
 
-Season decides the journey. The eastern passes are snowbound from late autumn to spring. The grain road north to [[place-velanthrgn|Velanthia]] carries wagon trains from late summer until the snow closes its pass, and a bad Velanthian harvest is felt in Nesthiros's bread prices within the season. The coastal cities cannot feed themselves from their own terraces.
+Season decides the journey. The eastern passes are snowbound from late autumn to spring. The grain road north to [[place-velanthrgn|Velanthia]] carries wagon trains from late summer until the snow closes its pass, and a bad Velanthian harvest is felt in Nesthiros's bread prices within the season. The coastal towns and cities cannot feed themselves from their own terraces.
 
 ## The Marches
 
@@ -67,8 +67,9 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
-  AND data.culture = 'thalorna-note-lore-byzarianclt'
-  AND name.full <> 'Bizarian League'
+  AND list_contains(data.parents, 'thalorna-note-affiliation-byzarianlg')
+  AND address.slug IN ('affiliation-khryshteikhos', 'affiliation-nesthiros', 'affiliation-orashion',
+                      'affiliation-argyrteikhos', 'affiliation-karvashion')
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
@@ -76,7 +77,7 @@ A hired hand meets a city through its Harbormaster, who keeps the port and the d
 
 Standing runs from the register outward. A freeman is enrolled in it and may trade in the city's markets and plead in its courts; a resident lives under the city's protection without either. Above the freeman stand the guild master, the house factor who runs a great house's trade abroad, the house head and the councillor. Below everyone is the man struck from the roll, whose contracts are void and whom no court will hear.
 
-The League's foreign policy is neutrality. The [[affiliation-vylarinmpr|Vilérian Empire]] would absorb it, the guilds of [[affiliation-cnfdrtntrzlnstts|Taruzel]]—the islands off the League's coast, and its great rival at sea—would dominate its trade, and the powers east of the desert find it useful and unreliable. It survives by being indispensable to all of them and subservient to none. Its wars are border wars, fought by conscripts under the march lords and by mercenary companies hired when the frontier turns dangerous.
+The League's foreign policy is neutrality. The [[affiliation-vylarinmpr|Vilérian Empire]] holds it in law and keeps the passes, the tariffs and the muster through its own officers, the guilds of [[affiliation-cnfdrtntrzlnstts|Taruzel]]—the islands off the League's coast, and its great rival at sea—would dominate its trade, and the powers east of the desert find it useful and unreliable. It survives by being indispensable to all of them, and its merchants chafe at the imperial claim. Its wars are border wars, fought by conscripts under the march lords and by mercenary companies hired when the frontier turns dangerous.
 
 ## Guild, Seal and Name
 
@@ -156,7 +157,7 @@ Campaigns here start well from a contract. A house hires the party to escort a c
 :::
 
 :::secret
-**For the GM:** Karvashion's caravansary masters pay the Southern March for its road in tolls and in gifts to Lord Vaskan, and both sides would rather the League council did not look closely at how the road's revenue is divided. A party hired to audit the road, or to carry its gifts, stands between the richest caravan city and the lord who holds its only southern road.
+**For the GM:** Karvashion's caravansary masters pay the Southern March for its road in tolls and in gifts to Lord Vaskan, and both sides would rather the League council did not look closely at how the road's revenue is divided. A party hired to audit the road, or to carry its gifts, stands between the richest caravan town and the lord who holds its only southern road.
 :::
 
 ## Where to Read Next

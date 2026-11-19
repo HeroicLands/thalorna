@@ -72,6 +72,9 @@ The river carries the capital's bread, and the capital has about a week of it in
 [[place-vylariargn|Viléria Region]]
 : the land it names
 
+[[scenario-sndbnthcrst|The Sand Beneath the Crust]]
+: a scenario set here
+
 # The Truth of the River {#truth .secret}
 
 The Reed Mouth is silting because Elissara wants it to. Every few years the city's council pays its dredge-master to drop the spoil from the main channel into the head of the Reed Mouth instead of out at sea, and to do it in the autumn, so the winter flood spreads it. A ship that could come up the Reed Mouth would land its cargo on the provincial shore, a day's haul nearer the capital, and pay its dues to the _therkos_ (governor) of Salkalon and none to the city. The province's surveyors have sounded the channel twice and found it shallower each time, and the _therkos_'s lawyers would give a great deal for one of the dredge-master's tally-books, which record each load dropped, the date and the payment.

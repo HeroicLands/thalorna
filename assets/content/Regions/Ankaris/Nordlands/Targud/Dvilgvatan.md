@@ -59,3 +59,6 @@ From [[place-tvalgard|Tvalgard]] to Draskborg is a day and a half by the sledge 
 
 [[lore-burningeast|The Burning of the East]]
 : the war that made the ground
+
+[[scenario-lakelooksback|The Roof Beneath the Ice]]
+: a scenario set here

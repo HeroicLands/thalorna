@@ -41,6 +41,11 @@ and the content command clears the marker at startup. Without the marker,
 Veldikko reports missing publication and fails without reading stale output.
 The content build and aggregate lint checks retain every failure.
 
+The manually dispatched `Sound round trips` workflow runs the explicit sound
+transcription diagnostic. Its `sound-roundtrip-report` artifact retains every
+finding as JSON Lines, the console and fixture output, the source revision and
+dependency versions for 30 days. See [sound encoding round trips](docs/writing-in-the-tongues.md#sound-encoding-round-trips).
+
 Both font jobs use the workflow's shared `FONTS_REVISION` commit. Advance that
 pin deliberately when adopting fonts changes, and verify both jobs together.
 The content job fetches the independent Veldikko converter with a sparse
@@ -81,7 +86,7 @@ edited by hand.
 | Calendar               | File          | Kept by                                       |
 | ---------------------- | ------------- | --------------------------------------------- |
 | The Common Calendar    | `commoncal`   | Vylaria and the lands it reaches              |
-| The Khelâthi Calendar  | `khprclndr`   | Aû'Khelâthu                                   |
+| The Khelathi Calendar  | `khprclndr`   | Au'Khelathu                                   |
 | The Tellumi Calendar   | `khzrnclndr`  | The Tellumi cities and the exile Shekhulukhem |
 | The Madustan Count     | `mdstncnt`    | Vedyara                                       |
 | Calendar and Astrology | `clndrstrlgy` | The Empire of Tānvür                          |
@@ -147,6 +152,13 @@ through `publish-cdn.yml`, with `internal` or `cloudflare` selected explicitly.
 Neither site building nor page deployment uploads or fetches missing images.
 See the [publishing guide](docs/publishing.md) for commands, credentials,
 host identity and partial-transfer limits.
+
+Add `ci/preview` to a ready same-repository pull request to build an internal
+preview at `/pr/thalorna/<number>/thalorna/`. The label keeps it refreshed as
+the head changes; removing the label stops refreshes. Closing or merging the
+PR removes its preview. Draft and `WIP:` pull requests do not build previews.
+The [preview publishing guide](docs/publishing.md#preview-a-pull-request)
+describes exact-head status links, manual requests and cleanup.
 
 ### The address is written down once
 

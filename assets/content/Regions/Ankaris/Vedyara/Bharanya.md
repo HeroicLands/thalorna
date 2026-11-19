@@ -38,3 +38,4 @@ The rest is river work: grain out of the reach behind the town, the ferry across
 
 - [[place-mahanodi|The Mahanodi]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-bhrnytemple|The Mahajaya Temple at Bharanya]]—the temple the town serves
+- [[scenario-lastmelka|The Last Melka of Mahaprasoda]]—a scenario set here

@@ -90,6 +90,9 @@ Between about 418 and 425 the Orzas Arzanas founded [[affiliation-tevran|the Tev
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : the empire whose Orzas grants the charter
 
+[[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]
+: a scenario set here
+
 # The Truth of Elissara {#truth .secret}
 
 The charter in the chest behind the presiding chair carries the seal of the last Orzas, not the present one. Every Orzas seals Elissara's charter anew in the first year of his reign, and the copy the city sent up for the reigning Orzas's seal lies in the chancery at Orzara, unsealed and unrefused. Zenothen Linthimis pays a clerk of the chancery every spring to keep it at the bottom of the pile, because he believes the Orzas's councilors would refuse it if it came before them and sell the city to the [[affiliation-provincvld|Province of Salkalon]] for the price of a loan.

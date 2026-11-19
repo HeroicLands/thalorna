@@ -3,7 +3,7 @@ shortcode: argyrteikhos
 name: {full: Argirteikhos}
 type: affiliation
 subType: polity
-description: "Mountain fortress-city of the Bizarian League guarding the eastern passes—silver-mining garrison whose disciplined troops keep the trade routes open and whose ascetic monastic chronicler-tradition is the most serious in the region."
+description: "Mountain fortress city-state of the Bizarian League guarding the eastern passes—silver-mining garrison whose disciplined troops keep the trade routes open and whose ascetic monastic chronicler-tradition is the most serious in the region."
 data:
   templatePriority: null
   demonym: Argirtéikhian
@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: argyrteikhos2
-  population: 1400000
-  territorial_population: 1400000
+  population: 200000
+  territorial_population: 200000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The smallest of the five [[affiliation-byzarianlg|League cities]] pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 35,000 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 1.4 million that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Bizaria]], and that fact settles most of what the other four cities think of it: the League trades in peace because Argirteikhos is ready for war.
+The smallest of the five [[affiliation-byzarianlg|League seats]] pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 5,500 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 200,000 that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Bizaria]], and that fact settles most of what the other four cities think of it: the League trades in peace because Argirteikhos is ready for war.
 
 ## Who Decides
 
@@ -81,7 +81,7 @@ The garrison's work is deterrence. It keeps the mountain routes open for trade a
 
 ## The Monasteries
 
-The monasteries of the eastern rite are especially influential here, and they are the city's chroniclers and healers and its go-betweens with the peoples beyond the passes. One monk of Argirteikhos describes the arrangement to a visitor from the coast: "The garrison keeps the pass. We keep the record of what crosses it, and we are the ones the other side will speak to." The monastic tradition of chronicling here is the most serious in the region, and its ascetic discipline shapes the city's whole austere character.
+The monasteries of the eastern rite are especially influential here, and they are the town's chroniclers and healers and its go-betweens with the peoples beyond the passes. One monk of Argirteikhos describes the arrangement to a visitor from the coast: "The garrison keeps the pass. We keep the record of what crosses it, and we are the ones the other side will speak to." The monastic tradition of chronicling here is the most serious in the region, and its ascetic discipline shapes the town's whole austere character.
 
 ## Standing
 
@@ -95,6 +95,14 @@ Argirteikhos is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]. 
 
 Argirteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Argirteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
+## Current Situation {#present}
+
+The silver of the peaks pays for the pass and the joint army, and the other four cities accept a soldier at the council table because of it. The governor and the Lord Commander of the Eastern March answer to different offices and watch the same road.
+
+## History {#history}
+
+The town held out for two years of siege about 212 AF ([[lore-heladcitadel|the Siege of the Silver Citadel]]), and the imperial _usos_'s office it accepted in the settlement survives as the military governor's seat.
+
 ## See Also
 
 [[affiliation-byzarianlg|Bizarian League]]
@@ -104,7 +112,7 @@ Argirteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / O
 : the League's country
 
 [[place-argyrteikhos2|Argirteikhos]]
-: the citadel city
+: the citadel town
 
 [[place-eastrnmrch|Eastern March]]
 : the frontier district beyond the pass

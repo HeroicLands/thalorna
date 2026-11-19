@@ -29,10 +29,14 @@ data:
   territorial_population: 5000
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [byzarianlg]
   relations: {}
   packFolder: byzaria
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
 The **Council of Selímara** governs the market town of [[place-selimara|Selímara]] on the inland roads of [[place-byzariargn|Bizaria]].
+
+## History {#history}
+
+The council sits under the Bizarian League, whose Compact of the Five dates from about 157 BF and which the Eastern War annexed to the empire about 209 AF. The League's ledgers record the town only as tolls collected.

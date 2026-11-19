@@ -5697,6 +5697,7 @@ data:
     - {name: Dalveshikos Brirorash, tongue: byzarian}
     - {name: Damáklios, tongue: byzarian}
     - {name: Dámasun, tongue: helonic}
+    - {name: Daminea, tongue: helonic}
     - {name: Dekheghash Pilikot, tongue: byzarian}
     - {name: Desuvin Gharazur, tongue: byzarian}
     - {name: Dezhbalea Argirakit, tongue: byzarian}
@@ -5728,6 +5729,7 @@ data:
     - {name: Fileze, tongue: byzarian, built: [fil-, -éze]}
     - {name: Gáberos Khaddaris, tongue: helonic}
     - {name: Gavios, tongue: byzarian}
+    - {name: Ghalirea, tongue: helonic}
     - {name: Gharidos Murades, tongue: helonic}
     - {name: Ghéranira Rafiros, tongue: helonic, built: [ghéran-, -ira, rafir-, -os]}
     - {name: Ghérvanos Gharidís, tongue: helonic, built: [ghérvan-, -os, gharidís]}
@@ -5747,6 +5749,7 @@ data:
     - {name: Guild Master Vokhiásh Loridek, tongue: translation}
     - {name: Guild Master Zhambelina Keramakit, tongue: translation}
     - {name: Habidon Ghanides, tongue: helonic}
+    - {name: Hadrithon, tongue: helonic}
     - {name: Helionis, tongue: helonic}
     - {name: Helionis Adventurer's Guide, tongue: translation}
     - {name: Helionite, tongue: helonic}
@@ -5774,6 +5777,7 @@ data:
     - {name: Incantation Sideris, tongue: translation}
     - {name: Incantation Zefaris, tongue: translation}
     - {name: Jadharos Basiron, tongue: helonic}
+    - {name: Jalimea, tongue: helonic}
     - {name: Jamithon, tongue: bethuan}
     - {name: Júbenos Safithes, tongue: helonic}
     - {name: Júthara, tongue: bethuan}
@@ -5787,7 +5791,9 @@ data:
     - {name: Kepikot, tongue: byzarian, built: [kep-, -íkot]}
     - {name: Kezhvalikos Bolalidek, tongue: byzarian}
     - {name: Kezvunena Nomismakit, tongue: byzarian}
+    - {name: Khaddaria, tongue: helonic}
     - {name: Khalidra, tongue: helonic}
+    - {name: Khasidon, tongue: helonic}
     - {name: Kelilazul Frizipáhr, tongue: byzarian}
     - {name: Kezoton Trosuskar, tongue: byzarian}
     - {name: Krusteikhos, tongue: byzarian, built: [khrish-, téikh-, -os]}
@@ -5866,6 +5872,8 @@ data:
     - {name: Mother Superior Hezogeze Sogipidek, tongue: translation}
     - {name: Mirthana Kervanion, tongue: helonic, built: [mirthan-, -a, kervan-, -ion]}
     - {name: Mirtelos, tongue: helonic}
+    - {name: Mubaria, tongue: helonic}
+    - {name: Nafrithos, tongue: helonic}
     - {name: Naulakit, tongue: byzarian, built: [naul-, -ákit]}
     - {name: Navy of Bethua, tongue: translation}
     - {name: Nesharzát, tongue: byzarian, built: [neshar, -zát]}
@@ -5902,6 +5910,7 @@ data:
     - {name: Raghumon Kregokhash, tongue: byzarian}
     - {name: Pirethos, tongue: helonic, built: [pirethos]}
     - {name: Rakhimea Khalithon, tongue: helonic}
+    - {name: Rakiria, tongue: helonic}
     - {name: Rashira, tongue: bethuan}
     - {name: Ravenswood, tongue: translation}
     - {name: Rhezin Hidalis, tongue: helonic, built: [rhezin, hidalis]}
@@ -5928,6 +5937,7 @@ data:
     - {name: Siderakit, tongue: byzarian, built: [sider-, -ákit]}
     - {name: Sir Zekáz Trosuskar, tongue: translation}
     - {name: Sideris, tongue: helonic, built: [sideris]}
+    - {name: Sufanos, tongue: helonic}
     - {name: The Six Ways, tongue: translation}
     - {name: Sotharion Khalithon, tongue: helonic}
     - {name: Southern March, tongue: translation}
@@ -6054,6 +6064,8 @@ data:
     - {name: Trupazios Dragidek, tongue: byzarian}
     - {name: Tulvazea Melitakit, tongue: byzarian}
     - {name: Tulvazikos Kezhvalzát, tongue: byzarian}
+    - {name: Tumaron, tongue: helonic}
+    - {name: Ussarea, tongue: helonic}
     - {name: Varzanes, tongue: byzarian}
     - {name: Veghekos, tongue: byzarian}
     - {name: Veridon, tongue: byzarian}
@@ -6068,6 +6080,7 @@ data:
     - {name: Yulizehran Kalkakit, tongue: byzarian}
     - {name: Zádimeros Makithon, tongue: helonic}
     - {name: Zapemes, tongue: byzarian}
+    - {name: Zarakia, tongue: helonic}
     - {name: Zekáz Trosuskar, tongue: byzarian}
     - {name: Zevidin Zhevranzát, tongue: byzarian}
     - {name: Zhambelikos Kitvarzát, tongue: byzarian}

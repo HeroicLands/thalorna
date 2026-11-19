@@ -52,3 +52,4 @@ The Guard Camp expects a donative, and the throne has no cash. The old Orzas, [[
 - [[affiliation-citywatchorz|The City Watch]]—the legions' branch that polices the city below the hill
 - [[place-orzara|Orzara]]
 - [[scenario-prmsndcoin|The Promise and the Coin]]—a scenario of the donative and the watch-captains
+- [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]—a scenario set here

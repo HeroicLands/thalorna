@@ -29,7 +29,7 @@ Each spring he sends the chancery at [[place-orzara|Orzara]] a report of the pas
 
 ## The Present {#present}
 
-His heir refuses to take the commission without the chancery's confirmation. Kalmethar needs an answer while he is alive to receive it. The Bizarian League and the Helionite cities want the fort, and their envoys have reason to keep the report from reaching Orzara.
+His heir refuses to take the commission without the chancery's confirmation. Kalmethar needs an answer while he is alive to receive it. The Bizarian League and the Helionite city-states want the fort, and their envoys have reason to keep the report from reaching Orzara.
 
 ## Meeting Him
 

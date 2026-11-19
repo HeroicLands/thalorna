@@ -58,3 +58,6 @@ The query names the settlements of the chain. A merchant colony is a quarter of 
 
 [[skill-vedyarlng|Vedyari]]
 : the language and its Eastern Outlier dialect
+
+[[scenario-seasonbar|The Season Over the Bar]]
+: a scenario set here

@@ -121,55 +121,55 @@ I will not shut the window till 'tis out.
 :::
 
 ::: {.verse form=lament lang=aelw enc=aelwsemaronenc work=naming}
-The kandle is set. Judge, here is the light./
+The kandle is set. Jòj, here is the lait./
 This is the first night, and shut is everi door,/
-And thine is shut, and all thi temple dark./
+And dhain is shut, and all dhai temple dark./
 Onli the windows down the street ben lit,/
 And everi window hath a woman in it,/
-And everi woman hath her names to sai./
-Here ben mi names, Judge. Slow I sai them now.
+And everi woman hath her names to sei./
+Here ben mi names, Jòj. Slow I sei them nau.
 
-The first is Mildwald. He was mi husband./
-He rode out with the watch at kandlelight/
-The night the fires were seen among the trees./
-He took his bill down from above the door/
-And said, «Keep up the fire‼» And I kept it./
-That night I kept it, and the nekst night too,/
-And all that winter long. He kame not home./
+The first is Mildwald. Hii was mi husband./
+Hii rode out with the wàch at kandlelight/
+The night the fires were siin among the triiz./
+Hii took his bill down from above the door/
+And sed, «Keep up the fire‼» And I kept it./
+That night I kept it, and the nekst night tuu,/
+And all that winter long. Hii kame not home./
 Naught of him kame. The horseses traks thei found,/
 And where the traks went in, and none kame out./
-There is no bodi, Judge. There is no grave./
-I kannot bring him to thi gatees mouth,/
-Nor wash him, nor sit bi him, nor give him rites./
-His name I have. I give thee that. Take it‼/
+There is no bodi, Jòj. There is no grave./
+I kannot bring him to dhai gatees mouth,/
+Nor wash him, nor sìt bi him, nor give him rites./
+His name I have. I give dhii that. Take it‼/
 Mildwald. Mildwald of Ashwold. Take him bi it‼
 
-The sekond is Osrun. She was his mother./
-When we went down she would not kome with us./
-She said, «Beneath this roof I was a bride,/
-And a korse beneath it I will be, then./
+The sekond is Osrun. Shii was his mother./
+When we went down shii would not kome with us./
+Shii sed, «Beneath this roof I was a bride,/
+And a korse beneath it I will bii, then./
 I have outlived the man that kut the beams./
-The beams I will not now outlive. Go down‼»/
-She sat down at the hearth and turned her bak,/
+The beams I will not nau outlive. Go down‼»/
+Shii sat down at the hearth and turned her bak,/
 And we went down, and in the spring it burned./
-From here we saw the smoke. She would not kome./
+From here we saw the smoke. Shii would not kome./
 Osrun. Osrun of Ashwold. Take her bi it‼
 
-The third is Wilwin. He was mi son./
-Fourteen he was, and of his fatheres height./
-He said, «I will go up and look for him.»/
-And I said, «There is naught there to find.»/
-And he said, «Then I will find the naught, mother,/
-And kome home and tell thee where it is.»/
-Up to the woodes edge he went in spring,/
-Before the light, and he went in, and stayed./
-I know not that he is dead. I sai it/
+The third is Wilwin. Hii was mi son./
+Fourteen hii was, and of his fatheres height./
+Hii sed, «I will go up and lùk for him.»/
+And I sed, «There is naught there to find.»/
+And hii sed, «Then I will find the naught, mother,/
+And kome home and tell dhii where it is.»/
+Up to the woodes edge hii went in spring,/
+Before the lait, and hii went in, and steid./
+I kno not that hii is dead. I sei it/
 Bekause the kandle wanteth all the names./
 Wilwin. Wilwin of Ashwold. Take him bi it‼
 
 The fourth is Ashwold, and it was our house./
-It is no name for thee, Judge. It never died./
-Yet I will sai it, for none else will sai it./
+It is no name for dhii, Jòj. It never died./
+Yet I will sei it, for none else will sei it./
 Where is the ash that stood above the door?/
 The wood hath it. Where is the door? The wood./
 Where is the hearth that Osrun kept so long?/
@@ -183,31 +183,31 @@ The pot, the hook, the kradle of mi son?/
 The wood hath all of it, and asketh more./
 Ashwold. Ashwold in the march. I name it.
 
-Now hear what the steward hath of all of these‼/
-The spring we kame down, he wrote it in his book,/
+Nau hear what the steward hath of all of dhiiz‼/
+The spring we kame down, hii wrote it in his book,/
 «Four steadings lost at the woodes edge this year,/
-And of the watch, siks men.» And that was all./
-One line. I made him read it me. One line./
-He said, «Good woman, it is everi year./
+And of the wàch, siks men.» And that was all./
+One lain. I meid him read it mii. One lain./
+Hii sed, «Good woman, it is everi year./
 It is the march. The book is full of them.»/
-I know the book is full. I said the names./
-He wrote them not. He hath no room for names./
-I have the room. I have the window, Judge,/
+I kno the book is full. I sed the names./
+Hii wrote them not. Hii hath no room for names./
+I have the room. I have the window, Jòj,/
 And the blak kandle, and the night, and this.
 
-Kome here, mi girl‼ Stand bi me at the sill‼/
-Thou hast heard the names. Now sai them after me‼/
+Kome here, mi girl‼ Stand bi mii at the sill‼/
+Dhau hast heard the names. Nau sei them after mii‼/
 Mildwald. Osrun. Wilwin. And the house./
-Again‼ And slower‼ So. Thou hast them now./
-When I am in the stewardes book, a line,/
-Thou shalt stand here, and set the kandle up,/
-And sai them, and sai mine after Wilwines,/
-And give them to thi daughter at the sill./
+Again‼ And slower‼ So. Dhau hast them nau./
+When I am in the stewardes book, a lain,/
+Dhau shalt stand here, and set the kandle up,/
+And sei them, and sei main after Wilwines,/
+And give them to dhai daughter at the sill./
 While yet a window standeth in the march/
 And a woman in it, thei ben not in the wood./
-The wood hath all the rest. It hath not these.
+The wood hath all the rest. It hath not dhiiz.
 
-The kandle burneth. Judge, I have said them all./
+The kandle burneth. Jòj, I have sed them all./
 Take them bi the names‼ I have naught else./
 I will not shut the window till it is out.
 :::

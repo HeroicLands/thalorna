@@ -3,7 +3,7 @@ shortcode: amradadrgn
 name: {full: Amradad Region}
 type: place
 subType: region
-description: The settled north-western corner of the Dunhara, on the eastern shore of the Vilérian Sea—walled cities, their oases, and the caravan routes that link them, held by the Kingdom of Amradad.
+description: "The settled north-western country of the Dunhara, on the eastern shore of the Vilérian Sea: two walled cities and their towns, the oases and wadi villages that feed them, and the caravan roads that link them, held by the Kingdom of Amradad."
 tags: [region]
 data:
   demonym: Amradi
@@ -15,9 +15,12 @@ data:
     - {to: vylarianse, bearing: W}
     - {to: taruzelrgn, bearing: W}
     - {to: zupumun, bearing: W}
+    - {to: byzariargn, bearing: N}
+    - {to: dunhardsrtrgn, bearing: SE}
+    - {to: southrnmrch, bearing: N}
   routes:
-    - {to: qudumel2, bearing: W, mode: ship, days: 1, terrain: [open-sea]}
-    - {to: pashinar, bearing: W, mode: ship, days: 1, terrain: [open-sea]}
+    - {to: southrnmrch, bearing: N, mode: land, days: 10, terrain: [hills, road]}
+    - {to: eastrnmrch, bearing: N, mode: land, days: 20, terrain: [hills, road]}
   population: 2000000
   packFolder: amradad
   government: kngdmmrdd
@@ -25,38 +28,58 @@ data:
 
 ## Overview {#overview}
 
-A caravan coming out of the open desert sees Amradad first as a line of green on the horizon and then as a wall: the first city of Amradad, the settled northwestern corner of the [[place-dunharargn|Dunhara Region]] and the country of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the only part of the Dunhara held by a realm with fixed borders, a standing army and a court. Its share of the desert's wealth is far larger than its share of the land: walled cities, the oases that feed them, the caravan roads that join them, and the ports of its coast.
+Amradad is the settled country of the [[place-dunharargn|Dunhara Region]], the one part of the desert held by a realm with fixed borders, a standing army and a court, and the place where the caravan roads of the interior come down to the sea. A caravan coming out of the open desert sees it first as a line of green on the horizon and then as a wall: the first walled town of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. Its share of the desert's wealth is far larger than its share of the land: two cities and their walled towns, the oases and wadi villages that feed them, the caravan roads that join them, and the one port on its coast.
 
-## Geography
+## The Land {#the-land}
 
-The region runs from the eastern shore of the [[place-vylarianse|Vilérian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Bizaria Region]] of the [[affiliation-byzarianlg|Bizarian League]] lies along its northern border, the islands of [[place-taruzelrgn|Taruzel]] across the strait to the west, and its southern edge reaches toward [[place-aukhelathrgq|Au'Khelathu]].
+The region runs from the eastern shore of the [[place-vylarianse|Vilérian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Bizaria Region]] of the [[affiliation-byzarianlg|Bizarian League]] lies along its northern border, the islands of [[place-taruzelrgn|Taruzel]] across the strait to the west, and its southern edge gives onto the open desert of the [[place-dunhardsrtrgn|Dunhara Desert]].
 
-This is the desert's wettest margin, which is not saying much. A thin winter rain falls here that the deep south never sees, enough for herding on dry pasture and a narrow belt of grass that greens for a season. Settlement follows the water: the permanent oases, which the cities stand on, and the wadis that run after the winter rains, along which the farming villages string out their fields and orchards.
+This is the desert's wettest margin, which is not saying much. A thin winter rain falls here that the deep south never sees, enough for herding on dry pasture and a narrow belt of grass that greens for a season. Settlement follows the water: the permanent oases, which the cities and the larger towns stand on, and the wadis that run after the winter rains, along which the farming villages string out their fields and orchards.
+
+## Peoples {#peoples}
+
+The Amradi are of Dunhari blood and still count themselves part of the wider Dunhari world, but centuries in walled cities have carried them a long way from their cousins of the tents. They keep the [[affiliation-ashanpnthn|Ashaian Pantheon]] shared across the desert, and here, unlike the open desert, the faith has temples: fire-temples in every city and town, with priestly scholars who set the standard of Ashaian learning. Their court culture is modeled on the old cities of that faith. The [[affiliation-dunhartrbs|tribes of the open desert]] admire their wealth and despise the softness they hold settlement to bring, and the Amradi think the tribes magnificent and impossible.
+
+Most Amradi never live behind a wall. The towns and the two cities hold a small part of the people; the rest live in the oasis villages, along the wadis and in the herders' camps of the dry pasture, and come to a town to sell, to pray at a great temple or to stand before a judge.
+
+The [[affiliation-khzrncnfdrtn|Tellumi]] are the region's other settled people. Four of their princely houses keep their courts in exile at [[place-shebarakhend|Shebarakhend]], and their merchant-houses carry a large share of the Kingdom's trade across the strait.
+
+## Who Holds It {#who-holds-it}
+
+A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the ministers of his divans, and a governor (_tagemader_) in every city, town and oasis. His rule is close along the coast, at the oases and on the caravan roads, and it thins with every day's ride inland; his influence runs beyond his frontiers through trade and through marriages with the sheikhs' houses. Across the strait the Kingdom is on warm terms with [[affiliation-cnfdrtntrzlnstts|Taruzel]], which it helped win its freedom from the [[affiliation-vylarinmpr|Vilérian Empire]], a power with which its own relations are hostile.
 
 ## Places {#places}
 
 [[place-shebarakhend|Shebarakhend]]
-: the oasis city of the Shebarader's court
+: the oasis city of the Shebarader's court, the Great Fire-Temple and the Tellumi exile courts
 
 [[place-tahrodan|Tahrodan]]
-: the fortress city on the caravan road, largest in the realm
+: the toll fortress at the crossroads of the caravan roads, largest in the realm
 
 [[place-qarvelakhend|Qarvelakhend]]
-: a walled city of the oases
+: the walled town on the edge of the open desert, where the Kingdom trades with the tribes and keeps its southern host
 
-[[place-tazhinakhend|Tazhinakhend]] and [[place-venzelakhend|Venzelakhend]]
-: market towns of the caravan roads
+[[place-valmakhend|Valmakhend]]
+: the port, where the ferries cross to Taruzel
+
+[[place-tazhinakhend|Tazhinakhend]]
+: the threshing town of the wadi fields, a granary of the court
+
+[[place-venzelakhend|Venzelakhend]]
+: the oil-pressing town whose oil burns in the fire-temples
 
 [[place-sorvadakhend|Sorvadakhend]]
-: a farming settlement whose elders keep an astrologer
+: a farming town whose elders keep an astrologer
 
-## Peoples and Culture
+## Current Situation {#present}
 
-The Amradi are of Dunhari blood and still count themselves part of the wider Dunhari world, but centuries in walled cities have carried them a long way from their cousins of the tents. They keep the [[affiliation-ashanpnthn|Ashaian Pantheon]] shared across the desert, and here, unlike the open desert, the faith has temples: great fire-temples in every city, with priestly scholars who set the standard of Ashaian learning. Their court culture is modeled on the old cities of that faith. The [[affiliation-dunhartrbs|tribes of the open desert]] admire their wealth and despise the softness they hold settlement to bring, and the Amradi think the tribes magnificent and impossible.
+Two quarrels run through the country, and both are the Kingdom's to manage. In Shebarakhend the Tellumi exile houses spend more on their courts than the court's great houses can, and press the Shebarader for privileges that the great houses, who hold their standing only by his grant, want refused. On the desert edge Amradi grain and iron buy the tribes' herds and escorts, old blood-debts keep some tribes hostile, and a herd treaty is only as good as the tribe that keeps it. Qarvelakhend, where the herds come in, feels a broken one first.
 
-## Power
+## Roads and Trade {#roads-and-trade}
 
-A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the ministers of his divans, and a governor (_tagemader_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Kingdom is on warm terms with [[affiliation-cnfdrtntrzlnstts|Taruzel]], which it helped win its freedom from the [[affiliation-vylarinmpr|Vilérian Empire]], a power with which its own relations have long been hostile.
+The caravan roads from Bizaria, from [[place-vedyarargn|Vedyara]] by [[place-marchroad|the March Road]] and from the [[place-khzryndsrtrgn|Khazrin]] meet at Tahrodan, pay their toll there and go down to Valmakhend and the ferries. The tolls are the Kingdom's great revenue, and much of the toll silver is spent at once on grain: the wagons of the March Road bring Vedyaran grain and salt, and Amradi drovers go north into the [[place-southrnmrch|Southern March]] to buy sheep. The wadi villages feed the towns they stand nearest, the oases give the cities their fruit and fodder, and the two cities eat more grain than their own ground grows.
+
+What Amradad sends out is less than what passes through it. Dates, oil, wool and the Tellumi houses' books, instruments and date wine cross the strait; grain, iron and worked goods go out to the tribes in exchange for herds and escorts.
 
 ## See Also {#see-also}
 
@@ -67,7 +90,10 @@ A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the 
 : the realm that holds this region
 
 [[place-dunhardsrtrgn|Dunhara Desert Region]]
-: the open desert beyond the cities
+: the open desert beyond the towns
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the islands across the strait
+
+[[affiliation-khzrncnfdrtn|Tellumi Confederation]]
+: the princely houses whose exile courts sit in Shebarakhend

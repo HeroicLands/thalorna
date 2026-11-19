@@ -59,3 +59,5 @@ The hills have more visitors than they want. The outlaws of Keravel Vale shelter
 - [[weapongear-gashangmaul|The Maul of Gashang]]—the relic the cave keeps, and [[scenario-maulgashng|the adventure at its shrine]]
 - [[place-ceravelvale|Keravel Vale]]
 - [[lore-bloodfield|Blood-fields]]—what a dread is
+- [[scenario-bldshscrvlvl|Blood and Ashes in Keravel Vale]]—a scenario set here
+- [[scenario-firsbldhls|The Fires of the Blood Hills]]—a scenario set here

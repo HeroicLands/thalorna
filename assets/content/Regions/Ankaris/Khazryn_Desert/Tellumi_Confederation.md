@@ -71,7 +71,7 @@ data:
   economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
   lore: [humanflk]
   parents: []
-  relations: {ashanpnthn: aligned, tribestrzd: nemesis, kngdmmrdd: aligned}
+  relations: {ashanpnthn: aligned, tribestrzd: nemesis, kngdmmrdd: aligned, dunhartrbs: unaligned}
   packFolder: khazryndesert
 sohl: {system: {commonSkills: [tellumilng]}}
 

@@ -62,18 +62,18 @@ And tell the yard what thou art, and hast been.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-room}
-Room, room, good people, give us room to plai‼/
-We ben kome down out of the march todai./
-We drove the beasts, we paid the bridge his toll,/
-And now we plai, an ye will fill the bowl./
-This is the fair a man mai lawful strai/
-Far from his manor, and none saith him nai./
-So stand ye bak‼ And ye shall see one bold/
+Room, room, good people, give us room to plei‼/
+We ben kome down out of the march tòdéi./
+We drove the beasts, we peid the bridge his toll,/
+And nau we plei, an ye will fill the bowl./
+This is the fair a man mei lawful strei/
+Far from his manor, and none seith him nei./
+So stand ye bak‼ And ye shall sii one bold/
 As ever drove a wether to the fold./
-I am Old Talli, that do keep the skore,/
+I am Old Talli, that duu keep the skore,/
 A notch for everi beast, and one notch more./
-Step in, thou Hildrik, let thiself be seen,/
-And tell the yard what thou art, and hast been‼
+Step in, dhau Hildrik, let dhaisélf bii siin,/
+And tell the yard what dhau art, and hast biin‼
 :::
 
 _Hildrik comes in with a wooden sword and a shield of hide._
@@ -108,8 +108,8 @@ Wherever forest meeteth with the field,/
 There have I stood, with this mi bill and shield./
 Wherever steadings burned, there have I stood,/
 And never yet went bakward from the wood./
-Show me the beast that dareth bid me stand,/
-And I will hew him down with this right hand‼
+Show mii the beast that dareth bid mii stand,/
+And I will hew him down with this rait hand‼
 :::
 
 **Old Tally.** Here's one out of the trees, then. Mind your purses.
@@ -122,9 +122,9 @@ _The Grukar comes in from the back of the yard, through the crowd, growling._
 
 Old Talli.
 
-Here is one out of the trees, then. Mind your purses‼
+Here is one out of the triiz, then. Mind your purses‼
 
-[(]{lang=zxx}The Grukar kometh in from the bak of the yard, through the krowd, growling.[)]{lang=zxx}
+[(]{lang=zxx}The Grukar kometh in from the bak of the yard, thruu the krowd, growling.[)]{lang=zxx}
 
 The Grukar.
 
@@ -144,10 +144,10 @@ And every one shall scratch upon thy door.
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-boast}
 Here kome I, out of the forest dun,/
 An Ahk of the Grukar, and I fear none./
-Rats in thi granari, so dost thou sai?/
-Whi, then I am the rat that kame to stai./
+Rats in dhai granari, so dòst dhau sei?/
+Whi, then I am the rat that kame to stei./
 Mi sons ben twenti, and mi daughters more,/
-And everi one shall skratch upon thi door.
+And everi one shall skratch upon dhai door.
 :::
 
 **Hildrik.**
@@ -165,7 +165,7 @@ I've slain of thine a hundred in a year.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-slain}
-I have slain of thine a hundred in a year.
+I have slein of dhain a hundred in a year.
 :::
 
 **The Grukar.**
@@ -201,7 +201,7 @@ I'll burn thy den, and drive thee to the fells.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-threat}
-I will burn thi den, and drive thee to the fells.
+I will burn dhai den, and drive dhii to the fells.
 :::
 
 **The Grukar.**
@@ -221,9 +221,9 @@ And every wood thy plough hath passed before.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-lands}
-The fells ben mine, and all the moor that swells/
+The fells ben main, and all the moor that swells/
 Beyond them, and the bog that hath no floor,/
-And everi wood thi plough hath passed before.
+And everi wood dhai plough hath passed before.
 :::
 
 **Hildrik.**
@@ -241,7 +241,7 @@ The king shall come against thee with his host.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-king}
-The king shall kome against thee with his host.
+The kìng shall kome against dhii with his host.
 :::
 
 **The Grukar.**
@@ -263,11 +263,11 @@ And twelve times I was here the following day.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=twelve-campaigns}
-Thi king hath kome, and made a mighti boast,/
-And kome against me twelve times, oer and oer,/
+Dhai kìng hath kome, and meid a mighti boast,/
+And kome against mii twelve taimz, oer and oer,/
 With drum and banner, horse and foot and more./
-Twelve times he won, so doth his rekord sai,/
-And twelve times I was here the following dai.
+Twelve taimz hii won, so dòth his rekord sei,/
+And twelve taimz I was here the following dei.
 :::
 
 **Hildrik.**
@@ -285,7 +285,7 @@ Then I will do what twelve kings could not do.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-challenge}
-Then I will do what twelve kings kould not do.
+Then I will duu what twelve kìngs kould not duu.
 :::
 
 **The Grukar.**
@@ -303,7 +303,7 @@ Come on, then, champion, and I'll run thee through.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-challenge}
-Kome on, then, champion, and I will run thee through‼
+Kome on, then, champion, and I will run dhii thruu‼
 :::
 
 _They fight, three passes up and down the ring, the yard shouting for Hildrik. On the third the Grukar strikes him down._
@@ -329,9 +329,9 @@ This man of hurt, and make his footing sure.
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-doctor}
 Alak, alak, our champion is down!/
-Is there a doktor to be had in town?/
+Is there a doktor to bii had in town?/
 Ten Bits to eni doktor that kan kure/
-This man of hurt, and make his footing sure.
+This man of hurt, and meik his footing sure.
 :::
 
 **The Doctor.** _Outside the ring._ Ten Bits? I come not out for ten Bits.
@@ -346,7 +346,7 @@ The Doktor.
 
 [(]{lang=zxx}Outside the ring.[)]{lang=zxx}
 
-Saist thou ten Bits? I kome not out for ten Bits.
+Seist dhau ten Bits? I kome not out for ten Bits.
 
 Old Talli.
 
@@ -354,9 +354,9 @@ Twenti, then.
 
 The Doktor.
 
-For twenti Bits I will put mi head in.
+For twenti Bits I will pùt mi hed in.
 
-[(]{lang=zxx}He kometh in, in a long blak gown and a hat, karrying a bottle.[)]{lang=zxx}
+[(]{lang=zxx}Hii kometh in, in a long blak gown and a hàt, karrying a bottle.[)]{lang=zxx}
 
 :::
 
@@ -376,8 +376,8 @@ A tooth as easy as a wisp of straw.
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=doctor-learning}
 Here kome I, the Doktor, that was bred/
 At Ravenmoor, where all the books ben read./
-I have mi learning in a tongue so fine/
-Ye kould not kon a word of it, nor line./
+I have mi learning in a tongue so fain/
+Ye kould not kon a word of it, nor lain./
 I kure the gout, the ague and the stone,/
 The pip, the palsi, and the aching bone./
 I set a leg, I let a vein, I draw/
@@ -412,7 +412,7 @@ _The ale-wife comes in, with a jug and a cup._
 
 Old Talli.
 
-What is thi fee, Doktor?
+What is dhai fee, Doktor?
 
 The Doktor.
 
@@ -424,9 +424,9 @@ An Solden! There is not an Solden in this yard, nor in this town, saving the bri
 
 The Doktor.
 
-I will take the turnip in part of paiment. Stand bak, now‼ Here is phisik.
+I will take the turnip in part of peiment. Stand bak, nau‼ Here is phisik.
 
-[(]{lang=zxx}He kneeleth bi Hildrik and speaketh over him, veri grand.[)]{lang=zxx}
+[(]{lang=zxx}Hii kneeleth bi Hildrik and speaketh over him, veri grand.[)]{lang=zxx}
 
 [Shalor en kir a thel.]{lang="elav"}
 
@@ -436,9 +436,9 @@ What is that, Doktor?
 
 The Doktor.
 
-That is the kourt tongue, and it is a charm against all hurts whatsoever, and it signifieth, in thi plain speech. Pai the doktor.
+That is the kourt tongue, and it is a charm against all hurts whatsoever, and it signifieth, in dhai plain speech. Pei the doktor.
 
-[(]{lang=zxx}He poureth from the bottle into Hildrikes mouth.[)]{lang=zxx}
+[(]{lang=zxx}Hii poureth from the bottle into Hildrikes mouth.[)]{lang=zxx}
 
 Hildrik, arise‼
 
@@ -452,13 +452,13 @@ Old Talli.
 
 [(]{lang=zxx}Seizing his arm.[)]{lang=zxx}
 
-Hold, hold‼ Saist thou it will raise the dead? Wilt thou have the Silent Judge on the whole yard? There is no man here will stand beside thee when the blak priests komen asking. Put it up‼ Doktor, put it up‼
+Hold, hold‼ Seist dhau it will raise the dead? Wilt dhau have the Silent Jòj on the whole yard? There is no man here will stand beside dhii when the blak priests komen asking. Pùt it up‼ Doktor, pùt it up‼
 
 The Doktor.
 
-Then I kannot help him, for he is dead, and mi fee is the same.
+Then I kannot help him, for hii is dead, and mi fee is the same.
 
-[(]{lang=zxx}He goeth out with the turnip.[)]{lang=zxx}
+[(]{lang=zxx}Hii goeth out with the turnip.[)]{lang=zxx}
 
 [(]{lang=zxx}The ale wife kometh in, with a jug and a kup.[)]{lang=zxx}
 
@@ -476,10 +476,10 @@ Get up, thou lubber, here's thy cup. Drink right.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=alewife-cure}
-Dead? He is not dead. I knew him forti year./
-He dieth never. Onli he laketh beer./
-The Judge hath not him yet, nor shall tonight./
-Up, thou lubber‼ Here is thi kup. Drink right‼
+Dead? Hii is not dead. I knuu him forti year./
+Hii dieth never. Onli hii laketh beer./
+The Jòj hath not him yet, nor shall tònáit./
+Up, dhau lubber‼ Here is dhai kup. Drink rait‼
 :::
 
 _She gives him the cup. Hildrik sits up, drinks, and stands._
@@ -488,7 +488,7 @@ _She gives him the cup. Hildrik sits up, drinks, and stands._
 
 ::: {lang=aelw font=serif}
 
-[(]{lang=zxx}She giveth him the kup. Hildrik sitteth up, drinketh, and standeth.[)]{lang=zxx}
+[(]{lang=zxx}Shii giveth him the kup. Hildrik sìteth up, drinketh, and standeth.[)]{lang=zxx}
 
 Hildrik.
 
@@ -505,9 +505,9 @@ And looked on me, and turned away his cheek.
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-dream}
 Good morrow, gentles. Is the Grukar fled?/
-I dreamt I lai a long while with the dead,/
+I dreamt I lei a long while with the dead,/
 And one stood at a gate, and would not speak,/
-And looked on me, and turned awai his cheek.
+And lùkt on mii, and turned awai his cheek.
 :::
 
 **The Ale-wife.** That's the Judge, and he'll not have thee till thy day. Up and at it.
@@ -518,7 +518,7 @@ And looked on me, and turned awai his cheek.
 
 The Ale wife.
 
-That is the Judge, and he will not have thee till thi dai. Up and at it‼
+That is the Jòj, and hii will not have dhii till dhai dei. Up and at it‼
 
 Hildrik.
 
@@ -531,7 +531,7 @@ Then come again, thou Ahk, and try thy luck.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildrik-bout}
-Then kome again, thou Ahk, and tri thi luk‼
+Then kome again, dhau Ahk, and tri dhai luk‼
 :::
 
 **The Grukar.**
@@ -549,7 +549,7 @@ I'll try it, and thou'lt lie where first thou struck.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-answer}
-I will, and thou shalt lie where first thou struk.
+I will, and dhau shalt lie where first dhau struk.
 :::
 
 _They fight again. Hildrik strikes the Grukar down, and the yard cheers._
@@ -582,7 +582,7 @@ _The Grukar's fleece is pulled off him. Under it he wears a second fleece, also 
 
 ::: {lang=aelw font=serif}
 
-[(]{lang=zxx}The Grukares fleese is pulled off him. Under it he weareth a sekond fleese, also turned, and he getteth up.[)]{lang=zxx}
+[(]{lang=zxx}The Grukares fleese is pulled off him. Under it hii weareth a sekond fleese, also turned, and hii getteth up.[)]{lang=zxx}
 
 The Grukar.
 
@@ -597,7 +597,7 @@ And there's a brother after me to come.
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=grukar-son}
 Here kome I, that am the Grukares son,/
-And there is a brother after me to kome.
+And there is a brother after mii to kome.
 :::
 
 **Old Tally.**
@@ -617,7 +617,7 @@ And as they have been, and they will be there.
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=fight-goes-on}
 Whi, then, we leaven them fighting as thei were,/
-And as thei haven been, and thei will be there.
+And as thei haven biin, and thei will bii there.
 :::
 
 **Hildrik.**
@@ -640,11 +640,11 @@ Fill up the bowl, ye gentles, an ye would.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=hildriks-day}
-I know mi dai. One morning I shall go/
-Into the wood, and not kome out, I know./
-The steward in his book shall write a line,/
-And give mi strip unto that son of mine./
-But that is not now, and this is not the wood./
+I kno mi dei. One morning I shall go/
+Into the wood, and not kome out, I kno./
+The steward in his book shall rait a lain,/
+And give mi strip unto that son of main./
+But that is not nau, and this is not the wood./
 Fill up the bowl, ye gentles, an ye would‼
 :::
 
@@ -654,7 +654,7 @@ Fill up the bowl, ye gentles, an ye would‼
 
 Old Talli.
 
-[(]{lang=zxx}Going round the yard with the bowl.[)]{lang=zxx}
+[(]{lang=zxx}Goìng round the yard with the bowl.[)]{lang=zxx}
 
 :::
 
@@ -668,17 +668,17 @@ And [[affiliation-arldnpnthn|the Twelve]] keep you till we play once more.
 :::
 
 ::: {.verse form=mummers-play lang=aelw enc=aelwsemaronenc work=tally-collection}
-Put in your Bits, and put your Argos in‼/
+Pùt in your Bits, and pùt your Argos in‼/
 And if ye haven Soldeni, that were no sin./
 A notch for everi koin, and one notch more,/
-And the Twelve keepen you till we plai onse more.
+And the Twelve keepen you till we plei onse more.
 :::
 
 _The players go out singing, the Grukar and the Grukar's son behind them, still fighting with Hildrik through the gate of the yard._
 
 ::: {lang=aelw font=serif}
 
-[(]{lang=zxx}The players goen out singing, the Grukar and the Grukares son behind them, still fighting with Hildrik through the gate of the yard.[)]{lang=zxx}
+[(]{lang=zxx}The pleiers goen out sìngìng, the Grukar and the Grukares son behind them, still fighting with Hildrik thruu the gate of the yard.[)]{lang=zxx}
 
 :::
 

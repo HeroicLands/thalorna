@@ -6133,6 +6133,7 @@ data:
     - {name: torvash, tongue: dunhari}
     - {name: Truce-Warden, tongue: translation}
     - {name: vadukesh, tongue: dunhari, built: [vaduk-, -esh]}
+    - {name: valmakhend, tongue: dunhari}
     - {name: vashkader, tongue: dunhari, built: [vashk-, -ader]}
     - {name: vazhmader, tongue: dunhari, built: [vazhm-, -ader]}
     - {name: venrad, tongue: dunhari}

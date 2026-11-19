@@ -51,3 +51,6 @@ The Old Hill is let by the room and asked about by the curious. The [[affiliatio
 
 [[lore-greatburnng|The Great Burning]]
 : the fire that emptied it
+
+[[scenario-prmsndcoin|The Promise and the Coin]]
+: a scenario set here

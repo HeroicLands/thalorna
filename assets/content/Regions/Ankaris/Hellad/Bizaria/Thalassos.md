@@ -23,7 +23,9 @@ Thálassos—the name drawn directly from the word for "sea" in the [[skill-byza
 
 ## The Waterfront
 
-The town's character is rough and maritime. Dockworkers, sailors, merchant factors and captains of small trading vessels crowd the taverns and lodging houses near the waterfront, and deals are made quickly, fortunes are gambled and discretion is prized. Independent merchants and sea captains who will not navigate the complex politics and guild hierarchies of the larger League cities come here, which makes Thálassos a natural port for a ship that wants privacy or wants to avoid official oversight. The harbor has adequate ship-repair facilities and supply warehouses.
+The town's character is rough and maritime. Dockworkers, sailors, merchant factors and captains of small trading vessels crowd the taverns and lodging houses near the waterfront, and deals are made quickly, fortunes are gambled and discretion is prized. Independent merchants and sea captains who will not navigate the complex politics and guild hierarchies of the League's larger ports come here, which makes Thálassos a natural port for a ship that wants privacy or wants to avoid official oversight. The harbor has adequate ship-repair facilities and supply warehouses.
+
+Thálassos lives on the coasting trade and buys its bread from the olive and vine villages of the hills behind it. It sells storm shelter, ship repair and warehouse space to the ships that put in, and the coin those ships leave pays for the grain.
 
 ## The Shrine
 

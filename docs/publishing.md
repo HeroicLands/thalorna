@@ -44,6 +44,15 @@ The site build runs with `NODE_OPTIONS=--max-old-space-size=6144`, which caps
 the V8 old-space heap of the build process at 6 GiB; it does not cap the
 process's total memory. To build locally with the same limit, run
 `NODE_OPTIONS=--max-old-space-size=6144 node_modules/.bin/package-build site build --root <root>`.
+The build step carries an explicit `--max-old-space-size` limit; the limit is
+not derived from a measured peak. Before raising it, measure the peak resident
+memory (RSS) of the site build on a manual run, and the aggregate RSS of the
+builds that can overlap: the internal and public site builds, and the lint and
+build runners that share one memory slice. Keep the sum of the per-process caps
+that can run concurrently within that slice with headroom. The slice size is
+recorded in the runner records under `infrastructure/systems/`. Raise the limit
+in `deploy-site.yml`, and the value the publishing fixtures require, in the same
+change as that evidence.
 The build job has no SSH, Cloudflare or R2 deployment secrets, and only the
 `public` job receives the Cloudflare credentials. The build verifies the package
 prefix, nonempty landing/404/root headers and at least 1,001 index pages. Root
@@ -115,6 +124,80 @@ The [shared publishing contract](https://git.pupluppy.org/HeroicLands/.github/sr
 describes artifact validation, pinned host identity, monotonic history checks
 and failure behavior in full. Authentication and live receiver behavior are
 verified by deployment CI, beyond these local fixtures.
+
+## Preview a pull request
+
+Add `ci/preview` to a ready pull request in this repository to request an internal
+preview. A labeled PR refreshes when its head changes or it reopens. A `WIP:`
+title or draft state prevents the build. Removing the label stops refreshes and
+keeps the published pages until the PR closes. Fork previews have an explicit
+unsupported status without failing an unrequested preview.
+
+The trusted `pr-preview.yml` controller reads current PR identity from Gitea.
+Its target-event workflow and script come from the base revision; the event's
+PR head identifies the content. Only adding the preview label requests an
+initial build: Gitea's native `label_updated` action also covers removals.
+Manual publication and cleanup dispatch only from `main`; branch and tag
+dispatches stop before the controller checks out or executes repository code.
+The manually dispatched `publish` operation accepts a PR number and full head
+SHA and applies the same current-state, label, draft and head checks.
+
+The shared build workflow receives no forwarded secrets. It checks out and
+verifies the exact PR head in a 4 GiB container, installs the normal
+lockfile dependencies and builds with `--root internal.heroiclands.org` and
+`--base-url https://www.internal.heroiclands.org/pr/thalorna/<number>/thalorna/`.
+Its Node heap limit is 3072 MiB and its timeout is 30 minutes. The shared helper
+validates the nested tree and stages its package files into a normalized pages
+artifact. The main/public selector and payload validator serve their ordinary
+package paths; preview staging uses the shared nested-path validator.
+
+The build returns its upload's artifact ID. Publication receives that exact ID,
+checks its name and current run, and validates its bounded contents before
+using the deployment key. Deployment calls grant `contents: write` for commit
+statuses and `actions: read` for artifact access; build calls grant only
+`contents: read` and omit a secrets mapping.
+
+Eligible builds share a concurrency group for their PR. A newer eligible build
+cancels the superseded build. Label removal, unrelated label edits and requests
+that fail eligibility do not enter that group. Cleanup and reopen invalidation
+remain independent of build cancellation: a delayed build cannot cancel either
+operation. Close cleanup proceeds while an active build finishes; the publisher
+checks current closed state before any transfer.
+
+The separate trusted publisher receives only `PREVIEW_SSH_PRIVATE_KEY` and the
+ordinary job token. Under one per-PR lock, it rechecks eligibility, publishes
+only the derived PR subtree, reads its completion receipt and records
+`preview/thalorna/pr-<number>` success on that exact head. The status links to
+the internal preview; browser consumers require the current open PR head and
+matching success evidence. Main pages and CDN assets remain separate.
+
+Closing or merging runs cleanup independently of builds and labels. Cleanup
+rechecks closed state under the same lock, invalidates current-head preview
+statuses before deleting the numbered subtree, and leaves a reopened PR alone.
+A reopen event invalidates current-head evidence before any requested build,
+including when the label is absent. The manual `cleanup` operation uses the
+same closed-state check. A suppressed close event has no scheduled recovery.
+Publication and cleanup failures remain failed jobs and can be retried with
+the eligible identity.
+
+The workflow pins both shared reusable interfaces and helper code to one
+accepted shared `main` commit. CI checks out that same revision as
+`trusted-preview-contracts` for the utility tests. The focused fixtures import its real request and
+eligibility functions; they require that checkout when run directly:
+
+```sh
+node --test utils/pr-preview.test.mjs
+```
+
+Publication, cleanup and reopen invalidation require `HL_DEPLOY_ENABLED=true`.
+With that gate disabled, skipped jobs do not prove publication or cleanup.
+Publication and cleanup use the existing `PREVIEW_SSH_PRIVATE_KEY`, pinned host
+key and forced receiver. Build and publication use the existing shared runner
+account; the workflow's secret mapping does not provide separate-user isolation.
+After a skipped or failed close operation, dispatch `cleanup` from `main` with
+the closed PR's number and full head SHA. The trusted manual cleanup also
+accepts a closed PR whose base branch changes, without allowing publication to
+a base other than `main`.
 
 ## Deploy public pages
 

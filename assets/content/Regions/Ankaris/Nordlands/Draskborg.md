@@ -44,3 +44,6 @@ The songs spell it Driskborg, and the Targud accounts Draskborg. The name is wha
 
 [[place-tvalgard|Tvalgard]]
 : the seat the beacon warns
+
+[[scenario-lakelooksback|The Roof Beneath the Ice]]
+: a scenario set here

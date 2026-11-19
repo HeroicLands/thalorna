@@ -48,3 +48,6 @@ The Servants of Vezhnurikos are in the Hek'ar for the Eye, and so are their riva
 
 [[place-roqid|Oroqid]]
 : the Vilérian fort on the same margin
+
+[[scenario-trcecmpsmrch|The Truce Camps of the March]]
+: a scenario set here

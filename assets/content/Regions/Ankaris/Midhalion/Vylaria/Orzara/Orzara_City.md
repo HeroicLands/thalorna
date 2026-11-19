@@ -359,3 +359,4 @@ The city began on [[place-antel|Antel]], the Old Hill, where the [Vilérian Repu
 - [[place-midhalnrgn|Midhalión]]—the region
 - [[place-worldthlrn|The World of Thalorna]]
 - [[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]—the campaign frame of the debt and the succession
+- [[scenario-sndbnthcrst|The Sand Beneath the Crust]]—a scenario set here

@@ -402,7 +402,7 @@ Mirthana Kervanion is a 22-year-old woman who stands 5'8" tall and is slender. S
 
 Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Mirthana Kervanion came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
-Mirthana grew up in the city and was drawn to the art of engineering. She has trained as a sapper and quickly gained a reputation for her skills in tunnel construction and demolition. Known for her quick thinking and resourcefulness, Mirthana often devises creative solutions to challenges. She aspires to become a master sapper and help design fortifications.
+Mirthana grew up in the town and was drawn to the art of engineering. She has trained as a sapper and quickly gained a reputation for her skills in tunnel construction and demolition. Known for her quick thinking and resourcefulness, Mirthana often devises creative solutions to challenges. She aspires to become a master sapper and help design fortifications.
 
 ## Psyche
 

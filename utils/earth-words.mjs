@@ -266,6 +266,28 @@ export function listDirs(argv, env, cwd) {
  * @returns {{lists: Map<string, Set<string>>, glosses: Map<string, Map<string, string[]>>}}
  */
 export function loadEarth(dirs) {
+    const isDir = (d) => fs.existsSync(d) && fs.statSync(d).isDirectory();
+    return parseEarth(
+        dirs.filter(isDir).map(
+            (dir) =>
+                new Map(
+                    fs
+                        .readdirSync(dir)
+                        .sort()
+                        .filter((name) => /\.(txt|tsv)$/.test(name))
+                        .map((name) => [name, fs.readFileSync(path.join(dir, name), "utf8")]),
+                ),
+        ),
+    );
+}
+
+/**
+ * The Earth lists in captured file contents.
+ *
+ * @param {Map<string, string>[]} sources - One map per directory, in order, of file name to text.
+ * @returns {{lists: Map<string, Set<string>>, glosses: Map<string, Map<string, string[]>>}}
+ */
+export function parseEarth(sources) {
     const lists = new Map();
     const glosses = new Map();
     const boundClasses = new Set([
@@ -279,13 +301,12 @@ export function loadEarth(dirs) {
         "combining_form",
     ]);
     const hasBoundary = (form) => /^-|-$/.test(form.trim());
-    const isDir = (d) => fs.existsSync(d) && fs.statSync(d).isDirectory();
-    for (const dir of dirs.filter(isDir)) {
-        for (const name of fs.readdirSync(dir).sort()) {
+    for (const files of sources) {
+        for (const name of [...files.keys()].sort()) {
             if (!name.endsWith(".txt")) continue;
             const key = name.slice(0, -4);
             const local = new Set();
-            for (const line of fs.readFileSync(path.join(dir, name), "utf8").split("\n")) {
+            for (const line of files.get(name).split("\n")) {
                 if (hasBoundary(line)) continue;
                 const n = normalize(line, key === J_AS_H, C_AS_CH.has(key));
                 if (n) local.add(n);
@@ -293,9 +314,8 @@ export function loadEarth(dirs) {
             const bound = new Set();
             const free = new Set();
             const localSenses = new Map();
-            const tsv = path.join(dir, `${key}.tsv`);
-            if (fs.existsSync(tsv)) {
-                for (const line of fs.readFileSync(tsv, "utf8").split("\n")) {
+            if (files.has(`${key}.tsv`)) {
+                for (const line of files.get(`${key}.tsv`).split("\n")) {
                     const cells = line.split("\t");
                     if (cells.length < 2) continue;
                     const n = normalize(cells[0], key === J_AS_H, C_AS_CH.has(key));

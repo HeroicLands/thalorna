@@ -25,7 +25,7 @@ data:
     offices: {}
   seat: byzaris
   population: null
-  territorial_population: 30000
+  territorial_population: 5000
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]
@@ -34,4 +34,8 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The **Council of Twelve of Bizaris** is made up of the heads of the twelve greatest guilds of [[place-byzaris|Bizaris]]. It makes the city the only city-state of the [[affiliation-byzarianlg|Bizarian League]] with formal guild governance. The arrangement gives the city stability and endless subtle negotiation, as artisan interests jockey for precedence and resources, and in League politics Bizaris keeps a careful neutrality.
+The **Council of Twelve of Bizaris** is made up of the heads of the twelve greatest guilds of [[place-byzaris|Bizaris]]. It makes Bizaris the only city-state of the [[affiliation-byzarianlg|Bizarian League]] with formal guild governance. The arrangement gives the town stability and endless subtle negotiation, as artisan interests jockey for precedence and resources, and in League politics Bizaris keeps a careful neutrality.
+
+## History {#history}
+
+Bizaris grew from a small workshop district into a town of its own, and the heads of its twelve greatest guilds hold its council.

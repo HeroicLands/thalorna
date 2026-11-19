@@ -71,6 +71,9 @@ Vennara has one inn, on the fountain square, and in winter it has every room fre
 [[place-alyssar|Alessar]]
 : the provincial capital the _therkos_ governs from
 
+[[scenario-rdtsrks|The Road to Soraks]]
+: a scenario set here
+
 # The Truth of Vennara {#truth .secret}
 
 Kaldremas Elthezis is dying slowly in the house on the north hill. Most days he does not know where he is, and on the days he does he asks for his seal, which has been in Alessar since the spring. The couriers carry up letters he does not read, and they carry down again the sealed packets his secretary, Nethoren, made up in Alessar and sent up with them, so that the road sees every act of the province come down from Vennara. Nethoren rides up once a month and sits with him. The steward and the physician know.

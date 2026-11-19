@@ -56,3 +56,6 @@ The carters' bunkhouse stands beside the timber yard, a long hut of unpeeled log
 
 [[place-dremenna|Dremenna]]
 : the woodcrafters' village that works its timber
+
+[[scenario-bxsldkngsrng|A Box Sealed with the King's Ring]]
+: a scenario set here

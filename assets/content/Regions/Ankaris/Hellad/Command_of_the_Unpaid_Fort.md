@@ -57,7 +57,7 @@ The **Command of the Unpaid Fort** is the garrison command that holds [[place-un
 
 [[being-klmthrnrthn|Kalmethar Ronethen]], the aging commander, decides. The commission passes within the commander's house from parent to child, and the fort's people take the heir's orders on the day the parent dies. The garrison stands its watches and keeps its drill and its hours. The families under the walls work the terraces and the granary, and are paid in grain, in a share of the toll and in the commander's word. A dispute in the household goes to the commander at the morning parade and is settled there, in front of everyone.
 
-The command answers to nobody. The chancery in [[place-orzara|Orzara]] receives the yearly report and sends no reply, and it stopped pressing its claim on the far forts when it stopped paying them. The [[affiliation-byzarianlg|Bizarian League]] and the cities of Helionis each want the fort, and neither has ever governed it. The commander still counts himself the Empire's officer, and keeps the fort the way the commission tells him to, because a commission is kept by keeping it.
+The command answers to nobody. The chancery in [[place-orzara|Orzara]] receives the yearly report and sends no reply, and it stopped pressing its claim on the far forts when it stopped paying them. The [[affiliation-byzarianlg|Bizarian League]] and the city-states of Helionis each want the fort, and neither has ever governed it. The commander still counts himself the Empire's officer, and keeps the fort the way the commission tells him to, because a commission is kept by keeping it.
 
 ## Meeting It
 

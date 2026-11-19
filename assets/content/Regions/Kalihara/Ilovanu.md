@@ -59,3 +59,6 @@ The population of the quarter is as mixed as any port on the Vilérian Sea: nati
 
 [[skill-valtarlng|Valtari]]
 : the harbor pidgin of the quay
+
+[[scenario-klhrdvntrs|Kalihara Adventures]]
+: a scenario set here

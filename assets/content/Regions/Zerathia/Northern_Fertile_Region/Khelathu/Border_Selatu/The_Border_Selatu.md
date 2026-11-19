@@ -48,7 +48,7 @@ data:
         Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
       Canal-Warden: >-
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
-  seat: null
+  seat: balqu
   population: 2500000
   territorial_population: 2500000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]

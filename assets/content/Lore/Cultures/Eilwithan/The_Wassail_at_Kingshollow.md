@@ -39,7 +39,7 @@ And the night it is long, and the night it is chill.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=coming}
-Here ben we kome to the door of the hall,/
+Here ben we kome to the door of the haal,/
 The hind and the herdsman, the widow and all./
 We haven waded the snow from the foot of the hill,/
 And the night it is long, and the night it is chill.
@@ -56,9 +56,9 @@ And a fire in the hollow for thee and for me.
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=burden}
 Wassail, wassail, and open the door‼/
-The king hath the forest, the hollow is poor./
-Then wassail the king, and wassail the tree,/
-And a fire in the hollow for thee and for me‼
+The kìng hath the forest, the hollow is poor./
+Then wassail the kìng, and wassail the trii,/
+And a fire in the hollow for dhii and for mii‼
 :::
 
 : The Bowl {#bowl}
@@ -71,10 +71,10 @@ And we bring it thee now, as our grandsires did too.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=bowl}
-Our bowl it is turned of an ash the wind threw,/
-For the wind hath a lisense the hollow never knew./
-Our ale it is brewed of the barlei we grew,/
-And we bring it thee now, as our grandsires did too.
+Our bowl it is turned of an ash the wind thruu,/
+For the wind hath a lisense the hollow never knuu./
+Our ale it is brewed of the barlei we gruu,/
+And we bring it dhii nau, as our grandsires did tuu.
 :::
 
 _The burden._
@@ -93,10 +93,10 @@ And we sang at his door, and he looked in our face.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=greeting}
-Good king in thi chair, we haven known thee of old,/
-Thi hall and thi chapel, thi kin in the mould./
-Thi grandsirees grandsire was krowned in this plase,/
-And we sang at his door, and he looked in our fase.
+Good kìng in dhai chair, we haven knon dhii of old,/
+Dhai haal and dhai chapel, dhai kin in the mould./
+Dhai grandsirees grandsire was krowned in this plase,/
+And we sang at his door, and hii lùkt in our fase.
 :::
 
 _The burden._
@@ -115,10 +115,10 @@ And the hollow was here ere the king had a hall.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=return}
-Thou art kome from Dunmere with a lord at each hand,/
+Dhau art kome from Dunmere with a lord at each hand,/
 And the lake town is rich, and the lake town is grand,/
-But the hollow is older than eni townes wall,/
-And the hollow was here ere the king had a hall.
+But the hollow is older than eni townes waal,/
+And the hollow was here ere the kìng had a haal.
 :::
 
 _The burden._
@@ -138,9 +138,9 @@ That could ride all his land ere the sun went to rest.
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=gift}
 There was never a krown but was given bi hands,/
-And thine bi the barons that holden their lands./
+And dhain bi the barons that holden their lands./
 Thei set it on Drethar, a lord like the rest,/
-That kould ride all his land ere the sun went to rest.
+That kould ride all his land ere the sòn went to rest.
 :::
 
 _The burden._
@@ -159,10 +159,10 @@ And Drethar gave fire to the hollow, 'tis said.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=treegift}
-A gift asketh gift, so the old saw doth dekree./
-We haven given thee ale. Wilt thou give us a tree?/
-The barons gave Drethar a krown for his head,/
-And Drethar gave fire to the hollow, men said.
+A gift asketh gift, so the old saw dòth dekríi./
+We haven given dhii ale. Wilt dhau give us a trii?/
+The barons gave Drethar a krown for his hed,/
+And Drethar gave fire to the hollow, men sed.
 :::
 
 _The burden._
@@ -181,8 +181,8 @@ Shall answer the swainmote upon the next morn.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=asking}
-The wood on the hill is the kinges and the deeres,/
-And the deer haven had akorns these meni long years,/
+The wood on the hill is the kìnges and the deeres,/
+And the deer haven had akorns dhiiz meni long years,/
 But the hind that goeth up for a bundle of thorn/
 Shall answer the swainmote upon the nekst morn.
 :::
@@ -203,10 +203,10 @@ Are the king's to the acorn, the king's to the sky.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=royaloaks}
-We mai look on the timber, and look till we freeze,/
-For the law is a pale about all of the trees,/
+We mei lùk on the timber, and lùk till we friiz,/
+For the law is a pale about all of the triiz,/
 And the oaks that stood over our grandsireses first kri/
-Ben the kinges to the akorn, the kinges to the skai.
+Ben the kìnges to the akorn, the kìnges to the skai.
 :::
 
 _The burden._
@@ -225,9 +225,9 @@ And the ewe casts her lamb, and the well-water's brown.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=land}
-When the king is whole, then the furrow is whole,/
+When the kìng is whole, then the furrow is whole,/
 And the ewe bringeth twins, and the mare bringeth foal./
-When the king taketh hurt, then the barlei lieth down,/
+When the kìng taketh hurt, then the barlei lieth down,/
 And the ewe kasteth her lamb, and the well water is brown.
 :::
 
@@ -247,10 +247,10 @@ And a fire in the hollow is health to the king.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=health}
-So we drinken thi health, and we drinken with kare,/
-For thi health is our harvest, our bread and our share./
-But a man that is kold hath no breath for to sing,/
-And a fire in the hollow is health to the king.
+So we drinken dhai health, and we drinken with kare,/
+For dhai health is our harvest, our bread and our share./
+But a man that is kold hath no breath for to sìng,/
+And a fire in the hollow is health to the kìng.
 :::
 
 _The burden._
@@ -262,7 +262,7 @@ The burden.
 _The singers turn from the door to the wall of the burial ground behind the hall, and sing over it._
 
 ::: {lang=aelw font=serif}
-The singers turnen from the door to the wall of the burial ground behind the hall, and singen over it.
+The sìngers turnen from the door to the waal of the burial ground behind the haal, and sìngen over it.
 :::
 
 : Over the Wall {#wall}
@@ -275,16 +275,16 @@ Ye shall none of ye shiver, ye lie very still.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=wall}
-Now over the wall, to the yard at the bak,/
-Where the kings lien a row and the yew trees ben blak./
-Good night to you, kings, that haven eaten your fill./
+Nau over the waal, to the yard at the bak,/
+Where the kìngs lien a row and the yew triiz ben blak./
+Good night to you, kìngs, that haven eaten your fill./
 Ye shall none of you shiver. Ye lien veri still.
 :::
 
 _The burden is not sung over the wall._
 
 ::: {lang=aelw font=serif}
-The burden is not sung over the wall.
+The burden is not sung over the waal.
 :::
 
 : The Missing Stone {#missingstone}
@@ -298,8 +298,8 @@ With his hounds at his feet, and his horn, and his bill.
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=missingstone}
 But kount ye the stones‼ And the stones ben one short,/
-For the first of the kings was not laid in this kourt./
-He lieth asleep in the heart of the hill,/
+For the first of the kìngs was not leid in this kourt./
+Hii lieth asleep in the heart of the hill,/
 With his hounds at his feet, and his horn, and his bill.
 :::
 
@@ -315,7 +315,7 @@ And the hollow shall cut what it will, when it will.
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=crownagain}
 And when the krown is asked for again at this door,/
 As the barons asked Drethar to wear it before,/
-He shall rise, and kome down through the wood on the hill,/
+Hii shall rise, and kome down thruu the wood on the hill,/
 And the hollow shall kut what it will, when it will.
 :::
 
@@ -324,18 +324,18 @@ And the hollow shall kut what it will, when it will.
 _The door is opened. The king stands in it, or the steward, and says:_
 
 ::: {lang=aelw font=serif}
-The door is opened. The king standeth in it, or the steward, and saith.
+The door is opened. The kìng standeth in it, or the steward, and seith.
 :::
 
 > "Ye have asked it well, and ye shall have it. Go up at first light, and fell the tree my forester hath marked, and that one and no other. Wassail."
 
 ::: {lang=aelw font=serif}
-Ye haven asked it well, and ye shall have it. Go up at first light, and fell the tree mi forester hath marked, and that one and no other. Wassail.
+Ye haven asked it well, and ye shall have it. Go up at first lait, and fell the trii mi forester hath marked, and that one and no other. Wassail.
 :::
 
 _The singers answer:_ "Wassail, and [[affiliation-arldnpnthn|the Twelve]] keep thee."
 
-[The singers answeren. Wassail, and ]{lang=aelw font=serif}[[affiliation-arldnpnthn|the Twelve]]{lang=en}[ keepen thee.]{lang=aelw font=serif}
+[The sìngers answeren. Wassail, and ]{lang=aelw font=serif}[[affiliation-arldnpnthn|the Twelve]]{lang=en}[ keepen dhii.]{lang=aelw font=serif}
 
 : The Going Home {#home}
 
@@ -347,22 +347,22 @@ And sing thee again when the snow lieth white.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=home}
-Now thanks to the king, and good night to the hall,/
+Nau thanks to the kìng, and good night to the haal,/
 And the Twelve keepen the chair, and the krown, and us all./
 We will fell it at morning, and burn it bi night,/
-And sing thee again when the snow lieth white.
+And sìng dhii again when the snow lieth white.
 :::
 
 _The burden, twice, going down the hill._
 
 ::: {lang=aelw font=serif}
-The burden, twise, going down the hill.
+The burden, twise, goìng down the hill.
 :::
 
 _In a year the king keeps the feast at Dunmere, the village sings this verse after the asking, and the steward, who stands inside the door, is held not to have heard it._
 
 ::: {lang=aelw font=serif}
-In a year the king keepeth the feast at Dunmere, the village singeth this verse after the asking, and the steward, who standeth inside the door, is held not to have heard it.
+In a year the kìng keepeth the feast at Dunmere, the village sìngeth this verse after the asking, and the steward, who standeth inside the door, is held not to have heard it.
 :::
 
 : The Steward's Verse {#steward}
@@ -375,10 +375,10 @@ And the barons remember, and so do the men.
 :::
 
 ::: {.verse form=carol lang=aelw enc=aelwsemaronenc work=steward}
-The chair it is empti, the steward sitteth bi,/
-And he keepeth the kinges wood as dear as his eye,/
-But a krown that is a gift mai be asked for again,/
-And the barons rememberen, and so doen the men.
+The chair it is empti, the steward sìteth bi,/
+And hii keepeth the kìnges wood as dear as his eye,/
+But a krown that is a gift mei bii asked for again,/
+And the barons rememberen, and so duuen the men.
 :::
 
 ## See Also

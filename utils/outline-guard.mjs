@@ -33,6 +33,12 @@
  *    than the slot takes, so it fills nothing; a being's `{#appearance}` and
  *    `{#dossier}` are level one, as the content engine reads them.
  *
+ * 6. **`scenario-backlink`** — a scenario's declared `data.locations` names a
+ *    place whose See Also does not link the scenario by address. The registry's
+ *    `deferredBacklinks` lists pairs (`<scenario shortcode> <place shortcode>`)
+ *    not yet linked; the guard skips them. The rule's finding is an error in
+ *    every land and sits on the place's See Also heading.
+ *
  * A note whose kind has no entry is not read. A finding is a warning, and an
  * error when the note is in a land the registry's `finished` list names; a
  * `see-also-not-last` finding is an error in every land. The
@@ -47,6 +53,8 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { parseAddress } from "@heroiclands/package-build/engine/address";
+import { matchAllOutsideCode } from "@heroiclands/package-build/engine/code-fences";
+import { WIKILINK, parseWikilink } from "@heroiclands/package-build/engine/wikilink-syntax";
 import { scanHeadingAttributes } from "@heroiclands/package-build/engine/heading-attributes";
 import YAML from "yaml";
 import { CONTENT_DIR, noteIndex } from "./note-index.mjs";
@@ -154,6 +162,87 @@ export function parentTypes(type) {
     if (type === "place") return ["place"];
     if (type === "affiliation") return ["affiliation", "place"];
     return [type, "place", "affiliation"];
+}
+
+/**
+ * The addresses a note's See Also section links, in the labelled
+ * `[[address|text]]` form the content engine's wikilink grammar reads, outside
+ * code. A link without a label addresses nothing and does not count. The section
+ * runs from the See Also heading to the next heading.
+ *
+ * @param {string} body
+ * @param {number} firstLine The 1-based line the body starts on.
+ * @returns {{heading?: {line: number, column: number}, targets: string[]}}
+ */
+export function seeAlsoLinks(body, firstLine = 1) {
+    const marks = headings(body, firstLine);
+    const at = marks.findIndex(
+        (h) =>
+            h.id === "see-also" || (h.id === undefined && h.level === 2 && h.text === "See Also"),
+    );
+    if (at < 0) return { targets: [] };
+    const first = marks[at].line - firstLine + 1;
+    const last = marks[at + 1] ? marks[at + 1].line - firstLine : Infinity;
+    const targets = [];
+    for (const m of matchAllOutsideCode(body, WIKILINK)) {
+        const line = body.slice(0, m.index).split("\n").length - 1;
+        if (line < first || line >= last) continue;
+        const link = parseWikilink(m[1], m[0]);
+        if (link.labelled && link.target) targets.push(link.target);
+    }
+    return { heading: marks[at], targets };
+}
+
+/**
+ * The scenario and place pairs where the scenario declares the place in
+ * `data.locations` and the place's See Also does not link the scenario.
+ *
+ * @param {ReturnType<typeof treeIndex>} index
+ * @param {string} root The directory holding `assets/content`.
+ * @returns {Array<{scenario: string, place: string, file: string, line?: number, column?: number}>}
+ */
+export function missingBacklinks(index, root = ".") {
+    const missing = [];
+    const links = new Map();
+    const linked = (file) => {
+        if (!links.has(file)) {
+            const raw = fs.readFileSync(path.join(root, file), "utf8");
+            const split = splitFrontmatter(raw);
+            const firstLine =
+                split ? raw.slice(0, raw.length - split.body.length).split("\n").length : 1;
+            const found = split ? seeAlsoLinks(split.body, firstLine) : { targets: [] };
+            const types = ["scenario"];
+            links.set(file, {
+                heading: found.heading,
+                scenarios: new Set(
+                    found.targets
+                        .map((t) => resolveRef(index, t, types))
+                        .filter(Boolean)
+                        .map((fm) => fm.shortcode),
+                ),
+            });
+        }
+        return links.get(file);
+    };
+    for (const [file, fm] of index.frontmatter) {
+        if (fm.type !== "scenario") continue;
+        const locations = Array.isArray(fm.data?.locations) ? fm.data.locations : [];
+        for (const ref of locations) {
+            const place = resolveRef(index, ref, ["place"]);
+            if (!place) continue;
+            const placeFile = index.byAddress.get(`place-${place.shortcode}`);
+            const { heading, scenarios } = linked(placeFile);
+            if (scenarios.has(fm.shortcode)) continue;
+            missing.push({
+                scenario: fm.shortcode,
+                place: place.shortcode,
+                file: placeFile,
+                line: heading?.line,
+                column: heading?.column,
+            });
+        }
+    }
+    return missing;
 }
 
 /**
@@ -334,6 +423,23 @@ export function check({ root = ".", registry = loadRegistry() } = {}) {
                 highestId = h.id;
             }
         }
+    }
+
+    const deferred = new Set(registry.deferredBacklinks ?? []);
+    for (const pair of missingBacklinks(index, root)) {
+        if (deferred.has(`${pair.scenario} ${pair.place}`)) continue;
+        const fm = index.frontmatter.get(pair.file);
+        const lands = landsOf(index, fm, registry.lands);
+        findings.push({
+            file: path.join(root, pair.file),
+            line: pair.line,
+            column: pair.line === undefined ? undefined : pair.column,
+            severity: "error",
+            rule: "scenario-backlink",
+            kind: "place",
+            land: lands.find((l) => finished.has(l)) ?? lands[0],
+            message: `See Also does not link scenario-${pair.scenario}, which lists this place in its locations`,
+        });
     }
 
     const tally = (key) => {

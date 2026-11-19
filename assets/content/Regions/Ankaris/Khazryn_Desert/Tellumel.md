@@ -163,3 +163,6 @@ In the free oases the economy is the oasis economy it has always been: dates, pa
 [[place-henhulpedin|Henhutpedin]]
 
 [[place-velkunar|Veshkun]]
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here

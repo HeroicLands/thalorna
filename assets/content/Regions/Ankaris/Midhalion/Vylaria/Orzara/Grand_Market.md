@@ -87,6 +87,9 @@ The Grand Market fears two prices, bread and paper, and both are in question. Br
 [[place-wharvesorz|Wharves]]
 : the river port the market's goods come up from
 
+[[scenario-sndbnthcrst|The Sand Beneath the Crust]]
+: a scenario set here
+
 # The Truth of the Grand Market {#truth .secret}
 
 A sixth of the spice and silk sold in the Grand Market belongs to Taruzelian houses. The licenses on the covered lane and half the Cloth Row stand in the names of veteran-citizens who have never stood behind the stalls. Each is paid a few Ardini a month to keep his name on the paper, and the stalls are run by the factors of the merchant houses that paid for the war in which [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] won its independence from the [[affiliation-vylarinmpr|Empire]]. The goods come up from the [[place-wharvesorz|Wharves]] through the registered foreigners' quarter as Vilérian cargo with Vilérian seals.

@@ -9,6 +9,8 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [byzariargn]
+  borders: [{to: amradadrgn, bearing: S}]
+  routes: [{to: amradadrgn, bearing: S, mode: land, days: 10, terrain: [road, hills]}]
   population: null
   packFolder: byzaria
 
@@ -37,11 +39,11 @@ Vaskan hunts with trained beasts—hounds, hawks and coursing cats—and pays we
 
 The March has no citadel. Its strength is the lord's own household—a mounted retinue of huntsmen, rangers and kinsmen who know the country—and a League detachment of conscript foot posted at the caravanserai-forts along the road, whose captains report to the lord and, through him, to the council. Justice is the lord's, under League law and the customs of the upland: grazing disputes, water rights, blood-feuds between herding clans and the assessment of tolls.
 
-The relationship with [[affiliation-karvashion|Karvashion]] is close and unequal. The city's caravansary masters depend on the March to keep the Dunhara road open and its wells clean, and they pay for the privilege in tolls and in gifts to the lord; the lord depends on Karvashion for grain, coin and a market for the March's wool. Neither could do without the other, and both would rather the council did not look too closely at how the road's revenue is divided.
+The relationship with [[affiliation-karvashion|Karvashion]] is close and unequal. The town's caravansary masters depend on the March to keep the Dunhara road open and its wells clean, and they pay for the privilege in tolls and in gifts to the lord; the lord depends on Karvashion for grain, coin and a market for the March's wool. Neither could do without the other, and both would rather the council did not look too closely at how the road's revenue is divided.
 
 ## Peoples {#peoples}
 
-The March's people are herders and villagers of upland Bizarian stock, conservative, clan-minded and worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep [[affiliation-ashanpnthn|Ashaian shrines]] and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from the south to buy sheep. The upland speaks [[skill-byzarnlng|Bizarian]] with its own accent and regards the coastal cities as rich, soft and far away.
+The March's people are herders and villagers of upland Bizarian stock, conservative, clan-minded and worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep [[affiliation-ashanpnthn|Ashaian shrines]] and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from the south to buy sheep. The upland speaks [[skill-byzarnlng|Bizarian]] with its own accent and regards the coastal towns and cities as rich, soft and far away.
 
 ## Economy
 
@@ -56,7 +58,7 @@ The March lives on stock and passage. It sends wool, hides, cheese and horses do
 : the confederation that commissions its lord
 
 [[affiliation-karvashion|Karvashion]]
-: the city that anchors it
+: the town that anchors it
 
 [[place-dunharargn|Dunhara Region]]
 : the country its road leads to

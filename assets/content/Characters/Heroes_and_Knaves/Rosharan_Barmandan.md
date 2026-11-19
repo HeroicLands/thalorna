@@ -11,7 +11,7 @@ data:
   occupation: Shipwright
   lore: []
   culture: dunhariclt
-  homes: [tahrodan]
+  homes: [valmakhend]
   affiliations: {kngdmmrdd: {rank: 3}, zurathra: {rank: 1}}
   gender: female
   species: humanflk
@@ -483,11 +483,11 @@ Rosharan stands 5'11" tall with a medium build. She has light olive skin, dark b
 
 # Dossier {#dossier}
 
-**Childhood on the Waves:** Rosharan was born in the port city of [[place-tahrodan|Tahrodan]], the only child of a merchant sailor and a dock administrator. Her childhood was consumed by the sea—she learned to read waves before letters, understood hull construction before grammar, and spent more time on vessels than in homes. Her parents recognized early that she possessed a gift for understanding the architecture of ships and what they could be. By age twelve, she was apprenticed to Master Shipwright [Kheldun Hammerhand]{.name data-type="being/npc"}, the famed designer of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]'s finest vessels.
+**Childhood on the Waves:** Rosharan was born in the port of [[place-valmakhend|Valmakhend]], the only child of a merchant sailor and a dock administrator. Her childhood was consumed by the sea—she learned to read waves before letters, understood hull construction before grammar, and spent more time on vessels than in homes. Her parents recognized early that she possessed a gift for understanding the architecture of ships and what they could be. By age twelve, she was apprenticed to Master Shipwright [Kheldun Hammerhand]{.name data-type="being/npc"}, the famed designer of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]'s finest vessels.
 
 **Mastering the Art:** Kheldun was a strict but generous mentor who insisted that anything new came only after complete mastery of tradition. For fifteen years, Rosharan studied traditional design, worked with ancient timber types, and learned to predict how wood would move, swell, and age. However, by her late twenties, she began questioning established practices—suggesting changes in hull design that improved speed, modifications to rigging that gave better wind-catching capability, and radical ideas about incorporating materials from distant lands. Her suggestions initially met resistance from Kheldun himself, but gradually, he became her greatest advocate, eventually declaring her his successor and recommending her for membership in the [Coastal Shipwrights' Guild]{.name data-type="affiliation/guild"}.
 
-**Current Innovations:** Now at thirty-five, Rosharan operates a prestigious shipyard near the [[place-amradadrgn|Amradad harbor]], known throughout the Kingdom for vessels that balance traditional beauty with novel construction. Her designs have attracted adventurers, explorers, and merchants willing to pay dearly for ships that outperform their competitors. She has begun mentoring younger craftspeople, though she remains personally involved in every major project, unable to fully delegate her vision. Recent commissions include an experimental deep-water explorer for the [Royal Survey Corps]{.name data-type="affiliation"} and a merchant vessel of new design built to withstand the monsoon.
+**Current Innovations:** Now at thirty-five, Rosharan operates a prestigious shipyard near the [[place-valmakhend|harbor of Valmakhend]], known throughout the Kingdom for vessels that balance traditional beauty with novel construction. Her designs have attracted adventurers, explorers, and merchants willing to pay dearly for ships that outperform their competitors. She has begun mentoring younger craftspeople, though she remains personally involved in every major project, unable to fully delegate her vision. Recent commissions include an experimental deep-water explorer for the [Royal Survey Corps]{.name data-type="affiliation"} and a merchant vessel of new design built to withstand the monsoon.
 
 ## Psyche
 
@@ -551,8 +551,8 @@ Master Kheldun Hammerhand
 Lady [[being-yeserapariva|Yesera Parivan]], Royal Survey Corps
 : The commander of the Kingdom's maritime exploration division has become a consistent client and enthusiastic advocate, funding Rosharan's most experimental work in exchange for first access to new designs.
 
-[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Tahrodan
-: The primary shipping authority in the major port city has contracted with Rosharan for multiple vessels and provides steady income, though conservative members sometimes clash with her approach.
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Valmakhend
+: The primary shipping authority in the port has contracted with Rosharan for multiple vessels and provides steady income, though conservative members sometimes clash with her approach.
 
 ### Enemies
 

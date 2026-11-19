@@ -83,6 +83,15 @@ The Heights fear a proscription, and the old Orzas, [[being-zrmlshlrkls|Zarmelas
 [[place-sixhillsvyl|Six Hills]]
 : the hills of the city
 
+[[scenario-hlfwrdshrt|Half a Ward Short]]
+: a scenario set here
+
+[[scenario-prmsndcoin|The Promise and the Coin]]
+: a scenario set here
+
+[[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]
+: a scenario set here
+
 # The Truth of the Heights {#truth .secret}
 
 The houses on Torvel are arming through the bearers' guild. No house may keep more than twelve armed men inside the thrima, and every old house on Torvel keeps eleven. Over the last two years four of them have also hired bearers: veterans of the legions, discharged and citizens, signed on through the bearers' guild to carry water and wood up the Torvel Stairs, and paid three times a bearer's wage. The guild's hall at the foot of the stairs keeps their carrying-poles on racks along one wall, iron-shod and the length of a legionary's spear, and the guild's master keeps a list of which veteran carries for which house.
