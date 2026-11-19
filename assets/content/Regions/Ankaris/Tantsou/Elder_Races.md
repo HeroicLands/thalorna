@@ -33,11 +33,11 @@ The empire places the Elder peoples by function. The placement is binding in law
 
 ## The Enclaves
 
-The empire recognizes the ancestral lands of the Senali and the Khazari, scattered through its territory. Within them the Elder peoples govern themselves, magic included, and the empire watches the enclaves closely for any sign of rebellion.
+The empire recognizes the ancestral lands of the Senali and the Khazari, which lie along the north-western mountain line, facing the Khazrin and the Black Wilds. Within them the Elder peoples govern themselves, magic included, and the empire watches the enclaves closely for any sign of rebellion.
 
 **The Senalian forests** are old woods where few humans go. The Senali keep their traditions there and work their own magic, and to the human villages at the forest edge the woods are strange country. The empire leaves the forests to them on the understanding that they stay loyal, and the Senali send out rare herbs, medicinal plants and, now and then, an enchanted thing in return.
 
-**The Khazárian strongholds** are cities cut into the cliff faces, with deep refuges in the rock behind them. They are all but impregnable, and they are the centers of Khazárian mining, metallurgy and smithing. The Khazari keep their inner life to themselves and share a fraction of what they know. The empire depends on their weapons, armor and fortifications, and in exchange leaves the strongholds alone, on condition that the Khazari help defend the empire in war.
+**The Khazárian strongholds** are holds cut into the cliff faces, with deep refuges in the rock behind them. They are all but impregnable, and they are the centers of Khazárian mining, metallurgy and smithing. The Khazari keep their inner life to themselves and share a fraction of what they know. The empire depends on their weapons, armor and fortifications, and in exchange leaves the strongholds alone, on condition that the Khazari help defend the empire in war.
 
 ## Suspicion on Both Sides
 
@@ -55,7 +55,7 @@ The Elder peoples mostly fight for the empire on their own ground. In a great wa
 
 ## Marriage
 
-Marriages between humans and the Elder peoples are rare and almost always political, made to seal a peace or bind a house to an enclave. A Senalian match is sought to bring Senalian wisdom into a human line, and the children of such unions often belong fully to neither world. A Khazárian match is rarer still and usually made for access to Khazárian ore or skill, and the gap between the two peoples' ways of life strains it from the first day.
+Marriages between humans and the Elder peoples are rare and almost always political, made to seal a peace or bind a house to an enclave. A Senalian match is sought to bring Senalian wisdom into a human line, and the match is a bond of households only. A Khazárian match is rarer still and usually made for access to Khazárian ore or skill, and the gap between the two peoples' ways of life strains it from the first day. No such marriage has children: the Senali and the Khazari are different kinds from humans, and no half-Senalo or half-Khazár exists.
 
 ## The Elder Dead
 
