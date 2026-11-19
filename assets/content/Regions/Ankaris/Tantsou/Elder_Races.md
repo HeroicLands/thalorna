@@ -25,7 +25,7 @@ The empire places the Elder peoples by function. The placement is binding in law
 
 [[lore-tanchei|Tanchei]], the scholars. Senalian sages of ancient lore, the stars and the natural world are often classified Tanchei and advise the human elite. Their counsel is valued and mistrusted in equal measure, since every scholar at court knows that a Senalo's opinion rests on more centuries of watching than any human library holds. Khazárian masters of engineering, mining and metallurgy are classified Tanchei when they design the empire's fortresses and mines; a Khazari-laid mine follows the rock and needs no timber. Their practical skill is prized, and their deeper knowledge of stone and ore is regarded with awe and unease.
 
-[[lore-wohou|Wohou]], the officers. Khazari of proven courage or generalship are given Wohou rank and usually hold the empire's mountain borders, where their stubbornness under attack is famous. Senalian archers and scouts who serve as officers are given the rank too, and are prized for skirmishing and scouting, though their reluctance to commit to a human war before they must is a standing source of friction with their commanders.
+[[lore-wohou|Wohou]], the officers. Khazari of proven courage or generalship are given Wohou rank and usually hold the empire's frontier garrisons, where their stubbornness under attack is famous. Senalian archers and scouts who serve as officers are given the rank too, and are prized for skirmishing and scouting, though their reluctance to commit to a human war before they must is a standing source of friction with their commanders.
 
 [[lore-zhazho|Zhazho]], rarely. Only the lords of the Elder peoples, or those bound to a ruling house by a great alliance, are classified Zhazho. They manage their people's dealings with the throne, and they know how little their rank would weigh if the court turned against them.
 
@@ -33,11 +33,11 @@ The empire places the Elder peoples by function. The placement is binding in law
 
 ## The Enclaves
 
-The empire recognizes the ancestral lands of the Senali and the Khazari, which lie along the north-western mountain line, facing the Khazrin and the Black Wilds. Within them the Elder peoples govern themselves, magic included, and the empire watches the enclaves closely for any sign of rebellion.
+The empire recognizes the lands of the Senali and the Khazari, which lie along the north-western mountain line, facing the Khazrin and the Black Wilds. Within them the Elder peoples govern themselves, magic included, and the empire watches the enclaves closely for any sign of rebellion.
 
 **The Senalian forests** are old woods where few humans go. The Senali keep their traditions there and work their own magic, and to the human villages at the forest edge the woods are strange country. The empire leaves the forests to them on the understanding that they stay loyal, and the Senali send out rare herbs, medicinal plants and, now and then, an enchanted thing in return.
 
-**The Khazárian strongholds** are holds cut into the cliff faces, with deep refuges in the rock behind them. They are all but impregnable, and they are the centers of Khazárian mining, metallurgy and smithing. The Khazari keep their inner life to themselves and share a fraction of what they know. The empire depends on their weapons, armor and fortifications, and in exchange leaves the strongholds alone, on condition that the Khazari help defend the empire in war.
+**The Khazárian strongholds** are holds found, not made, in the cliff faces of high places, with deep refuges in the rock behind them. They are all but impregnable, and they are the centers of Khazárian mining, metallurgy and smithing. The Khazari keep their inner life to themselves and share a fraction of what they know. The empire depends on their weapons, armor and fortifications, and in exchange leaves the strongholds alone, on condition that the Khazari help defend the empire in war.
 
 ## Suspicion on Both Sides
 
@@ -55,7 +55,7 @@ The Elder peoples mostly fight for the empire on their own ground. In a great wa
 
 ## Marriage
 
-Marriages between humans and the Elder peoples are rare and almost always political, made to seal a peace or bind a house to an enclave. A Senalian match is sought to bring Senalian wisdom into a human line, and the match is a bond of households only. A Khazárian match is rarer still and usually made for access to Khazárian ore or skill, and the gap between the two peoples' ways of life strains it from the first day. No such marriage has children: the Senali and the Khazari are different kinds from humans, and no half-Senalo or half-Khazár exists.
+Marriages between humans and the Elder peoples are rare and almost always political, made to seal a peace or bind a house to an enclave. A Senalian match is sought to bring Senalian counsel into a human household, and the match is a bond of households only. A Khazárian match is rarer still and usually made for access to Khazárian ore or skill, and the gap between the two peoples' ways of life strains it from the first day. No such marriage has children: the Senali and the Khazari are different kinds from humans, and no half-Senalo or half-Khazár exists.
 
 ## The Elder Dead
 
@@ -77,7 +77,7 @@ A few Senali and Khazari rise high in the empire as craftsmen, scholars or offic
 : the people of the old forests
 
 [[lore-flkkhazar|Khazari]]
-: the people of the cliff-cities
+: the people of the cliff holds
 
 [[lore-chaizho|Chaizho]]
 : the predators loosed on the Elder lands of the northwest
