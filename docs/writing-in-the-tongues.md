@@ -77,7 +77,7 @@ Every tongue of the setting is written in roman letters by one guide,
 scripts, and the roman spelling is the transcription every reader learns once.
 
 The common rules below have the language-specific departures the guide states.
-Aelwythi uses its own word spellings and historical readings, as described in
+Aelwythi follows the guide's spellings and readings, as described in
 [Aelwythi word spelling](#aelwythi-word-spelling).
 
 The common rules of the guide:
@@ -87,7 +87,7 @@ The common rules of the guide:
   pair (_ai_, _au_, _ei_, _oi_, _ou_, the long _aa_, _ii_, _uu_, and _ie_, _uo_,
   _ae_). A pair that is not in the table is sounded apart, as in _Zoë_.
 - **Some pairs belong to some tongues.** _ee_ and _oo_ occur in
-  Senali and Sovidur. Aelwythi keeps its own vowel spellings, including _ea_.
+  Senali and Sovidur. Aelwythi writes a held vowel as _aa_, _ii_ or _uu_.
   _ao_ belongs to Tantsou, and _ui_ to Tantsou and Jurthati. _bh_ is written only by a tongue whose own note says
   so. A letter pair outside the guide is used only by a language whose note
   allows it.
@@ -98,11 +98,10 @@ The common rules of the guide:
 - **No silent letters.** A word is written the way it sounds.
 - **Stress** falls on the first syllable of a two-syllable word and on the
   second-to-last syllable of a longer word. See [Stress as data](#4-stress-as-data).
-- **Marks.** A word carries at most one mark. An acute marks a stressed syllable
-  the rule would not choose. A diaeresis marks a vowel sounded apart from the
-  vowel before it. No other mark exists: no circumflex, grave, macron, tilde,
-  umlaut or tone mark. A mark that marks neither stress nor a changed sound is
-  left out.
+- **Marks.** An acute marks a stressed syllable the rule would not choose, and a
+  word carries at most one acute. A grave (_à_, _ì_, _ò_, _ù_) writes a short
+  vowel, and a diaeresis marks a vowel sounded apart from the vowel before it. A
+  mark that marks neither stress nor a changed sound is left out.
 - **The apostrophe** marks a catch in the throat. It is not a mark, and a word
   carries at most two.
 - **Length** is written only by a doubled vowel. Tone and nasal vowels are not
@@ -110,16 +109,16 @@ The common rules of the guide:
 
 ### Aelwythi word spelling
 
-Aelwythi keeps ordinary readable word spellings and follows the reconstructed
-pronunciation in the guide's Aelwythi section. Its silent letters, vowel
-groups, lexical stress and apostrophes follow that section, including the
-tongue-scoped `data.sounds.letters` rows. The common transcription rules above
-apply where a tongue's section does not give its own readings.
+Aelwythi has no section of its own in the guide. Every word, including English-derived
+vocabulary, takes its letters, vowel groups, marks and stress from the common
+rules above, so a reader who knows only the guide can say it. The language note supplies
+vocabulary, a register and a naming palette within the guide, and adds no spelling,
+sound or mark the guide lacks.
 
 Aelwythi uses the existing Semaron letters through its own orthographic
 `aelwythi-semaron` map in
 `assets/content/Lore/Scripts/Eilwithi_Semaron_Encoding.md`. The Aelwythi
-language note selects it with `data.writtenIn`, so `[Whither goest thou.]{.nativefont lang=aelw}`
+language note selects it with `data.writtenIn`, so `[Whither goest dhau.]{.nativefont lang=aelw}`
 converts to Semaron. Without `.nativefont`, the same language tag keeps roman
 spelling. All conversion rules are executable frontmatter rows;
 they rewrite spelling, not pronunciation. A word whose script spelling needs
@@ -129,7 +128,7 @@ Keep the roman word unchanged. For example, _exact_ uses its declared native
 form rather than the rows' _ks_ spelling for _x_.
 
 ```console
-$ npx package-build transliterate aelwythi-semaron --lang aelw --hex "Whither goest thou."
+$ npx package-build transliterate aelwythi-semaron --lang aelw --hex "Whither goest dhau."
 ```
 
 This language-specific mapping does not alter the shared `semaron` rows. It
@@ -384,7 +383,7 @@ root. The schema has no cases, declensions, tenses, moods or irregular-verb
 tables, and no sound-change derivation.
 
 Aelwythi has an expressly defined prose register in
-`assets/content/Skills/Languages/Eilwithi_Language.md`: strict singular _thou/thee_,
+`assets/content/Skills/Languages/Eilwithi_Language.md`: strict singular _dhau/dhii_,
 plural _ye/you_, singular present endings and finite plural _-en_, with the
 listed exceptional and modal forms. Follow its tables when writing a passage;
 only the finite auxiliary inflects in _we haven come_. Its ordinary questions
