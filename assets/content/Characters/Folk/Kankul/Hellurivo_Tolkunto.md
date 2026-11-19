@@ -82,7 +82,7 @@ None he would name.
 
 ## Plot Hooks
 
-1. **The knotted cord.** A Ts'enmah of an edge town finds a cord of knotted vine on his threshold the morning after a Kulmah's foresters have marked a stand of the old trees. Nobody saw who left it, and nobody in the town can read it. He asks a party to find someone who can.
+1. **The knotted cord.** A cord of knotted vine hangs across the end of a causeway where it stops short of the old trees, and the Ha'nalmah's patrol will not cut it down. Nobody in the town can read it, and the Ts'enmah asks a party to find someone who can.
 2. **A causeway taken back.** The vines at the forest's edge grow across a causeway in a single night and the Ha'nalmah of the nearest town stops laying stone. He asks a party to learn who in the old jungle has been offended and what is wanted.
 
 :::secret {title="The first stand"}

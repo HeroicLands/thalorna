@@ -3,7 +3,7 @@ shortcode: aspelittihrsnt
 name: {full: Aspelitti Hirsunto}
 type: being
 subType: npc
-description: "The warden of Ilkaivesto's channels, who sets the rim hunters down at the channels they know and sends them home days late and unharmed."
+description: "The warden of Ilkaivesto's channels, a hunter and poler who keeps the waterways of the deep swamp open for the hearths."
 tags: []
 data:
   icon: icon-person
@@ -38,21 +38,21 @@ Aspelitti Hirsunto is a man of 710 years who stands 6' 1" tall and is of medium 
 
 # Dossier {#dossier}
 
-**Age 710. Warden of the Channels. Wants every hunter sent home.**
+**Age 710. Warden of the Channels. Wants every hunter home whole.**
 
-Aspelitti Hirsunto is a warden of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], a hunter and a poler, who keeps the channels of the deep swamp. His hearth is Hirsunto, the hearth of the reed bed. When a rim hunter follows the herons inward he is the one who meets him: he sets the man down at a channel the rim hunters know, days late, and sends him on his way.
+Aspelitti Hirsunto is a warden of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], a hunter and a poler, who keeps the channels of the deep swamp. His hearth is Hirsunto, the hearth of the reed bed. He poles the channels in every season, clears what the floods choke and knows which of them a canoe from the rim can reach.
 
-He has never drawn a knife on a rim hunter and has never been seen by one.
+He has never drawn a knife on a rim hunter.
 
 ## Psyche
 
 ### Personality
 
-Aspelitti is easy, gentle and slow, and he whistles the heron's call as he poles. He is fond of every rim hunter he has ever sent home.
+Aspelitti is easy, gentle and slow, and he whistles the heron's call as he poles. He has listened to the rim hunters' songs across the water for centuries and is fond of them.
 
 ### Motivation
 
-He wants every hunter sent home whole, and he wants no hunter to know why.
+He wants the rim hunters to keep to the edges, and every one who comes inward to go home whole.
 
 ### Strengths
 
@@ -82,9 +82,9 @@ None he would name, though he dislikes the trader who sends men in.
 
 ## Plot Hooks
 
-1. **Set down.** A rim hunter reaches the edge of the swamp days late and empty-handed, left at a channel by a poler he never saw and cannot describe. A party is asked to follow the channel back and learn who set him down.
-2. **The whistle.** A party poling a shallow channel at dusk hears a heron call from the reeds. A poler is waiting at the next bend, and he has been told to see them out.
+1. **The whistle.** A rim hunter back from the swamp days late and empty-handed says only that a heron called from the reeds every evening he was gone. His brother asks a party to pole in after the herons and learn where the days went.
+2. **The same lagoon.** A party poling a shallow channel at dusk hears a heron call from the reeds behind them, then ahead, then behind again, and by full dark their canoe is back in the lagoon they crossed at noon.
 
 :::secret {title="The man he feeds"}
-The rim hunter in the conclave's keeping sleeps in Aspelitti's hearth, and the two have begun to talk at night. The hunter has told him the plume trader's name and the day his pole-boats leave the gate at Shelem Ch'alish. Aspelitti has told no one he knows either.
+When a rim hunter follows the herons inward, Aspelitti is the one who meets him, and when the Keeper has done with the man, Aspelitti sets him down at a channel the rim hunters know, days late and empty-handed, and sends him on his way. The rim hunter in the conclave's keeping sleeps in Aspelitti's hearth, and the two have begun to talk at night. The hunter has told him the plume trader's name and the day the trader comes down to the rim to buy. Aspelitti has told no one he knows either.
 :::

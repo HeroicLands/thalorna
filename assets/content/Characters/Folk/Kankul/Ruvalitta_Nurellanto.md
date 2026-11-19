@@ -82,8 +82,8 @@ None she would name.
 
 ## Plot Hooks
 
-1. **A marker on a tree.** A knotted cord hung at the edge of the old jungle has been taken by a rubber-tapper's child and carried into town. The Ha'nalmah asks a party to return it before the Keeper's cord-bearer comes looking.
-2. **Cord for a seller.** A rope-seller of the edge towns offers to buy a length of the cord the old jungle yields. Ruvalitta gives a length to a party she has watched at the line from dawn, and she says what it is to be used for only once.
+1. **A marker on a tree.** A rubber-tapper's child has taken a knotted cord from a tree at the edge of the old jungle and carried it into town, and since then the paths at the line turn the town's tappers back before noon. The Ha'nalmah asks a party to carry the cord back and tie it where it hung.
+2. **Cord for a seller.** A tapper found a length of living vine cord tied across a path at the line, and a rope-seller of the edge towns says it is stronger than any rope he makes. He wants more of it and hires a party to learn where it comes from, though the line turns back everyone who goes to look.
 
 :::secret {title="The cord she leaves unknotted"}
 The stands the Kulmah's foresters have marked for burning have outrun the length of the long reckoning, and she has begun a second cord. She has stopped knotting the newest ones, because the hearths read the cord when they gather and she does not want them to count.

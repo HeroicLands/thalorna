@@ -42,13 +42,13 @@ Tessikala Velliranto is a woman of 1,940 years who stands 6' 2" tall and is of l
 
 Tessikala Velliranto is the **Hemmikanno** of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], the Keeper of the Marsh, raised by every voice of the hearths and held for as long as they do not raise another. She keeps the deep swamp, drives out an outlaw, and answers for the conclave to the few who ask. Her hearth is Velliranto, the hearth of the heron's call.
 
-She answers for the herons that roost in the swamp in the thousands. Neither the Ts'enmah nor the temples of [[affiliation-kuxiixbal|K'ushi Ish'bal]] have ever sent anyone to the conclave, and the rim hunters say only that she keeps the swamp and that a hunter who follows the herons inward comes home days late and empty-handed.
+She answers for the herons that roost in the swamp in the thousands. Neither the Ts'enmah nor the temples of [[affiliation-kuxiixbal|K'ushi Ish'bal]] have ever sent anyone to the conclave, and the rim hunters say only that the deep swamp belongs to the tall people and that a hunter who follows the herons inward comes home days late and empty-handed.
 
 ## Psyche
 
 ### Personality
 
-Tessikala is calm, cool-eyed and very patient, and she moves through water without ripple. She speaks of the herons as she would of her own hearth.
+Tessikala is calm, cool-eyed and very patient, and she moves through water without ripple. She speaks of the herons seldom and never lightly.
 
 ### Motivation
 
@@ -60,13 +60,13 @@ The hearths trust her to answer for the herons without counting the cost to hers
 
 ### Weaknesses
 
-She holds the herons so close that she cannot judge a matter that touches them without bias, and she knows it.
+She is slow to act on any trouble that begins outside the swamp, and it reaches her late.
 
 ## Social
 
 ### Companions
 
-The lord [[being-ennumivospllnt|Ennumivo Sepullanto]], whom she asks to judge for her, and the seer [[being-ulpesavovllrnt|Ulpesavo Velliranto]], her kinsman.
+The lord [[being-ennumivospllnt|Ennumivo Sepullanto]], whom she trusts, and the seer [[being-ulpesavovllrnt|Ulpesavo Velliranto]], her kinsman.
 
 ### Patrons
 
@@ -82,7 +82,7 @@ The plume trade, though she has never named it.
 
 ## Plot Hooks
 
-1. **The price in his head.** A feather-trader of the plateau has set a price on white heron plumes and a rim hunter has gone into the deep swamp after them. The trader asks a party to find the hunter, who owes him for a season's credit, and bring back either the man or the plumes.
+1. **The price in his head.** A feather-trader of the north has set a price on white heron plumes and a rim hunter has gone into the deep swamp after them. The trader asks a party to find the hunter, who owes him for a season's credit, and bring back either the man or the plumes.
 2. **Days late.** A rim hunter comes out of the swamp days late and empty-handed and says that nothing happened to him. His wife wants a party to find out why he cannot say what he saw.
 
 :::secret {title="The kin she cannot judge"}

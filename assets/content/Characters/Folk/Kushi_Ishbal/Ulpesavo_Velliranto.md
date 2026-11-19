@@ -83,7 +83,7 @@ None he would name.
 ## Plot Hooks
 
 1. **An evening at the lagoon.** A hunter of the plateau claims to have watched the herons rise in a pattern he has not seen again, and a scholar of the temples wants a party to find the pattern and the one who reads it.
-2. **Plumes in the market.** A trader's stall at the foot of the plateau holds white heron plumes of a luster the buyers call strange. The herons' seer wants a party to learn how they came there.
+2. **Plumes in the market.** A trader's stall at the foot of the plateau holds white heron plumes of a luster the buyers call strange. A buyer from the coast wants a party to learn which part of the swamp they came from.
 
 :::secret {title="What the flights say this season"}
 This season's flights say that the herons will leave the lagoon if the plume trade goes on. He has given the Keeper the reading and told no one else, because the hearths that hold the herons as kin would act on it at once.

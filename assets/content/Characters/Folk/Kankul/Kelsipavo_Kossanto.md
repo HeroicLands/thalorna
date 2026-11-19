@@ -40,7 +40,7 @@ Kelsipavo Kossanto is a man of 560 years who stands 6' 3" tall and is of medium 
 
 **Age 560. Warden of the Paths. Wants every path to leave by the way it came in.**
 
-Kelsipavo Kossanto is a warden of the [[affiliation-nclvlrnst|Enclave of Lirnasto]], a hunter who keeps the paths of the old jungle. His hearth is Kossanto, the hearth of the sunken pool. A path into the old jungle leads out by the way it went in, and the warden is the one who keeps it so: he walks each of them in turn, mends what a season has broken and hums a path whole where the land has begun to wander.
+Kelsipavo Kossanto is a warden of the [[affiliation-nclvlrnst|Enclave of Lirnasto]], a hunter who keeps the paths of the old jungle. His hearth is Kossanto, the hearth of the sunken pool, and the seer [[being-pallevottakssn|Pallevotta Kossanto]] is his elder kin. A path into the old jungle leads out by the way it went in, and the warden is the one who keeps it so: he walks each of them in turn, mends what a season has broken and hums a path whole where the land has begun to wander.
 
 He turns back a hunter, a tapper or a gatherer at the line and sees him on his way. He does not speak to them. Most never know he was there.
 

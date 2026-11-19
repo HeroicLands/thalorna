@@ -3,7 +3,7 @@ shortcode: ennumivospllnt
 name: {full: Ennumivo Sepullanto}
 type: being
 subType: npc
-description: "A lord of Ilkaivesto, raised by every voice for the flood season he poled every hearth's children out of the rising water, who speaks for the hearths that hold the herons as kin."
+description: "A lord of Ilkaivesto, raised by every voice for the flood season he poled every hearth's children out of the rising water, who speaks for the herons in the hearths' gatherings."
 tags: []
 data:
   icon: icon-person
@@ -42,7 +42,7 @@ Ennumivo Sepullanto is a man of 1,350 years who stands 6' 4" tall and is of ligh
 
 Ennumivo Sepullanto is a lord of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], raised by every voice of the hearths for the year the wet season ran higher than any the conclave remembers: he poled every hearth's children across the flood to the tree islands and did not rest until the last was dry. The standing is respect and holds no land, hearth or office. His hearth is Sepullanto, the hearth of the floating weed.
 
-He speaks in the hearths' gatherings for those that hold the herons as kin, and he sits beside the Keeper when she asks for his counsel. He is as often in a canoe as on a bank.
+He speaks for the herons in the hearths' gatherings, and he sits beside the Keeper when she asks for his counsel. He is as often in a canoe as on a bank.
 
 ## Psyche
 
@@ -56,7 +56,7 @@ He wants the herons answered for, and he wants nothing done to them that has not
 
 ### Strengths
 
-The hearths who hold the herons as kin trust him to speak for them, and the others trust him to speak fairly.
+The hearths trust him to speak for the herons, and to speak fairly when he does.
 
 ### Weaknesses
 
@@ -83,7 +83,7 @@ The plume trade and the trader who buys by the thousand.
 ## Plot Hooks
 
 1. **A poor reception.** A party that enters the deep swamp behind a white heron is met by a lord in a canoe who offers them a night's shelter and a meal and asks, courteously, what they have heard of the price of plumes. A wrong answer is not punished and not forgotten.
-2. **The kin of the herons.** A scholar of the plateau's temples has heard that the herons of the swamp are held kin by those who live among them and wants a party to carry a question to the lord who speaks for them.
+2. **The count of the flights.** A scholar of the plateau's temples has counted the evening flights over the deep swamp from the rim for a season and found them rising in the same order every night. He wants a party to take a canoe in at dusk and count them from beneath.
 
 :::secret {title="What the kin want"}
 The hearths that hold the herons as kin want more from the plume trader than the plumes back, and Ennumivo is their voice. They want him brought into the swamp, shown the lagoon at dusk with the herons in the thousands, and left to answer to the roost for the price he has set. He has not told the Keeper that this is what the hearths mean.

@@ -14,7 +14,7 @@ data:
   culture: senaliclt
   homes: [hersellonku]
   affiliations: {nclvhrsllnk: {rank: 1}}
-  socialTies: {being-hapirivovssnt: friend, being-ennittapsknt: acquaintance}
+  socialTies: {being-hapirivovssnt: friend, being-lauhittapsknt: acquaintance}
   gender: male
   species: flksenali
   born: "79.50"
@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-Kolpavo Haltunto is a man of 640 years who stands 6' 2" tall and is of medium build. His dark brown hair is cropped close, his eyes are hazel, and his skin is tanned dark by wind off the lakes. He wears a leather jerkin stitched with pine root and carries a short bow and a long knife, and he moves through the pines without a sound.
+Kolpavo Haltunto is a man of 640 years who stands 6' 2" tall and is of medium build. His dark brown hair is cropped close, his eyes are hazel, and his skin is tanned dark by wind off the lakes. The first two fingers of his right hand are whitened by a bowstring callus. He wears a leather jerkin stitched with pine root and carries a short bow and a long knife, and he moves through the pines without a sound.
 
 # Dossier {#dossier}
 
@@ -42,7 +42,7 @@ Kolpavo Haltunto is a man of 640 years who stands 6' 2" tall and is of medium bu
 
 Kolpavo Haltunto is a warden of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]], a hunter and a bowman, who walks the far ridges in every season and keeps the paths that lead out of them. His hearth is Haltunto, the hearth of the hollow log. He teaches the young hunters the paths and teaches one thing before all the others: every path leaves the pines by the way it entered, and a hunter who forgets that is lost with the pines' help and not their harm.
 
-He has never fired on a man and has never been asked to. What he is asked to do is meet a stranger on a ridge and see him home.
+He has never fired on a man and has never been asked to.
 
 ## Psyche
 
@@ -56,7 +56,7 @@ He wants the far ridges kept as the hearths hold them: closed, known to those wh
 
 ### Strengths
 
-No one reads the ridges better. He can set a stranger down at the right lake from any point in the pines, and he can do it without being seen.
+No one reads the ridges better. He can find any lake from any point in the pines in any weather, and cross a ridge without being seen.
 
 ### Weaknesses
 
@@ -66,7 +66,7 @@ He does not trust a stranger's reason for coming, and the more reasonable the re
 
 ### Companions
 
-[[being-hapirivovssnt|Hapirivo Vessanto]], the lord with whom he walks the ridges, and the young hunters he teaches.
+[[being-hapirivovssnt|Hapirivo Vessonto]], the lord with whom he walks the ridges, and the young hunters he teaches.
 
 ### Patrons
 
@@ -82,9 +82,9 @@ The hunting bands pressing south into the pines, though he bears no man of them 
 
 ## Plot Hooks
 
-1. **Seen home.** A party that has strayed onto the ridges is walked back by a quiet hunter who says nothing and leaves them at a lake they have already passed. If they ask to be shown the way forward, he laughs for the first time in the day.
-2. **The bowman's lesson.** A young hunter of the Pine People has been taught to shoot by a man who will not give his name and will not be thanked. He has asked a party to find the teacher and thank him anyway.
+1. **The lake on the skyline.** A party that has strayed onto the far ridges walks all day toward a lake on the skyline and comes down at dusk on the shore it left at dawn. Its guide from the hunting bands will go no farther and turns for home.
+2. **The pale arrow.** A young hunter of the Pine People finds an arrow of pale wood lying across his snare line on the near ridges, fletched in a way no people of the Grove fletch. He asks a party to learn whose it is.
 
-:::secret {title="The two who did not come back"}
-Kolpavo leads the hearths that say the far ridges belong to the Senali. He is the one who walks the bands in their circles and sets them down by lakes they have already passed, and he has begun to do it harder this season. Two hunters did not come back from the pines because they walked on past the lake where he set them down, refusing to be turned, and the ridges kept them. He has not told the ommenda, and he has not told Hapirivo Vessanto.
+:::secret {title="The one who did not come back"}
+Kolpavo leads the hearths that say the far ridges belong to the Senali. He is the one who walks the bands in their circles and sets them down by lakes they have already passed, and he has begun to do it harder this season. One hunter has not come back from the pines because he walked on past the lake where Kolpavo set him down, refusing to be turned, and the ridges kept him. He has not told the ommenda, and he has not told Hapirivo Vessonto.
 :::
