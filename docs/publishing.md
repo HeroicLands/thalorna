@@ -143,13 +143,19 @@ The manually dispatched `publish` operation accepts a PR number and full head
 SHA and applies the same current-state, label, draft and head checks.
 
 The shared build workflow receives no forwarded secrets. It checks out and
-verifies the exact PR head in an isolated 4 GiB container, installs the normal
+verifies the exact PR head in a 4 GiB container, installs the normal
 lockfile dependencies and builds with `--root internal.heroiclands.org` and
 `--base-url https://www.internal.heroiclands.org/pr/thalorna/<number>/thalorna/`.
 Its Node heap limit is 3072 MiB and its timeout is 30 minutes. The shared helper
 validates the nested tree and stages its package files into a normalized pages
 artifact. The main/public selector and payload validator serve their ordinary
 package paths; preview staging uses the shared nested-path validator.
+
+The build returns its upload's artifact ID. Publication receives that exact ID,
+checks its name and current run, and validates its bounded contents before
+using the deployment key. Deployment calls grant `contents: write` for commit
+statuses and `actions: read` for artifact access; build calls grant only
+`contents: read` and omit a secrets mapping.
 
 Eligible builds share a concurrency group for their PR. A newer eligible build
 cancels the superseded build. Label removal, unrelated label edits and requests
@@ -175,13 +181,23 @@ Publication and cleanup failures remain failed jobs and can be retried with
 the eligible identity.
 
 The workflow pins both shared reusable interfaces and helper code to one
-reviewed commit. CI checks out that same revision as `trusted-preview-contracts`
-for the utility tests. The focused fixtures import its real request and
+accepted shared `main` commit. CI checks out that same revision as
+`trusted-preview-contracts` for the utility tests. The focused fixtures import its real request and
 eligibility functions; they require that checkout when run directly:
 
 ```sh
 node --test utils/pr-preview.test.mjs
 ```
+
+Publication, cleanup and reopen invalidation require `HL_DEPLOY_ENABLED=true`.
+With that gate disabled, skipped jobs do not prove publication or cleanup.
+Publication and cleanup use the existing `PREVIEW_SSH_PRIVATE_KEY`, pinned host
+key and forced receiver. Build and publication use the existing shared runner
+account; the workflow's secret mapping does not provide separate-user isolation.
+After a skipped or failed close operation, dispatch `cleanup` from `main` with
+the closed PR's number and full head SHA. The trusted manual cleanup also
+accepts a closed PR whose base branch changes, without allowing publication to
+a base other than `main`.
 
 ## Deploy public pages
 

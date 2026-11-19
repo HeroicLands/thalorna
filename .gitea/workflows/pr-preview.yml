@@ -48,7 +48,7 @@ jobs:
               with:
                   repository: HeroicLands/.github
                   github-server-url: https://git.pupluppy.org
-                  ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+                  ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
                   path: trusted-deploy
                   persist-credentials: false
             - name: Setup Node
@@ -75,9 +75,10 @@ jobs:
         if: ${{ needs.controller.outputs.reopen == 'true' }}
         permissions:
             contents: write
-        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            actions: read
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
         with:
-            trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            trusted-ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
             operation: reopen
             pr-number: ${{ needs.controller.outputs.pr-number }}
             source-sha: ${{ needs.controller.outputs.source-sha }}
@@ -92,11 +93,11 @@ jobs:
         concurrency:
             group: ${{ github.repository }}-pr-preview-build-${{ needs.controller.outputs.pr-number }}
             cancel-in-progress: true
-        uses: HeroicLands/.github/.gitea/workflows/build-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
+        uses: HeroicLands/.github/.gitea/workflows/build-internal-preview.yml@ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
         permissions:
             contents: read
         with:
-            trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            trusted-ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
             pr-number: ${{ needs.controller.outputs.pr-number }}
             source-sha: ${{ needs.controller.outputs.source-sha }}
             package: thalorna
@@ -108,14 +109,16 @@ jobs:
         if: ${{ needs.build.result == 'success' }}
         permissions:
             contents: write
-        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            actions: read
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
         with:
-            trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            trusted-ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
             operation: publish
             pr-number: ${{ needs.controller.outputs.pr-number }}
             source-sha: ${{ needs.controller.outputs.source-sha }}
             package: thalorna
             artifact-name: thalorna-pr-preview
+            artifact-id: ${{ needs.build.outputs.artifact-id }}
             min-pages: 1001
             max-pages: 0
         secrets:
@@ -125,9 +128,10 @@ jobs:
         if: ${{ needs.controller.outputs.cleanup == 'true' }}
         permissions:
             contents: write
-        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            actions: read
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
         with:
-            trusted-ref: 6980ac546909f562708b0ec63eb8d8aa316d6e2f
+            trusted-ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
             operation: cleanup
             pr-number: ${{ needs.controller.outputs.pr-number }}
             source-sha: ${{ needs.controller.outputs.source-sha }}

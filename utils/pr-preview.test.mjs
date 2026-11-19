@@ -8,7 +8,7 @@ import * as helpers from "../trusted-preview-contracts/actions/internal-site-dep
 
 const repository = "HeroicLands/thalorna";
 const sha = "a".repeat(40);
-const revision = "6980ac546909f562708b0ec63eb8d8aa316d6e2f";
+const revision = "ff345f6c8e0f56de582860d1f8c78d31801ef0d1";
 const event = (action, changes) => ({
     action,
     changes,
@@ -113,10 +113,11 @@ test("the pinned helper rejects stale, draft, WIP, closed and cross-repository c
         { title: "wip: not ready" },
         { state: "closed" },
         { head: { ...currentPR().head, sha: "b".repeat(40) } },
+        { base: { ...currentPR().base, ref: "topic" } },
     ])
         assert.equal(previewDecision(candidate, currentPR(change), helpers).build, false);
     for (const change of [
-        { base: { ...currentPR().base, ref: "topic" } },
+        { base: { ...currentPR().base, repo: { full_name: "Elsewhere/thalorna" } } },
         { head: { ...currentPR().head, repo: { full_name: "Elsewhere/thalorna" } } },
     ])
         assert.throws(
@@ -199,6 +200,14 @@ test("manual requests keep the exact identity and ordinary publication eligibili
     assert.equal(
         previewDecision(manual("cleanup"), currentPR({ state: "closed" }), helpers).cleanup,
         true,
+    );
+    assert.deepEqual(
+        previewDecision(
+            manual("cleanup"),
+            currentPR({ state: "closed", base: { ...currentPR().base, ref: "topic" } }),
+            helpers,
+        ),
+        { build: false, cleanup: true, reopen: false, unsupported: false },
     );
     assert.throws(() => manual("shell"));
     assert.throws(() => manual("publish", "main"));
@@ -292,10 +301,10 @@ test("the actual workflow pins trusted code, isolates build secrets and handles 
         assert.equal(job.with.package, "thalorna");
         if (name !== "build") {
             assert.equal(job.with.operation, name);
-            assert.equal(job.permissions.contents, "write");
+            assert.deepEqual(job.permissions, { contents: "write", actions: "read" });
         }
     }
-    assert.equal(build.permissions.contents, "read");
+    assert.deepEqual(build.permissions, { contents: "read" });
     assert.equal(build.secrets, undefined);
     assert.equal(reopen.secrets, undefined);
     assert.deepEqual(build.needs, ["controller", "reopen"]);
@@ -312,6 +321,8 @@ test("the actual workflow pins trusted code, isolates build secrets and handles 
             PREVIEW_SSH_PRIVATE_KEY: "${{ secrets.PREVIEW_SSH_PRIVATE_KEY }}",
         });
     assert.equal(build.with["artifact-name"], publish.with["artifact-name"]);
+    assert.equal(publish.with["artifact-id"], "${{ needs.build.outputs.artifact-id }}");
+    for (const job of [build, cleanup, reopen]) assert.equal(job.with["artifact-id"], undefined);
     assert.equal(build.with["min-pages"], 1001);
     assert.equal(publish.with["min-pages"], 1001);
 });
