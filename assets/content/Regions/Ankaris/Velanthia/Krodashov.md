@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-Krodashov is a palisaded muster town of about two and a half thousand people on the open steppe margin, the seat of the [[affiliation-hstkhrd|Khorad Host]] and its ataman, [Belukan Kelodov]{.name data-type="being/npc"}. The Host's council of clan heads sits in the ataman's hall, the horse-master keeps the herds and their breeding on the grass beyond the palisade, and the envoy to the tribes sets out from its gate with the Host's gifts and ransoms. It is the Velanthian town nearest the tribes of the Khazrin, and the Host's riders hold the margin from it. The Host serves the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] for pay, and the town watches the river communities on the frontier, where [[place-smkrv|Semukarov]] answers to the Soqritur.
+Krodashov is a palisaded muster town of about two and a half thousand people on the open steppe margin, the seat of the [[affiliation-hstkhrd|Khorad Host]] and its ataman, [[being-blknkldv|Belukan Kelodov]]. The Host's council of clan heads sits in the ataman's hall, the horse-master keeps the herds and their breeding on the grass beyond the palisade, and the envoy to the tribes sets out from its gate with the Host's gifts and ransoms. It is the Velanthian town nearest the tribes of the Khazrin, and the Host's riders hold the margin from it. The Host serves the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] for pay, and the town watches the river communities on the frontier, where [[place-smkrv|Semukarov]] answers to the Soqritur.
 
 ## See Also {#see-also}
 

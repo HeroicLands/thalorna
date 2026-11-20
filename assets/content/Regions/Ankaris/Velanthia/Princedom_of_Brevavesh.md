@@ -163,7 +163,7 @@ The Princedom of Brevavesh holds the frontier of forts on the edge of the Grukar
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The prince is [Krodogor Brevogorich]{.name data-type="being/npc"}. He rules by the forts: every fort has a warden he appoints and the port's silver pays, the wardens answer to his captain of the forts, and a judge on circuit hears the cases that wardens and villages cannot settle. The wardens are paid, tired and corruptible, and the prince knows which of them sell passage past the forts to the fur hunters. Each village below a fort rings its bell and burns a signal fire when a raiding party crosses the margin, and sends a man to the watch in turn.
+The prince is [[being-krdgrbrvgrch|Krodogor Brevogorich]]. He rules by the forts: every fort has a warden he appoints and the port's silver pays, the wardens answer to his captain of the forts, [[being-vrklrvgrch|Ovrik Lervogorich]], and a judge on circuit hears the cases that wardens and villages cannot settle. The wardens are paid, tired and corruptible, and the prince knows which of them sell passage past the forts to the fur hunters. Each village below a fort rings its bell and burns a signal fire when a raiding party crosses the margin, and sends a man to the watch in turn.
 
 ## Current Situation {#present}
 
