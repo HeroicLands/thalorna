@@ -18,7 +18,7 @@ The grain-pits under the granary floor are filled to the lip with fine gray ash.
 
 Under the granary there is a fire. It was not kindled from any ember carried from a temple. It burns without light, and a flame brought into its hall leans toward it and goes out. The Okharin creed is that the Flame renews only what is given to it. This fire is the plain reverse of the creed: it takes and gives nothing back, and the herds that stray within its reach come out as ash on four legs.
 
-The people who keep it are the **shurem**, the ash: those put out of the Flame, to whom no temple gives an ashmark at a passage and whose fires are not reckoned descended from [The First Ember]{.name data-type="miscgear"}. They live in the old bondsmen's yard. They are not a tribe and they are not a clan. They are what is left when both have refused you.
+The people who keep it are the **shurem**, the ash: those put out of the Flame, to whom no temple gives an ashmark at a passage and whose fires are not reckoned descended from [[miscgear-emberfirst|The First Ember]]. They live in the old bondsmen's yard. They are not a tribe and they are not a clan. They are what is left when both have refused you.
 
 ## What the Okharin Say
 

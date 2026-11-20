@@ -21,3 +21,8 @@ data:
 
 - The military stronghold, Vuthraka guards the southern frontier of [[affiliation-okharis|Okharis]]. Its temple complex features intricate statues of the demi-gods of war and chaos, believed to protect the city from outside threats.
 - The **Warden of the Flame**, its ruler, is a warrior-priest who commands Okharis’s armies during times of conflict.
+
+## See Also {#see-also}
+
+[[miscgear-brndwarden|The Warden's Brand]]
+: the blade kept at the garrison

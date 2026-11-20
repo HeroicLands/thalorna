@@ -27,7 +27,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 **What [Talitho]{.name data-type="being/npc"} believes.** Talitho, once a Talithari Nkaring of Zarhanis and a reader of its registers, found the order in the temple's records. He said so aloud, in the moot-hall, and was put out of the Flame for saying it. He rode to the ruin. In the pens he found a banked hearth that had never gone cold, and the voices of the dead asked him to be given what they were denied. He kindled a fire from their ash, and he feeds it, and he believes it will be the shurem's hearth.
 
-**What is true.** The ash has no descent from the [First Ember]{.name data-type="miscgear"} and no one to give it back. Those who died in the pens died with no ashmark, no hearth and no name spoken. [[lore-theshadow|The Shadow]] fills the gaps, and the voice Talitho hears is the dead wearing the Shadow's mouth. The fire takes whatever it is fed and renews none of it. Talitho is cold to the bone and gray to the wrist and cannot tell it. The living shurem of the yard are the descendants of those sealed in the pens, and they are afraid of the fire and fed by it.
+**What is true.** The ash has no descent from the [[miscgear-emberfirst|First Ember]] and no one to give it back. Those who died in the pens died with no ashmark, no hearth and no name spoken. [[lore-theshadow|The Shadow]] fills the gaps, and the voice Talitho hears is the dead wearing the Shadow's mouth. The fire takes whatever it is fed and renews none of it. Talitho is cold to the bone and gray to the wrist and cannot tell it. The living shurem of the yard are the descendants of those sealed in the pens, and they are afraid of the fire and fed by it.
 
 ### Hooks
 

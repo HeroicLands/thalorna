@@ -32,3 +32,8 @@ home.
 
 [[being-tabesnfnjr|Tabeso nu Fénjara]]
 : the Spirit Tracker.
+
+## See Also {#see-also}
+
+[[weapongear-spearishuar|The Spear of Ishuara]]
+: the spear the Fénjara say lies in the village

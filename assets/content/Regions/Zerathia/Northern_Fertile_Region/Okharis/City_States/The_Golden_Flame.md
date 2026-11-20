@@ -22,3 +22,8 @@ data:
 - The economic hub, Kaljekor sits at the crossroads of major trade routes. Its pyramidal temple complex doubles as a marketplace, bustling with merchants from [[affiliation-empireakhlth|Au'Khelathu]] and the [[place-vylarianse|Vilérian Sea]] and beyond.
 - Kaljekor is ruled by a council of priest-nobles
 - Known for its golden adornments and the wealth of its priest-nobles, Kaljekor’s influence extends far through trade alliances.
+
+## See Also {#see-also}
+
+[[miscgear-sclskaljekr|The Scales of Kaljekor]]
+: the balance in the temple-marketplace

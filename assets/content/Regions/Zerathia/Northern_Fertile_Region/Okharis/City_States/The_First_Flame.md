@@ -22,3 +22,8 @@ data:
 - Known as the spiritual capital, Zarhanis houses the largest temple complex, believed to have been the birthplace of the kingdom’s religion.
 - The temple is adorned with murals and carvings detailing the creation of the world by [[lore-nkaruthardty|Nkaru'thar]].
 - Ruled by the **High Pyremant**, the spiritual leader of [[affiliation-okharis|Okharis]] and advisor to the overlord.
+
+## See Also {#see-also}
+
+[[miscgear-emberfirst|The First Ember]]
+: the flame in the deepest chamber of the temple
