@@ -12,7 +12,7 @@ const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..
 // The exemptions exercise path handling itself.
 const PATTERN = /assets\/content\//;
 const EXEMPT = new Set([
-    // Checks that a file's name follows from its note; its fixtures are synthetic trees.
+    // Exercises optional filename suggestions on synthetic trees.
     "utils/note-filenames.test.mjs",
     // This guard's own pattern.
     "utils/no-content-paths.test.mjs",

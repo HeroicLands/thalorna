@@ -34,8 +34,8 @@
  * address. Rerunning the script finishes the job, and a second run changes
  * nothing.
  *
- * This optional sweep also renames changed notes using the file-organization
- * suggestion. Content validity does not depend on the file name.
+ * When writing changes, the sweep renames every touched note using its
+ * suggested file name. Running the sweep is optional; check mode writes nothing.
  *
  * Usage: node utils/guide-sweep.mjs [--check] [path ...]
  * Without paths it sweeps `assets/content` and `.changeset`. `--check` writes
