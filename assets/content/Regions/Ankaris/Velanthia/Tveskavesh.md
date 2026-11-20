@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-Tveskavesh is a walled market town of about three and a half thousand people, held by the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] at the foot of the southern range. The grain road of the lowlands ends here: the wagons that bring the harvest up from the river unload, change their teams for the steeper road, and either climb the passes to the mining and market towns of Helionis and Bizaria or sell to the buyers who wait in the square. Ore and iron come down the same road in the other direction. The town is small for its trade, because most of the people who make it rich are somewhere else for most of the year.
+Tveskavesh is a walled market town of about three and a half thousand people, held by the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] at the foot of the southern range. The grain road of the lowlands ends here: the wagons that bring the harvest up from the river unload, change their teams for the steeper road, and either climb the passes to the mining and market towns of [[place-helionis|Helionis]] and [[place-byzariargn|Bizaria Region]] or sell to the buyers who wait in the square. Ore and iron come down the same road in the other direction. The town is small for its trade, because most of the people who make it rich are somewhere else for most of the year.
 
 ## Arriving {#arriving}
 
@@ -29,7 +29,7 @@ The road from the lowlands runs straight across flat fields for a day and then l
 
 ## What the Town Lives By {#what-the-town-lives-by}
 
-Tveskavesh lives by the change of teams. A wagon that comes up from the lowlands with a pair of horses cannot take the pass with them, so the town's stables rent teams of heavy horses and oxen by the trip, and the drovers who winter on the Northern March of Bizaria bring their own. Around the stables grow the other trades: the wheelwrights and farriers, the inns, the granary where grain is held for a better price, and the money-changers who turn the grain-silver of the lowlands into the ore-silver of the south. The market is of regional reach, since it sets the price at which Velanthian grain leaves the land. The town grows little and buys its own food from the lowland villages.
+Tveskavesh lives by the change of teams. A wagon that comes up from the lowlands with a pair of horses cannot take the pass with them, so the town's stables rent teams of heavy horses and oxen by the trip, and the drovers who winter on the [[place-northrnmrch|Northern March]] of Bizaria bring their own. Around the stables grow the other trades: the wheelwrights and farriers, the inns, the granary where grain is held for a better price, and the money-changers who turn the grain-silver of the lowlands into the ore-silver of the south. The market is of regional reach, since it sets the price at which Velanthian grain leaves the land. The town grows little and buys its own food from the lowland villages.
 
 ## Who Rules and Keeps Order {#who-rules}
 

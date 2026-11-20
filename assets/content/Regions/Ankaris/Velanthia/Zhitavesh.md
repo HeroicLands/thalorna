@@ -45,7 +45,7 @@ The monastery, under its starbrat [[being-rdrbskvnch|Radora Boskvanich]], keeps 
 
 ## History {#history}
 
-The town grew where its first barn stood at a ferry, and the seat has been held by the same princely line since. After the third union of the steppe overran the eastern fringe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), the grain villages of the heartland were resettled, and the town's granaries were raised to feed the settlers through the first years. The prince's barn and the monastery's barn have stood on either side of the square since.
+The town grew where its first barn stood at a ferry, and the seat has been held by the same princely line since. After the third union of the steppe overran the eastern fringe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), the grain villages of the heartland sent settlers to resettle the eastern fringe, and the town's granaries were raised to feed those settlers through the first years. The prince's barn and the monastery's barn have stood on either side of the square since.
 
 ## Hooks {#hooks}
 

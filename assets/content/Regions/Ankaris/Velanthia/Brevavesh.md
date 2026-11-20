@@ -25,7 +25,7 @@ Brevavesh is the seat of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]
 
 ## History {#history}
 
-The town is the oldest of the frontier forts: a crossing guarded first by a timber stockade and then by the stone fort that the princes of the house raised and have held since. The frontier princes learned the cost of a fort they could not keep at Theodburg, which a prince of this frontier raised with the war-bands of Thornwald about 590 AF and which burned as it was abandoned ([[lore-princesfort|The Prince's Fort]]). The stone forts of the princedom, this one first among them, were built to be held by Velanthian wardens on the prince's pay and not by borrowed war-bands. From 660 AF the frontier's unransomed captives went down Vristwald's rivers to Nordmen buyers ([[lore-thrallrivers|The Thrall Rivers]]), and the town's ransom brokers have been busy since.
+The town is the oldest of the frontier forts: a crossing guarded first by a timber stockade and then by the stone fort that the princes of the house raised and have held since. The frontier princes learned the cost of a fort they could not keep at Theodburg, which a prince of this frontier raised with the war-bands of [[place-thornwald|Thornwald]] about 590 AF and which burned as it was abandoned ([[lore-princesfort|The Prince's Fort]]). The stone forts of the princedom, this one first among them, were built to be held by Velanthian wardens on the prince's pay and not by borrowed war-bands. From 660 AF the frontier's unransomed captives went down the rivers of [[place-vrystwald|Vristwald]] to Nordmen buyers ([[lore-thrallrivers|The Thrall Rivers]]), and the town's ransom brokers have been busy since.
 
 ## Current Situation {#present}
 
