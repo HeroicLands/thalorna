@@ -87,7 +87,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Muwojai Domain, held by House Muwojai (Cedar Place), holds [[place-zijai|Zijai]] (Star Peak), the mountain beside the Emperor's own in the interior of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Muwojai Chaiwo]{.name data-type="being/npc"} (Mountain Warrior), sixty-one years old, who sits in the castle town of [[place-kowu|Kowu]] (Old Hall), population 3,200. The domain holds 42,000 people, is assessed at 30,000 bales a year, and musters 750 men; it keeps no fleet. Muwojai belongs to the loyalist bloc, and it holds every road that leads to the Emperor.
+The Muwojai Domain, held by House Muwojai (Cedar Place), holds [[place-zijai|Zijai]] (Star Peak), the mountain beside the Emperor's own in the interior of the great island, by patent of the Emperor. Its lord is the Dauzhwo [[being-chaiwomuwoj|Muwojai Chaiwo]] (Mountain Warrior), sixty-one years old, who sits in the castle town of [[place-kowu|Kowu]] (Old Hall), population 3,200. The domain holds 42,000 people, is assessed at 30,000 bales a year, and musters 750 men; it keeps no fleet. Muwojai belongs to the loyalist bloc, and it holds every road that leads to the Emperor.
 
 ## The Land
 

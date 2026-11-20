@@ -89,7 +89,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Hojujai Domain, held by House Hojujai (Hot Spring Place), holds [[place-hojai|Hojai]] (Fire Peak), the most active mountain of the Nine, in the south of the great island, by patent of the Emperor. The Dauzhwo is [Hojujai Zija]{.name data-type="being/npc"} (Star Blade), fourteen years old, and the domain is governed in his name by his mother [Hojujai Rewei]{.name data-type="being/npc"} (Dawn Jade), thirty-eight, widow of the last Teng Ja, who has held it for him since 709 AF. She sits in the castle town of [[place-yanwu|Yanwu]] (Cloud Hall), population 6,000. The domain holds 92,000 people, is assessed at 70,000 bales a year, and musters 1,750 men and 20 ships. Hojujai leads the loyalist bloc.
+The Hojujai Domain, held by House Hojujai (Hot Spring Place), holds [[place-hojai|Hojai]] (Fire Peak), the most active mountain of the Nine, in the south of the great island, by patent of the Emperor. The Dauzhwo is [[being-zijahojujai|Hojujai Zija]] (Star Blade), fourteen years old, and the domain is governed in his name by his mother [[being-reweihojujai|Hojujai Rewei]] (Dawn Jade), thirty-eight, widow of the last Teng Ja, who has held it for him since 709 AF. She sits in the castle town of [[place-yanwu|Yanwu]] (Cloud Hall), population 6,000. The domain holds 92,000 people, is assessed at 70,000 bales a year, and musters 1,750 men and 20 ships. Hojujai leads the loyalist bloc.
 
 ## The Land
 

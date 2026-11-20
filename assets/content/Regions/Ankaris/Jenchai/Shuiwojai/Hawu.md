@@ -18,7 +18,7 @@ data:
   notes: "The castle town of House Shuiwojai on the strait coast of Rojai—a harbor, a granary and a hall, seat of the lord who wants the office of Teng Ja."
 ---
 
-Hawu (Dark Hall) is the castle town and seat of [Shuiwojai Henzo]{.name data-type="being/npc"}, a town of 7,500 people. The lord's hall stands above the harbor on a shoulder of [[place-rojai|Rojai]]; the town fills the ground between the hall and the water.
+Hawu (Dark Hall) is the castle town and seat of [[being-henzoshuiwo|Shuiwojai Henzo]], a town of 7,500 people. The lord's hall stands above the harbor on a shoulder of [[place-rojai|Rojai]]; the town fills the ground between the hall and the water.
 
 A ship coming up the strait raises the harbor first: a long mole, the naval yards and a double row of fleet berths for the sixty ships of the domain. Behind the quays stand the **granary**, where the lord's four parts in ten are delivered from the demesne at [Kowo]{.name data-type="place/settlement"}, and the **hall**, where each retainer's seat shows his standing. The retainers keep their houses in the streets below the hall, and the Tsaihwo soldiers are raised from the town.
 
