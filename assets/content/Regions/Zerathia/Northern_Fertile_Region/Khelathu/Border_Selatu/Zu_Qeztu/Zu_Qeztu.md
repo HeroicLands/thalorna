@@ -29,8 +29,14 @@ The grazing margin of Zu-Qeztu is where the irrigated fields give out, and a low
 
 ## Settlements {#settlements}
 
-[[place-zileti|Zileti]] (~12,000)
+[[place-zileti|Zileti]] (~4,700)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-uqaa|Uqa'a]].
+
+[[place-zelzileti|Zel-Zileti]] (~3,500)
+: the horse-fair town of Zu-Qeztu Selat, a half-day west of Zileti
+
+[[place-lutzileti|Lut-Zileti]] (~2,800)
+: a stud-estate town in Zu-Qeztu Selat, a short ride from Zileti on the canal that waters the pasture
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

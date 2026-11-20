@@ -31,8 +31,17 @@ The villages of Iuthnet gather around the healing-temples and birth-shrines of U
 
 ## Settlements {#settlements}
 
-[[place-iuthnet|Iuthnet]] (~42,000)
+[[place-iuthnet|Iuthnet]] (~8,000)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-uznera|Faith of Uzn'era]] and its estates.
+
+[[place-maguiuthnet|Magu-Iuthnet]] (~8,000)
+: a birth-shrine town in Iuthnet Selat, in a garden ring around a shrine of the mother-goddess
+
+[[place-zeliuthnet|Zel-Iuthnet]] (~6,600)
+: a healing-temple town in Iuthnet Selat, upstream of Iuthnet
+
+[[place-gariuthnet|Gar-Iuthnet]] (~5,400)
+: a farm-and-market town of Iuthnet Selat, on the river road, that supplies the shrines with flour, oil and honey
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

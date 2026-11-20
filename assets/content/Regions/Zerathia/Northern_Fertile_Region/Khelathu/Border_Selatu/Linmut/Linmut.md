@@ -10,9 +10,9 @@ data:
   demonym: null
   lore: []
   parents: [linmutselat]
-  population: 9900
+  population: 4500
   type: town
-  market: regional
+  market: local
   packFolder: regkhsett
   government: selatlinmut
   notes: "Selat capital of Linmut."
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-**Linmut** (about 9,900 people) is the capital of [[affiliation-selatlinmut|the Selat of Linmut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a fortress-town on a river-island at the second cataract.
+**Linmut** (about 4,500 people) is the capital of [[affiliation-selatlinmut|the Selat of Linmut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a fortress-town on a river-island at the second cataract.
 
 Approach it from the water and the walls come first. Behind them stand the chief temple of [[affiliation-wethur|Weth'ur]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. The town's character is the selat's: a gateway and a toll-gate.
 

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [anzetqeltnome]
-  population: 9900
+  population: 5700
   type: town
   market: regional
   packFolder: regkhsett
@@ -22,7 +22,7 @@ data:
 
 A family comes to Anzet with its dead, and the first thing the temple asks is what grade it can afford. "Three is a wash, a wrapping and a prayer," a Wazu of the temple tells them. "Two is a shorter course with cheaper oils. One takes seventy days, with natron, costly resins and an amulet at every joint. Choose what the house can bear, and nobody here will think less of you for it."
 
-Anzet is the capital of [[affiliation-selatanztqlt|the Selat of Anzet-Qelt]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 9,900. It holds the selat's chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's own: jackal-cult and desert-edge tombs, embalmers and tomb-guards.
+Anzet is the capital of [[affiliation-selatanztqlt|the Selat of Anzet-Qelt]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 5,700. It holds the selat's chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]], the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's own: jackal-cult and desert-edge tombs, embalmers and tomb-guards.
 
 [[lore-hezmuiridty|Hezmu'iri]] is honored more universally than almost any other god for a plain reason, which is that nearly every human being will eventually need his priests. In Anzet the reason has a temple.
 

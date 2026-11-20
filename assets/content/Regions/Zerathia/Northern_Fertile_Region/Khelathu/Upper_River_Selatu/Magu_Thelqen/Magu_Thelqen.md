@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [maguathenslt]
-  population: 9900
+  population: 5500
   type: town
   market: regional
   packFolder: regkhsett
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-Magu-Thelqen was laid out all at once, and you can see it. The avenues run straight from the chief temple of the [[affiliation-uqaa|Faith of Uqa'a]], the squares are evenly spaced, and the whole plan is the work of one zealous dynasty. It is largely empty. About 9,900 people live in a town drawn for more, and they keep the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]'s court and granaries, the scribal bureau that keeps the tax rolls and the markets that serve the surrounding villages in the part of the city that still has roofs. This is the capital of [[affiliation-selatmaguthn|the Selat of Magu-Thelqen]], a temple-city that is still inhabited, and a long walk shows how much of it is not.
+Magu-Thelqen was laid out all at once, and you can see it. The avenues run straight from the chief temple of the [[affiliation-uqaa|Faith of Uqa'a]], the squares are evenly spaced, and the whole plan is the work of one zealous dynasty. It is largely empty. About 5,500 people live in a town drawn for more, and they keep the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]]'s court and granaries, the scribal bureau that keeps the tax rolls and the markets that serve the surrounding villages in the part of the city that still has roofs. This is the capital of [[affiliation-selatmaguthn|the Selat of Magu-Thelqen]], a temple-city that is still inhabited, and a long walk shows how much of it is not.
 
 The plan is the work of the house of [[affiliation-thelqenrelu|Thelqen'Relu]], the house of the sun, whose two Gar-Auu laid the city out from the chief temple of Uqa'a and ruled from it for a generation. The city began to empty when the great temples of the [[affiliation-qearet|Faith of Qe'aret]] and the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] refused the house's doctrine of one sun behind every god and the court went home to [[place-galezkara|Galezkara]] ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
 

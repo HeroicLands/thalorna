@@ -25,8 +25,14 @@ The way to plan a journey through this selat is by its wells. The quarries lie o
 
 ## Settlements {#settlements}
 
-[[place-iaqetleqa|Iaqet-Leqa]] (~12,000)
+[[place-iaqetleqa|Iaqet-Leqa]] (~4,600)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-chelsur|Chelsur]].
+
+[[place-zelleqa|Zel-Leqa]] (~3,200)
+: a well-station town in Iaqet-Leqa Selat, on the caravan track that leaves Iaqet-Leqa eastward into the dry country
+
+[[place-yathiaqet|Yath-Iaqet]] (~2,700)
+: a quarry-and-turquoise town in the hills of Iaqet-Leqa Selat, north of Iaqet-Leqa
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.

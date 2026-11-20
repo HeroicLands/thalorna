@@ -41,8 +41,17 @@ The villages of Selat-Pelgun gather their harvests for the festivals of Pelgun, 
 
 ## Settlements {#settlements}
 
-Iku (~34,000)
+Iku (~7,000)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zelpelgun|Zel-Pelgun]] (~6,400)
+: a caravan-yard town in Selat-Pelgun, at the end of the eastern desert roads beside Iku
+
+[[place-yathpelgun|Yath-Pelgun]] (~5,300)
+: a harvest-festival town in Selat-Pelgun, on the river a day's ride from Iku
+
+[[place-zupelgun|Zu-Pelgun]] (~4,300)
+: a well-and-pasture town of Selat-Pelgun on the edge of the desert, where herders bring their flocks to water
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

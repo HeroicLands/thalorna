@@ -11,7 +11,7 @@ data:
   lore: []
   parents: [garanlghtslt]
   population: 120000
-  type: city
+  type: metropolis
   market: international
   packFolder: regkhsett
   government: selatgrnlght
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-Gar-Anlaghet is where [[affiliation-empireakhlth|Au'Khelathu]] meets the sea, and the sea has learned to expect it. The city stands on the westernmost and deepest mouth of the river, where the channel runs broad enough to take the largest ships, and it is the empire's principal sea-gate: a crowded sprawl of quays, bonded warehouses, counting-houses and foreign quarters, home to about 120,000 people. After the capital it is the richest and most cosmopolitan city in the realm, and the wealth of the whole empire is loaded out here while the goods of the wider world are brought in.
+Gar-Anlaghet is where [[affiliation-empireakhlth|Au'Khelathu]] meets the sea, and the sea has learned to expect it. The city stands on the westernmost and deepest mouth of the river, where the channel runs broad enough to take the largest ships, and it is the empire's principal sea-gate: a crowded sprawl of quays, bonded warehouses, counting-houses and foreign quarters, home to about 120,000 people. After the capital it is the richest and most cosmopolitan city in the realm, and the wealth of the whole empire is loaded out here while the goods of the wider world are brought in. The city eats from the delta's shipping: grain barges from the valley come down to its quays in a steady line, the tribute grain of the upper selatu waits in its bonded granaries before it sails, and the fishing towns of the marsh-channels supply the rest.
 
 The harbor never sleeps. Grain, papyrus, linen, gold and exquisite artisan work go down to the ships; timber, metals, spices, wine and the luxuries of the [[place-midhalnrgn|Midhalión Region]] come up the quays. Every cargo is taxed at the [[lore-garauu|Gar-Au]]'s customs-house, and every fortune made on one is banked through the [[affiliation-garhalzi|Gar-Hálzi]] houses of the waterfront. A factor who pays in foreign coin finds it weighed and discounted against the gezan standard at a money-changer's table on the quay before it buys anything, so carry the empire's own weight-pieces if you can.
 

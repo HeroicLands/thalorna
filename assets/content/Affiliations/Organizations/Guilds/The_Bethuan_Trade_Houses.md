@@ -120,7 +120,7 @@ The [[affiliation-garhalzi|Gar-Hálzi]]
 : the Houses' principal foreign-banking counterparty. Each Great House maintains correspondent accounts with one or more Khelathi temples; the strongest such relationships (House Khalath-Mara with Galezkara, House Bera-Sehel with Gar-Anlaghet) are the principal channels through which Bethuan commerce reaches the broader Northern Fertile Region. The relationships are private and vary by individual arrangement.
 
 [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]
-: Okhárian commercial peer. The Houses maintain modest correspondent relationships with the principal Okhárian crown-trade offices; cross-territory commerce between Bethua and Okharis flows through these arrangements as well as through direct Khelathi-mediated routes.
+: Okharik commercial peer. The Houses maintain modest correspondent relationships with the principal Okharik crown-trade offices; cross-territory commerce between Bethua and Okharis flows through these arrangements as well as through direct Khelathi-mediated routes.
 
 The Vilérian The [[affiliation-danvar|Danvar]]
 : formal trade-recognition arrangement at the port cities. Vilérian merchant captains operating out of Helionite ports trade regularly with Bethuan houses; the Danvar honors Bethuan letters of credit at trading-port chapters by standing arrangement (rare and political; not all Danvar chapters participate). Bethuan letters not bearing such arrangement are exchanged for physical metal at the port changers.

@@ -10,9 +10,9 @@ data:
   demonym: null
   lore: []
   parents: [selatleterunome]
-  population: 9900
+  population: 4000
   type: town
-  market: regional
+  market: local
   packFolder: regkhsett
   government: selatseltltr
   notes: "Selat capital of Selat-Leteru."
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-"You have come at a good season," a temple steward of [[affiliation-uznera|Uzn'era]] says to a pilgrim stepping from a ferry onto the landing at Yath-Leteru. "The boats are few, and the courtyard is not yet full." The town is the capital of [[affiliation-selatseltltr|the Selat of Selat-Leteru]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], with about 9,900 people.
+"You have come at a good season," a temple steward of [[affiliation-uznera|Uzn'era]] says to a pilgrim stepping from a ferry onto the landing at Yath-Leteru. "The boats are few, and the courtyard is not yet full." The town is the capital of [[affiliation-selatseltltr|the Selat of Selat-Leteru]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], with about 4,000 people.
 
 It holds the selat's chief temple of Uzn'era, the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: a quiet pilgrimage town among shrine-islands and marsh-temples.
 

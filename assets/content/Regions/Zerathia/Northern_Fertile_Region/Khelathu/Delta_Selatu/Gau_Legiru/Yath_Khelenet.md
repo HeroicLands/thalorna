@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [gaulegirunome]
-  population: 0
+  population: 330
+  type: village
+  market: local
+  government: selatgaulegr
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A farm-and-press village of Gau-Legiru, tending vines and olives and sending the year's oil and wine to the harbor"

@@ -33,8 +33,17 @@ The salt-pans and natron flats of Chathu work harder in a dry year: the brine th
 
 ## Settlements {#settlements}
 
-[[place-chathu|Chathu]] (~41,000)
+[[place-chathu|Chathu]] (~7,900)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zelchathu|Zel-Chathu]] (~7,100)
+: a salt-town on the pans of Chathu Selat, a short march inland from the sea-margin capital at Chathu
+
+[[place-yathchathu|Yath-Chathu]] (~6,500)
+: a natron-works town on the white flats of Chathu Selat
+
+[[place-zmachathu|Zma-Chathu]] (~6,100)
+: a fish-curing town on the sea-margin of Chathu Selat, where the catch of the lesser coast villages is brought to be salted
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

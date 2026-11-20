@@ -33,8 +33,14 @@ In the villages and estate-towns of Anzet-Qelt, the embalmers' workshops and the
 
 ## Settlements {#settlements}
 
-[[place-anzet|Anzet]] (~24,000)
+[[place-anzet|Anzet]] (~5,700)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates.
+
+[[place-zelanzet|Zel-Anzet]] (~5,700)
+: an embalmers' town at the desert edge in Anzet-Qelt Selat, close to Anzet
+
+[[place-yathqelt|Yath-Qelt]] (~4,600)
+: a tomb-guards' town at the edge of the necropolis in Anzet-Qelt Selat
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

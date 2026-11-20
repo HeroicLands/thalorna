@@ -33,8 +33,14 @@ The wheatland of Iqeru is wide and irrigated, and the villages and estate-towns 
 
 ## Settlements {#settlements}
 
-[[place-iqeru|Iqeru]] (~33,000)
+[[place-iqeru|Iqeru]] (~6,900)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the Faith of Uqa'a and its estates.
+
+[[place-zeliqeru|Zel-Iqeru]] (~8,300)
+: a grain-market town in the wheatlands of Iqeru Selat, a day from Iqeru
+
+[[place-zuiqeru|Zu-Iqeru]] (~6,800)
+: a canal-head town in Iqeru Selat where the main irrigation canal leaves the river
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

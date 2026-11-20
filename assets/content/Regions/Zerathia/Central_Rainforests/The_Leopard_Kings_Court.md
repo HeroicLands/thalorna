@@ -40,7 +40,7 @@ The gifts are hardwood, dyes, ivory, medicinal plants, bundled hides, smoked fis
 - **The neighboring tribes** speak of the King with fear. Each sends its gift on its own schedule, and a tribe that stops is visited by the [Spotted Guard]{.name data-type="affiliation"}, the Court's own fighters.
 - **The Sengala** trade at the margins of the Court's lands and take care to seem neither friend nor rival.
 - The [[lore-kubindoclt|Kubindo]] say the King has done what the drowned court did, and expect the same end for him.
-- **Okhárian river-folk** who speak [[skill-okharclng|Okharik]] know the leopard-guide as _Ndawelari Thakwaring_, the Hunter's Rival. They hear the claim of the Court and hold it a vanity: a man who calls himself the Hunter's Rival will meet the real one.
+- **Okharik river-folk** who speak [[skill-okharclng|Okharik]] know the leopard-guide as _Ndawelari Thakwaring_, the Hunter's Rival. They hear the claim of the Court and hold it a vanity: a man who calls himself the Hunter's Rival will meet the real one.
 - **Northern traders** have heard that there is a king in the interior who is a cat, and treat it as a tavern story.
 
 ## Reaching It

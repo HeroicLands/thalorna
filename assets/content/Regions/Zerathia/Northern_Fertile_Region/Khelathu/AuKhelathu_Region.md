@@ -13,7 +13,10 @@ data:
     - {to: bethuargn, bearing: W}
     - {to: dunharargn, bearing: NE}
     - {to: vylarianse, bearing: NW}
-  routes: [{to: chandrmukha, bearing: NE, mode: ship, days: 30}]
+    - {to: sthmrchsrgn, bearing: SW}
+  routes:
+    - {to: chandrmukha, bearing: NE, mode: ship, days: 30}
+    - {to: marchesroad, bearing: W, mode: land, days: 10, terrain: [steppe, road]}
   population: 19000000
   packFolder: regkhregn
   government: empireakhlth
@@ -37,6 +40,10 @@ The delta shares the wet-coastal character of the whole northern shore: sea-temp
 Upstream, the valley is almost tropical. Its water is warm enough that hippopotami and crocodiles thrive in it and kill farmers every year, and on a summer evening the air on the bank feels nothing like the dry country a day's ride to either side.
 
 Beyond the flood's reach is desert. West of the river, high desert and chaparral run out toward the [[lore-bethuanclt|Bethuan]] frontier and give way to sand dunes nearer the valley; east, the land rises into rugged, mineral-rich hills before it runs out into the semi-desert of [[place-khuqetmiglet|Khuqet-Miglet]] and the [[lore-dunhariclt|Dunhari]] sand seas. Canal and cistern carry water a little way into this country, and herds graze its margins; nothing else lives there by choice. The deep sands of [[place-lareshu|Lareshu]] lie out beyond the settled country altogether.
+
+## Where the People Live
+
+The nineteen million are not spread evenly. The valley and the delta hold almost all of them: along the strip of black soil, a village stands in sight of the next from every dike, and a town lies within a day's barge of every field. The desert margins on either side are nearly empty, a scatter of herders at the wells, the garrisons and mining camps of the border selatu, and nothing at all in the deep sands beyond. About one person in twelve lives in a town or city. The towns eat from the farms around them, the border mining towns buy their grain from the river villages, and the two metropolises, [[place-galezkara|Galezkara]] and [[place-garanlaghet|Gar-Anlaghet]], live on the barges that carry the flood's surplus and the tribute grain down to them.
 
 ## Peoples and Culture
 

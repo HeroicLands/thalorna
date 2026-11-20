@@ -43,8 +43,14 @@ After each flood the scribes of Khelenet-Zu walk the villages remeasuring the fi
 
 ## Settlements {#settlements}
 
-Khelenet-Zu (~32,000)
+Khelenet-Zu (~6,700)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-lutkhelenet|Lut-Khelenet]] (~7,900)
+: a land-survey town in Khelenet-Zu Selat, where the scribes who remeasure the fields after each flood train and lodge
+
+[[place-garzalu|Gar-Zalu]] (~6,400)
+: an assize-market town of Khelenet-Zu Selat on the road to the capital
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

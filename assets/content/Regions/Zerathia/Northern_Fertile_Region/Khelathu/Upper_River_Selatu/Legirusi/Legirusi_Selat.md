@@ -43,8 +43,17 @@ The villages of Legirusi are stone country: the quarries, the master masons and 
 
 ## Settlements {#settlements}
 
-Legirusi (~38,000)
+Legirusi (~7,400)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zellegirusi|Zel-Legirusi]] (~7,000)
+: a quarry town in Legirusi Selat, below the white cliffs
+
+[[place-yathlegirusi|Yath-Legirusi]] (~5,800)
+: a stone-carving town of Legirusi Selat on the river bank, where the rough blocks are dressed and loaded
+
+[[place-lutlegirusi|Lut-Legirusi]] (~4,800)
+: a mason's estate-town in Legirusi Selat, with its own grain-lands and its own granary
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

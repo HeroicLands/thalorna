@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [wagaruselat]
-  population: 9900
+  population: 5100
   type: town
   market: regional
   packFolder: regkhsett
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-**Wagaru** (about 9,900 people) is the capital of [[affiliation-selatwagaru|the Selat of Wagaru]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and the town sits on the southern gold-road.
+**Wagaru** (about 5,100 people) is the capital of [[affiliation-selatwagaru|the Selat of Wagaru]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and the town sits on the southern gold-road.
 
 A priest of [[affiliation-psaqaru|Saq'aru]] in the chief temple tells the drivers who stop to give thanks for a safe stage: "Everything that comes up the road was in the ground first, and the ground is the god's workshop." Beside the temple stand the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns and the drivers passing through. The town's character is the selat's: the gold-road, its mines, its caravan-stations and its tribute-collection.
 

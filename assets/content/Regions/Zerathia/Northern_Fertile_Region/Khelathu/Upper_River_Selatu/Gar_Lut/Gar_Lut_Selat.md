@@ -31,8 +31,14 @@ Gar-Lut's villages tend herb-gardens that depend on the canals, and the Canal-Wa
 
 ## Settlements {#settlements}
 
-[[place-garlut|Gar-Lut]] (~18,000)
+[[place-garlut|Gar-Lut]] (~4,900)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-uznera|Faith of Uzn'era]] and its estates.
+
+[[place-magulut|Magu-Lut]] (~3,900)
+: a herb-garden town in Gar-Lut Selat, a short walk from the healing-shrines of Gar-Lut
+
+[[place-yathlut|Yath-Lut]] (~3,200)
+: a spring-side town in Gar-Lut Selat, built on a mound above a mineral spring that the healers prize
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

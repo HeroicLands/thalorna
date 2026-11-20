@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [legirusiselt]
-  population: 9900
+  population: 7400
   type: town
   market: regional
   packFolder: regkhsett
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-You hear Legirusi before you see it: chisels, hundreds of them, from first light. The town is the capital of [[affiliation-selatlegirus|the Selat of Legirusi]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who keeps his court and granaries here beside the chief temple of the [[affiliation-psaqaru|Faith of Saq'aru]] and its workshops, the scribal bureau that keeps the tax rolls, and the markets that serve the villages and estate-towns. About 9,900 people live here, and most of them work stone or feed those who do.
+You hear Legirusi before you see it: chisels, hundreds of them, from first light. The town is the capital of [[affiliation-selatlegirus|the Selat of Legirusi]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who keeps his court and granaries here beside the chief temple of the [[affiliation-psaqaru|Faith of Saq'aru]] and its workshops, the scribal bureau that keeps the tax rolls, and the markets that serve the villages and estate-towns. About 7,400 people live here, and most of them work stone or feed those who do.
 
 "Square it, then square it again," a master mason tells an apprentice in a temple yard. "A fault in a house for the living is mended in a season. A fault in a tomb lasts forever."
 

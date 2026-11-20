@@ -11,7 +11,7 @@ data:
   lore: []
   parents: [galezkaraslt]
   population: 450000
-  type: city
+  type: metropolis
   market: international
   packFolder: regkhsett
   government: empireakhlth
@@ -138,7 +138,7 @@ Galezkara is also the most foreign-touched place in the interior. Taruzelian and
 
 A city on the greatest river in the world still minds its water. The river runs thick with silt, and fouler where the city's drains meet it, so Galezkara drinks from wells, cisterns and settling-jars, and the wealthy from spring-fed conduits. In the heat of low water the poor quarters go thirsty while the river slides past their doors. The flood that renews the fields fouls the wells when it crests, and the weeks of the inundation are counted an unhealthy season.
 
-Bread comes from upstream. The grain of [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]] and the upper river is barged down, stored in the city's great granaries, and given out in part as a dole to temple dependents, the flood-season work-gangs and the registered poor. As in any capital, the dole is statecraft as much as charity: a hungry Galezkara is a dangerous one, and whoever controls the granaries holds a lever on the city's peace—a lesson written in stone across the water on the cursed road.
+Bread comes from upstream. The surplus of each year's flood, the grain of [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]] and the upper river, is barged down with the tribute grain that the selatu owe the throne, stored in the city's great granaries, and given out in part as a dole to temple dependents, the flood-season work-gangs and the registered poor. As in any capital, the dole is statecraft as much as charity: a hungry Galezkara is a dangerous one, and whoever controls the granaries holds a lever on the city's peace—a lesson written in stone across the water on the cursed road.
 
 Fire is a lesser hazard here than in the timber cities of the west, because mudbrick does not burn. Roofs, market stalls, workshops and above all the grain-dust of the granaries do, and a blaze in the crowded craft quarters of Lut-Lemu can run from lane to lane before the Meglai's fire-gangs and the walled enclosures between districts pen it in.
 
@@ -195,7 +195,7 @@ The tomb-robbing underworld
 : the burial fields of everyone else
 
 [[place-garlegulu|Gar-Legulu]]
-: temple-estate town of the selat
+: temple-estate city of the selat
 
 [[affiliation-genzetpalu|Genzet'Palu]]
 : [[affiliation-genzetpalu|Council of the Nobles]] · [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods (Uqa'a, Saq'aru)

@@ -25,8 +25,11 @@ The fortress stands on an island in the river at the second cataract, and the se
 
 ## Settlements {#settlements}
 
-[[place-linmut|Linmut]] (~11,000)
+[[place-linmut|Linmut]] (~4,500)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-wethur|Weth'ur]].
+
+[[place-yathlinmut|Yath-Linmut]] (~5,500)
+: the mainland landing town opposite the river-island fortress of Linmut, in Linmut Selat
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

@@ -31,8 +31,17 @@ The reed-cutters of Gar-Shebazet pole farther into the marshes for each bundle, 
 
 ## Settlements {#settlements}
 
-[[place-garshebazet|Gar-Shebazet]] (~49,000)
+[[place-garshebazet|Gar-Shebazet]] (~8,900)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-yathshebazet|Yath-Shebazet]] (~9,400)
+: a reed-and-fowling town in the papyrus marshes of Gar-Shebazet Selat, reached by punt from Gar-Shebazet
+
+[[place-luthawu|Lut-Thawu]] (~7,800)
+: a papyrus-cutting town in Gar-Shebazet Selat, a day downstream of Gar-Shebazet
+
+[[place-zeltelgu|Zel-Telgu]] (~6,400)
+: a market town on the marsh-edge of Gar-Shebazet Selat, where the marsh villages sell fish and reeds and the river farms sell grain and beer
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [anlaghztnslt]
-  population: 0
+  population: 690
+  type: village
+  market: local
+  government: selatnlghztn
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A basin village of Anlagh-Zetun, of the dense farm-country that makes the selat one of the empire's granaries"

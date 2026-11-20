@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [zugernome]
-  population: 9900
+  population: 7600
   type: town
   market: regional
   packFolder: regkhsett
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-Chegu is the capital of an ancient royal selat. It is the seat of the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of [[affiliation-selatzuger|the Selat of Zu-Ger]], "the Great Land," and about 9,900 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]], the scribal bureau that keeps the tax rolls and the markets that serve the surrounding villages. The old burial-ground of the first dynasties lies beyond the cultivated land, and the temple of Hezmu'iri keeps watch over it ([[place-firsttablets|the Ground of the First Tablets]]).
+Chegu is the capital of an ancient royal selat. It is the seat of the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of [[affiliation-selatzuger|the Selat of Zu-Ger]], "the Great Land," and about 7,600 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]], the scribal bureau that keeps the tax rolls and the markets that serve the surrounding villages. The old burial-ground of the first dynasties lies beyond the cultivated land, and the temple of Hezmu'iri keeps watch over it ([[place-firsttablets|the Ground of the First Tablets]]).
 
 ## See Also {#see-also}
 

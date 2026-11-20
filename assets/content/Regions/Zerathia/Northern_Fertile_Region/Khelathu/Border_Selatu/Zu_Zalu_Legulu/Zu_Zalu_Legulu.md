@@ -41,8 +41,14 @@ The fortress-line villages of Zu-Zalu-Legulu live around their garrisons: the po
 
 ## Settlements {#settlements}
 
-Balehen (~24,000)
+Balehen (~5,700)
 : the selat capital, a great fortress-town commanding the river at the first cataract: a double-walled stronghold of garrison barracks, the war-temple of [[affiliation-qeztu|Qeztu]], the toll-house and tribute-store of the southern trade, and the seat of the warden-Halzi'a. It is the empire's strongest fortress south of the capital.
+
+[[place-zelzalu|Zel-Zalu]] (~5,700)
+: a river-terrace town in Zu-Zalu-Legulu Selat, where the valley narrows below the cataract country, a day south of Balehen
+
+[[place-yathlegulu|Yath-Legulu]] (~4,600)
+: the portage town at the foot of the cataract in Zu-Zalu-Legulu Selat, where boats from the south unload to be carried around the rapids
 
 The fortress-line villages
 : garrison-posts, forts and frontier settlements of 500–5,000 people lie strung along the river and the desert flanks. Among them are [Iken]{.name data-type="place/structure"} (the river toll-fort beyond the cataract), [Mirgis]{.name data-type="place/structure"} (a double fortress on the west bank) and [[place-zinhenzalu|Zinhen-Zalu]] (the deepest garrison), with a scatter of mixed [[lore-khelathiclt|Khelathi]]-southern farm-and-trade villages along the irrigated strip.

@@ -70,7 +70,7 @@ Savannah-internal trade is largely through **cattle exchange**, marriage-gifts, 
 
 To the **north** lies the Central Rainforests. The savannah peoples and the forest peoples meet along a long, messy, ecologically transitional margin where jungle gives way to grassland. Contact is generally peaceful—long generations of seasonal overlap have produced a dense web of trading relationships, intermarriage, and ritualized exchanges. The forest tribes are the savannah peoples' principal contact with the wider world and vice versa.
 
-The Northern Fertile Region civilizations—the [[affiliation-mtrrchybth|Matriarchy of Bethua]], the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and [[affiliation-okharis|Okharis]]—are known to the savannah peoples only through forest intermediaries and through secondhand goods that reach the northern margins via trade. Most savannah peoples have never met a Khelathi, Bethuan, or Okhari in person; the northern civilizations are a distant rumor of strangely dressed people who live in places where buildings do not move. Savannah opinion of these northerners, insofar as it is formed, tends to range from amused curiosity to wary respect to frank disinterest.
+The Northern Fertile Region civilizations—the [[affiliation-mtrrchybth|Matriarchy of Bethua]], the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and [[affiliation-okharis|Okharis]]—are known to the savannah peoples only through forest intermediaries and through secondhand goods that reach the northern margins via trade. Most savannah peoples have never met a Khelathi, Bethuan, or Okharik in person; the northern civilizations are a distant rumor of strangely dressed people who live in places where buildings do not move. Savannah opinion of these northerners, insofar as it is formed, tends to range from amused curiosity to wary respect to frank disinterest.
 
 To the **far south** lie the coasts of an unnamed ocean and whatever exists beyond it. Savannah knowledge of the southern coast is incomplete—different lineages know different stretches, and no unified picture has ever been assembled. Whatever lies beyond the southern coast is, for the savannah peoples, as mysterious as the savannah itself is to the north.
 
@@ -94,3 +94,18 @@ To the **far south** lie the coasts of an unnamed ocean and whatever exists beyo
 
 [[place-oldhetos|The Old Hetos]]
 : the dry-stone enclosures of the southeastern highlands
+
+Mbolewe
+: the Ruwozi paramount's village-sized seat; the Nyáluba nation has no towns
+
+Nyangulo
+: the Kolembozi paramount's village-sized seat
+
+Ndelushi
+: the Ngonzi paramount's village-sized seat
+
+Nkabewi
+: the Sengala paramount's village-sized seat
+
+Lombesa
+: the Lobwezi paramount's village-sized seat

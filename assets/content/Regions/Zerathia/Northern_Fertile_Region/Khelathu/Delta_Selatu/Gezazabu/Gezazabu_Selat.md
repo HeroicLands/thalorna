@@ -31,8 +31,17 @@ Gezazabu is a port of curing-houses and salt-fish, and its trade road to Bethua 
 
 ## Settlements {#settlements}
 
-[[place-gezazabu|Gezazabu]] (~56,000)
+[[place-gezazabu|Gezazabu]] (~9,900)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zelmegit|Zel-Megit]] (~9,900)
+: a ferry-and-curing town in Gezazabu Selat, on the westernmost channel and the road that leads toward Bethua
+
+[[place-yathzekri|Yath-Zekri]] (~9,100)
+: a harbor town of Gezazabu Selat, south of the capital on a mud-bar coast
+
+[[place-lutzechi|Lut-Zechi]] (~8,600)
+: an estate-town of the salt-fish merchants in Gezazabu Selat, inland from the curing-houses
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

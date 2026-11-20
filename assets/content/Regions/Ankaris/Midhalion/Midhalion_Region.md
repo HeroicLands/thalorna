@@ -70,7 +70,7 @@ From the northern shore
 : Vilérian steel, Helionite wisdom and oil, Taruzelian spice and cloth, Provénzian art, Tarvenan grain.
 
 From the southern shore
-: Khelathi grain, papyrus and gold, Okhárian bronzework, Bethuan leather and textiles.
+: Khelathi grain, papyrus and gold, Okharik bronzework, Bethuan leather and textiles.
 
 From beyond
 : far-eastern silk, porcelain and tea, Dunhari salt and camels, Vedyari gems and manuscripts.

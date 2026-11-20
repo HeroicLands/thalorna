@@ -37,9 +37,15 @@ The western land is fertile without canals: barley, sorghum, flax, dates and
 figs grow on rain and river water, and the open plains carry cattle and horses.
 The rains lessen moving east, and by the border with
 [[place-bethuargn|Bethua]] the land is semi-arid savanna and herding country.
-Three cities stand above the villages—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]]—and the
+Three temple-cities stand above the villages—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]]—and the
 region's western edge touches the wet-coastal strip that runs the length of the
 northern shore.
+
+## Where the People Live
+
+About four million people live in the region. The three temple-cities and the crown lands around them hold about 1.6 million, and the ten tribes hold the rest, about 2.4 million, in the forests, river valleys and plains beyond the crown lands. About three people in a hundred live in a city or town: the three flame cities, and ten market towns, one in each tribe's country, where the tribes sell their timber, fruit, horses, fish, wax, cattle, grain, leather and linen and buy what the plains do not grow.
+
+The people are densest in the rain-fed west, on the river valleys and the crown lands around the three flame cities, and they thin eastward as the rains lessen, until the savanna by the Bethuan border holds only herding camps. The forest edge to the south holds a few timber villages and little else. [[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]] live on the barley, sorghum, dates and figs of the crown lands, with cattle and grain that the tribes bring in to the market towns and the city gates.
 
 ## Peoples and Culture
 
@@ -81,6 +87,36 @@ temple-cities into a tributary relationship collapsed within a generation
 
 [[place-yandazhrng|The Mountains of the Spirits]]
 : the mountain range on the frontier held to be the dwelling of the gods
+
+[[place-mbuloro|Mbuloro]]
+: a timber-and-charcoal market town on the forest edge of Okharis, a day from Dóngaru Village
+
+[[place-kandoro|Kandoro]]
+: a crossroads market town of Okharis, a short ride from Khamunda Village, where the Khamunda meet the herders of the open plain
+
+[[place-lumbari|Lumbari]]
+: a date-and-fig market town on the river banks of Okharis, two days from Kirofa Village
+
+[[place-zendari|Zendari]]
+: a horse-fair town on the grassland of Okharis, half a day from Magara Village
+
+[[place-wangel|Wangel]]
+: a fish-market town on a river of Okharis, below Ngorasha Village
+
+[[place-bokaru|Bokaru]]
+: a honey-and-wax market town in the forest country of Okharis, upriver from Shókuma Village
+
+[[place-gwandoro|Gwandoro]]
+: the cattle-market town of Okharis, on the open plain near Tálumeng Village, and the largest of the market towns
+
+[[place-sembari|Sembari]]
+: the grain-market town of Okharis, among the barley and sorghum fields near Wámbuchi Village
+
+[[place-kuyoro|Kuyoro]]
+: a tanning-and-leather town on the forest margin of Okharis, a short walk from Yéshiro Village
+
+[[place-chivel|Chivel]]
+: a linen-weaving town on the river of Okharis, near Zhíkande Village
 
 [[place-dongaruvlg|Dóngaru Village]]
 : the village of [[affiliation-dongarutrb|Dóngaru Tribe]]
