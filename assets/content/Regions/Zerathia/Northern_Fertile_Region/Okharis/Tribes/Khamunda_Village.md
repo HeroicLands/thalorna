@@ -22,3 +22,5 @@ data:
 Khamunda Village is the seat of the [[affiliation-khamundatrb|Khamunda tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
 [[place-okharisrgn|Okharis]].
+
+The villagers are potters. They dig clay from the tribe's pits and fire it into the great storage jars in which the temple-cities keep their grain and dried fruit, and the jars are the tribe's dues to Okharis.

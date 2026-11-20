@@ -13,7 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A class of eighteen river-valley selatu, each under a hereditary Halzi'a; the empire's grain basket and the most numerous of the four selat-classes.
+      A class of eighteen river-valley selatu, each under a hereditary Halzi'a, whose grain-render is reckoned by an Overseer of the Granaries at Anlagh-Zetun for the throne; the empire's grain basket and the most numerous of the four selat-classes.
     ranks:
       - level: 0
         title: Outcast
@@ -32,22 +32,20 @@ data:
         description: >-
           A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
+      Overseer of the Granaries: >-
+        Named by the Gar-Au and keeping office at Anlagh-Zetun, he reckons the grain-render of the eighteen selatu after each harvest and reports to the throne what each owes. The stores stay under the Halzi'a of Anlagh-Zetun. Held by a Zabu.
       Halzi'a: >-
-        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+        Hereditary governor of one of the eighteen river selatu, a landowner whose wealth is reckoned in granaries. Held by a Zabu.
+      Granary-Keeper: >-
+        Warden of a selat's granaries, answerable for every sack received in render and every sack sent downriver. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a selat's bureau, where the fields are measured again after each flood and the render is assessed. Held by a Zelar.
       Legha'lutu: >-
         Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
-      Zabet: >-
-        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
-      Zemelu: >-
-        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
-      Overseer of Scribes: >-
-        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
-      Halzi'a's Steward: >-
-        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
-      Canal-Warden: >-
-        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: anlaghzetun
   population: 8000000
   territorial_population: 8000000
@@ -87,7 +85,7 @@ Grain is the foundation: wheat, barley and millet, grown on flood-silt and on la
 
 ## The Selatu
 
-Eighteen selatu make up the upper-river class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Each has its own note; the table is the roster.
+Eighteen selatu make up the upper-river class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). After each harvest their grain-render is reckoned by the Overseer of the Granaries, whom the Gar-Au names and who keeps office at Anlagh-Zetun, so that the throne knows what each selat owes. Each selat has its own note; the table is the roster.
 
 | Selat                                                     | Seat                                | Patron                                                        | Population | Character                                                                                                                                   |
 | --------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
