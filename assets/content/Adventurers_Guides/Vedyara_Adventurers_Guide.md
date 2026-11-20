@@ -60,13 +60,13 @@ If you want a harbor campaign, begin in [[place-chendrapur2|Chendrapur]], where 
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND data.packFolder = 'thalorna-none-folder-vedyara'
-  AND data.population >= 1500
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+  AND data.population.apparent >= 1500
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 You can cross Vedyara by riverboat with pilgrims, climb toward a pass shrine with a local guide, or join a caravan on the western [[place-marchroad|march road]]. At the coast, the monsoon decides when your ship can sail. Cotton, silk, gems, spices, medicines, worked metal, and manuscripts leave by these routes; salt, horses, and goods from beyond the mountains come back. The pass roads make the Khazrin and Tantsou trading partners; the march road connects to Dunhara; sea routes reach southern kingdoms. Vedyari scholars and Tantsou academies exchange learning as well. A merchant letter can carry a household's payment across borders without a chest of coin; the [[lore-vdyrnbnkng|Vedyaran banking system]] explains who honors it, and why losing one matters.

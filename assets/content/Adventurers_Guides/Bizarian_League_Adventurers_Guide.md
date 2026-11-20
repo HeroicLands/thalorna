@@ -31,13 +31,13 @@ The mountains close the country to the east and north. [[place-orashion2|Órashi
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND list_contains(data.parents, 'thalorna-note-place-byzariargn')
-  AND data.population >= 4000
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+  AND data.population.apparent >= 4000
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 > On the plateau road out of Karvashion the wind never stops; it hisses through the dry grass and fills your teeth with grit, and the only shade for a day at a time is the tarred canvas of the wagon. At the first toll post, a stone hut with a striped pole across the road, the collector unfolds your wagon master's paper, reads every line with his lips moving, walks the length of the load counting bales against it, and presses a disk of red wax onto the foot of the page with a brass seal. At the second post, two days on, the collector takes the same paper, turns it over to the red wax, rubs it once with his thumb, and lifts the pole. At the third, he does not get up from his stool.
@@ -63,14 +63,14 @@ The League council meets in Krusteikhos's [Merchant Hall]{.name data-type="place
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "City-state",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
   AND list_contains(data.parents, 'thalorna-note-affiliation-byzarianlg')
   AND address.slug IN ('affiliation-khryshteikhos', 'affiliation-nesthiros', 'affiliation-orashion',
                       'affiliation-argyrteikhos', 'affiliation-karvashion')
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 A hired hand meets a city through its Harbormaster, who keeps the port and the dues on every hull, and its Warden of the Weights, who inspects measures, coin and quality in the markets. The Warden's inspections make the city's word good, and to be named to the office is the highest civic honor in any League city-state.

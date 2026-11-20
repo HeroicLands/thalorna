@@ -32,7 +32,7 @@ Where the ounces go is the business of the [Gold Constitution]{.name data-type="
 SELECT s.address.slug AS _ref,
        s.name.full AS "Name",
        s.data.market || ' ' || m.name AS "Market",
-       s.data.population AS "People",
+       s.data.population.apparent AS "People",
        (SELECT CASE
                    WHEN p.address.slug IS NULL THEN p.name.full
                    ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'

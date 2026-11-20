@@ -27,7 +27,7 @@ The [[skill-vedyarlng|Vedyari]] spoken in the colonies is the Eastern Outlier di
 SELECT s.address.slug AS _ref,
        s.name.full AS "Name",
        s.data.market || ' ' || m.name AS "Market",
-       s.data.population AS "People",
+       s.data.population.apparent AS "People",
        (SELECT CASE
                    WHEN p.address.slug IS NULL THEN p.name.full
                    ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'

@@ -42,14 +42,14 @@ WITH RECURSIVE nordlands(place) AS (
 )
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND address.canonical IN (SELECT place FROM nordlands)
-  AND data.population >= 400
+  AND data.population.apparent >= 400
   AND state = 'full'
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 The numbers are small on purpose: fifteen hundred people make Knalthstead the largest settlement in Nordheim. The north lives in halls and steads strung along the water.
@@ -67,12 +67,12 @@ Every seventh year, at [[lore-sumarmal|Somarmál]], the five kings and their pri
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Realm",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
   AND data.culture = 'thalorna-note-lore-nordheimnclt'
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 :::secret
