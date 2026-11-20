@@ -107,5 +107,8 @@ The Host's grass was overrun by the third union of the steppe about 548 AF ([[lo
 [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 : the prince it serves
 
+[[place-bnnrfld|Banner Field]]
+: where the three Hosts gather
+
 [[place-velanthrgn|Velanthia Region]]
 : the land
