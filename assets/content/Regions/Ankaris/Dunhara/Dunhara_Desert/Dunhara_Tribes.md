@@ -99,6 +99,14 @@ Two bodies stand beside the council and answer to none of the sheikhs. The [[aff
 
 The common council's sitting at Ghavulavad turns this year on the Kingdom of Amradad. Amradi envoys offer grain and iron for escort on the roads into the Kingdom, and the offer divides the tribes along old lines. The tribes of the northern circuits, who sell their herds in Amradi markets every year and eat Amradi bread every winter, want the compact sworn. The tribes whose Keepers of the Feud carry a tally of blood the Amradi owe from past raids refuse to sit at a fire with the envoys at all. [[being-shadznkmrz|Shadezan Kamruz]], whose confederation rides more escorts than any other, accepts the compact only if his riders hold the whole road, and the smaller tribes fear his terms more than they want the grain. The Speaker keeps the order of speaking and has no power to end the argument, so each sitting takes up the compact again and binds nobody.
 
+## History {#history}
+
+The tribes keep their history in verse, and the poets' account is of tribes, not of a realm. Confederations gather under a strong sheikh, ride together for a generation or three and break apart, and the genealogies record each joining and each parting. The poets hold the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] older than any tribe of the present day, founded when wandering bands swore the Old Promise before they had territories to claim.
+
+About 220 AF one confederation of the northern circuits stopped walking. It walled the springs of the great oases behind the shore and became the [[affiliation-kngdmmrdd|Kingdom of Amradad]], and the tribes have traded with it, married into it and held its walled wells against it since ([[lore-amradfndng|The Founding of Amradad]]). In 315 [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came round the end of the Grazian wall and crossed the desert westward. The families in its path fled ahead of it onto the garrisoned wells of [[affiliation-empireakhlth|Au'Khelathu]]'s eastern road, and some western clans raided in its wake ([[lore-eastroad|The Storm on the Eastern Road]]). The march it emptied became [[affiliation-bhumipal|Bhumipal]] about 325, and the tribes have contested the margin between their last wells and its first ones since.
+
+Twice the Circle was asked to ride against a Dunhari tribe, about 575 against a sheikh who killed his salt-guests and about 665 against a tribe that fouled a shared well, and twice it refused under the Old Promise ([[lore-circlrefusl|The Two Refusals of the Circle]]). The common council at Ghavulavad, which binds nobody, has handled everything else that touches more than one tribe, and the compacts the Kingdom offers come before it one sitting at a time.
+
 ## Relations {#relations}
 
 The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] and are bound to it in every rite. Toward the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtntrzlnstts|Taruzelian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipal|Bhumipal]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
@@ -148,3 +156,9 @@ The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] 
 
 [[affiliation-trbtvrzvd|Tribe of Tevrazavad]]
 : the tribe that holds the Oasis of Tevrazavad and governs itself through a council
+
+[[lore-amradfndng|The Founding of Amradad]]
+: the confederation that settled
+
+[[lore-circlrefusl|The Two Refusals of the Circle]]
+: the Old Promise kept twice against a Dunhari tribe

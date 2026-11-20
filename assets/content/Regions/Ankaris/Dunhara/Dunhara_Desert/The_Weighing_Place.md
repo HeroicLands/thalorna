@@ -42,6 +42,12 @@ The source of the sorcery is below the deepest well of the oasis. Melkhur found 
 - [[being-trvshshrdr|Torvash Shiradar]]'s poets went to the weighing-place with a dispute and have not come back.
 - The judging poets do not speak of their own tribes at the gatherings.
 
+## Layers {#history}
+
+The palms are old and the benches older than any poet's account of them. For as long as the tribes recite, Vazhmavad was the weighing-place: a deep-welled oasis where the judging poets of the [[affiliation-bnchvzhmvd|Bench]] heard disputed recitations under a Truce-Warden's peace, and where apprentices tended the palms and learned the recitations of every tribe by listening at the benches.
+
+The weighing ended while the benches were still full. Disputes stopped being weighed at Vazhmavad, the poets recited lines that were not their own, and Melkhur, the poet who had come to hold the oasis, kept the deepest well for himself. The first of the Unrecited rode out from the palms onto the southern circuit. The caravans that did not come in after that, and the tribes that could not name their lost, turned the weighing-place into the place every guide routes around.
+
 ## The Hearing Season {#present}
 
 The season of hearings has come round, and no tribe has brought a case. The judging poets walk the palms reciting other people's lines, Melkhur keeps bread and salt on his table for any guest, and the Unrecited ride out against the caravans of the southern circuit and come back to the oasis to water. The Lawkeeper at [[place-ghavulavad|Ghavulavad]] needs a bench of a third tribe for every dispute that custom does not settle, and has none to send to. The common council has not agreed whether the bench at Vazhmavad sits by right, so it cannot name another. The tribes whose lines have been taken cannot prove to the council what they have lost, and their neighbors water their herds at those wells unchallenged.

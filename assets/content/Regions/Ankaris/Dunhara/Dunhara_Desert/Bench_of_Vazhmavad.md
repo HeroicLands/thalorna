@@ -55,6 +55,12 @@ The Truce-Warden's staff stands planted at the edge of the oasis, and its peace 
 
 A party comes to Vazhmavad as guests. The poets do not stop reciting to greet them. Melkhur does: he walks out under the palms with his hands behind him, courteous and gentle, and invites them to bread and salt at his table. He asks their names. Every guide on the southern circuit now routes around the oasis.
 
+## History {#history}
+
+The bench is as old as the custom it serves. The Dunhari keep their law in memory, and when two tribes' recitations disagreed, the poets of a third tribe sat under the great palm at Vazhmavad and weighed which memory was sound; the poets' own account of the custom has no beginning. Tribes sent their apprentices to the oasis to learn every tribe's recitations by listening, and the bench was held in common by the judging poets who sat on it, under the Truce-Warden's peace in the season of a hearing.
+
+Melkhur was one of those poets. He came to hold the oasis himself, its wells, its palms and its benches, and the poets who sit with him have recited other people's lines and weighed nothing since. Disputants who went to the bench after that, Torvash Shiradar's poets among them, came back empty or did not come back, and the tribes stopped bringing cases.
+
 ## Hook
 
 - **The first case in years.** A sheikh whose line is disputed brings his poet and his rival's to Vazhmavad, because no other bench will hear a case this old. Melkhur agrees to have it weighed, and the sheikh wants the party with him on the benches when the recitations begin.

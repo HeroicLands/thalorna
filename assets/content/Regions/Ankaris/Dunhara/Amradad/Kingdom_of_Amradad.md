@@ -93,7 +93,7 @@ The Amradi say that their ancestors were the only Dunhari clever enough to stop 
 
 ## Character
 
-Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from the [[place-byzariargn|Bizaria Region]], the [[place-vedyarargn|Vedyara Region]] and the [[place-khzryndsrtrgn|Khazrin]] meet at [[place-tahrodan|Tahrodan]] before going down to the coast facing the islands of [[place-taruzelrgn|Taruzel]]. That crossroads has made the Shebarader enormously rich and far more important than his thinly peopled land would suggest.
+Amradad was founded about 220 AF, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone ([[lore-amradfndng|The Founding of Amradad]]). The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from the [[place-byzariargn|Bizaria Region]], the [[place-vedyarargn|Vedyara Region]] and the [[place-khzryndsrtrgn|Khazrin]] meet at [[place-tahrodan|Tahrodan]] before going down to the coast facing the islands of [[place-taruzelrgn|Taruzel]]. That crossroads has made the Shebarader enormously rich and far more important than his thinly peopled land would suggest.
 
 The court at [[place-shebarakhend|Shebarakhend]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Ashaian faith]] finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Ashaian orthodoxy for the tribes and the Taruzeli alike, whether or not either listens.
 
@@ -116,6 +116,12 @@ The **Ghedvader of the Host** commands the standing army in the field, and the a
 ## Commerce and Currency {#commerce}
 
 The Kingdom uses [[lore-vylrncrncy|Vilérian coin]]—ethla, ankhra and bit—at the port of [[place-valmakhend|Valmakhend]], in its two cities and in the towns of the caravan roads, where it is the main money of trade. The Vilérian paper script does not work here, since no chapter of [[affiliation-danvar|the Danvar]] operates in the Kingdom. Out along the desert roads, trade turns to [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. [[lore-trzlncrncy|Taruzelian coin]] from the secession trade is accepted at Valmakhend and Tahrodan, through changers who deal with the Taruzelian treasury, the [[affiliation-merazuni|Merazuni]].
+
+## History {#history}
+
+The Kingdom is about five centuries old. A confederation of the northern circuits settled at the great oases behind the shore about 220 AF, walled the springs and made its war-leader the first Shebarader, and every standing in the realm has been the throne's grant since ([[lore-amradfndng|The Founding of Amradad]]). In 315 [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] crossed the desert and reached the Kingdom's walls from the east, and broke up there; the Shebarader of the time raised the citadel of Tahrodan at the crossroads, and its tolls have paid for the court since. About 325 the [[affiliation-bhumipal|Bhumipal]] swore their first treaty with the Kingdom for the road to Vedyara ([[lore-bhmplraise|the Raising of Bhumipal]]), and it is renewed every generation.
+
+About 618 a disputed succession held the throne in contest for four years, while the [[affiliation-tribestrzd|Tribes of Atarzád]] began taking the Tellumi cities. The Kingdom sent them no host. The new Shebarader received the four princely houses of the lost cities as guests of the throne instead, and their exile courts have stood in Shebarakhend since about 629 ([[lore-exilecoming|The Exile Houses Come to Amradad]]). In 707 and 708 the Kingdom helped [[affiliation-cnfdrtntrzlnstts|Taruzel]] across the strait in its rising against the Vilérian Empire ([[lore-taruzelwar|the Taruzelian War of Independence]]), and the islands have been its warm neighbors since.
 
 ## Relations {#relations}
 
@@ -151,6 +157,12 @@ To the north, the [[affiliation-byzarianlg|Bizarian League]]'s [[place-southrnmr
 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the faith of the fire-temples
+
+[[lore-amradfndng|The Founding of Amradad]]
+: how the confederation settled and the throne began
+
+[[lore-exilecoming|The Exile Houses Come to Amradad]]
+: the Tellumi houses received as guests of the throne
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]] and [[place-byzariargn|Bizaria Region]]
 : neighbors on the trade roads

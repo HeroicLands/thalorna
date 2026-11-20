@@ -57,6 +57,12 @@ The [[affiliation-ahurdaen|Faith of Ahurdaen]] is the established worship of the
 
 The caravanserais inside the caravan gate take anyone who pays, and fill when the Council sits. A scholar with a letter to an academy may have a guest cell in its cloister. A party in the service of an exile house lodges in that house's court and is counted, by everyone watching, as its clients.
 
+## History {#history}
+
+Shebarakhend is where the Kingdom began, on ground far older than the Kingdom. The oasis had a settlement and a fire-shrine whose keepers' records claim three thousand years of unbroken flame. The confederation that founded Amradad about 220 AF wintered here before it settled, and when it stayed it walled the springs, cut the stone channels and built its war-leader's court on the highest ground beside the shrine, where the palace stands; the city took its name from that court ([[lore-amradfndng|The Founding of Amradad]]). The shrine grew into the temple precinct below the palace; the academies and the garden houses of the great families grew around it over the following centuries, and the court poets who set the Amradi registers worked here.
+
+The Tellumi quarter is the city's newest. Between about 620 and 629 the four princely houses whose cities fell in the Breaking came here one after another, the House of Shirvan last, with the surviving tablets of its archive, and the Shebarader gave them ground in the city as guests of the throne ([[lore-exilecoming|The Exile Houses Come to Amradad]]). About 660 the High Shekhul of the Great Fire-Temple took up the convening of their Council, and its yearly session has filled the city since. Whenever a great officer fell from favor, a Tellumi court was ready to buy his house and garden, and the quarrel between the exile courts and the great houses grew out of those sales.
+
 ## Hooks {#hooks}
 
 - **The charts that changed hands.** A great house's astrologer has gone over to one of the exile courts and taken the house's charts: every marriage, journey and quarrel it has timed for twenty years. The exile court denies having them, and the house cannot be seen to ask.
@@ -78,3 +84,9 @@ The caravanserais inside the caravan gate take anyone who pays, and fill when th
 
 [[place-tahrodan|Tahrodan]]
 : the larger fortress city of the caravan road
+
+[[lore-amradfndng|The Founding of Amradad]]
+: the confederation that settled at the oasis
+
+[[lore-exilecoming|The Exile Houses Come to Amradad]]
+: how the Tellumi quarter came to be
