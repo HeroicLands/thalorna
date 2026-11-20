@@ -87,7 +87,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Rinjai Domain, held by House Rinjai (Red Peak), holds [[place-rinjai|Rinjai]], the mountain of the lesser island at the strait's mouth, by patent of the Emperor. Its lord is the Dauzhwo [Rinjai Hoja]{.name data-type="being/npc"} (Fire Blade), twenty-nine years old, who sits in the castle town of [[place-rinwu|Rinwu]] (Red Hall), population 3,000. The domain holds 41,000 people, is assessed at 26,000 bales a year, and musters 650 men and 25 ships. Hoja is sworn to [Shuiwojai Henzo]{.name data-type="being/npc"}, and Rinjai stands with [The Strait]{.name data-type="affiliation"} bloc.
+The Rinjai Domain, held by House Rinjai (Red Peak), holds [[place-rinjai|Rinjai]], the mountain of the lesser island at the strait's mouth, by patent of the Emperor. Its lord is the Dauzhwo [[being-hojarinjai|Rinjai Hoja]] (Fire Blade), twenty-nine years old, who sits in the castle town of [[place-rinwu|Rinwu]] (Red Hall), population 3,000. The domain holds 41,000 people, is assessed at 26,000 bales a year, and musters 650 men and 25 ships. Hoja is sworn to [[being-henzoshuiwo|Shuiwojai Henzo]], and Rinjai stands with [The Strait]{.name data-type="affiliation"} bloc.
 
 ## The Land
 
