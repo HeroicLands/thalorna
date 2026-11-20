@@ -127,7 +127,6 @@ function spellingRows(tongue) {
     // Áelendi writes sh as s. The rule is Áelendi's alone: s and h never
     // meet in a Senali word.
     if (AE) for (const v of cases("sh")) add(v, ch("s"), cm("s"));
-    for (const v of cases("x")) add(v, ch("k", "s"), cm("k", "s"));
     for (const c of singles) for (const v of cases(c)) add(v, ch(c), cm(c));
     for (const [s, k] of near) for (const v of cases(s)) add(v, ch(k), cm(k));
     for (const [s, k] of doubled) {

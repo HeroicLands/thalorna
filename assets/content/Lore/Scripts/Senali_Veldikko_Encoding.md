@@ -12,7 +12,6 @@ data:
     dh: DHAERIS
     nk: [INGELI, KELANNA]
     ch: KELANNA
-    x: [KELANNA, SENNUVI]
     p: PELANNE
     v: VELUNNA
     m: MERINNE
@@ -2457,7 +2456,7 @@ This encoding writes [[skill-senalilng|Senali]] in veldikko. A passage selects i
 - **_ng_ and _dh_ are one letter each.** _N_ before _k_ is the letter _ng_ and then _k_. _Dh_ is the voiced fricative between vowels.
 - **_g_ is _k_**, since Senali has no _g_.
 - **A glide _w_ is the vowel _u_ it glides from**, so _wo_ and _wi_ are the pairs _uo_ and _ui_: _hwoma_ is written with _u_ and _o_.
-- **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and any other _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
+- **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and any other _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, the sound of _x_ is written _ks_, and _j_ is the vowel _y_. No roman letter is left in the text.
 - **_s_ followed by _h_ writes both consonants**, including where _-ho_ follows a stem ending in _s_.
 - **A doubled consonant is its letter once, with the length bar beneath it.**
 - **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_ and _y_ are six marks, and the front vowel _ì_ is written with the _y_ mark.
