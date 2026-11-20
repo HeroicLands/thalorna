@@ -53,7 +53,7 @@ data:
 
 # Appearance {#appearance}
 
-Ovrik Lervogorich is a 50-year-old man who stands 5'10" tall and is of medium build. He has a square face, heavy brows, weathered tanned skin, cropped graying brown hair, a stubble of beard and grey eyes. A scar runs through his left eyebrow.
+Ovrik Lervogorich is a 50-year-old man who stands 5'10" tall and is of medium build. He has a square face, heavy brows, weathered tanned skin, cropped graying brown hair, a stubble of beard and gray eyes. A scar runs through his left eyebrow.
 
 # Dossier {#dossier}
 
@@ -89,7 +89,7 @@ He knows every warden, tower and bell by name, and the villages answer his call.
 
 ### Weaknesses
 
-He has made himself the only man who can read his own rolls, and the prince is beginning to ask.
+He trusts no clerk with the pay, and the prince sees only what he is shown.
 
 ## Social
 

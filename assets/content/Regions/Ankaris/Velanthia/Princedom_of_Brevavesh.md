@@ -29,9 +29,9 @@ data:
         description: >-
           A man who holds a fort's wall for the warden's pay, and often for less.
       - level: 3
-        title: Warden
+        title: Officer of the Forts
         description: >-
-          The appointed holder of a paid fort, answering to the captain of the forts.
+          A warden of a paid fort, the captain of the forts or the circuit judge, who holds a post at the prince's pleasure.
       - level: 4
         title: Prince
         description: >-

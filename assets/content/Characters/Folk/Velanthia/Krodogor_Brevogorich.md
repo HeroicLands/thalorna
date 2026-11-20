@@ -50,7 +50,7 @@ data:
 
 # Appearance {#appearance}
 
-Krodogor Brevogorich is a 52-year-old man who stands 6'1" tall and is of medium build. He has a square face, a crooked nose, heavy brows, weathered tanned skin, cropped graying dark brown hair, a short beard and grey eyes. His left ear is notched.
+Krodogor Brevogorich is a 52-year-old man who stands 6'1" tall and is of medium build. He has a square face, a crooked nose, heavy brows, weathered tanned skin, cropped graying dark brown hair, a short beard and gray eyes. His left ear is notched.
 
 # Dossier {#dossier}
 

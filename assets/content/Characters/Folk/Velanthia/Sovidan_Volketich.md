@@ -48,7 +48,7 @@ data:
     - {key: ltkboot, model: armorgear-ltkboot, kind: clothing}
     - {key: saddleridi, model: miscgear-saddleridi, kind: miscgear}
     - {key: hornhuntin, model: miscgear-hornhuntin, kind: miscgear}
-    - {key: passroster, name: Patrol roster of the pass roads, kind: miscgear, system: {weight: 1}}
+    - {key: musteroll, name: Muster tally of the Host, kind: miscgear, system: {weight: 1}}
 ---
 
 # Appearance {#appearance}
@@ -95,5 +95,5 @@ He is young among older clan heads, and a late harvest would show it.
 
 ## Plot Hooks
 
-1. **The escort.** A drover's party wants a rider on the pass road who is not on the reeve's roll, and Sovidan lends one for a price in grain.
+1. **The escort.** A drover's party wants a rider on the pass road who is not on the Warden of the Passes' roster, and Sovidan lends one for a price in grain.
 2. **The burned post.** A rider has found a signal post burned on the northern side, and Sovidan wants it looked at before his council hears.

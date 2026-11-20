@@ -55,7 +55,7 @@ data:
 
 # Appearance {#appearance}
 
-Milogor Yarogorich is a 49-year-old man who stands 5'8" tall and is of medium build. He has an angular face, an aquiline nose, arched brows, smooth olive skin, straight graying black hair, a goatee and grey eyes. The tip of his left little finger is missing.
+Milogor Yarogorich is a 49-year-old man who stands 5'8" tall and is of medium build. He has an angular face, an aquiline nose, arched brows, smooth olive skin, straight graying black hair, a goatee and gray eyes. The tip of his left little finger is missing.
 
 # Dossier {#dossier}
 

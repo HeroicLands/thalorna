@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Officer of the Hall
         description: >-
-          The judge, the captain of the retinue or the keeper of the granary, who holds a post at the prince's pleasure.
+          The judge, the captain of the retinue or the keeper of the granary or the reeve of the pass market, who holds a post at the prince's pleasure.
       - level: 4
         title: Prince
         description: >-

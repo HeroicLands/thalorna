@@ -3,13 +3,13 @@ shortcode: tvsknsdrgrch
 name: {full: Tveskana Sedrogorich, en: [Reeve of the Pass Market]}
 type: being
 subType: npc
-description: "The prince of Zhitavesh's reeve at the pass market, who takes the toll on every wagon through the south gate, keeps the order of the stables and answers to the captain of the retinue."
+description: "The prince of Zhitavesh's reeve at the pass market, who tolls the wagons at the south gate, keeps the order of the stables and answers to the captain of the retinue."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, trader]
-  occupation: Reeve
+  occupation: Reeve of the Pass Market
   lore: []
   culture: velanthclt
   homes: [tvskvsh]
@@ -58,7 +58,7 @@ Tveskana Sedrogorich is a 41-year-old woman who stands 5'7" tall and is of mediu
 
 **Age 41. Reeve of the Pass Market. Wants every wagon through her gate in her book.**
 
-Tveskana Sedrogorich keeps the toll on every wagon that passes the south gate of [[place-tvskvsh|Tveskavesh]] and the order of its stables, for the prince of Zhitavesh. She answers to the captain of the retinue at the seat and keeps a small guest room for travelers with the prince's letter.
+Tveskana Sedrogorich tolls the wagons that pass the south gate of [[place-tvskvsh|Tveskavesh]] and the order of its stables, for the prince of Zhitavesh. She answers to the captain of the retinue at the seat and keeps a small guest room for travelers with the prince's letter.
 
 :::secret {title="The monks' wagons"}
 The monastic wagons pay no toll by an old grant, so she keeps a private count of them, and it grows every year past the grain the monasteries admit to holding. She has shown it to no one, because the captain would show it to the prince.

@@ -104,4 +104,4 @@ His grain is worth what others will pay, and the monastic reserve is closed to h
 ## Plot Hooks
 
 1. **The late rain.** Zhitovod wants a party to ride the eastern fields and tell him what the ear will yield before the Hosts' pay falls due.
-2. **Grain upriver.** He wants wagons escorted up the pass road to be sold at Tveskavesh, where the port's agents have no ledger.
+2. **Grain upriver.** He wants wagons escorted up the pass road to be sold at Tveskavesh, where the grain-town price is better, if the wagons can pass the port houses' agents in the square uncounted.

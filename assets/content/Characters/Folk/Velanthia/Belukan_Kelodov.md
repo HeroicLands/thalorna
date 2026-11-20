@@ -101,5 +101,5 @@ Each side watches which way he turns, and he cannot turn without cost.
 
 ## Plot Hooks
 
-1. **The communities' answer.** Riders from Semukarov say the tribe has raised its price, and Belukan wants a witness to what the Soqritur are paying.
+1. **The communities' answer.** Riders from Semukarov say the tribe has raised its price, and Belukan wants a witness to what Semukarov pays the Soqritur.
 2. **The herd sale.** A western buyer wants his crossbred horses, and he wants a party to ride the horses to the buyer unseen by the tribe.

@@ -50,7 +50,7 @@ data:
 
 # Appearance {#appearance}
 
-Radora Boskvanich is a 66-year-old woman who stands 5'4" tall and is of light build. She has an oval face, thin brows, fair wrinkled skin, cropped white hair and grey eyes that rest on a speaker until he stops.
+Radora Boskvanich is a 66-year-old woman who stands 5'4" tall and is of light build. She has an oval face, thin brows, fair wrinkled skin, cropped white hair and gray eyes that rest on a speaker until he stops.
 
 # Dossier {#dossier}
 
@@ -98,4 +98,4 @@ She trusts no outsider with a count, and a famine would test that.
 ## Plot Hooks
 
 1. **The guest barn.** The house asks a party that has eaten at its table to carry a sealed letter to the starbrat of Dobravesh before the rains.
-2. **The condition.** Radora will admit an outsider to count the barn only if the count goes to the heads' meeting and not to the prince.
+2. **The condition.** Radora will admit an outsider to count the barn only if the count is sealed and given to her alone, and goes neither to the heads' meeting nor to the prince.
