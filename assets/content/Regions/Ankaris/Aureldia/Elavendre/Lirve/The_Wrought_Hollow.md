@@ -38,7 +38,7 @@ Who made the things that walk out of the hollow, and why, is not known, and the 
 
 A construct of root and stone, as tall as a man and folded on itself, stands in a chapterhouse collection at [[place-beravel|Péravel]], brought out of Siralonke by an expedition that did not stop at its guides' margins. It does not move. An Order fellow has hired guards at Liranel to bring out a second, one that still walks, and the crown's guides are not going with him. Liranel's other guides, who take pilgrims past the margins for pay, have been asked to show him the way.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The made things,** which defend what they carry and do not tolerate being held.
 - **Blinkfoxes,** the small dreadspawn of Lirve's deep forest, which hunt round the thin places and step out of the world to bite ([[being-blinkfox|Blinkfox]]).

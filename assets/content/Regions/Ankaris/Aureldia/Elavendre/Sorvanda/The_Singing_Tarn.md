@@ -40,7 +40,7 @@ What first sang in the tarn, or when, is not known.
 
 This summer the tarn took a herd boy from the meadow, who went up after a stray at dusk and answered. His mother sits at the shore each evening outside the Wardens' line, and the watch has twice carried her down. An Order scholar with hired guards is camped on the ridge above the corrie, waiting for a still night, with a clerk who writes music and a jar of wax for the guards' ears.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The water.** It is deep from the first step and cold enough to stop a swimmer's breath.
 - **Shardbeaks** feed by the Araelwen-waters of the high meadows and perch on the meadow cairns ([[being-shrdbk|Shardbeak]]).

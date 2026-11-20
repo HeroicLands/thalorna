@@ -40,7 +40,7 @@ What is on the far side of the Door is not known, and the Áelendan do not say w
 
 The watch is short. One of the two Wardens who came down at the autumn turn was killed at the cleft at midwinter, and his partner keeps the Door alone with two dogs, sleeping by day in the turf hut. No relief can come down from the mountains until the passes open. An Order scholar, hearing at Kalipsa that the Door is thinly kept, has hired guards on the Lísere coast and means to camp at the mound and watch what comes through for himself.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **What comes through.** The cleft itself on the dark nights, and whatever the watch fails to turn.
 - **The bog.** Olvalonke is black water under moss, and a path that held a man in the autumn does not hold him in the thaw.

@@ -31,7 +31,7 @@ The Order's road climbs a few miles deeper into Teilvari every summer, and the w
 
 The Order counts every sentry it loses as a Seilvri killing and hangs Seilvri for them. The Seilvri count every gatherer lost as the Order's work.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 The Order's patrols ride the road by day and hang anyone they find carrying food into the wood. The Seilvri bowmen hold the valley heads and take any stranger for the Order's scout.
 

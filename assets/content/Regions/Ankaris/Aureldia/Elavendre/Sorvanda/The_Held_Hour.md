@@ -38,7 +38,7 @@ What made the bowl, or when its light first stood still, is not known to anyone.
 
 The watch sits at the lip every day of the year, and it is short-handed in summer when the herds are up. Below the ring, in a fold out of the watch's sight, a party of the Order is camped with hired guards out of [[place-liranel|Liranel]]. It holds a license to survey the Spine from the crown and no leave from anyone who keeps it, and its scholar means to send a man down on a rope at the change of the watch, with a water-clock, and draw him up again.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The Wardens.** They warn once, at the ring, and then they do not warn.
 - **Shardbeaks** perch on the mark-stones in sunlight and dive at whoever carries a working or a worked thing ([[being-shrdbk|Shardbeak]]).
