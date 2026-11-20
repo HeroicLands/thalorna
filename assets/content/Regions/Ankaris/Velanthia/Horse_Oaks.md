@@ -21,7 +21,7 @@ Nobody lives in the grove. The villages along the bluff keep it, and the people 
 
 ## Who Holds It {#who-holds-it}
 
-The grove belongs to the villages of the bluff in common, and no prince has granted it or taxed it. A headman of the nearest village keeps the paths and the fence, and a priest of [[lore-lizelasdty|Lizelas]] comes up from the river to bless the first sheaf. The priesthood has long since stopped trying to remove the older marks and sets a small wooden image of the goddess at the foot of the largest oak each harvest.
+The grove belongs to the villages of the bluff in common, and no prince has granted it or taxed it. A headman of the nearest village keeps the paths and the fence, and a priest of the [[affiliation-lizelas|Faith of Lizelas]] comes up from the river to bless the first sheaf. The priesthood has long since stopped trying to remove the older marks and sets a small wooden image of the goddess at the foot of the largest oak each harvest.
 
 ## Layers {#history}
 
@@ -53,7 +53,7 @@ A trodden ring beneath the largest oak, a wooden image of Lizelas wrapped agains
 : the goddess whose image stands at the foot of the largest oak
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
-: the faith that layers its images over the older marks
+: the faiths of the pantheon, whose images layer over the older marks
 
 [[place-velanthrgn|Velanthia Region]]
 : the land
