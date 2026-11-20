@@ -253,7 +253,7 @@ Eagles hunt alone, and a mated pair defends its nesting range through the breedi
 
 ## What the Mountain People Do
 
-The eagle is the wesk of Vristwald villages such as [[place-arnholt|Arnholt]], [Arnwald]{.name data-type="place/settlement"} and [Arngrund]{.name data-type="place/settlement"}, who keep a watch on the cliff where it nests and take a pair's flights as omens. The [[lore-nyalubaclt|Nyáluba]] eagle-clan, the [Ngonzi]{.name data-type="affiliation/lineage"}, count the [[lore-eaglengonzispr|Eagle Spirit]], their guide, as their ancestral presence and not as the bird alone. Shepherds in the passes pen their lambs under the crags in spring and keep dogs near the flock. An eyrie holds the bones of every kill, and a feather from it is worth a good knife. Falconers do not take eagles, which are too heavy for the wrist and too fierce to train.
+The eagle is the wesk of Vristwald villages such as [[place-arnholt|Arnholt]], [Arnwald]{.name data-type="place/settlement"} and [Arngrund]{.name data-type="place/settlement"}, who keep a watch on the cliff where it nests and take a pair's flights as omens. The [[lore-nyalubaclt|Nyáluba]] eagle-clan, the [[affiliation-ngonzi|Ngonzi]], count the [[lore-eaglengonzispr|Eagle Spirit]], their guide, as their ancestral presence and not as the bird alone. Shepherds in the passes pen their lambs under the crags in spring and keep dogs near the flock. An eyrie holds the bones of every kill, and a feather from it is worth a good knife. Falconers do not take eagles, which are too heavy for the wrist and too fierce to train.
 
 ## Signs
 

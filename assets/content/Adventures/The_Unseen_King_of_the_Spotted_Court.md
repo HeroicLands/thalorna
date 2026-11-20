@@ -26,7 +26,7 @@ Offer the entry that suits the hero.
 - **The thief.** The Court's gift-stores are said to hold ivory, dyes and iron. A river-factor, whose boats the [Spotted Guard]{.name data-type="affiliation"} took for the Court's use, offers a share for the key to the storehouses.
 - **The mercenary or soldier.** A tribe has sent no gift for a year, and its war-leader needs hired spears for the reckoning. The party's contract includes a letter of safe-conduct to the Court.
 - **The leader.** The party's chieftain faces a bad season, a feud, and an offer from a Court envoy: send the gifts, and the Court will leave the tribe alone and its hunters will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
-- **The lone wanderer.** The wanderer carries a leopard's claw token from a [Sengala]{.name data-type="affiliation/lineage"} trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
+- **The lone wanderer.** The wanderer carries a leopard's claw token from a [[affiliation-sengala|Sengala]] trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
 
 The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 

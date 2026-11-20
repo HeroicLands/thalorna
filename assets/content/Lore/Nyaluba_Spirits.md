@@ -47,7 +47,7 @@ Ward against
 The tradition imposes no rigid taxonomy, but seven kinds recur across the clans.
 
 Totems
-: the ancestral guides of a clan's lineage, and the ones with formal cults of their own: [[affiliation-nyalblion|Lion]] ([Ruwozi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbcroc|Crocodile]] ([Kolembozi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbeagl|Eagle]] ([Ngonzi]{.name data-type="affiliation/lineage"}), [[affiliation-nyalbleop|Leopard]] ([Sengala]{.name data-type="affiliation/lineage"}) and [[affiliation-nyalbbaob|Baobab]] ([Lobwezi]{.name data-type="affiliation/lineage"}). A totem is not an animal but the ancestral presence from which the clan traces its identity, and the clan's conduct is bound by its nature.
+: the ancestral guides of a clan's lineage, and the ones with formal cults of their own: [[affiliation-nyalblion|Lion]] ([[affiliation-ruwozi|Ruwozi]]), [[affiliation-nyalbcroc|Crocodile]] ([[affiliation-kolembozi|Kolembozi]]), [[affiliation-nyalbeagl|Eagle]] ([[affiliation-ngonzi|Ngonzi]]), [[affiliation-nyalbleop|Leopard]] ([[affiliation-sengala|Sengala]]) and [[affiliation-nyalbbaob|Baobab]] ([[affiliation-lobwezi|Lobwezi]]). A totem is not an animal but the ancestral presence from which the clan traces its identity, and the clan's conduct is bound by its nature.
 
 Land-spirits
 : whose domain is a place rather than a lineage: keepers of gathering-trees, ridge-spirits of sacred heights, spirits of crossings, cairns and thresholds. Many of the oldest sites are held by land-spirits that were ancient when the first clans arrived.

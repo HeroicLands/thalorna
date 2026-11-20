@@ -29,7 +29,7 @@ achieves is closer to speech than to signaling.
 It is a skill of the [[affiliation-nyalbpnthn|Nyáluba Way]] as much as of the language. Drum-speakers
 keep the ceremonial drumming without which the rites do not begin, summon a distant Spirit-Speaker
 when one is needed, and call a clan to assembly. The northern reach of the network, where it thins
-toward the rainforest, is held by the [Sengala]{.name data-type="affiliation/lineage"} and is the least reliable stretch.
+toward the rainforest, is held by the [[affiliation-sengala|Sengala]] and is the least reliable stretch.
 
 ## How Nyáluban Drum-Speech sounds
 

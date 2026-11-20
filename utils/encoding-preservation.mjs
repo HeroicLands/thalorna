@@ -618,6 +618,16 @@ const registerRenames = new Map([
             { from: "bazhrámiš", tongue: "ashaian", to: "bazhrámish" },
         ],
     ],
+    [
+        notePath("skill-nyalbnlng"),
+        [
+            {
+                from: "guardian of a town baobab",
+                tongue: "translation",
+                to: "Guardian of a Village Baobab",
+            },
+        ],
+    ],
 ]);
 
 /** The baseline with each such register row carrying its replacement name. */
@@ -1360,6 +1370,11 @@ export function assertEncodingMigrationPreserved(
             'The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [Great Lubemo]{.name data-type="affiliation/governmental"} is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.',
             "The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [[affiliation-greatlubemo|Great Lubemo]] is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.",
         );
+    // The two clan-naming lines of the Nyáluban reading promote exactly five
+    // clan spans to links, each to its own lineage address.
+    if (isNote(file, "skill-nyalbnlng"))
+        for (const [span, link] of nyalubanClanPromotions)
+            originalBody = originalBody.replace(span, link);
     // Existing English and sample lines retain their bytes and order. New
     // explanatory prose may be added; an old reading cannot disappear.
     const lines = body.split("\n");
@@ -1370,6 +1385,33 @@ export function assertEncodingMigrationPreserved(
         at = found + 1;
     }
 }
+
+/**
+ * The clan spans of the Nyáluban reading that are promoted to links, as the
+ * exact baseline span and its replacement, each clan keeping its own address.
+ */
+const nyalubanClanPromotions = [
+    [
+        '_[Ruwozi]{.name data-type="affiliation/lineage"}_ is the clan of the lion',
+        "_[[affiliation-ruwozi|Ruwozi]]_ is the clan of the lion",
+    ],
+    [
+        'the crocodile-clan the _[Kolembozi]{.name data-type="affiliation/lineage"}_',
+        "the crocodile-clan the _[[affiliation-kolembozi|Kolembozi]]_",
+    ],
+    [
+        'the eagle-clan the _[Ngonzi]{.name data-type="affiliation/lineage"}_',
+        "the eagle-clan the _[[affiliation-ngonzi|Ngonzi]]_",
+    ],
+    [
+        'the baobab-clan the _[Lobwezi]{.name data-type="affiliation/lineage"}_',
+        "the baobab-clan the _[[affiliation-lobwezi|Lobwezi]]_",
+    ],
+    [
+        'The leopard-clan, the _[Sengala]{.name data-type="affiliation/lineage"}_,',
+        "The leopard-clan, the _[[affiliation-sengala|Sengala]]_,",
+    ],
+];
 
 /** The historical public-API input, with only the approved representation moves. */
 function projectionData(before, prefix, moveRoles = true) {

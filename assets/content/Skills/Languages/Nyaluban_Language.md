@@ -6394,7 +6394,7 @@ data:
     - {name: Guardian of a Crossing, tongue: translation}
     - {name: Guardian of a Forest Path, tongue: translation}
     - {name: Guardian of a Sacred Site, tongue: translation}
-    - {name: Guardian of a Town Baobab, tongue: translation}
+    - {name: Guardian of a Village Baobab, tongue: translation}
     - {name: Guardian of an Old Heto, tongue: translation}
     - {name: Guardian of the Pact-Baobab, tongue: translation}
     - {name: Guide, tongue: translation}
@@ -6471,18 +6471,56 @@ data:
     - {name: Truce-Warden, tongue: translation}
     - {name: Uninitiated, tongue: translation}
     - {name: Water-Warden, tongue: translation}
+    - {name: Drum-Master of Sengala, tongue: translation}
+    - {name: Elder of the Lineage, tongue: translation}
+    - {name: Elder of the Terraces, tongue: translation}
+    - {name: Elder of the Village, tongue: translation}
+    - {name: Guardian, tongue: translation}
+    - {name: Guardian of Heto Lubemo, tongue: translation}
+    - {name: Head of a Trading House, tongue: translation}
+    - {name: Kinsman of the Eagle, tongue: translation}
+    - {name: Kinsman of the Leopard, tongue: translation}
+    - {name: Kinsman of the Lion, tongue: translation}
+    - {name: Kinsman of the River, tongue: translation}
+    - {name: Kinsman of the Tree, tongue: translation}
+    - {name: Master of the Canoes, tongue: translation}
+    - {name: Master of the Gold, tongue: translation}
+    - {name: nyoli ruwozi, tongue: nyaluban}
+    - {name: Paramount, tongue: translation}
+    - {name: Paramount of the Kolembozi, tongue: translation}
+    - {name: Paramount of the Lobwezi, tongue: translation}
+    - {name: Paramount of the Ngonzi, tongue: translation}
+    - {name: Paramount of the Sengala, tongue: translation}
+    - {name: Reach-Elder, tongue: translation}
+    - {name: Regiment Member, tongue: translation}
+    - {name: Regiment-Caller, tongue: translation}
+    - {name: Senior Griot of the Long Pact, tongue: translation}
+    - {name: Senior Spirit-Speaker, tongue: translation}
+    - {name: Smith, tongue: translation}
+    - {name: The Baobab-Clan, tongue: translation}
+    - {name: The Crocodile-Clan, tongue: translation}
+    - {name: The Eagle-Clan, tongue: translation}
+    - {name: The Leopard-Clan, tongue: translation}
+    - {name: The Lion-Clan, tongue: translation}
+    - {name: Trader, tongue: translation}
+    - {name: mbolewe, tongue: nyaluban}
+    - {name: nyangulo, tongue: nyaluban}
+    - {name: ndelushi, tongue: nyaluban}
+    - {name: nkabewi, tongue: nyaluban}
     - name: ngende ngabeli
       tongue: nyaluban
       gloss: "the Stone Tongue, the speech in Lusheya's recital"
-    - {name: bwelende, tongue: nyaluban, gloss: "a Lobwezi town whose baobab died before the Pact"}
+    - name: bwelende
+      tongue: nyaluban
+      gloss: "a Lobwezi village whose baobab died before the Pact"
     - name: shendala
       tongue: nyaluban
-      gloss: "a Lobwezi town whose baobab died in the Pact's time"
+      gloss: "a Lobwezi village whose baobab died in the Pact's time"
     - name: lombesa
       tongue: nyaluban
-      gloss: "a Lobwezi town that took in households of both dispersals"
-    - {name: ndawelo, tongue: nyaluban, gloss: "a Lobwezi town by a red pan"}
-    - {name: nyelambe, tongue: nyaluban, gloss: "a Lobwezi town in the far grass"}
+      gloss: "the Lobwezi paramount's seat, a village that took in households of both dispersals"
+    - {name: ndawelo, tongue: nyaluban, gloss: "a Lobwezi village by a red pan"}
+    - {name: nyelambe, tongue: nyaluban, gloss: "a Lobwezi village in the far grass"}
     - {name: nyandaya, tongue: nyaluban, gloss: "a crocodile of the reach below the Two Figs"}
     - {name: mbeshoya, tongue: nyaluban, gloss: "a crocodile, the mother of Nyandaya"}
     - {name: Crossing of the Two Figs, tongue: translation}
@@ -7235,7 +7273,7 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 
 The five clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] keep no books, and this page is the nearest thing to one: the word-hoard of Nyáluban and of its [[skill-nyalbdrm|Drum-Speech]], the stems the griots and the drum-speakers use, what each ending and prefix makes of them, the rules a new word is built by, and the register of every name the setting gives among the five clans.
 
-A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _[Ruwozi]{.name data-type="affiliation/lineage"}_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyoli Ruwozi_ is the Daughter of the Lion, and _[[lore-shorinyadty|Shorinya Ndafo]]_ is the Great Brightness.
+A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _[[affiliation-ruwozi|Ruwozi]]_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyoli Ruwozi_ is the Daughter of the Lion, and _[[lore-shorinyadty|Shorinya Ndafo]]_ is the Great Brightness.
 
 The sound of Nyáluban is open and sung. Every syllable is a consonant and a vowel or a vowel alone, every word closes on a vowel, and a nasal before a stop opens many words and stands inside many more: _mb_, _nd_, _nk_, _nj_. No word has a fricative and a stop together, so none opens on _sp_, _st_ or _sk_. Pitch carries meaning within the spoken language, which is what lets a drum speak it. The common spelling writes that pitch only where a word needs it, with the guide's caron or circumflex, and uses an acute only to mark stress away from where the guide places it. The transcription remains usable without a tonal performance.
 
@@ -7289,7 +7327,7 @@ ORDER BY position
 
 ### Clan and totem
 
-Four of the five clans the [Long Pact]{.name data-type="lore/law"} binds are named for their totems with _-zi_: the lion-clan are the _Ruwozi_, the crocodile-clan the _[Kolembozi]{.name data-type="affiliation/lineage"}_, the eagle-clan the _[Ngonzi]{.name data-type="affiliation/lineage"}_ and the baobab-clan the _[Lobwezi]{.name data-type="affiliation/lineage"}_. The leopard-clan, the _[Sengala]{.name data-type="affiliation/lineage"}_, carry a name that no ending on this page reaches.
+Four of the five clans the [Long Pact]{.name data-type="lore/law"} binds are named for their totems with _-zi_: the lion-clan are the _Ruwozi_, the crocodile-clan the _[[affiliation-kolembozi|Kolembozi]]_, the eagle-clan the _[[affiliation-ngonzi|Ngonzi]]_ and the baobab-clan the _[[affiliation-lobwezi|Lobwezi]]_. The leopard-clan, the _[[affiliation-sengala|Sengala]]_, carry a name that no ending on this page reaches.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"

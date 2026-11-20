@@ -20,7 +20,7 @@ data:
 
 ## Who Holds It {#who-holds-it}
 
-The [Ngonzi]{.name data-type="affiliation/lineage"}, the eagle-clan, hold them. They alone claim descent from the builders, they alone know the techniques the builders used, and they make the offerings that keep each Heto welcoming. Each Old Heto has its Guardian, a shaman of the eagle cult who holds that one site and no other, and the Guardian says no: entry to every Old Heto but Heto Lubemo is refused to outsiders without exception, including to the Nyáluba of the other four clans. Heto Lubemo is the one exception, and only for the delegations of the five-clan council, which sit within its enclosure under the Ngonzi who keep it. The Lobwezi griots, pressed, say the builders may be the ancestors of some other people entirely, and whose dead they are is the longest-running dispute in Nyáluba country.
+The [[affiliation-ngonzi|Ngonzi]], the eagle-clan, hold them. They alone claim descent from the builders, they alone know the techniques the builders used, and they make the offerings that keep each Heto welcoming. Each Old Heto has its Guardian, a shaman of the eagle cult who holds that one site and no other, and the Guardian says no: entry to every Old Heto but Heto Lubemo is refused to outsiders without exception, including to the Nyáluba of the other four clans. Heto Lubemo is the one exception, and only for the delegations of the five-clan council, which sit within its enclosure under the Ngonzi who keep it. The Lobwezi griots, pressed, say the builders may be the ancestors of some other people entirely, and whose dead they are is the longest-running dispute in Nyáluba country.
 
 ## Layers {#history}
 

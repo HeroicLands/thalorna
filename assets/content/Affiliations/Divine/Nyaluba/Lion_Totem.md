@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [lionruwozisprt]}}
 ---
 
-The **Lion Totem** centers on the [[lore-lionruwozispr|Lion Spirit]], the guide of the [[affiliation-nylbtrblntn|Ruwozi]], the cattle-herding clan of the central grasslands and the most numerous of the five. The Ruwozi do not admire the lion; they understand themselves to be _of_ it. They do not hunt lions, do not eat lion flesh, and are held to the bearing the guide embodies—courage, sovereignty, and challenge made in the open rather than from cover.
+The **Lion Totem** centers on the [[lore-lionruwozispr|Lion Spirit]], the guide of the [[affiliation-ruwozi|Ruwozi]], the cattle-herding clan of the central grasslands and the most numerous of the five. The Ruwozi do not admire the lion; they understand themselves to be _of_ it. They do not hunt lions, do not eat lion flesh, and are held to the bearing the guide embodies—courage, sovereignty, and challenge made in the open rather than from cover.
 
 The lion is **venerated**, in the first of the tradition's three postures: honored with regular offering, greeted at the turning of the cattle-seasons, and sung of in the clan's memory-songs. It is not a god and is not worshipped. It is a kinsman whose kinship crosses both species and the border between the living and the spirit world.
 

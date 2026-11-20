@@ -382,3 +382,94 @@ test("approved affix example spelling preserves the distinct y-before-vowel form
         assert.throws(() => assertEncodingMigrationPreserved(altered, before));
     }
 });
+
+const nyalubanClanLines = {
+    historical:
+        'A noun ends, and _[Ruwozi]{.name data-type="affiliation/lineage"}_ is the clan of the lion.\n' +
+        'Four clans: the crocodile-clan the _[Kolembozi]{.name data-type="affiliation/lineage"}_, the eagle-clan the _[Ngonzi]{.name data-type="affiliation/lineage"}_ and the baobab-clan the _[Lobwezi]{.name data-type="affiliation/lineage"}_. The leopard-clan, the _[Sengala]{.name data-type="affiliation/lineage"}_, stand apart.\n',
+    indexed:
+        "A noun ends, and _[[affiliation-ruwozi|Ruwozi]]_ is the clan of the lion.\n" +
+        "Four clans: the crocodile-clan the _[[affiliation-kolembozi|Kolembozi]]_, the eagle-clan the _[[affiliation-ngonzi|Ngonzi]]_ and the baobab-clan the _[[affiliation-lobwezi|Lobwezi]]_. The leopard-clan, the _[[affiliation-sengala|Sengala]]_, stand apart.\n",
+};
+function nyalubanFixture() {
+    const { before, current } = fixture();
+    before.file = current.file = notePath("skill-nyalbnlng");
+    before.fm.data.register.push({ name: "Guardian of a Town Baobab", tongue: "translation" });
+    current.fm.data.register.push({ name: "Guardian of a Village Baobab", tongue: "translation" });
+    before.raw += nyalubanClanLines.historical;
+    current.raw += nyalubanClanLines.indexed;
+    return { before, current };
+}
+
+test("the Nyáluban clan promotions and village title are the only allowed changes", () => {
+    const { before, current } = nyalubanFixture();
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(current, before));
+
+    const rejected = (mutate, pattern) => {
+        const copy = structuredClone(current);
+        mutate(copy);
+        assert.throws(() => assertEncodingMigrationPreserved(copy, before), pattern);
+    };
+    // Each promotion is required on its own line, with its own destination.
+    for (const clan of ["ruwozi", "kolembozi", "ngonzi", "lobwezi", "sengala"]) {
+        const label = clan[0].toUpperCase() + clan.slice(1);
+        rejected((note) => {
+            note.raw = note.raw.replace(`[[affiliation-${clan}|${label}]]`, `${label}`);
+        }, /original reading changed/);
+        rejected((note) => {
+            note.raw = note.raw.replace(`affiliation-${clan}|`, "affiliation-other|");
+        }, /original reading changed/);
+        rejected((note) => {
+            note.raw = note.raw.replace(`|${label}]]`, `|${label}s]]`);
+        }, /original reading changed/);
+    }
+    rejected((note) => {
+        note.raw = note.raw.replace("is the clan of the lion", "is the clan of the lions");
+    }, /original reading changed/);
+    rejected((note) => {
+        note.raw = note.raw.replace("stand apart", "stand together");
+    }, /original reading changed/);
+
+    // The title rename is exact, language scoped and keeps the tongue.
+    rejected((note) => {
+        note.fm.data.register.pop();
+    }, /lost or changed/);
+    rejected((note) => {
+        note.fm.data.register.at(-1).name = "Guardian of a Hamlet Baobab";
+    }, /lost or changed/);
+    rejected((note) => {
+        note.fm.data.register.at(-1).tongue = "own";
+    }, /lost or changed/);
+
+    // Lines outside the clan lines and the meaning of every word stay fixed.
+    rejected((note) => {
+        note.raw = note.raw.replace(
+            "The English reading stays exactly the same.",
+            "The English reading changes.",
+        );
+    }, /original reading changed/);
+    rejected((note) => {
+        note.fm.data.words[0].gloss = "A orchard.";
+    }, /lost or changed/);
+    rejected((note) => {
+        note.fm.data.words[0].concept = "orchard";
+    }, /lost or changed/);
+
+    // Another language keeps the baseline title.
+    const titled = nyalubanFixture();
+    for (const note of [titled.before, titled.current]) note.file = notePath("skill-dunharlng");
+    titled.current.raw = titled.before.raw;
+    assert.throws(
+        () => assertEncodingMigrationPreserved(titled.current, titled.before),
+        /lost or changed/,
+    );
+
+    // Another language keeps the baseline clan spans, with its register untouched.
+    const clans = nyalubanFixture();
+    for (const note of [clans.before, clans.current]) note.file = notePath("skill-dunharlng");
+    clans.current.fm.data.register = structuredClone(clans.before.fm.data.register);
+    assert.throws(
+        () => assertEncodingMigrationPreserved(clans.current, clans.before),
+        /original reading changed/,
+    );
+});
