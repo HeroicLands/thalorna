@@ -27,13 +27,13 @@ data:
     - name: "tverad"
       definition: "A paid fort on the frontier, garrisoned for a river-prince"
       common: true
-    - name: "vlastar"
-      definition: "A river-prince, the hereditary holder of a river, its landings and its grain"
-      common: true
     - name: "zhitnad"
       definition: "A granary, and in the grain belt the monastery that keeps it"
       common: true
     - {name: "zhitnar", definition: "The keeper of a granary", common: true}
+    - name: "zhuvar"
+      definition: "A river-prince, the hereditary holder of a river, its landings and its grain"
+      common: true
     - name: "koser"
       definition: "In the eastern reach, the safe-conduct and the toll paid to a steppe tribe for it"
       common: true
@@ -63,7 +63,7 @@ data:
 # terran_analog: "Kievan Rus and its steppe frontier: river-princes with druzhina retinues on the Dnieper-Volga river system, Cossack-style free frontier hosts under their atamans on the southern frontier, a monastic network that holds grain and literacy, and merchant houses on the rivers, all within reach of the Pontic steppe and its Turkic nomads. Carries over: princely rivalry checked by mutual need, hired frontier cavalry that can change sides, ransom and tribute across the steppe edge, a church-literate courtly speech. Departs: the Aureldian Pantheon in place of Orthodox Christianity, and no single princely seat that outranks the rest."
 ---
 
-Velanthia has no throne, and it has never needed one. What it has is rivers, and every river has someone who holds it. A _vlastar_, a river-prince, holds the landings, the mills, the ferries and the grain that comes down a river, and a Velanthian places a stranger by asking whose river the stranger lives on before asking anything else. The answer says what the stranger owes, who feeds him in a bad year, and which hall he would be sent to if he were taken.
+Velanthia has no throne, and it has never needed one. What it has is rivers, and every river has someone who holds it. A _zhuvar_, a river-prince, holds the landings, the mills, the ferries and the grain that comes down a river, and a Velanthian places a stranger by asking whose river the stranger lives on before asking anything else. The answer says what the stranger owes, who feeds him in a bad year, and which hall he would be sent to if he were taken.
 
 ## The River and the Prince
 
@@ -79,7 +79,7 @@ On the frontier the prince's riders do not stand the watch themselves. A _tverad
 
 ## The Hosts
 
-Along the southern steppe margin live the Hosts: farmer-warriors who keep horses and sow grain and have taken from the steppe as much of its way of life as suits them. A Host is led by a _polvod_, called an ataman in the common speech of these pages, and the office passes in the founding line. A Host takes its name from its first _polvod_ or its river, and it keeps its own law, its own muster and its own battle-shrine, a portable altar carried to the gathering ground.
+Along the eastern and southeastern steppe margin live the Hosts: farmer-warriors who keep horses and sow grain and have taken from the steppe as much of its way of life as suits them. A Host is led by a _polvod_, called an ataman in the common speech of these pages, and the office passes in the founding line. A Host takes its name from its first _polvod_ or its river, and it keeps its own law, its own muster and its own battle-shrine, a portable altar carried to the gathering ground.
 
 A Host wants three things: to be left alone, to be paid, and to be free to take what the frontier offers. It serves a river-prince for silver and grain, and its _polvod_ can walk away. The princes know it, and it is the fear they live with. A Host that changes sides takes the riders who hold the frontier and the toll roads that feed the princes' mints, and no levy of the heartland can hold the grass without it. A prince pays well, feasts the _polvod_ in his hall and marries into the Host's founding line where he can, because the alternative is to find out what the Host would cost on the other side.
 
@@ -87,7 +87,7 @@ Hosts deal with the steppe tribes across the frontier on their own account. They
 
 ## The Monasteries and the Granaries
 
-The grain-belt monasteries are large endowed houses with fields, mills and barns. A _bratar_ works the land and keeps the offices, and the _starbrat_ who heads a house is a figure of real weight: he or she sits between princes and Hosts as a mediator that neither side can accuse of taking the other's part. A _zhitnad_ is a granary, and in the grain belt the same word names the monastery that keeps it. The monasteries hold grain against bad years and bad neighbors, and a famine year shows how many people in a prince's lands eat from a monastic barn.
+The grain-belt monasteries are houses of the [[affiliation-lizelas|Faith of Lizelas]], large and endowed, with fields, mills and barns. A _bratar_ works the land and keeps the offices, and the _starbrat_ who heads a house is a figure of real weight: he or she sits between princes and Hosts as a mediator that neither side can accuse of taking the other's part. A _zhitnad_ is a granary, and in the grain belt the same word names the monastery that keeps it. The monasteries hold grain against bad years and bad neighbors, and a famine year shows how many people in a prince's lands eat from a monastic barn.
 
 They also hold the letters. Monks copy the liturgies and the court's letters in the Helónika, the script the courtly tongue is written in, and a village scribe is almost always a monk's pupil. A prince who wants a charter written sends to the nearest house.
 
@@ -97,11 +97,11 @@ In the grain-belt towns the _torgad_, the merchant houses, live on credit. A hou
 
 ## The Eastern Reach
 
-The communities along the inland edge of the frontier, in the oasis-and-river country, are neither wholly Velanthian nor wholly of the steppe. They speak Velanthian with Sovidur words in it, or Sovidur with Velanthian words for the plow and the mill, and they answer to the side that last had the better year. Their speech carries the vocabulary of a frontier that is crossed in both directions: _koser_, the safe-conduct and the toll for it, _lushik_, the ransom for a captive taken in a raid, _yadak_, the raid itself, and _semok_, the guest under a tribe's protection. A Velanthian from the heartland understands the words and does not like how easily the eastern reach says them.
+The communities along the inland edge of the frontier, in the oasis-and-river country, are neither wholly Velanthian nor wholly of the steppe. They speak Velanthian with Sovidur words in it, or Sovidur with Velanthian words for the plow and the mill, and they answer to the side that last had the better year. Their speech carries the vocabulary of a frontier that is crossed in both directions: _koser_, the safe-conduct and the toll for it, _lushik_, the ransom for a captive taken in a raid, _yadak_, the raid itself, and _semok_, the guest under a tribe's protection.
 
 ## Names and the Tongue
 
-A Velanthian carries a given name and a house name. A given name is a thing of the river country with a closing: _Belovod_, _Dobrogor_, _Zhitena_, _Radora_. A house name says whose line it is or whose seat: _Belovodich_ is the line of a founder named Belovod, _Dubovski_ is the house of the oak seat, _Volkarov_ the house of Volkar. The eastern reach gives some of its names a steppe word, and a name such as _Kodogor_ or _Sovidena_ places its bearer on the frontier as clearly as an accent would.
+A Velanthian carries a given name and a house name. A given name is a thing of the river country with a closing: _Brelovod_, _Dobrogor_, _Zhitena_, _Radora_. A house name says whose line it is or whose seat: _Brelovodich_ is the line of a founder named Brelovod, _Duvavesh_ is the house of the oak seat, _Volkarov_ the house of Volkar. The eastern reach gives some of its names a steppe word, and a name such as _Kodogor_ or _Sovidena_ places its bearer on the frontier as clearly as an accent would.
 
 The courtly and liturgical tongue is [[skill-velanthlng|Velanthian]], unrelated to the tongues of the Nordlands or of Aureldia, and written in a variety of [[skill-helnkscrpt|the Helónika]]. The language note gives its sounds, its words and the lists the names are drawn from.
 

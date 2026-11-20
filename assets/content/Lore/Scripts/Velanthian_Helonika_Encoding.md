@@ -7,7 +7,7 @@ data:
   packFolder: languages
   language: velt
   font: helonika-book
-  vowels: aeiouäëïöüáéíóúAEIOUÄËÏÖÜÁÉÍÓÚ
+  vowels: aeiouáéíóúAEIOUÁÉÍÓÚ
   mappings:
     "0": DIGIT_ZERO
     "1": DIGIT_ONE
@@ -87,18 +87,6 @@ data:
     zH: ZH_MIN
     Zh: ZH_MAJ
     ZH: ZH_MAJ
-    aa: LONG_A_MIN
-    aA: LONG_A_MIN
-    Aa: LONG_A_MAJ
-    AA: LONG_A_MAJ
-    ii: LONG_I_MIN
-    iI: LONG_I_MIN
-    Ii: LONG_I_MAJ
-    II: LONG_I_MAJ
-    uu: LONG_U_MIN
-    uU: LONG_U_MIN
-    Uu: LONG_U_MAJ
-    UU: LONG_U_MAJ
   rules: {normalization: NFC, matching: longest-first, roundTrip: none}
 ---
 
@@ -109,7 +97,6 @@ This encoding writes [[skill-velanthlng|Velanthian]] in helonika-book. A passage
 - **_kh_ and _zh_ are one letter each**, the eastern _kh_ and the buzzing _zh_. A small letter is the minuscule and a capital the majuscule.
 - **_sh_ and _ch_ are written with the letters of their parts.** _sh_ is the letter for _s_ and the letter for _h_, and _ch_ is the letters for _t_, _s_ and _h_. A capital on either keeps the capital on its first letter.
 - **_y_ is the letter for _i_.** The Helónika has no letter for the consonant _y_, so _y_ and _i_ share a sign, and decoding offers both.
-- **A doubled _aa_, _ii_ or _uu_ is the barred vowel**, one letter with a bar over it.
 - **An acute vowel is the vowel followed by the accent**, which Velanthian writes for a stress the guide's rule would not choose.
 - **The other letters, the raised dot and the numerals are those of the Helónika Spelling**, as are its capitals: a capital is written only on a name and on the paragraph's first word.
 

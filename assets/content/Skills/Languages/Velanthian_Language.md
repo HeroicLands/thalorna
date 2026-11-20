@@ -15,90 +15,90 @@ data:
     pattern: ["{given} {house}"]
     given:
       female:
-        - "Belana"
-        - "Belora"
-        - "Belina"
-        - "Chernana"
-        - "Chernila"
-        - "Dubina"
-        - "Dubena"
-        - "Dubora"
-        - "Borena"
-        - "Borina"
-        - "Gorina"
+        - "Brelana"
+        - "Brelora"
+        - "Brelina"
+        - "Charvana"
+        - "Charvena"
+        - "Duvena"
+        - "Duvora"
+        - "Duvina"
+        - "Boskena"
+        - "Boskina"
+        - "Gorvena"
         - "Gorena"
         - "Zhitana"
         - "Zhitena"
         - "Zhitora"
-        - "Milina"
         - "Milvena"
         - "Milora"
         - "Radora"
-        - "Radila"
-        - "Slavana"
-        - "Slavila"
-        - "Tverdena"
-        - "Tverdila"
+        - "Radvena"
+        - "Slevana"
+        - "Slevora"
+        - "Tveskena"
+        - "Tveskana"
         - "Volkena"
         - "Volkana"
         - "Yarvena"
         - "Yarana"
-        - "Tikhena"
-        - "Tikhora"
-        - "Tikhana"
-        - "Branena"
-        - "Branila"
-        - "Branora"
+        - "Teshena"
+        - "Teshora"
+        - "Teshana"
+        - "Brevena"
+        - "Brevana"
+        - "Brevora"
         - "Dobrena"
-        - "Dobrana"
         - "Dobrora"
-        - "Vladena"
-        - "Vladora"
-        - "Vladina"
-        - "Ostrena"
-        - "Ostrora"
-        - "Krepina"
-        - "Krepana"
-        - "Krepila"
-        - "Lugena"
-        - "Lugora"
-        - "Solena"
-        - "Solina"
-        - "Solora"
-        - "Solvena"
-        - "Serora"
-        - "Serila"
-        - "Medvena"
-        - "Turena"
-        - "Turila"
-        - "Rostena"
-        - "Rostila"
-        - "Gostena"
-        - "Svetora"
-        - "Zvonena"
+        - "Vlidena"
+        - "Vlidora"
+        - "Vlidina"
+        - "Ovrena"
+        - "Ovrana"
+        - "Krodina"
+        - "Krodana"
+        - "Krodena"
+        - "Lervena"
+        - "Lervora"
+        - "Sulvana"
+        - "Sulvina"
+        - "Sulvora"
+        - "Sulvena"
+        - "Sedrana"
+        - "Sedrena"
+        - "Mevrena"
+        - "Torvena"
+        - "Torvora"
+        - "Rezdena"
+        - "Rezdana"
+        - "Geshena"
+        - "Svelora"
+        - "Zvekena"
+        - "Zvekora"
+        - "Karvena"
         - "Sokena"
         - "Sokora"
         - "Kodena"
         - "Kodora"
         - "Volketa"
-        - "Volketora"
+        - "Sovidora"
         - "Kelodena"
         - "Bilokana"
         - "Sovidena"
         - "Beyuka"
         - "Semoka"
       male:
-        - "Belogor"
-        - "Belovod"
-        - "Belvan"
-        - "Belodar"
-        - "Chernobor"
-        - "Chernovod"
-        - "Chernash"
-        - "Dubogor"
-        - "Dubvan"
-        - "Dubek"
-        - "Borvan"
+        - "Brelogor"
+        - "Brelovod"
+        - "Brelvan"
+        - "Brelodar"
+        - "Charvobor"
+        - "Charvodar"
+        - "Charvash"
+        - "Duvogor"
+        - "Duvash"
+        - "Duvek"
+        - "Boskvan"
         - "Gorovod"
         - "Gorik"
         - "Zhitovod"
@@ -109,53 +109,53 @@ data:
         - "Radogor"
         - "Radovod"
         - "Radodar"
-        - "Slavogor"
-        - "Slavovod"
-        - "Tverdan"
-        - "Tverdogor"
+        - "Slevogor"
+        - "Slevovod"
+        - "Tveskan"
+        - "Tveskogor"
         - "Volkar"
         - "Volkrad"
         - "Yarogor"
         - "Yarvan"
-        - "Tikhogor"
-        - "Tikhvan"
-        - "Tikhodar"
-        - "Branogor"
-        - "Branik"
-        - "Branovod"
+        - "Teshogor"
+        - "Teshvan"
+        - "Teshodar"
+        - "Brevogor"
+        - "Brevek"
+        - "Brevash"
         - "Dobrogor"
         - "Dobrovod"
         - "Dobrash"
         - "Dobrodar"
-        - "Vladogor"
-        - "Vladash"
-        - "Vladvan"
-        - "Ostrik"
-        - "Ostran"
-        - "Ostrovod"
-        - "Krepogor"
-        - "Krepash"
-        - "Krepan"
-        - "Lugash"
-        - "Lugovod"
-        - "Lugik"
-        - "Sologor"
-        - "Solik"
-        - "Solvan"
-        - "Serogor"
-        - "Serovod"
-        - "Serash"
-        - "Medvan"
-        - "Medash"
-        - "Medek"
-        - "Turovod"
-        - "Turik"
-        - "Turvan"
-        - "Rostogor"
-        - "Gostvan"
-        - "Svetovod"
-        - "Kamogor"
-        - "Zvonogor"
+        - "Vlidogor"
+        - "Vlidash"
+        - "Vlidvan"
+        - "Ovrik"
+        - "Ovran"
+        - "Ovrodar"
+        - "Krodogor"
+        - "Krodash"
+        - "Krodan"
+        - "Lervash"
+        - "Lervogor"
+        - "Lervik"
+        - "Sulvogor"
+        - "Sulvik"
+        - "Sulvan"
+        - "Sedrogor"
+        - "Sedrovod"
+        - "Sedrash"
+        - "Mevran"
+        - "Mevrash"
+        - "Mevrek"
+        - "Torvogor"
+        - "Torvik"
+        - "Torvek"
+        - "Rezdogor"
+        - "Geshvan"
+        - "Svelovod"
+        - "Karvogor"
+        - "Zvekogor"
         - "Sokogor"
         - "Kodogor"
         - "Kodvan"
@@ -167,64 +167,64 @@ data:
         - "Semokar"
         - "Beyukan"
     house:
-      - "Belovodich"
+      - "Brelovodich"
       - "Dobrovodich"
       - "Zhitogorich"
       - "Radovodich"
-      - "Tverdogorich"
+      - "Tveskogorich"
       - "Yarogorich"
-      - "Tikhogorich"
-      - "Branogorich"
-      - "Vladovodich"
-      - "Krepogorich"
-      - "Lugovodich"
-      - "Serogorich"
-      - "Turovodich"
-      - "Borvanich"
+      - "Teshogorich"
+      - "Brevogorich"
+      - "Vlidogorich"
+      - "Krodogorich"
+      - "Lervogorich"
+      - "Sedrogorich"
+      - "Torvogorich"
+      - "Boskvanich"
       - "Milvanich"
-      - "Solvanich"
-      - "Medvanich"
+      - "Sulvanich"
+      - "Mevranich"
       - "Kodogorich"
       - "Sovidich"
       - "Volketich"
-      - "Dubovski"
-      - "Borovski"
-      - "Gorovski"
-      - "Zhitovski"
-      - "Belovski"
-      - "Chernovski"
-      - "Radovski"
-      - "Slavovski"
-      - "Tverdovski"
-      - "Volkovski"
-      - "Yarovski"
-      - "Tikhovski"
-      - "Branovski"
-      - "Dobrovski"
-      - "Vladovski"
-      - "Krepovski"
-      - "Lugovski"
-      - "Serovski"
-      - "Medovski"
-      - "Kodovski"
+      - "Duvavesh"
+      - "Boskavesh"
+      - "Goravesh"
+      - "Zhitavesh"
+      - "Brelavesh"
+      - "Charvavesh"
+      - "Radavesh"
+      - "Svelavesh"
+      - "Tveskavesh"
+      - "Volkavesh"
+      - "Yaravesh"
+      - "Teshavesh"
+      - "Brevavesh"
+      - "Dobravesh"
+      - "Vlidavesh"
+      - "Krodavesh"
+      - "Sokavesh"
+      - "Sedravesh"
+      - "Ovravesh"
+      - "Kodavesh"
       - "Volkarov"
-      - "Dubekov"
+      - "Duvekov"
       - "Zhitekov"
-      - "Radashov"
-      - "Tverdikov"
-      - "Yarashov"
-      - "Branikov"
-      - "Lugikov"
-      - "Solikov"
-      - "Turikov"
-      - "Medekov"
-      - "Gorikov"
-      - "Ostranov"
-      - "Krepashov"
-      - "Serashov"
-      - "Tikhashov"
-      - "Belashov"
-      - "Chernashov"
+      - "Dobrashov"
+      - "Tveskanov"
+      - "Vlidashov"
+      - "Brevekov"
+      - "Lervikov"
+      - "Sulvikov"
+      - "Torvikov"
+      - "Mevrekov"
+      - "Duvashov"
+      - "Ovranov"
+      - "Krodashov"
+      - "Sedrashov"
+      - "Lervashov"
+      - "Ovrikov"
+      - "Charvashov"
       - "Kelodov"
       - "Bilokov"
   fields:
@@ -232,14 +232,14 @@ data:
       holds: "The river-prince and his hall: the retinue sworn to him, the judge who rules by the customary law, and the keeper of a walled town."
     - name: "The Hosts and the frontier"
       holds: "The head of a Host and the paid fort on the frontier."
-    - name: "Grain, monastery and town"
+    - name: "Grain and monastery"
       holds: "The granary and its keeper, and the monks and the head of the monastery that holds it."
-    - name: "River, trade and law"
+    - name: "River and trade"
       holds: "The boatman, the merchant and the merchant house, the crossing and the landing."
     - name: "The eastern loans"
       holds: "The words the eastern reach took from Sovidur: the raid, the ransom, the safe-conduct, the guest, the banner and the horse."
   words:
-    - form: vlastar
+    - form: zhuvar
       class: n
       field: "Princes, courts and retinues"
       gloss: "a river-prince, the hereditary holder of a river, its landings and its grain"
@@ -265,36 +265,33 @@ data:
       gloss: "a paid fort on the frontier, garrisoned for a river-prince"
     - form: zhitnad
       class: n
-      field: "Grain, monastery and town"
+      field: "Grain and monastery"
       gloss: "a granary, and in the grain belt the monastery that keeps it"
-    - form: zhitnar
-      class: n
-      field: "Grain, monastery and town"
-      gloss: "the keeper of a granary"
+    - {form: zhitnar, class: n, field: "Grain and monastery", gloss: "the keeper of a granary"}
     - form: bratar
       class: n
-      field: "Grain, monastery and town"
+      field: "Grain and monastery"
       gloss: "a monk of a grain-belt monastery"
     - form: starbrat
       class: n
-      field: "Grain, monastery and town"
+      field: "Grain and monastery"
       gloss: "the head of a monastery, an abbot or an abbess"
     - form: lodar
       class: n
-      field: "River, trade and law"
+      field: "River and trade"
       gloss: "a boatman, a hand on the river boats"
-    - {form: torgar, class: n, field: "River, trade and law", gloss: "a merchant"}
+    - {form: torgel, class: n, field: "River and trade", gloss: "a merchant"}
     - form: torgad
       class: n
-      field: "River, trade and law"
+      field: "River and trade"
       gloss: "a merchant house: the firm, its ledgers and its household"
     - form: perevad
       class: n
-      field: "River, trade and law"
+      field: "River and trade"
       gloss: "a river crossing with its ferry and its toll, and the place where boats are hauled round a rapid"
     - form: bregad
       class: n
-      field: "River, trade and law"
+      field: "River and trade"
       gloss: "a landing, the shore settlement where boats take on cargo"
     - form: yadak
       class: n
@@ -372,132 +369,137 @@ data:
       gloss: "steppe grass, the open grazing beyond the last field"
       source: {kind: borrowed, language: skill-sowideslng, form: volket}
   elements:
-    - {form: bel, position: opening, sense: "pale, white", examples: [Belogor, Belovod, Belvan]}
-    - form: chern
+    - {form: brel, position: opening, sense: "pale, white", examples: [Brelana, Brelora, Brelina]}
+    - form: charv
       position: opening
       sense: "black, the dark earth of the grain belt"
-      examples: [Chernobor, Chernovod, Chernash]
-    - {form: dub, position: opening, sense: "an oak", examples: [Dubogor, Dubvan, Dubek]}
-    - {form: bor, position: opening, sense: "a pine wood", examples: [Borvan, Borena, Borina]}
-    - {form: gor, position: opening, sense: "a hill, a height", examples: [Gorovod, Gorik, Gorina]}
-    - {form: zhit, position: opening, sense: "grain", examples: [Zhitovod, Zhitek, Zhitogor]}
-    - {form: mil, position: opening, sense: "dear", examples: [Milogor, Milvan, Milina]}
-    - {form: rad, position: opening, sense: "glad", examples: [Radogor, Radovod, Radodar]}
-    - {form: slav, position: opening, sense: "fame", examples: [Slavogor, Slavovod, Slavana]}
-    - form: tverd
+      examples: [Charvana, Charvena, Charvobor]
+    - {form: duv, position: opening, sense: "an oak", examples: [Duvena, Duvora, Duvina]}
+    - {form: bosk, position: opening, sense: "a pine wood", examples: [Boskena, Boskina, Boskvan]}
+    - form: gor
+      position: opening
+      sense: "a hill, a height"
+      examples: [Gorvena, Gorena, Gorovod]
+    - {form: zhit, position: opening, sense: "grain", examples: [Zhitana, Zhitena, Zhitora]}
+    - {form: mil, position: opening, sense: "dear", examples: [Milvena, Milora, Milogor]}
+    - {form: rad, position: opening, sense: "glad", examples: [Radora, Radvena, Radogor]}
+    - {form: slev, position: opening, sense: "fame", examples: [Slevana, Slevora, Slevogor]}
+    - form: tvesk
       position: opening
       sense: "hard, firm"
-      examples: [Tverdan, Tverdogor, Tverdena]
-    - {form: volk, position: opening, sense: "a wolf", examples: [Volkar, Volkrad, Volketan]}
-    - {form: yar, position: opening, sense: "bright", examples: [Yarogor, Yarvan, Yarvena]}
-    - {form: tikh, position: opening, sense: "quiet", examples: [Tikhogor, Tikhvan, Tikhodar]}
-    - form: bran
+      examples: [Tveskena, Tveskana, Tveskan]
+    - {form: volk, position: opening, sense: "a wolf", examples: [Volkena, Volkana, Volkar]}
+    - {form: yar, position: opening, sense: "bright", examples: [Yarvena, Yarana, Yarogor]}
+    - {form: tesh, position: opening, sense: "quiet", examples: [Teshena, Teshora, Teshana]}
+    - form: brev
       position: opening
       sense: "a defense, a barrier"
-      examples: [Branogor, Branik, Branovod]
+      examples: [Brevena, Brevana, Brevora]
     - form: dobr
       position: opening
       sense: "good, bountiful"
-      examples: [Dobrogor, Dobrovod, Dobrash]
-    - form: vlad
+      examples: [Dobrena, Dobrora, Dobrogor]
+    - form: vlid
       position: opening
       sense: "a holding, rule"
-      examples: [Vladogor, Vladash, Vladvan]
-    - {form: ostr, position: opening, sense: "sharp", examples: [Ostrik, Ostran, Ostrovod]}
-    - {form: krep, position: opening, sense: "strong", examples: [Krepogor, Krepash, Krepan]}
-    - {form: lug, position: opening, sense: "a meadow", examples: [Lugash, Lugovod, Lugik]}
-    - {form: sol, position: opening, sense: "salt", examples: [Sologor, Solik, Solvan]}
-    - {form: ser, position: opening, sense: "gray", examples: [Serogor, Serovod, Serash]}
-    - {form: med, position: opening, sense: "honey", examples: [Medvan, Medash, Medek]}
-    - {form: tur, position: opening, sense: "an aurochs", examples: [Turovod, Turik, Turvan]}
-    - {form: rost, position: opening, sense: "growth", examples: [Rostogor, Rostena, Rostila]}
-    - {form: gost, position: opening, sense: "a guest", examples: [Gostvan, Gostena]}
-    - {form: svet, position: opening, sense: "light", examples: [Svetovod, Svetora]}
-    - {form: zvon, position: opening, sense: "a bell", examples: [Zvonogor, Zvonena]}
-    - {form: kam, position: opening, sense: "a stone", examples: [Kamogor]}
-    - {form: sok, position: opening, sense: "a falcon", examples: [Sokogor, Sokena, Sokora]}
+      examples: [Vlidena, Vlidora, Vlidina]
+    - {form: ovr, position: opening, sense: "sharp", examples: [Ovrena, Ovrana, Ovrik]}
+    - {form: krod, position: opening, sense: "strong", examples: [Krodina, Krodana, Krodena]}
+    - {form: lerv, position: opening, sense: "a meadow", examples: [Lervena, Lervora, Lervash]}
+    - {form: sulv, position: opening, sense: "salt", examples: [Sulvana, Sulvina, Sulvora]}
+    - {form: sedr, position: opening, sense: "gray", examples: [Sedrana, Sedrena, Sedrogor]}
+    - {form: mevr, position: opening, sense: "honey", examples: [Mevrena, Mevran, Mevrash]}
+    - {form: torv, position: opening, sense: "an aurochs", examples: [Torvena, Torvora, Torvogor]}
+    - {form: rezd, position: opening, sense: "growth", examples: [Rezdena, Rezdana, Rezdogor]}
+    - {form: gesh, position: opening, sense: "a guest", examples: [Geshena, Geshvan]}
+    - {form: svel, position: opening, sense: "light", examples: [Svelora, Svelovod, Svelavesh]}
+    - {form: zvek, position: opening, sense: "a bell", examples: [Zvekena, Zvekora, Zvekogor]}
+    - {form: karv, position: opening, sense: "a stone", examples: [Karvena, Karvogor]}
+    - {form: sok, position: opening, sense: "a falcon", examples: [Sokena, Sokora, Sokogor]}
     - form: kod
       position: opening
       sense: "a horse; from the Sovidur word for a horse"
-      examples: [Kodogor, Kodvan, Kodena]
+      examples: [Kodena, Kodora, Kodogor]
     - form: volket
       position: opening
       sense: "steppe grass; from the Sovidur word"
-      examples: [Volketan, Volketa, Volketora]
+      examples: [Volketa, Volketan, Volketich]
     - form: kelod
       position: opening
       sense: "a well; from the Sovidur word"
-      examples: [Kelodan, Kelodena, Kelodov]
+      examples: [Kelodena, Kelodan, Kelodov]
     - form: sovid
       position: opening
       sense: "a rider; from the Sovidur word"
-      examples: [Sovidan, Sovidar, Sovidena]
+      examples: [Sovidora, Sovidena, Sovidan]
     - form: bilok
       position: opening
       sense: "a banner; from the Sovidur word"
-      examples: [Bilokan, Bilokana, Bilokov]
+      examples: [Bilokana, Bilokan, Bilokov]
     - form: beyuk
       position: opening
       sense: "a gift; from the Sovidur word"
-      examples: [Beyukan, Beyuka]
+      examples: [Beyuka, Beyukan]
     - form: semok
       position: opening
       sense: "a guest under protection; from the Sovidur word"
-      examples: [Semokar, Semoka]
+      examples: [Semoka, Semokar]
     - form: -ogor
       position: closing
       sense: "a hill, a height, with its joining vowel"
-      examples: [Belogor, Dubogor, Zhitogor]
+      examples: [Brelogor, Duvogor, Zhitogor]
     - form: -obor
       position: closing
       sense: "a pine wood, with its joining vowel"
-      examples: [Chernobor]
+      examples: [Charvobor]
     - form: -ovod
       position: closing
       sense: "a leader, with its joining vowel"
-      examples: [Belovod, Chernovod, Gorovod]
+      examples: [Brelovod, Gorovod, Zhitovod]
     - form: -odar
       position: closing
       sense: "a giver, with its joining vowel"
-      examples: [Belodar, Radodar, Tikhodar]
+      examples: [Brelodar, Charvodar, Radodar]
     - {form: -rad, position: closing, sense: "glad, joyous", examples: [Volkrad]}
-    - {form: -an, position: closing, sense: "a man's name", examples: [Belvan, Dubvan, Borvan]}
-    - {form: -van, position: closing, sense: "a man's name", examples: [Belvan, Dubvan, Borvan]}
-    - {form: -ik, position: closing, sense: "a man's name", examples: [Gorik, Branik, Ostrik]}
-    - {form: -ek, position: closing, sense: "a man's name", examples: [Dubek, Zhitek, Medek]}
-    - form: -ash
-      position: closing
-      sense: "a man's name"
-      examples: [Chernash, Dobrash, Vladash]
-    - {form: -ar, position: closing, sense: "a man's name", examples: [Belodar, Radodar, Volkar]}
-    - {form: -a, position: closing, sense: "a woman's name", examples: [Belana, Belora, Belina]}
-    - {form: -ena, position: closing, sense: "a woman's name", examples: [Dubena, Borena, Gorena]}
-    - {form: -ora, position: closing, sense: "a woman's name", examples: [Belora, Dubora, Zhitora]}
-    - {form: -ina, position: closing, sense: "a woman's name", examples: [Belina, Dubina, Borina]}
-    - form: -ila
+    - {form: -an, position: closing, sense: "a man's name", examples: [Tveskan, Ovran, Krodan]}
+    - {form: -van, position: closing, sense: "a man's name", examples: [Brelvan, Boskvan, Milvan]}
+    - {form: -ik, position: closing, sense: "a man's name", examples: [Gorik, Ovrik, Lervik]}
+    - {form: -ek, position: closing, sense: "a man's name", examples: [Duvek, Zhitek, Brevek]}
+    - {form: -ash, position: closing, sense: "a man's name", examples: [Charvash, Duvash, Brevash]}
+    - {form: -ar, position: closing, sense: "a man's name", examples: [Volkar, Sovidar, Semokar]}
+    - {form: -a, position: closing, sense: "a woman's name", examples: [Volketa, Beyuka, Semoka]}
+    - form: -ena
       position: closing
       sense: "a woman's name"
-      examples: [Chernila, Radila, Slavila]
+      examples: [Charvena, Duvena, Boskena]
+    - form: -ora
+      position: closing
+      sense: "a woman's name"
+      examples: [Brelora, Duvora, Zhitora]
+    - form: -ina
+      position: closing
+      sense: "a woman's name"
+      examples: [Brelina, Duvina, Boskina]
     - form: -ana
       position: closing
       sense: "a woman's name"
-      examples: [Belana, Chernana, Zhitana]
+      examples: [Brelana, Charvana, Zhitana]
     - form: -vena
       position: closing
       sense: "a woman's name"
-      examples: [Milvena, Yarvena, Solvena]
+      examples: [Gorvena, Milvena, Radvena]
     - form: -ich
       position: closing
       sense: "descent: the line of the founder named, for a house"
-      examples: [Belovodich, Dobrovodich, Zhitogorich]
-    - form: -ovski
+      examples: [Brelovodich, Dobrovodich, Zhitogorich]
+    - form: -avesh
       position: closing
       sense: "the seat of it: the house of a place, for a house"
-      examples: [Dubovski, Borovski, Gorovski]
+      examples: [Duvavesh, Boskavesh, Goravesh]
     - form: -ov
       position: closing
       sense: "the house of it: the house of a founder, for a house"
-      examples: [Volkarov, Dubekov, Zhitekov]
+      examples: [Volkarov, Duvekov, Zhitekov]
   sounds:
     edges:
       - {edge: openCluster, sounds: [br, dv, gr, kr, pr, sk, sl, st, sv, tv, vl, zv]}
@@ -522,17 +524,17 @@ data:
     - {name: "Sevret Host", tongue: translation}
     - {name: Khorad, tongue: velanthian}
     - {name: "Khorad Host", tongue: translation}
-    - {name: Belogor, tongue: velanthian}
-    - {name: Belovod, tongue: velanthian}
-    - {name: Belvan, tongue: velanthian}
-    - {name: Belodar, tongue: velanthian}
-    - {name: Chernobor, tongue: velanthian}
-    - {name: Chernovod, tongue: velanthian}
-    - {name: Chernash, tongue: velanthian}
-    - {name: Dubogor, tongue: velanthian}
-    - {name: Dubvan, tongue: velanthian}
-    - {name: Dubek, tongue: velanthian}
-    - {name: Borvan, tongue: velanthian}
+    - {name: Brelogor, tongue: velanthian}
+    - {name: Brelovod, tongue: velanthian}
+    - {name: Brelvan, tongue: velanthian}
+    - {name: Brelodar, tongue: velanthian}
+    - {name: Charvobor, tongue: velanthian}
+    - {name: Charvodar, tongue: velanthian}
+    - {name: Charvash, tongue: velanthian}
+    - {name: Duvogor, tongue: velanthian}
+    - {name: Duvash, tongue: velanthian}
+    - {name: Duvek, tongue: velanthian}
+    - {name: Boskvan, tongue: velanthian}
     - {name: Gorovod, tongue: velanthian}
     - {name: Gorik, tongue: velanthian}
     - {name: Zhitovod, tongue: velanthian}
@@ -543,53 +545,53 @@ data:
     - {name: Radogor, tongue: velanthian}
     - {name: Radovod, tongue: velanthian}
     - {name: Radodar, tongue: velanthian}
-    - {name: Slavogor, tongue: velanthian}
-    - {name: Slavovod, tongue: velanthian}
-    - {name: Tverdan, tongue: velanthian}
-    - {name: Tverdogor, tongue: velanthian}
+    - {name: Slevogor, tongue: velanthian}
+    - {name: Slevovod, tongue: velanthian}
+    - {name: Tveskan, tongue: velanthian}
+    - {name: Tveskogor, tongue: velanthian}
     - {name: Volkar, tongue: velanthian}
     - {name: Volkrad, tongue: velanthian}
     - {name: Yarogor, tongue: velanthian}
     - {name: Yarvan, tongue: velanthian}
-    - {name: Tikhogor, tongue: velanthian}
-    - {name: Tikhvan, tongue: velanthian}
-    - {name: Tikhodar, tongue: velanthian}
-    - {name: Branogor, tongue: velanthian}
-    - {name: Branik, tongue: velanthian}
-    - {name: Branovod, tongue: velanthian}
+    - {name: Teshogor, tongue: velanthian}
+    - {name: Teshvan, tongue: velanthian}
+    - {name: Teshodar, tongue: velanthian}
+    - {name: Brevogor, tongue: velanthian}
+    - {name: Brevek, tongue: velanthian}
+    - {name: Brevash, tongue: velanthian}
     - {name: Dobrogor, tongue: velanthian}
     - {name: Dobrovod, tongue: velanthian}
     - {name: Dobrash, tongue: velanthian}
     - {name: Dobrodar, tongue: velanthian}
-    - {name: Vladogor, tongue: velanthian}
-    - {name: Vladash, tongue: velanthian}
-    - {name: Vladvan, tongue: velanthian}
-    - {name: Ostrik, tongue: velanthian}
-    - {name: Ostran, tongue: velanthian}
-    - {name: Ostrovod, tongue: velanthian}
-    - {name: Krepogor, tongue: velanthian}
-    - {name: Krepash, tongue: velanthian}
-    - {name: Krepan, tongue: velanthian}
-    - {name: Lugash, tongue: velanthian}
-    - {name: Lugovod, tongue: velanthian}
-    - {name: Lugik, tongue: velanthian}
-    - {name: Sologor, tongue: velanthian}
-    - {name: Solik, tongue: velanthian}
-    - {name: Solvan, tongue: velanthian}
-    - {name: Serogor, tongue: velanthian}
-    - {name: Serovod, tongue: velanthian}
-    - {name: Serash, tongue: velanthian}
-    - {name: Medvan, tongue: velanthian}
-    - {name: Medash, tongue: velanthian}
-    - {name: Medek, tongue: velanthian}
-    - {name: Turovod, tongue: velanthian}
-    - {name: Turik, tongue: velanthian}
-    - {name: Turvan, tongue: velanthian}
-    - {name: Rostogor, tongue: velanthian}
-    - {name: Gostvan, tongue: velanthian}
-    - {name: Svetovod, tongue: velanthian}
-    - {name: Kamogor, tongue: velanthian}
-    - {name: Zvonogor, tongue: velanthian}
+    - {name: Vlidogor, tongue: velanthian}
+    - {name: Vlidash, tongue: velanthian}
+    - {name: Vlidvan, tongue: velanthian}
+    - {name: Ovrik, tongue: velanthian}
+    - {name: Ovran, tongue: velanthian}
+    - {name: Ovrodar, tongue: velanthian}
+    - {name: Krodogor, tongue: velanthian}
+    - {name: Krodash, tongue: velanthian}
+    - {name: Krodan, tongue: velanthian}
+    - {name: Lervash, tongue: velanthian}
+    - {name: Lervogor, tongue: velanthian}
+    - {name: Lervik, tongue: velanthian}
+    - {name: Sulvogor, tongue: velanthian}
+    - {name: Sulvik, tongue: velanthian}
+    - {name: Sulvan, tongue: velanthian}
+    - {name: Sedrogor, tongue: velanthian}
+    - {name: Sedrovod, tongue: velanthian}
+    - {name: Sedrash, tongue: velanthian}
+    - {name: Mevran, tongue: velanthian}
+    - {name: Mevrash, tongue: velanthian}
+    - {name: Mevrek, tongue: velanthian}
+    - {name: Torvogor, tongue: velanthian}
+    - {name: Torvik, tongue: velanthian}
+    - {name: Torvek, tongue: velanthian}
+    - {name: Rezdogor, tongue: velanthian}
+    - {name: Geshvan, tongue: velanthian}
+    - {name: Svelovod, tongue: velanthian}
+    - {name: Karvogor, tongue: velanthian}
+    - {name: Zvekogor, tongue: velanthian}
     - {name: Sokogor, tongue: velanthian}
     - {name: Kodogor, tongue: velanthian, gloss: "horse-height"}
     - {name: Kodvan, tongue: velanthian, gloss: "of the horse"}
@@ -600,136 +602,136 @@ data:
     - {name: Bilokan, tongue: velanthian, gloss: "of the banner"}
     - {name: Semokar, tongue: velanthian, gloss: "the guest-keeper"}
     - {name: Beyukan, tongue: velanthian, gloss: "of the gift"}
-    - {name: Belana, tongue: velanthian}
-    - {name: Belora, tongue: velanthian}
-    - {name: Belina, tongue: velanthian}
-    - {name: Chernana, tongue: velanthian}
-    - {name: Chernila, tongue: velanthian}
-    - {name: Dubina, tongue: velanthian}
-    - {name: Dubena, tongue: velanthian}
-    - {name: Dubora, tongue: velanthian}
-    - {name: Borena, tongue: velanthian}
-    - {name: Borina, tongue: velanthian}
-    - {name: Gorina, tongue: velanthian}
+    - {name: Brelana, tongue: velanthian}
+    - {name: Brelora, tongue: velanthian}
+    - {name: Brelina, tongue: velanthian}
+    - {name: Charvana, tongue: velanthian}
+    - {name: Charvena, tongue: velanthian}
+    - {name: Duvena, tongue: velanthian}
+    - {name: Duvora, tongue: velanthian}
+    - {name: Duvina, tongue: velanthian}
+    - {name: Boskena, tongue: velanthian}
+    - {name: Boskina, tongue: velanthian}
+    - {name: Gorvena, tongue: velanthian}
     - {name: Gorena, tongue: velanthian}
     - {name: Zhitana, tongue: velanthian}
     - {name: Zhitena, tongue: velanthian}
     - {name: Zhitora, tongue: velanthian}
-    - {name: Milina, tongue: velanthian}
     - {name: Milvena, tongue: velanthian}
     - {name: Milora, tongue: velanthian}
     - {name: Radora, tongue: velanthian}
-    - {name: Radila, tongue: velanthian}
-    - {name: Slavana, tongue: velanthian}
-    - {name: Slavila, tongue: velanthian}
-    - {name: Tverdena, tongue: velanthian}
-    - {name: Tverdila, tongue: velanthian}
+    - {name: Radvena, tongue: velanthian}
+    - {name: Slevana, tongue: velanthian}
+    - {name: Slevora, tongue: velanthian}
+    - {name: Tveskena, tongue: velanthian}
+    - {name: Tveskana, tongue: velanthian}
     - {name: Volkena, tongue: velanthian}
     - {name: Volkana, tongue: velanthian}
     - {name: Yarvena, tongue: velanthian}
     - {name: Yarana, tongue: velanthian}
-    - {name: Tikhena, tongue: velanthian}
-    - {name: Tikhora, tongue: velanthian}
-    - {name: Tikhana, tongue: velanthian}
-    - {name: Branena, tongue: velanthian}
-    - {name: Branila, tongue: velanthian}
-    - {name: Branora, tongue: velanthian}
+    - {name: Teshena, tongue: velanthian}
+    - {name: Teshora, tongue: velanthian}
+    - {name: Teshana, tongue: velanthian}
+    - {name: Brevena, tongue: velanthian}
+    - {name: Brevana, tongue: velanthian}
+    - {name: Brevora, tongue: velanthian}
     - {name: Dobrena, tongue: velanthian}
-    - {name: Dobrana, tongue: velanthian}
     - {name: Dobrora, tongue: velanthian}
-    - {name: Vladena, tongue: velanthian}
-    - {name: Vladora, tongue: velanthian}
-    - {name: Vladina, tongue: velanthian}
-    - {name: Ostrena, tongue: velanthian}
-    - {name: Ostrora, tongue: velanthian}
-    - {name: Krepina, tongue: velanthian}
-    - {name: Krepana, tongue: velanthian}
-    - {name: Krepila, tongue: velanthian}
-    - {name: Lugena, tongue: velanthian}
-    - {name: Lugora, tongue: velanthian}
-    - {name: Solena, tongue: velanthian}
-    - {name: Solina, tongue: velanthian}
-    - {name: Solora, tongue: velanthian}
-    - {name: Solvena, tongue: velanthian}
-    - {name: Serora, tongue: velanthian}
-    - {name: Serila, tongue: velanthian}
-    - {name: Medvena, tongue: velanthian}
-    - {name: Turena, tongue: velanthian}
-    - {name: Turila, tongue: velanthian}
-    - {name: Rostena, tongue: velanthian}
-    - {name: Rostila, tongue: velanthian}
-    - {name: Gostena, tongue: velanthian}
-    - {name: Svetora, tongue: velanthian}
-    - {name: Zvonena, tongue: velanthian}
+    - {name: Vlidena, tongue: velanthian}
+    - {name: Vlidora, tongue: velanthian}
+    - {name: Vlidina, tongue: velanthian}
+    - {name: Ovrena, tongue: velanthian}
+    - {name: Ovrana, tongue: velanthian}
+    - {name: Krodina, tongue: velanthian}
+    - {name: Krodana, tongue: velanthian}
+    - {name: Krodena, tongue: velanthian}
+    - {name: Lervena, tongue: velanthian}
+    - {name: Lervora, tongue: velanthian}
+    - {name: Sulvana, tongue: velanthian}
+    - {name: Sulvina, tongue: velanthian}
+    - {name: Sulvora, tongue: velanthian}
+    - {name: Sulvena, tongue: velanthian}
+    - {name: Sedrana, tongue: velanthian}
+    - {name: Sedrena, tongue: velanthian}
+    - {name: Mevrena, tongue: velanthian}
+    - {name: Torvena, tongue: velanthian}
+    - {name: Torvora, tongue: velanthian}
+    - {name: Rezdena, tongue: velanthian}
+    - {name: Rezdana, tongue: velanthian}
+    - {name: Geshena, tongue: velanthian}
+    - {name: Svelora, tongue: velanthian}
+    - {name: Zvekena, tongue: velanthian}
+    - {name: Zvekora, tongue: velanthian}
+    - {name: Karvena, tongue: velanthian}
     - {name: Sokena, tongue: velanthian}
     - {name: Sokora, tongue: velanthian}
     - {name: Kodena, tongue: velanthian, gloss: horse}
     - {name: Kodora, tongue: velanthian, gloss: horse}
     - {name: Volketa, tongue: velanthian, gloss: grass}
-    - {name: Volketora, tongue: velanthian, gloss: grass}
+    - {name: Sovidora, tongue: velanthian, gloss: rider}
     - {name: Kelodena, tongue: velanthian, gloss: well}
     - {name: Bilokana, tongue: velanthian, gloss: banner}
     - {name: Sovidena, tongue: velanthian, gloss: rider}
     - {name: Beyuka, tongue: velanthian, gloss: gift}
     - {name: Semoka, tongue: velanthian, gloss: guest}
-    - {name: Belovodich, tongue: velanthian}
+    - {name: Brelovodich, tongue: velanthian}
     - {name: Dobrovodich, tongue: velanthian}
     - {name: Zhitogorich, tongue: velanthian}
     - {name: Radovodich, tongue: velanthian}
-    - {name: Tverdogorich, tongue: velanthian}
+    - {name: Tveskogorich, tongue: velanthian}
     - {name: Yarogorich, tongue: velanthian}
-    - {name: Tikhogorich, tongue: velanthian}
-    - {name: Branogorich, tongue: velanthian}
-    - {name: Vladovodich, tongue: velanthian}
-    - {name: Krepogorich, tongue: velanthian}
-    - {name: Lugovodich, tongue: velanthian}
-    - {name: Serogorich, tongue: velanthian}
-    - {name: Turovodich, tongue: velanthian}
-    - {name: Borvanich, tongue: velanthian}
+    - {name: Teshogorich, tongue: velanthian}
+    - {name: Brevogorich, tongue: velanthian}
+    - {name: Vlidogorich, tongue: velanthian}
+    - {name: Krodogorich, tongue: velanthian}
+    - {name: Lervogorich, tongue: velanthian}
+    - {name: Sedrogorich, tongue: velanthian}
+    - {name: Torvogorich, tongue: velanthian}
+    - {name: Boskvanich, tongue: velanthian}
     - {name: Milvanich, tongue: velanthian}
-    - {name: Solvanich, tongue: velanthian}
-    - {name: Medvanich, tongue: velanthian}
+    - {name: Sulvanich, tongue: velanthian}
+    - {name: Mevranich, tongue: velanthian}
     - {name: Kodogorich, tongue: velanthian, gloss: "the line of Kodogor"}
     - {name: Sovidich, tongue: velanthian, gloss: "the line of the rider"}
     - {name: Volketich, tongue: velanthian, gloss: "the line of the grass"}
-    - {name: Dubovski, tongue: velanthian}
-    - {name: Borovski, tongue: velanthian}
-    - {name: Gorovski, tongue: velanthian}
-    - {name: Zhitovski, tongue: velanthian}
-    - {name: Belovski, tongue: velanthian}
-    - {name: Chernovski, tongue: velanthian}
-    - {name: Radovski, tongue: velanthian}
-    - {name: Slavovski, tongue: velanthian}
-    - {name: Tverdovski, tongue: velanthian}
-    - {name: Volkovski, tongue: velanthian}
-    - {name: Yarovski, tongue: velanthian}
-    - {name: Tikhovski, tongue: velanthian}
-    - {name: Branovski, tongue: velanthian}
-    - {name: Dobrovski, tongue: velanthian}
-    - {name: Vladovski, tongue: velanthian}
-    - {name: Krepovski, tongue: velanthian}
-    - {name: Lugovski, tongue: velanthian}
-    - {name: Serovski, tongue: velanthian}
-    - {name: Medovski, tongue: velanthian}
-    - {name: Kodovski, tongue: velanthian, gloss: "the horse seat"}
+    - {name: Duvavesh, tongue: velanthian}
+    - {name: Boskavesh, tongue: velanthian}
+    - {name: Goravesh, tongue: velanthian}
+    - {name: Zhitavesh, tongue: velanthian}
+    - {name: Brelavesh, tongue: velanthian}
+    - {name: Charvavesh, tongue: velanthian}
+    - {name: Radavesh, tongue: velanthian}
+    - {name: Svelavesh, tongue: velanthian}
+    - {name: Tveskavesh, tongue: velanthian}
+    - {name: Volkavesh, tongue: velanthian}
+    - {name: Yaravesh, tongue: velanthian}
+    - {name: Teshavesh, tongue: velanthian}
+    - {name: Brevavesh, tongue: velanthian}
+    - {name: Dobravesh, tongue: velanthian}
+    - {name: Vlidavesh, tongue: velanthian}
+    - {name: Krodavesh, tongue: velanthian}
+    - {name: Sokavesh, tongue: velanthian}
+    - {name: Sedravesh, tongue: velanthian}
+    - {name: Ovravesh, tongue: velanthian}
+    - {name: Kodavesh, tongue: velanthian, gloss: "the horse seat"}
     - {name: Volkarov, tongue: velanthian}
-    - {name: Dubekov, tongue: velanthian}
+    - {name: Duvekov, tongue: velanthian}
     - {name: Zhitekov, tongue: velanthian}
-    - {name: Radashov, tongue: velanthian}
-    - {name: Tverdikov, tongue: velanthian}
-    - {name: Yarashov, tongue: velanthian}
-    - {name: Branikov, tongue: velanthian}
-    - {name: Lugikov, tongue: velanthian}
-    - {name: Solikov, tongue: velanthian}
-    - {name: Turikov, tongue: velanthian}
-    - {name: Medekov, tongue: velanthian}
-    - {name: Gorikov, tongue: velanthian}
-    - {name: Ostranov, tongue: velanthian}
-    - {name: Krepashov, tongue: velanthian}
-    - {name: Serashov, tongue: velanthian}
-    - {name: Tikhashov, tongue: velanthian}
-    - {name: Belashov, tongue: velanthian}
-    - {name: Chernashov, tongue: velanthian}
+    - {name: Dobrashov, tongue: velanthian}
+    - {name: Tveskanov, tongue: velanthian}
+    - {name: Vlidashov, tongue: velanthian}
+    - {name: Brevekov, tongue: velanthian}
+    - {name: Lervikov, tongue: velanthian}
+    - {name: Sulvikov, tongue: velanthian}
+    - {name: Torvikov, tongue: velanthian}
+    - {name: Mevrekov, tongue: velanthian}
+    - {name: Duvashov, tongue: velanthian}
+    - {name: Ovranov, tongue: velanthian}
+    - {name: Krodashov, tongue: velanthian}
+    - {name: Sedrashov, tongue: velanthian}
+    - {name: Lervashov, tongue: velanthian}
+    - {name: Ovrikov, tongue: velanthian}
+    - {name: Charvashov, tongue: velanthian}
     - {name: Kelodov, tongue: velanthian, gloss: "the house of the well"}
     - {name: Bilokov, tongue: velanthian, gloss: "the house of the banner"}
 sohl:
@@ -742,7 +744,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Velanthian (isolate)}}
 
-# terran_analog: "The East Slavic speech of the Rus principalities and its church-literate courtly register, with Turkic steppe loans in the east. Carries over: its open syllables and soft consonants, its crowded openings such as vl-, sv- and zv-, its two- and three-syllable words and three- and four-syllable names, its endings on a vowel or on d, k, l, n, r, t and z, its zh, sh, ch and kh, and its names built from two roots and closed with -a, -an, -ik, -ar or -ich. Departs: its f, j, ts, soft signs and held vowels are left out, and its patronymic and surname endings are a house closing; the eastern loans come from Sovidur and so keep the steppe words of Thalorna, not of Earth."
+# terran_analog: "The East Slavic speech of the Rus principalities and its church-literate courtly register, with Turkic steppe loans in the east. Carries over: its open syllables and soft consonants, its crowded openings such as vl-, sv- and zv-, its two- and three-syllable words and given names and its three- and four-syllable house names, its endings on a vowel or on d, k, l, n, r, t and z, its zh, sh and ch, and its names built from two roots and closed with -a, -an, -ik, -ar or -ich. Departs: its f, j, ts, soft signs and held vowels are left out, and a house closes on -ich, -ov or a closing of its own, -avesh, in place of the surname endings; the eastern loans come from Sovidur and so keep the steppe words of Thalorna, not of Earth."
 ---
 
 The Velanthian Language is the tongue of [[place-velanthrgn|Velanthia]], the courtly and liturgical speech of its river-princes and the everyday speech of its villages and towns. Fluency measures the range of what a speaker can say in it. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -755,25 +757,25 @@ The people who speak it are the [[lore-velanthclt|Velanthians]]. The culture not
 
 ## How Velanthian sounds
 
-Velanthian is a speech of soft stops, crowded consonants and open endings. Its words run to two and three syllables and its names to three and four: _vlastar_ is a river-prince, _zhitnad_ a granary, and _Belovodich_ a line of the house of Belovod.
+Velanthian is a speech of soft stops, crowded consonants and open endings. Its words and given names run to two and three syllables and its house names to three and four: _zhuvar_ is a river-prince, _zhitnad_ a granary, and _Brelovodich_ the line of a founder named Brelovod.
 
 **The vowels.** _o_ and _a_ lead, then _e_ and _i_, with _u_ the rarest. Each has its plain value from the spelling guide, and no two vowels stand side by side: where a vowel would follow a vowel, a _y_ comes between, as in _beyuk_, a gift.
 
-**The consonants.** _v_, _r_, _l_, _d_, _k_ and _n_ are the commonest, with _g_, _b_, _t_, _s_, _z_, _m_ and _p_ behind them. Four digraphs give the tongue its edge: _zh_, _sh_, _ch_ and _kh_. A _y_ opens a syllable before a vowel, as in _Yarogor_ and _yadak_.
+**The consonants.** _v_, _r_, _l_, _d_, _k_ and _n_ are the commonest, with _g_, _b_, _t_, _s_, _z_, _m_ and _p_ behind them. Three digraphs give the tongue its edge, _zh_, _sh_ and _ch_, and _kh_ stands in a few names such as _Khorad_. A _y_ opens a syllable before a vowel, as in _Yarogor_ and _yadak_.
 
-**Clusters.** A word opens on a single consonant or on _br_, _dv_, _gr_, _kr_, _pr_, _sk_, _sl_, _st_, _sv_, _tv_, _vl_ or _zv_, and up to three consonants meet inside it: _vlastar_, _starbrat_, _Volkrad_.
+**Clusters.** A word opens on a single consonant or on _br_, _dv_, _gr_, _kr_, _pr_, _sk_, _sl_, _st_, _sv_, _tv_, _vl_ or _zv_, and up to three consonants meet inside it: _starbrat_, _Volkrad_, _Boskvan_.
 
-**Endings.** A woman's name closes on _-a_, usually as _-ena_, _-ora_, _-ina_, _-ila_ or _-ana_. A man's name closes on _-an_, _-van_, _-ik_, _-ek_, _-ash_, _-ar_, _-rad_, _-ogor_, _-ovod_, _-obor_ or _-odar_. A house closes on _-ich_, _-ovski_ or _-ov_. An ordinary word ends on a vowel or on _d_, _k_, _l_, _n_, _r_, _sh_, _t_, _z_, _ch_ or _v_.
+**Endings.** A woman's name closes on _-a_, usually as _-ena_, _-ora_ or _-ana_ and less often as _-ina_ or _-vena_. A man's name closes on _-an_, _-van_, _-ik_, _-ek_, _-ash_, _-ar_, _-rad_, _-ogor_, _-ovod_, _-obor_ or _-odar_. A house closes on _-ich_, _-avesh_ or _-ov_. An ordinary word ends on a vowel or on _d_, _k_, _l_, _n_, _r_, _sh_, _t_, _z_, _ch_ or _v_.
 
 **What Velanthian leaves out.** It has no _f_, _j_, _w_, _q_ or _x_, no _th_, _dh_, _gh_ or _ng_, no catch and no held vowels. It carries no mark except an acute where the stress leaves the guide's rule. A Sovidur word that comes into it loses its back-of-the-throat _q_ and _gh_ and its held vowels.
 
 ## Stress
 
-Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last. _Vlastar_ is VLAH-star, _zhitnad_ is ZHIT-nad, _Dobrogor_ is do-BRO-gor and _Belovodich_ is be-lo-VO-dich. A mark stands only where the stress falls elsewhere: _Tarvál_ is tar-VAL.
+Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables is stressed on the first, a longer word on the second-to-last. _Zhuvar_ is ZHOO-var, _zhitnad_ is ZHIT-nad, _Dobrogor_ is do-BRO-gor and _Brelovodich_ is bre-lo-VO-dich. A mark stands only where the stress falls elsewhere: _Tarvál_ is tar-VAL.
 
 ## Writing
 
-Velanthian is written in a variety of [[skill-helnkscrpt|the Helónika]], with its own encoding, the [[doc-velthelonikaenc|Velanthian Helónika Encoding]]. The Helónika has no letter of its own for _sh_, _ch_ or _y_, so a Velanthian text writes _sh_ with the letters for _s_ and _h_, _ch_ with the letters for _t_, _s_ and _h_, and _y_ with the letter for _i_. Every other letter is the Helónika letter of the same sound. The tongue keeps the Helónika's capitals for names and for the first word of a paragraph. The monasteries keep the hand, and their pupils are the scribes of the courts.
+Velanthian is written in a variety of [[skill-helnkscrpt|the Helónika]], with its own encoding, the [[doc-velthelonikaenc|Velanthian Helónika Encoding]]. The Helónika has no letter of its own for _sh_, _ch_ or _y_, so a Velanthian text writes _sh_ with the letters for _s_ and _h_, _ch_ with the letters for _t_, _s_ and _h_, and _y_ with the letter for _i_. It writes _kh_ and _zh_ with the letters the Bizarian recension adds, and every other letter with the Helónika letter of the same sound. The tongue keeps the Helónika's capitals for names and for the first word of a paragraph. The monasteries keep the hand, and their pupils are the scribes of the courts.
 
 ## The eastern reach {#eastern-reach}
 
@@ -805,7 +807,7 @@ ORDER BY position
 
 ### Princes, courts and retinues
 
-A river-prince is a _vlastar_, and what he holds is a river with its landings and its grain. His hall is a _dvorad_, the riders and household sworn to him, and the judge who sits in it, the _pravad_, rules by the customary law every princely house recognizes. A walled town is held for the prince by a _gradar_.
+A river-prince is a _zhuvar_, and what he holds is a river with its landings and its grain. His hall is a _dvorad_, the riders and household sworn to him, and the judge who sits in it, the _pravad_, rules by the customary law every princely house recognizes. A walled town is held for the prince by a _gradar_.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss"
@@ -825,35 +827,35 @@ WHERE language = 'thalorna-note-skill-velanthlng' AND field = 'The Hosts and the
 ORDER BY position
 ```
 
-### Grain, monastery and town
+### Grain and monastery
 
 A granary is a _zhitnad_, and so is the monastery that keeps it, because in the grain belt the two are one house. Its keeper is a _zhitnar_, a monk is a _bratar_ and the head of the house is the _starbrat_.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss"
 FROM words
-WHERE language = 'thalorna-note-skill-velanthlng' AND field = 'Grain, monastery and town'
+WHERE language = 'thalorna-note-skill-velanthlng' AND field = 'Grain and monastery'
 ORDER BY position
 ```
 
-### River, trade and law
+### River and trade
 
-The river is worked by the _lodar_, the boatman, and its cargoes are sold by the _torgar_, a merchant, who belongs to a _torgad_, a merchant house. A crossing with its ferry is a _perevad_ and the shore settlement where boats load is a _bregad_.
+The river is worked by the _lodar_, the boatman, and its cargoes are sold by the _torgel_, a merchant, who belongs to a _torgad_, a merchant house. A crossing with its ferry is a _perevad_ and the shore settlement where boats load is a _bregad_.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss"
 FROM words
-WHERE language = 'thalorna-note-skill-velanthlng' AND field = 'River, trade and law'
+WHERE language = 'thalorna-note-skill-velanthlng' AND field = 'River and trade'
 ORDER BY position
 ```
 
 ## Naming Traditions {#names}
 
-A Velanthian carries a given name and a house name, the given name first: _Belovod Dubovski_ is Belovod of the house of the oak seat.
+A Velanthian carries a given name and a house name, the given name first: _Brelovod Duvavesh_ is Brelovod of the house of the oak seat.
 
-A given name is made of two roots from the river country, joined with an _o_ where the first root ends on a consonant, or of one root with a closing. A woman's name closes on _-a_ with a vowel before it: _Belana_ is _bel_, pale, with _-ana_, and _Zhitena_ is _zhit_, grain, with _-ena_. A man's name closes on _-an_, _-ik_, _-ek_, _-ash_, _-ar_, _-van_ or _-rad_, or is two roots: _Belogor_ is _bel_ and _-ogor_, a height, and _Dobrovod_ is _dobr_, bountiful, and _-ovod_, a leader.
+A given name is made of two roots from the river country, joined with an _o_ where the first root ends on a consonant, or of one root with a closing. A woman's name closes on _-a_, usually as _-ena_, _-ora_ or _-ana_: _Brelana_ is _brel_, pale, with _-ana_, and _Zhitena_ is _zhit_, grain, with _-ena_. A man's name closes on _-an_, _-ik_, _-ek_, _-ash_, _-ar_, _-van_ or _-rad_, or is two roots: _Brelogor_ is _brel_ and _-ogor_, a height, and _Dobrovod_ is _dobr_, good, and _-ovod_, a leader.
 
-A house name names a founder, a seat or a lineage. _-ich_ closes the line of a founder: _Belovodich_ is the line of Belovod. _-ovski_ closes the house of a seat: _Dubovski_ is the house of the oak seat. _-ov_ closes the house of a named man: _Volkarov_ is the house of Volkar.
+A house name names a founder, a seat or a lineage. _-ich_ closes the line of a founder: _Brelovodich_ is the line of Brelovod. _-avesh_ closes the house of a seat: _Duvavesh_ is the house of the oak seat. _-ov_ closes the house of a named man: _Volkarov_ is the house of Volkar.
 
 The eastern reach gives some of its names a Sovidur root, such as _kod_, a horse, _kelod_, a well, _sovid_, a rider, or _bilok_, a banner: _Kodogor_, _Kelodena_, _Sovidena_. A name of this kind places its bearer on the frontier.
 
@@ -861,17 +863,17 @@ A Host takes its name from its first _polvod_ or from its river, and the name st
 
 ### Name elements
 
-**Openings:** _bel_ (pale), _chern_ (black earth), _dub_ (an oak), _bor_ (a pine wood), _gor_ (a hill), _zhit_ (grain), _mil_ (dear), _rad_ (glad), _slav_ (fame), _tverd_ (firm), _volk_ (a wolf), _yar_ (bright), _tikh_ (quiet), _bran_ (a defense), _dobr_ (bountiful), _vlad_ (a holding), _ostr_ (sharp), _krep_ (strong), _lug_ (a meadow), _sol_ (salt), _ser_ (gray), _med_ (honey), _tur_ (an aurochs), _rost_ (growth), _gost_ (a guest), _svet_ (light), _zvon_ (a bell), _kam_ (a stone), _sok_ (a falcon). From Sovidur: _kod_ (a horse), _volket_ (steppe grass), _kelod_ (a well), _sovid_ (a rider), _bilok_ (a banner), _beyuk_ (a gift), _semok_ (a guest under protection).
+**Openings:** _brel_ (pale), _charv_ (black earth), _duv_ (an oak), _bosk_ (a pine wood), _gor_ (a hill), _zhit_ (grain), _mil_ (dear), _rad_ (glad), _slev_ (fame), _tvesk_ (hard), _volk_ (a wolf), _yar_ (bright), _tesh_ (quiet), _brev_ (a defense), _dobr_ (good), _vlid_ (a holding), _ovr_ (sharp), _krod_ (strong), _lerv_ (a meadow), _sulv_ (salt), _sedr_ (gray), _mevr_ (honey), _torv_ (an aurochs), _rezd_ (growth), _gesh_ (a guest), _svel_ (light), _zvek_ (a bell), _karv_ (a stone), _sok_ (a falcon). From Sovidur: _kod_ (a horse), _volket_ (steppe grass), _kelod_ (a well), _sovid_ (a rider), _bilok_ (a banner), _beyuk_ (a gift), _semok_ (a guest under protection).
 
-**Closings:** _-ogor_, _-obor_, _-ovod_, _-odar_ and _-rad_ for a man, with the joining vowel; _-an_, _-van_, _-ik_, _-ek_, _-ash_ and _-ar_ for a man; _-a_, _-ena_, _-ora_, _-ina_, _-ila_, _-ana_ and _-vena_ for a woman; _-ich_, _-ovski_ and _-ov_ for a house.
+**Closings:** _-ogor_, _-obor_, _-ovod_ and _-odar_ for a man, with the joining vowel; _-rad_, _-an_, _-van_, _-ik_, _-ek_, _-ash_ and _-ar_ for a man; _-a_, _-ena_, _-ora_, _-ina_, _-ana_ and _-vena_ for a woman; _-ich_, _-avesh_ and _-ov_ for a house.
 
 ### Name Lists
 
-**Women's names:** Belana, Belora, Belina, Chernana, Chernila, Dubina, Dubena, Dubora, Borena, Borina, Gorina, Gorena, Zhitana, Zhitena, Zhitora, Milina, Milvena, Milora, Radora, Radila, Slavana, Slavila, Tverdena, Tverdila, Volkena, Volkana, Yarvena, Yarana, Tikhena, Tikhora, Tikhana, Branena, Branila, Branora, Dobrena, Dobrana, Dobrora, Vladena, Vladora, Vladina, Ostrena, Ostrora, Krepina, Krepana, Krepila, Lugena, Lugora, Solena, Solina, Solora, Solvena, Serora, Serila, Medvena, Turena, Turila, Rostena, Rostila, Gostena, Svetora, Zvonena, Sokena, Sokora, Kodena, Kodora, Volketa, Volketora, Kelodena, Bilokana, Sovidena, Beyuka, Semoka
+**Women's names:** Brelana, Brelora, Brelina, Charvana, Charvena, Duvena, Duvora, Duvina, Boskena, Boskina, Gorvena, Gorena, Zhitana, Zhitena, Zhitora, Milvena, Milora, Radora, Radvena, Slevana, Slevora, Tveskena, Tveskana, Volkena, Volkana, Yarvena, Yarana, Teshena, Teshora, Teshana, Brevena, Brevana, Brevora, Dobrena, Dobrora, Vlidena, Vlidora, Vlidina, Ovrena, Ovrana, Krodina, Krodana, Krodena, Lervena, Lervora, Sulvana, Sulvina, Sulvora, Sulvena, Sedrana, Sedrena, Mevrena, Torvena, Torvora, Rezdena, Rezdana, Geshena, Svelora, Zvekena, Zvekora, Karvena, Sokena, Sokora, Kodena, Kodora, Volketa, Sovidora, Kelodena, Bilokana, Sovidena, Beyuka, Semoka
 
-**Men's names:** Belogor, Belovod, Belvan, Belodar, Chernobor, Chernovod, Chernash, Dubogor, Dubvan, Dubek, Borvan, Gorovod, Gorik, Zhitovod, Zhitek, Zhitogor, Milogor, Milvan, Radogor, Radovod, Radodar, Slavogor, Slavovod, Tverdan, Tverdogor, Volkar, Volkrad, Yarogor, Yarvan, Tikhogor, Tikhvan, Tikhodar, Branogor, Branik, Branovod, Dobrogor, Dobrovod, Dobrash, Dobrodar, Vladogor, Vladash, Vladvan, Ostrik, Ostran, Ostrovod, Krepogor, Krepash, Krepan, Lugash, Lugovod, Lugik, Sologor, Solik, Solvan, Serogor, Serovod, Serash, Medvan, Medash, Medek, Turovod, Turik, Turvan, Rostogor, Gostvan, Svetovod, Kamogor, Zvonogor, Sokogor, Kodogor, Kodvan, Sovidan, Sovidar, Volketan, Kelodan, Bilokan, Semokar, Beyukan
+**Men's names:** Brelogor, Brelovod, Brelvan, Brelodar, Charvobor, Charvodar, Charvash, Duvogor, Duvash, Duvek, Boskvan, Gorovod, Gorik, Zhitovod, Zhitek, Zhitogor, Milogor, Milvan, Radogor, Radovod, Radodar, Slevogor, Slevovod, Tveskan, Tveskogor, Volkar, Volkrad, Yarogor, Yarvan, Teshogor, Teshvan, Teshodar, Brevogor, Brevek, Brevash, Dobrogor, Dobrovod, Dobrash, Dobrodar, Vlidogor, Vlidash, Vlidvan, Ovrik, Ovran, Ovrodar, Krodogor, Krodash, Krodan, Lervash, Lervogor, Lervik, Sulvogor, Sulvik, Sulvan, Sedrogor, Sedrovod, Sedrash, Mevran, Mevrash, Mevrek, Torvogor, Torvik, Torvek, Rezdogor, Geshvan, Svelovod, Karvogor, Zvekogor, Sokogor, Kodogor, Kodvan, Sovidan, Sovidar, Volketan, Kelodan, Bilokan, Semokar, Beyukan
 
-**House names:** Belovodich, Dobrovodich, Zhitogorich, Radovodich, Tverdogorich, Yarogorich, Tikhogorich, Branogorich, Vladovodich, Krepogorich, Lugovodich, Serogorich, Turovodich, Borvanich, Milvanich, Solvanich, Medvanich, Kodogorich, Sovidich, Volketich, Dubovski, Borovski, Gorovski, Zhitovski, Belovski, Chernovski, Radovski, Slavovski, Tverdovski, Volkovski, Yarovski, Tikhovski, Branovski, Dobrovski, Vladovski, Krepovski, Lugovski, Serovski, Medovski, Kodovski, Volkarov, Dubekov, Zhitekov, Radashov, Tverdikov, Yarashov, Branikov, Lugikov, Solikov, Turikov, Medekov, Gorikov, Ostranov, Krepashov, Serashov, Tikhashov, Belashov, Chernashov, Kelodov, Bilokov
+**House names:** Brelovodich, Dobrovodich, Zhitogorich, Radovodich, Tveskogorich, Yarogorich, Teshogorich, Brevogorich, Vlidogorich, Krodogorich, Lervogorich, Sedrogorich, Torvogorich, Boskvanich, Milvanich, Sulvanich, Mevranich, Kodogorich, Sovidich, Volketich, Duvavesh, Boskavesh, Goravesh, Zhitavesh, Brelavesh, Charvavesh, Radavesh, Svelavesh, Tveskavesh, Volkavesh, Yaravesh, Teshavesh, Brevavesh, Dobravesh, Vlidavesh, Krodavesh, Sokavesh, Sedravesh, Ovravesh, Kodavesh, Volkarov, Duvekov, Zhitekov, Dobrashov, Tveskanov, Vlidashov, Brevekov, Lervikov, Sulvikov, Torvikov, Mevrekov, Duvashov, Ovranov, Krodashov, Sedrashov, Lervashov, Ovrikov, Charvashov, Kelodov, Bilokov
 
 Velanthian is written in a cased script, so its names are capitalized in the register and in these lists.
 

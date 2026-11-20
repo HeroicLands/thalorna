@@ -137,7 +137,7 @@ export const SOURCES = {
     "skill-varokhlng": ["old-high-german", "old-saxon"],
     "skill-vedyarlng": ["sanskrit", "hindi"],
     // The word lists hold no East Slavic or Old East Slavic list, so a Velanthian coinage is checked by reading.
-    "skill-velanthlng": ["old-east-slavic", "russian"],
+    "skill-velanthlng": ["old-east-slavic", "russian", "ukrainian", "belarusian"],
     "skill-vylarilng": ["latin"],
 };
 
