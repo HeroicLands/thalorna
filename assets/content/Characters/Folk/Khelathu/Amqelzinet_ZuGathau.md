@@ -8,7 +8,7 @@ tags: [draft]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [courtier, priest]
+  archetypes: [courtier, cleric]
   occupation: Halzi'a
   lore: []
   culture: khelathiclt
