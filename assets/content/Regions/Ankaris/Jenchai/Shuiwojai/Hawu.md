@@ -46,3 +46,12 @@ Merchants and captains from the mainland land here, since the harbor is the stra
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[scenario-ltrforhawu|A Letter for Hawu]]
+: a scenario: the Emperor's sealed answer to a petition, crossing Muwojai's ferry on its way to the lord who petitioned
+
+[[scenario-rcbfrsnw|Rice Before the Snow]]
+: a scenario: the cold north sells its spears for grain before the first snow, and both blocs bid in rice that may not exist
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

@@ -51,3 +51,6 @@ An imperial act waits on a reading. The Emperor confers the office of Teng Ja, w
 
 [[place-zojai|Zojai]]
 : the Emperor's mountain, beside Zijai
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

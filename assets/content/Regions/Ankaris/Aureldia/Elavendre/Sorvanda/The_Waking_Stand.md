@@ -40,7 +40,7 @@ How old the stand is, and whether it grew where it stands or came there, is not 
 
 [[miscgear-grnbarkwkng|A strip of bark]] from one of the trees, cut by a poacher and sold in Lísere, lies in a chapterhouse collection at [[place-beravel|Péravel]], and the Order's fellows who keep it say that it is still green. The Order has licensed a fellow of the University to bring back a living cutting, and he is hiring guards. The Wardens of the Silver Forests know that bark was taken. They do not know who took it, and they are looking.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The trees** themselves, at night.
 - **The Wardens,** who count a cut as desecration and the man who carries the cut wood as the man who made it.

@@ -475,12 +475,18 @@ pdf:
           abbreviation: "Jen."
           subtitle: A Gazetteer of Thalorna
           contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Places
                 contents:
                     - filter: type = 'place' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Affiliations
                 contents:
                     - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-jenchaiclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Lore
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-jenchaiclt'

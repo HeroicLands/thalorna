@@ -54,3 +54,6 @@ The envoys have been in Lengwou for months, bargaining for their places. With th
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite
