@@ -41,10 +41,44 @@ data:
         description: >-
           Holds Yujai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Yujai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Yuwu. Held by a Dauzhwo.
+      Judge: Chosen from the Dauzhwo's retainers to hear the harbor disputes of the anchorage at Showo and the quays at Yuwu.
       Keeper of the Harbors: Held by the Woju, who keep the roll of the anchorages, moorings and tolls of the domain.
   seat: yuwu
   population: 70000
   territorial_population: 70000
+  settlements:
+    - settlement: Showo
+      polity: affiliation-wojaidmn
+      location: place-yujai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-wojaidmn
+      population: 240
+      market: local
+      notes: "Trade Sea. Demesne. The merchants' anchorage; tolls. Head village of a district assessed at 900 bales."
+    - settlement: Ronu
+      polity: affiliation-wojaidmn
+      location: place-yujai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 460
+      market: local
+      notes: "Flower Terraces. Court estate. Rice, mulberry and silk. Head village of a district assessed at 1,700 bales."
+    - settlement: Shodu
+      polity: affiliation-wojaidmn
+      location: place-yujai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Woju"
+      population: 320
+      market: local
+      notes: "Trade Road. Fief. The pack road inland. Head village of a district assessed at 1,200 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -54,11 +88,11 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Wojai Domain, held by House Wojai (Sea Place), holds [[place-yujai|Yujai]] (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Dauzhwo [Wojai Doja]{.name data-type="being/npc"} (Great Blade), fifty-six years old, who sits in the castle town of [[place-yuwu|Yuwu]] (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
+The Wojai Domain, held by House Wojai (Sea Place), holds [[place-yujai|Yujai]] (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Dauzhwo [[being-wojaidoja|Wojai Doja]] (Great Blade), fifty-six years old, who sits in the castle town of [[place-yuwu|Yuwu]] (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
 
 ## The Land
 
-Yujai's south face opens on a deep bay. The harbor takes the ships of the domain, of the other mountains and of the foreign trade, and the lord's money comes from it before it comes from the land. [Showo]{.name data-type="place/settlement"}, the merchants' anchorage, pays the lord in tolls; [Ronu]{.name data-type="place/settlement"} pays the court in rice and silk.
+Yujai's south face opens on a deep bay. The harbor takes the ships of the domain, of the other mountains and of the foreign trade, and the lord's money comes from it before it comes from the land. Yuwu, the seat, is the one town of the domain, and it buys its grain with what the harbor earns. [Showo]{.name data-type="place/settlement"}, the merchants' anchorage, pays the lord in tolls; [Ronu]{.name data-type="place/settlement"} pays the court in rice and silk.
 
 Of the 52,000 bales on the roll, the three villages below are named; the rest comes from smaller terraces and coastal holdings under their headmen.
 
@@ -67,6 +101,8 @@ Of the 52,000 bales on the roll, the three villages below are named; the rest co
 | Showo   | Trade Sea       | Demesne      | The lord's granary at Yuwu              | The merchants' anchorage; tolls |      900 |
 | Ronu    | Flower Terraces | Court estate | The Emperor, through the lord's granary | Rice, mulberry and silk         |    1,700 |
 | Shodu   | Trade Road      | Fief         | The Woju                                | The pack road inland            |    1,200 |
+
+Each named village is the head village of a district, and the assessment in the table is the district's.
 
 The summit shrine of Yujai is provisioned from the lord's villages, and its Tanchei read the mountain for a lord whose standing rests on trade as much as on rice.
 
@@ -78,18 +114,27 @@ The [Woju]{.name data-type="affiliation/lineage"} keep the harbors and hold [Sho
 
 The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the [[place-vedyarargn|Vedyaran coast]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-surtasamdra|Surta-samedra]], which is closed to shipping for four months of the year, and the Shwonong merchants of Yuwu finance the voyages.
 
+## Current Situation {#present}
+
+In 720 AF Wojai is one of the two houses both blocs are bidding for. [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have each named a price, and [Wojai Doja]{.name data-type="being/npc"} has named his to neither. He wants the harbor free of every lord's claim and the balance of the Nine standing.
+
+The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of Yuwu. The bell sounds at dawn on the first day of the year on [[place-zojai|Zojai]]'s summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Doja has the means to redeem it himself, and he is deciding whom among the houses to let do it. His choice shows which way Wojai leans before it says so.
+
+## History {#history}
+
+Wojai stood with Shuiwojai against conferring the office of Teng Ja on a regency, and the quarrel became the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
-Wojai belongs to neither bloc, and Doja's choice decides the balance: Wojai joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the equilibrium of the Nine. In 709 AF Wojai and [[affiliation-shuiwojaidmn|Shuiwojai]] pressed the court not to confer the office of Teng Ja on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed.
-
-## The Pawned Bell
-
-The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of Yuwu. The bell sounds at dawn on the first day of the year on [[place-zojai|Zojai]]'s summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Doja has the means to redeem it himself, and he is deciding whom among the houses to let do it.
+Wojai belongs to neither bloc, and Doja's choice decides the balance: Wojai joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the equilibrium of the Nine. Wojai pressed the court against the regency with [[affiliation-shuiwojaidmn|Shuiwojai]], and the quarrel began the [[lore-empseatwar|War of the Empty Seat]].
 
 ## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[being-wojaidoja|Wojai Doja]]
+: the Dauzhwo of the domain
 
 [[place-yujai|Yujai]]
 : the mountain of the domain
@@ -102,3 +147,6 @@ The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom
 
 [[place-surtasamdra|Surta-samedra]]
 : the eastern ocean the hulls cross
+
+[[miscgear-dwnrtbll|The Bell of the Dawn Rite]]
+: the pawned bell, held in Yuwu

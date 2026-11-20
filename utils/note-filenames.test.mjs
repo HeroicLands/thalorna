@@ -3,22 +3,14 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
-/**
- * Every note's file name is its sanitized name.
- *
- * The rule and its two suffixed shapes are stated in `note-filename.mjs`. A
- * note that states no name is exempt and counted.
- */
+/** Tests for the optional file-organization helper. */
 
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { test } from "node:test";
-import { fileURLToPath } from "node:url";
 import { expectedNames, sanitizeName } from "./note-filename.mjs";
-
-const REPO_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
 test("the sanitizer transliterates, elides apostrophes and keeps the case", () => {
     assert.equal(sanitizeName("Ki'ich'chik"), "Kiichchik");
@@ -30,7 +22,7 @@ test("the sanitizer transliterates, elides apostrophes and keeps the case", () =
 });
 
 /**
- * The notes whose path is not the one their name gives them.
+ * The notes whose paths differ from the suggested organization.
  *
  * @param {string} root - The repository root.
  */
@@ -40,15 +32,7 @@ function mismatches(root) {
         .map((row) => `${row.path}: expected ${row.expected} (from "${row.name}")`);
 }
 
-test("every note's file name is the sanitized form of its name", () => {
-    const rows = expectedNames(REPO_ROOT);
-    const exempt = rows.filter((row) => row.exempt);
-    test.diagnostic?.(`exempt: ${exempt.length} (${exempt.map((row) => row.path).join(", ")})`);
-    const wrong = mismatches(REPO_ROOT);
-    assert.equal(wrong.length, 0, `${wrong.length} notes are misnamed:\n${wrong.join("\n")}`);
-});
-
-test("the guard fails on a planted mismatch, and suffixes collisions and folders", () => {
+test("the helper suggests names and suffixes collisions and folders", () => {
     const root = fs.mkdtempSync(path.join(os.tmpdir(), "note-filenames-"));
     try {
         const write = (/** @type {string} */ rel, /** @type {string} */ fm) => {

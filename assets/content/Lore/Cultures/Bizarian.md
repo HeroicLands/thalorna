@@ -37,11 +37,11 @@ data:
 # terran_analog: "Classical and Byzantine-era Anatolia (philosophical city-states, caravan crossroads, an upland plateau behind the coast, frontier marches facing the Persian and Pontic worlds). Carries over: crossroads cities of mixed Helonik, Levantine and Persian-world families, guild-chartered trade, monasteries serving an eastern-rite civic faith. Departs: five cities held together by a reputation for keeping terms, with professional arbitrators and guild enforcement in place of feud."
 ---
 
-Bizarian culture is the culture of the bargain. The tongue has more words for kinds of agreement than most languages have for colors, the courts are staffed by professional arbitrators, and the highest civic honor in any of the five cities of the [[affiliation-byzarianlg|Bizarian League]] is to be named Warden of the Weights—the officer whose inspections make the city's word good. [[lore-heladweighing|The Weighing at Krusteikhos]], about 455 AF, is where the first Warden proved a tax-farmer's brass standard false. A Bizarian understands that his cities have no great river and no divine mandate. What they have is a reputation for keeping terms, and he regards that reputation as infrastructure.
+Bizarian culture is the culture of the bargain. The tongue has more words for kinds of agreement than most languages have for colors, the courts are staffed by professional arbitrators, and the highest civic honor in any of the five city-states of the [[affiliation-byzarianlg|Bizarian League]] is to be named Warden of the Weights—the officer whose inspections make the city's word good. [[lore-heladweighing|The Weighing at Krusteikhos]], about 455 AF, is where the first Warden proved a tax-farmer's brass standard false. A Bizarian understands that his city-states have no great river and no divine mandate. What they have is a reputation for keeping terms, and he regards that reputation as infrastructure.
 
 ## The Guild Is the Skeleton
 
-Every trade is chartered, and every charter carries privileges and obligations in that order and in writing. A master's seal from one of the great cities opens doors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] to the [[affiliation-jenchaiempr|Jenchai Empire]], and it does so because the guild behind it will ruin a member who discredits it faster than any magistrate could.
+Every trade is chartered, and every charter carries privileges and obligations in that order and in writing. A master's seal from one of the five city-states opens doors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] to the [[affiliation-jenchaiempr|Jenchai Empire]], and it does so because the guild behind it will ruin a member who discredits it faster than any magistrate could.
 
 A Bizarian is therefore placed by his trade before his family and long before his city. He introduces himself by craft, names his master, and expects the same in return; a man who cannot name a guild is a man nobody knows how to deal with.
 
@@ -75,17 +75,17 @@ Her admiration is not a lesser form of the man's. Alikos earns his standing by s
 
 ## What the League Keeps
 
-A Bizarian can point to a handful of things that make the system work. **The register** of each city lists who is a freeman, and being struck from it voids every contract the person holds. **The charter** of a trade states its privileges and obligations in that order. **The seal** is a brass die with the master's own mark and the year it was issued; the cartographers' impressions are red wax on a civil commission and black on a military one, and no general in the League marches on a chart without a guild seal. **The standards** against which the Warden of the Weights inspects measures, coin and quality are the nearest the cities come to a sacred object. The [Cartographic Archive]{.name data-type="place/site"} holds every map a guild master has sealed since the charter was granted, and is the guild's treasure and its weak point.
+A Bizarian can point to a handful of things that make the system work. **The register** of each city-state lists who is a freeman, and being struck from it voids every contract the person holds. **The charter** of a trade states its privileges and obligations in that order. **The seal** is a brass die with the master's own mark and the year it was issued; the cartographers' impressions are red wax on a civil commission and black on a military one, and no general in the League marches on a chart without a guild seal. **The standards** against which the Warden of the Weights inspects measures, coin and quality are the nearest the city-states come to a sacred object. The [Cartographic Archive]{.name data-type="place/site"} holds every map a guild master has sealed since the charter was granted, and is the guild's treasure and its weak point.
 
-The League's **common tariff** is the closest it has to a founding document, and the [Merchant Hall]{.name data-type="place/structure"} in [[place-khryshteikhos2|Krusteikhos]], where council and exchange share one roof, is its standing temple of business. Each house keeps its own copies of every paper that binds it. **The paper-script** of [[affiliation-danvar|the Danvar]] carries large sums across the League's borders and across the sea.
+The **common tariff** of the Compact, which imperial officers keep, is the closest the League has to a founding document, and the [Merchant Hall]{.name data-type="place/structure"} in [[place-khryshteikhos2|Krusteikhos]], where council and exchange share one roof, is its standing temple of business. Each house keeps its own copies of every paper that binds it. **The paper-script** of [[affiliation-danvar|the Danvar]] carries large sums across the League's borders and across the sea.
 
 ## Faith on the Road and at the Tomb
 
-Faiths are not forbidden in [[place-byzariargn|Bizaria]]. The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] form the civic religion in a distinctly eastern rite—mystical, contemplative, elaborate, served by monks, whose monasteries are the region's chroniclers, healers and manuscript houses. The [[affiliation-ashanpnthn|Ashaian pantheon]] has a substantial following along the caravan roads, and small temples of it stand openly in every League city.
+Faiths are not forbidden in [[place-byzariargn|Bizaria]]. The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] form the civic religion in a distinctly eastern rite—mystical, contemplative, elaborate, served by monks, whose monasteries are the region's chroniclers, healers and manuscript houses. The [[affiliation-ashanpnthn|Ashaian pantheon]] has a substantial following along the caravan roads, and small temples of it stand openly in every League city and in the larger League towns.
 
 Bizarian tolerance is practical, and the Bizarians say so without embarrassment: a faith forbidden costs more in lost trade than orthodoxy could recover. A foreigner who mistakes this for principle is half right. It began as arithmetic and has been held long enough to become a habit they are proud of.
 
-An ordinary Bizarian's religion happens at the turns of his working life and leaves the long middle to the monks. He is blessed when he departs and gives thanks when he arrives; he renews his contracts before witnesses at the turn of the year; he sends his sick to the monastery or to a temple hospital; and he pays the keepers of his family's tomb. The rite itself is personal. It puts revelation and elaborate ceremony ahead of an institution's orders, so a layman looks to a monk for guidance and not for a ruling. The [[affiliation-ordoarcanis|Thordimalon]] keeps a chapter-hall in each League city and is treated as a licensed trade.
+An ordinary Bizarian's religion happens at the turns of his working life and leaves the long middle to the monks. He is blessed when he departs and gives thanks when he arrives; he renews his contracts before witnesses at the turn of the year; he sends his sick to the monastery or to a temple hospital; and he pays the keepers of his family's tomb. The rite itself is personal. It puts revelation and elaborate ceremony ahead of an institution's orders, so a layman looks to a monk for guidance and not for a ruling. The [[affiliation-ordoarcanis|Thordimalon]] keeps a chapter-hall in each League city-state and is treated as a licensed trade.
 
 ## The Year Kept by Terms
 
@@ -101,7 +101,7 @@ Penalty climbs the other way. The lightest is the arbitrator's ruling, which nam
 
 ## Where the Council Ends and the Monastery Begins
 
-Authority in Bizaria is three institutions, not two. The first is the city. Each of the five keeps its own council, coin standard, courts and guard, and the council sits by the weight of the houses behind its members. The Chancellor keeps the charters, treaties and correspondence, the Treasurer the customs and tolls, the Harbormaster the port and its dues, and the Warden of the Weights the markets. The League council meets in the Merchant Hall and decides tariffs, the joint fleet and army, the three marches and quarrels between cities, and nothing else.
+Authority in Bizaria is three institutions, not two. The first is the city-state. Each of the five keeps its own council, coin standard, courts and guard, and the council sits by the weight of the houses behind its members. The Chancellor keeps the charters, treaties and correspondence, the Treasurer the customs and tolls, the Harbormaster the port and its dues, and the Warden of the Weights the markets. The League council meets in the Merchant Hall and sets the common tolls and decides the pay of the forts, the joint fleet and army, the three marches and quarrels between city-states, and nothing else. The passes, the tariffs and the muster stay with imperial officers.
 
 The second is the guild. It places a man, trains him, enforces the ruling of an arbitrator and disciplines the member who spoils its seal. The arbitrator is chosen by both sides, and a ruling is enforced by the guilds and not by the city. The council of a city that is asked to hear a quarrel between houses has never heard of the parties and sends them to an arbitrator.
 
@@ -145,7 +145,7 @@ In return the guild owes a member its seal, its standing in the market and the d
 
 ## The Weak
 
-Care in Bizaria is placed in the same institutions as everything else, and each draws its line where its charter does. The apprentice is the guild's first dependent, since the master owes him maintenance. A trade's charter writes down what the guild owes its members, and where the charter is silent the household carries its own. Beyond the guild, the monasteries are the region's healers and the temples of the [[affiliation-lizelas|Faith of Lizelas]] and the [[affiliation-morvana|Faith of Morvana]] keep houses of healing and hospices in the larger cities, where the sick and dying are tended without regard to wealth. The priests of Sélmoros bury the unclaimed without fee.
+Care in Bizaria is placed in the same institutions as everything else, and each draws its line where its charter does. The apprentice is the guild's first dependent, since the master owes him maintenance. A trade's charter writes down what the guild owes its members, and where the charter is silent the household carries its own. Beyond the guild, the monasteries are the region's healers and the temples of the [[affiliation-lizelas|Faith of Lizelas]] and the [[affiliation-morvana|Faith of Morvana]] keep houses of healing and hospices in the cities and larger towns, where the sick and dying are tended without regard to wealth. The priests of Sélmoros bury the unclaimed without fee.
 
 The limit is the roll. The resident works and lives under the city's protection without its freedom or a vote, the unfree are bound by service or debt and cannot own property or contract, and the man struck from the roll has no standing at all. The destitute freeman has his place in the register and his guild. The destitute man without a guild or a master has the monastery and the hospice, and nothing that a counterpart is obliged to honor.
 
@@ -157,11 +157,11 @@ The old move out of the shop and into another service. A retired guild master si
 
 ## Shelter, Teaching and Defense
 
-Shelter is the household's first and the guild's second. The merchant quarters of the Dunhari and the Khazrini keep their own law and their own faith inside the cities and take in their own. A traveler without a patron finds the caravanserai, where the master feeds a guest well before he names a price.
+Shelter is the household's first and the guild's second. The merchant quarters of the Dunhari and the Khazrini keep their own law and their own faith inside the towns and cities and take in their own. A traveler without a patron finds the caravanserai, where the master feeds a guest well before he names a price.
 
 Teaching is the guild's. The apprentice is admitted by examination in his early teens, trained in the trade's foundations by a master who answers for him, and taught the grades in order. The monasteries copy manuscripts and keep libraries, and the merchant academies teach the standard written form to a literate few. Most Bizarians learn their letters only as far as the trade requires, which is why the scribe reads the paper aloud.
 
-Defense is bought and conscripted together. Each city keeps its guard and the militia its guilds are bound to raise. The League's joint army is raised by conscription from all five cities and paid from the common treasury and the silver of Argirteikhos. The marches are held by lords the council can dismiss, and when the frontier turns dangerous the council contracts mercenary companies. The plateau herder is protected by the same chain of garrisons and by his clan, which carries its own.
+Defense is bought and conscripted together. Each city-state keeps its guard and the militia its guilds are bound to raise. The League's joint army is raised by conscription from all five city-states and paid from the common treasury and the silver of Argirteikhos. The marches are held by lords the council can dismiss, and when the frontier turns dangerous the council contracts mercenary companies. The plateau herder is protected by the same chain of garrisons and by his clan, which carries its own.
 
 ## House, Guild and Name
 
@@ -193,7 +193,7 @@ The Cartographers' Guild shows the same pattern in a smaller place. Its seal mak
 ## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]
-: the five cities, the plateau and the marches
+: the five city-states, the plateau and the marches
 
 [[affiliation-byzarianlg|Bizarian League]]
 : the confederation, its council and its ladder of standing

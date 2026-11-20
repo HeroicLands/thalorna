@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: khryshteikhos2
-  population: 310000
-  territorial_population: 310000
+  population: 300000
+  territorial_population: 300000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
@@ -71,13 +71,13 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about 310,000 people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five seats and the League's capital, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
+Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it sets the common tolls and decides the pay of the forts, the joint fleet and army, the three marches and quarrels between city-states. The second belongs to the city-state alone, which governs about 300,000 people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five seats and the League's capital, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
 
 ## Who Decides
 
 A council of merchant-princes governs the city-state, and the same families have held their seats for generations. Seats are weighed by the house behind the councillor, so the first thing to learn in Krusteikhos is whose house stands behind whom; politics here is a long exchange of alliances, marriages and loans. The council elects its presiding officer, the First of the Council, for a fixed term, and he holds the city's seal while he presides.
 
-The offices are the ones every League city keeps, and in a city of bankers three of them matter to anyone doing business. The Treasurer keeps the customs, the tolls and the loans raised against them. The Chancellor keeps the charters, treaties and correspondence on which those loans rest. The Warden of the Weights inspects measures, coin and quality in the markets, and his is the office that makes the city's word good.
+The offices are the ones every League city-state keeps, and in a city of bankers three of them matter to anyone doing business. The Treasurer keeps the customs, the tolls and the loans raised against them. The Chancellor keeps the charters, treaties and correspondence on which those loans rest. The Warden of the Weights inspects measures, coin and quality in the markets, and his is the office that makes the city's word good.
 
 ## Standing
 
@@ -87,17 +87,17 @@ Above the freeman the rungs are earned by weight. A guild master speaks for a ch
 
 ## Relations
 
-Inside the League, Krusteikhos's weight is money; [[affiliation-nesthiros|Nesthiros]]'s is ships and [[affiliation-argyrteikhos|Argirteikhos]]'s is the garrison, and the three together decide more than any vote. The north is Krusteikhos's own concern. The grain road leaves the city for [[place-velanthrgn|Velanthia]], Krusteikhos's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the [[place-northrnmrch|Northern March]] is by custom a younger son of a Krustéikhian house. The other four cities accept this because the council's commission can be revoked, which would not be true if the March were simply Krusteikhos's.
+Inside the League, Krusteikhos's weight is money; [[affiliation-nesthiros|Nesthiros]]'s is ships and [[affiliation-argyrteikhos|Argirteikhos]]'s is the garrison, and the three together decide more than any vote. The north is Krusteikhos's own concern. The grain road leaves the city for [[place-velanthrgn|Velanthia]], Krusteikhos's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the [[place-northrnmrch|Northern March]] is by custom a younger son of a Krustéikhian house. The other four city-states accept this because the council's commission can be revoked, which would not be true if the March were simply Krusteikhos's.
 
 The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]], whose faith traditions are the civic traditions of the League.
 
 ## Commerce and Currency
 
-Krusteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Krusteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Krusteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Krusteikhos, a member of a province of the empire in law, takes full part in the trade and banking infrastructure of the Vilérian system. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## Current Situation {#present}
 
-The bankers who sit in the Merchant Hall also hold the grain contracts with Velanthia, so the council's votes on tariffs and the joint army are taken where the city's loans are written. Its weight at the League table is money, set against the ships of Nesthiros and the garrison of Argirteikhos.
+The bankers who sit in the Merchant Hall also hold the grain contracts with Velanthia, so the council's votes on tolls, the pay of the forts and the joint army are taken where the city's loans are written. Its weight at the League table is money, set against the ships of Nesthiros and the garrison of Argirteikhos.
 
 ## History {#history}
 

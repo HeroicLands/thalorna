@@ -13,6 +13,9 @@ data:
     - {to: okharisrgn, bearing: N}
     - {to: sthmrchsrgn, bearing: N}
     - {to: sthrnsvnhs, bearing: S}
+  routes:
+    - {to: vuthraka, bearing: N, mode: land, days: 10, terrain: [jungle, plain]}
+    - {to: sthrnsvnhs, bearing: S, mode: land, days: 30, terrain: [jungle, plain]}
   population: 250000
   packFolder: centralrainforests
 
@@ -37,7 +40,7 @@ The forest holds species of tree, vine, insect, and beast found nowhere else on 
 
 The forest tribes are many, small and remote, perhaps a quarter of a million people in all. Nothing stands above the tribe: a tribe is a few bands that follow one leader, and alliances, feasts and marriages between tribes are occasions, not institutions. The northern scholars who have set down anything about them record a patchwork of tribes that look alike from outside and differ greatly from within. A broad pattern recurs in four loose traditions, none of them a polity and none with borders or leaders:
 
-- The [[lore-luwandoclt|Luwando]] live along the great rivers. They fish, forage and hunt, keep small bank gardens, and deal cautiously with the Khelathi, Okharin and Bethuan traders who come upriver.
+- The [[lore-luwandoclt|Luwando]] live along the great rivers. They fish, forage and hunt, keep small bank gardens, and deal cautiously with the Khelathi, Okharik and Bethuan traders who come upriver.
 - The [[lore-yesomaclt|Yesoma]] are the mobile foragers of the deep interior between the rivers, who keep no gardens and little contact with the north. What contact they have is mediated through the Luwando, through ritual exchanges and through trails known only to those who grew up on them.
 - The [[lore-kubindoclt|Kubindo]] forage in tribes each bound to one spirit-place, whose manners an elder keeps. A spirit-place has a keeper and no priesthood, and the Kubindo hold that a keeper who becomes a leader has begun to ruin the place.
 - The [[lore-pewayeclt|Pewaye]] live on the forest margins, north and south, keep small gardens, and hold the line between the forest and the outside, which makes them the forest's trading door.
@@ -66,7 +69,7 @@ The trading relationship is never casual. Outside merchants approach the forest 
 
 ## Relations with Neighboring Regions
 
-To the **north** lies the [[place-nrthrnfrtlrgn|Northern Fertile Crescent]]—the Khelathi, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Au'Khelathu), mystical reverence (certain Okhárian traditions), to active avoidance ([[affiliation-mtrrchybth|Bethua]]).
+To the **north** lies the [[place-nrthrnfrtlrgn|Northern Fertile Crescent]]—the Khelathi, Okharik, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Au'Khelathu), mystical reverence (certain Okharik traditions), to active avoidance ([[affiliation-mtrrchybth|Bethua]]).
 
 To the **south** lie the [[place-sthrnsvnhs|Southern Savannahs]] and the nomadic hunter-tribes that follow the great seasonal migrations. The savannah peoples and the forest peoples meet along the long southern margin where jungle gives way to grassland, and maintain a mostly peaceful set of exchanges built on generations of overlapping seasonal movement.
 

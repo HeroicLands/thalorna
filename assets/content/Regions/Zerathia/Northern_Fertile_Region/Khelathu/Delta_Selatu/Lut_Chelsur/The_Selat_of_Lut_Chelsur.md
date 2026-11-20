@@ -66,6 +66,10 @@ Lut-Chelsur is the selat of the crocodile-god, and it lives with the difficulty 
 
 The seat is [[place-lutchelsur|Lut-Chelsur]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-chelsur|Chelsur]] stands. The cult's central difficulty is that the animal sacred to the god is also the animal that takes farmers and children along the river, and must sometimes be killed.
 
+## Current Situation {#present}
+
+In Lut-Chelsur the low water drives the river-beasts into the few pools that remain, and the crocodile-god's own animals take more farmers and children than in an ordinary year. The temple of Chelsur at the seat is the selat's difficulty again: the priests protect the animals, the hunters kill the ones that have taken people, and the Halzi'a arbitrates. He grants the hunters leave to take more than the temple allows, and the temple's estates lose their share of the render of hides. The selat's tribute in hides and beast-products is down, and he enters the shortfall as a lost season. The marsh villages, which suffer most, bring their quarrels to the Halzi'a rather than to the priests, and he decides them by the harvest.
+
 ## Commerce and Currency {#commerce}
 
 Lut-Chelsur uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of Gar-Hálzi attached to the chief temple attests the weight-pieces and holds the granary accounts, and a hunter paid for a season's work is paid in pieces the chapter has weighed. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

@@ -239,3 +239,120 @@ The underlying commands are `package-build cdn publish --dest internal` and
 set/name and dry-run options. Publish required images to the chosen CDN as an
 explicit operation. Site builds and page deployment neither stage an automatic
 asset closure nor fetch fallback images or start a CDN publication.
+
+## Review pages of a historical revision
+
+The `Build historical review pages` workflow (`historical-review-pages.yml`)
+renders the pages of one approved revision and uploads them as an artifact,
+without publishing. It is a single job with no secrets and no dependent job, so
+rerunning it cannot reach a deployment, a CDN or a release.
+
+Dispatch it from `main` with `source-sha`, one full lowercase 40-character
+commit SHA, and optionally `min-pages` (default 1001, the number of index pages
+the build must contain; the helper reads it as `MIN_PAGES`). The trusted workflow revision, which is `main`'s
+checkout, validates the SHA against fetched history before any repository build
+code runs. It rejects a malformed, unavailable or non-ancestor-of-`main`
+commit. The source is then checked out separately with credentials not
+persisted, and its actual `HEAD` must equal the validated SHA. Dependencies come
+from the source's own lockfile (`npm ci`, `build:deps`), and the site builds with
+the same `--max-old-space-size=6144` limit and 60-minute timeout as the
+publishing build, for the internal root.
+
+The artifact `thalorna-review-pages-<sha>` is kept for three days and holds:
+
+- `site/`, the rendered pages in the publishing layout.
+- `manifest.json`, the path, size and SHA-256 of every file under `site/`.
+- `package-lock.json`, a copy of the source lockfile.
+- `provenance.json`, with the requested, validated and actual SHAs; the
+  `min-pages` threshold the build passed; the lockfile's path and hash; the installed `@heroiclands/package-build` and
+  `@heroiclands/fonts` versions; the hash of every font file in `site/`; and an
+  `externalFonts` record of what the pages and styles load from elsewhere.
+
+`externalFonts` always has `verified: false`, because nothing external is
+fetched. Its fields are:
+
+- `inspected`, the count of files read: `html` (`.html`, `.htm` and `.xhtml`),
+  `css`, `svg` (`.svg` and `.svgz`), and `xml` (`.xml`, `.xsl` and `.xslt`).
+- `stylesheets`, external `<link rel="stylesheet">` targets.
+- `imports`, external CSS `@import` targets.
+- `fontUrls`, external font files in `url(...)` values or font preloads.
+- `unparsed`, raw-text hits: each entry names a `file` and an `excerpt` of up
+  to 80 characters starting at the hit. Entries are sorted by file and excerpt,
+  duplicates are dropped, and at most 100 are kept.
+- `unparsedTotal`, the number of distinct hits before that limit applies.
+- `truncated`, `true` when `unparsedTotal` exceeds 100 and `unparsed` holds
+  only the first 100, `false` otherwise.
+- `status`, `unresolved` or `none-found`.
+- `note`, a sentence saying what the status means.
+
+The first three lists are precise findings. Pages are read tag by tag, so a
+`<link>` inside an HTML comment, a `<script>` or a quoted attribute value is not
+listed there, and attribute-like text inside a quoted value is never taken for
+the real `href` or `rel`. `@import` rules are read from CSS files and `<style>`
+elements, and one inside a CSS comment or string is not listed.
+
+A tokenizer cannot match every browser's reading of malformed markup, character
+references or CSS escapes, so `unparsed` comes from a second, conservative scan
+of the raw text of every file read. Each file's `\r\n`, `\r` and form feeds
+are read as `\n` first, so a CSS escape followed by a line break is read as one
+token. The scan ignores comments, quotes and element boundaries and never
+decides whether a hit would load. It records:
+
+- a file it cannot read as UTF-8 text, with the excerpt `encoding not scanned`:
+  one starting with a UTF-16 byte-order mark, one containing a NUL byte, or one
+  compressed with gzip, such as an `.svgz`;
+- an `http:` or `https:` scheme anywhere, or two slashes or backslashes in any
+  mix followed by anything but a space;
+- any `<base` tag, prefixed or not, and any `srcdoc` attribute;
+- an `href`, `src`, `srcset`, `imagesrcset`, `poster`, `action`, `formaction`,
+  `data` or `background` value, or a `content` value in a file that mentions
+  `http-equiv`, containing `&`, a backslash or a control character, holding a
+  `data:` URL whose type names CSS, HTML, SVG or XML, or holding any `data:`
+  URL in an `href`. Every occurrence of one of these names is tested, so a name
+  that ends another attribute's value, as in `title="x href="`, does not hide
+  the real attribute after it;
+- a numeric character reference, or a named one other than `&amp;`, `&lt;`,
+  `&gt;`, `&quot;` and `&apos;`, inside a `style` attribute or between `<style`
+  and the next `</style`, and any `<!ENTITY` declaration;
+- an at-keyword written with a CSS escape, such as `@\69mport`, and a function
+  written with an escape whose name decodes to `url`;
+- a `url(...)` value that is not plainly local, which covers every
+  `@font-face` source whatever its file extension;
+- an `@import` followed by something other than a string or `url(`, one whose
+  string target is not plainly local, and one with a backslash anywhere before
+  its `;`.
+
+A plainly local value has no backslash, `&` or control character, and is empty,
+a fragment or query, a path starting with `/` followed by neither `/` nor `\`,
+a path starting with `./` or `../`, or a bare relative name with no `:`. Quotes
+and surrounding whitespace outside them are removed first, so a space inside
+the quotes makes the value not local. The SVG, XHTML, XLink, MathML and XML
+namespace declarations (`xmlns="http://www.w3.org/2000/svg"` and the like) load
+nothing and are not hits.
+
+`status` is `unresolved` when any of the four lists is non-empty: an external
+stylesheet may load fonts that this artifact cannot name, and a raw-text hit may
+be one the tokenizer misread. The scan fails closed, so harmless text such as a
+link in a comment or `&amp;` in a local URL also reads `unresolved`. It is
+`none-found` only when no external-looking reference appears anywhere in the
+scanned text. `verify` recomputes the whole record, `unparsed`,
+`unparsedTotal` and `truncated` included, from `site/` and rejects a missing,
+malformed or inconsistent one.
+
+`none-found` describes only markup and CSS written directly in the scanned
+files. It says nothing about:
+
+- what a script inserts or loads when it runs, or what an XSLT transform
+  produces; inline scripts and XSLT files are read as raw text by the scan, never
+  executed or analyzed;
+- headers the host sends, such as `Link: <...>; rel=preload`;
+- files of any type other than those counted in `inspected`: JavaScript, JSON,
+  images, fonts, web manifests and every other file are not read.
+
+The build fails, and nothing is uploaded, when the SHA is rejected, the checkout
+differs, the build or its page-count and layout checks fail, a toolchain version
+or the lockfile is missing, the site contains no font files, or the manifest and
+provenance do not describe the pages. To inspect an artifact, download it and run
+`node utils/historical-review.mjs verify <directory>`, then read
+`provenance.json`. `verify` checks against the `min-pages` recorded in
+`provenance.json`; set `MIN_PAGES` to require a different count.

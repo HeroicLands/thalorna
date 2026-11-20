@@ -40,10 +40,43 @@ data:
         title: Dauzhwo
         description: >-
           Holds Wejai by the Emperor's patent, with his own army, fleet, justice and taxes.
-    offices: {}
+    offices:
+      Dauzhwo: >-
+        Great Lord of Wejai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Zuwu. Held by a Dauzhwo.
   seat: zuwu
   population: 38000
   territorial_population: 38000
+  settlements:
+    - settlement: Rewo
+      polity: affiliation-wejaidmn
+      location: place-wejai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-wejaidmn
+      population: 220
+      market: local
+      notes: "Dawn Sea. Demesne. Fishing and whaling. Head village of a district assessed at 800 bales."
+    - settlement: Wewo
+      polity: affiliation-wejaidmn
+      location: place-wejai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Cape shrine of the Minister of Storms"
+      population: 140
+      market: local
+      notes: "Wind Sea. Shrine land. Reef fishing and pilgrims. Head village of a district assessed at 500 bales."
+    - settlement: Hanu
+      polity: affiliation-wejaidmn
+      location: place-wejai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 270
+      market: local
+      notes: "Dark Terraces. Court estate. Rice behind the dunes. Head village of a district assessed at 1,000 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -53,7 +86,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Wejai Domain, held by House Wejai (Wind Peak), holds [[place-wejai|Wejai]], the mountain of the open-ocean coast on the east of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Wejai Rowo]{.name data-type="being/npc"} (Thunder Warrior), forty years old, who sits in the castle town of [[place-zuwu|Zuwu]] (Blue Hall), population 2,200. The domain holds 38,000 people, is assessed at 24,000 bales a year, and musters 600 men and 15 ships. The house is independent of both blocs.
+The Wejai Domain, held by House Wejai (Wind Peak), holds [[place-wejai|Wejai]], the mountain of the open-ocean coast on the east of the great island, by patent of the Emperor. Its lord is the Dauzhwo [[being-wejairowo|Wejai Rowo]] (Thunder Warrior), forty years old, who sits in the castle town of [[place-zuwu|Zuwu]] (Blue Hall), population 2,200. The domain holds 38,000 people, is assessed at 24,000 bales a year, and musters 600 men and 15 ships. The house is independent of both blocs.
 
 ## The Land
 
@@ -67,6 +100,8 @@ The three villages below are named on the roll; smaller landings and hamlets und
 | Wewo    | Wind Sea      | Shrine land  | The cape shrine of the Minister of Storms | Reef fishing and pilgrims |      500 |
 | Hanu    | Dark Terraces | Court estate | The Emperor, through the lord's granary   | Rice behind the dunes     |    1,000 |
 
+Each named village is the head village of a district, and the assessment in the table is the district's.
+
 The summit shrine of Wejai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchei are provisioned from the lord's villages. The cape shrine of the Minister of Storms at [Wewo]{.name data-type="place/settlement"} holds its village as shrine land: the four parts of Wewo's assessment go to the shrine, not to the lord.
 
 ## Retainers
@@ -77,18 +112,27 @@ The Wohou of Wejai serve the house for stipends in bales, since no retainer fami
 
 The muster is 600 men and 15 ships. The ships are whalers and coastal guard boats, built to keep the reefs and to stand off the typhoon coast.
 
+## Current Situation {#present}
+
+A typhoon drove a foreign hull onto the reefs of Wewo, and in 720 AF its cargo and its survivor are Wejai's problem. By wreck-right the cargo is the lord's. The survivor claims to be an envoy to the court, and his letters are in the cargo. If [Wejai Rowo]{.name data-type="being/npc"} keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross the [[affiliation-muwojaidmn|Muwojai Domain]]'s roads.
+
+Wejai has the fewest people of the four independent houses, and Rowo wants a better seat at the Dawn Rite than his 600 men and 15 ships have bought him. He has named his price to no bloc and wants to be asked after Zenjai and Wojai. The letters are what he has to bargain with.
+
+## History {#history}
+
+Wejai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Wejai belongs to neither bloc. Its lord is one of the four independent houses, who together muster 3,970 men and 55 ships and who each have their own price.
-
-## The Wreck on the Reefs
-
-A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo is the lord's. A survivor claims to be an envoy to the court, and his letters are in the cargo. If Rowo keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross the [[affiliation-muwojaidmn|Muwojai Domain]]'s roads.
 
 ## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[being-wejairowo|Wejai Rowo]]
+: the Dauzhwo of the domain
 
 [[place-wejai|Wejai]]
 : the mountain of the domain
@@ -98,3 +142,6 @@ A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo 
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[place-weworeefs|The Wewo Reefs]]
+: the reefs below the cape shrine

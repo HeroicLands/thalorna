@@ -31,4 +31,4 @@ The physicians keep the weed and brew it for the town's sleepless and its wounde
 : the water the weed grows in
 
 [[place-stillwatersill|The Still-Water Sill]]
-: the work that holds the lake to its level
+: the work the Kuethori hold keeps the lake to its level

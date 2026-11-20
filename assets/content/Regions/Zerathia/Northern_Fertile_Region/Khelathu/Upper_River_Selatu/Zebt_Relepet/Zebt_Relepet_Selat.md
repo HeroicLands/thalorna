@@ -35,6 +35,10 @@ The selat runs on the flood, the harvest and the render like every Khelathi sela
 - The chief temple of the [[affiliation-wethur|Faith of Weth'ur]] and its estates
 - The cavern-tombs and the natron workings of the mortuary trade
 
+## Current Situation {#present}
+
+The cavern-tombs and natron works of Zebt-Relepet employ most of the villages, and the work holds steady in a hungry year. The natron-diggers fill their carts, and the cavern-tombs keep their trade while the neighboring selatu's estates can pay less. The estate-towns eat from the temple of Weth'ur's stores, which are better than the farmers'. The mortuary trade is steady, and the people who live by it are among the few in the upper river who are not hungry.
+
 ## Settlements {#settlements}
 
 Zebt-Relepet (~28,000)

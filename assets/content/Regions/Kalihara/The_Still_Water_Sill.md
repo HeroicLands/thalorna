@@ -16,11 +16,11 @@ data:
 
 ## Overview {#overview}
 
-The Still-Water Sill lies across the bed of the river at the head of [[place-klhrkthrgap|the Kuethori Gap]], where the water of [[place-klhrlake|the Bowl Lake]] leaves the interior of [[place-klhrcntnnt|Kalihara]] and enters the gorge. It is a long, low swell of [[lore-itharisul|ithasul]] from bank to bank, gray and without a seam, and the river slides over it smooth. The custodians call it _Ithavanu-sul_ (still-water stone), for the lake it keeps.
+The Still-Water Sill lies across the bed of the river at the head of [[place-klhrkthrgap|the Kuethori Gap]], where the water of [[place-klhrlake|the Bowl Lake]] leaves the interior of [[place-klhrcntnnt|Kalihara]] and enters the gorge. It is a long, low swell of [[lore-itharisul|ithasul]] from bank to bank, gray and without a seam, and the river slides over it smooth. The custodians call it _Ithavanu-sul_ (still-water stone), for the lake they believe it keeps.
 
 ## What It Does
 
-While the sill does what it does, the lake holds its level through [Deepwater]{.name data-type="lore/calendar"} and does not drain in the dry months, and the terraces on its shores neither drown nor dry. Every terrace wall on the lake was built to the level the sill has held.
+The Kuethori, who hold the sill, and the custodians who tend it believe that it keeps the lake to its level. Until the present rise, every account they keep has the lake holding its level through [Deepwater]{.name data-type="lore/calendar"} and not draining in the dry months, with the terraces on its shores neither drowned nor dried. Every terrace wall on the lake was built to that level. Nothing confirms that the one follows from the other.
 
 ## The Holding
 
@@ -49,7 +49,7 @@ The sill is a day along the southern shore of the lake from the terrace country,
 : the village of the lineage that holds the sill
 
 [[place-klhrlake|The Bowl Lake]]
-: the water the sill holds to its level
+: the water the Kuethori hold the sill keeps to its level
 
 [[place-koathevoi|Koathevoi]]
 : the terrace town whose lowest walls are under water

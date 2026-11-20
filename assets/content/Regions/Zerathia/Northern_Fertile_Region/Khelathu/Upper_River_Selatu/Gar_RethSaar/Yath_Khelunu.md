@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [garrethsaarnome]
-  population: 0
+  population: 450
+  type: village
+  market: local
+  government: selatgrrthsr
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A farm village of Gar-Reth'Sa'ar within reach of Khelunu, lodging pupils' families and drawing its trade from the schools"

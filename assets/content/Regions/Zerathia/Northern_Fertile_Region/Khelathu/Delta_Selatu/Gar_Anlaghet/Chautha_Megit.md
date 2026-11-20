@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [garanlghtslt]
-  population: 0
+  population: 410
+  type: village
+  market: local
+  government: selatgrnlght
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A fishing-and-ferry community of the marsh-channels around Gar-Anlaghet, living by its boats, its nets, and the custom of the great port"

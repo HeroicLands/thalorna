@@ -25,8 +25,14 @@ The forts stand beyond the first cataract and the fortress of [[place-balehen|Ba
 
 ## Settlements {#settlements}
 
-[[place-qeltlen|Qelt-Len]] (~15,000)
+[[place-qeltlen|Qelt-Len]] (~5,300)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-qeztu|Qeztu]].
+
+[[place-zelqelt|Zel-Qelt]] (~4,800)
+: the supply town below the forward forts of Qelt-Len-Legir Selat, at the head of the cataract road from Qelt-Len
+
+[[place-garlegir|Gar-Legir]] (~3,900)
+: a walled garrison town in Qelt-Len-Legir Selat, a day's march south of Qelt-Len
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

@@ -71,6 +71,10 @@ The selat's patron is [[lore-thubaidty|Thuba'i]], lord of abundance and pleasure
 
 The selat takes its cut of everything that passes: harbor-fees, customs, warehousing, brokerage, and the banking that the Gar-Hálzi treasuries run from its docks. The Gar-Au's chief customs-station stands here, and it is where the empire taxes its seaborne trade.
 
+## Current Situation {#present}
+
+Gar-Anlaghet is the empire's sea-gate, and in a short-flood year its harbor is where the empire finds out how much grain the world will sell it. The Halzi'a, who is first of the delta and richest in the empire, sends the throne the customs duty that the Overseer of the Sea-Gate collects and keeps the selat's own harbor fees. The Taruzelian factories and the foreign factors hold grain and are asking prices; the merchant families who run the selat buy and sell on both sides of the transaction. The Halzi'a lends the throne silver at interest and sends its tribute in the form of loans. He presses the Bethuan Trade-Houses, through the Gar-Hálzi correspondents, to sell their surplus, and the price he can get decides whether Galezkara is fed. The merchant-Halzi'a hold what the throne needs.
+
 ## For the Worldbuilder
 
 Gar-Anlaghet is the empire's commercial nerve, and it plays like a great trading port anywhere: customs and smuggling, brokerage and fraud, foreign agents and merchant feuds, and constant friction between [[lore-khelathiclt|Khelathi]] customs men and Taruzelian factors who both want the trade on their own terms. The Halzi'a balances profit against the Gar-Au's suspicion that the delta is one bad harvest from selling out the empire. Adventures here are mercantile intrigue, dockside crime, insurance and cargo swindles, the theft and recovery of bonded goods, foreign espionage in the cosmopolitan quarters, and the dangerous question of who really controls the harbor-fees. Money, foreign goods and information are abundant. Grain, loyalty and any transaction without a cut taken somewhere are scarce.

@@ -40,10 +40,46 @@ data:
         title: Dauzhwo
         description: >-
           Holds Hojai by the Emperor's patent, with his own army, fleet, justice and taxes.
-    offices: {}
+    offices:
+      Dauzhwo: >-
+        Great Lord of Hojai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and holds it from Yanwu, his mother governing as regent while he is a minor. Held by a Dauzhwo.
+      Judge: Appointed by the household from among its retainers to hear the cases of Yanwu.
+      Regent: >-
+        Governs the domain in the name of the Dauzhwo, who is a minor, with the keys of the castle and its granary; the Dauzhwo's mother holds the office.
   seat: yanwu
   population: 92000
   territorial_population: 92000
+  settlements:
+    - settlement: Fanu
+      polity: affiliation-hojujaidmn
+      location: place-hojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 590
+      market: local
+      notes: "Fortune Terraces. Court estate. Rice on ash soil, the best in the realm. Head village of a district assessed at 2,200 bales."
+    - settlement: Yanju
+      polity: affiliation-hojujaidmn
+      location: place-hojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-hojujaidmn
+      population: 410
+      market: local
+      notes: "Cloud Spring. Demesne. Hot springs, bathhouses and sulfur. Head village of a district assessed at 1,500 bales."
+    - settlement: Weinu
+      polity: affiliation-hojujaidmn
+      location: place-hojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "A Shwizhwo of the domain"
+      population: 700
+      market: local
+      notes: "Jade Terraces. Fief. Rice. Head village of a district assessed at 2,600 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -53,7 +89,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Hojujai Domain, held by House Hojujai (Hot Spring Place), holds [[place-hojai|Hojai]] (Fire Peak), the most active mountain of the Nine, in the south of the great island, by patent of the Emperor. The Dauzhwo is [Hojujai Zija]{.name data-type="being/npc"} (Star Blade), fourteen years old, and the domain is governed in his name by his mother [Hojujai Rewei]{.name data-type="being/npc"} (Dawn Jade), thirty-eight, widow of the last Teng Ja, who has held it for him since 709 AF. She sits in the castle town of [[place-yanwu|Yanwu]] (Cloud Hall), population 6,000. The domain holds 92,000 people, is assessed at 70,000 bales a year, and musters 1,750 men and 20 ships. Hojujai leads the loyalist bloc.
+The Hojujai Domain, held by House Hojujai (Hot Spring Place), holds [[place-hojai|Hojai]] (Fire Peak), the most active mountain of the Nine, in the south of the great island, by patent of the Emperor. The Dauzhwo is [[being-zijahojujai|Hojujai Zija]] (Star Blade), fourteen years old, and the domain is governed in his name by his mother [[being-reweihojujai|Hojujai Rewei]] (Dawn Jade), thirty-eight, widow of the last Teng Ja, who has held it for him since 709 AF. She sits in the castle town of [[place-yanwu|Yanwu]] (Cloud Hall), population 6,000. The domain holds 92,000 people, is assessed at 70,000 bales a year, and musters 1,750 men and 20 ships. Hojujai leads the loyalist bloc.
 
 ## The Land
 
@@ -67,6 +103,8 @@ The roll names three villages here; smaller terraces and hamlets, each under its
 | Yanju   | Cloud Spring     | Demesne      | The lord's granary at Yanwu             | Hot springs, bathhouses and sulfur      |    1,500 |
 | Weinu   | Jade Terraces    | Fief         | A Shwizhwo of the domain                | Rice                                    |    2,600 |
 
+Each named village is the head village of a district, and the assessment in the table is the district's.
+
 The summit shrine of Hojai is provisioned from the lord's villages, and its Tanchei keep the mountain record on which the house's claim to heaven's favor rests.
 
 ## Retainers
@@ -77,13 +115,19 @@ Rewei holds the keys of the castle and its granary and decides in her son's name
 
 The muster is 1,750 men and 20 ships. When the mountain erupts and a [[being-pyrclsm|Pyroclasm]] walks out of it, the retainers clear the villages in its path, and the lord's sorcerers and the shrine's priests try to turn it toward the sea; the muster is called out for it as it is for a war.
 
+## Current Situation {#present}
+
+In 720 AF [[being-reweihojujai|Hojujai Rewei]] holds Hojujai for her son [[being-zijahojujai|Hojujai Zija]], who is fourteen, and [[being-weilengjnch|Weileng]] has not conferred the office of Teng Ja, so the house's claim stays open. Henzo's silver and Rewei's own offer have each named a price to Zenjai and Wojai, and she has not shown her steward what hers is, though the granary must meet it.
+
+Hojai is rumbling. The omen-readers are divided on whether the mountain condemns a widow's regency. In that reading, an eruption before Zija comes of age settles the argument against his mother, and until he does, Rewei holds the house on a reading that the next tremor can reverse. The Shuiwojai envoy at [[place-yanwu|Yanwu]] sends word to [[place-hawu|Hawu]] after every tremor, so the lords of the Strait know the mountain's mood as soon as she does.
+
+## History {#history}
+
+The house held the office of Teng Ja for sixteen years, 693 to 709 AF, under [Hojujai Henwo]{.name data-type="being/npc"}, and its retainers are his household ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
-Hojujai and [[affiliation-muwojaidmn|Muwojai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. [[affiliation-shuiwojaidmn|Shuiwojai]] is the rival: in 709 AF Shuiwojai and [[affiliation-wojaidmn|Wojai]] pressed the court not to confer the office on a regency, which was the quarrel that began the [War of the Empty Seat]{.name data-type="lore/history"}.
-
-## The Mountain's Verdict
-
-Hojai is rumbling. The omen-readers are divided on whether the mountain condemns a widow's regency. In that reading, an eruption before Zija comes of age settles the argument against his mother, and until he does, Rewei holds the house on a reading that the next tremor can reverse.
+Hojujai and [[affiliation-muwojaidmn|Muwojai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. [[affiliation-shuiwojaidmn|Shuiwojai]] is the rival: it pressed the court against the regency, and the quarrel began the [[lore-empseatwar|War of the Empty Seat]].
 
 ## See Also {#see-also}
 

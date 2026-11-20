@@ -1,0 +1,78 @@
+---
+shortcode: lengwou
+name: {full: Lengwou, en: [The Dawn Court]}
+type: place
+subType: settlement
+description: "Lengwou, the Emperor's capital on the lowest slope of Zojai—a town of 9,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
+tags: [town, capital, court]
+data:
+  demonym: null
+  lore: [humanflk]
+  parents: [zojai]
+  population: 9000
+  type: town
+  market: regional
+  government: jenchaiempr
+  packFolder: jenchai
+  culture: jenchaiclt
+  notes: "Lengwou, the Emperor's capital on the lowest slope of Zojai—a town of 9,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
+---
+
+Lengwou (the Dawn Court) is the capital of [[affiliation-jenchaiempr|Jenchai Empire]], a town of 9,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Dauzhwo holds.
+
+## The Court
+
+The Emperor is [[being-weilengjnch|Weileng]] (Jade Dawn), nineteen years old, enthroned in 712 AF at eleven, when his father, [[being-fuzoretired|Fuzo]], abdicated as the price of the peace that ended the [[lore-empseatwar|War of the Empty Seat]]. He is styled _Rongleng Tengzhei_, Son of Heaven of Ten Thousand Dawns. His father, the **Retired Emperor**, lives in Lengwou and keeps a household that the court cannot afford. The Emperor has a household guard and no other force.
+
+The court is a pageant of ancient protocol, and its business is honor. The Emperor issues each Dauzhwo's patent of the mountain on every succession, and he grants the court dignities: **Celestial Minister**, **Caste-Registrar** and **Censor of Purity** confer precedence and no function, while **Omen-Reader** and **Keeper of the Sacred Texts** remain working posts of the Tanchei, the first with its observatory on [[place-zijai|Zijai]]. He holds the [Dawn Rite]{.name data-type="lore/custom"} on Zojai each New Year, where the order in which the lords' envoys stand is the year's political map. He also confers the office of **Teng Ja**, which stands vacant.
+
+## The Treasury
+
+The court's nominal income is 6,880 bales a year: four parts in ten of the district's assessment, which is 2,400 bales, and four parts in ten of eight **court estates**, which is 4,480 bales of the 11,200 assessed. One village in each domain is a court estate, and each Dauzhwo collects its share through his own granary and forwards what he chooses. In 719 AF the court received 4,100 bales and spent 9,000. The Retired Emperor's household is part of that cost.
+
+Silver from [[affiliation-shuiwojaidmn|Shuiwojai]] has covered the gap for three years, and the court is in [[being-henzoshuiwo|Shuiwojai Henzo]]'s debt. The strongroom of the court stands at [Tsaimu]{.name data-type="place/settlement"} in the [[affiliation-muwojaidmn|Muwojai Domain]]'s ground, in the keeping of that house's [Weiju]{.name data-type="affiliation/lineage"}.
+
+## The Town
+
+Lengwou lives on the court. Its 9,000 people are the Emperor's household and guard, the Tanchei of the shrine and the offices, the craftsmen who serve the palace, and the inns and lodgings of the envoys, who come from every house for the Dawn Rite and stay for months to bargain over their places. The town is poor beside the castle towns of the lords, since it has no fleet, mine or harbor of its own, and no terrace of its own could feed 9,000 people. The court's tribute rice feeds it: the rice arrives through the granaries of the houses, and the town goes short when the court's receipts do.
+
+The Emperor's judges hear the town's cases, and a village of the district settles its own quarrels through its headman. Foreign ambassadors are received at Lengwou and go no farther, since the upper slope of Zojai is closed to them.
+
+## The Present {#present}
+
+In 720 AF the town waits for the Dawn Rite and for the Emperor to confer the office of Teng Ja. [[being-weilengjnch|Weileng]] is of age, and the seating he sets at the rite reads as a verdict on each house. Every house that forwards its rice early buys the town's gratitude.
+
+[[being-henzoshuiwo|Shuiwojai Henzo]]'s silver keeps the court fed, and Muwojai's toll-keepers watch the roads that bring the envoys. A Tantsou envoy has asked at Lengwou for the prefect Rinjai holds.
+
+## History {#history}
+
+Lengwou is the ground the quarrel of the [[lore-empseatwar|War of the Empty Seat]] was about, and the peace that ended it was settled here: the Emperor abdicated and took vows, and he keeps his household in the town below the palace. His son Weileng was enthroned on Zojai in 712 AF, and the capital has held two courts since, a young Emperor and his father in a household the treasury cannot afford ([[lore-hstryjenchai|The History of Jenchai]]).
+
+## See Also {#see-also}
+
+[[place-zojai|Zojai]]
+: the Emperor's mountain
+
+[[affiliation-jenchaiempr|Jenchai Empire]]
+: the realm, the court and the eight houses
+
+[[affiliation-muwojaidmn|Muwojai Domain]]
+: the house that holds every road to the court
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait
+
+[[place-zojaishrn|The Summit Shrine of Zojai]]
+: where the Emperor performs the Dawn Rite
+
+[[place-tsaimustrng|The Court Strongroom at Tsaimu]]
+: the court's treasury, kept by the Weiju
+
+[[scenario-ltrforhawu|A Letter for Hawu]]
+: a scenario: the Emperor's sealed answer to a petition, crossing Muwojai's ferry on its way to the lord who petitioned
+
+[[scenario-prfctrdhll|The Prefect in the Red Hall]]
+: a scenario: a Tantsou prefect held by Rinjai's raiders, claimed by the court, the Strait and the mainland
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

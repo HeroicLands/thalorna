@@ -13,7 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A class of ten frontier selatu, each under a hereditary Halzi'a functioning as a military governor; the empire's marches against the western herders, the desert, and the southern tribes.
+      A class of ten frontier selatu, each under a hereditary Halzi'a functioning as a military governor, with a Commander of the Marches named by the Gar-Au from among them to join their garrisons when a raid or a war runs past one march; the empire's marches against the western herders, the desert, and the southern tribes.
     ranks:
       - level: 0
         title: Outcast
@@ -32,22 +32,22 @@ data:
         description: >-
           A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
+      Commander of the Marches: >-
+        Named by the Gar-Au from among the frontier Halzi'a and keeping his court at Balku, he calls the ten marches' garrisons and levies together when a raid or a war runs past one selat, and answers to the throne for the frontier. Held by a Zabu.
       Halzi'a: >-
-        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+        Hereditary governor of one of the ten marches in the capacity of military governor, holding its forts, its levies and its caravan tolls. Held by a Zabu.
+      Fort-Commander: >-
+        Holder of a fortress, a well-fort or a stretch of the fortress-line for a Halzi'a, with its garrison and its watch on the roads. Held by a Zabu.
+      Overseer of the Mines: >-
+        Keeper of the account of the hills' gold, copper and turquoise, who weighs what the mines and smelters render and sees the crown's share to the treasury. Held by a Zelar.
+      Caravan-Warden: >-
+        Collector of the caravan tolls at a march's wells and passes, and provider of the escort a toll buys. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a march's bureau, keeping the garrison rolls, the pay and the stores. Held by a Zelar.
       Legha'lutu: >-
         Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
-      Zabet: >-
-        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
-      Zemelu: >-
-        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
-      Overseer of Scribes: >-
-        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
-      Halzi'a's Steward: >-
-        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
-      Canal-Warden: >-
-        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: balqu
   population: 2500000
   territorial_population: 2500000
@@ -91,7 +91,7 @@ The largest economic fact across all of them is the garrison. Feeding, arming an
 
 ## The Selatu
 
-Ten selatu make up the border class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] in the capacity of military governor. Each has its own note; the table is the roster.
+Ten selatu make up the border class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] in the capacity of military governor. When a raid or a war runs past one march, the Commander of the Marches, a Halzi'a the Gar-Au names from among the ten and who keeps his court at [[place-balqu|Balku]], calls their garrisons together. Each selat has its own note; the table is the roster.
 
 | Selat                                                     | Seat                            | Patron                                                    | Population | Character                                                                                       |
 | --------------------------------------------------------- | ------------------------------- | --------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- |
@@ -107,6 +107,14 @@ Ten selatu make up the border class, each under its hereditary [[affiliation-emp
 | [[affiliation-selatbelgnzl\|The Selat of Belgen-Zalu]]    | [[place-belgen\|Belgen]]        | [[affiliation-qeztu\|Faith of Qeztu]]                     | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier                    |
 
 Border total: about 2,500,000.
+
+## Current Situation {#present}
+
+The ten marches eat what the valley sends, so a low flood reaches the frontier as short rations before it reaches it as drought. Every fort's stores are drawn down, and each Halzi'a counts how many seasons his garrison can hold. The Commander of the Marches, who keeps court at [[place-balqu|Balku]] and answers to the throne for the frontier, is asked by the capital for levies and tribute in the same letter; the marches answer that the levies are needed where they stand. A military governor who keeps the crown's share of the mine-metal and the render at home is not in revolt, and he is also not paying: he is a soldier with a short granary.
+
+The marches hold the armies, and that is why they matter in the succession quarrel. Each Halzi'a is sounded by the court's factions, in more or less delicate terms, about whom he would march for if the throne were disputed, and none answers. The western marches face the tracks along which Okharik riders and envoys come. The officers trained at Gar-Qeztu see those riders as the force the chariot corps cannot raise from its own pastures, and they say so to whichever faction pays for their promotion.
+
+The Fort-Commanders keep the wells, the Caravan-Wardens the tolls, and the Overseers of the Mines the weighing of gold, copper and turquoise. A fort's tolls and a mine's crown share are the two sums the capital counts on and cannot check from the capital.
 
 ## For the Worldbuilder
 

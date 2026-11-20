@@ -72,7 +72,7 @@ data:
   economy: []
   lore: [southkiichchikclt]
   parents: []
-  relations: {itzanpnthn: aligned}
+  relations: {itzanpnthn: aligned, nclvlkvst: unaligned}
   packFolder: kuxiixbal
 sohl: {system: {commonSkills: []}}
 
@@ -85,6 +85,8 @@ sohl: {system: {commonSkills: []}}
 K'ushi Ish'bal holds the land of the [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], the cold, thin-aired plateau between the rich valleys of [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]] and the poisoned threshold of [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]. It is a realm of herds, garrisons and one sacred lake, and its priesthood rules it more closely than any lay lord does. Little of its wealth leaves it. The temples take the largest share of the herds and harvests and keep it in their treasuries or spend it in the rites, and the rest goes into the storehouses that outfit the expeditions bound south.
 
 The [[affiliation-chumishlan|Ch'um Ish'lan]] thins here. Its way-stations stand farther apart, runners are harder to find for the cold southern stages, and a message from [[affiliation-ixilankul|Ish'ilankul]] that reaches [[affiliation-kankul|K'ankul]] in two days takes five or six to reach the plateau's outpost towns. Beyond K'ushi Ish'bal the Speaking Road falls silent: the last _k'otsel_ cord to arrive is decoded at [[place-qptlulneok|Q'aptel'ul Ne'ok]], and what lies farther south depends on the courage of messengers who carry no priestly mandate.
+
+The plateau's people leave the deep swamp east of the rim to the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], the Senali conclave there, and the Ts'enmah send nobody to it.
 
 ## Cities and Towns
 

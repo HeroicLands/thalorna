@@ -9,6 +9,7 @@ data:
   lore: [varokhiclt, grukarfolk]
   parents: [vrystwald]
   population: null
+  borders: [{to: grkrhlmrgn, bearing: E}]
   routes:
     - {to: thornwald, bearing: W, mode: land, days: 45, terrain: [forest]}
     - {to: vandstein, bearing: SE, mode: land, days: 45, terrain: [forest, mountains]}
@@ -30,6 +31,9 @@ The concentration gives this reach its character, but it grants no common comman
 
 [[place-grkrhlmrgn|Grukarholm]]
 : the area where Grukar are most prevalent
+
+[[place-skathengrund|Skathengrund]] and [[place-grimhreth|Grimhreth]]
+: the marsh beyond the reach and the cause-walk into it
 
 [[place-thornwald|Thornwald]] and [[place-vandstein|Vandstein]]
 : the neighboring reaches

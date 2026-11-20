@@ -46,7 +46,7 @@ Season decides the journey. The eastern passes are snowbound from late autumn to
 
 ## The Marches
 
-The League governs only three districts directly, and they are the ones nobody else wants: the border country. Each march lies outside every city's charter, under a lord the League council commissions and can dismiss, garrisoned by conscripts all five cities raise, and paid from the common treasury and the silver of Argirteikhos. The marches exist because the cities distrust one another: a frontier held by any one city would make it master of the rest.
+The League governs only three districts directly, and they are the ones nobody else wants: the border country. Each march lies outside every city-state's charter, under a lord the League council commissions and can dismiss, garrisoned by conscripts all five city-states raise, and paid from the common treasury and the silver of Argirteikhos. The marches exist because the city-states distrust one another: a frontier held by any one city-state would make it master of the rest.
 
 The [[place-eastrnmrch|Eastern March]] runs downhill from Argirteikhos's eastern gate into the steppe margin of the [[place-khzryndsrtrgn|Khazrin]]. Way-forts stand a day's march apart on the paved pass road, and every spring in the foothills has a fort, a shrine or a caravanserai built on it. Lord Commander [[being-mazitosrekha|Mazitos]] has held the March for two decades and is the League's senior soldier. Steppe raiders are the constant trouble, and a great khanate rising in the desert is the reason the walls are so thick. In the high passes above Órashion live the [Vezhnur]{.name data-type="affiliation/lineage"} holds, warrior clans outside any charter whom the League tolerates as its eastern shield.
 
@@ -56,9 +56,9 @@ The [[place-northrnmrch|Northern March]] is the quietest. It guards the grain ro
 
 ## Who Holds Power
 
-Each city keeps its own council, its own coin standard, its own courts and its own guard, and its councillors sit by the weight of the houses behind them. The council elects a First of the Council for a fixed term, and he holds the city's seal while he presides. Within that pattern each city weighs power its own way. [[affiliation-khryshteikhos|Krusteikhos]] is ruled by merchant-princes whose families have held their seats for generations. [[affiliation-nesthiros|Nesthiros]] shares government with its admiralty. [[affiliation-karvashion|Karvashion's]] caravansary masters sit beside its merchant-princes, and [[affiliation-orashion|Órashion's]] guild masters sit with equal authority. [[affiliation-argyrteikhos|Argirteikhos]] is governed by a military governor alongside its council.
+Each city-state keeps its own council, its own coin standard, its own courts and its own guard, and its councillors sit by the weight of the houses behind them. The council elects a First of the Council for a fixed term, and he holds the city-state's seal while he presides. Within that pattern each city-state weighs power its own way. [[affiliation-khryshteikhos|Krusteikhos]] is ruled by merchant-princes whose families have held their seats for generations. [[affiliation-nesthiros|Nesthiros]] shares government with its admiralty. [[affiliation-karvashion|Karvashion's]] caravansary masters sit beside its merchant-princes, and [[affiliation-orashion|Órashion's]] guild masters sit with equal authority. [[affiliation-argyrteikhos|Argirteikhos]] is governed by a military governor alongside its council.
 
-The League council meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and its business is narrow: tariffs, the joint fleet and army, the three marches, and quarrels between cities. Krusteikhos dominates it by money, Nesthiros by ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison. Krusteikhos has the gold, a Nesthirian says, but Nesthiros has the ships.
+The League council meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and its business is narrow: the pay of the forts, the common tolls, the joint fleet and army, the three marches, and quarrels between city-states. The passes, the tariffs and the muster stay with imperial officers. Krusteikhos dominates it by money, Nesthiros by ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison. Krusteikhos has the gold, a Nesthirian says, but Nesthiros has the ships.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -73,7 +73,7 @@ WHERE type = 'affiliation'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-A hired hand meets a city through its Harbormaster, who keeps the port and the dues on every hull, and its Warden of the Weights, who inspects measures, coin and quality in the markets. The Warden's inspections make the city's word good, and to be named to the office is the highest civic honor in any League city.
+A hired hand meets a city through its Harbormaster, who keeps the port and the dues on every hull, and its Warden of the Weights, who inspects measures, coin and quality in the markets. The Warden's inspections make the city's word good, and to be named to the office is the highest civic honor in any League city-state.
 
 Standing runs from the register outward. A freeman is enrolled in it and may trade in the city's markets and plead in its courts; a resident lives under the city's protection without either. Above the freeman stand the guild master, the house factor who runs a great house's trade abroad, the house head and the councillor. Below everyone is the man struck from the roll, whose contracts are void and whom no court will hear.
 
@@ -99,11 +99,11 @@ A Bizarian owes the terms first, then the guild behind his seal, then his master
 
 The [[affiliation-arldnpnthn|Aureldian Pantheon]] comprises the civic faiths, kept in an eastern rite that is mystical, contemplative and elaborate, and served by monks. Their monasteries are the country's chroniclers, healers and manuscript houses. At Argirteikhos the monks also keep the record of what crosses the pass, and they are the go-betweens with the peoples beyond it. Nikhtion is the rite's greatest sanctuary; its council of senior priests and hereditary tomb-keepers holds a soft power in League politics, because no merchant prince wishes to offend the people who guard his ancestors' rest.
 
-The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a substantial following among the eastern merchant communities and along the caravan roads, and small temples of it stand openly in every League city. In the Eastern March the two traditions are kept in roughly equal numbers. Bizarian tolerance began as arithmetic—a faith forbidden costs more in lost trade than orthodoxy could recover—and has been held long enough to become a habit Bizarians are proud of. The [[affiliation-ordoarcanis|Thordimalon]] keeps a chapter-hall in each League city.
+The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a substantial following among the eastern merchant communities and along the caravan roads, and small temples of it stand openly in every League city and in the larger League towns. In the Eastern March the two traditions are kept in roughly equal numbers. Bizarian tolerance began as arithmetic—a faith forbidden costs more in lost trade than orthodoxy could recover—and has been held long enough to become a habit Bizarians are proud of. The [[affiliation-ordoarcanis|Thordimalon]] keeps a chapter-hall in each League city-state.
 
 ## Coin
 
-Each city strikes its own coin, and the League keeps its accounts in [[lore-vylrncrncy|Vilérian money]]: the silver Ardin, the cut-silver Bit, and the gold Solden most people never hold. Large sums travel as the paper-script of [[affiliation-danvar|the Danvar]], and the League uses that imperial banking system without answering to imperial governance or paying imperial tax.
+Each city-state strikes its own coin, and the League keeps its accounts in [[lore-vylrncrncy|Vilérian money]]: the silver Ardin, the cut-silver Bit, and the gold Solden most people never hold. Large sums travel as the paper-script of [[affiliation-danvar|the Danvar]], and the League, a province of the empire in law, takes full part in that banking system.
 
 ## Songs, Sayings and Lives
 
@@ -111,7 +111,7 @@ A hired hand hears these quoted at the balance, the table and the fort fire long
 
 - [[lore-wardensayings|The Sayings of the First Warden]] is the instruction every counting-house apprentice copies out in his first month, and its clauses on weights, terms, the defect and the guest are the rules your counterpart quotes across the table.
 - [[lore-fivedefects|The Five Defects]] is the Merchant Hall's telling of the Compact of the Five, given to Krusteikhos's apprentices each year, and its Declaration teaches why a defect is declared before the seal goes down.
-- [[lore-firstterms|The Hymn of the First Terms]] is sung through the night before the Feast of Thresholds, when every bond in the five cities is renewed, and its refrain is a guarantor's words over another man's bond.
+- [[lore-firstterms|The Hymn of the First Terms]] is sung through the night before the Feast of Thresholds, when every bond in the five city-states is renewed, and its refrain is a guarantor's words over another man's bond.
 - [[lore-silkkeeping|The Keeping of the Silk House]] is a widow's lament over her house's chamber at Nikhtion, and the women of the merchant houses sing it because it answers the dread of a keeping nobody pays.
 - [[lore-twosealed|The Song of the Two-Sealed]] is the song the way-forts of the Eastern March sing on a night the pass is shut, of the borderer sealed by fort and camp who wrestled the Collector.
 - [[lore-lifekitvarn|The Life of Kitvarion of the Gate]] is the Argirteikhos monks' Life of the gate-stander who wrote the true count of the grain through the Two Winters.
@@ -124,7 +124,7 @@ A hired hand hears these quoted at the balance, the table and the fort fire long
 
 **Arriving without a guild or a master.** Name whoever you answer to—a house, a company or a captain—before anyone has to ask.
 
-**Avoiding the tariff.** The League's collectors on the passes and at the march caravanserais are League officers. A smuggled load is cheaper only until a seal on it is checked.
+**Avoiding the tariff.** The collectors on the passes and at the march caravanserais take the League's toll and the imperial tariff, at the rate imperial officers set; the League staffs the posts and pays the collectors. A smuggled load is cheaper only until a seal on it is checked.
 
 ## People to Meet
 
@@ -157,7 +157,7 @@ Campaigns here start well from a contract. A house hires the party to escort a c
 :::
 
 :::secret
-**For the GM:** Karvashion's caravansary masters pay the Southern March for its road in tolls and in gifts to Lord Vaskan, and both sides would rather the League council did not look closely at how the road's revenue is divided. A party hired to audit the road, or to carry its gifts, stands between the richest caravan town and the lord who holds its only southern road.
+**For the GM:** Karvashion's caravansary masters pay the Southern March for its road in tolls and in gifts to Lord Vaskan; Vaskan depends on Karvashion for grain, coin and a market for the March's wool, and both sides would rather the League council did not look closely at how the road's revenue is divided. A party hired to audit the road, or to carry its gifts, stands between the richest caravan town and the lord who holds its only southern road.
 :::
 
 ## Where to Read Next

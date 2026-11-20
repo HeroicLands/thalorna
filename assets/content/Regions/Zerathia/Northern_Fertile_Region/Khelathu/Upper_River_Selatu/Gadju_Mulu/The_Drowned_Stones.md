@@ -37,6 +37,10 @@ The hunters of the Zeghet'Nelgu are the ones who know the place, and their Steer
 - **A scholar** who wants proof that the valley had a history before the count, and who will pay a boatman more than the boat is worth.
 - **A priest** who wants the carvings broken before anyone copies them.
 
+## Layers {#history}
+
+The stones come from before the count, in a script older than Khelathi reading, and the temple will not date them ([[lore-khelathclndr|the Khelathi Calendar]]).
+
 ## Hooks {#hooks}
 
 - **The herd.** The hippopotamus herds have moved into the farm country, and the fishermen say something in the stones woke. The hunters want to know whether the herds went because of the wall or in spite of it.

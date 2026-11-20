@@ -6,6 +6,7 @@ subType: history
 description: The private Kaliharan account places the teachers’ arrival before 10,000 BF and remembers their reception of the human bands on the island.
 tags: [history, spine, gm]
 data:
+  pack: gm-journals
   packFolder: settinglore
   events:
     - when: ~-10000

@@ -18,7 +18,7 @@ A Thirenean education is the most prestigious a scholar can claim, and the Libra
 
 The collection is manuscripts, and what is said of it is its size: more of them than any collection outside the southern empire.
 
-In Thirenae's agorin, before the library, stands Thirenae's keel-stone, the stone every Helionite city shows as proof of its founding ship. A stranger is taken to it and told what [[lore-keelburning|the Burning of the Keel]] tells: this is our first citizen, he burned his ship, and he brought you here.
+In Thirenae's agorin, before the library, stands Thirenae's keel-stone, the stone every Helionite city-state shows as proof of its founding ship. A stranger is taken to it and told what [[lore-keelburning|the Burning of the Keel]] tells: this is our first citizen, he burned his ship, and he brought you here.
 
 ## Who Is There
 

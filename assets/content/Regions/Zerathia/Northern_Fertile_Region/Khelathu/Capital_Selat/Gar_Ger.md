@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [galezkaraslt]
-  population: 0
+  population: 710
+  type: village
+  market: local
+  government: capitalselat
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A hinterland village of the Capital Selat"

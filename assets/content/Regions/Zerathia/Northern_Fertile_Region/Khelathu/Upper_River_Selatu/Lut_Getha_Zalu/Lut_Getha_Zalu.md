@@ -35,10 +35,23 @@ The selat feeds its granaries from the flood like the rest of the valley. Its pa
 - The chief temple of the Faith of Saq'aru and its estates
 - The smith-towns and craft-temples, where bronze and gold become the nobility's ceremonial arms
 
+## Current Situation {#present}
+
+The smith-towns of Lut-Getha-Zalu work bronze and gold, and the villages around them supply the charcoal and the reed-fuel. A short flood has raised the price of fuel, and the smiths work the ceremonial arms of the nobility at a slower rate. The estate-towns send their grain to feed the smiths, and the craft-temples keep a ledger of every order. The villages are poorer, but the smith-towns' trade is the best in the upper river.
+
 ## Settlements {#settlements}
 
-Lut-Getha (~36,000)
+Lut-Getha (~7,200)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-gargetha|Gar-Getha]] (~6,700)
+: a smithing town in Lut-Getha-Zalu Selat, close to Lut-Getha
+
+[[place-zelgetha|Zel-Getha]] (~5,500)
+: a gold-and-bronze craft town of Lut-Getha-Zalu Selat, on the river road
+
+[[place-yathgetha|Yath-Getha]] (~4,500)
+: a charcoal-and-ore depot of Lut-Getha-Zalu Selat, on the mound where the hill-roads meet the river
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

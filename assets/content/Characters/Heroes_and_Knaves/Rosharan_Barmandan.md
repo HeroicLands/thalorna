@@ -485,9 +485,9 @@ Rosharan stands 5'11" tall with a medium build. She has light olive skin, dark b
 
 **Childhood on the Waves:** Rosharan was born in the port of [[place-valmakhend|Valmakhend]], the only child of a merchant sailor and a dock administrator. Her childhood was consumed by the sea—she learned to read waves before letters, understood hull construction before grammar, and spent more time on vessels than in homes. Her parents recognized early that she possessed a gift for understanding the architecture of ships and what they could be. By age twelve, she was apprenticed to Master Shipwright [Kheldun Hammerhand]{.name data-type="being/npc"}, the famed designer of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]'s finest vessels.
 
-**Mastering the Art:** Kheldun was a strict but generous mentor who insisted that anything new came only after complete mastery of tradition. For fifteen years, Rosharan studied traditional design, worked with ancient timber types, and learned to predict how wood would move, swell, and age. However, by her late twenties, she began questioning established practices—suggesting changes in hull design that improved speed, modifications to rigging that gave better wind-catching capability, and radical ideas about incorporating materials from distant lands. Her suggestions initially met resistance from Kheldun himself, but gradually, he became her greatest advocate, eventually declaring her his successor and recommending her for membership in the [Coastal Shipwrights' Guild]{.name data-type="affiliation/guild"}.
+**Mastering the Art:** Kheldun was a strict but generous mentor who insisted that anything new came only after complete mastery of tradition. For fifteen years, Rosharan studied traditional design, worked with ancient timber types, and learned to predict how wood would move, swell, and age. However, by her late twenties, she began questioning established practices—suggesting changes in hull design that improved speed, modifications to rigging that gave better wind-catching capability, and radical ideas about incorporating materials from distant lands. Her suggestions initially met resistance from Kheldun himself, but gradually, he became her greatest advocate, eventually declaring her his successor and presenting her to the master shipwrights of the coast as one of their number.
 
-**Current Innovations:** Now at thirty-five, Rosharan operates a prestigious shipyard near the [[place-valmakhend|harbor of Valmakhend]], known throughout the Kingdom for vessels that balance traditional beauty with novel construction. Her designs have attracted adventurers, explorers, and merchants willing to pay dearly for ships that outperform their competitors. She has begun mentoring younger craftspeople, though she remains personally involved in every major project, unable to fully delegate her vision. Recent commissions include an experimental deep-water explorer for the [Royal Survey Corps]{.name data-type="affiliation"} and a merchant vessel of new design built to withstand the monsoon.
+**Current Innovations:** Now Rosharan operates a prestigious shipyard near the [[place-valmakhend|harbor of Valmakhend]], known throughout the Kingdom for vessels that balance traditional beauty with novel construction. Her designs have attracted adventurers, explorers, and merchants willing to pay dearly for ships that outperform their competitors. She has begun mentoring younger craftspeople, though she remains personally involved in every major project, unable to fully delegate her vision. Recent commissions include an experimental deep-water explorer for [[being-yeserapariva|Yesera Parivan]], who charts the Kingdom's coast for the Shebarader, and a merchant vessel of new design built to withstand the monsoon.
 
 ## Psyche
 
@@ -546,10 +546,10 @@ Overconfidence in Design
 ### Patrons
 
 Master Kheldun Hammerhand
-: Her former mentor and the preeminent authority on shipcraft in the Kingdom, Kheldun remains Rosharan's primary confidant and advisor. Though officially retired, he reviews her most ambitious designs and gives sage counsel on Guild politics.
+: Her former mentor and the preeminent authority on shipcraft in the Kingdom, Kheldun remains Rosharan's primary confidant and advisor. Though officially retired, he reviews her most ambitious designs and gives sage counsel on the politics of the yards.
 
-Lady [[being-yeserapariva|Yesera Parivan]], Royal Survey Corps
-: The commander of the Kingdom's maritime exploration division has become a consistent client and enthusiastic advocate, funding Rosharan's most experimental work in exchange for first access to new designs.
+[[being-yeserapariva|Lady Yesera Parivan]], of the Shebarader's court
+: The officer who charts the Kingdom's coast for the Shebarader has become a consistent client and enthusiastic advocate, funding Rosharan's most experimental work in exchange for first access to new designs.
 
 [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Valmakhend
 : The primary shipping authority in the port has contracted with Rosharan for multiple vessels and provides steady income, though conservative members sometimes clash with her approach.
@@ -560,32 +560,35 @@ Master Shipwright [Pashvur Turvand]{.name data-type="being/npc"}
 : A rival craftsman from a competing shipyard who views Rosharan's popularity as an affront to "proper" tradition. He has launched a quiet campaign to convince traditional merchants that her designs are unreliable, spreading rumors about ships that foundered using her designs (most false or exaggerated).
 
 [The Iron Guilds Coalition]{.name data-type="affiliation"}
-: A conservative alliance of traditional craftspeople across multiple disciplines who see her methods as threats to the apprenticeship and established practice. They lobby the Guild to revoke her membership or restrict her practices.
+: A conservative alliance of traditional craftspeople across multiple disciplines who see her methods as threats to the apprenticeship and established practice. They press the master shipwrights to disown her membership or restrict her practices.
 
 [The Reaver Fleet]{.name data-type="affiliation/criminal"}
 : A privateer organization that seized one of her ships during its maiden voyage and has used it successfully for raiding. Rosharan takes this as a personal insult and has sworn to recover or destroy the vessel.
 
 ### Affiliations
 
-Coastal Shipwrights' Guild
-: A formal member of the Kingdom's primary maritime craft organization, though her relationship with the Guild is complicated by her unconventional methods.
+The master shipwrights of the coast
+: She is one of the yard masters of the Kingdom's coast, though her unconventional methods strain her standing among them.
 
 [The Innovators' Collective]{.name data-type="affiliation"}
 : An informal network of craftspeople, engineers, and architects who believe in pushing the boundaries of their crafts; Rosharan is a founding member and occasional convenor.
 
 ## Plot Hooks
 
-The Lost Vessel of Legend
-: An old sailor approaches Rosharan in a harbor tavern, claiming to possess maps to the wreck of _[Zharifa's Dream]{.name data-type="vehicle"}_, a fabled ship said to have been built by the greatest craftspeople of the pre-Kingdom era. The sailor offers to guide her to the wreck in exchange for a share of any salvage, but the wreck lies in dangerous waters controlled by pirates and protected by a cursed reef. More intriguingly, some of the ship's structural features are unlike anything in the current maritime tradition—if Rosharan can study the wreck, she might discover lost techniques from a golden age of shipbuilding, but the expedition requires adventurers to handle the dangers she cannot.
+The Short Keel Timbers
+: Lady [[being-yeserapariva|Yesera Parivan]] asks for a deep-water hull that can ride a strait gale, and the keel timbers arrive short by a fifth. Rosharan asks a party to learn whether the timber factor or her own yard foreman sells the rest elsewhere.
+
+The Reaver's Improvement
+: A go-between of the Reaver Fleet leaves at the yard gate a drawing of one of her hulls with changes that would make it faster, and a price for building them. Rosharan cannot tell whether the changes are sound, and she asks a party to learn who drew them and whether the Fleet knew her lines from her own loft.
 
 The Experimental Warship
-: The Royal Survey Corps commissions Rosharan to design a deep-water warship of new design incorporating her latest ideas—but midway through construction, agents from a rival nation begin sabotaging the project. Rosharan suspects an inside agent but cannot identify them. She hires adventurers ostensibly as security but actually to investigate the saboteurs. The saboteur is someone she trusts, and the adventurers must convince her to accept a painful betrayal.
+: Yesera Parivan commissions Rosharan to design a deep-water warship of new design incorporating her latest ideas—but midway through construction, agents from a rival nation begin sabotaging the project. Rosharan suspects an inside agent but cannot identify them. She hires a party ostensibly as security but actually to investigate the saboteurs. The saboteur is someone she trusts, and the party must convince her to accept a painful betrayal.
 
-The Reaver's Ship Reborn
-: Rosharan's stolen vessel surfaces in harbor under Reaver control. Rather than attempt a direct assault, she contracts adventurers to infiltrate the pirate crew, learn their current modifications to her design (which she finds both inspiring and horrifying), and ultimately help her reclaim the ship. The vessel has actually become faster and more dangerous under the Raiders' modifications, and Rosharan must grapple with the fact that her creation has found purposes—and glory—in criminal hands.
+The Coaster for No One
+: A yard on the Amradi shore is building a coaster to a Taruzelian line sold to no one there, and the lines look like hers. Rosharan asks a party to learn who ordered it and who sold them the lines.
 
-The Sunken City Expedition
-: Scholars contact Rosharan to design a specialized deep-water vessel capable of exploring submerged ruins rumored to exist far offshore. The project is ambitious and costly, requiring adventurers to gather rare materials from dangerous locations—depths where sea creatures of fabled size dwell, high mountains where special hardwoods grow, and mysterious caves where enchanted shells are found. As the team gathers materials, they uncover evidence that the "sunken city" is actually an ancient enemy of the Kingdom, and reaching it first matters more than they initially understood.
+The Foundered Hull
+: Pashvur Turvand tells the quay that a ship of her design foundered on the [[place-tamzirshoals|Tamzir Shoals]]. Rosharan asks a party to find the wreck, or the lie, before the master shipwrights of the coast meet to judge her standing.
 
-The Timber of Prophecy
-: A mysterious merchant offers Rosharan a shipment of miraculous timber from a far-distant land—wood that is lighter than air-wood yet harder than ironbark, wood that glows faintly at night and seems to resist rot and decay. The merchant demands a substantial advance payment, and when Rosharan's adventurer partners investigate the timber's origin, they discover it comes from a forest that should not exist. The grove is protected by ancient spirits, and harvesting more timber requires negotiating with forces that are not entirely convinced humans deserve such bounty.
+The Survey Cutter
+: Lady Yesera Parivan wants a cutter that can sound the shoals in a gale, and the yard has built one that has not yet touched water. Rosharan needs a party to crew its first trial and to bring back what the hull does under sail.

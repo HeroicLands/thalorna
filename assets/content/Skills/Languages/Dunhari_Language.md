@@ -5975,6 +5975,7 @@ data:
         - "kaivonad"
         - "mahvarad"
         - "shurnav"
+        - "darmun"
     clan:
       - "afsheran"
       - "ferudan"
@@ -6004,6 +6005,10 @@ data:
       - "gazvan"
       - "baravi"
       - "tamiran"
+      - "sivadar"
+      - "khonash"
+      - "parvandar"
+      - "mazhen"
   sounds:
     edges:
       - {edge: closeConsonant, sounds: [n, r, d, z, sh, kh, k, m, h, v, s]}
@@ -6239,6 +6244,34 @@ data:
     - {name: Holder of the Oasis, tongue: translation}
     - {name: Truce-Warden of the Weighing, tongue: translation}
     - {name: tevrazavad, tongue: dunhari}
+    - {name: Keeper of the Basin, tongue: translation}
+    - {name: samardan sivadar, tongue: dunhari}
+    - {name: The Shebarader, tongue: translation}
+    - {name: sharanaz khonash, tongue: dunhari}
+    - {name: The Speaker, tongue: translation}
+    - {name: darmun parvandar, tongue: dunhari}
+    - {name: The Tagemader of Shebarakhend, tongue: translation}
+    - {name: ghezrun mazhen, tongue: dunhari}
+    - {name: The Tagemader of Tahrodan, tongue: translation}
+    - {name: melkhur, tongue: dunhari}
+    - {name: mehrava, tongue: dunhari}
+    - {name: vahrun marzuvan, tongue: dunhari}
+    - {name: The Self-Styled Master of the Tower, tongue: translation}
+    - {name: dorvakhend, tongue: dunhari}
+    - {name: rezhakhend, tongue: dunhari}
+    - {name: morvadez, tongue: dunhari}
+    - {name: lemazakhend, tongue: dunhari}
+    - {name: gharzadez, tongue: dunhari}
+    - {name: delmavad, tongue: dunhari}
+    - {name: parzavad, tongue: dunhari}
+    - {name: velgavad, tongue: dunhari}
+    - {name: nozhavad, tongue: dunhari}
+    - {name: shorvakhend, tongue: dunhari}
+    - {name: golmakhend, tongue: dunhari}
+    - {name: The Three Seas, tongue: translation}
+    - {name: The Bitter Sea, tongue: translation}
+    - {name: The Far Sea, tongue: translation}
+    - {name: The Mirror Sea, tongue: translation}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

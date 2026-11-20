@@ -64,7 +64,7 @@ The house of [Zu'Magetu]{.name data-type="affiliation/lineage"} held [[place-gal
 
 ## The Field at Iqeru
 
-The last battle was fought in the irrigated wheatland of Iqeru, in the season before the harvest, with the canals full and the ground soft. Zab'el'Psaqa III stood with the Lenen-Nezut levies; Zu'Magetu stood with the delta chariots and the temple levies it had bought. By the end of the day the Gar-Au of Lenen-Nezut was dead, and with him the line of [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"} as a line of Gar-Auu.
+The last battle was fought in the irrigated wheatland of Iqeru, in the season before the harvest, with the canals full and the ground soft. Zab'el'Psaqa III stood with the Lenen-Nezut levies; Zu'Magetu stood with the delta chariots and the temple levies it had bought. By the end of the day the Gar-Au of Lenen-Nezut was dead, and with him the line of [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]] as a line of Gar-Auu.
 
 The victor was crowned [Kuz'el'Qar I]{.name data-type="being/npc"} at Galezkara in 1531 ST (580 BF). The king-list enters the death of one and the crowning of the other in the same year, and the house of Zu'Magetu began to count its years from it.
 
@@ -74,7 +74,7 @@ Iqeru is a temple town, and the war was fought between two armies that kept the 
 
 ## What It Left {#what-it-left}
 
-- The [Field at Iqeru]{.name data-type="place/site"}. An ordinary battlefield, farmed, with a basket of spearheads in the temple and a harvest-custom of setting the first sheaf at the field's edge.
+- The [[place-fieldiqeru|Field at Iqeru]]. An ordinary battlefield, farmed, with a basket of spearheads in the temple and a harvest-custom of setting the first sheaf at the field's edge.
 - **A closed line.** The Lenen-Nezut house ceased to be Gar-Auu, was kept as Halzi'a, and has held the selat since.
 - **The feud.** Lenen-Nezut's pride has a grievance in it against the capital, and the capital's against the town.
 - **A precedent.** The upper river had crowned a Gar-Au and could do it again, and the priesthood and the court remember both.

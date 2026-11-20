@@ -27,16 +27,20 @@ Where [[affiliation-selatgrnlght|the Selat of Gar-Anlaghet]] is all quay and cou
 
 Luxury agriculture is the whole of its economy. The selat grows and processes the empire's wine, olive oil, citrus, figs and dates, high-value crops that travel well and sell dear, especially abroad. The wines of Gau-Legiru and the dates of the eastern plantations are named articles of trade in Midhalión, and the oil presses supply temple and table across the empire. Much of the land is held in large villa-estates run for the market and worked by tenants and seasonal labor, and the selat imports its bread-grain from upriver as readily as the ports do. The birth-shrines and healing-temples of [[lore-uzneradty|Uzn'era]], goddess of the fertile land, stand among the orchards.
 
+## Current Situation {#present}
+
+Gau-Legiru is the only part of the delta where the orchards and presses work as in a good year, since winter rain and sea air feed them and the flood barely does. The villages that tend the groves and vines send oil, wine and fruit to the market towns on time. What they lack is bread-grain, which comes upriver and costs more, so their stores are measured in oil jars, and a household's wealth is counted in what it can trade for wheat. The villas fill with guests from the ports, and the pressmen and coopers have more work than they have hands.
+
 ## Settlements {#settlements}
 
 Gau (~45,000)
-: the selat capital, an old, prosperous market-and-temple town set back a little from the coast; the great temple of Uzn'era, the produce-markets where the orchard harvest is bought and shipped, and the administrative seat of the Halzi'a.
+: the selat capital, an old, prosperous market-and-temple city set back a little from the coast; the great temple of Uzn'era, the produce-markets where the orchard harvest is bought and shipped, and the administrative seat of the Halzi'a.
 
-[[place-chezu|Chezu]] (~12,000)
+[[place-chezu|Chezu]] (~9,900)
 : a coastal wine-town among the western vineyards; its presses and cellars produce the most prized vintages in the empire, and its little harbor ships them straight to [[place-garanlaghet|Gar-Anlaghet]] and beyond.
 
 The orchard villages
-: dozens of small farm-and-press communities of 500–2,500 dot the garden strip, among them [[place-gariuget|Gar-Iuget]], [[place-lutlegiru|Lut-Legiru]], [[place-zmachezu|Zma-Chezu]], [[place-yathkhelenet|Yath-Khelenet]] and [[place-garshelu|Gar-Shelu]], each tending its groves and vines and sending oil, wine and fruit to the market-towns.
+: dozens of small farm-and-press communities of a few hundred people each dot the garden strip, among them [[place-gariuget|Gar-Iuget]], [[place-lutlegiru|Lut-Legiru]], [[place-zmachezu|Zma-Chezu]], [[place-yathkhelenet|Yath-Khelenet]] and [[place-garshelu|Gar-Shelu]], each tending its groves and vines and sending oil, wine and fruit to the market-towns.
 
 ## See Also {#see-also}
 

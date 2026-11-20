@@ -65,11 +65,12 @@ Native word readings belong to Kì'ì'chek. Borrow the writing system's structur
 
 ## Ankaris Regions—Northern
 
-| Region                                          | Terran Analog                                             |
-| ----------------------------------------------- | --------------------------------------------------------- |
-| [[affiliation-kngdmnrdhm\|Kingdom of Nordheim]] | Scandinavia                                               |
-| [[place-grkrhlmrgn\|Grukarholm]]                | Siberia / Central Asian steppe                            |
-| [[place-vrystwald\|Vristwald Region]]           | Germanic/Central European forests (Black Forest, Bohemia) |
+| Region                                          | Terran Analog                                                                                                             |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [[affiliation-kngdmnrdhm\|Kingdom of Nordheim]] | Scandinavia                                                                                                               |
+| [[place-grkrhlmrgn\|Grukarholm]]                | Belarus: forest and marsh between Vristwald and Velanthia                                                                 |
+| [[place-velanthrgn\|Velanthia Region]]          | Moldova, Ukraine and southern Russia: the Pontic forest-steppe and grain belt, with Cossack-style frontier confederations |
+| [[place-vrystwald\|Vristwald Region]]           | Germanic/Central European forests (Black Forest, Bohemia)                                                                 |
 
 ## Ankaris Regions—Central & Eastern
 

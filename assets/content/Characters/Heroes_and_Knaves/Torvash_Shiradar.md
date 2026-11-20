@@ -12,7 +12,10 @@ data:
   lore: []
   culture: dunhariclt
   homes: [oasistvrzvd]
-  affiliations: {dunhartrbs: {rank: 6}, zurathra: {rank: 1}}
+  affiliations:
+    dunhartrbs: {rank: 6, office: Chieftain}
+    trbtvrzvd: {rank: 2, office: Chieftain}
+    zurathra: {rank: 1}
   gender: male
   species: humanflk
   born: 664.353
@@ -517,20 +520,17 @@ The Dunhara Tribes
 
 ## Plot Hooks
 
-The Succession Question
-: After more than three decades of leadership, Torvash is beginning to face the mortality he has so far evaded. The tribal council has begun, carefully and tactfully, to raise the question of succession. Torvash has resisted acknowledging this question, but the council's pressure is mounting. The obvious choices are all problematic: his eldest son is a brilliant administrator but lacks martial prowess; his youngest son, the returned outsider, represents everything Torvash has fought against. Meanwhile, ambitious war leaders are positioning themselves as potential alternatives. Torvash faces the impossible task of choosing a successor without surrendering authority or creating a succession conflict that will tear his tribe apart.
+Who Rides After Torvash
+: The tribal council has begun to ask who follows him, and the sheikhs offer the name of his eldest son, a fine administrator who has never led a raid. Torvash asks a party to ride the pasture camps and learn which sheikhs would follow a man who has not fought.
 
-The Prophecy from the Oracle
-: A wandering oracle arrives at the Dunhara encampment with a dire prophecy: within three years, Torvash will face the greatest threat to his leadership he has yet encountered. The threat will come from within the tribe. The oracle will not provide details, cannot be pressed for specifics, and departs as mysteriously as she arrived. Torvash's paranoia, already considerable, escalates dramatically. He begins viewing every confidant, every council member, every ambitious warrior as a potential threat. His attempts to root out the supposed threat create the very instability and resentment that might actually produce the dangerous situation the prophecy described.
+The Son from the Settled Lands
+: Vazhdun, his youngest son, returns after twenty years with a wife and child from the settled lands and asks for a place at the council. Torvash cannot refuse his son the oasis water, and he asks a party to learn what Vazhdun learned there and who paid for it.
 
-The Unexpected Alliance
-: A representative from a distant empire arrives with a proposal: the empire faces a threat from a confederation of hostile nomadic tribes and seeks to ally with the Dunhara to oppose them. The terms offered are generous—trade agreements, military support, and recognition of Torvash's expanded authority. Yet Torvash's instinct screams that this is a trap. The representative seems too comfortable with his suspicious nature, too readily accepting of his demands. It may be a real opportunity for the Dunhara to increase their power and security, or a subtle scheme to maneuver his tribe into a vulnerable position.
+The Poets Who Did Not Return
+: Torvash's poets took a dispute to the [[place-vzhmvd|weighing-place at Vazhmavad]] and have not come back, and he will not send others after them. He wants a party to learn what became of them at the bench without bringing a case before it.
 
-The Returning Exile
-: Vazhdun, Torvash's youngest son, has been away for twenty years. He returns not as a supplicant seeking forgiveness but as a changed man, educated, articulate, and full of ideas about how the Dunhara should change. More troubling, he has brought with him a wife from the settled kingdoms and a child born into that world. He seeks acceptance and a role in tribal governance. For Torvash, this represents everything he has fought against—the contamination of pure tribal tradition with outsider corruption. Yet Vazhdun is brilliant and capable, and his ideas—while terrifying to Torvash—hold real merit. The conflict between father and son becomes the focal point of tribal tension.
+The Quarrels Under the Palms
+: Sheikhs bring Torvash the cases that belong at the weighing-place, and the common council at [[place-ghavulavad|Ghavulavad]] takes his hearing of them as a slight to its Lawkeeper. He asks a party to carry his answer to the Lawkeeper and to bring back the Lawkeeper's.
 
-The Assassination Plot Unraveled
-: Torvash's scouts capture an assassin who was clearly moving toward the chieftain's encampment. Under questioning, the assassin reveals that he was hired by someone within the tribal leadership, though he doesn't know who. The money came through intermediaries, the contracts were signed with seals that could be anyone's. Torvash must conduct an investigation that could implicate his most trusted lieutenants, knowing that the investigation itself will create the distrust and resentment that could destabilize his leadership. He can pursue the truth, knowing it might destroy the tribe, or quietly eliminate the assassin and pretend the incident never occurred.
-
-The Frontier Crisis
-: A natural disaster—a massive flood or earthquake—has devastated the borderlands between Dunhara territory and the settled kingdoms. Thousands are homeless, food supplies are destroyed, and disease threatens to spread. The imperial authorities are overwhelmed and have, surprisingly, turned to Torvash for assistance. The Dunhara tribes could help, but doing so would require allowing outsiders into their territory, sharing resources meant for the tribe, and establishing a precedent of cooperation with the Empire. Torvash faces a choice between tribal interest and the duty to help, between maintaining isolation and stepping into a larger role on the regional stage—a role that might elevate his status or completely destroy tribal independence.
+The New Commander at Khuqet-Miglet
+: The Imperial garrison at Khuqet-Miglet has a new commander who refuses the understandings his predecessors kept, and a herd of Torvash's tribe stands in the fort's pens. Torvash needs a party to carry silver, and an offer, that the commander cannot call a bribe.

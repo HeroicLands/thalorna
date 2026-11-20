@@ -5890,8 +5890,8 @@ data:
     - {forms: {skill-tantsoulng: hwo, skill-jurthatlng: ho}, gloss: hand}
     - {forms: {skill-tantsoulng: wen, skill-jurthatlng: wen}, gloss: "center, middle"}
     - {forms: {skill-tantsoulng: wou, skill-jurthatlng: wu}, gloss: "court, palace, hall"}
-    - forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}
-      gloss: "divine, sacred; a warrior, soldier"
+    - {forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}, gloss: "divine, sacred"}
+    - {forms: {skill-tantsoulng: wo, skill-jurthatlng: wuo}, gloss: "a warrior, soldier"}
     - {forms: {skill-tantsoulng: lei, skill-jurthatlng: rei}, gloss: "breath, spirit"}
     - {forms: {skill-tantsoulng: sei, skill-jurthatlng: sei}, gloss: "bureau, office, ministry"}
     - {forms: {skill-tantsoulng: lou, skill-jurthatlng: ru}, gloss: "law, rule"}
@@ -6359,7 +6359,7 @@ Tantsou is a language isolate with no widely-accepted external relatives. Older 
 
 **Imperial Dialect:** The prestige standard, spoken in the capital and taught in formal education. Keeps the full classical melody and every classical grammatical form.
 
-**Northern Tantsou:** The speech of the northern marches along the [[place-grkrhlmrgn|Grukarholm]] frontier, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
+**Northern Tantsou:** The speech of the northern marches along the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
 
 **Southern Tantsou:** Spoken in the agricultural and mercantile south. The melody is flatter, speech rhythms run faster, and trade languages lend more words.
 

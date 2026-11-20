@@ -23,6 +23,10 @@ data:
 
 Travel south through the selat and watch the empire thin. The country is villages, estates and temple lands on the cultivable ground, worked by farmers who owe a share of the harvest and labor on the canals and lettered by the scribes who keep the rolls, and with every league the villages are fewer and the forts closer together, until the last of them stands where the cultivable ground gives out. The tribes beyond answer to the [[lore-garauu|Gar-Au]] anywhere from nominally to not at all, so the forts keep their watch the year round and the granaries are filled with them in mind.
 
+## Current Situation {#present}
+
+South of Belgen-Zalu there is only tribal country, so the selat's villages and estate-towns look north for grain and south for trouble. Two short floods thin the grain-trains that reach them, and the temple estates of Qeztu around the seat of Belgen feed the garrison's families first. Farmers on the cultivable strip plant what the canals still carry and sell nothing outside the selat. The patrols that go south are short, and the villages near the last fort bar their gates earlier in the evening.
+
 ## Settlements {#settlements}
 
 [[place-belgen|Belgen]] (~11,000)

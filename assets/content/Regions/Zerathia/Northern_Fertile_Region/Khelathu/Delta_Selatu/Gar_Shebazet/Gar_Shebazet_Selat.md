@@ -25,10 +25,23 @@ The selat is papyrus marsh. Its people fowl the open water, build reed boats and
 
 The chief temple of [[affiliation-shebazet|Shebazet]] and its estates hold much of the marsh. No priest has put the bond between the goddess and the reed-beds into words for an outsider; the delta treats it as too obvious to explain.
 
+## Current Situation {#present}
+
+The reed-cutters of Gar-Shebazet pole farther into the marshes for each bundle, since the papyrus beds stand in shallow water and the channels between them have silted. The fowlers' catch is up, because the birds crowd into the pools that remain. The estate-towns round the seat cut and press the sheets that the bureaus buy, and the scribes who buy them ask for the thick, whole reeds the marsh no longer grows. The villages eat fowl and fish and go short of bread.
+
 ## Settlements {#settlements}
 
-[[place-garshebazet|Gar-Shebazet]] (~49,000)
+[[place-garshebazet|Gar-Shebazet]] (~8,900)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-yathshebazet|Yath-Shebazet]] (~9,400)
+: a reed-and-fowling town in the papyrus marshes of Gar-Shebazet Selat, reached by punt from Gar-Shebazet
+
+[[place-luthawu|Lut-Thawu]] (~7,800)
+: a papyrus-cutting town in Gar-Shebazet Selat, a day downstream of Gar-Shebazet
+
+[[place-zeltelgu|Zel-Telgu]] (~6,400)
+: a market town on the marsh-edge of Gar-Shebazet Selat, where the marsh villages sell fish and reeds and the river farms sell grain and beer
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

@@ -13,46 +13,48 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe sends a delegate to the Great Lubemo and binds itself to nothing there without the elders first agreeing it.
+      A chieftain by descent and consent together, with the lineage elders, over a tribe of hunters and trackers who herd nothing; the Master of the Hunt holds the grounds and the Trail-Readers find what others cannot. The tribe sends a delegate to the Great Lubemo and binds itself to nothing there without the elders first agreeing it.
     ranks:
       - level: 0
-        title: Kinless
+        title: Trailless
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
+          Cast out by their own kin; no Fénjaran lineage will share a trail, a fire or a take with them.
       - level: 1
         title: Bondservant
         description: >-
-          Held in service or debt to a household, and answerable through its head rather than in their own name.
+          Held in service or debt to a Fénjaran household, and answerable through its head rather than in their own name.
       - level: 2
         title: Dependent
         description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
+          Sheltered by a household without being of its blood: a client, a widow's family, a taken-in stranger who has not yet walked the grounds.
       - level: 3
         title: Kinsman
-        description: Of a household's blood, entitled to its protection, its feud and its share.
-      - level: 4
-        title: Householder
         description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
+          Of a household's blood, entitled to its protection and its share, and still learning the tribe's grounds.
+      - level: 4
+        title: Hunter
+        description: >-
+          A full member who has walked the tribe's grounds through every season and taken game on them, and carries a share of every take.
       - level: 5
         title: Elder
-        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
+        description: >-
+          Senior of a lineage, whose memory of trails, waters and standing pacts settles what the young dispute.
       - level: 6
         title: Chieftain
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
+          Head of the tribe by descent and consent together, losing it when either fails.
     offices:
       Chieftain: Head of the tribe, holding by descent and consent together and losing it when either fails.
       Elder: Senior of a lineage, whose recollection of custom settles what the young dispute.
       Delegate: >-
-        Sent to the Great Lubemo of the confederation, empowered to argue and not to bind.
+        Sent to the Great Lubemo, who may speak for the tribe and may bind it only with the elders' agreement.
       Master of the Hunt: >-
         Holder of the tribe's grounds—their game, their seasons and their standing pacts—and the one who apportions a take.
       Trail-Reader: >-
         Charged with the reading of sign, and with teaching it; the office the tribe is known for beyond its own country.
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
-      Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
+      Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while carrying the word.
   seat: fenjaravlg
   population: null
   territorial_population: 250
@@ -69,13 +71,13 @@ sohl: {system: {commonSkills: [nyalbnlng, sohl-sohl-skill-trak]}}
 The Fénjara are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], living
 where the southeastern savannah closes into gallery forest and thicket. They are not one of the
 five clan-nations and do not pretend to be; for the purposes of totem law they are reckoned with
-the [Sengala]{.name data-type="affiliation/lineage"}, and they keep the [[affiliation-nyalbleop|Leopard Totem]]—which suits them, since
+the [[affiliation-sengala|Sengala]], and they keep the [[affiliation-nyalbleop|Leopard Totem]]—which suits them, since
 the leopard is the guide that works alone, moves unseen, and is present in country it does not
 obviously hold.
 
-They herd nothing. Where the [Ruwozi]{.name data-type="affiliation/lineage"} measure themselves in cattle and the [Lobwezi]{.name data-type="affiliation/lineage"} in the age of their
+They herd nothing. Where the [[affiliation-ruwozi|Ruwozi]] measure themselves in cattle and the [[affiliation-lobwezi|Lobwezi]] in the age of their
 trees, the Fénjara measure themselves in ground known: which trails, which water, which seasons,
-and whose pacts run where. Their seat is [[place-fenjaravlg|Fénjara Village]], and for much of the
+and whose pacts run where. The chieftain is [[being-mbadekofnjr|Mbadeko nu Fénjara]]. Their seat is [[place-fenjaravlg|Fénjara Village]], and for much of the
 year most of them are not in it.
 
 ## Tracking
@@ -92,9 +94,26 @@ sacred site, and are not the person a clan sends when a pact has been broken. Th
 What is done about the thing found is somebody else's office.
 
 This has made the Fénjara useful to every clan in the confederation and dependent on none, and it
-is why so small a tribe is heard at the [Great Lubemo]{.name data-type="affiliation/governmental"} at all.
+is why so small a tribe is heard at the [[affiliation-greatlubemo|Great Lubemo]] at all.
+
+## Current Situation {#present}
+
+The Fénjara are not a party to the war between the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]], and they are not asked to choose as the clans are. They are reckoned with the [[affiliation-sengala|Sengala]] for totem law, and in this war they say nothing of where they stand. Their delegate goes to [[place-hetolubemo|Heto Lubemo]] for the sitting that opens with the war, may speak for the tribe, and may bind it only with the elders' agreement, and the elders have agreed to nothing.
+
+:::secret {title="Where the Fénjara stand"}
+The Fénjara lean as the Sengala lean, toward the Kolembozi, and say nothing of it. The leaning follows the Sengala and holds only while theirs does.
+:::
+
+What the tribe has to offer is the one thing it always offers: ground known. Fénjaran trackers move between the river country and the gallery forest, and they have seen the herds driven toward the Kolembozi pools and the channel that was turned aside. Both clans want that knowledge and neither can order it. A trail-reader says what was found and where; the finding is not a verdict, and what is done about it is the clans' business. The tribe stays useful to every clan and dependent on none by keeping to that line, and a Fénjaran who is seen to carry word for one side loses the standing of the whole tribe at the Lubemo.
+
+## History {#history}
+
+The Fénjara keep the Leopard Totem beside the Sengala, and the Great Lubemo hears their delegate every fourth dry season ([[lore-nyalubahist|The History of the Nyáluba]]).
 
 ## See Also {#see-also}
+
+[[being-mbadekofnjr|Mbadeko nu Fénjara]]
+: the chieftain
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation the tribe belongs to

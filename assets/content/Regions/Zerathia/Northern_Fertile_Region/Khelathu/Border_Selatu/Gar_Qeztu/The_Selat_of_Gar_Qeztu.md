@@ -64,6 +64,10 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "Every officer the empire sends to command a garrison learns the work on the frontier first, and this is where the frontier teaches it," a clerk of the Halzi'a's household tells a visitor who asks why so many soldiers cross the courtyard. The chariot corps drills here in earnest, and the Halzi'a is a soldier before he is a noble, so the corps and its schools are what the selat is known for across the empire. His seat is [[place-garqeztu|Gar-Qeztu]], where the chief temple of [[affiliation-qeztu|Qeztu]] stands with its **Priest of the Chariot-Corps**, and his court sits beside it.
 
+## Current Situation {#present}
+
+The officer schools and chariot-corps drill-grounds of Gar-Qeztu turn out the men who will command the empire's armies, and this year they train them for a throne whose standing is in doubt. Fodder for the chariot horses is short with the valley's grain, and the Halzi'a trims the drill-grounds' rolls before he trims the schools'. He keeps the selat's tax in the selat to pay the instructors. The cadets' families write from the court, and every faction there wants a young officer's loyalty: the Halzi'a sees which letters his graduates receive, and he lets them take the posts without saying whose they are. He has heard that Okharik horsemen are being courted, and the officers of his schools hold that riders bred for the saddle serve better than chariots anyway.
+
 ## Commerce and Currency {#commerce}
 
 Gar-Qeztu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the drill-grounds and officer schools run on the garrison's weighed silver. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.

@@ -66,6 +66,10 @@ The Selat of Gar-Lut is one of the upper-river selatu of the [[affiliation-empir
 
 The seat is Gar-Lut, where the Halzi'a keeps his court and the chief temple of [[affiliation-uznera|Uzn'era]] stands. The Canal-Warden keeps the irrigation works on which the selat's harvest and its tax depend. Uzn'era's teaching, that creation needs the partnership of a masculine and a feminine principle, is the foundation of the standing [[lore-khelathiclt|Khelathi]] women hold in law, and her priestesses take high office in the temples.
 
+## Current Situation {#present}
+
+Gar-Lut is a small, devout selat of healing-shrines and herb-gardens, and the herbs need water. The Canal-Warden keeps the irrigation works on which the selat's harvest and its tax depend, and he has had to ration the gardens: the temple of Uzn'era at the seat gets water first, the village plots second, and the Halzi'a's own estates third, which is a decision he made so that nobody could say he put himself first. The healers are overworked with the diseases of hunger, and the shrines ask for offerings that the poor cannot give. The Halzi'a sends the throne what a small selat can send, a modest tribute, on time. He does not hold back, and the capital, which does not know what to make of an honest governor, assumes he is hiding something.
+
 ## Commerce and Currency {#commerce}
 
 Gar-Lut uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

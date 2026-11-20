@@ -27,16 +27,20 @@ If the delta is the empire's purse, Gar-Anlaghet is the mouth of it. The selat i
 
 Outward from the port go grain, papyrus, linen, gold and the empire's artisan work. Inward come timber, metals, spices, wine and the luxury goods of the [[place-midhalnrgn|Midhalión Region]]. Beyond the quays, the marshes yield fish, fowl, salt and papyrus, and the selat's share of the garden coast grows wine and oil for export. West along the garden strip lie the villas of the merchant-princes, and the [[affiliation-garhalzi|Gar-Hálzi]] banking-houses and bonded warehouses of the waterfront keep the accounts of all of it.
 
+## Current Situation {#present}
+
+The channel villages round the great port of Gar-Anlaghet live on fishing and ferrying, and a low river shifts the fish. The catch comes in later and from farther out, and the grain barges that normally come downriver are fewer, so the foreign ships that bring bread-grain to the quays set the price. Megit-Gar supplies the port with fish and crews and handles the coasting trade the great harbor does not, and it is busy in a year when everyone wants a cheaper way to move cargo. The port itself is crowded with factors who are there to sell wheat.
+
 ## Settlements {#settlements}
 
 Gar-Anlaghet (~120,000)
 : the selat capital and the empire's first port: the great harbor, the foreign quarters, the customs-house, and the counting-houses of the richest merchants in the realm.
 
 [[place-megitgar|Megit-Gar]] (~14,000)
-: a fishing-and-victualing town on a northern channel that supplies the great port with fish and crews and handles the lesser coasting-trade the big harbor cannot be bothered with.
+: a fishing-and-victualing city on a northern channel that supplies the great port with fish and crews and handles the lesser coasting-trade the big harbor cannot be bothered with.
 
 The channel villages
-: a scatter of small fishing and ferry communities of 500–2,000 thread the marsh-channels around the port, among them [[place-chauthamegit|Chautha-Megit]], [[place-garirezu|Gar-Irezu]], [Zma-Belgen]{.name data-type="place/settlement"} and [[place-gadjuzechi|Gadju-Zechi]], living by their boats, their nets and the custom of the great city.
+: a scatter of small fishing and ferry communities of a few hundred people each thread the marsh-channels around the port, among them [[place-chauthamegit|Chautha-Megit]], [[place-garirezu|Gar-Irezu]], [Zma-Belgen]{.name data-type="place/settlement"} and [[place-gadjuzechi|Gadju-Zechi]], living by their boats, their nets and the custom of the great city.
 
 ## See Also {#see-also}
 

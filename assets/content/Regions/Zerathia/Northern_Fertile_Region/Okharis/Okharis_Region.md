@@ -3,7 +3,7 @@ shortcode: okharisrgn
 name: {full: Okharis Region}
 type: place
 subType: region
-description: The southern margin of Zerathia's fertile belt—hot, rain-fed forest, river valleys and grassland in the west, drying eastward to semi-arid savanna at the Bethua border, held by the three temple-cities of Okharis and the village tribes that owe them fealty.
+description: The western end of Zerathia's northern shore—a long north coast on the Vilérian Sea, hot rain-fed forest, river valleys and grassland, drying eastward to semi-arid savanna at the Bethua border, held by the three temple-cities of Okharis and the village tribes that owe them fealty.
 tags: [region]
 data:
   demonym: Okharik
@@ -21,12 +21,13 @@ data:
 
 ## Overview {#overview}
 
-The Okharis Region is the southern margin of the
+The Okharis Region is the western end of the
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the country held by
-[[affiliation-okharis|Okharis]], where hot, rain-watered forest, river valleys
-and grassland in the west dry eastward into savanna. It is the last settled country before the
+[[affiliation-okharis|Okharis]], which fronts the [[place-vylarianse|Vilérian Sea]] along
+a long north coast and reaches south to the
 [[place-cntrlrnfrsts|Central Rainforests]], beyond which no northern
-civilization has established a lasting presence.
+civilization has established a lasting presence. Hot, rain-watered forest, river
+valleys and grassland in the west dry eastward into savanna.
 
 ## Geography
 
@@ -37,9 +38,15 @@ The western land is fertile without canals: barley, sorghum, flax, dates and
 figs grow on rain and river water, and the open plains carry cattle and horses.
 The rains lessen moving east, and by the border with
 [[place-bethuargn|Bethua]] the land is semi-arid savanna and herding country.
-Three cities stand above the villages—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]]—and the
-region's western edge touches the wet-coastal strip that runs the length of the
-northern shore.
+Three temple-cities stand above the villages—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]].
+
+The **north coast** is the region's long face on the [[place-vylarianse|Vilérian Sea]]: the wet-coastal strip of the northern shore, with sea-tempered winters and the orchard crops that go with them, runs the whole length of it. Its harbor is [[place-kaljekor|Kaljekor]], from which ships cross the western basin to Provénzia and the Tarvénian shore, and Okharik cattle, bronze and worked metal go out by the same quays. A lone island lies off the coast in the sea's western basin. [[place-vuthraka|Vuthraka]] stands on the opposite frontier, where the grassland meets the rainforest wall, and a track runs south from it into the forest.
+
+## Where the People Live
+
+About four million people live in the region. The three temple-cities and the crown lands around them hold about 1.6 million, and the ten tribes hold the rest, about 2.4 million, in the forests, river valleys and plains beyond the crown lands. About three people in a hundred live in a city or town: the three flame cities, and ten market towns, one in each tribe's country, where the tribes sell their timber, fruit, horses, fish, wax, cattle, grain, leather and linen and buy what the plains do not grow.
+
+The people are densest in the rain-fed west, on the river valleys and the crown lands around the three flame cities, and they thin eastward as the rains lessen, until the savanna by the Bethuan border holds only herding camps. The forest edge to the south holds a few timber villages and little else. [[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]] live on the barley, sorghum, dates and figs of the crown lands, with cattle and grain that the tribes bring in to the market towns and the city gates.
 
 ## Peoples and Culture
 
@@ -62,6 +69,14 @@ grazing rights, and a Khelathi attempt centuries ago to bring the eastern
 temple-cities into a tributary relationship collapsed within a generation
 ([[lore-templetrib|the Tribute of the Temple-Cities]]).
 
+## Current Situation {#present}
+
+The strain on the Three-Flame Settlement is felt differently in each part of the region. In the rain-fed west the villages and the crown lands lie within a few days of the temple-cities, and the tribute, grain and labor that the Tribute-Wardens collect there rose again this year. The market towns where each tribe sells its timber, fruit, fish and cattle are where the dues are gathered, and the talk at their gates is of what the cities take and what they return. In the forests and river country of the south, the timber villages and the tribes near the rainforest are the farthest from any city's attention and pay the latest.
+
+The east is where the pressure is sharpest. The savanna clans graze nearest the Bethuan border and the road across the South Marches, so the embassies and gifts that the Khelathi houses send for Okharik horsemen reach them first. They already pay tribute to Bethua for their grazing, and now the crown asks more and the empire offers more. Their herd-riders are the strongest bargaining weight the tribes hold, and the chieftains take each gift without promising a rider.
+
+On the coast, [[place-kaljekor|Kaljekor]]'s quays are busy and its merchants prosper from the Khelathi trade. At the southern edge, [[place-vuthraka|Vuthraka]] feels the weight of the frontier it guards and asks the tribes to carry some of it. [[place-zarhanis|Zarhanis]] waits on an Oracle that has not answered. The region has no failing harvest and no war, and the pressure shows in the order of the moots, the lateness of the dues and the garrison's yearly draw of riders, which comes in late and short while the chieftains weigh the Khelathi offers. [[affiliation-okharis|Okharis]] describes the realm's politics in full.
+
 ## See Also {#see-also}
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]
@@ -70,17 +85,53 @@ temple-cities into a tributary relationship collapsed within a generation
 [[affiliation-okharis|Okharis]]
 : the realm that holds this region
 
-[[place-aukhelathrgq|Au'Khelathu Region]]
-: the empire beyond Bethua, to the east
+[[place-vylarianse|Vilérian Sea]]
+: the sea the north coast faces
+
+[[place-bethuargn|Bethua Region]]
+: neighbor to the east, between Okharis and Au'Khelathu
 
 [[place-cntrlrnfrsts|Central Rainforests]]
 : the wall to the south
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the river country beyond Bethua
 
 [[place-shuremis|The Ash-Fold]]
 : the walled temple estate on the grazing lands east of Zarhanis
 
 [[place-yandazhrng|The Mountains of the Spirits]]
 : the mountain range on the frontier held to be the dwelling of the gods
+
+[[place-mbuloro|Mbuloro]]
+: a timber-and-charcoal market town on the forest edge of Okharis, a day from Dóngaru Village
+
+[[place-kandoro|Kandoro]]
+: a crossroads market town of Okharis, a short ride from Khamunda Village, where the Khamunda meet the herders of the open plain
+
+[[place-lumbari|Lumbari]]
+: a date-and-fig market town on the river banks of Okharis, two days from Kirofa Village
+
+[[place-zendari|Zendari]]
+: a horse-fair town on the grassland of Okharis, half a day from Magara Village
+
+[[place-wangel|Wangel]]
+: a fish-market town on a river of Okharis, below Ngorasha Village
+
+[[place-bokaru|Bokaru]]
+: a honey-and-wax market town in the forest country of Okharis, upriver from Shókuma Village
+
+[[place-gwandoro|Gwandoro]]
+: the cattle-market town of Okharis, on the open plain near Tálumeng Village, and the largest of the market towns
+
+[[place-sembari|Sembari]]
+: the grain-market town of Okharis, among the barley and sorghum fields near Wámbuchi Village
+
+[[place-kuyoro|Kuyoro]]
+: a tanning-and-leather town on the forest margin of Okharis, a short walk from Yéshiro Village
+
+[[place-chivel|Chivel]]
+: a linen-weaving town on the river of Okharis, near Zhíkande Village
 
 [[place-dongaruvlg|Dóngaru Village]]
 : the village of [[affiliation-dongarutrb|Dóngaru Tribe]]
@@ -111,6 +162,3 @@ temple-cities into a tributary relationship collapsed within a generation
 
 [[place-zhikandevlg|Zhíkande Village]]
 : the village of [[affiliation-zhikandetrb|Zhíkande Tribe]]
-
-[[place-vylarianse|Vilérian Sea]]
-: the sea beyond the coast

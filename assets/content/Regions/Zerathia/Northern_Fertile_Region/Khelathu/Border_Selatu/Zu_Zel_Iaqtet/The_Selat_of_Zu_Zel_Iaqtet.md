@@ -75,6 +75,10 @@ There is little of the temple-bound gentility of the valley here. Status is meas
 
 The work is dangerous, capital-intensive and tightly controlled. The richest mines are crown or temple monopolies, run by appointed captains under garrison guard, and the gold in particular is escorted under arms all the way to the treasuries of the capital.
 
+## Current Situation {#present}
+
+The mining march of Zu-Zel-Iaqtet is the empire's strongbox, and the Halzi'a's share of its metal is the first thing the capital counts when it doubts its governors. The Overseer of the Mines weighs what the mines and smelters render and sees the crown's share to the treasury; the Halzi'a's soldiers guard the diggings and the quarry-roads against the raiders of the eastern wastes. This year the crown's share arrives short and explained: the smelters have a fuel shortage, the quarry-roads are hard to hold, the convicts and levies need more grain than the valley sends, and the mine-captains have raised the rations rather than lose the gangs. The Halzi'a also keeps his court at Balku, where the Commander of the Marches sits, so the one person who could question his weights lives at the next table. Neither does.
+
 ## For the Worldbuilder
 
 Run Zu-Zel-Iaqtet as a hard frontier where wealth comes out of the rock under guard and danger is the daily weather. The Halzi'a sits on a fortune and a powder-keg, trusted with the empire's gold and tempted by it. The conflicts are those of a mining march:

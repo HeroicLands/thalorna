@@ -5,7 +5,7 @@ name:
   en: [The Post-Imperial Settlement, The Settlement of Azénales]
 type: lore
 subType: history
-description: "About 619 AF, the year after Provénzia's charter war ended, the Orzas Azénales settles with the envoys of the Aureldian crowns and the Bizarian League what the Empire still is: Provénzia's Charter recognized, the crowns and the League free of imperial governance and tax but inside the note system at a two-percent issuance fee, Helionis a province on paper, and the far forts' commissions unpaid."
+description: "About 619 AF, the year after Provénzia's charter war ended, the Orzas Azénales settles with the envoys of the Aureldian crowns and the Bizarian League what the Empire still is: Provénzia's Charter recognized, the crowns free of imperial governance and tax but inside the note system at a two-percent issuance fee, the League a province in law, Helionis a province on paper, and the far forts' commissions unpaid."
 tags: [history, vylaria, thedrift]
 data:
   packFolder: vylaria
@@ -26,7 +26,7 @@ data:
         - place-helionis
         - place-orzara
       summary: >-
-        The Orzas Azénales receives the envoys of the Aureldian crowns and the Bizarian League and settles what the Empire still is. Provénzia's Charter is recognized. The crowns and the League are free of imperial governance and tax, and stay inside the note system at a two-percent issuance fee that goes to the Tarmeks. Helionis stays a province on the chancery's roll with its own magistrates and legions only where its cities ask for them by treaty. The far forts' commissions go unpaid, and the chancery stops pressing claims it cannot enforce.
+        The Orzas Azénales receives the envoys of the Aureldian crowns and the Bizarian League and settles what the Empire still is. Provénzia's Charter is recognized. The crowns are free of imperial governance and tax, and stay inside the note system at a two-percent issuance fee that goes to the Tarmeks. The League stays a province in law: its cities keep their councils, imperial officers keep the passes, the tariffs and the muster, and its notes pay the same fee. Helionis stays a province on the chancery's roll with its own magistrates and legions only where its cities ask for them by treaty. The far forts' commissions go unpaid, and the chancery stops pressing claims it cannot enforce.
       standing: attested
       names:
         - {name: the Settlement of the Crowns, by: affiliation-vylarinmpr}
@@ -42,7 +42,7 @@ data:
             knowledge: named
           - place: place-byzariargn
             how: >-
-              the League sits in the commonwealth, taxed by nobody and charged by the Tevran
+              the League stays a province in law, its cities keep their councils, imperial officers keep the passes, the tariffs and the muster, and its notes pay the fee
             knowledge: named
           - place: place-helionis
             how: >-
@@ -69,11 +69,11 @@ data:
           note: an Empire that cannot collect from its provinces trades governance for the fee
         - event: lore-heladreswear
           how: answered
-          note: the League's council had sworn the Compact again and paid the frontier garrisons for itself, and the Settlement recognizes what the oath made
+          note: the League's council had sworn the Compact again and paid and staffed the frontier garrisons, under imperial officers who held the passes in law, and the Settlement receives its envoys and leaves the province on the roll
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
-            The Orzas Azénales settled the Empire's relations with its former provinces, and the Tarmeks has never since been asked to give up the note system.
+            The Orzas Azénales settled the Empire's relations with the crowns and the League, and the Tarmeks has never since been asked to give up the note system.
           agrees: partly
           withholds: that the Empire kept the fee because it had lost the means to keep anything else
         - by: affiliation-kngdmprvnz
@@ -86,9 +86,9 @@ data:
           agrees: partly
         - by: affiliation-byzarianlg
           says: >-
-            The council sat in the Merchant Hall and paid its own garrisons, and the Orzas wrote down that we were free. We had already sworn it.
+            The council sat in the Merchant Hall and paid and staffed its own garrisons, and the Orzas received its envoys as he received the crowns' envoys. We had already sworn the Compact.
           agrees: partly
-          withholds: that the League accepted the two-percent fee at the same table
+          withholds: that the Orzas left the League a province on the roll, and that it accepted the two-percent fee at the same table
       unresolved:
         - whether the crowns' envoys met in one hall or the Orzas received them one at a time
 ---
@@ -97,7 +97,7 @@ An Aureldian factor, handing a Vilérian clerk a traveler's note at a counting-t
 
 ## What the Empire Had Left
 
-By the time the estates of [[affiliation-kngdmprvnz|Provénzia]] made peace ([[lore-charterwar|The War of the Charter]]), the [[affiliation-vylarinmpr|Empire]] had been losing provinces for a century. [[affiliation-kingdmtrvn|Tarvénia]] had stopped paying in the generation after [[lore-threewinters|the Three Winters]] ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The [[affiliation-byzarianlg|Bizarian League]], annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn [[lore-heladcompact|its Compact]] again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). [[place-helionis|Helionis]] kept its cities' councils and had no _therkos_ (governor) it obeyed. The western crowns had armies of their own.
+By the time the estates of [[affiliation-kngdmprvnz|Provénzia]] made peace ([[lore-charterwar|The War of the Charter]]), the [[affiliation-vylarinmpr|Empire]] had been losing provinces for a century. [[affiliation-kingdmtrvn|Tarvénia]] had stopped paying in the generation after [[lore-threewinters|the Three Winters]] ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The [[affiliation-byzarianlg|Bizarian League]], annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn [[lore-heladcompact|its Compact]] again and paid and staffed its frontier garrisons under imperial officers ([[lore-heladreswear|The Re-swearing of the Compact]]). [[place-helionis|Helionis]] kept its cities' councils and had no _therkos_ (governor) it obeyed. The western crowns had armies of their own.
 
 What the Empire still had was the note system. The Tarmeks minted the coin, [[affiliation-danvar|the Danvar]] issued the notes, and the Tevran Maldor held the guilds of every city under one charter ([[lore-arzanasedict|The Edicts of Arzanas]]). Every realm that had left the Empire still banked through it.
 
@@ -106,7 +106,8 @@ What the Empire still had was the note system. The Tarmeks minted the coin, [[af
 In the year after the [[lore-chrtrrghts|Charter of Rights]]'s peace, the Orzas **Azénales**, born to [[affiliation-mardovanes|House Mardovanes]] and adopted into House Helarkales as an heirless Orzas's successor, who had ruled for fifteen years and spent them watching the provinces go, received the envoys of the crowns and the League in Orzara and set the terms down in one settlement.
 
 - **Provénzia's Charter** was recognized. The Empire stopped sending _therkoi_, and the Charter's king was acknowledged in the chancery's own style.
-- **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vilérian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmeks.
+- **The crowns** were free of imperial governance and imperial tax. They kept the Vilérian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmeks.
+- **The League** stayed a province in law. Its cities kept their councils, imperial officers kept the passes, the tariffs and the muster, and its notes paid the same fee.
 - **Helionis** stayed on the chancery's roll as a province. Its cities kept their own magistrates, and a legion sat in a Helionite city only where the city had asked for one by treaty. The roll names a province, and the cities govern themselves ([[place-helionis|Helionis]]).
 - **The far forts** went unpaid. A fortress commander who held a post in the [[place-heladrgn|Hellád]] on an imperial commission kept the post and lost the pay, and some of their heirs hold the posts still.
 - **The claims the Empire could not enforce**, among them the [[place-kervaron|Kervaron Spine]], stopped being pressed. The chancery has not raised the range with the clans since.
@@ -115,13 +116,13 @@ The terms were not a defeat for the Tarmeks and were not presented as one. The c
 
 ## What It Made
 
-The Aureldian kingdoms and the Bizarian League became what every commerce section calls the post-imperial commonwealth: realms that answer to their own crowns and councils and bank through Orzara. The Tarmeks has refused to reopen the fee in every generation since, and the crowns have never had a way to refuse it.
+The Aureldian kingdoms became what every Aureldian commerce section calls the post-imperial commonwealth: realms that answer to their own crowns and bank through Orzara. The Bizarian League stayed outside it, a province in law whose councils govern its cities and whose merchants bank through Orzara beside the crowns. The Tarmeks has refused to reopen the fee in every generation since, and the crowns have never had a way to refuse it.
 
 Provénzia's Charter was tested within a lifetime, in a succession war the Empire watched from outside ([[lore-warprinces|The War of the Princes]]).
 
 ## What It Left {#what-it-left}
 
-- **The post-imperial commonwealth.** The phrase in every Aureldian and Bizarian commerce section.
+- **The post-imperial commonwealth.** The phrase in every Aureldian commerce section.
 - **The two-percent fee.** The Empire's largest standing revenue from lands it does not govern.
 - **Helionis as a province on paper.** The chancery's roll and the cities' practice, side by side.
 - **The unpaid forts.** Hereditary commanders in the Hellád who file a yearly report and wait for an answer ([[place-unpaidfort|The Unpaid Fort]]).

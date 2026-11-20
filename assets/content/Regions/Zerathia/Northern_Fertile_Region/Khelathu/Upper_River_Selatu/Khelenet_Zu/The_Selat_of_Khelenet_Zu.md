@@ -68,6 +68,10 @@ The Selat of Khelenet-Zu is one of the eighteen provinces of [[affiliation-upper
 
 The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs as every Halzi'a does: he commands the levies, collects the taxes and dispenses justice, and he answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. In Khelenet-Zu the justice is the selat's reputation, and a trained profession stands behind it. A Halzi'a here is judged against his own courts, in front of men who know exactly what the rolls say. His seat is Khelenet-Zu, where his court stands beside the chief temple of Qe'aret.
 
+## Current Situation {#present}
+
+Khelenet-Zu is the selat of old assize-courts and land-survey scribes, and after each flood its scribes remeasure the fields. Two low floods have made the survey the selat's whole business. A farmer whose boundary stone stands in dry ground asks whether his line was entered, and the lawyer-priests of Qe'aret decide whether the line gives him a claim to a lower render. The Halzi'a cannot stop the claims, and every remitted render is tribute the throne does not receive. He lets the courts sit and records every decision. The capital hears that the selat's tribute is down because the law lowers it, and the Halzi'a points to the entries. The law is his best protection, and it is unanswerable.
+
 ## Commerce and Currency {#commerce}
 
 Khelenet-Zu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. A tenant who pays his share in sacks is entered at the granary, and the entry, not the memory of two neighbors, settles what was paid. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] at the chief temple attests the weight-pieces and holds those granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

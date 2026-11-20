@@ -16,6 +16,10 @@ Zel-Amqelu was a trading port on one of the silt-islands where the river's mouth
 
 The place is not a blood-field. The town burned and its dead were burned with it, and the raiders buried their own. Its dead were received, and the town's rites were said for them.
 
+## Layers {#history}
+
+Raiders from across the Vilérian Sea burned the port in 1960 ST (151 BF), and the priesthood crowned their chief ([[lore-searaiders|the Sea-Raiders' Throne]]).
+
 ## What Is There Now {#present}
 
 A broad reed-grown mound stands in the flats of the [[place-chathuselat|Chathu Selat]]. The burned temple's pylon still stands out of the mound, with the lower courses of the temple walls round it, and the old quay line shows as a pale seam in the reeds at low water. Everything else is silt over ash.

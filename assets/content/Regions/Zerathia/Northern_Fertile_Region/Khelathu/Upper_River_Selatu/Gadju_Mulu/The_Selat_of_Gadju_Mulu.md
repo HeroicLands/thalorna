@@ -66,6 +66,10 @@ The Selat of Gadju-Mulu is one of the upper-river selatu of the [[affiliation-em
 
 The seat is Gadju-Mulu, where the Halzi'a keeps his court and the chief temple of Thuba'i stands. The Halzi'a's steward administers the selat's revenue, its granaries and its corvée. The patron god is among the best loved in the empire, and his priests teach that pleasure is a form of gratitude, which sits easily on a selat of marsh, flax and waterfowl.
 
+## Current Situation {#present}
+
+Gadju-Mulu is the wettest of the upper selatu, the Green Waters, and the low river has left its marshy flood-basin half dry. The flax and the reed are poorer, and the Thuba'i priests at the seat teach gratitude to a people who have less to be grateful for. The Halzi'a's steward administers the revenue, granaries and corvée from the seat, and the corvée this year is the repair of drained channels. The selat has less reed and less water than the throne expects, and the Halzi'a sends it the linen and what reed there is. He holds back the waterfowl, crowded into the remaining pools, which are the one thing in the selat that has not diminished, and which feed his own people through the lean months.
+
 ## Commerce and Currency {#commerce}
 
 Gadju-Mulu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

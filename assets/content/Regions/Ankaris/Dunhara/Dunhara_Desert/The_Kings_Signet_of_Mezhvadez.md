@@ -36,7 +36,7 @@ The signet is the king's seal. In the hands of a claimant it would prove a line 
 
 ## Hooks {#hooks}
 
-- The tagemader, a polished man named [Ghezrun]{.name data-type="being/npc"}, hires a party to bring out the signet ([[scenario-kprdrystr|A Stair of Veiled Women]]).
+- The tagemader of Tahrodan, a polished man named [[being-ghzrnmzhn|Ghezrun Mazhen]], hires a party to bring out the signet ([[scenario-kprdrystr|A Stair of Veiled Women]]).
 
 :::secret {title="The lock of the door"}
 The signet lies in the keeper's hand, on the dais at the middle of the vault, and taking it wakes the cold. The seal is the lock of the door of black stone behind her. The king bargained with a thing outside creation for time, and the thing asked for his household one by one; the keeper agreed to be the last, and holds the door shut by her will.

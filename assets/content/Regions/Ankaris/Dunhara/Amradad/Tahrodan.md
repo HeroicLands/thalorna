@@ -21,6 +21,12 @@ data:
 
 Tahrodan is the toll fortress at the crossroads of the caravan roads and the largest city of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], twenty thousand people inside walls that every caravan from the desert interior must pass on its way down to the port of [[place-valmakhend|Valmakhend]] and the merchant towns of [[place-taruzelrgn|Taruzel]] beyond the strait. The roads from [[place-byzariargn|Bizaria]], from [[place-vedyarargn|Vedyara]] and from the [[place-khzryndsrtrgn|Khazrin]] meet under its walls, and only one road leaves them for the sea. The city stands inland, on the road, and has no harbor of its own. Its oasis could feed a town of a quarter its size; the rest of its bread is bought with the tolls taken at its gates, which are one of the pillars of the Shebarader's treasury.
 
+## History {#history}
+
+The crossroads had an oasis and a caravanserai before it had a fortress. The Kingdom's first walls faced the desert edge and the shore, and in 315 [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came across the desert from the Vedyaran march and reached them from the east, the side nobody had built them to face. The host broke up at the walls when its orghun died. The Shebarader of the time raised the citadel over the meeting of the roads and walled the town around it, every wall facing a road, and set a toll-house inside its gate ([[lore-amradfndng|The Founding of Amradad]]).
+
+The toll made the town. About 325 the [[affiliation-bhumipal|Bhumipal]] swore their first treaty with the Kingdom and began the forts of [[place-marchroad|the March Road]] ([[lore-bhmplraise|the Raising of Bhumipal]]), and the wagons of that road have come to Tahrodan since. The town grew into the largest city of the realm on the silver taken at its gate and on the grain that silver buys, and the fire-temples gathered estates in the oases around it whose endowments let a load under a temple's seal pass the gate untaxed.
+
 ## Current Situation {#present}
 
 A temple's seal is worth more in Tahrodan than anywhere else in the realm. The fire-temples hold estates in the oases around Tahrodan, and by the right of their endowments what comes in under a temple's seal pays no toll. A priest will lend his seal to a bale of silk for a share of its price, the caravan-masters know which priests, and the toll-house loses more to sealed loads than to smugglers. The governor wants the seals opened and checked at the gate. The priests call it sacrilege to search an offering, and they hold the rites the governor must be seen to keep.
@@ -29,7 +35,7 @@ The tribes are the other edge. Tribal escorts bring the desert caravans to a wel
 
 ## The Holder {#holder}
 
-A governor, a _tagemader_, holds Tahrodan for the Shebarader with its garrison and its revenue, and he holds the richest governorship in the realm on the same terms as every other: by the Shebarader's grant, revocable at a word. He plays the great powers of the region against one another as carefully as the Shebarader does, because the city's wealth depends entirely on the road staying open, and he plays the temples and the toll-house against each other for the same reason.
+A governor, a _tagemader_, [[being-ghzrnmzhn|Ghezrun Mazhen]], holds Tahrodan for the Shebarader with its garrison and its revenue, and he holds the richest governorship in the realm on the same terms as every other: by the Shebarader's grant, revocable at a word. He plays the great powers of the region against one another as carefully as the Shebarader does, because the city's wealth depends entirely on the road staying open, and he plays the temples and the toll-house against each other for the same reason.
 
 ## Garrison {#garrison}
 
@@ -66,6 +72,9 @@ The citadel stands over the meeting of the roads, and the governor's palace and 
 [[place-marchroad|The March Road]]
 : the road from Vedyara that brings the city's grain
 
+[[lore-amradfndng|The Founding of Amradad]]
+: the walls that face every road
+
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the faith of the city's temples
 
@@ -74,3 +83,6 @@ The citadel stands over the meeting of the roads, and the governor's palace and 
 
 [[scenario-sprngbfrbnnr|The Spring Before the Banner]]
 : a scenario: one spring on the caravan road while a dovaq gathers tribes under his banner
+
+[[scenario-undrtmplsl|What Passes Under the Seal]]
+: a scenario: a whole caravan held under one fire-temple's seal, and a toll dispute at the gate

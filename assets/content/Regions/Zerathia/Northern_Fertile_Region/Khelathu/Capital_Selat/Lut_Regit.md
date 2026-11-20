@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [galezkaraslt]
-  population: 0
+  population: 520
+  type: village
+  market: local
+  government: capitalselat
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A village of the country around Galezkara, rendering grain and labor to the capital and taking the city's custom in return"

@@ -6,6 +6,7 @@ subType: history
 description: Kaliharan custodians date the teachers’ hurried departure to 7,300 BF and preserve their final instructions within the tending.
 tags: [history, spine, gm]
 data:
+  pack: gm-journals
   packFolder: settinglore
   events:
     - when: -7300

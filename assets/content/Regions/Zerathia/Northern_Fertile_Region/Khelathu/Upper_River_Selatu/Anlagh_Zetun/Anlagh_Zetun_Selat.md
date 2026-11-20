@@ -23,7 +23,7 @@ Anlagh-Zetun Selat is the land of [[affiliation-selatnlghztn|the Selat of Anlagh
 
 ## Character
 
-The survey scribe's year has five verbs, and [[place-anlaghzetun|Anlagh-Zetun]] runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment. The Halzi'a's house is [Anlaghet'Zaru]{.name data-type="affiliation/lineage"}, which raised the basin against the god-king's guard in 268 AF ([[lore-sealedgran|the Battle of the Sealed Granaries]]) and keeps the sealed dome of [[place-eleventhgran|the Eleventh Granary]] shut to this day.
+The survey scribe's year has five verbs, and [[place-anlaghzetun|Anlagh-Zetun]] runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment. The Halzi'a's house is [[affiliation-anlaghetzaru|Anlaghet'Zaru]], which raised the basin against the god-king's guard in 268 AF ([[lore-sealedgran|the Battle of the Sealed Granaries]]) and keeps the sealed dome of [[place-eleventhgran|the Eleventh Granary]] shut to this day.
 
 ## Economy
 
@@ -36,6 +36,10 @@ Grain is the whole foundation: wheat above all, then barley and millet, grown on
 - The river-port of Amqelu-Legez, where the harvest is loaded for the capital
 - The temple of [[affiliation-qearet|Qe'aret]] and the survey-and-assize courts that measure the land
 - The canal, dike and basin-irrigation works that govern the flood
+
+## Current Situation {#present}
+
+The basin villages of Anlagh-Zetun are the densest farm-country in the empire, and two low floods mean the basins hold less water for each field. The villages draw on the granaries at the seat in the lean months, and the granaries stand low. At Amqelu-Legez the river-port measures and loads what grain there is onto barges for the capital, and the barge-masters are in a hurry. The Eleventh Granary at the seat stays sealed, and a granary is opened only on the Halzi'a's word.
 
 ## Settlements {#settlements}
 

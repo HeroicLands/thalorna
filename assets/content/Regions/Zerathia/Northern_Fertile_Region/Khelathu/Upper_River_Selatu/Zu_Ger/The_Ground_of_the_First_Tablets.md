@@ -18,7 +18,7 @@ data:
 
 ## The Ground
 
-It is the burial-ground of the first eleven Gar-Auu, the First House and [Azlet'Kutu]{.name data-type="affiliation/lineage"}, who ruled from the Great Land for a thousand years and are entered in the king-list by a name and a length ([[lore-akhfirsttab|the First Tablets]]). The houses that ruled from [[place-galezkara|Galezkara]] lie in the necropolis at [[place-zugezer|Zu-Gezer]], and these do not. Their tombs were never moved, and when the court crossed to the mound in 1006 ST (1105 BF) the kings of the Great Land stayed where they lay ([[lore-crossmound|the Crossing to the Mound]]).
+It is the burial-ground of the first eleven Gar-Auu, the First House and [[affiliation-azletkutu|Azlet'Kutu]], who ruled from the Great Land for a thousand years and are entered in the king-list by a name and a length ([[lore-akhfirsttab|the First Tablets]]). The houses that ruled from [[place-galezkara|Galezkara]] lie in the necropolis at [[place-zugezer|Zu-Gezer]], and these do not. Their tombs were never moved, and when the court crossed to the mound in 1006 ST (1105 BF) the kings of the Great Land stayed where they lay ([[lore-crossmound|the Crossing to the Mound]]).
 
 ## What Is There
 
@@ -32,6 +32,10 @@ Below the shelf run the marker stones, a long row of upright slabs worn smooth, 
 - **Foreign scholars**, who come to count the First Tablets on their fingers and are shown as much of the ground as the temple of Hezmu'iri decides.
 - **Robbers**, who are after the tablets and not the metal. The inscribed tablets of the age are the oldest writing in the valley, and a dealer in Galezkara pays more for one than for a gold collar.
 - **The temple of Hezmu'iri**, which says the ground is the god's to keep and the Gar-Au's to visit.
+
+## Layers {#history}
+
+The first two houses lie here, and their tombs were never moved when the court crossed to the mound in 1006 ST (1105 BF) ([[lore-akhfirsttab|The First Tablets]], [[lore-crossmound|the Crossing to the Mound]]).
 
 ## Hooks {#hooks}
 

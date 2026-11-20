@@ -61,7 +61,7 @@ What the forest _is_ differs by tradition: a host, a parent, a household of spir
 
 No forest person trades with a stranger. All trade between the forest and the outside world passes through a _gbeni_, a trade-friendship that binds one forest family to one outside family and passes from one generation to the next. The forest partner is the _gbenindo_, the keeper of the friendship, and only a gbenindo may take an outsider's goods into the forest or carry the forest's goods out.
 
-The forest sends out hardwood, ivory, hides, dyes and the plants that heal or intoxicate. It takes in metal, glass, salt and cloth. On the northern rivers the gbenindo deal with the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and with [[lore-okharinclt|Okharin]] river-factors and herders; on the southern margin they deal with the [Sengala]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba]], the leopard-clan (see [[affiliation-nyalbleop|Leopard Totem]]) that trades north. A merchant who goes past the gbenindo to deal with a deeper tribe finds the trade stopped, the trail lost, or the fever waiting.
+The forest sends out hardwood, ivory, hides, dyes and the plants that heal or intoxicate. It takes in metal, glass, salt and cloth. On the northern rivers the gbenindo deal with the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and with [[lore-okharinclt|Okharik]] river-factors and herders; on the southern margin they deal with the [Sengala]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba]], the leopard-clan (see [[affiliation-nyalbleop|Leopard Totem]]) that trades north. A merchant who goes past the gbenindo to deal with a deeper tribe finds the trade stopped, the trail lost, or the fever waiting.
 
 ## The Four Traditions
 
@@ -100,5 +100,5 @@ What the outsider cannot see is the tradition. The accents sound alike to an ear
 [[lore-nyalubaclt|Nyáluba]]
 : the southern neighbors, through the Sengala
 
-[[lore-okharinclt|Okharin]]
+[[lore-okharinclt|Okharik]]
 : the northern neighbors

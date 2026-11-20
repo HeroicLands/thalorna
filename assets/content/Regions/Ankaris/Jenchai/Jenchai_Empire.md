@@ -3,7 +3,7 @@ shortcode: jenchaiempr
 name: {full: Jenchai Empire, en: [Nine Mountains, Kingdom of Mountains and Seas], tant: [Chaiwong]}
 type: affiliation
 subType: polity
-description: Island realm east of Tantsou—a feudal, warrior-aristocratic society of eight great lords, an honor-obsessed culture, and a sacred emperor who reigns on the Dragon's Mountain and rules nothing beyond it.
+description: Island realm east of Tantsou—a feudal, warrior-aristocratic society of eight great lords, an honor-obsessed culture, and a sacred emperor who reigns on Zojai and rules nothing beyond it.
 tags: [region, Ankaris, East, Island-Kingdom, Warrior-Culture]
 data:
   icon: null
@@ -72,6 +72,7 @@ data:
   parents: []
   relations: {tengwouronglei: aligned, tantsouempr: rival}
   packFolder: jenchai
+  culture: jenchaiclt
 sohl: {system: {commonSkills: [jurthatlng]}}
 
 # terran_analog: Japan (island feudalism, honor culture, breakaway from a larger power)
@@ -85,7 +86,7 @@ Jenchai's culture is shaped by its Tantsou origins—the caste structures, the w
 
 Jenchai maintains an Emperor—the **Rongleng Tengzhei** ("Son of Heaven of Ten Thousand Dawns")—who claims an unbroken line of descent from the last imperial governor who led the secession. The Emperor performs elaborate seasonal rituals, receives foreign ambassadors in his palace above [[place-lengwou|Lengwou]], and serves as the ceremonial heart of the nation. His court is a pageant of ancient protocol and exquisite aesthetics.
 
-In practice, the Emperor commands almost nothing. He has no standing army, controls no territory beyond the imperial capital district, and depends on the great lords for his household's upkeep. He is nineteen years old, styled [Weileng]{.name data-type="being/npc"} in his reign, and was enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. The court's real function is as a stage for the lords to compete for prestige and proximity to divine legitimacy—being named Celestial Minister or receiving a court title carries immense social weight, even though the titles confer no actual authority. The Emperor's power lies entirely in this ability to grant or withhold honor, a currency the warrior lords value above gold.
+In practice, the Emperor commands almost nothing. He has no standing army, controls no territory beyond the imperial capital district, and depends on the great lords for his household's upkeep. He is nineteen years old, styled [[being-weilengjnch|Weileng]] in his reign, and was enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [[lore-empseatwar|War of the Empty Seat]]. The court's real function is as a stage for the lords to compete for prestige and proximity to divine legitimacy—being named Celestial Minister or receiving a court title carries immense social weight, even though the titles confer no actual authority. The Emperor's power lies entirely in this ability to grant or withhold honor, a currency the warrior lords value above gold.
 
 ## The Great Lords
 
@@ -93,7 +94,7 @@ True power in Jenchai resides with the **Dauzhwo** ("Great Lords"), who each hol
 
 Below the Dauzhwo sit the **Shwizhwo** ("Lesser Lords"), minor feudal holders who pledge loyalty to a Great Lord in exchange for land and protection. This cascading web of personal oaths and obligations holds the realm together—barely. Feuds between the Great Lords are constant, ranging from trade wars and border skirmishes to full-scale campaigns that can engulf entire provinces. The Emperor occasionally attempts to mediate, but his rulings carry weight only when backed by a Great Lord willing to enforce them.
 
-The current balance of power rests on three or four Great Lords of roughly equal strength, none willing to risk open war against a coalition of the others. This equilibrium is fragile, and every generation or so it collapses into a period of open warfare before a new balance emerges. The last collapse was the War of the Empty Seat, 709–712 AF.
+The current balance of power rests on three or four Great Lords of roughly equal strength, none willing to risk open war against a coalition of the others. This equilibrium is fragile, and every generation or so it collapses into a period of open warfare before a new balance emerges. The last collapse was the [[lore-empseatwar|War of the Empty Seat]], 709–712 AF.
 
 Eight houses hold the eight domains on the great island and the lesser. Each domain is named for its house, and each house for a feature of its mountain:
 
@@ -108,22 +109,22 @@ Eight houses hold the eight domains on the great island and the lesser. Each dom
 | Rinjai    | [[place-rinjai\|Rinjai]], on the lesser island                          |   650 and 25 ships |
 | Tsuijai   | [[place-tsuijai\|Tsuijai]], in the north-west uplands                   |                550 |
 
-The houses sort into three blocs. [The Strait]{.name data-type="affiliation"} is [[affiliation-shuiwojaidmn|Shuiwojai]], led by [Shuiwojai Henzo]{.name data-type="being/npc"}, and [[affiliation-rinjaidmn|Rinjai]] sworn to him; together they muster 2,600 men and 85 ships, and they want Henzo named Teng Ja. The imperial loyalists are [[affiliation-hojujaidmn|Hojujai]], whose lord is the widow-regent [Hojujai Rewei]{.name data-type="being/npc"} acting for her son [Hojujai Zija]{.name data-type="being/npc"}, aged fourteen, and [[affiliation-muwojaidmn|Muwojai]]; they muster 2,500 men and 20 ships, and want the office for the Hojujai heir when he comes of age, or for nobody. [The Independents]{.name data-type="affiliation"} are the [[affiliation-wojaidmn|Wojai Domain]], the [[affiliation-zenjaidmn|Zenjai Domain]], the [[affiliation-wejaidmn|Wejai Domain]] and the [[affiliation-tsuijaidmn|Tsuijai Domain]], mustering 3,970 men and 55 ships; each has its own price, and Zenjai or Wojai joining either bloc ends the balance.
+The houses sort into three blocs. [The Strait]{.name data-type="affiliation"} is [[affiliation-shuiwojaidmn|Shuiwojai]], led by [[being-henzoshuiwo|Shuiwojai Henzo]], and [[affiliation-rinjaidmn|Rinjai]] sworn to him; together they muster 2,600 men and 85 ships, and they want Henzo named Teng Ja. The imperial loyalists are [[affiliation-hojujaidmn|Hojujai]], whose lord is the widow-regent [[being-reweihojujai|Hojujai Rewei]] acting for her son [[being-zijahojujai|Hojujai Zija]], aged fourteen, and [[affiliation-muwojaidmn|Muwojai]]; they muster 2,500 men and 20 ships, and want the office for the Hojujai heir when he comes of age, or for nobody. [The Independents]{.name data-type="affiliation"} are the [[affiliation-wojaidmn|Wojai Domain]], the [[affiliation-zenjaidmn|Zenjai Domain]], the [[affiliation-wejaidmn|Wejai Domain]] and the [[affiliation-tsuijaidmn|Tsuijai Domain]], mustering 3,970 men and 55 ships; each has its own price, and Zenjai or Wojai joining either bloc ends the balance.
 
-The eight domains and the imperial district together hold the 500,000 people of the realm, assessed at 346,000 bales of rice a year, the shortfall of grain made up by fish, barley and millet.
+The eight domains and the imperial district together hold the 500,000 people of the realm, assessed at 346,000 bales of rice a year, the shortfall of grain made up by fish, barley and millet. About nine in a hundred live in a town: the eight castle towns and the capital are the only towns of the realm, and every other settlement is a village or hamlet.
 
 A **bale** is rice enough to feed one adult for a year, and it is the unit of every lord's roll. Each village is assessed in bales once and pays in kind, in rice or in whatever its shore, forest or mine yields. Whoever holds the village—the lord's granary, a retainer's fief, the court or a summit shrine—takes four parts in ten, and the village keeps six. Each village also owes thirty days of labor a year on the castle, the roads and the lord's fields. Its headman answers for the whole assessment, so a shortfall is the village's debt. Each lord raises his Tsaihwo soldiers from his castle town and villages at two and a half men for every hundred bales assessed, except Zenjai, whose northern levy is four.
 
 ## The Court and Its Poverty
 
-The Emperor does not leave the Dragon's Mountain, [[place-zojai|Zojai]]. The imperial person may not set foot beyond Zojai, so the realm comes to him: every lord's envoy, every petition and every bale of rice. He can go nowhere to collect, and this is the hinge of his poverty. The imperial district is Zojai and the capital on its lowest slope, Lengwou, the Dawn Court, a town of 12,000 below the Emperor's palace, in a district of 20,000 people assessed at 6,000 bales. Foreign ambassadors come as far as Lengwou, and the upper slope is closed to them.
+The Emperor does not leave the Dragon's Mountain, [[place-zojai|Zojai]]. The imperial person may not set foot beyond Zojai, so the realm comes to him: every lord's envoy, every petition and every bale of rice. He can go nowhere to collect, and this is the hinge of his poverty. The imperial district is Zojai and the capital on its lowest slope, Lengwou, the Dawn Court, a town of 9,000 below the Emperor's palace, in a district of 20,000 people assessed at 6,000 bales. Foreign ambassadors come as far as Lengwou, and the upper slope is closed to them.
 
-The court's nominal income is 6,880 bales a year: four parts in ten of its own district's assessment, plus four parts in ten of eight **court estates**, one village in each domain whose share is owed to the Emperor. Each Dauzhwo collects his court estate through his own granary and forwards what he chooses. In 719 AF the court received 4,100 bales against the 9,000 it spends, and the Retired Emperor's household in Lengwou is part of that cost. Silver from Shuiwojai has covered the gap for three years, and the court is in his debt. The court's strongroom stands at [Tsaimu]{.name data-type="place/settlement"} in Muwojai ground, in the keeping of that house's [Weiju]{.name data-type="affiliation/lineage"}.
+The court's nominal income is 6,880 bales a year: four parts in ten of its own district's assessment, plus four parts in ten of eight **court estates**, one village in each domain whose share is owed to the Emperor. Each Dauzhwo collects his court estate through his own granary and forwards what he chooses. In 719 AF the court received 4,100 bales against the 9,000 it spends, and the household of [[being-fuzoretired|Fuzo]], the Retired Emperor, in Lengwou is part of that cost. Silver from Shuiwojai has covered the gap for three years, and the court is in his debt. The court's strongroom stands at [Tsaimu]{.name data-type="place/settlement"} in Muwojai ground, in the keeping of that house's [Weiju]{.name data-type="affiliation/lineage"}.
 
 The Emperor grants four things, and each costs him nothing:
 
 - **The patent of the mountain.** Each Dauzhwo holds his mountain by a patent the Emperor issues on every succession. The Emperor cannot enforce it; a lord without one holds by force alone and cannot call on any other lord's duty.
-- **Court dignities.** Celestial Minister, Caste-Registrar and Censor of Purity are titles conferring precedence and no function. Omen-Reader and Keeper of the Sacred Texts remain working posts of the Tanchei at court.
+- **Court offices.** The court keeps five of the mainland's ministries. Celestial Minister, Caste-Registrar and Censor of Purity are dignities that confer precedence and no function, since each domain keeps its own rolls and its own watch over its officials. Omen-Reader and Keeper of the Sacred Texts are working posts of the Tanchei, who reckon the heavens and keep the canon for the Emperor.
 - **Precedence at the [Dawn Rite]{.name data-type="lore/custom"}.** The New Year rite on Zojai's summit is attended by the envoy of every lord, and its seating order is the year's political map.
 - **The office of Teng Ja.**
 
@@ -131,13 +132,27 @@ The Emperor grants four things, and each costs him nothing:
 
 **Teng Ja**, Heaven's Blade, is the Emperor's sword-arm: the holder of the force the Emperor has none of. The Emperor confers the office on a Dauzhwo who has brought enough of the others to heel, and an Emperor who refuses a lord with the realm in his fist does not refuse long. The holder speaks for the Emperor to the other lords, keeps the peace between them by force, and receives the rice of the court estates to forward, which makes the Emperor dependent on him. The office lapses with its holder and is not inherited.
 
-Since 709 AF it stands vacant. The last Teng Ja, [Hojujai Henwo]{.name data-type="being/npc"}, held it from 693 AF until his death, when his son was a child; Shuiwojai and Wojai pressed the court not to confer it on a regency, and the war that followed ended in the present balance. The race for the office is the realm's central contest.
+Since 709 AF it stands vacant. The last Teng Ja, [[being-henwohojujai|Hojujai Henwo]], held it from 693 AF until his death ([[lore-hstryjenchai|The History of Jenchai]]). The race for the office is the realm's central contest.
+
+## Current Situation {#present}
+
+In 720 AF the realm waits on one act. [[being-weilengjnch|Weileng]] is nineteen and of age, and the eight Dauzhwo are testing whether he rules or is ruled. The office of Teng Ja stands vacant, only the Emperor can confer it, and he has not conferred it. The Strait bloc and the loyalists both bid for it. The court's poverty and [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver press him to decide, and Henzo has petitioned for the office. [[being-fuzoretired|Fuzo]], the Retired Emperor, advises and holds no authority; the lords resent the cost of his household, and a house that wins his ear is heard at the throne.
+
+Both blocs are bidding for [[affiliation-zenjaidmn|Zenjai]] and [[affiliation-wojaidmn|Wojai]], the two independent houses that can break the balance. Henzo's silver and the Hojujai regent [[being-reweihojujai|Hojujai Rewei]] have each named a price to Zenjai and Wojai. Zenjai wants grain, and Wojai has named its price to neither bloc. Wejai and Tsuijai have named theirs to no one. If Zenjai or Wojai joins either bloc, the balance of the Nine ends.
+
+The Dawn Rite at the turn of the year shows the result: the Emperor sets its seating, and each envoy's place reads as a verdict on his house.
+
+The fleets of Shuiwojai and Rinjai take tolls on the strait, and Rinjai holds a Tantsou prefect whom the court wants returned and Henzo wants ransomed.
 
 ## Honor and Pride
 
 Personal honor is the organizing principle of Jenchai society, more deeply embedded even than in Tantsou's warrior caste. A lord's word is sacred; broken oaths are remembered for generations and can poison alliances centuries later. Insults—real or perceived—demand satisfaction, and the challenge and the duel each follow a fixed form.
 
 The Jenchai use the mainland's word for the ordered death, [Rwising]{.name data-type="lore/custom"} ("Ritual Death"), for every ritual death, ordered or chosen, and it carries a different weight on the islands. Where [[lore-tseising|Tseising]], the mainland's chosen death, is primarily an act of atonement or defiance, Rwising in Jenchai can express protest, preserve a secret, demonstrate loyalty to a fallen lord, or simply assert that one's honor is more precious than one's life. A lord who orders a subordinate's Rwising wields that power carefully, knowing it reflects on his own judgment as much as on the condemned.
+
+## History {#history}
+
+The Emperors of the Nine descend from the imperial governor who led the island province out of the Empire of Tantsou ([[lore-jenchaiscs|The Secession of Jenchai]]). Within the realm the great events are the sixteen years in which [Hojujai Henwo]{.name data-type="being/npc"} held the office of Teng Ja, 693 to 709 AF, and the war over the office after his death ([[lore-hstryjenchai|The History of Jenchai]]; [[lore-empseatwar|The War of the Empty Seat]]).
 
 ## Relationship with Tantsou
 

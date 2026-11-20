@@ -23,14 +23,20 @@ export const TARGETS = [
     {
         model: "helonika",
         font: "helonika-book",
-        languages: ["helo", "valt", "biza", "beth"],
+        languages: ["helo", "valt", "biza", "beth", "velt"],
         names: true,
         affixes: true,
     },
     { model: "vedyakshara", font: "vedyakshara-classical", languages: ["vedy"] },
     { model: "veldikko", font: "veldikko", languages: ["sina", "aele"], names: true },
 ];
-const TONGUES = { helo: "helonic", valt: "valtari", biza: "byzarian", beth: "bethuan" };
+const TONGUES = {
+    helo: "helonic",
+    valt: "valtari",
+    biza: "byzarian",
+    beth: "bethuan",
+    velt: "velanthian",
+};
 
 /** Collect name values, excluding the name-pattern instruction and the English lists under `en`. */
 export function nameForms(data, language) {

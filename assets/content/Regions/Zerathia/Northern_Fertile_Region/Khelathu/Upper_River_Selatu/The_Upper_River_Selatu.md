@@ -13,7 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A class of eighteen river-valley selatu, each under a hereditary Halzi'a; the empire's grain basket and the most numerous of the four selat-classes.
+      A class of eighteen river-valley selatu, each under a hereditary Halzi'a, whose grain-render is reckoned by an Overseer of the Granaries at Anlagh-Zetun for the throne; the empire's grain basket and the most numerous of the four selat-classes.
     ranks:
       - level: 0
         title: Outcast
@@ -32,22 +32,20 @@ data:
         description: >-
           A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
+      Overseer of the Granaries: >-
+        Named by the Gar-Au and keeping office at Anlagh-Zetun, he reckons the grain-render of the eighteen selatu after each harvest and reports to the throne what each owes. The stores stay under the Halzi'a of Anlagh-Zetun. Held by a Zabu.
       Halzi'a: >-
-        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+        Hereditary governor of one of the eighteen river selatu, a landowner whose wealth is reckoned in granaries. Held by a Zabu.
+      Granary-Keeper: >-
+        Warden of a selat's granaries, answerable for every sack received in render and every sack sent downriver. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a selat's bureau, where the fields are measured again after each flood and the render is assessed. Held by a Zelar.
       Legha'lutu: >-
         Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
-      Zabet: >-
-        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
-      Zemelu: >-
-        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
-      Overseer of Scribes: >-
-        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
-      Halzi'a's Steward: >-
-        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
-      Canal-Warden: >-
-        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: anlaghzetun
   population: 8000000
   territorial_population: 8000000
@@ -87,7 +85,7 @@ Grain is the foundation: wheat, barley and millet, grown on flood-silt and on la
 
 ## The Selatu
 
-Eighteen selatu make up the upper-river class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Each has its own note; the table is the roster.
+Eighteen selatu make up the upper-river class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). After each harvest their grain-render is reckoned by the Overseer of the Granaries, whom the Gar-Au names and who keeps office at Anlagh-Zetun, so that the throne knows what each selat owes. Each selat has its own note; the table is the roster.
 
 | Selat                                                     | Seat                                | Patron                                                        | Population | Character                                                                                                                                   |
 | --------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -112,6 +110,18 @@ Eighteen selatu make up the upper-river class, each under its hereditary [[affil
 
 Upper-river total: about 8,000,000.
 
+## Current Situation {#present}
+
+The eighteen river selatu grow the empire's grain, and two low floods have made the harvest the empire's anxiety. The Overseer of the Granaries, who keeps office at [[place-anlaghzetun|Anlagh-Zetun]], reckons the grain-render of every selat after each harvest and reports to the throne what each owes. The figures he reports are lower than the court expected and cannot easily be disputed: the Measure explains most of the shortfall. The Granary-Keepers answer for every sack received and every sack sent downriver, and each of them knows what the sacks sent downriver are being asked to do.
+
+The Halzi'a of the river are conservative landowners who measure time in floods, and the capital suspects them of holding back more than the flood obliges them to lose. Their scribes enter each shortfall as the river's. Nobody has defied the throne. The feud between the river traditionalists and the Gar-Au's reformers is older than this reign, and the failing flood gives the traditionalists their best argument: that a throne which cannot keep the river should not tell the river's lords how to keep their grain.
+
+:::secret {title="The river lords' granary books"}
+A Halzi'a keeps part of the render in his own sacks against a third bad year, and his scribes enter the sacks as the river's shortfall. The suspicion in the capital is correct.
+:::
+
+[[being-anlaghur|Anlaghur]], the Gar-Au's nephew, is at home in Anlagh-Zetun, the group's seat. The question of the succession has a landlord's address, and the Halzi'a of the upper river, who hold the grain that decides the capital's winter, are courted by every faction that would have it answered differently. The upper river has shut its granaries against a throne before, and [[place-eleventhgran|the Eleventh Granary]] is still sealed.
+
 ## For the Worldbuilder
 
 Run the upper river as the empire's deep, conservative interior—temple-bound, hereditary and slow to change, a country of granaries and gods. The real powers are the landowning Halzi'a and the high priests of the great cult-temples, and the capital's writ runs only as far as the Halzi'a allow.
@@ -133,7 +143,7 @@ The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], but m
 [[place-zumeleshrvr|The Zumelesh]]
 : the river that floods these fields
 
-[[place-zelgeru|The Zelgeru]]
+[[lore-zelgeru|The Zelgeru]]
 : the great temple-estates
 
 [[affiliation-khelathpnthn|Khelathi Pantheon]]

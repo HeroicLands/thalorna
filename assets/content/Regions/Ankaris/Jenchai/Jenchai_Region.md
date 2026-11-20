@@ -9,14 +9,17 @@ data:
   demonym: Jenchai
   lore: [humanflk]
   parents: [ankrscntnnt]
+  borders: [{to: easternstrt, bearing: W}]
+  routes: [{to: easternstrt, bearing: W, mode: ship, days: 1, terrain: [open-sea]}]
   population: 500000
   packFolder: jenchai
+  culture: jenchaiclt
   government: jenchaiempr
 
 # terran_analog: Japanese archipelago (mountainous volcanic islands)
 ---
 
-The Jenchai Region is the eastern archipelago of the [[place-ankrscntnnt|Ankaris Continent]]—a great volcanic island, a lesser island and their islets, carrying nine mountains and separated from the [[place-tantsouregin|Tantsou]] mainland by a treacherous strait. The islanders call the land Teyan Jenjai, the Nine Mountains Above the Clouds of Heaven, and Jenjai in everyday speech; the mainland's dismissive name for it is Chaiwong. It is dominated politically by the sovereign [[affiliation-jenchaiempr|empire of Jenchai]], which the [[affiliation-tantsouempr|Empire of Tantsou]] has for a thousand years refused to recognize—considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the [[lore-mandatehvn|Celestial Mandate]] that Tantsou, in their telling, has long since forfeited.
+The Jenchai Region is the eastern archipelago of the [[place-ankrscntnnt|Ankaris Continent]]—a great volcanic island, a lesser island and their islets, carrying nine mountains and separated from the [[place-tantsouregin|Tantsou]] mainland by a treacherous strait. The islanders call the land Teyan Jenjai, the Nine Mountains Above the Clouds of Heaven, and Jenjai in everyday speech; the mainland's dismissive name for it is Chaiwong. It is dominated politically by the sovereign [[affiliation-jenchaiempr|Jenchai Empire]], which the [[affiliation-tantsouempr|Empire of Tantsou]] has for a thousand years refused to recognize—considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the [[lore-mandatehvn|Celestial Mandate]] that Tantsou, in their telling, has long since forfeited.
 
 Where the Tantsou Region is a continental civilization of imperial bureaucracy and ordered plains, Jenchai is its mirror-opposite: maritime, feudal, warrior-aristocratic, and shaped at every turn by the discipline of life on steep, narrow islands.
 
@@ -24,7 +27,7 @@ Where the Tantsou Region is a continental civilization of imperial bureaucracy a
 
 The archipelago takes its name—"Nine Mountains"—from its nine volcanic peaks, eight on the great island and one on the lesser island at the strait's mouth. Each peak serves as both geographic center and cultural emblem of the province around it, and each province is named for a feature of its mountain. The great mountains rise straight out of the sea, their shoulders terraced for rice and their summits kept for shrines. Between them, coastal plains are narrow but intensively cultivated; interior valleys hold forests of cedar, pine, and sacred bamboo. The north is harsh and cold, the south mild, and the east faces the open ocean. The Emperor's own mountain, [[place-zojai|Zojai]], stands in the interior of the great island, with the capital [[place-lengwou|Lengwou]] on its lowest slope and the observatory mountain [[place-zijai|Zijai]] beside it.
 
-The strait separating Jenchai from the mainland is the archipelago's single most important defensive feature. Notorious for sudden storms and shifting currents, it has repeatedly wrecked Tantsou invasion fleets and has shaped the islanders' attitude toward the sea as something closer to reverence than mastery. Shrines to the storm-aspect of the [[affiliation-tengwouronglei|Celestial Order]] stand at every significant headland.
+[[place-easternstrt|The Eastern Strait]], separating Jenchai from the mainland, is the archipelago's single most important defensive feature. Notorious for sudden storms and shifting currents, it has repeatedly wrecked Tantsou invasion fleets and has shaped the islanders' attitude toward the sea as something closer to reverence than mastery. Shrines to the storm-aspect of the [[affiliation-tengwouronglei|Celestial Order]] stand at every significant headland.
 
 Beyond the two main islands, scores of smaller islands and islets stretch out in braided chains toward the open ocean. Many of these lesser islands are uninhabited or only seasonally occupied by fishermen, smugglers, and hermit-priests. The volcanic activity that built the chain is still active: eruptions, hot springs, and periodic earthquakes are part of ordinary Jenchai life and are interpreted theologically as heaven's continuing attention to its favored land.
 
@@ -42,7 +45,7 @@ The Jenchai call every ritual death, ordered or chosen, [Rwising]{.name data-typ
 
 ## Religion
 
-The islands' faith is a divergent form of the Celestial Order. The broad pantheon—[[lore-tanzhodty|Tanzho]], the Celestial Dragon, and [[lore-weizhuodty|Weizhwo]], the Jade Sovereign, Minister of Storms, Minister of the Moon, the [[lore-fvlmntlrds|Five Elemental Lords]]—is recognizable, but interpretation has fragmented along regional and domain lines. Coastal provinces elevate the storm and sea aspects; mountain provinces emphasize earth and metal; island shrines host cults specific to their locality. Each Great Lord claims some portion of heavenly favor for his own line, and the Mandate of Heaven—which in Tantsou is held singularly by the Emperor—has fractured into competing local claims; the Emperor's is the one claim to the whole.
+The islands' faith is a divergent form of the Celestial Order. The broad pantheon—[[lore-tanzhodty|Tanzho]], the Celestial Dragon, and [[lore-weizhuodty|Weizhwo]], the Jade Sovereign, [[lore-raoguidty|Raugwi]], the Minister of Storms, [[lore-youweidty|Youbwi]], Keeper of the Jade Seal, the [[lore-fvlmntlrds|Five Elemental Lords]]—is recognizable, but interpretation has fragmented along regional and domain lines. Coastal provinces elevate the storm and sea aspects; mountain provinces emphasize earth and metal; island shrines host cults specific to their locality. Each Great Lord claims some portion of heavenly favor for his own line, and the Mandate of Heaven—which in Tantsou is held singularly by the Emperor—has fractured into competing local claims; the Emperor's is the one claim to the whole.
 
 The ceremonial Emperor of Jenchai serves this fragmented theology well: his role is to hold the symbolic center while the Great Lords pursue their regional pieties.
 
@@ -50,7 +53,15 @@ The ceremonial Emperor of Jenchai serves this fragmented theology well: his role
 
 Real authority lies with a handful of **Dauzhwo**—Great Lords—who rule their provinces as effectively independent fiefdoms, each with its own army, justice, taxes, and foreign policy. Below them sit the **Shwizhwo**, lesser lords who pledge personal allegiance in exchange for land. The **Rongleng Tengzhei** ("Son of Heaven of Ten Thousand Dawns") sits at the ceremonial apex, distributing honor but commanding nothing.
 
-The current balance rests on three or four roughly equal Dauzhwo, none willing to risk open war against a coalition of the others. Every generation or so this balance collapses into open civil war before a new equilibrium emerges; the last collapse was the [War of the Empty Seat]{.name data-type="lore/history"}, 709–712 AF. The office of Teng Ja, the Emperor's sword-arm and the one lord the others obey while it is held, has stood vacant since 709 AF, and the race to fill it drives the politics of the eight domains. See [[affiliation-jenchaiempr|Jenchai]] for the detailed political structure.
+The current balance rests on three or four roughly equal Dauzhwo, none willing to risk open war against a coalition of the others. Every generation or so this balance collapses into open civil war before a new equilibrium emerges; the last collapse was the [[lore-empseatwar|War of the Empty Seat]], 709–712 AF ([[lore-hstryjenchai|The History of Jenchai]]). The office of Teng Ja, the Emperor's sword-arm and the one lord the others obey while it is held, has stood vacant since 709 AF, and the race to fill it drives the politics of the eight domains. See [[affiliation-jenchaiempr|Jenchai]] for the detailed political structure.
+
+## Current Situation {#present}
+
+In 720 AF the eight houses that hold their mountains around the Emperor's own wait on one decision. The Emperor [[being-weilengjnch|Weileng]], nineteen and of age, has not conferred the vacant office of Teng Ja, and every domain shapes its year around the vacancy. The Strait bloc of Shuiwojai and Rinjai backs [[being-henzoshuiwo|Shuiwojai Henzo]], whose silver carries the court. The loyalists, Hojujai and Muwojai, hold for the Hojujai heir. Zenjai and Wojai are courted by both, and either one's choice ends the balance among the Nine.
+
+The signs of it are on the roads. Muwojai's garrisons and toll-keepers watch every envoy bound for [[place-lengwou|Lengwou]], and the lords' envoys fill the town's inns ahead of the Dawn Rite, where the seating is the year's political map. [[place-hojai|Hojai]] rumbles, and the omen-readers disagree on what it says of the regent who holds the mountain. In the north the granaries are empty after a winter on half rations.
+
+On the water the strait is busy and watched. Shuiwojai and Rinjai ships take tolls and plunder, merchants cross for jade and silver, and the islanders and the mainland trade goods while holding each other in contempt.
 
 ## Trade
 
@@ -76,6 +87,9 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the mainland empire from which the archipelago broke away
 
+[[place-easternstrt|The Eastern Strait]]
+: the water between the archipelago and the mainland
+
 [[affiliation-tengwouronglei|Celestial Order]]
 : the shared pantheon, divergently interpreted
 
@@ -85,16 +99,20 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
 
-[[place-hojai|Fire Peak]]
+[[place-hojai|Hojai]]
 
-[[place-tsuijai|Iron Peak]]
+[[place-tsuijai|Tsuijai]]
 
-[[place-yujai|Moon Peak]]
+[[place-yujai|Yujai]]
 
-[[place-rinjai|Red Peak]]
+[[place-rinjai|Rinjai]]
 
-[[place-zenjai|Snow Peak]]
+[[place-zenjai|Zenjai]]
 
-[[place-rojai|Thunder Peak]]
+[[place-rojai|Rojai]]
 
-[[place-wejai|Wind Peak]]
+[[place-wejai|Wejai]]
+
+[[place-zijai|Zijai]]
+
+[[place-zojai|Zojai]]

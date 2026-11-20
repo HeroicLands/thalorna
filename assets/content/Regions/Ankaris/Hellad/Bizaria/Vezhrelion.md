@@ -3,7 +3,7 @@ shortcode: vezhrelion
 name: {full: Vezhrelion}
 type: place
 subType: settlement
-description: "A pass town of about 3,000 on the road between Órashion and the eastern passes, held by Órashion, where the clans of the high holds trade and the Black Flame keeps a quiet presence."
+description: "A pass town of about 3,000 on the road between Órashion and the eastern passes, held by Órashion, where the clans of the high holds trade, in country where the Black Flame has a strong presence."
 tags: [town, pass]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   type: town
   government: orashion
   packFolder: byzaria
-  notes: "A pass town of about 3,000 on the road between Órashion and the eastern passes, held by Órashion, where the clans of the high holds trade and the Black Flame keeps a quiet presence."
+  notes: "A pass town of about 3,000 on the road between Órashion and the eastern passes, held by Órashion, where the clans of the high holds trade, in country where the Black Flame has a strong presence."
 ---
 
 ## Overview {#overview}
@@ -31,7 +31,7 @@ The town stands where goods change hands between the League and the clans of the
 
 ## Who Rules and Keeps Order {#who-rules}
 
-[[affiliation-orashion|Órashion]] holds the town, and the merchant-diplomat house that brokers with the holds keeps a factor in it. A guild bailiff runs the gate and the market, a company of Órashion's guards holds the wall, and the League's pass-fort stands above the town under an officer of the [[place-eastrnmrch|Eastern March]]. Clan envoys are given a guest hall, and no clansman goes armed through the market street.
+[[affiliation-orashion|Órashion]] holds the town, and the merchant-diplomat house that brokers with the holds keeps a factor in it. A guild bailiff runs the gate and the market, a company of Órashion's guards holds the wall, and the pass-fort the League staffs stands above the town under an officer of the [[place-eastrnmrch|Eastern March]]. Clan envoys are given a guest hall, and no clansman goes armed through the market street.
 
 ## The Present {#present}
 

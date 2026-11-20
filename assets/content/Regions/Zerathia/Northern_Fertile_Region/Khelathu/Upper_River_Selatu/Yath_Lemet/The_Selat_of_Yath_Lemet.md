@@ -66,6 +66,10 @@ The Selat of Yath-Lemet is one of the eighteen provinces of [[affiliation-upperr
 
 The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Yath-Lemet governs fewer people than anyone else on the upper river, in a valley so narrow that farmers, villages and river-beasts share the same banks. His seat is Yath-Lemet, where he keeps his court and the chief temple of Chelsur stands.
 
+## Current Situation {#present}
+
+Yath-Lemet is the smallest of the upper selatu, a gorge-stretch where the valley pinches and the farmers, the villages and the river-beasts share the same narrow banks. A low river leaves the crocodiles and the farmers in the same few pools, and the temple of Chelsur at the seat is called on more often than the Halzi'a's courts. The tribute he owes is small, and its absence would be seen. He sends it, all of it, a week late, with a clerk's note about the river. The Halzi'a governs fewer people than anyone on the upper river and holds no granary worth the name, and the selat's quiet hope is that its smallness keeps it out of the court's attention, which the larger selatu, with more to withhold, cannot hope for.
+
 ## Commerce and Currency {#commerce}
 
 Yath-Lemet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

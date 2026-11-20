@@ -1,8 +1,8 @@
 ---
 shortcode: kirobashkm
-name: {full: Kiroba of the Shókuma, given: Kiroba, clan: Shókuma}
+name: {full: Kiroba of the Shókuma}
 type: being
-subType: character
+subType: npc
 tags: [heroes-and-knaves, hero, tradesfolk]
 data:
   icon: icon-person
@@ -452,7 +452,7 @@ Kiroba stands at 5'11" with a lean but muscular build, weighing around 170 pound
 
 ### Early Life and Family Background
 
-Kiroba hails from the **[[affiliation-shokumatrb|Shókuma Tribe]]** of the [[lore-okharinclt|Okharin]] people, living near the rainforests, where rivers twist through the landscape and connect them to the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. His tribe, known for their fierce independence and spiritual connection to nature, rely heavily on river travel and the bounties of the forest. From a young age, Kiroba was marked by strange visions and a deep sensitivity to the Zohira, the spirits that govern the winds, rivers, and wildlife of the jungle. Under the guidance of the tribe’s elder shamans, Kiroba learned to communicate with these spirits, offering rituals and sacrifices to keep the tribe in balance with the natural world.
+Kiroba hails from the **[[affiliation-shokumatrb|Shókuma Tribe]]** of the [[lore-okharinclt|Okharik]] people, living near the rainforests, where rivers twist through the landscape and connect them to the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. His tribe, known for their fierce independence and spiritual connection to nature, rely heavily on river travel and the bounties of the forest. From a young age, Kiroba was marked by strange visions and a deep sensitivity to the Zohira, the spirits that govern the winds, rivers, and wildlife of the jungle. Under the guidance of the tribe’s elder shamans, Kiroba learned to communicate with these spirits, offering rituals and sacrifices to keep the tribe in balance with the natural world.
 
 ### Initiation as a Shaman
 
@@ -527,23 +527,31 @@ The Final Trial—The Oracle of Bones
 
 ### Challenges for Kiroba
 
-Infiltration of [[being-legirha|Legirha]]’s Circle
-: Kiroba must find a way to uncover the full extent of Legirha’s secret society. He will need to infiltrate the inner circles of the [[place-akhozamenlaa|Akhoza-Menlaa]], using his connection to the Zohira to learn about their experiments and plans. Along the way, he may find unlikely allies within [The Guilded Talon]{.name data-type="affiliation"}, who are quietly working to expose Legirha’s faction.
+Rumors of Legirha’s Circle
+: Rumor places a circle of mages around Master [[being-legirha|Legirha]] at [[place-akhozamenlaa|Akhoza-Menlaa]], a site no Khelathi record names. Kiroba must find the site and learn what the circle does there. He may find allies within [The Guilded Talon]{.name data-type="affiliation"}, which is said to watch such circles.
+
+:::secret {title="What Legirha’s circle does"}
+Legirha’s circle experiments on the spirit realm and works to bind the Zohira. Kiroba can learn of those experiments only by infiltrating the inner circles of Akhoza-Menlaa, using his connection to the Zohira.
 
 Uncovering the Ritual of Binding
 : Legirha’s faction is on the verge of perfecting a dangerous **binding ritual** that will allow them to enslave the Zohira. Kiroba must locate the ritual site, hidden deep within the [[place-khzryndsrtrgn|Khazrin Desert]], and disrupt the preparations before it is too late. Along the way, Kiroba will need to evade both Legirha’s agents and the empire’s authorities, who are increasingly drawn into the intrigue surrounding the rogue mages faction.
 
+Confrontation with Legirha
+: Kiroba’s journey culminates in a confrontation with Master Legirha and her faction. He can confront her directly or rely on the Guilded Talon to dismantle her plans from within. Legirha, well aware of the danger the Guilded Talon poses, is prepared to use her powerful mental manipulation to turn Kiroba’s own thoughts and fears against him. In this final battle, Kiroba will face Legirha’s magical might and the full weight of her ambition and influence within the empire.
+:::
+
 Avoiding the Guilded Talon
-: Although the Guilded Talon opposes Legirha’s plans, they are suspicious of all who seek to tamper with the balance of mystical powers, including Kiroba. He must tread carefully, trying to gain the trust of the Guilded Talon without becoming a target of their zealous protection of balance. He can work with them or stay out of their sight, as their methods of enforcing balance can be harsh and unforgiving.
+: The Guilded Talon is suspicious of all who seek to tamper with the balance of mystical powers, including Kiroba. He must tread carefully, trying to gain the trust of the Guilded Talon without becoming a target of their zealous protection of balance. He can work with them or stay out of their sight, as their methods of enforcing balance can be harsh and unforgiving.
 
 [[affiliation-genzetyalgu|Genzet'Yalgu]]
-: While Kiroba seeks to stop Legirha’s plans, the political intrigue of the Khelathi nobility looms large. Various factions within the court are eager to manipulate the situation for their own gain, with some seeing Kiroba as a valuable pawn in their power games. Among these factions, Kiroba must find those who are willing to help, while avoiding betrayal and manipulation by those who seek to exploit the power struggle within the [Guild of Esoteric Crafts]{.name data-type="affiliation/guild"}.
-
-Confrontation with Legirha
-: Kiroba’s journey culminates in a confrontation with Master [[being-legirha|Legirha]] and her faction. He can confront her directly or rely on the Guilded Talon to dismantle her plans from within. Legirha, well aware of the danger the Guilded Talon poses, is prepared to use her powerful mental manipulation to turn Kiroba’s own thoughts and fears against him. In this final battle, Kiroba will face Legirha’s magical might and the full weight of her ambition and influence within the empire.
+: While Kiroba follows the rumors about Legirha’s circle, the political intrigue of the Khelathi nobility looms large. Various factions within the court are eager to manipulate the situation for their own gain, with some seeing Kiroba as a valuable pawn in their power games. Among these factions, Kiroba must find those who are willing to help, while avoiding betrayal and manipulation by those who seek to exploit the power struggle within the [Guild of Esoteric Crafts]{.name data-type="affiliation/guild"}.
 
 The Corruption of [Bákines Falari]{.name data-type="being/npc"}
-: On the final leg of Kiroba’s journey, he encounters **Bákines Falari**, a wealthy and influential trader from the Matriarchy of Bethua who has been dabbling in dark spiritual practices. Bákines seeks to capture Kiroba, believing that his knowledge of the spirit world will grant him control over the forces of nature and increase his power in the principalities. Bákines has already enslaved several Shókuma shamans and drained them of their knowledge. Kiroba must free the captured shamans and confront Bákines before the trader’s dark experiments lead to a spiritual cataclysm. To do this, Kiroba will need to use both his cunning and his connection to the spirits, finding a way to outmaneuver Bákines’s mercenaries and unravel his web of influence.
+: On the final leg of Kiroba’s journey, he encounters **Bákines Falari**, a wealthy and influential trader from the Matriarchy of Bethua who is rumored to dabble in dark spiritual practices. Bákines seeks to capture Kiroba, believing that his knowledge of the spirit world will grant him control over the forces of nature and increase his power in the principalities. Several Shókuma shamans have gone missing. Kiroba must find them and confront Bákines. To do this, Kiroba will need to use both his cunning and his connection to the spirits, finding a way to outmaneuver Bákines’s mercenaries and unravel his web of influence.
+
+:::secret {title="What Bákines has done to the Shókuma shamans"}
+Bákines has already enslaved several Shókuma shamans and drained them of their knowledge. Kiroba must free the captured shamans and confront Bákines before the trader’s dark experiments lead to a spiritual cataclysm.
+:::
 
 ## Psyche
 
@@ -567,8 +575,8 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 Elder Shaman [Ishuara]{.name data-type="being/npc"}
 : Kiroba’s mentor and spiritual guide, Ishuara remains in [[place-shokumavlg|the Shókuma village]], offering guidance through rituals and dreams. She warns him of dangers ahead and occasionally provides spiritual aid in the form of protective charms.
 
-Chief [[being-ntembakasara|Ntemba]]
-: The chief of Kiroba’s tribe, Ntemba, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
+Chieftain [[being-ntembakasara|Ntemba]]
+: The chieftain of Kiroba’s tribe, Ntemba, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
 
 ### Enemies
 
@@ -584,7 +592,11 @@ The Khamwesi Pack Leader
 : When her village began suffering from the same spiritual imbalance plaguing the Shókuma lands, she decided to join Kiroba, believing their fates are tied in restoring balance.
 
 [[being-izaretgulzkr|Izaret Gul'Zekeru]]
-: After uncovering secret experiments to disrupt the spiritual balance, Izaret fled Au'Khelathu and sought out Kiroba, hoping that together they could restore the balance.
+: Izaret fled Au'Khelathu over something learned at court and sought out Kiroba, hoping that together they could restore the balance.
+
+:::secret {title="What Izaret learned at court"}
+Izaret fled after uncovering the secret experiments to disrupt the spiritual balance, the work of Legirha’s circle.
+:::
 
 ## Plot Hooks
 
@@ -595,11 +607,13 @@ The Hunt for the Khamwesi
 : As Kiroba approaches the Yanda Zohiring mountains, he is warned by local tribes of the growing danger posed by the khamwesi, massive land-crocodiles that have been terrorizing villages. These creatures are said to be controlled by a dark spirit, one that feeds on fear and chaos. To continue his journey and gain the favor of the Oracle of Bones, Kiroba must first defeat the khamwesi and release the spirits that have been bound to the beasts. However, the khamwesi are not ordinary creatures—they possess both physical and spiritual defenses, requiring Kiroba to outwit and overpower them using both shamanic rituals and his hunter’s instincts.
 
 The Shadow War of the Akhoza-Menlaa
-: Kiroba’s journey into the [[affiliation-empireakhlth|Empire of Au'Khelathu]] takes him into a world of secretive power struggles within the elite arcane circles. At the heart of this conflict is Master Legirha, leader of a clandestine society within the **Spirit** domain, which seeks to expand its influence over the empire by manipulating the minds and emotions of key political figures. Legirha’s mastery of the spiritual arcane arts allows her to tap into the spiritual forces of the Zohira, the nature spirits of Zerathia, whom she seeks to bind and control in order to increase her faction's power within Au'Khelathu.
+: Kiroba’s journey into the [[affiliation-empireakhlth|Empire of Au'Khelathu]] takes him into a world of secretive power struggles within the elite arcane circles. Master Legirha is said to lead a clandestine society within the **Spirit** domain, and the court speaks of her influence over the minds of key political figures.
 
-    Legirha’s secret society operates from within the shadows, influencing the Court of the Nine Moons and directing imperial policies through subtle mental manipulation. Their ultimate goal is to use the power of the Zohira to create an unassailable position of influence in the empire, effectively controlling the nobility and the spirits that govern natural forces alike. To achieve this, Legirha and her followers are developing a ritual to permanently bind the Zohira, forcing them into servitude for Au'Khelathu’s expansionist designs.
+:::secret {title="Legirha's society and the Guilded Talon"}
+Legirha’s mastery of the spiritual arcane arts lets her tap into the Zohira, the nature spirits of Zerathia, whom she seeks to bind and control in order to increase her faction's power within Au'Khelathu. Her secret society operates from within the shadows, influencing the Court of the Nine Moons and directing imperial policies through subtle mental manipulation. Their ultimate goal is to use the power of the Zohira to create an unassailable position of influence in the empire, effectively controlling the nobility and the spirits that govern natural forces alike. To achieve this, Legirha and her followers are developing a ritual to permanently bind the Zohira, forcing them into servitude for Au'Khelathu’s expansionist designs.
 
-    However, Legirha’s faction is constantly on guard against the Guilded Talon, a powerful society within the Guild of Esoteric Crafts dedicated to maintaining balance. The Guild of Esoteric Crafts relies on the Guilded Talon as enforcers of its laws, and the members of the Guilded Talon are relentless in their pursuit and destruction of anyone attempting to disrupt the laws of the Guild of Esoteric Crafts. If the Guilded Talon becomes aware of Legirha’s plans to enslave the Zohira, they will stop at nothing to thwart her. Legirha and her followers must therefore move carefully, expanding their influence while avoiding the scrutiny of the Guilded Talon and the empire’s other powers.
+Legirha’s faction is constantly on guard against the Guilded Talon, a powerful society within the Guild of Esoteric Crafts dedicated to maintaining balance. The Guild of Esoteric Crafts relies on the Guilded Talon as enforcers of its laws, and the members of the Guilded Talon are relentless in their pursuit and destruction of anyone attempting to disrupt those laws. The Guilded Talon opposes Legirha’s plans to enslave the Zohira and is quietly working to expose her faction, and it will stop at nothing to thwart her. Legirha and her followers must therefore move carefully, expanding their influence while avoiding the scrutiny of the Guilded Talon and the empire’s other powers.
+:::
 
 The Zohira’s Call
 : Kiroba begins to experience vivid dreams of the Zohira, the jungle spirits, showing rivers running dry and animals turning against the villagers. These visions point to a massive, unnatural dam constructed by a faction of outsiders seeking to control the region’s waterways for profit. Kiroba must rally his people and determine how to approach the outsiders—through diplomacy or force—to restore balance and protect the spirits’ domain.

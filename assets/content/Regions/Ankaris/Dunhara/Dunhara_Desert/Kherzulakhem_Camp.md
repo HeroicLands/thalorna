@@ -23,7 +23,13 @@ data:
         title: Camper
         description: >-
           Waters at the oasis under the Laws of the Well.
-    offices: {}
+      - level: 2
+        title: Keeper of the Basin
+        description: >-
+          Draws the stone basin's water in turn for every camper and holds the peace beside it.
+    offices:
+      Keeper of the Basin: >-
+        Holder of the basin and of the order in which hunters, trackers and their animals water, whose word keeps the peace of the camp at the water under the Laws of the Well.
   seat: kherzulakhem
   population: null
   territorial_population: 400
@@ -36,3 +42,9 @@ sohl: {system: {commonSkills: [dunharlng]}}
 ---
 
 Kherzulakhem Camp is the gathering of hunters and trackers at the oasis of [[place-kherzulakhem|Kherzulakhem]]. Nobody lives there the year round. The [Laws of the Well]{.name data-type="lore/law"} keep the peace between those who water there, trade hides and sleep in the shade, however their tribes stand.
+
+The Keeper of the Basin holds the order in which hunters, trackers and their animals water, and the peace beside the water. [[being-atenhershr|Atazkharu Oroqidur]], the Khazrin wanderer who calls the camp home between his journeys, holds the keeping in the seasons he spends there. While he travels, the campers draw the basin in the order he set, and the eldest hunter at the water holds the peace in his name.
+
+## History {#history}
+
+The camp has no founding in anyone's recitation. The seep gives water for people and riding animals and none for a herd, so no tribe has ever tried to hold it, and hunters of the Dunhara and the [[place-khzryndsrtrgn|Khazrin]] have watered there together under the Laws of the Well for as long as either desert remembers. The Sovidur raids on the northern wells, the feuds of the northern tribes and the wars of the steppe have all passed it by, because the basin is worth more to every side as a peace than as a prize.

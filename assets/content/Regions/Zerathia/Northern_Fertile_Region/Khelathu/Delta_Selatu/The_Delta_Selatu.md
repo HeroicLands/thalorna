@@ -13,7 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A class of ten delta selatu, each under a hereditary Halzi'a; the wealthiest and most outward-looking of the empire's provinces.
+      A class of ten delta selatu, each under a hereditary Halzi'a, whose ports answer to an Overseer of the Sea-Gate at Gar-Anlaghet for the Gar-Au's customs duty and their foreign factors; the wealthiest and most outward-looking of the empire's provinces.
     ranks:
       - level: 0
         title: Outcast
@@ -32,22 +32,22 @@ data:
         description: >-
           A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
+      Overseer of the Sea-Gate: >-
+        Named by the Gar-Au and keeping office at Gar-Anlaghet, he collects the Gar-Au's customs duty at the ten delta selatu, licenses the foreign factors and their warehouses, and answers to the throne for the customs. Each selat keeps its own harbor fees. Held by a Zabu.
       Halzi'a: >-
-        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+        Hereditary governor of one of the ten delta selatu, as much merchant and diplomat as governor. Held by a Zabu.
+      Harbor-Master: >-
+        Keeper of a delta port's quays and anchorage, who berths the ships, holds the bonded warehouses and settles the quarrels of the waterfront. Held by a Zabu.
+      Customs-Scribe: >-
+        Assessor of the dues on a cargo, entering every bale and jar that crosses a quay in the customs rolls. Held by a Zelar.
+      Dike-Warden: >-
+        Keeper of a stretch of the delta's dikes, channels and marsh-cuts, on which the garden strip and the ports both depend. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a selat's bureau, where the trade of the delta is reckoned for the treasury. Held by a Zelar.
       Legha'lutu: >-
         Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
-      Zabet: >-
-        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
-      Zemelu: >-
-        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
-      Overseer of Scribes: >-
-        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
-      Halzi'a's Steward: >-
-        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
-      Canal-Warden: >-
-        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: garanlaghet
   population: 6000000
   territorial_population: 6000000
@@ -93,7 +93,7 @@ Trade and garden farming drive the Delta. Its ports handle the whole of the empi
 
 ## The Selatu
 
-Ten selatu make up the delta class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Each has its own note; the table is the roster.
+Ten selatu make up the delta class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Their ports answer for the Gar-Au's customs duty and their foreign factors to the Overseer of the Sea-Gate, whom the Gar-Au names and who keeps office at Gar-Anlaghet. Each selat has its own note; the table is the roster.
 
 | Selat                                                   | Seat                                | Patron                                                      | Population | Character                                                                                                                        |
 | ------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -109,6 +109,14 @@ Ten selatu make up the delta class, each under its hereditary [[affiliation-empi
 | [[affiliation-selatseltltr\|The Selat of Selat-Leteru]] | [[place-yathleteru\|Yath-Leteru]]   | [[lore-uzneradty\|Uzn'era]]                                 | ~150,000   | The shrine-islands; a quiet pilgrimage selat of marsh-temples and few people                                                     |
 
 Delta total: about 6,000,000.
+
+## Current Situation {#present}
+
+The delta is where a short flood is felt in the markets before it is felt in the fields. The marshes draw less water from the river's tail, the flax and papyrus beds come in thin, and the ports see grain from abroad priced above anything the valley has charged in living memory. The ten Halzi'a are merchants and diplomats as much as governors, and they hold the ready silver that the throne needs to buy grain from over the sea. That gives them a bargaining position, and every one of them uses it a little: the render comes late, and the Gar-Au's customs duty arrives with a clerk's note about the season.
+
+The Overseer of the Sea-Gate at Gar-Anlaghet answers to the throne for the customs at all ten selatu. He licenses the foreign factors and their warehouses, and in a year when every cargo of grain is political he decides which factors get a berth first. Taruzelian and Vilérian factors watch the ports for signs of a weak court; Bethuan Trade-Houses, with the surplus their aqueducts give them, are asked to sell, and the price is argued in the counting-houses of Gar-Anlaghet.
+
+The Dike-Wardens keep the channels and marsh-cuts open against a lowered river, and the Harbor-Masters keep the quays, where grain is now the cargo every ship is asked about. The merchant families have long held the selatu's weight at court. The failing flood makes them the Halzi'a who could pay the throne's bills or refuse to, and the throne learns which only when the grain ships fall due.
 
 ## For the Worldbuilder
 

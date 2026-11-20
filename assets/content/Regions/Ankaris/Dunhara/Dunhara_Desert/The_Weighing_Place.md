@@ -25,7 +25,7 @@ Vazhmavad is not a settlement: the three hundred counted there are the gathering
 
 The poets are alive. Their eyes are open and they walk the paths between the palms, and they recite. They recite the genealogies of other people's lines, sentence after sentence, in even voices, and they do not know their own names. If they are asked who they are, they begin another line.
 
-The oasis is held by [Melkhur]{.name data-type="being/npc"}, a poet by training and a sorcerer by choice. He speaks pleasantly and walks under the palms with his hands behind him. He is a thin, gentle-faced man in the dyed blue of a poet's sash. The tribes say he takes a name as other men take a coin: by asking for it, and being given it. A tribe's genealogy goes, and with it the tribe's standing in the recitation, and with that the tribe's claim to wells and wives and herds. His raiders, who are called [the Unrecited]{.name data-type="affiliation/criminal"}, are men and women whose names he has taken. They have no kin to shame them and no line to disgrace, and they strike caravans on the southern circuit and leave the survivors unable to say who they were.
+The oasis is held by [[being-mlkhr|Melkhur]], a poet by training and a sorcerer by choice. He speaks pleasantly and walks under the palms with his hands behind him. He is a thin, gentle-faced man in the dyed blue of a poet's sash. The tribes say he takes a name as other men take a coin: by asking for it, and being given it. A tribe's genealogy goes, and with it the tribe's standing in the recitation, and with that the tribe's claim to wells and wives and herds. His raiders, who are called [the Unrecited]{.name data-type="affiliation/criminal"}, are men and women whose names he has taken. They have no kin to shame them and no line to disgrace, and they strike caravans on the southern circuit and leave the survivors unable to say who they were.
 
 ## The Deepest Well
 
@@ -41,6 +41,12 @@ The source of the sorcery is below the deepest well of the oasis. Melkhur found 
 - A trader who passed through Vazhmavad and bought dates there came away speaking in the cadence of a man long dead.
 - [[being-trvshshrdr|Torvash Shiradar]]'s poets went to the weighing-place with a dispute and have not come back.
 - The judging poets do not speak of their own tribes at the gatherings.
+
+## Layers {#history}
+
+The palms are old and the benches older than any poet's account of them. For as long as the tribes recite, Vazhmavad was the weighing-place: a deep-welled oasis where the judging poets of the [[affiliation-bnchvzhmvd|Bench]] heard disputed recitations under a Truce-Warden's peace, and where apprentices tended the palms and learned the recitations of every tribe by listening at the benches.
+
+The weighing ended while the benches were still full. Disputes stopped being weighed at Vazhmavad, the poets recited lines that were not their own, and Melkhur, the poet who had come to hold the oasis, kept the deepest well for himself. The first of the Unrecited rode out from the palms onto the southern circuit. The caravans that did not come in after that, and the tribes that could not name their lost, turned the weighing-place into the place every guide routes around.
 
 ## The Hearing Season {#present}
 

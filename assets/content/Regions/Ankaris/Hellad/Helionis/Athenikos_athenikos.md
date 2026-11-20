@@ -11,7 +11,7 @@ data:
   symbol: null
   governance:
     model: oligarchy
-    summary: "Oligarchy of wealthy patron families, held inside the assembly, the council and the audited magistracies that every Helionite city keeps."
+    summary: "Oligarchy of wealthy patron families, held inside the assembly, the council and the audited magistracies that every Helionite city-state keeps."
     ranks:
       - level: 0
         title: Átimor
@@ -21,7 +21,7 @@ data:
         description: "Owned outright, with no standing before the law except through an owner."
       - level: 2
         title: Freedman
-        description: "Manumitted, working and trading in the city, and barred from the assembly for life."
+        description: "Manumitted, working and trading in the city-state, and barred from the assembly for life."
       - level: 3
         title: Metic
         description: "A resident foreigner, taxed and liable to the levy, with no vote and no right to own land."
@@ -33,10 +33,10 @@ data:
         description: "Chosen by lot to the council that prepares the assembly's business, for one year and never twice."
       - level: 6
         title: Magistrate
-        description: "Elected or allotted to an office of the city, its markets, its walls, its treasury, its courts, and audited at the end of the year."
+        description: "Elected or allotted to an office of the city-state, its markets, its walls, its treasury, its courts, and audited at the end of the year."
       - level: 7
         title: Strátimor
-        description: "Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit."
+        description: "Elected to command the city-state's forces, the one office the citizens elect rather than allot, and re-elect without limit."
       - level: 8
         title: Arsir
         description: "Presiding magistrate of the year, who gives it his name and hands it back, while the assembly remains sovereign throughout."
@@ -44,7 +44,7 @@ data:
       Arsir: "Presiding magistrate for the year, who gives the year his name; every record in Athenikos is dated by whoever held the office."
       Strátimor: "Elected commander of the forces of Athenikos by land and sea, the one officer the citizens elect."
       Councilor: "Member of the council chosen by lot to prepare the assembly's business, serving a single year."
-      Auditor: "Examiner of a retiring magistrate's ledgers, who alone says when the accounts agree; until he does, the magistrate may not leave the city."
+      Auditor: "Examiner of a retiring magistrate's ledgers, who alone says when the accounts agree; until he does, the magistrate may not leave the town."
   seat: athenikos2
   population: 210000
   territorial_population: 210000
@@ -58,7 +58,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview {#overview}
 
-A magistrate of Athenikos cannot leave the city until the auditor says his accounts agree. At the end of the year an auditor's clerk, bent over a retiring magistrate's ledgers, puts it plainly: "He may sail when I say the books balance, and not an hour before." The rule holds in every Helionite city-state, and Athenikos is one of them: a city-state of about 210,000 people governed by an oligarchy of its wealthy patron families. [[place-athenikos2|Athenikos]], with 7,000 of them, is its seat.
+A magistrate of Athenikos cannot leave the town until the auditor says his accounts agree. At the end of the year an auditor's clerk, bent over a retiring magistrate's ledgers, puts it plainly: "He may sail when I say the books balance, and not an hour before." The same rule binds a magistrate to the town or city where he served in every Helionite city-state, and Athenikos is one of them: a city-state of about 210,000 people governed by an oligarchy of its wealthy patron families. [[place-athenikos2|Athenikos]], with 7,000 of them, is its seat.
 
 Government
 : oligarchy of wealthy patron families
@@ -68,7 +68,7 @@ Seat
 
 ## Who Decides
 
-The patron families hold the city, and they hold it inside the forms the seven city-states share. The assembly of citizens stays sovereign. A council chosen by lot prepares its business and changes every year. The strátimor, the one officer the citizens elect, commands the city's forces. The arsir presides for a year and lends it his name, so every record in Athenikos is dated by whoever held the office.
+The patron families hold the city-state, and they hold it inside the forms the seven city-states share. The assembly of citizens stays sovereign. A council chosen by lot prepares its business and changes every year. The strátimor, the one officer the citizens elect, commands the city-state's forces. The arsir presides for a year and lends it his name, so every record in Athenikos is dated by whoever held the office.
 
 ## Standing and Relations
 

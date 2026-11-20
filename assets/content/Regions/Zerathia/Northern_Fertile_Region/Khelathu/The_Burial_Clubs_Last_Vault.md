@@ -46,7 +46,7 @@ The dead are [[being-damut|damutu]] after a fashion, but they were bound without
 
 The caravan road west of the river runs through dry country, and a day's walk from the cultivation brings a traveler to the cut hillside. There is no track from the road. A traveler who knows the quarry's old haul-way finds the dressed ramp that climbs to the vault mouth, and it is easier to find by night, by sound.
 
-The valley's guard, the [Meglai]{.name data-type="affiliation/governmental"}, patrol only the river and the canal heads. Out here a traveler answers to nobody and is answered by nobody.
+The valley's guard, the [[affiliation-meglai|Meglai]], patrol only the river and the canal heads. Out here a traveler answers to nobody and is answered by nobody.
 
 ## Hooks {#hooks}
 

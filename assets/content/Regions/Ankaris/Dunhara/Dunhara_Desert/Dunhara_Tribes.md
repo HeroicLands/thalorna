@@ -91,13 +91,21 @@ The Dunhari are master riders and pathfinders. They know where the hidden water 
 
 No one rules the tribes. A tribe is led by its **sheikh**, who holds his place by descent and by the consent of his elders together, and loses it when either fails. Beneath him the **householders** speak for their tents and herds, the **elders** settle what the young dispute by their memory of custom, and the **Keeper of the Feud** records blood owed and blood paid, without whom no settlement can be reckoned.
 
-Matters that touch more than one tribe go to the **common council** at Ghavulavad. Each tribe sends delegates who may argue and may not bind, and the **Speaker of the Council** keeps the peace of the meeting and the order of speaking and has no other power. The council's offices serve the tribes in common: the **Lawkeeper** holds the customs the tribes share and arbitrates where two tribes' customs differ; the **Truce-Warden** keeps the peace at the council and the seasonal markets; the **Water-Warden** keeps the wells and pastures the tribes share and the order in which they are used; the **Host-Caller** summons the common muster when a threat concerns them all; and an **Envoy** carries the council's word to a settled power, protected by custom while he carries it.
+Matters that touch more than one tribe go to the **common council** at Ghavulavad. Each tribe sends delegates who may argue and may not bind, and the **Speaker of the Council**, [[being-shrnzkhnsh|Sharanaz Khonash]], keeps the peace of the meeting and the order of speaking and has no other power. The council takes its Speaker from the palm-garden families of Ghavulavad, who follow no tribe's circuit, and the delegates give the Speaker's staff only to one whom every tribe accepts. The council's offices serve the tribes in common: the **Lawkeeper** holds the customs the tribes share and arbitrates where two tribes' customs differ; the **Truce-Warden** keeps the peace at the council and the seasonal markets; the **Water-Warden** keeps the wells and pastures the tribes share and the order in which they are used; the **Host-Caller** summons the common muster when a threat concerns them all; and an **Envoy** carries the council's word to a settled power, protected by custom while he carries it.
 
 Two bodies stand beside the council and answer to none of the sheikhs. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers the acclaimed warriors of every tribe at the [[place-stoneofranaz|Stone of Ranaz]] at the season-turns, and its word carries moral weight in every camp. The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] keep a practitioner in every camp of consequence, read the weather for council and warband alike, and recognize those they hold to be vessels for the storm god. A sheikh who defies either of them can do it once.
 
 ## The Kingdom's Compact {#present}
 
 The common council's sitting at Ghavulavad turns this year on the Kingdom of Amradad. Amradi envoys offer grain and iron for escort on the roads into the Kingdom, and the offer divides the tribes along old lines. The tribes of the northern circuits, who sell their herds in Amradi markets every year and eat Amradi bread every winter, want the compact sworn. The tribes whose Keepers of the Feud carry a tally of blood the Amradi owe from past raids refuse to sit at a fire with the envoys at all. [[being-shadznkmrz|Shadezan Kamruz]], whose confederation rides more escorts than any other, accepts the compact only if his riders hold the whole road, and the smaller tribes fear his terms more than they want the grain. The Speaker keeps the order of speaking and has no power to end the argument, so each sitting takes up the compact again and binds nobody.
+
+## History {#history}
+
+The tribes keep their history in verse, and the poets' account is of tribes, not of a realm. Confederations gather under a strong sheikh, ride together for a generation or three and break apart, and the genealogies record each joining and each parting. The poets hold the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] older than any tribe of the present day, founded when wandering bands swore the Old Promise before they had territories to claim.
+
+About 220 AF one confederation of the northern circuits stopped walking. It walled the springs of the great oases behind the shore and became the [[affiliation-kngdmmrdd|Kingdom of Amradad]], and the tribes have traded with it, married into it and held its walled wells against it since ([[lore-amradfndng|The Founding of Amradad]]). In 315 [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came round the end of the Grazian wall and crossed the desert westward. The families in its path fled ahead of it onto the garrisoned wells of [[affiliation-empireakhlth|Au'Khelathu]]'s eastern road, and some western clans raided in its wake ([[lore-eastroad|The Storm on the Eastern Road]]). The march it emptied became [[affiliation-bhumipal|Bhumipal]] about 325, and the tribes have contested the margin between their last wells and its first ones since.
+
+Twice the Circle was asked to ride against a Dunhari tribe, about 575 against a sheikh who killed his salt-guests and about 665 against a tribe that fouled a shared well, and twice it refused under the Old Promise ([[lore-circlrefusl|The Two Refusals of the Circle]]). The common council at Ghavulavad, which binds nobody, has handled everything else that touches more than one tribe, and the compacts the Kingdom offers come before it one sitting at a time.
 
 ## Relations {#relations}
 
@@ -148,3 +156,9 @@ The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] 
 
 [[affiliation-trbtvrzvd|Tribe of Tevrazavad]]
 : the tribe that holds the Oasis of Tevrazavad and governs itself through a council
+
+[[lore-amradfndng|The Founding of Amradad]]
+: the confederation that settled
+
+[[lore-circlrefusl|The Two Refusals of the Circle]]
+: the Old Promise kept twice against a Dunhari tribe

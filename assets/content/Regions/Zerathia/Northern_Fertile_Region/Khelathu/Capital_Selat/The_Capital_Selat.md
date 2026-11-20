@@ -33,21 +33,21 @@ data:
           A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
       Halzi'a: >-
-        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+        Governor of the Capital Selat, named by the Gar-Au and serving at the throne's direct pleasure rather than by inheritance; in practice a senior officer of the court. Held by a Zabu.
+      Halzi'a's Steward: >-
+        Administrator of the selat's revenue and corvée, and of the granaries that feed the capital between floods. Held by a Zabu.
+      Captain of the Meglai: >-
+        Commander of the standing city guard of Galezkara, which keeps the public city and is separate from the army, the royal guard and the necropolis guard. Held by a Zabu.
+      Captain of the Necropolis Guard: >-
+        Commander of the guard of Zu-Gezer and the burial fields across the river, charged with the tombs of the royal dead. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the selat's irrigation works and of the channels round the sacred island. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of one of the selat's bureaus, under whose clerks the empire's tribute is reckoned and stored. Held by a Zelar.
       Legha'lutu: >-
         Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
-      Zabet: >-
-        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
-      Zemelu: >-
-        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
-      Overseer of Scribes: >-
-        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
-      Halzi'a's Steward: >-
-        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
-      Canal-Warden: >-
-        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: galezkara
   population: 2500000
   territorial_population: 2500000
@@ -78,6 +78,14 @@ It is the most cosmopolitan place in the interior, because every selat sends its
 - The festival calendar at its most magnificent, crowned by the solstice rites on the [[place-waluqaa|Sun's Road]]
 - The royal necropolis of [[place-zugezer|Zu-Gezer]] and the burial fields of [[place-khelautithnt|Khelaut-Ithnet]] across the river
 
+## Current Situation {#present}
+
+The Capital Selat is the one province the throne cannot let go hungry, and two low floods have made that a daily cost. The Halzi'a's Steward keeps the granaries that feed the capital between floods, and he reckons the stores in sacks per day instead of seasons; the barges from the upper river arrive on schedule and carry less. The Captain of the Meglai keeps the grain quays and the dole lines in order, and the city guard is stretched across both. The Canal-Warden watches the channels round the sacred island, where the river's height is a ceremonial fact before it is an irrigation one.
+
+The Halzi'a serves at the Gar-Au's direct pleasure, so what he reports is read as the throne's own account, and what he reports about the other selatu is the throne's first warning. The Overseers of Scribes under him reckon the empire's tribute as it arrives, and they see the shortfalls before anyone else: the late barges, the coin that was due as grain, the figures that do not match the Measure. Nothing in the selat's own treasury is withheld. The selat's difficulty is that it is the place all the withholding is visible from, and it has no one to blame but the Halzi'a whose figures it reckons.
+
+The court sits in the middle of it. The priests of Uqa'a read the Measure on the sacred island, the [[affiliation-genzetpalu|Genzet'Palu]] meets under full ceremony, and the succession question, with [[being-anlaghur|Anlaghur]] as its subject, is argued in the palace corridors more openly than in any council. The Captain of the Necropolis Guard keeps the royal dead across the river; the tombs are quiet, and they are the one institution of the throne nobody blames for the flood.
+
 ## For the Worldbuilder
 
 The Capital Selat is the empire's center of gravity and the natural stage for high-stakes play: court intrigue, temple politics, succession, and the slow duel between a Gar-Au and the priesthood that crowns and uncrowns him. Run it as a place where everything is performance and everything beneath the performance is real. Every ritual is a political act, every priest a broker of power, and every scribe a possible informant.
@@ -88,6 +96,10 @@ Adventure here is courtly and uncanny by turns—palace conspiracy and poisoned 
 
 The Capital Selat uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and it is the hub of the system. The gezan-and-qelu weight standard is set and attested here, the chief [[affiliation-garhalzi|Gar-Hálzi]] treasuries keep their great vaults in the capital, and the tribute and taxes of the whole empire are reckoned and stored within the selat.
 
+## History {#history}
+
+The court crossed to the mound in 1006 ST (1105 BF) and every house since has ruled from the selat except the throne at [[place-lenennezut|Lenen-Nezut]] from 1462 to 1531 ST and the court at [[place-maguathen|Magu-Thelqen]] from 1790 to 1822 ST ([[lore-crossmound|the Crossing to the Mound]]). The empire's whole history is told in [[lore-khelathhist|the History of Au'Khelathu]].
+
 ## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
@@ -95,6 +107,9 @@ The Capital Selat uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and it is
 
 [[place-galezkara|Galezkara]]
 : the imperial city
+
+[[affiliation-meglai|The Meglai]]
+: the standing guard of the city
 
 [[place-galezkaraslt|Galezkara Selat]]
 : the land the selat holds

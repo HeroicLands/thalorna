@@ -35,7 +35,7 @@ The cutters of both shores have seen a thin Grukar standing still in the shallow
 The boat and the two cutters Koldmere lost in the autumn were taken by Reedgill's raiders, and half the cut nets on both shores are the nest's work, cut at night in the bays. Stillwader steers it: a shore watching the other shore does not watch the ravine.
 :::
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 The two villages are each other's danger more than the nest's: a stranger with a boat on the beds is taken for the other shore's man. On the moor above, the Highlands' herdsmen ride past the ravine's head and do not go down.
 

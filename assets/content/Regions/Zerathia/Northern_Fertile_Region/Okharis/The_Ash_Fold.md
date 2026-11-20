@@ -16,11 +16,11 @@ Shuremis was a temple estate of the kind the temples hold across the grazing cou
 
 The grain-pits under the granary floor are filled to the lip with fine gray ash. The pens beyond them are empty of cattle that anyone owns. The cattle that stand in them have the shape of cattle and the color of a banked hearth, and they do not eat. They face the granary all night, and at dawn they walk out onto the grazing and stand in the herders' way.
 
-Under the granary there is a fire. It was not kindled from any ember carried from a temple. It burns without light, and a flame brought into its hall leans toward it and goes out. The Okharin creed is that the Flame renews only what is given to it. This fire is the plain reverse of the creed: it takes and gives nothing back, and the herds that stray within its reach come out as ash on four legs.
+Under the granary there is a fire. It was not kindled from any ember carried from a temple. It burns without light, and a flame brought into its hall leans toward it and goes out. The Okharik creed is that the Flame renews only what is given to it. This fire is the plain reverse of the creed: it takes and gives nothing back, and the herds that stray within its reach come out as ash on four legs.
 
-The people who keep it are the **shurem**, the ash: those put out of the Flame, to whom no temple gives an ashmark at a passage and whose fires are not reckoned descended from [The First Ember]{.name data-type="miscgear"}. They live in the old bondsmen's yard. They are not a tribe and they are not a clan. They are what is left when both have refused you.
+The people who keep it are the **shurem**, the ash: those put out of the Flame, to whom no temple gives an ashmark at a passage and whose fires are not reckoned descended from [[miscgear-emberfirst|The First Ember]]. They live in the old bondsmen's yard. They are not a tribe and they are not a clan. They are what is left when both have refused you.
 
-## What the Okharin Say
+## What the Okharik Say
 
 - **The herders** say the ground is spoiled and that the zohira have withdrawn their warnings from it. A cairn with the mark cut out is a cairn that answers nothing. They name the ash-cattle as the temple's wrong done to the grazing, and they avoid the word Flame when they say it.
 - **The Granary-Keepers** of Zarhanis hold that the estate was struck from the rolls and that its stores were spent in a hard year. They say nothing about its people.
@@ -31,6 +31,12 @@ The people who keep it are the **shurem**, the ash: those put out of the Flame, 
 ## Reaching It
 
 The herders' track from Zarhanis crosses open grazing for two days on horse. The wall can be seen from a long way, and the track bends away from it. A traveler who keeps to the wall finds the old gate, its cairn and the cattle-ground beyond, which a stranger should cross by daylight.
+
+## What Is There Now {#present}
+
+The estate stands as it has stood, and this year more of the clans' attention falls on it. The dues that the clans carry up to the moots have risen, and the herders who graze within sight of the wall count the lost cattle-ground against what the cities ask of them. A chieftain who has lost herd to the ash-cattle cannot carry the loss to the moot without hearing it called his clan's neglect, so he pays the full count and says nothing of the ground.
+
+The Granary-Keepers of Zarhanis keep the estate off their registers, and the court at Zarhanis is waiting on the Oracle and has no thought to spare for a struck estate. The shurem in the old bondsmen's yard take what the quiet gives them. They keep the fire, they bury the dead of the ash-cattle ground without a mark, and they give no sign to the herders who watch from the track. Nobody has yet asked them to leave, and no clan is willing to be the one that does.
 
 ## Hooks {#hooks}
 
@@ -44,7 +50,7 @@ The herders' track from Zarhanis crosses open grazing for two days on horse. The
 [[place-okharisrgn|Okharis Region]]
 : the country it lies in
 
-[[lore-okharinclt|Okharin]]
+[[lore-okharinclt|Okharik]]
 : the Flame, the shurem and the grazing
 
 [[affiliation-nkaruthar|Nkaru'thar]]

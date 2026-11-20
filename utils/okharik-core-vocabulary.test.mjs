@@ -59,6 +59,25 @@ const beforeRespelling = (text) =>
         (out, [now, was]) => out.replace(new RegExp(`(?<!\\p{L})${now}(?!\\p{L})`, "gu"), was),
         text,
     );
+/** Maps one exact English form to the preservation baseline and requires exactly one occurrence. */
+const swapOnce = (text, current, original) => {
+    assert.equal(text.split(current).length, 2, current);
+    return text.replace(current, () => original);
+};
+/** Maps the three approved English forms to the preservation baseline in their exact contexts. */
+const approvedEnglishForms = (body) => {
+    let out = swapOnce(body, "\n### Proto-Okharik\n", "\n### Proto-Okhárik\n");
+    out = swapOnce(
+        out,
+        "The two halves of [[lore-okharinclt|Okharik]] religious life, the [[lore-zohira|zohira]]",
+        "The two halves of [[lore-okharinclt|Okharin]] religious life, the [[lore-zohira|zohira]]",
+    );
+    return swapOnce(
+        out,
+        "\n**An Okharik person** carries a given name",
+        "\n**An Okharin person** carries a given name",
+    );
+};
 const hash = (o) =>
     createHash("sha256")
         .update(typeof o === "string" ? o : JSON.stringify(o))
@@ -68,8 +87,19 @@ const record = ({ fm, file }) => ({ ...fm, file, package: "thalorna", system: "n
     words = note.fm.data.words;
 const citations = words.filter((w) => ordinary.has(parseWordClass(w.class).base));
 test("Okharik preserves original words, meanings, names, metadata and prose", () => {
+    const people = words.filter((w) => w.form === "okharé");
+    assert.equal(people.length, 1);
+    assert.equal(people[0].gloss, "one of the people, an Okharik");
     assert.equal(
-        hash(words.slice(0, 85).map(({ concept, ...w }) => w)),
+        hash(
+            words
+                .slice(0, 85)
+                .map(({ concept, ...w }) =>
+                    w.form === "okharé" && w.gloss === "one of the people, an Okharik" ?
+                        { ...w, gloss: "one of the people, an Okharin" }
+                    :   w,
+                ),
+        ),
         "3a4d5e1c01e338d080331db94451d0aeb78897c61abd5f39368177cc27b98bdc",
     );
     const originalIds = [
@@ -162,13 +192,12 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     for (let i = 0; i < 85; i++)
         for (const id of originalIds[i])
             assert([words[i].concept ?? []].flat().includes(id), words[i].form);
-    const { words: _words, fields, roman: _roman, ...authored } = note.fm.data;
-    const data = JSON.parse(beforeRespelling(JSON.stringify(authored)));
-    data.retired = data.retired.filter((row) => !respelled.some(([, was]) => row.form === was));
+    const { fields } = note.fm.data;
     assert.equal(
-        hash({ ...note.fm, data }),
-        "8a44d9caa84bc3ac5c0ecbee72e6bc85f713931682bb433dd6af5655337021fe",
+        note.fm.description,
+        "The tongue of the three Okharik city-states, with an archaic sacred register reserved for scripture and temple rites.",
     );
+    assert.equal(originalDigest(note.fm), ORIGINAL_DIGEST);
     assert.equal(
         hash(fields.slice(0, -1)),
         "e02e276458fc4d83fb0999ed9d429a2ec587cdd098694f21ef3ee1f4edd408a5",
@@ -182,7 +211,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     assert.equal(splitFrontmatter(note.raw).body.split(romanNote).length, 2);
     assert.equal(
         hash(
-            beforeRespelling(splitFrontmatter(note.raw).body)
+            beforeRespelling(approvedEnglishForms(splitFrontmatter(note.raw).body))
                 .replace(romanNote + "\n\n", "")
                 .replace(/\*\*Coining\.\*\*[^\n]*\n\n/u, "")
                 .replace(/\n## Everyday speech\n[\s\S]*$/u, ""),
@@ -337,4 +366,115 @@ test("configured Okharik stays Roman and enforces its real wordbook and language
         { line: 1, column: 2, message: unknownWordMessage("mbokhazu", key) },
     ]);
     assert(roman.markdown.includes("mbokhazu"));
+});
+
+const ORIGINAL_DIGEST = "8a44d9caa84bc3ac5c0ecbee72e6bc85f713931682bb433dd6af5655337021fe";
+/** Register rows the language note accepts beyond its original register, each exactly once. */
+const approvedRegisterRows = () => [
+    { name: "Dorumbe", tongue: "okharik" },
+    { name: "Hasembe", tongue: "okharik" },
+    { name: "Khandoru", tongue: "okharik" },
+    { name: "Kwendo", tongue: "okharik" },
+    { name: "Mbarelo", tongue: "okharik" },
+    { name: "Ngarali", tongue: "okharik" },
+    { name: "Njeko", tongue: "okharik" },
+    { name: "Okhelo", tongue: "okharik" },
+    { name: "South Marches Adventurer's Guide", tongue: "translation" },
+    { name: "Tarembe", tongue: "okharik" },
+    { name: "Thumbel", tongue: "okharik" },
+    { name: "Ukhedo", tongue: "okharik" },
+];
+/**
+ * The register without the approved additions. Each approved row must appear once with exactly
+ * its name and tongue; every other row stays in place and in order.
+ */
+function historicalRegister(register) {
+    const rows = [...register];
+    for (const approved of approvedRegisterRows()) {
+        const at = rows.flatMap((r, i) => (r?.name === approved.name ? [i] : []));
+        if (at.length === 0) throw new Error(`missing approved register row ${approved.name}`);
+        if (at.length > 1) throw new Error(`duplicate approved register row ${approved.name}`);
+        try {
+            assert.deepEqual(rows[at[0]], approved);
+        } catch {
+            throw new Error(`register row ${approved.name} differs from its approved form`);
+        }
+        rows.splice(at[0], 1);
+    }
+    return rows;
+}
+/**
+ * Digest of the language note's original metadata: respelled names and the description's English
+ * name mapped back, and the approved register additions excluded.
+ */
+function originalDigest(fm) {
+    const { words: _words, fields: _fields, roman: _roman, ...authored } = fm.data;
+    const data = JSON.parse(beforeRespelling(JSON.stringify(authored)));
+    data.retired = data.retired.filter((row) => !respelled.some(([, was]) => row.form === was));
+    data.register = historicalRegister(data.register);
+    const description = swapOnce(fm.description, "Okharik city-states", "Okhari city-states");
+    return hash({ ...fm, description, data });
+}
+const cloneFm = () => structuredClone(note.fm);
+const approvedNames = new Set(approvedRegisterRows().map((r) => r.name));
+test("Okharik register additions are exactly the approved twelve rows", () => {
+    assert.equal(approvedRegisterRows().length, 12);
+    assert.equal(originalDigest(note.fm), ORIGINAL_DIGEST);
+    const present = note.fm.data.register.filter((r) => approvedNames.has(r.name));
+    assert.deepEqual(present.map((r) => r.name).sort(), [...approvedNames].sort());
+});
+test("Okharik register rejects approved rows that are missing, duplicated, misspelled or altered", () => {
+    const at = (fm, name) => fm.data.register.findIndex((r) => r.name === name);
+    const missing = cloneFm();
+    missing.data.register.splice(at(missing, "Thumbel"), 1);
+    assert.throws(() => originalDigest(missing), /missing approved register row Thumbel$/u);
+    const duplicate = cloneFm();
+    duplicate.data.register.push({ name: "Ukhedo", tongue: "okharik" });
+    assert.throws(() => originalDigest(duplicate), /duplicate approved register row Ukhedo$/u);
+    const misspelled = cloneFm();
+    misspelled.data.register[at(misspelled, "Mbarelo")].name = "Mbarello";
+    assert.throws(() => originalDigest(misspelled), /missing approved register row Mbarelo$/u);
+    const retagged = cloneFm();
+    retagged.data.register[at(retagged, "Khandoru")].tongue = "translation";
+    assert.throws(
+        () => originalDigest(retagged),
+        /register row Khandoru differs from its approved form$/u,
+    );
+    const guide = cloneFm();
+    guide.data.register[at(guide, "South Marches Adventurer's Guide")].tongue = "okharik";
+    assert.throws(
+        () => originalDigest(guide),
+        /register row South Marches Adventurer's Guide differs from its approved form$/u,
+    );
+    const extra = cloneFm();
+    extra.data.register[at(extra, "Njeko")].built = ["njeko"];
+    assert.throws(
+        () => originalDigest(extra),
+        /register row Njeko differs from its approved form$/u,
+    );
+});
+test("Okharik register keeps every original row, property and order, and all other metadata", () => {
+    const originalAt = (fm) => fm.data.register.findIndex((r) => !approvedNames.has(r.name));
+    const withBuilt = (fm) => fm.data.register.findIndex((r) => r.built);
+    const changes = {
+        "changed original name": (fm) => (fm.data.register[originalAt(fm)].name += "x"),
+        "changed original tongue": (fm) => (fm.data.register[originalAt(fm)].tongue = "other"),
+        "changed native construction": (fm) => fm.data.register[withBuilt(fm)].built.pop(),
+        "deleted original row": (fm) => fm.data.register.splice(originalAt(fm), 1),
+        "reordered original rows": (fm) => {
+            const i = originalAt(fm);
+            const j = fm.data.register.findIndex((r, k) => k > i && !approvedNames.has(r.name));
+            [fm.data.register[i], fm.data.register[j]] = [fm.data.register[j], fm.data.register[i]];
+        },
+        "unrelated register addition": (fm) =>
+            fm.data.register.push({ name: "Zorumbe", tongue: "okharik" }),
+        "unrelated metadata key": (fm) => (fm.data.unrelated = true),
+        "changed retired row": (fm) => (fm.data.retired[0].form += "x"),
+        "changed description": (fm) => (fm.description += "x"),
+    };
+    for (const [label, change] of Object.entries(changes)) {
+        const fm = cloneFm();
+        change(fm);
+        assert.notEqual(originalDigest(fm), ORIGINAL_DIGEST, label);
+    }
 });

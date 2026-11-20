@@ -27,10 +27,20 @@ The calendar of the valley is built on the river's three seasons, and in [[place
 
 The rest of the selat is ordinary [[lore-khelathiclt|Khelathi]] country: villages and estate-towns of a few hundred to a few thousand people, clustered on the cultivable ground and the temple estates. The farmers owe a share of the harvest and labor on the canals, and the scribes among them are the one reliable ladder out of the fields. Past the water the land is high desert and chaparral.
 
+## Current Situation {#present}
+
+The villages of Gekhenu keep a calendar by the temple's count, and the library-temple of Reth'Sa'ar tells them when the river should have risen. This year it did not, by the temple's reckoning, and the villages report the water's stage to the astronomers each week. The estate-towns round the seat plant what the silt allows, and the harvest is smaller. The astronomers' count is the one thing in the selat that is not short.
+
 ## Settlements {#settlements}
 
-Gekhenu (~30,000)
+Gekhenu (~6,500)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] and its estates.
+
+[[place-yathgekhenu|Yath-Gekhenu]] (~7,400)
+: a paper-and-ink town in Gekhenu Selat, downstream of Gekhenu
+
+[[place-lutgekhenu|Lut-Gekhenu]] (~6,100)
+: an estate-town of the library-temples in Gekhenu Selat, two days from Gekhenu
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

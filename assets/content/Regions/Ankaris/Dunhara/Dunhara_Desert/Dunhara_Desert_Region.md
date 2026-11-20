@@ -53,6 +53,12 @@ No one rules the open desert. Perhaps a dozen great confederations and many smal
 [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]
 : a storm-blasted spire on the Pale Floor
 
+[[place-palefloor|Pale Floor]]
+: a dead lake of white salt, crossed on the day the storm-readers name
+
+[[place-kinlesswatch|Kinless Watch]]
+: the Kingdom's fort of outcasts on the Floor's western edge
+
 [[place-mezhvadez|Mezhvadez]]
 : a vault buried under the dunes
 
@@ -63,7 +69,7 @@ No one rules the open desert. Perhaps a dozen great confederations and many smal
 
 At every well this year the talk begins with the Kingdom. The tribes sell Amradad camels, sheep and goats and ride escort for its caravans, and take its grain and iron in return. The trade is cautious on both sides, and blood-debts from old raids keep some tribes out of it altogether. Every compact the Kingdom offers goes before the common council at [[place-ghavulavad|Ghavulavad]], and the council argues each one from the beginning, because a tribe that is owed Amradi blood does not ride under a compact another tribe has sworn.
 
-Then it turns south, to the circuit beyond the long wells, the most dangerous country in the desert. [The Unrecited]{.name data-type="affiliation/criminal"} strike caravans and leave survivors who cannot say who they were, and guides give [[place-vzhmvd|the weighing-place at Vazhmavad]], where the raiders keep their camp, a wide berth. [[place-mezhvadez|The Dry Stair]] stands open in the dunes this spring, and the guides who know its dune are offered more than they can refuse. Herders at the edge of the [Pale Floor]{.name data-type="place/region"}, below [[place-twrlghtnmrkd|the Tower of the Lightning-Marked]], say a voice in its storm draws their own people out across the flat. None of it is the common council's business by custom. The [Old Promise]{.name data-type="lore/custom"} bars a Dunhari blade against a Dunhari while an outside enemy walks the land, and whether it lets the Warrior's Circle ride against any of this is the open question, so the southern tribes carry all of it to the Stone of Ranaz at the next season-turn.
+Then it turns south, to the circuit beyond the long wells, the most dangerous country in the desert. [The Unrecited]{.name data-type="affiliation/criminal"} strike caravans and leave survivors who cannot say who they were, and guides give [[place-vzhmvd|the weighing-place at Vazhmavad]], where the raiders keep their camp, a wide berth. [[place-mezhvadez|The Dry Stair]] stands open in the dunes this spring, and the guides who know its dune are offered more than they can refuse. Herders at the edge of the [[place-palefloor|Pale Floor]], below [[place-twrlghtnmrkd|the Tower of the Lightning-Marked]], say a voice in its storm draws their own people out across the flat. None of it is the common council's business by custom. The [Old Promise]{.name data-type="lore/custom"} bars a Dunhari blade against a Dunhari while an outside enemy walks the land, and whether it lets the Warrior's Circle ride against any of this is the open question, so the southern tribes carry all of it to the Stone of Ranaz at the next season-turn.
 
 ## Roads and Trade {#roads-and-trade}
 

@@ -42,7 +42,7 @@ A fellow of the [[affiliation-univperavel|University of Péravel]] has read the 
 
 A shaman of the tribes has gone in this month, as the rules require, with a cause that she has told nobody. The Wardens of the Silver Forests have let her. Nobody has seen her since the new moon.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The lights.** They go ahead of a traveler through the trunks and lead him in. The wood closes behind him.
 - **The clearing.** A night inside is not a night outside, and a person who comes out at the first light has lost a month.

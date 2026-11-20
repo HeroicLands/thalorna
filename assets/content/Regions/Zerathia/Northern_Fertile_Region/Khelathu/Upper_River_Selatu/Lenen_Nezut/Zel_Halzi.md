@@ -34,7 +34,7 @@ Nobody farms it, and nobody owns it. Because it is entered in no roll, its rende
 
 Each Gelet a priest of [[affiliation-hezmuiri|Hezmu'iri]] from Lenen-Nezut stands at its edge and holds a Reading for the unnamed. A Reading closes on a name, and these have none, so the field is as it was the morning after. A family that can prove an ancestor lay here and bring his name to the edge is the one thing that settles any part of it. In twelve centuries that has happened a handful of times.
 
-The Halzi'a house of [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the kin of the conquerors, settled on the western pastures in 1671 ST (440 BF), makes the yearly offering at the edge. Its ancestors owe it, and the house has kept the debt as it keeps its horses.
+The Halzi'a house of [[affiliation-thaulgau|Tha'Ulgau]], the kin of the conquerors, settled on the western pastures in 1671 ST (440 BF), makes the yearly offering at the edge. Its ancestors owe it, and the house has kept the debt as it keeps its horses.
 
 ## Who Goes
 
@@ -43,6 +43,10 @@ The Halzi'a house of [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the kin
 - **Necromancers**, who want the unclaimed souls. The circle at [[place-akhozamenlaa|Akhoza-Menlaa]] is the one the temples fear.
 - **Robbers**, after the bronze of an army no one stripped.
 - **Families** whose ancestor was a Galezkara soldier and never came home.
+
+## Layers {#history}
+
+The hill-nomads of the western margins destroyed the last Galezkara army here in the season of emergence of 1612 ST (499 BF), and the field is the first blood-field in Khelathi memory ([[lore-thaulgau|the Coming of the Tha'Ulgau]]).
 
 ## Hooks {#hooks}
 

@@ -1,19 +1,15 @@
 ---
 shortcode: casiaveric
-name:
-  full: Kassa Verris
-  given: Kassa
-  clan: Verris
-  en: [The Harbor Factor, The Empire's Hand on the Southern Shore]
+name: {full: Kassa Verris, en: [The Harbor Factor, The Southern Factor]}
 type: being
-subType: character
+subType: npc
 description: "A trading factor of the southern sea ports, warm, competent and easy to forget, who deals in ships, ledgers and favors."
 tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [infiltrator, courtier]
-  occupation: Intelligence Officer
+  occupation: Trading Factor
   lore: []
   culture: vylarianclt
   homes: [orzara]
@@ -414,115 +410,138 @@ Kassa Verris is an unremarkable woman, and works at it. She is of middling heigh
 
 ## Background
 
-### Origin and Service
+### Origin
 
-Kassa Verris is a long-serving officer of the [[affiliation-vylarinmpr|Vilérian Empire]]'s intelligence service, born to a minor administrative family of [[place-orzara|Orzara]] and raised in the empire's vast bureaucratic machine rather than its legions or its [[affiliation-seldan|Seldan]] (Senate). She came up through the harbor-offices and customs-houses of the western ports, where the empire watches its rivals' shipping, and learned early that a clerk with the right ledgers and the right informants is worth a cohort. For two decades she has run agents along the contested [[place-vylarianse|Vilérian Sea]], shepherding defectors, buying captains, and quietly bleeding [[affiliation-mtrrchybth|Bethua]]'s deniable war of its deniability.
+Kassa Verris is a trading factor born to a minor administrative family of [[place-orzara|Orzara]]. She came up through the harbor-offices and customs-houses of the western ports and has spent two decades along the contested [[place-vylarianse|Vilérian Sea]], dealing in ships, ledgers and favors. In [[affiliation-mtrrchybth|Bethua]], a matriarchy that suffers a foreign _man_ in its ports only grudgingly, a foreign _woman_ trading on her own account passes as a normal merchant, woman to woman.
+
+:::secret {title="Kassa is an officer of Vilérian intelligence"}
+She is a long-serving officer of the [[affiliation-vylarinmpr|Vilérian Empire]]'s intelligence service, born to a minor administrative family of [[place-orzara|Orzara]] and raised in the empire's vast bureaucratic machine rather than its legions or its [[affiliation-seldan|Seldan]] (Senate). She came up through the harbor-offices and customs-houses of the western ports, where the empire watches its rivals' shipping, and learned early that a clerk with the right ledgers and the right informants is worth a cohort. For two decades she has run agents along the contested [[place-vylarianse|Vilérian Sea]], shepherding defectors, buying captains, and quietly bleeding [[affiliation-mtrrchybth|Bethua]]'s deniable war of its deniability.
 
 Her sex is one of her sharpest instruments. [[affiliation-mtrrchybth|Bethua]] is a matriarchy that suffers a foreign _man_ in its ports only grudgingly—served, watched, and quietly reminded at every turn that he holds no standing—but deals with a foreign _woman_ trading on her own account as a normal merchant, woman to woman. Where a male Vilérian agent would meet friction at every gate and counting-house, Kassa passes through the matriarchy's harbors and trade-houses with an ease no man could buy. The empire knows the value of this, and spends her where a woman's freedom of movement is worth more than a legion.
+:::
 
-### The Asset She Made
+### In the Marches
 
+Kassa is in the [[place-sthmrchsrgn|South Marches]], where she is courting the fugitive Grammatissa [[being-rshrhssfrn|Rashira of House Safiron]] with offers of protection and passage.
+
+:::secret {title="How Kassa made Rashira her asset"}
 The affair began as Kassa's own operation. Working the Bethuan ports under her merchant's cover, she cultivated [[being-rshrhssfrn|Rashira of House Safiron]]—a senior Grammatissa of the Naukrátissa's office in [[affiliation-bethuanflt|the Bethuan Fleet]], with access to the realm's deepest naval secrets—first as a source and, in time, as a lover. She is too careful to have learned the particulars of what Rashira kept; the [Purple Warrant]{.name data-type="miscgear"}'s contents were always closed to her, and she knew only the general shape of the rot her clerk hinted at. Her real work was subtler: to listen, to sympathize, and to press—gently and without ceasing—on the conscience of a devout woman who could no longer stomach what she copied out in a fair hand. _Do the right thing_, Kassa urged her, meaning, though she never said it aloud, _bring it to me, and to Viléria._
 
 It did not go as she planned. When Rashira finally broke, she did not come to Kassa. She took the sealed original and fled **south**, into the lawless [[place-sthmrchsrgn|Marches]], judging—rightly—that to put the proof in Vilérian hands would only make her the empire's weapon against her own land. Kassa's most promising asset had slipped her grasp with the prize in hand; only then did the patient courtship harden into open pursuit, and the present operation begin.
+:::
 
-### The Present Operation
-
+:::secret {title="Kassa's operation for the Purple Warrant"}
 Kassa's current assignment is the most valuable of her service: the sealed **Purple Warrant** register that the renegade Grammatissa [[being-rshrhssfrn|Rashira of House Safiron]] has stolen out of [[affiliation-bethuanflt|the Naukrátissa's office]] and carried south into the [[place-sthmrchsrgn|South Marches]]. In Vilérian hands that one purple original is a weapon of state—incontrovertible proof, on controlled crown vellum under unforgeable seals, that Bethua's "deniable" privateer war is shot through with naked profiteering, and that the matriarchy has been secretly preying on the very patron it pretends to serve. With it, Viléria could shatter the [[affiliation-empireakhlth|Empire of Au'Khelathu]]–Bethuan alliance that hems the empire's southern sea. Kassa means to take it whole.
-
-### Her Three Fronts
 
 The trouble is that Kassa is not the only one who wants the rolls, and almost everyone else's success is her failure. She reckons the possible outcomes in a strict order, best to worst:
 
-Viléria takes the register
-: the win.
+- **Viléria takes the register**: the win.
+- **No one secures it**: tolerable; the game stays open and the proof keeps existing.
+- **Au'Khelathu gets it**: bad, but the proof still exists and the Khelathi–Bethuan axis takes its wound regardless of whose hand holds the vellum.
+- **Bethua recovers or burns it**: catastrophe: the proof is gone forever, deniability is restored, the alliance is preserved, and the empire is left with nothing.
 
-No one secures it
-: tolerable; the game stays open and the proof keeps existing.
-
-Au'Khelathu gets it
-: bad, but the proof still exists and the Khelathi–Bethuan axis takes its wound regardless of whose hand holds the vellum.
-
-Bethua recovers or burns it
-: catastrophe: the proof is gone forever, deniability is restored, the alliance is preserved, and the empire is left with nothing.
-
-So Kassa fights on three fronts at once, deep in country hostile to her. She **courts Rashira**—offering protection, passage, and coin to turn the fugitive toward a Vilérian handover. She **blocks the road east**, because above all the register must not reach [[affiliation-empireakhlth|Empire of Au'Khelathu]]: she buys off guides, closes routes, spreads false word, and salts Rashira's path with delays, turning to open force only when the covert hand fails. And she **sabotages the Bethuan hunt**, confusing and misdirecting the [Court of the Veil]{.name data-type="affiliation/governmental"}'s agents and frustrating [[being-lmbhrpdhnn|Lámbira Pédhinion]]—for a Bethuan recapture is the one ending worse than losing the rolls to the Khelathi.
-
-### Method
+So Kassa fights on three fronts at once, deep in country hostile to her. She **courts Rashira**—offering protection, passage, and coin to turn the fugitive toward a Vilérian handover. She **blocks the road east**, because above all the register must not reach [[affiliation-empireakhlth|Empire of Au'Khelathu]]: she buys off guides, closes routes, spreads false word, and salts Rashira's path with delays, turning to open force only when the covert hand fails. And she **sabotages the Bethuan hunt**, confusing and misdirecting the [[affiliation-courtveil|Court of the Veil]]'s agents and frustrating [[being-lmbhrpdhnn|Lámbira Pédhinion]]—for a Bethuan recapture is the one ending worse than losing the rolls to the Khelathi.
 
 Kassa almost never acts with her own hand. She is a runner of people: she finds the lever—a debt, a grudge, an ambition, a frightened family—and she pulls it. It was her cut-outs that paid [[being-argyrirjckl|Argirira the Jackal]] to bleed away [[being-lmbhrpdhnn|Lámbira's]] time, letting the warlord's old hatred do Viléria's work for free. But that same lever is now her sharpest danger: if Argirira or the Hound actually seizes the rolls and they fall into Bethuan hands, that is precisely the catastrophe Kassa most fears. She must keep [[affiliation-jcklsthmrchs|the Jackals]] delaying the Veil's hunt without letting anyone in the Marches close a hand on the documents—a blade she can point but not fully trust, swung over the one outcome she cannot allow.
+:::
 
 ### Skills and Abilities
 
+A Woman's Freedom in Bethua
+: Her sex lets her move through the matriarchy's ports, trade-houses, and counting-rooms with an ease no male trader could manage, served and trusted as a fellow merchant where a man would be watched.
+
+Ledgers and Harbor Law
+: Passes through the ports of Midhalión as a shipping factor, a customs agent, a creditor, whichever face the moment wants. Reads a manifest, a tariff or a bill of lading at a glance, and rarely loses an argument over one.
+
+:::secret {title="Kassa's tradecraft"}
 Spycraft and Handling
 : A master at recruiting, running, and disposing of agents. She reads people for their levers and rarely misjudges what a person can be made to do.
 
-A Woman's Freedom in Bethua
-: Her sex lets her move through the matriarchy's ports, trade-houses, and counting-rooms with an ease no male agent could manage—served and trusted as a fellow merchant where a man would be watched.
-
 Cover and Misdirection
-: Passes through the ports of Midhalión as a shipping factor, a customs agent, a creditor—whichever face the moment wants. Carries forged passes and letters of credit alike.
+: Carries forged passes and letters of credit alike, and takes whichever face the moment wants.
 
 Coin as a Weapon
 : Commands a generous imperial purse and the authority to spend it. Much of what she accomplishes, she buys.
+:::
 
 ## Psyche
 
 ### Personality and Motivations
 
-Kassa is patient, warm, and entirely without scruple in the service of the empire—a woman whose easy courtesy is a working tool rather than a window onto anything underneath. She is a patriot of a cold and bureaucratic kind: she believes the Vilérian peace is worth more than the lives spent to extend it, and she has spent a great many without losing sleep. She takes a craftsman's pride in clean work and a craftsman's contempt for the showy and the cruel; she would call herself a reasonable woman, and within the narrow walls of her loyalty she is.
+Kassa is patient and warm, a woman whose easy courtesy is a working tool rather than a window onto anything underneath. She takes a craftsman's pride in clean work and a craftsman's contempt for the showy and the cruel.
+
+:::secret {title="What Kassa is loyal to"}
+She is entirely without scruple in the service of the empire. She is a patriot of a cold and bureaucratic kind: she believes the Vilérian peace is worth more than the lives spent to extend it, and she has spent a great many without losing sleep. She would call herself a reasonable woman, and within the narrow walls of her loyalty she is.
 
 She does not hate Rashira, or Lámbira, or Bethua. They are, respectively, a prize to be won, an obstacle, and a target—and the moment any of them ceases to serve the operation, her regard for them ends. This is precisely what makes her dangerous: there is no anger in her to provoke, no vanity to flatter, only an unhurried calculation of advantage that will spend any ally, including the woman she is courting, the instant the ledger turns.
+:::
 
 ### Strengths
 
-- **Networks** of informants, factors, and bought officials across the Midhalión coast and the Bethuan ports
 - **Freedom of movement** in a matriarchy that distrusts foreign men but not foreign women
+- **Easy company**: people who deal with her find her warm and forget her face
+
+:::secret {title="Kassa's resources and limits"}
+
+- **Networks** of informants, factors, and bought officials across the Midhalión coast and the Bethuan ports
 - **Misdirection and deniability**—others act, she is never seen to
 - **An imperial purse** and the authority to use it
-
-### Weaknesses
-
-Overuses her levers
-: her reliance on bought and coerced proxies fails when a proxy has motives of her own—as [[being-argyrirjckl|Argirira]] very much does
-
-A proxy that could hand her her worst outcome
-: the Jackals she hired could let the rolls fall to Bethua, the one ending she cannot allow
-
-No personal loyalty to spend
-: those who serve her for coin or fear will not die for her, and know it
-
-Fighting on three fronts
-: opposing Rashira, Bethua, and Au'Khelathu at once stretches even a Vilérian purse, and any two of them combining against her undoes the whole operation
+- **Overuses her levers**: her reliance on bought and coerced proxies fails when a proxy has motives of her own—as [[being-argyrirjckl|Argirira]] very much does
+- **A proxy that could hand her her worst outcome**: the Jackals she hired could let the rolls fall to Bethua, the one ending she cannot allow
+- **No personal loyalty to spend**: those who serve her for coin or fear will not die for her, and know it
+- **Fighting on three fronts**: opposing Rashira, Bethua, and Au'Khelathu at once stretches even a Vilérian purse, and any two of them combining against her undoes the whole operation
+  :::
 
 ## Social
 
-### Targets and Tools
+### Associates
 
 [[being-rshrhssfrn|Rashira of House Safiron]]
-: The fugitive Grammatissa and her purple register—the prize Kassa means to win by courtship if she can and force if she must, and above all to keep out of Khelathi hands. To Kassa she is a delivery that has not yet agreed to be delivered.
+: The fugitive Grammatissa, whom Kassa courts with offers of protection and passage.
 
 [[being-argyrirjckl|Argirira the Jackal]] and the [[affiliation-jcklsthmrchs|Jackals of the South Marches]]
-: Hired through cut-outs to delay [[being-lmbhrpdhnn|Lámbira]], believing they hunt only for their warlord's grudge. A useful blade—and a dangerous one, since a Jackal who seizes the rolls might sell them anywhere, Bethua included.
+: Houseless blades in the Marches, hated by many and useful to any who pay.
 
-### Enemies
+### Rivals
 
 [[being-lmbhrpdhnn|Lámbira Pédhinion, the Hound of the Veil]]
-: The Bethuan thief-taker racing to recover or destroy the register. Kassa means to see her thwarted, confused, and delayed at every turn—never letting the Veil's hand close on the rolls—and respects her enough to spend real resources on it.
+: The Bethuan thief-taker on Rashira's trail, whom Kassa treats with careful respect.
 
 The Court of the Veil
-: The Bethuan intelligence household whose secret she is working to expose. The whole of Kassa's operation is a quiet duel against the unseen agents of Metrissa [Amithena of House Kervanion]{.name data-type="being/npc"}.
+: The Bethuan intelligence household of Metrissa [[being-amithenakrvn|Amithena of House Kervanion]].
 
 The agents of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]
-: Should the Khelathi learn that the register exists and is running for their frontier, their hand will reach into the Marches too—and Kassa must keep the proof from them as surely as from Bethua.
+: Should the Khelathi learn what is being hunted in the Marches, their hand will reach in too.
+
+:::secret {title="Kassa's real aims toward the people around her"}
+Rashira is the prize Kassa means to win by courtship if she can and force if she must, and above all to keep out of Khelathi hands. To Kassa she is a delivery that has not yet agreed to be delivered.
+
+Kassa hired the Jackals through cut-outs to delay [[being-lmbhrpdhnn|Lámbira]], and they believe they hunt only for their warlord's grudge. A useful blade, and a dangerous one, since a Jackal who seizes the rolls might sell them anywhere, Bethua included.
+
+Kassa respects Lámbira enough to spend real resources against her, and means to see her thwarted, confused, and delayed at every turn, never letting the Veil's hand close on the rolls.
+
+The Veil has a secret that Kassa is working to expose. The whole of her operation is a quiet duel against the unseen agents of the Metrissa.
+
+Kassa must keep the proof from the Khelathi as surely as from Bethua.
+:::
 
 ## Plot Hooks
 
 The Courtship
-: Kassa makes contact with [[being-rshrhssfrn|Rashira]] under a merchant's cover, offering safe passage and an attentive ear—anything but the truth that she means the rolls for Viléria and will never let them reach [[affiliation-empireakhlth|Empire of Au'Khelathu]]. The party may meet her as a charming, helpful stranger long before they understand what she is, and must decide how much of her aid to take before the price comes due.
+: Kassa makes contact with [[being-rshrhssfrn|Rashira]] as a merchant, offering safe passage and an attentive ear. The party may meet her as a charming, helpful stranger long before they understand what she is, and must decide how much of her aid to take before the price comes due.
+
+:::secret {title="What Kassa hides from Rashira"}
+Kassa offers anything but the truth that she means the rolls for Viléria and will never let them reach [[affiliation-empireakhlth|Empire of Au'Khelathu]].
+:::
 
 The Blocked Road
-: Every eastward path Rashira tries closes ahead of her—a guide bought, a ford watched, a rumor of plague on the road, a caravan that will not take her. Somewhere behind the bad luck is Kassa's quiet hand, herding the fugitive away from the Khelathi frontier and toward a Vilérian crossing she would never choose freely.
+: Every eastward path Rashira tries closes ahead of her—a guide bought, a ford watched, a rumor of plague on the road, a caravan that will not take her.
 
 The Proxy Turns
-: The [[affiliation-jcklsthmrchs|Jackals]] Kassa hired to delay [[being-lmbhrpdhnn|Lámbira]] come within reach of the register itself—and Kassa must scramble to stop her own instrument from handing the rolls to whoever pays best, when the buyer might be Bethua and the result her single worst outcome.
+: The [[affiliation-jcklsthmrchs|Jackals]] come within reach of the register itself.
+
+:::secret {title="Kassa's hand in the Blocked Road and the Proxy Turn"}
+Behind the bad luck is Kassa's quiet hand, herding the fugitive away from the Khelathi frontier and toward a Vilérian crossing she would never choose freely.
+
+Kassa must scramble to stop her own instrument, the Jackals she hired to delay [[being-lmbhrpdhnn|Lámbira]], from handing the rolls to whoever pays best, when the buyer might be Bethua and the result her single worst outcome.
+:::

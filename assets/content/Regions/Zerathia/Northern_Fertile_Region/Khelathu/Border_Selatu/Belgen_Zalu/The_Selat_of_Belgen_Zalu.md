@@ -64,6 +64,10 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 A Halzi'a in the valley governs through clerks and leaves his troops in their barracks. The Halzi'a of Belgen-Zalu has the clerks as well, a steward for the revenue, the granaries and the labor levy and a warden for the canals, but his authority rests on the soldiers he can put in the field, because nothing lies south of him except the tribal lands. Under a strong throne he reports to the capital, and under a weak one he decides. His seat is [[place-belgen|Belgen]], where his court sits and the selat's chief temple of [[affiliation-qeztu|Qeztu]] stands.
 
+## Current Situation {#present}
+
+Belgen-Zalu is the last province before the tribal frontier, and two low floods reach it as a thinner supply of grain carried upriver from the valley. The Halzi'a reads the figures from the Gar-Hálzi chapter's granary accounts, which tell him how long his forts can hold, and the answer is a short one. He sends a short render north, and late. His letters to the capital explain that a fort without stores is a fort without a garrison, and that the tribal lands to the south watch the patrols. Under a weak throne he decides, and a throne that cannot keep the river is a throne at a distance, so the selat's levies stay in its own forts and most of its taxes stay in its own treasury.
+
 ## Commerce and Currency {#commerce}
 
 Belgen-Zalu uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts, which are the figures that tell the Halzi'a how long his forts can hold. See the currency note for the full system.

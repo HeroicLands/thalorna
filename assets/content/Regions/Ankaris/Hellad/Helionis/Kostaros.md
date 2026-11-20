@@ -24,7 +24,7 @@ data:
 
 ## Politics {#present}
 
-The assembly of Kostaros sits among the other six in the festival calendar and the Truce of the Games, and it is the only one of them with no seat on the bench of arbiters at the Sanctuary. The older cities let its runners and chariot teams compete and have never let its envoys judge, which the patron families take as an insult to a city that pays for its own fleet and its own walls. They answer with money: the families fund a larger share of the Games' prizes than their city's size warrants, and they remember which envoys voted against them.
+The assembly of Kostaros sits among the other six in the festival calendar and the Truce of the Games, and it is the only one of them with no seat on the bench of arbiters at the Sanctuary. The older city-states let its runners and chariot teams compete and have never let its envoys judge, which the patron families take as an insult to a city that pays for its own fleet and its own walls. They answer with money: the families fund a larger share of the Games' prizes than their city's size warrants, and they remember which envoys voted against them.
 
 The patrons' real power is the grain contract. Kostaros eats what its merchants buy overseas, so the families who charter the grain ships also decide what the bread costs in the city and at the quays of [[place-myrtillos|Mirtelos]], and an assembly that wants a cheaper loaf has to persuade them. Beyond the two cities the district holds fishing hamlets and terrace villages that sell oil, wine and salt fish to the quays, and the oil and salt fish pay for a small part of the grain.
 

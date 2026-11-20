@@ -53,13 +53,13 @@ data:
         - the name he reigned under, which the oldest servants of the necropolis still whisper
 ---
 
-"The heart of even a Gar-Au is weighed," a priest of the [Great Temple of Uqa'a]{.name data-type="place/structure"} tells a boy who has asked why the road across the river is empty. "Go and look at it from the bridge. Then ask me again."
+"The heart of even a Gar-Au is weighed," a priest of the [[place-greattempluqaa|Great Temple of Uqa'a]] tells a boy who has asked why the road across the river is empty. "Go and look at it from the bridge. Then ask me again."
 
 The road is the Way of the struck house at [[place-zugezer|Zu-Gezer]], and the Judgment of the False Uqa'a is how it came to be given to the god.
 
 ## The Crime
 
-The charge was two crimes, and the temple sets them down in order. The first was blasphemy: the last Gar-Au of [[affiliation-garzinelrelu|Gar-Zin'el'Relu]] had proclaimed himself [[lore-uqaadty|Uqa'a]] in the flesh, not in rite but in truth, and had silenced the priests who named it. The second was the hidden famine: he had falsified [The Measure]{.name data-type="place/structure"} and killed the people who spoke the word _hunger_ ([[lore-failfloods|the Failing Floods]]). The old fiction of the throne says the Gar-Au is divine and every Khelathi knows nobody believes it. His offense was to remove the fiction by taking it at its word.
+The charge was two crimes, and the temple sets them down in order. The first was blasphemy: the last Gar-Au of [[affiliation-garzinelrelu|Gar-Zin'el'Relu]] had proclaimed himself [[lore-uqaadty|Uqa'a]] in the flesh, not in rite but in truth, and had silenced the priests who named it. The second was the hidden famine: he had falsified [[place-themeasure|The Measure]] and killed the people who spoke the word _hunger_ ([[lore-failfloods|the Failing Floods]]). The old fiction of the throne says the Gar-Au is divine and every Khelathi knows nobody believes it. His offense was to remove the fiction by taking it at its word.
 
 ## The Judgment
 

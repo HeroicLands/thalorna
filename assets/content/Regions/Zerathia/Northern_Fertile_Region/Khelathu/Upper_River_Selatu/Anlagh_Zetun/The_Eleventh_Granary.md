@@ -30,7 +30,7 @@ Its thinness is **moderate**, and it follows hunger and not the season. In a ful
 
 ## The Bread for the Gate
 
-Each anniversary the selat throws bread over the wall of the Eleventh Granary, and the festival has its name from that: the [Bread for the Gate]{.name data-type="lore/custom"}. The Halzi'a's house of [Anlaghet'Zaru]{.name data-type="affiliation/lineage"} keeps the granary shut by order, and the bread is the house's offering at the edge. The poor of [[place-amqelulegez|Amqelu-Legez]] eat what lands outside.
+Each anniversary the selat throws bread over the wall of the Eleventh Granary, and the festival has its name from that: the [Bread for the Gate]{.name data-type="lore/custom"}. The Halzi'a's house of [[affiliation-anlaghetzaru|Anlaghet'Zaru]] keeps the granary shut by order, and the bread is the house's offering at the edge. The poor of [[place-amqelulegez|Amqelu-Legez]] eat what lands outside.
 
 A Reading held for the unnamed at the edge quiets the field for the night it is held. It cannot end it, because no roll of the dead was kept and a Reading closes on a name.
 
@@ -40,6 +40,10 @@ A Reading held for the unnamed at the edge quiets the field for the night it is 
 - **Thieves** who believe the god-king's grain is still inside.
 - **The starving,** in a famine year, who have heard the dome is full.
 - **The Halzi'a's wardens,** who walk the wall and keep the door bricked.
+
+## Layers {#history}
+
+The granary was sealed in 2378 ST (268 AF), when the Halzi'a of the selat broke the god-king's guard at its gates and the dead of both sides were shut inside without rites ([[lore-sealedgran|the Battle of the Sealed Granaries]]).
 
 ## Hooks {#hooks}
 

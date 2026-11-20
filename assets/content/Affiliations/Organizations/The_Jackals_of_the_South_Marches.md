@@ -63,7 +63,7 @@ data:
   population: null
   economy: []
   lore: []
-  parents: []
+  parents: [frcmpnssthmrchs]
   relations: {}
   packFolder: companies
 sohl: {system: {commonSkills: []}}
@@ -71,7 +71,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Jackals are the most feared free company of the **[[place-sthmrchsrgn|South Marches]]**, the dry borderlands south of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] where the matriarchal writ grows thin. They are not a clan and not a marcher tribe but something stranger: a warband of the **Houseless**, gathered out of everything the great matriarchy to the north throws away. They take their name from their queen, the renegade spear-sister [[being-argyrirjckl|Argirira the Jackal]]—an exiled Bethuan officer who built, out of the realm's castoffs, the one thing Bethua fears above all others: a company of armed exiles, women and gelded men both, who know the matriarchy's own ways of war and owe it nothing.
+The Jackals are the most feared of the [[affiliation-frcmpnssthmrchs|Free Companies]] of the **[[place-sthmrchsrgn|South Marches]]**, the dry borderlands south of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] where the matriarchal writ grows thin. They are not a clan and not a marcher tribe but something stranger: a warband of the **Houseless**, gathered out of everything the great matriarchy to the north throws away. They take their name from their queen, the renegade spear-sister [[being-argyrirjckl|Argirira the Jackal]]—an exiled Bethuan officer who built, out of the realm's castoffs, the one thing Bethua fears above all others: a company of armed exiles, women and gelded men both, who know the matriarchy's own ways of war and owe it nothing.
 
 This makes the Jackals an anomaly in their own country. The peoples of the **South Marches are not matriarchal**—they are pastoral nomad clans led by men, who pay Bethua tribute, keep their own customs, and regard the rich realm on their northern horizon with wary hostility. A female-led warband would be unthinkable among the marcher clans themselves; the Jackals are tolerated, hired, and given room only because they are useful against a shared northern enemy, and because their queen has made them too dangerous to move against lightly.
 
@@ -103,13 +103,19 @@ The Jackals are [[being-argyrirjckl|Argirira the Jackal's]] creation and hers al
 
 ## Reputation and Relations
 
-To Bethua the Jackals are a peculiar horror: not mere bandits but the matriarchy's own exiles turned against it, armed women and gelded men who carry the realm's training into the lawless south. The [Court of the Veil]{.name data-type="affiliation/governmental"} would rather see them destroyed than admit how they came to be. To the **marcher clans** they are useful and unsettling in equal measure—a hard blade to hire against the hated north, but a Houseless, woman-led thing that fits nowhere in marcher custom and is trusted by no one. To outside powers like [[affiliation-vylarinmpr|Viléria]] they are simply the best deniable muscle on the southern shore: blades that can be set against Bethua without the hand behind them ever being seen.
+To Bethua the Jackals are a peculiar horror: not mere bandits but the matriarchy's own exiles turned against it, armed women and gelded men who carry the realm's training into the lawless south. The [[affiliation-courtveil|Court of the Veil]] would rather see them destroyed than admit how they came to be. To the **marcher clans** they are useful and unsettling in equal measure—a hard blade to hire against the hated north, but a Houseless, woman-led thing that fits nowhere in marcher custom and is trusted by no one. To outside powers like [[affiliation-vylarinmpr|Viléria]] they are simply the best deniable muscle on the southern shore: blades that can be set against Bethua without the hand behind them ever being seen.
 
 The band's loyalty runs only as deep as its make-up. The Houseless core—the exile-women and the Spadai—are bound to Argirira by shared ruin and have nowhere else to go; they would die for her, because she is the only home left to them. The hired marcher men are another matter, and would scatter back into the clans the moment the warlord fell or the loot dried up.
 
 ## A Prize Crosses the Marches
 
 For all their standing as raiders and hired blades, the Jackals have lately become a piece in a far larger game than they bargained for. The fugitive Grammatissa [[being-rshrhssfrn|Rashira of House Safiron]] is crossing the Marches with the stolen [Purple Warrant]{.name data-type="miscgear"}—incontrovertible proof of the matriarchy's corruption, sought by Bethua to burn, by Viléria to wield, and by the [[affiliation-empireakhlth|Empire of Au'Khelathu]] to answer. Viléria's coin, through [[being-casiaveric|Kassa Verris's]] cut-outs, hired the band only to delay the Hound, [[being-lmbhrpdhnn|Lámbira]]—but the Jackals rule the one road that prize must travel, and every faction now knows it. Whoever secures the register could buy the band outright or see it destroyed; and the Jackals, who answer to no one and whose queen has her own bitter score to settle with the realm the register condemns, are the wildcard that every power in the affair must reckon with and none can trust.
+
+## The Present {#present}
+
+The Marches' tribute to Bethua is late. The winter rains came short, the herds went into the dry months thin, and the clans have told the Hégissa of the southern cantons that the stock follows the autumn drive. The [[affiliation-spearsisterhood|Spear-Sisterhood]]'s patrols are watching the frontier posts and the eastern line, and the riders of the [[affiliation-hasembetribe|Hasembe Tribe]] are home for the drive. That leaves the western stages of the Marches Road to Argirira's band, and the Jackals have more road than they have held before, with fewer eyes on it.
+
+The grain makes the road worth holding. The aqueduct grain of Bethua is the northern shore's one reliable surplus while the Khelathi flood fails, and the sale the Metrissa weighs would send most of it east by the coast road past Gezazabu, a journey that never touches the Marches. The Marches Road takes a different share: the Bethuan caravans that go east when the coast is shut or too closely watched, and the grain the Marches clans buy at the frontier for their own stock and the posts. A caravan that carries grain is a fatter target than one that carries wine, and Argirira charges for passage as the wells she holds allow. Her exiled women and the Spadai core watch the stages, the hired marcher men ride the long stretches, and they are the first to drift off if the wagons stop coming. The lesser Free Companies take the wells between her stages, and she does not contest them yet. Bethua needs the road quiet and cannot afford to quiet it, so the Jackals are tolerated for now.
 
 ## Identifying Marks
 

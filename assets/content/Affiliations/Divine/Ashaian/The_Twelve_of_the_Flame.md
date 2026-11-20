@@ -91,7 +91,7 @@ In this doctrine, after death the soul crosses the [Mozhelurbek]{.name data-type
 
 The Ashaian faith does not maintain the massive, state-integrated temple hierarchies of the Khelathi tradition. Its priestly structure reflects its origins among nomadic peoples and its development in the settled courts of Amradad and the Khazrin oasis-cities.
 
-- **Shekhul** ("Master of Fire")—the senior priest of a major fire-temple or a regional spiritual authority. The Shekhul tends the sacred flame, interprets divine will through fire-reading, and adjudicates theological disputes. In the Kingdom of Amradad, the Shekhul of the [Great Fire-Temple of Amradad]{.name data-type="place/structure"} holds political influence rivaling that of the Shebarader's vashkader.
+- **Shekhul** ("Master of Fire")—the senior priest of a major fire-temple or a regional spiritual authority. The Shekhul tends the sacred flame, interprets divine will through fire-reading, and adjudicates theological disputes. In the Kingdom of Amradad, the Shekhul of the [[place-grtfiretmpl|Great Fire-Temple of Amradad]] holds political influence rivaling that of the Shebarader's vashkader.
 
 - **Delkoshekh** ("Teacher-Priest")—the working priesthood, responsible for daily rituals, instruction of the faithful, care of the sacred fires, and pastoral duties. Delkoshekhs serve in fire-temples, travel with caravans, and minister to tribal communities. They are trained in theology, astronomy, medicine, and the interpretation of omens.
 

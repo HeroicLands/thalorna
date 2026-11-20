@@ -37,14 +37,14 @@ data:
         description: >-
           Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
-      Guardian of a Town Baobab: >-
-        Custodian of one ancient tree and the town gathered around it; by custom the senior griot of that town holds the office.
+      Guardian of a Village Baobab: >-
+        Custodian of one ancient tree and the village gathered around it; by custom the senior griot of that village holds the office.
       Senior Griot: >-
         Keeper of the Long Pact and of the genealogies of all five clans—the office on which the confederation's memory rests.
       Zherami Nyende: >-
         Spirit-Speaker of the baobab, who addresses the guide at the seasons and at every gathering held beneath it.
       Keeper of the Tally: >-
-        Recorder of the offerings owed by each household of the town to its tree.
+        Recorder of the offerings owed by each household of the village to its tree.
       Initiator: >-
         Conductor of the ordeal, conducted in the tree's shade over the course of a full day.
   seat: null
@@ -57,13 +57,13 @@ data:
 sohl: {system: {commonSkills: [baobablobwezisprt]}}
 ---
 
-The **Baobab Totem** centers on the [[lore-baobablobwezispr|Baobab Spirit]], the guide of the [[affiliation-nylbtrblntn|Lobwezi]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Lobwezi are the smallest of the five clans and the ritually senior one, because it is Lobwezi griots who carry the official memory of the [Long Pact]{.name data-type="lore/law"} and the genealogies of all five clans. They speak last in any council, and what they say is generally remembered.
+The **Baobab Totem** centers on the [[lore-baobablobwezispr|Baobab Spirit]], the guide of the [[affiliation-lobwezi|Lobwezi]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Lobwezi are the smallest of the five clans and the ritually senior one, because it is Lobwezi griots who carry the official memory of the [Long Pact]{.name data-type="lore/law"} and the genealogies of all five clans. They speak last in a village council, and what they say is generally remembered.
 
-Each Lobwezi town centers on an ancient tree—some a thousand years old or more—and the senior griot of the town is also that tree's custodian. The guide is unlike the other four in that it does not move and does not hunt. It holds a place, and the people gather in it. Where the lion is venerated for its bearing and the crocodile appeased for its hunger, the baobab is venerated for its patience, and for the fact that it was there before the clan and will be there after.
+Each Lobwezi village centers on an ancient tree—some a thousand years old or more—and the senior griot of the village is also that tree's custodian. The guide is unlike the other four in that it does not move and does not hunt. It holds a place, and the people gather in it. Where the lion is venerated for its bearing and the crocodile appeased for its hunger, the baobab is venerated for its patience, and for the fact that it was there before the clan and will be there after.
 
 ## Veneration
 
-The tree is the shrine; there is no other. Offerings are made at its root by each household of the town, and the tally is kept by the town's griot. A Lobwezi town whose baobab dies does not replant and does not stay: the guide has withdrawn, the pact with that ground is ended, and the town disperses to others. This has happened twice in remembered history, and both dispersals are named in the memory-songs; [[lore-twodispersals|The Song of the Two Dispersals]] counts the households of Bwelende and Shendala and the towns that took them in.
+The tree is the shrine; there is no other. Offerings are made at its root by each household of the village, and the tally is kept by the village's griot. A Lobwezi village whose baobab dies does not replant and does not stay: the guide has withdrawn, the pact with that ground is ended, and the village disperses to others. This has happened twice in remembered history, and both dispersals are named in the memory-songs; [[lore-twodispersals|The Song of the Two Dispersals]] counts the households of Bwelende and Shendala and the villages that took them in.
 
 ## See Also {#see-also}
 

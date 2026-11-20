@@ -29,7 +29,7 @@ The path was a Vardain path before the Nordmen took the plain, and the Khazari k
 
 The snow is on the pass, and nothing crosses it. The nest dug in for the winter on short stores, after a season in which the garrisons at both pass-heads killed more of its raiders than usual. Its spawner has laid Uk, which hatch quickest and eat least, and it waits for the thaw. When the snow goes, the first to cross are the runaways who have waited out the winter on the plain, and the nest is waiting for them hungry.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 The jarl's men at the northern pass-head and the garrison of [[place-caerwynd|Kaerwiind]] at the southern skirmish whenever the snow allows. Below the southern approach, the post at [[place-sunderwynd|Sunderwiind]] holds something worse than Grukar, and the nest's raiders do not go near it.
 

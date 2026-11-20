@@ -23,7 +23,7 @@ Magu-Thelqen Selat is the land of [[affiliation-selatmaguthn|the Selat of Magu-T
 
 ## Character
 
-The land is ordinary valley country with an extraordinary town at its center. Flood-silt fields, canals and villages fill the strip between the river and the dry uplands, with high desert and chaparral beyond, and over it all stands a planned temple-city, built by one zealous dynasty and left half-abandoned. The farmers work their fields and keep the estates running while the city stands half empty. The city is the work of the house of [Thelqen'Relu]{.name data-type="affiliation/lineage"}, the house of the sun, and its half emptied when the temples refused the house's doctrine and the court returned to [[place-galezkara|Galezkara]] ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
+The land is ordinary valley country with an extraordinary town at its center. Flood-silt fields, canals and villages fill the strip between the river and the dry uplands, with high desert and chaparral beyond, and over it all stands a planned temple-city, built by one zealous dynasty and left half-abandoned. The farmers work their fields and keep the estates running while the city stands half empty. The city is the work of the house of [[affiliation-thelqenrelu|Thelqen'Relu]], the house of the sun, and its half emptied when the temples refused the house's doctrine and the court returned to [[place-galezkara|Galezkara]] ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
 
 ## Economy
 
@@ -35,10 +35,20 @@ The selat runs on the flood, the harvest and the render like every [[lore-khelat
 - The chief temple of the Faith of Uqa'a and its estates
 - The planned temple-city, half-abandoned and still inhabited
 
+## Current Situation {#present}
+
+The quarters of Magu-Thelqen are half empty, and the people who live in them are of two kinds: the estate-dwellers whose families have always lived there, and the families from dry villages who have walked in. The Legha'lutu of the estates take the newcomers as bondsmen for their food. The estates' fields are poorer, and the estate-towns' stores are the selat's reserve. The empty temple-city has become a place to shelter, and the people who shelter in it pay with their labor.
+
 ## Settlements {#settlements}
 
-Magu-Thelqen (~22,000)
+Magu-Thelqen (~5,500)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-garthelqen|Gar-Thelqen]] (~5,200)
+: a half-empty temple town in Magu-Thelqen Selat, a short ride from Magu-Thelqen
+
+[[place-lutthelqen|Lut-Thelqen]] (~4,300)
+: an estate-town of Magu-Thelqen Selat, at the edge of the old planned city
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

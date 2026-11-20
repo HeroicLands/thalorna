@@ -12,7 +12,7 @@ data: {packFolder: adventurersguides, culture: helioniteclt}
 >
 > On the quay, a herald in a bleached wool cloak reads a decree of the assembly to whoever will stop, and a knot of men argue with him about its third clause before he has finished it. A metic factor in a dyed Taruzelian robe counts amphorae of oil onto a lighter; two shipwrights with tarred forearms carry a mast-spar past him without breaking stride; a gray-haired woman in a saffron mantle steps around the whole business, followed by a slave with her writing-case. The oarsman who sat two benches in front of you all the way from the islands vaults onto the stones, rope-burned palms still black with tar, turns, and offers you his hand. "_Rhéthasin, dhidakhir!_" he says: speak, teach! "Of Pelagora. [Bákion Khaddaris]{.name data-type="being/npc"}, citizen, stroke oar. Which city is yours?" You name a country. He laughs, loud enough that the men at the herald's elbow look round, and asks what your people think justice is. Before you have finished the first sentence, two of them have come over to listen, and one is already shaking his head. Bákion waves him quiet and lets you finish; then he takes your bag off your shoulder, slings it on his own, and starts up the quay toward the customs shed, where a magistrate's clerk is chalking a seal across half your ship's cargo.
 
-[[place-helionis|Helionis]] is seven city-states in the hills east of [[place-vylariargn|Viléria]], 1.2 million people who share a tongue, a pantheon, a calendar of festivals and games, and an unshakable confidence in their own civilization, and who agree about almost nothing else. The country reaches the [[place-vylarianse|Vilérian Sea]] only along one short coast at its south-western corner, facing the islands of [[place-taruzelrgn|Taruzel]] across the water; everything else is olive terraces, narrow valleys and abrupt ranges, with a road over each pass that joins two cities and divides them as often. The [Vilérian Republic]{.name data-type="affiliation/polity"} conquered these cities and then spent centuries sending its children to be educated by them. Their academies taught the west to argue, and the [[affiliation-ordoarcanis|Thordimalon]] was born in one of them.
+[[place-helionis|Helionis]] is seven city-states in the hills east of [[place-vylariargn|Viléria]], 1.2 million people who share a tongue, a pantheon, a calendar of festivals and games, and an unshakable confidence in their own civilization, and who agree about almost nothing else. The country reaches the [[place-vylarianse|Vilérian Sea]] only along one short coast at its south-western corner, facing the islands of [[place-taruzelrgn|Taruzel]] across the water; everything else is olive terraces, narrow valleys and abrupt ranges, with a road over each pass that joins two city-states and divides them as often. The [Vilérian Republic]{.name data-type="affiliation/polity"} conquered these cities and then spent centuries sending its children to be educated by them. Their academies taught the west to argue, and the [[affiliation-ordoarcanis|Thordimalon]] was born in one of them.
 
 This guide is what the [[affiliation-cllgofethcs|College of Ethics]] of the [[affiliation-panepistmm|Epistémion]] at [[place-thyrenae2|Thirenae]] gives its foreign students in their first week. They arrive from every corner of [[place-midhalnrgn|Midhalión]], most of them by sea at Pelagora, and the College would rather they made their first mistakes on paper.
 
@@ -42,15 +42,15 @@ WHERE type = 'place'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-The roads between the cities run up valleys and over passes, and the sea runs along one coast; a party moving between them crosses another city's land at nearly every step. Summers are hot and dry, winters mild and rainy, and the light has a clarity that Helionite painters have celebrated for as long as anyone has painted.
+The roads between the city-states run up valleys and over passes, and the sea runs along one coast; a party moving between them crosses another city-state's land at nearly every step. Summers are hot and dry, winters mild and rainy, and the light has a clarity that Helionite painters have celebrated for as long as anyone has painted.
 
 ## Who Holds Power
 
 A foreign envoy who asks to be taken to the government of Helionis has asked for something that does not exist. The [[affiliation-ctysttshlns|City-States of Helionis]] combine for common defense and the shared festivals, and compete in everything else: trade, athletics, intellectual prestige and, now and then, open war.
 
-Whatever a city calls its constitution, the same forms run inside it. The citizens meet in the assembly, which stays sovereign. A council chosen by lot prepares the assembly's business for one year, and nobody sits on it twice. Magistrates are elected or allotted to the city's markets, walls, treasury and courts, and at the end of the year an auditor examines every magistrate's accounts; until the auditor clears them, the magistrate may not leave the city. The strátimor commands the city's forces by land and sea and is the one officer elected without a term limit. The arsir presides for a year, gives the year his name and hands the office back.
+Whatever a city-state calls its constitution, the same forms run inside it. The citizens meet in the assembly, which stays sovereign. A council chosen by lot prepares the assembly's business for one year, and nobody sits on it twice. Magistrates are elected or allotted to the city-state's markets, walls, treasury and courts, and at the end of the year an auditor examines every magistrate's accounts; until the auditor clears them, the magistrate may not leave the city or town where he served. The strátimor commands the city-state's forces by land and sea and is the one officer elected without a term limit. The arsir presides for a year, gives the year his name and hands the office back.
 
-A stranger meets smaller offices first. The agóranir is warden of the market—its weights, coin, quality and disputes—so a foreigner who buys or sells answers to him before anyone else. The herald speaks for the assembly and the city abroad, and the ghimarir keeps the gymnasium from his own purse, which is what makes the office an honor.
+A stranger meets smaller offices first. The agóranir is warden of the market—its weights, coin, quality and disputes—so a foreigner who buys or sells answers to him before anyone else. The herald speaks for the assembly and the city-state abroad, and the ghimarir keeps the gymnasium from his own purse, which is what makes the office an honor.
 
 > In Thirenae, you go to the agorin for oil and find a crowd in the shade of the colonnade, packed around a trestle table. The marble underfoot is cool and gritty with the morning's sweepings; someone is selling figs from a basket, and the smell of them mixes with lamp oil and sweat. At the table a thin man in a plain brown cloak turns the pages of a ledger with one wet finger, slowly. Across from him stands a magistrate in a white mantle with a purple border, his traveling chest at his feet and a porter waiting beside it. "When the books balance," the auditor says, without looking up, "and not an hour before." He turns another page. The crowd settles in to watch, and a boy runs off to tell the porter's master that the ship will sail without its passenger.
 
@@ -68,15 +68,15 @@ WHERE type = 'affiliation'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-The [[affiliation-vylarinmpr|Vilérian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Helionis]]), and Helionis still keeps its formal ties to the empire: the cities spend [[lore-vylrncrncy|Vilérian coin]], Helionite mints strike Ardin and Bit under imperial standards, and [[affiliation-tolvan|the Tolvan]] still claims their taxes on paper, which the cities do not pay. As the empire declines, the cities have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
+The [[affiliation-vylarinmpr|Vilérian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Helionis]]), and Helionis still keeps its formal ties to the empire: the city-states spend [[lore-vylrncrncy|Vilérian coin]], Helionite mints strike Ardin and Bit under imperial standards, and [[affiliation-tolvan|the Tolvan]] still claims their taxes on paper, which the city-states do not pay. As the empire declines, the city-states have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
 
 ## The Agorin and the Dinner Table
 
-Daily life happens in public. The agorin of every city is its political, commercial and intellectual center, and citizens argue there about everything from grain prices to the nature of the gods. The gymnasium is where a young citizen's body and mind are trained together, and the academies are where the city reproduces itself. Heralds and criers read public inscriptions aloud, because most people cannot read them.
+Daily life happens in public. The agorin of every city-state is its political, commercial and intellectual center, and citizens argue there about everything from grain prices to the nature of the gods. The gymnasium is where a young citizen's body and mind are trained together, and the academies are where the city-state reproduces itself. Heralds and criers read public inscriptions aloud, because most people cannot read them.
 
-A Helionite owes the city first, plainly and ahead of family, because the city is what makes a person capable of anything worth doing. Then he owes his household, then the friends bound to him, which in Helionis is a formal and serious category. Above all of it, he owes the truth an argument: letting a false thing stand unchallenged in public is a failure of the basic civic duty. Dinner with three Helionites takes six hours.
+A Helionite owes the city-state first, plainly and ahead of family, because the city-state is what makes a person capable of anything worth doing. Then he owes his household, then the friends bound to him, which in Helionis is a formal and serious category. Above all of it, he owes the truth an argument: letting a false thing stand unchallenged in public is a failure of the basic civic duty. Dinner with three Helionites takes six hours.
 
-Women's standing changes at every city gate. Some cities confine women to the household; others let them into intellectual and even political life. The hetairin have a position with no equivalent anywhere else: educated companions trained in music, philosophy, rhetoric and the social arts, and the most socially mobile women in Helionite society. Graduates of the Academy of the Silver Veil serve as companions, advisors and political agents in courts across Midhalión, and they keep in touch with one another. Call a hetairin a courtesan and the conversation is over.
+Women's standing changes from one city-state to the next. Some city-states confine women to the household; others let them into intellectual and even political life. The hetairin have a position with no equivalent anywhere else: educated companions trained in music, philosophy, rhetoric and the social arts, and the most socially mobile women in Helionite society. Graduates of the Academy of the Silver Veil serve as companions, advisors and political agents in courts across Midhalión, and they keep in touch with one another. Call a hetairin a courtesan and the conversation is over.
 
 Honor is paid in the open. A Helionite takes risks for a reputation that a foreigner would call unnecessary, and settles a feud in court, occasionally by violence and always with an audience. What he will not tolerate is a wrong done quietly and left unanswered, because the concealment is as much the injury as the act.
 
@@ -86,13 +86,13 @@ The [[affiliation-arldnpnthn|Aureldian Pantheon]] runs through every part of Hel
 
 Temples are civic property, and priesthoods are civic offices often held by men who also hold magistracies. A Helionite addresses the gods as directly as he addresses his neighbors: he petitions them, bargains with them, and reproaches them when they fail to deliver. In Korinthea the priest-judges of Árdavon sit as Korinthea's court. "The council writes the rules," one of them tells petitioners, "and the temple says what they mean when two men disagree about them."
 
-The shared festivals are the nearest thing Helionis has to a national institution. At the sacred sites the cities send runners, wrestlers and chariot teams against one another, and taking part is a duty owed to the gods; a season later the same cities may be at war. Solemn ritual, theater and public feasting share the festival days, and pilgrims come from across the Vilérian Sea.
+The shared festivals are the nearest thing Helionis has to a national institution. At the sacred sites the city-states send runners, wrestlers and chariot teams against one another, and taking part is a duty owed to the gods; a season later the same city-states may be at war. Solemn ritual, theater and public feasting share the festival days, and pilgrims come from across the Vilérian Sea.
 
-The [[affiliation-mystrshlns|Mysteries of Helionis]] are a distinctly Helionite institution: the mystery cults, secretive societies that promise their initiates deeper knowledge through revelation in stages. Some are purely spiritual. Several have real political influence, and a party that needs to know who in a city answers to whom may have to ask which of its magistrates have been initiated.
+The [[affiliation-mystrshlns|Mysteries of Helionis]] are a distinctly Helionite institution: the mystery cults, secretive societies that promise their initiates deeper knowledge through revelation in stages. Some are purely spiritual. Several have real political influence, and a party that needs to know who in a city-state answers to whom may have to ask which of its magistrates have been initiated.
 
 ## The Academies and the Order
 
-Every city of note has its academies, gymnasia and theaters, and the great academies draw students from across Ankaris. Mathematics, natural philosophy, rhetoric, medicine, ethics, law and the theory of magic are all taught and argued over in public. Around 400 BF the schools of the city-states joined in the Epistémion—the Epistémion, the place of all knowledge—a federation in which every domain of inquiry stood level with every other. Its College of Arcane Philosophy was one college among many.
+Every city-state has its academies, gymnasia and theaters, and the great academies draw students from across Ankaris. Mathematics, natural philosophy, rhetoric, medicine, ethics, law and the theory of magic are all taught and argued over in public. Around 400 BF the schools of the city-states joined in the Epistémion—the Epistémion, the place of all knowledge—a federation in which every domain of inquiry stood level with every other. Its College of Arcane Philosophy was one college among many.
 
 When the Republic conquered the cities, the Senate took that college out of the federation in 312 BF and, in 73 BF, chartered it as the Thordimalon (the Arcane Order). The other colleges stayed, diminished but intact, and they are strongest here. Helionites regard the Order as their intellectual offspring: they are proud of the parentage and uneasy about the child.
 
@@ -104,9 +104,9 @@ That unease has a working rule. Several city-states have arrangements that let a
 
 ## Songs, Legends and Plays
 
-The schools teach these works as the cities' record, and their lines turn up in the assembly, at the heralds' altar and at dinner:
+The schools teach these works as the city-states' record, and their lines turn up in the assembly, at the heralds' altar and at dinner:
 
-- [[lore-keelburning|The Burning of the Keel]] is Thirenae's song at the Games, where each city's rhapsode sings its founding ship, and it is Thirenae's claim to the first vote, the first dead and the first fire on the shore.
+- [[lore-keelburning|The Burning of the Keel]] is Thirenae's song at the Games, where each city-state's rhapsode sings its founding ship, and it is Thirenae's claim to the first vote, the first dead and the first fire on the shore.
 - [[lore-terracemsrs|The Measures of the Terraces]] is the highland farmer's poem of how the gods voted the world into measure and of the year on the olive terrace, and the schools teach it as the second book.
 - [[lore-firstasking|The Herald Who Asked for the Dead]] is the legend of the first herald to ask for the dead, told at the heralds' altar before every Games, and it holds the words every herald says on the field.
 - [[lore-veillessons|The Lessons of the Silver Veil]] are the sayings a companion learns in her eight years at the Academy, and they are the rules she keeps at every table she sits at.
@@ -121,11 +121,11 @@ The schools teach these works as the cities' record, and their lines turn up in 
 
 **Confusing the hetairin with courtesans.** The Academy of the Silver Veil has graduates in rooms where armies do not reach, and they remember what was said at dinner, and by whom.
 
-**Treating a metic's rights as a citizen's.** A foreigner cannot own land, cannot vote, and is liable to the levy if the city goes to war while he lives there.
+**Treating a metic's rights as a citizen's.** A foreigner cannot own land, cannot vote, and is liable to the levy if the city-state goes to war while he lives there.
 
 **Practicing what you may only study.** Arcane theory is free in Helionis. Casting is the Order's business, and a philosopher who crosses the line answers to the Order.
 
-**Touching a herald.** His person is inviolable, even between cities at war, and the asking he says on the field opens with it, in the words of [[lore-firstasking|the Herald Who Asked for the Dead]]: [I am the herald of my city, and my person is the gods'.]{.verse}
+**Touching a herald.** His person is inviolable, even between city-states at war, and the asking he says on the field opens with it, in the words of [[lore-firstasking|the Herald Who Asked for the Dead]]: [I am the herald of my city, and my person is the gods'.]{.verse}
 
 ## People to Meet
 
@@ -145,14 +145,14 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Ways In
 
-A party can arrive by sea at Pelagora, overland from Viléria with students bound for the academies, down from [[place-velanthrgn|Velanthia]], or across the eastern hills from [[place-byzariargn|Bizaria]], the cousin country that took the caravan road where Helionis took philosophy. A Helionite character belongs to a city before anything else, then to a household, an academy, a temple office, a patron family, a ship's crew or a cult. A foreign character is most easily a student, a metic trader, a sailor, a mercenary hired for a war between cities, or a scholar come to consult a library.
+A party can arrive by sea at Pelagora, overland from Viléria with students bound for the academies, down from [[place-velanthrgn|Velanthia]], or across the eastern hills from [[place-byzariargn|Bizaria]], the cousin country that took the caravan road where Helionis took philosophy. A Helionite character belongs to a city-state before anything else, then to a household, an academy, a temple office, a patron family, a ship's crew or a cult. A foreign character is most easily a student, a metic trader, a sailor, a mercenary hired for a war between city-states, or a scholar come to consult a library.
 
-At the first agorin, ask three questions: **Which city's law are you standing under? Who will speak for you in its assembly? What can you defend in public?** The answers give a party its patron, its standing and its first argument.
+At the first agorin, ask three questions: **Which city-state's law are you standing under? Who will speak for you in its assembly? What can you defend in public?** The answers give a party its patron, its standing and its first argument.
 
-Campaigns start well from a contest. A city needs a team for the games and its best wrestler has broken his arm. A playwright's patron family wants the rival family's production to fail on the night. A magistrate cannot leave the city until his accounts balance, and someone has made sure they never will. An ambassador must reach a city its own city is at war with, and needs escorts who are not citizens of either. A student of the College of Ethics has found a manuscript that proves an Order theorem was argued first in a different college, by someone who also argued about justice.
+Campaigns start well from a contest. A city-state needs a team for the games and its best wrestler has broken his arm. A playwright's patron family wants the rival family's production to fail on the night. A magistrate cannot leave his city until his accounts balance, and someone has made sure they never will. An ambassador must reach a city-state its own city-state is at war with, and needs escorts who are not citizens of either. A student of the College of Ethics has found a manuscript that proves an Order theorem was argued first in a different college, by someone who also argued about justice.
 
 :::secret
-**For the GM:** The sharpest tool Helionis offers is that every decision is public and every city is sovereign. A party that wins an argument in one agorin has made an enemy who will be in the next one, and a decree that binds one city means nothing over the pass. The shared festivals bring rival cities to one sacred site, where taking part is a duty to the gods, and that duty is the one thing the party can count on both sides to honor.
+**For the GM:** The sharpest tool Helionis offers is that every decision is public and every city-state is sovereign. A party that wins an argument in one agorin has made an enemy who will be in the next one, and a decree that binds one city-state means nothing over the pass. The shared festivals bring rival city-states to one sacred site, where taking part is a duty to the gods, and that duty is the one thing the party can count on both sides to honor.
 :::
 
 ## Where to Read Next
@@ -160,10 +160,10 @@ Campaigns start well from a contest. A city needs a team for the games and its b
 - [[place-helionis|Helionis]] for the country, its gods, its magic and its history
 - [[affiliation-ctysttshlns|City-States of Helionis]] for the constitutions, the offices and the ladder of standing
 - [[lore-helioniteclt|Helionite]] for what a Helionite holds a person owes
-- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]] and [[affiliation-kalydria|Kalidria]] for the three leading cities, and [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]] for the other four
+- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]] and [[affiliation-kalydria|Kalidria]] for the three leading city-states, and [[affiliation-theradon|Theradon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]] for the other four
 - [[affiliation-panepistmm|The Epistémion]], [[lore-panepistfnd|its founding]] and [[affiliation-ordoarcanis|the Thordimalon]] for the academies and the order that grew out of them
 - [[lore-helionscnq|The Conquest of Helionis]] for the war that ended the cities' freedom and began the Order
-- [[affiliation-arldnpnthn|The Aureldian Pantheon]] for the gods the cities share
+- [[affiliation-arldnpnthn|The Aureldian Pantheon]] for the gods the city-states share
 - [[skill-helonclng|Helonik]] for the tongue of the theater and its naming traditions
 - [[place-heladrgn|Hellád]] for the wider country, and [[place-byzariargn|Bizaria]] for the cousins to the east
 

@@ -13,7 +13,10 @@ data:
     - {to: bethuargn, bearing: W}
     - {to: dunharargn, bearing: NE}
     - {to: vylarianse, bearing: NW}
-  routes: [{to: chandrmukha, bearing: NE, mode: ship, days: 30}]
+    - {to: sthmrchsrgn, bearing: SW}
+  routes:
+    - {to: chandrmukha, bearing: NE, mode: ship, days: 30}
+    - {to: marchesroad, bearing: W, mode: land, days: 10, terrain: [steppe, road]}
   population: 19000000
   packFolder: regkhregn
   government: empireakhlth
@@ -36,7 +39,11 @@ The delta shares the wet-coastal character of the whole northern shore: sea-temp
 
 Upstream, the valley is almost tropical. Its water is warm enough that hippopotami and crocodiles thrive in it and kill farmers every year, and on a summer evening the air on the bank feels nothing like the dry country a day's ride to either side.
 
-Beyond the flood's reach is desert. West of the river, high desert and chaparral run out toward the [[lore-bethuanclt|Bethuan]] frontier and give way to sand dunes nearer the valley; east, the land rises into rugged, mineral-rich hills before it runs out into the semi-desert of [[place-khuqetmiglet|Khuqet-Miglet]] and the [[lore-dunhariclt|Dunhari]] sand seas. Canal and cistern carry water a little way into this country, and herds graze its margins; nothing else lives there by choice. The deep sands of [[place-lareshu|Lareshu]] lie out beyond the settled country altogether.
+Beyond the flood's reach is desert. West of the river, high desert and chaparral run out toward the [[lore-bethuanclt|Bethuan]] frontier and give way to sand dunes nearer the valley. In the western desert lies the lake of [[place-maguithnet|Magu-Ithnet]], some ninety-four miles long, filled by a canal from the river and with reclaimed estates along its eastern shore. East of the river, the land rises into rugged, mineral-rich hills before it runs out into the semi-desert of [[place-khuqetmiglet|Khuqet-Miglet]] and the [[lore-dunhariclt|Dunhari]] sand seas. Canal and cistern carry water a little way into this country, and herds graze its margins; except in the lake basin, nothing else lives there by choice. The deep sands of [[place-lareshu|Lareshu]] lie out beyond the settled country altogether.
+
+## Where the People Live
+
+The nineteen million are not spread evenly. The valley and the delta hold almost all of them: along the strip of black soil, a village stands in sight of the next from every dike, and a town lies within a day's barge of every field. The desert margins on either side are nearly empty, a scatter of herders at the wells, the garrisons and mining camps of the border selatu, and nothing at all in the deep sands beyond. About one person in twelve lives in a town or city. The towns eat from the farms around them, the border mining towns buy their grain from the river villages, and the two metropolises, [[place-galezkara|Galezkara]] and [[place-garanlaghet|Gar-Anlaghet]], live on the barges that carry the flood's surplus and the tribute grain down to them.
 
 ## Peoples and Culture
 
@@ -65,7 +72,7 @@ ORDER BY name.full COLLATE NOCASE
 : a hidden site kept out of every record, of which the embalmers tell dark stories
 
 [[place-anlaghura|Anlaghura]]
-: the monolith standing alone in the [Targa River Valley]{.name data-type="place/region"}
+: the monolith standing alone in the [[place-targavalley|Targa River Valley]]
 
 [[place-beshakan|Beshakan]]
 : the desert ruins where the earliest astronomers carved star maps into the stones
@@ -78,6 +85,16 @@ ORDER BY name.full COLLATE NOCASE
 
 [[place-clublstvlt|The Burial Club's Last Vault]]
 : the rock-cut common tomb in the dry margin west of the river
+
+## Current Situation {#present}
+
+The line where the black soil stops has moved toward the river. Two low floods in a row have left the water short of the canal-heads, so the ditches and qanats that carry the flood out to the valley's edges run dry earlier in the season, and the fields at the desert margin are the first to go back to dust. The dense basins in the middle of the valley hold their crops but draw harder on the granaries, and the delta's marshes shrink around the ports and papyrus beds. The orchard coast along the Vilérian Sea lives on winter rain and is least touched.
+
+Every settled place counts the year by the Measure at [[place-yathtelgu|Yath-Telgu]] and the stores in its own cisterns and granaries. Villages assess what is left, the scribes of each selat remeasure the fields, and the Halzi'a argue that the render should follow the shortfall. Their reckonings reach the capital late and lower than the flood explains, and the suspicion that tribute is being held back is the empire's chief political fact: the selatu speak of it as the river's doing, and Galezkara reads it as something else.
+
+The herding peoples of the western margins graze closer to the water under their arrangements with the Halzi'a, and the dry years push them into the farmers' stubble. The frontier with Bethua, which was never precisely drawn, takes the strain. Along the eastern edge, the garrisons of [[place-khuqetmiglet|Khuqet-Miglet]] are fed from a valley that has less to send.
+
+Behind all of it stands the throne's standing. The [[lore-garauu|Gar-Au]] is 46 and in her twelfth year, the question of the succession is asked at court, and the river's failure falls on the one office that is supposed to answer for it.
 
 ## See Also {#see-also}
 
@@ -96,8 +113,14 @@ ORDER BY name.full COLLATE NOCASE
 [[place-khuqetmiglet|Khuqet-Miglet]]
 : the northeastern desert-march toward [[place-dunharargn|Dunhara]]
 
+[[place-maguithnet|Magu-Ithnet]]
+: the canal-fed lake of the western desert
+
 [[place-lutithnet|Lut-Ithnet]]
 : a funerary estate under the western cliffs, at the end of a canal that has run dry
+
+[[place-amqelmiglet|Amqel-Miglet]]
+: the harbors of the northern selats
 
 [[place-bethuargn|Bethua Region]]
 : neighbor to the west

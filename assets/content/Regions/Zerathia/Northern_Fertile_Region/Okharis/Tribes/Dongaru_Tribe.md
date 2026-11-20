@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okharis, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okharis as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
+      A chieftain by descent and consent, with the lineage elders, over a timber and charcoal tribe; the Master of the Stacks apportions the felling and the burning, and the tribe's dues are charcoal for the temple smithies. The tribe owes fealty to Okharis, and its chieftain and elders attend the moots in the temple-cities; every member holds standing in Okharis as well, most as Villager/Townsman and the elders and chieftain as Honored One.
     ranks:
       - level: 0
         title: Kinless
@@ -40,14 +40,16 @@ data:
     offices:
       Chieftain: Head of the tribe, holding by descent and consent together and losing it when either fails.
       Elder: Senior of a lineage, whose recollection of custom settles what the young dispute.
+      Master of the Stacks: >-
+        Apportions the felling among the households and sets the burning of the earth-covered charcoal stacks, and answers to the temple-cities for the charcoal the tribe owes their smithies.
       Delegate: >-
         The chieftain or an elder sent to the moots in the temple-cities, where matters affecting the tribes are decided.
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
       Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
   seat: dongaruvlg
-  population: null
-  territorial_population: 220
+  population: 150000
+  territorial_population: 150000
   economy: [lore-bartercnmy, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [okharis]

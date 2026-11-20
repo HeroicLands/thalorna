@@ -20,11 +20,11 @@ The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] share the shrine. 
 
 ## History {#history}
 
-The Council’s authority was challenged by [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker who took the title Master of the Tower and claimed to be a vessel of Bazhrámish without the gathered elders’ assent. The Council denounced him. His iron crown was his own work; the elders never gave him a vessel’s torc.
+The Council’s authority was challenged by [[being-vhrnmrzvn|Vahrun Marzuvan]], a storm-walker who took the title Master of the Tower and claimed to be a vessel of Bazhrámish without the gathered elders’ assent. The Council denounced him. His iron crown was his own work; the elders never gave him a vessel’s torc ([[lore-vahrundenun|The Denunciation of Vahrun Marzuvan]]). The Warrior's Circle heard its two petitions against a Dunhari tribe here, and refused both under the Old Promise ([[lore-circlrefusl|The Two Refusals of the Circle]]).
 
 ## The Present {#present}
 
-The coming season-turn promises the fullest shrine in years. The Council of Elders arrives unable to rule: [the Wind-Readers]{.name data-type="affiliation"} and [the Lightning-Marked]{.name data-type="affiliation"} each withhold assent from what the other proposes, over the salt toll the Lightning-Marked keep on the [Pale Floor]{.name data-type="place/region"} and the readings they keep from the other lineages. While that lasts, the northern chieftains cannot get the summons they want for a Sovidur storm-shaman preaching in their camps. On the Circle's side of the shrine, petitioners wait with two cases under the [Old Promise]{.name data-type="lore/custom"}: the southern tribes against [the Unrecited]{.name data-type="affiliation/criminal"}, raiders who are Dunhari with their names taken, and herders from the edge of the Floor over the storm above the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]. The standing questions wait behind them: Sovidur raiders, contested wells, borders tested by the Tellumi Confederation and the dead against the southern pastures. [[being-shadznkmrz|Shadezan Kamruz]], the storm cults’ most prominent recognized vessel, has led the gathered warriors twice in the last decade, and both the Circle and the Council of Elders look to him.
+The coming season-turn promises the fullest shrine in years. The Council of Elders arrives unable to rule: [the Wind-Readers]{.name data-type="affiliation"} and [the Lightning-Marked]{.name data-type="affiliation"} each withhold assent from what the other proposes, over the salt toll the Lightning-Marked keep on the [[place-palefloor|Pale Floor]] and the readings they keep from the other lineages. While that lasts, the northern chieftains cannot get the summons they want for a Sovidur storm-shaman preaching in their camps. On the Circle's side of the shrine, petitioners wait with two cases under the [Old Promise]{.name data-type="lore/custom"}: the southern tribes against [the Unrecited]{.name data-type="affiliation/criminal"}, raiders who are Dunhari with their names taken, and herders from the edge of the Floor over the storm above the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]. The standing questions wait behind them: Sovidur raiders, contested wells, borders tested by the Tellumi Confederation and the dead against the southern pastures. [[being-shadznkmrz|Shadezan Kamruz]], the storm cults’ most prominent recognized vessel, has led the gathered warriors twice in the last decade, and both the Circle and the Council of Elders look to him.
 
 ## See Also {#see-also}
 
@@ -36,3 +36,6 @@ The coming season-turn promises the fullest shrine in years. The Council of Elde
 
 [[place-dunhardsrtrgn|Dunhara]]
 : the desert whose tribes share the shrine
+
+[[scenario-thrdpetition|The Third Petition]]
+: a scenario: a beaten clan asks the Warrior's Circle to hold Shadezan Kamruz to the Old Promise

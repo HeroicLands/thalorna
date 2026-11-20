@@ -1,17 +1,18 @@
 ---
 shortcode: takorozanethar
-name: {full: Tákoro Zanethar}
+name: {full: Tákoro Zanethar, en: [Tákoro, The Keeper of the Three Flames]}
 type: being
 subType: npc
+description: "King of Okharis, who cannot call the Host, answer an embassy or set the tribute while the Oracle gives no answer."
 tags: [administration, draft]
 data:
   templatePriority: null
   archetypes: [courtier, cleric]
-  occupation: king
+  occupation: King
   lore: []
   culture: okharinclt
-  homes: [okharisrgn]
-  affiliations: {okharis: {rank: 5, office: King}}
+  homes: [zarhanis]
+  affiliations: {okharis: {rank: 5, office: King}, nkaruthar: {office: Keeper of the Three Flames}}
   gender: male
   species: humanflk
   born: 679.267
@@ -25,6 +26,11 @@ data:
     complexion: [clear]
     extra_features: []
   packFolder: northernfertileregionokharis
+  items:
+    - {key: courtlinen, name: Undyed court linen, kind: miscgear, system: {weight: 3}}
+    - {key: pyrestone, name: Pyrestone, kind: miscgear, system: {weight: 0.5}}
+    - {key: threewicklamp, name: Three-wick lamp, kind: miscgear, system: {weight: 2}}
+    - {key: thronesseal, name: Seal of the throne, kind: miscgear, system: {weight: 0.3}}
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -388,11 +394,51 @@ sohl:
     defaultCombatGroup: null
 ---
 
+# Appearance {#appearance}
+
+Tákoro Zanethar is a 40-year-old man who stands 5'4" tall and is of medium build. He has ebony skin, a clear complexion, black hair and brown eyes. He holds himself very straight, speaks low and wears undyed linen at court.
+
 # Dossier {#dossier}
 
-The current Overlord of [[affiliation-okharis|Okharis]] is Tákoro Zanethar (_The Keeper of the Three Flames_).
+Tákoro Zanethar is King of [[affiliation-okharis|Okharis]] and bears the title Keeper of the Three Flames, the office in which the temple unites its three aspects in the person of the temporal ruler. He lives at [[place-zarhanis|The First Flame]] beside the High Pyremant and holds the three temple-cities and the tribes together by ceremony more than by command.
 
-- Tákoro resides in [[place-zarhanis|Zarhanis]] but relies heavily on the cooperation of the city-states to maintain power.
-- Tákoro is a cautious yet charismatic ruler who has managed to maintain the tenuous balance between the three city-states, despite the occasional rivalry among their priest-kings.
-- Known for his ritual diplomacy, he regularly visits the temples of Zarhanis, [[place-kaljekor|Kaljekor]], and [[place-vuthraka|Vuthraka]], participating in grand ceremonies to reaffirm his authority as the chosen steward of [[lore-nkaruthardty|Nkaru'thar]].
-- While deeply religious, Tákoro is also pragmatic, relying on alliances with tribal leaders to ensure the kingdom's rural areas remain loyal.
+He is cautious and charismatic. He visits the temples of [[place-zarhanis|Zarhanis]], [[place-kaljekor|The Golden Flame]] and [[place-vuthraka|The Wild Flame]] in turn for their great rites, and he binds the chieftains to him by alliance. He is devout and practical at once.
+
+## Background
+
+**The heir.** He is the son of [Isoreth Zanethar]{.name data-type="being/npc"}, the King before him, and grew up at the court of [[place-zarhanis|Zarhanis]]. At twelve he spent a season in each of the three temples.
+
+**The anointing.** Isoreth died when Tákoro was thirty, and the kingship came to him by descent. It became his in full at the anointing, when the Oracle spoke the Flame's sanction over him. He holds it by both.
+
+**The silence.** This year the question he put to the Oracle, whether he calls the Host, has come back without an answer. He may not call the Host, answer an embassy or set the tribute until it comes.
+
+## Psyche
+
+### Personality
+
+He is patient, courteous and watchful, and he hears a speech to the end.
+
+### Motivation
+
+He wants the answer to come before he must act, and the Three-Flame Settlement held until it does.
+
+### Strengths
+
+Priests and chieftains alike sit at his table, and he knows each chieftain's dues from memory.
+
+### Weaknesses
+
+His authority rests on a sanction he cannot compel, and each faction reads the silence for itself.
+
+## Social
+
+### Affiliations
+
+- **[[affiliation-okharis|Okharis]]**: King, holding the throne by descent and by the gods' sanction.
+- **[[affiliation-nkaruthar|The Eternal Flame]]**: Keeper of the Three Flames.
+
+## Plot Hooks
+
+1. **The envoy in the outer court.** A Khelathi envoy waits for an audience the King cannot grant. He wants an honest guide to take the envoy to a chieftain's fold.
+2. **The late count.** The registers show three clans late and short. He wants a party that can ride out and count herds to bring him the true figure before the next moot.
+3. **The festival seat.** At the next festival he wants an outsider at the moot's edge to tell him who spoke first.

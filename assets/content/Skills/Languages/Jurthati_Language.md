@@ -43,10 +43,7 @@ data:
       gloss: "a death; the compound form of _si_"
       attaches: "added"
       examples: ["rui > ruizi, the ritual death"]
-    - form: "-bu"
-      gloss: "balance, harmony; the compound form of _fu_"
-      attaches: "added"
-      examples: ["wo > wobu, the warrior nobility"]
+    - {form: "-bu", gloss: "balance, harmony; the compound form of _fu_", attaches: "added"}
     - form: "-zu"
       gloss: "a tribe, a people or a caste; the compound form of _tsu_"
       attaches: "added"
@@ -1303,6 +1300,12 @@ data:
       gloss: "Iron Lord, a granted name"
       source: {kind: coined}
       built: [tsui, zo]
+    - form: fuzo
+      class: name
+      field: Houses and granted names
+      gloss: "Calm Dragon, a vow name"
+      source: {kind: coined}
+      built: [fu, zo]
     - form: hi
       class: v
       field: Senses and passions
@@ -6869,7 +6872,7 @@ data:
         - "Zoja"
         - "Henja"
         - "Zowo"
-        - "Huenwo"
+        - "Henwo"
         - "Rowo"
         - "Tsuiwo"
         - "Buija"
@@ -6883,6 +6886,7 @@ data:
         - "Doja"
         - "Henzo"
         - "Tsuizo"
+        - "Fuzo"
     house:
       - "Yanjai"
       - "Hojujai"
@@ -6949,6 +6953,7 @@ data:
     - {name: Dragon's Mountain, tongue: translation}
     - {name: Emperor, tongue: translation}
     - {name: Fire Peak, tongue: translation}
+    - {name: Fuzo, tongue: jurthati, built: [fu, zo]}
     - {name: Hawu, tongue: jurthati, built: [ha, wu]}
     - {name: Heir, tongue: translation}
     - {name: Hojai, tongue: jurthati, built: [ho, -jai]}

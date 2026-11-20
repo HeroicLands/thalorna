@@ -21,17 +21,18 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 #### Ankaris—the West ("the civilized world")
 
-| Region                           | Population      |
-| -------------------------------- | --------------- |
-| [[place-midhalnrgn\|Midhalión]]  | ~38,000,000     |
-| [[place-aureldirgn\|Aureldia]]   | ~11,000,000     |
-| [[place-khzryndsrtrgn\|Khazrin]] | ~3,000,000      |
-| [[place-dunharargn\|Dunhara]]    | ~3,000,000      |
-| [[place-nrdlndsrgn\|Nordlands]]  | ~2,000,000      |
-| [[place-vrystwald\|Vristwald]]   | ~500,000        |
-| [[place-grkrhlmrgn\|Grukarholm]] | ~50,000         |
-| Other minor western regions      | ~5,000,000      |
-| **Western Ankaris subtotal**     | **~63,000,000** |
+| Region                                                              | Population      |
+| ------------------------------------------------------------------- | --------------- |
+| [[place-midhalnrgn\|Midhalión]]                                     | ~38,000,000     |
+| [[place-aureldirgn\|Aureldia]]                                      | ~11,000,000     |
+| [[place-velanthrgn\|Velanthia]]                                     | ~4,000,000      |
+| [[place-khzryndsrtrgn\|Khazrin]]                                    | ~3,000,000      |
+| [[place-dunharargn\|Dunhara]]                                       | ~3,000,000      |
+| [[place-nrdlndsrgn\|Nordlands]]                                     | ~2,000,000      |
+| [[place-vrystwald\|Vristwald]]                                      | ~500,000        |
+| [[place-grkrhlmrgn\|Grukarholm]]                                    | ~50,000         |
+| Other minor western regions (the remainder to the rounded subtotal) | ~1,000,000      |
+| **Western Ankaris subtotal**                                        | **~63,000,000** |
 
 **Within Midhalión**, the west's demographic heart:
 
@@ -71,7 +72,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | [[place-bethuargn\|Bethua]]                     | ~3,000,000      |
 | [[place-sthrnsvnhs\|the Southern Savannahs]]    | ~2,000,000      |
 | [[place-cntrlrnfrsts\|the Central Rainforests]] | ~250,000        |
-| [[place-sthmrchsrgn\|the South Marches]]        | not stated      |
+| [[place-sthmrchsrgn\|the South Marches]]        | ~500,000        |
 | **Zerathia subtotal**                           | **~29,000,000** |
 
 #### Kì'ìch'chik

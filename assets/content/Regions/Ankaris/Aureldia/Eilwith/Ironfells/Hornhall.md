@@ -37,7 +37,7 @@ The nest lost its best raiders with that band. Its spawner is laying to replace 
 The band came down a hunters' road the Khazari cut along the crest from Hornhall to the high grazing, a ledge path on the north side of the ridge, out of sight of Dorrin, which watches east and toward the sea. The hold's archive records the hall and the road. The council knows where the band came from and means to send a company to clear the hall when the snow goes off the crest. It has told the valleys nothing, and the Speaker at the Gate, [[being-valdantnvgrz|Valdan Tanv-guráz]], has not answered the Watch-Warden's question.
 :::
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 The hold, above all. A Khazari company that comes to clear the hall kills everything in it and does not ask who else is there. The crags are steep and iced for half the year, and the corries below hold the range's wolves.
 

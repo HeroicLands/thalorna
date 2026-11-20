@@ -31,7 +31,7 @@ The oasis and the villages strung up the wadi grow barley, dates and vegetables,
 
 ## Who Rules and Keeps Order {#who-rules}
 
-A _tagemader_ holds the town, its walls and its revenue. A _ghedvader_ commands the southern host, which keeps its barracks inside the wall and pays and supplies the [Kinless Watch]{.name data-type="place/structure"}, the fort on the road to the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] whose garrison are men cast out by their tribes. The two men answer to different vashkaders and keep separate accounts of the tribes. Sheikhs bring their grievances to whichever of the two will hear them.
+A _tagemader_ holds the town, its walls and its revenue. A _ghedvader_ commands the southern host, which keeps its barracks inside the wall and pays and supplies the [[place-kinlesswatch|Kinless Watch]], the fort on the road to the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] whose garrison are men cast out by their tribes. The two men answer to different vashkaders and keep separate accounts of the tribes. Sheikhs bring their grievances to whichever of the two will hear them.
 
 ## The Present {#present}
 

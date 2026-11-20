@@ -48,6 +48,7 @@ languages:
     valt: { tag: art-x-valt, note: skill-valtarlng }
     varo: { tag: art-x-varo, note: skill-varokhlng }
     vedy: { tag: art-x-vedy, note: skill-vedyarlng }
+    velt: { tag: art-x-velt, note: skill-velanthlng }
     vyl: { tag: art-x-vyl, note: skill-vylarilng }
     zxx: { tag: zxx }
 
@@ -85,8 +86,9 @@ authors:
 
 packs:
     - { name: items, label: Items, type: Item, system: sohl }
-    - { name: journals, label: Journals, type: JournalEntry }
+    - { name: journals, label: Journals, type: JournalEntry, default: true }
     - { name: actors, label: Actors, type: Actor, system: sohl }
+    - { name: gm-journals, label: GM Journals, type: JournalEntry, private: true }
 
 publish:
     # This package's content is its site, so it mounts at the package root and
@@ -128,7 +130,7 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-aelwythanclt'
         - id: aukhelathu
-          title: Aû'Khelathu
+          title: Au'Khelathu
           abbreviation: "Khel."
           subtitle: A Gazetteer of Thalorna
           contents:
@@ -449,8 +451,8 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-senaliclt'
         - id: tantsou
-          title: Tāntsou
-          abbreviation: "Tānt."
+          title: Tantsou
+          abbreviation: "Tant."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -469,16 +471,22 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-tantsouclt'
         - id: jenchai
-          title: Jénchài
-          abbreviation: "Jür."
+          title: Jenchai
+          abbreviation: "Jen."
           subtitle: A Gazetteer of Thalorna
           contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Places
                 contents:
                     - filter: type = 'place' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Affiliations
                 contents:
                     - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-jenchaiclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Lore
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-jenchaiclt'
@@ -739,6 +747,7 @@ packageBuild:
                   - items
                   - journals
                   - actors
+                  - gm-journals
         media:
             - type: setup
               url: modules/thalorna/assets/images/media/thalornasetup.webp
@@ -764,7 +773,8 @@ packageBuild:
         - address: affiliation-brnyzrvln
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-capitalselat
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat's seat is the metropolis Galezkara, fed by the flood's surplus and the tribute grain of the whole valley, so the listed towns exceed the urban ceiling.
         - address: affiliation-chylrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-cmmndnpdfrt
@@ -819,13 +829,17 @@ packageBuild:
         - address: affiliation-rwlstrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-selatgrnlght
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat holds the delta's metropolis and a second port, and the valley's grain barges and the sea trade feed both, so the listed towns exceed the urban ceiling.
         - address: affiliation-selatgrrthsr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat is the temple city of Khelunu and its schools, fed by the grain-land around it and the valley's surplus, so the listed towns exceed the urban ceiling.
         - address: affiliation-selatkhelzrt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat holds the temple city of Khelzuret and the workforce of its necropolis, fed by the valley's surplus, so the listed towns exceed the urban ceiling.
         - address: affiliation-selatnlghztn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat holds a river port and a temple city in the empire's greatest granary, and the surplus of its own flood-silt wheatlands feeds both, so the listed towns exceed the urban ceiling.
         - address: affiliation-sqrtrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-svghrtrb
@@ -843,7 +857,8 @@ packageBuild:
         - address: affiliation-vrkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-wojaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The seat Yuwu is a trading port that buys its food with harbor tolls and trade, so its share of the domain exceeds the urban ceiling.
         # Provisional: each polity below governs one town or city, so its urban share is
         # trivially 100 percent. Delete this group when the package skips single-settlement polities.
         - address: affiliation-twncnclprtaln

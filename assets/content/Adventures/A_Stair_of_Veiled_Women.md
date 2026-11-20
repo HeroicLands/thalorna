@@ -8,7 +8,7 @@ tags: [draft]
 data:
   parents: []
   locations: [mezhvadez, dunhardsrtrgn]
-  cast: []
+  cast: [ghzrnmzhn]
   factions: []
   follows: []
   party: {size: null, archetypes: []}
@@ -19,7 +19,7 @@ The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. Mezhvadez i
 
 ## Hooks {#hooks}
 
-- **The thief.** A tagemader of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], a polished man named [Ghezrun]{.name data-type="being/npc"}, pays well for the king's signet and says he does not care how it is taken.
+- **The thief.** [[being-ghzrnmzhn|Ghezrun Mazhen]] is the _tagemader_ of [[place-tahrodan|Tahrodan]] for the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. He is a polished man, and he pays well for the king's signet and says he does not care how it is taken.
 - **The mercenary or soldier.** A merchant's caravan is short a guard. The caravan-master wants an escort to the dune that covers the stair, and his two foreign clients carry a map.
 - **The leader.** A bahvar of [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
 - **The wanderer.** A desert mystic returning from a vigil speaks of a voice beneath the sand, calling in the speech of her mother. He asks the party to make it stop.
@@ -135,7 +135,7 @@ The wind has uncovered [[place-mezhvadez|Mezhvadez]], the Dry Stair. Mezhvadez i
 - **The door sealed.** The southern pastures are quiet and the poets add a stanza to the recitation. A _tagemader_ in [[place-qarvelakhend|Qarvelakhend]] stops paying anyone to dig.
 - **The Keeper laid to rest in the open.** Zirvash and the guides say her fire was seen across the dune sea. The tribes' account of what came before the Dunhara gets a new line.
 - **The door opened.** The Hollow King walks the southern pastures and the dead begin to stand. The Warrior's Circle meets in an extra gathering.
-- **The signet in Amradad.** The tagemader has the proof he wanted and a debt he does not know about.
+- **The signet in Amradad.** Ghezrun has the proof he wanted and a debt he does not know about.
 
 ## See Also {#see-also}
 

@@ -37,6 +37,10 @@ Mining and quarrying are the whole of it. The gold and copper feed the empire's 
 - The smelter-towns and the temple-workshops of [[affiliation-psaqaru|Saq'aru]]
 - The desert quarry-roads and the forts and water-stations that guard them
 
+## Current Situation {#present}
+
+The mine-and-quarry camps of Zu-Zel-Iaqtet are supplied by water-carts and grain-wagons from the valley, and a short flood makes both dear. The wage-gangs who chose the work ask for more, the convicts get what the guards allow, and the seasonal levies arrive hungrier and leave sooner. Each camp is built around its diggings and its guard-fort, and the camps nearest the river are the ones that hold. At Balku the assay-house still weighs and seals the gold for the capital, and the weighing is the most carefully watched work in the march.
+
 ## Settlements {#settlements}
 
 [[place-balqu|Balku]] (~22,000)

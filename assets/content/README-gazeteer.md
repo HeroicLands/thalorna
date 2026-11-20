@@ -639,6 +639,18 @@ read its public text against the secret blocks of every note it draws on.
 **A scenario is the exception: it is wholly GM material**, and its truth is
 stated plainly.
 
+**GM-only notes carry `tags: [gm]` and reach the GM in the GM Journals
+compendium, which the site and the book omit.** A being tagged `gm` routes there
+on its own. A place, lore, doc or scenario note tagged `gm` must also declare
+`data.pack: gm-journals`; without it the note lands in the public journals pack,
+which drops it.
+
+```yaml
+tags: [history, gm]
+data:
+  pack: gm-journals
+```
+
 ## Coining words
 
 These rules hold for every new coinage in every tongue; a language's own note adds its flavor on top.

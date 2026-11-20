@@ -66,6 +66,10 @@ The Selat of Iuthnet is one of the upper-river selatu of the [[affiliation-empir
 
 The seat is Iuthnet, where the Halzi'a keeps his court and the chief temple of [[affiliation-uznera|Uzn'era]] stands. Below the Halzi'a, estates are held by a Legha'lutu or a Zabet'lutu, master or mistress of the manor, its fields and its village, and a Zabet'lutu holds hers in her own right. That is Uzn'era's teaching at work: women in the empire own property, initiate divorce and hold priestly office, up to the highest, because the goddess's faith will not treat a wife as property.
 
+## Current Situation {#present}
+
+Iuthnet has healing-temples and birth-shrines, and in a hungry year the shrines have more mothers than the estates can feed. The great cult of Uzn'era runs the shrines, and the estates below the Halzi'a are held by Legha'lutu and Zabet'lutu, masters and mistresses of manor, fields and village. The Zabet'lutu hold their estates in their own right, and in this selat they are the ones who decide what the estate grain does: it goes first to the birth-shrines and the new mothers, and the render to the throne is paid from what remains. The Halzi'a does not countermand them. His tribute to the capital is smaller and nobody at court objects to the reason. The shrines enter every birth in the temple's rolls, and the Halzi'a is proud of the count.
+
 ## Commerce and Currency {#commerce}
 
 Iuthnet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

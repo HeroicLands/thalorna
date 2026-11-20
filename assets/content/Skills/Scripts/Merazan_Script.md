@@ -35,4 +35,4 @@ The nobility, the clergy, and the professional scribes. Guild merchants hold wha
 
 ## In play
 
-Reading unpointed Merazan that a character did not expect—an old letter, a name on a boundary marker, an inscription with the vowels worn off—is the standard difficulty; the reader will produce _a_ reading, confidently, and it may be the wrong word entirely. Pointed commercial text is easy by comparison. Note also the pointing: a Taruzeli factor and an Okhari scribe write the same signs, and each finds the other's vowel marks a foreign hand.
+Reading unpointed Merazan that a character did not expect—an old letter, a name on a boundary marker, an inscription with the vowels worn off—is the standard difficulty; the reader will produce _a_ reading, confidently, and it may be the wrong word entirely. Pointed commercial text is easy by comparison. Note also the pointing: a Taruzeli factor and an Okharik scribe write the same signs, and each finds the other's vowel marks a foreign hand.

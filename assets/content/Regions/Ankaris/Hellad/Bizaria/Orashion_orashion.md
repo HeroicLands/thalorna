@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: orashion2
-  population: 220000
-  territorial_population: 220000
+  population: 210000
+  territorial_population: 210000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
@@ -71,29 +71,29 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Órashion is the one [[affiliation-byzarianlg|League seat]] where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 220,000 people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of [[place-byzariargn|Bizaria]], and the others in the League regard it as the least glamorous of the five and the one they could least do without.
+Órashion is the one [[affiliation-byzarianlg|League seat]] where the people who make the goods have a say in how the city-state is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on its council with as much authority as the merchant-princes. About 210,000 people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of [[place-byzariargn|Bizaria]], and the others in the League regard it as the least glamorous of the five and the one they could least do without.
 
 ## Who Decides
 
 A guild council and the merchant-princes share the government. The guilds control the quality and quantity of production, so a buyer who wants a blade, a cast or a commission negotiates with a guild before any merchant-prince. That makes Órashion a working-class city-state whose politics run more egalitarian than the oligarchies of [[affiliation-khryshteikhos|Krusteikhos]] and [[affiliation-nesthiros|Nesthiros]], or at least more contentious. An ore-wagon driver on the mountain road says it from his own seat: "I know whose seal is on my load before I know its weight."
 
-The council elects a First of the Council for a fixed term, who holds the city's seal. In Órashion the Guild Master, who speaks before the council for a chartered trade and answers for his members' conduct, sits at that table with the same authority as a merchant-prince.
+The council elects a First of the Council for a fixed term, who holds the city-state's seal. In Órashion the Guild Master, who speaks before the council for a chartered trade and answers for his members' conduct, sits at that table with the same authority as a merchant-prince.
 
 ## Standing
 
-Standing runs from the register outward. The freeman is enrolled in the city's register, trades in its markets and pleads in its courts. Above him the guild master heads a chartered trade; a house factor runs a great house's warehouses and ships; the house head, councillor and First of the Council govern. Below the freeman the resident labors under the city's protection without its freedom, and the unfree are bound in service or debt. The guild system gives ordinary craftsmen a political voice that workers in the other League cities lack.
+Standing runs from the register outward. The freeman is enrolled in the city-state's register, trades in its markets and pleads in its courts. Above him the guild master heads a chartered trade; a house factor runs a great house's warehouses and ships; the house head, councillor and First of the Council govern. Below the freeman the resident labors under the city-state's protection without its freedom, and the unfree are bound in service or debt. The guild system gives ordinary craftsmen a political voice that workers in the other League city-states lack.
 
 ## Relations
 
-Órashion makes the arms, armor and metalwork the other four cities trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and [[place-argyrteikhos2|Argirteikhos]] lie the [Vezhnur holds]{.name data-type="place/region"}, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Órashion brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
+Órashion makes the arms, armor and metalwork the other four city-states trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and [[place-argyrteikhos2|Argirteikhos]] lie the [Vezhnur holds]{.name data-type="place/region"}, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Órashion brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
 
 ## Commerce and Currency
 
-Órashion uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Órashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Órashion uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Órashion, a member of a province of the empire in law, takes full part in the trade and banking infrastructure of the Vilérian system. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## Current Situation {#present}
 
-The guilds and the merchant-princes share the council, and the guilds decide how much the forges produce. The city-state's weight in the League is the arms and metalwork the other four cities trade.
+The guilds and the merchant-princes share the council, and the guilds decide how much the forges produce. The city-state's weight in the League is the arms and metalwork the other four city-states trade.
 
 ## History {#history}
 

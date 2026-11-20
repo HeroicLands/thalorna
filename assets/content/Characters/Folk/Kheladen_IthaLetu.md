@@ -3,17 +3,17 @@ shortcode: kheladenthlt
 name: {full: Kheladen Itha'Letu}
 type: being
 subType: npc
-description: "A scholar-collector who funds craftsmen of the first rank and expects the results to be worth what he has paid"
+description: "The Halzi'a of the smith-towns of Lut-Getha-Zalu, a scholar-collector who funds craftsmen of the first rank."
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [scholar, courtier]
-  occupation: "Scholar-Collector"
+  occupation: Halzi'a
   lore: []
   culture: khelathiclt
-  homes: [anlaghzetun]
-  affiliations: {}
+  homes: [lutgetha]
+  affiliations: {selatltgthzl: {rank: 3, office: Halzi'a}, empireakhlth: {rank: 3}}
   gender: "male"
   species: humanflk
   born: "674.171"
@@ -34,12 +34,24 @@ data:
     mouth: small
     extra_features: []
   packFolder: regkhfolk
+  items:
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: halziaseal
+      name: Seal of the Halzi'a (carved stone)
+      kind: miscgear
+      system: {weight: 0.4}
 ---
 
 # Appearance {#appearance}
 
-Kheladen Itha'Letu is a 46-year-old man who stands 5'7" tall with a light build. He has brown skin, graying black hair, and hazel eyes.
+Kheladen Itha'Letu is a 45-year-old man who stands 5'7" tall with a light build. He has brown skin, graying black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Kheladen Itha'Letu collects and funds craftsmen of the first rank out of [[place-anlaghzetun|Anlagh-Zetun]]. He expects the results to be worth exactly what he has paid for them, and says so when they are not. Craftsmen working for Kheladen deliver before being asked twice.
+Kheladen Itha'Letu collects and funds craftsmen of the first rank out of [[place-lutgetha|Lut-Getha]]. He expects the results to be worth exactly what he has paid for them, and says so when they are not. Craftsmen working for Kheladen deliver before being asked twice.
+
+He is the Halzi'a of [[affiliation-selatltgthzl|The Selat of Lut-Getha-Zalu]], the smith-towns and craft-temples of bronze, gold and the ceremonial arms of the nobility, and he keeps his collection at [[place-lutgetha|Lut-Getha]].
