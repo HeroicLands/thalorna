@@ -69,7 +69,7 @@ On most dusks the one man the village sends to the landing is a boy of twelve, b
 
 ## Background
 
-**Formation.** He grew up in the meadow village of Lervikov, took his turn at the watch from fourteen and rang the bell for the first time the autumn a war-band crossed the forest edge.
+**Formation.** He grew up in the meadow village of [Lervikov]{.name data-type="place/settlement"}, took his turn at the watch from fourteen and rang the bell for the first time the autumn a war-band crossed the forest edge.
 
 **The fort.** He joined the wardens at twenty and served at the gate of Brevavesh and in two other forts for twenty years, until the prince gave him Torvogor Fort at forty-one.
 

@@ -63,7 +63,7 @@ Brelana Duvashov poles a flat boat up the slow brown rivers from the forts to th
 
 ## Background
 
-**Formation.** She was born in the river village of Duvashov and poled her first boat at ten, in a spring flood.
+**Formation.** She was born in the river village of [Duvashov]{.name data-type="place/settlement"} and poled her first boat at ten, in a spring flood.
 
 **The place.** She went upriver at twenty-two with a boat and a debt, and found the forts needed salt.
 

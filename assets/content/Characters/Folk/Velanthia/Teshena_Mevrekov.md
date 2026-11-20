@@ -60,7 +60,7 @@ Teshena Mevrekov lives on the edge of Tveskanov and reads the sky for the foothi
 
 ## Background
 
-**Formation.** She was taught by her grandmother in the village of Mevrekov, who kept a cord of knots for every bad winter.
+**Formation.** She was taught by her grandmother in the village of [Mevrekov]{.name data-type="place/settlement"}, who kept a cord of knots for every bad winter.
 
 **The cords.** She came to the muster town at thirty, when the Host's riders began to send for her.
 

@@ -101,5 +101,5 @@ The port has the fewest soldiers in the land, and its credit is the houses' and 
 
 ## Plot Hooks
 
-1. **The quarter's silver.** The coin for the wardens of Brevavesh waits at the mint, and Milogor wants it escorted up the river road without a word to the houses.
+1. **The quarter's silver.** The coin for the wardens of [[place-brvvsh|Brevavesh]] waits at the mint, and Milogor wants it escorted up the river road without a word to the houses.
 2. **The mills upriver.** He wants a party to report what the lowland prince's millers say of his purchases.

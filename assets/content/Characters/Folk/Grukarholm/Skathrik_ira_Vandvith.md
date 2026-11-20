@@ -57,9 +57,9 @@ Skathrik ira Vandvith wur Mahnreth is a 33-year-old man who stands 6' 0" tall an
 
 # Dossier {#dossier}
 
-**Age 33. Fur hunter of the margins of the Drowned Country. Wants to be across the [[place-grimhreth|Grimhreth]] walk before the thaw closes it.**
+**Age 33. Fur hunter of the margins of [[place-skathengrund|Skathengrund]]. Wants to be across the [[place-grimhreth|Grimhreth]] walk before the thaw closes it.**
 
-Skathrik ira Vandvith wur Mahnreth hunts for furs along the margins of [[place-skathengrund|Skathengrund]] from the autumn to the thaw, setting traps in the forest edge and taking beaver and marten from the slow water. He is of [[place-mahnryth|Mahnreth]] and reaches the margin by the cause-walk at Grimhreth, which he crosses in the dry weeks and on the winter ice. He sells his bales at the forts' yards at [[place-brvvsh|Brevavesh]] and [Sokavesh]{.name data-type="place/settlement"}, where the buyers pay in silver and the wardens sell a night's passage.
+Skathrik ira Vandvith wur Mahnreth hunts for furs along the margins of the Drowned Country from the autumn to the thaw, setting traps in the forest edge and taking beaver and marten from the slow water. He is of [[place-mahnryth|Mahnreth]] and reaches the margin by the cause-walk at Grimhreth, which he crosses in the dry weeks and on the winter ice. He sells his bales at the forts' yards at [[place-brvvsh|Brevavesh]] and [Sokavesh]{.name data-type="place/settlement"}, where the buyers pay in silver and the wardens sell a night's passage.
 
 :::secret {title="The dry logs"}
 He has watched the nest's logs at Grimhreth for three seasons and knows which are rotten and which are sound. He sells the crossing times to hunters of the Velanthian side for a pelt, and the nest that keeps the walk has not once failed to lay the logs again.

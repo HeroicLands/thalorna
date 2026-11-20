@@ -60,11 +60,11 @@ Sokogor Dobrashov is a 29-year-old man who stands 5' 9" tall and is of light bui
 
 **Age 29. Rider of the [[affiliation-hsttrvl|Tarvál Host]] lent to [[place-sdrvdfrt|Sedrovod Fort]] as a scout. Wants the paths from the marsh read before the warden has to guess.**
 
-Sokogor Dobrashov rides for the Tarvál Host, which serves the prince of Brelavesh for pay. The ataman, [[being-vlkrkdgrch|Volkar Kodogorich]], lends him to Sedrovod Fort each season as a tracker. He reads the signs along the forest edge and the marsh, a broken reed or a cooked bone, and tells the warden what crossed in the night. The warden has him for the season; Volkar gives the orders.
+Sokogor Dobrashov rides for the Tarvál Host, which serves the prince of [[place-brlvsh|Brelavesh]] for pay. The ataman, [[being-vlkrkdgrch|Volkar Kodogorich]], lends him to Sedrovod Fort each season as a tracker. He reads the signs along the forest edge and the marsh, a broken reed or a cooked bone, and tells the warden what crossed in the night. The warden has him for the season; Volkar gives the orders.
 
 ## Background
 
-He learned tracking from the wolf-hunters of the Dobrashov herds. He first went to the fort at twenty-six and returns each year.
+He learned tracking from the wolf-hunters of the [Dobrashov]{.name data-type="place/settlement"} herds. He first went to the fort at twenty-six and returns each year.
 
 ## Psyche
 

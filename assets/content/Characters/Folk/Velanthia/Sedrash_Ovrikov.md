@@ -66,7 +66,7 @@ Sedrash Ovrikov keeps the forge under the wall of the stone fort at Brevavesh. H
 
 ## Background
 
-**Formation.** He apprenticed in the market town of Sedravesh and learned mail-repair from a Vilérian armorer.
+**Formation.** He apprenticed in the market town of [Sedravesh]{.name data-type="place/settlement"} and learned mail-repair from a Vilérian armorer.
 
 **The place.** The captain of the forts brought him to Brevavesh at twenty-six with a forge, a house and a promise of regular work.
 

@@ -75,7 +75,7 @@ Zhitovod has pledged a third of the autumn tithe to a grain-town house against t
 
 **The office.** He took the river at thirty-four, by descent and the hall's oath, and he rules by the customary law his judge keeps him to.
 
-**Now.** The late rain on the eastern fields leaves him answerable for a short harvest to both Hosts and the forts of Brevavesh.
+**Now.** The late rain on the eastern fields leaves him answerable for a short harvest to both Hosts and the forts of [[place-brvvsh|Brevavesh]].
 
 ## Psyche
 

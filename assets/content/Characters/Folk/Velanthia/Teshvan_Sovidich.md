@@ -59,7 +59,7 @@ Teshvan Sovidich is a 48-year-old man who stands 5' 10" tall and is of medium bu
 
 **Age 48. Ransom broker of [[place-brvvsh|Brevavesh]]. Wants every captive he brings out to be the last one he is asked to bring.**
 
-Teshvan Sovidich rides between Brevavesh and the ford town of Yaravesh with a family's coin in a belted purse and a letter in a clerk's hand. At the ford he counts the sum out to the war-band's go-between, and he brings the captive back by the river road if the price is paid. A family that cannot pay can pay him a fee to ask. The wardens know his face and let him through at any hour, since it is in no warden's interest to stop a ransom.
+Teshvan Sovidich rides between Brevavesh and the ford town of [Yaravesh]{.name data-type="place/settlement"} with a family's coin in a belted purse and a letter in a clerk's hand. At the ford he counts the sum out to the war-band's go-between, and he brings the captive back by the river road if the price is paid. A family that cannot pay can pay him a fee to ask. The wardens know his face and let him through at any hour, since it is in no warden's interest to stop a ransom.
 
 :::secret {title="The tenth"}
 A tenth of every family's coin never reaches the ford. He keeps the difference and has never kept a ransom entire, and no family has counted what was sent against what was paid.
