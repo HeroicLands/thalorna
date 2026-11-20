@@ -59,7 +59,11 @@ The Lubemo does not vote. It talks until the objections stop, in an order fixed 
 
 ## The Present {#present}
 
-The Lubemo is being convened this year, and the delegations are gathering at Heto Lubemo. The matter the paramounts could not settle is a war begun since the last Lubemo: the Ruwozi against the Kolembozi, the cattle-clan whose herds need the rivers the crocodile-clan controls, after a dry season and a diverted channel. The Convener is a party to the war, so the convergence is in doubt, and the other three clans must choose sides or hold the Pact by convergence. The water-keeping Ékunda, who stand between the clans, are drawn in.
+The Lubemo is being convened this year, and the delegations are gathering at Heto Lubemo. The matter the paramounts could not settle is a war begun since the last Lubemo: the [[affiliation-ruwozi|Ruwozi]] against the [[affiliation-kolembozi|Kolembozi]], the cattle-clan whose herds need the rivers the crocodile-clan controls, after a dry season and a diverted channel. The war stands first in the order of business, and the Convener, who keeps that order and speaks last, is a party to it. A body that decides by convergence has two paramounts at opposite ends of the grounds, each of whom asks the other three to choose.
+
+The three do not choose in the open. The [[affiliation-sengala|Sengala]] have told no one which way they will go, though their delegation camps beside the Kolembozi. The Ngonzi hold the wall and take no side. The Lobwezi keep the record and the Pact's terms, and hold the Pact by convergence. The [[affiliation-ekunda|Ékunda]], who stand between the clans, are drawn in: both sides have asked the Keeper of the Spring to turn the other's herders from the water, the elders have refused both, and the delegate carries that refusal to the sitting.
+
+Every outcome has a cost. A convergence that favors one clan needs the other paramount to stop objecting, and that paramount answers for it at home. A matter left unconverged waits for the next sitting, which comes every fourth dry season, and the war stays unsettled until the paramounts converge on it. The renewal comes last and needs the five to say it again in their own bodies, so a Lubemo that has not converged on the war reaches the renewal with the Pact's first term broken in plain sight.
 
 ## How a Party Meets It {#how-a-party-meets-it}
 
