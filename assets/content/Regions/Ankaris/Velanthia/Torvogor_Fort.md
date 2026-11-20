@@ -18,7 +18,7 @@ The fort is stone, with a gate toward the river and a hall for the garrison. A b
 
 ## Who Is There
 
-The warden is appointed by the prince and answers to his captain of the forts, who keeps the rolls at [[place-brvvsh|Brevavesh]]. The wardens are paid, tired and corruptible: the port prince's silver pays them and the lowland prince's grain feeds them. A circuit judge hears the cases the warden and the village cannot settle. The village gives a man to the watch in turn.
+The warden, [[being-krvgrlrvkv|Karvogor Lervikov]], is appointed by the prince and answers to his captain of the forts, who keeps the rolls at [[place-brvvsh|Brevavesh]]. The wardens are paid, tired and corruptible: the port prince's silver pays them and the lowland prince's grain feeds them. A circuit judge hears the cases the warden and the village cannot settle. [[being-brvnbrvkv|Brevana Brevekov]] sets the village's wounds, and [[being-brlndvshv|Brelana Duvashov]] poles up to the fort with salt and iron before she goes on to the marsh villages. The village gives a man to the watch in turn.
 
 ## The Present {#present}
 
@@ -38,6 +38,15 @@ Both the grain and the silver come late, and the garrison is owed several months
 
 [[place-sdrvdfrt|Sedrovod Fort]]
 : the paid fort on the forest road
+
+[[being-krvgrlrvkv|Karvogor Lervikov]]
+: the warden of the fort
+
+[[being-brvnbrvkv|Brevana Brevekov]]
+: the healer of the village beneath it
+
+[[being-brlndvshv|Brelana Duvashov]]
+: the river-trader whose last landing it is
 
 [[place-grkrhlmrgn|Grukarholm Region]]
 : the country its forts face

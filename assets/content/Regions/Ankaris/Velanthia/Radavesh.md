@@ -1,6 +1,6 @@
 ---
 shortcode: rdvsh
-name: { full: Radavesh }
+name: {full: Radavesh}
 type: place
 subType: settlement
 description: "A palisaded river landing where the fur boats of the northern forest unload."
@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-Radavesh is a palisaded landing town of about four thousand people on the river, held by the [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]]. The fur boats that come down from the trap grounds of [[place-vrystwald|Vristwald]] tie up here to unload, because the quays of [[place-brlvsh|Brelavesh]] are crowded and its tolls are higher. Bales of fur are sorted, counted and sold to the houses' buyers on the landing, or loaded on barges and wagons for the port's warehouses. The boatwomen and traders of Vristwald, who hold the furs and the boats, are the town's most valued guests, and the town's inns, tanners and coopers live on them. The town grows no grain: its bread is bought from the lowland barges that tie up at the landing on their way down to the port, and the fishing village of [Lervashov]{.name data-type="place/settlement"} sends its catch up the river road. The prince's port-warden keeps a toll-house at the landing and the houses of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] keep agents in the sheds.
+Radavesh is a palisaded landing town of about four thousand people on the river, held by the [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]]. The fur boats that come down from the trap grounds of [[place-vrystwald|Vristwald]] tie up here to unload, because the quays of [[place-brlvsh|Brelavesh]] are crowded and its tolls are higher. Bales of fur are sorted and sold to the houses' buyers on the landing, or loaded on barges and wagons for the port's warehouses. The boatwomen and traders of Vristwald, who hold the furs and the boats, are the town's most valued guests, and the town's inns, tanners and coopers live on them. The town grows no grain: its bread is bought from the lowland barges that tie up at the landing on their way down to the port, and the fishing village of [Lervashov]{.name data-type="place/settlement"} sends its catch up the river road. The prince's port-warden keeps a toll-house at the landing and the houses of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] keep agents in the sheds, among them [[being-tvsknkrdgrch|Tveskan Krodogorich]].
 
 ## See Also {#see-also}
 

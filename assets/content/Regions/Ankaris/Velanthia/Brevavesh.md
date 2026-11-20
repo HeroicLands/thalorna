@@ -1,6 +1,6 @@
 ---
 shortcode: brvvsh
-name: { full: Brevavesh }
+name: {full: Brevavesh}
 type: place
 subType: settlement
 description: "The fortress-town seat of the frontier princedom, which lives on its garrison's wages and eats the grain the lowlands send."
@@ -45,11 +45,11 @@ The fort holds the largest body of paid wardens in the princedom, with the capta
 
 ## Government, Faith and Trade {#government-faith-trade}
 
-The prince governs by the forts, and the town has no council: the captain keeps its order and the judge its law. Its trade is the garrison's wages spent, the grain barges that come up from the lowlands under escort, and the fur hunters who outfit in the town before the cold months and sell what they bring out of the forest to the buyers who wait at the river gate. A small house of the [[affiliation-lizelas|Faith of Lizelas]] at the foot of the fort keeps the hours for the garrison and buries its dead. The ford town of Yaravesh, where ransoms are counted out and captives handed back, lies down the river, and the ransom brokers of the town ride between the two.
+The prince governs by the forts, and the town has no council: the captain keeps its order and the judge its law. Its trade is the garrison's wages spent, the grain barges that come up from the lowlands under escort, and the fur hunters who outfit in the town before the cold months and sell what they bring out of the forest to the buyers who wait at the river gate. A small house of the [[affiliation-lizelas|Faith of Lizelas]] at the foot of the fort keeps the hours for the garrison and buries its dead. The ford town of Yaravesh, where ransoms are counted out and captives handed back, lies down the river, and the ransom brokers of the town, [[being-tshvnsvdch|Teshvan Sovidich]] first among them, ride between the two.
 
 ## Within the Walls {#within-the-walls}
 
-The fort is a square of gray stone with a tower at the river corner and a barracks yard behind the gate. Below it the town is a close huddle of timber houses, smokehouses and horse-yards, with narrow lanes that smell of tar and wet fur. The yards of the fur hunters line the road to the river gate, each with a drying rack, and the armorer's forge and the farrier's shop stand under the fort's wall where the wardens can reach them. The granary is the one stone building in the town besides the fort, and it is kept locked by the captain's own key.
+The fort is a square of gray stone with a tower at the river corner and a barracks yard behind the gate. Below it the town is a close huddle of timber houses, smokehouses and horse-yards, with narrow lanes that smell of tar and wet fur. The yards of the fur hunters line the road to the river gate, each with a drying rack, and the forge of the armorer, [[being-sdrshvrkv|Sedrash Ovrikov]], and the farrier's shop stand under the fort's wall where the wardens can reach them. The granary is the one stone building in the town besides the fort, and it is kept locked by the captain's own key.
 
 ## Hooks {#hooks}
 
@@ -61,6 +61,12 @@ The fort is a square of gray stone with a tower at the river corner and a barrac
 
 [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]
 : the princedom whose seat it is
+
+[[being-sdrshvrkv|Sedrash Ovrikov]]
+: the armorer under the fort's wall
+
+[[being-tshvnsvdch|Teshvan Sovidich]]
+: the ransom broker who rides to Yaravesh
 
 [[place-grkrhlmrgn|Grukarholm Region]]
 : the country its forts face

@@ -25,7 +25,7 @@ The walk runs through peat-bog and standing water, a narrow line without rail or
 
 ## Who Uses It
 
-Raiding parties come out along the cause-walks of the Grukar country, and this is the path of one nest's party. Fur hunters who find it use it to reach the margin and to leave it. The Varokh villages of Skathwald watch the paths to it.
+Raiding parties come out along the cause-walks of the Grukar country, and this is the path of one nest's party. Fur hunters who find it use it to reach the margin and to leave it, among them [[being-skthrkrvndvth|Skathrik ira Vandvith]]. [[being-wlfrnrfrdrnd|Wulfrún ira Frodrúnd]] watches for the parties that come out along it. The Varokh villages of Skathwald watch the paths to it.
 
 ## Dangers
 
@@ -44,6 +44,12 @@ The Skathwald villages spend on their walls and stand their watches whether or n
 
 [[place-skathengrund|Skathengrund]]
 : the marsh the walk crosses
+
+[[being-skthrkrvndvth|Skathrik ira Vandvith]]
+: a fur hunter who crosses it
+
+[[being-wlfrnrfrdrnd|Wulfrún ira Frodrúnd]]
+: the watcher at Hildholt who survived a raid out of it
 
 [[place-skathwald|Skathwald]]
 : the Varokh reach it leaves

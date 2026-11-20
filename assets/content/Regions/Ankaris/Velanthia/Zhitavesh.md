@@ -41,7 +41,7 @@ The late rain on the eastern fields has made the count the town's whole concern.
 
 ## Where a Party Lodges {#lodging}
 
-The monastery, under its starbrat [[being-rdrbskvnch|Radora Boskvanich]], keeps a guest barn for travelers and the poor, with straw, bread and a bowl of porridge, and asks only that a guest work an hour in the yard. The inns of the landing serve the bargemen and the merchant houses' factors: they are loud, dear in the autumn, and full of people who know the price of grain before anyone else. A visitor of rank is lodged at the prince's hall, and everything said at his table is heard by the retinue.
+The monastery, under its starbrat [[being-rdrbskvnch|Radora Boskvanich]], keeps a guest barn for travelers and the poor, with straw, bread and a bowl of porridge, and its infirmarian, [[being-grnmlvnch|Gorena Milvanich]], keeps the sick-beds, and asks only that a guest work an hour in the yard. The inns of the landing serve the bargemen and the merchant houses' factors: they are loud, dear in the autumn, and full of people who know the price of grain before anyone else. A visitor of rank is lodged at the prince's hall, and everything said at his table is heard by the retinue.
 
 ## History {#history}
 
@@ -66,6 +66,9 @@ The town grew where its first barn stood at a ferry, and the seat has been held 
 
 [[place-tvskvsh|Tveskavesh]]
 : the pass market where its grain goes south
+
+[[being-grnmlvnch|Gorena Milvanich]]
+: the infirmarian of the great house
 
 [[place-velanthrgn|Velanthia Region]]
 : the land
