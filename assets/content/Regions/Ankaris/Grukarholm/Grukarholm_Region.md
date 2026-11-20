@@ -18,7 +18,7 @@ data:
   population: 50000
   packFolder: grukarholm
 
-# terran_analog: "Belarus—a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
+# terran_analog: "Belarus—a forest-and-marsh region between Vristwald and Velanthia, distinct in people and polity from its neighbors."
 ---
 
 Grukarholm names a landlocked concentration of [[lore-grukarfolk|Grukar]] nests amid dense mixed and coniferous forest, roadless marshland, slow brown rivers, and shallow lakes. It overlies the northwestern part of [[place-velanthrgn|Velanthia]] and the eastern edge of [[place-vrystwald|Vristwald]], and it lies south of [[place-norgaad|Norgaad]], southeast of Nordheim and southwest of [[place-malagna|Malagna]]. It is the easternmost part of Vristwald and the westernmost part of Velanthia, and no coast or drawn border fixes its extent. Its forests and swamps impede organized armies for most of the year. It is a region and not a state: the Grukar have no structure or cooperation outside their own nests, and the area is simply infested by them, so the humans gave it a name. The place is a shifting mosaic of Grukar tribal ground, not a confederation or a kingdom.
