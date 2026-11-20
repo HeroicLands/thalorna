@@ -30,3 +30,6 @@ Zhitavesh is the seat of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 
 [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]]
 : the houses of the lowland barns
+
+[[place-frrygrnry|Ferry Granary]]
+: the house at the river crossing of the grain road

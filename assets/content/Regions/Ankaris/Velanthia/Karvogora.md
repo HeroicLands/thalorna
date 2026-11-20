@@ -1,9 +1,9 @@
 ---
 shortcode: krvgr
-name: {full: Karvogora, en: [The Southern Range], helo: [Órasin Borethin]}
+name: {full: Karvogora, en: [The Southern Range], helo: [Borethin Órasin]}
 type: place
 subType: feature
-description: "The mountain line that closes Velanthia's southern rim and joins it to Khaddaria and the Northern March: one set of passes, crossed by grain wagons going south and by ore and marauders coming north."
+description: "The mountain line that closes Velanthia's southern rim and divides it from Helionis and the Northern March: its several passes are crossed by grain wagons going south and by ore and marauders coming north."
 tags: [draft, mountain, border]
 data:
   demonym: null
@@ -15,9 +15,9 @@ data:
 
 ## Overview {#overview}
 
-Karvogora is the mountain line along the whole southern rim of the [[place-velanthrgn|Velanthia Region]]. The Velanthians name it for what it is made of, _karv_, stone, and _gor_, a height: the Stone Height. In [[place-helionis|Helionis]] it is Órasin Borethin, the northern mountain, and in the [[place-northrnmrch|Northern March]] it is simply the watershed that the frontier follows. It is one range with three names, and three countries argue over who keeps its passes.
+Karvogora is the mountain line along the whole southern rim of the [[place-velanthrgn|Velanthia Region]]. The Velanthians name it for what it is made of, _karv_, stone, and _gor_, a height: the Stone Height. In [[place-helionis|Helionis]] it is Borethin Órasin, the north mountain, and in the [[place-northrnmrch|Northern March]] it is simply the watershed that the frontier follows. It is one range with three names, and three countries argue over who keeps its passes.
 
-North of it lies the black-earth grain belt, and south of it lie the mining towns of [[place-khaddaria|Khaddaria]] and the upland pastures of the March. Nothing else joins them. Grain goes over the passes in one direction, and ore and iron come back in the other.
+North of it lies the black-earth grain belt, and south of it lie the mining towns of [[place-khaddaria|Khaddaria]] and the upland pastures of the March. Grain goes over the passes in one direction, and ore and iron come back in the other.
 
 ## The Land {#the-land}
 
@@ -25,11 +25,11 @@ At its western end the range stands above the thinning forest of the [[place-nar
 
 ## Who Uses It {#who-uses-it}
 
-The grain road crosses at the lowest pass. From late summer until the snow closes it, wagon trains climb out of the Velanthian grain belt and descend into the March and Khaddaria, and the same wagons carry ore and bar iron north. Velanthian drovers winter their herds on the March side by long custom, and the [[affiliation-hstsvrt|Sevret Host]] patrols the Velanthian approaches and rides escort for the drovers. The March keeps customs posts and way-forts on its side, and the Khaddarian towns buy the grain that their mines cannot feed themselves without.
+The range has several passes. The grain road crosses at the lowest, which descends into the March toward Krusteikhos, and a lesser drove road farther east carries horses south. The northern passes lead into the mining towns of Khaddaria. From late summer until the snow closes them, wagon trains climb out of the Velanthian grain belt, and the same wagons carry ore and bar iron north. Velanthian drovers winter their herds on the March side by long custom, and the [[affiliation-hstsvrt|Sevret Host]] patrols the Velanthian approaches and rides escort for the drovers. The March keeps customs posts and way-forts on its side, and the Khaddarian towns buy the grain without which their mining towns cannot eat.
 
 ## Dangers {#dangers}
 
-Marauders come down from the mining country on the far side, and the [[affiliation-blackflame|Black Flame]] is strong there. It holds nothing inside Velanthia: the danger belongs to the passes, and the patrols and way-forts meet it there. A rockfall can close a pass in the week the grain is due, and the three countries do not clear it with the same urgency, because each loses something different when the wagons stop.
+Marauders come down from the mining country on the far side, and the [[affiliation-blackflame|The Black Flame]] is strong there. It holds nothing inside Velanthia: the danger belongs to the passes, and the patrols and way-forts meet it there. A rockfall can close a pass in the week the grain is due, and the three countries do not clear it with the same urgency, because each loses something different when the wagons stop.
 
 ## Converging Interests {#present}
 
@@ -38,7 +38,7 @@ Every party that uses the passes waits for the others to move first. The rain ca
 ## Hooks {#hooks}
 
 - **Escort before the snow.** [Sovidan Volketich]{.name data-type="being/npc"} needs riders for the last wagon trains, and the pay that would fill his roster comes only at harvest.
-- **The shut pass.** A Khaddarian warden and a March officer each say the other should send diggers when a rockfall closes the road, and the grain waits between them.
+- **The two tolls.** A lowland wagon master needs a go-between to settle with the March's customs officers and the Sevret riders what each will take from his wagons, since each waits for the other to name a figure and the last trains of the season are loading.
 
 ## See Also {#see-also}
 

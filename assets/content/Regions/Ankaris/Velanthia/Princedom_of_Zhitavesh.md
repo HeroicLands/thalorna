@@ -177,6 +177,9 @@ The lowland houses count the oldest princely line on the central river. When the
 [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]
 : the forts its grain feeds
 
+[[place-frrygrnry|Ferry Granary]]
+: the house that keeps his ferry at the river crossing
+
 [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]]
 : the houses that hold the lowland reserve
 

@@ -41,3 +41,6 @@ The port grew where three trades met: the grain barges of the lowlands, the fur 
 
 [[affiliation-hsttrvl|Tarvál Host]]
 : the Host on its eastern roads
+
+[[place-hrsoks|Horse Oaks]]
+: the grove on the bluff upstream

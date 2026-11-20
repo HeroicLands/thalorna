@@ -71,11 +71,11 @@ The holy city of Nartun is the kingdom's one city. Its other people live in temp
 
 ## See Also {#see-also}
 
-[[place-krvgr|Karvogora]]
-: the range at the end of the forest
-
 [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
 : the kingdom that holds this land
+
+[[place-krvgr|Karvogora]]
+: the range at the end of the forest
 
 [[affiliation-sacredflame|Order of the Sacred Flame]]
 : the knights who keep its walls and borders

@@ -29,11 +29,11 @@ The oaks were sacred before the river-princes had seats. The Velanthian houses o
 
 ## What Is There Now {#present}
 
-The port wants the grove's oak. [Milogor Yarogorich]{.name data-type="being/npc"} of Brelavesh has bought mills upriver against the lowland prince's wishes, and a mill needs oak for its wheel and its sluice gates. The port's mill-wrights have offered silver for the oldest trees, since no other stand on the river is as large. The villages of the bluff will sell windfall and nothing standing, and their headman says the grove is not the prince's to sell. This year's late rain makes the first sheaf harder to cut, and the villages are not in a mood to argue about it.
+The port wants the grove's oak. [Milogor Yarogorich]{.name data-type="being/npc"} of Brelavesh has bought mills upriver against the lowland prince's wishes, and a mill needs oak for its wheel and its sluice gates. The prince's mill-wrights have offered silver for the oldest trees, since no other stand on the river is as large. The villages of the bluff will sell windfall and nothing standing, and their headman says the grove is not Milogor's to sell. This year's late rain makes the first sheaf harder to cut, and the villages are not in a mood to argue about it.
 
 ## Dangerous Neighbours {#dangerous-neighbours}
 
-The grove stands inside the river-prince's territory but far from his patrols, and a mill-wright who cuts without leave finds the villages at his back. The track from the river is steep and muddy after rain.
+The grove stands inside the territory of the prince of Brelavesh but far from his patrols, and a mill-wright who cuts without leave finds the villages at his back. The track from the river is steep and muddy after rain.
 
 ## What a Party Finds {#what-a-party-finds}
 
@@ -41,7 +41,7 @@ A trodden ring beneath the largest oak, a wooden image of Lizelas wrapped agains
 
 ## Hooks {#hooks}
 
-- **The mill-wright's price.** The port's mill-wrights need a go-between the headman will hear, since the bluff will sell windfall and nothing standing.
+- **The mill-wright's price.** The prince's mill-wrights need a go-between the headman will hear, since the bluff will sell windfall and nothing standing.
 - **The first sheaf.** The late rain has put off the cutting, and the headman wants the mill-wrights kept off the bluff until the sheaf is laid.
 
 ## See Also {#see-also}

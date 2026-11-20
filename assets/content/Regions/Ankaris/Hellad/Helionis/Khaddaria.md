@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-Khaddaria is the part of [[place-helionis|Helionis]] that the philosophers do not write about. It is the high country behind the coasts and valleys of the city-states: ranges of iron-red and copper-green rock, passes that close in winter on the line of [[place-krvgr|Karvogora]], and, beyond the last foothills, the dry north-east where the land runs out toward [[place-velanthrgn|Velanthia]] and [[place-byzariargn|Bizaria]]. About 300,000 people live there, which is a quarter of Helionis. They live in twelve fortified towns and in the villages that cluster around them for safety, and they dig the ore and metal that the academies, the smiths and the mints of the seven city-states are built on.
+Khaddaria is the part of [[place-helionis|Helionis]] that the philosophers do not write about. It is the high country behind the coasts and valleys of the city-states: ranges of iron-red and copper-green rock, passes that close in winter, its northern ones on the line of [[place-krvgr|Karvogora]], and, beyond the last foothills, the dry north-east where the land runs out toward [[place-velanthrgn|Velanthia]] and [[place-byzariargn|Bizaria]]. About 300,000 people live there, which is a quarter of Helionis. They live in twelve fortified towns and in the villages that cluster around them for safety, and they dig the ore and metal that the academies, the smiths and the mints of the seven city-states are built on.
 
 ## The Land {#the-land}
 

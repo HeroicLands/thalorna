@@ -33,20 +33,20 @@ The house keeps the order of the network: a starbrat chosen by the monks, a gran
 
 ## Lands and Income {#lands-and-income}
 
-The fields on the river meadows feed the house, and the ferry toll and the stabling of the wagon trains pay for its repairs. Drovers and wagoners leave grain as a gift to the barn in a bad year, and it keeps a ledger of what it lends.
+The fields on the river meadows feed the house, and the toll of the prince's ferry, which he granted the house to keep, and the stabling of the wagon trains pay for its repairs. Drovers and wagoners leave grain as a gift to the barn in a bad year, and it keeps a ledger of what it lends.
 
 ## Visiting the House {#visiting}
 
 The ferry runs from first light until the bell at dusk, and the guest-barn takes any traveler for a night against a bowl's worth of labor or its price in grain. A guest eats at the monks' long table and keeps the hours. Visitors do not enter the barn, and the granary-keeper does not discuss what it holds.
 
 :::secret {title="What the barn holds"}
-The barn is nearly empty. The house lent most of its reserve to the merchant houses of the rivers against the next harvest, and it has advanced grain to the Sevret Host on the same terms. The starbrat will not give the keeper a count because the count would show how little a bad year could draw on, and the network's name for holding the land's reserve depends on nobody checking.
+The barn is nearly empty. The house lent most of its reserve to the merchant houses of the rivers against the next harvest, and it has advanced grain to the Sevret Host on the same terms. The heads of the houses refused the merchant houses' offer to lend against the reserve, and this loan breaks that refusal. The starbrat will not give the keeper a count because the count would show how little a bad year could draw on, and the network's name for holding the land's reserve depends on nobody checking.
 :::
 
 ## Hooks {#hooks}
 
 - **The count.** [Duvek Radovodich]{.name data-type="being/npc"} needs a witness he can trust to watch the barn opened, and the starbrat has refused him.
-- **The advance.** [Sovidan Volketich]{.name data-type="being/npc"} wants a go-between who can carry his pledge to the abbess at Zhitavesh before the snow closes the pass.
+- **The advance.** [Sovidan Volketich]{.name data-type="being/npc"} wants a go-between who can carry his pledge to the abbess at Zhitavesh before the last wagon trains go up.
 
 ## See Also {#see-also}
 
