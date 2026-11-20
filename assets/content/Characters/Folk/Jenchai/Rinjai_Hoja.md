@@ -32,7 +32,7 @@ data:
     nose: aquiline
     brow: straight
     mouth: wide
-    extra_features: [a red lacquered sword scabbard, a rope burn across the right palm]
+    extra_features: [a rope burn across the right palm]
   packFolder: ankarisjenchai
 ---
 

@@ -32,7 +32,7 @@ data:
     nose: straight
     brow: arched
     mouth: small
-    extra_features: [a ring of keys at the sash, a white mourning cord]
+    extra_features: []
   packFolder: ankarisjenchai
 ---
 
