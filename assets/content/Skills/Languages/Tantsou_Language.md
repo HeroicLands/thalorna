@@ -5890,8 +5890,8 @@ data:
     - {forms: {skill-tantsoulng: hwo, skill-jurthatlng: ho}, gloss: hand}
     - {forms: {skill-tantsoulng: wen, skill-jurthatlng: wen}, gloss: "center, middle"}
     - {forms: {skill-tantsoulng: wou, skill-jurthatlng: wu}, gloss: "court, palace, hall"}
-    - forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}
-      gloss: "divine, sacred; a warrior, soldier"
+    - {forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}, gloss: "divine, sacred"}
+    - {forms: {skill-tantsoulng: wo, skill-jurthatlng: wuo}, gloss: "a warrior, soldier"}
     - {forms: {skill-tantsoulng: lei, skill-jurthatlng: rei}, gloss: "breath, spirit"}
     - {forms: {skill-tantsoulng: sei, skill-jurthatlng: sei}, gloss: "bureau, office, ministry"}
     - {forms: {skill-tantsoulng: lou, skill-jurthatlng: ru}, gloss: "law, rule"}
