@@ -30,11 +30,11 @@ Magu-Thelqen is a planned city with too few people for its plan. About 5,500 liv
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Magu-Thelqen keeps his court and granaries here, and the Legha'lutu of the estates hold the land. The empty quarters shelter fugitives, and a squatter in a house that has an owner may find the owner's agent at the door. The danger is the emptiness: a quarter with no watch is a refuge for anything.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Magu-Thelqen governs through the Legha'lutu of the estates, who hold the land. The empty quarters shelter fugitives, and a squatter in a house that has an owner may find the owner's agent at the door. The danger is the emptiness: a quarter with no watch is a refuge for anything.
 
 ## The Present {#present}
 
-The quarters are half empty, and the people who live in them are of two kinds: the estate-dwellers whose families have always lived there, and the families from dry villages who have walked in. The Legha'lutu take the newcomers as bondsmen for their food. The estates' fields are poorer, and the estate-towns' stores are the selat's reserve. The empty temple-city has become a place to shelter. The Halzi'a has done nothing about the newcomers, because the estates need the hands. The Overseer of the Granaries at [[place-anlaghzetun|Anlagh-Zetun]] reckons the selat's render after each harvest, and the seat's figures go into his books beside the Measure's two short readings.
+The quarters are half empty, and the people who live in them are of two kinds: the estate-dwellers whose families have always lived there, and the families from dry villages who have walked in. The Legha'lutu take the newcomers as bondsmen for their food. The estates' fields are poorer, and the estate-towns' stores are the selat's reserve. The empty temple-city has become a place to shelter. The Halzi'a lets the newcomers stay in the empty quarters and sends the throne a tithe of the estates' grain.
 
 ## See Also {#see-also}
 

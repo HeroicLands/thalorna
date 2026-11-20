@@ -30,7 +30,7 @@ The wheat outside the town is the [[place-fieldiqeru|Field at Iqeru]], where the
 
 ## What the Town Lives By {#lives}
 
-Iqeru is wheat-country with a temple at its center. The irrigated fields round the seat grow the grain, and the chief temple of Uqa'a holds more of the land than the villages do, so its granaries are the selat's reserve. About 6,900 people live in the seat on temple stipends and the tithe. Two market towns serve the canals: [[place-zeliqeru|Zel-Iqeru]], about 8,300 people a day off, which sells the wheat, and [[place-zuiqeru|Zu-Iqeru]], about 6,800, a canal-head town where the main irrigation canal leaves the river. Iqeru feeds itself from its own wheatland and sells the surplus, and the temple vaults are the largest buyer. [[place-fieldiqeru|The Field at Iqeru]] lies in the wheat outside the walls.
+Iqeru is wheat-country with a temple at its center. The irrigated fields round the seat grow the grain, and the chief temple of Uqa'a holds more of the land than the villages do, so its granaries are the selat's reserve. About 6,900 people live in the seat on temple stipends and the tithe. A market town and a canal-head town serve the canals: [[place-zeliqeru|Zel-Iqeru]], about 8,300 people a day off, which sells the wheat, and [[place-zuiqeru|Zu-Iqeru]], about 6,800, a canal-head town where the main irrigation canal leaves the river. Iqeru feeds itself from its own wheatland and sells the surplus, and the temple vaults are the largest buyer. [[place-fieldiqeru|The Field at Iqeru]] lies in the wheat outside the walls.
 
 ## Who Rules and Keeps Order {#who-rules}
 
@@ -38,7 +38,7 @@ The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Iqeru co
 
 ## The Present {#present}
 
-A low flood shortens the reach of the canals, and the farms at the end of the line go dry first. The farmers ask the temple of Uqa'a for seed-grain, and the priests give it against next harvest, which binds the farms to the temple a little harder each year. The temple granaries at Iqeru are lower than they were, and the Halzi'a's render reports a smaller crop than the court expected. The Measure explains most of it. The Halzi'a has sent what he owes, late. The Overseer of the Granaries at [[place-anlaghzetun|Anlagh-Zetun]] reckons the selat's render after each harvest, and the seat's figures go into his books beside the Measure's two short readings.
+A low flood shortens the reach of the canals, and the farms at the end of the line go dry first. The farmers ask the temple of Uqa'a for seed-grain, and the priests give it against next harvest, which binds the farms to the temple a little harder each year. The temple granaries at Iqeru are lower than they were, and the Halzi'a's render reports a smaller crop than the court expected. The Measure explains most of it. The Halzi'a pays the throne from his own rolls and leaves the temple's stores alone.
 
 ## See Also {#see-also}
 

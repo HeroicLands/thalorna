@@ -32,11 +32,11 @@ Anzet is the temple's house and the selat's ledger. The chief temple of Hezmu'ir
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Anzet-Qelt keeps his court here, and the Wazu of the temple speaks for Hezmu'iri. Who commands a guard post on the cliff is a standing question between the two, since the guards eat the temple's grain and take the Halzi'a's orders. The scribal bureau holds the tax rolls. The ground near the tombs is the town's danger: thieves tunnel from the desert side, a stranger carrying digging tools is stopped at the edge of the necropolis, and a guard found selling a secret loses his hands.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Anzet-Qelt keeps his court here, and the Thaz'Lekhau of Hezmu'iri speaks for the temple. The guards on the cliff are the jackal-cult's, reinforced from the Halzi'a's levy, and the two powers are rarely so close in interest. The scribal bureau holds the tax rolls. The ground near the tombs is the town's danger: thieves tunnel from the desert side, a stranger carrying digging tools is stopped at the edge of the necropolis, and a guard found selling a secret loses his hands.
 
 ## The Present {#present}
 
-The flood has come low two years running, and the offerings brought to the temple of Hezmu'iri are fewer. The farmers who work the desert-edge tombs leave their fields for the pay of tomb-work, and the fields go unplanted. The guard posts are doubled because hunger makes thieves, and the temple's dole is smaller than the guards remember. The Halzi'a reports a smaller render than the court expected and points to the Measure; the Overseer of the Granaries has no figure to set against his. The jackal-cult's festivals are held with fewer offerings and more dread.
+The flood has come low two years running, and the offerings brought to the temple of Hezmu'iri are fewer. The farmers who work the desert-edge tombs leave their fields for the pay of tomb-work, and the fields go unplanted. The guard posts are doubled because hunger makes thieves, and the temple's dole is smaller than the guards remember. The Halzi'a pays his tribute in the produce of the desert-edge tombs and enters the grain shortfall as the river's, and the Overseer's figures cannot easily dispute it. The jackal-cult's festivals are held with fewer offerings and more dread.
 
 ## See Also {#see-also}
 

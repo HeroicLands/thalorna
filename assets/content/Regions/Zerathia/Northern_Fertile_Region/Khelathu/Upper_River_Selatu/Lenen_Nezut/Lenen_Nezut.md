@@ -26,15 +26,15 @@ The Halzi'a's house is [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]], descended 
 
 ## What the Town Lives By {#lives}
 
-Lenen-Nezut lives on horses and rams. About 5,900 people hold the old capital, and the chief temple of Uqa'a and its ram-cult take a share of every herd. [[place-zellenen|Zel-Lenen]], about 6,100 people on the dry plain behind the town, a horse-pasture town with more room for herds than the walled seat, breeds and sells the horses; [[place-yathnezut|Yath-Nezut]], about 5,000, a ram-shrine town upstream, grazes the shrine's herds and farms the river terraces. The breeders buy their barley from the river villages. The seat buys bread and sells remounts, and the horse-fairs are its trade.
+Lenen-Nezut lives on horses and rams. About 5,900 people hold the old capital, and the chief temple of Uqa'a and its ram-cult take a share of every herd. [[place-zellenen|Zel-Lenen]], about 6,100 people on the dry plain behind the town, a horse-pasture town with more room for herds than the walled seat, breeds and sells the horses; [[place-yathnezut|Yath-Nezut]], about 5,000, a ram-shrine town upstream, grazes the shrine's herds and farms the river terraces. The breeders buy their barley from the river villages. The seat buys bread and sells remounts, and the horse-fairs are its trade. They fall in the cool months, when the strings come in from the pasture and the buyers camp outside the walls.
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Lenen-Nezut is of the house of [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]] and keeps its court and granaries here. The three royal tombs on the desert edge above the town, [[place-lnzways|the Lenen-Nezut Ways]], are kept by his house and not by the crown. The town carries its pride and its poverty together. The danger is the horse sickness: a stud is lost in a week, and the proud families sell their mounts last.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Lenen-Nezut holds court in the old capital, and the ram-cult's priests and the horse-breeders' families are the powers he reckons with. A sale of horses is struck before the temple's herdsmen and binds without a scribe. The town carries its pride and its poverty together. The danger is the horse sickness: a stud is lost in a week, and the proud families sell their mounts last.
 
 ## The Present {#present}
 
-The pasture dries earlier this year, and the herders ask the Halzi'a for water-rights on the canals. The villages hold their harvests close, and the ram-cult's feasts keep the town fed. The Halzi'a gives the water to the temple's herds first and to the breeders' herds second, and the breeders feel the order. Remounts are sold to the buyers who come, at prices that suit the buyers. The Halzi'a's render is short, and he points to the Measure. The Overseer of the Granaries at [[place-anlaghzetun|Anlagh-Zetun]] reckons the selat's render after each harvest, and the seat's figures go into his books beside the Measure's two short readings.
+The pasture dries earlier this year, and the herders ask the Halzi'a for water-rights on the canals. The villages hold their harvests close, and the ram-cult's feasts keep the town fed. The Halzi'a gives the water to the temple's herds first and to the breeders' herds second, and the breeders feel the order. Remounts are sold to the buyers who come, at prices that suit the buyers. No render has gone to the throne this year, only the Halzi'a's letters about the flood.
 
 ## See Also {#see-also}
 

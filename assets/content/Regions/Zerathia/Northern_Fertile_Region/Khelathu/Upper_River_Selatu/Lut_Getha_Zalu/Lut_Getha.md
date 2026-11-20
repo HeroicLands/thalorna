@@ -30,11 +30,11 @@ Lut-Getha lives by the forge. The chief temple of Saq'aru keeps the craft-temple
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Lut-Getha-Zalu keeps his court and granaries beside the temple, and each craft-temple keeps a ledger of every order. A smith who sells an unmarked blade loses his forge. A fire in the charcoal-yard can burn a street, and a mine collapse in the hills cuts the ore. The scribal bureau holds the tax rolls and the weights, and a standard weight is kept in the temple's forecourt against which every smith's scales are checked each season. The smiths belong to their craft-temples, which hold the forges in trust, and a master who quarrels with his temple loses his place at the furnace and his family's lodging with it.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Lut-Getha-Zalu keeps the tribute rolls and the levy, and each craft-temple keeps a ledger of every order. Apprentices are bound to a master for seven years, and every charcoal-yard keeps a night watch against fire. A smith who sells an unmarked blade loses his forge. A fire in the charcoal-yard can burn a street, and a mine collapse in the hills cuts the ore. The scribal bureau holds the tax rolls and the weights, and a standard weight is kept in the temple's forecourt against which every smith's scales are checked each season. The smiths belong to their craft-temples, which hold the forges in trust, and a master who quarrels with his temple loses his place at the furnace and his family's lodging with it.
 
 ## The Present {#present}
 
-A short flood has raised the price of fuel, and the smiths work the ceremonial arms of the nobility at a slower rate. The estate-towns send their grain to feed the smiths, and the villages are poorer for it. The smith-towns' trade is the best on the upper river and holds in a hungry year, because the nobility's orders do not stop. The Halzi'a's render is short in grain and full in coin, and the Overseer of the Granaries enters the difference. The Overseer of the Granaries at [[place-anlaghzetun|Anlagh-Zetun]] reckons the selat's render after each harvest, and the seat's figures go into his books beside the Measure's two short readings.
+A short flood has raised the price of fuel, and the smiths work the ceremonial arms of the nobility at a slower rate. The estate-towns send their grain to feed the smiths, and the villages are poorer for it. The smith-towns' trade is the best on the upper river and holds in a hungry year, because the nobility's orders do not stop. The Halzi'a's render is short in grain and paid in bronze and gold.
 
 ## See Also {#see-also}
 
