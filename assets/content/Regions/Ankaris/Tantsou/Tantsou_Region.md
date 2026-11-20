@@ -13,12 +13,14 @@ data:
     - {to: khzryndsrtrgn, bearing: W}
     - {to: graznmntns, bearing: SW}
     - {to: idwkrrgn, bearing: W}
+    - {to: easternstrt, bearing: E}
   routes:
     - {to: suryadvar, bearing: SW, mode: land, days: 30}
     - {to: jnanadvar, bearing: SW, mode: land, days: 45}
     - {to: shankhadvr, bearing: W, mode: land, days: 60}
     - {to: nilatir, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
     - {to: sowidwell, bearing: W, mode: land, days: 30}
+    - {to: easternstrt, bearing: E, mode: ship, days: 1, terrain: [open-sea]}
   population: null
   packFolder: tantsou
   government: tantsouempr
@@ -35,7 +37,7 @@ The Tantsou Region is the far east of the [[place-ankrscntnnt|Ankaris Continent]
 
 ## Geography
 
-Mountain ranges enclose the region and divide it into a series of great river basins. The northern lands reach a cold coast. To the west lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazrin]] frontier, where [[lore-celestialroad|the Celestial Road]] ends. To the southwest the unaligned range of [[place-graznmntns|the Grazian Mountains]] stands between Tantsou and [[place-vedyarargn|Vedyara]], crossed by the long passes of [[place-suryadvar|Suryadvar]], Jnanadvar and [[place-shankhadvr|Shankhadvar]]. To the east lies the open ocean and the strait that separates the mainland from the [[place-jenchairgn|Jenchai]] archipelago.
+Mountain ranges enclose the region and divide it into a series of great river basins. The northern lands reach a cold coast. To the west lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazrin]] frontier, where [[lore-celestialroad|the Celestial Road]] ends. To the southwest the unaligned range of [[place-graznmntns|the Grazian Mountains]] stands between Tantsou and [[place-vedyarargn|Vedyara]], crossed by the long passes of [[place-suryadvar|Suryadvar]], Jnanadvar and [[place-shankhadvr|Shankhadvar]]. To the east lies the open ocean and [[place-easternstrt|The Eastern Strait]] that separates the mainland from the [[place-jenchairgn|Jenchai]] archipelago.
 
 Three great rivers make the basins. Fed by mountain glaciers, they run through the heartland to the eastern ocean and carry commerce, tribute and imperial edicts on the same water. The valleys between them are the most intensively cultivated land in the world: rice, millet, mulberry for the silkworm, tea and orchard fruit feed the crowded river cities. Above the valleys, terraced hillsides climb the foothills in staircases, kept by villages whose terraces have passed down through named lineages for thirty generations or more. A terrace is the first thing a Tantsou points to when asked what the registers are for.
 
@@ -69,7 +71,7 @@ Coastal trade carries less prestige and far more volume. Tantsou trading ships w
 
 ## Neighbors
 
-To the east, across the narrow strait, is Jenchai. The Empire calls the archipelago a rebellious province; the archipelago calls itself the true inheritor of the Celestial Mandate and the Tantsou ruling house usurpers. The result is a perpetual low war at sea, punctuated by the occasional disaster in either direction.
+To the east, across the narrow [[place-easternstrt|Eastern Strait]], is Jenchai. The Empire calls the archipelago a rebellious province; the archipelago calls itself the true inheritor of the Celestial Mandate and the Tantsou ruling house usurpers. The result is a perpetual low war at sea, punctuated by the occasional disaster in either direction.
 
 To the southwest, beyond the eastern arc of the Grazian Mountains, contact with Vedyara is old and substantial and runs on mutual respect with almost no political integration. Vedyaran scholars travel the Tantsou courts and Tantsou monks study Vedyaran philosophical texts, and neither side has ever seriously tried to rule the other.
 
@@ -93,6 +95,9 @@ To the north, the frontier toward the [[place-grkrhlmrgn|Grukarholm Region]] is 
 
 [[lore-celestialroad|The Celestial Road]]
 : the caravan road west across the Khazrin
+
+[[place-easternstrt|The Eastern Strait]]
+: the water between the mainland and the islands
 
 [[place-jenchairgn|Jenchai Region]]
 : eastern archipelago, claimed province

@@ -9,6 +9,8 @@ data:
   demonym: Jenchai
   lore: [humanflk]
   parents: [ankrscntnnt]
+  borders: [{to: easternstrt, bearing: W}]
+  routes: [{to: easternstrt, bearing: W, mode: ship, days: 1, terrain: [open-sea]}]
   population: 500000
   packFolder: jenchai
   culture: jenchaiclt
@@ -25,7 +27,7 @@ Where the Tantsou Region is a continental civilization of imperial bureaucracy a
 
 The archipelago takes its name—"Nine Mountains"—from its nine volcanic peaks, eight on the great island and one on the lesser island at the strait's mouth. Each peak serves as both geographic center and cultural emblem of the province around it, and each province is named for a feature of its mountain. The great mountains rise straight out of the sea, their shoulders terraced for rice and their summits kept for shrines. Between them, coastal plains are narrow but intensively cultivated; interior valleys hold forests of cedar, pine, and sacred bamboo. The north is harsh and cold, the south mild, and the east faces the open ocean. The Emperor's own mountain, [[place-zojai|Zojai]], stands in the interior of the great island, with the capital [[place-lengwou|Lengwou]] on its lowest slope and the observatory mountain [[place-zijai|Zijai]] beside it.
 
-The strait separating Jenchai from the mainland is the archipelago's single most important defensive feature. Notorious for sudden storms and shifting currents, it has repeatedly wrecked Tantsou invasion fleets and has shaped the islanders' attitude toward the sea as something closer to reverence than mastery. Shrines to the storm-aspect of the [[affiliation-tengwouronglei|Celestial Order]] stand at every significant headland.
+[[place-easternstrt|The Eastern Strait]], separating Jenchai from the mainland, is the archipelago's single most important defensive feature. Notorious for sudden storms and shifting currents, it has repeatedly wrecked Tantsou invasion fleets and has shaped the islanders' attitude toward the sea as something closer to reverence than mastery. Shrines to the storm-aspect of the [[affiliation-tengwouronglei|Celestial Order]] stand at every significant headland.
 
 Beyond the two main islands, scores of smaller islands and islets stretch out in braided chains toward the open ocean. Many of these lesser islands are uninhabited or only seasonally occupied by fishermen, smugglers, and hermit-priests. The volcanic activity that built the chain is still active: eruptions, hot springs, and periodic earthquakes are part of ordinary Jenchai life and are interpreted theologically as heaven's continuing attention to its favored land.
 
@@ -76,6 +78,9 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the mainland empire from which the archipelago broke away
+
+[[place-easternstrt|The Eastern Strait]]
+: the water between the archipelago and the mainland
 
 [[affiliation-tengwouronglei|Celestial Order]]
 : the shared pantheon, divergently interpreted
