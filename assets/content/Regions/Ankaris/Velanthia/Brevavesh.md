@@ -37,11 +37,11 @@ The captain of the forts keeps two sets of rolls: the one he shows the prince ea
 
 ## The Holder {#holder}
 
-The prince, [[being-krdgrbrvgrch|Krodogor Brevogorich]], holds the town and the fort as the heart of his princedom and lives in the fort's upper hall, not in a house of his own. He appoints every warden of the princedom and sees the rolls each quarter, when the silver arrives from the port. His judge rides circuit between the forts and sits in the town for the cases the wardens and the villages cannot settle.
+The prince, [Krodogor Brevogorich]{.name data-type="being/npc"}, holds the town and the fort as the heart of his princedom and lives in the fort's upper hall, not in a house of his own. He appoints every warden of the princedom and sees the rolls each quarter, when the silver arrives from the port. His judge rides circuit between the forts and sits in the town for the cases the wardens and the villages cannot settle.
 
 ## Garrison {#garrison}
 
-The fort holds the largest body of paid wardens in the princedom, with the captain of the forts, [[being-vrklrvgrch|Ovrik Lervogorich]], over them. The wardens are tired, paid late and corruptible, and the garrison is thin on the days after a pay-day passes without silver. Each warden holds one post: the gate, the river tower, the forest watch or the bell. The bell and the signal fire on the hill above the town are the princedom's alarm; the villages below each fort ring and burn in turn and send a man to the watch. When the bell rings twice, the town closes the river gate and the fur hunters in its yards are held until the wardens know what crossed the margin.
+The fort holds the largest body of paid wardens in the princedom, with the captain of the forts over them. The wardens are tired, paid late and corruptible, and the garrison is thin on the days after a pay-day passes without silver. Each warden holds one post: the gate, the river tower, the forest watch or the bell. The bell and the signal fire on the hill above the town are the princedom's alarm; the villages below each fort ring and burn in turn and send a man to the watch. When the bell rings twice, the town closes the river gate and the fur hunters in its yards are held until the wardens know what crossed the margin.
 
 ## Government, Faith and Trade {#government-faith-trade}
 

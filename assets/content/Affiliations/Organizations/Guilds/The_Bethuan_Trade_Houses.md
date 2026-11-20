@@ -92,7 +92,7 @@ Day-to-day federation administration is handled by a small staff of clerks and t
 
 ## Notable Matriarchs
 
-Matriarch [Aselia]{.name data-type="being/npc"} of House Khalath-Mara
+Matriarch [[being-aseliakhlthmr|Aselia of House Khalath-Mara]]
 : current senior matriarch by age and clan-precedence; thirty-five years in her position; widely regarded as the most politically capable Bethuan trade-house figure of her generation; presumed to be the dominant voice on the Council when she chooses to speak.
 
 Matriarch [Bera]{.name data-type="being/npc"} of House Bera-Sehel

@@ -64,7 +64,7 @@ When a Metrissa sets down the Veil, the College convenes as a conclave and choos
 
 ## The Present {#present}
 
-The reigning Metrissa, [Amithena]{.name data-type="being/npc"} of [House Kervanion]{.name data-type="affiliation/lineage"}, was raised to the Veil by election of the College and confirmed by the oracle. She was a consecrated priestess of Lusinia before her elevation, and she is reckoned a careful, conservative ruler who keeps the two pillars in balance by giving neither its way entirely. The College presses her to keep the grain in the cisterns while the [[affiliation-councilhouses|Council of Houses]] presses her to sell it to the patron, and the choice is open. The College and the Council keep that balance as a standing negotiation, and a grandee often sits in both.
+The reigning Metrissa, [[being-amithenakrvn|Amithena of House Kervanion]], was raised to the Veil by election of the College and confirmed by the oracle. She was a consecrated priestess of Lusinia before her elevation, and she is reckoned a careful, conservative ruler who keeps the two pillars in balance by giving neither its way entirely. The College presses her to keep the grain in the cisterns while the [[affiliation-councilhouses|Council of Houses]] presses her to sell it to the patron, and the choice is open. The College and the Council keep that balance as a standing negotiation, and a grandee often sits in both.
 
 ## How a Party Meets It {#how-a-party-meets-it}
 

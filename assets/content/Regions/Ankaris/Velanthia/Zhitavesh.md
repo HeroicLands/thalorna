@@ -33,7 +33,7 @@ Zhitavesh is a grain town. The prince takes his tithe in kind from the villages 
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The prince, [[being-zhtvddbrvdch|Zhitovod Dobrovodich]], holds the town as his seat and lives in the hall. The captain of the retinue commands the riders sworn to the hall and the garrison of the wall, the judge of the hall hears the disputes of the town by the customary law the princely houses share, and the keeper of the princely granary, [[being-dvkrdvdch|Duvek Radovodich]], answers for the prince's stores and counts them against what the monastery holds. Order in the square is kept by the retinue's riders, and order in the barns is kept by the monks and by the granary-keepers' own keys. A theft of grain is the gravest charge the judge hears: the thief repays threefold from his own harvest, and a thief with no harvest works the debt off in the prince's fields.
+The prince, [Zhitovod Dobrovodich]{.name data-type="being/npc"}, holds the town as his seat and lives in the hall. The captain of the retinue commands the riders sworn to the hall and the garrison of the wall, the judge of the hall hears the disputes of the town by the customary law the princely houses share, and the keeper of the princely granary answers for the prince's stores and counts them against what the monastery holds. Order in the square is kept by the retinue's riders, and order in the barns is kept by the monks and by the granary-keepers' own keys. A theft of grain is the gravest charge the judge hears: the thief repays threefold from his own harvest, and a thief with no harvest works the debt off in the prince's fields.
 
 ## The Present {#present}
 

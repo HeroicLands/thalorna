@@ -33,7 +33,7 @@ The prince takes a toll on every boat and wagon that reaches the port, and the m
 
 ## Order and Law {#order-and-law}
 
-The prince, [[being-mlgryrgrch|Milogor Yarogorich]], rules the city by tolls and by his mint. A visitor meets his offices on the quays: the clerks of the port-warden, [[being-trvkmvrnch|Torvik Mevranich]], at every landing, the judge of the quays, who hears boatmen and merchants by the customary law the princely houses share, and the keeper of the mint, whose silver the river trade is counted in. A retinue of riders holds the walls. A dispute between two merchant houses goes to the houses' own arbiter of debts, not to the prince's judge, and the prince takes no part unless a toll is owed.
+The prince, [Milogor Yarogorich]{.name data-type="being/npc"}, rules the city by tolls and by his mint. A visitor meets his offices on the quays: the port-warden's clerks at every landing, the judge of the quays, who hears boatmen and merchants by the customary law the princely houses share, and the keeper of the mint, whose silver the river trade is counted in. A retinue of riders holds the walls. A dispute between two merchant houses goes to the houses' own arbiter of debts, not to the prince's judge, and the prince takes no part unless a toll is owed.
 
 ## What the City Lives By {#what-the-city-lives-by}
 

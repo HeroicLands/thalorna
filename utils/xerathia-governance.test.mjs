@@ -60,19 +60,7 @@ const ALLOWED = {
     sharedOffices: [],
     foreignRanks: [],
     noOffices: [],
-    noHead: [
-        "dongarutrb",
-        "khamundatrb",
-        "kirofatrb",
-        "magaratrb",
-        "mtrrchybth",
-        "ngorashatrb",
-        "shokumatrb",
-        "talumengtrb",
-        "wambuchitrb",
-        "yeshirotrb",
-        "zhikandetrb",
-    ],
+    noHead: [],
     noThrone: [],
 };
 
