@@ -86,7 +86,7 @@ The result is a costly frontier without the returns other frontiers offer. No ca
 
 ## Places {#places}
 
-[[place-skathengrund|Skathengrund]], the Drowned Country, is the marsh at the center of the region. [[place-grimhreth|Grimhreth]] is a cause-walk of sunken logs into it from the forest of Skathwald, and [[place-yadakovbregad|Yadakov Bregad]] is a landing where raiding canoes come ashore on the rivers that leave it toward Velanthia. [[place-grimak|Grimak]] is the blood-field in Skathwald's marsh. The two paid forts of the princedom of Brevavesh, [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]], stand on the Velanthian side and watch the rivers and the raiding paths.
+[[place-skathengrund|Skathengrund]], the Drowned Country, is the marsh at the center of the region. [[place-grimhreth|Grimhreth]] is a cause-walk of sunken logs into it from the forest of Skathwald, and [[place-zvekbregad|Zvek Bregad]] is a landing where raiding canoes come ashore on the rivers that leave it toward Velanthia. [[place-grimak|Grimak]] is the blood-field in Skathwald's marsh. The two paid forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]], [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]], stand on the Velanthian side and watch the rivers and the raiding paths.
 
 ## Current Situation {#present}
 
@@ -115,14 +115,11 @@ Velanthia lies on the southeastern side of the thickest Grukar country, which ov
 [[skill-grukarlng|Grukar Language]]
 : body language and scent, with sounds only for emphasis
 
-[[place-skathengrund|Skathengrund]], [[place-grimhreth|Grimhreth]] and [[place-yadakovbregad|Yadakov Bregad]]
+[[place-skathengrund|Skathengrund]], [[place-grimhreth|Grimhreth]] and [[place-zvekbregad|Zvek Bregad]]
 : the marsh, a cause-walk and a landing
 
 [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
 : the paid forts of the Velanthian side
-
-[[place-grimak|Grimak]]
-: the blood-field in Skathwald's marsh
 
 [[place-nrdlndsrgn|Nordlands Region]]
 : Norgaad directly north and Malagna to the northeast; Targud farther northeast, with no border
