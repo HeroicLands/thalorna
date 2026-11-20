@@ -32,7 +32,7 @@ The Halzi'a keeps his court here, and so does the Commander of the Marches, so t
 
 ## The Holder {#holder}
 
-[[affiliation-empireakhlth#titles-and-forms-of-address|The Halzi'a]] of the selat is a hereditary military governor who holds the mines, the smelter-towns and the quarry-roads, and he sits at Balku with his Steward, who keeps the granaries and the corvée. Whoever holds it is a soldier first. Beside him sit the Commander of the Marches, the Halzi'a the Gar-Au names to call the ten garrisons together, and the Overseer of the Mines, a Zelar who weighs what the smelters render.
+[[affiliation-empireakhlth#titles-and-forms-of-address|The Halzi'a]] of the selat is a hereditary military governor who holds the mines, the smelter-towns and the quarry-roads, and he sits at Balku with his Steward, who keeps the granaries and the corvée. Whoever holds it is a soldier first. Beside him sit the Commander of the Marches, a Halzi'a of another march whom the Gar-Au names to call the ten garrisons together, and the Overseer of the Mines, a Zelar who weighs what the smelters render.
 
 ## Garrison {#garrison}
 

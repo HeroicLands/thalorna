@@ -48,7 +48,7 @@ sohl: {system: {commonSkills: []}}
 
 ## The House Now {#the-house-now}
 
-[[being-garaumeqesxv|Meqes XVI]] reigns from [[place-galezkara|Galezkara]], the sixteenth of the name. She is the daughter of Meqes XV and was crowned in 709 AF at thirty-four, and she is in her twelfth year on the throne. Her nephew [[being-anlaghur|Anlaghur]] is an Iru'palu whose blood places him near the succession. The house sits at the top of the ladder of ranks, and the Iru'palu of the most exalted houses stand below it.
+[[being-garaumeqesxv|Meqes XVI]] reigns from [[place-galezkara|Galezkara]], the sixteenth of the name. She is the daughter of Meqes XV and was crowned in 709 AF at thirty-five, and she is in her twelfth year on the throne. Her nephew [[being-anlaghur|Anlaghur]] is an Iru'palu whose blood places him near the succession. The house sits at the top of the ladder of ranks, and the Iru'palu of the most exalted houses stand below it.
 
 ## Holdings {#holdings}
 
