@@ -148,3 +148,12 @@ Chaiwo is sixty-one and has no grown heir. Whoever succeeds him will hold the ga
 
 [[affiliation-hojujaidmn|Hojujai Domain]]
 : the allied house
+
+[[place-zujufrry|The Zuju Ferry]]
+: the crossing every traveler to the capital makes
+
+[[place-tsaimustrng|The Court Strongroom at Tsaimu]]
+: the court's treasury in the Weiju's charge
+
+[[place-zijaiobsrvt|The Observatory of Zijai]]
+: the omen-readers' instruments on the summit

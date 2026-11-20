@@ -31,5 +31,8 @@ The summit shrine keeps the storm aspect of [[affiliation-tengwouronglei|the Cel
 [[place-zuwu|Zuwu]]
 : the castle town
 
+[[place-weworeefs|The Wewo Reefs]]
+: the reefs off the open-ocean coast, where wrecks come ashore
+
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait

@@ -137,3 +137,6 @@ A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo 
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[place-weworeefs|The Wewo Reefs]]
+: the reefs below the cape shrine

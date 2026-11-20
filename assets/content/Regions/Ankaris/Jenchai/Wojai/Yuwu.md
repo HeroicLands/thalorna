@@ -40,3 +40,6 @@ Yuwu is the seat of the house that pressed the court against the regency with Sh
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[miscgear-dwnrtbll|The Bell of the Dawn Rite]]
+: the pawned bell in a merchant house's strong-room

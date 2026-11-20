@@ -142,3 +142,6 @@ The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom
 
 [[place-surtasamdra|Surta-samedra]]
 : the eastern ocean the hulls cross
+
+[[miscgear-dwnrtbll|The Bell of the Dawn Rite]]
+: the pawned bell, held in Yuwu

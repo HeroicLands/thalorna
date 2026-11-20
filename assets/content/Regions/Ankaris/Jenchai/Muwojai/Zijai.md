@@ -36,3 +36,12 @@ The summit holds a shrine and the **observatory** of the omen-readers. The Tanch
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[place-zijaiobsrvt|The Observatory of Zijai]]
+: the omen-readers' instruments on the summit
+
+[[place-zujufrry|The Zuju Ferry]]
+: the crossing on the road to Lengwou
+
+[[place-tsaimustrng|The Court Strongroom at Tsaimu]]
+: the court's treasury in the village below

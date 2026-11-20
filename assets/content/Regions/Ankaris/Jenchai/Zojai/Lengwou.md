@@ -55,3 +55,9 @@ Lengwou is the ground the quarrel of the [[lore-empseatwar|War of the Empty Seat
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[place-zojaishrn|The Summit Shrine of Zojai]]
+: where the Emperor performs the Dawn Rite
+
+[[place-tsaimustrng|The Court Strongroom at Tsaimu]]
+: the court's treasury, kept by the Weiju

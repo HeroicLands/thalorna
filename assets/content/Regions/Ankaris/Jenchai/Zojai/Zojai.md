@@ -38,3 +38,9 @@ The imperial district holds 20,000 people: the 9,000 of [[place-lengwou|Lengwou]
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[place-zojaishrn|The Summit Shrine of Zojai]]
+: the summit shrine where the Emperor performs the Dawn Rite
+
+[[miscgear-dwnrtbll|The Bell of the Dawn Rite]]
+: the pawned bell that sounds at the rite

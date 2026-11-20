@@ -141,3 +141,6 @@ The office of Teng Ja stands vacant, and a new holder receives a blade forged at
 
 [[being-embrhnd|Emberhound]]
 : the fire elemental that guards the forge-yard
+
+[[place-tsaigenfrg|The Forge of Tsaigen]]
+: the forge-yard of the Jaju

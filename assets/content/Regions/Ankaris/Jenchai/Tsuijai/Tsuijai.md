@@ -31,6 +31,9 @@ The summit shrine keeps the earth and metal aspects of [[affiliation-tengwourong
 [[place-tsuiwu|Tsuiwu]]
 : the castle town
 
+[[place-tsaigenfrg|The Forge of Tsaigen]]
+: the forge-yard of the Jaju swordsmiths above Tsuiwu
+
 [[being-embrhnd|Emberhound]]
 : the fire elemental of the forge-yard
 
