@@ -114,7 +114,7 @@ The Breaking is recited at every Tellumi festival, at every formal court ceremon
 
 ## Government
 
-The Confederation is governed by the [[affiliation-cnclprinces|Council of the Princes]], which meets annually at Amradad on neutral ground, hosted by the Kingdom as a courtesy to the exile community. Each of the seven princely houses sends its head (or, for the four in exile, the man or woman who would rule if the house were restored), the senior elders of the house, and the senior Delkoshekh attached to its court. The High Shekhul of Ahurdaen at the [Great Fire-Temple of Amradad]{.name data-type="place/structure"} presides as neutral convenor, a role the Kingdom's then-Shekhul took up about sixty years ago, when he agreed to underwrite the Council in perpetuity.
+The Confederation is governed by the [[affiliation-cnclprinces|Council of the Princes]], which meets annually at Amradad on neutral ground, hosted by the Kingdom as a courtesy to the exile community. Each of the seven princely houses sends its head (or, for the four in exile, the man or woman who would rule if the house were restored), the senior elders of the house, and the senior Delkoshekh attached to its court. The High Shekhul of Ahurdaen at the [[place-grtfiretmpl|Great Fire-Temple of Amradad]] presides as neutral convenor, a role the Kingdom's then-Shekhul took up about sixty years ago, when he agreed to underwrite the Council in perpetuity.
 
 The seven princely houses are:
 

@@ -7,7 +7,7 @@ description: "Lightning finds a salt-flat tower every night, and Vahrun Marzuvan
 tags: [draft]
 data:
   parents: []
-  locations: [twrlghtnmrkd, dunhardsrtrgn]
+  locations: [twrlghtnmrkd, palefloor, kinlesswatch, dunhardsrtrgn]
   cast: []
   factions: [strmcltsbzhrms]
   follows: []
@@ -15,12 +15,12 @@ data:
   packFolder: adventures
 ---
 
-The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the [Pale Floor]{.name data-type="place/region"}, and the lightning finds it every night the sky offers. [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker who took the title Master of the Tower, which the [Council of Elders]{.name data-type="affiliation/governmental"} never conferred, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to one of the [[lore-dunhariclt|Dunhari]] who has stopped being one.
+The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the [[place-palefloor|Pale Floor]], and the lightning finds it every night the sky offers. [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker who took the title Master of the Tower, which the [Council of Elders]{.name data-type="affiliation/governmental"} never conferred, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to one of the [[lore-dunhariclt|Dunhari]] who has stopped being one.
 
 ## Hooks {#hooks}
 
 - **The thief.** A fence in [[place-qarvelakhend|Qarvelakhend]] pays well for [[miscgear-crwnvahrun|The Iron Crown of Vahrun Marzuvan]] and asks no questions. A rival went south before him and did not come back.
-- **The mercenary or soldier.** The Amradi _ghedvader_ at Qarvelakhend posts the party to the [Kinless Watch]{.name data-type="place/structure"} on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
+- **The mercenary or soldier.** The Amradi _ghedvader_ at Qarvelakhend posts the party to the [[place-kinlesswatch|Kinless Watch]] on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
 - **The leader.** A chieftain, or a member of [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]], hears that something in the storm is calling Dunhari to the Floor. The [Old Promise]{.name data-type="lore/custom"} forbids raising a blade against a Dunhari while an outside enemy walks the land, and nobody can say whether Vahrun is still a Dunhari.
 - **The wanderer.** A traveler is found on the salt with glass rooted in his hands. He mutters verses in a voice-bearer's cadence that no living voice-bearer teaches.
 
@@ -140,6 +140,12 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]
 : the site and its toll
+
+[[place-palefloor|Pale Floor]]
+: the salt flat and the named day
+
+[[place-kinlesswatch|Kinless Watch]]
+: the fort of the Kinless on the Floor's western edge
 
 [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the lineages and the Council

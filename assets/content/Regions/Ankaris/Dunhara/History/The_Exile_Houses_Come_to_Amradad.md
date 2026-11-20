@@ -100,7 +100,7 @@ The Shebarader gave each house ground in Shebarakhend and the standing of a gues
 
 ## The Council on Lent Ground
 
-The houses' yearly [[affiliation-cnclprinces|Council of the Princes]] met in Amradad from the first years of the exile, on ground the Kingdom lent it. About 660 the High Shekhul of [[affiliation-ahurdaen|Ahurdaen]] at the [Great Fire-Temple of Amradad]{.name data-type="place/structure"} agreed to convene it as a neutral party, and the Kingdom undertook to underwrite the Council through him in perpetuity. Every session since has opened at the Great Fire-Temple, with the princes walking to it in procession.
+The houses' yearly [[affiliation-cnclprinces|Council of the Princes]] met in Amradad from the first years of the exile, on ground the Kingdom lent it. About 660 the High Shekhul of [[affiliation-ahurdaen|Ahurdaen]] at the [[place-grtfiretmpl|Great Fire-Temple of Amradad]] agreed to convene it as a neutral party, and the Kingdom undertook to underwrite the Council through him in perpetuity. Every session since has opened at the Great Fire-Temple, with the princes walking to it in procession.
 
 ## What It Left {#what-it-left}
 
