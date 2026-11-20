@@ -57,6 +57,7 @@ data:
     hair_texture: {straight: 8, wavy: 2}
     hair_style: {long: 4, braided: 3, knotted: 2, short: 2, shaved_sides: 1}
     facial_hair: {none: 7, stubble: 2, goatee: 1}
+    facial_hair_genders: [male]
     face_shape: {round: 4, broad: 3, oval: 2, square: 1}
     nose: {aquiline: 4, broad: 3, straight: 2, hooked: 1}
     brow: {straight: 4, arched: 2, heavy: 2, thin: 1}

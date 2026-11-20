@@ -61,6 +61,7 @@ data:
     hair_texture: {straight: 8, wavy: 2}
     hair_style: {shoulder_length: 3, long: 3, knotted: 3, cropped: 2, braided: 1}
     facial_hair: {none: 7, stubble: 2, moustache: 1}
+    facial_hair_genders: [male]
     face_shape: {round: 4, oval: 3, broad: 3, heart: 1}
     nose: {broad: 3, straight: 3, narrow: 2, aquiline: 1}
     brow: {straight: 4, arched: 3, heavy: 1, thin: 1}
