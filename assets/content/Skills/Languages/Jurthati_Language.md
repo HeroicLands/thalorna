@@ -43,10 +43,7 @@ data:
       gloss: "a death; the compound form of _si_"
       attaches: "added"
       examples: ["rui > ruizi, the ritual death"]
-    - form: "-bu"
-      gloss: "balance, harmony; the compound form of _fu_"
-      attaches: "added"
-      examples: ["wo > wobu, the warrior nobility"]
+    - {form: "-bu", gloss: "balance, harmony; the compound form of _fu_", attaches: "added"}
     - form: "-zu"
       gloss: "a tribe, a people or a caste; the compound form of _tsu_"
       attaches: "added"
