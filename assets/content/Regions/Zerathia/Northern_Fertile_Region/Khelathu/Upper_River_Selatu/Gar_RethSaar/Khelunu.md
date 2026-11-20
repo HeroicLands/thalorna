@@ -35,6 +35,10 @@ The city also gives its name to the [[lore-khelunulekha|Khelunu Lekhau]], the ar
 
 The Thaz'Lekhau of Reth'Sa'ar is less wealthy than the heads of the great solar and mortuary cults, and more influential than his purse. He governs the word and the number here, and in a civilization that runs on records that is power enough.
 
+## Politics {#present}
+
+The Halzi'a of Gar-Reth'Sa'ar governs beside the Thaz'Lekhau of Reth'Sa'ar, and the Halzi'a keeps the roads, the granaries and the levy while the temple keeps the word and the number. The observatory records the river's height every night. Two low years are in their books, and the Halzi'a's scribes cite them when the capital asks why the render is short. The city eats from the school-and-farm villages round it, [[place-gargezehuti|Gar-Gezehuti]], [[place-lutzethu2|Lut-Zethu]], [[place-yathkhelunu|Yath-Khelunu]] and [[place-zmathothu|Zma-Thothu]] among them, which grow grain for the scholars and lodge the families of pupils. A short harvest means stricter rations for pupils.
+
 ## Notable Features
 
 - The great library-temple of Reth'Sa'ar, the deepest archive in the empire
