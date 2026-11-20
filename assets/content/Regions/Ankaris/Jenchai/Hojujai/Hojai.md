@@ -25,6 +25,12 @@ When the mountain erupts, the retainers of the house clear the villages in its p
 
 92,000 people live on Hojai: the whole of the [[affiliation-hojujaidmn|Hojujai Domain]], which holds the castle town of [[place-yanwu|Yanwu]] (6,000 people) and the villages of its roll.
 
+## Current Situation {#present}
+
+In 720 AF Hojai rumbles, and every tremor is entered in the mountain record against the regency of [[being-reweihojujai|Hojujai Rewei]], who holds the house for her son [[being-zijahojujai|Hojujai Zija]], fourteen years old. The omen-readers are divided on whether the mountain condemns a widow's rule. An eruption before Zija comes of age would settle the argument against his mother, and until he does she holds the house on a reading that the next tremor can reverse.
+
+While [[being-weilengjnch|Weileng]] has not conferred the office of Teng Ja, the house's claim to it stays open. The Shuiwojai envoy at [[place-yanwu|Yanwu]] sends word to [[place-hawu|Hawu]] after every shock, so the lords of the Strait learn the mountain's mood as soon as the house does.
+
 ## See Also {#see-also}
 
 [[affiliation-hojujaidmn|Hojujai Domain]]

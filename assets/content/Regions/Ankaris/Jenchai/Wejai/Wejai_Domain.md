@@ -112,6 +112,12 @@ The Wohou of Wejai serve the house for stipends in bales, since no retainer fami
 
 The muster is 600 men and 15 ships. The ships are whalers and coastal guard boats, built to keep the reefs and to stand off the typhoon coast.
 
+## Current Situation {#present}
+
+A typhoon drove a foreign hull onto the reefs of Wewo, and in 720 AF its cargo and its survivor are Wejai's problem. By wreck-right the cargo is the lord's. The survivor claims to be an envoy to the court, and his letters are in the cargo. If [Wejai Rowo]{.name data-type="being/npc"} keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross the [[affiliation-muwojaidmn|Muwojai Domain]]'s roads.
+
+Wejai has the fewest people of the four independent houses, and Rowo wants a better seat at the Dawn Rite than his 600 men and 15 ships have bought him. He has named his price to no bloc and wants to be asked after Zenjai and Wojai. The letters are what he has to bargain with.
+
 ## History {#history}
 
 Wejai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
@@ -119,10 +125,6 @@ Wejai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty 
 ## Relations {#relations}
 
 Wejai belongs to neither bloc. Its lord is one of the four independent houses, who together muster 3,970 men and 55 ships and who each have their own price.
-
-## The Wreck on the Reefs
-
-A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo is the lord's. A survivor claims to be an envoy to the court, and his letters are in the cargo. If Rowo keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross the [[affiliation-muwojaidmn|Muwojai Domain]]'s roads.
 
 ## See Also {#see-also}
 

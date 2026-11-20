@@ -25,6 +25,12 @@ The lord's castle town, [[place-hawu|Hawu]], stands on the mountain's shore.
 
 105,000 people live on Rojai: the whole of the [[affiliation-shuiwojaidmn|Shuiwojai Domain]], which holds the castle town of [[place-hawu|Hawu]] (7,500 people) and the villages of its roll.
 
+## Current Situation {#present}
+
+In 720 AF Rojai's year is read as a year of storms, and [[being-henzoshuiwo|Shuiwojai Henzo]]'s claim to heaven's favor rests on that reading. He has petitioned the Emperor for the office of Teng Ja, and he is the favorite for it; his silver has covered the court's shortfall for three years.
+
+[[being-weilengjnch|Weileng]] has answered with a sealed letter, and the letter has not yet reached the mountain. The yards at [Kowo]{.name data-type="place/settlement"} and the fleet in the mountain's lee wait with their lord, and until the letter arrives Henzo does not know what the Emperor asks of him. Meanwhile his envoys carry his price to Zenjai and Wojai.
+
 ## See Also {#see-also}
 
 [[affiliation-shuiwojaidmn|Shuiwojai Domain]]

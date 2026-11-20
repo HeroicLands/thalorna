@@ -23,6 +23,12 @@ The summit holds a shrine and the **observatory** of the omen-readers. The Tanch
 
 42,000 people live on Zijai: the whole of the [[affiliation-muwojaidmn|Muwojai Domain]], which holds the castle town of [[place-kowu|Kowu]] (3,200 people) and the villages of its roll.
 
+## Current Situation {#present}
+
+In 720 AF the road along the foot of Zijai is the one every house watches. [[being-chaiwomuwoj|Muwojai Chaiwo]], who holds the mountain, is sixty-one and has no grown heir, and each bloc is courting the men who would succeed him, since whoever does will hold the gate to the Emperor on [[place-zojai|Zojai]].
+
+The Emperor's sealed letter to Shuiwojai crosses the ferry at [Zuju]{.name data-type="place/settlement"} on its way to the Strait. The omen-readers' observatory on the summit fixes the timing of imperial acts from what it records, so the household of the Omen-Reader is watched while [[being-weilengjnch|Weileng]] leaves the office of Teng Ja unconferred.
+
 ## See Also {#see-also}
 
 [[affiliation-muwojaidmn|Muwojai Domain]]

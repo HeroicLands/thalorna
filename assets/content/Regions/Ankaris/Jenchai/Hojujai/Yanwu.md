@@ -30,6 +30,12 @@ Rewei governs through judges the household appoints from among the retainers. Th
 
 Yanwu is the household seat of the last Teng Ja, Hojujai Henwo, who died in 709 AF; his widow has held it for their son since, through the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
 
+## Current Situation {#present}
+
+In 720 AF Yanwu waits on the mountain. [[being-zijahojujai|Hojujai Zija]] is fourteen, and every tremor of [[place-hojai|Hojai]] sends the town's Tanchei and sorcerers to argue over what it says of a widow's regency.
+
+[[being-reweihojujai|Hojujai Rewei]] has named a price to Zenjai and Wojai, and the granary above the town must meet it. Her steward has not been shown the figure.
+
 ## See Also {#see-also}
 
 [[affiliation-hojujaidmn|Hojujai Domain]]

@@ -19,7 +19,7 @@ data:
 # terran_analog: Japanese archipelago (mountainous volcanic islands)
 ---
 
-The Jenchai Region is the eastern archipelago of the [[place-ankrscntnnt|Ankaris Continent]]—a great volcanic island, a lesser island and their islets, carrying nine mountains and separated from the [[place-tantsouregin|Tantsou]] mainland by a treacherous strait. The islanders call the land Teyan Jenjai, the Nine Mountains Above the Clouds of Heaven, and Jenjai in everyday speech; the mainland's dismissive name for it is Chaiwong. It is dominated politically by the sovereign [[affiliation-jenchaiempr|empire of Jenchai]], which the [[affiliation-tantsouempr|Empire of Tantsou]] has for a thousand years refused to recognize—considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the [[lore-mandatehvn|Celestial Mandate]] that Tantsou, in their telling, has long since forfeited.
+The Jenchai Region is the eastern archipelago of the [[place-ankrscntnnt|Ankaris Continent]]—a great volcanic island, a lesser island and their islets, carrying nine mountains and separated from the [[place-tantsouregin|Tantsou]] mainland by a treacherous strait. The islanders call the land Teyan Jenjai, the Nine Mountains Above the Clouds of Heaven, and Jenjai in everyday speech; the mainland's dismissive name for it is Chaiwong. It is dominated politically by the sovereign [[affiliation-jenchaiempr|Jenchai Empire]], which the [[affiliation-tantsouempr|Empire of Tantsou]] has for a thousand years refused to recognize—considering the archipelago a rebellious province rather than an independent state. The islanders return the compliment, viewing themselves as heaven's favored inheritors of the [[lore-mandatehvn|Celestial Mandate]] that Tantsou, in their telling, has long since forfeited.
 
 Where the Tantsou Region is a continental civilization of imperial bureaucracy and ordered plains, Jenchai is its mirror-opposite: maritime, feudal, warrior-aristocratic, and shaped at every turn by the discipline of life on steep, narrow islands.
 
@@ -54,6 +54,14 @@ The ceremonial Emperor of Jenchai serves this fragmented theology well: his role
 Real authority lies with a handful of **Dauzhwo**—Great Lords—who rule their provinces as effectively independent fiefdoms, each with its own army, justice, taxes, and foreign policy. Below them sit the **Shwizhwo**, lesser lords who pledge personal allegiance in exchange for land. The **Rongleng Tengzhei** ("Son of Heaven of Ten Thousand Dawns") sits at the ceremonial apex, distributing honor but commanding nothing.
 
 The current balance rests on three or four roughly equal Dauzhwo, none willing to risk open war against a coalition of the others. Every generation or so this balance collapses into open civil war before a new equilibrium emerges; the last collapse was the [[lore-empseatwar|War of the Empty Seat]], 709–712 AF ([[lore-hstryjenchai|The History of Jenchai]]). The office of Teng Ja, the Emperor's sword-arm and the one lord the others obey while it is held, has stood vacant since 709 AF, and the race to fill it drives the politics of the eight domains. See [[affiliation-jenchaiempr|Jenchai]] for the detailed political structure.
+
+## Current Situation {#present}
+
+In 720 AF the eight houses that hold their mountains around the Emperor's own wait on one decision. The Emperor [[being-weilengjnch|Weileng]], nineteen and of age, has not conferred the vacant office of Teng Ja, and every domain shapes its year around the vacancy. The Strait bloc of Shuiwojai and Rinjai backs [[being-henzoshuiwo|Shuiwojai Henzo]], whose silver carries the court. The loyalists, Hojujai and Muwojai, hold for the Hojujai heir. Zenjai and Wojai are courted by both, and either one's choice ends the balance among the Nine.
+
+The signs of it are on the roads. Muwojai's garrisons and toll-keepers watch every envoy bound for [[place-lengwou|Lengwou]], and the lords' envoys fill the town's inns ahead of the Dawn Rite, where the seating is the year's political map. [[place-hojai|Hojai]] rumbles, and the omen-readers disagree on what it says of the regent who holds the mountain. In the north the granaries are empty after a winter on half rations.
+
+On the water the strait is busy and watched. Shuiwojai and Rinjai ships take tolls and plunder, merchants cross for jade and silver, and the islanders and the mainland trade goods while holding each other in contempt.
 
 ## Trade
 
