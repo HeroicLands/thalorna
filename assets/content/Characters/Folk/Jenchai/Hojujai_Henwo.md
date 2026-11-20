@@ -32,7 +32,7 @@ data:
     nose: broad
     brow: heavy
     mouth: wide
-    extra_features: [a long scar on the forearm, the red cord of the Teng Ja at the hilt]
+    extra_features: [a long scar on the forearm]
   packFolder: ankarisjenchai
 ---
 
