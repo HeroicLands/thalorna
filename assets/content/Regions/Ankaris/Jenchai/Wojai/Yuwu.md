@@ -49,3 +49,6 @@ Whoever redeems the pawned bell of the Dawn Rite before the New Year buys the Em
 
 [[miscgear-dwnrtbll|The Bell of the Dawn Rite]]
 : the pawned bell in a merchant house's strong-room
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

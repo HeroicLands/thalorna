@@ -48,3 +48,9 @@ The stable-yard still enters the horses from Maidu, and the levy rolls are kept 
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[scenario-rcbfrsnw|Rice Before the Snow]]
+: a scenario: the cold north sells its spears for grain before the first snow, and both blocs bid in rice that may not exist
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

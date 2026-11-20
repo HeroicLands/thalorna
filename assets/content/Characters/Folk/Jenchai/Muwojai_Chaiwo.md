@@ -72,7 +72,7 @@ He sees everyone who goes to the Emperor, and the court's money and roads are in
 
 ### Weaknesses
 
-Each bloc is courting the men who would succeed him, and he cannot tell which of his own retainers has been courted.
+Each bloc has approached one of the men who would succeed him, and he cannot tell which of his own retainers has accepted.
 
 ## Social
 

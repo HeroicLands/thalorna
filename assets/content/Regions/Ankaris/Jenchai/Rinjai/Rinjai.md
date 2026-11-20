@@ -39,3 +39,6 @@ In 720 AF the raiders of Rinjai hold a Tantsou prefect taken off the mainland co
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[scenario-prfctrdhll|The Prefect in the Red Hall]]
+: a scenario: a Tantsou prefect held by Rinjai's raiders, claimed by the court, the Strait and the mainland
