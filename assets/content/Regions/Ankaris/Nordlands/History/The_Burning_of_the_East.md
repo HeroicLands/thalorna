@@ -23,7 +23,7 @@ data:
         - place-grkrhlmrgn
         - lore-storalddraskborg
       summary: >-
-        A Grukar tribe in the marsh country south and east of Targud raises a horde: a Sha that has watched the frontier for seasons, a Hushk that leads, and Uk in thousands, spawned for the war and driven at the farms. District after district of Targud's east burns over ten summers, and the farms draw back a day's walk down the river. The horde collapses into its own quarrels the year after Nulthgard falls.
+        A Grukar tribe in the marsh country raises a horde: a Sha that has watched the frontier for seasons, a Hushk that leads, and Uk in thousands, spawned for the war and driven at the farms. District after district of Targud's east burns over ten summers, and the farms draw back a day's walk down the river. The horde collapses into its own quarrels the year after Nulthgard falls.
       standing: attested
       names: [{name: the Burning of the East, by: affiliation-kingdmtrgd}]
       where:
@@ -79,7 +79,7 @@ data:
 
 ## The Horde
 
-In 604 something came out of the marsh country south and east of Targud that the watch had not seen before: a [[lore-grukarfolk|Grukar tribe]] that had stopped fighting its neighbors. A Sha of that tribe, the Grukar who thinks forward, had spent seasons watching the frontier's roads and walls, and a Hushk led what the Sha planned. Behind them came Uk in thousands, spawned for the war by a tribe that had put a whole larder into soldiers, and driven at the farms the way the Grukar drive a weapon they cannot afford to keep. The watch calls it a horde because the north has no better word for a Grukar tribe with a purpose.
+In 604 something came out of the Grukar marsh country that the watch had not seen before: a [[lore-grukarfolk|Grukar tribe]] that had stopped fighting its neighbors. A Sha of that tribe, the Grukar who thinks forward, had spent seasons watching the frontier's roads and walls, and a Hushk led what the Sha planned. Behind them came Uk in thousands, spawned for the war by a tribe that had put a whole larder into soldiers, and driven at the farms the way the Grukar drive a weapon they cannot afford to keep. The watch calls it a horde because the north has no better word for a Grukar tribe with a purpose.
 
 The east burned for ten summers. A district's farms were burned in one year and its watchtowers abandoned the next, and the frontier drew back a day's walk down the river, so that the holdings the saga of [[lore-storalddraskborg|Storald of Draskborg]] describes "a day further down the river than they are now" are the ones the horde took. The king, [Skruldmil II]{.name data-type="being/npc"} of the [Driskaruk]{.name data-type="affiliation/lineage"}, held his hall at [[place-nulthgard|Nulthgard]], on a rise above a ford at the heart of the old eastern districts, because that was where the kings of [[affiliation-kingdmtrgd|Targud]] had always held it.
 

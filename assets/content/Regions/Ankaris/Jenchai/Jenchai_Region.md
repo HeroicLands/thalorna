@@ -11,6 +11,7 @@ data:
   parents: [ankrscntnnt]
   population: 500000
   packFolder: jenchai
+  culture: jenchaiclt
   government: jenchaiempr
 
 # terran_analog: Japanese archipelago (mountainous volcanic islands)
@@ -42,7 +43,7 @@ The Jenchai call every ritual death, ordered or chosen, [Rwising]{.name data-typ
 
 ## Religion
 
-The islands' faith is a divergent form of the Celestial Order. The broad pantheon—[[lore-tanzhodty|Tanzho]], the Celestial Dragon, and [[lore-weizhuodty|Weizhwo]], the Jade Sovereign, Minister of Storms, Minister of the Moon, the [[lore-fvlmntlrds|Five Elemental Lords]]—is recognizable, but interpretation has fragmented along regional and domain lines. Coastal provinces elevate the storm and sea aspects; mountain provinces emphasize earth and metal; island shrines host cults specific to their locality. Each Great Lord claims some portion of heavenly favor for his own line, and the Mandate of Heaven—which in Tantsou is held singularly by the Emperor—has fractured into competing local claims; the Emperor's is the one claim to the whole.
+The islands' faith is a divergent form of the Celestial Order. The broad pantheon—[[lore-tanzhodty|Tanzho]], the Celestial Dragon, and [[lore-weizhuodty|Weizhwo]], the Jade Sovereign, [[lore-raoguidty|Raugwi]], the Minister of Storms, [[lore-youweidty|Youbwi]], Keeper of the Jade Seal, the [[lore-fvlmntlrds|Five Elemental Lords]]—is recognizable, but interpretation has fragmented along regional and domain lines. Coastal provinces elevate the storm and sea aspects; mountain provinces emphasize earth and metal; island shrines host cults specific to their locality. Each Great Lord claims some portion of heavenly favor for his own line, and the Mandate of Heaven—which in Tantsou is held singularly by the Emperor—has fractured into competing local claims; the Emperor's is the one claim to the whole.
 
 The ceremonial Emperor of Jenchai serves this fragmented theology well: his role is to hold the symbolic center while the Great Lords pursue their regional pieties.
 
@@ -85,16 +86,20 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
 
-[[place-hojai|Fire Peak]]
+[[place-hojai|Hojai]]
 
-[[place-tsuijai|Iron Peak]]
+[[place-tsuijai|Tsuijai]]
 
-[[place-yujai|Moon Peak]]
+[[place-yujai|Yujai]]
 
-[[place-rinjai|Red Peak]]
+[[place-rinjai|Rinjai]]
 
-[[place-zenjai|Snow Peak]]
+[[place-zenjai|Zenjai]]
 
-[[place-rojai|Thunder Peak]]
+[[place-rojai|Rojai]]
 
-[[place-wejai|Wind Peak]]
+[[place-wejai|Wejai]]
+
+[[place-zijai|Zijai]]
+
+[[place-zojai|Zojai]]

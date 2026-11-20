@@ -1,9 +1,9 @@
 ---
 shortcode: rinjai
-name: {full: Red Peak, jurt: [Rinjai]}
+name: {full: Rinjai, en: [Red Peak]}
 type: place
 subType: region
-description: "Red Peak, the volcanic mountain of the lesser island at the strait's mouth—steep, cut with coves, and the base of the realm's raiders."
+description: "Rinjai, the volcanic mountain of the lesser island at the strait's mouth—steep, cut with coves, and the base of the realm's raiders."
 tags: [mountain, island, coastal, volcanic]
 data:
   demonym: null

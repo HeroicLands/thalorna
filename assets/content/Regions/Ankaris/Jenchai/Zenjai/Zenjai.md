@@ -1,9 +1,9 @@
 ---
 shortcode: zenjai
-name: {full: Snow Peak, jurt: [Zenjai]}
+name: {full: Zenjai, en: [Snow Peak]}
 type: place
 subType: region
-description: "Snow Peak, the volcanic mountain of the cold north of the great island—one harvest a year on its terraces, timber and horse pastures above them."
+description: "Zenjai, the volcanic mountain of the cold north of the great island—one harvest a year on its terraces, timber and horse pastures above them."
 tags: [mountain, volcanic, highland]
 data:
   demonym: null

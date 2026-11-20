@@ -13,6 +13,7 @@ data:
     - {to: khzryndsrtrgn, bearing: E}
     - {to: wlqtrrgn, bearing: E}
     - {to: helionis, bearing: W}
+    - {to: velanthrgn, bearing: N}
     - {to: amradadrgn, bearing: S}
   population: 1200000
   packFolder: byzaria

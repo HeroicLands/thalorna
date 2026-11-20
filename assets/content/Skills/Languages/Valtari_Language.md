@@ -5946,7 +5946,7 @@ Valtari varies noticeably by port:
 
 - **[[place-ilovanu|Ilovanu]] dialect**: The prestige form; favors clarity and slower speech. Influenced by the mixed Taruzeli-Kaliharan population. Closest to a "standard."
 - **[[place-vashuran|Vashurán]] dialect**: Fast, clipped, heavily Taruzeli. Difficult for non-native Taruzeli speakers to follow; prized for its efficiency.
-- **Northern port dialects** ([[place-velanthrgn|Velanthian coast]]): Softer, more Helonik-influenced. Slower, more vowel-heavy.
+- **Northern port dialects** (the ports of [[place-helionis|Helionis]]): Softer, more Helonik-influenced. Slower, more vowel-heavy.
 - **Other Kaliharan ports** (the island's eastern coast): Mix of [[skill-kalihrlng|Kalihari]] cadence with Valtari vocabulary; unique tonal patterns.
 
 A trader from Ilovanu moving to Vashurán must re-learn the rapid-fire delivery and emphatic stress patterns. Similarly, a Nordmal merchant's Valtari will carry Nordmal phonemes and word order habits.
