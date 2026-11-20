@@ -13,7 +13,7 @@ data:
     - {to: bethuargn, bearing: N}
     - {to: cntrlrnfrsts, bearing: S}
     - {to: aukhelathrgq, bearing: NE}
-  population: null
+  population: 500000
   packFolder: xerathia
 
 # terran_analog: "The pre-Saharan steppe south of the Maghreb—the Atlas foothills, the High Plateaus and the northern Sahel: esparto scrub, seasonal wadis and transhumant herders."

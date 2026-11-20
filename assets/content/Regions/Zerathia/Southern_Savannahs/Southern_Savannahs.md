@@ -94,3 +94,18 @@ To the **far south** lie the coasts of an unnamed ocean and whatever exists beyo
 
 [[place-oldhetos|The Old Hetos]]
 : the dry-stone enclosures of the southeastern highlands
+
+Mbolewe
+: the Ruwozi paramount's village-sized seat; the Nyáluba nation has no towns
+
+Nyangulo
+: the Kolembozi paramount's village-sized seat
+
+Ndelushi
+: the Ngonzi paramount's village-sized seat
+
+Nkabewi
+: the Sengala paramount's village-sized seat
+
+Lombesa
+: the Lobwezi paramount's village-sized seat

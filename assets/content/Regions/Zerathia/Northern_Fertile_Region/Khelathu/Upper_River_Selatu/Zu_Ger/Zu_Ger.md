@@ -41,8 +41,17 @@ The villages of Zu-Ger lie round the oldest burial-ground of the empire, and the
 
 ## Settlements {#settlements}
 
-Chegu (~39,000)
+Chegu (~7,600)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zelger|Zel-Ger]] (~7,400)
+: a mortuary-service town in Zu-Ger Selat, close to the old royal burial-ground beside Chegu
+
+[[place-lutger|Lut-Ger]] (~6,100)
+: an estate-town of Zu-Ger Selat with a granary that the royal funerary estates fill
+
+[[place-yathger|Yath-Ger]] (~5,000)
+: a river-landing town of Zu-Ger Selat where the barges of the burial-ground unload stone and timber
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

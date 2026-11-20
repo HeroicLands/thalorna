@@ -31,8 +31,11 @@ The few people of Selat-Leteru live on the shrine-islands and by the pilgrims wh
 
 ## Settlements {#settlements}
 
-[[place-yathleteru|Yath-Leteru]] (~11,000)
+[[place-yathleteru|Yath-Leteru]] (~4,000)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-garleteru|Gar-Leteru]] (~3,500)
+: a pilgrims' lodging town on the mainland shore in Selat-Leteru, opposite the shrine-islands that Yath-Leteru serves
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [anlaghztnslt]
-  population: 0
+  population: 760
+  type: village
+  market: local
+  government: selatnlghztn
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A grain-village of the flood-basin in Anlagh-Zetun, working its share of the inundated land and sending its harvest up the chain to the granaries and the Halzi'a"

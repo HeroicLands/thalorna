@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [garrethsaarnome]
-  population: 0
+  population: 520
+  type: village
+  market: local
+  government: selatgrrthsr
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A village of the Gar-Reth'Sa'ar grain-country, one of several that take in the households of scholars and keep a school of their own"

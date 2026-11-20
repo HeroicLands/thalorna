@@ -31,8 +31,14 @@ The marsh villages of Lut-Chelsur live beside the animals of their god, and a lo
 
 ## Settlements {#settlements}
 
-[[place-lutchelsur|Lut-Chelsur]] (~38,000)
+[[place-lutchelsur|Lut-Chelsur]] (~7,400)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zmachelsur|Zma-Chelsur]] (~9,700)
+: a hunters' landing in the eastern marsh of Lut-Chelsur Selat, reached by boat from Lut-Chelsur
+
+[[place-yathchelsur|Yath-Chelsur]] (~7,900)
+: a mound-town of the crocodile-keepers in Lut-Chelsur Selat, a half-day from Lut-Chelsur
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

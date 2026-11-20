@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [khelzuretslt]
-  population: 0
+  population: 570
+  type: village
+  market: local
+  government: selatkhelzrt
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A pilgrim-and-farm village of Khelzuret, strung along the east bank and the pilgrim-road"

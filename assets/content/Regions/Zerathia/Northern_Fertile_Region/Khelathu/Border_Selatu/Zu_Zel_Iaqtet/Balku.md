@@ -3,26 +3,26 @@ shortcode: balqu
 name: {full: Balku}
 type: place
 subType: settlement
-description: "Fortified Mining Town"
-tags: [town, fortified, mining]
+description: "Fortified Mining City"
+tags: [city, fortified, mining]
 data:
   banner: khelathubnr
   demonym: null
   lore: []
   parents: [zuzeliaqtetnome]
   population: 22000
-  type: town
+  type: city
   market: regional
   packFolder: regkhsett
   government: selatzuzlqtt
-  notes: "Fortified Mining Town"
+  notes: "Fortified Mining City"
 ---
 
 ## Overview {#overview}
 
-**Balku** (about 22,000 people) is the capital of [[affiliation-selatzuzlqtt|the empire's Selat of Zu-Zel-Iaqtet]] in the empire, a fortified hill-town at the mouth of the chief mining district where the desert roads come down out of the hills. The eastern gold is gathered here, weighed and sealed for the long guarded journey to the capital.
+**Balku** (about 22,000 people) is the capital of [[affiliation-selatzuzlqtt|the empire's Selat of Zu-Zel-Iaqtet]] in the empire, a fortified hill-city at the mouth of the chief mining district where the desert roads come down out of the hills. The eastern gold is gathered here, weighed and sealed for the long guarded journey to the capital. The hills grow nothing, so the city buys its bread: grain carts from the river villages climb the eastern road to its granaries, under the same escorts that carry the gold down.
 
-"Look at the walls and you know what the town is for," a mine overseer tells a newcomer riding in behind a convoy. "They face outward at the desert and inward at the strongroom, and the second is the harder to get past." The assay-house and treasury are the selat's strongroom, and the garrison barracks hold the troops who escort the gold-convoys and answer the desert raiders. The great temple of [[lore-psaqarudty|Saq'aru]] the smith presides over a town of mine-captains, smelters, engineers and hard frontier labor.
+"Look at the walls and you know what the city is for," a mine overseer tells a newcomer riding in behind a convoy. "They face outward at the desert and inward at the strongroom, and the second is the harder to get past." The assay-house and treasury are the selat's strongroom, and the garrison barracks hold the troops who escort the gold-convoys and answer the desert raiders. The great temple of [[lore-psaqarudty|Saq'aru]] the smith presides over a city of mine-captains, smelters, engineers and hard frontier labor.
 
 Balku is walled, watchful and built for control rather than comfort, and it is the seat of the soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who guards a fortune in rock and the men who dig it.
 

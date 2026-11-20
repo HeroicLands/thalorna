@@ -25,8 +25,14 @@ Cross it with a caravan and you measure the country in forts rather than village
 
 ## Settlements {#settlements}
 
-[[place-khuqet|Khuqet]] (~12,000)
+[[place-khuqet|Khuqet]] (~4,700)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-uqaa|Uqa'a]].
+
+[[place-zelimntiqa|Zel-Imntiqa]] (~3,500)
+: an oasis market town in Khuqet-Imntiqa Selat, a week of dry track west of the river and the nearest large place to Khuqet
+
+[[place-lutimntiqa|Lut-Imntiqa]] (~2,800)
+: an estate-town of date and barley land in Khuqet-Imntiqa Selat, two days from Khuqet along the oasis chain
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.

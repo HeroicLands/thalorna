@@ -10,9 +10,9 @@ data:
   demonym: null
   lore: []
   parents: [zuqeztunome]
-  population: 9900
+  population: 4700
   type: town
-  market: regional
+  market: local
   packFolder: regkhsett
   government: selatzuqeztu
   notes: "Selat capital of Zu-Qeztu."
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-**Zileti** (about 9,900 people) is the capital of [[affiliation-selatzuqeztu|the Selat of Zu-Qeztu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], the town of the western horse-country.
+**Zileti** (about 4,700 people) is the capital of [[affiliation-selatzuqeztu|the Selat of Zu-Qeztu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], the town of the western horse-country.
 
 Despite the selat's name, the chief temple at Zileti belongs to [[lore-uqaadty|Uqa'a]], the sun-god, and not to the war-god. The Halzi'a's court and granaries stand near it, the scribal bureau keeps the tax rolls, and the markets serve the surrounding villages and estate-towns and the pasture-country beyond. The town's character is the selat's: the western grazing margin, horse-pasture and the watch against raiders. The Halzi'a house is [[affiliation-thaulgau|Tha'Ulgau]], the kin of the hill-nomad conquerors, settled on the pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), after [[lore-thaulgau|the Coming of the Tha'Ulgau]]. The first of its dead lie in the grass west of the town ([[place-horsebarrows|the Horse Barrows]]).
 

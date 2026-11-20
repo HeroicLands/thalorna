@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [galezkaraslt]
-  population: 0
+  population: 340
+  type: village
+  market: local
+  government: capitalselat
   packFolder: regkhsett
   banner: khelathubnr
   notes: "A village of the Capital Selat's hinterland that also keeps a namesake among the marsh-channels of Gar-Anlaghet, so that a boatman asking for Zma-Belgen is asked in return which water he means"

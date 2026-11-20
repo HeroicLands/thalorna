@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [selatpelgunnome]
-  population: 9900
+  population: 7000
   type: town
   market: regional
   packFolder: regkhsett
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-Iku is where the eastern caravans arrive. It is the capital of [[affiliation-selatsltplgn|the Selat of Selat-Pelgun]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and about 9,900 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-pelgun|Faith of Pelgun]], the scribal bureau that keeps the tax rolls and the markets where the caravans unload. At harvest the temple fills with the selat's festival crowds for the harvest-festivals and the virility rites of the god.
+Iku is where the eastern caravans arrive. It is the capital of [[affiliation-selatsltplgn|the Selat of Selat-Pelgun]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and about 7,000 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-pelgun|Faith of Pelgun]], the scribal bureau that keeps the tax rolls and the markets where the caravans unload. At harvest the temple fills with the selat's festival crowds for the harvest-festivals and the virility rites of the god.
 
 ## See Also {#see-also}
 

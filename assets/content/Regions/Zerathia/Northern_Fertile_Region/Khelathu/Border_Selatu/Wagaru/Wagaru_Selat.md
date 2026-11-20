@@ -25,8 +25,14 @@ This is the country of the southern gold-road, and everything on it is arranged 
 
 ## Settlements {#settlements}
 
-[[place-wagaru|Wagaru]] (~14,000)
+[[place-wagaru|Wagaru]] (~5,100)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-psaqaru|Saq'aru]].
+
+[[place-yathwagaru|Yath-Wagaru]] (~4,300)
+: a gold-mining town in the hills of Wagaru Selat, on the road south from Wagaru
+
+[[place-garwagaru|Gar-Wagaru]] (~3,600)
+: a caravan station in Wagaru Selat where the gold road meets the tribute route from the south
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

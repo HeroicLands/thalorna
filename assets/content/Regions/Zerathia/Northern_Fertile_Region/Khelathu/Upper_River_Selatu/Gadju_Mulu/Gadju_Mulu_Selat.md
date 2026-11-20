@@ -33,8 +33,14 @@ The flood-basin of Gadju-Mulu is marsh in a good year, and this year it is half 
 
 ## Settlements {#settlements}
 
-[[place-gadjumulu|Gadju-Mulu]] (~27,000)
+[[place-gadjumulu|Gadju-Mulu]] (~6,100)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-thubai|Faith of Thuba'i]] and its estates.
+
+[[place-zmamulu|Zma-Mulu]] (~6,500)
+: a flax-and-waterfowl town in the floodbasin of Gadju-Mulu Selat, a short punt from Gadju-Mulu
+
+[[place-gargadju|Gar-Gadju]] (~5,400)
+: a market town on the dry rim of Gadju-Mulu Selat
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

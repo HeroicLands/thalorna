@@ -42,8 +42,14 @@ The villages of Lenen-Nezut live round a town that once held a throne, and they 
 
 ## Settlements {#settlements}
 
-Lenen-Nezut (~26,000)
+Lenen-Nezut (~5,900)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zellenen|Zel-Lenen]] (~6,100)
+: a horse-pasture town in Lenen-Nezut Selat, on the dry plain behind the old capital of Lenen-Nezut
+
+[[place-yathnezut|Yath-Nezut]] (~5,000)
+: a ram-shrine town in Lenen-Nezut Selat, upstream of Lenen-Nezut
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

@@ -41,8 +41,14 @@ The quarters of Magu-Thelqen are half empty, and the people who live in them are
 
 ## Settlements {#settlements}
 
-Magu-Thelqen (~22,000)
+Magu-Thelqen (~5,500)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-garthelqen|Gar-Thelqen]] (~5,200)
+: a half-empty temple town in Magu-Thelqen Selat, a short ride from Magu-Thelqen
+
+[[place-lutthelqen|Lut-Thelqen]] (~4,300)
+: an estate-town of Magu-Thelqen Selat, at the edge of the old planned city
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

@@ -31,8 +31,14 @@ Khelaga sits where the river first divides, and the villages along the two chann
 
 ## Settlements {#settlements}
 
-[[place-khelaga|Khelaga]] (~26,000)
+[[place-khelaga|Khelaga]] (~6,000)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-lutkhelaga|Lut-Khelaga]] (~6,300)
+: a customs town at the delta apex in Khelaga Selat, a short sail from Khelaga
+
+[[place-zelkhelaga|Zel-Khelaga]] (~5,200)
+: a shrine-and-estate town in Khelaga Selat, upstream of Khelaga on the western channel
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

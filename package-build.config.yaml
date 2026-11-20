@@ -129,7 +129,7 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-aelwythanclt'
         - id: aukhelathu
-          title: Aû'Khelathu
+          title: Au'Khelathu
           abbreviation: "Khel."
           subtitle: A Gazetteer of Thalorna
           contents:
@@ -766,7 +766,8 @@ packageBuild:
         - address: affiliation-brnyzrvln
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
         - address: affiliation-capitalselat
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat's seat is the metropolis Galezkara, fed by the flood's surplus and the tribute grain of the whole valley, so the listed towns exceed the urban ceiling.
         - address: affiliation-chylrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-cmmndnpdfrt
@@ -821,13 +822,17 @@ packageBuild:
         - address: affiliation-rwlstrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-selatgrnlght
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat holds the delta's metropolis and a second port, and the valley's grain barges and the sea trade feed both, so the listed towns exceed the urban ceiling.
         - address: affiliation-selatgrrthsr
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat is the temple city of Khelunu and its schools, fed by the grain-land around it and the valley's surplus, so the listed towns exceed the urban ceiling.
         - address: affiliation-selatkhelzrt
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat holds the temple city of Khelzuret and the workforce of its necropolis, fed by the valley's surplus, so the listed towns exceed the urban ceiling.
         - address: affiliation-selatnlghztn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The selat holds a river port and a temple city in the empire's greatest granary, and the surplus of its own flood-silt wheatlands feeds both, so the listed towns exceed the urban ceiling.
         - address: affiliation-sqrtrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-svghrtrb

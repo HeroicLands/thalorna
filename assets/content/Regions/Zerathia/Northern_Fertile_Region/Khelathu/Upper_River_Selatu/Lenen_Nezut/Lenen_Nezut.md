@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [lenenneztslt]
-  population: 9900
+  population: 5900
   type: town
   market: regional
   packFolder: regkhsett
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-Lenen-Nezut holds about 9,900 people. It is the capital of [[affiliation-selatlennnzt|the Selat of Lenen-Nezut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who keeps his court and granaries beside the chief temple of the [[affiliation-uqaa|Faith of Uqa'a]] and its ram-cult, the scribal bureau that keeps the tax rolls, and the markets that serve the villages and estate-towns. The horse-breeders of the pasture country bring their strings in to sell, and the old dynasty's town carries its past the way a retired officer carries his bearing.
+Lenen-Nezut holds about 5,900 people. It is the capital of [[affiliation-selatlennnzt|the Selat of Lenen-Nezut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who keeps his court and granaries beside the chief temple of the [[affiliation-uqaa|Faith of Uqa'a]] and its ram-cult, the scribal bureau that keeps the tax rolls, and the markets that serve the villages and estate-towns. The horse-breeders of the pasture country bring their strings in to sell, and the old dynasty's town carries its past the way a retired officer carries his bearing.
 
 The Halzi'a's house is [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]], descended from the Gar-Auu who were crowned and buried here ([[lore-thronelnz|the Throne at Lenen-Nezut]]). Their three royal tombs stand on the desert edge above the town as [[place-lnzways|the Lenen-Nezut Ways]], and on the west-bank floodplain below it lies [[place-zelhalzi|Zel-Halzi]], the one stretch of the valley no survey roll gives a line.
 

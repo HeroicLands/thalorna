@@ -4,14 +4,14 @@ name: {full: Zebt-Relepet}
 type: place
 subType: settlement
 description: "Selat capital of Zebt-Relepet."
-tags: [town]
+tags: [city]
 data:
   banner: khelathubnr
   demonym: null
   lore: []
   parents: [zebtrelptslt]
   population: 28000
-  type: town
+  type: city
   market: regional
   packFolder: regkhsett
   government: selatzbtrlpt
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-Zebt-Relepet is a town that does its work. It is the capital of [[affiliation-selatzbtrlpt|the Selat of Zebt-Relepet]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and about 28,000 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-wethur|Faith of Weth'ur]], the scribal bureau that keeps the tax rolls and the markets that serve the villages around. The cavern-tombs lie in the cliffs behind, the natron comes in from the flats, and the town's trade is the plain, careful business of preparing the dead.
+Zebt-Relepet is a city that does its work. It is the capital of [[affiliation-selatzbtrlpt|the Selat of Zebt-Relepet]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and about 28,000 people live here, among the Halzi'a's court and granaries, the chief temple of the [[affiliation-wethur|Faith of Weth'ur]], the scribal bureau that keeps the tax rolls and the markets that serve the villages around. The cavern-tombs lie in the cliffs behind, the natron comes in from the flats, and the city's trade is the plain, careful business of preparing the dead. The villages of the selat's plain render grain to the granaries, and the natron the city ships out pays for what the plain does not grow.
 
 ## See Also {#see-also}
 

@@ -49,6 +49,10 @@ between them, open grassland pastures sheep, cattle and horses.
 The interior is semi-arid savanna in the west and grows more arid eastward,
 to chaparral at the border with Au'Khelathu.
 
+## Where the People Live
+
+Three million people live in the region, and about one in twenty lives in a city or town. The coastal strip and the irrigated strips along the aqueducts and qanats hold nearly all of them: every town stands at a channel's head, on a harbor, or on the Marches road. Between the strips lies grassland with flocks and few people, and the dry interior holds almost no one beyond the qanat villages. The capital [[place-bethura|Bethura]] is the one city, with a second port at [[place-tharenia|Tharenia]], and the towns feed on the grain of the strips the engineer-priestesses keep alive.
+
 ## Peoples and Culture
 
 The region is Bethuan, and its ruling class, priesthood and engineering corps
@@ -83,3 +87,63 @@ friction.
 [[place-ashira|Oshira]]
 
 [[place-sehela|Sehela]]
+
+[[place-tharenia|Tharenia]]
+: the second port of the Matriarchy, on a sheltered bay a day's sail east of Bethura
+
+[[place-lissira|Lissira]]
+: a salt-and-fishing port on the western coast of Bethua Region, a day's ride from Oshira
+
+[[place-karmenia|Karmenia]]
+: a pottery-and-olive harbor on the coast of Bethua Region, east of Bethura
+
+[[place-thelmira|Thelmira]]
+: a citrus-and-fig town on the coastal strip of Bethua Region, where cisterns hold the winter rain for the summer groves
+
+[[place-perisa|Perisa]]
+: the greatest of the aqueduct-head towns, where the main northern channel leaves the hills for the plain, a long day inland from Bethura
+
+[[place-venira|Venira]]
+: an aqueduct-head town on the middle plain of Bethua Region, where a branch channel divides to feed three irrigated strips
+
+[[place-soredia|Soredia]]
+: a qanat town in the dry southern interior of Bethua Region, built above the mother-well of a tunnel-channel that runs for leagues underground
+
+[[place-ormira|Ormira]]
+: an aqueduct-head town on the hill-edge of Bethua Region, where cisterns store the spring melt for the summer
+
+[[place-dasenia|Dasenia]]
+: a grain-and-flour town at the head of a canal on the plain of Bethua Region
+
+[[place-kelmira|Kelmira]]
+: a qanat town on the eastern plain of Bethua Region, close to the border with Au'Khelathu
+
+[[place-tessira|Tessira]]
+: a cistern town on the dry southwestern plain of Bethua Region, at the end of a long branch channel
+
+[[place-meliora|Meliora]]
+: a wheat-market town on the central plain of Bethua Region, between Perisa and the coast road
+
+[[place-anthira|Anthira]]
+: an olive-and-barley town on the foothills of Bethua Region, where the first channels leave the hills
+
+[[place-palisa|Palisa]]
+: a wool-and-cheese town on the grassland margin of Bethua Region
+
+[[place-lekanira|Lekanira]]
+: a legume-and-millet town in the dry interior of Bethua Region, at the foot of a qanat line
+
+[[place-ishenia|Ishenia]]
+: a vine-and-barley town of the coastal hills of Bethua Region
+
+[[place-zenira|Zenira]]
+: the school-town of the engineering corps in Bethua Region, where young women learn to survey a channel and sink a well
+
+[[place-kolenara|Kolenara]]
+: the market town on the Marches road, on the eastern edge of the cultivated strips of Bethua Region, where herders from the dry south bring wool, hides and cattle
+
+[[place-askelia|Askelia]]
+: a waystation town on the Marches road, a day south of Kolenara
+
+[[place-avenia|Avenia]]
+: an olive-hill town on the western upland of Bethua Region, not far from Oshira

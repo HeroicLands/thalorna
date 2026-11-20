@@ -33,8 +33,14 @@ The villages of Gekhenu keep a calendar by the temple's count, and the library-t
 
 ## Settlements {#settlements}
 
-Gekhenu (~30,000)
+Gekhenu (~6,500)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] and its estates.
+
+[[place-yathgekhenu|Yath-Gekhenu]] (~7,400)
+: a paper-and-ink town in Gekhenu Selat, downstream of Gekhenu
+
+[[place-lutgekhenu|Lut-Gekhenu]] (~6,100)
+: an estate-town of the library-temples in Gekhenu Selat, two days from Gekhenu
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

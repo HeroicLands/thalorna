@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [bethuargn]
+  population: 650
+  type: village
+  market: local
   government: mtrrchybth
   packFolder: bethua
   notes: "A small grain-village of Bethua's dry southern interior, kept alive by the engineer-priestesses' qanats and held by House Khalithon."

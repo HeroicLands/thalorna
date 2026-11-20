@@ -10,9 +10,9 @@ data:
   demonym: null
   lore: []
   parents: [garqeztuselt]
-  population: 9900
+  population: 4900
   type: town
-  market: regional
+  market: local
   packFolder: regkhsett
   government: selatgarqezt
   notes: "Selat capital of Gar-Qeztu."
@@ -20,7 +20,7 @@ data:
 
 ## Overview {#overview}
 
-**Gar-Qeztu** (about 9,900 people) is the capital of [[affiliation-selatgarqezt|the Selat of Gar-Qeztu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and every barracks in the empire knows it for the drill-grounds and officer schools beside it.
+**Gar-Qeztu** (about 4,900 people) is the capital of [[affiliation-selatgarqezt|the Selat of Gar-Qeztu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], and every barracks in the empire knows it for the drill-grounds and officer schools beside it.
 
 An instructor at the officer schools tells new cadets which buildings matter in their first week. "The temple, because the god of the corps lives there. The court, because that is where the Halzi'a sits. The bureau, because the rolls it keeps are what pay for you. The granaries, because they feed you. And the market, because that is where you will spend what is left." The chief temple of [[affiliation-qeztu|Qeztu]] is the first of them.
 

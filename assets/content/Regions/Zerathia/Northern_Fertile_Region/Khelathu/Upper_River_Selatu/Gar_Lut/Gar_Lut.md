@@ -10,9 +10,9 @@ data:
   demonym: null
   lore: []
   parents: [garlutselat]
-  population: 9900
+  population: 4900
   type: town
-  market: regional
+  market: local
   packFolder: regkhsett
   government: selatgarlut
   notes: "Selat capital of Gar-Lut, seat of the chief temple of Uzn'era, the goddess of healing."
@@ -22,7 +22,7 @@ data:
 
 "Tell me where it hurts," a healer of [[affiliation-uznera|Uzn'era]] says to a traveler who has come to Gar-Lut with a fever, "and then tell me what you are holding on to. The goddess teaches that nothing is mended without something being let go, and the cure goes better when you have settled which."
 
-Gar-Lut is the capital of [[affiliation-selatgarlut|the Selat of Gar-Lut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a devout town of about 9,900. It holds the selat's chief temple of the Faith of Uzn'era, the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's own, a small, devout place of healing-shrines and herb-gardens. Uzn'era's priestesses and priests heal the sick, and her faith holds that the body is sacred and its needs the goddess's gift.
+Gar-Lut is the capital of [[affiliation-selatgarlut|the Selat of Gar-Lut]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a devout town of about 4,900. It holds the selat's chief temple of the Faith of Uzn'era, the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's own, a small, devout place of healing-shrines and herb-gardens. Uzn'era's priestesses and priests heal the sick, and her faith holds that the body is sacred and its needs the goddess's gift.
 
 ## See Also {#see-also}
 

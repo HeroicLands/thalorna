@@ -33,7 +33,7 @@ The estates' western trade reaches [[place-orzara|Orzara City]] through their fa
 : the line of divine sovereigns whose palace the estates rival
 
 [[place-garlegulu|Gar-Legulu]]
-: a temple-estate town of the Capital Selat
+: a temple-estate city of the Capital Selat
 
 [[lore-lutu|The Lutu]]
 : the estates of the noble houses

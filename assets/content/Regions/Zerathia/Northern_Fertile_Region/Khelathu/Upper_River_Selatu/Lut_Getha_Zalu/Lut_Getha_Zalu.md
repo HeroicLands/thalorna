@@ -41,8 +41,17 @@ The smith-towns of Lut-Getha-Zalu work bronze and gold, and the villages around 
 
 ## Settlements {#settlements}
 
-Lut-Getha (~36,000)
+Lut-Getha (~7,200)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-gargetha|Gar-Getha]] (~6,700)
+: a smithing town in Lut-Getha-Zalu Selat, close to Lut-Getha
+
+[[place-zelgetha|Zel-Getha]] (~5,500)
+: a gold-and-bronze craft town of Lut-Getha-Zalu Selat, on the river road
+
+[[place-yathgetha|Yath-Getha]] (~4,500)
+: a charcoal-and-ore depot of Lut-Getha-Zalu Selat, on the mound where the hill-roads meet the river
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

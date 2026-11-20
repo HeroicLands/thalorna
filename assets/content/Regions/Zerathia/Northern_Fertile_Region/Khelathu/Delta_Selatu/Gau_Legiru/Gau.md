@@ -3,28 +3,28 @@ shortcode: gau
 name: {full: Gau}
 type: place
 subType: settlement
-description: "Market & Temple Town"
-tags: [town, market, temple]
+description: "Market & Temple City"
+tags: [city, market, temple]
 data:
   banner: khelathubnr
   demonym: null
   lore: []
   parents: [gaulegirunome]
   population: 45000
-  type: town
+  type: city
   market: regional
   packFolder: regkhsett
   government: selatgaulegr
-  notes: "Market & Temple Town"
+  notes: "Market & Temple City"
 ---
 
 ## Overview {#overview}
 
-You smell Gau before you see it: crushed olive and warm citrus peel carried inland on the sea breeze. The town is the capital of [[affiliation-selatgaulegr|the delta's Selat of Gau-Legiru]] in the delta, old and prosperous, about 45,000 strong, and set back a little from the [[place-vylarianse|Vilérian Sea]] among the orchards and vineyards.
+You smell Gau before you see it: crushed olive and warm citrus peel carried inland on the sea breeze. The city is the capital of [[affiliation-selatgaulegr|the delta's Selat of Gau-Legiru]] in the delta, old and prosperous, about 45,000 strong, and set back a little from the [[place-vylarianse|Vilérian Sea]] among the orchards and vineyards.
 
-"Start at the temple, because everybody does," a healer-priestess of [[affiliation-uznera|Uzn'era]] tells a pilgrim on the steps, and points across the square to the great temple behind her, where the birth-shrines and healing-halls draw worshippers from across the delta. Her goddess is the town's patron, and the sick and the expectant come to her before they come to the market.
+"Start at the temple, because everybody does," a healer-priestess of [[affiliation-uznera|Uzn'era]] tells a pilgrim on the steps, and points across the square to the great temple behind her, where the birth-shrines and healing-halls draw worshippers from across the delta. Her goddess is the city's patron, and the sick and the expectant come to her before they come to the market.
 
-The market is the other half of the town. Its great produce-markets buy the garden coast's harvest of wine, oil, citrus, figs and dates, its press-houses and warehouses gather the high-value crops, and its carters take the lot down to [[place-garanlaghet|Gar-Anlaghet]] and the export trade. The administration that seats the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] sits here too, governing the gentry of villas around it. Gau is comfortable and devout, prosperous in the unhurried way of a town that grows good things and is in no rush about anything.
+The market is the other half of the city. Its great produce-markets buy the garden coast's harvest of wine, oil, citrus, figs and dates, its press-houses and warehouses gather the high-value crops, and its carters take the lot down to [[place-garanlaghet|Gar-Anlaghet]] and the export trade. Its bread-grain comes down the river from upstream and is bought with the orchard coast's wine and oil, so the city eats on the strength of its sales. The administration that seats the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] sits here too, governing the gentry of villas around it. Gau is comfortable and devout, prosperous in the unhurried way of a city that grows good things and is in no rush about anything.
 
 ## Notable Features
 
