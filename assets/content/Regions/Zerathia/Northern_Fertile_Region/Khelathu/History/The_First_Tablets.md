@@ -5,7 +5,27 @@ type: lore
 subType: history
 description: "1 to 1006 ST (2110 to 1105 BF): eleven Gar-Auu in two houses, reigns of a length no one lives, the fixing of the sacred hand, and the first kings laid in the Great Land of Zu-Ger."
 tags: [history, khelathu]
-data: {packFolder: regkhhist, culture: khelathiclt}
+data:
+  packFolder: regkhhist
+  culture: khelathiclt
+  events:
+    - when: -1490
+      stated: {calendar: khelathclndr, text: "621 FT"}
+      kind: accession
+      depth: region
+      sources: [lore-garauu, affiliation-azletkutu, place-zugernome]
+      summary: >-
+        The First House ends with its fifth Gar-Au, Zab'Uzner, after ninety years, and the second house, Azlet'Kutu, takes the throne. Its Gar-Auu keep the court in the Great Land of Zu-Ger as the first five did, and their reigns shorten by tens of years, from a hundred to twenty-six, until the house closes in 1006 ST.
+      standing: single-source
+      where:
+        locus: [place-zugernome]
+        reach:
+          - place: place-yathtelgu
+            how: >-
+              the kings of the second house are crowned on the mound as the first were, and go home upriver after the rite
+            knowledge: named
+      who: [{ref: affiliation-azletkutu, role: actor}]
+      unresolved: [whether the lengths the list gives the early reigns were ever counted in years]
 ---
 
 The First Tablets are the oldest age [[lore-khelathclndr|the Khelathi count]] names, and the [[lore-garauu|king-list]] says almost nothing about it. Eleven Gar-Auu fill a thousand years, and each stands in the list as a name, a length and the formula _his deeds are the god's_. Schoolrooms and storytellers know the same thousand years as the Age of Divine Kings and the First Age.

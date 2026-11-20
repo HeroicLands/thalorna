@@ -23,6 +23,10 @@ data:
 - The temple is adorned with murals and carvings detailing the creation of the world by [[lore-nkaruthardty|Nkaru'thar]].
 - Ruled by the **High Pyremant**, the spiritual leader of [[affiliation-okharis|Okharis]] and advisor to the overlord.
 
+## History {#history}
+
+Zarhanis is believed to be the birthplace of the faith of the Eternal Flame ([[lore-okharishist|the History of Okharis]]).
+
 ## See Also {#see-also}
 
 [[miscgear-emberfirst|The First Ember]]

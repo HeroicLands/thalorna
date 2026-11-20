@@ -5,7 +5,34 @@ type: lore
 subType: history
 description: "2281 to 2378 ST (171 to 268 AF): the century of six reigns kept under struck names, the failing floods, the rising at the granaries and the judgment that struck a house from every wall."
 tags: [history, khelathu]
-data: {packFolder: regkhhist, culture: khelathiclt}
+data:
+  packFolder: regkhhist
+  culture: khelathiclt
+  events:
+    - id: garzinelrelu
+      when: 171
+      stated: {calendar: khelathclndr, text: "2281 SH"}
+      kind: accession
+      depth: region
+      sources: [lore-garauu, affiliation-garzinelrelu]
+      summary: >-
+        The house the necropolis calls Gar-Zin'el'Relu is crowned, and from this crowning the king-list gives every reign whole. The house keeps six reigns, entered as years under struck names: 31, 22, 4, 19, 13 and 14.
+      standing: attested
+      where: {locus: [place-galezkara]}
+      who: [{ref: affiliation-garzinelrelu, role: actor}]
+    - id: falseuqaa
+      when: 255
+      stated: {calendar: khelathclndr, text: "2365 SH"}
+      kind: accession
+      depth: region
+      sources: [affiliation-garzinelrelu, being-falseuqaa, place-greattempluqaa]
+      summary: >-
+        The sixth Gar-Au of the house is crowned. He proclaims himself Uqa'a in the flesh, seizes the Great Temple and its granaries, and silences the priests who name the blasphemy. The floods begin to fail the next year.
+      standing: attested
+      where: {locus: [place-greattempluqaa]}
+      who: [{ref: affiliation-garzinelrelu, role: actor}, {ref: affiliation-uqaa, role: victim}]
+      unresolved:
+        - the throne name the sixth Gar-Au was crowned under, which the temples struck from every record
 ---
 
 The Struck House is the shortest age the Keepers teach, and the only one that ends with a sentence of the temple. A schoolroom in the valley gives it to the children last and says the least about it: the house the necropolis calls [[affiliation-garzinelrelu|Gar-Zin'el'Relu]], six reigns, and a name that is never spoken. The reigns are not missing from the list. The years stand in it, counted and unnamed, and the formulas around them show the shape of what the temple chose not to say.

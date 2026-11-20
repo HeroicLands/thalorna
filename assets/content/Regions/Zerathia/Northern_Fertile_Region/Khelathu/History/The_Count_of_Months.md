@@ -5,7 +5,26 @@ type: lore
 subType: history
 description: "1990 ST (121 BF) to 2281 ST (171 AF): the age of the clerks, in which the king-list begins to give a reign's months, the bureaus' alphabet is reduced from the sacred hand, and the bureaus of Galezkara take the shape they keep."
 tags: [history, khelathu]
-data: {packFolder: regkhhist, culture: khelathiclt}
+data:
+  packFolder: regkhhist
+  culture: khelathiclt
+  events:
+    - when: -121
+      stated: {calendar: khelathclndr, text: "1990 CM"}
+      kind: making
+      depth: region
+      sources: [lore-garauu, lore-seahouse, place-garmedjatozo]
+      summary: >-
+        From the crowning of Gez'Uzner I the king-list gives each reign's months beside its years. No king orders it. The scribes of the delta have learned from the rule that no cargo travels upriver unweighed to count what they handle, and they carry the habit to the throne, the tax rolls, the land registers and the temple ledgers.
+      standing: attested
+      where:
+        locus: [place-garmedjatozo]
+        reach:
+          - place: place-galezkara
+            how: >-
+              the bureaus of the capital take the shape they keep, and the oldest archives of months date from these reigns
+            knowledge: named
+      who: [{ref: affiliation-rethsaar, role: actor}]
 ---
 
 The Count of Months is the age in which the empire learns to write down how long things took. Before it, the king-list gives a reign in years and trusts the reader; from 1990 ST (121 BF) it gives the months beside the years, and a clerk who wants to know whether a flood was entered in the first reign or the second can finally find out.

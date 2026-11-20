@@ -33,6 +33,10 @@ Below the shelf run the marker stones, a long row of upright slabs worn smooth, 
 - **Robbers**, who are after the tablets and not the metal. The inscribed tablets of the age are the oldest writing in the valley, and a dealer in Galezkara pays more for one than for a gold collar.
 - **The temple of Hezmu'iri**, which says the ground is the god's to keep and the Gar-Au's to visit.
 
+## Layers {#history}
+
+The first two houses lie here, and their tombs were never moved when the court crossed to the mound in 1006 ST (1105 BF) ([[lore-akhfirsttab|The First Tablets]], [[lore-crossmound|the Crossing to the Mound]]).
+
 ## Hooks {#hooks}
 
 - **The extra chambers.** A scholar who has surveyed the ground finds more burial chambers than eleven Gar-Auu need. The Keepers will not discuss it.

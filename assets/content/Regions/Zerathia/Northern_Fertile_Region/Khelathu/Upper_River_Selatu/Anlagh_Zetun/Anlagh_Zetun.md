@@ -37,6 +37,10 @@ The Halzi'a's house is [[affiliation-anlaghetzaru|Anlaghet'Zaru]], which raised 
 - The temple of Qe'aret, goddess of order and right measure
 - The seat of the granary-Halzi'a, one of the empire's quiet kingmakers
 
+## History {#history}
+
+In 2378 ST (268 AF) the Halzi'a of the selat raised the upper river against the god-king's guard at the granary gates ([[lore-sealedgran|the Battle of the Sealed Granaries]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]

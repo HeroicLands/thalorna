@@ -14,6 +14,10 @@ The stone stands alone in the middle of the [[place-targavalley|Targa River Vall
 
 The astrologers hold the monolith to be the first stone of a road that ends in the sands of [[place-lareshu|Lareshu]], at [[place-lutzelutha|Lut-Zelutha]].
 
+## Layers {#history}
+
+The monolith predates the count, and the temple will not date it ([[lore-khelathclndr|the Khelathi Calendar]]).
+
 ## See Also {#see-also}
 
 [[place-lareshu|Lareshu]]

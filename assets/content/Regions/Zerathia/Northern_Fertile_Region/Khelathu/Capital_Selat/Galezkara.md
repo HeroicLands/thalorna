@@ -177,6 +177,10 @@ The Meglai and the Zeglar's courts
 The tomb-robbing underworld
 : organized plunder of the dead, the black market in grave goods, and the hunted cults
 
+## History {#history}
+
+The court crossed to the mound in 1006 ST (1105 BF), and every house since has ruled the valley from Galezkara except the throne at [[place-lenennezut|Lenen-Nezut]] from 1462 to 1531 ST and the court at [[place-maguathen|Magu-Thelqen]] from 1790 to 1822 ST ([[lore-crossmound|the Crossing to the Mound]]). The Sun's Road was laid out in that reign and the oldest quarters grew along it ([[lore-akhsunroad|The Sun's Road]]), and the capital has outlasted every house of the king-list ([[lore-khelathhist|the History of Au'Khelathu]]).
+
 ## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]

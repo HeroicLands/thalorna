@@ -22,6 +22,10 @@ data:
 
 About 2650 ST (540 AF), [Meqes VI]{.name data-type="being/npc"} ordered the houses that held the river-front carried outward so that his own house could raise its Way at the head of the death-road ([[lore-greatremovl|the Great Removal]]). The kings came out of their tombs with their grave-goods, were carried past the last Way, and were set down in long galleries cut for them in the rock, each king behind his own door, with his name above the lintel in the order the old Way had kept. The galleries are the work of one decade and look it: the same plain cut, the same low roof, the same door in a hundred rooms.
 
+## Layers {#history}
+
+About 2650 ST (540 AF) Meqes VI ordered the older houses carried out from the river-front of Zu-Gezer to galleries in the necropolis's outer reaches ([[lore-greatremovl|the Great Removal]]).
+
 ## What Is There Now {#present}
 
 A Removed King is cared for only as long as someone pays for it. The endowments that were to keep the galleries swept, lit and guarded were set up by the houses that were removed, and a house that has dwindled, or been forgotten, or fallen into disgrace, stops paying. The restoration guilds that keep the river-front Ways immaculate work here for the few houses that still send a stipend. Beyond those doors the rooms are dusty, the gilding is flaking, and the lamps are out.

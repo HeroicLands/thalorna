@@ -5,7 +5,26 @@ type: lore
 subType: history
 description: "1006 to 1390 ST (1105 to 721 BF): nine houses rule from Galezkara, the ceremonial axis and its sightline law are laid down, and the royal necropolis of Zu-Gezer opens across the river."
 tags: [history, khelathu]
-data: {packFolder: regkhhist, culture: khelathiclt}
+data:
+  packFolder: regkhhist
+  culture: khelathiclt
+  events:
+    - when: -721
+      stated: {calendar: khelathclndr, text: "1390 DR"}
+      kind: accession
+      depth: region
+      sources: [lore-garauu, place-galezkara, place-lenennezut]
+      summary: >-
+        No catastrophe closes the age. Houses rise in the upriver country, and the list passes from the nine houses of the Sun's Road to the seven of the Divided River, one of which will rule from Lenen-Nezut. The throne, which has sat at Galezkara for nearly four centuries, has begun to move.
+      standing: single-source
+      where:
+        locus: [place-galezkara]
+        reach:
+          - place: place-lenennezut
+            how: >-
+              an upriver house gathers a following here that will crown its own Gar-Au in the city in 1462 ST
+            knowledge: named
+      who: [{ref: affiliation-empireakhlth, role: actor}]
 ---
 
 The Sun's Road is the age in which the capital was drawn. Everything a visitor to [[place-galezkara|Galezkara]] still follows with the eye, the straight road from the living city to the island to the necropolis, was laid in its opening reign, and the Keepers name the age for the road and not for any king.

@@ -71,7 +71,7 @@ data:
         - by: affiliation-empireakhlth
           says: Humanitarian commerce.
           agrees: denies
-          withholds: the gold, weapons and officers the court of Meqes XVI sent, which stand in no king-list and no tax roll
+          withholds: the gold, weapons and officers the court of Meqes XV sent, which stand in no king-list and no tax roll
         - by: place-helionis
           says: >-
             A grown child to an aging parent—respectful, complicated, and occasionally resentful.

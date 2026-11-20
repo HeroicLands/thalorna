@@ -72,6 +72,10 @@ Lámbira works out of Bethura, hiring her tracking, her blade and her Kharessa t
 **For the GM:** The Court of the Veil has set Lámbira after Rashira. The roll Rashira carries shows that most of the Purple Warrant's privateers are common criminals, that the Great Houses and the Metrissa profit from the plunder, and that Bethua has been fencing grave-goods robbed from the Khelathi dead. Rashira is making for Au'Khelathu through the [[place-sthmrchsrgn|South Marches]]; Lámbira has been ordered never to read the roll or let Rashira speak.
 :::
 
+## History {#history}
+
+Bethura rebuilt its treasury and water corps on Khelathi models after the separation of 615 AF, and its offices bear Khelathi titles ([[lore-bethuahist|the History of Bethua]], [[lore-bethuasep|the Separation of Bethua]]).
+
 ## See Also {#see-also}
 
 [[affiliation-mtrrchybth|Matriarchy of Bethua]]

@@ -39,6 +39,10 @@ The house of Tha'Ulgau does not leave them alone. Its Halzi'a rides out once a y
 - **Scholars of the conquest**, who want to know whether the first Gar-Au of the hill house lies here or in the necropolis, and what his people buried with him.
 - **Herders**, who keep their stock off the tops and say nothing.
 
+## Layers {#history}
+
+The barrows hold the first of the hill-nomad house, buried with their horses before the house took the throne ([[lore-thaulgau|the Coming of the Tha'Ulgau]]). The house kept the way after its last Gar-Au died ([[lore-hillhouse|the Closing of the Hill House]], [[lore-akhdivriver|the Divided River]]).
+
 ## Hooks {#hooks}
 
 - **The opened mound.** Robbers dig into a barrow and let out something the hill-people bound with a horse instead of a seal. The herders see it first, and the Halzi'a's house wants the robbers found before the priesthood learns what its lord visits.

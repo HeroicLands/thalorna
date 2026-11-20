@@ -44,6 +44,10 @@ The Halzi'a house of [[affiliation-thaulgau|Tha'Ulgau]], the kin of the conquero
 - **Robbers**, after the bronze of an army no one stripped.
 - **Families** whose ancestor was a Galezkara soldier and never came home.
 
+## Layers {#history}
+
+The hill-nomads of the western margins destroyed the last Galezkara army here in the season of emergence of 1612 ST (499 BF), and the field is the first blood-field in Khelathi memory ([[lore-thaulgau|the Coming of the Tha'Ulgau]]).
+
 ## Hooks {#hooks}
 
 - **The boundary suit.** Two estates on either side of the field go to law over a line that only the field itself can settle. The court needs someone to measure it, and the only season in which it can be measured is Gelet, when it is worst.

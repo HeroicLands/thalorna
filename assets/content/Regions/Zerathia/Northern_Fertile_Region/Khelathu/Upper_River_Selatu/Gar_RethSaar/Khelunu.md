@@ -44,6 +44,10 @@ The Thaz'Lekhau of Reth'Sa'ar is less wealthy than the heads of the great solar 
 - A sealed chamber of the library-temple, walled up since the house of the sun was closed and its doctrine declared heretical ([[lore-sunhouse|the Sun-House at Magu-Thelqen]])
 - The scriptoria and the medical, legal and mathematical learning of the temple
 
+## History {#history}
+
+The king-lists kept here run unbroken from the First Occasion, and the scribal schools fixed the sign of the Sacred Hand in the reign it names ([[lore-sacredhand|the Fixing of the Sacred Hand]], [[lore-khelathhist|the History of Au'Khelathu]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]]

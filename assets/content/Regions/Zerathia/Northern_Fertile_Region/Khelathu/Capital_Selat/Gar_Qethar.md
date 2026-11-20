@@ -20,6 +20,10 @@ The warrens occupy the low, flood-prone ground of [[place-galezkara|Galezkara]],
 
 Under the warrens lie the famine pits dug in the years of the hidden famine ([[lore-failfloods|the Failing Floods]]), built over by the poor who came after.
 
+## Layers {#history}
+
+The famine pits beneath its warrens are a legacy of the age of the Struck House ([[lore-failfloods|the Failing Floods]], [[lore-akhstruckhs|The Struck House]]).
+
 ## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]

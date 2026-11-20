@@ -96,6 +96,10 @@ Adventure here is courtly and uncanny by turns—palace conspiracy and poisoned 
 
 The Capital Selat uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and it is the hub of the system. The gezan-and-qelu weight standard is set and attested here, the chief [[affiliation-garhalzi|Gar-Hálzi]] treasuries keep their great vaults in the capital, and the tribute and taxes of the whole empire are reckoned and stored within the selat.
 
+## History {#history}
+
+The court crossed to the mound in 1006 ST (1105 BF) and every house since has ruled from the selat except the throne at [[place-lenennezut|Lenen-Nezut]] from 1462 to 1531 ST and the court at [[place-maguathen|Magu-Thelqen]] from 1790 to 1822 ST ([[lore-crossmound|the Crossing to the Mound]]). The empire's whole history is told in [[lore-khelathhist|the History of Au'Khelathu]].
+
 ## See Also {#see-also}
 
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]

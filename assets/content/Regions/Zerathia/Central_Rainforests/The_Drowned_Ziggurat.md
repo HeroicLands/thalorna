@@ -44,6 +44,10 @@ The Ziggurat lies a long week by dugout upriver from the last river-tribe camp, 
 
 At the end of the channel, the river-terraces of the Ziggurat rise from the water in the gray before dawn. A causeway of roots runs from the nearest dry ground to the lowest terrace, and the sound of the wheels carries a mile across the flooded forest.
 
+## Layers {#history}
+
+The Kubindo tell of a court on a black river whose keeper made himself its leader, and the court is the Ziggurat ([[lore-rainforhist|the History of the Central Rainforests]]).
+
 ## See Also {#see-also}
 
 [[place-cntrlrnfrsts|Central Rainforests]]

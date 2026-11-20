@@ -58,6 +58,10 @@ For the GM: Khelafiru was no mere tyrant but one of the great sorcerers of his a
 - The cursed road—the warded Way of the False Uqa'a, the sorcerer-king embalmed alive and bound; by standing order, any who seek it are killed on sight
 - The mortuary temples of the royal dead, and the embalmers' and tomb-builders' settlements
 
+## History {#history}
+
+The necropolis opened across the river in the reign that carried the court to the mound in 1006 ST (1105 BF), and each later house raised its Way farther toward the sunset ([[lore-crossmound|the Crossing to the Mound]]). About 2650 ST (540 AF) Meqes VI had the older houses carried out to galleries in the outer reaches ([[lore-greatremovl|the Great Removal]]).
+
 ## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]

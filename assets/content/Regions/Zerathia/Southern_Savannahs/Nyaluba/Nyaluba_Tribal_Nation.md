@@ -235,6 +235,10 @@ ndeyamo liwe ngende ngabeli shewe lome ndebyo nyendemoshi.
 
 The Nyáluba trade almost entirely by [[lore-bartercnmy|the Barter Economy]] and [[lore-kinhalcrdt|Kin and Hall Credit]]. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Khelathi currency through southern trade-routes) is more developed than commerce with the western Vilérian system.
 
+## History {#history}
+
+The five clans swore the Long Pact nine generations ago and renew it at the Great Lubemo every fourth dry season ([[lore-nyalubahist|the History of the Nyáluba]]).
+
 ## See Also {#see-also}
 
 [[place-sthrnsvnhs|Southern Savannahs]]

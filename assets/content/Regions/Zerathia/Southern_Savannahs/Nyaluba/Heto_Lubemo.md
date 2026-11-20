@@ -26,6 +26,10 @@ The Great Lubemo is convened at Heto Lubemo by the [Ruwozi]{.name data-type="aff
 
 The order of business never changes: defense and any war begun since the last Lubemo; inter-clan disputes the paramounts could not settle; the state of the pastures, rivers and herds; questions of totemic law; and last, the renewal of the [Long Pact]{.name data-type="lore/law"}, conducted by the senior griots and witnessed by all. The renewal keeps the fourth term as [[lore-swearbaobab|The Swearing Under the Baobab]] counts it: [Fourth: the five come back in their own bodies/every fourth dry season, and say it again.]{.verse} The paramounts speak in turn, the Ruwozi last, and the Lubemo decides by their convergence, never by vote. A matter they cannot agree on waits four years for the next gathering. Outsiders who watch the sessions and see only ceremony are mistaken: the clans have argued everything out at home in the months before, and Heto Lubemo is where their decisions become commitments of the Pact.
 
+## Layers {#history}
+
+The enclosure is one of the Old Hetos, raised by a people who built in stone before the Nyáluba, and the Great Lubemo meets in it every fourth dry season to renew the Long Pact ([[lore-nyalubahist|the History of the Nyáluba]]).
+
 ## See Also {#see-also}
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]

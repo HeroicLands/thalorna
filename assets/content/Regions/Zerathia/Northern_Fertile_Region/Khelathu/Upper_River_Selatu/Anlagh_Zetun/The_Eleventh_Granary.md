@@ -41,6 +41,10 @@ A Reading held for the unnamed at the edge quiets the field for the night it is 
 - **The starving,** in a famine year, who have heard the dome is full.
 - **The Halzi'a's wardens,** who walk the wall and keep the door bricked.
 
+## Layers {#history}
+
+The granary was sealed in 2378 ST (268 AF), when the Halzi'a of the selat broke the god-king's guard at its gates and the dead of both sides were shut inside without rites ([[lore-sealedgran|the Battle of the Sealed Granaries]]).
+
 ## Hooks {#hooks}
 
 - **The hungry year.** A lean year presses a Halzi'a to open the Eleventh Granary for the grain he is sure it holds, and a party is hired either to open it or to keep it shut.

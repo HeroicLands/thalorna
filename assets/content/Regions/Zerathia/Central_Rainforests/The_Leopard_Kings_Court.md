@@ -47,6 +47,10 @@ The gifts are hardwood, dyes, ivory, medicinal plants, bundled hides, smoked fis
 
 No road runs to the Court. Gift-bearers walk the trails from their own territories, and each tribe has its own approach, known only to its bearers and the Spotted Guard. A stranger must join a caravan, follow one, or be brought. The valley opens abruptly from the forest, with its first terrace visible only from the last hundred paces.
 
+## Layers {#history}
+
+The Court is one tribe whose leader is recognized by fear for as long as the neighbors' gifts keep coming, and the Kubindo expect for him the end they tell of the Drowned Ziggurat ([[lore-rainforhist|the History of the Central Rainforests]]).
+
 ## See Also {#see-also}
 
 [[place-cntrlrnfrsts|Central Rainforests]]

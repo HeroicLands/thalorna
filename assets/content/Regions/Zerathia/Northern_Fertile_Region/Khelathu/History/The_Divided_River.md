@@ -5,7 +5,20 @@ type: lore
 subType: history
 description: "1390 to 1671 ST (721 to 440 BF): a throne crowned upriver at Lenen-Nezut, six years of war between two banks, and the hill-nomads of the western margins who take the crown on the floodplain of Zel-Halzi and hold it for four reigns."
 tags: [history, khelathu]
-data: {packFolder: regkhhist, culture: khelathiclt}
+data:
+  packFolder: regkhhist
+  culture: khelathiclt
+  events:
+    - when: -463
+      stated: {calendar: khelathclndr, text: "1648 DR"}
+      kind: accession
+      depth: region
+      sources: [lore-garauu, affiliation-thaulgau, place-zelhalzi]
+      summary: >-
+        The fourth Gar-Au of the hill-nomad house is crowned as Legir'Uzner I, "fair of the healer", a throne name no nomad would have chosen. He is the last of the Tha'Ulgau on the throne, which the house has held since the field at Zel-Halzi, and he dies in 1671 ST.
+      standing: attested
+      where: {locus: [place-galezkara]}
+      who: [{ref: affiliation-thaulgau, role: actor}]
 ---
 
 The Divided River is the age of two banks and two thrones. For most of two centuries the valley has a capital on the mound and a rival upstream, and the age ends with neither of them on the throne.

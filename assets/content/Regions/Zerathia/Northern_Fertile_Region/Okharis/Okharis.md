@@ -108,6 +108,10 @@ Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death),
 
 Okharis uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units. Okharis has no native coinage; the Khelathi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through [[affiliation-crwntrdskhrs|the crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gar-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|the Crown Trades of Okharis]] for the Okharik institutional arrangements.
 
+## History {#history}
+
+The kingdom grew from rain-fed country and the herds, under a compact between three temple-cities and the clans, and took the empire's count and coin without its government. The one recorded attempt to make its eastern cities tributary to the empire collapsed within a generation ([[lore-okharishist|the History of Okharis]], [[lore-templetrib|the Tribute of the Temple-Cities]]).
+
 ## See Also {#see-also}
 
 [[affiliation-kirofatrb|Kirofa Tribe]]
