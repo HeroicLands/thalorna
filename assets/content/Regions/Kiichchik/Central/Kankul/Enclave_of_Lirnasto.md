@@ -30,7 +30,8 @@ data:
     offices:
       Lirnanno: >-
         The conclave's head office. Who holds it, and how, is not known outside the old jungle.
-  population: null
+  population: {actual: 160, apparent: null}
+  territorial_population: {actual: 160, apparent: null}
   economy: []
   lore: [flksenali]
   parents: []

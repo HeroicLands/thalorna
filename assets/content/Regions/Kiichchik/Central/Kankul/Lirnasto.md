@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [kankulrgn]
-  population: null
+  population: {actual: 160, apparent: null}
   type: village
   market: subsistence
   packFolder: kankul
