@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-A bundi walks into Tvalgard from his farm still carrying his own bread, and the rotation puts him on the wall to be standing there when the man beside him is not, not to win. Nine hundred people live behind Tvalgard's timber-and-earth rampart, on the last defensible ridge before the burned ground that marks the [[place-grkrhlmrgn|Grukar]] frontier, and the rotation that fills the wall is why the town fills and empties with the seasons.
+A bundi walks into Tvalgard from his farm still carrying his own bread, and the rotation puts him on the wall to be standing there when the man beside him is not, not to win. Nine hundred people live behind Tvalgard's timber-and-earth rampart, on the last defensible ridge before the burned ground that marks the [[lore-grukarfolk|Grukar]] frontier, and the rotation that fills the wall is why the town fills and empties with the seasons.
 
 Tvalgard's own name calls it the lesser of a pair, and nobody here disputes the judgment: the greater was the burned royal hall at [[place-nulthgard|Nulthgard]], a day's walk east on the wrong side of the line. Where [[place-knalthstead|Knalthstead]] and [[place-gnarthborg|Gnarthborg]] built their walls for a court's dignity as much as a kingdom's defense, Tvalgard built for the second reason only. The king holds his hall here because the frontier is where a Targudian king has to be seen, not because the hall claims to rival its sister capitals.
 

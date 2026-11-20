@@ -114,6 +114,12 @@ The [Maiju]{.name data-type="affiliation/lineage"} keep the stables and hold [Ma
 
 The muster is 1,520 men, and none of them sails: the domain has no fleet. The levy is raised in the northern manner, four men to the hundred bales against two and a half in the other houses, and the stables of the Maiju mount its officers.
 
+## Current Situation {#present}
+
+The north came through the winter before 720 AF on half rations, and [Zenjai Tsuiwo]{.name data-type="being/npc"} knows the cost of it village by village. Both blocs are bidding for his 1,500 spears, and both are bidding in rice that they do not have. [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have each named a price, and Tsuiwo means to sell his choice for grain and not for titles. He wants the granaries of the north full before the first snow.
+
+The vacant office of Teng Ja leaves the north's hunger as the realm's hinge. A bloc that cannot deliver the rice loses the bid to the other, and the district whose granary stays empty is the one the winter takes again.
+
 ## History {#history}
 
 Zenjai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]], and the realm's balance turns on which bloc it joins ([[lore-hstryjenchai|The History of Jenchai]]).
@@ -121,10 +127,6 @@ Zenjai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty
 ## Relations {#relations}
 
 Zenjai belongs to neither bloc, and its joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the balance of the Nine. Both are bidding for it.
-
-## The Half-Ration Winter
-
-The north came through last winter on half rations. Tsuiwo will put 1,500 spears behind whichever bloc feeds his province, and both blocs are bidding in rice that they do not have.
 
 ## See Also {#see-also}
 

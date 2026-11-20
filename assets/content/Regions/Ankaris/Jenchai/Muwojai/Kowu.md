@@ -30,6 +30,12 @@ Every house keeps an envoy in the town, since a message for the Emperor passes t
 
 Kowu is the seat of the house that stood with Hojujai for the regency in the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
 
+## Current Situation {#present}
+
+In 720 AF Kowu is the gate every bloc wants to hold. [[being-chaiwomuwoj|Muwojai Chaiwo]] is sixty-one and has no grown heir, and each bloc is courting the men who would succeed him: the Strait to learn what crosses the ferry at [Zuju]{.name data-type="place/settlement"}, the loyalists to keep the gate shut, and the independent houses to be admitted without being watched.
+
+The Emperor's sealed letter to Shuiwojai crosses the domain's ferry on its way to the Strait, and the loyalist garrisons that hold the roads see its courier go by.
+
 ## See Also {#see-also}
 
 [[affiliation-muwojaidmn|Muwojai Domain]]

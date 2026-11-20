@@ -113,6 +113,12 @@ The [Jaju]{.name data-type="affiliation/lineage"} keep the armory and hold Tsaig
 
 The muster is 550 men, and none of them sails. The domain's own forge arms them, and the blades of the Jaju are what the other lords come to buy.
 
+## Current Situation {#present}
+
+In 720 AF the office of Teng Ja stands vacant, and a new holder receives a blade forged at Tsaigen. The smiths will not begin it until the Emperor names a holder, and someone has asked them to begin early. The Jaju have not said who asked, and [Tsuijai Rezo]{.name data-type="being/npc"} wants to know.
+
+Rezo has named his price to no bloc: it is the forging of the blade, whoever carries it. Every lord comes to Tsuijai to buy iron, so he wants the balance to stand and the Nine to keep buying. An early order suggests that someone is preparing for [[being-weilengjnch|Weileng]] to confer the office, though showing the order can be a bluff, and a displayed order proves nothing about who knows the Emperor's mind.
+
 ## History {#history}
 
 Tsuijai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
@@ -120,10 +126,6 @@ Tsuijai has belonged to neither bloc since the [[lore-empseatwar|War of the Empt
 ## Relations {#relations}
 
 Tsuijai belongs to neither bloc. Its lord is one of the four independent houses, who together muster 3,970 men and 55 ships and who each have their own price. Tsuijai alone has the iron and the swordsmiths.
-
-## The Blade for the Teng Ja
-
-The office of Teng Ja stands vacant, and a new holder receives a blade forged at Tsaigen. The smiths will not begin it until the Emperor names a holder, and someone has asked them to begin early. The Jaju have not said who asked.
 
 ## See Also {#see-also}
 

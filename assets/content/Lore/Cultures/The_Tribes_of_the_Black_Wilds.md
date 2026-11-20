@@ -22,7 +22,7 @@ data:
     height: {female: {min: 5' 3", max: 5' 10"}, male: {min: 5' 8", max: 6' 3"}}
 ---
 
-The Hwenhatoutsou are the tribes of [Hwenhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the [[place-grkrhlmrgn|Grukari marches]]. They are horse-riders who live from grazing, and their wells and grazing grounds are what they fight over.
+The Hwenhatoutsou are the tribes of [Hwenhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the northern marches, where [[lore-grukarfolk|Grukar]] nests lie. They are horse-riders who live from grazing, and their wells and grazing grounds are what they fight over.
 
 ## Tribes and feuds
 

@@ -23,6 +23,12 @@ The summit is kept as a shrine of the moon, held in the name of [[lore-youweidty
 
 70,000 people live on Yujai: the whole of the [[affiliation-wojaidmn|Wojai Domain]], which holds the castle town of [[place-yuwu|Yuwu]] (9,000 people) and the villages of its roll.
 
+## Current Situation {#present}
+
+In 720 AF the bay below Yujai is the one both blocs court. [Wojai Doja]{.name data-type="being/npc"}, who holds the mountain, has heard the prices that Henzo's silver and the Hojujai regent have named, and he has named his to neither.
+
+The court has pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of [[place-yuwu|Yuwu]]. Whoever redeems it before the New Year buys the Emperor's gratitude, and Doja has the means to redeem it himself. He is deciding whom among the houses to let do it, and his choice shows which way Wojai leans before he says so. The mountain's festival, which closes the lord's roll, waits until the year's tolls are counted.
+
 ## See Also {#see-also}
 
 [[affiliation-wojaidmn|Wojai Domain]]

@@ -30,6 +30,12 @@ Most of the cases Doja's judges hear in the town are harbor disputes.
 
 Yuwu is the seat of the house that pressed the court against the regency with Shuiwojai and has stood apart from both blocs since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
 
+## Current Situation {#present}
+
+In 720 AF Yuwu is a town both blocs court. The counting-houses and the lord's hall have heard the prices that [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have named, and [Wojai Doja]{.name data-type="being/npc"} has named his to neither. He reads the roll of the moorings himself.
+
+Whoever redeems the pawned bell of the Dawn Rite before the New Year buys the Emperor's gratitude, and Doja is choosing whom to let do it. The foreign ships in the bay carry the news of the whole eastern coast, and a captain who lands a letter for the court finds the quay watched.
+
 ## See Also {#see-also}
 
 [[affiliation-wojaidmn|Wojai Domain]]

@@ -49,7 +49,7 @@ The **black-earth grain belt** across the center—the agricultural treasure of 
 
 The **steppe margin** in the east and southeast—the open grass-and-scrub country where Velanthia shades into the Khazrin proper. This is the country of the Velanthian frontier confederations: semi-settled, semi-mobile communities of horse-keeping farmer-warriors who have absorbed enough of the steppe-nomad lifeway to deal with their eastern neighbors on something like equal terms. Militarily competent, organized in their own distinctive Host-and-ataman pattern, and politically jealous of the river-prince states, whose pay they take and whose taxes they resist.
 
-The **mountain line** on the south closes the grain belt. Its passes carry Velanthian grain south to the mining and market towns of Helionis and Bizaria and bring ore and iron back. The outermost eastern reach, along the Khazrin frontier, is the most heavily steppe-influenced part of the region: open horse-country, oasis-and-river settlements, and a gradient of cultures that becomes difficult to distinguish from the tribes of the western Khazrin.
+The **mountain line** on the south closes the grain belt. Its passes carry Velanthian grain south to the mining towns of Helionis's hinterland, [[place-khaddaria|Khaddaria]], and to the [[place-northrnmrch|Northern March]] of Bizaria, where Velanthian drovers winter, and they bring ore and iron back. Marauders come down from the mining country on the far side, and the [[affiliation-blackflame|Black Flame]] is strong there; it holds nothing inside Velanthia. The danger belongs to the passes, and the Hosts that patrol them meet it there. The outermost eastern reach, along the Khazrin frontier, is the most heavily steppe-influenced part of the region: open horse-country, oasis-and-river settlements, and a gradient of cultures that becomes difficult to distinguish from the tribes of the western Khazrin.
 
 The climate is broadly continental: cold winters with significant snowfall, warm-to-hot summers, distinct spring and autumn seasons. Rainfall is reliable in the north and west, increasingly variable as one moves east and southeast. The river systems sustain the region's agriculture; failed rains in the grain belt produce regional hardship rather than collapse, since the rivers continue to bring down the snowmelt of the northern hills.
 
@@ -86,10 +86,14 @@ The **Velanthian Hosts** of the eastern frontier
 : formally subordinate to nearby river-princes, practically self-governing under their atamans and Host councils. Each Host serves a river-prince for pay, musters its own forces, makes its own peace with the steppe tribes across the frontier, and sometimes makes its own war. A Host wants autonomy, pay and plunder rights, and it can walk away from a prince who pays late or badly. The princes fear a Host changing sides more than any raid, because the frontier it guards then opens from the inside.
 
 The **monastic establishments** of the grain belt
-: the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]], large endowed houses whose abbots wield genuine political and economic power, often as third-party mediators among the princely houses and the Hosts.
+: the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]], large endowed houses whose abbots wield genuine political and economic power, often as third-party mediators among the princely houses and the Hosts. Their barns hold the reserve that carries the land through a bad year, and the princes can neither count it nor claim it.
 
 The **merchant houses** of the major grain-belt towns
 : the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]], wealthy, well-connected, and influential through grain credit and trade financing.
+
+The three differ by their river and their trade, and each needs the others. Zhitavesh has the grain, and the monasteries that keep the reserve stand in its towns; it takes its tithe in kind. Brelavesh has the port, the merchant houses and the mint, and it takes its tolls in silver. Brevavesh has the stone forts on the edge of the Grukar country and no fields worth the plow, so the lowland prince's grain feeds its garrisons and the port prince's silver pays its wardens. Neither delivery is on time, and each prince knows what the others owe him, so their rivalry is constant and checked.
+
+The river-princes pay for the frontier. A stone fort is raised at a prince's expense, its warden is appointed by him and paid from the port's silver, and the villages beneath it keep a watch of their own that rings a bell and burns a signal fire when a raiding party crosses the margin. The wardens are paid, tired and corruptible, and a late payment shows first in who is let through at night.
 
 Coordination across these power centers happens through ad-hoc councils called when joint action is needed: a major steppe incursion, a Nordmal pressure-play in the west, a famine year, a particularly egregious dispute between major princely houses. The councils are occasional, not an office: they have no permanent existence and no executive authority; they advise, negotiate, and sometimes (when the threat is large enough) coordinate joint military response.
 
@@ -99,13 +103,17 @@ The system is fragile in theory and durable in practice. Foreign observers regul
 
 Velanthia has no sovereign and no capital, and every pressure on it lands on a different power. The river-princes face the Nordmal kingdoms to the north and northwest, the Hosts face the steppe tribes to the east, the monasteries hold the grain against a bad year, and the merchant houses lend against the next harvest. The councils meet only when a threat is large enough to force them, so the response to each pressure is whatever the nearest power can muster.
 
-Raiding is constant on the western and northwestern frontier. Captives taken there are ransomed where a family or a prince will pay; those nobody ransoms go down Vristwald's rivers to Nordmen and to steppe traders. The northwestern reaches are watched for the Grukar, whom no Velanthian bargains with. Each Host's loyalty is a standing price, and the princes keep one eye on each ataman's dealings with the steppe.
+Each of the three named princes is short of what another holds. [Zhitovod Dobrovodich]{.name data-type="being/npc"} of [[place-zhtvsh|Zhitavesh]] has the grain and cannot sell it upriver without the port noticing; this year's rain came late to the eastern fields, and a short harvest would leave him unable to pay his Hosts and to feed the forts together. [Milogor Yarogorich]{.name data-type="being/npc"} of [[place-brlvsh|Brelavesh]] has the silver and the fewest soldiers, buys mills upriver against the lowland prince's wishes, and pays his Host more each year. [Krodogor Brevogorich]{.name data-type="being/npc"} of [[place-brvvsh|Brevavesh]] has the forts and no grain: the lowland grain and the port silver both reach him late, and his wardens are owed months.
+
+The Hosts keep their price in view of the prince who pays them. [Volkar Kodogorich]{.name data-type="being/npc"} of the [[affiliation-hsttrvl|Tarvál Host]] lets the prince of Brelavesh hear what the steppe tribes offer him. [Sovidan Volketich]{.name data-type="being/npc"} of the [[affiliation-hstsvrt|Sevret Host]] holds the passes, and his riders collect their own tolls there if the harvest pay is late. [Belukan Kelodov]{.name data-type="being/npc"} of the [[affiliation-hstkhrd|Khorad Host]] has told the river communities to stop paying the [[affiliation-sqrtrtrb|Soqritur]], and each side watches which way he turns. The princes fear a Host changing sides more than any raid.
+
+Raiding is constant on the western and northwestern frontier. Captives taken there are ransomed where a family or a prince will pay; those nobody ransoms go down Vristwald's rivers to Nordmen and to steppe traders. The northwestern reaches are watched from the princes' forts for the Grukar, whom no Velanthian bargains with, and fur hunters buy a night's passage from a tired warden to work the margins.
 
 ## Trade
 
 Velanthia's economy is built on grain, furs, horses, and the trade-routes that move them. The rivers carry grain to the markets and to the passes, and the pass roads carry it south to Helionis and Bizaria and on to Midhalión, where Velanthian wheat fills the granaries of the Hellád and beyond. Furs from the northern forest belt travel the same rivers and roads. Horses bred in the eastern Host country are exported east to the Khazrin tribes (which prize Velanthian-bred crossbreeds) and west to the Aureldian heavy cavalry market.
 
-In return, Velanthia imports Aureldian and Vilérian finished goods (textiles, glassware, fine metalwork, books), Midhalion luxuries (wine, olive oil, citrus when shipping permits), Helládian philosophical-and-medical literature, Khazrin silver and salt, and the small steady trickle of distant Tantsou silk and porcelain that reaches the eastern grain-belt through Khazrin intermediaries.
+In return, Velanthia imports Aureldian and Vilérian finished goods (textiles, glassware, fine metalwork, books), Midhalión luxuries (wine, olive oil, citrus when shipping permits), Helládian philosophical-and-medical literature, Khazrin silver and salt, and the small steady trickle of distant Tantsou silk and porcelain that reaches the eastern grain-belt through Khazrin intermediaries.
 
 The merchant houses of the grain-belt towns are the principal financial intermediaries; the river-princes maintain the mints; the monastic establishments hold the grain reserves; the Hosts collect tolls on the eastern caravan routes. The whole system runs on overlapping authority, hand-to-mouth in any given year, and has never produced the great unified mercantile institutions of Midhalión—but it sustains a population of perhaps four million people in a region that no single power has ever managed to govern.
 
@@ -147,6 +155,12 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 
 [[place-grkrhlmrgn|Grukarholm Region]]
 : Grukar concentration overlying the northwestern part of Velanthia
+
+[[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]], [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]], [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]
+: the three named river-princes
+
+[[affiliation-hsttrvl|Tarvál Host]], [[affiliation-hstsvrt|Sevret Host]], [[affiliation-hstkhrd|Khorad Host]]
+: the three named Hosts
 
 [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
 : the paid river-prince forts that watch the Grukar country

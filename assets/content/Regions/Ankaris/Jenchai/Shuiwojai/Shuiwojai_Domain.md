@@ -114,23 +114,25 @@ The [Besheju]{.name data-type="affiliation/lineage"} keep the salt records and h
 
 The muster is 1,950 men and 60 ships. The yards at [Kowo]{.name data-type="place/settlement"} build and refit the fleet, and the ships keep the water between Rojai and the mainland coast; the raids on Tantsou's shore that the lords of the Nine count as their right sail from Rojai among other harbors. The [[affiliation-tantsouempr|Empire of Tantsou]] counts House Shuiwojai its nemesis. [[being-hojarinjai|Rinjai Hoja]], the lord of the lesser island, is sworn to Henzo and adds 650 men and 25 ships, so the Strait bloc stands at 2,600 men and 85 ships.
 
+## Current Situation {#present}
+
+In 720 AF Henzo wants the office of Teng Ja and is the favorite for it. His silver has covered the shortfall in the court's budget for three years, so the court is in his debt, and the other houses fear an office bought with money. He has petitioned for it, and [[being-weilengjnch|Weileng]] has answered with a sealed letter. What the letter says is known to the Emperor and to the hands that sealed it.
+
+:::secret {title="What the Sealed Letter asks"}
+The letter withholds the office and asks Henzo for more silver toward the court's budget, and it names no price at which the office would follow. It is Weileng's way of deferring: while the office stays unconferred, both blocs need him.
+:::
+
+The letter must leave [[place-zojai|Zojai]] by the roads that Muwojai keeps and cross Muwojai's ferry at [Zuju]{.name data-type="place/settlement"}, and Muwojai is a loyalist house. Until the letter reaches Hawu, Henzo does not know what the Emperor asks of him, and he does not trust the hands that carry it. Every season the office stays unconferred, his silver buys a debt and not the office.
+
+He has named a price to Zenjai and Wojai, because either house joining the Strait bloc ends the balance in his favor, and the Hojujai regent has named a price to the same two. The fleet at Hawu and the raiders of Rinjai keep the strait, and the mainland's coastal magistrates want the raids that sail from it stopped.
+
 ## History {#history}
 
 Shuiwojai stood with Wojai against conferring the office of Teng Ja on a regency, and the quarrel became the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
 
 ## Relations {#relations}
 
-For three years Henzo's silver has covered the shortfall in the court's budget, and the court is in his debt. The lord of Rojai is the rival of [[affiliation-hojujaidmn|Hojujai]], the house of the last Teng Ja: the [[lore-empseatwar|War of the Empty Seat]] began over the office. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and [[affiliation-muwojaidmn|Muwojai]] wants the office for the Hojujai heir when he comes of age, or for nobody.
-
-## The Sealed Letter
-
-Henzo has petitioned for the office, and [[being-weilengjnch|Weileng]] has answered with a sealed letter. What the letter says is known to the Emperor and to the hands that sealed it.
-
-:::secret {title="What the Sealed Letter asks"}
-The letter withholds the office and asks Henzo for more silver toward the court's budget, and it names no price at which the office would follow. It is Weileng's way of deferring: while the office stays unconferred, both blocs need him.
-:::
-
-The letter must leave [[place-zojai|Zojai]] by the roads that Muwojai keeps and cross Muwojai's ferry at [Zuju]{.name data-type="place/settlement"}, and Muwojai is a loyalist house. Until the letter reaches Hawu, Henzo does not know what the Emperor asks of him, and he does not trust the hands that carry it.
+The lord of Rojai is the rival of [[affiliation-hojujaidmn|Hojujai]], the house of the last Teng Ja: the [[lore-empseatwar|War of the Empty Seat]] began over the office. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and [[affiliation-muwojaidmn|Muwojai]] wants the office for the Hojujai heir when he comes of age, or for nobody.
 
 ## See Also {#see-also}
 

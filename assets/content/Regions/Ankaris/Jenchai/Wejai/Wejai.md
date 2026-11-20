@@ -23,6 +23,12 @@ The summit shrine keeps the storm aspect of [[affiliation-tengwouronglei|the Cel
 
 38,000 people live on Wejai: the whole of the [[affiliation-wejaidmn|Wejai Domain]], which holds the castle town of [[place-zuwu|Zuwu]] (2,200 people) and the villages of its roll.
 
+## Current Situation {#present}
+
+In 720 AF a typhoon has driven a foreign hull onto the reefs below the cape of [Wewo]{.name data-type="place/settlement"}, and its cargo and its one survivor are the mountain's present business. The survivor claims to be an envoy to the court, and his letters are in the cargo that wreck-right gives to [Wejai Rowo]{.name data-type="being/npc"}.
+
+If Rowo keeps the cargo he keeps the letters, and knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross [[affiliation-muwojaidmn|Muwojai]]'s roads. The Tanchei of the summit enter the wreck in the mountain record beside the year's typhoons. Rowo has named his price to no bloc and wants to be asked after Zenjai and Wojai.
+
 ## See Also {#see-also}
 
 [[affiliation-wejaidmn|Wejai Domain]]
