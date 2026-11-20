@@ -4,7 +4,7 @@ name: {full: Sedrovod Fort, velt: [Sedrovod tverad]}
 type: place
 subType: structure
 description: "A stone fort of the paid wardens on the forest road, apart from any town, where Varokh war-bands cross the edge in autumn."
-tags: [fort, road, frontier, velanthia]
+tags: [road, frontier, velanthia]
 data: {demonym: null, lore: [], parents: [velanthrgn], population: 0, packFolder: velanthia}
 ---
 
