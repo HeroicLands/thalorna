@@ -47,7 +47,7 @@ data:
   range: [velanthrgn]
   population: null
   economy: []
-  lore: [lizelasdty]
+  lore: [lizelasdty, leanyear]
   parents: [lizelas]
   relations: {lizelas: aligned, prncdmzhtvsh: aligned}
   packFolder: velanthia
@@ -60,7 +60,7 @@ The granary monasteries are the houses of the [[affiliation-lizelas|Faith of Liz
 
 ## Membership {#membership}
 
-A monk works the land and keeps the hours of Lizelas, and enters the house by taking the vows of the harvest after a year of labor in its fields. A granary-keeper holds the keys to a barn and answers to the head of the house for every sack in it. The houses take in younger sons and daughters of the lowland halls and orphans of the frontier villages, and they take in the starving in a famine year.
+A monk works the land and keeps the hours of Lizelas, and enters the house by taking the vows of the harvest after a year of labor in its fields. A granary-keeper holds the keys to a barn and answers to the head of the house for every sack in it. The houses take in younger sons and daughters of the lowland halls and orphans of the frontier villages, and they take in the starving in a famine year ([[lore-leanyear|The Year of the Barns]]).
 
 ## Leaders {#leaders}
 

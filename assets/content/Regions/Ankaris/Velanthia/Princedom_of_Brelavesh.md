@@ -100,7 +100,7 @@ data:
       market: subsistence
       notes: "A hamlet-sized village of rope-makers and net-menders."
   economy: []
-  lore: [humanflk]
+  lore: [humanflk, tarvalturn]
   parents: []
   relations: {prncdmzhtvsh: rival, prncdmbrvvsh: aligned, mrchnthsrvr: aligned}
   packFolder: velanthia
@@ -121,7 +121,7 @@ The houses lend against the next harvest, and the prince lives on what they pay 
 
 ## History {#history}
 
-The port grew where the three trades met, and the house that holds it has held it since the quays were timber. It has never needed a larger army than its neighbors lent it: the forts of Brevavesh guard its northern river, and the lowland barns feed its quays.
+The port grew where the three trades met, and the house that holds it has held it since the quays were timber. It has never needed a larger army than its neighbors lent it: the forts of Brevavesh guard its northern river, and the lowland barns feed its quays. It has paid the Tarvál Host since 697 AF ([[lore-tarvalturn|The Tarvál Host Changes Sides]]).
 
 ## See Also {#see-also}
 

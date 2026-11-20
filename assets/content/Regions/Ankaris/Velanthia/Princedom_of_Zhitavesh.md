@@ -140,7 +140,7 @@ data:
       market: subsistence
       notes: "A flax-growing village that sells its harvest to the mill town."
   economy: []
-  lore: [humanflk, thrdorqwnq]
+  lore: [humanflk, thrdorqwnq, leanyear, tarvalturn]
   parents: []
   relations: {prncdmbrlvsh: rival, prncdmbrvvsh: aligned, grnrymnstrs: aligned}
   packFolder: velanthia
@@ -161,7 +161,7 @@ The prince's difficulty is that his grain is worth what other people will pay fo
 
 ## History {#history}
 
-The lowland houses count the oldest princely line on the central river. When the third union of the steppe overran the eastern fringe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), the lowlands held and the fringe was lost, and the grain villages of the heartland resettled the ground over the next two generations. The Hosts of the south-eastern margin have held it for the princedom since.
+The lowland houses count the oldest princely line on the central river. When the third union of the steppe overran the eastern fringe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), the lowlands held and the fringe was lost, and the grain villages of the heartland resettled the ground over the next two generations. The Hosts of the south-eastern margin have held it for the princedom since. The rains failed in 641 AF and the lowland barns went thin ([[lore-leanyear|The Year of the Barns]]), and in 697 AF the Tarvál Host took the port's pay and left the princedom without the eastern road ([[lore-tarvalturn|The Tarvál Host Changes Sides]]).
 
 ## See Also {#see-also}
 
