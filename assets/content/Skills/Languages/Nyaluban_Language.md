@@ -7300,7 +7300,7 @@ ORDER BY position
 
 ### The Pact and the council
 
-The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [[affiliation-greatlubemo|Great Lubemo]] is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.
+The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [Great Lubemo]{.name data-type="affiliation/governmental"} is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.
 
 ### The Brightness and the guides
 
