@@ -83,5 +83,8 @@ From the Amradi shore the route runs south through the oasis towns and then by t
 [[miscgear-crwnvahrun|The Iron Crown of Vahrun Marzuvan]]
 : Vahrun's iron crown
 
+[[lore-vahrundenun|The Denunciation of Vahrun Marzuvan]]
+: the Council's ruling against the self-styled master
+
 [[scenario-irncrwnstrm|What Walks Above the Pale Floor]]
 : a scenario: nightly lightning on a salt-flat tower and the Master of the Tower calling the desert onto the white

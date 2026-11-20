@@ -89,7 +89,7 @@ The Council of Scars
 
 The Circle holds two principles above all others. The **Old Promise**: no Dunhari blade is raised against another Dunhari while any outside enemy walks Dunhari land. The [Quiet After]{.name data-type="lore/custom"}: when the threat ends, the Circle's war ends. It annexes no land, holds no prisoner beyond his ransom and takes no lasting tribute. It removes a danger and goes home.
 
-Both have been tested. Twice in the last two centuries the Circle was petitioned to act against a Dunhari tribe whose leaders had done what the petitioners found intolerable, and twice it refused. One of those tribes became a vassal of the Tellumi Confederation and the other was swallowed by its neighbors within a generation, and the Circle counted both as the price of keeping the Old Promise whole.
+Both have been tested. Twice in the last two centuries the Circle was petitioned to act against a Dunhari tribe whose leaders had done what the petitioners found intolerable, and twice it refused. One of those tribes became a vassal of the Tellumi Confederation and the other was swallowed by its neighbors within a generation, and the Circle counted both as the price of keeping the Old Promise whole ([[lore-circlrefusl|The Two Refusals of the Circle]]).
 
 When the Circle rides, its host is its own members and whatever warriors their tribes send under them. Each brings what he can, and the host is improvised and often clumsy. Its strength is the personal authority of the men leading it.
 

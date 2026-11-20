@@ -20,7 +20,7 @@ The dead of both armies stand on the plain on the anniversary of the battle, wor
 
 ## The Stones and the Judge
 
-[[place-korinthea2|Korinthea]]'s temple of the [[affiliation-ardavon|Faith of Árdavon]] sends a judge each year to walk the ring and record where the stones stand. It is a custom and not an office. The settlement rite of [[affiliation-selmoros|Sélmoros]] has never been tried on the plain, because in Helionis a temple is civic property and the rite needs an assembly's vote, and no Korinthean assembly has voted to say aloud what its city did here.
+[[place-korinthea2|Korinthea]]'s temple of the [[affiliation-ardavon|Faith of Árdavon]] sends a judge each year to walk the ring and record where the stones stand. It is a custom and not an office. The settlement rite of [[affiliation-selmoros|Sélmoros]] has never been tried on the plain, because in Helionis a temple is civic property and the rite needs an assembly's vote, and no Korinthean assembly has voted to say aloud what its city-state did here.
 
 ## Who Goes
 

@@ -6,9 +6,9 @@ subType: region
 description: "The southern reaches of Kì'ìch'chik, where mountains give way to a garrison plateau, a poisoned threshold and the forsaken wastes."
 tags: [region]
 data:
-  culture: kiichchikclt
+  culture: southkiichchikclt
   demonym: null
-  lore: [kiichchikclt]
+  lore: [southkiichchikclt]
   parents: [kiichchik]
   population: 3500000
   packFolder: kiichchik

@@ -33,21 +33,21 @@ data:
           A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
       Halzi'a: >-
-        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+        Governor of the Capital Selat, named by the Gar-Au and serving at the throne's direct pleasure rather than by inheritance; in practice a senior officer of the court. Held by a Zabu.
+      Halzi'a's Steward: >-
+        Administrator of the selat's revenue and corvée, and of the granaries that feed the capital between floods. Held by a Zabu.
+      Captain of the Meglai: >-
+        Commander of the standing city guard of Galezkara, which keeps the public city and is separate from the army, the royal guard and the necropolis guard. Held by a Zabu.
+      Captain of the Necropolis Guard: >-
+        Commander of the guard of Zu-Gezer and the burial fields across the river, charged with the tombs of the royal dead. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the selat's irrigation works and of the channels round the sacred island. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of one of the selat's bureaus, under whose clerks the empire's tribute is reckoned and stored. Held by a Zelar.
       Legha'lutu: >-
         Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
-      Zabet: >-
-        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
-      Zemelu: >-
-        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
-      Overseer of Scribes: >-
-        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
-      Halzi'a's Steward: >-
-        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
-      Canal-Warden: >-
-        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: galezkara
   population: 2500000
   territorial_population: 2500000

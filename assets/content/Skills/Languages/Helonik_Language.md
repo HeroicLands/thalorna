@@ -5755,6 +5755,7 @@ data:
     - {name: Helionite, tongue: helonic}
     - {name: Hellád, tongue: helonic}
     - {name: Hellád Region, tongue: translation}
+    - {name: Helládian, tongue: helonic}
     - {name: Helonik, tongue: translation}
     - {name: Helonik Language, tongue: translation}
     - {name: Helonik Lexicon, tongue: translation}
@@ -6146,6 +6147,7 @@ data:
     - {form: Yeşilhani, instead: Karvashian, why: the demonym of a retired name}
     - {form: Denizara, instead: Nesthiros, why: a town named with an Earth word}
     - {form: Denizaran, instead: Nesthirian, why: the demonym of a retired name}
+    - {form: Helladic, instead: Helládian, why: an Earth word for the region's people}
     - {form: Nékropolis, instead: Nikhtion, why: an Earth word}
     - {form: Temnos, instead: Soridion, why: an Earth place name}
     - {form: Kephala, instead: Kalumion, why: an Earth place name}

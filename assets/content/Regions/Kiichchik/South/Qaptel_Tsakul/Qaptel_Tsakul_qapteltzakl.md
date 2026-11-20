@@ -6,7 +6,7 @@ subType: polity
 description: Threshold country at the southern edge of Kì'ìch'chik civilization—the last priestly order before the forsaken wastes.
 tags: [polity]
 data:
-  culture: kiichchikclt
+  culture: southkiichchikclt
   icon: null
   templatePriority: null
   demonym: null
@@ -52,7 +52,7 @@ data:
   population: null
   territorial_population: 4900
   economy: []
-  lore: [kiichchikclt]
+  lore: [southkiichchikclt]
   parents: []
   relations: {itzanpnthn: aligned}
   packFolder: qapteltzakul

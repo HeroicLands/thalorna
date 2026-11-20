@@ -13,7 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A class of ten delta selatu, each under a hereditary Halzi'a; the wealthiest and most outward-looking of the empire's provinces.
+      A class of ten delta selatu, each under a hereditary Halzi'a, whose ports answer to an Overseer of the Sea-Gate at Gar-Anlaghet for the Gar-Au's customs duty and their foreign factors; the wealthiest and most outward-looking of the empire's provinces.
     ranks:
       - level: 0
         title: Outcast
@@ -32,22 +32,22 @@ data:
         description: >-
           A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
+      Overseer of the Sea-Gate: >-
+        Named by the Gar-Au and keeping office at Gar-Anlaghet, he collects the Gar-Au's customs duty at the ten delta selatu, licenses the foreign factors and their warehouses, and answers to the throne for the customs. Each selat keeps its own harbor fees. Held by a Zabu.
       Halzi'a: >-
-        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+        Hereditary governor of one of the ten delta selatu, as much merchant and diplomat as governor. Held by a Zabu.
+      Harbor-Master: >-
+        Keeper of a delta port's quays and anchorage, who berths the ships, holds the bonded warehouses and settles the quarrels of the waterfront. Held by a Zabu.
+      Customs-Scribe: >-
+        Assessor of the dues on a cargo, entering every bale and jar that crosses a quay in the customs rolls. Held by a Zelar.
+      Dike-Warden: >-
+        Keeper of a stretch of the delta's dikes, channels and marsh-cuts, on which the garden strip and the ports both depend. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a selat's bureau, where the trade of the delta is reckoned for the treasury. Held by a Zelar.
       Legha'lutu: >-
         Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
-      Zabet: >-
-        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
-      Zemelu: >-
-        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
-      Overseer of Scribes: >-
-        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
-      Halzi'a's Steward: >-
-        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
-      Canal-Warden: >-
-        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: garanlaghet
   population: 6000000
   territorial_population: 6000000
@@ -93,7 +93,7 @@ Trade and garden farming drive the Delta. Its ports handle the whole of the empi
 
 ## The Selatu
 
-Ten selatu make up the delta class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Each has its own note; the table is the roster.
+Ten selatu make up the delta class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Their ports answer for the Gar-Au's customs duty and their foreign factors to the Overseer of the Sea-Gate, whom the Gar-Au names and who keeps office at Gar-Anlaghet. Each selat has its own note; the table is the roster.
 
 | Selat                                                   | Seat                                | Patron                                                      | Population | Character                                                                                                                        |
 | ------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------- |

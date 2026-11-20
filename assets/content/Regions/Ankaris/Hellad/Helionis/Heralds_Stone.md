@@ -3,7 +3,7 @@ shortcode: hrldsstone
 name: {full: Heralds' Stone}
 type: place
 subType: structure
-description: "The stone on a ridge in the Helionite hills where the heralds of Pelagora, Thirenae and Kalidria exchanged the dead after the last battle of the War of the Harbors, which heralds touch before every war season and which two cities place on different sides of the ridge."
+description: "The stone on a ridge in the Helionite hills where the heralds of Pelagora, Thirenae and Kalidria exchanged the dead after the last battle of the War of the Harbors, which heralds touch before every war season and which two city-states place on different sides of the ridge."
 tags: [stone, herald, helionis, hellad]
 data: {demonym: null, lore: [], parents: [helionis], population: 0, packFolder: helionis}
 ---
@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 0, packFolder: 
 
 At the edge of a ridge in the Helionite hills stands the **Heralds' Stone**. It was set where the heralds of three cities met on the field after the last battle of [[lore-heladharbors|the War of the Harbors]] and exchanged their dead across the ridge, and heralds touch it before each war season begins.
 
-The heralds of two cities disagree about which side of the ridge it stands on.
+The heralds of two city-states disagree about which side of the ridge it stands on.
 
 ## Inside
 
@@ -20,13 +20,13 @@ The structure is a single stone, set where the heralds stood. It marks the place
 
 ## Who Is There
 
-Heralds. The herald of every Helionite city carries an office that is inviolable even between enemies, and he crosses any field in any war. Heralds touch the stone before the war season, and they are the people who know it.
+Heralds. The herald of every Helionite city-state carries an office that is inviolable even between enemies, and he crosses any field in any war. Heralds touch the stone before the war season, and they are the people who know it.
 
 The heralds of [[affiliation-pelagora|Pelagora]], [[affiliation-thyrenae|Thirenae]] and [[affiliation-kalydria|Kalidria]] met here after the war. The Pelagoran and the Thirenaean heralds place the stone on different sides of the same ridge.
 
 ## The Present {#present}
 
-Heralds touch the stone before each war season, and the cities whose heralds touch it do not agree where it stands. [[lore-heladtruce|The Truce of the Games]] sets the rules of war between Helionite cities: war only in the season between one Games and the proclamation of the next, a herald whose person is inviolable on any field, and the dead of a battle returned to their own city. The stone records where the dead were first exchanged, and two of the cities that gave their dead up there place that ground differently.
+Heralds touch the stone before each war season, and the city-states whose heralds touch it do not agree where it stands. [[lore-heladtruce|The Truce of the Games]] sets the rules of war between Helionite city-states: war only in the season between one Games and the proclamation of the next, a herald whose person is inviolable on any field, and the dead of a battle returned to their own city-state. The stone records where the dead were first exchanged, and two of the city-states that gave their dead up there place that ground differently.
 
 ## History {#history}
 

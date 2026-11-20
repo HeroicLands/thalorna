@@ -6,9 +6,9 @@ subType: region
 description: "Toxic mineral flats, geothermal vents and storm-wracked scrubland—the land of Q'aptel Tsa'kul, the threshold of the southern wastes."
 tags: [region]
 data:
-  culture: kiichchikclt
+  culture: southkiichchikclt
   demonym: null
-  lore: [kiichchikclt]
+  lore: [southkiichchikclt]
   parents: [southkiichchik]
   population: null
   packFolder: qapteltzakul

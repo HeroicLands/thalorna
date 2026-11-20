@@ -55,7 +55,7 @@ The Kuethori (_kuethori_, swift current) holds [[place-klhrkthrgap|the Kuethori 
 
 ## Character
 
-The lineage's business is the lake. The sill holds the lake to its level, the Kuethori have held the sill since the lineage's memory begins, and a household that does not know the sill's state does not know where the lake will stand next season. The households tend the work jointly with the custodians out of [[place-mirthaan|Mirthaan]], who perform the procedures while the Kuethori walk the work with them.
+The lineage's business is the lake. The Kuethori hold that the sill keeps the lake to its level, have held the sill since the lineage's memory begins, and every household keeps the lineage's marks and consults the sill's work before it plans a season's planting. The households tend the work jointly with the custodians out of [[place-mirthaan|Mirthaan]], who perform the procedures while the Kuethori walk the work with them.
 
 Of the great lineages of the island, the Kuethori stand to lose the most by the failing. The lake has risen three hands above the lineage's marks, and the lowest terraces of [[place-koathevoi|Koathevoi]] are under water. The sill is as gray, and gives as much under the hand, as in the oldest account anyone has of it, and the custodians do not hold the [Rite of Last Tending]{.name data-type="lore/custom"} for a work that is not dark. The village argues, openly and often, whether a live work can be given up, and whether the lineage should be the first to say that it has.
 

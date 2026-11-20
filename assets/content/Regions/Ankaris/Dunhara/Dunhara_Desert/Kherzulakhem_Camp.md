@@ -36,3 +36,7 @@ sohl: {system: {commonSkills: [dunharlng]}}
 ---
 
 Kherzulakhem Camp is the gathering of hunters and trackers at the oasis of [[place-kherzulakhem|Kherzulakhem]]. Nobody lives there the year round. The [Laws of the Well]{.name data-type="lore/law"} keep the peace between those who water there, trade hides and sleep in the shade, however their tribes stand.
+
+## History {#history}
+
+The camp has no founding in anyone's recitation. The seep gives water for people and riding animals and none for a herd, so no tribe has ever tried to hold it, and hunters of the Dunhara and the [[place-khzryndsrtrgn|Khazrin]] have watered there together under the Laws of the Well for as long as either desert remembers. The Sovidur raids on the northern wells, the feuds of the northern tribes and the wars of the steppe have all passed it by, because the basin is worth more to every side as a peace than as a prize.

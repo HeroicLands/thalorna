@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okharis, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okharis as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
+      A chieftain by descent and consent, with the lineage elders, over a farming tribe of the rain-fed plains; the Keeper of the Threshing Floors measures the barley and sorghum owed, a fixed entry in the temple registers. The tribe owes fealty to Okharis, and its chieftain and elders attend the moots in the temple-cities; every member holds standing in Okharis as well, most as Villager/Townsman and the elders and chieftain as Honored One.
     ranks:
       - level: 0
         title: Kinless
@@ -40,6 +40,8 @@ data:
     offices:
       Chieftain: Head of the tribe, holding by descent and consent together and losing it when either fails.
       Elder: Senior of a lineage, whose recollection of custom settles what the young dispute.
+      Keeper of the Threshing Floors: >-
+        Measures each household's barley and sorghum on the threshing floors and fills the clay granaries, and answers to the Tribute-Warden for the fixed grain the temple registers record.
       Delegate: >-
         The chieftain or an elder sent to the moots in the temple-cities, where matters affecting the tribes are decided.
       Keeper of the Feud: >-

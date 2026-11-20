@@ -16,19 +16,19 @@ The [Council of Korinthea]{.name data-type="affiliation/governmental"} governs K
 
 ## How the Temple Came to Keep the Law {#founding}
 
-The temple has been the city's court since 327 BF. In that year a Korinthean mage-warlord broke a legion on [[place-sourplain|the Sour Plain]] and the working turned back on his own city's levy ([[lore-heladturnedwrk|the Turned Working]]). Korinthea's assembly lost its standing, and the law of the city passed into the temple's keeping. [Nomason]{.name data-type="being/npc"} was the first High Judge of the temple at Korinthea, in the year of the battle, and the present High Judge sits in an unbroken line from him.
+The temple has been the city-state's court since 327 BF. In that year a Korinthean mage-warlord broke a legion on [[place-sourplain|the Sour Plain]] and the working turned back on his own city's levy ([[lore-heladturnedwrk|the Turned Working]]). Korinthea's assembly lost its standing, and the law of the city passed into the temple's keeping. [Nomason]{.name data-type="being/npc"} was the first High Judge of the temple at Korinthea, in the year of the battle, and the present High Judge sits in an unbroken line from him.
 
 ## The Present {#present}
 
-The temple has kept the law in the assembly's place ever since, and the same battle left the city a wrong it has never named. No Korinthean assembly has voted to say aloud what the city did on the Sour Plain, and the Helionites count a wrong done in a city's name and not said as the worst of them. The temple sends a judge each year to walk the ring of boundary stones that [[affiliation-korinthea|Korinthea]] has set around the plain and to record where the stones stand. It is a custom and not an office.
+The temple has kept the law in the assembly's place ever since, and the same battle left the city-state a wrong it has never named. No Korinthean assembly has voted to say aloud what the city-state did on the Sour Plain, and the Helionites count a wrong done in a city-state's name and not said as the worst of them. The temple sends a judge each year to walk the ring of boundary stones that [[affiliation-korinthea|Korinthea]] has set around the plain and to record where the stones stand. It is a custom and not an office.
 
-The temple's authority has a person at its head. Dumares founded the [Refuge of Árdavon]{.name data-type="affiliation"} to shelter refugees and victims of injustice, and the refuge sorts the deserving from the rest by his own measure. The council consults him before it acts on a matter of law or civic honor, and the powerful of the city treat him with formal courtesy and a careful distance, because he holds every party to its oath.
+The temple's authority has a person at its head. Dumares founded the [Refuge of Árdavon]{.name data-type="affiliation"} to shelter refugees and victims of injustice, and the refuge sorts the deserving from the rest by his own measure. The council consults him before it acts on a matter of law or civic honor, and the powerful of the town treat him with formal courtesy and a careful distance, because he holds every party to its oath.
 
 ## Who Rules It {#who-rules-it}
 
 The High Judge of the Temple governs it. The rank is regional: the [[affiliation-ardavon|Faith of Árdavon]] has one High Judge, the Volsarnor, seated in the [[place-provenzrgn|Provénzia Region]], and the High Judge of Korinthea serves beneath him. Dumares Rafiros holds the post, and his judgment is final in most disputes. He answers in name to the Patriarchate, an ancient honorary title of the temple that no one now holds, as to a tradition kept by the elder priest [[being-adhelimisgho|Adhélimis Ghotones]], but he acts with near-total independence in judicial and civic matters. He commands the temple's guard-knights in ceremony.
 
-Being a judge of Árdavon is a civic office in Korinthea, in line with the Helionite habit of holding priesthood and magistracy together, and the priest-judges sit beside the patron families who rule the city. The council consults the High Judge on law and civic honor before it acts.
+Being a judge of Árdavon is a civic office in Korinthea, in line with the Helionite habit of holding priesthood and magistracy together, and the priest-judges sit beside the patron families who rule the city-state. The council consults the High Judge on law and civic honor before it acts.
 
 ## Lands and Income {#lands-and-income}
 
@@ -45,7 +45,7 @@ At the [Feast of Thresholds]{.name data-type="lore/gathering"}, Árdavon's festi
 ## Hooks {#hooks}
 
 - **The grievance.** A party with a quarrel against a noble house can bring it to [[being-dumarsrfrs|Dumares Rafiros]]. The bench is open to a visitor, and the High Judge holds every party to its oath.
-- **The stones.** The judge who walks the ring around [[place-sourplain|the Sour Plain]] each year records where the stones stand, and the stones have been reset outward three times. The ground the city will not name lies inside the ring.
+- **The stones.** The judge who walks the ring around [[place-sourplain|the Sour Plain]] each year records where the stones stand, and the stones have been reset outward three times. The ground the city-state will not name lies inside the ring.
 
 ## See Also
 

@@ -34,7 +34,7 @@ The Velanthians have not been taken. Not lastingly. The region has lost border d
 
 ## Geography
 
-Velanthia stretches from the eastern margin of the Nordlands and Vristwald forests to the western Khazrin frontier. Its northern coast faces the open sea; its southern edge meets the Vilérian and Helladic lands.
+Velanthia stretches from the eastern margin of the Nordlands and Vristwald forests to the western Khazrin frontier. Its northern coast faces the open sea; its southern edge meets the Vilérian and Helládian lands.
 
 The terrain transitions through three principal belts:
 
@@ -54,7 +54,7 @@ Velanthians are overwhelmingly human and are organized along a clear cultural gr
 
 The **western and northern river-kingdoms** are the cultural heartland—settled, agricultural, urban around the river-junction capitals, with their own ancient liturgical-and-courtly language family that is unrelated to either Nordmal or Aureldian tongues. Their princely houses are old and intermarried; their towns are wooden-and-stone; their courts maintain elaborate ceremonial that mixes Aureldian courtly forms (absorbed via long contact with the western kingdoms) with older indigenous ritual that the priests have folded into the Aureldian pantheon over the centuries. The Velanthian river-courts are reputed to be the most ceremonious in eastern Ankaris.
 
-The **central grain-belt towns** are more cosmopolitan than the river-courts—mercantile, polyglot, host to merchant communities from every neighbor. The grain trade pulls in buyers from [[place-midhalnrgn|Midhalión]] and the Helladic city-states and produces a class of Velanthian merchants whose wealth and external connections sometimes rival the river-princes' political authority. The grain-belt monastic establishments are also distinctive—large endowed houses that combine religious function with massive agricultural management and (less openly) the storage of regional grain reserves against bad years and bad neighbors.
+The **central grain-belt towns** are more cosmopolitan than the river-courts—mercantile, polyglot, host to merchant communities from every neighbor. The grain trade pulls in buyers from [[place-midhalnrgn|Midhalión]] and the Helládian city-states and produces a class of Velanthian merchants whose wealth and external connections sometimes rival the river-princes' political authority. The grain-belt monastic establishments are also distinctive—large endowed houses that combine religious function with massive agricultural management and (less openly) the storage of regional grain reserves against bad years and bad neighbors.
 
 The **southern frontier confederations** are the most distinctive Velanthian population to outside eyes—the **Velanthian Hosts**, semi-settled communities of horse-keeping farmer-warriors organized around hereditary headmen called **atamans** (each Host is named for its founding ataman or its principal river: the [Tarvál Host]{.name data-type="affiliation/polity"}, the [Sevret Host]{.name data-type="affiliation/polity"}, the [Khorad Host]{.name data-type="affiliation/polity"}, and several others). The Hosts maintain their own internal law, their own military organization, and a complicated tributary-and-alliance relationship with the river-prince kingdoms to the north. They are the practical defense of the southern frontier against tribal raiding from the steppe, and they are the primary mediators of trade and diplomacy with the western Khazrin tribes.
 
@@ -90,9 +90,9 @@ The system is fragile in theory and durable in practice. Foreign observers regul
 
 ## Trade
 
-Velanthia's economy is built on grain, furs, horses, and the trade-routes that move them. The river systems carry grain south to the Helladic city-states and to Midhalión, where Velanthian wheat fills the granaries of the Hellád and beyond. Furs from the northern forest belt flow south through the same channels. Horses bred in the southern Host country are exported east to the Khazrin tribes (which prize Velanthian-bred crossbreeds) and west to the Aureldian heavy cavalry market.
+Velanthia's economy is built on grain, furs, horses, and the trade-routes that move them. The river systems carry grain south to the Helládian city-states and to Midhalión, where Velanthian wheat fills the granaries of the Hellád and beyond. Furs from the northern forest belt flow south through the same channels. Horses bred in the southern Host country are exported east to the Khazrin tribes (which prize Velanthian-bred crossbreeds) and west to the Aureldian heavy cavalry market.
 
-In return, Velanthia imports Aureldian and Vilérian finished goods (textiles, glassware, fine metalwork, books), Midhalion luxuries (wine, olive oil, citrus when shipping permits), Helladic philosophical-and-medical literature, Khazrin silver and salt, and the small steady trickle of distant Tantsou silk and porcelain that reaches the eastern grain-belt through Khazrin intermediaries.
+In return, Velanthia imports Aureldian and Vilérian finished goods (textiles, glassware, fine metalwork, books), Midhalion luxuries (wine, olive oil, citrus when shipping permits), Helládian philosophical-and-medical literature, Khazrin silver and salt, and the small steady trickle of distant Tantsou silk and porcelain that reaches the eastern grain-belt through Khazrin intermediaries.
 
 The merchant houses of the grain-belt towns are the principal financial intermediaries; the river-princes maintain the mints; the monastic establishments hold the grain reserves; the Hosts collect tolls on the southern caravan routes. The whole system runs on overlapping authority, hand-to-mouth in any given year, and has never produced the great unified mercantile institutions of Midhalión—but it sustains a population of perhaps four million people in a region that no single power has ever managed to govern.
 

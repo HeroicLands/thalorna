@@ -40,6 +40,12 @@ The [[affiliation-ashanpnthn|Ashaian priests]] of the cities say that the dead o
 Whatever the king's people believed, their dead are held to the world by [[lore-theshadow|the Shadow]], the chaos outside creation from which every undead thing stems. The dust-sworn are kept moving by it. The keeper at the center of the vault is something more, because she was set there to keep a door, and the door is not a door into the earth.
 :::
 
+## Layers {#history}
+
+The vault is the oldest work in the desert that anyone can enter, and it has two layers. The first is its making: a people who built tombs, and who are not the people of the tribes, cut the stair and the vault and laid a king's household in the alcoves around its keeper. The tribes say the king's name was struck from every wall, by his own people or by whoever came after them, and the stone does not say which.
+
+The second is the sand. The dune sea has buried the stair and uncovered it at long intervals ever since, a season or a few years at a time, and the tribes' account of the [[place-dunharargn|Dunhara]] begins after it was buried. Between openings it is a name and nothing else. In each opening a few guides go down, grave-goods come out to the markets of the Amradi road, and the guides who have been down stop taking work.
+
 ## What Is There Now {#present}
 
 The wind has bared the stair this spring, and the dune that covers it stands open on its northern flank. The sand closes it again within a season or a few years, and nobody can say which. Word of the opening reached [[place-qarvelakhend|Qarvelakhend]] before it reached most of the tribes, and the few guides who have seen the stair open are sought out in every market between the long wells and the Amradi road. The tribes of the southern pastures keep their herds farther north than the grazing warrants, because their herders say something walks from the stair toward the pastures at night.

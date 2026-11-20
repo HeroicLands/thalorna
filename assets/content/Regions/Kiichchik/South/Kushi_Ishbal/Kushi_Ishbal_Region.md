@@ -6,9 +6,9 @@ subType: region
 description: "The high altiplano of grassland, sacred lake and mountain passes that is the land of K'ushi Ish'bal, in Southern Kì'ìch'chik."
 tags: [region]
 data:
-  culture: kiichchikclt
+  culture: southkiichchikclt
   demonym: null
-  lore: [kiichchikclt]
+  lore: [southkiichchikclt]
   parents: [southkiichchik]
   population: null
   packFolder: kuxiixbal

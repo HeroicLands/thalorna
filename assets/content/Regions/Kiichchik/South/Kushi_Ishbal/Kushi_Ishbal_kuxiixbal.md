@@ -6,7 +6,7 @@ subType: polity
 description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes—the southern frontier of Kì'ìch'chik civilization.
 tags: [polity]
 data:
-  culture: kiichchikclt
+  culture: southkiichchikclt
   icon: null
   templatePriority: null
   demonym: null
@@ -70,7 +70,7 @@ data:
   population: null
   territorial_population: 50000
   economy: []
-  lore: [kiichchikclt]
+  lore: [southkiichchikclt]
   parents: []
   relations: {itzanpnthn: aligned, nclvlkvst: unaligned}
   packFolder: kuxiixbal

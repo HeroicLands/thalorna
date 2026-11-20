@@ -3,7 +3,7 @@ shortcode: byzarianlg
 name: {full: Bizarian League}
 type: affiliation
 subType: polity
-description: "Confederation of five city-states at the crossroads of east and west—neither kingdom nor loose alliance, but a commercial pact binding merchant-princes under common tariffs and collective naval defense."
+description: "Confederation of five city-states at the crossroads of east and west—neither kingdom nor loose alliance, but a commercial pact binding merchant-princes under common tolls and collective naval defense."
 data:
   templatePriority: null
   demonym: Bizarian
@@ -12,7 +12,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A league of trading cities governed by hereditary rulers and merchant houses together, navigating between the great powers with careful neutrality.
+      A league of trading city-states governed by hereditary rulers and merchant houses together, navigating between the great powers with careful neutrality.
     ranks:
       - level: 0
         title: Struck from the Roll
@@ -76,31 +76,31 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The League council meets in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]], a vast, ornate building that is parliament and exchange at once, and the business on its table is narrow: tariffs, the joint fleet and army, the three marches, and quarrels between member cities. Everything else belongs to the cities. The Bizarian League is a confederation of five city-states at the crossroads of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]], and it is a commercial pact. Its members grant one another trade privileges, charge outsiders common tariffs and defend one another, and each governs itself inside its own walls. About 1,200,000 people live under it in [[place-byzariargn|Bizaria]].
+The League council meets in the [Merchant Hall]{.name data-type="place/structure"} of [[place-khryshteikhos2|Krusteikhos]], a vast, ornate building that is parliament and exchange at once, and the business on its table is narrow: the common tolls, the joint fleet and army, the three marches, and quarrels between member city-states. Everything else belongs to the city-states. The Bizarian League is a confederation of five city-states at the crossroads of the eastern and western parts of the [[place-ankrscntnnt|Ankaris Continent]], and it is a commercial pact. Its members grant one another trade privileges, charge outsiders common tolls and defend one another, and each governs itself inside its own walls. About 1,200,000 people live under it in [[place-byzariargn|Bizaria]].
 
 The League's power is its position. It holds the overland routes that link the markets of [[place-midhalnrgn|Midhalión]] to the [[place-khzryndsrtrgn|Khazrin Desert Region]], to the [[place-dunharargn|Dunhara Region]] and to the distant east, and an outsider remembers it for the bargain: a League contract is slow to make, exact to the word, and kept.
 
-## The Five Cities
+## The Five City-States
 
 - [[affiliation-khryshteikhos|Krusteikhos]], _the Golden Fortress_, is the wealthiest and most politically influential of the five and the League's capital. The council convenes in its Merchant Hall, its banking houses finance trade across half of Ankaris, and its merchant-princes set the League's foreign policy, or try to.
 - [[affiliation-nesthiros|Nesthiros]], _the Sea-Between_, is the League's principal seaport on the Vilérian coast, where maritime and overland trade meet. Its harbor is one of the busiest in the eastern [[place-vylarianse|Vilérian Sea]], and its shipyards build the fast galleys that protect League commerce from pirates and from Taruzelian competitors.
 - [[affiliation-karvashion|Karvashion]], _the Green Caravanserai_, is an inland town at the junction of the caravan routes east toward the Khazrin and south toward Dunhara. Eastern goods—spices, silk, incense—first enter League hands in its vast bazaars and caravanserais, and its caravansary masters are famously shrewd.
 - [[affiliation-argyrteikhos|Argirteikhos]], _the Silver Citadel_, is a fortified mountain town guarding the eastern passes into Bizaria. Its garrison keeps the mountain routes open and discourages eastern warlords and desert raiders, and its silver mines pay for the League's collective defense.
-- [[affiliation-orashion|Órashion]], _Blackstone_, is a mining and manufacturing town in the mountainous interior, built on rich deposits of iron and semi-precious stones. It makes the arms, armor and metalwork the other cities trade, and its craftsmen are renowned throughout the region. It is the least glamorous of the five and the one the others could least do without.
+- [[affiliation-orashion|Órashion]], _Blackstone_, is a mining and manufacturing town in the mountainous interior, built on rich deposits of iron and semi-precious stones. It makes the arms, armor and metalwork the other city-states trade, and its craftsmen are renowned throughout the region. It is the least glamorous of the five and the one the others could least do without.
 
 ## Who Decides
 
-Each city keeps its own council, its own coin standard, its own courts and its own guard. Inside the walls, hereditary rulers and merchant houses govern together, with an elaborate bureaucracy that manages trade, taxation and relations with the other cities. The council of each city sits by the weight of the houses behind its members, and its First of the Council, elected by the council for a fixed term, holds the city's seal while he presides.
+Each city-state keeps its own council, its own coin standard, its own courts and its own guard. Inside the walls, hereditary rulers and merchant houses govern together, with an elaborate bureaucracy that manages trade, taxation and relations with the other city-states. The council of each city-state sits by the weight of the houses behind its members, and its First of the Council, elected by the council for a fixed term, holds the city-state's seal while he presides.
 
-The League council is where the cities meet, and weight there is counted three ways. Krusteikhos's bankers dominate it by money, Nesthiros's admiralty by ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison. The council governs only three districts directly, the [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]] and [[place-northrnmrch|Northern March]]: frontier country outside every city's charter, held by lords the council commissions and can dismiss, garrisoned by conscripts all five cities raise, and paid for from the common treasury and the silver of Argirteikhos.
+The League council is where the city-states meet, and weight there is counted three ways. Krusteikhos's bankers dominate it by money, Nesthiros's admiralty by ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison. The council governs only three districts directly, the [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]] and [[place-northrnmrch|Northern March]]: frontier country outside every city-state's charter, held by lords the council commissions and can dismiss, garrisoned by conscripts all five city-states raise, and paid for from the common treasury and the silver of Argirteikhos.
 
 The five cities bound themselves in [[lore-heladcompact|the Compact of the Five]] about 157 BF, and their councils re-swore it in about 571 AF ([[lore-heladreswear|The Re-swearing of the Compact]]). [[lore-heladeastwar|The Eastern War]] dissolved the Compact by edict about 209 AF and annexed the League as a province of the [[affiliation-vylarinmpr|empire]].
 
-A city's officers are the people a trader meets. The Chancellor keeps its charters, treaties and correspondence; the Treasurer keeps its customs, its tolls and the loans it raises against them; the Harbormaster keeps the port, its pilots, its wharves and the dues on every hull that enters; and the Master of the Mint keeps the coin struck in the city's name and the standard it is struck to. A Consul Abroad holds the city's seal for trade disputes in a foreign port. The Captain of the Watch commands the city guard and the militia the guilds are bound to raise. The Warden of the Weights inspects measures, coin and quality in the markets, and his is the office that makes the city's word good. A Guild Master speaks for a chartered trade before the council and answers for its members' conduct, and an Arbitrator settles disputes between houses under the commercial custom.
+A city-state's officers are the people a trader meets. The Chancellor keeps its charters, treaties and correspondence; the Treasurer keeps its customs, its tolls and the loans it raises against them; the Harbormaster keeps the port, its pilots, its wharves and the dues on every hull that enters; and the Master of the Mint keeps the coin struck in the city's name and the standard it is struck to. A Consul Abroad holds the city's seal for trade disputes in a foreign port. The Captain of the Watch commands the city guard and the militia the guilds are bound to raise. The Warden of the Weights inspects measures, coin and quality in the markets, and his is the office that makes the city's word good. A Guild Master speaks for a chartered trade before the council and answers for its members' conduct, and an Arbitrator settles disputes between houses under the commercial custom.
 
 A house factor of Nesthiros explains the order of things to a Taruzelian buyer at his first contract: "Do not take a quarrel to the council. The council has never heard of you. Take it to an arbitrator you and your counterpart both name, and bring your copy of the terms, because he will ask for it before he asks your name."
 
-Standing in a League city runs from the register outward. A freeman of the city is enrolled in its register, trades in its markets and pleads in its courts. Below him are the resident, who lives and works under the city's protection without its freedom or a vote, and the unfree, bound in service or debt with no property and no right to contract. Below them all is the man struck from the roll: no charter, no protection, no standing in the courts, and every contract he holds void. Above the freeman stand the guild master, the house factor who manages a great house's warehouses, ships and correspondents abroad, the house head who masters its capital and its name and elects the council, the councillor, and the First of the Council.
+Standing in a League city-state runs from the register outward. A freeman of the city-state is enrolled in its register, trades in its markets and pleads in its courts. Below him are the resident, who lives and works under the city's protection without its freedom or a vote, and the unfree, bound in service or debt with no property and no right to contract. Below them all is the man struck from the roll: no charter, no protection, no standing in the courts, and every contract he holds void. Above the freeman stand the guild master, the house factor who manages a great house's warehouses, ships and correspondents abroad, the house head who masters its capital and its name and elects the council, the councillor, and the First of the Council.
 
 ## People and Faith
 
@@ -116,7 +116,7 @@ Its wars are border wars, against desert raiders, steppe tribes and the occasion
 
 ## Commerce and Currency {#commerce}
 
-Each city strikes its own coin, and the League as a whole uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The Bizarian League is a post-imperial commonwealth member: it takes full part in the trade and banking infrastructure of the Vilérian system and is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Each city-state strikes its own coin, and the League as a whole uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The Bizarian League, a province of the empire in law, takes full part in the trade and banking infrastructure of the Vilérian system. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also {#see-also}
 

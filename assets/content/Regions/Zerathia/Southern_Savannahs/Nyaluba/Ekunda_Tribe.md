@@ -13,42 +13,47 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe sends a delegate to the Great Lubemo and binds itself to nothing there without the elders first agreeing it.
+      The village is run by its elders more than by its chieftain, who holds by descent and consent together; the Keeper of the Spring allots the water that every clan needs in a bad year. The tribe sends a delegate to the Great Lubemo and binds itself to nothing there without the elders first agreeing it.
     ranks:
       - level: 0
-        title: Kinless
+        title: Barred from the Spring
         description: >-
-          Cast out by their own kin and claimed by none; owed no hospitality, no water and no vengeance.
+          Cast out by the elders and denied the spring, which on the dry savannah is the true sentence; owed no shelter and no vengeance.
       - level: 1
         title: Bondservant
         description: >-
-          Held in service or debt to a household, and answerable through its head rather than in their own name.
+          Held in service or debt to an Ékunda household, and answerable through its head rather than in their own name.
       - level: 2
-        title: Dependent
+        title: Guest of the Spring
         description: >-
-          Sheltered by a household without being of its blood—a client, a widow's family, a taken-in stranger.
+          A herder, trader or stranger taken in by a household and kept under the tribe's peace for as long as they keep it, without a share in the water's dues.
       - level: 3
         title: Kinsman
-        description: Of a household's blood, entitled to its protection, its feud and its share.
+        description: >-
+          Of an Ékunda household's blood, owing a turn at the spring's watch and entitled to a share of what the trading ground brings in.
       - level: 4
         title: Householder
         description: >-
-          Head of a tent or hall, holding its herds and its people and speaking for them at the moot.
+          Head of a household of the village, holding its share of the spring's dues and answering for its guests before the elders.
       - level: 5
         title: Elder
-        description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
+        description: >-
+          Senior of a lineage and one of those who run the village, whose word on the water weighs more than the chieftain's.
       - level: 6
         title: Chieftain
         description: >-
-          Leading a clan or tribe by descent and by consent together, and losing it when either fails.
+          Head of the tribe by descent and consent together, who speaks for the Ékunda abroad and governs at home only with the elders.
     offices:
-      Chieftain: Head of the tribe, holding by descent and consent together and losing it when either fails.
-      Elder: Senior of a lineage, whose recollection of custom settles what the young dispute.
+      Chieftain: >-
+        Head of the tribe by descent and consent together; the elders run the village more than the chieftain does, and the chieftain's work is the tribe's standing among the clans.
+      Elder: Senior of a lineage, one of the few who decide who waters at the spring and when.
+      Keeper of the Spring: >-
+        The elder who allots the water in a dry season, herd by herd and clan by clan, and closes it to anyone who sheds blood at it.
+      Warden of the Trading Ground: >-
+        Keeper of the peace and the fair price on the ground beside the spring, where savannah herders, Sengala traders and foreign travelers meet.
       Delegate: >-
-        Sent to the Great Lubemo of the confederation, empowered to argue and not to bind.
-      Keeper of the Feud: >-
-        Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
-      Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
+        Sent to the Great Lubemo, who may speak for the tribe and may bind it only with the elders' agreement.
+      Envoy: Sent to treat with the clans and with settled powers, and protected by custom while carrying the word.
   seat: ekundavlg
   population: null
   territorial_population: 400

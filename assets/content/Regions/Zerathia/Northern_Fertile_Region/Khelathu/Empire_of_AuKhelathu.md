@@ -41,18 +41,16 @@ data:
         description: >-
           The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
     offices:
-      Halzi'a: >-
-        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
-      Legha'lutu: >-
-        Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
-      Zabet'lutu: >-
-        Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
-      Zabet: >-
-        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
+      Gar-Au: >-
+        The sovereign and nominal supreme priest of every god, whose word is law; every Halzi'a and every high priest answers to the Gar-Au. Held at the rank of Gar-Au.
       Zemelu: >-
         Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu or an Iru'palu.
+      Halzi'a: >-
+        Hereditary governor of a selat, answering to the throne for its army, its taxes and its courts. Held by a Zabu.
       Overseer of Scribes: >-
-        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
+        Head of a bureau of the central administration, commanding the lettered men who carry a decree from the throne to the field. Held by a Zelar.
+      Zabet: >-
+        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
   seat: galezkara
   population: 19000000
   territorial_population: 19000000
@@ -72,7 +70,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 **Au'Khelathu** has been conquered several times, and it has outlived every one of its conquerors. Hill-nomads have taken its throne, and sea-raiders, and a [[lore-vylarianclt|Vilérian]] army at the height of [[affiliation-vylarinmpr|Vilérian Empire]]'s reach; each time the empire handed the new master a scribe, a temple appointment and a throne name, and within a generation or two the conquerors were [[lore-khelathiclt|Khelathi]]. That is the empire in a sentence: the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]], kept whole for millennia by a river, a priesthood and a written record that absorb whoever arrives.
 
-The Khelathi take their survival as proof of divine favor. Their civilization endures, they say, because it is built on eternal truths, and the evidence they offer is that it has survived invasions, dynastic collapses and the rise and fall of every rival on the continent without losing its language, its gods or its funerary rites. A foreigner remembers it for the monuments and the dead. A Khelathi will tell you the thing to remember is the archive.
+The Khelathi take their survival as proof of divine favor. Their civilization endures, they say, because it is built on eternal truths, and the evidence they offer is that it has survived invasions, dynastic collapses and the rise and fall of every rival on the continent without losing its language, its gods or its funerary rites. A foreigner remembers it for the monuments and the dead. The thing to remember is the archive.
 
 "Everything here is written down, and everything written down is somebody's business," says [[being-akherethu2|Akherethu]], an Overseer of Scribes in the bureaus of [[place-garmedjatozo|Gar-Medjatozo]], to a foreign envoy's new secretary on the first morning of an embassy. "The god-king rules. The governors govern. We write down what they did, and in a hundred years, what we wrote is what happened."
 
