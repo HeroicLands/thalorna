@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-Zhitavesh is the seat of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]], a walled town of about eight thousand people on the river meadows of the lowland grain belt. Its prince's hall stands beside the princely granary, and the great granary monastery of the lowlands stands on the other side of the market square. The town buys nothing it can grow: the barns, mills and ferries of its own villages feed it, and the barges that load at its landing carry the surplus down to the port of [[place-brlvsh|Brelavesh]]. More grain passes through its square in a harvest month than through any other place in Velanthia, and everything about the town is arranged around counting it.
+Zhitavesh is the seat of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]], a walled town of about eight thousand people on the river meadows of the lowland grain belt. Its prince's hall stands beside the princely granary, and the great granary monastery of the lowlands stands on the other side of the market square. The town buys nothing it can grow: the barns, mills and ferries of its own villages feed it, and the barges that load at its landing carry the surplus down to the port of [[place-brlvsh|Brelavesh]]. It is the largest grain market in Velanthia: more grain passes through its square in a harvest month than through any other place, and everything about the town is arranged around counting it.
 
 ## Arriving {#arriving}
 
@@ -45,7 +45,7 @@ The monastery keeps a guest barn for travelers and the poor, with straw, bread a
 
 ## History {#history}
 
-The lowland houses count the oldest princely line on the central river, and the town grew where its first barn stood at a ferry. When the third union of the steppe overran the eastern fringe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), the lowlands held and the fringe was lost; the grain villages of the heartland resettled the ground over the next two generations, and the town's granaries were raised to feed them through the first years. The prince's barn and the monastery's barn have stood on either side of the square since.
+The town grew where its first barn stood at a ferry, and the seat has been held by the same princely line since. After the third union of the steppe overran the eastern fringe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), the grain villages of the heartland were resettled, and the town's granaries were raised to feed the settlers through the first years. The prince's barn and the monastery's barn have stood on either side of the square since.
 
 ## Hooks {#hooks}
 
@@ -62,7 +62,7 @@ The lowland houses count the oldest princely line on the central river, and the 
 : the houses of the lowland barns
 
 [[place-dbrvsh|Dobravesh]]
-: the lowland's largest grain market
+: the lowland's second grain market
 
 [[place-tvskvsh|Tveskavesh]]
 : the pass market where its grain goes south

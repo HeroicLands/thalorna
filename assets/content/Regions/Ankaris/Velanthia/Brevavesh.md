@@ -29,7 +29,11 @@ The town is the oldest of the frontier forts: a crossing guarded first by a timb
 
 ## Current Situation {#present}
 
-The silver of the port and the grain of the lowlands both arrive late, and the garrison is owed several months. The wardens answer by selling a night's passage to a fur hunter and a day's leave to a villager, and the margin is watched by tired men who are not paid to be careful. Varokh war-bands raid across the forest edge in autumn, and the prince has no bargain with the Grukar and wants none. The captain of the forts keeps two sets of rolls: the one he shows the prince and the one that says who is actually in the barracks. The prince knows which of his wardens sell passage and weighs the cost of hanging one.
+The silver of the port and the grain of the lowlands both arrive late, and the garrison is owed several months. The wardens answer by selling a night's passage to a fur hunter and a day's leave to a villager, and the margin is watched by tired men who are not paid to be careful. Varokh war-bands raid across the forest edge in autumn, and the prince has no bargain with the Grukar and wants none. The prince knows which of his wardens sell passage and weighs the cost of hanging one.
+
+:::secret {title="The Captain's Rolls"}
+The captain of the forts keeps two sets of rolls: the one he shows the prince each quarter and the one that says who is actually in the barracks.
+:::
 
 ## The Holder {#holder}
 
@@ -45,13 +49,13 @@ The prince governs by the forts, and the town has no council: the captain keeps 
 
 ## Within the Walls {#within-the-walls}
 
-The fort is a square of grey stone with a tower at the river corner and a barracks yard behind the gate. Below it the town is a close huddle of timber houses, smokehouses and horse-yards, with narrow lanes that smell of tar and wet fur. The yards of the fur hunters line the road to the river gate, each with a drying rack, and the armorer's forge and the farrier's shop stand under the fort's wall where the wardens can reach them. The granary is the one stone building in the town besides the fort, and it is kept locked by the captain's own key.
+The fort is a square of gray stone with a tower at the river corner and a barracks yard behind the gate. Below it the town is a close huddle of timber houses, smokehouses and horse-yards, with narrow lanes that smell of tar and wet fur. The yards of the fur hunters line the road to the river gate, each with a drying rack, and the armorer's forge and the farrier's shop stand under the fort's wall where the wardens can reach them. The granary is the one stone building in the town besides the fort, and it is kept locked by the captain's own key.
 
 ## Hooks {#hooks}
 
 - A fur hunter needs a night's passage across the forest edge and has the coin for a warden who will sell it.
 - A family has the price of a captive's ransom and needs someone to carry it to the ford at Yaravesh.
-- The judge on circuit wants a witness who is not in the prince's pay to read the garrison's rolls.
+- The judge on circuit wants someone outside the prince's pay to count the wardens at their posts, since the garrison is owed months and passage is being sold.
 
 ## See Also {#see-also}
 

@@ -44,7 +44,6 @@ data:
       Keeper of the Muster: >-
         Holds the Host's banner and the roll of its riders.
   seat: tvsknv
-  range: [velanthrgn]
   population: null
   territorial_population: 100000
   settlements:

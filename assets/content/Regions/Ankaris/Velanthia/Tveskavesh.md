@@ -25,7 +25,7 @@ Tveskavesh is a walled market town of about three and a half thousand people, he
 
 ## Arriving {#arriving}
 
-The road from the lowlands runs straight across flat fields for a day and then lifts, and the town sits at the point where the road begins to climb: a stone-footed wall with a gatehouse on the lowland side and a smaller one facing the pass. Inside the walls, the main street is a long yard of wagon-sheds, harness shops and team-stables, and the smell of horse and axle-grease is the town's smell. The range stands over the roofs, grey in winter and blue in summer, and the pass road can be seen as a pale line against it. Wagons in the street are always facing one way or the other, and which way is the first thing a visitor learns to read.
+The road from the lowlands runs straight across flat fields for a day and then lifts, and the town sits at the point where the road begins to climb: a stone-footed wall with a gatehouse on the lowland side and a smaller one facing the pass. Inside the walls, the main street is a long yard of wagon-sheds, harness shops and team-stables, and the smell of horse and axle-grease is the town's smell. The range stands over the roofs, gray in winter and blue in summer, and the pass road can be seen as a pale line against it. Wagons in the street are always facing one way or the other, and which way is the first thing a visitor learns to read.
 
 ## What the Town Lives By {#what-the-town-lives-by}
 

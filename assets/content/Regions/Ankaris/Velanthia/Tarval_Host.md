@@ -44,7 +44,6 @@ data:
       Toll-Keeper: >-
         Collects what the caravans owe at the Host's toll posts on the eastern roads.
   seat: vlkvsh
-  range: [velanthrgn]
   population: null
   territorial_population: 120000
   settlements:

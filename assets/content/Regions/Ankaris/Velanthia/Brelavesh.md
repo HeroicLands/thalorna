@@ -29,15 +29,19 @@ A traveler comes to the port by water more often than by road, and the first sig
 
 ## Politics {#present}
 
-The prince takes a toll on every boat and wagon that reaches the port, and the merchant houses pay it as a sum that his port-warden audits and the houses resent. The houses want the tolls fixed by contract and resist the prince's habit of raising them in a thin year, and the prince wants a larger share of the grain trade for his own barges and has begun to buy mills upriver, which the lowland prince reads as a threat. The port is the richest place in the land and has the fewest soldiers, and the other princes watch it. The silver that pays the wardens of the forts of Brevavesh leaves the mint each quarter and is the one payment the prince makes without bargaining.
+The prince takes a toll on every boat and wagon that reaches the port, and the merchant houses pay it as a sum that his port-warden audits and the houses resent. The houses want the tolls fixed by contract and resist the prince's habit of raising them in a thin year. His own barges now compete for grain, and the mills he has bought upriver have made the lowland prince wary. The port is the richest place in the land and has the fewest soldiers, and the other princes watch it. The silver that pays the wardens of the forts of Brevavesh is struck here each quarter and goes up the river road, and it reaches the forts late.
 
 ## Order and Law {#order-and-law}
 
-The prince, [Milogor Yarogorich]{.name data-type="being/npc"}, rules the city by tolls and by his mint. His port-warden keeps the landings and the order of the quays, his judge of the quays hears the disputes of boatmen and merchants by the customary law the princely houses share, and his keeper of the mint strikes the silver that the river trade runs on. A retinue of riders holds the walls. A dispute between two merchant houses goes to the houses' own arbiter of debts, not to the prince's judge, and the prince takes no part unless a toll is owed.
+The prince, [Milogor Yarogorich]{.name data-type="being/npc"}, rules the city by tolls and by his mint. A visitor meets his offices on the quays: the port-warden's clerks at every landing, the judge of the quays, who hears boatmen and merchants by the customary law the princely houses share, and the keeper of the mint, whose silver the river trade is counted in. A retinue of riders holds the walls. A dispute between two merchant houses goes to the houses' own arbiter of debts, not to the prince's judge, and the prince takes no part unless a toll is owed.
 
 ## What the City Lives By {#what-the-city-lives-by}
 
 The port lives by being where the trades meet. Grain comes down from the lowlands, furs come down from the northern forest by way of landings such as [[place-rdvsh|Radavesh]], horses come in from the Khazrin by the roads of the [[affiliation-hsttrvl|Tarvál Host]], and every sack, bale and string is weighed against the standard held by the houses' keeper of the weights and taxed by the prince. The houses lend against each year's harvest and finance the barges and fur boats, and the prince's silver is what the credit is counted in. Shipwrights, rope-makers and net-menders from the villages below the port supply the boats, and the smokehouses and salt-sheds along the quays preserve what the river brings.
+
+## Faith and Festivals {#faith-and-festivals}
+
+The granary monasteries of the [[affiliation-lizelas|Faith of Lizelas]] keep the barns of the lowlands that feed the port, and the grain that fills its quays comes down from houses that keep the hours of the faith. Their guest barns take in travelers and the poor and ask an hour's work in the yard in return. The heads of those houses keep the feasts of the faith without answering to any temple priesthood.
 
 ## Where a Party Lodges {#lodging}
 
@@ -46,6 +50,12 @@ The quays are lined with bargemen's inns: loud, crowded and cheap in the winter,
 ## History {#history}
 
 The port grew where three trades met: the grain barges of the lowlands, the fur boats of the northern forest and the horse-traders of the Khazrin. The house that holds it has held it since the quays were timber, and the quays and their warehouses have grown behind it since. The port has never kept a larger army than its neighbors lent it. The forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] guard the northern river, the barns of the lowlands feed its quays, and the [[affiliation-hsttrvl|Tarvál Host]] holds the eastern caravan roads for the prince and takes its own toll on them. The merchant houses lend against each year's harvest, and the prince lives on the tolls they pay.
+
+## Hooks {#hooks}
+
+- A merchant house wants a witness to the port-warden's audit, since the prince has raised the toll in a thin year.
+- The quarter's silver for the wardens of Brevavesh waits at the mint for an escort up the river road.
+- Two houses bring a quarrel over a debt to their arbiter, and one of them wants a witness to the tally.
 
 ## See Also {#see-also}
 

@@ -44,7 +44,6 @@ data:
       Horse-Master: >-
         Keeps the Host's herds and the breeding of its crossbred horses.
   seat: krdshv
-  range: [velanthrgn]
   population: null
   territorial_population: 80000
   settlements:

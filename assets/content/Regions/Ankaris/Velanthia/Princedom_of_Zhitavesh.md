@@ -129,7 +129,7 @@ sohl: {system: {commonSkills: [velanthlng]}}
 
 ## Overview {#overview}
 
-The Princedom of Zhitavesh holds the grain lowlands of the black-earth belt, from the river meadows at its seat to the foot of the southern range. It has more people than either of the other two river-princedoms and the fullest barns in Velanthia: its villages sow wheat, rye and flax, its mills grind for the barges, and the monasteries of its towns keep the reserve that carries the land through a bad year. About 650,000 people live on its land, among them the 180,000 of the [[affiliation-hstsvrt|Sevret Host]] and the [[affiliation-hstkhrd|Khorad Host]], which hold its south-eastern margin under the prince. The seat is [[place-zhtvsh|Zhitavesh]]. Of its other towns, [[place-dbrvsh|Dobravesh]] is the largest grain market and holds a granary monastery beside the prince's granary, and [[place-tvskvsh|Tveskavesh]] is the pass market at the foot of the range; the rest are listed below.
+The Princedom of Zhitavesh holds the grain lowlands of the black-earth belt, from the river meadows at its seat to the foot of the southern range. It has more people than either of the other two river-princedoms and the fullest barns in Velanthia: its villages sow wheat, rye and flax, its mills grind for the barges, and the monasteries of its towns keep the reserve that carries the land through a bad year. About 650,000 people live on its land, among them the 180,000 of the [[affiliation-hstsvrt|Sevret Host]] and the [[affiliation-hstkhrd|Khorad Host]], which hold its south-eastern margin under the prince. The seat is [[place-zhtvsh|Zhitavesh]]. Of its other towns, [[place-dbrvsh|Dobravesh]] is the second grain market of the lowlands and holds a granary monastery beside the prince's granary, and [[place-tvskvsh|Tveskavesh]] is the pass market at the foot of the range; the rest are listed below.
 
 ## How It Is Ruled {#how-it-is-ruled}
 
@@ -149,7 +149,7 @@ The lowland houses count the oldest princely line on the central river. When the
 : the seat
 
 [[place-dbrvsh|Dobravesh]]
-: the lowland's largest grain market
+: the lowland's second grain market
 
 [[place-tvskvsh|Tveskavesh]]
 : the pass market at the foot of the range
