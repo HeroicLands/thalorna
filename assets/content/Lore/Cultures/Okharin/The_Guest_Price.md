@@ -210,5 +210,5 @@ Tomorrow, if a man comes up the road, you will hold out the bowl.
 [[affiliation-talumengtrb|The Tálumeng]]
 : the cattle tribe of the open plains, whose lineages keep the telling
 
-[[lore-okharinclt|Okharin]]
+[[lore-okharinclt|Okharik]]
 : the stranger's milk at the gate, the public feast, and the moot

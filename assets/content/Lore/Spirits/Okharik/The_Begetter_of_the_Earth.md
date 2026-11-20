@@ -22,7 +22,7 @@ Met through
 
 Pemburari Khutheling governs fertility without distinguishing its kinds: the sown field, the
 pregnant herd and the birthing-house are one domain, and the same cairn serves all three. This is
-the zohira most [[lore-okharinclt|Okharin]] people deal with most often, and the one whose observances are most thoroughly
+the zohira most [[lore-okharinclt|Okharik]] people deal with most often, and the one whose observances are most thoroughly
 woven into ordinary life rather than reserved to shamans.
 
 A birth is attended by a shaman where one is available and by the household where one is not, and

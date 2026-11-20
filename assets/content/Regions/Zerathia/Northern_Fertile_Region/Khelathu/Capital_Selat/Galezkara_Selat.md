@@ -37,6 +37,10 @@ The great temple-complexes are economic enterprises in their own right, owning f
 - The great temples—the [[affiliation-uqaa|cult of Uqa'a]] that defines official doctrine chief among them
 - The royal necropolis on the western bank—pyramids and rock-cut tombs of eighteen centuries of dynasties, from the Crossing to the Mound onward
 
+## Current Situation {#present}
+
+The ring of temple-towns and workshop-towns round Galezkara lives on the barges that arrive at the grain quay, and a short flood makes every barge count. The market-villages of the hinterland sell what their dense plots yield, at higher prices, to a city that eats more than the selat grows. Across the river the necropolis-cities of Zu-Gezer and the tomb-workers' settlements behind them are steady trades where others thin, since the temples pay their workers in grain. In [[place-garqethar|Gar-Qethar]], where the low warrens stand over the old famine pits, the dole is queued for earlier each morning.
+
 ## Settlements {#settlements}
 
 The selat's settlement pattern is a single great metropolis ringed by temple-towns, workshop-towns and the necropolis-cities of the western bank.
@@ -47,7 +51,7 @@ Galezkara (~450,000)
 : the imperial city and seat of the Gar-Au, by far the largest city in the empire: palace, great temples, bureaus, and the polyglot crowd of a capital that draws in the whole realm.
 
 [[place-yathtelgu|Yath-Telgu]] (~4,000)
-: the sacred island in the river at its center, with the [Great Temple of Uqa'a]{.name data-type="place/structure"} and the palace.
+: the sacred island in the river at its center, with the [[place-greattempluqaa|Great Temple of Uqa'a]] and the palace.
 
 The bank of the dead and the temple-towns:
 
@@ -58,7 +62,7 @@ The bank of the dead and the temple-towns:
 : the burial fields on either side of Zu-Gezer, where everyone below the throne is laid to rest.
 
 [[place-garlegulu|Gar-Legulu]] (~30,000)
-: a temple-estate town east of the capital: the granaries, workshops and tenant-villages of one of the great cult-temples, a town that exists to feed and serve its god.
+: a temple-estate city east of the capital: the granaries, workshops and tenant-villages of one of the great cult-temples, a city that exists to feed and serve its god.
 
 The hinterland villages: the dense farm-and-market country around the capital holds scores of villages, many of 500–3,000 people. Among them are [[place-iuguleri|Iugu-Leri]], [[place-garzekhemu|Gar-Zekhemu]] (180), [[place-zmabelgen|Zma-Belgen]], [[place-khelutathen|Khelut-Thelqen]], [[place-yathzabes|Yath-Zabes]], [[place-garger|Gar-Ger]], [[place-sheluzu|Shelu-Zu]], [[place-anlaghthawu|Anlagh-Thawu]], [[place-amqelagefu|Amqel-Agefu]] and [[place-lutregyt|Lut-Regit]]. Each renders grain, beer and labor to the capital and the temples, and each lies within a half-day's barge of the great city's markets.
 

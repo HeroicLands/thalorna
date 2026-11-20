@@ -18,11 +18,15 @@ data:
 
 ## The Ways
 
-A single short road climbs from the cultivated edge to a shelf of pale rock above [[place-lenennezut|Lenen-Nezut]]. It crosses the shelf once, and the three royal tombs of the house of [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"} stand along it, each cut into the rock of the scarp and fronted with a chapel of mud-brick. The road is laid out in imitation of a dynasty's Way at [[place-zugezer|Zu-Gezer]]: a crossing-road off a spine, with the tombs of the Gar-Auu ranked along it. There is no spine and no necropolis for it to cross; the Way is the whole of the place.
+A single short road climbs from the cultivated edge to a shelf of pale rock above [[place-lenennezut|Lenen-Nezut]]. It crosses the shelf once, and the three royal tombs of the house of [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]] stand along it, each cut into the rock of the scarp and fronted with a chapel of mud-brick. The road is laid out in imitation of a dynasty's Way at [[place-zugezer|Zu-Gezer]]: a crossing-road off a spine, with the tombs of the Gar-Auu ranked along it. There is no spine and no necropolis for it to cross; the Way is the whole of the place.
 
 ## How It Was Made
 
 The three tombs are those of the Gar-Auu who reigned from Lenen-Nezut for sixty-nine years and were buried at home, outside the row at the capital ([[lore-thronelnz|the Throne at Lenen-Nezut]]). The first was cut for [Zab'el'Psaqa I]{.name data-type="being/npc"}, crowned in 1462 ST (649 BF), and the last holds [Zab'el'Psaqa III]{.name data-type="being/npc"}, killed in the wheat at [[place-iqeru|Iqeru]] in 1531 ST (580 BF) ([[lore-twothrones|the War of the Two Thrones]]). The road was meant to be the first of a long row, and it is the whole of it, because the house that built it lost its throne before it could lay a fourth tomb.
+
+## Layers {#history}
+
+The Ways hold the Gar-Auu of the upriver house that ruled from Lenen-Nezut from 1462 ST (649 BF) until the last was killed at Iqeru in 1531 ST (580 BF) ([[lore-thronelnz|the Throne at Lenen-Nezut]], [[lore-twothrones|the War of the Two Thrones]]).
 
 ## What Is There Now {#present}
 

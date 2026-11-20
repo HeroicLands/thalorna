@@ -140,7 +140,7 @@ function is distributed across four roles, and individuals commonly hold more th
 There is no hierarch and no single voice. Where the tradition must decide something, a council of
 Spirit-Speakers and Elder Shamans decides it, the elders' word carrying the greater weight, and
 consensus is sought rather than imposed. Where the tradition must decide something that touches
-all five clans, it goes instead to the [Great Lubemo]{.name data-type="affiliation/governmental"}, which is a political body and not a
+all five clans, it goes instead to the [[affiliation-greatlubemo|Great Lubemo]], which is a political body and not a
 religious one.
 
 ### Relationship to Other Faiths

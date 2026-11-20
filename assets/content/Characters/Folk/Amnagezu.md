@@ -12,7 +12,7 @@ data:
   occupation: "Chancellor of Records"
   lore: []
   culture: khelathiclt
-  homes: [amqelulegez]
+  homes: [amqelulegez, yathtelgu]
   affiliations: {}
   gender: "female"
   species: humanflk
@@ -34,12 +34,24 @@ data:
     mouth: full
     extra_features: []
   packFolder: regkhfolk
+  items:
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: archivekeys
+      name: Record-keys of the archive annex (bronze)
+      kind: miscgear
+      system: {weight: 1}
 ---
 
 # Appearance {#appearance}
 
-Amnagezu is a 38-year-old woman who stands 5'7" tall with a medium build. She has golden skin, black hair, and dark brown eyes.
+Amnagezu is a 37-year-old woman who stands 5'7" tall with a medium build. She has golden skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Amnagezu holds the chancellorship of records in [[place-amqelulegez|Amqelu-Legez]], a post several administrations have come and gone without displacing them. They know where every document in the archive sits and say so only when asked. Anyone who needs a record retrieved quickly learns to ask the question precisely, because a vague one gets a vague answer.
+Amnagezu holds the chancellorship of records in [[place-amqelulegez|Amqelu-Legez]], a post several administrations have come and gone without displacing her. She knows where every document in the archive sits and says so only when asked, and a vague question gets a vague answer.
+
+The archive keeps an annex on the sacred island of [[place-yathtelgu|Yath-Telgu]], where the reckonings of the selatu are shelved beside the king-list.

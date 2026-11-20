@@ -58,7 +58,7 @@ Founded
 
 ## Overview {#overview}
 
-The Bethuan Trade-Houses are the great matriarchal clans that dominate the [[affiliation-mtrrchybth|Bethuan]] commercial economy. Each house is a clan—extended kin-network led by a matriarch and inherited through the female line—with substantial wealth in coastal estates, premium-export production (Bethuan wine, olive oil, preserved fruits, fine horses), and trade relationships with the [[place-vylarianse|Vilérian Sea]] ports, the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the wider [[place-nrthrnfrtlrgn|Northern Fertile Region]]. They are not formally a government institution; the [[affiliation-mtrrchybth|Matriarchy of Bethua]] is its own thing, governed by the [[affiliation-mtrrchybth|Metrissa]] through the Two Pillars—the [Sacred College]{.name data-type="affiliation/governmental"} of priestesses and the [Council of Houses]{.name data-type="affiliation/governmental"} of the clan-matriarchs. The Houses are the commercial powers that operate alongside the political authority, often overlapping with it (many priestesses are also matriarchs of trading houses; many royal officials are drawn from trade-house families) but distinguishable in function.
+The Bethuan Trade-Houses are the great matriarchal clans that dominate the [[affiliation-mtrrchybth|Bethuan]] commercial economy. Each house is a clan—extended kin-network led by a matriarch and inherited through the female line—with substantial wealth in coastal estates, premium-export production (Bethuan wine, olive oil, preserved fruits, fine horses), and trade relationships with the [[place-vylarianse|Vilérian Sea]] ports, the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the wider [[place-nrthrnfrtlrgn|Northern Fertile Region]]. They are not formally a government institution; the [[affiliation-mtrrchybth|Matriarchy of Bethua]] is its own thing, governed by the [[affiliation-mtrrchybth|Metrissa]] through the Two Pillars—the [[affiliation-sacredcollege|Sacred College]] of priestesses and the [[affiliation-councilhouses|Council of Houses]] of the clan-matriarchs. The Houses are the commercial powers that operate alongside the political authority, often overlapping with it (many priestesses are also matriarchs of trading houses; many royal officials are drawn from trade-house families) but distinguishable in function.
 
 The federation of the Houses—the formal recognition that the leading trade-houses act collectively on certain commercial questions—is two centuries old and is itself a Bethuan response to the institutional pressures of doing business with much larger trading economies. The federation negotiates collectively with [[affiliation-tevran|the Tevran Maldor]], the Vilérian institution (which recognizes Bethuan goods and producers through its standing trade-recognition arrangements, even though Bethua is not a member territory), with the Khelathi [[affiliation-garhalzi|Gar-Hálzi]] (which maintains formal correspondent arrangements with the major Houses), and with the Taruzelian [[affiliation-vezakuni|Vezakuni]] (where the Bethuan exporting class has been the principal beneficiary of post-secession Taruzelian trade re-routing through the Northern Fertile Region).
 
@@ -84,7 +84,7 @@ The smallest tier—recently-formed houses, regional specialty merchants, and th
 
 ## Governance
 
-The Houses' formal federation is governed by the [Council of Matriarchs]{.name data-type="affiliation/governmental"}—the assembled matriarchs of the Great Houses, meeting twice a year at the federation's principal hall at the capital city of [[place-bethura|Bethura]]. The Council sets the standing protocols by which the Houses recognize each other's letters of credit, adjudicates inter-House commercial disputes, coordinates federation-wide diplomatic positions, and admits or expels member houses.
+The Houses' formal federation is governed by the [[affiliation-councilmatriarchs|Council of Matriarchs]]—the assembled matriarchs of the Great Houses, meeting twice a year at the federation's principal hall at the capital city of [[place-bethura|Bethura]]. The Council sets the standing protocols by which the Houses recognize each other's letters of credit, adjudicates inter-House commercial disputes, coordinates federation-wide diplomatic positions, and admits or expels member houses.
 
 The Council does not have a single chief officer—the matriarchal political culture resists single-figure authority—but selects a **Speaker of the Council** for each session, chosen by consensus from among the present matriarchs. The Speaker presides over the session, frames the questions, and announces the rulings; the role rotates among the Great Houses' matriarchs and carries prestige but not standing executive authority.
 
@@ -92,11 +92,11 @@ Day-to-day federation administration is handled by a small staff of clerks and t
 
 ## Notable Matriarchs
 
-Matriarch [Aselia]{.name data-type="being/npc"} of House Khalath-Mara
+Matriarch [[being-aseliakhlthmr|Aselia of House Khalath-Mara]]
 : current senior matriarch by age and clan-precedence; thirty-five years in her position; widely regarded as the most politically capable Bethuan trade-house figure of her generation; presumed to be the dominant voice on the Council when she chooses to speak.
 
 Matriarch [Bera]{.name data-type="being/npc"} of House Bera-Sehel
-: eponymous matriarch of her clan; rising figure; substantial military-supply contracts with the Khelathi selat administrations; politically aligned with the reformist priestesses of the [Court of the Veil]{.name data-type="affiliation/governmental"}.
+: eponymous matriarch of her clan; rising figure; substantial military-supply contracts with the Khelathi selat administrations; politically aligned with the reformist priestesses of the [[affiliation-courtveil|Court of the Veil]].
 
 Matriarch [Othris]{.name data-type="being/npc"} of House Othris-Khanu
 : head of the principal Bethuan maritime house; conducts substantial business with Vilérian Sea ports; the Bethuan-side counterparty most familiar to Vilérian merchant captains.
@@ -120,7 +120,7 @@ The [[affiliation-garhalzi|Gar-Hálzi]]
 : the Houses' principal foreign-banking counterparty. Each Great House maintains correspondent accounts with one or more Khelathi temples; the strongest such relationships (House Khalath-Mara with Galezkara, House Bera-Sehel with Gar-Anlaghet) are the principal channels through which Bethuan commerce reaches the broader Northern Fertile Region. The relationships are private and vary by individual arrangement.
 
 [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]
-: Okhárian commercial peer. The Houses maintain modest correspondent relationships with the principal Okhárian crown-trade offices; cross-territory commerce between Bethua and Okharis flows through these arrangements as well as through direct Khelathi-mediated routes.
+: Okharik commercial peer. The Houses maintain modest correspondent relationships with the principal Okharik crown-trade offices; cross-territory commerce between Bethua and Okharis flows through these arrangements as well as through direct Khelathi-mediated routes.
 
 The Vilérian The [[affiliation-danvar|Danvar]]
 : formal trade-recognition arrangement at the port cities. Vilérian merchant captains operating out of Helionite ports trade regularly with Bethuan houses; the Danvar honors Bethuan letters of credit at trading-port chapters by standing arrangement (rare and political; not all Danvar chapters participate). Bethuan letters not bearing such arrangement are exchanged for physical metal at the port changers.
@@ -133,6 +133,14 @@ The [[affiliation-vezakuni|Vezakuni]]
 Each matriarchal trade-house has its own ancestral seal—typically combining a clan-symbol (an animal, a plant, an architectural feature of the ancestral villa) with the matriarch's personal mark. Letters of credit, formal correspondence, and commercial seals all bear the house seal. House membership is signaled informally by clan-jewelry—distinctive necklaces, rings, or hair-ornaments worn by family members in formal settings.
 
 The federation as a whole does not maintain a unified emblem; the matriarchal political culture rejects the kind of imperial-style centralizing symbolism that the Vilérian Tevran Maldor uses.
+
+## The Present Quarrel {#present}
+
+The Khelathi flood has failed two years running, and the Houses see the aqueduct grain of Bethua as the northern shore's one reliable surplus. The [[affiliation-councilhouses|Council of Houses]], where their matriarchs sit with the grandees of the other two bodies, presses the Metrissa to sell it to Bethua's Khelathi patron. A sale fills the Houses' Gar-Hálzi correspondent accounts at the moment when Viléria is squeezing their letters of credit, and it keeps the patron's favor. Most of the grain would go east by the coast road past Gezazabu, paying the toll there, and the Houses that own the warehouses and the carters stand to take the margin.
+
+The [[affiliation-sacredcollege|Sacred College]] wants the grain kept in the cisterns against a dry year of Bethua's own, and the Houses that hold land in the qanat-fed cantons feel the argument. A sale that empties the cisterns leaves their own tenants with nothing, and a patron that has bought the realm's bread has a say in how it is governed. The Houses therefore divide: the great exporters with the heaviest Vilérian debts press hardest for the sale, and the landed Houses lean toward the College. The Metrissa has not chosen, and her standing with both councils turns on the choice.
+
+The late tribute of the [[place-sthmrchsrgn|South Marches]] touches them too. The Marches Road is the way a House's caravans reach the east without the northern ports, and the Jackals hold its western stages while the patrols are stretched.
 
 ## Plot Hooks
 

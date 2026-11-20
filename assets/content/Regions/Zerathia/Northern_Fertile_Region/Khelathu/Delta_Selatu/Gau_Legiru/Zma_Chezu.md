@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [gaulegirunome]
-  population: 0
+  population: 270
+  type: village
+  market: local
+  government: selatgaulegr
   packFolder: regkhsett
   banner: khelathubnr
   notes: "One of the orchard villages of the Gau-Legiru garden strip, living by its groves and its press"

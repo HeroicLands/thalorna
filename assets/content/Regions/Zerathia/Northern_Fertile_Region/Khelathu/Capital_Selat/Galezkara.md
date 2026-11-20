@@ -11,7 +11,7 @@ data:
   lore: []
   parents: [galezkaraslt]
   population: 450000
-  type: city
+  type: metropolis
   market: international
   packFolder: regkhsett
   government: empireakhlth
@@ -24,7 +24,7 @@ data:
 
 "Stand here, at the foot of the bridge, and face the island," a young priest of [[affiliation-uqaa|Uqa'a]] tells a party of pilgrims at first light. "Behind you the city is born every morning. In front of you is the mound where the world began. Beyond it, across the second channel, is where the sun goes to die each evening, and where the kings went before it. Everything in Galezkara is in that order. Learn the order and you will never be lost here."
 
-The mound at its heart is as old as the count of years, and for about eighteen centuries, since the court crossed to it in 1006 ST (1105 BF; [[lore-crossmound|the Crossing to the Mound]]), the city has been the seat of the oldest civilization in [[place-worldthlrn|Thalorna]]. It carries that age in stone: the temple complexes that define the empire's official doctrine; the palace where the Gar-Au rules through ritual and ceremony; the bureaus and treasuries of the central administration; the council halls of the [[affiliation-genzetpalu|Genzet'Palu]]; and the scribal schools that staff the realm. Midstream, on the island held to be the mound where creation began, stand the palace and the [Great Temple of Uqa'a]{.name data-type="place/structure"}. Across the water on the western desert shore lie the necropolises, the pyramids and rock-cut tombs of every house that has ruled from the city; the first two houses, which ruled before the Crossing, lie upriver at [[place-zugernome|Zu-Ger]].
+The mound at its heart is as old as the count of years, and for about eighteen centuries, since the court crossed to it in 1006 ST (1105 BF; [[lore-crossmound|the Crossing to the Mound]]), the city has been the seat of the oldest civilization in [[place-worldthlrn|Thalorna]]. It carries that age in stone: the temple complexes that define the empire's official doctrine; the palace where the Gar-Au rules through ritual and ceremony; the bureaus and treasuries of the central administration; the council halls of the [[affiliation-genzetpalu|Genzet'Palu]]; and the scribal schools that staff the realm. Midstream, on the island held to be the mound where creation began, stand the palace and the [[place-greattempluqaa|Great Temple of Uqa'a]]. Across the water on the western desert shore lie the necropolises, the pyramids and rock-cut tombs of every house that has ruled from the city; the first two houses, which ruled before the Crossing, lie upriver at [[place-zugernome|Zu-Ger]].
 
 Tribute and delegations come in from thirty-nine selatu. Ambassadors from the [[affiliation-vylarinmpr|Vilérian Empire]] and the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] keep houses near the palace, the festival calendar fills the streets with processions and feasts, and the markets are the most crowded and polyglot in the interior. Grain barged down from [[affiliation-upperrivrslt|the Upper River Selatu]] and from the dense farm-and-temple country of the surrounding selat feeds it all. Nowhere else in [[place-xerathia|Zerathia]] holds so many people, so much wealth, ritual and power in one place.
 
@@ -34,7 +34,7 @@ Tribute and delegations come in from thirty-nine selatu. Ambassadors from the [[
 
 At Galezkara the river widens and divides around a large island, and the city has three parts: the living city on the eastern, dawn-side bank; [[place-yathtelgu|the Sacred Island]] in the channel; and the necropolis on the western desert shore where the sun goes down. The arrangement is theology laid out on the ground. The [[lore-khelathiclt|Khelathi]] hold that the sun is born in the east, rides to its height at noon and dies into the west each day, and that the island is the primeval mound that first rose from the waters at [[lore-qettelgu|the Qet Telgu]]. So the city of the living, the god's island and the city of the dead lie along the sun's own path, in the order of its daily journey.
 
-[[place-waluqaa|Wal-Uqa'a]] (the Sun's Road) runs dead straight through all of it, and the whole capital is hung upon it. It starts at the eastern edge of the living city and runs in along the spine of the streets, across the [Bridge of the Coming-Forth]{.name data-type="place/structure"} to the Sacred Island, straight through the forecourts of the Great Temple of Uqa'a, and out of the temple's western face onto the [Bridge of the Going-Down]{.name data-type="place/structure"}. That bridge carries it over the second channel and up onto the desert shelf, where it becomes the single avenue of the necropolis.
+[[place-waluqaa|Wal-Uqa'a]] (the Sun's Road) runs dead straight through all of it, and the whole capital is hung upon it. It starts at the eastern edge of the living city and runs in along the spine of the streets, across the [[place-bridgecomingfrth|Bridge of the Coming-Forth]] to the Sacred Island, straight through the forecourts of the Great Temple of Uqa'a, and out of the temple's western face onto the [[place-bridgegoingdwn|Bridge of the Going-Down]]. That bridge carries it over the second channel and up onto the desert shelf, where it becomes the single avenue of the necropolis.
 
 The road is laid to the solstice line:
 
@@ -62,7 +62,7 @@ The banks differ in substance too, and the flood explains why. Only what is mean
 
 The island, Yath-Telgu (the First Mound), is the holiest ground in the empire and the only part of the capital ringed by a true fortified wall, white-plastered and visible for leagues. Inside it stand the Great Temple of Uqa'a, a mass of courts, pylons and obelisks that a hundred reigns have each added to, and the palace of the Gar-Au, with its gardens, audience halls and the bureaus of the inner court.
 
-Here too is [The Measure]{.name data-type="place/structure"}, the igelu-gauge: a graduated well and stair, kept by the priests of Uqa'a, where the height of the rising flood is read each year. The reading predicts the harvest and sets the year's taxes, and it is proclaimed to the city as the most important number in the empire. Two great bridge-causeways on the Sun's Road reach the island, and so does the sacred barge. The temple, the palace and the Measure are described in full in the Yath-Telgu note.
+Here too is [[place-themeasure|The Measure]], the igelu-gauge: a graduated well and stair, kept by the priests of Uqa'a, where the height of the rising flood is read each year. The reading predicts the harvest and sets the year's taxes, and it is proclaimed to the city as the most important number in the empire. Two great bridge-causeways on the Sun's Road reach the island, and so does the sacred barge. The temple and the Measure have notes of their own, and Yath-Telgu describes the island.
 
 ### The Living City {#the-living-city}
 
@@ -124,7 +124,7 @@ Galezkara answers to three powers at once, and the friction between them is the 
 - **The Zeglar**, chief minister and supreme judge, runs the civil administration of the city and of the empire through the ministry of [[affiliation-garzeglar|Gar-Zeglar]], from his bureaus in Gar-Medjatozo. He is in all but name the mayor of the capital, and the second man in the realm.
 - The great temples cut across both. Each major temple precinct is a near-sovereign enclave that owns its lands, feeds its own people, keeps its own guards and courts, and answers to its high priest before it answers to the city. A fugitive who reaches temple ground, or a dispute that touches a god's estate, passes out of the Zeglar's hands entirely.
 
-The [Meglai]{.name data-type="affiliation/governmental"}, the standing city guard, keeps order in the public city. It is separate from the army and separate again from the necropolis guard across the water. Its men walk the quarters and the quays, guard the gates of the walled enclosures after dark, chase thieves, break up brawls and double as the fire-watch; their posts stand in every district, the largest by the markets and the harbor where trouble gathers.
+The [[affiliation-meglai|Meglai]], the standing city guard, keeps order in the public city. It is separate from the army and separate again from the necropolis guard across the water. Its men walk the quarters and the quays, guard the gates of the walled enclosures after dark, chase thieves, break up brawls and double as the fire-watch; their posts stand in every district, the largest by the markets and the harbor where trouble gathers.
 
 Justice runs in tiers below the Zeglar. A magistrate's court, the local Genzet, sits in each quarter and hears market disputes, debts and petty crime under the eye of [[lore-qearetdty|Qe'aret]]; graver matters of blood and theft rise to the higher courts; and anything touching a temple, a noble house or the crown leaves the civic system altogether. Here as everywhere the law bends to the right name and the right purse. In a city this closely watched, the wrong enemies are as dangerous as the wrong crimes.
 
@@ -138,7 +138,7 @@ Galezkara is also the most foreign-touched place in the interior. Taruzelian and
 
 A city on the greatest river in the world still minds its water. The river runs thick with silt, and fouler where the city's drains meet it, so Galezkara drinks from wells, cisterns and settling-jars, and the wealthy from spring-fed conduits. In the heat of low water the poor quarters go thirsty while the river slides past their doors. The flood that renews the fields fouls the wells when it crests, and the weeks of the inundation are counted an unhealthy season.
 
-Bread comes from upstream. The grain of [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]] and the upper river is barged down, stored in the city's great granaries, and given out in part as a dole to temple dependents, the flood-season work-gangs and the registered poor. As in any capital, the dole is statecraft as much as charity: a hungry Galezkara is a dangerous one, and whoever controls the granaries holds a lever on the city's peace—a lesson written in stone across the water on the cursed road.
+Bread comes from upstream. The surplus of each year's flood, the grain of [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]] and the upper river, is barged down with the tribute grain that the selatu owe the throne, stored in the city's great granaries, and given out in part as a dole to temple dependents, the flood-season work-gangs and the registered poor. As in any capital, the dole is statecraft as much as charity: a hungry Galezkara is a dangerous one, and whoever controls the granaries holds a lever on the city's peace—a lesson written in stone across the water on the cursed road.
 
 Fire is a lesser hazard here than in the timber cities of the west, because mudbrick does not burn. Roofs, market stalls, workshops and above all the grain-dust of the granaries do, and a blaze in the crowded craft quarters of Lut-Lemu can run from lane to lane before the Meglai's fire-gangs and the walled enclosures between districts pen it in.
 
@@ -177,6 +177,10 @@ The Meglai and the Zeglar's courts
 The tomb-robbing underworld
 : organized plunder of the dead, the black market in grave goods, and the hunted cults
 
+## History {#history}
+
+The court crossed to the mound in 1006 ST (1105 BF), and every house since has ruled the valley from Galezkara except the throne at [[place-lenennezut|Lenen-Nezut]] from 1462 to 1531 ST and the court at [[place-maguathen|Magu-Thelqen]] from 1790 to 1822 ST ([[lore-crossmound|the Crossing to the Mound]]). The Sun's Road was laid out in that reign and the oldest quarters grew along it ([[lore-akhsunroad|The Sun's Road]]), and the capital has outlasted every house of the king-list ([[lore-khelathhist|the History of Au'Khelathu]]).
+
 ## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]
@@ -195,7 +199,7 @@ The tomb-robbing underworld
 : the burial fields of everyone else
 
 [[place-garlegulu|Gar-Legulu]]
-: temple-estate town of the selat
+: temple-estate city of the selat
 
 [[affiliation-genzetpalu|Genzet'Palu]]
 : [[affiliation-genzetpalu|Council of the Nobles]] · [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods (Uqa'a, Saq'aru)

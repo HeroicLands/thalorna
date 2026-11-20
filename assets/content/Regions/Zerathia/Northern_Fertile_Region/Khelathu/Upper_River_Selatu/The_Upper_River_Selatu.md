@@ -110,6 +110,18 @@ Eighteen selatu make up the upper-river class, each under its hereditary [[affil
 
 Upper-river total: about 8,000,000.
 
+## Current Situation {#present}
+
+The eighteen river selatu grow the empire's grain, and two low floods have made the harvest the empire's anxiety. The Overseer of the Granaries, who keeps office at [[place-anlaghzetun|Anlagh-Zetun]], reckons the grain-render of every selat after each harvest and reports to the throne what each owes. The figures he reports are lower than the court expected and cannot easily be disputed: the Measure explains most of the shortfall. The Granary-Keepers answer for every sack received and every sack sent downriver, and each of them knows what the sacks sent downriver are being asked to do.
+
+The Halzi'a of the river are conservative landowners who measure time in floods, and the capital suspects them of holding back more than the flood obliges them to lose. Their scribes enter each shortfall as the river's. Nobody has defied the throne. The feud between the river traditionalists and the Gar-Au's reformers is older than this reign, and the failing flood gives the traditionalists their best argument: that a throne which cannot keep the river should not tell the river's lords how to keep their grain.
+
+:::secret {title="The river lords' granary books"}
+A Halzi'a keeps part of the render in his own sacks against a third bad year, and his scribes enter the sacks as the river's shortfall. The suspicion in the capital is correct.
+:::
+
+[[being-anlaghur|Anlaghur]], the Gar-Au's nephew, is at home in Anlagh-Zetun, the group's seat. The question of the succession has a landlord's address, and the Halzi'a of the upper river, who hold the grain that decides the capital's winter, are courted by every faction that would have it answered differently. The upper river has shut its granaries against a throne before, and [[place-eleventhgran|the Eleventh Granary]] is still sealed.
+
 ## For the Worldbuilder
 
 Run the upper river as the empire's deep, conservative interior—temple-bound, hereditary and slow to change, a country of granaries and gods. The real powers are the landowning Halzi'a and the high priests of the great cult-temples, and the capital's writ runs only as far as the Halzi'a allow.
@@ -131,7 +143,7 @@ The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], but m
 [[place-zumeleshrvr|The Zumelesh]]
 : the river that floods these fields
 
-[[place-zelgeru|The Zelgeru]]
+[[lore-zelgeru|The Zelgeru]]
 : the great temple-estates
 
 [[affiliation-khelathpnthn|Khelathi Pantheon]]

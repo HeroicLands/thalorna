@@ -62,13 +62,13 @@ A throne name is the first thing a reign says. In 1671 ST (440 BF) the priesthoo
 
 ## The Last of the Hill House
 
-The [Tha'Ulgau]{.name data-type="affiliation/lineage"} had held the throne since 1612 ST (499 BF), when the priesthood crowned their chief after the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-thaulgau|the Coming of the Tha'Ulgau]]). Four reigns filled fifty-nine years. The fourth, crowned [Legir'Uzner I]{.name data-type="being/npc"}, "fair of the healer," in 1648 ST (463 BF), went to the West in 1671, and the list closes the house in the formula it uses for any other.
+The [[affiliation-thaulgau|Tha'Ulgau]] had held the throne since 1612 ST (499 BF), when the priesthood crowned their chief after the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-thaulgau|the Coming of the Tha'Ulgau]]). Four reigns filled fifty-nine years. The fourth, crowned [Legir'Uzner I]{.name data-type="being/npc"}, "fair of the healer," in 1648 ST (463 BF), went to the West in 1671, and the list closes the house in the formula it uses for any other.
 
 Nobody struck the house. It was not a house of the kind the list scrapes from the walls, and the priesthood had crowned it. It was ended and its kin put somewhere.
 
 ## The House Raised
 
-The priesthood of [[affiliation-uqaa|Uqa'a]] raised [Azlet'Ralu]{.name data-type="affiliation/lineage"}, and its first Gar-Au took the name Gez'el'Retha, the third to wear it. The first two belonged to the First House and to [Azlet'Kutu]{.name data-type="affiliation/lineage"}, and almost seven centuries had passed since the last. A name from the oldest depth of the list on a throne the nomads had held says that the crown is the old crown again, and that what happened between is a gap in the count and not a house in it.
+The priesthood of [[affiliation-uqaa|Uqa'a]] raised [Azlet'Ralu]{.name data-type="affiliation/lineage"}, and its first Gar-Au took the name Gez'el'Retha, the third to wear it. The first two belonged to the First House and to [[affiliation-azletkutu|Azlet'Kutu]], and almost seven centuries had passed since the last. A name from the oldest depth of the list on a throne the nomads had held says that the crown is the old crown again, and that what happened between is a gap in the count and not a house in it.
 
 ## The Kin
 

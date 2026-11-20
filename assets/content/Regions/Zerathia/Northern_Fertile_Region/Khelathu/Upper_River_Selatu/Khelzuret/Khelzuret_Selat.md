@@ -39,6 +39,10 @@ The mortuary industry is the economy. Embalming, tomb construction and decoratio
 - The natron flats and resin-stores that supply the mummification trade
 - The pilgrim-road and the festival of the dead that draws the whole empire
 
+## Current Situation {#present}
+
+The temple-city of Khelzuret and its west-bank necropolis draw the empire's largest pilgrimage, and the villages and the embalmers' quarters depend on it. In a hungry year the pilgrims arrive fewer and poorer, and the markets that feed them are quieter. The walled company-town of Zel-Qar, whose tomb-workers cut and paint the great tombs, draws its rations from the selat's granaries, and the workers' complaints are the ones that the Halzi'a hears first. The villages of the selat bury more of their own than usual.
+
 ## Settlements {#settlements}
 
 Khelzuret (~90,000)

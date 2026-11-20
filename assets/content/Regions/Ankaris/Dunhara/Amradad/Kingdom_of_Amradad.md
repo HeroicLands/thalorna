@@ -81,6 +81,7 @@ data:
     khzrncnfdrtn: aligned
     cnclprinces: aligned
     bhumipal: unaligned
+    blackflame: rival
   packFolder: amradad
 sohl: {system: {commonSkills: [dunharlng]}}
 
@@ -99,7 +100,7 @@ The court at [[place-shebarakhend|Shebarakhend]] is a seat of learning and patro
 
 ## Governance {#how-it-is-ruled}
 
-The Shebarader rules in his own right. His orders pass through the **Grand Vashkader**, who heads the administration, to the vashkaders of the treasury, the army, the post and the waters, and from them to a governor (_tagemader_) in every city and oasis. A judge (_vazhmader_) sits in each city, ruling by law and custom and administering the pious endowments of the temples; a market inspector (_nuzgader_) checks weights and measures and public morals, and is the most resented man in any city. The **Keeper of the Wells** rules on the oases' water rights, and his rulings decide which caravans may cross. The **Master of the Post** keeps the courier roads, and with them most of what the Shebarader knows.
+The Shebarader, [[being-smrdnsvdr|Samardan Sivadar]], rules in his own right. His orders pass through the **Grand Vashkader**, who heads the administration, to the vashkaders of the treasury, the army, the post and the waters, and from them to a governor (_tagemader_) in every city and oasis. A judge (_vazhmader_) sits in each city, ruling by law and custom and administering the pious endowments of the temples; a market inspector (_nuzgader_) checks weights and measures and public morals, and is the most resented man in any city. The **Keeper of the Wells** rules on the oases' water rights, and his rulings decide which caravans may cross. The **Master of the Post** keeps the courier roads, and with them most of what the Shebarader knows.
 
 The Shebarader's power is real and it has limits. The priests of the fire-temples hold great landed wealth and spiritual authority, and in every city the governor and the high priest each need the other. The great caravan-masters are chartered by the Shebarader and answer to him for their dues, and they know to the coin how much of his treasury they fill.
 
@@ -111,7 +112,7 @@ On the desert edge, trade with the tribes goes on beside the grudges. The tribes
 
 ## Arms {#arms}
 
-The **Ghedvader of the Host** commands the standing army in the field, and the army sits where the roads and the wells need it. A mounted garrison at Tahrodan keeps the caravan roads clear for a day's ride around the crossroads. The southern host at [[place-qarvelakhend|Qarvelakhend]], under a _ghedvader_ of its own, watches the desert edge and pays and supplies the [Kinless Watch]{.name data-type="place/structure"}, a fort on the road to the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] whose garrison are men cast out by their tribes. A guard of the court holds Shebarakhend, and every tagemader keeps a garrison of his town. The army holds walls and wells well and moves slowly; it does not follow raiders into the open desert.
+The **Ghedvader of the Host** commands the standing army in the field, and the army sits where the roads and the wells need it. A mounted garrison at Tahrodan keeps the caravan roads clear for a day's ride around the crossroads. The southern host at [[place-qarvelakhend|Qarvelakhend]], under a _ghedvader_ of its own, watches the desert edge and pays and supplies the [[place-kinlesswatch|Kinless Watch]], a fort on the road to the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] whose garrison are men cast out by their tribes. A guard of the court holds Shebarakhend, and every tagemader keeps a garrison of his town. In the far east each walled town of [[place-threeseas|the Three Seas]] keeps a garrison of the Host under its tagemader, most of them larger than any town guard in the west, against Khazrin steppe bands, the kinless of the desert and the [[affiliation-blackflame|Black Flame]] warbands that cross the northern border. The herding clans of the Three Seas pay the Shebarader's herd tax, in animals, at the town fairs. The army holds walls and wells well and moves slowly; it does not follow raiders into the open desert.
 
 ## Commerce and Currency {#commerce}
 
@@ -129,9 +130,11 @@ The Shebarader claims authority over every Dunhari people, and the tribes find t
 
 Across the strait, relations with the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] are warm. Relations with the [[affiliation-vylarinmpr|Vilérian Empire]] are hostile, and Amradad was among those who helped Taruzel, a Vilérian colony, break free of the empire.
 
-The Kingdom lends the [[affiliation-cnclprinces|Council of the Princes]] the ground it meets on once a year, and the High Shekhul of [[affiliation-ahurdaen|Ahurdaen]] at the [Great Fire-Temple of Amradad]{.name data-type="place/structure"} convenes it. The exile houses hold no place on the Kingdom's ladder. A Tellumi prince is a guest of the throne, received at court by the Shebarader's courtesy and by nothing he can claim; the Tellumi of the quarter stand at law as subjects and notables like any Amradi, and the houses' retinues are tolerated while they stay discreet, since the Kingdom's law forbids them any military activity. That gap between a prince's blood and his standing in Amradad is what the houses' petitions are about.
+The Kingdom lends the [[affiliation-cnclprinces|Council of the Princes]] the ground it meets on once a year, and the High Shekhul of [[affiliation-ahurdaen|Ahurdaen]] at the [[place-grtfiretmpl|Great Fire-Temple of Amradad]] convenes it. The exile houses hold no place on the Kingdom's ladder. A Tellumi prince is a guest of the throne, received at court by the Shebarader's courtesy and by nothing he can claim; the Tellumi of the quarter stand at law as subjects and notables like any Amradi, and the houses' retinues are tolerated while they stay discreet, since the Kingdom's law forbids them any military activity. That gap between a prince's blood and his standing in Amradad is what the houses' petitions are about.
 
 To the north, the [[affiliation-byzarianlg|Bizarian League]]'s [[place-southrnmrch|Southern March]] is border country of customs posts and drovers, and the two keep the peace of neighbors who trade.
+
+The Black Flame has no footing in the Kingdom: no temple and no convert among the Amradi. Its warbands cross the northern border from the hinterlands of Bizaria and Helionis, the fire-temples condemn it, and the Kingdom's garrisons fight its warbands wherever they meet them.
 
 ## Hooks {#hooks}
 

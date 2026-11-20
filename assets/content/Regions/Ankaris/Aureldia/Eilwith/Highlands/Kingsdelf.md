@@ -33,7 +33,7 @@ The levy for the frontier is taking the herders north, and fewer of them are on 
 
 A digger paid by the scholar of the [[affiliation-panepistmm|Epistémion]] who buys the iron turned up on the saddle went up to the north face in the winter to search the quarry ramp for worked stone, and has not come back.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 The nest at Ravenkeld, in the gorges of the Highlands' northern edge, raids the same steadings from the other side, and the two nests fight each other where their raiders meet. The senators' stewards want the peaks quiet and their own houses safe, and they will not pay for a party to stir the quarry up.
 

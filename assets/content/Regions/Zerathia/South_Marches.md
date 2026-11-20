@@ -9,8 +9,12 @@ data:
   demonym: Marcher
   lore: [humanflk]
   parents: [xerathia]
-  borders: [{to: bethuargn, bearing: N}, {to: cntrlrnfrsts, bearing: S}]
-  population: null
+  borders:
+    - {to: bethuargn, bearing: N}
+    - {to: cntrlrnfrsts, bearing: S}
+    - {to: aukhelathrgq, bearing: NE}
+  routes: [{to: bethura, bearing: N, mode: land, days: 10, terrain: [steppe, road]}]
+  population: 500000
   packFolder: xerathia
 
 # terran_analog: "The pre-Saharan steppe south of the Maghreb—the Atlas foothills, the High Plateaus and the northern Sahel: esparto scrub, seasonal wadis and transhumant herders."
@@ -46,7 +50,7 @@ through the dry months, and the Marches' whole wealth.
 
 The frontier with Bethua is a line of water rather than a wall: the
 southernmost qanat-fed strips of the matriarchy's interior, and the frontier
-posts from which companies of the [Spear-Sisterhood]{.name data-type="affiliation/order"} patrol
+posts from which companies of the [[affiliation-spearsisterhood|Spear-Sisterhood]] patrol
 the marches. North of it the canals run and a **Dómissa**'s writ holds. South of
 it nothing does.
 
@@ -59,6 +63,8 @@ of the same stock as the frontier clans of [[place-okharisrgn|Okharis]],
 whose kingdom counts them among its own tribes and whose herding cycles they
 share; the temple-cities are far, though, and a marcher clan answers to
 its own headmen before anyone else.
+
+Two tribes hold the country: [[affiliation-dorumbetribe|the Dorumbe]] in the west, at the foot of the spurs, and [[affiliation-hasembetribe|the Hasembe]] in the east, along the road. Their seats are [[place-dorumbecamp|Dorumbe Camp]] and [[place-hasembecamp|Hasembe Camp]], and about half a million people live in the Marches, nearly all of them in the two tribes' camps.
 
 Their ways are the inversion of everything to their north. A clan's head is a
 man; stock, wells and grazing pass from father to son; men bear arms as a
@@ -88,11 +94,11 @@ or the grass fails.
 
 ## The Free Companies
 
-Country that no realm holds breeds armed bands, and the Marches carry several.
+Country that no realm holds breeds armed bands, and the Marches carry several, which together are [[affiliation-frcmpnssthmrchs|the Free Companies]].
 The most feared of them are
 [[affiliation-jcklsthmrchs|the Jackals of the South Marches]]—not a clan and not
 a marcher tribe, but a warband of the Houseless: exiled Bethuan women and
-cast-out [Spadai]{.name data-type="affiliation"} eunuch-warriors, padded with hired marcher men, under the
+cast-out [[affiliation-spadai|Spadai]] eunuch-warriors, padded with hired marcher men, under the
 renegade spear-sister [[being-argyrirjckl|Argirira the Jackal]]. Mounted, fast
 and at home in waterless country, they strike the herds, caravans and exposed
 villages of the frontier—Bethuan targets by preference. The clans tolerate them, hire them and give them room because they are
@@ -101,12 +107,12 @@ too dangerous to move against lightly.
 
 ## The Road
 
-One road crosses the Marches worth the name: the track that runs from the
+One road crosses the Marches worth the name, [[place-marchesroad|the Marches Road]]: the track that runs from the
 Bethuan frontier along the forage belts and the watering-places, eastward
 across the drylands toward the [[lore-khelathiclt|Khelathi]] frontier and the grazing-margin selatu of
 [[place-aukhelathrgq|Au'Khelathu Region]]. It is the way a caravan takes when the coast is
 closed to it, and the way a fugitive takes who cannot use the northern ports.
-Whoever holds the wells
+Whoever holds the wells ([[place-longwells|the Long Wells]])
 holds the road, and that is the Jackals.
 
 ## Seen from Bethua
@@ -115,9 +121,15 @@ From the north the Marches are where the realm's castoffs go: a runaway
 bound-man flees into the southern marches, a woman stripped of her House rides
 south because there is nowhere else, and out of such exiles has come the one
 thing Bethua fears above all others—a company of armed exiles who know the
-matriarchy's own ways of war and owe it nothing. The [Court of the Veil]{.name data-type="affiliation/governmental"} marks
+matriarchy's own ways of war and owe it nothing. The [[affiliation-courtveil|Court of the Veil]] marks
 the country as its own, collects what tribute it can, patrols the line it can
 hold, and would rather not look past it.
+
+## Current Situation {#present}
+
+The tribute is late. The winter rains came short, the herds went into the dry months thin, and the clans have sent word to the Hégissa of the southern cantons that the stock will come after the autumn drive. Bethua wants it sooner. The riders are home for the drive, the wells that the companies hold have no one watching them, and the companies have more road than they had.
+
+The strain falls first on [[place-marchesroad|the Marches Road]]. The [[affiliation-hasembetribe|Hasembe]] have more caravans asking for escort than riders to give, [[affiliation-jcklsthmrchs|the Jackals]] hold the western stages, and the lesser [[affiliation-frcmpnssthmrchs|Free Companies]] take the wells between. The grain surplus of Bethua makes the country worth more than it was: a caravan that carries it east is a fatter target, and Bethua needs the road quiet and has no one to quiet it. The Hégissa of the southern cantons keeps the frontier posts and waits on the stock, and the clans know that Bethua cannot press them while the patrols are stretched.
 
 ## See Also {#see-also}
 
@@ -149,3 +161,28 @@ hold, and would rather not look past it.
 : the exile-queen who rules the road
 
 [[place-khuqetzalu|Khuqet-Zalu]]
+: the chain of Khelathi forts on the wells
+
+[[affiliation-dorumbetribe|Dorumbe Tribe]]
+: the western marcher tribe
+
+[[affiliation-hasembetribe|Hasembe Tribe]]
+: the eastern marcher tribe
+
+[[place-dorumbecamp|Dorumbe Camp]]
+: the western tribe's seat at the foot of the spurs
+
+[[place-hasembecamp|Hasembe Camp]]
+: the eastern tribe's seat on the road
+
+[[place-marchesroad|The Marches Road]]
+: the road across the drylands
+
+[[place-longwells|The Long Wells]]
+: the wells that hold the country together
+
+[[affiliation-frcmpnssthmrchs|The Free Companies of the South Marches]]
+: the armed bands that live off the herds and caravans
+
+[[doc-sthmrchsadvguide|South Marches Adventurer's Guide]]
+: a player's introduction to the Marches

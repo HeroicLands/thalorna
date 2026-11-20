@@ -35,6 +35,10 @@ Yath-Lemet runs on the flood and the harvest on a smaller scale than any other u
 - The chief temple of the [[affiliation-chelsur|Faith of Chelsur]] and its estates
 - The narrow gorge where the valley pinches to almost nothing
 
+## Current Situation {#present}
+
+In the narrow gorge of Yath-Lemet the villages and farms share the banks with the river-beasts, and a low river leaves them in the same few pools. The farmers fetch water at dawn and keep watch for crocodiles, and the temple of Chelsur at the seat has more offerings than usual. The villages are small, and each is a few families who cannot leave. The fields along the gorge are narrow, and the low river leaves them narrower.
+
 ## Settlements {#settlements}
 
 Yath-Lemet (~6,000)

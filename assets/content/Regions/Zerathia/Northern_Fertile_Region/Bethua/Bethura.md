@@ -9,6 +9,13 @@ data:
   demonym: null
   lore: []
   parents: [bethuargn]
+  routes:
+    - {to: tarvenirgn, bearing: N, mode: ship, days: 3, terrain: [open-sea]}
+    - {to: vylariargn, bearing: NE, mode: ship, days: 3, terrain: [open-sea]}
+    - {to: gezazabu, bearing: E, mode: land, days: 20, terrain: [road]}
+    - {to: kaljekor, bearing: W, mode: land, days: 20, terrain: [road]}
+    - {to: sthmrchsrgn, bearing: S, mode: land, days: 10, terrain: [road, steppe]}
+    - {to: marchesroad, bearing: S, mode: land, days: 10, terrain: [steppe, road]}
   population: 35000
   market: regional
   type: city
@@ -21,15 +28,15 @@ data:
 
 > "Off the ship, are you? Then you have seen our quays and none of our government. The orchard-ports grow the wine and press the oil. Bethura decides what they owe for it, and whose paper they may be paid in."
 
-That is roughly how a factor of one of [[affiliation-bthntrdhss|the Trade-Houses]] puts it to a foreign trader who has just stepped onto the harbor-front, and it is a fair summary. Bethura is the capital of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] and the city where the realm is governed: some thirty-five thousand people in the [[place-bethuargn|Bethua Region]] on [[place-xerathia|Zerathia]]'s northern shore. Both pillars of the Bethuan state sit here—the [Sacred College]{.name data-type="affiliation/governmental"} of the high priestesses and the [Council of Houses]{.name data-type="affiliation/governmental"} of the clan-matriarchs—and the Metrissa, Queen and High Priestess, presides over each. The Trade-Houses keep the principal hall of their federation in the same city.
+That is roughly how a factor of one of [[affiliation-bthntrdhss|the Trade-Houses]] puts it to a foreign trader who has just stepped onto the harbor-front, and it is a fair summary. Bethura is the capital of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] and the city where the realm is governed: some thirty-five thousand people in the [[place-bethuargn|Bethua Region]] on [[place-xerathia|Zerathia]]'s northern shore. Both pillars of the Bethuan state sit here—the [[affiliation-sacredcollege|Sacred College]] of the high priestesses and the [[affiliation-councilhouses|Council of Houses]] of the clan-matriarchs—and the Metrissa, Queen and High Priestess, presides over each. The Trade-Houses keep the principal hall of their federation in the same city.
 
-Bethura stands on a bay of the [[place-vylarianse|Vilérian Sea]], and a ship bound for the capital enters the calm water of the bay with the whole city in front of it: the quays and bonded warehouses of the harbor-front, which every Bethuan calls the _en-telekas_ (quay), and above them the temple roofs and the halls of the Houses climbing the slope. The city sits in the sea-tempered coastal strip, among the same orchards of citrus, olive and vine as the other ports. Behind the orchards the rain falls away, and the country becomes the semi-arid grassland of the interior, which grows only what water is brought to it. The quays of the bay and the coast roads to the other orchard-ports are what the [Court of the Veil]{.name data-type="affiliation/governmental"} watches most closely.
+Bethura stands on a bay of the [[place-vylarianse|Vilérian Sea]], and a ship bound for the capital enters the calm water of the bay with the whole city in front of it: the quays and bonded warehouses of the harbor-front, which every Bethuan calls the _en-telekas_ (quay), and above them the temple roofs and the halls of the Houses climbing the slope. The city sits in the sea-tempered coastal strip, among the same orchards of citrus, olive and vine as the other ports. Behind the orchards the rain falls away, and the country becomes the semi-arid grassland of the interior, which grows only what water is brought to it. The quays of the bay and the coast roads to the other orchard-ports are what the [[affiliation-courtveil|Court of the Veil]] watches most closely.
 
 ## The Water
 
 A factor teaching a newcomer usually starts with the water, because every Bethuan child learns it before anything else: without the engineer-priestesses, the interior would be empty steppe. Say you ride inland from the bay in the dry months. On one side of a stone channel the wheat stands green; on the other the grass is the color of straw, and sheep, cattle and the fine Bethuan horses graze it. The line between the two is where the water stops.
 
-That water reaches the fields, and the capital's own fountains, through aqueducts, tunnel qanats, cisterns and canals, and the women who build and keep them are the [Order of the Waters]{.name data-type="affiliation/order"} (_Qanatissai_, "sisters of the qanat"), sworn priestesses who are half clergy and half engineers. Inside the irrigated strips the farms grow wheat, barley, millet and legumes; between the strips, the open grassland is pasture. The upkeep of the works employs tens of thousands of people across the interior year-round.
+That water reaches the fields, and the capital's own fountains, through aqueducts, tunnel qanats, cisterns and canals, and the women who build and keep them are the [[affiliation-orderwaters|Order of the Waters]] (_Qanatissai_, "sisters of the qanat"), sworn priestesses who are half clergy and half engineers. Inside the irrigated strips the farms grow wheat, barley, millet and legumes; between the strips, the open grassland is pasture. The upkeep of the works employs tens of thousands of people across the interior year-round.
 
 The chief of the order is the **Izet-Mu** (Overseer of the Waters). She answers to the Metrissa directly and sits in the Sacred College by right of office, so the woman who keeps the capital's water also has a voice in choosing its queen. Her title is Khelathi, borrowed during the alliance with the [[affiliation-empireakhlth|Empire of Au'Khelathu]] that won Bethua its freedom about 615 AF ([[lore-bethuasep|the Separation of Bethua]]), and so is the treasurer's, the **Izet-Halzi** (Overseer of the Account). The titles of Bethura's temples and Houses are Helonik; the titles of its water and its money are Khelathi.
 
@@ -39,13 +46,13 @@ The **Sacred College** (_the Hierossa_) is the assembly of the Hiérissai, the h
 
 The **Council of Houses** (_the Sunedra_) is the assembly of the Dómissai, the matriarchs of the recognized clans. In Bethura it ratifies law, votes the levies and taxes, judges disputes between Houses, and speaks for the land-holding aristocracy against the temple. The College holds the realm's legitimacy; the Houses hold its land, grain and levies. Neither can govern without the other.
 
-The Metrissa sits where the two meet. Her regalia is the [Purple Veil]{.name data-type="miscgear"}, a mantle and face-veil of murex purple, and her court is the Court of the Veil. The reigning sovereign is Metrissa [Amithena]{.name data-type="being/npc"} of [House Kervanion]{.name data-type="affiliation/lineage"}, a former priestess of Lusinia and a careful, conservative ruler who keeps the two pillars in balance by giving neither its way entirely. The Stratégissa, the supreme war-leader, attends both councils when war is in question and votes in neither.
+The Metrissa sits where the two meet. Her regalia is the [[miscgear-veilpurple|Purple Veil]], a mantle and face-veil of murex purple, and her court is the Court of the Veil. The reigning sovereign is Metrissa [[being-amithenakrvn|Amithena of House Kervanion]], a former priestess of Lusinia and a careful, conservative ruler who keeps the two pillars in balance by giving neither its way entirely. The Stratégissa, the supreme war-leader, attends both councils when war is in question and votes in neither.
 
 A factor's practical lesson is that the same women turn up on every bench. Suppose your contract is caught in a quarrel between two trading Houses. The Council of Houses judges disputes between Houses as the realm's high court; the Trade-Houses' own council settles commercial disputes between its members. Many of the matriarchs who sit in one sit in the other, and some sit in the Sacred College besides, so the choice of bench is mostly a choice of which office the same grandee is wearing that day.
 
 ## The Trade-Houses' Hall
 
-Twice a year the [Council of Matriarchs]{.name data-type="affiliation/governmental"}—the matriarchs of the Great Houses, the _An'Bet_—meets at the federation's principal hall in Bethura. There are perhaps a dozen Great Houses, among them [House Khalath-Mara]{.name data-type="affiliation/lineage"}, the oldest and most prestigious, whose ancestral seat is at [[place-ashira|Oshira]] on the coast; [House Bera-Sehel]{.name data-type="affiliation/lineage"}, horse-breeders and suppliers to armies; and [House Othris-Khanu]{.name data-type="affiliation/lineage"}, the principal shipping House. Each session the council chooses a **Speaker of the Council** by consensus from the matriarchs present. She presides, frames the questions and announces the rulings, and the office rotates; the federation has no standing chief, and its members prefer it that way. Its senior voice by age and precedence is Matriarch [Aselia]{.name data-type="being/npc"} of House Khalath-Mara, who has held her seat for thirty-five years.
+Twice a year the [[affiliation-councilmatriarchs|Council of Matriarchs]]—the matriarchs of the Great Houses, the _An'Bet_—meets at the federation's principal hall in Bethura. There are perhaps a dozen Great Houses, among them [House Khalath-Mara]{.name data-type="affiliation/lineage"}, the oldest and most prestigious, whose ancestral seat is at [[place-ashira|Oshira]] on the coast; [House Bera-Sehel]{.name data-type="affiliation/lineage"}, horse-breeders and suppliers to armies; and [House Othris-Khanu]{.name data-type="affiliation/lineage"}, the principal shipping House. Each session the council chooses a **Speaker of the Council** by consensus from the matriarchs present. She presides, frames the questions and announces the rulings, and the office rotates; the federation has no standing chief, and its members prefer it that way. Its senior voice by age and precedence is Matriarch [[being-aseliakhlthmr|Aselia of House Khalath-Mara]], who has held her seat for thirty-five years.
 
 The council sets the protocols by which the Houses honor each other's letters of credit, settles disputes between Houses, and admits or expels members. That first duty is the one a visitor meets. Bethua strikes no coin of its own, so every purse in the city, from a Dómissa's to a porter's, holds Khelathi weight-pieces of copper, silver and gold. Large sums move as letters of credit: sealed documents bearing a House's seal, a value in gezan, a payee or "to bearer," and a serial mark.
 
@@ -53,7 +60,7 @@ The factor's warning about them is short. A Great House's letter is good at any 
 
 ## Men, Strangers and the Law
 
-The second warning is the one foreigners need most. In Bethua a man holds no property, no inheritance and no contract in his own name, and the realm watches its men—in the wards, on the docks, in the fields—as a plain fact of civic life. No man may carry a weapon or armor on pain of death unless he is specifically authorized. The one body of men permitted arms is the [Spadai]{.name data-type="affiliation"}, the sworn eunuch-warriors who serve beside the [Spear-Sisterhood]{.name data-type="affiliation/order"} (_Lorkhai_) and are the most honored men in the realm. The factor's advice to a foreign man who arrives wearing a sword is blunt: "The law is written for our men. Do not make the Spear-Sisters decide whether it is written for you."
+The second warning is the one foreigners need most. In Bethua a man holds no property, no inheritance and no contract in his own name, and the realm watches its men—in the wards, on the docks, in the fields—as a plain fact of civic life. No man may carry a weapon or armor on pain of death unless he is specifically authorized. The one body of men permitted arms is the [[affiliation-spadai|Spadai]], the sworn eunuch-warriors who serve beside the [[affiliation-spearsisterhood|Spear-Sisterhood]] (_Lorkhai_) and are the most honored men in the realm. The factor's advice to a foreign man who arrives wearing a sword is blunt: "The law is written for our men. Do not make the Spear-Sisters decide whether it is written for you."
 
 A foreign man who comes to trade is served, his coin taken and his contracts honored, but he is met with a cool condescension and expected to defer to the women he deals with. A foreign woman trading on her own account is dealt with woman to woman, as any merchant would be. The one exception is an official representative of Au'Khelathu—envoy, factor, temple-agent or naval officer—who is received with marked deference whatever his or her sex. Bethuan officials make a point of that courtesy, because it shows everyone watching who the realm's patron is.
 
@@ -70,6 +77,18 @@ Lámbira works out of Bethura, hiring her tracking, her blade and her Kharessa t
 :::secret
 **For the GM:** The Court of the Veil has set Lámbira after Rashira. The roll Rashira carries shows that most of the Purple Warrant's privateers are common criminals, that the Great Houses and the Metrissa profit from the plunder, and that Bethua has been fencing grave-goods robbed from the Khelathi dead. Rashira is making for Au'Khelathu through the [[place-sthmrchsrgn|South Marches]]; Lámbira has been ordered never to read the roll or let Rashira speak.
 :::
+
+## The Present {#present}
+
+The city counts the year by its cisterns. The flood that feeds the Khelathi valley has failed twice, and the aqueduct grain that reaches Bethura's bonded warehouses is the one harvest on the shore that has not thinned. Factors on the en-telekas quote it at a firmer price each month, and the foreign traders who come off the ships ask first what the Houses mean to do with it.
+
+The quarrel is held in two halls on the one slope. The [[affiliation-councilhouses|Council of Houses]] wants the surplus sold to the Khelathi patron, with the Izet-Halzi writing the account against the Gar-Hálzi correspondents. The [[affiliation-sacredcollege|Sacred College]] wants it kept, and the Izet-Mu, who sits in the College by right of office, says the cisterns of the [[affiliation-orderwaters|Order of the Waters]] are not full enough to empty. Metrissa [[being-amithenakrvn|Amithena]] presides over both and has not said which she favors. The grandees who sit in both bodies, and in the Trade-Houses' hall as well, are the ones the city watches.
+
+From the Hégissa of the southern cantons come reports that the tribute stock of the Marches is late, and the Court of the Veil is not eager to discuss it.
+
+## History {#history}
+
+Bethura rebuilt its treasury and water corps on Khelathi models after the separation of 615 AF, and its offices bear Khelathi titles ([[lore-bethuahist|the History of Bethua]], [[lore-bethuasep|the Separation of Bethua]]).
 
 ## See Also {#see-also}
 

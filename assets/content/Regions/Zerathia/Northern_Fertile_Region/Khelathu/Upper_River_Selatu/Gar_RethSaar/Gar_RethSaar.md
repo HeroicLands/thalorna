@@ -30,6 +30,10 @@ The selat farms its share of upper-river grain like any other, but its distincti
 - The great library-temple of [[affiliation-rethsaar|Reth'Sa'ar]] at Khelunu, the deepest archive in the empire
 - The astronomers' observatory and the calendar-service that keeps the realm's time
 
+## Current Situation {#present}
+
+Around Khelunu the school-and-farm villages grow grain for the scholars and the students who fill the temple-city. A low flood makes the harvest short for both, and the villages, which also send their sons to the schools, send fewer. The pupils' quarter is stricter about rations, and the farmers' share of the harvest is smaller than the temple estates' share. Gar-Gezehuti, Lut-Zethu, Yath-Khelunu and Zma-Thothu send what the schools ask of them. The astronomers on the observatory roof record the river's height each night, and the villagers know what the records show.
+
 ## Settlements {#settlements}
 
 Khelunu (~85,000)

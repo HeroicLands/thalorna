@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Abjad}}
 ---
 
-Okh-zethu—the name borrows the Khelathi word _zethu_, "writing," an old debt the Okhari acknowledge and resent—is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. Its characters are those of [[skill-qalzscrscrpt|Qalezu]], twenty-three of that alphabet's twenty-four signs, since Okharik has no sound for the last, and the diacritics are the Okhari addition. It carries [[skill-okharclng|Okharik]] and nothing else, which is unusual among the scripts of the west and is very much the point.
+Okh-zethu—the name borrows the Khelathi word _zethu_, "writing," an old debt the Okharik acknowledge and resent—is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. Its characters are those of [[skill-qalzscrscrpt|Qalezu]], twenty-three of that alphabet's twenty-four signs, since Okharik has no sound for the last, and the diacritics are the Okharik addition. It carries [[skill-okharclng|Okharik]] and nothing else, which is unusual among the scripts of the west and is very much the point.
 
 A character needs **both** Okh-zethu and [[skill-okharclng|Okharik]] to read it; see [[sohl-note-skill-script|Script]] for the general rules.
 
@@ -29,11 +29,11 @@ A character needs **both** Okh-zethu and [[skill-okharclng|Okharik]] to read it;
 
 ## The letters themselves
 
-Blocky and separated, sized to be cut as easily as painted—Okhari monumental practice runs to carved and painted mural registers on pyramid faces, so the letterforms have to survive both a chisel and a brush. There is no case distinction. Sacred inscriptions add a bounding line above the text, and a name of the god within it receives a stroke through the ascender that no secular name may carry.
+Blocky and separated, sized to be cut as easily as painted—Okharik monumental practice runs to carved and painted mural registers on pyramid faces, so the letterforms have to survive both a chisel and a brush. There is no case distinction. Sacred inscriptions add a bounding line above the text, and a name of the god within it receives a stroke through the ascender that no secular name may carry.
 
 ## Who has it
 
-Priesthood, professional scribes, about one in six of the [[affiliation-okharis|Okhari]] nobility. Urban guildsmen recognize trade marks, numerals and standing abbreviations. Rural literacy is effectively nil.
+Priesthood, professional scribes, about one in six of the [[affiliation-okharis|Okharik]] nobility. Urban guildsmen recognize trade marks, numerals and standing abbreviations. Rural literacy is effectively nil.
 
 ## In play
 

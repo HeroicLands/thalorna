@@ -5,7 +5,31 @@ type: lore
 subType: history
 description: "2378 to 2580 ST (268 to 470 AF): two centuries of houses raised by the priesthood of Uqa'a, of children crowned and regents crowned after them, in which the Storm of the Hundred Banners reached the eastern road and a Vilérian army held the throne."
 tags: [history, khelathu]
-data: {packFolder: regkhhist, culture: khelathiclt}
+data:
+  packFolder: regkhhist
+  culture: khelathiclt
+  events:
+    - id: qeltleru
+      when: 268
+      stated: {calendar: khelathclndr, text: "2378 PT"}
+      kind: accession
+      depth: region
+      sources: [lore-garauu, affiliation-uqaa, lore-judgfalseuq]
+      summary: >-
+        In the year of the judgment the priesthood of Uqa'a raises Qelt'Leru, the first house of two centuries of priest-raised thrones. The house gives three reigns, and the last is a child of five floods with Gul'Zetu standing beside him.
+      standing: attested
+      where: {locus: [place-greattempluqaa]}
+      who: [{ref: affiliation-uqaa, role: actor}]
+    - id: gulzetu
+      when: 291
+      stated: {calendar: khelathclndr, text: "2401 PT"}
+      kind: accession
+      depth: region
+      sources: [lore-garauu, affiliation-uqaa]
+      summary: >-
+        Gul'Zetu, who stood beside the child Waz'el'Qar III, is crowned Gez'el'Qar I, and his own house takes the crown. The pattern the list repeats through the age is set: a house, a child, a regent, a new house.
+      standing: attested
+      where: {locus: [place-yathtelgu]}
 ---
 
 The Priests' Thrones are the two centuries after the judgment, and the Keepers name them for who did the crowning. The throne has a Gar-Au on it throughout, and the list gives each reign in full, but the formulas change character. Houses close within a generation, children are crowned, and the regent who stood beside a child is the next to stand on the mound so often that the line recording it becomes the most worn in the list.
@@ -18,7 +42,7 @@ In 2425 ST (315 AF) the age takes its first shock from outside. A steppe host th
 
 The second shock comes by sea. In 2487 ST (377 AF) a Vilérian army meets the chariot corps at the delta apex, the corps breaks, and the priesthood crowns the army's commander as [Zab'el'Qar I]{.name data-type="being/npc"} ([[lore-vylconquest|The Vilérian Conquest]]). His son reigns after him as a Khelathi and goes to the West in the night in 2505 ST (395 AF) ([[lore-foreignhs|the Closing of the Foreign House]]). The house of [Anlagh'Zeketu]{.name data-type="affiliation/lineage"} follows.
 
-The age ends with the child of three floods. In 2579 ST (469 AF) the house of [Qelt'Gultau]{.name data-type="affiliation/lineage"} crowns [Kuz'el'Retha III]{.name data-type="being/npc"} with [Zu'Meku]{.name data-type="affiliation/lineage"} standing beside him, and the list enters the child's death in the night.
+The age ends with the child of three floods. In 2579 ST (469 AF) the house of [Qelt'Gultau]{.name data-type="affiliation/lineage"} crowns [Kuz'el'Retha III]{.name data-type="being/npc"} with [[affiliation-zumeku|Zu'Meku]] standing beside him, and the list enters the child's death in the night.
 
 ## Rulers
 

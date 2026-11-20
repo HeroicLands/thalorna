@@ -25,8 +25,14 @@ A cadet sent to the officer schools sees the selat's purpose in a morning: carts
 
 ## Settlements {#settlements}
 
-[[place-garqeztu|Gar-Qeztu]] (~13,000)
+[[place-garqeztu|Gar-Qeztu]] (~4,900)
 : the selat capital and the seat of the Halzi'a, with the chief temple of [[affiliation-qeztu|Qeztu]].
+
+[[place-zelqeztu|Zel-Qeztu]] (~3,900)
+: a remount-and-fodder market town in Gar-Qeztu Selat, a short ride from the drill-grounds at Gar-Qeztu
+
+[[place-yathqeztu|Yath-Qeztu]] (~3,200)
+: a canal-mound town in Gar-Qeztu Selat, a day downstream of Gar-Qeztu
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

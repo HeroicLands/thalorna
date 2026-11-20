@@ -3,7 +3,7 @@ shortcode: mgstrcythls
 name: {full: Magistracy of Thálassos}
 type: affiliation
 subType: polity
-description: "The magistrate of the harbor town of Thálassos, who keeps minimal customs authority and leaves the tariffs to a handful of bonded merchants."
+description: "The magistrate of the harbor town of Thálassos, who keeps minimal customs authority and leaves the harbor dues to a handful of bonded merchants."
 data:
   templatePriority: null
   demonym: null
@@ -12,7 +12,7 @@ data:
   governance:
     model: autocracy
     summary: >-
-      A magistrate keeps minimal customs authority, and a handful of bonded merchants set the tariffs.
+      A magistrate keeps minimal customs authority, and a handful of bonded merchants set the harbor dues.
     ranks:
       - level: 0
         title: Struck from the Roll
@@ -34,7 +34,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The **Magistracy of Thálassos** is the office of the town's magistrate, who keeps minimal customs authority at [[place-thalassos|Thálassos]] and leaves the tariffs to a handful of bonded merchants. The arrangement suits independent traders and small-scale smugglers.
+The **Magistracy of Thálassos** is the office of the town's magistrate, who keeps minimal customs authority at [[place-thalassos|Thálassos]] and leaves the harbor dues to a handful of bonded merchants. The arrangement suits independent traders and small-scale smugglers.
 
 ## History {#history}
 

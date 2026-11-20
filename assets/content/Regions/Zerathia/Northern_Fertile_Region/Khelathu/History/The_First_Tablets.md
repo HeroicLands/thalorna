@@ -5,7 +5,27 @@ type: lore
 subType: history
 description: "1 to 1006 ST (2110 to 1105 BF): eleven Gar-Auu in two houses, reigns of a length no one lives, the fixing of the sacred hand, and the first kings laid in the Great Land of Zu-Ger."
 tags: [history, khelathu]
-data: {packFolder: regkhhist, culture: khelathiclt}
+data:
+  packFolder: regkhhist
+  culture: khelathiclt
+  events:
+    - when: -1490
+      stated: {calendar: khelathclndr, text: "621 FT"}
+      kind: accession
+      depth: region
+      sources: [lore-garauu, affiliation-azletkutu, place-zugernome]
+      summary: >-
+        The First House ends with its fifth Gar-Au, Zab'Uzner, after ninety years, and the second house, Azlet'Kutu, takes the throne. Its Gar-Auu keep the court in the Great Land of Zu-Ger as the first five did, and their reigns shorten by tens of years, from a hundred to twenty-six, until the house closes in 1006 ST.
+      standing: single-source
+      where:
+        locus: [place-zugernome]
+        reach:
+          - place: place-yathtelgu
+            how: >-
+              the kings of the second house are crowned on the mound as the first were, and go home upriver after the rite
+            knowledge: named
+      who: [{ref: affiliation-azletkutu, role: actor}]
+      unresolved: [whether the lengths the list gives the early reigns were ever counted in years]
 ---
 
 The First Tablets are the oldest age [[lore-khelathclndr|the Khelathi count]] names, and the [[lore-garauu|king-list]] says almost nothing about it. Eleven Gar-Auu fill a thousand years, and each stands in the list as a name, a length and the formula _his deeds are the god's_. Schoolrooms and storytellers know the same thousand years as the Age of Divine Kings and the First Age.
@@ -18,7 +38,7 @@ Four more reigns finish the First House by 620 ST, and the fifth gives the age i
 
 The kings keep their court in the Great Land of [[place-zugernome|Zu-Ger]] and are crowned on the mound, and they are laid in the desert edge above Zu-Ger, among the marker stones farmers still plow round ([[place-firsttablets|the Ground of the First Tablets]]). The age's other works are the first canals and cisterns that carry the river past the black land, and the star maps that the earliest astronomers of the empire cut into the stones of [[place-beshakan|Beshakan]] and the records they carry up to [[place-chenosolis|Chenosolis]].
 
-The second house, [Azlet'Kutu]{.name data-type="affiliation/lineage"}, takes the throne in 621 ST. Its reigns shorten by tens of years as the age goes on, from a hundred to eighty, seventy, sixty and fifty, and the last of them runs twenty-six.
+The second house, [[affiliation-azletkutu|Azlet'Kutu]], takes the throne in 621 ST. Its reigns shorten by tens of years as the age goes on, from a hundred to eighty, seventy, sixty and fifty, and the last of them runs twenty-six.
 
 ## Rulers
 

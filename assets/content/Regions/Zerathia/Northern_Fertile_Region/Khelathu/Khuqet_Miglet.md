@@ -11,7 +11,7 @@ data:
   parents: [aukhelathrgq]
   borders: [{to: dunharargn, bearing: NE}]
   routes: [{to: dunhardsrtrgn, bearing: NE, mode: land, days: 20, terrain: [road, desert]}]
-  population: null
+  population: 2000
   packFolder: regkhregn
 
 # terran_analog: "Northern Sinai and the Negev margin—the fortress-wells of the Way of Gewa'atis between the Delta and Canaan: a garrisoned desert land-bridge held for the road that crosses it rather than for anything it grows."
@@ -93,7 +93,7 @@ wells where the road turns toward the Dunhara, is the seat of the [[affiliation-
 to the [[lore-garauu|Gar-Auu]]'s military officers at the capital and to no Halzi'a. The
 garrison's whole duty is the road: to patrol the wells, escort the caravans,
 collect the road-toll, and keep the peace with the clans on the other side
-of it. The line dates from the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|the Storm on the Eastern Road]]). Beside the first of them lie [the Burned Wells]{.name data-type="place/site"}, a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
+of it. About two thousand people live along the march, nearly all of them in the forts and at the caravan stops beside the wells. The line dates from the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|the Storm on the Eastern Road]]). Beside the first of them lie [[place-burnedwells|the Burned Wells]], a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
 
 That peace is nominal and growing thin. It rests on custom rather than treaty—on the clans' right to water at the wells and the caravans' right to pass
 unmolested, which each side keeps as long as the other does—and it depends
@@ -139,6 +139,14 @@ made into mud-brick. He will trade at the forts, guide for the
 caravan-masters and take Khelathi silver; he will
 not admit that the empire holds one well of it, and in the Dunhari version
 of the peace it is the garrison that is tolerated, not the clans.
+
+## Current Situation {#present}
+
+The march has no flood and no harvest, so the low flood reaches it as a late wagon. The garrisons here are paid, fed and armed from the heartland, and two short years leave less in the grain-trains that cross the eastern selatu toward the road. The line of forts on the wells draws its stores down, the chariot-yards stable fewer horses, and the court that already grumbles at the march's cost every year now asks what the cost buys. The Overseer of the March, a crown appointment whose ambitions lie in the valley, writes for supplies and receives answers about the river.
+
+The nominal peace with the western Dunhari rests on the clans' right to water and the caravans' right to pass. The gifts that renew it each year at [[place-zuletqar|Zulet'Qar]] are smaller this year, the wells that the garrison closes to clan herds are closed a season longer, and the tolls on Dunhari caravans stay high. Each of those is a cost the garrison can bear and the clans can read. The sheikhs of the Shiradar and the Valdun count the short rations in the forts as clearly as the Overseer's scribes do.
+
+The march matters to the factions at court mostly as a posting: a commander who holds the road to Dunhara holds a force of soldiers with no Halzi'a above them, answerable to the Gar-Au's military officers at the capital, and an Overseer's loyalty in a disputed succession is a thing the court's officers weigh. The road itself continues to carry the caravans from Dunhara and the Khazrin, and the tolls are the one thing in the march that grows when the valley does not.
 
 ## See Also {#see-also}
 

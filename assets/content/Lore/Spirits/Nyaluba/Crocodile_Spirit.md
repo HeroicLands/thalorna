@@ -8,7 +8,7 @@ tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
-Crocodile Spirit is the totemic being venerated by the [Kolembozi]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
+Crocodile Spirit is the totemic being venerated by the [[affiliation-kolembozi|Kolembozi]] of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbcroc|Crocodile Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 

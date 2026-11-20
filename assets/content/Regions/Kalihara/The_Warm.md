@@ -36,6 +36,8 @@ The Warm is cooler to the hand than the oldest account of it in Veshvaan's archi
 
 Every lineage on the island has seen a tending-stone go white, and every one knows that works fail. That the Warm has begun to cool is known to the Bearer alone. There is nothing on the summit to show anybody else: the substance has not changed, and a work going wrong gives no sign of how long it has.
 
+The cooling reads only to the Bearer, who holds the archive comparison, and a person the work answers does not feel it as the work working badly.
+
 :::
 
 ## What Is Seen from It

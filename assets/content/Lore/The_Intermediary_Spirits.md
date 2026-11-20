@@ -8,7 +8,7 @@ tags: [nkaruthar, religion]
 data: {packFolder: settinglore}
 ---
 
-In the traditions of the [[lore-okharinclt|Okharin]], between [[lore-nkaruthardty|Nkaru'thar]] and the mortal world stand the zohira—demi-gods
+In the traditions of the [[lore-okharinclt|Okharik]], between [[lore-nkaruthardty|Nkaru'thar]] and the mortal world stand the zohira—demi-gods
 or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death,
 and the hunt. Their shrines are scattered across the kingdom, from the pyramidal complexes of the
 city-states to simple stone cairns in tribal territories.

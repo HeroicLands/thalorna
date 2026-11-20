@@ -15,6 +15,7 @@ data:
     - {to: elavendre, bearing: N}
     - {to: galvaren, bearing: E}
     - {to: vylarianse, bearing: S}
+  routes: [{to: kaljekor, bearing: S, mode: ship, days: 2, terrain: [open-sea]}]
   packFolder: provenzia
   government: kngdmprvnz
   culture: provenzianclt

@@ -469,7 +469,7 @@ Paryan progressed with great speed through her apprenticeship, achieving journey
 
 **Current Situation**
 
-Paryan now stands at the threshold of greater opportunity and risk. Her reputation has grown to the point where she receives commissions from nobility and even royal family members, pieces that would be displayed in the most elite circles. This success brings both fulfillment and pressure. [The Jewelers' Guild of Amradad]{.name data-type="affiliation/guild"} has begun to mention her name when discussing potential leadership roles, a responsibility she is uncertain about. She has also attracted the attention of wealthy collectors and patrons from distant lands who offer her substantial contracts that would require her to relocate or to radically expand her workshop. Most intriguingly, she has been approached by a mysterious scholar interested in commissioning jewelry with specific symbolic and possibly magical properties—a proposal that is both thrilling and unsettling. She struggles with the balance between creative integrity and commercial pragmatism, between loyalty to her community and pursuit of greater opportunity.
+Paryan now stands at the threshold of greater opportunity and risk. Her reputation has grown to the point where she receives commissions from nobility and even royal family members, pieces that would be displayed in the most elite circles. This success brings both fulfillment and pressure. The master jewelers of [[place-qarvelakhend|Qarvelakhend]] have begun to mention her name when discussing potential leadership roles, a responsibility she is uncertain about. She has also attracted the attention of wealthy collectors and patrons from distant lands who offer her substantial contracts that would require her to relocate or to radically expand her workshop. Most intriguingly, she has been approached by a mysterious scholar interested in commissioning jewelry with specific symbolic and possibly magical properties—a proposal that is both thrilling and unsettling. She struggles with the balance between creative integrity and commercial pragmatism, between loyalty to her community and pursuit of greater opportunity.
 
 ## Psyche
 
@@ -513,7 +513,7 @@ Experimental Excess
 : Her creativity and willingness to experiment, while artistically admirable, sometimes leads her to undertake projects that are technically impossible or to extend timelines indefinitely in pursuit of perfection. Some commissions take far longer than promised, frustrating patrons and occasionally creating financial strain.
 
 Emotional Sensitivity and Self-Doubt
-: Her relatively low morality combined with her investment in her work means she is quite sensitive to criticism. Harsh words about her work can send her into periods of self-doubt, and she struggles with the competitive elements of her guild.
+: Her relatively low morality combined with her investment in her work means she is quite sensitive to criticism. Harsh words about her work can send her into periods of self-doubt, and she struggles with the competitive elements of her craft.
 
 Limited Combat Capability
 : While more physically capable than many artisans, Paryan has no formal training in weapons or combat. Her melee skill is good enough for survival but not for serious combat, and she would be vulnerable in violent confrontations.
@@ -531,44 +531,38 @@ The Royal Family of Amradad
 Master Beshrin
 : Her former teacher, now semi-retired, continues to be her most trusted advisor and occasional patron. Beshrin commissions personal pieces from her and advocates for her work among the elite collectors she knows.
 
-The Jewelers' Guild
-: While Paryan maintains an independent workshop, the guild occasionally commissions her to create pieces for official purposes or to contribute work to guild exhibitions and demonstrations.
+The Master Jewelers of Qarvelakhend
+: While Paryan maintains an independent workshop, the masters occasionally commission her to create pieces for official purposes or to contribute work to their exhibitions and demonstrations.
 
 Wealthy Collectors and Merchants
 : A growing circle of affluent patrons commission her work for personal collection or as gifts. These clients appreciate her originality and are willing to pay premium prices for her distinctive designs.
 
 ### Enemies
 
-Master [[being-harumazbarav|Harumaz]], Conservative Guild Master
-: A senior figure in the Jewelers' Guild who represents the traditionalist faction, Harumaz views Paryan's experimental approaches as disrespectful to established conventions. He has subtly opposed her rise within the guild and spreads criticism that her work, while beautiful, lacks "true classical foundation." The two have never had direct conflict, but there is clear tension between them.
+Master [[being-harumazbarav|Harumaz]], of the traditionalist masters
+: A senior master jeweler who leads the traditionalist faction, Harumaz views Paryan's experimental approaches as disrespectful to established conventions. He has subtly opposed her rise among the masters and spreads criticism that her work, while beautiful, lacks "true classical foundation." The two have never had direct conflict, but there is clear tension between them.
 
 ### Affiliations
 
-The Jewelers' Guild of Amradad
-: Paryan is a full member and recognized master of the guild, though her unorthodox approaches sometimes create tension with the more conservative elements of the organization.
+The Master Jewelers of Qarvelakhend
+: Paryan is a recognized master among them, though her unorthodox approaches sometimes create tension with the more conservative masters.
 
 [The Artisans' Collective]{.name data-type="affiliation"}
 : Paryan maintains informal connections with other master craftspeople across multiple disciplines—sculptors, textile workers, potters—through a loose association of like-minded artisans who support and inspire each other's work.
 
 ## Plot Hooks
 
-The Mysterious Commission
-: A scholar and collector approaches Paryan with an extraordinary commission: to create a piece of jewelry with very specific symbolic properties and design requirements. The scholar hints that the piece will be used in magical or esoteric practices, though the specifics remain unclear. The payment offered is extraordinarily generous. As Paryan works on the commission, she gradually realizes that the symbols and properties the scholar demanded may have a real magical use or that the piece might be intended for dangerous purposes. She can continue the commission, seek to understand the true purpose of the piece, or refuse and risk losing the most lucrative commission of her life. The party might help her research the symbols, investigate the scholar's true intentions, or grapple with the ethics of creating art meant for harm.
+The Classical Standard
+: The traditionalist masters of Qarvelakhend, led by Master [[being-harumazbarav|Harumaz]], propose a standard of classical forms for work shown to the Kingdom's patrons, which would shut out her mixed-metal pieces. Paryan asks a party to find a patron who will commission one of her pieces to hang beside Harumaz's own.
 
-The Stolen Masterpiece
-: Paryan's most significant creation—a piece that took her two years to complete and represents the summit of her current technical and artistic mastery—is stolen from an exhibition or from a patron's home. The theft is skillful and deliberate, suggesting practiced thieves working for a specific buyer. Paryan is devastated and determined to recover the piece. The party becomes involved in tracking the thieves, investigating who commissioned the theft, and ultimately recovering the work. The investigation might reveal that a wealthy collector in a distant land acquired the piece, or that the piece was stolen to suppress evidence of something, or that the theft is actually part of a larger conspiracy involving magical artifacts or political intrigue.
+The Pendant on the Wrong Neck
+: Her finest pendant, sold to a patron of the town, hangs on the wife of a desert chieftain, and the patron swears it never left his house. Paryan asks a party to learn how it crossed the desert road.
 
-The Guild's Crisis
-: Internal conflict within the Jewelers' Guild intensifies when the conservative faction, led by Master Harumaz, proposes new guild standards that would effectively prevent the kind of experimental work Paryan practices. They argue that standards must be maintained and that novelty without classical foundation undermines the craft. Paryan is asked to defend her approach and potentially to demonstrate that her new forms honor rather than violate the underlying principles of the craft. This involves creating a masterwork that synthesizes classical techniques and new ones, dealing with guild politics, and deciding whether to remain within the guild or pursue independence. The party might help her research classical techniques, gather support from other guild members, or present her work in a formal proceeding.
+Beshrin's Last Commission
+: Beshrin, her old master, is too ill to hold his tools and asks Paryan to finish his last commission unsigned, so that the patron in [[place-shebarakhend|Shebarakhend]] receives it as his own work. Paryan asks a party to carry the piece and to say nothing of whose hand made it.
 
-The Collector's Obsession
-: An eccentric and powerful noble from a distant land becomes obsessed with acquiring all of Paryan's work. He purchases every piece he can find through the open market and offers her an exclusive contract to become his personal artist, offering resources far beyond what she currently has access to. The offer is tempting but would isolate her from her community and potentially compromise her artistic integrity. The party might also discover that the collector's true motivations are esoteric or magical—that he is gathering pieces that form part of a larger ritual or magical working. Paryan can accept patronage that offers greater means, refuse and keep her independence, or investigate what the collector truly intends.
+The Grave-Gold
+: A dealer from the desert side brings Paryan a tray of worn gold and asks her to remake it into something that will pass the masters' inspection. The fire-temple of Qarvelakhend preaches against the grave-goods trade, and she asks a party to learn where the gold came from.
 
-The Apprentice's Betrayal
-: Paryan takes on a talented but troubled apprentice—a young person with real skill but emotional difficulties and a difficult family situation. Paryan, moved by compassion, mentors the apprentice generously and considers them almost a younger sibling. However, the apprentice is secretly working for a rival jeweler or a member of the conservative guild faction, gradually stealing Paryan's techniques and designs. When the betrayal is discovered, Paryan is devastated by the loss of her work, and more by the breach of trust and the sense that her mentorship failed. The party becomes involved in exposing the betrayal, helping Paryan through her grief and anger, and deciding whether to pursue legal remedies or to try to redeem the apprentice who was, in part, a victim of circumstances.
-
-The Magical Artifact
-: During a commission to create jewelry for a noble family, Paryan discovers that one of the materials she was provided—a gem she was told was simply a rare but ordinary stone—actually possesses magical properties. The stone responds to her touch in unusual ways, and her creative visions for the piece become increasingly vivid and almost supernatural in their clarity. She begins to suspect that the stone itself is guiding her creative choices. The party becomes involved in investigating the stone's origin, researching its properties and history, and helping Paryan understand whether the guidance is real magic or her own imagination. The investigation might reveal that the stone is a rare artifact of significant power, that it is connected to historical events or prophecies, or that completing the piece the stone is guiding her to create could have great consequences.
-
-The Master's Final Work
-: Master Beshrin, now quite elderly and having recently been diagnosed with a grave illness, approaches Paryan with a final commission and a difficult request. The master wishes Paryan to create a memorial piece incorporating Beshrin's remains in some way—perhaps set with cremated ashes, or incorporating bones worked into the design, or some other means of memorial. The request is personally meaningful to both but also transgressive against guild standards and perhaps against local law or cultural sensibilities. Paryan can honor her teacher's final request despite the transgression or refuse it, and the party becomes involved in dealing with the cultural, legal, and ethical difficulties of creating such a piece, potentially gathering rare materials, and ultimately deciding how to honor the master's memory while respecting broader social norms.
+The Apprentice from Harumaz's Bench
+: A skilled apprentice of Master Harumaz has come to her bench, saying he was dismissed. Paryan asks a party to learn whether Harumaz dismissed him or sent him.

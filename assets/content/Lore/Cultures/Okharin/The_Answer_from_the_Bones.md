@@ -46,7 +46,7 @@ I do not know the god's name. Nobody in this lineage has said it since. It was a
 
 The lineage did not like it. You will understand that. But listen: the lineage did not do anything about it. A woman who prays to a downriver god in the forest country is a strange woman. She is not a wicked one. Ngathu went to see her about it and came back and said, "She has not left the spirits. She cannot leave the spirits. She goes to the river cairn the same as anyone, she announces herself at the ford, she gave first milk to the fertility cairn when her second was born downriver and she was too far away to give it, so she gave it when she came home. She is of the spirits as you are. She has declined the Flame. That is a different thing."
 
-He was right. You know he was right. The spirits are what being Okharin is. Nobody joins them and nobody leaves. The Flame is the faith of the cities and the temple and the priests, and it is professed, and what is professed can be professed otherwise. In the forest that is all it is. A woman of this lineage who does not light the three wicks is a woman who does not light the three wicks.
+He was right. You know he was right. The spirits are what being Okharik is. Nobody joins them and nobody leaves. The Flame is the faith of the cities and the temple and the priests, and it is professed, and what is professed can be professed otherwise. In the forest that is all it is. A woman of this lineage who does not light the three wicks is a woman who does not light the three wicks.
 
 But the Shókuma country lies toward the south, and the city nearest the south is Vuthraka, which is the city of the red fire, and it guards the frontier.
 

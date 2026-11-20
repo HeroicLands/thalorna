@@ -65,7 +65,7 @@ The one he does not name is [[place-eleventhgran|the Eleventh Granary]], and the
 
 After twelve years of failing floods ([[lore-failfloods|the Failing Floods]]) the great granaries of Anlagh-Zetun held the grain of the whole upper river and nobody in the basin could eat it. The god-king's guard held the gates. The villages around them had been living on seed-corn for years, and the temples of the upper river, which had lost priests to the silence about the blasphemy, were ready to move.
 
-[Gezanlaghur]{.name data-type="being/npc"} of [Anlaghet'Zaru]{.name data-type="affiliation/lineage"}, the Halzi'a of the selat, raised the basin. His own levies came first, and the temple levies of the upper river came with them, so that the host that marched on the granaries was a lord's retinue, a farmers' muster and a priesthood's fighting men under one standard. It was the army the selat had always been able to raise, and no Gar-Au had needed it raised against the throne before. In 2378 ST (268 AF) it came to the gates.
+[Gezanlaghur]{.name data-type="being/npc"} of [[affiliation-anlaghetzaru|Anlaghet'Zaru]], the Halzi'a of the selat, raised the basin. His own levies came first, and the temple levies of the upper river came with them, so that the host that marched on the granaries was a lord's retinue, a farmers' muster and a priesthood's fighting men under one standard. It was the army the selat had always been able to raise, and no Gar-Au had needed it raised against the throne before. In 2378 ST (268 AF) it came to the gates.
 
 ## The Gates
 

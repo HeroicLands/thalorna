@@ -516,20 +516,17 @@ The Temple of Zúrathra
 
 ## Plot Hooks
 
-The Plague Among the Flocks
-: A mysterious sickness spreads through Torvash's herds, killing animals at an unprecedented rate. The symptoms are unlike anything he has encountered in his decades of experience—animals seem to waste away from within, their behavior becomes erratic, and death follows within days. The illness begins to spread to neighboring herds, threatening the entire regional economy. Torvash must identify the cause while preventing the complete loss of his flocks, knowing that the sickness might not be natural—it could be deliberate poisoning or worse.
+The Scab in the East Flock
+: Scab has come into Torvash's east flock from a ram he bought at the [[place-shebarakhend|Shebarakhend]] pens, and the herder who sold it swears it was clean. Torvash asks a party to trace the seller's other buyers before the sickness crosses to the farmers' flocks.
 
-The Stranger with the Wounded Beast
-: A stranger arrives at Torvash's territory, riding a magnificent horse that has been badly wounded—a wound that bears the marks of a predator that shouldn't exist in this region. The stranger begs Torvash's assistance in saving the animal and offers extraordinary payment. As Torvash works to heal the beast, he realizes that it is not entirely natural—it bears markings and proportions that don't quite match any breed he knows. The stranger becomes evasive when questioned about its origins, and more riders begin searching the region. Torvash must decide whether to honor his commitment to heal the animal, protect the stranger, or surrender them to the increasingly aggressive searchers.
+The Whole Clip
+: A steward of a Tellumi court offers Torvash a price for the whole season's clip, well above what the farming communities pay, on condition that no wool goes to anyone else. Torvash will not break his word to the farmers who buy from him each year, and he asks a party to find the steward another source for the difference.
 
-The Merchant's Proposition
-: A wealthy merchant from the capital of the [[affiliation-kngdmmrdd|Kingdom]] arrives with a proposition: Torvash's wool and cheese are of such quality that they could command prices many times their current rate in the great cities. The merchant wants to establish an exclusive supply agreement, providing capital for expansion in exchange for Torvash's entire output. The offer is more wealth than Torvash could earn in a lifetime—but it would require him to abandon his traditional methods, expand his herds beyond what he considers sustainable, and subject himself to the merchant's control. Torvash must weigh the security such wealth would offer against the loss of his independence and traditional practices.
+The Bitter Spring
+: The spring that has watered his flocks for generations turns bitter and the animals refuse it, and a new yard has opened upstream. Torvash asks a party to walk the stream with him and learn what the yard pours into it.
 
-The Cursed Spring
-: Torvash discovers that the water spring that serves his herds—a spring that has been reliable for generations—is becoming poisoned. The water takes on an odd discoloration and a metallic taste, and animals begin refusing to drink it. Investigation reveals that someone upstream has been deliberately introducing substances into the water supply, possibly to force Torvash to sell his lands. But the culprit is someone Torvash never considered an enemy, and discovering their involvement will force him to handle complex social politics that he is unprepared to handle.
+The Farmer's Gift
+: A farmer's daughter lost in a sandstorm walks into Torvash's camp half dead, and he returns her to her family once she recovers. The family answers with gifts and an offer of marriage, and his refusal of them is taken as an insult. Torvash asks a party to carry his refusal in words they can accept.
 
-The Protector's Debt
-: A child from a nearby farming family, separated from her family during a sandstorm, stumbles into Torvash's encampment near death from dehydration. Torvash, following his nature, rescues her and cares for her until she recovers. The grateful family attempts to bind him with gratitude and obligation, offering a daughter in marriage, offering gold, offering alliance. When Torvash refuses these expressions of thanks, the family grows offended, interpreting his rejection as an insult. Meanwhile, the child has become attached to Torvash and his animals, regarding him as a savior. When she is retrieved by her family, she begs to return to him. Torvash is pulled into a situation requiring social negotiation and emotional complexity that baffles and exhausts him.
-
-The Herd with a Mind of Its Own
-: A section of Torvash's herds begins exhibiting extraordinary behavior—they move with unusual coordination, they gather in specific patterns that form almost meaningful shapes, and they seem to be deliberately leading him toward a particular location in the wilderness. As Torvash follows his animals, he discovers an ancient structure partially buried in the steppe, carved with symbols he doesn't recognize. The herds' behavior suggests they are protecting something, or warning against something. Torvash must decide whether to investigate this discovery, report it to authorities, or protect the location and the animals' apparent secret.
+The Boundary Stones
+: The Zanavi herding clan has moved the stones between its pastures and Torvash's, and the clerk of the Keeper of the Wells in Shebarakhend rules on the water, not on the grass. Torvash asks a party to walk the line with a surveyor before the next season's grazing.

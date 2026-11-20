@@ -28,7 +28,7 @@ The Lobwezi and Ngonzi griots tell how the Brightness came differently, and neit
 
 **The Ngonzi telling.** The Brightness was a flight and not a root. It crossed the sky once, from the east, and the guides are the sparks it shed as it passed over the highlands, the eagle first among them. In this telling the Brightness has gone on, and it returns at the end of all things by the road it left.
 
-Neither clan has ever brought the difference to the [Great Lubemo]{.name data-type="affiliation/governmental"}: a question about something nobody talks to is not one the Pact needs answered.
+Neither clan has ever brought the difference to the [[affiliation-greatlubemo|Great Lubemo]]: a question about something nobody talks to is not one the Pact needs answered.
 
 ## See Also {#see-also}
 

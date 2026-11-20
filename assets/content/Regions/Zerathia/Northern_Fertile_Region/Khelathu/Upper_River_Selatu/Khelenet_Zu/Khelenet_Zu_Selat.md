@@ -37,10 +37,20 @@ The selat runs on the flood, the harvest and the render like every [[lore-khelat
 - The chief temple of the [[affiliation-qearet|Faith of Qe'aret]] and its estates
 - The old assize-courts and the survey scribes' rolls they judge by
 
+## Current Situation {#present}
+
+After each flood the scribes of Khelenet-Zu walk the villages remeasuring the fields, and this year the work is slower and the quarrels longer. A farmer whose field is dry has a claim to a lower render, the neighbor whose field is wet disputes it, and the lawyer-priests of Qe'aret rule on each. The village headmen come to the assize-courts at the seat in numbers, and the courts sit late. The estate-towns pay their render in the sums the courts allow, which are small.
+
 ## Settlements {#settlements}
 
-Khelenet-Zu (~32,000)
+Khelenet-Zu (~6,700)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-lutkhelenet|Lut-Khelenet]] (~7,900)
+: a land-survey town in Khelenet-Zu Selat, where the scribes who remeasure the fields after each flood train and lodge
+
+[[place-garzalu|Gar-Zalu]] (~6,400)
+: an assize-market town of Khelenet-Zu Selat on the road to the capital
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

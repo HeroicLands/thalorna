@@ -68,6 +68,10 @@ The Selat of Legirusi is one of the eighteen provinces of [[affiliation-upperriv
 
 The Halzi'a's authority in Legirusi is mostly labor. His steward administers the selat's revenue, its granaries and its corvée, and in this selat the corvée is stone: the flood-season gangs that cut and haul it are his. The best workmen belong to the temple-workshops of [[affiliation-psaqaru|Saq'aru]], and like every major temple this one holds estates to rival the Halzi'a's own, so the selat is shared between a landlord and a god. The seat is [[place-legirusi|Legirusi]], where the Halzi'a keeps his court and the chief temple stands.
 
+## Current Situation {#present}
+
+In Legirusi the flood season is the stone season: the Halzi'a's authority is labor, and the corvée is the cutting and hauling of stone. A low flood leaves more of the valley's fields dry and idle, and the gangs are larger than usual. The Halzi'a's steward feeds them from the selat's granaries, and the temple-workshops of Saq'aru, who own the best workmen, take the most. The monuments rise; the stone for them is the selat's tribute, and it arrives on the barges that the river can still float. The Halzi'a has found that a full quarry is a safer thing than an empty field and has increased the corvée. His surplus of stone and labor is a power in a year when the throne has little else to build with, and he is not offering it.
+
 ## Commerce and Currency {#commerce}
 
 Legirusi uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces that pay for the work and holds the granary accounts that feed the gangs while it is done. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

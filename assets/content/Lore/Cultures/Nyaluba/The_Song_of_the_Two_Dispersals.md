@@ -3,7 +3,7 @@ shortcode: twodispersals
 name: {full: The Song of the Two Dispersals}
 type: lore
 subType: literature
-description: "The Lobwezi memory-song of the two towns whose baobabs died, Bwelende before the five were five and Shendala in the Pact's time, sung at Lombesa when a child of either line is named: the trees, the households and where they went, the griots who carried the dead, and the woman who stayed."
+description: "The Lobwezi memory-song of the two villages whose baobabs died, Bwelende before the five were five and Shendala in the Pact's time, sung at Lombesa when a child of either line is named: the trees, the households and where they went, the griots who carried the dead, and the woman who stayed."
 tags: [draft, nyaluba]
 data:
   culture: nyalubaclt
@@ -20,9 +20,9 @@ data:
 # terran_analog: "Shona clan praise poetry and the Mande griot's recitation of a town's founding lineages, called by one voice and answered by the gathered; the Sumerian city laments for a town that is no more. Departs: no god abandons the town, nobody is blamed for the tree, the song is a record of where the households went, and its weight falls on the towns that made room."
 ---
 
-A [[lore-nyalubaclt|Lobwezi]] town centers on its baobab, and a town whose baobab dies does not replant and does not stay: the [[lore-baobablobwezispr|guide]] has withdrawn and the pact with that ground has ended ([[affiliation-nyalbbaob|Baobab Totem]]). **The Song of the Two Dispersals** is the memory-song of the two towns this has happened to, [Bwelende]{.name data-type="place/settlement"} and [Shendala]{.name data-type="place/settlement"}. It is kept by the [[skill-griot|griot]] who is custodian of the baobab of [Lombesa]{.name data-type="place/settlement"}, the town that took in households of both, and it is sung under that tree when a child whose line runs back to either town is named. The child is held up at the root, the griot calls, and the households answer.
+A [[affiliation-lobwezi|Lobwezi]] village centers on its baobab, and a village whose baobab dies does not replant and does not stay: the [[lore-baobablobwezispr|guide]] has withdrawn and the pact with that ground has ended ([[affiliation-nyalbbaob|Baobab Totem]]). **The Song of the Two Dispersals** is the memory-song of the two villages this has happened to, [Bwelende]{.name data-type="place/settlement"} and [Shendala]{.name data-type="place/settlement"}. It is kept by the [[skill-griot|griot]] who is custodian of the baobab of [[place-lombesavlg|Lombesa]], the village that took in households of both, and it is sung under that tree when a child whose line runs back to either village is named. The child is held up at the root, the griot calls, and the households answer.
 
-The song is praise poetry in the griot's call and the gathered answer, and a record as well as praise, so it holds to its received length and names only what the Lobwezi griots hold. It names the households of each town and the towns they went to. It does not say why either tree died, because the griots do not hold that the dying had a cause anyone could have mended, and it passes no verdict on the one woman who stayed. In the text below, the indented lines in italics are the answer of those gathered.
+The song is praise poetry in the griot's call and the gathered answer, and a record as well as praise, so it holds to its received length and names only what the Lobwezi griots hold. It names the households of each village and the villages they went to. It does not say why either tree died, because the griots do not hold that the dying had a cause anyone could have mended, and it passes no verdict on the one woman who stayed. In the text below, the indented lines in italics are the answer of those gathered.
 
 : The Song of the Two Dispersals {#song}
 
@@ -352,13 +352,13 @@ Hear me, children of the tree that stands./
 ## See Also
 
 [[affiliation-nyalbbaob|Baobab Totem]]
-: the town baobab, its custodian and why a town without one disperses
+: the village baobab, its custodian and why a village without one disperses
 
 [[lore-baobablobwezispr|Baobab Spirit]]
 : the guide that holds a place and withdraws from it
 
 [[skill-griot|Griot]]
-: the keeping of a town's dead where nothing is written
+: the keeping of a village's dead where nothing is written
 
 [[lore-swearbaobab|The Swearing Under the Baobab]]
 : the memory-song of the Pact whose five came to Shendala

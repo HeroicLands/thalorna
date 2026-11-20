@@ -16,6 +16,10 @@ The sun-house built the chain for one purpose: a road across the dry country fro
 
 The tribute came east for about a generation. When the sun-house closed in 1822 ST (289 BF) the court at [[place-galezkara|Galezkara]] called the garrisons home, and the forts were left standing in a country nobody in the valley wished to hold.
 
+## Layers {#history}
+
+The chain of forts was built across the South Marches in the years of the sun-house and abandoned when the house closed in 1822 ST (289 BF) ([[lore-templetrib|the Tribute of the Temple-Cities]]).
+
 ## What Is There Now {#present}
 
 The mud-brick is broken and the barracks roofs have fallen, but the cisterns were built to hold water and some of them still do. That alone makes the chain valuable. A fort with a standing cistern in the middle of the Marches decides which caravans can cross and which clan's herds can drink, and the strongest of the free companies hold the best of them.

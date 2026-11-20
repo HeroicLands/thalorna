@@ -124,7 +124,7 @@ Targud's grim reputation hides one distinction: it is the kingdom with the most 
 
 ## Relations
 
-Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarholm]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Domsei: the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Targud nor against it.
+Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarholm]], whose country lies far to the southwest beyond Malagna and Norgaad. Its dealings with the other four kingdoms are those of an equal at the table on Domsei: the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Targud nor against it.
 
 ## Commerce and Currency
 

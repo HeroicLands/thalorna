@@ -25,7 +25,7 @@ The city is a place of gardens behind walls, of libraries, academies and fire-te
 
 ## Arriving {#arriving}
 
-The road from Tahrodan comes in through the oasis villages, between palm groves planted in three tiers: dates above, apricots and pomegranates below them, beans and onions on the ground. Water runs beside the road in stone channels, and every channel has an owner. The first sight of the city is its wall over the palms, and at night the glow of the [Great Fire-Temple of Amradad]{.name data-type="place/structure"}, whose flame is never let out.
+The road from Tahrodan comes in through the oasis villages, between palm groves planted in three tiers: dates above, apricots and pomegranates below them, beans and onions on the ground. Water runs beside the road in stone channels, and every channel has an owner. The first sight of the city is its wall over the palms, and at night the glow of the [[place-grtfiretmpl|Great Fire-Temple of Amradad]], whose flame is never let out.
 
 A caravan pays its toll at Tahrodan and none here, but the market inspector's men stand at the caravan gate, read the toll-seal, weigh what is to be sold inside and take the market due. Anyone with business at court is sent on to the Gholvabun's clerks, who keep a list of petitioners that grows faster than it shrinks.
 
@@ -37,7 +37,7 @@ The great houses answer in the divans, where they hold the offices the petitions
 
 ## Order and Law {#order-and-law}
 
-Even the capital has a _tagemader_, who holds the city's garrison and revenue apart from the palace, and whose men keep the gates and the streets. The court guard keeps the palace and answers to the Shebarader alone. The city's _vazhmader_ judges by law and custom and administers the pious endowments of the temples and academies, so every rich gift to an academy passes through his court, and both sides court him. The _nuzgader_ inspects markets, weights and public morals, and is as resented here as in any town of the realm. Inside the Tellumi quarter the houses' Delkoshekhs arbitrate disputes among their own people by the codes of the [[affiliation-cnclprinces|Council]], but only where both parties consent; their rulings have no standing at law, and any Tellumi who refuses one takes his case to the vazhmader.
+Even the capital has a _tagemader_, [[being-drmnprvndr|Darmun Parvandar]], who holds the city's garrison and revenue apart from the palace, and whose men keep the gates and the streets. The court guard keeps the palace and answers to the Shebarader alone. The city's _vazhmader_ judges by law and custom and administers the pious endowments of the temples and academies, so every rich gift to an academy passes through his court, and both sides court him. The _nuzgader_ inspects markets, weights and public morals, and is as resented here as in any town of the realm. Inside the Tellumi quarter the houses' Delkoshekhs arbitrate disputes among their own people by the codes of the [[affiliation-cnclprinces|Council]], but only where both parties consent; their rulings have no standing at law, and any Tellumi who refuses one takes his case to the vazhmader.
 
 ## What the City Lives By {#what-the-city-lives-by}
 
@@ -47,11 +47,11 @@ The city sends out what a court makes: appointments, judgments, the coin of the 
 
 ## Quarters {#quarters}
 
-**The palace** stands on the highest ground of the oasis, with the courts of the divans around it, and its gardens are the largest in the city. **The temple precinct** below it holds the Great Fire-Temple and the lesser temples of the Twelve, and the academies and libraries crowd its edges, where the priestly scholars teach theology, astronomy, mathematics and medicine. **The garden quarter** holds the walled houses of the great families, each with its water-share and its astrologer. **The Tellumi quarter** holds the four exile courts, each a household of a few hundred souls with its own genealogies, priests and ceremony; the court of the [[affiliation-hseshirvan|House of Shirvan]] keeps [[miscgear-shirvantab|the First Tablet of Shirvan]] there. **The market** runs along the inside of the caravan gate, and it sells to the court rather than to caravans.
+**The palace** stands on the highest ground of the oasis, with the courts of the divans around it, and its gardens are the largest in the city. **The temple precinct** below it holds the Great Fire-Temple and the lesser temples of the Twelve, and the [[place-shbracadmies|academies]] and libraries crowd its edges, where the priestly scholars teach theology, astronomy, mathematics and medicine. **The garden quarter** holds the walled houses of the great families, each with its water-share and its astrologer. **The Tellumi quarter** holds the four exile courts, each a household of a few hundred souls with its own genealogies, priests and ceremony; the court of the [[affiliation-hseshirvan|House of Shirvan]] keeps [[miscgear-shirvantab|the First Tablet of Shirvan]] there. **The market** runs along the inside of the caravan gate, and it sells to the court rather than to caravans.
 
 ## Faith and Festivals {#faith-and-festivals}
 
-The [[affiliation-ahurdaen|Faith of Ahurdaen]] is the established worship of the Kingdom, and its High Shekhul at the Great Fire-Temple, [Aravdán the Stargazer]{.name data-type="being/npc"}, is as much a minister as a priest. He is an astronomer of wide reputation, he convenes the Council of the Princes, and both the great houses and the exile courts endow his temple. Every prayer in the city begins with the kindling of a fire, and every household keeps a flame lit from a temple's. The city's great occasions are the court's: an audience, a marriage timed by the astrologers, and the Council's session, when the Tellumi princes walk in procession to the Great Fire-Temple.
+The [[affiliation-ahurdaen|Faith of Ahurdaen]] is the established worship of the Kingdom, and its High Shekhul at the Great Fire-Temple, [[being-aravdnstrgz|Aravdán the Stargazer]], is as much a minister as a priest. He is an astronomer of wide reputation, he convenes the Council of the Princes, and both the great houses and the exile courts endow his temple. Every prayer in the city begins with the kindling of a fire, and every household keeps a flame lit from a temple's. The city's great occasions are the court's: an audience, a marriage timed by the astrologers, and the Council's session, when the Tellumi princes walk in procession to the Great Fire-Temple.
 
 ## Where a Party Lodges {#lodging}
 
@@ -72,6 +72,12 @@ The Tellumi quarter is the city's newest. Between about 620 and 629 the four pri
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : the realm governed from here
+
+[[place-grtfiretmpl|Great Fire-Temple of Amradad]]
+: the temple of the High Shekhul in the precinct below the palace
+
+[[place-shbracadmies|Academies of Shebarakhend]]
+: the schools and libraries at the edges of the precinct
 
 [[place-amradadrgn|Amradad Region]]
 : the settled country around the city

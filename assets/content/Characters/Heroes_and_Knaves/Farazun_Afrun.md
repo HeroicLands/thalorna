@@ -464,7 +464,7 @@ Farazun stands 5'10" tall with a heavy build. He has tanned weathered skin, dark
 
 Farazun was born the second son of a herder family in the borderlands of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in country where the line between settled civilization and wild frontier remains deliberately thin. His childhood was spent learning to manage livestock, to understand the temperament and needs of draft animals, and to navigate the unpredictable terrain of his homeland. When his older brother inherited the family's herds, Farazun, at eighteen, sought his fortune on the trade roads, joining a merchant caravan as an assistant teamster.
 
-For twenty-four years, he has traveled the routes connecting the major cities of the Kingdom and beyond, driving supply wagons and managing the animals that pulled them. Over time, his expertise and reliability won him respect within the caravan trade; merchants began to specifically request him, and rival teamsters came to respect his skill. Fourteen years ago, he earned his place in [The Teamsters' Guild of Amradad]{.name data-type="affiliation/guild"} and began accepting independent contracts. Since then, he has built a modest reputation as a teamster of uncommon skill and total integrity—a man who will deliver his cargo safely regardless of circumstances, and who treats his animals with care.
+For twenty-four years, he has traveled the routes connecting the major cities of the Kingdom and beyond, driving supply wagons and managing the animals that pulled them. Over time, his expertise and reliability won him respect within the caravan trade; merchants began to specifically request him, and rival teamsters came to respect his skill. Fourteen years ago, he earned his place among the teamsters of Amradad and began accepting independent contracts. Since then, he has built a modest reputation as a teamster of uncommon skill and total integrity—a man who will deliver his cargo safely regardless of circumstances, and who treats his animals with care.
 
 ## Psyche
 
@@ -536,25 +536,25 @@ Merchant Overlord [Shassik]{.name data-type="being/npc"}
 
 ### Affiliations
 
-The Teamsters' Guild of Amradad
-: Farazun maintains an active position within this organization and is respected for his adherence to its codes and standards.
+The Teamsters of Amradad
+: An informal body of the town's wagon-masters. Farazun holds a respected place among them for his adherence to their customs and standards.
 
 [The Waystation Keepers' Brotherhood]{.name data-type="affiliation"}
 : An informal network of those who maintain rest stops and supply depots along the major routes; Farazun networks with this group and assists them when possible.
 
 ## Plot Hooks
 
-The Cursed Cargo
-: Farazun accepts a contract to transport a sealed cargo under mysterious circumstances—the payment is outstanding, but the client is evasive about contents. As he travels, strange phenomena occur: animals become ill, the wagon seems to grow heavier without explanation, and traveling companions experience nightmares. He must discover what he's carrying and decide whether to complete the journey or break the contract.
+The Bales Under the Seal
+: A priest at [[place-tahrodan|Tahrodan]] hires Farazun to carry bales under a temple's seal to the coast, and the wagon rides heavier than the bales should weigh. He asks a party to ride with him and learn what the seal covers.
 
-The Bandits' Trap
-: Kela the Knife sets an elaborate ambush specifically designed to capture Farazun, revealing that she has been paid handsomely to deliver him to an unknown party. The party must help him escape and discover who wants him badly enough to hire mercenaries, leading to revelations about his past or about dangerous enemies he didn't know he had.
+Opened at the Gate
+: The toll-house at Tahrodan opens Farazun's wagons twice in a month, though none carries a temple's seal, and the clerk will not say who asked. Farazun asks a party to learn who is paying for the inspections before a third one costs him a contract.
 
-The Hidden Waystation
-: While traveling a rarely-used route, Farazun discovers an ancient, abandoned waystation from centuries past. Investigation reveals it contains supplies, maps, and records suggesting that other teamsters have been using it as a secret gathering place and information exchange. He is approached to join a shadowy organization of teamsters who guard secrets and move people and information along the routes.
+The Late Wagon
+: Valhamin Goravan's wagon from the north is two days late, and its driver is a friend of Farazun's. Farazun asks a party to ride up the Bizaria road and learn why.
 
-The Companion's Secret
-: A fellow teamster Farazun has worked alongside for years reveals a terminal illness and asks him for a dangerous final favor—to transport something precious and forbidden to a distant location. Farazun must decide whether loyalty to his friend outweighs his commitments and ethical concerns.
+The Escort's Price
+: The sheikh whose tribe escorts caravans from the handover well a day out of Tahrodan sends word that the price has doubled for Farazun's wagons alone. He asks a party to carry his answer to the sheikh's camp and learn who set the price.
 
-The Waystation Siege
-: Farazun arrives at a waystation he regularly uses to find it under siege by bandits or military forces. The stablemaster Khorvan is in danger, and Farazun must decide whether to risk his cargo and contracts to help his friend, or to take a safer route and abandon those who have aided him. Whatever choice he makes, the decision has significant consequences that ripple through the trade routes.
+Khorvan's Silence
+: Khorvan, the stablemaster of the waystation Farazun uses on the northern road, has sent no word for a month, and the teams there are fed by someone else. Farazun asks a party to ride out and learn whether Khorvan is ill, bought or gone.

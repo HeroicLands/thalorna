@@ -64,6 +64,14 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 The seat is Gezazabu, where the Halzi'a keeps court and the selat's chief temple of [[affiliation-thubai|Thuba'i]] stands. Thuba'i is the god of abundance and plenty, and a port that lives by the catch and the carrying trade keeps his festivals with a will.
 
+## Current Situation {#present}
+
+Gezazabu is the western delta port and the start of the trade road to Bethua, and the low flood has made that road the selat's business. The Bethuan aqueduct grain is the shore's one reliable surplus, and a trickle of it already comes east in the ordinary way of trade, paying the Halzi'a's toll before it reaches the delta's markets. The large sale waits on the Metrissa's choice, and if she sells, the toll at Gezazabu is the price of the road. He sets the toll himself and has not raised it, which makes him a friend of the Trade-Houses and of the delta's merchants alike. The salt-fish of his own coast keeps his people fed, and his curing-houses sell to the capital at the price the capital offers. The envoys who come from Okharis along the same road lodge at the temple of Thuba'i.
+
+:::secret {title="The steward's reports"}
+The Halzi'a's steward reports each envoy to him and to no one else.
+:::
+
 ## Commerce and Currency {#commerce}
 
 Gezazabu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of Gar-Hálzi attached to the chief temple attests the weight-pieces and holds the granary accounts, and a curing-house that sells a cargo of salt-fish by the barrel is paid in pieces that chapter has weighed. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

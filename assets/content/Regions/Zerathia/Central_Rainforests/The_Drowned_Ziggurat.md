@@ -34,7 +34,7 @@ The rite that bound them was the priesthood's attempt to keep the serpent-patron
 - **The river tribes** hold the river below the drowned plain as forbidden water and do not fish it. Their elders say the serpent-patron is asleep and must not be woken by oars, and give no other reason.
 - **The Kubindo** tell it as the story of the keeper who became a leader. **The deep-forest tribes** do not speak of it to outsiders. Asked the way, they name the wrong river.
 - **Sengala traders** of the [[affiliation-nylbtrblntn|Nyáluba]] know the drowned plain as a place their route skirts. Their parties are bound by the observances of the [[affiliation-nyalbleop|Leopard Totem]] not to reveal the route by which they came, and none has revealed this one.
-- **Khelathi and Okhárian river-factors** trade rumor about it. The story told in the northern river-ports is of a temple roofed in green stone and furnished with bronze, and it draws a steady trickle of salvage crews who do not come back.
+- **Khelathi and Okharik river-factors** trade rumor about it. The story told in the northern river-ports is of a temple roofed in green stone and furnished with bronze, and it draws a steady trickle of salvage crews who do not come back.
 
 The common account across the interior is that the wheels must not be stopped. The reason differs by teller: the patron will wake, or the river will turn, or the wheels hold up the roof. The accounts do not agree with each other, and none of them is the whole reason.
 
@@ -43,6 +43,10 @@ The common account across the interior is that the wheels must not be stopped. T
 The Ziggurat lies a long week by dugout upriver from the last river-tribe camp, through water that grows darker and slower each day. The drowned plain is a maze of flooded trunks, and boats that leave the old channel are lost. A guide who has been there is needed, and the only guides are men who will not say why they know the way.
 
 At the end of the channel, the river-terraces of the Ziggurat rise from the water in the gray before dawn. A causeway of roots runs from the nearest dry ground to the lowest terrace, and the sound of the wheels carries a mile across the flooded forest.
+
+## Layers {#history}
+
+The Kubindo tell of a court on a black river whose keeper made himself its leader, and the court is the Ziggurat ([[lore-rainforhist|the History of the Central Rainforests]]).
 
 ## See Also {#see-also}
 

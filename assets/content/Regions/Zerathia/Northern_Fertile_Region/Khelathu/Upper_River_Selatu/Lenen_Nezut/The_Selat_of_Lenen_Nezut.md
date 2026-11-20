@@ -66,7 +66,11 @@ The Selat of Lenen-Nezut is one of the eighteen provinces of [[affiliation-upper
 
 ## Character
 
-The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The Halzi'a's house is [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"}, descended from the Lenen-Nezut Gar-Auu ([[lore-thronelnz|the Throne at Lenen-Nezut]]), and it keeps their tombs, [[place-lnzways|the Lenen-Nezut Ways]], and the claim of royal blood that sits awkwardly beside the question of the next succession. The seat is Lenen-Nezut, where the Halzi'a keeps his court and the chief temple of Uqa'a stands.
+The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The Halzi'a's house is [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]], descended from the Lenen-Nezut Gar-Auu ([[lore-thronelnz|the Throne at Lenen-Nezut]]), and it keeps their tombs, [[place-lnzways|the Lenen-Nezut Ways]], and the claim of royal blood that sits awkwardly beside the question of the next succession. The seat is Lenen-Nezut, where the Halzi'a keeps his court and the chief temple of Uqa'a stands.
+
+## Current Situation {#present}
+
+The Halzi'a of Lenen-Nezut rules from a town that once held a throne, and his house, [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"}, descends from the Gar-Auu who ruled from it. In a quarrel over the succession his name is a fact of the court's arithmetic, and he is careful not to be a candidate in any version of it. He sends the throne neither refusal nor render this year, only letters about the flood, and the court reads the letters as carefully as it would read a claim. The selat's ram-cult and horse-pasture feed its people, and the horses are of interest to the factions who are courting the Okharik horsemen. He sells remounts to any buyer who pays, and he is not asked which house the buyer serves.
 
 ## Commerce and Currency {#commerce}
 

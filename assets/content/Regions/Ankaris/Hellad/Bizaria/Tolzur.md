@@ -31,7 +31,7 @@ The town's own water is a line of springs along a gravel stream, and the village
 
 ## Who Rules and Keeps Order {#who-rules}
 
-[[affiliation-argyrteikhos|Argirteikhos]] holds the town. A toll warden sits in the gatehouse and answers to the military governor, and the League's own toll post stands outside the wall under an officer of the March, so a caravan pays twice and argues about both. A company drawn from the March's joint army patrols the road, and the town's gate watch takes its orders from the warden.
+[[affiliation-argyrteikhos|Argirteikhos]] holds the town. A toll warden sits in the gatehouse and answers to the military governor, and the post outside the wall, staffed by the League under an officer of the March, takes the League's toll and the imperial tariff, so a caravan pays twice and argues about both. A company drawn from the March's joint army patrols the road, and the town's gate watch takes its orders from the warden.
 
 ## The Present {#present}
 

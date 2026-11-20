@@ -54,7 +54,7 @@ data:
         - whether the rites were forbidden by the chief's order or by the ruin of the army's priests
 ---
 
-The Khelathi say that every field in the valley has seen fighting, and that only a few remember it. The first of the few is a stretch of west-bank floodplain below [[place-lenennezut|Lenen-Nezut]], and the Coming of the [Tha'Ulgau]{.name data-type="affiliation/lineage"} is how it was made.
+The Khelathi say that every field in the valley has seen fighting, and that only a few remember it. The first of the few is a stretch of west-bank floodplain below [[place-lenennezut|Lenen-Nezut]], and the Coming of the [[affiliation-thaulgau|Tha'Ulgau]] is how it was made.
 
 ## The Valley Before
 

@@ -64,6 +64,10 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 A steward who comes out from the valley expects a selat to be a harvest, and learns in the first season that this one is a line of forts. The Halzi'a's work is the watch: the oasis-forts hold the wells, and the trade-tracks that cross the desert pass under their walls. His seat is [[place-khuqet|Khuqet]], where his court sits and the selat's chief temple of [[affiliation-uqaa|Uqa'a]] stands.
 
+## Current Situation {#present}
+
+Khuqet-Imntiqa is a line of oasis-forts on the far western tracks, and the flood matters to it only through the grain tithe and the caravans. The tithe is late and light. The caravans are the news: they bring word from Bethua and from beyond it that Okharik envoys are crossing the Empire's western edge on their way to Galezkara, and that the houses at court are receiving them. The Halzi'a, who holds the wells and the tracks, charges the tolls, feeds the envoys and writes nothing down that his seat does not need. He is asked by two factions what the riders said at the wells, and he answers each with what the other already knows. The oasis-forts keep their water, and the rest of the selat watches him keep it.
+
 ## Commerce and Currency {#commerce}
 
 Khuqet-Imntiqa uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.

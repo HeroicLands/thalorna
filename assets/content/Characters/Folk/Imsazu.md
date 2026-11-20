@@ -12,7 +12,7 @@ data:
   occupation: "Lead Designer"
   lore: []
   culture: khelathiclt
-  homes: [khelzuret]
+  homes: [khelzuret, zelqar]
   affiliations: {}
   gender: "female"
   species: humanflk
@@ -34,12 +34,21 @@ data:
     mouth: full
     extra_features: []
   packFolder: regkhfolk
+  items:
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - {key: designplans, name: Design plans (papyrus rolls), kind: miscgear, system: {weight: 1}}
 ---
 
 # Appearance {#appearance}
 
-Imsazu is a 42-year-old woman who stands 5'8" tall with a medium build. She has golden skin, black hair, and brown eyes.
+Imsazu is a 41-year-old woman who stands 5'8" tall with a medium build. She has golden skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
 Imsazu leads the design on one of the empire's great works, out of [[place-khelzuret|Khelzuret]]. The name on the plans is theirs, and the standing that follows rests entirely on what those plans deliver. Anyone judging the work is, whether they know it or not, judging Imsazu.
+
+The walled village of tomb-workers at [[place-zelqar|Zel-Qar]] cuts and builds to these designs, and the design office keeps a house there for the building season.

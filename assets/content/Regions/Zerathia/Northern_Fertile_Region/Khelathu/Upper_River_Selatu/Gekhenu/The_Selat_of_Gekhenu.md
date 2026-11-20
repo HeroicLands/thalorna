@@ -66,6 +66,10 @@ The Selat of Gekhenu is one of the upper-river selatu of the [[affiliation-empir
 
 The seat is Gekhenu, where the Halzi'a keeps his court and the chief temple of [[affiliation-rethsaar|Reth'Sa'ar]] stands. The steward administers the selat's revenue, its granaries and its corvée, and beside him the temple keeps the count of the year. A selat whose patron is the scribe of the gods keeps its authority in writing: the tax rolls, the granary accounts and the calendar all pass through scribal hands.
 
+## Current Situation {#present}
+
+Gekhenu keeps the calendar for the middle river, and the library-temple of Reth'Sa'ar at the seat holds the astronomers who count the year. The flood's height is read here at the middle river's own gauge, before the reading at the capital is proclaimed, and the two readings have come out short together. The Halzi'a's steward administers the revenue, granaries and corvée, and the temple keeps the count beside him. The selat's authority is in writing, and the writing is now the evidence: if the capital's reading and Gekhenu's reading ever differ, one of the two will be called a lie. The Halzi'a ensures his own temple sends its readings to the capital the day they are made. The render he sends the throne is on time, and the scribes' note beside it says why it is small.
+
 ## Commerce and Currency {#commerce}
 
 Gekhenu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

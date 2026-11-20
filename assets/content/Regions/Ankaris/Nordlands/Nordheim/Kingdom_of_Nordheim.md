@@ -153,7 +153,7 @@ Raiding, trade and migration set Nordheim's dealings with the rest of Ankaris. I
 
 Among the five kingdoms, Malagna is Nordheim's rival: the two have long vied for leadership of the Nordmen, and their dealings are fraternal and competitive at once. Norgaad, Targud and Vithgard stand neither with Nordheim nor against it, and meet it as equals on Domsei.
 
-Beyond the north, the [[lore-grukarfolk|Grukar]] to the east share the hard climate and little else, and the two peoples are often hostile. To the south, the forests of [[place-vrystwald|Vristwald]] are a contested frontier where Nordheim's settlers and the Varokh [[affiliation-vrystwldtrbs|tribes]] compete for ground.
+Beyond the north, the [[lore-grukarfolk|Grukar]] to the southeast share the hard climate and little else, and the two peoples are often hostile. To the south, the forests of [[place-vrystwald|Vristwald]] are a contested frontier where Nordheim's settlers and the Varokh [[affiliation-vrystwldtrbs|tribes]] compete for ground.
 
 ## Commerce and Currency
 
@@ -186,7 +186,7 @@ Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vyl
 : the tongue and how a name is built in it
 
 [[place-grkrhlmrgn|Grukarholm]]
-: eastern neighbors, the Grukar
+: southeastern neighbors, the Grukar
 
 [[place-vrystwald|Vristwald]]
 : southern frontier

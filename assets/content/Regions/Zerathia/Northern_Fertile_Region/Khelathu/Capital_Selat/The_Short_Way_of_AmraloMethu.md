@@ -36,6 +36,10 @@ The Short Way is not a blood-field. It holds two bodies, buried with rites, and 
 - **Robbers,** who think a foreigner's tomb is lightly warded.
 - **The necropolis-guard,** who walk the avenue each dusk and have never had to do more.
 
+## Layers {#history}
+
+The Way holds the two tombs of the Vilérian house of Amralo'Methu, which held the throne from 2487 ST (377 AF) after a Vilérian army broke the chariot corps ([[lore-vylconquest|the Vilérian Conquest]], [[lore-foreignhs|the Closing of the Foreign House]]).
+
 ## Hooks {#hooks}
 
 - **The name inside.** A Vilérian scholar is sure the commander's grave-goods carry the name he was born to, and that the name would embarrass a living senatorial house.

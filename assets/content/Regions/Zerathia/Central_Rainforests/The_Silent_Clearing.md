@@ -38,6 +38,10 @@ At the center, according to those few who have approached, there is a place wher
 
 The Clearing lies a ten-day march from the nearest river, on no trail the tribes will use. The approach is marked by silence: first the birds stop, then the insects, then the forest floor loses its leaf-litter and the trees stand bare of vines. Travelers who follow the game trails against the flow of the Quiet Dead's tracks will find it.
 
+## Layers {#history}
+
+Generations of watchers have kept the Clearing with bell-posts, a ring of burned earth and ash-marked paths ([[lore-rainforhist|the History of the Central Rainforests]]).
+
 ## See Also {#see-also}
 
 [[place-cntrlrnfrsts|Central Rainforests]]

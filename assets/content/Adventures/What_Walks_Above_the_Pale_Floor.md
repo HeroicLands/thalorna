@@ -7,20 +7,20 @@ description: "Lightning finds a salt-flat tower every night, and Vahrun Marzuvan
 tags: [draft]
 data:
   parents: []
-  locations: [twrlghtnmrkd, dunhardsrtrgn]
-  cast: []
+  locations: [twrlghtnmrkd, palefloor, kinlesswatch, dunhardsrtrgn]
+  cast: [vhrnmrzvn, mhrv]
   factions: [strmcltsbzhrms]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the [Pale Floor]{.name data-type="place/region"}, and the lightning finds it every night the sky offers. [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker who took the title Master of the Tower, which the [Council of Elders]{.name data-type="affiliation/governmental"} never conferred, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to one of the [[lore-dunhariclt|Dunhari]] who has stopped being one.
+The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the [[place-palefloor|Pale Floor]], and the lightning finds it every night the sky offers. [[being-vhrnmrzvn|Vahrun Marzuvan]], a storm-walker who took the title Master of the Tower, which the [Council of Elders]{.name data-type="affiliation/governmental"} never conferred, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to one of the [[lore-dunhariclt|Dunhari]] who has stopped being one.
 
 ## Hooks {#hooks}
 
 - **The thief.** A fence in [[place-qarvelakhend|Qarvelakhend]] pays well for [[miscgear-crwnvahrun|The Iron Crown of Vahrun Marzuvan]] and asks no questions. A rival went south before him and did not come back.
-- **The mercenary or soldier.** The Amradi _ghedvader_ at Qarvelakhend posts the party to the [Kinless Watch]{.name data-type="place/structure"} on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
+- **The mercenary or soldier.** The Amradi _ghedvader_ at Qarvelakhend posts the party to the [[place-kinlesswatch|Kinless Watch]] on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
 - **The leader.** A chieftain, or a member of [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]], hears that something in the storm is calling Dunhari to the Floor. The [Old Promise]{.name data-type="lore/custom"} forbids raising a blade against a Dunhari while an outside enemy walks the land, and nobody can say whether Vahrun is still a Dunhari.
 - **The wanderer.** A traveler is found on the salt with glass rooted in his hands. He mutters verses in a voice-bearer's cadence that no living voice-bearer teaches.
 
@@ -49,7 +49,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Purpose.** A roleplay and puzzle scene that makes the party learn what the cults know and what they are hiding.
 
-**Situation.** The door at the foot of the tower is a slab of fused glass with an iron lintel. It does not open to force. In the vestibule beyond, the walls carry verses cut into the stone in the _voice-bearer's_ cadence, and a half-stair of iron leads up to the hall where the lineages sit. On the stair, waiting, is [Mehrava]{.name data-type="being/npc"}, the senior elder of the Lightning-Marked, who has come alone from her camp and will not say how long she has been here.
+**Situation.** The door at the foot of the tower is a slab of fused glass with an iron lintel. It does not open to force. In the vestibule beyond, the walls carry verses cut into the stone in the _voice-bearer's_ cadence, and a half-stair of iron leads up to the hall where the lineages sit. On the stair, waiting, is [[being-mhrv|Mehrava]], the senior elder of the Lightning-Marked, who has come alone from her camp and will not say how long she has been here.
 
 **NPCs and threats.** Mehrava is a thin, upright woman in indigo, with a forked mark across her left cheek and the stillness of someone who listens to the sky. She tells no lie and softens no reading. She will not help the party kill Vahrun, because she cannot say that he is dead. She also has no wish to see him freed. She asks what the party wants, and weighs the answer.
 
@@ -114,7 +114,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Situation.** The storm ebbs. Vahrun kneels, a thin old man with a burned face. The crown on his brow is cold, and he offers it to the party.
 
-**NPCs and threats.** Mehrava has climbed the stair behind them. She tells them what they do not want to hear. Vahrun is a Dunhari, the Shadow in the storm is an enemy from outside, and the Old Promise forbids any Dunhari blade raised against another while such an enemy walks Dunhari land. The blow that kills him is the blow the Promise forbids. The crack, however, will not close unless someone stands in it.
+**NPCs and threats.** Mehrava has not climbed above the hall of the lineages, and her voice comes up the iron stair to the gallery. She tells them what they do not want to hear. Vahrun is a Dunhari, the Shadow in the storm is an enemy from outside, and the Old Promise forbids any Dunhari blade raised against another while such an enemy walks Dunhari land. The blow that kills him is the blow the Promise forbids. The crack, however, will not close unless someone stands in it.
 
 **Player choices.**
 
@@ -140,6 +140,12 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 [[place-twrlghtnmrkd|Tower of the Lightning-Marked]]
 : the site and its toll
+
+[[place-palefloor|Pale Floor]]
+: the salt flat and the named day
+
+[[place-kinlesswatch|Kinless Watch]]
+: the fort of the Kinless on the Floor's western edge
 
 [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]]
 : the lineages and the Council

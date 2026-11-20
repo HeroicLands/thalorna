@@ -35,10 +35,23 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 - The chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates
 - The old burial-ground of the first dynasties, [[place-firsttablets|the Ground of the First Tablets]]
 
+## Current Situation {#present}
+
+The villages of Zu-Ger lie round the oldest burial-ground of the empire, and they keep the tombs. The throne's offerings to the first kings are paid in grain and oil, and the villages that carry them to the tombs report that the loads are smaller. The temple of Hezmu'iri at Chegu holds the rest. The estate-towns farm what the flood leaves.
+
 ## Settlements {#settlements}
 
-Chegu (~39,000)
+Chegu (~7,600)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zelger|Zel-Ger]] (~7,400)
+: a mortuary-service town in Zu-Ger Selat, close to the old royal burial-ground beside Chegu
+
+[[place-lutger|Lut-Ger]] (~6,100)
+: an estate-town of Zu-Ger Selat with a granary that the royal funerary estates fill
+
+[[place-yathger|Yath-Ger]] (~5,000)
+: a river-landing town of Zu-Ger Selat where the barges of the burial-ground unload stone and timber
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

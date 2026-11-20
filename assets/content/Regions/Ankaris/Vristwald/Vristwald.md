@@ -15,6 +15,7 @@ data:
     - {to: tarvenirgn, bearing: S}
     - {to: toravarrange, bearing: S}
     - {to: velanthrgn, bearing: E}
+    - {to: grkrhlmrgn, bearing: E}
     - {to: vylariargn, bearing: SE}
     - {to: moktur, bearing: S}
   population: 500000

@@ -62,7 +62,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Character
 
-"The raiders carry arms from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]," a patrol-leader says to the new troopers at [[place-zileti|Zileti]], "and I will not explain it to you, because nobody has explained it to me." The Halzi'a's work is to keep the pastures and the watch: the horses graze the margin, the levies ride its edge, and the herding clans beyond it are traded with warily and watched always. The Halzi'a house is [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the kin of the hill-nomad conquerors, settled on these pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), and it makes the yearly offering at [[place-zelhalzi|Zel-Halzi]]. His seat is Zileti, where his court sits and the selat's chief temple of [[affiliation-uqaa|Uqa'a]] stands.
+"The raiders carry arms from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]," a patrol-leader says to the new troopers at [[place-zileti|Zileti]], "and I will not explain it to you, because nobody has explained it to me." The Halzi'a's work is to keep the pastures and the watch: the horses graze the margin, the levies ride its edge, and the herding clans beyond it are traded with warily and watched always. The Halzi'a house is [[affiliation-thaulgau|Tha'Ulgau]], the kin of the hill-nomad conquerors, settled on these pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), and it makes the yearly offering at [[place-zelhalzi|Zel-Halzi]]. His seat is Zileti, where his court sits and the selat's chief temple of [[affiliation-uqaa|Uqa'a]] stands.
+
+## Current Situation {#present}
+
+Zu-Qeztu is the margin where irrigation gives out and horse-pasture begins, and a short flood moves that margin toward the river. The herders' grazing shrinks, their animals thin, and the Halzi'a's watch against raiders has more mouths to feed from the same stores. The selat's horses are what the court wants, and the Halzi'a knows it: the render of foals and remounts that he owes the chariot corps is late, and he does not say whether the herds can spare them. Okharik horse-traders, who bring better stock from the west, appear at the seat of Zileti with offers, and the Halzi'a lets them water their animals at his wells. He takes what he is offered, as he takes the court's letters, and sends neither side an answer.
 
 ## Commerce and Currency {#commerce}
 

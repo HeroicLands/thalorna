@@ -3,7 +3,7 @@ shortcode: zenjaidmn
 name: {full: Zenjai Domain, en: [House Zenjai]}
 type: affiliation
 subType: polity
-description: "The domain of House Zenjai—Snow Peak in the cold north, with one harvest a year, horse pastures and a northern levy, held from Buiwu by an independent lord whom both blocs are trying to feed into alliance."
+description: "The domain of House Zenjai—Zenjai in the cold north, with one harvest a year, horse pastures and a northern levy, held from Buiwu by an independent lord whom both blocs are trying to feed into alliance."
 tags: [polity, Jenchai, domain]
 data:
   icon: null
@@ -41,10 +41,44 @@ data:
         description: >-
           Holds Zenjai by the Emperor's patent, with his own army, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Zenjai, who holds the mountain by the Emperor's patent with his own army, justice and taxes, and rules it from Buiwu. Held by a Dauzhwo.
+      Judge: Chosen from the Dauzhwo's retainers to hear the cases of the town in the hall at Buiwu.
       Keeper of the Stables: Held by the Maiju, who keep the horse pastures of the domain and the roll of its mounts.
   seat: buiwu
   population: 52000
   territorial_population: 52000
+  settlements:
+    - settlement: Chonu
+      polity: affiliation-zenjaidmn
+      location: place-zenjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 240
+      market: local
+      notes: "Winter Terraces. Court estate. Barley and late rice. Head village of a district assessed at 900 bales."
+    - settlement: Buimu
+      polity: affiliation-zenjaidmn
+      location: place-zenjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-zenjaidmn
+      population: 160
+      market: local
+      notes: "White Wood. Demesne. Timber and charcoal. Head village of a district assessed at 600 bales."
+    - settlement: Maidu
+      polity: affiliation-zenjaidmn
+      location: place-zenjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Maiju"
+      population: 190
+      market: local
+      notes: "Horse Road. Fief. Horse pastures. Head village of a district assessed at 700 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -54,7 +88,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Zenjai Domain, held by House Zenjai (Snow Peak), holds [[place-zenjai|Zenjai]], the mountain of the cold north of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Zenjai Tsuiwo]{.name data-type="being/npc"} (Iron Warrior), thirty-three years old, who sits in the castle town of [[place-buiwu|Buiwu]] (White Hall), population 2,800. The domain holds 52,000 people, is assessed at 38,000 bales a year, and musters 1,520 men, a northern levy of four men for every hundred bales. Zenjai keeps no fleet. The house is independent of both blocs, and Tsuiwo's choice between them ends the balance.
+The Zenjai Domain, held by House Zenjai (Snow Peak), holds [[place-zenjai|Zenjai]], the mountain of the cold north of the great island, by patent of the Emperor. Its lord is the Dauzhwo [[being-zenjaitsuiwo|Zenjai Tsuiwo]] (Iron Warrior), thirty-three years old, who sits in the castle town of [[place-buiwu|Buiwu]] (White Hall), population 2,800. The domain holds 52,000 people, is assessed at 38,000 bales a year, and musters 1,520 men, a northern levy of four men for every hundred bales. Zenjai keeps no fleet. The house is independent of both blocs, and Tsuiwo's choice between them ends the balance.
 
 ## The Land
 
@@ -68,6 +102,8 @@ The roll's 38,000 bales come from the three villages named here and from smaller
 | Buimu   | White Wood      | Demesne      | The lord's granary at Buiwu             | Timber and charcoal  |      600 |
 | Maidu   | Horse Road      | Fief         | The Maiju                               | Horse pastures       |      700 |
 
+Each named village is the head village of a district, and the assessment in the table is the district's.
+
 The summit shrine of Zenjai is provisioned from the lord's villages, and its Tanchei read the mountain for a lord whose year is decided by the snow.
 
 ## Retainers
@@ -78,18 +114,27 @@ The [Maiju]{.name data-type="affiliation/lineage"} keep the stables and hold [Ma
 
 The muster is 1,520 men, and none of them sails: the domain has no fleet. The levy is raised in the northern manner, four men to the hundred bales against two and a half in the other houses, and the stables of the Maiju mount its officers.
 
+## Current Situation {#present}
+
+The north came through the winter before 720 AF on half rations, and [Zenjai Tsuiwo]{.name data-type="being/npc"} knows the cost of it village by village. Both blocs are bidding for his 1,500 spears, and both are bidding in rice that they do not have. [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have each named a price, and Tsuiwo means to sell his choice for grain and not for titles. He wants the granaries of the north full before the first snow.
+
+The vacant office of Teng Ja leaves the north's hunger as the realm's hinge. A bloc that cannot deliver the rice loses the bid to the other, and the district whose granary stays empty is the one the winter takes again.
+
+## History {#history}
+
+Zenjai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]], and the realm's balance turns on which bloc it joins ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Zenjai belongs to neither bloc, and its joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the balance of the Nine. Both are bidding for it.
-
-## The Half-Ration Winter
-
-The north came through last winter on half rations. Tsuiwo will put 1,500 spears behind whichever bloc feeds his province, and both blocs are bidding in rice that they do not have.
 
 ## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[being-zenjaitsuiwo|Zenjai Tsuiwo]]
+: the Dauzhwo of the domain
 
 [[place-zenjai|Zenjai]]
 : the mountain of the domain

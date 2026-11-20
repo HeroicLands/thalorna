@@ -57,6 +57,7 @@ export const REQUIRED_ENCODINGS = [
     ["doc-valthelonikaenc", "skill-valtarlng", "skill-helnkscrpt", "helonika-book"],
     ["doc-varosemaronenc", "skill-varokhlng", "skill-semrnscrpt", "semaron-kuriale"],
     ["doc-vedyvedyaksharaenc", "skill-vedyarlng", "skill-vdykshrscrpt", "vedyakshara-classical"],
+    ["doc-velthelonikaenc", "skill-velanthlng", "skill-helnkscrpt", "helonika-book"],
     ["doc-vylsemaronenc", "skill-vylarilng", "skill-semrnscrpt", "semaron-kuriale"],
 ];
 const REQUIRED = [

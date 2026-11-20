@@ -35,10 +35,23 @@ The selat feeds its granaries from the flood like every [[lore-khelathiclt|Khela
 - The chief temple of the Faith of Pelgun and its estates
 - The caravan-roads from the eastern desert and the harvest-festivals of Pelgun
 
+## Current Situation {#present}
+
+The villages of Selat-Pelgun gather their harvests for the festivals of Pelgun, and this year the harvest is thinner. The caravans from the eastern roads still come down to the seat at Iku, carrying goods and no grain, and the villages sell them what they can spare. The festivals are shorter, the feasts are smaller, and the people stretch what they have. The seat's markets buy what the caravans carry at the caravan-masters' price, and the villages take it.
+
 ## Settlements {#settlements}
 
-Iku (~34,000)
+Iku (~7,000)
 : the selat capital and the seat of the Halzi'a.
+
+[[place-zelpelgun|Zel-Pelgun]] (~6,400)
+: a caravan-yard town in Selat-Pelgun, at the end of the eastern desert roads beside Iku
+
+[[place-yathpelgun|Yath-Pelgun]] (~5,300)
+: a harvest-festival town in Selat-Pelgun, on the river a day's ride from Iku
+
+[[place-zupelgun|Zu-Pelgun]] (~4,300)
+: a well-and-pasture town of Selat-Pelgun on the edge of the desert, where herders bring their flocks to water
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.

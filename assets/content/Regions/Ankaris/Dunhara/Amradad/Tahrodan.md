@@ -35,7 +35,7 @@ The tribes are the other edge. Tribal escorts bring the desert caravans to a wel
 
 ## The Holder {#holder}
 
-A governor, a _tagemader_, holds Tahrodan for the Shebarader with its garrison and its revenue, and he holds the richest governorship in the realm on the same terms as every other: by the Shebarader's grant, revocable at a word. He plays the great powers of the region against one another as carefully as the Shebarader does, because the city's wealth depends entirely on the road staying open, and he plays the temples and the toll-house against each other for the same reason.
+A governor, a _tagemader_, [[being-ghzrnmzhn|Ghezrun Mazhen]], holds Tahrodan for the Shebarader with its garrison and its revenue, and he holds the richest governorship in the realm on the same terms as every other: by the Shebarader's grant, revocable at a word. He plays the great powers of the region against one another as carefully as the Shebarader does, because the city's wealth depends entirely on the road staying open, and he plays the temples and the toll-house against each other for the same reason.
 
 ## Garrison {#garrison}
 
@@ -83,3 +83,6 @@ The citadel stands over the meeting of the roads, and the governor's palace and 
 
 [[scenario-sprngbfrbnnr|The Spring Before the Banner]]
 : a scenario: one spring on the caravan road while a dovaq gathers tribes under his banner
+
+[[scenario-undrtmplsl|What Passes Under the Seal]]
+: a scenario: a whole caravan held under one fire-temple's seal, and a toll dispute at the gate

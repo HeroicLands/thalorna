@@ -13,6 +13,7 @@ data:
     - {to: khzryndsrtrgn, bearing: E}
     - {to: wlqtrrgn, bearing: E}
     - {to: helionis, bearing: W}
+    - {to: velanthrgn, bearing: N}
     - {to: amradadrgn, bearing: S}
   population: 1200000
   packFolder: byzaria
@@ -42,7 +43,7 @@ Nine more towns of 2,500 to 4,500 people stand in the country between the coast 
 
 ## The Marches
 
-The five city-states govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city-state's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the city-states raise by conscription, and paid for from the common treasury and the silver of Argirteikhos.
+The five city-states govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city-state's charter, held by a lord commissioned by the League council and answerable to it for the paying and staffing of the garrison, which is drawn from the joint army the city-states raise by conscription, paid for from the common treasury and the silver of Argirteikhos. Imperial officers hold the passes, the tariffs and the muster in law.
 
 - The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Argirteikhos, facing the Khazrin steppe and, to the south-east, the oasis-belt and the northern edge of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
 - The [[place-southrnmrch|Southern March]] is the dry pastoral upland south and east of Karvashion, through which the caravan road runs to [[place-dunharargn|Dunhara]]. It is hunting and herding country, held by a landed lord rather than a soldier.
@@ -78,7 +79,7 @@ The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a substantial following amon
 
 ## Politics and Power
 
-The League is a commercial pact, not a state. Each city-state keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"} sets the common tolls and settles the joint fleet and army, the marches, and disputes between city-states, and nothing else. Krusteikhos's bankers dominate the council by weight of money, Nesthiros's admiralty by weight of ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison.
+The League is a commercial pact, not a state. Each city-state keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"} sets the common tolls and settles the pay of the forts, the joint fleet and army, the marches, and disputes between city-states, and nothing else. Krusteikhos's bankers dominate the council by weight of money, Nesthiros's admiralty by weight of ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison.
 
 The [[affiliation-vylarinmpr|empire]] annexed the League as a province in [[lore-heladeastwar|the Eastern War]], about 209 AF. [[lore-heladcompact|The Compact]] that bound the five cities was dissolved by edict, and the cities kept their councils while the passes, the tariffs and the muster passed to imperial officers.
 

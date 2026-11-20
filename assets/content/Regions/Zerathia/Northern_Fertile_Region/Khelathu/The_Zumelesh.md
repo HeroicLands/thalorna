@@ -5,7 +5,13 @@ type: place
 subType: feature
 description: "The river the empire is built on—its flood sets the year, its silt makes the fields, and its southern reach belongs to a god."
 tags: []
-data: {demonym: null, lore: [], parents: [aukhelathrgq], population: null, packFolder: regkhregn}
+data:
+  demonym: null
+  lore: []
+  parents: [aukhelathrgq]
+  routes: [{to: maguithnet, bearing: W, mode: boat, days: 2, terrain: [river, lake]}]
+  population: null
+  packFolder: regkhregn
 ---
 
 **The Zumelesh** runs north out of the southern uplands, through a desert that would otherwise be empty, to a delta on the [[place-vylarianse|Vilérian Sea]]. Nineteen million people live within reach of its water and almost nobody lives out of it. The valley it has cut is green for a few miles either side and stops, and the line where the black soil ends is visible from any height.

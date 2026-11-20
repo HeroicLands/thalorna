@@ -11,7 +11,7 @@ tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
-Leopard Spirit is the totemic being venerated by the [Sengala]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
+Leopard Spirit is the totemic being venerated by the [[affiliation-sengala|Sengala]] of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbleop|Leopard Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 

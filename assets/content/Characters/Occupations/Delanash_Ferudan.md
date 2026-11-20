@@ -11,8 +11,8 @@ data:
   occupation: Man-at-Arms
   lore: []
   culture: dunhariclt
-  homes: [dunhardsrtrgn]
-  affiliations: {dunhartrbs: {rank: 3}, mizhara: {rank: 1}}
+  homes: [gharzadez]
+  affiliations: {kngdmmrdd: {rank: 4}, dunhartrbs: {rank: 3}, mizhara: {rank: 1}}
   gender: female
   species: humanflk
   born: 679.325
@@ -376,7 +376,7 @@ Delanash is an imposing woman—6'3" with a massive, powerfully built frame that
 
 Delanash comes from Dunhari desert tribes, though her freckled complexion is unusual enough to have marked her as an outsider even in her birth tribe. Her mother was a settlement-keeper whose family had mixed heritage; her father was a Dunhari warrior. The combination produced Delanash: a tall woman with distinctive freckled skin that the pure-blood tribes regarded as a sign of weakness or taint. She was neither fully Dunhari in their eyes nor fully able to pass in settled lands.
 
-At nineteen, she presented herself to the desert fortress garrison as a volunteer. The garrison commander saw a six-foot-two woman of great strength and no tribal allegiances, and he understood immediately that she was perfect for a military institution that did not care about bloodline. For twenty-one years, Delanash has served in the fortress, working her way from basic garrison service to senior officer rank. She has mentored generations of desert warriors and has become indispensable to fortress operations.
+At nineteen, she presented herself to the garrison of the barred fort at [[place-gharzadez|Gharzadez]] as a volunteer. The garrison commander saw a six-foot-two woman of great strength and no tribal allegiances, and he understood immediately that she was perfect for a military institution that did not care about bloodline. For twenty-one years, Delanash has served in the fortress, working her way from basic garrison service to senior officer rank. She has mentored generations of desert warriors and has become indispensable to fortress operations.
 
 Delanash's unusual coloring has become her identifying feature. Young soldiers call her "The Freckled Guard" with respect rather than derision. She has become a symbol of the garrison's ideal of advancement by merit—advancement through competence rather than heritage. This makes her politically significant in ways she neither sought nor particularly wants.
 
@@ -402,7 +402,7 @@ Delanash occupies a unique social position: respected by the garrison, treated w
 
 ### Patrons
 
-**Fortress Commander [[being-bashvarddarv|Bashvard Darvani]]**—The garrison's senior officer. Bashvard respects Delanash completely and has made her his effective second-in-command. He is aging and increasingly aware that his time is ending. He has made quiet arrangements to recommend Delanash as his successor, which would be unprecedented—a woman and a tribal outsider commanding the entire fortress.
+**Fortress Commander [[being-bashvarddarv|Bashvard Darvani]]**—The garrison's senior officer. Bashvard respects Delanash completely and has made her his effective second-in-command. He is aging and increasingly aware that his time is ending.
 
 ### Enemies
 
@@ -410,17 +410,14 @@ Delanash occupies a unique social position: respected by the garrison, treated w
 
 ## Plot Hooks
 
-The Succession Battle
-: When Fortress Commander Bashvard dies, Delanash is officially recommended as his successor by the military hierarchy. The appointment touches off a political firestorm among Dunhari tribes who refuse to accept a woman and tribal outsider commanding the fortress. A rival candidate—a pure-blood Dunhari warrior of great skill—is proposed, backed by Tribal Elder Zarvash. The fortress becomes a political battleground, and Delanash can accept a compromise that strips her of actual authority, or refuse and accept that tribal forces will move against the fortress openly.
+The Recommendation
+: The garrison's senior officers talk of Delanash as Bashvard's heir, and the talk reaches the tribes. Some tribes refuse to accept a woman and a tribal outsider commanding the fort, and Zarvash Kaveran puts forward a pure-blood Dunhari rider of great skill. Delanash can accept a compromise that strips her of authority, or refuse and watch the tribes move against the fort openly.
 
 The Freckle Prejudice
-: Delanash discovers that a younger officer, **Captain [[being-razasharperu|Razashar]]**, is secretly working with Tribal Elder Zarvash to document her decisions for political criticism. Razashar respects her military competence but has been convinced by Zarvash that Delanash's presence in command is corrupting Dunhari warrior traditions. Delanash can remove Razashar from his command, which bears out Zarvash's accusation that she wields power unfairly, or tolerate his undermining and go on with the work.
+: Zarvash's rumors that she is an outsider unfit for command reach the garrison's stables and the Gharzadez market. Delanash can answer them in the open, which bears out his accusation that she wields power unfairly, or tolerate them and go on with the work.
 
-The Impure Blood Discovery
-: Delanash learns that Bashvard did not die of natural causes but was poisoned—slowly, over weeks. Investigation reveals the poison was administered by someone in the inner command circle. The political implication is clear: traditional Dunhari factions are eliminating anyone who supports Delanash's advancement. Delanash can accuse Zarvash publicly and risk all-out tribal war, or suppress the investigation and appear weak.
+The Family at the Gate
+: A household arrives at the barred fort calling itself a trading family, though its women carry the marks of a tribe in flight from a feud. Zarvash Kaveran demands they be turned out, and Delanash asks a party to learn who follows them before she decides whether to refuse him.
 
-The Desert Refuge
-: A group of people arrives at the fortress claiming to be refugee traders. Investigation reveals they are actually members of a neighboring tribe fleeing political upheaval that threatens to kill them. Tribal Elder Zarvash demands that Delanash eject them immediately, claiming they are "undesirable" and will contaminate the garrison. The refugees have nowhere else to go and will be executed if sent away. Delanash can refuse Zarvash, which escalates the tribal conflict, or comply, which betrays everything the garrison stands for.
-
-The Freckles As Advantage
-: An external threat emerges—a military force from an adjacent realm staging operations against the fortress. Delanash realizes that her distinctive appearance and her reputation as a garrison commander have actually deterred several potential attacks through intimidation and stories. But that reputation is being used against her by Zarvash, who claims she is a "foreign symbol" leading the garrison away from Dunhari traditions. Delanash can cultivate the stories as a tactical advantage, which bears out Zarvash's accusations, or reject them and lose the protection they provide.
+The Face on the March Road
+: Kinless raiders have begun to turn back from the [[place-marchroad|March Road]] when Delanash rides out, and the garrison credits her face. Zarvash calls her a foreign symbol leading the fort from Dunhari ways, and she asks a party to learn what the raiders say of her, since the story that guards the road is the one he uses against her.

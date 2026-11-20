@@ -66,6 +66,10 @@ The Selat of Zebt-Relepet is one of the eighteen provinces of [[affiliation-uppe
 
 This is a mortuary trade without a pilgrimage, and the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] and the temple run it as steady work. The seat is Zebt-Relepet, where the Halzi'a keeps his court and the chief temple of Weth'ur stands.
 
+## Current Situation {#present}
+
+Zebt-Relepet is a workmanlike mortuary selat of cavern-tombs and natron, and the Halzi'a and the temple of Weth'ur run it as steady work. A hungry year raises the work: more dead need more natron, and the cavern-tombs fill. The mortuary trade here is without pilgrimage, which means the selat has no foreign offerings to fall back on, and its income is from the Halzi'a's own people and the neighboring selatu. He sends the throne its natron tribute in full, since natron keeps, and delays the grain. The temple of Weth'ur buries the poor in common caverns without the fees, and the Halzi'a lets it, because a selat that cannot bury its dead is a selat that cannot be governed.
+
 ## Commerce and Currency {#commerce}
 
 Zebt-Relepet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts, and the natron that dries the dead is sold by weight like anything else. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

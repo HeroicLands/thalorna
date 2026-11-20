@@ -48,8 +48,8 @@ data:
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
       Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
   seat: yeshirovlg
-  population: null
-  territorial_population: 180
+  population: 130000
+  territorial_population: 130000
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: [okharis]

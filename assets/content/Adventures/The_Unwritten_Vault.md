@@ -32,7 +32,7 @@ Read [[place-clublstvlt|the Burial Club's Last Vault]] first. The adventure assu
 ### Hooks
 
 - **The thief.** A drover sells the rumor that a poor club's savings lie in the sealed chamber at the back of its vault and that nobody has ever robbed it. The party takes the caravan road west to find out why.
-- **The soldier or the deserter.** A soldier in flight from the [Meglai]{.name data-type="affiliation/governmental"} is told the margin is empty. A mercenary hired to escort a temple's captain finds that three watch-priests walked west and did not return. Either way the one place with a roof and a door is the vault.
+- **The soldier or the deserter.** A soldier in flight from the [[affiliation-meglai|Meglai]] is told the margin is empty. A mercenary hired to escort a temple's captain finds that three watch-priests walked west and did not return. Either way the one place with a roof and a door is the vault.
 - **The leader.** A herder-chieftain of the western margin holds grazing under arrangement with the Halzi'a, and three of his men have gone to the red hills in a season. He offers pasture-rights in exchange for the matter being closed, and he cannot pay in anything else.
 - **The wanderer.** A widow in a river town holds her husband's dues receipt in a clay jar and has been refused the rite at two temples, because the club's roll is not in the temples' hands. She asks to be taken to his niche.
 

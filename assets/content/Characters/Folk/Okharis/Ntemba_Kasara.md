@@ -9,11 +9,11 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior, courtier]
-  occupation: Chief
+  occupation: Chieftain
   lore: []
   culture: okharinclt
   homes: [shokumavlg]
-  affiliations: {}
+  affiliations: {shokumatrb: {rank: 5, office: Chieftain}, okharis: {rank: 3}}
   gender: male
   species: humanflk
   born: "669.50"
@@ -34,6 +34,13 @@ data:
     mouth: full
     extra_features: []
   packFolder: northernfertileregionokharis
+  items:
+    - key: chieftainsmantle
+      name: Chieftain's honey-colored mantle
+      kind: miscgear
+      system: {weight: 3}
+    - {key: honeybasket, name: Wax-sealed honey basket, kind: miscgear, system: {weight: 2}}
+    - {key: spr, model: weapongear-spr, kind: weapon}
 ---
 
 # Appearance {#appearance}
@@ -42,4 +49,20 @@ Ntemba Kásara is a 50-year-old man who stands 5'11" tall with a heavy build. He
 
 # Dossier {#dossier}
 
-Ntemba Kásara is the chief of the tribe of [[being-kirobashkm|Kiroba of the Shókuma]]. He sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba's expedition and uses his political connections to provide safe passage through certain hostile territories.
+Ntemba Kásara is the chieftain of the [[affiliation-shokumatrb|Shókuma Tribe]] and lives at [[place-shokumavlg|Shókuma Village]]. He sees great potential in [[being-kirobashkm|Kiroba of the Shókuma]] and has tasked him with protecting the tribe. He funds Kiroba's expedition and uses his political connections to provide safe passage through certain hostile territories.
+
+## Background
+
+**Formation.** He grew up in the honey camps of the forest rivers and learned the canopy from the tribe's elder shamans.
+
+**Accession.** He took the chieftaincy at thirty-two by descent and the elders' consent, and the tribe's shamans still speak with the zohira.
+
+## Psyche
+
+### Motivation
+
+He wants the beeswax dues kept at the weight the temples have always burned, and Kiroba's expedition to succeed.
+
+## Plot Hooks
+
+1. **The wax for the temples.** The beeswax dues for the temple-cities are due at the festival, and he wants a party to carry the wax-cakes and see them entered in the registers at the count he made.

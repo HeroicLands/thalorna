@@ -110,6 +110,14 @@ Ten selatu make up the delta class, each under its hereditary [[affiliation-empi
 
 Delta total: about 6,000,000.
 
+## Current Situation {#present}
+
+The delta is where a short flood is felt in the markets before it is felt in the fields. The marshes draw less water from the river's tail, the flax and papyrus beds come in thin, and the ports see grain from abroad priced above anything the valley has charged in living memory. The ten Halzi'a are merchants and diplomats as much as governors, and they hold the ready silver that the throne needs to buy grain from over the sea. That gives them a bargaining position, and every one of them uses it a little: the render comes late, and the Gar-Au's customs duty arrives with a clerk's note about the season.
+
+The Overseer of the Sea-Gate at Gar-Anlaghet answers to the throne for the customs at all ten selatu. He licenses the foreign factors and their warehouses, and in a year when every cargo of grain is political he decides which factors get a berth first. Taruzelian and Vilérian factors watch the ports for signs of a weak court; Bethuan Trade-Houses, with the surplus their aqueducts give them, are asked to sell, and the price is argued in the counting-houses of Gar-Anlaghet.
+
+The Dike-Wardens keep the channels and marsh-cuts open against a lowered river, and the Harbor-Masters keep the quays, where grain is now the cargo every ship is asked about. The merchant families have long held the selatu's weight at court. The failing flood makes them the Halzi'a who could pay the throne's bills or refuse to, and the throne learns which only when the grain ships fall due.
+
 ## For the Worldbuilder
 
 Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a [[lore-vylarianclt|Vilérian]] port province such as [[affiliation-provincvld|Salkalon]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gar-Hálzi]] temple-treasuries that bank their gold, and the [[lore-garauu|Gar-Au]]'s customs men who tax it all.

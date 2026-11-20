@@ -48,8 +48,8 @@ data:
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
       Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while he carries the word.
   seat: khamundavlg
-  population: null
-  territorial_population: 400
+  population: 240000
+  territorial_population: 240000
   economy: []
   lore: [humanflk]
   parents: [okharis]

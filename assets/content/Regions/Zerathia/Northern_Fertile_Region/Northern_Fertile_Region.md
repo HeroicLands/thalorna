@@ -23,13 +23,13 @@ The Northern Fertile Region is the productive belt stretching along the southern
 
 The region is shaped by a sharp **coastal-to-inland climate gradient** and, within that, by a single exceptional **river valley**.
 
-The **coastal strip** along the Vilérian Sea is wet-coastal—citrus, grape, olive, fig, date-palm, and pomegranate flourish on sea-tempered winters and moderate summer heat. The cities of the coast are the region's oldest and most cosmopolitan, and the coastal strip has been the principal point of contact between Zerathia and the north for as long as the two continents have known each other. Bethua's northern coast, Au'Khelathu's delta, and the western edge of Okharik territory share this character, though the strip is widest and most reliable in Bethua.
+The **coastal strip** along the Vilérian Sea is wet-coastal—citrus, grape, olive, fig, date-palm, and pomegranate flourish on sea-tempered winters and moderate summer heat. The cities of the coast are the region's oldest and most cosmopolitan, and the coastal strip has been the principal point of contact between Zerathia and the north for as long as the two continents have known each other. Okharis's long north coast, Bethua's northern coast and Au'Khelathu's delta share this character, though the strip is widest and most reliable in Bethua.
 
 **Moving inland**, rainfall drops off sharply. Through most of the region, the middle and deep interiors are semi-arid grassland—productive only where water can be brought to it. Bethua and Au'Khelathu have answered this with millennia of hydraulic engineering: aqueducts, tunnel qanats, cisterns, and canal networks whose maintenance employs tens of thousands of workers year-round and whose professional engineering corps are among the most prestigious institutions of their civilizations. Inside the irrigated strips, wheat, barley, millet, and legumes feed the dense urban populations; between them, open grasslands pasture sheep, cattle, and horses.
 
 The **great river valley of Au'Khelathu** is the region's exception and its crowning agricultural prize—a band of almost-tropical abundance running hundreds of leagues south from the delta, fed by an annual flood that deposits rich black silt across the floodplains each year. The valley is lush to the point that hippopotami and crocodiles thrive in its warm water and the climate of the lower river is distinctly different from the drier uplands even a day's ride away. No comparable river exists in Bethua or Okharis; the valley is Au'Khelathu's singular inheritance.
 
-The **southern margin** of the region belongs to Okharis, where the land shades out of the irrigated zone entirely into true semi-arid savanna. Here agriculture yields to pastoralism, the fixed cities thin out until only three remain ([[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]], and [[place-vuthraka|Vuthraka]]), and the open grasslands roll south until they meet the wall of the [[place-cntrlrnfrsts|Central Rainforests]]. Beyond that margin no northern civilization has ever established lasting presence.
+The **west and south** of the region belong to Okharis, which holds the far western stretch of the coast and, inland, the land that shades out of the irrigated zone entirely into true semi-arid savanna. Here agriculture yields to pastoralism, the fixed cities thin out until only three remain ([[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]], and [[place-vuthraka|Vuthraka]]), and the open grasslands roll south until they meet the wall of the [[place-cntrlrnfrsts|Central Rainforests]]. Beyond that margin no northern civilization has ever established lasting presence.
 
 ## Peoples and Culture
 
@@ -76,7 +76,7 @@ Within the region, the three polities operate an intricate overlapping network o
 
 ## Relations with Neighboring Regions
 
-To the **north**, across the Vilérian Sea, lies the [[place-midhalnrgn|Midhalión trade zone]], which the region shares with Ankaris. The Khelathi and Bethuan ports are fully integrated into this trade system; Okharis participates indirectly through its northern neighbors.
+To the **north**, across the Vilérian Sea, lies the [[place-midhalnrgn|Midhalión trade zone]], which the region shares with Ankaris. The Khelathi and Bethuan ports are fully integrated into this trade system; Okharis trades directly through its harbor at [[place-kaljekor|Kaljekor]].
 
 To the **south** lies the Central Rainforests, whose tribes trade cautiously with the region through ritualized intermediaries. Khelathi merchants have maintained river-post relationships with the northernmost forest peoples for centuries; Okharik herders meet forest-edge peoples along their southern pastures during seasonal migrations; Bethua has the least interest in the forests and mostly ignores them.
 

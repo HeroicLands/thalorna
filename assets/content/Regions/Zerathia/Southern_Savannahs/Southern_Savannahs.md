@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [xerathia]
   borders: [{to: cntrlrnfrsts, bearing: N}]
+  routes: [{to: cntrlrnfrsts, bearing: N, mode: land, days: 30, terrain: [plain, jungle]}]
   population: 2000000
   packFolder: southernsavannahs
 
@@ -60,6 +61,12 @@ No polity, in the northern sense, exists in the Southern Savannahs. The politica
 
 This stateless organization is not a pre-political condition—the savannah peoples have functioning, sophisticated social systems. It is a deliberate form, adapted to terrain and economy, and the savannah peoples generally consider northern political arrangements (static cities, hereditary kings, bureaucracies) to be interesting but inferior.
 
+## Current Situation {#present}
+
+The savannahs' best-ordered confederation is at war with itself. The clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] in the southeast, the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]], are fighting over the rivers after a dry season and a diverted channel, and the [[affiliation-greatlubemo|Great Lubemo]] that would judge the matter is gathering at [[place-hetolubemo|Heto Lubemo]] in the highlands. The war is the first between two clans of the Long Pact. The three other clans are choosing sides or holding the Pact by convergence, and the spring at [[place-ekundavlg|Ékunda Village]], where herders of every clan water, is the neutral ground each side asks the tribe to close to the other.
+
+The rest of the savannahs feel it as a shortage of passage. Ruwozi cattle-drives wait at the river channels for Kolembozi canoes that do not come, [[affiliation-sengala|Sengala]] traders carry salt and riverine goods north at the risk of the war, and the dry-country tribes to the west read the Ruwozi paramount's messages to their chieftains as a bid for fighters. The northern civilizations, which know the savannahs only through the rainforest tribes, hear nothing of it.
+
 ## Trade
 
 Savannah trade with the outside world runs almost entirely through the **rainforest intermediaries** along the northern margin. What the savannahs export: hides, bone and horn work, ostrich feathers, ivory, gold (from the southeastern highlands, where small-scale alluvial mining has been practiced for uncounted generations), and certain medicinal plants. What they import: metal goods (knives, hoe-blades, beads), glass, cloth, and salt.
@@ -70,7 +77,7 @@ Savannah-internal trade is largely through **cattle exchange**, marriage-gifts, 
 
 To the **north** lies the Central Rainforests. The savannah peoples and the forest peoples meet along a long, messy, ecologically transitional margin where jungle gives way to grassland. Contact is generally peaceful—long generations of seasonal overlap have produced a dense web of trading relationships, intermarriage, and ritualized exchanges. The forest tribes are the savannah peoples' principal contact with the wider world and vice versa.
 
-The Northern Fertile Region civilizations—the [[affiliation-mtrrchybth|Matriarchy of Bethua]], the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and [[affiliation-okharis|Okharis]]—are known to the savannah peoples only through forest intermediaries and through secondhand goods that reach the northern margins via trade. Most savannah peoples have never met a Khelathi, Bethuan, or Okhari in person; the northern civilizations are a distant rumor of strangely dressed people who live in places where buildings do not move. Savannah opinion of these northerners, insofar as it is formed, tends to range from amused curiosity to wary respect to frank disinterest.
+The Northern Fertile Region civilizations—the [[affiliation-mtrrchybth|Matriarchy of Bethua]], the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and [[affiliation-okharis|Okharis]]—are known to the savannah peoples only through forest intermediaries and through secondhand goods that reach the northern margins via trade. Most savannah peoples have never met a Khelathi, Bethuan, or Okharik in person; the northern civilizations are a distant rumor of strangely dressed people who live in places where buildings do not move. Savannah opinion of these northerners, insofar as it is formed, tends to range from amused curiosity to wary respect to frank disinterest.
 
 To the **far south** lie the coasts of an unnamed ocean and whatever exists beyond it. Savannah knowledge of the southern coast is incomplete—different lineages know different stretches, and no unified picture has ever been assembled. Whatever lies beyond the southern coast is, for the savannah peoples, as mysterious as the savannah itself is to the north.
 
@@ -91,3 +98,21 @@ To the **far south** lie the coasts of an unnamed ocean and whatever exists beyo
 [[place-fenjaravlg|Fénjara Village]]
 
 [[place-hetolubemo|Heto Lubemo]]
+
+[[place-oldhetos|The Old Hetos]]
+: the dry-stone enclosures of the southeastern highlands
+
+[[place-mbolewevlg|Mbolewe]]
+: the Ruwozi paramount's village-sized seat; the Nyáluba nation has no towns
+
+[[place-nyangulovlg|Nyangulo]]
+: the Kolembozi paramount's village-sized seat
+
+[[place-ndelushivlg|Ndelushi]]
+: the Ngonzi paramount's village-sized seat
+
+[[place-nkabewivlg|Nkabewi]]
+: the Sengala paramount's village-sized seat
+
+[[place-lombesavlg|Lombesa]]
+: the Lobwezi paramount's village-sized seat

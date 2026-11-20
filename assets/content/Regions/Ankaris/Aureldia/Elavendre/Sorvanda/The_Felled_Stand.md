@@ -42,7 +42,7 @@ A standing birch at the margin, a bowshot from the ring, was cut three nights ag
 
 The Order is interested in the stumps. A fellow of the University has written to ask for a section of one, for the rings, and has had no answer from anyone who can give it.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The Wardens.** A person who cuts or burns birch in sight of the Stand is not warned.
 - **The fog.** Talve lies beyond the ring, and on a spring dawn the fog comes up to the stumps and lies on them.

@@ -447,9 +447,9 @@ Darzash stands 5'10" tall with a light build. She has tawny skin, very dark brow
 
 Born in the craft-quarters of the [[place-amradadrgn|Amradad Region]]'s inner city, Darzash inherited not merely the woodcrafter's trade but a philosophy of reverence for wood itself. Her father, **[[being-shuvarshavan|Shuvar Shavan]]**, taught her that every timber piece harbors an inner form waiting to be revealed—that the craftsperson's duty is discovery, not imposition. She mastered the fundamentals with stubborn dedication, apprenticing informally with her father until his death when she was eighteen. Rather than accept commissions from wealthy merchants, she devoted five years to secret study, learning from traveling artisans and aging masters whose work appeared in temple sanctuaries and forgotten estates.
 
-At twenty-four, Darzash established her modest workshop in a riverside district, deliberately far from the guild-regulated quarters. Here she creates work that borders on the sacred—ceremonial vessels adorned with script-like carvings, boxes inlaid with patterns that seem to shift when viewed from different angles, and meditation staffs carved to resonate with the whispered prayers of devotees. Word of her extraordinary work has slowly spread through networks of nobles, spiritual seekers, and wandering collectors.
+At twenty-four, Darzash established her modest workshop in a riverside district, deliberately far from the masters' quarters. Here she creates work that borders on the sacred—ceremonial vessels adorned with script-like carvings, boxes inlaid with patterns that seem to shift when viewed from different angles, and meditation staffs carved to resonate with the whispered prayers of devotees. Word of her extraordinary work has slowly spread through networks of nobles, spiritual seekers, and wandering collectors.
 
-Currently, she maintains a precarious independence, refusing formal guild affiliation despite pressure from [The Carpentry-Masters' Collective]{.name data-type="affiliation/guild"}. She accepts only those commissions that call to her spirit, resulting in months of work completed alongside stretches of deliberate idleness when no worthy project claims her attention.
+Currently, she maintains a precarious independence, refusing a place among the town's carpentry masters despite their pressure. She accepts only those commissions that call to her spirit, resulting in months of work completed alongside stretches of deliberate idleness when no worthy project claims her attention.
 
 ## Psyche
 
@@ -512,11 +512,11 @@ Merchant-Prince [[being-ahrashtamira|Ahrash]]
 
 ### Enemies
 
-Master Craftsman [Khozdun]{.name data-type="being/npc"} of the Collective
-: The jealous guild-master who views Darzash's refusal to join as insult and threat, and actively works to undermine her reputation and secure her rare commissions for guild-approved craftspeople.
+Master Craftsman [Khozdun]{.name data-type="being/npc"} of the carpentry masters
+: The jealous master carpenter who views Darzash's refusal to join as insult and threat, and actively works to undermine her reputation and secure her rare commissions for craftspeople the masters approve.
 
-The Carpentry-Masters' Collective
-: This powerful organization views her as a rogue element challenging their monopoly and has begun spreading rumors questioning the ethics of her sourcing practices.
+The Carpentry Masters
+: The town's master carpenters view her as a rogue element challenging their hold on the trade and have begun spreading rumors questioning the ethics of her sourcing practices.
 
 ### Affiliations
 
@@ -525,17 +525,17 @@ The Carpentry-Masters' Collective
 
 ## Plot Hooks
 
-The Commission of the Divine Loom
-: A mysterious cloaked figure arrived at Darzash's workshop bearing an ancient codex and an impossibly detailed commission—a wooden frame for a sacred loom that the stranger claims can weave fate itself. The payment offered is obscene, but the work would require her to venture into the [Whispering Forest]{.name data-type="place/feature"} to harvest wood from a tree that according to legend exists only in the dreams of the dying. The stranger vanishes after the initial meeting, leaving only the codex and a cryptic warning that those who have pursued this commission before have never returned. Darzash finds herself tormented by the project's significance and the terrible beauty embedded in its requirements.
+The Pruning Rumor
+: Khozdun spreads word that Darzash cuts her timber from the temple groves of [[place-venzelakhend|Venzelakhend]]. She asks a party to follow the pruners' carts for a week and show where the wood comes from.
 
-The Theft at the Riverside Market
-: One of Darzash's most celebrated creations—a meditation staff commissioned by the High Priestess—has been stolen from the [Riverside Market]{.name data-type="place/site"} during the night, seemingly from a locked merchant's stall where it was displayed. The thief left no trace except for a single carved wooden token of extraordinary craftsmanship, possibly surpassing her own work. The High Priestess, devastated, turns to Darzash not for a replacement but for investigation. As Darzash pursues the matter, she discovers a network of forged items appearing in noble collections—perfect imitations of her work created by someone with intimate knowledge of her techniques, possibly a former apprentice or spy within her workshop itself.
+The Altar-Stand
+: Father Artavin of the Míthara temple wants a stand for the altar before his sight fails, and Darzash will not carve to order. He sends a party with a length of timber from the oldest grove above the town, which its villagers would sooner keep.
 
-The Alchemist's Proposition
-: **Master [[being-dmrthsvshrds|Domrithas Vishardas]]**, the alchemist of [[place-nartum|Nartun]], sends an emissary requesting a commission of extraordinary delicacy—wooden vessels capable of containing and preserving alchemical essences of such volatility that even ceramic fails. When Darzash attempts to research what these essences might be, she encounters resistance and fear. Further investigation suggests that [[being-dmrthsvshrds|Domrithas]] is attempting to create containers for materials that should not exist, substances banned by the religious authorities. Accepting the commission would compromise her spiritual principles; refusing it could make her a target for the alchemist's spite.
+The Chest for the Strait
+: Ahrash Tamiran has bought a carved chest for a Balinuni factor at [[place-valmakhend|Valmakhend]] and wants it carried unopened. Darzash asks a party to carry it and to refuse any inspection at the [[place-tahrodan|Tahrodan]] seal-house.
 
-The Curse of the Whispering Forest
-: After completing a commission using timber harvested from the Whispering Forest (against her better judgment), Darzash discovers that her finished pieces begin to develop patterns of their own—carvings appearing in the wood as if carved by invisible hands, always in the shape of warning signs or desperate pleas. Terrified and fascinated, she realizes the timber itself is somehow inhabited or cursed, and that her work may be serving as a conduit for something trapped within the forest to communicate with the physical world. She must determine whether to continue using this extraordinary material or burn her entire inventory and break the cycle.
+The Staff the Tellumi Want
+: A Tellumi exile court wants the meditation staff that Lady Shiran Golshani commissioned and has begun to press her for it. Darzash asks a party to keep the staff out of its agents' sight.
 
-The Master's Lost Heir
-: An elderly wanderer arrives in Amradad claiming to be the last surviving student of **Shuvar Shavan**—Darzash's father. The stranger possesses intimate knowledge of her father's private theories and unfinished works, but also tells a tale of betrayal, a secret commission for a noble house that led to her father's death, and a cache of his materials hidden in the mountains. The stranger asks for Darzash's help recovering these works, but the journey would require weeks away from her workshop and would place her in direct conflict with the same noble house whose interests led to her father's mysterious end. The stranger's motivations, however, remain unclear and potentially dangerous.
+The Unfinished Chest
+: A house of the garden quarter at [[place-shebarakhend|Shebarakhend]] holds a chest her father began and never finished. Its owners want it completed, and Darzash asks a party to open the lid, which she has never done.

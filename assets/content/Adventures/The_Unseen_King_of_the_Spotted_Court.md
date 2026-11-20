@@ -26,7 +26,7 @@ Offer the entry that suits the hero.
 - **The thief.** The Court's gift-stores are said to hold ivory, dyes and iron. A river-factor, whose boats the [Spotted Guard]{.name data-type="affiliation"} took for the Court's use, offers a share for the key to the storehouses.
 - **The mercenary or soldier.** A tribe has sent no gift for a year, and its war-leader needs hired spears for the reckoning. The party's contract includes a letter of safe-conduct to the Court.
 - **The leader.** The party's chieftain faces a bad season, a feud, and an offer from a Court envoy: send the gifts, and the Court will leave the tribe alone and its hunters will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
-- **The lone wanderer.** The wanderer carries a leopard's claw token from a [Sengala]{.name data-type="affiliation/lineage"} trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
+- **The lone wanderer.** The wanderer carries a leopard's claw token from a [[affiliation-sengala|Sengala]] trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
 
 The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
@@ -97,7 +97,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 - _Guile:_ lead the cat to Red-Spear's quarters, or to the gift-store, and turn the Hunt on someone else.
 - _Parley:_ speak to the cat. It listens. A party member who has the leopard-guide's token, or the [Sengala Language]{.name data-type="skill/language"}, may be heard.
 
-**Clues and rewards.** The King's tracks end in the [Throne Cave]{.name data-type="place/site"}. At dawn a cord with a fresh knot hangs on the garden wall, tied there by the Cord-Keeper.
+**Clues and rewards.** The King's tracks end in the [[place-thronecave|Throne Cave]]. At dawn a cord with a fresh knot hangs on the garden wall, tied there by the Cord-Keeper.
 
 **Consequences.** A party that survives the Hunt without killing the cat is accepted by the Court. A party that wounds it is hunted by the Guard.
 

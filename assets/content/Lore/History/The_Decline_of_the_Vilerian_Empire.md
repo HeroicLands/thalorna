@@ -52,7 +52,7 @@ data:
             knowledge: named
           - place: place-byzariargn
             how: >-
-              the League sits in the commonwealth, taxed by nobody and charged by the Tevran
+              the League stays a province in law, and the Tevran charges it the fee the crowns pay
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: victim}
@@ -71,7 +71,7 @@ data:
         - by: affiliation-empireakhlth
           says: Humanitarian commerce.
           agrees: denies
-          withholds: the gold, weapons and officers the court of Meqes XVI sent, which stand in no king-list and no tax roll
+          withholds: the gold, weapons and officers the court of Meqes XV sent, which stand in no king-list and no tax roll
         - by: place-helionis
           says: >-
             A grown child to an aging parent—respectful, complicated, and occasionally resentful.

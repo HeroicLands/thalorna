@@ -29,7 +29,7 @@ The bog has always been there, and the nest on its islands has been there as lon
 
 In the autumn the Durrask burned a mill on Aldorath's lower shore, and since then the shore barons have armed their tenants and keep a watch along the shore by night. The nest's raiders have met the watch and lost to it. So the spawner has turned them west, onto the horse-runs of the Highlands, where the Ondarethan breeders graze their stock, the levy has taken their young men north, and no one is left to ride after a raid. The breeders blame the Durrask.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 The Durrask, who fight the nest wherever they meet it and fight strangers in the Thornwold just as readily. The shore barons' night watch, which takes anyone on the shore after dark for a raider.
 

@@ -66,6 +66,14 @@ The selat holds about 150,000 people, the smallest population of the ten, and mo
 
 The seat is [[place-yathleteru|Yath-Leteru]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-uznera|Uzn'era]] stands. Uzn'era is the goddess of fertility, renewal and healing, and a pilgrim comes to her marsh-temples for one of the three.
 
+## Current Situation {#present}
+
+Selat-Leteru has few people and many shrines, and in a failing-flood year the shrines are the selat's busiest trade. Pilgrims come to the marsh-temples of Uzn'era to ask for renewal, and they bring offerings of grain that the temple estates store and feed them from. The Halzi'a's revenue is the pilgrims' boat-fares and lodgings, which are up, and the temple estates' offerings, which are also up. He sends the throne a tribute in the incense and oils the shrines make, and he says the pilgrims eat the grain. The smallest of the delta selatu is the one that has gained.
+
+:::secret {title="The temple granaries"}
+The Halzi'a keeps the offered grain. He has no army and no ambition, and he hopes the throne does not notice that the pilgrims eat less than the granaries receive.
+:::
+
 ## Commerce and Currency {#commerce}
 
 Selat-Leteru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and a pilgrim who pays a boatman in copper pays in a piece the chapter has attested. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

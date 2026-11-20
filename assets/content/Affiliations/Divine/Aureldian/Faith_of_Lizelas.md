@@ -81,6 +81,8 @@ The third rank consists of **Acolytes of the Garden**, young initiates who train
 
 A distinctive institution within Lizelas's faith is the **House of Healing**, a temple-hospital found in nearly every major city. These establishments employ dozens of priestesses, nurses, and servants, and they serve the poor and sick without regard for wealth or social status. They are supported by donations from grateful patients, by the sale of herbal remedies, and by direct patronage from the nobility. The finest Houses of Healing are renowned across kingdoms as places where the dying are comforted, the sick are healed, and women in difficult childbirth receive care from skilled priestesses who have delivered thousands of babies.
 
+In the grain belt of Velanthia the faith keeps large endowed houses that hold the land's grain reserves and letters; they are the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]], each led by its own abbot or abbess, who keeps the Lizena's feasts and answers to no officer of the temple priesthood.
+
 ## Relations
 
 Lizelas stands in joyful partnership with [[affiliation-lusinia|Lusinia]], together representing the full cycle of fertility and growth. In their theology, where [[lore-lusiniadty|Lusinia]] emphasizes patience, cultivation, and the methodical work of creation, Lizelas celebrates joy, pleasure, and the abundant flowering of life. The two goddesses are frequently invoked together at planting and harvest times, and their priesthoods often cooperate in festivals and healing work.

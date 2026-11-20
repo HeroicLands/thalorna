@@ -34,7 +34,7 @@ data:
             knowledge: named
           - place: place-eastrnmrch
             how: >-
-              the imperial pass-forts become the League's way-forts, garrisoned by conscripts the five cities raise and paid from the common treasury
+              the way-forts are garrisoned by conscripts the five cities raise and paid from the common treasury, while imperial officers hold the passes in law
             knowledge: named
           - place: place-southrnmrch
             how: >-
@@ -83,22 +83,22 @@ No city could pay the forts alone. No city would let another pay them, because a
 
 In about 571 the councils of the five cities met in the Merchant Hall of [[place-khryshteikhos2|Krusteikhos]] under [Kerdhanáhr Fótamikot]{.name data-type="being/npc"}, the chair of the council, and had the old copy of the [[lore-heladcompact|Compact]] brought out and read. The edict of the Orzas that had dissolved it was on the chancery's roll and nowhere else. The councils swore the old text over again, in the order of the old text, and in the Hall where the five had first met.
 
-They did three things. They paid the garrisons themselves, from a common treasury the five filled in proportion to their trade. They took the three frontier districts as common territory, outside any city's charter, because each city would sooner see a district belong to none than to another. And they set a lord over each district by commission of the council, answerable to the council and to nobody else.
+They did three things. They paid the garrisons themselves, from a common treasury the five filled in proportion to their trade, and raised the conscripts to staff them. They took the three frontier districts as common territory, outside any city's charter, because each city would sooner see a district belong to none than to another. And they set a lord over each district by commission of the council, answerable to the council for the paying and the staffing of the forts. Imperial officers still held the passes, the tariffs and the muster in law, and set the rolls and the tariff.
 
 ## The Chancery
 
-The chancery did not contest the oath. The Orzas's roll kept the province of Bizaria, and the League's council sat in the Merchant Hall and dealt with the east. When the [[affiliation-vylarinmpr|Empire]] settled with its former provinces some five decades later, it treated the League as a signatory ([[lore-crownssettle|The Settlement of the Crowns]]).
+The chancery did not contest the oath. The Orzas's roll kept the province of Bizaria, and the League's council sat in the Merchant Hall and dealt with the east. When the [[affiliation-vylarinmpr|Empire]] settled with the Aureldian crowns and the League some five decades later, it treated the League as a signatory ([[lore-crownssettle|The Settlement of the Crowns]]).
 
 ## What the Oath Left
 
-- **The three marches**, the [[place-eastrnmrch|Eastern]], the [[place-southrnmrch|Southern]] and the [[place-northrnmrch|Northern]], each under a lord the council commissions.
+- **The three marches**, the [[place-eastrnmrch|Eastern]], the [[place-southrnmrch|Southern]] and the [[place-northrnmrch|Northern]], each under a lord the council commissions and who answers to it for the paying and staffing of the garrison.
 - **The League as it stands**, a confederation of five cities with a joint army and a common treasury.
 - **The custom** that the chair of the council reads the Compact aloud at each session's opening.
-- **The way-forts**, which were the Empire's and are the League's.
+- **The way-forts**, which the League pays and garrisons while imperial officers hold the passes in law.
 
 ## See Also {#see-also}
 
 - [[lore-heladcompact|The Compact of the Five]]—the oath sworn again
 - [[lore-heladeastwar|The Eastern War]]—the annexation that dissolved it
-- [[lore-crownssettle|The Settlement of the Crowns]]—the settlement that recognized what the oath had made
+- [[lore-crownssettle|The Settlement of the Crowns]]—the settlement that received the League's envoys and left the province on the roll
 - [[affiliation-byzarianlg|Bizarian League]] · [[affiliation-khryshteikhos|Krusteikhos]]

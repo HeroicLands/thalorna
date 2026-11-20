@@ -38,7 +38,7 @@ What the ridge is, and how long it has been alive, is not known.
 
 An Order survey under hired guards has set a line of marker cairns along the crest, one at every hundred paces, to measure how far the ridge moves between one season and the next. Since it was set the line has bent, and its far end runs out over a gully that the first surveyor did not draw. A guard is missing on the ridge. The Wardens of the Spine are taking the cairns down one by one, and the survey's scholar is camped in the lower valley, waiting for the guard and refusing to leave.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The ridge,** which opens and closes beneath a walker.
 - **The weather of the Spine,** mist above all: a crossing in mist cannot see where the ridge has gone.

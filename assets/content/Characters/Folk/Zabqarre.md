@@ -3,18 +3,18 @@ shortcode: zabqarre2
 name: {full: Zabqarre}
 type: being
 subType: npc
-description: "Halzi'a of Khelunu's selat, an administrator of the old school who governs by precedent and dislikes being surprised"
+description: "The Halzi'a of Gar-Reth'Sa'ar, an administrator of the old school who governs by precedent and dislikes being surprised."
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, scholar]
-  occupation: "Halzi'a of Khelunu's Selat"
+  occupation: Halzi'a
   lore: []
   culture: khelathiclt
-  homes: [anlaghzetun]
-  affiliations: {}
-  gender: "female"
+  homes: [khelunu]
+  affiliations: {selatgrrthsr: {rank: 3, office: Halzi'a}, empireakhlth: {rank: 3}}
+  gender: female
   species: humanflk
   born: "673.238"
   died: null
@@ -34,12 +34,24 @@ data:
     mouth: wide
     extra_features: []
   packFolder: regkhfolk
+  items:
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: halziaseal
+      name: Seal of the Halzi'a (carved stone)
+      kind: miscgear
+      system: {weight: 0.4}
 ---
 
 # Appearance {#appearance}
 
-Zabqarre is a 47-year-old woman who stands 5'7" tall with a light build. She has dark brown skin, dark brown hair, and brown eyes.
+Zabqarre is a 46-year-old woman who stands 5'7" tall with a light build. She has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Zabqarre governs as Halzi'a of [[place-khelunu|Khelunu]]'s selat, home in [[place-anlaghzetun|Anlagh-Zetun]], an administrator of the old school. Precedent decides most questions here, and surprises are not welcome regardless of how they arrive. Anyone petitioning this selat does better arriving with a precedent already in hand.
+Zabqarre is the Halzi'a of [[affiliation-selatgrrthsr|The Selat of Gar-Reth'Sa'ar]], an administrator of the old school. Precedent decides most questions here, and surprises are not welcome regardless of how they arrive.
+
+She holds the selat from [[place-khelunu|Khelunu]], the scribal selat of the upper river and the seat of its foremost temple of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], and the precedents she cites come from the temple's own archives.

@@ -15,7 +15,7 @@ sohl: {system: {weightBase: 2, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 
 ## Overview {#overview}
 
-The iron crown is the crown that [Vahrun Marzuvan]{.name data-type="being/npc"} forged for himself, of iron. The iron torc of a vessel was never given to him, and he wore the crown in its place. Its home is the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] on the Pale Floor, where the lightning finds the spike above the gallery every night the sky offers weather.
+The iron crown is the crown that [[being-vhrnmrzvn|Vahrun Marzuvan]] forged for himself, of iron. The iron torc of a vessel was never given to him, and he wore the crown in its place. Its home is the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] on the Pale Floor, where the lightning finds the spike above the gallery every night the sky offers weather.
 
 ## Who Holds It {#who-holds-it}
 

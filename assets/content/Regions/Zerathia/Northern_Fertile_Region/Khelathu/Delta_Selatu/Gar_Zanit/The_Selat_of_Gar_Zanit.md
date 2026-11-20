@@ -66,6 +66,10 @@ Look at the hem of your own tunic: if it is linen and it came from the delta, it
 
 The seat is Gar-Zanit, where the Halzi'a keeps court and the selat's chief temple of [[affiliation-psaqaru|Saq'aru]] stands. Saq'aru is the god of creation and craftsmanship, and a selat of weavers keeps his name for the work of the hands.
 
+## Current Situation {#present}
+
+The flax fields of Gar-Zanit depend on wet ground, and two low floods leave the retting pits and the flax beds short of water. The cloth that clothes the empire is thinner this year, the weavers of the linen towns work for fewer wages, and the Halzi'a's tax in cloth comes in lighter than the rolls expect. He pays the throne in the cloth he has and enters the missing bolts as a failed crop. The temple of Saq'aru at the seat holds the weavers' guild-stores, and in a year of idle looms those stores feed the weavers' families. The funerary trades upriver are buying linen for their wrappings, and the Halzi'a sells to them first, since they pay in silver and the throne pays in promises.
+
 ## Commerce and Currency {#commerce}
 
 Gar-Zanit uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, which means a weaver's bolt of linen and a farmer's sack of grain are measured against the same attested standard. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

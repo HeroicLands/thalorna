@@ -68,6 +68,14 @@ The seat is Chathu, where the Halzi'a keeps court and the selat's chief temple o
 
 The selat's coast is where the sea-raiders landed in 1960 ST (151 BF) and burned the port of [[place-zelamqelu|Zel-Amqelu]], which the selat never rebuilt ([[lore-searaiders|the Sea-Raiders' Throne]]).
 
+## Current Situation {#present}
+
+The salt-pans and natron flats of Chathu profit from a low river, since less fresh water runs into the margin and the brine concentrates. The Halzi'a sells salt and natron upriver at a better price than he has had, and sells them for grain, which he stores in the temple vaults of Weth'ur. The embalmers of the upper river need the natron more as the dead multiply, and the lesser villages' catch is cured in the extra salt and carried up the delta channels. The selat's tribute is in salt, and the accounts enter part of the pans' yield as damp spoilage. The Halzi'a is one of the few delta Halzi'a with grain in his own vaults.
+
+:::secret {title="The salt-pan ledgers"}
+The spoilage is invented. The Halzi'a sends less salt than the pans yield and enters the difference as damp spoilage, because nobody in the capital can prove a salt-pan's yield from the capital.
+:::
+
 ## Commerce and Currency {#commerce}
 
 Chathu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and in a selat that sells salt and natron by weight, the chapter's scales settle most disputes. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

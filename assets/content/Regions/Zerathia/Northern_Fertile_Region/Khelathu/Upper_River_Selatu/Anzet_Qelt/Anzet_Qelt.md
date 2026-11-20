@@ -27,10 +27,20 @@ The selat takes its character from [[lore-hezmuiridty|Hezmu'iri]], the jackal-he
 
 Behind the tombs lies ordinary [[lore-khelathiclt|Khelathi]] country. Villages and estate-towns of a few hundred to a few thousand people cluster on the cultivable ground and on the temple estates. The farmers owe a share of the harvest and labor on the canals, the grain goes to the granaries, and the temples and the crown take their portion of everything. The scribes among them are the one reliable ladder out of the fields. Past the reach of the water the land is high desert and chaparral.
 
+## Current Situation {#present}
+
+In the villages and estate-towns of Anzet-Qelt, the embalmers' workshops and the tomb-guards' posts are the busiest trades. A low flood thins the offerings brought to the temple of Hezmu'iri, and the farmers who work the desert-edge tombs leave their fields for what tomb-work pays. The ground near the tombs is guarded more closely, because hunger makes thieves. The jackal-cult's festivals are held with fewer offerings and more dread.
+
 ## Settlements {#settlements}
 
-[[place-anzet|Anzet]] (~24,000)
+[[place-anzet|Anzet]] (~5,700)
 : the selat capital and the seat of the Halzi'a, home of the chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates.
+
+[[place-zelanzet|Zel-Anzet]] (~5,700)
+: an embalmers' town at the desert edge in Anzet-Qelt Selat, close to Anzet
+
+[[place-yathqelt|Yath-Qelt]] (~4,600)
+: a tomb-guards' town at the edge of the necropolis in Anzet-Qelt Selat
 
 The villages and estate-towns
 : the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

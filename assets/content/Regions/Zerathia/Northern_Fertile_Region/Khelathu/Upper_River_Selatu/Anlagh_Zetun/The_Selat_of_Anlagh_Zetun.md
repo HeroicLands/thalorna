@@ -67,7 +67,11 @@ The Selat of Anlagh-Zetun holds the land of [[place-anlaghztnslt|Anlagh-Zetun Se
 
 ## Character
 
-The great families of the selat have farmed the same flood-basins for longer than the current dynasty has existed. They guard their land, their grain-rents and their ancient privileges with the patience of men who measure time in floods rather than reigns. The selat's patron is Qe'aret, goddess of order, truth and right measure, a fit patron for a country whose life turns on the survey of fields, the assessment of harvests and the honest filling of granaries. The house that holds the Halzi'a's seat is [Anlaghet'Zaru]{.name data-type="affiliation/lineage"}, whose head raised the upper river in 2378 ST (268 AF) ([[lore-sealedgran|the Battle of the Sealed Granaries]]); the house keeps [[place-eleventhgran|the Eleventh Granary]] shut by order, and the selat marks the anniversary each year with the [Bread for the Gate]{.name data-type="lore/custom"}.
+The great families of the selat have farmed the same flood-basins for longer than the current dynasty has existed. They guard their land, their grain-rents and their ancient privileges with the patience of men who measure time in floods rather than reigns. The selat's patron is Qe'aret, goddess of order, truth and right measure, a fit patron for a country whose life turns on the survey of fields, the assessment of harvests and the honest filling of granaries. The house that holds the Halzi'a's seat is [[affiliation-anlaghetzaru|Anlaghet'Zaru]], whose head raised the upper river in 2378 ST (268 AF) ([[lore-sealedgran|the Battle of the Sealed Granaries]]); the house keeps [[place-eleventhgran|the Eleventh Granary]] shut by order, and the selat marks the anniversary each year with the [Bread for the Gate]{.name data-type="lore/custom"}.
+
+## Current Situation {#present}
+
+Anlagh-Zetun holds the empire's fullest storehouse, and two low floods have made it the empire's anxiety. The Halzi'a keeps the stores at the seat, and the Overseer of the Granaries, who names the figures the throne reads, keeps his office in the same city. Every sack that leaves is argued over. The granaries stand low, and the Halzi'a answers the capital's questions about how low with an account of the river. Who may open a granary is the one question the upper river's landowners would fight over. [[being-anlaghur|Anlaghur]], the Gar-Au's nephew, makes his home here, and the Halzi'a's stores and the nephew's household stand in the same city, so each faction reads the one as a lever on the other.
 
 ## For the Worldbuilder
 

@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it sets the common tolls and decides the joint fleet and army, the three marches and quarrels between city-states. The second belongs to the city-state alone, which governs about 300,000 people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five seats and the League's capital, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
+Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it sets the common tolls and decides the pay of the forts, the joint fleet and army, the three marches and quarrels between city-states. The second belongs to the city-state alone, which governs about 300,000 people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five seats and the League's capital, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
 
 ## Who Decides
 
@@ -97,7 +97,7 @@ Krusteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Og
 
 ## Current Situation {#present}
 
-The bankers who sit in the Merchant Hall also hold the grain contracts with Velanthia, so the council's votes on tolls and the joint army are taken where the city's loans are written. Its weight at the League table is money, set against the ships of Nesthiros and the garrison of Argirteikhos.
+The bankers who sit in the Merchant Hall also hold the grain contracts with Velanthia, so the council's votes on tolls, the pay of the forts and the joint army are taken where the city's loans are written. Its weight at the League table is money, set against the ships of Nesthiros and the garrison of Argirteikhos.
 
 ## History {#history}
 

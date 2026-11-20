@@ -79,6 +79,10 @@ The selat draws ambitious youths from every corner of the empire to its schools 
 - The priestly archives and the unbroken king-lists since [[lore-qettelgu|the Qet Telgu]]
 - The scriptoria and the medical, legal and mathematical learning of the temple
 
+## Current Situation {#present}
+
+Gar-Reth'Sa'ar divides its authority between the Halzi'a, who governs the land and the grain from Khelunu, and the Thaz'Lekhau of Reth'Sa'ar, who governs the word and the number. In a year of failing floods the number is the thing that matters. The temple's astronomers and calendar-keepers keep the river's count against the reading at the capital, and the archivists keep the king-lists in which each reign is entered by year; the Keepers of the list have been asked how the lists treat a short flood and a disputed succession. The scribal schools produce the clerks who reckon every selat's render, and a clerk who is asked to enter a shortfall as the river's knows what the river's figures should be. The priesthood is the dominant power here, and it has not chosen a faction.
+
 ## For the Worldbuilder
 
 Gar-Reth'Sa'ar is the empire's archive and academy, and it plays best as a place of knowledge: sought, hoarded, forged and stolen. The king-lists kept here legitimize dynasties, which makes them worth altering. The archives hold records that powerful people would pay or kill to find or to bury. The scribal certification is a chokepoint on every administrative career, and the temple's astronomers and physicians command learning that shades, at its edges, into the magical.

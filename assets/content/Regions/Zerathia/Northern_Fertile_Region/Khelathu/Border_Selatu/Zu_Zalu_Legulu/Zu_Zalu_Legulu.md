@@ -35,10 +35,20 @@ The southern trade-road and the garrison drive the selat. The thin valley farmla
 - The fortress-line of [[place-balehen|Balehen]] and the garrison-posts that hold the march
 - The southern trade-road and the toll-and-tribute trade in gold, ivory and ebony
 
+## Current Situation {#present}
+
+The fortress-line villages of Zu-Zalu-Legulu live around their garrisons: the posts, the forts and the frontier settlements along the river and the desert flanks eat what the cataract road and the river bring. A low flood thins both. The villages hold their gates, the gold-and-ivory traffic through Balehen is smaller, and the settlers of half-assimilated southerners who farm the river's edge go hungry first, since the garrison's stores are for soldiers. The seat's toll-house and tribute-store still do business, and their takings are what keeps the line fed.
+
 ## Settlements {#settlements}
 
-Balehen (~24,000)
+Balehen (~5,700)
 : the selat capital, a great fortress-town commanding the river at the first cataract: a double-walled stronghold of garrison barracks, the war-temple of [[affiliation-qeztu|Qeztu]], the toll-house and tribute-store of the southern trade, and the seat of the warden-Halzi'a. It is the empire's strongest fortress south of the capital.
+
+[[place-zelzalu|Zel-Zalu]] (~5,700)
+: a river-terrace town in Zu-Zalu-Legulu Selat, where the valley narrows below the cataract country, a day south of Balehen
+
+[[place-yathlegulu|Yath-Legulu]] (~4,600)
+: the portage town at the foot of the cataract in Zu-Zalu-Legulu Selat, where boats from the south unload to be carried around the rapids
 
 The fortress-line villages
 : garrison-posts, forts and frontier settlements of 500–5,000 people lie strung along the river and the desert flanks. Among them are [Iken]{.name data-type="place/structure"} (the river toll-fort beyond the cataract), [Mirgis]{.name data-type="place/structure"} (a double fortress on the west bank) and [[place-zinhenzalu|Zinhen-Zalu]] (the deepest garrison), with a scatter of mixed [[lore-khelathiclt|Khelathi]]-southern farm-and-trade villages along the irrigated strip.

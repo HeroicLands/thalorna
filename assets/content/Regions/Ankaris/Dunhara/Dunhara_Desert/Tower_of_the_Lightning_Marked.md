@@ -18,21 +18,21 @@ Far south of the last chain of wells, where a dry lake has left a floor of white
 
 ## What Stands There
 
-The spire rises from a low mound at the middle of the [Pale Floor]{.name data-type="place/region"}, and every storm of the season finds it. Lightning strikes the tower on most nights when the sky holds any weather at all, and it strikes the same place: an iron spike at the summit, thick as a man's thigh, that the builders drove into the stone and nobody has been able to reach in living memory. Where the bolts have run down the walls the stone is fused into ropes and sheets of glass. Around the foot of the mound the flat is pocked with fulgurites, rooted tubes of glass that the sand has been turned into, some as long as a spear.
+The spire rises from a low mound at the middle of the [[place-palefloor|Pale Floor]], and every storm of the season finds it. Lightning strikes the tower on most nights when the sky holds any weather at all, and it strikes the same place: an iron spike at the summit, thick as a man's thigh, that the builders drove into the stone and nobody has been able to reach in living memory. Where the bolts have run down the walls the stone is fused into ropes and sheets of glass. Around the foot of the mound the flat is pocked with fulgurites, rooted tubes of glass that the sand has been turned into, some as long as a spear.
 
 Inside, the tower is a single stair that winds up the wall around an empty core. Iron rungs and bands are set into every course, and in a storm the whole interior sings. Chambers open off the stair at intervals: a vestibule at the foot, a hall where the lineages sit when they come, a cell for fasting, a sealed room that the elders say was Vahrun's, and above it the open gallery under the iron spike. Nobody sleeps in the tower. Nobody lingers there after a bolt has struck, because the air stays charged for a long breath afterward and a man's hair stands out from his head.
 
 ## The Man Who Went Into the Storm {#history}
 
-The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] are five lineages with no master over them, and the [Council of Elders]{.name data-type="affiliation/governmental"} at the [[place-stoneofranaz|Stone of Ranaz]] decides only what touches all five. The tower belongs to the story of a man who wanted otherwise. [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker of the _ghuzmogar_ and a _ruzhogar_ in his own lineage, gathered the cults' youngest and boldest to the Pale Floor and taught them to call the lightning down on purpose, to a spike and a place, and to read what he held to be the god's mood from where it fell. He took the title _Master of the Tower_ for himself. The Council did not confer it, and when he claimed to be a vessel of [[lore-bazhramisdty|Bazhrámish]] without the assent of the gathered elders, they denounced him. He wore an iron crown he had forged himself, because the iron torc of a vessel was never given to him.
+The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] are five lineages with no master over them, and the [Council of Elders]{.name data-type="affiliation/governmental"} at the [[place-stoneofranaz|Stone of Ranaz]] decides only what touches all five. The tower belongs to the story of a man who wanted otherwise. [[being-vhrnmrzvn|Vahrun Marzuvan]], a storm-walker of the _ghuzmogar_ and a _ruzhogar_ in his own lineage, gathered the cults' youngest and boldest to the Pale Floor and taught them to call the lightning down on purpose, to a spike and a place, and to read what he held to be the god's mood from where it fell. He took the title _Master of the Tower_ for himself. The Council did not confer it, and when he claimed to be a vessel of [[lore-bazhramisdty|Bazhrámish]] without the assent of the gathered elders, they denounced him. He wore an iron crown he had forged himself, because the iron torc of a vessel was never given to him.
 
-The elders of [The Lightning-Marked]{.name data-type="affiliation"} lineage, who are held to have been touched by the god in vision or by a bolt and so have the best claim to speak of lightning, tell the end in few words. A great storm came up out of a clear sky. Vahrun climbed to the gallery alone. The bolt took the tower and the storm did not leave with it, and in the morning he was gone: no body, no ash, not so much as the crown. **Vahrun never died. He went into the storm.** The elders say it the same way each time and decline to say what they mean by it. [Mehrava]{.name data-type="being/npc"}, the senior elder of the lineage, refuses to soften what she reads in the sky above the Floor, and what she reads there she does not say to outsiders.
+The elders of [The Lightning-Marked]{.name data-type="affiliation"} lineage, who are held to have been touched by the god in vision or by a bolt and so have the best claim to speak of lightning, tell the end in few words. A great storm came up out of a clear sky. Vahrun climbed to the gallery alone. The bolt took the tower and the storm did not leave with it, and in the morning he was gone: no body, no ash, not so much as the crown. **Vahrun never died. He went into the storm.** The elders say it the same way each time and decline to say what they mean by it. [[being-mhrv|Mehrava]], the senior elder of the lineage, refuses to soften what she reads in the sky above the Floor, and what she reads there she does not say to outsiders.
 
 ## What Is There Now {#present}
 
 The tower stands empty between storms, and the crossings go on beneath it. The Lightning-Marked keep their toll tent at the northern edge of the flat, and the toll is what keeps the lineage on the Floor at all: the salt goes north with the caravans to the oasis markets and comes back as dates, grain, cloth and the water the apprentices drink in a place that has none. Mehrava comes out to the Floor between the season-turns, on the nights of the great storms, sits in the hall where the lineages sit, and climbs no higher.
 
-Thieves are coming south, because a fence in [[place-qarvelakhend|Qarvelakhend]] pays well for [[miscgear-crwnvahrun|The Iron Crown of Vahrun Marzuvan]] and asks nothing about where it was found; one went out before the spring and has not come back. The [Kinless Watch]{.name data-type="place/structure"} keeps its own counsel about the nights on the flat, but its _ghedvader_ in Qarvelakhend has asked the Kingdom for more men. Herders at the Floor's edge tell of a voice in the storm, and the Warrior's Circle has a question it has never ruled on: whether the [Old Promise]{.name data-type="lore/custom"} covers a Dunhari the elders say walked into the sky.
+Thieves are coming south, because a fence in [[place-qarvelakhend|Qarvelakhend]] pays well for [[miscgear-crwnvahrun|The Iron Crown of Vahrun Marzuvan]] and asks nothing about where it was found; one went out before the spring and has not come back. The [[place-kinlesswatch|Kinless Watch]] keeps its own counsel about the nights on the flat, but its _ghedvader_ in Qarvelakhend has asked the Kingdom for more men. Herders at the Floor's edge tell of a voice in the storm, and the Warrior's Circle has a question it has never ruled on: whether the [Old Promise]{.name data-type="lore/custom"} covers a Dunhari the elders say walked into the sky.
 
 ## The Salt Toll
 
@@ -73,6 +73,12 @@ From the Amradi shore the route runs south through the oasis towns and then by t
 
 [[affiliation-dunhartrbs|Dunhara Tribes]]
 : the Kinless and the other ranks of the desert
+
+[[place-palefloor|Pale Floor]]
+: the salt flat the tower stands on
+
+[[place-kinlesswatch|Kinless Watch]]
+: the Amradi-funded fort a day's ride west
 
 [[place-dunhardsrtrgn|Dunhara Desert Region]]
 : the country around the Floor

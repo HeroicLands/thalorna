@@ -54,7 +54,7 @@ data:
         - how many died; the pits were not counted and nobody entered the dead
 ---
 
-"Read me the stair," the old keeper of [The Measure]{.name data-type="place/structure"} tells a new apprentice on his first morning at the gauge, and listens while the boy reads the cut cubits aloud from the bottom. "Now you know the one number in this empire that may never be bent. Everything else the god-king may order. Not that."
+"Read me the stair," the old keeper of [[place-themeasure|The Measure]] tells a new apprentice on his first morning at the gauge, and listens while the boy reads the cut cubits aloud from the bottom. "Now you know the one number in this empire that may never be bent. Everything else the god-king may order. Not that."
 
 The Failing Floods are the years in which a Gar-Au bent it.
 

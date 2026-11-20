@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [ghavulavad]
-  affiliations: {dunhartrbs: {rank: 6}, bazhramis: {rank: 1}}
+  affiliations: {dunhartrbs: {rank: 6, office: Chieftain}, bazhramis: {rank: 1}}
   socialTies: {affiliation-wrrscrcldnhrtrbs: patron}
   gender: male
   species: humanflk
@@ -553,17 +553,17 @@ The Warrior's Circle
 
 ## Plot Hooks
 
-The Challenge of the Young Wolf
-: A new warrior named [Draiven Kamruz]{.name data-type="being/npc"}, a distant relation claiming descent from Shadezan's line, arrives at the chieftain's court with a reputation for invincible swordsmanship. Draiven challenges Shadezan to single combat for leadership of the clan, initiating a ritual duel that is legally binding under tribal law. Shadezan faces an opponent whose youthful strength and speed may match his famed power, and losing the duel would cost him not only his title but his life. The duel becomes complicated when evidence emerges that Draiven has been magically enhanced by an outside sorcerer, forcing Shadezan to confront enemies using means outside his understanding and experience.
+The Cousin's Challenge
+: A rider of the Kamruz clan, a distant cousin of Shadezan's line, challenges him to single combat for the leadership of the clan, a ritual duel that is binding under the tribes' law. Shadezan asks a party to learn who has been feeding the cousin's claim.
 
-The Prophecy of the Broken Hammer
-: A visiting shaman from a distant tribe brings news of an ancient prophecy that speaks of "the great chieftain whose hammer will break, and with it, the age of strength." Shadezan dismisses this as superstition, but his warriors become increasingly anxious. When his warhammer actually breaks during a battle (a purely mechanical accident), panic spreads through his forces. Shadezan must either suppress the prophecy and retain control or find a way to reinterpret it to maintain his authority.
+The Escort Dispute
+: Shadezan's riders and Khavari Varakan's each claim the escort of the [[place-marchroad|March Road]]'s desert stage, and caravans wait at [[place-gharzadez|Gharzadez]] while they quarrel. He asks a party to carry an offer to her camp.
 
-The Secret Heir
-: A traveling merchant arrives with evidence suggesting that Shadezan fathered a child in a foreign land during his youth—a child now grown into a capable warrior with a claim to his lineage. The merchant demands significant payment to keep the secret quiet, or threatens to reveal the heir to Shadezan's rivals and his own ambitious sons. Shadezan can pay for silence, acknowledge the child, or eliminate both the merchant and the potential heir to protect his dynasty.
+The Council's Offer
+: The smaller tribes at the common council propose a seat for Shadezan as first among the chieftains, with a voice in its debates and no command over its tribes. Shadezan asks a party to learn what each tribe wants in exchange.
 
-The Peaceful Confederacy
-: A coalition of neighboring tribes, led by the wise shaman [Alethea the Peacemaker]{.name data-type="being/npc"}, proposes a radical alternative to Shadezan's rule—a tribal confederacy based on consensus, trade, and mutual defense rather than dominance of the strongest. They offer to accept Shadezan as the ceremonial head of this new confederacy if he will release his conquered territories to local rule. Shadezan faces a stark choice: abandon his philosophy of strength and conquest to maintain nominal power, or resist and risk a war that might break his aging body.
+The Soltrev Rider
+: A rider of the Soltrev has been seen at the herd fair at [[place-parzavad|Parzavad]] with a bundle of Kamruz arrow-shafts. Shadezan asks a party to find out who sold them.
 
-The Shamanic Revelation
-: Shadezan's mother, the shaman Tavura, now ancient and approaching death, finally reveals a secret she has kept since his father's death—that Shadezan's father did not die in honorable combat but was actually defeated by Khavari the Sorcerer using magic, and that she made a pact with dark forces so that her son would win a glory great enough to cover his bloodline's hidden shame. This revelation shakes Shadezan's entire understanding of his accomplishments and his right to rule. He can expose the truth and undermine his own legitimacy, or continue a lie that was woven into the very foundation of his power.
+The Sons' Quarrel
+: Shadezan's younger sons quarrel over his favor, and one has begun to take gifts from a sheikh he has not met. Shadezan asks a party to learn which son and which sheikh.

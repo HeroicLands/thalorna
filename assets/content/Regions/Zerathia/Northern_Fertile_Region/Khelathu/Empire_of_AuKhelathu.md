@@ -90,28 +90,6 @@ Away from the river the empire falls into two other kinds of country:
 
 The west broadens into open, dry plains that shade at the far frontier into herding country, where hill-peoples pasture their flocks. The east is steeper and more rugged, rising into hills that give the empire gold, copper, turquoise, iron and fine building stone.
 
-## History
-
-Khelathi history is counted in dynasties—ruling houses that rise, flourish and give way to successors. The empire has passed through unity and fragmentation many times, and the Khelathi regard the cycle with an equanimity that baffles younger civilizations: every collapse has ended in reunification under a new dynasty claiming the unbroken mandate of the gods. The reigning dynasty, the house of [Zu'Meku]{.name data-type="affiliation/lineage"}, has held the throne for two and a half centuries, and it is the latest in a line that runs back past reliable record.
-
-The empire survives by absorbing its conquerors. Foreign peoples have seized the throne on several occasions—hill-nomads from the western margins, northern sea-raiders, and a Vilérian military occupation at the height of imperial expansion. Each time, within a generation or two, the conquerors adopted the [[skill-khelathlng|Khelathi language]], religion, customs and dress. Foreign dynasties build pyramids, worship the gods of the [[affiliation-khelathpnthn|Khelathi Pantheon]] and rule through the existing priestly bureaucracy. The Khelathi count this as vindication: even those who conquer Au'Khelathu end up serving its gods.
-
-### The Ages of the Count
-
-The temple teachers divide [[lore-qettelgu|the Qet Telgu]] into ages, each opened and closed by an event the [[lore-garauu|king-list]] enters, and [[lore-khelathclndr|the Khelathi Calendar]] sets them out with their years.
-
-- **Before the Occasion**, which the temple will not date: a valley of several polities, and the stones of [[place-anlaghura|Anlaghura]] and [[place-drownstones|the Drowned Stones]] in a script older than Khelathi reading.
-- [[lore-akhfirsttab|The First Tablets]] (1 to 1006 ST): eleven Gar-Auu in two houses, buried at [[place-firsttablets|the Ground of the First Tablets]], and [[lore-sacredhand|the Fixing of the Sacred Hand]].
-- [[lore-akhsunroad|The Sun's Road]] (1006 to 1390 ST): [[lore-crossmound|the Crossing to the Mound]], the axis of [[place-galezkara|Galezkara]] and the necropolis of [[place-zugezer|Zu-Gezer]].
-- [[lore-akhdivriver|The Divided River]] (1390 to 1671 ST): [[lore-thronelnz|the Throne at Lenen-Nezut]], [[lore-twothrones|the War of the Two Thrones]], and [[lore-thaulgau|the Coming of the Tha'Ulgau]], which left [[place-zelhalzi|Zel-Halzi]], the first blood-field in Khelathi memory.
-- [[lore-akhrestcrown|The Restored Crown]] (1671 to 1990 ST): [[lore-sunhouse|the Sun-House at Magu-Thelqen]], [[lore-templetrib|the Tribute of the Temple-Cities]] and [[lore-searaiders|the Sea-Raiders' Throne]].
-- [[lore-akhcountmon|The Count of Months]] (1990 to 2281 ST): [[lore-seahouse|the Closing of the Sea House]] and [[lore-qalezusanction|the Sanction of Qalezu]].
-- [[lore-akhstruckhs|The Struck House]] (2281 to 2378 ST): [[lore-failfloods|the Failing Floods]], [[lore-sealedgran|the Battle of the Sealed Granaries]] and [[lore-judgfalseuq|the Judgment of the False Uqa'a]].
-- [[lore-akhpriestthr|The Priests' Thrones]] (2378 to 2580 ST): [[lore-eastroad|the Storm on the Eastern Road]], [[lore-vylconquest|the Vilérian Conquest]] and [[lore-foreignhs|the Closing of the Foreign House]].
-- [[lore-akhhsmeqes|The House of Meqes]] (2580 ST to the present): [[lore-childfloods|the Child of Three Floods]], [[lore-greatremovl|the Great Removal]] and [[lore-bethuasep|the Separation of Bethua]].
-
-Three of these wars left blood-fields, the ground the Khelathi call _zelqezat_ (the place of a battle left unread): Zel-Halzi, [[place-eleventhgran|the Eleventh Granary]] and [[place-chariotfld|the Chariot Field]] at [[place-khelaga|Khelaga]]. The note [[lore-bloodfield|Blood-fields]] gives the Khelathi account of them.
-
 ## Government
 
 "Begin with the throne, because everyone else does," Akherethu tells the secretary. "Then learn who actually moves a decree from the throne to a field, because that is where your embassy's business will stall."
@@ -288,9 +266,45 @@ The empire has thirty-nine selatu, each under a hereditary Halzi'a. They differ 
 - [[affiliation-borderselatu|The Border Selatu]] (ten selatu, about 2,500,000) in the south and east are military frontiers, and their Halzi'a serve as military governors. The mining march of [[affiliation-selatzuzlqtt|the Selat of Zu-Zel-Iaqtet]] in the eastern hills and the cataract march of [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]] in the south lead them. These are rough postings, and they produce the empire's most experienced soldiers.
 - [[affiliation-capitalselat|The Capital Selat]] (about 2,500,000) is a single enormous province around Galezkara, the imperial city. It holds the Gar-Au's seat, the central bureaucracy, the greatest temples and the royal necropolis, and its Halzi'a serves at the Gar-Au's direct pleasure.
 
-Galezkara is laid out along a single ceremonial axis aligned to the solstices, [[place-waluqaa|Wal-Uqa'a]] (the Sun's Road): the living city on the east bank, the sacred island of [[place-yathtelgu|Yath-Telgu]] midstream, and the royal necropolis of Zu-Gezer on the western desert shore, in the order of the sun's daily journey. Yath-Telgu is the primeval mound and carries the [Great Temple of Uqa'a]{.name data-type="place/structure"}, the palace, and the flood-gauge called [The Measure]{.name data-type="place/structure"}. The city's two greatest civic rites, the midsummer [Festival of the Coming-Forth]{.name data-type="lore/custom"} and the midwinter [Festival of the Going-Down]{.name data-type="lore/custom"}, fall when the sun rises and sets exactly down that road.
+Galezkara is laid out along a single ceremonial axis aligned to the solstices, [[place-waluqaa|Wal-Uqa'a]] (the Sun's Road): the living city on the east bank, the sacred island of [[place-yathtelgu|Yath-Telgu]] midstream, and the royal necropolis of Zu-Gezer on the western desert shore, in the order of the sun's daily journey. Yath-Telgu is the primeval mound and carries the [[place-greattempluqaa|Great Temple of Uqa'a]], the palace, and the flood-gauge called [[place-themeasure|The Measure]]. The city's two greatest civic rites, the midsummer [Festival of the Coming-Forth]{.name data-type="lore/custom"} and the midwinter [Festival of the Going-Down]{.name data-type="lore/custom"}, fall when the sun rises and sets exactly down that road.
 
 Together the four classes hold the empire's nineteen million people. Each class note treats its most important selatu at length and rosters the rest.
+
+## Current Situation {#present}
+
+The flood has come low two years running. The priests of [[affiliation-uqaa|Uqa'a]] read [The Measure]{.name data-type="place/structure"} short at the last Inundation and short again at this one, and both readings were proclaimed to the city and the empire as the custom requires. The levy follows the harvest, so an honest low reading cuts every selat's render. The court's trouble is with what comes in beyond that cut: a Halzi'a reports a smaller crop than the Measure explains, sends the render late, sends coin where grain was due, or lets a barge sit at his own toll. None has refused the throne in words. The Overseers of Scribes at the capital hold the reckonings, and the gap between what the flood should have rendered and what reaches the treasuries is the figure the central bureaus guard most closely. The state granaries are the stores kept for exactly this, and two short years have drawn them down.
+
+The throne takes the blame. The Khelathi hold that the river answers to the Gar-Au, and a Gar-Au who cannot keep it is a poor intermediary. Nobody believes the Gar-Au is a god, everyone knows nobody believes it, and the fiction is kept because the river has kept its side of it. A failing flood strains the fiction's legitimacy, not anyone's belief: the empire's schoolrooms teach [[lore-akhstruckhs|the Struck House]] and [[lore-failfloods|the Failing Floods]] as the last time a throne and a short river met, and the bureaus cite them in arguments about the present.
+
+[[being-garaumeqesxv|Gar-Au Meqes XVI]] is 46 and in her twelfth year, and her nephew [[being-anlaghur|Anlaghur]], an Iru'palu at [[place-anlaghzetun|Anlagh-Zetun]], stands near enough the succession that the court asks the question seriously. Factions of the central bureaus and of the priesthood back different answers, and a failing flood turns a quarrel about the future into a quarrel about whether the present throne can hold. The mediators of the [[affiliation-genzetpalu|Genzet'Palu]] trade in what each faction offers, and their influence grows with every unresolved week.
+
+Beyond Bethua lies [[affiliation-okharis|Okharis]], an independent kingdom that owes the empire nothing and trades with it freely. Its horsemen are what the factions want: riders for a general who needs a force he can trust, escorts for a temple that distrusts the garrison, an ally against a Halzi'a who holds back his render. Embassies and gifts go west from several houses at once, and the offers are better than Okharis's own cities make. The village tribes take what is offered and commit to none of it, and the Okharik King cannot answer for them.
+
+The [[affiliation-mtrrchybth|Matriarchy of Bethua]], the empire's partner on the shore, draws its grain from aqueducts instead of the flood, and its surplus is the only reliable one on the coast. The delta's merchant houses press the Bethuan Trade-Houses to sell it, and what Bethua decides sets the price of bread in the ports.
+
+## History {#history}
+
+Khelathi history is counted in dynasties—ruling houses that rise, flourish and give way to successors. The empire has passed through unity and fragmentation many times, and the Khelathi regard the cycle with an equanimity that baffles younger civilizations: every collapse has ended in reunification under a new dynasty claiming the unbroken mandate of the gods. The reigning dynasty, the house of [[affiliation-zumeku|Zu'Meku]], has held the throne for two and a half centuries, and it is the latest in a line that runs back past reliable record.
+
+[[lore-khelathhist|The History of Au'Khelathu]] tells the whole of it, from the First Occasion to the twelfth year of Meqes XVI.
+
+The empire survives by absorbing its conquerors. Foreign peoples have seized the throne on several occasions—hill-nomads from the western margins, northern sea-raiders, and a Vilérian military occupation at the height of imperial expansion. Each time, within a generation or two, the conquerors adopted the [[skill-khelathlng|Khelathi language]], religion, customs and dress. Foreign dynasties build pyramids, worship the gods of the [[affiliation-khelathpnthn|Khelathi Pantheon]] and rule through the existing priestly bureaucracy. The Khelathi count this as vindication: even those who conquer Au'Khelathu end up serving its gods.
+
+### The Ages of the Count
+
+The temple teachers divide [[lore-qettelgu|the Qet Telgu]] into ages, each opened and closed by an event the [[lore-garauu|king-list]] enters, and [[lore-khelathclndr|the Khelathi Calendar]] sets them out with their years.
+
+- **Before the Occasion**, which the temple will not date: a valley of several polities, and the stones of [[place-anlaghura|Anlaghura]] and [[place-drownstones|the Drowned Stones]] in a script older than Khelathi reading.
+- [[lore-akhfirsttab|The First Tablets]] (1 to 1006 ST): eleven Gar-Auu in two houses, buried at [[place-firsttablets|the Ground of the First Tablets]], and [[lore-sacredhand|the Fixing of the Sacred Hand]].
+- [[lore-akhsunroad|The Sun's Road]] (1006 to 1390 ST): [[lore-crossmound|the Crossing to the Mound]], the axis of [[place-galezkara|Galezkara]] and the necropolis of [[place-zugezer|Zu-Gezer]].
+- [[lore-akhdivriver|The Divided River]] (1390 to 1671 ST): [[lore-thronelnz|the Throne at Lenen-Nezut]], [[lore-twothrones|the War of the Two Thrones]], and [[lore-thaulgau|the Coming of the Tha'Ulgau]], which left [[place-zelhalzi|Zel-Halzi]], the first blood-field in Khelathi memory.
+- [[lore-akhrestcrown|The Restored Crown]] (1671 to 1990 ST): [[lore-sunhouse|the Sun-House at Magu-Thelqen]], [[lore-templetrib|the Tribute of the Temple-Cities]] and [[lore-searaiders|the Sea-Raiders' Throne]].
+- [[lore-akhcountmon|The Count of Months]] (1990 to 2281 ST): [[lore-seahouse|the Closing of the Sea House]] and [[lore-qalezusanction|the Sanction of Qalezu]].
+- [[lore-akhstruckhs|The Struck House]] (2281 to 2378 ST): [[lore-failfloods|the Failing Floods]], [[lore-sealedgran|the Battle of the Sealed Granaries]] and [[lore-judgfalseuq|the Judgment of the False Uqa'a]].
+- [[lore-akhpriestthr|The Priests' Thrones]] (2378 to 2580 ST): [[lore-eastroad|the Storm on the Eastern Road]], [[lore-vylconquest|the Vilérian Conquest]] and [[lore-foreignhs|the Closing of the Foreign House]].
+- [[lore-akhhsmeqes|The House of Meqes]] (2580 ST to the present): [[lore-childfloods|the Child of Three Floods]], [[lore-greatremovl|the Great Removal]] and [[lore-bethuasep|the Separation of Bethua]].
+
+Three of these wars left blood-fields, the ground the Khelathi call _zelqezat_ (the place of a battle left unread): Zel-Halzi, [[place-eleventhgran|the Eleventh Granary]] and [[place-chariotfld|the Chariot Field]] at [[place-khelaga|Khelaga]]. The note [[lore-bloodfield|Blood-fields]] gives the Khelathi account of them.
 
 ## Notable Features
 
@@ -300,7 +314,7 @@ The Great River
 The pyramids and necropolises
 : tomb complexes along the western bank, the most impressive built landscape in the known world. At the capital, the royal necropolis of Zu-Gezer is laid out as a timeline in stone: each dynasty's Gar-Auu lie along their own crossing-road off the great death-road, by tradition the oldest nearest the river and the newest at the frontier, though the mightiest houses have reordered the row, and the reigning dynasty took the river-front itself by its Great Removal
 
-[[place-zelgeru|The Zelgeru]]
+[[lore-zelgeru|The Zelgeru]]
 : the great temple-estates, religious, economic and political institutions to rival the Gar-Au's palace
 
 [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]
@@ -344,3 +358,9 @@ The empire strikes no round coin. Its temples attest weight-pieces of copper, si
 
 [[doc-lnggsthlrn|Languages of Thalorna]]
 : language reference
+
+[[affiliation-azletkutu|Azlet'Kutu]]
+: the second house of the king-list, closed
+
+[[affiliation-thelqenrelu|Thelqen'Relu]]
+: the house of the sun, closed

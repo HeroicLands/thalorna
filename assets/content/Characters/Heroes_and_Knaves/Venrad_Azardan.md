@@ -477,7 +477,7 @@ Rather than follow the merchant trade, Venrad insisted upon becoming a pilot—a
 
 ### The Present Zenith
 
-Now, at thirty-five, Venrad has achieved the status of a famous pilot while remaining dangerously young for such fame. He has earned significant wealth through piloting fees, contracts with merchant consortiums, and the patronage of those who seek his talents for increasingly dangerous and exotic voyages. Yet his success has come at personal cost—his recklessness in taking dangerous contracts has earned him a reputation as much for audacity as for competence, and several competitors have attempted to discredit him or recruit him away from independent work. He maintains membership in the [Local Mariners' Guild]{.name data-type="affiliation/guild"} but operates largely independently, selecting only contracts that interest him and refusing far more than he accepts. In recent years, he has begun to accept commissions from adventurers and explorers seeking to venture into uncharted waters, suggesting that his thirst for challenge and danger may be evolving toward something more ambitious than merely excellent sailing.
+Now Venrad has achieved the status of a famous pilot while remaining dangerously young for such fame. He has earned significant wealth through piloting fees, contracts with merchant consortiums, and the patronage of those who seek his talents for increasingly dangerous and exotic voyages. Yet his success has come at personal cost—his recklessness in taking dangerous contracts has earned him a reputation as much for audacity as for competence, and several competitors have attempted to discredit him or recruit him away from independent work. He keeps his standing among the mariners of the coast but operates largely independently, selecting only contracts that interest him and refusing far more than he accepts. In recent years, he has begun to accept commissions from adventurers and explorers seeking to venture into uncharted waters, suggesting that his thirst for challenge and danger may be evolving toward something more ambitious than merely excellent sailing.
 
 ## Psyche
 
@@ -543,8 +543,8 @@ Captain [[being-tahruzgirani|Tahruz Girani]], the Venerable
 
 ### Affiliations
 
-The Local Mariners' Guild
-: Member in good standing, though frequently at odds with the guild's safety rules and conservative approach to navigation.
+The Pilots of the Port
+: An informal body of the town's senior pilots. Venrad keeps his place among them, though he is frequently at odds with their safety rules and conservative approach to navigation.
 
 [The Kingdom's Merchant Fleet]{.name data-type="affiliation"}
 : Occasional contractor for government trade missions and sensitive vessel movements.
@@ -554,17 +554,17 @@ The Local Mariners' Guild
 
 ## Plot Hooks
 
-The Cursed Passage
-: A wealthy merchant consortium approaches Venrad with an extraordinary contract: navigate a vessel through a narrow passage of ocean that charts suggest should be impossible, where at least a dozen vessels have been lost in the past five years. The pay is extraordinary, but so is the danger. As Venrad prepares the vessel and gathers crew, the party discovers through investigation that something actively malevolent inhabits the waters—not difficult conditions but something that hunts vessels. The journey becomes a race against an unknown supernatural force, with Venrad's instinct for water and weather tested against something beyond natural law.
+Bezdun's Race
+: Bezdun Vahdrak challenges Venrad to a navigation trial through the strait, the loser to give up piloting, and the quay lays wagers. Venrad suspects the marks of the course have been moved and asks a party to sound it before the day.
 
-The Lost Pilot's Map
-: Venrad discovers a weathered navigation map in the possession of an elderly sailor, supposedly drawn by a famous pilot from a century past. The map indicates a passage to a realm across the waters that no known navigator has reached—a place of legend and possibly impossible. The map's authenticity cannot be verified, but it offers exactly the sort of impossible challenge that Venrad cannot resist. The party becomes his crew as he assembles a vessel to make the attempt. Along the way, they discover that the map's origin and purpose may be darker than a navigation challenge.
+The Corsairs' Passage
+: Word comes from Bezdun's captains that the price on Venrad's head is lifted if he pilots one of their hulls through the reefs of their own coast, once. Venrad asks a party to learn whether they mean to keep the word, since a pilot who knows those reefs is one they need never release.
 
-The Pirate's Reckoning
-: Bezdun Vahdrak finally makes his move against Venrad, publicly challenging him to a competitive navigation trial where the loser agrees to retire from piloting permanently. The competition draws massive gambling interest and intense attention from the maritime community. As the competition unfolds, the party discovers that Bezdun has sabotaged the course itself, creating real danger beyond the competition. The trial becomes a test of whether skill and courage can overcome deliberate treachery.
+The Gap in the Shoals
+: A consortium wants a vessel taken through a gap in the [[place-tamzirshoals|Tamzir Shoals]] that the old charts mark as closed, and the fee is large. Venrad wants a party to find out why the consortium needs the gap and whether the hull it names carries what its manifest says.
 
-The Storm Born From Heaven
-: An unprecedented storm emerges on the horizon—one that appears to defy natural meteorological explanation. As it approaches, Venrad realizes that his instincts, always so reliable, are providing contradictory information. Whatever this phenomenon is, it appears to exceed even his extraordinary ability to predict and navigate weather. He must guide a fleet of vessels to safety while confronting the possibility that some forces exist beyond his capacity to overcome, and that surrender rather than stubborn persistence may be the only path to survival.
+The Winter Crossing
+: Tahruz Girani has a cargo of lamp oil that must cross the strait before the winter wind shuts the passage. Venrad takes the pilot's place, and Tahruz hires a party to keep him from taking the short way.
 
-The Corsairs' Bargain
-: Bezdun Vahdrak captures Venrad and brings him before the Corsairs of the Burning Coast. Rather than execute him, they offer an extraordinary proposition: pilot a single vessel to complete a voyage so dangerous and complex that it has never been successfully attempted. If Venrad succeeds, he is released and all debts are forgiven. If he fails, he becomes their permanent captive, forced to pilot their raiding expeditions for life. The party can help Venrad in this impossible endeavor or negotiate his release by other means. The voyage itself becomes a crucible that will either cement Venrad's legend or destroy him absolutely.
+The Bounty on the Quay
+: The corsairs of the Burning Coast have put a price on Venrad's head, and a stranger has begun to drink on the quay at Valmakhend. Venrad asks a party to learn who the stranger is before he decides whether to leave the port.

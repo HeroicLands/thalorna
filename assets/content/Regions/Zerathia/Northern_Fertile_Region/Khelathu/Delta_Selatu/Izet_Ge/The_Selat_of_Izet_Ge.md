@@ -66,6 +66,14 @@ Izet-Ge is the delta selat of date palms and sweet wines, and one of [[affiliati
 
 The seat is [[place-izet|Izet]], where the Halzi'a keeps court and the selat's chief temple of Thuba'i stands. Temples of Thuba'i hold wine vaults and granaries, and in a selat of date plantations and sweet wine the vaults are a working part of the economy and not a symbol of it.
 
+## Current Situation {#present}
+
+Izet-Ge has dates and wine, and a hungry year is a good one for dates: the palms root deep and bear well, and a sack of dried dates feeds a village when a sack of wheat cannot be bought. The Halzi'a's strength is the vaults of Thuba'i, whose temples hold wine and granaries together. He fills the temple granaries with the dates and the grain he receives for the wine, and the temple's vaults are full. The render he sends the throne is paid in sweet wine, which the court accepts at a price the delta's merchants find generous.
+
+:::secret {title="The vault accounts"}
+The stores that appear in the Halzi'a's own accounts are smaller than the stores in the temple's. He sends the throne nothing it cannot drink, and keeps what it would have to eat.
+:::
+
 ## Commerce and Currency {#commerce}
 
 Izet-Ge uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the temple that stores the vintage is also the one that vouches for the price. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
