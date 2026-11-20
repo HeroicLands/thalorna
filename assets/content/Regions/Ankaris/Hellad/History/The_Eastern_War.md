@@ -35,7 +35,7 @@ data:
             knowledge: named
           - place: place-byzariargn
             how: >-
-              the province's ledgers are kept in the Semaron script and dated by the Vilérian Calendar for three centuries
+              the province's ledgers are kept in the Semaron script and dated by the Vilérian Calendar
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: actor}
@@ -71,9 +71,9 @@ The Orzas annexed the League as a province by edict. The edict dissolved [[lore-
 
 ## What the War Left
 
-- **The province of Bizaria**, which lasted three centuries.
+- **The province of Bizaria**, which the Empire holds in law ever after: direct imperial military administration wanes over three centuries while the League's cities keep their councils under the imperial officers of the passes, the tariffs and the muster.
 - **The imperial frontier forts** in the passes, which the League takes as its marches after the legions leave.
-- **The [[skill-semrnscrpt|Semaron]] ledgers and [[lore-commoncal|the Vilérian Calendar]]**, which the province keeps for the rest of its imperial age.
+- **The [[skill-semrnscrpt|Semaron]] ledgers and [[lore-commoncal|the Vilérian Calendar]]**, which the province keeps.
 - **The "formal conquest"** of the Tevran Maldor's account, which dates to this war and to no other.
 
 ## See Also {#see-also}

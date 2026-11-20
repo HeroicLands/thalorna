@@ -58,7 +58,7 @@ The [[place-northrnmrch|Northern March]] is the quietest. It guards the grain ro
 
 Each city-state keeps its own council, its own coin standard, its own courts and its own guard, and its councillors sit by the weight of the houses behind them. The council elects a First of the Council for a fixed term, and he holds the city-state's seal while he presides. Within that pattern each city-state weighs power its own way. [[affiliation-khryshteikhos|Krusteikhos]] is ruled by merchant-princes whose families have held their seats for generations. [[affiliation-nesthiros|Nesthiros]] shares government with its admiralty. [[affiliation-karvashion|Karvashion's]] caravansary masters sit beside its merchant-princes, and [[affiliation-orashion|Órashion's]] guild masters sit with equal authority. [[affiliation-argyrteikhos|Argirteikhos]] is governed by a military governor alongside its council.
 
-The League council meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and its business is narrow: the common tolls, the joint fleet and army, the three marches, and quarrels between city-states. The passes, the tariffs and the muster stay with imperial officers. Krusteikhos dominates it by money, Nesthiros by ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison. Krusteikhos has the gold, a Nesthirian says, but Nesthiros has the ships.
+The League council meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and its business is narrow: the pay of the forts, the common tolls, the joint fleet and army, the three marches, and quarrels between city-states. The passes, the tariffs and the muster stay with imperial officers. Krusteikhos dominates it by money, Nesthiros by ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison. Krusteikhos has the gold, a Nesthirian says, but Nesthiros has the ships.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -124,7 +124,7 @@ A hired hand hears these quoted at the balance, the table and the fort fire long
 
 **Arriving without a guild or a master.** Name whoever you answer to—a house, a company or a captain—before anyone has to ask.
 
-**Avoiding the toll.** The League's collectors on the passes and at the march caravanserais are League officers. A smuggled load is cheaper only until a seal on it is checked.
+**Avoiding the tariff.** The collectors on the passes and at the march caravanserais take the League's toll and the imperial tariff, at the rate imperial officers set; the League staffs the posts and pays the collectors. A smuggled load is cheaper only until a seal on it is checked.
 
 ## People to Meet
 
@@ -157,7 +157,7 @@ Campaigns here start well from a contract. A house hires the party to escort a c
 :::
 
 :::secret
-**For the GM:** Karvashion's caravansary masters pay the Southern March for its road in tolls and in gifts to Lord Vaskan, and both sides would rather the League council did not look closely at how the road's revenue is divided. A party hired to audit the road, or to carry its gifts, stands between the richest caravan town and the lord who holds its only southern road.
+**For the GM:** Karvashion's caravansary masters pay the Southern March for its road in tolls and in gifts to Lord Vaskan; Vaskan depends on Karvashion for grain, coin and a market for the March's wool, and both sides would rather the League council did not look closely at how the road's revenue is divided. A party hired to audit the road, or to carry its gifts, stands between the richest caravan town and the lord who holds its only southern road.
 :::
 
 ## Where to Read Next

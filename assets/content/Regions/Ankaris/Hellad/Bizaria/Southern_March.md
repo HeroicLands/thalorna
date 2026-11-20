@@ -19,7 +19,7 @@ data:
 
 The Southern March is the frontier district of the [[affiliation-byzarianlg|Bizarian League]] on the south-eastern flank of [[place-byzariargn|Bizaria]], where the plateau dries out toward the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and the caravan road leaves [[place-karvashion2|Karvashion]] for [[place-dunharargn|Dunhara]]. It is pastoral upland—sheep, goats and horses on thin grass, hunting in the scrub and the gorges—and it is held for the League by a landed lord rather than a soldier, because the trouble it faces is the kind a landed lord handles: tolls, grazing rights, poachers, feuds and the occasional raid.
 
-Like the League's other marches it is common territory outside any city-state's charter. Its lord holds a commission from the League council in [[place-khryshteikhos2|Krusteikhos]] and answers to it, and the district's garrison is a detachment of the joint army. The commission is at present held by **Lord [[being-vaskan|Vaskan]] of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
+Like the League's other marches it is common territory outside any city-state's charter. Its lord holds a commission from the League council in [[place-khryshteikhos2|Krusteikhos]] and answers to it for the paying and staffing of the district's garrison, a detachment of the joint army, while imperial officers hold the passes, the tariff and the muster in law. The commission is at present held by **Lord [[being-vaskan|Vaskan]] of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
 
 ## Geography
 
@@ -39,7 +39,7 @@ Vaskan hunts with trained beasts—hounds, hawks and coursing cats—and pays we
 
 The March has no citadel. Its strength is the lord's own household—a mounted retinue of huntsmen, rangers and kinsmen who know the country—and a League detachment of conscript foot posted at the caravanserai-forts along the road, whose captains report to the lord and, through him, to the council. Justice is the lord's, under League law and the customs of the upland: grazing disputes, water rights, blood-feuds between herding clans and the assessment of tolls.
 
-The relationship with [[affiliation-karvashion|Karvashion]] is close and unequal. The town's caravansary masters depend on the March to keep the Dunhara road open and its wells clean, and they pay for the privilege in tolls and in gifts to the lord; the lord depends on Karvashion for grain, coin and a market for the March's wool. Neither could do without the other, and both would rather the council did not look too closely at how the road's revenue is divided.
+The relationship with [[affiliation-karvashion|Karvashion]] is close and unequal. The town's caravansary masters depend on the March to keep the Dunhara road open and its wells clean, and they pay for the privilege in tolls and in gifts to the lord; the lord depends on Karvashion for grain, coin and a market for the March's wool. Neither could do without the other.
 
 ## Peoples {#peoples}
 

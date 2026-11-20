@@ -52,7 +52,7 @@ data:
             knowledge: named
           - place: place-byzariargn
             how: >-
-              the League sits in the commonwealth, taxed by nobody and charged by the Tevran
+              the League stays a province in law, and the Tevran charges it the fee the crowns pay
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: victim}

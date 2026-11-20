@@ -31,7 +31,7 @@ The town stands where goods change hands between the League and the clans of the
 
 ## Who Rules and Keeps Order {#who-rules}
 
-[[affiliation-orashion|Órashion]] holds the town, and the merchant-diplomat house that brokers with the holds keeps a factor in it. A guild bailiff runs the gate and the market, a company of Órashion's guards holds the wall, and the League's pass-fort stands above the town under an officer of the [[place-eastrnmrch|Eastern March]]. Clan envoys are given a guest hall, and no clansman goes armed through the market street.
+[[affiliation-orashion|Órashion]] holds the town, and the merchant-diplomat house that brokers with the holds keeps a factor in it. A guild bailiff runs the gate and the market, a company of Órashion's guards holds the wall, and the pass-fort the League staffs stands above the town under an officer of the [[place-eastrnmrch|Eastern March]]. Clan envoys are given a guest hall, and no clansman goes armed through the market street.
 
 ## The Present {#present}
 
