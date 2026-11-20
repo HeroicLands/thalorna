@@ -227,6 +227,7 @@ data:
       - "Charvashov"
       - "Kelodov"
       - "Semukarov"
+      - "Yadakov"
   fields:
     - name: "Princes, courts and retinues"
       holds: "The river-prince and his hall: the retinue sworn to him, the judge who rules by the customary law, and the keeper of a walled town."
@@ -734,6 +735,9 @@ data:
     - {name: Charvashov, tongue: velanthian}
     - {name: Kelodov, tongue: velanthian, gloss: "the house of the well"}
     - {name: Semukarov, tongue: velanthian, gloss: "the house of Semukar"}
+    - {name: Yadakov, tongue: velanthian, gloss: "the house of the raid"}
+    - {name: "Torvogor Fort", tongue: translation}
+    - {name: "Sedrovod Fort", tongue: translation}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -873,7 +877,7 @@ A Host takes its name from its first _polvod_ or from its river, and the name st
 
 **Men's names:** Brelogor, Brelovod, Brelvan, Brelodar, Charvobor, Charvodar, Charvash, Duvogor, Duvash, Duvek, Duvik, Boskvan, Gorovod, Zhitovod, Zhitek, Zhitogor, Milogor, Milvan, Radovod, Radodar, Slevogor, Slevovod, Tveskan, Tveskogor, Volkar, Volkrad, Yarogor, Yarvan, Teshogor, Teshvan, Teshodar, Brevogor, Brevek, Brevash, Dobrogor, Dobrovod, Dobrash, Vlidogor, Vlidash, Vlidvan, Ovrik, Ovran, Ovrodar, Krodogor, Krodash, Krodan, Lervash, Lervogor, Lervik, Sulvogor, Sulvik, Sulvan, Sedrogor, Sedrovod, Sedrash, Mevran, Mevrash, Mevrek, Mevrodar, Torvogor, Torvik, Torvek, Rezdogor, Rezdovod, Geshvan, Svelovod, Karvogor, Zvekogor, Sokogor, Kodogor, Kodvan, Sovidan, Sovidar, Volketan, Kelodan, Belukan, Semukar, Beyukan
 
-**House names:** Brelovodich, Dobrovodich, Zhitogorich, Radovodich, Tveskogorich, Yarogorich, Teshogorich, Brevogorich, Vlidogorich, Krodogorich, Lervogorich, Sedrogorich, Torvogorich, Boskvanich, Milvanich, Sulvanich, Mevranich, Kodogorich, Sovidich, Volketich, Duvavesh, Boskavesh, Goravesh, Zhitavesh, Brelavesh, Charvavesh, Radavesh, Svelavesh, Tveskavesh, Volkavesh, Yaravesh, Teshavesh, Brevavesh, Dobravesh, Vlidavesh, Krodavesh, Sokavesh, Sedravesh, Ovravesh, Kodavesh, Volkarov, Duvekov, Zhitekov, Dobrashov, Tveskanov, Vlidashov, Brevekov, Lervikov, Sulvikov, Torvikov, Mevrekov, Duvashov, Ovranov, Krodashov, Sedrashov, Lervashov, Ovrikov, Charvashov, Kelodov, Semukarov
+**House names:** Brelovodich, Dobrovodich, Zhitogorich, Radovodich, Tveskogorich, Yarogorich, Teshogorich, Brevogorich, Vlidogorich, Krodogorich, Lervogorich, Sedrogorich, Torvogorich, Boskvanich, Milvanich, Sulvanich, Mevranich, Kodogorich, Sovidich, Volketich, Duvavesh, Boskavesh, Goravesh, Zhitavesh, Brelavesh, Charvavesh, Radavesh, Svelavesh, Tveskavesh, Volkavesh, Yaravesh, Teshavesh, Brevavesh, Dobravesh, Vlidavesh, Krodavesh, Sokavesh, Sedravesh, Ovravesh, Kodavesh, Volkarov, Duvekov, Zhitekov, Dobrashov, Tveskanov, Vlidashov, Brevekov, Lervikov, Sulvikov, Torvikov, Mevrekov, Duvashov, Ovranov, Krodashov, Sedrashov, Lervashov, Ovrikov, Charvashov, Kelodov, Semukarov, Yadakov
 
 Velanthian is written in a cased script, so its names are capitalized in the register and in these lists.
 

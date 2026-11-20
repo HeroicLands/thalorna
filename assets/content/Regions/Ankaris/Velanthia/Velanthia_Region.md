@@ -129,7 +129,10 @@ To the **west** lies Vristwald—the Varokh forest country between Velanthia and
 
 To the **east** lies the vast Khazrin. The relationship is the central strategic fact of Velanthian existence. Across a long, fluid frontier, Velanthian Hosts and Khazrin tribes conduct a continuous low-level commerce of trade, raid, alliance, and intermarriage. When a great orghun rises in the central Khazrin, the relationship turns dangerous; in the long stretches between, it is workable.
 
-To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis and Bizaria. Velanthian grain feeds their cities and mining towns; finished goods and scholarship flow north. Farther south, beyond the Hellád, lie the [[affiliation-kngdmmrdd|Kingdom of Amradad]] on the eastern shore of the Vilérian Sea and the broader [[place-dunharargn|Dunhara]].
+To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis and Bizaria. Velanthian grain feeds their cities and mining towns; finished goods and scholarship flow north. Farther south, beyond the Hellád, lie the [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
+: the paid river-prince forts that watch the Grukar country
+
+[[affiliation-kngdmmrdd|Kingdom of Amradad]] on the eastern shore of the Vilérian Sea and the broader [[place-dunharargn|Dunhara]].
 
 ## See Also {#see-also}
 
