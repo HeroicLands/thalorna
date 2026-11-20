@@ -119,7 +119,7 @@ _Deepwater, the eight hundred and first Walk, the year of it, the eleventh day._
 : the terrace town on the eastern shore, whose lowest walls stand in the lake
 
 [[place-stillwatersill|The Still-Water Sill]]
-: the work that holds the lake to its level, and the marks the Kuethori keep
+: the work the Kuethori hold keeps the lake to its level, and the marks the Kuethori keep
 
 [[place-klhrestrrc|The Eastern Terraces]]
 : the terraced country of the Bowl, and the households that hold its walls

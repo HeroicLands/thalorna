@@ -2,7 +2,7 @@
 shortcode: warmsrod
 name: {full: The Warm's Rod}
 type: miscgear
-description: "A living held stone of the Warm, shaped as a rod a forearm long, which warms in the hand while the Warm is tended and cools as the Warm cools."
+description: "A living held stone of the Warm, shaped as a rod a forearm long, which warms in the hand while the Warm is tended and goes cold if the Warm stops."
 tags: [kaan-sul, kalihara]
 data: {kind: miscgear, icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
@@ -14,7 +14,13 @@ The Warm's Rod is a living held stone (_kaan-sul_) of [[place-sulvaan|the Warm]]
 
 ## What It Does
 
-In the hand the rod is warm while the Warm is tended. The silkan keep it as the one reading of the Warm that can be held in the palm and carried down from the summit. Set against the oldest account of the Warm in the archive at Veshvaan, it reads cooler than that account records; the Bearer of the Crisis holds this and has told nobody. The rod does nothing to the Warm, and no tending given to the rod is tending given to the Warm.
+In the hand the rod is warm while the Warm is tended. The silkan keep it as the one reading of the Warm that can be held in the palm and carried down from the summit. The rod does nothing to the Warm, and no tending given to the rod is tending given to the Warm.
+
+:::secret {title="The Bearer of the Crisis's Reading"}
+
+Set against the oldest account of the Warm in the archive at Veshvaan, the rod reads cooler than that account records. The Bearer of the Crisis holds this and has told nobody.
+
+:::
 
 ## When Its Work Goes Dark
 

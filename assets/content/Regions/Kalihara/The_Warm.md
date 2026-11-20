@@ -26,11 +26,17 @@ The custodians hold that the Warm keeps the mountains of [[place-klhrring|the Ri
 
 The summit is the custodians' ground, and the silkan alone tend the Warm. The lineage [Marivoel]{.name data-type="affiliation/lineage"} holds the Massif and its shores below, keeps the landings and the boats, and carries the custodians across the lake.
 
-## The Failing
+## Its Appearance
 
-The Warm looks exactly as it always has: gray, giving under the hand, warm, and faintly lit at night. It is cooler to the hand than the oldest account of it in Veshvaan's archive, and the Ring has trembled in each of the last two [Tenth-Year Walk]{.name data-type="lore/custom"}s, where the archive records no tremor in all its length. The Bearer of the Crisis holds the first of these and has told nobody, [[affiliation-councilisland|the Council]] included.
+The Warm looks as it does in every account of it: gray, giving under the hand, warm, and faintly lit at night. The Ring has trembled in each of the last two [Tenth-Year Walk]{.name data-type="lore/custom"}s, and everyone on the walk has felt it; the archive records no tremor in all its length.
+
+:::secret {title="The Bearer of the Crisis's Reading"}
+
+The Warm is cooler to the hand than the oldest account of it in Veshvaan's archive. The Bearer of the Crisis holds this and has told nobody, [[affiliation-councilisland|the Council]] included.
 
 Every lineage on the island has seen a tending-stone go white, and every one knows that works fail. That the Warm has begun to cool is known to the Bearer alone. There is nothing on the summit to show anybody else: the substance has not changed, and a work going wrong gives no sign of how long it has.
+
+:::
 
 ## What Is Seen from It
 
