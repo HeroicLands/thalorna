@@ -86,7 +86,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Wejai Domain, held by House Wejai (Wind Peak), holds [[place-wejai|Wejai]], the mountain of the open-ocean coast on the east of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Wejai Rowo]{.name data-type="being/npc"} (Thunder Warrior), forty years old, who sits in the castle town of [[place-zuwu|Zuwu]] (Blue Hall), population 2,200. The domain holds 38,000 people, is assessed at 24,000 bales a year, and musters 600 men and 15 ships. The house is independent of both blocs.
+The Wejai Domain, held by House Wejai (Wind Peak), holds [[place-wejai|Wejai]], the mountain of the open-ocean coast on the east of the great island, by patent of the Emperor. Its lord is the Dauzhwo [[being-wejairowo|Wejai Rowo]] (Thunder Warrior), forty years old, who sits in the castle town of [[place-zuwu|Zuwu]] (Blue Hall), population 2,200. The domain holds 38,000 people, is assessed at 24,000 bales a year, and musters 600 men and 15 ships. The house is independent of both blocs.
 
 ## The Land
 
@@ -128,6 +128,9 @@ A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo 
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[being-wejairowo|Wejai Rowo]]
+: the Dauzhwo of the domain
 
 [[place-wejai|Wejai]]
 : the mountain of the domain

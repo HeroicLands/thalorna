@@ -18,7 +18,7 @@ data:
   notes: "The trading castle town of House Wojai on the bay of Yujai—quays, a customs hall and the counting-houses of the merchant lineages, seat of the independent lord Wojai Doja."
 ---
 
-Yuwu (Moon Hall) is the castle town and seat of [Wojai Doja]{.name data-type="being/npc"}, a town of 9,000 people on the northern shore of the bay of [[place-yujai|Yujai]]. It is the largest of the eight houses' seats. The lord's hall stands above the quays on a spur of the mountain, with the whole anchorage below it.
+Yuwu (Moon Hall) is the castle town and seat of [[being-wojaidoja|Wojai Doja]], a town of 9,000 people on the northern shore of the bay of [[place-yujai|Yujai]]. It is the largest of the eight houses' seats. The lord's hall stands above the quays on a spur of the mountain, with the whole anchorage below it.
 
 The quays run for the length of the shore. They hold the domain's forty hulls and the foreign ships that come to trade, and behind them stand the **customs hall**, where the [Woju]{.name data-type="affiliation/lineage"} enter every berth and toll, and the **granary**, where the lord's four parts in ten are delivered. The retainers' houses cluster near the hall, and the Tsaihwo soldiers are raised from the dock streets.
 

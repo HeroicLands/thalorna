@@ -88,7 +88,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Wojai Domain, held by House Wojai (Sea Place), holds [[place-yujai|Yujai]] (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Dauzhwo [Wojai Doja]{.name data-type="being/npc"} (Great Blade), fifty-six years old, who sits in the castle town of [[place-yuwu|Yuwu]] (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
+The Wojai Domain, held by House Wojai (Sea Place), holds [[place-yujai|Yujai]] (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Dauzhwo [[being-wojaidoja|Wojai Doja]] (Great Blade), fifty-six years old, who sits in the castle town of [[place-yuwu|Yuwu]] (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
 
 ## The Land
 
@@ -130,6 +130,9 @@ The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[being-wojaidoja|Wojai Doja]]
+: the Dauzhwo of the domain
 
 [[place-yujai|Yujai]]
 : the mountain of the domain

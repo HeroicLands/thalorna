@@ -18,7 +18,7 @@ data:
   notes: "The castle town of House Tsuijai on the slope of Tsuijai—a granary, a hall and an armory below the mines, seat of the independent lord Tsuijai Rezo."
 ---
 
-Tsuiwu (Iron Hall) is the castle town and seat of [Tsuijai Rezo]{.name data-type="being/npc"}, a town of 2,600 people on the slope of [[place-tsuijai|Tsuijai]]. The hall is framed in iron and stone, and it stands above the smelters' smoke on a terrace cut from the rock.
+Tsuiwu (Iron Hall) is the castle town and seat of [[being-tsuijairezo|Tsuijai Rezo]], a town of 2,600 people on the slope of [[place-tsuijai|Tsuijai]]. The hall is framed in iron and stone, and it stands above the smelters' smoke on a terrace cut from the rock.
 
 The castle holds the **granary**, where the lord's four parts in ten are delivered from the demesne at [Jidu]{.name data-type="place/settlement"} and the rice of the domain, and the hall. The armory of the [Jaju]{.name data-type="affiliation/lineage"} stands beside it, and the Tsaihwo soldiers it arms are raised from the town's streets.
 

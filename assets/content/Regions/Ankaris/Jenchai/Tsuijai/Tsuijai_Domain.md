@@ -87,7 +87,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Tsuijai Domain, held by House Tsuijai (Iron Peak), holds [[place-tsuijai|Tsuijai]], the iron mountain of the north-west uplands of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Tsuijai Rezo]{.name data-type="being/npc"} (Bright Dragon), fifty-two years old, who sits in the castle town of [[place-tsuiwu|Tsuiwu]] (Iron Hall), population 2,600. The domain holds 40,000 people, is assessed at 22,000 bales a year, and musters 550 men; it keeps no fleet. The house is independent of both blocs, and it has the iron and the swordsmiths of the Nine.
+The Tsuijai Domain, held by House Tsuijai (Iron Peak), holds [[place-tsuijai|Tsuijai]], the iron mountain of the north-west uplands of the great island, by patent of the Emperor. Its lord is the Dauzhwo [[being-tsuijairezo|Tsuijai Rezo]] (Bright Dragon), fifty-two years old, who sits in the castle town of [[place-tsuiwu|Tsuiwu]] (Iron Hall), population 2,600. The domain holds 40,000 people, is assessed at 22,000 bales a year, and musters 550 men; it keeps no fleet. The house is independent of both blocs, and it has the iron and the swordsmiths of the Nine.
 
 ## The Land
 
@@ -129,6 +129,9 @@ The office of Teng Ja stands vacant, and a new holder receives a blade forged at
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[being-tsuijairezo|Tsuijai Rezo]]
+: the Dauzhwo of the domain
 
 [[place-tsuijai|Tsuijai]]
 : the mountain of the domain

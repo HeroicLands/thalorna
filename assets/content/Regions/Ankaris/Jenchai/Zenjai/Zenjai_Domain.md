@@ -88,7 +88,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Zenjai Domain, held by House Zenjai (Snow Peak), holds [[place-zenjai|Zenjai]], the mountain of the cold north of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Zenjai Tsuiwo]{.name data-type="being/npc"} (Iron Warrior), thirty-three years old, who sits in the castle town of [[place-buiwu|Buiwu]] (White Hall), population 2,800. The domain holds 52,000 people, is assessed at 38,000 bales a year, and musters 1,520 men, a northern levy of four men for every hundred bales. Zenjai keeps no fleet. The house is independent of both blocs, and Tsuiwo's choice between them ends the balance.
+The Zenjai Domain, held by House Zenjai (Snow Peak), holds [[place-zenjai|Zenjai]], the mountain of the cold north of the great island, by patent of the Emperor. Its lord is the Dauzhwo [[being-zenjaitsuiwo|Zenjai Tsuiwo]] (Iron Warrior), thirty-three years old, who sits in the castle town of [[place-buiwu|Buiwu]] (White Hall), population 2,800. The domain holds 52,000 people, is assessed at 38,000 bales a year, and musters 1,520 men, a northern levy of four men for every hundred bales. Zenjai keeps no fleet. The house is independent of both blocs, and Tsuiwo's choice between them ends the balance.
 
 ## The Land
 
@@ -130,6 +130,9 @@ The north came through last winter on half rations. Tsuiwo will put 1,500 spears
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[being-zenjaitsuiwo|Zenjai Tsuiwo]]
+: the Dauzhwo of the domain
 
 [[place-zenjai|Zenjai]]
 : the mountain of the domain
