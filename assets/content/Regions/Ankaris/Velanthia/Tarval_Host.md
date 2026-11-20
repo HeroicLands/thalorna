@@ -43,21 +43,11 @@ data:
         Keeps the roll of riders and the Host's banner, and calls the muster.
       Toll-Keeper: >-
         Collects what the caravans owe at the Host's toll posts on the eastern roads.
-  seat: null
+  seat: vlkvsh
   range: [velanthrgn]
   population: null
   territorial_population: 120000
   settlements:
-    - settlement: Volkavesh
-      polity: affiliation-hsttrvl
-      location: place-velanthrgn
-      type: town
-      fortification: palisade
-      stronghold: null
-      holder: affiliation-hsttrvl
-      population: 3500
-      market: regional
-      notes: "The Host's muster town, where its ataman sits and the caravans pay the toll."
     - settlement: Duvavesh
       polity: affiliation-hsttrvl
       location: place-velanthrgn
@@ -88,7 +78,7 @@ sohl: {system: {commonSkills: [velanthlng]}}
 
 ## Overview {#overview}
 
-The Tarvál Host is the Velanthian Host of the eastern caravan roads. It lives in horse-keeping villages and muster towns on the steppe margin, farms enough to feed its riders, and holds the toll posts on the roads that bring the Khazrin's horses, salt and silver west. About 120,000 people live in its country, which lies inside the [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]].
+The Tarvál Host is the Velanthian Host of the eastern caravan roads. It lives in horse-keeping villages and muster towns on the steppe margin, farms enough to feed its riders, and holds the toll posts on the roads that bring the Khazrin's horses, salt and silver west. About 120,000 people live in its country, which lies inside the [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]]. Its seat is the muster town of [[place-vlkvsh|Volkavesh]].
 
 ## How It Is Ruled {#how-it-is-ruled}
 
@@ -103,6 +93,9 @@ The Host wants autonomy, pay and the right to what the roads yield, and the prin
 The Host's first ataman held a ford on the caravan road, and the Host grew around his tolls. It lost its eastern villages to the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]) and took them back within two generations.
 
 ## See Also {#see-also}
+
+[[place-vlkvsh|Volkavesh]]
+: the seat
 
 [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]]
 : the prince it serves

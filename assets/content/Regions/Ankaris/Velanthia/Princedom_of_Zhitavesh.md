@@ -49,16 +49,6 @@ data:
   population: null
   territorial_population: 650000
   settlements:
-    - settlement: Dobravesh
-      polity: affiliation-prncdmzhtvsh
-      location: place-velanthrgn
-      type: town
-      fortification: walled
-      stronghold: null
-      holder: affiliation-prncdmzhtvsh
-      population: 5000
-      market: regional
-      notes: "The largest lowland grain market, where a monastic barn and the prince's granary stand side by side."
     - settlement: Charvavesh
       polity: affiliation-prncdmzhtvsh
       location: place-velanthrgn
@@ -79,16 +69,6 @@ data:
       population: 3500
       market: local
       notes: "A mill town on the lowland river that grinds for the grain barges."
-    - settlement: Tveskavesh
-      polity: affiliation-prncdmzhtvsh
-      location: place-velanthrgn
-      type: town
-      fortification: walled
-      stronghold: null
-      holder: affiliation-prncdmzhtvsh
-      population: 3500
-      market: regional
-      notes: "The pass market town at the foot of the range, where wagons change teams for the southern road."
     - settlement: Teshavesh
       polity: affiliation-prncdmzhtvsh
       location: place-velanthrgn
@@ -149,7 +129,7 @@ sohl: {system: {commonSkills: [velanthlng]}}
 
 ## Overview {#overview}
 
-The Princedom of Zhitavesh holds the grain lowlands of the black-earth belt, from the river meadows at its seat to the foot of the southern range. It has more people than either of the other two river-princedoms and the fullest barns in Velanthia: its villages sow wheat, rye and flax, its mills grind for the barges, and the monasteries of its towns keep the reserve that carries the land through a bad year. About 650,000 people live on its land, among them the 180,000 of the [[affiliation-hstsvrt|Sevret Host]] and the [[affiliation-hstkhrd|Khorad Host]], which hold its south-eastern margin under the prince. The seat is [[place-zhtvsh|Zhitavesh]].
+The Princedom of Zhitavesh holds the grain lowlands of the black-earth belt, from the river meadows at its seat to the foot of the southern range. It has more people than either of the other two river-princedoms and the fullest barns in Velanthia: its villages sow wheat, rye and flax, its mills grind for the barges, and the monasteries of its towns keep the reserve that carries the land through a bad year. About 650,000 people live on its land, among them the 180,000 of the [[affiliation-hstsvrt|Sevret Host]] and the [[affiliation-hstkhrd|Khorad Host]], which hold its south-eastern margin under the prince. The seat is [[place-zhtvsh|Zhitavesh]]. Of its other towns, [[place-dbrvsh|Dobravesh]] is the largest grain market and holds a granary monastery beside the prince's granary, and [[place-tvskvsh|Tveskavesh]] is the pass market at the foot of the range; the rest are listed below.
 
 ## How It Is Ruled {#how-it-is-ruled}
 
@@ -167,6 +147,12 @@ The lowland houses count the oldest princely line on the central river. When the
 
 [[place-zhtvsh|Zhitavesh]]
 : the seat
+
+[[place-dbrvsh|Dobravesh]]
+: the lowland's largest grain market
+
+[[place-tvskvsh|Tveskavesh]]
+: the pass market at the foot of the range
 
 [[affiliation-hstsvrt|Sevret Host]]
 : a Host paid from its granary
