@@ -29,7 +29,7 @@ The forest was the Joint Crown's, and the road ran through it to Seirasto. When 
 
 The king's foresters out of Dunmere send no patrols down the road, and the nest takes no patrols at the forest's edge. To the south the Senali kill every raider that crosses into Seirasto. So the nest raids north: up to the ford and the lodge, and into the stock of the last steadings, and it takes the carters who go down the road to see the lit house and step off the stone.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 Wenlorne Stage, whose lamps the nest does not go near. The Senali at the forest's edge, who turn travelers back politely and kill Grukar without a word. The [[affiliation-durrask|Durrask]], who fight it in the oak copses wherever they meet it.
 

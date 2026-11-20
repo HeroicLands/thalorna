@@ -49,3 +49,6 @@ The Emperor's sealed letter to Shuiwojai crosses the domain's ferry on its way t
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[scenario-ltrforhawu|A Letter for Hawu]]
+: a scenario: the Emperor's sealed answer to a petition, crossing Muwojai's ferry on its way to the lord who petitioned

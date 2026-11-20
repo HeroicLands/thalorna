@@ -50,3 +50,6 @@ The Dawn Rite of the coming New Year is the next public occasion on which the ho
 
 [[miscgear-dwnrtbll|The Bell of the Dawn Rite]]
 : the pawned bell that sounds at the rite
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

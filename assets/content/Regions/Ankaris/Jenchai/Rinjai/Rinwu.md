@@ -48,3 +48,9 @@ The prefect stays in Rinwu until Hoja chooses between the ransom and the return.
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[scenario-prfctrdhll|The Prefect in the Red Hall]]
+: a scenario: a Tantsou prefect held by Rinjai's raiders, claimed by the court, the Strait and the mainland
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

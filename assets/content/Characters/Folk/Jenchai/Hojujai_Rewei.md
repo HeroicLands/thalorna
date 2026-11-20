@@ -48,7 +48,7 @@ Hojujai Rewei (Dawn Jade) is the widow of [[being-henwohojujai|Hojujai Henwo]], 
 
 **The formation.** She was born the daughter of a Shwizhwo of the domain and learned a granary roll before a castle's etiquette.
 
-**The marriage.** She married [[being-henwohojujai|Henwo]], eighteen years older, and kept the household and granary of Yanwu while he held the office of Teng Ja. Their son Zija was born in 705 AF.
+**The marriage.** She married Henwo, eighteen years older, and kept the household and granary of Yanwu while he held the office of Teng Ja. Their son Zija was born in 705 AF.
 
 **The regency.** Widowed at twenty-eight in 709 AF, she held the mountain for her three-year-old son. The court was ready to confer the office on her regency, and the War of the Empty Seat followed. She kept the house whole, with 1,750 men and 20 ships.
 

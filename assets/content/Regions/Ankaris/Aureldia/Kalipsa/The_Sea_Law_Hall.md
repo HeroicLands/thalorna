@@ -32,7 +32,7 @@ The hall's next great hearing is the loss of the three Norodari hulls in the aut
 
 The hearing matters to more than the parties. If the syndicates pay, the Norodari can buy hulls before the spring census and carry their voices into the Harbormaster's election. Each party has chosen its arbitrator, and the two arbitrators have not agreed on the third. The city says that both great parties of the Council have tried to buy one, and the master arbitrators have said nothing.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The quay on a hearing day.** A great hearing fills the hall and the quay outside it with crews of both parties, and the watch stands at the doors.
 - **A party's displeasure.** An arbitrator who gives a verdict a great house dislikes keeps his reputation and may lose his custom.
