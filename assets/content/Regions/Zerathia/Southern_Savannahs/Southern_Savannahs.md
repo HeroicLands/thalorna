@@ -61,6 +61,12 @@ No polity, in the northern sense, exists in the Southern Savannahs. The politica
 
 This stateless organization is not a pre-political condition—the savannah peoples have functioning, sophisticated social systems. It is a deliberate form, adapted to terrain and economy, and the savannah peoples generally consider northern political arrangements (static cities, hereditary kings, bureaucracies) to be interesting but inferior.
 
+## Current Situation {#present}
+
+The savannahs' best-ordered confederation is at war with itself. The clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] in the southeast, the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]], are fighting over the rivers after a dry season and a diverted channel, and the [[affiliation-greatlubemo|Great Lubemo]] that would judge the matter is gathering at [[place-hetolubemo|Heto Lubemo]] in the highlands. The war is the first between two clans of the Long Pact. The three other clans are choosing sides or holding the Pact by convergence, and the spring at [[place-ekundavlg|Ékunda Village]], where herders of every clan water, is the neutral ground each side asks the tribe to close to the other.
+
+The rest of the savannahs feel it as a shortage of passage. Ruwozi cattle-drives wait at the river channels for Kolembozi canoes that do not come, [[affiliation-sengala|Sengala]] traders carry salt and riverine goods north at the risk of the war, and the dry-country tribes to the west read the Ruwozi paramount's messages to their chieftains as a bid for fighters. The northern civilizations, which know the savannahs only through the rainforest tribes, hear nothing of it.
+
 ## Trade
 
 Savannah trade with the outside world runs almost entirely through the **rainforest intermediaries** along the northern margin. What the savannahs export: hides, bone and horn work, ostrich feathers, ivory, gold (from the southeastern highlands, where small-scale alluvial mining has been practiced for uncounted generations), and certain medicinal plants. What they import: metal goods (knives, hoe-blades, beads), glass, cloth, and salt.

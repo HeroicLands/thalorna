@@ -133,7 +133,7 @@ Spirit Bone Pendant
 : (Unique) Housed in the deepest chamber of the Zarhanis temple, the First Ember is said to be an undying flame kindled by Nkaru'thar at the moment of creation. It has never been extinguished. The High Pyremant alone may enter its chamber, and all temple fires in Okharis are symbolically descended from it.
 
 [[miscgear-brndwarden|The Warden's Brand]]
-: A ceremonial iron blade kept at Vuthraka, heated in sacred fire and used to mark warriors who have proven themselves in [The Trial of Three Flames]{.name data-type="lore/custom"}. The scars it leaves are borne with pride as what the faithful take as proof of Nkaru'thar's favor.
+: A ceremonial iron blade kept at Vuthraka, heated in sacred fire and used to mark warriors who have proven themselves in [The Trial of Flames]{.name data-type="lore/custom"}. The scars it leaves are borne with pride as what the faithful take as proof of Nkaru'thar's favor.
 
 [[miscgear-sclskaljekr|The Scales of Kaljekor]]
 : A gilded balance kept in the temple-marketplace, used to weigh offerings and seal trade oaths. Merchants who swear false oaths upon the Scales are said to suffer ruin within a year and a day.
@@ -233,7 +233,7 @@ The Spirit Hunt
 **Fighting Orders:**
 
 [The Ashborn]{.name data-type="affiliation/order"}
-: Elite warrior-priests of Vuthraka who have passed the Trial of Three Flames and bear [[miscgear-brndwarden|the Warden's Brand]]. They fight with ritual scarification visible on their arms and chest, and are said to be immune to fear. In battle they serve as both shock troops and spiritual anchors for the army, chanting war-hymns that invoke the Wild Flame.
+: Elite warrior-priests of Vuthraka who have passed the Trial of Flames and bear [[miscgear-brndwarden|the Warden's Brand]]. They fight with ritual scarification visible on their arms and chest, and are said to be immune to fear. In battle they serve as both shock troops and spiritual anchors for the army, chanting war-hymns that invoke the Wild Flame.
 
 ### A Worshipped Faith on Older Ground
 

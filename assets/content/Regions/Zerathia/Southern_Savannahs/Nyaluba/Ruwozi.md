@@ -79,7 +79,11 @@ The pans carry the herds through the wet months, and the dry season sends them t
 
 ## Quarrels and Debts {#present}
 
-The Ruwozi are at war with the [[affiliation-kolembozi|Kolembozi]]. After a dry season and a diverted channel the Ruwozi herds needed rivers that the crocodile-clan controls, and the matter is the first business of the Lubemo now gathering. The paramount who must summon that Lubemo and speak last in it is a party to the quarrel, so the convergence that settles things is in doubt. The other three clans must choose between the two or hold the Pact by convergence regardless.
+The Ruwozi are at war with the [[affiliation-kolembozi|Kolembozi]], the first war between two clans of the Pact. The dry season sent the herds toward rivers that run through Kolembozi country, and a channel that fed the Ruwozi pans had been turned aside. The Ruwozi say the Kolembozi cut it. The Kolembozi say another hand cut it, and which account is true is not settled. A herd driven to a Kolembozi pool ended in a killing, the lineages on both sides took up the feud, and the feud became a war when the paramount ordered the muster.
+
+The regiments stand mustered at [[place-mbolewevlg|Mbolewe]], and the Regiment-Caller keeps the cohorts at home while the paramount sits as Convener at [[place-hetolubemo|Heto Lubemo]]. The paramount travels there with her delegation, and the business of the sitting is her own. As Convener she keeps the order of speaking, and the order puts the war first and has her speak last, so she hears every other paramount before she says a word on a quarrel in which she is a party. The clan holds that the rivers are the herds' by the Pact's third term, which shares the rivers, and asks of the other three clans that they stand with the herds.
+
+The paramount keeps her personal relations with the dry-country chieftains, who are not party to the Pact, and she has sent word to them since the muster.
 
 ## History as Told {#history}
 

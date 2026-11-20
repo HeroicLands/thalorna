@@ -8,14 +8,14 @@ tags: [draft]
 data:
   parents: []
   locations: [twrlghtnmrkd, palefloor, kinlesswatch, dunhardsrtrgn]
-  cast: []
+  cast: [vhrnmrzvn, mhrv]
   factions: [strmcltsbzhrms]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the [[place-palefloor|Pale Floor]], and the lightning finds it every night the sky offers. [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker who took the title Master of the Tower, which the [Council of Elders]{.name data-type="affiliation/governmental"} never conferred, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to one of the [[lore-dunhariclt|Dunhari]] who has stopped being one.
+The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the [[place-palefloor|Pale Floor]], and the lightning finds it every night the sky offers. [[being-vhrnmrzvn|Vahrun Marzuvan]], a storm-walker who took the title Master of the Tower, which the [Council of Elders]{.name data-type="affiliation/governmental"} never conferred, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to one of the [[lore-dunhariclt|Dunhari]] who has stopped being one.
 
 ## Hooks {#hooks}
 
@@ -49,7 +49,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Purpose.** A roleplay and puzzle scene that makes the party learn what the cults know and what they are hiding.
 
-**Situation.** The door at the foot of the tower is a slab of fused glass with an iron lintel. It does not open to force. In the vestibule beyond, the walls carry verses cut into the stone in the _voice-bearer's_ cadence, and a half-stair of iron leads up to the hall where the lineages sit. On the stair, waiting, is [Mehrava]{.name data-type="being/npc"}, the senior elder of the Lightning-Marked, who has come alone from her camp and will not say how long she has been here.
+**Situation.** The door at the foot of the tower is a slab of fused glass with an iron lintel. It does not open to force. In the vestibule beyond, the walls carry verses cut into the stone in the _voice-bearer's_ cadence, and a half-stair of iron leads up to the hall where the lineages sit. On the stair, waiting, is [[being-mhrv|Mehrava]], the senior elder of the Lightning-Marked, who has come alone from her camp and will not say how long she has been here.
 
 **NPCs and threats.** Mehrava is a thin, upright woman in indigo, with a forked mark across her left cheek and the stillness of someone who listens to the sky. She tells no lie and softens no reading. She will not help the party kill Vahrun, because she cannot say that he is dead. She also has no wish to see him freed. She asks what the party wants, and weighs the answer.
 
@@ -114,7 +114,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Situation.** The storm ebbs. Vahrun kneels, a thin old man with a burned face. The crown on his brow is cold, and he offers it to the party.
 
-**NPCs and threats.** Mehrava has climbed the stair behind them. She tells them what they do not want to hear. Vahrun is a Dunhari, the Shadow in the storm is an enemy from outside, and the Old Promise forbids any Dunhari blade raised against another while such an enemy walks Dunhari land. The blow that kills him is the blow the Promise forbids. The crack, however, will not close unless someone stands in it.
+**NPCs and threats.** Mehrava has not climbed above the hall of the lineages, and her voice comes up the iron stair to the gallery. She tells them what they do not want to hear. Vahrun is a Dunhari, the Shadow in the storm is an enemy from outside, and the Old Promise forbids any Dunhari blade raised against another while such an enemy walks Dunhari land. The blow that kills him is the blow the Promise forbids. The crack, however, will not close unless someone stands in it.
 
 **Player choices.**
 

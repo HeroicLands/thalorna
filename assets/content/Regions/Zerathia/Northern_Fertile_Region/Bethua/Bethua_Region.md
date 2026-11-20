@@ -78,6 +78,14 @@ authorities in exchange for grazing rights; its eastern frontier with
 Au'Khelathu Region is poorly defined and a recurring source of
 friction.
 
+## Current Situation {#present}
+
+The Khelathi flood has come low two years running, and the valley to the east is short of grain. Bethua's strips do not depend on the flood. The [[affiliation-orderwaters|Order of the Waters]] waters them from aqueducts, tunnel qanats and cisterns that draw on the seasonal streams off the spurs and on deep wells, so the wheat, barley and millet of the irrigated country stand green while the black soil of [[place-aukhelathrgq|Au'Khelathu Region]] goes to dust. That makes the strips' grain the one reliable surplus on the northern shore, and every granary on the coast and at the channel-heads is counted twice, once by the [[affiliation-councilhouses|Council of Houses]] and once by the [[affiliation-sacredcollege|Sacred College]].
+
+The region's politics turn on what becomes of it. The Council of Houses presses the Metrissa to sell the surplus to Bethua's Khelathi patron, and the College wants it kept in the cisterns against a dry year of Bethua's own. The Metrissa has not chosen, and her standing with both councils turns on the choice ([[affiliation-mtrrchybth|Matriarchy of Bethua]]).
+
+Along the eastern frontier the strain shows first. Khelathi herders graze closer to the water in the dry years and push toward the irrigated strips. On the southern line, the posts of the southern cantons wait for the tribute of the [[place-sthmrchsrgn|South Marches]], which is late. The [[affiliation-spearsisterhood|Spear-Sisterhood]]'s patrols are stretched between the eastern frontier and those southern posts, and the towns on the Marches road feel it when a caravan arrives with no escort.
+
 ## See Also {#see-also}
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]

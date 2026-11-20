@@ -125,6 +125,12 @@ matriarchy's own ways of war and owe it nothing. The [[affiliation-courtveil|Cou
 the country as its own, collects what tribute it can, patrols the line it can
 hold, and would rather not look past it.
 
+## Current Situation {#present}
+
+The tribute is late. The winter rains came short, the herds went into the dry months thin, and the clans have sent word to the Hégissa of the southern cantons that the stock will come after the autumn drive. Bethua wants it sooner. The riders are home for the drive, the wells that the companies hold have no one watching them, and the companies have more road than they had.
+
+The strain falls first on [[place-marchesroad|the Marches Road]]. The [[affiliation-hasembetribe|Hasembe]] have more caravans asking for escort than riders to give, [[affiliation-jcklsthmrchs|the Jackals]] hold the western stages, and the lesser [[affiliation-frcmpnssthmrchs|Free Companies]] take the wells between. The grain surplus of Bethua makes the country worth more than it was: a caravan that carries it east is a fatter target, and Bethua needs the road quiet and has no one to quiet it. The Hégissa of the southern cantons keeps the frontier posts and waits on the stock, and the clans know that Bethua cannot press them while the patrols are stretched.
+
 ## See Also {#see-also}
 
 [[place-xerathia|Zerathia]]

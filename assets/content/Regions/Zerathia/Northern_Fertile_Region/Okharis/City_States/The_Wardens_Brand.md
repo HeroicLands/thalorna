@@ -2,7 +2,7 @@
 shortcode: brndwarden
 name: {full: The Warden's Brand}
 type: miscgear
-description: "The ceremonial iron blade kept at Vuthraka, heated in sacred fire to mark the warriors who have passed the Trial of Three Flames, whose scars the Ashborn wear and the faithful take as proof of Nkaru'thar's favor."
+description: "The ceremonial iron blade kept at Vuthraka, heated in sacred fire to mark the warriors who have passed the Trial of Flames, whose scars the Ashborn wear and the faithful take as proof of Nkaru'thar's favor."
 tags: [artifact, relic, okharis, flame]
 data:
   kind: miscgear
@@ -15,7 +15,7 @@ sohl: {system: {weightBase: 2, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 
 ## Overview {#overview}
 
-The Warden's Brand is a ceremonial iron blade. It is kept at [[place-vuthraka|The Wild Flame]], the garrison town that guards the southern frontier of [[affiliation-okharis|Okharis]] and that the Okharik call Vuthraka, and it is heated in sacred fire to mark the warriors who have proved themselves in [The Trial of Three Flames]{.name data-type="lore/custom"}. The Okharik also call that rite the Trial of Flames.
+The Warden's Brand is a ceremonial iron blade. It is kept at [[place-vuthraka|The Wild Flame]], the garrison town that guards the southern frontier of [[affiliation-okharis|Okharis]] and that the Okharik call Vuthraka, and it is heated in sacred fire to mark the warriors who have proved themselves in [The Trial of Flames]{.name data-type="lore/custom"}.
 
 ## Who Holds It {#who-holds-it}
 

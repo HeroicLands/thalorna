@@ -141,6 +141,12 @@ Each chartered trade maintains its own seal and ceremonial regalia, traditionall
 
 The federation as a whole does not maintain a unified emblem; its identity flows through the trades themselves and through the Steward's office.
 
+## The Present Quarrel {#present}
+
+The chartered guilds feel the realm's strain in their ledgers. The charter dues that the Crown collects have not fallen, and the tribute that the clans bring to the temple-cities has risen, so the Crown Moneylenders carry more festival credit to chieftains who repay late and in the poorer animals. The moneylenders write the shortfall into their books as a debt that keeps growing, and the chieftains call the same sums a price that the cities set without asking.
+
+The Khelathi houses offer the chieftains better terms than the moneylenders' credit, and the offers reach the clans without passing through the Crown Trades. The Council of the Three-Flame Charters meets with the Steward of the Trades, Mekhar Saharil, who is acceptable to all three temple-cities. The Council can agree that the clans' custom is slipping, but it cannot set the tribute or answer the embassies, and the King will do neither while the Oracle is silent. The Hide-Cutters and the Royal Goldworkers, whose trade depends on the festival markets, press the Steward to keep the chieftains buying. The River-Pilots, who deal with the Khelathi traders on the river, are the guild with the most to gain from the empire's courting.
+
 ## Plot Hooks
 
 - **The Disputed Charter.** A new craft has been petitioning the Crown for a separate charter—the **Glassworkers**, who currently operate under the broader charter of the King's Smiths but whose distinct craft has grown to the point of justifying its own charter. The Smiths are opposing the petition (loss of jurisdiction would reduce their charter's value); the petitioner is well-connected with the Crown's court; the Council of the Three-Flame Charters is split. The Steward must rule, knowing that either decision will offend half of the senior craft establishment.
