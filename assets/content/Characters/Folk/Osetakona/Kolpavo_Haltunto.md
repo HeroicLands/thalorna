@@ -46,7 +46,7 @@ Kolpavo Haltunto is a warden of the [[affiliation-nclvhrsllnk|Enclave of Hersell
 
 Kolpavo was the youngest hunter of his hearth for two centuries and learned the ridges from the lord [[being-hapirivovssnt|Hapirivo Vessonto]], walking behind him shore after shore. He took up the warden's bow when he could find any lake from any point in the pines, and he teaches the young hunters now as he was taught.
 
-:::secret {title="The paths out of the pines"}
+:::secret {title="The hearths on the far lakes"}
 The warden keeps the paths that lead out of the far ridges. Kolpavo teaches the young one thing before all the others: every path leaves the pines by the way it entered, and a hunter who forgets that is lost with the pines' help and not their harm.
 :::
 
@@ -72,7 +72,8 @@ He does not trust a stranger's reason for coming, and the more reasonable the re
 
 ### Companions
 
-Hapirivo Vessonto, the lord with whom he walks the ridges, and the young hunters he teaches.
+- Hapirivo Vessonto: The lord with whom he walks the ridges.
+- The young hunters of the ridges: He teaches them.
 
 ### Patrons
 

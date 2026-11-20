@@ -4,7 +4,7 @@ name: {full: Sorvelitta Kersonto}
 type: being
 subType: npc
 description: "A lord of Hersellonku, the northern Senali conclave of Kì'ìch'chik, white-haired, barefoot on the moss and sparing of words."
-tags: []
+tags: [gm]
 data:
   icon: icon-person
   templatePriority: null
@@ -47,7 +47,7 @@ Sorvelitta Kersonto is a lord of the [[affiliation-nclvhrsllnk|Enclave of Hersel
 Sorvelitta was born on the far ridges and has lived nowhere else. She learned the long patience of the hearths before she learned their songs, and in her first thousand years she was the one the hearths sent for when two of them could not agree. They raised her a lord for a lifetime of hard matters settled without a raised voice.
 
 :::secret {title="The ommenda and its Keeper"}
-Sorvelitta is the Mervunno, the Keeper of the Stillness, raised to the office by every voice of the hearths and holding it for as long as they do not raise another. She sits in the _ommenda_, the council that speaks until it agrees, and keeps the silence in which it speaks. When the hearths have concluded she says aloud what they concluded, in the words they reached and no more. She drives out an outlaw when the ommenda asks it and answers for the conclave to the few who ask, and nobody has asked in her lifetime.
+Sorvelitta is the Mervunno, the Keeper of the Stillness, raised to the office by every voice of the hearths and holding it for as long as they do not raise another. She sits in the _ommenda_, the council that speaks until it agrees, and keeps the silence in which it speaks. When the hearths have concluded she says aloud what they concluded, in the words they reached and no more. She drives out an outlaw when the ommenda asks it and answers for the conclave to the few who ask, and nobody has asked in her lifetime. She wants the word the hearths reach said aloud once, plainly, to whoever is owed it. The hearths trust her to say what was concluded and nothing she would have preferred, and her silence is the one thing in the ommenda that nobody argues against.
 :::
 
 ## Psyche
@@ -58,21 +58,22 @@ Sorvelitta is still, unhurried and exact. She leaves a silence after a question 
 
 ### Motivation
 
-She wants every matter the hearths take up spoken to its end, and the word they reach said aloud once, plainly, to whoever is owed it.
+She wants every matter she takes up spoken to its end, and nothing said of it that is not true.
 
 ### Strengths
 
-The hearths trust her to say what was concluded and nothing she would have preferred. Her silence is the one thing among them that nobody argues against.
+Her patience outlasts any quarrel, and a hard matter brought to her is settled without a raised voice.
 
 ### Weaknesses
 
-She does not hurry a decision for anyone's season or deadline, and a visitor who needs an answer by a date leaves without one.
+She does not hurry anything for anyone's season or deadline, and a matter that must be settled by a set day is settled late.
 
 ## Social
 
 ### Companions
 
-[[being-hapirivovssnt|Hapirivo Vessonto]], the lord whose long speeches she lets run, and the seer [[being-auverilahlkrnt|Auverila Halkorinto]], whom the hearths ask before they take up a hard matter.
+- [[being-hapirivovssnt|Hapirivo Vessonto]]: A lord, whose long speeches she lets run.
+- [[being-auverilahlkrnt|Auverila Halkorinto]]: A seer, whom the hearths ask before they take up a hard matter.
 
 ### Patrons
 

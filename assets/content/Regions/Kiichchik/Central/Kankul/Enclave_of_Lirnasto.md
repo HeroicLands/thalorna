@@ -29,7 +29,7 @@ data:
           A Senalo of Lirnasto raised to the conclave's respect for things done and by every voice. The standing is a rank and not a holding: a lord holds no ground and governs nothing by it.
     offices:
       Lirnanno: >-
-        The head office of the conclave, raised by every voice of the hearths and held for as long as the hearths do not raise another.
+        The conclave's head office. Who holds it, and how, is not known outside the old jungle.
   seat: lirnasto
   population: 160
   territorial_population: 160

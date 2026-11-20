@@ -74,7 +74,8 @@ She trusts the reed above the hearths and, once she has begun a weave, does not 
 
 ### Companions
 
-The seer [[being-ulpesavovllrnt|Ulpesavo Velliranto]], for whom she weaves, and the warden [[being-aspelittihrsnt|Aspelitti Hirsunto]].
+- [[being-ulpesavovllrnt|Ulpesavo Velliranto]]: The seer for whom she weaves.
+- [[being-aspelittihrsnt|Aspelitti Hirsunto]]: A warden.
 
 ### Patrons
 

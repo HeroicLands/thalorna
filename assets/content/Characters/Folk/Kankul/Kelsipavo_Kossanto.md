@@ -46,7 +46,7 @@ Kelsipavo Kossanto is a warden of the [[affiliation-nclvlrnst|Enclave of Lirnast
 
 Kelsipavo is young by the conclave's reckoning. He learned the paths from the lord [[being-nantoruttahmmr|Nantorutta Hummarinto]] and had each one tattooed on his shoulders as he learned it, and he has kept them beside her for two centuries.
 
-:::secret {title="The paths at the forest's edge"}
+:::secret {title="The conclave behind the trees"}
 A path into the old jungle leads out by the way it went in, and the warden keeps it so: Kelsipavo walks each path in turn, mends what a season has broken and hums a path whole where the land has begun to wander. He turns back a hunter, a tapper or a gatherer at the line and sees him on his way without speaking to him, and most never know he was there.
 :::
 
@@ -72,7 +72,8 @@ He is young for a warden and thinks the jungle can always be mended, and so far 
 
 ### Companions
 
-Nantorutta Hummarinto, with whom he walks the edge, and the weaver [[being-ruvalittanrlln|Ruvalitta Nurellanto]], who ties his reed bells.
+- Nantorutta Hummarinto: The lord with whom he walks the edge.
+- [[being-ruvalittanrlln|Ruvalitta Nurellanto]]: The weaver who ties his reed bells.
 
 ### Patrons
 

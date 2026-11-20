@@ -29,7 +29,7 @@ data:
           A Senalo of Hersellonku raised to the conclave's respect for things done and by every voice. The standing is a rank and not a holding: a lord holds no ground and governs nothing by it.
     offices:
       Mervunno: >-
-        The head office of the conclave, raised by every voice of the hearths.
+        The conclave's head office. Who holds it, and how, is not known outside the far ridges.
   seat: hersellonku
   population: 90
   territorial_population: 90

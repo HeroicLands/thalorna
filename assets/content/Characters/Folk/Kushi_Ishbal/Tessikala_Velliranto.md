@@ -4,7 +4,7 @@ name: {full: Tessikala Velliranto}
 type: being
 subType: npc
 description: "A lord of Ilkaivesto, the southern Senali conclave of Kì'ìch'chik, cool-eyed and patient, who wears a white heron's feather behind her ear and stands in water as readily as on a bank."
-tags: []
+tags: [gm]
 data:
   icon: icon-person
   templatePriority: null
@@ -47,7 +47,7 @@ Tessikala Velliranto is a lord of the [[affiliation-nclvlkvst|Enclave of Ilkaive
 Tessikala was born in the deep swamp in a year of great floods and spent her first wet season in a reed cradle on the water. She learned the herons' calls before she learned the hearths' songs, and the hearths raised her a lord for the long patience with which she has kept the deep swamp as it is.
 
 :::secret {title="The hearths among the herons"}
-Tessikala is the Hemmikanno, the Keeper of the Marsh, raised by every voice of the hearths and holding the office for as long as they do not raise another. She governs the conclave, drives out an outlaw, and answers for the herons that roost in the swamp in the thousands, which the hearths hold in a kind of kinship that they do not explain.
+Tessikala is the Hemmikanno, the Keeper of the Marsh, raised by every voice of the hearths and holding the office for as long as they do not raise another. She governs the conclave, drives out an outlaw, and answers for the herons that roost in the swamp in the thousands, which the hearths hold in a kind of kinship that they do not explain. The hearths trust her judgment, and she is slow to act on any trouble that begins outside the swamp, so it reaches the conclave late.
 :::
 
 ## Psyche
@@ -62,17 +62,18 @@ She wants the herons left in peace, and the swamp's deep kept as it is.
 
 ### Strengths
 
-The hearths trust her judgment, and she gives it without counting the cost to herself. The swamp itself is her ally.
+She keeps her word without counting the cost to herself. The swamp itself is her ally.
 
 ### Weaknesses
 
-She is slow to act on any trouble that begins outside the swamp, and it reaches her late.
+She is slow to trust anyone raised outside the swamp, and slower to forgive one who lies to her.
 
 ## Social
 
 ### Companions
 
-The lord [[being-ennumivospllnt|Ennumivo Sepullanto]], whom she trusts, and the seer [[being-ulpesavovllrnt|Ulpesavo Velliranto]], her kinsman.
+- [[being-ennumivospllnt|Ennumivo Sepullanto]]: A lord, whom she trusts.
+- [[being-ulpesavovllrnt|Ulpesavo Velliranto]]: A seer, her kinsman.
 
 ### Patrons
 

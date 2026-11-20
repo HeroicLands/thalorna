@@ -4,7 +4,7 @@ name: {full: Hellurivo Tolkunto}
 type: being
 subType: npc
 description: "A lord of Lirnasto, the central Senali conclave of Kì'ìch'chik, gentle and without hurry, who carries a staff of grown wood that bears no mark of a blade."
-tags: []
+tags: [gm]
 data:
   icon: icon-person
   templatePriority: null
@@ -47,7 +47,7 @@ Hellurivo Tolkunto is a lord of the [[affiliation-nclvlrnst|Enclave of Lirnasto]
 Hellurivo was born in the old jungle and has never left it. He spent his early centuries among the growers, learning to coax the living wood, and the hearths raised him a lord for the patience with which he tended the oldest trees through a drought that killed the young ones.
 
 :::secret {title="The conclave behind the trees"}
-Hellurivo is the Lirnanno, the Keeper of the Vines, raised by every voice of the hearths from among the lords and holding the office for as long as they do not raise another. He keeps the old jungle, drives out an outlaw, and answers for the understanding with K'ankul to the few who ask. Nobody outside Lirnasto knows who he is: the realm's Ts'enmah deal with the edge of the jungle and never with the conclave, and the Keeper deals with the realm only by what the jungle does. The paths at the forest's edge answer to him.
+Hellurivo is the Lirnanno, the Keeper of the Vines, raised by every voice of the hearths from among the lords and holding the office for as long as they do not raise another. He keeps the old jungle, drives out an outlaw, and answers for the understanding with K'ankul to the few who ask. Nobody outside Lirnasto knows who he is: the realm's Ts'enmah deal with the edge of the jungle and never with the conclave, and the Keeper deals with the realm only by what the jungle does. The paths at the forest's edge answer to him. As Keeper he is slow to act, and he waits for the hearths to agree when an hour would have decided it.
 :::
 
 ## Psyche
@@ -62,17 +62,18 @@ He wants the old jungle left as it is, and the understanding kept by the realm w
 
 ### Strengths
 
-The hearths raise him by every voice, and he has never had to lift his own.
+He has a grower's patience: what he plants he tends for centuries, and he has never lost a tree to neglect.
 
 ### Weaknesses
 
-He is slow to act, and he waits for the hearths to agree when an hour would have decided it.
+He is slow to act, and he lets a season pass over a trouble that an hour would have settled.
 
 ## Social
 
 ### Companions
 
-The lord [[being-nantoruttahmmr|Nantorutta Hummarinto]], who keeps the edge, and the seer [[being-pallevottakssn|Pallevotta Kossanto]].
+- [[being-nantoruttahmmr|Nantorutta Hummarinto]]: A lord, who keeps the edge.
+- [[being-pallevottakssn|Pallevotta Kossanto]]: A seer.
 
 ### Patrons
 

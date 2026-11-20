@@ -42,7 +42,7 @@ Lauhitta Peskonto is a woman of 900 years who stands 5' 11" tall and is of light
 
 Lauhitta Peskonto is a member of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]] who sings the living pine. The [[lore-flksenali|Senali]] would rather grow what they need than build it, and she is the one the hearths ask when a pine is to be grown into a shape. Her own hearth is Peskonto, the hearth of the thin smoke.
 
-The canoe makers of the Grove say that the pines on the far lakes lean, all of them toward the water and none toward the land. They say it as a curiosity.
+The canoe makers of the Grove say that the pines on the lakes at the edge of the far ridges lean, all of them toward the water and none toward the land. They say it as a curiosity.
 
 ## Background
 
@@ -74,7 +74,8 @@ She sings for a long time without stopping to see what the song has done, and sh
 
 ### Companions
 
-The seer [[being-auverilahlkrnt|Auverila Halkorinto]], beside whom she has sung for centuries, and the young hearths who ask for her work.
+- [[being-auverilahlkrnt|Auverila Halkorinto]]: The seer beside whom she has sung for centuries.
+- The young hearths: They ask for her work.
 
 ### Patrons
 
@@ -91,7 +92,7 @@ None she would name.
 ## Plot Hooks
 
 1. **A canoe maker's pine.** A canoe maker of the Grove means to fell a pine he chose at the edge of the far wood for a hull. Three times he walks toward it, and three times he comes out beside a younger pine of the same height. He hires a party to learn whether the wood is offering him that one instead.
-2. **The leaning pines.** A scholar of the Grove has measured the lean of the pines on the far lakes and found every one leaning toward the water. He hires a party to cross a far ridge and measure the pines beyond it.
+2. **The leaning pines.** A scholar of the Grove has measured the lean of the pines on the lakes at the edge of the far ridges and found every one leaning toward the water. He hires a party to cross a far ridge and measure the pines beyond it.
 
 :::secret {title="The song she cannot stop"}
 The turning of the paths is partly Lauhitta's work. She sings the roots along the ridge paths so that a way into the pines bends back out of them, and since the bands came she has sung it stronger. This autumn, one stretch of the ridge has begun to turn everyone who walks it, including the conclave's own children, and she cannot end the song. She has not told Kolpavo Haltunto, who relies on the turning, or the ommenda.

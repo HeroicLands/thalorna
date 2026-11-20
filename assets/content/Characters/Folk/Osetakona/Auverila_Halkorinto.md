@@ -74,7 +74,8 @@ She reads only what the water offers, and when it offers nothing, the hearths ha
 
 ### Companions
 
-The singer [[being-lauhittapsknt|Lauhitta Peskonto]], who sings the trees she watches, and the lord [[being-sorvelittakrsn|Sorvelitta Kersonto]].
+- [[being-lauhittapsknt|Lauhitta Peskonto]]: The singer who sings the trees she watches.
+- [[being-sorvelittakrsn|Sorvelitta Kersonto]]: A lord.
 
 ### Patrons
 

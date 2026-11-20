@@ -38,9 +38,9 @@ Aspelitti Hirsunto is a man of 710 years who stands 6' 1" tall and is of medium 
 
 # Dossier {#dossier}
 
-**Age 710. Warden of the Channels. Wants every hunter home whole.**
+**Age 710. Warden of the Channels. Wants the channels clear and the herons undisturbed.**
 
-Aspelitti Hirsunto is a warden of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], a hunter and a poler, who keeps the channels of the deep swamp. His hearth is Hirsunto, the hearth of the reed bed. He poles the channels in every season, clears what the floods choke and knows which of them a canoe from the rim can reach. He has never drawn a knife on a rim hunter.
+Aspelitti Hirsunto is a warden of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], a hunter and a poler, who keeps the channels of the deep swamp. His hearth is Hirsunto, the hearth of the reed bed. He poles the channels in every season, clears what the floods choke and knows which of them a canoe from the rim can reach.
 
 ## Background
 
@@ -54,7 +54,7 @@ Aspelitti is easy, gentle and slow, and he whistles the heron's call as he poles
 
 ### Motivation
 
-He wants the rim hunters to keep to the edges, and every one who comes inward to go home whole.
+He wants the channels kept open through every flood, and the herons left to roost undisturbed.
 
 ### Strengths
 
@@ -62,13 +62,14 @@ He knows every channel of the deep swamp and can find his way across it in the d
 
 ### Weaknesses
 
-He cannot be hard with a man in need, which the hearths know and do not hold against him.
+He is unhurried to a fault, and a channel he means to clear can wait a season while he watches the herons nest.
 
 ## Social
 
 ### Companions
 
-The lord [[being-ennumivospllnt|Ennumivo Sepullanto]], whom he serves as poler, and the weaver [[being-miskottakklnt|Miskotta Okkelanto]].
+- [[being-ennumivospllnt|Ennumivo Sepullanto]]: The lord whom he serves as poler.
+- [[being-miskottakklnt|Miskotta Okkelanto]]: A weaver.
 
 ### Patrons
 
@@ -88,5 +89,5 @@ None he would name, though he dislikes the trader who sends men in.
 2. **The same lagoon.** A party poling a shallow channel at dusk hears a heron call from the reeds behind them, then ahead, then behind again, and by full dark their canoe is back in the lagoon they crossed at noon.
 
 :::secret {title="The man he feeds"}
-When a rim hunter follows the herons inward, Aspelitti is the one who meets him, and when the Keeper has done with the man, Aspelitti sets him down at a channel the rim hunters know, days late and empty-handed, and sends him on his way. The rim hunter in the conclave's keeping sleeps in Aspelitti's hearth, and the two have begun to talk at night. The hunter has told him the plume trader's name and the day the trader comes down to the rim to buy. Aspelitti has told no one he knows either.
+When a rim hunter follows the herons inward, Aspelitti is the one who meets him, and when the Keeper has done with the man, Aspelitti sets him down at a channel the rim hunters know, days late and empty-handed, and sends him on his way. He has never drawn a knife on a rim hunter: he wants every one who comes inward to go home whole, and he cannot be hard with a man in need, which the hearths know and do not hold against him. The rim hunter in the conclave's keeping sleeps in Aspelitti's hearth, and the two have begun to talk at night. The hunter has told him the plume trader's name and the day the trader comes down to the rim to buy. Aspelitti has told no one he knows either.
 :::

@@ -72,7 +72,8 @@ He cannot let an insult to the herons pass, and he holds that a debt to the hero
 
 ### Companions
 
-The lord Tessikala Velliranto, and the warden [[being-aspelittihrsnt|Aspelitti Hirsunto]].
+- Tessikala Velliranto: A lord.
+- [[being-aspelittihrsnt|Aspelitti Hirsunto]]: A warden.
 
 ### Patrons
 
@@ -89,6 +90,8 @@ The plume trade and the trader who buys by the thousand.
 ## Plot Hooks
 
 1. **The count of the flights.** A scholar of the plateau's temples has counted the evening flights over the deep swamp from the rim for a season and found them rising in the same order every night. He wants a party to take a canoe in at dusk and count them from beneath.
+2. **A road through the reeds.** An expedition that will not pay the fee at the gate of [[place-xelemchalix|Shelem Ch'alish]] means to pole south through the swamp's western channels toward the waste. Its leader hires a party to scout ahead and learn which channels carry a canoe south and which bring it back to a lagoon it has already crossed.
+3. **The rule in doubt.** A rim hunter who has always told the swamp's rule with pride has begun to tell it with doubt. He asks a party to go with him to the edge of the deep in the dry season, taking no plumes, and see whether the swamp lets them pass.
 
 :::secret {title="What the kin want"}
 The hearths that hold the herons as kin want more from the plume trader than the plumes back, and Ennumivo is their voice. They want him brought into the swamp, shown the lagoon at dusk with the herons in the thousands, and left to answer to the roost for the price he has set. He has not told the Keeper that this is what the hearths mean.

@@ -72,7 +72,8 @@ She keeps count of everything and cannot be persuaded to leave something uncount
 
 ### Companions
 
-The seer [[being-pallevottakssn|Pallevotta Kossanto]], and the warden [[being-kelsipavokssnt|Kelsipavo Kossanto]], whose bells she ties.
+- [[being-pallevottakssn|Pallevotta Kossanto]]: A seer.
+- [[being-kelsipavokssnt|Kelsipavo Kossanto]]: The warden whose bells she ties.
 
 ### Patrons
 

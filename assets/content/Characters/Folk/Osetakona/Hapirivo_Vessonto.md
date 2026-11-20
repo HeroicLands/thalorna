@@ -72,7 +72,8 @@ He cannot end a speech while a hearth is still frowning, and a gathering is long
 
 ### Companions
 
-[[being-sorvelittakrsn|Sorvelitta Kersonto]], the eldest of the conclave's lords, and the warden [[being-kolpavohltnt|Kolpavo Haltunto]], who has walked the ridges beside him for centuries.
+- [[being-sorvelittakrsn|Sorvelitta Kersonto]]: The eldest of the conclave's lords.
+- [[being-kolpavohltnt|Kolpavo Haltunto]]: The warden who has walked the ridges beside him for centuries.
 
 ### Patrons
 

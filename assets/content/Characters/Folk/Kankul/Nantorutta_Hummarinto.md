@@ -72,7 +72,8 @@ She keeps what she knows to herself, and she judges the hearths' temper before s
 
 ### Companions
 
-The lord Hellurivo Tolkunto, and the warden Kelsipavo Kossanto, with whom she shares the edge.
+- Hellurivo Tolkunto: A lord.
+- Kelsipavo Kossanto: The warden with whom she shares the edge.
 
 ### Patrons
 

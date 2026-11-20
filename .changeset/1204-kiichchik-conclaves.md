@@ -4,9 +4,9 @@
 
 **Places**
 
-- The three Senali conclaves of Kì'ìch'chik, in the northern pines, the high jungle of K'ankul and the southern swamp, each have a page for the community that keeps it, with what their neighbors know of it and its secrets set apart for the GM.
+- Each of the three Senali conclaves of Kì'ìch'chik has a page showing what its neighbors know, with its secrets set apart for the GM.
 - Snow Place, the Pine People's largest village, has its own page.
 
 **Characters**
 
-- Fifteen Senali of the three conclaves are people, lords and elders with their crafts, life stories and hooks for play, and what their conclaves conceal stays in secret sections.
+- Lords, seers, wardens and craftspeople of the conclaves have their own pages, with crafts, life stories and hooks for play; what the conclaves conceal is marked for the GM.

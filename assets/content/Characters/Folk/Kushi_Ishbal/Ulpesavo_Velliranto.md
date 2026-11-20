@@ -72,7 +72,8 @@ He reads only what the herons show, and he cannot make the hearths listen to an 
 
 ### Companions
 
-The lord Tessikala Velliranto, his kin, and the weaver [[being-miskottakklnt|Miskotta Okkelanto]].
+- Tessikala Velliranto: A lord, and his kin.
+- [[being-miskottakklnt|Miskotta Okkelanto]]: A weaver.
 
 ### Patrons
 
