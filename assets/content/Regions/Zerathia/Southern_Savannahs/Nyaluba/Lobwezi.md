@@ -67,11 +67,11 @@ The **Lobwezi** are the baobab-clan of the [[affiliation-nylbtrblntn|Nyáluba Tr
 
 A Lobwezi village stands round an ancient baobab, some of them a thousand years old or more, and the village's senior griot is the custodian of the tree. Every household makes its offering at the root, and the griot keeps the tally. The tree is the only shrine. The village rests on the pact it keeps with the ground the tree stands in, and a village whose baobab dies has lost that pact and disperses to other villages.
 
-The clan's manner is slow and deliberate, and it suits the work. A Lobwezi speaks last in a village council, and what is said last is generally remembered. [Bonzimbe]{.name data-type="being/npc"}, about seventy and blind, is the senior griot of the Long Pact: he carries its terms, the genealogies of the five paramounts and the recorded judgments of twenty-three Lubemos, and all five clans hold him the nearest thing the Nyáluba have to a neutral arbiter. He is the man who is asked, and he rules nothing.
+The clan's manner is slow and deliberate, and it suits the work. A Lobwezi speaks last in a village council, and what is said last is generally remembered. [[being-bonzimbelbwz|Bonzimbe of the Lobwezi]], about seventy and blind, is the senior griot of the Long Pact: he carries its terms, the genealogies of the five paramounts and the recorded judgments of twenty-three Lubemos, and all five clans hold him the nearest thing the Nyáluba have to a neutral arbiter. He is the man who is asked, and he rules nothing.
 
 ## Territory and Waters {#holdings}
 
-The Lobwezi hold the scattered settled belts: small districts of perennial water and dense soil that lie in pockets across Nyáluban country, wherever a spring or a stretch of river does not fail. They grow sorghum, millet, gourds, root crops and pulses, and the surplus moves through the same circulation as cattle. The paramount's seat is [[place-lombesavlg|Lombesa]], the village that took in the households of two baobabs that died.
+The Lobwezi hold the scattered settled belts: small districts of perennial water and dense soil that lie in pockets across Nyáluban country, wherever a spring or a stretch of river does not fail. They grow sorghum, millet, gourds, root crops and pulses, and the surplus moves through the same circulation as cattle. The paramount is [[being-mbudelolbwz|Mbudelo nu Lobwezi]], and the paramount's seat is [[place-lombesavlg|Lombesa]], the village that took in the households of two baobabs that died.
 
 The belts overlap other clans' ground and are not borders. A Lobwezi sacred grove may stand in the middle of Ngonzi country, and a village may lie on a Ruwozi drive; neither clan disputes the place, and a dispute that does arise is carried to the Lubemo.
 
@@ -99,6 +99,12 @@ The clan keeps age-set regiments as the other four do, and each village is defen
 - **A claim in the record.** The Senior Griot of the Long Pact has entered a claim against a clan that denies it, and the party carries the record to the clan to hear its answer.
 
 ## See Also {#see-also}
+
+[[being-mbudelolbwz|Mbudelo nu Lobwezi]]
+: the paramount
+
+[[being-bonzimbelbwz|Bonzimbe of the Lobwezi]]
+: the senior griot of the Long Pact
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation of the five clans

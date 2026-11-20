@@ -78,7 +78,7 @@ The leopard suits them: it is the guide that works alone, moves unseen, waits as
 
 ## Territory and Waters {#holdings}
 
-The clan holds the northern grass-and-tree belt, where the central savannah grades into the southern margin of the [[place-cntrlrnfrsts|Central Rainforests]]. It is the wettest part of the savannahs, with tall grass, tree-groves and seasonal pans. The paramount's great cattle-fold is [[place-nkabewivlg|Nkabewi]], at the forest margin.
+The clan holds the northern grass-and-tree belt, where the central savannah grades into the southern margin of the [[place-cntrlrnfrsts|Central Rainforests]]. It is the wettest part of the savannahs, with tall grass, tree-groves and seasonal pans. The paramount is [[being-nkesheyasngl|Nkesheya nu Sengala]], and the paramount's great cattle-fold is [[place-nkabewivlg|Nkabewi]], at the forest margin.
 
 The clan's wealth is the margin itself. Worked gold goes north through its hands to the rainforest peoples, and metal goods, beads, glass, fine cloth, medicinal plants and ritual pigments come south through them, almost the only way any of it reaches the other clans. Sengala traders also bring rainforest goods down to the spring at [[place-ekundavlg|Ékunda Village]], where herders of all five clans water. The [[affiliation-fenjara|Fénjara]], deep-bush hunters and trackers, are reckoned with the Sengala for the purposes of totem law.
 
@@ -108,6 +108,9 @@ The clan musters age-set regiments from the leopard's edge, and its method is th
 - **The silent post.** Drum messages from the northern margin have changed, and a Head of a Trading House wants to know whether the drum-master is still the same.
 
 ## See Also {#see-also}
+
+[[being-nkesheyasngl|Nkesheya nu Sengala]]
+: the paramount
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation of the five clans

@@ -75,7 +75,7 @@ A Kolembozi who loses a relative to a crocodile names the crocodile, by name and
 
 ## Territory and Waters {#holdings}
 
-The clan holds the eastern wetlands, where the rivers from the highlands spread and slow before the eastern coast: a maze of papyrus channels, oxbow lakes, hippopotamus pools and crocodile-haunted reaches. The paramount's great cattle-fold is [[place-nyangulovlg|Nyangulo]], at the edge of the wetlands.
+The clan holds the eastern wetlands, where the rivers from the highlands spread and slow before the eastern coast: a maze of papyrus channels, oxbow lakes, hippopotamus pools and crocodile-haunted reaches. The paramount is [[being-nyabesnklm|Nyabesa nu Kolembozi]], and the paramount's great cattle-fold is [[place-nyangulovlg|Nyangulo]], at the edge of the wetlands.
 
 The water is the clan's trade as well as its country. Kolembozi canoes carry fish, salt from a few coastal pans, papyrus and riverine goods up the eastern rivers to the highlands and the central plains, and the clan holds the river-trade as the Sengala hold the northern overland trade. Every clan's herds drink from rivers that pass through Kolembozi country.
 
@@ -101,6 +101,9 @@ The clan musters by age-set regiments of young men and young women, and its figh
 - **The crocodile with a name.** A family has settled with a crocodile and now wants the settling witnessed, outside the clan, by a griot of another.
 
 ## See Also {#see-also}
+
+[[being-nyabesnklm|Nyabesa nu Kolembozi]]
+: the paramount
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation of the five clans

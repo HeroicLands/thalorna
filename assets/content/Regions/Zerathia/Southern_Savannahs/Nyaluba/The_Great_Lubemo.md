@@ -71,6 +71,9 @@ A party meets the Lubemo as a delegation's guest, a griot's witness or a trader'
 
 ## See Also {#see-also}
 
+[[being-nzoburwz|Nzobu Ruwozi]]
+: the Convener, paramount of the Ruwozi
+
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation the Lubemo rules
 

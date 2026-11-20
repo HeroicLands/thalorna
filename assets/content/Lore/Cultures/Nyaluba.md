@@ -113,7 +113,7 @@ The Nyáluba value most exactness of word, patience in council, courage that sho
 
 ## The Man Admired
 
-[Bonzimbe of the Lobwezi]{.name data-type="being/npc"}, senior griot of the Long Pact, is the Nyáluba's admired elder. He is about seventy, blind, and carries the terms of the Pact, the genealogies of all five paramounts and the recorded judgments of twenty-three Lubemos. All five clans hold him the closest living thing to a neutral arbiter. He does not rule, command or lead, and none of the five would have him do any of it. He is the man who is asked.
+[[being-bonzimbelbwz|Bonzimbe of the Lobwezi]], senior griot of the Long Pact, is the Nyáluba's admired elder. He is about seventy, blind, and carries the terms of the Pact, the genealogies of all five paramounts and the recorded judgments of twenty-three Lubemos. All five clans hold him the closest living thing to a neutral arbiter. He does not rule, command or lead, and none of the five would have him do any of it. He is the man who is asked.
 
 The Nyáluba admire in him what their whole tradition rests on: that he remembers it right, for everyone, and adds nothing. The griots' recital in [[lore-stonetongue|The Stone Tongue]] closes on the rule: "A griot who adds to it has not told it better. He has told it wrong." Bonzimbe's long refusal to add is what lets five clans trust one record. His cost is the cost of the office. A man whose whole standing is exactness is not free to be wrong, and he is the neutral voice the clans turn to when a dispute will not settle.
 
@@ -121,7 +121,7 @@ The Nyáluba admire in him what their whole tradition rests on: that he remember
 
 [Lusheya nu Kolembozi]{.name data-type="being/npc"}, senior spirit-speaker of the Kolembozi, is the Nyáluba's admired woman. She walked into an Old Heto at her initiation and walked out speaking [The Stone Tongue]{.name data-type="skill/language"}, the speech the Ngonzi elders say belonged to the stone-builders and no living Nyáluban understands. The griots have entered the report in the record of the Lubemo, and the Ngonzi have confirmed it. She says nothing of what the tongue is for.
 
-The Nyáluba admire in her the same restraint the griots show with words, turned to the spirits: she stood at the border of the world the clans share with the dead, and she came back without claiming what she brought. Her admiration is not a lesser form of Bonzimbe's. He keeps what has been given, and she goes where the giving is hard. [Nzobu Ruwozi]{.name data-type="being/npc"}, the sixth woman to bear the title Nyoli Ruwozi, convenes the Lubemo and holds the higher rank; Lusheya holds the harder office. Her cost is that she cannot say what she knows: the Ngonzi hold one answer on whose dead the builders were and the baobab griots another, and the record holds only that the two differ.
+The Nyáluba admire in her the same restraint the griots show with words, turned to the spirits: she stood at the border of the world the clans share with the dead, and she came back without claiming what she brought. Her admiration is not a lesser form of Bonzimbe's. He keeps what has been given, and she goes where the giving is hard. [[being-nzoburwz|Nzobu Ruwozi]], the sixth woman to bear the title Nyoli Ruwozi, convenes the Lubemo and holds the higher rank; Lusheya holds the harder office. Her cost is that she cannot say what she knows: the Ngonzi hold one answer on whose dead the builders were and the baobab griots another, and the record holds only that the two differ.
 
 ## What the Five Keep
 

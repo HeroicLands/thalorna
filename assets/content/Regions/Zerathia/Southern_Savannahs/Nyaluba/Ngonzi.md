@@ -75,7 +75,7 @@ The Ngonzi hold that the stone-builders were their ancestors. The Lobwezi griots
 
 ## Territory and Waters {#holdings}
 
-The clan holds the southeastern highlands, which rise abruptly from the central plains in a long escarpment of weathered red stone. The air up there is cool, the rivers run all year, and the soil is dense enough for sustained agriculture, which the Ngonzi practice on highland terraces beside their herds. The paramount's great cattle-fold is [[place-ndelushivlg|Ndelushi]], and the clan's greatest charge, Heto Lubemo, stands at the edge of the escarpment.
+The clan holds the southeastern highlands, which rise abruptly from the central plains in a long escarpment of weathered red stone. The air up there is cool, the rivers run all year, and the soil is dense enough for sustained agriculture, which the Ngonzi practice on highland terraces beside their herds. The paramount is [[being-ndamesongnz|Ndameso nu Ngonzi]], and the paramount's great cattle-fold is [[place-ndelushivlg|Ndelushi]], and the clan's greatest charge, Heto Lubemo, stands at the edge of the escarpment.
 
 The highland rivers carry gold, panned by the Ngonzi as alluvial grains and worked by hammer and bone tool into ornaments and ingots. It is the one Nyáluban export that reaches the northern civilizations in quantity. It travels north through the Sengala, who hand it to the rainforest peoples, and the Ngonzi keep a near-monopoly on the working of it. The same rivers run down through the plains to the Kolembozi wetlands. A Lobwezi sacred grove may stand in the heart of Ngonzi country, and the clan lets it.
 
@@ -101,6 +101,9 @@ The clan musters age-set regiments like the others and fights from its escarpmen
 - **A Guardian's refusal.** A party that must see an Old Heto is refused at its wall by the Guardian, and is sent to the Ngonzi paramount with a message to carry in exchange for an answer.
 
 ## See Also {#see-also}
+
+[[being-ndamesongnz|Ndameso nu Ngonzi]]
+: the paramount
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation of the five clans

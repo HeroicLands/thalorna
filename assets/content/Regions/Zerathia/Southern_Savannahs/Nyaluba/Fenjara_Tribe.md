@@ -77,7 +77,7 @@ obviously hold.
 
 They herd nothing. Where the [[affiliation-ruwozi|Ruwozi]] measure themselves in cattle and the [[affiliation-lobwezi|Lobwezi]] in the age of their
 trees, the Fénjara measure themselves in ground known: which trails, which water, which seasons,
-and whose pacts run where. Their seat is [[place-fenjaravlg|Fénjara Village]], and for much of the
+and whose pacts run where. The chieftain is [[being-mbadekofnjr|Mbadeko nu Fénjara]]. Their seat is [[place-fenjaravlg|Fénjara Village]], and for much of the
 year most of them are not in it.
 
 ## Tracking
@@ -111,6 +111,9 @@ What the tribe has to offer is the one thing it always offers: ground known. Fé
 The Fénjara keep the Leopard Totem beside the Sengala, and the Great Lubemo hears their delegate every fourth dry season ([[lore-nyalubahist|The History of the Nyáluba]]).
 
 ## See Also {#see-also}
+
+[[being-mbadekofnjr|Mbadeko nu Fénjara]]
+: the chieftain
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation the tribe belongs to

@@ -67,7 +67,7 @@ The **Ruwozi** are the lion-clan of the [[affiliation-nylbtrblntn|Nyáluba Triba
 
 ## The Clan Now {#the-house-now}
 
-The paramount is the Nyoli Ruwozi, by custom a daughter of the senior lineage, and the title passes to a woman of that line as a name passes. The sixth to bear it is [Nzobu Ruwozi]{.name data-type="being/npc"}, about fifty, who has presided over three Lubemos and is held across all five clans to know the totemic law as few do. As Convener she summons the [[affiliation-greatlubemo|Great Lubemo]] and speaks last in it, and the Ruwozi griot recites [[lore-braiddaughters|The Braid of the Daughters]] when she takes the convener's place at [[place-hetolubemo|Heto Lubemo]].
+The paramount is the Nyoli Ruwozi, by custom a daughter of the senior lineage, and the title passes to a woman of that line as a name passes. The sixth to bear it is [[being-nzoburwz|Nzobu Ruwozi]], about fifty, who has presided over three Lubemos and is held across all five clans to know the totemic law as few do. As Convener she summons the [[affiliation-greatlubemo|Great Lubemo]] and speaks last in it, and the Ruwozi griot recites [[lore-braiddaughters|The Braid of the Daughters]] when she takes the convener's place at [[place-hetolubemo|Heto Lubemo]].
 
 A Ruwozi man takes a single lion-tooth at adulthood, and the taking is the ordeal by which he enters the tradition. A Ruwozi woman braids her hair in patterns that record her lineage. No Ruwozi hunts a lion or eats lion flesh, and a beast lost to lions on the guide's ground is entered in the tally as a rendering and not a loss ([[affiliation-nyalblion|Lion Totem]]).
 
@@ -99,6 +99,9 @@ The clan keeps no standing force. Its regiments are age-set cohorts of young men
 - **The paramount's message.** The Ruwozi paramount wants word carried to a dry-country chieftain, outside the Lubemo and outside the other four paramounts' knowledge.
 
 ## See Also {#see-also}
+
+[[being-nzoburwz|Nzobu Ruwozi]]
+: the paramount and Convener
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation of the five clans

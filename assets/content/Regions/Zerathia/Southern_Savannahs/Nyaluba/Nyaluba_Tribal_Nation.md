@@ -213,9 +213,9 @@ To the **south and southeast**, beyond the Kolembozi wetlands and the Ngonzi hig
 
 ## Famous Figures
 
-[Nzobu Ruwozi]{.name data-type="being/npc"}, current Ruwozi paramount and convener of the Great Lubemo (sixth Nyoli Ruwozi to bear the hereditary name). About fifty years old, widely respected across all five clans for her judgment and her command of the totemic law. She has presided over three Lubemos; the next will be her fourth.
+[[being-nzoburwz|Nzobu Ruwozi]], current Ruwozi paramount and convener of the Great Lubemo (sixth Nyoli Ruwozi to bear the hereditary name). About fifty years old, widely respected across all five clans for her judgment and her command of the totemic law. She has presided over three Lubemos; this Lubemo is her fourth.
 
-[Bonzimbe]{.name data-type="being/npc"} of the Lobwezi, senior griot of the Long Pact. The official memory-bearer of the Pact's terms, the genealogies of all five paramounts, and the recorded judgments of the previous twenty-three Lubemos. Approximately seventy years old, blind, and considered by all five clans to be the closest living thing to a neutral arbiter the Nyáluba possess.
+[[being-bonzimbelbwz|Bonzimbe of the Lobwezi]], senior griot of the Long Pact. The official memory-bearer of the Pact's terms, the genealogies of all five paramounts, and the recorded judgments of the previous twenty-three Lubemos. Approximately seventy years old, blind, and considered by all five clans to be the closest living thing to a neutral arbiter the Nyáluba possess.
 
 [Lusheya nu Kolembozi]{.name data-type="being/npc"}, senior _zherami nyende_ of the Kolembozi, said to have walked into a particular Old Heto during her initiation and emerged speaking [The Stone Tongue]{.name data-type="skill/language"}—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Lobwezi griots have entered it into the Lubemo record. What the Stone Tongue is for, no one will say.
 
