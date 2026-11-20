@@ -28,6 +28,14 @@ The town lives on iron. Smelters, charcoal-burners, carters and ore-weighers wor
 
 Tsuiwu is the seat of a house that has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
 
+## Current Situation {#present}
+
+In 720 AF Tsuiwu is the seat of Tsuijai Rezo, fifty-two years old, who still works the forge at [Tsaigen]{.name data-type="place/settlement"} himself. His house belongs to neither bloc. The office of Teng Ja stands vacant, and the Strait bloc and the loyalists each send envoys to the town.
+
+Rezo has named his price to neither bloc: it is the forging of the blade a new Teng Ja receives, whoever carries it. The smiths will not begin the blade until the Emperor names a holder. Someone has asked them to begin early, and the Jaju have not said who. Rezo wants to learn who it was.
+
+The market sells to every buyer, and Rezo lets none of them own the house. Until the Emperor names a holder the blade stays unforged, and Rezo gives neither bloc a claim on it.
+
 ## See Also {#see-also}
 
 [[affiliation-tsuijaidmn|Tsuijai Domain]]
