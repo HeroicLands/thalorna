@@ -555,14 +555,14 @@ Spiritual Connection
 
 ## Plot Hooks
 
-The Sands of Deception
-: A caravan under Atazkharu’s protection disappears without a trace, leaving behind only strange tracks leading into the desert. As Atazkharu investigates, he uncovers evidence of a group using illusions to ambush and enslave travelers. To stop them, he must navigate the shifting dunes while contending with a rising fear that these enemies are connected to his own tribe’s lost past.
+The Preacher's Return
+: The Sovidur storm-shaman comes in again to [[place-kherzulakhem|Kherzulakhem]], and the riders of the northern chieftains arrive a day behind him asking that he be handed over. Atazkharu holds the Laws of the Well and asks a party to keep the peace at the water until the shaman and the riders have each been fed and sent their separate ways.
 
-The Oasis of Whispers
-: Atazkharu’s travels take him to an oasis said to grant visions of the future to those who drink from its waters. After partaking, Atazkharu receives fragmented images of his companions in peril and a veiled figure offering aid. But the vision comes with a warning: the figure’s help will come at a price that could fracture their unity.
+First at the Basin
+: A hunter of the southern desert and a tracker of the Dunhara each claim the first draw at the basin after a long ride, and neither will yield to the other's tribe. Atazkharu asks a party to hold the order of the water while the campers settle the claim by the Laws of the Well.
 
-The Jackal’s Shadow
-: Rumors spread of a deadly ranger, clad in similar attire to Atazkharu, attacking merchant routes and leaving no survivors. The local tribes accuse Atazkharu of betrayal, forcing him to track down the impersonator. His hunt leads him to a former ally turned bitter enemy, who now uses the guise of the Jackal Spirit to settle old grudges.
+The Slow Seep
+: The seep that fills the basin runs slower each month, and the animals wait longer to water. Atazkharu asks a party to follow the dry rock above the camp and learn whether the seep is failing or someone upslope has taken it.
 
-The Spirit’s Trial
-: The Jackal Spirit that guides Atazkharu begins to withdraw its favor, and strange misfortunes befall him. Seeking answers, Atazkharu undertakes a solitary journey to the Spirit’s sacred shrine, where he must face trials designed to test his loyalty to the land and his companions—and confront whether he is still worthy of the Spirit’s guidance.
+The Quiet Dreams
+: For a season the Jackal Spirit has sent Atazkharu no dream, and a hunter of the camp who is not of his tribe has begun to dream in the spirit's voice. Atazkharu asks a party to sit the water with the hunter and learn whether the dream is his or the spirit's.

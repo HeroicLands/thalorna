@@ -86,7 +86,7 @@ None. Every other standing in Amradad is his grant.
 
 ### Enemies
 
-The great houses that hold their standing by his word resent being outspent in their own capital. [Aravdán the Stargazer]{.name data-type="being/npc"}, who convenes the Council of the Princes, is the one man at court whose weight rivals his, and the two are careful with each other.
+The great houses that hold their standing by his word resent being outspent in their own capital. [[being-aravdnstrgz|Aravdán the Stargazer]], who convenes the Council of the Princes, is the one man at court whose weight rivals his, and the two are careful with each other.
 
 ### Affiliations
 

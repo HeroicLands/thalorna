@@ -552,17 +552,17 @@ The Silent Conspiracy
 
 ## Plot Hooks
 
-The Darkening Omens
-: For three seasons, Firavad's sacred fire has burned with an unnatural color—deep violet veering toward sickly green. His divinations regarding the tribe's future grow increasingly fragmented and contradictory, something unprecedented in his long practice. He desperately needs assistance investigating the spiritual disturbance, perhaps requiring outsiders with skills in uncovering hidden threats. The adventurers might discover that **a powerful curse or planar incursion** is warping the spiritual foundations of the tribal lands, and only those with both shamanic knowledge and martial prowess can seal the breach before the barrier between worlds collapses entirely.
+The Season-Turn Without a Ruling
+: The Council of Elders arrives at the season-turn unable to rule, and petitioners with two Old Promise cases wait at the [[place-stoneofranaz|Stone of Ranaz]]. Firavad asks a party to keep them safe on the road and to learn what each lineage would give for its assent.
 
-The Succession Crisis
-: As Firavad's health deteriorates, he wrestles with the inadequacy of his chosen successor **Yuzhvad**. The elder shaman suspects that **Yuzhvad** lacks the spiritual fortitude for the full responsibility, yet naming another successor would create dangerous tensions within the tribe. Firavad might hire adventurers to test **Yuzhvad** through a dangerous spiritual journey or to seek out an ancient artifact rumored to enhance shamanic power. Alternatively, the party might become caught between Firavad's cautious wisdom and **Yuzhvad**'s ambitious hunger for power.
+Three Seasons of Violet Fire
+: For three seasons Firavad's sacred fire has burned deep violet, and his divinations about the tribe's future have grown fragmentary and contradictory, which has not happened in forty years of practice. He asks a party to find what has changed at the fire's ground.
 
-The Theft of the Spirit-Stones
-: Sacred stone tokens, each containing the bound essence of an ancestral spirit, vanish from the tribe's sacred circle during a moonless night. Firavad cannot divine their location through ordinary means, suggesting their thief possesses knowledge of anti-shamanic wards. He seeks adventurers to recover the stones before the detached spirits grow angry at their confinement. The investigation might reveal that the thief is neither enemy nor criminal, but a desperate parent attempting to recover their child's soul, which Firavad's own rituals accidentally trapped within a stone during a past ceremony gone wrong.
+Yuzhvad's Vision
+: Yuzhvad, master of the tribe's second vision-circle, has carried a vision against the elders' ruling to the young of the tribe before it reached Firavad. Firavad asks a party to sit in the circle and learn whether Yuzhvad saw it or wants it seen.
 
-The Prophecy of the Storm King
-: Firavad has received a vivid prophecy of a warrior destined to unite the scattered [[lore-dunhariclt|Dunhara]] tribes under a banner of thunder and lightning—but the prophecy is ambiguous about whether this "Storm King" will bring salvation or catastrophic war. He believes he has glimpsed fragments of the destined one, possibly among a group of traveling adventurers, and he cautiously tests them to determine their nature. The party might discover they are being manipulated by a well-meaning but flawed prophecy, one that could lead to their transformation into instruments of either terrible destiny or unprecedented peace.
+The Turned Stones
+: At dawn two of the stone tokens at the Sacred Stones are found turned to face the Stone of Ranaz. Firavad cannot say whether a rival lineage, a northern chieftain's shaman or the spirits moved them, and he asks a party to watch the circle for three nights.
 
-The Haunting of Widow [Shupa]{.name data-type="being/npc"}
-: A young widow comes to Firavad claiming her late husband's spirit refuses to journey to the afterlife, instead haunting their lodge and driving her toward madness with spectral touches and midnight wails. Firavad's initial attempts at a binding ritual fail mysteriously, causing him to believe the spirit may be trapped by forces stronger than shamanic will. He seeks allies brave enough to descend into the spirit realm itself—or to investigate the husband's death more thoroughly—to discover that the man was murdered under false pretenses, and his spirit's restlessness reflects his need for justice rather than a mystical entanglement.
+[Shupa]{.name data-type="being/npc"}'s Husband
+: The spirit of [Shupa]{.name data-type="being/npc"}'s husband will not leave her lodge, and Firavad's binding has failed twice. Before a third attempt he asks a party to learn how the man died, since the failure may mean the death was not what the family says.

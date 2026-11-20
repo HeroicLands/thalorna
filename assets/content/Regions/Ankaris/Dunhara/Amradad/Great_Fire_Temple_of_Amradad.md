@@ -32,7 +32,7 @@ At home, the temple is the richest prize in the quarrel between the court's grea
 
 ## Who Rules It {#who-rules-it}
 
-The High Shekhul, [Aravdán the Stargazer]{.name data-type="being/npc"}, holds the temple and answers for its flame. He is about sixty, an astronomer of reputation across the continent, and for three decades he has held the Tellumi exiles together as convenor of their Council. The Tellumi priesthood, the Shekhulukhem, answers to him, and the court treats him as a minister as much as a priest.
+The High Shekhul, [[being-aravdnstrgz|Aravdán the Stargazer]], holds the temple and answers for its flame. He is about sixty, an astronomer of reputation across the continent, and for three decades he has held the Tellumi exiles together as convenor of their Council. The Tellumi priesthood, the Shekhulukhem, answers to him, and the court treats him as a minister as much as a priest.
 
 Under him the senior Delkoshekhs each keep a domain: the Delkoshekh of Astronomy keeps the record of the sky, the Delkoshekh of Law interprets the divine justice beneath the Shebarader's law, and the Delkoshekh of Cosmology teaches the priesthood and the educated laity. The Keeper of the Fire-Lineage holds the record of the flame's descent, on which the temple's standing rests. Roqeshekhs feed the flame in watches through the day and night.
 

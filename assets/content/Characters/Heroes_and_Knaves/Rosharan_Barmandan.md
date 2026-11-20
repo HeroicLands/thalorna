@@ -575,17 +575,20 @@ The master shipwrights of the coast
 
 ## Plot Hooks
 
-The Lost Vessel of Legend
-: An old sailor approaches Rosharan in a harbor tavern, claiming to possess maps to the wreck of _[Zharifa's Dream]{.name data-type="vehicle"}_, a fabled ship said to have been built by the greatest craftspeople of the pre-Kingdom era. The sailor offers to guide her to the wreck in exchange for a share of any salvage, but the wreck lies in dangerous waters controlled by pirates and protected by a cursed reef. More intriguingly, some of the ship's structural features are unlike anything in the current maritime tradition—if Rosharan can study the wreck, she might discover lost techniques from a golden age of shipbuilding, but the expedition requires adventurers to handle the dangers she cannot.
+The Short Keel Timbers
+: Lady [[being-yeserapariva|Yesera Parivan]] asks for a deep-water hull that can ride a strait gale, and the keel timbers arrive short by a fifth. Rosharan asks a party to learn whether the timber factor or her own yard foreman sells the rest elsewhere.
+
+The Reaver's Improvement
+: A go-between of the Reaver Fleet leaves at the yard gate a drawing of one of her hulls with changes that would make it faster, and a price for building them. Rosharan cannot tell whether the changes are sound, and she asks a party to learn who drew them and whether the Fleet knew her lines from her own loft.
 
 The Experimental Warship
-: Yesera Parivan commissions Rosharan to design a deep-water warship of new design incorporating her latest ideas—but midway through construction, agents from a rival nation begin sabotaging the project. Rosharan suspects an inside agent but cannot identify them. She hires adventurers ostensibly as security but actually to investigate the saboteurs. The saboteur is someone she trusts, and the adventurers must convince her to accept a painful betrayal.
+: Yesera Parivan commissions Rosharan to design a deep-water warship of new design incorporating her latest ideas—but midway through construction, agents from a rival nation begin sabotaging the project. Rosharan suspects an inside agent but cannot identify them. She hires a party ostensibly as security but actually to investigate the saboteurs. The saboteur is someone she trusts, and the party must convince her to accept a painful betrayal.
 
-The Reaver's Ship Reborn
-: Rosharan's stolen vessel surfaces in harbor under Reaver control. Rather than attempt a direct assault, she contracts adventurers to infiltrate the pirate crew, learn their current modifications to her design (which she finds both inspiring and horrifying), and ultimately help her reclaim the ship. The vessel has actually become faster and more dangerous under the Raiders' modifications, and Rosharan must grapple with the fact that her creation has found purposes—and glory—in criminal hands.
+The Coaster for No One
+: A yard on the Amradi shore is building a coaster to a Taruzelian line sold to no one there, and the lines look like hers. Rosharan asks a party to learn who ordered it and who sold them the lines.
 
-The Sunken City Expedition
-: Scholars contact Rosharan to design a specialized deep-water vessel capable of exploring submerged ruins rumored to exist far offshore. The project is ambitious and costly, requiring adventurers to gather rare materials from dangerous locations—depths where sea creatures of fabled size dwell, high mountains where special hardwoods grow, and mysterious caves where enchanted shells are found. As the team gathers materials, they uncover evidence that the "sunken city" is actually an ancient enemy of the Kingdom, and reaching it first matters more than they initially understood.
+The Foundered Hull
+: Pashvur Turvand tells the quay that a ship of her design foundered on the [[place-tamzirshoals|Tamzir Shoals]]. Rosharan asks a party to find the wreck, or the lie, before the master shipwrights of the coast meet to judge her standing.
 
-The Timber of Prophecy
-: A mysterious merchant offers Rosharan a shipment of miraculous timber from a far-distant land—wood that is lighter than air-wood yet harder than ironbark, wood that glows faintly at night and seems to resist rot and decay. The merchant demands a substantial advance payment, and when Rosharan's adventurer partners investigate the timber's origin, they discover it comes from a forest that should not exist. The grove is protected by ancient spirits, and harvesting more timber requires negotiating with forces that are not entirely convinced humans deserve such bounty.
+The Survey Cutter
+: Lady Yesera Parivan wants a cutter that can sound the shoals in a gale, and the yard has built one that has not yet touched water. Rosharan needs a party to crew its first trial and to bring back what the hull does under sail.

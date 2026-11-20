@@ -51,7 +51,7 @@ The city sends out what a court makes: appointments, judgments, the coin of the 
 
 ## Faith and Festivals {#faith-and-festivals}
 
-The [[affiliation-ahurdaen|Faith of Ahurdaen]] is the established worship of the Kingdom, and its High Shekhul at the Great Fire-Temple, [Aravdán the Stargazer]{.name data-type="being/npc"}, is as much a minister as a priest. He is an astronomer of wide reputation, he convenes the Council of the Princes, and both the great houses and the exile courts endow his temple. Every prayer in the city begins with the kindling of a fire, and every household keeps a flame lit from a temple's. The city's great occasions are the court's: an audience, a marriage timed by the astrologers, and the Council's session, when the Tellumi princes walk in procession to the Great Fire-Temple.
+The [[affiliation-ahurdaen|Faith of Ahurdaen]] is the established worship of the Kingdom, and its High Shekhul at the Great Fire-Temple, [[being-aravdnstrgz|Aravdán the Stargazer]], is as much a minister as a priest. He is an astronomer of wide reputation, he convenes the Council of the Princes, and both the great houses and the exile courts endow his temple. Every prayer in the city begins with the kindling of a fire, and every household keeps a flame lit from a temple's. The city's great occasions are the court's: an audience, a marriage timed by the astrologers, and the Council's session, when the Tellumi princes walk in procession to the Great Fire-Temple.
 
 ## Where a Party Lodges {#lodging}
 

@@ -519,16 +519,16 @@ Vulnerability to Obsession
 Master Zalmor Ashenthorn
 : Her retired mentor, now a wealthy merchant. Though he no longer practices the craft himself, he champions her work and occasionally contracts for specialty batches
 
-[The Apothecary Collective of Amradad]{.name data-type="affiliation/guild"}
-: Guild of ritual herbalists who have made her the exclusive supplier of ceremonial charcoal for fertility rites of [[affiliation-zurathra|Zúrathra]]
+The Herbalists of Amradad
+: Ritual herbalists of the town who have made her the exclusive supplier of ceremonial charcoal for fertility rites of [[affiliation-zurathra|Zúrathra]]
 
 [House Ferringhold]{.name data-type="affiliation/lineage"}
 : A minor noble house of merchants who commission her finest work exclusively and pay handsomely to keep competitors deprived of her product
 
 ### Enemies
 
-[Rozhvan Durmand]{.name data-type="being/npc"} and the [Ash-Brothers Guild]{.name data-type="affiliation/guild"}
-: A collective of male charcoalers who publicly declaim that women have no place in the trade and actively undermine her reputation with potential customers
+[Rozhvan Durmand]{.name data-type="being/npc"} and the Ash-Brothers
+: A circle of male charcoalers who publicly declaim that women have no place in the trade and actively undermine her reputation with potential customers
 
 [The Durvesh Syndicate]{.name data-type="affiliation/criminal"}
 : Smugglers and gray-market traders who resent her refusal to supply them with specialized charcoal for alchemical purposes they consider unsavory
@@ -538,22 +538,22 @@ Master Zalmor Ashenthorn
 
 ### Affiliations
 
-[The Kiln-Keepers of Amradad]{.name data-type="affiliation/guild"}
-: Independent guild of craftspeople devoted to maintaining quality standards in the charcoal trade (though she remains mostly inactive in their politics)
+The Kiln-Keepers of Amradad
+: An informal circle of the town's charcoal masters devoted to maintaining quality standards in the charcoal trade (though she remains mostly inactive in their politics)
 
 ## Plot Hooks
 
-The Fire's Fading
-: A severe drought threatens the very wood supply that sustains Gulranah's livelihood. She receives word from a traveling merchant that an ancient forest deep in the southern reaches of the Kingdom—sacred to Zúrathra and off-limits to mortals for generations—has mysteriously shifted, its protective enchantments wavering. The wood there is said to burn hotter and cleaner than any earthly timber, and would allow her to create charcoal of legends. But to harvest it, she must either negotiate with the priestesses of [Temple Ashenfire]{.name data-type="place/structure"} or find another path; the risks are immense, and her seclusion has left her without allies to undertake such a journey.
+Sour Smoke
+: A load of Gulranah's charcoal burns with a sour smoke in the herbalists' ritual fires, and the disciples of Zúrathra's rites send it back. She asks a party to learn whether the load was changed between her yard and the herbalists' door.
 
-The Poisoned Batch
-: Gulranah discovers that someone has tampered with a shipment of her charcoal meant for the apothecary collective—introducing a mineral compound that, when burned in ritual, produces subtle traces of toxins. If discovered, it will destroy her reputation entirely. She must trace the sabotage back to its source before the corrupted batch reaches the ceremonial fires, and uncover whether this is the work of **Rozhvan Durmand** and his Ash-Brothers, or something worse—perhaps a power seeking to poison the very fertility rituals that sustain the kingdom's prosperity.
+Zalmor's Share
+: Zalmor Ashenthorn offers Gulranah a share in a larger Northern Kiln, with her name over the door. She asks a party to learn what Zalmor owes the lenders who would pay for the expansion before she decides.
 
-The Stranger's Commission
-: A hooded figure arrives at her kilns late one night offering an astronomical sum for a single, specific batch of charcoal—enough to free her from work for five years. The charcoal is to be fashioned with ingredients she cannot identify and burned in a location she cannot access, all to be completed in absolute secrecy. The stranger's knowledge of her methods and her vulnerabilities suggests an understanding of her character that no mere customer could possess. Accepting such a commission might solve her isolation and provide resources, but the mystery of the stranger's intent gnaws at her conscience.
+The Temple's Braziers
+: The [[place-grtfiretmpl|Great Fire-Temple]] buys charcoal for its braziers, hauled on donkeys from the scrub hills, and its steward wants a smokeless grade for the observatory. Gulranah asks a party to guard the first load on the road and to bring back what the Delkoshekh of Astronomy thinks of it.
 
-The Kiln-Master's Successor
-: As Zalmor's wealth grows and his age advances, he begins to court Gulranah with an unexpected proposition: partnership in a grand expansion of the Northern Kiln into a regional empire of production. He speaks of training other apprentices under her guidance, establishing subsidiary kilns across the kingdom, and securing her legacy far beyond her lifetime. It is everything she should want, yet it would require her to abandon the solitary, intimate relationship with her own single kiln that has defined her entire life. She must choose between growth and purity, ambition and authenticity.
+The Durvesh Order
+: The Durvesh Syndicate again asks Gulranah for a specialized charcoal she will not make, and a kiln of hers burned in the night. She asks a party to learn who is behind the fire before she decides whether to refuse.
 
-The Curse of Zúrathra's Gift
-: Strange visions begin plaguing Gulranah during her work—fleeting glimpses of other worlds, other kilns, other selves engaged in the same craft. A priestess of **Temple Ashenffire** eventually seeks her out, telling her that her gift with fire may mark her as touched by Zúrathra herself, and that the deity intends to draw her into service for a great working. According to the priestess, the visions are a call, and refusing will bring consequences. Accepting means surrendering the last remnants of her independence to something greater, and possibly terrible, than herself.
+Rozhvan's Rumor
+: Rozhvan Durmand tells the caravan quarter that her kilns are cursed. She asks a party to follow the rumor to its source and bring the source to her yard.

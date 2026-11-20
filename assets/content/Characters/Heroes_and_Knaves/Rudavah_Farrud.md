@@ -469,7 +469,7 @@ Rudavah stands 5'9" tall with a medium build. She has olive-tanned skin, jet bla
 
 **Apprenticeship and Mastery:** She served informally under **Master Ostler [Velkash of Amradad]{.name data-type="being/npc"}**, the city's most respected animal handler, for fifteen years. Velkash recognized in her a rare gift—beyond competence with horses, an almost intuitive understanding of a horse's mind, health, and care. Under his mentorship, she learned to diagnose illnesses by subtle changes in behavior, to calm frightened, ill-used animals through particular sounds and handling, and to understand the deep connection between a horse's emotional state and physical well-being.
 
-**Current Practice:** Now at thirty, Rudavah has established herself as the preeminent ostler in the [[affiliation-kngdmmrdd|Kingdom]], running a small but highly respected stable facility outside the capital. Her reputation extends throughout the region—travelers and nobles alike seek her services, paying dearly for horse care. She has trained a few apprentices, though she is exacting and demands excellence. She is known for turning down commissions from those she believes would mistreat animals, despite financial pressure to accept all work. The burn mark on her left hand occasionally causes her pain, a lasting reminder of the event that set her life's course.
+**Current Practice:** Now at twenty-nine, Rudavah has established herself as the preeminent ostler in the [[affiliation-kngdmmrdd|Kingdom]], running a small but highly respected stable facility outside [[place-tahrodan|Tahrodan]]. Her reputation extends throughout the region—travelers and nobles alike seek her services, paying dearly for horse care. She has trained a few apprentices, though she is exacting and demands excellence. She is known for turning down commissions from those she believes would mistreat animals, despite financial pressure to accept all work. The burn mark on her left hand occasionally causes her pain, a lasting reminder of the event that set her life's course.
 
 ## Psyche
 
@@ -530,11 +530,11 @@ Moral Inflexibility
 Master Velkash of Amradad
 : Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudavah maintains something approaching a warm relationship.
 
-Captain [[being-deyenashamay|Deyena Shamayan]], [Royal Cavalry]{.name data-type="affiliation"}
+Captain [[being-deyenashamay|Deyena Shamayan]], commander of the Host's cavalry
 : The commander of the Kingdom's cavalry forces, who contracts with Rudavah for the care and training of elite cavalry mounts. Their relationship is complicated—Deyena demands results, but respects Rudavah's insistence on treating animals well.
 
 Lady [[being-zaranahsaran|Zaranah Sarani]], Merchant Princess
-: A wealthy merchant and equestrian enthusiast who has contracted for Rudavah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
+: A wealthy merchant and equestrian enthusiast who has contracted for Rudavah's services since she was a girl in Velkash's yard and provides her with political protection when her stubbornness creates problems with authorities.
 
 ### Enemies
 
@@ -554,17 +554,17 @@ None formal
 
 ## Plot Hooks
 
-The Cursed Stallion
-: A beautiful but clearly suffering horse is brought to Rudavah's stable—no other ostler in the region will work with it, claiming it is cursed or demon-touched. Rudavah's senses tell her the horse is not cursed but rather magically sick, its distress caused by some magical condition beyond her experience. She must recruit adventurers to investigate the horse's origin, discover what magical condition afflicts it, and potentially journey to dangerous locations to find components or knowledge that will cure it. As she works to save the horse, she becomes convinced that its previous owner deliberately cursed it, and her moral crusade becomes increasingly personal.
+The Handover Horses
+: A tribal escort reaches the handover well a day out of Tahrodan and finds the garrison's horses and no riders. Rudavah is called to see them, and the horses are drugged. She asks a party to learn who drugged them.
 
-The Animal Sanctuary Under Threat
-: Local authorities plan to confiscate a sanctuary for rescued animals that Rudavah has been secretly supporting, claiming the facility violates new regulations. The sanctuary houses dozens of animals that would certainly be euthanized if discovered by authorities. Rudavah recruits adventurers to help her either hide the sanctuary, relocate the animals, or work through the officials and politics to change the rules. This forces her to learn the persuasion she has long avoided, or else to commit crimes in defense of her principles.
+The Remounts from the Fair
+: Fifty horses bought at [[place-parzavad|Parzavad]]'s fair are to come to Tahrodan before the autumn patrols, and several have gone lame on the road. Rudavah asks a party to ride out and find out whether the road or the sellers lamed them.
 
-The Plague in the Herds
-: A mysterious disease begins spreading through the Kingdom's herds, afflicting horses with fever and causing deaths. Rudavah observes symptoms that suggest the plague has been deliberately introduced and turned against the cavalry as a weapon. She must work with adventurers to investigate the origin of the plague, identify the responsible parties (whether rival political factions, enemy nation, or something darker), and find a cure before the cavalry's effectiveness is destroyed. This plot touches on larger political conspiracies and forces Rudavah into a position of unexpected importance.
+The Sealed Fodder
+: The garrison's horses at Tahrodan sicken after feed that came in under a temple's seal and was never opened at the gate. Rudavah wants the sacks examined, but the priest who lent the seal calls a search sacrilege, and she asks a party to bring her a sample without breaking the seal.
 
-The Wild Mustang Herd
-: Rudavah learns of a herd of wild horses living in a remote mountain valley, managed by a reclusive herder who has refused all contact with civilization. Intrigued by rumors of unique bloodlines and animals of rare quality, she recruits adventurers to help her journey to meet this herder and potentially integrate his bloodlines into her breeding program. The journey is treacherous, the herder is protective and suspicious, and the horses themselves possess unusual characteristics suggesting long isolation and potential magical influence.
+The Merchant's Rumor
+: Ruvesh Narshad's caravan horses have gone lame on the Khazrin road, and he tells the lower quarter that her old care did it. She asks a party to examine the animals before he sells them.
 
-The Burned Hand's Secret
-: The chronic pain in Rudavah's burned hand intensifies, and she begins experiencing strange visions of the stable fire that scarred her. Memories surface suggesting the fire was not accidental but deliberately set—and that her survival and rescue were perhaps not accidental either. She recruits adventurers to investigate the fire's true cause, potentially uncovering that someone powerful has been watching her since childhood, possibly grooming her for a specific purpose related to her unique gift with animals.
+Velkash's Yard
+: [Velkash of Amradad]{.name data-type="being/npc"}, who taught her for fifteen years, has fallen ill, and his sons want the yard sold. Rudavah asks a party to carry her offer to buy it to Amradad and to learn what the sons have promised the other buyer.

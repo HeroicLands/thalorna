@@ -547,22 +547,19 @@ Inquisitor [[being-mazinanshirz|Mazinan]]
 [Rural Astrologers' Circle]{.name data-type="affiliation"}
 : Fakhrad maintains membership in this loose, informal association of practitioners who share his practical approach and his distance from academic establishments.
 
-[The Herblore Practitioners' Guild]{.name data-type="affiliation/guild"}
-: Though unofficial, he networks with other healers and herbalists who combine their knowledge with astronomical timing.
+The Herb-Healers of the Region
+: An informal circle of healers and herbalists. He networks with other healers and herbalists who combine their knowledge with astronomical timing.
 
 ## Plot Hooks
 
-The Celestial Warning
-: For months, Fakhrad has noticed a pattern in the stars that terrifies him—something is wrong with the great cycles, and his calculations suggest an approaching catastrophe. However, his interpretations are different from those of the formal astrologers, and no one in authority will listen. When strange phenomena begin to manifest—crop failures, unusual weather, celestial oddities—people finally come to him for answers. He must help the party understand and prevent the approaching disaster while proving his methods correct.
+The Week's Difference
+: The temple's tables and Fakhrad's differ by a week on the sowing, and the elders of Sorvadakhend must choose before the rains. Fakhrad asks a party to keep a record of the river and the first rain, since only the harvest will say which table was right.
 
-The Stolen Instruments
-: Valuable astronomical instruments are stolen from a merchant caravan Fakhrad regularly works with, and he is suspected of the theft. Investigation reveals that someone is collecting instruments for a purpose—perhaps to perform a ritual or to conduct secret observations. Fakhrad must help trace the instruments and uncover who is behind the theft and why.
+The Court Astrologer's Challenge
+: The court astrologer Navresh Tahvan proposes a contest of predictions before the elders of Sorvadakhend, with Fakhrad's retainer as the stake. Fakhrad cannot decline without conceding, and he asks a party to learn what Navresh has already told the elders.
 
-The Convergence of Signs
-: Fakhrad realizes that the current celestial configuration matches descriptions found in an ancient text he has studied—a rare alignment that occurs only once every thousand years. According to the text, this convergence unleashes forces or opens doors that should remain closed. The party must help him uncover what the ancients feared and whether those dangers are real.
+The Inquisitor's Depositions
+: Mazinan Shirzari's clerks have begun taking statements in Sorvadakhend about Fakhrad's tables. His patron Torvan wants a party to find out what is being asked, and of whom, before the [[place-grtfiretmpl|Great Fire-Temple]] hears the case.
 
-The Charlatan's Challenge
-: A charismatic and convincing false astrologer arrives in the region, performing impressive tricks and making bold predictions that initially prove accurate. He begins to overshadow Fakhrad's reputation, and common folk flock to him instead. Fakhrad must prove the fraud while maintaining his own credibility—and discovering what the false astrologer really wants.
-
-The Secret Observatory
-: Fakhrad discovers evidence that there exists a hidden astronomical observatory in the mountains, built and maintained by an organization of astrologers who have made discoveries that the formal establishment would suppress. He receives a cryptic invitation to join them, but the path to the observatory is dangerous, and its inhabitants may have motives far from purely scientific.
+The Academies' Brass
+: Brass instruments of a scholar of the Academies of [[place-shebarakhend|Shebarakhend]], carried by a caravan Fakhrad advises, are missing at the city gate, and the caravan-master names Fakhrad because he sells them his tables. Fakhrad asks a party to find the instruments before the Academies lay the charge before the Great Fire-Temple.
