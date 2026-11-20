@@ -3,7 +3,7 @@ shortcode: dunharargn
 name: {full: Dunhara Region}
 type: place
 subType: region
-description: Vast southern desert of tribal confederations, oral tradition, and the fire-and-light faith of the Ashaian Pantheon.
+description: "Vast southern desert of the Dunhari: the settled Kingdom of Amradad on the Vilérian shore and the tribal confederations of the open desert, sharing one faith of fire and light."
 tags: [region]
 data:
   demonym: Dunharan
@@ -25,9 +25,13 @@ data:
 # terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan—the Persian-and-Arabian world. The Kingdom of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 ---
 
-A caravan-master of the southern road, taking on a hired guard from the Vilérian ports, tells him the first rule before they leave the last well: "Eat a man's salt and you are his to protect. Refuse it and you are no one's." The Dunhara Region is the great southern desert of the [[place-ankrscntnnt|Ankaris Continent]]—sand seas, rocky mesas, dry riverbeds and hidden oases—running from the eastern shore of the [[place-vylarianse|Vilérian Sea]], opposite the islands of [[place-taruzelrgn|Taruzel]], to the foothills below the western end of [[place-graznmntns|the Grazian wall]], where the desert gives way to the marches of [[place-vedyarargn|Vedyara]]. It is the country of the Dunhari, a confederation of tribes whose caravans carry the southern overland trade, whose poets keep their law in verse, and whose honor code lets people who have every reason to kill each other over water cross the same desert in peace.
+## Overview {#overview}
 
-An outsider remembers the Dunhara for its caravans and its poets. The desert holds few people and a great deal of culture, and it is entirely unimpressed by the settled kingdoms at its edges.
+The Dunhara Region is the great southern desert of the [[place-ankrscntnnt|Ankaris Continent]] and the country of the Dunhari, one people living two ways: the settled [[affiliation-kngdmmrdd|Kingdom of Amradad]] in the northwest, from the Vilérian shore inland, and the [[affiliation-dunhartrbs|Dunhara Tribes]] of the open desert, who range everything else and answer to no king. Sand seas, rocky mesas, dry riverbeds and hidden oases run from the eastern shore of the [[place-vylarianse|Vilérian Sea]], opposite the islands of [[place-taruzelrgn|Taruzel]], to the foothills below the western end of [[place-graznmntns|the Grazian wall]], where the desert gives way to the marches of [[place-vedyarargn|Vedyara]].
+
+About three million people live in it. Some two million are Amradi, subjects of the Shebarader, and most of them live in the oasis villages, along the wadis and in the herders' camps of the dry pasture around its towns and two cities: [[place-shebarakhend|Shebarakhend]], the seat of the court, and [[place-tahrodan|Tahrodan]], the toll fortress at the crossroads. About a million belong to the tribes.
+
+The two halves share one blood, one faith and one tongue, and they live off each other. The caravan roads of the interior cross the tribes' country, pay their toll at Tahrodan and come down to the sea at [[place-valmakhend|Valmakhend]], and the Kingdom buys the tribes' herds and escorts with grain and iron. The Shebarader claims authority over every Dunhari people, and the tribes have never granted it. A sovereign kingdom beside independent tribes is the arrangement both live by, and it has held since the Kingdom was founded about 220 AF.
 
 ## Geography {#the-land}
 
@@ -45,7 +49,7 @@ Three customs hold the desert together. **Salt**: a tribe must protect a strange
 
 The poets are the Dunhara's great achievement. Genealogy, history, legal precedent and the terms of every treaty with other tribes and distant empires are kept in verse and handed down by the tribal poets, who are the keepers of law and identity. A poet can recite for days without repeating himself, and composing verse is a mark of nobility. Written records exist and count for little. [[lore-dunhariclt|Dunhari]] sets out the customs in full.
 
-The settled people of Amradad are of Dunhari stock and have grown apart from their cousins. The tribes admire the wealth of the cities and despise the softness of a settled life, and the Amradi return both opinions. The Kingdom is sovereign and the tribes are independent, and the arrangement has held for centuries.
+The settled people of Amradad are of Dunhari stock and have grown apart from their cousins. The tribes admire the wealth of the cities and despise the softness of a settled life, and the Amradi return both opinions. [[lore-dunhariclt#the-amradi|Dunhari]] sets out how the Amradi differ from the tribes.
 
 A few [[lore-flkkhazar|Khazari]] halls are rumored in the mountain margins, and now and then a [[lore-flksenali|Senali traveler]] is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
 
@@ -61,9 +65,17 @@ The holy places are features of the land: certain oases, rock formations, mesa-t
 
 The desert has no single ruler. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit. They join against an outside threat and quarrel among themselves the rest of the time, and the balance has held for centuries. The [[affiliation-dunhartrbs|Dunhara Tribes]] describes the confederations and the councils where they meet.
 
-The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary shebarader, a standing army and a court modeled on the old cities of the Ashaian faith, and it holds the northwestern corner from the Vilérian shore inland: its walled cities, their oases and the roads between them. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
+The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary Shebarader, a standing army and a court modeled on the old cities of the Ashaian faith, and it holds the northwestern corner from the Vilérian shore inland: its walled cities, their oases and the roads between them. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
 
 The [[affiliation-ordoarcanis|Thordimalon]] has no footing here. The tribes call it a Vilérian institution with no standing in their country, and the Arcane Order gave up trying to found chapters long ago. Magic in the Dunhara comes through faith and blood: the mystics, the poets held to be blessed, the storm-cult practitioners and the sheikhs' houses that claim a gift running in the line.
+
+## Current Situation {#present}
+
+The land's quarrels run along its seams. In Shebarakhend, four [[affiliation-khzrncnfdrtn|Tellumi]] princely houses keep their courts in exile on the Shebarader's courtesy, outspend the court's great houses and press the throne for privileges the great houses want refused. The Shebarader needs both sides: the great houses run his realm, and the Tellumi merchant-houses carry a large share of the trade his treasury taxes.
+
+Between the Kingdom and the tribes the question is the compact. Amradi envoys offer grain and iron for escort on the roads into the Kingdom, and the common council of the tribes at [[place-ghavulavad|Ghavulavad]] argues the offer at every sitting and binds nobody. The northern circuits, who eat Amradi bread every winter, want it sworn, and the tribes whose Keepers of the Feud carry a tally of blood the Amradi owe refuse to sit at a fire with the envoys. A treaty that holds at one well can be broken at the next, and [[place-qarvelakhend|Qarvelakhend]], where the herds come in, feels a broken one first.
+
+The tribes' own authorities are stalled. The storm cults' Council of Elders is deadlocked, because [the Wind-Readers]{.name data-type="affiliation"} and [the Lightning-Marked]{.name data-type="affiliation"} each withhold assent from what the other proposes, over the salt toll on the [Pale Floor]{.name data-type="place/feature"} and the readings the Lightning-Marked keep to themselves. No ruling passes, and the summons the northern chieftains want for a [[lore-sowidesclt|Sovidur]] storm-shaman preaching in their camps waits with the rest. In the south, [The Unrecited]{.name data-type="affiliation/criminal"} strike the caravans of the southern circuit, and herders at the edge of the Pale Floor say a voice in the storm draws their own people out across the flat. [[place-mezhvadez|The Dry Stair]] stands open in the dunes, and its grave-goods go to the buyers of Qarvelakhend and west through the caravans of [[affiliation-theashroad|the Ash Road]] to [[place-qudumel2|Kudumel]]. The Road's boss, who rules it alone with the merchants of Kudumel as advisers, wants a guide who has been down the stair. Whether the [Old Promise]{.name data-type="lore/custom"} lets the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] ride against any of it is the open question, and the southern tribes carry it to the Stone of Ranaz at the next season-turn.
 
 ## Trade {#roads-and-trade}
 
