@@ -6359,7 +6359,7 @@ Tantsou is a language isolate with no widely-accepted external relatives. Older 
 
 **Imperial Dialect:** The prestige standard, spoken in the capital and taught in formal education. Keeps the full classical melody and every classical grammatical form.
 
-**Northern Tantsou:** The speech of the northern marches along the [[place-grkrhlmrgn|Grukarholm]] frontier, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
+**Northern Tantsou:** The speech of the northern marches along the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
 
 **Southern Tantsou:** Spoken in the agricultural and mercantile south. The melody is flatter, speech rhythms run faster, and trade languages lend more words.
 

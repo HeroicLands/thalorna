@@ -77,7 +77,7 @@ To the southwest, beyond the eastern arc of the Grazian Mountains, contact with 
 
 To the west, beyond the mountain passes, the Khazrin Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
 
-To the north, the frontier toward the [[place-grkrhlmrgn|Grukarholm Region]] is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the [Black Wilds]{.name data-type="place/region"}, is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern provinces.
+To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the [Black Wilds]{.name data-type="place/region"}, is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern provinces.
 
 ## See Also {#see-also}
 
@@ -111,8 +111,8 @@ To the north, the frontier toward the [[place-grkrhlmrgn|Grukarholm Region]] is 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : western buffer
 
-[[place-grkrhlmrgn|Grukarholm Region]]
-: northern frontier
+[[lore-grukarfolk|Grukar Folk]]
+: the raiders of the northern frontier
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent

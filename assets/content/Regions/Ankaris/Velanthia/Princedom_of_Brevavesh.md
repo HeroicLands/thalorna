@@ -167,7 +167,7 @@ The prince is [Krodogor Brevogorich]{.name data-type="being/npc"}. He rules by t
 
 ## Current Situation {#present}
 
-The prince cannot feed his garrisons from his own fields, since the ground beside the Grukar country gives no returns to the plow, so by agreement the lowland prince sends grain to his forts and the port prince sends the silver that pays his wardens. Both deliveries are late. The wardens answer by selling a night's passage to a fur hunter and a day's leave to a villager, and the margin is watched by tired men who are owed several months. Varokh war-bands raid across the forest edge in autumn, captives taken in them are ransomed when a family or a prince will pay, and those nobody ransoms go down Vristwald's rivers. The Grukar, whom no one bargains with, press the margin from the north-east. The prince has no bargain with a nest and wants none.
+The prince cannot feed his garrisons from his own fields, since the ground beside the Grukar country gives no returns to the plow, so by agreement the lowland prince sends grain to his forts and the port prince sends the silver that pays his wardens. Both deliveries are late. The wardens answer by selling a night's passage to a fur hunter and a day's leave to a villager, and the margin is watched by tired men who are owed several months. Varokh war-bands raid across the forest edge in autumn, captives taken in them are ransomed when a family or a prince will pay, and those nobody ransoms go down Vristwald's rivers. The Grukar, whom no one bargains with, press the margin from the north-west. The prince has no bargain with a nest and wants none.
 
 ## History {#history}
 

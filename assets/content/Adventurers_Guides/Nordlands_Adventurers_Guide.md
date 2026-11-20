@@ -26,7 +26,7 @@ Five kingdoms share this coast, one tongue, one pantheon and one assembly. No em
 
 [[affiliation-kingdomlgn|Malagna]] faces the open ocean and trades farther abroad than any of its sisters. The shipwrights of [[place-gnarthborg|Gnarthborg]] build the finest longships in the north and show a foreign buyer every hull in the yard except how the keel was cut. Malagna is Nordheim's old rival for leadership, and two great clans, the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafanvar|Hrafanvar]], still disagree over a killing in a shipyard three generations ago.
 
-[[affiliation-kingdmtrgd|Targud]] holds its frontier against the [[lore-grukarfolk|Grukar Folk]] of the [[place-grkrhlmrgn|Grukarholm Region]]. Every free farmer stands his weeks of fort-duty in turn, and nobody in Targud reaches middle age without having held a wall. No Grukar nest sells peace or ransoms back a captive.
+[[affiliation-kingdmtrgd|Targud]] holds its frontier against the [[lore-grukarfolk|Grukar Folk]]. Every free farmer stands his weeks of fort-duty in turn, and nobody in Targud reaches middle age without having held a wall. No Grukar nest sells peace or ransoms back a captive.
 
 [[affiliation-kngdmvthgrd|Vithgard]], small and scattered along the western coast, hunts the whale and the seal and lights half the halls of the north with its oil. All five kingdoms seek its seers, and its coast once burned eleven people for working the winds after a winter when the whales did not come.
 

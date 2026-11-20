@@ -86,7 +86,9 @@ The result is a costly frontier without the returns other frontiers offer. No ca
 
 ## Current Situation {#present}
 
-The nests hold the country and no neighbor contests it with an army. Targud keeps its fort-rotation, the Skathwald villages spend on their walls, and Velanthia's paid forts watch the raiding paths from the southeast. Fur hunters work the margins and come out with what they can carry. Raids come as small parties along the rivers and the cause-walks; the tribes' own fighting keeps their numbers below what the land could feed, and none of them has combined with another.
+The nests hold the country and no neighbor contests it with an army. The Skathwald villages spend on their walls. On the Velanthian side the stone forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] watch the raiding paths from the southeast. Their prince, [Krodogor Brevogorich]{.name data-type="being/npc"}, appoints every warden and cannot pay them on time, and the wardens, paid, tired and owed months, sell a night's passage to the fur hunters who work the margins. The hunters come out with what they can carry, and a hunter who goes in past the last fort is on his own: no warden follows him and no nest bargains with him.
+
+Raids come as small parties along the rivers and the cause-walks, and the villages beneath the forts ring their bells and burn signal fires as each party passes. The tribes' own fighting keeps their numbers below what the land could feed, and none of them has combined with another.
 
 ## History {#history}
 
@@ -98,7 +100,7 @@ Grukarholm lies south of [[place-norgaad|Norgaad]] and southwest of [[place-mala
 
 The eastern edge of Vristwald lies within this area. The stretch called Skathwald is where Grukar nests become more prevalent within Varokh forest, with no border to cross. Grukar-Varokh relations are uniformly hostile. Villages there endure repeated small incursions rather than a war with a single front, and a person taken cannot be recovered through ransom.
 
-Velanthia lies on the southeastern side of the thickest Grukar country, which overlies its northwestern reaches. Velanthia is raided from the nests and avoids them. Its river-princes pay for stone forts against the Grukar, the wardens are paid, tired and corruptible, and the villages beneath the forts ring bells and burn signal fires along the same raiding paths the Varokh watch. A Sha may understand a warning, but no Velanthian prince can make an agreement that binds a nest or the other tribes behind it.
+Velanthia lies on the southeastern side of the thickest Grukar country, which overlies its northwestern reaches. Velanthia is raided from the nests and avoids them. Its river-princes, chiefly the prince of [[affiliation-prncdmbrvvsh|Brevavesh]], pay for stone forts against the Grukar, the wardens are paid, tired and corruptible, and the villages beneath the forts ring bells and burn signal fires along the same raiding paths the Varokh watch. A Sha may understand a warning, but no Velanthian prince can make an agreement that binds a nest or the other tribes behind it.
 
 ## See Also {#see-also}
 
@@ -119,6 +121,12 @@ Velanthia lies on the southeastern side of the thickest Grukar country, which ov
 
 [[place-velanthrgn|Velanthia Region]]
 : its northwestern reaches lie within the area
+
+[[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]
+: the river-prince whose paid forts watch the frontier
+
+[[place-grimak|Grimak]]
+: the blood-field in Skathwald, where a Grukar nest was burned
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
