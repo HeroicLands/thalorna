@@ -40,7 +40,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Who Sits {#who-sits}
 
-There are perhaps a dozen Great Houses. Among them stand House Khalath-Mara, the oldest and most prestigious, whose ancestral seat is at [[place-ashira|Oshira]]; House Bera-Sehel, horse-breeders and suppliers to armies; and House Othris-Khanu, the principal shipping House. The matriarchs are themselves Dómissai who sit in the Council of Houses, and many sit in the Sacred College besides: the institutions are distinct and the women who staff them are not. Its senior voice by age and precedence is Matriarch [Aselia]{.name data-type="being/npc"} of House Khalath-Mara, who has held her seat for thirty-five years and is the dominant voice when she chooses to speak.
+There are perhaps a dozen Great Houses. Among them stand House Khalath-Mara, the oldest and most prestigious, whose ancestral seat is at [[place-ashira|Oshira]]; House Bera-Sehel, horse-breeders and suppliers to armies; and House Othris-Khanu, the principal shipping House. The matriarchs are themselves Dómissai who sit in the Council of Houses, and many sit in the Sacred College besides: the institutions are distinct and the women who staff them are not. Its senior voice by age and precedence is Matriarch [[being-aseliakhlthmr|Aselia of House Khalath-Mara]], who has held her seat for thirty-five years and is the dominant voice when she chooses to speak.
 
 ## How It Decides {#how-it-decides}
 

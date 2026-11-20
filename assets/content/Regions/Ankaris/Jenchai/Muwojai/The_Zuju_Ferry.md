@@ -27,7 +27,7 @@ There is a landing on each bank and a toll house at Zuju. The ferrymen work the 
 
 ## Who Is There {#who-is-there}
 
-The toll-keepers are [Muwojai Chaiwo]{.name data-type="being/npc"}'s servants, and they enter the name of every party that goes over, with its size and its errand when it states one. They record who crosses and what it carries, and they do not break seals.
+The toll-keepers are [[being-chaiwomuwoj|Muwojai Chaiwo]]'s servants, and they enter the name of every party that goes over, with its size and its errand when it states one. They record who crosses and what it carries, and they do not break seals.
 
 ## The Present {#present}
 
@@ -54,3 +54,9 @@ A sealed letter from the throne bound for [[place-hawu|Hawu]] must cross here to
 
 [[place-lengwou|Lengwou]]
 : the capital at the end of the road
+
+[[scenario-ltrforhawu|A Letter for Hawu]]
+: a scenario: the Emperor's sealed answer to a petition, crossing Muwojai's ferry on its way to the lord who petitioned
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

@@ -59,3 +59,6 @@ The hull lies on the reef below the cape shrine, in sight of the shore.
 
 [[affiliation-raogui|Raugwi]]
 : the Minister of Storms
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

@@ -19,7 +19,7 @@ The Purple Veil is the regalia of the Metrissa, a mantle and a face-veil dyed in
 
 ## Who Holds It {#who-holds-it}
 
-The reigning Metrissa wears it, and no one else may. She is [Amithena]{.name data-type="being/npc"} of [House Kervanion]{.name data-type="affiliation/lineage"}, raised to the Veil by election of [the Sacred College]{.name data-type="affiliation/governmental"} and confirmed by the oracle of the [[affiliation-zunelas|Faith of Zunelas]].
+The reigning Metrissa wears it, and no one else may. She is [[being-amithenakrvn|Amithena of House Kervanion]], raised to the Veil by election of [the Sacred College]{.name data-type="affiliation/governmental"} and confirmed by the oracle of the [[affiliation-zunelas|Faith of Zunelas]].
 
 The Veil is the throne itself, said as a phrase. To take the Veil is to be raised to the throne, and to set it down is to abdicate or die. It passes by election within the female line, from one consecrated priestess of the [[affiliation-lusinia|Faith of Lusinia]] of the sacred royal line to the next, and never by simple inheritance. A sovereign cannot name an heir, so the Veil has no one waiting for it.
 

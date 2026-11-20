@@ -149,6 +149,36 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 
 ## See Also {#see-also}
 
+[[place-zhtvsh|Zhitavesh]]
+: seat of the grain princedom
+
+[[place-brlvsh|Brelavesh]]
+: the river-port city
+
+[[place-brvvsh|Brevavesh]]
+: seat of the frontier princedom
+
+[[place-dbrvsh|Dobravesh]]
+: the lowland's granary-monastery town
+
+[[place-tvskvsh|Tveskavesh]]
+: the pass market at the range
+
+[[place-rdvsh|Radavesh]]
+: the landing of the Vristwald fur boats
+
+[[place-vlkvsh|Volkavesh]]
+: seat of the Tarvál Host
+
+[[place-tvsknv|Tveskanov]]
+: seat of the Sevret Host
+
+[[place-krdshv|Krodashov]]
+: seat of the Khorad Host
+
+[[place-smkrv|Semukarov]]
+: the river community the Soqritur hold
+
 [[place-nrdlndsrgn|Nordlands Region]]
 : western neighbor
 
@@ -172,6 +202,9 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 
 [[lore-hostsforpay|The Hosts Take Pay]], [[lore-northernwar|The Border War with the Jarls]], [[lore-leanyear|The Year of the Barns]], [[lore-tarvalturn|The Tarvál Host Changes Sides]]
 : the history of the Hosts, the frontier and the granaries
+
+[[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
+: the paid river-prince forts that watch the Grukar country
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : eastern-shore trading partner

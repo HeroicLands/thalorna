@@ -33,7 +33,7 @@ The nest is short of Hushk and short of food, and a Hushk clutch costs more prov
 
 The clan whose glen it was wants it back, and its war-chief has asked the tribe's War-Leader, [[being-bronnakh|Bronnakh]], for spears to take it. Bronnakh needs every spear against Stormveld.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 Vuldstead's forest-edge watch, which shoots at anything in the trees. The Kelgar clan that wants its glen back. The nest at Hazelbrake, whose spawner cannot follow its stolen reserve and does not forget it either.
 

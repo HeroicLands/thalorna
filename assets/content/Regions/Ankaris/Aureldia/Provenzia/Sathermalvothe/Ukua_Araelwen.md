@@ -40,7 +40,7 @@ What the forest is, and why its time is slow, is not known to anyone who has com
 
 The Royal Loremaster [[being-aelithraenewyn|Áelithra Énevin]] holds the scroll and wants a party to carry the [[miscgear-temprlcmpss|Temporal Compass]] into the forest and bring the Heart out. The Wardens know she wants it. The posts on the Provénzia side have been doubled this season, and a pair of Order agents is camped at the margin on the Élavendre side with a map they bought.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The Wardens.** They warn once at the margin and do not warn again. They count the Compass as a working.
 - **The time.** A party that comes out finds its kin older, its debts due and its news stale. A day inside can be a month outside.

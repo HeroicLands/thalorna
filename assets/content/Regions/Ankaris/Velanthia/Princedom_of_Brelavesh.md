@@ -49,16 +49,6 @@ data:
   population: null
   territorial_population: 550000
   settlements:
-    - settlement: Radavesh
-      polity: affiliation-prncdmbrlvsh
-      location: place-velanthrgn
-      type: town
-      fortification: palisade
-      stronghold: null
-      holder: affiliation-prncdmbrlvsh
-      population: 4000
-      market: regional
-      notes: "A river landing where the fur boats of the northern forest unload."
     - settlement: Boskavesh
       polity: affiliation-prncdmbrlvsh
       location: place-velanthrgn
@@ -109,7 +99,7 @@ sohl: {system: {commonSkills: [velanthlng]}}
 
 ## Overview {#overview}
 
-The Princedom of Brelavesh holds the river-port where Velanthia meets everyone else. Grain barges from the lowlands, fur boats from the northern forest and the horse-traders of the Khazrin all come to its quays, and the merchant houses that handle them are richer than most of the princes' vassals. The port is the one city in the land, and the prince is the only one of the three whose wealth is silver. The princedom lies on the central river below the grain lowlands, and its land runs east to the caravan roads of the Hosts' country. About 550,000 people live on it, 120,000 of them in the country of the [[affiliation-hsttrvl|Tarvál Host]], which holds its eastern roads under the prince. The seat is [[place-brlvsh|Brelavesh]].
+The Princedom of Brelavesh holds the river-port where Velanthia meets everyone else. Grain barges from the lowlands, fur boats from the northern forest and the horse-traders of the Khazrin all come to its quays, and the merchant houses that handle them are richer than most of the princes' vassals. The port is the one city in the land, and the prince is the only one of the three whose wealth is silver. The princedom lies on the central river below the grain lowlands, and its land runs east to the caravan roads of the Hosts' country. About 550,000 people live on it, 120,000 of them in the country of the [[affiliation-hsttrvl|Tarvál Host]], which holds its eastern roads under the prince. The seat is [[place-brlvsh|Brelavesh]], and the fur boats of the northern forest unload at the landing town of [[place-rdvsh|Radavesh]].
 
 ## How It Is Ruled {#how-it-is-ruled}
 
@@ -127,6 +117,9 @@ The port grew where the three trades met, and the house that holds it has held i
 
 [[place-brlvsh|Brelavesh]]
 : the seat
+
+[[place-rdvsh|Radavesh]]
+: the landing of the fur boats
 
 [[affiliation-hsttrvl|Tarvál Host]]
 : the Host on its eastern roads

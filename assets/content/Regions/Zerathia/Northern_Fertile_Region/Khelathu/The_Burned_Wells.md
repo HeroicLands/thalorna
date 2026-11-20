@@ -30,7 +30,7 @@ The host that struck the eastern road in 315 AF took the northern wells for wate
 
 A ring of dry wells and stone. The road bends round it, and a caravan driver who goes through is told by the guides to go round. The garrison and the clans each blame the other, and a party hired to clear the wells reopens the argument: whichever side the party serves, the other holds it spoiled the evidence. The water would be welcome. The wells of Khuqet-Miglet are the empire's road to the desert, and caravans want every well the march can give them.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 The march is a garrisoned desert land-bridge held for the road that crosses it. The forts are close, and so are the Dunhari families who water beside them.
 

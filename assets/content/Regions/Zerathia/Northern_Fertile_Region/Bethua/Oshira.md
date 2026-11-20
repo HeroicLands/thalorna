@@ -32,7 +32,7 @@ Oshira lives by wine and oil. The vineyards of the coastal hills and the groves 
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The town stands in the coastal canton of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], and the Hégissa [Ibinetha]{.name data-type="being/npc"} holds its courts and its levy in the Metrissa's name. In Oshira her word and the House's overlap, and a dispute between a ship's master and a factor of Khalath-Mara goes to a court whose judge dines at the House's table. Matriarch [Aselia of House Khalath-Mara]{.name data-type="being/npc"}, the senior voice of the [[affiliation-councilmatriarchs|Council of Matriarchs]], keeps her family seat here and is more often at Bethura than at home. [[affiliation-bethuanflt|The Bethuan Fleet]] holds the Harbor-Mistress answerable for the convoy berths. The scholar [[being-juthrjmthn|Júthara Jamithon]] makes her home in the town.
+The town stands in the coastal canton of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], and the Hégissa [[being-ibinethsufrs|Ibinetha of House Sufiris]] holds its courts and its levy in the Metrissa's name. In Oshira her word and the House's overlap, and a dispute between a ship's master and a factor of Khalath-Mara goes to a court whose judge dines at the House's table. Matriarch [[being-aseliakhlthmr|Aselia of House Khalath-Mara]], the senior voice of the [[affiliation-councilmatriarchs|Council of Matriarchs]], keeps her family seat here and is more often at Bethura than at home. [[affiliation-bethuanflt|The Bethuan Fleet]] holds the Harbor-Mistress answerable for the convoy berths. The scholar [[being-juthrjmthn|Júthara Jamithon]] makes her home in the town.
 
 ## The Present {#present}
 

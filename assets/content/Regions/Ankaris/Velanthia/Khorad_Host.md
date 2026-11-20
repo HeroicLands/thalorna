@@ -43,21 +43,10 @@ data:
         Carries the Host's gifts and ransoms across the frontier and treats with the steppe tribes.
       Horse-Master: >-
         Keeps the Host's herds and the breeding of its crossbred horses.
-  seat: null
-  range: [velanthrgn]
+  seat: krdshv
   population: null
   territorial_population: 80000
   settlements:
-    - settlement: Krodashov
-      polity: affiliation-hstkhrd
-      location: place-velanthrgn
-      type: town
-      fortification: palisade
-      stronghold: null
-      holder: affiliation-hstkhrd
-      population: 2500
-      market: local
-      notes: "The Host's muster town on the steppe margin, where the Host holds its gatherings."
     - settlement: Ovranov
       polity: affiliation-hstkhrd
       location: place-velanthrgn
@@ -88,7 +77,7 @@ sohl: {system: {commonSkills: [velanthlng]}}
 
 ## Overview {#overview}
 
-The Khorad Host is the Velanthian Host of the open steppe margin, the one nearest the tribes of the Khazrin and the one the princes use to speak to them. It breeds the crossbred horses the steppe prizes and the western cavalry buys, and it holds the eastern edge of the land with mounted patrols. About 80,000 people live in its country, which lies inside the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]].
+The Khorad Host is the Velanthian Host of the open steppe margin, the one nearest the tribes of the Khazrin and the one the princes use to speak to them. It breeds the crossbred horses the steppe prizes and the western cavalry buys, and it holds the eastern edge of the land with mounted patrols. About 80,000 people live in its country, which lies inside the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]. Its seat is the muster town of [[place-krdshv|Krodashov]].
 
 ## How It Is Ruled {#how-it-is-ruled}
 
@@ -96,13 +85,19 @@ The Host takes its name from its founding ataman, and the office passes in his l
 
 ## Current Situation {#present}
 
-The Host has told the river communities on the frontier to stop paying the tribes and has sent its riders to say so. The community held by the [[affiliation-sqrtrtrb|Soqritur]] answers that it is protected for what it pays, and the tribe answers with riders of its own. The ataman wants the toll the communities pay for himself and the pay he is owed by the prince for his patrols; the prince wants neither quarrel. Each side watches which way the ataman turns.
+The Host has told the river communities on the frontier to stop paying the tribes and has sent its riders to say so. The community of [[place-smkrv|Semukarov]], held by the [[affiliation-sqrtrtrb|Soqritur]], answers that it is protected for what it pays, and the tribe answers with riders of its own. The ataman wants the toll the communities pay for himself and the pay he is owed by the prince for his patrols; the prince wants neither quarrel. Each side watches which way the ataman turns.
 
 ## History {#history}
 
 The Host's grass was overrun by the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), and its settlers returned to it afterward, with their founding line intact ([[lore-hostsforpay|The Hosts Take Pay]]).
 
 ## See Also {#see-also}
+
+[[place-krdshv|Krodashov]]
+: the seat
+
+[[place-smkrv|Semukarov]]
+: the river community the Soqritur hold
 
 [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 : the prince it serves
