@@ -94,7 +94,7 @@ The country's history is told through two of its worst disasters. About 532 AF a
 
 ## Relations with Neighboring Regions
 
-The [[place-nrdlndsrgn|Nordlands]] kingdoms of [[place-targud|Targud]] and [[place-malagna|Malagna]] lie directly north; the rest of the Nordlands lies beyond them and beyond the western Vristwald reaches. Nordmal accounts remember Grukar raids and punitive expeditions, but no Nordmal kingdom draws a line around the Grukar nests. The worst raid in their memory was one tribe and not a league: from 604 to 614 a tribe whose Sha had watched [[affiliation-kingdmtrgd|Targud]]'s frontier for seasons spawned for war, burned the kingdom's east and then spent itself in its own quarrels ([[lore-burningeast|The Burning of the East]]).
+Grukarholm lies south of [[place-norgaad|Norgaad]] and southwest of [[place-malagna|Malagna]] in the [[place-nrdlndsrgn|Nordlands]]; [[place-targud|Targud]] lies farther northeast and has no border with it, and the rest of the Nordlands lies beyond them and beyond the western Vristwald reaches. Nordmal accounts remember Grukar raids and punitive expeditions, but no Nordmal kingdom draws a line around the Grukar nests. The worst raid in their memory was one tribe and not a league: from 604 to 614 a tribe whose Sha had watched [[affiliation-kingdmtrgd|Targud]]'s frontier for seasons spawned for war, burned the kingdom's east and then spent itself in its own quarrels ([[lore-burningeast|The Burning of the East]]).
 
 The eastern edge of Vristwald lies within this area. The stretch called Skathwald is where Grukar nests become more prevalent within Varokh forest, with no border to cross. Grukar-Varokh relations are uniformly hostile. Villages there endure repeated small incursions rather than a war with a single front, and a person taken cannot be recovered through ransom.
 
@@ -112,7 +112,7 @@ Velanthia lies on the southeastern side of the thickest Grukar country, which ov
 : body language and scent, with sounds only for emphasis
 
 [[place-nrdlndsrgn|Nordlands Region]]
-: Targud and Malagna directly north, the rest beyond them
+: Norgaad directly north and Malagna to the northeast; Targud farther northeast, with no border
 
 [[place-vrystwald|Vristwald]]
 : Varokh forest whose eastern edge the area overlies
