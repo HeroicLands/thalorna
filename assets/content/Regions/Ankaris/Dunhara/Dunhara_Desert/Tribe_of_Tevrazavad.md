@@ -23,7 +23,13 @@ data:
         title: Tribesman
         description: >-
           Belongs to the tribe that holds the Oasis of Tevrazavad.
-    offices: {}
+      - level: 2
+        title: Chieftain
+        description: >-
+          Holds the tribe by the consent of its council, and keeps the council through which it governs itself.
+    offices:
+      Chieftain: >-
+        Head of the tribe and keeper of its council, whom other sheikhs trust to hear their quarrels at the oasis camp.
   seat: oasistvrzvd
   population: null
   territorial_population: 600

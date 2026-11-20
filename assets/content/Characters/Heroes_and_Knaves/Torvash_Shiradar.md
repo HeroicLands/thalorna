@@ -12,7 +12,10 @@ data:
   lore: []
   culture: dunhariclt
   homes: [oasistvrzvd]
-  affiliations: {dunhartrbs: {rank: 6}, zurathra: {rank: 1}}
+  affiliations:
+    dunhartrbs: {rank: 6, office: Chieftain}
+    trbtvrzvd: {rank: 2, office: Chieftain}
+    zurathra: {rank: 1}
   gender: male
   species: humanflk
   born: 664.353

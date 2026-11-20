@@ -3,7 +3,7 @@ shortcode: yeserapariva
 name: {full: Yesera Parivan, en: [Lady Yesera Parivan, Lady Yesera]}
 type: being
 subType: npc
-description: Commander of the Kingdom's maritime exploration division in the Royal Survey Corps, named in Rosharan Barmandan.
+description: An officer of the Amradi court who charts the Kingdom's coast for the Shebarader and funds Rosharan Barmandan's most experimental vessels.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -42,4 +42,4 @@ Yesera Parivan is a 41-year-old woman who stands 6'1" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Yesera Parivan, styled Lady, is the commander of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]'s maritime exploration division in the [Royal Survey Corps]{.name data-type="affiliation"}. She has become a consistent client and enthusiastic advocate of [[being-rshrnbrmndn|Rosharan Barmandan]], funding her most experimental work in exchange for first access to new designs.
+Yesera Parivan, styled Lady, is an officer of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]'s court who charts the Kingdom's coast for the Shebarader and commissions the vessels that sail it. She has become a consistent client and enthusiastic advocate of [[being-rshrnbrmndn|Rosharan Barmandan]], funding her most experimental work in exchange for first access to new designs.

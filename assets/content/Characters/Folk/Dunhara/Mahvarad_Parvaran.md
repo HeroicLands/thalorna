@@ -13,7 +13,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: []
-  affiliations: {}
+  affiliations: {dunhartrbs: {rank: 6, office: Chieftain}}
   gender: male
   species: humanflk
   born: "675.200"

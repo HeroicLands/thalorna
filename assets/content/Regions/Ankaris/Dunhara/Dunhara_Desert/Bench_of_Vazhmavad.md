@@ -43,7 +43,7 @@ data:
 sohl: {system: {commonSkills: [dunharlng]}}
 ---
 
-The **Bench of Vazhmavad** is the company of judging poets at [[place-vzhmvd|Vazhmavad]], the weighing-place, an oasis of date palms on the southern circuit of the [[place-dunhardsrtrgn|Dunhara Desert]]. When two tribes of the [[affiliation-dunhartrbs|Dunhara Tribes]] bring their recitations in dispute, the poets of a third tribe sit on the low stone benches under the largest palm and weigh which memory is sound. The bench is the only body the oasis has, and it is held now by one of its own poets, [Melkhur]{.name data-type="being/npc"}.
+The **Bench of Vazhmavad** is the company of judging poets at [[place-vzhmvd|Vazhmavad]], the weighing-place, an oasis of date palms on the southern circuit of the [[place-dunhardsrtrgn|Dunhara Desert]]. When two tribes of the [[affiliation-dunhartrbs|Dunhara Tribes]] bring their recitations in dispute, the poets of a third tribe sit on the low stone benches under the largest palm and weigh which memory is sound. The bench is the only body the oasis has, and it is held now by one of its own poets, [[being-mlkhr|Melkhur]].
 
 ## Who Decides
 

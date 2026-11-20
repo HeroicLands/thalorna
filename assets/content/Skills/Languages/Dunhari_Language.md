@@ -5975,6 +5975,7 @@ data:
         - "kaivonad"
         - "mahvarad"
         - "shurnav"
+        - "darmun"
     clan:
       - "afsheran"
       - "ferudan"
@@ -6004,6 +6005,10 @@ data:
       - "gazvan"
       - "baravi"
       - "tamiran"
+      - "sivadar"
+      - "khonash"
+      - "parvandar"
+      - "mazhen"
   sounds:
     edges:
       - {edge: closeConsonant, sounds: [n, r, d, z, sh, kh, k, m, h, v, s]}
@@ -6239,6 +6244,19 @@ data:
     - {name: Holder of the Oasis, tongue: translation}
     - {name: Truce-Warden of the Weighing, tongue: translation}
     - {name: tevrazavad, tongue: dunhari}
+    - {name: Keeper of the Basin, tongue: translation}
+    - {name: samardan sivadar, tongue: dunhari}
+    - {name: The Shebarader, tongue: translation}
+    - {name: sharanaz khonash, tongue: dunhari}
+    - {name: The Speaker, tongue: translation}
+    - {name: darmun parvandar, tongue: dunhari}
+    - {name: The Tagemader of Shebarakhend, tongue: translation}
+    - {name: ghezrun mazhen, tongue: dunhari}
+    - {name: The Tagemader of Tahrodan, tongue: translation}
+    - {name: melkhur, tongue: dunhari}
+    - {name: mehrava, tongue: dunhari}
+    - {name: vahrun marzuvan, tongue: dunhari}
+    - {name: The Self-Styled Master of the Tower, tongue: translation}
     - {name: dorvakhend, tongue: dunhari}
     - {name: rezhakhend, tongue: dunhari}
     - {name: morvadez, tongue: dunhari}

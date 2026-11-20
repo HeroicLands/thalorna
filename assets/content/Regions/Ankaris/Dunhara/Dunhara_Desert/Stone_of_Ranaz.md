@@ -20,7 +20,7 @@ The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] share the shrine. 
 
 ## History {#history}
 
-The Council’s authority was challenged by [Vahrun Marzuvan]{.name data-type="being/npc"}, a storm-walker who took the title Master of the Tower and claimed to be a vessel of Bazhrámish without the gathered elders’ assent. The Council denounced him. His iron crown was his own work; the elders never gave him a vessel’s torc ([[lore-vahrundenun|The Denunciation of Vahrun Marzuvan]]). The Warrior's Circle heard its two petitions against a Dunhari tribe here, and refused both under the Old Promise ([[lore-circlrefusl|The Two Refusals of the Circle]]).
+The Council’s authority was challenged by [[being-vhrnmrzvn|Vahrun Marzuvan]], a storm-walker who took the title Master of the Tower and claimed to be a vessel of Bazhrámish without the gathered elders’ assent. The Council denounced him. His iron crown was his own work; the elders never gave him a vessel’s torc ([[lore-vahrundenun|The Denunciation of Vahrun Marzuvan]]). The Warrior's Circle heard its two petitions against a Dunhari tribe here, and refused both under the Old Promise ([[lore-circlrefusl|The Two Refusals of the Circle]]).
 
 ## The Present {#present}
 

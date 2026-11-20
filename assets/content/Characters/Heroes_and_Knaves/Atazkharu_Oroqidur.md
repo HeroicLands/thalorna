@@ -17,7 +17,10 @@ data:
   lore: []
   culture: sowidesclt
   homes: [kherzulakhem]
-  affiliations: {rqdrtrb: {rank: 3}, korsadra: {rank: 1}}
+  affiliations:
+    rqdrtrb: {rank: 3}
+    kherzlkhmcmp: {rank: 2, office: Keeper of the Basin}
+    korsadra: {rank: 1}
   gender: male
   species: humanflk
   born: 679.59

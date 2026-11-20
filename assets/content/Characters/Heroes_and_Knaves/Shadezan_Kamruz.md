@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [ghavulavad]
-  affiliations: {dunhartrbs: {rank: 6}, bazhramis: {rank: 1}}
+  affiliations: {dunhartrbs: {rank: 6, office: Chieftain}, bazhramis: {rank: 1}}
   socialTies: {affiliation-wrrscrcldnhrtrbs: patron}
   gender: male
   species: humanflk

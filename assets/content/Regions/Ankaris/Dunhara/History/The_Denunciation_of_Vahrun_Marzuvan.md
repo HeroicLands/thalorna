@@ -54,7 +54,7 @@ The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] are five lineages 
 
 ## The Master of the Tower
 
-[Vahrun Marzuvan]{.name data-type="being/npc"} was a storm-walker of the _ghuzmogar_ and a _ruzhogar_ in his own lineage. In the years before about 690 AF he gathered the cults' youngest and boldest on the [[place-palefloor|Pale Floor]] and taught them to call the lightning down on purpose, to the iron spike at the summit of the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]], and to read what he held to be the god's mood from where it fell. He called himself the _Master of the Tower_. No body conferred the title, and the lineages have no office of that name.
+[[being-vhrnmrzvn|Vahrun Marzuvan]] was a storm-walker of the _ghuzmogar_ and a _ruzhogar_ in his own lineage. In the years before about 690 AF he gathered the cults' youngest and boldest on the [[place-palefloor|Pale Floor]] and taught them to call the lightning down on purpose, to the iron spike at the summit of the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]], and to read what he held to be the god's mood from where it fell. He called himself the _Master of the Tower_. No body conferred the title, and the lineages have no office of that name.
 
 Then he claimed to be a vessel of [[lore-bazhramisdty|Bazhrámish]], one in whom the storm god speaks. A vessel is recognized only by the assent of the gathered elders of all five lineages, and the recognition binds every one of them. Vahrun did not ask for it.
 
