@@ -30,6 +30,7 @@ data:
     offices:
       Mervunno: >-
         The conclave's head office. Who holds it, and how, is not known outside the far ridges.
+  seat: hersellonku
   population: {actual: 90, apparent: null}
   territorial_population: {actual: 90, apparent: null}
   economy: []

@@ -30,6 +30,7 @@ data:
     offices:
       Hemmikanno: >-
         The conclave's head office. Who holds it, and how, is not known outside the deep swamp.
+  seat: ilkaivesto
   population: {actual: 110, apparent: null}
   territorial_population: {actual: 110, apparent: null}
   economy: []
