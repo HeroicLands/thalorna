@@ -24,6 +24,18 @@ Khelenet-Zu is where the selat comes to argue. Farmers with a disputed furrow, s
 
 If you come on business, find a scribe before you find an inn. The bureau holds the rolls, and little said in the courts outweighs what is written there.
 
+## What the Town Lives By {#lives}
+
+Khelenet-Zu lives by its litigants. The assize-courts, the temple of Qe'aret and the scribal bureau bring farmers, stewards and heirs from the whole selat, and they pay for lodging, scribes and pleaders. About 6,700 people live in the seat. Two towns keep it supplied: [[place-garzalu|Gar-Zalu]], about 6,400 people on the road to the capital, an assize-market town where litigants lodge while their cases wait, and [[place-lutkhelenet|Lut-Khelenet]], about 7,900, a land-survey town where the scribes who remeasure the fields after each flood train and lodge. The farms of the plain feed all three. Khelenet-Zu sells judgment and records and buys its bread.
+
+## Who Rules and Keeps Order {#who-rules}
+
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Khelenet-Zu keeps his court and granaries here, and the lawyer-priests of Qe'aret sit beside him in the assize. A ruling needs the Halzi'a's seal and the scribal bureau's entry. A bribe that is found out ends a career, and an unsettled boundary can end a family. The danger is the long suit, which drains a farmer's savings into the innkeepers' hands.
+
+## The Present {#present}
+
+After each flood the scribes walk the villages remeasuring the fields, and this year the work is slower and the quarrels longer. A farmer whose field is dry claims a lower render, and the neighbor whose field is wet disputes it. The village headmen come to the assize in numbers, and the courts sit late. The estate-towns pay their render in the sums the courts allow, which are small. The Halzi'a's reports to the capital rest on those rulings. The Overseer of the Granaries at [[place-anlaghzetun|Anlagh-Zetun]] reckons the selat's render after each harvest, and the seat's figures go into his books beside the Measure's two short readings.
+
 ## See Also {#see-also}
 
 [[affiliation-selatkhelntz|The Selat of Khelenet-Zu]]

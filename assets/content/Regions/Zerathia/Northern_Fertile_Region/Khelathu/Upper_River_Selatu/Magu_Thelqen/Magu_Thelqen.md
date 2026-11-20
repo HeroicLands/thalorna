@@ -24,6 +24,18 @@ Magu-Thelqen was laid out all at once, and you can see it. The avenues run strai
 
 The plan is the work of the house of [[affiliation-thelqenrelu|Thelqen'Relu]], the house of the sun, whose two Gar-Auu laid the city out from the chief temple of Uqa'a and ruled from it for a generation. The city began to empty when the great temples of the [[affiliation-qearet|Faith of Qe'aret]] and the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] refused the house's doctrine of one sun behind every god and the court went home to [[place-galezkara|Galezkara]] ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
 
+## What the Town Lives By {#lives}
+
+Magu-Thelqen is a planned city with too few people for its plan. About 5,500 live in it, on the temple's gardens and the estates' grain. [[place-lutthelqen|Lut-Thelqen]], about 4,300 people at the edge of the old city, grows vegetables and figs on the temple's terraces and sells them to the capital's markets, and [[place-garthelqen|Gar-Thelqen]], about 5,200, a half-empty temple town a short ride away, lives on the open lots its people farm between the empty houses. The estates round the town grow the selat's grain. Magu-Thelqen feeds itself from its gardens and its estates and buys little.
+
+## Who Rules and Keeps Order {#who-rules}
+
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Magu-Thelqen keeps his court and granaries here, and the Legha'lutu of the estates hold the land. The empty quarters shelter fugitives, and a squatter in a house that has an owner may find the owner's agent at the door. The danger is the emptiness: a quarter with no watch is a refuge for anything.
+
+## The Present {#present}
+
+The quarters are half empty, and the people who live in them are of two kinds: the estate-dwellers whose families have always lived there, and the families from dry villages who have walked in. The Legha'lutu take the newcomers as bondsmen for their food. The estates' fields are poorer, and the estate-towns' stores are the selat's reserve. The empty temple-city has become a place to shelter. The Halzi'a has done nothing about the newcomers, because the estates need the hands. The Overseer of the Granaries at [[place-anlaghzetun|Anlagh-Zetun]] reckons the selat's render after each harvest, and the seat's figures go into his books beside the Measure's two short readings.
+
 ## See Also {#see-also}
 
 [[affiliation-selatmaguthn|The Selat of Magu-Thelqen]]

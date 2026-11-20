@@ -24,6 +24,18 @@ Lenen-Nezut holds about 5,900 people. It is the capital of [[affiliation-selatle
 
 The Halzi'a's house is [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]], descended from the Gar-Auu who were crowned and buried here ([[lore-thronelnz|the Throne at Lenen-Nezut]]). Their three royal tombs stand on the desert edge above the town as [[place-lnzways|the Lenen-Nezut Ways]], and on the west-bank floodplain below it lies [[place-zelhalzi|Zel-Halzi]], the one stretch of the valley no survey roll gives a line.
 
+## What the Town Lives By {#lives}
+
+Lenen-Nezut lives on horses and rams. About 5,900 people hold the old capital, and the chief temple of Uqa'a and its ram-cult take a share of every herd. [[place-zellenen|Zel-Lenen]], about 6,100 people on the dry plain behind the town, a horse-pasture town with more room for herds than the walled seat, breeds and sells the horses; [[place-yathnezut|Yath-Nezut]], about 5,000, a ram-shrine town upstream, grazes the shrine's herds and farms the river terraces. The breeders buy their barley from the river villages. The seat buys bread and sells remounts, and the horse-fairs are its trade.
+
+## Who Rules and Keeps Order {#who-rules}
+
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Lenen-Nezut is of the house of [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]] and keeps its court and granaries here. The three royal tombs on the desert edge above the town, [[place-lnzways|the Lenen-Nezut Ways]], are kept by his house and not by the crown. The town carries its pride and its poverty together. The danger is the horse sickness: a stud is lost in a week, and the proud families sell their mounts last.
+
+## The Present {#present}
+
+The pasture dries earlier this year, and the herders ask the Halzi'a for water-rights on the canals. The villages hold their harvests close, and the ram-cult's feasts keep the town fed. The Halzi'a gives the water to the temple's herds first and to the breeders' herds second, and the breeders feel the order. Remounts are sold to the buyers who come, at prices that suit the buyers. The Halzi'a's render is short, and he points to the Measure. The Overseer of the Granaries at [[place-anlaghzetun|Anlagh-Zetun]] reckons the selat's render after each harvest, and the seat's figures go into his books beside the Measure's two short readings.
+
 ## See Also {#see-also}
 
 [[lore-thronelnz|The Throne at Lenen-Nezut]]

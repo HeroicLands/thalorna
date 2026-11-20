@@ -26,6 +26,18 @@ Anzet is the capital of [[affiliation-selatanztqlt|the Selat of Anzet-Qelt]] and
 
 [[lore-hezmuiridty|Hezmu'iri]] is honored more universally than almost any other god for a plain reason, which is that nearly every human being will eventually need his priests. In Anzet the reason has a temple.
 
+## What the Town Lives By {#lives}
+
+Anzet is the temple's house and the selat's ledger. The chief temple of Hezmu'iri takes in the fees of embalming and the offerings of the dead's families, and those fees pay the clerks, porters and lamp-makers of the town and the ration of the tomb-guards. The town grows little of its own. The estate-towns and the farmers of the flood-plain send it grain, and the two towns beside it depend on it in turn: [[place-zelanzet|Zel-Anzet]], an embalmers' town of about 5,700, and [[place-yathqelt|Yath-Qelt]], a tomb-guards' town of about 4,600, buy their bread with fees and stipends that pass through Anzet's granary. Of the selat's 320,000 people, only a few thousand live in the capital, and the town's strength is what the temple holds.
+
+## Who Rules and Keeps Order {#who-rules}
+
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Anzet-Qelt keeps his court here, and the Wazu of the temple speaks for Hezmu'iri. Who commands a guard post on the cliff is a standing question between the two, since the guards eat the temple's grain and take the Halzi'a's orders. The scribal bureau holds the tax rolls. The ground near the tombs is the town's danger: thieves tunnel from the desert side, a stranger carrying digging tools is stopped at the edge of the necropolis, and a guard found selling a secret loses his hands.
+
+## The Present {#present}
+
+The flood has come low two years running, and the offerings brought to the temple of Hezmu'iri are fewer. The farmers who work the desert-edge tombs leave their fields for the pay of tomb-work, and the fields go unplanted. The guard posts are doubled because hunger makes thieves, and the temple's dole is smaller than the guards remember. The Halzi'a reports a smaller render than the court expected and points to the Measure; the Overseer of the Granaries has no figure to set against his. The jackal-cult's festivals are held with fewer offerings and more dread.
+
 ## See Also {#see-also}
 
 [[affiliation-selatanztqlt|The Selat of Anzet-Qelt]]

@@ -30,6 +30,14 @@ Anlagh-Zetun is not a glamorous city, and it is one of the most important in the
 
 The Halzi'a's house is [[affiliation-anlaghetzaru|Anlaghet'Zaru]], which raised the upper river in 2378 ST (268 AF) and broke the god-king's guard at the granary gates ([[lore-sealedgran|the Battle of the Sealed Granaries]]). At the end of the granary row stands the bricked dome of [[place-eleventhgran|the Eleventh Granary]], and each anniversary the selat throws bread over its wall.
 
+## Politics {#present}
+
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Anlagh-Zetun is the first of the river lords, and the Overseer of the Granaries keeps office in the same city, reckoning every selat's render after each harvest and reporting what each owes. Two low floods have left the basins with less water for each field, and the granaries at the seat stand low. The [[place-eleventhgran|Eleventh Granary]] stays sealed, and a granary is opened only on the Halzi'a's word. [[being-anlaghur|Anlaghur]], the Gar-Au's nephew, is at home here, and the capital's factions court the Halzi'a for what his granaries could do for the succession.
+
+## What the City Lives By {#lives}
+
+The city grows no bread of its own. About 80,000 people eat what the basin villages render: the dense farm-country round the seat, with villages such as [[place-garmesanu|Gar-Mesanu]], [[place-lutmulu|Lut-Mulu]], [[place-yaththawu|Yath-Thawu]], [[place-zmarelepet|Zma-Relepet]] and [[place-garanpuqa|Gar-Anpuqa]], and the river-port of [[place-amqelulegez|Amqelu-Legez]], which loads the surplus for the capital. The seat's own trade is the keeping and measuring of grain: granary-keepers, tally-clerks, surveyors and assessors, with the boatload markets on top. In a lean year the city decides who eats, and its danger is the lean month itself. Crowds gather at the granary gates when the stores run low, and a clerk found shading a tally answers to the Halzi'a's court.
+
 ## Notable Features
 
 - The great granaries that store the empire's reserve against famine
