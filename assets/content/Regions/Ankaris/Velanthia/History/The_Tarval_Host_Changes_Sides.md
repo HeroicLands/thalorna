@@ -48,17 +48,17 @@ data:
       unresolved: [whether the ataman was bought or driven by riders who had gone unpaid]
 ---
 
-The rivalry of the three princes has the shape it has because of one harvest. **The Tarvál Host Changes Sides**, 697 AF, is the year a Host took its pay from another prince, and the princes of [[place-velanthrgn|Velanthia]] have lived with the fear since.
+The rivalry of the three princes has the shape it has because of one harvest. **The Tarvál Host Changes Sides**, 697 AF, is the year a Host took its pay from another prince, and the princes of [[place-velanthrgn|Velanthia Region]] have lived with the fear since.
 
 ## The Short Harvest
 
-Until 697 AF the [[affiliation-hsttrvl|Tarvál Host]] rode for the prince of Zhitavesh, as the other two Hosts do, and held the tolls of the eastern caravan road for him. The harvest of that year was short, and the pay that falls due at harvest was late. The ataman of the time, the father of the present ataman, waited through the autumn while his riders went unpaid.
+Until 697 AF the [[affiliation-hsttrvl|Tarvál Host]] rode for the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]], as the other two Hosts do, and held the tolls of the eastern caravan road for him. The harvest of that year was short, and the pay that falls due at harvest was late. The ataman of the time, the father of the present ataman, waited through the autumn while his riders went unpaid.
 
-The prince of [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]] had silver. The port took its tolls in coin, and its merchant houses were glad to see the caravan road held by riders that the port paid. He sent his offer to the ataman at the muster town, and the ataman took it.
+The prince of the [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]] had silver. The port took its tolls in coin, and its merchant houses were glad to see the caravan road held by riders that the port paid. He sent his offer to the ataman at the muster town, and the ataman took it.
 
 ## The Turn
 
-The Host did not leave the frontier. It kept the muster town, the toll posts and the road, and the ataman's riders held the same ground for a different prince. The tolls that had gone to Zhitavesh went to the port. The Tarvál Host's country passed from the princedom of Zhitavesh to that of Brelavesh in 697 AF. The [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] lost the eastern road, and its prince, who held the lowlands and the other two Hosts, could neither compel the Host nor replace it.
+The Host did not leave the frontier. It kept the muster town, the toll posts and the road, and the ataman's riders held the same ground for a different prince. The tolls that had gone to Zhitavesh went to the port. The Tarvál Host's country passed from the princedom of Zhitavesh to that of Brelavesh in 697 AF. The Princedom of Zhitavesh lost the eastern road, and its prince, who held the lowlands and the other two Hosts, could neither compel the Host nor replace it.
 
 The abbots of the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]] met the princes and the ataman at a gathering of the Hosts and kept the quarrel from becoming a war. The peace they made left the Host with the port and the lowland prince with a grievance.
 

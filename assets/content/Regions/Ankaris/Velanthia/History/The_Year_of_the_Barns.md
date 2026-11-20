@@ -39,7 +39,7 @@ data:
       unresolved: [how much grain the barns held on the day the first gate was opened]
 ---
 
-Velanthia's famine year is told in barns, not in battles. **The Year of the Barns**, 641 AF, is the year the villages learned how many of them ate from a monastery, and the year the princes learned that they could not count the monastery's grain.
+The famine year of the [[place-velanthrgn|Velanthia Region]] is told in barns, not in battles. **The Year of the Barns**, 641 AF, is the year the villages learned how many of them ate from a monastery, and the year the princes learned that they could not count the monastery's grain.
 
 ## The Rains
 

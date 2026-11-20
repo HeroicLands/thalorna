@@ -22,7 +22,7 @@ data:
         - affiliation-prncdmbrlvsh
         - affiliation-prncdmzhtvsh
       summary: >-
-        Jarls of Malagna and Norgaad ride south into the river-princes' northwestern country, taking villages, cattle and river landings. The princes call a council, the Hosts of the east are paid to march west, and the war ends in a renegotiated border with the frontier forts rebuilt in stone.
+        Jarls of Malagna and Norgaad ride south into the river-princes' northwestern country, taking villages, cattle and river landings. The princes call a council, the Hosts of the east are paid to march west, and the war ends in a renegotiated border, and the frontier forts are rebuilt in stone in the years after.
       standing: attested
       names: [{name: the Border War, by: affiliation-prncdmbrvvsh}]
       where:
@@ -56,7 +56,7 @@ The border the river-princes keep in the northwest was drawn in a war with the j
 
 ## The Jarls
 
-Nordmal incursions into [[place-velanthrgn|Velanthia]] are limited frontier wars that resolve into renegotiated borders within a generation. This one was larger than most. About 625 AF jarls of [[place-malagna|Malagna]] and [[place-norgaad|Norgaad]] rode south in the same season, took villages and landings along the northwestern rivers and held them through a winter. The forts of the frontier were timber, and the forts that stood were the ones the jarls did not trouble to burn.
+Nordmal incursions into [[place-velanthrgn|Velanthia Region]] are limited frontier wars that resolve into renegotiated borders within a generation. This one was larger than most. About 625 AF jarls of [[place-malagna|Malagna]] and [[place-norgaad|Norgaad]] rode south in the same season, took villages and landings along the northwestern rivers and held them through a winter. The forts of the frontier were timber, and the forts that stood were the ones the jarls did not trouble to burn.
 
 The river-princes met in one of their occasional councils, which have no executive and no standing, and agreed to pay for a defense together. The [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] held the frontier and fed its wardens on the lowland princes' grain. The [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]] sent silver from the port.
 
