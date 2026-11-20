@@ -1354,6 +1354,7 @@ export function assertEncodingMigrationPreserved(
         assert(body.includes(addition), "the rank-stem roles remain explicit");
         body = body.replace(addition + "\n\n", "");
     }
+    // The indexed council reference retains the exact English reading and identity.
     if (isNote(file, "skill-nyalbnlng"))
         originalBody = originalBody.replace(
             'The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [Great Lubemo]{.name data-type="affiliation/governmental"} is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.',

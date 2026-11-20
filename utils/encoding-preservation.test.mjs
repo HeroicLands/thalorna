@@ -91,9 +91,61 @@ test("the indexed council reference preserves the English reading", () => {
         '[Great Lubemo]{.name data-type="affiliation/governmental"}',
         "[[affiliation-greatlubemo|Great Lubemo]]",
     );
-    before.raw += historical + "\n";
-    current.raw += indexed + "\n";
+    const native = "::: {lang=aelw}\ncolour grey favour\n:::\n";
+    before.raw += historical + "\n" + native;
+    current.raw += indexed + "\n" + native;
     assert.doesNotThrow(() => assertEncodingMigrationPreserved(current, before));
+
+    const otherNoteBefore = { ...before, file: notePath("skill-dunharlng") };
+    const otherNoteCurrent = {
+        ...current,
+        file: otherNoteBefore.file,
+        raw: current.raw.replace(indexed, historical),
+    };
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(otherNoteCurrent, otherNoteBefore));
+    assert.throws(
+        () =>
+            assertEncodingMigrationPreserved(
+                { ...otherNoteCurrent, raw: current.raw },
+                otherNoteBefore,
+            ),
+        /original reading changed: The council of the five/,
+    );
+
+    const otherSpan = 'A [Council]{.name data-type="affiliation/governmental"} meets.';
+    const otherSpanBefore = { ...before, raw: before.raw + otherSpan + "\n" };
+    const otherSpanCurrent = { ...current, raw: current.raw + otherSpan + "\n" };
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(otherSpanCurrent, otherSpanBefore));
+    assert.throws(
+        () =>
+            assertEncodingMigrationPreserved(
+                {
+                    ...otherSpanCurrent,
+                    raw: otherSpanCurrent.raw.replace(
+                        otherSpan,
+                        "A [[affiliation-council|Council]] meets.",
+                    ),
+                },
+                otherSpanBefore,
+            ),
+        /original reading changed: A \[Council\]/,
+    );
+
+    const reading = "The English reading stays exactly the same.";
+    const reordered = current.raw.replace(reading + "\n" + indexed, indexed + "\n" + reading);
+    assert.notEqual(reordered, current.raw);
+    assert.throws(
+        () => assertEncodingMigrationPreserved({ ...current, raw: reordered }, before),
+        /original reading changed: The council of the five/,
+    );
+    assert.throws(
+        () =>
+            assertEncodingMigrationPreserved(
+                { ...current, raw: current.raw.replace("colour grey favour", "color grey favour") },
+                before,
+            ),
+        /original reading changed: colour grey favour/,
+    );
     for (const [from, to] of [
         ["objections stop", "objections end"],
         ["|Great Lubemo]]", "|Lubemo]]"],
