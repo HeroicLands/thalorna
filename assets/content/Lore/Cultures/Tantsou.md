@@ -62,6 +62,7 @@ data:
     complexion: {smooth: 5, clear: 4, weathered: 1}
     hair_texture: {straight: 1}
     hair_style: {knotted: 4, long: 3, short: 2, braided: 1, shaved_sides: 1}
+    facial_hair: {none: 4, moustache: 3, goatee: 2, long_beard: 1}
     face_shape: {oval: 4, round: 3, long: 2, heart: 1, square: 1}
     nose: {straight: 5, narrow: 2, snub: 2, broad: 1}
     brow: {straight: 5, thin: 3, arched: 1}

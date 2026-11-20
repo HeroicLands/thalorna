@@ -22,6 +22,7 @@ data:
     complexion: {chapped: 4, weathered: 3, ruddy: 2, clear: 1}
     hair_texture: {straight: 8, wavy: 2}
     hair_style: {long: 4, braided: 4, short: 2, knotted: 1}
+    facial_hair: {none: 5, stubble: 3, short_beard: 1, goatee: 1}
     face_shape: {round: 3, broad: 3, oval: 3, square: 1}
     nose: {straight: 3, broad: 3, aquiline: 2, snub: 1}
     brow: {straight: 4, heavy: 2, arched: 2, thin: 1}
