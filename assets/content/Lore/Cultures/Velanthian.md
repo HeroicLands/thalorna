@@ -40,7 +40,7 @@ data:
     - name: "lushik"
       definition: "In the eastern reach, a ransom paid to the riders who took a captive"
       common: true
-    - name: "semok"
+    - name: "semuk"
       definition: "In the eastern reach, a guest under a tribe's protection, and the guest-right itself"
       common: true
     - name: "yadak"
@@ -97,7 +97,7 @@ In the grain-belt towns the _torgad_, the merchant houses, live on credit. A hou
 
 ## The Eastern Reach
 
-The communities along the inland edge of the frontier, in the oasis-and-river country, are neither wholly Velanthian nor wholly of the steppe. They speak Velanthian with Sovidur words in it, or Sovidur with Velanthian words for the plow and the mill, and they answer to the side that last had the better year. Their speech carries the vocabulary of a frontier that is crossed in both directions: _koser_, the safe-conduct and the toll for it, _lushik_, the ransom for a captive taken in a raid, _yadak_, the raid itself, and _semok_, the guest under a tribe's protection.
+The communities along the inland edge of the frontier, in the oasis-and-river country, are neither wholly Velanthian nor wholly of the steppe. They speak Velanthian with Sovidur words in it, or Sovidur with Velanthian words for the plow and the mill, and they answer to the side that last had the better year. Their speech carries the vocabulary of a frontier that is crossed in both directions: _koser_, the safe-conduct and the toll for it, _lushik_, the ransom for a captive taken in a raid, _yadak_, the raid itself, and _semuk_, the guest under a tribe's protection.
 
 ## Names and the Tongue
 
@@ -139,4 +139,4 @@ No office joins the rivers. When the whole country must act, against a great ste
 
 The full dictionary is in the [[skill-velanthlng#lexicon|Velanthian Language note]].
 
-Koser, lushik, yadak and semok are loanwords from the [[lore-sowidesclt#glossary|Sovidur]] culture.
+Koser, lushik, yadak and semuk are loanwords from the [[lore-sowidesclt#glossary|Sovidur]] culture.
