@@ -2,11 +2,9 @@
 shortcode: rshrhssfrn
 name:
   full: Rashira of House Safiron
-  given: Rashira
-  clan: Safiron
   en: [The Keeper of the Purple Warrant, The Renegade Grammatissa]
 type: being
-subType: character
+subType: npc
 tags: [heroes-and-knaves, hero, administration]
 data:
   icon: icon-person
@@ -433,15 +431,23 @@ She rose through the scribal administration on merit and discretion, the two vir
 
 ### The Break
 
-What turned her, she says, was not coin and not [[affiliation-vylarinmpr|Viléria]]. It was the rolls themselves. Year by year, entry by entry, Rashira had watched the deniable war curdle into something with no honest defense. The register did not record a hard necessity of state; it recorded a racket. Most of the "patriot privateers" were nothing of the kind—they were simple criminals, women who burned crews and coastal villages for plunder and answered to no cause but their own profit. And the proceeds did not shore up the realm: they flowed upward, into the coffers of the Great Houses and the Court of the Veil and, at the summit, Metrissa [Amithena of House Kervanion]{.name data-type="being/npc"} herself, who grew rich on the crime with no discernible benefit to [[affiliation-mtrrchybth|Bethua]] at all. The whole edifice of _raison d'etat_—the deniable war, the noble necessity, the cause that justified the blood—was a fig leaf over organized robbery for private gain.
+What turned her, she says, was not coin and not [[affiliation-vylarinmpr|Viléria]]. It was the rolls themselves. Year by year, entry by entry, Rashira watched the deniable war curdle into something she could no longer defend, and she will not say in public what the register records.
 
-She did not come to the decision quite alone. For some time she had been close—closer than was wise—to a foreign trading factor named [[being-casiaveric|Kassa Verris]], a warm, easy woman who listened as no one in the Naukrátissa's office ever had, and who urged her, gently and without relenting, to _do the right thing_: to take what she knew and bring the rot into the light. Only later would Rashira fully admit what she had half-known all along—that Kassa was a Vilérian agent, and that the light she meant was Viléria's own. That knowledge is part of why, when the moment finally came, Rashira did not carry the Warrant to her lover at all. She would not be made the empire's weapon against her own land; if the truth was to do its work, it would be on her terms and no one else's. So she took the original and ran—not to Kassa, and not north to the Vilérian ports she was expected to seek, but the other way entirely.
+:::secret {title="What the Purple Warrant records"}
+The register did not record a hard necessity of state; it recorded a racket. Most of the "patriot privateers" were nothing of the kind—they were simple criminals, women who burned crews and coastal villages for plunder and answered to no cause but their own profit. And the proceeds did not shore up the realm: they flowed upward, into the coffers of the Great Houses and the Court of the Veil and, at the summit, Metrissa [[being-amithenakrvn|Amithena of House Kervanion]] herself, who grew rich on the crime with no discernible benefit to [[affiliation-mtrrchybth|Bethua]] at all. The whole edifice of _raison d'etat_—the deniable war, the noble necessity, the cause that justified the blood—was a fig leaf over organized robbery for private gain.
 
-Worse than the profiteering was the betrayal woven through it. The rolls showed the matriarchy secretly preying on its own patron, [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the empire whose backing is the sole guarantor of Bethuan independence. Bethuan privateers, in league with the [[affiliation-empireakhlth|Empire of Au'Khelathu]] tomb-robber syndicates, had been raiding [[lore-khelathiclt|Khelathi]] shipping and fencing plundered grave-goods lifted from the royal and noble necropoli: the desecration of the dead, the gravest sacrilege the Khelathi know, an offense against [[lore-qearetdty|Qe'aret]] and the gods themselves. The register names the captains, the backing Houses, the Khelathi fences, the assets and informants—and, in places, reaches high enough to touch a Halzi'a, a temple, perhaps the [[lore-garauu|Gar-Auu]]'s own house. The [[affiliation-marendas|Faith of Marendas]] that Rashira keeps quietly—devoted to [[lore-marendasdty|Marendas]], Keeper of Sacred Wisdom—holds that knowledge is a trust and not a weapon; somewhere in the keeping of so much secret blood, she came to believe she served a rot she could no longer copy out in a fair hand. She took the sealed original, walked out of the Naukrátissa's office, and did not come back.
+Worse than the profiteering is the betrayal woven through it. The rolls showed the matriarchy secretly preying on its own patron, [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the empire whose backing is the sole guarantor of Bethuan independence. Bethuan privateers, in league with the [[affiliation-empireakhlth|Empire of Au'Khelathu]] tomb-robber syndicates, have been raiding [[lore-khelathiclt|Khelathi]] shipping and fencing plundered grave-goods lifted from the royal and noble necropoli: the desecration of the dead, the gravest sacrilege the Khelathi know, an offense against [[lore-qearetdty|Qe'aret]] and the gods themselves. The register names the captains, the backing Houses, the Khelathi fences, the assets and informants—and, in places, reaches high enough to touch a Halzi'a, a temple, perhaps the [[lore-garauu|Gar-Auu]]'s own house. The [[affiliation-marendas|Faith of Marendas]] that Rashira keeps quietly—devoted to [[lore-marendasdty|Marendas]], Keeper of Sacred Wisdom—holds that knowledge is a trust and not a weapon; somewhere in the keeping of so much secret blood, she came to believe she served a rot she could no longer copy out in a fair hand. She took the sealed original, walked out of the Naukrátissa's office, and did not come back.
+:::
+
+She did not come to the decision quite alone. For some time she had been close—closer than was wise—to a foreign trading factor named [[being-casiaveric|Kassa Verris]], a warm, easy woman who listened as no one in the Naukrátissa's office ever had, and who urged her, gently and without relenting, to _do the right thing_: to take what she knew and bring the rot into the light. When the moment came, Rashira did not carry the Warrant to her lover at all. She would not be made anyone's weapon against her own land; if the truth was to do its work, it would be on her terms and no one else's. So she took the original and ran—not to Kassa, and not north to the Vilérian ports she was expected to seek, but the other way entirely.
+
+:::secret {title="Kassa Verris is a Vilérian agent"}
+Only later would Rashira fully admit what she had half-known all along: Kassa was a Vilérian agent, and the light she meant was Viléria's own. That knowledge is part of why Rashira did not deliver the Warrant to her lover.
+:::
 
 ### The Register and the Proof
 
-There is exactly one register, and Rashira carries it. She had no chance to copy it—she took the original and ran before it could be found missing—and even had she the time, a copy would have been almost worthless. The Purple Warrant is written on **crown purple vellum**, a dyed stock that is a state monopoly, impossible to obtain privately, reserved for the commissions of the crown; it is inscribed in the recognized hands of the Naukrátissa's office and closed under **seals no forger can reproduce**. A copy made by any other hand on any other parchment is, by its nature, a forgery—and Bethua can wave away a forgery with a shrug. Only the purple original, seals intact, is _incontrovertible_. It is the single object in the world that can prove the matriarchy a profiteer, an oath-breaker, and a despoiler of the Khelathi dead.
+There is exactly one register, and Rashira carries it. She had no chance to copy it—she took the original and ran before it could be found missing—and even had she the time, a copy would have been almost worthless. The Purple Warrant is written on **crown purple vellum**, a dyed stock that is a state monopoly, impossible to obtain privately, reserved for the commissions of the crown; it is inscribed in the recognized hands of the Naukrátissa's office and closed under **seals no forger can reproduce**. A copy made by any other hand on any other parchment is, by its nature, a forgery—and Bethua can wave away a forgery with a shrug. Only the purple original, seals intact, is _incontrovertible_. It is the single object in the world that can prove what the register records.
 
 This is why the original is everything, and it shapes the whole hunt. The proof in Rashira's saddlebag is irreplaceable, fragile, and singular: destroy it and the threat is over forever; the truth becomes one woman's deniable word. A faithful copy, were one ever made, would be worthless as proof but priceless as _intelligence_—every privateer, warrant, backing House, target, asset, and informant laid bare, enough to roll up the entire network. And Rashira's own knowledge is the least of the three: useful, transferable, but deniable, and dangerous to her enemies only because she lives to speak it and to swear to the register's truth. The artifact, then the copy that does not yet exist, then the woman—that is the order of the danger, and every party in the affair reckons by it.
 
@@ -449,9 +455,17 @@ She knows, too, the trap inside her own situation. To make herself safer she wou
 
 ### Flight
 
-She did not run the way a defector is expected to run. The northern roads to the Vilérian ports are exactly where the Court of the Veil watches most closely, and so Rashira went the other way—**south, into the [[place-sthmrchsrgn|South Marches]]**, the lawless drylands beyond the matriarchy's frontier where the Veil's writ and its agents have no reach. The Marches are not her destination but her road: beyond them, east, lies [[affiliation-empireakhlth|Empire of Au'Khelathu]]. She means to cross the lawless country, slip the hunt where no Dómissa's law runs, and carry the purple original to the one power with both the reason and the strength to act on it. Her gambler's route has had a cost she did not intend: it has drawn the hunt south after her, into country where older and bloodier scores than hers lie waiting. She insists she is no traitor but a woman fleeing a crime she could no longer be party to—though she is clear-eyed enough to know that the proof of conscience and the proof of treason look identical when they are bound in the same roll of vellum.
+She did not run the way a defector is expected to run. The northern roads to the Vilérian ports are exactly where the Court of the Veil watches most closely, and so Rashira went the other way—**south, into the [[place-sthmrchsrgn|South Marches]]**, the lawless drylands beyond the matriarchy's frontier where the Veil's writ and its agents have no reach. Where the road ends is known to no one but her. Her gambler's route has had a cost she did not intend: it has drawn the hunt south after her, into country where older and bloodier scores than hers lie waiting. She insists she is no traitor but a woman fleeing a crime she could no longer be party to—though she is clear-eyed enough to know that the proof of conscience and the proof of treason look identical when they are bound in the same roll of vellum.
 
-She is hunted from two sides and courted from a third, and trusts none of them. The household of **Metrissa Amithena of House Kervanion** has loosed its deadliest thief-taker, [[being-lmbhrpdhnn|Lámbira Pédhinion]], to recover or burn the register and silence its keeper. The Vilérian agent [[being-casiaveric|Kassa Verris]] reaches into the Marches to court her—offering protection and passage, while quietly working to close every road east, for Viléria means the rolls for its own war and will not let them reach Galezkara. And the Marches themselves belong to [[being-argyrirjckl|Argirira the Jackal]], whose blades have their own bloody business with the Hound.
+She is hunted from two sides and courted from a third, and trusts none of them. A thief-taker of Bethura, [[being-lmbhrpdhnn|Lámbira Pédhinion]], is on her trail. A foreign trading factor, [[being-casiaveric|Kassa Verris]], reaches into the Marches to court her, offering protection and passage. And the Marches themselves belong to [[being-argyrirjckl|Argirira the Jackal]], whose blades have their own bloody business with the Hound.
+
+:::secret {title="Where Rashira is making for"}
+The Marches are not her destination but her road: beyond them, east, lies [[affiliation-empireakhlth|Empire of Au'Khelathu]]. She means to cross the lawless country, slip the hunt where no Dómissa's law runs, and carry the purple original to the one power with both the reason and the strength to act on it.
+:::
+
+:::secret {title="Who hunts Rashira and why"}
+The household of **Metrissa Amithena of House Kervanion** has loosed its deadliest thief-taker, Lámbira, to recover or burn the register and silence its keeper. Kassa quietly works to close every road east, for Viléria means the rolls for its own war and will not let them reach Galezkara.
+:::
 
 ### Disowned
 
@@ -459,9 +473,17 @@ She is a fugitive from the Matriarch's own justice, and **House Safiron has cast
 
 ### Where She Is Running
 
-Her destination is [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the logic is sound. The empire is Bethua's patron and the guarantor of its freedom; it is also the _victim_ of the betrayal the register proves—robbed of its shipping and its sacred dead by the proxy it protects. Au'Khelathu therefore has the motive to act, the strength to shelter her, and no incentive to sell her to Viléria (its rival) or to silence the witness who hands it leverage over its own vassal. And there is a fitness to it that the archivist feels keenly: she carries incontrovertible truth to the one civilization whose chief goddess, [[lore-qearetdty|Qe'aret]], _is_ truth and justice, hoping for sanctuary in [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]], the temple of [[lore-rethsaardty|Reth'Sa'ar]], keeper of record and sacred knowledge, or a hearing before [[affiliation-genzetgarau|Genzet'Gar-Au]], the Gar-Au's court at [[place-galezkara|Galezkara]]. To flee to Viléria, Bethua's enemy, would make her the traitor she denies being; to appeal over the Matriarch's head to Bethua's own sovereign protector is another thing entirely.
+Her flight south is plain to see. What she means to do once she is beyond the Marches is not known.
 
-But Au'Khelathu is no clean refuge, and she knows it. It is a cold, self-interested empire that reckons Bethua "a useful proxy"; its court might as easily **bury** the register and use it to tighten its grip on the matriarchy as expose anything—truth vanishing into a Khelathi vault as a tool of statecraft. And the rot runs both ways: tomb-robbery thrives only because Khelathi hands buy what is stolen, so there are Halzi'a, fences, and temple insiders in Galezkara who want the proof destroyed as badly as the Veil does. Reaching "Au'Khelathu" is not enough; she must reach the _right_ hands—the loyal [[affiliation-qearet|cult of Qe'aret]], the Gar-Au's own faction, a Halzi'a whose tombs were plundered—and avoid the complicit ones, in a court she does not know, as a hunted foreigner with no friends and one purple roll of vellum to buy her life.
+:::secret {title="Where she is running"}
+Her destination is [[affiliation-empireakhlth|Empire of Au'Khelathu]], and the logic is sound. The empire is Bethua's patron and the guarantor of its freedom, with the strength to shelter her and no incentive to sell her to Viléria (its rival). And there is a fitness to it that the archivist feels keenly: she carries incontrovertible truth to the one civilization whose chief goddess, [[lore-qearetdty|Qe'aret]], _is_ truth and justice, hoping for sanctuary in [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]], the temple of [[lore-rethsaardty|Reth'Sa'ar]], keeper of record and sacred knowledge, or a hearing before [[affiliation-genzetgarau|Genzet'Gar-Au]], the Gar-Au's court at [[place-galezkara|Galezkara]]. To flee to Viléria, Bethua's enemy, would make her the traitor she denies being; to appeal over the Matriarch's head to Bethua's own sovereign protector is another thing entirely.
+
+The empire is the _victim_ of the betrayal the register proves, robbed of its shipping and its sacred dead by the proxy it protects, and so has the motive to act on it.
+
+But Au'Khelathu is no clean refuge, and she knows it. It is a cold, self-interested empire that reckons Bethua "a useful proxy"; its court might as easily **bury** the register and use it to tighten its grip on the matriarchy as expose anything—truth vanishing into a Khelathi vault as a tool of statecraft. Reaching "Au'Khelathu" is not enough; she must reach the _right_ hands—the loyal [[affiliation-qearet|cult of Qe'aret]], the Gar-Au's own faction—and avoid the complicit ones, in a court she does not know, as a hunted foreigner with no friends and one purple roll of vellum to buy her life.
+
+The rot runs both ways: tomb-robbery thrives only because Khelathi hands buy what is stolen, so there are Halzi'a, fences and temple insiders in Galezkara who want the proof destroyed as badly as the Veil does. The right hands include a Halzi'a whose tombs were plundered.
+:::
 
 ### Skills and Abilities
 
@@ -483,7 +505,7 @@ Guile and Discourse
 
 Rashira is precise, self-contained, and quietly stubborn—a woman who has spent her life being indispensable and invisible, and who has chosen, late and at great cost, to be neither. She does not think of herself as brave; she thinks of herself as someone who finally could not look away. Her devotion to Marendas is sincere and unfashionable in a realm whose temples of state belong to goddesses of war and sea, and it shapes how she frames her own treason: knowledge held in trust must answer to conscience, or it becomes merely another weapon in another Dómissa's armory. Her goal is not escape but _delivery_—to put the truth where it can do its work and survive long enough to see it.
 
-She is not naive. She knows Viléria wants the register to wage its own war, not to end Bethua's, and that to [[being-casiaveric|Kassa Verris]] she is a prize, not a defector. She knows Au'Khelathu may bury the truth as readily as wield it. She knows the thief-taker on her trail may be the most honest party in the whole affair. And she knows the cruellest arithmetic of all: that she cannot share her burden without risking that the truth is sold or her confidant killed, so she carries it alone toward a refuge that may betray her. Whether what drives her is justice or only a subtler vanity is a question she argues with herself on every cold night of the road.
+She is not naive. She knows every party in the affair wants the register for its own ends. She knows whoever she gives the truth to may bury it as readily as wield it. She knows the thief-taker on her trail may be the most honest party in the whole affair. And she knows the cruellest arithmetic of all: that she cannot share her burden without risking that the truth is sold or her confidant killed, so she carries it alone toward a hope that may betray her. Whether what drives her is justice or only a subtler vanity is a question she argues with herself on every cold night of the road.
 
 ### Strengths
 
@@ -500,7 +522,7 @@ One fragile object, no copy, no insurance
 : lose or destroy the original and her cause dies with it; she has no dead-man's leverage to make killing her dangerous
 
 A marked woman
-: hunted by the Veil, courted by Viléria, a stranger to the court she runs toward, trusted by none
+: hunted, courted by false friends, a stranger to the court she runs toward, trusted by none
 
 Conscience and caution as liabilities
 : her refusal to sell the rolls, and her inability to trust anyone with a copy, leave her isolated and her movements hard for allies to support
@@ -510,34 +532,62 @@ Conscience and caution as liabilities
 ### Enemies
 
 [[being-lmbhrpdhnn|Lámbira Pédhinion, the Hound of the Veil]]
-: The thief-taker loosed by the Court of the Veil to recover or burn the register and silence its keeper. Rashira has never met her hunter and yet feels she knows her—and suspects that, of everyone in the affair, this Houseless-hearted woman with no profit in the crime might be the one who could be made to understand why she ran. Whether she can turn the Hound before the Hound takes her is the gamble her flight may come down to. What Rashira cannot know is that the Veil has foreseen exactly that hope and moved to foreclose it: the Hound rides under standing orders never to read the rolls and never to let her quarry speak—so the one argument Rashira means to make may never reach the only ear that might heed it.
+: The thief-taker of Bethura on her trail. Rashira has never met her hunter and yet feels she knows her—and suspects that, of everyone in the affair, this Houseless-hearted woman with no profit in the crime might be the one who could be made to understand why she ran. Whether she can turn the Hound before the Hound takes her is the gamble her flight may come down to.
+
+:::secret {title="The Hound's standing orders"}
+The Court of the Veil sent Lámbira to recover or burn the register and silence its keeper. The Veil has foreseen Rashira's hope of turning the Hound and moved to foreclose it: the Hound rides under standing orders never to read the rolls and never to let her quarry speak, so the one argument Rashira means to make may never reach the only ear that might heed it.
+:::
 
 The Court of the Veil
-: Her former masters, the intelligence household of **Metrissa Amithena of House Kervanion**—and the very people the register condemns. To them Rashira is the worst kind of failure: a trusted keeper who kept too well and walked away with the proof. They want the rolls recovered or destroyed and the Grammatissa silenced, in that order.
+: Her former masters, the intelligence household of **Metrissa Amithena of House Kervanion**. To them Rashira is the worst kind of failure: a trusted keeper who kept too well and walked away with the sealed rolls.
+
+:::secret {title="What the Veil wants of Rashira"}
+The Veil is the very party the register condemns. It wants the rolls recovered or destroyed and the Grammatissa silenced, in that order.
+:::
 
 ### Hunters and False Friends
 
 [[being-casiaveric|Kassa Verris]]
-: Once Rashira's lover, and the one who first set her on this road. Posing as a foreign trading factor, Kassa spent months listening to Rashira's troubles and urging her, ever so gently, to expose the matriarchy's rot—knowing only the general shape of the secret, never its particulars. When Rashira fled south with the Warrant rather than deliver it into Vilérian hands, the confidante became a hunter: now Kassa courts her former lover with offers of protection and passage while quietly closing every road east, trading on what lay between them to draw Rashira toward a Vilérian handover. Kassa means the register for Viléria—a weapon to shatter the Khelathi–Bethuan alliance—and will never let it reach Galezkara. Rashira takes her help, when she must, with both eyes open, knowing the warm hand will close into a fist the moment the rolls are within reach.
+: Once Rashira's lover, and the one who first set her on this road. A foreign trading factor, Kassa spent months listening to Rashira's troubles and urging her, ever so gently, to expose the matriarchy's rot. Rashira takes her help, when she must, with both eyes open, knowing the warm hand may close into a fist the moment the rolls are within reach.
+
+:::secret {title="Kassa's work for Viléria"}
+Kassa's trading-factor's face is a cover. She knew only the general shape of the secret, never its particulars. When Rashira fled south with the Warrant rather than deliver it into Vilérian hands, the confidante became a hunter: she courts her former lover with offers of protection and passage while quietly closing every road east, trading on what lay between them to draw Rashira toward a Vilérian handover. Kassa means the register for Viléria, a weapon to shatter the Khelathi–Bethuan alliance, and will never let it reach Galezkara.
+:::
 
 [[being-argyrirjckl|Argirira the Jackal]] and [[affiliation-jcklsthmrchs|the Jackals of the South Marches]]
-: The exile-queen who rules the Marches Rashira must cross. Argirira is no friend, but she hates Bethua and hunts the Hound for her own reasons—and a Houseless band that despises the matriarchy might, for the right price or the right grievance, be the unlikeliest of shelters on the road east.
+: The exile-queen who rules the Marches Rashira must cross. Argirira is no friend, but she hates Bethua and hunts the Hound for her own reasons—and a Houseless band that despises the matriarchy might, for the right price or the right grievance, be the unlikeliest of shelters on the road.
 
 ### Hoped-for Refuge
 
+No refuge is named in the open. She has told no one where she hopes to be sheltered.
+
+:::secret {title="The refuge she hopes for"}
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
-: The patron-empire she is running toward—victim of the betrayal she carries, and the one power that might shelter her and act. But its court is cold and self-interested, and salted with the very Khelathi hands that bought the stolen dead. Her refuge and her gravest gamble are the same place.
+: The patron-empire she is running toward, and the one power that might shelter her and act. But its court is cold and self-interested. Her refuge and her gravest gamble are the same place.
+
+The empire's court is salted with the very Khelathi hands that bought the stolen dead.
+:::
 
 ## Plot Hooks
 
-The Race East
-: Every road through the [[place-sthmrchsrgn|Marches]] toward the Khelathi frontier is watched, bought, or blocked—[[being-casiaveric|Kassa's]] quiet work—while [[being-lmbhrpdhnn|Lámbira]] closes from behind. Rashira needs guides, passage, and protection she cannot pay for in trust, and must decide which devil on the road to bargain with to keep moving toward [[affiliation-empireakhlth|Empire of Au'Khelathu]] and Qe'aret's justice.
+The Race South
+: Every road through the [[place-sthmrchsrgn|Marches]] is watched, bought, or blocked while [[being-lmbhrpdhnn|Lámbira]] closes from behind. Rashira needs guides, passage, and protection she cannot pay for in trust, and must decide which devil on the road to bargain with to keep moving.
+
+:::secret {title="Where the race leads and who blocks the roads east"}
+She is making for the Khelathi frontier and [[affiliation-empireakhlth|Empire of Au'Khelathu]] and Qe'aret's justice, and the roads east are blocked by Kassa's quiet work.
+:::
 
 The Hunter Turned
-: Cornered at last by [[being-lmbhrpdhnn|Lámbira]], Rashira offers not a fight but the register itself: _read it, and see what you are sent to bury._ It is her one real hope—that the only pursuer with no stake in the crime can be made to carry the truth instead of burning it. The scene is the hinge of the whole affair.
+: Cornered at last by [[being-lmbhrpdhnn|Lámbira]], Rashira offers not a fight but the register itself: _read it, and see what you are hunting me for._ It is her one real hope—that the only pursuer with no stake in the crime can be made to carry the truth instead of burning it. The scene is the hinge of the whole affair.
 
 The Weight of the Original
-: The purple roll is nearly lost—a river crossing, a fire, a blade through a saddlebag—and every party in the Marches must suddenly reckon with how fragile the only proof in the world really is. Rashira, who would rather see it destroyed than fall to Viléria or the Veil, may have to choose whether to burn her life's last leverage to keep it from the wrong hands.
+: The purple roll is nearly lost—a river crossing, a fire, a blade through a saddlebag—and every party in the Marches must suddenly reckon with how fragile the only proof in the world really is. Rashira, who would rather see it destroyed than fall to the wrong hands, may have to choose whether to burn her life's last leverage.
 
-No Clean Hands in Galezkara
-: Should she reach [[affiliation-empireakhlth|Empire of Au'Khelathu]], Rashira finds the court is no sanctuary but another snake-pit: factions that would wield the register, factions that would bury it, and the Khelathi fences of the stolen dead who want her and her proof gone. Having crossed the world to deliver the truth, she must now find the one hand clean enough to give it to.
+The End of the Road
+: Should she reach the sanctuary she hopes for, Rashira finds it is no sanctuary but another snake-pit.
+
+:::secret {title="No clean hands in Galezkara"}
+She reaches [[affiliation-empireakhlth|Empire of Au'Khelathu]] and finds factions that would wield the register and factions that would bury it. Having crossed the world to deliver the truth, she must now find the one hand clean enough to give it to.
+
+Among the factions are the Khelathi fences of the stolen dead, who want her and her proof gone.
+:::

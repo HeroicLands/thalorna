@@ -19,7 +19,7 @@ The Scales of Kaljekor are a gilded balance of two pans, a beam, a post and gold
 
 ## Who Holds It {#who-holds-it}
 
-The temple of Kaljekor does. [Ndumbari Zhabing]{.name data-type="being/npc"}, the Master of the Market, keeps the Scales on which trade oaths are sworn, and [the Servants of Gold]{.name data-type="affiliation/order"} weigh the offerings on them. The [Flameweavers]{.name data-type="affiliation/order"} keep the records of every oath sworn on the beam.
+The temple of Kaljekor does. [[being-fumbarimakora|Fúmbari Mákora]], the Master of the Market, keeps the Scales on which trade oaths are sworn, and [the Servants of Gold]{.name data-type="affiliation/order"} weigh the offerings on them. The [Flameweavers]{.name data-type="affiliation/order"} keep the records of every oath sworn on the beam.
 
 ## Its Story {#its-story}
 

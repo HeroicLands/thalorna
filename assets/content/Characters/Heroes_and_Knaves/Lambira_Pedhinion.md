@@ -1,12 +1,8 @@
 ---
 shortcode: lmbhrpdhnn
-name:
-  full: Lámbira Pédhinion
-  given: Lámbira
-  clan: Pédhinion
-  en: [The Bounty Hunter, The Hound of the Veil]
+name: {full: Lámbira Pédhinion, en: [The Bounty Hunter, The Hound of the Veil]}
 type: being
-subType: character
+subType: npc
 tags: [heroes-and-knaves, hero, soldiery]
 data:
   icon: icon-person
@@ -455,7 +451,7 @@ Like every free Bethuan girl, Lámbira was trained young in arms and in the [[sk
 
 ### Training and Rise to Prominence
 
-Lámbira's talent did not go unnoticed. Dómissa [Tázitha]{.name data-type="being/npc"} of [House Khalithon]{.name data-type="affiliation/lineage"}, the clan-matriarch whose lands hold Sehela and the cantons around it, took an interest in the girl and brought her into her own household guard, where she learned the spear, the broadsword, and the finer points of the Kharessa from the Dómissa's veteran women. Lámbira rose quickly to be among the most feared fighters of the House's retinue, prized for her discipline and her cold tactical sense as much as her skill at arms.
+Lámbira's talent did not go unnoticed. Dómissa [[being-tazithakhlthn|Tázitha of House Khalithon]], the clan-matriarch whose lands hold Sehela and the cantons around it, took an interest in the girl and brought her into her own household guard, where she learned the spear, the broadsword, and the finer points of the Kharessa from the Dómissa's veteran women. Lámbira rose quickly to be among the most feared fighters of the House's retinue, prized for her discipline and her cold tactical sense as much as her skill at arms.
 
 For a time she was one of the Dómissa's household guard, enforcing her mistress's will and settling the disputes of the canton. But the work chafed. Lámbira had risen as high as a peasant's daughter could within another woman's House, and she wanted a path that answered to her own judgment rather than spending her life as the instrument of a Dómissa's.
 
@@ -465,15 +461,31 @@ Her chance came with a runaway bound-man—a House servant who had struck his mi
 
 ### Current Mission
 
-Lámbira has now been engaged for the most dangerous hunt of her life, and by the highest authority in the realm. Through the discreet intermediaries of the [[affiliation-courtveil|Court of the Veil]], the household of Metrissa [Amithena of House Kervanion]{.name data-type="being/npc"} herself has set Lámbira after **[[being-rshrhssfrn|Rashira of House Safiron]]**—a former senior **Grammatissa** of the Naukrátissa's office in [[affiliation-bethuanflt|the Bethuan Fleet]] and a keeper of the sealed rolls of the [Purple Warrant]{.name data-type="miscgear"}. Rashira has fled with the one stolen original: the crown register that lays bare the truth of the deniable war on [[place-vylarianse|Vilérian]] shipping—that most of its "patriot privateers" are common criminals, that the Great Houses and the Metrissa herself grow rich on the plunder with no real benefit to the realm, and, worst of all, that the matriarchy has been secretly preying on its own patron [[affiliation-empireakhlth|Empire of Au'Khelathu]], fencing grave-goods robbed from the [[lore-khelathiclt|Khelathi]] dead. Written on crown purple vellum under unforgeable seals, that single roll is incontrovertible—and in the wrong hands it could cost Bethua the patron on whom its freedom depends. For taking up the work of the Veil, Lámbira has earned a quiet and dangerous name in the right circles: **the Hound of the Veil**.
+Lámbira is on the trail of **[[being-rshrhssfrn|Rashira of House Safiron]]**, a former senior **Grammatissa** of the Naukrátissa's office in [[affiliation-bethuanflt|the Bethuan Fleet]] and a keeper of the sealed rolls of the [Purple Warrant]{.name data-type="miscgear"}. Rashira has fled with the one stolen original, written on crown purple vellum under unforgeable seals. Lámbira does not discuss who hired her, and the circles that know her work call her **the Hound of the Veil**.
 
-What sets this hunt apart is what Lámbira has _not_ been told. Her handlers at the Veil have given her only the shape of the thing—that Rashira stole secrets that would be catastrophic in the wrong hands—and bound her with one standing order above all others: **she is never to read the stolen papers, and never to let Rashira speak her case.** The fugitive is a liar, they warn, a silver-tongued clerk who will say anything to save her own neck, and a single conversation could turn a loyal woman. So Lámbira's charge is as simple as it is absolute—recover the rolls or destroy them, kill their keeper, and learn nothing of what they contain. She does not know that the order to keep her ignorant is the whole point, nor that the truth written on that purple vellum would damn the very masters who loosed her.
+:::secret {title="The Veil's commission"}
+Through the discreet intermediaries of the [[affiliation-courtveil|Court of the Veil]], the household of Metrissa [[being-amithenakrvn|Amithena of House Kervanion]] herself has set Lámbira after Rashira. The stolen register lays bare the truth of the deniable war on [[place-vylarianse|Vilérian]] shipping: most of its "patriot privateers" are common criminals, the Great Houses and the Metrissa herself grow rich on the plunder with no real benefit to the realm, and the matriarchy has been secretly preying on its own patron [[affiliation-empireakhlth|Empire of Au'Khelathu]], fencing grave-goods robbed from the [[lore-khelathiclt|Khelathi]] dead. That single roll is incontrovertible, and in the wrong hands it could cost Bethua the patron on whom its freedom depends.
+:::
 
-Rashira did not run for the northern ports as a defector is expected to, but the other way—south, into the [[place-sthmrchsrgn|South Marches]] beyond the matriarchy's frontier, and through them east: her goal is [[affiliation-empireakhlth|Empire of Au'Khelathu]], the betrayed patron, the one power with reason and strength enough to act on the proof she carries. So the hunt has carried Lámbira south into the lawless drylands—and into the territory of [[being-argyrirjckl|Argirira the Jackal]], the exiled warlord who blames Lámbira for her own ruin and has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the [[affiliation-vylarinmpr|Vilérian Empire]]'s agent [[being-casiaveric|Kassa Verris]] works the same country, courting Rashira and closing the roads east, for Viléria wants the register for itself and fears a Bethuan recovery more than a Khelathi one. In this tangle Lámbira can call on the resources of Dómissa [Othris]{.name data-type="being/npc"} of [House Othris-Khanu]{.name data-type="affiliation/lineage"}, the great maritime House whose own secrets sit among the stolen rolls and who wants them recovered as badly as the Veil does.
+:::secret {title="What Lámbira has not been told"}
+Her handlers at the Veil have given her only the shape of the thing—that Rashira stole secrets that would be catastrophic in the wrong hands—and bound her with one standing order above all others: **she is never to read the stolen papers, and never to let Rashira speak her case.** The fugitive is a liar, they warn, a silver-tongued clerk who will say anything to save her own neck, and a single conversation could turn a loyal woman. So Lámbira's charge is as simple as it is absolute—recover the rolls or destroy them, kill their keeper, and learn nothing of what they contain. She does not know that the order to keep her ignorant is the whole point, nor that the truth written on that purple vellum would damn the very masters who loosed her.
+:::
+
+Rashira did not run for the northern ports as a defector is expected to, but the other way—south, into the [[place-sthmrchsrgn|South Marches]] beyond the matriarchy's frontier. So the hunt has carried Lámbira south into the lawless drylands—and into the territory of [[being-argyrirjckl|Argirira the Jackal]], the exiled warlord who blames Lámbira for her ruin. In this country Lámbira can call on the resources of Dómissa [Othris]{.name data-type="being/npc"} of [House Othris-Khanu]{.name data-type="affiliation/lineage"}, the great maritime House.
+
+:::secret {title="Who else is in the Marches"}
+Rashira means to cross the Marches and go on east toward [[affiliation-empireakhlth|Empire of Au'Khelathu]].
+
+Argirira has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the [[affiliation-vylarinmpr|Vilérian Empire]]'s agent [[being-casiaveric|Kassa Verris]] works the same country, courting Rashira and closing the roads east, for Viléria wants the register for itself and fears a Bethuan recovery more than a Khelathi one. House Othris-Khanu's own secrets sit among the stolen rolls, and Othris wants them recovered as badly as the Veil does.
+:::
 
 ### End Goal
 
-Lámbira must run Rashira to ground and recover the Purple Warrant—or, failing that, destroy it—before it reaches Au'Khelathu or Viléria. The stakes are the realm itself: the register's truth in Khelathi hands could cost Bethua the patron its independence rests on, and in Vilérian hands could arm the empire to shatter that alliance outright. Yet the deeper she chases, the more the work troubles her. Rashira is no common traitor, and the rot she carries proof of is real—and Lámbira, a peasant's daughter who has spent her life as the instrument of powerful women, has begun to wonder whether she is sent to serve justice or to bury it. Whether her loyalty lies with the Metrissa who loosed her or with her own conscience is a question this hunt may force her to answer.
+Lámbira must run Rashira to ground and recover the Purple Warrant—or, failing that, destroy it—before it leaves the Marches. Yet the deeper she chases, the more the work troubles her. Rashira is no common traitor, and Lámbira, a peasant's daughter who has spent her life as the instrument of powerful women, has begun to wonder whether she is sent to serve justice or to bury it. Whether her loyalty lies with the one who loosed her or with her own conscience is a question this hunt may force her to answer.
+
+:::secret {title="What the register's loss would cost"}
+The register's truth in Khelathi hands could cost Bethua the patron its independence rests on, and in Vilérian hands could arm the empire to shatter that alliance outright. The rot Rashira carries proof of is real. Lámbira must stop the register before it reaches Au'Khelathu or Viléria.
+:::
 
 ### Skills and Abilities
 
@@ -541,7 +553,11 @@ Dómissa Tázitha of House Khalithon
 : Lámbira's first patron, the clan-matriarch who raised her out of the village levy into her own household guard and taught her the trade of arms. Though Lámbira has long since left her service, the Dómissa remains a resource and an occasional advisor, and her word still opens doors among the lesser Houses of the southern cantons.
 
 Dómissa Othris of House Othris-Khanu
-: Matriarch of Bethua's principal maritime House and Lámbira's patron for the present hunt. Othris-Khanu's own dealings sit among the secrets in Rashira's stolen rolls, and the Dómissa has thrown her ships, her captains, and her coin behind the pursuit—acting, it is understood, for the Court of the Veil. Her interest is real but not disinterested, and Lámbira knows better than to assume their goals are identical.
+: Matriarch of Bethua's principal maritime House and Lámbira's patron for the present hunt. The Dómissa has thrown her ships, her captains, and her coin behind the pursuit. Her interest is real but not disinterested, and Lámbira knows better than to assume their goals are identical.
+
+:::secret {title="Othris acts for the Veil"}
+Othris-Khanu's own dealings sit among the secrets in Rashira's stolen rolls, and the Dómissa acts, it is understood, for the Court of the Veil.
+:::
 
 [Munetha of House Gholaris]{.name data-type="being/npc"}
 : A rival thief-taker of real skill and Lámbira's long-standing competitor for the richest contracts. The two have crossed paths often, sometimes as rivals and sometimes as wary allies; Munetha respects Lámbira's gifts and resents them too, and her help, when it comes, always carries a price and a hidden angle.
@@ -552,7 +568,11 @@ Dómissa Othris of House Othris-Khanu
 : Lámbira's quarry—the renegade Grammatissa who fled the Naukrátissa's office with the sealed Warrant-rolls. Once a trusted keeper of the realm's deepest naval secret, she is now its most dangerous fugitive: intelligent, well-connected, and carrying knowledge that powerful people on both shores of the [[place-vylarianse|Vilérian Sea]] would kill to control or to bury. She insists she is no traitor, but a woman fleeing a rot she could no longer serve.
 
 [[being-casiaveric|Kassa Verris]]
-: The Vilérian agent working the same Marches—courting Rashira toward a Vilérian handover, closing the roads east to keep the register from Au'Khelathu, and sabotaging Lámbira's own hunt at every turn. To Viléria a Bethuan recovery is the worst outcome of all, so Kassa means to see the Hound confused, misled, and delayed until the rolls are in imperial hands—though she is far too careful to be seen doing it.
+: A foreign trading factor working the same Marches, who has been courting Rashira's trust.
+
+:::secret {title="Kassa's work against the Hound"}
+Kassa is a Vilérian agent. She courts Rashira toward a Vilérian handover, closes the roads east to keep the register from Au'Khelathu, and sabotages Lámbira's own hunt at every turn. To Viléria a Bethuan recovery is the worst outcome of all, so Kassa means to see the Hound confused, misled, and delayed until the rolls are in imperial hands—though she is far too careful to be seen doing it.
+:::
 
 [[being-argyrirjckl|Argirira the Jackal]] and her warband, [[affiliation-jcklsthmrchs|the Jackals of the South Marches]]
 : A warband of the Houseless in the drylands beyond Bethua's southern frontier, led by an exiled spear-sister who blames Lámbira—rightly—for her ruin. Years ago a hunt of Lámbira's turned bloody on Argirira's own ground and brought about her disgrace, the loss of her House, and her exile from the matriarchy; the renegade has nursed the grudge ever since, and made of Bethua's castoffs a power that owes the realm nothing. Answerable to no Dómissa, the Jackals sell their blades to whoever pays—and Rashira's protectors have coin enough to set them on Lámbira's trail.
@@ -568,13 +588,21 @@ Dómissa Othris of House Othris-Khanu
 ## Plot Hooks
 
 The Fugitive's Refuge
-: Lámbira learns that Rashira has not run blindly north but has bought the protection of a [[affiliation-bethuanflt|warrant-captain]] of doubtful loyalty—a privateer who has read enough of the stolen rolls to know their worth and is weighing whether to sell Rashira to Viléria herself. To reach her quarry, Lámbira must get aboard or alongside a ship whose mistress may be the realm's enemy or merely its most opportunistic servant, and decide how far she can trust a woman with everything to gain from betrayal.
+: Lámbira learns that Rashira has not run blindly south but has bought the protection of a [[affiliation-bethuanflt|warrant-captain]] of doubtful loyalty—a privateer who has read enough of the stolen rolls to know their worth and is weighing whether to sell Rashira to Viléria herself. To reach her quarry, Lámbira must get aboard or alongside a ship whose mistress may be the realm's enemy or merely its most opportunistic servant, and decide how far she can trust a woman with everything to gain from betrayal.
 
 The Price of the Trail
-: Her rival **Munetha of House Gholaris** claims to know exactly where Rashira will make her crossing—but demands Lámbira surrender a standing bounty, and her pride with it, to learn it. Worse, Munetha's knowledge hints that she has had her own quiet dealings with the fugitive's protectors; taking the bargain may bind Lámbira into a conspiracy that could see her named traitor to the Veil if it ever comes to light.
+: Her rival **Munetha of House Gholaris** claims to know exactly where Rashira will make her crossing—but demands Lámbira surrender a standing bounty, and her pride with it, to learn it. Worse, Munetha's knowledge hints that she has had her own quiet dealings with the fugitive's protectors; taking the bargain may bind Lámbira into a conspiracy that could see her named a traitor if it ever comes to light.
 
 Into the Marches
-: Following Rashira's trail into the dry [[place-sthmrchsrgn|South Marches]], Lámbira's party rides straight into the country of [[being-argyrirjckl|Argirira the Jackal]]—and into an ambush the exiled warlord has prepared with a patience no contract could buy. Hired through [[being-casiaveric|Verris]]'s agents to bleed away the time Rashira needs, Argirira means to take far more than coin from this hunt. With [[being-narisahrvn|Dujarlun]]'s sight and [[being-tlnrzyghrs|Tálanira]]'s contacts, Lámbira must break free of the woman she herself unmade—who wants her dead for reasons far older than any paymaster's—before her quarry slips out the far side of the Marches and away.
+: Following Rashira's trail into the dry [[place-sthmrchsrgn|South Marches]], Lámbira's party rides straight into the country of [[being-argyrirjckl|Argirira the Jackal]]—and into an ambush the exiled warlord has prepared with a patience no contract could buy. Argirira means to take far more than coin from this hunt. With [[being-narisahrvn|Dujarlun]]'s sight and [[being-tlnrzyghrs|Tálanira]]'s contacts, Lámbira must break free of the woman she herself unmade—who wants her dead for reasons far older than any paymaster's—before her quarry slips out the far side of the Marches and away.
+
+:::secret {title="Who hired the Jackals"}
+Argirira was hired through [[being-casiaveric|Verris]]'s agents to bleed away the time Rashira needs.
+:::
 
 What the Rolls Reveal
-: Cornered at last, Rashira offers Lámbira not a fight but a choice: read the Warrant-rolls, and see for yourself what you are protecting. The register lays bare the whole machinery of the deniable war—the crown-licensed piracy, the Houses grown rich on it, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] patron pulling the strings, and the men and ships spent to keep it secret. Rashira means to carry the truth to those who would end it; Lámbira must weigh her oath to the Metrissa who loosed her against the rot the register would expose—and decide, at last, whose hound she truly is.
+: Cornered at last, Rashira offers Lámbira not a fight but a choice: read the Warrant-rolls, and see for yourself what you are protecting. Rashira means to carry the truth to those who would end it; Lámbira must weigh her oath to the one who loosed her against the rot the register would expose—and decide, at last, whose hound she truly is.
+
+:::secret {title="What the register lays bare"}
+The register lays bare the whole machinery of the deniable war—the crown-licensed piracy, the Houses grown rich on it, the [[affiliation-empireakhlth|Empire of Au'Khelathu]] patron pulling the strings, and the men and ships spent to keep it secret. Lámbira's oath is to the Metrissa.
+:::

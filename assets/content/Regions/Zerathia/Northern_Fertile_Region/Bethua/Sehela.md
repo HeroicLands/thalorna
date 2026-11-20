@@ -34,7 +34,7 @@ The fields belong to House Khalithon, the water belongs to the [[affiliation-ord
 
 ## Who Leads It {#who-leads}
 
-The Dómissa of House Khalithon, [Tázitha]{.name data-type="being/npc"}, holds the village and the cantons around it. Her steward lives in the village and keeps the House's roll of tenants and shares. The Order keeps a Hiora at the head gate who opens and closes the channels and answers to the Order, and the two offices seldom agree on whose word a gate answers to. The village levy drills under veterans of the Dómissa's guard, the women who trained [[being-lmbhrpdhnn|Lámbira]], and the [[affiliation-spearsisterhood|Spear-Sisterhood]] counts the levy among the hands it can call on for the southern posts.
+The Dómissa of House Khalithon, [[being-tazithakhlthn|Tázitha of House Khalithon]], holds the village and the cantons around it. Her steward lives in the village and keeps the House's roll of tenants and shares. The Order keeps a Hiora at the head gate who opens and closes the channels and answers to the Order, and the two offices seldom agree on whose word a gate answers to. The village levy drills under veterans of the Dómissa's guard, the women who trained [[being-lmbhrpdhnn|Lámbira]], and the [[affiliation-spearsisterhood|Spear-Sisterhood]] counts the levy among the hands it can call on for the southern posts.
 
 ## The Failing or the Quarrel {#present}
 
