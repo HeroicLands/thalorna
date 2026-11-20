@@ -29,3 +29,11 @@ The herders feed it. They sell sheep, goats, horses and camels at the fair and p
 ## The Present {#present}
 
 Two kinds of raider want the fair's herds: Khazrin steppe bands from the north-east and the kinless of the desert from the south. The clans bring their own riders to the fair, and in a bad year the town holds more armed herders than garrison.
+
+## See Also {#see-also}
+
+[[place-threeseas|The Three Seas]]
+: the far east of Amradad and its herding plain
+
+[[scenario-thrdpetition|The Third Petition]]
+: a scenario: a beaten clan asks the Warrior's Circle to hold Shadezan Kamruz to the Old Promise

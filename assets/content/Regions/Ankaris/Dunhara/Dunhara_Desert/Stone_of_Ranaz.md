@@ -36,3 +36,6 @@ The coming season-turn promises the fullest shrine in years. The Council of Elde
 
 [[place-dunhardsrtrgn|Dunhara]]
 : the desert whose tribes share the shrine
+
+[[scenario-thrdpetition|The Third Petition]]
+: a scenario: a beaten clan asks the Warrior's Circle to hold Shadezan Kamruz to the Old Promise

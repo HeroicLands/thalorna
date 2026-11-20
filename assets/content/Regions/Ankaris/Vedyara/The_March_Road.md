@@ -51,3 +51,6 @@ Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Ban
 
 [[scenario-roadroundwall|The Road Round the Wall]]
 : a scenario set here
+
+[[scenario-trnbtwnshks|The Train Between Two Sheikhs]]
+: a scenario set here

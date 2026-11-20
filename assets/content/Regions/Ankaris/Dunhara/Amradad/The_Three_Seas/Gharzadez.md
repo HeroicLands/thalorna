@@ -29,3 +29,14 @@ The town lives on the March Road and the Kingdom's pay. Grain and salt from [[pl
 ## The Present {#present}
 
 The kinless of the desert raid the last stage of the March Road, where the trains are slowest and their escorts' pay runs out, and the garrison rides out to meet the trains it has word of. A caravan-master pays either a sheikh's escort or the Kingdom's for that stage, and the _tagemader_ wants every one of them to pay the Kingdom's. Two tribes of the edge each claim the right to escort trains across the desert stage beyond the town, and while they quarrel over it, caravans wait inside the walls.
+
+## See Also {#see-also}
+
+[[place-mirrorsea|The Mirror Sea]]
+: the salt sea on whose eastern shore the fort stands
+
+[[place-marchroad|The March Road]]
+: the road from Vedyara that ends at the gate
+
+[[scenario-trnbtwnshks|The Train Between Two Sheikhs]]
+: a scenario: a grain train stranded at the handover well while two chieftains dispute the last stage
