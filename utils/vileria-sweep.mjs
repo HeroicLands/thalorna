@@ -27,7 +27,8 @@
  * Note files whose names carry a Vylar or Khazryn form, or a respelled form, are
  * renamed to the accent-free form (Vylarian_Empire.md becomes Vilerian_Empire.md,
  * Khazryn_Desert.md becomes Khazrin_Desert.md, Lut_Regyt.md becomes Lut_Regit.md);
- * directories are not.
+ * directories are not. This organization step is optional; content validity
+ * does not depend on file names.
  *
  * Usage: node utils/vileria-sweep.mjs [--check] [path ...]
  * Without paths it sweeps `assets/content` and `.changeset`. `--check`
@@ -48,7 +49,7 @@ export const MAPPING = new Map([
     ["khazryn", "khazrin"],
 ]);
 
-/** Accent-free file name forms; a note's file name is its sanitized name. */
+/** Accent-free file name forms for optional organization. */
 const FILE_FORMS = {
     Vylarians: "Vilerians",
     Vylarian: "Vilerian",
@@ -322,7 +323,7 @@ export function respellVileria(text, counts, table) {
     );
 }
 
-/** A note file name with the accent-free forms the file-name rule requires. */
+/** A note file name with the optional accent-free forms. */
 export function renamedFile(name, table) {
     const { filePattern, files } = tableOf(table);
     return name.replace(filePattern, (word) => files.get(word));

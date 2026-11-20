@@ -16,7 +16,8 @@
  * parsing the YAML, as the Vileria sweep does), fenced and inline code, `⟦…⟧` codage, wikilink targets,
  * markdown link destinations, heading ids, URLs and note addresses such as
  * `lore-aralwen`. A note file whose name carries a `files` form is renamed to
- * the replacement form; directories are not.
+ * the replacement form as an optional organization step; directories are not.
+ * Content validity does not depend on the file name.
  *
  * Rerunning it on any tree, including one that merged other work first,
  * finishes the job, and a second run changes nothing.

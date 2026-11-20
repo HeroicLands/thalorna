@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [bethuargn]
+  routes: [{to: marchesroad, bearing: S, mode: land, days: 10, terrain: [steppe, road]}]
   population: 35000
   market: regional
   type: city

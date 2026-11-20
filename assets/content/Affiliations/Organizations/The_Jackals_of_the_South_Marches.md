@@ -63,7 +63,7 @@ data:
   population: null
   economy: []
   lore: []
-  parents: []
+  parents: [frcmpnssthmrchs]
   relations: {}
   packFolder: companies
 sohl: {system: {commonSkills: []}}
@@ -71,7 +71,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Jackals are the most feared free company of the **[[place-sthmrchsrgn|South Marches]]**, the dry borderlands south of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] where the matriarchal writ grows thin. They are not a clan and not a marcher tribe but something stranger: a warband of the **Houseless**, gathered out of everything the great matriarchy to the north throws away. They take their name from their queen, the renegade spear-sister [[being-argyrirjckl|Argirira the Jackal]]—an exiled Bethuan officer who built, out of the realm's castoffs, the one thing Bethua fears above all others: a company of armed exiles, women and gelded men both, who know the matriarchy's own ways of war and owe it nothing.
+The Jackals are the most feared of the [[affiliation-frcmpnssthmrchs|Free Companies]] of the **[[place-sthmrchsrgn|South Marches]]**, the dry borderlands south of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] where the matriarchal writ grows thin. They are not a clan and not a marcher tribe but something stranger: a warband of the **Houseless**, gathered out of everything the great matriarchy to the north throws away. They take their name from their queen, the renegade spear-sister [[being-argyrirjckl|Argirira the Jackal]]—an exiled Bethuan officer who built, out of the realm's castoffs, the one thing Bethua fears above all others: a company of armed exiles, women and gelded men both, who know the matriarchy's own ways of war and owe it nothing.
 
 This makes the Jackals an anomaly in their own country. The peoples of the **South Marches are not matriarchal**—they are pastoral nomad clans led by men, who pay Bethua tribute, keep their own customs, and regard the rich realm on their northern horizon with wary hostility. A female-led warband would be unthinkable among the marcher clans themselves; the Jackals are tolerated, hired, and given room only because they are useful against a shared northern enemy, and because their queen has made them too dangerous to move against lightly.
 

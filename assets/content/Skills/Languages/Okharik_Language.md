@@ -4741,6 +4741,7 @@ data:
     - {name: Delegate, tongue: translation}
     - {name: Dóngaru Tribe, tongue: translation}
     - {name: Dóngaru Village, tongue: translation}
+    - {name: Dorumbe, tongue: okharik}
     - {name: Elder, tongue: translation}
     - {name: Elder of the Spirit, tongue: translation}
     - {name: Envoy, tongue: translation}
@@ -4748,6 +4749,7 @@ data:
     - {name: Gorombe, tongue: okharik, built: [gorombe]}
     - {name: Gorombe Spirit Power, tongue: translation}
     - {name: Granary-Keeper, tongue: translation}
+    - {name: Hasembe, tongue: okharik}
     - {name: High Priest, tongue: translation}
     - {name: Honored One, tongue: translation}
     - {name: Householder, tongue: translation}
@@ -4761,6 +4763,7 @@ data:
     - {name: Keeper of the Three Flames, tongue: translation}
     - {name: Khamunda Tribe, tongue: translation}
     - {name: Khamunda Village, tongue: translation}
+    - {name: Khandoru, tongue: okharik}
     - {name: King, tongue: translation}
     - {name: Kinless, tongue: translation}
     - {name: Kinsman, tongue: translation}
@@ -4771,13 +4774,17 @@ data:
     - {name: Korthari Zohiring, tongue: okharik, built: [korth-, -ari, zohira, -ing]}
     - {name: Kwendari Zohiring, tongue: okharik, built: [kwend-, -ari, zohira, -ing]}
     - {name: Kwendelo Nkaring, tongue: okharik, built: [kwend-, -elo, nkaru, -ing]}
+    - {name: Kwendo, tongue: okharik}
     - {name: Licensee, tongue: translation}
     - {name: Magara, tongue: okharik}
     - {name: Magara Tribe, tongue: translation}
     - {name: Magara Village, tongue: translation}
     - {name: Master of the Hunt, tongue: translation}
+    - {name: Mbarelo, tongue: okharik}
     - {name: Ndawelari Thakwaring, tongue: okharik, built: [ndawel-, -ari, thakwari, -ing]}
     - {name: Ndumbari Zhabing, tongue: okharik, built: [ndumb-, -ari, zhab-, -ing]}
+    - {name: Ngarali, tongue: okharik}
+    - {name: Njeko, tongue: okharik}
     - {name: Ngolu Nkaring, tongue: okharik, built: [ngolu, nkaru, -ing]}
     - {name: Ngorasha Tribe, tongue: translation}
     - {name: Ngorasha Village, tongue: translation}
@@ -4791,6 +4798,7 @@ data:
     - {name: Okharis Adventurer's Guide, tongue: translation}
     - {name: Okharis Region, tongue: translation}
     - {name: Okhatha-zethu Script, tongue: translation}
+    - {name: Okhelo, tongue: okharik}
     - {name: Oracle, tongue: translation}
     - {name: Outcast, tongue: translation}
     - {name: Pemburari Khutheling, tongue: okharik, built: [pembur-, -ari, khuthel, -ing]}
@@ -4802,7 +4810,10 @@ data:
     - {name: "Ritual: Nkaru'thar", tongue: translation}
     - {name: Royal Trades of Okharis, tongue: translation}
     - {name: Shókuma, tongue: okharik}
+    - {name: South Marches Adventurer's Guide, tongue: translation}
     - {name: Tálumeng, tongue: okharik}
+    - {name: Tarembe, tongue: okharik}
+    - {name: Thumbel, tongue: okharik}
     - {name: Wámbuchi, tongue: okharik}
     - {name: Yéshiro, tongue: okharik}
     - {name: Zhíkande, tongue: okharik}
@@ -4846,6 +4857,7 @@ data:
     - {name: The Way of the Zohira, tongue: translation}
     - {name: The Wild Flame, tongue: translation}
     - {name: Tribute-Warden, tongue: translation}
+    - {name: Ukhedo, tongue: okharik}
     - {name: Villager/Townsman, tongue: translation}
     - {name: Vuthraka, tongue: okharik}
     - {name: Wámbuchi Tribe, tongue: translation}

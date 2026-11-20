@@ -13,7 +13,10 @@ data:
     - {to: bethuargn, bearing: W}
     - {to: dunharargn, bearing: NE}
     - {to: vylarianse, bearing: NW}
-  routes: [{to: chandrmukha, bearing: NE, mode: ship, days: 30}]
+    - {to: sthmrchsrgn, bearing: SW}
+  routes:
+    - {to: chandrmukha, bearing: NE, mode: ship, days: 30}
+    - {to: marchesroad, bearing: W, mode: land, days: 10, terrain: [steppe, road]}
   population: 19000000
   packFolder: regkhregn
   government: empireakhlth

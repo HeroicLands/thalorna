@@ -82,6 +82,83 @@ test("migration comparison rejects lost records, changed concepts, senses, names
     }
 });
 
+test("the indexed council reference preserves the English reading", () => {
+    const { before, current } = fixture();
+    before.file = current.file = notePath("skill-nyalbnlng");
+    const historical =
+        'The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [Great Lubemo]{.name data-type="affiliation/governmental"} is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.';
+    const indexed = historical.replace(
+        '[Great Lubemo]{.name data-type="affiliation/governmental"}',
+        "[[affiliation-greatlubemo|Great Lubemo]]",
+    );
+    const native = "::: {lang=aelw}\ncolour grey favour\n:::\n";
+    before.raw += historical + "\n" + native;
+    current.raw += indexed + "\n" + native;
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(current, before));
+
+    const otherNoteBefore = { ...before, file: notePath("skill-dunharlng") };
+    const otherNoteCurrent = {
+        ...current,
+        file: otherNoteBefore.file,
+        raw: current.raw.replace(indexed, historical),
+    };
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(otherNoteCurrent, otherNoteBefore));
+    assert.throws(
+        () =>
+            assertEncodingMigrationPreserved(
+                { ...otherNoteCurrent, raw: current.raw },
+                otherNoteBefore,
+            ),
+        /original reading changed: The council of the five/,
+    );
+
+    const otherSpan = 'A [Council]{.name data-type="affiliation/governmental"} meets.';
+    const otherSpanBefore = { ...before, raw: before.raw + otherSpan + "\n" };
+    const otherSpanCurrent = { ...current, raw: current.raw + otherSpan + "\n" };
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(otherSpanCurrent, otherSpanBefore));
+    assert.throws(
+        () =>
+            assertEncodingMigrationPreserved(
+                {
+                    ...otherSpanCurrent,
+                    raw: otherSpanCurrent.raw.replace(
+                        otherSpan,
+                        "A [[affiliation-council|Council]] meets.",
+                    ),
+                },
+                otherSpanBefore,
+            ),
+        /original reading changed: A \[Council\]/,
+    );
+
+    const reading = "The English reading stays exactly the same.";
+    const reordered = current.raw.replace(reading + "\n" + indexed, indexed + "\n" + reading);
+    assert.notEqual(reordered, current.raw);
+    assert.throws(
+        () => assertEncodingMigrationPreserved({ ...current, raw: reordered }, before),
+        /original reading changed: The council of the five/,
+    );
+    assert.throws(
+        () =>
+            assertEncodingMigrationPreserved(
+                { ...current, raw: current.raw.replace("colour grey favour", "color grey favour") },
+                before,
+            ),
+        /original reading changed: colour grey favour/,
+    );
+    for (const [from, to] of [
+        ["objections stop", "objections end"],
+        ["|Great Lubemo]]", "|Lubemo]]"],
+        ["affiliation-greatlubemo", "affiliation-other"],
+    ]) {
+        const altered = { ...current, raw: current.raw.replace(from, to) };
+        assert.throws(
+            () => assertEncodingMigrationPreserved(altered, before),
+            /original reading changed/,
+        );
+    }
+});
+
 test("the American baseline keeps a whole language block in its own spelling", () => {
     const raw = [
         "---",

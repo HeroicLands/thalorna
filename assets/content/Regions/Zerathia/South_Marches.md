@@ -9,7 +9,10 @@ data:
   demonym: Marcher
   lore: [humanflk]
   parents: [xerathia]
-  borders: [{to: bethuargn, bearing: N}, {to: cntrlrnfrsts, bearing: S}]
+  borders:
+    - {to: bethuargn, bearing: N}
+    - {to: cntrlrnfrsts, bearing: S}
+    - {to: aukhelathrgq, bearing: NE}
   population: null
   packFolder: xerathia
 
@@ -60,6 +63,8 @@ whose kingdom counts them among its own tribes and whose herding cycles they
 share; the temple-cities are far, though, and a marcher clan answers to
 its own headmen before anyone else.
 
+Two tribes hold the country: [[affiliation-dorumbetribe|the Dorumbe]] in the west, at the foot of the spurs, and [[affiliation-hasembetribe|the Hasembe]] in the east, along the road. Their seats are [[place-dorumbecamp|Dorumbe Camp]] and [[place-hasembecamp|Hasembe Camp]], and about half a million people live in the Marches, nearly all of them in the two tribes' camps.
+
 Their ways are the inversion of everything to their north. A clan's head is a
 man; stock, wells and grazing pass from father to son; men bear arms as a
 matter of course and women do not lead. The matriarchy's ordering of the
@@ -88,7 +93,7 @@ or the grass fails.
 
 ## The Free Companies
 
-Country that no realm holds breeds armed bands, and the Marches carry several.
+Country that no realm holds breeds armed bands, and the Marches carry several, which together are [[affiliation-frcmpnssthmrchs|the Free Companies]].
 The most feared of them are
 [[affiliation-jcklsthmrchs|the Jackals of the South Marches]]—not a clan and not
 a marcher tribe, but a warband of the Houseless: exiled Bethuan women and
@@ -101,12 +106,12 @@ too dangerous to move against lightly.
 
 ## The Road
 
-One road crosses the Marches worth the name: the track that runs from the
+One road crosses the Marches worth the name, [[place-marchesroad|the Marches Road]]: the track that runs from the
 Bethuan frontier along the forage belts and the watering-places, eastward
 across the drylands toward the [[lore-khelathiclt|Khelathi]] frontier and the grazing-margin selatu of
 [[place-aukhelathrgq|Au'Khelathu Region]]. It is the way a caravan takes when the coast is
 closed to it, and the way a fugitive takes who cannot use the northern ports.
-Whoever holds the wells
+Whoever holds the wells ([[place-longwells|the Long Wells]])
 holds the road, and that is the Jackals.
 
 ## Seen from Bethua
@@ -149,3 +154,28 @@ hold, and would rather not look past it.
 : the exile-queen who rules the road
 
 [[place-khuqetzalu|Khuqet-Zalu]]
+: the chain of Khelathi forts on the wells
+
+[[affiliation-dorumbetribe|Dorumbe Tribe]]
+: the western marcher tribe
+
+[[affiliation-hasembetribe|Hasembe Tribe]]
+: the eastern marcher tribe
+
+[[place-dorumbecamp|Dorumbe Camp]]
+: the western tribe's seat at the foot of the spurs
+
+[[place-hasembecamp|Hasembe Camp]]
+: the eastern tribe's seat on the road
+
+[[place-marchesroad|The Marches Road]]
+: the road across the drylands
+
+[[place-longwells|The Long Wells]]
+: the wells that hold the country together
+
+[[affiliation-frcmpnssthmrchs|The Free Companies of the South Marches]]
+: the armed bands that live off the herds and caravans
+
+[[doc-sthmrchsadvguide|South Marches Adventurer's Guide]]
+: a player's introduction to the Marches
