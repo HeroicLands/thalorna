@@ -13,6 +13,9 @@ data:
     - {to: okharisrgn, bearing: N}
     - {to: sthmrchsrgn, bearing: N}
     - {to: sthrnsvnhs, bearing: S}
+  routes:
+    - {to: vuthraka, bearing: N, mode: land, days: 10, terrain: [jungle, plain]}
+    - {to: sthrnsvnhs, bearing: S, mode: land, days: 30, terrain: [jungle, plain]}
   population: 250000
   packFolder: centralrainforests
 

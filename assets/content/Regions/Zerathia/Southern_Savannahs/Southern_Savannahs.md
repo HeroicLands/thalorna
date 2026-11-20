@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [xerathia]
   borders: [{to: cntrlrnfrsts, bearing: N}]
+  routes: [{to: cntrlrnfrsts, bearing: N, mode: land, days: 30, terrain: [plain, jungle]}]
   population: 2000000
   packFolder: southernsavannahs
 

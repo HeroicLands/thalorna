@@ -3,7 +3,7 @@ shortcode: okharisrgn
 name: {full: Okharis Region}
 type: place
 subType: region
-description: The southern margin of Zerathia's fertile belt—hot, rain-fed forest, river valleys and grassland in the west, drying eastward to semi-arid savanna at the Bethua border, held by the three temple-cities of Okharis and the village tribes that owe them fealty.
+description: The western end of Zerathia's northern shore—a long north coast on the Vilérian Sea, hot rain-fed forest, river valleys and grassland, drying eastward to semi-arid savanna at the Bethua border, held by the three temple-cities of Okharis and the village tribes that owe them fealty.
 tags: [region]
 data:
   demonym: Okharik
@@ -21,12 +21,13 @@ data:
 
 ## Overview {#overview}
 
-The Okharis Region is the southern margin of the
+The Okharis Region is the western end of the
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the country held by
-[[affiliation-okharis|Okharis]], where hot, rain-watered forest, river valleys
-and grassland in the west dry eastward into savanna. It is the last settled country before the
+[[affiliation-okharis|Okharis]], which fronts the [[place-vylarianse|Vilérian Sea]] along
+a long north coast and reaches south to the
 [[place-cntrlrnfrsts|Central Rainforests]], beyond which no northern
-civilization has established a lasting presence.
+civilization has established a lasting presence. Hot, rain-watered forest, river
+valleys and grassland in the west dry eastward into savanna.
 
 ## Geography
 
@@ -37,9 +38,9 @@ The western land is fertile without canals: barley, sorghum, flax, dates and
 figs grow on rain and river water, and the open plains carry cattle and horses.
 The rains lessen moving east, and by the border with
 [[place-bethuargn|Bethua]] the land is semi-arid savanna and herding country.
-Three temple-cities stand above the villages—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]]—and the
-region's western edge touches the wet-coastal strip that runs the length of the
-northern shore.
+Three temple-cities stand above the villages—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]].
+
+The **north coast** is the region's long face on the [[place-vylarianse|Vilérian Sea]]: the wet-coastal strip of the northern shore, with sea-tempered winters and the orchard crops that go with them, runs the whole length of it. Its harbor is [[place-kaljekor|Kaljekor]], from which ships cross the western basin to Provénzia and the Tarvénian shore, and Okharik cattle, bronze and worked metal go out by the same quays. A lone island lies off the coast in the sea's western basin. [[place-vuthraka|Vuthraka]] stands on the opposite frontier, where the grassland meets the rainforest wall, and a track runs south from it into the forest.
 
 ## Where the People Live
 
@@ -76,11 +77,17 @@ temple-cities into a tributary relationship collapsed within a generation
 [[affiliation-okharis|Okharis]]
 : the realm that holds this region
 
-[[place-aukhelathrgq|Au'Khelathu Region]]
-: the empire beyond Bethua, to the east
+[[place-vylarianse|Vilérian Sea]]
+: the sea the north coast faces
+
+[[place-bethuargn|Bethua Region]]
+: neighbor to the east, between Okharis and Au'Khelathu
 
 [[place-cntrlrnfrsts|Central Rainforests]]
 : the wall to the south
+
+[[place-aukhelathrgq|Au'Khelathu Region]]
+: the river country beyond Bethua
 
 [[place-shuremis|The Ash-Fold]]
 : the walled temple estate on the grazing lands east of Zarhanis
@@ -147,6 +154,3 @@ temple-cities into a tributary relationship collapsed within a generation
 
 [[place-zhikandevlg|Zhíkande Village]]
 : the village of [[affiliation-zhikandetrb|Zhíkande Tribe]]
-
-[[place-vylarianse|Vilérian Sea]]
-: the sea beyond the coast

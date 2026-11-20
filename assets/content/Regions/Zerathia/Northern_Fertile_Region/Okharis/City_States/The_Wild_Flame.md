@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [okharisrgn]
+  routes: [{to: cntrlrnfrsts, bearing: S, mode: land, days: 10, terrain: [plain, jungle]}]
   population: 9900
   type: town
   market: regional

@@ -10,6 +10,9 @@ data:
   demonym: null
   lore: []
   parents: [garanlghtslt]
+  routes:
+    - {to: taruzelrgn, bearing: N, mode: ship, days: 2, terrain: [open-sea]}
+    - {to: vylariargn, bearing: NW, mode: ship, days: 3, terrain: [open-sea]}
   population: 120000
   type: metropolis
   market: international

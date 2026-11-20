@@ -49,6 +49,14 @@ between them, open grassland pastures sheep, cattle and horses.
 The interior is semi-arid savanna in the west and grows more arid eastward,
 to chaparral at the border with Au'Khelathu.
 
+Two roads cross the country. The **coast road** is the one land route that joins
+the three countries of the northern shore: it runs west from [[place-gezazabu|Gezazabu]], the western delta port of
+[[place-aukhelathrgq|Au'Khelathu]], through [[place-bethura|Bethura]] to
+[[place-kaljekor|Kaljekor]] in [[place-okharisrgn|Okharis]]. A second road runs
+south from Bethura across the irrigated strips to the frontier posts and the
+wells of the [[place-sthmrchsrgn|South Marches]]. By sea, Bethura is the
+shortest crossing to the Tarvénian shore.
+
 ## Where the People Live
 
 Three million people live in the region, and about one in twenty lives in a city or town. The coastal strip and the irrigated strips along the aqueducts and qanats hold nearly all of them: every town stands at a channel's head, on a harbor, or on the Marches road. Between the strips lies grassland with flocks and few people, and the dry interior holds almost no one beyond the qanat villages. The capital [[place-bethura|Bethura]] is the one city, with a second port at [[place-tharenia|Tharenia]], and the towns feed on the grain of the strips the engineer-priestesses keep alive.
@@ -83,6 +91,12 @@ friction.
 
 [[place-okharisrgn|Okharis Region]]
 : neighbor to the west
+
+[[place-sthmrchsrgn|South Marches]]
+: the drylands south of the frontier posts
+
+[[place-vylarianse|Vilérian Sea]]
+: the sea the coast faces
 
 [[place-ashira|Oshira]]
 

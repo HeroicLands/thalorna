@@ -13,6 +13,7 @@ data:
     - {to: bethuargn, bearing: N}
     - {to: cntrlrnfrsts, bearing: S}
     - {to: aukhelathrgq, bearing: NE}
+  routes: [{to: bethura, bearing: N, mode: land, days: 10, terrain: [steppe, road]}]
   population: 500000
   packFolder: xerathia
 

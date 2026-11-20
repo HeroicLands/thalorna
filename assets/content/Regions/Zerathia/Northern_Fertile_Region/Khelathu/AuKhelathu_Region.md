@@ -39,7 +39,7 @@ The delta shares the wet-coastal character of the whole northern shore: sea-temp
 
 Upstream, the valley is almost tropical. Its water is warm enough that hippopotami and crocodiles thrive in it and kill farmers every year, and on a summer evening the air on the bank feels nothing like the dry country a day's ride to either side.
 
-Beyond the flood's reach is desert. West of the river, high desert and chaparral run out toward the [[lore-bethuanclt|Bethuan]] frontier and give way to sand dunes nearer the valley; east, the land rises into rugged, mineral-rich hills before it runs out into the semi-desert of [[place-khuqetmiglet|Khuqet-Miglet]] and the [[lore-dunhariclt|Dunhari]] sand seas. Canal and cistern carry water a little way into this country, and herds graze its margins; nothing else lives there by choice. The deep sands of [[place-lareshu|Lareshu]] lie out beyond the settled country altogether.
+Beyond the flood's reach is desert. West of the river, high desert and chaparral run out toward the [[lore-bethuanclt|Bethuan]] frontier and give way to sand dunes nearer the valley. In the western desert lies the lake of [[place-maguithnet|Magu-Ithnet]], some ninety-four miles long, filled by a canal from the river and with reclaimed estates along its eastern shore. East of the river, the land rises into rugged, mineral-rich hills before it runs out into the semi-desert of [[place-khuqetmiglet|Khuqet-Miglet]] and the [[lore-dunhariclt|Dunhari]] sand seas. Canal and cistern carry water a little way into this country, and herds graze its margins; except in the lake basin, nothing else lives there by choice. The deep sands of [[place-lareshu|Lareshu]] lie out beyond the settled country altogether.
 
 ## Where the People Live
 
@@ -112,6 +112,9 @@ Behind all of it stands the throne's standing. The [[lore-garauu|Gar-Au]] is 46 
 
 [[place-khuqetmiglet|Khuqet-Miglet]]
 : the northeastern desert-march toward [[place-dunharargn|Dunhara]]
+
+[[place-maguithnet|Magu-Ithnet]]
+: the canal-fed lake of the western desert
 
 [[place-lutithnet|Lut-Ithnet]]
 : a funerary estate under the western cliffs, at the end of a canal that has run dry

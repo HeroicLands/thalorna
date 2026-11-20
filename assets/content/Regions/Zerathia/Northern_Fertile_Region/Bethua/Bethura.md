@@ -9,7 +9,13 @@ data:
   demonym: null
   lore: []
   parents: [bethuargn]
-  routes: [{to: marchesroad, bearing: S, mode: land, days: 10, terrain: [steppe, road]}]
+  routes:
+    - {to: tarvenirgn, bearing: N, mode: ship, days: 3, terrain: [open-sea]}
+    - {to: vylariargn, bearing: NE, mode: ship, days: 3, terrain: [open-sea]}
+    - {to: gezazabu, bearing: E, mode: land, days: 20, terrain: [road]}
+    - {to: kaljekor, bearing: W, mode: land, days: 20, terrain: [road]}
+    - {to: sthmrchsrgn, bearing: S, mode: land, days: 10, terrain: [road, steppe]}
+    - {to: marchesroad, bearing: S, mode: land, days: 10, terrain: [steppe, road]}
   population: 35000
   market: regional
   type: city

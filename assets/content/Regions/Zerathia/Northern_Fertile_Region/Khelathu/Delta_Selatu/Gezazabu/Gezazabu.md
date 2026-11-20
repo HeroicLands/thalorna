@@ -10,6 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [gezazabuselt]
+  routes: [{to: bethura, bearing: W, mode: land, days: 20, terrain: [road]}]
   population: 9900
   type: town
   market: regional

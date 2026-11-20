@@ -17,6 +17,9 @@ data:
     - {to: heladrgn, bearing: E}
     - {to: helionis, bearing: E}
     - {to: vylarianse, bearing: S}
+  routes:
+    - {to: garanlaghet, bearing: SE, mode: ship, days: 3, terrain: [open-sea]}
+    - {to: bethura, bearing: SW, mode: ship, days: 3, terrain: [open-sea]}
   population: 24000000
   packFolder: vylaria
   government: vylarinmpr

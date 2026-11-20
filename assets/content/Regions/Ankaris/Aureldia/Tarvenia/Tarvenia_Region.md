@@ -15,6 +15,9 @@ data:
     - {to: vrystwald, bearing: N}
     - {to: vylariargn, bearing: E}
     - {to: vylarianse, bearing: S}
+  routes:
+    - {to: bethura, bearing: S, mode: ship, days: 3, terrain: [open-sea]}
+    - {to: kaljekor, bearing: SW, mode: ship, days: 5, terrain: [open-sea]}
   packFolder: tarvenia
   government: kingdmtrvn
   culture: tarvenanclt
