@@ -63,7 +63,7 @@ data:
 # terran_analog: "Kievan Rus and its steppe frontier: river-princes with druzhina retinues on the Dnieper-Volga river system, Cossack-style free frontier hosts under their atamans on the southern frontier, a monastic network that holds grain and literacy, and merchant houses on the rivers, all within reach of the Pontic steppe and its Turkic nomads. Carries over: princely rivalry checked by mutual need, hired frontier cavalry that can change sides, ransom and tribute across the steppe edge, a church-literate courtly speech. Departs: the Aureldian Pantheon in place of Orthodox Christianity, and no single princely seat that outranks the rest."
 ---
 
-Velanthia has no throne, and it has never needed one. What it has is rivers, and every river has someone who holds it. A _zhuvar_, a river-prince, holds the landings, the mills, the ferries and the grain that comes down a river, and a Velanthian places a stranger by asking whose river the stranger lives on before asking anything else. The answer says what the stranger owes, who feeds him in a bad year, and which hall he would be sent to if he were taken.
+[[place-velanthrgn|Velanthia Region]] has no throne, and it has never needed one. What it has is rivers, and every river has someone who holds it. A _zhuvar_, a river-prince, holds the landings, the mills, the ferries and the grain that comes down a river, and a Velanthian places a stranger by asking whose river the stranger lives on before asking anything else. The answer says what the stranger owes, who feeds him in a bad year, and which hall he would be sent to if he were taken.
 
 ## The River and the Prince
 

@@ -747,7 +747,7 @@ sohl:
 # terran_analog: "The East Slavic speech of the Rus principalities and its church-literate courtly register, with Turkic steppe loans in the east. Carries over: its open syllables and soft consonants, its crowded openings such as vl-, sv- and zv-, its two- and three-syllable words and given names and its three- and four-syllable house names, its endings on a vowel or on d, k, l, n, r, t, v, z, sh or ch, its zh, sh and ch, and its names built from two roots and closed with -a, -an, -ik, -ar or -ich. Departs: its f, j, ts, soft signs and held vowels are left out, and a house closes on -ich, -ov or a closing of its own, -avesh, in place of the surname endings; the eastern loans come from Sovidur and so keep the steppe words of Thalorna, not of Earth."
 ---
 
-The Velanthian Language is the tongue of [[place-velanthrgn|Velanthia]], the courtly and liturgical speech of its river-princes and the everyday speech of its villages and towns. Fluency measures the range of what a speaker can say in it. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+The Velanthian Language is the tongue of [[place-velanthrgn|Velanthia Region]], the courtly and liturgical speech of its river-princes and the everyday speech of its villages and towns. Fluency measures the range of what a speaker can say in it. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
