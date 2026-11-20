@@ -72,7 +72,7 @@ She keeps what she knows to herself, and she judges the hearths' temper before s
 
 ### Companions
 
-- Hellurivo Tolkunto: A lord.
+- [Hellurivo Tolkunto]{.secret}: A lord.
 - Kelsipavo Kossanto: The warden with whom she shares the edge.
 
 ### Patrons

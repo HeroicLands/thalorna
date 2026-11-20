@@ -10,3 +10,4 @@
 **Characters**
 
 - Lords, seers, wardens and craftspeople of the conclaves have their own pages, with crafts, life stories and hooks for play; what the conclaves conceal is marked for the GM.
+- The three Keepers of the conclaves are in a new GM Journals compendium that only the GM can open.

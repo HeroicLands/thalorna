@@ -72,7 +72,7 @@ He cannot let an insult to the herons pass, and he holds that a debt to the hero
 
 ### Companions
 
-- Tessikala Velliranto: A lord.
+- [Tessikala Velliranto]{.secret}: A lord.
 - [[being-aspelittihrsnt|Aspelitti Hirsunto]]: A warden.
 
 ### Patrons

@@ -74,7 +74,7 @@ She reads only what is shown, and when the water shows nothing, she cannot give 
 
 ### Companions
 
-- Hellurivo Tolkunto: A lord.
+- [Hellurivo Tolkunto]{.secret}: A lord.
 - [[being-ruvalittanrlln|Ruvalitta Nurellanto]]: A weaver.
 
 ### Patrons
