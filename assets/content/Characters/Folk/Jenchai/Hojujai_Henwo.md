@@ -52,7 +52,7 @@ He left a widow, [[being-reweihojujai|Hojujai Rewei]], and a son of three, [[bei
 
 **The conferral.** He held Hojai by patent when the Emperor conferred the office of Teng Ja on him in 693 AF, at thirty. The retainers of Yanwu became the household of the Teng Ja, and the Nine had peace between the houses for as long as he held the office.
 
-**The marriage.** He married [[being-reweihojujai|Rewei]], eighteen years his junior, and their son Zija was born in 705 AF, when Henwo was forty-two.
+**The marriage.** He married Rewei, eighteen years his junior, and their son Zija was born in 705 AF, when Henwo was forty-two.
 
 **The death.** He died in 709 AF, leaving the court to decide whether to confer the office on a regency. Shuiwojai and Wojai pressed it not to, and the War of the Empty Seat followed. His house keeps the mountain and the claim to the office.
 

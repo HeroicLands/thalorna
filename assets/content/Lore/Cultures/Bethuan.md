@@ -126,7 +126,7 @@ The Bethuan admire in him what the realm asks of every man and asks hardest of t
 
 ## The Woman Admired
 
-Matriarch [Aselia of House Khalath-Mara]{.name data-type="being/npc"}, the senior voice of the [[affiliation-councilmatriarchs|Council of Matriarchs]], is the woman the trading Houses point to when they say what a matriarch is for. Her House is the oldest and most prestigious of the Great Houses, seated at [[place-ashira|Oshira]], and trades in premium wine and olive oil. She has held her place for decades, and she is the most politically capable of the Bethuan trade-house figures of her generation. She is the dominant voice on the Council when she chooses to speak.
+Matriarch [[being-aseliakhlthmr|Aselia of House Khalath-Mara]], the senior voice of the [[affiliation-councilmatriarchs|Council of Matriarchs]], is the woman the trading Houses point to when they say what a matriarch is for. Her House is the oldest and most prestigious of the Great Houses, seated at [[place-ashira|Oshira]], and trades in premium wine and olive oil. She has held her place for decades, and she is the most politically capable of the Bethuan trade-house figures of her generation. She is the dominant voice on the Council when she chooses to speak.
 
 Her admiration is not a lesser form of the Spados's. Dorashos held a quarter quiet with his own body, and Aselia holds a federation of rival Houses to one standard of credit with her own word. Her cost is the weight of that silence. A matriarch who speaks only when she chooses answers for everything the Council does when she does not.
 

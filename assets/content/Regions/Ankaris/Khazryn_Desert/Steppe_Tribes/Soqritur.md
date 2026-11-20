@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Soqritur**, "the fish people", are a [[lore-sowidesclt|Sovidur]] tribe of the northern [[place-wlqtrrgn|Volketor]], in the [[place-khzryndsrtrgn|Khazrin]], whose grass runs down to a river on the frontier of [[place-velanthrgn|Velanthia]]. At a bend of the river stands one of the Velanthian oasis-and-river communities, a village of fishers and barley farmers that the Soqritur hold. The tribe governs it by a second law, its own and not the steppe's, and takes its fish and grain.
+The **Soqritur**, "the fish people", are a [[lore-sowidesclt|Sovidur]] tribe of the northern [[place-wlqtrrgn|Volketor]], in the [[place-khzryndsrtrgn|Khazrin]], whose grass runs down to a river on the frontier of [[place-velanthrgn|Velanthia]]. At a bend of the river stands [[place-smkrv|Semukarov]], one of the Velanthian oasis-and-river communities, a village of fishers and barley farmers that the Soqritur hold. The tribe governs it by a second law, its own and not the steppe's, and takes its fish and grain.
 
 ## The Range
 
@@ -93,6 +93,9 @@ The Soqritur hold that they have grazed the river grass since before the first b
 
 [[lore-sowidesclt|Sovidur]]
 : the steppe tribes and what they hold a person owes
+
+[[place-smkrv|Semukarov]]
+: the village the tribe holds
 
 [[place-velanthrgn|Velanthia]]
 : the frontier where the tribe's held village stands

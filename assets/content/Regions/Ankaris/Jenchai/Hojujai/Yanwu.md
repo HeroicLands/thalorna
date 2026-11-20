@@ -46,3 +46,6 @@ In 720 AF Yanwu waits on the mountain. [[being-zijahojujai|Hojujai Zija]] is fou
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[scenario-rcbfrsnw|Rice Before the Snow]]
+: a scenario: the cold north sells its spears for grain before the first snow, and both blocs bid in rice that may not exist

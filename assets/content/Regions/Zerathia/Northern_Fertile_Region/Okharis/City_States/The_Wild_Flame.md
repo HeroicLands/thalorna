@@ -37,7 +37,7 @@ The garrison's yearly draw of riders comes in late and short while the chieftain
 
 ## The Holder {#holder}
 
-The Warden of the Flame, Korthari Nkaring in the temple's tongue, has one holder at a time and joins the rule of the town to command of the realm's armies in war. Beside him the Commander of Fire, Zhonkari Nkaring, keeps [[miscgear-brndwarden|the Warden's Brand]]. The Warden defers to the High Pyremant of [[place-zarhanis|The First Flame]] in doctrine and otherwise acts with considerable autonomy.
+The Warden of the Flame, Korthari Nkaring in the temple's tongue, has one holder at a time and joins the rule of the town to command of the realm's armies in war. [[being-omaresonkara|Omare Sónkara]] holds the office now, and [[being-ngaluromara|Ngalu Rómara]], the Captain of the Host, keeps his quarters in the town. Beside the Warden the Commander of Fire, Zhonkari Nkaring, keeps [[miscgear-brndwarden|the Warden's Brand]]. The Warden defers to the High Pyremant of [[place-zarhanis|The First Flame]] in doctrine and otherwise acts with considerable autonomy.
 
 ## Garrison {#garrison}
 

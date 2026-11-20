@@ -34,7 +34,7 @@ The oil is the quarrel. Olive oil from the south has risen in price two years ru
 
 Snurvinda Druskaruk has refused it. A fish-oil flame burns redder than the Lantern's, and she holds that a master who has steered by the clear yellow light all his life might take a red light on the headland for a ship on fire, or for another headland, and put his hull on the Hounds. [[being-hrundthrsk|Hrundselda Thraskumak]] has kept the olive oil coming at the old price out of the harbor revenue, and the treasurers have told the Council so.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The Hounds**, below the headland, which have taken more hulls than any raider.
 - **The cliff path** to the tower, which is narrow, unrailed and wet, and is walked by the keepers in every weather.

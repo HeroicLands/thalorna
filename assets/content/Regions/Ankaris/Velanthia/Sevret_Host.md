@@ -43,21 +43,10 @@ data:
         Keeps the patrol rosters of the pass roads and the signals between the posts.
       Keeper of the Muster: >-
         Holds the Host's banner and the roll of its riders.
-  seat: null
-  range: [velanthrgn]
+  seat: tvsknv
   population: null
   territorial_population: 100000
   settlements:
-    - settlement: Tveskanov
-      polity: affiliation-hstsvrt
-      location: place-velanthrgn
-      type: town
-      fortification: palisade
-      stronghold: null
-      holder: affiliation-hstsvrt
-      population: 3000
-      market: local
-      notes: "The Host's muster town, close under the range, where its riders gather for the pass patrols."
     - settlement: Sulvikov
       polity: affiliation-hstsvrt
       location: place-velanthrgn
@@ -103,6 +92,12 @@ The passes are the Host's work and its worry. Marauders come down from the minin
 The Host grew from the drovers' escorts that guarded the grain road, and took its first ataman from among them.
 
 ## See Also {#see-also}
+
+[[place-tvsknv|Tveskanov]]
+: the seat
+
+[[place-tvskvsh|Tveskavesh]]
+: the pass market its patrols guard
 
 [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 : the prince it serves

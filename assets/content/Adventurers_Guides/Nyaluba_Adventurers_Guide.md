@@ -34,9 +34,31 @@ Two works show what the griots keep and how they keep it. [[lore-swearbaobab|The
 - [[place-fenjaravlg|Fénjara Village]], under the gallery forest, is home to trail-readers who follow tracks across the spirit world.
 - The Sengala, on the Nyáluba's northern margin at the rainforest's southern edge, are the only door most outsiders ever use, through the rainforest peoples to the north.
 
+## People to Meet
+
+A Lubemo is coming, and the paramounts who will sit at it are people a party can reach before it opens. [[being-nzoburwz|Nzobu Ruwozi]], Paramount of the Ruwozi, must convene a council that is to hear a war in which her own clan is a party. [[being-nyabesnklm|Nyabesa nu Kolembozi]], Paramount of the Kolembozi, answers for the river's flow and asks the other clans to choose between her people and the Convener. [[being-ndamesongnz|Ndameso nu Ngonzi]] keeps the enclosure where the Lubemo sits and must see both parties housed without an incident, [[being-nkesheyasngl|Nkesheya nu Sengala]] has told no one which way the leopard-clan will go, and [[being-mbudelolbwz|Mbudelo nu Lobwezi]] keeps the order of precedence and the Lubemo's record.
+
+[[being-bonzimbelbwz|Bonzimbe of the Lobwezi]], the blind senior griot, carries the Pact's terms and rules nothing, and every clan asks him. [[being-ndowelaeknd|Ndowela nu Ékunda]] holds the spring every clan waters at in a bad year and keeps it neutral, and [[being-mbadekofnjr|Mbadeko nu Fénjara]] keeps the trail-readers useful to every clan and dependent on none. The rest of the Nyáluba a party is likely to meet:
+
+```sql
+SELECT address.slug AS _ref,
+       name.full AS "Person",
+       data.occupation AS "Occupation"
+FROM notes
+WHERE type = 'being'
+  AND data.culture = 'thalorna-note-lore-nyalubaclt'
+  AND subType IN ('npc', 'character')
+  AND state = 'full'
+ORDER BY name.full COLLATE NOCASE
+```
+
 ## Ways In
 
-Most outsiders arrive with Sengala traders, and a party that carries goods south may find itself asked to carry word north. A Fénjara trail-reader may need hired spears for a hunt whose quarry does not leave footprints. A spirit pact broken in one village wants a spirit-speaker, a witness and someone willing to go where the spirit lives. And the griots have entered in the record that a Kolembozi spirit-speaker walked into an Old Heto at her initiation and came out speaking [The Stone Tongue]{.name data-type="skill/language"}, which no living person understands. What the tongue is for, nobody will say, and the fireside telling in [[lore-stonetongue|The Stone Tongue]] is careful on the point: "Mind, I don't say nobody knows. I say nobody will say."
+Most outsiders arrive with Sengala traders, and a party that carries goods south may find itself asked to carry word north. Nkesheya wants to know what the other clans say before she says anything herself, and a trader's guest hears a great deal. The Ruwozi and the Kolembozi are at war, the first between clans since the Pact, and each paramount needs someone who is not of the five: a witness to a herd crossing, a ferryman's account of a ford, a spear for the road to the enclosure at [[place-hetolubemo|Heto Lubemo]]. Ndameso wants the guest-houses watched so that the Convener and the Kolembozi paramount never meet on a path.
+
+A Fénjara trail-reader may need hired spears for a hunt whose quarry does not leave footprints; the trail-readers of [[place-fenjaravlg|Fénjara Village]], Mbadeko's people, have seen the herds and a turned channel. A party drawn to the spring of the [[affiliation-ekunda|Ékunda Tribe]] may be asked to stand guard over it so that no clan can say it was watered unfairly. A spirit pact broken in one village wants a spirit-speaker, a witness and someone willing to go where the spirit lives.
+
+And the griots have entered in the record that a Kolembozi spirit-speaker walked into an Old Heto at her initiation and came out speaking [The Stone Tongue]{.name data-type="skill/language"}, which no living person understands. What the tongue is for, nobody will say, and the fireside telling in [[lore-stonetongue|The Stone Tongue]] is careful on the point: "Mind, I don't say nobody knows. I say nobody will say."
 
 ## Where to Read Next
 

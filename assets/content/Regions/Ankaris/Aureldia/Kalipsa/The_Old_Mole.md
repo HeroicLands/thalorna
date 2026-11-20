@@ -32,7 +32,7 @@ The winter's first great storm shifted a block of the outer old course near the 
 
 [[being-hrundthrsk|Hrundselda Thraskumak]] has given neither leave. The Council's order forbids moving the stone, the master mason says the stone has moved itself, and a delay costs the harbor its safety for every day it lasts.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The outer face in a gale.** The sea breaks over the mole's back in an easterly storm, and the watch closes the mole to everyone but the chain-men.
 - **The water at its head.** The tide runs hard round the head of the mole, and a swimmer or a small boat taken by it is carried out through the harbor mouth.
