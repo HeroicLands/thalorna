@@ -76,7 +76,7 @@ A Host took its form from its work. It kept its own law, its own muster and a ba
 
 About 548 AF the third union of the steppe overran the eastern fringe ([[lore-thrdorqwnq|The Third Orghunoq]]). The Hosts lost their eastern villages, and the Khorad Host's grass was trampled to the roots. The union broke up when its orghun died, and the Hosts returned with their founding lines intact.
 
-The retaking took two generations. The Hosts rode back first, and the grain villages of the [[place-velanthrgn|heartland]] followed behind them, as the lowland princes' houses record it ([[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]). The princes paid the Hosts to hold what had been retaken, and the pay stopped being an occasional contract and became a debt that fell due each harvest. By about 600 AF the fringe was resettled, and every prince who held a stretch of it knew which Host stood between him and the grass.
+The retaking took two generations. The Hosts rode back first, and the grain villages of the [[place-velanthrgn|Velanthia Region]] followed behind them, as the lowland princes' houses record it ([[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]). The princes paid the Hosts to hold what had been retaken, and the pay stopped being an occasional contract and became a debt that fell due each harvest. By about 600 AF the fringe was resettled, and every prince who held a stretch of it knew which Host stood between him and the grass.
 
 ## What It Left {#what-it-left}
 

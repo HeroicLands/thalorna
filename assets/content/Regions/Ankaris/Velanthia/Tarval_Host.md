@@ -100,7 +100,7 @@ The Host wants autonomy, pay and the right to what the roads yield, and the prin
 
 ## History {#history}
 
-The Host's first ataman held a ford on the caravan road, and the Host grew around his tolls. It lost its eastern villages to the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]) and took them back within two generations ([[lore-hostsforpay|The Hosts Take Pay]]). Until 697 AF it rode for the prince of Zhitavesh, and in that year it took the port's pay instead ([[lore-tarvalturn|The Tarvál Host Changes Sides]]). It rode west with the other Hosts against the jarls about 625 AF ([[lore-northernwar|The Border War with the Jarls]]).
+The Host's first ataman held a ford on the caravan road, and the Host grew around his tolls. It lost its eastern villages to the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]) and took them back within two generations ([[lore-hostsforpay|The Hosts Take Pay]]). It rode west with the other Hosts against the jarls about 625 AF ([[lore-northernwar|The Border War with the Jarls]]). Until 697 AF it rode for the prince of Zhitavesh, and in that year it took the port's pay instead ([[lore-tarvalturn|The Tarvál Host Changes Sides]]).
 
 ## See Also {#see-also}
 

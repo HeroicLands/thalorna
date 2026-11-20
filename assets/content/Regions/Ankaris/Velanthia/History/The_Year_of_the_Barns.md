@@ -11,7 +11,7 @@ data:
   events:
     - id: lean
       when: 641
-      kind: catastrophe
+      kind: famine
       depth: region
       sources:
         - place-velanthrgn
@@ -43,7 +43,7 @@ Velanthia's famine year is told in barns, not in battles. **The Year of the Barn
 
 ## The Rains
 
-The grain belt depends on reliable rain, and in 641 AF it did not come. The spring fell short, the summer burned, and the harvest was a fraction of the measure. The rivers kept running, as they do, with the snowmelt of the northern hills, so the failure was a hardship and not a collapse. A hardship is still a famine to the people who live through it.
+The grain belt depends on reliable rain, and in 641 AF it did not come. The spring fell short, the summer burned, and the harvest was a fraction of the measure. The rivers kept running, as they do, with the snowmelt of the northern hills, so the failure was a hardship and not a collapse.
 
 The [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] holds the lowlands and takes its tithe in kind, and its own barns were thin. The villagers who could not feed themselves walked to the nearest house of the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]].
 

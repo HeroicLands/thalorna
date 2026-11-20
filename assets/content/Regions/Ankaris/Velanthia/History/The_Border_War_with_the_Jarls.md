@@ -20,6 +20,7 @@ data:
         - place-norgaad
         - affiliation-prncdmbrvvsh
         - affiliation-prncdmbrlvsh
+        - affiliation-prncdmzhtvsh
       summary: >-
         Jarls of Malagna and Norgaad ride south into the river-princes' northwestern country, taking villages, cattle and river landings. The princes call a council, the Hosts of the east are paid to march west, and the war ends in a renegotiated border with the frontier forts rebuilt in stone.
       standing: attested
@@ -39,6 +40,7 @@ data:
       who:
         - {ref: affiliation-prncdmbrvvsh, role: actor}
         - {ref: affiliation-prncdmbrlvsh, role: actor}
+        - {ref: affiliation-prncdmzhtvsh, role: actor}
         - {ref: affiliation-hsttrvl, role: actor}
       accounts:
         - by: affiliation-prncdmbrvvsh
@@ -64,7 +66,7 @@ The princes had no riders of their own to match the jarls', and they paid the Ho
 
 ## The Stone Forts {#the-stone-forts}
 
-The princes did not trust a border that the Hosts would have to be paid to hold. In the years after the war the Brevavesh frontier was rebuilt in stone, each fort raised at a prince's expense, with a warden appointed by him and paid from the port's silver. The forts that now stand along the northwestern margin date from those years, and the villages beneath them keep their watch of bells and signal fires.
+The princes wanted a border held by neither borrowed war-bands nor hired Hosts, and did not trust one that the Hosts would have to be paid to hold. In the years after the war the Brevavesh frontier was rebuilt in stone, each fort raised at a prince's expense, with a warden appointed by him and paid from the port's silver. The forts that now stand along the northwestern margin date from those years, and the villages beneath them keep their watch of bells and signal fires.
 
 The Hosts took a lesson of their own. A Host that had ridden to the far end of the land for pay knew its price, and the princes learned that the price rose with the distance.
 

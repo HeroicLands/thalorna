@@ -171,7 +171,7 @@ The prince cannot feed his garrisons from his own fields, since the ground besid
 
 ## History {#history}
 
-About 590 AF a prince of this frontier raised the fort at Theodburg with the war-bands of Thornwald, and his son asked tribute for it; the war-bands walked out, the prince could not hold it alone, and it burned as it was abandoned ([[lore-princesfort|The Prince's Fort]]). From 660 AF the frontier's captives went down Vristwald's rivers to Nordmen buyers ([[lore-thrallrivers|The Thrall Rivers]]). The frontier princes have hired Varokh war-bands since only by the season and for pay, an heir of the house wants Theodburg back, and the stone forts have held, the forts having been rebuilt in stone after the war with the jarls about 625 to 631 AF ([[lore-northernwar|The Border War with the Jarls]]).
+About 590 AF a prince of this frontier raised the fort at Theodburg with the war-bands of Thornwald, and his son asked tribute for it; the war-bands walked out, the prince could not hold it alone, and it burned as it was abandoned ([[lore-princesfort|The Prince's Fort]]). After the war with the jarls, about 625 to 631 AF, the frontier forts were rebuilt in stone ([[lore-northernwar|The Border War with the Jarls]]). From 660 AF the frontier's captives went down Vristwald's rivers to Nordmen buyers ([[lore-thrallrivers|The Thrall Rivers]]). The frontier princes have hired Varokh war-bands since only by the season and for pay, an heir of the house wants Theodburg back, and the stone forts have held.
 
 ## See Also {#see-also}
 
