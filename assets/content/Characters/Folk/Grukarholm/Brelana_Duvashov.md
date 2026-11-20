@@ -69,6 +69,31 @@ Brelana Duvashov poles a flat boat up the slow brown rivers from the forts to th
 
 **Now.** She holds a route of eleven landings.
 
+## Psyche
+
+### Personality
+
+She is dry, practical and wary of strangers, and she asks about the marsh before she asks anyone's name.
+
+### Motivation
+
+She wants to know where the marsh has moved before she pushes off, and to clear the debt she went upriver with.
+
+### Strengths
+
+She holds a route of eleven landings, and the villages of the forest edge tell her what the forts do not.
+
+### Weaknesses
+
+A wrong guess costs her boat, and she will not stay a night in a village she does not know.
+
+## Social
+
+### Allies
+
+- **The villages of the forest edge**: They buy her salt, iron and needles and tell her where the marsh was last seen.
+- **The forts**: They need her salt.
+
 ## Plot Hooks
 
 1. **Where the marsh moved.** Brelana has heard that the Mire crossed a cause-walk near her route, and she wants a party to look at the bank before she poles through it.

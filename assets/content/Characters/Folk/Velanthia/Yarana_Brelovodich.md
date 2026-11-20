@@ -50,9 +50,9 @@ Yarana Brelovodich is a 28-year-old woman who stands 5' 6" tall and is of light 
 
 # Dossier {#dossier}
 
-**Age 28. Harper of the quay inns at Brelavesh. Wants a song in every river inn that carries her name.**
+**Age 28. Harper of the quay inns at [[place-brlvsh|Brelavesh]]. Wants a song in every river inn that carries her name.**
 
-Yarana Brelovodich plays a frame harp in the bargemen's inns along the quays of [[place-brlvsh|Brelavesh]] for the price of a supper and what the room throws in the cup. She carries the news of the landings in her verses, a barge sunk, a toll raised.
+Yarana Brelovodich plays a frame harp in the bargemen's inns along the quays of Brelavesh for the price of a supper and what the room throws in the cup. She carries the news of the landings in her verses, a barge sunk, a toll raised.
 
 ## Background
 
@@ -61,6 +61,31 @@ Yarana Brelovodich plays a frame harp in the bargemen's inns along the quays of 
 **The place.** She played for nothing in the worst inns until a barge-master gave her a seat by his fire.
 
 **Now.** She holds a corner seat in four inns and is known by name along the river.
+
+## Psyche
+
+### Personality
+
+She is quick, warm and curious, and she sings only what she has heard twice.
+
+### Motivation
+
+She wants a song in every river inn that carries her name.
+
+### Strengths
+
+She is heard by every house and every boat, and she carries the news of the landings from inn to inn.
+
+### Weaknesses
+
+She plays for a supper and the cup, and a verse she cannot confirm can cost her a seat.
+
+## Social
+
+### Allies
+
+- **A barge-master**: He gave her a seat by his fire.
+- **The innkeepers of the quays**: They give her a corner seat in four inns.
 
 ## Plot Hooks
 

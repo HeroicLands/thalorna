@@ -60,9 +60,9 @@ Kodvan Teshogorich is a 47-year-old man who stands 5' 11" tall and is of medium 
 
 # Dossier {#dossier}
 
-**Age 47. Warden of the Passes of the Sevret Host. Wants a rider on every pass post on the day the pay is due.**
+**Age 47. Warden of the Passes of the [[affiliation-hstsvrt|Sevret Host]]. Wants a rider on every pass post on the day the pay is due.**
 
-Kodvan Teshogorich is the clan head of the [[affiliation-hstsvrt|Sevret Host]] who keeps the patrol rosters of the pass roads and the signals between the posts, in the ataman's hall at [[place-tvsknv|Tveskanov]]. He knows which rider is on which post on any day of the season and which rider has been owed pay the longest. The ataman, [[being-svdnvlktch|Sovidan Volketich]], decides where the Host's riders will stand, and Kodvan makes it so. The posts hold the passes to the grain road, and the Host takes its toll there if the harvest pay is late.
+Kodvan Teshogorich is the clan head of the Sevret Host who keeps the patrol rosters of the pass roads and the signals between the posts, in the ataman's hall at [[place-tvsknv|Tveskanov]]. He knows which rider is on which post on any day of the season and which rider has been owed pay the longest. The ataman, [[being-svdnvlktch|Sovidan Volketich]], decides where the Host's riders will stand, and Kodvan makes it so. The posts hold the passes to the grain road, and the Host takes its toll there if the harvest pay is late.
 
 ## Background
 

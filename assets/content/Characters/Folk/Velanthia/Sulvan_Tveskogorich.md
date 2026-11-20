@@ -55,9 +55,9 @@ Sulvan Tveskogorich is a 35-year-old man who stands 5' 9" tall and is of medium 
 
 # Dossier {#dossier}
 
-**Age 35. Member of a great merchant house at Brelavesh. Wants his house to hold the tolls fixed by contract for a year.**
+**Age 35. Member of a great merchant house at [[place-brlvsh|Brelavesh]]. Wants his house to hold the tolls fixed by contract for a year.**
 
-Sulvan Tveskogorich holds a share of the ledgers of a great house of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] and stands in its warehouses on the quays of [[place-brlvsh|Brelavesh]] when a barge is unloaded. He signs the house's receipts, argues its tolls with the port-warden's clerks and takes a visitor of consequence to the guest hall behind the quays. His house lends against each year's harvest, and he knows to the sack how much grain it has already promised to buyers who have not seen it.
+Sulvan Tveskogorich holds a share of the ledgers of a great house of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] and stands in its warehouses on the quays of Brelavesh when a barge is unloaded. He signs the house's receipts, argues its tolls with the port-warden's clerks and takes a visitor of consequence to the guest hall behind the quays. His house lends against each year's harvest, and he knows to the sack how much grain it has already promised to buyers who have not seen it.
 
 ## Background
 

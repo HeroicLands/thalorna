@@ -58,13 +58,38 @@ Sokogor Dobrashov is a 29-year-old man who stands 5' 9" tall and is of light bui
 
 # Dossier {#dossier}
 
-**Age 29. Rider of the Tarvál Host lent to Sedrovod Fort as a scout. Wants the paths from the marsh read before the warden has to guess.**
+**Age 29. Rider of the [[affiliation-hsttrvl|Tarvál Host]] lent to [[place-sdrvdfrt|Sedrovod Fort]] as a scout. Wants the paths from the marsh read before the warden has to guess.**
 
-Sokogor Dobrashov rides for the [[affiliation-hsttrvl|Tarvál Host]], which serves the prince of Brelavesh for pay. The ataman, [[being-vlkrkdgrch|Volkar Kodogorich]], lends him to [[place-sdrvdfrt|Sedrovod Fort]] each season as a tracker. He reads the signs along the forest edge and the marsh, a broken reed or a cooked bone, and tells the warden what crossed in the night. The warden has him for the season; Volkar gives the orders.
+Sokogor Dobrashov rides for the Tarvál Host, which serves the prince of Brelavesh for pay. The ataman, [[being-vlkrkdgrch|Volkar Kodogorich]], lends him to Sedrovod Fort each season as a tracker. He reads the signs along the forest edge and the marsh, a broken reed or a cooked bone, and tells the warden what crossed in the night. The warden has him for the season; Volkar gives the orders.
 
 ## Background
 
 He learned tracking from the wolf-hunters of the Dobrashov herds. He first went to the fort at twenty-six and returns each year.
+
+## Psyche
+
+### Personality
+
+He is silent, exact and unhurried, and he answers a warden's question with only what he saw.
+
+### Motivation
+
+He wants the paths from the marsh read before the warden has to guess.
+
+### Strengths
+
+He reads a broken reed or a cooked bone as another man reads a letter, and he does not lose a track.
+
+### Weaknesses
+
+He answers to his ataman and not to the warden, and he cannot follow a track onto ground he cannot read.
+
+## Social
+
+### Allies
+
+- **[[being-vlkrkdgrch|Volkar Kodogorich]]**: The ataman of the Host, who lends him to Sedrovod Fort and gives his orders.
+- **The warden of Sedrovod Fort**: He has Sokogor for the season and acts on what he reads.
 
 ## Plot Hooks
 

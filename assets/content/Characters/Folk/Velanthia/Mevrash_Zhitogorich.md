@@ -56,9 +56,9 @@ Mevrash Zhitogorich is a 34-year-old man who stands 5' 8" tall and is of light b
 
 # Dossier {#dossier}
 
-**Age 34. Agent of the port houses at the south gate of Tveskavesh. Wants his house's list of the southbound wagons to be the one the port reads.**
+**Age 34. Agent of the port houses at the south gate of [[place-tvskvsh|Tveskavesh]]. Wants his house's list of the southbound wagons to be the one the port reads.**
 
-Mevrash Zhitogorich sits on a bench by the south gate of [[place-tvskvsh|Tveskavesh]] with a tally-board on his knee and counts the wagons that go through, with their teams, their loads and the names painted on their sides. He is a factor of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]], sent by a port house to learn how much grain goes south that the port does not see, and he pays the carters a fair price for the lists they would rather not give. The reeve, [[being-tvsknsdrgrch|Tveskana Sedrogorich]], tolerates him because he pays the gate's clerks on time.
+Mevrash Zhitogorich sits on a bench by the south gate of Tveskavesh with a tally-board on his knee and counts the wagons that go through, with their teams, their loads and the names painted on their sides. He is a factor of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]], sent by a port house to learn how much grain goes south that the port does not see, and he pays the carters a fair price for the lists they would rather not give. The reeve, [[being-tvsknsdrgrch|Tveskana Sedrogorich]], tolerates him because he pays the gate's clerks on time.
 
 :::secret {title="The carter's silver"}
 His house believes his list covers every wagon that goes south. It leaves out the monastic wagons, because a carter in the lane behind the south gate pays him a silver a month to look the other way.

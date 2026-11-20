@@ -60,9 +60,9 @@ Sedrash Ovrikov is a 46-year-old man who stands 5' 8" tall and is of heavy build
 
 # Dossier {#dossier}
 
-**Age 46. Armorer under the fort at Brevavesh. Wants the wardens' arrears paid before he has to refuse them iron.**
+**Age 46. Armorer under the fort at [[place-brvvsh|Brevavesh]]. Wants the wardens' arrears paid before he has to refuse them iron.**
 
-Sedrash Ovrikov keeps the forge under the wall of the stone fort at [[place-brvvsh|Brevavesh]]. He mends the wardens' mail and shoes the garrison's horses, and he writes each job on a notched rod that hangs on the forge wall.
+Sedrash Ovrikov keeps the forge under the wall of the stone fort at Brevavesh. He mends the wardens' mail and shoes the garrison's horses, and he writes each job on a notched rod that hangs on the forge wall.
 
 ## Background
 
@@ -71,6 +71,31 @@ Sedrash Ovrikov keeps the forge under the wall of the stone fort at [[place-brvv
 **The place.** The captain of the forts brought him to Brevavesh at twenty-six with a forge, a house and a promise of regular work.
 
 **Now.** He holds the forge and a wall of notched rods, since the garrison owes him months.
+
+## Psyche
+
+### Personality
+
+He is gruff, tired and fair, and he keeps a job on the rod until it is paid.
+
+### Motivation
+
+He wants the wardens' arrears paid before he has to refuse them iron.
+
+### Strengths
+
+He mends mail as a Vilérian armorer taught him, and the garrison cannot do without his forge.
+
+### Weaknesses
+
+He cannot refuse a warden a repair, and the garrison owes him months.
+
+## Social
+
+### Allies
+
+- **The captain of the forts**: He brought Sedrash to Brevavesh with a forge, a house and a promise of regular work.
+- **The wardens of Brevavesh**: They bring him their mail and horses on credit.
 
 ## Plot Hooks
 

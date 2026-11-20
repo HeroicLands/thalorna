@@ -54,9 +54,9 @@ Teshena Mevrekov is a 60-year-old woman who stands 5' 3" tall and is of light bu
 
 # Dossier {#dossier}
 
-**Age 60. Rain-wife of the foothills at Tveskanov. Wants the frost held off until the fields are in.**
+**Age 60. Rain-wife of the foothills at [[place-tvsknv|Tveskanov]]. Wants the frost held off until the fields are in.**
 
-Teshena Mevrekov lives on the edge of [[place-tvsknv|Tveskanov]] and reads the sky for the foothill farms and the riders of the [[affiliation-hstsvrt|Sevret Host]]. She smells rain a day before it comes, ties a knotted cord against a hard frost and names the week a pass will close.
+Teshena Mevrekov lives on the edge of Tveskanov and reads the sky for the foothill farms and the riders of the [[affiliation-hstsvrt|Sevret Host]]. She smells rain a day before it comes, ties a knotted cord against a hard frost and names the week a pass will close.
 
 ## Background
 
@@ -65,6 +65,31 @@ Teshena Mevrekov lives on the edge of [[place-tvsknv|Tveskanov]] and reads the s
 **The cords.** She came to the muster town at thirty, when the Host's riders began to send for her.
 
 **Now.** She charges no rider for a warning.
+
+## Psyche
+
+### Personality
+
+She is spare, cheerful and certain, and she gives a warning once and expects it to be heard.
+
+### Motivation
+
+She wants the frost held off until the fields are in.
+
+### Strengths
+
+She smells rain a day before it comes and names the week a pass will close.
+
+### Weaknesses
+
+She is old for the high passes, and she cannot make anyone heed a warning she gives for nothing.
+
+## Social
+
+### Allies
+
+- **The foothill farms**: They send for her when the weather turns.
+- **The riders of the [[affiliation-hstsvrt|Sevret Host]]**: They send for her and pay her nothing.
 
 ## Plot Hooks
 

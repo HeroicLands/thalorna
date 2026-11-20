@@ -1,6 +1,6 @@
 ---
 shortcode: wlfrnrfrdrnd
-name: {full: Wulfrún ira Frodrúnd, en: [Survivor at Hildholt]}
+name: {full: Wulfrún ira Frodrúnd wur Hildholt, en: [Survivor at Hildholt]}
 type: being
 subType: npc
 description: "A young woman of Hildholt who walked out of a village that a raiding party took in the winter, and who keeps watch from the refuge's palisade whenever the horn blows."
@@ -8,11 +8,11 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [commoner, skirmisher]
+  archetypes: [skirmisher]
   occupation: Watcher
   lore: []
   culture: varokhiclt
-  homes: [hildholt, grimhreth]
+  homes: [hildholt]
   affiliations: {vrystwldtrbs: {rank: 3}}
   gender: female
   species: humanflk
@@ -51,13 +51,13 @@ data:
 
 # Appearance {#appearance}
 
-Wulfrún ira Frodrúnd is a 24-year-old woman who stands 5' 5" tall and is of light build. She has a heart-shaped face, a narrow nose, thin brows, pale skin, straight blonde hair and gray eyes that stay on the tree line when she is spoken to. A burn scar marks her right hand.
+Wulfrún ira Frodrúnd wur Hildholt is a 24-year-old woman who stands 5' 5" tall and is of light build. She has a heart-shaped face, a narrow nose, thin brows, pale skin, straight blonde hair and gray eyes that stay on the tree line when she is spoken to. A burn scar marks her right hand.
 
 # Dossier {#dossier}
 
-**Age 24. Watcher on the palisade of Hildholt. Wants the horn to blow in time, every time.**
+**Age 24. Watcher on the palisade of [[place-hildholt|Hildholt]]. Wants the horn to blow in time, every time.**
 
-Wulfrún ira Frodrúnd stands the night watch on the palisade of [[place-hildholt|Hildholt]], the refuge village of the battle copse in [[place-skathwald|Skathwald]]. A raiding party that left the walk at [[place-grimhreth|Grimhreth]] came out into her own village's fields in the winter and took it; she walked out of it with a burned hand and the names of those left behind. She tells the elders what she has seen, and the villages beside Hildholt listen to her before they listen to the horn.
+Wulfrún ira Frodrúnd wur Hildholt stands the night watch on the palisade of Hildholt, the refuge village of the battle copse in [[place-skathwald|Skathwald]]. A raiding party that left the walk at [[place-grimhreth|Grimhreth]] came out into her own village's fields in the winter and took it; she walked out of it with a burned hand and the names of those left behind. She tells the elders what she has seen, and the villages beside Hildholt listen to her before they listen to the horn.
 
 :::secret {title="The byre"}
 She was not at the well when the raiders came, as she told the elders. She was hidden in the byre with a child of the next house, and the sound of her household's death reached her there. She has not told whose child it was.

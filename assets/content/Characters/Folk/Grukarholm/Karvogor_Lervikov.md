@@ -59,9 +59,9 @@ Karvogor Lervikov is a 49-year-old man who stands 5' 11" tall and is of medium b
 
 # Dossier {#dossier}
 
-**Age 49. Warden of Torvogor Fort. Wants his wages, a full watch at dusk and one quiet season at the landing.**
+**Age 49. Warden of [[place-trvgrfrt|Torvogor Fort]]. Wants his wages, a full watch at dusk and one quiet season at the landing.**
 
-Karvogor Lervikov holds [[place-trvgrfrt|Torvogor Fort]] for the prince of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]], with a garrison of watchmen, a bell on the hill and a village beneath the walls that gives a man to the watch in turn. His post looks down a river toward [[place-zvekbregad|Zvek Bregad]], the landing where raiding canoes come ashore, some hours from the fort. He answers to the captain of the forts, [[being-vrklrvgrch|Ovrik Lervogorich]], and is owed months of pay. He sells a fur hunter a night's passage past the fort when the hunter has the coin.
+Karvogor Lervikov holds Torvogor Fort for the prince of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]], with a garrison of watchmen, a bell on the hill and a village beneath the walls that gives a man to the watch in turn. His post looks down a river toward [[place-zvekbregad|Zvek Bregad]], the landing where raiding canoes come ashore, some hours from the fort. He answers to the captain of the forts, [[being-vrklrvgrch|Ovrik Lervogorich]], and is owed months of pay. He sells a fur hunter a night's passage past the fort when the hunter has the coin.
 
 :::secret {title="The dusk watch"}
 On most dusks the one man the village sends to the landing is a boy of twelve, because the men are in the fields. Karvogor writes the watch on the roll as a man's and has told the captain of the forts nothing different.

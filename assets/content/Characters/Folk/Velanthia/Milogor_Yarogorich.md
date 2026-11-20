@@ -59,9 +59,9 @@ Milogor Yarogorich is a 49-year-old man who stands 5'8" tall and is of medium bu
 
 # Dossier {#dossier}
 
-**Age 49. Prince of Brelavesh. Wants a larger share of the grain trade for his own barges and the tolls his to set.**
+**Age 49. Prince of [[place-brlvsh|Brelavesh]]. Wants a larger share of the grain trade for his own barges and the tolls his to set.**
 
-Milogor Yarogorich holds [[place-brlvsh|Brelavesh]], its landings, its tolls and its mint by descent. The [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] pay his toll as a sum and not by the load, and he lives on it. He has begun to buy mills upriver, which the lowland prince reads as a threat.
+Milogor Yarogorich holds Brelavesh, its landings, its tolls and its mint by descent. The [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] pay his toll as a sum and not by the load, and he lives on it. He has begun to buy mills upriver, which the lowland prince reads as a threat.
 
 :::secret {title="The caravan share"}
 Milogor has promised the Tarvál ataman a fixed share of the port's toll on the eastern caravans, in writing, for three years. He has kept the paper from the houses, who would call it a gift out of their tolls.

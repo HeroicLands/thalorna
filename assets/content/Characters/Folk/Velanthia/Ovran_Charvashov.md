@@ -8,7 +8,7 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [mariner, commoner]
+  archetypes: [mariner]
   occupation: Barge-Master
   lore: []
   culture: velanthclt
@@ -53,9 +53,9 @@ Ovran Charvashov is a 40-year-old man who stands 5' 11" tall and is of heavy bui
 
 # Dossier {#dossier}
 
-**Age 40. Barge-master of a grain boat on the river to Brelavesh. Wants to reach the quay before the toll-clerk goes to his supper.**
+**Age 40. Barge-master of a grain boat on the river to [[place-brlvsh|Brelavesh]]. Wants to reach the quay before the toll-clerk goes to his supper.**
 
-Ovran Charvashov takes a grain barge down from the lowland landing to the quays of [[place-brlvsh|Brelavesh]] and brings it back with salt and iron, six round trips between the thaw and the freeze. He knows every bar and shallow on the river.
+Ovran Charvashov takes a grain barge down from the lowland landing to the quays of Brelavesh and brings it back with salt and iron, six round trips between the thaw and the freeze. He knows every bar and shallow on the river.
 
 ## Background
 
@@ -64,6 +64,31 @@ Ovran Charvashov takes a grain barge down from the lowland landing to the quays 
 **The place.** He took the steering oar at twenty-five when his uncle drowned, and a port house gave him a barge on shares.
 
 **Now.** He has never lost a boat.
+
+## Psyche
+
+### Personality
+
+He is loud, easy and watchful on the water, and he trusts a river more than a clerk.
+
+### Motivation
+
+He wants to reach the quay before the toll-clerk goes to supper, and a barge of his own one day.
+
+### Strengths
+
+He knows every bar and shallow, and the toll-houses wave him through on his word.
+
+### Weaknesses
+
+He will take a cargo without asking, and he is short a hand he cannot afford.
+
+## Social
+
+### Allies
+
+- **A port house**: It gave him his barge on shares.
+- **The toll-clerks along the river**: They know him by his horn.
 
 ## Plot Hooks
 

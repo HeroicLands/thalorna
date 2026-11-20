@@ -59,9 +59,9 @@ Belukan Kelodov is a 61-year-old man who stands 5'9" tall and is of light build.
 
 # Dossier {#dossier}
 
-**Age 61. Ataman of the Khorad Host. Wants the river communities' toll for his Host and the prince's arrears paid.**
+**Age 61. Ataman of the [[affiliation-hstkhrd|Khorad Host]]. Wants the river communities' toll for his Host and the prince's arrears paid.**
 
-Belukan Kelodov commands the riders of the [[affiliation-hstkhrd|Khorad Host]], presides at its council of clan heads and treats with the steppe tribes for the prince of [[place-zhtvsh|Zhitavesh]], whom the Host serves for pay. He keeps his seat at [[place-krdshv|Krodashov]], where the Host's crossbred horses are bred.
+Belukan Kelodov commands the riders of the Khorad Host, presides at its council of clan heads and treats with the steppe tribes for the prince of [[place-zhtvsh|Zhitavesh]], whom the Host serves for pay. He keeps his seat at [[place-krdshv|Krodashov]], where the Host's crossbred horses are bred.
 
 :::secret {title="The guest-son"}
 Belukan's younger son lives in a steppe camp as the tribe's guest, which keeps him from riding past the river to enforce the toll he demands of the communities. He tells no clan head where the boy is.

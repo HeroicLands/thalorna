@@ -90,7 +90,7 @@ The result is a costly frontier without the returns other frontiers offer. No ca
 
 ## Current Situation {#present}
 
-The nests hold the country and no neighbor contests it with an army. The Skathwald villages spend on their walls. On the Velanthian side the stone forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] watch the raiding paths from the southeast. Their prince, [Krodogor Brevogorich]{.name data-type="being/npc"}, appoints every warden and cannot pay them on time, and the wardens, paid, tired and owed months, sell a night's passage to the fur hunters who work the margins. The hunters come out with what they can carry, and a hunter who goes in past the last fort is on his own: no warden follows him and no nest bargains with him. The warden of [[place-trvgrfrt|Torvogor Fort]], [[being-krvgrlrvkv|Karvogor Lervikov]], keeps the bell and the roll for the landing at [[place-zvekbregad|Zvek Bregad]], and [[being-skthrkrvndvth|Skathrik ira Vandvith]], a Varokh hunter, crosses the cause-walk at [[place-grimhreth|Grimhreth]] to reach the margin.
+The nests hold the country and no neighbor contests it with an army. The Skathwald villages spend on their walls. On the Velanthian side the stone forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] watch the raiding paths from the southeast. Their prince, [Krodogor Brevogorich]{.name data-type="being/npc"}, appoints every warden and cannot pay them on time, and the wardens, paid, tired and owed months, sell a night's passage to the fur hunters who work the margins. The hunters come out with what they can carry, and a hunter who goes in past the last fort is on his own: no warden follows him and no nest bargains with him. The warden of [[place-trvgrfrt|Torvogor Fort]], [[being-krvgrlrvkv|Karvogor Lervikov]], keeps the bell and the roll for the landing at [[place-zvekbregad|Zvek Bregad]], and [[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]], a Varokh hunter, crosses the cause-walk at [[place-grimhreth|Grimhreth]] to reach the margin.
 
 Raids come as small parties along the rivers and the cause-walks, and the villages beneath the forts ring their bells and burn signal fires as each party passes. The tribes' own fighting keeps their numbers below what the land could feed, and none of them has combined with another.
 
@@ -138,7 +138,7 @@ Velanthia lies on the southeastern side of the thickest Grukar country, which ov
 [[being-skgrdbrshv|Sokogor Dobrashov]]
 : the Host rider who tracks for Sedrovod Fort
 
-[[being-skthrkrvndvth|Skathrik ira Vandvith]] and [[being-wlfrnrfrdrnd|Wulfrún ira Frodrúnd]]
+[[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]] and [[being-wlfrnrfrdrnd|Wulfrún ira Frodrúnd wur Hildholt]]
 : a fur hunter and a survivor of a raid, of the Skathwald villages
 
 [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]

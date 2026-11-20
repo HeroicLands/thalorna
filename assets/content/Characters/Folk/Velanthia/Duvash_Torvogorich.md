@@ -57,9 +57,9 @@ Duvash Torvogorich is a 39-year-old man who stands 5' 9" tall and is of medium b
 
 # Dossier {#dossier}
 
-**Age 39. Toll-keeper at the gate of Volkavesh. Wants the toll paid in full before anyone argues.**
+**Age 39. Toll-keeper at the gate of [[place-vlkvsh|Volkavesh]]. Wants the toll paid in full before anyone argues.**
 
-Duvash Torvogorich collects what the caravans owe at the gate of [[place-vlkvsh|Volkavesh]], the seat of the [[affiliation-hsttrvl|Tarvál Host]]. He counts horses, salt and silver against the price the Host has set, writes each sum on a tally-stick and gives the silver to the ataman's yard at the day's end.
+Duvash Torvogorich collects what the caravans owe at the gate of Volkavesh, the seat of the [[affiliation-hsttrvl|Tarvál Host]]. He counts horses, salt and silver against the price the Host has set, writes each sum on a tally-stick and gives the silver to the ataman's yard at the day's end.
 
 ## Background
 
@@ -68,6 +68,31 @@ Duvash Torvogorich collects what the caravans owe at the gate of [[place-vlkvsh|
 **The gate.** He was made toll-keeper at thirty, after the old keeper's tallies stopped matching the wagons and he was sent back to the herds.
 
 **Now.** He holds the gate and a tally for every wagon.
+
+## Psyche
+
+### Personality
+
+He is stiff, exact and humorless at the gate, and he argues a sum only once.
+
+### Motivation
+
+He wants the toll paid in full before anyone argues, and every wagon tallied against the Host's price.
+
+### Strengths
+
+He knows the road's prices from the caravan-masters, and the ataman's yard accepts his tally without a recount.
+
+### Weaknesses
+
+He cannot tell a true seal from a false one, and he is slow to forgive a short sum.
+
+## Social
+
+### Allies
+
+- **The ataman's yard**: It receives the silver at the end of each day.
+- **The caravan-masters**: They taught him the road's prices.
 
 ## Plot Hooks
 

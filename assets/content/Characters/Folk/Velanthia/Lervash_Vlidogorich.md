@@ -54,9 +54,9 @@ Lervash Vlidogorich is a 43-year-old man who stands 5' 10" tall and is of light 
 
 # Dossier {#dossier}
 
-**Age 43. Granary-Keeper of the monastic house at Dobravesh. Wants the barn's count to be one the house can stand behind.**
+**Age 43. Granary-Keeper of the monastic house at [[place-dbrvsh|Dobravesh]]. Wants the barn's count to be one the house can stand behind.**
 
-Lervash Vlidogorich holds the keys to the barn of the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]] house on the market square of [[place-dbrvsh|Dobravesh]] and answers to his starbrat for every sack in it. Across the cobbles the prince's keeper counts the sacks he can see, and Lervash declines to say how many he cannot. He walks the barn with a lamp before the morning bell and weighs a grower's cart himself when the grower disputes the scale.
+Lervash Vlidogorich holds the keys to the barn of the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]] house on the market square of Dobravesh and answers to his starbrat for every sack in it. Across the cobbles the prince's keeper counts the sacks he can see, and Lervash declines to say how many he cannot. He walks the barn with a lamp before the morning bell and weighs a grower's cart himself when the grower disputes the scale.
 
 :::secret {title="The east aisle"}
 After the roof of the east aisle fell, he sold forty sacks of the house's grain through a carter bound for [[place-tvskvsh|Tveskavesh]] to pay for the timbers. He is putting the grain back out of his own share of each harvest and has told neither his starbrat nor the heads, because the grain was not his to sell.

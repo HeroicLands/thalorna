@@ -54,12 +54,12 @@ Tveskan Krodogorich is a 30-year-old man who stands 5' 7" tall and is of medium 
 
 # Dossier {#dossier}
 
-**Age 30. Buyer of a merchant house in the sheds at Radavesh. Wants the best pelts of the season sold to his house before they reach the port.**
+**Age 30. Buyer of a merchant house in the sheds at [[place-rdvsh|Radavesh]]. Wants the best pelts of the season sold to his house before they reach the port.**
 
-Tveskan Krodogorich buys for a house of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] in the fur sheds at [[place-rdvsh|Radavesh]]. The fur boats of [[place-vrystwald|Vristwald]] tie up at the landing, and he meets each one with his rod and his scales, grades the bales by the hair and pays the boatwomen in silver by the bale. A boat's mistress who sells to him sells at once and sails home without carrying silver through the port's tolls.
+Tveskan Krodogorich buys for a house of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] in the fur sheds at Radavesh. The fur boats of [[place-vrystwald|Vristwald]] tie up at the landing, and he meets each one with his rod and his scales, grades the bales by the hair and pays the boatwomen in silver by the bale. A boat's mistress who sells to him sells at once and sails home without carrying silver through the port's tolls.
 
 :::secret {title="The grade"}
-He grades the boatwomen's best pelts one grade low, tells them the port pays no more and sells them on to his house at the higher grade, and the difference is his.
+He grades the boatwomen's best pelts one grade low, tells them the port pays no more and sells them on to his house at the higher grade, and the difference is his. When a boatwoman asks why the port paid more, he bribes the port's graders to confirm his grade, keeps whoever investigates at the landing and offers to value the pelts himself.
 :::
 
 ## Background
@@ -96,5 +96,5 @@ He cannot refuse a profit, and his grading is only as good as the boatwomen's tr
 
 ## Plot Hooks
 
-1. **A short bale.** A boatwoman of Vristwald wants a party to find out why the port paid her partner more for the same pelts, and Tveskan wants the party to stay at the landing instead.
-2. **The best of the winter.** A fur hunter has pelts he wants graded by someone Tveskan will not have bribed, and Tveskan wants to be that someone.
+1. **A short bale.** A boatwoman of Vristwald wants a party to find out why the port paid her partner more for the same pelts than Tveskan paid her.
+2. **The best of the winter.** A fur hunter has a bale of winter pelts and wants an independent valuation before he sells them, and Tveskan offers to value them at the landing.

@@ -8,11 +8,11 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [healer, commoner]
+  archetypes: [healer]
   occupation: Village Healer
   lore: []
   culture: velanthclt
-  homes: [trvgrfrt, zvekbregad]
+  homes: [trvgrfrt]
   affiliations: {prncdmbrvvsh: {rank: 1}}
   gender: female
   species: humanflk
@@ -54,9 +54,9 @@ Brevana Brevekov is a 33-year-old woman who stands 5' 4" tall and is of medium b
 
 # Dossier {#dossier}
 
-**Age 33. Healer of the village beneath Torvogor Fort. Wants every wound at the landing to reach her before it goes cold.**
+**Age 33. Healer of the village beneath [[place-trvgrfrt|Torvogor Fort]]. Wants every wound at the landing to reach her before it goes cold.**
 
-Brevana Brevekov lives in the village beneath [[place-trvgrfrt|Torvogor Fort]] and is the person its households send for when someone is hurt. When the bell on the hill rings, she goes down to [[place-zvekbregad|Zvek Bregad]] after the canoes have left, because the wardens can wrap a wound and she can set it.
+Brevana Brevekov lives in the village beneath Torvogor Fort and is the person its households send for when someone is hurt. When the bell on the hill rings, she goes down to [[place-zvekbregad|Zvek Bregad]] after the canoes have left, because the wardens can wrap a wound and she can set it.
 
 ## Background
 
@@ -65,6 +65,31 @@ Brevana Brevekov lives in the village beneath [[place-trvgrfrt|Torvogor Fort]] a
 **The place.** She became the village's healer at twenty, when her grandmother's hands could not tie a knot.
 
 **Now.** She packs her bag every evening.
+
+## Psyche
+
+### Personality
+
+She is brisk, plain-spoken and gentle with the hurt, and she never lets a wound wait while she talks.
+
+### Motivation
+
+She wants every wound at the landing to reach her while it is warm, and her bag packed against the bell.
+
+### Strengths
+
+She knows a plant by its smell, and the wardens take her word on who can be moved.
+
+### Weaknesses
+
+She is slow to leave a patient, and she stays at the landing until the last wound is set.
+
+## Social
+
+### Allies
+
+- **The wardens of Torvogor Fort**: They wrap the wounds at the landing and send for her to set them.
+- **The households of the village**: They send for her when someone is hurt.
 
 ## Plot Hooks
 

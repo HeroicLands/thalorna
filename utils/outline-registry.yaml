@@ -60,6 +60,8 @@ archetypeAbsences:
         scholar: "The country has no school, archive or letters; the Grukar keep no records and the human side is forts and villages."
         courtier: "No court holds the country; the princes' courts are in Velanthia's river towns."
         artisan: "The Grukar make no goods for exchange and the forts' smiths and tanners live in Velanthia's towns."
+        healer: "No healer lives inside the country; the healer of the village beneath Torvogor Fort lives in Velanthia and comes down to the landing after a raid."
+        commoner: "No household lives inside the country, whose people are wardens, riders, hunters and traders; the villages stand on the Velanthian and Skathwald sides."
         entertainer: "The frontier has no audience; a singer or storyteller would be a guest in a Velanthian or Skathwald village."
         guildsperson: "No house or guild keeps an agent inside the country, where only pelts and the river-trader's salt and iron change hands."
 

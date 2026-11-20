@@ -56,9 +56,9 @@ Gorena Milvanich is a 51-year-old woman who stands 5' 5" tall and is of light bu
 
 # Dossier {#dossier}
 
-**Age 51. Infirmarian of the great house at Zhitavesh. Wants every sick-bed she keeps to stay a bed and not a message.**
+**Age 51. Infirmarian of the great house at [[place-zhtvsh|Zhitavesh]]. Wants every sick-bed she keeps to stay a bed and not a message.**
 
-Gorena Milvanich keeps the sick-beds of the great granary house on the market square of [[place-zhtvsh|Zhitavesh]], under the starbrat [[being-rdrbskvnch|Radora Boskvanich]]. She sets bones, lances boils and sits up with fevers, and she treats the poor, the riders of the prince's hall and the Hosts' wounded in the same row of beds without asking whose they are. The guest barn sends her its sick, and the town's inns send her what they cannot stand to keep.
+Gorena Milvanich keeps the sick-beds of the great granary house on the market square of Zhitavesh, under the starbrat [[being-rdrbskvnch|Radora Boskvanich]]. She sets bones, lances boils and sits up with fevers, and she treats the poor, the riders of the prince's hall and the Hosts' wounded in the same row of beds without asking whose they are. The guest barn sends her its sick, and the town's inns send her what they cannot stand to keep.
 
 :::secret {title="A rider's fall"}
 A rider of the prince's retinue came to her with a sword-cut the captain of the retinue swore was a fall from a horse. She wrote the true wound in her sick-book and has kept the page, and she has shown it to no one.

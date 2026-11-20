@@ -8,7 +8,7 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [artisan, commoner]
+  archetypes: [artisan]
   occupation: Miller
   lore: []
   culture: velanthclt
@@ -54,17 +54,41 @@ Dobrena Duvekov is a 37-year-old woman who stands 5' 7" tall and is of heavy bui
 
 # Dossier {#dossier}
 
-**Age 37. Miller of Dobravesh. Wants her stones dressed before the harvest rush.**
+**Age 37. Miller of [[place-dbrvsh|Dobravesh]]. Wants her stones dressed before the harvest rush.**
 
-Dobrena Duvekov runs the mill on the river below [[place-dbrvsh|Dobravesh]] and grinds for the growers of the villages around it. She weighs each sack before it goes under the stone and again when the flour comes out, and writes both numbers on a tally-stick in front of the grower.
+Dobrena Duvekov runs the mill on the river below Dobravesh and grinds for the growers of the villages around it. She weighs each sack before it goes under the stone and again when the flour comes out, and writes both numbers on a tally-stick in front of the grower.
 
 ## Background
 
-**Formation.** She grew up in the mill-house at Duvekov, where her father dressed the stones.
+**Formation.** She grew up in the mill-house at [Duvekov]{.name data-type="place/settlement"}, where her father dressed the stones.
 
 **The place.** She took the Dobravesh mill at twenty-eight, when the old miller's death left it without a hand that could dress a stone.
 
 **Now.** She holds it on a rent of flour paid to the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]].
+
+## Psyche
+
+### Personality
+
+She is blunt, patient and fair, and she shows every grower the number on the tally-stick before she says anything else.
+
+### Motivation
+
+She wants her stones dressed and the growers' trust kept, since the rent of flour is paid either way.
+
+### Strengths
+
+She can tell a stone's fault by its sound, and the growers believe her scale over the barns'.
+
+### Weaknesses
+
+She overworks at harvest, and she cannot afford a stone that cracks.
+
+## Social
+
+### Allies
+
+- **The growers of the villages around Dobravesh**: They bring their grain to her stones and trust her tally.
 
 ## Plot Hooks
 

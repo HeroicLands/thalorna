@@ -61,9 +61,9 @@ Zhitovod Dobrovodich is a 58-year-old man who stands 5'10" tall and is of heavy 
 
 # Dossier {#dossier}
 
-**Age 58. Prince of Zhitavesh. Wants the Hosts paid in full at harvest and the monasteries' barns counted.**
+**Age 58. Prince of [[place-zhtvsh|Zhitavesh]]. Wants the Hosts paid in full at harvest and the monasteries' barns counted.**
 
-Zhitovod Dobrovodich holds the lowland river, its mills and its tithe by descent, and lives in the hall beside the princely granary at [[place-zhtvsh|Zhitavesh]]. His wealth is sacks, not silver. He pays the [[affiliation-hstsvrt|Sevret Host]] and the [[affiliation-hstkhrd|Khorad Host]] in grain and silver, and the pay is his whole hold on them.
+Zhitovod Dobrovodich holds the lowland river, its mills and its tithe by descent, and lives in the hall beside the princely granary at Zhitavesh. His wealth is sacks, not silver. He pays the [[affiliation-hstsvrt|Sevret Host]] and the [[affiliation-hstkhrd|Khorad Host]] in grain and silver, and the pay is his whole hold on them.
 
 :::secret {title="The pledged tithe"}
 Zhitovod has pledged a third of the autumn tithe to a grain-town house against the silver for the Hosts' pay. A short harvest leaves him owing grain he does not hold, and he has told neither his keeper of the granary nor the Hosts.
