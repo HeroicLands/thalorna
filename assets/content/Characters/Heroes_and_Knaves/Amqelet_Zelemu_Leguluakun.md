@@ -492,7 +492,7 @@ Faced with skepticism from the court and the increasing pressure of the imperial
 
 Amqelet-Zelemu embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Au'Khelathu. His journey would take him deep into the deserts of [[place-beshakan|Beshakan]], across the [[place-venariasea|Venaria Sea]], and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
 
-His first stop was [[place-anlaghura|Anlaghura]], an ancient monolithic obelisk standing in the middle of the [Targa River Valley]{.name data-type="place/region"}. There, Amqelet-Zelemu discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of [[place-chenosolis|Chenosolis]], where the oldest records of the empire’s astrologers were kept.
+His first stop was [[place-anlaghura|Anlaghura]], an ancient monolithic obelisk standing in the middle of the [[place-targavalley|Targa River Valley]]. There, Amqelet-Zelemu discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of [[place-chenosolis|Chenosolis]], where the oldest records of the empire’s astrologers were kept.
 
 ### Mystical Challenges and Allies
 

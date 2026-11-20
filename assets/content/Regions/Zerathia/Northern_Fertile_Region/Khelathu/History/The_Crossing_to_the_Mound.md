@@ -57,7 +57,7 @@ For the first thousand years of the count the kings were crowned on the mound an
 
 ## The Last of the Great Land
 
-The First House and [Azlet'Kutu]{.name data-type="affiliation/lineage"} kept their court in [[place-zugernome|Zu-Ger]], the Great Land, and went downstream to the island of [[place-yathtelgu|Yath-Telgu]] to stand upon the mound at each crowning. The list gives their reigns as 150, 120 and 110 years and enters nothing else of them. The last reign of Azlet'Kutu is [Lin'Uzner]{.name data-type="being/npc"}'s twenty-six years, the first of a length a man can live, and the list enters his house as closed.
+The First House and [[affiliation-azletkutu|Azlet'Kutu]] kept their court in [[place-zugernome|Zu-Ger]], the Great Land, and went downstream to the island of [[place-yathtelgu|Yath-Telgu]] to stand upon the mound at each crowning. The list gives their reigns as 150, 120 and 110 years and enters nothing else of them. The last reign of Azlet'Kutu is [Lin'Uzner]{.name data-type="being/npc"}'s twenty-six years, the first of a length a man can live, and the list enters his house as closed.
 
 ## The Crossing
 

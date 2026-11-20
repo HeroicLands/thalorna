@@ -94,7 +94,7 @@ sacred site, and are not the person a clan sends when a pact has been broken. Th
 What is done about the thing found is somebody else's office.
 
 This has made the Fénjara useful to every clan in the confederation and dependent on none, and it
-is why so small a tribe is heard at the [Great Lubemo]{.name data-type="affiliation/governmental"} at all.
+is why so small a tribe is heard at the [[affiliation-greatlubemo|Great Lubemo]] at all.
 
 ## See Also {#see-also}
 

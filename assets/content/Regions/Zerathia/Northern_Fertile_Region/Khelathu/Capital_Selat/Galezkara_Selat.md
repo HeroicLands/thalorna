@@ -51,7 +51,7 @@ Galezkara (~450,000)
 : the imperial city and seat of the Gar-Au, by far the largest city in the empire: palace, great temples, bureaus, and the polyglot crowd of a capital that draws in the whole realm.
 
 [[place-yathtelgu|Yath-Telgu]] (~4,000)
-: the sacred island in the river at its center, with the [Great Temple of Uqa'a]{.name data-type="place/structure"} and the palace.
+: the sacred island in the river at its center, with the [[place-greattempluqaa|Great Temple of Uqa'a]] and the palace.
 
 The bank of the dead and the temple-towns:
 

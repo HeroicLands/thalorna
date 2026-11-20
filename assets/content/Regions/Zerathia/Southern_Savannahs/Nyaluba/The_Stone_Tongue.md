@@ -17,7 +17,7 @@ data:
   lang: nyal
 ---
 
-The Stone Tongue is the account of [Lusheya nu Kolembozi]{.name data-type="being/npc"} and her speech in [The Stone Tongue]{.name data-type="skill/language"} that the [[lore-nyalubaclt|Nyáluba]] hold in two forms and keep apart. The first is the griots' recital of what the Lobwezi griots entered into the record of the [Great Lubemo]{.name data-type="affiliation/governmental"}. It is short, it states which clan holds each claim, and it is either right or wrong; a [[skill-griot|griot]] recites it before people who already know it. The second is the story told at the fire. It belongs to no record, it may be told well or badly, and every teller tells it differently. The tradition's rule that a griot is not a storyteller is the line between them. Neither form says what the Stone Tongue is for.
+The Stone Tongue is the account of [Lusheya nu Kolembozi]{.name data-type="being/npc"} and her speech in [The Stone Tongue]{.name data-type="skill/language"} that the [[lore-nyalubaclt|Nyáluba]] hold in two forms and keep apart. The first is the griots' recital of what the Lobwezi griots entered into the record of the [[affiliation-greatlubemo|Great Lubemo]]. It is short, it states which clan holds each claim, and it is either right or wrong; a [[skill-griot|griot]] recites it before people who already know it. The second is the story told at the fire. It belongs to no record, it may be told well or badly, and every teller tells it differently. The tradition's rule that a griot is not a storyteller is the line between them. Neither form says what the Stone Tongue is for.
 
 : As the griots recite it {#recital}
 

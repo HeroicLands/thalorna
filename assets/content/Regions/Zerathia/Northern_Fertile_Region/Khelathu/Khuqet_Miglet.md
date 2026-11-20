@@ -93,7 +93,7 @@ wells where the road turns toward the Dunhara, is the seat of the [[affiliation-
 to the [[lore-garauu|Gar-Auu]]'s military officers at the capital and to no Halzi'a. The
 garrison's whole duty is the road: to patrol the wells, escort the caravans,
 collect the road-toll, and keep the peace with the clans on the other side
-of it. The line dates from the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|the Storm on the Eastern Road]]). Beside the first of them lie [the Burned Wells]{.name data-type="place/site"}, a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
+of it. The line dates from the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|the Storm on the Eastern Road]]). Beside the first of them lie [[place-burnedwells|the Burned Wells]], a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
 
 That peace is nominal and growing thin. It rests on custom rather than treaty—on the clans' right to water at the wells and the caravans' right to pass
 unmolested, which each side keeps as long as the other does—and it depends

@@ -97,7 +97,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 - _Guile:_ lead the cat to Red-Spear's quarters, or to the gift-store, and turn the Hunt on someone else.
 - _Parley:_ speak to the cat. It listens. A party member who has the leopard-guide's token, or the [Sengala Language]{.name data-type="skill/language"}, may be heard.
 
-**Clues and rewards.** The King's tracks end in the [Throne Cave]{.name data-type="place/site"}. At dawn a cord with a fresh knot hangs on the garden wall, tied there by the Cord-Keeper.
+**Clues and rewards.** The King's tracks end in the [[place-thronecave|Throne Cave]]. At dawn a cord with a fresh knot hangs on the garden wall, tied there by the Cord-Keeper.
 
 **Consequences.** A party that survives the Hunt without killing the cat is accepted by the Court. A party that wounds it is hunted by the Guard.
 

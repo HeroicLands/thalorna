@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-Heto Lubemo is an ancient stone enclosure in the southeastern highlands of the [[place-sthrnsvnhs|Southern Savannahs]], one of the great Old Hetos, and it is the meeting ground for the [Great Lubemo]{.name data-type="affiliation/governmental"} of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. The [Ngonzi]{.name data-type="affiliation/lineage"} clan maintains it. For most of the four years between gatherings it is quiet stone; every fourth dry season it is the political center of five clans.
+Heto Lubemo is an ancient stone enclosure in the southeastern highlands of the [[place-sthrnsvnhs|Southern Savannahs]], one of the great [[place-oldhetos|Old Hetos]], and it is the meeting ground for the [[affiliation-greatlubemo|Great Lubemo]] of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. The [Ngonzi]{.name data-type="affiliation/lineage"} clan maintains it. For most of the four years between gatherings it is quiet stone; every fourth dry season it is the political center of five clans.
 
 The enclosure is an oval of dry-stone walls, fitted without mortar and higher than a tall man, set on a raised platform at the edge of the escarpment, with lesser enclosures and platforms around it whose purpose nobody living knows. The Nyáluba do not call it a ruin. Like every Old Heto it is held to be inhabited by the spirits of the stone-builders who raised it, and the Ngonzi, who alone claim descent from those builders, make the offerings that keep the Lubemo welcome there.
 

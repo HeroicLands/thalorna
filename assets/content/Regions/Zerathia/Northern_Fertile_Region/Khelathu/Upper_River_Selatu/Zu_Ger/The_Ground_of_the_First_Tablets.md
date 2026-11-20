@@ -18,7 +18,7 @@ data:
 
 ## The Ground
 
-It is the burial-ground of the first eleven Gar-Auu, the First House and [Azlet'Kutu]{.name data-type="affiliation/lineage"}, who ruled from the Great Land for a thousand years and are entered in the king-list by a name and a length ([[lore-akhfirsttab|the First Tablets]]). The houses that ruled from [[place-galezkara|Galezkara]] lie in the necropolis at [[place-zugezer|Zu-Gezer]], and these do not. Their tombs were never moved, and when the court crossed to the mound in 1006 ST (1105 BF) the kings of the Great Land stayed where they lay ([[lore-crossmound|the Crossing to the Mound]]).
+It is the burial-ground of the first eleven Gar-Auu, the First House and [[affiliation-azletkutu|Azlet'Kutu]], who ruled from the Great Land for a thousand years and are entered in the king-list by a name and a length ([[lore-akhfirsttab|the First Tablets]]). The houses that ruled from [[place-galezkara|Galezkara]] lie in the necropolis at [[place-zugezer|Zu-Gezer]], and these do not. Their tombs were never moved, and when the court crossed to the mound in 1006 ST (1105 BF) the kings of the Great Land stayed where they lay ([[lore-crossmound|the Crossing to the Mound]]).
 
 ## What Is There
 

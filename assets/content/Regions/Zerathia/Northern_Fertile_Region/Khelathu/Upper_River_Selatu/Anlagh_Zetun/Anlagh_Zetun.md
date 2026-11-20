@@ -28,7 +28,7 @@ The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] holds court
 
 Anlagh-Zetun is not a glamorous city, and it is one of the most important in the empire. When the harvest fails elsewhere, its granaries decide who eats.
 
-The Halzi'a's house is [Anlaghet'Zaru]{.name data-type="affiliation/lineage"}, which raised the upper river in 2378 ST (268 AF) and broke the god-king's guard at the granary gates ([[lore-sealedgran|the Battle of the Sealed Granaries]]). At the end of the granary row stands the bricked dome of [[place-eleventhgran|the Eleventh Granary]], and each anniversary the selat throws bread over its wall.
+The Halzi'a's house is [[affiliation-anlaghetzaru|Anlaghet'Zaru]], which raised the upper river in 2378 ST (268 AF) and broke the god-king's guard at the granary gates ([[lore-sealedgran|the Battle of the Sealed Granaries]]). At the end of the granary row stands the bricked dome of [[place-eleventhgran|the Eleventh Granary]], and each anniversary the selat throws bread over its wall.
 
 ## Notable Features
 

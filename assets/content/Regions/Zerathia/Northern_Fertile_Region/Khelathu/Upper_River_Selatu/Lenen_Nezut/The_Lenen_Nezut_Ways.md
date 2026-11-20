@@ -18,7 +18,7 @@ data:
 
 ## The Ways
 
-A single short road climbs from the cultivated edge to a shelf of pale rock above [[place-lenennezut|Lenen-Nezut]]. It crosses the shelf once, and the three royal tombs of the house of [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"} stand along it, each cut into the rock of the scarp and fronted with a chapel of mud-brick. The road is laid out in imitation of a dynasty's Way at [[place-zugezer|Zu-Gezer]]: a crossing-road off a spine, with the tombs of the Gar-Auu ranked along it. There is no spine and no necropolis for it to cross; the Way is the whole of the place.
+A single short road climbs from the cultivated edge to a shelf of pale rock above [[place-lenennezut|Lenen-Nezut]]. It crosses the shelf once, and the three royal tombs of the house of [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]] stand along it, each cut into the rock of the scarp and fronted with a chapel of mud-brick. The road is laid out in imitation of a dynasty's Way at [[place-zugezer|Zu-Gezer]]: a crossing-road off a spine, with the tombs of the Gar-Auu ranked along it. There is no spine and no necropolis for it to cross; the Way is the whole of the place.
 
 ## How It Was Made
 

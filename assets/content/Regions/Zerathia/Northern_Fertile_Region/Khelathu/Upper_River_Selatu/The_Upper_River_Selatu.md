@@ -143,7 +143,7 @@ The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], but m
 [[place-zumeleshrvr|The Zumelesh]]
 : the river that floods these fields
 
-[[place-zelgeru|The Zelgeru]]
+[[lore-zelgeru|The Zelgeru]]
 : the great temple-estates
 
 [[affiliation-khelathpnthn|Khelathi Pantheon]]

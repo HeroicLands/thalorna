@@ -62,7 +62,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Character
 
-"The raiders carry arms from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]," a patrol-leader says to the new troopers at [[place-zileti|Zileti]], "and I will not explain it to you, because nobody has explained it to me." The Halzi'a's work is to keep the pastures and the watch: the horses graze the margin, the levies ride its edge, and the herding clans beyond it are traded with warily and watched always. The Halzi'a house is [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the kin of the hill-nomad conquerors, settled on these pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), and it makes the yearly offering at [[place-zelhalzi|Zel-Halzi]]. His seat is Zileti, where his court sits and the selat's chief temple of [[affiliation-uqaa|Uqa'a]] stands.
+"The raiders carry arms from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]," a patrol-leader says to the new troopers at [[place-zileti|Zileti]], "and I will not explain it to you, because nobody has explained it to me." The Halzi'a's work is to keep the pastures and the watch: the horses graze the margin, the levies ride its edge, and the herding clans beyond it are traded with warily and watched always. The Halzi'a house is [[affiliation-thaulgau|Tha'Ulgau]], the kin of the hill-nomad conquerors, settled on these pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), and it makes the yearly offering at [[place-zelhalzi|Zel-Halzi]]. His seat is Zileti, where his court sits and the selat's chief temple of [[affiliation-uqaa|Uqa'a]] stands.
 
 ## Current Situation {#present}
 

@@ -61,7 +61,7 @@ data:
         - who ended the commander's year; the king-list enters only that it was not completed
 ---
 
-"These have a name and no water," a caravan guide tells a driver on his first crossing, and nods toward a ring of dry stone to the north of the road. "They are [the Burned Wells]{.name data-type="place/site"}. We go round them, and so do you."
+"These have a name and no water," a caravan guide tells a driver on his first crossing, and nods toward a ring of dry stone to the north of the road. "They are [[place-burnedwells|the Burned Wells]]. We go round them, and so do you."
 
 The Storm on the Eastern Road is the year that gave the wells their name.
 

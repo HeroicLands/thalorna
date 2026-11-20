@@ -76,7 +76,7 @@ ngoyi nyewema lome mbeyami./
 
 ## Five Nations, One Grammar
 
-The Ruwozi are the lion-clan and the most numerous: cattle-herders of the central plains, first among the clans because the Pact was sworn in their country. Their paramount convenes the [Great Lubemo]{.name data-type="affiliation/governmental"} and bears the duty of speaking last when consensus is sought. Men take a single lion-tooth at adulthood and women braid their lineage into their hair; their wealth is cattle, their watchword is courage, and their humor is as dry as the dry season.
+The Ruwozi are the lion-clan and the most numerous: cattle-herders of the central plains, first among the clans because the Pact was sworn in their country. Their paramount convenes the [[affiliation-greatlubemo|Great Lubemo]] and bears the duty of speaking last when consensus is sought. Men take a single lion-tooth at adulthood and women braid their lineage into their hair; their wealth is cattle, their watchword is courage, and their humor is as dry as the dry season.
 
 The Kolembozi are the crocodile-clan, river-people of the eastern wetlands, and they hold the most elaborate shamanic tradition among the five. Their spirit-speakers are sought across the savannahs for judgment, healing and the negotiation of difficult spirits. A Kolembozi who loses a relative to a crocodile speaks of that crocodile by name and lineage, and regards the matter as a family affair.
 

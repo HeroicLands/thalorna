@@ -54,7 +54,7 @@ data:
 
 ## The House of the Sun
 
-In 1790 ST (321 BF) the priesthood crowned [Anleth'Uqa I]{.name data-type="being/npc"}, the first Gar-Au of [Thelqen'Relu]{.name data-type="affiliation/lineage"}, the house of the sun. His throne name means the horizon of the sun-lord, and it stated his program. He was a devotee of [[lore-uqaadty|Uqa'a]] in the strong sense: he held that the [[affiliation-khelathpnthn|Twelve]] and the local gods were one god seen in different lights, and that the light was Uqa'a's.
+In 1790 ST (321 BF) the priesthood crowned [Anleth'Uqa I]{.name data-type="being/npc"}, the first Gar-Au of [[affiliation-thelqenrelu|Thelqen'Relu]], the house of the sun. His throne name means the horizon of the sun-lord, and it stated his program. He was a devotee of [[lore-uqaadty|Uqa'a]] in the strong sense: he held that the [[affiliation-khelathpnthn|Twelve]] and the local gods were one god seen in different lights, and that the light was Uqa'a's.
 
 [[place-galezkara|Galezkara]] did not suit him. Its avenues had been fixed by earlier houses for earlier purposes, and its courts and bureaus answered to older temples than his. So he laid out a city from nothing on the upper river, with avenues that ran straight from the chief temple of Uqa'a to the horizon, evenly spaced squares, and a plan for many more people than came. He moved the court there. His son [Anleth'Uqa II]{.name data-type="being/npc"}, crowned 1808 ST (303 BF), kept it there.
 

@@ -18,7 +18,7 @@ The [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] brings together more than
 
 ## Councils, Drums and Spirits
 
-Each clan governs itself under its paramount and its elders, and every fourth dry season the [Great Lubemo]{.name data-type="affiliation/governmental"} meets at [[place-hetolubemo|Heto Lubemo]] to settle what touches all five. Councils do not vote. They talk until the objections stop, in an order fixed by custom, with the senior speaker last; the slowness is the method, and a decision reached that way holds. Between Lubemos the paramounts consult by drum: drum-speakers relay messages in a tonal register of the language across all five territories in about two days.
+Each clan governs itself under its paramount and its elders, and every fourth dry season the [[affiliation-greatlubemo|Great Lubemo]] meets at [[place-hetolubemo|Heto Lubemo]] to settle what touches all five. Councils do not vote. They talk until the objections stop, in an order fixed by custom, with the senior speaker last; the slowness is the method, and a decision reached that way holds. Between Lubemos the paramounts consult by drum: drum-speakers relay messages in a tonal register of the language across all five territories in about two days.
 
 Faith runs through totems and spirit guides. Each clan is kin to its totem—lion, crocodile, eagle, leopard or baobab—and does not hunt or eat it, and totem law shapes marriage, diet and the greeting of strangers. Every spirit is venerated, appeased or warded against according to its nature, and spirit-speakers negotiate with them on a clan's behalf. Nyáluba teaching places [[lore-shorinyadty|Shorinya Ndafo]] above all of them, the Great Brightness, which receives no offering.
 
@@ -29,7 +29,7 @@ Two works show what the griots keep and how they keep it. [[lore-swearbaobab|The
 ## Places and Dangers
 
 - [[place-hetolubemo|Heto Lubemo]], an ancient stone enclosure in the southeastern highlands, holds the Great Lubemo for six weeks every fourth dry season.
-- The [Old Hetos]{.name data-type="place/site"} of the highlands—curving walls of fitted stone and raised platforms left by a people who built before the Nyáluba—belong to the Ngonzi, and their guardians admit no one else.
+- The [[place-oldhetos|Old Hetos]] of the highlands—curving walls of fitted stone and raised platforms left by a people who built before the Nyáluba—belong to the Ngonzi, and their guardians admit no one else.
 - The Kolembozi wetlands are a maze of papyrus channels and crocodile pools whose river-spirits are numerous and unforgiving.
 - [[place-fenjaravlg|Fénjara Village]], under the gallery forest, is home to trail-readers who follow tracks across the spirit world.
 - The Sengala, on the Nyáluba's northern margin at the rainforest's southern edge, are the only door most outsiders ever use, through the rainforest peoples to the north.

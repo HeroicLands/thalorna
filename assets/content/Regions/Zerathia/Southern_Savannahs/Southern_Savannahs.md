@@ -91,3 +91,6 @@ To the **far south** lie the coasts of an unnamed ocean and whatever exists beyo
 [[place-fenjaravlg|Fénjara Village]]
 
 [[place-hetolubemo|Heto Lubemo]]
+
+[[place-oldhetos|The Old Hetos]]
+: the dry-stone enclosures of the southeastern highlands

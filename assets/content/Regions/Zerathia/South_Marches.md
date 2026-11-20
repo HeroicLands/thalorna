@@ -46,7 +46,7 @@ through the dry months, and the Marches' whole wealth.
 
 The frontier with Bethua is a line of water rather than a wall: the
 southernmost qanat-fed strips of the matriarchy's interior, and the frontier
-posts from which companies of the [Spear-Sisterhood]{.name data-type="affiliation/order"} patrol
+posts from which companies of the [[affiliation-spearsisterhood|Spear-Sisterhood]] patrol
 the marches. North of it the canals run and a **Dómissa**'s writ holds. South of
 it nothing does.
 
@@ -92,7 +92,7 @@ Country that no realm holds breeds armed bands, and the Marches carry several.
 The most feared of them are
 [[affiliation-jcklsthmrchs|the Jackals of the South Marches]]—not a clan and not
 a marcher tribe, but a warband of the Houseless: exiled Bethuan women and
-cast-out [Spadai]{.name data-type="affiliation"} eunuch-warriors, padded with hired marcher men, under the
+cast-out [[affiliation-spadai|Spadai]] eunuch-warriors, padded with hired marcher men, under the
 renegade spear-sister [[being-argyrirjckl|Argirira the Jackal]]. Mounted, fast
 and at home in waterless country, they strike the herds, caravans and exposed
 villages of the frontier—Bethuan targets by preference. The clans tolerate them, hire them and give them room because they are
@@ -115,7 +115,7 @@ From the north the Marches are where the realm's castoffs go: a runaway
 bound-man flees into the southern marches, a woman stripped of her House rides
 south because there is nowhere else, and out of such exiles has come the one
 thing Bethua fears above all others—a company of armed exiles who know the
-matriarchy's own ways of war and owe it nothing. The [Court of the Veil]{.name data-type="affiliation/governmental"} marks
+matriarchy's own ways of war and owe it nothing. The [[affiliation-courtveil|Court of the Veil]] marks
 the country as its own, collects what tribute it can, patrols the line it can
 hold, and would rather not look past it.
 

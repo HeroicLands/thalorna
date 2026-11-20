@@ -18,7 +18,7 @@ In 2425 ST (315 AF) the age takes its first shock from outside. A steppe host th
 
 The second shock comes by sea. In 2487 ST (377 AF) a Vilérian army meets the chariot corps at the delta apex, the corps breaks, and the priesthood crowns the army's commander as [Zab'el'Qar I]{.name data-type="being/npc"} ([[lore-vylconquest|The Vilérian Conquest]]). His son reigns after him as a Khelathi and goes to the West in the night in 2505 ST (395 AF) ([[lore-foreignhs|the Closing of the Foreign House]]). The house of [Anlagh'Zeketu]{.name data-type="affiliation/lineage"} follows.
 
-The age ends with the child of three floods. In 2579 ST (469 AF) the house of [Qelt'Gultau]{.name data-type="affiliation/lineage"} crowns [Kuz'el'Retha III]{.name data-type="being/npc"} with [Zu'Meku]{.name data-type="affiliation/lineage"} standing beside him, and the list enters the child's death in the night.
+The age ends with the child of three floods. In 2579 ST (469 AF) the house of [Qelt'Gultau]{.name data-type="affiliation/lineage"} crowns [Kuz'el'Retha III]{.name data-type="being/npc"} with [[affiliation-zumeku|Zu'Meku]] standing beside him, and the list enters the child's death in the night.
 
 ## Rulers
 

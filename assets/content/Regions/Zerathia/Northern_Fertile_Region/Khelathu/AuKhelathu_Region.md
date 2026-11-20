@@ -65,7 +65,7 @@ ORDER BY name.full COLLATE NOCASE
 : a hidden site kept out of every record, of which the embalmers tell dark stories
 
 [[place-anlaghura|Anlaghura]]
-: the monolith standing alone in the [Targa River Valley]{.name data-type="place/region"}
+: the monolith standing alone in the [[place-targavalley|Targa River Valley]]
 
 [[place-beshakan|Beshakan]]
 : the desert ruins where the earliest astronomers carved star maps into the stones
@@ -108,6 +108,9 @@ Behind all of it stands the throne's standing. The [[lore-garauu|Gar-Au]] is 46 
 
 [[place-lutithnet|Lut-Ithnet]]
 : a funerary estate under the western cliffs, at the end of a canal that has run dry
+
+[[place-amqelmiglet|Amqel-Miglet]]
+: the harbors of the northern selats
 
 [[place-bethuargn|Bethua Region]]
 : neighbor to the west

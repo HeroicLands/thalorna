@@ -18,7 +18,7 @@ A herder of [[place-zuqeztunome|Zu-Qeztu]] drives his sheep past a row of low gr
 
 ## How They Were Made
 
-The [Tha'Ulgau]{.name data-type="affiliation/lineage"} came out of the hills with their horses and buried their dead with them. The first of them to die, the warriors and chiefs who rode down with the nomad chief before his crowning ([[lore-thaulgau|the Coming of the Tha'Ulgau]]), were laid in earth mounds in the grazing country of the west, unembalmed and unwrapped, each with the horse or horses that had carried him. That is the hill way. The Khelathi had no part in it and asked no questions. When the hill house closed, its kin were settled on the same pastures ([[lore-hillhouse|the Closing of the Hill House]]), and the barrows came inside the empire's border with them.
+The [[affiliation-thaulgau|Tha'Ulgau]] came out of the hills with their horses and buried their dead with them. The first of them to die, the warriors and chiefs who rode down with the nomad chief before his crowning ([[lore-thaulgau|the Coming of the Tha'Ulgau]]), were laid in earth mounds in the grazing country of the west, unembalmed and unwrapped, each with the horse or horses that had carried him. That is the hill way. The Khelathi had no part in it and asked no questions. When the hill house closed, its kin were settled on the same pastures ([[lore-hillhouse|the Closing of the Hill House]]), and the barrows came inside the empire's border with them.
 
 ## What Is There
 

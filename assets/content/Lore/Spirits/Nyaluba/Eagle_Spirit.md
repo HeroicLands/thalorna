@@ -14,7 +14,7 @@ and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
 The eagle-guide is a carrier (see [[being-eagle|Eagle]] for the animal). Where the other four hold ground or hold a lineage, this one
 crosses between—between the highland and the plain, between the living clan and the dead who
-built in stone, and between the Nyáluba guides and whatever the [Old Hetos]{.name data-type="place/site"} contain. It is the
+built in stone, and between the Nyáluba guides and whatever the [[place-oldhetos|Old Hetos]] contain. It is the
 messenger, and the tradition treats its manifestations as errands rather than visits.
 
 Its temperament is distant and exact. It carries what it is given and reports what it is told;

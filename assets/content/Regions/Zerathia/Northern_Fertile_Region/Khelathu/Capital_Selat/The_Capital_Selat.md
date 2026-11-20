@@ -104,6 +104,9 @@ The Capital Selat uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and it is
 [[place-galezkara|Galezkara]]
 : the imperial city
 
+[[affiliation-meglai|The Meglai]]
+: the standing guard of the city
+
 [[place-galezkaraslt|Galezkara Selat]]
 : the land the selat holds
 

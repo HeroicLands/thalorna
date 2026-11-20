@@ -23,7 +23,7 @@ Magu-Thelqen Selat is the land of [[affiliation-selatmaguthn|the Selat of Magu-T
 
 ## Character
 
-The land is ordinary valley country with an extraordinary town at its center. Flood-silt fields, canals and villages fill the strip between the river and the dry uplands, with high desert and chaparral beyond, and over it all stands a planned temple-city, built by one zealous dynasty and left half-abandoned. The farmers work their fields and keep the estates running while the city stands half empty. The city is the work of the house of [Thelqen'Relu]{.name data-type="affiliation/lineage"}, the house of the sun, and its half emptied when the temples refused the house's doctrine and the court returned to [[place-galezkara|Galezkara]] ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
+The land is ordinary valley country with an extraordinary town at its center. Flood-silt fields, canals and villages fill the strip between the river and the dry uplands, with high desert and chaparral beyond, and over it all stands a planned temple-city, built by one zealous dynasty and left half-abandoned. The farmers work their fields and keep the estates running while the city stands half empty. The city is the work of the house of [[affiliation-thelqenrelu|Thelqen'Relu]], the house of the sun, and its half emptied when the temples refused the house's doctrine and the court returned to [[place-galezkara|Galezkara]] ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
 
 ## Economy
 

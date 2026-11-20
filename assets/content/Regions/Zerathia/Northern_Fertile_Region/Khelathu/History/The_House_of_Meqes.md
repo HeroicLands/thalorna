@@ -12,7 +12,7 @@ Every contract, tax roll and temple receipt in [[affiliation-empireakhlth|Au'Khe
 
 ## What Happened
 
-In 2580 ST (470 AF) the child [Kuz'el'Retha III]{.name data-type="being/npc"} went to the West in the night, and [Meqes I]{.name data-type="being/npc"} of [Zu'Meku]{.name data-type="affiliation/lineage"}, who had stood beside him as regent, was crowned in the child's second year ([[lore-childfloods|the Child of Three Floods]]). He kept his own name as his throne name, and every Gar-Au of his house has taken it since.
+In 2580 ST (470 AF) the child [Kuz'el'Retha III]{.name data-type="being/npc"} went to the West in the night, and [Meqes I]{.name data-type="being/npc"} of [[affiliation-zumeku|Zu'Meku]], who had stood beside him as regent, was crowned in the child's second year ([[lore-childfloods|the Child of Three Floods]]). He kept his own name as his throne name, and every Gar-Au of his house has taken it since.
 
 The house settled in. Under [Meqes VI]{.name data-type="being/npc"} the empire reached the height of this age, and the Gar-Au ordered the older houses carried out from the river-front of [[place-zugezer|Zu-Gezer]] and set the house's own Way at the head of the death-road ([[lore-greatremovl|the Great Removal]], about 2650 ST, 540 AF). The grievance of the removed houses' descendants has outlasted the endowments that paid for their new tombs.
 

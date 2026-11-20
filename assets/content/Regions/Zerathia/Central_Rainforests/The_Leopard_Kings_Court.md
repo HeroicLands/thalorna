@@ -31,7 +31,7 @@ The Court has no wall. Its defense is the forest itself, the hunters who patrol 
 
 - [The Lower Terrace]{.name data-type="place/site"}, where the gifts are received: drying sheds, long storehouses, and the guest-lodges where delegations from the neighboring tribes wait their turn.
 - [The Hall of Pelts]{.name data-type="place/structure"}, the audience hall, with its roof-beams hung with leopard pelts. Neighbors give the pelts in fear, and the hall holds more of them than the Court's own hunters could take.
-- [The Throne Cave]{.name data-type="place/site"}, at the head of the valley, where the King sleeps by day and where no guest has been admitted.
+- [[place-thronecave|The Throne Cave]], at the head of the valley, where the King sleeps by day and where no guest has been admitted.
 
 The gifts are hardwood, dyes, ivory, medicinal plants, bundled hides, smoked fish and river-salt, brought in the hope that the King will leave the giver alone. The Court gives nothing back by right, though the King will sometimes send word of what comes out of the deep forest. It keeps iron, which it acquires through the Sengala in exchange for ivory and hides, and which it hands out by measure.
 

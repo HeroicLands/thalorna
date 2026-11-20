@@ -446,7 +446,7 @@ Au'Khelathu gets it
 Bethua recovers or burns it
 : catastrophe: the proof is gone forever, deniability is restored, the alliance is preserved, and the empire is left with nothing.
 
-So Kassa fights on three fronts at once, deep in country hostile to her. She **courts Rashira**—offering protection, passage, and coin to turn the fugitive toward a Vilérian handover. She **blocks the road east**, because above all the register must not reach [[affiliation-empireakhlth|Empire of Au'Khelathu]]: she buys off guides, closes routes, spreads false word, and salts Rashira's path with delays, turning to open force only when the covert hand fails. And she **sabotages the Bethuan hunt**, confusing and misdirecting the [Court of the Veil]{.name data-type="affiliation/governmental"}'s agents and frustrating [[being-lmbhrpdhnn|Lámbira Pédhinion]]—for a Bethuan recapture is the one ending worse than losing the rolls to the Khelathi.
+So Kassa fights on three fronts at once, deep in country hostile to her. She **courts Rashira**—offering protection, passage, and coin to turn the fugitive toward a Vilérian handover. She **blocks the road east**, because above all the register must not reach [[affiliation-empireakhlth|Empire of Au'Khelathu]]: she buys off guides, closes routes, spreads false word, and salts Rashira's path with delays, turning to open force only when the covert hand fails. And she **sabotages the Bethuan hunt**, confusing and misdirecting the [[affiliation-courtveil|Court of the Veil]]'s agents and frustrating [[being-lmbhrpdhnn|Lámbira Pédhinion]]—for a Bethuan recapture is the one ending worse than losing the rolls to the Khelathi.
 
 ### Method
 

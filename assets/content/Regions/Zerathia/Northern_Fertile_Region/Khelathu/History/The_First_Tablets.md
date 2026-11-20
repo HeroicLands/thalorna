@@ -18,7 +18,7 @@ Four more reigns finish the First House by 620 ST, and the fifth gives the age i
 
 The kings keep their court in the Great Land of [[place-zugernome|Zu-Ger]] and are crowned on the mound, and they are laid in the desert edge above Zu-Ger, among the marker stones farmers still plow round ([[place-firsttablets|the Ground of the First Tablets]]). The age's other works are the first canals and cisterns that carry the river past the black land, and the star maps that the earliest astronomers of the empire cut into the stones of [[place-beshakan|Beshakan]] and the records they carry up to [[place-chenosolis|Chenosolis]].
 
-The second house, [Azlet'Kutu]{.name data-type="affiliation/lineage"}, takes the throne in 621 ST. Its reigns shorten by tens of years as the age goes on, from a hundred to eighty, seventy, sixty and fifty, and the last of them runs twenty-six.
+The second house, [[affiliation-azletkutu|Azlet'Kutu]], takes the throne in 621 ST. Its reigns shorten by tens of years as the age goes on, from a hundred to eighty, seventy, sixty and fifty, and the last of them runs twenty-six.
 
 ## Rulers
 

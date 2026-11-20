@@ -92,7 +92,7 @@ The west broadens into open, dry plains that shade at the far frontier into herd
 
 ## History
 
-Khelathi history is counted in dynasties—ruling houses that rise, flourish and give way to successors. The empire has passed through unity and fragmentation many times, and the Khelathi regard the cycle with an equanimity that baffles younger civilizations: every collapse has ended in reunification under a new dynasty claiming the unbroken mandate of the gods. The reigning dynasty, the house of [Zu'Meku]{.name data-type="affiliation/lineage"}, has held the throne for two and a half centuries, and it is the latest in a line that runs back past reliable record.
+Khelathi history is counted in dynasties—ruling houses that rise, flourish and give way to successors. The empire has passed through unity and fragmentation many times, and the Khelathi regard the cycle with an equanimity that baffles younger civilizations: every collapse has ended in reunification under a new dynasty claiming the unbroken mandate of the gods. The reigning dynasty, the house of [[affiliation-zumeku|Zu'Meku]], has held the throne for two and a half centuries, and it is the latest in a line that runs back past reliable record.
 
 The empire survives by absorbing its conquerors. Foreign peoples have seized the throne on several occasions—hill-nomads from the western margins, northern sea-raiders, and a Vilérian military occupation at the height of imperial expansion. Each time, within a generation or two, the conquerors adopted the [[skill-khelathlng|Khelathi language]], religion, customs and dress. Foreign dynasties build pyramids, worship the gods of the [[affiliation-khelathpnthn|Khelathi Pantheon]] and rule through the existing priestly bureaucracy. The Khelathi count this as vindication: even those who conquer Au'Khelathu end up serving its gods.
 
@@ -288,7 +288,7 @@ The empire has thirty-nine selatu, each under a hereditary Halzi'a. They differ 
 - [[affiliation-borderselatu|The Border Selatu]] (ten selatu, about 2,500,000) in the south and east are military frontiers, and their Halzi'a serve as military governors. The mining march of [[affiliation-selatzuzlqtt|the Selat of Zu-Zel-Iaqtet]] in the eastern hills and the cataract march of [[affiliation-selatzuzllgl|the Selat of Zu-Zalu-Legulu]] in the south lead them. These are rough postings, and they produce the empire's most experienced soldiers.
 - [[affiliation-capitalselat|The Capital Selat]] (about 2,500,000) is a single enormous province around Galezkara, the imperial city. It holds the Gar-Au's seat, the central bureaucracy, the greatest temples and the royal necropolis, and its Halzi'a serves at the Gar-Au's direct pleasure.
 
-Galezkara is laid out along a single ceremonial axis aligned to the solstices, [[place-waluqaa|Wal-Uqa'a]] (the Sun's Road): the living city on the east bank, the sacred island of [[place-yathtelgu|Yath-Telgu]] midstream, and the royal necropolis of Zu-Gezer on the western desert shore, in the order of the sun's daily journey. Yath-Telgu is the primeval mound and carries the [Great Temple of Uqa'a]{.name data-type="place/structure"}, the palace, and the flood-gauge called [The Measure]{.name data-type="place/structure"}. The city's two greatest civic rites, the midsummer [Festival of the Coming-Forth]{.name data-type="lore/custom"} and the midwinter [Festival of the Going-Down]{.name data-type="lore/custom"}, fall when the sun rises and sets exactly down that road.
+Galezkara is laid out along a single ceremonial axis aligned to the solstices, [[place-waluqaa|Wal-Uqa'a]] (the Sun's Road): the living city on the east bank, the sacred island of [[place-yathtelgu|Yath-Telgu]] midstream, and the royal necropolis of Zu-Gezer on the western desert shore, in the order of the sun's daily journey. Yath-Telgu is the primeval mound and carries the [[place-greattempluqaa|Great Temple of Uqa'a]], the palace, and the flood-gauge called [[place-themeasure|The Measure]]. The city's two greatest civic rites, the midsummer [Festival of the Coming-Forth]{.name data-type="lore/custom"} and the midwinter [Festival of the Going-Down]{.name data-type="lore/custom"}, fall when the sun rises and sets exactly down that road.
 
 Together the four classes hold the empire's nineteen million people. Each class note treats its most important selatu at length and rosters the rest.
 
@@ -312,7 +312,7 @@ The Great River
 The pyramids and necropolises
 : tomb complexes along the western bank, the most impressive built landscape in the known world. At the capital, the royal necropolis of Zu-Gezer is laid out as a timeline in stone: each dynasty's Gar-Auu lie along their own crossing-road off the great death-road, by tradition the oldest nearest the river and the newest at the frontier, though the mightiest houses have reordered the row, and the reigning dynasty took the river-front itself by its Great Removal
 
-[[place-zelgeru|The Zelgeru]]
+[[lore-zelgeru|The Zelgeru]]
 : the great temple-estates, religious, economic and political institutions to rival the Gar-Au's palace
 
 [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]
@@ -356,3 +356,9 @@ The empire strikes no round coin. Its temples attest weight-pieces of copper, si
 
 [[doc-lnggsthlrn|Languages of Thalorna]]
 : language reference
+
+[[affiliation-azletkutu|Azlet'Kutu]]
+: the second house of the king-list, closed
+
+[[affiliation-thelqenrelu|Thelqen'Relu]]
+: the house of the sun, closed

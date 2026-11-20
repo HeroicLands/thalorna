@@ -66,7 +66,7 @@ The Selat of Lenen-Nezut is one of the eighteen provinces of [[affiliation-upper
 
 ## Character
 
-The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The Halzi'a's house is [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"}, descended from the Lenen-Nezut Gar-Auu ([[lore-thronelnz|the Throne at Lenen-Nezut]]), and it keeps their tombs, [[place-lnzways|the Lenen-Nezut Ways]], and the claim of royal blood that sits awkwardly beside the question of the next succession. The seat is Lenen-Nezut, where the Halzi'a keeps his court and the chief temple of Uqa'a stands.
+The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The Halzi'a's house is [[affiliation-gezeelanlaghu|Geze'el'Anlaghu]], descended from the Lenen-Nezut Gar-Auu ([[lore-thronelnz|the Throne at Lenen-Nezut]]), and it keeps their tombs, [[place-lnzways|the Lenen-Nezut Ways]], and the claim of royal blood that sits awkwardly beside the question of the next succession. The seat is Lenen-Nezut, where the Halzi'a keeps his court and the chief temple of Uqa'a stands.
 
 ## Current Situation {#present}
 
