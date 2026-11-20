@@ -31,7 +31,7 @@ The Hosts have gathered on this ground, each with its battle-shrine, since their
 
 This year's gathering has to settle whether the Hosts answer the tribes together or each alone. [Belukan Kelodov]{.name data-type="being/npc"} of the Khorad Host has told the river communities to stop paying the [[affiliation-sqrtrtrb|Soqritur]], and the Soqritur have answered with riders. The prince's arrears to the Khorad Host are late. [Volkar Kodogorich]{.name data-type="being/npc"} of the Tarvál Host has been offered more by the steppe tribes than the prince of the port pays, and he lets the prince hear of it. [Sovidan Volketich]{.name data-type="being/npc"} of the [[affiliation-hstsvrt|Sevret Host]] wants assurance that the harvest pay will come on the day before his riders return to the passes. Each ataman sits with the other two and speaks for his own Host's price, and the prince's envoys wait outside the ring.
 
-## Dangerous Neighbours {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 The tribes of the western Khazrin camp within a day's ride of the field, and their riders come to watch the gathering and to trade. The Soqritur are among them, and an ataman who has just sent riders against them sits within sight of their fires. The Hosts keep the peace of the ground by oath, and the oath holds as long as every Host believes the others will keep it.
 
