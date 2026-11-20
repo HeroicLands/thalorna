@@ -1,6 +1,6 @@
 ---
 shortcode: mertlnlghkhl
-name: {full: Mertelu Anlagh'Khelesu, given: Mertelu, clan: Anlagh'Khelesu}
+name: {full: Mertelu Anlagh'Khelesu}
 type: being
 subType: npc
 tags: [heroes-and-knaves, common-folk]

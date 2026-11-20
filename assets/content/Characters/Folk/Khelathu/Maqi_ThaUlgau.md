@@ -8,7 +8,7 @@ tags: [draft]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [warrior, herdsman]
+  archetypes: [warrior, woodsman]
   occupation: Halzi'a
   lore: []
   culture: bordkhelclt

@@ -4,7 +4,7 @@ name: {full: Torvogor Fort, velt: [Torvogor tverad]}
 type: place
 subType: structure
 description: "A stone fort of the paid wardens above a river that leaves the Grukar country, whose bell and signal fire warn the villages when canoes come down."
-tags: [fort, river, frontier, velanthia]
+tags: [river, frontier, velanthia]
 data: {demonym: null, lore: [], parents: [velanthrgn], population: 0, packFolder: velanthia}
 ---
 
