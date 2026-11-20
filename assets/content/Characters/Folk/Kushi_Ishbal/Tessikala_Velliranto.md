@@ -1,15 +1,15 @@
 ---
 shortcode: tessikalavllrn
-name: {full: Tessikala Velliranto, en: [The Keeper of the Marsh]}
+name: {full: Tessikala Velliranto}
 type: being
 subType: npc
-description: "The Hemmikanno, Keeper of the Marsh of Ilkaivesto, raised by every voice of the hearths, who keeps the deep swamp and answers for its herons."
+description: "A lord of Ilkaivesto, the southern Senali conclave of Kì'ìch'chik, cool-eyed and patient, who wears a white heron's feather behind her ear and stands in water as readily as on a bank."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, woodsman]
-  occupation: Keeper of the Marsh
+  occupation: Lord of Ilkaivesto
   lore: []
   culture: senaliclt
   homes: [ilkaivesto]
@@ -38,11 +38,17 @@ Tessikala Velliranto is a woman of 1,940 years who stands 6' 2" tall and is of l
 
 # Dossier {#dossier}
 
-**Age 1,940. The Hemmikanno, Keeper of the Marsh. Wants the herons left in peace.**
+**Age 1,940. Lord of Ilkaivesto. Wants the herons left in peace.**
 
-Tessikala Velliranto is the **Hemmikanno** of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], the Keeper of the Marsh, raised by every voice of the hearths and held for as long as they do not raise another. She keeps the deep swamp, drives out an outlaw, and answers for the conclave to the few who ask. Her hearth is Velliranto, the hearth of the heron's call.
+Tessikala Velliranto is a lord of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], raised by every voice of the hearths. Her hearth is Velliranto, the hearth of the heron's call. Neither the Ts'enmah nor the temples of [[affiliation-kuxiixbal|K'ushi Ish'bal]] have ever sent anyone to the conclave, and the rim hunters say only that the deep swamp belongs to the tall people.
 
-She answers for the herons that roost in the swamp in the thousands. Neither the Ts'enmah nor the temples of [[affiliation-kuxiixbal|K'ushi Ish'bal]] have ever sent anyone to the conclave, and the rim hunters say only that the deep swamp belongs to the tall people and that a hunter who follows the herons inward comes home days late and empty-handed.
+## Background
+
+Tessikala was born in the deep swamp in a year of great floods and spent her first wet season in a reed cradle on the water. She learned the herons' calls before she learned the hearths' songs, and the hearths raised her a lord for the long patience with which she has kept the deep swamp as it is.
+
+:::secret {title="The hearths among the herons"}
+Tessikala is the Hemmikanno, the Keeper of the Marsh, raised by every voice of the hearths and holding the office for as long as they do not raise another. She governs the conclave, drives out an outlaw, and answers for the herons that roost in the swamp in the thousands, which the hearths hold in a kind of kinship that they do not explain.
+:::
 
 ## Psyche
 
@@ -56,7 +62,7 @@ She wants the herons left in peace, and the swamp's deep kept as it is.
 
 ### Strengths
 
-The hearths trust her to answer for the herons without counting the cost to herself. The swamp itself is her ally.
+The hearths trust her judgment, and she gives it without counting the cost to herself. The swamp itself is her ally.
 
 ### Weaknesses
 
@@ -78,7 +84,7 @@ The plume trade, though she has never named it.
 
 ### Affiliations
 
-- **[[affiliation-nclvlkvst|Enclave of Ilkaivesto]]**: Tessikala is the Hemmikanno.
+- **[[affiliation-nclvlkvst|Enclave of Ilkaivesto]]**: Tessikala is a Lord.
 
 ## Plot Hooks
 

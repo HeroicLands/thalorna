@@ -3,7 +3,7 @@ shortcode: nclvlkvst
 name: {full: Enclave of Ilkaivesto}
 type: affiliation
 subType: polity
-description: "The Senali of Ilkaivesto, the southern conclave of Kì'ìch'chik, who keep the deep swamp and its herons under a Keeper raised by every voice and have never come up to the plateau."
+description: "The Senali of Ilkaivesto, the southern conclave of Kì'ìch'chik, in the deep of the great swamp below K'ushi Ish'bal's plateau, who have never come up to the plateau."
 tags: []
 data:
   templatePriority: null
@@ -11,14 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: autocracy
+    model: custom
     summary: >-
-      The Senali of Ilkaivesto raise a Keeper of the Marsh, the Hemmikanno, by every voice, and the Keeper holds the deep swamp and answers for the herons that roost in it. Lords are raised the same way, for things done, and hold no land or hearth by it.
+      How the Senali of Ilkaivesto govern themselves is not known outside the deep swamp. As among all the Senali, a lord is raised by every voice, for things done, and holds no land or hearth by it.
     ranks:
       - level: 0
         title: Vyerka
         description: >-
-          A Vyerka, the Senali word for an outlaw, is one driven out of the conclave by its Keeper and given no standing or shelter by it.
+          A Vyerka, the Senali word for an outlaw, is one driven out of the conclave and given no standing or shelter by it.
       - level: 1
         title: Member of the Conclave
         description: >-
@@ -29,7 +29,7 @@ data:
           A Senalo of Ilkaivesto raised to the conclave's respect for things done and by every voice. The standing is a rank and not a holding: a lord holds no ground and governs nothing by it.
     offices:
       Hemmikanno: >-
-        The Keeper of the Marsh, raised by every voice of the hearths and held for as long as the hearths do not raise another. Keeps the deep swamp and its herons, drives out an outlaw, and answers for the conclave to the few who ask.
+        The head office of the conclave, raised by every voice of the hearths and held for as long as the hearths do not raise another.
   seat: ilkaivesto
   population: 110
   territorial_population: 110
@@ -43,13 +43,17 @@ sohl: {system: {commonSkills: [senalilng]}}
 
 ## Overview {#overview}
 
-The **Enclave of Ilkaivesto** is the community of about a hundred and ten of the [[lore-flksenali|Senali Folk]] at [[place-ilkaivesto|Ilkaivesto]], the southernmost of the three conclaves they keep in [[place-kiichchik|Kì'ìch'chik]]. It lies in the great swamp of the lowland below the plateau of [[affiliation-kuxiixbal|K'ushi Ish'bal]], the last green country before the waste of the [[place-xelemixbalrgn|Shelem Ish'bal Region]]. Neither the Ts'enmah nor the temples of the plateau have ever sent anyone to it, and it has never come up to the plateau.
+The **Enclave of Ilkaivesto** is the community of the [[lore-flksenali|Senali Folk]] at [[place-ilkaivesto|Ilkaivesto]], the southernmost of the three conclaves they keep in [[place-kiichchik|Kì'ìch'chik]]. It lies in the great swamp of the lowland below the plateau of [[affiliation-kuxiixbal|K'ushi Ish'bal]], the last green country before the waste of the [[place-xelemixbalrgn|Shelem Ish'bal Region]]. Nobody outside it has counted its people. Neither the Ts'enmah nor the temples of the plateau have ever sent anyone to it, and it has never come up to the plateau.
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Senalo of Ilkaivesto belongs to a hearth the conclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and the conclave raises from among its lords a Keeper of the Marsh, the _hemmikanno_, who holds the deep swamp and answers for its herons. A lord's standing is a rank and not a holding. One the Keeper drives out is _vyerka_, an outlaw, given no standing or shelter.
+A Senalo of Ilkaivesto belongs to a hearth the conclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and a lord's standing is a rank and not a holding. One the conclave drives out is _vyerka_, an outlaw, given no standing or shelter.
 
-The conclave has no dealings with the plateau to govern. What the Keeper rules on is what the swamp does with the people who come into it.
+The conclave has no dealings with the plateau to govern. What the rim hunters know of it is what the swamp does with the people who come into it.
+
+:::secret {title="The Keeper of the Marsh"}
+About a hundred and ten Senali live at Ilkaivesto. They raise from among their lords a Keeper of the Marsh, the _hemmikanno_, who governs the conclave, drives out an outlaw and answers for the herons, which the Senali hold in a kind of kinship that they will not explain. The Keeper is [[being-tessikalavllrn|Tessikala Velliranto]].
+:::
 
 ## Current Situation {#present}
 
@@ -65,7 +69,11 @@ Walls and armies do not protect a Senali conclave. The land does. A canoe that t
 
 ## The Deep Swamp {#holdings}
 
-The conclave's country is the deep of the swamp east of the plateau, where the rivers spread in the wet season into one sheet of water broken by islands of trees and floating meadows of weed. The Senali build there as they build everywhere, by singing and growing what they need and raising nothing in stone.
+The conclave's country is the deep of the swamp east of the plateau, where the rivers spread in the wet season into one sheet of water broken by islands of trees and floating meadows of weed.
+
+:::secret {title="The hearths among the herons"}
+The hearths of Ilkaivesto stand on the tree islands around the lagoon where the herons roost, in dwellings raised on the island trees and woven of living reed that the conclave's weaver grows into walls and floors. Ground that floods each wet season gives stone no footing, and the conclave has never laid any.
+:::
 
 ## History {#history}
 

@@ -1,15 +1,15 @@
 ---
 shortcode: hellurivotlknt
-name: {full: Hellurivo Tolkunto, en: [The Keeper of the Vines]}
+name: {full: Hellurivo Tolkunto}
 type: being
 subType: npc
-description: "The Lirnanno, Keeper of the Vines of Lirnasto, raised by every voice of the hearths, who holds the old jungle and answers for the understanding with K'ankul."
+description: "A lord of Lirnasto, the central Senali conclave of Kì'ìch'chik, gentle and without hurry, who carries a staff of grown wood that bears no mark of a blade."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, woodsman]
-  occupation: Keeper of the Vines
+  occupation: Lord of Lirnasto
   lore: []
   culture: senaliclt
   homes: [lirnasto]
@@ -38,11 +38,17 @@ Hellurivo Tolkunto is a man of 1,760 years who stands 6' 5" tall and is of light
 
 # Dossier {#dossier}
 
-**Age 1,760. The Lirnanno, Keeper of the Vines. Wants the old jungle left as it is.**
+**Age 1,760. Lord of Lirnasto. Wants the old jungle left as it is.**
 
-Hellurivo Tolkunto is the **Lirnanno** of the [[affiliation-nclvlrnst|Enclave of Lirnasto]], the Keeper of the Vines, raised by every voice of the hearths from among its lords and held for as long as they do not raise another. He keeps the old jungle, drives out an outlaw, and answers for the understanding the conclave keeps with [[affiliation-kankul|K'ankul]] to the few who ask. His hearth is Tolkunto, the hearth of the buttress root.
+Hellurivo Tolkunto is a lord of the [[affiliation-nclvlrnst|Enclave of Lirnasto]], raised by every voice of the hearths. His hearth is Tolkunto, the hearth of the buttress root. He has never come to an edge town of [[affiliation-kankul|K'ankul]] and has never been asked to.
 
-Nobody outside Lirnasto knows who he is. The realm's Ts'enmah deal with the edge of the jungle and never with the conclave, and the Lirnanno deals with the realm only by what the jungle does. He has never come to an edge town and has never been asked to.
+## Background
+
+Hellurivo was born in the old jungle and has never left it. He spent his early centuries among the growers, learning to coax the living wood, and the hearths raised him a lord for the patience with which he tended the oldest trees through a drought that killed the young ones.
+
+:::secret {title="The conclave behind the trees"}
+Hellurivo is the Lirnanno, the Keeper of the Vines, raised by every voice of the hearths from among the lords and holding the office for as long as they do not raise another. He keeps the old jungle, drives out an outlaw, and answers for the understanding with K'ankul to the few who ask. Nobody outside Lirnasto knows who he is: the realm's Ts'enmah deal with the edge of the jungle and never with the conclave, and the Keeper deals with the realm only by what the jungle does. The paths at the forest's edge answer to him.
+:::
 
 ## Psyche
 
@@ -56,7 +62,7 @@ He wants the old jungle left as it is, and the understanding kept by the realm w
 
 ### Strengths
 
-The hearths raise him by every voice, and he has never had to lift his own. The paths at the forest's edge answer to him.
+The hearths raise him by every voice, and he has never had to lift his own.
 
 ### Weaknesses
 
@@ -66,7 +72,7 @@ He is slow to act, and he waits for the hearths to agree when an hour would have
 
 ### Companions
 
-The lord [[being-nantoruttahmmr|Nantorutta Hummarinto]], who is his eyes at the edge, and the seer [[being-pallevottakssn|Pallevotta Kossanto]].
+The lord [[being-nantoruttahmmr|Nantorutta Hummarinto]], who keeps the edge, and the seer [[being-pallevottakssn|Pallevotta Kossanto]].
 
 ### Patrons
 
@@ -78,7 +84,7 @@ None he would name.
 
 ### Affiliations
 
-- **[[affiliation-nclvlrnst|Enclave of Lirnasto]]**: Hellurivo is the Lirnanno.
+- **[[affiliation-nclvlrnst|Enclave of Lirnasto]]**: Hellurivo is a Lord.
 
 ## Plot Hooks
 

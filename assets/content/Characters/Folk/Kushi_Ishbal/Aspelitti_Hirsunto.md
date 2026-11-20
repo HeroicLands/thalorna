@@ -3,7 +3,7 @@ shortcode: aspelittihrsnt
 name: {full: Aspelitti Hirsunto}
 type: being
 subType: npc
-description: "The warden of Ilkaivesto's channels, a hunter and poler who keeps the waterways of the deep swamp open for the hearths."
+description: "A warden and poler of Ilkaivesto, the southern Senali conclave of Kì'ìch'chik, who knows every channel of the deep swamp and whistles the heron's call as he poles."
 tags: []
 data:
   icon: icon-person
@@ -40,15 +40,17 @@ Aspelitti Hirsunto is a man of 710 years who stands 6' 1" tall and is of medium 
 
 **Age 710. Warden of the Channels. Wants every hunter home whole.**
 
-Aspelitti Hirsunto is a warden of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], a hunter and a poler, who keeps the channels of the deep swamp. His hearth is Hirsunto, the hearth of the reed bed. He poles the channels in every season, clears what the floods choke and knows which of them a canoe from the rim can reach.
+Aspelitti Hirsunto is a warden of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]], a hunter and a poler, who keeps the channels of the deep swamp. His hearth is Hirsunto, the hearth of the reed bed. He poles the channels in every season, clears what the floods choke and knows which of them a canoe from the rim can reach. He has never drawn a knife on a rim hunter.
 
-He has never drawn a knife on a rim hunter.
+## Background
+
+Aspelitti learned to pole before he could walk far and spent his youth in the reeds near the swamp's rim, listening to the rim hunters' songs across the water. He has kept the channels for four centuries, since the warden before him gave him her pole of grown wood.
 
 ## Psyche
 
 ### Personality
 
-Aspelitti is easy, gentle and slow, and he whistles the heron's call as he poles. He has listened to the rim hunters' songs across the water for centuries and is fond of them.
+Aspelitti is easy, gentle and slow, and he whistles the heron's call as he poles. He has listened to the rim hunters' songs for centuries and is fond of them.
 
 ### Motivation
 
@@ -60,7 +62,7 @@ He knows every channel of the deep swamp and can find his way across it in the d
 
 ### Weaknesses
 
-He cannot be hard with a man in need, which the hearths know and the Keeper does not hold against him.
+He cannot be hard with a man in need, which the hearths know and do not hold against him.
 
 ## Social
 

@@ -3,7 +3,7 @@ shortcode: ulpesavovllrnt
 name: {full: Ulpesavo Velliranto}
 type: being
 subType: npc
-description: "The seer of Ilkaivesto, who reads the evening flights of the herons over the lagoon and gives the Keeper what they say."
+description: "The seer of Ilkaivesto, the southern Senali conclave of Kì'ìch'chik, who sits motionless every evening until the last flight of herons has gone up and reads the order they rise in."
 tags: []
 data:
   icon: icon-person
@@ -40,19 +40,25 @@ Ulpesavo Velliranto is a man of 1,500 years who stands 6' 3" tall and is of ligh
 
 **Age 1,500. Seer of the Herons. Wants the flights read as they are.**
 
-Ulpesavo Velliranto is the seer of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]]. Every evening the herons rise from the lagoon in flights larger than anywhere else on the lowland, and he reads them: the order they rise in, the direction they turn, the hour. His hearth is Velliranto, the hearth of the heron's call, and he is kin of the Keeper, [[being-tessikalavllrn|Tessikala Velliranto]].
+Ulpesavo Velliranto is the seer of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]]. Every evening the herons rise from the deep swamp in flights larger than anywhere else on the lowland, and he reads them: the order they rise in, the direction they turn, the hour. His hearth is Velliranto, the hearth of the heron's call, and he is kin of the lord [[being-tessikalavllrn|Tessikala Velliranto]]. Whatever the hearths do with his readings is theirs to decide.
 
-He gives the Keeper what the flights say in the words in which he reads them. Whatever the hearths do with it is theirs to decide.
+## Background
+
+Ulpesavo spent his youth calling herons for the seer before him, and a startled bird gave him the scar through his left eyebrow in his first season. He took up the reading when his teacher's eyes failed, and he has read the flights for more than a thousand years.
+
+:::secret {title="The hearths among the herons"}
+Ulpesavo reads the flights from the lagoon where the herons roost among the hearths, and he gives the Keeper, Tessikala Velliranto, what they say in the words in which he reads them.
+:::
 
 ## Psyche
 
 ### Personality
 
-Ulpesavo is dry, attentive and kind in a way that costs him effort. He rarely finishes a sentence in one breath, and he stops to let a heron cross the lagoon.
+Ulpesavo is dry, attentive and kind in a way that costs him effort. He rarely finishes a sentence in one breath, and he stops to let a heron cross the water.
 
 ### Motivation
 
-He wants the flights read as they are, and the Keeper given what they say before the hearths have decided what they wish it to say.
+He wants the flights read as they are, and given on before the hearths have decided what they wish them to say.
 
 ### Strengths
 
@@ -66,7 +72,7 @@ He reads only what the herons show, and he cannot make the hearths listen to an 
 
 ### Companions
 
-The Keeper, [[being-tessikalavllrn|Tessikala Velliranto]], and the weaver [[being-miskottakklnt|Miskotta Okkelanto]].
+The lord Tessikala Velliranto, his kin, and the weaver [[being-miskottakklnt|Miskotta Okkelanto]].
 
 ### Patrons
 

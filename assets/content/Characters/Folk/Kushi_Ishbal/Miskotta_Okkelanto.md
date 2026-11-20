@@ -3,7 +3,7 @@ shortcode: miskottakklnt
 name: {full: Miskotta Okkelanto}
 type: being
 subType: npc
-description: "The reed-weaver of Ilkaivesto, who grows and weaves the living-reed dwellings of the tree islands."
+description: "The reed-weaver of Ilkaivesto, the southern Senali conclave of Kì'ìch'chik, who grows and weaves the living reed and hums at her work in a key no hearth shares."
 tags: []
 data:
   icon: icon-person
@@ -38,11 +38,19 @@ Miskotta Okkelanto is a woman of 980 years who stands 5' 7" tall and is of light
 
 # Dossier {#dossier}
 
-**Age 980. Weaver of Living Reed. Wants the hearths' houses to outlast the reeds.**
+**Age 980. Weaver of Living Reed. Wants her work to outlast the reeds.**
 
-Miskotta Okkelanto is the reed-weaver of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]]. The Senali build by singing and growing what they need, and her work is the reed: she sings the living reed into walls and floors and weaves it into the dwellings raised on the tree islands. Her hearth is Okkelanto, the hearth of the heron's perch.
+Miskotta Okkelanto is the reed-weaver of the [[affiliation-nclvlkvst|Enclave of Ilkaivesto]]. The [[lore-flksenali|Senali]] would rather grow what they need than build it, and her work is the reed: she sings the living reed into whatever the hearths ask and weaves it fine enough for cloth. Her hearth is Okkelanto, the hearth of the heron's perch.
 
 A rim hunter who has seen the edge of the swamp has seen her work without knowing it: the reed beds along the channels grow thicker than any natural bed, and the herons stand in them in rows.
+
+## Background
+
+Miskotta wove her first mat at the edge of her mother's reed bed and has not stopped since. She learned to sing the reed in her second century, and for the last five she has grown the beds along the channels as well as woven what is cut from them.
+
+:::secret {title="The hearths among the herons"}
+Miskotta grows Ilkaivesto's dwellings: she sings the living reed into walls and floors and weaves it into the houses raised on the tree islands around the lagoon.
+:::
 
 ## Psyche
 
@@ -52,15 +60,15 @@ Miskotta is patient, practical and slow to praise, and she hums while she weaves
 
 ### Motivation
 
-She wants the hearths' houses to outlast the reeds, and the reeds to outlast the hearth.
+She wants her work to outlast the reeds, and the reeds to outlast the hearth.
 
 ### Strengths
 
-She grows the reed beds that hide the swamp. No other weaver of the conclave can match her.
+She grows the reed beds that hide the deep swamp, and no other weaver of the conclave can match her.
 
 ### Weaknesses
 
-She trusts the reed above the hearths and, once she has begun a weave, will not hear that it should stop.
+She trusts the reed above the hearths and, once she has begun a weave, does not hear that it should stop.
 
 ## Social
 

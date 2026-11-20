@@ -3,13 +3,13 @@ shortcode: lauhittapsknt
 name: {full: Lauhitta Peskonto}
 type: being
 subType: npc
-description: "The grower of Hersellonku's living-pine dwellings, who sings the trees into the shape the hearths ask and whose pines lean toward the lakes."
+description: "A singer of the pines of Hersellonku, the northern Senali conclave of Kì'ìch'chik, brisk and plain-spoken, whose hands are stained green with pitch to the wrist."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [artisan, mage]
-  occupation: Grower of the Living Pine
+  occupation: Singer of the Pines
   lore: []
   culture: senaliclt
   homes: [hersellonku]
@@ -38,11 +38,19 @@ Lauhitta Peskonto is a woman of 900 years who stands 5' 11" tall and is of light
 
 # Dossier {#dossier}
 
-**Age 900. Grower of the Living Pine. Wants the pines to lean the way they are asked.**
+**Age 900. Singer of the Pines. Wants the pines to grow the way they are asked.**
 
-Lauhitta Peskonto is the grower of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]]. The Senali build by singing and growing what they need, and she is the one the hearths ask to grow a dwelling: she sings a young pine into a house of living wood on an island or a stony shore, and the house is there for as long as the hearth keeps it. Her own hearth is Peskonto, the hearth of the thin smoke.
+Lauhitta Peskonto is a member of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]] who sings the living pine. The [[lore-flksenali|Senali]] would rather grow what they need than build it, and she is the one the hearths ask when a pine is to be grown into a shape. Her own hearth is Peskonto, the hearth of the thin smoke.
 
-The canoe makers of the Grove say that the pines on the far lakes lean, all of them toward the water and none toward the land. They say it as a curiosity. It is her work.
+The canoe makers of the Grove say that the pines on the far lakes lean, all of them toward the water and none toward the land. They say it as a curiosity.
+
+## Background
+
+Lauhitta learned to sing the pines from the singer before her, and for her first two centuries she did little but listen to the trees answer. She has sung for the hearths ever since, and a young hearth comes to her first.
+
+:::secret {title="The hearths on the far lakes"}
+Lauhitta grows Hersellonku's dwellings: she sings a young pine into a house of living wood on an island or a stony shore of the far lakes, and the house stands for as long as the hearth keeps it. The leaning pines of the far lakes are her work.
+:::
 
 ## Psyche
 
@@ -52,11 +60,11 @@ Lauhitta is brisk, plain-spoken and impatient with anything unfinished, and she 
 
 ### Motivation
 
-She wants the pines of the far lakes to lean the way they are asked, and she wants her dwellings to outlast the hearths that she builds them for.
+She wants the pines of the far lakes to grow the way they are asked, and she wants her work to outlast the hearths she does it for.
 
 ### Strengths
 
-No one grows as well. A pine she sings keeps the shape of a house for a thousand winters.
+No one sings the pines as well. A pine she has sung keeps the shape she gave it for as long as it lives.
 
 ### Weaknesses
 
@@ -66,7 +74,7 @@ She sings for a long time without stopping to see what the song has done, and sh
 
 ### Companions
 
-The seer [[being-auverilahlkrnt|Auverila Halkorinto]], beside whom she has sung for centuries, and the young hearths who ask her for dwellings.
+The seer [[being-auverilahlkrnt|Auverila Halkorinto]], beside whom she has sung for centuries, and the young hearths who ask for her work.
 
 ### Patrons
 

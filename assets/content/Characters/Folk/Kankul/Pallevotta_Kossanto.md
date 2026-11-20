@@ -3,7 +3,7 @@ shortcode: pallevottakssn
 name: {full: Pallevotta Kossanto}
 type: being
 subType: npc
-description: "The seer of Lirnasto, who reads the sacred pools in the limestone where no priest has poured an offering."
+description: "The seer of Lirnasto, the central Senali conclave of Kì'ìch'chik, who reads the sacred pools in the limestone where no priest has poured an offering."
 tags: []
 data:
   icon: icon-person
@@ -40,9 +40,17 @@ Pallevotta Kossanto is a woman of 1,300 years who stands 5' 10" tall and is of l
 
 **Age 1,300. Seer of the Pools. Wants to read what the water gives.**
 
-Pallevotta Kossanto is the seer of the [[affiliation-nclvlrnst|Enclave of Lirnasto]]. She reads the sacred pools that open in the limestone of the old jungle, the pools in which no priest of the realm has ever poured an offering, and she gives the Keeper what she reads. Her hearth is Kossanto, the hearth of the sunken pool, and she is the elder kin of the warden [[being-kelsipavokssnt|Kelsipavo Kossanto]].
+Pallevotta Kossanto is the seer of the [[affiliation-nclvlrnst|Enclave of Lirnasto]]. She reads the sacred pools that open in the limestone of the old jungle, the pools in which no priest of the realm has ever poured an offering. Her hearth is Kossanto, the hearth of the sunken pool, and she is the elder kin of the warden [[being-kelsipavokssnt|Kelsipavo Kossanto]].
 
 The priests of the Star House know the pools from their edges and have never been invited to a closer look.
+
+## Background
+
+Pallevotta came to the pools as a child, sent to carry water for the seer before her, and stayed. She took up the reading when the old seer fell silent, and she has read the pools for more than a thousand years.
+
+:::secret {title="The conclave behind the trees"}
+Pallevotta gives what she reads to the Keeper, [[being-hellurivotlknt|Hellurivo Tolkunto]], before anyone else.
+:::
 
 ## Psyche
 
@@ -52,21 +60,21 @@ Pallevotta is deep, mild and slow to answer, and she speaks to a pool as another
 
 ### Motivation
 
-She wants to read what the water gives and to give it on, faithfully, to the Keeper.
+She wants to read what the water gives and to give it on, faithfully.
 
 ### Strengths
 
-She has read the pools for more than a thousand years and has never given a false reading.
+She has never given a false reading.
 
 ### Weaknesses
 
-She reads only what is shown, and when the water shows nothing, she cannot give the Keeper the certainty he wants.
+She reads only what is shown, and when the water shows nothing, she cannot give the certainty that is wanted of her.
 
 ## Social
 
 ### Companions
 
-The Keeper, [[being-hellurivotlknt|Hellurivo Tolkunto]], and the weaver [[being-ruvalittanrlln|Ruvalitta Nurellanto]].
+The lord Hellurivo Tolkunto, and the weaver [[being-ruvalittanrlln|Ruvalitta Nurellanto]].
 
 ### Patrons
 

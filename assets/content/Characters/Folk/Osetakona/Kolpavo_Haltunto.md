@@ -3,7 +3,7 @@ shortcode: kolpavohltnt
 name: {full: Kolpavo Haltunto}
 type: being
 subType: npc
-description: "The warden of Hersellonku's far ridges, a hunter and bowman who knows every path out of the pines and teaches the young that every path leaves by the way it came in."
+description: "A warden and bowman of Hersellonku, the northern Senali conclave of Kì'ìch'chik, who walks the far ridges in every season and moves through the pines without a sound."
 tags: []
 data:
   icon: icon-person
@@ -40,9 +40,15 @@ Kolpavo Haltunto is a man of 640 years who stands 6' 2" tall and is of medium bu
 
 **Age 640. Warden of the Far Ridges. Wants the ridges kept as the hearths hold them.**
 
-Kolpavo Haltunto is a warden of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]], a hunter and a bowman, who walks the far ridges in every season and keeps the paths that lead out of them. His hearth is Haltunto, the hearth of the hollow log. He teaches the young hunters the paths and teaches one thing before all the others: every path leaves the pines by the way it entered, and a hunter who forgets that is lost with the pines' help and not their harm.
+Kolpavo Haltunto is a warden of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]], a hunter and a bowman, who walks the far ridges in every season. His hearth is Haltunto, the hearth of the hollow log. He has never fired on a man and has never been asked to.
 
-He has never fired on a man and has never been asked to.
+## Background
+
+Kolpavo was the youngest hunter of his hearth for two centuries and learned the ridges from the lord [[being-hapirivovssnt|Hapirivo Vessonto]], walking behind him shore after shore. He took up the warden's bow when he could find any lake from any point in the pines, and he teaches the young hunters now as he was taught.
+
+:::secret {title="The paths out of the pines"}
+The warden keeps the paths that lead out of the far ridges. Kolpavo teaches the young one thing before all the others: every path leaves the pines by the way it entered, and a hunter who forgets that is lost with the pines' help and not their harm.
+:::
 
 ## Psyche
 
@@ -66,7 +72,7 @@ He does not trust a stranger's reason for coming, and the more reasonable the re
 
 ### Companions
 
-[[being-hapirivovssnt|Hapirivo Vessonto]], the lord with whom he walks the ridges, and the young hunters he teaches.
+Hapirivo Vessonto, the lord with whom he walks the ridges, and the young hunters he teaches.
 
 ### Patrons
 
@@ -82,7 +88,7 @@ The hunting bands pressing south into the pines, though he bears no man of them 
 
 ## Plot Hooks
 
-1. **The lake on the skyline.** A party that has strayed onto the far ridges walks all day toward a lake on the skyline and comes down at dusk on the shore it left at dawn. Its guide from the hunting bands will go no farther and turns for home.
+1. **The lake on the skyline.** A party that has strayed onto the far ridges walks all day toward a lake on the skyline and comes down at dusk on the shore it left at dawn. Its guide from the hunting bands goes no farther and turns for home.
 2. **The pale arrow.** A young hunter of the Pine People finds an arrow of pale wood lying across his snare line at the edge of the far ridges, fletched in a way no people of the Grove fletch. He asks a party to learn whose it is.
 
 :::secret {title="The one who did not come back"}

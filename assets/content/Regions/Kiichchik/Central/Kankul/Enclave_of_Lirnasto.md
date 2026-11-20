@@ -3,7 +3,7 @@ shortcode: nclvlrnst
 name: {full: Enclave of Lirnasto}
 type: affiliation
 subType: polity
-description: "The Senali of Lirnasto, the central conclave of Kì'ìch'chik, governed by a Keeper raised by every voice, who holds the one understanding the Senali keep with a human realm."
+description: "The Senali of Lirnasto, the central conclave of Kì'ìch'chik, in the uncut high jungle that the realm of K'ankul keeps its people out of by the one understanding the Senali hold with a human realm."
 tags: []
 data:
   templatePriority: null
@@ -11,14 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: autocracy
+    model: custom
     summary: >-
-      The Senali of Lirnasto raise a Keeper of the Vines, the Lirnanno, by every voice, and the Keeper speaks for the conclave to the realm of K'ankul and holds the jungle the understanding keeps clear. Lords are raised the same way, for things done, and hold no land or hearth by it.
+      How the Senali of Lirnasto govern themselves is not known outside the old jungle, and the realm of K'ankul deals only with its edge. As among all the Senali, a lord is raised by every voice, for things done, and holds no land or hearth by it.
     ranks:
       - level: 0
         title: Vyerka
         description: >-
-          A Vyerka, the Senali word for an outlaw, is one driven out of the conclave by its Keeper and given no standing or shelter by it.
+          A Vyerka, the Senali word for an outlaw, is one driven out of the conclave and given no standing or shelter by it.
       - level: 1
         title: Member of the Conclave
         description: >-
@@ -29,7 +29,7 @@ data:
           A Senalo of Lirnasto raised to the conclave's respect for things done and by every voice. The standing is a rank and not a holding: a lord holds no ground and governs nothing by it.
     offices:
       Lirnanno: >-
-        The Keeper of the Vines, raised by every voice of the hearths and held for as long as the hearths do not raise another. Keeps the old jungle, drives out an outlaw, and answers for the understanding with K'ankul to the few who ask.
+        The head office of the conclave, raised by every voice of the hearths and held for as long as the hearths do not raise another.
   seat: lirnasto
   population: 160
   territorial_population: 160
@@ -43,13 +43,17 @@ sohl: {system: {commonSkills: [senalilng]}}
 
 ## Overview {#overview}
 
-The **Enclave of Lirnasto** is the community of about a hundred and sixty of the [[lore-flksenali|Senali Folk]] at [[place-lirnasto|Lirnasto]], the central of the three conclaves they keep in [[place-kiichchik|Kì'ìch'chik]]. It lies in the uncut high jungle of the [[place-kankulrgn|K'ankul Region]], a long way from the coast and from every city of the realm. It is the one Senali community in Kì'ìch'chik that a human realm has dealt with, and the dealing is an understanding and not a treaty: neither side has ever asked the other for anything more.
+The **Enclave of Lirnasto** is the community of the [[lore-flksenali|Senali Folk]] at [[place-lirnasto|Lirnasto]], the central of the three conclaves they keep in [[place-kiichchik|Kì'ìch'chik]]. It lies in the uncut high jungle of the [[place-kankulrgn|K'ankul Region]], a long way from the coast and from every city of the realm. Nobody outside it has counted its people. It is the one Senali community in Kì'ìch'chik that a human realm has dealt with, and the dealing is an understanding and not a treaty: neither side has ever asked the other for anything more.
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Senalo of Lirnasto belongs to a hearth the conclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and the conclave raises from among its lords a Keeper of the Vines, the _lirnanno_, who holds the old jungle and answers for the understanding. A lord's standing is a rank and not a holding. One the Keeper drives out is _vyerka_, an outlaw, given no standing or shelter.
+A Senalo of Lirnasto belongs to a hearth the conclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and a lord's standing is a rank and not a holding. One the conclave drives out is _vyerka_, an outlaw, given no standing or shelter.
 
-Nobody outside Lirnasto knows who the Keeper is. The realm's Ts'enmah deal with the edge of the jungle and never with the conclave, and the Keeper deals with the realm only by what the jungle does.
+Nobody outside Lirnasto knows who speaks for it. The realm's Ts'enmah deal with the edge of the jungle and never with the conclave, and the conclave deals with the realm only by what the jungle does.
+
+:::secret {title="The conclave behind the trees"}
+About a hundred and sixty Senali live at Lirnasto. They raise from among their lords a Keeper of the Vines, the _lirnanno_, who holds the old jungle, drives out an outlaw and answers for the understanding. The Keeper is [[being-hellurivotlknt|Hellurivo Tolkunto]].
+:::
 
 ## Current Situation {#present}
 
@@ -65,7 +69,11 @@ Walls and armies do not protect a Senali conclave. The land does. A path into th
 
 ## The Old Jungle {#holdings}
 
-The conclave's country is the high jungle of the interior: trees older and taller than any the realm's foresters keep, hung with vines from crown to root, and sacred pools open in the limestone where no priest has poured an offering. No plot has been burned among the trees, and the Senali build there as they build everywhere, by singing and growing what they need and raising nothing in stone.
+The conclave's country is the high jungle of the interior: trees older and taller than any the realm's foresters keep, hung with vines from crown to root, and sacred pools open in the limestone where no priest has poured an offering. No plot has been burned among the trees.
+
+:::secret {title="The hearths in the old trees"}
+The hearths of Lirnasto stand in the crowns and among the buttress roots of the oldest trees, around a cenote the realm's priests have never found. Their dwellings are grown from the living trees and tied with vine cord, and no stone is laid among them.
+:::
 
 ## History {#history}
 

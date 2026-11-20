@@ -3,7 +3,7 @@ shortcode: nclvhrsllnk
 name: {full: Enclave of Hersellonku}
 type: affiliation
 subType: polity
-description: "The Senali of Hersellonku, the northern conclave of Kì'ìch'chik, who settle every matter in a council that speaks until it agrees and take no part in the Grove's affairs."
+description: "The Senali of Hersellonku, the northern conclave of Kì'ìch'chik, who hold the far ridges of the Pine Country beyond the Pine People's last village and take no part in the Grove's affairs."
 tags: []
 data:
   templatePriority: null
@@ -11,14 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: council
+    model: custom
     summary: >-
-      The Senali of Hersellonku settle matters in an ommenda, a council of the hearths that speaks until it agrees, and a Keeper of the Stillness, the Mervunno, holds the silence in which it speaks and says aloud what it concludes. Lords are raised by every voice, for things done, and hold no land or hearth by it.
+      How the Senali of Hersellonku govern themselves is not known outside the far ridges. As among all the Senali, a lord is raised by every voice, for things done, and holds no land or hearth by it.
     ranks:
       - level: 0
         title: Vyerka
         description: >-
-          A Vyerka, the Senali word for an outlaw, is one driven out of the conclave by its Keeper and given no standing or shelter by it.
+          A Vyerka, the Senali word for an outlaw, is one driven out of the conclave and given no standing or shelter by it.
       - level: 1
         title: Member of the Conclave
         description: >-
@@ -29,7 +29,7 @@ data:
           A Senalo of Hersellonku raised to the conclave's respect for things done and by every voice. The standing is a rank and not a holding: a lord holds no ground and governs nothing by it.
     offices:
       Mervunno: >-
-        The Keeper of the Stillness, raised by every voice of the hearths. Holds the silence of the council, says aloud what it concludes, drives out an outlaw, and answers for the conclave to the few who ask.
+        The head office of the conclave, raised by every voice of the hearths.
   seat: hersellonku
   population: 90
   territorial_population: 90
@@ -43,13 +43,17 @@ sohl: {system: {commonSkills: [senalilng]}}
 
 ## Overview {#overview}
 
-The **Enclave of Hersellonku** is the community of about ninety of the [[lore-flksenali|Senali Folk]] at [[place-hersellonku|Hersellonku]], the northernmost of the three conclaves they keep in [[place-kiichchik|Kì'ìch'chik]]. It lies in the deep pine wood on the far ridges of the [[place-tsitarargn|Pine Country]], where the rock and the cold lakes run on into country with no villages at all. The [[affiliation-osetakona|Osetakona]] of the Grove know it only as the far ridges that the tall people hold, and it asks nothing of them.
+The **Enclave of Hersellonku** is the community of the [[lore-flksenali|Senali Folk]] at [[place-hersellonku|Hersellonku]], the northernmost of the three conclaves they keep in [[place-kiichchik|Kì'ìch'chik]]. It lies in the deep pine wood on the far ridges of the [[place-tsitarargn|Pine Country]], where the rock and the cold lakes run on into country with no villages at all. Nobody outside it has counted its people. The [[affiliation-osetakona|Osetakona]] of the Grove know it only as the far ridges that the tall people hold, and it asks nothing of them.
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-A Senalo of Hersellonku belongs to a hearth the conclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and the hearths of Hersellonku decide in an _ommenda_, a council that speaks until it agrees. A Keeper of the Stillness, the _mervunno_, sits in it, keeps the silence in which it speaks and says aloud what it concludes. A lord's standing is a rank and not a holding. One the Keeper drives out is _vyerka_, an outlaw, given no standing or shelter.
+A Senalo of Hersellonku belongs to a hearth the conclave keeps. The [[lore-senaliclt|Senali]] raise a lord for things done, by every voice, and a lord's standing is a rank and not a holding. One the conclave drives out is _vyerka_, an outlaw, given no standing or shelter.
 
-Nothing the council concludes is carried out of the pines. The Pine People hear of the conclave's decisions only by what the far ridges do.
+Nothing the conclave decides is carried out of the pines. The Pine People hear of its decisions only by what the far ridges do.
+
+:::secret {title="The ommenda and its Keeper"}
+About ninety Senali live at Hersellonku. The hearths decide in an _ommenda_, a council that speaks until it agrees. The Keeper of the Stillness, the _mervunno_, sits in it, keeps the silence in which it speaks and says aloud what it concludes. The Keeper is [[being-sorvelittakrsn|Sorvelitta Kersonto]], and it is the Keeper who drives out an outlaw when the ommenda asks it.
+:::
 
 ## Current Situation {#present}
 
@@ -65,7 +69,11 @@ Walls and armies do not protect a Senali conclave. The land does. A path toward 
 
 ## The Far Lakes {#holdings}
 
-The conclave's country is the deep pine wood beyond the Pine People's last village: white and red pine older than any the canoe makers cut, a floor of needles and moss, and lakes clear to the bottom. The Senali build there as they build everywhere, by singing and growing what they need and raising nothing in stone.
+The conclave's country is the deep pine wood beyond the Pine People's last village: white and red pine older than any the canoe makers cut, a floor of needles and moss, and lakes clear to the bottom.
+
+:::secret {title="The hearths on the far lakes"}
+The hearths stand on the islands and stony shores of the far lakes, in dwellings of living pine that the conclave's grower sings into the shape of a house. A canoe passes within a spear's cast of them without seeing one. Hersellonku has raised nothing in stone, because the far lakes have never needed it.
+:::
 
 ## History {#history}
 

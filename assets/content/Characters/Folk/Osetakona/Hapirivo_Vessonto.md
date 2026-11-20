@@ -3,7 +3,7 @@ shortcode: hapirivovssnt
 name: {full: Hapirivo Vessonto}
 type: being
 subType: npc
-description: "A lord of Hersellonku, raised by every voice for the autumn he carried the island hearths' children ashore over failing ice, who sits in the ommenda and walks the high lakes between its meetings."
+description: "A lord of Hersellonku, the northern Senali conclave of Kì'ìch'chik, silver-braided and long of speech, who walks the far ridges shore by shore."
 tags: []
 data:
   icon: icon-person
@@ -38,11 +38,17 @@ Hapirivo Vessonto is a man of 1,180 years who stands 6' 6" tall and is of light 
 
 # Dossier {#dossier}
 
-**Age 1,180. Lord of Hersellonku. Wants the high lakes walked by someone who knows each one.**
+**Age 1,180. Lord of Hersellonku. Wants the far lakes walked by someone who knows each one.**
 
-Hapirivo Vessonto is a lord of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]], raised by every voice of the hearths for one deed: in an autumn when the ice on the island lake failed under the hearths' dwellings, he crossed it eleven times in a night and carried every child ashore. The standing is respect and holds no land, hearth or office. He lives in his mother's hearth of Vessonto, the hearth of the needle floor.
+Hapirivo Vessonto is a lord of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]], raised by every voice of the hearths for one deed. The standing is respect and holds no land, hearth or office. He lives in his mother's hearth of Vessonto, the hearth of the needle floor.
 
-He sits in the _ommenda_ and speaks long. Between its meetings he walks the high lakes of the far ridges, shore after shore, and he knows by name every stone that breaks the water.
+## Background
+
+Hapirivo grew up in the far pines and learned the ice before he learned to sing. He spent his youth walking the ridges, and he walks them still, shore after shore, and knows by name every stone that breaks the water. The hearths raised him a lord in his seventh century.
+
+:::secret {title="The hearths on the far lakes"}
+The deed was an autumn when the ice on the island lake failed under the hearths' dwellings: he crossed it eleven times in a night and carried every child ashore. He sits in the _ommenda_ and speaks long, and between its meetings he walks the high lakes.
+:::
 
 ## Psyche
 
@@ -60,13 +66,13 @@ He has walked every shore of the far ridges and can find any lake blind. The hea
 
 ### Weaknesses
 
-He cannot end a speech while a hearth is still frowning, and the ommenda is long when he is in it.
+He cannot end a speech while a hearth is still frowning, and a gathering is long when he is in it.
 
 ## Social
 
 ### Companions
 
-The Keeper, [[being-sorvelittakrsn|Sorvelitta Kersonto]], and the warden [[being-kolpavohltnt|Kolpavo Haltunto]], who has walked the ridges beside him for centuries.
+[[being-sorvelittakrsn|Sorvelitta Kersonto]], the eldest of the conclave's lords, and the warden [[being-kolpavohltnt|Kolpavo Haltunto]], who has walked the ridges beside him for centuries.
 
 ### Patrons
 
@@ -82,9 +88,11 @@ None he would name.
 
 ## Plot Hooks
 
-1. **The lake that sings.** A hunter back from the ridges tells a market of the Pine People that he heard singing on a lake where no village lies. A trader of the Grove will pay well to be shown the place. Hapirivo wants the hunter found before the story has been told twice.
+1. **The lake that sings.** A hunter back from the ridges tells a market of the Pine People that he heard singing on a lake where no village lies, and a trader of the Grove pays well to be shown the place.
 2. **Snowshoes at the shore.** A Pine People hunter finds a pair of snowshoes set side by side at the edge of a lake on the near ridges and carries them to the band camped at Snow Place. They belong to the band's hunter who has not come back, and the band asks a party to go to the lake and learn why he took them off.
 
 :::secret {title="The argument he is losing"}
 Hapirivo argues in the ommenda that the far ridges are kept for the wood, not for the hearths, and that to turn the bands by force is to set the hearths above the wood. He is losing the argument to the hearths who say the ridges are theirs. Their voice is Kolpavo Haltunto, his oldest friend, and the two walk the ridges together every week without speaking of it.
+
+The singing lake is the island lake of the hearths, and Hapirivo wants the hunter who heard it found before the story has been told twice.
 :::

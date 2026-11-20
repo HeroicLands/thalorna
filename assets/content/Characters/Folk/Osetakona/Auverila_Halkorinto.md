@@ -3,7 +3,7 @@ shortcode: auverilahlkrnt
 name: {full: Auverila Halkorinto}
 type: being
 subType: npc
-description: "The seer of Hersellonku, who reads the still surfaces of the far lakes and whom the ommenda asks before it sits on a hard matter."
+description: "The seer of Hersellonku, the northern Senali conclave of Kì'ìch'chik, who sits for hours at the edge of a far lake with her feet in the water and reads its still surface."
 tags: []
 data:
   icon: icon-person
@@ -40,9 +40,17 @@ Auverila Halkorinto is a woman of 1,420 years who stands 5' 9" tall and is of li
 
 **Age 1,420. Seer of the Lakes. Wants to read what the water shows and to say it plainly.**
 
-Auverila Halkorinto is the seer of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]]. She reads the still surface of the far lakes, a craft the Senali keep among the oldest they have, and the _ommenda_ asks her before it sits on a hard matter. She gives what she has read and not what she thinks of it. Her hearth is Halkorinto, the hearth of the cold shore.
+Auverila Halkorinto is the seer of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]]. She reads the still surface of the far lakes, a craft the Senali keep among the oldest they have, and gives what she has read and not what she thinks of it. Her hearth is Halkorinto, the hearth of the cold shore.
 
 The Pine People tell of a pale woman sitting at a lake's edge who does not look up when a hunter passes. A hunter who has seen her says he was not looked at and was not afraid.
+
+## Background
+
+Auverila was a singer before she was a seer. In her third century the glare off the lake ice took the sight of her left eye, and in the clouded eye she began to see what the water showed. She has read the lakes for the hearths for more than a thousand years.
+
+:::secret {title="The ommenda and its Keeper"}
+The _ommenda_ asks Auverila before it sits on a hard matter, and she gives her reading to the council in the words it was given.
+:::
 
 ## Psyche
 
@@ -52,7 +60,7 @@ Auverila is dreamy, exact and very kind, and she cannot be hurried when she is r
 
 ### Motivation
 
-She wants to read what the water shows truly, and to give it to the ommenda in the words it was given, without bending it toward what the hearths hope.
+She wants to read what the water shows truly, and to give it to the hearths in the words it was given, without bending it toward what they hope.
 
 ### Strengths
 
@@ -60,13 +68,13 @@ Her readings have never been wrong, and the hearths know it. She can see across 
 
 ### Weaknesses
 
-She reads only what the water offers, and when it offers nothing, the ommenda has no help from her and does not like to say so.
+She reads only what the water offers, and when it offers nothing, the hearths have no help from her and do not like to say so.
 
 ## Social
 
 ### Companions
 
-The grower [[being-lauhittapsknt|Lauhitta Peskonto]], who sings the trees she watches, and the Keeper, [[being-sorvelittakrsn|Sorvelitta Kersonto]].
+The singer [[being-lauhittapsknt|Lauhitta Peskonto]], who sings the trees she watches, and the lord [[being-sorvelittakrsn|Sorvelitta Kersonto]].
 
 ### Patrons
 

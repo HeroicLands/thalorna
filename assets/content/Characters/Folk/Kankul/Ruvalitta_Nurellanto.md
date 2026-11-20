@@ -3,7 +3,7 @@ shortcode: ruvalittanrlln
 name: {full: Ruvalitta Nurellanto}
 type: being
 subType: npc
-description: "The cord-weaver of Lirnasto, who spins and knots the vine cord the hearths mark their country with and keeps the Keeper's long reckoning."
+description: "The cord-weaver of Lirnasto, the central Senali conclave of Kì'ìch'chik, who spins living vine into cord and knots it without looking."
 tags: []
 data:
   icon: icon-person
@@ -38,11 +38,17 @@ Ruvalitta Nurellanto is a woman of 830 years who stands 5' 8" tall and is of lig
 
 # Dossier {#dossier}
 
-**Age 830. Weaver of Living Cord. Wants the reckoning kept true.**
+**Age 830. Weaver of Living Cord. Wants every knot to be one the hearths would own.**
 
-Ruvalitta Nurellanto is the cord-weaver of the [[affiliation-nclvlrnst|Enclave of Lirnasto]]. The Senali build by singing and growing, and her work is the living vine: she spins it into cord and rope and knots into it the signs the hearths use to mark the edge of their country. Her hearth is Nurellanto, the hearth of the hanging moss.
+Ruvalitta Nurellanto is the cord-weaver of the [[affiliation-nclvlrnst|Enclave of Lirnasto]]. Her work is the living vine: she spins it into cord and rope and knots into it the signs the hearths use to mark the edge of their country. Her hearth is Nurellanto, the hearth of the hanging moss.
 
-She also keeps the long reckoning, the cord on which the conclave records what it has to count. It is the one record the Senali of Lirnasto keep that is not sung.
+## Background
+
+Ruvalitta was apprenticed to the cord in her first century and has worked nothing else since. In her fifth century the weaver before her gave the conclave's oldest cord into her hands.
+
+:::secret {title="The conclave behind the trees"}
+The oldest cord is the long reckoning, on which the conclave records what it has to count, and it is the one record the Senali of Lirnasto keep that is not sung. The hearths read it when they gather, and the stands the realm's foresters have marked for burning are counted on it.
+:::
 
 ## Psyche
 
@@ -52,15 +58,15 @@ Ruvalitta is exact, humorous and slow to be shocked, and she talks while she kno
 
 ### Motivation
 
-She wants the reckoning kept true, and she wants every knot on it to be one the hearths would own.
+She wants every knot she ties to be one the hearths would own.
 
 ### Strengths
 
-She never mis-ties a knot, and she remembers every cord she has handled in a thousand years.
+She never mis-ties a knot, and she remembers every cord she has handled in eight centuries.
 
 ### Weaknesses
 
-She keeps a record of everything and cannot be persuaded to leave something uncounted, even when counting it hurts.
+She keeps count of everything and cannot be persuaded to leave something uncounted, even when counting it hurts.
 
 ## Social
 

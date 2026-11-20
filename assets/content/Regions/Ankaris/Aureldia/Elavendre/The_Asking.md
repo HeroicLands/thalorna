@@ -751,7 +751,7 @@ This wood is Lonku." "Lonpu." "No./
 His mouth could not. We let it go.
 
 "The pool where I knelt down?" he said./
-."[[place-mallonna|Mallonna]] is the pool. It's thin,/
+."[Mallonna]{.name data-type="place/feature"} is the pool. It's thin,/
 .and Lauva keeps it. Don't go in./
 What's under it has limbs, no head."
 

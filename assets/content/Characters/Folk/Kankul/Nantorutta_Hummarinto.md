@@ -3,7 +3,7 @@ shortcode: nantoruttahmmr
 name: {full: Nantorutta Hummarinto}
 type: being
 subType: npc
-description: "A lord of Lirnasto, raised by every voice for the dry season she walked every path of the old jungle and sang it whole again, who keeps the edge of the conclave's country."
+description: "A lord of Lirnasto, the central Senali conclave of Kì'ìch'chik, raised by every voice for a dry season of singing, who keeps the edge of the conclave's country and is seldom seen."
 tags: []
 data:
   icon: icon-person
@@ -38,11 +38,17 @@ Nantorutta Hummarinto is a woman of 1,090 years who stands 6' 0" tall and is of 
 
 # Dossier {#dossier}
 
-**Age 1,090. Lord of Lirnasto. Wants the edge kept and the Keeper well informed.**
+**Age 1,090. Lord of Lirnasto. Wants the edge kept and the hearths told truly what lies beyond it.**
 
-Nantorutta Hummarinto is a lord of the [[affiliation-nclvlrnst|Enclave of Lirnasto]], raised by every voice of the hearths for one dry season: when the paths of the old jungle began to fail, she walked every one of them and sang each whole again, so that no Senalo of the conclave and no trespasser was lost in them. Her standing is respect and holds no land, hearth or office. Her hearth is Hummarinto, the hearth of the heavy vine.
+Nantorutta Hummarinto is a lord of the [[affiliation-nclvlrnst|Enclave of Lirnasto]]. Her standing is respect and holds no land, hearth or office. Her hearth is Hummarinto, the hearth of the heavy vine. She keeps the edge of the conclave's country, where the old trees begin.
 
-She keeps the edge of the conclave's country. She is the one the Keeper sends to the line where the old trees begin, and she brings back what the line says.
+## Background
+
+Nantorutta was a warden of the paths for most of her life and taught the wardens who walk them now, [[being-kelsipavokssnt|Kelsipavo Kossanto]] among them. The hearths raised her a lord for one dry season: when the paths of the old jungle began to fail, she walked every one of them and sang each whole again, so that no Senalo of the conclave and no trespasser was lost in them.
+
+:::secret {title="The conclave behind the trees"}
+The Keeper, [[being-hellurivotlknt|Hellurivo Tolkunto]], sends Nantorutta to the line where the old trees begin, and she brings back what the line says.
+:::
 
 ## Psyche
 
@@ -52,7 +58,7 @@ Nantorutta is dry, watchful and very still. She speaks seldom and is not often h
 
 ### Motivation
 
-She wants the edge kept and the Keeper told truly what lies beyond it, and she wants the hearths never to have to be told that the line has failed.
+She wants the edge kept and the hearths told truly what lies beyond it, and she wants them never to have to be told that the line has failed.
 
 ### Strengths
 
@@ -66,7 +72,7 @@ She keeps what she knows to herself, and she judges the hearths' temper before s
 
 ### Companions
 
-The Keeper, [[being-hellurivotlknt|Hellurivo Tolkunto]], and the warden [[being-kelsipavokssnt|Kelsipavo Kossanto]], with whom she shares the edge.
+The lord Hellurivo Tolkunto, and the warden Kelsipavo Kossanto, with whom she shares the edge.
 
 ### Patrons
 

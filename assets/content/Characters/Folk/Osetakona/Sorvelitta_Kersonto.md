@@ -1,15 +1,15 @@
 ---
 shortcode: sorvelittakrsn
-name: {full: Sorvelitta Kersonto, en: [The Keeper of the Stillness]}
+name: {full: Sorvelitta Kersonto}
 type: being
 subType: npc
-description: "The Mervunno, Keeper of the Stillness of Hersellonku, who holds the silence in which the hearths speak and says aloud what they conclude."
+description: "A lord of Hersellonku, the northern Senali conclave of Kì'ìch'chik, white-haired, barefoot on the moss and sparing of words."
 tags: []
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, woodsman]
-  occupation: Keeper of the Stillness
+  occupation: Lord of Hersellonku
   lore: []
   culture: senaliclt
   homes: [hersellonku]
@@ -38,11 +38,17 @@ Sorvelitta Kersonto is a woman of 2,050 years who stands 6' 4" tall and is of li
 
 # Dossier {#dossier}
 
-**Age 2,050. The Mervunno, Keeper of the Stillness. Wants every matter the ommenda takes up spoken to its end.**
+**Age 2,050. Lord of Hersellonku. Wants every matter spoken to its end.**
 
-Sorvelitta Kersonto is the **Mervunno** of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]], the Keeper of the Stillness, raised by every voice of the hearths and held for as long as they do not raise another. She sits in the _ommenda_, the council that speaks until it agrees, and keeps the silence in which it speaks. When the hearths have concluded she says aloud what they concluded, in the words they reached and no more. Her own hearth is Kersonto, the hearth of the red pine.
+Sorvelitta Kersonto is a lord of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]], raised by every voice of the hearths, and the eldest of its lords. Her hearth is Kersonto, the hearth of the red pine. Nobody outside the far ridges has spoken with her: the Pine People of the [[place-tsitarargn|Pine Country]] know the far ridges only as the place the tall people hold, and no gift has passed in either direction.
 
-She drives out an outlaw when the ommenda asks it, and she answers for the conclave to the few who ask. Nobody has asked in her lifetime: the Pine People of the [[place-tsitarargn|Pine Country]] know the far ridges only as the place the tall people hold, and no gift has passed in either direction.
+## Background
+
+Sorvelitta was born on the far ridges and has lived nowhere else. She learned the long patience of the hearths before she learned their songs, and in her first thousand years she was the one the hearths sent for when two of them could not agree. They raised her a lord for a lifetime of hard matters settled without a raised voice.
+
+:::secret {title="The ommenda and its Keeper"}
+Sorvelitta is the Mervunno, the Keeper of the Stillness, raised to the office by every voice of the hearths and holding it for as long as they do not raise another. She sits in the _ommenda_, the council that speaks until it agrees, and keeps the silence in which it speaks. When the hearths have concluded she says aloud what they concluded, in the words they reached and no more. She drives out an outlaw when the ommenda asks it and answers for the conclave to the few who ask, and nobody has asked in her lifetime.
+:::
 
 ## Psyche
 
@@ -52,21 +58,21 @@ Sorvelitta is still, unhurried and exact. She leaves a silence after a question 
 
 ### Motivation
 
-She wants every matter the ommenda takes up spoken to its end, and the word it reaches said aloud once, plainly, to whoever is owed it.
+She wants every matter the hearths take up spoken to its end, and the word they reach said aloud once, plainly, to whoever is owed it.
 
 ### Strengths
 
-The hearths trust her to say what was concluded and nothing she would have preferred. Her silence is the one thing in the ommenda that nobody argues against.
+The hearths trust her to say what was concluded and nothing she would have preferred. Her silence is the one thing among them that nobody argues against.
 
 ### Weaknesses
 
-She will not hurry a council for anyone's season or deadline, and a visitor who needs an answer by a date leaves without one.
+She does not hurry a decision for anyone's season or deadline, and a visitor who needs an answer by a date leaves without one.
 
 ## Social
 
 ### Companions
 
-[[being-hapirivovssnt|Hapirivo Vessonto]], the lord whose long speeches she lets run, and the seer [[being-auverilahlkrnt|Auverila Halkorinto]], whom the ommenda asks before it sits on a hard matter.
+[[being-hapirivovssnt|Hapirivo Vessonto]], the lord whose long speeches she lets run, and the seer [[being-auverilahlkrnt|Auverila Halkorinto]], whom the hearths ask before they take up a hard matter.
 
 ### Patrons
 
@@ -78,13 +84,15 @@ None she would name.
 
 ### Affiliations
 
-- **[[affiliation-nclvhrsllnk|Enclave of Hersellonku]]**: Sorvelitta is the Mervunno.
+- **[[affiliation-nclvhrsllnk|Enclave of Hersellonku]]**: Sorvelitta is a Lord.
 
 ## Plot Hooks
 
-1. **A word for the far ridges.** [[being-okwiahasterio|Okwiahasterio]], the speaker of the Pine People, wants the ridges asked whether a winter band of hunters may camp at the foot of them. He has no one to ask. A party able to walk out onto the ridges and come down again on the far side is given the question, and any answer comes as the Mervunno gives it: aloud, once, after a long silence.
+1. **A word for the far ridges.** [[being-okwiahasterio|Okwiahasterio]], the speaker of the Pine People, wants the ridges asked whether a winter band of hunters may camp at the foot of them. He has no one to ask, and a party able to walk out onto the ridges and come down again on the far side is given the question.
 2. **Days late.** Two of a band's hunters come back from the pines nine days late, each swearing he was gone for one, and the third does not come back at all. The band's leader asks a party to find out what became of him and to learn by what right the far ridges keep a man.
 
 :::secret {title="The side the silence takes"}
 Sorvelitta has a view and has never said it aloud. She holds that the ridges are kept by the hearths for the wood and are not owned by them, and she lets the ommenda go on arguing because the day the argument ends, one side of the hearths will leave. She has not told Hapirivo Vessonto that she is on his side of it, and she has not told the lords on the other side that she is not on theirs.
+
+A party that carries Okwiahasterio's question onto the ridges receives its answer as the Mervunno gives it: aloud, once, after a long silence.
 :::
