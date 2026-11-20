@@ -44,7 +44,7 @@ The spoil heaps are being picked. Someone has been carrying silver-bearing rock 
 
 The autumn fair is the time the Cut is spoken of most. The tribes release a small, closely watched quantity of worked silver at the lake on terms they set, and every person at the fair knows where the rest is.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **The Wardens.** They say it once, on the spoil, and they do not say it again.
 - **The adits.** The seals are stone and old, and a stone that has held for centuries does not announce that it is about to move.

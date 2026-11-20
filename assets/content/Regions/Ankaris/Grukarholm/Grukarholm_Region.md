@@ -29,7 +29,7 @@ Grukarholm is an area of prevalence rather than a bounded territory. Its western
 
 The **deep forest belt** covers most of the region—dense mixed and coniferous woodland (spruce, pine, oak, birch) interspersed with clearings and old fields long since reclaimed by trees. The forest is the principal Grukar habitat: the longhouses, the war-camps, the spawn-chambers of the [[being-grkrahk|Grukar-ahk]], and the hunting-grounds all sit within forest cover. Roads through the forest belt are few, narrow, and easily blocked.
 
-The **marshlands** of the central and southern lowlands are the region's most distinctive geographic feature—a vast complex of swamp, peat-bog, slow water, and seasonal flood that covers perhaps a quarter of the total territory. The marshes are passable on foot only in the depths of winter when they freeze, or in a few weeks of dry summer; the rest of the year they are functionally roadless. The Nordmal call them the [Drowned Country]{.name data-type="place/region"} and have learned not to send armies into them. Grukar settlements within the marshlands are reached by canoe, by cause-walks of sunken logs, or by knowledge of paths invisible to outsiders.
+The **marshlands** of the central and southern lowlands are the region's most distinctive geographic feature—a vast complex of swamp, peat-bog, slow water, and seasonal flood that covers perhaps a quarter of the total territory. The marshes are passable on foot only in the depths of winter when they freeze, or in a few weeks of dry summer; the rest of the year they are functionally roadless. The Varokh call them [[place-skathengrund|Skathengrund]], and the Nordmal, who have learned not to send armies into them, call them the Drowned Country. Grukar settlements within the marshlands are reached by canoe, by cause-walks of sunken logs, or by knowledge of paths invisible to outsiders.
 
 The **river systems**—the slow brown rivers that wind across the country toward the open Velanthian grain country—provide what long-distance transport the region has. Grukar war-canoes move warriors and goods along these rivers in summer; in winter the frozen rivers become the highways of overland movement. The rivers also carry raiding parties toward the Velanthian reaches. A landing can be watched or attacked, but it is no meeting place for an agreed exchange.
 
@@ -84,6 +84,10 @@ There is no trade, envoy or ransom with a Grukar nest. An Uk cannot learn a barg
 
 The result is a costly frontier without the returns other frontiers offer. No captive can be sold, no captured neighbor bought home, and no market repays the labor of keeping watch. Along [[place-skathwald|Skathwald]], villages store less and spend more on their walls; a path through the nests has no protected stopping place. The account of caste learning, appetite and the Ahk's inheritance rite belongs to the [[lore-grukarfolk|folk note]].
 
+## Places {#places}
+
+[[place-skathengrund|Skathengrund]], the Drowned Country, is the marsh at the center of the region. [[place-grimhreth|Grimhreth]] is a cause-walk of sunken logs into it from the forest of Skathwald, and [[place-zvekbregad|Zvek Bregad]] is a landing where raiding canoes come ashore on the rivers that leave it toward Velanthia. [[place-grimak|Grimak]] is the blood-field in Skathwald's marsh. The two paid forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]], [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]], stand on the Velanthian side and watch the rivers and the raiding paths.
+
 ## Current Situation {#present}
 
 The nests hold the country and no neighbor contests it with an army. The Skathwald villages spend on their walls. On the Velanthian side the stone forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] watch the raiding paths from the southeast. Their prince, [Krodogor Brevogorich]{.name data-type="being/npc"}, appoints every warden and cannot pay them on time, and the wardens, paid, tired and owed months, sell a night's passage to the fur hunters who work the margins. The hunters come out with what they can carry, and a hunter who goes in past the last fort is on his own: no warden follows him and no nest bargains with him.
@@ -112,6 +116,12 @@ Velanthia lies on the southeastern side of the thickest Grukar country, which ov
 
 [[skill-grukarlng|Grukar Language]]
 : body language and scent, with sounds only for emphasis
+
+[[place-skathengrund|Skathengrund]], [[place-grimhreth|Grimhreth]] and [[place-zvekbregad|Zvek Bregad]]
+: the marsh, a cause-walk and a landing
+
+[[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
+: the paid forts of the Velanthian side
 
 [[place-nrdlndsrgn|Nordlands Region]]
 : Norgaad directly north and Malagna to the northeast; Targud farther northeast, with no border

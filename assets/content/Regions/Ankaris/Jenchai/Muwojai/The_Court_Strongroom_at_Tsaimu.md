@@ -52,3 +52,6 @@ The court spends more than it receives. Each Dauzhwo collects the court's share 
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and its treasury
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

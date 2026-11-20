@@ -54,3 +54,6 @@ Meanwhile the lords of the other houses send buyers, and Tsuijai, which is indep
 
 [[being-embrhnd|Emberhound]]
 : the fire elemental of the forge-yard
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

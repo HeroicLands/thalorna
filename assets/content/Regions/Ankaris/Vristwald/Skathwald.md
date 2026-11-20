@@ -32,6 +32,9 @@ The concentration gives this reach its character, but it grants no common comman
 [[place-grkrhlmrgn|Grukarholm]]
 : the area where Grukar are most prevalent
 
+[[place-skathengrund|Skathengrund]] and [[place-grimhreth|Grimhreth]]
+: the marsh beyond the reach and the cause-walk into it
+
 [[place-thornwald|Thornwald]] and [[place-vandstein|Vandstein]]
 : the neighboring reaches
 

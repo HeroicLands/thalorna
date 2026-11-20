@@ -30,6 +30,14 @@ Tsuiwo's judges, chosen from his retainers, hear the town's cases in the hall.
 
 Buiwu is the seat of a house that has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]], and both blocs bid for it ([[lore-hstryjenchai|The History of Jenchai]]).
 
+## Current Situation {#present}
+
+In 720 AF Buiwu is the seat of Zenjai Tsuiwo, thirty-three years old, whose house belongs to neither bloc. The office of Teng Ja stands vacant. Tsuiwo's 1,520 men tip the balance of the Nine, and both the Strait bloc and the loyalists are bidding for them. Both bids are in rice, and neither bloc has the rice to deliver.
+
+The north came through last winter on half rations. Tsuiwo knows the cost village by village, and his price is grain: he will put 1,500 spears behind whichever bloc feeds his province. He wants the granaries full before the first snow, and the question of who holds the office matters less to him.
+
+The stable-yard still enters the horses from Maidu, and the levy rolls are kept ready. Until grain arrives, neither bloc has Zenjai.
+
 ## See Also {#see-also}
 
 [[affiliation-zenjaidmn|Zenjai Domain]]
@@ -40,3 +48,9 @@ Buiwu is the seat of a house that has belonged to neither bloc since the [[lore-
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[scenario-rcbfrsnw|Rice Before the Snow]]
+: a scenario: the cold north sells its spears for grain before the first snow, and both blocs bid in rice that may not exist
+
+[[scenario-vcntbld|The Vacant Blade]]
+: a campaign frame: the contest for the vacant office of Teng Ja, from the first frost to the Dawn Rite

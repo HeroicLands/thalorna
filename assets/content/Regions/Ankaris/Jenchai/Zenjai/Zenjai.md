@@ -39,3 +39,6 @@ The snow closes the roads of the north over the shoulders of the mountain in win
 
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
+
+[[scenario-rcbfrsnw|Rice Before the Snow]]
+: a scenario: the cold north sells its spears for grain before the first snow, and both blocs bid in rice that may not exist

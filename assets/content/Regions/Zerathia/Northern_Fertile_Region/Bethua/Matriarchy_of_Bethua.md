@@ -63,6 +63,8 @@ data:
         Queen and High Priestess, elected for life by the Sacred College and answerable to the Two Pillars.
       High Priestess: Head of a temple and its rites, and an elector of the Metrissa.
       Matriarch: Head of a clan-house, commanding its property, its ships and its marriages.
+      Hégissa: >-
+        Provincial governess of a canton, a Dómissa appointed by the Metrissa who holds its courts, its levy and its waterworks-quotas in the sovereign's name.
       Speaker of the Council of Houses: Presiding officer of the Houses in session, holding no vote beyond her own.
       Keeper of the Sacred College: Warden of the College's rolls, its instruction and its elections.
       Navarch: Commander of the Bethuan fleet, and by that the realm's principal instrument abroad.
@@ -111,7 +113,7 @@ Bethua keeps a large and highly regarded military. Its army is a professional wa
 
 The realm stands to profit from its patron's misfortune, and the two pillars disagree about whether it should. The Khelathi flood has failed two years running. Bethua's grain comes from its aqueducts, qanats and cisterns and not from the river, so the surplus of the irrigated strips is the only dependable harvest on the northern shore, and the Empire of Au'Khelathu, whose own granaries are thinning, has reason to want it.
 
-The [[affiliation-councilhouses|Council of Houses]] presses the Metrissa to sell the grain to the patron. The sale fills the Houses' Gar-Hálzi accounts while their credit is squeezed by Viléria, and it keeps the patron's favor. The [[affiliation-sacredcollege|Sacred College]] presses her to keep the grain in the cisterns, because a sale that empties them leaves the qanat-fed farms nothing in a dry year, and because a patron that has bought the realm's bread has a say in how it is governed. Neither pillar can carry the decision alone. [Amithena]{.name data-type="being/npc"} has not chosen, and a Metrissa who sides wholly with one council is the half-sovereign the jurists describe. Her standing with both turns on this decision.
+The [[affiliation-councilhouses|Council of Houses]] presses the Metrissa to sell the grain to the patron. The sale fills the Houses' Gar-Hálzi accounts while their credit is squeezed by Viléria, and it keeps the patron's favor. The [[affiliation-sacredcollege|Sacred College]] presses her to keep the grain in the cisterns, because a sale that empties them leaves the qanat-fed farms nothing in a dry year, and because a patron that has bought the realm's bread has a say in how it is governed. Neither pillar can carry the decision alone. [[being-amithenakrvn|Amithena of House Kervanion]] has not chosen, and a Metrissa who sides wholly with one council is the half-sovereign the jurists describe. Her standing with both turns on this decision.
 
 Beyond the canals the tribute of the [[place-sthmrchsrgn|South Marches]] is late. The Hégissa of the southern cantons holds the frontier posts and waits for the stock, and the [[affiliation-spearsisterhood|Spear-Sisterhood]] watches those posts instead of the wells. Bethua cannot press the clans while the grain question is open, and cannot leave the rest of the road to the Jackals while it waits.
 
@@ -143,7 +145,7 @@ Her full ceremonial style is **"the Metrissa, Mother of Bethua, Veiled Daughter 
 
 The regalia of the office is the [[miscgear-veilpurple|Purple Veil]]—a mantle and face-veil dyed in the deep murex purple that has been Bethua's signature export and royal color since colonial antiquity. To "take the Veil" is to be raised to the throne; to "set down the Veil" is to abdicate or die. In common speech the Metrissa is simply **the Veiled Mother**, and her court is the [[affiliation-courtveil|Court of the Veil]].
 
-The reigning sovereign is Metrissa [Amithena]{.name data-type="being/npc"} of [House Kervanion]{.name data-type="affiliation/lineage"}, raised to the Veil some years ago by election of the Sacred College and confirmed by the oracle of [[affiliation-zunelas|Zunelas]]. A consecrated priestess of Lusinia before her elevation, she is reckoned a careful, conservative ruler who keeps the two pillars in balance by giving neither its way entirely—a politician of the long game, more inclined to outlast her rivals than to overrule them.
+The reigning sovereign is Metrissa [[being-amithenakrvn|Amithena]], raised to the Veil some years ago by election of the Sacred College and confirmed by the oracle of [[affiliation-zunelas|Zunelas]]. A consecrated priestess of Lusinia before her elevation, she is reckoned a careful, conservative ruler who keeps the two pillars in balance by giving neither its way entirely—a politician of the long game, more inclined to outlast her rivals than to overrule them.
 
 ## The Sacred Pillar: the Sacred College
 

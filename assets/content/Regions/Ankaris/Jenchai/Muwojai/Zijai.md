@@ -51,3 +51,6 @@ The Emperor's sealed letter to Shuiwojai crosses the ferry at [Zuju]{.name data-
 
 [[place-tsaimustrng|The Court Strongroom at Tsaimu]]
 : the court's treasury in the village below
+
+[[scenario-ltrforhawu|A Letter for Hawu]]
+: a scenario: the Emperor's sealed answer to a petition, crossing Muwojai's ferry on its way to the lord who petitioned
