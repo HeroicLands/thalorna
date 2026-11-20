@@ -25,6 +25,10 @@ Selat-Leteru is the land of [[affiliation-selatseltltr|the Selat of Selat-Leteru
 
 The selat is islands and channels, and the temples own much of the dry ground. The few villages and estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-uznera|Uzn'era]] and its estates anchor the pilgrim trade.
 
+## Current Situation {#present}
+
+The few people of Selat-Leteru live on the shrine-islands and by the pilgrims who visit them. The villages hire out boats and rooms, sell offerings, and work the temple estates that feed the pilgrims. A failing flood sends more pilgrims, since the marsh-temples of Uzn'era promise renewal, and the islands have never been so full. The estate-towns of the selat store the offerings of grain in the temple granaries, and the pilgrims are fed from them, so the villagers eat more than they usually do. The islands are crowded, and the villagers count it a poor trade for their quiet.
+
 ## Settlements {#settlements}
 
 [[place-yathleteru|Yath-Leteru]] (~11,000)

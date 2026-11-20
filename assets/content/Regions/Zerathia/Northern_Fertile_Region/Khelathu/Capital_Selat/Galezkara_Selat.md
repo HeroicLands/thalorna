@@ -37,6 +37,10 @@ The great temple-complexes are economic enterprises in their own right, owning f
 - The great temples—the [[affiliation-uqaa|cult of Uqa'a]] that defines official doctrine chief among them
 - The royal necropolis on the western bank—pyramids and rock-cut tombs of eighteen centuries of dynasties, from the Crossing to the Mound onward
 
+## Current Situation {#present}
+
+The ring of temple-towns and workshop-towns round Galezkara lives on the barges that arrive at the grain quay, and a short flood makes every barge count. The market-villages of the hinterland sell what their dense plots yield, at higher prices, to a city that eats more than the selat grows. Across the river the necropolis-cities of Zu-Gezer and the tomb-workers' settlements behind them are steady trades where others thin, since the temples pay their workers in grain. In [[place-garqethar|Gar-Qethar]], where the low warrens stand over the old famine pits, the dole is queued for earlier each morning.
+
 ## Settlements {#settlements}
 
 The selat's settlement pattern is a single great metropolis ringed by temple-towns, workshop-towns and the necropolis-cities of the western bank.

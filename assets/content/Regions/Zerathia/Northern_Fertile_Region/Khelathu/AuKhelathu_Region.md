@@ -79,6 +79,16 @@ ORDER BY name.full COLLATE NOCASE
 [[place-clublstvlt|The Burial Club's Last Vault]]
 : the rock-cut common tomb in the dry margin west of the river
 
+## Current Situation {#present}
+
+The line where the black soil stops has moved toward the river. Two low floods in a row have left the water short of the canal-heads, so the ditches and qanats that carry the flood out to the valley's edges run dry earlier in the season, and the fields at the desert margin are the first to go back to dust. The dense basins in the middle of the valley hold their crops but draw harder on the granaries, and the delta's marshes shrink around the ports and papyrus beds. The orchard coast along the Vilérian Sea lives on winter rain and is least touched.
+
+Every settled place counts the year by the Measure at [[place-yathtelgu|Yath-Telgu]] and the stores in its own cisterns and granaries. Villages assess what is left, the scribes of each selat remeasure the fields, and the Halzi'a argue that the render should follow the shortfall. Their reckonings reach the capital late and lower than the flood explains, and the suspicion that tribute is being held back is the empire's chief political fact: the selatu speak of it as the river's doing, and Galezkara reads it as something else.
+
+The herding peoples of the western margins graze closer to the water under their arrangements with the Halzi'a, and the dry years push them into the farmers' stubble. The frontier with Bethua, which was never precisely drawn, takes the strain. Along the eastern edge, the garrisons of [[place-khuqetmiglet|Khuqet-Miglet]] are fed from a valley that has less to send.
+
+Behind all of it stands the throne's standing. The [[lore-garauu|Gar-Au]] is 46 and in her twelfth year, the question of the succession is asked at court, and the river's failure falls on the one office that is supposed to answer for it.
+
 ## See Also {#see-also}
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]

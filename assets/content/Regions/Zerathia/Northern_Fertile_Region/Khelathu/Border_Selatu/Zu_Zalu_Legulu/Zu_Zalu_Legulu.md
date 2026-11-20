@@ -35,6 +35,10 @@ The southern trade-road and the garrison drive the selat. The thin valley farmla
 - The fortress-line of [[place-balehen|Balehen]] and the garrison-posts that hold the march
 - The southern trade-road and the toll-and-tribute trade in gold, ivory and ebony
 
+## Current Situation {#present}
+
+The fortress-line villages of Zu-Zalu-Legulu live around their garrisons: the posts, the forts and the frontier settlements along the river and the desert flanks eat what the cataract road and the river bring. A low flood thins both. The villages hold their gates, the gold-and-ivory traffic through Balehen is smaller, and the settlers of half-assimilated southerners who farm the river's edge go hungry first, since the garrison's stores are for soldiers. The seat's toll-house and tribute-store still do business, and their takings are what keeps the line fed.
+
 ## Settlements {#settlements}
 
 Balehen (~24,000)

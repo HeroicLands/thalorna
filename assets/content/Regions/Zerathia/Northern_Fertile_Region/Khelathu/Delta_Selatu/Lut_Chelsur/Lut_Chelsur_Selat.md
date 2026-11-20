@@ -25,6 +25,10 @@ Lut-Chelsur Selat is the land of [[affiliation-selatltchlsr|the Selat of Lut-Che
 
 The selat is marsh, and the hunters are its particular trade. On the firmer ground the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-chelsur|Chelsur]] and its estates hold the marsh's richest ground.
 
+## Current Situation {#present}
+
+The marsh villages of Lut-Chelsur live beside the animals of their god, and a low river drives those animals into the pools where the villages draw water. The hunters of the river-beasts are busy, the children are kept away from the banks, and the villages hold the god's festivals with a harder face. The estate-towns near the seat have the temple's protection and the Halzi'a's court to settle disputes, and the outer villages have neither. The hide trade is down, and the villages that rely on it are in debt.
+
 ## Settlements {#settlements}
 
 [[place-lutchelsur|Lut-Chelsur]] (~38,000)

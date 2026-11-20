@@ -64,6 +64,10 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "Count your water, not your days," a sergeant of a quarry-road escort tells a recruit who has asked how long the stage to the next fort will take. The Halzi'a's first duty is the wells, because the quarry-roads that carry cut stone out of the hills run from one to the next and a gang that misses a well does not reach the following one. He is a garrison commander whose most important stores are water. His seat is [[place-iaqetleqa|Iaqet-Leqa]], where his court sits and the selat's chief temple of [[affiliation-chelsur|Chelsur]] stands.
 
+## Current Situation {#present}
+
+Behind the desert march of Khuqet-Miglet, the garrison of Iaqet-Leqa keeps the wells and the quarry-roads and lives on what the valley sends. The wells do not fail with the flood. The grain does, and the quarry gangs who cut stone for the temples are paid in it. The Halzi'a has cut the gangs' hours to stretch his stores and the crown's share of the stone waits at the quarry heads, entered as awaiting transport. The roads to the valley are open, and the carts that would carry the stone are the ones he needs for grain. Chelsur's temple at the seat offers rites for a river that does not rise, and he attends them as a courtesy.
+
 ## Commerce and Currency {#commerce}
 
 Iaqet-Leqa uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.

@@ -25,6 +25,10 @@ Gar-Zanit Selat is the land of [[affiliation-selatgarzant|the Selat of Gar-Zanit
 
 Away from the flax, the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. What the selat gives the empire beyond grain is cloth: the flax is grown on its fields, spun and woven in its towns, and sold up and down the river and out through the delta ports. The chief temple of [[affiliation-psaqaru|Saq'aru]] and its estates anchor the weaving towns.
 
+## Current Situation {#present}
+
+The linen towns of Gar-Zanit make cloth from flax that has to ret in water, and two low floods leave the retting pits shallow and the fields poor. The looms of the estate-towns stand idle in part, the weavers take the wage they are given and the bolts are shorter. Cloth is also the delta's small coin: a village that has no flax pays its debts in whatever it can weave, and the weavers' guild-stores, which are kept at the temple of Saq'aru, feed the families whose looms are still. The market in Gar-Zanit sells fewer bolts and more rope.
+
 ## Settlements {#settlements}
 
 [[place-garzanit|Gar-Zanit]] (~34,000)

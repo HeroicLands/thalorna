@@ -27,6 +27,10 @@ The selat is flat, bright and salt, a margin where the sea comes in and the pans
 
 The selat's silt-islands are where the sea-raiders landed in 1960 ST (151 BF) ([[lore-searaiders|the Sea-Raiders' Throne]]). The port they burned, [[place-zelamqelu|Zel-Amqelu]], is a reed-grown mound in the flats.
 
+## Current Situation {#present}
+
+The salt-pans and natron flats of Chathu work harder in a dry year: the brine thickens, the villages rake more salt, and the lesser villages' catch is cured in bulk and sent upriver. Carters take the natron to the embalmers of the upper river and bring back grain, so the villages eat better than the fields around them do. Zel-Amqelu's burned quays are a ruin the coast knows well, and the villagers who work the flats say little about floods, since the sea is not short.
+
 ## Settlements {#settlements}
 
 [[place-chathu|Chathu]] (~41,000)

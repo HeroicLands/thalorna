@@ -35,6 +35,10 @@ The selat runs on the flood, the harvest and the render like every [[lore-khelat
 - The chief temple of the Faith of Uqa'a and its estates
 - The planned temple-city, half-abandoned and still inhabited
 
+## Current Situation {#present}
+
+The quarters of Magu-Thelqen are half empty, and the people who live in them are of two kinds: the estate-dwellers whose families have always lived there, and the families from dry villages who have walked in. The Legha'lutu of the estates take the newcomers as bondsmen for their food. The estates' fields are poorer, and the estate-towns' stores are the selat's reserve. The empty temple-city has become a place to shelter, and the people who shelter in it pay with their labor.
+
 ## Settlements {#settlements}
 
 Magu-Thelqen (~22,000)

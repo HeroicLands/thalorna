@@ -292,6 +292,18 @@ Galezkara is laid out along a single ceremonial axis aligned to the solstices, [
 
 Together the four classes hold the empire's nineteen million people. Each class note treats its most important selatu at length and rosters the rest.
 
+## Current Situation {#present}
+
+The flood has come low two years running. The priests of [[affiliation-uqaa|Uqa'a]] read [The Measure]{.name data-type="place/structure"} short at the last Inundation and short again at this one, and both readings were proclaimed to the city and the empire as the custom requires. The levy follows the harvest, so an honest low reading cuts every selat's render. The court's trouble is with what comes in beyond that cut: a Halzi'a reports a smaller crop than the Measure explains, sends the render late, sends coin where grain was due, or lets a barge sit at his own toll. None has refused the throne in words. The Overseers of Scribes at the capital hold the reckonings, and the gap between what the flood should have rendered and what reaches the treasuries is the figure the central bureaus guard most closely. The state granaries are the stores kept for exactly this, and two short years have drawn them down.
+
+The throne takes the blame. The Khelathi hold that the river answers to the Gar-Au, and a Gar-Au who cannot keep it is a poor intermediary. Nobody believes the Gar-Au is a god, everyone knows nobody believes it, and the fiction is kept because the river has kept its side of it. A failing flood strains the fiction's legitimacy, not anyone's belief: the empire's schoolrooms teach [[lore-akhstruckhs|the Struck House]] and [[lore-failfloods|the Failing Floods]] as the last time a throne and a short river met, and the bureaus cite them in arguments about the present.
+
+[[being-garaumeqesxv|Gar-Au Meqes XVI]] is 46 and in her twelfth year, and her nephew [[being-anlaghur|Anlaghur]], an Iru'palu at [[place-anlaghzetun|Anlagh-Zetun]], stands near enough the succession that the court asks the question seriously. Factions of the central bureaus and of the priesthood back different answers, and a failing flood turns a quarrel about the future into a quarrel about whether the present throne can hold. The mediators of the [[affiliation-genzetpalu|Genzet'Palu]] trade in what each faction offers, and their influence grows with every unresolved week.
+
+Beyond Bethua lies [[affiliation-okharis|Okharis]], an independent kingdom that owes the empire nothing and trades with it freely. Its horsemen are what the factions want: riders for a general who needs a force he can trust, escorts for a temple that distrusts the garrison, an ally against a Halzi'a who holds back his render. Embassies and gifts go west from several houses at once, and the offers are better than Okharis's own cities make. The village tribes take what is offered and commit to none of it, and the Okharik King cannot answer for them.
+
+The [[affiliation-mtrrchybth|Matriarchy of Bethua]], the empire's partner on the shore, draws its grain from aqueducts instead of the flood, and its surplus is the only reliable one on the coast. The delta's merchant houses press the Bethuan Trade-Houses to sell it, and what Bethua decides sets the price of bread in the ports.
+
 ## Notable Features
 
 The Great River

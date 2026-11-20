@@ -27,6 +27,10 @@ The marsh gives the selat its two specialties. Flax grows on the wet ground and 
 
 Its patron is [[lore-thubaidty|Thuba'i]], the god of plenty, and a wet, abundant selat suits him.
 
+## Current Situation {#present}
+
+The flood-basin of Gadju-Mulu is marsh in a good year, and this year it is half dry. The villages that cut flax and take waterfowl have lost their wet ground and their reed, and the estate-towns round the seat, where Thuba'i's temple stands, work to reopen drained channels. The people are fed on fowl and fish from the remaining pools. They keep the festivals, since the god's priests teach that gratitude does not wait for plenty, and the festivals have become a way of eating.
+
 ## Settlements {#settlements}
 
 [[place-gadjumulu|Gadju-Mulu]] (~27,000)

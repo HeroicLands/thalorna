@@ -66,6 +66,10 @@ The Selat of Iqeru is one of the upper-river selatu of the [[affiliation-empirea
 
 The seat is Iqeru, where the Halzi'a keeps his court and the chief temple of [[affiliation-uqaa|Uqa'a]] stands. The temples of a solar god own land, and a selat of sun-temples and wheatland is one where the Halzi'a's tax rolls and the temples' estates run side by side. The priesthood of Uqa'a is among the most powerful in the empire, and the high priest of the solar god has deposed or raised more Gar-Auu than any army.
 
+## Current Situation {#present}
+
+Iqeru has sun-temples and wide irrigated wheatland, and the Halzi'a's tax rolls and the temples' estates run side by side. The temples of Uqa'a own much of the wheat, and in a short-flood year the temple granaries are fuller than the Halzi'a's. The priesthood of Uqa'a is among the most powerful in the empire, and its high priest has deposed more Gar-Auu than any army, so what the temples of Iqeru do with their grain is a political choice. The Halzi'a pays the throne from his own rolls and leaves the temple stores alone. He is not strong enough to do otherwise. Both the priests and the court's factions know that the solar priesthood has the grain, and the question of the succession is one the temple of Uqa'a answers with its stores.
+
 ## Commerce and Currency {#commerce}
 
 Iqeru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

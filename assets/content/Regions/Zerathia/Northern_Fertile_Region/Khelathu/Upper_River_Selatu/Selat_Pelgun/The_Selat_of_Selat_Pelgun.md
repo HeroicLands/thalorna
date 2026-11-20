@@ -66,6 +66,10 @@ The Selat of Selat-Pelgun is one of the eighteen provinces of [[affiliation-uppe
 
 The caravans come down from the eastern roads and the harvest comes in from the fields, and the [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] has both to govern. His seat is Iku, where he keeps his court and where the chief temple of Pelgun stands, and the selat's year runs between the arrival of the loads and the festivals that thank the god for the grain.
 
+## Current Situation {#present}
+
+Selat-Pelgun is the caravan-head for the eastern desert roads, and the harvest-festivals of Pelgun are its pride. This year the caravans come down from the east with goods and no grain, and the harvest comes in thin; the festivals at the seat of Iku are shorter and the virility cults' feasts are quieter. The Halzi'a has both the loads and the harvest to govern. He taxes the caravans at the seat and sends the throne its share in coin, and he keeps the grain of the harvest in the temple of Pelgun, where it feeds the festival-goers who still come. The Halzi'a has found that a feast is a political act, and has not canceled one.
+
 ## Commerce and Currency {#commerce}
 
 Selat-Pelgun uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts, so the caravans from the desert roads settle their business in the same weights as the farmers. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

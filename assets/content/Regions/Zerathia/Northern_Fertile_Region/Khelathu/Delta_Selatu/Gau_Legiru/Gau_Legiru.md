@@ -27,6 +27,10 @@ Where [[affiliation-selatgrnlght|the Selat of Gar-Anlaghet]] is all quay and cou
 
 Luxury agriculture is the whole of its economy. The selat grows and processes the empire's wine, olive oil, citrus, figs and dates, high-value crops that travel well and sell dear, especially abroad. The wines of Gau-Legiru and the dates of the eastern plantations are named articles of trade in Midhalión, and the oil presses supply temple and table across the empire. Much of the land is held in large villa-estates run for the market and worked by tenants and seasonal labor, and the selat imports its bread-grain from upriver as readily as the ports do. The birth-shrines and healing-temples of [[lore-uzneradty|Uzn'era]], goddess of the fertile land, stand among the orchards.
 
+## Current Situation {#present}
+
+Gau-Legiru is the only part of the delta where the orchards and presses work as in a good year, since winter rain and sea air feed them and the flood barely does. The villages that tend the groves and vines send oil, wine and fruit to the market towns on time. What they lack is bread-grain, which comes upriver and costs more, so their stores are measured in oil jars, and a household's wealth is counted in what it can trade for wheat. The villas fill with guests from the ports, and the pressmen and coopers have more work than they have hands.
+
 ## Settlements {#settlements}
 
 Gau (~45,000)

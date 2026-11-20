@@ -66,6 +66,14 @@ Gar-Shebazet is the delta selat that makes the empire's paper. Its marshes grow 
 
 The seat is [[place-garshebazet|Gar-Shebazet]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-shebazet|Shebazet]] stands. Shebazet is a local marsh cult with no standing in the Twelve, and yet a civilization that runs on tax rolls, contracts and king-lists writes all of them on reeds her priests bless. The selat's quiet weight in the empire rests on that.
 
+## Current Situation {#present}
+
+Gar-Shebazet makes the empire's paper, and a low flood shrinks the marshes that grow it. The papyrus beds come in thin, the reed-cutters' boats go farther for less, and the fowlers' catch moves with the water. The Halzi'a answers to the throne for the paper, and the bureaus that need it are the bureaus that count the empire's tribute, so a shortage is felt at once in Galezkara. He sends the reed in the quantity the beds allow and holds back the better stock for the temple of Shebazet, whose priests bless the reed and whose estates the Halzi'a favors. The scribes' complaint about the quality of the sheets is the only sign in the capital that the delta is short.
+
+:::secret {title="The reed accounts"}
+The Halzi'a cultivates the complaint, because a complaint about sheets is the only form in which the delta's shortage reaches the capital that he can control.
+:::
+
 ## Commerce and Currency {#commerce}
 
 Gar-Shebazet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so a papyrus-cutter paid for a season's stems is paid in pieces the temple has already vouched for. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

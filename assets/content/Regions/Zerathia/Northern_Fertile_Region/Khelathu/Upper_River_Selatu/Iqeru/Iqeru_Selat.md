@@ -27,6 +27,10 @@ Canals carry the river's water out across the wheat, and the temples of the sola
 
 The wheatland holds a battlefield. In 1531 ST (580 BF) the war between the thrones of [[place-lenennezut|Lenen-Nezut]] and [[place-galezkara|Galezkara]] ended in these fields, and farmers still turn up bronze in them ([[lore-twothrones|the War of the Two Thrones]]).
 
+## Current Situation {#present}
+
+The wheatland of Iqeru is wide and irrigated, and the villages and estate-towns depend on the canals' reach. A low flood shortens the reach, so the farms at the end of the canals go dry first. The temples of Uqa'a hold more of the land than the villages do, and the temple granaries at Iqeru are the reserve the villages turn to. The farmers pay a tithe to the priests of the sun and a render to the Halzi'a, and this year they ask the temple for seed-grain, which the priests give against the next harvest.
+
 ## Settlements {#settlements}
 
 [[place-iqeru|Iqeru]] (~33,000)

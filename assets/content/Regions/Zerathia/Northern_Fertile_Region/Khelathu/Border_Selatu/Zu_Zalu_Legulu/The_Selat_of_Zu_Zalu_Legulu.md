@@ -80,6 +80,14 @@ Gold, ivory, ebony, hides, exotic animals and slaves come up the river from beyo
 - The strong frontier cult of Qeztu, the war-god
 - The mixed Khelathi-and-southern border society of the cataract country
 
+## Current Situation {#present}
+
+The cataract frontier is the warden-Halzi'a's selat, and he runs it as a soldier does: by what he can field. The gold, ivory and ebony road still comes up the river from the deep south, but the tribal embassies that bring tribute are fewer in a dry year, and the cattle-peoples beyond the cataract press harder on the border. The Halzi'a taxes the road, keeps the garrison fed from it and sends the capital the share of the gold that he says a dry year allows. The fortress at the seat, Balehen, is the strongest south of Galezkara, and the court knows exactly what a Halzi'a with a full fortress and a short throne might decide. He decides nothing in writing. He says that the border war that never quite ends is quiet, and the quiet costs more than usual.
+
+:::secret {title="The gold-road tally"}
+The share sent to the capital is smaller than the road carries, and the Halzi'a keeps the remainder in Balehen.
+:::
+
 ## For the Worldbuilder
 
 Zu-Zalu-Legulu is the classic march: the end of the empire, where the writ runs only as far as the next fort, and the country beyond it is a frontier in arms. Run it as a land of garrisons, raids, caravans and embassies.

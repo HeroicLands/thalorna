@@ -35,6 +35,10 @@ The selat feeds its granaries from the flood like the rest of the valley. Its pa
 - The chief temple of the Faith of Saq'aru and its estates
 - The smith-towns and craft-temples, where bronze and gold become the nobility's ceremonial arms
 
+## Current Situation {#present}
+
+The smith-towns of Lut-Getha-Zalu work bronze and gold, and the villages around them supply the charcoal and the reed-fuel. A short flood has raised the price of fuel, and the smiths work the ceremonial arms of the nobility at a slower rate. The estate-towns send their grain to feed the smiths, and the craft-temples keep a ledger of every order. The villages are poorer, but the smith-towns' trade is the best in the upper river.
+
 ## Settlements {#settlements}
 
 Lut-Getha (~36,000)

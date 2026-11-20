@@ -23,6 +23,10 @@ data:
 
 West of the last canal the farmland gives way to dry pasture, and Zu-Qeztu is the selat that lives on that line. The country is chaparral and grass, where horses, cattle and sheep graze the margin; the villages, estates and temple lands sit where the water reaches, and their farmers owe a share of the harvest and labor on the canals. Past the pastures live the herding clans, who come to trade and sometimes to raid, and the patrols ride the line between the two. The Halzi'a house is [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the kin of the hill-nomad conquerors, settled on these pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), and the grass holds their first graves ([[place-horsebarrows|the Horse Barrows]]).
 
+## Current Situation {#present}
+
+The grazing margin of Zu-Qeztu is where the irrigated fields give out, and a low river moves that line toward the water. The herders around Zileti drive their flocks onto the edge of the farmed ground, the farmers there meet them with sticks, and the horse-pastures that supply the chariot corps run short. Foals are fewer, and the herd-owners ask more for them. Strangers from the far west come to the wells with good horses and silver, and the herders trade with them, since the Halzi'a's render of remounts is late and they cannot be asked for more than they have.
+
 ## Settlements {#settlements}
 
 [[place-zileti|Zileti]] (~12,000)

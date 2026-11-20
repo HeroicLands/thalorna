@@ -64,6 +64,14 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "You are all one thing at the second cataract: somebody going through," a toll-clerk tells a boatman new to the crossing. The fortress on its island commands the passage, and the toll is collected under its walls. Weth'ur, held to keep the passage from life to death orderly, is an apt patron for a selat whose whole business is who may pass. The Halzi'a's seat is [[place-linmut|Linmut]], where his court sits and the selat's chief temple of [[affiliation-wethur|Weth'ur]] stands.
 
+## Current Situation {#present}
+
+Linmut sits on a river-island at the second cataract and counts the river's traffic before the capital does: the boatmen who shoot the rapids report the stage to the toll-house before any priest reads the Measure. The Halzi'a has known for two years that the river was short, and the toll he collects on the southern traffic is the revenue he can keep or send. He enters a part of it against the fortress's upkeep. The boats below the cataract carry less silt, the boats above it carry less ivory and gold because the southern road is thin, and the Halzi'a, as the gateway and toll-gate of the south, is the first governor who can say what the whole river's traffic is doing. The capital asks him to say it in writing. He sends the stage and leaves out the sum.
+
+:::secret {title="The toll-house books"}
+The part entered against the fortress's upkeep is larger than the upkeep costs. The Halzi'a keeps the difference, and leaves out the sum because the sum would show it.
+:::
+
 ## Commerce and Currency {#commerce}
 
 Linmut uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. Tolls on the frontier run on weighed silver and gold, and the [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.

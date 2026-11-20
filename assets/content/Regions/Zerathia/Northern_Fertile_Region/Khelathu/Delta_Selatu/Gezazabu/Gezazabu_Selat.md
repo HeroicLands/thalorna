@@ -25,6 +25,10 @@ Gezazabu Selat is the land of [[affiliation-selatgezazab|the Selat of Gezazabu]]
 
 Inland of the port the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-thubai|Thuba'i]] and its estates hold land beside the curing-houses.
 
+## Current Situation {#present}
+
+Gezazabu is a port of curing-houses and salt-fish, and its trade road to Bethua is the selat's second livelihood. The few wagons of Bethuan grain that come east along that road in the ordinary way of trade are met at the seat, taxed and passed on to the delta's markets, and the villages around Gezazabu sell the carters fish and lodging while they wait to see whether Bethua will sell in quantity. The fishing is good enough to keep the coast fed. The estate-towns inland are poorer, since the fields behind them draw on the river's tail, and farmers come to the seat in the evenings to ask what the road is carrying.
+
 ## Settlements {#settlements}
 
 [[place-gezazabu|Gezazabu]] (~56,000)

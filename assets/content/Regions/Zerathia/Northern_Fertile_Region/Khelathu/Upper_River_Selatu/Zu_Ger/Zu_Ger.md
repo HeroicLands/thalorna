@@ -35,6 +35,10 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 - The chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates
 - The old burial-ground of the first dynasties, [[place-firsttablets|the Ground of the First Tablets]]
 
+## Current Situation {#present}
+
+The villages of Zu-Ger lie round the oldest burial-ground of the empire, and they keep the tombs. The throne's offerings to the first kings are paid in grain and oil, and the villages that carry them to the tombs report that the loads are smaller. The temple of Hezmu'iri at Chegu holds the rest. The estate-towns farm what the flood leaves.
+
 ## Settlements {#settlements}
 
 Chegu (~39,000)

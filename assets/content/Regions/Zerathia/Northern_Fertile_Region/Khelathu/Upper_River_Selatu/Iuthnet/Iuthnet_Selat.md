@@ -25,6 +25,10 @@ Iuthnet Selat is the land of [[affiliation-selatiuthnet|the Selat of Iuthnet]], 
 
 The goddess is [[lore-uzneradty|Uzn'era]], held to be the principle that sustains all life: the river that floods each year, the womb from which creation springs, and the healer who mends what is broken. Her temples are places where the sick are treated and where children are born, and her lotus and her serpent, renewal and the shedding of old forms, are her symbols. The rest of the selat is ordinary [[lore-khelathiclt|Khelathi]] country: villages and estate-towns of a few hundred to a few thousand people on the cultivable ground and the temple estates. The farmers owe a share of the harvest and labor on the canals, and the scribes among them are the one reliable ladder out of the fields. Past the water lies high desert and chaparral.
 
+## Current Situation {#present}
+
+The villages of Iuthnet gather around the healing-temples and birth-shrines of Uzn'era, and the estate-towns are held by the masters and mistresses of manors. In a hungry year the births continue, and the shrines are full. The villages bring their pregnant women to the temple for the grain the shrines give, and the estate-mistresses distribute it. The fields are poorer, but the people near the temple are fed, and the people far from it are not. The road to Iuthnet is crowded with the families who have walked there.
+
 ## Settlements {#settlements}
 
 [[place-iuthnet|Iuthnet]] (~42,000)

@@ -25,6 +25,10 @@ The selat is papyrus marsh. Its people fowl the open water, build reed boats and
 
 The chief temple of [[affiliation-shebazet|Shebazet]] and its estates hold much of the marsh. No priest has put the bond between the goddess and the reed-beds into words for an outsider; the delta treats it as too obvious to explain.
 
+## Current Situation {#present}
+
+The reed-cutters of Gar-Shebazet pole farther into the marshes for each bundle, since the papyrus beds stand in shallow water and the channels between them have silted. The fowlers' catch is up, because the birds crowd into the pools that remain. The estate-towns round the seat cut and press the sheets that the bureaus buy, and the scribes who buy them ask for the thick, whole reeds the marsh no longer grows. The villages eat fowl and fish and go short of bread.
+
 ## Settlements {#settlements}
 
 [[place-garshebazet|Gar-Shebazet]] (~49,000)

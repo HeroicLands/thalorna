@@ -108,6 +108,14 @@ Ten selatu make up the border class, each under its hereditary [[affiliation-emp
 
 Border total: about 2,500,000.
 
+## Current Situation {#present}
+
+The ten marches eat what the valley sends, so a low flood reaches the frontier as short rations before it reaches it as drought. Every fort's stores are drawn down, and each Halzi'a counts how many seasons his garrison can hold. The Commander of the Marches, who keeps court at [[place-balqu|Balku]] and answers to the throne for the frontier, is asked by the capital for levies and tribute in the same letter; the marches answer that the levies are needed where they stand. A military governor who keeps the crown's share of the mine-metal and the render at home is not in revolt, and he is also not paying: he is a soldier with a short granary.
+
+The marches hold the armies, and that is why they matter in the succession quarrel. Each Halzi'a is sounded by the court's factions, in more or less delicate terms, about whom he would march for if the throne were disputed, and none answers. The western marches face the tracks along which Okharik riders and envoys come. The officers trained at Gar-Qeztu see those riders as the force the chariot corps cannot raise from its own pastures, and they say so to whichever faction pays for their promotion.
+
+The Fort-Commanders keep the wells, the Caravan-Wardens the tolls, and the Overseers of the Mines the weighing of gold, copper and turquoise. A fort's tolls and a mine's crown share are the two sums the capital counts on and cannot check from the capital.
+
 ## For the Worldbuilder
 
 Run the border selatu as marches, with all that implies: garrisons, raids, caravans, mines, and a constant low war that never quite becomes a campaign. A frontier Halzi'a is a military governor with troops at his back and the capital far away. A strong one is the empire's shield; a weak or ambitious one is a warlord in waiting.

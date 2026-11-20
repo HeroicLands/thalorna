@@ -64,6 +64,14 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 A caravan-master puts the Halzi'a's work to a driver on his first run north. "On the gold-road three things happen to your load in [[place-wagaru|Wagaru]]: it is counted, it is taxed, and it is escorted. Do not argue with the first, do not hide anything from the second, and be glad of the third." The garrison is both the collector and the guard, and the stations along the road are the places where each takes place. The Halzi'a's seat is Wagaru, where his court sits and the selat's chief temple of [[affiliation-psaqaru|Saq'aru]] stands.
 
+## Current Situation {#present}
+
+The gold-road through Wagaru is counted, taxed and escorted, and in a short-flood year the counting is where the selat's quiet resistance lives. The garrison weighs every load that passes the seat; the Halzi'a's share of the gold and the crown's share are weighed in the same house, and the capital's clerks remark that the figure sent to them is low for the road's traffic, and the Halzi'a answers with the garrison's weights. The temple of Saq'aru keeps the assayers' ledger. The caravans still arrive, escorted, because gold is what the factions at court want most. The Halzi'a keeps the road safe for everyone.
+
+:::secret {title="The assayers' ledger"}
+The ledger records the true weights, and the gap between the figure sent to the capital and the metal that remains in Wagaru's strong-room is wider than the road's traffic explains. The Halzi'a keeps the best of the road's cargo for himself until the throne decides who it is, and the priests of Saq'aru know the true figures.
+:::
+
 ## Commerce and Currency {#commerce}
 
 Wagaru uses the [[lore-aukhlthcrncy|Au'Khelathu currency]], and the gold-road is where the empire's weighed metal moves most. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts; its agents follow the garrisons and the caravans. See the currency note for the full system.

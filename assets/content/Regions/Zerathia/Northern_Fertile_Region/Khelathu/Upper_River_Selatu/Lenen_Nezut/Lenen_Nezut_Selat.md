@@ -36,6 +36,10 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 - The chief temple of the Faith of Uqa'a and its estates
 - The ram-cult of Uqa'a and the horse-pastures of the margins
 
+## Current Situation {#present}
+
+The villages of Lenen-Nezut live round a town that once held a throne, and they keep its pride. The ram-cult's feasts and the horse-pastures keep the people fed, and the estate-towns hold their harvests close. The pasture-land that feeds the horses of the selat is dry earlier, and the herders ask the Halzi'a for water-rights. Their remounts are sold to the buyers who come.
+
 ## Settlements {#settlements}
 
 Lenen-Nezut (~26,000)

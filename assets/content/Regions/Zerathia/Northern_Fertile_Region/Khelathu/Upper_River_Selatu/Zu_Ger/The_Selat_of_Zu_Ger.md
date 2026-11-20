@@ -66,6 +66,10 @@ The Selat of Zu-Ger is one of the eighteen provinces of [[affiliation-upperrivrs
 
 The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Zu-Ger governs an ancient royal selat that holds the oldest dead of the empire in its ground. His seat is Chegu, where he keeps his court and the chief temple of Hezmu'iri stands.
 
+## Current Situation {#present}
+
+Zu-Ger is the Great Land, the ancient royal selat whose ground holds the oldest dead of the empire, and the offerings the throne sends to its tombs are part of the Gar-Au's duty to the first dynasties. This year the offerings are late. The temple of Hezmu'iri at Chegu keeps the tombs and reckons each omission; the Halzi'a, who governs the living around the dead, sends to the capital a respectful note about the unfinished rites. The throne's inability to feed the first kings is not a political matter that anyone can raise, and it is the clearest sign of a fiction in trouble. He sends the tribute the selat owes and holds back nothing. The dead of Zu-Ger do not ask.
+
 ## Commerce and Currency {#commerce}
 
 Zu-Ger uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliation-garhalzi|Gar-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

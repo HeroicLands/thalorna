@@ -66,6 +66,10 @@ The Selat of Lut-Getha-Zalu is one of the eighteen provinces of [[affiliation-up
 
 A [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] appears at court with a ceremonial khopesh of bronze and gold, a gold-headed mace of command and a gold pectoral collar of rank, and the smith-towns of Lut-Getha-Zalu are where that kind of gear is made. The Halzi'a of the selat governs the people who forge the regalia of his peers, and the quality of the work is a matter of local pride. The seat is [[place-lutgetha|Lut-Getha]], where the Halzi'a keeps his court and the chief temple of Saq'aru stands.
 
+## Current Situation {#present}
+
+Lut-Getha-Zalu forges the bronze and gold of the nobility's ceremonial arms, and in a quarrel over the throne the Halzi'a's workshops are in demand. The khopesh, the mace of command and the gold collar of rank are the gear a Halzi'a wears at court, and the great houses are ordering them early. The smith-towns' furnaces burn charcoal and dried reeds, and in a short-flood year both are dear. The Halzi'a sells to every house and records each order in the temple of the craft; he sends the throne a tribute in bronze and gold, and his clerks keep the ledger of who bought what. The ledger is a thing the factions would pay for, and he does not sell it.
+
 ## Commerce and Currency {#commerce}
 
 Lut-Getha-Zalu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The chapter of Gar-Hálzi at the chief temple attests the weight-pieces and holds the granary accounts, and the selat's gold and bronze pass through its pans. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

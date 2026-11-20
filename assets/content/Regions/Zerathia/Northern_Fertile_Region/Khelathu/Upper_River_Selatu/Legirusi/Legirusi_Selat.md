@@ -37,6 +37,10 @@ Legirusi grows grain for its granaries and owes labor to the canals and a share 
 - The chief temple of the [[affiliation-psaqaru|Faith of Saq'aru]] and its estates
 - The quarry cliffs and the temple-workshops that finish what they yield
 
+## Current Situation {#present}
+
+The villages of Legirusi are stone country: the quarries, the master masons and the temple-workshops fill the selat's calendar. The flood-season gangs that cut and haul stone are larger this year, because the villages' own fields are dry and the men have nothing else to do. The estate-towns send their sons to the quarries for the ration, and the stone-barges that go downriver ride lower than usual on the shallow river. The pay is food, and food is what the villages need.
+
 ## Settlements {#settlements}
 
 Legirusi (~38,000)

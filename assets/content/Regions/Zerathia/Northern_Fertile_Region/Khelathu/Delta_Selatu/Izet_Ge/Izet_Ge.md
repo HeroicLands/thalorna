@@ -25,6 +25,10 @@ Izet-Ge is the land of [[affiliation-selatizetge|the Selat of Izet-Ge]], one of 
 
 Away from the palms, the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-thubai|Thuba'i]] and its estates hold much of the palm country.
 
+## Current Situation {#present}
+
+The date-palm plantations of Izet-Ge are the delta's most dependable crop in a dry year, since the palms root deep and fruit well. The villages of the estate-towns dry and press the dates, the vintners make the sweet wines, and a family with a palm-grove has food while a family with a wheat plot does not. The temple vaults of Thuba'i hold the wine and the grain together, and the villages near the seat know the vaults are full. The farmers who grow barley between the groves have less to sell.
+
 ## Settlements {#settlements}
 
 [[place-izet|Izet]] (~45,000)

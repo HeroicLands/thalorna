@@ -66,6 +66,10 @@ The Selat of Anzet-Qelt is one of the upper-river selatu of the [[affiliation-em
 
 The seat is [[place-anzet|Anzet]], where the Halzi'a keeps his court and the chief temple of [[affiliation-hezmuiri|Hezmu'iri]] stands. In a selat of embalmers and tomb-guards the two authorities sit close together: the Halzi'a holds the levies, the taxes and the courts, and the temple holds the dead. The priesthood of Hezmu'iri is among the largest and most powerful in the empire, and every household in the selat will need its services in the end.
 
+## Current Situation {#present}
+
+Anzet-Qelt has embalmers and tomb-guards, and a hungry year is a lean one for the offerings. The temple of Hezmu'iri at the seat feeds its embalmers from its own stores, and the priesthood, which holds the dead, is steadier than the Halzi'a's offices. The Halzi'a holds the levies, taxes and courts, and the temple holds what the poor can no longer pay in grain for the rites. He pays his tribute in the produce of the desert-edge tombs, which is a thin tribute, and he enters the grain shortfall as the river's doing. The jackal-cult's guards keep the tombs against the hungry, and the Halzi'a lets them take extra men from the levy. The two powers of the selat have rarely been so close in interest.
+
 ## Commerce and Currency {#commerce}
 
 Anzet-Qelt uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The Gar-Hálzi chapter attached to the chief temple attests the weight-pieces and holds the granary accounts, so a payment at Anzet is weighed by the same house that keeps the selat's grain in ledger. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.

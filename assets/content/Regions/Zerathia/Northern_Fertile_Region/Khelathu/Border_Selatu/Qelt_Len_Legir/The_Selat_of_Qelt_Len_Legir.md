@@ -64,6 +64,10 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "We say the god is stronger out here because the forts need him to be," a priest of the frontier garrisons tells a conscript who has just come up from the valley. The [[affiliation-qeztu|cult of Qeztu]] is stronger on this frontier than anywhere else in the realm, and the Halzi'a is its first soldier. His seat is [[place-qeltlen|Qelt-Len]], where his court sits and the selat's chief temple of Qeztu stands.
 
+## Current Situation {#present}
+
+The forward forts beyond the first cataract stand upriver of everything, so the garrisons see each flood begin before the empire does. Two short rises have not been a surprise there. The Halzi'a's granary accounts show the forts holding on supplies that come up from the valley in smaller convoys each season, and the hardest postings in the empire are harder. He sends a short render a season late, since little in the selat can be spared for it, and enters the difference as the forts' stores. His officers hold that a throne which cannot keep the river should keep the garrisons at the cataract fed, and the Halzi'a sends that sentence north only in a form the capital's clerks can read as a request.
+
 ## Commerce and Currency {#commerce}
 
 Qelt-Len-Legir uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
