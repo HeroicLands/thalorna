@@ -9,15 +9,16 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [cntrlrnfrsts]
-  population: null
+  population: 400
+  government: kpalulatribe
   packFolder: centralrainforests
 ---
 
-Deep in the [[place-cntrlrnfrsts|Central Rainforests]], in a valley that the canopy closes over completely, there is a seat that appears on no map. Its people call their leader the [Leopard King]{.name data-type="being/npc"}, and the tribes around them call the seat **the Leopard King's Court**. It is a town of earth terraces and raised timber halls strung between giant trees, home to some four hundred people. That is a large tribe by the forest's measure.
+Deep in the [[place-cntrlrnfrsts|Central Rainforests]], in a valley that the canopy closes over completely, there is a seat that appears on no map. Its people call their leader [[being-lpdkngldr|the Leopard King]], and the tribes around them call the seat **the Leopard King's Court**. It is a town of earth terraces and raised timber halls strung between giant trees, home to some four hundred people. That is a large tribe by the forest's measure.
 
 ## What It Is
 
-The Court is one tribe, as every tribe in the forest is: a few bands that follow one leader. Nothing is above it and it rules nothing. Its leader is a sorcerer, and what sets the tribe apart is that its neighbors are afraid of him.
+The Court is one tribe, the [[affiliation-kpalulatribe|Kpalula]], as every tribe in the forest is: a few bands that follow one leader. Nothing is above it and it rules nothing. Its leader is a sorcerer, and what sets the tribe apart is that its neighbors are afraid of him.
 
 The Leopard King is said to take the leopard's shape. The Court's hunters say he walks the forest by night as a great spotted cat and returns at dawn as a man. The neighboring tribes say that no one has seen the King and the leopard in the same place. Nothing in the surviving accounts shows the claim to be false, and the King does nothing to discourage it. The title is his own: every other tribe in the forest has a leader, and none has a king.
 
@@ -58,6 +59,18 @@ The Court is one tribe whose leader is recognized by fear for as long as the nei
 
 [[lore-bikoclt|Biko]]
 : the forest peoples
+
+[[affiliation-kpalulatribe|Kpalula Tribe]]
+: the tribe whose seat it is
+
+[[being-lpdkngldr|The Leopard King]]
+: the tribe's leader
+
+[[being-dagbekpalula|Dagbe Kpalula]]
+: the Speaker
+
+[[being-ndokokpalula|Ndoko Kpalula]]
+: the leader of the Spotted Guard
 
 [[affiliation-nyalbleop|Leopard Totem]]
 : the guide of the Sengala

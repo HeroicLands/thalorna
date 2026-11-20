@@ -51,6 +51,19 @@ The forest peoples, the [[lore-bikoclt|Biko]], share one small common tongue, [[
 
 A small number of [[lore-flksenali|Senali]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
 
+## The Rivers and the Tribes {#places}
+
+Two rivers carry most of what is known of the forest. The [[place-luwabolu|Luwa Bolu]], the Old River, rises beside [[place-lpdkngcrt|the Leopard King's Court]] and runs north through the gorge to the sea, and the [[place-luwagbasa|Luwa Gbasa]], the Dark River, runs south through the black water of the drowned plain to the flooded forest and the savannah's edge.
+
+Ten tribes of a few hundred people each are named, each a polity of one leader with four standings and nothing above it:
+
+- **River-keepers:** the [[affiliation-liholatribe|Lihola]] of the Old River, at [[place-liholacamp|Lihola Camp]], and the [[affiliation-luwalatribe|Luwala]] of the Dark River, at [[place-luwalacamp|Luwala Camp]].
+- **Canopy foragers:** the [[affiliation-ngotolatribe|Ngotola]] at [[place-ngotolacamp|Ngotola Camp]], and the [[affiliation-wenelatribe|Wenela]] at [[place-wenelacamp|Wenela Camp]].
+- **Court-keepers:** the [[affiliation-sewilatribe|Sewila]] at [[place-kubisewi|Kubi Sewi]], and the [[affiliation-gbelelatribe|Gbelela]] at [[place-kubigbele|Kubi Gbele]].
+- **Edge-people:** the [[affiliation-kirolatribe|Kirola]] on the northern edge at [[place-kirolacamp|Kirola Camp]], and the [[affiliation-balolatribe|Balola]] on the southern edge at [[place-balolacamp|Balola Camp]].
+- **Gorge-folk:** the [[affiliation-morolatribe|Morola]] of the portage, at [[place-morolalanding|Morola Landing]], in the gorge where the [[lore-gorgfolkclt|Gorge-folk]] hold the landings.
+- **The Court:** the [[affiliation-kpalulatribe|Kpalula]], whose leader is [[being-lpdkngldr|the Leopard King]].
+
 ## Religion
 
 There is no pantheon of the Central Rainforests. There are thousands of spirits, hundreds of local spirit-places, dozens of lineage traditions, and a small number of wider mythological cycles that recur across linguistically unrelated peoples. Northern scholars who have tried to impose the pantheon framework—notably the Khelathi temple-schools of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and, more recently, the Aureldian missionary academies—have produced taxonomies of such baroque uselessness that the attempt has been quietly abandoned more than once.
@@ -94,6 +107,12 @@ To the **east and west** the forests fade gradually into coastal terrain that ha
 
 [[lore-bikoclt|Biko]]
 : the forest peoples and their four traditions
+
+[[place-luwabolu|Luwa Bolu]] · [[place-luwagbasa|Luwa Gbasa]]
+: the two named rivers
+
+[[lore-gorgfolkclt|Gorge-folk]]
+: the portage tribes of the gorge
 
 [[lore-flksenali|Senali]]
 : rumored deep-forest enclaves

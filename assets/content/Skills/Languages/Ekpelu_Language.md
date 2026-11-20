@@ -5684,21 +5684,130 @@ data:
       - lore-yesomaclt
       - lore-kubindoclt
       - lore-pewayeclt
+      - affiliation-liholatribe
+      - affiliation-luwalatribe
+      - affiliation-ngotolatribe
+      - affiliation-wenelatribe
+      - affiliation-kpalulatribe
+      - affiliation-sewilatribe
+      - affiliation-gbelelatribe
+      - affiliation-kirolatribe
+      - affiliation-balolatribe
+      - affiliation-morolatribe
+      - place-liholacamp
+      - place-luwalacamp
+      - place-ngotolacamp
+      - place-wenelacamp
+      - place-kubisewi
+      - place-kubigbele
+      - place-kirolacamp
+      - place-balolacamp
+      - place-morolalanding
+      - place-luwabolu
+      - place-luwagbasa
+      - being-sogolihola
+      - being-kobololihola
+      - being-moroluwala
+      - being-ranongotola
+      - being-hirawenela
+      - being-lpdkngldr
+      - being-dagbekpalula
+      - being-ndokokpalula
+      - being-dibosewila
+      - being-mbekosewila
+      - being-wenegbelela
+      - being-danokirola
+      - being-lihobalola
+      - being-kelemorola
   tongues:
     - {tag: ekpelu, meaning: an Ekpelu name, language: skill-ekpelulng}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
+    - {name: The Balola, tongue: translation}
+    - {name: Balola Camp, tongue: translation}
+    - {name: Balola Tribe, tongue: translation}
     - {name: Biko, tongue: ekpelu, built: [biko]}
+    - {name: Caller of the New Moon, tongue: translation}
+    - {name: Caller of the Sogola, tongue: translation}
     - {name: Canopy Foragers, tongue: translation}
     - {name: Court-keepers, tongue: translation}
+    - {name: Dagbe Kpalula, tongue: ekpelu}
+    - {name: Dano Kirola, tongue: ekpelu}
+    - {name: The Dark River, tongue: translation}
+    - {name: Dibo Sewila, tongue: ekpelu}
     - {name: Edge-people, tongue: translation}
     - {name: Ekpelu Language, tongue: translation}
     - {name: Ekpelu Lexicon, tongue: translation}
     - {name: The Forest Peoples, tongue: translation}
+    - {name: The Gbelela, tongue: translation}
+    - {name: Gbelela Tribe, tongue: translation}
+    - {name: Gbenindo, tongue: ekpelu, built: [gbenindo]}
+    - {name: Hanger of Offerings, tongue: translation}
+    - {name: Hira Wenela, tongue: ekpelu}
+    - {name: Keeper of the Hokpe, tongue: translation}
+    - {name: Keeper of the Honey Trees, tongue: translation}
+    - {name: Keeper of the Iron, tongue: translation}
+    - {name: Keeper of the Landing, tongue: translation}
+    - {name: Keeper of the Lower Landing, tongue: translation}
+    - {name: Keeper of the Trails, tongue: translation}
+    - {name: Keeper of the Upper Landing, tongue: translation}
+    - {name: Kele Morola, tongue: ekpelu}
+    - {name: Kelendo, tongue: ekpelu, built: [kelendo]}
+    - {name: The Kirola, tongue: translation}
+    - {name: Kirola Camp, tongue: translation}
+    - {name: Kirola Tribe, tongue: translation}
+    - {name: Kobolu Lihola, tongue: ekpelu}
+    - {name: The Kpalula, tongue: translation}
+    - {name: Kpalula Tribe, tongue: translation}
+    - {name: Kpaso, tongue: ekpelu, built: [kpaso]}
+    - {name: Kubi Gbele, tongue: ekpelu, built: [kubi, gbele]}
+    - {name: Kubi Sewi, tongue: ekpelu, built: [kubi, sewi]}
     - {name: Kubindo, tongue: ekpelu, built: [kubi, -ndo]}
+    - {name: Leader of the Spotted Guard, tongue: translation}
+    - {name: The Leopard King, tongue: translation}
+    - {name: Leopard King, tongue: translation}
+    - {name: Liho Balola, tongue: ekpelu}
+    - {name: The Lihola, tongue: translation}
+    - {name: Lihola Camp, tongue: translation}
+    - {name: Lihola Tribe, tongue: translation}
+    - {name: Luwa Bolu, tongue: ekpelu, built: [luwa, bolu]}
+    - {name: Luwa Gbasa, tongue: ekpelu, built: [luwa, gbasa]}
+    - {name: The Luwala, tongue: translation}
+    - {name: Luwala Camp, tongue: translation}
+    - {name: Luwala Tribe, tongue: translation}
     - {name: Luwando, tongue: ekpelu, built: [luwa, -ndo]}
+    - {name: Maker of the Ewudi, tongue: translation}
+    - {name: Mbeko Sewila, tongue: ekpelu}
+    - {name: Mbeli, tongue: ekpelu, built: [mbeli]}
+    - {name: Moro Luwala, tongue: ekpelu}
+    - {name: The Morola, tongue: translation}
+    - {name: Morola Landing, tongue: translation}
+    - {name: Morola Tribe, tongue: translation}
+    - {name: Ndoko Kpalula, tongue: ekpelu}
+    - {name: The Ngotola, tongue: translation}
+    - {name: Ngotola Camp, tongue: translation}
+    - {name: Ngotola Tribe, tongue: translation}
+    - {name: The Old River, tongue: translation}
     - {name: Pewaye, tongue: ekpelu, built: [pewa, -ye]}
+    - {name: Rano Ngotola, tongue: ekpelu}
+    - {name: Receiver of Gifts, tongue: translation}
+    - {name: Red-Spear, tongue: translation}
     - {name: River-keepers, tongue: translation}
+    - {name: The Serpent Court, tongue: translation}
+    - {name: The Sewila, tongue: translation}
+    - {name: Sewila Tribe, tongue: translation}
+    - {name: Sogo Lihola, tongue: ekpelu}
+    - {name: The Speaker, tongue: translation}
+    - {name: Speaker, tongue: translation}
+    - {name: Tolu, tongue: ekpelu, built: [tolu]}
+    - {name: The Tree Court, tongue: translation}
+    - {name: Warden of the Forbidden Reach, tongue: translation}
+    - {name: Weir-Master, tongue: translation}
+    - {name: Wene Gbelela, tongue: ekpelu}
+    - {name: The Wenela, tongue: translation}
+    - {name: Wenela Camp, tongue: translation}
+    - {name: Wenela Tribe, tongue: translation}
+    - {name: Wibo, tongue: ekpelu, built: [wibo]}
     - {name: Yesoma, tongue: ekpelu, built: [yeso, -ma]}
 sohl:
   system:
