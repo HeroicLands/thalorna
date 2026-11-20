@@ -6,6 +6,7 @@ subType: settlement
 description: "A liminal and faintly shunned quarter of Galezkara by the necropolis-ferry, where the trades that handle the dead keep their houses"
 tags: [generated]
 data:
+  parents: [galezkara]
   packFolder: regkhsett
   culture: khelathiclt
   notes: "A liminal and faintly shunned quarter of Galezkara by the necropolis-ferry, where the trades that handle the dead keep their houses"

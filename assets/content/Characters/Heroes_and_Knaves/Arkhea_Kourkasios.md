@@ -470,7 +470,7 @@ The decades that followed were a gradual erosion of circumstance and dignity. Fi
 
 ### Present Circumstances
 
-Now in her seventh decade, Arkhea has achieved an almost monastic acceptance of her condition. She no longer rails against fate or harbors dreams of restoration. Instead, she has become something unexpected: a keeper of stories, a listening ear, a node in the network of the invisible poor. She knows secrets about the city that would shock the noble houses—things she has overheard while sitting unnoticed in doorways, things confessed to her by others living in the margins. This knowledge, though she would never weaponize it, grants her a peculiar form of power and protection.
+Now in her seventh decade, Arkhea has achieved an almost monastic acceptance of her condition. She no longer rails against fate or harbors dreams of restoration. Instead, she has become something unexpected: a keeper of stories, a listening ear, a node in the network of the invisible poor. She knows secrets about the town that would shock the noble houses—things she has overheard while sitting unnoticed in doorways, things confessed to her by others living in the margins. This knowledge, though she would never weaponize it, grants her a peculiar form of power and protection.
 
 ## Psyche
 
@@ -499,7 +499,7 @@ Brewing and Culinary Expertise
 : From necessity and instinct, she has become skilled at creating remedies, herbal concoctions, and edible preparations from foraged materials and cast-off ingredients.
 
 Network Among the Invisible
-: Arkhea maintains connections throughout the city's beggar community, merchants' servants, and dock workers. She knows things that never reach the ears of the powerful.
+: Arkhea maintains connections throughout the town's beggar community, merchants' servants, and dock workers. She knows things that never reach the ears of the powerful.
 
 ### Weaknesses
 
@@ -542,7 +542,7 @@ Young Scholar [Dmitris]{.name data-type="being/npc"}
 ### Affiliations
 
 [The Unseen Community]{.name data-type="affiliation"}
-: Arkhea is an elder figure among the city's street-dwellers, respected for her longevity and wisdom.
+: Arkhea is an elder figure among the town's street-dwellers, respected for her longevity and wisdom.
 
 The [[affiliation-lizelas|Order of Lizelas]] (Fertility Aspect)
 : Despite her poverty, she maintains spiritual practice and occasional participation in informal worship gatherings.
@@ -550,10 +550,10 @@ The [[affiliation-lizelas|Order of Lizelas]] (Fertility Aspect)
 ## Plot Hooks
 
 The Hidden Child
-: Arkhea discovers an abandoned infant on a doorstep—a baby with unusual markings that suggest noble blood. She must protect this child from unknown pursuers while navigating a city that would exploit the child's origins. This act of protection forces her to move, to take risks, to engage with a world she has safely ignored for decades.
+: Arkhea discovers an abandoned infant on a doorstep—a baby with unusual markings that suggest noble blood. She must protect this child from unknown pursuers while navigating a town that would exploit the child's origins. This act of protection forces her to move, to take risks, to engage with a world she has safely ignored for decades.
 
 The Overheard Secret
-: While sitting unnoticed in a merchant house vestibule, Arkhea overhears a conspiracy involving poisoning of a city official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
+: While sitting unnoticed in a merchant house vestibule, Arkhea overhears a conspiracy involving poisoning of a town official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
 
 The Lost Apprentice
 : A young merchant's apprentice, [Shahrikos]{.name data-type="being/npc"}, confides in Arkhea that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhea must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.

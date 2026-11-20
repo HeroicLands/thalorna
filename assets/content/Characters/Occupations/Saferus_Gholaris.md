@@ -403,7 +403,7 @@ Sáferus Gholaris is a 52-year-old man who stands 5'9" tall and is of moderate b
 
 Born in the [[place-helionis|Helionis]] region to a noble family of [[lore-helioniteclt|Helionite]] heritage, Sáferus Gholaris came into the world of the clothier through a combination of circumstance and aptitude.
 
-Sáferus is a master clothier whose shop has served the city’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Sáferus's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
+Sáferus is a master clothier whose shop has served the town’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Sáferus's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
 
 ## Psyche
 

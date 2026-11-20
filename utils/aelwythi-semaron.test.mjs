@@ -68,20 +68,20 @@ test("only the shared punctuation standard and explicit mappings apply", () => {
         ["!", 0xe0103],
     ])
         assert.equal(encodeText(encoding, source), String.fromCodePoint(point), source);
-    for (const source of [";", ":", '"', "ë", "à", "c", "ce", "Ci", "cy", "x", "X", "CH", "cH"])
+    for (const source of [";", ":", '"', "ë", "è", "c", "ce", "Ci", "cy", "x", "X", "CH", "cH"])
         assert(encode(source).findings.length, `${source} is refused, not silently rewritten`);
 });
 
 test("encoding selection supplies language and font while the default stays Roman", () => {
-    const source = "[sai]{enc=aelwsemaronenc}";
+    const source = "[sei]{enc=aelwsemaronenc}";
     const rendered = renderRuns(source, ctx);
     assert.deepEqual(rendered.errors, []);
     assert.match(rendered.markdown, /lang=art-x-aelw/);
     assert.match(rendered.markdown, /hl-semaron-kuriale/);
-    assert(rendered.markdown.includes(encodeText(encoding, "sai")));
-    const roman = renderRuns("[sai]{lang=aelw enc=default}", ctx);
+    assert(rendered.markdown.includes(encodeText(encoding, "sei")));
+    const roman = renderRuns("[sei]{lang=aelw enc=default}", ctx);
     assert.deepEqual(roman.errors, []);
-    assert(roman.markdown.includes("sai"));
+    assert(roman.markdown.includes("sei"));
     assert(!roman.markdown.includes("hl-semaron-kuriale"));
 });
 
@@ -116,6 +116,13 @@ test("fixed letter groups, case, contextual ny and stress have exact usable glyp
         ["Ú", [0xf0212, 0xe0114]],
         ["ì", [0xf0237, 0xe0116]],
         ["Ì", [0xf0207, 0xe0116]],
+        ["à", [0xf0230, 0xe0116]],
+        ["À", [0xf0200, 0xe0116]],
+        ["ò", [0xf023d, 0xe0116]],
+        ["Ò", [0xf020d, 0xe0116]],
+        ["ù", [0xf0242, 0xe0116]],
+        ["Ù", [0xf0212, 0xe0116]],
+        ["bùrd", [0xf0231, 0xf0242, 0xe0116, 0xf023f, 0xf0232]],
         ["Eilwìth", [0xf0203, 0xf0237, 0xf023a, 0xf0244, 0xf0237, 0xe0116, 0xf0250]],
         ["Eilwìthi", [0xf0203, 0xf0237, 0xf023a, 0xf0244, 0xf0237, 0xe0116, 0xf0250, 0xf0237]],
     ];

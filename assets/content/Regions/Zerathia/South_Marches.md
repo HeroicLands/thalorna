@@ -9,6 +9,7 @@ data:
   demonym: Marcher
   lore: [humanflk]
   parents: [xerathia]
+  borders: [{to: bethuargn, bearing: N}, {to: cntrlrnfrsts, bearing: S}]
   population: null
   packFolder: xerathia
 

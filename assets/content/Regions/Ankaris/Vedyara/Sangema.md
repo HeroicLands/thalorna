@@ -36,3 +36,4 @@ Sangema's senior priest is one of the three whose informal consultations are cal
 - [[place-melkaground|The Melka Ground]] · [[place-mahanodi|the Mahanodi]]
 - [[affiliation-janpdsvdyr|Janpodas of Vedyara]]—the confederation it convenes
 - [[place-bharanya|Bharanya]]—the Mahajaya temple of the Council of Three
+- [[scenario-lastmelka|The Last Melka of Mahaprasoda]]—a scenario set here

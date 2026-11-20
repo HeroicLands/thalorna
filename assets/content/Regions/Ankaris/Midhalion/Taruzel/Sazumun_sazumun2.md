@@ -106,6 +106,15 @@ Sazumun's name is the toll's, and the city has always lived by what passes its q
 [[skill-taruzelilng|Taruzeli]]
 : the language and naming tradition
 
+[[scenario-clsdroll|The Closed Roll]]
+: a scenario set here
+
+[[scenario-frmnspttn|The Freeman's Petition]]
+: a scenario set here
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: a scenario set here
+
 # The Truth of the Keel Timber {#truth .secret}
 
 **The cut is sold.** The guild that holds the Alz timber monopoly has sold the keel timber of the next two winters' cut, every trunk long and straight enough for a galley's keel, to a broker of [[place-helionis|Helionis]]. The Registrar of Monopolies has entered the sale in the House's roll as timber for Helionite merchant yards, and the price is paid in advance, in good coin. The Corsair League pays for its timber late, as it pays its designers late, and the guild's masters have had enough of carrying its debt.

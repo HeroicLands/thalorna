@@ -295,7 +295,7 @@ tay
 
 test("deprecated closing y uses original positions and respects the next vowel", () => {
     assert.deepEqual(pairs.deprecatedPairs("😀TÁY, sey oy; kaya kayá kayà kayä iy uy ày òy"), [
-        { pair: "ÁY", offset: 3, end: 5, replacement: "ÁI" },
+        { pair: "ÁY", offset: 3, end: 5, replacement: "ÁI", replacements: ["ÁI", "ÉI"] },
         { pair: "ey", offset: 8, end: 10, replacement: "ei" },
         { pair: "oy", offset: 11, end: 13, replacement: "oi" },
     ]);
@@ -303,6 +303,27 @@ test("deprecated closing y uses original positions and respects the next vowel",
     const [hit] = pairs.deprecatedPairs(decomposed);
     assert.equal(decomposed.slice(hit.offset, hit.end), "a\u0301y");
     assert.equal(hit.replacement, "a\u0301i");
+    assert.deepEqual(hit.replacements, ["a\u0301i", "e\u0301i"]);
+});
+
+test("a closing ay is attested in either reading, and offers both", () => {
+    assert.deepEqual(pairs.respelledForms("Kenbeshay"), ["Kenbeshai", "Kenbeshei"]);
+    assert.deepEqual(pairs.respelledForms("Kenbeshey"), ["Kenbeshei"]);
+    assert.deepEqual(pairs.deprecatedPairs("kay")[0].replacements, ["ai", "ei"]);
+    assert.equal(pairs.deprecatedPairs("koy")[0].replacements, undefined);
+});
+
+test("a closing ay is advised by sound: ai is the vowel of time and ei the vowel of day", () => {
+    assert.equal(
+        pairs.closingAdvice(pairs.deprecatedPairs("kay")[0]),
+        'write "ai" for the vowel of time or "ei" for the vowel of day',
+    );
+    assert.equal(
+        pairs.closingAdvice(pairs.deprecatedPairs("kÁY")[0]),
+        'write "ÁI" for the vowel of time or "ÉI" for the vowel of day',
+    );
+    assert.equal(pairs.closingAdvice(pairs.deprecatedPairs("key")[0]), 'write "ei"');
+    assert.equal(pairs.closingAdvice(pairs.deprecatedPairs("koy")[0]), 'write "oi"');
 });
 
 test("sound inventory derives duplicate IPA and prospective counts from guide data", () => {

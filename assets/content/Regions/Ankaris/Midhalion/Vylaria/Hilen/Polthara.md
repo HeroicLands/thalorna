@@ -76,6 +76,9 @@ The inns of Polthara line the road into the square and are full the night before
 [[being-lrdmlnvsbr|Lord Aimilon Visbari]]
 : the herald whose country house stands outside the town
 
+[[scenario-rtbfrwddng|The Rite Before the Wedding]]
+: a scenario set here
+
 # The Truth of Polthara {#truth .secret}
 
 The register washes stolen goods. The bandits of the wooded margins rob wagons on the district's roads and houses on its estates, and what they take comes back into Polthara on market day in the wagon of a steward whose master lives in the capital and has not visited his estate in years. The steward's mark is genuine, so the goods are entered in the register as that estate's surplus, sold, sealed and carried away with good title by buyers who are glad not to ask. A writing-desk taken from a house in one district is sold clean in the next, and the owner has no claim on it.

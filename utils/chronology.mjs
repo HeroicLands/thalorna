@@ -46,7 +46,7 @@
  *    the western reckoning has no year zero.
  * 8. **`throne-numeral`** — the king-list numbers a throne name across its whole
  *    length, so each throne name's numerals rise with the crowning year, a bare
- *    name counting as I. The list is read from the Gar-Aûu note's tables: a Near
+ *    name counting as I. The list is read from the Gar-Auu note's tables: a Near
  *    Count row gives its crowning year, and a Middle Count abstract row gives its
  *    stretch, with a name's own `crowned N` where it states one.
  * 9. **`throne-listed`** — a throne name written with a numeral anywhere in the
@@ -112,11 +112,11 @@ export const CONFIG = "package-build.config.yaml";
 /** The `depth` values an event may carry. */
 export const DEPTHS = Object.freeze(["world", "region"]);
 
-/** The note that holds the Khelâthi king-list. */
+/** The note that holds the Khelathi king-list. */
 export const KING_LIST = "garauu";
 
 /**
- * A Khelâthi throne name: a name element, the seam, and a god's house-form, with
+ * A Khelathi throne name: a name element, the seam, and a god's house-form, with
  * an optional numeral after it.
  */
 const THRONE =
@@ -259,7 +259,7 @@ function position(text, offset) {
 /**
  * Every reign the king-list's tables hold, in the order of the count.
  *
- * @param {string} raw - The Gar-Aûu note.
+ * @param {string} raw - The Gar-Auu note.
  * @returns {{name: string, numeral: number, written: string, year: number, offset: number}[]}
  */
 export function kingList(raw) {
@@ -298,7 +298,7 @@ export function kingList(raw) {
 }
 
 /**
- * The Khelâthi findings: Qet Telgu pairs in prose, and the king-list's numerals.
+ * The Khelathi findings: Qet Telgu pairs in prose, and the king-list's numerals.
  *
  * @param {object[]} prose - Every note, from {@link readTree}.
  * @param {(file: string) => string} relative - A path as the finding writes it.

@@ -26,7 +26,7 @@ data:
 
 **The Unreceived** is a tragedy by [Theldos]{.name data-type="being/npc"} of [[affiliation-kalydria|Kalidria]], written for the city's theater festival in the classical years, and its odes are what survives of it in the schools; the spoken scenes are copied less often and in fewer hands. Its chorus is the dead levy of [[affiliation-korinthea|Korinthea]], standing in its ranks on [[place-sourplain|the Sour Plain]] on the anniversary of [[lore-heladturnedwrk|the Turned Working]], and the whole play passes on that one day. The chorus sings in the matched stanzas of the Helionite stage: a turn, an answering turn of the same length and shape, and a stand after them that the whole chorus sings together without moving.
 
-The play took no prize. Kalidria revives it seldom, and the patron family that pays for a revival does not say so beforehand. Theldos gives the mage-warlord a part with no mask and no lines: an actor stands on a block at the back of the stage through the whole play, in his own face, and says nothing, and the chorus never turns to look at him. No Helionite or Vilérian record names the warlord, and the play keeps the record's silence on purpose. The speaking parts are a Korinthean herald who comes to the ring of stones each year, a mother of the levy who comes with him once and does not come again, and a judge of the [Temple of Árdavon]{.name data-type="affiliation"} in [[place-korinthea2|Korinthea]] who walks the ring and records where the stones stand.
+The play took no prize. Kalidria revives it seldom, and the patron family that pays for a revival does not say so beforehand. Theldos gives the mage-warlord a part with no mask and no lines: an actor stands on a block at the back of the stage through the whole play, in his own face, and says nothing, and the chorus never turns to look at him. No Helionite or Vilérian record names the warlord, and the play keeps the record's silence on purpose. The speaking parts are a Korinthean herald who comes to the ring of stones each year, a mother of the levy who comes with him once and does not come again, and a judge of the [[place-tmplrdvn|Temple of Árdavon]] in [[place-korinthea2|Korinthea]] who walks the ring and records where the stones stand.
 
 Between the odes, the scenes are given here as the schools summarize them.
 
@@ -443,7 +443,7 @@ koum heurarin herin statharin.
 [[lore-bloodfield|Blood-fields]]
 : what a withering is, and why the unreceived dead stand on it
 
-[[affiliation-korinthea|Korinthea]] and the [[place-korinthea2|Temple of Árdavon]]
+[[affiliation-korinthea|Korinthea]] and the [[place-tmplrdvn|Temple of Árdavon]]
 : the city that has not said it, and the temple that keeps its law
 
 [[affiliation-kalydria|Kalidria]]

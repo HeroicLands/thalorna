@@ -95,3 +95,6 @@ Hulls have crossed between the bay and the island for as long as there has been 
 
 [[scenario-kalipsahulls|The Third Night and the Spring Count]]
 : a scenario: three lost hulls, a disputed pilot roster and a census before the Sea-Law Hall
+
+[[scenario-sprngsttng|The Spring Sitting of 720]]
+: a scenario set here

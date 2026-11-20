@@ -14,7 +14,7 @@ data:
   market: regional
   routes:
     - {to: besikar2, bearing: NW, mode: land, days: 5, terrain: [hills, road]}
-    - {to: amradadrgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}
+    - {to: valmakhend, bearing: E, mode: ship, days: 1, terrain: [open-sea]}
   government: gldbrdpshnr
   packFolder: taruzel
   notes: "The trading town on Qalirel's strait shore where the caravan ferries land: caravanserais and warehouses round the one good harbor of the eastern coast, factors who lend to men they may never see again, and a Warden whose roll the caravan trade reads before it trusts a name."
@@ -100,6 +100,15 @@ A party that comes with a caravan lodges in its caravanserai, sleeps on the gall
 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the eastern religious tradition
+
+[[scenario-frmnspttn|The Freeman's Petition]]
+: a scenario set here
+
+[[scenario-mnthbfrrvw|The Month Before the Review]]
+: a scenario set here
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here
 
 # The Truth of the Forgetting {#truth .secret}
 

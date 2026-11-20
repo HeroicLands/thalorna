@@ -65,3 +65,9 @@ What the town does not have is any way for a man to stay. A deck is a place to b
 
 [[place-meghrsmdra|The Meghra-samedra]]
 : the sea outside the bar
+
+[[scenario-seasonbar|The Season Over the Bar]]
+: a scenario set here
+
+[[scenario-wrappedwrist|The Wrapped Wrist]]
+: a scenario set here

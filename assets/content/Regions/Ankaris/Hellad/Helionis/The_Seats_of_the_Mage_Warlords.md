@@ -14,7 +14,7 @@ A shepherd above any of the older Helionite cities can point to a tower on the n
 
 Each seat is a tower with a walled workshop behind it, cut into rock or built against it, with a cistern and a yard. Roofs are gone, floors are fallen in, and the glass in the upper rooms went generations ago. The walls hold, and the cellars are mostly intact. The seats are the only part of the warlords' work that a person can still touch.
 
-**[[place-theradon2|Theradon]]'s seat** is a walled workshop on the terraces above the gulf. The Republic stripped it in 330 BF, and its master died when the city fell. The racks along the north wall are empty, and the numbers painted above them are still legible.
+**[[place-theradon2|Theradon]]'s seat** is a walled workshop on the terraces above the town. The Republic stripped it in 330 BF, and its master died when the city fell. The racks along the north wall are empty, and the numbers painted above them are still legible.
 
 ## Who Goes
 

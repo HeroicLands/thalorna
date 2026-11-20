@@ -40,3 +40,6 @@ Its priests are of the janpoda and are not of the Mahajaya temple. The two estab
 
 [[place-danurkotjnpd|Danurkot Janpoda]]
 : the land
+
+[[scenario-wrappedwrist|The Wrapped Wrist]]
+: a scenario set here

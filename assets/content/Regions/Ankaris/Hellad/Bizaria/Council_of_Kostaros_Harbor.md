@@ -29,10 +29,14 @@ data:
   territorial_population: 6000
   economy: []
   lore: [humanflk]
-  parents: []
+  parents: [byzarianlg]
   relations: {}
   packFolder: byzaria
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
 The **Council of Kostaros Harbor** governs [[place-kostaros|Kostaros]], one of the lesser harbors on the coast of the [[place-byzariargn|Bizaria coast]] and the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]].
+
+## History {#history}
+
+The harbor was planted as the daughter-port of the Helionite city-state of Kostaros in the colonizing centuries, and its council answers to the Bizarian League, which the Eastern War annexed to the empire as a province about 209 AF.

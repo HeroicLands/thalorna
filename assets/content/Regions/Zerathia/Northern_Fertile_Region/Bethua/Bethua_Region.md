@@ -9,7 +9,11 @@ data:
   demonym: Bethuan
   lore: [humanflk]
   parents: [nrthrnfrtlrgn, xerathia]
-  borders: [{to: aukhelathrgq, bearing: E}, {to: okharisrgn, bearing: W}]
+  borders:
+    - {to: aukhelathrgq, bearing: E}
+    - {to: okharisrgn, bearing: W}
+    - {to: sthmrchsrgn, bearing: S}
+    - {to: vylarianse, bearing: N}
   population: 3000000
   packFolder: bethua
   government: mtrrchybth

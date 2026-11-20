@@ -29,7 +29,7 @@ The festival takes the last three nights of [Morvanandi]{.name data-type="lore/c
 Many lands keep a work for the Silent Passage, read in the house rather than the temple, since the temple is shut.
 
 - The houses of the Taruzelian coast read [[lore-askedforayear|Of the One Who Asked for a Year]] at the table, one part each night, with the household's ledger open beside the roll.
-- The College of Ethics of [[affiliation-thyrenae|Thirenae]] in [[place-helionis|Helionis]] reads [[lore-silentdinner|The Dinner of the Silent Passage]] on the first night.
+- The [[affiliation-cllgofethcs|College of Ethics]] of [[affiliation-thyrenae|Thirenae]] in [[place-helionis|Helionis]] reads [[lore-silentdinner|The Dinner of the Silent Passage]] on the first night.
 - A widow of [[place-wyndmarch|the Wiindmarch]] says [[lore-windownaming|The Naming at the Window]] over her candle on the first night, for dead the wood took without graves.
 
 ## On the Taruzelian Coast

@@ -795,6 +795,9 @@ packageBuild:
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-kngdmldrth
           reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+        - address: affiliation-kostaros2
+          scope: urban-share
+          reason: The two cities hold the urban share of a polity whose grain arrives by sea trade.
         - address: affiliation-kskrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-ksrrtrb
@@ -862,6 +865,8 @@ packageBuild:
         - address: affiliation-cncltwlvbzrs
           reason: territory is a single settlement; the polity above it carries the urban share
         - address: affiliation-mrchntcnsrtchr
+          reason: territory is a single settlement; the polity above it carries the urban share
+        - address: affiliation-hrbrbrdthsln
           reason: territory is a single settlement; the polity above it carries the urban share
         - address: affiliation-gldbrdpshnr
           reason: territory is a single settlement; the polity above it carries the urban share

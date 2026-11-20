@@ -399,7 +399,7 @@ His intellect allows him to understand complex disputes. His rhetorical skill al
 
 ## Social
 
-Gáberos is fully integrated into Helionis's intellectual and commercial establishments. He is respected by both academics and merchants, which is unusual in a city where these groups often antagonize each other. His position gives him unusual social authority.
+Gáberos is fully integrated into Helionis's intellectual and commercial establishments. He is respected by both academics and merchants, which is unusual in a town where these groups often antagonize each other. His position gives him unusual social authority.
 
 ## Companions
 

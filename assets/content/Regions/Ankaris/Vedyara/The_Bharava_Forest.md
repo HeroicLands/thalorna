@@ -100,3 +100,6 @@ The query names the settlements of the forest country. A gathering group moves w
 
 [[place-sorhupur|Sorhupur]]
 : a temple-city in the interior that the forest has closed over
+
+[[scenario-kptdeadsorhupur|A Lamp Offered by Dry Hands]]
+: a scenario set here

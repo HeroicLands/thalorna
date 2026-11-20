@@ -419,7 +419,7 @@ Théldina Khalidra is beautiful in the way that a finely crafted instrument is b
 
 ### Origin
 
-Théldina was born in the [[lore-helioniteclt|Helionite]] city of [[place-theradon2|Theradon]], one of the great intellectual and cultural centers of the western world. The daughter of a minor noble family with more prestige than wealth, she was identified at a young age as possessing the combination of beauty, intelligence, and charm that the Helionite courtesan academies prize. At twelve, she entered the [Academy of the Silver Veil]{.name data-type="affiliation"}, one of the most prestigious training institutions for companions in all of [[place-ankrscntnnt|Ankaris]].
+Théldina was born in the [[lore-helioniteclt|Helionite]] town of [[place-theradon2|Theradon]], one of the great intellectual and cultural centers of the western world. The daughter of a minor noble family with more prestige than wealth, she was identified at a young age as possessing the combination of beauty, intelligence, and charm that the Helionite courtesan academies prize. At twelve, she entered the [[affiliation-slvrvlacdmy|Academy of the Silver Veil]], one of the most prestigious training institutions for companions in all of [[place-ankrscntnnt|Ankaris]].
 
 ### Training
 

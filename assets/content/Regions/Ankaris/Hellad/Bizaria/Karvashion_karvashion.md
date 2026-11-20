@@ -3,7 +3,7 @@ shortcode: karvashion
 name: {full: Karvashion}
 type: affiliation
 subType: polity
-description: "Green-land city-state of the Bizarian League at the junction of the eastern and southern caravan roads—an inland caravanserai city with a reputation for gardeners, merchants, and peaceful culture."
+description: "Green-land city-state of the Bizarian League at the junction of the eastern and southern caravan roads—an inland caravanserai town with a reputation for gardeners, merchants, and peaceful culture."
 data:
   templatePriority: null
   demonym: Karvashian
@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: karvashion2
-  population: 1200000
-  territorial_population: 1200000
+  population: 170000
+  territorial_population: 170000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-"I will feed you, stable your camels and find you a buyer," a caravansary master of Karvashion tells a Dunhari trader on his first crossing, "and by morning you will know what each of them cost me and what each will cost you." That is the whole city-state in one welcome. Karvashion sits where the caravan road from the east divides toward the [[place-khzryndsrtrgn|Khazrin Desert Region]] and toward the [[place-dunharargn|Dunhara Region]], its river valley green against the dry hills around it, and about 1.2 million people live under its council. The men who run its great caravanserais sit on that council beside the merchant-princes, and their influence rivals the merchant-princes' own.
+"I will feed you, stable your camels and find you a buyer," a caravansary master of Karvashion tells a Dunhari trader on his first crossing, "and by morning you will know what each of them cost me and what each will cost you." That is the whole city-state in one welcome. Karvashion sits where the caravan road from the east divides toward the [[place-khzryndsrtrgn|Khazrin Desert Region]] and toward the [[place-dunharargn|Dunhara Region]], its river valley green against the dry hills around it, and about 170,000 people live under its council. The men who run its great caravanserais sit on that council beside the merchant-princes, and their influence rivals the merchant-princes' own.
 
 ## Who Decides
 
@@ -79,7 +79,7 @@ A council of caravansary masters and merchant-princes governs the city-state fro
 
 ## Standing
 
-The Dunhari and Khazrini merchants who keep permanent trading quarters in the city keep their own tongues, faiths and law there. Standing in the city's own courts is a separate matter and follows the register: the freeman, enrolled in it, trades in the markets and pleads in the courts, while the resident lives under the city's protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head, the councillor and the First of the Council.
+The Dunhari and Khazrini merchants who keep permanent trading quarters in the town keep their own tongues, faiths and law there. Standing in the city's own courts is a separate matter and follows the register: the freeman, enrolled in it, trades in the markets and pleads in the courts, while the resident lives under the city's protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head, the councillor and the First of the Council.
 
 ## Relations
 
@@ -91,6 +91,14 @@ Its closest tie is to the [[place-southrnmrch|Southern March]], whose lord holds
 
 Karvashion uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Karvashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
+## Current Situation {#present}
+
+The caravansary masters and the lord of the Southern March keep the Dunhara road open together. The masters pay tolls and gifts for its wells and its safety, and the lord buys grain and coin and a market for his wool in return.
+
+## History {#history}
+
+The Compact of the Five joined Karvashion to the other four cities about 157 BF, and the Eastern War of about 209 AF left its council of caravansary masters in place.
+
 ## See Also
 
 [[affiliation-byzarianlg|Bizarian League]]
@@ -100,7 +108,7 @@ Karvashion uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogd
 : the League's country
 
 [[place-karvashion2|Karvashion]]
-: the city and its bazaars
+: the town and its bazaars
 
 [[place-southrnmrch|Southern March]]
 : the dry upland on its road to Dunhara

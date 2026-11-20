@@ -40,3 +40,4 @@ This is [[affiliation-hvarnguides|Hvarn ground]]. The Hvarn work the eastern cro
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-shankhadvr|Shankhadvar]] · [[place-pssshrines|the Pass-Shrines]]
 - [[affiliation-hvarnguides|The Hvarn]] · [[affiliation-tantsouempr|Empire of Tantsou]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]

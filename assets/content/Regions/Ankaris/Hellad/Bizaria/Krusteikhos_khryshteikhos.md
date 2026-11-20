@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: khryshteikhos2
-  population: 2000000
-  territorial_population: 2000000
+  population: 310000
+  territorial_population: 310000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about two million people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five cities and the League's capital in all but name, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
+Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about 310,000 people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five seats and the League's capital, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
 
 ## Who Decides
 
@@ -94,6 +94,14 @@ The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]
 ## Commerce and Currency
 
 Krusteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Krusteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## Current Situation {#present}
+
+The bankers who sit in the Merchant Hall also hold the grain contracts with Velanthia, so the council's votes on tariffs and the joint army are taken where the city's loans are written. Its weight at the League table is money, set against the ships of Nesthiros and the garrison of Argirteikhos.
+
+## History {#history}
+
+The Compact of the Five bound the five cities about 157 BF. The Eastern War of about 209 AF dissolved it by edict and annexed the League as a province, and the city councils stayed in place.
 
 ## See Also
 

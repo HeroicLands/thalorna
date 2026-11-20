@@ -56,3 +56,6 @@ Beit-Shofár waits on an old man, a young woman and a rumor from the north. The 
 
 [[affiliation-ashanpnthn|Ashaian Pantheon]]
 : the gods Ataros stands among
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here

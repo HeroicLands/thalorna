@@ -170,32 +170,32 @@ Till lost was the foremost of the kine,/
 And his hand upon his breast.
 
 Then stone was under his left foot,/
-And stone beneath his right,/
+And stone beneath his rait,/
 So klose thei fitted that no knife/
-Kould find a gap of light.
+Kould find a gap of lait.
 
 The krown road was it, the old road,/
 That runneth where no road should,/
 With oak on this hand, oak on that,/
 And oak, and oak, and wood.
 
-When he was small his grandsire said,/
+When hii was small his grandsire sed,/
 «Take not the krown road south‼/
-For whither it goeth no man knoweth,/
+For whither it goeth no man knoeth,/
 And it hath a stopped mouth.»
 
-But thikke the fog and sure the stone,/
+But thìk the fog and sure the stone,/
 And soft the kine went on,/
-As kine go home at milking time/
-When the light of dai is gone.
+As kine go home at milking taim/
+When the lait of dei is gone.
 
-All the long dai he drove them on,/
+All the long dei hii drove them on,/
 With oaks on either hand,/
 And the least oak there was older yet/
 Than the oldest in the land.
 
-And when the fog was thin at last/
-The light was going low,/
+And when the fog was thìn at last/
+The lait was goìng low,/
 And oaks stood up akross the road,/
 A bank of them, a row.
 
@@ -206,68 +206,68 @@ And stopped, as a man might die.
 
 And in among the oaks there stood/
 A tall one, grei and still,/
-That looked on Edwald and the kine/
+That lùkt on Edwald and the kine/
 And spoke not, good nor ill.
 
 Then Edwald took his kap in hand,/
-As he was taught of old./
-«Good evening, sir. Who laid this road?/
-I prai thee, be it told.»
+As hii was taught of old./
+«Good evening, sir. Who leid this road?/
+I prai dhii, bii it told.»
 
-The tall one looked along the road,/
-And looked upon the kine,/
-And not a word he gave the lad,/
+The tall one lùkt along the road,/
+And lùkt upon the kine,/
+And not a word hii gave the lad,/
 Nor eni kind of sign.
 
-Then Edwald said, «Good sir, good sir,/
-I ask of thee no more/
+Then Edwald sed, «Good sir, good sir,/
+I ask of dhii no more/
 But whither goeth the old road/
-That stoppeth at thi door?»
+That stoppeth at dhai door?»
 
-Bak up the road the tall one looked,/
+Bak up the road the tall one lùkt,/
 To the north and to the west,/
 Where three hills stand in the highland grass/
-And the sun goeth down to rest.
+And the sòn goeth down to rest.
 
 Then bolder was young Edwald there/
-Than men more wise haven been./
-«Then tell me whi the road doth stop,/
-And what the oaks do mean‼»
+Than men more wise haven biin./
+«Then tell mii whi the road dòth stop,/
+And what the oaks duu miin‼»
 
 And at the word the oaks stood fast/
 As doors ben shut at night,/
 And down the fog kame on the road,/
 And Edwald lost his sight.
 
-He woke upon the highland grass/
+Hii woke upon the highland grass/
 Beneath three hills of stone,/
 And there his masteres kine were all,/
 And grazing, everi one.
 
 No oak was there, no road was there,/
-No bank of standing trees,/
+No bank of standing triiz,/
 But a ring of grass more green than grass,/
-That kame up to his knees.
+That kame up to his kniiz.
 
 And never a beast of all the kine/
 Would set her foot thereon./
 Thei grazed about it as thei went,/
 And left it, and were gone.
 
-A sennight late he kame home/
-Along the kommon wai./
+A sennight late hii kame home/
+Along the kommon wei./
 His grandsire met him at the gate./
-«Where hast thou been? Now sai‼»
+«Where hast dhau biin? Nau sei‼»
 
 «I took the krown road south, grandsire,/
 The road betwikst the oaks,/
-And he that keepeth it I saw,/
-And never word he spoke.»
+And hii that keepeth it I saw,/
+And never word hii spoke.»
 
-«And who did lai the old road, lad,/
-And whi is it stopped?» said he./
-«Thei laid it, grandsire, and thei stopped./
-No more was told to me.»
+«And who did lei the old road, lad,/
+And whi is it stopped?» sed hii./
+«Thei leid it, grandsire, and thei stopped./
+No more was told to mii.»
 
 And when the great snow fell that year,/
 And everi drove road was lost,/
@@ -275,14 +275,14 @@ And the beasts must kome from the high grass down/
 Or die there in the frost,
 
 Then Edwald drove them bi the stone,/
-Where none but he would go,/
-And the oaks along it kept the wai/
+Where none but hii would go,/
+And the oaks along it kept the wei/
 Akross the blind white snow.
 
-He brought them down, both kow and kalf,/
+Hii brought them down, both kow and kalf,/
 And not a beast was lost,/
-And no man knoweth who laid the road,/
-Nor what the laying kost.
+And no man knoeth who leid the road,/
+Nor what the leiìng kost.
 :::
 
 ## See Also

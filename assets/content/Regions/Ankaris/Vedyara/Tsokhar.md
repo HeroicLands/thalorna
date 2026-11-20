@@ -36,3 +36,4 @@ Tsokhar keeps a watch on its approaches through the open months, which no other 
 
 - [[place-meghadvar|Meghadvar]] · [[place-gudesroad|the Guides' Road]] · [[affiliation-osketguides|the Osket]]
 - [[place-oskhelt|Oskhelt]] · [[place-wstrndscnt|the Western Descent]]
+- [[scenario-wallopenwks|The Weeks the Wall Is Open]]

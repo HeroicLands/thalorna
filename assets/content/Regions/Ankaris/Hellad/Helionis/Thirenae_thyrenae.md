@@ -10,64 +10,44 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: democracy
-    summary: Philosophical council of senior scholars and patrician families.
+    model: council
+    summary: "Philosophical council of senior scholars and the heads of the oldest patrician families, in which reputation for learning counts before wealth."
     ranks:
       - level: 0
         title: Átimor
-        description: >-
-          Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him.
+        description: "Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him."
       - level: 1
         title: Slave
-        description: Owned outright, with no standing before the law except through an owner.
+        description: "Owned outright, with no standing before the law except through an owner."
       - level: 2
         title: Freedman
-        description: Manumitted, working and trading in the city, and barred from the assembly for life.
+        description: "Manumitted, working and trading in the city, and barred from the assembly for life."
       - level: 3
         title: Metic
-        description: A resident foreigner, taxed and liable to the levy, with no vote and no right to own land.
+        description: "A resident foreigner, the student from abroad who stays on among them: taxed and liable to the levy, with no vote and no right to own land."
       - level: 4
         title: Citizen
-        description: >-
-          Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council.
+        description: "Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council."
       - level: 5
         title: Councilor
-        description: >-
-          Chosen by lot to the council that prepares the assembly's business, for one year and never twice.
+        description: "Sits on the philosophical council that prepares the assembly's business, drawn from the senior scholars of the great academies and the heads of the oldest patrician families."
       - level: 6
         title: Magistrate
-        description: >-
-          Elected or allotted to an office of the city—its markets, its walls, its treasury, its courts—and audited at the end of the year.
+        description: "Elected or allotted to an office of the city, its markets, its walls, its treasury, its courts, and audited at the end of the year."
       - level: 7
         title: Strátimor
-        description: >-
-          Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit.
+        description: "Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit."
       - level: 8
         title: Arsir
-        description: >-
-          Presiding magistrate of the year, who gives it his name and hands it back—the assembly remains sovereign throughout.
+        description: "Presiding magistrate of the year, who gives it his name and hands it back, while the assembly remains sovereign throughout."
     offices:
-      Arsir: >-
-        Presiding magistrate for the year, who gives the year his name and surrenders the office at its end.
-      Strátimor: >-
-        Elected commander of the city's forces by land and sea; the one office held by election and without term limit.
-      Councilor: Member of the council that prepares business for the assembly, allotted for a single year.
-      Treasurer: >-
-        Keeper of the city's revenue and of the sacred treasuries, audited publicly at the end of his term.
-      Agóranir: Warden of the market—its weights, its coin, its quality and its disputes.
-      Nomasfilir: Guardian of the laws, who may halt a decree of the assembly that contradicts them.
-      Secretary of the Council: Keeper of the council's record and of the decrees the assembly passes.
-      Auditor: >-
-        Examiner of every magistrate's accounts at the end of his year, without whose clearance he may not leave the city.
-      Herald: >-
-        Voice of the assembly and of the city abroad, whose person is inviolable even between enemies.
-      Ambassador: >-
-        Elected to treat with another city or power, and answerable to the assembly for what he agrees.
-      Ghimarir: >-
-        Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
+      Arsir: "Presiding magistrate for the year, who gives the year his name."
+      Councilor: "Member of the philosophical council that governs Thirenae, a senior scholar of the academies or the head of an old patrician family."
+      Ghimarir: "Patron of a gymnasium who pays for its benches and its lecturers' fees from his own purse; the office is an honor that costs the holder money and is remembered at the council table."
+      Strátimor: "Elected commander of the forces of Thirenae by land and sea."
   seat: thyrenae2
-  population: 610000
-  territorial_population: 610000
+  population: 230000
+  territorial_population: 230000
   economy:
     - affiliation-tarmex
     - affiliation-danvar
@@ -83,7 +63,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Thirenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation from which the [[affiliation-ordoarcanis|Thordimalon]] grew. Its academies are the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students cross [[place-midhalnrgn|Midhalión]] to attend them. About 610,000 people live under its council, and 60,000 of them live in the city of [[place-thyrenae2|Thirenae]], its seat.
+Thirenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Epistémion]], the scholarly federation from which the [[affiliation-ordoarcanis|Thordimalon]] grew. Its academies are the most respected centers of learning in the western part of the [[place-ankrscntnnt|Ankaris Continent]], and students cross [[place-midhalnrgn|Midhalión]] to attend them. About 230,000 people live under its council, and 7,500 of them live in the town of [[place-thyrenae2|Thirenae]], its seat.
 
 Patron deity
 : [[lore-marendasdty|Marendas]], goddess of knowledge and wisdom
@@ -119,16 +99,27 @@ Thirenae is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and w
 
 Thirenae uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
+## Current Situation {#present}
+
+The colleges of the Epistémion keep real authority in the city, and the line between arcane theory and practice is the standing tension between them and the Arcane Order. The walled-up gate of the siege stays closed, and the colleges keep its day as a day of silence.
+
+## History {#history}
+
+Thirenae was the last city of Helionis to fall, in 312 BF, on terms its arsir negotiated ([[lore-heladthyrsiege|the Siege of Thirenae]]), and the colleges of the Epistémion stayed standing.
+
 ## See Also
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
-: the seven cities and how they are governed
+: the seven city-states and how they are governed
 
 [[place-helionis|Helionis]]
 : the region
 
 [[place-thyrenae2|Thirenae]]
-: the city itself
+: the town itself
+
+[[place-khasidon|Khasidon]], [[place-ghalirea|Ghalirea]], [[place-ussarea|Ussarea]]
+: the hinterland towns the city-state holds
 
 [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]
 : the other two leading city-states
@@ -141,3 +132,12 @@ Thirenae uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel
 
 [[affiliation-ordoarcanis|Thordimalon]]
 : the order that grew out of it
+
+[[place-thyrnelbrry|Library of Thirenae]]
+: the great library
+
+[[place-cmmssnrsgate|Commissioners' Gate]]
+: the walled-up gate in the western wall
+
+[[affiliation-cllgofethcs|College of Ethics]]
+: the Epistémion's college of moral philosophy

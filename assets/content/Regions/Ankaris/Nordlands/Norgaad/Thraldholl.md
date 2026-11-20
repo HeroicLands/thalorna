@@ -62,3 +62,6 @@ By boat on the low ebb, past the headland stones, through a mouth that clears th
 
 [[lore-theshadow|The Shadow]]
 : what binds the drowned
+
+[[scenario-drownedhallthrld|The Oarsmen of the Lowest Ebb]]
+: a scenario set here

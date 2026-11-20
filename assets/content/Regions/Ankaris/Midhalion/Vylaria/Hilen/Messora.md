@@ -71,6 +71,9 @@ Messora has three inns, all on the square's corners. Out of season a party has i
 [[affiliation-olvenia|Faith of Olvenia]]
 : the faith whose shrine the tenants visit at the settling
 
+[[scenario-rtbfrwddng|The Rite Before the Wedding]]
+: a scenario set here
+
 # The Truth of Messora {#truth .secret}
 
 A counting-room in Messora holds a will that has never been read. Three years ago [Nizelas Yormalen]{.name data-type="being/npc"}, master of the [Yormalen]{.name data-type="affiliation/lineage"}, a provincial house named in the old way for its estate of [Yormalenna]{.name data-type="place/settlement"} in the southern district, died at the estate, and the will read at his funeral left the estate whole to his nephew, [Revothas Yormalen]{.name data-type="being/npc"}, who holds it now. That will was made eight years before the master died. In the last winter of his life he made another and gave it, sealed, to the freedman who keeps the house's counting-room at Messora, [[being-linthimspir|Linthimos Pirkelis]], with orders to keep it until it was asked for.

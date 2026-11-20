@@ -38,3 +38,6 @@ Palm-leaf comes up from the forest country in bundles of five hundred. Lamp-blac
 
 [[place-sarvedarivr|The Sarveda]]
 : the river of the copying country
+
+[[scenario-lastmelka|The Last Melka of Mahaprasoda]]
+: a scenario set here

@@ -4,24 +4,31 @@ name: {full: Marshfeld}
 type: place
 subType: settlement
 description: "An agrarian Bizarian village governed by its Village Council, which hires the mercenary Fileze Stenikot every year against bandits and raiders."
-tags: [draft]
+tags: [village, draft]
 data:
   demonym: null
   lore: []
   parents: [byzariargn]
+  population: 300
+  market: local
+  type: village
+  government: vllgcnclmrshfld
   packFolder: byzaria
   notes: "An agrarian Bizarian village governed by its Village Council, which hires the mercenary Fileze Stenikot every year against bandits and raiders."
 ---
 
 ## Overview {#overview}
 
-Marshfeld is a farming village of [[place-byzariargn|Bizaria]] that cannot keep its own fields safe through the raiding season, so it hires someone who can. Every year its governing body, **the [Village Council of Marshfeld]{.name data-type="affiliation/governmental"}**, contracts [[being-fylzstnkt|Fileze Stenikot]], a mercenary of [[place-kostaros|Kostaros]], to protect the village against bandits and raiders. A mercenary who returns every year is worth more to the council than a stranger who takes the money once, and Fileze has returned for years.
+Marshfeld is a farming village of [[place-byzariargn|Bizaria]] that cannot keep its own fields safe through the raiding season, so it hires someone who can. Every year its governing body, **the [[affiliation-vllgcnclmrshfld|Village Council of Marshfeld]]**, contracts [[being-fylzstnkt|Fileze Stenikot]], a mercenary of [[place-kostaros|Kostaros]], to protect the village against bandits and raiders. A mercenary who returns every year is worth more to the council than a stranger who takes the money once, and Fileze has returned for years.
 
 ## The Magistrate
 
 The council's senior figure is **Elder Magistrate [[being-razaagorikot|Raza]]**, who has become a mentor to Fileze over the years of her contract and offers her wisdom and support beyond the business of the season.
 
 ## See Also {#see-also}
+
+[[affiliation-vllgcnclmrshfld|Village Council of Marshfeld]]
+: the governing body of the village
 
 [[being-fylzstnkt|Fileze Stenikot]]
 : the mercenary the council hires

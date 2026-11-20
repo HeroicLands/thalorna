@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk, grukarfolk, flksenali, flkkhazar]
   parents: [ankrscntnnt]
-  population: 47000000
+  population: 38000000
   packFolder: midhalion
 
 # terran_analog: "The Mediterranean basin—a cross-continental constellation of polities ringing the Vilérian Sea, with the Vilérian heartland centered on the Italian peninsula and Adriatic east, Taruzel on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Zerathia."
@@ -23,7 +23,7 @@ A supercargo who has ridden merchant hulls along both shores puts it to a newcom
 
 The region takes its shape from the Vilérian Sea and the coasts that enclose it.
 
-- **The northern, Ankarian shore** holds Viléria and the territories it still claims; the independent successor-states of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]; and the city-states of the [[place-heladrgn|Hellád Region]], the philosophical [[affiliation-ctysttshlns|City-States of Helionis]] and the merchant cities of the [[affiliation-byzarianlg|Bizarian League]], whose two short coasts lie side by side at the eastern end of that shore. The western Aureldian realms of [[place-elavendre|Élavendre]] and the island of [[place-eilwith|Eilwìth]] trade into it.
+- **The northern, Ankarian shore** holds Viléria and the territories it still claims; the independent successor-states of the [[affiliation-kngdmprvnz|Kingdom of Provénzia]] and the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]; and the city-states of the [[place-heladrgn|Hellád Region]], the philosophical [[affiliation-ctysttshlns|City-States of Helionis]] and the merchant city-states of the [[affiliation-byzarianlg|Bizarian League]], whose two short coasts lie side by side at the eastern end of that shore. The western Aureldian realms of [[place-elavendre|Élavendre]] and the island of [[place-eilwith|Eilwìth]] trade into it.
 - **The eastern shore** holds the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the Ashaian kingdom of the north-western part of the [[place-dunharargn|Dunhara Region]], and off it the islands of the [[place-taruzelrgn|Taruzel Region]]'s archipelago.
 - **The southern, Zerathian shore** holds the ancient [[affiliation-empireakhlth|Empire of Au'Khelathu]], the three-flamed kingdom of [[affiliation-okharis|Okharis]], and the [[affiliation-mtrrchybth|Matriarchy of Bethua]].
 

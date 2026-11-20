@@ -86,6 +86,9 @@ The holy city of Nartun is the kingdom's one city. Its other people live in temp
 [[place-nartum|Nartun]]
 : the holy city, its seat
 
+[[scenario-bxsldkngsrng|A Box Sealed with the King's Ring]]
+: a scenario set here
+
 # The Truth of the Withering {#truth .secret}
 
 The Withering is a fungus. It travels on felled timber with the bark left on, on the saws and axes of cutting crews and on the wheels of timber wagons, and it enters a living tree through a fresh wound. It spreads fastest along the valleys let to the big cutting contracts, which the priors sell to raise the coin their temples ask of them, and it follows the contract crews from valley to valley. Old charcoal-burners who cut only chosen trees and peel them where they fall carry it least. Its spores also sicken people who work among the dying stands, a wasting illness without cure that slowly turns them into husks.

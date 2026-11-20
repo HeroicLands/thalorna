@@ -36,3 +36,4 @@ Pilgrims come in the eleven intervening years as well, in ones and twenties rath
 - [[place-mahanodi|The Mahanodi]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-sangema|Sangema]]—the temple on the ground
 - [[affiliation-janpdsvdyr|Janpodas of Vedyara]]—the confederation that meets here
+- [[scenario-lastmelka|The Last Melka of Mahaprasoda]]—a scenario set here

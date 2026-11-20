@@ -75,5 +75,5 @@ The Citadel surrendered on terms. The city kept its walls and its own garrison, 
 ## See Also {#see-also}
 
 - [[lore-heladeastwar|The Eastern War]]—the war this siege belongs to
-- [[affiliation-argyrteikhos|Argirteikhos]] · [[place-argyrteikhos2|the city of Argirteikhos]]
+- [[affiliation-argyrteikhos|Argirteikhos]] · [[place-argyrteikhos2|the town of Argirteikhos]]
 - [[place-eastrnmrch|Eastern March]]

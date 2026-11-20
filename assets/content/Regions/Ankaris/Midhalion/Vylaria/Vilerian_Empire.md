@@ -202,15 +202,16 @@ The Order and the imperial government need each other and do not trust each othe
 
 A census clerk of the Scribal Guild, asked how large the empire is, answers in two figures: what is under the Emperor's hand, and what is on the maps. For all its decline, the first is still large.
 
-| Province                              | People                      | Character                                      |
-| ------------------------------------- | --------------------------- | ---------------------------------------------- |
-| [[affiliation-provinclys\|Alessa]]    | about 7,000,000             | the dense heartland, Orzara's 900,000 included |
-| [[affiliation-provnchyln\|Hilen]]     | about 7,000,000             | the breadbasket                                |
-| [[affiliation-provincvld\|Salkalon]]  | about 5,000,000             | the maritime province                          |
-| [[affiliation-provncmktr\|Moktur]]    | barely 2,000,000            | the mountain frontier, thin across its valleys |
-| [[affiliation-ctysttshlns\|Helionis]] | another 2,000,000–3,000,000 | practically independent; a province on paper   |
+| Province                              | People            | Character                                      |
+| ------------------------------------- | ----------------- | ---------------------------------------------- |
+| [[affiliation-provinclys\|Alessa]]    | about 7,000,000   | the dense heartland, Orzara's 900,000 included |
+| [[affiliation-provnchyln\|Hilen]]     | about 7,000,000   | the breadbasket                                |
+| [[affiliation-provincvld\|Salkalon]]  | about 5,000,000   | the maritime province                          |
+| [[affiliation-provncmktr\|Moktur]]    | barely 2,000,000  | the mountain frontier, thin across its valleys |
+| [[affiliation-ctysttshlns\|Helionis]] | another 1,200,000 | practically independent; a province on paper   |
+| [[place-byzariargn\|Bizaria]]         | about 1,200,000   | annexed in law, governed by its own councils   |
 
-Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million if Helionis, a province on paper, is counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hilen's grain, Salkalon's fisheries and seaborne imports, and the granaries and markets of the [[affiliation-verdanorzara|Veramus of the Grain]], the same logistics that make so large a city possible at all.
+Some **21 million** people live under direct imperial governance in the four core provinces, and about twenty-three million if Helionis and Bizaria, both annexed in law, are counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hilen's grain, Salkalon's fisheries and seaborne imports, and the granaries and markets of the [[affiliation-verdanorzara|Veramus of the Grain]], the same logistics that make so large a city possible at all.
 
 ## The Four Provinces
 

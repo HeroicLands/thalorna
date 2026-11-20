@@ -106,3 +106,6 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 
 [[scenario-smmrpsttrln|The Summer Past the Tree Line]]
 : a scenario set here
+
+[[scenario-pggdmnbrchrng|Eight Birches Wound in Silver]]
+: a scenario set here

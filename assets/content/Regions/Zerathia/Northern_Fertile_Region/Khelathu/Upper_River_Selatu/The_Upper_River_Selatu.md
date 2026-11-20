@@ -48,7 +48,7 @@ data:
         Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
       Canal-Warden: >-
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
-  seat: null
+  seat: anlaghzetun
   population: 8000000
   territorial_population: 8000000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]

@@ -36,32 +36,49 @@ export function orthographyCandidate(word) {
     return result;
 }
 
-/** Mechanical candidates plus the owner's sceptic exception, not an edit operation.
- * ch and qu remain unchanged, and a vowel y is i (`vowel-y.mjs`), but in the
- * forms its fixture holds. Reviewed collision spellings live in the note.
+/** Mechanical candidates plus the reviewed whole-word readings. A reviewed
+ * word takes the vowel marks the guide reads it by; ch and qu remain unchanged,
+ * and a vowel y is i (`vowel-y.mjs`), but in the forms its fixture holds.
+ * Reviewed collision spellings live in the note.
  */
 export function respellWord(word) {
     return respellVowelYWords(respellLetters(word));
 }
 
+/** English words whose vowels the guide reads differently from their letters. */
+const REVIEWED = new Map([
+    ["sceptic", "skeptìk"],
+    ["exact", "eksakt"],
+    ["pack", "pàk"],
+    ["silence", "sailòns"],
+]);
+
 function respellLetters(word) {
     word = orthographyCandidate(word);
-    if (fold(word) === "sceptic")
-        return [..."skeptik"]
-            .map((letter, index) =>
-                word[index] === word[index].toUpperCase() ? letter.toUpperCase() : letter,
-            )
-            .join("");
+    const reviewed = REVIEWED.get(fold(word));
+    if (reviewed) {
+        if (word === word.toUpperCase()) return reviewed.toUpperCase();
+        if (fold(word) === "sceptic")
+            return [...reviewed]
+                .map((letter, index) =>
+                    word[index] === word[index].toUpperCase() ? letter.toUpperCase() : letter,
+                )
+                .join("");
+        return likeCase(word, reviewed);
+    }
     return word.replace(/sc(?=[eiy])|ck|ch|c|x/gi, (group, offset, whole) => {
         if (/^ch$/i.test(group)) return group;
         const lower = group.toLowerCase();
         const replacement =
-            lower === "sc" ? "s"
+            lower === "sc" ?
+                /^scept/i.test(whole) ?
+                    "sk"
+                :   "s"
             : lower === "ck" ? "k"
             : lower === "x" ?
-                offset === 0 ?
-                    "z"
-                :   "ks"
+                offset === 0 ? "z"
+                : offset === 1 && /^ex[aeiou]/i.test(whole) ? "gz"
+                : "ks"
             : /[eiy]/i.test(whole[offset + group.length] ?? "") ? "s"
             : "k";
         return whole === whole.toUpperCase() ?
@@ -288,7 +305,7 @@ export function migrationReport(root = process.cwd()) {
         }));
     return {
         purpose: "Candidate review only; this program never writes or overrides authored spellings",
-        reviewedSpellings: { scent: "sente", thick: "thikke", sceptic: "skeptik" },
+        reviewedSpellings: { scent: "sent", thick: "thìk", sceptic: "skeptìk" },
         sharedLexemes: { cold: "kold" },
         sourceSha256: createHash("sha256").update(fs.readFileSync(noteFile)).digest("hex"),
         formCount: forms.length,

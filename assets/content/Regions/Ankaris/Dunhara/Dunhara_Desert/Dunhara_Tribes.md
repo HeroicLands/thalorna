@@ -72,11 +72,12 @@ data:
     kngdmmrdd: unaligned
     bhumipal: rival
     cnfdrtntrzlnstts: unaligned
+    khzrncnfdrtn: unaligned
   packFolder: dunharadesert
 sohl: {system: {commonSkills: [dunharlng]}}
 ---
 
-## Overview
+## Overview {#overview}
 
 In the desert the well rules, and with it whoever reaches it first in the right season. The Dunhara Tribes are the nomadic and half-nomadic peoples of the [[place-dunhardsrtrgn|Dunhara Desert]], perhaps a dozen great confederations and many smaller tribes who ride their seasonal circuits between the oases of the south-central reaches of the [[place-ankrscntnnt|Ankaris Continent]]. They are not one realm. Each tribe governs itself under its sheikh and its elders, and what joins them is a shared tongue, a shared faith and a shared law of the desert: welcome for the guest, ferocity for the enemy, and respect for the water every life depends on. Their seat, so far as they have one, is the oasis of [[place-ghavulavad|Ghavulavad]], where caravans hire their guides and the common council meets.
 
@@ -86,7 +87,7 @@ Every tribe traces its descent from an ancestor of legend, and every tribe is a 
 
 The Dunhari are master riders and pathfinders. They know where the hidden water lies, which pastures green in which month and which sand seas swallow the careless, and they hand that knowledge down by word of mouth and guard it closely. A Dunhari guide is the most valuable thing a caravan crossing the desert can hire, and his price says so.
 
-## Governance
+## Governance {#how-it-is-ruled}
 
 No one rules the tribes. A tribe is led by its **sheikh**, who holds his place by descent and by the consent of his elders together, and loses it when either fails. Beneath him the **householders** speak for their tents and herds, the **elders** settle what the young dispute by their memory of custom, and the **Keeper of the Feud** records blood owed and blood paid, without whom no settlement can be reckoned.
 
@@ -94,13 +95,17 @@ Matters that touch more than one tribe go to the **common council** at Ghavulava
 
 Two bodies stand beside the council and answer to none of the sheikhs. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers the acclaimed warriors of every tribe at the [[place-stoneofranaz|Stone of Ranaz]] at the season-turns, and its word carries moral weight in every camp. The [[affiliation-strmcltsbzhrms|Storm Cults of Bazhrámish]] keep a practitioner in every camp of consequence, read the weather for council and warband alike, and recognize those they hold to be vessels for the storm god. A sheikh who defies either of them can do it once.
 
-## Relations
+## The Kingdom's Compact {#present}
+
+The common council's sitting at Ghavulavad turns this year on the Kingdom of Amradad. Amradi envoys offer grain and iron for escort on the roads into the Kingdom, and the offer divides the tribes along old lines. The tribes of the northern circuits, who sell their herds in Amradi markets every year and eat Amradi bread every winter, want the compact sworn. The tribes whose Keepers of the Feud carry a tally of blood the Amradi owe from past raids refuse to sit at a fire with the envoys at all. [[being-shadznkmrz|Shadezan Kamruz]], whose confederation rides more escorts than any other, accepts the compact only if his riders hold the whole road, and the smaller tribes fear his terms more than they want the grain. The Speaker keeps the order of speaking and has no power to end the argument, so each sitting takes up the compact again and binds nobody.
+
+## Relations {#relations}
 
 The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] and are bound to it in every rite. Toward the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtntrzlnstts|Taruzelian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipal|Bhumipal]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
 
 ## Trade and Routes
 
-The tribes hold the overland roads that run east from Taruzel and the coast of the [[place-byzariargn|Bizaria Region]] to the [[place-vedyarargn|Vedyara Region]], the one road into the subcontinent that crosses no mountain, since it passes round the western end of [[place-graznmntns|the Grazian wall]]. Every tribe lives partly on that road: tolls, guide fees and the price of protection. A caravan carries the goods of many owners under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands. The richest tribes keep half-permanent camps at the great oases, which serve as caravanserais and market towns for the season.
+The tribes hold the overland roads that run east from Taruzel and the coast of the [[place-byzariargn|Bizaria Region]] to the [[place-vedyarargn|Vedyara Region]], the one road into the subcontinent that crosses no mountain, since it passes round the western end of [[place-graznmntns|the Grazian wall]]. Every tribe lives partly on that road: tolls, guide fees and the price of protection. The rest of its living walks with it. The herds give milk, meat, wool and hides, the oases give dates, and the grain the oasis gardens cannot grow enough of is bought from the caravans and from the markets of Amradad with camels, sheep and the fees of the road. A caravan carries the goods of many owners under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands. The richest tribes keep half-permanent camps at the great oases, which serve as caravanserais and market towns for the season.
 
 ## Commerce and Currency
 
@@ -142,3 +147,4 @@ The tribes trade almost entirely through [[lore-bartercnmy|the Barter Economy]] 
 : the faith of fire and light
 
 [[affiliation-trbtvrzvd|Tribe of Tevrazavad]]
+: the tribe that holds the Oasis of Tevrazavad and governs itself through a council

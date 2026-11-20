@@ -83,4 +83,4 @@ Pelagora became the [Vilérian Republic]{.name data-type="affiliation/polity"}'s
 - [[lore-heladturnedwrk|The Turned Working]]—the fall of Korinthea
 - [[lore-heladthyrsiege|The Siege of Thirenae]]—the blockade's last target
 - [[lore-daughtercts|The Daughter-Cities]]—how Pelagora came to hold Bethua
-- [[affiliation-pelagora|Pelagora]] · [[place-pelagora2|the city of Pelagora]]
+- [[affiliation-pelagora|Pelagora]] · [[place-pelagora2|the town of Pelagora]]

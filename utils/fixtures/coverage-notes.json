@@ -929,6 +929,1653 @@
                     "words": 0
                 }
             }
+        },
+        "children-query": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE type = 'place'\n  AND subType = 'settlement'\n  AND list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                },
+                "moor.md": {
+                    "fm": {
+                        "shortcode": "moor",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A moor.",
+                    "words": 0
+                }
+            }
+        },
+        "inline-code-query": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```\nSELECT 1 WHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```\n\nOr `list_contains(data.parents, 'reach')` inline.",
+                    "words": 0
+                },
+                "coded.md": {
+                    "fm": {
+                        "shortcode": "coded",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-included-bare": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-included-typed": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE type = 'place'\n  AND subType = 'settlement'\n  AND list_contains(data.parents, 'thalorna-note-place-reach')\nORDER BY name.full COLLATE NOCASE\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-included-aliased": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT c.address.slug AS _ref\nFROM notes c\nWHERE c.type = 'place' AND list_contains(c.data.parents, 'reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-population": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  AND data.population > 1000\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-false": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  AND FALSE\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-limit": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\nLIMIT 1\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-order-limit": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\nORDER BY name.full LIMIT 1\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-not-parenthesized": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE NOT (list_contains(data.parents, 'thalorna-note-place-reach'))\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-not": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE NOT list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-or": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  OR type = 'being'\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-union": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\nUNION\nSELECT address.slug AS _ref\nFROM notes\nWHERE type = 'being'\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-subquery": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  AND type IN (SELECT type FROM notes)\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-select-subquery": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT (SELECT 1) AS x\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-join": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT n.address.slug AS _ref\nFROM notes n\nJOIN notes m ON m.shortcode = n.shortcode\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-line-comment": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n-- AND type = 'place'\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-block-comment": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach') /* only */\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-other-parent": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-elsewhere')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-type-in": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  AND subType IN ('region', 'district')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-type-not-equal": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  AND type <> 'place'\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-group-by": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT subType\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\nGROUP BY subType\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-mismatched-subtype": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  AND subType = 'region'\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-included-alias-qualified": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT n.address.slug AS _ref, n.name.full AS \"Place\"\nFROM notes n\nWHERE n.type = 'place' AND n.subType = 'settlement' AND list_contains(n.data.parents, 'reach')\nORDER BY n.name.full COLLATE NOCASE\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-included-alias-bare-fields": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT n.address.slug AS _ref\nFROM notes n\nWHERE type = 'place' AND list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-included-star": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT *\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-min-projection": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT min(address.slug) AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-count-projection": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT count(*) AS total\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-distinct-projection": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT DISTINCT subType\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-literal-projection": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT 'x' AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-expression-projection": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug || 'x' AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-star-with-column": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT *, address.slug\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-data-type": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE data.type = 'place'\n  AND list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-data-type-other-value": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE data.type = 'region'\n  AND list_contains(data.parents, 'thalorna-note-place-reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-alias-data-type": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT n.address.slug AS _ref\nFROM notes n\nWHERE n.data.type = 'place' AND list_contains(n.data.parents, 'reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-foreign-alias": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT m.address.slug AS _ref\nFROM notes n\nWHERE list_contains(n.data.parents, 'reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-foreign-alias-condition": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT n.address.slug AS _ref\nFROM notes n\nWHERE m.type = 'place' AND list_contains(n.data.parents, 'reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
+        },
+        "query-excluded-table-name-with-alias": {
+            "notes": {
+                "World.md": {
+                    "fm": {
+                        "shortcode": "worldx",
+                        "type": "place",
+                        "subType": "world",
+                        "tags": [],
+                        "data": {
+                            "parents": []
+                        }
+                    },
+                    "body": "The world. [[place-reach|Reach]]",
+                    "words": 0
+                },
+                "Reach.md": {
+                    "fm": {
+                        "shortcode": "reach",
+                        "type": "place",
+                        "subType": "region",
+                        "tags": ["region"],
+                        "data": {
+                            "parents": ["worldx"]
+                        }
+                    },
+                    "body": "A land.\n\n```sql\nSELECT notes.address.slug AS _ref\nFROM notes n\nWHERE list_contains(n.data.parents, 'reach')\n```",
+                    "words": 0
+                },
+                "town.md": {
+                    "fm": {
+                        "shortcode": "town",
+                        "type": "place",
+                        "subType": "settlement",
+                        "tags": ["town"],
+                        "data": {
+                            "parents": ["reach"]
+                        }
+                    },
+                    "body": "A town.",
+                    "words": 0
+                }
+            }
         }
     }
 }

@@ -60,3 +60,6 @@ Atarzád merchants have sounded Hemvanai out about a trade compact. The exile ho
 
 [[place-ushtraber|Ushtra-ber]] and [[place-vahurdash|Vahurdash]]
 : the other two cities still under Tellumi princes
+
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here

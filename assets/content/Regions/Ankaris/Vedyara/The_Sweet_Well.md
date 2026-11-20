@@ -65,3 +65,4 @@ A track leaves the march road at the wells above [[place-ashvapada|Ashvapada]] a
 - [[affiliation-bhumipal|Bhumipal]]—the kingdom whose Maharava the Samonta serves
 - [[lore-theshadow|The Shadow]]—the chaos from which the thing below came
 - [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]]
+- [[scenario-sweetwellmadu|A Cup Before Questions]]—a scenario set here
