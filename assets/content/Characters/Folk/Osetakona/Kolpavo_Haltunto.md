@@ -83,7 +83,7 @@ The hunting bands pressing south into the pines, though he bears no man of them 
 ## Plot Hooks
 
 1. **The lake on the skyline.** A party that has strayed onto the far ridges walks all day toward a lake on the skyline and comes down at dusk on the shore it left at dawn. Its guide from the hunting bands will go no farther and turns for home.
-2. **The pale arrow.** A young hunter of the Pine People finds an arrow of pale wood lying across his snare line on the near ridges, fletched in a way no people of the Grove fletch. He asks a party to learn whose it is.
+2. **The pale arrow.** A young hunter of the Pine People finds an arrow of pale wood lying across his snare line at the edge of the far ridges, fletched in a way no people of the Grove fletch. He asks a party to learn whose it is.
 
 :::secret {title="The one who did not come back"}
 Kolpavo leads the hearths that say the far ridges belong to the Senali. He is the one who walks the bands in their circles and sets them down by lakes they have already passed, and he has begun to do it harder this season. One hunter has not come back from the pines because he walked on past the lake where Kolpavo set him down, refusing to be turned, and the ridges kept him. He has not told the ommenda, and he has not told Hapirivo Vessonto.

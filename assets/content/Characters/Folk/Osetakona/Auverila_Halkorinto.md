@@ -82,7 +82,7 @@ None.
 
 ## Plot Hooks
 
-1. **A question for the water.** A spirit-doctor of a hunting band has sent a question to the far lakes, asking whether a closed lodge can see across the sea. He wants a party to sit at a far lake's edge from dawn to dusk and bring back whatever the water shows them.
+1. **A question for the water.** A spirit-doctor of a hunting band wants a party to carry his question to a far lake and sit at its edge from dawn to dusk: can a closed lodge see across the sea? They are to bring back whatever the water shows them.
 2. **What the lake kept.** A hunter's bone-handled knife has turned up on a market stall in the Grove with pine pitch on its blade, and the hunter's band says that nobody sold it. A party is asked where it came from.
 
 :::secret {title="The shore with no pines"}
