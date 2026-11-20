@@ -34,7 +34,7 @@ The gezan is one weight for all three metals, about 22.7 grams, and the qelu is 
 The copper pieces are not worth their metal. They are struck in bronze by the [[affiliation-garmelnu|Gar'Melnu]] under [[affiliation-garhalzi|Gar-Hálzi]] supervision, and the bronze in a copper gezan is worth little more than a twentieth of its face. The face is what the temple's seal guarantees, and the guarantee is backed by silver:
 
 - Issue. Only the Gar-Hálzi issues copper pieces, and only in exchange for silver at face—ten copper qelu for a silver qelu, ten copper gezan for a silver gezan. The silver taken in is held at the issuing chapter against the copper outstanding.
-- Redemption. Any Gar-Hálzi chapter redeems copper pieces for silver at the same face, on demand, so a purse of copper is always worth its face in silver. The [[lore-bethuanclt|Bethuan]] trade-houses and **Okhárian** crown-trade offices with correspondent accounts take copper at face and return it through those accounts.
+- Redemption. Any Gar-Hálzi chapter redeems copper pieces for silver at the same face, on demand, so a purse of copper is always worth its face in silver. The [[lore-bethuanclt|Bethuan]] trade-houses and **Okharik** crown-trade offices with correspondent accounts take copper at face and return it through those accounts.
 - Raw copper. Copper without a temple seal—foreign ingots, hack-copper, foreign copper coin, a melted piece—is metal, not money. The chapters and the Gar'Melnu buy it by weight at the market price of copper, about one copper gezan of face for a pound of metal, which is what the same pound fetches abroad. Importing raw copper buys nothing it would not buy at home; only the seal turns bronze into face value, and the seal is not for sale.
 - Melting. Melting copper pieces down returns little more than a twentieth of their face, so they stay in circulation as money.
 
@@ -201,13 +201,13 @@ In addition to the metal-piece system, Au'Khelathu maintains a parallel grain-cr
 
 The granaries maintain ledger accounts for individuals, families, businesses, and noble houses; a depositor brings grain at harvest and receives credit in his account, drawing against it through the year for daily rations or for conversion to silver-qelu payment when needed. The exchange rate of grain to silver fluctuates seasonally—grain is cheap at harvest, expensive in the late dry season before the next flood—but is publicly posted at every major granary and is generally honored across the empire on the day of transaction.
 
-For the Northern Fertile Region as a whole, grain-credit accounts are _Khelathi_—held at Khelathi temples and convertible only through Khelathi granaries. Bethuan and Okhárian merchants doing substantial business with Au'Khelathu often maintain grain accounts at temples in cities they trade with regularly; this is a practical commercial arrangement, not a religious one, and the temple priesthood is comfortable serving foreign clients as long as the relationship is correct.
+For the Northern Fertile Region as a whole, grain-credit accounts are _Khelathi_—held at Khelathi temples and convertible only through Khelathi granaries. Bethuan and Okharik merchants doing substantial business with Au'Khelathu often maintain grain accounts at temples in cities they trade with regularly; this is a practical commercial arrangement, not a religious one, and the temple priesthood is comfortable serving foreign clients as long as the relationship is correct.
 
 For game purposes, grain credit is unlikely to be a routine player concern—characters carrying physical coin and using temple chits will handle most transactions. Grain credit becomes relevant for substantial commercial play (a player merchant character) or for stories involving the granary system (famines, granary robberies, harvest-festival politics).
 
 ## Temple Chits
 
-For transactions too large to carry as metal—multi-gezan deals, cross-territory remittance, large credit extensions—the Northern Fertile Region uses temple chits, issued by the [[affiliation-garhalzi|Gar-Hálzi]] and honored at any Gar-Hálzi chapter across Au'Khelathu (and, by correspondent arrangement, at any associated Bethuan trade-house or Okhárian crown-trade office).
+For transactions too large to carry as metal—multi-gezan deals, cross-territory remittance, large credit extensions—the Northern Fertile Region uses temple chits, issued by the [[affiliation-garhalzi|Gar-Hálzi]] and honored at any Gar-Hálzi chapter across Au'Khelathu (and, by correspondent arrangement, at any associated Bethuan trade-house or Okharik crown-trade office).
 
 A chit is a small clay-sealed clay tablet (for small chits) or a sealed papyrus letter (for larger ones), bearing the issuing temple's seal, the value (in silver or gold gezan), the recipient's name or "to bearer," and the temple's registered serial mark. Functionally similar to a Vilérian traveler's note. Theologically different: the chit is an act of the temple, and the small fee the temple charges (typically 2–3% on issuance, comparable to the [[affiliation-tarmex|Tarmeks]]'s 2%) is framed as a votive offering rather than as a commercial commission.
 
@@ -241,7 +241,7 @@ Pieces of metal of unknown provenance—hack-silver, hack-gold, irregular pieces
 
 ### Counterfeit and Debasement
 
-Counterfeiting an attested temple piece is a sacrilegious crime under Khelathi religious law and an ordinary crime under Bethuan and Okhárian civil law. The copper pieces, whose face far exceeds their bronze, are the commonest target. Penalties are severe—the Khelathi convict counterfeiters of attested pieces are ritually executed at the New Year's festival. The temples maintain assay specialists who can detect debased metal in a piece by weight, sound, and (for the most experienced) by visual inspection of the cut edge. Large counterfeit operations are typically detected within months and prosecuted vigorously; small individual counterfeiters operate longer in marginal regions but rarely produce pieces convincing enough to pass repeated assay.
+Counterfeiting an attested temple piece is a sacrilegious crime under Khelathi religious law and an ordinary crime under Bethuan and Okharik civil law. The copper pieces, whose face far exceeds their bronze, are the commonest target. Penalties are severe—the Khelathi convict counterfeiters of attested pieces are ritually executed at the New Year's festival. The temples maintain assay specialists who can detect debased metal in a piece by weight, sound, and (for the most experienced) by visual inspection of the cut edge. Large counterfeit operations are typically detected within months and prosecuted vigorously; small individual counterfeiters operate longer in marginal regions but rarely produce pieces convincing enough to pass repeated assay.
 
 ### Carrying Weight
 
@@ -256,7 +256,7 @@ Like the Vilérian system, large sums of physical metal are heavy. 100 silver ge
 : Bethuan commercial institutions using the system through Khelathi correspondents
 
 [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]
-: Okhárian commercial institutions using the system through Khelathi correspondents
+: Okharik commercial institutions using the system through Khelathi correspondents
 
 [[lore-vylrncrncy|Vilérian Currency]]
 : the parallel currency system used in the western and central **Ankaris** commonwealth; exchanged with Khelathi currency through changers at the trading ports

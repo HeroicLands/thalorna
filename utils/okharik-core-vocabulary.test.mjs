@@ -59,6 +59,25 @@ const beforeRespelling = (text) =>
         (out, [now, was]) => out.replace(new RegExp(`(?<!\\p{L})${now}(?!\\p{L})`, "gu"), was),
         text,
     );
+/** Maps one exact English form to the preservation baseline and requires exactly one occurrence. */
+const swapOnce = (text, current, original) => {
+    assert.equal(text.split(current).length, 2, current);
+    return text.replace(current, () => original);
+};
+/** Maps the three approved English forms to the preservation baseline in their exact contexts. */
+const approvedEnglishForms = (body) => {
+    let out = swapOnce(body, "\n### Proto-Okharik\n", "\n### Proto-Okhárik\n");
+    out = swapOnce(
+        out,
+        "The two halves of [[lore-okharinclt|Okharik]] religious life, the [[lore-zohira|zohira]]",
+        "The two halves of [[lore-okharinclt|Okharin]] religious life, the [[lore-zohira|zohira]]",
+    );
+    return swapOnce(
+        out,
+        "\n**An Okharik person** carries a given name",
+        "\n**An Okharin person** carries a given name",
+    );
+};
 const hash = (o) =>
     createHash("sha256")
         .update(typeof o === "string" ? o : JSON.stringify(o))
@@ -68,8 +87,19 @@ const record = ({ fm, file }) => ({ ...fm, file, package: "thalorna", system: "n
     words = note.fm.data.words;
 const citations = words.filter((w) => ordinary.has(parseWordClass(w.class).base));
 test("Okharik preserves original words, meanings, names, metadata and prose", () => {
+    const people = words.filter((w) => w.form === "okharé");
+    assert.equal(people.length, 1);
+    assert.equal(people[0].gloss, "one of the people, an Okharik");
     assert.equal(
-        hash(words.slice(0, 85).map(({ concept, ...w }) => w)),
+        hash(
+            words
+                .slice(0, 85)
+                .map(({ concept, ...w }) =>
+                    w.form === "okharé" && w.gloss === "one of the people, an Okharik" ?
+                        { ...w, gloss: "one of the people, an Okharin" }
+                    :   w,
+                ),
+        ),
         "3a4d5e1c01e338d080331db94451d0aeb78897c61abd5f39368177cc27b98bdc",
     );
     const originalIds = [
@@ -163,6 +193,10 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
         for (const id of originalIds[i])
             assert([words[i].concept ?? []].flat().includes(id), words[i].form);
     const { fields } = note.fm.data;
+    assert.equal(
+        note.fm.description,
+        "The tongue of the three Okharik city-states, with an archaic sacred register reserved for scripture and temple rites.",
+    );
     assert.equal(originalDigest(note.fm), ORIGINAL_DIGEST);
     assert.equal(
         hash(fields.slice(0, -1)),
@@ -177,7 +211,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     assert.equal(splitFrontmatter(note.raw).body.split(romanNote).length, 2);
     assert.equal(
         hash(
-            beforeRespelling(splitFrontmatter(note.raw).body)
+            beforeRespelling(approvedEnglishForms(splitFrontmatter(note.raw).body))
                 .replace(romanNote + "\n\n", "")
                 .replace(/\*\*Coining\.\*\*[^\n]*\n\n/u, "")
                 .replace(/\n## Everyday speech\n[\s\S]*$/u, ""),
@@ -369,13 +403,17 @@ function historicalRegister(register) {
     }
     return rows;
 }
-/** Digest of the language note's original metadata, with respelled names mapped back. */
+/**
+ * Digest of the language note's original metadata: respelled names and the description's English
+ * name mapped back, and the approved register additions excluded.
+ */
 function originalDigest(fm) {
     const { words: _words, fields: _fields, roman: _roman, ...authored } = fm.data;
     const data = JSON.parse(beforeRespelling(JSON.stringify(authored)));
     data.retired = data.retired.filter((row) => !respelled.some(([, was]) => row.form === was));
     data.register = historicalRegister(data.register);
-    return hash({ ...fm, data });
+    const description = swapOnce(fm.description, "Okharik city-states", "Okhari city-states");
+    return hash({ ...fm, description, data });
 }
 const cloneFm = () => structuredClone(note.fm);
 const approvedNames = new Set(approvedRegisterRows().map((r) => r.name));

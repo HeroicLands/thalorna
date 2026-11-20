@@ -452,7 +452,7 @@ Kiroba stands at 5'11" with a lean but muscular build, weighing around 170 pound
 
 ### Early Life and Family Background
 
-Kiroba hails from the **[[affiliation-shokumatrb|Shókuma Tribe]]** of the [[lore-okharinclt|Okharin]] people, living near the rainforests, where rivers twist through the landscape and connect them to the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. His tribe, known for their fierce independence and spiritual connection to nature, rely heavily on river travel and the bounties of the forest. From a young age, Kiroba was marked by strange visions and a deep sensitivity to the Zohira, the spirits that govern the winds, rivers, and wildlife of the jungle. Under the guidance of the tribe’s elder shamans, Kiroba learned to communicate with these spirits, offering rituals and sacrifices to keep the tribe in balance with the natural world.
+Kiroba hails from the **[[affiliation-shokumatrb|Shókuma Tribe]]** of the [[lore-okharinclt|Okharik]] people, living near the rainforests, where rivers twist through the landscape and connect them to the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. His tribe, known for their fierce independence and spiritual connection to nature, rely heavily on river travel and the bounties of the forest. From a young age, Kiroba was marked by strange visions and a deep sensitivity to the Zohira, the spirits that govern the winds, rivers, and wildlife of the jungle. Under the guidance of the tribe’s elder shamans, Kiroba learned to communicate with these spirits, offering rituals and sacrifices to keep the tribe in balance with the natural world.
 
 ### Initiation as a Shaman
 

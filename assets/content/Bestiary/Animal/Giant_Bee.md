@@ -259,7 +259,7 @@ The hive is one animal with one will, the queen's, carried on scent. Scouts rang
 
 ## What the Villages Do
 
-The Okharin honey-men rob a hive once a year, in the week after the first rains when the queen has moved deep into the comb and the guards are fewest, with smoke from green wood, nets of fine cord over face and hands, and ropes to come down the tree fast. They take a third of the comb and leave the rest, and a hive robbed harder than that moves. The honey and the wax go to the temple-cities, where the wax lights the shrines and the honey is the sweetening in everything the priests eat; a hive is wealth, and the village that holds a grove of them guards the grove. A sting is drawn with a knife-point at once and the wound packed with wet clay, and a man stung three times is carried home to die. A hive that has killed is burned at night, by men who have made their peace with the possibility of not coming back.
+The Okharik honey-men rob a hive once a year, in the week after the first rains when the queen has moved deep into the comb and the guards are fewest, with smoke from green wood, nets of fine cord over face and hands, and ropes to come down the tree fast. They take a third of the comb and leave the rest, and a hive robbed harder than that moves. The honey and the wax go to the temple-cities, where the wax lights the shrines and the honey is the sweetening in everything the priests eat; a hive is wealth, and the village that holds a grove of them guards the grove. A sting is drawn with a knife-point at once and the wound packed with wet clay, and a man stung three times is carried home to die. A hive that has killed is burned at night, by men who have made their peace with the possibility of not coming back.
 
 ## Signs
 

@@ -3,7 +3,7 @@ shortcode: hymnthrfires
 name: {full: The Hymn of the Three Fires, okha: [zhebolu ngen nkaring]}
 type: lore
 subType: literature
-description: "The Okharin creation hymn chanted by senior clergy at the Rite of Three Fires: the one fire before all things, the white fire that looks, the gold fire that feeds, the red fire that eats, and the lamp of three wicks, with the strophe of the Scales that only Kaljekor's written copy keeps."
+description: "The Okharik creation hymn chanted by senior clergy at the Rite of Three Fires: the one fire before all things, the white fire that looks, the gold fire that feeds, the red fire that eats, and the lamp of three wicks, with the strophe of the Scales that only Kaljekor's written copy keeps."
 tags: [draft, okharis]
 data:
   packFolder: settinglore
@@ -22,7 +22,7 @@ data:
 # terran_analog: "The Rigvedic fire hymns and the Avestan Yasna for a liturgy addressed to fire itself; the creation hymn that begins with neither being nor non-being; Sahelian pastoral practice for the dry-season grass burn and the soured milk given at the edge of the camp. Departs: the fire is one and is never a person, the three aspects are three cities, and no creator speaks."
 ---
 
-The senior clergy of [[affiliation-nkaruthar|Nkaru'thar]] chant **The Hymn of the Three Fires**, _zhebolu ngen nkaring_, at [The Rite of Three Fires]{.name data-type="lore/custom"}. Three fires are laid in a triangle on the floor of a temple court, white, gold and red, and lit together from one ember carried out of the sanctuary. The priests chant while the fires burn, and the readers of the flame stand outside the triangle and watch how the three burn, because the pattern of the flames is read as prophecy for the coming season. It is chanted in the temple's archaic register, which the priests hold by heart and nobody outside the priesthood learns. It is the creation hymn the faith names in its teaching, and it is the nearest thing [[lore-okharinclt|the Okharins]] have to a single account of how the world began and how it ends.
+The senior clergy of [[affiliation-nkaruthar|Nkaru'thar]] chant **The Hymn of the Three Fires**, _zhebolu ngen nkaring_, at [The Rite of Three Fires]{.name data-type="lore/custom"}. Three fires are laid in a triangle on the floor of a temple court, white, gold and red, and lit together from one ember carried out of the sanctuary. The priests chant while the fires burn, and the readers of the flame stand outside the triangle and watch how the three burn, because the pattern of the flames is read as prophecy for the coming season. It is chanted in the temple's archaic register, which the priests hold by heart and nobody outside the priesthood learns. It is the creation hymn the faith names in its teaching, and it is the nearest thing [[lore-okharinclt|the Okhariks]] have to a single account of how the world began and how it ends.
 
 It has three parts, one for each aspect of the fire: the white fire of [[place-zarhanis|Zarhanis]], which looks; the gold fire of [[place-kaljekor|Kaljekor]], which feeds; and the red fire of [[place-vuthraka|Vuthraka]], which eats. Its lines go in pairs, the second taking up the first, and a refrain of four lines closes every turn of it. The refrain is the part a herdsman knows, because he hears it from outside the court at the Rekindling, and it is the part every priest says the same way in all three cities. The rest varies a little from city to city, and the priests of each city regard the others' variants as small and wrong.
 

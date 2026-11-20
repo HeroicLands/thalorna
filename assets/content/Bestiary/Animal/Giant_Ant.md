@@ -223,7 +223,7 @@ A colony lives by scent. The queen's smell holds it together, the workers lay tr
 
 ## What the Villages Do
 
-The Okharin village tribes dig no field within a long bowshot of a mound and burn a trail that comes too close to a house. A nest that has grown large enough to send columns into the village is burned out, which takes the whole village a day, with brush piled on the mound and the galleries smoked, and the soldiers that come out of the smoke killed with long-handled hoes; people die at it. The eggs, dug from a small nest in the dry season, are eaten and traded as a delicacy to the temple-cities, and the men who dig them work fast and lose fingers. The shell of a soldier is worked into light plates for a hunter's forearms and shins.
+The Okharik village tribes dig no field within a long bowshot of a mound and burn a trail that comes too close to a house. A nest that has grown large enough to send columns into the village is burned out, which takes the whole village a day, with brush piled on the mound and the galleries smoked, and the soldiers that come out of the smoke killed with long-handled hoes; people die at it. The eggs, dug from a small nest in the dry season, are eaten and traded as a delicacy to the temple-cities, and the men who dig them work fast and lose fingers. The shell of a soldier is worked into light plates for a hunter's forearms and shins.
 
 ## Signs
 

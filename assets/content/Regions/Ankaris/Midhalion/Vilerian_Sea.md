@@ -45,7 +45,7 @@ The sea is a long east-west ellipse, wider at its eastern and western ends and n
 | Eastern  | The [[affiliation-kngdmmrdd\|Kingdom of Amradad]], and off it the [[affiliation-cnfdrtntrzlnstts\|Taruzelian]] archipelago                                                             |
 | Southern | The [[affiliation-empireakhlth\|Empire of Au'Khelathu]], [[affiliation-okharis\|Okharis]] and the [[affiliation-mtrrchybth\|Matriarchy of Bethua]]                                     |
 
-Hundreds of islands stud the sea. The largest, the archipelago of the [[place-taruzelrgn|Taruzel Region]] in the east, carries substantial populations and polities of its own, and a lone island lies in the western basin off the Okharian coast. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all. [[place-eilwith|Eilwìth]] (the Misty Isle) is not among them: it lies in the outer ocean, far northwest of the western strait.
+Hundreds of islands stud the sea. The largest, the archipelago of the [[place-taruzelrgn|Taruzel Region]] in the east, carries substantial populations and polities of its own, and a lone island lies in the western basin off the Okharik coast. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all. [[place-eilwith|Eilwìth]] (the Misty Isle) is not among them: it lies in the outer ocean, far northwest of the western strait.
 
 The **western strait**, between [[place-provenzrgn|Provénzia]] and the Zerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Midhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
 
@@ -75,7 +75,7 @@ The eastern sea belongs to the Taruzelian fleet, and the Vilérian navy cannot p
 
 ## Trade
 
-Nearly every commodity in Thalorna that travels any real distance crosses the Vilérian Sea at some point: [[miscgear-vylsteel|Vilérian Steel]] and wine, Helionite olive oil and philosophical manuscripts, Taruzelian spices and textiles, Provénzian art and luxuries, Tarvenan grain, Khelathi papyrus, grain and gold, Okhárian bronze and worked metal, Bethuan textiles and leather, and the far-eastern silk, porcelain, tea and jade that arrive through Taruzelian and Bizarian middlemen.
+Nearly every commodity in Thalorna that travels any real distance crosses the Vilérian Sea at some point: [[miscgear-vylsteel|Vilérian Steel]] and wine, Helionite olive oil and philosophical manuscripts, Taruzelian spices and textiles, Provénzian art and luxuries, Tarvenan grain, Khelathi papyrus, grain and gold, Okharik bronze and worked metal, Bethuan textiles and leather, and the far-eastern silk, porcelain, tea and jade that arrive through Taruzelian and Bizarian middlemen.
 
 Moving bulk goods across the sea is usually cheaper than moving them overland for a fraction of the distance, so inland polities a thousand miles from the shore are priced out of its markets. That arithmetic is why Midhalión holds together as one region at all.
 

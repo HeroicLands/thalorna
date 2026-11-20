@@ -19,7 +19,7 @@ data:
 
 On the grazing lands east of [[place-zarhanis|Zarhanis]] stands a ruined temple estate that the clans avoid and the temple does not name. A fire burns beneath its granary that gives no light, and the cattle that stray near it come out as ash on four legs. The party goes in for gold, for a hire, for a captain's order or for a herd, and finds that the wrong done at [[place-shuremis|Shuremis]] is older than the fire, and that the fire is only the wrong's answer.
 
-Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [[lore-okharinclt|Okharin]]: the Flame renews only what is given to it, a person put out of the Flame is a shurem, and the worst a family can say of a grazing right is that it was yielded once.
+Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [[lore-okharinclt|Okharik]]: the Flame renews only what is given to it, a person put out of the Flame is a shurem, and the worst a family can say of a grazing right is that it was yielded once.
 
 ### The Truth Behind the Ash
 
@@ -52,7 +52,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 - _Force._ A running fight with the ash-kine leaves a party blinded and scorched.
 - _Stealth._ The herd is slow in the afternoon, when it drifts toward the granary, and nearly still at noon. A party that moves between the animals with its lamps covered and its breath held reaches the pens.
-- _Guile._ Count the herd. Okharin herders count what they own, and the ash-kine were the temple's herd. A character who counts them aloud in the herders' manner, one stroke to each, finds the beasts stand for the length of the count.
+- _Guile._ Count the herd. Okharik herders count what they own, and the ash-kine were the temple's herd. A character who counts them aloud in the herders' manner, one stroke to each, finds the beasts stand for the length of the count.
 - _Parley._ Re-cut the flame-mark on the cairn with a chisel and set an ashmark on the stone. The cairn answers. A Keeper of a Cairn or a shaman does it best, and the herd goes still while the [[lore-zohira|Zohira]]'s warning stands again at the gate.
 
 **Clues and rewards.** The bull's lamp is a temple lamp, of the kind issued to a granary, and bears a Zarhanis steward's mark. Zhonko will say that a man with a cold lamp counts the herd at dusk. A re-cut cairn marks the way back as a refuge.
@@ -63,13 +63,13 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 
 ### Scene Two: The Yard of the Cast-Out
 
-**Purpose.** To give the shurem a face, to test the party's manners by the Okharin standard and to offer an easier road into the granary.
+**Purpose.** To give the shurem a face, to test the party's manners by the Okharik standard and to offer an easier road into the granary.
 
 **Situation.** The bondsmen's yard is a ring of sunken floors roofed with hides and reeds, a hearth at the center. About twenty people live there: shurem, descendants of those sealed in the pens, and the cast-out who joined them. They keep a hearth that was kindled from no temple fire. They have no ashmark at any passage, and they have buried their dead in the cattle-ground's ash.
 
 **NPCs and threats.**
 
-- [Kwenda]{.name data-type="being/npc"}. A woman of age, the yard's elder. She keeps the hearth, speaks for the yard and holds the soured-milk bowl that is the Okharin test of a stranger. She is lean, direct and tired, and does not say what she thinks of Talitho. She fears him, and he feeds them.
+- [Kwenda]{.name data-type="being/npc"}. A woman of age, the yard's elder. She keeps the hearth, speaks for the yard and holds the soured-milk bowl that is the Okharik test of a stranger. She is lean, direct and tired, and does not say what she thinks of Talitho. She fears him, and he feeds them.
 - **The yard's people.** Frightened, proud and reserved. They give nothing and take nothing, except from those who stand by the soured milk.
 - **Talitho's watchers.** Two or three of the yard's young men, who carry the fire's cold lamp from the pens at dusk. They are not dangerous alone. They run to Talitho the moment a stranger is proved hostile.
 
@@ -171,7 +171,7 @@ Read [[place-shuremis|Shuremis]] first. The adventure assumes the creed of the [
 [[place-shuremis|Shuremis]]
 : the place
 
-[[lore-okharinclt|Okharin]]
+[[lore-okharinclt|Okharik]]
 : the Flame, the shurem and the grazing
 
 [[affiliation-nkaruthar|Nkaru'thar]]

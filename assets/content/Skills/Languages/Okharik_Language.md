@@ -3,7 +3,7 @@ shortcode: okharclng
 name: {full: Okharik Language}
 type: skill
 subType: language
-description: "The tongue of the three Okhari city-states, with an archaic sacred register reserved for scripture and temple rites."
+description: "The tongue of the three Okharik city-states, with an archaic sacred register reserved for scripture and temple rites."
 tags: []
 data:
   roman: "abcdefghiklmnoprstuvwyzáéíóúë0123456789()–-j'"
@@ -300,7 +300,7 @@ data:
     - form: okharé
       class: n
       field: Kingdom, clan and kin
-      gloss: one of the people, an Okharin
+      gloss: one of the people, an Okharik
       built: [okhár-, -é]
     - form: okharin
       class: adj
@@ -5149,7 +5149,7 @@ Okharik predominantly follows a **Subject-Verb-Object (SVO)** order in declarati
 
 ## Historical Development
 
-### Proto-Okhárik
+### Proto-Okharik
 
 Okharik is an isolate language with uncertain external relationships. Some scholars propose ancient connections to languages of the far south (possibly related to [[skill-nyalbnlng|Nyáluban]] or other Central Zerathian languages), but evidence is sparse and speculative. Its isolate status has made it a focus of intense linguistic study, as it may represent a linguistic refuge population.
 
@@ -5578,7 +5578,7 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 
 ## Okharik Lexicon {#lexicon}
 
-The common greeting of Okharis, _Okharé, ne thalé_, hails a stranger as one of the people before it wishes him well. The two halves of [[lore-okharinclt|Okharin]] religious life, the [[lore-zohira|zohira]] who are dealt with and [[lore-nkaruthardty|Nkaru'thar]], the Eternal Flame, who is worshipped, share one tongue, and this page is its word-hoard: the stems the clans and the cities use, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in Okharis.
+The common greeting of Okharis, _Okharé, ne thalé_, hails a stranger as one of the people before it wishes him well. The two halves of [[lore-okharinclt|Okharik]] religious life, the [[lore-zohira|zohira]] who are dealt with and [[lore-nkaruthardty|Nkaru'thar]], the Eternal Flame, who is worshipped, share one tongue, and this page is its word-hoard: the stems the clans and the cities use, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in Okharis.
 
 An Okharik stem names an act, and an ending says what part the act plays. _Korth-_ is to keep watch; _korthari_ is the guardian who keeps it, and _kortharira_ is a company of them. The same handful of endings is laid on every stem, and a title is two words: the office, then the thing it serves, set in the _-ing_ form that marks belonging. _Korthari Zohiring_ is the Guardian of the Spirits; _Korthari Nkaring_ is the Warden of the Flame.
 
@@ -5665,7 +5665,7 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**An Okharin person** carries a given name and a tribe: [[being-kirobashkm|Kiroba of the Shókuma]] is Kiroba, of the [[affiliation-shokumatrb|Shókuma tribe]], and the tribe is named in the reader's tongue as _of the_. A man's given name commonly closes on _-o_ or _-u_, and a woman's on _-a_ or _-i_; the name lists above hold the names in use.
+**An Okharik person** carries a given name and a tribe: [[being-kirobashkm|Kiroba of the Shókuma]] is Kiroba, of the [[affiliation-shokumatrb|Shókuma tribe]], and the tribe is named in the reader's tongue as _of the_. A man's given name commonly closes on _-o_ or _-u_, and a woman's on _-a_ or _-i_; the name lists above hold the names in use.
 
 **A tribe** is named for its founder or its ground, with no ending of its own: _Shókuma_, _Magara_, _Tálumeng_. **A city or a land** takes _-is_ when it is a seat: _Okharis_, _Zarhanis_.
 

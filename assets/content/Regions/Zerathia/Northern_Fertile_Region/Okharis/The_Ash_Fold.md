@@ -16,11 +16,11 @@ Shuremis was a temple estate of the kind the temples hold across the grazing cou
 
 The grain-pits under the granary floor are filled to the lip with fine gray ash. The pens beyond them are empty of cattle that anyone owns. The cattle that stand in them have the shape of cattle and the color of a banked hearth, and they do not eat. They face the granary all night, and at dawn they walk out onto the grazing and stand in the herders' way.
 
-Under the granary there is a fire. It was not kindled from any ember carried from a temple. It burns without light, and a flame brought into its hall leans toward it and goes out. The Okharin creed is that the Flame renews only what is given to it. This fire is the plain reverse of the creed: it takes and gives nothing back, and the herds that stray within its reach come out as ash on four legs.
+Under the granary there is a fire. It was not kindled from any ember carried from a temple. It burns without light, and a flame brought into its hall leans toward it and goes out. The Okharik creed is that the Flame renews only what is given to it. This fire is the plain reverse of the creed: it takes and gives nothing back, and the herds that stray within its reach come out as ash on four legs.
 
 The people who keep it are the **shurem**, the ash: those put out of the Flame, to whom no temple gives an ashmark at a passage and whose fires are not reckoned descended from [[miscgear-emberfirst|The First Ember]]. They live in the old bondsmen's yard. They are not a tribe and they are not a clan. They are what is left when both have refused you.
 
-## What the Okharin Say
+## What the Okharik Say
 
 - **The herders** say the ground is spoiled and that the zohira have withdrawn their warnings from it. A cairn with the mark cut out is a cairn that answers nothing. They name the ash-cattle as the temple's wrong done to the grazing, and they avoid the word Flame when they say it.
 - **The Granary-Keepers** of Zarhanis hold that the estate was struck from the rolls and that its stores were spent in a hard year. They say nothing about its people.
@@ -44,7 +44,7 @@ The herders' track from Zarhanis crosses open grazing for two days on horse. The
 [[place-okharisrgn|Okharis Region]]
 : the country it lies in
 
-[[lore-okharinclt|Okharin]]
+[[lore-okharinclt|Okharik]]
 : the Flame, the shurem and the grazing
 
 [[affiliation-nkaruthar|Nkaru'thar]]

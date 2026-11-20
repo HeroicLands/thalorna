@@ -28,7 +28,7 @@ The **Pewaye** are the edge-people, one of the four traditions of the [[lore-bik
 
 ## Where They Live
 
-Pewaye tribes live along the margins of the [[place-cntrlrnfrsts|Central Rainforests]], where the forest breaks into grass. In the north their neighbors are [[lore-okharinclt|Okharin]] herders, who bring their cattle to the forest's edge in the dry season. In the south their neighbors are the [Sengala]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba]], the leopard-clan (see [[affiliation-nyalbleop|Leopard Totem]]) that trades north across the grass-and-tree belt.
+Pewaye tribes live along the margins of the [[place-cntrlrnfrsts|Central Rainforests]], where the forest breaks into grass. In the north their neighbors are [[lore-okharinclt|Okharik]] herders, who bring their cattle to the forest's edge in the dry season. In the south their neighbors are the [Sengala]{.name data-type="affiliation/lineage"} of the [[affiliation-nylbtrblntn|Nyáluba]], the leopard-clan (see [[affiliation-nyalbleop|Leopard Totem]]) that trades north across the grass-and-tree belt.
 
 ## How They Live
 
@@ -89,7 +89,7 @@ What the outsider does not see is that the leader holds that place only while th
 [[skill-ekpelulng|Ekpelu]]
 : the tongue
 
-[[lore-okharinclt|Okharin]]
+[[lore-okharinclt|Okharik]]
 : the northern neighbors
 
 [[affiliation-nyalbleop|Leopard Totem]]
