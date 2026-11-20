@@ -19,7 +19,7 @@ The Varokh of [[place-skathwald|Skathwald]] call the marshlands of the Grukar co
 
 ## The Land
 
-The marsh is passable on foot only when it freezes in deep winter or in a few weeks of dry summer; otherwise it is roadless. The slow brown rivers of the Grukar country rise in it and wind out toward the grain country of [[place-velanthrgn|Velanthia]].
+The marsh is passable on foot only when it freezes in deep winter or in a few weeks of dry summer; otherwise it is roadless. The slow brown rivers of the Grukar country rise in it and wind out toward the grain country of [[place-velanthrgn|Velanthia Region]].
 
 The nests inside are reached by canoe, by cause-walks of sunken logs such as [[place-grimhreth|Grimhreth]], or by paths no outsider can see.
 

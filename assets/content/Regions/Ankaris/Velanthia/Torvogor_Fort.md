@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [velanthrgn], population: 0, packFolder
 
 ## Overview {#overview}
 
-Torvogor Fort, the _Torvogor tverad_, is one of the stone forts that the prince of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] has raised on the edge of the [[place-grkrhlmrgn|Grukarholm Region]] country. It stands on a rise over a river that comes out of the marsh and it watches the stretch of bank where raiding canoes come ashore at [[place-zvekbregad|Zvek Bregad]].
+Torvogor Fort, the _Torvogor tverad_, is one of the stone forts that the prince of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] has raised on the edge of the [[place-grkrhlmrgn|Grukarholm Region]] country. It stands on a rise over a river that comes out of the marsh and it watches the stretch of bank where raiding canoes come ashore at [[place-zvekbregad|Zvek Bregad]], a landing some hours' travel from the fort.
 
 ## Inside
 
-The fort is stone, with a gate toward the river and a hall for the garrison. A bell hangs on the hill beside it with a signal fire laid beneath. A village of the princedom lies under the walls.
+The fort is stone, with a gate toward the river and a hall for the garrison. A bell hangs on the hill beside it with a signal fire laid beneath. A village of the princedom lies under the walls. The garrison and the village learn of canoes at the landing only when the fire is lit or a runner arrives, so the delay lies between the landing and the fort; once the bell rings and the fire burns, both know at once.
 
 ## Who Is There
 
@@ -22,7 +22,7 @@ The warden is appointed by the prince and answers to his captain of the forts, w
 
 ## The Present {#present}
 
-Both the grain and the silver come late, and the garrison is owed several months. The warden answers by selling a fur hunter a night's passage past the fort and a villager a day's leave. The bell and the fire on the hill are what the village has between itself and a raiding party.
+Both the grain and the silver come late, and the garrison is owed several months. The warden answers by selling a fur hunter a night's passage past the fort and a villager a day's leave. The bell and the fire on the hill are what the village has between itself and a raiding party, and they are worth only as much as the watch at the landing can get word to the hill.
 
 ## Hooks {#hooks}
 

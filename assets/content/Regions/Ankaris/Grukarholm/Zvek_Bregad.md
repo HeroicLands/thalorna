@@ -15,7 +15,7 @@ data:
 
 ## Overview {#overview}
 
-**Zvek Bregad**, the bell landing, is the name the river-folk of [[place-velanthrgn|Velanthia]] give a bank where the slow brown rivers of [[place-grkrhlmrgn|Grukarholm Region]] open toward their grain country; the bell is the one that hangs over it. A Velanthian landing is where boats take on cargo; this one is where raiding parties come ashore, in summer, in war-canoes.
+**Zvek Bregad**, the bell landing, is the name the river-folk of [[place-velanthrgn|Velanthia Region]] give a bank where the slow brown rivers of [[place-grkrhlmrgn|Grukarholm Region]] open toward their grain country; the bell is the one that hangs over it. A Velanthian landing is where boats take on cargo; this one is where raiding parties come ashore, in summer, in war-canoes.
 
 ## The Land
 
@@ -31,11 +31,11 @@ A Grukar party that lands does not parley, does not ransom what it takes and doe
 
 ## Converging Interests {#present}
 
-The landing is watched from the hill, and what can be done against a party that comes ashore depends on the hours between the signal fire and the fort. The village beneath the fort gives a man to the watch in turn, and at dusk, when the canoes come down, that watch is one man. Fur hunters pass the landing on their way to and from the margin.
+The landing lies some hours' travel from the fort that watches it, and the bell and signal fire stand on the hill beside the fort, not at the bank. The fire warns the garrison and the village the moment it is lit, so the delay lies between the landing and the fort: the village beneath the fort gives a man to the watch in turn, and at dusk, when the canoes come down, that one man must see them and carry the word, or reach the hill, before anything is lit. What can be done against a party that comes ashore depends on how long that takes. Fur hunters pass the landing on their way to and from the margin.
 
 ## Hooks {#hooks}
 
-- Canoes come down the river at dusk and the one man on the watch lights the fire, but the village is at its own work and the fort is hours away.
+- Canoes come down the river at dusk and the one man on the watch at the landing sees them but is hours from the hill, so the bell and the fire are not yet lit, and the village is at its own work.
 - A fur hunter coming out of the margin by the river must pass the landing, and the canoes of a raiding party lie on the bank.
 
 ## See Also {#see-also}
