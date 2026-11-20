@@ -77,6 +77,10 @@ The Wohou of Rinjai serve the house for stipends in bales, and the retainers are
 
 The muster is 650 men and 25 ships. The ships lie at [Jawo]{.name data-type="place/settlement"}, and they are the raiders of the Nine: they cross the strait to the southern coast of the [[affiliation-tantsouempr|Empire of Tantsou]], which the lords of the Nine count their right, and the empire counts House Rinjai its nemesis. Hoja adds his 650 men and 25 ships to Shuiwojai's 1,950 and 60, so the Strait bloc stands at 2,600 men and 85 ships.
 
+## History {#history}
+
+Rinjai is sworn to Shuiwojai, and the two houses form the Strait bloc that the [[lore-empseatwar|War of the Empty Seat]] left standing ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Rinjai is sworn to [[affiliation-shuiwojaidmn|Shuiwojai]] and allied with it, and the two houses together form the Strait bloc, which wants Shuiwojai Henzo named Teng Ja. [[affiliation-hojujaidmn|Hojujai]] is the rival of Shuiwojai.

@@ -26,6 +26,10 @@ The town lives on the road. Carters, ferrymen, innkeepers and the clerks of the 
 
 Every house keeps an envoy in the town, since a message for the Emperor passes through Kowu first.
 
+## History {#history}
+
+Kowu is the seat of the house that stood with Hojujai for the regency in the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## See Also {#see-also}
 
 [[affiliation-muwojaidmn|Muwojai Domain]]

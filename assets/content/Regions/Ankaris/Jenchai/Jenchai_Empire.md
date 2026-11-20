@@ -86,7 +86,7 @@ Jenchai's culture is shaped by its Tantsou origins—the caste structures, the w
 
 Jenchai maintains an Emperor—the **Rongleng Tengzhei** ("Son of Heaven of Ten Thousand Dawns")—who claims an unbroken line of descent from the last imperial governor who led the secession. The Emperor performs elaborate seasonal rituals, receives foreign ambassadors in his palace above [[place-lengwou|Lengwou]], and serves as the ceremonial heart of the nation. His court is a pageant of ancient protocol and exquisite aesthetics.
 
-In practice, the Emperor commands almost nothing. He has no standing army, controls no territory beyond the imperial capital district, and depends on the great lords for his household's upkeep. He is nineteen years old, styled [Weileng]{.name data-type="being/npc"} in his reign, and was enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. The court's real function is as a stage for the lords to compete for prestige and proximity to divine legitimacy—being named Celestial Minister or receiving a court title carries immense social weight, even though the titles confer no actual authority. The Emperor's power lies entirely in this ability to grant or withhold honor, a currency the warrior lords value above gold.
+In practice, the Emperor commands almost nothing. He has no standing army, controls no territory beyond the imperial capital district, and depends on the great lords for his household's upkeep. He is nineteen years old, styled [Weileng]{.name data-type="being/npc"} in his reign, and was enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [[lore-empseatwar|War of the Empty Seat]]. The court's real function is as a stage for the lords to compete for prestige and proximity to divine legitimacy—being named Celestial Minister or receiving a court title carries immense social weight, even though the titles confer no actual authority. The Emperor's power lies entirely in this ability to grant or withhold honor, a currency the warrior lords value above gold.
 
 ## The Great Lords
 
@@ -94,7 +94,7 @@ True power in Jenchai resides with the **Dauzhwo** ("Great Lords"), who each hol
 
 Below the Dauzhwo sit the **Shwizhwo** ("Lesser Lords"), minor feudal holders who pledge loyalty to a Great Lord in exchange for land and protection. This cascading web of personal oaths and obligations holds the realm together—barely. Feuds between the Great Lords are constant, ranging from trade wars and border skirmishes to full-scale campaigns that can engulf entire provinces. The Emperor occasionally attempts to mediate, but his rulings carry weight only when backed by a Great Lord willing to enforce them.
 
-The current balance of power rests on three or four Great Lords of roughly equal strength, none willing to risk open war against a coalition of the others. This equilibrium is fragile, and every generation or so it collapses into a period of open warfare before a new balance emerges. The last collapse was the War of the Empty Seat, 709–712 AF.
+The current balance of power rests on three or four Great Lords of roughly equal strength, none willing to risk open war against a coalition of the others. This equilibrium is fragile, and every generation or so it collapses into a period of open warfare before a new balance emerges. The last collapse was the [[lore-empseatwar|War of the Empty Seat]], 709–712 AF.
 
 Eight houses hold the eight domains on the great island and the lesser. Each domain is named for its house, and each house for a feature of its mountain:
 
@@ -132,13 +132,17 @@ The Emperor grants four things, and each costs him nothing:
 
 **Teng Ja**, Heaven's Blade, is the Emperor's sword-arm: the holder of the force the Emperor has none of. The Emperor confers the office on a Dauzhwo who has brought enough of the others to heel, and an Emperor who refuses a lord with the realm in his fist does not refuse long. The holder speaks for the Emperor to the other lords, keeps the peace between them by force, and receives the rice of the court estates to forward, which makes the Emperor dependent on him. The office lapses with its holder and is not inherited.
 
-Since 709 AF it stands vacant. The last Teng Ja, [Hojujai Henwo]{.name data-type="being/npc"}, held it from 693 AF until his death, when his son was a child; Shuiwojai and Wojai pressed the court not to confer it on a regency, and the war that followed ended in the present balance. The race for the office is the realm's central contest.
+Since 709 AF it stands vacant. The last Teng Ja, [Hojujai Henwo]{.name data-type="being/npc"}, held it from 693 AF until his death ([[lore-hstryjenchai|The History of Jenchai]]). The race for the office is the realm's central contest.
 
 ## Honor and Pride
 
 Personal honor is the organizing principle of Jenchai society, more deeply embedded even than in Tantsou's warrior caste. A lord's word is sacred; broken oaths are remembered for generations and can poison alliances centuries later. Insults—real or perceived—demand satisfaction, and the challenge and the duel each follow a fixed form.
 
 The Jenchai use the mainland's word for the ordered death, [Rwising]{.name data-type="lore/custom"} ("Ritual Death"), for every ritual death, ordered or chosen, and it carries a different weight on the islands. Where [[lore-tseising|Tseising]], the mainland's chosen death, is primarily an act of atonement or defiance, Rwising in Jenchai can express protest, preserve a secret, demonstrate loyalty to a fallen lord, or simply assert that one's honor is more precious than one's life. A lord who orders a subordinate's Rwising wields that power carefully, knowing it reflects on his own judgment as much as on the condemned.
+
+## History {#history}
+
+The Emperors of the Nine descend from the imperial governor who led the island province out of the Empire of Tantsou ([[lore-jenchaiscs|The Secession of Jenchai]]). Within the realm the great events are the sixteen years in which [Hojujai Henwo]{.name data-type="being/npc"} held the office of Teng Ja, 693 to 709 AF, and the war over the office after his death ([[lore-hstryjenchai|The History of Jenchai]]; [[lore-empseatwar|The War of the Empty Seat]]).
 
 ## Relationship with Tantsou
 

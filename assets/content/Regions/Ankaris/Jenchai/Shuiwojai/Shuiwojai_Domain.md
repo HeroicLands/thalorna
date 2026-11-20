@@ -78,9 +78,13 @@ The [Besheju]{.name data-type="affiliation/lineage"} keep the salt records and h
 
 The muster is 1,950 men and 60 ships. The yards at [Kowo]{.name data-type="place/settlement"} build and refit the fleet, and the ships keep the water between Rojai and the mainland coast; the raids on Tantsou's shore that the lords of the Nine count as their right sail from Rojai among other harbors. The [[affiliation-tantsouempr|Empire of Tantsou]] counts House Shuiwojai its nemesis. [Rinjai Hoja]{.name data-type="being/npc"}, the lord of the lesser island, is sworn to Henzo and adds 650 men and 25 ships, so the Strait bloc stands at 2,600 men and 85 ships.
 
+## History {#history}
+
+Shuiwojai stood with Wojai against conferring the office of Teng Ja on a regency, and the quarrel became the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
-For three years Henzo's silver has covered the shortfall in the court's budget, and the court is in his debt. The lord of Rojai is the rival of [[affiliation-hojujaidmn|Hojujai]], the house of the last Teng Ja: in 709 AF Shuiwojai and [[affiliation-wojaidmn|Wojai]] pressed the court not to confer the office on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and [[affiliation-muwojaidmn|Muwojai]] wants the office for the Hojujai heir when he comes of age, or for nobody.
+For three years Henzo's silver has covered the shortfall in the court's budget, and the court is in his debt. The lord of Rojai is the rival of [[affiliation-hojujaidmn|Hojujai]], the house of the last Teng Ja: the [[lore-empseatwar|War of the Empty Seat]] began over the office. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and [[affiliation-muwojaidmn|Muwojai]] wants the office for the Hojujai heir when he comes of age, or for nobody.
 
 ## The Sealed Letter
 

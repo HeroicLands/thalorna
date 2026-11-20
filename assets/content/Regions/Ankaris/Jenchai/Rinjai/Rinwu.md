@@ -26,6 +26,10 @@ The town lives on the fleet and on what the fleet brings home. Shipwrights, rope
 
 Hoja's judges, chosen from his retainers, hear the town's cases.
 
+## History {#history}
+
+Rinwu is the seat of the house sworn to Shuiwojai, which stands in the Strait bloc that the [[lore-empseatwar|War of the Empty Seat]] left behind ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## See Also {#see-also}
 
 [[affiliation-rinjaidmn|Rinjai Domain]]

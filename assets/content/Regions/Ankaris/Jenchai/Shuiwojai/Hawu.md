@@ -26,6 +26,10 @@ The town lives on the fleet and the salt. Shipwrights, sailmakers, rope-walkers 
 
 Henzo's judges, chosen from his retainers, sit in the hall and hear the cases of the town and the harbor. When the strait fleet sails, it sails from Hawu's mole, and the lord's envoy to the [Dawn Rite]{.name data-type="lore/custom"} on [[place-zojai|Zojai]] leaves from the same quay.
 
+## History {#history}
+
+Hawu is the seat of the lord whose house pressed the court against the regency, and whose silver and ships carried the Strait's side of the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## See Also {#see-also}
 
 [[affiliation-shuiwojaidmn|Shuiwojai Domain]]

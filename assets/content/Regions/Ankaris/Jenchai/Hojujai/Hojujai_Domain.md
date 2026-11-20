@@ -77,9 +77,13 @@ Rewei holds the keys of the castle and its granary and decides in her son's name
 
 The muster is 1,750 men and 20 ships. When the mountain erupts and a [[being-pyrclsm|Pyroclasm]] walks out of it, the retainers clear the villages in its path, and the lord's sorcerers and the shrine's priests try to turn it toward the sea; the muster is called out for it as it is for a war.
 
+## History {#history}
+
+The house held the office of Teng Ja for sixteen years, 693 to 709 AF, under [Hojujai Henwo]{.name data-type="being/npc"}, and its retainers are his household ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
-Hojujai and [[affiliation-muwojaidmn|Muwojai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. [[affiliation-shuiwojaidmn|Shuiwojai]] is the rival: in 709 AF Shuiwojai and [[affiliation-wojaidmn|Wojai]] pressed the court not to confer the office on a regency, which was the quarrel that began the [War of the Empty Seat]{.name data-type="lore/history"}.
+Hojujai and [[affiliation-muwojaidmn|Muwojai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. [[affiliation-shuiwojaidmn|Shuiwojai]] is the rival: it pressed the court against the regency, and the quarrel began the [[lore-empseatwar|War of the Empty Seat]].
 
 ## The Mountain's Verdict
 

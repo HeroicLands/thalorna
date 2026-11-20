@@ -22,7 +22,7 @@ Lengwou (the Dawn Court) is the capital of [[affiliation-jenchaiempr|Jenchai]], 
 
 ## The Court
 
-The Emperor is [Weileng]{.name data-type="being/npc"} (Jade Dawn), nineteen years old, enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. He is styled _Rongleng Tengzhei_, Son of Heaven of Ten Thousand Dawns. His father, the **Retired Emperor**, lives in Lengwou and keeps a household that the court cannot afford. The Emperor has a household guard and no other force.
+The Emperor is [Weileng]{.name data-type="being/npc"} (Jade Dawn), nineteen years old, enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [[lore-empseatwar|War of the Empty Seat]]. He is styled _Rongleng Tengzhei_, Son of Heaven of Ten Thousand Dawns. His father, the **Retired Emperor**, lives in Lengwou and keeps a household that the court cannot afford. The Emperor has a household guard and no other force.
 
 The court is a pageant of ancient protocol, and its business is honor. The Emperor issues each Dauzhwo's patent of the mountain on every succession, and he grants the court dignities: **Celestial Minister**, **Caste-Registrar** and **Censor of Purity** confer precedence and no function, while **Omen-Reader** and **Keeper of the Sacred Texts** remain working posts of the Tanchei, the first with its observatory on [[place-zijai|Zijai]]. He holds the [Dawn Rite]{.name data-type="lore/custom"} on Zojai each New Year, where the order in which the lords' envoys stand is the year's political map. He also confers the office of **Teng Ja**, which stands vacant.
 
@@ -37,6 +37,10 @@ Silver from [[affiliation-shuiwojaidmn|Shuiwojai]] has covered the gap for three
 Lengwou lives on the court. Its 12,000 people are the Emperor's household and guard, the Tanchei of the shrine and the offices, the craftsmen who serve the palace, and the inns and lodgings of the envoys, who come from every house for the Dawn Rite and stay for months to bargain over their places. The town is poor beside the castle towns of the lords, since it has no fleet, mine or harbor of its own, and the rice that feeds it arrives through the granaries of the houses.
 
 The Emperor's judges hear the town's cases, and a village of the district settles its own quarrels through its headman. Foreign ambassadors are received at Lengwou and go no farther, since the upper slope of Zojai is closed to them.
+
+## History {#history}
+
+Lengwou is the ground the quarrel of the [[lore-empseatwar|War of the Empty Seat]] was about, and the peace that ended it was settled here: the Emperor abdicated and took vows, and he keeps his household in the town below the palace. His son Weileng was enthroned on Zojai in 712 AF, and the capital has held two courts since, a young Emperor and his father in a household the treasury cannot afford ([[lore-hstryjenchai|The History of Jenchai]]).
 
 ## See Also {#see-also}
 

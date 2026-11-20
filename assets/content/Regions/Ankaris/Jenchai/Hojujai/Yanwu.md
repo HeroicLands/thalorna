@@ -26,6 +26,10 @@ The town lives on its water. Bathhouses fed from the springs take pilgrims on th
 
 Rewei governs through judges the household appoints from among the retainers. The envoys of the other houses watch the town; the [[affiliation-shuiwojaidmn|Shuiwojai]] envoy there sends word to [[place-hawu|Hawu]] after every tremor.
 
+## History {#history}
+
+Yanwu is the household seat of the last Teng Ja, Hojujai Henwo, who died in 709 AF; his widow has held it for their son since, through the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## See Also {#see-also}
 
 [[affiliation-hojujaidmn|Hojujai Domain]]

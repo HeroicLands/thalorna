@@ -82,6 +82,10 @@ The [Weiju]{.name data-type="affiliation/lineage"} keep the treasury of the cour
 
 The muster is 750 men, and none of them sails. Most of them garrison the roads and the passes into the Emperor's district, where the lord's duty to the throne is performed in person.
 
+## History {#history}
+
+Muwojai stood with Hojujai for the regency in the [[lore-empseatwar|War of the Empty Seat]], and the house has kept the loyalist side since ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Muwojai and [[affiliation-hojujaidmn|Hojujai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody.

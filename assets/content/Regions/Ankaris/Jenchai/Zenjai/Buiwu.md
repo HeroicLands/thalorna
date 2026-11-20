@@ -26,6 +26,10 @@ The town lives on timber, charcoal and horses. Carters take the charcoal south b
 
 Tsuiwo's judges, chosen from his retainers, hear the town's cases in the hall.
 
+## History {#history}
+
+Buiwu is the seat of a house that has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]], and both blocs bid for it ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## See Also {#see-also}
 
 [[affiliation-zenjaidmn|Zenjai Domain]]

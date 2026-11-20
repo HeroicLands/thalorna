@@ -26,6 +26,10 @@ The town lives on trade. Warehouses hold lacquer, silk, salt, blades and ceramic
 
 Most of the cases Doja's judges hear in the town are harbor disputes.
 
+## History {#history}
+
+Yuwu is the seat of the house that pressed the court against the regency with Shuiwojai and has stood apart from both blocs since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## See Also {#see-also}
 
 [[affiliation-wojaidmn|Wojai Domain]]

@@ -53,7 +53,7 @@ The ceremonial Emperor of Jenchai serves this fragmented theology well: his role
 
 Real authority lies with a handful of **Dauzhwo**—Great Lords—who rule their provinces as effectively independent fiefdoms, each with its own army, justice, taxes, and foreign policy. Below them sit the **Shwizhwo**, lesser lords who pledge personal allegiance in exchange for land. The **Rongleng Tengzhei** ("Son of Heaven of Ten Thousand Dawns") sits at the ceremonial apex, distributing honor but commanding nothing.
 
-The current balance rests on three or four roughly equal Dauzhwo, none willing to risk open war against a coalition of the others. Every generation or so this balance collapses into open civil war before a new equilibrium emerges; the last collapse was the [War of the Empty Seat]{.name data-type="lore/history"}, 709–712 AF. The office of Teng Ja, the Emperor's sword-arm and the one lord the others obey while it is held, has stood vacant since 709 AF, and the race to fill it drives the politics of the eight domains. See [[affiliation-jenchaiempr|Jenchai]] for the detailed political structure.
+The current balance rests on three or four roughly equal Dauzhwo, none willing to risk open war against a coalition of the others. Every generation or so this balance collapses into open civil war before a new equilibrium emerges; the last collapse was the [[lore-empseatwar|War of the Empty Seat]], 709–712 AF ([[lore-hstryjenchai|The History of Jenchai]]). The office of Teng Ja, the Emperor's sword-arm and the one lord the others obey while it is held, has stood vacant since 709 AF, and the race to fill it drives the politics of the eight domains. See [[affiliation-jenchaiempr|Jenchai]] for the detailed political structure.
 
 ## Trade
 

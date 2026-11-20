@@ -26,6 +26,10 @@ The town lives on whale and fish. Flensers, coopers, net-makers and oil-boilers 
 
 The wreck-officers report to the hall after every storm, and what they bring in from the reefs is entered in the granary roll.
 
+## History {#history}
+
+Zuwu is the seat of a house that has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## See Also {#see-also}
 
 [[affiliation-wejaidmn|Wejai Domain]]

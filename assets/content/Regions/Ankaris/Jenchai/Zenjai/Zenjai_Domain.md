@@ -78,6 +78,10 @@ The [Maiju]{.name data-type="affiliation/lineage"} keep the stables and hold [Ma
 
 The muster is 1,520 men, and none of them sails: the domain has no fleet. The levy is raised in the northern manner, four men to the hundred bales against two and a half in the other houses, and the stables of the Maiju mount its officers.
 
+## History {#history}
+
+Zenjai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]], and the realm's balance turns on which bloc it joins ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Zenjai belongs to neither bloc, and its joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the balance of the Nine. Both are bidding for it.

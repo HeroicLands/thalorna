@@ -77,6 +77,10 @@ The Wohou of Wejai serve the house for stipends in bales, since no retainer fami
 
 The muster is 600 men and 15 ships. The ships are whalers and coastal guard boats, built to keep the reefs and to stand off the typhoon coast.
 
+## History {#history}
+
+Wejai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Wejai belongs to neither bloc. Its lord is one of the four independent houses, who together muster 3,970 men and 55 ships and who each have their own price.
