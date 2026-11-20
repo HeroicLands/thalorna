@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [tsitarargn]
-  population: 90
+  population: null
   type: hamlet
   market: subsistence
   packFolder: osetakona
