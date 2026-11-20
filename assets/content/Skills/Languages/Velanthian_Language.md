@@ -226,7 +226,7 @@ data:
       - "Ovrikov"
       - "Charvashov"
       - "Kelodov"
-      - "Belukov"
+      - "Semukarov"
   fields:
     - name: "Princes, courts and retinues"
       holds: "The river-prince and his hall: the retinue sworn to him, the judge who rules by the customary law, and the keeper of a walled town."
@@ -435,7 +435,7 @@ data:
     - form: beluk
       position: opening
       sense: "a banner; from the Sovidur word"
-      examples: [Belukana, Belukan, Belukov]
+      examples: [Belukana, Belukan]
     - form: beyuk
       position: opening
       sense: "a gift; from the Sovidur word"
@@ -443,7 +443,7 @@ data:
     - form: semuk
       position: opening
       sense: "a guest under protection; from the Sovidur word"
-      examples: [Semuka, Semukar]
+      examples: [Semuka, Semukar, Semukarov]
     - form: -ogor
       position: closing
       sense: "a hill, a height, with its joining vowel"
@@ -490,7 +490,7 @@ data:
       examples: [Gorvena, Milvena, Radvena]
     - form: -ich
       position: closing
-      sense: "descent: the line of the founder named, for a house"
+      sense: "descent: the line of the founder named, or in the east of a Sovidur word, for a house"
       examples: [Brelovodich, Dobrovodich, Zhitogorich]
     - form: -avesh
       position: closing
@@ -498,7 +498,7 @@ data:
       examples: [Duvavesh, Boskavesh, Goravesh]
     - form: -ov
       position: closing
-      sense: "the house of it: the house of a founder, for a house"
+      sense: "the house of it: the house of a founder, or in the east of a Sovidur word, for a house"
       examples: [Volkarov, Duvekov, Zhitekov]
   sounds:
     edges:
@@ -733,7 +733,7 @@ data:
     - {name: Ovrikov, tongue: velanthian}
     - {name: Charvashov, tongue: velanthian}
     - {name: Kelodov, tongue: velanthian, gloss: "the house of the well"}
-    - {name: Belukov, tongue: velanthian, gloss: "the house of the banner"}
+    - {name: Semukarov, tongue: velanthian, gloss: "the house of Semukar"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -751,7 +751,7 @@ The Velanthian Language is the tongue of [[place-velanthrgn|Velanthia]], the cou
 
 ## Overview
 
-Velanthian is the speech of the river country, spoken from the forest margin in the west to the edge of the steppe in the east. It is unrelated to [[skill-nordmalng|Nordmal]], to [[skill-vylarilng|Vilari]] and to the tongues of Aureldia, and its monks write it in a variety of [[skill-helnkscrpt|the Helónika]]. The river-courts speak it with ceremony: a prince is addressed by his river, and a petition keeps a fixed order of salutations. The villages speak it plainly and fast. The grain-belt towns speak it beside Helonik, Bizarian and Vilari, which their merchants use at the ledger, and the eastern reach speaks it with [[skill-sowideslng|Sovidur]] words in it.
+Velanthian is the speech of the river country, spoken from the forest margin in the west to the edge of the steppe in the east. It is unrelated to the [[skill-nordmalng|Nordmal Language]], to the [[skill-vylarilng|Vilari Language]] and to the tongues of Aureldia, and its monks write it in a variety of the [[skill-helnkscrpt|Helónika Script]]. The river-courts speak it with ceremony: a prince is addressed by his river, and a petition keeps a fixed order of salutations. The villages speak it plainly and fast. The grain-belt towns speak it beside Helonik, Bizarian and Vilari, which their merchants use at the ledger, and the eastern reach speaks it with words of the [[skill-sowideslng|Sovidur Language]] in it.
 
 The people who speak it are the [[lore-velanthclt|Velanthians]]. The culture note tells how they live; this page gives the sounds of the tongue, its words and the lists its names are drawn from.
 
@@ -763,7 +763,7 @@ Velanthian is a speech of soft stops, crowded consonants and open endings. Its w
 
 **The consonants.** _v_, _r_, _l_, _d_, _k_ and _n_ are the commonest, with _g_, _b_, _t_, _s_, _z_, _m_ and _p_ behind them. Three digraphs give the tongue its edge, _zh_, _sh_ and _ch_, and _kh_ stands only in the Host name _Khorad_. A _y_ opens a syllable before a vowel, as in _Yarogor_ and _yadak_.
 
-**Clusters.** A word opens on a single consonant or on _br_, _dv_, _gr_, _kr_, _pr_, _sk_, _sl_, _st_, _sv_, _tv_, _vl_ or _zv_, and up to three consonants meet inside it: _starbrat_, _Volkrad_, _Boskvan_.
+**Clusters.** A word opens on a single consonant or on _br_, _dv_, _gr_, _kr_, _pr_, _sk_, _sl_, _st_, _sv_, _tv_, _vl_ or _zv_, and up to three consonants meet inside it: _starbrat_, _Volkrad_, _Boskvan_. A few open on _o_: the names built on _ovr_, sharp, such as _Ovrena_, _Ovrik_ and _Ovravesh_, and the loan _orgun_.
 
 **Endings.** A woman's name closes on _-a_, usually as _-ena_, _-ora_ or _-ana_ and less often as _-ina_ or _-vena_. A man's name closes on _-an_, _-van_, _-ik_, _-ek_, _-ash_, _-ar_, _-rad_, _-ogor_, _-ovod_, _-obor_ or _-odar_. A house closes on _-ich_, _-avesh_ or _-ov_. An ordinary word ends on a vowel or on _d_, _k_, _l_, _n_, _r_, _sh_, _t_, _z_, _ch_ or _v_.
 
@@ -775,11 +775,11 @@ Stress follows the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of tw
 
 ## Writing
 
-Velanthian is written in a variety of [[skill-helnkscrpt|the Helónika]], with its own encoding, the [[doc-velthelonikaenc|Velanthian Helónika Encoding]]. The Helónika has no letter of its own for _sh_, _ch_ or _y_, so a Velanthian text writes _sh_ with the letters for _s_ and _h_, _ch_ with the letters for _t_, _s_ and _h_, and _y_ with the letter for _i_. It writes _kh_ and _zh_ with the letters the Bizarian recension adds, and every other letter with the Helónika letter of the same sound. The tongue keeps the Helónika's capitals for names and for the first word of a paragraph. The monasteries keep the hand, and their pupils are the scribes of the courts.
+Velanthian is written in a variety of [[skill-helnkscrpt|the Helónika]], with its own encoding, the [[doc-velthelonikaenc|Velanthian Helonika Encoding]]. The Helónika has no letter of its own for _sh_, _ch_ or _y_, so a Velanthian text writes _sh_ with the letters for _s_ and _h_, _ch_ with the letters for _t_, _s_ and _h_, and _y_ with the letter for _i_. It writes _kh_ and _zh_ with the letters the Bizarian recension adds, and every other letter with the Helónika letter of the same sound. The tongue keeps the Helónika's capitals for names and for the first word of a paragraph. The monasteries keep the hand, and their pupils are the scribes of the courts.
 
 ## The eastern reach {#eastern-reach}
 
-In the oasis-and-river country along the steppe frontier the tongue takes its words from [[skill-sowideslng|Sovidur]], and the words say what the frontier is: the raid, the ransom, the safe-conduct, the guest, the banner and the horse. A Sovidur word is not copied whole. It is fitted to the tongue's sounds: _jadaq_, a raid, is _yadak_; _lushiq_, a ransom, is _lushik_; _biiloq_, a banner, is _beluk_; _qonar_, a mare, is _konor_; and _ghotaz_, a tent, is _gotaz_.
+In the oasis-and-river country along the steppe frontier the tongue takes its words from [[skill-sowideslng|Sovidur]], and the words say what the frontier is: the raid, the ransom, the safe-conduct, the guest, the banner and the horse. A Sovidur word is fitted to the tongue's sounds: _jadaq_, a raid, is _yadak_; _lushiq_, a ransom, is _lushik_; _biiloq_, a banner, is _beluk_; _qonar_, a mare, is _konor_; and _ghotaz_, a tent, is _gotaz_. Six already fit and keep their Sovidur form unchanged: _koser_, _beyuk_, _kodu_, _zudol_, _kelod_ and _volket_.
 
 The eastern given names carry the same words. _Kodogor_ is the horse on the height, _Kelodena_ the well, and _Sovidena_ the rider. They are listed with the rest of the names below and marked in the register by their gloss.
 
@@ -855,7 +855,7 @@ A Velanthian carries a given name and a house name, the given name first: _Brelo
 
 A given name is made of two roots from the river country, joined with an _o_ where the first root ends on a consonant, or of one root with a closing. A woman's name closes on _-a_, usually as _-ena_, _-ora_ or _-ana_: _Brelana_ is _brel_, pale, with _-ana_, and _Zhitena_ is _zhit_, grain, with _-ena_. A man's name closes on _-an_, _-ik_, _-ek_, _-ash_, _-ar_, _-van_ or _-rad_, or is two roots: _Brelogor_ is _brel_ and _-ogor_, a height, and _Dobrovod_ is _dobr_, good, and _-ovod_, a leader.
 
-A house name names a founder, a seat or a lineage. _-ich_ closes the line of a founder: _Brelovodich_ is the line of Brelovod. _-avesh_ closes the house of a seat: _Duvavesh_ is the house of the oak seat. _-ov_ closes the house of a named man: _Volkarov_ is the house of Volkar.
+A house name names a founder, a seat or a lineage. _-ich_ closes the line of a founder: _Brelovodich_ is the line of Brelovod. _-avesh_ closes the house of a seat: _Duvavesh_ is the house of the oak seat. _-ov_ closes the house of a named man: _Volkarov_ is the house of Volkar. In the eastern reach a house may close a Sovidur word in place of a founder: _Sovidich_ is the line of the rider, _Volketich_ the line of the grass and _Kelodov_ the house of the well.
 
 The eastern reach gives some of its names a Sovidur root, such as _kod_, a horse, _kelod_, a well, _sovid_, a rider, or _beluk_, a banner: _Kodogor_, _Kelodena_, _Sovidena_. A name of this kind places its bearer on the frontier.
 
@@ -873,7 +873,7 @@ A Host takes its name from its first _polvod_ or from its river, and the name st
 
 **Men's names:** Brelogor, Brelovod, Brelvan, Brelodar, Charvobor, Charvodar, Charvash, Duvogor, Duvash, Duvek, Duvik, Boskvan, Gorovod, Zhitovod, Zhitek, Zhitogor, Milogor, Milvan, Radovod, Radodar, Slevogor, Slevovod, Tveskan, Tveskogor, Volkar, Volkrad, Yarogor, Yarvan, Teshogor, Teshvan, Teshodar, Brevogor, Brevek, Brevash, Dobrogor, Dobrovod, Dobrash, Vlidogor, Vlidash, Vlidvan, Ovrik, Ovran, Ovrodar, Krodogor, Krodash, Krodan, Lervash, Lervogor, Lervik, Sulvogor, Sulvik, Sulvan, Sedrogor, Sedrovod, Sedrash, Mevran, Mevrash, Mevrek, Mevrodar, Torvogor, Torvik, Torvek, Rezdogor, Rezdovod, Geshvan, Svelovod, Karvogor, Zvekogor, Sokogor, Kodogor, Kodvan, Sovidan, Sovidar, Volketan, Kelodan, Belukan, Semukar, Beyukan
 
-**House names:** Brelovodich, Dobrovodich, Zhitogorich, Radovodich, Tveskogorich, Yarogorich, Teshogorich, Brevogorich, Vlidogorich, Krodogorich, Lervogorich, Sedrogorich, Torvogorich, Boskvanich, Milvanich, Sulvanich, Mevranich, Kodogorich, Sovidich, Volketich, Duvavesh, Boskavesh, Goravesh, Zhitavesh, Brelavesh, Charvavesh, Radavesh, Svelavesh, Tveskavesh, Volkavesh, Yaravesh, Teshavesh, Brevavesh, Dobravesh, Vlidavesh, Krodavesh, Sokavesh, Sedravesh, Ovravesh, Kodavesh, Volkarov, Duvekov, Zhitekov, Dobrashov, Tveskanov, Vlidashov, Brevekov, Lervikov, Sulvikov, Torvikov, Mevrekov, Duvashov, Ovranov, Krodashov, Sedrashov, Lervashov, Ovrikov, Charvashov, Kelodov, Belukov
+**House names:** Brelovodich, Dobrovodich, Zhitogorich, Radovodich, Tveskogorich, Yarogorich, Teshogorich, Brevogorich, Vlidogorich, Krodogorich, Lervogorich, Sedrogorich, Torvogorich, Boskvanich, Milvanich, Sulvanich, Mevranich, Kodogorich, Sovidich, Volketich, Duvavesh, Boskavesh, Goravesh, Zhitavesh, Brelavesh, Charvavesh, Radavesh, Svelavesh, Tveskavesh, Volkavesh, Yaravesh, Teshavesh, Brevavesh, Dobravesh, Vlidavesh, Krodavesh, Sokavesh, Sedravesh, Ovravesh, Kodavesh, Volkarov, Duvekov, Zhitekov, Dobrashov, Tveskanov, Vlidashov, Brevekov, Lervikov, Sulvikov, Torvikov, Mevrekov, Duvashov, Ovranov, Krodashov, Sedrashov, Lervashov, Ovrikov, Charvashov, Kelodov, Semukarov
 
 Velanthian is written in a cased script, so its names are capitalized in the register and in these lists.
 

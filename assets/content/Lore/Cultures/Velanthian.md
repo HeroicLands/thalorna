@@ -89,7 +89,7 @@ Hosts deal with the steppe tribes across the frontier on their own account. They
 
 The grain-belt monasteries are houses of the [[affiliation-lizelas|Faith of Lizelas]], large and endowed, with fields, mills and barns. A _bratar_ works the land and keeps the offices, and the _starbrat_ who heads a house is a figure of real weight: he or she sits between princes and Hosts as a mediator that neither side can accuse of taking the other's part. A _zhitnad_ is a granary, and in the grain belt the same word names the monastery that keeps it. The monasteries hold grain against bad years and bad neighbors, and a famine year shows how many people in a prince's lands eat from a monastic barn.
 
-They also hold the letters. Monks copy the liturgies and the court's letters in the Helónika, the script the courtly tongue is written in, and a village scribe is almost always a monk's pupil. A prince who wants a charter written sends to the nearest house.
+They also hold the letters. Monks copy the liturgies and the court's letters in the [[skill-helnkscrpt|Helónika Script]], the script the courtly tongue is written in, and a village scribe is almost always a monk's pupil. A prince who wants a charter written sends to the nearest house.
 
 ## The Merchant Houses
 
@@ -97,7 +97,7 @@ In the grain-belt towns the _torgad_, the merchant houses, live on credit. A hou
 
 ## The Eastern Reach
 
-The communities along the inland edge of the frontier, in the oasis-and-river country, are neither wholly Velanthian nor wholly of the steppe. They speak Velanthian with Sovidur words in it, or Sovidur with Velanthian words for the plow and the mill, and they answer to the side that last had the better year. Their speech carries the vocabulary of a frontier that is crossed in both directions: _koser_, the safe-conduct and the toll for it, _lushik_, the ransom for a captive taken in a raid, _yadak_, the raid itself, and _semuk_, the guest under a tribe's protection.
+The communities along the inland edge of the frontier, in the oasis-and-river country, are neither wholly Velanthian nor wholly of the steppe. They speak the [[skill-velanthlng|Velanthian Language]] with words of the [[skill-sowideslng|Sovidur Language]] in it, or Sovidur with Velanthian words for the plow and the mill, and they answer to the side that last had the better year. Their speech carries the vocabulary of a frontier that is crossed in both directions: _koser_, the safe-conduct and the toll for it, _lushik_, the ransom for a captive taken in a raid, _yadak_, the raid itself, and _semuk_, the guest under a tribe's protection.
 
 ## Names and the Tongue
 

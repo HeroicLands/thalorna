@@ -90,13 +90,13 @@ data:
   rules: {normalization: NFC, matching: longest-first, roundTrip: none}
 ---
 
-This encoding writes [[skill-velanthlng|Velanthian]] in helonika-book. A passage selects it with `enc=velthelonikaenc`. The note supplies its language and font. Roman word spaces are retained. Where several spellings share a sign, decoding returns every one of them in brackets, separated by `|`.
+This encoding writes the [[skill-velanthlng|Velanthian Language]] in helonika-book. A passage selects it with `enc=velthelonikaenc`. The note supplies its language and font. Roman word spaces are retained. Where several spellings share a sign, decoding returns every one of them in brackets, separated by `|`.
 
 ## From the Spelling Guide to the Helónika
 
 - **_kh_ and _zh_ are one letter each**, the eastern _kh_ and the buzzing _zh_. A small letter is the minuscule and a capital the majuscule.
 - **_sh_ and _ch_ are written with the letters of their parts.** _sh_ is the letter for _s_ and the letter for _h_, and _ch_ is the letters for _t_, _s_ and _h_. A capital on either keeps the capital on its first letter.
-- **_y_ is the letter for _i_.** The Helónika has no letter for the consonant _y_, so _y_ and _i_ share a sign, and decoding offers both.
+- **_y_ is the letter for _i_.** The [[skill-helnkscrpt|Helónika Script]] has no letter for the consonant _y_, so _y_ and _i_ share a sign, and decoding offers both.
 - **An acute vowel is the vowel followed by the accent**, which Velanthian writes for a stress the guide's rule would not choose.
 - **The other letters, the raised dot and the numerals are those of the Helónika Spelling**, as are its capitals: a capital is written only on a name and on the paragraph's first word.
 
