@@ -1,9 +1,9 @@
 ---
 shortcode: hojai
-name: {full: Fire Peak, jurt: [Hojai]}
+name: {full: Hojai, en: [Fire Peak]}
 type: place
 subType: region
-description: "Fire Peak, the most active volcano of the south of the great island—hot springs on its southern slope, ash-soil terraces at its foot and the shrine whose record decides the standing of House Hojujai."
+description: "Hojai, the most active volcano of the south of the great island—hot springs on its southern slope, ash-soil terraces at its foot and the shrine whose record decides the standing of House Hojujai."
 tags: [mountain, volcanic, hot-springs]
 data:
   demonym: null

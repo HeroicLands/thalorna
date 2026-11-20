@@ -1,6 +1,6 @@
 ---
 shortcode: tsuiwu
-name: {full: Iron Hall, jurt: [Tsuiwu]}
+name: {full: Tsuiwu, en: [Iron Hall]}
 type: place
 subType: settlement
 description: "The castle town of House Tsuijai on the slope of Tsuijai—a granary, a hall and an armory below the mines, seat of the independent lord Tsuijai Rezo."

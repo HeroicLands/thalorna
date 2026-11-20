@@ -1,9 +1,9 @@
 ---
 shortcode: wejai
-name: {full: Wind Peak, jurt: [Wejai]}
+name: {full: Wejai, en: [Wind Peak]}
 type: place
 subType: region
-description: "Wind Peak, the volcanic mountain of the open-ocean east of the great island—dunes, reefs and a cape shrine on the coast that the summer typhoons strike first."
+description: "Wejai, the volcanic mountain of the open-ocean east of the great island—dunes, reefs and a cape shrine on the coast that the summer typhoons strike first."
 tags: [mountain, coastal, volcanic, typhoon]
 data:
   demonym: null

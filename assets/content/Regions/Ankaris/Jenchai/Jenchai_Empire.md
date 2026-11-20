@@ -3,7 +3,7 @@ shortcode: jenchaiempr
 name: {full: Jenchai Empire, en: [Nine Mountains, Kingdom of Mountains and Seas], tant: [Chaiwong]}
 type: affiliation
 subType: polity
-description: Island realm east of Tantsou—a feudal, warrior-aristocratic society of eight great lords, an honor-obsessed culture, and a sacred emperor who reigns on the Dragon's Mountain and rules nothing beyond it.
+description: Island realm east of Tantsou—a feudal, warrior-aristocratic society of eight great lords, an honor-obsessed culture, and a sacred emperor who reigns on Zojai and rules nothing beyond it.
 tags: [region, Ankaris, East, Island-Kingdom, Warrior-Culture]
 data:
   icon: null
@@ -72,6 +72,7 @@ data:
   parents: []
   relations: {tengwouronglei: aligned, tantsouempr: rival}
   packFolder: jenchai
+  culture: jenchaiclt
 sohl: {system: {commonSkills: [jurthatlng]}}
 
 # terran_analog: Japan (island feudalism, honor culture, breakaway from a larger power)

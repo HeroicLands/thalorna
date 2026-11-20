@@ -84,7 +84,13 @@ For three years Henzo's silver has covered the shortfall in the court's budget, 
 
 ## The Sealed Letter
 
-Henzo has petitioned for the office, and the Emperor has answered with a sealed letter. The letter must leave [[place-zojai|Zojai]] by the roads that Muwojai keeps and cross Muwojai's ferry at [Zuju]{.name data-type="place/settlement"}, and Muwojai is a loyalist house. Until the letter reaches Hawu, Henzo does not know whether he holds the office, and he does not trust the hands that carry it.
+Henzo has petitioned for the office, and [Weileng]{.name data-type="being/npc"} has answered with a sealed letter. What the letter says is known to the Emperor and to the hands that sealed it.
+
+:::secret {title="What the Sealed Letter asks"}
+The letter withholds the office and asks Henzo for more silver toward the court's budget, and it names no price at which the office would follow. It is Weileng's way of deferring: while the office stays unconferred, both blocs need him.
+:::
+
+The letter must leave [[place-zojai|Zojai]] by the roads that Muwojai keeps and cross Muwojai's ferry at [Zuju]{.name data-type="place/settlement"}, and Muwojai is a loyalist house. Until the letter reaches Hawu, Henzo does not know what the Emperor asks of him, and he does not trust the hands that carry it.
 
 ## See Also {#see-also}
 
