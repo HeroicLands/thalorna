@@ -3,7 +3,7 @@ shortcode: amradadrgn
 name: {full: Amradad Region}
 type: place
 subType: region
-description: "The settled north-western country of the Dunhara, on the eastern shore of the Vilérian Sea: two walled cities and their towns, the oases and wadi villages that feed them, and the caravan roads that link them, held by the Kingdom of Amradad."
+description: "The settled north-western country of the Dunhara, from the eastern shore of the Vilérian Sea about 750 miles inland to three inland seas: two walled cities and their towns, the oases and wadi villages that feed them, the caravan roads that link them and the herders' steppe of the far east, held by the Kingdom of Amradad."
 tags: [region]
 data:
   demonym: Amradi
@@ -32,9 +32,11 @@ Amradad is the settled country of the [[place-dunharargn|Dunhara Region]], the o
 
 ## The Land {#the-land}
 
-The region runs from the eastern shore of the [[place-vylarianse|Vilérian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Bizaria Region]] of the [[affiliation-byzarianlg|Bizarian League]] lies along its northern border, the islands of [[place-taruzelrgn|Taruzel]] across the strait to the west, and its southern edge gives onto the open desert of the [[place-dunhardsrtrgn|Dunhara Desert]].
+The region runs about 750 miles from the eastern shore of the [[place-vylarianse|Vilérian Sea]] inland, to three salt inland seas and the edge of the [[place-khzryndsrtrgn|Khazrin]] steppe. The [[place-byzariargn|Bizaria Region]] of the [[affiliation-byzarianlg|Bizarian League]] lies along its northern border, the islands of [[place-taruzelrgn|Taruzel]] across the strait to the west, and its southern edge gives onto the open desert of the [[place-dunhardsrtrgn|Dunhara Desert]].
 
 This is the desert's wettest margin, which is not saying much. A thin winter rain falls here that the deep south never sees, enough for herding on dry pasture and a narrow belt of grass that greens for a season. Settlement follows the water: the permanent oases, which the cities and the larger towns stand on, and the wadis that run after the winter rains, along which the farming villages string out their fields and orchards.
+
+More than about 400 miles from the sea the wadi country gives out into the dry steppe of [[place-threeseas|the Three Seas]], the far east of the region and more than a third of its land. Herders graze it, the Kingdom holds walled caravan and oasis towns at the shores of its three inland seas, and two of the seas lie on the border with Bizaria.
 
 ## Peoples {#peoples}
 
@@ -46,7 +48,7 @@ The [[affiliation-khzrncnfdrtn|Tellumi]] are the region's other settled people. 
 
 ## Who Holds It {#who-holds-it}
 
-A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the ministers of his divans, and a governor (_tagemader_) in every city, town and oasis. His rule is close along the coast, at the oases and on the caravan roads, and it thins with every day's ride inland; his influence runs beyond his frontiers through trade and through marriages with the sheikhs' houses. Across the strait the Kingdom is on warm terms with [[affiliation-cnfdrtntrzlnstts|Taruzel]], which it helped win its freedom from the [[affiliation-vylarinmpr|Vilérian Empire]], a power with which its own relations are hostile.
+A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the ministers of his divans, and a governor (_tagemader_) in every city, town and oasis. His rule is close along the coast, at the oases and on the caravan roads, and it thins with every day's ride inland; in the far east it holds the walled towns and the roads between them, and the herding clans of the open plain settle their own affairs. His influence runs beyond his frontiers through trade and through marriages with the sheikhs' houses. Across the strait the Kingdom is on warm terms with [[affiliation-cnfdrtntrzlnstts|Taruzel]], which it helped win its freedom from the [[affiliation-vylarinmpr|Vilérian Empire]], a power with which its own relations are hostile.
 
 ## Places {#places}
 
@@ -71,13 +73,28 @@ A hereditary Shebarader rules from Shebarakhend, through a Grand Vashkader, the 
 [[place-sorvadakhend|Sorvadakhend]]
 : a farming town whose elders keep an astrologer
 
+[[place-golmakhend|Golmakhend]]
+: the date-grove town of the wadi country
+
+[[place-shorvakhend|Shorvakhend]]
+: the drovers' town on the northern border, where the drove and caravan road from the Southern March comes down
+
+[[place-velgavad|Velgavad]]
+: the well-town of the Khazrin road, last before the Three Seas
+
+[[place-nozhavad|Nozhavad]]
+: the oasis halt of the March Road near the desert edge
+
+[[place-threeseas|The Three Seas]]
+: the far east, with six walled towns at the shores of its three inland seas and a seventh on the plain between them
+
 ## Current Situation {#present}
 
-Two quarrels run through the country, and both are the Kingdom's to manage. In Shebarakhend the Tellumi exile houses spend more on their courts than the court's great houses can, and press the Shebarader for privileges that the great houses, who hold their standing only by his grant, want refused. On the desert edge Amradi grain and iron buy the tribes' herds and escorts, old blood-debts keep some tribes hostile, and a herd treaty is only as good as the tribe that keeps it. Qarvelakhend, where the herds come in, feels a broken one first.
+Two quarrels run through the country, and both are the Kingdom's to manage. In Shebarakhend the Tellumi exile houses spend more on their courts than the court's great houses can, and press the Shebarader for privileges that the great houses, who hold their standing only by his grant, want refused. On the desert edge Amradi grain and iron buy the tribes' herds and escorts, old blood-debts keep some tribes hostile, and a herd treaty is only as good as the tribe that keeps it. Qarvelakhend, where the herds come in, feels a broken one first. In the far east the towns of the Three Seas hold their walls against Khazrin steppe bands, the kinless of the desert and [[affiliation-blackflame|Black Flame]] warbands crossing the northern border, and every tagemader there asks for more of the Host than it can spare.
 
 ## Roads and Trade {#roads-and-trade}
 
-The caravan roads from Bizaria, from [[place-vedyarargn|Vedyara]] by [[place-marchroad|the March Road]] and from the [[place-khzryndsrtrgn|Khazrin]] meet at Tahrodan, pay their toll there and go down to Valmakhend and the ferries. The tolls are the Kingdom's great revenue, and much of the toll silver is spent at once on grain: the wagons of the March Road bring Vedyaran grain and salt, and Amradi drovers go north into the [[place-southrnmrch|Southern March]] to buy sheep. The wadi villages feed the towns they stand nearest, the oases give the cities their fruit and fodder, and the two cities eat more grain than their own ground grows.
+The caravan roads from Bizaria, from [[place-vedyarargn|Vedyara]] by [[place-marchroad|the March Road]] and from the [[place-khzryndsrtrgn|Khazrin]] meet at Tahrodan, pay their toll there and go down to Valmakhend and the ferries. The Khazrin road comes in from the east through [[place-threeseas|the Three Seas]] by way of [[place-velgavad|Velgavad]], the March Road by way of [[place-nozhavad|Nozhavad]], and the drove and caravan road from the Southern March by way of [[place-shorvakhend|Shorvakhend]]. The tolls are the Kingdom's great revenue, and much of the toll silver is spent at once on grain: the wagons of the March Road bring Vedyaran grain and salt, and Amradi drovers go north into the [[place-southrnmrch|Southern March]] to buy sheep. The wadi villages feed the towns they stand nearest, the oases give the cities their fruit and fodder, and the two cities eat more grain than their own ground grows.
 
 What Amradad sends out is less than what passes through it. Dates, oil, wool and the Tellumi houses' books, instruments and date wine cross the strait; grain, iron and worked goods go out to the tribes in exchange for herds and escorts.
 
@@ -91,6 +108,9 @@ What Amradad sends out is less than what passes through it. Dates, oil, wool and
 
 [[place-dunhardsrtrgn|Dunhara Desert Region]]
 : the open desert beyond the towns
+
+[[place-threeseas|The Three Seas]]
+: the far east of the region and its inland seas
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the islands across the strait

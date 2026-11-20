@@ -30,7 +30,7 @@ The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] of fire and light, 
 - [[place-ghavulavad|Ghavulavad]], the oasis seat of the tribes, is where a caravan hires its guide.
 - The open sand kills fast. Summer heat is lethal within hours, winter nights freeze, and a windstorm can bury a camp in minutes.
 - [[place-khuqetmiglet|Khuqet-Miglet]], in the southwest, is a desert-march the [[affiliation-empireakhlth|empire of Au'Khelathu]] garrisons and the western clans contest, with toll and well-disputes on both sides.
-- The [[affiliation-kngdmmrdd|Kingdom of Amradad]] holds the region's north-western corner on the sea coast. It is a separate kingdom of walled cities and a standing army, and the tribes admire its wealth and scorn its softness.
+- The [[affiliation-kngdmmrdd|Kingdom of Amradad]] runs from the sea coast about 750 miles inland to the Three Seas. It is a separate kingdom of walled cities and a standing army, and the tribes admire its wealth and scorn its softness.
 
 ## Ways In
 

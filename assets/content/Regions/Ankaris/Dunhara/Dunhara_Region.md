@@ -39,7 +39,7 @@ The desert runs south and east from the dry scrublands behind the Vilérian shor
 
 The climate is brutal. A summer day can kill a man without water in a few hours, a winter night drops far below freezing, and a windstorm can bury a camp or strip the paint from a merchant's chests in minutes. The deep south sees almost no rain at all. The northwestern margin along the sea gets a thin winter rain, enough for a narrow belt of seasonal grass and the herds that graze it.
 
-The region holds two countries. [[place-amradadrgn|Amradad]], in the northwestern corner along the sea, is the country of walled cities, irrigated oases and the caravan roads between them. The [[place-dunhardsrtrgn|Dunhara Desert]] is everything else: the open desert of the tribes, bounded by nothing but the customary circuits of the confederations and the oases each holds by right.
+The region holds two countries. [[place-amradadrgn|Amradad]], in the northwest, runs from the sea about 750 miles inland to three salt inland seas; it is the country of walled cities, irrigated oases, the caravan roads between them and, in the far east, a herders' steppe held through fortified towns. The [[place-dunhardsrtrgn|Dunhara Desert]] is everything else: the open desert of the tribes, bounded by nothing but the customary circuits of the confederations and the oases each holds by right.
 
 ## Peoples {#peoples}
 
@@ -65,7 +65,7 @@ The holy places are features of the land: certain oases, rock formations, mesa-t
 
 The desert has no single ruler. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit. They join against an outside threat and quarrel among themselves the rest of the time, and the balance has held for centuries. The [[affiliation-dunhartrbs|Dunhara Tribes]] describes the confederations and the councils where they meet.
 
-The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary Shebarader, a standing army and a court modeled on the old cities of the Ashaian faith, and it holds the northwestern corner from the Vilérian shore inland: its walled cities, their oases and the roads between them. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
+The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary Shebarader, a standing army and a court modeled on the old cities of the Ashaian faith, and it holds the whole northwest from the Vilérian shore to the inland seas of [[place-threeseas|the Three Seas]]: its walled cities, their oases, the roads between them, and the fortified towns that hold the steppe of the far east. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
 
 The [[affiliation-ordoarcanis|Thordimalon]] has no footing here. The tribes call it a Vilérian institution with no standing in their country, and the Arcane Order gave up trying to found chapters long ago. Magic in the Dunhara comes through faith and blood: the mystics, the poets held to be blessed, the storm-cult practitioners and the sheikhs' houses that claim a gift running in the line.
 

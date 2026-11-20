@@ -6239,6 +6239,21 @@ data:
     - {name: Holder of the Oasis, tongue: translation}
     - {name: Truce-Warden of the Weighing, tongue: translation}
     - {name: tevrazavad, tongue: dunhari}
+    - {name: dorvakhend, tongue: dunhari}
+    - {name: rezhakhend, tongue: dunhari}
+    - {name: morvadez, tongue: dunhari}
+    - {name: lemazakhend, tongue: dunhari}
+    - {name: gharzadez, tongue: dunhari}
+    - {name: delmavad, tongue: dunhari}
+    - {name: parzavad, tongue: dunhari}
+    - {name: velgavad, tongue: dunhari}
+    - {name: nozhavad, tongue: dunhari}
+    - {name: shorvakhend, tongue: dunhari}
+    - {name: golmakhend, tongue: dunhari}
+    - {name: The Three Seas, tongue: translation}
+    - {name: The Bitter Sea, tongue: translation}
+    - {name: The Far Sea, tongue: translation}
+    - {name: The Mirror Sea, tongue: translation}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

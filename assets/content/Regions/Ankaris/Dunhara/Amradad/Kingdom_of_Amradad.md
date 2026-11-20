@@ -81,6 +81,7 @@ data:
     khzrncnfdrtn: aligned
     cnclprinces: aligned
     bhumipal: unaligned
+    blackflame: rival
   packFolder: amradad
 sohl: {system: {commonSkills: [dunharlng]}}
 
@@ -111,7 +112,7 @@ On the desert edge, trade with the tribes goes on beside the grudges. The tribes
 
 ## Arms {#arms}
 
-The **Ghedvader of the Host** commands the standing army in the field, and the army sits where the roads and the wells need it. A mounted garrison at Tahrodan keeps the caravan roads clear for a day's ride around the crossroads. The southern host at [[place-qarvelakhend|Qarvelakhend]], under a _ghedvader_ of its own, watches the desert edge and pays and supplies the [[place-kinlesswatch|Kinless Watch]], a fort on the road to the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] whose garrison are men cast out by their tribes. A guard of the court holds Shebarakhend, and every tagemader keeps a garrison of his town. The army holds walls and wells well and moves slowly; it does not follow raiders into the open desert.
+The **Ghedvader of the Host** commands the standing army in the field, and the army sits where the roads and the wells need it. A mounted garrison at Tahrodan keeps the caravan roads clear for a day's ride around the crossroads. The southern host at [[place-qarvelakhend|Qarvelakhend]], under a _ghedvader_ of its own, watches the desert edge and pays and supplies the [[place-kinlesswatch|Kinless Watch]], a fort on the road to the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] whose garrison are men cast out by their tribes. A guard of the court holds Shebarakhend, and every tagemader keeps a garrison of his town. In the far east each walled town of [[place-threeseas|the Three Seas]] keeps a garrison of the Host under its tagemader, most of them larger than any town guard in the west, against Khazrin steppe bands, the kinless of the desert and the [[affiliation-blackflame|Black Flame]] warbands that cross the northern border. The herding clans of the Three Seas pay the Shebarader's herd tax, in animals, at the town fairs. The army holds walls and wells well and moves slowly; it does not follow raiders into the open desert.
 
 ## Commerce and Currency {#commerce}
 
@@ -132,6 +133,8 @@ Across the strait, relations with the [[affiliation-cnfdrtntrzlnstts|Confederati
 The Kingdom lends the [[affiliation-cnclprinces|Council of the Princes]] the ground it meets on once a year, and the High Shekhul of [[affiliation-ahurdaen|Ahurdaen]] at the [[place-grtfiretmpl|Great Fire-Temple of Amradad]] convenes it. The exile houses hold no place on the Kingdom's ladder. A Tellumi prince is a guest of the throne, received at court by the Shebarader's courtesy and by nothing he can claim; the Tellumi of the quarter stand at law as subjects and notables like any Amradi, and the houses' retinues are tolerated while they stay discreet, since the Kingdom's law forbids them any military activity. That gap between a prince's blood and his standing in Amradad is what the houses' petitions are about.
 
 To the north, the [[affiliation-byzarianlg|Bizarian League]]'s [[place-southrnmrch|Southern March]] is border country of customs posts and drovers, and the two keep the peace of neighbors who trade.
+
+The Black Flame has no footing in the Kingdom: no temple and no convert among the Amradi. Its warbands cross the northern border from the hinterlands of Bizaria and Helionis, the fire-temples condemn it, and the Kingdom's garrisons fight its warbands wherever they meet them.
 
 ## Hooks {#hooks}
 
