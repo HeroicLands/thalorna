@@ -32,7 +32,7 @@ data:
     nose: straight
     brow: straight
     mouth: small
-    extra_features: [a wooden practice sword at the belt, ash on the sleeves]
+    extra_features: []
   packFolder: ankarisjenchai
 ---
 

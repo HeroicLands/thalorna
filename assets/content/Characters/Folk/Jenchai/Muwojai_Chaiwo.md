@@ -32,7 +32,7 @@ data:
     nose: broad
     brow: bushy
     mouth: thin
-    extra_features: [a cedar-wood walking staff, a deep scar on the neck]
+    extra_features: [a deep scar on the neck]
   packFolder: ankarisjenchai
 ---
 
