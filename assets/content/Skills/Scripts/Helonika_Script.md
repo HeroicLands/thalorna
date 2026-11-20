@@ -41,6 +41,9 @@ Helonik
 [[skill-valtarlng|Valtari]]
 : in the northern and Helonik-facing ports, where a docker's tally is set down in Helonik letters by whoever is holding the stylus, with no orthography worth the name.
 
+[[skill-velanthlng|Velanthian]]
+: the tongue of the Velanthian river-courts and monasteries, written with the letters of the Helónika: _sh_ and _ch_ spelled out from their parts, _y_ sharing the sign of _i_, and every other letter its own.
+
 ## Hands
 
 The book hand is upright, evenly spaced, and slow, and is what a copyist in a monastery or a chapterhouse of the [[affiliation-panepistmm|Epistémion]] produces. Against it stands **cursive Bizarian**, the abbreviated hand in which a merchant house keeps its local books—rapid, ligature-choked, and, in the League's own phrase, incomprehensible to the untrained. A reader fluent in the book hand may be functionally illiterate in a Nesthiros factor's daybook.
