@@ -23,30 +23,32 @@ data:
 
 ## Overview {#overview}
 
-Gar-Anlaghet is where [[affiliation-empireakhlth|Au'Khelathu]] meets the sea, and the sea has learned to expect it. The city stands on the westernmost and deepest mouth of the river, where the channel runs broad enough to take the largest ships, and it is the empire's principal sea-gate: a crowded sprawl of quays, bonded warehouses, counting-houses and foreign quarters, home to about 120,000 people. After the capital it is the richest and most cosmopolitan city in the realm, and the wealth of the whole empire is loaded out here while the goods of the wider world are brought in. The city eats from the delta's shipping: grain barges from the valley come down to its quays in a steady line, the tribute grain of the upper selatu waits in its bonded granaries before it sails, and the fishing towns of the marsh-channels supply the rest.
+Gar-Anlaghet is where [[affiliation-empireakhlth|Au'Khelathu]] meets the sea, and the sea has learned to expect it. The city stands on the westernmost and deepest mouth of the river, where the channel runs broad enough to take the largest ships, and it is the empire's principal sea-gate: a crowded sprawl of quays, bonded warehouses, counting-houses and foreign quarters, home to about 120,000 people. After the capital it is the richest and most cosmopolitan city in the realm. It is the capital of [[affiliation-selatgrnlght|the Selat of Gar-Anlaghet]], the first of [[affiliation-deltaselatu|the Delta Selatu]], and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]].
 
-The harbor never sleeps. Grain, papyrus, linen, gold and exquisite artisan work go down to the ships; timber, metals, spices, wine and the luxuries of the [[place-midhalnrgn|Midhalión Region]] come up the quays. Every cargo is taxed at the [[lore-garauu|Gar-Au]]'s customs-house, and every fortune made on one is banked through the [[affiliation-garhalzi|Gar-Hálzi]] houses of the waterfront. A factor who pays in foreign coin finds it weighed and discounted against the gezan standard at a money-changer's table on the quay before it buys anything, so carry the empire's own weight-pieces if you can.
+Merchant factories from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] and Midhalión keep permanent quarters here, and a dozen tongues sound along the dockside. The city is mercantile and pleasure-loving, and it worships [[lore-thubaidty|Thuba'i]], lord of abundance, with the easy confidence of the very rich; the great temple's festivals fill the port's calendar.
 
-Merchant factories from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] and Midhalión keep permanent quarters here, and a dozen tongues sound along the dockside. The city's temper is mercantile and pleasure-loving, and it worships [[lore-thubaidty|Thuba'i]], lord of abundance, with the easy confidence of the very rich; the great temple of Thuba'i and the festivals around it fill the port's calendar. The merchant-Halzi'a who rules from here is reckoned the wealthiest noble in the empire outside the royal house and the most worldly. Every dealing is weighed against the capital's standing suspicion that the delta would sell the realm for a good freight-rate.
+## Politics {#present}
 
-## Notable Features
+The empire's sea-gate is where it finds out how much grain the world will sell it. The Halzi'a, first of the delta and the wealthiest noble in the empire outside the royal house, sends the throne the customs duty that the Overseer of the Sea-Gate collects and keeps the selat's own harbor fees. The factors of the Taruzelian houses hold grain and ask their prices, and the merchant families who run the selat buy and sell on both sides. The Halzi'a lends the throne silver at interest and sends his tribute as loans. Through the Gar-Hálzi correspondents he presses the Bethuan Trade-Houses to sell the surplus that their aqueducts yield, and the price he can get decides whether [[place-galezkara|Galezkara]] is fed. In the capital the delta is suspected of being a bad harvest away from selling the realm for a good freight-rate.
 
-- The great harbor, the empire's principal deep-water sea-gate
-- The foreign quarters, with permanent Taruzelian and Midhalión merchant factories
-- The Gar-Au's chief customs-house and the bonded warehouses of the waterfront
-- The Gar-Hálzi banking-houses, hub of the empire's foreign-exchange and credit trade
-- The great temple of Thuba'i
+## Order and Law {#order-and-law}
+
+The Halzi'a of Gar-Anlaghet is a hereditary governor and a Zabu, as much merchant and diplomat as lord. The Overseer of the Sea-Gate, named by the [[lore-garauu|Gar-Au]], keeps office in the city and collects the customs duty at all ten delta selatu. He licenses the foreign factors and their warehouses. The Harbor-Master berths the ships and holds the bonded warehouses, and the Customs-Scribes enter every bale in the rolls. Four hands are in every purse on the quay: the selat takes a fee on the harbor, the customs-house takes the duty, the Gar-Hálzi, the hub of the empire's foreign exchange and credit, take the exchange, and the factors take what is left. A money-changer on the quay weighs foreign coin against the gezan standard, so a factor carries the empire's weight-pieces. The danger is the waterfront: smuggling, brokerage fraud, theft from bonded stores and merchant feuds, in a port full of foreign agents.
+
+## What the City Lives By {#what-the-city-lives-by}
+
+The city grows hardly any of its own bread and takes a fee on every transaction. Grain, papyrus, linen, gold and artisan work go down to the ships, and timber, metals, spices, wine and the luxuries of the [[place-midhalnrgn|Midhalión Region]] come up the quays. It eats from the delta's shipping: grain barges come down, the tribute grain of the upper selatu waits in its bonded granaries before it sails, and fish and crews come from [[place-megitgar|Megit-Gar]] (about 14,000), the fishing-and-victualing city on a northern channel. The channel villages around the port, among them [[place-chauthamegit|Chautha-Megit]], [[place-garirezu|Gar-Irezu]] and [[place-gadjuzechi|Gadju-Zechi]], live by fishing and ferrying. A low river shifts the fish, which come in later and from farther out, and the foreign ships that bring bread-grain set the price.
 
 ## See Also {#see-also}
 
 [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]
 : Parent selat
 
+[[place-garanlghtslt|Gar-Anlaghet Selat]]
+: The land the selat holds
+
 [[affiliation-deltaselatu|The Delta Selatu]]
 : Selat-class
-
-[[affiliation-empireakhlth|Empire of Au'Khelathu]]
-: Imperial overview
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : Chief trading partner
