@@ -32,6 +32,12 @@ The people who keep it are the **shurem**, the ash: those put out of the Flame, 
 
 The herders' track from Zarhanis crosses open grazing for two days on horse. The wall can be seen from a long way, and the track bends away from it. A traveler who keeps to the wall finds the old gate, its cairn and the cattle-ground beyond, which a stranger should cross by daylight.
 
+## What Is There Now {#present}
+
+The estate stands as it has stood, and this year more of the clans' attention falls on it. The dues that the clans carry up to the moots have risen, and the herders who graze within sight of the wall count the lost cattle-ground against what the cities ask of them. A chieftain who has lost herd to the ash-cattle cannot carry the loss to the moot without hearing it called his clan's neglect, so he pays the full count and says nothing of the ground.
+
+The Granary-Keepers of Zarhanis keep the estate off their registers, and the court at Zarhanis is waiting on the Oracle and has no thought to spare for a struck estate. The shurem in the old bondsmen's yard take what the quiet gives them. They keep the fire, they bury the dead of the ash-cattle ground without a mark, and they give no sign to the herders who watch from the track. Nobody has yet asked them to leave, and no clan is willing to be the one that does.
+
 ## Hooks {#hooks}
 
 - **The thief.** A drover says the granary's tribute-chest was never recovered when the estate was struck from the rolls, and that the temple would pay well for it back, quietly.
