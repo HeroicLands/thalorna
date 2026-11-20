@@ -3,7 +3,7 @@ shortcode: skgrdbrshv
 name: {full: Sokogor Dobrashov, en: [Tarvál Scout at Sedrovod]}
 type: being
 subType: npc
-description: "The Tarvál Host rider the prince of Brelavesh sends to Sedrovod Fort each season as a tracker, who reads the paths from the marsh and reports to the warden, not to the Host."
+description: "The Tarvál Host rider the prince of Brelavesh sends to Sedrovod Fort each season as a tracker, who reads the paths from the marsh for the warden while taking his orders from his ataman."
 tags: []
 data:
   icon: icon-person
@@ -60,16 +60,12 @@ Sokogor Dobrashov is a 29-year-old man who stands 5' 9" tall and is of light bui
 
 **Age 29. Rider of the Tarvál Host lent to Sedrovod Fort as a scout. Wants the paths from the marsh read before the warden has to guess.**
 
-Sokogor Dobrashov rides for the [[affiliation-hsttrvl|Tarvál Host]], which serves the prince of Brelavesh for pay, and the prince sends him each season to [[place-sdrvdfrt|Sedrovod Fort]] as a tracker. He reads the small signs along the forest road and the edge of the marsh, a broken reed or a cooked bone or a track that stops at a bank, and tells the warden what crossed in the night. The wardens are paid in the same silver that pays his Host, and neither of them has been paid on time. He answers to the warden of the fort and not to his ataman while he is there.
+Sokogor Dobrashov rides for the [[affiliation-hsttrvl|Tarvál Host]], which serves the prince of Brelavesh for pay. The ataman, [[being-vlkrkdgrch|Volkar Kodogorich]], lends him to [[place-sdrvdfrt|Sedrovod Fort]] each season as a tracker. He reads the signs along the forest edge and the marsh, a broken reed or a cooked bone, and tells the warden what crossed in the night. The warden has him for the season; Volkar gives the orders.
 
 ## Background
 
-**Formation.** He grew up among the horse-keepers of Dobrashov beside its river well and learned tracking from the herds' wolf-hunters before he rode in the muster.
-
-**The fort.** He went to Sedrovod Fort at twenty-six, the first season the prince of Brelavesh lent the forts a rider, and has gone back each year since.
-
-**Now.** He holds a place by the fort's gate, the warden's trust and a habit of walking the forest edge before dawn.
+He learned tracking from the wolf-hunters of the Dobrashov herds. He first went to the fort at twenty-six and returns each year.
 
 ## Plot Hooks
 
-1. **A track that stops.** Sokogor has found a track at the edge of the marsh that ends at a bank with no crossing, and he wants a party to follow it to the cause-walk he cannot see.
+1. **A track that stops.** A track at the marsh edge ends at a bank with no crossing, and Sokogor wants a party to follow it to the cause-walk he cannot see.

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: velanthclt
   homes: [brlvsh]
-  affiliations: {prncdmbrlvsh: {rank: 2}}
+  affiliations: {}
   gender: female
   species: humanflk
   born: "691.80"

@@ -60,7 +60,7 @@ Mevrash Zhitogorich is a 34-year-old man who stands 5' 8" tall and is of light b
 
 Mevrash Zhitogorich sits on a bench by the south gate of [[place-tvskvsh|Tveskavesh]] with a tally-board on his knee and counts the wagons that go through, with their teams, their loads and the names painted on their sides. He is a factor of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]], sent by a port house to learn how much grain goes south that the port does not see, and he pays the carters a fair price for the lists they would rather not give. The reeve, [[being-tvsknsdrgrch|Tveskana Sedrogorich]], tolerates him because he pays the gate's clerks on time.
 
-:::secret {title="The monks' wagons"}
+:::secret {title="The carter's silver"}
 His house believes his list covers every wagon that goes south. It leaves out the monastic wagons, because a carter in the lane behind the south gate pays him a silver a month to look the other way.
 :::
 
@@ -88,7 +88,7 @@ He never forgets a wagon, and the gate's clerks and the stable-hands treat him a
 
 ### Weaknesses
 
-He is owed his own house's gratitude and has never been given it, and he is easier to buy than he looks.
+He is owed his own house's gratitude and has never been given it, and he trusts a written list over any face.
 
 ## Social
 

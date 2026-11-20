@@ -95,7 +95,7 @@ He is hated by the families he fails and distrusted by the families he serves, a
 
 ### Affiliations
 
-- **Wardens of the forts**: let him pass at any hour on a ransom, and ask no price for the courtesy.
+- [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]: its wardens let him pass at any hour on a ransom, and ask no price for the courtesy.
 
 ## Plot Hooks
 

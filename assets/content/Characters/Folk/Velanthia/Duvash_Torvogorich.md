@@ -65,7 +65,7 @@ Duvash Torvogorich collects what the caravans owe at the gate of [[place-vlkvsh|
 
 **Formation.** He rode with the Host's herds from twelve and learned the road's prices from the caravan-masters.
 
-**The gate.** He was made toll-keeper at thirty, after the old keeper was found short by a tenth and sent back to the herds.
+**The gate.** He was made toll-keeper at thirty, after the old keeper's tallies stopped matching the wagons and he was sent back to the herds.
 
 **Now.** He holds the gate and a tally for every wagon.
 

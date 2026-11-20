@@ -68,4 +68,4 @@ Teshena Mevrekov lives on the edge of [[place-tvsknv|Tveskanov]] and reads the s
 
 ## Plot Hooks
 
-1. **The cord that will not hold.** A knot she tied against the first frost has come undone, and she wants a party to carry a handful of sorrel to the upper post .
+1. **The cord that will not hold.** A knot she tied against the first frost has come undone, and she wants a party to carry a handful of sorrel to the upper post.

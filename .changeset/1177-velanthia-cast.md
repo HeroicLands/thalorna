@@ -4,6 +4,6 @@
 
 **People**
 
-- Velanthia's towns and landings have their residents: a granary-keeper, a miller, an infirmarian, a harper, a barge-master, a fur-buyer, an armorer, a ransom broker and the Hosts' toll-keeper and warden of the passes, each with a want and a hook.
-- A pass-market agent counts the wagons that go south, a rain-wife reads the foothill sky for the Sevret Host, and the headman of the river village the Soqritur hold keeps the river law between two collectors.
-- Grukarholm has six human beings: the warden of Torvogor Fort, the healer and the river-trader of its village, a Tarvál Host scout at Sedrovod Fort, a Varokh fur hunter and a survivor of a raid.
+- Velanthia's towns and landings gain residents: a granary-keeper, a miller, an infirmarian, a harper, a barge-master, a fur-buyer, an armorer, a broker and the Hosts' gate officers.
+- A pass-market agent counts the southbound wagons, a rain-wife reads the foothill sky, and a river-village headman keeps the law between two collectors.
+- Grukarholm has six human beings: a fort warden, a healer, a river-trader, a Host scout, a fur hunter and a raid survivor.

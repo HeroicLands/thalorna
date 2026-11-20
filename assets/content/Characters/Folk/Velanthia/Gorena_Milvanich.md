@@ -88,7 +88,7 @@ Her hands are sure, her herb-loft covers every ordinary fever, and no hall rider
 
 ### Weaknesses
 
-She is stretched thin in a winter fever, and she remembers every wound she has been told to call something else.
+She is stretched thin in a winter fever, and she will not leave a fever bed for a summons, whoever sends it.
 
 ## Social
 
