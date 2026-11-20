@@ -1,9 +1,9 @@
 ---
 shortcode: lengwou
-name: {full: The Dawn Court, jurt: [Lengwou]}
+name: {full: Lengwou, en: [The Dawn Court]}
 type: place
 subType: settlement
-description: "The Dawn Court, the Emperor's capital on the lowest slope of Zojai—a town of 12,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
+description: "Lengwou, the Emperor's capital on the lowest slope of Zojai—a town of 12,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
 tags: [town, capital, court]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
   government: jenchaiempr
   packFolder: jenchai
   culture: jenchaiclt
-  notes: "The Dawn Court, the Emperor's capital on the lowest slope of Zojai—a town of 12,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
+  notes: "Lengwou, the Emperor's capital on the lowest slope of Zojai—a town of 12,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
 ---
 
 Lengwou (the Dawn Court) is the capital of [[affiliation-jenchaiempr|Jenchai]], a town of 12,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Dauzhwo holds.

@@ -113,7 +113,7 @@ The people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheo
 
 ## Relations
 
-Norgaad's central position makes it the natural mediator among the Nordmen kingdoms. When the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace, and when the [[lore-grukarfolk|Grukar]] press westward, Norgaad calls the moot. The role gives the kingdom influence beyond its military strength, and its kings have been among the most politically skilled of the Nordmen rulers. Norgaad is unaligned with each of its four sister kingdoms, Nordheim, Malagna, the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]].
+Norgaad's central position makes it the natural mediator among the Nordmen kingdoms. When the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace, and when the [[lore-grukarfolk|Grukar]] press north, Norgaad calls the moot. The role gives the kingdom influence beyond its military strength, and its kings have been among the most politically skilled of the Nordmen rulers. Norgaad is unaligned with each of its four sister kingdoms, Nordheim, Malagna, the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]].
 
 ## Commerce and Currency
 
@@ -139,4 +139,4 @@ The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-
 : the pantheon
 
 [[place-grkrhlmrgn|Grukarholm Region]]
-: the eastern threat
+: the southern threat

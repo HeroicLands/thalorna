@@ -9,6 +9,7 @@ data:
   lore: [varokhiclt, grukarfolk]
   parents: [vrystwald]
   population: null
+  borders: [{to: grkrhlmrgn, bearing: E}]
   routes:
     - {to: thornwald, bearing: W, mode: land, days: 45, terrain: [forest]}
     - {to: vandstein, bearing: SE, mode: land, days: 45, terrain: [forest, mountains]}

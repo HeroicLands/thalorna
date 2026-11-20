@@ -8,4 +8,4 @@ tags: [draft]
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 
-Youbwi is the Keeper of the Jade Seal in the [[affiliation-tengwouronglei|Tengwou Rong Lei]]. His seal is what makes a celestial appointment legitimate. His standing is recorded in the [[affiliation-youwei|Youbwi]] affiliation.
+Youbwi is the Keeper of the Jade Seal in the [[affiliation-tengwouronglei|Tengwou Rong Lei]]. Her seal is what makes a celestial appointment legitimate. Her standing is recorded in the [[affiliation-youwei|Youbwi]] affiliation.

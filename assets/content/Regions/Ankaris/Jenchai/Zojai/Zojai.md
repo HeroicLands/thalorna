@@ -1,9 +1,9 @@
 ---
 shortcode: zojai
-name: {full: Lord's Peak, en: [Dragon's Mountain], jurt: [Zojai]}
+name: {full: Zojai, en: [Lord's Peak, Dragon's Mountain]}
 type: place
 subType: region
-description: "The Dragon's Mountain, the Emperor's own in the interior of the great island beside Zijai—the seat of the Dawn Rite, and the limit of the imperial person's world."
+description: "Zojai, the Emperor's own mountain in the interior of the great island beside Zijai—the seat of the Dawn Rite, and the limit of the imperial person's world."
 tags: [mountain, volcanic, interior, sacred, imperial]
 data:
   demonym: null

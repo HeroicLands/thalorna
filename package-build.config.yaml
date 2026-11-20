@@ -451,8 +451,8 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-senaliclt'
         - id: tantsou
-          title: Tāntsou
-          abbreviation: "Tānt."
+          title: Tantsou
+          abbreviation: "Tant."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -471,8 +471,8 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-tantsouclt'
         - id: jenchai
-          title: Jénchài
-          abbreviation: "Jür."
+          title: Jenchai
+          abbreviation: "Jen."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Places
