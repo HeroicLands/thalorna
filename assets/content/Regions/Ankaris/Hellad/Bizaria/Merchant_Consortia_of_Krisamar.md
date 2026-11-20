@@ -3,7 +3,7 @@ shortcode: mrchntcnsrtchr
 name: {full: Merchant Consortia of Krisamar}
 type: affiliation
 subType: polity
-description: "The merchant consortia whose warehouses line the harbor of Krisamar and who operate independently of the strict governance of the League's larger cities."
+description: "The merchant consortia whose warehouses line the harbor of Krisamar and who operate independently of the strict governance of the League's city-states."
 data:
   templatePriority: null
   demonym: null
@@ -12,7 +12,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      Merchant consortia own the harborfront warehouses and run the port's affairs more informally than the League's larger cities.
+      Merchant consortia own the harborfront warehouses and run the port's affairs more informally than the League's city-states.
     ranks:
       - level: 0
         title: Struck from the Roll

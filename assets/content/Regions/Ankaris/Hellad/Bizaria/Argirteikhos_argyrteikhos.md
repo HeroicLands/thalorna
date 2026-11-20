@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: argyrteikhos2
-  population: 200000
-  territorial_population: 200000
+  population: 190000
+  territorial_population: 190000
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]
@@ -71,11 +71,11 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The smallest of the five [[affiliation-byzarianlg|League seats]] pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 5,500 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 200,000 that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Bizaria]], and that fact settles most of what the other four cities think of it: the League trades in peace because Argirteikhos is ready for war.
+The smallest of the five [[affiliation-byzarianlg|League seats]] pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 5,500 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 190,000 that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Bizaria]], and that fact settles most of what the other four city-states think of it: the League trades in peace because Argirteikhos is ready for war.
 
 ## Who Decides
 
-A military governor and a council of merchant-princes govern the city-state. The governor sits on the League council beside the merchant-princes, and his seat there is a reminder of whose garrison the League's prosperity rests on. The city's own council elects a First of the Council for a fixed term, who holds the city's seal.
+A military governor and a council of merchant-princes govern the city-state. The governor sits on the League council beside the merchant-princes, and his seat there is a reminder of whose garrison the League's prosperity rests on. The city-state's own council elects a First of the Council for a fixed term, who holds the city-state's seal.
 
 The garrison's work is deterrence. It keeps the mountain routes open for trade and keeps eastern warlords, desert raiders and bandits from testing them, and its visible readiness to fight is meant to make fighting unnecessary. The command beyond the pass is a separate one. The Lord Commander of the [[place-eastrnmrch|Eastern March]] answers to the League council, not to the governor, and the two commands are meant to check each other; because they face the same country they cooperate closely, with a mounted reserve at Argirteikhos able to reach any post on the March within two days.
 
@@ -85,19 +85,19 @@ The monasteries of the eastern rite are especially influential here, and they ar
 
 ## Standing
 
-Argirteikhos keeps the League's ladder of standing. The freeman is enrolled in the city's register, trades in its markets and pleads in its courts; the resident lives and labors under its protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head and the councillor, and the military governor holds a place on the League council that no rung of the ladder describes: he is there for the garrison.
+Argirteikhos keeps the League's ladder of standing. The freeman is enrolled in the city-state's register, trades in its markets and pleads in its courts; the resident lives and labors under its protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head and the councillor, and the military governor holds a place on the League council that no rung of the ladder describes: he is there for the garrison.
 
 ## Relations
 
-Argirteikhos is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Its silver goes into the common treasury that pays the March's garrison and the joint army all five cities raise by conscription, and that arrangement is the reason the other four cities put up with a soldier at the council table.
+Argirteikhos is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Its silver goes into the common treasury that pays the March's garrison and the joint army all five city-states raise by conscription, and that arrangement is the reason the other four city-states put up with a soldier at the council table.
 
 ## Commerce and Currency
 
-Argirteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Argirteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Argirteikhos uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Argirteikhos, a member of a province of the empire in law, takes full part in the trade and banking infrastructure of the Vilérian system. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## Current Situation {#present}
 
-The silver of the peaks pays for the pass and the joint army, and the other four cities accept a soldier at the council table because of it. The governor and the Lord Commander of the Eastern March answer to different offices and watch the same road.
+The silver of the peaks pays for the pass and the joint army, and the other four city-states accept a soldier at the council table because of it. The governor and the Lord Commander of the Eastern March answer to different offices and watch the same road.
 
 ## History {#history}
 

@@ -12,12 +12,12 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      The heads of the twelve greatest guilds sit as the city's council, and artisan interests negotiate for precedence and resources within it.
+      The heads of the twelve greatest guilds sit as the town's council, and artisan interests negotiate for precedence and resources within it.
     ranks:
       - level: 0
         title: Struck from the Roll
         description: >-
-          A guild member struck from the roll of a guild that sits on the Council, losing their trade, charter and the city's protection.
+          A guild member struck from the roll of a guild that sits on the Council, losing their trade, charter and the town's protection.
       - level: 1
         title: Guild Member
         description: >-

@@ -21,7 +21,7 @@ data:
         description: "Owned outright, with no standing before the law except through an owner."
       - level: 2
         title: Freedman
-        description: "Manumitted, working and trading in the city, and barred from the assembly for life."
+        description: "Manumitted, working and trading in the city-state, and barred from the assembly for life."
       - level: 3
         title: Metic
         description: "A resident foreigner, the student from abroad who stays on among them: taxed and liable to the levy, with no vote and no right to own land."
@@ -33,10 +33,10 @@ data:
         description: "Sits on the philosophical council that prepares the assembly's business, drawn from the senior scholars of the great academies and the heads of the oldest patrician families."
       - level: 6
         title: Magistrate
-        description: "Elected or allotted to an office of the city, its markets, its walls, its treasury, its courts, and audited at the end of the year."
+        description: "Elected or allotted to an office of the city-state, its markets, its walls, its treasury, its courts, and audited at the end of the year."
       - level: 7
         title: Strátimor
-        description: "Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit."
+        description: "Elected to command the city-state's forces, the one office the citizens elect rather than allot, and re-elect without limit."
       - level: 8
         title: Arsir
         description: "Presiding magistrate of the year, who gives it his name and hands it back, while the assembly remains sovereign throughout."
@@ -73,17 +73,17 @@ Government
 
 ## Who Decides
 
-Power in Thirenae follows a reputation for learning before it follows money. A philosophical council governs the city, drawn from the senior scholars of the great academies and from the heads of its oldest patrician families, who have endowed chairs of philosophy, funded libraries and patronized research for generations. The most influential citizens are the most respected thinkers, and they are not always the wealthiest.
+Power in Thirenae follows a reputation for learning before it follows money. A philosophical council governs the city-state, drawn from the senior scholars of the great academies and from the heads of its oldest patrician families, who have endowed chairs of philosophy, funded libraries and patronized research for generations. The most influential citizens are the most respected thinkers, and they are not always the wealthiest.
 
-A steward who keeps the accounts of a Thirenean gymnasium, asked why his master pays for the benches and the lecturers' fees out of his own purse, answers: "Because a ghimarir who gives the city a good teacher is remembered at the council table, and one who gives it a banquet is remembered by the caterer." The office is an honor that costs the holder money, and in Thirenae the honor is worth it.
+A steward who keeps the accounts of a Thirenean gymnasium, asked why his master pays for the benches and the lecturers' fees out of his own purse, answers: "Because a ghimarir who gives the town a good teacher is remembered at the council table, and one who gives it a banquet is remembered by the caterer." The office is an honor that costs the holder money, and in Thirenae the honor is worth it.
 
 The council works inside the constitutional forms all seven city-states keep: a sovereign assembly, a council chosen by lot, audited magistrates, an elected strátimor and an arsir who gives the year his name. [[affiliation-ctysttshlns|City-States of Helionis]] sets them out.
 
-A student from abroad who stays on to study is a metic: taxed, liable to the levy, with no vote and no right to own land. A person can earn the most prestigious education in the west and never vote in the city that gave it.
+A student from abroad who stays on to study is a metic: taxed, liable to the levy, with no vote and no right to own land. A person can earn the most prestigious education in the west and never vote in the city-state that gave it.
 
 ## The Arcane Order and the Colleges
 
-The Arcane Order was born in these academies, and the city keeps the non-arcane colleges of the original federation, founded [[lore-panepistfnd|around 400 BF]], with real authority. A Thirenean philosopher may study arcane theory without joining the Arcane Order, as long as he does not practice. The line between theory and practice is where the tension lives.
+The Arcane Order was born in these academies, and the town keeps the non-arcane colleges of the original federation, founded [[lore-panepistfnd|around 400 BF]], with real authority. A Thirenean philosopher may study arcane theory without joining the Arcane Order, as long as he does not practice. The line between theory and practice is where the tension lives.
 
 A clerk of an Arcane Order chapter in [[place-helionis|Helionis]] puts the Arcane Order's side of the line in two sentences: "Read what you like and argue what you like. Our interest begins the day you do it."
 
@@ -93,15 +93,15 @@ Thirenae was the last city of Helionis to fall, in 312 BF, on terms its arsir [S
 
 ## Relations
 
-Thirenae is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and with the Epistémion. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thirenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thirenae has built, so the two are rivals and partners together. Thirenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
+Thirenae is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and with the Epistémion. Among the city-states, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thirenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thirenae has built, so the two are rivals and partners together. Thirenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
 
 ## Commerce and Currency
 
-Thirenae uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Thirenae uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the city-states' taxes on paper, and the city-states do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## Current Situation {#present}
 
-The colleges of the Epistémion keep real authority in the city, and the line between arcane theory and practice is the standing tension between them and the Arcane Order. The walled-up gate of the siege stays closed, and the colleges keep its day as a day of silence.
+The colleges of the Epistémion keep real authority in the town, and the line between arcane theory and practice is the standing tension between them and the Arcane Order. The walled-up gate of the siege stays closed, and the colleges keep its day as a day of silence.
 
 ## History {#history}
 

@@ -91,7 +91,7 @@ Nesthiros and Taruzelian merchantmen share the same docks and the same sea. [[af
 
 ## Commerce and Currency
 
-Nesthiros uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Nesthiros is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vilérian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Nesthiros uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]]-member moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. Nesthiros, a member of a province of the empire in law, takes full part in the trade and banking infrastructure of the Vilérian system. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## Current Situation {#present}
 

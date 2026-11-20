@@ -18,7 +18,7 @@ data:
 
 ## Overview {#overview}
 
-Say you reach **Kalidria** in the weeks of a theater festival. The inns are full, a crowd is outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. Where [[place-thyrenae2|Thirenae]] pursues truth and [[place-pelagora2|Pelagora]] pursues power, this town of 5,000 pursues beauty, and it is the cultural jewel of [[place-helionis|Helionis]]. Its patron is [[lore-zunelasdty|Zunelas]], goddess of dreams and visions.
+In the weeks of a theater festival **Kalidria** is crowded: the inns are full, a crowd is outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. Where [[place-thyrenae2|Thirenae]] pursues truth and [[place-pelagora2|Pelagora]] pursues power, this town of 5,000 pursues beauty, and it is the cultural jewel of [[place-helionis|Helionis]]. Its patron is [[lore-zunelasdty|Zunelas]], goddess of dreams and visions.
 
 ## Who Governs
 
@@ -46,7 +46,7 @@ The farms and terraces of its valley supply the town's bread. [[place-jalimea|Ja
 : the culture, and the place of the hetairin in it
 
 [[place-thyrenae2|Thirenae]], [[place-pelagora2|Pelagora]]
-: the sister cities
+: the sister towns
 
 [[affiliation-slvrvlacdmy|Academy of the Silver Veil]]
 : the school that trains the hetairin
