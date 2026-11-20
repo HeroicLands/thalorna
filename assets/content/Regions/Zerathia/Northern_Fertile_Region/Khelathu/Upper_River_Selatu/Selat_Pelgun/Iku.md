@@ -32,7 +32,7 @@ The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Selat-Pe
 
 ## The Present {#present}
 
-The harvest is thinner this year. The caravans from the eastern roads still come down, carrying goods and no grain, and the villages sell them what they can spare. The festivals are shorter, the feasts smaller, and the people stretch what they have. The seat's markets buy what the caravans carry,. The Halzi'a keeps the harvest grain in the temple of Pelgun to feed the festival-goers who still come, and he sends the throne his render in coin from the caravan tolls.
+The harvest is thinner this year. The caravans from the eastern roads still come down, carrying goods and no grain, and the villages sell them what they can spare. The festivals are shorter, the feasts smaller, and the people stretch what they have. The seat's markets buy what the caravans carry. The Halzi'a keeps the harvest grain in the temple of Pelgun to feed the festival-goers who still come, and he sends the throne his render in coin from the caravan tolls.
 
 ## See Also {#see-also}
 

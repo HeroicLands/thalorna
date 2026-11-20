@@ -34,7 +34,7 @@ The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Gar-Lut 
 
 ## The Present {#present}
 
-The herb-gardens depend on the canals, and two low floods have shortened the water the Canal-Warden has to ration. The temple of Uzn'era is served first, then the village plots, and the garden-towns trade herbs for grain on worse terms every month. The healers are called to more sickbeds than the herb-gardens can supply, and the shrines buy what they lack from other selatu at the price of the day. The town is orderly, since the selat is small and its people are devout. The selat pays what it owes, which is little, and the Halzi'a's render reports no dispute with the Measure.
+The herb-gardens depend on the canals, and two low floods have shortened the water the Canal-Warden has to ration. The temple of Uzn'era is served first, then the village plots, and the garden-towns trade herbs for grain on worse terms every month. The healers are called to more sickbeds than the herb-gardens can supply, and the shrines buy what they lack from other selatu at the price of the day. The town is orderly, since the selat is small and its people are devout. The selat pays what it owes, which is little, and the Halzi'a's render reports no dispute with [[place-themeasure|The Measure]].
 
 ## See Also {#see-also}
 

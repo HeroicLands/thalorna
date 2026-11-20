@@ -30,7 +30,7 @@ Gadju-Mulu feeds on the marsh and on its temple. The flax of the flood-basin, re
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Gadju-Mulu holds court and granaries here beside the temple's high priest, and the temple's feasts are the town's calendar. Order in the marsh is mostly a matter of boats: a boat-steerer who knows the channels is a person the selat's officers know by name. The standing water brings fever, and in a bad season the gates of the rim towns close to the basin. The [[place-drownstones|Drowned Stones]] lie in the southern marsh inside the Zeghet'Nelgu's charter.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Gadju-Mulu holds court and granaries here beside the temple's high priest, and the temple's feasts are the town's calendar. Order in the marsh is mostly a matter of boats: a boat-steerer who knows the channels is a person the selat's officers know by name. The standing water brings fever, and in a bad season the gates of the rim towns close to the basin. The [[place-drownstones|Drowned Stones]] lie in the southern marsh inside the [[affiliation-zeghetnelgu|Zeghet'Nelgu]]'s charter.
 
 ## The Present {#present}
 

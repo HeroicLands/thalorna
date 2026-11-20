@@ -24,7 +24,7 @@ Yath-Lemet is the smallest capital on the upper river, with about 6,000 people c
 
 ## What the Town Lives By {#lives}
 
-The narrow valley feeds the town badly. The gorge has few villages, each of a few families on a strip of field, and no market town beside the seat. The town buys most of its bread from the selatu on either side of the gorge, by barge, and pays with the offerings of the chief temple of Chelsur and the tolls of the river traffic that must pass the narrows. It lives by trade and by the temple. The temple licenses the ferrymen who cross at the seat, and the licence is the temple's to withdraw.
+The narrow valley feeds the town badly. The gorge has few villages, each of a few families on a strip of field, and no market town beside the seat. The town buys most of its bread from the selatu on either side of the gorge, by barge, and pays with the offerings of the chief temple of Chelsur and the tolls of the river traffic that must pass the narrows. It lives by trade and by the temple. The temple licenses the ferrymen who cross at the seat, and the license is the temple's to withdraw.
 
 ## Who Rules and Keeps Order {#who-rules}
 

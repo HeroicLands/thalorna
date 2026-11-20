@@ -38,7 +38,7 @@ The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Iqeru co
 
 ## The Present {#present}
 
-A low flood shortens the reach of the canals, and the farms at the end of the line go dry first. The farmers ask the temple of Uqa'a for seed-grain, and the priests give it against next harvest, which binds the farms to the temple a little harder each year. The temple granaries at Iqeru are lower than they were, and the Halzi'a's render reports a smaller crop than the court expected. The Measure explains most of it. The Halzi'a pays the throne from his own rolls and leaves the temple's stores alone.
+A low flood shortens the reach of the canals, and the farms at the end of the line go dry first. The farmers ask the temple of Uqa'a for seed-grain, and the priests give it against next harvest, which binds the farms to the temple a little harder each year. The temple granaries at Iqeru are lower than they were, and the Halzi'a's render reports a smaller crop than the court expected. [[place-themeasure|The Measure]] explains most of it. The Halzi'a pays the throne from his own rolls and leaves the temple's stores alone.
 
 ## See Also {#see-also}
 
