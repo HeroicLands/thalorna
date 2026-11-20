@@ -40,10 +40,44 @@ data:
         title: Dauzhwo
         description: >-
           Holds Rinjai by the Emperor's patent, with his own army, fleet, justice and taxes.
-    offices: {}
+    offices:
+      Dauzhwo: >-
+        Great Lord of Rinjai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Rinwu. Held by a Dauzhwo.
+      Judge: Chosen from the Dauzhwo's retainers to hear the cases of the town of Rinwu.
   seat: rinwu
   population: 41000
   territorial_population: 41000
+  settlements:
+    - settlement: Jawo
+      polity: affiliation-rinjaidmn
+      location: place-rinjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-rinjaidmn
+      population: 190
+      market: local
+      notes: "Blade Sea. Demesne. The raiders' harbor. Head village of a district assessed at 700 bales."
+    - settlement: Hennu
+      polity: affiliation-rinjaidmn
+      location: place-rinjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 300
+      market: local
+      notes: "Tiger Terraces. Court estate. Rice. Head village of a district assessed at 1,100 bales."
+    - settlement: Sudu
+      polity: affiliation-rinjaidmn
+      location: place-rinjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "A Shwizhwo of the domain"
+      population: 240
+      market: local
+      notes: "Serpent Road. Fief. The switchback road over Rinjai. Head village of a district assessed at 900 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -66,6 +100,8 @@ Rinjai's roll names the three villages below; smaller terraces and landings unde
 | Jawo    | Blade Sea      | Demesne      | The lord's granary at Rinwu             | The raiders' harbor             |      700 |
 | Hennu   | Tiger Terraces | Court estate | The Emperor, through the lord's granary | Rice                            |    1,100 |
 | Sudu    | Serpent Road   | Fief         | A Shwizhwo of the domain                | The switchback road over Rinjai |      900 |
+
+Each named village is the head village of a district, and the assessment in the table is the district's.
 
 The summit shrine of Rinjai is provisioned from the lord's villages, and its Tanchei keep the mountain record for a house that holds the sea gate of the realm.
 

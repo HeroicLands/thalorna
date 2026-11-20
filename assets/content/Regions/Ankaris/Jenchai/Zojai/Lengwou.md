@@ -3,22 +3,22 @@ shortcode: lengwou
 name: {full: Lengwou, en: [The Dawn Court]}
 type: place
 subType: settlement
-description: "Lengwou, the Emperor's capital on the lowest slope of Zojai—a town of 12,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
+description: "Lengwou, the Emperor's capital on the lowest slope of Zojai—a town of 9,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
 tags: [town, capital, court]
 data:
   demonym: null
   lore: [humanflk]
   parents: [zojai]
-  population: 12000
+  population: 9000
   type: town
   market: regional
   government: jenchaiempr
   packFolder: jenchai
   culture: jenchaiclt
-  notes: "Lengwou, the Emperor's capital on the lowest slope of Zojai—a town of 12,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
+  notes: "Lengwou, the Emperor's capital on the lowest slope of Zojai—a town of 9,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
 ---
 
-Lengwou (the Dawn Court) is the capital of [[affiliation-jenchaiempr|Jenchai]], a town of 12,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Dauzhwo holds.
+Lengwou (the Dawn Court) is the capital of [[affiliation-jenchaiempr|Jenchai]], a town of 9,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Dauzhwo holds.
 
 ## The Court
 
@@ -34,7 +34,7 @@ Silver from [[affiliation-shuiwojaidmn|Shuiwojai]] has covered the gap for three
 
 ## The Town
 
-Lengwou lives on the court. Its 12,000 people are the Emperor's household and guard, the Tanchei of the shrine and the offices, the craftsmen who serve the palace, and the inns and lodgings of the envoys, who come from every house for the Dawn Rite and stay for months to bargain over their places. The town is poor beside the castle towns of the lords, since it has no fleet, mine or harbor of its own, and the rice that feeds it arrives through the granaries of the houses.
+Lengwou lives on the court. Its 9,000 people are the Emperor's household and guard, the Tanchei of the shrine and the offices, the craftsmen who serve the palace, and the inns and lodgings of the envoys, who come from every house for the Dawn Rite and stay for months to bargain over their places. The town is poor beside the castle towns of the lords, since it has no fleet, mine or harbor of its own, and no terrace of its own could feed 9,000 people. The court's tribute rice feeds it: the rice arrives through the granaries of the houses, and the town goes short when the court's receipts do.
 
 The Emperor's judges hear the town's cases, and a village of the district settles its own quarrels through its headman. Foreign ambassadors are received at Lengwou and go no farther, since the upper slope of Zojai is closed to them.
 

@@ -22,7 +22,7 @@ Yuwu (Moon Hall) is the castle town and seat of [Wojai Doja]{.name data-type="be
 
 The quays run for the length of the shore. They hold the domain's forty hulls and the foreign ships that come to trade, and behind them stand the **customs hall**, where the [Woju]{.name data-type="affiliation/lineage"} enter every berth and toll, and the **granary**, where the lord's four parts in ten are delivered. The retainers' houses cluster near the hall, and the Tsaihwo soldiers are raised from the dock streets.
 
-The town lives on trade. Warehouses hold lacquer, silk, salt, blades and ceramics bound for the [[place-vedyarargn|Vedyaran coast]], and the counting-houses of the Shwonong lineages lend against cargoes and finance the voyages. Wealth sits with the merchants of Yuwu and rank with the retainers, and the two meet only in the lord's accounts. The merchant house that holds the pawned bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} keeps its strong-room in the town.
+The town lives on trade. Warehouses hold lacquer, silk, salt, blades and ceramics bound for the [[place-vedyarargn|Vedyaran coast]], and the counting-houses of the Shwonong lineages lend against cargoes and finance the voyages. Wealth sits with the merchants of Yuwu and rank with the retainers, and the two meet only in the lord's accounts. The lord's four parts in ten of the domain's rice fill the granary as tax, and the counting-houses buy the rest of the town's food, grain, barley and dried fish, from the coast villages and from the hulls that put in. The merchant house that holds the pawned bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} keeps its strong-room in the town.
 
 Most of the cases Doja's judges hear in the town are harbor disputes.
 

@@ -41,10 +41,44 @@ data:
         description: >-
           Holds Rojai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Rojai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Hawu. Held by a Dauzhwo.
+      Judge: Chosen from the Dauzhwo's retainers to sit in the hall at Hawu and hear the cases of the town and the harbor.
       Keeper of the Salt Records: Held by the Besheju, who keep the roll of the salt pans and the salt owed to the granary at Hawu.
   seat: hawu
   population: 105000
   territorial_population: 110000
+  settlements:
+    - settlement: Beshenu
+      polity: affiliation-shuiwojaidmn
+      location: place-rojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Besheju"
+      population: 650
+      market: local
+      notes: "Salt Terraces. Fief. Salt pans. Head village of a district assessed at 2,400 bales."
+    - settlement: Kowo
+      polity: affiliation-shuiwojaidmn
+      location: place-rojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-shuiwojaidmn
+      population: 840
+      market: local
+      notes: "Old Sea. Demesne. Shipyards and fishing. Head village of a district assessed at 3,100 bales."
+    - settlement: Rounu
+      polity: affiliation-shuiwojaidmn
+      location: place-rojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 490
+      market: local
+      notes: "Thunder Terraces. Court estate. Rice under Rojai. Head village of a district assessed at 1,800 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -67,6 +101,8 @@ Three of Rojai's villages are named here. The rest of the 78,000 bales comes fro
 | Beshenu | Salt Terraces    | Fief         | The Besheju                             | Salt pans             |    2,400 |
 | Kowo    | Old Sea          | Demesne      | The lord's granary at Hawu              | Shipyards and fishing |    3,100 |
 | Rounu   | Thunder Terraces | Court estate | The Emperor, through the lord's granary | Rice under Rojai      |    1,800 |
+
+Each named village is the head village of a district, and the assessment in the table is the district's.
 
 The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchei are provisioned from the lord's villages.
 

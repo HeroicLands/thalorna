@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [jenchairgn]
-  population: null
+  population: 105000 # computed from the people of the domain the mountain carries
   government: shuiwojaidmn
   packFolder: jenchai
   culture: jenchaiclt
@@ -22,6 +22,8 @@ The mountain rises straight from the sea. Rice grows on its terraced shoulders a
 At the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) the Tanchei read Rojai's year as a year of storms, and [Shuiwojai Henzo]{.name data-type="being/npc"}'s claim to heaven's favor rests on that reading.
 
 The lord's castle town, [[place-hawu|Hawu]], stands on the mountain's shore.
+
+105,000 people live on Rojai: the whole of the [[affiliation-shuiwojaidmn|Shuiwojai Domain]], which holds the castle town of [[place-hawu|Hawu]] (7,500 people) and the villages of its roll.
 
 ## See Also {#see-also}
 

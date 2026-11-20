@@ -41,10 +41,44 @@ data:
         description: >-
           Holds Yujai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Yujai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Yuwu. Held by a Dauzhwo.
+      Judge: Chosen from the Dauzhwo's retainers to hear the harbor disputes of the anchorage at Showo and the quays at Yuwu.
       Keeper of the Harbors: Held by the Woju, who keep the roll of the anchorages, moorings and tolls of the domain.
   seat: yuwu
   population: 70000
   territorial_population: 70000
+  settlements:
+    - settlement: Showo
+      polity: affiliation-wojaidmn
+      location: place-yujai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-wojaidmn
+      population: 240
+      market: local
+      notes: "Trade Sea. Demesne. The merchants' anchorage; tolls. Head village of a district assessed at 900 bales."
+    - settlement: Ronu
+      polity: affiliation-wojaidmn
+      location: place-yujai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 460
+      market: local
+      notes: "Flower Terraces. Court estate. Rice, mulberry and silk. Head village of a district assessed at 1,700 bales."
+    - settlement: Shodu
+      polity: affiliation-wojaidmn
+      location: place-yujai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Woju"
+      population: 320
+      market: local
+      notes: "Trade Road. Fief. The pack road inland. Head village of a district assessed at 1,200 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -58,7 +92,7 @@ The Wojai Domain, held by House Wojai (Sea Place), holds [[place-yujai|Yujai]] (
 
 ## The Land
 
-Yujai's south face opens on a deep bay. The harbor takes the ships of the domain, of the other mountains and of the foreign trade, and the lord's money comes from it before it comes from the land. [Showo]{.name data-type="place/settlement"}, the merchants' anchorage, pays the lord in tolls; [Ronu]{.name data-type="place/settlement"} pays the court in rice and silk.
+Yujai's south face opens on a deep bay. The harbor takes the ships of the domain, of the other mountains and of the foreign trade, and the lord's money comes from it before it comes from the land. Yuwu, the seat, is the one town of the domain, and it buys its grain with what the harbor earns. [Showo]{.name data-type="place/settlement"}, the merchants' anchorage, pays the lord in tolls; [Ronu]{.name data-type="place/settlement"} pays the court in rice and silk.
 
 Of the 52,000 bales on the roll, the three villages below are named; the rest comes from smaller terraces and coastal holdings under their headmen.
 
@@ -67,6 +101,8 @@ Of the 52,000 bales on the roll, the three villages below are named; the rest co
 | Showo   | Trade Sea       | Demesne      | The lord's granary at Yuwu              | The merchants' anchorage; tolls |      900 |
 | Ronu    | Flower Terraces | Court estate | The Emperor, through the lord's granary | Rice, mulberry and silk         |    1,700 |
 | Shodu   | Trade Road      | Fief         | The Woju                                | The pack road inland            |    1,200 |
+
+Each named village is the head village of a district, and the assessment in the table is the district's.
 
 The summit shrine of Yujai is provisioned from the lord's villages, and its Tanchei read the mountain for a lord whose standing rests on trade as much as on rice.
 

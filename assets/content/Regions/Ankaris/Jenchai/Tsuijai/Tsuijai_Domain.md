@@ -41,10 +41,43 @@ data:
         description: >-
           Holds Tsuijai by the Emperor's patent, with his own army, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Tsuijai, who holds the mountain by the Emperor's patent with his own army, justice and taxes, and rules it from Tsuiwu. Held by a Dauzhwo.
       Keeper of the Armory: Held by the Jaju, who keep the armory of the domain and the forge-village of Tsaigen.
   seat: tsuiwu
   population: 40000
   territorial_population: 40000
+  settlements:
+    - settlement: Jidu
+      polity: affiliation-tsuijaidmn
+      location: place-tsuijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-tsuijaidmn
+      population: 140
+      market: local
+      notes: "Metal Road. Demesne. The mines and the ore road. Head village of a district assessed at 500 bales."
+    - settlement: Kodu
+      polity: affiliation-tsuijaidmn
+      location: place-tsuijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 240
+      market: local
+      notes: "Old Road. Court estate. Rice and charcoal. Head village of a district assessed at 900 bales."
+    - settlement: Tsaigen
+      polity: affiliation-tsuijaidmn
+      location: place-tsuijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Jaju"
+      population: 160
+      market: local
+      notes: "Craft Master. Fief. The forge-village of the swordsmiths. Head village of a district assessed at 600 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -67,6 +100,8 @@ Tsuijai's roll names the three villages below; smaller terraces and mining hamle
 | Jidu    | Metal Road   | Demesne      | The lord's granary at Tsuiwu            | The mines and the ore road           |      500 |
 | Kodu    | Old Road     | Court estate | The Emperor, through the lord's granary | Rice and charcoal                    |      900 |
 | Tsaigen | Craft Master | Fief         | The Jaju                                | The forge-village of the swordsmiths |      600 |
+
+Each named village is the head village of a district, and the assessment in the table is the district's.
 
 The summit shrine of Tsuijai keeps the earth and metal aspects of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchei are provisioned from the lord's villages.
 

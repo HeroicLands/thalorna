@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [jenchairgn]
-  population: null
+  population: 70000 # computed from the people of the domain the mountain carries
   government: wojaidmn
   packFolder: jenchai
   culture: jenchaiclt
@@ -20,6 +20,8 @@ Yujai (Moon Peak) stands on the south coast of the great island, where the clima
 The south face is the domain's market. The anchorage at [Showo]{.name data-type="place/settlement"} fills the bay with the hulls of the trade, and the pack road from [Shodu]{.name data-type="place/settlement"} climbs inland to the rest of the island. Rice, mulberry and silk grow on the terraced shoulders at [Ronu]{.name data-type="place/settlement"}, and the castle town of [[place-yuwu|Yuwu]] stands on the bay's northern shore.
 
 The summit is kept as a shrine of the moon, held in the name of [[lore-youweidty|Youbwi]], Keeper of the Jade Seal, and the domain's Tanchei hold the mountain record there. Yujai's [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) waits until the tolls of the year are counted as well as the harvest, and only then is the lord's roll closed.
+
+70,000 people live on Yujai: the whole of the [[affiliation-wojaidmn|Wojai Domain]], which holds the castle town of [[place-yuwu|Yuwu]] (9,000 people) and the villages of its roll.
 
 ## See Also {#see-also}
 

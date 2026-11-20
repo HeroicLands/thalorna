@@ -41,10 +41,43 @@ data:
         description: >-
           Holds Zijai by the Emperor's patent, with his own army, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Zijai, who holds the mountain by the Emperor's patent with his own army, justice and taxes, and rules it from Kowu. Held by a Dauzhwo.
       Keeper of the Court Treasury: Held by the Weiju, who keep the strongroom of the Dawn Court at Tsaimu and the roll of what is paid into it.
   seat: kowu
   population: 42000
   territorial_population: 42000
+  settlements:
+    - settlement: Zainu
+      polity: affiliation-muwojaidmn
+      location: place-zijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 430
+      market: local
+      notes: "Crane Terraces. Court estate. Rice, the court estate nearest the throne. Head village of a district assessed at 1,600 bales."
+    - settlement: Zuju
+      polity: affiliation-muwojaidmn
+      location: place-zijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-muwojaidmn
+      population: 300
+      market: local
+      notes: "Blue River. Demesne. The ferry and toll on the road to Lengwou. Head village of a district assessed at 1,100 bales."
+    - settlement: Tsaimu
+      polity: affiliation-muwojaidmn
+      location: place-zijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Weiju"
+      population: 220
+      market: local
+      notes: "Craft Wood. Fief. Lacquer and cedar joinery. Head village of a district assessed at 800 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -67,6 +100,8 @@ Three villages are named on Muwojai's roll; the rest of its 30,000 bales comes f
 | Zainu   | Crane Terraces | Court estate | The Emperor, through the lord's granary | Rice, the court estate nearest the throne |    1,600 |
 | Zuju    | Blue River     | Demesne      | The lord's granary at Kowu              | The ferry and toll on the road to Lengwou |    1,100 |
 | Tsaimu  | Craft Wood     | Fief         | The Weiju                               | Lacquer and cedar joinery                 |      800 |
+
+Each named village is the head village of a district, and the assessment in the table is the district's.
 
 The summit shrine of Zijai is provisioned from the lord's villages, and beside it stands the observatory of the omen-readers, whose Tanchei keep the heavens for the court.
 

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [jenchairgn]
-  population: null
+  population: 92000 # computed from the people of the domain the mountain carries
   government: hojujaidmn
   packFolder: jenchai
   culture: jenchaiclt
@@ -22,6 +22,8 @@ The summit smokes, and the mountain trembles often enough that the households of
 The summit shrine is kept by the domain's Tanchei, who hold the mountain record: every eruption, earthquake and spring of Hojai is entered there under its year and the lord in whose time it fell. While the lord is a boy, the record is read at the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) to a house governed by his mother, and every tremor entered in it is weighed against her regency. An eruption is held to be heaven's attention, and a [[being-pyrclsm|Pyroclasm]] that walks out of the crater is held to be heaven's instrument.
 
 When the mountain erupts, the retainers of the house clear the villages in its path and hold the roads while the people leave.
+
+92,000 people live on Hojai: the whole of the [[affiliation-hojujaidmn|Hojujai Domain]], which holds the castle town of [[place-yanwu|Yanwu]] (6,000 people) and the villages of its roll.
 
 ## See Also {#see-also}
 

@@ -40,10 +40,46 @@ data:
         title: Dauzhwo
         description: >-
           Holds Hojai by the Emperor's patent, with his own army, fleet, justice and taxes.
-    offices: {}
+    offices:
+      Dauzhwo: >-
+        Great Lord of Hojai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and holds it from Yanwu, his mother governing as regent while he is a minor. Held by a Dauzhwo.
+      Judge: Appointed by the household from among its retainers to hear the cases of Yanwu.
+      Regent: >-
+        Governs the domain in the name of the Dauzhwo, who is a minor, with the keys of the castle and its granary; the Dauzhwo's mother holds the office.
   seat: yanwu
   population: 92000
   territorial_population: 92000
+  settlements:
+    - settlement: Fanu
+      polity: affiliation-hojujaidmn
+      location: place-hojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 590
+      market: local
+      notes: "Fortune Terraces. Court estate. Rice on ash soil, the best in the realm. Head village of a district assessed at 2,200 bales."
+    - settlement: Yanju
+      polity: affiliation-hojujaidmn
+      location: place-hojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-hojujaidmn
+      population: 410
+      market: local
+      notes: "Cloud Spring. Demesne. Hot springs, bathhouses and sulfur. Head village of a district assessed at 1,500 bales."
+    - settlement: Weinu
+      polity: affiliation-hojujaidmn
+      location: place-hojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "A Shwizhwo of the domain"
+      population: 700
+      market: local
+      notes: "Jade Terraces. Fief. Rice. Head village of a district assessed at 2,600 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -66,6 +102,8 @@ The roll names three villages here; smaller terraces and hamlets, each under its
 | Fanu    | Fortune Terraces | Court estate | The Emperor, through the lord's granary | Rice on ash soil, the best in the realm |    2,200 |
 | Yanju   | Cloud Spring     | Demesne      | The lord's granary at Yanwu             | Hot springs, bathhouses and sulfur      |    1,500 |
 | Weinu   | Jade Terraces    | Fief         | A Shwizhwo of the domain                | Rice                                    |    2,600 |
+
+Each named village is the head village of a district, and the assessment in the table is the district's.
 
 The summit shrine of Hojai is provisioned from the lord's villages, and its Tanchei keep the mountain record on which the house's claim to heaven's favor rests.
 

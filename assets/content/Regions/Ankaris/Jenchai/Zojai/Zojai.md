@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [jenchairgn]
-  population: null
+  population: 20000 # computed from the people of the imperial district the mountain carries
   government: jenchaiempr
   packFolder: jenchai
   culture: jenchaiclt
@@ -22,6 +22,8 @@ The syllable _zo_ serves for lord and for dragon, which fall together at a singl
 The Emperor does not leave the mountain: the imperial person may not set foot beyond Zojai. His palace stands above Lengwou, and every envoy, petition and bale of rice comes to him over the ground of [[affiliation-muwojaidmn|House Muwojai]]. Foreign ambassadors come as far as Lengwou, and the upper slope is closed to them. On the first day of the year the Emperor climbs to the summit shrine and performs the [Dawn Rite]{.name data-type="lore/custom"} (_Leng Rwi_) at first light. The envoy of every lord stands on the mountain for it, in the order of precedence that the court has assigned them, and every household of the Nine lights a lamp at the same dawn. The order on the summit is the year's political map.
 
 The summit shrine is kept by the Tanchei of the court, and the mountain record is kept there with the other records of the imperial house. The Emperor holds the one claim to the whole [[lore-mandatehvn|Mandate of Heaven]], and Zojai is where he makes it.
+
+The imperial district holds 20,000 people: the 9,000 of [[place-lengwou|Lengwou]] and the villages and terraces of the mountain around it.
 
 ## See Also {#see-also}
 

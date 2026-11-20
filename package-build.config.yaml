@@ -851,7 +851,8 @@ packageBuild:
         - address: affiliation-vrkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-wojaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The seat Yuwu is a trading port that buys its food with harbor tolls and trade, so its share of the domain exceeds the urban ceiling.
         # Provisional: each polity below governs one town or city, so its urban share is
         # trivially 100 percent. Delete this group when the package skips single-settlement polities.
         - address: affiliation-twncnclprtaln
