@@ -6,6 +6,7 @@ subType: history
 description: Kaliharan tradition remembers a complete body of teaching—agriculture, medicine, governance, language and The Living Whole—and dates the raising only approximately.
 tags: [history, spine, gm]
 data:
+  pack: gm-journals
   packFolder: settinglore
   events:
     - when: ~-9280

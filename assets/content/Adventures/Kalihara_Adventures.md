@@ -11,6 +11,7 @@ data:
   factions: []
   follows: []
   party: {size: null, archetypes: []}
+  pack: gm-journals
   packFolder: adventureskalihara
 ---
 

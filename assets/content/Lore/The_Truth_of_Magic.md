@@ -4,7 +4,7 @@ name: {full: The Truth of Magic, en: [Magic (GM)]}
 type: doc
 subType: concept
 tags: [arcane, metaphysics, gm]
-data: {packFolder: settinglore}
+data: {pack: gm-journals, packFolder: settinglore}
 ---
 
 The Truth of Magic is that magic, in its actual nature, is undifferentiated potential. It has no form, no structure, no inherent qualities, no categories. It is not "fire" or "water" or "spirit" or "metal"; it is the formless capacity from which any of these—and any number of others—can be produced.

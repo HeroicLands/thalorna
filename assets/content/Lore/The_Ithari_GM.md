@@ -5,7 +5,7 @@ type: doc
 subType: concept
 description: "A GM’s collection of observations, private accounts and open questions about the makers of the strange works."
 tags: [gm, history, mystery]
-data: {packFolder: settinglore}
+data: {pack: gm-journals, packFolder: settinglore}
 ---
 
 > **GM-only document.** This note puts accounts and sites beside one another for the GM. Its conjectures are curiosities, not canon. None is the answer, every question stays open, and a campaign may use any of them or none.

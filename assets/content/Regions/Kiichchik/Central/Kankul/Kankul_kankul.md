@@ -78,7 +78,7 @@ data:
   economy: []
   lore: [kiichchikclt]
   parents: []
-  relations: {itzanpnthn: aligned}
+  relations: {itzanpnthn: aligned, nclvlrnst: unaligned}
   packFolder: kankul
 sohl: {system: {commonSkills: []}}
 
@@ -107,6 +107,9 @@ The pool-centered spirituality of K'ankul has produced a distinct tradition with
 K'ankul keeps an understanding with the [[lore-flksenali|Senali Folk]] of [[place-lirnasto|Lirnasto]], the conclave in the high jungle of the platform's interior: the realm's people stay out of that jungle and do not disturb those who live there. Every Ts'enmah holds to it, and the Ha'nalmah of the towns along the forest's edge turn back hunters, rubber-tappers and gatherers where the old trees begin. The realm's books do not say when or how the understanding was made, and the Senali take no other part in the realm's affairs.
 
 ## See Also {#see-also}
+
+[[affiliation-nclvlrnst|Enclave of Lirnasto]]
+: the Senali community the understanding keeps
 
 [[affiliation-ixilankul|Ish'ilankul]]
 : The highland plateau realm, supreme in religious authority and military might

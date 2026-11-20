@@ -4,7 +4,7 @@ name: {full: The Truth of Divine Action, en: [Divine Action (GM), The Balance]}
 type: doc
 subType: concept
 tags: [religion, theology, metaphysics, gm]
-data: {packFolder: settinglore}
+data: {pack: gm-journals, packFolder: settinglore}
 
 # terran_analog: demi-divine figures are comparable to Beowulf or Gilgamesh in real-world myth; transitional campaigns match the shape of many great fantasy stories in real-world literature.
 ---

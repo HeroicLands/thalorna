@@ -4,7 +4,7 @@ name: {full: Threats}
 type: doc
 subType: concept
 tags: [gm]
-data: {packFolder: threats}
+data: {pack: gm-journals, packFolder: threats}
 ---
 
 The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty that ruled it, and this generation it is pressed from four sides at once: a steppe warlord in the north, a renegade archipelago in the east, rebels and secret societies within, and things out of the earth that no register ever listed. Each of the notes below is written for the GM who wants to set a story against one of them, and most of them reach into the others: the rebel general would take the warlord's help, the fallen noble house owes [[affiliation-haluozhao|the Black Lotus]], and every faction plays the [[lore-weizhairui|Wei Zhai Rwi]], the court's game of manipulation, even against its allies.

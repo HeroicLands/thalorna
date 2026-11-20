@@ -85,8 +85,9 @@ authors:
 
 packs:
     - { name: items, label: Items, type: Item, system: sohl }
-    - { name: journals, label: Journals, type: JournalEntry }
+    - { name: journals, label: Journals, type: JournalEntry, default: true }
     - { name: actors, label: Actors, type: Actor, system: sohl }
+    - { name: gm-journals, label: GM Journals, type: JournalEntry, private: true }
 
 publish:
     # This package's content is its site, so it mounts at the package root and
@@ -739,6 +740,7 @@ packageBuild:
                   - items
                   - journals
                   - actors
+                  - gm-journals
         media:
             - type: setup
               url: modules/thalorna/assets/images/media/thalornasetup.webp

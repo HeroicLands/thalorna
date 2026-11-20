@@ -56,7 +56,7 @@ data:
   economy: []
   lore: [osetakonaclt]
   parents: []
-  relations: {redstncmpct: aligned, tokchiaska: rival}
+  relations: {redstncmpct: aligned, tokchiaska: rival, nclvhrsllnk: unaligned}
   packFolder: osetakona
 sohl: {system: {commonSkills: [osetakonalng]}}
 
@@ -132,6 +132,8 @@ The Maple People are proud of their government and suspicious of everyone else's
 The great council names the Grove's delegates each spring: two speakers, one of them usually [[being-skahniotiaro|Skahniotiaro]] of [[place-kaniestraten|Birches]], who speaks the Grass People's tongue, and a rememberer to recite at the [Red Quarry]{.name data-type="place/site"}. They walk west from the Birch People's villages to the quarry and can promise only what the great council boiled down before they left. That rule is why the Grove is slow to smoke a pipe of help. Three summers ago, when the [[affiliation-teyumi|Turquoise People]] sent Pipe Bearers against a southern war party, the Grove's delegates had no agreement from the Kettle to smoke on, and the Grove did not smoke. The rememberers recite the refusal with the rest, and the Turquoise People's delegates have not let anyone forget it. Now the Grove is the nation asking, against the men from the water, and the other nations note how much faster the Kettle boils when the danger is its own.
 
 ## Neighbors and Threats
+
+North and west of the Pine People's villages the far ridges belong, the Pine People say, to the tall people of the [[affiliation-nclvhrsllnk|Enclave of Hersellonku]]. The Grove sends nobody to them and asks nothing of them.
 
 The Grove contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier to the southwest, with the One Fire, and each accuses the other of raiding there. The Grass People raid the Birch People's villages in the west. Two dangers fall on the Grove before anyone else. [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean, and last summer they burned Tsiorhenten, a Dawn People village, and carried four of its people away; the Maple People have no name for them. And in the north, hunting bands driven out of the far woods by newcomers from the ice are moving into the Pine People's country.
 
