@@ -34,8 +34,8 @@
  * address. Rerunning the script finishes the job, and a second run changes
  * nothing.
  *
- * A note this changes whose file name no longer matches its name is renamed
- * to the name the file-name rule gives it.
+ * This optional sweep also renames changed notes using the file-organization
+ * suggestion. Content validity does not depend on the file name.
  *
  * Usage: node utils/guide-sweep.mjs [--check] [path ...]
  * Without paths it sweeps `assets/content` and `.changeset`. `--check` writes

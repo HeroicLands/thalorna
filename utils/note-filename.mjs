@@ -4,12 +4,12 @@
  */
 
 /**
- * A note's file name is its sanitized name.
+ * Suggest file names for optional content organization.
  *
- * The stem of every note under the content tree is {@link sanitizeName} of its
+ * The suggested stem is {@link sanitizeName} of a note’s
  * `name.full`, or of `name` where the note writes its name as a bare string. The
- * rule follows package-build's `engine/content-slug.mjs`, so the tree has one
- * normalization, except that it keeps the case and joins with `_`:
+ * suggestion follows package-build's `engine/content-slug.mjs`, but keeps the
+ * case and joins with `_`:
  *
  * - transliterate with `unidecode`, so `Jênchái` is `Jenchai`;
  * - elide `'` and `’`, so `Ki'ich'chik` is `Kiichchik`;
@@ -21,7 +21,8 @@
  * - two or more notes in one directory whose names sanitize alike: each of
  *   them takes it.
  *
- * A note that states no name is exempt.
+ * A note that states no name has no suggested path. File names do not determine
+ * content validity.
  */
 
 import fs from "node:fs";
@@ -99,7 +100,7 @@ export function listNotes(repoRoot, dir = CONTENT_ROOT) {
 /**
  * @typedef {object} ExpectedName
  * @property {string} path - The note's current path.
- * @property {string} [expected] - The path its name gives it; absent when the
+ * @property {string} [expected] - The suggested path; absent when the
  *   note is exempt.
  * @property {string} [name] - The name the stem derives from.
  * @property {string} [shortcode] - The note's shortcode.
@@ -107,7 +108,7 @@ export function listNotes(repoRoot, dir = CONTENT_ROOT) {
  */
 
 /**
- * The path every note's name gives it.
+ * Suggested paths for optional file organization.
  *
  * @param {string} repoRoot - The repository root.
  * @returns {ExpectedName[]} One entry per note, in path order.
