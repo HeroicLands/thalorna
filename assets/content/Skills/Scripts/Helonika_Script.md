@@ -3,7 +3,7 @@ shortcode: helnkscrpt
 name: {full: Helónika Script}
 type: skill
 subType: script
-description: "The Helonik letters—the eastern alphabet of theater, verse and the ledger, carried by three tongues and every harbor between them."
+description: "The Helonik letters—the eastern alphabet of theater, verse and the ledger, carried by several tongues and every harbor between them."
 tags: []
 data:
   icon: icon-speaking
@@ -40,6 +40,9 @@ Helonik
 
 [[skill-valtarlng|Valtari]]
 : in the northern and Helonik-facing ports, where a docker's tally is set down in Helonik letters by whoever is holding the stylus, with no orthography worth the name.
+
+[[skill-velanthlng|Velanthian]]
+: the tongue of the Velanthian river-courts and monasteries, written with the letters of the Helónika: _sh_ and _ch_ spelled out from their parts, _y_ sharing the sign of _i_, _kh_ and _zh_ written with the Bizarian letters, and every other letter its own.
 
 ## Hands
 

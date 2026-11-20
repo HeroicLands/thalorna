@@ -48,6 +48,7 @@ languages:
     valt: { tag: art-x-valt, note: skill-valtarlng }
     varo: { tag: art-x-varo, note: skill-varokhlng }
     vedy: { tag: art-x-vedy, note: skill-vedyarlng }
+    velt: { tag: art-x-velt, note: skill-velanthlng }
     vyl: { tag: art-x-vyl, note: skill-vylarilng }
     zxx: { tag: zxx }
 
