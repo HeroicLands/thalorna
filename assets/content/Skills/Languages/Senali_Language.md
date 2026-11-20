@@ -7606,6 +7606,9 @@ data:
     - {name: Enclave of Ethalosse, tongue: translation}
     - {name: Enclave of Serenthale, tongue: translation}
     - {name: Enclave of Seirasto, tongue: translation}
+    - {name: Enclave of Lirnasto, tongue: translation}
+    - {name: Enclave of Hersellonku, tongue: translation}
+    - {name: Enclave of Ilkaivesto, tongue: translation}
     - {name: ankaris, tongue: exonym}
     - {name: aureldia region, tongue: exonym}
     - {name: midhalión region, tongue: exonym}
@@ -7697,6 +7700,12 @@ data:
     - {name: issaltenno, tongue: senali, built: [issalte, -nno]}
     - {name: tevannisa, tongue: senali, built: [tevanni, -sa]}
     - {name: tellamesa, tongue: senali, built: [tellame, -sa]}
+    - {name: lirnanno, tongue: senali, built: [lirna, -nno]}
+    - {name: The Keeper of the Vines, tongue: translation}
+    - {name: mervunno, tongue: senali, built: [mervu, -nno]}
+    - {name: The Keeper of the Stillness, tongue: translation}
+    - {name: hemmikanno, tongue: senali, built: [hemmika, -nno]}
+    - {name: The Keeper of the Marsh, tongue: translation}
     - {name: lonkwolmarna, tongue: senali, built: [lonkwolmarna]}
     - {name: oltessala esselinto, tongue: senali, built: [oltessa, -la, esseli, -nto]}
     - {name: hallesitti eilavanto, tongue: senali, built: [hallesi, -tti, eilava, -nto]}
