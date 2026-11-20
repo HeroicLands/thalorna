@@ -192,6 +192,9 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 [[affiliation-hsttrvl|Tarvál Host]], [[affiliation-hstsvrt|Sevret Host]], [[affiliation-hstkhrd|Khorad Host]]
 : the three named Hosts
 
+[[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
+: the paid river-prince forts that watch the Grukar country
+
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : eastern-shore trading partner
 

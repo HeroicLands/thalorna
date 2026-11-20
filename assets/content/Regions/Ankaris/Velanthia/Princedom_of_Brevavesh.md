@@ -181,6 +181,9 @@ About 590 AF a prince of this frontier raised the fort at Theodburg with the war
 [[place-grkrhlmrgn|Grukarholm Region]]
 : the country the forts face
 
+[[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
+: two of the paid forts
+
 [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 : the grain that feeds the garrisons
 
