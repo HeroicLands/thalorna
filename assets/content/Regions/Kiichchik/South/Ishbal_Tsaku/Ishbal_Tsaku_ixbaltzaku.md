@@ -6,7 +6,7 @@ subType: polity
 description: "Jewel of the southern Kì'ìch'chik: volcanic peaks, terraced valleys, and a coast of metals, cacao, and feathered luxury."
 tags: [polity]
 data:
-  culture: kiichchikclt
+  culture: southkiichchikclt
   icon: null
   templatePriority: null
   demonym: null
@@ -70,7 +70,7 @@ data:
   population: null
   territorial_population: 150000
   economy: []
-  lore: [kiichchikclt]
+  lore: [southkiichchikclt]
   parents: []
   relations: {itzanpnthn: aligned}
   packFolder: ixbaltzaku

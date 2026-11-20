@@ -6,8 +6,8 @@
 /**
  * The Ki'ich'chik city-states govern by zone.
  *
- * The city-states are the polity notes of the continent whose culture is the
- * Ki'ich'chik culture, found at runtime. Each belongs to one of three zones,
+ * The city-states are the polity notes of the continent whose culture is one of the
+ * Ki'ich'chik cultures, found at runtime. Each belongs to one of three zones,
  * highland, lowland and southern, and each zone has its own template: no two
  * city-states of different zones name the same set of offices, and none names
  * the set of any other polity on the continent. Every city-state writes its
@@ -21,8 +21,8 @@ import { folderChain, folderParents, frontmatterOf, noteFilesWhere } from "./not
 /** The folder note holding the continent's polities. */
 const CONTINENT = "kiichchik";
 
-/** The culture whose polities are city-states. */
-const CITY_STATE_CULTURE = "kiichchikclt";
+/** The cultures whose polities are city-states: the northern culture and the southern one. */
+const CITY_STATE_CULTURES = new Set(["kiichchikclt", "southkiichchikclt"]);
 
 /** Each city-state's zone, by shortcode. */
 const ZONES = {
@@ -51,7 +51,7 @@ function officeSet(front) {
 }
 
 const continent = polities(CONTINENT);
-const cityStates = continent.filter(({ front }) => front.data?.culture === CITY_STATE_CULTURE);
+const cityStates = continent.filter(({ front }) => CITY_STATE_CULTURES.has(front.data?.culture));
 const others = continent.filter(({ file }) => !cityStates.some((city) => city.file === file));
 
 test("every city-state has a zone and every zone names a city-state", () => {

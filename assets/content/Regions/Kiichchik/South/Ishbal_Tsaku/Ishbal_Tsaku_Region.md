@@ -6,9 +6,9 @@ subType: region
 description: "Snow-crowned mountains, terraced highlands and jungle river valleys—the land of Ish'bal Tsa'ku, in Southern Kì'ìch'chik."
 tags: [region]
 data:
-  culture: kiichchikclt
+  culture: southkiichchikclt
   demonym: null
-  lore: [kiichchikclt]
+  lore: [southkiichchikclt]
   parents: [southkiichchik]
   population: null
   packFolder: ixbaltzaku
