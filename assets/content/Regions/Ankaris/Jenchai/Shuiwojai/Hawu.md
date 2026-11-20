@@ -30,6 +30,12 @@ Henzo's judges, chosen from his retainers, sit in the hall and hear the cases of
 
 Hawu is the seat of the lord whose house pressed the court against the regency, and whose silver and ships carried the Strait's side of the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
 
+## Current Situation {#present}
+
+In 720 AF Hawu waits on a letter. [[being-henzoshuiwo|Shuiwojai Henzo]] has petitioned the Emperor for the office of Teng Ja, and the answer is sealed and on its way by roads that Muwojai keeps. Until it arrives he does not know what is asked of him. His envoys leave from the quay to carry his price to Zenjai and Wojai, and the Shuiwojai envoy at [[place-yanwu|Yanwu]] sends word back after every tremor of Hojai.
+
+Merchants and captains from the mainland land here, since the harbor is the strait's busiest, and they pay Henzo's tolls. The town holds the mainland in contempt and trades with it all the same.
+
 ## See Also {#see-also}
 
 [[affiliation-shuiwojaidmn|Shuiwojai Domain]]

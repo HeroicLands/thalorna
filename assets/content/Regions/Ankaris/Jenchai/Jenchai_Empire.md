@@ -134,6 +134,16 @@ The Emperor grants four things, and each costs him nothing:
 
 Since 709 AF it stands vacant. The last Teng Ja, [[being-henwohojujai|Hojujai Henwo]], held it from 693 AF until his death ([[lore-hstryjenchai|The History of Jenchai]]). The race for the office is the realm's central contest.
 
+## Current Situation {#present}
+
+In 720 AF the realm waits on one act. [[being-weilengjnch|Weileng]] is nineteen and of age, and the eight Dauzhwo are testing whether he rules or is ruled. The office of Teng Ja stands vacant, only the Emperor can confer it, and he has not conferred it. The Strait bloc and the loyalists both bid for it. The court's poverty and [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver press him to decide, and Henzo has petitioned for the office. [[being-fuzoretired|Fuzo]], the Retired Emperor, advises and holds no authority; the lords resent the cost of his household, and a house that wins his ear is heard at the throne.
+
+Both blocs are bidding for [[affiliation-zenjaidmn|Zenjai]] and [[affiliation-wojaidmn|Wojai]], the two independent houses that can break the balance. Henzo's silver and the Hojujai regent [[being-reweihojujai|Hojujai Rewei]] have each named a price to Zenjai and Wojai. Zenjai wants grain, and Wojai has named its price to neither bloc. Wejai and Tsuijai have named theirs to no one. If Zenjai or Wojai joins either bloc, the balance of the Nine ends.
+
+The Dawn Rite at the turn of the year shows the result: the Emperor sets its seating, and each envoy's place reads as a verdict on his house.
+
+The fleets of Shuiwojai and Rinjai take tolls on the strait, and Rinjai holds a Tantsou prefect whom the court wants returned and Henzo wants ransomed.
+
 ## Honor and Pride
 
 Personal honor is the organizing principle of Jenchai society, more deeply embedded even than in Tantsou's warrior caste. A lord's word is sacred; broken oaths are remembered for generations and can poison alliances centuries later. Insults—real or perceived—demand satisfaction, and the challenge and the duel each follow a fixed form.

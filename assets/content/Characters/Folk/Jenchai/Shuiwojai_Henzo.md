@@ -89,5 +89,5 @@ The houses that fear a Teng Ja bought with money are the houses he needs. He can
 ## Plot Hooks
 
 1. **The ferry at Zuju.** The letter from Zojai must cross Muwojai's ferry. Henzo pays a party to meet the courier on the far bank and bring the letter to Hawu unopened.
-2. **The named price.** Henzo hires a party as envoys to carry his price to [[affiliation-wojaidmn|Wojai]] and [[affiliation-zenjaidmn|Zenjai]]. Each lord asks what the other was offered.
+2. **The named price.** Henzo hires a party as envoys to carry his price to [[affiliation-wojaidmn|Wojai Domain]] and [[affiliation-zenjaidmn|Zenjai Domain]]. Each lord asks what the other was offered.
 3. **The prefect's ransom.** Rinjai holds a Tantsou prefect. Henzo wants the ransom and sends a party to Rinwu to remind Hoja whose oath he swore.

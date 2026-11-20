@@ -113,6 +113,12 @@ The Wohou of Rinjai serve the house for stipends in bales, and the retainers are
 
 The muster is 650 men and 25 ships. The ships lie at [Jawo]{.name data-type="place/settlement"}, and they are the raiders of the Nine: they cross the strait to the southern coast of the [[affiliation-tantsouempr|Empire of Tantsou]], which the lords of the Nine count their right, and the empire counts House Rinjai its nemesis. Hoja adds his 650 men and 25 ships to Shuiwojai's 1,950 and 60, so the Strait bloc stands at 2,600 men and 85 ships.
 
+## Current Situation {#present}
+
+In 720 AF Hoja's raiders hold a Tantsou prefect taken off the mainland coast, and two demands fall on the red hall. The court wants the man returned as a gesture of heaven's magnanimity, and a Tantsou envoy has asked at [[place-lengwou|Lengwou]] for the same. Shuiwojai wants the ransom. Hoja holds the prefect and owes Henzo his oath, and whichever of the two he satisfies, he disappoints the other.
+
+A mainland war junk off the coves is read as a demand for the prefect or for the harbor.
+
 ## History {#history}
 
 Rinjai is sworn to Shuiwojai, and the two houses form the Strait bloc that the [[lore-empseatwar|War of the Empty Seat]] left standing ([[lore-hstryjenchai|The History of Jenchai]]).
@@ -120,10 +126,6 @@ Rinjai is sworn to Shuiwojai, and the two houses form the Strait bloc that the [
 ## Relations {#relations}
 
 Rinjai is sworn to [[affiliation-shuiwojaidmn|Shuiwojai]] and allied with it, and the two houses together form the Strait bloc, which wants Shuiwojai Henzo named Teng Ja. [[affiliation-hojujaidmn|Hojujai]] is the rival of Shuiwojai.
-
-## The Prefect
-
-Hoja's raiders took a Tantsou prefect off the mainland coast. The court wants the man returned, as a gesture of heaven's magnanimity; Shuiwojai wants the ransom. Hoja holds the prefect and owes Henzo his oath, and whichever of the two he satisfies, he disappoints the other.
 
 ## See Also {#see-also}
 

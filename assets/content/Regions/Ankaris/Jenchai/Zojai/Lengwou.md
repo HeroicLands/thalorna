@@ -38,6 +38,12 @@ Lengwou lives on the court. Its 9,000 people are the Emperor's household and gua
 
 The Emperor's judges hear the town's cases, and a village of the district settles its own quarrels through its headman. Foreign ambassadors are received at Lengwou and go no farther, since the upper slope of Zojai is closed to them.
 
+## The Present {#present}
+
+In 720 AF the town waits for the Dawn Rite and for the Emperor to confer the office of Teng Ja. [[being-weilengjnch|Weileng]] is of age, and the seating he sets at the rite reads as a verdict on each house. Every house that forwards its rice early buys the town's gratitude.
+
+[[being-henzoshuiwo|Shuiwojai Henzo]]'s silver keeps the court fed, and Muwojai's toll-keepers watch the roads that bring the envoys. A Tantsou envoy has asked at Lengwou for the prefect Rinjai holds.
+
 ## History {#history}
 
 Lengwou is the ground the quarrel of the [[lore-empseatwar|War of the Empty Seat]] was about, and the peace that ended it was settled here: the Emperor abdicated and took vows, and he keeps his household in the town below the palace. His son Weileng was enthroned on Zojai in 712 AF, and the capital has held two courts since, a young Emperor and his father in a household the treasury cannot afford ([[lore-hstryjenchai|The History of Jenchai]]).

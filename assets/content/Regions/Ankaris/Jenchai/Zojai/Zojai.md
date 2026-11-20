@@ -25,6 +25,12 @@ The summit shrine is kept by the Tanchei of the court, and the mountain record i
 
 The imperial district holds 20,000 people: the 9,000 of [[place-lengwou|Lengwou]] and the villages and terraces of the mountain around it.
 
+## Current Situation {#present}
+
+In 720 AF the Emperor [[being-weilengjnch|Weileng]], nineteen years old and of age, sits on the mountain. The office of Teng Ja is vacant, the petition for it is pending, and the Strait bloc and the loyalists both bid while the Emperor has not conferred it.
+
+The Dawn Rite of the coming New Year is the next public occasion on which the houses' standing shows. The Emperor sets the order in which the envoys stand on the summit, and each place reads as a verdict on a house. The Emperor's sealed letter to [[being-henzoshuiwo|Shuiwojai Henzo]] has left the mountain by the roads of [[affiliation-muwojaidmn|Muwojai]], and the answer to Henzo's petition for the office is still in transit.
+
 ## See Also {#see-also}
 
 [[place-lengwou|Lengwou]]

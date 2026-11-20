@@ -115,6 +115,12 @@ Rewei holds the keys of the castle and its granary and decides in her son's name
 
 The muster is 1,750 men and 20 ships. When the mountain erupts and a [[being-pyrclsm|Pyroclasm]] walks out of it, the retainers clear the villages in its path, and the lord's sorcerers and the shrine's priests try to turn it toward the sea; the muster is called out for it as it is for a war.
 
+## Current Situation {#present}
+
+In 720 AF [[being-reweihojujai|Hojujai Rewei]] holds Hojujai for her son [[being-zijahojujai|Hojujai Zija]], who is fourteen, and [[being-weilengjnch|Weileng]] has not conferred the office of Teng Ja, so the house's claim stays open. Henzo's silver and Rewei's own offer have each named a price to Zenjai and Wojai, and she has not shown her steward what hers is, though the granary must meet it.
+
+Hojai is rumbling. The omen-readers are divided on whether the mountain condemns a widow's regency. In that reading, an eruption before Zija comes of age settles the argument against his mother, and until he does, Rewei holds the house on a reading that the next tremor can reverse. The Shuiwojai envoy at [[place-yanwu|Yanwu]] sends word to [[place-hawu|Hawu]] after every tremor, so the lords of the Strait know the mountain's mood as soon as she does.
+
 ## History {#history}
 
 The house held the office of Teng Ja for sixteen years, 693 to 709 AF, under [Hojujai Henwo]{.name data-type="being/npc"}, and its retainers are his household ([[lore-hstryjenchai|The History of Jenchai]]).
@@ -122,10 +128,6 @@ The house held the office of Teng Ja for sixteen years, 693 to 709 AF, under [Ho
 ## Relations {#relations}
 
 Hojujai and [[affiliation-muwojaidmn|Muwojai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. [[affiliation-shuiwojaidmn|Shuiwojai]] is the rival: it pressed the court against the regency, and the quarrel began the [[lore-empseatwar|War of the Empty Seat]].
-
-## The Mountain's Verdict
-
-Hojai is rumbling. The omen-readers are divided on whether the mountain condemns a widow's regency. In that reading, an eruption before Zija comes of age settles the argument against his mother, and until he does, Rewei holds the house on a reading that the next tremor can reverse.
 
 ## See Also {#see-also}
 

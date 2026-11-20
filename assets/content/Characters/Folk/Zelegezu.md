@@ -3,17 +3,17 @@ shortcode: zelegezu2
 name: {full: Zelegezu, khel: [zele]}
 type: being
 subType: npc
-description: "A calculating noble of middling talent who compensates for the talent with the calculation"
+description: "The Halzi'a of the old assize-courts of Khelenet-Zu, a calculating noble of middling talent who compensates with calculation."
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: ""
+  occupation: Halzi'a
   lore: []
   culture: khelathiclt
-  homes: [galezkara]
-  affiliations: {}
+  homes: [khelenetzu]
+  affiliations: {selatkhelntz: {rank: 3, office: Halzi'a}, empireakhlth: {rank: 3}}
   gender: "male"
   species: humanflk
   born: "679.048"
@@ -34,12 +34,24 @@ data:
     mouth: thin
     extra_features: []
   packFolder: regkhfolk
+  items:
+    - {key: slkshirt, model: armorgear-slkshirt, kind: clothing}
+    - {key: sgtrsr, model: armorgear-sgtrsr, kind: clothing}
+    - {key: ltshoe, model: armorgear-ltshoe, kind: clothing}
+    - {key: slkclk, model: armorgear-slkclk, kind: clothing}
+    - {key: tndrbx, model: miscgear-tndrbx, kind: miscgear}
+    - key: halziaseal
+      name: Seal of the Halzi'a (carved stone)
+      kind: miscgear
+      system: {weight: 0.4}
 ---
 
 # Appearance {#appearance}
 
-Zelegezu is a 41-year-old man who stands 5'6" tall with a medium build. He has dark brown skin, graying black hair, and hazel eyes.
+Zelegezu is a 40-year-old man who stands 5'6" tall with a medium build. He has dark brown skin, graying black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Zelegezu is a calculating noble of middling talent, home in [[place-galezkara|Galezkara]]. The calculation compensates for the talent everywhere the talent alone would fall short. Anyone underestimating the calculation because of the talent has usually underestimated Zelegezu.
+Zelegezu is a calculating noble of middling talent, home in [[place-khelenetzu|Khelenet-Zu]]. The calculation compensates for the talent everywhere the talent alone would fall short.
+
+He is the Halzi'a of [[affiliation-selatkhelntz|The Selat of Khelenet-Zu]], the selat of the assize-courts, the lawyer-priests and the land-survey scribes, and he sits at [[place-khelenetzu|Khelenet-Zu]] among men more learned than he and has learned to rely on their reckoning.

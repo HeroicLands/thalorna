@@ -4916,6 +4916,79 @@ data:
       why: "respelled to Pronouncing Thalorna: the held ee of see"
     - {form: player, instead: pleier, why: "respelled to Pronouncing Thalorna: the vowel of day"}
     - {form: singer, instead: sìnger, why: "respelled to Pronouncing Thalorna: the short i of sit"}
+  writing:
+    paradigms:
+      - {verb: speak, I: speak, thou: speakest, heSheIt: speaketh, plural: speaken}
+      - {verb: lòv, I: lòv, thou: lòvest, heSheIt: lòveth, plural: lòven}
+      - {verb: karri, I: karri, thou: karriest, heSheIt: karrieth, plural: karryen}
+      - {verb: bii, I: am, thou: art, heSheIt: is, plural: ben}
+      - {verb: have, I: have, thou: hast, heSheIt: hath, plural: haven}
+      - {verb: duu, I: duu, thou: dòst, heSheIt: dòth, plural: duuen}
+      - {verb: go, I: go, thou: goest, heSheIt: goeth, plural: goen}
+      - {verb: kome, I: kome, thou: komest, heSheIt: kometh, plural: komen}
+      - {verb: kno, I: kno, thou: knoest, heSheIt: knoeth, plural: knoen}
+      - {verb: sei, I: sei, thou: seist, heSheIt: seith, plural: seien}
+    examples:
+      - We haven kome
+      - we haven awaited
+      - thei will kome
+      - thei mei enter
+      - Kome hither
+      - Enter not
+      - we believen not
+      - thei komen not
+      - Haven ye siin him.
+      - Methinks we haven tarried too long.
+      - We haven biin waiting for dhii sinse morn.
+      - We ben merchants of the north and haven kome hither to sell our wares.
+      - Ye kannot enter till morn.
+      - We kannot abide here longer.
+      - Whither goest dhau.
+      - I go unto the market.
+      - Hast dhau koin enough.
+      - Nei but I have wares to sell.
+      - The knight sed I shall return ere night.
+      - Such wikedness have I never siin.
+      - Yield I shall not.
+      - Dhau shalt not enter. Not nau nor ever.
+      - I seek not dhai gold but dhai oath.
+      - Not for fear duu I kneel but for honour.
+      - I duu kno dhai purpose.
+      - I did warn dhii.
+    worked:
+      - meaning: Where are you going? We have been waiting for you since morning. (One addressee.)
+        text: Whither goest dhau. We haven biin waiting for dhii sinse morn.
+      - meaning: Do not enter the forest after dark. Dangerous things live there.
+        text: Enter not the forest after nightfall. Perilous things dwellen therein.
+      - meaning: I do not believe what you are saying. You have lied to us before. (One addressee.)
+        text: I believe not dhai words. Dhau hast lied unto us ere nau.
+      - meaning: You all know what happened. We cannot stay here any longer.
+        text: Ye knoen what hath befallen. We kannot abide here longer.
+      - meaning: The king has ruled that nobody may cross the river until the war ends.
+        text: The kìng hath dekríid that none mei kross the river till the waar is ended.
+    conversation:
+      - Who ben ye and whither goen ye.
+      - We ben merchants of the north and haven kome hither to sell our wares.
+      - The gates standen shut. Ye kannot enter till morn.
+      - Then we will bide here. Yet far haven we journeyed and weari ben we.
+      - Ye mei bide but stir no strife. The kaptain will kome at dawn.
+  samples:
+    prose:
+      - Whither goest dhau stranger and what karriest dhau in dhai pàk. The fog lieth heavi on the water and the gate is shut ere dark. Tarri with us this night and we will ask dhii naught more.
+      - A word onse given is a stone leid in the waal. pluk it out and the whole house falleth.
+    verse:
+      - work: harvestsong
+        lines:
+          - The wool is shorn the barlei bound
+          - The last of summeres gold is ground
+          - Fill high the kup and drink it deep
+          - And name the dead nau fast asleep.
+      - work: crossroadscharm
+        lines:
+          - Go softli dhau that walkest late
+          - And leave dhain ofrìng at the gate
+          - Who wàcheth bi the krossing wide
+          - Will let the kùrtyòs pass beside.
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

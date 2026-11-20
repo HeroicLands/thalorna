@@ -24,7 +24,7 @@ data:
 # terran_analog: "The northern and mountain marches of the eastern imperial sphere: Manchuria, Korea and the Himalayan and Yunnan borderlands. Carries over: fortified marchland of watchtowers and garrison colonies, cold coasts, terraced highland villages, soldier-settlers and hill peoples drawn into the imperial register. Departs: every march village keeps the eight castes and its lineage page."
 ---
 
-The frontier peoples hold the Empire's edges: the fortified northern marches toward the [[place-grkrhlmrgn|Grukari]] lands, with their watchtowers and garrison colonies and their cold coast, and the mountain villages above the western passes toward the [[place-khzryndsrtrgn|Khazrin]]. The soldier-settlers of the marches and the hill families of the passes have married into one another for generations, and the register records them as [[lore-tantsouclt|Tantsou]] like everyone else.
+The frontier peoples hold the Empire's edges: the fortified northern marches toward the far-northern [[lore-grukarfolk|Grukar]] nests, with their watchtowers and garrison colonies and their cold coast, and the mountain villages above the western passes toward the [[place-khzryndsrtrgn|Khazrin]]. The soldier-settlers of the marches and the hill families of the passes have married into one another for generations, and the register records them as [[lore-tantsouclt|Tantsou]] like everyone else.
 
 Winters are long, grazing and grain are thin, and a march village keeps its signal fires and its muster rolls as carefully as the core keeps its registers. The soldiers' song of the northern marches, [[lore-unnumberedtwr|The Song of the Unnumbered Tower]], is theirs.
 

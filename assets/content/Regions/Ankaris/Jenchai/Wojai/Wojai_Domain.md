@@ -114,6 +114,12 @@ The [Woju]{.name data-type="affiliation/lineage"} keep the harbors and hold [Sho
 
 The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the [[place-vedyarargn|Vedyaran coast]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-surtasamdra|Surta-samedra]], which is closed to shipping for four months of the year, and the Shwonong merchants of Yuwu finance the voyages.
 
+## Current Situation {#present}
+
+In 720 AF Wojai is one of the two houses both blocs are bidding for. [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have each named a price, and [Wojai Doja]{.name data-type="being/npc"} has named his to neither. He wants the harbor free of every lord's claim and the balance of the Nine standing.
+
+The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of Yuwu. The bell sounds at dawn on the first day of the year on [[place-zojai|Zojai]]'s summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Doja has the means to redeem it himself, and he is deciding whom among the houses to let do it. His choice shows which way Wojai leans before it says so.
+
 ## History {#history}
 
 Wojai stood with Shuiwojai against conferring the office of Teng Ja on a regency, and the quarrel became the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
@@ -121,10 +127,6 @@ Wojai stood with Shuiwojai against conferring the office of Teng Ja on a regency
 ## Relations {#relations}
 
 Wojai belongs to neither bloc, and Doja's choice decides the balance: Wojai joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the equilibrium of the Nine. Wojai pressed the court against the regency with [[affiliation-shuiwojaidmn|Shuiwojai]], and the quarrel began the [[lore-empseatwar|War of the Empty Seat]].
-
-## The Pawned Bell
-
-The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of Yuwu. The bell sounds at dawn on the first day of the year on [[place-zojai|Zojai]]'s summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Doja has the means to redeem it himself, and he is deciding whom among the houses to let do it.
 
 ## See Also {#see-also}
 
