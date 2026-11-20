@@ -82,6 +82,31 @@ test("migration comparison rejects lost records, changed concepts, senses, names
     }
 });
 
+test("the indexed council reference preserves the English reading", () => {
+    const { before, current } = fixture();
+    before.file = current.file = notePath("skill-nyalbnlng");
+    const historical =
+        'The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [Great Lubemo]{.name data-type="affiliation/governmental"} is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.';
+    const indexed = historical.replace(
+        '[Great Lubemo]{.name data-type="affiliation/governmental"}',
+        "[[affiliation-greatlubemo|Great Lubemo]]",
+    );
+    before.raw += historical + "\n";
+    current.raw += indexed + "\n";
+    assert.doesNotThrow(() => assertEncodingMigrationPreserved(current, before));
+    for (const [from, to] of [
+        ["objections stop", "objections end"],
+        ["|Great Lubemo]]", "|Lubemo]]"],
+        ["affiliation-greatlubemo", "affiliation-other"],
+    ]) {
+        const altered = { ...current, raw: current.raw.replace(from, to) };
+        assert.throws(
+            () => assertEncodingMigrationPreserved(altered, before),
+            /original reading changed/,
+        );
+    }
+});
+
 test("the American baseline keeps a whole language block in its own spelling", () => {
     const raw = [
         "---",
