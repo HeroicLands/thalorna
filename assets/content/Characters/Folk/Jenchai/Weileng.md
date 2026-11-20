@@ -32,7 +32,7 @@ data:
     nose: straight
     brow: arched
     mouth: small
-    extra_features: [a jade ring on the sword hand, the court's black cap]
+    extra_features: []
   packFolder: ankarisjenchai
 ---
 
