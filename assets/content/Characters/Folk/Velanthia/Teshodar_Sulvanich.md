@@ -63,7 +63,7 @@ Teshodar Sulvanich is a 57-year-old man who stands 5'7" tall and is of heavy bui
 Teshodar Sulvanich presides over the assembly of the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] at [[place-brlvsh|Brelavesh]] and speaks for the houses to the princes. His house lends to every prince, and the houses' credit is the harvest.
 
 :::secret {title="The pledged paper"}
-His house holds the paper on the lowland prince's pledged tithe, bought through a grain-town house. He knows a short harvest leaves Zhitovod owing grain he lacks, and he has told neither the assembly nor the prince.
+His house holds the paper on the lowland prince's pledged tithe, bought through a grain-town house. He knows a short harvest leaves [[being-zhtvddbrvdch|Zhitovod Dobrovodich]] owing grain he lacks, and he has told neither the assembly nor the prince.
 :::
 
 ## Background

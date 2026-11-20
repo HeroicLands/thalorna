@@ -59,7 +59,7 @@ Sovidan Volketich is a 38-year-old man who stands 5'11" tall and is of light bui
 
 **Age 38. Ataman of the Sevret Host. Wants the harvest pay in his riders' hands before the pass tolls tempt them.**
 
-Sovidan Volketich commands the riders of the [[affiliation-hstsvrt|Sevret Host]], presides at its council of clan heads and speaks for it to the prince of Zhitavesh, whom the Host serves for pay in grain and silver. His seat is the muster town of [[place-tvsknv|Tveskanov]], and the pass roads above [[place-tvskvsh|Tveskavesh]] are his work.
+Sovidan Volketich commands the riders of the [[affiliation-hstsvrt|Sevret Host]], presides at its council of clan heads and speaks for it to the prince of [[place-zhtvsh|Zhitavesh]], whom the Host serves for pay in grain and silver. His seat is the muster town of [[place-tvsknv|Tveskanov]], and the pass roads above [[place-tvskvsh|Tveskavesh]] are his work.
 
 ## Background
 

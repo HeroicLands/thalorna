@@ -59,7 +59,7 @@ Ovrik Lervogorich is a 50-year-old man who stands 5'10" tall and is of medium bu
 
 **Age 50. Captain of the Forts. Wants the silver in the barracks before the wardens sell another night.**
 
-Ovrik Lervogorich commands the wardens of the princedom of Brevavesh and keeps their rolls and the pay owed them in the fort at [[place-brvvsh|Brevavesh]]. He shows the prince the rolls each quarter, and he sets the post of every warden.
+Ovrik Lervogorich commands the wardens of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] and keeps their rolls and the pay owed them in the fort at [[place-brvvsh|Brevavesh]]. He shows the prince the rolls each quarter, and he sets the post of every warden.
 
 :::secret {title="The second roll"}
 His second roll shows that a third of the wardens the prince pays are not in the barracks. Ovrik pays their wages to the bell-ringers, cooks and village watches beneath the forts, because the silver comes late and the grain later. The prince would call it theft.

@@ -58,7 +58,7 @@ Tveskana Sedrogorich is a 41-year-old woman who stands 5'7" tall and is of mediu
 
 **Age 41. Reeve of the Pass Market. Wants every wagon through her gate in her book.**
 
-Tveskana Sedrogorich tolls the wagons that pass the south gate of [[place-tvskvsh|Tveskavesh]] and the order of its stables, for the prince of Zhitavesh. She answers to the captain of the retinue at the seat and keeps a small guest room for travelers with the prince's letter.
+Tveskana Sedrogorich tolls the wagons that pass the south gate of [[place-tvskvsh|Tveskavesh]] and keeps the order of its stables, for the prince of [[place-zhtvsh|Zhitavesh]]. She answers to the captain of the retinue at the seat and keeps a small guest room for travelers with the prince's letter.
 
 :::secret {title="The monks' wagons"}
 The monastic wagons pay no toll by an old grant, so she keeps a private count of them, and it grows every year past the grain the monasteries admit to holding. She has shown it to no one, because the captain would show it to the prince.

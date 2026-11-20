@@ -61,7 +61,7 @@ Belukan Kelodov is a 61-year-old man who stands 5'9" tall and is of light build.
 
 **Age 61. Ataman of the Khorad Host. Wants the river communities' toll for his Host and the prince's arrears paid.**
 
-Belukan Kelodov commands the riders of the [[affiliation-hstkhrd|Khorad Host]], presides at its council of clan heads and treats with the steppe tribes for the prince of Zhitavesh, whom the Host serves for pay. He keeps his seat at [[place-krdshv|Krodashov]], where the Host's crossbred horses are bred.
+Belukan Kelodov commands the riders of the [[affiliation-hstkhrd|Khorad Host]], presides at its council of clan heads and treats with the steppe tribes for the prince of [[place-zhtvsh|Zhitavesh]], whom the Host serves for pay. He keeps his seat at [[place-krdshv|Krodashov]], where the Host's crossbred horses are bred.
 
 :::secret {title="The guest-son"}
 Belukan's younger son lives in a steppe camp as the tribe's guest, which keeps him from riding past the river to enforce the toll he demands of the communities. He tells no clan head where the boy is.
@@ -101,5 +101,5 @@ Each side watches which way he turns, and he cannot turn without cost.
 
 ## Plot Hooks
 
-1. **The communities' answer.** Riders from Semukarov say the tribe has raised its price, and Belukan wants a witness to what Semukarov pays the Soqritur.
+1. **The communities' answer.** Riders from [[place-smkrv|Semukarov]] say the tribe has raised its price, and Belukan wants a witness to what Semukarov pays the [[affiliation-sqrtrtrb|Soqritur]].
 2. **The herd sale.** A western buyer wants his crossbred horses, and he wants a party to ride the horses to the buyer unseen by the tribe.
