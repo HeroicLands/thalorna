@@ -88,7 +88,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Shuiwojai Domain, held by House Shuiwojai (Strait Place), holds [[place-rojai|Rojai]] (Thunder Peak), the mountain on the west coast of the great island where it faces the strait, by patent of the Emperor. Its lord is the Dauzhwo [Shuiwojai Henzo]{.name data-type="being/npc"} (Tiger Lord), forty-seven years old, who sits in the castle town of [[place-hawu|Hawu]] (Dark Hall), population 7,500. The domain holds 105,000 people, is assessed at 78,000 bales a year, and musters 1,950 men and 60 ships—the largest army and the largest fleet of the eight houses. Henzo leads [The Strait]{.name data-type="affiliation"} bloc, and the office he wants is that of Teng Ja.
+The Shuiwojai Domain, held by House Shuiwojai (Strait Place), holds [[place-rojai|Rojai]] (Thunder Peak), the mountain on the west coast of the great island where it faces the strait, by patent of the Emperor. Its lord is the Dauzhwo [[being-henzoshuiwo|Shuiwojai Henzo]] (Tiger Lord), forty-seven years old, who sits in the castle town of [[place-hawu|Hawu]] (Dark Hall), population 7,500. The domain holds 105,000 people, is assessed at 78,000 bales a year, and musters 1,950 men and 60 ships—the largest army and the largest fleet of the eight houses. Henzo leads [The Strait]{.name data-type="affiliation"} bloc, and the office he wants is that of Teng Ja.
 
 ## The Land
 
@@ -112,7 +112,7 @@ The [Besheju]{.name data-type="affiliation/lineage"} keep the salt records and h
 
 ## Fleet and Muster
 
-The muster is 1,950 men and 60 ships. The yards at [Kowo]{.name data-type="place/settlement"} build and refit the fleet, and the ships keep the water between Rojai and the mainland coast; the raids on Tantsou's shore that the lords of the Nine count as their right sail from Rojai among other harbors. The [[affiliation-tantsouempr|Empire of Tantsou]] counts House Shuiwojai its nemesis. [Rinjai Hoja]{.name data-type="being/npc"}, the lord of the lesser island, is sworn to Henzo and adds 650 men and 25 ships, so the Strait bloc stands at 2,600 men and 85 ships.
+The muster is 1,950 men and 60 ships. The yards at [Kowo]{.name data-type="place/settlement"} build and refit the fleet, and the ships keep the water between Rojai and the mainland coast; the raids on Tantsou's shore that the lords of the Nine count as their right sail from Rojai among other harbors. The [[affiliation-tantsouempr|Empire of Tantsou]] counts House Shuiwojai its nemesis. [[being-hojarinjai|Rinjai Hoja]], the lord of the lesser island, is sworn to Henzo and adds 650 men and 25 ships, so the Strait bloc stands at 2,600 men and 85 ships.
 
 ## History {#history}
 
@@ -124,7 +124,7 @@ For three years Henzo's silver has covered the shortfall in the court's budget, 
 
 ## The Sealed Letter
 
-Henzo has petitioned for the office, and [Weileng]{.name data-type="being/npc"} has answered with a sealed letter. What the letter says is known to the Emperor and to the hands that sealed it.
+Henzo has petitioned for the office, and [[being-weilengjnch|Weileng]] has answered with a sealed letter. What the letter says is known to the Emperor and to the hands that sealed it.
 
 :::secret {title="What the Sealed Letter asks"}
 The letter withholds the office and asks Henzo for more silver toward the court's budget, and it names no price at which the office would follow. It is Weileng's way of deferring: while the office stays unconferred, both blocs need him.

@@ -18,7 +18,7 @@ data:
   notes: "The castle town of House Muwojai on the slope of Zijai—a granary, a hall and the garrison of the roads to the Emperor, seat of the loyalist lord Muwojai Chaiwo."
 ---
 
-Kowu (Old Hall) is the castle town and seat of [Muwojai Chaiwo]{.name data-type="being/npc"}, a town of 3,200 people on the lower slope of [[place-zijai|Zijai]]. The hall gives the town its name; the lord's house has kept it for generations. It stands on a terrace of cedar beams above the town, with the peak behind it.
+Kowu (Old Hall) is the castle town and seat of [[being-chaiwomuwoj|Muwojai Chaiwo]], a town of 3,200 people on the lower slope of [[place-zijai|Zijai]]. The hall gives the town its name; the lord's house has kept it for generations. It stands on a terrace of cedar beams above the town, with the peak behind it.
 
 The castle holds the **granary**, where the lord's four parts in ten are delivered from the demesne at [Zuju]{.name data-type="place/settlement"} and the rice of the domain, and the hall. The Tsaihwo soldiers are raised from the town's streets and posted to the passes, and the barracks of the road garrisons fill the lower town.
 
