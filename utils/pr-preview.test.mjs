@@ -263,17 +263,29 @@ test("only eligible builds share PR cancellation; no-op and lifecycle jobs canno
             .replace("${{ needs.controller.outputs.pr-number }}", String(number));
     assert.equal(group(42), group(42));
     assert.notEqual(group(42), group(43));
-    const enabled = (decision, reopenResult = "skipped") =>
-        Function(
-            "needs",
-            "cancelled",
-            `return (${build.if.replace(/^\$\{\{\s*|\s*\}\}$/g, "")});`,
-        )(
+    // The YAML expression is evaluated directly; this does not run the scheduler.
+    const evaluate = (job, needs, cancelled = false) => {
+        const expression = job.if.replace(/^\$\{\{\s*|\s*\}\}$/g, "");
+        return Function("needs", "cancelled", `return (${expression});`)(needs, () => cancelled);
+    };
+    assert.match(build.if, /\bcancelled\(\)/);
+    assert.match(publish.if, /\bcancelled\(\)/);
+    assert.deepEqual(build.needs, ["controller", "reopen"]);
+    assert.deepEqual(publish.needs, ["controller", "build"]);
+    const enabled = (decision, reopenResult = "skipped", overrides = {}) =>
+        evaluate(
+            build,
             {
-                controller: { result: "success", outputs: { build: String(decision.build) } },
+                controller: {
+                    result: overrides.controller ?? "success",
+                    outputs: {
+                        build: overrides.build ?? String(decision.build),
+                        reopen: overrides.reopen ?? String(decision.reopen),
+                    },
+                },
                 reopen: { result: reopenResult },
             },
-            () => false,
+            overrides.cancelled ?? false,
         );
     assert.equal(enabled(previewDecision(request("synchronized"), currentPR(), helpers)), true);
     for (const changes of [
@@ -285,13 +297,31 @@ test("only eligible builds share PR cancellation; no-op and lifecycle jobs canno
             enabled(previewDecision(request("label_updated", changes), currentPR(), helpers)),
             false,
         );
+    const normal = previewDecision(request("synchronized"), currentPR(), helpers);
+    for (const decision of [
+        normal,
+        previewDecision(
+            request("label_updated", { added_labels: [{ name: "ci/preview" }] }),
+            currentPR(),
+            helpers,
+        ),
+    ])
+        for (const result of ["skipped", "", "blocked"])
+            assert.equal(enabled(decision, result), true);
+    for (const intent of ["", "unknown"])
+        assert.equal(enabled(normal, "success", { reopen: intent }), false);
+    for (const status of ["failure", "skipped", "cancelled", ""])
+        assert.equal(enabled(normal, "skipped", { controller: status }), false);
+    for (const intent of ["false", ""])
+        assert.equal(enabled(normal, "skipped", { build: intent }), false);
+    assert.equal(enabled(normal, "skipped", { cancelled: true }), false);
     const closed = previewDecision(request("closed"), currentPR({ state: "closed" }), helpers);
     assert.equal(closed.cleanup, true);
     assert.equal(enabled(closed), false);
     const reopened = previewDecision(request("reopened"), currentPR(), helpers);
     assert.equal(reopened.reopen, true);
-    assert.equal(enabled(reopened, "failure"), false);
-    assert.equal(enabled(reopened, "cancelled"), false);
+    for (const result of ["skipped", "", "blocked", "failure", "cancelled"])
+        assert.equal(enabled(reopened, result), false);
     assert.equal(enabled(reopened, "success"), true);
     assert.equal(
         enabled(
@@ -300,6 +330,24 @@ test("only eligible builds share PR cancellation; no-op and lifecycle jobs canno
         ),
         false,
     );
+    // Explicit publication checks provide defense in depth.
+    const publication = (controllerResult, buildIntent, buildResult, cancelled = false) =>
+        evaluate(
+            publish,
+            {
+                controller: { result: controllerResult, outputs: { build: buildIntent } },
+                build: { result: buildResult },
+            },
+            cancelled,
+        );
+    assert.equal(publication("success", "true", "success"), true);
+    for (const result of ["failure", "skipped", "cancelled", ""]) {
+        assert.equal(publication(result, "true", "success"), false);
+        assert.equal(publication("success", "true", result), false);
+    }
+    for (const intent of ["false", "", "unknown"])
+        assert.equal(publication("success", intent, "success"), false);
+    assert.equal(publication("success", "true", "success", true), false);
 });
 
 test("manual requests keep the exact identity and ordinary publication eligibility", () => {
@@ -432,10 +480,8 @@ test("the actual workflow pins trusted code, isolates build secrets and handles 
     assert.equal(reopen.secrets, undefined);
     assert.deepEqual(build.needs, ["controller", "reopen"]);
     assert.match(build.if, /needs\.controller\.outputs\.build == 'true'/);
-    assert.match(
-        build.if,
-        /needs\.reopen\.result == 'success' \|\| needs\.reopen\.result == 'skipped'/,
-    );
+    assert.match(build.if, /needs\.controller\.outputs\.reopen == 'false'/);
+    assert.match(build.if, /needs\.reopen\.result == 'success'/);
     assert.deepEqual(publish.needs, ["controller", "build"]);
     assert.equal(cleanup.needs, "controller");
     assert.equal(cleanup.if, "${{ needs.controller.outputs.cleanup == 'true' }}");

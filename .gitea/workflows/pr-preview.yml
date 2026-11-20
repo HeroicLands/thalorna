@@ -88,7 +88,8 @@ jobs:
         if: >-
             ${{ !cancelled() && needs.controller.result == 'success'
             && needs.controller.outputs.build == 'true'
-            && (needs.reopen.result == 'success' || needs.reopen.result == 'skipped') }}
+            && (needs.controller.outputs.reopen == 'false'
+            || (needs.controller.outputs.reopen == 'true' && needs.reopen.result == 'success')) }}
         # Only eligible builds compete; lifecycle and no-op events keep their jobs.
         concurrency:
             group: ${{ github.repository }}-pr-preview-build-${{ needs.controller.outputs.pr-number }}
@@ -106,7 +107,9 @@ jobs:
             max-pages: 0
     publish:
         needs: [controller, build]
-        if: ${{ needs.build.result == 'success' }}
+        if: >-
+            ${{ !cancelled() && needs.controller.result == 'success'
+            && needs.controller.outputs.build == 'true' && needs.build.result == 'success' }}
         permissions:
             contents: write
             actions: read
