@@ -4,7 +4,7 @@ name: {full: The Truth of Religion, en: [Gods (GM), Religion (GM)]}
 type: doc
 subType: concept
 tags: [religion, theology, metaphysics, gm]
-data: {packFolder: settinglore}
+data: {pack: gm-journals, packFolder: settinglore}
 ---
 
 ## Religion and Gods Are Not the Same Thing

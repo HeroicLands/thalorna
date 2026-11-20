@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "When the Senali reached Kalihara and were refused settlement, they recognized something familiar there. The custodians’ record names neither what was recognized nor why it was familiar."
 tags: [lore, kalihara, ithari-work, gm]
-data: {packFolder: settinglore, culture: kaliharanclt}
+data: {pack: gm-journals, packFolder: settinglore, culture: kaliharanclt}
 ---
 
 > **GM-only historical account.** This is a private custodial record of the visit, not a Senali explanation of it.

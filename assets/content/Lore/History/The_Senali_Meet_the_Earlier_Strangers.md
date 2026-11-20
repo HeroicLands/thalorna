@@ -7,6 +7,7 @@ description: Senali wayfarers remember a brief, courteous meeting with the peopl
 tags: [history, spine, gm]
 data:
   culture: senaliclt
+  pack: gm-journals
   packFolder: settinglore
   events:
     - when: ~-7500
