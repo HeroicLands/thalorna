@@ -75,3 +75,6 @@ From the farms below Horgsvangur the pass road climbs for two days. In summer th
 
 [[affiliation-nalok|Nalok]]
 : the hidden order that sets the glass
+
+[[scenario-gravealeunthmyl|The Cup for the Empty Chair]]
+: a scenario set here

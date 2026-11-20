@@ -98,3 +98,6 @@ The Old Mole's stones are the oldest thing on the island, and nobody can date th
 
 [[doc-kalipsaadvguide|Kalipsa Adventurer's Guide]]
 : an introduction for players
+
+[[scenario-sprngsttng|The Spring Sitting of 720]]
+: a scenario set here

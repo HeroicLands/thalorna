@@ -82,6 +82,9 @@ The Gilded Quarter fears the fall of a house, and with the succession open every
 [[doc-vylrnctznshp|Vilérian Citizenship]]
 : the right of residence and the waivers it rests on
 
+[[scenario-sndbnthcrst|The Sand Beneath the Crust]]
+: a scenario set here
+
 # The Truth of the Gilded Quarter {#truth .secret}
 
 The apothecary who compounds the old Orzas's medicines keeps a ledger. The Orzas's own physician lives in the palace, but he sends his orders down to an apothecary's shop on the street above the Circle of Waters, the one shop in the city he trusts to make up what he asks without asking why. The apothecary records every order, as the law requires, and the ledger shows what the Orzas takes, how much, and how the doses have grown through the last year. To a physician who reads it, it shows that the Orzas has months, not years.

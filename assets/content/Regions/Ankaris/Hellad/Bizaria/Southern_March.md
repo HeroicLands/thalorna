@@ -9,6 +9,8 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [byzariargn]
+  borders: [{to: amradadrgn, bearing: S}]
+  routes: [{to: amradadrgn, bearing: S, mode: land, days: 10, terrain: [road, hills]}]
   population: null
   packFolder: byzaria
 

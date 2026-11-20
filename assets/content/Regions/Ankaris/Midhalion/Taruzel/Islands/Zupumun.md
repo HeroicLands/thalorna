@@ -68,6 +68,9 @@ Every party on the coast wants a hand on the water this year. [[being-dlzrtndn|D
 [[place-nishurel|Nishurel]], [[place-qalirel|Qalirel]], [[place-khamisar|Khamisar]], [[place-visizel|Visizel]], [[place-milazun|Milazun]], [[place-tashilar|Tashilar]]
 : the islands the waters run between
 
+[[scenario-sprngbfrbnnr|The Spring Before the Banner]]
+: a scenario set here
+
 # The Truth of the Lantern {#truth .secret}
 
 **Who shows it.** A handful of men of the fishing harbor on Qalirel's north cape show the lantern from a rock above the reef on nights when a ship's lights are seen in the channel. Their harbor is in debt to the Besikar house that holds the salvage rights on that shore, and the house takes the best of every wreck by law. The fishermen strip a wreck in the hours before the house's men can ride down from the nearest guild estate, and they sell what they take across the channel on Nishurel, where the Besikar house's rights do not run.

@@ -86,7 +86,7 @@ edited by hand.
 | Calendar               | File          | Kept by                                       |
 | ---------------------- | ------------- | --------------------------------------------- |
 | The Common Calendar    | `commoncal`   | Vylaria and the lands it reaches              |
-| The Khelâthi Calendar  | `khprclndr`   | Aû'Khelâthu                                   |
+| The Khelathi Calendar  | `khprclndr`   | Au'Khelathu                                   |
 | The Tellumi Calendar   | `khzrnclndr`  | The Tellumi cities and the exile Shekhulukhem |
 | The Madustan Count     | `mdstncnt`    | Vedyara                                       |
 | Calendar and Astrology | `clndrstrlgy` | The Empire of Tānvür                          |
@@ -152,6 +152,13 @@ through `publish-cdn.yml`, with `internal` or `cloudflare` selected explicitly.
 Neither site building nor page deployment uploads or fetches missing images.
 See the [publishing guide](docs/publishing.md) for commands, credentials,
 host identity and partial-transfer limits.
+
+Add `ci/preview` to a ready same-repository pull request to build an internal
+preview at `/pr/thalorna/<number>/thalorna/`. The label keeps it refreshed as
+the head changes; removing the label stops refreshes. Closing or merging the
+PR removes its preview. Draft and `WIP:` pull requests do not build previews.
+The [preview publishing guide](docs/publishing.md#preview-a-pull-request)
+describes exact-head status links, manual requests and cleanup.
 
 ### The address is written down once
 

@@ -161,6 +161,12 @@ Cult practitioners are not uniformly marked, but each lineage has its own conven
 
 Recognized vessels of Bazhrámish wear a heavy iron torc at the throat, given at recognition by the Council of Elders. The torc is a distinct and unmistakable identifier across all Dunhari country.
 
+## The Floor and the Steppe {#present}
+
+Razashar of the Wind-Readers, who presides at most gatherings of the Council of Elders, comes to the next season-turn with a grievance against the Lightning-Marked. They keep the salt toll below the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] on the [Pale Floor]{.name data-type="place/region"}, and of [Vahrun Marzuvan]{.name data-type="being/npc"}, the storm-walker the Council denounced, they say only that he went into the storm. Mehrava gives the other lineages no more than that. Razashar holds that a lineage which keeps its readings from the Council has no business taking a toll in the god's name, and the Lightning-Marked answer that the Floor is theirs to read. Among the apprentices of every lineage, stories pass of a voice in the storm over the Floor.
+
+The northern chieftains bring a second matter. A [[lore-sowidesclt|Sovidur]] storm-shaman preaches in their camps and has a following among the young trackers at [[place-kherzulakhem|Kherzulakhem]], and they want him summoned to the Stone of Ranaz. Neither matter can be settled while the Lightning-Marked and the Wind-Readers are at odds, because a ruling needs the assent of the gathered elders, and each of the two lineages withholds its assent from anything the other proposes.
+
 ## Plot Hooks
 
 - **The Contested Vessel.** A Storm-Walker of substantial reputation has begun, without Council authorization, to claim direct vesselhood and to issue rulings on religious matters. His personal authority is real; his weather-readings are accurate; the Council is divided on whether to recognize him formally, denounce him, or wait. The longer the Council waits, the harder either alternative becomes.

@@ -40,3 +40,4 @@ The custom has been broken, and the lake is uneasy about it. Last year on the ni
 ## See Also {#see-also}
 
 - [[place-bldfldtiravlen|Blood-field of Tiravlen]] · [[lore-bloodfields|the Blood-fields of Provénzia]]
+- [[scenario-ghststrvln|The Ghosts of Tiravlen]]

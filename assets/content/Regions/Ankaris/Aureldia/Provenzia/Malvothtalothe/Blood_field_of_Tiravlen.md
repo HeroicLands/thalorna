@@ -49,3 +49,4 @@ The observance is in question for the first time in living memory. A fisherman's
 ## See Also {#see-also}
 
 - [[lore-bloodfields|The Blood-fields of Provénzia]] · [[place-tiravellake|Lake Tiravel]] · [[lore-tiravlenbattle|Tiravlen]]
+- [[scenario-ghststrvln|The Ghosts of Tiravlen]]

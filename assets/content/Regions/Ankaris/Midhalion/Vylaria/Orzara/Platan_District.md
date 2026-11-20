@@ -89,6 +89,12 @@ The Platan fears the noon proclamations, and all three it dreads are close. A sh
 [[place-grandmarketorz|Grand Market]]
 : the commercial heart, below the Velmiros
 
+[[scenario-hlfwrdshrt|Half a Ward Short]]
+: a scenario set here
+
+[[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]
+: a scenario set here
+
 # The Truth of the Platan {#truth .secret}
 
 The citizen roll of Orzara carries the dead. The roll that sets the dole is kept in the Hall of the Five under the Veramus of the Rolls, and its working copies are made in the Scribal Guild's hall across the Circle. A veteran-citizen who dies is struck from the roll when his death is reported to his ward, and in the poorer wards nobody reports it. For a generation the ward clerks of the [[place-warrensorz|Warrens]] and the [[place-wharvesorz|Wharves]] have drawn the dole of their dead every month in the dead men's names, and pocketed the coin. The roll now carries about four thousand names that belong to nobody.

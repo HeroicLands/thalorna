@@ -37,3 +37,5 @@ The [[affiliation-svapnasarisameja|Svapnasari-sameja]] keeps a house above the t
 - [[place-marchroad|The march road]] · [[place-sandyapur|Sandyapur]] · [[place-marukupa|Marukupa]]
 - [[affiliation-bhumipal|Bhumipal]]—the kingdom
 - [[place-bhumipalland|Bhumipal]]—the land
+- [[scenario-lastwagonadv|The Last Wagon on the Banner Ground]]—a scenario set here
+- [[scenario-roadroundwall|The Road Round the Wall]]—a scenario set here

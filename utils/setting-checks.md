@@ -1,0 +1,236 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+
+# Setting checks for proposed place names
+
+`utils/setting-checks.mjs` supplies the five checks a place-name proposer
+needs before it accepts a candidate: `spelling`, `language`, `earthWords`,
+`earthNames` and `indexedNames`. Each is a synchronous callback called as
+`(candidate, context)`. The factory runs only when an author or a tool calls it.
+No lint, build or CI step calls it, and it generates no names and writes no
+notes.
+
+## Supported scope
+
+A candidate is one plain opening element followed by one plain closing element
+of the Eilwìthi language note (`skill-aelwthlng`, language code `aelw`):
+
+- the opening element's `position` is `opening` or `either`, and the closing
+  element's is `closing` or `either`;
+- each element's `kind` is `place` or absent, and neither carries a `joining`
+  form;
+- the language's `data.naming.draws` holds one `place` draw that permits
+  `place` elements.
+
+The elements are resolved from the captured language record's declarations at
+the indexed positions, never from the context's own fields. A link element, an
+element limited to given names or bynames, an element in the wrong position, an
+element with a joining form, any other language and any other composition is
+outside the scope. Every callback returns `{available: false, check, reason}`
+for an out-of-scope context before it judges the candidate; it never reports a
+pass. A candidate that differs from the composition of a supported pair is in
+scope, and the `language` callback reports it as available and invalid. Because
+the scope is resolved from the index, every callback needs the `index` resource.
+
+## Inputs
+
+Importing `utils/setting-checks.mjs` reads no content, scans no directory and
+does not depend on the working directory. The factory performs no I/O: it takes
+preloaded resources and snapshots them at setup, and it never reads a resource
+again. Two ways supply the resources, and the factory treats them alike.
+
+**Explicit files.** `loadSettingCheckResources` reads only the files and
+directories it is given, each within a size limit, and returns
+`{resources, problems}`:
+
+```js
+import { createSettingChecks, loadSettingCheckResources } from "./utils/setting-checks.mjs";
+
+const { resources, problems } = loadSettingCheckResources({
+  guideFile: "/path/to/Pronouncing_Thalorna.md",
+  englishWordsFile: "/path/to/english-words.json",
+  englishSourcesFile: "/path/to/english-words.sources.json",
+  indexFile: "/path/to/build/content-index/thalorna-metadata.jsonl",
+  // wordlistDirs: ["/path/to/lists"],   only for a language that declares model lists
+  // limits: { indexFile: 256 * 1024 * 1024 },
+});
+const checks = createSettingChecks(resources, { selected: chosenNames });
+// checks.validators is { spelling, language, earthWords, earthNames, indexedNames }
+```
+
+A file that is not named, cannot be read, is above its limit or does not parse
+leaves its resource out and adds a line to `problems`; the callbacks that need
+it return `{available: false}`.
+
+Each file is opened once. The loader takes the file's status from that same
+descriptor and requires a regular file, so a directory, FIFO, device or a link
+to one is refused and cannot block the read. It checks the size against the
+limit, then reads at most one byte more than the limit from that descriptor and
+refuses the file if more arrive, so a file that grows after the size check
+cannot exceed its bound. The digest covers exactly the bytes read.
+
+The word-list directories are read in one bounded pass: at most
+`wordlistEntries` directory entries and `wordlistDirs` bytes of `.txt` and
+`.tsv` files in all, each file read once as above. The lists are parsed from
+those captured bytes and the files are never read again; a path that is not a
+directory is skipped. The digest covers the directory position, name, length
+and bytes of every file read, in order.
+
+The default limits (`DEFAULT_LIMITS`) are 4 MiB for the guide, 64 MiB for the
+English list, 1 MiB for its source manifest, 512 MiB for the index, 512 MiB in
+total for the word-list directories and 10,000 word-list directory entries.
+`limits` overrides them by option name. An override is a non-negative integer;
+any other value (`undefined`, `NaN`, `Infinity`, a negative or fractional
+number) is a problem for the resource it bounds, which is then left out, and
+never disables the limit. The `earthNames` resource needs no file: its matcher
+is built in memory, and the only other read is the manifest of the installed
+`countries-list` package, which gives its version.
+
+**Captured data.** A caller that has already read and snapshotted its inputs
+passes them as the `resources` object directly, with no loader. The factory
+copies what it needs, so the objects may be frozen. Resources passed to
+`createSettingChecks` are used as given; nothing is merged with a loaded set.
+
+`createSettingChecks(resources, { selected })` reads only what it is given:
+
+- **`resources`** holds the resources below. Each carries an `id` of
+  `{name, version, source}`, every part a nonempty string. A resource's content
+  is identified by a SHA-256 digest: `id.digest` when the loader or caller states
+  it (`sha256:` and 64 hex digits), otherwise a digest the factory computes from
+  the data. The loader states the digest of the exact bytes it read. Every
+  result's `resource` evidence and `checks.resources` repeat each identity with
+  its digest, so the caller compares them with its own captured session. A
+  digest that is not well formed makes the resource unavailable.
+- **`selected`** is the list of names the current operation has already chosen:
+  an array or a `Set` of nonempty strings that the caller keeps up to date, or a
+  function returning one. A string, an iterator or generator, a `Map` or any
+  other value, and a non-string member, make `indexedNames` unavailable.
+  The proposer's context carries no selected names, so the caller passes the same
+  list as the proposer's `exclusions` and as `selected`.
+  It is read at every `indexedNames` call, so a name selected after the factory
+  was built still collides. An empty list is stated explicitly as `[]`.
+
+Each callback receives the candidate and a context. The context identifies the
+indexed language record (`package`, `type`, `subType`, `shortcode`,
+`languageCode`) and carries `elements`, the opening and closing components as
+`{index, form}`, where `index` is the position in the language record's
+`data.elements`. The proposer supplies both.
+
+## Resources and their sources
+
+| Resource         | Shape           | Source                                                                                                                                                                  | Needed by      |
+| ---------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| `guide`          | `{id, text}`    | The Pronouncing Thalorna note, from `guideFile`.                                                                                                                        | `spelling`     |
+| `englishWords`   | `{id, words}`   | `englishWordsFile`, the English spelling list (`assets/data/english-words.json`); its `id.version` names the baseline word list that `englishSourcesFile` records.      | `earthWords`   |
+| `earthWordLists` | `{id, earth}`   | The model-language lists of `lint:earth-words`, loaded from directories the caller names. Needed only for a language that declares model lists; Eilwìthi declares none. | `earthWords`   |
+| `earthNames`     | `{id, matcher}` | The matcher of `lint:earth-names` and the `countries-list` version it reads.                                                                                            | `earthNames`   |
+| `index`          | `{id, records}` | The records of `indexFile`, the standard `build/content-index/thalorna-metadata.jsonl` written by `npm run build:content-index`.                                        | every callback |
+
+## What each callback checks
+
+Every result carries `check` (the callback's name), `resource` (the identities
+of the resources it read) and `evidence`, a list of `{rule, ok, ...}` entries.
+`valid` is true only when every entry is `ok`.
+
+- **`spelling`** applies the governing pronunciation guide through the
+  repository's own guards. The candidate is one written word (letters and marks
+  only); it passes the spelling guard's alphabet, mark and `y` rules, has no
+  closing `ay`, `ey` or `oy`, and has no diaeresis that changes nothing. The
+  guard's `held` respellings do not apply to a new name.
+- **`language`** reads the Eilwìthi record from the captured index. The two
+  elements must be the language's own declarations at the indexed positions and
+  compose the candidate exactly; every letter of the candidate is in the
+  language's declared `roman` inventory; the candidate is not one of the
+  language's `data.retired` forms; and it is not already a recorded word,
+  variant, plural, name or register name of the language. The language's
+  prose is never read.
+- **`earthWords`** rejects a candidate that is a whole word of the English
+  list, with and without its accents. For a language that declares model
+  languages in the Earth-word guard, a whole word of each model list is a
+  collision too.
+- **`earthNames`** applies the Earth-name guard to the candidate written with an
+  initial capital, as the setting writes a name: countries, capitals,
+  continents, languages, peoples, religions, persons and works of fiction, the
+  Greek names, and the reader's own languages.
+- **`indexedNames`** rejects a candidate whose name equals any name in the
+  captured index. Names are compared with case, accents, spaces, hyphens and
+  apostrophes removed, so `Stoniwold`, `Stoni Wold` and `Stoni-wold` are one name.
+  The names read are a note's `full`, `sort`, `given` and `clan` names, its
+  aliases and other language forms, the typed name spans the index records for
+  its prose, every language's `register` and `data.names` entries, and the
+  `settlement` of each row of a polity's declared `data.settlements`. A name
+  already selected in the same operation collides as well. The match is on the
+  whole name; no prose is read.
+
+The personal-name drawer is not consulted, and no language rule is inferred
+beyond the declared data.
+
+## Not checked
+
+The five callbacks enforce declared data and the repository's existing guards.
+They do not enforce:
+
+- the language's flavour palette, which is prose; a candidate inherits it only
+  by being built from declared elements. The proposer's contract places flavour
+  and shape constraints under `language`, and Eilwìthi declares none of them as
+  data;
+- stress across the composed name;
+- readability where the two elements join: names such as `Highhaugh`,
+  `Ashhaugh` and `Kolddale` pass all five callbacks;
+- the model language's syllable-count weighting across the tongue's names;
+- Earth place names below country and capital level, such as `Ashdale`,
+  `Irondale`, `Kingford` and `Highmoor`;
+- gaps in the English word list, such as `stormwater`;
+- the corpus-wide retired names that the utility tests sweep; only the
+  language's own `data.retired` forms are consulted.
+
+The captured index is not tied to the content tree. A stale index silently
+misses names authored after it was built, so the caller supplies an index built
+from the current tree in the same operation. The standard index carries no
+commit or timestamp, so the index is identified by the digest of its content.
+
+## Unavailable cases
+
+A callback returns `{available: false, check, reason}` when it cannot decide,
+and the proposer treats that as a missing check, never as acceptance. That
+happens when:
+
+- a resource it needs is absent, has no full `id`, is empty or malformed, or is
+  a promise rather than loaded data;
+- the guide declares no alphabet, or the English list holds no word;
+- the Earth-name matcher is not a global pattern;
+- the captured index has no `aelwthlng` language record with language code `aelw`,
+  or that record lacks its `roman`, `elements` or place draw;
+- an element in the context is not the language's declaration at its index;
+- the candidate is not a nonempty string, or the context is outside the
+  supported scope;
+- `selected` is absent, throws, is not an array or a set (a string, an iterator, a promise), or contains a non-name;
+- the language declares model lists and `earthWordLists` is absent or lacks one
+  of them.
+
+A callback never throws and never returns a promise or thenable. An error inside
+a check is reported as unavailable.
+
+## Results
+
+```js
+{ available: true, valid: true, check: "indexedNames",
+  resource: [{ name: "content-index", version: "sha256:…", source: "build/content-index/thalorna-metadata.jsonl" }],
+  evidence: [{ rule: "unique-name", ok: true }] }
+```
+
+A rejection lists what it found in the failing entry: the `issues` of a
+spelling, the `outside` letters of the roman inventory, the `hits` of an
+Earth-word list, the `findings` of the Earth-name guard, or the `matches` of
+the index, each with the matching name, its `kind` (`name`, `alias`,
+`name-span`, `register` or `selected`) and, where it has one, its note address.
+
+The returned object also lists `resources` (the identities each callback read),
+`unavailable` (the reason each unavailable callback gives) and `scope`.
+
+Pass `checks.validators` as the `validators` of the proposer.
+
+## Tests
+
+`node --test utils/setting-checks.test.mjs` covers accepted and rejected
+candidates for each callback, every unavailable resource, and the refusal of
+asynchronous or throwing inputs. It runs with the other utility tests.

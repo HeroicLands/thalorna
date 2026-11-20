@@ -69,3 +69,6 @@ Raiders test unescorted strings; a string with a rider of the right tribe is rar
 
 [[lore-celestialroad|The Celestial Road]]
 : the caravan road to Tantsou
+
+[[scenario-trcecmpsmrch|The Truce Camps of the March]]
+: a scenario set here

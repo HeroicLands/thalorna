@@ -319,3 +319,81 @@ test("an affiliation sharing a land root's shortcode is not that place", () => {
     );
     assert.deepEqual(landsOf(treeIndex(root), note, LANDS), []);
 });
+
+/** A content tree of one place and one scenario, the place's See Also given. */
+function backlinkTree(seeAlso, locations = ["spot"]) {
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), "backlink-"));
+    const dir = path.join(root, "assets/content");
+    fs.mkdirSync(dir, { recursive: true });
+    const write = (file, fm, body) =>
+        fs.writeFileSync(path.join(dir, file), `---\n${YAML.stringify(fm)}---\n\n${body}\n`);
+    write("Spot.md", { shortcode: "spot", type: "place", data: { parents: [] } }, seeAlso);
+    write("Tale.md", { shortcode: "tale", type: "scenario", data: { locations } }, "A scenario.");
+    return root;
+}
+
+const backlinks = (root, extra = {}) =>
+    check({ root, registry: { ...registry, kinds: [], ...extra } }).findings.filter(
+        (f) => f.rule === "scenario-backlink",
+    );
+
+test("a scenario's listed place that does not link back is an error at its See Also", () => {
+    const found = backlinks(
+        backlinkTree("A spot.\n\n## See Also {#see-also}\n\n- [[place-spot|Spot]]"),
+    );
+    assert.equal(found.length, 1);
+    assert.equal(found[0].severity, "error");
+    assert.equal(found[0].line, 10);
+    assert.match(found[0].message, /scenario-tale/);
+});
+
+test("a listed place with no See Also is reported without a line", () => {
+    const found = backlinks(backlinkTree("A spot."));
+    assert.equal(found.length, 1);
+    assert.equal(found[0].line, undefined);
+});
+
+test("a listed place that links the scenario by address passes", () => {
+    const see =
+        "A spot.\n\n## See Also {#see-also}\n\n[[scenario-tale|The Tale]]\n: a scenario set here";
+    assert.deepEqual(backlinks(backlinkTree(see)), []);
+    const bare = "A spot.\n\n## See Also\n\n- [[scenario-tale|The Tale]]";
+    assert.deepEqual(backlinks(backlinkTree(bare)), []);
+});
+
+test("a link outside the See Also section does not count", () => {
+    const body =
+        "A spot, with [[scenario-tale|The Tale]].\n\n## See Also {#see-also}\n\n- [[place-spot|Spot]]";
+    assert.equal(backlinks(backlinkTree(body)).length, 1);
+});
+
+test("a pair on the deferred list is skipped", () => {
+    const root = backlinkTree("A spot.");
+    assert.equal(backlinks(root, { deferredBacklinks: ["tale spot"] }).length, 0);
+});
+
+test("the registry's deferred pairs name scenarios and places in the tree", () => {
+    const index = treeIndex(".");
+    for (const pair of loadRegistry().deferredBacklinks ?? []) {
+        const [scenario, place] = pair.split(" ");
+        assert.ok(index.byAddress.has(`scenario-${scenario}`), pair);
+        assert.ok(index.byAddress.has(`place-${place}`), pair);
+    }
+});
+
+test("a scenario link in inline code or a fenced block does not count", () => {
+    const inline = "A spot.\n\n## See Also {#see-also}\n\n- `[[scenario-tale|The Tale]]`";
+    assert.equal(backlinks(backlinkTree(inline)).length, 1);
+    const fenced = "A spot.\n\n## See Also {#see-also}\n\n```\n[[scenario-tale|The Tale]]\n```\n";
+    assert.equal(backlinks(backlinkTree(fenced)).length, 1);
+});
+
+test("an unlabelled scenario link does not count", () => {
+    const body = "A spot.\n\n## See Also {#see-also}\n\n- [[scenario-tale]]";
+    assert.equal(backlinks(backlinkTree(body)).length, 1);
+});
+
+test("a labelled scenario link with an anchor-free target counts", () => {
+    const body = "A spot.\n\n## See Also {#see-also}\n\n- [[scenario-tale|The Tale]]";
+    assert.deepEqual(backlinks(backlinkTree(body)), []);
+});

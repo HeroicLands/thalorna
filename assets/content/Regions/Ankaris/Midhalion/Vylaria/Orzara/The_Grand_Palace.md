@@ -62,3 +62,9 @@ The palace keeps a failing old man and the whole court's attention. [[being-zrml
 
 [[place-aulpnpstmm|Ombalon]]
 : the Epistémion's inner seat, sharing the hill
+
+[[scenario-prmsndcoin|The Promise and the Coin]]
+: a scenario set here
+
+[[scenario-qrtrdyoldrgn|The Quarter Day of an Old Reign]]
+: a scenario set here

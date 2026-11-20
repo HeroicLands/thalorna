@@ -92,3 +92,4 @@ This winter the watch at the Door is down to one Warden, and no relief can come 
 - [[place-fndr|The Fen Door]] · [[place-dskfrd|The Dusk Ford]] · [[lore-aralwen|Araelwen]]
 - [[place-elavendre|Élavendre]]
 - [[scenario-brdfrthdr|Bread for the Door]], a scenario set here
+- [[scenario-tlldskfrd|The Toll You Will Not Miss]], a scenario set here

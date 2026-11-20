@@ -40,3 +40,6 @@ Its masters buy their stones by the year and sell their work through [[affiliati
 
 [[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land
+
+[[scenario-lastmelka|The Last Melka of Mahaprasoda]]
+: a scenario set here

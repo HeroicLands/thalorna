@@ -74,6 +74,8 @@ The drivers at Ashvapada say that a caravan of three wagons belonging to a cloth
 - [[place-ludrapur|Ludrapur]]—the capital the host burned after it
 - [[lore-bloodfield|Blood-fields]]—what a _shorukshetra_ is, and why a thin one kills
 - [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[affiliation-bhumipal|Bhumipal]]
+- [[scenario-lastwagonadv|The Last Wagon on the Banner Ground]]—a scenario set here
+- [[scenario-roadroundwall|The Road Round the Wall]]—a scenario set here
 
 # The Truth of Lantustal {#truth .secret}
 

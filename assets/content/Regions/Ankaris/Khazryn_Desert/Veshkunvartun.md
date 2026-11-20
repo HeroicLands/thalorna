@@ -80,3 +80,6 @@ The gate is entered from the north, over the open rim, or from the town side by 
 
 [[being-gntcmlsp|Giant Camel Spider]]
 : the hunter in the vaults below
+
+[[scenario-knockvelkun|The Voice at the Barred Gate]]
+: a scenario set here

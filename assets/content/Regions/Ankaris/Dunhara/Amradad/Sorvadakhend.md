@@ -3,7 +3,7 @@ shortcode: sorvadakhend
 name: {full: Sorvadakhend}
 type: place
 subType: settlement
-description: "A significant rural settlement of Amradad whose Village Elders keep the astrologer Fakhrad Tamaran on retainer for seasonal and long-term counsel."
+description: "A farming town of about 2,500 in Amradad whose elders keep the astrologer Fakhrad Tamaran on retainer to time the sowing, the water and the stores."
 tags: [town, draft]
 data:
   demonym: null
@@ -14,16 +14,20 @@ data:
   type: town
   government: kngdmmrdd
   packFolder: amradad
-  notes: "A significant rural settlement of Amradad whose Village Elders keep the astrologer Fakhrad Tamaran on retainer for seasonal and long-term counsel."
+  notes: "A farming town of about 2,500 in Amradad whose elders keep the astrologer Fakhrad Tamaran on retainer to time the sowing, the water and the stores."
 ---
 
 ## Overview {#overview}
 
-Sorvadakhend is a significant rural settlement of [[place-amradadrgn|Amradad]], governed by the [Village Elders of Sorvadakhend]{.name data-type="affiliation/governmental"}, who decide its affairs collectively, and some two and a half thousand people live by its fields and orchards. A farming settlement lives by the seasons, and the elders do not decide when to plant, when to move water or when to store against a bad year without first hearing what the stars say.
+**Sorvadakhend**, the sowing town, is a farming town of about 2,500 people in [[place-amradadrgn|Amradad]], within reach of [[place-shebarakhend|Shebarakhend]]. A _tagemader_ holds it for the [[affiliation-kngdmmrdd|Kingdom of Amradad]], and the [Elders of Sorvadakhend]{.name data-type="affiliation/governmental"} decide its own affairs together, above all when to sow, when to move water and how much to store against a bad year.
+
+## What the Town Lives By {#what-the-town-lives-by}
+
+The town lives by its own fields and orchards and by the hamlets around them, which grow wheat, barley and seed grain. It feeds itself, sends its grain and its seed to the court's granaries at Shebarakhend, and buys oil, cloth and iron there in return.
 
 ## The Astrologer on Retainer
 
-For that the elders keep [[being-fakhrdtmrn|Fakhrad Tamaran]], an astrologer of [[place-shebarakhend|Shebarakhend]], on retainer as their adviser on seasonal matters and on the settlement's longer-term planning. A newcomer who wants the elders' agreement to anything that touches the land learns quickly that the question will also be put to Fakhrad.
+The elders decide nothing about the land without first hearing what the stars say. For that they keep [[being-fakhrdtmrn|Fakhrad Tamaran]], an astrologer of Shebarakhend, on retainer as their adviser on the seasons and on the town's longer plans, and any proposal that touches the fields is put to him as well as to them.
 
 ## See Also {#see-also}
 
@@ -31,4 +35,4 @@ For that the elders keep [[being-fakhrdtmrn|Fakhrad Tamaran]], an astrologer of 
 : the elders' astrologer
 
 [[place-amradadrgn|Amradad]]
-: the region the settlement belongs to
+: the region the town belongs to

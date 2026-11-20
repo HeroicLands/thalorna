@@ -58,3 +58,4 @@ See [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Túravel Hills]].
 ## See Also {#see-also}
 
 - [[place-thuravelhills|Túravel Hills]] · [[affiliation-firstgods|the First Gods]]
+- [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Túravel Hills]]

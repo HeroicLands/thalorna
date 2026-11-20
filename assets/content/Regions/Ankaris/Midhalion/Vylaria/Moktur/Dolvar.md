@@ -90,6 +90,9 @@ The lower town has three taverns with beds, and the best of them is the [Gold Ba
 [[place-vandgrund|Vandgrund]]
 : a Vandstein village under the truce
 
+[[scenario-lttrnbdypnd|The Letter Nobody Opened]]
+: a scenario set here
+
 # The Truth of Dolvar {#truth .secret}
 
 One of the boys in the House of Guests is not who he is said to be. [Edrarith]{.name data-type="being/npc"}, the son of the War Chief of [[place-vandgrund|Vandgrund]], died of a winter fever in the House of Guests in the second month of last winter. Vandgrund's men are the ones who come over the nearest pass, and the truce that keeps them on their side of it is held by that boy. Satheras Kiramaris did not send word north. He had the body buried at night in the garden of the House of Guests and put in Edrarith's place a stable-boy of the same age from [[place-pinnhald|Pinnhald]], half-Varokh, who speaks the forest tongue and has been taught since the thaw to answer to the dead boy's name.

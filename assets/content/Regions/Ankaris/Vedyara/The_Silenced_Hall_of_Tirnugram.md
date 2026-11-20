@@ -36,3 +36,4 @@ That does not make the hall a pleasant place at night. The hill people keep away
 - [[lore-silenthall|The Silenced Hall]]—the burning
 - [[lore-conchdoor|The Conch-Door Incursion]]—the adventurer, unnamed
 - [[place-sangrafort|The Sangra-fort]] · [[place-sangema|Sangema]]
+- [[scenario-lastmelka|The Last Melka of Mahaprasoda]]—a scenario set here

@@ -66,3 +66,4 @@ A road runs upriver from Naughat along the north bank, a mile of packed earth be
 - [[affiliation-kalavrata|Kalavrata]] · [[affiliation-thresholdkeepers|the Threshold-keepers]]—the passage, and the gap before the pyre
 - [[affiliation-adanshreni|The Adanshreni]] · [[affiliation-twilighths|the Twilight House]]
 - [[place-naughat|Naughat]] · [[affiliation-srvdmthjnpd|Sarveda Mouth Janpoda]]
+- [[scenario-ashthatwouldnottake|Between the Conch and the Flame]]—a scenario set here

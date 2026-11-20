@@ -228,7 +228,7 @@ address once.
 ## Cultures and customs
 
 A `lore` note with `subType: culture` names **a people**—a social grouping
-with its own beliefs, mores and values, such as the Khelâthi or the Vedyari.
+with its own beliefs, mores and values, such as the Khelathi or the Vedyari.
 Those notes live in `Lore/Cultures/`, one per people, and a being points at one
 through `data.culture`.
 

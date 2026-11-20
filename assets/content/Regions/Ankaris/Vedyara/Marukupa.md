@@ -34,3 +34,4 @@ Salt and dried fish come up from the coast, grain and cotton from the plain, and
 - [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-sandyapur|Sandyapur]]
 - [[affiliation-bhumipal|Bhumipal]]—the kingdom
 - [[place-dunharargn|Dunhara]]—the desert west of the last well
+- [[scenario-roadroundwall|The Road Round the Wall]]—a scenario set here

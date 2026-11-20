@@ -93,3 +93,6 @@ Hilen is a country of estates and market-towns: great aristocratic domains, each
 
 [[place-olcassafld|The Blood-field of Olkassa]]
 : the quickened wheat-field of the civil war
+
+[[scenario-rtbfrwddng|The Rite Before the Wedding]]
+: a scenario set here

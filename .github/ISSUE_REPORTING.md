@@ -96,7 +96,7 @@ If none fits, note the gap in the issue body for a maintainer to decide.
 | `flag/`       | `flag/breaking-change`, `flag/security`, `flag/regression`, `flag/tech-debt`                                                 |
 | `status/`     | `status/blocked`, `status/question`                                                                                          |
 | `resolution/` | `resolution/duplicate`, `resolution/wontfix`                                                                                 |
-| `ci/`         | `ci/e2e`                                                                                                                     |
+| `ci/`         | `ci/e2e`, `ci/preview`                                                                                                       |
 
 **When to use them here**
 
@@ -123,6 +123,9 @@ If none fits, note the gap in the issue body for a maintainer to decide.
 
 `area/system` and `area/tests` do not apply
 : this repository ships no system code and no test suite.
+
+`ci/preview`
+: requests an internal preview for a ready, same-repository pull request. Keeping the label refreshes the preview on head changes or reopen; removing it stops refreshes, and closing the pull request cleans up its preview.
 
 **Label rules**
 
