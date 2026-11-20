@@ -15,7 +15,6 @@ data:
     complexion: {smooth: 5, clear: 4, weathered: 1}
     hair_texture: {coily: 9, curly: 1}
     hair_style: {cropped: 5, short: 3, shaved: 1, braided: 1}
-    facial_hair: {none: 6, stubble: 3, goatee: 1}
     face_shape: {round: 4, heart: 3, broad: 2, oval: 2}
     nose: {broad: 5, snub: 3, upturned: 2}
     brow: {straight: 3, arched: 3, thin: 2, heavy: 1}

@@ -64,7 +64,6 @@ data:
     complexion: {sun_kissed: 4, smooth: 3, clear: 2, freckled: 1}
     hair_texture: {straight: 8, wavy: 2}
     hair_style: {long: 4, shoulder_length: 3, braided: 2, knotted: 1, short: 1}
-    facial_hair: {none: 8, stubble: 2}
     face_shape: {round: 3, broad: 3, oval: 3, square: 1}
     nose: {broad: 4, straight: 3, snub: 1, aquiline: 1}
     brow: {straight: 4, arched: 2, heavy: 2, thin: 1}

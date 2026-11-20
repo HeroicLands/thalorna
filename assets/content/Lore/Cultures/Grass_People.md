@@ -60,7 +60,6 @@ data:
     complexion: {weathered: 5, leathery: 2, chapped: 2, sunburnt: 1}
     hair_texture: {straight: 8, wavy: 2}
     hair_style: {long: 4, braided: 4, short: 2, shaved_sides: 1, knotted: 1}
-    facial_hair: {none: 4, moustache: 2, stubble: 2, goatee: 1, short_beard: 1}
     face_shape: {broad: 3, round: 3, oval: 2, square: 2, angular: 1}
     nose: {aquiline: 4, straight: 3, broad: 2, hooked: 1}
     brow: {straight: 4, heavy: 3, arched: 2, thin: 1}
