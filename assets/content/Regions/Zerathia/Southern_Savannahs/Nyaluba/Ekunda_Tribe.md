@@ -65,11 +65,21 @@ data:
 sohl: {system: {commonSkills: [nyalbnlng]}}
 ---
 
-## The Ékunda
+## The Ékunda {#overview}
 
 The Ékunda are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], and they are known for one thing: they keep the water. Their seat, [[place-ekundavlg|Ékunda Village]], stands at a perennial spring in the [[place-sthrnsvnhs|Southern Savannahs]], and a spring that never dries is a meeting place whether its keepers want one or not. Herders of the five clans water there in the dry season, Sengala traders bring rainforest goods down to it, and the few Ankarian travelers who come so far south know it as the one outpost where they can count on water, a fair price and a safe night.
 
 The Ékunda are not one of the five clan-nations, and they have made a living of standing between them. They follow the common Nyáluban customs of lineage, elders and leadership by descent and consent, and the village of four hundred is run by its elders more than by its chief. The Ékunda send a delegate to the [[affiliation-greatlubemo|Great Lubemo]], who may speak for the tribe and may bind it only with the elders' agreement, and the clans listen, because every one of them waters its cattle at Ékunda in a bad year.
+
+## Current Situation {#present}
+
+The Ékunda are drawn into the war between the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]]. The spring does not dry in a dry season, and both clans send herds to it. Each clan has asked the Keeper of the Spring to turn the other's herders away, and the elders have refused both, because a spring that serves one clan at the expense of another is no longer a meeting place. The tribe's peace holds inside the village, and the elders keep the Ruwozi and the Kolembozi to separate watering days.
+
+The delegate carries this to the [[affiliation-greatlubemo|Great Lubemo]] at [[place-hetolubemo|Heto Lubemo]], where the tribe may speak and may bind itself only with the elders' agreement, and the elders have not agreed to any answer but the open water. The Sengala bring rainforest goods to the spring as they always do. It is the one place on the savannah where a Ruwozi herder and a Kolembozi herder drink from the same spring, on their separate days, without a regiment.
+
+## History {#history}
+
+The Ékunda keep the spring through the dry seasons that bring the clans to it, and the Great Lubemo hears their delegate every fourth dry season ([[lore-nyalubahist|The History of the Nyáluba]]).
 
 ## See Also {#see-also}
 

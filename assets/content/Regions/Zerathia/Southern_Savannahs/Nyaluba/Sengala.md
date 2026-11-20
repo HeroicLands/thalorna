@@ -84,9 +84,15 @@ The clan's wealth is the margin itself. Worked gold goes north through its hands
 
 ## Quarrels and Debts {#present}
 
-The Sengala are one of the three clans that the war between the Ruwozi and the Kolembozi leaves to choose. The Sengala paramount sits at the Lubemo at [[place-hetolubemo|Heto Lubemo]] among the delegations, and the Kolembozi river-trade that brings salt and riverine goods up from the coast runs through the waters the war is over.
+The Sengala are one of the three clans that the war between the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]] leaves to choose, and they are the clan with the most to lose from it. The salt, fish and riverine goods that the Kolembozi bring up from the coast are the goods the Sengala carry onward, and the Ruwozi cattle-drives cross the northern belt in the dry season. The Sengala paramount reaches [[place-hetolubemo|Heto Lubemo]] having told no one which way the clan will go. The Sengala delegation keeps close to the Kolembozi camp, and the Ruwozi suspect that the clan's trade has already chosen for it.
 
-The clan carries one older debt: the drought-war of three generations ago, when famine pushed neighboring tribes into Sengala country and the regiments were called out against the hungry. The Sengala, who trade out and marry out, have the most reason to doubt that the Pact's third term, sharing the rain, was meant to stop at the five.
+:::secret {title="Where the Sengala stand"}
+The Sengala paramount leans toward the Kolembozi, whose river-trade the clan depends on, and has said so to nobody. The leaning holds as long as the Kolembozi keep the trade open and the Ruwozi keep their regiments at home. If the trade closes or the regiments march, the clan's answer changes.
+:::
+
+The Sengala trade out and marry out, and they have the most reason to doubt that the Pact's third term, sharing the rain, was meant to stop at the five. The Drum-Master keeps the central relay station of the northern drum-network, so the clan hears the drums' word of the war early and says nothing of how.
+
+The clan carries one older debt: the drought-war of three generations ago, when famine pushed neighboring tribes into Sengala country and the regiments were called out over water and grazing. The clan knows what a muster costs the country it crosses, and the Sengala paramount weighs the muster at [[place-mbolewevlg|Mbolewe]] against it.
 
 ## History as Told {#history}
 

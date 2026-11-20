@@ -134,6 +134,14 @@ Each matriarchal trade-house has its own ancestral seal—typically combining a 
 
 The federation as a whole does not maintain a unified emblem; the matriarchal political culture rejects the kind of imperial-style centralizing symbolism that the Vilérian Tevran Maldor uses.
 
+## The Present Quarrel {#present}
+
+The Khelathi flood has failed two years running, and the Houses see the aqueduct grain of Bethua as the northern shore's one reliable surplus. The [[affiliation-councilhouses|Council of Houses]], where their matriarchs sit with the grandees of the other two bodies, presses the Metrissa to sell it to Bethua's Khelathi patron. A sale fills the Houses' Gar-Hálzi correspondent accounts at the moment when Viléria is squeezing their letters of credit, and it keeps the patron's favor. Most of the grain would go east by the coast road past Gezazabu, paying the toll there, and the Houses that own the warehouses and the carters stand to take the margin.
+
+The [[affiliation-sacredcollege|Sacred College]] wants the grain kept in the cisterns against a dry year of Bethua's own, and the Houses that hold land in the qanat-fed cantons feel the argument. A sale that empties the cisterns leaves their own tenants with nothing, and a patron that has bought the realm's bread has a say in how it is governed. The Houses therefore divide: the great exporters with the heaviest Vilérian debts press hardest for the sale, and the landed Houses lean toward the College. The Metrissa has not chosen, and her standing with both councils turns on the choice.
+
+The late tribute of the [[place-sthmrchsrgn|South Marches]] touches them too. The Marches Road is the way a House's caravans reach the east without the northern ports, and the Jackals hold its western stages while the patrols are stretched.
+
 ## Plot Hooks
 
 - **The Failing Great House.** One of the dozen Great Houses has been quietly insolvent for over a year, honoring letters of credit only by drawing on its Khelathi correspondent beyond its formal account. The Gar-Hálzi chapter at Galezkara has known and has so far extended courtesy; the courtesy is approaching its limit. The Council of Matriarchs would prefer to handle the matter internally—preserving the house's face through quiet restructuring or merger with another Great House—but a public default would damage the federation's standing with the Khelathi and the Vilérian merchant communities both.

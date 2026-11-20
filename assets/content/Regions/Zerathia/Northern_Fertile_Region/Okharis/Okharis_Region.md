@@ -69,6 +69,14 @@ grazing rights, and a Khelathi attempt centuries ago to bring the eastern
 temple-cities into a tributary relationship collapsed within a generation
 ([[lore-templetrib|the Tribute of the Temple-Cities]]).
 
+## Current Situation {#present}
+
+The strain on the Three-Flame Settlement is felt differently in each part of the region. In the rain-fed west the villages and the crown lands lie within a few days of the temple-cities, and the tribute, grain and labor that the Tribute-Wardens collect there rose again this year. The market towns where each tribe sells its timber, fruit, fish and cattle are where the dues are gathered, and the talk at their gates is of what the cities take and what they return. In the forests and river country of the south, the timber villages and the tribes near the rainforest are the farthest from any city's attention and pay the latest.
+
+The east is where the pressure is sharpest. The savanna clans graze nearest the Bethuan border and the road across the South Marches, so the embassies and gifts that the Khelathi houses send for Okharik horsemen reach them first. They already pay tribute to Bethua for their grazing, and now the crown asks more and the empire offers more. Their herd-riders are the strongest bargaining weight the tribes hold, and the chieftains take each gift without promising a rider.
+
+On the coast, [[place-kaljekor|Kaljekor]]'s quays are busy and its merchants prosper from the Khelathi trade. At the southern edge, [[place-vuthraka|Vuthraka]] feels the weight of the frontier it guards and asks the tribes to carry some of it. [[place-zarhanis|Zarhanis]] waits on an Oracle that has not answered. The region has no failing harvest and no war, and the pressure shows in the order of the moots, the lateness of the dues and the garrison's yearly draw of riders, which comes in late and short while the chieftains weigh the Khelathi offers. [[affiliation-okharis|Okharis]] describes the realm's politics in full.
+
 ## See Also {#see-also}
 
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]

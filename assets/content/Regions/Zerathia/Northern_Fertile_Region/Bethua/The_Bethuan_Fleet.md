@@ -110,6 +110,12 @@ Viléria is the aggrieved party and the most dangerous, and its responses run th
 
 The equilibrium holds because no one wants it broken: Viléria cannot project decisive force into the southern waters without stripping its home waters; Bethua and Au'Khelathu do not want the Vilérian battle-fleet roused south in earnest; and so the war stays small, deniable, and permanent—a slow bleed on Vilérian commerce that everyone has an interest in keeping below the boil.
 
+## The Present {#present}
+
+The Khelathi flood has failed, and the aqueduct grain is the northern shore's one reliable surplus. If the Metrissa sells it to the patron, the bulk goes east by the coast road past Gezazabu and pays the toll there, and the rest goes by sea to the delta harbors. The Fleet escorts the sea share only. A convoy of grain is a prize the Vilérian raiders would take, and the [[affiliation-councilhouses|Council of Houses]], which presses for the sale, wants the escort strong.
+
+The Naukrátissa must answer how many hulls the convoy takes. The [[affiliation-sacredcollege|Sacred College]], which wants the grain kept in the cisterns, points out that every galley sent to guard it is a galley taken from the orchard-ports, and the Vilérian sweeps and the threat of a coastal reprisal raid have not eased. The Stratégissa, who holds command of army and fleet alike, carries the Naukrátissa's count to the Metrissa. A thin escort risks the cargo and the Houses' credit, which Viléria is already squeezing, and a strong one leaves the coast open. The Metrissa has not yet chosen, and the Fleet waits on her.
+
 ## Plot Hooks
 
 - **The Captain Who Went Too Far.** A celebrated warrant-captain has taken a ship she should not have—a neutral Helionite bottom or a bottom of the [[affiliation-byzarianlg|Bizarian League]], or a vessel carrying a personage of rank—and turned a tolerable nuisance into a diplomatic crisis. The Metrissa's court must decide whether to disavow and surrender her (placating the injured power and the watching Vilérians) or to shield her (and own the consequences). She, meanwhile, has her own ideas, a fast ship, and a hold full of evidence about who really issues the Warrants.

@@ -96,6 +96,20 @@ What is done about the thing found is somebody else's office.
 This has made the Fénjara useful to every clan in the confederation and dependent on none, and it
 is why so small a tribe is heard at the [[affiliation-greatlubemo|Great Lubemo]] at all.
 
+## Current Situation {#present}
+
+The Fénjara are not a party to the war between the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]], and they are not asked to choose as the clans are. They are reckoned with the [[affiliation-sengala|Sengala]] for totem law, and in this war they say nothing of where they stand. Their delegate goes to [[place-hetolubemo|Heto Lubemo]] for the sitting that opens with the war, may speak for the tribe, and may bind it only with the elders' agreement, and the elders have agreed to nothing.
+
+:::secret {title="Where the Fénjara stand"}
+The Fénjara lean as the Sengala lean, toward the Kolembozi, and say nothing of it. The leaning follows the Sengala and holds only while theirs does.
+:::
+
+What the tribe has to offer is the one thing it always offers: ground known. Fénjaran trackers move between the river country and the gallery forest, and they have seen the herds driven toward the Kolembozi pools and the channel that was turned aside. Both clans want that knowledge and neither can order it. A trail-reader says what was found and where; the finding is not a verdict, and what is done about it is the clans' business. The tribe stays useful to every clan and dependent on none by keeping to that line, and a Fénjaran who is seen to carry word for one side loses the standing of the whole tribe at the Lubemo.
+
+## History {#history}
+
+The Fénjara keep the Leopard Totem beside the Sengala, and the Great Lubemo hears their delegate every fourth dry season ([[lore-nyalubahist|The History of the Nyáluba]]).
+
 ## See Also {#see-also}
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]

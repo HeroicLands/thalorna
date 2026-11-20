@@ -50,7 +50,9 @@ The enclosure is one of the Old Hetos, raised by a people who built in stone bef
 
 ## The Present {#present}
 
-The Lubemo is gathering at Heto Lubemo this year, and the Ngonzi are hosts of a council whose Convener is at war. The Ruwozi paramount, who must summon the sitting and speak last, is a party to the war with the Kolembozi over the rivers. The delegations are arriving to the apportioned grounds, the Guardian is receiving them at the wall, and the three other clans have not said whom they will stand with. The matter is the first business of the sitting, and if the paramounts cannot converge it waits four years.
+The Lubemo is gathering at Heto Lubemo this year, and the Ngonzi are hosts of a council whose Convener is at war. The [[affiliation-ruwozi|Ruwozi]] paramount, who must summon the sitting and speak last, is a party to the war with the [[affiliation-kolembozi|Kolembozi]] over the rivers. The delegations are arriving to the apportioned grounds, the Guardian is receiving them at the wall, and the three other clans have not said whom they will stand with.
+
+The Guardian has ruled that no weapon passes the wall, and the Ngonzi paramount, as host, has placed the Ruwozi and the Kolembozi at opposite ends of the grounds. The Sengala delegation keeps close to the Kolembozi camp, the Lobwezi griots go between, and the [[affiliation-ekunda|Ékunda]] delegate camps apart, on neither clan's ground. The matter is the first business of the sitting, and if the paramounts cannot converge it waits for the next sitting.
 
 ## What a Party Finds {#what-a-party-finds}
 

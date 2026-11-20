@@ -77,7 +77,11 @@ The belts overlap other clans' ground and are not borders. A Lobwezi sacred grov
 
 ## Quarrels and Debts {#present}
 
-The Lobwezi griots sit at the Lubemo gathering at [[place-hetolubemo|Heto Lubemo]] as its record: they enter into it which clan holds each claim, and the senior griot recites the Pact's memory before the renewal. With the Convener at war with the Kolembozi, the griots carry what the Lubemo most needs: the exact terms of a Pact whose first term is that the five do not lift a weapon against the five.
+The Lobwezi griots sit at the Lubemo gathering at [[place-hetolubemo|Heto Lubemo]] as its record: they enter into it which clan holds each claim, and the senior griot recites the Pact's memory before the renewal. With the Convener at war with the [[affiliation-kolembozi|Kolembozi]], the griots carry what the Lubemo most needs: the exact terms of a Pact whose first term is that the five do not lift a weapon against the five. The Senior Griot of the Long Pact has the recorded judgments of every earlier Lubemo, and none of them is a judgment on a war between two of the five.
+
+The clan takes no side. Its villages lie in pockets across Ruwozi, Ngonzi and Kolembozi ground, and a Lobwezi grove on a Ruwozi drive or a Kolembozi reach is the clan's reason to hold the Pact by convergence and by nothing else. The paramount's task at the sitting is to keep the two clans speaking at all, and the senior griot's is to say what the custom requires when the paramounts ask and what the Pact says.
+
+The renewal comes last, and it needs all five paramounts to say it again in their own bodies. The griots reckon what it means for the Pact if two of the five cannot stand beside each other at that hour, and they do not say the reckoning aloud.
 
 The clan differs from the Ngonzi about the stone-builders. The Ngonzi say the dead of the Old Hetos are theirs. The Lobwezi griots say the builders may have been the ancestors of some other people, and the record holds that the two differ.
 

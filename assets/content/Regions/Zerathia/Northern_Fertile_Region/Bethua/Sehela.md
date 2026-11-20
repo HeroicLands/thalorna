@@ -27,6 +27,14 @@ Sehela is ordered the Bethuan way. A household turns on its women: the mothers a
 
 The village's best-known daughter is [[being-lmbhrpdhnn|Lámbira Pédhinion]], a peasant's eldest daughter who outfought girls years older by the age of ten, was taken into the Dómissa's own household guard, and left it for a path that answered to her own judgment.
 
+## The Present {#present}
+
+Sehela keeps its fields green while the Khelathi flood fails. Its grain comes from the qanats and channels of the [[affiliation-orderwaters|Order of the Waters]], and not from the river, so the village's harvest is part of the surplus that the [[affiliation-councilhouses|Council of Houses]] wants sold to Bethua's Khelathi patron and the [[affiliation-sacredcollege|Sacred College]] wants kept in the cisterns. Dómissa Tázitha of House Khalithon holds the village and the cantons around it, and she sits in the quarrel as a landholder. A sale takes grain her tenants would need in a dry year, and a refusal leaves her House out of the profit.
+
+The southern cantons also feel the late tribute of the [[place-sthmrchsrgn|South Marches]]. The Hégissa of the southern cantons holds the frontier posts and waits for the stock, and the village levy is drawn on to man them while the [[affiliation-spearsisterhood|Spear-Sisterhood]]'s patrols are stretched between the eastern frontier and the southern line. The women who train the levy find fewer hands for the fields in the weeks before harvest.
+
+The Metrissa has not decided, and the village waits to learn whether the channels will carry grain out or hold it in.
+
 ## See Also {#see-also}
 
 [[being-lmbhrpdhnn|Lámbira Pédhinion]]

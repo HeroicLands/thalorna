@@ -157,6 +157,14 @@ The Lubemo's order of business is fixed by long tradition: defense and the condu
 
 Outsiders usually underestimate how much the Lubemo accomplishes. The real argument happens inside each clan in the months before it meets, so the formal sessions can look ceremonial. They are the moment at which the clan-internal decisions become Pact-level commitments, with the weight of the totemic spirits and the witness of the griots behind them.
 
+## Current Situation {#present}
+
+The year is 720, and the Great Lubemo is being convened at Heto Lubemo. The delegations are gathering, and the paramounts' convergence is in doubt. The matter the paramounts could not settle is a war begun since the last Lubemo: the Ruwozi against the Kolembozi, over rivers. A dry season and a diverted channel left the Ruwozi herds short of water, the rivers run through Kolembozi country, and a feud between lineages became a war when each paramount ordered its muster. Who cut the channel is disputed, and neither clan allows the other's account.
+
+The Convener is a party. The Ruwozi paramount summons the Lubemo, keeps its order and speaks last, and the order puts the war first, so the sitting opens on the Convener's own quarrel. The other three clans must choose sides or hold the Pact by convergence. The Sengala have told no one which way they will go. The Ngonzi host the sitting and keep the wall without taking a side. The Lobwezi griots carry the Pact's terms and its record, and the first of those terms is that the five do not lift a weapon against the five. The Ékunda, who keep the spring where every clan waters its cattle in a bad year, are drawn in by requests from both sides to close the water to the other.
+
+The nation has no king and no court to settle the matter, and its only means is the paramounts' convergence. A matter left unconverged waits for the next sitting, and the renewal of the Pact comes last in the order, so a Lubemo that fails on the war reaches the renewal with two of the five at odds.
+
 ## The Drum-Network
 
 The Nyáluba maintain a continent-spanning communication system based on the **drum-language**—a tonal-mimetic encoding of the [[skill-nyalbnlng|Nyáluban tongue]] that can carry complex messages over long distances. Specialized **drum-speakers** maintain a network of relay stations across all five clan territories, and a message can travel from the Sengala northern margin to the Kolembozi eastern wetlands—a distance equivalent to the length of [[place-aureldirgn|Aureldia]]—in perhaps two days, depending on weather and relay availability.
