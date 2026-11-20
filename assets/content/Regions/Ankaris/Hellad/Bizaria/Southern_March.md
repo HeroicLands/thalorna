@@ -19,7 +19,7 @@ data:
 
 The Southern March is the frontier district of the [[affiliation-byzarianlg|Bizarian League]] on the south-eastern flank of [[place-byzariargn|Bizaria]], where the plateau dries out toward the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and the caravan road leaves [[place-karvashion2|Karvashion]] for [[place-dunharargn|Dunhara]]. It is pastoral upland—sheep, goats and horses on thin grass, hunting in the scrub and the gorges—and it is held for the League by a landed lord rather than a soldier, because the trouble it faces is the kind a landed lord handles: tolls, grazing rights, poachers, feuds and the occasional raid.
 
-Like the League's other marches it is common territory outside any city's charter. Its lord holds a commission from the League council in [[place-khryshteikhos2|Krusteikhos]] and answers to it, and the district's garrison is a detachment of the joint army. The commission is at present held by **Lord [[being-vaskan|Vaskan]] of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
+Like the League's other marches it is common territory outside any city-state's charter. Its lord holds a commission from the League council in [[place-khryshteikhos2|Krusteikhos]] and answers to it, and the district's garrison is a detachment of the joint army. The commission is at present held by **Lord [[being-vaskan|Vaskan]] of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
 
 ## Geography
 

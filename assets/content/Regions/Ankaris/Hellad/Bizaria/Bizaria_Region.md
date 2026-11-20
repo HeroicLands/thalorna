@@ -3,7 +3,7 @@ shortcode: byzariargn
 name: {full: Bizaria Region}
 type: place
 subType: region
-description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant cities of the Bizarian League and guarded by its three marches.
+description: The eastern Hellád—a warm coast, a steppe plateau and the mountain passes between them, held by the five merchant city-states of the Bizarian League and guarded by its three marches.
 tags: [region]
 data:
   demonym: Bizarian
@@ -22,7 +22,7 @@ data:
 # terran_analog: Classical Anatolia (philosophical city-states and crossroads)
 ---
 
-Bizaria is the eastern half of the [[place-heladrgn|Hellád Region]]—the country where the warm coast of Hellád climbs into steppe uplands and the uplands break against the mountains that wall off the [[place-khzryndsrtrgn|Khazrin Desert]]. It is the territory of the [[affiliation-byzarianlg|Bizarian League]], five merchant city-states bound by common tariffs and a joint defense, and it is the gateway through which the goods of the east—silk, spice, incense, porcelain—enter the world of the [[place-vylarianse|Vilérian Sea]]. Every road that matters in Bizaria is a trade road, and every fortress in it stands where a trade road narrows.
+Bizaria is the eastern half of the [[place-heladrgn|Hellád Region]]—the country where the warm coast of Hellád climbs into steppe uplands and the uplands break against the mountains that wall off the [[place-khzryndsrtrgn|Khazrin Desert]]. It is the territory of the [[affiliation-byzarianlg|Bizarian League]], five merchant city-states bound by common tolls and a joint defense, and it is the gateway through which the goods of the east—silk, spice, incense, porcelain—enter the world of the [[place-vylarianse|Vilérian Sea]]. Every road that matters in Bizaria is a trade road, and every fortress in it stands where a trade road narrows.
 
 The region shares its language family, its pantheon and its alphabet with [[place-helionis|Helionis]] to the west, but centuries astride the caravan routes have made it something distinct: commercial where Helionis is philosophical, polyglot where Helionis is proud of its Helonik purity, and governed by guilds and banking houses rather than assemblies and tyrants. A Bizarian is as likely to pray in a shrine of the [[affiliation-ashanpnthn|Ashaian Pantheon]] as in a temple of the [[affiliation-arldnpnthn|Aureldian Pantheon]], and to count in three currencies before breakfast.
 
@@ -36,33 +36,35 @@ The plateau behind the coast is the country most outsiders never see: a broad, t
 
 The mountains close the region to the east and north. In the mountainous interior, [[affiliation-orashion|Órashion]] quarries its black basalt and mines the iron and copper that make it the League's forge. Further east the ranges rise higher and drier, and the principal pass through them is held by [[affiliation-argyrteikhos|Argirteikhos]], the Silver Citadel, whose mines in the surrounding peaks pay for the League's defense. Beyond Argirteikhos the land falls away into the steppe and stone of the Khazrin. To the north the plateau climbs into rougher uplands that descend, on their far side, into the grain country of [[place-velanthrgn|Velanthia]].
 
-Between the great cities lie the lesser towns: [[place-byzaris|Bizaris]], the artisan town of the guilds; [[place-selimara|Selímara]], a market town on the inland roads; and dozens of villages, caravanserais and shrines that the maps of Krusteikhos's counting houses record only as tolls collected.
+Between the seats of the city-states lie the lesser towns: [[place-byzaris|Bizaris]], the artisan town of the guilds; [[place-selimara|Selímara]], a market town on the inland roads; and dozens of villages, caravanserais and shrines that the maps of Krusteikhos's counting houses record only as tolls collected.
 
 Nine more towns of 2,500 to 4,500 people stand in the country between the coast and the passes. [[place-zalvarion|Zalvarion]], [[place-siderash|Siderash]] and [[place-bruzash|Bruzash]] are mining towns of the northern range, which buy their grain from the plateau villages and the Velanthian road. [[place-tolzur|Tolzur]], [[place-parzhenar|Parzhenar]] and [[place-vezhrelion|Vezhrelion]] are toll, garrison and pass towns of the Eastern March's hinterland, and [[place-krenel|Krenel]] is the spring town of the Dunhara road. [[place-halzikos|Halzikos]] is the caravan stop at the salt shore of an inland sea, and [[place-oinelena|Oinelena]] is the wine and oil market of the lowland belt. Each is held by the nearest of the five city-states.
 
 ## The Marches
 
-The five cities govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the cities raise by conscription, and paid for from the common treasury and the silver of Argirteikhos.
+The five city-states govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city-state's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the city-states raise by conscription, and paid for from the common treasury and the silver of Argirteikhos.
 
 - The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Argirteikhos, facing the Khazrin steppe and, to the south-east, the oasis-belt and the northern edge of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
 - The [[place-southrnmrch|Southern March]] is the dry pastoral upland south and east of Karvashion, through which the caravan road runs to [[place-dunharargn|Dunhara]]. It is hunting and herding country, held by a landed lord rather than a soldier.
 - The [[place-northrnmrch|Northern March]] is the upland frontier toward Velanthia, along which the grain that feeds the coastal towns and cities comes down. It is the quietest of the three and the one the council thinks about least.
 
-The eastern hinterland is the dangerous part of the region. Marauder bands from the steppe and the mountains test the supply wagons and the pass roads, and the garrisons of the march towns cannot reach all of them. [[affiliation-blackflame|The Black Flame]] has a presence in a few of those towns, where a handful of garrison families keep its rites and the commandants watch them.
+The eastern hinterland is the dangerous part of the region. Marauder bands from the steppe and the mountains test the supply wagons and the pass roads, and the garrisons of the march towns cannot reach all of them. [[affiliation-blackflame|The Black Flame]] has a strong presence in the hinterland towns of the Eastern March, where garrison families keep its rites under the commandants' watch, and it is practiced openly in the Vezhnur holds of the high passes.
 
-The marches exist because the cities distrust one another: a frontier held by Argirteikhos alone would make Argirteikhos the master of the League's eastern trade, and a frontier held by Krusteikhos would make Krusteikhos's bankers the masters of everything. A frontier held by the council, under a lord the council can dismiss, is the compromise every city can live with.
+The marches exist because the city-states distrust one another: a frontier held by Argirteikhos alone would make Argirteikhos the master of the League's eastern trade, and a frontier held by Krusteikhos would make Krusteikhos's bankers the masters of everything. A frontier held by the council, under a lord the council can dismiss, is the compromise every city-state can live with.
 
 ## Peoples and Culture
 
-Bizaria holds some 1,200,000 people, nearly all of them citizens or subjects of one of the five city-states:
+Bizaria holds some 1,200,000 people. The five city-states hold all but about 27,000 of them, in their seats, their hinterland towns and the villages of their lands:
 
 | City-state                                 | People   |
 | ------------------------------------------ | -------- |
-| [[affiliation-khryshteikhos\|Krusteikhos]] | ~310,000 |
+| [[affiliation-khryshteikhos\|Krusteikhos]] | ~300,000 |
 | [[affiliation-nesthiros\|Nesthiros]]       | ~300,000 |
-| [[affiliation-orashion\|Órashion]]         | ~220,000 |
-| [[affiliation-argyrteikhos\|Argirteikhos]] | ~200,000 |
+| [[affiliation-orashion\|Órashion]]         | ~210,000 |
+| [[affiliation-argyrteikhos\|Argirteikhos]] | ~190,000 |
 | [[affiliation-karvashion\|Karvashion]]     | ~170,000 |
+
+The remaining people, about 27,000, live in eight towns and villages whose own councils answer to the League directly: [[place-kostaros|Kostaros]], [[place-byzaris|Bizaris]], [[place-selimara|Selímara]], [[place-chrysamar|Krisamar]], [[place-thalassos|Thálassos]], [[place-thessalon|Thessalon]], [[place-veridon|Veridon]] and [[place-marshfeld|Marshfeld]].
 
 The Bizarians are human and of Helonik stock at root, but the coast and the caravan towns are a deep mixture—Helonik, Taruzeli, Khazrin and Vilérian families intermarried for generations, with Dunhari and Khazrini merchant quarters in Karvashion and Nesthiros that keep their own tongues, faiths and law. The plateau is more homogeneous and more conservative: herding clans and farming villages who speak [[skill-byzarnlng|Bizarian]] with an upland accent and regard the coastal towns and cities as a foreign country that happens to buy their wool.
 
@@ -72,15 +74,15 @@ Bizarian culture is the culture of the bargain. Its language has more words for 
 
 The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are the civic religious traditions, practiced in a distinctly eastern rite: mystical, contemplative and elaborate, served by monks rather than priests. The monasteries of the eastern rite are the region's chroniclers, healers and manuscript houses, and those of Argirteikhos double as diplomatic intermediaries with the peoples beyond the passes. Nikhtion, with its temples and its hereditary tomb-keepers, is the rite's greatest sanctuary and a power in League politics in its own right.
 
-The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a substantial following among the eastern merchant communities and along the caravan roads, and small temples of it stand openly in every League city. Bizarian tolerance is practical: a faith forbidden costs more in lost trade than orthodoxy could recover.
+The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a substantial following among the eastern merchant communities and along the caravan roads, and small temples of it stand openly in every League city and in the larger League towns. Bizarian tolerance is practical: a faith forbidden costs more in lost trade than orthodoxy could recover.
 
 ## Politics and Power
 
-The League is a commercial pact, not a state. Each city keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"} settles tariffs, the joint fleet and army, the marches, and disputes between cities, and nothing else. Krusteikhos's bankers dominate the council by weight of money, Nesthiros's admiralty by weight of ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison.
+The League is a commercial pact, not a state. Each city-state keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"} sets the common tolls and settles the joint fleet and army, the marches, and disputes between city-states, and nothing else. Krusteikhos's bankers dominate the council by weight of money, Nesthiros's admiralty by weight of ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison.
 
 The [[affiliation-vylarinmpr|empire]] annexed the League as a province in [[lore-heladeastwar|the Eastern War]], about 209 AF. [[lore-heladcompact|The Compact]] that bound the five cities was dissolved by edict, and the cities kept their councils while the passes, the tariffs and the muster passed to imperial officers.
 
-The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vilérian Empire]] holds it in law and keeps its passes, tariffs and muster through imperial officers, while its cities keep their own councils; the Taruzelian guilds would dominate its trade, and the Ashaian powers to the east regard it as a useful but unreliable partner; the League survives by being indispensable to all of them. Its wars are border wars—against desert raiders, steppe tribes and the occasional eastern warlord—fought by conscripts under the march lords and by mercenary companies contracted when the frontier turns dangerous.
+The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vilérian Empire]] holds it in law and keeps its passes, tariffs and muster through imperial officers, while its city-states keep their own councils; the Taruzelian guilds would dominate its trade, and the Ashaian powers to the east regard it as a useful but unreliable partner; the League survives by being indispensable to all of them. Its wars are border wars—against desert raiders, steppe tribes and the occasional eastern warlord—fought by conscripts under the march lords and by mercenary companies contracted when the frontier turns dangerous.
 
 ## Trade
 

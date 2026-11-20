@@ -21,7 +21,7 @@ data:
         description: "Owned outright, with no standing before the law except through an owner."
       - level: 2
         title: Freedman
-        description: "Manumitted, working and trading in the city, and barred from the assembly for life."
+        description: "Manumitted, working and trading in the city-state, and barred from the assembly for life."
       - level: 3
         title: Metic
         description: "A resident foreigner, taxed and liable to the levy, with no vote and no right to own land."
@@ -33,10 +33,10 @@ data:
         description: "Chosen by lot to the council that prepares the assembly's business, for one year and never twice."
       - level: 6
         title: Magistrate
-        description: "Elected or allotted to an office of the city, its markets, its walls, its treasury, its courts, and audited at the end of the year."
+        description: "Elected or allotted to an office of the city-state, its markets, its walls, its treasury, its courts, and audited at the end of the year."
       - level: 7
         title: Strátimor
-        description: "Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit."
+        description: "Elected to command the city-state's forces, the one office the citizens elect rather than allot, and re-elect without limit."
       - level: 8
         title: Arsir
         description: "Presiding magistrate of the year, who gives it his name and hands it back, while the assembly remains sovereign throughout."
@@ -73,9 +73,9 @@ Government
 
 ## Who Decides
 
-Kalidria's government is its patron families, and they compete by spending: each wants to fund the most lavish production, the most magnificent temple and the most celebrated festival. A Kalidrian chorus-master, drilling a chorus in the weeks before a festival, says it as a working rule: "The patron pays for the masks and the dinner afterward, and then he sits in the front row to find out what his money bought." The people who hold power in the city are the people who pay for what the city comes to see.
+Kalidria's government is its patron families, and they compete by spending: each wants to fund the most lavish production, the most magnificent temple and the most celebrated festival. A Kalidrian chorus-master, drilling a chorus in the weeks before a festival, says it as a working rule: "The patron pays for the masks and the dinner afterward, and then he sits in the front row to find out what his money bought." The people who hold power in the town are the people who pay for what the town comes to see.
 
-The families rule inside the forms every Helionite city keeps: a sovereign assembly, a council chosen by lot, audited magistrates, an elected strátimor and a year-naming arsir.
+The families rule inside the forms every Helionite city-state keeps: a sovereign assembly, a council chosen by lot, audited magistrates, an elected strátimor and a year-naming arsir.
 
 ## The Academy of the Silver Veil
 
@@ -91,7 +91,7 @@ Kalidria's strength lies in influence and not in arms. The patron families use a
 
 ## Commerce and Currency {#commerce}
 
-Kalidria uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Kalidria uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the city-states' taxes on paper, and the city-states do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## See Also {#see-also}
 

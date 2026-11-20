@@ -14,7 +14,7 @@ data:
   governance:
     model: civic priesthood beside secret societies
     summary: >-
-      A city keeps the temple of its patron as civic property, and the priesthood is a civic office, often held by a man who also holds a magistracy. The mystery cults are secret societies that admit their members by stages of initiation, and no body above them is stated.
+      A city-state keeps the temple of its patron as civic property, and the priesthood is a civic office, often held by a man who also holds a magistracy. The mystery cults are secret societies that admit their members by stages of initiation, and no body above them is stated.
     ranks:
       - level: 0
         title: Veil-Denied
@@ -41,9 +41,9 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview {#overview}
 
-Helionis keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the open, as civic business, and it keeps two things beside them that are its own: devotion to [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, whom artists and mystics revere and who is the patron of [[place-kalydria2|Kalidria]], and the mystery cults, secret societies that promise their initiates deeper spiritual knowledge through revelation in stages. The cults are a distinctly Helionite supplement to the worship of the cities. Some are purely spiritual. Several have real political influence.
+Helionis keeps the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the open, as civic business, and it keeps two things beside them that are its own: devotion to [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, whom artists and mystics revere and who is the patron of [[place-kalydria2|Kalidria]], and the mystery cults, secret societies that promise their initiates deeper spiritual knowledge through revelation in stages. The cults are a distinctly Helionite supplement to the worship of the city-states. Some are purely spiritual. Several have real political influence.
 
-The [[affiliation-zunelas|Faith of Zunelas]] holds the goddess's worship wherever it is kept. This note is how the cities of [[place-helionis|Helionis]] keep it, and what the cults add.
+The [[affiliation-zunelas|Faith of Zunelas]] holds the goddess's worship wherever it is kept. This note is how the city-states of [[place-helionis|Helionis]] keep it, and what the cults add.
 
 ## Belief {#belief}
 
@@ -55,15 +55,15 @@ The mystery cults teach by revelation in stages, and each stage promises knowled
 
 ## Worship and Festivals {#worship}
 
-An ordinary Helionite keeps the festival days of his city's patron and gives what he can afford at its temple. In Kalidria that patron is Zunelas, and the patron families of the town compete to fund the most magnificent temple and the most celebrated festival, and its own people pay for what the festival draws visitors to see.
+An ordinary Helionite keeps the festival days of his city-state's patron and gives what he can afford at its temple. In Kalidria that patron is Zunelas, and the patron families of the town compete to fund the most magnificent temple and the most celebrated festival, and its own people pay for what the festival draws visitors to see.
 
-In the darkest nights of winter the faithful of Zunelas deliberately sleep and dream while her priestesses tend the sacred flames. At the Games at [[place-gamessanct|the Sanctuary of the Games]] the rhapsodes who sing each city's founding claim invoke her, as the singers of Helionis do.
+In the darkest nights of winter the faithful of Zunelas deliberately sleep and dream while her priestesses tend the sacred flames. At the Games at [[place-gamessanct|the Sanctuary of the Games]] the rhapsodes who sing each city-state's founding claim invoke her, as the singers of Helionis do.
 
 The cults are secret, and what they do is kept among their initiates.
 
 ## Organization {#organization}
 
-A Helionite does not experience religion as a separate sphere with its own authority. Temples are civic property, and priesthoods are civic offices, frequently held by men who also hold magistracies, so the worship of a city's patron is part of the city's public business. Her priestesses keep the flames in the winter vigil, and the ranks of the wider priesthood are set out in the Faith of Zunelas.
+A Helionite does not experience religion as a separate sphere with its own authority. Temples are civic property, and priesthoods are civic offices, frequently held by men who also hold magistracies, so the worship of a city-state's patron is part of the city-state's public business. Her priestesses keep the flames in the winter vigil, and the ranks of the wider priesthood are set out in the Faith of Zunelas.
 
 The mystery cults are another kind of body. They are societies and not offices, they admit their members by stages of initiation, and they are secret. A person a cult has turned away from its rites is Veil-Denied.
 
@@ -71,15 +71,15 @@ The mystery cults are another kind of body. They are societies and not offices, 
 
 Helionites prove everything in public, before witnesses competent to judge, and count a wrong done quietly and left unanswered as the worst of wrongs, because the concealment is as much the injury as the act. The mystery cults are secret societies, and several of them hold real political influence.
 
-The two facts meet in the council and the magistracies. A priesthood is a civic office held by a man who often holds a magistracy too, and an initiation is a private matter of the cult. Which of a city's magistrates have been initiated is a fact the cults keep.
+The two facts meet in the council and the magistracies. A priesthood is a civic office held by a man who often holds a magistracy too, and an initiation is a private matter of the cult. Which of a city-state's magistrates have been initiated is a fact the cults keep.
 
-The cults reach beyond the cities. The Velvet Hand, the syndicate that trades in secrets across the west, says it was born from the meeting of the Helionite mystery cults with the Vilérian court's appetite for intrigue. The households of Vilérian governors and senators that employ the Academy's graduates say it began with those graduates instead, and neither account is established.
+The cults reach beyond the city-states. The Velvet Hand, the syndicate that trades in secrets across the west, says it was born from the meeting of the Helionite mystery cults with the Vilérian court's appetite for intrigue. The households of Vilérian governors and senators that employ the Academy's graduates say it began with those graduates instead, and neither account is established.
 
 ## How a Party Meets It {#how-a-party-meets-it}
 
 A party meets the open side of this tradition in Kalidria. The winter nights bring the sleeping vigils and the tending of the flames, and a theater festival fills Kalidria with people who have come to see what its patron families paid for.
 
-A party meets the closed side as a question of who answers to whom. In a city where the cults have influence, a party that needs to know who is bound to whom may have to ask which of the magistrates it is dealing with have been initiated.
+A party meets the closed side as a question of who answers to whom. In a city-state where the cults have influence, a party that needs to know who is bound to whom may have to ask which of the magistrates it is dealing with have been initiated.
 
 ## See Also
 

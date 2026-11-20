@@ -31,7 +31,7 @@ The mines feed nothing, and the town depends on the farms below it. The barley v
 
 ## Who Rules and Keeps Order {#who-rules}
 
-[[affiliation-orashion|Órashion]] holds the town, and its guild masters set the weights of the ore and the price of a day underground. A mine overseer for each of the great adits answers to the guild council in Órashion, and a small company of the council's guards keeps the gate and the ore road. The League's tariff posts on the frontier are the Northern March's business, and the town's own toll on ore leaving the valley is the guild's.
+[[affiliation-orashion|Órashion]] holds the town, and its guild masters set the weights of the ore and the price of a day underground. A mine overseer for each of the great adits answers to the guild council in Órashion, and a small company of the council's guards keeps the gate and the ore road. The League's toll posts on the frontier are the Northern March's business, and the town's own toll on ore leaving the valley is the guild's.
 
 ## The Present {#present}
 

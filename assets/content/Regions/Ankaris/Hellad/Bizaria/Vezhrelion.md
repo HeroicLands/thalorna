@@ -3,7 +3,7 @@ shortcode: vezhrelion
 name: {full: Vezhrelion}
 type: place
 subType: settlement
-description: "A pass town of about 3,000 on the road between Órashion and the eastern passes, held by Órashion, where the clans of the high holds trade and the Black Flame keeps a quiet presence."
+description: "A pass town of about 3,000 on the road between Órashion and the eastern passes, held by Órashion, where the clans of the high holds trade, in country where the Black Flame has a strong presence."
 tags: [town, pass]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   type: town
   government: orashion
   packFolder: byzaria
-  notes: "A pass town of about 3,000 on the road between Órashion and the eastern passes, held by Órashion, where the clans of the high holds trade and the Black Flame keeps a quiet presence."
+  notes: "A pass town of about 3,000 on the road between Órashion and the eastern passes, held by Órashion, where the clans of the high holds trade, in country where the Black Flame has a strong presence."
 ---
 
 ## Overview {#overview}

@@ -3,7 +3,7 @@ shortcode: pelagora
 name: {full: Pelagora}
 type: affiliation
 subType: polity
-description: "Naval power of the Helionite city-states—citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vilérian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister-cities."
+description: "Naval power of the Helionite city-states—citizen-democracy of shipwrights and sailors whose galleys defend the eastern Vilérian Sea, loud and demagogue-ridden in assembly but the indispensable shield of its philosophical sister city-states."
 data:
   templatePriority: null
   demonym: Pelagoran
@@ -33,7 +33,7 @@ data:
         description: "Chosen by lot to the council that prepares the assembly's business, for one year and never twice."
       - level: 6
         title: Magistrate
-        description: "Elected or allotted to an office of the city, its markets, its walls, its treasury, its courts, and audited at the end of the year."
+        description: "Elected or allotted to an office of the city-state, its markets, its walls, its treasury, its courts, and audited at the end of the year."
       - level: 7
         title: Strátimor
         description: "Elected by the assembly to command the forces of Pelagora by land and sea, without power to override it."
@@ -73,27 +73,27 @@ Government
 
 ## Who Decides
 
-Pelagora is a democracy in the Helionite tradition, and the assembly is its government. Free citizens meet there to vote on war, trade and law, and each is expected to serve in the fleet or the militia, so every voter carries a personal stake in the decision he votes for. The assembly is no quiet room: a speaker who reads its mood well rises fast, and falls as fast when the mood turns. The same arrangement gives the city citizens who fight hard because the city is partly theirs.
+Pelagora is a democracy in the Helionite tradition, and the assembly is its government. Free citizens meet there to vote on war, trade and law, and each is expected to serve in the fleet or the militia, so every voter carries a personal stake in the decision he votes for. The assembly is no quiet room: a speaker who reads its mood well rises fast, and falls as fast when the mood turns. The same arrangement gives Pelagora citizens who fight hard because the city-state is partly theirs.
 
-The assembly elects the strátimor, who commands the city's forces by land and sea, and the year takes its arsir's name as in every Helionite city. Neither office overrides the assembly. Freedmen and metics trade in Pelagora's markets and vote on nothing.
+The assembly elects the strátimor, who commands the city-state's forces by land and sea, and the year takes its arsir's name as in every Helionite city-state. Neither office overrides the assembly. Freedmen and metics trade in Pelagora's markets and vote on nothing.
 
 ## The Fleet and the Sea
 
 Pelagoran shipwrights build the fastest galleys on the Vilérian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtntrzlnstts|Taruzelian]] incursions, Vilérian ambitions and the occasional pirate fleet with the same determination each time.
 
-Pelagora is more commercial than scholarly [[affiliation-thyrenae|Thirenae]]. Its merchants are wealthy and influential and its markets are stocked with goods from across the sea. That wealth gives the city a practical leverage that balances the prestige of its scholarly neighbor.
+Pelagora is more commercial than scholarly [[affiliation-thyrenae|Thirenae]]. Its merchants are wealthy and influential and its markets are stocked with goods from across the sea. That wealth gives the city-state a practical leverage that balances the prestige of its scholarly neighbor.
 
 ## The Treaty
 
-In 314 BF, with [[affiliation-theradon|Theradon]] and [[affiliation-korinthea|Korinthea]] fallen, the assembly voted to treat alone, and the strátimor [Dokharos Ársides]{.name data-type="being/npc"} made terms with the [Vilérian Republic]{.name data-type="affiliation/polity"}: Pelagora became its naval ally, kept its fleet, its walls and its overseas daughter-cities, and lent its ships to the blockade of the cities still fighting ([[lore-heladpelagtrty|the Pelagoran Treaty]]). The city boasts that it has never been conquered, and [[affiliation-thyrenae|Thirenae]] dates the rivalry between them to that year.
+In 314 BF, with [[affiliation-theradon|Theradon]] and [[affiliation-korinthea|Korinthea]] fallen, the assembly voted to treat alone, and the strátimor [Dokharos Ársides]{.name data-type="being/npc"} made terms with the [Vilérian Republic]{.name data-type="affiliation/polity"}: Pelagora became its naval ally, kept its fleet, its walls and its overseas daughter-cities, and lent its ships to the blockade of the cities still fighting ([[lore-heladpelagtrty|the Pelagoran Treaty]]). The city-state boasts that it has never been conquered, and [[affiliation-thyrenae|Thirenae]] dates the rivalry between them to that year.
 
 ## Relations
 
-Pelagora is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]]. Its dealings with [[affiliation-thyrenae|Thirenae]] show how the leading cities work: each is rival and partner to the other, because a fleet without diplomats can win a battle and still lose the peace, and a city of diplomats without a fleet has nothing to back its words.
+Pelagora is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]]. Its dealings with [[affiliation-thyrenae|Thirenae]] show how the leading city-states work: each is rival and partner to the other, because a fleet without diplomats can win a battle and still lose the peace, and a city-state of diplomats without a fleet has nothing to back its words.
 
 ## Commerce and Currency
 
-Pelagora uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+Pelagora uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the city-states' taxes on paper, and the city-states do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
 ## Current Situation {#present}
 
