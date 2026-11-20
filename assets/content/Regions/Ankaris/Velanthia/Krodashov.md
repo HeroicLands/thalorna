@@ -1,6 +1,6 @@
 ---
 shortcode: krdshv
-name: { full: Krodashov }
+name: {full: Krodashov}
 type: place
 subType: settlement
 description: "The muster town of the Khorad Host on the steppe margin, where the Host holds its gatherings."

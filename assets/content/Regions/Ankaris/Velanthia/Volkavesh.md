@@ -1,6 +1,6 @@
 ---
 shortcode: vlkvsh
-name: { full: Volkavesh }
+name: {full: Volkavesh}
 type: place
 subType: settlement
 description: "The palisaded muster town of the Tarvál Host, where its ataman sits and the caravans pay the toll."

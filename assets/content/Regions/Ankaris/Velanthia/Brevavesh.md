@@ -1,6 +1,6 @@
 ---
 shortcode: brvvsh
-name: { full: Brevavesh }
+name: {full: Brevavesh}
 type: place
 subType: settlement
 description: "The fortress-town seat of the frontier princedom, which lives on its garrison's wages and eats the grain the lowlands send."
