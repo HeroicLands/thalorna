@@ -63,6 +63,10 @@ relationships:
         - id: sohl
           type: system
           manifest: https://github.com/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.8/system.json
+          # Builds fetch the pinned release from the forge mirror, authenticated
+          # by the private file named in PACKAGE_BUILD_FORGE_TOKEN_FILE; the
+          # public `manifest` stays the installation address.
+          buildManifest: https://git.pupluppy.org/HeroicLands/Song-of-Heroic-Lands-FoundryVTT/releases/download/v0.8.8/system.json
           compatibility:
               minimum: "0.8.8"
               verified: "0.8.8"
