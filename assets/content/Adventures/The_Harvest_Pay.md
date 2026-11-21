@@ -96,13 +96,13 @@ The bodies
 
 The frame follows the season from the late rain to the snow, and each arc turns one part of the reckoning.
 
-1. **The barns.** At Zhitavesh the prince's keeper wants the great house's barn counted, and at [[place-dbrvsh|Dobravesh]] a monastic barn and the prince's granary face each other across one market square. [[place-frrygrnry|The Ferry Granary]], on the river crossing of the grain road, has been asked for a count and for an advance in the same week.
+1. **The barns.** At Zhitavesh the prince's granary and the great house's barn stand at the same market square, and the prince's keeper wants the monks' barn counted. [[place-frrygrnry|The Ferry Granary]], on the river crossing of the grain road, has been asked for a count and for an advance in the same week.
 2. **The pass.** At [[place-tvskvsh|Tveskavesh]] the grain road ends at the foot of the range, the port's agents count the wagons that go south, and the monks' wagons go through the gate untolled. [[scenario-lsttrnkrvgr|The Last Train over Karvogora]] runs the last wagon trains of the season over a pass where the Host's riders are owed their pay.
 3. **The forts.** The quarter's silver for the wardens waits at the mint in Brelavesh for an escort up the river road, and the forts at Brevavesh watch the forest edge and the Grukar country with fewer men than the prince pays. [[scenario-cnfrfrd|Coin for the Ford]] runs one village's ransom to the ford, and [[scenario-gthsthdbrg|The Gatehouse at Theodburg]] runs the heir of Brevavesh's bid to hold the shared fort again.
 4. **The port.** At Brelavesh the port-warden audits the houses' tolls, the houses argue the harvest price, and the master of the houses wants a sealed offer carried to the grain towns without the port houses learning its terms.
-5. **The grass.** At [[place-vlkvsh|Volkavesh]] the Tarvál Host feasts the port's envoys, at [[place-krdshv|Krodashov]] the Khorad Host breeds the horses the steppe prizes, and at [[place-smkrv|Semukarov]] a river village is asked to pay two masters. At Banner Field the three atamans sit in the ring and each names his price.
+5. **The grass.** At Banner Field the three atamans sit in the ring and each names his price. The Tarvál Host comes from feasting the port's envoys, the Khorad Host brings the horses the steppe prizes, and the river villages the Khorad Host has told to stop paying the Soqritur are asked to pay two masters.
 
-The arcs run in any order, and each moves the reckoning whether or not the party finishes it. A party that carries a delivery between two of these powers carries a message, and everyone who sees it pass reads one.
+The arcs run in any order, and each moves the reckoning whether or not the party finishes it. A delivery the party carries between two of these powers is read as a message.
 
 ## Ways In {#ways-in}
 

@@ -15,7 +15,7 @@ data:
 
 ## Overview {#overview}
 
-The Ferry Granary is a house of the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]] on the river that the lowland grain road crosses a day's ride below the foot of the southern range. The Velanthians call a granary and the monastery that keeps it by one word, _zhitnad_, and this is the one that every wagon passes. It has a barn of dressed stone with a roof of oak shingles, a wharf for the ferry, a chapel of the goddess [[lore-lizelasdty|Lizelas]], and the cells and fields of its monks, laborers and ferrymen.
+The Ferry Granary is a house of the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]] on the river that the lowland grain road crosses a day's ride below the foot of the southern range. The Velanthians call a granary and the monastery that keeps it by one word, _zhitnad_, and this is the one that every wagon passes. It has a barn of dressed stone with a roof of oak shingles, a wharf for the ferry, a chapel of the [[affiliation-lizelas|Faith of Lizelas]], and the cells and fields of its monks, laborers and ferrymen.
 
 People come for the crossing. A wagon train that reaches the river at dusk can unload under the barn's roof and cross at first light, and a drover can ask the granary-keeper for fodder against the price of the herd. The monks also copy the customary law and teach reading to the sons of the neighboring halls.
 

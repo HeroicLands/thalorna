@@ -167,7 +167,7 @@ The land supplies its own claims on a party:
 Three adventures begin in the season of the late rain and can be run alone or in any order:
 
 - [[scenario-cnfrfrd|Coin for the Ford]]: a village under a paid fort has raised the ransom for the man a war-band took from its watch, and the broker who carries it to the ford at Yaravesh is asked a price the village did not expect.
-- [[scenario-gthsthdbrg|The Gatehouse at Theodburg]]: the heir of Brevavesh wants the shared fort held again by his men and a forest war-band together, and asks a village that has not let a prince's bargain be witnessed in a century.
+- [[scenario-gthsthdbrg|The Gatehouse at Theodburg]]: the heir of Brevavesh wants the shared fort held again by his men and a forest war-band together, and asks at Thornhaven, whose Other Chief no prince's agent has asked to witness a bargain in a century.
 - [[scenario-lsttrnkrvgr|The Last Train over Karvogora]]: the last wagon trains of a short harvest load for the passes, and the riders who patrol them are owed their harvest pay.
 
 A campaign among all of it runs on [[scenario-hrvstpy|The Harvest Pay]], the season from the late rain to the snow on the passes, when every prince must find his Hosts' pay and every Host weighs what its prince's promise is worth.

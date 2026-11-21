@@ -48,11 +48,11 @@ The party enters as escort for a lowland wagon master who needs to cross before 
 
 ## Hooks {#hooks}
 
-- **Escort before the snow.** A lowland wagon master with the last grain of a grain-town house needs riders over the pass, since the Host's roster is thin until the pay comes.
-- **The two tolls.** The same wagon master needs a go-between to settle with the March's customs officers and the Sevret riders what each will take from his wagons, since each waits for the other to name a figure.
-- **The late pay.** Kodvan wants a party to carry his count of the Host's arrears, with every toll the riders have taken written against it, to the prince's hall at Zhitavesh.
-- **The advance.** Sovidan wants a go-between to carry his pledge to the starbrat of the great house before the last wagon trains go up.
-- **The count.** Duvek wants a witness he can trust at the Ferry Granary when he asks again to see the barn.
+- **The warrior: escort before the snow.** A lowland wagon master with the last grain of a grain-town house needs riders over the pass, since the Host's roster is thin until the pay comes.
+- **The trader: the two tolls.** The same wagon master needs a go-between to settle with the March's customs officers and the Sevret riders what each will take from his wagons, since each waits for the other to name a figure.
+- **The courtier: the late pay.** Kodvan wants a party to carry his count of the Host's arrears, with every toll the riders have taken written against it, to the prince's hall at Zhitavesh.
+- **The cleric: the advance.** Sovidan wants a go-between to carry his pledge to the starbrat of the great house before the last wagon trains go up.
+- **The scholar: the count.** Duvek wants a witness he can trust at the Ferry Granary when he asks again to see the barn.
 
 ## The Opening {#opening}
 
@@ -82,7 +82,7 @@ The south gate of Tveskavesh at first light, in a smell of axle-grease and frost
 
 **Purpose.** The advance, the count and the empty barn.
 
-**Situation.** The house stands on the river that the grain road crosses a day's ride below the range, with a barn of dressed stone, a wharf for the ferry, a chapel of [[lore-lizelasdty|Lizelas]] and a guest barn. The ferry runs from first light until the bell at dusk. A guest eats at the monks' long table, keeps the hours, and works for a bowl. On this night Duvek arrives from the lowlands for a count, Sovidan rides down from the foothills for an advance, and Radora comes from Zhitavesh to hear both.
+**Situation.** The house stands on the river that the grain road crosses a day's ride below the range, with a barn of dressed stone, a wharf for the ferry, a chapel of the [[affiliation-lizelas|Faith of Lizelas]] and a guest barn. The ferry runs from first light until the bell at dusk. A guest eats at the monks' long table, keeps the hours, and works for a bowl. On this night Duvek arrives from the lowlands for a count, Sovidan rides down from the foothills for an advance, and Radora comes from Zhitavesh to hear both.
 
 **NPCs and threats.** The starbrat of the house, who gives neither man what he asks on his word. Duvek, anxious and exact, who has been refused twice and is not a bold man. Sovidan, young, quick and impatient with princes, who keeps his word to a drover as he keeps it to a clan head. Radora, mild and immovable, who answers every question with a question.
 
@@ -169,3 +169,6 @@ The riders at the upper post take their share of every wagon until the drovers s
 
 [[affiliation-hstsvrt|Sevret Host]]
 : the riders of the pass roads
+
+[[scenario-hrvstpy|The Harvest Pay]]
+: the campaign frame this scenario belongs to

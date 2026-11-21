@@ -3,7 +3,7 @@ shortcode: gthsthdbrg
 name: {full: The Gatehouse at Theodburg}
 type: scenario
 subType: adventure
-description: "The heir of Brevavesh wants the half-burned fort at Theodburg held again by his men and a forest war-band together, and the one village that can send the war-band has not let an outsider's bargain be witnessed in a century."
+description: "The heir of Brevavesh wants the half-burned fort at Theodburg held again by his men and a forest war-band together, and he has begun asking which village would send one; at Thornhaven, the village he asks, no prince's agent has asked the Other Chief to witness a bargain in a century."
 tags: [draft]
 data:
   parents: []
@@ -17,15 +17,15 @@ data:
 
 ## Overview {#overview}
 
-On the [[place-thornwald|Thornwald]] frontier, at a crossing that the forest villages and the river-folk both use, a stone gatehouse stands in a ring of charred timber. It is all that is left of [Theodburg]{.name data-type="place/structure"}, the folk's stronghold, which a river-prince of [[place-brvvsh|Brevavesh]] and the war-bands of the forest held together against the Grukar for a generation, until the prince's son asked tribute for it and the war-bands walked out ([[lore-princesfort|The Prince's Fort]]). Velanthian agents, Varokh scouts and the Grukar all watch it, and nobody holds it.
+On the [[place-thornwald|Thornwald]] frontier, at a crossing that the forest villages and the river-folk both use, a half-burned timber fort stands with its stone gatehouse still whole. It is Theodburg, the folk's stronghold, which a river-prince of [[place-brvvsh|Brevavesh]] and the war-bands of the forest held together against the Grukar for a generation, until the prince's son asked tribute for it and the war-bands walked out ([[lore-princesfort|The Prince's Fort]]). Velanthian agents, Varokh scouts and the Grukar all watch it, and nobody holds it.
 
-[Slevogor Brevogorich]{.name data-type="being/npc"}, the elder son and heir of [[being-krdgrbrvgrch|Krodogor Brevogorich]], wants it back, with a war-band of the forest in it beside his own men, and he has begun to ask which village would send one. He is twenty-seven, earnest and impatient, and he has ridden every forest post of his father's frontier himself. He has no silver, and he knows the story of the last prince's son who asked.
+The elder son and heir of [[being-krdgrbrvgrch|Krodogor Brevogorich]] wants it back, with a war-band of the forest in it beside his own men, and he has begun to ask which village would send one. He is twenty-seven, earnest and impatient, and he has ridden every forest post of his father's frontier himself. He has no silver, and he knows the story of the last prince's son who asked.
 
 The party enters as the heir's companions on the road to [[place-thornhaven|Thornhaven]], as strangers the forest village asks to sit at a bargain neither side trusts the other to keep, or as riders the captain of the forts sends after the heir to see that he comes back.
 
 ## What Is Really Happening {#what-is-really-happening}
 
-**The heir's count.** Slevogor has counted the wardens at the forest posts and found fewer than his father pays. He takes the gap for desertion, and he believes the forts cannot hold the forest edge through another autumn. He wants a war-band at Theodburg to watch the stretch the thin posts cannot, and he will not ask his father for silver the princedom does not have.
+**The heir's count.** The heir has counted the wardens at the forest posts and found fewer than his father pays. He takes the gap for desertion, and he believes the forts cannot hold the forest edge through another autumn. He wants a war-band at Theodburg to watch the stretch the thin posts cannot, and he will not ask his father for silver the princedom does not have.
 
 **The captain.** [[being-vrklrvgrch|Ovrik Lervogorich]] knows why the posts are thin: a third of the wardens the prince pays are not in the barracks, and their wages go to the bell-ringers, cooks and village watches beneath the forts. A war-band at Theodburg would fill the gap, and nobody would count the wardens again. Ovrik helps the heir quietly, and asks him to keep his count from the upper hall until the fort is held.
 
@@ -42,16 +42,16 @@ The party enters as the heir's companions on the road to [[place-thornhaven|Thor
 
 ## Hooks {#hooks}
 
-- **The heir's road.** Slevogor wants companions who are neither his father's wardens nor a war-band's men to ride with him to Thornhaven and stand beside him when he speaks.
-- **The captain's errand.** Ovrik wants the heir brought home with a bargain, or at least brought home, and he pays from a purse he does not explain.
-- **A season's service.** A Thornhaven war-band has offered its service for the season at a paid fort, and the warden has no silver. The war-band wants to know who else pays on this frontier.
-- **The witness.** Thornhaven's Other Chief wants strangers at the bargain who belong to neither side, because the last bargain was spoken before both peoples and only one of them remembers it the same way.
+- **The courtier: the heir's road.** The heir wants companions who are neither his father's wardens nor a war-band's men to ride with him to Thornhaven and stand beside him when he speaks.
+- **The warrior: the captain's errand.** Ovrik wants the heir brought home with a bargain, or at least brought home, and he pays from a purse he does not explain.
+- **The warrior: a season's service.** A Thornhaven war-band has offered its service for the season at a paid fort, and the warden has no silver. The war-band wants to know who else pays on this frontier.
+- **The courtier: the witness.** Thornhaven's Other Chief wants strangers at the bargain who belong to neither side, because the last bargain was spoken before both peoples and only one of them remembers it the same way.
 
 ## The Opening {#opening}
 
 The upper hall of the stone fort at Brevavesh, after the quarter's rolls. A young man with his father's square face and none of his father's tiredness unrolls a strip of birch bark on the table, marked with the posts of the forest edge and a number beside each.
 
-> "My father pays for more men than I found," says Slevogor. "Theodburg had room for twice as many, and half of them came from the forest." From the door, the captain of the forts watches the strip of bark and does not come in.
+> "My father pays for more men than I found," says the heir. "Theodburg had room for twice as many, and half of them came from the forest." From the door, the captain of the forts watches the strip of bark and does not come in.
 
 ## Scenes {#scenes}
 
@@ -61,7 +61,7 @@ The upper hall of the stone fort at Brevavesh, after the quarter's rolls. A youn
 
 **Situation.** The prince lives in the upper hall of the fort, not in a house of his own. The heir's bark strip lies on the table. The prince has seen it, said nothing, and gone to the bell hill.
 
-**NPCs and threats.** Slevogor, earnest and impatient, who believes the war-bands will come if the bargain is fair. Krodogor, blunt and tired, who says what the garrison is owed before he says anything else, and who tells the party the story of Theodburg as his house tells it. Ovrik, gruff and loyal, who offers the heir horses, a guide and his blessing, and asks for the bark strip.
+**NPCs and threats.** The heir, earnest and impatient, who believes the war-bands will come if the bargain is fair. Krodogor, blunt and tired, who says what the garrison is owed before he says anything else, and who tells the party the story of Theodburg as his house tells it. Ovrik, gruff and loyal, who offers the heir horses, a guide and his blessing, and asks for the bark strip.
 
 **Player choices.** Take the heir's commission, take the captain's, ask the prince what he wants, or read the bark strip closely.
 
@@ -75,7 +75,7 @@ The upper hall of the stone fort at Brevavesh, after the quarter's rolls. A youn
 
 **Purpose.** The frontier between the forest and the grain country, and what each side remembers.
 
-**Situation.** Thornwald is the forest's most permeable border: the families of its landings and the river-folk beyond have traded and married across the frontier for generations, and the road passes landings where a Velanthian is a neighbor and a Varokh is a cousin. A day out, the road passes in sight of the gatehouse at the crossing, standing gray above the black ring of old timber.
+**Situation.** Thornwald is the forest's most permeable border: the families of its landings and the river-folk beyond have traded and married across the frontier for generations, and the road passes landings where a Velanthian is a neighbor and a Varokh is a cousin. A day out, the road passes in sight of the gatehouse at the crossing, standing gray above the half-burned timber of the fort.
 
 **NPCs and threats.** Landing-folk who know the heir's house by its badge and ask whether the prince wants tribute again. Varokh scouts on the bank opposite the gatehouse, watching the party without hiding.
 
@@ -107,7 +107,7 @@ The upper hall of the stone fort at Brevavesh, after the quarter's rolls. A youn
 
 **Purpose.** The ruin, the river path and the reason the fort was built.
 
-**Situation.** The stone gatehouse still stands, roofed in turf where the upper floor burned, with the black stumps of the palisade in a ring around it and the crossing below. The bargain is to be spoken at first light. The party and whoever came with it spend the night inside the gatehouse.
+**Situation.** The stone gatehouse still stands, roofed in turf where the upper floor burned, with the half-burned timber walls of the fort around it and the crossing below. The bargain is to be spoken at first light. The party and whoever came with it spend the night inside the gatehouse.
 
 **NPCs and threats.** A Grukar raiding party, a handful of warriors in a canoe and on the bank, coming down the river path in the dark toward the clearings. They do not stop for the gatehouse, and they do not turn aside for anyone who leaves them alone. They are what Theodburg was built against.
 
@@ -123,7 +123,7 @@ The upper hall of the stone fort at Brevavesh, after the quarter's rolls. A youn
 
 **Purpose.** Speak the bargain before both peoples, and see whether it is witnessed.
 
-**Situation.** First light at the gatehouse. The heir and his men stand on one side of the burned gateway and Thornhaven's war-band on the other. The War Chief speaks for the village, and the Other Chief stands where the last Other Chief stood.
+**Situation.** First light at the gatehouse. The heir and his men stand on one side of the gateway and Thornhaven's war-band on the other. The War Chief speaks for the village, and the Other Chief stands where the last Other Chief stood.
 
 **NPCs and threats.** The heir, who has the crossing to give and nothing else. The War Chief, who wants the toll. The Other Chief, who asks her question in front of everyone: who feeds the garrison in the season the silver does not come.
 
@@ -162,3 +162,6 @@ The heir rides to Thornhaven alone and strikes his bargain with the War Chief in
 
 [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]
 : the frontier of forts and the heir who wants one more
+
+[[scenario-hrvstpy|The Harvest Pay]]
+: the campaign frame this scenario belongs to
