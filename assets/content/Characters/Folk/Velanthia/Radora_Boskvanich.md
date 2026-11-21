@@ -54,9 +54,9 @@ Radora Boskvanich is a 66-year-old woman who stands 5'4" tall and is of light bu
 
 # Dossier {#dossier}
 
-**Age 66. Starbrat of the great granary at Zhitavesh. Wants the reserve left uncounted and the princes and Hosts kept from each other's throats.**
+**Age 66. Starbrat of the great granary at [[place-zhtvsh|Zhitavesh]]. Wants the reserve left uncounted and the princes and Hosts kept from each other's throats.**
 
-Radora Boskvanich heads the great house of the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]] on the market square of [[place-zhtvsh|Zhitavesh]], chosen by her monks. She keeps the hours of the [[affiliation-lizelas|Faith of Lizelas]], answers to no temple priest, and is the mediator the princes and the Hosts both send to.
+Radora Boskvanich heads the great house of the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]] on the market square of Zhitavesh, chosen by her monks. She keeps the hours of the [[affiliation-lizelas|Faith of Lizelas]], answers to no temple priest, and is the mediator the princes and the Hosts both send to.
 
 :::secret {title="The true reserve"}
 The barn holds enough to feed the lowland villages through two bad years, not one. She keeps the figure from the prince, who would tax it, and from the heads' meeting, where a head would borrow it.

@@ -62,7 +62,7 @@ Duvek Radovodich is a 53-year-old man who stands 5'6" tall and is of light build
 Duvek Radovodich answers to the prince for every sack in the princely granary at [[place-zhtvsh|Zhitavesh]] and counts the stores against what the monasteries hold. He has twice been refused entry to a barn, and he cannot give the prince a figure he has not seen.
 
 :::secret {title="The short tally"}
-His own tally falls short by about a tenth every year, which he has covered from his own stores to keep the prince from asking. He cannot say where the grain goes, and he fears it is the barn's.
+Every year the barn's true stores fall a tenth below his tally, and he has made up the difference from his own stores to keep the prince from asking. He cannot say where the grain goes, and he fears it is the barn's.
 :::
 
 ## Background

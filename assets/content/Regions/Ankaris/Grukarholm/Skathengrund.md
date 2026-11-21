@@ -25,7 +25,7 @@ The nests inside are reached by canoe, by cause-walks of sunken logs such as [[p
 
 ## Who Uses It
 
-The Grukar forage here as hunters, trappers and fishers. Fur hunters work its margins and come out with what they can carry.
+The Grukar forage here as hunters, trappers and fishers. Fur hunters work its margins and come out with what they can carry, and a river-trader such as [[being-brlndvshv|Brelana Duvashov]] poles along its edge. [[being-skgrdbrshv|Sokogor Dobrashov]] tracks its paths for the warden of Sedrovod Fort.
 
 ## Dangers
 
@@ -41,6 +41,12 @@ Nobody holds the marsh, and everyone who borders it pays for that. The Varokh vi
 - A river-trader asks at a landing where the Necrotic Mire was last seen, and the answer decides whether he goes in.
 
 ## See Also {#see-also}
+
+[[being-brlndvshv|Brelana Duvashov]]
+: a river-trader of its edge
+
+[[being-skgrdbrshv|Sokogor Dobrashov]]
+: a Host rider who tracks its paths
 
 [[place-grkrhlmrgn|Grukarholm Region]]
 : the country the marsh lies in
