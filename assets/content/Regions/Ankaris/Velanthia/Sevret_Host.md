@@ -81,7 +81,7 @@ The Sevret Host is the Velanthian Host of the south-eastern margin, under the ra
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The Host takes its name from its river, and its ataman holds the office in the founding line. He is [Sovidan Volketich]{.name data-type="being/npc"}. He commands the riders, presides at the council of the clans, and speaks to the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]], whom the Host serves for pay in grain and silver. A warden of the passes keeps the patrol rosters, and a keeper of the muster holds the banner and the roll.
+The Host takes its name from its river, and its ataman holds the office in the founding line. He is [[being-svdnvlktch|Sovidan Volketich]]. He commands the riders, presides at the council of the clans, and speaks to the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]], whom the Host serves for pay in grain and silver. A warden of the passes keeps the patrol rosters, and a keeper of the muster holds the banner and the roll.
 
 ## Current Situation {#present}
 

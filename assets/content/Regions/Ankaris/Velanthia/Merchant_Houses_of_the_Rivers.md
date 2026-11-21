@@ -64,7 +64,7 @@ The houses own the credit that carries a harvest from the field to the buyer. Th
 
 ## Masters {#masters}
 
-The heads of the great houses sit together as the body's assembly, and the master of the houses presides over it. An arbiter of debts hears disputes between houses, and a keeper of the weights holds the standard against which a landing's scales are tested.
+The heads of the great houses sit together as the body's assembly, and the master of the houses, [[being-tshdrslvnch|Teshodar Sulvanich]], presides over it. An arbiter of debts hears disputes between houses, and a keeper of the weights holds the standard against which a landing's scales are tested.
 
 ## The Present Quarrel {#present}
 
