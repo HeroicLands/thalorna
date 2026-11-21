@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [garrethsaarnome]
-  population: 380
+  population: {actual: 380}
   type: village
   market: local
   government: selatgrrthsr

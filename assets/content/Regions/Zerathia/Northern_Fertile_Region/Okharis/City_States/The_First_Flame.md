@@ -10,7 +10,7 @@ data:
   lore: []
   culture: okharinclt
   parents: [okharisrgn]
-  population: 40000
+  population: {actual: 40000}
   market: regional
   type: city
   packFolder: citystates

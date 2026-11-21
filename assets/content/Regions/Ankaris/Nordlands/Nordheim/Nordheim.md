@@ -9,7 +9,7 @@ data:
   demonym: Nordheimn
   lore: [nordheimnclt]
   parents: [nrdlndsrgn]
-  population: 650000
+  population: {actual: 650000}
   packFolder: nordheim
   government: kngdmnrdhm
 ---

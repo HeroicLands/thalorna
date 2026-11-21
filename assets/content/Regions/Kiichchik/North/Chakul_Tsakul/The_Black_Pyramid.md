@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A stepped pyramid of black stone at the head of the deepest box canyon in the badlands of Ch'akul Tsa'kul, its upper faces fused and run like wax, where the Mature Fire Dragon keeps its hoard."
 tags: [site, desert, ruin, temple, dragon]
-data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
+data:
+  demonym: null
+  lore: []
+  parents: [chakultzklrgn]
+  population: {actual: 0}
+  packFolder: chakultzakul
 ---
 
 ## Overview {#overview}

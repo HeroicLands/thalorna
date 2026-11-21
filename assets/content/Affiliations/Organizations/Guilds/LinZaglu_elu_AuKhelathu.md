@@ -32,7 +32,7 @@ data:
       Standards Committee: >-
         Sits on the committee that sets the quality the guild's work must meet.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

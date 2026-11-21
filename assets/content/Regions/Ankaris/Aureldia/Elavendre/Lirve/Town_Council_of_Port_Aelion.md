@@ -37,8 +37,8 @@ data:
       Keeper of the Wharves: >-
         Held by a Councilor named by the council. Keeps the town's wharves and gives the berths at them to the merchant vessels and fishing boats that use the harbor.
   seat: portaelion
-  population: 9000
-  territorial_population: 9000
+  population: {actual: 9000}
+  territorial_population: {actual: 9000}
   economy: []
   lore: [humanflk]
   parents: [kngdmlvndr]

@@ -41,7 +41,7 @@ data:
         The immediate contact who gives a local crew its orders and keeps its enforcers apart from the counting houses above them.
   seat: null
   range: [besikar2, yamuzel2, qudumel2, bazunel2, vylarianse]
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

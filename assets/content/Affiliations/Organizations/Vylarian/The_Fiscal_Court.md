@@ -42,7 +42,7 @@ data:
       Holrozimos of the Tolvan: >-
         Senior of the twenty rozimoi of the Tolvan, reporting to the Council and to the Talkor directly, and answerable for the discipline arm's case-rate against the Tolari.
   seat: arvon
-  population: null
+  population: {actual: null}
   economy: [affiliation-tarmex, affiliation-danvar, affiliation-tevran]
   lore: []
   parents: []

@@ -10,7 +10,7 @@ data:
   lore: [bloodfield]
   parents: [ceravelvale]
   routes: [{to: belsaren, bearing: W, mode: land, days: 1, terrain: [hills, road]}]
-  population: null
+  population: {actual: null}
   packFolder: provenzia
 ---
 

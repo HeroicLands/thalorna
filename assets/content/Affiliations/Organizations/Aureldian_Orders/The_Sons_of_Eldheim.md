@@ -26,7 +26,7 @@ data:
           A warrior of the Sons of Eldheim, fighting in a military band of the Black Flame under its Blazewarden.
     offices: {Blazewarden: Commander of an order warband and its campaign.}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [ustarondty]
   parents: [blackflame]

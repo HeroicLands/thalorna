@@ -50,7 +50,7 @@ data:
       Senior Griot of the Long Pact: >-
         Carries the terms of the Pact, the genealogies of the five paramounts and the recorded judgments of every Lubemo, recites them at the renewal, and enters into the Lubemo's record which clan holds each claim.
   seat: lombesavlg
-  population: 200000
+  population: {actual: 200000}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk, baobablobwezispr]
   parents: [nylbtrblntn]

@@ -29,7 +29,7 @@ data:
         description: >-
           Head of the house and hereditary governor of the selat.
   seat: anlaghzetun
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [selatnlghztn]

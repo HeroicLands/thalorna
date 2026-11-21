@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [osetakonaclt]
   parents: [tionhsekargn]
-  population: 600
+  population: {actual: 600}
   type: village
   market: local
   government: osetakona

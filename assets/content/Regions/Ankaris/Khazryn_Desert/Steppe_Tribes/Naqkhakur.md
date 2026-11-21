@@ -41,7 +41,7 @@ data:
       War Captain: Leader of the warband, held by whoever the riders follow.
       Guide: Holder of the tribe's stretch of road and its springs, sent with a caravan that has bought passage.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

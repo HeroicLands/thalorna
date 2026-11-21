@@ -66,8 +66,8 @@ data:
       Tavtherkos: A therkos of a senatorial province, appointed by lot from among the tavalenoi.
       Sarnaks Maldor: Chief priest of the state cult, an office the Orzas holds in his own person.
   seat: orzara
-  population: 21000000
-  territorial_population: 21000000
+  population: {actual: 21000000}
+  territorial_population: {actual: 21000000}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

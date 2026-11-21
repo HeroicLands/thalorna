@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [dunavarre]
   routes: [{to: teilvari, bearing: W, mode: land, days: 1, terrain: [road, forest]}]
-  population: 600
+  population: {actual: 600}
   type: village
   market: local
   packFolder: eilwith

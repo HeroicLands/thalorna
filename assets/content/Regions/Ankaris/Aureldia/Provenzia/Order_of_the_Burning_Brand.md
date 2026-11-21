@@ -32,7 +32,7 @@ data:
       Master of the Brand: >-
         Held by a Knight of the Brand, chosen by the knights for life. Keeps the chapter house at Jalnasdal and the order's roll, calls the knights out, and speaks for the order to the Forge and to the Peers.
   seat: jalnazdal
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

@@ -55,8 +55,8 @@ data:
         Sent to the Great Lubemo, who may speak for the tribe and may bind it only with the elders' agreement.
       Envoy: Sent to treat with the clans and with settled powers, and protected by custom while carrying the word.
   seat: ekundavlg
-  population: null
-  territorial_population: 400
+  population: {actual: null}
+  territorial_population: {actual: 400}
   economy: []
   lore: [humanflk]
   parents: [nylbtrblntn]

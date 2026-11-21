@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [bearttm]
   parents: [vandstein]
-  population: 410
+  population: {actual: 410}
   market: local
   type: village
   borders: [{to: thrastein, bearing: W}]

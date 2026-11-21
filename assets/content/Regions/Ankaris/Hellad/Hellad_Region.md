@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [midhalnrgn]
   borders: [{to: velanthrgn, bearing: N}, {to: vylariargn, bearing: W}]
-  population: 2400000
+  population: {actual: 2400000}
   packFolder: hellad
 
 # terran_analog: "Greece, Bulgaria, North Macedonia, and Albania—the classical Aegean / Balkan-south sphere of philosopher city-states and merchant confederations."

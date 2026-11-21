@@ -31,7 +31,7 @@ data:
       Council of Brokers: >-
         Held collectively by the brokers who direct the association in its private meetings. The council's membership is unpublished; no single merchant prince speaks for the whole Merchantry.
   seat: besikar2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -25,7 +25,7 @@ data:
           Of an Eskárathi clan, honoring the spirits of its ground and its forebears.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: []

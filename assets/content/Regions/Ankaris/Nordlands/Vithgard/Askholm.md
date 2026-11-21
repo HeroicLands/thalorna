@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The skerry off Dvarnvík where eleven people accused of working the winds were burned, forty-one years ago."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: vithgard}
+data: {demonym: null, lore: [], parents: [vithgard], population: {actual: 0}, packFolder: vithgard}
 ---
 
 ## Overview

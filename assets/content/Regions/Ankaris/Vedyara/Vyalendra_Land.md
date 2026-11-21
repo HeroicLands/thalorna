@@ -9,7 +9,7 @@ data:
   demonym: Vyalendri
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 6000000
+  population: {actual: 6000000}
   packFolder: vedyara
   government: vyalendra2
 ---

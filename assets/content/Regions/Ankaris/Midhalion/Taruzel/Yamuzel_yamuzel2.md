@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [khamisar]
-  population: 9900
+  population: {actual: 9900}
   type: town
   market: regional
   packFolder: taruzel

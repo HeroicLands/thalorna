@@ -27,7 +27,7 @@ data:
           Recognized mastery of all six currents, shared through informal networks. This achievement confers no office or promotion in the Order.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

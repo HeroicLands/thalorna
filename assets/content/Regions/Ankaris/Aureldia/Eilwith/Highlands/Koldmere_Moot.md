@@ -27,8 +27,8 @@ data:
       Reed-Reeve: >-
         Chosen by the moot each spring. Sets the cutting, keeps the boats, and speaks for the village to anyone who comes asking, the Ondarethan senators at Stoniford among them.
   seat: koldmere
-  population: 350
-  territorial_population: 350
+  population: {actual: 350}
+  territorial_population: {actual: 350}
   economy: []
   lore: []
   packFolder: eilwith

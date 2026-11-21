@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A caravan town on the southern spur, sacked about 548 AF when the third great union of the steppe came through: walls whole, houses whole and nobody in them, a thin blood-field of the silence where no bird sings, no fire stays lit and hunters in half-material form take hold of anyone who sleeps within the walls."
 tags: []
-data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [hskrrgn]
+  population: {actual: 0}
+  packFolder: khazryndesert
 ---
 
 ## Overview {#overview}

@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "The one stream off the gold mountain that yields no gold, where panning is forbidden and the Rasikara shrine stands at the head."
 tags: [river, sacred, inland]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [suvargerijnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **The Rasikara stream** rises on the back slope of [[place-goldmountain|the Gold Mountain]] and yields no gold. Panning is forbidden in it by Suvargeri tradition, which is a prohibition on a thing nobody has a reason to do, and that is the point of it.

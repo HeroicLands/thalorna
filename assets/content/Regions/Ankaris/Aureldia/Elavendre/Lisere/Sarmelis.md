@@ -13,7 +13,7 @@ data:
     - {to: hendrel, bearing: SW, mode: land, days: 5, terrain: [road]}
     - {to: durmelen, bearing: NE, mode: land, days: 10, terrain: [road, coast]}
     - {to: kalipsarun, bearing: W, mode: ship, days: 1, terrain: [coast, open-sea, coast]}
-  population: 5600
+  population: {actual: 5600}
   market: regional
   type: town
   government: sarmelisconcl

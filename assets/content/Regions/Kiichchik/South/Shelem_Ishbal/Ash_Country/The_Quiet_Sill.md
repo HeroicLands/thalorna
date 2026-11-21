@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A mile of smooth gray, as wide as a road and flush with the ground, running through the Ash Country, where ash will not settle, a boot is warm and a footstep makes no sound."
 tags: [site, waste, strange]
-data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
+data:
+  demonym: null
+  lore: []
+  parents: [ashcountry]
+  population: {actual: 0}
+  packFolder: xelemixbal
 ---
 
 ## Overview {#overview}

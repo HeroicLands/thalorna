@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [dunhardsrtrgn]
-  population: 400
+  population: {actual: 400}
   market: local
   type: encampment
   government: kherzlkhmcmp

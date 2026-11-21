@@ -34,7 +34,7 @@ data:
       Heir: >-
         Held by one Of the Name, named in the master's will; held by Kalestratos Zarkedis.
   seat: skoraz
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

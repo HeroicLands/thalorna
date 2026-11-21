@@ -12,7 +12,7 @@ data:
   routes:
     - {to: vuldstead, bearing: W, mode: land, days: 3, terrain: [plain]}
     - {to: drasknes, bearing: N, mode: land, days: 3, terrain: [track, hills]}
-  population: 6000
+  population: {actual: 6000}
   market: international
   type: town
   packFolder: eilwith

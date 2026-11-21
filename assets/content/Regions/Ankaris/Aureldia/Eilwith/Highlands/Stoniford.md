@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [ondareth]
   routes: [{to: thornbury, bearing: W, mode: land, days: 3, terrain: [plain, hills]}]
-  population: 2800
+  population: {actual: 2800}
   market: local
   type: town
   packFolder: eilwith

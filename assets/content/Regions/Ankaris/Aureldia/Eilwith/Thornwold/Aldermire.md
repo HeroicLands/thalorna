@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [grukarfolk]
   parents: [thornwold]
-  population: null
+  population: {actual: null}
   packFolder: eilwith
 ---
 

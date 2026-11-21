@@ -70,8 +70,8 @@ data:
       Reeve of Threskon: >-
         Held by a House Head whose house owns pans at Threskon, named by the Konsezarath each year. Governs the salt town for the city, keeps its order and takes its dues.
   seat: valthari
-  population: 300000
-  territorial_population: 300000
+  population: {actual: 300000}
+  territorial_population: {actual: 300000}
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [kingdmtrvn]

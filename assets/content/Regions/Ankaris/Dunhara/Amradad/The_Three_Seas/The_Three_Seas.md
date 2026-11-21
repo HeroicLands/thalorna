@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [amradadrgn]
-  population: 250000
+  population: {actual: 250000}
   government: kngdmmrdd
   packFolder: amradad
 ---

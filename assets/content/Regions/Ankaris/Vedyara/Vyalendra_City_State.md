@@ -60,8 +60,8 @@ data:
       Commander of the Watch: >-
         Captain of the city watch, by long custom a graduate of the Danurkot academies and by as long a custom not a Vyalendri.
   seat: vyalendra3
-  population: 6000000
-  territorial_population: 6000000
+  population: {actual: 6000000}
+  territorial_population: {actual: 6000000}
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: []

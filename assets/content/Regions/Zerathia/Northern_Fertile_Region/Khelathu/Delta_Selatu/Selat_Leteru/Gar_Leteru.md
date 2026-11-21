@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [selatleterunome]
-  population: 3500
+  population: {actual: 3500}
   type: town
   market: local
   packFolder: regkhsett

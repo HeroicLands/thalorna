@@ -46,8 +46,8 @@ data:
       Judge: Chosen from the Dauzhwo's retainers to sit in the hall at Hawu and hear the cases of the town and the harbor.
       Keeper of the Salt Records: Held by the Besheju, who keep the roll of the salt pans and the salt owed to the granary at Hawu.
   seat: hawu
-  population: 105000
-  territorial_population: 110000
+  population: {actual: 105000}
+  territorial_population: {actual: 110000}
   settlements:
     - settlement: Beshenu
       polity: affiliation-shuiwojaidmn
@@ -56,7 +56,7 @@ data:
       fortification: null
       stronghold: null
       holder: "Besheju"
-      population: 650
+      population: {actual: 650}
       market: local
       notes: "Salt Terraces. Fief. Salt pans. Head village of a district assessed at 2,400 bales."
     - settlement: Kowo
@@ -66,7 +66,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-shuiwojaidmn
-      population: 840
+      population: {actual: 840}
       market: local
       notes: "Old Sea. Demesne. Shipyards and fishing. Head village of a district assessed at 3,100 bales."
     - settlement: Rounu
@@ -76,7 +76,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-jenchaiempr
-      population: 490
+      population: {actual: 490}
       market: local
       notes: "Thunder Terraces. Court estate. Rice under Rojai. Head village of a district assessed at 1,800 bales."
   economy: []

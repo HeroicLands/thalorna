@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A plain on the western road into Helionis where a legion and a Korinthean levy died in one afternoon in 327 BF: a withering blood-field, thin, whose dead ground spreads a few yards in a bad decade and whose boundary stones have been reset outward three times."
 tags: [blood-field, battlefield, hellad]
-data: {demonym: null, lore: [], parents: [helionis], population: null, packFolder: helionis}
+data:
+  demonym: null
+  lore: []
+  parents: [helionis]
+  population: {actual: null}
+  packFolder: helionis
 ---
 
 The road carters take into [[place-helionis|Helionis]] from the west bends a day's walk out of its way for a plain it passes at a distance, and the carters will tell a stranger why before he asks. The **Sour Plain** is a blood-field of the withering kind, the rarest of the five, and the worst in the region. A legion and the citizen levy of [[affiliation-korinthea|Korinthea]] died on it in one afternoon in 327 BF ([[lore-heladturnedwrk|the Turned Working]]), and no herald could cross the ground to take them home.

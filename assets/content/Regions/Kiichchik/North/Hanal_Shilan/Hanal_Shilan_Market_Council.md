@@ -37,8 +37,8 @@ data:
       Weigher: >-
         A townsman trusted by both sides who weighs copper, shell and grain at every bargain and whose count is not disputed.
   seat: hanalxilan2
-  population: null
-  territorial_population: 1200
+  population: {actual: null}
+  territorial_population: {actual: 1200}
   economy: []
   lore: []
   parents: []

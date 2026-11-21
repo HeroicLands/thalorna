@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [xerathia]
-  population: 26000000
+  population: {actual: 26000000}
   packFolder: northernfertileregion
 
 # terran_analog: North Africa—Morocco + Algeria + Tunisia + Libya + Egypt + Sudan + Niger + Mali + Chad

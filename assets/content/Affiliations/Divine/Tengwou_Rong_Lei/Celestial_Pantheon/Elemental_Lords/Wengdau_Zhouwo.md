@@ -72,7 +72,7 @@ data:
       Wengdau Zhouwo: >-
         Wengdau Zhouwo—The Lord of Earth—the being this bureau or cultus is organized around.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [wengdaozhouwodty]
   parents: [tengwouronglei]

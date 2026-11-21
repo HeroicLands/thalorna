@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A stretch of the foothills below the Eastern March's passes where a steppe host died of arrows and thirst between the spring-forts in 158 BF: a silence blood-field, moderate, where a skin filled at dusk is empty by morning and the field's own spring stops running for one night each year."
 tags: [blood-field, battlefield, hellad]
-data: {demonym: null, lore: [], parents: [eastrnmrch], population: null, packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [eastrnmrch]
+  population: {actual: null}
+  packFolder: byzaria
 ---
 
 The garrison of the nearest way-fort sets a full jar of water at the edge of the field each evening and empties what is left at dawn, and the jar is the first thing a new conscript is told about. The **Thirsting Ground** is a blood-field of the silence, moderate, and the dead ground that lies between the foothill springs where [[lore-heladwells|the Battle of the Wells]] was fought.

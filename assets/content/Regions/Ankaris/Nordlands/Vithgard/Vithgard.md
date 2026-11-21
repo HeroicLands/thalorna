@@ -9,7 +9,7 @@ data:
   demonym: Vithgardian
   lore: [nordheimnclt]
   parents: [nrdlndsrgn]
-  population: 300000
+  population: {actual: 300000}
   packFolder: vithgard
   government: kngdmvthgrd
 ---

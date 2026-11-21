@@ -10,7 +10,7 @@ data:
   lore: [nordheimnclt]
   parents: [nrdlndsrgn]
   borders: [{to: velanthrgn, bearing: SE}, {to: grkrhlmrgn, bearing: SW}]
-  population: 340000
+  population: {actual: 340000}
   packFolder: malagna
   government: kingdomlgn
 ---

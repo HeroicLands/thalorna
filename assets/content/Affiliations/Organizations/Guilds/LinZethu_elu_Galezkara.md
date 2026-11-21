@@ -26,7 +26,7 @@ data:
           A scribe of the consortium, taking private commissions and paid for discretion as much as for the hand.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

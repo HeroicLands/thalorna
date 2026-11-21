@@ -57,8 +57,8 @@ data:
       kewitaka: >-
         Contrary: one who has dreamed of the Thunders, who speaks and acts backward until a spring storm frees him, holds no office in council, and is the first into any fight.
   seat: tansheyawa
-  population: 300000
-  territorial_population: 300000
+  population: {actual: 300000}
+  territorial_population: {actual: 300000}
   economy: []
   lore: [tenlayaclt]
   parents: []

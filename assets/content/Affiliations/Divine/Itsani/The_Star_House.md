@@ -65,7 +65,7 @@ data:
       Envoy to Kul'taq'an: >-
         Lives at Ts'omal Ch'alish, carries the house's tables to the Q'emul Tq'an, and brings back the hierarchy's questions about them.
   seat: kankul2
-  population: null
+  population: {actual: null}
   economy: []
   lore: [chumtsena, itsaniclndr]
   parents: [ixilanchalix]

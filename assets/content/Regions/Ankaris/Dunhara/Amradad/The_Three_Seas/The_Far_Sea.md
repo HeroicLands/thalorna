@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [threeseas, byzariargn]
   culture: dunhariclt
-  population: null
+  population: {actual: null}
   packFolder: amradad
 ---
 

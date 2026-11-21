@@ -58,8 +58,8 @@ data:
       Circuit-Speaker: >-
         The voice of one river-circuit's janpodas at the Melka, chosen by the circuit for the gathering and holding nothing between gatherings.
   seat: null
-  population: 84250000
-  territorial_population: 85000000
+  population: {actual: 84250000}
+  territorial_population: {actual: 85000000}
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: []

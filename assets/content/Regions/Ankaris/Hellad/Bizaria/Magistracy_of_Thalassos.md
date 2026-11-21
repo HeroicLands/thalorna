@@ -24,8 +24,8 @@ data:
           Lives and trades in Thálassos under its magistrate.
     offices: {}
   seat: thalassos
-  population: null
-  territorial_population: 4000
+  population: {actual: null}
+  territorial_population: {actual: 4000}
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

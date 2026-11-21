@@ -12,7 +12,7 @@ data:
   routes:
     - {to: leravrncstl, bearing: S, mode: land, days: 5, terrain: [mountains, track]}
     - {to: ronalza, bearing: S, mode: land, days: 3, terrain: [mountains, track]}
-  population: 150000
+  population: {actual: 150000}
   packFolder: elavendre
   government: aelndntrbs
 

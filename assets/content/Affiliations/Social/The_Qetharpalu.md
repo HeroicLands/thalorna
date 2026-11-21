@@ -26,7 +26,7 @@ data:
           Holds a seat on a council and votes with the faction against revision.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

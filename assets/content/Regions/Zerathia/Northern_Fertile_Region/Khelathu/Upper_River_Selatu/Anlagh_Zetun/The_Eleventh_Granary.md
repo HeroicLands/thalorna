@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [anlaghzetun]
-  population: null
+  population: {actual: null}
   packFolder: regkhsite
 ---
 

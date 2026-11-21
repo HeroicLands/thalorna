@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The ferry landing, dues hall, weigh-house and great arch on Kudumel's eastern shore, where the caravan goods of Dunhara and the Khazrin come over the strait into the Confederation of Taruzelian States and are counted."
 tags: [taruzel, kudumel, market]
-data: {demonym: null, lore: [], parents: [qudumel2], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [qudumel2], population: {actual: 0}, packFolder: taruzel}
 ---
 
 ## Overview {#overview}

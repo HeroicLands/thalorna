@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]
-  population: 380
+  population: {actual: 380}
   type: village
   market: subsistence
   packFolder: vedyara

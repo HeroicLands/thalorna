@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [garshebztslt]
-  population: 9400
+  population: {actual: 9400}
   type: town
   market: regional
   packFolder: regkhsett

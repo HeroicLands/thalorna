@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [legirusiselt]
-  population: 7000
+  population: {actual: 7000}
   type: town
   market: regional
   packFolder: regkhsett

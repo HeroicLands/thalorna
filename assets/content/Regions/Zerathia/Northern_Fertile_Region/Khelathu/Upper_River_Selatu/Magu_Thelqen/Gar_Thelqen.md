@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [maguathenslt]
-  population: 5200
+  population: {actual: 5200}
   type: town
   market: regional
   packFolder: regkhsett

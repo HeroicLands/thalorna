@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The Notral Sevan, the warded library beneath the Ombalon in the Inner City of Orzara: the Epistémion's keeping of singular manuscripts, the captured archives of conquered peoples and artifacts too dangerous for open hands, entered only by the throne's leave."
 tags: [library, orzara, vylaria, imperial, scholarly]
-data: {demonym: null, lore: [], parents: [aulpnpstmm], population: 0, packFolder: vylaria}
+data:
+  demonym: null
+  lore: []
+  parents: [aulpnpstmm]
+  population: {actual: 0}
+  packFolder: vylaria
 ---
 
 A senior scholar of the Ombalon, asked by a young reader of the Epistémion how to get into the Notral Sevan, gives him the answer every reader gets: "Write to the throne. Say what you want to read and why. If the throne says yes, a keeper will take you down, stand beside you while you read, and take you up again. If the throne says nothing, that is the answer. Most readers in this city have died waiting for one."

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [mahanodi, vedyarargn]
-  population: null
+  population: {actual: null}
   packFolder: vedyara
 ---
 

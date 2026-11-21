@@ -11,7 +11,7 @@ data:
   parents: [aukhelathrgq]
   borders: [{to: dunharargn, bearing: NE}]
   routes: [{to: dunhardsrtrgn, bearing: NE, mode: land, days: 20, terrain: [road, desert]}]
-  population: 2000
+  population: {actual: 2000}
   packFolder: regkhregn
 
 # terran_analog: "Northern Sinai and the Negev margin—the fortress-wells of the Way of Gewa'atis between the Delta and Canaan: a garrisoned desert land-bridge held for the road that crosses it rather than for anything it grows."

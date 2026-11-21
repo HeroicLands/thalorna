@@ -32,7 +32,7 @@ data:
       Head of the Pélanvri: >-
         Held by one Of the House, the Earl of Degavel. Holds the earldom and Degavel Castle of the crown, heads the house, and places its sons and kinsmen.
   seat: degavelcstl
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

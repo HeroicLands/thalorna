@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [asturath]
-  population: 10000
+  population: {actual: 10000}
   type: town
   market: regional
   routes: [{to: kervaron, bearing: E, mode: land, days: 3, terrain: [road, mountains]}]

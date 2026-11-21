@@ -67,8 +67,8 @@ data:
       Sh'ukelmah: >-
         Garrison lord: one of the Sun's kin, named by the Ts'enmah to hold a garrison city such as Q'aptel'ul Ne'ok, with its walls, its levy and the stores for the expeditions that leave from it.
   seat: kuxiixbal2
-  population: null
-  territorial_population: 50000
+  population: {actual: null}
+  territorial_population: {actual: 50000}
   economy: []
   lore: [southkiichchikclt]
   parents: []

@@ -60,7 +60,7 @@ data:
       Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides the purser.
       Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [frcmpnssthmrchs]

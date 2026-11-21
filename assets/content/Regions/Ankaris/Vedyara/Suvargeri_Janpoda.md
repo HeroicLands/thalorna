@@ -9,7 +9,7 @@ data:
   demonym: Suvargeri
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 35000
+  population: {actual: 35000}
   packFolder: vedyara
   government: suvrgrjnpd
 

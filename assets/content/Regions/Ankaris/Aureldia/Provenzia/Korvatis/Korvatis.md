@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [provenzrgn]
-  population: 2500000
+  population: {actual: 2500000}
   government: kngdmprvnz
   packFolder: provenzia
 ---

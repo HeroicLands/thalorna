@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [gaulegirunome]
-  population: 460
+  population: {actual: 460}
   type: village
   market: local
   government: selatgaulegr

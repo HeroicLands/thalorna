@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The Oracular Sanctuary of Zunelas in Provénzia, whose dream-omens draw pilgrims from across the continent."
 tags: [sacred]
-data: {demonym: null, lore: [], parents: [provenzrgn], population: 0, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [provenzrgn]
+  population: {actual: 0}
+  packFolder: provenzia
 ---
 
 ## Overview {#overview}

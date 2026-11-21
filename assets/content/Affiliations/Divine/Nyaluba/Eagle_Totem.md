@@ -48,7 +48,7 @@ data:
       Initiator: >-
         Conductor of the ordeal, undertaken on the escarpment at height.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [eaglengonzispr, nyalbsprts]
   parents: [nyalbpnthn]

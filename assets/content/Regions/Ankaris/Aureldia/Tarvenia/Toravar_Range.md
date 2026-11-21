@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [tarvenirgn]
-  population: 0
+  population: {actual: 0}
   borders:
     - {to: elavendre, bearing: W}
     - {to: provenzrgn, bearing: SW}

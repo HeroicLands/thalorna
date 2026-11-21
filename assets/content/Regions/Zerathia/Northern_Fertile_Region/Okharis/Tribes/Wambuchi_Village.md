@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [okharisrgn]
-  population: 310
+  population: {actual: 310}
   market: local
   type: village
   packFolder: okharis

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [eaglecityrse]
   parents: [sixhillsvyl]
-  population: 0
+  population: {actual: 0}
   packFolder: vylaria
 ---
 

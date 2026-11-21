@@ -21,7 +21,7 @@ data:
     - {to: nilatir, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
     - {to: sowidwell, bearing: W, mode: land, days: 30}
     - {to: easternstrt, bearing: E, mode: ship, days: 1, terrain: [open-sea]}
-  population: null
+  population: {actual: null}
   packFolder: tantsou
   government: tantsouempr
   culture: tantsouclt

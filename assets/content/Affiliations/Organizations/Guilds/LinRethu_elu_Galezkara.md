@@ -26,7 +26,7 @@ data:
           A scholar, merchant or teacher who meets with the circle and judges what its funding goes to.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

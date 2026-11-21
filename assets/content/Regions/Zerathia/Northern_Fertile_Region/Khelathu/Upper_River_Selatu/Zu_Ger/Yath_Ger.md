@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [zugernome]
-  population: 5000
+  population: {actual: 5000}
   type: town
   market: international
   packFolder: regkhsett

@@ -33,7 +33,7 @@ data:
           Leads the order's defense of Velgrimur's hidden temples and his followers.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

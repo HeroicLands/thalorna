@@ -34,7 +34,7 @@ data:
       Heir of Véldarin: >-
         Held by one Of the Line. Named by the head of the house, and counted into the line at a feast.
   seat: elanmere
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmlvndr]

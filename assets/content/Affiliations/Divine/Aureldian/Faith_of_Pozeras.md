@@ -48,7 +48,7 @@ data:
       Way-Shrines: >-
         The shrines along the roads at which the Tramori are stationed and travelers are blessed.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [pozerasdty]
   parents: [arldnpnthn]

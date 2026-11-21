@@ -36,7 +36,7 @@ data:
       Keeper of the Seal of the House: >-
         Held by one Of the Household, a freedman by custom. Seals the house's letters, contracts and debts, and is the only member of the household who knows all of them.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

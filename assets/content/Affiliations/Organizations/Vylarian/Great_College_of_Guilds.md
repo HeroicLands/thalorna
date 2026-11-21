@@ -42,7 +42,7 @@ data:
       Therkalen: >-
         One of the therkalenoi ("provincial deputies")—eleven in all, one per Vilérian province, one per Aureldian territory and two for Hellád—who administer the Tevran's operations in their regions.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

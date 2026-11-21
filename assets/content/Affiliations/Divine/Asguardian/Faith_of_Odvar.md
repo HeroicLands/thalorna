@@ -52,7 +52,7 @@ data:
       Rune-caster: >-
         Reads the carved rune-staves to discern the currents of nelth, a practice properly this clergy's own.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [odvardty]
   parents: [asguardian]

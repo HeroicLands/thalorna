@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The high pass at the head of the valleys above Kávrenath, marked by cairns through the autumn fog, where a man going abroad under contract sets a stone and a man coming home takes one."
 tags: [mountain, pass]
-data: {demonym: null, lore: [], parents: [asturath], population: 0, packFolder: tarvenia}
+data: {demonym: null, lore: [], parents: [asturath], population: {actual: 0}, packFolder: tarvenia}
 ---
 
 Zurgando is the high pass at the head of the valleys above [[place-kavrenath|Kávrenath]] in [[place-asturath|Asturath]], the short way between those valleys and the road down to the coast. Its name means "the cairn pass": the _zurga_ (cairn on a pass) and the _gando_ (pass). The cairns are the first thing a traveler sees of it: a line of them, each as tall as a man, standing thirty paces one from the next across the saddle and down both sides.

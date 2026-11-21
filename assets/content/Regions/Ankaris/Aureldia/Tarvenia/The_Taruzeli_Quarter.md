@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The quarter of Valthari where the Taruzeli merchants keep their warehouses, their temple of Ólvenia and their factors' hall, waiting on word of the narrows toll from Yamuzel."
 tags: [district]
-data: {demonym: null, lore: [], parents: [valthari], population: null, packFolder: tarvenia}
+data:
+  demonym: null
+  lore: []
+  parents: [valthari]
+  population: {actual: null}
+  packFolder: tarvenia
 ---
 
 ## Overview {#overview}

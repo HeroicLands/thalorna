@@ -26,7 +26,7 @@ data:
           A master or guild conservative who organizes against departures from established methods.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

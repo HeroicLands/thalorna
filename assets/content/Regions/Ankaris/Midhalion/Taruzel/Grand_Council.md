@@ -36,7 +36,7 @@ data:
       Reckoner of the Weight: >-
         Held by an Officer of the Council, seconded from the Merazuni by the Kubasum. Reads each city's weight from the Merazuni's register at the opening of a session and declares the weight of every count.
   seat: besikar2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [cnfdrtntrzlnstts]

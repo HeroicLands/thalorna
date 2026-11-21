@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vylariargn]
-  population: 900000
+  population: {actual: 900000}
   type: metropolis
   market: international
   routes:

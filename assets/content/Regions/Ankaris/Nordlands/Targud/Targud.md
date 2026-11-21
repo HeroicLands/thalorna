@@ -10,7 +10,7 @@ data:
   lore: [nordheimnclt]
   parents: [nrdlndsrgn]
   borders: [{to: velanthrgn, bearing: S}]
-  population: 300000
+  population: {actual: 300000}
   packFolder: targud
   government: kingdmtrgd
 ---

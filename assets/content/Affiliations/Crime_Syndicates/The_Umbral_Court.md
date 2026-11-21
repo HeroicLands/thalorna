@@ -60,7 +60,7 @@ data:
       Herald: >-
         Keeper of the old registers and grantor of titles, whose office maintains the genealogies on which the whole claim rests.
   seat: ravenmoor
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

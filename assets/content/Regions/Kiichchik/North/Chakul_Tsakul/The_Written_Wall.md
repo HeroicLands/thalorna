@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A mesa in the badlands of Ch'akul Tsa'kul whose cliff is cut from foot to rim with rows of signs no scribe can read, each in its own hollow, and every hollow a den of scorpions."
 tags: [site, desert, ruin, inscription]
-data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
+data:
+  demonym: null
+  lore: []
+  parents: [chakultzklrgn]
+  population: {actual: 0}
+  packFolder: chakultzakul
 ---
 
 ## Overview {#overview}

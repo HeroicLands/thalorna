@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The great Mahajaya temple of the lower Mahanodi, whose senior priest holds the third voice on the Council of Three."
 tags: [sacred, river, pilgrimage, inland]
-data: {demonym: null, lore: [], parents: [bharanya], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [bharanya]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **The Mahajaya Temple at Bharanya**, the great temple at [[place-bharanya|Bharanya]], stands on the oldest of the town's mounds, above the highest water of the lower reaches of [[place-mahanodi|the Mahanodi]]. It is one of the three largest pilgrim-temples in the inland part of the [[place-vedyarargn|Vedyara Region]] and the largest establishment of [[affiliation-mahajaya|Mahajaya]] outside [[place-suvargerijnpd|Suvargeri]].

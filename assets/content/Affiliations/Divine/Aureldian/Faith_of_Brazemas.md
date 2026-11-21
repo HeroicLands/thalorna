@@ -50,7 +50,7 @@ data:
       Storm-Reader: >-
         Sells predictions to maritime merchants—a specialism many Bravlili settle into.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [brazemasdty]
   parents: [arldnpnthn]

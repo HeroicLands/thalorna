@@ -33,7 +33,7 @@ data:
           Leads the order's sworn warriors, holding its heaviest obligation along with its fullest standing.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

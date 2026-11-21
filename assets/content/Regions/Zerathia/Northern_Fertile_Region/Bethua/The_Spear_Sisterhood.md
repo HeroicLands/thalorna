@@ -33,7 +33,7 @@ data:
         description: >-
           The supreme war-leader, appointed by the Metrissa.
   seat: bethura
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [mtrrchybth]

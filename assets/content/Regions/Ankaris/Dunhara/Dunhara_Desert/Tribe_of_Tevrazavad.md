@@ -31,8 +31,8 @@ data:
       Chieftain: >-
         Head of the tribe and keeper of its council, whom other sheikhs trust to hear their quarrels at the oasis camp.
   seat: oasistvrzvd
-  population: null
-  territorial_population: 600
+  population: {actual: null}
+  territorial_population: {actual: 600}
   economy: []
   lore: [humanflk]
   parents: [dunhartrbs]

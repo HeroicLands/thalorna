@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [shikhalayaland]
-  population: 40000
+  population: {actual: 40000}
   market: regional
   type: city
   routes: [{to: suryadvar, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice]}]

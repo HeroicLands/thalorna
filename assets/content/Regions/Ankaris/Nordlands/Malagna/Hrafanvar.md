@@ -25,7 +25,7 @@ data:
           Belongs to Hrafanvar, a polity of Malagna under the crown at Gnarthborg.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [kingdomlgn]

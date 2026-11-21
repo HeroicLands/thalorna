@@ -43,7 +43,7 @@ data:
       Witness of the Elevation: >-
         Conducts the guild's senior elevation in tandem with the temple of Linhur; neither rite counts without the other.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [linkurdty]
   parents: [khelathpnthn]

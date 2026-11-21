@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [osetakonaclt, tokchiliclt]
   parents: [northkiichchik]
-  population: null
+  population: {actual: null}
   packFolder: hanalxilan
 
 # terran_analog: the Ohio River valley and its tributaries, west of the Appalachian Mountains, between the Great Lakes and the Mississippi

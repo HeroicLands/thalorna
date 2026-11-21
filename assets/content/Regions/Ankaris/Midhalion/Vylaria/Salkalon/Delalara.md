@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [salkhalon]
-  population: 50000
+  population: {actual: 50000}
   market: international
   type: city
   routes: [{to: orzara, bearing: N, mode: land, days: 5, terrain: [road]}]

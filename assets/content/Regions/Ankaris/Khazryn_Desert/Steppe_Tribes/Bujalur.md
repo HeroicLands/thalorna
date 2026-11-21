@@ -40,7 +40,7 @@ data:
         A rider who goes to the outer caravanserais each autumn to swear the tribe's camps in under the League's truce, and who answers there for any broken.
       Horse-Seller: The camp's seller at the caravanserai horse fairs.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

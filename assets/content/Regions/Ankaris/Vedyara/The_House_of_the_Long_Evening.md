@@ -6,7 +6,12 @@ subType: structure
 description: >-
   The principal house of the Twilight House, four streets from the Loom-Council's hall in Vyalendra's palace quarter—a royal foundation that outlived the court that founded it, and the one building in the city with two doors.
 tags: [vedyara, inland]
-data: {demonym: null, lore: [], parents: [vyalendra3], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [vyalendra3]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **Sandyagriha** stands in the palace quarter of [[place-vyalendra3|Vyalendra]], four streets from the hall where the [Loom-Council]{.name data-type="affiliation/governmental"} sits. It is the principal house of [[affiliation-twilighths|the Twilight House]], and satellite houses stand under it in each of the major Vedyaran cities. What a client buys here is an evening's company, a room his rivals also enter, and a room his servants do not follow him into.

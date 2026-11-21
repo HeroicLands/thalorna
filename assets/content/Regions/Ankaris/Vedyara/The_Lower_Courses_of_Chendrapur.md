@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The heavier, plainer stonework of an older city that Chendrapur is built on, showing along the river stair in the dry months and under the cellars of the cutting quarters; the oldest court of the Moon House stands on it."
 tags: [city, river]
-data: {demonym: null, lore: [], parents: [chendrapur2], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [chendrapur2]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 In the dry months the river drops along the quarter-mile stair of [[place-chendrapur2|Chendrapur]], and the lowest steps show a different stone. **The lower courses** are heavier and plainer than anything built above them, laid without mortar in blocks two men could not lift, and they belong to a city the present one was built on top of. No record in Chendrapur says whose.

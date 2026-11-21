@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "The mountain of Svartbrandur's most sacred temple, the Flame Temple, whose high priests arm and guide the god's chosen."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: [nrdlndsrgn]
+  population: {actual: 0}
+  packFolder: nordlands
 ---
 
 The fires at Braldfjall show long before the mountain does: an orange smear on the dark where the summit ought to be, which is the temple, and the mark a pilgrim of [[affiliation-svartbrandur|Svartbrandur]] keeps her eyes on when the path gets bad.

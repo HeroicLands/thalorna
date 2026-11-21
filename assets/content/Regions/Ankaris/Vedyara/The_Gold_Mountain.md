@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "The gold-bearing mountain at the head of the Bharava, whose alluvial wash has paid for three great temples, twenty-three pilgrim hostels and fifteen centuries of constitutional argument."
 tags: [mountain, mining, sacred, inland]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [suvargerijnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 The **Gold Mountain**—_suvorna_ (gold), _girka_ (mountain)—stands at the head of [[place-bharavarivr|the Bharava]], and the janpoda, the temple-seat and the whole constitutional apparatus below it are named for it. The gold is alluvial. It comes out of the wash of the mountain's streams and not out of a shaft, and it has come out of them at much the same rate for fifteen centuries.

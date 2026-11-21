@@ -67,8 +67,8 @@ data:
       Prefect of the Fleet: Commander of the republic's ships and of the coasts they patrol.
       Ambassador: Envoy to a foreign power, instructed by the senate and reporting to it on return.
   seat: thornbury
-  population: 150000
-  territorial_population: 150000
+  population: {actual: 150000}
+  territorial_population: {actual: 150000}
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []

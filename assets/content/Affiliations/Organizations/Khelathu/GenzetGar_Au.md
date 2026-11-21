@@ -40,7 +40,7 @@ data:
       Judicial and Religious Advisor: >-
         Attends the court to advise on law and the gods, with a residence in the palace complex.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

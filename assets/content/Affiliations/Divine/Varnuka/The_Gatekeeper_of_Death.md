@@ -37,7 +37,7 @@ data:
       The Silent Year: >-
         A year in total silence, broken only to speak the rites of passage for the dying.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [kalavratadty]
   parents: [vrnkpnthn]

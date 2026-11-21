@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [galezkaraslt]
-  population: 40000
+  population: {actual: 40000}
   market: regional
   type: city
   packFolder: regkhsett

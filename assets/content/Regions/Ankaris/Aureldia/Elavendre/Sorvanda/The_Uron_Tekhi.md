@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [uronspr]
   parents: [silvrfrsts]
-  population: null
+  population: {actual: null}
   packFolder: elavendre
 ---
 

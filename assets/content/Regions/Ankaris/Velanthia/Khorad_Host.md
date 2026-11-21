@@ -44,8 +44,8 @@ data:
       Horse-Master: >-
         Keeps the Host's herds and the breeding of its crossbred horses.
   seat: krdshv
-  population: null
-  territorial_population: 80000
+  population: {actual: null}
+  territorial_population: {actual: 80000}
   settlements:
     - settlement: Ovranov
       polity: affiliation-hstkhrd
@@ -54,7 +54,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hstkhrd
-      population: 1500
+      population: {actual: 1500}
       market: local
       notes: "A trading town where Khazrin horse-dealers bring their strings."
     - settlement: Sedrashov
@@ -64,7 +64,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hstkhrd
-      population: 500
+      population: {actual: 500}
       market: subsistence
       notes: "A well village on the grass."
   economy: []

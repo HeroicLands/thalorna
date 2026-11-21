@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]
-  population: null
+  population: {actual: null}
   routes: [{to: tantsouregin, bearing: E, mode: land, days: 60, terrain: [mountains, ice, forest]}]
   packFolder: vedyara
 ---

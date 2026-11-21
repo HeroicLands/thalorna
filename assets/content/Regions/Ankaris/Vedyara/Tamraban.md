@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [suvargerijnpd]
-  population: 910
+  population: {actual: 910}
   market: local
   type: village
   packFolder: vedyara

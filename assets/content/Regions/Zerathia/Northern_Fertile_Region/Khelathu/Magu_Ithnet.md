@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [khelathiclt]
   parents: [aukhelathrgq]
-  population: null
+  population: {actual: null}
   packFolder: regkhregn
   routes: [{to: zumeleshrvr, bearing: E, mode: boat, days: 2, terrain: [lake, river]}]
 ---

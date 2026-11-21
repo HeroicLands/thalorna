@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [alndntrblnds]
-  population: 70
+  population: {actual: 70}
   type: hamlet
   market: subsistence
   government: nclvthlss

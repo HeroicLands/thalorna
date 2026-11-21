@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A Vilérian fort on the western margin of the Khazrin, built when the empire's reach ran this far: stone walls, a cistern that still fills, and a strongroom no one has opened."
 tags: []
-data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [wlqtrrgn]
+  population: {actual: 0}
+  packFolder: khazryndesert
 ---
 
 ## Overview {#overview}

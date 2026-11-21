@@ -26,7 +26,7 @@ data:
           Deals in bulk, trading margin for turnover.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

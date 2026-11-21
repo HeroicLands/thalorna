@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A gray disc in the floor of a terrace shrine below Ts'alam Ts'ultel, struck at every planting for one flat note, which has gone dull across the last two plantings."
 tags: [site, strange, shrine]
-data: {demonym: null, lore: [], parents: [tzalamtzltl], population: 0, packFolder: ixbaltzaku}
+data:
+  demonym: null
+  lore: []
+  parents: [tzalamtzltl]
+  population: {actual: 0}
+  packFolder: ixbaltzaku
 ---
 
 ## Overview {#overview}

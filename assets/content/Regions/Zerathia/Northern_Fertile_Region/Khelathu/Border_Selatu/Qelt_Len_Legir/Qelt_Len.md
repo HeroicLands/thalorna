@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [qeltlenlegirnome]
-  population: 5300
+  population: {actual: 5300}
   type: town
   market: regional
   packFolder: regkhsett

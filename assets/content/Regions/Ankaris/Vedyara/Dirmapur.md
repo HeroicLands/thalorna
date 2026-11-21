@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vedyarargn]
-  population: 4200
+  population: {actual: 4200}
   market: local
   type: town
   government: mddlsrvdjnpd

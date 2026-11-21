@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [aukhelathrgq]
-  population: 380000
+  population: {actual: 380000}
   packFolder: regkhregn
   government: selatzbtrlpt
 ---

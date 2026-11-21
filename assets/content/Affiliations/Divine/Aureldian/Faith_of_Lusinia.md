@@ -48,7 +48,7 @@ data:
       Marendalon of Growing Things: >-
         The body in which the faith's practical knowledge of cultivation is held and taught.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [lusiniadty]
   parents: [arldnpnthn]

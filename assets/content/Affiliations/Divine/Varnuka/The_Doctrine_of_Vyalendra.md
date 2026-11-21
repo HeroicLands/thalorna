@@ -48,7 +48,7 @@ data:
       Temple Architect: >-
         The Achorya charged with a building work, this tradition's priesthood and its building trade being the same people.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [vyalendradty]
   parents: [vrnkpnthn]

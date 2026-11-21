@@ -29,7 +29,7 @@ data:
         description: >-
           Overseer of the Waters, the chief engineer of the realm.
   seat: bethura
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [mtrrchybth]

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [goosettm]
   parents: [thornwald]
-  population: 420
+  population: {actual: 420}
   market: local
   type: village
   borders: [{to: thornhaven, bearing: NW}, {to: vethholt, bearing: E}]

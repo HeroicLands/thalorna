@@ -90,8 +90,8 @@ data:
       Crown Guide: >-
         Held by a Freeman. Provided by the crown to every licensed expedition out of Liranel, and conducts it to the margins of the tribal country and back.
   seat: beravel
-  population: 1850000
-  territorial_population: 1900000
+  population: {actual: 1850000}
+  territorial_population: {actual: 1900000}
   economy: [lore-vylrncrncy, affiliation-danvar, affiliation-tevran]
   lore: [humanflk]
   parents: []

@@ -26,7 +26,7 @@ data:
           "Servant of the God"—an ordained priest who holds with the Qethar'lemu against novelty in ritual.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

@@ -32,7 +32,7 @@ data:
       Harbormaster: >-
         Held by a Councilor, elected by the Council's voices at the spring sitting for a single three-year term, and barred from the next. Calls and keeps the sittings, certifies the spring census, and holds the harbor, the forts, the customs and the navy between sittings.
   seat: calypsacity
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [calypsa]

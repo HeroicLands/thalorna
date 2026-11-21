@@ -70,7 +70,7 @@ data:
       Shepherd of the Degrading: >-
         Takes charge of the returned once nothing recognizable is left, and puts them where they will do the movement's work.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [pikultzumaqdty]
   parents: []

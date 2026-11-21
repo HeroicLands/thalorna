@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [khzryndsrtrgn]
   borders: [{to: hskrrgn, bearing: S}, {to: velanthrgn, bearing: W}]
-  population: 60000
+  population: {actual: 60000}
   packFolder: khazryndesert
   government: null
 ---

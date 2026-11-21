@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [bethuargn]
-  population: 650
+  population: {actual: 650}
   type: village
   market: local
   culture: bethuanclt

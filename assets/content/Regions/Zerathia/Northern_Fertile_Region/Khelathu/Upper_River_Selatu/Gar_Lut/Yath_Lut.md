@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [garlutselat]
-  population: 3200
+  population: {actual: 3200}
   type: town
   market: local
   packFolder: regkhsett

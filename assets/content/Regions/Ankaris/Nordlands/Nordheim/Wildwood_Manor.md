@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "Lady Nulthira's manor above Thraldfjord, whose forest climbs from the manor to the high ground and is kept by her chief huntsman."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nordheim], population: 0, packFolder: nordheim}
+data: {demonym: null, lore: [], parents: [nordheim], population: {actual: 0}, packFolder: nordheim}
 ---
 
 ## Overview {#overview}

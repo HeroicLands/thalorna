@@ -30,7 +30,7 @@ data:
           Sits on the council that arbitrates disputes and maintains standards across the crafts.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

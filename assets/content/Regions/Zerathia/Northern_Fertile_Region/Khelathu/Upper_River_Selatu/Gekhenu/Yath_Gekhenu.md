@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [gekhenuselat]
-  population: 7400
+  population: {actual: 7400}
   type: town
   market: regional
   packFolder: regkhsett

@@ -32,7 +32,7 @@ data:
       Steward: >-
         Manages the household's affairs on the master's behalf, and is replaced when the work falls short.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

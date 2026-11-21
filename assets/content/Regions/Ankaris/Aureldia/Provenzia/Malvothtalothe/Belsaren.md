@@ -12,7 +12,7 @@ data:
   routes:
     - {to: caerceravel, bearing: W, mode: land, days: 1, terrain: [hills, road]}
     - {to: bloodhills, bearing: E, mode: land, days: 1, terrain: [hills, road]}
-  population: 220
+  population: {actual: 220}
   market: local
   type: village
   government: kngdmprvnz

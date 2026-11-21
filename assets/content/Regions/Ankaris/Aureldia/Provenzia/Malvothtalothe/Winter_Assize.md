@@ -31,7 +31,7 @@ data:
       Justice of the Winter Assize: >-
         Held by an Officer of the Assize, named by the Justiciar each autumn before the passes close. Presides over the sitting, hears every plea, gives judgment and sets the penalty.
   seat: durvalis
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

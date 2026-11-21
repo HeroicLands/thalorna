@@ -46,7 +46,7 @@ data:
       Novices of the Silent Watch: >-
         Young men and women, often survivors of a near-death experience, in extensive training in funerary practice and theology.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [selmorosdty]
   parents: [arldnpnthn]

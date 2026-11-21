@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A tower city of the Ghoshiqor drowned by a moving dune sea, whose tower tops stand out of the sand and whose streets come uncovered one at a time, a generation apart."
 tags: []
-data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [hskrrgn]
+  population: {actual: 0}
+  packFolder: khazryndesert
 ---
 
 ## Overview {#overview}

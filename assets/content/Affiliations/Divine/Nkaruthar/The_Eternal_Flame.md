@@ -69,7 +69,7 @@ data:
       Keeper of the Three Flames: >-
         The Overlord's own religious title, borne by the temporal ruler rather than any priesthood, and the office in which the unity of the three aspects is embodied.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [nkaruthardty, zohira]
   parents: []

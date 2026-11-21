@@ -9,7 +9,7 @@ data:
   demonym: Bhumipali
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 2000000
+  population: {actual: 2000000}
   packFolder: vedyara
   government: bhumipal
 ---

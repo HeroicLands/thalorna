@@ -10,7 +10,7 @@ data:
   demonym: Khelathi
   lore: [humanflk]
   parents: [aukhelathrgq]
-  population: 900000
+  population: {actual: 900000}
   packFolder: regkhregn
   government: selatgaulegr
 ---

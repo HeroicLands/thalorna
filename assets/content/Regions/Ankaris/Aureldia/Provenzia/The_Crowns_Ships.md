@@ -36,7 +36,7 @@ data:
       Admiral: >-
         Held by a Captain, the King's Admiral of the realm. Commands the crown's ships and the coasts they guard from Válaren City, commissions their captains, keeps the Admiral's court, and asks the Treasurer for the money to keep them at sea.
   seat: valarencity
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

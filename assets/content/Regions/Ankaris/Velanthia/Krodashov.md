@@ -1,6 +1,6 @@
 ---
 shortcode: krdshv
-name: { full: Krodashov }
+name: {full: Krodashov}
 type: place
 subType: settlement
 description: "The muster town of the Khorad Host on the steppe margin, where the Host holds its gatherings."
@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [velanthrgn]
-  population: 2500
+  population: {actual: 2500}
   government: hstkhrd
   type: town
   fortification: palisade

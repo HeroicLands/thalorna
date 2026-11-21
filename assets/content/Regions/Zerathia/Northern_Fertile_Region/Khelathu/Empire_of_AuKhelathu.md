@@ -52,8 +52,8 @@ data:
       Zabet: >-
         Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
   seat: galezkara
-  population: 19000000
-  territorial_population: 19000000
+  population: {actual: 19000000}
+  territorial_population: {actual: 19000000}
   economy: [affiliation-bthntrdhss, affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: []

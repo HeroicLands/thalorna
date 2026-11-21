@@ -40,7 +40,7 @@ data:
       Underwriter of the Quay: >-
         Held by Kin of the House. Prices the risk on a cargo, writes the bond that insures it, and pays when the ship is lost.
   seat: besikar2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [besikar]

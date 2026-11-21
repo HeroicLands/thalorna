@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [pshtrwldrns]
   borders: [{to: nordmoor, bearing: N}, {to: stormwood, bearing: E}, {to: ondareth, bearing: S}]
-  population: 24000
+  population: {actual: 24000}
   government: bradhar
   packFolder: eilwith
 ---

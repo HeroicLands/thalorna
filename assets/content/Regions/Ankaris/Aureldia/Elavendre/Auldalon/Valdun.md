@@ -12,7 +12,7 @@ data:
   routes:
     - {to: leonrik, bearing: SE, mode: land, days: 10, terrain: [hills, road]}
     - {to: trbtrd, bearing: SE, mode: land, days: 5, terrain: [hills, road]}
-  population: 5200
+  population: {actual: 5200}
   market: regional
   type: town
   government: kngdmlvndr

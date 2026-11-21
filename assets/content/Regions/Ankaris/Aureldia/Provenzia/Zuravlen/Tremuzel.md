@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [zuravlenrgn]
-  population: 500
+  population: {actual: 500}
   type: village
   market: regional
   government: erldmhrvrn

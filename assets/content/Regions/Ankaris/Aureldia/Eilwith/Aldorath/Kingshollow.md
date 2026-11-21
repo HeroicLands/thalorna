@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [wyndmarch]
-  population: 1400
+  population: {actual: 1400}
   type: village
   market: local
   packFolder: eilwith

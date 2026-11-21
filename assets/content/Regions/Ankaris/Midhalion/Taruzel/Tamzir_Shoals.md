@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "A maze of sandbars, submerged rocks and shifting channels west of Khamisar in the Taruzelian archipelago, where the war's flotilla destroyed a Vilérian squadron: its wrecks still lie on the sand with their bronze rams, and the outlaws of the Shoals Brotherhood live among them in a hidden lagoon."
 tags: []
-data: {demonym: null, lore: [], parents: [zupumun], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [zupumun], population: {actual: 0}, packFolder: taruzel}
 ---
 
 ## Overview {#overview}

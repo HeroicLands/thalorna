@@ -45,7 +45,7 @@ data:
       Keeper of the Festival Calendar: >-
         The Lem'Nelgir who sets and keeps the cycle of feasts on which the cult's standing rests.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [affiliation-garhalzi]
   lore: [thubaidty]
   parents: [khelathpnthn]

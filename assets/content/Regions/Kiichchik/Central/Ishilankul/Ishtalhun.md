@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [ixilankulrgn]
-  population: 3400
+  population: {actual: 3400}
   market: local
   type: town
   government: ixilankul

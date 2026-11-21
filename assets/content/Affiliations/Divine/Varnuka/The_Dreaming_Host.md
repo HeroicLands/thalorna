@@ -35,7 +35,7 @@ data:
       The Mirror Year: >-
         A year serving in a temple's divination chamber, reading the silver mirror for every petitioner who comes, refusing no reading and accepting no fee.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [vrnkpnthn]

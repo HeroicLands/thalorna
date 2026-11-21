@@ -9,7 +9,7 @@ data:
   demonym: Zuravlen
   lore: []
   parents: [provenzrgn]
-  population: 750000
+  population: {actual: 750000}
   government: erldmhrvrn
   packFolder: provenzia
 ---

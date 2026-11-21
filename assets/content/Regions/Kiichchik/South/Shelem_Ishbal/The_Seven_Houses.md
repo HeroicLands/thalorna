@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ashcountry, thethirst]
-  population: 0
+  population: {actual: 0}
   packFolder: xelemixbal
 ---
 

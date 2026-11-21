@@ -35,7 +35,7 @@ data:
       The Silent Flute: >-
         A year lived by playing one's instrument for whoever asks, accepting only the food and shelter the listeners freely give.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [kamavratadty]
   parents: [vrnkpnthn]

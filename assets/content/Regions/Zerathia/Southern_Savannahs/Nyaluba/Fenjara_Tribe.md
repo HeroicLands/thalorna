@@ -56,8 +56,8 @@ data:
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
       Envoy: Sent to treat with the other tribes and with settled powers, and protected by custom while carrying the word.
   seat: fenjaravlg
-  population: null
-  territorial_population: 250
+  population: {actual: null}
+  territorial_population: {actual: 250}
   economy: []
   lore: [humanflk]
   parents: [nylbtrblntn]

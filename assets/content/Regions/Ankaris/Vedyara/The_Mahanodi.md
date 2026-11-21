@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "The great central river—the longest, the most populous, the one whose channel has moved and taken a royal seat with it, and the one the Melka is held on."
 tags: [river, pilgrimage, inland]
-data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [vedyarargn]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **The Mahanodi** is the great river of [[place-vedyarargn|Vedyara]]: longest, widest, most populous along its banks, and the one a Vedyari means if he says "the river" and does not say which. It rises at [[place-mahaprbhva|Mahaprabhava]] and runs the length of the central plain to the eastern sea.

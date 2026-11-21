@@ -12,7 +12,7 @@ data:
   routes:
     - {to: hidralza, bearing: N, mode: land, days: 2, terrain: [mountains, track]}
     - {to: sorvanda, bearing: N, mode: land, days: 5, terrain: [mountains, track]}
-  population: 1100
+  population: {actual: 1100}
   market: local
   type: town
   government: kngdmprvnz

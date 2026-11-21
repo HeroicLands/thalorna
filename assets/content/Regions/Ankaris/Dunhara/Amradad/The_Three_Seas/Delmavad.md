@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [threeseas]
-  population: 3000
+  population: {actual: 3000}
   market: local
   type: town
   fortification: walled

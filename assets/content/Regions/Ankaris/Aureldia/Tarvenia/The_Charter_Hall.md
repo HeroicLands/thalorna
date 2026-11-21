@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The hall of Valthari's own courts on the square where the Konsezarath sits in the open, holding the Arbitrators' bench, the city court, the Warden of the Weights' standards and the chest of the royal charter."
 tags: [court]
-data: {demonym: null, lore: [], parents: [valthari], population: 0, packFolder: tarvenia}
+data: {demonym: null, lore: [], parents: [valthari], population: {actual: 0}, packFolder: tarvenia}
 ---
 
 ## Overview {#overview}

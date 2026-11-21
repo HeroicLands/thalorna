@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "Rock-cut tombs in the ravines of the Diqraqor, the Basin Builders' highland burial ground, reached by stairs that descend into the cliff and forbidden to the Atarzád."
 tags: []
-data: {demonym: null, lore: [], parents: [dkrqrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [dkrqrrgn]
+  population: {actual: 0}
+  packFolder: khazryndesert
 ---
 
 ## Overview {#overview}

@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "One of the Garskald's three seasonal camps, on the Moldún where the river crossings make good ambush points for migrating herds."
 tags: [draft, camp]
-data: {demonym: null, lore: [], parents: [moldunriver], population: 0, packFolder: vrystwald}
+data:
+  demonym: null
+  lore: []
+  parents: [moldunriver]
+  population: {actual: 0}
+  packFolder: vrystwald
 ---
 
 The **Swift-Elk Camp** is one of the three seasonal camps of the [[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]] hunting company, and it stands along the [[place-moldunriver|Moldún River]]. The river crossings there make good ambush points for the migrating herds.

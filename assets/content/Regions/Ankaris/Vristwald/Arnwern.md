@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [eaglettm]
   parents: [falkhaven]
-  population: 0
+  population: {actual: 0}
   government: vrystwldvlgcncl
   packFolder: vrystwald
   notes: "A burned Varokh village on a lake behind Falkhaven's shore, the first the Sons of Eldheim destroyed."

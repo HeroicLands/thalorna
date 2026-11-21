@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [tokchiliclt]
   parents: [wikopihirgn]
-  population: 1500
+  population: {actual: 1500}
   type: town
   market: local
   government: tokchiaska

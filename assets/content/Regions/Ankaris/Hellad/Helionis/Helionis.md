@@ -14,7 +14,7 @@ data:
     - {to: byzariargn, bearing: E}
     - {to: vylarianse, bearing: SW}
   routes: [{to: taruzelrgn, bearing: S, mode: ship, days: 5, terrain: [open-sea]}]
-  population: 1200000
+  population: {actual: 1200000}
   packFolder: helionis
   culture: helioniteclt
 

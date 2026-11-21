@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [salkhalon]
-  population: 7000
+  population: {actual: 7000}
   market: regional
   type: town
   packFolder: vylaria

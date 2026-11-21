@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The seamark tower on Kalipsa's northern headland, whose olive-oil beacon has been relit every night for as long as anyone remembers, kept by a hereditary lantern-keeper whose office carries real civic weight."
 tags: [coastal]
-data: {demonym: null, lore: [], parents: [calypsacity], population: null, packFolder: calypsa}
+data:
+  demonym: null
+  lore: []
+  parents: [calypsacity]
+  population: {actual: null}
+  packFolder: calypsa
 ---
 
 ## Overview {#overview}

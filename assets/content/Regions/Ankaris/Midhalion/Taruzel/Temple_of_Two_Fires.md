@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The temple on the north side of Kudumel's eastern market where the Ashaian and Aureldian rites share one roof: an old mudbrick fire-house holding the eternal flame of Ataros, a pale stone hall the Vilérian governors added for the Twelve and the forge-fire of Ústaron, and between them a court of twelve columns carved with a god of each pantheon."
 tags: [taruzel, temple, religion]
-data: {demonym: null, lore: [], parents: [qudumel2], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [qudumel2], population: {actual: 0}, packFolder: taruzel}
 
 # terran_analog: "The fire temples of Yazd and the Parsi agiaries, for an eternal flame of recorded descent fed with tongs by veiled keepers; the shared shrines of the Levantine ports where two faiths keep one holy place on a timetable. Departs: the two halves are joined by a court whose columns pair the gods of two pantheons with the same domains, and the flame's descent hides a debt between the two fires."
 ---

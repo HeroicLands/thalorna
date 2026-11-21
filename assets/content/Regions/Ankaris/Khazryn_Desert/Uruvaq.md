@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A range of hollow ridges in the Idvaqor, the eastern stone desert, whose caverns hold cut cisterns of standing water and walls painted in a script no one reads."
 tags: []
-data: {demonym: null, lore: [], parents: [idwkrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [idwkrrgn]
+  population: {actual: 0}
+  packFolder: khazryndesert
 ---
 
 ## Overview {#overview}

@@ -35,7 +35,7 @@ data:
       Anda: >-
         The style used where a faith's apex is a woman who holds the office of an art—wisdom, life, death, flowers.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

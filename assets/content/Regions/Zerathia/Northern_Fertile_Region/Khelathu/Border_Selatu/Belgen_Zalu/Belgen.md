@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [belgenzalunome]
-  population: 11000
+  population: {actual: 11000}
   type: city
   market: regional
   packFolder: regkhsett

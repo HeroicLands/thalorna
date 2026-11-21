@@ -9,7 +9,7 @@ data:
   lore: []
   parents: [aureldirgn]
   routes: [{to: elavendre, bearing: SE, mode: ship, days: 5, terrain: [open-sea, coast]}]
-  population: 670000
+  population: {actual: 670000}
   packFolder: eilwith
   culture: aelwythanclt
 

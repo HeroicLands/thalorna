@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [auldalon]
-  population: 6000
+  population: {actual: 6000}
   borders: [{to: edriwald, bearing: NE}]
   routes:
     - {to: durmelen, bearing: W, mode: land, days: 1, terrain: [coast, track]}

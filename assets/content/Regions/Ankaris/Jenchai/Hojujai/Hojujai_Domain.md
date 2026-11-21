@@ -47,8 +47,8 @@ data:
       Regent: >-
         Governs the domain in the name of the Dauzhwo, who is a minor, with the keys of the castle and its granary; the Dauzhwo's mother holds the office.
   seat: yanwu
-  population: 92000
-  territorial_population: 92000
+  population: {actual: 92000}
+  territorial_population: {actual: 92000}
   settlements:
     - settlement: Fanu
       polity: affiliation-hojujaidmn
@@ -57,7 +57,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-jenchaiempr
-      population: 590
+      population: {actual: 590}
       market: local
       notes: "Fortune Terraces. Court estate. Rice on ash soil, the best in the realm. Head village of a district assessed at 2,200 bales."
     - settlement: Yanju
@@ -67,7 +67,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-hojujaidmn
-      population: 410
+      population: {actual: 410}
       market: local
       notes: "Cloud Spring. Demesne. Hot springs, bathhouses and sulfur. Head village of a district assessed at 1,500 bales."
     - settlement: Weinu
@@ -77,7 +77,7 @@ data:
       fortification: null
       stronghold: null
       holder: "A Shwizhwo of the domain"
-      population: 700
+      population: {actual: 700}
       market: local
       notes: "Jade Terraces. Fief. Rice. Head village of a district assessed at 2,600 bales."
   economy: []

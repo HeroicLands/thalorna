@@ -46,8 +46,8 @@ data:
       Canal-Warden: >-
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: maguathen
-  population: 300000
-  territorial_population: 300000
+  population: {actual: 300000}
+  territorial_population: {actual: 300000}
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [upperrivrslt]

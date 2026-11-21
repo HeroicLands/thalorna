@@ -12,7 +12,7 @@ data:
   routes:
     - {to: sarmelis, bearing: NE, mode: land, days: 5, terrain: [road]}
     - {to: harnasel, bearing: SW, mode: land, days: 5, terrain: [road]}
-  population: 190
+  population: {actual: 190}
   market: local
   type: village
   government: beaconfamlys

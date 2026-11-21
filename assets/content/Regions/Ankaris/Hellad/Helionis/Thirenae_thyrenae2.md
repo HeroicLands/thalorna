@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [helionis]
-  population: 7500
+  population: {actual: 7500}
   market: regional
   type: town
   government: thyrenae

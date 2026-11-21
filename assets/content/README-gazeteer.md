@@ -449,8 +449,8 @@ values above. A populated settlement note requires `type`, `market`, `notes` and
 a `government` that resolves to a polity.
 
 **A polity states two populations, and they count different people.**
-`data.population` is the membership: the people who belong to the body.
-`data.territorial_population` is the inhabitants of the land it governs, whoever
+`data.population` is the membership: the people who belong to the body, stated as `{actual, apparent?}`.
+`data.territorial_population`, in the same map form, is the inhabitants of the land it governs, whoever
 they belong to. A polity with settlements, a seat or subordinate polities
 requires the territorial figure. The listed and noted settlements throughout its
 subordinate chain must not exceed it, a seat counts once, and a subordinate
@@ -473,8 +473,8 @@ subType: polity
 shortcode: kingdmexmpl
 data:
   seat: exmplhall # a settlement note; it has no row here
-  population: 8000 # the members of the kingdom
-  territorial_population: 12000 # everyone who lives on its land
+  population: { actual: 8000 } # the members of the kingdom
+  territorial_population: { actual: 12000 } # everyone who lives on its land
   parents: []
   settlements:
     - settlement: East Farm
@@ -484,7 +484,7 @@ data:
       fortification: null
       stronghold: null
       holder: Aldric Vane
-      population: 40
+      population: { actual: 40 }
       market: subsistence
       notes: A farm by the ford road.
     - settlement: Greywater
@@ -494,7 +494,7 @@ data:
       fortification: palisade
       stronghold: tower
       holder: affiliation-exmpltmpl
-      population: 350
+      population: { actual: 350 }
       market: local
       notes: A fishing village whose tower watches the river mouth.
     - settlement: Marrow Cross
@@ -504,7 +504,7 @@ data:
       fortification: walled
       stronghold: null
       holder: affiliation-kingdmexmpl
-      population: 1100
+      population: { actual: 1100 }
       market: regional
       notes: A walled market town where three roads meet.
 ```
@@ -1143,8 +1143,8 @@ data:
     offices: {}
   seat: null # shortcode of the affiliation's capital settlement; `null` where it has none or none is known, never ""
   # Record government on each governed place with data.government, not here.
-  population: 0 # members of the affiliation
-  territorial_population: 0 # polity only: inhabitants of its land; required with settlements, a seat or subordinate polities
+  population: {actual: 0} # members of the affiliation
+  territorial_population: {actual: 0} # polity only: inhabitants of its land; required with settlements, a seat or subordinate polities
   settlements: [] # polity only: directly held settlements without notes; see Governance and holding
   economy: []
   lore: [humanflk]
@@ -1316,7 +1316,7 @@ data:
   demonym: null # specify if able
   lore: []
   parents: [] # shortcodes of containing places
-  population: 0
+  population: {actual: 0}
   government: "" # the governing affiliation; every settlement names one
   type: village # encampment, homestead, hamlet, village, town, city or metropolis
   fortification: null # none, minimal, palisade, walled, fortress, or null
@@ -1357,7 +1357,7 @@ data:
   demonym: ""
   lore: [humanflk]
   parents: [] # parent region shortcodes
-  population: 0 # population of region
+  population: {actual: 0} # population of region
   # A region carries no settlement list; its polities list settlements in their own data.settlements
   borders: [] # neighbors: to, bearing
   routes: [] # journeys from here: to, bearing, mode, days

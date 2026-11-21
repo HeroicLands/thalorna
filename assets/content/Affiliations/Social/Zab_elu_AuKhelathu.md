@@ -34,7 +34,7 @@ data:
       Halzi'a: >-
         Governs a selat, commanding its levies, collecting its taxes and dispensing its justice. Held by a Zabu.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

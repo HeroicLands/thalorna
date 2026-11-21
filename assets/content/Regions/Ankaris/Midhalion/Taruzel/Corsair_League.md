@@ -29,7 +29,7 @@ data:
       Admiral of the League: >-
         Speaks for the fleet and calls its total at the Fleet Review. Delzuru Tanaduni is its leading voice; the admiral does not replace the League's councils.
   seat: yamuzel2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

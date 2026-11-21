@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A day's descent of ash terraces below the gate of the south, where ash-storms bury the unready standing up and most parties turn back."
 tags: [site, waste]
-data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
+data:
+  demonym: null
+  lore: []
+  parents: [ashcountry]
+  population: {actual: 0}
+  packFolder: xelemixbal
 ---
 
 ## Overview {#overview}

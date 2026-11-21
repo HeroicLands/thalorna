@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [tokchiliclt]
   parents: [hokpargn]
-  population: 6000
+  population: {actual: 6000}
   type: town
   market: regional
   government: tokchiaska

@@ -9,7 +9,7 @@ data:
   demonym: Ankarian
   lore: [humanflk, grukarfolk, flksenali, flkkhazar]
   parents: [worldthlrn]
-  population: 290000000
+  population: {actual: 290000000}
   packFolder: ankaris
 
 # terran_analog: Eurasia (and North Africa's Mediterranean shore, via Midhalión)

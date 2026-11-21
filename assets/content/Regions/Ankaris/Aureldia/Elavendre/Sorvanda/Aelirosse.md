@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [silvrfrsts]
-  population: 120
+  population: {actual: 120}
   market: local
   type: village
   government: nclvlrss

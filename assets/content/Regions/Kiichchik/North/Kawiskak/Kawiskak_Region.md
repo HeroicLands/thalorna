@@ -11,7 +11,7 @@ data:
   lore: [kawiskakclt]
   parents: [northkiichchik]
   government: null
-  population: 65000
+  population: {actual: 65000}
   packFolder: kiichchik
 
 # terran_analog: the boreal forest of northern Saskatchewan and Manitoba around Hudson Bay, from roughly the Edmonton–Saskatoon–Winnipeg line north to the treeline, on the Canadian Shield; the Bitter Water is Hudson Bay, the Fish Lake is Lake Winnipeg with the sturgeon of its rivers, the river that leaves it is the Nelson, and the Copper River is the Coppermine

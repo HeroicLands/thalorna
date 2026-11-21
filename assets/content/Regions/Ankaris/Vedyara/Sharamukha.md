@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The gorge-mouth below the gold road where Bharyastan's horse and Danurkot's recalled graduates stopped Daunapur's host about 415 AF: a cairn of broken arrows and a small Mahajaya shrine where each year's returning graduates leave one arrow."
 tags: [mountain, sacred, frontier]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [suvargerijnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **Sharamukha**, the mouth of arrows, is where the gold road comes down out of the hills below [[place-suvargerijnpd|Suvargeri]] through a gorge barely wide enough for two carts, and opens onto the valley floor. About 415 AF the mountain kingdom of [Daunapur]{.name data-type="affiliation/polity"} came up this road toward the gold, and [[affiliation-bharyastan|Bharyastan]]'s horse and the [[affiliation-dnrktjnpd|Danurkot Janpoda]]'s recalled graduates stopped it at the mouth ([[lore-hghlndwar|the Highland War]]).

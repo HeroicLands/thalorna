@@ -46,8 +46,8 @@ data:
       Judge: Chosen from the Dauzhwo's retainers to hear the cases of the town in the hall at Buiwu.
       Keeper of the Stables: Held by the Maiju, who keep the horse pastures of the domain and the roll of its mounts.
   seat: buiwu
-  population: 52000
-  territorial_population: 52000
+  population: {actual: 52000}
+  territorial_population: {actual: 52000}
   settlements:
     - settlement: Chonu
       polity: affiliation-zenjaidmn
@@ -56,7 +56,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-jenchaiempr
-      population: 240
+      population: {actual: 240}
       market: local
       notes: "Winter Terraces. Court estate. Barley and late rice. Head village of a district assessed at 900 bales."
     - settlement: Buimu
@@ -66,7 +66,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-zenjaidmn
-      population: 160
+      population: {actual: 160}
       market: local
       notes: "White Wood. Demesne. Timber and charcoal. Head village of a district assessed at 600 bales."
     - settlement: Maidu
@@ -76,7 +76,7 @@ data:
       fortification: null
       stronghold: null
       holder: "Maiju"
-      population: 190
+      population: {actual: 190}
       market: local
       notes: "Horse Road. Fief. Horse pastures. Head village of a district assessed at 700 bales."
   economy: []

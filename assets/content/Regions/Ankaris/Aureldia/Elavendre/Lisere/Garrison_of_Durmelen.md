@@ -44,8 +44,8 @@ data:
       Keeper of the Great Fire: >-
         Held by a Serjeant named by the Castellan. Keeps the beacon on the tower laid and lit, and answers for the signals sent from it to the shore.
   seat: durmelen
-  population: 340
-  territorial_population: 340
+  population: {actual: 340}
+  territorial_population: {actual: 340}
   economy: []
   lore: [humanflk]
   parents: [kngdmlvndr]

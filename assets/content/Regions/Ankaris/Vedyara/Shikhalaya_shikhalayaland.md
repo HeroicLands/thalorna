@@ -9,7 +9,7 @@ data:
   demonym: Shikhalayan
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 8000000
+  population: {actual: 8000000}
   packFolder: vedyara
   government: shikhalaya
 

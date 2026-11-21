@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ellive]
-  population: 4800
+  population: {actual: 4800}
   market: local
   type: town
   government: kngdmlvndr

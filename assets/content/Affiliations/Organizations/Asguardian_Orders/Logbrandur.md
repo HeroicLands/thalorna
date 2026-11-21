@@ -33,7 +33,7 @@ data:
           Leads the order's work at a hov, judging and enforcing in Eidgar's name alike.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -40,7 +40,7 @@ data:
       Rozimoi: >-
         Twelve discipline officers reporting to the Council who conduct admission examinations, audit member houses' books and investigate complaints.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: [affiliation-tarmex, affiliation-tevran]
   lore: []
   parents: []

@@ -9,7 +9,7 @@ data:
   demonym: Besikarian
   lore: [humanflk]
   parents: [qalirel]
-  population: 400000
+  population: {actual: 400000}
   type: city
   market: international
   routes:

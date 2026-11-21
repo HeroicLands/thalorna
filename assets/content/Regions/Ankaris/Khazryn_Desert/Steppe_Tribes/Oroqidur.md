@@ -49,7 +49,7 @@ data:
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
       Water-Warden: Keeper of the tribe's wells and owned oases, and of the order in which the herds are watered.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

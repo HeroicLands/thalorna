@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [dunavarre]
   routes: [{to: kelivren, bearing: E, mode: land, days: 1, terrain: [forest, road]}]
-  population: 2000
+  population: {actual: 2000}
   government: saelvri
   packFolder: eilwith
 ---

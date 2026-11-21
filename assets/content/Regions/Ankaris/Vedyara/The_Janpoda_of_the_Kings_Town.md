@@ -61,8 +61,8 @@ data:
       Senoni: >-
         Captain of the militia, raised from the villages at the sabhra's call and dismissed when the need ends.
   seat: rajepur
-  population: 25000
-  territorial_population: 25000
+  population: {actual: 25000}
+  territorial_population: {actual: 25000}
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: [janpdsvdyr]

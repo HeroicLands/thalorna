@@ -48,7 +48,7 @@ data:
       Orsan of the Strongroom: >-
         Holds the reserves and the strongroom at Orzara, which has never been breached in three centuries.
   seat: arvon
-  population: null
+  population: {actual: null}
   economy: [affiliation-danvar, affiliation-tolvan, affiliation-tevran, lore-vylrncrncy]
   lore: []
   parents: []

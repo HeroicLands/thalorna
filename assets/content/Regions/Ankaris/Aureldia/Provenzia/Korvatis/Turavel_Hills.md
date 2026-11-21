@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "A range of low wooded hills in southern Provénzia, thinly settled and poorly mapped, remembered in song as a country of the older faith and avoided by people who will not say why."
 tags: [hill, woodland, inland]
-data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [korvathis]
+  population: {actual: null}
+  packFolder: provenzia
 ---
 
 The **Túravel Hills** roll across the south of the [[place-provenzrgn|Provénzia Region]]—low,

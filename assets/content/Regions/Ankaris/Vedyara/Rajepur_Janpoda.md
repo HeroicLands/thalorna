@@ -9,7 +9,7 @@ data:
   demonym: Rajapuri
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 25000
+  population: {actual: 25000}
   packFolder: vedyara
   government: rajeprjnpd
 

@@ -32,7 +32,7 @@ data:
       Head of Tvarnidrok: >-
         Held by one Of the Line. Holds the house's seat on the Captains' Council, its shares, its berths and its book, and recites the line at the house's feasts.
   seat: calypsacity
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [calypsa]

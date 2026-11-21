@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The original stone mole of Kalipsa's harbor, older than any date the city will admit to, built by local tradition by refugees from a forgotten Helionite colony, and carved on several stones with characters no living scholar can read."
 tags: [port, coastal]
-data: {demonym: null, lore: [], parents: [calypsacity], population: null, packFolder: calypsa}
+data:
+  demonym: null
+  lore: []
+  parents: [calypsacity]
+  population: {actual: null}
+  packFolder: calypsa
 ---
 
 ## Overview {#overview}

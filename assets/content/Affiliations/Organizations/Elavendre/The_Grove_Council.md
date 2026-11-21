@@ -38,7 +38,7 @@ data:
       Circuit-Walker: >-
         Held by one Grovekeeper who walks a circuit of groves that keep no permanent staff, serving each in turn and carrying word between them.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

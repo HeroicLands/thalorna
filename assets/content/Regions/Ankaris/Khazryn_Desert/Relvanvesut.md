@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [zargandur]
-  population: 0
+  population: {actual: 0}
   packFolder: khazryndesert
   culture: khazrynclt
 ---

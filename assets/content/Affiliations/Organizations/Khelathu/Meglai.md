@@ -29,7 +29,7 @@ data:
         description: >-
           Commander of the standing city guard of Galezkara.
   seat: galezkara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [capitalselat]

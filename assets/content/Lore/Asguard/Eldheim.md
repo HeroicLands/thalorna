@@ -5,7 +5,12 @@ type: place
 subType: region
 description: "The burning region of Asguard, where Svartbrandur keeps his fire-kin and musters the host that rides out at Aldarlok."
 tags: [asguardian]
-data: {demonym: null, lore: [], parents: [asguard], population: null, packFolder: settinglore}
+data:
+  demonym: null
+  lore: []
+  parents: [asguard]
+  population: {actual: null}
+  packFolder: settinglore
 ---
 
 Eldheim is the fire-home: the region of [[place-asguard|Asguard]] that burns, and the one the other three are arranged against. Eldheim is [[lore-svartbrandurdty|Svartbrandur]]'s, and the tradition describes a country and not a furnace: slag plains, ash weather, rivers that run and set and run again, a host quartered on the ground and a lord who feeds them. The heat is not a torment there. It is the climate, and the fire-kin are at home in it.

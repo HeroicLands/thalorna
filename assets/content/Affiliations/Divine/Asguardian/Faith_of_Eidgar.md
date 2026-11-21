@@ -50,7 +50,7 @@ data:
       Hofsgudi: >-
         Keeper of a named hov where the local ting sits, its stores and its blet.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [eidgardty]
   parents: [asguardian]

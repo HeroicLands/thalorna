@@ -42,7 +42,7 @@ data:
       Master of Kosthemoi: Governor over the Kosthemoi, their instruction and their discipline.
       Master of Galethoi: Governor over the Galethoi and their postings to the realm's offices and to the island's courts.
   seat: ravenmoor
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [affiliation-kingdmdnvr]

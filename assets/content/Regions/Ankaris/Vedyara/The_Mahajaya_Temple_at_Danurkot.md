@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The Mahajaya temple inside the bow-fort, whose senior priest convenes the sabhra and whose bowmen-priests keep the Watch of the Bow-String."
 tags: [sacred, temple, inland]
-data: {demonym: null, lore: [], parents: [danurkotjnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [danurkotjnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **The Mahajaya Temple at Danurkot** keeps a vigil for men who are not there. On the night before any major engagement involving Danurkot graduates, anywhere in [[place-vedyarargn|Vedyara]], its bowmen-priests stay awake for them.

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [valsal]
-  population: null
+  population: {actual: null}
   packFolder: settinglore
   government: odvar
 ---

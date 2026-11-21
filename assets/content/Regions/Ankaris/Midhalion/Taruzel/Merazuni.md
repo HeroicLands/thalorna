@@ -44,7 +44,7 @@ data:
       Keeper of the Strongroom: >-
         Held by a Keeper. Holds one of the two keys of the strongroom; the captain of the marine detachment that guards it holds the other.
   seat: besikar2
-  population: null
+  population: {actual: null}
   economy: [lore-trzlncrncy, affiliation-tarmex]
   lore: []
   parents: [vezakuni]

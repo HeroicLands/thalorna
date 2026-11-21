@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A Vithgard border steading remembered for the Burning of Inthstead, where a levy company's tents caught fire with its men inside."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: vithgard}
+data: {demonym: null, lore: [], parents: [vithgard], population: {actual: 0}, packFolder: vithgard}
 ---
 
 ## Overview {#overview}

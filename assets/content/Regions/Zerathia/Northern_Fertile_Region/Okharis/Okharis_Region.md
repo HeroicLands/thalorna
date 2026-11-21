@@ -13,7 +13,7 @@ data:
     - {to: bethuargn, bearing: E}
     - {to: cntrlrnfrsts, bearing: S}
     - {to: vylarianse, bearing: N}
-  population: 4000000
+  population: {actual: 4000000}
   packFolder: okharis
   government: okharis
   culture: okharinclt

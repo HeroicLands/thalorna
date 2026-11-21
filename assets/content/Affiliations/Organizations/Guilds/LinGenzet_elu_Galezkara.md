@@ -30,7 +30,7 @@ data:
       Adviser: >-
         An advocate the guild retains to advise it rather than to argue cases.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

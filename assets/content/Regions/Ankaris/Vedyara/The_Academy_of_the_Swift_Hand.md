@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The cavalry-archery hall of the bow-fort, whose graduates are taken by every Vedyari kingdom that fields horse."
 tags: [hall, military, inland]
-data: {demonym: null, lore: [], parents: [danurkotjnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [danurkotjnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 The first question **the Swift Hand** asks an aspirant is about his horse.

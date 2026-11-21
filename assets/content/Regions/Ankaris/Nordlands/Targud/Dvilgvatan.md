@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [targud]
-  population: null
+  population: {actual: null}
   packFolder: targud
 ---
 

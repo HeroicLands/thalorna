@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A village of the Bizarian hinterland where, twenty-six years ago, the Iron Wolves Company killed every adult on a lord's contract."
 tags: []
-data: {demonym: null, lore: [], parents: [byzariargn], population: 0, packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: {actual: 0}
+  packFolder: byzaria
 ---
 
 ## Overview {#overview}

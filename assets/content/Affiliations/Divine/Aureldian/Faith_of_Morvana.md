@@ -48,7 +48,7 @@ data:
       Hospices of the Waning Moon: >-
         The houses the faith keeps for the dying, and its most visible work.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [morvanadty]
   parents: [arldnpnthn]

@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: []
   parents: [aureldirgn]
-  population: 5000000
+  population: {actual: 5000000}
   borders:
     - {to: tarvenirgn, bearing: NE}
     - {to: toravarrange, bearing: NE}

@@ -38,7 +38,7 @@ data:
       Raid Leader: Leader of a raid on another tribe's camels, chosen for that raid alone.
       Guide: Holder of the tribe's routes across the sands, sent with a caravan that has bought passage.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

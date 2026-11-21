@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [byzariargn]
-  population: 3600
+  population: {actual: 3600}
   market: local
   type: town
   government: orashion

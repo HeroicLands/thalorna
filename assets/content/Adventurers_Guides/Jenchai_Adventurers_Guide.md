@@ -32,14 +32,14 @@ WITH RECURSIVE jenchai(place) AS (
 )
 SELECT address.slug AS _ref,
        name.full AS "Town",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND address.canonical IN (SELECT place FROM jenchai)
-  AND data.population >= 1000
+  AND data.population.apparent >= 1000
   AND state = 'full'
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 You will hear wealth counted in bales, rice enough to feed one adult for a year. Each village is assessed in bales once and pays in kind: rice, salt, fish, charcoal, whatever its shore or forest yields. The holder of a village, whether the lord's granary, a retainer's fief, the court or a summit shrine, takes four parts in ten; the village keeps six and owes thirty days of labor on top. Its headman answers for the whole assessment, so a village that falls short owes the debt together. The houses you meet differ in what they have:
@@ -47,13 +47,13 @@ You will hear wealth counted in bales, rice enough to feed one adult for a year.
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "House",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
   AND data.culture = 'thalorna-note-lore-jenchaiclt'
   AND list_contains(data.parents, 'thalorna-note-affiliation-jenchaiempr')
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 The [[affiliation-shuiwojaidmn|Shuiwojai Domain]] on the strait coast has the largest army and the largest fleet. [[affiliation-wojaidmn|Wojai Domain]] has the best harbor in the realm and the largest of the castle towns. [[affiliation-hojujaidmn|Hojujai Domain]] holds the burning mountain, and [[affiliation-muwojaidmn|Muwojai Domain]] holds the cedar mountain beside Zojai and with it every road to the Emperor. [[affiliation-zenjaidmn|Zenjai Domain]] is the cold north, [[affiliation-tsuijaidmn|Tsuijai Domain]] the iron and the swordsmiths, [[affiliation-wejaidmn|Wejai Domain]] the typhoon coast, and [[affiliation-rinjaidmn|Rinjai Domain]] the raiders' island. Each mountain's summit shrine is kept by the domain's [[lore-tanchei|Tanchei]], and an eruption is read as heaven's attention. If the ground shakes under you in a disputed year, the people around you hear a verdict on the house beneath it.

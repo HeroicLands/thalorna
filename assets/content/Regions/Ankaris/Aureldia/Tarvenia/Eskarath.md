@@ -9,7 +9,7 @@ data:
   demonym: Eskárathi
   lore: [humanflk]
   parents: [tarvenirgn]
-  population: 200000
+  population: {actual: 200000}
   borders: [{to: elavendre, bearing: NW}, {to: asturath, bearing: S}]
   packFolder: tarvenia
   government: frtrtryskrth

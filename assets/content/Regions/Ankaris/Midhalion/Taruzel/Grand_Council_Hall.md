@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The old imperial customs-house at the head of Besikar's quays, where the twenty-five councilors of the Confederation of Taruzelian States sit twice a year and every vote is counted by heads and by weight."
 tags: [taruzel, besikar, government]
-data: {demonym: null, lore: [], parents: [besikar2], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [besikar2], population: {actual: 0}, packFolder: taruzel}
 ---
 
 ## Overview {#overview}

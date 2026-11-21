@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vedyarargn, bharavarivr]
-  population: 1100
+  population: {actual: 1100}
   type: town
   market: local
   packFolder: vedyara

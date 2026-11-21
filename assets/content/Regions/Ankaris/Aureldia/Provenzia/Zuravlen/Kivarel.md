@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [zuravlenrgn]
-  population: 7000
+  population: {actual: 7000}
   government: erldmhrvrn
   packFolder: provenzia
 ---

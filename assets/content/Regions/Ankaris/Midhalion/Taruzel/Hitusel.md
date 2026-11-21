@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [visizel]
-  population: 2000
+  population: {actual: 2000}
   type: village
   market: local
   routes: [{to: sazumun2, bearing: S, mode: land, days: 1, terrain: [coast, road]}]

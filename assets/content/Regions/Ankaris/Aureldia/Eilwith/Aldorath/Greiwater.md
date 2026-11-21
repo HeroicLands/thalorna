@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [greylevels]
-  population: 2900
+  population: {actual: 2900}
   market: regional
   type: town
   packFolder: eilwith

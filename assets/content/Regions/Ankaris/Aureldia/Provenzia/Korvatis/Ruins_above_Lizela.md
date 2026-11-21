@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "Broken walls of fitted stone on a hilltop above the salt town of Lizela, older than the Vilérians, which the town calls a Tanevar king's hall and an instructor of Arnela Kórisvar's school went to study and did not come back from."
 tags: [ruin, hill, inland]
-data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [korvathis]
+  population: {actual: null}
+  packFolder: provenzia
 ---
 
 ## Overview {#overview}

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [wagaruselat]
-  population: 3600
+  population: {actual: 3600}
   type: town
   market: local
   packFolder: regkhsett

@@ -45,7 +45,7 @@ data:
       Raiser: >-
         Sets the workings that animate a made body—the standing servant, and the zaglu Gar-Ithnetáu binds.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [khelunulekha]
   parents: []

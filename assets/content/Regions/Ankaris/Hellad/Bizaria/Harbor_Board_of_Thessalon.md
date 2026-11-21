@@ -25,8 +25,8 @@ data:
           Lives in Thessalon under its board.
     offices: {}
   seat: thessalon
-  population: null
-  territorial_population: 1500
+  population: {actual: null}
+  territorial_population: {actual: 1500}
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

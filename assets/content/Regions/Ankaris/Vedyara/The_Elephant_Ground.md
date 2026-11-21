@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The long slope at the foot of the central plateau where the Field of Elephants was fought: a shallow, wide shorukshetra of drums and trumpeting in the first storms of the monsoon, elephant bones built into village walls, and a droveway that goes round it."
 tags: [inland, frontier]
-data: {demonym: null, lore: [], parents: [vandyabhumi], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [vandyabhumi]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **Gajastal**, the elephant ground, is the long slope of coarse grass where [[place-vandyabhumi|Vandyabhumi]]'s plateau comes down to the plain of [[place-mahanodi|the Mahanodi]]. About 270 AF the coalition of [[affiliation-gomarga|Gomarga]] and the river kingdom of [Purnatir]{.name data-type="affiliation/polity"} met here with their war-elephants, both lines broke, and the dead were left to the rains ([[lore-fieldelephnt|the Field of Elephants]]). It is the second _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]], and the shallowest: a recurrence, slight, and wide.

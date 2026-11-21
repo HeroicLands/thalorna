@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [dunhardsrtrgn]
-  population: 0
+  population: {actual: 0}
   packFolder: dunharadesert
 ---
 

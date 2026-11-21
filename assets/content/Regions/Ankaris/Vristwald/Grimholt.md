@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [sturgeonttm]
   parents: [vrystwldrvrs]
-  population: 450
+  population: {actual: 450}
   market: local
   type: village
   government: vrystwldvlgcncl

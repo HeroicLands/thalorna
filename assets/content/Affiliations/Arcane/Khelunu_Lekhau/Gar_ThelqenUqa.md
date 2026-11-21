@@ -43,7 +43,7 @@ data:
       Purifier: >-
         Conducts the cleansing of those spiritually stained—warriors who have killed, and any practitioner who has been seconded to Gar-Zelgút.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [khelunulekha]
   parents: []

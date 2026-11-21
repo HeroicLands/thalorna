@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [khelzuretslt]
-  population: 570
+  population: {actual: 570}
   type: village
   market: local
   government: selatkhelzrt

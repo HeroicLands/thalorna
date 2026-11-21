@@ -33,7 +33,7 @@ data:
           Speaks between the elder races and mortals in Bjart's name, keeping harmony between the two.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

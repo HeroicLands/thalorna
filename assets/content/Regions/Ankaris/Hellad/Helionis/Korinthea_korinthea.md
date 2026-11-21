@@ -47,8 +47,8 @@ data:
       Arsir: "Presiding magistrate for the year, who gives the year his name."
       Strátimor: "Elected commander of the forces of Korinthea by land and sea."
   seat: korinthea2
-  population: 160000
-  territorial_population: 160000
+  population: {actual: 160000}
+  territorial_population: {actual: 160000}
   economy: []
   lore: [humanflk]
   parents: [ctysttshlns]

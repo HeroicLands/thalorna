@@ -54,7 +54,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-dorumbetribe
-      population: 900
+      population: {actual: 900}
       market: subsistence
       notes: A clan's tents around a rock-cistern in the western belt.
     - settlement: Ngarali Well
@@ -64,7 +64,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-dorumbetribe
-      population: 600
+      population: {actual: 600}
       market: subsistence
       notes: A spring-camp where the herds are watered in the dry months.
     - settlement: Kwendo Camp
@@ -74,11 +74,11 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-dorumbetribe
-      population: 450
+      population: {actual: 450}
       market: subsistence
       notes: A small camp on the streambed grass, held by one clan's households.
-  population: null
-  territorial_population: 280000
+  population: {actual: null}
+  territorial_population: {actual: 280000}
   economy: [lore-bartercnmy, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: []

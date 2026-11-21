@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [otterttm]
   parents: [edriwald]
-  population: 310
+  population: {actual: 310}
   market: local
   type: village
   borders: [{to: eichholt, bearing: E}]

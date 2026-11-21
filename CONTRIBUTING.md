@@ -234,12 +234,12 @@ selects on what the notes say about themselves, such as the region they sit in:
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND list_contains(data.parents, 'thalorna-note-place-byzariargn')
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 The same table filtered on `file.folder = 'Regions/Ankaris/Hellad/Bizaria'`

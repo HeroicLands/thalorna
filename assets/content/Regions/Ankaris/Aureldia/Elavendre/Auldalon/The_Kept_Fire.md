@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [auldalon]
-  population: null
+  population: {actual: null}
   packFolder: elavendre
   culture: elavendriclt
 ---

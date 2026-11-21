@@ -48,7 +48,7 @@ data:
       Binder of the Coast: >-
         Speaks the binding of storms over the coast on an opened day before the first voyage of each season.
   seat: tzalamne
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [puqilchaqun]

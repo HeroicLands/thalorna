@@ -34,7 +34,7 @@ data:
           Head of the order, who selects every member and assigns its operations; chosen by the surviving Senior Cinders on the death or incapacity of the last.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

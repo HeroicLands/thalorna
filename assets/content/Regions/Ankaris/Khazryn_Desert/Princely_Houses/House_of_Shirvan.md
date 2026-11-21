@@ -42,7 +42,7 @@ data:
       Steward of the Exile Court: >-
         Held by a Kinsman of the House. Runs the court's household, revenues and clients in Amradad.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [khzrncnfdrtn]

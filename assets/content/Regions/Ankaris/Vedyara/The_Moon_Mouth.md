@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [chendrapurland, chandrmahi]
-  population: 16000
+  population: {actual: 16000}
   type: town
   market: regional
   routes:

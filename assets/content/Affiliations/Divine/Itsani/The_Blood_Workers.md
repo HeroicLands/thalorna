@@ -65,7 +65,7 @@ data:
       Dedicator of the Field: >-
         Receives warriors' vows over captives taken in the field and assigns each to a working the band will speak.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [chumtsena]
   parents: [tzenultqan]

@@ -45,7 +45,7 @@ data:
         Holds the standard weights and measures against which the landings' scales are tested.
   seat: null
   range: [velanthrgn]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: []

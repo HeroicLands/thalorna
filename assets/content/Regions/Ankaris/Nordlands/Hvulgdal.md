@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
-  population: 0
+  population: {actual: 0}
   packFolder: nordlands
   notes: "A farming dale of the Nordlands under Jarl Hlaskinda, whose harvests Bruldorv Greenshield manages on her authority."
 ---

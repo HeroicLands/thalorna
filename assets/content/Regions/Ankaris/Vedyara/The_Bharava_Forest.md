@@ -9,7 +9,7 @@ data:
   demonym: Bharavan
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 2400000
+  population: {actual: 2400000}
   packFolder: vedyara
   government: bhrvdvbhon
 

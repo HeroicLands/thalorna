@@ -50,7 +50,7 @@ data:
       Hofsgudi: >-
         Keeper of one of the hidden hovs tucked into Malagna's ports, its stores and its blet.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [velgrimurdty]
   parents: [asguardian]

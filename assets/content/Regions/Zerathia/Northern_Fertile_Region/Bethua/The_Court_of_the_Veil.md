@@ -33,7 +33,7 @@ data:
         description: >-
           The Veiled Mother, Queen and High Priestess of Bethua.
   seat: bethura
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [mtrrchybth]

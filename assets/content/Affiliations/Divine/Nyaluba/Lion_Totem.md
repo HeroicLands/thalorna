@@ -49,7 +49,7 @@ data:
       Keeper of the Tally: >-
         Recorder of the offerings owed and made where the herds cross the guide's ground.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [lionruwozispr, nyalbsprts]
   parents: [nyalbpnthn]

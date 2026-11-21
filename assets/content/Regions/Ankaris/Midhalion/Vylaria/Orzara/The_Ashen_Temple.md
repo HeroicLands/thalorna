@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [arvon]
-  population: 200
+  population: {actual: 200}
   government: blackflame
   packFolder: vylaria
 ---

@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The slipways, sheds and drawing loft on the western arm of Bazunel's bay, where the Confederation's finest ships are drawn full size on a whitewashed floor and the first hull of each new line is built."
 tags: [taruzel, craft, naval]
-data: {demonym: null, lore: [], parents: [bazunel2], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [bazunel2], population: {actual: 0}, packFolder: taruzel}
 ---
 
 ## Overview {#overview}

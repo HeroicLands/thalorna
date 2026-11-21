@@ -13,7 +13,7 @@ data:
     - {to: vedyarargn, bearing: W}
     - {to: meghrsmdra, bearing: SW}
     - {to: easternstrt, bearing: N}
-  population: null
+  population: {actual: null}
   packFolder: vedyara
   culture: vedyariclt
 ---

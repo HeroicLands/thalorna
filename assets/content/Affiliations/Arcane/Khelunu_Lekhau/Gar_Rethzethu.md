@@ -45,7 +45,7 @@ data:
       Corrector: >-
         Called by another House when a form fails, to determine whether the fault lies in the name or in the execution.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [khelunulekha]
   parents: []

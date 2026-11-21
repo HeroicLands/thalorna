@@ -38,7 +38,7 @@ data:
       Keeper of the Seals: >-
         Held by Kin of the House. Seals every cargo that enters a Hitusuni warehouse until its tariff is paid, and breaks the seal when it is.
   seat: sazumun2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [sazumun]

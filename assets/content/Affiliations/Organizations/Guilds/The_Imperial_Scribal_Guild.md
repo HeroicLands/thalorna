@@ -47,7 +47,7 @@ data:
       High Hand: >-
         Chair of the Guild and its Council of Guildmasters, holding the position for life or until resignation.
   seat: platandstr
-  population: null
+  population: {actual: null}
   economy: [affiliation-tevran]
   lore: []
   parents: []

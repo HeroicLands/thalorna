@@ -46,8 +46,8 @@ data:
       Circuit Judge: >-
         Rides between the forts to hear the cases that wardens and villages cannot settle.
   seat: brvvsh
-  population: null
-  territorial_population: 300000
+  population: {actual: null}
+  territorial_population: {actual: 300000}
   settlements:
     - settlement: Goravesh
       polity: affiliation-prncdmbrvvsh
@@ -56,7 +56,7 @@ data:
       fortification: fortress
       stronghold: fort
       holder: affiliation-prncdmbrvvsh
-      population: 2500
+      population: {actual: 2500}
       market: local
       notes: "A hill-fort town above the river whose wardens draw the prince's pay."
     - settlement: Vlidavesh
@@ -66,7 +66,7 @@ data:
       fortification: walled
       stronghold: fort
       holder: affiliation-prncdmbrvvsh
-      population: 2500
+      population: {actual: 2500}
       market: local
       notes: "A walled town at a river crossing, garrisoned from the prince's seat."
     - settlement: Sokavesh
@@ -76,7 +76,7 @@ data:
       fortification: palisade
       stronghold: fort
       holder: affiliation-prncdmbrvvsh
-      population: 2000
+      population: {actual: 2000}
       market: local
       notes: "A fort town where the fur hunters outfit before the cold months."
     - settlement: Sedravesh
@@ -86,7 +86,7 @@ data:
       fortification: palisade
       stronghold: null
       holder: affiliation-prncdmbrvvsh
-      population: 2000
+      population: {actual: 2000}
       market: local
       notes: "A market town where the frontier villages sell grain to the garrisons."
     - settlement: Ovravesh
@@ -96,7 +96,7 @@ data:
       fortification: fortress
       stronghold: fort
       holder: affiliation-prncdmbrvvsh
-      population: 1500
+      population: {actual: 1500}
       market: local
       notes: "A fort town on the last road before the forest."
     - settlement: Yaravesh
@@ -106,7 +106,7 @@ data:
       fortification: palisade
       stronghold: null
       holder: affiliation-prncdmbrvvsh
-      population: 1500
+      population: {actual: 1500}
       market: local
       notes: "A ford town where ransoms are counted out and captives handed back."
     - settlement: Kodavesh
@@ -116,7 +116,7 @@ data:
       fortification: palisade
       stronghold: fort
       holder: affiliation-prncdmbrvvsh
-      population: 1000
+      population: {actual: 1000}
       market: local
       notes: "A small fort town whose wardens ride the forest edge."
     - settlement: Brevekov
@@ -126,7 +126,7 @@ data:
       fortification: palisade
       stronghold: null
       holder: affiliation-prncdmbrvvsh
-      population: 600
+      population: {actual: 600}
       market: subsistence
       notes: "A village under the walls of a paid fort, with a bell and a signal fire on its hill."
     - settlement: Lervikov
@@ -136,7 +136,7 @@ data:
       fortification: palisade
       stronghold: null
       holder: affiliation-prncdmbrvvsh
-      population: 500
+      population: {actual: 500}
       market: subsistence
       notes: "A meadow village whose men take turns at the watch."
     - settlement: Torvikov
@@ -146,7 +146,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmbrvvsh
-      population: 400
+      population: {actual: 400}
       market: subsistence
       notes: "A border village that keeps aurochs and sells hides to the hunters."
   economy: []

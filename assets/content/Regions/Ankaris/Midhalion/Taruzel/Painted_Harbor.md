@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "Bazunel's waterfront at the head of its bay: merchant houses painted one color each from the waterline to the roof, open-air theaters climbing the slope between them, and card tables in every tavern."
 tags: [taruzel, port, district]
-data: {demonym: null, lore: [], parents: [bazunel2], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [bazunel2], population: {actual: 0}, packFolder: taruzel}
 ---
 
 ## Overview {#overview}

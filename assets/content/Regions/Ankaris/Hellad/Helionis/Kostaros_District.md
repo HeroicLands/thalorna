@@ -9,7 +9,7 @@ data:
   demonym: Kostaran
   lore: [humanflk]
   parents: [helionis]
-  population: null
+  population: {actual: null}
   packFolder: helionis
   government: kostaros2
 ---

@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "A fortress-barracks of Vithgard where sword-masters train warriors-for-hire from boyhood, under a regime built to strip away softness."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: vithgard}
+data: {demonym: null, lore: [], parents: [vithgard], population: {actual: 0}, packFolder: vithgard}
 ---
 
 ## Overview {#overview}

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [talothe]
-  population: 4500
+  population: {actual: 4500}
   market: local
   type: town
   routes:

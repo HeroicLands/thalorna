@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The chief city of the Tower League, sacked about 190 BF when the steppe was forced into its first great union: a ring wall and a dozen standing towers over ground that is a thin blood-field of recurrence, where hunters in half-material form kill any night of the year, and the road bends three days south round it."
 tags: []
-data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [hskrrgn]
+  population: {actual: 0}
+  packFolder: khazryndesert
 ---
 
 ## Overview {#overview}

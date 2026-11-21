@@ -16,7 +16,7 @@ data:
   routes:
     - {to: tantsouregin, bearing: W, mode: ship, days: 1, terrain: [open-sea]}
     - {to: jenchairgn, bearing: E, mode: ship, days: 1, terrain: [open-sea]}
-  population: null
+  population: {actual: null}
   packFolder: jenchai
   culture: jenchaiclt
 ---

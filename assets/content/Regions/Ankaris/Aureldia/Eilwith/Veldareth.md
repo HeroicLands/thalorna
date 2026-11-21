@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [eilwith]
   borders: [{to: ondareth, bearing: NW}, {to: hallowwood, bearing: E}]
-  population: 1500
+  population: {actual: 1500}
   market: regional
   type: town
   packFolder: eilwith

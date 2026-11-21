@@ -1,6 +1,6 @@
 ---
 shortcode: vlkvsh
-name: { full: Volkavesh }
+name: {full: Volkavesh}
 type: place
 subType: settlement
 description: "The palisaded muster town of the Tarvál Host, where its ataman sits and the caravans pay the toll."
@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [velanthrgn]
-  population: 3500
+  population: {actual: 3500}
   government: hsttrvl
   type: town
   fortification: palisade

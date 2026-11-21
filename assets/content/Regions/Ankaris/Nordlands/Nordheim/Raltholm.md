@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nordheim]
-  population: 700
+  population: {actual: 700}
   type: village
   market: local
   packFolder: nordheim

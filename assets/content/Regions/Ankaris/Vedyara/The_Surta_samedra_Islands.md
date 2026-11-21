@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [surtasamdra]
-  population: 240000
+  population: {actual: 240000}
   packFolder: vedyara
 ---
 

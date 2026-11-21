@@ -39,7 +39,7 @@ data:
       Keeper of the Granaries: >-
         Holds the temple's grain, the reserve the state draws on when the harvest falls short.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [thubaidty]
   parents: []

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nechakalkul]
-  population: 0
+  population: {actual: 0}
   government: kankul
   packFolder: kankul
 ---

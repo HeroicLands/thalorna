@@ -44,8 +44,8 @@ data:
       Dauzhwo: >-
         Great Lord of Wejai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Zuwu. Held by a Dauzhwo.
   seat: zuwu
-  population: 38000
-  territorial_population: 38000
+  population: {actual: 38000}
+  territorial_population: {actual: 38000}
   settlements:
     - settlement: Rewo
       polity: affiliation-wejaidmn
@@ -54,7 +54,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-wejaidmn
-      population: 220
+      population: {actual: 220}
       market: local
       notes: "Dawn Sea. Demesne. Fishing and whaling. Head village of a district assessed at 800 bales."
     - settlement: Wewo
@@ -64,7 +64,7 @@ data:
       fortification: null
       stronghold: null
       holder: "Cape shrine of the Minister of Storms"
-      population: 140
+      population: {actual: 140}
       market: local
       notes: "Wind Sea. Shrine land. Reef fishing and pilgrims. Head village of a district assessed at 500 bales."
     - settlement: Hanu
@@ -74,7 +74,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-jenchaiempr
-      population: 270
+      population: {actual: 270}
       market: local
       notes: "Dark Terraces. Court estate. Rice behind the dunes. Head village of a district assessed at 1,000 bales."
   economy: []

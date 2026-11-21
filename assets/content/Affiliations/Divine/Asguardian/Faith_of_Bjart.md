@@ -40,7 +40,7 @@ data:
       Dreamwarden: >-
         Keeper of the dream-rites and of those who sleep in the groves to receive them.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [bjarturdty]
   parents: [asguardian]

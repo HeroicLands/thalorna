@@ -44,8 +44,8 @@ data:
       Toll-Keeper: >-
         Collects what the caravans owe at the Host's toll posts on the eastern roads.
   seat: vlkvsh
-  population: null
-  territorial_population: 120000
+  population: {actual: null}
+  territorial_population: {actual: 120000}
   settlements:
     - settlement: Duvavesh
       polity: affiliation-hsttrvl
@@ -54,7 +54,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hsttrvl
-      population: 2500
+      population: {actual: 2500}
       market: local
       notes: "A horse-fair town on the eastern caravan road."
     - settlement: Dobrashov
@@ -64,7 +64,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hsttrvl
-      population: 700
+      population: {actual: 700}
       market: subsistence
       notes: "A village of horse-keepers beside a river well."
   economy: []

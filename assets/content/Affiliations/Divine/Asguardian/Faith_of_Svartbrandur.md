@@ -50,7 +50,7 @@ data:
       Hofsgudi: >-
         Keeper of a named forge-hov and its Fire-Weeks, its stores and its blet.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [svartbrandurdty]
   parents: [asguardian]

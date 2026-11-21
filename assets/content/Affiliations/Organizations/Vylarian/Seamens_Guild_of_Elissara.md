@@ -32,7 +32,7 @@ data:
       Marker: >-
         A Hand who pricks the guild's mark on a new hand's arm, and bars it through when the guild strikes a man.
   seat: aelissium
-  population: 3000
+  population: {actual: 3000}
   economy: [affiliation-tevran]
   lore: [humanflk]
   parents: [tevranaelissium]

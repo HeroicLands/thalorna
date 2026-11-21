@@ -9,7 +9,7 @@ data:
   demonym: Durvolkan
   lore: []
   parents: [galvaren]
-  population: 20000
+  population: {actual: 20000}
   type: town
   market: international
   routes: [{to: valthari, bearing: E, mode: ship, days: 3, terrain: [coast]}]

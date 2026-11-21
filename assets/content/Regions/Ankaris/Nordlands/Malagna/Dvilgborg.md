@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "A garrisoned stronghold of Malagna whose Master-at-Arms trains its recruits and runs its daily operations."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [malagna], population: 0, packFolder: malagna}
+data: {demonym: null, lore: [], parents: [malagna], population: {actual: 0}, packFolder: malagna}
 ---
 
 ## Overview {#overview}

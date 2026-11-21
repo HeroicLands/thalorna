@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The first royal hall of Targud, a burned shell on a rise above the ford at Dvulgvangur with the howes of four kings beside it, on the wrong side of the line since 613 AF; a king of Targud rides out to it once in his reign to pour the grave-ale at his forebears' howes."
 tags: [site, ruin, hall]
-data: {demonym: null, lore: [nordheimnclt], parents: [targud], population: 0, packFolder: targud}
+data:
+  demonym: null
+  lore: [nordheimnclt]
+  parents: [targud]
+  population: {actual: 0}
+  packFolder: targud
 ---
 
 ## Overview {#overview}

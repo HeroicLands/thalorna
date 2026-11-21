@@ -20,7 +20,7 @@ data:
   routes:
     - {to: garanlaghet, bearing: SE, mode: ship, days: 3, terrain: [open-sea]}
     - {to: bethura, bearing: SW, mode: ship, days: 3, terrain: [open-sea]}
-  population: 24000000
+  population: {actual: 24000000}
   packFolder: vylaria
   government: vylarinmpr
   culture: vylarianclt

@@ -43,7 +43,7 @@ data:
       Blesser of the Caravans: >-
         Sends out and receives the caravans on the eastern desert roads, the selat being their head.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [pelgundty]
   parents: [khelathpnthn]

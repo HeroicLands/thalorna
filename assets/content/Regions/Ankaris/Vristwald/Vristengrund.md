@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vethwald]
-  population: 0
+  population: {actual: 0}
   government: vrystwldvlgcncl
   packFolder: vrystwald
   notes: "A Deepwood village whose elders walked out rather than accept a chief, and to which the custom of splitting a village at five hundred is credited."

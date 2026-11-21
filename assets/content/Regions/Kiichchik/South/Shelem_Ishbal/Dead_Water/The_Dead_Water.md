@@ -5,7 +5,12 @@ type: place
 subType: region
 description: "The swamps of the waste's great rivers, south of the Sick Forest: reed, mud and fever, with things in the water that are neither snake nor lizard and a lake whose water is sweet."
 tags: [region, waste, swamp]
-data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, packFolder: xelemixbal}
+data:
+  demonym: null
+  lore: []
+  parents: [xelemixbalrgn]
+  population: {actual: null}
+  packFolder: xelemixbal
 
 # terran_analog: the Iberá wetlands and the lower Paraná with its delta.
 ---

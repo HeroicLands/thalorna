@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [tenlayaclt]
   parents: [wehioshtergn]
-  population: 2500
+  population: {actual: 2500}
   type: town
   market: local
   government: tenlaya

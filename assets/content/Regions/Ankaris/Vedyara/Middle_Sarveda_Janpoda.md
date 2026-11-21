@@ -61,8 +61,8 @@ data:
       Senoni: >-
         Captain of the militia, raised from the villages at the sabhra's call and dismissed when the need ends.
   seat: null
-  population: null
-  territorial_population: 4200
+  population: {actual: null}
+  territorial_population: {actual: 4200}
   economy: []
   lore: [vedyariclt]
   parents: [janpdsvdyr]

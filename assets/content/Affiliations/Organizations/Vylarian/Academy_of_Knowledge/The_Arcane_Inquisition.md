@@ -40,7 +40,7 @@ data:
       Warden of the Inner Keep: >-
         Held by a sekeros: charge of one of the Sekran's holding places, and the only key to it.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [ordoarcanis]

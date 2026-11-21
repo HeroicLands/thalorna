@@ -48,7 +48,7 @@ data:
       House of Healing: >-
         The infirmary the priesthood keeps, and the face the faith shows the sick.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [lizelasdty]
   parents: [arldnpnthn]

@@ -26,7 +26,7 @@ data:
           A senior priest of the temple, or a captain seated beside them.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [gewaatisdty]
   parents: []

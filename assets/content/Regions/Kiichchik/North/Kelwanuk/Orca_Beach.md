@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [kelwanukclt]
   parents: [yumisrgn]
-  population: 2400
+  population: {actual: 2400}
   type: village
   market: local
   government: kelwanuk

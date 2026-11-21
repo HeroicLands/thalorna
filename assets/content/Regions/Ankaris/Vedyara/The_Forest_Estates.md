@@ -63,8 +63,8 @@ data:
       Dutsa: >-
         The envoy the mother-temples send jointly to a patron court, to the Melka and to the coastal houses that buy the timber.
   seat: null
-  population: 2400000
-  territorial_population: 2400000
+  population: {actual: 2400000}
+  territorial_population: {actual: 2400000}
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]
   parents: []

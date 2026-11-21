@@ -9,7 +9,7 @@ data:
   demonym: Danurkot
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 30000
+  population: {actual: 30000}
   packFolder: vedyara
   government: dnrktjnpd
 

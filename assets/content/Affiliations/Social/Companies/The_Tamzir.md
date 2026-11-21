@@ -53,7 +53,7 @@ data:
       Physician: Keeper of the crew's sick and wounded.
   seat: null
   range: [vylarianse]
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

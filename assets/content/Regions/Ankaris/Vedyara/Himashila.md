@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]
-  population: null
+  population: {actual: null}
   packFolder: vedyara
   government: triyangasampradeya
 ---

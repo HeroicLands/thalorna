@@ -16,7 +16,7 @@ data:
     - {to: hallowwood, bearing: E}
     - {to: veldareth, bearing: SE}
     - {to: highwood, bearing: N}
-  population: 150000
+  population: {actual: 150000}
   packFolder: eilwith
   government: repblcndrth
 ---

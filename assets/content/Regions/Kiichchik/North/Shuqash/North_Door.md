@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [shuqashclt]
   parents: [shuqhalaqrgn]
-  population: 1200
+  population: {actual: 1200}
   type: town
   market: local
   government: shuqash

@@ -38,7 +38,7 @@ data:
       Rememberer: >-
         A Delegate of the Maple People who recites the compact's past agreements at the opening of each council; an agreement no Rememberer recites is held never to have been made.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

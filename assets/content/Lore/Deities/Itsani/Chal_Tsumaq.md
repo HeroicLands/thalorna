@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "The Itsani underworld beneath every sinkhole, cave and sacred spring—a labyrinth of chambers, trials and deceptions the soul must pass to be reborn."
 tags: []
-data: {demonym: null, lore: [], parents: [], population: 0, packFolder: settinglore}
+data: {demonym: null, lore: [], parents: [], population: {actual: 0}, packFolder: settinglore}
 ---
 
 ## Overview {#overview}

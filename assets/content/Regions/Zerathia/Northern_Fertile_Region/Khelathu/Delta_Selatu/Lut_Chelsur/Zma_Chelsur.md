@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [lutchelsrslt]
-  population: 9700
+  population: {actual: 9700}
   type: town
   market: regional
   packFolder: regkhsett

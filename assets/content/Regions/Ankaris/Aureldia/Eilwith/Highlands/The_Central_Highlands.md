@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [eilwith]
   borders: [{to: ondareth, bearing: W}, {to: thornwold, bearing: SE}]
-  population: 9000
+  population: {actual: 9000}
   packFolder: eilwith
 ---
 

@@ -72,8 +72,8 @@ data:
       Skipstjori: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: gnarthborg
-  population: 340000
-  territorial_population: 340000
+  population: {actual: 340000}
+  territorial_population: {actual: 340000}
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
   lore: [nordheimnclt]
   parents: []

@@ -38,7 +38,7 @@ data:
       Elder: Senior of a lineage, seated at the moot.
       War Captain: Leader of a raid, held by whoever the riders follow.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

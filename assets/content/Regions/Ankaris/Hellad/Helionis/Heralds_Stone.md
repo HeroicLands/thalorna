@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The stone on a ridge in the Helionite hills where the heralds of Pelagora, Thirenae and Kalidria exchanged the dead after the last battle of the War of the Harbors, which heralds touch before every war season and which two city-states place on different sides of the ridge."
 tags: [stone, herald, helionis, hellad]
-data: {demonym: null, lore: [], parents: [helionis], population: 0, packFolder: helionis}
+data: {demonym: null, lore: [], parents: [helionis], population: {actual: 0}, packFolder: helionis}
 ---
 
 ## Overview

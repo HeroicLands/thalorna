@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [foxttm]
   parents: [thornwald]
-  population: 360
+  population: {actual: 360}
   market: local
   type: village
   borders: [{to: thornhaven, bearing: E}]

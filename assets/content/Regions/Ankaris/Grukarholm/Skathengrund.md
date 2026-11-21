@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [grukarfolk]
   parents: [grkrhlmrgn]
-  population: 0
+  population: {actual: 0}
   packFolder: grukarholm
 ---
 

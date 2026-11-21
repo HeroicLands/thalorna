@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [iqeruselat]
-  population: 6900
+  population: {actual: 6900}
   type: town
   market: regional
   packFolder: regkhsett

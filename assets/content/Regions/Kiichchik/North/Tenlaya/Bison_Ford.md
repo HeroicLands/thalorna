@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [tenlayaclt]
   parents: [hesunshewanrgn]
-  population: 1500
+  population: {actual: 1500}
   type: village
   market: local
   government: tenlaya

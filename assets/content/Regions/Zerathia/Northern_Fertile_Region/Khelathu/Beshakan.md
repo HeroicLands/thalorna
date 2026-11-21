@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "Deserts holding ruins where the earliest astronomers of Au'Khelathu carved star maps into the stones."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [aukhelathrgq], population: 0, packFolder: regkhregn}
+data:
+  demonym: null
+  lore: []
+  parents: [aukhelathrgq]
+  population: {actual: 0}
+  packFolder: regkhregn
 ---
 
 ## Overview {#overview}

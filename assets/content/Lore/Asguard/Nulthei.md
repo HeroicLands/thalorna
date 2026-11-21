@@ -5,7 +5,12 @@ type: place
 subType: region
 description: "The great island region of Asguard where the unworthy dead pass, and where Nahild lets them diminish until nothing of them remains."
 tags: [asguardian]
-data: {demonym: null, lore: [], parents: [asguard], population: null, packFolder: settinglore}
+data:
+  demonym: null
+  lore: []
+  parents: [asguard]
+  population: {actual: null}
+  packFolder: settinglore
 ---
 
 In the Asguardian tradition, Nulthei is the great island of [[place-asguard|Asguard]], lying off the other three regions and reached across water. The name is built as a place name is built, from the ground and nothing else: _nulth-_, the last hour of a watch, in the deep grade the north keeps for what is oldest and furthest down, and the generic _-ei_, an island. What the word says is what the island does.

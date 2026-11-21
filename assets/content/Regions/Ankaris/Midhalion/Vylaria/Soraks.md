@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [alyssa]
-  population: 4000
+  population: {actual: 4000}
   market: local
   type: town
   government: provinclys

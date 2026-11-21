@@ -41,7 +41,7 @@ data:
         The eldest woman of a winter camp, who holds the valley and its herds while the men are north, and whose word there is the dovaq's.
       Shaman: Keeper of the storm rites and the wall-oath, who swears each new man to the wall at the first frost.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

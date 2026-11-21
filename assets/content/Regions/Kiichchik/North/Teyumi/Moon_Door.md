@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [teyumiclt]
   parents: [wahaulahuvorgn]
-  population: 300
+  population: {actual: 300}
   market: local
   type: village
   government: teyumi

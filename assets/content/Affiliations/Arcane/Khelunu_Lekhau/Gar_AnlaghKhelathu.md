@@ -43,7 +43,7 @@ data:
       Mender: >-
         Holds the healing forms, which the House shares—carefully, and in reduced versions—with the temples of Uzn'era.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [khelunulekha]
   parents: []

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [galezkaraslt]
-  population: 450000
+  population: {actual: 450000}
   type: metropolis
   market: international
   packFolder: regkhsett
