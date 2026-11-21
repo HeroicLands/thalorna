@@ -3,6 +3,7 @@ shortcode: tazithbrds
 name: {full: Tázitha Ibarides}
 type: being
 subType: npc
+description: "A charcoaler of Pelagora, one of few women in the trade, whose clean-burning charcoal supplies local forges and herbalists."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -431,17 +432,11 @@ Rival charcoalers think the trade should be left to men.
 
 ## Plot Hooks
 
-The Charcoaler's Dilemma
-: A forge offers to take all of Tázitha's charcoal at a good price, and the herbalists who depend on her would get none.
+Charcoal for the Shipyard Forges
+: The forges of [[place-pelagora2|Pelagora]] want her charcoal before the assembly votes the season's voyages. Tázitha can fill the order only by staying in the forest for weeks and burning more than she is comfortable guarding.
 
-Old Grudges
-: A rival charcoaler who thinks the trade should be left to men has been selling poor charcoal under her name to the forges.
+A Rival Burn in Her Stand
+: Rival charcoalers who think the trade belongs to men set a burn in the part of the hills she works. She wants to be judged by her charcoal, and the dispute is brought to town, where she avoids going.
 
-Echoes of the Past
-: The uncle who taught Tázitha the trade comes back to the forest, old and without work, and expects to take up the burning where he left it.
-
-Shifting Winds
-: Political change in Helionis threatens the forges Tázitha's charcoal supplies, and she can adapt, resist, or leave.
-
-The Opportunity
-: An herbalist offers Tázitha a partnership in remedies made with her charcoal, and it would mean leaving the forest for the town.
+The Herbalist's Remedy
+: A herbalist who uses her charcoal in remedies reports that a patient has fallen ill, and the blame is laid on the charcoal. Tázitha is reclusive, and she must leave the forest to defend a burn she knows to be clean.

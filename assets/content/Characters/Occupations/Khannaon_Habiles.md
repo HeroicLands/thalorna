@@ -3,6 +3,7 @@ shortcode: chananhbls
 name: {full: Khánnaon Habiles}
 type: being
 subType: npc
+description: "A Helionite timberwright of Thirenae with three decades of work in beams for houses, bridges and ships, who tells stories as well as he joins wood."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -436,17 +437,11 @@ Younger timberwrights who see his methods as outdated.
 
 ## Plot Hooks
 
-The Timberwright's Dilemma
-: Khánnaon faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+Scaffold at the Walled Gate
+: Antiquarians who visit the walled-up [[place-cmmssnrsgate|Commissioners' Gate]] in [[place-thyrenae2|Thirenae]] ask Khánnaon for a scaffold to examine the stonework. The colleges have refused every proposal to reopen the gate, and the timberwright must decide whether a scaffold is a visit or a first step.
 
-Old Grudges
-: Younger timberwrights who see his methods as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Guard Post in the Gorge
+: [[place-ghalirea|Ghalirea]], which sends copper and has hired its own guards against the marauders who wait in the gorge on its grain road, asks Khánnaon for timber for a guard post. The timber must be cut and raised where the marauders wait, and he is slower than he was.
 
-Echoes of the Past
-: Something from Khánnaon's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Khánnaon depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Khánnaon the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Seasoned Beams for the Library
+: The librarians of the [[place-thyrnelbrry|Library of Thirenae]] ask Khánnaon for beams to carry a new gallery for their manuscripts, and they will accept only seasoned timber. A seasoned beam cannot be had in a season, and he must choose between the slow wood he trusts and the green wood he can deliver.

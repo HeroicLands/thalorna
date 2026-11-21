@@ -3,6 +3,7 @@ shortcode: thrnlrkhld
 name: {full: Thornila ira Rikhild wur Thornhaven}
 type: being
 subType: npc
+description: "A priestess of Árdavon at Thornhaven who organizes help for the vulnerable at the landing and serves the few followers of the faith on the Velanthian frontier."
 tags: [draft, clergy]
 data:
   icon: icon-person
@@ -408,7 +409,7 @@ Born in [[place-thornhaven|Thornhaven]] to a [[lore-varokhiclt|Varokh]] family w
 
 Thornila is devoted to the teachings of Árdavon and often organizes help for the vulnerable at Thornhaven’s landing. Her certainty in her own judgment can make that help feel like a debt rather than a gift. She urges those who can fight to defend the weak, yet she struggles to listen when the people she helps tell her what they need.
 
-At thirty-five, she is known to the small circle of Árdavon worshippers along the Velanthian frontier.
+At thirty-one, she is known to the small circle of Árdavon worshippers along the Velanthian frontier.
 
 ## Psyche
 
@@ -440,17 +441,17 @@ Few; she is generally respected, but some view her as aloof.
 
 ## Plot Hooks
 
-The Priestess's Dilemma
-: A warrior Thornila counsels has harmed someone she promised to protect, and his kin expect her silence.
+Kin Who Expect Her Silence
+: A warrior Thornila counsels has harmed someone she promised to protect, and his kin expect her silence. She urges the strong to defend the weak, and she must decide whether to speak against one of them.
 
-Old Grudges
-: A household Thornila helped has not forgotten how she spoke to them, and says so at the landing.
+Words Spoken at the Landing
+: A household Thornila helped has not forgotten how she spoke to them and says so at the landing. Her help feels like a debt to those who receive it, and she is not good at listening to what they say they need.
 
-Echoes of the Past
-: A charitable work Thornila organized years ago is found to have done its poor more harm than good, and they remember whose it was.
+A Relief That Did Harm
+: A charitable work Thornila organized years ago is found to have done its poor more harm than good, and the village remembers whose it was. She can own the failure or defend her judgment.
 
-Shifting Winds
-: A feud with Velanthian kin makes Thornila’s foreign faith suspect in Thornhaven, and she can mediate, leave, or insist on staying.
+A Feud Over a Foreign Faith
+: A feud with Velanthian kin makes the faith Thornila serves suspect in Thornhaven. She can mediate, leave, or insist on staying, while the village's Shaman keeps the fox totem and its rites.
 
-The Opportunity
-: A Velanthian shrine offers Thornila a settled post, but taking it means leaving the few Thornhaven households who rely on her.
+A Shrine's Offer of a Settled Post
+: A Velanthian shrine offers Thornila a settled post. Taking it means leaving the few Thornhaven households who rely on her.

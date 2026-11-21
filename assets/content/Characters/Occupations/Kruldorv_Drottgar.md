@@ -3,6 +3,7 @@ shortcode: krldrvdrtgr
 name: {full: Kruldorv Drottgar}
 type: being
 subType: npc
+description: "An enslaved farmer of the Nalthmark frontier farms, born into slavery, strong and enduring, who has not accepted his overseers' authority."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -406,7 +407,7 @@ Kruldorv Drottgar is a 31-year-old man who stands 6'3" tall and is broad and sol
 
 Born in the [[place-nordheim|Nordheim]] region to an enslaved family of [[lore-nordheimnclt|Nordheimn]] heritage, Kruldorv Drottgar came into the world of the farmer through a combination of circumstance and aptitude.
 
-Kruldorv was born into slavery on a large estate, where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Kruldorv is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
+Kruldorv was born into slavery on a frontier farm of [[place-nalthmark|Nalthmark]], where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Kruldorv is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
 
 ## Psyche
 
@@ -440,17 +441,11 @@ Overseers who see him as a troublemaker.
 
 ## Plot Hooks
 
-The Farmer's Dilemma
-: Kruldorv faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+Behind the Palisade
+: When the plateau clans, or something worse, come down from the high country, the farmers of [[place-nalthmark|Nalthmark]] gather in the palisaded yard. Kruldorv is told to stand with them, and an owner who sees him only as property now relies on his strength.
 
-Old Grudges
-: Overseers who see him as a troublemaker. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Bad Season on the Mark
+: A bad season leaves the frontier farms weighing the harvest against whether the mark holds its line for another year. The overseers raise the work quota on the fields, and Kruldorv, who struggles to accept authority, is the one who says it cannot be met.
 
-Echoes of the Past
-: Something from Kruldorv's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Nordheim threaten to upend the social order that Kruldorv depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Kruldorv the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Settled by Custom
+: An overseer charges Kruldorv with striking him, and [[place-nalthmark|Nalthmark]] settles the charge by custom before the [[lore-hersvaldrnk|hersvald]] hears of it. A neighbor who saw the quarrel can speak for him, but only at the cost of crossing the farm's owner.

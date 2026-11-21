@@ -3,6 +3,7 @@ shortcode: knrvthnhfrngr
 name: {full: Knurvthann Hafringur}
 type: being
 subType: npc
+description: "A veteran Nordheimn longshoreman known for his knowledge of loading and safety rules and for mentoring younger workers."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -402,7 +403,7 @@ Knurvthann Hafringur is a 40-year-old man who stands 6'0" tall and is broad and 
 
 Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Knurvthann Hafringur came into the world of the longshoreman through a combination of circumstance and aptitude.
 
-Knurvthann is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety rules. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
+Knurvthann is a veteran longshoreman with over twenty years of experience in loading work. He has seen the trade change and is known for his knowledge of loading practices and safety rules. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 
 ## Psyche
 
@@ -436,17 +437,11 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-The Longshoreman's Dilemma
-: Knurvthann faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+Crates for the Altar-Field
+: Carters bring crates marked for the priestesses of [[place-horgsvangur|Horgsvangur]] to the edge of the settlement, and the younger workers refuse to carry them in. Nothing is said outside the settlement of what the priestesses sacrifice, the younger hands whisper of blood offerings, and the carters want the crates delivered before dark. Knurvthann, whom the workers follow, must order the lift or carry the crates himself.
 
-Old Grudges
-: Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Young Hand Under a Load
+: A patron wants a load moved in a day and sets a younger worker to a lift the safety rules forbid. Knurvthann is protective of the young and resists change, and the rule and the patron cannot both stand.
 
-Echoes of the Past
-: Something from Knurvthann's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Nordheim threaten to upend the social order that Knurvthann depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Knurvthann the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Dispute Called to Him
+: Two merchants each say the other's goods were loaded first, and both ask Knurvthann to rule. He is called to settle such disputes, and a ruling for either will cost him a patron.

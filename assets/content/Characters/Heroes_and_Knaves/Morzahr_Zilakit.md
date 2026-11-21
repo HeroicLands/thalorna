@@ -3,6 +3,7 @@ shortcode: morzhrxylkt
 name: {full: Morzáhr Zilakit, given: Morzáhr, clan: Zilakit}
 type: being
 subType: character
+description: "A timberwright of Selímara who broke with his family's timber business to steward old forest, and whose marked timber outlasts ordinary wood."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -542,17 +543,21 @@ The Timberwrights' Guild
 
 ## Plot Hooks
 
-The Ancient Wood of [Akkrath]{.name data-type="place"}
-: A caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a weapon or construct an artifact of power. Morzáhr is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with temptation.
+Beams for the Castellan's Walls
+: Master Castellan Atashikon, who values Morzáhr's timber for fortification work and shipbuilding, orders more beams than the old forest can give without felling past what Morzáhr will cut. He keeps his contracts exactly, and he refuses work on principle even when the Castellan is his protector.
 
-The Guild's Conspiracy
-: Word reaches Morzáhr that Guild Master Frolázira is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Frolázira's corruption, or help Morzáhr arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Bizarian League.
+A Bounty Threatened by Guild Master Frolázira
+: A major building project fails, and Guild Master Frolázira moves to declare Morzáhr an enemy of the Timberwrights' Guild and to set a bounty on him for sabotaging it. Morzáhr keeps his contracts exactly and can show that he did, but the guild's ledger says otherwise.
 
-The Silent Partnership
-: A mysterious benefactor offers Morzáhr a contract: harvest and deliver timber for a secret construction project deep in the borderlands, pay beyond anything he has ever received, and absolute confidentiality required. As the party works with him on the project, they gradually discover that they are constructing a sanctuary for refugees fleeing political persecution—and that Morzáhr has become unwittingly part of a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
+A Contract with No Name Attached
+: A benefactor who gives no name offers Morzáhr a contract to harvest and deliver timber for a construction deep in the borderlands, at pay beyond anything he has had, on condition of absolute confidentiality.
 
-The Brother's Redemption
-: After nearly two decades of estrangement, one of Morzáhr's brothers—broken by business failure and family scandal—appears at his workshop seeking reconciliation and asking to apprentice under him. The party becomes tangled in family drama as they work to restore both the brother's competence and their fractured relationship, while guild enemies move to exploit this vulnerability and sever the family bonds entirely.
+A Brother Asks to Apprentice
+: After nearly two decades of estrangement, one of Morzáhr's brothers, pushed out of the family enterprise, appears at his workshop and asks to apprentice under him. Morzáhr trusts few enough to work beside him, and the family crews still cut at the edge of his forest.
 
-The Forest's Heart
-: Morzáhr discovers that the ancient forest he has stewarded is home to a dormant spirit or fey entity whose essence is bound into the oldest trees. The entity is dying because of logging operations at the forest's edge (carried out by his own family), and its death will corrupt the entire woodland. He must rally unlikely allies, including perhaps members of the party, to simultaneously protect the forest from destruction and cure the spirit's affliction—a task requiring both direct action and the kind of diplomacy Morzáhr is least equipped to provide.
+Family Crews at the Forest's Edge
+: A crew of the Zilakit family cuts at the edge of the old forest Morzáhr stewards, and the felling opens a road into the oldest trees. He can stop them only by crossing the brothers he broke with, and he trusts few enough to work alongside him.
+
+:::secret {title="The builder's purpose"}
+The benefactor's construction is a sanctuary for refugees fleeing political persecution, and the contract draws Morzáhr unwittingly into a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
+:::

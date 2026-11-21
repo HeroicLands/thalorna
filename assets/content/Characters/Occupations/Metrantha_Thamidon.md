@@ -3,6 +3,7 @@ shortcode: mtrnthmdn
 name: {full: Métrantha Thamidon}
 type: being
 subType: npc
+description: "A Helionite miner of Athenikos who leads teams of miners, advocates for better conditions and takes quality stones from the rock."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -438,17 +439,11 @@ Few; respected but occasionally faces skepticism from traditionalists.
 
 ## Plot Hooks
 
-The Miner's Dilemma
-: Métrantha faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
+The Searched Diggers
+: The assembly of [[place-athenikos2|Athenikos]] hires Métrantha's team to cut a new adit at [[place-rakiria|Rakiria]]. The wall-warden there means to search her miners at the gate like his own diggers, and the oath he asks them to swear would bind them to the town for the season.
 
-Old Grudges
-: Few; respected but occasionally faces skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Foreman Over Her Team
+: A mining company puts a man over Métrantha's team on the argument that a woman cannot hold it. She takes on too much responsibility already, and she can accept his orders or lose the company as a patron.
 
-Echoes of the Past
-: Something from Métrantha's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Métrantha depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Métrantha the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+A Jeweler's Standing Order
+: A jeweler wants a steady supply of quality stones and asks Métrantha for a season's output. Her team is short-handed, and a missed delivery would feed the skepticism of the traditionalists.

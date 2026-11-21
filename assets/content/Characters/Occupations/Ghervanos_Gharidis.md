@@ -3,6 +3,7 @@ shortcode: ghrvnsghrds
 name: {full: Ghérvanos Gharidís}
 type: being
 subType: npc
+description: "A hideworker of Pelagora who tans the tough hides of large animals into armor and heavy bags for local warriors and merchants."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -437,17 +438,11 @@ Few; his peers respect him, but some younger craftsmen see him as old-fashioned.
 
 ## Plot Hooks
 
-The Hideworker's Dilemma
-: A merchant offers Ghérvanos a large order on condition that he use a quicker tanning method he does not trust.
+Hides for the Militia
+: The assembly of [[place-pelagora2|Pelagora]] votes a season's voyages, and every citizen is expected to serve in the fleet or the militia. The warriors who call up ask Ghérvanos for armor sooner than his tanning allows.
 
-Old Grudges
-: A younger craftsman who calls Ghérvanos old-fashioned begins taking his customers with cheaper, faster work.
+Bags for a Voyage Before the Vote
+: A merchant orders heavy bags for ore that the fleet will carry across the sea, before the assembly has voted the voyage. Ghérvanos can make them in time or wait for the vote, and the vote may come after the bags are paid for.
 
-Echoes of the Past
-: A suit of armor Ghérvanos made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
-
-Shifting Winds
-: Political change in Helionis threatens the trade Ghérvanos depends upon, and he can adapt, resist, or leave.
-
-The Opportunity
-: Ghérvanos is offered the leatherwork for a whole company of warriors, and its price is not named up front.
+Hides Left on the Quay
+: A cargo of large-animal hides bought up the coast is held on the quay when the assembly votes the fleet's galleys to a voyage and the cargo space goes to the fleet. Ghérvanos has armor orders waiting on those hides, and the voyage is not a short one.
