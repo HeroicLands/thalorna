@@ -54,9 +54,9 @@ Krodogor Brevogorich is a 52-year-old man who stands 6'1" tall and is of medium 
 
 # Dossier {#dossier}
 
-**Age 52. Prince of Brevavesh. Wants the forts fed, the wardens paid on time and no bargain with a Grukar nest.**
+**Age 52. Prince of [[place-brvvsh|Brevavesh]]. Wants the forts fed, the wardens paid on time and no bargain with a Grukar nest.**
 
-Krodogor Brevogorich holds the forts on the edge of the Grukar country by descent and lives in the upper hall of the fort at [[place-brvvsh|Brevavesh]], not in a house of his own. He appoints every warden and sees the rolls each quarter, when the port's silver arrives.
+Krodogor Brevogorich holds the forts on the edge of the Grukar country by descent and lives in the upper hall of the fort at Brevavesh, not in a house of his own. He appoints every warden and sees the rolls each quarter, when the port's silver arrives.
 
 ## Background
 

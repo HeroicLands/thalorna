@@ -54,9 +54,9 @@ Torvik Mevranich is a 45-year-old man who stands 5'9" tall and is of medium buil
 
 # Dossier {#dossier}
 
-**Age 45. Port-Warden of Brelavesh. Wants every house's toll to match its cargo ledger.**
+**Age 45. Port-Warden of [[place-brlvsh|Brelavesh]]. Wants every house's toll to match its cargo ledger.**
 
-Torvik Mevranich keeps the landings and the order of the quays of [[place-brlvsh|Brelavesh]] through the tally-clerks who meet every boat. He audits the sums the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] pay in tolls, which the houses resent.
+Torvik Mevranich keeps the landings and the order of the quays of Brelavesh through the tally-clerks who meet every boat. He audits the sums the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] pay in tolls, which the houses resent.
 
 :::secret {title="The short sums"}
 Two houses are short by the same fraction every quarter, which means they share a false ledger. Torvik has told no one, because the prince would raise the toll on every house, and a raised toll ends his audit's quiet.

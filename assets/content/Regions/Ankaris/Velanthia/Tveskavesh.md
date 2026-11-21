@@ -33,7 +33,7 @@ Tveskavesh lives by the change of teams. A wagon that comes up from the lowlands
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The prince of Zhitavesh holds the town through its reeve, [[being-tvsknsdrgrch|Tveskana Sedrogorich]], who keeps the toll on every wagon that goes through the south gate and the order of the stables, and who answers to the captain of the retinue at the seat. The wall is held by a small detachment of the retinue. The pass roads above the town are patrolled by the riders of the [[affiliation-hstsvrt|Sevret Host]], whose muster town, [[place-tvsknv|Tveskanov]], lies close under the range, and the Host's riders take the toll at the upper pass if the prince's pay is late. The customary law of the market is simple: a bargain struck in the square is binding until the wagon has crossed the south gate.
+The prince of Zhitavesh holds the town through its reeve, [[being-tvsknsdrgrch|Tveskana Sedrogorich]], who keeps the toll on every wagon that goes through the south gate and the order of the stables, and who answers to the captain of the retinue at the seat. The wall is held by a small detachment of the retinue, and [[being-mvrshzhtgrch|Mevrash Zhitogorich]], a factor of the port houses, sits on a bench by the south gate and counts the wagons. The pass roads above the town are patrolled by the riders of the [[affiliation-hstsvrt|Sevret Host]], whose muster town, [[place-tvsknv|Tveskanov]], lies close under the range, and the Host's riders take the toll at the upper pass if the prince's pay is late. The customary law of the market is simple: a bargain struck in the square is binding until the wagon has crossed the south gate.
 
 ## The Present {#present}
 
@@ -66,6 +66,9 @@ The town grew from a stable at the foot of the range where the drovers' escorts 
 
 [[place-tvsknv|Tveskanov]]
 : the Host's muster town under the range
+
+[[being-mvrshzhtgrch|Mevrash Zhitogorich]]
+: the port houses' agent at the south gate
 
 [[place-velanthrgn|Velanthia Region]]
 : the land

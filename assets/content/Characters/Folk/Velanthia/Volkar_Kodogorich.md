@@ -62,9 +62,9 @@ Volkar Kodogorich is a 47-year-old man who stands 6'0" tall and is of medium bui
 
 # Dossier {#dossier}
 
-**Age 47. Ataman of the Tarvál Host. Wants autonomy, the Host's pay and the right to what the roads yield.**
+**Age 47. Ataman of the [[affiliation-hsttrvl|Tarvál Host]]. Wants autonomy, the Host's pay and the right to what the roads yield.**
 
-Volkar Kodogorich commands the riders of the [[affiliation-hsttrvl|Tarvál Host]], presides at its council of clan heads and speaks for it to the prince of [[place-brlvsh|Brelavesh]], whom the Host serves for pay. He lives at [[place-vlkvsh|Volkavesh]] and carries the battle-shrine to the gathering ground.
+Volkar Kodogorich commands the riders of the Tarvál Host, presides at its council of clan heads and speaks for it to the prince of [[place-brlvsh|Brelavesh]], whom the Host serves for pay. He lives at [[place-vlkvsh|Volkavesh]] and carries the battle-shrine to the gathering ground.
 
 :::secret {title="Two offers"}
 Volkar holds a written promise from [[being-mlgryrgrch|Milogor Yarogorich]] of a fixed share of the caravan toll, and a larger standing offer from a steppe tribe that shares his roads. He has answered neither, and he will take the one that is larger on the day the pay falls late.
