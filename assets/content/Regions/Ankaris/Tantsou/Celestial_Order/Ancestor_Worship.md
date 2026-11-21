@@ -45,7 +45,7 @@ What unsettles visitors most is that **the dead give orders**. Through a Leigen,
 
 The Leigen (spirit masters) arise in the [[lore-nouwen|Nouwen]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yaiwo healers of the [[lore-tsaihuo|Tsaihwo]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
 
-A Leigen is a peasant by caste, and every caste respects him. Speaking with the dead, he speaks with heaven, and that gives him an authority caste cannot measure. Warlords and even [[lore-zhazho|Zhazho]] consult Leigen on hard spiritual questions, always in private, since to acknowledge a peasant's authority openly would break caste.
+A Leigen is a peasant by caste, and every caste respects him. Speaking with the dead, he speaks with heaven, and that gives him an authority caste cannot measure. Princes and even [[lore-zhazho|Zhazho]] consult Leigen on hard spiritual questions, always in private, since to acknowledge a peasant's authority openly would break caste.
 
 ## The Elder Dead
 

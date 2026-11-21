@@ -31,7 +31,7 @@ The naming of these powers troubles the [[lore-tanchei|Tanchei]]. To give an unc
 
 The Infernal Realms are one of the strongest arguments for the empire's rigid order. Only a perfectly kept classification can hold off the Unclassified, the argument runs; every breach of caste, every rite done badly, every failure of administration opens a small gap in the sorting, and the Hwenlei seeps through. Seen this way, the empire's harshness is a quarantine on the cosmos.
 
-The Warlords of the [[lore-zhazho|Zhazho]] are the empire's first defense against an incursion, with their armies and the [[lore-wanduo|Wandwo]] sorcerers behind them. The Tanchei watch the records for signs that the classification is failing. The Wandwo turn their magic directly on the unclassified, trying to force-classify them: to bind them with seals, file them and so impose an order on beings that have none.
+The Princes of the [[lore-zhazho|Zhazho]] are the empire's first defense against an incursion, with their armies and the [[lore-wanduo|Wandwo]] sorcerers behind them. The Tanchei watch the records for signs that the classification is failing. The Wandwo turn their magic directly on the unclassified, trying to force-classify them: to bind them with seals, file them and so impose an order on beings that have none.
 
 Whether the threat is as near as the ruling castes say, or swollen to justify their power, is a question a few people ask, and only in private. The empire's growing troubles—plague, war on its borders, whispers that the [[lore-mandatehvn|Mandate of Heaven]] is failing—may mean the classification is truly fraying, or may be the ordinary friction of a vast administration straining under its own weight. A great deal turns on which, and the Tanchei are divided.
 

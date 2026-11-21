@@ -7,17 +7,17 @@ description: "The second caste of Tantsou—sorcerers claimed from every caste a
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-Every child in [[affiliation-tantsouempr|Tantsou]] is tested at ten, and the ones who show the gift do not go home. They become Wandwo, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zhazho|Zhazho]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Wandwo counselor sits at a Warlord's elbow and a Wandwo artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Tantsou see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.
+Every child in [[affiliation-tantsouempr|Tantsou]] is tested at ten, and the ones who show the gift do not go home. They become Wandwo, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zhazho|Zhazho]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Wandwo counselor sits at a Prince's elbow and a Wandwo artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Zhazho revere them and prize them as they would a treasured pet, and pamper them in their compounds, and they are wholly unfree: above the other castes in some ways and slaves in others. The Tantsou see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.
 
 ## The Testing
 
 The test comes in a child's tenth year, in every village and every quarter, whatever the caste of the family. A child who shows the inclination is claimed the same season, entered in the registry as Wandwo and taken to the sorcerers' compound of the house that will own it. It does not see its birth family again, and the family is forbidden to seek it.
 
-The test cuts the other way too. A child born in the compounds to Wandwo parents who shows too little of the gift has no family outside to return to, so it is given to a [[lore-nouwen|Nouwen]] village and raised there as the village's own.
+The test cuts the other way too. Most children born in the compounds to Wandwo parents do not have the gift. They are prized all the same, and the Zhazho give them in adoption to another caste, usually that of a prized or honored vassal of the house. To be given a Wandwo child is a great honor, and an adopted child takes the caste of its adoptive parents for good.
 
 ## What the Sorcerers Do
 
-**Counsel.** A Wandwo counselor advises the Emperor or a Warlord on magic, on war and on the spiritual health of the province. In practice the great sorcerers of the empire stand at the center of its decisions, and the Zhazho govern through a triad of their own authority, their Warlords and their Wandwo.
+**Counsel.** A Wandwo counselor advises the Emperor or a Prince on magic, on war and on the spiritual health of the province. In practice the great sorcerers of the empire stand at the center of its decisions, and the Zhazho govern through a triad of their own authority, their Princes and their Wandwo.
 
 **Artifice.** Wandwo artificers make the empire's enchanted arms and instruments, imbued with the elemental energies: blades that keep their edge through bone, banners that turn arrows, lamps that do not gutter in a storm. No other craftsman can copy them, and each one is entered in the registry as a possession of the house that commissioned it.
 
@@ -56,7 +56,7 @@ No property
 
 ## Sorcerers in Rebellion
 
-A Warlord who rises against the throne brings his Wandwo with him, because they are his. The registry remembers rebellions in which a provincial lord's fire and earth sorcerers, his wielders of air and his binders of spirits held an imperial army at a river for a whole season. Every Emperor since has watched how many sorcerers each Warlord keeps, and the right to claim a promising child is jealously contested between the throne and the provinces.
+A Prince who rises against the throne brings his Wandwo with him, because they are his. The registry remembers rebellions in which a provincial lord's fire and earth sorcerers, his wielders of air and his binders of spirits held an imperial army at a river for a whole season. Every Emperor since has watched how many sorcerers each Prince keeps, and the right to claim a promising child is jealously contested between the throne and the provinces.
 
 ## The Elder Races
 
@@ -74,7 +74,7 @@ No member of the [[lore-flksenali|Senali Folk]] or the [[lore-flkkhazar|Khazár 
 : the warrior nobility, the caste below
 
 [[lore-nouwen|Nouwen]]
-: the farmers who raise the children the testing does not keep
+: the farmers, laborers and village healers of the sixth caste
 
 [[lore-tseising|Law and Honor]]
 : the penalties that enforce the monopoly

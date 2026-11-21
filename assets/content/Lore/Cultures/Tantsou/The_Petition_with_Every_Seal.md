@@ -135,7 +135,7 @@ Now. The Tui house is still in the valley below Tengmou. You can walk past it. T
 
 And they tell him: send it back.
 
-That is why the temple clerk in Tengmou will not take your paper until you have told him the bureau, and why the scribes at the gate charge double in a White Ape year, and why nobody in this valley, not a child and not a Warlord, writes _not this office_ on anything.
+That is why the temple clerk in Tengmou will not take your paper until you have told him the bureau, and why the scribes at the gate charge double in a White Ape year, and why nobody in this valley, not a child and not a Prince, writes _not this office_ on anything.
 
 Look at the lantern. It is still lit. Good. That is the end.
 

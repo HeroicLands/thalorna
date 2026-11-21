@@ -64,7 +64,7 @@ Shouyou - "Month of Water"
 : Mid-Autumn. Communication and transmission. The wind carries spirit documents between the mortal and celestial planes, and this month is when the celestial administration's annual directives are believed to arrive. The Tanchei spend this month in intense divination, reading omens to interpret the year's incoming celestial dispatches. The season of introspection begins.
 
 [Youjwi]{.name data-type="lore/calendar"} - "Month of the Moon"
-: Late Autumn. The Minister of the Moon ([[lore-youweidty|Youbwi]]) is ascendant. The boundary between Sorted and Unsorted loosens as Ha flow strengthens with the lengthening nights. This is the month of prophecy, dreams, and night-counsel—when the [Bureau of Night Counsel]{.name data-type="affiliation"} (Mei Sei) is most active and the veil between the mortal and spirit worlds is thinnest. Divination is most reliable during Youjwi, but so is the risk of [Hwenlei]{.name data-type="lore/cosmology"} seepage.
+: Late Autumn. [[lore-youweidty|Youbwi]], the Keeper of the Jade Seal, is ascendant in her lunar aspect. The boundary between Sorted and Unsorted loosens as Ha flow strengthens with the lengthening nights. This is the month of prophecy, dreams, and night-counsel—when the [Bureau of Night Counsel]{.name data-type="affiliation"} (Mei Sei) is most active and the veil between the mortal and spirit worlds is thinnest. Divination is most reliable during Youjwi, but so is the risk of [Hwenlei]{.name data-type="lore/cosmology"} seepage.
 
 [Chyauyou]{.name data-type="lore/calendar"} - "Month of Winter"
 : Early Winter. Contraction and conservation. The classification system draws inward, strengthening its core boundaries as the external world grows cold and still. Resources are conserved, spiritual reserves are hoarded, and families begin preparing their offerings for the great mid-winter settlement with the dead.
@@ -174,7 +174,7 @@ Time
 : First day of Jwiyou (new year, transition from winter to spring)
 
 Castes Involved
-: Zhazho (Emperor and Warlords lead the audit), Tanchei (process divinations and verify the cosmic accounts), Wandwo (perform the magical workings that formally open the new filing cycle), Nouwen (community participation registers the population's collective Lei)
+: Zhazho (Emperor and Princes lead the audit), Tanchei (process divinations and verify the cosmic accounts), Wandwo (perform the magical workings that formally open the new filing cycle), Nouwen (community participation registers the population's collective Lei)
 
 ## Festival of the Five Elements (Chi Tsai Jwi)
 
@@ -189,7 +189,7 @@ Held at the height of summer in Houyou, this is the mid-year reconciliation, whe
 
 ## Moon Festival (You Jwi)
 
-Celebrated during Youjwi in late autumn, when the Minister of the Moon's jurisdiction is strongest and the boundary between Sorted and Unsorted is thinnest. The festival has two purposes: to receive heaven's yearly dispatches, read through prophecy and divination, and to strengthen the boundary the rising Ha flow is wearing thin. The lanterns are lit as points of Leng, the bright flow, to shore up that boundary, and they are lovely as well. Offerings to Youbwi request that her bureau maintain classification integrity through the dangerous winter months.
+Celebrated during Youjwi in late autumn, when the lunar aspect of Youbwi, Keeper of the Jade Seal, is strongest and the boundary between Sorted and Unsorted is thinnest. The festival has two purposes: to receive heaven's yearly dispatches, read through prophecy and divination, and to strengthen the boundary the rising Ha flow is wearing thin. The lanterns are lit as points of Leng, the bright flow, to shore up that boundary, and they are lovely as well. Offerings to Youbwi request that she keep the classification whole through the dangerous winter months.
 
 ## Festival of the Dead (Singlei Jwi)
 

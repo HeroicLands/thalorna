@@ -5,7 +5,7 @@ name:
   tant: [Chyau Chai Tui Sen Kwo Chou]
 type: lore
 subType: literature
-description: "The last record a Wohou administrator of the Jenshou district wrote before Tseising, when his Warlord ordered the village of Rinnou entered whole as Nwitsou and its tablets broken: his account of himself and of his name, the order quoted entire, the nine readings and the Tanchei's answer, the shelves of Rinnou counted, the question of jurisdiction he set out instead of a refusal, his dispositions, and the one request the Warlord granted."
+description: "The last record a Wohou administrator of the Jenshou district wrote before Tseising, when his Prince ordered the village of Rinnou entered whole as Nwitsou and its tablets broken: his account of himself and of his name, the order quoted entire, the nine readings and the Tanchei's answer, the shelves of Rinnou counted, the question of jurisdiction he set out instead of a refusal, his dispositions, and the one request the Prince granted."
 tags: [draft, tantsou]
 data:
   culture: tantsouclt
@@ -27,9 +27,9 @@ data:
 # terran_analog: "The Songs of Chu and the loyal minister's lament before his death; Sima Qian's letter on why he chose the knife over death; the remonstrance memorials of officials who protested an order by dying; the last poems written before ritual suicide. Departs: the record never says no, never names its own feeling, and argues entirely from jurisdiction."
 ---
 
-**The Last Record of Iron Gate of the Winter Mountain** is a _Kwo Chou_, the last record a person of rank writes before [[lore-tseising|Tseising]]. A last record is a testament and a filing at once: it is burned after the rite, so that the smoke carries the dead man's final account to the [[affiliation-wansouzhuo|Ministry of Final Account]], and copies of it go where the writer directs. Its author was [Second Son of the Gate Warden of the Gwo Clan]{.name data-type="being/npc"}, near the provincial seat, a [[lore-wohou|Wohou]] officer granted the name [Chyau Chai Tui Sen]{.name data-type="being/npc"}, "Iron Gate of the Winter Mountain", and in the year of the record the administrator of the district of [[lore-annaljenshou|Jenshou]], holding its revenue, its courts and its corvée for the Warlord of the province.
+**The Last Record of Iron Gate of the Winter Mountain** is a _Kwo Chou_, the last record a person of rank writes before [[lore-tseising|Tseising]]. A last record is a testament and a filing at once: it is burned after the rite, so that the smoke carries the dead man's final account to the [[affiliation-wansouzhuo|Ministry of Final Account]], and copies of it go where the writer directs. Its author was [Second Son of the Gate Warden of the Gwo Clan]{.name data-type="being/npc"}, near the provincial seat, a [[lore-wohou|Wohou]] officer granted the name [Chyau Chai Tui Sen]{.name data-type="being/npc"}, "Iron Gate of the Winter Mountain", and in the year of the record the administrator of the district of [[lore-annaljenshou|Jenshou]], holding its revenue, its courts and its corvée for the Prince of the province.
 
-His Warlord, of the [[lore-zhazho|Zhazho]], had ordered that [Rinnou]{.name data-type="place/settlement"}, "Red Field", a terrace village of the district, be entered whole as [[lore-noutsou|Nwitsou]], because its headman had been convicted of harboring an unbound sorcerer, and that the tablets on its shrines be broken. Iron Gate wrote the record and took his own life in the protest form, which lays a permanent debit on the ledger of the one who provoked it and on his house after him. Rinnou was entered as Nwitsou in the spring all the same, by the officer sent to take his place. The Warlord granted the one thing the record asked of him, and the tablets of Rinnou were carried unbroken to the district hall at Jenshou, where they are fed beside the tablets the old flood left with no heir.
+His Prince, of the [[lore-zhazho|Zhazho]], had ordered that [Rinnou]{.name data-type="place/settlement"}, "Red Field", a terrace village of the district, be entered whole as [[lore-noutsou|Nwitsou]], because its headman had been convicted of harboring an unbound sorcerer, and that the tablets on its shrines be broken. Iron Gate wrote the record and took his own life in the protest form, which lays a permanent debit on the ledger of the one who provoked it and on his house after him. Rinnou was entered as Nwitsou in the spring all the same, by the officer sent to take his place. The Prince granted the one thing the record asked of him, and the tablets of Rinnou were carried unbroken to the district hall at Jenshou, where they are fed beside the tablets the old flood left with no heir.
 
 The copy he sent to the hall of his clan is the one the schools hold. Wohou youths copy it in their writing lessons, and the Tanchei set it beside [[lore-annaljenshou|the Annal of Jenshou]] as the model of a document that says what it means without once saying it. The rendering keeps its headings, which are the headings a last record has.
 
@@ -43,7 +43,7 @@ To the Ministry of Final Account, by the smoke.
 
 A copy to the hall of the Gwo Clan at the provincial seat.
 
-A copy to my lord the Warlord of the province, who is owed one, and to whom this record is addressed in every part but the first.
+A copy to my lord the Prince of the province, who is owed one, and to whom this record is addressed in every part but the first.
 
 ## Who Writes
 
@@ -65,7 +65,7 @@ The order is correctly written, correctly sealed and correctly addressed. The co
 
 ## The Readings
 
-I read the order nine times, on nine days, because nine is the count for a matter of the throne's authority, and a Warlord's order carries a part of it.
+I read the order nine times, on nine days, because nine is the count for a matter of the throne's authority, and a Prince's order carries a part of it.
 
 On the second day I went to the district Tanchei and asked for a reading on the question of jurisdiction. I put the question so: the persons of Rinnou are under the court of my lord, and he may enter them where he judges; the dead of Rinnou, whose tablets stand on the shrines, have been read by the Ministry of Final Account and posted, and are officials of heaven at their posts; under which article of the Teng Lou does a mortal court break the address of an official of heaven?
 

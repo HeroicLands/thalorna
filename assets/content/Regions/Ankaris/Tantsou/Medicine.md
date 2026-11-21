@@ -38,7 +38,7 @@ The _Zhayai_ (life-givers) are the physicians, who diagnose and prescribe. They 
 - **Burning**, the heat of a smoldering herb laid on the skin to give the Fire domain to a weakened part.
 - **Cupping**, which draws out Lei that has pooled in the wrong domain.
 
-A Zhayai is valued above all for knowing the channels that carry Lei between the body's domains, and how a disturbance in one runs on into the next. The best of them serve noble households as physicians to the Warlords and their families. The highest are called to the Emperor and the [[lore-zhazho|Zhazho]], where the stakes are greatest: sickness in the imperial family is read as a sign that the empire's own classification may be failing.
+A Zhayai is valued above all for knowing the channels that carry Lei between the body's domains, and how a disturbance in one runs on into the next. The best of them serve noble households as physicians to the Princes and their families. The highest are called to the Emperor and the [[lore-zhazho|Zhazho]], where the stakes are greatest: sickness in the imperial family is read as a sign that the empire's own classification may be failing.
 
 ## When the Cause Is a Spirit
 
@@ -46,7 +46,7 @@ Some sickness comes from the spirit side. An ancestor withdraws his advocacy, a 
 
 ## Public Health
 
-The Yaiwo answer for the health of whole communities: clean water, the quarantine and treatment of epidemics, and a watch on the health of every district. They work under the Warlords, and a Warlord counts his people's health as a measure of his own government, since a province swept by plague is a province whose classification is failing, and the court reads it so.
+The Yaiwo answer for the health of whole communities: clean water, the quarantine and treatment of epidemics, and a watch on the health of every district. They work under the Princes, and a Prince counts his people's health as a measure of his own government, since a province swept by plague is a province whose classification is failing, and the court reads it so.
 
 When an epidemic strikes, the Tanchei are called to say whether it has a cosmic cause: the displeasure of a bureau, a breach in the boundary between the sorted world and the [Hwenlei]{.name data-type="lore/cosmology"}, or a failure in the district's spiritual upkeep. The response then joins all three: the Yaiwo's remedies, the Tanchei's diagnosis and the Leigen's rites.
 
@@ -57,7 +57,7 @@ A healer apprentices under a master for many years. The training joins the study
 - _Cheizhwi_ (apprentices) learn the principles of the body's classification, prepare simple remedies and assist in minor treatments.
 - _Yaigwi_ (practitioners) have finished their apprenticeship. They keep their own shops or serve as household physicians.
 - _Dauyai_ (master physicians) have won wide respect for their skill. They treat high nobles and teach.
-- _Woyai_ (grand healers) are held to understand the bond between the body's order and the cosmic order nearly completely. They attend the Emperor and the Warlords, and the Tanchei consult them where health and classification meet.
+- _Woyai_ (grand healers) are held to understand the bond between the body's order and the cosmic order nearly completely. They attend the Emperor and the Princes, and the Tanchei consult them where health and classification meet.
 
 The Tantsou draw no line between health of the body and health of the spirit. Both are the same order, and both are kept the same way: by keeping things in their places.
 

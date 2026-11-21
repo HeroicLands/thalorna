@@ -7,13 +7,13 @@ description: "The seventh caste of Tantsou—merchants and moneylenders, free to
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The richest man in a river city of [[affiliation-tantsouempr|Tantsou]] walks behind the potter in a procession, and the law says why. The Shwonong are the merchants, traders and moneylenders of the empire, the seventh caste, ranked below the farmers because a farmer makes the grain and a merchant only moves it. A Shwonong house may own warehouses in three provinces and lend to a Warlord, and its wealth buys comfort and not one step of standing: the law that permits it to prosper is written to keep its silver out of politics, and it is enforced with execution.
+The richest man in a river city of [[affiliation-tantsouempr|Tantsou]] walks behind the potter in a procession, and the law says why. The Shwonong are the merchants, traders and moneylenders of the empire, the seventh caste, ranked below the farmers because a farmer makes the grain and a merchant only moves it. A Shwonong house may own warehouses in three provinces and lend to a Prince, and its wealth buys comfort and not one step of standing: the law that permits it to prosper is written to keep its silver out of politics, and it is enforced with execution.
 
 ## Trade and Lending
 
 A Shwonong house buys what the [[lore-tsaihuo|Tsaihwo]] make and the [[lore-nouwen|Nouwen]] grow, carries it from the province where it is cheap to the province where it is dear, and sells it. The great houses keep warehouses and factors in several river cities, run barge trains along the canals, and hold the empire's trade with the foreign merchants who are let into the walled quarters of the ports. The smaller ones keep a stall, a cart and a ledger.
 
-Some houses lend money. Lending is legal and closely supervised: the rate is capped, every loan is witnessed and entered, and a moneylender who presses a Nouwen household into ruin answers to the magistrate. The profit is large enough that the great houses lend anyway, to one another, to Wohou officers short of cash before a campaign, and, quietly, to Warlords. [[lore-tantsoucrncy|Tantsou Currency]] explains how those debts are recorded and enforced.
+Some houses lend money. Lending is legal and closely supervised: the rate is capped, every loan is witnessed and entered, and a moneylender who presses a Nouwen household into ruin answers to the magistrate. The profit is large enough that the great houses lend anyway, to one another, to Wohou officers short of cash before a campaign, and, quietly, to Princes. [[lore-tantsoucrncy|Tantsou Currency]] explains how those debts are recorded and enforced.
 
 ## Rights and Restrictions
 

@@ -19,7 +19,7 @@ The [[affiliation-ordoarcanis|Thordimalon]], called in Tantsou the Sorcerers' Gu
 
 The Sect's most dangerous tie is to the Arcane Order embassy. The Arcane Order supplies money, safe houses and the means to smuggle a hunted sorcerer out over the [[doc-extrnlthrts|western passes]]; the Sect supplies information and measured access to Wandwo practice the Arcane Order could get no other way. Both sides deal through intermediaries and keep their exchanges compartmented, because exposure would destroy them both, and each holds enough on the other to make blackmail a standing option.
 
-## The Merchants' Rising
+## The Merchant Uprising
 
 The [[lore-shuonong|Shwonong]] are rich, taxed hardest of any caste and barred on pain of death from politics. A faction among the great merchant houses is organizing to change that, and it means to have a voice in the government whatever the [[lore-castelaws|Caste Laws]] say. It has money, warehouses in every river city and the ear of every Wohou officer who owes it a debt, and it has begun to work with the [[affiliation-haluozhao|Black Lotus Society]]. If the faction moves before the court notices it, the first sign will be the barges stopping.
 
@@ -40,7 +40,7 @@ The Black Lotus Society is the empire's great criminal syndicate. Its existence 
 - **The merchants.** The Lotus has a grip on the Shwonong, offering protection and illicit services that can make a merchant house rich or ruin it.
 - **The knife.** Its assassins are rarely used and feared for that reason; a Lotus killing is seldom proved and never forgotten.
 - **The tablets.** It forges the classification tablets that prove a person's caste, which makes it a threat to the classification itself and not only to the law.
-- **The alliances.** Its ties to the Cult of the Forsaken and the [Merchants' Rising]{.name data-type="affiliation"} let it strike at the social order and the economy at once.
+- **The alliances.** Its ties to the Cult of the Forsaken and the [Merchant Uprising]{.name data-type="affiliation"} let it strike at the social order and the economy at once.
 
 ## The Famine in the South
 

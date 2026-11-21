@@ -41,7 +41,7 @@ Wogen Henzhwo, called the Master Tiger of the Steppes, is the warlord of the [Hw
 
 **The divided steppe.** For generations the tribes of the Hwenhatou fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. Wogen began as the war-leader of a minor tribe. He bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. To the tribes he presented himself as their strength gathered in one hand, and he promised them the riches of the south.
 
-**The open door.** He chose his moment. Infighting among the [[lore-wohou|Wohou]] lords of the north thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Warlord's report reached the capital, the border was porous and the tribes answered to one man.
+**The open door.** He chose his moment. Infighting among the [[lore-wohou|Wohou]] lords of the north thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Prince's report reached the capital, the border was porous and the tribes answered to one man.
 
 **The hungry years.** A run of hard winters and failing grazing drove the tribes south in any case. Wogen turned that hunger into a war aim: the steppe could starve, or it could take the empire's rice basins.
 
@@ -67,7 +67,7 @@ The confederation is held together by his person and by plunder. A season withou
 
 ### Enemies
 
-The northern Warlords
+The northern Princes
 : the [[lore-zhazho|Zhazho]] lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
 
 ### Affiliations

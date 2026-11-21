@@ -13,7 +13,7 @@ A district magistrate of [[affiliation-tantsouempr|Tantsou]] explains his court 
 
 _Tseising_ ("self-death") is the ritual suicide of the warrior and noble castes. Most often it is atonement: a person who has failed or been disgraced makes a final, decisive entry on his [[lore-celestlrdr|moral ledger]] that clears the debit for himself and his house. The Tanchei describe it as a self-made reclassification, by which a person removes himself from the sorted order on his own terms before the celestial administration can process his disgrace.
 
-It can also be a protest. A Wohou or a noble may take his life to show his superiors his anger at an order or an injustice, in a form nobody can answer or reverse. A death of that kind is held to lay a great and permanent debit on the ledger of the person who provoked it, and his whole family inherits it: a Warlord whose injustice drives an officer to Tseising carries the entry for the rest of his life and into the next.
+It can also be a protest. A Wohou or a noble may take his life to show his superiors his anger at an order or an injustice, in a form nobody can answer or reverse. A death of that kind is held to lay a great and permanent debit on the ledger of the person who provoked it, and his whole family inherits it: a Prince whose injustice drives an officer to Tseising carries the entry for the rest of his life and into the next.
 
 **Preparation.** The person dresses in white, the color of unclassified things, for the return to the state before sorting. He writes his _Kwo Chou_ (last record), which may hold remorse, defiance or reflection. It is a testament and a filing at once: it is burned after the rite, and the smoke carries his final account to the [Ministry of Final Account]{.name data-type="affiliation"} (Singwou).
 
@@ -27,17 +27,17 @@ It can also be a protest. A Wohou or a noble may take his life to show his super
 
 ## The Heavenly Law
 
-The code of the empire is the [Teng Lou]{.name data-type="lore/law"} (Heavenly Law), held to be the mortal form of the order laid down in the [Great Sorting]{.name data-type="lore/cosmology"}. The Emperor is its final judge because he holds the [[lore-mandatehvn|Mandate of Heaven]], the appointment that makes him the classification's administrator on earth; his wisdom has nothing to do with it. In practice the Warlords and their magistrates apply it in the provinces.
+The code of the empire is the [Teng Lou]{.name data-type="lore/law"} (Heavenly Law), held to be the mortal form of the order laid down in the [Great Sorting]{.name data-type="lore/cosmology"}. The Emperor is its final judge because he holds the [[lore-mandatehvn|Mandate of Heaven]], the appointment that makes him the classification's administrator on earth; his wisdom has nothing to do with it. In practice the Princes and their magistrates apply it in the provinces.
 
 ## The Courts
 
 **The Emperor** (_Tengzhei_). His rulings carry the weight of the classification itself, and to defy one is to defy the cosmic order. He seldom hears a case. Any case can be carried up to the imperial court, and his judgment there is final in this world and the next.
 
-**The Warlords** (_Wozhwo_). They are the judges, lawmakers and enforcers of their provinces, reading the Teng Lou to fit their lands and holding court through their magistrates. Their authority rests on their armies and on heaven together: a Warlord's judgment makes entries on the ledger of everyone it touches, and a just one credits his own. A Warlord's honor and integrity are his credentials, and an accusation of corruption against one is read as a sign that the classification is failing in his province.
+**The Princes** (_Zho Zhei_). They are the judges, lawmakers and enforcers of their provinces, reading the Teng Lou to fit their lands and holding court through their magistrates. Their authority rests on their armies and on heaven together: a Prince's judgment makes entries on the ledger of everyone it touches, and a just one credits his own. A Prince's honor and integrity are his credentials, and an accusation of corruption against one is read as a sign that the classification is failing in his province.
 
-The [[lore-tanchei|Tanchei]] (celestial scholars). They advise on the cases where heaven and law meet: disputes over caste lines, questions of which bureau has jurisdiction, cases where an omen or an ancestor's command runs against the law of men. Their reading of a question of classification is authoritative, and Warlords consult them on what a judgment will cost in heaven.
+The [[lore-tanchei|Tanchei]] (celestial scholars). They advise on the cases where heaven and law meet: disputes over caste lines, questions of which bureau has jurisdiction, cases where an omen or an ancestor's command runs against the law of men. Their reading of a question of classification is authoritative, and Princes consult them on what a judgment will cost in heaven.
 
-**The magistrates** (_Gwichai_). Appointed by the Warlords, they hear the cases of towns and villages, settle disputes and order punishments, according to the Teng Lou, local custom and the castes of the people before them. A crime across caste lines is always graver than one within a caste, because it breaches the hierarchy as well as the law.
+**The magistrates** (_Gwichai_). Appointed by the Princes, they hear the cases of towns and villages, settle disputes and order punishments, according to the Teng Lou, local custom and the castes of the people before them. A crime across caste lines is always graver than one within a caste, because it breaches the hierarchy as well as the law.
 
 **The clan elders** (_Zhaukwo_). Among the [[lore-nouwen|Nouwen]], the elders of a clan settle disputes among its own members by clan custom. Their rulings mix the Teng Lou with the commands of the ancestors, received through the village [[lore-ancstrwrshp|Leigen]].
 
@@ -79,7 +79,7 @@ A punishment in Tantsou puts the offender back in his proper place, or takes him
 
 ## Honor
 
-Honor in Tantsou is a standing on the ledger. Honorable conduct makes credits, dishonorable conduct makes debits, and both fall on the household, the clan and the ancestors as well as the person. Among the Warlords and the Wohou, quarrels of honor are settled by duel or ritual combat. To accuse someone of dishonor in public is itself an offense, because the accusation opens a debit on the accused's ledger that stands until the matter is settled, and an open accusation weakens everyone connected to it until it is closed.
+Honor in Tantsou is a standing on the ledger. Honorable conduct makes credits, dishonorable conduct makes debits, and both fall on the household, the clan and the ancestors as well as the person. Among the Princes and the Wohou, quarrels of honor are settled by duel or ritual combat. To accuse someone of dishonor in public is itself an offense, because the accusation opens a debit on the accused's ledger that stands until the matter is settled, and an open accusation weakens everyone connected to it until it is closed.
 
 The harshness of the law follows from what the Tantsou believe is at stake. Every breach left uncorrected is a crack in the wall between the sorted world and the Hwenlei, and the magistrate's work is to keep that wall standing.
 

@@ -26,7 +26,7 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty th
 : a fallen noble house that has staked its last chance on the Black Lotus Society
 
 [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]
-: the foreign sorcerers' guild, the Shadow Sect, the merchants' rising, the Cult of the Forsaken, the Black Lotus Society and the famine in the south
+: the foreign sorcerers' guild, the Shadow Sect, the Merchant Uprising, the Cult of the Forsaken, the Black Lotus Society and the famine in the south
 
 ## Things Out of the Dark
 

@@ -5118,13 +5118,15 @@ data:
     - {name: Agent at Court, tongue: translation}
     - {name: Ancestor Worship, tongue: translation}
     - {name: Approached, tongue: translation}
+    - {name: Archivist, tongue: translation}
+    - {name: Assassin, tongue: translation}
     - {name: Assessor of Sacrifice, tongue: translation}
-    - {name: Associate, tongue: translation}
     - {name: Attainted, tongue: translation}
     - {name: Black Lotus Society, tongue: translation}
-    - {name: Boss, tongue: translation}
+    - {name: Bookkeeper, tongue: translation}
     - {name: Cadet Branch, tongue: translation}
     - {name: Calendar and Astrology, tongue: translation}
+    - {name: Candidate, tongue: translation}
     - {name: Caste Laws, tongue: translation}
     - {name: Caste-Registrar, tongue: translation}
     - {name: Celestial Court, tongue: translation}
@@ -5133,6 +5135,8 @@ data:
     - {name: Celestial Order, tongue: translation}
     - {name: Celestial Pantheon, tongue: translation}
     - {name: Celestial Record, tongue: translation}
+    - {name: Cell Leader, tongue: translation}
+    - {name: Cell Member, tongue: translation}
     - {name: Cell Operator, tongue: translation}
     - {name: Censor of Purity, tongue: translation}
     - {name: Chaiwong, tongue: tanvuri, built: [chai, wong]}
@@ -5148,39 +5152,36 @@ data:
     - {name: Client, tongue: translation}
     - {name: Commandant, tongue: translation}
     - {name: Committed, tongue: translation}
+    - {name: Coordinator, tongue: translation}
     - {name: Copyist, tongue: translation}
-    - {name: Counsellor, tongue: translation}
-    - {name: Courier, tongue: translation}
-    - {name: Crew Boss, tongue: translation}
+    - {name: Councilor, tongue: translation}
     - {name: Cult of the Forsaken, tongue: translation}
     - {name: Cut Loose, tongue: translation}
     - {name: Dauho Wo, tongue: tanvuri, built: [dau, ho, wo]}
     - {name: Dautou Wochai, tongue: tanvuri, built: [dau, tou, wo, chai]}
     - {name: Dependent, tongue: translation}
+    - {name: Disowned, tongue: translation}
     - {name: Dou Chou, tongue: tanvuri, built: [dou, chou]}
     - {name: Dou Sei, tongue: tanvuri, built: [dou, sei]}
     - {name: Douyo, tongue: tanvuri, built: [dou, yo]}
     - {name: Douzhi, tongue: tanvuri, built: [dou, zhi]}
-    - {name: Earner, tongue: translation}
     - {name: Elder, tongue: translation}
     - {name: Elder Races, tongue: translation}
+    - {name: Embassy Liaison, tongue: translation}
     - {name: Emperor, tongue: translation}
     - {name: Empire of Tantsou, tongue: translation}
-    - {name: Enforcer, tongue: translation}
     - {name: Falei, tongue: tanvuri, built: [fa, lei]}
     - {name: Falou Sei, tongue: tanvuri, built: [fa, lou, sei]}
     - {name: Fawo, tongue: tanvuri, built: [fa, wo]}
     - {name: "Fawo, The Minister of Material Fortune", tongue: translation}
-    - {name: Fence, tongue: translation}
     - {name: Five Elemental Lords, tongue: translation}
-    - {name: Fixer, tongue: translation}
     - {name: Gap-Maker, tongue: translation}
     - {name: Genealogist, tongue: translation}
     - {name: Genhwen, tongue: tanvuri, built: [gen, hwen]}
     - {name: "Genhwen, The Minister of Entropy", tongue: translation}
     - {name: Halei, tongue: tanvuri, built: [ha, lei]}
     - {name: Ha Lwo Zhau, tongue: tanvuri, built: [ha, lwo, zhau]}
-    - {name: Hanger-on, tongue: translation}
+    - {name: Handler, tongue: translation}
     - {name: Hatsou, tongue: tanvuri, built: [ha, tsou]}
     - {name: Hayo, tongue: tanvuri, built: [ha, yo]}
     - {name: Ha Zhau, tongue: tanvuri, built: [ha, zhau]}
@@ -5194,6 +5195,8 @@ data:
     - {name: Houweng, tongue: tanvuri, built: [hou, weng]}
     - {name: Illuminator, tongue: translation}
     - {name: Infernal Realms, tongue: translation}
+    - {name: Informant, tongue: translation}
+    - {name: Information Broker, tongue: translation}
     - {name: Intendant, tongue: translation}
     - {name: Intendant of the Bureau, tongue: translation}
     - {name: Intermediary, tongue: translation}
@@ -5201,6 +5204,7 @@ data:
     - {name: Iron Spear Piercing the Clouds, tongue: translation}
     - {name: Jade Fan Dance, tongue: translation}
     - {name: Jenshou, tongue: tanvuri, built: [jen, shou]}
+    - {name: Keeper of Leverage, tongue: translation}
     - {name: Keeper of the Forms, tongue: translation}
     - {name: Keeper of the Hall, tongue: translation}
     - {name: Keeper of the Sacred Texts, tongue: translation}
@@ -5209,13 +5213,12 @@ data:
     - {name: Lanei, tongue: tanvuri, built: [la, nei]}
     - {name: Lay, tongue: translation}
     - {name: Lengwo, tongue: tanvuri, built: [leng, wo]}
-    - {name: Made Member, tongue: translation}
+    - {name: Liberator, tongue: translation}
     - {name: Mandate of Heaven, tongue: translation}
-    - {name: Marked, tongue: translation}
     - {name: Marriage, tongue: translation}
     - {name: Marriage-Broker, tongue: translation}
     - {name: Master of Forms, tongue: translation}
-    - {name: Master of Lookouts, tongue: translation}
+    - {name: Master of Routes, tongue: translation}
     - {name: Master Tiger of the Steppes, tongue: translation}
     - {name: Medicine, tongue: translation}
     - {name: Mei Sei, tongue: tanvuri, built: [mei, sei]}
@@ -5240,6 +5243,7 @@ data:
     - {name: Philosophy of Leiwo, tongue: translation}
     - {name: Precedent-Scholar, tongue: translation}
     - {name: Priest, tongue: translation}
+    - {name: Prince, tongue: translation}
     - {name: Provincial Administrator, tongue: translation}
     - {name: Raugwi, tongue: tanvuri, built: [rau, gwi]}
     - {name: "Raugwi, Minister of Storms", tongue: translation}
@@ -5276,12 +5280,15 @@ data:
     - {name: Seal-Forger, tongue: translation}
     - {name: Seal-Holder, tongue: translation}
     - {name: Second, tongue: translation}
+    - {name: Severed, tongue: translation}
     - {name: Shadow Folk, tongue: translation}
     - {name: Shadow Sect, tongue: translation}
+    - {name: Shopkeeper, tongue: translation}
     - {name: Shwonong, tongue: tanvuri, built: [shwo, nong]}
     - {name: Singwou, tongue: tanvuri, built: [sing, wou]}
     - {name: Steward, tongue: translation}
     - {name: Struck from the Rolls, tongue: translation}
+    - {name: Sympathizer, tongue: translation}
     - {name: Tanchei, tongue: tanvuri, built: [tan, chei]}
     - {name: Tantsou, tongue: tanvuri, built: [tan, tsou]}
     - {name: Tantsou Adventurer's Guide, tongue: translation}
@@ -5353,7 +5360,6 @@ data:
     - {name: Wantou, tongue: tanvuri, built: [wan, tou]}
     - {name: "Wantou, The Keeper of the Celestial Archive", tongue: translation}
     - {name: Warden of the Bound, tongue: translation}
-    - {name: Warlord, tongue: translation}
     - {name: Watcher, tongue: translation}
     - {name: Watsai, tongue: tanvuri, built: [wa, tsai]}
     - {name: Wei Zhai Rwi, tongue: tanvuri, built: [wei, zhai, rwi]}
@@ -5377,6 +5383,7 @@ data:
     - {name: Zhazho, tongue: tanvuri, built: [zha, zho]}
     - {name: Zhinho, tongue: tanvuri, built: [zhin, ho]}
     - {name: "Zhinho, The Minister of Fire", tongue: translation}
+    - {name: Zho Zhei, tongue: tanvuri, built: [zho, zhei]}
     - {name: Zhoushou Zho, tongue: tanvuri, built: [zhou, shou, zho]}
     - {name: Zhowo, tongue: tanvuri, built: [zho, wo]}
     - {name: Zhozhwo, tongue: tanvuri, built: [zho, zhwo]}
@@ -6177,7 +6184,8 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | ----------------- | -------------------------- | --------------------- |
 | Tengzhei          | Heaven-Child               | Emperor               |
 | Rongleng Tengzhei | Myriad-Bright Heaven-Child | Emperor of Jenchai    |
-| Wozhwo            | Warrior-Lord               | Warlord               |
+| Wozhwo            | Warrior-Lord               | War-leader (steppe)   |
+| Zho Zhei          | Dragon-Child               | Prince                |
 | Dauzhwo           | Great-Lord                 | Great Lord (Jenchai)  |
 | Shwizhwo          | Lesser-Lord                | Lesser Lord (Jenchai) |
 | Teng Gwi          | Heaven-Official            | Celestial Minister    |

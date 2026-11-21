@@ -9,7 +9,7 @@ data: {packFolder: celestialorder, culture: tantsouclt}
 
 In the faith of the [[affiliation-tantsouempr|Empire of Tantsou]], the gods keep office hours. The great powers of the Celestial Pantheon are the senior staff of the celestial bureaucracy: beings of immense power who hold posts in the cosmic classification and whose authority comes from the office, not from any divinity of their own. The Tantsou approach them by petition, by transaction and by following the correct procedure, and an Aureldian priest would hardly recognize what they do as worship.
 
-At the head of the pantheon stands [[lore-tanzhodty|Tanzho]], the principle of classification. Beneath him [[lore-weizhuodty|Weizhwo]], known as Weizhwo Daunei, the Jade Sovereign, runs the administration, the Minister of Storms and the Minister of the Moon hold their portfolios, and below them the [[lore-fvlmntlrds|Five Elemental Lords]] each govern one of the material domains.
+At the head of the pantheon stands [[lore-tanzhodty|Tanzho]], the principle of classification. Beneath him [[lore-weizhuodty|Weizhwo]], known as Weizhwo Daunei, the Jade Sovereign, runs the administration, the Minister of Storms holds a portfolio and the Keeper of the Jade Seal holds the seal, and below them the [[lore-fvlmntlrds|Five Elemental Lords]] each govern one of the material domains.
 
 ## Tanzho Zhwowo, the First Classifier
 
@@ -41,7 +41,7 @@ He is the patron of the [[lore-wohou|Wohou]], because the warrior nobility are t
 
 Art shows him armored, with lightning in one hand and in the other the seal of enforcement that authorizes a punishment.
 
-## Youbwi Tengyou, the Minister of the Moon
+## Youbwi Tengyou, the Keeper of the Jade Seal
 
 **Domain:** the moon, night, dreams, cycles and prophecy.
 

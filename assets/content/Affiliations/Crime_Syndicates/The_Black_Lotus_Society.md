@@ -12,57 +12,52 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: autocracy
+    model: oligarchy
     summary: >-
-      A boss whose word is the organization's only law, held for exactly as long as it is feared.
+      A council of seven said to govern in secret, never identified, above cells built around Shwonong merchant houses; its authority is leverage and careful bookkeeping, not street force.
     ranks:
       - level: 0
-        title: Marked
-        description: Named for killing, and every member who meets them is expected to try.
+        title: Disowned
+        description: >-
+          Cut from the cells and their protection, with a debit entry on the ledger and no handler left to answer for them.
       - level: 1
-        title: Hanger-on
+        title: Client
         description: >-
-          Around the organization and useful to it—a doorman, a runner, a girl in a house—and told nothing.
+          A merchant or household that pays the tithe and finds its petitions reaching the right magistrates, its shipments cleared and its rivals troubled.
       - level: 2
-        title: Associate
+        title: Informant
         description: >-
-          Working for the organization without being of it: paid for jobs, and disposable between them.
+          A bribed clerk, suborned diviner or shopkeeper who supplies ledgers, petitions and omen readings and knows nothing of the cell above.
       - level: 3
-        title: Made Member
+        title: Cell Member
         description: >-
-          Sworn in and under the organization's protection, owing it obedience and a cut of everything.
+          Works within a cell around a merchant house and knows only the immediate handler.
       - level: 4
-        title: Earner
+        title: Bookkeeper
         description: >-
-          Running a business of the organization's—a racket, a route, a house—and paying up from it.
+          Keeps a cell's books: which ledgers are in deficit, which ancestors are starved of offerings, which petitions are moving through which office.
       - level: 5
-        title: Enforcer
+        title: Handler
         description: >-
-          Charged with what the organization collects by fear, and with what it does when fear fails.
+          Usually of the Nwitsou, runs a cell and is the only contact its members have.
       - level: 6
-        title: Crew Boss
-        description: Holding a crew and a territory, answerable for both and for what they bring in.
+        title: Coordinator
+        description: >-
+          A bureaucratically placed Zhazho who chose the Society over their own family, linking the cells to the ministries.
       - level: 7
-        title: Second
+        title: Councilor
         description: >-
-          Second in the organization, running it day to day and standing between the boss and everyone else.
-      - level: 8
-        title: Boss
-        description: >-
-          Head of the organization, whose word is its only law and whose position lasts exactly as long as it is feared.
+          One of the seven said to sit on the secret council, whose identity no outsider has confirmed.
     offices:
-      Boss: Head of the organization, whose word is its law for as long as it is feared.
-      Second: >-
-        Second, running the organization day to day and standing between the boss and everyone else.
-      Counsellor: Adviser to the boss, holding no crew and no territory and more influence than either.
-      Crew Boss: Holder of a crew and a territory, answerable for what both produce.
-      Enforcer: Collector by fear, and executor of what follows when fear fails.
-      Fence: Buyer and mover of what the organization takes, and its most closely held connection.
-      Fixer: Buyer of officials, judges and watchmen, and keeper of what each of them costs.
-      Treasurer: >-
-        Keeper of the organization's money—its cuts, its bribes, its reserve, and where all three are.
-      Master of Lookouts: Runner of the network of eyes on which every operation depends.
-      Courier: Carrier of what may not be written, between people who may not meet.
+      Councilor: One of the seven said to govern the Society in secret.
+      Coordinator: A placed Zhazho who links the cells to the ministries and the omen readers.
+      Handler: Runner of a cell and the only face its members know.
+      Bookkeeper: Keeper of a cell's accounts of ledger deficits, petitions and favors owed.
+      Master of Routes: Controller of the smuggling routes outside the formal caravan system.
+      Shopkeeper: >-
+        Keeper of a funeral or offering-goods shop, which is a front and a point of contact with every household that keeps the ancestors.
+      Assassin: >-
+        Arranger of deaths that read as the natural consequence of the victim's own disgrace.
   seat: null
   population: null
   economy: []

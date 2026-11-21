@@ -22,13 +22,16 @@ data:
     - {name: "Hwenlei", definition: "The primordial chaos of the Unclassified", common: true}
     - {name: "Dauyai", definition: "A renowned healer, third rank of the Yaiwo"}
     - name: "Gwichai"
-      definition: "A magistrate, appointed by a Warlord to hear the cases of towns and villages"
+      definition: "A magistrate, appointed by a Prince to hear the cases of towns and villages"
     - {name: "Gwiwo", definition: '"Official''s guard": the second who assists at a Tseising'}
     - {name: "Tengzhei", definition: '"Heaven-Child": the Emperor, the Son of Heaven'}
+    - name: "Zho Zhei"
+      definition: '"Dragon-Child": a Prince, a Zhazho who holds a province with its armies for the Emperor'
     - {name: "Cheizhwi", definition: "An apprentice healer, first rank of the Yaiwo"}
     - {name: "Woyai", definition: "A grand healer, highest rank of the Yaiwo"}
     - {name: "Wonong", definition: "A common soldier, of the Tsaihwo caste"}
-    - {name: "Wozhwo", definition: "A warlord, who governs a province with its armies"}
+    - name: "Wozhwo"
+      definition: "A war-leader of the steppe or of another people, who leads its armies; also the Celestial Marshals (Teng Wozhwo) and the title of the deity Tanzho (Tanzho Wozhwo); never a Prince"
     - {name: "Yaigwi", definition: "A licensed practitioner, second rank of the Yaiwo"}
     - name: "Yaitsai"
       definition: "An herbal master or apothecary, one of the two branches of the Yaiwo"
@@ -38,7 +41,7 @@ data:
       definition: "A clan elder, who settles disputes among a village's own members by clan custom"
     - {name: "Zhayai", definition: "A physician or surgeon, one of the two branches of the Yaiwo"}
     - name: "Zhazho"
-      definition: "The first caste: Sons of the Dragon, the Emperor's family and the Warlords"
+      definition: "The first caste: Sons of the Dragon, the Emperor's family and the Princes"
       common: true
     - name: "Wandwo"
       definition: "The second caste: sorcerers bound as property to the Zhazho"
@@ -79,7 +82,7 @@ Society runs in eight castes, which dictate profession, legal standing, dress, m
 
 |     | Caste                       | Who they are                                                     |
 | --- | --------------------------- | ---------------------------------------------------------------- |
-| 1   | [[lore-zhazho\|Zhazho]]     | Sons of the Dragon: the Emperor, his family, the Warlords        |
+| 1   | [[lore-zhazho\|Zhazho]]     | Sons of the Dragon: the Emperor, his family, the Princes         |
 | 2   | [[lore-wanduo\|Wandwo]]     | Chattel sorcerers, bound to serve the Zhazho                     |
 | 3   | [[lore-wohou\|Wohou]]       | Warrior nobility: commanders and administrators                  |
 | 4   | [[lore-tanchei\|Tanchei]]   | Celestial scholars: omen-readers and keepers of the sacred texts |
@@ -96,7 +99,7 @@ The merchants rank seventh, below the peasants. A farmer feeds the empire and a 
 
 ## Classification Is a Sacred Act
 
-The state religion is [[affiliation-tengwouronglei|Tengwou Rong Lei]], a Celestial Bureaucracy, and the earthly government is modeled on it and not the other way round. The Celestial Dragon, [[lore-tanzhodty|Tanzho]], is the First Classifier—the principle of order itself—and beneath it the Jade Sovereign ([[lore-weizhuodty|Weizhwo]]), the Minister of Storms ([[lore-raoguidty|Raugwi]]), the Minister of the Moon ([[lore-youweidty|Youbwi]]) and the [[lore-fvlmntlrds|Five Elemental Lords]] administer their domains as ministries administer provinces.
+The state religion is [[affiliation-tengwouronglei|Tengwou Rong Lei]], a Celestial Bureaucracy, and the earthly government is modeled on it and not the other way round. The Celestial Dragon, [[lore-tanzhodty|Tanzho]], is the First Classifier—the principle of order itself—and beneath it the Jade Sovereign ([[lore-weizhuodty|Weizhwo]]), the Minister of Storms ([[lore-raoguidty|Raugwi]]), the Keeper of the Jade Seal ([[lore-youweidty|Youbwi]]) and the [[lore-fvlmntlrds|Five Elemental Lords]] administer their domains as ministries administer provinces.
 
 A Tantsou clerk filing a return is therefore performing a small act of the same kind the Dragon performs, and doing it badly is impiety before it is inefficiency. The ministries that track the movements of comets also track the ritual purity of provincial officials, and no Tantsou sees the two tasks as different tasks.
 
@@ -114,7 +117,7 @@ The Tantsou value most exactness, precedence, patience with procedure and the ke
 
 [Weng Hen Rau Chai]{.name data-type="being/npc"}, "Wind Tiger Roars Across Thunder Mountain," is the Tantsou's admired soldier. He was a Wohou officer known for years only as the Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [Tengmou]{.name data-type="place/settlement"}, a description a registry clerk could file and no more. He led his troops to a victory that saved a province, and his liege lord granted him the name for the fury of his charge. He has signed nothing else since.
 
-The Tantsou admire in him the thing their histories prize: a man of the third caste, neither Warlord nor Emperor, who did the work his classification gave him so thoroughly that the court registers had to find room for it. His name is a single deed, entered beside the old description that is never struck out, and he does not try to be more than the deed. His cost is the cost of the name. Everything he does is read against the charge, and an officer who is only ever his best day is expected to produce it again.
+The Tantsou admire in him the thing their histories prize: a man of the third caste, neither Prince nor Emperor, who did the work his classification gave him so thoroughly that the court registers had to find room for it. His name is a single deed, entered beside the old description that is never struck out, and he does not try to be more than the deed. His cost is the cost of the name. Everything he does is read against the charge, and an officer who is only ever his best day is expected to produce it again.
 
 ## The Woman Admired
 
@@ -131,7 +134,7 @@ Records, literature and letters are kept on handscrolls, written in [[skill-teng
 The works a Tantsou hears most often, and quotes in a court, a schoolroom or a tower, come from every part of that keeping:
 
 - [[lore-readingsorting|The Reading of the Sorting]] is read in every audit hall on the first day of Jwiyou before the year's ledger is opened, and the whole hall answers each part of it with the same three words: [It is entered.]{.verse}
-- [[lore-annaljenshou|The Annal of Jenshou]] is the district annal every first-year student of the Tanchei copies, in which the flood of a seventh year is written with the verb a Warlord's office required and a second verb it did not, and the schools still teach it in two readings.
+- [[lore-annaljenshou|The Annal of Jenshou]] is the district annal every first-year student of the Tanchei copies, in which the flood of a seventh year is written with the verb a Prince's office required and a second verb it did not, and the schools still teach it in two readings.
 - [[lore-hearthaccount|The Hearth Account of the Third Terrace]] is the account the Leigen of Weichai teach heirs to read before the shrine at the Festival of the Dead, and its refrain is the bargain every household keeps with its dead: [We feed you. Speak for us.]{.verse}
 - [[lore-petitionseals|The Petition with Every Seal]] is the hearth tale of the Tengmou valley for the night of the Moon Festival, of a fourth son who filed a petition to whichever office it was not, and it is why nobody there writes _not this office_ on anything.
 - [[lore-unnumberedtwr|The Song of the Unnumbered Tower]] is the soldiers' song of the Grukar marches, one verse to a month, of nine men with no names at the tower that has no number, and of the clerk who came up the road to write three of them down right.
@@ -152,13 +155,13 @@ The festivals are celebrations and filing days at once, and a district that miss
 - [Festival of Harmonious Lei]{.name data-type="lore/gathering"} , falls on the first day of the year. The Emperor performs the annual audit of the empire's Lei, opening the celestial filing for the new year, and every household that takes part in the feasts and lantern-lighting is entered in the empire's reckoning.
 - [Festival of the Five Elements]{.name data-type="lore/gathering"} , fills five days, one for each element, and confirms that air still behaves as air, fire as fire and earth as earth.
 - [Hou Nye Jwi]{.name data-type="lore/gathering"}, the Mid-Year Festival of Balance, is the half-year reconciliation, when ordinary people settle debts, end family quarrels and check their ledgers for hidden debits.
-- [Moon Festival]{.name data-type="lore/gathering"} (You Jwi) falls in late autumn, when the boundary between the sorted and the unsorted is thinnest. Lanterns are lit as points of bright Lei to shore up the boundary, and offerings go to the Minister of the Moon.
+- [Moon Festival]{.name data-type="lore/gathering"} (You Jwi) falls in late autumn, when the boundary between the sorted and the unsorted is thinnest. Lanterns are lit as points of bright Lei to shore up the boundary, and offerings go to [[lore-youweidty|Youbwi]], Keeper of the Jade Seal, in her lunar aspect.
 - [Festival of the Dead]{.name data-type="lore/gathering"} , falls at midwinter and is the costliest event of the year. Families provision their ancestors with spirit money and goods, review the ledgers and learn the dead's instructions for the coming year through the Leigen.
 - [New Year Purification]{.name data-type="lore/custom"} (Shwi Nye Wo) closes the year. Households, temples and offices are cleansed, expired filings burned, and the Hearth Monitors submit their final reports.
 
 ## Credit and Default
 
-Reward is credit on the ledger and the standing it buys. A kept rite, an alm and a duty done credit the household. A deed of outstanding service credits a person with a granted name, which only the Zhazho, the Wohou and the Tanchei may receive, conferred by a liege lord or a senior clan member before witnesses. A slave who shows extraordinary courage may petition for elevation, and the petition is almost never granted. A just judgment credits the Warlord who gives it.
+Reward is credit on the ledger and the standing it buys. A kept rite, an alm and a duty done credit the household. A deed of outstanding service credits a person with a granted name, which only the Zhazho, the Wohou and the Tanchei may receive, conferred by a liege lord or a senior clan member before witnesses. A slave who shows extraordinary courage may petition for elevation, and the petition is almost never granted. A just judgment credits the Prince who gives it.
 
 Penalty runs from the household to the state, and both write on the ledger.
 
@@ -174,9 +177,9 @@ Penalty runs from the household to the state, and both write on the ledger.
 
 ## The Throne, the Magistrate and the Temple
 
-Religion and government are one system seen from two sides, so the question of where civil authority ends and religious authority begins has an answer the Tantsou find odd: nowhere. The Emperor holds the [[lore-mandatehvn|Mandate of Heaven]], an appointment to administer the mortal plane, and is the last court of appeal. The Warlords hold the provinces and read the Teng Lou through their magistrates, the _Gwichai_. The Tanchei advise on every case where heaven and law meet, and their reading of a question of classification is authoritative. The clan elders (_Zhaukwo_) of the Nouwen settle disputes by clan custom and the commands of the ancestors the village Leigen carries.
+Religion and government are one system seen from two sides, so the question of where civil authority ends and religious authority begins has an answer the Tantsou find odd: nowhere. The Emperor holds the [[lore-mandatehvn|Mandate of Heaven]], an appointment to administer the mortal plane, and is the last court of appeal. The Princes hold the provinces and read the Teng Lou through their magistrates, the _Gwichai_. The Tanchei advise on every case where heaven and law meet, and their reading of a question of classification is authoritative. The clan elders (_Zhaukwo_) of the Nouwen settle disputes by clan custom and the commands of the ancestors the village Leigen carries.
 
-Records belong to the Tanchei, who keep the registry, and taxes and tribute belong to the Wohou administrators of each holding. When the questions conflict, a case climbs: the Wonong who walks the street, then the magistrate, then the Warlord, and only a crime across caste lines or one that touches the rites climbs higher. The Mandate is the only appeal against the throne itself, and heaven conducts its reviews slowly. A dynasty is not judged by its goodness but by whether its filings are in order.
+Records belong to the Tanchei, who keep the registry, and taxes and tribute belong to the Wohou administrators of each holding. When the questions conflict, a case climbs: the Wonong who walks the street, then the magistrate, then the Prince, and only a crime across caste lines or one that touches the rites climbs higher. The Mandate is the only appeal against the throne itself, and heaven conducts its reviews slowly. A dynasty is not judged by its goodness but by whether its filings are in order.
 
 ## What the Ledger Asks of an Ordinary Day
 
@@ -190,7 +193,7 @@ A person lives accordingly. He keeps his caste's duties because breaking them is
 
 The living and the dead are bound by obligations that run both ways. The living owe offerings of spirit money and food, a shrine kept in order, a yearly report on the family filed through the Hearth Monitor, the keeping of every death-day, and children to carry on the line. The dead owe advocacy in heaven, warnings through dreams and omens, the protection of the household and counsel on great decisions. An ancestor who ignores petitions has abandoned his post, and a family may dismiss him: take his tablet from the shrine, stop his offerings and cut him off from everything it can send.
 
-The channel is the **Leigen**, the spirit master, a Nouwen born with the gift of speaking to the dead. He carries a household's business to its ancestors and brings back the answer, reads ancestral commands, treats sickness from the spirit side, leads the village rites and settles disputes by asking the ancestors concerned to rule. He is a peasant by caste and every caste respects him; Warlords consult him in private, since acknowledging a peasant's authority openly would break caste. The cost is the offering the ancestors demand and whatever the Leigen's craft requires. The dead give orders, and a command through a Leigen, a dream or an omen is treated as a directive from heaven. The older the ancestor, the more binding the word, and in most families the dead have the last say on a great decision, including a marriage, a feud or an alliance.
+The channel is the **Leigen**, the spirit master, a Nouwen born with the gift of speaking to the dead. He carries a household's business to its ancestors and brings back the answer, reads ancestral commands, treats sickness from the spirit side, leads the village rites and settles disputes by asking the ancestors concerned to rule. He is a peasant by caste and every caste respects him; Princes consult him in private, since acknowledging a peasant's authority openly would break caste. The cost is the offering the ancestors demand and whatever the Leigen's craft requires. The dead give orders, and a command through a Leigen, a dream or an omen is treated as a directive from heaven. The older the ancestor, the more binding the word, and in most families the dead have the last say on a great decision, including a marriage, a feud or an alliance.
 
 The [[lore-flksenali|Senali Folk]] and [[lore-flkkhazar|Khazár Folk]] within the empire do not keep these rites, and the bureaucracy has no place to file their dead.
 
@@ -226,7 +229,7 @@ Below the ladder are the Nwitsou, who are fed as property and are valued below a
 
 ## Those Who Cannot Work
 
-Sickness is a fault in the classification, and a fault in the classification is a debit that can be answered. The Yaiwo treat the body and the spirit together, in four ranks from apprentice to grand healer, and a Warlord rises when a Grand Healer enters his hall. Where the sickness comes from the spirit side—an ancestor who has withdrawn, a debit falling due, the touch of the unsorted—a Tanchei or a village Leigen treats it with the healer. The province swept by plague is a province whose classification is failing, and the healers who contain it are doing the empire's spiritual work.
+Sickness is a fault in the classification, and a fault in the classification is a debit that can be answered. The Yaiwo treat the body and the spirit together, in four ranks from apprentice to grand healer, and a Prince rises when a Grand Healer enters his hall. Where the sickness comes from the spirit side—an ancestor who has withdrawn, a debit falling due, the touch of the unsorted—a Tanchei or a village Leigen treats it with the healer. The province swept by plague is a province whose classification is failing, and the healers who contain it are doing the empire's spiritual work.
 
 A person who cannot meet his obligations stays on his household's ledger. An injured soldier, a blind weaver and a feeble elder remain members of the line they were registered in, are fed from its stores and are provisioned with its shrine's care, and the heir's duty to the household includes them. The old hold a special place, because the dead's word grows more binding with age and the household treats the oldest living member as the nearest thing to that voice. The registry strikes a person off for a crime and not for being unable to work.
 
@@ -234,9 +237,9 @@ A person who cannot meet his obligations stays on his household's ledger. An inj
 
 Shelter is the clan's and the lord's. A Nouwen has the right to the land he works and cannot be driven off it while he pays tribute, and the magistrate who lets a lord evict a paying tenant answers for it. The Wohou administrator who holds a district answers for its revenue, courts and corvée.
 
-Teaching is carried by the craft. A Tsaihwo workshop is a household: a master, his sons and apprentices, a seal registered with the district guild. The healer rises through four ranks at a master's side; the Leigen passes his craft from teacher to apprentice in the villages; the Tanchei school their own in the ministries; the Wohou drill their households. At ten every child in the empire, whatever its caste, is tested for the gift. A child who shows it is claimed in that season, entered as Wandwo and taken to a sorcerers' compound, and does not see its family again; the family is forbidden to seek it. A child born in the compounds who shows too little is given to a Nouwen village and raised as its own.
+Teaching is carried by the craft. A Tsaihwo workshop is a household: a master, his sons and apprentices, a seal registered with the district guild. The healer rises through four ranks at a master's side; the Leigen passes his craft from teacher to apprentice in the villages; the Tanchei school their own in the ministries; the Wohou drill their households. At ten every child in the empire, whatever its caste, is tested for the gift. A child who shows it is claimed in that season, entered as Wandwo and taken to a sorcerers' compound, and does not see its family again; the family is forbidden to seek it. A child born in the compounds who shows too little is given in honored adoption to another caste, usually the household of a prized vassal, and takes the caste of its adoptive parents for good.
 
-Defense is layered. The Wonong who walks a street takes a thief to the magistrate. The Wohou command the garrisons and field armies. The Warlords hold their provinces and their sorcerers. At the frontier the Khazari lay out the fortifications that hold the mountain border, and the Wandwo work the great rites that turn a storm from the rice terraces.
+Defense is layered. The Wonong who walks a street takes a thief to the magistrate. The Wohou command the garrisons and field armies. The Princes hold their provinces and their sorcerers. At the frontier the Khazari lay out the fortifications that hold the mountain border, and the Wandwo work the great rites that turn a storm from the rice terraces.
 
 ## The Household at Every Age
 

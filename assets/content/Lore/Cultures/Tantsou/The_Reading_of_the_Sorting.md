@@ -26,7 +26,7 @@ data:
 # terran_analog: "The parallel couplets and fixed catalogs of temple liturgy; the Book of Documents' speeches of appointment to office; the cosmogonies in which heaven and earth separate from an undivided mass; the litanies of the ten kings of the underworld read at year's end. Departs: nothing is made and nobody creates; the world is sorted, the gods are appointed to run the sorting, and the end is a dissolution, not a burning."
 ---
 
-**The Reading of the Sorting** is the recitation a [[lore-tanchei|Tanchei]] reads aloud in the audit hall of every provincial seat and district town on the first day of Jwiyou, at the [Festival of Harmonious Lei]{.name data-type="lore/gathering"}. In the capital the Emperor performs the year's audit of the empire's Lei and opens the celestial filing; in the provinces the Warlord's seal stands on the table for the Emperor's, and the reading is what the hall hears before the year's ledger is opened. Everyone who stands in the hall for it is entered in the district's reckoning of the festival, so the halls are full and the doors stand open to the street.
+**The Reading of the Sorting** is the recitation a [[lore-tanchei|Tanchei]] reads aloud in the audit hall of every provincial seat and district town on the first day of Jwiyou, at the [Festival of Harmonious Lei]{.name data-type="lore/gathering"}. In the capital the Emperor performs the year's audit of the empire's Lei and opens the celestial filing; in the provinces the Prince's seal stands on the table for the Emperor's, and the reading is what the hall hears before the year's ledger is opened. Everyone who stands in the hall for it is entered in the district's reckoning of the festival, so the halls are full and the doors stand open to the street.
 
 The reading is the public copy of the cosmological treatises, made for the hall. The treatises themselves may be held and read by the Tanchei alone, and the reading says so where it leaves them out. Each district keeps its own copy, and the copies differ in their catalogs: a river province adds a couplet for the dikes, a march province one for the towers, and a town under the mountains leaves out the sea. The text below is the reading of a district on the central rivers. Every year the reader says that year's count from [[lore-greatcnvrg|the Great Convergence]] and that year's place in the Generation, and the rendering gives the count and the place of the present year. The hall answers each part with the same three words, and in the hall they are said together, flat, the way a clerk says them when he has checked a figure.
 
@@ -152,7 +152,7 @@ and she has not looked up from it since./
 The Minister of Storms was given the rain to allot by districts,/
 the lightning to strike where it is ordered,/
 and the thunder, which is the sound of a ruling./
-The Minister of the Moon was given the night,/
+The Keeper of the Jade Seal was given the night,/
 the hours when a line grows thin,/
 and a lantern in one hand and the sealed dispatches in the other./
 The Five Lords were given the five, one each,/

@@ -18,7 +18,7 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] is the oldest continuously gov
 
 ## The Eight and the Ledger
 
-From the top: the [[lore-zhazho|Zhazho]], sons of the Dragon, the Emperor's family and the Warlords; the [[lore-wanduo|Wandwo]], sorcerers ranked second and owned as property; the [[lore-wohou|Wohou]] warrior nobility; the Tanchei scholars, who read omens, keep the sacred texts and run the administration; the [[lore-tsaihuo|Tsaihwo]] artisans and common soldiers; the [[lore-nouwen|Nouwen]] farmers; the [[lore-shuonong|Shwonong]] merchants, ranked below the farmers however rich they are; and the [[lore-noutsou|Nwitsou]], slaves and outcasts. Every traveler carries a _Zhau Mou_, a palm-sized hardwood tablet stating caste, clan, district and issuing seal. Forging one is punished by public execution.
+From the top: the [[lore-zhazho|Zhazho]], sons of the Dragon, the Emperor's family and the Princes; the [[lore-wanduo|Wandwo]], sorcerers ranked second and owned as property; the [[lore-wohou|Wohou]] warrior nobility; the Tanchei scholars, who read omens, keep the sacred texts and run the administration; the [[lore-tsaihuo|Tsaihwo]] artisans and common soldiers; the [[lore-nouwen|Nouwen]] farmers; the [[lore-shuonong|Shwonong]] merchants, ranked below the farmers however rich they are; and the [[lore-noutsou|Nwitsou]], slaves and outcasts. Every traveler carries a _Zhau Mou_, a palm-sized hardwood tablet stating caste, clan, district and issuing seal. Forging one is punished by public execution.
 
 Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit and default are recorded, carried and inherited, and a family that neglects its rites is in debt to its own dead. A Tantsou introduces himself by lineage and caste, in that order, and most people of the lower castes have no personal name at all. Manners are formal and exact. A Tantsou does not say no outright; he declines in ways a foreigner has to learn to hear. A Tanchei's reading of the omens can postpone a campaign.
 
@@ -27,7 +27,7 @@ Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit a
 The empire writes everything down, and its best-known works are written the way its offices write: as a reading, an annal, an account, a petition, a roll and a last record.
 
 - [[lore-readingsorting|The Reading of the Sorting]] is read in every audit hall at the new year, and tells how the world was sorted, how it would end if the sorting failed, and why keeping it is everyone's work.
-- [[lore-annaljenshou|The Annal of Jenshou]] is a district annal in which a flood is written with the verb a Warlord's office ordered, and the Tanchei schools teach it in two readings that disagree.
+- [[lore-annaljenshou|The Annal of Jenshou]] is a district annal in which a flood is written with the verb a Prince's office ordered, and the Tanchei schools teach it in two readings that disagree.
 - [[lore-hearthaccount|The Hearth Account of the Third Terrace]] is a farming household's reckoning with its dead at midwinter, and the model the village Leigen teach an heir from.
 - [[lore-petitionseals|The Petition with Every Seal]] is a hearth tale for the Moon Festival of a petition that went round every bureau of heaven, and came back with one seal too many.
 - [[lore-unnumberedtwr|The Song of the Unnumbered Tower]] is the soldiers' song of the northern marches, of the tower with no number and three men written down right.
@@ -51,7 +51,7 @@ The empire writes everything down, and its best-known works are written the way 
 : classification, the ledger, names and manners
 
 [[affiliation-tantsouempr|The Empire of Tantsou]]
-: the throne, the Warlords, the sorcerers and the frontiers
+: the throne, the Princes, the sorcerers and the frontiers
 
 [[lore-castelaws|Caste Laws]]
 : the eight castes, the tablets and the foreigner's standing

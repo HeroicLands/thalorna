@@ -3,19 +3,19 @@ shortcode: tanchei
 name: {full: Tanchei}
 type: lore
 subType: law
-description: "The fourth caste of Tantsou—celestial scholars who read the omens, keep the sacred texts and staff the administration, and whose counsel decides whether heaven agrees with what the Warlords intend."
+description: "The fourth caste of Tantsou—celestial scholars who read the omens, keep the sacred texts and staff the administration, and whose counsel decides whether heaven agrees with what the Princes intend."
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-A Warlord with his army mustered and the passes open waits for a woman in a blue robe to finish reading the sky, and if she says the omens are against him, he waits a month. The Tanchei are the scholarly and spiritual elite of [[affiliation-tantsouempr|Tantsou]], the fourth caste, trained in the reading of omens, the mathematics of astrology and the keeping of the sacred texts, and they run the empire's administration from the ministries down to the frontier registers. Their counsel is what the empire's highest authorities act on when the question is whether heaven agrees.
+A Prince with his army mustered and the passes open waits for a woman in a blue robe to finish reading the sky, and if she says the omens are against him, he waits a month. The Tanchei are the scholarly and spiritual elite of [[affiliation-tantsouempr|Tantsou]], the fourth caste, trained in the reading of omens, the mathematics of astrology and the keeping of the sacred texts, and they run the empire's administration from the ministries down to the frontier registers. Their counsel is what the empire's highest authorities act on when the question is whether heaven agrees.
 
 ## What the Tanchei Do
 
-**They read the sky.** A Tanchei astrologer casts the charts that set the date of a coronation, a campaign, a wedding or the laying of a foundation, and reads the unlooked-for sign—a comet, a two-headed calf, a well that runs red—as a message from the bureaus of heaven. Her report says whether the empire still stands in harmony with the celestial order, and a Warlord who acts against it does so knowing every scholar in his province has the document. [[lore-clndrstrlgy|Calendar and Astrology]] sets out the reckoning they use.
+**They read the sky.** A Tanchei astrologer casts the charts that set the date of a coronation, a campaign, a wedding or the laying of a foundation, and reads the unlooked-for sign—a comet, a two-headed calf, a well that runs red—as a message from the bureaus of heaven. Her report says whether the empire still stands in harmony with the celestial order, and a Prince who acts against it does so knowing every scholar in his province has the document. [[lore-clndrstrlgy|Calendar and Astrology]] sets out the reckoning they use.
 
 **They keep the texts.** Certain sacred books and relics may be held, read and interpreted by the Tanchei alone: the cosmological treatises, the formulae of the great rites and the oldest records of the empire's place in the sorted order. Possessing one of them is a crime for anyone of another caste.
 
-**They counsel and they draft.** The Tanchei advise the [[lore-zhazho|Zhazho]] and the [[lore-wohou|Wohou]] on the [Teng Lou]{.name data-type="lore/law"} (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Warlords, and the clerks, registrars and census officials who keep the [Dau Nong Chou]{.name data-type="lore/law"} are theirs.
+**They counsel and they draft.** The Tanchei advise the [[lore-zhazho|Zhazho]] and the [[lore-wohou|Wohou]] on the [Teng Lou]{.name data-type="lore/law"} (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Princes, and the clerks, registrars and census officials who keep the [Dau Nong Chou]{.name data-type="lore/law"} are theirs.
 
 ## Rights and Restrictions
 
@@ -64,7 +64,7 @@ In the [[lore-phlsphyleiwo|Leiwo]] framework the Tanchei are the keepers of inte
 : the Heavenly Law the scholars interpret
 
 [[lore-zhazho|Zhazho]]
-: the Emperor and Warlords the scholars counsel
+: the Emperor and Princes the scholars counsel
 
 [[lore-wohou|Wohou]]
 : the warrior nobility, the caste above

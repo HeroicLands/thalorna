@@ -5,6 +5,7 @@ type: affiliation
 subType: lineage
 description: "A once-great noble house of Tantsou, brought low in the Jade Fan Dance and now staked by its new head on a secret alliance with the Black Lotus Society."
 data:
+  culture: tantsouclt
   templatePriority: null
   demonym: null
   epithet: null

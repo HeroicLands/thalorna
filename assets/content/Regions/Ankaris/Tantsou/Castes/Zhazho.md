@@ -3,11 +3,11 @@ shortcode: zhazho
 name: {full: Zhazho}
 type: lore
 subType: law
-description: "The first caste of Tantsou—the Emperor, his family and the Warlords, the lineage the celestial bureaucracy appointed to administer the sorted world, holding final authority in state, war and faith."
+description: "The first caste of Tantsou—the Emperor, his family and the Princes, the lineage the celestial bureaucracy appointed to administer the sorted world, holding final authority in state, war and faith."
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The Zhazho are the people in [[affiliation-tantsouempr|Tantsou]] who are never asked what they are, because the question has only one answer: the Emperor, his immediate family, and the Warlords (_Wozhwo_) who hold the provinces in his name. A clerk at the frontier way-station, told to describe the first caste to a classified foreigner, does it in a sentence. They are the administrative lineage of the mortal plane. Their authority comes from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world, and from nothing so unreliable as divine blood.
+The Zhazho are the people in [[affiliation-tantsouempr|Tantsou]] who are never asked what they are, because the question has only one answer: the Emperor, his immediate family, and the Princes (_Zho Zhei_) who hold the provinces in his name. A clerk at the frontier way-station, told to describe the first caste to a classified foreigner, does it in a sentence. They are the administrative lineage of the mortal plane. Their authority comes from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world, and from nothing so unreliable as divine blood.
 
 ## The Son of Heaven
 
@@ -18,10 +18,10 @@ The Emperor is the **Tengzhei** (Son of Heaven), the celestial bureaucracy's app
 The Emperor's authority over state, law and war is absolute, and in practice he governs through three bodies:
 
 - **the throne itself**, the Emperor and his household, whose decree is final;
-- **the Warlords** (_Wozhwo_), Zhazho of the imperial blood who hold the provinces and exercise the military, administrative and judicial power of the throne within them, with the [[lore-wohou|Wohou]] serving under them;
+- **the Princes** (_Zho Zhei_), Zhazho of the imperial blood who hold the provinces and exercise the military, administrative and judicial power of the throne within them, with the [[lore-wohou|Wohou]] serving under them;
 - the [[lore-wanduo|Wandwo]], the chattel sorcerers, whose counsel shapes strategy, ritual and the spiritual health of the realm.
 
-Every final decision in governance, war and the law of faith belongs to the Zhazho, and the Warlords are the ones who make most of them. The history of the empire is largely the history of how far a given Emperor could make his Warlords obey.
+Every final decision in governance, war and the law of faith belongs to the Zhazho, and the Princes are the ones who make most of them. The history of the empire is largely the history of how far a given Emperor could make his Princes obey.
 
 ## Rights and Duties
 
@@ -55,7 +55,7 @@ Nine is the number of the throne. Rites of the Emperor and his caste are reckone
 
 ## The Elder Races
 
-A member of the [[lore-flksenali|Senali Folk]] or the [[lore-flkkhazar|Khazár Folk]] is classified Zhazho only rarely: the lord of an Elder enclave, or the head of a house bound to a Warlord by a strategic alliance. Those who hold the rank manage their people's dealings with the empire, and their position lasts only as long as the politics of the court allow.
+A member of the [[lore-flksenali|Senali Folk]] or the [[lore-flkkhazar|Khazár Folk]] is classified Zhazho only rarely: the lord of an Elder enclave, or the head of a house bound to a Prince by a strategic alliance. Those who hold the rank manage their people's dealings with the empire, and their position lasts only as long as the politics of the court allow.
 
 ## See Also {#see-also}
 
@@ -66,7 +66,7 @@ A member of the [[lore-flksenali|Senali Folk]] or the [[lore-flkkhazar|Khazár F
 : the appointment that makes the Emperor
 
 [[lore-wohou|Wohou]]
-: the warrior nobility who serve the Warlords
+: the warrior nobility who serve the Princes
 
 [[lore-wanduo|Wandwo]]
 : the chattel sorcerers who serve and counsel the throne

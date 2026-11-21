@@ -14,7 +14,7 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Emperor and Warlords of the Zhazho over a rigid eight-caste order, administered by a celestial bureaucracy that tracks the purity of officials and the movements of comets in the same ministries.
+      Emperor and Princes of the Zhazho over a rigid eight-caste order, administered by a celestial bureaucracy that tracks the purity of officials and the movements of comets in the same ministries.
     ranks:
       - level: 0
         title: Outlaw
@@ -47,14 +47,14 @@ data:
       - level: 7
         title: Zhazho
         description: >-
-          Sons of the Dragon—the imperial family and the Warlords, in whom the celestial mandate is held to run.
+          Sons of the Dragon—the imperial family and the Princes, in whom the celestial mandate is held to run.
       - level: 8
         title: Emperor
         description: >-
           The Dragon himself, in whom the celestial administration and the caste order alike find their justification.
     offices:
       Emperor: The Dragon, apex of the celestial administration and warrant of the caste order.
-      Warlord: Of the Zhazho, holding a province with its armies and answering to the Emperor alone.
+      Prince: Of the Zhazho, holding a province with its armies and answering to the Emperor alone.
       Celestial Minister: >-
         Head of a ministry of the imperial administration, which tracks comets and officials with equal rigor.
       Omen-Reader: Tanchei charged with interpreting the heavens for the timing of imperial acts.
@@ -73,6 +73,7 @@ data:
   parents: []
   relations: {tengwouronglei: aligned, kingdmdnvr: unaligned}
   packFolder: tantsou
+  culture: tantsouclt
 sohl: {system: {commonSkills: [tantsoulng]}}
 
 # terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
@@ -87,8 +88,8 @@ That claim is the key to everything else. The celestial bureaucracy of the [[aff
 The throne
 : the Emperor, the **Son of Heaven** (_Tengzhei_), who holds the [[lore-mandatehvn|Mandate of Heaven]] by cosmic appointment and rules by being correctly classified.
 
-The Warlords
-: the _Wozhwo_ of the [[lore-zhazho|Zhazho]], each holding a province with its armies and answering to the Emperor alone; the kingmakers of every succession dispute.
+The Princes
+: the _Zho Zhei_ of the [[lore-zhazho|Zhazho]], each holding a province with its armies and answering to the Emperor alone; the kingmakers of every succession dispute.
 
 The sorcerers
 : the [[lore-wanduo|Wandwo]], property of the imperial family, ranked second of the eight castes and owning nothing.
@@ -97,7 +98,7 @@ The administration
 : the [[lore-tanchei|Tanchei]] scholars, who read the omens, keep the sacred texts and staff the ministries.
 
 The law
-: the [[lore-castelaws|Caste Laws]] and the [[lore-tseising|Teng Lou]], enforced by the Warlords' magistrates; every subject is recorded in the census and every traveler carries a classification tablet.
+: the [[lore-castelaws|Caste Laws]] and the [[lore-tseising|Teng Lou]], enforced by the Princes' magistrates; every subject is recorded in the census and every traveler carries a classification tablet.
 
 The frontiers
 : [[affiliation-jenchaiempr|Jenchai]] across the eastern strait, the fortified marches to the north toward the far-northern [[lore-grukarfolk|Grukar]] nests, the quiet, expensive passes into the [[place-khzryndsrtrgn|Khazrin]] to the west.
@@ -109,14 +110,14 @@ The game
 
 Religion, politics, magic and social rank are one system in Tantsou, viewed from different angles. The Emperor is the celestial bureaucracy's appointed administrator of the mortal plane. His line holds the [[lore-mandatehvn|Mandate of Heaven]] (_Tengwo_), which is a cosmic appointment and not a divine blessing: it grants administrative authority over the empire's classification system, and nothing else. The Son of Heaven does not rule by divine right in the Aureldian sense. He rules by being correctly classified, and a line that loses that correct classification, through dynastic decay, ritual failure or the corruption of its household, loses the Mandate to a line more correctly classified.
 
-Power sits in three places. The Emperor and his household hold the ritual center and the final authority. The Warlords, who are [[lore-zhazho|Zhazho]] like the Emperor, hold the provinces and the armies, and they have repeatedly made and unmade emperors in succession disputes. The [[lore-wanduo|Wandwo]], the chattel sorcerers who are the legally owned magical slaves of the imperial family, channel the cosmic energy through bureaucratic forms and are indispensable to every function of government that mortal administration alone cannot perform.
+Power sits in three places. The Emperor and his household hold the ritual center and the final authority. The Princes, who are [[lore-zhazho|Zhazho]] like the Emperor, hold the provinces and the armies, and they have repeatedly made and unmade emperors in succession disputes. The [[lore-wanduo|Wandwo]], the chattel sorcerers who are the legally owned magical slaves of the imperial family, channel the cosmic energy through bureaucratic forms and are indispensable to every function of government that mortal administration alone cannot perform.
 
 ## The Hierarchy of Castes
 
 Tantsou society runs in eight castes, which fix a person's profession, legal standing, dress, marriage and the name, if any, by which they may be known. From the highest:
 
 [[lore-zhazho|Zhazho]]
-: Sons of the Dragon: the Emperor, his family and the Warlords
+: Sons of the Dragon: the Emperor, his family and the Princes
 
 [[lore-wanduo|Wandwo]]
 : chattel sorcerers, bound to serve the Zhazho
@@ -143,7 +144,7 @@ The [[lore-castelaws|Caste Laws]] set out the rights, duties and restrictions of
 
 ## The Celestial Order
 
-The religion of Tantsou is a celestial bureaucracy, a vast spiritual administration on which the earthly government is modeled. The Celestial Dragon ([[lore-tanzhodty|Tanzho]]) is the First Classifier, the principle of order itself; the Jade Sovereign ([[lore-weizhuodty|Weizhwo]]), the Minister of Storms ([[lore-raoguidty|Raugwi]]), the Minister of the Moon ([[lore-youweidty|Youbwi]]) and the [[lore-fvlmntlrds|Five Elemental Lords]] administer their own domains of classified existence. The Emperor's authority flows down from the Mandate of Heaven, and the common people sustain their spiritual lives through [[lore-ancstrwrshp|Ancestor Worship]], a system of moral ledgers in which merit and default are recorded and inherited.
+The religion of Tantsou is a celestial bureaucracy, a vast spiritual administration on which the earthly government is modeled. The Celestial Dragon ([[lore-tanzhodty|Tanzho]]) is the First Classifier, the principle of order itself; the Jade Sovereign ([[lore-weizhuodty|Weizhwo]]), the Minister of Storms ([[lore-raoguidty|Raugwi]]), the Keeper of the Jade Seal ([[lore-youweidty|Youbwi]]) and the [[lore-fvlmntlrds|Five Elemental Lords]] administer their own domains of classified existence. The Emperor's authority flows down from the Mandate of Heaven, and the common people sustain their spiritual lives through [[lore-ancstrwrshp|Ancestor Worship]], a system of moral ledgers in which merit and default are recorded and inherited.
 
 Against the order stand the [[lore-infrnlrlms|Infernal Realms]], the zones where the [Great Sorting]{.name data-type="lore/cosmology"} was never finished and the Unclassified presses on the borders of the sorted world. Imperial ritual, the work of the Wandwo and the moral discipline of the whole population are understood as the keeping of that boundary, without which, in the Tantsou view, the cosmos would in time dissolve. The [[lore-celestlrdr|Celestial Order]] note sets out the whole framework.
 

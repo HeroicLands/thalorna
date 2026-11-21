@@ -845,7 +845,7 @@ packageBuild:
         - address: affiliation-svghrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-tantsouempr
-          reason: The polity states no total population and no land pass has supplied one; the land pass records it.
+          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the towns and villages are unlisted.
         - address: affiliation-tjdrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-tribestrzd

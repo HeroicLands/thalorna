@@ -12,57 +12,50 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: autocracy
+    model: council
     summary: >-
-      A boss whose word is the organization's only law, held for exactly as long as it is feared.
+      Small compartmentalized cells of escaped Wandwo under a senior leadership known to fewer than a dozen of its members, each bound by a ritual that consumes them at capture.
     ranks:
       - level: 0
-        title: Marked
-        description: Named for killing, and every member who meets them is expected to try.
+        title: Severed
+        description: >-
+          A member cut off from the Sect when a cell is dissolved.
       - level: 1
-        title: Hanger-on
+        title: Sympathizer
         description: >-
-          Around the organization and useful to it—a doorman, a runner, a girl in a house—and told nothing.
+          An outsider who shelters, warns or pays for the Sect without knowing its members, such as a Shwonong organizer.
       - level: 2
-        title: Associate
+        title: Candidate
         description: >-
-          Working for the organization without being of it: paid for jobs, and disposable between them.
+          An escaped Wandwo under the evaluation of years in which loyalty, discretion and discipline are tested again and again.
       - level: 3
-        title: Made Member
+        title: Cell Member
         description: >-
-          Sworn in and under the organization's protection, owing it obedience and a cut of everything.
+          Admitted to a cell and knows only the sender and recipient next to them in the chain.
       - level: 4
-        title: Earner
+        title: Archivist
         description: >-
-          Running a business of the organization's—a racket, a route, a house—and paying up from it.
+          Guards one of the hidden libraries of suppressed magic, whose access follows seniority and need.
       - level: 5
-        title: Enforcer
+        title: Liberator
         description: >-
-          Charged with what the organization collects by fear, and with what it does when fear fails.
+          Extracts a Wandwo from a household, breaks the binding rituals and relocates them to a safe interstice.
       - level: 6
-        title: Crew Boss
-        description: Holding a crew and a territory, answerable for both and for what they bring in.
+        title: Cell Leader
+        description: >-
+          Heads a cell and answers for its security, dissolving it when compromise is suspected.
       - level: 7
-        title: Second
+        title: Elder
         description: >-
-          Second in the organization, running it day to day and standing between the boss and everyone else.
-      - level: 8
-        title: Boss
-        description: >-
-          Head of the organization, whose word is its only law and whose position lasts exactly as long as it is feared.
+          One of the senior leadership, carrying a binding ritual that consumes them at the moment of capture.
     offices:
-      Boss: Head of the organization, whose word is its law for as long as it is feared.
-      Second: >-
-        Second, running the organization day to day and standing between the boss and everyone else.
-      Counsellor: Adviser to the boss, holding no crew and no territory and more influence than either.
-      Crew Boss: Holder of a crew and a territory, answerable for what both produce.
-      Enforcer: Collector by fear, and executor of what follows when fear fails.
-      Fence: Buyer and mover of what the organization takes, and its most closely held connection.
-      Fixer: Buyer of officials, judges and watchmen, and keeper of what each of them costs.
-      Treasurer: >-
-        Keeper of the organization's money—its cuts, its bribes, its reserve, and where all three are.
-      Master of Lookouts: Runner of the network of eyes on which every operation depends.
-      Courier: Carrier of what may not be written, between people who may not meet.
+      Elder: One of the few who lead the Sect and carry its whole picture.
+      Cell Leader: Head of a cell, answerable for its security and its dissolution.
+      Liberator: Rescuer of Wandwo from the households that own them.
+      Archivist: Keeper of a concealed library of suppressed magic.
+      Information Broker: Keeper of what the Sect knows of weak households, bribable magistrates and suborned clerks.
+      Embassy Liaison: Carrier of the arrangement with the Thordimalon embassy in the capital.
+      Keeper of Leverage: Head of the small unit that holds the blackmail on which the embassy arrangement rests.
   seat: null
   population: null
   economy: []

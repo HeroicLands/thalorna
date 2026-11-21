@@ -57,7 +57,7 @@ The Wandwo work it by building mental forms shaped as procedures. Where an Arcan
 
 ## Faith and Government
 
-Religion and government in Tantsou are one system seen from two sides. The imperial government is modeled on the celestial bureaucracy, or, as the Tantsou insist, heaven's administration came first and earth copies it. The Emperor (_Tengzhei_, Son of Heaven) holds the [[lore-mandatehvn|Mandate of Heaven]], an appointment, not a divine blessing. The Warlords (_Wozhwo_) govern their provinces as overseers govern bureaus. The castes are a classification laid down at the Great Sorting, so to challenge them is dangerous to the cosmos as well as against the law, because it threatens to unsort something Tanzho sorted.
+Religion and government in Tantsou are one system seen from two sides. The imperial government is modeled on the celestial bureaucracy, or, as the Tantsou insist, heaven's administration came first and earth copies it. The Emperor (_Tengzhei_, Son of Heaven) holds the [[lore-mandatehvn|Mandate of Heaven]], an appointment, not a divine blessing. The Princes (_Zho Zhei_) govern their provinces as overseers govern bureaus. The castes are a classification laid down at the Great Sorting, so to challenge them is dangerous to the cosmos as well as against the law, because it threatens to unsort something Tanzho sorted.
 
 That changes what rebellion means. In the kingdoms of the west a rebel is a criminal. In Tantsou he is an agent of the Hwenlei, a man whose acts could unmake the world, and from the Tantsou side the empire's rigidity is the upkeep of the cosmos.
 

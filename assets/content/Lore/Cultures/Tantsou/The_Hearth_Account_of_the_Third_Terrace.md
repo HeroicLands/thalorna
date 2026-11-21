@@ -194,7 +194,7 @@ My daughter, who is four months, and is registered under the White Ape.
 
 My sister, Second Daughter of the Terrace-Keeper,/
 was found to have the gift at the testing in her tenth year,/
-and was entered as Wandwo, and taken to the compound of the Warlord's house/
+and was entered as Wandwo, and taken to the compound of the Prince's house/
 in the same season./
 The household does not seek her./
 That is the line the law gives. It is read as the law gives it.

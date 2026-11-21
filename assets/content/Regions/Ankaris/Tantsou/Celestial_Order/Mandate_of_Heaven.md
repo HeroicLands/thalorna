@@ -29,9 +29,9 @@ This shapes what the Tantsou admire. The highest virtue is to keep the pattern c
 
 ## The Mandate at Work
 
-**The law.** The Emperor is the highest legal authority and the last court of appeal in the mortal administration, and his decrees carry heaven's sanction. The Warlords of the [[lore-zhazho|Zhazho]] govern their provinces by authority he delegates, and their legitimacy runs from the Emperor's appointment, which runs from the Mandate, which runs from heaven.
+**The law.** The Emperor is the highest legal authority and the last court of appeal in the mortal administration, and his decrees carry heaven's sanction. The Princes of the [[lore-zhazho|Zhazho]] govern their provinces by authority he delegates, and their legitimacy runs from the Emperor's appointment, which runs from the Mandate, which runs from heaven.
 
-**The burden.** The Zhazho are burdened as well as privileged. The imperial family and the Warlords answer to heaven for keeping the classification in order in their lands, and every famine, flood or plague is entered against the institutional ledger. They rule because the post was assigned to them, and the post came with the duty of keeping the sorted world sorted.
+**The burden.** The Zhazho are burdened as well as privileged. The imperial family and the Princes answer to heaven for keeping the classification in order in their lands, and every famine, flood or plague is entered against the institutional ledger. They rule because the post was assigned to them, and the post came with the duty of keeping the sorted world sorted.
 
 **The health of the realm.** The Yaiwo healers of the [[lore-tsaihuo|Tsaihwo]] teach that the people's health shows the state of the Mandate. A body is a small copy of the classified cosmos, with organs for elements and channels for the lines of administration. When the Emperor governs well, the people are healthy; when he fails, sickness spreads, carried down from the failing administration into the bodies of his subjects.
 

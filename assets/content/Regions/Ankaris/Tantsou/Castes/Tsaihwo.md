@@ -45,7 +45,7 @@ When a shopkeeper in a Tantsou town is robbed, it is a Wonong he goes to, and th
 
 ## The Yaiwo
 
-The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaihwo by caste, and the respect they command runs far past it: a Warlord rises when a Grand Healer enters his hall, and a Tanchei scholar takes her advice without argument. The Tantsou say that illness does not ask a patient's caste, and neither does the healer.
+The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaihwo by caste, and the respect they command runs far past it: a Prince rises when a Grand Healer enters his hall, and a Tanchei scholar takes her advice without argument. The Tantsou say that illness does not ask a patient's caste, and neither does the healer.
 
 **What a healer believes.** The Yaiwo teach that the body is a small copy of the [Great Sorting]{.name data-type="lore/cosmology"}. Health is a body whose elements, organs and flows of [Lei]{.name data-type="lore/cosmology"} are each in their proper place, and illness is a breach of that classification: something displaced from where it belongs. Body, mind and spirit are three sortings of one person, and treating one alone leaves the work half done. A healer's [Mandate of Health]{.name data-type="lore/theology"} mirrors the Emperor's [[lore-mandatehvn|Mandate of Heaven]], each the keeping of order in its own domain, and the healer is taught that living in good order prevents more sickness than any remedy cures. [[lore-medicine|Medicine]] sets out the practice in full.
 

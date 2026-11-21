@@ -299,7 +299,7 @@ A huge gray animal, smaller and more compact than the elephants of [[place-vedya
 
 ## In the Land
 
-Wild herds range the forests and grasslands of the Tantsou heartland's river basins where the terraces have not reached, and the wooded hills toward the frontiers, moving between the river margins in the dry season and the high grass in the wet. They raid the terraced fields at the forest's edge, and a herd that has learned the taste of rice comes back. Tame elephants are everywhere there is heavy work: in the timber-yards along the rivers, in the quarries, in the stables of the Warlords, and in the baggage-trains of the armies that garrison the western passes.
+Wild herds range the forests and grasslands of the Tantsou heartland's river basins where the terraces have not reached, and the wooded hills toward the frontiers, moving between the river margins in the dry season and the high grass in the wet. They raid the terraced fields at the forest's edge, and a herd that has learned the taste of rice comes back. Tame elephants are everywhere there is heavy work: in the timber-yards along the rivers, in the quarries, in the stables of the Princes, and in the baggage-trains of the armies that garrison the western passes.
 
 ## Key Behaviors
 
@@ -307,7 +307,7 @@ A wild herd is a family of cows and calves led by an old cow, and it lives by he
 
 ## What the Tantsou Do
 
-Elephant-keeping is a hereditary trade in Tantsou, passed from father to son within a lineage, and a keeper raises a young elephant from the age of four or five and works it until one of them dies. The animals belong to whoever holds their register: a Warlord, a temple, a ministry, a great household. A wild herd raiding the terraces is reported to the district office, and the office sends men to drive it off with drums and fire, or to take its young for the stables; a farmer who kills a wild elephant without leave has destroyed something the register might have claimed. In war the [[lore-wohou|Wohou]] use elephants to carry, to haul siege engines and to break gates, and some lords put armored archers on their backs. Elephant ivory is entered in the same ledgers as gold.
+Elephant-keeping is a hereditary trade in Tantsou, passed from father to son within a lineage, and a keeper raises a young elephant from the age of four or five and works it until one of them dies. The animals belong to whoever holds their register: a Prince, a temple, a ministry, a great household. A wild herd raiding the terraces is reported to the district office, and the office sends men to drive it off with drums and fire, or to take its young for the stables; a farmer who kills a wild elephant without leave has destroyed something the register might have claimed. In war the [[lore-wohou|Wohou]] use elephants to carry, to haul siege engines and to break gates, and some lords put armored archers on their backs. Elephant ivory is entered in the same ledgers as gold.
 
 ## Signs
 
