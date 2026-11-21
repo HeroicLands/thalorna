@@ -18,11 +18,11 @@ Each seat is a tower with a walled workshop behind it, cut into rock or built ag
 
 ## Layers {#history}
 
-The seats are the work of the war with the Republic, from 335 to 312 BF, when the city-states turned their mages on the legions and some of those mages became warlords their own city-states could not fully control ([[lore-helionscnq|the Conquest of Helionis]]). The Republic took Theradon's seat with the town in 330 BF and carried away what its workshop held ([[lore-dragondead|the Dragon Dead at Theradon]]), and its master died when the town fell.
+The seats are the work of the war with the Republic, from 335 to 312 BF, when the city-states turned their mages on the legions and some of those mages became warlords their own city-states could not fully control ([[lore-helionscnq|the Conquest of Helionis]]).
 
 ## What Is There Now {#present}
 
-The seats stand roofless and unrepaired, and each city-state leaves its own alone. Scholars come to measure the walls and copy the marks, [[affiliation-ordoarcanis|Arcane Order]] surveyors inspect each seat and write it into their register, and treasure-seekers dig at the cellars, whom the Order arrests when it finds them and the city-states' magistrates mostly ignore.
+The seats stand roofless and unrepaired.
 
 ## Who Goes
 

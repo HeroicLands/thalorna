@@ -39,4 +39,4 @@ The **Village Council of Veridon** governs the village of [[place-veridon|Verido
 
 ## History {#history}
 
-The Iron Wolves were founded forty years ago as a heavy-infantry company in the Amradi border country of the [[place-southrnmrch|Southern March]], and they keep their permanent base outside Veridon. The village's living has depended on the compound since the company raised it.
+The village has lived off the company's compound since the company made its base there.

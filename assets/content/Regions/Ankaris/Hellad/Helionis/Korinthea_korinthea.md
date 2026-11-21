@@ -86,7 +86,7 @@ Korinthea holds two of the twelve hinterland towns, [[place-hadrithon|Hadrithon]
 
 ## History {#history}
 
-In 327 BF, in the eighth year of the Republic's war, a Korinthean mage-warlord broke a legion on the western road with the war's greatest working, and when the Dragon Riders came over the field the working turned back through the Korinthean citizen levy drawn up behind him and killed it in its ranks ([[lore-heladturnedwrk|the Turned Working]]). The plain is [[place-sourplain|the Sour Plain]]. Korinthea opened its gates to the legion without a siege, its assembly lost its standing, and [Nomason]{.name data-type="being/npc"}, the first High Judge of the temple at Korinthea, took the city-state's law into the temple's keeping, where it stays.
+In 327 BF, in the eighth year of the [Vilérian Republic]{.name data-type="affiliation/polity"}'s war, a Korinthean mage-warlord broke a legion on the western road with the war's greatest working, and when the [Dragon Riders]{.name data-type="affiliation"} came over the field the working turned back through the Korinthean citizen levy drawn up behind him and killed it in its ranks ([[lore-heladturnedwrk|the Turned Working]]). The plain is [[place-sourplain|the Sour Plain]]. Korinthea opened its gates to the legion without a siege, its assembly lost its standing, and [Nomason]{.name data-type="being/npc"}, the first High Judge of the temple at Korinthea, took the city-state's law into the temple's keeping, where it stays.
 
 ## See Also {#see-also}
 

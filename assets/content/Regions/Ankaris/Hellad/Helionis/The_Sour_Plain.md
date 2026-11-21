@@ -24,17 +24,17 @@ The dead of both armies stand on the plain on the anniversary of the battle, wor
 
 ## Layers {#history}
 
-In 327 BF, in the eighth year of the Republic's war, a Korinthean mage-warlord broke a legion here with the war's greatest working, and when the Dragon Riders came over the field the working turned back through the Korinthean levy behind him, so that both armies died on the plain in one afternoon ([[lore-heladturnedwrk|the Turned Working]]). The working's poison was spent within a generation, and the withering it left stayed. Korinthea set the ring of boundary stones after the war and has reset it outward three times.
+In 327 BF, in the eighth year of the [Vilérian Republic]{.name data-type="affiliation/polity"}'s war, a Korinthean mage-warlord broke a legion here with the war's greatest working, and when the [Dragon Riders]{.name data-type="affiliation"} came over the field the working turned back through the Korinthean levy behind him, so that both armies died on the plain in one afternoon ([[lore-heladturnedwrk|the Turned Working]]).
 
 ## What Is There Now {#present}
 
-The withering still spreads, the dead still stand on the anniversary, and the carters still go round by daylight. Korinthea's temple judge walks the ring each year and records where the stones stand, Korinthea refuses Arcane Order surveyors at the ring, and no Korinthean assembly has paid for the settlement rite.
+The withering still spreads and the dead still stand on the anniversary, and Korinthea refuses [[affiliation-ordoarcanis|Arcane Order]] surveyors at the ring.
 
 ## Who Goes
 
 - **Carters**, who go round it by daylight and give the plain a wide berth.
 - **Scholars**, [[being-blnhdrks|Bulelon Hadrikes]] of [[place-theradon2|Theradon]] among them, who come for the ground.
-- **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, whom Korinthea refuses at the ring.
+- **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, who come to the ring.
 - **[[affiliation-blackflame|The Black Flame]]**, which works fields anywhere, and for which a withering that spreads is the work already half done.
 
 ## Hooks {#hooks}

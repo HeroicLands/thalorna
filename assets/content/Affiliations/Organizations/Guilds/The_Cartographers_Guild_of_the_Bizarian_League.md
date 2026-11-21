@@ -119,7 +119,7 @@ A guild master's seal is a brass die carrying the master's personal mark and the
 
 ## The Present Quarrel {#present}
 
-The League's city guard is investigating Master [[being-damklsmpsn|Damáklios Bridutis]] for selling guild work to foreign agents, and Master [[being-fruzukazselv|Fruzukáz Selvazhazát]] feeds the investigation with insinuations of his own. The Rozimoi of the Tevran have written to the guild's leadership about the case, and the leadership has kept the matter at chapter level and the letters private. The Council of Masters does not know how deep the selling of League maps runs, and its Grand Cartographer, [Olara Marenies]{.name data-type="being/npc"}, is politically isolated.
+The League's city guard is investigating Master [[being-damklsmpsn|Damáklios Bridutis]] for selling guild work to foreign agents, and Master [[being-fruzukazselv|Fruzukáz Selvazhazát]] feeds the investigation with insinuations of his own. The Rozimoi of the Tevran have written to the guild's leadership about the case, and the leadership has kept the matter at chapter level and the letters private. The Council of Masters does not know how deep the selling of League maps runs, and its Grand Cartographer, Olara Marenies, is politically isolated.
 
 ## Plot Hooks
 

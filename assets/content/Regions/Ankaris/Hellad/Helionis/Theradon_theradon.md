@@ -93,7 +93,7 @@ Theradon uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel
 
 ## History {#history}
 
-Theradon was the first city of the war to fall. In 330 BF the [Vilérian Republic]{.name data-type="affiliation/polity"} took the town and its mage-warlord's workshop and carried away what the workshop held ([[lore-dragondead|the Dragon Dead at Theradon]]); the warlord died when the town fell, and his stripped seat still stands on the terraces above it ([[place-warlordseats|the Seats of the Mage-Warlords]]). About 625 AF the councils of Theradon and Thirenae, the city-states with the oldest colleges, agreed with the [[affiliation-ordoarcanis|Thordimalon]]'s Helionis chapter that a philosopher may study, teach and dispute arcane theory without belonging to the Order so long as he does not practice ([[lore-heladconcordat|the Concordat of Theory]]).
+Theradon fell early in the war. In 330 BF the [Vilérian Republic]{.name data-type="affiliation/polity"} took the town and its mage-warlord's workshop and carried away what the workshop held ([[lore-dragondead|the Dragon Dead at Theradon]]); the warlord died when the town fell, and his stripped seat still stands on the terraces above it ([[place-warlordseats|the Seats of the Mage-Warlords]]). About 625 AF the councils of Theradon and Thirenae, the city-states with the oldest colleges, agreed with the Helionis chapter of [[affiliation-ordoarcanis|the Order]] that a philosopher may study, teach and dispute arcane theory without belonging to the Order so long as he does not practice ([[lore-heladconcordat|the Concordat of Theory]]).
 
 ## See Also {#see-also}
 
