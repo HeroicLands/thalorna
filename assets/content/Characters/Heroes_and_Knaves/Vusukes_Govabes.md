@@ -3,6 +3,7 @@ shortcode: thmdspfnts
 name: {full: Vusukes Govabes, given: Vusukes, clan: Govabes}
 type: being
 subType: character
+description: "A trapper of the Bizaris foothills, independent, who sells furs to merchants and clears predators from farmers' herds."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -548,17 +549,22 @@ Vusukes operates entirely independently and mistrusts formal organizations, but 
 
 ## Plot Hooks
 
-The Disappearing Animals
-: Over the past season, the normal migrations have ceased entirely. Herds that should pass through the foothills never arrive. Vusukes begins to suspect something far larger than poaching—perhaps a territorial shift among apex predators, or the influence of something unnatural. **Master Iskandor's** old journals contain fragmented references to a previous occurrence three centuries past, hinting at catastrophe. Investigating the cause would require venturing into territories Vusukes has never explored, following signs only he can read.
+Pelts Sold under False Names
+: The Poacher Cartel, led by Shabrikos the Scarred, strips forests bare and sells inferior pelts under false names, and some reach the Merchant House of Pelios, which has bought Vusukes's pelts for two decades. Kuhánikos Pelios asks Vusukes which furs are false, and Vusukes must name poachers who will answer him in kind.
 
-The Mysterious Commission
-: A well-dressed stranger arrives at Vusukes' lodge with an extraordinary offer: track a specific person moving through the wild lands, report their location, and receive a sum of gold that would secure his retirement. The description is vague—a young scholar in dark robes, possibly injured. Vusukes' pursuit leads him to discover the target is fleeing the [Bizarian Inquisition]{.name data-type="affiliation"}, forcing him to decide whether to collect a fortune or protect an innocent from persecution.
+A Predator among Meidánikos's Herds
+: Farmer Meidánikos Fikazur, whose lands a bear once plagued until Vusukes relocated it, sends an urgent request again because predators menace his herds. The road there crosses ground the Logging Consortium is cutting, forest Vusukes holds sacred, and he must either hold his resentment or act on it.
 
-The Beast in the Deep Forest
-: A farmer's entire flock vanishes without blood or struggle. Vusukes' investigation reveals traces of something that should not exist—a predator unlike any in the natural order, leaving spoor that confounds his understanding. Tracking it leads into the deepest, most ancient parts of the forest, where **old magic** may still linger and forgotten dangers lurk.
+Hides for the Leatherworker
+: Master Leatherworker Sipehrikos Vanazur, who uses only the finest hides, prepared by Vusukes himself, orders more than a winter's trapping can supply. Vusukes can take hides he trusts less or tell a partner no.
 
-The Apprentice
-: A young, idealistic ranger named [Faridena Kassandazur]{.name data-type="being/npc"} seeks Vusukes out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is real mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukes' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
+An Offer from Shabrikos
+: Shabrikos the Scarred approaches Vusukes with a proposal to join forces against a mutual enemy. Vusukes has worked against the Cartel for years, and his methods cannot easily work beside a partner he distrusts.
 
-The Poacher's Betrayal
-: **Shabrikos the Scarred** approaches with an unlikely proposition: join forces against a mutual enemy—a mysterious lord buying up forests to convert them to farmland. Vusukes must decide whether a temporary alliance is possible, and whether his methods can work alongside such morally questionable partners. The conspiracy runs deeper than mere logging, reaching into the highest levels of **Bizarian League** politics.
+:::secret {title="Hooks: the stranger's commission and the buyer of forests"}
+A Commission to Find a Scholar
+: A well-dressed stranger offers Vusukes a sum that would secure his retirement to track a young scholar in dark robes, possibly injured, through the wild lands and report where the scholar is. The scholar is fleeing the Bizarian Inquisition, and Vusukes must decide whether to collect a fortune or protect an innocent from persecution.
+
+The Lord Who Buys Forests
+: Shabrikos's mutual enemy is a mysterious lord buying up forests to convert them to farmland, and the conspiracy reaches the highest levels of Bizarian League politics. Vusukes must decide whether a temporary alliance with the Cartel can be borne.
+:::

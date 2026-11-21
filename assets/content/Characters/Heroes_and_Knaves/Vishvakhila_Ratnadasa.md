@@ -3,6 +3,7 @@ shortcode: vshvkhlrtndds
 name: {full: Vishvakhila Ratnadasa, given: Vishvakhila, clan: Ratnadasa, vedy: [vishvu]}
 type: being
 subType: character
+description: "A chandler of Chendrapur who turned his father's candle workshop into a business sought by the great houses and holds influence in the chandlers' shrena."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -538,17 +539,22 @@ The chandlers' shrena
 
 ## Plot Hooks
 
-The Quality Problem
-: Vishvakhila discovers that his cost-cutting measures have resulted in structural problems with his candles—they release toxic fumes when burned, a quality that could cause widespread illness if discovered. He must decide whether to publicly recall the products and damage both his reputation and profits, attempt to quietly fix future production while leaving dangerous candles in circulation, or find some middle path that involves covering up the problem. Meanwhile, a child of a great house becomes ill, apparently from candle exposure, and investigators begin looking into his operation.
+Counterfeit Candles under His Mark
+: Cheap, inferior candles are sold under Vishvakhila's signature mark, damaging his name and enriching an unknown rival. He can trace them through the shrena and his own workshops, and his influence in the shrena means any inquiry reaches people he depends on.
 
-The Desperate Supplier
-: A craftsperson named [Dipanaka]{.name data-type="being/npc"}, who supplies Vishvakhila with rare scenting oils, faces financial ruin and approaches him with a proposal: invest in Dipanaka's operation and become partners rather than merchant-supplier. Vishvakhila's instinct is to let Dipanaka fail and acquire the operation at bankruptcy prices. However, Dipanaka possesses secrets about Vishvakhila's previous business dealings that, if revealed, could damage his reputation and legal standing. The negotiation becomes a dangerous game of manipulation and blackmail.
+A Cooperative Market Opens
+: A cooperative of craftspeople opens a market meant to be free of merchants like Vishvakhila and makes his downfall its symbolic goal. He can buy into the cooperative, undercut it, or ignore it while his suppliers decide where to sell.
 
-The Counterfeit Crisis
-: Vishvakhila discovers that someone is manufacturing counterfeit versions of his signature candles—cheap, inferior copies that are nonetheless being sold under his mark. The counterfeits are damaging his reputation while enriching an unknown rival. Investigation reveals a complex smuggling operation that involves members of the chandlers' shrena and possibly even some of his own employees. Protecting his business requires navigating shrena politics, criminal underworlds, and the possibility that those he trusts are complicit.
+The Reformer in the Market
+: A young merchant reformer named Sarvath preaches against exploitative practice in Chendrapur and draws craftspeople and Karmija. Vishvakhila can try to win him over or to discredit him, and Sarvath's following is larger than Vishvakhila expected.
 
-The Reformer's Challenge
-: A charismatic young merchant reformer named [Sarvath]{.name data-type="being/npc"} arrives in Chendrapur, preaching against exactly the kind of exploitative practices Vishvakhila has built his fortune upon. Sarvath's movement gains considerable following among craftspeople and Karmija. Rather than viewing this as a threat to be crushed, Vishvakhila sees an opportunity: if he could convert Sarvath or discredit him, he could inoculate his position against reform movements. He sets out to either co-opt the reformer or destroy his credibility, only to discover that Sarvath is far stronger than expected.
+:::secret {title="Hooks: the cost-cutting, the supplier and the will"}
+Fumes from the Cheaper Wax
+: Vishvakhila's cost-cutting has produced candles that release toxic fumes when burned, and a child of a great house falls ill. He can recall the stock and take the loss, fix future batches quietly, or cover the matter up while investigators look into his workshop.
 
-The Inheritance Trap
-: Vishvakhila's younger brother, estranged for years due to their father's favoritism of Vishvakhila's commerce-focused approach, unexpectedly appears with evidence that their father left a second will—one that Vishvakhila is unaware of. The brother offers to keep the will secret in exchange for a substantial share of Vishvakhila's current fortune and a position in his enterprise. Vishvakhila must either submit to extortion, attempt to suppress the will through corruption, or confront the possibility that his entire understanding of his father's relationship to him is false.
+Dipanaka's Price
+: Dipanaka, who supplies Vishvakhila's scenting oils, faces ruin and proposes a partnership. Vishvakhila would rather let him fail and buy the operation cheap, but Dipanaka knows secrets of his earlier dealings that could damage his name and legal standing.
+
+The Second Will
+: Vishvakhila's estranged younger brother appears with evidence of a second will left by their father and offers to keep it quiet for a share of the fortune and a place in the business. Vishvakhila can pay, try to suppress it, or face what it says about his father.
+:::

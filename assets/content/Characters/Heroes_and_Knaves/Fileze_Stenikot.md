@@ -3,6 +3,7 @@ shortcode: fylzstnkt
 name: {full: Fileze Stenikot, given: Fileze, clan: Stenikot}
 type: being
 subType: character
+description: "A mercenary of Kostaros and member of the Mercenaries' Guild who chooses clients by merit, hired each year by the Village Council of Marshfeld against bandits and raiders."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -542,17 +543,22 @@ The Mercenaries' Guild of the Bizarian League
 
 ## Plot Hooks
 
-The Impossible Contract
-: A young scholar offers Fileze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the [Bizarian Inquisition]{.name data-type="affiliation"} itself, forcing her into direct conflict with official authority.
+Marshfeld's Yearly Hiring
+: The Village Council of [[place-marshfeld|Marshfeld]] hires Fileze again against bandits and raiders, and Elder Magistrate Raza, who mentors her, asks her to stay through the harvest. Lady Tulvazea Melitakit has found another village that cannot pay mercenary rates, and Fileze cannot be in both places.
 
 The Ghost Brigade
-: Fileze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain [[being-dreliapetrik|Drelia Petrikot]]**, asks Fileze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
+: Former soldiers, mostly women, have begun vigilante operations against violent criminals the courts refuse to prosecute, and their leader, Captain Drelia Petrikot, asks Fileze to join them or at least to train them. Accepting makes her an outlaw, and refusing abandons people who could do great good.
 
-The Infiltration
-: Lady Tulvazea asks Fileze to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Fileze to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
+A Public Challenge from Ruzhvelis
+: Mercenary Lord Ruzhvelis Sapipidek, who has worked to undermine her contracts, challenges Fileze to single combat before the mercenary community, the winner taking both reputations. She cannot refuse without losing the confidence of her peers, and she suspects he wants something more than the fight.
 
-The Rival's Challenge
-: **Ruzhvelis Sapipidek** publicly challenges Fileze to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Fileze suspects he has some larger purpose in forcing this confrontation.
+A Contract Without a Name
+: A young scholar offers Fileze an extraordinary sum to protect someone for one week, on the condition that she not know who it is or why they are in danger. The Scholars' Collective of the Archive retains her for sensitive work, and she cannot tell whether this belongs to it.
 
-The Refugee Crisis
-: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Fileze discovers that some "safety operations" are actually harvesting refugees for slavery. She must handle politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.
+:::secret {title="Hooks: the infiltration and the client"}
+The Client Is Hunted
+: The person Fileze is paid to protect is prophetically gifted, and the danger comes from the Bizarian Inquisition itself, which puts her in direct conflict with official authority.
+
+Into the Crimson Brotherhood
+: Lady Tulvazea asks Fileze to infiltrate the Crimson Brotherhood as a criminal for hire, learn who actually leads it and gather evidence for a prosecution. The cover would require acts she would never otherwise commit, and Captain Chirnaleon Validek has already marked her for death.
+:::
