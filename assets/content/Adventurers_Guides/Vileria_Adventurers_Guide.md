@@ -89,13 +89,13 @@ West of the provinces the [[place-kervaron|Kervaron Spine]] rises, which the Sen
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND data.culture = 'thalorna-note-lore-vylarianclt'
-  AND data.population >= 9000
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+  AND data.population.apparent >= 9000
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 ## Money and the Law

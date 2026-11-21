@@ -50,12 +50,12 @@ The Atarzád hold the four greatest cities, a tribe to each.
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "City",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND list_contains(data.parents, 'thalorna-note-place-swoasisbelt')
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 ## Under the Conquerors

@@ -1183,7 +1183,7 @@
                             "parents": ["worldx"]
                         }
                     },
-                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  AND data.population > 1000\n```",
+                    "body": "A land.\n\n```sql\nSELECT address.slug AS _ref\nFROM notes\nWHERE list_contains(data.parents, 'thalorna-note-place-reach')\n  AND data.population.apparent > 1000\n```",
                     "words": 0
                 },
                 "town.md": {
