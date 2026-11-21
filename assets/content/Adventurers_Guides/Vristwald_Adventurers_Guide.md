@@ -125,7 +125,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Ways In
 
-A party can come up the rivers from Velanthia with a fur-buyer's boat, cross the southern highlands from Moktur, or walk in from the Nordmal frontier. A Varokh character might be a young warrior who has not yet earned a true name, a trader on the river circuit, a Shaman's apprentice, an Edrimund sheltered by a household that took them in, or a captive freed and married in. At the first landing, ask three questions: **Whose roof are you under? Before whom have you sworn? Which wesk do they keep here?**
+A party can come up the rivers from Velanthia with a fur-buyer's boat (the [[doc-velanthiaadvguide|Velanthia Adventurer's Guide]] starts there), cross the southern highlands from Moktur, or walk in from the Nordmal frontier. A Varokh character might be a young warrior who has not yet earned a true name, a trader on the river circuit, a Shaman's apprentice, an Edrimund sheltered by a household that took them in, or a captive freed and married in. At the first landing, ask three questions: **Whose roof are you under? Before whom have you sworn? Which wesk do they keep here?**
 
 Campaigns start well from a claim on a village. A captive taken in a failed raid still awaits ransom, and the party is sent to carry the price. A feud between a village and its daughter clearing needs witnesses to a settlement both sides will accept. A Grukar raid leaves a palisade open and nobody to bury. A Velanthian prince wants Varokh auxiliaries for a war that is not theirs, and a War Chief wants to know what he will pay.
 
