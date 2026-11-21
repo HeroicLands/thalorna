@@ -13149,6 +13149,10 @@ data:
     - {name: Midhalión Region, tongue: translation}
     - {name: midhalión, tongue: human}
     - {name: zerathia, tongue: human}
+    - {name: magar-thubád, tongue: khazari, built: [m-g-r, th-b-d, compound]}
+    - {name: Magar-thubád Hold, tongue: translation}
+    - {name: The Following of the Grain, tongue: translation}
+    - {name: The City of the Seven Towers, tongue: translation}
   tongues:
     - {tag: khazari, meaning: a Khazari name, language: skill-khazarlng}
     - {tag: older, meaning: "a word older than the rules, which keeps a shape no frame makes"}
@@ -13663,7 +13667,7 @@ Khazari hold that a name is not a label but a **charge**: it names work the bear
 
 ### Clans and Houses
 
-The Khazari are seven **clans**, the seven who fled to Thalorna together with [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), whom their tradition holds to be the agent of [[lore-goddreams|the God of Dreams]], called Lubát. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In [Khazartúrn]{.name data-type="place/settlement"} each clan held one of the seven towers.
+The Khazari are seven **clans**, the seven who fled to Thalorna together with [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|the Coming of the Khazari]]), whom their tradition holds to be the agent of [[lore-goddreams|the God of Dreams]], called Lubát. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In [[place-khazarturn|Khazartúrn]]{.show} each clan held one of the seven towers.
 
 | Clan     | Skeleton | Master craft                                                                |
 | -------- | -------- | --------------------------------------------------------------------------- |

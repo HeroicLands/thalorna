@@ -83,29 +83,38 @@ Aelwythi follows the guide's spellings and readings, as described in
 The common rules of the guide:
 
 - **One sound, one spelling.** Each vowel letter has one sound, and a final _e_
-  is never silent. Vowels are sounded one at a time unless they form a listed
-  pair (_ai_, _au_, _ei_, _oi_, _ou_, the long _aa_, _ii_, _uu_, and _ie_, _uo_,
-  _ae_). A pair that is not in the table is sounded apart, as in _Zoë_.
-- **Some pairs belong to some tongues.** _ee_ and _oo_ occur in
-  Senali and Sovidur. Aelwythi writes a held vowel as _aa_, _ii_ or _uu_.
-  _ao_ belongs to Tantsou, and _ui_ to Tantsou and Jurthati. _bh_ is written only by a tongue whose own note says
-  so. A letter pair outside the guide is used only by a language whose note
-  allows it.
+  is never silent. Five pairs, _ai_, _au_, _ei_, _oi_ and _ou_, and the held
+  _aa_, _ii_ and _uu_ are each said as one syllable. A
+  closing _y_ joins the vowel before it only in _iy_ and _uy_, where no vowel
+  follows. Any other run of adjacent vowels is read left to right, each vowel
+  its own syllable, so _koa_ is _KOH-ah_ and _kao_ is _KAH-oh_.
+- **A tongue may use less of the guide, never more.** A tongue uses some of the
+  guide's sounds and spellings and leaves others aside. It reads no letter
+  differently and writes no vowel pair the guide does not list, so any other
+  run of adjacent vowels is read as separate syllables in every tongue. Aelwythi
+  writes a held vowel as _aa_, _ii_ or _uu_. _bh_ is written only by a tongue
+  whose own note says so.
 - **Consonants have their usual values in the reader's language**, with the guide's points: _g_
-  is always hard, _kh_ is the Scottish _loch_, _y_ is a consonant before a
-  vowel and a vowel _i_ elsewhere, _ng_ may open a word. The letter _c_ appears
+  is always hard, _kh_ is the Scottish _loch_, _y_ is always a consonant
+  apart from the closing _iy_ and _uy_, _ng_ may open a word. The letter _c_ appears
   only inside _ch_. The letter _x_ is never used.
 - **No silent letters.** A word is written the way it sounds.
 - **Stress** falls on the first syllable of a two-syllable word and on the
-  second-to-last syllable of a longer word. See [Stress as data](#4-stress-as-data).
+  second-to-last syllable of a longer word. A tone-marked syllable is stressed
+  unless an acute marks another syllable. See [Stress as data](#4-stress-as-data).
 - **Marks.** An acute marks a stressed syllable the rule would not choose, and a
   word carries at most one acute. A grave (_à_, _ì_, _ò_, _ù_) writes a short
-  vowel, and a diaeresis marks a vowel sounded apart from the vowel before it. A
-  mark that marks neither stress nor a changed sound is left out.
+  vowel, and a word may carry any number of graves. A
+  diaeresis (_ä_, _ë_, _ï_, _ö_, _ü_) starts a new syllable at a vowel that
+  would otherwise join the vowel before it, as in _kaü_, two syllables, against
+  _kau_, one; a word may carry any number of diaereses, and none sits on a vowel
+  that is already read apart. A mark that marks neither stress nor a changed
+  sound is left out.
 - **The apostrophe** marks a catch in the throat. It is not a mark, and a word
   carries at most two.
-- **Length** is written only by a doubled vowel. Tone and nasal vowels are not
-  written.
+- **Length** is written only by a doubled vowel. A caron or circumflex on the
+  first letter of a held vowel writes a rising or falling tone, and a word
+  carries at most one. Nasal vowels are not written.
 
 ### Aelwythi word spelling
 
@@ -188,8 +197,8 @@ way.
 
 - **Words look like familiar syllables**, with letters at their usual values in the reader's
   language. Frequent words are short.
-- **Diacritics are rare and purposeful.** At most one mark in a word, and only
-  where it marks stress or changes how a letter sounds.
+- **Diacritics are rare and purposeful.** A mark appears only where it marks
+  stress or changes how a letter sounds.
 - **Mood, questions and quotation are carried by words and context** in every
   tongue's script, never by marks, unless that tongue's own note says its
   scribes use a mark. Do not add a question mark, quotation mark or mood marker
@@ -556,6 +565,10 @@ stress: { two: first, longer: penultimate, mark: acute }
 - **`mark`** is the diacritic that marks a stress the rule would not choose and
   moves the stress to the syllable it sits on: `acute`, `grave` or
   `circumflex`. The roman spelling uses the acute.
+
+In the roman spelling the stressed syllable is the one with an acute; failing
+that, the one with a tone mark (caron or circumflex); failing that, the one the
+rule above chooses.
 
 A language that stresses the first syllable of every word states it in full:
 

@@ -3,6 +3,7 @@ shortcode: rkhmkhlthn
 name: {full: Rakhimea Khalithon}
 type: being
 subType: npc
+description: "A huscarl of Athenikos who serves Lady Lomaris, trained alongside her brothers and known for her combat and tactical skill."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -402,7 +403,7 @@ Rakhimea Khalithon is a 25-year-old woman who stands 6'1" tall and is of moderat
 
 Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Rakhimea Khalithon came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Rakhimea has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady [[being-lomarisumari|Lomaris]], Rakhimea aims to show that women can be just as strong as men on the battlefield. Her confidence and determination inspire those around her.
+Rakhimea has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady [[being-lomarisumari|Lomaris Umarides]], Rakhimea aims to show that women can be just as strong as men on the battlefield. Her confidence and determination inspire those around her.
 
 ## Psyche
 
@@ -436,17 +437,11 @@ Few; while respected, some traditionalists doubt her abilities.
 
 ## Plot Hooks
 
-The Huscarl's Dilemma
-: Rakhimea faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
+The Truce at the Spring Fair
+: The steppe clans that raid [[place-daminea|Daminea]] in spring come to its fair under a market truce, and Lady Lomaris plans to attend. Rakhimea, who is hot-headed, must keep her charge safe among men who were raiders the week before.
 
-Old Grudges
-: Few; while respected, some traditionalists doubt her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Doubter on the Muster Ground
+: [[place-athenikos2|Athenikos]]'s citizens by descent serve in the militia, and a traditionalist there doubts that a woman can lead Lady Lomaris's escort to the fair. Rakhimea can prove it on the ground, but she is hot-headed, and an answer in anger would confirm his doubt.
 
-Echoes of the Past
-: Something from Rakhimea's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Rakhimea depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Rakhimea the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+Lady Lomaris's Errand to the Fleet
+: Lady Lomaris sends Rakhimea to the _strátimor_ with word that her household's horses will not be ready for the spring escort to Daminea. The strátimor's officers will hear the message from a woman, and the strátimor is to answer through her.

@@ -3,6 +3,7 @@ shortcode: erkhrsghnds
 name: {full: Érkhiros Ghanides}
 type: being
 subType: npc
+description: "A Helionite teamster of Korinthea with thirty years on the trade roads, trusted by regular merchants and asked for advice by younger drivers."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -433,17 +434,11 @@ None; generally well-liked among fellow teamsters.
 
 ## Plot Hooks
 
-The Teamster's Dilemma
-: Érkhiros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+Oxen Taken on the Marble Road
+: A wagon of grain and the cutters' wages must go up the one paved road to [[place-hadrithon|Hadrithon]], where marauders leave the marble alone and take the oxen. Érkhiros is slower than he was, and the merchant who has trusted him for years asks him to drive it himself.
 
-Old Grudges
-: None; generally well-liked among fellow teamsters. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Alum Past the Shrine
+: Followers of [[affiliation-blackflame|The Black Flame]], who keep a shrine near the vents at [[place-sufanos|Sufanos]], ask Érkhiros to carry a sealed crate down with the alum. The merchant who hired him does not know of it, and a crate he cannot account for on a wagon he is paid to deliver whole puts thirty years of good name at risk.
 
-Echoes of the Past
-: Something from Érkhiros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Érkhiros depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Érkhiros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Late Wagon at the Temple
+: A noble blames a late wagon for a spoiled load, and the merchant and the noble take the matter to the [[place-tmplrdvn|Temple of Árdavon]], where [[being-dumarsrfrs|Dumares Rafiros]] hears it. Érkhiros is called to say where the wagon stood on each day of the road.

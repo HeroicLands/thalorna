@@ -30,6 +30,10 @@ In that tradition, the Wall's peaks are the dwelling-places of the Varnuka gods,
 
 Above the last of [[place-pssshrines|the Pass-Shrines]] no rule of station reaches. [[affiliation-osketguides|The Osket]] who live up there are not in the tarona, and they are not outside it the way an **Outcaste** is outside it. The order does not address them at all, and orthodox Vedyari jurists have left the matter undisturbed for as long as anyone has been writing the question down.
 
+:::secret {title="The sealed city"}
+[[place-khazarturn|Khazartúrn]] stands in a high valley behind the summit line of the Wall.
+:::
+
 ## See Also {#see-also}
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-estrnreach|the Eastern Reach]] · [[place-wstrndscnt|the Western Descent]]

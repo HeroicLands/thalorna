@@ -3,6 +3,7 @@ shortcode: jdhrsbshrn
 name: {full: Jadharos Basiron}
 type: being
 subType: npc
+description: "A common seaman of Mirtelos, reliable and well liked by his crewmates, who means to captain a ship of his own."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -439,17 +440,11 @@ Few; generally respected among his peers.
 
 ## Plot Hooks
 
-The Common Seaman's Dilemma
-: Jadharos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+A Grain Ship Short of Hands
+: A grain ship that carries the bread of [[place-myrtillos|Mirtelos]] sails short of hands, and its captain offers Jadharos the work of two men at the pay of one, with a promise to speak for him when a ship needs a captain. Jadharos must decide whether the promise is worth the extra work.
 
-Old Grudges
-: Few; generally respected among his peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+An Order He Questions
+: During a voyage, a captain gives an order Jadharos thinks will endanger the ship. He can obey, which is what the crew expects of a hired hand, or speak and be put ashore.
 
-Echoes of the Past
-: Something from Jadharos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Jadharos depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Jadharos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Hull Offered on Terms
+: A merchant offers Jadharos command of a ship, on terms that leave most of the profit with the merchant. It is the captaincy he has dreamed of, and the terms would tie him to the merchant.

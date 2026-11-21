@@ -3,6 +3,7 @@ shortcode: mtrmsthlmds
 name: {full: Métrimos Thálimides}
 type: being
 subType: npc
+description: "A veteran yeoman of the Kalidria militia who trains younger yeomen in melee and defense for a patron family of the town."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -427,7 +428,7 @@ As a Helionite yeoman infantryman, Métrimos occupies a recognized social niche 
 
 ### Patrons
 
-Métrimos's primary patron is the local lord who values his experience in training new recruits. This relationship provides both opportunity and obligation.
+Métrimos's primary patron is a patron family of [[place-kalydria2|Kalidria]] that values his experience in training new recruits. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,17 +436,11 @@ Rival soldiers and mercenaries who have clashed with him in the past.
 
 ## Plot Hooks
 
-The Yeoman Infantry's Dilemma
-: Métrimos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+Recruits for the Festival Weeks
+: A patron family of [[place-kalydria2|Kalidria]] sends Métrimos raw recruits to stand at the playhouse doors during a theater festival, when the town is crowded. There is time to train them or to watch them, not both, and he does not hand work to others easily.
 
-Old Grudges
-: Rival soldiers and mercenaries who have clashed with him in the past. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Pigment Train Worth a Raid
+: A train of pigment jars comes down from [[place-jalimea|Jalimea]], and its road is its danger, since the jars are worth a raid even when they hold only colored dust. Métrimos is asked to lead the escort with the recruits he has.
 
-Echoes of the Past
-: Something from Métrimos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Métrimos depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Métrimos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Mercenary He Fought Before
+: A patron family hires a mercenary who once clashed with Métrimos, to guard the festival. They will be posted at the same playhouse door.

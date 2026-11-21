@@ -3,6 +3,7 @@ shortcode: anevirtbrs
 name: {full: Ánevira Tabires}
 type: being
 subType: npc
+description: "A tentmaker of Thirenae who stitches decorative tents for farmers, merchants and travelers in her late father's shop."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -403,7 +404,7 @@ sohl:
 
 Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Ánevira Tabires came into the world of the tentmaker through a combination of circumstance and aptitude.
 
-Ánevira learned the craft of tentmaking from her father, who ran a small shop in a rural town. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Ánevira is known for her stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
+Ánevira learned the craft of tentmaking from her father, who ran a small shop in [[place-thyrenae2|Thirenae]]. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Ánevira is known for her stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
 
 ## Psyche
 
@@ -437,17 +438,11 @@ Competitors who criticize her decorative approach.
 
 ## Plot Hooks
 
-The Tentmaker's Dilemma
-: Ánevira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
+Tents for the Autumn Run
+: A carter who hauls iron down from [[place-khasidon|Khasidon]] orders tents for the autumn run, when hill bands raid the pass road and the carts carry their heaviest loads. A seam opens on the road, and the carter comes to [[place-thyrenae2|Thirenae]] to ask whether her decorative stitching was ever meant to last a season of weather.
 
-Old Grudges
-: Competitors who criticize her decorative approach. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Tent Returned for Its Seams
+: A competing tentmaker tells a customer in the market that Ánevira's embroidered work will not outlast the year. The customer brings the tent back and asks her to show that it holds.
 
-Echoes of the Past
-: Something from Ánevira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Ánevira depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Ánevira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+Lodging in Tents at Term's Start
+: At the start of term, students arriving in [[place-thyrenae2|Thirenae]] from across [[place-midhalnrgn|Midhalión]] find no lodging in town and ask Ánevira for tents pitched on the terraces. They can pay little, and her shop is stitching for the autumn carters at the same time.

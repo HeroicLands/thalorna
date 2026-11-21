@@ -48,6 +48,7 @@ data:
       Lay Order: >-
         The guild masters in good standing who belong to the faith without ordination, through whom it reaches the smiths' guilds of every city.
   seat: null
+  range: [provenzrgn, ankrscntnnt]
   population: null
   economy: []
   lore: [ustarondty]
@@ -100,3 +101,7 @@ The faith also maintains several knightly orders dedicated to Ústaron's protect
 The Sacred Forge maintains a close alliance with the [[affiliation-ardavon|Faith of Árdavon]]. Both faiths value discipline, craftsmanship, and the defense of civilization. Sacred Forge smiths arm Árdavan knights; Árdavan courts protect Sacred Forge temples. This partnership is one of the most stable interfaith alliances in the [[affiliation-arldnpnthn|Aureldian pantheon]].
 
 The Sacred Forge wages an unceasing doctrinal war against [[affiliation-blackflame|the Black Flame]], which it regards as a dangerous heresy that perverts Ústaron's divine gifts. Where the Sacred Forge sees fire as a creative force to be respected and wielded with care, the Black Flame glorifies its destructive power. The Sacred Forge and the Faith of Árdavon are united in their opposition to the Black Flame, though for different reasons: the Sacred Forge fights a war against apostasy within Ústaron's own faith, while Árdavon’s faith fights what it regards as a cosmic struggle against everything the Black Flame represents.
+
+## Politics {#present}
+
+The Sacred Forge is the established Ústaran faith in most of the western part of the [[place-ankrscntnnt|Ankaris Continent]], and the Hamsarnor resides in [[place-provenzrgn|Provénzia]], where the faith holds its greatest political influence. It stands allied with [[affiliation-ardavon|the Faith of Árdavon]], with whom it opposes [[affiliation-blackflame|the Black Flame]], the heresy it fights without pause.

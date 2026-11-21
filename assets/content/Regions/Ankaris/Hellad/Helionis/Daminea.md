@@ -3,7 +3,7 @@ shortcode: daminea
 name: {full: Daminea}
 type: place
 subType: settlement
-description: "A walled caravan town of about 2,800 on the shore of an inland sea, held by Athenikos, living on the wool and horse trade of the steppe margin and buying its bread from the farms upstream."
+description: "A walled caravan town of about 2,800 at the foot of the last ridge, over a seasonal marsh on the road to the inland seas, held by Athenikos, living on the wool and horse trade of the steppe margin and buying its bread from the farms upstream."
 tags: [town, caravan]
 data:
   demonym: null
@@ -14,18 +14,18 @@ data:
   type: town
   government: athenikos
   packFolder: helionis
-  notes: "A walled caravan town of about 2,800 on the shore of an inland sea, held by Athenikos, living on the wool and horse trade of the steppe margin and buying its bread from the farms upstream."
+  notes: "A walled caravan town of about 2,800 at the foot of the last ridge, over a seasonal marsh on the road to the inland seas, held by Athenikos, living on the wool and horse trade of the steppe margin and buying its bread from the farms upstream."
 ---
 
 ## Overview {#overview}
 
-**Daminea** lies on a low spit that runs out into an inland sea, so that water stands on three sides of its wall and the fourth faces the land road. About 2,800 people live there, and the sea gives them little: shallow, salt, rimmed with reeds and mud, and good for nothing but the wind that blows off it. The town's business is the steppe. Its horse market is the largest in Helionis, and drovers bring their herds in from the east in the cool months.
+**Daminea** stands on a low gravel tongue at the foot of the last ridge, where the river that comes out of the mountains spreads into a seasonal marsh. After the winter rain, water stands on three sides of its wall and the fourth faces the land road; by midsummer the marsh is reeds, salt mud and a few brackish pools. About 2,800 people live there, and the marsh gives them little: rushes for thatch, wildfowl in winter, and nothing else but the wind that blows off it. The town's business is the steppe. Its horse market is the largest in Helionis, and drovers bring their herds in from the east in the cool months, along the road that runs a few days out across the steppe toward the inland seas.
 
 ## What the Town Lives By {#what-the-town-lives-by}
 
 Daminea sells horses, wool, hides and felt that steppe herders bring in, and it buys oil, wine, cloth, bronze goods and grain from the caravans that come the other way. Horse-breakers, farriers, saddlers and wool-sorters make up half the town, and the other half keeps the inns, the wells and the warehouses. The town takes a toll on every herd and every loaded animal.
 
-The farms that feed it lie along the river mouth upstream, a few villages within a morning's walk of the gate, raising barley, pulses and fodder on silted ground behind palisades and earth banks. Their harvest never covers the town's need, and the rest arrives on the caravans, where grain is a trade good that Daminea resells to the mining towns in the mountains. When a bad year thins the steppe herds, the town's whole income thins with them.
+The farms that feed it lie upstream, in the mouth of the river's valley, a few villages within a morning's walk of the gate, raising barley, pulses and fodder on silted ground behind palisades and earth banks. Their harvest never covers the town's need, and the rest arrives on the caravans, where grain is a trade good that Daminea resells to the mining towns in the mountains. When a bad year thins the steppe herds, the town's whole income thins with them.
 
 ## Who Rules and Keeps Order {#who-rules}
 

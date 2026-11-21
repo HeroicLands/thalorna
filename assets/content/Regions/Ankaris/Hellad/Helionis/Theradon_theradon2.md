@@ -28,7 +28,7 @@ The constitution is oligarchic. An assembly of the wealthiest and most educated 
 
 Theradon is sublime and stifling in the same afternoon: art and architecture built to elevate the soul and sharpen the intellect, and a narrow certainty about what counts as truth and a proper life. Its philosophers have nevertheless taken the hard questions of justice, knowledge and the good life seriously, and their work is argued over throughout the civilized world.
 
-The terraced hillsides around the town grow its grain and oil. Silver comes down from [[place-nafrithos|Nafrithos]], tin from [[place-tumaron|Tumaron]] and the tolls of the inland-sea caravans from [[place-mubaria|Mubaria]], and the three towns take back grain, oil and cloth.
+The terraced hillsides around the town grow its grain and oil. Silver comes down from [[place-nafrithos|Nafrithos]], tin from [[place-tumaron|Tumaron]] and the tolls of the caravans on the inland-sea road from [[place-mubaria|Mubaria]], and the three towns take back grain, oil and cloth.
 
 ## The Present {#present}
 

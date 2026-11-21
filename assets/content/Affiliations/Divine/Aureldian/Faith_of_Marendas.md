@@ -54,6 +54,7 @@ data:
       Notral Maldor: >-
         The great libraries the priesthood maintains and to which its scholars are attached.
   seat: null
+  range: [provenzrgn]
   population: null
   economy: []
   lore: [marendasdty]
@@ -100,3 +101,9 @@ Marendas maintains a cordial relationship with the [[affiliation-olvenia|Faith o
 Marendas regards [[affiliation-lusinia|Faith of Lusinia]] and the [[affiliation-lizelas|Faith of Lizelas]] with interest and some theological curiosity. In Marendasan theology, [[lore-lusiniadty|Lusinia]]'s creative force and [[lore-lizelasdty|Lizelas]]'s generative power are understood as expressions of divine knowledge made manifest—in this understanding, the universe itself is Lusinia's creation and Lizelas's garden. Some Marendasan theologians study the relationships between creation, growth, and knowledge, exploring whether there is a deep philosophical connection between these domains.
 
 Finally, Marendas stands in principled opposition to [[affiliation-blackflame|the Black Flame]]. The Black Flame denies the value of wisdom, rejecting knowledge in favor of raw will and power. The priesthood of Marendas actively works to preserve knowledge and support education in regions threatened by Black Flame influence, understanding that an educated, thinking population is resistant to the seductive simplifications of tyranny and domination.
+
+## Politics {#present}
+
+The faith of Marendas keeps its Notral Maldor libraries as centers of learning, with great collections in the [[place-provenzrgn|Provénzia Region]] and the [[affiliation-vylarinmpr|Vilérian Empire]]. It works closely with [[affiliation-ardavon|Árdavon]] in education and governance and with the [[affiliation-sacredforge|Sacred Forge]] in joint research, and it sponsors the training of merchant guilds alongside [[affiliation-olvenia|Ólvenia]].
+
+In regions threatened by the Black Flame, the priesthood works to preserve knowledge and support education, and it opposes [[affiliation-blackflame|the Black Flame]] on principle.

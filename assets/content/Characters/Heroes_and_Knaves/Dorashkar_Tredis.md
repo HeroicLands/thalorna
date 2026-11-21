@@ -3,6 +3,7 @@ shortcode: drshkrplytms
 name: {full: Dorashkar Tredis, given: Dorashkar, clan: Tredis}
 type: being
 subType: character
+description: "A cook of Nesthiros who has made the kitchen of the Copper Kettle tavern a destination for merchants, scholars and travelers."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -551,17 +552,17 @@ Informal Network of Master Cooks
 
 ## Plot Hooks
 
-The Lost Recipe of the Ages
-: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, [Ghupifazur]{.name data-type="being/npc"}, seeks Dorashkar's help to reconstruct and test these ancient recipes. Success could elevate Dorashkar's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
+Bread Short on the Waterfront
+: The fortress isle of [[place-nesthiros2|Nesthiros]] buys its bread, and a Velanthian grain shipment is delayed on the lowland road. The Copper Kettle's regular merchants and scholars still expect a full table, and Dorashkar must stretch what the market provides without lowering a standard he never compromises.
 
-The Culinary Competition
-: The [Council of the Bizarian League]{.name data-type="affiliation/governmental"} announces a grand culinary competition to be held in the capital, with the winner being named the League's official chef and receiving a massive stipend. Dorashkar's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to the capital. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
+A League Chef's Post He Is Afraid to Compete For
+: The [Council of the Bizarian League]{.name data-type="affiliation/governmental"} announces a grand culinary competition to be held in the League's greatest city, with the winner being named the League's official chef and receiving a massive stipend. Dorashkar's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to that city. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
 
-The Plague's Cure
-: A mysterious illness sweeps through the city, and the physicians are baffled. Dorashkar notices that patrons who eat his food seem to recover more quickly than others, and a desperate healer named **Priestess [[being-zhevranelaak|Zhevranela Aktikot]]** seeks his help in identifying what properties in his cooking might be therapeutic. Together, they must understand the nature of the plague and whether his culinary knowledge can contribute to a cure—potentially requiring him to work with alchemists and healers in ways that stretch his understanding of his own craft.
+Whispers Against Traditional Cooking
+: A merchant group promoting cheaper, magically made food substitutes spreads word against Dorashkar's traditional cooking among the tavern's merchant patrons. The proprietor of the Copper Kettle asks him to cut costs or answer the claim, and he is quick to blame himself for any imperfection.
 
-The Restoration of the Master's Legacy
+A Cook Who Claims Valisar's Name
 : A young, gifted cook named [Sudázion]{.name data-type="being/npc"} arrives at the tavern claiming to be the distant relation of Dorashkar's beloved teacher, **Master Valisar**. Sudázion has fallen on hard times and asks Dorashkar to take him as an apprentice. Taking on a student would force Dorashkar to articulate and share the knowledge he's kept close, challenging his fear of diminishing his own mastery, and raising the question of whether he can truly be a teacher despite his self-doubts.
 
-The Poison in the Feast
+A Diplomat Ill at the Summit Feast
 : Dorashkar is commissioned to prepare a grand feast for a political summit between the **Bizarian League** and a rival power. During the event, a diplomat falls ill, apparently poisoned. Dorashkar becomes a suspect, and his reputation is threatened. He must investigate the poisoning while defending his integrity, potentially discovering that someone deliberately sabotaged him to create political chaos between the powers.

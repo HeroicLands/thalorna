@@ -47,3 +47,6 @@ A low river leaves the farmers and the beasts in the same few pools. The farmers
 
 [[affiliation-chelsur|Faith of Chelsur]]
 : Patron cult
+
+[[scenario-rndrgorge|The Render of the Gorge]]
+: a scenario: the Overseer of the Granaries finds a figure in the year's reckoning he cannot account for, and hires strangers before he signs

@@ -48,7 +48,10 @@ export function respellWord(word) {
 /** English words whose vowels the guide reads differently from their letters. */
 const REVIEWED = new Map([
     ["sceptic", "skeptìk"],
-    ["exact", "eksakt"],
+    ["exact", "ìgzà́kt"],
+    ["courteous", "kù́rtiòs"],
+    ["conquer", "kongkòr"],
+    ["offering", "ófòrìng"],
     ["pack", "pàk"],
     ["silence", "sailòns"],
 ]);

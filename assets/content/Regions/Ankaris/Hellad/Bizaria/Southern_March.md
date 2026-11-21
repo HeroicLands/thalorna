@@ -27,7 +27,7 @@ The March is the southern rim of the Bizarian plateau. Behind Karvashion's green
 
 The caravan road runs the length of the March from Karvashion's southern gate to the last League caravanserai, where the road passes out of Bizarian territory. The road is the March's spine; its villages, forts and wells lie along it or a short ride from it. Away from the road the upland is big, empty and known in detail only to the herders and the huntsmen.
 
-The March's southern edge is Amradi border country—a line of hills and customs posts rather than a frontier anyone would fight over, crossed daily by drovers and smugglers in both directions.
+The March's southern edge is Amradi border country—a line of hills and customs posts rather than a frontier anyone would fight over, crossed daily by drovers and smugglers in both directions. On the far side the drove and caravan road comes down to [[place-shorvakhend|Shorvakhend]], the walled drovers' town of the Kingdom, an hour's ride south of the League's customs posts.
 
 ## Hunting Country
 
@@ -43,7 +43,7 @@ The relationship with [[affiliation-karvashion|Karvashion]] is close and unequal
 
 ## Peoples {#peoples}
 
-The March's people are herders and villagers of upland Bizarian stock, conservative, clan-minded and worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep [[affiliation-ashanpnthn|Ashaian shrines]] and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from the south to buy sheep. The upland speaks [[skill-byzarnlng|Bizarian]] with its own accent and regards the coastal towns and cities as rich, soft and far away.
+The March's people are herders and villagers of upland Bizarian stock, conservative, clan-minded and worshippers of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep [[affiliation-ashanpnthn|Ashaian shrines]] and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from Shorvakhend to buy sheep. The upland speaks [[skill-byzarnlng|Bizarian]] with its own accent and regards the coastal towns and cities as rich, soft and far away.
 
 ## Economy
 
@@ -69,6 +69,9 @@ The March lives on stock and passage. It sends wool, hides, cheese and horses do
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : the neighbor across its southern hills
+
+[[place-shorvakhend|Shorvakhend]]
+: the Amradi drovers' town at the foot of its road
 
 [[place-eastrnmrch|Eastern March]], [[place-northrnmrch|Northern March]]
 : the League's other marches

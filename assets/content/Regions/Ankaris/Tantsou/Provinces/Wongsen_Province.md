@@ -70,7 +70,7 @@ Wongsen Province is the richest of the four provinces of the [[affiliation-tants
 
 The province's strength is water. Among the Prince's [[lore-wanduo|Wandwo]] is a gifted set with an affinity for water, and the rain they call falls on the delta and its coast and has raised his harvests while other provinces go dry. The other Princes come to his granaries to buy rice, and some at court say his sorcerers are behind the drought elsewhere. Nobody has proven it.
 
-The southern coast is [[lore-tantsoutribclt|tributary]] country, where older kingdoms keep their rulers under the Empire's seal, and the eastern coast faces [[place-easternstrt|the Eastern Strait]] and the raiders of [[affiliation-jenchaiempr|Jenchai]].
+The southern coast is the country of the [[lore-tantsoutribclt|Tantsou Tributary Peoples]], whose older kingdoms keep their rulers under the Empire's seal, and the eastern coast faces [[place-easternstrt|the Eastern Strait]] and the raiders of [[affiliation-jenchaiempr|Jenchai]].
 
 ## See Also {#see-also}
 

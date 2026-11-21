@@ -3,6 +3,7 @@ shortcode: makrinfrns
 name: {full: Mákrion Nafrines}
 type: being
 subType: npc
+description: "A self-taught astrologer of Thirenae who advises farmers on planting and harvest times and has a local following among common folk."
 tags: [draft, mages]
 data:
   icon: icon-person
@@ -442,17 +443,11 @@ A few educated astrologers who view his methods as unsophisticated.
 
 ## Plot Hooks
 
-The Astrologer's Dilemma
-: Mákrion faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+Two Dates for Planting
+: Farmers of the [[place-thyrenae2|Thirenae]] valley ask Mákrion for the day to plant. A better-educated astrologer has posted a different date, and the farmers who trust Mákrion must choose between the two.
 
-Old Grudges
-: A few educated astrologers who view his methods as unsophisticated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Safe Day for the Spring Caravan
+: A carter bound for [[place-ussarea|Ussarea]] asks Mákrion which spring day is safe to leave, since the steppe bands test that road each spring and its garrison riders are few. A raid on the day he names will be laid at his door.
 
-Echoes of the Past
-: Something from Mákrion's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Mákrion depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Mákrion the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Called Before the College
+: The educated astrologers invite Mákrion to defend his planting dates before a college. If he cannot give his reckoning in the colleges' terms, the farmers who plant by his dates will be told to follow the posted ones, and if he declines, his silence will be taken as a concession.

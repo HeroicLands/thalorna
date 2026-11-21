@@ -3,6 +3,7 @@ shortcode: myrthnkrvnn
 name: {full: Mirthana Kervanion}
 type: being
 subType: npc
+description: "A sapper of Korinthea, trained in tunnel construction and demolition, who aspires to become a master sapper and design fortifications."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -436,17 +437,11 @@ Few; generally well-liked.
 
 ## Plot Hooks
 
-The Man-at-Arms (Sapper)'s Dilemma
-: Mirthana faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
+A Charge Near the Vents
+: The alum and sulfur at [[place-sufanos|Sufanos]] come from vents, and a following of [[affiliation-blackflame|The Black Flame]] keeps a shrine beside them. Mirthana is asked to bring down a rock face near them, and she is overconfident about her charge.
 
-Old Grudges
-: Few; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Walls for the Marble Road
+: The one paved road to [[place-hadrithon|Hadrithon]] is the weak point of [[place-korinthea2|Korinthea]]'s marble supply, and marauders take the oxen. The Engineers' Guild asks Mirthana to plan a fortified stretch, her first chance at the design work she wants.
 
-Echoes of the Past
-: Something from Mirthana's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Mirthana depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Mirthana the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Master's Trial Cut
+: The Engineers' Guild sets Mirthana a trial before it will name her master sapper: a cut through the rock above the paved road to Hadrithon, planned and fired by her own team. The rock needs more hauling than she can do herself, so she must choose which of her team to trust with the charge.

@@ -26,7 +26,7 @@ Like the League's other marches it is common territory, outside the charter of a
 
 The March begins at the eastern gate of Argirteikhos and runs east and downhill. Its western part is the pass country: bare limestone ranges, snowbound from late autumn to spring, cut by the principal pass the Silver Citadel guards and by a handful of lesser mule-tracks that the garrison watches and the smugglers use. The pass road is paved for most of its length, walled where it climbs, and punctuated by way-forts a day's march apart.
 
-East of the passes the ranges fall away in a series of dry foothills into the steppe margin—grass and scrub in spring, dust by midsummer, the first of the Khazrin's endless country. Here the road forks: north-east into the steppe and **[[lore-celestialroad|the Celestial Road]]**, south-east toward the oasis-belt and the northern edge of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. The March's outer limit is the last fortified caravanserai on each fork; beyond it the League claims nothing and patrols only as far as its horses can ride and return in a day.
+East of the passes the ranges fall away in a series of dry foothills into the steppe margin—grass and scrub in spring, dust by midsummer, the first of the Khazrin's endless country. Here the road forks: north-east into the steppe and **[[lore-celestialroad|the Celestial Road]]**, south-east past [[place-halzikos|Halzikos]] and round the western shore of [[place-bittersea|the Bitter Sea]] to [[place-dorvakhend|Dorvakhend]], the first town of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. The March's outer limit is the last fortified caravanserai on each fork; beyond it the League claims nothing and patrols only as far as its horses can ride and return in a day.
 
 Water is the March's governing fact. The passes have snowmelt and the foothills have a few reliable springs, every one of which has a fort, a shrine or a caravanserai built on it. There is no other water between the foothills and the first Khazrin oases, which is why armies from the east die in the March before they reach the walls of Argirteikhos. The spring-forts were first built for [[lore-heladwells|the Battle of the Wells]], about 158 BF, and the dry ground below the passes where the host died is [[place-thirstground|the Thirsting Ground]].
 
@@ -34,7 +34,7 @@ Water is the March's governing fact. The passes have snowmelt and the foothills 
 
 The March faces three kinds of trouble. _Raiders_ from the steppe—small mounted bands of a single tribe, testing the foothills for unguarded herds and unescorted caravans—are the constant one, and the garrison's patrols exist to make raiding unprofitable rather than impossible. _Bandits_ in the passes themselves, often deserters or ruined muleteers, are a police problem that the way-forts handle. The great orghunoqs, which a rare dictator forces together in the central Khazrin once in a few generations, are the reason the walls are as thick as they are; each dies with its orghun, but when one rises, the March is where the League learns of it first, and the Lord Commander's dispatches are what decide whether the council hires mercenary companies or calls up the reserves.
 
-The Amradi frontier to the south is a different matter—a border with a neighbor that trades, not one with an enemy that raids. The March's southern forks are watched for the Shebarader's customs officers as carefully as for Dunhari raiders, and the Lord Commander's correspondence with the Shebarader's walis across the line is as much diplomacy as soldiering.
+The Amradi frontier to the south is a different matter—a border with a neighbor that trades, not one with an enemy that raids. The March's southern forks are watched for the Shebarader's customs officers as carefully as for steppe raiders and Black Flame warbands, and the Lord Commander's correspondence with the Shebarader's _tagemaders_ across the line is as much diplomacy as soldiering.
 
 ## Garrisons and Command
 
@@ -72,6 +72,9 @@ The March produces silver, tolls and contracts. The mines in the ranges around A
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : the neighbor on its southern forks
+
+[[place-halzikos|Halzikos]], [[place-dorvakhend|Dorvakhend]]
+: the caravan stop and the Amradi town on the south-eastern fork
 
 [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]
 : the League's other marches

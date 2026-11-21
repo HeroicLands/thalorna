@@ -125,7 +125,7 @@ The tribes do little long-distance trading of their own. They are the road, and 
 
 To the **west** lies [[place-velanthrgn|Velanthia]], the forest-steppe and grain belt between the Nordlands forests and the open grass. Velanthian grain goes east, Khazrin horses and furs come west, and tribal raiders test Velanthia's frontier defenses and its [[place-eastrnmrch|Eastern March]] neighbors with limited success.
 
-To the **southwest** lies the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in the broader [[place-dunharargn|Dunhara]]. It is the principal outside power with which the Tellumel keeps sustained relations, and the home of the Tellumi houses in exile. The rest of Dunhara wraps round the Tellumel's western end, and the two share the Ashaian pantheon and many customs.
+To the **southwest** lies the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in the broader [[place-dunharargn|Dunhara]]. It is the principal outside power with which the Tellumel keeps sustained relations, and the home of the Tellumi houses in exile. The rest of Dunhara wraps round the Tellumel's western end, and the two share the Ashaian pantheon and many customs. The Kingdom's road to the steppe leaves its country at the fort town of [[place-morvadez|Morvadez]] on [[place-farsea|the Far Sea]], at the corner where Amradad, [[place-byzariargn|Bizaria]] and the Khazrin meet, and the tribes of the steppe beyond sell its passage a stretch at a time.
 
 To the **south** stands the Grazian wall and, below it, Vedyara. The frontier is the highest in the world and the least used: a handful of passes, open a few weeks in late summer, held at their throats by Vedyari powers and crossed under hereditary guides. The trade is small in volume and enormous in value, and the Tellumel lives partly on it.
 
@@ -149,6 +149,7 @@ To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vristwald]], near
   - On the blood-fields and in the ruins: [[being-yiqnotud|Yiqnotud]], [[being-spctrwlf|Specterwolf]], [[being-grmshdw|Grimshadow]], [[being-glmhnd|Gloomhound]], [[being-damut|Damut]], [[being-trrkthsn|Terrakith Sentinel]]
 - [[place-heladrgn|Hellád Region]]—western gateway
 - [[place-dunharargn|Dunhara Region]]—southern desert cousin
+- [[place-farsea|The Far Sea]] and [[place-morvadez|Morvadez]]—the inland sea and the Amradi fort town where the Kingdom's road meets the steppe
 - [[place-vedyarargn|Vedyara Region]]—southern neighbor beyond the Grazian wall
 - [[place-tantsouregin|Tantsou Region]]—far eastern pass-end
 - [[place-graznmntns|The Grazian Mountains]]—the southern wall and its passes

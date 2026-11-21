@@ -48,6 +48,7 @@ data:
       House of Sleep: >-
         The temple-house in which petitioners sleep to receive their dreams.
   seat: null
+  range: [provenzrgn]
   population: null
   economy: []
   lore: [zunelasdty]
@@ -94,3 +95,7 @@ Theology describes Zunelas's relationship with [[lore-marendasdty|Marendas]] as 
 The Faith of Zunelas and the [[affiliation-morvana|Faith of Morvana]] share an understanding of transitions and transformations. Death itself is sometimes described as a kind of sleep from which there is no waking, and Zunelas's priesthood sometimes works with Morvana's priests to comfort the dying, offering visions of peace and rest rather than fear of the end.
 
 In Zunelan theology, the relationship with [[lore-karnavosdty|Karnavos]] is strained but not hostile. Karnavos represents chaos and wild disruption in the waking world; Zunelas represents the chaos of dreams and the unconscious mind. While related, they are fundamentally different—Karnavos seeks to shatter civilization itself, while Zunelas merely reminds mortals that there are truths beyond rational order. Some renegade priests of [[affiliation-karnavos|Karnavos]] have attempted to corrupt worship of Zunelas into a cult of dangerous ecstasy, but the mainstream priesthood regards such efforts as perversion of the goddess's true nature.
+
+## Politics {#present}
+
+The faith of Zunelas is respected across the Aureldian faiths, and nearly all of them consult its priesthood on matters of great importance. Its oracular shrines in major cities take the dreams of supplicants, and the Oracular Sanctuary at [[place-argenna|Argenna]] in [[place-provenzrgn|Provénzia]] draws pilgrims from across the continent. The priesthood works with the libraries of [[affiliation-marendas|Marendas]], alongside [[affiliation-morvana|Morvana]] at the bedsides of the dying, and in complementary opposition to [[affiliation-ardavon|Faith of Árdavon]].

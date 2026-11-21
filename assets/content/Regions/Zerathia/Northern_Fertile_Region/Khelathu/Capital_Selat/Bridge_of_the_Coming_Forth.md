@@ -49,3 +49,6 @@ The law that keeps the view from the temple to the horizon along the road clear 
 
 [[place-yathtelgu|Yath-Telgu]]
 : the island at its far end
+
+[[scenario-nightbfrrdng|The Night Before the Reading]]
+: a scenario: on the eve of the crest the Gar-Au sends strangers to stand at the Measure, and the old Reader is too sick to go down the stair

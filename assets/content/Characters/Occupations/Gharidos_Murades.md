@@ -3,6 +3,7 @@ shortcode: ghardsmrds
 name: {full: Gharidos Murades}
 type: being
 subType: npc
+description: "A Helionite longshoreman of Korinthea who has worked the docks for a decade and takes the heaviest loads."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -433,17 +434,11 @@ Few; generally well-liked among peers.
 
 ## Plot Hooks
 
-The Longshoreman's Dilemma
-: Gharidos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+A Cracked Block off the Sledge
+: A white marble block from [[place-hadrithon|Hadrithon]] cracks as Gharidos's crew lifts it off the sledge at the temple yard. The cargo merchant blames the handling, and the temple that ordered the stone wants the loss made good.
 
-Old Grudges
-: Few; generally well-liked among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Stowage Plan He Cannot Read
+: A ship captain hands Gharidos a stowage plan whose technical marks he does not follow. Loading it by his own judgment is slow and loading it as marked risks the cargo, and his stubbornness is the obstacle in both.
 
-Echoes of the Past
-: Something from Gharidos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Gharidos depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Gharidos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Two Cargoes, One Berth
+: A captain and a cargo merchant, both his patrons, each ask Gharidos to unload their cargo first. The berth takes only one, and he works for both.

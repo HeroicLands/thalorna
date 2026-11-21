@@ -3,6 +3,7 @@ shortcode: chnkhrghrths
 name: {full: Khankhor Gharithos}
 type: being
 subType: npc
+description: "An ostler of Theradon who runs the stable of an inn with long experience of horse breeds and trains younger ostlers."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -436,17 +437,11 @@ Few; generally respected but sometimes viewed as traditionalist.
 
 ## Plot Hooks
 
-The Ostler's Dilemma
-: Khankhor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+Lamed Horses from the Gorge Road
+: A caravan arrives at the inn with horses lamed after hill bands tried the gorge road from [[place-tumaron|Tumaron]]. Khankhor has stalls for half of them, and the caravan master wants all of them fit to travel in days.
 
-Old Grudges
-: Few; generally respected but sometimes viewed as traditionalist. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Horse the Market Traders Sold
+: The steppe bands that raid the road to [[place-mubaria|Mubaria]] also trade at its market. A traveler brings the inn a horse bought there, and Khankhor, who knows his breeds, thinks he has seen it before in another caravan.
 
-Echoes of the Past
-: Something from Khankhor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Khankhor depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Khankhor the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Cough in the Stalls
+: Two of the caravan horses in the inn's stalls begin to cough. Khankhor can isolate them, which empties stalls the inn's keeper wants kept full, or leave them among the rest and risk the whole string.

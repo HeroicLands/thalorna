@@ -218,7 +218,7 @@ test("performed verse takes its reading from the guide without lexical contracti
     assert.equal(verse.length, 8);
     for (const [form, charm] of [
         ["ófòrìng", "ofrìng"],
-        ["kourteous", "kùrtyòs"],
+        ["kù́rtiòs", "kùrtyòs"],
     ]) {
         const word = words.find((entry) => entry.form === form);
         assert(word, `${form} remains in the vocabulary`);
@@ -279,7 +279,7 @@ test("the standard uses guide sounds and preserves authored lexical meanings", (
         !words.some((word) => /^Capitalized spelling of |^Recorded variant of /.test(word.gloss)),
     );
     for (const [form, gloss] of [
-        ["eksakt", "require or demand"],
+        ["ìgzà́kt", "require or demand"],
         ["kongkòr", "overcome or subdue"],
         ["skeptìk", "one who doubts"],
     ])
