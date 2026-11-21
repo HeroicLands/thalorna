@@ -8,7 +8,7 @@ tags: [draft]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [courtier, huntsman]
+  archetypes: [courtier, woodsman]
   occupation: Halzi'a
   lore: []
   culture: deltakhelclt
