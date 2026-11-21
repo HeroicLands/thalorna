@@ -32,10 +32,9 @@ data:
     nose: snub
     brow: thin
     mouth: wide
-    extra_features:
-      - the pale scars of a dozen bee-stings on the neck
-      - a netting-cord looped over one shoulder
+    extra_features: [the pale scars of a dozen bee-stings on the neck]
   packFolder: centralrainforests
+  items: [{key: nettingcord, name: "Netting-cord", kind: miscgear, system: {weight: 0.5}}]
 ---
 
 # Appearance {#appearance}

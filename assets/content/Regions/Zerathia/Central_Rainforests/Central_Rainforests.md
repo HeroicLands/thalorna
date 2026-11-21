@@ -53,7 +53,7 @@ A small number of [[lore-flksenali|Senali]] enclaves are rumored in the deepest 
 
 ## The Rivers and the Tribes {#places}
 
-Two rivers carry most of what is known of the forest. The [[place-luwabolu|Luwa Bolu]], the Old River, rises beside [[place-lpdkngcrt|the Leopard King's Court]] and runs north through the gorge to the sea, and the [[place-luwagbasa|Luwa Gbasa]], the Dark River, runs south through the black water of the drowned plain to the flooded forest and the savannah's edge.
+Two rivers carry most of what is known of the forest. The [[place-luwabolu|Luwa Bolu]], the Old River, rises beside [[place-lpdkngcrt|the Leopard King's Court]] and runs north through the gorge and out of the forest at its northern edge, and the [[place-luwagbasa|Luwa Gbasa]], the Dark River, runs south through the black water of the drowned plain to the flooded forest and the savannah's edge.
 
 Ten tribes of a few hundred people each are named, each a polity of one leader with four standings and nothing above it:
 
@@ -63,6 +63,10 @@ Ten tribes of a few hundred people each are named, each a polity of one leader w
 - **Edge-people:** the [[affiliation-kirolatribe|Kirola]] on the northern edge at [[place-kirolacamp|Kirola Camp]], and the [[affiliation-balolatribe|Balola]] on the southern edge at [[place-balolacamp|Balola Camp]].
 - **Gorge-folk:** the [[affiliation-morolatribe|Morola]] of the portage, at [[place-morolalanding|Morola Landing]], in the gorge where the [[lore-gorgfolkclt|Gorge-folk]] hold the landings.
 - **The Court:** the [[affiliation-kpalulatribe|Kpalula]], whose leader is [[being-lpdkngldr|the Leopard King]].
+
+## The Present {#present}
+
+Salvage crews from the northern river-ports are coming up the Dark River in greater numbers than in other years, each with a story of a roof of green stone, and the river-tribes are divided on whether to bar them or to sell them guides. At the Leopard King's Court, gift-bearers report that no delegation has met the King in two seasons, and the iron that comes through the south is later than it was.
 
 ## Religion
 

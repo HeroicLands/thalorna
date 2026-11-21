@@ -32,10 +32,9 @@ data:
     nose: broad
     brow: heavy
     mouth: wide
-    extra_features:
-      - a thick rope-scar over both shoulders
-      - a northern cloth cape worn only at gatherings
+    extra_features: [a thick rope-scar over both shoulders]
   packFolder: centralrainforests
+  items: [{key: northcape, model: armorgear-hsclk, name: "Northern cloth cape", kind: clothing}]
 ---
 
 # Appearance {#appearance}

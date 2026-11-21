@@ -38,7 +38,7 @@ data:
 
 # Appearance {#appearance}
 
-Wene Gbelela is a 66-year-old man who stands 5'3" tall and is of medium build. His brown skin is weathered, his short hair is gray and his broad face is lined round the eyes. Dye-plant stains redden both his palms, and his left thumb has lost its nail. He moves with the unhurried care of a man who works with the offerings.
+Wene Gbelela is a 66-year-old man who stands 5'3" tall and is of medium build. His brown skin is weathered, his short hair is gray and his broad face is lined around the eyes. Dye-plant stains redden both his palms, and his left thumb has lost its nail. He moves with the unhurried care of a man who works with the offerings.
 
 # Dossier {#dossier}
 

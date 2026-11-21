@@ -32,8 +32,10 @@ data:
     nose: broad
     brow: heavy
     mouth: wide
-    extra_features: [a cloak of leopard pelts, a necklace of leopard claws]
   packFolder: centralrainforests
+  items:
+    - {key: pelts, model: armorgear-ltcloak, name: "Cloak of leopard pelts", kind: clothing}
+    - {key: clawnecklace, name: "Necklace of leopard claws", kind: miscgear, system: {weight: 0.4}}
 ---
 
 # Appearance {#appearance}

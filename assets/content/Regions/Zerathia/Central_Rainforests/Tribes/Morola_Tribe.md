@@ -3,10 +3,11 @@ shortcode: morolatribe
 name: {full: Morola Tribe, en: [The Morola]}
 type: affiliation
 subType: polity
-description: "A gorge-folk tribe that holds the landings where the Old River cuts through the highland spurs, and carries canoes and cargo round the rapids for a share."
+description: "A gorge-folk tribe that holds the landings where the Old River cuts through the highland spurs, and carries canoes and cargo around the rapids for a share."
 tags: [tribe, gorge-folk, portage, draft]
 data:
   templatePriority: null
+  culture: gorgfolkclt
   demonym: null
   epithet: null
   symbol: null
@@ -59,7 +60,7 @@ The leader is [[being-kelemorola|Kele Morola]], whom the members and elders agre
 
 ## Range {#range}
 
-The tribe holds the benches above the rapids and the portage trails that run round them, with a landing at each end of the carry. The bands keep ridge gardens on the slopes, fish-traps in the white water and a bench at each landing where cargo waits. Garden crops, river fish and forest game fill out a diet the foragers of the deep interior would not recognize.
+The tribe holds the benches above the rapids and the portage trails that run around them, with a landing at each end of the carry. The bands keep ridge gardens on the slopes, fish-traps in the white water and a bench at each landing where cargo waits. Garden crops, river fish and forest game fill out a diet the foragers of the deep interior would not recognize.
 
 ## Relations {#relations}
 
@@ -88,7 +89,7 @@ The dry season has lowered the river, and the heavier canoes must be carried the
 : the tribe's seat
 
 [[place-luwabolu|Luwa Bolu]]
-: the river the tribe carries round
+: the river the tribe carries around
 
 [[lore-gorgfolkclt|Gorge-folk]]
 : the people the tribe belongs to

@@ -52,6 +52,10 @@ No road runs to the Court. Gift-bearers walk the trails from their own territori
 
 The Court is one tribe whose leader is recognized by fear for as long as the neighbors' gifts keep coming, and the Kubindo expect for him the end they tell of the Drowned Ziggurat ([[lore-rainforhist|the History of the Central Rainforests]]).
 
+## The Present {#present}
+
+Gift-bearers report that no delegation has met the King in two seasons, and that [[being-dagbekpalula|Dagbe Kpalula]], the Speaker, gives his judgments in the Hall of Pelts. [[being-ndokokpalula|Ndoko Kpalula]], called Red-Spear, leads the Spotted Guard and says there that the Court should be led in the open. The iron that reaches the Court through the south is later than it was, and the Receiver of Gifts is asking why the tally and the iron do not agree.
+
 ## See Also {#see-also}
 
 [[place-cntrlrnfrsts|Central Rainforests]]

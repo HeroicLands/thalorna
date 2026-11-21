@@ -3,7 +3,7 @@ shortcode: danokirola
 name: {full: Dano Kirola}
 type: being
 subType: npc
-description: "Leader of the Kirola, an edge-person whose gift at the northern edge is still being weighed by his members."
+description: "Leader of the Kirola, an edge-person whose gift at the northern edge most members have taken."
 tags: [draft]
 data:
   icon: icon-person
@@ -32,8 +32,14 @@ data:
     nose: straight
     brow: arched
     mouth: full
-    extra_features: [a cloth cape of Okharik weave, an iron knife with a bone handle]
   packFolder: centralrainforests
+  items:
+    - key: okharikcape
+      model: armorgear-hsclk
+      name: "Cloth cape of Okharik weave"
+      kind: clothing
+    - {key: boneknife, model: weapongear-kni, name: "Iron knife with a bone handle", kind: weapon}
+    - {key: barkwrap, model: armorgear-hsclk, name: "Bark-cloth wrap", kind: clothing}
 ---
 
 # Appearance {#appearance}
@@ -46,7 +52,7 @@ Dano Kirola is the leader of the [[affiliation-kirolatribe|Kirola Tribe]] and ho
 
 ## Background
 
-**The gift.** He went out past the edge alone and came back after a dry season with a blade for every family. Three members have taken his gift and one has left a blade at his door.
+**The gift.** He went out past the edge alone and came back after a dry season with a blade for every family. Most members have taken his gift and one has left a blade at his door.
 
 **The line.** The herders bring their cattle deeper into the forest edge each dry season. He speaks a few words of their tongue and carries the Pewaye claim that the forest is the people's and the outside is not.
 

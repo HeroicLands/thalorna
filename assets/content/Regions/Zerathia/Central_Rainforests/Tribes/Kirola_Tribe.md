@@ -7,6 +7,7 @@ description: "An edge-people tribe of the forest's northern margin, which holds 
 tags: [tribe, pewaye, edge-people, draft]
 data:
   templatePriority: null
+  culture: pewayeclt
   demonym: null
   epithet: null
   symbol: null
@@ -71,7 +72,7 @@ The Kirola tell of a first member who went out past the edge and came back with 
 
 ## The Present Pressure {#present}
 
-The herders bring their cattle deeper into the forest edge each dry season, and the elders say the dry season runs longer each year. Dano's gift of last season is still being weighed: three members have taken it, and one has left a blade at his door.
+The herders bring their cattle deeper into the forest edge each dry season, and the elders say the dry season runs longer each year. Most members have taken Dano's gift of last season, and one has left a blade at his door.
 
 ## Hooks {#hooks}
 

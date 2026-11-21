@@ -32,8 +32,10 @@ data:
     nose: upturned
     brow: arched
     mouth: small
-    extra_features: [a nut-shell bracelet on each wrist, a habit of tilting her head to listen]
   packFolder: centralrainforests
+  items:
+    - {key: shellbracelets, name: "Nut-shell bracelets", kind: miscgear, system: {weight: 0.2}}
+    - {key: barkskirt, model: armorgear-hsclk, name: "Bark-cloth skirt", kind: clothing}
 ---
 
 # Appearance {#appearance}

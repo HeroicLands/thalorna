@@ -7,6 +7,7 @@ description: "A river-keeper tribe of the Dark River, the last camp below the dr
 tags: [tribe, luwando, river-keepers, draft]
 data:
   templatePriority: null
+  culture: luwandoclt
   demonym: null
   epithet: null
   symbol: null

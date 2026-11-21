@@ -32,10 +32,13 @@ data:
     nose: narrow
     brow: straight
     mouth: thin
-    extra_features:
-      - a string of Sengala glass beads at the throat
-      - a limp from a half-healed spear wound
+    extra_features: [a limp from a half-healed spear wound]
   packFolder: centralrainforests
+  items:
+    - key: glassbeads
+      name: "String of Sengala glass beads"
+      kind: miscgear
+      system: {weight: 0.3}
 ---
 
 # Appearance {#appearance}

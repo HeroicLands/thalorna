@@ -32,10 +32,13 @@ data:
     nose: broad
     brow: heavy
     mouth: full
-    extra_features:
-      - river-fever scars on both forearms
-      - a bark-cord bracelet knotted once for each boat of the dead
+    extra_features: [river-fever scars on both forearms]
   packFolder: centralrainforests
+  items:
+    - key: boatcord
+      name: "Bark-cord bracelet knotted for the boats of the dead"
+      kind: miscgear
+      system: {weight: 0.1}
 ---
 
 # Appearance {#appearance}

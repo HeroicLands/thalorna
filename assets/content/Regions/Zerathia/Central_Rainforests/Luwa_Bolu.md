@@ -3,7 +3,7 @@ shortcode: luwabolu
 name: {full: Luwa Bolu, en: [The Old River]}
 type: place
 subType: feature
-description: "The great river of the northern forest, which rises beside the Leopard King's valley, runs through the river-keepers' reach and the gorge-folk's landings, and leaves the forest toward the Vilérian Sea."
+description: "The great river of the northern forest, which rises beside the Leopard King's valley, runs through the river-keepers' reach and the gorge-folk's landings, and leaves the forest at its northern edge."
 tags: [river, rainforest, draft]
 data:
   demonym: null
@@ -15,15 +15,15 @@ data:
 
 ## Overview {#overview}
 
-The Luwa Bolu is the great river of the northern forest, the one outsiders mean when they say the river. It is one of three rivers that rise within a day's walk of each other in the valley of [[place-lpdkngcrt|the Leopard King's Court]], and it runs north through the interior, past the high-bank camps of the [[affiliation-liholatribe|Lihola Tribe]], through the gorge where the [[affiliation-morolatribe|Morola Tribe]] hold the landings, and out of the forest toward the [[place-vylarianse|Vilérian Sea]].
+The Luwa Bolu is the great river of the northern forest, the one outsiders mean when they say the river. It is one of three rivers that rise within a day's walk of each other in the valley of [[place-lpdkngcrt|the Leopard King's Court]], and it runs north through the interior, past the high-bank camps of the [[affiliation-liholatribe|Lihola Tribe]], through the gorge where the [[affiliation-morolatribe|Morola Tribe]] hold the landings, and out of the forest at its northern edge.
 
 ## The Land {#the-land}
 
-The upper river is a clear, fast stream under unbroken canopy. Below the Court's valley it widens, and the Lihola reach begins: high banks that the water does not climb in the rains, weirs of staked cane, and plantain gardens behind thorn. Farther north the spurs close in, and the river drops through a gorge of white water in three falls with a carry round each. Below the gorge it runs on toward the sea between low banks, past the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
+The upper river is a clear, fast stream under unbroken canopy. Below the Court's valley it widens, and the Lihola reach begins: high banks that the water does not climb in the rains, weirs of staked cane, and plantain gardens behind thorn. Farther north the spurs close in, and the river drops through a gorge of white water in three falls with a carry around each. Below the gorge it runs on between low banks to the forest's northern edge, past the river-posts where traders wait.
 
 ## Who Uses It {#who-uses-it}
 
-The Lihola fish it and carry the forest's honey, ivory and hides down to the gorge landings in dugouts cut from single trunks. The Morola carry canoes and cargo round the rapids for a share. The [[affiliation-ngotolatribe|Ngotola Tribe]] trade honey at the Lihola landing for fish and metal, and the sick of the Lihola are taken west to the [[place-kubigbele|Tree Court]] of the Gbelela. The Court's neighbors send gifts down and up it.
+The Lihola fish it and carry the forest's honey, ivory and hides down to the gorge landings in dugouts cut from single trunks. The Morola carry canoes and cargo around the rapids for a share. The [[affiliation-ngotolatribe|Ngotola Tribe]] trade honey at the Lihola landing for fish and metal, and the sick of the Lihola are taken west to the [[place-kubigbele|Tree Court]] of the Gbelela. The Court's neighbors send gifts down and up it.
 
 ## Dangers {#dangers}
 
@@ -37,7 +37,7 @@ The Luwando call the river _yobe_, the host, and a drowning is the host's disple
 
 ## Converging Interests {#present}
 
-Fewer boats come up from the northern river-posts than in other years, and the Lihola elders count the metal they have left. The Khelathi post below the gorge wants to carry its own boats past the first rapid for a fixed fee, the Morola keepers of the two landings quarrel over the division of the shares in the low water, and the Court's gift-bearers walk the banks with smoked fish that the Lihola leader means to send late.
+Fewer boats come up from the northern river-posts than in other years, and the Lihola elders count the metal they have left. The river-post below the gorge wants to carry its own boats past the first rapid for a fixed fee, the Morola keepers of the two landings quarrel over the division of the shares in the low water, and the Court's gift-bearers walk the banks with smoked fish that the Lihola leader means to send late.
 
 ## Hooks {#hooks}
 

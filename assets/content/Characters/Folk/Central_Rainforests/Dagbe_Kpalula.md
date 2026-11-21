@@ -32,8 +32,8 @@ data:
     nose: straight
     brow: thin
     mouth: small
-    extra_features: [open palms held a little forward when she speaks, a plain gray cloak]
   packFolder: centralrainforests
+  items: [{key: graycloak, model: armorgear-hsclk, name: "Plain gray cloak", kind: clothing}]
 ---
 
 # Appearance {#appearance}

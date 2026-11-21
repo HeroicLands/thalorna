@@ -7,6 +7,7 @@ description: "A canopy-forager tribe of the deep interior whose bands follow the
 tags: [tribe, yesoma, canopy-foragers, draft]
 data:
   templatePriority: null
+  culture: yesomaclt
   demonym: null
   epithet: null
   symbol: null

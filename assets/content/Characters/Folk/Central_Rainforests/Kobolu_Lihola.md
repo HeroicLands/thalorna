@@ -32,10 +32,10 @@ data:
     nose: broad
     brow: arched
     mouth: full
-    extra_features:
-      - a northern glass bead worn in the left ear
-      - dark paddle calluses on both palms
+    extra_features: [dark paddle calluses on both palms]
   packFolder: centralrainforests
+  items:
+    - {key: glassbead, name: "Northern glass bead earring", kind: miscgear, system: {weight: 0.1}}
 ---
 
 # Appearance {#appearance}

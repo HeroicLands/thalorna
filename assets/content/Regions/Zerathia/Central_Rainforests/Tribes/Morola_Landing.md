@@ -3,7 +3,7 @@ shortcode: morolalanding
 name: {full: Morola Landing}
 type: place
 subType: settlement
-description: "The bench above the first rapid where the Morola set canoes ashore, weigh the cargo and carry it round the white water for a share."
+description: "The bench above the first rapid where the Morola set canoes ashore, weigh the cargo and carry it around the white water for a share."
 tags: [camp, rainforest, draft]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
   culture: gorgfolkclt
   packFolder: centralrainforests
   government: morolatribe
-  notes: "The bench above the first rapid where the Morola set canoes ashore, weigh the cargo and carry it round the white water for a share."
+  notes: "The bench above the first rapid where the Morola set canoes ashore, weigh the cargo and carry it around the white water for a share."
 ---
 
 ## Overview {#overview}

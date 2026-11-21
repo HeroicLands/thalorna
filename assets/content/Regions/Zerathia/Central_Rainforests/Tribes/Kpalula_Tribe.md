@@ -7,6 +7,7 @@ description: "The tribe of the Leopard King's Court, a large tribe by the forest
 tags: [tribe, court, leopard-court, draft]
 data:
   templatePriority: null
+  culture: bikoclt
   demonym: null
   epithet: null
   symbol: null
@@ -77,7 +78,7 @@ Gift-bearers report that no delegation has met the King in two seasons and that 
 
 ## Hooks {#hooks}
 
-- **The gift-bearers' wait.** A caravan of gift-bearers takes on a party as porters, and the Speaker tests each newcomer with small questions.
+- **The gift-bearers' wait.** A caravan of gift-bearers takes on a party as porters, and at the Court the Speaker tests each newcomer with small questions.
 - **Red-Spear's offer.** The Leader of the Spotted Guard looks for allies among visitors who will say what they saw on the Lower Terrace.
 - **The late iron.** The Receiver of Gifts needs word of why the Balola have sent less iron than the tally expects.
 

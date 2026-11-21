@@ -32,8 +32,9 @@ data:
     nose: broad
     brow: bushy
     mouth: small
-    extra_features: [a walking-staff of black wood, a cough that comes in the cold hours]
   packFolder: centralrainforests
+  items:
+    - {key: blackstaff, model: weapongear-stf, name: "Walking-staff of black wood", kind: weapon}
 ---
 
 # Appearance {#appearance}

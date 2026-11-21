@@ -32,8 +32,13 @@ data:
     nose: broad
     brow: straight
     mouth: full
-    extra_features: [a weir-cord scar across the right wrist, a necklace of river-snail shells]
+    extra_features: [a weir-cord scar across the right wrist]
   packFolder: centralrainforests
+  items:
+    - key: snailnecklace
+      name: "Necklace of river-snail shells"
+      kind: miscgear
+      system: {weight: 0.3}
 ---
 
 # Appearance {#appearance}

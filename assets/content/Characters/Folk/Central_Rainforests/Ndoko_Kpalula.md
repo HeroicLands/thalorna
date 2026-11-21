@@ -32,8 +32,13 @@ data:
     nose: broad
     brow: straight
     mouth: wide
-    extra_features: [a spear painted red to the haft, a leopard-skin cloak cut short at the knee]
   packFolder: centralrainforests
+  items:
+    - {key: redspear, model: weapongear-spr, name: "Spear painted red to the haft", kind: weapon}
+    - key: leopardcloak
+      model: armorgear-ltcloak
+      name: "Leopard-skin cloak cut short at the knee"
+      kind: clothing
 ---
 
 # Appearance {#appearance}

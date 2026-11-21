@@ -7,6 +7,7 @@ description: "An edge-people tribe of the forest's southern margin, whose stretc
 tags: [tribe, pewaye, edge-people, draft]
 data:
   templatePriority: null
+  culture: pewayeclt
   demonym: null
   epithet: null
   symbol: null

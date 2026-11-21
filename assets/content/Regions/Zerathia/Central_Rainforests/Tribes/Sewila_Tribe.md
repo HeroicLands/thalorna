@@ -7,6 +7,7 @@ description: "A court-keeper tribe whose spirit-court is a pool held by a serpen
 tags: [tribe, kubindo, court-keepers, draft]
 data:
   templatePriority: null
+  culture: kubindoclt
   demonym: null
   epithet: null
   symbol: null

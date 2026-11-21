@@ -3,10 +3,11 @@ shortcode: gbelelatribe
 name: {full: Gbelela Tribe, en: [The Gbelela]}
 type: affiliation
 subType: polity
-description: "A court-keeper tribe whose spirit-court is one great tree, with hardwood stands round it that buyers at the river landings want."
+description: "A court-keeper tribe whose spirit-court is one great tree, with hardwood stands around it that buyers at the river landings want."
 tags: [tribe, kubindo, court-keepers, draft]
 data:
   templatePriority: null
+  culture: kubindoclt
   demonym: null
   epithet: null
   symbol: null
@@ -71,7 +72,7 @@ The Gbelela say that the spirit of the tree has answered the night-sitting every
 
 ## The Present Pressure {#present}
 
-Buyers from the river landings are offering iron for the felled trunks of the stand round the court, and some members say the tree's kin are only trees. The offering on the lowest bough has been taken three nights in a row, and the Hanger of Offerings cannot say by what.
+Buyers from the river landings are offering iron for the felled trunks of the stand around the court, and some members say the tree's kin are only trees. The offering on the lowest bough has been taken three nights in a row, and the Hanger of Offerings cannot say by what.
 
 ## Hooks {#hooks}
 

@@ -32,10 +32,9 @@ data:
     nose: snub
     brow: straight
     mouth: full
-    extra_features:
-      - a fine scar down the left shin from a serpent's bite long healed
-      - a band of plaited vine on the upper arm
+    extra_features: [a fine scar down the left shin from a serpent's bite long healed]
   packFolder: centralrainforests
+  items: [{key: vineband, name: "Band of plaited vine", kind: miscgear, system: {weight: 0.1}}]
 ---
 
 # Appearance {#appearance}
@@ -60,7 +59,7 @@ She is quiet, careful of other beings' houses, and slow to give an order that is
 
 ### Motivation
 
-She wants the Sewila's court kept as it is and her own place kept small, since a leader who gathers power round a spirit-place has begun to ruin it.
+She wants the Sewila's court kept as it is and her own place kept small, since a leader who gathers power around a spirit-place has begun to ruin it.
 
 ### Strengths
 
