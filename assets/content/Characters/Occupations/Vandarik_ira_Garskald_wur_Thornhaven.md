@@ -3,6 +3,7 @@ shortcode: vndrcgrskld
 name: {full: Vandarik ira Garskald wur Thornhaven}
 type: being
 subType: npc
+description: "The ostler who keeps Thornhaven's stable for river traders, visiting scouts and the War Chief's riders."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -434,17 +435,11 @@ Few; well-liked among the community.
 
 ## Plot Hooks
 
-The Ostler's Dilemma
-: Vandarik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+Both Kinds of Visitor
+: A Velanthian river-prince's agent and a Varokh war-band's scouts are equally likely to be the next visitor through Thornhaven's gate, and both need their horses serviced before they move on. Vandarik keeps the stable for both and struggles with conflict.
 
-Old Grudges
-: Few; well-liked among the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+What the Stable Hears
+: Vandarik keeps the stable ready for river traders, visiting scouts and the War Chief's riders, and its household answers to the village's bargains. He hears what each of them says about the frontier.
 
-Echoes of the Past
-: Something from Vandarik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Vandarik depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Vandarik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Loyalty Asserted
+: The Velanthian princes trust Thornhaven as nothing more than an auxiliary, and the village asserts its loyalty to the Vristwald tribes more loudly than villages that have never had reason to doubt it. Vandarik, whom travelers and locals both respect, sees from his stable which side each visitor comes from.

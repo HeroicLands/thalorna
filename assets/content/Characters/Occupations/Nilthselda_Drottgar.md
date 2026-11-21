@@ -3,6 +3,7 @@ shortcode: nlthslddrtgr
 name: {full: Nilthselda Drottgar}
 type: being
 subType: npc
+description: "The apothecary of Raltholm, who treats the hersvald's men and the poor alike and often gives her remedies away."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -440,17 +441,11 @@ None, though some apothecaries see her charity as competition.
 
 ## Plot Hooks
 
-The Apothecary's Dilemma
-: Nilthselda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+Medicine Given Away
+: Nilthselda is passionate about treating the poor and often gives away medicines for free. She struggles to turn away those in need, and her purse shows it.
 
-Old Grudges
-: None, though some apothecaries see her charity as competition. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+When the Horn Sounds
+: Raltholm's horn calls the levy, and Nilthselda treats the hersvald's men as readily as a farmer's burned hand. She overworks herself.
 
-Echoes of the Past
-: Something from Nilthselda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Nordheim threaten to upend the social order that Nilthselda depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Nilthselda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Charity Seen as Competition
+: Some apothecaries see Nilthselda's charity as competition. A hard winter that costs the horn its answer costs the hersvald his standing, and the villagers she treats are the men whose consent keeps him in his hall.

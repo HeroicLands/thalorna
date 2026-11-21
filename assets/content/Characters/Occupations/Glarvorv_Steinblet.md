@@ -3,6 +3,7 @@ shortcode: glrvrvstnblt
 name: {full: Glarvorv Steinblet}
 type: being
 subType: npc
+description: "A perfumer of Dvalgheim who turns resins into bold scents that couriers carry along the inland road."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -437,17 +438,11 @@ Few; generally well-respected but some traditionalists may disapprove of his met
 
 ## Plot Hooks
 
-The Perfumer's Dilemma
-: Glarvorv faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+A Courier's Case
+: Glarvorv's workshop turns resins into goods small enough for a courier to carry and sell dear at the far end of the road. The king's riders who change horses at Dvalgheim are his trade.
 
-Old Grudges
-: Few; generally well-respected but some traditionalists may disapprove of his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Two Kinds of Patron
+: Nobles and adventurers seek out Glarvorv's bold scents, and traditionalists disapprove of his methods. He is too experimental, and he sometimes alienates traditional customers.
 
-Echoes of the Past
-: Something from Glarvorv's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Nordheim threaten to upend the social order that Glarvorv depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Glarvorv the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Plants From Distant Lands
+: Glarvorv uses unconventional ingredients, rare plants and flowers from distant lands. Dvalgheim is a relief-post, and what reaches it is what a courier carries.

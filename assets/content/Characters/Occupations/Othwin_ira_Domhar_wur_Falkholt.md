@@ -3,6 +3,7 @@ shortcode: othwindmhr
 name: {full: Othwin ira Domhár wur Falkholt}
 type: being
 subType: npc
+description: "A gruff trapper of the marsh behind Falkholt's pines who is sent for when a dangerous predator has to be removed."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -433,17 +434,14 @@ Local officials disapprove of his disregard for hunting regulations.
 
 ## Plot Hooks
 
-The Trapper's Dilemma
+Where Traps Are Forbidden
 : The farmers want a predator removed from ground where the officials have forbidden Othwin to set traps, and he cannot serve the one without handing the other its case against him.
 
-Old Grudges
+The Officials' Cases
 : The local officials who object to Othwin's disregard for hunting regulations are gathering their cases against him.
 
-Echoes of the Past
+His Grandfather's Trapline
 : A trapline Othwin's grandfather ran is found again, and someone else claims the ground.
 
-Shifting Winds
-: Political change in Vristwald puts new officials over the forest Othwin traps, and he can adapt, resist, or leave.
-
-The Opportunity
+A Season's Pay
 : A woodsman offers Othwin a season's pay to track a predator no one else has found, and does not say what it has killed.

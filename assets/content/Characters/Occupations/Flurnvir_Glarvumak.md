@@ -3,6 +3,7 @@ shortcode: flrnvrglrvmkh
 name: {full: Flurnvir Glarvumak}
 type: being
 subType: npc
+description: "A jeweler of Kraldstead who sets amber and northern silver into small pieces for couriers to carry to either end of the road."
 tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -436,17 +437,11 @@ Few; generally respected by fellow artisans.
 
 ## Plot Hooks
 
-The Jeweler's Dilemma
-: Flurnvir faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+Trade-Weight Pieces
+: Flurnvir sets amber and northern silver into pieces small enough for a courier to carry and sell at either end of the road. He is meticulous and struggles with time management when the work is heavy.
 
-Old Grudges
-: Few; generally respected by fellow artisans. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Toll on the Loads
+: Kraldstead's packers and the landvordur argue over the toll on a season's loads, and the scale never settles it. Flurnvir's amber travels in the same panniers.
 
-Echoes of the Past
-: Something from Flurnvir's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Nordheim threaten to upend the social order that Flurnvir depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Flurnvir the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Past the Tally-Stick
+: Kraldstead has no hall, hersvald or ting. A dispute too large for the scale and the tally-stick waits for whichever Lawspeaker next passes on his circuit, and Flurnvir's pieces are sold at either end of the road, far from his bench.

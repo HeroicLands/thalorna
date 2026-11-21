@@ -3,6 +3,7 @@ shortcode: mrvrhrfnsvld
 name: {full: Murvir Hrafansvald}
 type: being
 subType: npc
+description: "A Knalthstead jeweler who sets amber and silver for the king's court and values gemstones for nobles and traders."
 tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -435,17 +436,14 @@ Few; generally respected within the industry.
 
 ## Plot Hooks
 
-The Jeweler's Dilemma
+The Stolen Stone
 : A noble brings Murvir a stone he recognizes as stolen, and he has to choose between the client and the truth.
 
-Old Grudges
+One Who Does Not Respect Him
 : One of the few in the trade who do not respect him decides to do something about it.
 
-Echoes of the Past
+A Piece in the Wrong Hands
 : A piece Murvir made early in his trade resurfaces in the wrong hands.
 
-Shifting Winds
-: Political change in Nordheim threatens the custom Murvir's shop depends upon, and he can adapt, resist, or leave.
-
-The Opportunity
+A Commission Beyond the Shop
 : A noble commission comes to Murvir beyond anything his shop has handled, and its price is not named up front.

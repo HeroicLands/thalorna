@@ -3,6 +3,7 @@ shortcode: sndwrhldvth
 name: {full: Sundwira ira Hildvith wur Frithhaven}
 type: being
 subType: npc
+description: "The ostler who keeps the stable at Frithhaven's landing, where Velanthian traders and Varokh boat crews leave their horses."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -431,17 +432,11 @@ Few; respected by the community.
 
 ## Plot Hooks
 
-The Ostler's Dilemma
-: Sundwira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
+What the Grooms Say
+: Velanthian grooms and Varokh grooms both talk in Sundwira's stable, and she hears the quarrel over the captive and the surety child from both sides. She is stubborn and struggles with authority figures.
 
-Old Grudges
-: Few; respected by the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Horse Come Too Far Too Fast
+: Frithhaven's Other Chief counts on Sundwira to notice a horse that has come too far too fast. At the landing, where the truce at the water is already strained, a horse in that state means its rider is hurrying.
 
-Echoes of the Past
-: Something from Sundwira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Sundwira depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Sundwira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Shore Barred
+: The Shaman has barred the lake shore to the War Chief and the Velanthian captain until the child is returned. Sundwira's stable lives on the trade of the Velanthian traders and Varokh boat crews who leave their horses with her while the truce holds.

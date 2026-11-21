@@ -3,6 +3,7 @@ shortcode: flrnyndstrmrt
 name: {full: Flirninda Stormrót}
 type: being
 subType: npc
+description: "A ratter of Knalthstead who works independently with traps and a trained cat named Whiskers."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -428,17 +429,14 @@ Few; she is well liked in her community, though some rats remain elusive.
 
 ## Plot Hooks
 
-The Ratter's Dilemma
+Driven, Not Killed
 : A householder who pays Flirninda well wants the rats driven out rather than killed, into the street where they will become someone else's.
 
-Old Grudges
+The Rat in the House That Pays
 : A rat Flirninda could never catch has been seen again, in the one house whose custom she cannot afford to lose.
 
-Echoes of the Past
+A Trap She Did Not Set
 : A trap of Flirninda's father's design is found set in a part of the city he never worked, and she did not set it.
 
-Shifting Winds
-: Political change in Nordheim threatens the businesses Flirninda's trade depends on, and she can adapt, resist, or leave.
-
-The Opportunity
+The Warehouse District and Whiskers
 : A merchant offers Flirninda the keeping of his whole warehouse district at a wage, and the poisons he wants used would put Whiskers at risk.

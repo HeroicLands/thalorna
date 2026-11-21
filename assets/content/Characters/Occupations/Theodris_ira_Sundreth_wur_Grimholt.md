@@ -3,6 +3,7 @@ shortcode: thdrsndryth
 name: {full: Theodris ira Sundreth wur Grimholt}
 type: being
 subType: npc
+description: "An orphaned singer who lives on song, favors and small gifts at Grimholt's landing."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -431,17 +432,11 @@ None, but has been targeted by pickpockets.
 
 ## Plot Hooks
 
-The Beggar's Dilemma
-: Theodris faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
+No Household
+: Theodris sings at Grimholt's landing for food and coin, and no household has taken her in. No street circuit or performers' association stands behind her when one turns her away.
 
-Old Grudges
-: None, but has been targeted by pickpockets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Pickpockets at the Wharves
+: Pickpockets have targeted Theodris. A good season leaves the traders at Grimholt's wharves generous, and what they give her is what she has.
 
-Echoes of the Past
-: Something from Theodris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Theodris depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Theodris the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+A Message Carried
+: Boat crews and village households give Theodris a coin for a message carried. She is trusting and easily taken advantage of, and she carries what she is handed.

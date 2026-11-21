@@ -3,6 +3,7 @@ shortcode: wldrcrkhld
 name: {full: Waldarik ira Rikhild wur Grimholt}
 type: being
 subType: npc
+description: "A tentmaker who sews and repairs canvas for the river travelers and war-bands at Grimholt's landing."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -435,17 +436,11 @@ Competitors who undercut his prices.
 
 ## Plot Hooks
 
-The Tentmaker's Dilemma
-: Waldarik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+More Requests Than Hands
+: Waldarik has more requests than his household can always finish. He is slower than the larger competitors and will not trade quality for speed.
 
-Old Grudges
-: Competitors who undercut his prices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Undercut
+: Competitors undercut Waldarik's prices at Grimholt's river landing. He struggles with marketing, and no guild, city or larger workshop stands behind him.
 
-Echoes of the Past
-: Something from Waldarik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Waldarik depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Waldarik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Torn Shelters
+: Boat crews and village warriors bring Waldarik torn shelters and pay for tents they can carry through the forest. Both want their canvas first, and Waldarik, who takes pride in his craftsmanship, finishes in his own time.

@@ -3,6 +3,7 @@ shortcode: rdrnvthrnd
 name: {full: Radrún ira Vithrúnd wur Grimholt}
 type: being
 subType: npc
+description: "A woman who works in a Grimholt brothel and serves the Gray Tide as lookout and messenger."
 tags: [draft, underworld]
 data:
   icon: icon-person
@@ -434,17 +435,14 @@ Few; she is well liked in her trade, but some rival Tide members may challenge h
 
 ## Plot Hooks
 
-The Prostitute's Dilemma
+What the Client Said
 : A client Radrún has come to trust says something in her hearing that the Gray Tide would pay for, and she can carry it to the Tide or keep it.
 
-Old Grudges
+A Test She Is Not Meant to Know
 : A rival in the Tide who doubts Radrún's loyalty has set a test for her that she is not meant to know is one.
 
-Echoes of the Past
+The Message Traced Back
 : A message Radrún carried for the Tide in her first months is traced back to the brothel, and to her.
 
-Shifting Winds
-: Political change in Vristwald threatens the Gray Tide's hold on the coast, and Radrún can adapt, resist, or leave.
-
-The Opportunity
+A Place Beyond the Brothel
 : The Tide offers Radrún a place beyond the brothel, and a heavier share of the work she already doubts.

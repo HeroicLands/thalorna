@@ -3,6 +3,7 @@ shortcode: sklfvrasgrnd
 name: {full: Skilfvir Asgrind}
 type: being
 subType: npc
+description: "The head huntsman of Lord Gnildurmil of Ashenwood Manor, who keeps the lord's grounds stocked and leads the hunting parties at his feasts."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -434,17 +435,11 @@ None; respected by the local community.
 
 ## Plot Hooks
 
-The Huntsman's Dilemma
+Poachers on the Grounds
 : Poachers thin the lord's game, and Skilfvir has to choose between reporting men he knows and failing the lord he serves.
 
-Old Grudges
-: Skilfvir has no known enemies, so a grudge against him would come from outside the community that respects him.
+The Lord's Feasts
+: Skilfvir is often called on to lead the hunting parties at Lord [[being-gnildurmyl|Gnildurmil]]'s feasts, and he sees that the game on the grounds of [[place-ashenwoodmnr|Ashenwood Manor]] is not hunted out. He is cautious and struggles to talk with anyone outside the hunting party.
 
-Echoes of the Past
-: Something from Skilfvir's earlier life resurfaces and follows him onto the lord's grounds.
-
-Shifting Winds
-: Political change in Nordheim threatens the manor Skilfvir depends upon, and he can adapt, resist, or leave.
-
-The Opportunity
+A Greater Hunt
 : Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gnildurmil is not named up front.
