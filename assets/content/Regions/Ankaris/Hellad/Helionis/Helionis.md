@@ -35,7 +35,7 @@ The climate is warm and dry. The sun is bright, the sea is blue to the horizon, 
 
 ## The Hinterland {#hinterland}
 
-Behind the coastal belt, mountains cover about half of Helionis and hold a quarter of its people. [[place-khaddaria|Khaddaria]] is the hinterland of mines, fortified towns and caravan stops that stretches north-east toward [[place-velanthrgn|Velanthia]] and [[place-byzariargn|Bizaria]]: twelve towns, held by five of the city-states, and the villages that ring them behind palisades. The ore and metal of the seven city-states come from there, and so do the marauders and the Black Flame that the city-states' philosophers prefer not to discuss.
+Behind the coastal belt, mountains cover about half of Helionis and hold a quarter of its people. [[place-khaddaria|Khaddaria]] is the hinterland of mines, fortified towns and caravan stops that stretches north-east toward [[place-velanthrgn|Velanthia]] and [[place-byzariargn|Bizaria]], with the mountain line [[place-krvgr|Karvogora]] on its northern side: twelve towns, held by five of the city-states, and the villages that ring them behind palisades. The ore and metal of the seven city-states come from there, and so do the marauders and the Black Flame that the city-states' philosophers prefer not to discuss.
 
 ## Seven City-States, and the Three That Lead
 
@@ -134,6 +134,9 @@ The theaters
 
 [[place-khaddaria|Khaddaria]]
 : the mountain hinterland and its twelve fortified towns
+
+[[place-krvgr|Karvogora]]
+: the range along its northern edge
 
 [[lore-helioniteclt|Helionite]]
 : the culture and what it holds a person owes

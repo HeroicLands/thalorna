@@ -23,7 +23,7 @@ A _kurthos_'s freedman secretary in Orzara, asked what [[affiliation-seldan|Seld
 
 ## The Land {#the-land}
 
-The kingdom lies north-east of the empire's provinces. To the south the wheat country of [[place-hylen|Hilen]] rises into wooded hills, and the border runs along a stream below the Hilen march-town of [[place-ashenmere|Ashenmere]], where the imperial road crosses into the kingdom by a bridge of three arches. To the west the mountains of [[place-moktur|Moktur]] stand above the treetops. To the north the forest thins, over many days' travel, to the foothills of the mountain line that closes the southern rim of [[place-velanthrgn|Velanthia]], and beyond the passes lies its grain country.
+The kingdom lies north-east of the empire's provinces. To the south the wheat country of [[place-hylen|Hilen]] rises into wooded hills, and the border runs along a stream below the Hilen march-town of [[place-ashenmere|Ashenmere]], where the imperial road crosses into the kingdom by a bridge of three arches. To the west the mountains of [[place-moktur|Moktur]] stand above the treetops. To the north the forest thins, over many days' travel, to the foothills of [[place-krvgr|Karvogora]], the mountain line that closes the southern rim of [[place-velanthrgn|Velanthia]], and beyond the passes lies its grain country.
 
 Most of the kingdom is upland forest: oak and beech on the lower slopes, pine and fir on the ridges, and clearings in the valleys for rye, oats, flax, orchards and summer pasture. Winters are colder than in the provinces, and snow lies on the ridges from midwinter into spring. Summers are wet, and the forest roads are mud for a week after every storm. They are earth tracks and, across the wet bottoms, log causeways. The one paved road is the imperial road from Ashenmere to the holy city, which the kingdom keeps in repair because the pilgrims use it.
 
@@ -73,6 +73,9 @@ The holy city of Nartun is the kingdom's one city. Its other people live in temp
 
 [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]
 : the kingdom that holds this land
+
+[[place-krvgr|Karvogora]]
+: the range at the end of the forest
 
 [[affiliation-sacredflame|Order of the Sacred Flame]]
 : the knights who keep its walls and borders
