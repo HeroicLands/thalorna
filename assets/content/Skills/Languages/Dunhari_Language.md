@@ -6033,6 +6033,54 @@ data:
       meaning: "a Sovidur name, carried by a Khazrin wanderer living among the tribes"
     - {tag: ashaian, meaning: "a name taken from the Ashaian faith, whose gods the tribes keep"}
     - {tag: translation, meaning: a name given in the language of these pages}
+  elements:
+    - form: qarvel
+      position: opening
+      kind: place
+      word: "qarvel-"
+      sense: to wall in
+      examples: [qarvelakhend]
+    - form: tazhin
+      position: opening
+      kind: place
+      word: "tazhin-"
+      sense: to thresh grain
+      examples: [tazhinakhend]
+    - form: venzel
+      position: opening
+      kind: place
+      word: "venzel-"
+      sense: to press oil
+      examples: [venzelakhend]
+    - form: sorvad
+      position: opening
+      kind: place
+      word: "sorvad-"
+      sense: to sow
+      examples: [sorvadakhend]
+    - form: tevraz
+      position: opening
+      kind: place
+      word: "tevraz-"
+      sense: to well up without failing
+      examples: [tevrazavad]
+    - form: ghavul
+      position: opening
+      kind: place
+      word: "ghavul-"
+      sense: to draw water
+      examples: [ghavulavad]
+    - form: avad
+      position: closing
+      kind: place
+      sense: "watered ground: an oasis or a spring"
+      examples: [tevrazavad, ghavulavad]
+    - form: akhend
+      position: closing
+      kind: place
+      sense: "a town, a walled settlement"
+      examples: [qarvelakhend, tazhinakhend, venzelakhend, sorvadakhend]
+  naming: {draws: [{kind: place, elements: [place]}]}
   register:
     - {name: afrun, tongue: dunhari}
     - {name: amradad, tongue: dunhari}

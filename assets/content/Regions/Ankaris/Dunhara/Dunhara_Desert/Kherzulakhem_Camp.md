@@ -45,6 +45,10 @@ Kherzulakhem Camp is the gathering of hunters and trackers at the oasis of [[pla
 
 The Keeper of the Basin holds the order in which hunters, trackers and their animals water, and the peace beside the water. [[being-atenhershr|Atazkharu Oroqidur]], the Khazrin wanderer who calls the camp home between his journeys, holds the keeping in the seasons he spends there. While he travels, the campers draw the basin in the order he set, and the eldest hunter at the water holds the peace in his name.
 
+## Current Situation {#present}
+
+A [[lore-sowidesclt|Sovidur]] storm-shaman has a following among the young trackers who water at [[place-kherzulakhem|Kherzulakhem]], and the northern chieftains want him summoned to the [[place-stoneofranaz|Stone of Ranaz]]. The Laws of the Well keep the peace at the basin between everyone who waters there, whatever their tribe or faith.
+
 ## History {#history}
 
 The camp has no founding in anyone's recitation. The seep gives water for people and riding animals and none for a herd, so no tribe has ever tried to hold it, and hunters of the Dunhara and the [[place-khzryndsrtrgn|Khazrin]] have watered there together under the Laws of the Well for as long as either desert remembers. The Sovidur raids on the northern wells, the feuds of the northern tribes and the wars of the steppe have all passed it by, because the basin is worth more to every side as a peace than as a prize.

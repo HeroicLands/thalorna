@@ -34,9 +34,17 @@ The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] of fire and light, 
 
 ## Ways In
 
-A party usually arrives as a caravan's escort. Escort duty passes from tribe to tribe as a caravan crosses each territory, and a dispute at a handover can strand the cargo between two sheikhs. Other troubles are already moving: a delegation petitioning the Warrior's Circle against a Dunhari chieftain, the marked stones that choose the Circle's Voice gone missing before a meeting, two storm-cult lineages giving opposite readings of the coming rains, and a storm-shaman from the [[place-khzryndsrtrgn|Khazrin Desert Region]] preaching where he should not.
+A party usually arrives as a caravan's escort. Escort duty passes from tribe to tribe as a caravan crosses each territory, and a dispute at a handover can strand the cargo between two sheikhs, as it does in [[scenario-trnbtwnshks|The Train Between Two Sheikhs]], where a grain train waits at the last well before [[place-gharzadez|Gharzadez]] and the riders of two chieftains each refuse to let the other take it in.
 
-A campaign among the cities and the caravan road of Amradad runs on [[scenario-sprngbfrbnnr|The Spring Before the Banner]], one spring in which a steppe dovaq gathers tribes under his banner. It lands at [[place-valmakhend|Valmakhend]] and [[place-tahrodan|Tahrodan]], and the exile houses, whose courts sit in [[place-shebarakhend|Shebarakhend]], take their part in it.
+Other troubles are already moving in the desert:
+
+- [[scenario-thrdpetition|The Third Petition]] brings a clan chieftain and a widow to the [[place-stoneofranaz|Stone of Ranaz]] to ask the Warrior's Circle to hold one of its own members to the Old Promise.
+- [[scenario-irncrwnstrm|What Walks Above the Pale Floor]] sends a party across the salt to the [[place-twrlghtnmrkd|Tower of the Lightning-Marked]], where [[being-vhrnmrzvn|Vahrun Marzuvan]] is said never to have died and something in the storm is calling Dunhari onto the white.
+- [[scenario-nrctdvzhmvd|The Riders Who Ask Your Name]] follows the nameless raiders of the southern circuit back to the poet who holds [[place-vzhmvd|Vazhmavad]].
+- [[scenario-kprdrystr|A Stair of Veiled Women]] opens when the wind bares the vault of [[place-mezhvadez|Mezhvadez]], the Dry Stair.
+- [[affiliation-strmcltsbzhrms|The Storm Cults]] come to the season-turn with the Wind-Readers and the Lightning-Marked at odds, while the northern chieftains want a [[lore-sowidesclt|Sovidur]] storm-shaman who preaches in their camps summoned to the [[place-stoneofranaz|Stone of Ranaz]].
+
+A campaign among the cities and the caravan road of Amradad runs on [[scenario-sprngbfrbnnr|The Spring Before the Banner]], one spring in which a steppe dovaq gathers tribes under his banner. It lands at [[place-valmakhend|Valmakhend]] and [[place-tahrodan|Tahrodan]], and the exile houses, whose courts sit in [[place-shebarakhend|Shebarakhend]], take their part in it. At Tahrodan, [[scenario-undrtmplsl|What Passes Under the Seal]] puts a caravan under a fire-temple's seal and a scribe of the High Shekhul in the toll-house.
 
 ## Where to Read Next
 
