@@ -3,6 +3,7 @@ shortcode: suvrtrtnsn
 name: {full: Suvarti Ratnisen, given: Suvarti, clan: Ratnisen, vedy: [suvi]}
 type: being
 subType: character
+description: "A toymaker of Chendrapur whose toys of imagination and learning are valued by families of means, and who has refused every offer to expand her workshop."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -544,7 +545,7 @@ Devotees of [[affiliation-meghonata|Meghonata]]
 
 ## Plot Hooks
 
-The Impossible Commission
+A Toy Beyond Her Craft
 : A foreign man of high rank, of wealth and eccentricity arrives in Chendrapur seeking a bespoke toy of extraordinary specification—a mechanical marvel that will require Suvarti to learn entirely new techniques, work with materials unfamiliar to her, and collaborate with specialized craftspeople. The commission offers enough wealth to transform her life, but accepting it would require abandoning her principles about what constitutes craft and working on a scale she has always resisted.
 
 The Inheritance of Legacy

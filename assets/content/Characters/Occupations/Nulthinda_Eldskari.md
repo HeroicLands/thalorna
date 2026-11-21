@@ -3,6 +3,7 @@ shortcode: nlthyndeldskr
 name: {full: Nulthinda Eldskari}
 type: being
 subType: npc
+description: "A farm laborer of Raltholm who works the inland fields each summer and is known for her strength and reliability."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -440,17 +441,14 @@ Few; well-respected in the community.
 
 ## Plot Hooks
 
-The Laborer (farm)'s Dilemma
-: Nulthinda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
+The Late Wage
+: The farmer who hires Nulthinda's crew for the inland fields is late with the pay, and the crew looks to her, the one they rely on, to speak to him.
 
-Old Grudges
-: Few; well-respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Heavy Lift
+: A builder asks the crew to carry a load that Nulthinda can lift and the others cannot. If she takes it on, an injury would cost the crew its work.
 
-Echoes of the Past
-: Something from Nulthinda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+The Union and the Farmer
+: The Laborers' Union calls the crew to stand against a farmer who has hired Nulthinda summer after summer, and she has to choose between the union and the patron.
 
-Shifting Winds
-: Political changes in Nordheim threaten to upend the social order that Nulthinda depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Nulthinda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+The Horn at Harvest
+: The hersvald's horn carries across the water to the inland fields while the grain is still uncut. The farmers want the crew to stay, and the crew has to decide what to leave standing.

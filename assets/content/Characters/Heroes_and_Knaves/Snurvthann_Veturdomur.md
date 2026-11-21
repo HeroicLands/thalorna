@@ -3,6 +3,7 @@ shortcode: snrvthnvtrdmr
 name: {full: Snurvthann Veturdomur, given: Snurvthann, clan: Veturdomur}
 type: being
 subType: character
+description: "A master thatcher whose roofs last decades longer than most, honest and blunt with customers and devoted to Mótefnir the Maker."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -553,7 +554,7 @@ The Building That Remembers
 The Thatcher's Curse
 : Snurvthann undertakes repairs on a village building that has required re-thatching seven times in the last decade—an impossible frequency suggesting either deep structural flaws or something worse. Elders mention in hushed tones that a curse was placed on the structure decades ago after an injustice committed by the building's original owner. Snurvthann initially dismisses this as superstition, but as he works, he experiences visions of the past injustice and feels inexplicable compulsion to work in ways he doesn't consciously choose. His hands move to create patterns that, when viewed from above, form runic symbols. Snurvthann suspects the curse can be lifted through proper application of thatching craft combined with ritual blessing. He must manage both the practical engineering of a stable roof and the unseen work of lifting a curse through his art.
 
-The Impossible Commission
+A Roof That Draws a Blessing
 : A mysterious patron approaches Snurvthann with unprecedented specifications: create a roof that sheds water and also draws the sky's blessing, a roof that will make the building beneath it a place of healing and positive fortune. The patron can pay any price and offers no timeline constraint. The commission tantalizes Snurvthann because it asks him for something his working life has never approached: spiritual meaning through craft, beyond functional excellence. As he works, Snurvthann discovers he is capable of this work, but it requires merging his technical mastery with intuitive magical sensitivity he didn't know he possessed. The process slowly reveals that Snurvthann may have inherited his mother's latent gift for weather-working, something his practical focus on traditional craft has suppressed. He can pursue this emerging spiritual side of his work or hold to the material mastery he has cultivated.
 
 The Mentor's Despair

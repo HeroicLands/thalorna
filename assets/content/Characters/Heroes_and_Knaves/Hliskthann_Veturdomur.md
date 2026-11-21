@@ -3,6 +3,7 @@ shortcode: hlskthnvtrdmr
 name: {full: Hliskthann Veturdomur, given: Hliskthann, clan: Veturdomur}
 type: being
 subType: character
+description: "A thatcher in his late forties, trusted by the regional houses of Malagna for twenty-eight years of unhurried work, who invokes Mótefnir the Maker before a major roof."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -534,7 +535,7 @@ Rural faithful of the [[affiliation-motefnir|Faith of Mótefnir]]
 The Inheritance of Knowledge
 : A scholar and collector of traditional wisdom, **Lady [[being-dvurnthyra|Dvurnthira]] of the [Archives]{.name data-type="affiliation"}**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
 
-The Impossible Commission
+The Cathedral Roof
 : The ancient capital cathedral's roof—a magnificent structure from the age of legends—has developed catastrophic damage. The nobility demands restoration, but the original techniques are lost, the structure is geometrically complex beyond modern standards, and the timeline is impossible. Only Hliskthann is thought capable of tackling it. He can attempt the work (which might destroy his reputation if he fails) or refuse and watch the sacred building fall into ruin.
 
 The Apprentice Problem

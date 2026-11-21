@@ -3,6 +3,7 @@ shortcode: thlmvrsnrvrkh
 name: {full: Thulmvir Snarvaruk, given: Thulmvir, clan: Snarvaruk}
 type: being
 subType: character
+description: "A potter of about forty whose plain, durable vessels are favored by farmers, merchants and wealthy families, and who trains apprentices in the traditional manner."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -522,7 +523,7 @@ Artisan [[being-ilthannvrath|Ilthann Vrathumak]]
 
 ## Plot Hooks
 
-The Apprentice's Dilemma
+Lyra and the Offer from Artisan Ilthann
 : - **Thulmvir's** most talented current apprentice, a young woman named [Lyra Stonecraft]{.name data-type="being/npc"}, has been offered a substantial position with **Artisan Ilthann**, involving travel to distant centers of the potter's art and the opportunity to experiment with new techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thulmvir refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thulmvir's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
 
 The Crisis of the Kiln

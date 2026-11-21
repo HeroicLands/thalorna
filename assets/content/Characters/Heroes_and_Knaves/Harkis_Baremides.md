@@ -576,7 +576,7 @@ The Crimson Order
 
 ## Plot Hooks
 
-The Impossible Contract
+A Poison for One Man
 : A mysterious patron who has never engaged Harkis before approaches with a contract that offers payment sufficient to buy freedom from the underworld permanently—perhaps even enough to attempt a return to legitimate society. The contract requires creation of a poison so complex and so specifically targeted to a particular individual that only Harkis could accomplish it. However, the target is someone whose role in political events is obscure; Harkis cannot determine whether he would be eliminating a real threat, removing an innocent, or serving a hidden purpose. The payment is substantial enough to tempt him, but the moral weight of uncertainty troubles him in ways simpler contracts do not.
 
 The Antidote Becomes Poison

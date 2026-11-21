@@ -3,6 +3,7 @@ shortcode: gnldrthnslvrgr
 name: {full: Gnaldurthann Solvargur, given: Gnaldurthann, clan: Solvargur}
 type: being
 subType: character
+description: "A veteran yeoman infantryman and Master-at-Arms of a border garrison, known for the discipline of the soldiers he trains."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -558,7 +559,7 @@ The Garrison at [[place-dvilgborg|Dvilgborg]]
 
 ## Plot Hooks
 
-The Impossible Recruit
+A Recruit Who Is Not Quite Human
 : A young soldier appears at the garrison with extraordinary natural talent for combat—almost supernatural in their reflexes and intuition. As Gnaldurthann begins training them, he recognizes patterns that suggest they are not entirely human. The youth refuses to explain their origins, and Gnaldurthann becomes increasingly certain they are being hunted by something beyond the kingdom's borders. He can report the situation to his commanders, or protect the recruit and uncover whatever lies behind their arrival.
 
 The War That Wasn't
@@ -570,5 +571,5 @@ The Duel That Decides Kingdoms
 The Curse of the Lion's Heart
 : Gnaldurthann's tattoo of the lion's mane begins to manifest supernatural properties—it seems to enhance his combat abilities but also inflicts terrible pain and periodic moments of uncontrollable rage. He discovers that the tattoo was more than a mark of pride: an ancient ritual binding him to a spiritual force. A mysterious figure offers to explain the tattoo's true nature in exchange for Gnaldurthann performing three seemingly reasonable tasks. However, these tasks are steps in a larger ritual whose end is catastrophic.
 
-The Successor's Dilemma
+Draskmil's Daughter
 : Lord Commander Draskmil approaches Gnaldurthann, gravely ill, and asks him to be protector and mentor to his young, idealistic daughter—who will inherit his position and authority despite her inexperience. Draskmil dies within months, and Gnaldurthann finds himself in the impossible position of serving a commanding officer who lacks his experience in a garrison full of ambitious rivals seeking to exploit her inexperience. He can help her learn to lead or quietly take control himself; either choice compromises his principles.

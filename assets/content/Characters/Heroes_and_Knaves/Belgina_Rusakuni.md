@@ -470,5 +470,5 @@ The Ship's Secret
 Guild Pressure
 : The Taruzelian Shipwrights' Guild learns that an unguilded woman is practicing the craft aboard a known smuggling vessel. They send an agent to Belgina's father, threatening his livelihood unless he recalls his daughter. Belgina must choose between protecting her father and the life she has built at sea.
 
-The Impossible Commission
+Refit for a Dangerous Voyage
 : A wealthy patron offers a staggering sum if the Tamzir can be refitted for a specific dangerous voyage. The modifications Belgina would need to make are technically possible but would fundamentally change the ship she loves. She must weigh the crew's financial needs against her own instincts about what the Tamzir can and should be.

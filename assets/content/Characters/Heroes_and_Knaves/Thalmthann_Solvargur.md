@@ -3,6 +3,7 @@ shortcode: thlmthnslvrgr
 name: {full: Thalmthann Solvargur, given: Thalmthann, clan: Solvargur}
 type: being
 subType: character
+description: "A master glassworker of the Glassworkers' Guild, known for clear, precisely formed vessels and for holding to traditional methods."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -519,7 +520,7 @@ Glassworkers' Guild of Vithgard
 
 ## Plot Hooks
 
-The Impossible Commission
+A Glass No One Has Made
 : - A mysterious patron of great wealth approaches Thalmthann Solvargur with an extraordinary request: create a piece of glasswork that no one has ever successfully made before—something technically demanding that requires new methods to accomplish, but also something of great beauty that challenges his rigid aesthetic principles. The commission offers enough wealth to secure his family's future, but accepting requires him to embrace creative risk in ways he's avoided for decades.
 
 The Apprentice's Betrayal

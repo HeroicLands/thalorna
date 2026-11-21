@@ -3,6 +3,7 @@ shortcode: prtmjkydr
 name: {full: Pritimaja Kayadara, given: Pritimaja, clan: Kayadara, vedy: [pritu]}
 type: being
 subType: character
+description: "A jeweler of Chendrapur known for new cutting techniques and for pieces that seem to hold trapped light."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -560,7 +561,7 @@ A circle of master craftspeople
 
 ## Plot Hooks
 
-The Impossible Commission
+A Gem That Holds a Star
 : A mysterious patron of unknown origin approaches Pritimaja with a commission for a piece of extraordinary ambition: a gem that must somehow contain and display light from a distant star, making the star's light visible to the naked eye even in daylight. The patron offers a price sufficient to retire Pritimaja for life—far more than the work should rationally be worth. The specification seems physically impossible, yet the patron seems certain it can be achieved. Investigation reveals that this patron may be connected to forces both powerful and dangerous, and the gem, if successfully created, would be sought by multiple factions for reasons Pritimaja cannot fully understand. Accepting the commission risks his life; refusing it means letting the greatest artistic challenge of his existence pass him by.
 
 The Stolen Masterpiece

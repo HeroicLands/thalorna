@@ -3,6 +3,7 @@ shortcode: hnrvyndisldr
 name: {full: Hnarvinda Iseldur}
 type: being
 subType: npc
+description: "A woodcutter of Odholm who finds her way through dense forest to the best trees and works beside her brothers."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -438,17 +439,17 @@ Few, though some older woodcutters were initially skeptical of her abilities.
 
 ## Plot Hooks
 
-The Woodcutter's Dilemma
+Timber from a Stand to Spare
 : A builder wants timber from a stand Hnarvinda knows should be left, and she has to choose between the order and the forest.
 
-Old Grudges
+The Older Woodcutters Who Doubted Her
 : One of the older woodcutters who doubted her has not let it go, and finds a way to make it cost her.
 
-Echoes of the Past
-: Something from Hnarvinda's earlier life resurfaces and has to be settled.
+Her Brothers' Contract
+: One of her brothers takes a contract she has not seen and sets the crew to cut in a stand she judges too young. She has to say so in front of men who have only lately taken her as an equal.
 
-Shifting Winds
-: Political change in Nordheim threatens the guild and the trade Hnarvinda depends upon, and she can adapt, resist, or leave.
+More Orders Than Trees
+: The builders and furniture makers who buy from the crew all send orders in the same season. Hnarvinda is the one who can find the trees, so it falls to her to say which order goes unfilled.
 
-The Opportunity
-: A chance encounter offers Hnarvinda more than the trade has ever paid her, and the price is not named up front.
+Ravens in the Felling
+: The stand the crew is cutting near Odholm is full of ravens, which the temple of Odvar forbids anyone to harm or drive off. The crew has the felling to finish.
