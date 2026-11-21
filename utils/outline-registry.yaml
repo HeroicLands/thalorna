@@ -13,6 +13,9 @@ rowMaxWords: 200
 # place notes that make it up. A note is in a land when a parent branch, a
 # being's home, or an affiliation's seat or seatless range reaches one. The
 # nearest along each branch counts. A note in no land is only ever reported.
+# The coverage guard also counts a being in every land of a scenario whose
+# `data.cast` names it, so a land whose people live elsewhere, such as
+# grukarholm, counts the beings its scenarios cast.
 lands:
     midhalion: [midhalnrgn, vylariargn, taruzelrgn]
     khazryn: [khzryndsrtrgn]

@@ -186,3 +186,117 @@ test("a scenario takes its land from its locations, so a missing cast entry is a
     assert.equal(found.length, 3);
     assert.ok(found.every((f) => f.severity === "error" && f.land === "the-reach"));
 });
+
+/** Writes a tree of two lands, each a region under one world, and any extra notes. */
+function castTree(extra) {
+    const root = fs.mkdtempSync(path.join(os.tmpdir(), "coverage-cast-"));
+    const dir = path.join(root, "assets/content");
+    fs.mkdirSync(dir, { recursive: true });
+    const place = (shortcode, subType, parents) => ({
+        shortcode,
+        type: "place",
+        subType,
+        tags: [],
+        data: { parents },
+    });
+    const being = (shortcode, archetype, homes) => ({
+        shortcode,
+        type: "being",
+        subType: "npc",
+        tags: [],
+        data: { archetypes: [archetype], homes, affiliations: {} },
+    });
+    const notes = {
+        "World.md": place("worldx", "world", []),
+        "Reach.md": place("reach", "region", ["worldx"]),
+        "Fen.md": place("fen", "region", ["worldx"]),
+        "Town.md": place("town", "settlement", ["reach"]),
+        "Moor.md": place("moor", "settlement", ["fen"]),
+        "Smith.md": being("smith", "warrior", ["town"]),
+        "Guest.md": being("guest", "mage", ["moor"]),
+        "Other.md": being("other", "healer", ["moor"]),
+        ...extra,
+    };
+    for (const [file, fm] of Object.entries(notes))
+        fs.writeFileSync(path.join(dir, file), `---\n${YAML.stringify(fm)}---\n\nText.\n`);
+    return root;
+}
+const scenario = (locations, cast) => ({
+    "Tale.md": {
+        shortcode: "tale",
+        type: "scenario",
+        subType: "adventure",
+        tags: [],
+        data: { parents: [], locations, cast, factions: [], follows: [], status: "draft" },
+    },
+});
+const castRegistry = {
+    ...base,
+    lands: { "the-reach": ["reach"], "the-fen": ["fen"] },
+    finished: [],
+    archetypes: ["warrior", "mage", "healer"],
+    archetypeAbsences: {},
+    homedBeingExceptions: {},
+    sharedGovernance: [],
+};
+const countIn = (result, land, archetype) =>
+    result.summaries.get(land).archetypes.get(archetype) ?? 0;
+
+test("a being a scenario casts counts in the scenario's land though it lives elsewhere", () => {
+    const result = check({
+        root: castTree(scenario(["town"], ["guest"])),
+        registry: castRegistry,
+    });
+    assert.equal(countIn(result, "the-reach", "mage"), 1);
+    assert.equal(result.summaries.get("the-reach").beings, 2);
+});
+
+test("a being no scenario casts does not count in the scenario's land", () => {
+    const result = check({
+        root: castTree(scenario(["town"], ["guest"])),
+        registry: castRegistry,
+    });
+    assert.equal(countIn(result, "the-reach", "healer"), 0);
+    assert.ok(
+        result.findings.some((f) => f.rule === "archetype-coverage" && /healer/.test(f.message)),
+    );
+});
+
+test("a cast being still counts in the land its home reaches", () => {
+    const result = check({
+        root: castTree(scenario(["town"], ["guest"])),
+        registry: castRegistry,
+    });
+    assert.equal(countIn(result, "the-fen", "mage"), 1);
+    assert.equal(countIn(result, "the-fen", "warrior"), 0);
+});
+
+test("a scenario that spans two lands adds its cast to both", () => {
+    const result = check({
+        root: castTree(scenario(["town", "moor"], ["smith", "guest"])),
+        registry: castRegistry,
+    });
+    for (const land of ["the-reach", "the-fen"]) {
+        assert.equal(countIn(result, land, "warrior"), 1);
+        assert.equal(countIn(result, land, "mage"), 1);
+    }
+});
+
+test("casting leaves an absence and a finished land's severity alone", () => {
+    const result = check({
+        root: castTree(scenario(["town"], ["guest"])),
+        registry: {
+            ...castRegistry,
+            finished: ["the-reach"],
+            archetypeAbsences: { "the-reach": { healer: "No healer lives there." } },
+        },
+    });
+    assert.deepEqual(
+        result.findings.filter((f) => f.land === "the-reach" && /healer/.test(f.message)),
+        [],
+    );
+    assert.deepEqual(
+        result.findings.filter((f) => f.rule === "archetype-coverage" && f.severity === "error"),
+        [],
+    );
+});

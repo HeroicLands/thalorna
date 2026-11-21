@@ -30,9 +30,11 @@
  *    `homedBeingExceptions` records an owner exception for its address.
  * 3. **`archetype-coverage`** — an archetype of the registry's `archetypes`
  *    list that no being of the land holds in `data.archetypes`, unless
- *    `archetypeAbsences` records the absence for that land. The summary also
- *    counts the land's beings by `data.occupation` and by office
- *    (`data.affiliations.<id>.office`).
+ *    `archetypeAbsences` records the absence for that land. A being is of the
+ *    land its home reaches and of every land of a scenario whose `data.cast`
+ *    names it; casting only adds a being to a land's count and moves no
+ *    finding's severity. The summary also counts the land's beings by
+ *    `data.occupation` and by office (`data.affiliations.<id>.office`).
  * 4. **`unpointed-child`** — a note whose `data.parents` names a parent that
  *    does not point back. A parent points to a child when its body holds a
  *    wikilink outside code to the child's address (`[[place-x|Name]]`, written bare or
@@ -334,9 +336,19 @@ export function check({ root = ".", registry = loadRegistry() } = {}) {
     }
 
     // 3. archetype-coverage
+    const cast = new Map();
+    for (const n of notes) {
+        if (n.fm.type !== "scenario") continue;
+        for (const entry of asList(n.fm.data?.cast)) {
+            const being = ref(entry, ["being"]);
+            if (!being) continue;
+            if (!cast.has(being)) cast.set(being, new Set());
+            n.lands.forEach((l) => cast.get(being).add(l));
+        }
+    }
     for (const n of notes) {
         if (n.fm.type !== "being") continue;
-        for (const land of n.lands) {
+        for (const land of new Set([...n.lands, ...(cast.get(n) ?? [])])) {
             const s = summary(land);
             s.beings++;
             const bump = (map, key) => map.set(key, (map.get(key) ?? 0) + 1);
