@@ -3,6 +3,7 @@ shortcode: orshkrnlkt
 name: {full: Órashkar Naulakit, given: Órashkar, clan: Naulakit}
 type: being
 subType: character
+description: "The most dependable teamster of the Bizarian League, a master of draft teams, field repairs and navigation, now mentoring younger teamsters of the Teamsters' Guild."
 tags: [heroes-and-knaves, guilded, common-folk]
 data:
   icon: icon-person
@@ -542,14 +543,16 @@ Teamsters' Guild
 
 ## Plot Hooks
 
-The Lost Caravan
-: A major shipment from Merchant House Valdris vanished three weeks past on a route Órashkar has traveled safely a hundred times. The patrons initially assumed it was lost to Ravenswood brigands, but Órashkar's careful investigation suggests something far stranger—the caravan simply _disappeared_, leaving no trace of wreckage, bodies, or signs of struggle. Some of his younger proteges may have been traveling with that doomed convoy, and Órashkar is determined to discover what happened, even as darker possibilities surface: talk of sorcery, rumors of a rival merchant deliberately sabotaging competitors, or worse—suggestions that Órashkar himself may have been responsible for the loss, a final test of his faculties before his inevitable retirement.
+A Caravan Gone Without a Trace
+: A major shipment of House Valdris vanished three weeks ago on a road Órashkar has traveled a hundred times, leaving no wreckage, bodies or signs of struggle. The patrons blame the Ravenswood brigands, but Órashkar's inquiry points to something stranger, with talk of sorcery, of a rival sabotaging competitors, and even of Órashkar's own failing faculties. Some of his protégés may have been in the convoy.
 
-The Inheritance and the Imposter
-: Órashkar's estranged sister, from whom he has been separated for over twenty years, has suddenly died and left him ownership of a remote inn and trading post at the edge of the Bizarian League's territory. When Órashkar travels to claim his inheritance, he discovers a man already entrenched as proprietor, claiming to be his sister's partner and asserting prior claims to the establishment. The situation becomes complicated when locals seem to know nothing of Órashkar's sister, and documents suggest she may have fabricated details about her family history. The true nature of the inheritance—and the mysterious stranger's claim—may require unraveling years of secrets.
+An Inn from a Sister He Lost
+: Órashkar's sister, from whom he has been estranged for over twenty years, dies and leaves him a remote inn and trading post at the edge of the League's territory. A man already settled as proprietor claims to have been her partner and to hold a prior claim, the locals have never heard of her, and documents suggest she invented parts of her family history. Órashkar must untangle the claim and her secrets.
 
-The Prodigy and the Crisis of Conscience
-: A brilliant young teamster named [Cassin]{.name data-type="being/npc"}, whom Órashkar trained and considered something of a protégé, has begun using Guild resources and knowledge to smuggle forbidden goods through merchant caravans. When Órashkar discovers the truth, he faces an agonizing choice: report Cassin and destroy a promising future (and perhaps the young man's life), or become complicit in criminal enterprise. Worse, Cassin threatens to reveal damaging truths about one of Órashkar's oldest patrons—truths that Órashkar himself may have deliberately overlooked for decades in the service of profitable arrangements. The reckoning forces Órashkar to confront how much of his reputation for reliability has rested on convenient blindness.
+A Map Older Than the Roads
+: Órashkar is hired to guide scholars and artificers to a ruin in uncharted country using map fragments older than any trade route in the League's records. The land does not match what he remembers of nearby journeys, landmarks stand where they should not and distances will not hold still. As his navigation fails, he must decide whether to turn back or press on.
 
-The Road That Wasn't There
-: Órashkar is hired to guide a prestigious expedition of scholars and artificers to an ancient ruin deep in uncharted territory, using fragments of a map that predates even the oldest trade routes in the League's records. As the expedition progresses, Órashkar begins to realize that the landscape doesn't quite match what he remembers from other journeys to that region—geography seems subtly shifted, landmarks appear in unexpected locations, and distances prove incalculable. His navigational skills begin to fail him, an experience that shakes him deeply. The expedition faces increasing supernatural strangeness, and Órashkar must grapple with the horrifying possibility that his reputation and skills, the foundation of his whole life, may be meaningless in places where the normal rules of the world have been fundamentally altered.
+:::secret {title="Hooks: the protégé's trade"}
+Cassin's Cargo
+: Cassin, a young teamster Órashkar trained as a protégé, uses Guild resources and knowledge to smuggle forbidden goods in merchant caravans. Órashkar must report him and destroy a promising future, or become complicit. Cassin threatens to reveal damaging truths about one of Órashkar's oldest patrons, which Órashkar has overlooked for decades in the service of profitable arrangements.
+:::

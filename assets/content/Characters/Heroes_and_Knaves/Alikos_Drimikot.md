@@ -3,6 +3,7 @@ shortcode: alyksdrymkt
 name: {full: Alikos Drimikot, given: Alikos, clan: Drimikot}
 type: being
 subType: character
+description: "A master timberwright of the Bizarian League and its Timberwrights' Guild, famed for ships' frames and architectural beams and increasingly a teacher of apprentices."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -550,17 +551,22 @@ The Timberwrights' Guild of the Bizarian League
 
 ## Plot Hooks
 
-The Ancient Wood
-: A mysterious merchant brings a single log of timber of extraordinary beauty and unknown origin to Alikos, requesting consultation on its properties and potential uses. The wood appears impossibly old, yet shows no signs of rot; its grain patterns seem to shift in different light; and it carries a faint aroma Alikos cannot identify. Investigation into the wood's origin leads him into contact with ancient traditions and forces that suggest timber-working may be far more significant than he ever imagined.
+A Log Too Old to Be Sound
+: A merchant who gives no name brings Alikos a single log of extraordinary beauty and unknown origin and asks what it is good for. The wood looks impossibly old and shows no rot, its grain seems to shift in different light, and it carries a scent he cannot place. Learning where it came from means following the merchant into trades and traditions he has never worked in.
 
-The Apprentice's Secret
-: A talented young apprentice, [Elara]{.name data-type="being/npc"}, seeks training under Alikos specifically, impressing him with a real understanding of traditional methods. However, Alikos gradually discovers that Elara has a hidden purpose—she has been sent by the Modernist Faction to sabotage his reputation by learning his techniques and then publicly demonstrating that newer tools and methods can replicate his results in a fraction of the time. Alikos can expose her, keep her as an apprentice and hope to turn her, or allow her deception to continue while using the situation to his advantage.
+A Frame That Travels
+: A wealthy noble commissions a building frame that can be assembled and taken down again for repeated moves, with the beauty and strength of a permanent structure. The speed and portability contradict everything Alikos believes about timber, and the commission is the largest he has been offered and could secure his workshop and prove that traditional methods answer present needs.
 
-The Impossible Commission
-: A wealthy noble approaches Alikos with a commission unlike any he has encountered: construct a building frame that can be rapidly assembled and disassembled for multiple relocations, matching the aesthetics and durability of a permanent structure. The design challenges everything he believes about timber-working—speed and portability contradicting his philosophy of permanent craftsmanship. Yet the commission would be his largest payday, potentially securing his workshop's future and proving to younger craftspeople that traditional methods can answer present needs.
+Charzilikon at His Bedside
+: Word reaches Alikos that his son [[being-tcharzilikon|Charzilikon Drimikot]], estranged for fifteen years, has been gravely hurt in a workshop accident and asks for his father. Alikos must decide whether to go to the sickbed with the quarrel unsettled.
 
-The Haunted Workshop
-: Several of Alikos's competitors and younger timberwrights who worked in his workshop decades past have begun to die under mysterious circumstances—injuries that seemed minor, deaths that seemed natural, yet all connected to people who worked in his workshop. Alikos becomes convinced that either his workshop is truly haunted or someone is deliberately targeting those connected to his lineage. Investigation reveals a connection to a timber harvest from thirty years past, and possibly an ancient curse connected to the wood itself.
+Deaths in the Old Workshop
+: Competitors and younger timberwrights who worked in Alikos's workshop decades ago begin to die, in injuries that seemed minor and deaths that seemed natural. Alikos must decide whether the workshop is haunted or someone is deliberately picking off those tied to his lineage.
 
-The Reconciliation
-: Alikos receives word that his estranged son, **Charzilikon**, has been gravely injured in a workshop accident and requests his father's presence. Though their relationship remains broken, Alikos finds himself standing over his son's sickbed, realizing that time is running out. As he tends to Charzilikon, the younger man reveals that his adoption of the new methods was not rejection of his father but an attempt to compete with his shadow—to prove himself different. Now, facing his own mortality, Charzilikon wants reconciliation, but Alikos has to face his own tangled feelings about the choices both have made and whether they can bridge the gulf between them.
+:::secret {title="Hooks: the apprentice and the harvest"}
+Elara's Errand
+: The talented young apprentice Elara, who seeks training under Alikos and shows a real grasp of traditional methods, has been sent by the Modernist Faction. She means to learn his techniques and then show in public that newer tools match his results in a fraction of the time. Alikos can expose her, keep her and hope to turn her, or let the deception run and use it.
+
+The Timber Harvest Thirty Years Gone
+: The deaths trace to a timber harvest from thirty years past and possibly to an ancient curse bound up with the wood itself.
+:::

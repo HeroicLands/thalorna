@@ -3,6 +3,7 @@ shortcode: knrvrjrnskl
 name: {full: Knarvir Jarnskel}
 type: being
 subType: npc
+description: "A widely traveled guild merchant of Thraldfjord and minor scholar of Nordheimn antiquities, fluent in foreign tongues and loosely attached to the Academy."
 tags: [draft, guilded, mages]
 data:
   icon: icon-person
@@ -407,7 +408,7 @@ Not the approved, formal contacts that the priests of [[affiliation-odvar|Odvar]
 
 In [[place-nordheim|Nordheim]], for a man to practice seid—the shamanic, spirit-walking arts—is to be branded _ergi_, unmanned, a serious cultural transgression. Seid is women's work, the domain of velvur and seer-priestesses. The few men who practice it exist in a hidden underground, watched by both the official clergy and by society at large. Knarvir understood this immediately, and he chose to hide.
 
-For thirty years, he lived a double life. Publicly, he was a respectable merchant, well-connected in the trading networks that stretched from Nordheim across the northern seas to distant southern ports. He traveled extensively—which provided excuse for his long absences and explained his command of foreign tongues, far beyond that of typical Nordmen. He brewed beer and cooked; he made friends with foreign merchants and scholars. He kept a workshop ostensibly for metalcraft but actually for the preparation of ritual items: talismans, spirit-vessels, the material apparatus of hidden practice.
+For twenty-two years, he lived a double life. Publicly, he was a respectable merchant, well-connected in the trading networks that stretched from Nordheim across the northern seas to distant southern ports. He traveled extensively—which provided excuse for his long absences and explained his command of foreign tongues, far beyond that of typical Nordmen. He brewed beer and cooked; he made friends with foreign merchants and scholars. He kept a workshop ostensibly for metalcraft but actually for the preparation of ritual items: talismans, spirit-vessels, the material apparatus of hidden practice.
 
 And in the depths of his home, in carefully warded chambers, he walked between worlds.
 
@@ -453,17 +454,25 @@ His relationship with the Epistémion is entirely cynical: he uses their librari
 
 ## Plot Hooks
 
-The Student's Betrayal
-: One of Knarvir's carefully vetted students, a younger woman he trained in seid over the course of five years, comes to him with news: she has been approached by Skaold Righteous, and Skaold knows some (but not all) of what she practices. She is begging Knarvir for guidance on whether to run, admit everything, or attempt to deceive Skaold. Knarvir can help her, at the risk of exposing the network; flee first, abandoning her and the others; or move against Skaold directly, which means acting against the institutional clergy.
+Questions About a Merchant's Past
+: Someone patient and indirect has begun asking in Thraldfjord about Knarvir's past, his associates and his travel patterns. He cannot tell whether one person or several are asking, or what they want, and learning it means drawing the attention he least wants.
 
-The Unidentified Watcher Reveals Themselves
-: The person or persons investigating Knarvir finally makes direct contact, revealing that they are a representative of the southern [[affiliation-ordoarcanis|Thordimalon]], interested in his spirit-craft for reasons he does not initially understand. They offer him a proposition: share his knowledge, become a consultant to their organization, gain protection through their institutional power. The catch is that doing so would require him to leave Nordheim and potentially betray the hiding network. The offer is tempting and deeply dangerous.
+Skaold's Widening Inquiry
+: Skaold Righteous, a clerk of the Order of the All-Seeing Eye, has widened his crusade against corruptions of traditional practice to the merchants and scholars who bring foreign ideas into Nordheim. He has the authority and the backing to do real damage, and Knarvir's name is not yet on his list.
 
-Thurídur is Dying
-: His teacher suffers a sudden severe illness (or falls into a supernatural crisis that only manifests as illness). Knarvir must either stay hidden and hope she survives without him (knowing she probably will not), or reveal himself by coming openly to her aid. The time pressure is extreme; he has perhaps three days to decide before the moment passes.
+A Cover Coming Apart
+: A rival merchant or plain bad luck leads people to set Knarvir's absences, possessions and associations side by side and find that they do not agree. Within two weeks he must build a new account of himself that he lacks the money and the safety to build, vanish, or admit something true.
 
-The Spirit's Demand
-: The same powerful spirit that years ago demanded he preserve knowledge comes to him with a new command: there is something hidden in the world that must be found, retrieved, and protected. To find it, Knarvir will need to undertake a spirit-journey of unprecedented depth and scope, but he will also need to gather allies and resources in ways that will necessarily expose his practice. The spirit is not asking; it is commanding in terms that make clear that refusal is not an option.
+:::secret {title="Hooks: the practice behind the merchant"}
+A Student Approached
+: One of Knarvir's carefully vetted students, a younger woman he has trained in seid for five years, tells him that Skaold Righteous has approached her and knows some, though not all, of what she practices. She asks whether to run, confess or deceive. Knarvir can help her at the risk of the whole network, flee and abandon her, or move against Skaold and so against the clergy.
 
-The Merchant's Identity Collapses
-: Through a chain of events he cannot entirely predict (perhaps a rival merchant, perhaps simple bad luck), his cover story begins to unravel. People are putting together inconsistencies: his absences, his possessions, his associations. Within two weeks, he will either need to solidify an entirely new false identity (requiring resources and risk he does not have), disappear entirely, or admit something true. He has never faced exposure before, and he is not certain what he will choose when forced to actually decide.
+The Watcher Steps Forward
+: The one asking after Knarvir proves to be a representative of the Thordimalon of the south, interested in his spirit-craft. They offer protection and a place as a consultant in return for his knowledge, which would mean leaving Nordheim and probably betraying the hidden network.
+
+Thurídur Is Dying
+: Thurídur of the Deep Roads, his teacher and the most powerful velva of the northern underground, falls suddenly gravely ill, perhaps through a supernatural crisis that shows itself only as illness. Knarvir has about three days to choose between staying hidden and letting her die without him or going openly to her side.
+
+The Spirit's Command
+: The ancient shade of a velva who once told him to preserve the old rites returns with a new command: something hidden in the world must be found and kept safe. The search needs a spirit-journey of unprecedented depth and allies who will see his practice, and the spirit makes plain that refusal is not allowed.
+:::

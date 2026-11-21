@@ -3,6 +3,7 @@ shortcode: talirbshrn
 name: {full: Talira Basiron, en: [Elspeth Rowen]}
 type: being
 subType: npc
+description: "A freeman alchemist of Thirenae, trusted for herbal remedies and discretion, who keeps a shop called The Argonaut and works beyond Helionis under the name Elspeth Rowen."
 tags: [draft, mages]
 data:
   icon: icon-person
@@ -411,7 +412,7 @@ She apprenticed under the alchemist [Momes Frekhezon]{.name data-type="being/npc
 
 For convenience, necessity, and safety, she adopted the alias Elspeth Rowen roughly ten years ago—a name with no [[lore-helioniteclt|Helionite]] flavor, used primarily when dealing with clients from beyond Helionis whose patronage was lucrative but required discretion. It allowed her to maintain certain relationships without them becoming entangled in her primary identity. Some of her closest contacts know her by this name; to them, she is someone else entirely—a consultant, a solver of delicate problems, someone with knowledge of substances and theorycraft that goes deeper than herbalism. She has learned over the years that in a town where the Order watches carefully and mystery cults wield political power, the ability to be two people is not a liability but a survival skill.
 
-Now at 35, Talira runs her legitimate shop—"[The Argonaut]{.name data-type="affiliation/venture"}," named for the ancient voyagers—with expertise and a reputation for both efficacy and discretion. She moves carefully in Helionite society, neither seeking advancement nor hiding her competence. She understands heraldry and mercantilism because one cannot survive as a freeman in Thirenae without understanding the structures of power. Her friendship with [Kalliope Argyros]{.name data-type="being/npc"}, a scholar of natural philosophy at the Epistémion (the Academy), provides her with the intellectual stimulation she needs. Her carefully maintained relationship with Captain [[being-bakionjamiro|Bákion Jamiros]] of Pelagora, who brings her rare herbs from coastal expeditions, gives her access to ingredients and information most alchemists never dream of. And her tenuous, unspoken understanding with _Marenda_ (master) [[being-amitharabish|Amithara Bisanis]] of the Thordimalon (the Arcane Order)—the one who engineered her exile and now ensures it remains permanent—is a cold peace neither of them will ever break.
+Now at 34, Talira runs her legitimate shop—"[The Argonaut]{.name data-type="affiliation/venture"}," named for the ancient voyagers—with expertise and a reputation for both efficacy and discretion. She moves carefully in Helionite society, neither seeking advancement nor hiding her competence. She understands heraldry and mercantilism because one cannot survive as a freeman in Thirenae without understanding the structures of power. Her friendship with [Kalliope Argyros]{.name data-type="being/npc"}, a scholar of natural philosophy at the Epistémion (the Academy), provides her with the intellectual stimulation she needs. Her carefully maintained relationship with Captain [[being-bakionjamiro|Bákion Jamiros]] of Pelagora, who brings her rare herbs from coastal expeditions, gives her access to ingredients and information most alchemists never dream of. And her tenuous, unspoken understanding with _Marenda_ (master) [[being-amitharabish|Amithara Bisanis]] of the Thordimalon (the Arcane Order)—the one who engineered her exile and now ensures it remains permanent—is a cold peace neither of them will ever break.
 
 She is not comfortable, but she is safe. And in the tension between those two states, she has built a life of usefulness. The scar on her ear is both a reminder of what she learned and a warning about what she knows not to speak.
 
@@ -429,7 +430,7 @@ In Thirenae, Talira occupies the position of respected tradesperson-scholar, the
 
 The Epistémion acknowledges her in the way institutions acknowledge useful outsiders—with civility, occasional commissions for specialized remedies, and careful distance. The Order watches her with the attention of people who have made an arrangement they prefer not to think about. The merchant guilds view her as a peer in economic standing if not in formal membership. The mystery cults leave her carefully alone, sensing in her the kind of knowledge that makes her dangerous without making her committed.
 
-Her deepest social connection is to Kalliope Argyros, a scholar of botanical applications and mineral properties some five years her junior, whose curiosity about the theoretical underpinnings of alchemical practice has made her something like a friend—rarer than she might wish in a town where relationships are often transactional. Among the poorer quarters where she came from, she is remembered with gratitude, though she keeps a certain distance even from these connections, aware that vulnerability is a luxury she cannot quite afford.
+Her deepest social connection is to Kalliope Argyros, a scholar of botanical applications and mineral properties some ten years her junior, whose curiosity about the theoretical underpinnings of alchemical practice has made her something like a friend—rarer than she might wish in a town where relationships are often transactional. Among the poorer quarters where she came from, she is remembered with gratitude, though she keeps a certain distance even from these connections, aware that vulnerability is a luxury she cannot quite afford.
 
 The fact that she maintains an alias, relationships with figures from the coastal trade, and connections that extend beyond Thirenae proper marks her as a woman with resources and reach that go beyond her apparent station. Those who notice this say nothing. Those who need her services know where to find her—under either name.
 
@@ -453,17 +454,22 @@ The fact that she maintains an alias, relationships with figures from the coasta
 
 ## Plot Hooks
 
-The Specimen
-: A rare and impossible herb arrives in one of Captain Bákion's shipments: a plant that, according to every established botanical classification, should not exist. Talira recognizes it immediately as a species the Epistémion attempted to cultivate under Order supervision twenty years ago and abandoned for reasons no one now remembers. She must decide whether to study it (which draws attention), destroy it (which seems like betraying knowledge itself), or bury it (which places her in the Order's debt).
+A Plant That Should Not Exist
+: A rare herb in one of Captain [[being-bakionjamiro|Bákion Jamiros]]'s shipments fits no established botanical classification. Talira knows it as a species the Academy tried to grow under Order supervision twenty years ago and dropped for reasons nobody now remembers. She can study it and draw attention, destroy it and lose the knowledge, or hand it to the Order and owe it a debt.
 
-The Poisoning
-: A student at the Epistémion falls ill with symptoms that match no known malady but respond to none of the standard physician's treatments. A desperate colleague of Kalliope's seeks Talira's aid in secret, begging her to identify the poison. She recognizes it as a theoretical compound discussed only in suppressed Order texts—the kind that should not exist outside locked libraries. Finding an antidote means admitting how much she knows.
+An Illness No Physician Can Name
+: A student at the Academy falls ill with symptoms that match no known malady and resist every standard treatment. A desperate colleague of Kalliope Argyros comes to Talira in secret and begs her to find the cause. Finding an antidote means admitting how much she knows.
 
-The Seeker
-: A young person from the outer provinces arrives in Thirenae claiming to be a cousin of Talira's, someone she has never heard of, with a letter of introduction from a relative she did not know was alive. They are observant, curious, and asking pointed questions about what Talira's real work might be. Either they are family and represent a connection to her past she thought safely buried, or they are an agent sent to assess her, or they are something else entirely.
+A Cousin She Never Heard Of
+: A young person from the outer provinces arrives in Thirenae claiming to be Talira's cousin, with a letter of introduction from a relative she did not know was alive. The newcomer is observant and asks pointed questions about her real work. Talira must decide whether this is family, an agent sent to assess her, or something else.
 
-The Compact
-: _Marenda_ Amithara Bisanis sends word that the arrangement protecting Talira's safety may soon become impossible to maintain due to shifting political pressures within the Order. She offers a single alternative: become officially useful. The Order wants her to develop a specific remedy using methods and knowledge that would require her to admit her true capabilities. Accepting makes her visible; refusing breaks the only shield between her and exposure.
+:::secret {title="Hooks: what the Order and the Luminaries want"}
+Becoming Officially Useful
+: Amithara Bisanis sends word that political pressure inside the Order may soon make the arrangement that protects Talira impossible to keep. The one alternative offered is to become officially useful by developing a specific remedy, which requires admitting her real capabilities. Accepting makes her visible and refusing ends the only shield she has.
 
-Voices in the Dark
-: A mystery cult known as the [Luminaries]{.name data-type="affiliation/faithtradition"}—philosophers who believe direct empirical investigation should override institutional authority—has approached Talira through oblique channels with a proposal: help them acquire certain suppressed texts from the Order's archives. The payment offered is substantial, the risk is absolute, but the opportunity to recover and preserve knowledge that the Order has buried is precisely the kind of thing that once made her willing to endure almost anything. She has asked for time to decide, and time is running short.
+A Raid on the Archives
+: The Luminaries, philosophers who hold that direct investigation should override institutional authority, approach Talira through oblique channels and ask her to help them take suppressed texts from the Order's archives. The pay is large and the risk absolute, and the chance to recover knowledge the Order buried is the kind that once made her willing to endure nearly anything. She has asked for time, and the time is short.
+
+The Compound in the Locked Texts
+: The poison that sickens the student is a theoretical compound discussed only in suppressed Order texts, the kind that should not exist outside locked libraries. Talira knows it on sight, and an antidote shows how deep her knowledge goes.
+:::

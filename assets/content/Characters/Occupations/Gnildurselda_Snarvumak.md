@@ -3,6 +3,7 @@ shortcode: gnldrsldstrmrt
 name: {full: Gnildurselda Snarvumak, en: [Lysandra Aetherwind]}
 type: being
 subType: npc
+description: "A noblewoman of the Snarvumak clan of Nalthmark and independent scholar of ancient Nordheimn inscriptions and Old Eilwìthan, affiliated with the Academy's Helionis chapterhouse."
 tags: [draft, mages]
 data:
   icon: icon-person
@@ -408,7 +409,7 @@ Her refusal to keep it private was what made her dangerous to her family. At nin
 
 The Nordheimn name for her work was gefjallan—enchantment, illusion, the glamour-craft of the old tradition. But Gnildurselda had done something dangerous: she had systematized it, married it to written theory, extended its reach far beyond what seid tradition typically allowed. And she had begun to specialize in something that even other velvur viewed with wariness: the craft of making others _forget_, of rewriting memory itself, of creating cascading layers of false perception so involved that even a trained seer could become lost in them.
 
-Now at thirty-seven, Gnildurselda maintains her scholarly cover with elaborate care, but her reputation in the hidden circles of Nordheim's mage-craft runs far deeper. She is known as Lysandra Aetherwind among the Epistémion's chapters, a visiting scholar of ancient lore. She is known as the Mistress of Veils among the practitioners who traffic in forbidden knowledge. And she is known to her family as a disappointment—a woman who will never marry because no man of suitable rank would accept a wife so wholly consumed by her scholarly pursuits.
+Now at thirty-six, Gnildurselda maintains her scholarly cover with elaborate care, but her reputation in the hidden circles of Nordheim's mage-craft runs far deeper. She is known as Lysandra Aetherwind among the Epistémion's chapters, a visiting scholar of ancient lore. She is known as the Mistress of Veils among the practitioners who traffic in forbidden knowledge. And she is known to her family as a disappointment—a woman who will never marry because no man of suitable rank would accept a wife so wholly consumed by her scholarly pursuits.
 
 ## Psyche
 
@@ -444,17 +445,22 @@ Her status as a Snarvumak noble gives her considerable insulation. Attacking her
 
 ## Plot Hooks
 
-The Memory That Shouldn't Exist
-: A scholar from southern lands arrives at a chapterhouse with documents that describe Gnildurselda's illusion work in precise detail—impossible documents, from sources that predate her research. He is being watched carefully, and soon others will notice him. Gnildurselda must determine if he is a threat, a potential ally, or something far worse, before interested parties move against him.
+Documents That Predate the Research
+: A scholar from the southern lands arrives at a chapterhouse carrying documents that describe Gnildurselda's methods in precise detail, from sources older than her own research. He is being watched, and others will soon notice him. She must learn whether he is a threat, a possible ally or something worse before interested parties act against him.
 
-The Victim Who Remembers
-: One of Gnildurselda's memory-veils, carefully constructed years ago to protect a client from dangerous knowledge, begins to unravel. The person involved is starting to remember things they were made to forget, and those memories are tearing them apart mentally. Gnildurselda must either repair the veil (risking discovery if she moves openly) or allow the person to break, potentially revealing her hand.
+A Match for the Scholar
+: Her cousin Snirvorv and his ambitious wife press Jarl [[being-hlarthvirsna|Hlarthvir Snarvumak]] to end her scholarly phase and marry her to secure an alliance. The Jarl, who has supported her, is being pushed to force the issue, and she must decide whether to yield to the duty her family expects or defy it openly.
 
-Jon's Challenge
-: Jon the Iron has gathered evidence of Gnildurselda's systematic deviation from traditional seid and brings formal complaint before the High Velva, the spiritual authority of the northern mysteries. Gnildurselda is summoned to defend herself, knowing that if she is found in violation, she may lose her ability to practice openly—or worse. Yet admitting what she has made of the craft might brand her a heretic.
+The Inscription and the Cache
+: An ancient inscription Gnildurselda found in her scholarly work points to a hidden cache of texts. Reaching it unseen would test every skill she has, and retrieving it would make her a target for every faction that deals in forbidden knowledge.
 
-The Archivist's Fall
-: The Collector of Amber is arrested by political rivals through means Gnildurselda does not understand. The texts they handle, the networks they maintain, could lead directly to her if interrogated. Gnildurselda must choose: rescue a contact that few people know she's connected to, potentially revealing her hand to powerful enemies, or abandon them to their fate.
+:::secret {title="Hooks: the Mistress of Veils"}
+A Veil Comes Undone
+: A memory-veil she wove years ago to shield a client from dangerous knowledge begins to unravel, and the client is starting to remember what he was made to forget, with the memories tearing at his mind. She can repair the veil, risking discovery if she moves openly, or let him break and perhaps reveal her hand.
 
-The Truth Behind the Veil
-: An ancient inscription Gnildurselda uncovered in her scholarly work references seid practices that suggest someone, centuries ago, was doing what she is doing now—systematizing illusion into a formal magical discipline. The inscription points to a hidden cache of texts. The effort to reach it undetected will test every skill she possesses, and retrieving the texts will make her a target for every faction that deals in forbidden knowledge.
+Jon's Complaint
+: Jon the Iron gathers evidence of her systematic departure from traditional seid and brings a formal complaint before the High Velva, the spiritual authority of the northern mysteries. Summoned to answer, she risks losing the ability to practice openly if found in violation, and admitting what she has made of the craft might brand her a heretic.
+
+The Collector Is Taken
+: The Collector of Amber, her supplier and fence for rare texts, is arrested by political rivals through means she does not understand. The texts and networks the Collector handles could lead to her under questioning. She can rescue a contact few know she has, and expose herself to powerful enemies, or abandon the Collector.
+:::

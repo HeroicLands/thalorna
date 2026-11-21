@@ -3,6 +3,7 @@ shortcode: dumarsrfrs
 name: {full: Dumares Rafiros}
 type: being
 subType: npc
+description: "A high-born priest and chief judge of the Temple of Árdavon in Korinthea, famed duelist, tournament champion and founder of the Refuge of Árdavon, with a reputation for eloquence and inexorable judgment."
 tags: [draft, clergy]
 data:
   icon: icon-person
@@ -410,7 +411,7 @@ His education in the Temple proved transformative. Dumares excelled in theologic
 
 By his early thirties, Dumares had become one of the Temple's chief judges, settling disputes between merchants and nobility alike, and serving as the ceremonial commander of the Temple's guard-knights. His record of judgment was swift and decisive, his duels during honor-trials famous throughout Korinthea. He began to participate in the great tournaments—not merely as a priest seeking martial excellence, but as a fundraiser for the Temple's charity works. That Dumares was invariably victorious in these competitions, and that substantial amounts of tournament prize money made their way into the Temple's coffers, only increased his prestige.
 
-Now at thirty-six, Dumares stands at the apex of secular influence for a priest of his age. He is consulted by the [Council of Korinthea]{.name data-type="affiliation/governmental"} on matters of law and civic honor. He has established the [Refuge of Árdavon]{.name data-type="affiliation"}, an institution purportedly devoted to sheltering refugees and victims of injustice. He is spoken of as the priest who might one day be given the ancient honorary title of Patriarch of the temple, a title no one now holds. His charisma and eloquence are nearly legendary; people listen to him with the attention usually reserved for philosophers and oracles.
+Now at thirty-five, Dumares stands at the apex of secular influence for a priest of his age. He is consulted by the [Council of Korinthea]{.name data-type="affiliation/governmental"} on matters of law and civic honor. He has established the [Refuge of Árdavon]{.name data-type="affiliation"}, an institution purportedly devoted to sheltering refugees and victims of injustice. He is spoken of as the priest who might one day be given the ancient honorary title of Patriarch of the temple, a title no one now holds. His charisma and eloquence are nearly legendary; people listen to him with the attention usually reserved for philosophers and oracles.
 
 Yet there are cracks in this gleaming facade. Those who work closely with Dumares—his younger priests, the scribes in his chambers, the refuge workers—describe a man of brilliant conviction but limited empathy. He judges the poor harshly, always finding moral failing beneath the surface of material deprivation. He establishes rules in his refuge and pursues them rigidly, content if 80% of his charges emerge "reformed" by his standards, indifferent to those who remain broken. He is capable of extraordinary kindness toward those he considers worthy—fellow nobles, persons of learning, those who share his intellectual framework—and shocking coldness toward those he judges insufficient. The charitable works he champions are real, but they carry an edge of condescension, a sense that those he helps are elevated by his notice rather than elevated by their own inherent worth.
 
@@ -444,17 +445,22 @@ Among the common people, his reputation is complicated. He is known as the judge
 
 ## Plot Hooks
 
-The Judgment That Cannot Be Rendered
-: A case lands in Dumares's court that destroys his careful framework: a mother who stole bread to feed her children, but also stole a merchant's copper from his counting house in the process. By Dumares's own laws, she should be sentenced harshly for theft; by Árdavon's principles of compassion for the weak, she should be freed. The case becomes public, attracts attention from the Council, and threatens to expose the brittleness of his moral philosophy. Worse, Yeghena has orchestrated the trial specifically to create this impossible choice.
+Bread and Copper
+: A mother who stole bread to feed her children is brought before Dumares, and she also took a merchant's copper from his counting house in the process. His own rulings call for a harsh sentence for theft, while Árdavon's teaching on compassion for the weak calls for her release. The case becomes public and draws the Council's attention.
 
-The Refuge Crisis
-: One of Dumares's reformed charges, a young woman he personally took under his wing, commits a serious crime while attempting to use her "reformed" status as a shield. When the crime comes to light, it suggests not only that Dumares's judgments were wrong, but that his faith in his ability to judge human character is misplaced. The incident threatens to unravel his entire charitable enterprise and expose the coldness at its heart.
+The Reformed Charge
+: A young woman Dumares took under his wing at the Refuge of Árdavon commits a serious crime and offers her "reformed" status as a shield. If her case is judged leniently it vindicates his method, and if she is punished it shows that his judgment of character was wrong, with the whole charitable enterprise at stake either way.
 
-The Heretic Scholar
-: An itinerant scholar arrives in Korinthea and begins to publicly debate Dumares's interpretation of Árdavon's teachings, arguing that Dumares has twisted honor into a tool of oppression and that true chivalry requires radical compassion rather than rigid justice. The scholar draws followers, and the philosophical debate threatens to become a schism. Dumares must either refute the scholar intellectually (difficult, as some of the scholar's points strike close to uncomfortable truths) or suppress the heresy (a path that would compromise his own principles).
+The Scholar and the Honor of Árdavon
+: An itinerant scholar arrives in Korinthea and publicly argues that Dumares has made honor a tool of oppression and that true chivalry demands radical compassion. Followers gather and the debate threatens to become a schism. Dumares can refute the scholar, which is hard because some of the points land, or suppress the teaching, which would compromise his own principles.
 
-Family Betrayal
-: Dumares's brother Aristides becomes involved in a commercial scheme that borders on fraud, and asks Dumares to use his judicial authority to ensure that any investigation is squashed or finds in his favor. Dumares's refusal to use his position in this way creates a permanent breach with his family and threatens his standing in the Council, as Aristides possesses significant influence and bears a grudge. The conflict forces Dumares to publicly choose between family loyalty and principle.
+:::secret {title="Hooks: the hands behind the case"}
+A Trial Made to Order
+: Yeghena, the daughter of the merchant house Dumares ruled against, arranged the case of the mother and the copper so that he faces an impossible choice before the whole Council. She has spent twenty years building a network to expose his blindness, and this trial is her opening move.
 
-The Unwelcome Successor
-: Adhélimis, growing old, indicates privately that he wishes Dumares to be the one on whom the honorary Patriarchate is bestowed again—but only if Dumares can demonstrate growth in his capacity for compassion. Adhélimis assigns Dumares to live among the poorest quarter of Korinthea for a season, serving as a simple healing priest rather than a judge. The assignment is meant to be transformative, but it becomes instead a confrontation with the depths of Dumares's empathy deficit. His efforts to help are often cruel despite his intentions, and he finds himself despised by those he meant to aid. He must either surrender the dream of the Patriarchate or become, fundamentally, a different man.
+A Brother's Favor
+: Dumares's elder brother Aristides involves himself in a commercial scheme that borders on fraud and asks Dumares to use his judicial authority to quash any investigation or make it find in his favor. Refusing breaches the family permanently and costs Dumares standing in the Council, where Aristides holds great influence and will bear the grudge.
+
+A Season in the Poorest Quarter
+: [[being-adhelimisgho|Adhélimis Ghotones]] tells Dumares in private that he wishes the honorary Patriarchate bestowed again on him, but only if he shows growth in compassion, and sends him to serve as a simple healing priest in the poorest quarter of Korinthea for a season. His efforts to help prove cruel despite his intentions and the people he serves come to despise him, and he must surrender the dream or become a different man.
+:::
