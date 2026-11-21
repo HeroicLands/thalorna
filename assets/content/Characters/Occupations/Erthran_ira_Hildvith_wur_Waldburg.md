@@ -3,6 +3,7 @@ shortcode: erthrnhldvth
 name: {full: Erthran ira Hildvith wur Waldburg}
 type: being
 subType: npc
+description: "A solitary trapper of Waldburg who sells furs to local traders and is hired by farmers to deal with problem animals."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -432,11 +433,17 @@ Poachers exploit the land and overhunt.
 
 ## Plot Hooks
 
-Poachers on the Trapline
-: Poachers overhunt the ground Erthran works, and a trader at Waldburg's market has been buying their furs. Erthran is awkward in bargaining and asks a party to speak for him when he names the poachers before the Frithmund who holds the market's peace.
+More Furs Than the Forest Can Spare
+: A trader offers Erthran a price for more furs than the forest can spare, and the winter is a hard one.
 
-The Problem Animal
-: A farmer hires Erthran to remove an animal from his fields. Erthran takes only what the forest can spare, and the animal's den would feed him for a season. He asks a party to help him find another way to deal with it that does not ruin the farmer's trust.
+Poachers on His Ground
+: The poachers Erthran has driven off his ground have begun stripping his traplines.
 
-Furs for the Crossing
-: Furs pass through Waldburg on their way elsewhere, and a trader declares Erthran's season's work too poor to pay for. Erthran prefers solitude and cannot bargain, and he asks a party to carry his furs to a second buyer at the crossing.
+The Line Set Again
+: A trapline Erthran's father taught him to run is found set again, by someone who knows it as well as he does.
+
+A Neighbor's Claim
+: A neighboring village begins using Erthran's trap ground after a bitter winter, and he can bargain, fight, or move his lines.
+
+The Animal He Spares
+: A War Chief asks Erthran to clear a predator from the village paths, but it is one of the animals Erthran has always spared.

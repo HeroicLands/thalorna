@@ -3,6 +3,7 @@ shortcode: thldrdrthgr
 name: {full: Thaldrá ira Druthgar wur Thornhaven}
 type: being
 subType: npc
+description: "A seaman who crews the river-boats carrying Thornhaven's goods toward Velanthian markets and is known as Thorn."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -436,10 +437,10 @@ Few; generally well-respected, but may face jealousy from some.
 ## Plot Hooks
 
 The Captain of Her Own Ship
-: Thaldrá dreams of captaining her own ship, and a captain who carries Thornhaven's goods toward Velanthian markets offers her the lookout's post for a hard passage and a share of the return. She asks a party to learn why the captain wants a crew he has not worked with.
+: Thaldrá dreams of captaining her own ship, and a captain who carries Thornhaven's goods toward Velanthian markets offers her the lookout's post for a hard passage and a share of the return. He wants a crew he has not worked with, and she wonders why.
 
 A Share of the Cargo
-: Thaldrá is paid a share of the cargo's return, and the return comes back smaller than the boat's crew expected. She asks a party to follow the cargo to the Velanthian market and learn where it went, since a seaman who is free to leave a boat is also easy to blame for its losses.
+: Thaldrá is paid a share of the cargo's return, and this time the return is smaller than the crew expected. A seaman who is free to leave a boat is easy to blame for its losses, and she asks a party to follow the cargo to the Velanthian market and learn where it went.
 
 Jealousy Aboard
-: Some crewmates are jealous of the woman called Thorn, and one leaves the rigging unsound before a passage. Thaldrá, who is competitive and slow to show she is shaken, asks a party to travel with the boat and watch the crew.
+: Some crewmates are jealous of the woman called Thorn, and one leaves the rigging unsound before a passage. Thaldrá is competitive and slow to show she is shaken.

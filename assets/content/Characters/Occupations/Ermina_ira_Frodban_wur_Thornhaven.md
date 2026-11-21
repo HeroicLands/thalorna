@@ -3,6 +3,7 @@ shortcode: erminfrdbn
 name: {full: Ermina ira Frodbán wur Thornhaven}
 type: being
 subType: npc
+description: "A fisher and netmaker who works the waters near Thornhaven with her own crew and kin."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -432,10 +433,10 @@ Few, though some older fishers question her methods.
 ## Plot Hooks
 
 Nets and Landings
-: Ermina shares landings and nets by agreement with other families, and a family says the agreement ended with the old season. With no fishers' guild to judge, Ermina asks a party to be witnesses to what was agreed, before the older fishers who question her methods take the family's side.
+: A family says its agreement with Ermina over landings and nets ended with the old season. No fishers' guild can judge it, and the older fishers who question her methods are ready to side with the family.
 
 The Catch for the River Traders
-: River traders take what Ermina can preserve for the journey, and a trader returns a lot as spoiled. She is overconfident on the water and careful with salt, and she asks a party to find out whether the lot was spoiled on the boat to Velanthia or at the landing.
+: River traders take what Ermina can preserve for the journey, and a trader returns a lot as spoiled. She is overconfident on the water and exact with what she preserves, and she wants to know whether the lot spoiled on the boat to Velanthia or at the landing.
 
 Mending for Others
-: Ermina sells spare nets she has mended, and a crew caught in a bad passage on the lake blames her work for a torn net. She asks a party to examine the net before Thornhaven's households stop buying her catch.
+: Ermina sells spare nets she has mended, and a crew caught in a bad passage says her work tore their net. Thornhaven's households are listening, and the net is the only proof either way.

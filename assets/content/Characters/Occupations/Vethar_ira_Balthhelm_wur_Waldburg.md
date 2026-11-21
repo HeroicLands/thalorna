@@ -3,6 +3,7 @@ shortcode: vthrblthlm
 name: {full: Vethar ira Balthhelm wur Waldburg}
 type: being
 subType: npc
+description: "The innkeeper of the Old Stone Inn at Waldburg's crossing, a cook and storyteller who hosts travelers and traders."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -433,10 +434,10 @@ Few; well-respected in the area.
 ## Plot Hooks
 
 A Bargain Under the Peace
-: Rival traders settle their bargain at the Old Stone Inn under the market peace. Vethar hears a threat in the middle of the deal, and he asks a party to be at the next table the following night, since a killing at Waldburg's market is answered at once by every tribe present.
+: Rival traders settle a bargain at the Old Stone Inn under the market peace, and Vethar overhears a threat in the middle of the deal. A killing at Waldburg's market is answered at once by every tribe present, and the deal resumes the next night.
 
 The Old Recipes
-: Vethar's recipes pass down through generations, and a guest who is a trader of the crossing offers coin for one. Vethar, who is sentimental about such things, asks a party to learn what the trader wants it for.
+: Vethar's recipes pass down through generations, and a trader of the crossing offers coin for one. Vethar is sentimental about such things and wants to know what the trader means to do with it.
 
 The Hall Full of War-Bands
-: Visiting war-bands fill Vethar's hall and one band's quarrel is about to start. He is slowed by age and asks a party to stay with him until the Frithmund arrives.
+: Visiting war-bands fill Vethar's hall, and one band's quarrel is about to start. Age has slowed him, and the Frithmund has not yet arrived.

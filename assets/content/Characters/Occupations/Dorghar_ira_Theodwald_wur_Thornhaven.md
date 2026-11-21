@@ -3,6 +3,7 @@ shortcode: wlfhrthdwld
 name: {full: Dorghár ira Theodwald wur Thornhaven}
 type: being
 subType: npc
+description: "A huscarl of Thornhaven's war-band who guards its households and follows the War Chief for a muster."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -430,10 +431,10 @@ Few; generally well-respected.
 ## Plot Hooks
 
 The Velanthian Agent at the Gate
-: At Thornhaven the War Chief answers a Velanthian river-prince's agent, because the agent does not wait for a council. Dorghár guards the gate on the day the agent arrives, and he asks a party to listen to what is promised, since a Velanthian auxiliary is useful and never fully trusted.
+: A Velanthian river-prince's agent reaches Thornhaven before a council can meet, and Dorghár is on the gate the day he arrives. The War Chief answers him, and a Velanthian auxiliary is useful and never fully trusted.
 
 Trained Beside the Band
-: Dorghár trains younger fighters beside the people who have fought with him for years. The War Chief asks which of them are ready for the next muster, and Dorghár, who struggles to say what he feels, asks a party to watch the young fighters at drill and tell him whether his own aggression has marked them.
+: Dorghár trains younger fighters beside the people who have fought with him for years, and the War Chief asks which of them are ready for the next muster. He struggles to say what he feels and asks a party to watch the drill and tell him whether his own aggression has marked the young fighters.
 
 The Loud Loyalty
-: The Other Chief asserts Thornhaven's loyalty to the [[affiliation-vrystwldtrbs|Vristwald tribes]] loudly, and Dorghár is sent to escort a delegation that expects to hear it. He asks a party to tell him what the delegation thinks of a village that insists so often.
+: The Other Chief asserts Thornhaven's loyalty to the [[affiliation-vrystwldtrbs|Vristwald tribes]] loudly. Dorghár is sent to escort visitors from other villages, and he asks a party to tell him what they make of a village that insists so often.

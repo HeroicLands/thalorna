@@ -3,6 +3,7 @@ shortcode: edrgrsndryth
 name: {full: Edrigar ira Sundreth wur Falkenstein}
 type: being
 subType: npc
+description: "A miner who works the stony ground near Falkenstein with relatives and neighbors and sells ore to the village smiths."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -436,10 +437,10 @@ Few; generally respected but sometimes viewed as old-fashioned.
 ## Plot Hooks
 
 The Seam Near the Ring
-: A promising seam turns up on the stony ground near Falkenstein, and Edrigar, who draws help by bargain rather than by order, has to decide which neighbors share the dig. He asks a party to stand witness to the terms, because a seam that pays well starts quarrels among those who hold only a bargain.
+: A promising seam turns up on the stony ground near Falkenstein. Edrigar draws help by bargain rather than by order, and the neighbors who dig it hold only a bargain once the seam starts to pay.
 
 The Smiths' Ore
-: The village smiths take Edrigar's ore, and [[being-hrmndgrwld|Harmund]] finds the latest load too poor for a blade. Edrigar knows the seam has not changed, and he asks a party to look at the ground before the smiths decide he is too old-fashioned to be trusted.
+: [[being-hrmndgrwld|Harmund]], one of the smiths who take Edrigar's ore, finds the latest load too poor for a blade. The seam has not changed, and Edrigar wants the ground looked at before he is written off as old-fashioned.
 
 What the Young Miners Learn
-: Edrigar teaches younger miners the safety he fought for, and one of them wants a faster way. Edrigar, who is slowed by age and resistant to change, asks a party to go underground with the young miner and judge whether the new way is sound before someone is hurt.
+: Edrigar teaches younger miners the safety he fought for, and one of them wants a faster way. Edrigar is slowed by age and resistant to change, and he asks a party to go underground with the young miner and judge whether the new way is sound.

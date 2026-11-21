@@ -3,6 +3,7 @@ shortcode: wthrcdrthgr
 name: {full: Wítharik ira Druthgar wur Waldburg}
 type: being
 subType: npc
+description: "A shipwright who builds river-boats at Waldburg with his kin and apprentices for traders and war-bands."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -440,10 +441,13 @@ Crews who quarrel over a boat's share of the toll before he has finished buildin
 ## Plot Hooks
 
 The Toll Before the Keel
-: Crews quarrel over a boat's share of the toll before Wítharik has finished building it. A trader and a war-band both want the same river-boat, and he asks a party to hold the boat's first voyage for a day while the two settle their terms.
+: Crews quarrel over a boat's share of the toll before Wítharik has finished building it. A trader and a war-band both want the same river-boat, and its first voyage waits on their terms.
 
 The Client Who Changes His Mind
-: A client changes his requirements again, and Wítharik's temper flares in front of the market. He asks a party to deal with the client's agent and write out the terms before the quarrel ends with a boat left unfinished.
+: A client changes his requirements again, and Wítharik's temper flares in front of the market. Without written terms, the quarrel ends with a boat left unfinished.
 
 Shallow Channels
-: A river-boat Wítharik built grounds in the shallow forest channels with a cargo of furs and captives. His family has built boats for generations, and he asks a party to learn whether the fault was the boat's or the crew's, because the Waldburg traders will not commission again if it was his.
+: A river-boat Wítharik built grounds in the shallow forest channels with a cargo of furs and captives. His family has built boats for generations, and the Waldburg traders will not commission again if the fault was the boat's.
+
+The Hull on the Stones
+: A boat crew blames Wítharik for a broken hull and refuses to pay, though its captain drove the boat onto the stones.

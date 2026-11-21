@@ -3,6 +3,7 @@ shortcode: armndhldskrn
 name: {full: Armund ira Hildskorn wur Falkenstein}
 type: being
 subType: npc
+description: "A jester who makes the households of Falkenstein laugh at themselves and holds no court appointment."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -432,10 +433,10 @@ Rival jesters who envy his popularity.
 ## Plot Hooks
 
 The Tale After the Muster
-: A muster at Falkenstein ends in a quarrel over the dead of [[lore-stormhandfld|The Stormhand's Field]], and the [[lore-frodradrnk|War Chief]] calls for a tale to settle the hall. Armund cannot be commanded, but he cannot refuse the drum either. He asks a party to tell him which households have kin among the men who took the field, so that his tale shames no one.
+: A muster at Falkenstein ends in a quarrel, and the [[lore-frodradrnk|War Chief]] calls for a tale to settle the hall. The tale most asked for is the one the Varokh tell of [[lore-stormhandfld|The Stormhand's Field]], and Armund cannot be commanded but cannot refuse the drum.
 
 A Welcome at One Hearth
-: Armund's mimicry of a Nordmal expedition captain brings the hall to tears, and a visiting trader recognizes his own manner in it. A welcome at one hearth gives Armund no claim at another, so he asks a party to speak for him before the trader's complaint reaches a household that has not yet laughed.
+: Armund's mimicry of a Nordmal expedition captain brings the hall to tears, and a visiting trader recognizes his own manner in it. A welcome at one hearth gives Armund no claim at another, and the trader's complaint is headed for a household that has not yet laughed.
 
 The Second Jester
-: A rival jester who envies Armund's popularity arrives at a village feast and takes the hall's laughter. Armund asks a party to learn which household sent for the stranger, since a hearth that feeds one jester seldom feeds two.
+: A rival jester who envies Armund's popularity arrives at a village feast and takes the hall's laughter. Someone sent for the stranger, and a hearth that feeds one jester seldom feeds two.

@@ -3,6 +3,7 @@ shortcode: hrmndgrwld
 name: {full: Harmund ira Garwald wur Falkenstein}
 type: being
 subType: npc
+description: "A smith who works his own forge in Falkenstein, makes and repairs blades and armor for warriors and households, and teaches apprentices at his hearth."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -433,11 +434,23 @@ Rival blacksmiths covet his reputation.
 
 ## Plot Hooks
 
-The Blade That Broke
-: A blade from Harmund's forge breaks in the hands of a Falkenstein warrior. Harmund holds that every piece leaving his forge is as good as the ones that made his name, and asks a party to bring him the pieces and learn how the warrior used it.
+Faster Than It Can Be Forged Well
+: A War Chief wants a blade faster than Harmund can forge it well, and his name rides on whichever he chooses.
+
+Work Under His Mark
+: A rival blacksmith is passing off inferior work under Harmund's mark.
+
+The Blade Comes Back
+: A blade Harmund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
+
+The Feud Between Villages
+: A feud between neighboring villages threatens the trade Harmund depends upon, and he can adapt, resist, or leave.
+
+Arming a War-band
+: Harmund is offered the arming of a whole war-band, and its price is not named up front.
 
 An Apprentice Fit to Carry It
-: Harmund is strict with his apprentices and age is slowing him. One apprentice has the skill and not the patience, and another the patience and not the skill. He asks a party to carry a commission to the border villages and report which of the two keeps his standards.
+: Harmund is strict with his apprentices and age is slowing him. One apprentice has the skill and not the patience, and another the patience and not the skill, and a commission to [[place-falkholt|Falkholt]] will show which of them keeps his standards.
 
 The Rival Smiths' Bargain
-: Rival blacksmiths covet Harmund's reputation, and one offers to share a commission for the warband if Harmund will share the work. Harmund asks a party to learn what the War Chief's stewards have been told before he answers.
+: Rival blacksmiths covet Harmund's reputation, and one offers to share a commission for the war-band if Harmund will share the work. Harmund wants to know what the War Chief has been told before he answers.
