@@ -68,7 +68,23 @@ test("only the shared punctuation standard and explicit mappings apply", () => {
         ["!", 0xe0103],
     ])
         assert.equal(encodeText(encoding, source), String.fromCodePoint(point), source);
-    for (const source of [";", ":", '"', "ë", "è", "c", "ce", "Ci", "cy", "x", "X", "CH", "cH"])
+    for (const source of [
+        ";",
+        ":",
+        '"',
+        "ë",
+        "è",
+        "c",
+        "ce",
+        "Ci",
+        "cy",
+        "x",
+        "X",
+        "CH",
+        "cH",
+        "\u0301",
+        "k\u0301",
+    ])
         assert(encode(source).findings.length, `${source} is refused, not silently rewritten`);
 });
 
@@ -122,6 +138,14 @@ test("fixed letter groups, case, contextual ny and stress have exact usable glyp
         ["Ò", [0xf020d, 0xe0116]],
         ["ù", [0xf0242, 0xe0116]],
         ["Ù", [0xf0212, 0xe0116]],
+        ["à́", [0xf0230, 0xe0116, 0xe0114]],
+        ["ù́", [0xf0242, 0xe0116, 0xe0114]],
+        ["ì́", [0xf0237, 0xe0116, 0xe0114]],
+        ["ò́", [0xf023d, 0xe0116, 0xe0114]],
+        ["À́", [0xf0200, 0xe0116, 0xe0114]],
+        ["Ì́", [0xf0207, 0xe0116, 0xe0114]],
+        ["Ò́", [0xf020d, 0xe0116, 0xe0114]],
+        ["Ù́", [0xf0212, 0xe0116, 0xe0114]],
         ["bùrd", [0xf0231, 0xf0242, 0xe0116, 0xf023f, 0xf0232]],
         ["Eilwìth", [0xf0203, 0xf0237, 0xf023a, 0xf0244, 0xf0237, 0xe0116, 0xf0250]],
         ["Eilwìthi", [0xf0203, 0xf0237, 0xf023a, 0xf0244, 0xf0237, 0xe0116, 0xf0250, 0xf0237]],
