@@ -432,17 +432,11 @@ Few; well-respected in the area.
 
 ## Plot Hooks
 
-The Innkeeper's Dilemma
-: Vethar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in [[place-vrystwald|Vristwald]].
+A Bargain Under the Peace
+: Rival traders settle their bargain at the Old Stone Inn under the market peace. Vethar hears a threat in the middle of the deal, and he asks a party to be at the next table the following night, since a killing at Waldburg's market is answered at once by every tribe present.
 
-Old Grudges
-: Few; well-respected in the area. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Old Recipes
+: Vethar's recipes pass down through generations, and a guest who is a trader of the crossing offers coin for one. Vethar, who is sentimental about such things, asks a party to learn what the trader wants it for.
 
-Echoes of the Past
-: Something from Vethar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Vethar depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Vethar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Hall Full of War-Bands
+: Visiting war-bands fill Vethar's hall and one band's quarrel is about to start. He is slowed by age and asks a party to stay with him until the Frithmund arrives.

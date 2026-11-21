@@ -433,17 +433,11 @@ Rival blacksmiths covet his reputation.
 
 ## Plot Hooks
 
-The Weaponcrafter (Armorer)'s Dilemma
-: A War Chief wants a blade faster than Harmund can forge it well, and his name rides on whichever he chooses.
+The Blade That Broke
+: A blade from Harmund's forge breaks in the hands of a Falkenstein warrior. Harmund holds that every piece leaving his forge is as good as the ones that made his name, and asks a party to bring him the pieces and learn how the warrior used it.
 
-Old Grudges
-: A rival blacksmith is passing off inferior work under Harmund's mark.
+An Apprentice Fit to Carry It
+: Harmund is strict with his apprentices and age is slowing him. One apprentice has the skill and not the patience, and another the patience and not the skill. He asks a party to carry a commission to the border villages and report which of the two keeps his standards.
 
-Echoes of the Past
-: A blade Harmund forged thirty years ago is brought back to him, and the man carrying it wants to know who commissioned it.
-
-Shifting Winds
-: A feud between neighboring villages threatens the trade Harmund depends upon, and he can adapt, resist, or leave.
-
-The Opportunity
-: Harmund is offered the arming of a whole war-band, and its price is not named up front.
+The Rival Smiths' Bargain
+: Rival blacksmiths covet Harmund's reputation, and one offers to share a commission for the warband if Harmund will share the work. Harmund asks a party to learn what the War Chief's stewards have been told before he answers.

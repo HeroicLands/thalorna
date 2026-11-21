@@ -439,17 +439,11 @@ Crews who quarrel over a boat's share of the toll before he has finished buildin
 
 ## Plot Hooks
 
-The Shipwright's Dilemma
-: Wítharik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in [[place-vrystwald|Vristwald]].
+The Toll Before the Keel
+: Crews quarrel over a boat's share of the toll before Wítharik has finished building it. A trader and a war-band both want the same river-boat, and he asks a party to hold the boat's first voyage for a day while the two settle their terms.
 
-Old Grudges
-: A boat crew blames Wítharik for a broken hull and refuses to pay, though its captain drove the boat onto the stones.
+The Client Who Changes His Mind
+: A client changes his requirements again, and Wítharik's temper flares in front of the market. He asks a party to deal with the client's agent and write out the terms before the quarrel ends with a boat left unfinished.
 
-Echoes of the Past
-: Something from Wítharik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Wítharik depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Wítharik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Shallow Channels
+: A river-boat Wítharik built grounds in the shallow forest channels with a cargo of furs and captives. His family has built boats for generations, and he asks a party to learn whether the fault was the boat's or the crew's, because the Waldburg traders will not commission again if it was his.

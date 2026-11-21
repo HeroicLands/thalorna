@@ -433,17 +433,11 @@ Few, though some villagers find his solitary nature strange.
 
 ## Plot Hooks
 
-The Timberwright's Dilemma
-: A carpenter presses Thragrim for green timber he knows will fail, and he has to choose between the sale and his name.
+Timber Cut at the Right Season
+: Village builders and boatwrights pay Thragrim for timber cut at the right season, and a builder demands logs now for a repair on the palisade. Thragrim will not cut early, and he asks a party to bring a carpenter to the wood so that the builder sees the grain for himself.
 
-Old Grudges
-: The villagers who find him strange begin to blame him when something goes wrong in the woods.
+A Carpenter on the Job
+: A carpenter who joins Thragrim on a job starts shaping timber Thragrim had set aside for a boat. Neither belongs to a guild that could judge the quarrel, and Thragrim asks a party to settle it before the boatwrights hear.
 
-Echoes of the Past
-: Something from Thragrim's earlier life resurfaces and has to be settled, solitude or no.
-
-Shifting Winds
-: A feud cuts off the timber paths and threatens the trade Thragrim depends upon, and he can adapt, resist, or leave.
-
-The Opportunity
-: A chance encounter offers Thragrim work beyond anything the village has paid him, and the price is not named up front.
+The Man Who Prefers the Woods
+: Some villagers find Thragrim's solitude strange, and a boatwright says timber from his stand was cut out of season. Thragrim, who is awkward in company, asks a party to walk the stand with the boatwright before the story spreads.

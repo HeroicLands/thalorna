@@ -431,17 +431,11 @@ Few, though some older fishers question her methods.
 
 ## Plot Hooks
 
-The Fisher's Dilemma
-: Ermina faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
+Nets and Landings
+: Ermina shares landings and nets by agreement with other families, and a family says the agreement ended with the old season. With no fishers' guild to judge, Ermina asks a party to be witnesses to what was agreed, before the older fishers who question her methods take the family's side.
 
-Old Grudges
-: Few, though some older fishers question her methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Catch for the River Traders
+: River traders take what Ermina can preserve for the journey, and a trader returns a lot as spoiled. She is overconfident on the water and careful with salt, and she asks a party to find out whether the lot was spoiled on the boat to Velanthia or at the landing.
 
-Echoes of the Past
-: Something from Ermina's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Ermina depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Ermina the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+Mending for Others
+: Ermina sells spare nets she has mended, and a crew caught in a bad passage on the lake blames her work for a torn net. She asks a party to examine the net before Thornhaven's households stop buying her catch.

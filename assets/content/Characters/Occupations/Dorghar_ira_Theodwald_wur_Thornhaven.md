@@ -429,17 +429,11 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-The Huscarl's Dilemma
-: Dorghár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+The Velanthian Agent at the Gate
+: At Thornhaven the War Chief answers a Velanthian river-prince's agent, because the agent does not wait for a council. Dorghár guards the gate on the day the agent arrives, and he asks a party to listen to what is promised, since a Velanthian auxiliary is useful and never fully trusted.
 
-Old Grudges
-: Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Trained Beside the Band
+: Dorghár trains younger fighters beside the people who have fought with him for years. The War Chief asks which of them are ready for the next muster, and Dorghár, who struggles to say what he feels, asks a party to watch the young fighters at drill and tell him whether his own aggression has marked them.
 
-Echoes of the Past
-: Something from Dorghár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Dorghár depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Dorghár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Loud Loyalty
+: The Other Chief asserts Thornhaven's loyalty to the [[affiliation-vrystwldtrbs|Vristwald tribes]] loudly, and Dorghár is sent to escort a delegation that expects to hear it. He asks a party to tell him what the delegation thinks of a village that insists so often.

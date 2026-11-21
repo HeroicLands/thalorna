@@ -431,17 +431,11 @@ Rival jesters who envy his popularity.
 
 ## Plot Hooks
 
-The Jester's Dilemma
-: Armund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+The Tale After the Muster
+: A muster at Falkenstein ends in a quarrel over the dead of [[lore-stormhandfld|The Stormhand's Field]], and the [[lore-frodradrnk|War Chief]] calls for a tale to settle the hall. Armund cannot be commanded, but he cannot refuse the drum either. He asks a party to tell him which households have kin among the men who took the field, so that his tale shames no one.
 
-Old Grudges
-: Rival jesters who envy his popularity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Welcome at One Hearth
+: Armund's mimicry of a Nordmal expedition captain brings the hall to tears, and a visiting trader recognizes his own manner in it. A welcome at one hearth gives Armund no claim at another, so he asks a party to speak for him before the trader's complaint reaches a household that has not yet laughed.
 
-Echoes of the Past
-: Something from Armund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Armund depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Armund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Second Jester
+: A rival jester who envies Armund's popularity arrives at a village feast and takes the hall's laughter. Armund asks a party to learn which household sent for the stranger, since a hearth that feeds one jester seldom feeds two.

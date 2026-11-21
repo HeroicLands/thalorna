@@ -432,17 +432,11 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-The Huscarl's Dilemma
-: Frithgár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+When the Raiders Are Away
+: When a raiding party leaves, Frithgár holds the palisade with the warriors he has taught. A report that the party will not return by the day it promised puts his lessons to use, and he asks a party to carry word to the [[lore-frodradrnk|War Chief]] without alarming the three hundred people inside the timber ring.
 
-Old Grudges
-: Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Drum and the Hall
+: The War Chief's drum comes before the Shaman's counsel, and Frithgár is the sworn huscarl who answers it. A call comes that the Shaman would have delayed, and Frithgár asks a party to watch the hall's faces while he decides whether his service to the War Chief runs as far as this order.
 
-Echoes of the Past
-: Something from Frithgár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Frithgár depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Frithgár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Pupil's Mistake
+: A young warrior Frithgár trained breaks the line when a raiding party from the Nordlands frontier tests the palisade. His tactics are rigid, and he asks a party to learn whether the failure was the warrior's or the lesson's before the household that equipped the boy asks for an account.
