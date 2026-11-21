@@ -75,6 +75,10 @@ To the **south** lie the [[place-sthrnsvnhs|Southern Savannahs]] and the nomadic
 
 To the **east and west** the forests fade gradually into coastal terrain that has never supported significant settlement. The rainforest peoples are not seafarers; the coastal margins of the interior are known only through the seasonal visits of forest tribes who come to the shore for salt, shellfish, and ritual reasons of their own.
 
+:::secret {title="The Zerathian hold"}
+[[place-magarthubad|Magar-thubád]] stands in a high massif above the northern edge of the forests.
+:::
+
 ## See Also {#see-also}
 
 [[place-xerathia|Zerathia Continent]]

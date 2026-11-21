@@ -3,7 +3,7 @@ shortcode: zarakia
 name: {full: Zarakia}
 type: place
 subType: settlement
-description: "The smallest caravan town of the Helionite hinterland, about 2,000 people on the western shore of an inland sea, held by Kalidria, a hard stop for trains and the place where hired swords look for work."
+description: "The smallest caravan town of the Helionite hinterland, about 2,000 people at the foot of the last ridge on the western edge of a salt pan, held by Kalidria, a hard stop for trains on the road to the inland seas and the place where hired swords look for work."
 tags: [town, caravan]
 data:
   demonym: null
@@ -14,12 +14,12 @@ data:
   type: town
   government: kalydria
   packFolder: helionis
-  notes: "The smallest caravan town of the Helionite hinterland, about 2,000 people on the western shore of an inland sea, held by Kalidria, a hard stop for trains and the place where hired swords look for work."
+  notes: "The smallest caravan town of the Helionite hinterland, about 2,000 people at the foot of the last ridge on the western edge of a salt pan, held by Kalidria, a hard stop for trains on the road to the inland seas and the place where hired swords look for work."
 ---
 
 ## Overview {#overview}
 
-**Zarakia** is the smallest of the caravan towns, about 2,000 people on the western shore of an inland sea. There is nothing much at the water: a mud beach, a belt of reeds, a bitter well that the town has dug deeper every generation. The town is a wall, a caravanserai and a market yard, and a stranger who arrives at dusk finds the gate already shut and the watch looking him over from above.
+**Zarakia** is the smallest of the caravan towns, about 2,000 people at the foot of the last ridge, on the western edge of a salt pan. There is nothing much on the pan: a crust of white salt, a belt of reeds where the runoff from the ridge gathers after the winter rain, and a bitter well that the town has dug deeper every generation. The road that leaves its east gate crosses the pan and runs on a few days over the steppe to [[place-bittersea|the Bitter Sea]]. The town is a wall, a caravanserai and a market yard, and a stranger who arrives at dusk finds the gate already shut and the watch looking him over from above.
 
 ## What the Town Lives By {#what-the-town-lives-by}
 
@@ -50,3 +50,6 @@ The hired swords who wait in Zarakia work for whoever pays, and some of them fol
 
 [[affiliation-blackflame|The Black Flame]]
 : the faith with a shrine in the town
+
+[[place-bittersea|The Bitter Sea]]
+: the inland sea at the end of the road

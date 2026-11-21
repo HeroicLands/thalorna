@@ -49,3 +49,6 @@ A Gar-Au once bent the number. The last of [[affiliation-garzinelrelu|Gar-Zin'el
 
 [[lore-azletssn|Azlet]]
 : the Inundation it measures
+
+[[scenario-nightbfrrdng|The Night Before the Reading]]
+: a scenario: on the eve of the crest the Gar-Au sends strangers to stand at the Measure, and the old Reader is too sick to go down the stair

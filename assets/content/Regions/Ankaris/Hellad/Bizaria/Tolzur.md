@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-**Tolzur** is a walled toll town of about 3,500 people at the foot of the [[place-eastrnmrch|Eastern March]]'s dry foothills, where the south-eastern fork of the pass road turns toward the oasis belt and the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. Its name is built on the Bizarian _tolzát_, a toll, and ends in _-ur_, one of the endings of Bizarian words. Every caravan bound for Amradad passes through its gate, and every caravan coming north from Amradad is counted at it.
+**Tolzur** is a walled toll town of about 3,500 people at the foot of the [[place-eastrnmrch|Eastern March]]'s dry foothills, where the south-eastern fork of the pass road turns toward [[place-bittersea|the Bitter Sea]] and the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. Its name is built on the Bizarian _tolzát_, a toll, and ends in _-ur_, one of the endings of Bizarian words. Every caravan bound for Amradad passes through its gate, and every caravan coming north from Amradad is counted at it.
 
 ## Arriving {#arriving}
 

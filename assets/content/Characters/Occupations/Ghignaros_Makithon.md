@@ -3,6 +3,7 @@ shortcode: ghgnrsmkthn
 name: {full: Ghígnaros Makithon}
 type: being
 subType: npc
+description: "A herald of Thirenae from a minor noble family, with thirty years of service crying notices for the council and the town's nobility."
 tags: [draft, administration]
 data:
   icon: icon-person
@@ -403,7 +404,7 @@ Ghígnaros Makithon is a 50-year-old man who stands 5'10" tall and is of moderat
 
 Born in the [[place-helionis|Helionis]] region to a minor noble family of [[lore-helioniteclt|Helionite]] heritage, Ghígnaros Makithon came into the world of the herald through a combination of circumstance and aptitude.
 
-Ghígnaros is a seasoned herald with over thirty years of service. As a member of minor nobility, he carries the weight of his family's long-standing tradition of serving the court. He is known for his authoritative presence and ability to capture the attention of even the most unruly crowds. While he adheres to the traditional styles of heraldry, he understands the need for subtle adaptation when dealing with different audiences. His experience makes him a trusted figure among the nobility, though he is not without his detractors.
+Ghígnaros is a seasoned herald with over thirty years of service. As a member of minor nobility, he carries the weight of his family's long-standing tradition of serving the council. He is known for his authoritative presence and ability to capture the attention of even the most unruly crowds. While he adheres to the traditional styles of heraldry, he understands the need for subtle adaptation when dealing with different audiences. His experience makes him a trusted figure among the nobility, though he is not without his detractors.
 
 ## Psyche
 
@@ -437,17 +438,11 @@ Ambitious young heralds who see him as a barrier to their own advancement.
 
 ## Plot Hooks
 
-The Herald's Dilemma
-: Ghígnaros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+A Proclamation on the Day of Silence
+: A notice of the council of [[place-thyrenae2|Thirenae]] falls due on the day the colleges keep as a day of silence for the siege. Ghígnaros must decide whether to cry it before the walled-up [[place-cmmssnrsgate|Commissioners' Gate]] or hold it a day.
 
-Old Grudges
-: Ambitious young heralds who see him as a barrier to their own advancement. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Herald for a Street Festival
+: Students ask Ghígnaros to cry the opening of a feast day in the street, an informal event unlike the court notices he keeps to. An ambitious young herald offers to cry it in his place, and the students will take whichever of them is willing to stand in the street.
 
-Echoes of the Past
-: Something from Ghígnaros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Ghígnaros depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Ghígnaros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Notice on the Boundary of Theory
+: The council of [[place-thyrenae2|Thirenae]] rules that a philosopher who never joined the [[affiliation-ordoarcanis|Thordimalon]] has crossed from studying arcane theory into practicing it, and gives Ghígnaros the ruling to cry. The philosopher's college disputes it, and its masters ask him to hold the notice until they have been heard.

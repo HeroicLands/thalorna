@@ -16,8 +16,12 @@ test("approved respelling is deterministic and preserves case and ch/qu", () => 
         ["pack", "pàk"],
         ["pluck", "pluk"],
         ["cold", "kold"],
-        ["exact", "eksakt"],
+        ["exact", "ìgzà́kt"],
         ["exist", "egzist"],
+        ["courteous", "kù́rtiòs"],
+        ["Courteous", "Kù́rtiòs"],
+        ["conquer", "kongkòr"],
+        ["offering", "ófòrìng"],
         ["box", "boks"],
         ["Xen", "Zen"],
         ["xen", "zen"],
@@ -26,10 +30,10 @@ test("approved respelling is deterministic and preserves case and ch/qu", () => 
         ["Church", "Church"],
         ["Scent", "Sent"],
         ["SCENT", "SENT"],
-        ["EXACT", "EKSAKT"],
+        ["EXACT", "ÌGZÀ́KT"],
     ])
         assert.equal(respellWord(before), after, before);
-    assert.equal(respellText("Exact scent; silence, pack!"), "Eksakt sent; sailòns, pàk!");
+    assert.equal(respellText("Exact scent; silence, pack!"), "Ìgzà́kt sent; sailòns, pàk!");
     assert.equal(
         respellText(respellText("scenic, exact, quench")),
         respellText("scenic, exact, quench"),
@@ -102,7 +106,7 @@ test("encoding-only spans and fences select Aelwythi without changing other lang
             ["Pack", "Pàk"],
             ["pluck", "pluk"],
             ["pack", "pàk"],
-            ["exact", "eksakt"],
+            ["exact", "ìgzà́kt"],
         ],
     );
     for (const edit of edits) assert.equal(source.slice(edit.from, edit.to), edit.form);

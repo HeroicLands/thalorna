@@ -39,13 +39,13 @@ The mountains close the region to the east and north. In the mountainous interio
 
 Between the seats of the city-states lie the lesser towns: [[place-byzaris|Bizaris]], the artisan town of the guilds; [[place-selimara|Selímara]], a market town on the inland roads; and dozens of villages, caravanserais and shrines that the maps of Krusteikhos's counting houses record only as tolls collected.
 
-Nine more towns of 2,500 to 4,500 people stand in the country between the coast and the passes. [[place-zalvarion|Zalvarion]], [[place-siderash|Siderash]] and [[place-bruzash|Bruzash]] are mining towns of the northern range, which buy their grain from the plateau villages and the Velanthian road. [[place-tolzur|Tolzur]], [[place-parzhenar|Parzhenar]] and [[place-vezhrelion|Vezhrelion]] are toll, garrison and pass towns of the Eastern March's hinterland, and [[place-krenel|Krenel]] is the spring town of the Dunhara road. [[place-halzikos|Halzikos]] is the caravan stop on the salt shore of [[place-bittersea|the Bitter Sea]], one of the two inland seas on the border with Amradad, and [[place-oinelena|Oinelena]] is the wine and oil market of the lowland belt. Each is held by the nearest of the five city-states.
+Nine more towns of 2,500 to 4,500 people stand in the country between the coast and the passes. [[place-zalvarion|Zalvarion]], [[place-siderash|Siderash]] and [[place-bruzash|Bruzash]] are mining towns of the northern range, which buy their grain from the plateau villages and the Velanthian road. [[place-tolzur|Tolzur]], [[place-parzhenar|Parzhenar]] and [[place-vezhrelion|Vezhrelion]] are toll, garrison and pass towns of the Eastern March's hinterland, and [[place-krenel|Krenel]] is the spring town of the Dunhara road. [[place-halzikos|Halzikos]] is the caravan stop on the northern shore of [[place-bittersea|The Bitter Sea]], and [[place-oinelena|Oinelena]] is the wine and oil market of the lowland belt. Each is held by the nearest of the five city-states.
 
 ## The Marches
 
 The five city-states govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city-state's charter, held by a lord commissioned by the League council and answerable to it for the paying and staffing of the garrison, which is drawn from the joint army the city-states raise by conscription, paid for from the common treasury and the silver of Argirteikhos. Imperial officers hold the passes, the tariffs and the muster in law.
 
-- The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Argirteikhos, facing the Khazrin steppe and, to the south-east, the oasis-belt and the northern edge of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
+- The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Argirteikhos, facing the Khazrin steppe and, to the south-east, past [[place-halzikos|Halzikos]] to [[place-bittersea|the Bitter Sea]] and the northern edge of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
 - The [[place-southrnmrch|Southern March]] is the dry pastoral upland south and east of Karvashion, through which the caravan road runs to [[place-dunharargn|Dunhara]]. It is hunting and herding country, held by a landed lord rather than a soldier.
 - The [[place-northrnmrch|Northern March]] is the upland frontier toward Velanthia, along which the grain that feeds the coastal towns and cities comes down. It is the quietest of the three and the one the council thinks about least.
 
@@ -99,7 +99,7 @@ To the north, across the uplands of the Northern March, lies [[place-velanthrgn|
 
 To the east, beyond Argirteikhos's passes, lies the [[place-khzryndsrtrgn|Khazrin Desert]]—**[[lore-celestialroad|the Celestial Road]]** and the steppe tribes that tax it. Bizarian merchants dominate the western end of that trade, and the Eastern March exists to keep the road open.
 
-To the south, along the whole of the League's southern border, lies the Kingdom of Amradad, which holds the eastern shore of the Vilérian Sea, and beyond it the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March. Off the League's short coast to the south lie the islands of [[affiliation-cnfdrtntrzlnstts|Taruzel]], the League's great rival at sea.
+To the south, along the whole of the League's southern border, lies the Kingdom of Amradad, which holds the eastern shore of the Vilérian Sea, and beyond it the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March. In the far east two inland seas lie on that border, [[place-bittersea|the Bitter Sea]] and [[place-farsea|the Far Sea]], and the border runs through the Bitter Sea's water. Off the League's short coast to the south lie the islands of [[affiliation-cnfdrtntrzlnstts|Taruzel]], the League's great rival at sea.
 
 Across the sea beyond the Taruzelian islands lie the coasts of [[place-xerathia|Zerathia]], with which Nesthiros's captains have traded for a thousand years; the League's coast and the sea it faces belong to [[place-midhalnrgn|Midhalión]].
 
@@ -152,6 +152,9 @@ The eastern hinterland is the region's open danger, and [[affiliation-blackflame
 
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : southern neighbor
+
+[[place-bittersea|The Bitter Sea]], [[place-farsea|the Far Sea]]
+: the two inland seas on the southern border
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the islands off its coast

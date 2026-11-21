@@ -7,7 +7,7 @@ data:
   packFolder: languages
   language: aelw
   font: semaron-kuriale
-  accepts: [a-w, y-z, A-W, Y-Z, 0-9, á, é, í, ó, ú, Á, É, Í, Ó, Ú, à, ì, ò, ù, À, Ì, Ò, Ù]
+  accepts: [a-w, y-z, A-W, Y-Z, 0-9, á, é, í, ó, ú, Á, É, Í, Ó, Ú, à, ì, ò, ù, À, Ì, Ò, Ù, ́]
   vowels: aeiouAEIOUáéíóúÁÉÍÓÚàìòùÀÌÒÙ
   mappings:
     "0": DIGIT_ZERO
@@ -105,6 +105,14 @@ data:
     Ì: [ILTHERA_MAJ, SHORT]
     Ò: [ORNETHE_MAJ, SHORT]
     Ù: [ULMERA_MAJ, SHORT]
+    à́: [ANKRON_MIN, SHORT, STRESS]
+    ì́: [ILTHERA_MIN, SHORT, STRESS]
+    ò́: [ORNETHE_MIN, SHORT, STRESS]
+    ù́: [ULMERA_MIN, SHORT, STRESS]
+    À́: [ANKRON_MAJ, SHORT, STRESS]
+    Ì́: [ILTHERA_MAJ, SHORT, STRESS]
+    Ò́: [ORNETHE_MAJ, SHORT, STRESS]
+    Ù́: [ULMERA_MAJ, SHORT, STRESS]
   rules:
     normalization: NFC
     matching: longest-first
@@ -168,8 +176,10 @@ A grave writes a short vowel, as in the common guide: à the short a of cat,
 put. Semaron draws the short vowel with the same sign as the plain one, so each
 grave vowel writes its base vowel followed by the font's non-printing SHORT
 mark, and a capital writes the majuscule with the same mark. The mark keeps the
-grave in the native text, so decoding writes the grave vowel again. No other
-grave is accepted.
+grave in the native text, so decoding writes the grave vowel again. A grave
+vowel that also carries an acute, written above the grave as in the common
+guide, is a stressed short vowel: it writes the base vowel,
+SHORT and then STRESS, in that order. No other grave is accepted.
 
 ## Word spelling
 

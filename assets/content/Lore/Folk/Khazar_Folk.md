@@ -59,7 +59,7 @@ master craft it holds, and the tale of their flight from Humadan is told in
 [[lore-khazararrv|The Coming of the Khazari]]. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
 Khazár can recite a line back to one of the seven without hesitation or notes.
 
-[Khazartúrn]{.name data-type="place/settlement"} (see [[lore-khazarturn|the Fall of Khazartúrn]]) was built for all seven together—seven spurs the cliff of a mountain
+[[place-khazarturn|Khazartúrn]]{.show} (see [[lore-khazarturn|the Fall of Khazartúrn]]) was built for all seven together—seven spurs the cliff of a mountain
 valley already held, finished as great towers, one to each clan, and the city held jointly beneath them. It is the only
 thing they are known to have made as a single people, and its loss took some part of every line on
 Thalorna at once.
@@ -101,7 +101,7 @@ Like the Senalian enclaves, the holds are remote, and the remoteness is the moun
 
 Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vristwald]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tantsouempr|Tantsou]]'s western border, and ranges in [[place-xerathia|Zerathia]] and beyond. The Khazari do not confirm or deny any of this, and a Khazár asked about the inner passages of a hold will simply stop talking. The one location kept as a guarded secret is Khazartúrn.
 
-The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-eilwith|Eilwìth]], founded around **3100 BF** in the late centuries of Khazartúrn—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the Khazari carried a small company of humans across with them to farm beneath it, and their descendants are [[lore-vardain|the Vardain]].
+The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-eilwith|Eilwìth]], founded around **3100 BF** in the late centuries of Khazartúrn—the farthest the Deep Folk ever carried a hold, and the only one whose farmers were brought across open sea. Because a hold feeds itself from its own gate or not at all, the Khazari carried a small company of humans across with them to farm beneath it, and their descendants are [[lore-vardain|the Vardain]].
 
 ## Relations with Humanity
 
@@ -117,11 +117,11 @@ There is exactly one exception, and it is not a realm. The [[lore-vardain|Vardai
 
 The Vardain are not an anomaly. They are a **survival**.
 
-A hold grows nothing and will not be supplied from outside, so every Khazari hold has always needed farmers within reach of its gate—and when the Deep Folk arrived around 5300 BF there were no farmers anywhere, only hunter-gatherers who could not provision anybody. So the Khazari made some, in the uplands around their first holds, by teaching the water-works, the drainage, the terracing and the granary that turn thin ground into a food supply.
+A hold grows nothing and will not be supplied by strangers, so every Khazari hold has always needed farmers within reach of its gate—and when the Deep Folk arrived around 5300 BF there were no farmers anywhere, only hunter-gatherers who could not provision anybody. So the Khazari made some, in the uplands around their first holds, by teaching the water-works, the drainage, the terracing and the granary that turn thin ground into a food supply.
 
 That was not generosity and was never framed as such. It was a larder, built by a people who required one. What became of the knowledge afterward—that it ran downhill into the river valleys and grew into human civilization—happened without their participation and, so far as any evidence goes, without their interest.
 
-Most of those arrangements have lapsed in the six thousand years since: the peoples changed, the holds closed, the countries were conquered by somebody. The Vardain are the one that never lapsed. They are the last people on Thalorna still doing what humans were originally taught to do.
+Most of those arrangements have lapsed in the six thousand years since: the peoples changed, the holds closed, the countries were conquered by somebody. The Vardain are the one that never lapsed. They are the oldest of those ties still kept.
 
 ## Seen From Within
 

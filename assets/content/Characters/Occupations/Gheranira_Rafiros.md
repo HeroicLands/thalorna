@@ -3,6 +3,7 @@ shortcode: ghrnrrfrs
 name: {full: Ghéranira Rafiros}
 type: being
 subType: npc
+description: "An embalmer of Theradon who prepares the dead with herbs and funerary rites, taking comfort in her work after the loss of her brother."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -435,17 +436,11 @@ None, but some traditionalists frown upon her use of ritual.
 
 ## Plot Hooks
 
-The Embalmer's Dilemma
-: A family forbids the rites Ghéranira believes protect the spirit of their dead, and she can do the work their way or not at all.
+Rites from Beyond Helionis
+: A family from the lands beyond [[place-helionis|Helionis]], which [[place-theradon2|Theradon]] regards as barbarous, asks Ghéranira to prepare their dead in their own rites. The town's disdain for those lands is barely concealed, and Ghéranira must decide whether to prepare the body their way.
 
-Old Grudges
-: A traditionalist in the Morticians' Guild has brought Ghéranira's use of ritual before the guild as a fault.
+A Natural Historian's Question
+: A natural historian of the town asks Ghéranira which herbs she uses to preserve the dead and why she believes they protect the spirit. Naming her methods means explaining to a man who argues from evidence a belief she holds from ritual.
 
-Echoes of the Past
-: Questions are raised about how Ghéranira's brother died, and she is the one who prepared his body.
-
-Shifting Winds
-: Political change in Helionis threatens the guild and the customs Ghéranira's trade rests on, and she can adapt, resist, or leave.
-
-The Opportunity
-: A wealthy family offers Ghéranira the care of all its dead, on condition that her rituals and herbs are kept out of it.
+Objection at the Bier
+: A family of traditionalists hires Ghéranira for a wake and then objects to the ritual and herbs she brings. They want the body prepared and the work shortened, and she is unsure whether her gentleness will bear it.

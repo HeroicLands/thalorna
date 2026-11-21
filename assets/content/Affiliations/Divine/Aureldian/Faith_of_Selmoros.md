@@ -46,6 +46,7 @@ data:
       Novices of the Silent Watch: >-
         Young men and women, often survivors of a near-death experience, in extensive training in funerary practice and theology.
   seat: null
+  range: [ankrscntnnt]
   population: null
   economy: []
   lore: [selmorosdty]
@@ -88,3 +89,7 @@ The relationship between Sélmoros and [[affiliation-morvana|Faith of Morvana]] 
 Sélmoros maintains a complex neutrality with the Faith of Árdavon. In their teachings, the god of order, [[lore-ardavondty|Árdavon]], demands that deaths follow proper law and ceremony, and Sélmoran priests ensure this standard is upheld. Yet where Árdavon fights against chaos and decay, Sélmoros accepts them as inevitable. This theological tension is managed rather than resolved—both priests understand they serve different aspects of a universal order, neither superior to the other.
 
 The faith of Sélmoros stands in clear opposition to any theology that promises to defeat or circumvent death itself. Necromancers, those who raise the dead, and any practice that violates the sanctity of the grave are held to offend Sélmoros directly. The priesthood maintains no formal alliance with other faiths on this matter, but they are universally respected for their determination to preserve the dignity of death and the finality of Sélmoros's judgment. Even the followers of [[affiliation-blackflame|the Black Flame]], despite their general contempt for the order-centered faiths, respect Sélmoros as a primal force that cannot be bargained with or overcome through mere strength of will.
+
+## Politics {#present}
+
+The Limori of the faith of Sélmoros keep the funeral rites, the temple records of the dead and the counsel of the dying in the major cities of the western part of the [[place-ankrscntnnt|Ankaris Continent]], and the nobility consult them on questions of succession and inheritance. The faith works quietly with [[affiliation-morvana|Morvana]], keeps a managed neutrality with [[affiliation-ardavon|Árdavon]], and stands against every necromancer and every practice that violates the grave.

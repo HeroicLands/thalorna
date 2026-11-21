@@ -220,7 +220,7 @@ describe("Thalorna's installed script converter", () => {
 
     it("reverses authentic Eilwithi and Zethu, loads native fonts and copies exact Unicode", () => {
         select("aelw", "semaron-kuriale");
-        input("eksakt");
+        input("ìgzà́kt");
         control("output").should("not.have.value", "").and("have.class", "hl-semaron-kuriale");
         loadedNativeFont("output");
         control("output")
@@ -228,7 +228,7 @@ describe("Thalorna's installed script converter", () => {
             .then((native) => {
                 control("direction").select("decode");
                 input(native);
-                control("output").should("have.value", "eksakt");
+                control("output").should("have.value", "ìgzà́kt");
                 control("input").should("have.class", "hl-semaron-kuriale");
             });
         select("khel", "khelathi-zethu-glyphs");

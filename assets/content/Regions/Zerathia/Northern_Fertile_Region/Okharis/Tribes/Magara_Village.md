@@ -24,3 +24,8 @@ Magara Village is the seat of the [[affiliation-magaratrb|Magara tribe]], which 
 [[place-okharisrgn|Okharis]].
 
 Its paddocks run out onto the grassland, and buyers from the temple-cities come to the village each year to choose from the young horses.
+
+## See Also {#see-also}
+
+[[scenario-gftmgrflds|A Gift for the Magara Folds]]
+: a scenario: a Khelathi envoy the King cannot answer rides on to the Magara folds to name a price for their horsemen

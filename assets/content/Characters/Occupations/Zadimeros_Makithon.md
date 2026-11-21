@@ -3,6 +3,7 @@ shortcode: zdmrsmkthn
 name: {full: Zádimeros Makithon}
 type: being
 subType: npc
+description: "A Helionite cartographer and former artist of Thirenae whose detailed maps of the surrounding region are sought by merchants, explorers and nobles."
 tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -436,17 +437,11 @@ Rival cartographers and the city guard, who suspect him of espionage.
 
 ## Plot Hooks
 
-The Cartographer/Artist's Dilemma
-: Zádimeros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+A Map the Guard Wants Explained
+: The city guard of [[place-thyrenae2|Thirenae]] finds a copy of one of Zádimeros's maps of the roads to [[place-khasidon|Khasidon]], [[place-ghalirea|Ghalirea]] and [[place-ussarea|Ussarea]] in the hands of a stranger. The guard suspects espionage and asks whom he sold it to.
 
-Old Grudges
-: Rival cartographers and the city guard, who suspect him of espionage. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Buyer Who Pays Too Well
+: A buyer offers more than his maps are worth for a copy of a road survey. Greed has led Zádimeros to sell to less-than-reputable clients before, and this offer is the largest.
 
-Echoes of the Past
-: Something from Zádimeros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Zádimeros depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Zádimeros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Rival's Charge at the Guild
+: Rival cartographers lay before the Cartographers' Guild the charge that Zádimeros sells sensitive maps to rival factions. The guild asks him for his sales, and the answer protects some clients and exposes others.

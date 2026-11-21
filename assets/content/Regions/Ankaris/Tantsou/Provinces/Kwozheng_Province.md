@@ -64,7 +64,7 @@ Kwozheng Province is the northern province of the [[affiliation-tantsouempr|Empi
 
 The Prince of Kwozheng and the Prince of [[affiliation-mwonouprv|Mwonou Province]] are bitter rivals. Their quarrel is over an old marriage between their houses and an heir who died, and in the [[lore-weizhairui|Wei Zhai Rwi]] each takes the other's loss as his own gain.
 
-The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|frontier peoples]].
+The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]].
 
 ## See Also {#see-also}
 

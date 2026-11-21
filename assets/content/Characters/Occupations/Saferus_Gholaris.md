@@ -3,6 +3,7 @@ shortcode: safrsghlrs
 name: {full: Sáferus Gholaris}
 type: being
 subType: npc
+description: "A master clothier of Pelagora who has served the town's nobility for decades with luxurious garments and the latest fashions of the other city-states."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -403,7 +404,7 @@ Sáferus Gholaris is a 52-year-old man who stands 5'9" tall and is of moderate b
 
 Born in the [[place-helionis|Helionis]] region to a noble family of [[lore-helioniteclt|Helionite]] heritage, Sáferus Gholaris came into the world of the clothier through a combination of circumstance and aptitude.
 
-Sáferus is a master clothier whose shop has served the town’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Sáferus's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
+Sáferus is a master clothier whose shop has served the town’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions of the other city-states. Sáferus's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
 
 ## Psyche
 
@@ -437,17 +438,11 @@ Competitors who dislike his elitist attitude.
 
 ## Plot Hooks
 
-The Clothier's Dilemma
-: Sáferus faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+Robes for the Admiral's Return
+: An admiral of the fleet comes home to [[place-pelagora2|Pelagora]] and the nobility want garments to greet him, but the cloth runs out before the orders do. Sáferus can cut for his oldest patrons and turn the rest away, or send the late orders to a competitor who dislikes his elitist attitude and will make the most of the custom.
 
-Old Grudges
-: Competitors who dislike his elitist attitude. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Customer He Turned Away
+: A rising demagogue who cannot afford his prices is dismissed from the shop. In a town where the assembly shouts and demagogues rise on the public mood, the insult may be carried to the next assembly.
 
-Echoes of the Past
-: Something from Sáferus's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Sáferus depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Sáferus the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Uniform Cloth for the Fleet
+: The assembly of [[place-pelagora2|Pelagora]], which expects every citizen to serve in the fleet or the militia, votes to outfit its officers in one cloth and asks Sáferus to cut it. The price the assembly will pay is far below what he charges the nobility, and a refusal will be shouted down at the next assembly.

@@ -16,7 +16,7 @@ The Grukar have not always been on [[place-worldthlrn|Thalorna]].
 
 They are first recorded around **3000 BF**, and the record is from the [[lore-flkkhazar|Khazár Folk]]—the Deep Folk having both the
 habit of writing things down and, at that date, the finest archive in the world at the city of
-[Khazartúrn]{.name data-type="place/settlement"} (see [[lore-khazarturn|the Fall of Khazartúrn]]). Nothing written there in its first twenty-one centuries mentions them.
+[[place-khazarturn|Khazartúrn]]{.show} (see [[lore-khazarturn|the Fall of Khazartúrn]]). Nothing written there in its first twenty-one centuries mentions them.
 Then, within a generation, a great deal does.
 
 Where they came from is not known. The Khazari account, which is the only contemporary one, does not

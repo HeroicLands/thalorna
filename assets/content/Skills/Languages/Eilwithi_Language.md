@@ -7,7 +7,7 @@ description: "The speech of the island of Eilwìth, given in these pages in the 
 tags: []
 
 data:
-  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚàìòùÀÌÒÙ0123456789"
+  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚàìòùÀÌÒÙ́0123456789"
   core: true
   abbreviation: Aelw.
   fields:
@@ -28,7 +28,7 @@ data:
     - name: Ability and conversation
       holds: Ability, permission, obligation and everyday exchanges.
   words:
-    - {form: eksakt, class: v, gloss: require or demand, field: Ordinary speech}
+    - {form: ìgzà́kt, class: v, gloss: require or demand, field: Ordinary speech}
     - {form: kongkòr, class: v, gloss: overcome or subdue, field: Ordinary speech}
     - {form: skeptìk, class: n, gloss: one who doubts, field: Ordinary speech}
     - {form: pàk, class: n, field: Needs and the household, gloss: a bundle carried for a journey}
@@ -38,7 +38,7 @@ data:
       field: Ordinary speech
       gloss: a gift presented
       variants: [ofrìng]
-    - form: kourteous
+    - form: kù́rtiòs
       class: adj
       field: Ordinary speech
       gloss: showing courtesy or respect
@@ -4721,6 +4721,12 @@ data:
     - {form: sky, instead: skai, why: y is never a vowel}
     - {form: wyn, instead: wiin, why: y is never a vowel}
     - {form: hildwin, instead: hildwiin, why: y is never a vowel}
+    - form: eksakt
+      instead: ìgzà́kt
+      why: "respelled to Pronouncing Thalorna: x is gz; the short i of sit and the short a of cat; the stress on the second syllable"
+    - form: kourteous
+      instead: kù́rtiòs
+      why: "respelled to Pronouncing Thalorna: the vowels of put and cup; the stress on the first syllable"
     - form: konquer
       instead: kongkòr
       why: "respelled to Pronouncing Thalorna: the ng of sing and the vowel of cup"

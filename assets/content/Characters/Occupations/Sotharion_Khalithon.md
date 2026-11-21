@@ -3,6 +3,7 @@ shortcode: sthrnkhlthn
 name: {full: Sotharion Khalithon}
 type: being
 subType: npc
+description: "A Helionite lord and tenant-in-chief of Mirtelos, known for his skill in war and the loyalty of his vassals, who sits on the local nobility council."
 tags: [draft, administration]
 data:
   icon: icon-person
@@ -438,17 +439,11 @@ Few; he is generally respected but has made rivals in power struggles.
 
 ## Plot Hooks
 
-The Nobility (Tenant-in-chief)'s Dilemma
-: A vassal Sotharion trusts is found to have wronged the common folk on his land, and just rulership and the loyalty he has earned pull against each other.
+Grain Ships Held at the Quay
+: The land behind [[place-myrtillos|Mirtelos]] is too thin to feed the city, so its bread arrives on the grain ships. When the ships are held off the quay, Sotharion is the lord whose vassals and tenants are expected to keep the city from going hungry.
 
-Old Grudges
-: A rival from an old power struggle on the Local Nobility Council has found allies enough to reopen it.
+A Vassal's Wavering Oath
+: A vassal who has followed Sotharion into battle begins courting another lord. Sotharion is rigid in his decisions and struggles with shifting loyalties, and he must choose between a firm answer and a bargain.
 
-Echoes of the Past
-: A battle Sotharion led his men into years ago is raised again by the family of a man who did not come back from it.
-
-Shifting Winds
-: Political change in Helionis threatens the standing of the tenants-in-chief, and Sotharion can adapt, resist, or leave.
-
-The Opportunity
-: Sotharion is offered command of a campaign beyond his own lands, and his domain would be left to his vassals while he is gone.
+A Seat Contested on the Council
+: A rival made in an earlier power struggle moves on the nobility council to curb Sotharion's command of his men. His reputation for duty and honor is his best answer, and it is also what the rival will attack.

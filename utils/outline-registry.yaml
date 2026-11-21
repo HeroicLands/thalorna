@@ -107,7 +107,8 @@ sharedGovernance:
     - affiliation-seltqltlnlgr
 
 # Settlements an owner exception excuses from a homed being: address, then the reason.
-homedBeingExceptions: {}
+homedBeingExceptions:
+    place-khazarturn: The city is sealed and holds no living people.
 
 # Ids of the lands held to this registry. A finding in a finished land is an
 # error; in every other land it is a warning, except `see-also-not-last`, which

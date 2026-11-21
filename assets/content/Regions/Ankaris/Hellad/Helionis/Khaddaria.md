@@ -22,7 +22,7 @@ Khaddaria is the part of [[place-helionis|Helionis]] that the philosophers do no
 
 Mountains cover about half of Helionis by area, and nearly all of that half is Khaddaria. The country begins in the foothills behind the coastal belt and runs on, ridge after ridge, to ground some 330 miles from the sea. The rock is metal-bearing nearly everywhere: iron in red seams, copper in green-stained hills, tin in the gravels of the gorges, lead and silver in the deep galleries, pigments and alum in the bleached slopes, and white marble in the quarries. Very little of it will grow a crop. Barley and pulses on narrow terraces, goats on the scree and charcoal from the beech and oak slopes are what the land gives, and a mining town buys the rest.
 
-To the north-east the ranges fall away into stony steppe and then to the inland seas, broad salt waters with reed margins, bitter shores and almost nothing living on them. The seas are not a destination. They lie on the caravan roads between Helionis, Bizaria and the steppe, and the towns beside them exist because the roads do.
+To the north-east the ranges end in a last ridge and fall away into stony steppe. Below the ridge lie salt pans and seasonal marshes, and beyond them, a few days out on the steppe, the inland seas, broad salt waters with reed margins, bitter shores and almost nothing living on them. The seas are not a destination. They lie on the caravan roads between Helionis, Bizaria and the steppe, and the caravan towns stand at the foot of the ridge where those roads leave the mountains. The towns exist because the roads do.
 
 ## Who Holds It {#who-holds-it}
 
@@ -41,7 +41,7 @@ The mining towns, each beside its own ore:
 - [[place-sufanos|Sufanos]] (Korinthea): alum and sulfur, about 3,400.
 - [[place-hadrithon|Hadrithon]] (Korinthea): white marble, about 2,900.
 
-The caravan towns, on the shores of the inland seas:
+The caravan towns, at the foot of the last ridge on the roads to the inland seas:
 
 - [[place-ussarea|Ussarea]] (Thirenae): about 2,300.
 - [[place-mubaria|Mubaria]] (Theradon): about 3,000.

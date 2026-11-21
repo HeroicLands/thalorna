@@ -56,6 +56,7 @@ data:
       Volgel: >-
         The faith's knightly order.
   seat: null
+  range: [provenzrgn, eilwith]
   population: null
   economy: []
   lore: [ardavondty]
@@ -104,3 +105,9 @@ The [[affiliation-olvenia|Faith of Ólvenia]], which honors [[lore-olveniadty|Ó
 Árdavon maintains formal diplomatic relations with the [[affiliation-pozeras|Faith of Pozeras]], whose followers hold that [[lore-pozerasdty|Pozeras]], the god of voyages, oversees the natural laws governing journeys, weather, and trade routes. While not intimate allies, the two priesthoods recognize shared interests in maintaining stable borders, protecting trade routes from banditry, and enforcing maritime law. Some coastal cities maintain joint temples honoring both deities.
 
 Finally, Árdavon regards [[affiliation-selmoros|Faith of Sélmoros]] with formal respect. [[lore-selmorosdty|Sélmoros]], the god of death, is understood as an ally in maintaining cosmic order—Sélmoros enforces the boundaries of mortality and ensures that injustice does not continue perpetually into an extended life. In their teaching, where Árdavon judges conduct and assigns consequences in the mortal realm, Sélmoros judges the soul and assigns eternal consequence. The two priesthoods occasionally cooperate in matters involving oaths sworn by the dying or inheritance disputes where supernatural phenomena suggest divine judgment.
+
+## Politics {#present}
+
+The Faith of Árdavon is, with the [[affiliation-sacredforge|Sacred Forge]], one of the two most powerful priesthoods in the Aureldian lands. The Volsarnor in the [[place-provenzrgn|Provénzia Region]] counsels kings and city councils across western Ankaris, and the Volgel orders hold their territories and keep their standing forces. On [[place-eilwith|Eilwìth]] the [[affiliation-justbladeordr|Order of the Just Blade]] serves as the army of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]].
+
+Its quarrel is with [[affiliation-blackflame|the Black Flame]], which it fights in every kingdom and court. Its alliance with the Sacred Forge holds, and its partnerships with [[affiliation-marendas|Marendas]] in education and governance and with [[affiliation-olvenia|Ólvenia]] in commercial cities rest on its law. The orders occasionally clash with local lords over judgments given in the order's favor.

@@ -3,6 +3,7 @@ shortcode: jubensfths
 name: {full: Júbenos Safithes}
 type: being
 subType: npc
+description: "A courtesan of Thirenae, once an actor with a theater troupe, who accompanies wealthy patrons to society events with his wit and charm."
 tags: [draft, guilded, administration]
 data:
   icon: icon-person
@@ -434,17 +435,11 @@ Jealous rivals in the entertainment and social scenes.
 
 ## Plot Hooks
 
-The Courtesan's Dilemma
-: Júbenos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+A Patron for the Old Troupe
+: The troupe Júbenos once acted with is stranded in [[place-thyrenae2|Thirenae]] without the money for its passage to the festival at [[place-kalydria2|Kalidria]], and it asks him to bring a wealthy patron to its next performance. A patron who pays for his company will expect something from Júbenos in return, and Júbenos keeps his attachments guarded.
 
-Old Grudges
-: Jealous rivals in the entertainment and social scenes. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Rival's Rumor
+: A jealous rival in the entertainment scene spreads a rumor that Júbenos has grown attached to a patron. He keeps his feelings guarded and must decide whether to answer the rumor or ignore it.
 
-Echoes of the Past
-: Something from Júbenos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Júbenos depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Júbenos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+A Seat at the Colleges' Table
+: A patron brings Júbenos to a dinner of the colleges, where scholars argue over where arcane theory ends and practice begins. His conversation is what the patron brought him for, and the dispute is one he cannot afford to take a side in.

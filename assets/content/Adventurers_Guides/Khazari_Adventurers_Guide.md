@@ -110,7 +110,7 @@ The rest is in [[skill-khazarlng#phrasebook|the language's phrasebook]].
 
 Every hold needs farmers within reach of its gate, and when the Khazari arrived there were none anywhere. Around their first holds they taught the nearest peoples water-works, terracing and granaries, and bound them as subjects to mine, cut timber and herd. What those tribes carried away became the foundation of human metallurgy, stonework and writing. The Khazari maintain that nothing was given that mattered; [[lore-longnhrtnc|the Long Inheritance]] tells the rest.
 
-The Vardain are the last of those arrangements. When the Nordmen took the plain below Vorgald sixty years ago and enslaved the Vardain who had fed the hold for millennia, the Khazari did not intervene and have not said why. They admitted the refugees who reached the valleys, and protect and feed from them to this day. The ethic that forbids a needless cut in stone does not reach people. Thoughtful Khazari argue about that inside the holds, and [Gisvin]{.name data-type="being/npc"} of Tanv-guráz, who carried his hold's stores out through his own gate to a starving tribe and was exiled for it, is remembered in [[lore-balvfunad|The Going of the Exile]].
+The Vardain are the oldest of those ties still kept. When the Nordmen took the plain below Vorgald sixty years ago and enslaved the Vardain who had fed the hold for millennia, the Khazari did not intervene and have not said why. They admitted the refugees who reached the valleys, and protect and feed from them to this day. The ethic that forbids a needless cut in stone does not reach people. Thoughtful Khazari argue about that inside the holds, and [Gisvin]{.name data-type="being/npc"} of Tanv-guráz, who carried his hold's stores out through his own gate to a starving tribe and was exiled for it, is remembered in [[lore-balvfunad|The Going of the Exile]].
 
 ## Voices of the Holds
 
@@ -118,7 +118,7 @@ The Khazari keep no founding scripture, but a handful of records and songs are r
 
 - [[lore-clanscrossing|The Crossing of the Clans]] is the deep song of the people's beginning, sung below on the night of the turning of the year; it counts the seven clans out of Humadan head for head, and teaches that the end of the world is not known and is not foretold.
 - [[lore-gatharbuzan|The Sayings of the Masters]] is Vorgald's chain of workshop sayings, read whole when an apprentice is admitted to strike, and many of the workshops' bywords about props, records and clumsy cuts come from it.
-- [[lore-longtunnel|The Long Tunnel]] is the account of a water-line cut along the grain at [Magar-thubád]{.name data-type="place/settlement"} with no prop in it, told to apprentices who want the hammer too soon.
+- [[lore-longtunnel|The Long Tunnel]] is the account of a water-line cut along the grain at [[place-magarthubad|Magar-thubád]]{.show} with no prop in it, told to apprentices who want the hammer too soon.
 - [[lore-vargfukar|The Finding at the Far Edge]] is Vorgald's founding account, read in its refuge on the day of the finding, and it tells of a finder proved right against her elders' entry, and of a hold that readied its refuge before its homes.
 - [[lore-clansquarrel|The Quarrel of the Clans]] tells how Khazartúrn's council came to sit with no first seat, and every new elder hears it read in the council-hall before her oath is cut.
 - [[lore-sealingcity|The Sealing of the City]] is the lament the old sing below after the account of Khazartúrn's fall is read, laying the city's dead in their chambers tower by tower.

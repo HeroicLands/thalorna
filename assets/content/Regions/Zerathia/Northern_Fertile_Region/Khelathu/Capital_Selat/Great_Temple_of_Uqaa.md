@@ -62,3 +62,6 @@ At the flood the water laps the outer courts, and the temple stands alone above 
 
 [[place-galezkara|Galezkara]]
 : the imperial city
+
+[[scenario-nightbfrrdng|The Night Before the Reading]]
+: a scenario: on the eve of the crest the Gar-Au sends strangers to stand at the Measure, and the old Reader is too sick to go down the stair

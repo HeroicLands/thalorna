@@ -86,7 +86,7 @@ The Khazari disdain a straight line. Tunnels wind because they follow the rock's
 
 No two holds are alike, because no two mountains are, and none is laid out on a grid. Most homes are shallow, set into the cliff face rather than deep in the mountain, and nearly every one has an outer face with openings for air and daylight, shaped to follow the rock's natural lines so that they never jar the eye. Passages run inside the rock, linking homes, workshops and common rooms, so no road or worn path scars the face.
 
-The one work in which what the Khazari wanted led what the stone offered is Khazartúrn (see [[lore-khazarturn|the Fall of Khazartúrn]]).
+The one work in which what the Khazari wanted led what the stone offered is [[place-khazarturn|Khazartúrn]]{.show} (see [[lore-khazarturn|the Fall of Khazartúrn]]).
 
 ## Light, Smoke and Water
 

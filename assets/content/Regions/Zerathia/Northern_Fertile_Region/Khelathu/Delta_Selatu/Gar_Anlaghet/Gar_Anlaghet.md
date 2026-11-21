@@ -52,3 +52,6 @@ The city grows hardly any of its own bread and takes a fee on every transaction.
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : Chief trading partner
+
+[[scenario-rndrgorge|The Render of the Gorge]]
+: a scenario: the Overseer of the Granaries finds a figure in the year's reckoning he cannot account for, and hires strangers before he signs

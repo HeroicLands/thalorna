@@ -3,6 +3,7 @@ shortcode: drshrkhrds
 name: {full: Dorasia Rakhrides}
 type: being
 subType: npc
+description: "A noble spice merchant of Kalidria who imports exotic goods for the cooks and eating-houses of the town."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -434,17 +435,11 @@ Few; generally well-respected but has competitors in the spice trade.
 
 ## Plot Hooks
 
-The Merchant's Dilemma
-: A shipment of spices arrives adulterated, and Dorasia has to choose between her buyers' trust and the loss of a season's profit.
+Spice for the Festival Banquet
+: In the crowded weeks of a theater festival, a patron family's steward orders a banquet to outshine a rival family's, and asks Dorasia for a spice no eating-house in [[place-kalydria2|Kalidria]] has served. She has one cargo left, and a competitor has promised the same steward the same spice.
 
-Old Grudges
-: A competitor in the spice trade decides that undercutting her is no longer enough.
+An Escort from Zarakia
+: The hired sword offered to guard her next shipment has waited for work in the taverns of [[place-zarakia|Zarakia]], and he follows [[affiliation-blackflame|The Black Flame]]. Zarakia's garrison has not decided whether such men are a danger or a convenience, and Dorasia must decide before the caravan leaves whether to keep him on it.
 
-Echoes of the Past
-: A trade agreement Dorasia made years ago is called in by a partner she had forgotten.
-
-Shifting Winds
-: Political change in Helionis threatens the markets Dorasia depends upon, and she can adapt, resist, or leave.
-
-The Opportunity
-: A foreign trader offers Dorasia a partnership beyond anything she has hoped for, and its price is not named up front.
+Buyers Who Ask for Her Name
+: A rival in the spice trade, losing buyers who now ask for Dorasia by name, offers to buy her trade agreements with the distant suppliers. The offer is fair, and accepting it ends the name the buyers ask for.

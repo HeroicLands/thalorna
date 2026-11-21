@@ -3,6 +3,7 @@ shortcode: tabismrnds
 name: {full: Tabisa Marinades}
 type: being
 subType: npc
+description: "A huscarl of Kalidria in the retinue of Lady Nimaris, who leads scouting missions to keep her lord's territory safe."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -437,17 +438,11 @@ Some traditionalists who doubt her abilities.
 
 ## Plot Hooks
 
-The Huscarl's Dilemma
-: Tabisa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
+Scouting the Pigment Road
+: Tabisa leads a scouting party along the road from [[place-jalimea|Jalimea]], where a train of pigment jars is worth a raid even when it carries only colored dust. She finds signs of a band waiting, and the party must choose between turning back and leading it on.
 
-Old Grudges
-: Some traditionalists who doubt her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Comrade Posted Too Far
+: A comrade of Tabisa's is assigned a post she thinks too dangerous. She is overly protective of her comrades, and the order comes from the lord she serves.
 
-Echoes of the Past
-: Something from Tabisa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Tabisa depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Tabisa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+A Doubter in Lady Nimaris's Hall
+: A traditionalist doubts that a woman should lead scouts and says so in the hall of Lady [[being-nimaristabin|Nimaris]]. Tabisa must answer him or let her record answer for her.

@@ -87,3 +87,6 @@ Zarhanis is believed to be the birthplace of the faith of the Eternal Flame ([[l
 
 [[place-shuremis|The Ash-Fold]]
 : the estate on the grazing east of the city
+
+[[scenario-gftmgrflds|A Gift for the Magara Folds]]
+: a scenario: a Khelathi envoy the King cannot answer rides on to the Magara folds to name a price for their horsemen

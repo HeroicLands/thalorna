@@ -3,6 +3,7 @@ shortcode: risksbrths
 name: {full: Rísakos Ibarithos}
 type: being
 subType: npc
+description: "An apothecary of Korinthea who keeps a small shop on the outskirts, serving the desperate and the morally dubious, and knows toxins and antidotes."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -437,17 +438,16 @@ The city watch, who are suspicious of his dealings.
 
 ## Plot Hooks
 
-The Apothecary's Dilemma
-: Rísakos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+An Antidote After Dark
+: A frightened customer comes to Rísakos's shop in the night and asks for an antidote for a poison he cannot name. Rísakos can mix one only from what the customer describes, and the customer offers more than the remedy is worth.
 
-Old Grudges
-: The city watch, who are suspicious of his dealings. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Poisoning Before the Temple Bench
+: A dispute taken to the [[place-tmplrdvn|Temple of Árdavon]] turns on a poisoning, and [[being-dumarsrfrs|Dumares Rafiros]] holds every party to its oath. The apothecary is called to say what a toxin does, and what he says may point at his own trade.
 
-Echoes of the Past
-: Something from Rísakos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+A Cook Dead after the Feast
+: A noble's cook dies after a feast in [[place-korinthea2|Korinthea]], and the watch comes to Rísakos's shop with a vial found in the kitchen and asks whether it came from him.
 
-Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Rísakos depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Rísakos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+:::secret {title="Hooks: the vial"}
+The Buyer He Never Named
+: The vial is his, and he sold it to a buyer whose name he never asked. He must decide whether to admit the sale to the watch, and what to say of a buyer he cannot name.
+:::
