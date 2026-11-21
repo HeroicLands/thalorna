@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [velanthlng]}}
 
 ## Overview {#overview}
 
-The Sevret Host is the Velanthian Host of the south-eastern margin, under the range that divides Velanthia from Helionis and Bizaria. It holds the pass roads for the grain prince, rides escort for the drovers who winter on the Northern March, and farms the foothill fields below the passes. About 100,000 people live in its country, which lies inside the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]. Its seat is the muster town of [[place-tvsknv|Tveskanov]].
+The Sevret Host is the Velanthian Host of the south-eastern margin, under [[place-krvgr|Karvogora]], the range that divides Velanthia from Helionis and Bizaria. It holds the pass roads for the grain prince, rides escort for the drovers who winter on the Northern March, and farms the foothill fields below the passes. About 100,000 people live in its country, which lies inside the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]].
 
 ## How It Is Ruled {#how-it-is-ruled}
 
@@ -101,6 +101,12 @@ The Host grew from the drovers' escorts that guarded the grain road, and took it
 
 [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 : the prince it serves
+
+[[place-krvgr|Karvogora]]
+: the range its patrols watch
+
+[[place-bnnrfld|Banner Field]]
+: where the three Hosts gather
 
 [[place-velanthrgn|Velanthia Region]]
 : the land

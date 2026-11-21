@@ -61,6 +61,9 @@ The town grew where its first barn stood at a ferry, and the seat has been held 
 [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]]
 : the houses of the lowland barns
 
+[[place-frrygrnry|Ferry Granary]]
+: the house at the river crossing of the grain road
+
 [[place-dbrvsh|Dobravesh]]
 : the lowland's second grain market
 

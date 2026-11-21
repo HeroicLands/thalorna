@@ -56,7 +56,7 @@ sohl: {system: {commonSkills: [velanthlng]}}
 
 ## Overview {#overview}
 
-The granary monasteries are the houses of the [[affiliation-lizelas|Faith of Lizelas]] in the Velanthian grain belt. Each is a large endowed house with its own fields, mills and barns, and each keeps a granary reserve against a bad year. The houses also keep the land's letters: their monks copy the customary law the princely houses share, teach the sons of the lowland halls to read, and write the ledgers a prince has no clerk for. The Velanthians call a granary and the monastery that keeps it by one word.
+The granary monasteries are the houses of the [[affiliation-lizelas|Faith of Lizelas]] in the Velanthian grain belt. Each is a large endowed house with its own fields, mills and barns, and each keeps a granary reserve against a bad year. The houses also keep the land's letters: their monks copy the customary law the princely houses share, teach the sons of the lowland halls to read, and write the ledgers a prince has no clerk for. The Velanthians call a granary and the monastery that keeps it by one word. The [[place-frrygrnry|Ferry Granary]], on the river crossing of the grain road, is one of the houses.
 
 ## Membership {#membership}
 
@@ -77,3 +77,6 @@ The houses want their reserves left uncounted. The prince of the [[affiliation-p
 
 [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 : the prince who would count their grain
+
+[[place-frrygrnry|Ferry Granary]]
+: a house on the river crossing of the grain road
