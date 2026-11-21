@@ -80,6 +80,10 @@ The High Judge of the Temple, [[being-dumarsrfrs|Dumares Rafiros]], holds a regi
 
 Standing in Korinthea is the common Helionite ladder, from the citizen by descent down to the metic who pays tax without a vote. Korinthea is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]], and it shares the [[skill-helonclng|Helonik tongue]], its gods and its festivals with the other six city-states.
 
+## Current Situation {#present}
+
+Korinthea holds two of the twelve hinterland towns, [[place-hadrithon|Hadrithon]], whose marble builds the temple, and [[place-sufanos|Sufanos]], whose alum and sulfur the dyers and fire-makers buy. Marauders take the oxen and grain on Hadrithon's road, and a following of [[affiliation-blackflame|the Black Flame]] keeps a shrine at Sufanos. The council and the temple's High Judge divide the work of rule between them.
+
 ## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]

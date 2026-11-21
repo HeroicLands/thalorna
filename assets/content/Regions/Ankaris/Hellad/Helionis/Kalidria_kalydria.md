@@ -89,6 +89,10 @@ Kalidria's theater festivals draw audiences from across the [[place-vylarianse|V
 
 Kalidria's strength lies in influence and not in arms. The patron families use art and social connection as instruments of soft power, and Kalidrian taste shapes fashion, entertainment and courtly manners across the western part of the [[place-ankrscntnnt|Ankaris Continent]].
 
+## Current Situation {#present}
+
+Kalidria holds two of the twelve hinterland towns: [[place-jalimea|Jalimea]], whose pigments the painters buy, and [[place-zarakia|Zarakia]], whose hired swords the patron families keep. Some of those swords follow [[affiliation-blackflame|the Black Flame]], and Zarakia's garrison has not decided whether that is a danger or a convenience.
+
 ## Commerce and Currency {#commerce}
 
 Kalidria uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the city-states' taxes on paper, and the city-states do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.

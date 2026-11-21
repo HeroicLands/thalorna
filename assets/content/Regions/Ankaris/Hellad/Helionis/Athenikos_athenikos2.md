@@ -30,7 +30,11 @@ A visitor meets the town through two offices. The _agóranir_, warden of the mar
 
 Athenikos shares the [[skill-helonclng|Helonik Language]], the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the festivals and games of its sister city-states, and competes with them in everything else. Its agorin works as every Helionite agorin does. A claim made there is examined on the spot, before witnesses, and a reputation is something a citizen performs rather than inherits. A newcomer who wants to be taken seriously says something and defends it.
 
-The town eats from the grain fields and olive terraces of its own valley. Wool, horses and gold come down to it from [[place-daminea|Daminea]] and [[place-rakiria|Rakiria]], the two towns it holds in the hills, and the bread that goes up to them is paid for with that wool and gold.
+The town eats from the grain fields and olive terraces of its own valley. Wool, horses and gold come down to it from [[place-daminea|Daminea]] and [[place-rakiria|Rakiria]], the two towns it holds in the hinterland, and the bread that goes up to them is paid for with that wool and gold.
+
+## The Present {#present}
+
+The town's standing rests on the two hinterland towns it holds. [[place-rakiria|Rakiria]] sends its thin gold down to the assembly, which spends it on the fleet and the mint, and [[place-daminea|Daminea]] supplies the wool and horses and resells grain to the mining towns. Both lie among marauders. The steppe clans that raid Daminea in the spring come to its fair under a market truce, and Rakiria searches its own diggers as strictly as it watches the road.
 
 ## See Also {#see-also}
 

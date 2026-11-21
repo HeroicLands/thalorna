@@ -34,6 +34,10 @@ Kalidria sells what it makes. Sculptors and painters trained here are sought by 
 
 The farms and terraces of its valley supply the town's bread. [[place-jalimea|Jalimea]] supplies the mineral pigments the painters grind and [[place-zarakia|Zarakia]] the hired swords the patron families keep; Kalidria pays for both in grain, wine and cloth.
 
+## The Present {#present}
+
+The patron families hold two hinterland towns and depend on both. [[place-jalimea|Jalimea]], a mining town of about 2,200, sends down the pigments the painters and scene-painters buy, and its road is its danger, since a train of pigment jars is worth a raid even when the jars hold only colored dust. [[place-zarakia|Zarakia]], a caravan town of about 2,000, supplies the hired swords the families keep, and some of those swords follow [[affiliation-blackflame|the Black Flame]]. The garrison at Zarakia has not decided whether that is a danger or a convenience.
+
 ## See Also {#see-also}
 
 [[affiliation-kalydria|Kalidria]]

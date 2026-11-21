@@ -30,6 +30,10 @@ Theradon is sublime and stifling in the same afternoon: art and architecture bui
 
 The terraced hillsides around the town grow its grain and oil. Silver comes down from [[place-nafrithos|Nafrithos]], tin from [[place-tumaron|Tumaron]] and the tolls of the inland-sea caravans from [[place-mubaria|Mubaria]], and the three towns take back grain, oil and cloth.
 
+## The Present {#present}
+
+Theradon holds three hinterland towns. [[place-nafrithos|Nafrithos]] sends lead and silver, and its silver loads are the mark every marauder in the mountains wants, so the escorts are strong and slow. [[place-tumaron|Tumaron]] sends tin, and the hill bands try its gorge road every season. [[place-mubaria|Mubaria]], a caravan town of about 3,000, sends the road tolls, and the steppe bands that raid its road also trade at its market.
+
 ## See Also {#see-also}
 
 - [[affiliation-theradon|Theradon]]—the city-state and its assembly

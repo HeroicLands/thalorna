@@ -74,6 +74,10 @@ Kostaros works inside the forms the seven city-states share. The assembly of cit
 
 Standing is the common Helionite ladder, and the metic's complaint belongs to its middle rung: a resident foreigner is taxed and liable to the levy, with no vote and no right to own land. A citizen by descent votes in the assembly and serves in the militia.
 
+## Current Situation {#present}
+
+Kostaros joined the Games late. The older six city-states let it compete but not sit on the bench of arbiters, and it resents the exclusion. It holds none of the twelve hinterland towns, which five of the seven city-states hold between them, and it feeds its 50,000 people in Kostaros and Mirtelos by sea.
+
 ## Relations {#relations}
 
 Kostaros is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and shares the [[skill-helonclng|Helonik tongue]] and the festivals of the other six city-states. Within its land lies Mirtelos, a city of 20,000.

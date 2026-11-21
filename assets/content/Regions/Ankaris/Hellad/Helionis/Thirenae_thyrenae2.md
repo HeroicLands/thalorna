@@ -24,7 +24,7 @@ A scholar's first lesson in **Thirenae** is where the credential comes from: a T
 
 The town is built to suit its students. Its architecture is graceful and restrained—white marble colonnades, shaded courtyards, and terraced gardens designed for contemplation and debate. The great [[place-thyrnelbrry|Library of Thirenae]] is said to hold more manuscripts than any collection outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and scholars travel across continents for the privilege of consulting its archives.
 
-The valley farms and olive terraces around the town feed its students and scholars. Iron reaches it from [[place-khasidon|Khasidon]], copper from [[place-ghalirea|Ghalirea]] and caravan tolls from [[place-ussarea|Ussarea]], and the grain that climbs the passes to those three towns is bought with the same metal.
+The valley farms and olive terraces around the town feed its students and scholars. Iron reaches it from [[place-khasidon|Khasidon]], copper from [[place-ghalirea|Ghalirea]] and caravan tolls from [[place-ussarea|Ussarea]], and the grain those three towns buy is paid for with the same metal.
 
 ## Who Governs
 
@@ -37,6 +37,10 @@ A gate in the western wall is walled up and has never been reopened. It is the b
 ## The Arcane Order
 
 Thirenae's relationship with the Arcane Order is the most complicated in [[place-helionis|Helionis]]. The Arcane Order was born here, and the town's academies still preserve the non-arcane colleges of the original federation with real authority. Thirenean philosophers may study arcane theory without joining the Arcane Order so long as they do not practice, and the boundary between theory and practice is a standing source of tension.
+
+## The Present {#present}
+
+Thirenae holds three hinterland towns. [[place-khasidon|Khasidon]] sends iron, and hill bands raid its pass road every autumn, when the carts carry the year's heaviest loads. [[place-ghalirea|Ghalirea]] sends copper, and the marauders who wait in the gorge on its grain road have led the town to hire its own guards. [[place-ussarea|Ussarea]] sends caravan tolls, and the steppe bands that test the road to Ussarea each spring find its garrison riders few. The grain the three towns buy is paid for with the metal and the tolls.
 
 ## See Also {#see-also}
 

@@ -112,6 +112,12 @@ The games
 The theaters
 : Helionite tragedy, comedy and satire, the most celebrated literary tradition in western Ankaris.
 
+## Current Situation {#present}
+
+Helionis is independent in fact and tied to the [[affiliation-vylarinmpr|Vilérian Empire]] in form only, and its seven city-states keep the Truce of the Games while they compete in everything else. [[affiliation-kostaros2|Kostaros]], the late member, competes but has no seat on the bench of arbiters and resents it.
+
+Of its 1.2 million people, about 300,000 live in [[place-khaddaria|Khaddaria]], the hinterland, in twelve fortified towns held by five of the city-states and the palisaded villages around them. The towns mine iron, copper, lead and silver, tin, pigment, alum, sulfur and gold, quarry marble, or keep the caravan stops on the roads, and they buy their grain. Marauders from the hills and the steppe work the roads, and [[affiliation-blackflame|the Black Flame]] has followers among the smelters, the sulfur-cutters and the hired swords of the hinterland towns.
+
 ## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]

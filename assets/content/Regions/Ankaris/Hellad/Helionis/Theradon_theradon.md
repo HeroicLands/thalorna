@@ -83,6 +83,10 @@ Scholars from across the realms come to study with Theradon's philosophers, phys
 
 The temples of the [[affiliation-arldnpnthn|Aureldian pantheon]] keep high standards of ritual propriety, but the academy is the center of spiritual life, because the pursuit of wisdom is treated here as a sacred duty. Markets are orderly and regulated, and art and architecture are built to elevate the soul and sharpen the intellect. Theradon is sublime and stifling in the same afternoon: beauty and insight beside a narrow certainty about what counts as truth and a proper life.
 
+## Current Situation {#present}
+
+Theradon holds three of the twelve hinterland towns: [[place-nafrithos|Nafrithos]] with its silver, [[place-tumaron|Tumaron]] with its tin and [[place-mubaria|Mubaria]], a caravan town. Hill bands try the gorge road to Tumaron, the silver loads of Nafrithos are the mark every marauder in the mountains wants, and steppe bands raid the road at Mubaria.
+
 ## Commerce and Currency {#commerce}
 
 Theradon uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the city-states' taxes on paper, and the city-states do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.

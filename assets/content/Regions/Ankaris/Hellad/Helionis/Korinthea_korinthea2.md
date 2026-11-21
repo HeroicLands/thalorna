@@ -30,6 +30,10 @@ The [Council of Korinthea]{.name data-type="affiliation/governmental"} is the vi
 
 The town's grain and oil come from the terraces and valley farms around it. Alum and sulfur arrive from [[place-sufanos|Sufanos]], white marble from [[place-hadrithon|Hadrithon]], and the stone is the temple's building material.
 
+## The Present {#present}
+
+The temple keeps the town's law, and the town holds two hinterland towns. [[place-hadrithon|Hadrithon]] sends the white marble that builds the temple and the courts, and its one paved road is the weak point: marauders leave the blocks alone and take the oxen, the grain going up and the cutters' wages. [[place-sufanos|Sufanos]] sends alum and sulfur, and a following of [[affiliation-blackflame|the Black Flame]] keeps a shrine near its vents, which the garrison treats as a nuisance and no more. [[being-dumarsrfrs|Dumares Rafiros]] settles disputes between merchants and nobles, and his judgment is final in most of them.
+
 ## See Also {#see-also}
 
 [[place-tmplrdvn|Temple of Árdavon]]

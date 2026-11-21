@@ -38,6 +38,10 @@ The bronze copy of [[lore-heladpelagtrty|the Pelagoran Treaty]] stands in the ag
 
 Thirenae needs Pelagora's fleet, and Pelagora needs Thirenae's diplomatic connections, so the two are rivals and partners at once.
 
+## The Present {#present}
+
+Pelagora holds none of the twelve hinterland towns, which five of the seven city-states hold between them, and its stake in the mountains is the carrying trade. The fleet brings the grain that the lowland roads take up the passes to the mining towns, and it carries their ore across the sea. The assembly votes each season's voyages. The treaty's bronze copy in the agorin still has a line chiseled off it, and Thirenaean visitors still spit beside it, yet Thirenae needs Pelagora's fleet and Pelagora needs Thirenae's diplomatic connections, so the two stay rivals and partners at once.
+
 ## See Also {#see-also}
 
 [[affiliation-pelagora|Pelagora]]
