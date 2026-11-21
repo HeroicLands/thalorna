@@ -80,7 +80,7 @@ Athenikos holds two of the twelve hinterland towns, [[place-rakiria|Rakiria]] an
 
 ## History {#history}
 
-Athenikos fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in the conquest of 335 to 312 BF ([[lore-helionscnq|the Conquest of Helionis]]), and it kept its council and its magistrates under the Republic and the Empire after it. At [[lore-crownssettle|the Settlement of the Crowns]], about 619 AF, Helionis stayed on the imperial chancery's roll as a province while its city-states kept their own magistrates, and Athenikos has governed itself on that footing since.
+Athenikos fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in the conquest of 335 to 312 BF ([[lore-helionscnq|The Conquest of Helionis]]), and it kept its council and its magistrates under the Republic and the Empire after it. At [[lore-crownssettle|the Settlement of the Crowns]], about 619 AF, Helionis stayed on the imperial chancery's roll as a province while its city-states kept their own magistrates, and Athenikos has governed itself on that footing since.
 
 ## See Also {#see-also}
 

@@ -28,7 +28,7 @@ In 327 BF, in the eighth year of the [Vilérian Republic]{.name data-type="affil
 
 ## What Is There Now {#present}
 
-The withering still spreads and the dead still stand on the anniversary, and Korinthea refuses [[affiliation-ordoarcanis|Arcane Order]] surveyors at the ring.
+The withering still spreads and the dead still stand on the anniversary. The boundary stone nearest the road has moved overnight, by hand, and a farm on the wrong side of it is for sale cheap. A Korinthean assembly has for the first time a motion before it to pay for the settlement rite, and the families who oppose it have a reason they will not give. Korinthea refuses [[affiliation-ordoarcanis|The Order]] surveyors at the ring.
 
 ## Who Goes
 
@@ -39,8 +39,8 @@ The withering still spreads and the dead still stand on the anniversary, and Kor
 
 ## Hooks {#hooks}
 
-- **The moved stone.** The boundary stone nearest the road has moved overnight, by hand, and a farm on the wrong side of it is for sale cheap.
-- **The motion.** A Korinthean assembly has, for the first time, a motion before it to pay for the settlement rite, and the families who oppose it have a reason they will not give.
+- **The moved stone.** Whoever moved the stone gains by the sale of the cheap farm, and the temple's judge must say where the ring stands when next she walks it.
+- **The motion.** The vote on the settlement rite is close, and the families who oppose it have a reason they will not give.
 
 ## See Also {#see-also}
 
