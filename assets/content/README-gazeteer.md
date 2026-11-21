@@ -423,18 +423,18 @@ and the same generated tables appear on the website, in Foundry and in books. A
 hand-written table under `## Settlements` is refused. Each row is a mapping with
 these fields, all required unless marked:
 
-| Field           | Value                                                                           |
-| --------------- | ------------------------------------------------------------------------------- |
-| `settlement`    | the settlement's name, plain nonempty text                                      |
-| `polity`        | the governing polity, as an address (`affiliation-<shortcode>`) or a plain name |
-| `location`      | the enclosing place, as an address (`place-<shortcode>`)                        |
-| `type`          | `encampment`, `homestead`, `hamlet`, `village`, `town`, `city` or `metropolis`  |
-| `fortification` | optional: `none`, `minimal`, `palisade`, `walled`, `fortress`, or `null`        |
-| `stronghold`    | optional: `fort`, `castle`, `keep`, `fortified manor`, `tower`, or `null`       |
-| `holder`        | who holds the land, as an affiliation or being address, or a plain name         |
-| `population`    | a positive whole number with at most two significant digits                     |
-| `market`        | `international`, `regional`, `local` or `subsistence`                           |
-| `notes`         | short nonempty text saying what distinguishes the settlement                    |
+| Field           | Value                                                                                                |
+| --------------- | ---------------------------------------------------------------------------------------------------- |
+| `settlement`    | the settlement's name, plain nonempty text                                                           |
+| `polity`        | the governing polity, as an address (`affiliation-<shortcode>`) or a plain name                      |
+| `location`      | the enclosing place, as an address (`place-<shortcode>`)                                             |
+| `type`          | `encampment`, `homestead`, `hamlet`, `village`, `town`, `city` or `metropolis`                       |
+| `fortification` | optional: `none`, `minimal`, `palisade`, `walled`, `fortress`, or `null`                             |
+| `stronghold`    | optional: `fort`, `castle`, `keep`, `fortified manor`, `tower`, or `null`                            |
+| `holder`        | who holds the land, as an affiliation or being address, or a plain name                              |
+| `population`    | a `{actual, apparent?}` map; `actual` is a positive whole number with at most two significant digits |
+| `market`        | `international`, `regional`, `local` or `subsistence`                                                |
+| `notes`         | short nonempty text saying what distinguishes the settlement                                         |
 
 `stronghold` names a kind of building and is never an address. A settlement that
 is listed twice, or listed and also given a note, is an error. A list has no
@@ -449,9 +449,13 @@ values above. A populated settlement note requires `type`, `market`, `notes` and
 a `government` that resolves to a polity.
 
 **A polity states two populations, and they count different people.**
-`data.population` is the membership: the people who belong to the body, stated as `{actual, apparent?}`.
-`data.territorial_population`, in the same map form, is the inhabitants of the land it governs, whoever
-they belong to. A polity with settlements, a seat or subordinate polities
+`data.population` is the membership: the people who belong to the body.
+`data.territorial_population` is the inhabitants of the land it governs, whoever
+they belong to. Both are closed `{actual, apparent?}` maps, as is a settlement row's
+`population`. `actual` is the figure the checks read. `apparent` is what public
+output shows: omitting it shows `actual`, and an explicit `apparent: null` makes the
+figure publicly unknown. Public SQL reads `.apparent`. The rules are in
+`package-build/docs/authoring/frontmatter.md`, under "Population figures". A polity with settlements, a seat or subordinate polities
 requires the territorial figure. The listed and noted settlements throughout its
 subordinate chain must not exceed it, a seat counts once, and a subordinate
 polity's territorial total is never added to the settlement sum. Settlements of
@@ -1402,7 +1406,7 @@ data:
   demonym: null # specify if able
   lore: []
   parents: [] # shortcode of the place or polity this one sits within
-  population: 0 # 0 where nobody lives there, which is usual
+  population: {actual: 0} # 0 where nobody lives there, which is usual
   packFolder: ""  # must be specified
 ---
 
