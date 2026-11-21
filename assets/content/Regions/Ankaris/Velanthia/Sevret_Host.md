@@ -68,7 +68,7 @@ data:
       market: subsistence
       notes: "A honey-and-barley village on the pass road."
   economy: []
-  lore: [humanflk]
+  lore: [humanflk, hostsforpay]
   parents: [prncdmzhtvsh]
   relations: {prncdmzhtvsh: aligned}
   packFolder: velanthia
@@ -89,7 +89,7 @@ The passes are the Host's work and its worry. Marauders come down from the minin
 
 ## History {#history}
 
-The Host grew from the drovers' escorts that guarded the grain road, and took its first ataman from among them.
+The Host grew from the drovers' escorts that guarded the grain road, and took its first ataman from among them ([[lore-hostsforpay|The Hosts Take Pay]]).
 
 ## See Also {#see-also}
 

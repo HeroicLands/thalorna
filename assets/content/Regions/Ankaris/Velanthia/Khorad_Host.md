@@ -68,7 +68,7 @@ data:
       market: subsistence
       notes: "A well village on the grass."
   economy: []
-  lore: [humanflk, thrdorqwnq]
+  lore: [humanflk, thrdorqwnq, hostsforpay]
   parents: [prncdmzhtvsh]
   relations: {prncdmzhtvsh: aligned, sqrtrtrb: rival}
   packFolder: velanthia
@@ -89,7 +89,7 @@ The Host has told the river communities on the frontier to stop paying the tribe
 
 ## History {#history}
 
-The Host's grass was overrun by the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), and its settlers returned to it afterward, with their founding line intact.
+The Host's grass was overrun by the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), and its settlers returned to it afterward, with their founding line intact ([[lore-hostsforpay|The Hosts Take Pay]]).
 
 ## See Also {#see-also}
 
