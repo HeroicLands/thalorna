@@ -12,7 +12,7 @@ data:
   routes:
     - {to: batarencity, bearing: S, mode: land, days: 5, terrain: [forest, road]}
     - {to: darvenaroad, bearing: S, mode: land, days: 3, terrain: [forest, road]}
-  population: 3400
+  population: {actual: 3400}
   market: local
   type: town
   packFolder: elavendre

@@ -33,7 +33,7 @@ data:
           Leads the order's defense of Svartbrandur's forge-hovs and his followers.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

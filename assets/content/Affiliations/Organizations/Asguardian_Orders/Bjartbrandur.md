@@ -33,7 +33,7 @@ data:
           Leads the order's fighters, the one body in Bjart's service built for battle.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

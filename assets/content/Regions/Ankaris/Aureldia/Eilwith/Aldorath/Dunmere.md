@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [aldorvale]
-  population: 20000
+  population: {actual: 20000}
   market: regional
   type: city
   packFolder: eilwith

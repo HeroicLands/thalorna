@@ -26,7 +26,7 @@ data:
           Goes into the necropoli after what they still hold, for scholarship or for sale.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [hylen]
-  population: 5000
+  population: {actual: 5000}
   market: regional
   type: town
   packFolder: vylaria

@@ -9,7 +9,7 @@ data:
   demonym: Galváreni
   lore: [humanflk]
   parents: [tarvenirgn]
-  population: 1000000
+  population: {actual: 1000000}
   borders: [{to: leonrik, bearing: E}, {to: vylarianse, bearing: S}, {to: provenzrgn, bearing: W}]
   packFolder: tarvenia
   government: kngdmglvrn

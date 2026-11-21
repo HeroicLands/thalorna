@@ -51,7 +51,7 @@ data:
       Cult-Priest of an Offering-Chapel: >-
         Endowed to lay bread and beer and say the rites at a tomb's offering-chapel. The endowment is the tomb's true defense: where a cult dwindles or a line is forgotten, decay creeps in—and those are exactly the reaches where the tomb-robbers work.
   seat: khelzuret
-  population: null
+  population: {actual: null}
   economy: [affiliation-garhalzi]
   lore: [hezmuiridty]
   parents: [khelathpnthn]

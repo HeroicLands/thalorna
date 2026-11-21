@@ -47,7 +47,7 @@ data:
       Keeper of the Paddle: >-
         Keeps the Paddle of Shiyawkal in the brotherhood's house at Kulaiwil and hears each new brother's oath on it.
   seat: kulaywil
-  population: null
+  population: {actual: null}
   economy: []
   lore: [shuqashclt]
   parents: [shuqash]

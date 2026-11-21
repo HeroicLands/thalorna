@@ -54,7 +54,7 @@ data:
       Fitter of Expeditions: >-
         Held by a Master. Arranges a licensed expedition's license, its crown's guides and its hired guards, and sees to its supplies.
   seat: beravel
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

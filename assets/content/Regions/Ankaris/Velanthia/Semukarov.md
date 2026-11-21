@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [velanthrgn]
-  population: 400
+  population: {actual: 400}
   government: sqrtrtrb
   type: village
   fortification: none

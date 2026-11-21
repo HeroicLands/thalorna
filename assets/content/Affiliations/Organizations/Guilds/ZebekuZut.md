@@ -27,7 +27,7 @@ data:
           Belongs to a trading house participating in the alliance's mutual protection, shared intelligence and collective negotiation.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

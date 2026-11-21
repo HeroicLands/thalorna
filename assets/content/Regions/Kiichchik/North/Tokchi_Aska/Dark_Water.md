@@ -10,7 +10,7 @@ data:
   demonym: Tokchili
   lore: [tokchiliclt]
   parents: [tokchiaskargn]
-  population: 50000
+  population: {actual: 50000}
   packFolder: tokchiaska
   government: tokchiaska
 

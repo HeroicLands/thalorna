@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [linmutselat]
-  population: 4500
+  population: {actual: 4500}
   type: town
   market: local
   packFolder: regkhsett

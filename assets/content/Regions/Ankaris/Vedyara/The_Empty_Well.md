@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A great lineage's well on the eastern plateau, filled with stones by its own keepers about 440 AF when the crown failed to defend it, among the abandoned well-villages of the dead droveway the Empty Circuit left."
 tags: [inland, ruin]
-data: {demonym: null, lore: [], parents: [vandyabhumi], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [vandyabhumi], population: {actual: null}, packFolder: vedyara}
 ---
 
 **Shunyakupa**, the empty well, is a great lineage's well on the eastern edge of [[place-vandyabhumi|Vandyabhumi]], and it has had no water in it for nearly three centuries. About 440 AF a raid out of the river country took the lineage's wells and the king of [[affiliation-gomarga|Gomarga]] did not ride to defend them. The lineage filled this well with stones so the raiders could not water at it, and walked its herds off the plateau ([[lore-emptycrct|the Second Breaking and the Empty Circuit]]).

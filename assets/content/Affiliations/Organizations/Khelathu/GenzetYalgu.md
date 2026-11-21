@@ -26,7 +26,7 @@ data:
           Seated in the court's hidden body, trading influence and favor out of the Gar-Au's hearing.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

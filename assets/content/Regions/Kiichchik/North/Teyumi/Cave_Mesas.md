@@ -10,7 +10,7 @@ data:
   demonym: Teyumi
   lore: [teyumiclt]
   parents: [teyumirgn]
-  population: 45000
+  population: {actual: 45000}
   packFolder: teyumi
   government: teyumi
 

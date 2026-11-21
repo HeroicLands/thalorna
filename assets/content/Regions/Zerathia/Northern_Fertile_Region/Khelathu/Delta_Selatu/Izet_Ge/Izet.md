@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [izetgenome]
-  population: 45000
+  population: {actual: 45000}
   type: city
   market: regional
   packFolder: regkhsett

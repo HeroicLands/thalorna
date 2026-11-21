@@ -41,7 +41,7 @@ data:
         The rider who goes each autumn to the frontier communities to take the year's silver, with enough riders behind him to make the asking plain.
       Bride-Speaker: The elder who makes the tribe's marriages into the headmen's houses across the frontier.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

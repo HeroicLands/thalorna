@@ -48,7 +48,7 @@ data:
       Initiator: >-
         Conductor of the ordeal, conducted in the tree's shade over the course of a full day.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [baobablobwezispr, nyalbsprts]
   parents: [nyalbpnthn]

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
-  population: 0
+  population: {actual: 0}
   packFolder: nordlands
   notes: "A northern realm once beset by a blight no healer could cure, lifted by Rilthorv Runaskald's rune and Odvar's verses."
 ---

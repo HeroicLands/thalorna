@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [wejai]
-  population: 2200
+  population: {actual: 2200}
   market: regional
   type: town
   government: wejaidmn

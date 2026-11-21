@@ -46,8 +46,8 @@ data:
       Ghimarir: "Patron of a gymnasium who pays for its benches and its lecturers' fees from his own purse; the office is an honor that costs the holder money and is remembered at the council table."
       Strátimor: "Elected commander of the forces of Thirenae by land and sea."
   seat: thyrenae2
-  population: 230000
-  territorial_population: 230000
+  population: {actual: 230000}
+  territorial_population: {actual: 230000}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

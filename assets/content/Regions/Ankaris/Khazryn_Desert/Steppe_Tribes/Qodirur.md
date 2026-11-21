@@ -41,7 +41,7 @@ data:
       War Captain: Leader of the warband, chosen by the dovaq.
       Escort: Rider sent with a caravan on the southern spur that has bought the tribe's escort.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

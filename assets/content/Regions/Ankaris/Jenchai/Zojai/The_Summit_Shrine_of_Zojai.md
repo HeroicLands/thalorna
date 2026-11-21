@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [zojai]
-  population: 0
+  population: {actual: 0}
   packFolder: jenchai
   government: jenchaiempr
 ---

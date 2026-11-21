@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The castle of the kings of Asturath on its knob of rock at the north end of Lezkora, behind its own wall, where the council of mountain lords meets each autumn and grips a new king's forearm at its oath stone."
 tags: [castle, fortress, mountain]
-data: {demonym: null, lore: [], parents: [lezkora], population: null, packFolder: tarvenia}
+data: {demonym: null, lore: [], parents: [lezkora], population: {actual: null}, packFolder: tarvenia}
 ---
 
 ## Overview {#overview}

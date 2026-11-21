@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The old city of Vahurdash, given to the sand by a drought in the deep past: streets of roofless houses and open cellars under and around the settlement that has been reclaimed among them."
 tags: []
-data: {demonym: null, lore: [], parents: [swoasisbelt], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [swoasisbelt], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 ## Overview {#overview}

@@ -52,7 +52,7 @@ data:
       Sea Warden: >-
         Wards a coast's hov, blessing ships and guiding sailors under Thrunvald's dominion over the sea.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [thrunvalddty]
   parents: [asguardian]

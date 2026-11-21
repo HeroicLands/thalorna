@@ -39,7 +39,7 @@ data:
       Herald of the Palor: >-
         Held by a Herald. Receives the embassies of the Palace District for the throne and keeps their precedence at court.
   seat: arvon
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [imperialoffices]

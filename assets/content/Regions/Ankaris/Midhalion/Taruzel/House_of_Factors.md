@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The tall white tower and hall on the headland above Sazumun's harbor, where the merchant guilds' councils meet and govern the city, the tariff schedule hangs in the arcade, and the Harbor Master's flag decides which ship may cross the bar."
 tags: [taruzel, hall, guild]
-data: {demonym: null, lore: [], parents: [sazumun2], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [sazumun2], population: {actual: 0}, packFolder: taruzel}
 ---
 
 ## Overview {#overview}

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [bethuargn]
-  population: 4000
+  population: {actual: 4000}
   type: town
   market: regional
   packFolder: bethua

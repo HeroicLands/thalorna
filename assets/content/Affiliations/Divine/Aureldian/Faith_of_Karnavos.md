@@ -42,7 +42,7 @@ data:
       Acolyte of the Threshold: >-
         An initiate attached to a single teacher rather than to the faith at large.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [karnavosdty]
   parents: [arldnpnthn]

@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The Vilérian-built, Taruzelian-held fortress on the cliffs of Yamuzel that commands the narrows of the Taruzelian archipelago, where every passing hull is logged and every convoy forms under its walls."
 tags: [taruzel, yamuzel, fortress]
-data: {demonym: null, lore: [], parents: [yamuzel2], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [yamuzel2], population: {actual: 0}, packFolder: taruzel}
 ---
 
 ## Overview {#overview}

@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "A stone fort of the paid wardens above a river that leaves the Grukar country, whose bell and signal fire warn the villages when canoes come down."
 tags: [river, frontier, velanthia]
-data: {demonym: null, lore: [], parents: [velanthrgn], population: 0, packFolder: velanthia}
+data: {demonym: null, lore: [], parents: [velanthrgn], population: {actual: 0}, packFolder: velanthia}
 ---
 
 ## Overview {#overview}

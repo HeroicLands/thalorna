@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [pshtrwldrns]
-  population: null
+  population: {actual: null}
   packFolder: eilwith
   culture: aelwythanclt
 ---

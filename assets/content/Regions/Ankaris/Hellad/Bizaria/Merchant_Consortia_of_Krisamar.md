@@ -24,8 +24,8 @@ data:
           Lives and trades in Krisamar among its consortia.
     offices: {}
   seat: chrysamar
-  population: null
-  territorial_population: 4500
+  population: {actual: null}
+  territorial_population: {actual: 4500}
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

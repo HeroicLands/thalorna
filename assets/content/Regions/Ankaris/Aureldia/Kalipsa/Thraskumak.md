@@ -32,7 +32,7 @@ data:
       Head of Thraskumak: >-
         Held by one Of the Line. Holds the house's seat on the Captains' Council, its yards and its hulls, and signs every contract the yards take.
   seat: calypsacity
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [calypsa]

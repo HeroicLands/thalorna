@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [kuxiixbalrgn]
-  population: 1000
+  population: {actual: 1000}
   market: local
   type: town
   government: kuxiixbal

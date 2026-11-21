@@ -14,7 +14,7 @@ data:
     - {to: ironfells, bearing: E}
     - {to: aldorathrgn, bearing: SE}
     - {to: eilissa, bearing: S}
-  population: 150000
+  population: {actual: 150000}
   packFolder: eilwith
   government: jrldmstrmvld
   culture: nordheimnclt

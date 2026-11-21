@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The reputed heart of the waste and the place it is named for: a plain of black glass, warm at night, that no two returners place in the same direction."
 tags: [site, waste]
-data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

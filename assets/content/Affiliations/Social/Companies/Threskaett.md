@@ -26,7 +26,7 @@ data:
           Serves in the company's ships.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

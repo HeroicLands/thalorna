@@ -36,7 +36,7 @@ data:
       Rector: >-
         Held by a Master of Law, chosen by the masters for life. Keeps the academy's roll and its charter, licenses advocates on the masters' vote, and carries the academy's opinions to the Justiciar.
   seat: aureliane
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

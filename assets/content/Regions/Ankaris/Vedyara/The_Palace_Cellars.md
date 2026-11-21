@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The cellars of the royal palace of the Kingdom of Mahanodi, open to the sky at the north end of Rajepur since the sabhra pulled the building down."
 tags: [ruin, river, inland]
-data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [rajepurjnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 **The Palace Cellars** are what is left of the royal palace of [[lore-mhndkngdm|the Kingdom of Mahanodi]], at the north end of [[place-rajepur|Rajepur]]. The sabhra that dissolved the kingdom demolished the building and gave its stones to the enlargement of the great [[affiliation-vyalendra|Vyalendra]] temple. Nothing was left standing above the foundation courses.

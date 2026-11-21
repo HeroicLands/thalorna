@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The last three hundred miles of the Grazian range, where the wall comes apart into dry foothills above the Dunhari desert-margin—the one stretch a caravan crosses without a guide."
 tags: [mountain, frontier, inland]
-data: {demonym: null, lore: [], parents: [graznmntns], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [graznmntns], population: {actual: null}, packFolder: vedyara}
 ---
 
 **The Western Descent** is where [[place-graznmntns|the Grazian Mountains]] stop being a wall. The ridges drop, the glaciers give out, and the range breaks into a belt of brown foothills between the oasis-belt to the north and the north-western marches of the [[place-vedyarargn|Vedyara Region]] to the south before running out altogether in the desert-margin of [[place-dunharargn|Dunhara]].

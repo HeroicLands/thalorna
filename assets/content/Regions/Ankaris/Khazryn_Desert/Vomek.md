@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A lush oasis of sweet water and heavy palms beside the Celestial Road where nobody camps, about 312 AF the ground on which a rising orghun broke the last tribe that refused him: a moderate blood-field of the quickening kind, where everything grows too well and sleepers dream the battle."
 tags: []
-data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [hskrrgn], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 ## Overview {#overview}

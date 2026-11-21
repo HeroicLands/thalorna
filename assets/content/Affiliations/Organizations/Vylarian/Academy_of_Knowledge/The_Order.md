@@ -48,7 +48,7 @@ data:
       Zetmarendos: >-
         Elected by the holmarendoi for life, presiding over the Verdan Maldor and speaking for the Order to foreign powers.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

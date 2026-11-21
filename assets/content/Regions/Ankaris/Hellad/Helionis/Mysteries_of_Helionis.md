@@ -30,7 +30,7 @@ data:
           One admitted to a mystery cult, who receives its deeper knowledge by revelation in stages and keeps it from those outside.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [zunelasdty]
   parents: [arldnpnthn]

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [chendrapur2]
-  population: null
+  population: {actual: null}
   packFolder: vedyara
   government: chendrapur
 ---

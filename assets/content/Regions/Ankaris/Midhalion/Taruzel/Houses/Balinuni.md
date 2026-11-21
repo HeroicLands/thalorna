@@ -40,7 +40,7 @@ data:
       Factor of the Shore: >-
         Held by Kin of the House. Goes over the strait to meet the caravans on the Amradi shore and offers their masters the house's silver for a share.
   seat: qudumel2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [qudumel]

@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "Solrún's region of Asguard, the open field taking the other half of the honored dead, with the hall of the same name at its head."
 tags: [asguardian]
-data: {demonym: null, lore: [], parents: [asguard], population: null, packFolder: settinglore}
+data: {demonym: null, lore: [], parents: [asguard], population: {actual: null}, packFolder: settinglore}
 ---
 
 In the Asguardian tradition, Solvangur is [[lore-solrundty|Solrún]]'s region of [[place-asguard|Asguard]], and the destination of the half of the honored dead who do not go to [[place-valsal|Valsal]]. The field is Solvangur and the hall at the head of it is [[place-solvangurhall|Sólrunsholl]].

@@ -9,7 +9,7 @@ data:
   demonym: Vandhyan
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 1200000
+  population: {actual: 1200000}
   packFolder: vedyara
   government: gomarga
 

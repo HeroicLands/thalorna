@@ -26,7 +26,7 @@ data:
           Practices without a great house's patronage, and keeps faith with the alliance after winning one.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

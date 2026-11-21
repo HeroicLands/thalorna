@@ -72,7 +72,7 @@ data:
       Youbwi: >-
         Youbwi—The Keeper of the Jade Seal—the being this bureau or cultus is organized around.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [youweidty]
   parents: [tengwouronglei]

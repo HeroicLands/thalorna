@@ -76,7 +76,7 @@ data:
       Keeper of the Healing Archives: >-
         Maintains the accumulated record of treatments and outcomes that makes this branch the most advanced practitioners of medicine on the continent.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [xaqikhanaldty]
   parents: [itzanpnthn]

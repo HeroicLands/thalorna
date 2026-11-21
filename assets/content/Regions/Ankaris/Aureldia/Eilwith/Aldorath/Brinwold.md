@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [aldorathrgn]
   borders: [{to: aldorvale, bearing: SE}]
-  population: 26000
+  population: {actual: 26000}
   government: kngdmldrth
   packFolder: eilwith
 ---

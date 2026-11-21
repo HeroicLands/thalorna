@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [sorvanda]
-  population: 0
+  population: {actual: 0}
   packFolder: elavendre
   culture: elavendriclt
 ---

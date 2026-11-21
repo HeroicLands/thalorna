@@ -34,7 +34,7 @@ data:
           The head of the college, convened with the heads of the other colleges in the Epistémion's common assembly.
     offices: {}
   seat: thyrenae2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [panepistmm]

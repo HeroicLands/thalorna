@@ -35,7 +35,7 @@ data:
       Chief Factor: >-
         Held by one Of the Household, usually a freedman. Buys the house's grain on the Hilen estates, sees it weighed at Aravantara and sold into the state granaries at Orzara.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [amradadrgn]
-  population: 4000
+  population: {actual: 4000}
   market: local
   type: town
   fortification: walled

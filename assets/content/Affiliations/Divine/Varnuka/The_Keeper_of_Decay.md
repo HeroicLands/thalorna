@@ -35,7 +35,7 @@ data:
       The Walk of the Empty House: >-
         Three days of silent witness inside a house emptied by death or dissolution, before the property passes to its new keeping.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [vahratidty]
   parents: [vrnkpnthn]

@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The great river of Élavendre—rising in the northwestern uplands and running southwest across the heartland to the sea, navigable past the capital that is named for it."
 tags: [river, inland]
-data: {demonym: null, lore: [], parents: [ellive], population: null, packFolder: elavendre}
+data: {demonym: null, lore: [], parents: [ellive], population: {actual: null}, packFolder: elavendre}
 ---
 
 The **Berav** is [[place-elavendre|Élavendre]]'s principal river and the axis of [[place-ellive|Éllive]]. It rises in the

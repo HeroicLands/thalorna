@@ -33,7 +33,7 @@ data:
           Leads the order's assassins, choosing killings for the chaos and fear they spread as much as for the target.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

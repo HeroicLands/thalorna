@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [teyumiclt]
   parents: [teyumirgn]
-  population: 1000
+  population: {actual: 1000}
   type: town
   market: local
   government: teyumi

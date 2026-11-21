@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: []
-  population: null
+  population: {actual: null}
   packFolder: nordlands
   culture: nordheimnclt
 ---

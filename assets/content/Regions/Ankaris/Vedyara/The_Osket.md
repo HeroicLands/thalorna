@@ -57,8 +57,8 @@ data:
       Fee-reckoner: >-
         Setter of a season's price against a caravan's worth, and keeper of what is owed between lineages.
   seat: oskhelt
-  population: 21000
-  territorial_population: 21000
+  population: {actual: 21000}
+  territorial_population: {actual: 21000}
   economy: [lore-bartercnmy]
   lore: [osketclt]
   parents: []

@@ -30,7 +30,7 @@ data:
           Answers at law for the house, and for every smith it vouches for.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

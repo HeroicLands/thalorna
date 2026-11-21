@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A terraced house of many rooms on a rock island in the southern salt flats of Ch'akul Tsa'kul, grown over with salt crystal like frost, whose rooms keep cloth, baskets and seated dead as the salt found them."
 tags: [site, desert, ruin, salt]
-data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
+data: {demonym: null, lore: [], parents: [chakultzklrgn], population: {actual: 0}, packFolder: chakultzakul}
 ---
 
 ## Overview {#overview}

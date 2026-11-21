@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [dovettm]
   parents: [skathwald]
-  population: 290
+  population: {actual: 290}
   market: local
   type: village
   government: vrystwldvlgcncl

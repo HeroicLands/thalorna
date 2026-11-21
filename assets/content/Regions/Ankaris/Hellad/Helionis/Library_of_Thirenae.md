@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The great library of Thirenae, said to hold more manuscripts than any collection outside the Empire of Au'Khelathu, which stands whole among the colleges and is the reason Thirenae still teaches."
 tags: [library, helionis, hellad]
-data: {demonym: null, lore: [], parents: [thyrenae2], population: 0, packFolder: helionis}
+data: {demonym: null, lore: [], parents: [thyrenae2], population: {actual: 0}, packFolder: helionis}
 ---
 
 ## Overview

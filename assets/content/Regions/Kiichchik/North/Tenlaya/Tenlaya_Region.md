@@ -10,7 +10,7 @@ data:
   demonym: Tenlaya
   lore: [tenlayaclt]
   parents: [northkiichchik]
-  population: 300000
+  population: {actual: 300000}
   packFolder: tenlaya
   government: tenlaya
 

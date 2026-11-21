@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The hall on Kalipsa's quay where the arbitrators of the Sea-Law hear disputes over ships, cargoes and bonds, and whose verdicts, binding nobody outside the city, are honored across half the northern shipping world."
 tags: [hall, port]
-data: {demonym: null, lore: [], parents: [calypsacity], population: null, packFolder: calypsa}
+data: {demonym: null, lore: [], parents: [calypsacity], population: {actual: null}, packFolder: calypsa}
 ---
 
 ## Overview {#overview}

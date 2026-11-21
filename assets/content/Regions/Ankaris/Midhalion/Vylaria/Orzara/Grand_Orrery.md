@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The Mechanical Court in a hall of the Grand Palace of Orzara: an arcane clockwork pageant of legions, provinces and Orzoi kept by the Thordimalon, shown to every embassy, and costing a line of the imperial accounts that nobody is shown."
 tags: [vylaria, orzara, imperial]
-data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder: vylaria}
+data: {demonym: null, lore: [], parents: [orzara], population: {actual: null}, packFolder: vylaria}
 ---
 
 ## Overview {#overview}

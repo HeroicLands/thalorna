@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [stormplain]
   routes: [{to: stormveil, bearing: E, mode: land, days: 3, terrain: [plain]}]
-  population: 2500
+  population: {actual: 2500}
   market: local
   type: town
   packFolder: eilwith

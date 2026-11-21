@@ -12,7 +12,7 @@ data:
   routes:
     - {to: gefavelcstl, bearing: S, mode: land, days: 5, terrain: [mountains, track]}
     - {to: hidralza, bearing: S, mode: land, days: 3, terrain: [mountains, track]}
-  population: 180000
+  population: {actual: 180000}
   government: kngdmlvndr
   packFolder: elavendre
 ---

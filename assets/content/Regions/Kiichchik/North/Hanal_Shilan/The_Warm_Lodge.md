@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [hanalxilan2]
-  population: 0
+  population: {actual: 0}
   government: hanalxilanmktcncl
   packFolder: hanalxilan
 ---

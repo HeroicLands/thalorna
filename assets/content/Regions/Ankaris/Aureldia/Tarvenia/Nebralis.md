@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [tarvenirgn]
-  population: 6000
+  population: {actual: 6000}
   market: international
   type: town
   government: cnclnbrls

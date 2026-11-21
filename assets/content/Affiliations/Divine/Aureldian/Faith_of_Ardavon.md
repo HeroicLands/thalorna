@@ -56,7 +56,7 @@ data:
       Volgel: >-
         The faith's knightly order.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [ardavondty]
   parents: [arldnpnthn]

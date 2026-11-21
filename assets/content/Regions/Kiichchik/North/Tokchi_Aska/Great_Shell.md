@@ -10,7 +10,7 @@ data:
   demonym: Koyoli
   lore: [tokchiliclt]
   parents: [koyalorgn]
-  population: 5000
+  population: {actual: 5000}
   type: town
   market: regional
   government: tokchiaska

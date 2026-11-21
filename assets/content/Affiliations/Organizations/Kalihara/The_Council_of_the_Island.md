@@ -46,7 +46,7 @@ data:
       Envoy: >-
         Held by a Councilor. Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.
   seat: ilovanu
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [kalihara]

@@ -30,7 +30,7 @@ data:
           Holds mastery of the house and lends its name to the ventures it expects to profit by.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

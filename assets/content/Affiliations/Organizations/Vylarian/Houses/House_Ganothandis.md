@@ -35,7 +35,7 @@ data:
       Steward of Olkassa: >-
         Held by one Of the Household. Runs the Olkassa estate, its tenants and its harvest, and keeps the gate against anyone the master has not admitted.
   seat: aravantia
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -30,7 +30,7 @@ data:
           Head of the Qelt'Lefetu and of the trade network the company runs.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

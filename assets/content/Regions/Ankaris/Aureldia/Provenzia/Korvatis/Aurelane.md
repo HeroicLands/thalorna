@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [korvathis]
   routes: [{to: lizela, bearing: S, mode: land, days: 1, terrain: [hills, road]}]
-  population: 30000
+  population: {actual: 30000}
   market: regional
   type: city
   government: kngdmprvnz

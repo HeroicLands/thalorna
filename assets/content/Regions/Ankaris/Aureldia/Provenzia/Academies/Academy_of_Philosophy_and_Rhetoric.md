@@ -36,7 +36,7 @@ data:
       Rector: >-
         Held by a Master, chosen by the masters for life. Keeps the academy's roll and its charter, sends down the unruly, and answers for the academy to the crown and to the city of Aurelane.
   seat: aureliane
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

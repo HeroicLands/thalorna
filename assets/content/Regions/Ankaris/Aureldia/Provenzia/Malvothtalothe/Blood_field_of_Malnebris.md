@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The blood-field of the eastern frontier—a recurrence that replays every campaign season, and the only one in Provénzia still being added to."
 tags: [frontier, mountain]
-data: {demonym: null, lore: [], parents: [talothe], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [talothe], population: {actual: null}, packFolder: provenzia}
 ---
 
 High on the Tarvénian frontier, where the passes come down out of the cold mountains, lies the

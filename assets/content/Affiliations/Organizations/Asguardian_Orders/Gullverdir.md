@@ -33,7 +33,7 @@ data:
           Leads the order's keeping of Solrún's temples, seeing them stay prosperous and well kept.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

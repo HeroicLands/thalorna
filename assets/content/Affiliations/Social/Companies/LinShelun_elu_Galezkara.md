@@ -34,7 +34,7 @@ data:
       Director: >-
         Directs a production on the company's stage.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

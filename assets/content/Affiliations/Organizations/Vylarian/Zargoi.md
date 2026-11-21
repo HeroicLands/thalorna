@@ -40,7 +40,7 @@ data:
       First Driver: >-
         Held by a Brother of the Stand. Drives the Irons' best team in every great race, and is the most famous man in the Warrens while he lives.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The holiest site in Kì'ìch'chik: the walled precinct at the heart of Kul'taq'an around the volcanic vent where P'iqal Kul'qat first breathed the world into being, crowned by the Ts'ultel Ch'alish and seat of the Q'emul Tq'an."
 tags: []
-data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 0, packFolder: ixilankul}
+data: {demonym: null, lore: [], parents: [ixilankulrgn], population: {actual: 0}, packFolder: ixilankul}
 
 # terran_analog: the walled ceremonial precinct of Tenochtitlan and the pilgrim hostels of the Andean shrine at Pachacamac
 ---

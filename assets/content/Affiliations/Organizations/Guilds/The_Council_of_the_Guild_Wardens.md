@@ -42,7 +42,7 @@ data:
       Zuvarum: >-
         One of the five city deputies—the provincial deputies, one per major Taruzelian state, who administer the Vezakuni's operations in their cities and report to the Dirabum.
   seat: besikar2
-  population: null
+  population: {actual: null}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

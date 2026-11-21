@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [ondareth]
   routes: [{to: stonyford, bearing: E, mode: land, days: 3, terrain: [hills, plain]}]
-  population: 14000
+  population: {actual: 14000}
   market: international
   type: city
   packFolder: eilwith

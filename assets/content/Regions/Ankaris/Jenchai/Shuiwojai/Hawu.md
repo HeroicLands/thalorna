@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [rojai]
-  population: 7500
+  population: {actual: 7500}
   market: international
   type: town
   government: shuiwojaidmn

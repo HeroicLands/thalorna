@@ -41,7 +41,7 @@ data:
       Marker: The tattooer who marks each child with the beasts of its line.
       War Captain: Leader of the riders sent after a debt, held by whoever the riders follow.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

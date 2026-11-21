@@ -9,7 +9,7 @@ data:
   demonym: Ezkoban
   lore: []
   parents: [galvaren]
-  population: 2500
+  population: {actual: 2500}
   market: regional
   type: town
   packFolder: tarvenia

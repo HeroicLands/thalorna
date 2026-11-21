@@ -31,8 +31,8 @@ data:
       Keeper of the Basin: >-
         Holder of the basin and of the order in which hunters, trackers and their animals water, whose word keeps the peace of the camp at the water under the Laws of the Well.
   seat: kherzulakhem
-  population: null
-  territorial_population: 400
+  population: {actual: null}
+  territorial_population: {actual: 400}
   economy: []
   lore: [humanflk]
   parents: []

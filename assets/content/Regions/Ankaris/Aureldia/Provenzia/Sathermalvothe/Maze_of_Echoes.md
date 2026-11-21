@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A maze encountered within Úkua-Araelwen, where sound does not behave as it should—the challenge that stands between a party and the Heart of Dirikri."
 tags: [woodland, mountain, inland]
-data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [sathvothe], population: {actual: null}, packFolder: provenzia}
 ---
 
 A maze encountered within [[place-ukuaraelwen|Úkua-Araelwen]], where sound does not behave as it should—the

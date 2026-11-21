@@ -48,7 +48,7 @@ data:
       Chapter Root: >-
         The Dahona-Mulka of a region, on the rare occasions a chapter is settled enough to have one.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [rasikaradty]
   parents: [vrnkpnthn]

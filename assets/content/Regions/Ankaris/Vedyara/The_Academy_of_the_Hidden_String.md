@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The irregular-warfare hall of the bow-fort, which teaches ambush and concealment, recruits with difficulty and refuses any contract it considers dishonorable."
 tags: [hall, military, inland]
-data: {demonym: null, lore: [], parents: [danurkotjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [danurkotjnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 A recruiting officer for one of the patron kingdoms, briefing the junior who will carry his offer to [[affiliation-dnrktjnpd|Danurkot]], puts it this way: "Write the contract as though the master were reading over your shoulder, because he will. He alone decides what is dishonorable, and nobody can overrule him, not the sabhra and not the other three masters."

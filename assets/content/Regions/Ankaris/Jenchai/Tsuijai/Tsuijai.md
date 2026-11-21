@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [jenchairgn]
-  population: 40000 # computed from the people of the domain the mountain carries
+  population: {actual: 40000} # computed from the people of the domain the mountain carries
   government: tsuijaidmn
   packFolder: jenchai
   culture: jenchaiclt

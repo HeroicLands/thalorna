@@ -12,7 +12,7 @@ data:
   routes:
     - {to: kemthoza, bearing: E, mode: land, days: 1, terrain: [mountains, road]}
     - {to: durvalis, bearing: W, mode: land, days: 2, terrain: [mountains, road]}
-  population: null
+  population: {actual: null}
   packFolder: tarvenia
 ---
 

@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The Misty River, the larger of Shelem's two great rivers, whose flooded forest and thousands of kilometers of channels are the realm's roads."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [xelemrgn], population: 0, packFolder: xelem}
+data: {demonym: null, lore: [], parents: [xelemrgn], population: {actual: 0}, packFolder: xelem}
 ---
 
 ## Overview {#overview}

@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The black sea-cliffs of the Galvaren coast north of Durvolka, eighteen miles of sheer rock with seal rocks and sea-caves at their foot, standing stones along their top, and the drowned ruin the fishing towns call the sunken city beneath them."
 tags: [coast]
-data: {demonym: null, lore: [], parents: [galvaren], population: 0, packFolder: tarvenia}
+data: {demonym: null, lore: [], parents: [galvaren], population: {actual: 0}, packFolder: tarvenia}
 ---
 
 ## Overview {#overview}

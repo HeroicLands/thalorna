@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The sea wood of Lirve: old oak and silver birch behind Liranel, cut under the crown's license at its margins and not at all within, sacred ground of the Áelendan kept by the Wardens, where the Wrought Hollow lies."
 tags: [forest, woodland, sacred]
-data: {demonym: null, lore: [], parents: [lirve], population: null, packFolder: elavendre}
+data: {demonym: null, lore: [], parents: [lirve], population: {actual: null}, packFolder: elavendre}
 ---
 
 ## Overview {#overview}

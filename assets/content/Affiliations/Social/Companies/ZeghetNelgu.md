@@ -55,7 +55,7 @@ data:
       Butcher of the Offering: Divider of what is taken between the temples, the selatu and the company.
       Scout of the Marshes: Reader of the herds and the channels, sent ahead of the hunt and often alone.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: []

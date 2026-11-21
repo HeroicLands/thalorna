@@ -39,7 +39,7 @@ data:
       Enforcer: >-
         A discreet and ruthless collector who uses intimidation and, when needed, force.
   seat: besikar2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

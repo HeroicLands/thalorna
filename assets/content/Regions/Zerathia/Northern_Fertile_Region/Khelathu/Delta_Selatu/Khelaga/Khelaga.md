@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [khelagaselat]
-  population: 6000
+  population: {actual: 6000}
   type: town
   market: regional
   packFolder: regkhsett

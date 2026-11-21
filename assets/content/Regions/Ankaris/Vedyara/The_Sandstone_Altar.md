@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The original altar of Vyalendra in the main hall at Rajepur, cut at the founding of the dynastic capital twelve centuries ago and outliving the dynasty by nine hundred years."
 tags: [sacred, river, inland]
-data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [rajepurjnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 **The sandstone altar** in the main hall of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajepur|Rajepur]] is the oldest object in continuous ritual use in the janpoda, by three hundred years. It is the temple's original altar, cut at the founding of the dynastic capital twelve centuries ago: one block, of a workmanship the Rajapuri consider unmatched in the janpoda and possibly in the circuit.

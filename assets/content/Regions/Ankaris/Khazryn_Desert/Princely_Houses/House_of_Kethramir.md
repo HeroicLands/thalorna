@@ -40,7 +40,7 @@ data:
       Copyist of the Court: >-
         Held by one Of the Court. Copies the house's works for the schools of Amradad and the ports, and for the caravans going east.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [khzrncnfdrtn]

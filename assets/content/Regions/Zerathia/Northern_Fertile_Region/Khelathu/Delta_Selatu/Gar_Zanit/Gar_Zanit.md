@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [garzanitselt]
-  population: 34000
+  population: {actual: 34000}
   type: city
   market: regional
   packFolder: regkhsett

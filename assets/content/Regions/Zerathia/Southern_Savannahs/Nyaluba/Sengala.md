@@ -52,7 +52,7 @@ data:
       Griot of the Sengala: >-
         Keeps the leopard genealogies, the clan's bargains and the memory-song of the Night Grass.
   seat: nkabewivlg
-  population: 350000
+  population: {actual: 350000}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk, leopardsengalaspr]
   parents: [nylbtrblntn]

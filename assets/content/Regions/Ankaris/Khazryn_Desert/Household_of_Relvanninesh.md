@@ -36,7 +36,7 @@ data:
       Steward: >-
         A servant of the house who keeps the gate and the table, welcomes every guest, gives water and a seat, and asks nothing, as the law of the guest requires.
   seat: relvanninel
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [khzrncnfdrtn]

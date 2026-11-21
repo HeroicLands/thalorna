@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [centralkiichchik]
-  population: null
+  population: {actual: null}
   packFolder: ixilankul
   government: ixilankul
 

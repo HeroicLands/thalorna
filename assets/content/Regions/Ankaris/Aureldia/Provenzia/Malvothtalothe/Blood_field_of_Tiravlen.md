@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A recurrent blood-field on the shore of Lake Tiravel, where the battle replays over the water on the anniversary and the lakeside villages have made an observance of staying indoors."
 tags: [lakeside, inland]
-data: {demonym: null, lore: [], parents: [tiravellake], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [tiravellake], population: {actual: null}, packFolder: provenzia}
 ---
 
 On the shore of [[place-tiravellake|Lake Tiravel]], which gives it its name, lies the second of

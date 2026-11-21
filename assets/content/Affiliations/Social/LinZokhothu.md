@@ -26,7 +26,7 @@ data:
           One of the retired master's children, holding that the craft should have passed to them.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

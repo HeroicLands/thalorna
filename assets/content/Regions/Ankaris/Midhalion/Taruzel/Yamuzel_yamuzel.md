@@ -53,8 +53,8 @@ data:
       Harbormaster: >-
         Held by a Captain named by the council. Keeps the port, its pilots and the order of ships at the Fleet Review.
   seat: yamuzel2
-  population: 2200000
-  territorial_population: 2200000
+  population: {actual: 2200000}
+  territorial_population: {actual: 2200000}
   economy: [affiliation-tarmex, lore-trzlncrncy]
   lore: [humanflk]
   parents: [cnfdrtntrzlnstts]

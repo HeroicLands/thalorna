@@ -74,7 +74,7 @@ data:
       Warden of the Sealed Chambers: >-
         Keeps, in each city's binding temples, the serpent-skin calculation of the age's ending and the account of the south written beside it.
   seat: tzomalchalix
-  population: null
+  population: {actual: null}
   economy: []
   lore: [chumtsena, itsaniclndr]
   parents: [itzanpnthn]

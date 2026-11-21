@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [zebtrelptslt]
-  population: 28000
+  population: {actual: 28000}
   type: city
   market: regional
   packFolder: regkhsett

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [helionis]
-  population: 6500
+  population: {actual: 6500}
   market: regional
   type: town
   government: pelagora

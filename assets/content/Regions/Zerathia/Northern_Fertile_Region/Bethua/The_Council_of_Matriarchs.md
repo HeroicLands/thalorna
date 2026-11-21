@@ -25,7 +25,7 @@ data:
         description: >-
           Head of a member House, holding its seat in the Council.
   seat: bethura
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [bthntrdhss]

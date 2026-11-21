@@ -28,7 +28,7 @@ data:
       Zeglar: >-
         Chief minister and supreme judge, who heads the ministry and runs the civil administration of the empire.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

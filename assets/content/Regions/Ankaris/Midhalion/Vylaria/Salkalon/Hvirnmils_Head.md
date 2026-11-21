@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The north headland of Bralvik bay, where a stranded Malagna crew dug in and kept a fire banked through the winter of 523 AF; a grassed hollow, nine rune-stones and the town's sea-mark."
 tags: [coast, headland]
-data: {demonym: null, lore: [bankedfire], parents: [salkhalon], population: 0, packFolder: vylaria}
+data: {demonym: null, lore: [bankedfire], parents: [salkhalon], population: {actual: 0}, packFolder: vylaria}
 ---
 
 ## Overview {#overview}

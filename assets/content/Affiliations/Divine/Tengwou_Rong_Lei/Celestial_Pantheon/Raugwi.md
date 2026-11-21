@@ -72,7 +72,7 @@ data:
       Advocate of the Strike: >-
         Prosecutes a family's appeal that a lightning strike breached the protocols for proportional punishment—a recognized social practice, and usually unsuccessful.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [raoguidty]
   parents: [tengwouronglei]

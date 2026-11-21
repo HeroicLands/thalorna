@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A great ballcourt of red stone in the Thirst, swept clean though nobody keeps it, where at dusk tall players wait to play a challenger for a boon, a life or a name."
 tags: [site, waste, ballcourt]
-data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [thethirst], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

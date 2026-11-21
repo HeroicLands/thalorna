@@ -10,7 +10,7 @@ data:
   demonym: Kelwanuk
   lore: [kelwanukclt]
   parents: [kelwanukrgn]
-  population: 80000
+  population: {actual: 80000}
   packFolder: kelwanuk
   government: kelwanuk
 

@@ -49,8 +49,8 @@ data:
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
   seat: garanlaghet
-  population: 6000000
-  territorial_population: 6000000
+  population: {actual: 6000000}
+  territorial_population: {actual: 6000000}
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [empireakhlth]

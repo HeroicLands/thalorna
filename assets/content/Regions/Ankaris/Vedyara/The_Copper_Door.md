@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]
-  population: null
+  population: {actual: null}
   routes:
     - to: khzryndsrtrgn
       bearing: N

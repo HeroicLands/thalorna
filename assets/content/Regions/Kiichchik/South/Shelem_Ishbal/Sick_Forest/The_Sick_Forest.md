@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "A rotting forest east of the Ash Country, where fungi grow the size of houses, spores bring madness or death, and the valleys glow green at night."
 tags: [region, waste, forest]
-data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: {actual: null}, packFolder: xelemixbal}
 
 # terran_analog: the Chaco and the Atlantic forest of the Paraná basin.
 ---

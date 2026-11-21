@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "A barren tract on the Khazrin's western margin below Bizaria's Eastern March, raided by Black Flame knights and burying the Ruins of Arkor."
 tags: []
-data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [wlqtrrgn], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 ## Overview {#overview}

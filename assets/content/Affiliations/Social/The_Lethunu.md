@@ -28,7 +28,7 @@ data:
       Public Leader: >-
         Speaks for the faction in the guild, first among its members.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

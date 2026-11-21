@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [vardain]
   parents: [ironfells]
-  population: 8500
+  population: {actual: 8500}
   government: vrgldhld
   packFolder: eilwith
 ---

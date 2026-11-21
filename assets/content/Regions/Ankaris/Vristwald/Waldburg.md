@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [dovettm]
   parents: [vrystwldrvrs]
-  population: 800
+  population: {actual: 800}
   market: local
   type: village
   government: vrystwldvlgcncl

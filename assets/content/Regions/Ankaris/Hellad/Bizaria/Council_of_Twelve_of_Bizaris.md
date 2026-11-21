@@ -24,8 +24,8 @@ data:
           Belongs to one of the guilds whose heads sit on the Council of Twelve.
     offices: {}
   seat: byzaris
-  population: null
-  territorial_population: 5000
+  population: {actual: null}
+  territorial_population: {actual: 5000}
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

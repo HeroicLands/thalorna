@@ -25,8 +25,8 @@ data:
           Lives in Marshfeld under its council.
     offices: {}
   seat: marshfeld
-  population: null
-  territorial_population: 300
+  population: {actual: null}
+  territorial_population: {actual: 300}
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

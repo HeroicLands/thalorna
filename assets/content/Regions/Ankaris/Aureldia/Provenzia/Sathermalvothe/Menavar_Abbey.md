@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The ruined abbey of Satvote—once a center of Aureldian learning, sacked in the Nordheim raids and never refounded, holding a healing relic that four parties want and that no expedition has yet come back with."
 tags: [sacred, inland]
-data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [sathvothe], population: {actual: null}, packFolder: provenzia}
 ---
 
 Ménavar was once a center of Aureldian learning and spiritual practice—a great house honoring the

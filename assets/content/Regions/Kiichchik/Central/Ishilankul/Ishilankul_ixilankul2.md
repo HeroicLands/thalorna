@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ixilankulrgn]
-  population: 11000
+  population: {actual: 11000}
   type: city
   market: regional
   government: ixilankul

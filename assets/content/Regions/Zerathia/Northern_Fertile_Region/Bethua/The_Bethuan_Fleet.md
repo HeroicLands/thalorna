@@ -52,7 +52,7 @@ data:
       Prize-Court Assessor: >-
         Judge of what a privateer took and whether the taking was lawful under the warrant.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [mtrrchybth]

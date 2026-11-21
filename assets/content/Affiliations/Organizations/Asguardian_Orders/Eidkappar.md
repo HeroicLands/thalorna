@@ -33,7 +33,7 @@ data:
           Leads the order's warriors and carries Eidgar's name into the field where a ruling needs an arm.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

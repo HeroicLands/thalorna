@@ -45,7 +45,7 @@ data:
       Thramund: Warden of the hounds, without which the great game is not brought to bay.
       Dunkelrith: Sent ahead into ground the company does not know, and gone for days at a time.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

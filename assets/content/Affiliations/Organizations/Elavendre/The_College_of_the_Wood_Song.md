@@ -38,7 +38,7 @@ data:
       Keeper of the Closed Songs: >-
         Held by one Bard of the Circle. Holds the workings the College does not teach in the open, and decides each time whether one is sung.
   seat: elanmere
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [bardicolgs]

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [lenenneztslt]
-  population: 5900
+  population: {actual: 5900}
   type: town
   market: regional
   packFolder: regkhsett

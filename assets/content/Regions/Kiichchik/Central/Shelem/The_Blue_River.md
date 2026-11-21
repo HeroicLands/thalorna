@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The Blue River, the eastern of Shelem's two great rivers, carrying hides, feathers, cacao and medicines down to the northern markets."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [xelemrgn], population: 0, packFolder: xelem}
+data: {demonym: null, lore: [], parents: [xelemrgn], population: {actual: 0}, packFolder: xelem}
 ---
 
 ## Overview {#overview}

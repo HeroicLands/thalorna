@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [varokhiclt]
   parents: [moktur]
-  population: 4000
+  population: {actual: 4000}
   market: local
   type: town
   packFolder: vylaria

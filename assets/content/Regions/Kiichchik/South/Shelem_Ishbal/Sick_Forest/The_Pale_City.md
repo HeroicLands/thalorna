@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "Plazas, causeways and a stepped pyramid deep in the Sick Forest, every stone of them wrapped in white fungus like felt, where a party's own tracks are grown over by morning."
 tags: [site, waste, forest, ruin, temple]
-data: {demonym: null, lore: [], parents: [sickforest], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [sickforest], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

@@ -35,7 +35,7 @@ data:
         Held by an officer of the legions, from outside the register: command of the soldiers who guarded the arcanists and the kept roll.
   seat: null
   range: [alyssa]
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

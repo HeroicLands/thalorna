@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [khaddaria]
-  population: 3200
+  population: {actual: 3200}
   market: local
   type: town
   government: theradon

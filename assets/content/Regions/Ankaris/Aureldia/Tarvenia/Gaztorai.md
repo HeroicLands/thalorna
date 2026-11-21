@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The high mountain meadow of Eskarath where the Biltzarrath sits each summer solstice: open ground with no hall, under the peace of the Truce-Warden while the council meets."
 tags: [mountain]
-data: {demonym: null, lore: [], parents: [eskarath], population: 0, packFolder: tarvenia}
+data: {demonym: null, lore: [], parents: [eskarath], population: {actual: 0}, packFolder: tarvenia}
 ---
 
 ## Overview {#overview}

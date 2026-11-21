@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [badgerttm]
   parents: [edriwald]
-  population: 230
+  population: {actual: 230}
   market: local
   type: village
   borders: [{to: eichholt, bearing: W}]

@@ -42,7 +42,7 @@ data:
       Weaver of the Band: >-
         Held by Kin of the Lineage. Weaves the band by which an outsider's eyes are bound for the crossing; the band is made in the village.
   seat: avoluthei
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [kalihara]

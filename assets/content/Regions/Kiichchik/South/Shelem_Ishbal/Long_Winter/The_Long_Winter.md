@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "The far south of the waste, months beyond the gate, where winter never ends, breath freezes solid and the ruins of an older age are said to lie under the ice."
 tags: [region, waste, ice]
-data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: {actual: null}, packFolder: xelemixbal}
 
 # terran_analog: Patagonia, the southern Andean icefields and Tierra del Fuego.
 ---

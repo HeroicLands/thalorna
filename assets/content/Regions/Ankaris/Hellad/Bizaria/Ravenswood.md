@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "A wood astride Bizaria's eastern trade routes and home ground of the Ravenswood Brigands, who demand tribute from the caravans that pass."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 0, packFolder: byzaria}
+data: {demonym: null, lore: [], parents: [byzariargn], population: {actual: 0}, packFolder: byzaria}
 ---
 
 ## Overview {#overview}

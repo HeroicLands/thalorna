@@ -51,7 +51,7 @@ data:
       Frenkos: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [zemorhodhis]

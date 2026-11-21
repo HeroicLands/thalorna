@@ -61,7 +61,7 @@ data:
       Dutsa: >-
         The envoy who carries the shrena's business to courts, to the temples and to the Twilight House.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

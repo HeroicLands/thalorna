@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The sanctuary in the Helionite hills where the cities first met for the Games: the oldest stadium in Helionis, the heralds' altar and the oath-tablets of every city-state, still the seat of the Games."
 tags: [sacred, games, hellad]
-data: {demonym: null, lore: [], parents: [helionis], population: null, packFolder: helionis}
+data: {demonym: null, lore: [], parents: [helionis], population: {actual: null}, packFolder: helionis}
 ---
 
 A traveler who asks the way to **the Sanctuary of the Games** is told the road by a man from every city-state he asks, and each gives a different road, since each city-state's road to the sanctuary is the one that does not pass through another's land. The sanctuary lies in the hills where the territories of several city-states meet, a long day's walk from none of them in particular, and it is the oldest sacred ground in [[place-helionis|Helionis]] that the city-states hold in common.

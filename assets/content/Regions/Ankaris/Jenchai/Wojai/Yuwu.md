@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [yujai]
-  population: 9000
+  population: {actual: 9000}
   market: international
   type: town
   government: wojaidmn

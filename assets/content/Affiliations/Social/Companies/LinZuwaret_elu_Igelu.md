@@ -26,7 +26,7 @@ data:
           Handles the goods landed from the barges at Wal-Igelu.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

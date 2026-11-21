@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vithgard]
-  population: 400
+  population: {actual: 400}
   type: village
   market: regional
   packFolder: vithgard

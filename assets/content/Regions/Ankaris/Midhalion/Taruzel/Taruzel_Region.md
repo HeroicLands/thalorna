@@ -12,7 +12,7 @@ data:
   routes:
     - {to: helionis, bearing: N, mode: ship, days: 5, terrain: [open-sea]}
     - {to: garanlaghet, bearing: S, mode: ship, days: 2, terrain: [open-sea]}
-  population: 12000000
+  population: {actual: 12000000}
   borders: [{to: amradadrgn, bearing: E}, {to: vylarianse, bearing: W}]
   packFolder: taruzel
   culture: taruzelianclt

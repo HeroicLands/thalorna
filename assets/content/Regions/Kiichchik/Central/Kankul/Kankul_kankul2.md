@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [kankulrgn]
-  population: 9000
+  population: {actual: 9000}
   type: town
   market: regional
   government: kankul

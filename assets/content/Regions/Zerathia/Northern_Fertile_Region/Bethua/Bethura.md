@@ -16,7 +16,7 @@ data:
     - {to: kaljekor, bearing: W, mode: land, days: 20, terrain: [road]}
     - {to: sthmrchsrgn, bearing: S, mode: land, days: 10, terrain: [road, steppe]}
     - {to: marchesroad, bearing: S, mode: land, days: 10, terrain: [steppe, road]}
-  population: 35000
+  population: {actual: 35000}
   market: regional
   type: city
   packFolder: bethua

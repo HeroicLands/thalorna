@@ -30,7 +30,7 @@ data:
       Balthár: >-
         Held by Dagbán ira Vethar wur Thrareth, who rules through unpredictability and sudden violence rather than through any office the band itself seats.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

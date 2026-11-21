@@ -41,7 +41,7 @@ data:
       War Captain: Leader of the warband, held by whoever the riders follow.
       Escort: Rider sent with a caravan bound for the Tellumel or Amradad that has bought the tribe's escort.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

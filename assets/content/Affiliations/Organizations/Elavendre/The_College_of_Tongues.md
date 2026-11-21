@@ -38,7 +38,7 @@ data:
       Examiner of Tongues: >-
         Held by one Bard of the Circle. Tests each pupil in Áelendi and the carved word before the pupil is licensed to speak for a house or the crown.
   seat: liranel
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [bardicolgs]

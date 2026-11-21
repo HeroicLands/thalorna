@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [taruzelrgn]
-  population: 0
+  population: {actual: 0}
   borders: [{to: amradadrgn, bearing: E}, {to: visizel, bearing: W}, {to: tashilar, bearing: S}]
   packFolder: taruzel
 ---

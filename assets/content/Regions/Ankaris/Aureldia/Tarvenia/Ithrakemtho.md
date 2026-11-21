@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The upper house of the Sacred Forge on Thumbalero, the pilgrims' path to Lezkora, on the shoulder above the Horn Gorge, where a lamp burns in the outer wall and a Hammer-Priest keeps a forge and a bench for pilgrims."
 tags: [temple, mountain, pilgrimage]
-data: {demonym: null, lore: [], parents: [thumbalero], population: null, packFolder: tarvenia}
+data: {demonym: null, lore: [], parents: [thumbalero], population: {actual: null}, packFolder: tarvenia}
 ---
 
 ## Overview {#overview}

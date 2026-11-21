@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [khaddaria]
-  population: 2200
+  population: {actual: 2200}
   market: local
   type: town
   government: kalydria

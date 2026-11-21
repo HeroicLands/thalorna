@@ -44,7 +44,7 @@ data:
       Keeper of the High Registry: >-
         Held by a Master Pilot. Holds the register at the wardens' hall in Ilovanu in which contracts between the foreign quarters and the port households are entered.
   seat: telvari
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [kalihara]

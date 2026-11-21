@@ -34,7 +34,7 @@ data:
           Answers for the frontier command and the road it holds open.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

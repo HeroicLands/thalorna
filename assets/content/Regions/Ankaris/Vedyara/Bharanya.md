@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [mahanodi, vedyarargn]
-  population: 5400
+  population: {actual: 5400}
   market: regional
   type: town
   routes: [{to: chandrmukha, bearing: W, mode: ship, days: 5, terrain: [coast]}]

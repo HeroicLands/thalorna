@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The Mahajaya temple of the central valley, beside the weighing-station and the common treasury, and the one part of the janpoda's machinery that never moves."
 tags: [sacred, temple, mountain, inland]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [suvargerijnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 **The temple of Middle Suvargeri** stands in the central valley below the principal panning grounds, and [[place-weighingstn|the weighing-station]] and the common treasury stand beside it. The sabhra meets here one year in three like anywhere else, but the gold comes here every month of every year.

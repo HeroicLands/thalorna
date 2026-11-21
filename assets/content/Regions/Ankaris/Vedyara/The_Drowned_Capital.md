@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The river-capital the Mahanodi took when it changed its channel—masonry the fishermen of the reach still foul their nets on, six hundred years under water."
 tags: [ruin, river, inland]
-data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [rajepurjnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 The **Drowned Capital** lies under [[place-mahanodi|the Mahanodi]] in the reach below [[place-rajepur|Rajepur]]. It was a royal seat of [[lore-mhndkngdm|the Kingdom of Mahanodi]], and the river took it when the channel moved.

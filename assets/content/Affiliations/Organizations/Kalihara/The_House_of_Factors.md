@@ -38,7 +38,7 @@ data:
       Scribe of the House: >-
         Held by a Licensed Trader. Keeps the ledgers of the three families, the letters of credit the houses honor among themselves, and the factor's letters that admit a foreign hull to Nalurithan.
   seat: ilovanu
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [kalihara]

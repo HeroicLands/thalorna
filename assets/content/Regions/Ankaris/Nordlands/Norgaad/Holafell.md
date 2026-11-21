@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The oldest hov of Hrimthur, a sanctuary cut into the rock of a Norgaad fell, where the Wound is renewed at the turn of every winter."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [norgaad], population: 0, packFolder: norgaad}
+data: {demonym: null, lore: [], parents: [norgaad], population: {actual: 0}, packFolder: norgaad}
 ---
 
 ## Overview {#overview}

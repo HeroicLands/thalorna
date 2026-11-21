@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [asturath]
-  population: 8000
+  population: {actual: 8000}
   type: city
   market: regional
   government: kngdmstrth

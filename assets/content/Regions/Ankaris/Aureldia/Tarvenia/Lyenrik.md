@@ -9,7 +9,7 @@ data:
   demonym: Liénriki
   lore: [humanflk]
   parents: [tarvenirgn]
-  population: 1000000
+  population: {actual: 1000000}
   borders: [{to: asturath, bearing: N}, {to: galvaren, bearing: W}, {to: vylarianse, bearing: S}]
   routes:
     - {to: valdun, bearing: NW, mode: land, days: 10, terrain: [hills, road]}

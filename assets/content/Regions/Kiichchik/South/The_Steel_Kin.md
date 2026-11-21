@@ -44,7 +44,7 @@ data:
       Bearer of the Coal: >-
         A smith of each kin group who carries a covered jar up the temple stair to the fire-keepers when one of its forges goes out, and brings the coal down again.
   seat: nekiahkul
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [ixbaltzaku]

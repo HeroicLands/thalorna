@@ -26,7 +26,7 @@ data:
           A Helspawn lord who serves Nahild and sits among the Nightwight lords.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

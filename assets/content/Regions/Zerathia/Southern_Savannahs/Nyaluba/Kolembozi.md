@@ -54,7 +54,7 @@ data:
       Master of the Canoes: >-
         Holds the reed-canoes of the clan's landings and says which may carry a herd or a muster.
   seat: nyangulovlg
-  population: 350000
+  population: {actual: 350000}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk, crocodilekolembozispr]
   parents: [nylbtrblntn]

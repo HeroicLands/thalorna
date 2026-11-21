@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A crumbling pyramid among the bare ranges of the southern Thirst, its inner passage and chamber painted from floor to ceiling with columns of small seated figures, birds and boats that no scribe of the south can read."
 tags: [site, waste, desert, ruin, temple, inscription]
-data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [thethirst], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

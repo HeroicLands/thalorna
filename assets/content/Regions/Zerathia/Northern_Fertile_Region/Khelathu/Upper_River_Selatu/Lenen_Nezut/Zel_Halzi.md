@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [lenenneztslt]
-  population: null
+  population: {actual: null}
   packFolder: regkhsite
   banner: khelathubnr
 ---

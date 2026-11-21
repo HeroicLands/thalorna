@@ -26,7 +26,7 @@ data:
           Deals in livestock and living cargo under the consortium's counsel on their carriage.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

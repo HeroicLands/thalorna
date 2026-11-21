@@ -3,7 +3,7 @@ shortcode: haulonna
 name: {full: Thalmdal, en: [the Senali Haulonna]}
 type: place
 subType: site
-data: {demonym: null, lore: [], parents: [nordheim], population: null, packFolder: nordheim}
+data: {demonym: null, lore: [], parents: [nordheim], population: {actual: null}, packFolder: nordheim}
 ---
 
 Near the edge of Thalmdal the one rule is that when the birdsong stops and the air turns cold and stale in the middle of summer, a hunter turns back and does not argue with his feet. The valley the old songs say no hunter could find twice is now the one nobody can avoid, because its blight creeps a little further in every bad year.

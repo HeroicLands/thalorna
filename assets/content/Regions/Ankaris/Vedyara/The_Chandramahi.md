@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The westernmost of the four great rivers—from the ice under Suryashikhar through the gem-road valleys to the delta and Chendrapur, the city-state that lives off it."
 tags: [river, trading, inland]
-data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [vedyarargn], population: {actual: null}, packFolder: vedyara}
 ---
 
 The **Chandramahi** rises at [[place-chandrprbh|Chandraprabhava]], under [[place-suryashkhr|Suryashikhar]], and runs some twelve hundred miles south and west to a delta on the southern sea. It is the shortest of the four great rivers and the richest. The country it crosses is the gem country, and the city at its mouth has spent four centuries making sure nothing else is.

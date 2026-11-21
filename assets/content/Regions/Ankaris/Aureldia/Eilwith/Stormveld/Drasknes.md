@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [nordfells]
   routes: [{to: stormveil, bearing: S, mode: land, days: 3, terrain: [hills, track]}]
-  population: 1800
+  population: {actual: 1800}
   market: regional
   type: town
   packFolder: eilwith

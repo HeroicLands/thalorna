@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "A stair-well three hundred feet deep, cut by the Basin Builders into the floor of the Ghoshiqor toward a water table that has since fallen below its bottom."
 tags: []
-data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [hskrrgn], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 ## Overview {#overview}

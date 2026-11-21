@@ -46,7 +46,7 @@ data:
       Captain of the Palace Detail: >-
         Commander of the permanent palace detail, who shares the securing of the imperial strongroom.
   seat: thaurzurgalis
-  population: null
+  population: {actual: null}
   economy: [affiliation-tarmex]
   lore: []
   parents: []

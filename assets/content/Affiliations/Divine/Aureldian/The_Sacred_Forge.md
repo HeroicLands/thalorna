@@ -48,7 +48,7 @@ data:
       Lay Order: >-
         The guild masters in good standing who belong to the faith without ordination, through whom it reaches the smiths' guilds of every city.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [ustarondty]
   parents: [arldnpnthn]

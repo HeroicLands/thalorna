@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A silent blood-field above the warm southern shore, where nothing sings and nothing will settle, in the middle of the most prosperous country in the kingdom."
 tags: [coastal]
-data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [korvathis], population: {actual: null}, packFolder: provenzia}
 ---
 
 Above the warm sandy coast of the south, in the richest and most comfortable country in [[place-provenzrgn|Provénzia]],

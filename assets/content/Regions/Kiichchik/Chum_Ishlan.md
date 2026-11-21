@@ -54,7 +54,7 @@ data:
       Keeper of the Traveler Rolls: >-
         Gathers the shrine registers and what the slow post carries into the road branch's rolls, and sells portions of them.
   seat: kultaqan
-  population: null
+  population: {actual: null}
   economy: []
   lore: [chumtsena]
   parents: [itsanihierarchy]

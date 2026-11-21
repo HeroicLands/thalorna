@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [byzariargn]
-  population: 3300
+  population: {actual: 3300}
   market: local
   type: town
   government: karvashion

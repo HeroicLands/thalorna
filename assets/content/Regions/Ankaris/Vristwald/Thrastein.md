@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [stagttm]
   parents: [vandstein]
-  population: 290
+  population: {actual: 290}
   market: local
   type: village
   borders: [{to: vandgrund, bearing: W}, {to: erthhaven, bearing: E}]

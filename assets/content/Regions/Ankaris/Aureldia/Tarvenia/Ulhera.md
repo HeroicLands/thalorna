@@ -9,7 +9,7 @@ data:
   demonym: Ulheran
   lore: []
   parents: [galvaren]
-  population: 9000
+  population: {actual: 9000}
   market: international
   type: town
   packFolder: tarvenia

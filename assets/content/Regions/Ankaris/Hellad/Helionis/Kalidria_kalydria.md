@@ -46,8 +46,8 @@ data:
       Councilor: "Member of the council chosen by lot to prepare the assembly's business, serving a single year."
       Strátimor: "Elected commander of the forces of Kalidria by land and sea."
   seat: kalydria2
-  population: 180000
-  territorial_population: 180000
+  population: {actual: 180000}
+  territorial_population: {actual: 180000}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

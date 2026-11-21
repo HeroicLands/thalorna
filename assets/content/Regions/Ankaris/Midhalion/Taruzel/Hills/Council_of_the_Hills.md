@@ -38,7 +38,7 @@ data:
       Speaker to the Coast: >-
         Held by an Elder named for one errand. Goes down to a coastal city with a message from the council, speaks it once, and brings back the answer.
   seat: ralumar
-  population: 240000
+  population: {actual: 240000}
   economy: []
   lore: [humanflk]
   parents: []

@@ -42,7 +42,7 @@ data:
       Captain of the Household Guard: >-
         Held by a Kinsman of the House. Commands the fifty men of the guard.
   seat: ushtraber
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [khzrncnfdrtn]

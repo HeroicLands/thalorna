@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The capital of the philosopher-kings, roofless and unquarried on open pasture in the middle of the plateau—the place a civilization counts its years from and almost nobody has seen."
 tags: [ruin, inland]
-data: {demonym: null, lore: [], parents: [vandyabhumi], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [vandyabhumi], population: {actual: null}, packFolder: vedyara}
 
 # terran_analog: a classical Indian royal capital; the name keeps clear of Mādhava, an epithet of Krishna, and is built from madru, sweetness, and stonu, a seat
 ---

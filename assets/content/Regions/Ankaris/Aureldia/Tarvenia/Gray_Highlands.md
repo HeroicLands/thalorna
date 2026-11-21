@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [asturath]
-  population: 150000
+  population: {actual: 150000}
   government: kngdmstrth
   packFolder: tarvenia
 ---

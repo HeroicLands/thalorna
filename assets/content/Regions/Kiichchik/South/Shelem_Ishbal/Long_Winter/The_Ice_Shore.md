@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The southern coast of Kì'ìch'chik, a wall of ice above a black sea under permanent winter, where nothing lands and nothing leaves."
 tags: [feature, waste, ice, coast]
-data: {demonym: null, lore: [], parents: [longwinter], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [longwinter], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

@@ -4,7 +4,7 @@ name: {full: Nikhtion}
 type: place
 subType: region
 description: "The League's city of the dead in the arid highlands inland from Nesthiros, where every great house keeps its tombs."
-data: {demonym: null, lore: [], parents: [byzariargn], population: null, packFolder: byzaria}
+data: {demonym: null, lore: [], parents: [byzariargn], population: {actual: null}, packFolder: byzaria}
 ---
 
 "We do not sell graves," a hereditary tomb-keeper of Nikhtion tells a merchant's widow who has come to arrange a tomb for her husband. "We keep them, and the keeping is what you pay for."

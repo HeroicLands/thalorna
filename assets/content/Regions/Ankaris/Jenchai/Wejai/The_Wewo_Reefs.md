@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [wejai]
-  population: 0
+  population: {actual: 0}
   packFolder: jenchai
 ---
 

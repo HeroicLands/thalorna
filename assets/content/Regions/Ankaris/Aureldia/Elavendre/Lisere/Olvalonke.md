@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The evening wood of Lísere: wet forest of alder, oak and birch over bog and black water behind the shore, sacred ground of the Áelendan in its depths, where the Wardens keep their watch at the Fen Door."
 tags: [forest, woodland, marsh, sacred, coastal]
-data: {demonym: null, lore: [], parents: [lisere], population: null, packFolder: elavendre}
+data: {demonym: null, lore: [], parents: [lisere], population: {actual: null}, packFolder: elavendre}
 ---
 
 ## Overview {#overview}

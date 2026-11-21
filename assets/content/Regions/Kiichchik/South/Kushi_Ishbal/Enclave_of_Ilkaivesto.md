@@ -30,7 +30,7 @@ data:
     offices:
       Hemmikanno: >-
         The conclave's head office. Who holds it, and how, is not known outside the deep swamp.
-  population: null
+  population: {actual: null}
   economy: []
   lore: [flksenali]
   parents: []

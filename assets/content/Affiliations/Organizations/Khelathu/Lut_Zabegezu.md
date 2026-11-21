@@ -30,7 +30,7 @@ data:
           Holds the estate and its seal, and keeps the servants who keep it.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

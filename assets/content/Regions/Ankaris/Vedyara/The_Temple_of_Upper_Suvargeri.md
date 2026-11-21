@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The Mahajaya temple at the junction of the two highest streams, the seniormost of the three by its priest's age and the theological authority of the janpoda."
 tags: [sacred, temple, mountain, inland]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [suvargerijnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 **The temple of Upper Suvargeri** stands at the junction of the two highest streams off [[place-goldmountain|the Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahajaya]] that hold the janpoda between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.

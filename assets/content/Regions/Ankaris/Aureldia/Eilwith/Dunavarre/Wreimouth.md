@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [dunavarre]
-  population: 2500
+  population: {actual: 2500}
   market: regional
   type: town
   packFolder: eilwith

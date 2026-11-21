@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The black-rock peak at the southern edge of Diqraqor, above the eastern half of the Tellumel, where the Atarzád teach that Ataros gave the Promise in the Unconsuming Flame, and the holiest ground they have."
 tags: [mountain, sacred, pilgrimage]
-data: {demonym: null, lore: [], parents: [dkrqrrgn], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [dkrqrrgn], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 From the pilgrim camps in the valleys at its foot, Mount Shofar is a black cone standing over the flat-topped mesas, darker than the plateau it rises from and bare of anything green above its lowest springs. After sunset a single point of light shows high on its southern face. The camps go quiet when it appears, and the children are lifted up to see it. That light is the [[place-unconsflame|Unconsuming Flame]], and the mountain is the holiest ground the [[affiliation-tribestrzd|Atarzád]] have.

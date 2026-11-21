@@ -57,7 +57,7 @@ data:
       Bone-Reader: >-
         Attends the dead and reads what the Oracle of Bones is understood to have written in them.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [zohira]
   parents: []

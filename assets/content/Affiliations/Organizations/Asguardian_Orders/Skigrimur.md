@@ -33,7 +33,7 @@ data:
           Leads the order's spies and infiltrators and alone may be trusted with a hov's location.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

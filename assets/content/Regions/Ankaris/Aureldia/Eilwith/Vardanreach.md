@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "The Vardain nation's name for the north of Eilwìth—the plain, the fells and the high valleys—which kept the Khazari's friendship for millennia until the Nordmen took it sixty years ago."
 tags: [region, history]
-data: {demonym: Vardain, lore: [vardain], parents: [eilwith], population: 0, packFolder: eilwith}
+data: {demonym: Vardain, lore: [vardain], parents: [eilwith], population: {actual: 0}, packFolder: eilwith}
 ---
 
 ## Overview {#overview}

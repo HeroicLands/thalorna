@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [graznmntns]
-  population: 0
+  population: {actual: 0}
   packFolder: khazryndesert
   culture: khazrynclt
 ---

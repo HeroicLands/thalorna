@@ -51,8 +51,8 @@ data:
       Oracle: Speaker of the god's answer, consulted before any royal undertaking of consequence.
       Warden of the Frontier: Holder of a border district, charged with the tribes beyond it.
   seat: zarhanis
-  population: 4000000
-  territorial_population: 4000000
+  population: {actual: 4000000}
+  territorial_population: {actual: 4000000}
   economy: [lore-aukhlthcrncy, affiliation-crwntrdskhrs, affiliation-garhalzi]
   lore: [humanflk]
   parents: []

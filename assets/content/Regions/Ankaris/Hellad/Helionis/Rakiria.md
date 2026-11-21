@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [khaddaria]
-  population: 2400
+  population: {actual: 2400}
   market: local
   type: town
   government: athenikos

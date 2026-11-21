@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "Odvar's region of Asguard, where half the honored dead are quartered as the Valdrengir and the hall of the same name stands."
 tags: [asguardian]
-data: {demonym: null, lore: [], parents: [asguard], population: null, packFolder: settinglore}
+data: {demonym: null, lore: [], parents: [asguard], population: {actual: null}, packFolder: settinglore}
 ---
 
 In the Asguardian tradition, Valsal is [[lore-odvardty|Odvar]]'s country in [[place-asguard|Asguard]], and the destination of half the honored dead. The region is Valsal and the hall standing at the middle of it is [[place-valsalhall|Ódvarsholl]], so a man is sent to Valsal and he is seated in Ódvarsholl.

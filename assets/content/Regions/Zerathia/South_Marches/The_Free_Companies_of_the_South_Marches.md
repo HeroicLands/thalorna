@@ -43,7 +43,7 @@ data:
       Keeper of the Remount: Master of the company's horses, whose count of sound mounts says how far it can ride.
   seat: null
   range: [sthmrchsrgn]
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-aukhlthcrncy]
   lore: []
   parents: []

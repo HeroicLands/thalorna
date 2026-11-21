@@ -33,7 +33,7 @@ data:
           Leads the order's defense of Thrunvald's hovs and the ships sailing under his blessing.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

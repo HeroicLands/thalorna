@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [zenjai]
-  population: 2800
+  population: {actual: 2800}
   market: local
   type: town
   government: zenjaidmn

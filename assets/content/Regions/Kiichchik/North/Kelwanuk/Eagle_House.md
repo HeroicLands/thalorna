@@ -47,7 +47,7 @@ data:
       tukwamis: >-
         Seat Holder: a noble of the house sent each summer with a Speaker to hold the coast's seat at the council of the Red Stone Compact.
   seat: tsilkasis
-  population: null
+  population: {actual: null}
   economy: []
   lore: [kelwanukclt]
   parents: [kelwanuk]

@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The pale sandstone cliff over the Oasis of Shirvan, from whose foot the great spring breaks, its face cut with chambers, pilgrim stairs and quarry ledges."
 tags: [cliff, sacred, pilgrimage]
-data: {demonym: null, lore: [], parents: [oasishirvn], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [oasishirvn], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 Coming along the belt road from the west, you see the cliff a day before you see the city: a wall of pale rock across the southern sky where the Grazian foothills close in on the belt, white in the morning and the color of honey by evening. Closer, the wall turns out to be full of holes. Rows of doorways and windows are cut into its face, stairs zigzag between them, and at night a few lamps burn in the high chambers, so that the cliff looks like a city standing on end above the real one.

@@ -10,7 +10,7 @@ data:
   demonym: Osetakona
   lore: [osetakonaclt]
   parents: [osetakonargn]
-  population: 280000
+  population: {actual: 280000}
   packFolder: osetakona
   government: osetakona
 

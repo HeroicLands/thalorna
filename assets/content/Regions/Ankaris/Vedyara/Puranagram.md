@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [rajepurjnpd]
-  population: 410
+  population: {actual: 410}
   market: local
   type: village
   packFolder: vedyara

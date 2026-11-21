@@ -52,7 +52,7 @@ data:
       Caller: >-
         The eldest of the dead person's kin, of any rank, who calls the name to the four winds at the laying-out while the children answer. It is the one rite of the faith that no shaman performs.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

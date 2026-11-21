@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "Three peaks above the Central Highlands, and the battlefield where the Senali king of Eilwìth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
 tags: [sacred, mountain, inland]
-data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: null, packFolder: eilwith}
+data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: {actual: null}, packFolder: eilwith}
 ---
 
 The Three Sisters are three peaks standing together above the open ground of [[place-cntrlhghlnds|the Central Highlands]], in

@@ -9,7 +9,7 @@ data:
   demonym: Vilérian
   lore: [humanflk]
   parents: [vylariargn]
-  population: 7000000
+  population: {actual: 7000000}
   borders:
     - {to: kervaron, bearing: W}
     - {to: moktur, bearing: N}

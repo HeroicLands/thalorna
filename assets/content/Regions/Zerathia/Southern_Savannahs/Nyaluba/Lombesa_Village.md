@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [sthrnsvnhs]
-  population: 900
+  population: {actual: 900}
   market: local
   type: village
   packFolder: southernsavannahs

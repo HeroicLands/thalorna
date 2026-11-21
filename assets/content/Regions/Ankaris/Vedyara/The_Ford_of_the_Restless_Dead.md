@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A gravel ford of the upper Mahanodi and the oldest dated shorukshetra in Vedyara: a silence where no flame lit on the west bank stays lit, half-settled on the east bank by the Agmi-pantra's founding fire, and a place nobody crosses after dark."
 tags: [river, sacred, inland]
-data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [rajepurjnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 **Olurtaran**, the ford of the restless dead, is a wide gravel crossing of the upper reaches of [[place-mahanodi|the Mahanodi]] above the fields of [[place-rajepurjnpd|Rajepur]], and the oldest _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]] that anyone can date. About 300 BF a king of [[lore-mhndkngdm|Mahanodi]] destroyed a rising of the upper-river villages here and forbade the pyre to the dead ([[lore-unburnford|the Unburned Ford]]). Some thousands lay through a monsoon with no conch, no lamp and no fire, and the way behind them never closed.

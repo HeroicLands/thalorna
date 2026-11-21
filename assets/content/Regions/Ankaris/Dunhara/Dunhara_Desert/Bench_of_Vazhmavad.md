@@ -34,7 +34,7 @@ data:
       Truce-Warden of the Weighing: >-
         Holder of the peace over the oasis in the season of a hearing, under the Dunhara Tribes' law; the warden's staff stands planted at the oasis edge, and its peace holds whether or not a warden stands beside it.
   seat: vzhmvd
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: []

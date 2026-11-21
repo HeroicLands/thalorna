@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The fan of stony ground where the Western Descent opens onto the march road and the march kingdom of Marupal died in 315 AF: a dread, the thinnest shorukshetra in Vedyara, and a cursed field whose road is barred at dusk."
 tags: [frontier, hill, caravan]
-data: {demonym: null, lore: [], parents: [bhumipalland], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [bhumipalland], population: {actual: null}, packFolder: vedyara}
 ---
 
 The march companies of [[affiliation-bhumipal|Bhumipal]] call it **Lantustal**, the banner ground, and they say the word in daylight. After dark they call it nothing. It is the fan of stony ground where the foothills of [[place-wstrndscnt|the Western Descent]] open onto [[place-marchroad|the march road]], a day and a half west of [[place-ashvapada|Ashvapada]], and it is the thinnest _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]]: a dread, and a _ghurakshetra_ (cursed field).

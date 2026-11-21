@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [crowttm]
   parents: [skathwald]
-  population: 320
+  population: {actual: 320}
   market: local
   type: village
   government: vrystwldvlgcncl

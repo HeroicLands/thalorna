@@ -59,8 +59,8 @@ data:
       Dutsa: Envoy to a foreign court, whose person is protected by custom on both sides of the frontier.
       Ganoka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   seat: bharyastan2
-  population: 120000
-  territorial_population: 120000
+  population: {actual: 120000}
+  territorial_population: {actual: 120000}
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]
   parents: []

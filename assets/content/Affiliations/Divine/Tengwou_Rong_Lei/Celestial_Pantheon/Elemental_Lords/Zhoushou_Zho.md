@@ -72,7 +72,7 @@ data:
       Zhoushou Zho: >-
         Zhoushou Zho—The Lord of Water—the being this bureau or cultus is organized around.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [zhoushouzhodty]
   parents: [tengwouronglei]

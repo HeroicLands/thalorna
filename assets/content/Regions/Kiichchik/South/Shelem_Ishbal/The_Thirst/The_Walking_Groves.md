@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "Groves of hollow trees around springs in the Thirst that are not where they were, kept by small keepers who are rude to the rude and give the only directions in the waste worth having."
 tags: [site, waste, grove, spring]
-data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [thethirst], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

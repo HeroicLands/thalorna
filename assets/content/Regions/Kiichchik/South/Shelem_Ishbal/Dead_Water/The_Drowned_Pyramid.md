@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A round pyramid of stone rings rising out of the reeds of the Dead Water, its lower rings under the brown water and its top ring dry, where the swamp's reptilian things bask by day and leave the stone to whoever comes by night."
 tags: [site, waste, swamp, ruin, temple]
-data: {demonym: null, lore: [], parents: [deadwater], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [deadwater], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

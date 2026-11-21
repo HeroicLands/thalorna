@@ -10,7 +10,7 @@ data:
   demonym: Tulishash
   lore: [shuqashclt]
   parents: [northkiichchik]
-  population: 120000
+  population: {actual: 120000}
   packFolder: shuqash
   government: shuqash
 

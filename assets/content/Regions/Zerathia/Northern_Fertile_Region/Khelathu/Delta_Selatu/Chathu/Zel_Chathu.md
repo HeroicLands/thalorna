@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [chathuselat]
-  population: 7100
+  population: {actual: 7100}
   type: town
   market: regional
   packFolder: regkhsett

@@ -35,8 +35,8 @@ data:
       First of the Council: >-
         Held by an Alderman, chosen by the aldermen. Presides over the council and speaks for Nebralis.
   seat: nebralis
-  population: null
-  territorial_population: 6000
+  population: {actual: null}
+  territorial_population: {actual: 6000}
   economy: []
   lore: [humanflk]
   parents: [kingdmtrvn]

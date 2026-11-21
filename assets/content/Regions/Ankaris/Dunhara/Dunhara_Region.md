@@ -17,7 +17,7 @@ data:
     - {to: graznmntns, bearing: E}
     - {to: vylarianse, bearing: W}
     - {to: wlqtrrgn, bearing: NE}
-  population: 3000000
+  population: {actual: 3000000}
   government: null
   packFolder: dunhara
   culture: dunhariclt

@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The broken megalithic circle of northern Provénzia, thrown down in the Nordheim raids two centuries ago—and, by the standing opinion, the reason the blood-field beside it withers the country instead of merely haunting it."
 tags: [sacred, border, inland]
-data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [sathvothe], population: {actual: null}, packFolder: provenzia}
 ---
 
 In the far north of the [[place-provenzrgn|Provénzia Region]]—in [[place-sathvothe|Satvote]], on the

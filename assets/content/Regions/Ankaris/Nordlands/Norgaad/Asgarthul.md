@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [norgaad]
-  population: 400
+  population: {actual: 400}
   type: village
   market: local
   packFolder: norgaad

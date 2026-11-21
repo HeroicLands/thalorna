@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [taruzelrgn]
-  population: 2500000
+  population: {actual: 2500000}
   borders: [{to: zupumun, bearing: E}]
   packFolder: taruzel
   culture: taruzelianclt

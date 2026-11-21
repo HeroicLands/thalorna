@@ -26,7 +26,7 @@ data:
           Pays into the common fund and draws on it when sickness, dismissal or a burial comes.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [orzara]
-  population: 300
+  population: {actual: 300}
   market: local
   type: village
   government: vylarinmpr

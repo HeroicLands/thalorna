@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "A clear lake in the swamps of the Dead Water whose water tastes clean and sweet, and drives mad or wastes away whoever drinks it."
 tags: [feature, waste, swamp, lake]
-data: {demonym: null, lore: [], parents: [deadwater], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [deadwater], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

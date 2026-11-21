@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [leonrik]
-  population: 36000
+  population: {actual: 36000}
   market: regional
   type: city
   packFolder: tarvenia

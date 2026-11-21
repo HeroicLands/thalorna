@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [sathvothe]
-  population: 0
+  population: {actual: 0}
   packFolder: provenzia
   culture: aelendanclt
 ---

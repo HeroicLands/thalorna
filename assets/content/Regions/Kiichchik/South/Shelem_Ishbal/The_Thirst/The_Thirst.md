@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "The kindest country of the waste, a hot desert of gravel, creosote and dry lakes along the western coast, where water lies a week apart and distances lie."
 tags: [region, waste, desert]
-data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: {actual: null}, packFolder: xelemixbal}
 
 # terran_analog: the Atacama coast and the Monte desert of western Argentina, in the character of the Mojave.
 ---

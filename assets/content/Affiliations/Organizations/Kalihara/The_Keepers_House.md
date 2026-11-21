@@ -34,7 +34,7 @@ data:
       Counter of the White: >-
         Held by a Custodian of a Dark Work. Keeps the count of the white works of one part of the island, and walks to see a work declared dead before the House enters it.
   seat: kuomethei
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [tharivaan]

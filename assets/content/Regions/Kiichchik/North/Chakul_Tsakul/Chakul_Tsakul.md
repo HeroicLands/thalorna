@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "An abandoned, uninhabited site in the hot, deadly Ch'akul Tsa'kul desert barrier."
 tags: [site]
-data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0}
+data: {demonym: null, lore: [], parents: [chakultzklrgn], population: {actual: 0}}
 ---
 
 ## Overview {#overview}

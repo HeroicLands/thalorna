@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The great gulf between Élavendre's northern coast and Vristwald, opening west, about a hundred and sixty miles across, and the water every raid on the north shore comes over."
 tags: [coastal, border]
-data: {demonym: null, lore: [], parents: [lisere], population: null, packFolder: elavendre}
+data: {demonym: null, lore: [], parents: [lisere], population: {actual: null}, packFolder: elavendre}
 ---
 
 **Lísere Bay** bites deep into the northern coast of [[place-ankrscntnnt|Ankaris]] between [[place-elavendre|Élavendre]] and

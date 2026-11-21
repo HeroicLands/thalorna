@@ -73,7 +73,7 @@ data:
       Master of the Platforms: >-
         Oversees sky burial where it is practiced: the exposure of bodies, the reading of the birds, and the gathering of the bared bone.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [tzuqilixbaldty]
   parents: [itzanpnthn]

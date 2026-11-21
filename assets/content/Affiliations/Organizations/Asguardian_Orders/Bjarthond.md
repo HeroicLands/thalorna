@@ -33,7 +33,7 @@ data:
           Leads the order's medics and counselors in Bjart's service.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

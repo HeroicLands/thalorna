@@ -26,7 +26,7 @@ data:
           Supplies gilded fittings and funerary gold, admitted on work judged fit for temple and tomb.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

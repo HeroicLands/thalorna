@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [norgaad]
-  population: null
+  population: {actual: null}
   packFolder: norgaad
 ---
 

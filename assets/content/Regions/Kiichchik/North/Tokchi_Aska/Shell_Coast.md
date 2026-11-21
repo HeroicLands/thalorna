@@ -10,7 +10,7 @@ data:
   demonym: Koyoli
   lore: [tokchiliclt]
   parents: [tokchiaskargn]
-  population: 220000
+  population: {actual: 220000}
   packFolder: tokchiaska
   government: tokchiaska
 

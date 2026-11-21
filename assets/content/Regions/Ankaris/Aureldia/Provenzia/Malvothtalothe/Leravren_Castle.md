@@ -13,7 +13,7 @@ data:
     - {to: caerceravel, bearing: SW, mode: land, days: 1, terrain: [hills, road]}
     - {to: ronalza, bearing: N, mode: land, days: 2, terrain: [mountains, track]}
     - {to: alndntrblnds, bearing: N, mode: land, days: 5, terrain: [mountains, track]}
-  population: 1200
+  population: {actual: 1200}
   market: local
   type: town
   borders: [{to: ceravelvale, bearing: SW}]

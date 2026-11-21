@@ -65,7 +65,7 @@ data:
       Warden of the Severed: >-
         Holds those of the order's own who are under sentence until the sentence is carried out.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [chumtsena]
   parents: [itsanihierarchy]

@@ -34,7 +34,7 @@ data:
           The head of a syndicate, chosen by its underwriters, who sets its rates and keeps its book and sits with the other syndics.
     offices: {}
   seat: calypsacity
-  population: null
+  population: {actual: null}
   economy: [affiliation-danvar, lore-vylrncrncy]
   lore: [humanflk]
   parents: [calypsa]

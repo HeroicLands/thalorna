@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [byzariargn]
-  population: 3500
+  population: {actual: 3500}
   market: local
   type: town
   government: argyrteikhos

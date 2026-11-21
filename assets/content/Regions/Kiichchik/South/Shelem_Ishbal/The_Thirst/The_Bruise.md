@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "A basin in the Thirst under a sky that is purple every hour of the day and night, where shadows point inward, voices carry wrong and wounds will not close."
 tags: [feature, waste, desert, thin-place]
-data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [thethirst], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

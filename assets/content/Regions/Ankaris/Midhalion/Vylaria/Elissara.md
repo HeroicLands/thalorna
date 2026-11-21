@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vylariargn]
-  population: 40000
+  population: {actual: 40000}
   market: international
   type: city
   government: tevranaelissium

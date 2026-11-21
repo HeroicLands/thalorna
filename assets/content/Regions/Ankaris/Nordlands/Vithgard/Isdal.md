@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "A Vithgard dale emptied by sickness ninety years ago, whose farms the Hrandstead ting still holds for their dead."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: vithgard}
+data: {demonym: null, lore: [], parents: [vithgard], population: {actual: 0}, packFolder: vithgard}
 ---
 
 ## Overview {#overview}

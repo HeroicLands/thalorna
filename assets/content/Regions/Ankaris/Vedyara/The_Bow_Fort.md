@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The megalithic fort on the hill above the Sarveda that Danurkot is named for, whose foundation courses no living mason can account for."
 tags: [fortress, fortified, river, inland]
-data: {demonym: null, lore: [], parents: [danurkotjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [danurkotjnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 Nobody in [[affiliation-dnrktjnpd|Danurkot]] can tell you who laid the foundations of **the Bow-Fort**, and nobody there pretends to. It stands on the low hill where [[place-sarvedarivr|the Sarveda]] bends west round an outcrop of red rock, and [[place-danurkot|Danurkot]] is the town that grew below it and took its name. The fort holds the [[affiliation-mahajaya|Mahajaya]] temple, the four academy halls, the sabhra chamber and the granary. In extremity it takes the whole janpoda, and the granary is stocked against that year by year.

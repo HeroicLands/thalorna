@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [elavendre]
-  population: 420000
+  population: {actual: 420000}
   government: kngdmlvndr
   packFolder: elavendre
 ---

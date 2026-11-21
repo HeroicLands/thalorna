@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The gate in Thirenae's western wall that was breached for the Republic's commissioners in 312 BF and walled up in the days after, which the colleges keep as a day of silence and refuse to reopen."
 tags: [gate, helionis, hellad]
-data: {demonym: null, lore: [], parents: [thyrenae2], population: 0, packFolder: helionis}
+data: {demonym: null, lore: [], parents: [thyrenae2], population: {actual: 0}, packFolder: helionis}
 ---
 
 ## Overview

@@ -73,7 +73,7 @@ data:
       Speaker of the Sheaves: >-
         Receives the Ts'enmah at the harvest festival, where the king processes as a supplicant and not as a sovereign.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [kanixhakandty]
   parents: [itzanpnthn]

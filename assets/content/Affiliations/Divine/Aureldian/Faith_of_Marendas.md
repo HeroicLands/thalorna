@@ -54,7 +54,7 @@ data:
       Notral Maldor: >-
         The great libraries the priesthood maintains and to which its scholars are attached.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [marendasdty]
   parents: [arldnpnthn]

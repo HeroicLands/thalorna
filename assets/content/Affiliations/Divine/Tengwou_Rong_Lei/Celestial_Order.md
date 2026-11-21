@@ -79,7 +79,7 @@ data:
       Assessor of Sacrifice: >-
         Values tribute paid in kind against the temple's standing schedule, and rules on whether what has been offered supports the petition being asked for. A small sacrifice may be made at a home shrine and needs no assessor; a petition of any weight requires one.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: []
   parents: []

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [galezkaraslt]
-  population: 560
+  population: {actual: 560}
   type: village
   market: local
   government: capitalselat

@@ -50,7 +50,7 @@ data:
       High Flame-Warden of Viléria: >-
         Held by a Flame-Warden. Oversees the faith's registered temples in the Vilérian Empire from the Ashen Temple in Orzara and keeps order among their Flame-Wardens by the weight of his own standing, not by any rank above theirs.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [ustarondty]
   parents: [arldnpnthn]

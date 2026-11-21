@@ -73,7 +73,7 @@ data:
       Keeper of the Sleepers: >-
         Attends those who dream badly or will not wake, and the bereaved sent here by the death-walkers.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [naliktzuqaldty]
   parents: [itzanpnthn]

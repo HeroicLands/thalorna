@@ -36,8 +36,8 @@ data:
       War-Leader: >-
         A war-chief the shamans name to lead the whole tribe for one war, followed by the other clans for as long as the war goes well.
   seat: stormwood
-  population: 22000
-  territorial_population: 22000
+  population: {actual: 22000}
+  territorial_population: {actual: 22000}
   economy: []
   lore: [humanflk]
   parents: []

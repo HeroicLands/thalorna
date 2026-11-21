@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A forgotten binding temple of the storm-serpent on the eastern slopes of Ne'ok Ba'ate, whose red stair climbs out of the rainforest to a sanctuary built over something the builders were told to keep."
 tags: [draft, ruin, temple, jungle]
-data: {demonym: null, lore: [], parents: [neokbaatergn], population: 0, packFolder: neokbaate}
+data: {demonym: null, lore: [], parents: [neokbaatergn], population: {actual: 0}, packFolder: neokbaate}
 ---
 
 ## Overview {#overview}

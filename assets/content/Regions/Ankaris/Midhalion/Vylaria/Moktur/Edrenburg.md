@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [varokhiclt]
   parents: [moktur]
-  population: 1200
+  population: {actual: 1200}
   market: local
   type: town
   government: provncmktr

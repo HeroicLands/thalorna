@@ -46,8 +46,8 @@ data:
       Keeper of the Mint: >-
         Strikes the silver the river trade runs on and answers to the prince for its weight.
   seat: brlvsh
-  population: null
-  territorial_population: 550000
+  population: {actual: null}
+  territorial_population: {actual: 550000}
   settlements:
     - settlement: Boskavesh
       polity: affiliation-prncdmbrlvsh
@@ -56,7 +56,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmbrlvsh
-      population: 3500
+      population: {actual: 3500}
       market: local
       notes: "A shipwrights' town in the pine woods upriver of the port."
     - settlement: Duvashov
@@ -66,7 +66,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmbrlvsh
-      population: 900
+      population: {actual: 900}
       market: local
       notes: "A ferry village at the crossing below the port."
     - settlement: Lervashov
@@ -76,7 +76,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmbrlvsh
-      population: 700
+      population: {actual: 700}
       market: local
       notes: "A fishing village that sends its catch to the port's quays."
     - settlement: Vlidashov
@@ -86,7 +86,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmbrlvsh
-      population: 500
+      population: {actual: 500}
       market: subsistence
       notes: "A hamlet-sized village of rope-makers and net-menders."
   economy: []

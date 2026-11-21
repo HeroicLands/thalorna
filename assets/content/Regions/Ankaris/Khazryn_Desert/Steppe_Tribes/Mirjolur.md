@@ -41,7 +41,7 @@ data:
         A judge of the quarrels between the hordes, chosen for the force of his words, whose judgment the three moots hear and take.
       Salt-Master: Head of the younger horde's cuttings on the western rim of Evod.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

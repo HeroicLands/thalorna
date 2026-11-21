@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The blood-field of the Seilvri crusade, a silence in the old forest of western Dúnavarre where several thousand of a forest people were killed about 703 AF, and the newest field in Aureldia: the Synod posts it, and the Seilvri cannot reach their dead to settle them."
 tags: [forest, haunted]
-data: {demonym: null, lore: [], parents: [dunavarre], population: null, packFolder: eilwith}
+data: {demonym: null, lore: [], parents: [dunavarre], population: {actual: null}, packFolder: eilwith}
 ---
 
 In the old forest of [[place-dunavarre|Dúnavarre]]'s west, between the estates and the deeper woods along Seirasto's edge, lies **the Hushwood**, a stand of old forest in which nothing sings. It is the newest of the [[place-aureldirgn|Aureldia Region]]'s [[lore-bloodfield|blood-fields]], made in three days at the turn of the year about 703 AF, and the only one in living memory.

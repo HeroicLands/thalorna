@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [bharavaban]
-  population: null
+  population: {actual: null}
   packFolder: vedyara
 ---
 

@@ -50,7 +50,7 @@ data:
       Keeper of the Wall-Names: >-
         Keeps in memory every wall-name the order has given and the name each man set aside, and says neither to anyone outside the order.
   seat: qptlulneok
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [kuxiixbal]

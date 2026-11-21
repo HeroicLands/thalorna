@@ -30,8 +30,8 @@ data:
       War-Leader: >-
         Chosen by those who fight, and followed for as long as they choose to follow. Leads the bowmen in the woods and answers to the Elder at the gathering.
   seat: teilvari
-  population: 2000
-  territorial_population: 2000
+  population: {actual: 2000}
+  territorial_population: {actual: 2000}
   economy: []
   lore: [humanflk]
   parents: []

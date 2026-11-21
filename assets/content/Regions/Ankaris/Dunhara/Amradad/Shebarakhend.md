@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [amradadrgn]
-  population: 15000
+  population: {actual: 15000}
   market: regional
   type: city
   packFolder: amradad

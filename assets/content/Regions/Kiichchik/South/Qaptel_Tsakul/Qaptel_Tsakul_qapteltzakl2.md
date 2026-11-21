@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [qapteltzaklrgn]
-  population: 490
+  population: {actual: 490}
   type: village
   market: local
   government: qapteltzakl

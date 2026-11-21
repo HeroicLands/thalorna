@@ -34,7 +34,7 @@ data:
       Carrier to Ethalosse: >-
         Held by one Shaman of the Moot. Carries to the stone court what the Moot has agreed, exactly, and brings back what is said there, adding nothing.
   seat: eshalshldg
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [aelndntrbs]

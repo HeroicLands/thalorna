@@ -40,7 +40,7 @@ data:
       Chaplain of the Order: >-
         A priest of Árdavon appointed by the faith at the Knight-Marshal's asking. Hears the knights' oaths, blesses their swords at the Sanctification of Swords and preaches to the Order before it takes the field.
   seat: kelivren
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [ardavon, kingdmdnvr]

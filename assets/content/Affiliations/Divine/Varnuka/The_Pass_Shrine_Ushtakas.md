@@ -47,7 +47,7 @@ data:
       Reader of the Cistern Wall: >-
         Keeps the count of the dead by name, and recites it at the turn of the closed season.
   seat: pssshrines
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [vrnkpnthn]

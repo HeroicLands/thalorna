@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [kiichchik]
-  population: 28000000
+  population: {actual: 28000000}
   packFolder: kiichchik
 ---
 

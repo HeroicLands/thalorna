@@ -12,7 +12,7 @@ data:
   routes:
     - {to: valdun, bearing: NW, mode: land, days: 5, terrain: [hills, road]}
     - {to: leonrik, bearing: SE, mode: land, days: 5, terrain: [hills, road]}
-  population: null
+  population: {actual: null}
   packFolder: elavendre
 ---
 

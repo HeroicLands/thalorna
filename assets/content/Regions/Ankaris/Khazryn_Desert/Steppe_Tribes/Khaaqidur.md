@@ -41,7 +41,7 @@ data:
       Shaman: Keeper of the smoke tent, who burns the seed and speaks what the smoke gives.
       Cup-Holder: A rider who drinks at the moot from an enemy's skull.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

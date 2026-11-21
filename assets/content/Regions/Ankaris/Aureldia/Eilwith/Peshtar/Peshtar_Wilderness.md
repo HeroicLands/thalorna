@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [eilwith]
   borders: [{to: stormveld, bearing: E}, {to: ondareth, bearing: S}]
-  population: 63000
+  population: {actual: 63000}
   packFolder: eilwith
 
 # terran_analog: "Ireland—the north-west of the compact Eilwìthan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior."

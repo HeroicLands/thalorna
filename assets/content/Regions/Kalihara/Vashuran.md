@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [kaliharargn]
-  population: 5000
+  population: {actual: 5000}
   market: international
   type: town
   packFolder: kalihara

@@ -26,7 +26,7 @@ data:
           Governor of a selat, speaking in session for the province.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

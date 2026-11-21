@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [varokhiclt, bloodfield]
   parents: [moldunriver]
-  population: 0
+  population: {actual: 0}
   packFolder: vrystwald
 ---
 

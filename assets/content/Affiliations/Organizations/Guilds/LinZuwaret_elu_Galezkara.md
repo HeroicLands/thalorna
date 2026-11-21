@@ -26,7 +26,7 @@ data:
           Trades independently and stands with the circle against the larger houses.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

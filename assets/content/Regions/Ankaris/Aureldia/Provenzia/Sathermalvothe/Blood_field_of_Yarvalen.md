@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The worst blood-field in Provénzia—a withering that kills the land around it, made when the Nordheim raids threw down Yarvalen Henge, and awake again after two centuries of quiet."
 tags: [border, inland]
-data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [sathvothe], population: {actual: null}, packFolder: provenzia}
 ---
 
 The Blood-field of Yarvalen is a battlefield of the [[place-provenzrgn|Provénzia Region]] remembered as a blood-field—ground where an engagement was fought at such

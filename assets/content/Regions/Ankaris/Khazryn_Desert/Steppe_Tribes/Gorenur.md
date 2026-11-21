@@ -42,7 +42,7 @@ data:
       Weaver: >-
         The woman who keeps a line's mark and weaves it into every felt and carpet of the line, so that a Gorenur tent is known by its door-felt.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

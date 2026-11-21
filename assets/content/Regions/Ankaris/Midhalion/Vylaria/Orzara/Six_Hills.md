@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [eaglecityrse]
   parents: [orzara]
-  population: null
+  population: {actual: null}
   packFolder: vylaria
 ---
 

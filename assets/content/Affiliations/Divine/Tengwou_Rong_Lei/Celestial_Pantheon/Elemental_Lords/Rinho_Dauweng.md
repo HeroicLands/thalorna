@@ -72,7 +72,7 @@ data:
       Rinho Dauweng: >-
         Rinho Dauweng—The Lord of Wood—the being this bureau or cultus is organized around.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [rinhodaowengdty]
   parents: [tengwouronglei]

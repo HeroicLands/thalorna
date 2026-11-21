@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A walled temple estate on the grazing lands east of Zarhanis, shut to the cast-out and now home to a fire that is not descended from the First Ember, and to cattle that walk in ash."
 tags: [draft, ruin, haunted, cult]
-data: {demonym: null, lore: [], parents: [okharisrgn], population: null, packFolder: okharis}
+data: {demonym: null, lore: [], parents: [okharisrgn], population: {actual: null}, packFolder: okharis}
 ---
 
 East of [[place-zarhanis|Zarhanis]], where the cattle country opens out and the road thins to a herders' track, a long wall of dry-laid stone runs across a low rise. Inside it stand a roofless granary, a ring of cattle-pens and the sunken floors of a bondsmen's yard. The herders call the place Shuremis, the seat of ash, and the temple calls it nothing. On the clans' reckoning it is a ruin of a temple estate, abandoned after a bad year, and a clan that grazes within sight of it drives its herd away before dusk.

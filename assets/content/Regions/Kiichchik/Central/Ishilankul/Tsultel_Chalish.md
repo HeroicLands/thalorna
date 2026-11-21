@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [tzomalchalix]
-  population: 0
+  population: {actual: 0}
   packFolder: ixilankul
 
 # terran_analog: the stepped pyramids of the central highlands, built in successive casings over older ones; the breath is volcanic gas, heavier than air, which pools in hollows on still days

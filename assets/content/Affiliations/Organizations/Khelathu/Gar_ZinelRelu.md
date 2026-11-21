@@ -28,7 +28,7 @@ data:
       Gar-Au: >-
         The throne, held by the house's head while the dynasty stood.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

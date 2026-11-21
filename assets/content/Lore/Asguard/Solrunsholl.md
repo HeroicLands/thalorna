@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [solvangur]
-  population: null
+  population: {actual: null}
   packFolder: settinglore
   government: solrun
 ---

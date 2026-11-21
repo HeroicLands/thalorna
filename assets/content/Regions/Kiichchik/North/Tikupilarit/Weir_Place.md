@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [tikupilaritclt]
   parents: [taluqnapiqrgn]
-  population: 300
+  population: {actual: 300}
   type: village
   market: local
   government: tikupilarit

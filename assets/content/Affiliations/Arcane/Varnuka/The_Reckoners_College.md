@@ -53,7 +53,7 @@ data:
       Tide-reader: >-
         Publishes the harbor tables the coastal polities' pilots work from, revised each season.
   seat: chendrapur2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [vrnkpnthn]

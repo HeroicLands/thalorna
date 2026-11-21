@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A chain of abandoned Khelathi forts, each on a well, across the South Marches toward the eastern temple-cities of Okharis: the tribute road of the sun-house, and now the lairs of the Marches' free companies, the Jackals among them."
 tags: [ruin, frontier]
-data: {demonym: null, lore: [], parents: [sthmrchsrgn], population: null, packFolder: regkhsite}
+data: {demonym: null, lore: [], parents: [sthmrchsrgn], population: {actual: null}, packFolder: regkhsite}
 ---
 
 "The wells are the forts," a drover of [[place-sthmrchsrgn|the Marches]] tells a young hand who has asked why every ruin on the long road sits beside water, "and the forts are whoever holds the wells this year." The Khelathi who built them called the chain **Khuqet-Zalu**, the southern desert-march, and the name has outlasted every garrison.

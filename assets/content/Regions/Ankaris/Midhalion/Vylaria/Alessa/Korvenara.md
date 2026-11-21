@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [alyssa]
-  population: 9000
+  population: {actual: 9000}
   market: regional
   type: town
   packFolder: vylaria

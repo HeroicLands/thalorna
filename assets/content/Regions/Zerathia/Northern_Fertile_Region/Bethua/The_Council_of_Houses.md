@@ -25,7 +25,7 @@ data:
         description: >-
           House-Mother of a recognized clan, holding its seat in the Council.
   seat: bethura
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [mtrrchybth]

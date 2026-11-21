@@ -50,7 +50,7 @@ data:
       Hofsgudi: >-
         Keeper of a named feast-hall hov, its stores and its blet.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [solrundty]
   parents: [asguardian]

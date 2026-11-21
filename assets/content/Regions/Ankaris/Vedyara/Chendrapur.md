@@ -64,8 +64,8 @@ data:
       Nau-senapavi: >-
         Commander of the fleet, who answers for the river mouth and the coast and lets the galleys out by the sailing season.
   seat: chendrapur2
-  population: 6000000
-  territorial_population: 6000000
+  population: {actual: 6000000}
+  territorial_population: {actual: 6000000}
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]
   parents: []

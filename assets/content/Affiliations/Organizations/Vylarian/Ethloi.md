@@ -42,7 +42,7 @@ data:
       First Driver: >-
         Held by a Brother of the Stand. Drives the Golds' best team in every great race.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

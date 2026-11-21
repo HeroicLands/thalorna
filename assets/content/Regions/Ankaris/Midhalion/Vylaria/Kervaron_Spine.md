@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [twelfthloss]
   parents: [vylariargn]
-  population: null
+  population: {actual: null}
   borders: [{to: alyssa, bearing: E}, {to: moktur, bearing: E}, {to: asturath, bearing: W}]
   routes: [{to: kavrenath, bearing: W, mode: land, days: 3, terrain: [mountains, road]}]
   packFolder: vylaria

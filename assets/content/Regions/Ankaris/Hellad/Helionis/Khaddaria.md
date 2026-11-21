@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [helionis]
-  population: 300000
+  population: {actual: 300000}
   government: null
   packFolder: helionis
 ---

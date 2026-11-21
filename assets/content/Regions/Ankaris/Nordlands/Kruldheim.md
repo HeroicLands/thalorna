@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
-  population: 0
+  population: {actual: 0}
   packFolder: nordlands
   notes: "The Nordlands settlement where the Nordmen buy thralls."
 ---

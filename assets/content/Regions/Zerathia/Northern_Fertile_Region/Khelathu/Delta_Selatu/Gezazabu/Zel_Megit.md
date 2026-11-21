@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [gezazabuselt]
-  population: 9900
+  population: {actual: 9900}
   type: town
   market: international
   packFolder: regkhsett

@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The river the Vilérian heartland is named for, which carries the capital's grain down from the inland landings and its sea cargoes up from Elissara, and reaches the sea through a fan of reed-marsh channels called the Mouths."
 tags: []
-data: {demonym: null, lore: [], parents: [vylariargn], population: null, packFolder: vylaria}
+data: {demonym: null, lore: [], parents: [vylariargn], population: {actual: null}, packFolder: vylaria}
 ---
 
 ## Overview {#overview}

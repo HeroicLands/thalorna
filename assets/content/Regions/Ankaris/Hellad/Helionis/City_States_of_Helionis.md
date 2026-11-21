@@ -38,8 +38,8 @@ data:
       Herald: "Officer of a member city-state who swears the truce at the heralds' altar, crosses any field in any war and may not be harmed."
       "Priest of the Sanctuary": "Keeper of the altar and of the oath-tablets of the member city-states, serving no city-state in particular."
   seat: gamessanct
-  population: 1200000
-  territorial_population: 1200000
+  population: {actual: 1200000}
+  territorial_population: {actual: 1200000}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

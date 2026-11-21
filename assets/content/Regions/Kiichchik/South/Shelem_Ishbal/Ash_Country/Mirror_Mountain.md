@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A hill of standing obsidian and mica slabs in the Ash Country, where a warrior walking between them sees every death he might die and must choose one."
 tags: [site, waste, obsidian]
-data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [ashcountry], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

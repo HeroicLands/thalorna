@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ellive]
-  population: 55000
+  population: {actual: 55000}
   market: international
   type: city
   packFolder: elavendre

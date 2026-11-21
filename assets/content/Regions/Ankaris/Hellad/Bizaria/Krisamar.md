@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [byzariargn]
-  population: 4500
+  population: {actual: 4500}
   market: regional
   type: town
   government: mrchntcnsrtchr

@@ -40,7 +40,7 @@ data:
       Envoy of the Council: >-
         Held by an Attendant. Carries the Council's single position to a foreign court, and carries nothing else.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [khzrncnfdrtn]

@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A stone pile in a gorge below Suvargeri's mountain road where Bharyastan's horse caught the raiders of the last gold raid about 80 BF, raised a stone higher by every tribute party that has gone up since."
 tags: [mountain, caravan]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [suvargerijnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 **The Raiders' Cairn** stands in a narrow gorge below the mountain road of [[place-suvargerijnpd|Suvargeri]], a half-day down from [[place-girimarga|Girimarga]], where the road drops to the stream and crosses it on stepping stones. About 80 BF the horse of [[affiliation-bharyastan|Bharyastan]] caught the raiders who had taken a month's gold off [[place-weighingstn|the weighing-station]], and killed most of them on the gravel below the crossing ([[lore-lastgldrd|the Last Gold Raid]]). The cairn marks the place.

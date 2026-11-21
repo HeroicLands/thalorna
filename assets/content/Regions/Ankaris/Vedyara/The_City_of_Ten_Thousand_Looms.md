@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vyalendraland]
-  population: 80000
+  population: {actual: 80000}
   market: international
   type: city
   packFolder: vedyara

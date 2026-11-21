@@ -57,8 +57,8 @@ data:
       Keeper of the Feud: >-
         Held by one Elder. Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: eshalshldg
-  population: 150000
-  territorial_population: 150000
+  population: {actual: 150000}
+  territorial_population: {actual: 150000}
   economy: [lore-kinhalcrdt, affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []

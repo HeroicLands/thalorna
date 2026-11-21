@@ -12,7 +12,7 @@ data:
   routes:
     - {to: bethura, bearing: N, mode: land, days: 10, terrain: [steppe, road]}
     - {to: aukhelathrgq, bearing: E, mode: land, days: 10, terrain: [steppe, road]}
-  population: null
+  population: {actual: null}
   packFolder: xerathia
 ---
 

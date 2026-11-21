@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A terraced hill on the pilgrim road up the Mahanodi that the upper-river villages call the ancestor's seat: a ring of dressed stone and a hollow where an altar stood, held by legend to be where the Mahanodi kings sat before Rajepur."
 tags: [hill, pilgrimage, ruin]
-data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [rajepurjnpd], population: {actual: null}, packFolder: vedyara}
 ---
 
 **Puranastan**, the old seat, is a terraced hill above the upper reaches of [[place-mahanodi|the Mahanodi]] on the pilgrim road to [[place-mahaprbhva|Mahaprabhava]]. The villages of the upper river call it the ancestor's seat and graze goats on it. Their legend is that the first kings of [[lore-mhndkngdm|Mahanodi]] sat here before they moved to [[place-rajepur|Rajepur]] in 480 BF, and were hallowed on an altar that stood on the top terrace.

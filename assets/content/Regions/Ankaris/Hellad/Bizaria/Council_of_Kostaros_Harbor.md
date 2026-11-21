@@ -25,8 +25,8 @@ data:
           Lives in the harbor town of Kostaros under its council.
     offices: {}
   seat: kostaros
-  population: null
-  territorial_population: 6000
+  population: {actual: null}
+  territorial_population: {actual: 6000}
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

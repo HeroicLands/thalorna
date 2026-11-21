@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A field of ancient standing stones where Frodvin is said to have blessed the earth, kept by its own keepers and sought in famine."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
+data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: {actual: 0}, packFolder: nordlands}
 ---
 
 A farmer comes to Vuldvangur when the fields have already failed. The ground is an open field of the [[place-nrdlndsrgn|Nordlands]] set with ancient standing stones, and the faithful of the [[affiliation-frodvin|Faith of Frodvin]] hold that [[lore-frodvindty|Frodvin]] himself blessed the earth here. The **Standing Stones of Vuldvangur** are kept by keepers who live by that belief.

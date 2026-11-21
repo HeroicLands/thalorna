@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The delta port the sea-raiders burned in 1960 ST (151 BF), a reed-grown mound on a silt-island of the Selat of Chathu whose channel has moved away: a pylon standing out of it, smugglers' landing at its back, and the raiders' own dead in the temple court."
 tags: [ruin, coast]
-data: {demonym: null, lore: [], parents: [chathuselat], population: null, packFolder: regkhsite}
+data: {demonym: null, lore: [], parents: [chathuselat], population: {actual: null}, packFolder: regkhsite}
 ---
 
 "That pylon was the temple door," a salt-cutter of [[place-chathu|Chathu]] says, pointing across the flat at a stump of stone in the reeds, "and everything else you can see is the town, under the mud." The town was Zel-Amqelu, and it has not had a roof since the day the sea-raiders landed.

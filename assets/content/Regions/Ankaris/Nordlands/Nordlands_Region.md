@@ -14,7 +14,7 @@ data:
     - {to: vrystwald, bearing: SE}
     - {to: falkhaven, bearing: S}
     - {to: velanthrgn, bearing: SE}
-  population: 2000000
+  population: {actual: 2000000}
   packFolder: nordlands
   culture: nordheimnclt
 

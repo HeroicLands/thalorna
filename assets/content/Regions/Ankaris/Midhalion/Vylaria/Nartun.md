@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nartumkngdm]
-  population: 60000
+  population: {actual: 60000}
   market: international
   type: city
   routes: [{to: ashenmere, bearing: S, mode: land, days: 5, terrain: [forest, road]}]

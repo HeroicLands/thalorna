@@ -40,7 +40,7 @@ data:
       Keeper of the Channel: >-
         Held by an Elder of the House. Counts the days the water runs, shares the flow between the stretches, and says which household clears which.
   seat: vahurdash
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [khzrncnfdrtn]

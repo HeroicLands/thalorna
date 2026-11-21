@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [xelemchalix]
-  population: 0
+  population: {actual: 0}
   government: qapteltzakl
   packFolder: qapteltzakul
 ---

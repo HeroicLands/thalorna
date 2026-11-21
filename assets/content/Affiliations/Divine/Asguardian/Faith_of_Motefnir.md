@@ -50,7 +50,7 @@ data:
       Hofsgudi: >-
         Keeper of a named hov, its benches, its stores and its blet.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [motefnirdty]
   parents: [asguardian]

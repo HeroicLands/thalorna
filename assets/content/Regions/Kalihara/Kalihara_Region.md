@@ -9,7 +9,7 @@ data:
   demonym: Kaliharan
   lore: [humanflk]
   parents: [klhrcntnnt]
-  population: 3000000
+  population: {actual: 3000000}
   packFolder: kalihara
   government: kalihara
 

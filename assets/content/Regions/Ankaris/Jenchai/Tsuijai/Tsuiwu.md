@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [tsuijai]
-  population: 2600
+  population: {actual: 2600}
   market: local
   type: town
   government: tsuijaidmn

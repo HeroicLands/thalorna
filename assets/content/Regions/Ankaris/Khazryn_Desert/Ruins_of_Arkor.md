@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The westernmost of the Tower Cities, buried beneath the sands of the Desert of Hek'ar, where the Black Flame's Blazing Oath seeks the Eye of Velok."
 tags: []
-data: {demonym: null, lore: [], parents: [hekardesert], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [hekardesert], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 ## Overview {#overview}

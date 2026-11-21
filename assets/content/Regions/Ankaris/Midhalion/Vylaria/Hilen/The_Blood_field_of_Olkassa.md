@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The wheat-field on the Olkassa estate in Hilen where Vilérian legions killed one another about 401 AF: a moderate quickening that brings the grain in a fortnight early and half again as heavy, farmed in silence and sold into the state granaries that feed the capital."
 tags: [vylaria, hylen, farmland, battlefield]
-data: {demonym: null, lore: [bloodfield], parents: [hylen], population: 0, packFolder: vylaria}
+data: {demonym: null, lore: [bloodfield], parents: [hylen], population: {actual: 0}, packFolder: vylaria}
 ---
 
 ## Overview {#overview}

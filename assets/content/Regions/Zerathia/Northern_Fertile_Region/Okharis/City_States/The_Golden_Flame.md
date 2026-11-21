@@ -14,7 +14,7 @@ data:
     - {to: provenzrgn, bearing: N, mode: ship, days: 2, terrain: [open-sea]}
     - {to: tarvenirgn, bearing: NE, mode: ship, days: 5, terrain: [open-sea]}
     - {to: bethura, bearing: E, mode: land, days: 20, terrain: [road]}
-  population: 35000
+  population: {actual: 35000}
   market: international
   type: city
   packFolder: citystates

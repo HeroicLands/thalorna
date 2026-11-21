@@ -27,7 +27,7 @@ data:
       First Peer: >-
         Held by a Peer, chosen by the voices of the Peers at the first sitting of each year. Calls the sittings when the king is absent, keeps the order of business, puts the question and counts the voices.
   seat: jalnazdal
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

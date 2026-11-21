@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [lirve]
-  population: 90
+  population: {actual: 90}
   type: hamlet
   market: local
   packFolder: elavendre

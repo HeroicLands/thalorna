@@ -32,7 +32,7 @@ data:
       Head of the Norodari: >-
         Held by one Of the House. Holds the house's seat on the Captains' Council, its hulls and its counting-rooms, and signs its contracts.
   seat: calypsacity
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [calypsa]

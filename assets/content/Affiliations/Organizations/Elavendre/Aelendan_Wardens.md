@@ -30,7 +30,7 @@ data:
     offices:
       Runner: Held by one Warden. Carrier of messages between territories, through whom coordination across tribal boundaries passes.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

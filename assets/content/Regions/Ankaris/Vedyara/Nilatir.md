@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vyalendraland]
-  population: 12000
+  population: {actual: 12000}
   type: town
   market: international
   routes: [{to: tantsouregin, bearing: NE, mode: ship, days: 45, terrain: [open-sea]}]

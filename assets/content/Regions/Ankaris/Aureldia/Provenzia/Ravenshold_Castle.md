@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ravenshold]
-  population: 1600
+  population: {actual: 1600}
   market: local
   type: town
   government: kngdmprvnz

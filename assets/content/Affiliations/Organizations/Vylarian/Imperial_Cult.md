@@ -40,7 +40,7 @@ data:
       Zalvos of the Province: >-
         Held by a Zalvos. Presides over the rites that bind a province to the capital, from the provincial seat.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

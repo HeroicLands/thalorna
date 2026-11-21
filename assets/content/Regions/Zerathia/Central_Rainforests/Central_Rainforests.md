@@ -16,7 +16,7 @@ data:
   routes:
     - {to: vuthraka, bearing: N, mode: land, days: 10, terrain: [jungle, plain]}
     - {to: sthrnsvnhs, bearing: S, mode: land, days: 30, terrain: [jungle, plain]}
-  population: 250000
+  population: {actual: 250000}
   packFolder: centralrainforests
 
 # terran_analog: Equatorial African interior (Congo basin)

@@ -33,7 +33,7 @@ data:
           Leads the order's herbalists and caretakers across the groves attached to Frodvin's infirmaries.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

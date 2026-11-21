@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A low gray ridge of long ribs in the gravel of the Thirst, cold at noon, which the walkers of the plains will not cross, so that parties camp against it; the clear stretch grows shorter every season."
 tags: [site, waste, strange]
-data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [thethirst], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

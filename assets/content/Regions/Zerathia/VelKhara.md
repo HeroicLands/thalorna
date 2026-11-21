@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "A distant kingdom whose agents come to Au'Khelathu buying timber of extraordinary size and rarity for siege engines."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [xerathia], population: 0, packFolder: xerathia}
+data: {demonym: null, lore: [], parents: [xerathia], population: {actual: 0}, packFolder: xerathia}
 ---
 
 ## Overview {#overview}

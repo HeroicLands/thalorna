@@ -33,7 +33,7 @@ data:
           Leads the order's care of body and soul at Frodvin's infirmaries.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [garrethsaarnome]
-  population: 85000
+  population: {actual: 85000}
   market: international
   type: city
   packFolder: regkhsett

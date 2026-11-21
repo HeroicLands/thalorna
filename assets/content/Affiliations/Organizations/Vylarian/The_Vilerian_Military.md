@@ -104,7 +104,7 @@ data:
       Gelmalor: >-
         Prefect of the cavalry and specialist troops attached to a legion.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: [affiliation-tarmex, affiliation-danvar, lore-vylrncrncy]
   lore: []
   parents: []

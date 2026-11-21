@@ -46,7 +46,7 @@ data:
       Gate-Sergeant: >-
         Held by a Watch-Sergeant, one to each gate-road across the Clearance. Holds the gate, the residence-check and the declaring of blades, beside the customs-men.
   seat: orzara
-  population: 5000
+  population: {actual: 5000}
   economy: [affiliation-tarmex]
   lore: []
   parents: [vylrnmltry]

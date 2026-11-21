@@ -46,7 +46,7 @@ data:
       Usher of Petitions: >-
         Held by a Clerk. Receives petitions at the petition gate, takes the fee and gives each petitioner his number.
   seat: arvon
-  population: null
+  population: {actual: null}
   economy: [affiliation-tarmex, affiliation-tolvan]
   lore: []
   parents: []

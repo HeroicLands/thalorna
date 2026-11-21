@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The dry bed of the lake the Basin Builders lived beside: a white salt flat in the Ghoshiqor, edged by stepped mounds and straight canal banks that run out under the sand."
 tags: []
-data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [hskrrgn], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 ## Overview {#overview}

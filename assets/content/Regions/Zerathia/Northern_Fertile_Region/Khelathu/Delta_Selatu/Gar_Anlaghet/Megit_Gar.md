@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [garanlghtslt]
-  population: 14000
+  population: {actual: 14000}
   type: city
   market: regional
   government: selatgrnlght

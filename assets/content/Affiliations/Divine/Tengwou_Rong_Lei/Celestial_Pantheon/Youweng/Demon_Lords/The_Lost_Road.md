@@ -47,7 +47,7 @@ data:
       Watcher: >-
         Keeps the cultus ahead of the Celestial Marshals and the archive's inspectors, and carries out the sentence when loyalty fails.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [douyodty]
   parents: [tengwouronglei]

@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "The first country of the waste below the gate: ash terraces, boiling ground, black glass and a dead mountain where the Old Fire Dragon lairs."
 tags: [region, waste]
-data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: {actual: null}, packFolder: xelemixbal}
 
 # terran_analog: the volcanic arc and high puna of the southern Andes, from the Peruvian south through the Atacama's volcano line.
 ---

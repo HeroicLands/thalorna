@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The flame that burns on bare stone high on the southern face of Mount Shofar, with no hearth, no fuel and no ash, kept by the Toqel and the first holy site of the Atarzád."
 tags: [sacred, pilgrimage]
-data: {demonym: null, lore: [], parents: [mountshofar], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [mountshofar], population: {actual: 0}, packFolder: khazryndesert}
 ---
 
 The stair from Beit-Shofár ends on a shelf of black stone high on the southern face of [[place-mountshofar|Mount Shofar]], and the Flame stands in the middle of it. It is about the height of a kneeling man, pale yellow at the root and clear at the tip, and it comes straight out of the bare rock: no hearth, no wood, no oil, and no crack in the stone beneath it. It makes no sound. The wind bends it and lets it go. A pilgrim who reaches the top of the stair at dawn sees it before seeing anything else on the shelf, and most kneel there, at the last step, before going any nearer.

@@ -40,7 +40,7 @@ data:
       Veramus of the Rolls: >-
         The census, the citizen-rolls, the city's records and its correspondence with the throne; by custom the council's coordinating seat.
   seat: platandstr
-  population: null
+  population: {actual: null}
   economy: [affiliation-tarmex, affiliation-tolvan]
   lore: []
   parents: []

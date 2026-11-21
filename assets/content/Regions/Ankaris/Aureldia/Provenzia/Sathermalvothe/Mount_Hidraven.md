@@ -6,7 +6,7 @@ subType: feature
 
 description: "The great peak of Provénzia's northern mountains and the source of its waters—sacred to the Áelendan, who permit passage to shepherds and pilgrims and to no one who comes with instruments."
 tags: [mountain, sacred, inland]
-data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
+data: {demonym: null, lore: [], parents: [sathvothe], population: {actual: null}, packFolder: provenzia}
 ---
 
 Hidraven is the highest of the northern mountains, standing where the [[place-provenzrgn|Provénzia Region]]'s cold uplands run up

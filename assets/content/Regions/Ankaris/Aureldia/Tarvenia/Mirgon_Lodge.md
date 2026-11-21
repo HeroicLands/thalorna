@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [toravarrange]
-  population: 240
+  population: {actual: 240}
   market: local
   type: village
   government: aelndntrbs

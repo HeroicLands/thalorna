@@ -14,7 +14,7 @@ data:
     - {to: thornwold, bearing: N}
     - {to: dunavarre, bearing: E}
     - {to: veldareth, bearing: W}
-  population: 4000
+  population: {actual: 4000}
   government: nclvhllwwd
   packFolder: eilwith
   culture: senaliclt

@@ -50,7 +50,7 @@ data:
       Hofsgudi: >-
         Keeper of a named hov attached to a valley infirmary, its stores and its blet.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [frodvindty]
   parents: [asguardian]

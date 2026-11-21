@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A Vilérian warship taken at the Battle of Tamzir Shoals, kept in a stone dry-dock on Besikar's waterfront under a Taruzelian flag: the veterans' shrine, and in the Auric Compact's view a standing insult to the Confederation's best customers."
 tags: [taruzel, besikar, memorial]
-data: {demonym: null, lore: [], parents: [besikar2], population: 0, packFolder: taruzel}
+data: {demonym: null, lore: [], parents: [besikar2], population: {actual: 0}, packFolder: taruzel}
 ---
 
 ## Overview {#overview}

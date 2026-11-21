@@ -51,8 +51,8 @@ data:
       Convener: >-
         Summons the Great Lubemo, keeps its order of speaking and speaks last; held by the Ruwozi paramount.
   seat: null
-  population: 2000000
-  territorial_population: 2000000
+  population: {actual: 2000000}
+  territorial_population: {actual: 2000000}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

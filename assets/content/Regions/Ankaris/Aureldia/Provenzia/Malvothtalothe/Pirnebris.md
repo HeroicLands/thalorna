@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [talothe]
   routes: [{to: durvalis, bearing: E, mode: land, days: 2, terrain: [hills, road]}]
-  population: 1800
+  population: {actual: 1800}
   market: local
   type: town
   government: kngdmprvnz

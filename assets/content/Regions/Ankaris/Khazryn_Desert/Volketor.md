@@ -15,7 +15,7 @@ data:
     - {to: byzariargn, bearing: W}
     - {to: dunharargn, bearing: SW}
     - {to: amradadrgn, bearing: SW}
-  population: 280000
+  population: {actual: 280000}
   packFolder: khazryndesert
   government: null
 ---

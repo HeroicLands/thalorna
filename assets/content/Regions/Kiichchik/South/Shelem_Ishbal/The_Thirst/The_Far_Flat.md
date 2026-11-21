@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "The greatest dry lake of the Thirst, a white floor of salt where the mountain on the far shore never comes nearer and parties walk until their water runs out."
 tags: [feature, waste, desert, salt]
-data: {demonym: null, lore: [], parents: [thethirst], population: 0, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [thethirst], population: {actual: 0}, packFolder: xelemixbal}
 ---
 
 ## Overview {#overview}

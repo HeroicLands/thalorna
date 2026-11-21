@@ -46,7 +46,7 @@ data:
       Marshal of the Hunt: >-
         A Patterned Cloak named by a Ts'enmah to walk the field of a treaty-hunt with the other side's Marshal, count its captives, and close it when the count is reached.
   seat: ishtalhun
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [ixilankul]

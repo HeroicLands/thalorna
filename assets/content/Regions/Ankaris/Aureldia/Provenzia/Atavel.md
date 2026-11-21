@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [talothe]
-  population: 200000
+  population: {actual: 200000}
   borders: [{to: ceravelvale, bearing: E}]
   government: kngdmprvnz
   packFolder: provenzia

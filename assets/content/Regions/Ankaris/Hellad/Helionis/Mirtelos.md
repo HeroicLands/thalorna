@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [kostarosdst]
-  population: 20000
+  population: {actual: 20000}
   market: regional
   type: city
   packFolder: helionis

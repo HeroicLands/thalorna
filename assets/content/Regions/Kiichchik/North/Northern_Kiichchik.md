@@ -17,7 +17,7 @@ data:
     - tikupilaritclt
     - kawiskakclt
   parents: [kiichchik]
-  population: 3500000
+  population: {actual: 3500000}
   packFolder: kiichchik
 
 # terran_analog: "The present United States and southern Canada around 1100: the Haudenosaunee and their Algonquian neighbors, the Mississippian chiefdoms at the height of Cahokia, the pre-horse Plains hunters and Plains Village farmers, the Ancestral Puebloans of Chaco Canyon and Mesa Verde, and the Pacific Northwest coast. The two peoples outside the compact are drawn from California (the Chumash and the acorn peoples) and Alaska (the Unangan, Yup'ik and Iñupiat, and the early Thule). The compact draws on the calumet ceremony and the Pipestone quarry; the sea raiders are the Norse voyages of about 1000 to 1100, and the arctic newcomers the Thule expansion of about 1000 to 1300."

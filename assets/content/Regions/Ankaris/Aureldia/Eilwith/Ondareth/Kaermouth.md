@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ondareth]
-  population: 3500
+  population: {actual: 3500}
   market: regional
   type: town
   packFolder: eilwith
