@@ -90,7 +90,7 @@ data:
       market: subsistence
       notes: "A hamlet-sized village of rope-makers and net-menders."
   economy: []
-  lore: [humanflk]
+  lore: [humanflk, tarvalturn]
   parents: []
   relations: {prncdmzhtvsh: rival, prncdmbrvvsh: aligned, mrchnthsrvr: aligned}
   packFolder: velanthia
@@ -103,7 +103,7 @@ The Princedom of Brelavesh holds the river-port where Velanthia meets everyone e
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The prince is [Milogor Yarogorich]{.name data-type="being/npc"}, and he rules the port by tolls and by his mint. His port-warden keeps the landings and the order of the quays, his judge of the quays hears the disputes of boatmen and merchants by the shared customary law, and his keeper of the mint strikes the silver that the river trade runs on. A retinue of riders holds the walls. The prince takes a toll on every boat and every wagon, and the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] pay it as a sum and not by the load, which the port-warden audits and the houses resent.
+The prince is [[being-mlgryrgrch|Milogor Yarogorich]], and he rules the port by tolls and by his mint. His port-warden, [[being-trvkmvrnch|Torvik Mevranich]], keeps the landings and the order of the quays, his judge of the quays hears the disputes of boatmen and merchants by the shared customary law, and his keeper of the mint strikes the silver that the river trade runs on. A retinue of riders holds the walls. The prince takes a toll on every boat and every wagon, and the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]] pay it as a sum and not by the load, which the port-warden audits and the houses resent.
 
 ## Current Situation {#present}
 
@@ -111,7 +111,7 @@ The houses lend against the next harvest, and the prince lives on what they pay 
 
 ## History {#history}
 
-The port grew where the three trades met, and the house that holds it has held it since the quays were timber. It has never needed a larger army than its neighbors lent it: the forts of Brevavesh guard its northern river, and the lowland barns feed its quays.
+The port grew where the three trades met, and the house that holds it has held it since the quays were timber. It has never needed a larger army than its neighbors lent it: the forts of Brevavesh guard its northern river, and the lowland barns feed its quays. The country of the Tarvál Host passed to it from the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] in 697 AF, and it has paid the Host since ([[lore-tarvalturn|The Tarvál Host Changes Sides]]).
 
 ## See Also {#see-also}
 

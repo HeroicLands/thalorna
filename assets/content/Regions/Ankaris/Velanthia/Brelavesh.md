@@ -33,11 +33,11 @@ The prince takes a toll on every boat and wagon that reaches the port, and the m
 
 ## Order and Law {#order-and-law}
 
-The prince, [Milogor Yarogorich]{.name data-type="being/npc"}, rules the city by tolls and by his mint. A visitor meets his offices on the quays: the port-warden's clerks at every landing, the judge of the quays, who hears boatmen and merchants by the customary law the princely houses share, and the keeper of the mint, whose silver the river trade is counted in. A retinue of riders holds the walls. A dispute between two merchant houses goes to the houses' own arbiter of debts, not to the prince's judge, and the prince takes no part unless a toll is owed.
+The prince, [[being-mlgryrgrch|Milogor Yarogorich]], rules the city by tolls and by his mint. A visitor meets his offices on the quays: the clerks of the port-warden, [[being-trvkmvrnch|Torvik Mevranich]], at every landing, the judge of the quays, who hears boatmen and merchants by the customary law the princely houses share, and the keeper of the mint, whose silver the river trade is counted in. A retinue of riders holds the walls. A dispute between two merchant houses goes to the houses' own arbiter of debts, not to the prince's judge, and the prince takes no part unless a toll is owed.
 
 ## What the City Lives By {#what-the-city-lives-by}
 
-The port lives by being where the trades meet. Grain comes down from the lowlands, furs come down from the northern forest by way of landings such as [[place-rdvsh|Radavesh]], horses come in from the Khazrin by the roads of the [[affiliation-hsttrvl|Tarvál Host]], and every sack, bale and string is weighed against the standard held by the houses' keeper of the weights and taxed by the prince. The houses lend against each year's harvest and finance the barges and fur boats, and the prince's silver is what the credit is counted in. Shipwrights, rope-makers and net-menders from the villages below the port supply the boats, and the smokehouses and salt-sheds along the quays preserve what the river brings.
+The port lives by being where the trades meet. Grain comes down from the lowlands on barges such as [[being-vrnchrvshv|Ovran Charvashov]]'s, furs come down from the northern forest by way of landings such as [[place-rdvsh|Radavesh]], horses come in from the Khazrin by the roads of the [[affiliation-hsttrvl|Tarvál Host]], and every sack, bale and string is weighed against the standard held by the houses' keeper of the weights and taxed by the prince. The houses, among them the house of [[being-slvntvskgrch|Sulvan Tveskogorich]], lend against each year's harvest and finance the barges and fur boats, and the prince's silver is what the credit is counted in. Shipwrights, rope-makers and net-menders from the villages below the port supply the boats, and the smokehouses and salt-sheds along the quays preserve what the river brings.
 
 ## Faith and Festivals {#faith-and-festivals}
 
@@ -45,7 +45,7 @@ The granary monasteries of the [[affiliation-lizelas|Faith of Lizelas]] keep the
 
 ## Where a Party Lodges {#lodging}
 
-The quays are lined with bargemen's inns: loud, crowded and cheap in the winter, dear when the harvest barges are in. A merchant house keeps a guest hall for the factors and masters it trades with, and a visitor with a letter from a house is lodged there, among ledgers. The prince's hall receives visitors of rank and charges them for the privilege in the courtesies it expects.
+The quays are lined with bargemen's inns: loud, crowded and cheap in the winter, dear when the harvest barges are in. [[being-yrnbrlvdch|Yarana Brelovodich]] plays her harp in four of them. A merchant house keeps a guest hall for the factors and masters it trades with, and a visitor with a letter from a house is lodged there, among ledgers. The prince's hall receives visitors of rank and charges them for the privilege in the courtesies it expects.
 
 ## History {#history}
 
@@ -68,8 +68,20 @@ The port grew where three trades met: the grain barges of the lowlands, the fur 
 [[affiliation-hsttrvl|Tarvál Host]]
 : the Host on its eastern roads
 
+[[place-hrsoks|Horse Oaks]]
+: the grove on the bluff upstream
+
 [[place-rdvsh|Radavesh]]
 : the landing where the fur boats unload
+
+[[being-yrnbrlvdch|Yarana Brelovodich]]
+: the harper of the quay inns
+
+[[being-vrnchrvshv|Ovran Charvashov]]
+: a barge-master of the grain boats
+
+[[being-slvntvskgrch|Sulvan Tveskogorich]]
+: a member of a great merchant house
 
 [[place-velanthrgn|Velanthia Region]]
 : the land

@@ -25,6 +25,9 @@ The village sings its lament at the turning of the seasons beside [[place-mahnhr
 
 ## See Also {#see-also}
 
+[[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]]
+: a fur hunter of the village
+
 [[place-skathwald|Skathwald]]
 : the reach around the village
 

@@ -23,7 +23,7 @@ The landing is a low bank on a slow river with the forest behind it and the mars
 
 ## Who Uses It
 
-The Grukar come to it as a raiding party and for nothing else. The wardens of [[place-trvgrfrt|Torvogor Fort]] watch it, and the village beneath the fort rings its bell when canoes are seen.
+The Grukar come to it as a raiding party and for nothing else. The wardens of [[place-trvgrfrt|Torvogor Fort]], under [[being-krvgrlrvkv|Karvogor Lervikov]], watch it, and the village beneath the fort rings its bell when canoes are seen. [[being-brvnbrvkv|Brevana Brevekov]] goes down to it with a cart after a raid.
 
 ## Dangers
 
@@ -45,6 +45,12 @@ The landing lies some hours' travel from the fort that watches it, and the bell 
 
 [[place-trvgrfrt|Torvogor Fort]]
 : the paid fort that watches it
+
+[[being-krvgrlrvkv|Karvogor Lervikov]]
+: the warden who watches it
+
+[[being-brvnbrvkv|Brevana Brevekov]]
+: the healer who tends its wounded
 
 [[place-grkrhlmrgn|Grukarholm Region]]
 : the country it lies in

@@ -21,7 +21,7 @@ Like the [[place-eastrnmrch|Eastern March]] and [[place-southrnmrch|Southern Mar
 
 ## Geography
 
-The March is upland: high pasture and stony ridges above the plateau proper, colder and wetter than the country to the south, with oak and pine in the sheltered valleys and snow on the passes for a third of the year. Streams run north off the ridges toward Velanthia's rivers and south into the plateau's valley bottoms; the watershed is, in practice, the frontier. On the Bizarian side the villages farm barley and keep cattle; on the far side the land opens into the horse-country of the southern **Velanthian Hosts**.
+The March is upland: high pasture and stony ridges above the plateau proper, colder and wetter than the country to the south, with oak and pine in the sheltered valleys and snow on the passes for a third of the year. Streams run north off the ridges of [[place-krvgr|Karvogora]] toward Velanthia's rivers and south into the plateau's valley bottoms; the watershed is, in practice, the frontier. On the Bizarian side the villages farm barley and keep cattle; on the far side the land opens into the horse-country of the southern **Velanthian Hosts**.
 
 Two roads cross the March. The grain road runs from Krusteikhos north over the lowest pass to the Velanthian grain-belt towns, and along it, from late summer until the snow closes the pass, the wagon trains come south. A lesser drove road further east carries Velanthian horses down toward [[place-orashion2|Órashion]] and the eastern plateau. Both are guarded by customs posts at the frontier, where imperial officers set the tariff, and by way-forts at the passes, which the League pays and staffs.
 
@@ -58,6 +58,9 @@ The March is a passage and a pasture. Its own produce is barley, cattle, timber 
 
 [[place-velanthrgn|Velanthia Region]]
 : the country it faces
+
+[[place-krvgr|Karvogora]]
+: the range its ridges belong to
 
 [[place-nrdlndsrgn|Nordlands Region]]
 : beyond Velanthia, source of merchants and mercenaries

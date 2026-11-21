@@ -21,7 +21,7 @@ data:
 
 ## Overview {#overview}
 
-Tveskanov is a palisaded muster town of about three thousand people close under the southern range, the seat of the [[affiliation-hstsvrt|Sevret Host]] and its ataman, [Sovidan Volketich]{.name data-type="being/npc"}. The Host's riders gather here before each season of pass patrols, the warden of the passes keeps the patrol rosters in the ataman's hall, and the keeper of the muster holds the banner and the roll. The foothill fields around the town feed the riders, and the road to the pass market of [[place-tvskvsh|Tveskavesh]] begins at its gate. The Host serves the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] for pay in grain and silver, and its riders look to the harvest more closely than to the weather.
+Tveskanov is a palisaded muster town of about three thousand people close under the southern range, the seat of the [[affiliation-hstsvrt|Sevret Host]] and its ataman, [[being-svdnvlktch|Sovidan Volketich]]. The Host's riders gather here before each season of pass patrols, the warden of the passes, [[being-kdvntshgrch|Kodvan Teshogorich]], keeps the patrol rosters in the ataman's hall, and the keeper of the muster holds the banner and the roll. The foothill fields around the town feed the riders, and the road to the pass market of [[place-tvskvsh|Tveskavesh]] begins at its gate. The Host serves the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] for pay in grain and silver, and its riders look to the harvest more closely than to the weather, except when [[being-tshnmvrkv|Teshena Mevrekov]], the rain-wife of the foothills, names the week a pass will close.
 
 ## See Also {#see-also}
 
@@ -33,6 +33,12 @@ Tveskanov is a palisaded muster town of about three thousand people close under 
 
 [[place-tvskvsh|Tveskavesh]]
 : the pass market its patrols guard
+
+[[being-kdvntshgrch|Kodvan Teshogorich]]
+: the warden of the passes
+
+[[being-tshnmvrkv|Teshena Mevrekov]]
+: the rain-wife of the foothills
 
 [[place-velanthrgn|Velanthia Region]]
 : the land

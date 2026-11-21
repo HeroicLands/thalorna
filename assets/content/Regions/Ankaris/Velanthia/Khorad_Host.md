@@ -68,7 +68,7 @@ data:
       market: subsistence
       notes: "A well village on the grass."
   economy: []
-  lore: [humanflk, thrdorqwnq]
+  lore: [humanflk, thrdorqwnq, hostsforpay]
   parents: [prncdmzhtvsh]
   relations: {prncdmzhtvsh: aligned, sqrtrtrb: rival}
   packFolder: velanthia
@@ -81,7 +81,7 @@ The Khorad Host is the Velanthian Host of the open steppe margin, the one neares
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The Host takes its name from its founding ataman, and the office passes in his line. The ataman is [Belukan Kelodov]{.name data-type="being/npc"}. He commands the riders, presides at the council of the clans and serves the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] for pay. An envoy to the tribes carries the Host's gifts and ransoms across the frontier, and a horse-master keeps the Host's herds and their breeding.
+The Host takes its name from its founding ataman, and the office passes in his line. The ataman is [[being-blknkldv|Belukan Kelodov]]. He commands the riders, presides at the council of the clans and serves the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]] for pay. An envoy to the tribes carries the Host's gifts and ransoms across the frontier, and a horse-master keeps the Host's herds and their breeding.
 
 ## Current Situation {#present}
 
@@ -89,7 +89,7 @@ The Host has told the river communities on the frontier to stop paying the tribe
 
 ## History {#history}
 
-The Host's grass was overrun by the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), and its settlers returned to it afterward, with their founding line intact.
+The Host's grass was overrun by the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), and its settlers returned to it afterward, with their founding line intact ([[lore-hostsforpay|The Hosts Take Pay]]).
 
 ## See Also {#see-also}
 
@@ -101,6 +101,9 @@ The Host's grass was overrun by the third union of the steppe about 548 AF ([[lo
 
 [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 : the prince it serves
+
+[[place-bnnrfld|Banner Field]]
+: where the three Hosts gather
 
 [[place-velanthrgn|Velanthia Region]]
 : the land

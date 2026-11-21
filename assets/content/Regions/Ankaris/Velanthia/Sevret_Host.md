@@ -68,7 +68,7 @@ data:
       market: subsistence
       notes: "A honey-and-barley village on the pass road."
   economy: []
-  lore: [humanflk]
+  lore: [humanflk, hostsforpay]
   parents: [prncdmzhtvsh]
   relations: {prncdmzhtvsh: aligned}
   packFolder: velanthia
@@ -77,11 +77,11 @@ sohl: {system: {commonSkills: [velanthlng]}}
 
 ## Overview {#overview}
 
-The Sevret Host is the Velanthian Host of the south-eastern margin, under the range that divides Velanthia from Helionis and Bizaria. It holds the pass roads for the grain prince, rides escort for the drovers who winter on the Northern March, and farms the foothill fields below the passes. About 100,000 people live in its country, which lies inside the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]. Its seat is the muster town of [[place-tvsknv|Tveskanov]].
+The Sevret Host is the Velanthian Host of the south-eastern margin, under [[place-krvgr|Karvogora]], the range that divides Velanthia from Helionis and Bizaria. It holds the pass roads for the grain prince, rides escort for the drovers who winter on the Northern March, and farms the foothill fields below the passes. About 100,000 people live in its country, which lies inside the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]].
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The Host takes its name from its river, and its ataman holds the office in the founding line. He is [Sovidan Volketich]{.name data-type="being/npc"}. He commands the riders, presides at the council of the clans, and speaks to the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]], whom the Host serves for pay in grain and silver. A warden of the passes keeps the patrol rosters, and a keeper of the muster holds the banner and the roll.
+The Host takes its name from its river, and its ataman holds the office in the founding line. He is [[being-svdnvlktch|Sovidan Volketich]]. He commands the riders, presides at the council of the clans, and speaks to the prince of the [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]], whom the Host serves for pay in grain and silver. A warden of the passes keeps the patrol rosters, and a keeper of the muster holds the banner and the roll.
 
 ## Current Situation {#present}
 
@@ -89,7 +89,7 @@ The passes are the Host's work and its worry. Marauders come down from the minin
 
 ## History {#history}
 
-The Host grew from the drovers' escorts that guarded the grain road, and took its first ataman from among them.
+The Host grew from the drovers' escorts that guarded the grain road, and took its first ataman from among them ([[lore-hostsforpay|The Hosts Take Pay]]).
 
 ## See Also {#see-also}
 
@@ -101,6 +101,12 @@ The Host grew from the drovers' escorts that guarded the grain road, and took it
 
 [[affiliation-prncdmzhtvsh|Princedom of Zhitavesh]]
 : the prince it serves
+
+[[place-krvgr|Karvogora]]
+: the range its patrols watch
+
+[[place-bnnrfld|Banner Field]]
+: where the three Hosts gather
 
 [[place-velanthrgn|Velanthia Region]]
 : the land

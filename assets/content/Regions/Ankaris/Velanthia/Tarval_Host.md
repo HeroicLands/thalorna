@@ -68,7 +68,7 @@ data:
       market: subsistence
       notes: "A village of horse-keepers beside a river well."
   economy: []
-  lore: [humanflk, thrdorqwnq]
+  lore: [humanflk, thrdorqwnq, hostsforpay, tarvalturn]
   parents: [prncdmbrlvsh]
   relations: {prncdmbrlvsh: aligned}
   packFolder: velanthia
@@ -81,7 +81,7 @@ The Tarvál Host is the Velanthian Host of the eastern caravan roads. It lives i
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The Host is named for its founding ataman, and the office passes in his line. The ataman is [Volkar Kodogorich]{.name data-type="being/npc"}. He commands the riders, presides at the Host's council, where the heads of the clans sit, and speaks for the Host to the prince of the [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]], whom the Host serves for pay. The muster officer keeps the roll of riders and the banner, and the toll-keeper collects what the caravans owe at the posts. The Host keeps its own law and carries a battle-shrine to the gathering ground.
+The Host is named for its founding ataman, and the office passes in his line. The ataman is [[being-vlkrkdgrch|Volkar Kodogorich]]. He commands the riders, presides at the Host's council, where the heads of the clans sit, and speaks for the Host to the prince of the [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]], whom the Host serves for pay. The muster officer keeps the roll of riders and the banner, and the toll-keeper collects what the caravans owe at the posts. The Host keeps its own law and carries a battle-shrine to [[place-bnnrfld|Banner Field]], the gathering ground of the three Hosts.
 
 ## Current Situation {#present}
 
@@ -89,7 +89,7 @@ The Host wants autonomy, pay and the right to what the roads yield, and the prin
 
 ## History {#history}
 
-The Host's first ataman held a ford on the caravan road, and the Host grew around his tolls. It lost its eastern villages to the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]) and took them back within two generations.
+The Host's first ataman held a ford on the caravan road, and the Host grew around his tolls. It lost its eastern villages to the third union of the steppe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]) and took them back within two generations ([[lore-hostsforpay|The Hosts Take Pay]]). It rode west with the other Hosts against the jarls about 625 AF ([[lore-northernwar|The Border War with the Jarls]]). Until 697 AF it rode for the prince of Zhitavesh, and in that year it took the port's pay instead ([[lore-tarvalturn|The Tarvál Host Changes Sides]]).
 
 ## See Also {#see-also}
 
@@ -98,6 +98,9 @@ The Host's first ataman held a ford on the caravan road, and the Host grew aroun
 
 [[affiliation-prncdmbrlvsh|Princedom of Brelavesh]]
 : the prince it serves
+
+[[place-bnnrfld|Banner Field]]
+: where the three Hosts gather
 
 [[place-velanthrgn|Velanthia Region]]
 : the land

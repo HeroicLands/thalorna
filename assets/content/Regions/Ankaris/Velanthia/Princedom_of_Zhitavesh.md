@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Officer of the Hall
         description: >-
-          The judge, the captain of the retinue or the keeper of the granary, who holds a post at the prince's pleasure.
+          The judge, the captain of the retinue or the keeper of the granary or the reeve of the pass market, who holds a post at the prince's pleasure.
       - level: 4
         title: Prince
         description: >-
@@ -45,6 +45,8 @@ data:
         Commands the riders sworn to the prince's hall and the garrison of the seat.
       Keeper of the Princely Granary: >-
         Answers for the prince's stores and counts them against what the monasteries hold.
+      Reeve of the Pass Market: >-
+        Keeps the toll on every wagon through the south gate of Tveskavesh and the order of its stables.
   seat: zhtvsh
   population: {actual: null}
   territorial_population: {actual: 650000}
@@ -120,7 +122,7 @@ data:
       market: subsistence
       notes: "A flax-growing village that sells its harvest to the mill town."
   economy: []
-  lore: [humanflk, thrdorqwnq]
+  lore: [humanflk, thrdorqwnq, leanyear, tarvalturn]
   parents: []
   relations: {prncdmbrlvsh: rival, prncdmbrvvsh: aligned, grnrymnstrs: aligned}
   packFolder: velanthia
@@ -133,7 +135,7 @@ The Princedom of Zhitavesh holds the grain lowlands of the black-earth belt, fro
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The princedom passes in the prince's house, and the prince is [Zhitovod Dobrovodich]{.name data-type="being/npc"}. He holds the landings, the mills, the ferries and the tithe of grain, which he takes in kind, so that his wealth is the sacks in his granary and not the silver in his mint. His hall keeps a retinue of sworn riders under a captain, a judge who rules by the customary law the princely houses share, and a keeper of the princely granary who answers for the stores and counts them against what the monasteries hold. The prince pays each Host in grain and silver at harvest, and the pay is the whole of his hold on them.
+The princedom passes in the prince's house, and the prince is [[being-zhtvddbrvdch|Zhitovod Dobrovodich]]. He holds the landings, the mills, the ferries and the tithe of grain, which he takes in kind, so that his wealth is the sacks in his granary and not the silver in his mint. His hall keeps a retinue of sworn riders under a captain, a judge who rules by the customary law the princely houses share, and a keeper of the princely granary, [[being-dvkrdvdch|Duvek Radovodich]], who answers for the stores and counts them against what the monasteries hold. The prince pays each Host in grain and silver at harvest, and the pay is the whole of his hold on them.
 
 ## Current Situation {#present}
 
@@ -141,7 +143,7 @@ The prince's difficulty is that his grain is worth what other people will pay fo
 
 ## History {#history}
 
-The lowland houses count the oldest princely line on the central river. When the third union of the steppe overran the eastern fringe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), the lowlands held and the fringe was lost, and the grain villages of the heartland resettled the ground over the next two generations. The Hosts of the south-eastern margin have held it for the princedom since.
+The lowland houses count the oldest princely line on the central river. When the third union of the steppe overran the eastern fringe about 548 AF ([[lore-thrdorqwnq|The Third Orghunoq]]), the lowlands held and the fringe was lost, and the grain villages of the heartland resettled the ground over the next two generations. The Hosts of the south-eastern margin have held it for the princedom since. The rains failed in 641 AF and the lowland barns went thin ([[lore-leanyear|The Year of the Barns]]), and in 697 AF the Tarvál Host took the port's pay and left the princedom without the eastern road ([[lore-tarvalturn|The Tarvál Host Changes Sides]]).
 
 ## See Also {#see-also}
 
@@ -162,6 +164,9 @@ The lowland houses count the oldest princely line on the central river. When the
 
 [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]
 : the forts its grain feeds
+
+[[place-frrygrnry|Ferry Granary]]
+: the house that keeps his ferry at the river crossing
 
 [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]]
 : the houses that hold the lowland reserve

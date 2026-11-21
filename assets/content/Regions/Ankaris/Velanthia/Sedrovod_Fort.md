@@ -27,7 +27,7 @@ The warden is the prince's man and answers to his captain of the forts. He and h
 
 ## The Present {#present}
 
-The garrison watches the road, the forest edge and the paths from the marsh, and it is paid late. Varokh war-bands raid across the edge in autumn, and the captives they take are ransomed when a family or a prince will pay; those nobody ransoms go down Vristwald's rivers. The princes hire Varokh war-bands only by the season and for pay, never by oath ([[lore-princesfort|The Prince's Fort]]). Between the raids the fort watches for the small parties that come out along the cause-walks.
+The garrison watches the road, the forest edge and the paths from the marsh, and it is paid late. Varokh war-bands raid across the edge in autumn, and the captives they take are ransomed when a family or a prince will pay; those nobody ransoms go down Vristwald's rivers. The princes hire Varokh war-bands only by the season and for pay, never by oath ([[lore-princesfort|The Prince's Fort]]). Between the raids the fort watches for the small parties that come out along the cause-walks, with the help of [[being-skgrdbrshv|Sokogor Dobrashov]], a rider of the [[affiliation-hsttrvl|Tarvál Host]] whom the prince of Brelavesh lends the forts each season as a tracker.
 
 ## Hooks {#hooks}
 
@@ -44,6 +44,9 @@ The garrison watches the road, the forest edge and the paths from the marsh, and
 
 [[lore-princesfort|The Prince's Fort]]
 : the shared fort of the frontier
+
+[[being-skgrdbrshv|Sokogor Dobrashov]]
+: the Host rider who tracks for the warden
 
 [[place-grkrhlmrgn|Grukarholm Region]]
 : the country its forts face

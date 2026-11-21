@@ -7,7 +7,15 @@ description: The vast forest-steppe and grain-belt that bridges the Nordlands fo
 tags: [region]
 data:
   demonym: Velanthian
-  lore: [humanflk, thrdorqwnq, princesfort, thrallrivers]
+  lore:
+    - humanflk
+    - thrdorqwnq
+    - princesfort
+    - thrallrivers
+    - hostsforpay
+    - northernwar
+    - leanyear
+    - tarvalturn
   parents: [ankrscntnnt]
   borders:
     - {to: nrdlndsrgn, bearing: NW}
@@ -49,7 +57,7 @@ The **black-earth grain belt** across the center—the agricultural treasure of 
 
 The **steppe margin** in the east and southeast—the open grass-and-scrub country where Velanthia shades into the Khazrin proper. This is the country of the Velanthian frontier confederations: semi-settled, semi-mobile communities of horse-keeping farmer-warriors who have absorbed enough of the steppe-nomad lifeway to deal with their eastern neighbors on something like equal terms. Militarily competent, organized in their own distinctive Host-and-ataman pattern, and politically jealous of the river-prince states, whose pay they take and whose taxes they resist.
 
-The **mountain line** on the south closes the grain belt. Its passes carry Velanthian grain south to the mining towns of Helionis's hinterland, [[place-khaddaria|Khaddaria]], and to the [[place-northrnmrch|Northern March]] of Bizaria, where Velanthian drovers winter, and they bring ore and iron back. Marauders come down from the mining country on the far side, and the [[affiliation-blackflame|Black Flame]] is strong there; it holds nothing inside Velanthia. The danger belongs to the passes, and the Hosts that patrol them meet it there. The outermost eastern reach, along the Khazrin frontier, is the most heavily steppe-influenced part of the region: open horse-country, oasis-and-river settlements, and a gradient of cultures that becomes difficult to distinguish from the tribes of the western Khazrin.
+The **mountain line** on the south, [[place-krvgr|Karvogora]], closes the grain belt. Its passes carry Velanthian grain south to the mining towns of Helionis's hinterland, [[place-khaddaria|Khaddaria]], and to the [[place-northrnmrch|Northern March]] of Bizaria, where Velanthian drovers winter, and they bring ore and iron back. Marauders come down from the mining country on the far side, and the [[affiliation-blackflame|Black Flame]] is strong there; it holds nothing inside Velanthia. The danger belongs to the passes, and the Hosts that patrol them meet it there. The outermost eastern reach, along the Khazrin frontier, is the most heavily steppe-influenced part of the region: open horse-country, oasis-and-river settlements, and a gradient of cultures that becomes difficult to distinguish from the tribes of the western Khazrin.
 
 The climate is broadly continental: cold winters with significant snowfall, warm-to-hot summers, distinct spring and autumn seasons. Rainfall is reliable in the north and west, increasingly variable as one moves east and southeast. The river systems sustain the region's agriculture; failed rains in the grain belt produce regional hardship rather than collapse, since the rivers continue to bring down the snowmelt of the northern hills.
 
@@ -67,9 +75,9 @@ The **eastern oasis-and-river communities** along the Khazrin frontier have abso
 
 ## Religion
 
-The [[affiliation-arldnpnthn|Aureldian Pantheon]] comprises the formal faiths across all Velanthian populations, though with a heavy local emphasis on the harvest-and-fertility deities (especially [[lore-lizelasdty|Lizelas]]) and on the storm-and-protection aspects of the warrior gods. Velanthian shrines often layer Aureldian iconography over older indigenous symbols—sun-wheels, river-horses, sacred groves—that the priesthood has long since stopped trying to suppress.
+The [[affiliation-arldnpnthn|Aureldian Pantheon]] comprises the formal faiths across all Velanthian populations, though with a heavy local emphasis on the harvest-and-fertility deities (especially [[lore-lizelasdty|Lizelas]]) and on the storm-and-protection aspects of the warrior gods. Velanthian shrines often layer Aureldian iconography over older indigenous symbols—sun-wheels, river-horses, sacred groves such as the [[place-hrsoks|Horse Oaks]]—that the priesthood has long since stopped trying to suppress.
 
-The frontier Hosts maintain a more austere religious culture, with portable battle-shrines and traveling priests rather than fixed temples. Their religious practice has absorbed elements from the steppe peoples to the east—particularly an emphasis on sky-and-storm deities, oath-taking under the open sky, and the great seasonal gatherings where multiple Hosts assemble for joint religious observance and political consultation.
+The frontier Hosts maintain a more austere religious culture, with portable battle-shrines and traveling priests rather than fixed temples, and the three Hosts gather at [[place-bnnrfld|Banner Field]] around a standing battle-shrine. Their religious practice has absorbed elements from the steppe peoples to the east—particularly an emphasis on sky-and-storm deities, oath-taking under the open sky, and the great seasonal gatherings where multiple Hosts assemble for joint religious observance and political consultation.
 
 A scattered but persistent population of [[affiliation-ashanpnthn|Ashaian worshippers]] exists in the eastern hybrid communities, descended from intermarriage with Tellumi merchant families and oasis-belt refugees. Their shrines are tolerated and sometimes patronized by the eastern river-princes, who find it diplomatically useful to be seen accepting both traditions.
 
@@ -86,7 +94,7 @@ The **Velanthian Hosts** of the eastern frontier
 : formally subordinate to nearby river-princes, practically self-governing under their atamans and Host councils. Each Host serves a river-prince for pay, musters its own forces, makes its own peace with the steppe tribes across the frontier, and sometimes makes its own war. A Host wants autonomy, pay and plunder rights, and it can walk away from a prince who pays late or badly. The princes fear a Host changing sides more than any raid, because the frontier it guards then opens from the inside.
 
 The **monastic establishments** of the grain belt
-: the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]], large endowed houses whose abbots wield genuine political and economic power, often as third-party mediators among the princely houses and the Hosts. Their barns hold the reserve that carries the land through a bad year, and the princes can neither count it nor claim it.
+: the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]], large endowed houses whose abbots wield genuine political and economic power, often as third-party mediators among the princely houses and the Hosts. Their barns hold the reserve that carries the land through a bad year, and the princes can neither count it nor claim it. The [[place-frrygrnry|Ferry Granary]] stands where the grain road crosses the river below the passes.
 
 The **merchant houses** of the major grain-belt towns
 : the [[affiliation-mrchnthsrvr|Merchant Houses of the Rivers]], wealthy, well-connected, and influential through grain credit and trade financing.
@@ -103,9 +111,9 @@ The system is fragile in theory and durable in practice. Foreign observers regul
 
 Velanthia has no sovereign and no capital, and every pressure on it lands on a different power. The river-princes face the Nordmal kingdoms to the north and northwest, the Hosts face the steppe tribes to the east, the monasteries hold the grain against a bad year, and the merchant houses lend against the next harvest. The councils meet only when a threat is large enough to force them, so the response to each pressure is whatever the nearest power can muster.
 
-Each of the three named princes is short of what another holds. [Zhitovod Dobrovodich]{.name data-type="being/npc"} of [[place-zhtvsh|Zhitavesh]] has the grain and cannot sell it upriver without the port noticing; this year's rain came late to the eastern fields, and a short harvest would leave him unable to pay his Hosts and to feed the forts together. [Milogor Yarogorich]{.name data-type="being/npc"} of [[place-brlvsh|Brelavesh]] has the silver and the fewest soldiers, buys mills upriver against the lowland prince's wishes, and pays his Host more each year. [Krodogor Brevogorich]{.name data-type="being/npc"} of [[place-brvvsh|Brevavesh]] has the forts and no grain: the lowland grain and the port silver both reach him late, and his wardens are owed months.
+Each of the three named princes is short of what another holds. [[being-zhtvddbrvdch|Zhitovod Dobrovodich]] of [[place-zhtvsh|Zhitavesh]] has the grain and cannot sell it upriver without the port noticing; this year's rain came late to the eastern fields, and a short harvest would leave him unable to pay his Hosts and to feed the forts together. [[being-mlgryrgrch|Milogor Yarogorich]] of [[place-brlvsh|Brelavesh]] has the silver and the fewest soldiers, buys mills upriver against the lowland prince's wishes, and pays his Host more each year. [[being-krdgrbrvgrch|Krodogor Brevogorich]] of [[place-brvvsh|Brevavesh]] has the forts and no grain: the lowland grain and the port silver both reach him late, and his wardens are owed months.
 
-The Hosts keep their price in view of the prince who pays them. [Volkar Kodogorich]{.name data-type="being/npc"} of the [[affiliation-hsttrvl|Tarvál Host]] lets the prince of Brelavesh hear what the steppe tribes offer him. [Sovidan Volketich]{.name data-type="being/npc"} of the [[affiliation-hstsvrt|Sevret Host]] holds the passes, and his riders collect their own tolls there if the harvest pay is late. [Belukan Kelodov]{.name data-type="being/npc"} of the [[affiliation-hstkhrd|Khorad Host]] has told the river communities to stop paying the [[affiliation-sqrtrtrb|Soqritur]], and each side watches which way he turns. The princes fear a Host changing sides more than any raid.
+The Hosts keep their price in view of the prince who pays them. [[being-vlkrkdgrch|Volkar Kodogorich]] of the [[affiliation-hsttrvl|Tarvál Host]] lets the prince of Brelavesh hear what the steppe tribes offer him. [[being-svdnvlktch|Sovidan Volketich]] of the [[affiliation-hstsvrt|Sevret Host]] holds the passes, and his riders collect their own tolls there if the harvest pay is late. [[being-blknkldv|Belukan Kelodov]] of the [[affiliation-hstkhrd|Khorad Host]] has told the river communities to stop paying the [[affiliation-sqrtrtrb|Soqritur]], and each side watches which way he turns. The princes fear a Host changing sides more than any raid.
 
 Raiding is constant on the western and northwestern frontier. Captives taken there are ransomed where a family or a prince will pay; those nobody ransoms go down Vristwald's rivers to Nordmen and to steppe traders. The northwestern reaches are watched from the princes' forts for the Grukar, whom no Velanthian bargains with, and fur hunters buy a night's passage from a tired warden to work the margins.
 
@@ -125,7 +133,7 @@ Major external threats have come from two directions: the western Nordmal kingdo
 
 ## History {#history}
 
-The recorded history of Velanthia is a series of overrun frontiers and recovered ground. About 548 AF the third great union of the steppe ([[lore-thrdorqwnq|The Third Orghunoq]]) overran the region's eastern fringe. About 590 AF a river-prince raised a fort on the Thornwald frontier against the Grukar ([[lore-princesfort|The Prince's Fort]]). From 660 AF captives taken on the Velanthian frontier went down Vristwald's rivers to Nordmen buyers ([[lore-thrallrivers|The Thrall Rivers]]).
+The recorded history of Velanthia is a series of overrun frontiers and recovered ground. The Hosts took shape about 470 AF and served the river-princes for pay ([[lore-hostsforpay|The Hosts Take Pay]]). About 548 AF the third great union of the steppe ([[lore-thrdorqwnq|The Third Orghunoq]]) overran the region's eastern fringe, and the Hosts retook it for the princes within two generations (The Hosts Take Pay). About 590 AF a river-prince raised a fort on the Thornwald frontier against the Grukar ([[lore-princesfort|The Prince's Fort]]). About 625 to 631 AF the jarls of Malagna and Norgaad pressed the northwestern frontier, and the Hosts marched west for pay ([[lore-northernwar|The Border War with the Jarls]]). In 641 AF the rains failed and the granary monasteries fed the villages from barns the princes could not count ([[lore-leanyear|The Year of the Barns]]). From 660 AF captives taken on the Velanthian frontier went down Vristwald's rivers to Nordmen buyers ([[lore-thrallrivers|The Thrall Rivers]]). In 697 AF the Tarvál Host took the port's pay in place of the lowland prince's, and the princes have feared a Host changing sides since ([[lore-tarvalturn|The Tarvál Host Changes Sides]]).
 
 ## Relations with Neighboring Regions
 
@@ -191,6 +199,21 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 
 [[affiliation-hsttrvl|Tarvál Host]], [[affiliation-hstsvrt|Sevret Host]], [[affiliation-hstkhrd|Khorad Host]]
 : the three named Hosts
+
+[[place-krvgr|Karvogora]]
+: the mountain line on the southern rim
+
+[[place-bnnrfld|Banner Field]]
+: where the three Hosts gather
+
+[[place-frrygrnry|Ferry Granary]]
+: a granary monastery on the grain road
+
+[[place-hrsoks|Horse Oaks]]
+: a sacred grove above the river-port
+
+[[lore-hostsforpay|The Hosts Take Pay]], [[lore-northernwar|The Border War with the Jarls]], [[lore-leanyear|The Year of the Barns]], [[lore-tarvalturn|The Tarvál Host Changes Sides]]
+: the history of the Hosts, the frontier and the granaries
 
 [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
 : the paid river-prince forts that watch the Grukar country
