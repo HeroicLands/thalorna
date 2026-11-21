@@ -4513,6 +4513,9 @@ data:
     - {name: Turn-keeper, tongue: translation}
     - {name: Unhoused, tongue: translation}
     - {name: Winter-speaker, tongue: translation}
+    - {name: Hvolvern, tongue: hvarn, built: [hvol, vern]}
+    - {name: Lunvharn, tongue: hvarn, built: [lun, vharn]}
+    - {name: The Cave Houses, tongue: translation}
   retired:
     - {form: Tudra, instead: Tudzelv, why: "an Earth word, in the name lists"}
     - {form: Tsune, instead: Tsevrel, why: "an Earth given name, in the name lists"}

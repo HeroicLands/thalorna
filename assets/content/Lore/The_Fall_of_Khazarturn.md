@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: settinglore}
 ---
 
-The Fall of Khazartúrn tells of the city of [Khazartúrn]{.name data-type="place/settlement"}, which was the greatest city the [[lore-flkkhazar|Khazari]] ever built. In **2427 BF** it was
+The Fall of Khazartúrn tells of the city of [[place-khazarturn|Khazartúrn]]{.show}, which was the greatest city the [[lore-flkkhazar|Khazari]] ever built. In **2427 BF** it was
 destroyed with every soul in it, and nothing before or since has come near it in the reckoning of the
 Deep Folk. It is **the worst thing that has ever happened to them on [[place-worldthlrn|Thalorna]]**.
 
