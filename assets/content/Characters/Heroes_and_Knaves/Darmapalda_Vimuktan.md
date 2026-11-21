@@ -3,7 +3,7 @@ shortcode: drmpldvmkt
 name: {full: Darmapalda Vimuktan, given: Darmapalda, clan: Vimuktan, vedy: [darmu]}
 type: being
 subType: character
-description: "A bodyguard of Danurkot, first rank in the bodyguards' shrena, who works from the margins of Vedyaran society for wealthy and discreet clients."
+description: "A bodyguard of Danurkot of the first rank, who works from the margins of Vedyaran society for wealthy and discreet clients."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -536,9 +536,9 @@ False Charges from Vyalendra's Watch
 : Nagarit, Commander of Vyalendra's Watch, who treats Darmapalda's independence as an insult, has false charges drawn up and cuts off his legitimate work. Darmapalda must clear his name without the shrena's help or the Watch's goodwill.
 
 Kanduta Wants the Commission
-: Kanduta the Knife, a rival bodyguard who still resents a client he failed to protect and Darmapalda did, bids for the retainer of Shroshtin Kavendra the Banker, who values Darmapalda's discretion and tactical thinking.
+: Kanduta the Knife, a rival bodyguard who still resents a client he failed to protect and Darmapalda did, bids for the retainer of Shroshtin Kavendra the Banker, who values Darmapalda's discretion and tactical thinking. Darmapalda can match the bid, let Kavendra choose on the record, or tell Kavendra what Kanduta's last client paid for his failure.
 
-:::secret {title="Hooks: the flower mark and the commander"}
+:::secret {title="Further hooks"}
 The Flower's Mark
 : A woman who bears a mark identical to the flower tattoo on Darmapalda's ankle claims it ties them to a vow he made years ago and has never acknowledged. She says someone is killing everyone who bears it, and accepting her help means facing the past he has suppressed.
 

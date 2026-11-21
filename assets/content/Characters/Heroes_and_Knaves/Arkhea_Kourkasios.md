@@ -3,7 +3,7 @@ shortcode: arkhekrkss
 name: {full: Arkhea Kourkásios, given: Arkhea, clan: Kourkásios}
 type: being
 subType: character
-description: "An elderly beggar of Karvashion, once the daughter of a fabric trader, who is an elder among the town's street-dwellers and a keeper of its stories."
+description: "An elderly beggar of Karvashion, the daughter of a ruined fabric trader, who is an elder among the town's street-dwellers and a keeper of its stories."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -554,7 +554,7 @@ Protection Money Owed
 : The Brass Knuckles, a crew of thugs led by the enforcer Rahvárion, run extortion against the beggars of [[place-karvashion2|Karvashion]] and have beaten Arkhea before for protection money she could not pay. They set a date for the next payment, and the street-dwellers look to her for what to do.
 
 Arrested for Vagrancy
-: The official Zerarzan, who views beggars as urban blight, has Arkhea arrested for vagrancy again, and each arrest has been harsher than the last. Mother Superior Hezogeze Sogipidek of the House of Lizelas can shelter her, but only if she accepts a roof and leaves the streets.
+: The official Zerarzan, who views beggars as urban blight, has Arkhea arrested for vagrancy again, and each arrest has been harsher than the last. Mother Superior Hezogeze Sogipidek of the House of Lizelas can shelter her for a time, but each arrest makes it harder for Arkhea to go back to the corners she has kept.
 
 Fever in the Beggars' Market
 : A fever with delirium spreads through the beggar community. Arkhea knows herbs and the invisible network that carries news, and she must nurse the sick without drawing the attention of authorities who would blame the victims.
@@ -562,12 +562,12 @@ Fever in the Beggars' Market
 An Infant on the Doorstep
 : Arkhea finds an abandoned infant on a doorstep, marked in a way she has not seen before. Keeping the child means leaving the corners she has held for decades, and handing it over means giving it to a town that would exploit it.
 
-:::secret {title="Hooks: what she overheard and the letter"}
+:::secret {title="Further hooks"}
 The Overheard Plot
 : Sitting unnoticed in a merchant house vestibule, Arkhea overhears a plot to poison a town official. No one would believe a beggar could have such evidence, and she must warn the target without handing the plot to those who would use it.
 
 The Apprentice Who Saw a Murder
-: Shahrikos, a young merchant's apprentice, confides in Arkhea that he saw his master murder a rival. He is paralyzed by fear, and Arkhea must decide whether to help expose the crime or help the boy escape with his conscience intact.
+: [Shahrikos]{.name data-type="being/npc"}, a young merchant's apprentice, confides in Arkhea that he saw his master murder a rival. He is paralyzed by fear, and Arkhea must decide whether to help expose the crime or help the boy escape with his conscience intact.
 
 A Letter in Her Mother's Hand
 : A well-dressed stranger brings Arkhea a letter in her dead mother's hand, dated decades ago, saying her fall into poverty was arranged. It offers a chance of restoration if she will seek it.

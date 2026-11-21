@@ -3,7 +3,7 @@ shortcode: thmdspfnts
 name: {full: Vusukes Govabes, given: Vusukes, clan: Govabes}
 type: being
 subType: character
-description: "A trapper of the Bizaris foothills, independent, who sells furs to merchants and clears predators from farmers' herds."
+description: "An independent trapper of the Bizaris foothills who sells furs to merchants and clears predators from farmers' herds."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -556,14 +556,14 @@ A Predator among Meidánikos's Herds
 : Farmer Meidánikos Fikazur, whose lands a bear once plagued until Vusukes relocated it, sends an urgent request again because predators menace his herds. The road there crosses ground the Logging Consortium is cutting, forest Vusukes holds sacred, and he must either hold his resentment or act on it.
 
 Hides for the Leatherworker
-: Master Leatherworker Sipehrikos Vanazur, who uses only the finest hides, prepared by Vusukes himself, orders more than a winter's trapping can supply. Vusukes can take hides he trusts less or tell a partner no.
+: Master Leatherworker Sipehrikos Vanazur, who uses only the finest hides, prepared by Vusukes himself, orders more than a season's catch can supply. Vusukes can take hides he trusts less or tell a partner no.
 
 An Offer from Shabrikos
 : Shabrikos the Scarred approaches Vusukes with a proposal to join forces against a mutual enemy. Vusukes has worked against the Cartel for years, and his methods cannot easily work beside a partner he distrusts.
 
-:::secret {title="Hooks: the stranger's commission and the buyer of forests"}
+:::secret {title="Further hooks"}
 A Commission to Find a Scholar
-: A well-dressed stranger offers Vusukes a sum that would secure his retirement to track a young scholar in dark robes, possibly injured, through the wild lands and report where the scholar is. The scholar is fleeing the Bizarian Inquisition, and Vusukes must decide whether to collect a fortune or protect an innocent from persecution.
+: A well-dressed stranger offers Vusukes a sum that would secure his retirement to track a young scholar in dark robes, possibly injured, through the wild lands. The stranger serves the people the scholar is fleeing, and Vusukes must decide whether to collect a fortune or protect someone from them.
 
 The Lord Who Buys Forests
 : Shabrikos's mutual enemy is a mysterious lord buying up forests to convert them to farmland, and the conspiracy reaches the highest levels of Bizarian League politics. Vusukes must decide whether a temporary alliance with the Cartel can be borne.

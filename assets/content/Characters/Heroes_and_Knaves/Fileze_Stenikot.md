@@ -547,7 +547,7 @@ Marshfeld's Yearly Hiring
 : The Village Council of [[place-marshfeld|Marshfeld]] hires Fileze again against bandits and raiders, and Elder Magistrate Raza, who mentors her, asks her to stay through the harvest. Lady Tulvazea Melitakit has found another village that cannot pay mercenary rates, and Fileze cannot be in both places.
 
 The Ghost Brigade
-: Former soldiers, mostly women, have begun vigilante operations against violent criminals the courts refuse to prosecute, and their leader, Captain Drelia Petrikot, asks Fileze to join them or at least to train them. Accepting makes her an outlaw, and refusing abandons people who could do great good.
+: Former soldiers, mostly women, have begun vigilante operations against violent criminals the courts refuse to prosecute, and their leader, Captain [[being-dreliapetrik|Drelia Petrikot]], asks Fileze to join them or at least to train them. Accepting makes her an outlaw, and refusing abandons people who could do great good.
 
 A Public Challenge from Ruzhvelis
 : Mercenary Lord Ruzhvelis Sapipidek, who has worked to undermine her contracts, challenges Fileze to single combat before the mercenary community, the winner taking both reputations. She cannot refuse without losing the confidence of her peers, and she suspects he wants something more than the fight.
@@ -555,10 +555,7 @@ A Public Challenge from Ruzhvelis
 A Contract Without a Name
 : A young scholar offers Fileze an extraordinary sum to protect someone for one week, on the condition that she not know who it is or why they are in danger. The Scholars' Collective of the Archive retains her for sensitive work, and she cannot tell whether this belongs to it.
 
-:::secret {title="Hooks: the infiltration and the client"}
-The Client Is Hunted
-: The person Fileze is paid to protect is prophetically gifted, and the danger comes from the Bizarian Inquisition itself, which puts her in direct conflict with official authority.
-
+:::secret {title="Further hooks"}
 Into the Crimson Brotherhood
 : Lady Tulvazea asks Fileze to infiltrate the Crimson Brotherhood as a criminal for hire, learn who actually leads it and gather evidence for a prosecution. The cover would require acts she would never otherwise commit, and Captain Chirnaleon Validek has already marked her for death.
 :::

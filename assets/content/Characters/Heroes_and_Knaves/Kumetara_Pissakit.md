@@ -549,14 +549,14 @@ Beams for a Caravanserai
 : The Architects' Collective of the Bizarian League asks Kumetara for timbers for a new caravanserai at [[place-karvashion2|Karvashion]]. Zarránikos of the Logging Consortium undercuts her bid with cheaper timber cut without regard to the forest, and she will not compromise on her practices however much she might earn.
 
 The Monastery's Accounts
-: The Monastery of Silent Waters tells Kumetara that it cannot keep its woodlands unlogged without more income, and Father Trokhazul Petrikot shares her conservation philosophy. She must find other funding, persuade the monastery to change how it earns, or log more than she wants to.
+: The Monastery of Silent Waters tells Kumetara that it cannot go on without more income from its woodlands, though Father Trokhazul Petrikot shares her conservation philosophy. She must find other funding, persuade the monastery to change how it earns, or log more than she wants to.
 
 An Inspection of Her Joints
 : Officials of the Woodcutters' Guild who resent her for raising standards order an inspection of her work, and rivals who call her practices foolish have spread rumors about her reliability. Kumetara has to show that the work is sound without bending the practices the inspectors dislike.
 
-:::secret {title="Hooks: the apprentice and the benefactor"}
+:::secret {title="Further hooks"}
 An Apprentice from the Consortium
-: Nargizán Fulunáhr asks to apprentice with Kumetara, claiming a spiritual calling, and Kumetara would gladly teach her. Nargizán was sent by the Logging Consortium to spy on sustainable practice and perhaps to sabotage Kumetara's work.
+: [Nargizán Fulunáhr]{.name data-type="being/npc"} asks to apprentice with Kumetara, claiming a spiritual calling, and Kumetara would gladly teach her. Nargizán was sent by the Logging Consortium to spy on sustainable practice and perhaps to sabotage Kumetara's work.
 
 A Benefactor with Strings
 : A benefactor offers to fund the monastery in place of increased logging, and his offer carries conditions that Kumetara must discover before she can advise the monastery to accept.

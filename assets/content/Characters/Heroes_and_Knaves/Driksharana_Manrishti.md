@@ -533,13 +533,13 @@ The servants' shrena
 A Rumor Carried Across a Wall
 : Kharun Manrishti, a fellow servant in a rival household, spreads the word that Driksharana carries tales between the houses. A dispute between two men of one quarter goes to its Kulena and a dispute across a wall goes to the court, so Driksharana must choose which hearing to ask for, and he finds it nearly impossible to press a claim of his own.
 
-A Crime Seen over the Master's Shoulder
-: While attending his master at a diplomatic gathering, Driksharana sees a high-ranking official commit a crime. His place gives him access to the conversations that could expose it, but speaking would destroy the political alliance of the household he serves, and silence leaves the crime unanswered.
-
 Standard Wages in the Nine Quarters
 : The servants' shrena, with which Driksharana keeps loose ties, asks him to speak for standard wages at a meeting of the households. Speaking marks him to the higher-ranking servants who already see him as a threat, and keeping silent disappoints the shrena.
 
-:::secret {title="Hooks: the tattoo, the servants' network and the master's secrets"}
+:::secret {title="Further hooks"}
+A Crime Seen over the Master's Shoulder
+: While attending his master at a diplomatic gathering, Driksharana sees a high-ranking official commit a crime. His place gives him access to the conversations that could expose it, but speaking would destroy the political alliance of the household he serves, and silence leaves the crime unanswered.
+
 A Mentor in a Distant Shrine
 : A visiting cleric recognizes the waterfall tattoo as a mark of initiation into a hidden tradition of the priesthood of Rasikara, and tells Driksharana that the priest who marked him is imprisoned in a distant shrine. Going to him means leaving his post and the city.
 

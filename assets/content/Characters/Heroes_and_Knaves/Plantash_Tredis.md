@@ -542,7 +542,7 @@ Vorios Offers Another Berth
 A Hull the Harbor Master Wants Judged
 : The Harbor Master of [[place-thessalon|Thessalon]], who values Plantash's honest assessments, asks him to judge a vessel whose captain has vouched for him in the past. An honest finding costs a friend, and a kind one puts a crew aboard an unsound hull.
 
-:::secret {title="Hooks: the stranger and the captain"}
+:::secret {title="Further hooks"}
 A Stranger Who Has Read His Journal
 : A stranger in a harborside tavern says he represents a wealthy merchant prince who wants an experimental vessel built, and he knows the sketches in Plantash's journal, which Plantash has shown to no one. Plantash must decide whether his private ambitions can finally become real or whether something darker lies beneath the offer.
 

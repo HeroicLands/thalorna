@@ -546,14 +546,14 @@ A Cooperative Market Opens
 : A cooperative of craftspeople opens a market meant to be free of merchants like Vishvakhila and makes his downfall its symbolic goal. He can buy into the cooperative, undercut it, or ignore it while his suppliers decide where to sell.
 
 The Reformer in the Market
-: A young merchant reformer named Sarvath preaches against exploitative practice in Chendrapur and draws craftspeople and Karmija. Vishvakhila can try to win him over or to discredit him, and Sarvath's following is larger than Vishvakhila expected.
+: A young merchant reformer named [Sarvath]{.name data-type="being/npc"} preaches against exploitative practice in Chendrapur and draws craftspeople and Karmija. Vishvakhila can try to win him over or to discredit him, and Sarvath's following is larger than Vishvakhila expected.
 
-:::secret {title="Hooks: the cost-cutting, the supplier and the will"}
+:::secret {title="Further hooks"}
 Fumes from the Cheaper Wax
 : Vishvakhila's cost-cutting has produced candles that release toxic fumes when burned, and a child of a great house falls ill. He can recall the stock and take the loss, fix future batches quietly, or cover the matter up while investigators look into his workshop.
 
 Dipanaka's Price
-: Dipanaka, who supplies Vishvakhila's scenting oils, faces ruin and proposes a partnership. Vishvakhila would rather let him fail and buy the operation cheap, but Dipanaka knows secrets of his earlier dealings that could damage his name and legal standing.
+: [Dipanaka]{.name data-type="being/npc"}, who supplies Vishvakhila's scenting oils, faces ruin and proposes a partnership. Vishvakhila would rather let him fail and buy the operation cheap, but Dipanaka knows secrets of his earlier dealings that could damage his name and legal standing.
 
 The Second Will
 : Vishvakhila's estranged younger brother appears with evidence of a second will left by their father and offers to keep it quiet for a share of the fortune and a place in the business. Vishvakhila can pay, try to suppress it, or face what it says about his father.

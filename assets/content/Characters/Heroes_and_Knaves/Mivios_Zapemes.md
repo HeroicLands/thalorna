@@ -3,7 +3,7 @@ shortcode: drknsdlsns
 name: {full: Mivios Zapemes, given: Mivios, clan: Zapemes}
 type: being
 subType: character
-description: "A trapper of Karvashion from a frontier family of hunters, taciturn, who is hired to eliminate predators that threaten livestock and hunting preserves."
+description: "A taciturn trapper of Karvashion from a frontier family of hunters who is hired to eliminate predators that threaten livestock and hunting preserves."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -540,12 +540,12 @@ Warden Tevik's Warrant
 : Provincial Warden Tevik, who enforces the game laws, has made Mivios's arrest a personal mission, and Lord Belzurion Vughash, who contracts Mivios to protect his herds, is among those who would be embarrassed by it. Mivios must decide whether to keep working on the lord's land or go into the wilds out of the warden's reach.
 
 Pazhurikos Names His Grievance
-: Merchant-Lord Pazhurikos Plekolidek, whose hunting party was decimated by a great predator, blames Mivios for not eliminating the beast beforehand and has sworn a vendetta. A contract that carries Mivios onto the merchant-lord's land puts him within the vendetta's reach.
+: Merchant-Lord Pazhurikos Plekolidek, whose hunting party was decimated by a great predator, blames Mivios for not eliminating the beast beforehand and has sworn a vendetta. A contract that carries Mivios onto the merchant-lord's land puts him within the vendetta's reach. Mivios can turn the contract down, or take it and cross the merchant-lord's land.
 
 Evidence from Brother Lifizin
 : Brother Lifizin Kregokhash brings Mivios evidence that the League's wilderness is dying of systematic poaching and land clearing by a syndicate of wealthy merchants, and asks him to help expose it. Documents, politics and public revelation are everything Mivios's nature resists.
 
-:::secret {title="Hooks: the contract on his life"}
+:::secret {title="Further hooks"}
 The Hunter Hunted
 : Someone has hired a killer to take Mivios, possibly an enemy from the past tied to the great bear that scarred him. The greatest tracker must use all his skills to learn who bought the contract and why, in cities and courts where those skills are least useful.
 :::

@@ -544,15 +544,15 @@ A Rival's Sabotage at the Banquet
 : Sharti Kalanjani, a courtesan of equal talent who believes Sunati stole her patrons, contrives to have Sunati left out of a great-house banquet. Sunati can answer in kind or let Shroshtin Chandipal Vyavaharuka, her patron of four years, see her exclusion for himself.
 
 Priests Who Would Restrict Courtesans
-: A coalition of priests and devout householders advocates restrictions on courtesans and has made Sunati its symbol. A hearing on the restrictions is called, and she can speak against them, which puts her name on the cause, or stay silent and leave the independent courtesans she leads to bear it.
+: A coalition of priests and devout householders advocates restrictions on courtesans and has made Sunati its symbol. A hearing on the restrictions is called, and she can speak against them, which puts her name on the cause, or stay silent and leave the independent courtesans among whom she has influence to bear it.
 
 A Girl Groomed against Her Will
 : A young woman barely twenty, being pushed into the courtesan's profession by her family, begs Sunati to help her escape. Helping exposes Sunati to legal liability and to the clients whose patronage sustains her.
 
 A Kulena's Price for Intelligence
-: A Kulena of the Nine asks Sunati to use her access to rival traders to learn their plans, and offers a payment that would enrich his house. Accepting makes her a tool of one house, and refusing angers the people whose patronage keeps her independent.
+: A Kulena of the Nine asks Sunati to use her access to rival traders to learn their plans, and offers a large payment for an advantage that would enrich his house. Accepting makes her a tool of one house, and refusing angers the people whose patronage keeps her independent.
 
-:::secret {title="Hooks: what the client confessed"}
+:::secret {title="Further hooks"}
 What the Client Confessed
 : A powerful client of a great house confesses to Sunati that he plans to betray the court of the Nine in a trade agreement, believing his intimacy with her keeps her silent. She must decide whom to expose and at what cost.
 :::
