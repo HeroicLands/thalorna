@@ -18,6 +18,14 @@ The oldest stadium in the region lies in the sanctuary's valley, a long cut of p
 
 At the head of the stadium stands the heralds' altar. Here the heralds of every city-state swear the truce, and here a herald's person is made inviolable by the oath. The oath-tablets of the city-states hang in the portico behind the altar, one to a city-state, each in the city-state's own script of the day it was sworn.
 
+## Layers {#history}
+
+The cities of the peninsulas first met here about 880 BF to settle a year's quarrels in running, wrestling and the chariot, under a truce their heralds proclaimed for the days of the meeting ([[lore-firstgames|the First Games]]). The herald's protection began as part of that truce and spread over the next century to every herald at every time. At the Games after [[lore-heladharbors|the War of the Harbors]], about 552 AF, the heralds of cities that had fought one another that year met at the altar, and on the word of [Sothamira Thelkhides]{.name data-type="being/npc"}, a graduate of the [[affiliation-slvrvlacdmy|Academy of the Silver Veil]], they wrote down the five terms the city-states have fought by since ([[lore-heladtruce|the Truce of the Games]]). [[affiliation-kostaros2|Kostaros]] joined the Games later than the other six city-states.
+
+## What Is There Now {#present}
+
+The sanctuary is the seat of the [[affiliation-ctysttshlns|City-States of Helionis]] and the one place all seven meet. The assembly of envoys sits here, each city-state sending its own, and the bench of arbiters keeps the Truce of the Games from here, without an army, a revenue or the power to order a city-state. Kostaros sends athletes and a herald but has no seat on the bench, and it resents the exclusion. This season [[affiliation-athenikos|Athenikos]] and [[affiliation-korinthea|Korinthea]] are the principal rivals at the Games, scholarship and commerce against justice and honor.
+
 ## Who Goes
 
 - **Athletes and heralds** of every city-state, at the Games.

@@ -42,6 +42,7 @@ data:
       Grand Cartographer: >-
         Chair of the Council of Masters, presently Olara Marenies, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities.
   seat: null
+  range: [byzariargn]
   population: null
   economy: [affiliation-tevran]
   lore: []
@@ -115,6 +116,10 @@ Foreign powers
 ## Identifying Marks
 
 A guild master's seal is a brass die carrying the master's personal mark and the year of issue; impressions in wax (red for civil commissions, black for military) attest the map's provenance. Masters wear a silver pin in the shape of a stylized dividers-and-compass, worn at the throat or pinned to the cap. Apprentices wear linen sleeves marked with the chevron of their master.
+
+## The Present Quarrel {#present}
+
+The League's city guard is investigating Master [[being-damklsmpsn|Damáklios Bridutis]] for selling guild work to foreign agents, and Master [[being-fruzukazselv|Fruzukáz Selvazhazát]] feeds the investigation with insinuations of his own. The Rozimoi of the Tevran have written to the guild's leadership about the case, and the leadership has kept the matter at chapter level and the letters private. The Council of Masters does not know how deep the selling of League maps runs, and its Grand Cartographer, [Olara Marenies]{.name data-type="being/npc"}, is politically isolated.
 
 ## Plot Hooks
 

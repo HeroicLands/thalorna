@@ -22,6 +22,14 @@ The dead of both armies stand on the plain on the anniversary of the battle, wor
 
 [[place-korinthea2|Korinthea]]'s temple of the [[affiliation-ardavon|Faith of Árdavon]] sends a judge each year to walk the ring and record where the stones stand. It is a custom and not an office. The settlement rite of [[affiliation-selmoros|Sélmoros]] has never been tried on the plain, because in Helionis a temple is civic property and the rite needs an assembly's vote, and no Korinthean assembly has voted to say aloud what its city-state did here.
 
+## Layers {#history}
+
+In 327 BF, in the eighth year of the Republic's war, a Korinthean mage-warlord broke a legion here with the war's greatest working, and when the Dragon Riders came over the field the working turned back through the Korinthean levy behind him, so that both armies died on the plain in one afternoon ([[lore-heladturnedwrk|the Turned Working]]). The working's poison was spent within a generation, and the withering it left stayed. Korinthea set the ring of boundary stones after the war and has reset it outward three times.
+
+## What Is There Now {#present}
+
+The withering still spreads, the dead still stand on the anniversary, and the carters still go round by daylight. Korinthea's temple judge walks the ring each year and records where the stones stand, Korinthea refuses Arcane Order surveyors at the ring, and no Korinthean assembly has paid for the settlement rite.
+
 ## Who Goes
 
 - **Carters**, who go round it by daylight and give the plain a wide berth.

@@ -67,6 +67,10 @@ A party on the pass meets the Keeper of the Toll at the gate. The toll is lower 
 
 The commander is old, and the heir will not take the commission unless the chancery confirms it. The spring report is ready for Orzara, but the command needs an answer from the office that has long received its reports without replying. Both the League and the Helionite envoys would rather the report did not arrive.
 
+## History {#history}
+
+The [[affiliation-vylarinmpr|Empire]]'s engineers built the fort to hold the pass in the years when a legion garrisoned Hellád and the road between the two halves of the province ran through it, and its commander held a commission signed by the Orzas's chancery and paid from [[affiliation-tarmex|the Tarmeks]]. About 619 AF [[lore-crownssettle|the Settlement of the Crowns]] left the far forts' commissions unpaid without revoking them, and the commission has passed within the commander's house from parent to child since, with a report sent to the chancery every spring.
+
 ## Hook
 
 - **The heir's condition.** The commander hires the party to ride with this spring's report to Orzara and come back with the chancery's answer.

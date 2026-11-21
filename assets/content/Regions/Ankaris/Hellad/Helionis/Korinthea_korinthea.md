@@ -84,6 +84,10 @@ Standing in Korinthea is the common Helionite ladder, from the citizen by descen
 
 Korinthea holds two of the twelve hinterland towns, [[place-hadrithon|Hadrithon]], whose marble builds the temple, and [[place-sufanos|Sufanos]], whose alum and sulfur the dyers and fire-makers buy. Marauders take the oxen and grain on Hadrithon's road, and a following of [[affiliation-blackflame|the Black Flame]] keeps a shrine at Sufanos. The council and the temple's High Judge divide the work of rule between them.
 
+## History {#history}
+
+In 327 BF, in the eighth year of the Republic's war, a Korinthean mage-warlord broke a legion on the western road with the war's greatest working, and when the Dragon Riders came over the field the working turned back through the Korinthean citizen levy drawn up behind him and killed it in its ranks ([[lore-heladturnedwrk|the Turned Working]]). The plain is [[place-sourplain|the Sour Plain]]. Korinthea opened its gates to the legion without a siege, its assembly lost its standing, and [Nomason]{.name data-type="being/npc"}, the first High Judge of the temple at Korinthea, took the city-state's law into the temple's keeping, where it stays.
+
 ## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]

@@ -16,7 +16,7 @@ data:
 
 Every spring a rider leaves the fort for the coast with a sealed report addressed to the chancery in [[place-orzara|Orzara]], and every autumn the same rider comes back with nothing. **The Unpaid Fort** is a fortress of the Vilérian age in the interior mountains between [[place-helionis|Helionis]] and [[place-byzariargn|Bizaria]], and its commander has been writing to the [[affiliation-vylarinmpr|Empire]] since the Empire stopped paying him.
 
-## The Commission
+## The Commission {#history}
 
 The fort was built to hold a pass that the Empire's engineers judged worth a stone wall and a standing garrison, in the years when a legion garrisoned the [[place-heladrgn|Hellád]] and the road between the two halves of the province ran through it. Its commander held an imperial commission, signed by the Orzas's chancery and paid from [[affiliation-tarmex|the Tarmeks]].
 
@@ -31,6 +31,10 @@ The yearly report gives the pass's condition, the garrison's strength, the store
 ## The Pass
 
 The pass is the shortest road between the hills of Helionis and the plateau of Bizaria that does not touch the coast. Carters pay the commander's toll because it is lower than the [[affiliation-byzarianlg|League]]'s, and smugglers pay it because the commander does not ask what is in the cart.
+
+## What Is There Now {#present}
+
+The commander, [[being-klmthrnrthn|Kalmethar Ronethen]], is old, and his heir will not take the commission unless the chancery in Orzara confirms it. This spring's report is ready to ride, and the fort needs an answer from an office that has long received its reports without replying. The [[affiliation-byzarianlg|League]] and the Helionite city-states each want the fort and its pass, and neither would like the report to arrive.
 
 ## Who Goes
 

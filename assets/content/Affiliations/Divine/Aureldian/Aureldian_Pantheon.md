@@ -65,6 +65,8 @@ The Aureldian pantheon is the dominant pantheon in the western part of the [[pla
 | Decay      | **Morvana**  | Mistress of the Waning Moon | Wilting flower surrounded by mist                  | [[affiliation-morvana\|Faith of Morvana]]   |
 | Fertility  | **Lizelas**  | The Nurturer                | Blooming flower encircled by a crescent            | [[affiliation-lizelas\|Faith of Lizelas]]   |
 
+In [[place-helionis|Helionis]] the devotion to Zunelas, the Veiled Dreamer, is kept as a tradition of its own, [[affiliation-mystrshlns|the Mysteries of Helionis]], with its civic temples and its secret mystery cults.
+
 ## The Ústaran Schism
 
 In Aureldian teaching, [[lore-ustarondty|Ústaron]], the Forge-Lord, embodies both the creative and destructive aspects of flame—the forge that shapes and the inferno that consumes. This duality split his worship roughly five hundred years ago when a faction within the Ústaran clergy declared that Ústaron's true nature was destruction, purification through fire, and the dominance of the strong over the weak.

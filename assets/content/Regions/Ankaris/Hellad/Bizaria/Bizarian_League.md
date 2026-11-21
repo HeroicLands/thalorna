@@ -137,8 +137,8 @@ The five cities bound themselves in [[lore-heladcompact|the Compact of the Five]
 [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]
 : the member city-states
 
-[[affiliation-cncltwlvbzrs|Council of Twelve of Bizaris]], [[affiliation-mrchntcnsrtchr|Merchant Consortia of Krisamar]], [[affiliation-mgstrcythls|Magistracy of Thalassos]], [[affiliation-cnclslmr|Council of Selímara]]
-: the councils of the lesser towns
+[[affiliation-cncltwlvbzrs|Council of Twelve of Bizaris]], [[affiliation-mrchntcnsrtchr|Merchant Consortia of Krisamar]], [[affiliation-mgstrcythls|Magistracy of Thalassos]], [[affiliation-cnclslmr|Council of Selímara]], [[affiliation-cnclkstrsh|Council of Kostaros Harbor]], [[affiliation-hrbrbrdthsln|Harbor Board of Thessalon]], [[affiliation-vllgcnclmrshfld|Village Council of Marshfeld]], [[affiliation-vllgcnclvrdn|Village Council of Veridon]]
+: the councils of the lesser towns and villages, which answer to the League directly
 
 [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]
 : the districts the council holds directly
@@ -151,7 +151,3 @@ The five cities bound themselves in [[lore-heladcompact|the Compact of the Five]
 
 [[affiliation-arldnpnthn|Aureldian Pantheon]]
 : the gods, in their eastern rite
-
-[[affiliation-cncltwlvbzrs|Council of Twelve of Bizaris]]
-
-[[affiliation-mrchntcnsrtchr|Merchant Consortia of Krisamar]]

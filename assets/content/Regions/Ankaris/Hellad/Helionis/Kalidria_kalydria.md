@@ -97,6 +97,10 @@ Kalidria holds two of the twelve hinterland towns: [[place-jalimea|Jalimea]], wh
 
 Kalidria uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the city-states' taxes on paper, and the city-states do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
+## History {#history}
+
+Kalidria came under the [Vilérian Republic]{.name data-type="affiliation/polity"} with the rest of Helionis in the conquest of 335 to 312 BF ([[lore-helionscnq|the Conquest of Helionis]]), and it kept its council, its theaters and its patron families. About 260 BF the families founded the Academy of the Silver Veil ([[lore-heladsilverveil|the Founding of the Silver Veil]]). From about 548 to 551 AF Pelagora closed the coast to Kalidrian and Thirenaean ships that would not pay its dues, and Kalidria raised levies with Thirenae and marched on the Pelagoran hinterland; after three summers Pelagora cut its dues to a third, and Kalidria paid them and reopened its harbors ([[lore-heladharbors|the War of the Harbors]]). At the Games that followed, [Sothamira Thelkhides]{.name data-type="being/npc"}, a graduate of the Academy who had come as a Kalidrian herald's companion, brokered the terms the city-states have fought by since ([[lore-heladtruce|the Truce of the Games]]).
+
 ## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]
