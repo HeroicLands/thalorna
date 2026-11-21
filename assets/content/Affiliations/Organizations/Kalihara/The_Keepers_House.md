@@ -53,6 +53,8 @@ A custodian whose work dies is not discharged. The senior custodians of the regi
 
 The House has nothing to tend, and its members are the one body of custodians that cannot perform its tending-acts for lack of a work. They do what the work of a custodian leaves when the work is gone: they look. A Counter of the White walks out to see a work that is reported dead before the House enters it in the count, and returns with what the walk showed. The count is not given out. The lineages know their own stones and the stones within sight of them, and the island's whole tally rests at Kuomethei.
 
+## What the House Wants {#present}
+
 The Council has never named the House, and the House does not ask to be named. It wants something to tend, and it wants the office that holds the count recognized as an office.
 
 ## Relations

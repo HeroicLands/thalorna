@@ -121,6 +121,12 @@ The rules are short, and a captain who breaks any of them faces expulsion. In th
 
 A signed captain wears a heavy bronze ring on the right thumb, the _bandlagshringur_, bearing the Compact's mark and his own sigil. The Council awards it at the swearing and takes it back at expulsion. Common warriors wear no Compact mark beyond their company's own; their captain testifies to their standing.
 
+## The Compact Now {#present}
+
+Speaker Hrindvir Vetreldur runs the Hall, and thirty-four signed companies answer to it. The Compact's weight rests on the five crowns that guarantee the Hall's neutrality, so a crown that wants the trade bent to its own quarrel puts the Compact's standing in its realm at risk. The Compact fields no troops and judges no quarrel between kingdoms. What it offers a captain is its testimony and its discipline, and in the Nordlands expulsion is close to a death sentence.
+
+Outside the Compact, the Gray Tide undercuts Compact prices on coastal contracts wherever it can, and the Compact expels any member caught dealing with the syndicates. The Thordimalon has tried twice to charter its own military arm in the Nordlands and was refused both times, and the Compact treats Arcane Order presence in its hiring markets as an intrusion to be managed.
+
 ## Trouble to Hand
 
 - **The Expelled Captain.** The Council has voted a captain of a long-signed company out for an act he swears a foreign employer forced on him. He wants reinstatement and the Council is divided. The employer, hearing of the expulsion, moves to gather the disbanded warriors into a new, unsigned company on foreign pay.

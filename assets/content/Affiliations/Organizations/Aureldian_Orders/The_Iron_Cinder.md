@@ -122,6 +122,10 @@ A Cinder Hand bears the Ashen Vow brand at his right forearm (the marker of his 
 
 Outside operations, Cinders wear nothing identifiable and maintain ordinary public identities. Operatives have been known to maintain such identities for decades.
 
+## The Order Now {#present}
+
+The Sacred Forge keeps a small cadre of investigators dedicated specifically to identifying Cinder operatives, and the Árdavon orders hold standing arrangements with the Forge against it. The order assumes that exposure means its destruction, and its decisions turn on that.
+
 ## Plot Hooks
 
 - **The Investigator's File.** A Sacred Forge investigator has, over several years, assembled a file identifying—with substantial confidence—three Cinder Hands operating in a specific Aureldian city. The investigator is preparing to deliver the file to her superiors. The Cinder has learned of the investigation and is preparing to address it; the investigator has not yet been identified by name but has been geographically located.

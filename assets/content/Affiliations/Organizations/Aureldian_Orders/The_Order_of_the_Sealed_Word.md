@@ -114,6 +114,12 @@ The Council of the Seal
 
 A Sworn Brother wears the order's surcoat—deep blue with the Árdavon sigil (a two-faced head facing both directions over a sealed scroll) in gold at the breast. The brother's writ of office—the parchment empowering him to convene an oath-hearing—is sealed in red wax bearing the chapter's mark and the brother's personal sigil; the writ is the visible token of his authority. Senior Brothers wear an additional pendant in the form of a small bronze key—a reference to Árdavon's gates and to the keys to the order's archive at Ólvestra.
 
+## The Order Now {#present}
+
+First Marendos Oztuk Iltheris presides over the order in a period of rising tension with several Aureldian crowns. The order works in each kingdom under a royal license that is periodically renewed, and its rulings against powerful noble interests have made some crowns reluctant to confirm it. The principle that the hearing is rendered whatever the rank of the oath-breaker means a petition against a sitting king puts the order's license and its principle against each other.
+
+The same doctrine decides smaller matters. When two merchants bring opposed petitions from one oath, the chapter's choice of which to hear first can decide the case. When an oath-breaker demands trial-by-combat against the assigned brother, the order honors the demand only where the law of the kingdom permits trial-by-combat and the matter is one in which combat is doctrinally appropriate, and the chapter then decides whether to send that brother or give the matter to a better blade. A brother suspected of taking a bribe for a ruling goes before the First Marendos, who decides whether to summon him to formal hearing.
+
 ## Plot Hooks
 
 - **The King's Broken Word.** A petitioner has presented to a chapter house an oath broken by a sitting king. The petition is substantiated. The chapter must accept it under the doctrine that the hearing is rendered regardless of rank—and must do so knowing that the kingdom's renewal of the order's license is up for review.

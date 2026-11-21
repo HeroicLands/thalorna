@@ -126,6 +126,12 @@ Day to day, the brothers serve as chapter staff, as an armed presence at remote 
 
 A Born of the Wound bears the order's permanent mark, a tattooed scar-pattern across the chest in the design of the founding cosmogony, given at initiation by ritual cutting. The mark is the inviolable testimony of membership, and falsifying it on someone who has not been initiated is one of the most serious offenses the order recognizes. Outside the hall the brothers wear plain dark clothing without insignia, and senior brothers wear a heavy ring of bog iron on the left forefinger.
 
+## The Order Now {#present}
+
+The order's standing quarrel is the Refusal of Hire, the vow that defines it. The Children take no contract from crown, jarl or merchant and no quarrel of their own, and so they cannot be bought, and no crown can levy them. The five crowns depend on its rare interventions and prefer to stay out of its way.
+
+Inside the halls the order is committed to a doctrine it shares in full with no outsider. Voice Hrundthann Steinhond is regarded as the most theologically rigorous Voice in a generation, and the order's refusal of women in present practice remains a matter of internal debate that has never changed the policy.
+
 ## Hooks {#hooks}
 
 - **The False Mark.** A man bearing the founding mark has been seen in a port town, claiming to be a Child of the Wound. The order has no record of him. The mark is accurate but slightly wrong in a detail no real brother would miss. The Voice from the Wound has sent a senior brother to learn whether the man is an impostor, a heretic, or something the order has not met before.

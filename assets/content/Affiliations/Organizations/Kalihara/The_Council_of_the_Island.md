@@ -71,9 +71,13 @@ The custodians hold the procedure and the Council holds the decision. A custodia
 
 What the Council tells outsiders is settled in the same room. A harbor-warden at the quay gives a foreign master the Council's answer and nothing beyond it. Only the Speaker treats with a foreign power, and an Envoy goes abroad only on the Council's business, briefed in what to say and, more carefully, in what not to.
 
+## The Council Now {#present}
+
+The Council hears the island's failing from every side. The current-stones the pilots rely on have run intermittently for a generation, and the Warden of the Approaches tells it that the approaches hold while foreign masters begin to make landfall on the eastern coast without a pilot. [[affiliation-silharicircle|The Sílhari Circle]] holds that the procedures no longer keep the works, and its Elders say so in the Council, where they are heard with courtesy and answered with silence. The Council does not name the [[affiliation-keepershouse|Keeper's House]] among its bodies.
+
 ## Relations
 
-The Ithakan sit in the Council and keep its works; [[affiliation-wardensapproaches|the Wardens of the Approaches]] answer to its councils and carry its decisions to the sea-lanes and the quays. [[affiliation-housefactors|The House of Factors]] runs the port's trade under its leave and sends its views through the Councilor of the ports; the Council and the House want different things from the approaches, and the quay's trade goes on regardless. A few Elders and custodians belong to [[affiliation-silharicircle|the Sílhari circle]], which argues in the Council's corridors and has no seat of its own. The Council does not name [[affiliation-keepershouse|the Keeper's House]] among its bodies.
+The Ithakan sit in the Council and keep its works; [[affiliation-wardensapproaches|the Wardens of the Approaches]] answer to its councils and carry its decisions to the sea-lanes and the quays. [[affiliation-housefactors|The House of Factors]] runs the port's trade under its leave and sends its views through the Councilor of the ports; the Council and the House want different things from the approaches, and the quay's trade goes on regardless. A few Elders and custodians belong to the Sílhari Circle, which argues in the Council's corridors and has no seat of its own. The Council does not name the Keeper's House among its bodies.
 
 ## See Also {#see-also}
 

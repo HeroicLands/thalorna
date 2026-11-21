@@ -131,6 +131,12 @@ The order's permanent identifier is the [Ashen Brand]{.name data-type="lore"} at
 
 Outside the chapter site brothers wear nothing identifiable. The order maintains no surcoats, no banners, no public emblems.
 
+## The Order Now {#present}
+
+The Crowns of all five Aureldian kingdoms keep standing orders against the order, and the Tarvénian hill-baronies decline to enforce them. The Ólvestran Cell works under that protection. The Péravel Shadow-Cell has no such cover and works against direct suppression by the Forge and the Bardic Colleges.
+
+The order's own doctrine is the Refusal of Half-Measure, which forbids any action short of total destruction and holds that incomplete purification is worse than none. A brother who has renounced the vow is pursued harder than any outside enemy.
+
 ## Plot Hooks
 
 - **The Cleansing of a Sacred Forge Bishop.** An Elder of the Ashen Vow has determined that the Sacred Forge bishop of a major Provénzian city is corrupt beyond redemption and has assigned a cell to his cleansing. The cell is preparing the operation; the bishop is aware of the threat and has taken measures; the Order of the Sealed Word has been informed and is mobilizing. The cell will execute regardless of the cost.

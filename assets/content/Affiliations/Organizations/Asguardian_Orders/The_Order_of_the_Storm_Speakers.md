@@ -127,6 +127,12 @@ The combat doctrine is built on heavy weapons: the two-handed hammer, the short 
 
 A Sworn Speaker wears the order's harness, heavy mail under a dark gray surcoat, with the hammer-and-cloud sigil of Thrunvald at the throat. Storm-Captains add a pin in the shape of a stylized lightning stroke. The Voice of the Hammer wears the great iron hammer-amulet of office, said by tradition to have been struck from a stone fused by Thrunvald's own lightning when Thrumufjall was founded.
 
+## The Order Now {#present}
+
+The order's weak point is the reading itself. A Speaker may call the weather only when his reading shows that doing so serves the engagement's just purpose, and a reading that proves wrong costs ships and lives. The coastal settlements renew their arrangements with the order every year, so its standing rests on readings that hold.
+
+Voice Thrildmil Hamarsmál presides through a generation in which the order's coastal services are in high demand. A Storm-Captain who identifies a chaos incursion usually commits a unit of Speakers without waiting for the Voice of the Hammer to authorize it, and the order regards Arcane Order interest in its weather-craft with grave suspicion.
+
 ## Trouble on the Coast
 
 - **The Arcane Order Approach.** A senior Thordimalon (the Arcane Order) representative proposes, through diplomatic channels, a formal exchange of weather-craft research. The proposal comes with large financial inducements and the discreet implication that refusal might be unwise. The Voice of the Hammer's answer will set the order's posture toward the Arcane Order for a generation.

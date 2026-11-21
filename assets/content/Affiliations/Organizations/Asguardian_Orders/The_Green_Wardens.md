@@ -104,6 +104,12 @@ The Guardian swears three things.
 
 A Sworn Guardian wears the order's green cloak, undyed wool dyed with the _gronujurt_ plant, over working clothes. The clasp at the throat bears Frodvin's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians add a small bronze pin in the shape of the sheaf alone, and the Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
 
+## The Order Now {#present}
+
+The Wardens' standing difficulty is that two of their vows can point opposite ways. The Defended Hearth binds a Guardian to keep his household from harm, and the Refused Quarrel forbids him any part in the household's feuds and inheritance disputes. Speaker Thulmrinna Gronmál presides over the order as its administrative coordinator, not its commander.
+
+The Nordland crowns grant the stations land-use rights and informal exemption from levy, and the relationship is cordial and sometimes strained when a crown wants a levy that includes valley folk under Guardian protection. A signed company of the [[affiliation-malldbndlg|Málalidabandalag]] and a Guardian can stand on opposite sides of one farmstead, the company hired to take it and the Guardian sworn to defend it.
+
 ## Vows in Conflict
 
 - **The Compromised Vow.** A Sworn Guardian stationed in a [[place-vithgard|Vithgard]] valley has been drawn into the inheritance dispute of his host household and, in the heat of it, has taken up arms for one party against another. The Defended Hearth and the Refused Quarrel are in direct conflict, and the Chapter will be summoned. Either ruling, that the household's defense overrode the prohibition or that the prohibition overrode the defense, will reshape the order's doctrine.

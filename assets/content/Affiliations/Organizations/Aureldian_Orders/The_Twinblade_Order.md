@@ -134,6 +134,12 @@ Foreign jurisdictions
 
 A Sworn Twinblade wears the order's surcoat—pale gray with the two-faced emblem (the two-faced head with crossed gold-and-silver blades) at the breast. The paired blades are themselves the most visible identifier: the right scabbard carries a longsword in the standard Aureldian military pattern; the left carries a shorter and more ornate blade, often heirloomed from a previous holder of the station. Senior Twinblades wear an additional pin in the form of an open gate. The Voice of the Twin Gate wears the great gold pectoral of the two faces.
 
+## The Order Now {#present}
+
+A Twinblade is not primarily a frontier guard. The kingdoms keep their own border forces, and what the order supplies is the ritual presence that gives a gate or boundary the recognition of a binding limit. The work that falls to a station is the ruling made on the spot: at a gate the Twinblade confirms the legitimacy of contested admissions and refusals, and the station holds until relief arrives.
+
+At fae-touched groves and battlefield-sites the order patrols sacred boundaries in coordination with the Áelendan Wardens, and the relationship is cordial and procedural. Voice Alzema Thaluris leads the order from the Twin Gate at Ólvestra.
+
 ## Plot Hooks
 
 - **The Contested Crossing.** A noble retinue has presented itself at a kingdom-border station, claiming diplomatic right of passage that the host kingdom denies. The Twinblade at the station must rule on the contested crossing in real time, knowing that ruling either way will create a diplomatic incident.

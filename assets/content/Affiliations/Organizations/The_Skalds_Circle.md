@@ -119,6 +119,12 @@ The Hirvskaldar at the five courts are known by the sagas they compose more than
 - **[[affiliation-bardicolgs|The Bardic Colleges]] of [[place-elavendre|Élavendre]]** and the Circle respect one another across a cultural distance. The two traditions exchange visiting members regularly and acknowledge each other's craft without claiming to share it.
 - **Kings and jarls** are the Circle's clients, employers and, occasionally, the targets of honest recital. The relationship is one of permanent mutual usefulness and occasional sharp friction.
 
+## The Circle Now {#present}
+
+The Circle's third principle, the truth of the recital, is the one that costs. A skald summoned to bear witness must recite what he knows accurately even when it harms his employer, and kings and jarls are the Circle's clients and occasionally the targets of an honest recital. The Circle protects such a skald as it can, and a skald killed for honest recital becomes the subject of a saga whose naming of the killer follows his name for generations.
+
+The accuracy of the standing record is the other pressure. The Skaldating reviews and verifies the standing repertoire by collective recitation and resolves disputes over a contested verse.
+
 ## Disputes a Skald May Carry
 
 - **The Disputed Saga.** Two skalds recite incompatible versions of a recent battle, both with first-hand authority and both with employers who gain from the version recited. The next [[lore-skaldating|Skaldating]] must resolve the dispute. Its resolution decides which version enters the standing repertoire, and which jarl's reputation survives the generation.

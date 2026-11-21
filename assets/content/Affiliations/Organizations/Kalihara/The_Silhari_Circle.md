@@ -55,6 +55,8 @@ The circle meets in small company at the sanctuaries and in the houses of its El
 
 The rest of the Ithakan hold to the tending and to the procedures as they were handed down. Kaan-vaar forbids the thought that the order might be adjusted, and a member who is heard to say that it has failed finds that nobody argues.
 
+## The Search {#present}
+
 The search goes outside the island. The circle has already sent one of its custodians abroad, and a Seeker is the one Kaliharan whose business lies in the harbors of other countries and not in the Council's errands.
 
 ## Relations

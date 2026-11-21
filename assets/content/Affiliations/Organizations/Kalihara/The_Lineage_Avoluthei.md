@@ -61,6 +61,8 @@ The gate is the lineage's whole manner. A traveler coming up from the coast is s
 
 The lineage's other charge is the [Blindfolded Walk]{.name data-type="lore/custom"}, the one way an outsider is ever brought inland. The custodians give that leave, rarely, and only they give it. When they do, the lineage meets the outsider at the foot of the outer face, binds the outsider's eyes with a band woven in the village, and leads the outsider step by step to the terraces below the inner face. The outsider sees the Bowl without ever seeing the way into it. The band, the walk and the choice of who leads are the Avoluthei's custom, and no other lineage walks an outsider over the Ring.
 
+## The Pass in the Failing {#present}
+
 The wind-stone of the pass stands on the crest above the village, and the Avoluthei walk it with the custodians out of [[place-mirthaan|Mirthaan]] who tend it. It is among the stones that give and are gray, and the Avoluthei say it is well. They say it often. Storms that once broke on the crest above the village now reach the inner face with less of their rain, and the eastern terraces beneath the pass have been dry in the [Wet-Turn]{.name data-type="lore/calendar"}. The lineage lays the blame on the ports below, whose foreign hulls, it holds, have drawn the failing in, and it keeps the gate shut a little longer each year.
 
 ## Relations

@@ -114,6 +114,12 @@ A knight works in three forms:
 
 A Sworn Hand wears the order's surcoat of undyed white wool over his working harness at all times, with the silver pendant of Eidgar's broken hand at the throat. The white wand is the order's emblem of legal authority; he carries it at the saddle and produces it when he convenes a ting. The leather wrapped around the wand shows rank: red for a Sworn Hand, blue for an Elder Hand and black for the Voice of Logstead.
 
+## The Order Now {#present}
+
+Voice Knilthvir Logstadar presides as first among equals over the Council of Hands, twelve Elder Hands who meet quarterly at Logstead. The order's pressure comes from the rulings it will not soften. The five crowns maintain its halls and pass the white wand through their lands, and the tension rises when a knight's ruling runs against a crown's interest.
+
+Where the law permits, a party to a ruling may demand judgment by combat, and a party who demands it against a Sworn Hand has chosen to fight a trained fighter. The wand is the order's other exposure: it is the emblem of the authority to convene a ting, and it carries a Sworn Hand's word into every hall he rides to.
+
 ## Questions the Order Cannot Dodge
 
 - **The Crown's Bribe.** A king has offered an Elder Hand, through intermediaries, a large private inducement to delay a ruling until after the season's campaigns. The Elder Hand cannot refuse without offending the king, and he cannot accept without breaking the order's central principle. The Council of Hands will have to know eventually.
