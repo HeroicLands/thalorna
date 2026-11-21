@@ -1,6 +1,6 @@
 ---
 shortcode: rdvsh
-name: { full: Radavesh }
+name: {full: Radavesh}
 type: place
 subType: settlement
 description: "A palisaded river landing where the fur boats of the northern forest unload."
