@@ -64,3 +64,9 @@ The barn is nearly empty. The house lent most of its reserve to the [[affiliatio
 
 [[place-velanthrgn|Velanthia Region]]
 : the land
+
+[[scenario-lsttrnkrvgr|The Last Train over Karvogora]]
+: a scenario: the last wagon trains of a short harvest, over a pass where the Host's riders are owed their pay
+
+[[scenario-hrvstpy|The Harvest Pay]]
+: a campaign frame: the season from the late rain to the snow on the passes, when the Hosts' pay is in doubt

@@ -226,3 +226,6 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
+
+[[scenario-hrvstpy|The Harvest Pay]]
+: a campaign frame: the season from the late rain to the snow on the passes, when the Hosts' pay is in doubt

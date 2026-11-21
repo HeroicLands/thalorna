@@ -39,3 +39,6 @@ Thornwald is where eastern [[place-vrystwald|Vristwald]] meets [[place-velanthrg
 [[place-thornryth|Thornreth]]
 
 [[place-vethholt|Vethholt]]
+
+[[scenario-gthsthdbrg|The Gatehouse at Theodburg]]
+: a scenario: the heir of Brevavesh's bid to hold the shared fort at Theodburg again with a forest war-band
