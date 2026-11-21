@@ -36,6 +36,10 @@ The Halzi'a of Izet-Ge is a hereditary governor and a Zabu who commands the sela
 
 Izet lives by the date-palm plantations and the sweet wines of the delta, which the empire knows it for. The climbers cut the clusters, the estate-towns dry and press the dates, and the vintners make the wine that the city's cellars and the temple's vaults hold. The plantations grow dates and vines rather than grain, so the city's bread comes down the river from the upper selatu and is paid for with the sales. Away from the palms, the villages and temple estates of [[place-izetgenome|Izet-Ge]] grow grain on the usual terms, with a share of the harvest owed to the granaries and labor to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple and its estates hold much of the palm country.
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standard of [[affiliation-selatizetge|the Selat of Izet-Ge]] among the fourteen standards of the selatu taken up from the field below [[place-lenennezut|Lenen-Nezut]], where the [[affiliation-thaulgau|Tha'Ulgau]] destroyed the last army of [[place-galezkara|Galezkara]] in 1612 ST (499 BF) ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]; [[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatizetge|The Selat of Izet-Ge]]

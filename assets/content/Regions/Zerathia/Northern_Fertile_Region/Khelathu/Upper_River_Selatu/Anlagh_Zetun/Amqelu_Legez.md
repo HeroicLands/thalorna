@@ -26,6 +26,10 @@ Amqelu-Legez is the river-port of [[affiliation-selatnlghztn|the Selat of Anlagh
 
 It is the busiest and most worldly place in an otherwise inward-looking selat. The river traffic brings news and strangers here that the farm-villages never see, so a visitor who wants a passage downriver or a word from beyond the basin asks at the wharves and not in the fields. Where the rest of the selat lives by the field, Amqelu-Legez lives by the river and the barge. On the anniversary of the granary rising the poor of the port go up to Anlagh-Zetun and eat the bread the selat throws over the wall of [[place-eleventhgran|the Eleventh Granary]].
 
+## History {#history}
+
+In 2378 ST (268 AF) the barges of the port carried the levies of [[affiliation-selatnlghztn|the Selat of Anlagh-Zetun]] down from the basin and brought the first sacks of freed grain back up, when the Halzi'a raised the upper river against the guard that held the granaries sealed ([[lore-sealedgran|The Battle of the Sealed Granaries]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]

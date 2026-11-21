@@ -36,6 +36,12 @@ The Halzi'a of Khelaga governs from the seat, a hereditary office held by a Zabu
 
 The apex is where the river first shows how short the water is. The channels run low, the two forks carry less, and the ferries that cross them touch bottom. Barges bound for the ports are lightened or wait on the quay under the customs-stations' eye, and the Halzi'a collects customs on every one that passes and enters a barge as delayed when it is held at the fork. The old shrines of Uqa'a are full of petitioners who ask the river to rise, and the priests who watch the division report to the Halzi'a what they report to [[place-themeasure|the Measure]]. Low channels leave more water standing along the Chariot Field's bank, and the priests cannot spare the stores that pay for Readings while the granaries are short. The Halzi'a does not pay for one either.
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standard of [[affiliation-selatkhelaga|the Selat of Khelaga]] among the fourteen standards of the selatu taken up from the field below [[place-lenennezut|Lenen-Nezut]], where the [[affiliation-thaulgau|Tha'Ulgau]] destroyed the last army of [[place-galezkara|Galezkara]] in 1612 ST (499 BF) ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]; [[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
+The forts and customs-stations at the apex rose in the reign that followed the closing of the sea-raiders' house in 1990 ST (121 BF) ([[lore-seahouse|The Closing of the Sea House]]). A Vilérian army met the chariot corps at the apex in 2487 ST (377 AF), and the corps broke on its line ([[lore-vylconquest|The Vilérian Conquest]]). About 398 AF the house raised after the foreign house closed starved the Vilérian garrisons out of the delta forts, and the forts returned to the Halzi'a of Khelaga and the delta selatu ([[lore-foreignhs|The Closing of the Foreign House]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatkhelaga|The Selat of Khelaga]]

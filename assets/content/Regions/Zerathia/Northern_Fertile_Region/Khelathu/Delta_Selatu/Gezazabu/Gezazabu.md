@@ -39,6 +39,10 @@ The Halzi'a of Gezazabu governs from the seat. The office is hereditary and held
 
 The flood has come low two years running, and the road to Bethua has become the seat's business. Bethuan grain from the [[affiliation-mtrrchybth|Matriarchy of Bethua]]'s aqueducts, which do not depend on the flood, already trickles east in the ordinary way of trade, and the seat meets each wagon, takes the Halzi'a's toll and passes the grain on to the delta's markets. The large sale waits on the Metrissa's choice. If she sells, the toll at Gezazabu is the price of the road. The Halzi'a sets the toll himself and has not raised it, which keeps the Trade-Houses and the delta's merchants friendly to him. His curing-houses sell to the capital at the price the capital offers, and the fish keeps the coast fed even as the fields inland thin. Farmers come to the seat in the evenings to ask what the road is carrying. Envoys from [[affiliation-okharis|Okharis]] come along the same road and lodge at the temple of Thuba'i.
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standard of [[affiliation-selatgezazab|the Selat of Gezazabu]] among the fourteen standards of the selatu taken up from the field below [[place-lenennezut|Lenen-Nezut]], where the [[affiliation-thaulgau|Tha'Ulgau]] destroyed the last army of [[place-galezkara|Galezkara]] in 1612 ST (499 BF) ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]; [[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatgezazab|The Selat of Gezazabu]]

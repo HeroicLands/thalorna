@@ -40,6 +40,10 @@ Khelzuret grows no grain, and about 90,000 people live in it on the strength of 
 - The ferry-crossing to the western necropolis
 - The seat of the Halzi'a, sharing the city uneasily with the mortuary priesthoods
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standard of [[affiliation-selatkhelzrt|the Selat of Khelzuret]] among the fourteen standards of the selatu taken up from the field below [[place-lenennezut|Lenen-Nezut]], where the [[affiliation-thaulgau|Tha'Ulgau]] destroyed the last army of [[place-galezkara|Galezkara]] in 1612 ST (499 BF) ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]; [[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatkhelzrt|The Selat of Khelzuret]]

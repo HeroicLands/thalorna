@@ -36,6 +36,12 @@ The Halzi'a of Gau-Legiru is a hereditary governor and a Zabu, and the administr
 
 Gau is the market of the garden coast. Its great produce-markets buy the harvest of wine, oil, citrus, figs and dates, its press-houses and warehouses gather the high-value crops, and its carters take the lot down to Gar-Anlaghet and the export trade. [[place-chezu|Chezu]] (about 9,900), the coastal wine-town among the western vineyards, makes the most prized vintages in the empire and ships them from its own harbor. The orchard villages of a few hundred people each, among them [[place-gariuget|Gar-Iuget]], [[place-lutlegiru|Lut-Legiru]], [[place-zmachezu|Zma-Chezu]], [[place-yathkhelenet|Yath-Khelenet]] and [[place-garshelu|Gar-Shelu]], tend the groves and vines and send oil, wine and fruit to the city. Its bread-grain comes down the river and is bought with oil and wine, so the city eats on the strength of its sales, and a household's wealth is counted in what it can trade for wheat.
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standard of [[affiliation-selatgaulegr|the Selat of Gau-Legiru]] among the fourteen standards of the selatu taken up from the field below [[place-lenennezut|Lenen-Nezut]], where the [[affiliation-thaulgau|Tha'Ulgau]] destroyed the last army of [[place-galezkara|Galezkara]] in 1612 ST (499 BF) ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]; [[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
+A name from Gau is one of the five that families have brought to the stela since, for a man who marched with the army of Galezkara and did not come home.
+
 ## See Also {#see-also}
 
 [[affiliation-selatgaulegr|The Selat of Gau-Legiru]]

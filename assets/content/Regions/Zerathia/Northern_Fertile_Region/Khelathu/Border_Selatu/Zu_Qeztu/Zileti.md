@@ -38,6 +38,10 @@ Walk out to the edge of the irrigated fields and the margin has moved: the green
 
 Okharik traders with better western stock come to the town with offers, and his wells are open to their animals. He takes what is offered, as he takes the court's letters, and answers neither side. One sickness in a stable can cost a breeder a year's profit within the month, and a lost stud herd breaks a house in a season.
 
+## History {#history}
+
+The hill-nomads of the western margins destroyed the last [[place-galezkara|Galezkara]] army on the floodplain below [[place-lenennezut|Lenen-Nezut]] in 1612 ST (499 BF), and the priesthood crowned the chief of the [[affiliation-thaulgau|Tha'Ulgau]] ([[lore-thaulgau|The Coming of the Tha'Ulgau]]). When the house's fourth Gar-Au died in 1671 ST (440 BF), the priesthood closed it and gave its kin the western horse-pastures, and the house has governed the selat from Zileti since ([[lore-hillhouse|The Closing of the Hill House]]). The house still owes the dead of the floodplain a yearly offering, which its Halzi'a carries from Zileti to [[place-zelhalzi|Zel-Halzi]] each [[lore-geletssn|Gelet]] ([[lore-hillhouse|The Closing of the Hill House]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatzuqeztu|The Selat of Zu-Qeztu]]

@@ -46,6 +46,10 @@ Caravans keep arriving under escort, because the factions at court want gold abo
 The ledger records the true weights, and the gap between the figure sent to the capital and the metal that remains in Wagaru's strong-room is wider than the road's traffic explains. The Halzi'a keeps the best of the road's cargo for himself until the throne decides who it is, and the priests of Saq'aru know the true figures.
 :::
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standard of [[affiliation-selatwagaru|the Selat of Wagaru]] among the fourteen standards of the selatu taken up from the field below [[place-lenennezut|Lenen-Nezut]], where the [[affiliation-thaulgau|Tha'Ulgau]] destroyed the last army of [[place-galezkara|Galezkara]] in 1612 ST (499 BF) ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]; [[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatwagaru|The Selat of Wagaru]]

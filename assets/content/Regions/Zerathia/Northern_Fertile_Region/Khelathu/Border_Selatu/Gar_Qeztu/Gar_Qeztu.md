@@ -38,6 +38,10 @@ The schools turn out the men who will command the empire's armies, and this year
 
 Every faction at court wants a young officer's loyalty, and the cadets' families write from there. The Halzi'a sees which letters his graduates receive, and he lets them take the posts without saying whose they are. He has heard that Okharik horsemen are being courted, and the officers of his schools hold that riders bred for the saddle serve better than chariots anyway. A breached canal bank in the flood season strands the stores of Yath-Qeztu for a month, and the corps does not wait for the repair.
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standard of [[affiliation-selatgarqezt|the Selat of Gar-Qeztu]] among the fourteen standards of the selatu taken up from the field below [[place-lenennezut|Lenen-Nezut]], where the [[affiliation-thaulgau|Tha'Ulgau]] destroyed the last army of [[place-galezkara|Galezkara]] in 1612 ST (499 BF) ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]; [[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatgarqezt|The Selat of Gar-Qeztu]]

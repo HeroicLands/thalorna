@@ -42,6 +42,10 @@ The toll is revenue he can send or keep, and he enters a part of it against the 
 The part entered against the fortress's upkeep is larger than the upkeep costs. The Halzi'a keeps the difference, and leaves out the sum because the sum would show it.
 :::
 
+## History {#history}
+
+The victory stela of [Kuz'Uqa]{.name data-type="being/npc"} at [[place-zelhalzi|Zel-Halzi]] counts the standard of [[affiliation-selatlinmut|the Selat of Linmut]] among the fourteen standards of the selatu taken up from the field below [[place-lenennezut|Lenen-Nezut]], where the [[affiliation-thaulgau|Tha'Ulgau]] destroyed the last army of [[place-galezkara|Galezkara]] in 1612 ST (499 BF) ([[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]; [[lore-thaulgau|The Coming of the Tha'Ulgau]]).
+
 ## See Also {#see-also}
 
 [[affiliation-selatlinmut|The Selat of Linmut]]
