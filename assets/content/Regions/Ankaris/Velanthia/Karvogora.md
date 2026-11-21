@@ -6,6 +6,7 @@ subType: feature
 description: "The mountain line that closes Velanthia's southern rim and divides it from Helionis and the Northern March: its several passes are crossed by grain wagons going south and by ore and marauders coming north."
 tags: [draft, mountain, border]
 data:
+  culture: velanthclt
   demonym: null
   lore: [humanflk]
   parents: [velanthrgn, helionis, northrnmrch]
@@ -33,7 +34,7 @@ Marauders come down from the mining country on the far side, and the [[affiliati
 
 ## Converging Interests {#present}
 
-Every party that uses the passes waits for the others to move first. The rain came late to the eastern fields, and a short harvest would leave the grain that crosses the passes thin and the Host's pay late. [Sovidan Volketich]{.name data-type="being/npc"} of the Sevret Host patrols the approaches for pay that arrives at harvest, and if it is late his riders collect their own tolls. The March's customs officers tax every wagon that crosses, and the Khaddarian towns pay for grain in ore that their own smelters would sooner keep. Each of them watches the weather over the passes.
+Every party that uses the passes waits for the others to move first. The rain came late to the eastern fields, and a short harvest would leave the grain that crosses the passes thin and the Host's pay late. [[being-svdnvlktch|Sovidan Volketich]] of the Sevret Host patrols the approaches for pay that arrives at harvest, and if it is late his riders collect their own tolls. The March's customs officers tax every wagon that crosses, and the Khaddarian towns pay for grain in ore that their own smelters would sooner keep. Each of them watches the weather over the passes.
 
 ## Hooks {#hooks}
 

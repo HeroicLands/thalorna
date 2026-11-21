@@ -200,9 +200,6 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 [[affiliation-hsttrvl|Tarvál Host]], [[affiliation-hstsvrt|Sevret Host]], [[affiliation-hstkhrd|Khorad Host]]
 : the three named Hosts
 
-[[lore-hostsforpay|The Hosts Take Pay]], [[lore-northernwar|The Border War with the Jarls]], [[lore-leanyear|The Year of the Barns]], [[lore-tarvalturn|The Tarvál Host Changes Sides]]
-: the history of the Hosts, the frontier and the granaries
-
 [[place-krvgr|Karvogora]]
 : the mountain line on the southern rim
 
@@ -214,6 +211,9 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 
 [[place-hrsoks|Horse Oaks]]
 : a sacred grove above the river-port
+
+[[lore-hostsforpay|The Hosts Take Pay]], [[lore-northernwar|The Border War with the Jarls]], [[lore-leanyear|The Year of the Barns]], [[lore-tarvalturn|The Tarvál Host Changes Sides]]
+: the history of the Hosts, the frontier and the granaries
 
 [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
 : the paid river-prince forts that watch the Grukar country

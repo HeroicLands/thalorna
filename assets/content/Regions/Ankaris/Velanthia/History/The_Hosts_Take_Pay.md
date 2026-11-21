@@ -9,7 +9,7 @@ data:
   culture: velanthclt
   packFolder: velanthia
   events:
-    - id: hosts-form
+    - id: hostsform
       when: ~470
       kind: founding
       depth: region
@@ -33,7 +33,7 @@ data:
             The founding line held the grass before any prince paid for it, and the pay is the prince's thanks for something that was already ours.
           agrees: partly
       unresolved: [which of the three Hosts was the first to take a prince's pay]
-    - id: fringe-retaken
+    - id: fringeretaken
       when: ~560
       until: ~600
       kind: migration

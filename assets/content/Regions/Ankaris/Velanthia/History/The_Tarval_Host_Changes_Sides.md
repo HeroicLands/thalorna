@@ -33,7 +33,7 @@ data:
         - {ref: affiliation-prncdmbrlvsh, role: signatory}
         - {ref: affiliation-prncdmzhtvsh, role: victim}
       follows:
-        - event: "lore-hostsforpay#hosts-form"
+        - event: "lore-hostsforpay#hostsform"
           how: answered
           note: the bargain of pay and service made the Hosts able to leave
       accounts:
