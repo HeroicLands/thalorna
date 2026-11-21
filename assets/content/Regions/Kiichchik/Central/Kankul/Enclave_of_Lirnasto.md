@@ -81,7 +81,7 @@ The Senali kept the high jungle before any realm of the platform was founded, an
 
 - **[[affiliation-kankul|K'ankul]]** keeps the understanding: its people stay out of the old jungle and do not disturb those who live there. Every Ts'enmah holds to it, and the conclave asks nothing in return.
 - **[[affiliation-ishilanshulum|The Star House]]** marks no rite in the jungle and holds no day-table for it.
-- **[[affiliation-nclvhrsllnk|Hersellonku]]** and **[[affiliation-nclvlkvst|Ilkaivesto]]**, the conclaves of the north and the south, keep their own counsel, and the three take no part in one another's affairs.
+- **[[affiliation-nclvhrsllnk|Enclave of Hersellonku]]** and **[[affiliation-nclvlkvst|Enclave of Ilkaivesto]]**, the conclaves of the north and the south, keep their own counsel, and the three take no part in one another's affairs.
 
 ## See Also {#see-also}
 

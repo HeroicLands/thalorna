@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-Pallevotta Kossanto is a woman of 1,300 years who stands 5' 10" tall and is of light build. Her silver hair falls loose past her knees, her eyes are a pale grey that seem to rest on something just beyond the speaker, and her skin is white as the limestone she kneels on. A thin mark crosses her throat. She wears a plain gown and kneels at the pools barefoot in the wet.
+Pallevotta Kossanto is a woman of 1,300 years who stands 5' 10" tall and is of light build. Her silver hair falls loose past her knees, her eyes are a pale gray that seem to rest on something just beyond the speaker, and her skin is white as the limestone she kneels on. A thin mark crosses her throat. She wears a plain gown and kneels at the pools barefoot in the wet.
 
 # Dossier {#dossier}
 

@@ -34,7 +34,7 @@ data:
 
 # Appearance {#appearance}
 
-Auverila Halkorinto is a woman of 1,420 years who stands 5' 9" tall and is of light build. Her long grey hair is loose and unbound, her skin is pale and fine as paper, and her left eye is clouded the color of lake ice. Her right eye is a clear grey. She wears a long gown of undyed linen and sits for hours at the edge of a lake with her feet in the water.
+Auverila Halkorinto is a woman of 1,420 years who stands 5' 9" tall and is of light build. Her long gray hair is loose and unbound, her skin is pale and fine as paper, and her left eye is clouded the color of lake ice. Her right eye is a clear gray. She wears a long gown of undyed linen and sits for hours at the edge of a lake with her feet in the water.
 
 # Dossier {#dossier}
 
