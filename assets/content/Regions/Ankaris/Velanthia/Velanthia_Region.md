@@ -7,7 +7,15 @@ description: The vast forest-steppe and grain-belt that bridges the Nordlands fo
 tags: [region]
 data:
   demonym: Velanthian
-  lore: [humanflk, thrdorqwnq, princesfort, thrallrivers]
+  lore:
+    - humanflk
+    - thrdorqwnq
+    - princesfort
+    - thrallrivers
+    - hostsforpay
+    - northernwar
+    - leanyear
+    - tarvalturn
   parents: [ankrscntnnt]
   borders:
     - {to: nrdlndsrgn, bearing: NW}
@@ -125,7 +133,7 @@ Major external threats have come from two directions: the western Nordmal kingdo
 
 ## History {#history}
 
-The recorded history of Velanthia is a series of overrun frontiers and recovered ground. About 548 AF the third great union of the steppe ([[lore-thrdorqwnq|The Third Orghunoq]]) overran the region's eastern fringe. About 590 AF a river-prince raised a fort on the Thornwald frontier against the Grukar ([[lore-princesfort|The Prince's Fort]]). From 660 AF captives taken on the Velanthian frontier went down Vristwald's rivers to Nordmen buyers ([[lore-thrallrivers|The Thrall Rivers]]).
+The recorded history of Velanthia is a series of overrun frontiers and recovered ground. The Hosts took shape about 470 AF and served the river-princes for pay ([[lore-hostsforpay|The Hosts Take Pay]]). About 548 AF the third great union of the steppe ([[lore-thrdorqwnq|The Third Orghunoq]]) overran the region's eastern fringe, and the Hosts retook it for the princes within two generations (The Hosts Take Pay). About 590 AF a river-prince raised a fort on the Thornwald frontier against the Grukar ([[lore-princesfort|The Prince's Fort]]). About 625 to 631 AF the jarls of Malagna and Norgaad pressed the northwestern frontier, and the Hosts marched west for pay ([[lore-northernwar|The Border War with the Jarls]]). In 641 AF the rains failed and the granary monasteries fed the villages from barns the princes could not count ([[lore-leanyear|The Year of the Barns]]). From 660 AF captives taken on the Velanthian frontier went down Vristwald's rivers to Nordmen buyers ([[lore-thrallrivers|The Thrall Rivers]]). In 697 AF the Tarvál Host took the port's pay in place of the lowland prince's, and the princes have feared a Host changing sides since ([[lore-tarvalturn|The Tarvál Host Changes Sides]]).
 
 ## Relations with Neighboring Regions
 
@@ -191,6 +199,9 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 
 [[affiliation-hsttrvl|Tarvál Host]], [[affiliation-hstsvrt|Sevret Host]], [[affiliation-hstkhrd|Khorad Host]]
 : the three named Hosts
+
+[[lore-hostsforpay|The Hosts Take Pay]], [[lore-northernwar|The Border War with the Jarls]], [[lore-leanyear|The Year of the Barns]], [[lore-tarvalturn|The Tarvál Host Changes Sides]]
+: the history of the Hosts, the frontier and the granaries
 
 [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]]
 : the paid river-prince forts that watch the Grukar country
