@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [flksenali]
   parents: [kuxiixbalrgn]
-  population: null
+  population: {actual: 110, apparent: null}
   type: village
   market: subsistence
   packFolder: kuxiixbal

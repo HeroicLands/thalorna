@@ -31,12 +31,12 @@ Smaller places offer their own starts. [[place-sharimun|Sharimun]] has quarries,
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND data.culture = 'thalorna-note-lore-taruzelianclt'
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 ## Who Holds Power

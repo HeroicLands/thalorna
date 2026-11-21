@@ -33,13 +33,13 @@ The other four have their own reasons to visit. In [[place-theradon2|Theradon]],
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND data.culture = 'thalorna-note-lore-helioniteclt'
-  AND data.population >= 4000
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+  AND data.population.apparent >= 4000
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 The roads between the city-states run up valleys and over passes, and the sea runs along one coast; a party moving between them crosses another city-state's land at nearly every step. Summers are hot and dry, winters mild and rainy, and the light has a clarity that Helionite painters have celebrated for as long as anyone has painted.
@@ -60,12 +60,12 @@ Standing runs in a short ladder. The citizen, by descent, votes and serves in th
 SELECT address.slug AS _ref,
        name.full AS "City-state",
        data.governance.model AS "Government",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
   AND data.culture = 'thalorna-note-lore-helioniteclt'
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 The [[affiliation-vylarinmpr|Vilérian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Helionis]]), and Helionis still keeps its formal ties to the empire: the city-states spend [[lore-vylrncrncy|Vilérian coin]], Helionite mints strike Ardin and Bit under imperial standards, and [[affiliation-tolvan|the Tolvan]] still claims their taxes on paper, which the city-states do not pay. As the empire declines, the city-states have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
