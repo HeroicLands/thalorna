@@ -457,7 +457,11 @@ Izaret stands 5'6" tall with a light build. She has dusky brown skin, jet-black 
 
 Izaret Gul'Zekeru, known in the shadow-trade as **"Whispers,"** was born in the warren-slums of [[place-khelzuret|Khelzuret]], the great necropolis-selat of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]—a city of embalmers, tomb-masons, and the swarming poor who serve the dead. Abandoned as a child, she survived its streets as a cutpurse and informant, and fell early into the organized tomb-robbing underworld for which Khelzuret is infamous, learning to move unseen among the mortuary chapels and to sell what she heard as readily as what she stole. And Izaret heard a great deal, for her true gift was an inborn sensitivity to the spirit world—the faint voices of the restless dead that crowd a city built around tombs. Untrained and unconsecrated, she nonetheless learned to listen: to gather secrets no living mouth had spoken, and to feel danger before it fell. The priesthood would have named the gift a blessing of [[lore-uzneradty|Uzn'era]], goddess of magic; on the streets it simply made her valuable.
 
-Her gift drew the notice of a patron among the [[lore-khelathiclt|Khelathi]] nobility, who had her schooled in the subtler arts—disguise, cipher, the long game of court espionage—and set her to work as a spy and listener, her dead voices turned to the uses of the living. For years she served, until a commission carried her too deep: she uncovered the forbidden work of the [[place-akhozamenlaa|Akhoza-Menlaa]], the hidden circle led by Master [[being-legirha|Legirha]], whose experiments upon the dead and the spirit-realm threatened the very balance the Khelathi hold sacred. Knowing such knowledge marked her for the embalmer's table, Izaret fled Au'Khelathu and sought out [[being-kirobashkm|Kiroba]], hoping that together they might undo Legirha's work and set the balance right.
+Her gift drew the notice of a patron among the [[lore-khelathiclt|Khelathi]] nobility, who had her schooled in the subtler arts—disguise, cipher, the long game of court espionage—and set her to work as a spy and listener, her dead voices turned to the uses of the living. For years she served, until a commission carried her too deep: she uncovered what she took for the forbidden work of a circle said to meet at [[place-akhozamenlaa|Akhoza-Menlaa]] under Master [[being-legirha|Legirha]]. Knowing such knowledge marked her for the embalmer's table, Izaret fled Au'Khelathu and sought out [[being-kirobashkm|Kiroba]], hoping that together they could restore the balance.
+
+:::secret {title="What Izaret uncovered"}
+The circle's experiments upon the dead and the spirit-realm threatened the very balance the Khelathi hold sacred.
+:::
 
 ## Background
 
@@ -525,7 +529,11 @@ Izaret is cunning, resourceful, and often prefers working in the shadows. She is
 ## Plot Hooks
 
 The Secrets of Akhoza-Menlaa
-: Izaret discovers that a fragment of the Akhoza-Menlaa’s dangerous research has surfaced in a noble court outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. A desperate courier smuggles the information to her, revealing that Legirha’s experiments could disrupt the spiritual balance of an entire region. Izaret must infiltrate the court and retrieve or destroy the evidence before Legirha’s agents can exploit it, risking her safety to maintain the secrecy of her past affiliations.
+: Izaret discovers that a fragment of the Akhoza-Menlaa’s research has surfaced in a noble court outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. A desperate courier smuggles the information to her. Izaret must infiltrate the court and retrieve or destroy the evidence before the men she believes serve Legirha can exploit it, risking her safety to maintain the secrecy of her past affiliations.
+
+:::secret {title="What the courier's fragment reveals"}
+The research is dangerous, and the fragment reveals that Legirha’s experiments could disrupt the spiritual balance of an entire region.
+:::
 
 The Spirit’s Debt
 : While traveling with her companions, Izaret encounters the lingering spirit of a thief who once helped her escape from Au'Khelathu. The spirit claims it is bound to the mortal realm due to unfinished business linked to Izaret’s actions. To grant the spirit peace, Izaret must uncover the truth about a heist gone wrong, balancing her loyalty to her past with her present mission.
@@ -534,4 +542,4 @@ The Whispering Dagger
 : An artifact Izaret carries, a dagger gifted to her by her benefactor in Au'Khelathu, begins to emit strange whispers that only she can hear. These whispers guide her toward secrets and hidden paths but come at the cost of attracting the attention of those who fear or revere the artifact’s power. Izaret must decide whether to embrace the dagger’s guidance or seek to rid herself of its influence.
 
 The Fugitive’s Shadow
-: A former ally who escaped with Izaret during her flight from Au'Khelathu resurfaces, now operating as a high-profile agent in a rival kingdom. This person’s actions threaten to expose Izaret’s identity to Legirha’s spies, forcing her to confront her former ally in a game of wits and deception, where the cost of failure could mean capture or death.
+: A former ally who escaped with Izaret during her flight from Au'Khelathu resurfaces, now operating as a high-profile agent in a rival kingdom. This person’s actions threaten to expose Izaret’s identity to the spies she believes Legirha keeps, forcing her to confront her former ally in a game of wits and deception, where the cost of failure could mean capture or death.

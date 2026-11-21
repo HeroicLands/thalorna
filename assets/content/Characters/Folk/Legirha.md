@@ -3,7 +3,7 @@ shortcode: legirha
 name: {full: Legirha}
 type: being
 subType: npc
-description: "Master of a hidden circle whose experiments upon the dead and the spirit-realm threaten the balance the Khelathi hold sacred"
+description: "A mage of Khelzuret around whom rumor places a circle of mages"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -42,4 +42,8 @@ Legirha is a 38-year-old woman who stands 5'8" tall with a medium build. She has
 
 # Dossier {#dossier}
 
+Legirha is a mage of [[place-khelzuret|Khelzuret]], and rumor places a circle of mages around her.
+
+:::secret {title="What the circle does"}
 Legirha masters a hidden circle out of [[place-khelzuret|Khelzuret]], whose experiments upon the dead and the spirit-realm reach well past what the [[lore-khelathiclt|Khelathi]] hold sacred. The balance that doctrine protects is exactly what these experiments threaten. Anyone who discovers the circle's work discovers, at the same time, why it stays hidden.
+:::

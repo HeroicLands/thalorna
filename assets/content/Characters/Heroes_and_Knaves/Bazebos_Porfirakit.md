@@ -560,8 +560,8 @@ Maps That Shouldn't Exist
 Rival Mapmakers
 : A wealthy merchant house begins employing expeditions specifically to beat Bazebos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Bazebos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.
 
-The Princess's Commission
-: The heir to the Bizarian throne commissions Bazebos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Bazebos must decide whether to serve a princess or maintain his independence.
+The Council Heir's Commission
+: The young heir of a ruling council house of the League commissions Bazebos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Bazebos must decide whether to serve a council heir or maintain his independence.
 
 The Cartographer's Curse
 : Bazebos meets a dying explorer who claims that everyone who has attempted to map beyond certain boundaries is doomed—that something actively prevents the full knowledge of the world's true geography. The explorer bequeaths him a partial map hinting at vast territories that should exist but don't appear on any current charts. Bazebos must choose whether to pursue this mystery, knowing it may validate a hypothesis about reality itself that most would consider insane.

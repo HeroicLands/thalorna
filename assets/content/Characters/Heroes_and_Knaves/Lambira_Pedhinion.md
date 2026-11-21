@@ -1,6 +1,6 @@
 ---
 shortcode: lmbhrpdhnn
-name: {full: Lámbira Pédhinion, en: [The Bounty Hunter, The Hound of the Veil]}
+name: {full: Lámbira Pédhinion, en: [The Bounty Hunter, The Hound of Bethura]}
 type: being
 subType: npc
 tags: [heroes-and-knaves, hero, soldiery]
@@ -461,7 +461,7 @@ Her chance came with a runaway bound-man—a House servant who had struck his mi
 
 ### Current Mission
 
-Lámbira is on the trail of **[[being-rshrhssfrn|Rashira of House Safiron]]**, a former senior **Grammatissa** of the Naukrátissa's office in [[affiliation-bethuanflt|the Bethuan Fleet]] and a keeper of the sealed rolls of the [Purple Warrant]{.name data-type="miscgear"}. Rashira has fled with the one stolen original, written on crown purple vellum under unforgeable seals. Lámbira does not discuss who hired her, and the circles that know her work call her **the Hound of the Veil**.
+Lámbira is on the trail of **[[being-rshrhssfrn|Rashira of House Safiron]]**, a former senior **Grammatissa** of the Naukrátissa's office in [[affiliation-bethuanflt|the Bethuan Fleet]] and a keeper of the sealed rolls of the [Purple Warrant]{.name data-type="miscgear"}. Rashira has fled with the one stolen original, written on crown purple vellum under unforgeable seals. Lámbira does not discuss who hired her, and the circles that know her work call her **the Hound of Bethura**.
 
 :::secret {title="The Veil's commission"}
 Through the discreet intermediaries of the [[affiliation-courtveil|Court of the Veil]], the household of Metrissa [[being-amithenakrvn|Amithena of House Kervanion]] herself has set Lámbira after Rashira. The stolen register lays bare the truth of the deniable war on [[place-vylarianse|Vilérian]] shipping: most of its "patriot privateers" are common criminals, the Great Houses and the Metrissa herself grow rich on the plunder with no real benefit to the realm, and the matriarchy has been secretly preying on its own patron [[affiliation-empireakhlth|Empire of Au'Khelathu]], fencing grave-goods robbed from the [[lore-khelathiclt|Khelathi]] dead. That single roll is incontrovertible, and in the wrong hands it could cost Bethua the patron on whom its freedom depends.
@@ -476,7 +476,7 @@ Rashira did not run for the northern ports as a defector is expected to, but the
 :::secret {title="Who else is in the Marches"}
 Rashira means to cross the Marches and go on east toward [[affiliation-empireakhlth|Empire of Au'Khelathu]].
 
-Argirira has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the [[affiliation-vylarinmpr|Vilérian Empire]]'s agent [[being-casiaveric|Kassa Verris]] works the same country, courting Rashira and closing the roads east, for Viléria wants the register for itself and fears a Bethuan recovery more than a Khelathi one. House Othris-Khanu's own secrets sit among the stolen rolls, and Othris wants them recovered as badly as the Veil does.
+Argirira has been paid, through unseen hands, to see the Hound of Bethura dead. Nor is the Veil the only hunter: the [[affiliation-vylarinmpr|Vilérian Empire]]'s agent [[being-casiaveric|Kassa Verris]] works the same country, courting Rashira and closing the roads east, for Viléria wants the register for itself and fears a Bethuan recovery more than a Khelathi one. House Othris-Khanu's own secrets sit among the stolen rolls, and Othris wants them recovered as badly as the Veil does.
 :::
 
 ### End Goal

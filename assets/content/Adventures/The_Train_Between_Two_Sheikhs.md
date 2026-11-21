@@ -31,15 +31,11 @@ The party enters as hired guards for the train, as the garrison's messengers to 
 
 **The fort.** [[being-bashvarddarv|Bashvard Darvani]], who commands the garrison, wants the train in before the grain runs out, and he wants a shared escort that neither chieftain has to call a defeat. The town's _tagemader_ wants every caravan-master to pay the Kingdom's escort for the last stage instead, and each raid argues his case for him.
 
-:::secret {title="Khavari's tithe"}
-The kinless band that raids the last stage of the road pays a tithe to Khavari's camp in exchange for water and a place to sell its plunder. Her escorts always arrive because the raiders she shelters spare her trains. The band is about thirty riders under a hard, quiet man named [Eskaram]{.name data-type="being/npc"}, and it strikes Kamruz pickets and unescorted trains and leaves Varakan riders alone. If the party accuses her before the camps and the accusation holds, her escorts stop arriving.
-:::
+**Khavari's tithe.** The kinless band that raids the last stage of the road pays a tithe to Khavari's camp in exchange for water and a place to sell its plunder. Her escorts always arrive because the raiders she shelters spare her trains. The band is about thirty riders under a hard, quiet man named [Eskaram]{.name data-type="being/npc"}, and it strikes Kamruz pickets and unescorted trains and leaves Varakan riders alone. If the party accuses her before the camps and the accusation holds, her escorts stop arriving.
 
 **The kinless.** Eskaram's riders were cast out by their own kin and are claimed by none. They are owed no water, no hospitality and no vengeance, and they live on the gap between the two escorts. What they want is not plunder but a claim: a tribe, or any power, that will take them in. They turn back when [[being-delnshfrdn|Delanash Ferudan]] rides out from the fort, because they know her story, a tribeless girl taken onto the wall, and they say among themselves that she is what a kinless rider could become.
 
-:::secret {title="Razashar's tally"}
-[[being-razasharperu|Razashar Perudan]], a captain of the garrison, writes down each order of Delanash's that a Dunhari warrior would not have given and sends the tally each month to [[being-zarvashkaver|Zarvash Kaveran]], an elder at [[place-delmavad|Delmavad]], who reads it aloud to the conservative elders. This month's rider was waylaid by Eskaram's band on the way to Delmavad, and the packet lies in the plunder at Khavari's camp. Carried to Delanash, the tally splits the garrison. Carried to Zarvash, it reaches the elders on time. Carried to Bashvard, it settles the order of his successors.
-:::
+**Razashar's tally.** [[being-razasharperu|Razashar Perudan]], a captain of the garrison, writes down each order of Delanash's that a Dunhari warrior would not have given and sends the tally each month to [[being-zarvashkaver|Zarvash Kaveran]], an elder at [[place-delmavad|Delmavad]], who reads it aloud to the conservative elders. This month's rider was waylaid by Eskaram's band on the way to Delmavad, and the packet lies in the plunder at Khavari's camp. Carried to Delanash, the tally splits the garrison. Carried to Zarvash, it reaches the elders on time. Carried to Bashvard, it settles the order of his successors.
 
 > [!IMPORTANT]
 > Neither chieftain is lying about the claim. The scenario ends when the train comes in or is lost, and when the last stage has an escort that both camps can live with or a quarrel that ends in blood.

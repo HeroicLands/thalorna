@@ -40,7 +40,7 @@ The Halzi'a house of [[affiliation-thaulgau|Tha'Ulgau]], the kin of the conquero
 
 - **The Tha'Ulgau house**, once a year, with an offering and no escort.
 - **A priest of Hezmu'iri** with a Reading, and the families who bring a name to the edge.
-- **Necromancers**, who want the unclaimed souls. The circle at [[place-akhozamenlaa|Akhoza-Menlaa]] is the one the temples fear.
+- **Necromancers**, or so the temples fear. The priests name a circle at [[place-akhozamenlaa|Akhoza-Menlaa]] when they say it.
 - **Robbers**, after the bronze of an army no one stripped.
 - **Families** whose ancestor was a Galezkara soldier and never came home.
 
@@ -52,7 +52,13 @@ The hill-nomads of the western margins destroyed the last Galezkara army here in
 
 - **The boundary suit.** Two estates on either side of the field go to law over a line that only the field itself can settle. The court needs someone to measure it, and the only season in which it can be measured is Gelet, when it is worst.
 - **The account.** A Tha'Ulgau heir cannot be confirmed in his seat until the house's debt at the field is closed with a name, and the name his house needs is one nobody in the west remembers.
-- **The soul-hunters.** The Akhoza-Menlaa has been taking men from the edge of the field. The priest of Hezmu'iri who holds the Reading has missed three in a year.
+- **The soul-hunters.** People at the edge of the field say the Akhoza-Menlaa has been taking men. The priest of Hezmu'iri who holds the Reading has missed three in a year.
+
+:::secret {title="Who takes the men"}
+The circle at [[place-akhozamenlaa|Akhoza-Menlaa]] is responsible. Its necromancers want the unclaimed dead of this field above all, and the circle has been taking men from the edge of the field. The priest of Hezmu'iri who holds the Reading has missed three in a year because of it.
+
+GM hook: **The soul-hunters.** The rumor at the edge of the field is true, and the men are taken by the circle's necromancers.
+:::
 
 ## See Also {#see-also}
 

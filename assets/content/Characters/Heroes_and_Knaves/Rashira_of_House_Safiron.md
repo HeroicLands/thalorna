@@ -531,7 +531,7 @@ Conscience and caution as liabilities
 
 ### Enemies
 
-[[being-lmbhrpdhnn|Lámbira Pédhinion, the Hound of the Veil]]
+[[being-lmbhrpdhnn|Lámbira Pédhinion, the Hound of Bethura]]
 : The thief-taker of Bethura on her trail. Rashira has never met her hunter and yet feels she knows her—and suspects that, of everyone in the affair, this Houseless-hearted woman with no profit in the crime might be the one who could be made to understand why she ran. Whether she can turn the Hound before the Hound takes her is the gamble her flight may come down to.
 
 :::secret {title="The Hound's standing orders"}

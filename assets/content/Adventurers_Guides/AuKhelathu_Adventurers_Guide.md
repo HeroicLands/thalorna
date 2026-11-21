@@ -45,7 +45,7 @@ WHERE type = 'affiliation'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-:::secret
+:::secret {title="How a decree is stalled"}
 **For the GM:** A Halzi'a can stall a decree for a season by sending it back to be witnessed and entered properly. A temple can misplace a record. The throne can appoint an auditor. Each move can draw a party into a dispute where everyone invokes the law and nobody agrees on what should happen next.
 :::
 
@@ -90,11 +90,11 @@ The Khelathi learn their great works by copying them and hearing them read, and 
 
 Khelathi magic is priestly, and the line between priest and mage barely exists. Sacred power is trained in temple schools, licensed by temple authority, and practiced as an extension of liturgy rather than as a separate craft; [[lore-khelunulekha|Khelunu Lekhau]] is the tradition and the houses that keep it. The [[affiliation-ordoarcanis|Thordimalon]] has no presence in the empire and no prospect of one, and its factors are received with the courtesy owed to a foreign scholar who has misunderstood something fundamental.
 
-:::secret
+:::secret {title="Why a syndicate is condemned as heresy"}
 **For the GM:** The stranger rule is what makes organized crime here unlike organized crime anywhere else. A criminal family is nobody's doctrinal business—its obligations are held by kinship, as everyone's are. A body that takes in strangers and writes down what they owe is doing the one thing temples exist to do, and the priesthood answers that as heresy rather than theft. So growth is what condemns a syndicate, not violence or money, and its serious enemy is a priest rather than a magistrate. A party can be hired by either.
 :::
 
-:::secret
+:::secret {title="Unlicensed practice and crime by entering"}
 **For the GM:** Because power is licensed, the interesting practitioners are the unlicensed ones, and the interesting crime is not casting but _entering_—a rite performed without attestation, a working done for someone whose name is not in the record. A party that wants magical help outside the temples is buying from people whose whole risk is documentary.
 :::
 
@@ -187,7 +187,7 @@ Campaigns here start well from an open entry. Someone died with something unclos
 
 A campaign can also open on a field of the unread dead. A Vilérian envoy asks leave to visit [[place-chariotfld|the Chariot Field]] at [[place-khelaga|Khelaga]], where a legion's dead have lain beside the chariot corps since 377 AF; the court means to set a price on the visit, and somebody has to escort the envoy onto ground the boatmen will not moor beside. At the capital, across the river from Galezkara, [[being-gasherzugeza|Gasher Zu'Gezaru]] commands the Necropolis Guard of [[place-zugezer|Zu-Gezer]], and at [[place-khelautithnt|Khelaut-Ithnet]] [[being-lenutashalet|Lenuta Shaleth'Ulu]] keeps the roll of those who lie in the burial-fields; a visit to either begins with their leave.
 
-:::secret
+:::secret {title="The record as the GM's tool"}
 **For the GM:** The sharpest tool this setting hands you is that the record is both authoritative and physical. It can be read, bought, forged, lost, burned, or simply not produced on the day. A party that understands this starts asking what the archive says happened—and the moment they do, every scribe, priest and clerk in the valley becomes a player rather than scenery.
 
 The second tool is release. A person owed an undertaking can refuse to release it, for free, forever. A dying enemy who will not release your patron is a more durable problem than a living one.

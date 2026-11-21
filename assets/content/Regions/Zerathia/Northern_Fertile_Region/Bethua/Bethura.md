@@ -72,7 +72,7 @@ Not every House of Bethura holds great estates. The city's lettered Houses suppl
 
 [House Zighiros]{.name data-type="affiliation/lineage"} is a prosperous Lesser House of the Trade-Houses whose trade runs from the orchard-ports across the Vilérian Sea to Au'Khelathu. Its heir-presumptive, [[being-tlnrzyghrs|Tálanira Zighiros]], makes her home in Bethura and means to see her House rise to a Great House on terms she sets herself. She spends less time at the counting-house than her mother intended. House Zighiros once hired the thief-taker [[being-lmbhrpdhnn|Lámbira Pédhinion]] to run down a caravan thief, Tálanira rode along to "learn the trade-roads," and she has ridden with Lámbira since.
 
-Lámbira works out of Bethura, hiring her tracking, her blade and her Kharessa to the Houses, the Trade-Houses, the cantonal governesses and the agents of the capital itself. In the circles that know of such work she is called the **Hound of the Veil**.
+Lámbira works out of Bethura, hiring her tracking, her blade and her Kharessa to the Houses, the Trade-Houses, the cantonal governesses and the agents of the capital itself. In the circles that know of such work she is called the **Hound of Bethura**.
 
 :::secret
 **For the GM:** The Court of the Veil has set Lámbira after Rashira. The roll Rashira carries shows that most of the Purple Warrant's privateers are common criminals, that the Great Houses and the Metrissa profit from the plunder, and that Bethua has been fencing grave-goods robbed from the Khelathi dead. Rashira is making for Au'Khelathu through the [[place-sthmrchsrgn|South Marches]]; Lámbira has been ordered never to read the roll or let Rashira speak.

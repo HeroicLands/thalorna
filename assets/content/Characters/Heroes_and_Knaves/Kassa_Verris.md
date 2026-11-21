@@ -504,7 +504,7 @@ She does not hate Rashira, or Lámbira, or Bethua. They are, respectively, a pri
 
 ### Rivals
 
-[[being-lmbhrpdhnn|Lámbira Pédhinion, the Hound of the Veil]]
+[[being-lmbhrpdhnn|Lámbira Pédhinion, the Hound of Bethura]]
 : The Bethuan thief-taker on Rashira's trail, whom Kassa treats with careful respect.
 
 The Court of the Veil

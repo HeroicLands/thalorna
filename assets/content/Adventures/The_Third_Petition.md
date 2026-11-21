@@ -31,13 +31,9 @@ The party enters as the widow's escort from [[place-parzavad|Parzavad]], as stra
 
 **The riders.** Shadezan gave no order. His second son led the riders without his father's leave, to show that he could hold the clan's people as well as his elder brother. Shadezan learned it afterward and took the deed as his own, because a chieftain answers for his riders and because naming his son before the Circle would end the young man's standing in every camp.
 
-:::secret {title="Tavura's reading"}
-At Shadezan's naming the wind told his mother, [[being-tavurakamruz|Tavura Kamruz]], that he would hold the desert and lose his sons to it. She has told no one, and she reads the wind each spring in the hope that it has changed. She knows which son led the riders. At the spring reading this year she spoke his name aloud, and a Kamruz rider who heard it has talked.
-:::
+**Tavura's reading.** At Shadezan's naming the wind told his mother, [[being-tavurakamruz|Tavura Kamruz]], that he would hold the desert and lose his sons to it. She has told no one, and she reads the wind each spring in the hope that it has changed. She knows which son led the riders. At the spring reading this year she spoke his name aloud, and a Kamruz rider who heard it has talked.
 
-:::secret {title="The count at the pens"}
-Mahvarad reports fewer beasts at the fair's pens at Parzavad than the Soltrev own, and keeps the rest in a hollow of the plain north of the town, a herd large enough to mount the clan's return. He expects the Circle to refuse him. A refusal spoken at the Stone frees the Soltrev to take the matter into their own feud, as the petitioners of the second refusal did, and the hidden herd is ready for that day. A party that follows the Soltrev riders north finds it mounted and ready in its hollow, and the Soltrev ride from it if the Circle refuses.
-:::
+**The count at the pens.** Mahvarad reports fewer beasts at the fair's pens at Parzavad than the Soltrev own, and keeps the rest in a hollow of the plain north of the town, a herd large enough to mount the clan's return. He expects the Circle to refuse him. A refusal spoken at the Stone frees the Soltrev to take the matter into their own feud, as the petitioners of the second refusal did, and the hidden herd is ready for that day. A party that follows the Soltrev riders north finds it mounted and ready in its hollow, and the Soltrev ride from it if the Circle refuses.
 
 **The Circle.** The [Council of Scars]{.name data-type="affiliation/governmental"} is divided before the case is put. Its oldest members say the Circle has refused twice, paid for each refusal and owes nobody a third. Others say a ruling against a member for drawing on his own clan's people indicts half the chieftains in the Circle. The southern tribes' case against [the Unrecited]{.name data-type="affiliation/criminal"} stands undecided on the Stone's list, and the Council of Scars will not frame it until the Circle has answered the Soltrev, so a refusal here is the Circle's third and the Unrecited case is still to come. Everyone knows the Circle needs Shadezan to lead it against the Unrecited and the Sovidur.
 

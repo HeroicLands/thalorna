@@ -5994,7 +5994,7 @@ data:
     - {name: The Hellád Calendar, tongue: translation}
     - {name: The Herald's Terms, tongue: translation}
     - {name: The Hidden Hand of Maps, tongue: translation}
-    - {name: The Hound of the Veil, tongue: translation}
+    - {name: The Hound of Bethura, tongue: translation}
     - {name: The Houses, tongue: translation}
     - {name: The Hymn of the First Terms, tongue: translation}
     - {name: The Iron Wolves, tongue: translation}
