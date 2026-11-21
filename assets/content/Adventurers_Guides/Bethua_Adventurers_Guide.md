@@ -20,17 +20,39 @@ The [[affiliation-mtrrchybth|Matriarchy of Bethua]] lies on the northern shore o
 
 The House is the unit of everything. A Dómissa leads it, it owns the land, the workshops, the boats and the cargoes, and a Bethuan woman introduces herself by her House before her own name. The realm stands on two pillars: the [[affiliation-sacredcollege|Sacred College]] of high priestesses of the [[affiliation-lusinia|Faith of Lusinia]], the [[affiliation-zunelas|Faith of Zunelas]] and the [[affiliation-olvenia|Faith of Ólvenia]], and the [[affiliation-councilhouses|Council of Houses]] of the matriarchs. The Metrissa, queen and high priestess at once, sits where they meet and wears the [[miscgear-veilpurple|Purple Veil]].
 
-A foreign man who trades here is served fairly, his coin taken and his contracts honored, and he is met throughout with a cool condescension. A foreign woman trading on her own account is dealt with woman to woman and may find Bethua the easiest market on the coast. An official of Au'Khelathu, man or woman, is received with marked deference, and everyone watching is meant to notice. Bethua strikes no coin of its own; purses hold [[lore-aukhlthcrncy|Khelathi weight-pieces]], and large sums move as letters of credit sealed by [[affiliation-bthntrdhss|the Trade-Houses]].
+A foreign man who trades here is served fairly, his coin taken and his contracts honored, and he is met throughout with a cool condescension. A foreign woman trading on her own account is dealt with woman to woman and may find Bethua the easiest market on the coast. An official of Au'Khelathu, man or woman, is received with marked deference, and everyone watching is meant to notice. Bethua strikes no coin of its own; purses hold Khelathi weight-pieces ([[lore-aukhlthcrncy|Au'Khelathu Currency]]), and large sums move as letters of credit sealed by [[affiliation-bthntrdhss|The Bethuan Trade-Houses]].
 
 ## Where to Go
 
-Bethura, the capital, seats both councils and the federation of the Trade-Houses; a Great House's letter is good at any other Great House, and a Junior House's paper is rarely taken outside the city that issued it. [[place-ashira|Oshira]] on the coast is the seat of House [Khalath-Mara]{.name data-type="affiliation/lineage"}, the oldest and proudest of the Great Houses. Inland, the line between green wheat and straw-colored grass is wherever the water stops, and the southern borderlands are shared with nomads who pay tribute rather than obey. [[affiliation-bethuanflt|The Bethuan Fleet]], the best navy in the region, escorts the convoys and wages a deniable privateer war on Vilérian shipping.
+Bethura, the capital, seats both councils and the federation of the Trade-Houses; a Great House's letter is good at any other Great House, and a Junior House's paper is rarely taken outside the city that issued it. [[place-ashira|Oshira]] on the coast is the seat of House [Khalath-Mara]{.name data-type="affiliation/lineage"}, the oldest and proudest of the Great Houses, and the canton's Hégissa sits there beside it. Inland, [[place-sehela|Sehela]] is a grain-village of the dry south, held by [House Khalithon]{.name data-type="affiliation/lineage"} and kept alive by channels the engineer-priestesses maintain. Beyond it, the line between green wheat and straw-colored grass is wherever the water stops, and the southern borderlands are shared with nomads who pay tribute rather than obey. [[affiliation-bethuanflt|The Bethuan Fleet]], the best navy in the region, escorts the convoys and wages a deniable privateer war on Vilérian shipping.
 
 Do not mistake an unarmed Bethuan woman for a defenseless one: the [[skill-charissa|Kharessa]], an open-hand and kicking art built on speed, is taught to every woman of the Spear-Sisterhood and to many free women besides.
 
+## People to Meet
+
+The realm's year turns on a quarrel over grain. The Houses want to sell it to the Khelathi patron, and the Sacred College wants it held for the cisterns. [[being-amithenakrvn|Amithena of House Kervanion]], the Metrissa, has not chosen between them. [[being-aseliakhlthmr|Aselia of House Khalath-Mara]] is the Matriarch of the oldest Great House and the senior voice of the [[affiliation-councilmatriarchs|Council of Matriarchs]], and she has not said which way her House leans. [[being-ibinethsufrs|Ibinetha of House Sufiris]] is the Hégissa of the coast, who holds its courts and levy in the Metrissa's name. [[being-tazithakhlthn|Tázitha of House Khalithon]] is the Dómissa of Sehela, whose tenants need the surplus in a dry year. [[being-nikhtirahdrths|Nikhtira Hadrithos]] is a warrant-captain of the Fleet who wants a berth in the grain convoy.
+
+Two others are on the road south: [[being-rshrhssfrn|Rashira of House Safiron]], a Grammatissa who fled the Matriarch's justice and is a fugitive from the crown, and [[being-lmbhrpdhnn|Lámbira Pédhinion]], a bounty hunter born at Sehela who is on her trail. The rest of the Bethuans a party is likely to meet:
+
+```sql
+SELECT address.slug AS _ref,
+       name.full AS "Person",
+       data.occupation AS "Occupation"
+FROM notes
+WHERE type = 'being'
+  AND data.culture = 'thalorna-note-lore-bethuanclt'
+  AND subType IN ('npc', 'character')
+  AND state = 'full'
+ORDER BY name.full COLLATE NOCASE
+```
+
 ## Ways In
 
-A Trade-House pays you in paper and a rival House refuses to honor it three ports along. A keeper of the sealed rolls of the [Purple Warrant]{.name data-type="lore/law"}, the crown's commission for privateers, has fled south with one of them, and a party that rides with the thief-taker [[being-lmbhrpdhnn|Lámbira Pédhinion]] may be sent after her. A qanat in the interior has failed, the engineer-priestesses want to know whether the collapse was an accident, and the village beside it is watching its fields brown. A Vilérian captain wants a crew to find out which Bethuan galley took his cargo.
+A Trade-House pays you in paper and a rival House refuses to honor it three ports along. At Oshira a ship's master has a claim against a Khalath-Mara factor that goes before a judge who dines at the House's table, and Ibinetha wants a witness who belongs neither to the House nor to the canton. The grain convoy is the season's great charter: Nikhtira Hadrithos will take a party that can arm a galley's deck, and a Vilérian captain wants a crew to find out which Bethuan galley took his cargo, a question the Fleet's warrant-captains answer slowly and with a straight face.
+
+At Sehela the Dómissa Tázitha wants someone to carry her tenants' case to Bethura before the Metrissa decides the sale. A qanat in the interior has failed, the engineer-priestesses of the [[affiliation-orderwaters|Order of the Waters]] want to know whether the collapse was an accident, and the village beside it is watching its fields brown. Aselia's silence is its own commission: the Houses read it as the Matriarchs', and a party that learns which way Khalath-Mara leans can sell the knowledge to either side.
+
+A keeper of the sealed rolls of the [Purple Warrant]{.name data-type="lore/law"}, the crown's commission for privateers, has fled with one of them, and a party that rides with the thief-taker Lámbira Pédhinion may be sent after her.
 
 ## Hymns, Rolls and Quay Tales
 
@@ -48,7 +70,7 @@ A newcomer hears these quoted in the gardens, the Council's hall and the wine-sh
 - [[affiliation-mtrrchybth|The Matriarchy of Bethua]] for the two pillars, the titles and the election of the Metrissa
 - [[lore-bethuanclt|The Bethuans]] for the House, the place of men and what a person owes
 - [[place-bethura|Bethura]] for the capital, its water and its quays
-- [[affiliation-bthntrdhss|The Trade-Houses]] and [[affiliation-bethuanflt|the Fleet]] for commerce and the privateer war
+- [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] and [[affiliation-bethuanflt|the Fleet]] for commerce and the privateer war
 - [[skill-bethunlng|Bethuan]] for the two registers and the Khelathi loanwords
 
 ## Glossary

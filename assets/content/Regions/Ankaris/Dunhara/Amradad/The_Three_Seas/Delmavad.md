@@ -29,3 +29,14 @@ The springs water date palms, barley, melons and fodder. The town feeds itself a
 ## The Present {#present}
 
 The kinless of the desert raid the outer gardens at night and take what the herd-tribes do not guard. The tribes' compact holds while the springs run, and the garrison at Gharzadez wants to draw more of Delmavad's water, which the tribes say breaks it.
+
+## See Also {#see-also}
+
+[[place-mirrorsea|The Mirror Sea]]
+: the salt sea on whose western shore the springs rise
+
+[[place-gharzadez|Gharzadez]]
+: the fort the town feeds
+
+[[scenario-trnbtwnshks|The Train Between Two Sheikhs]]
+: a scenario: a grain train stranded at the handover well while two chieftains dispute the last stage

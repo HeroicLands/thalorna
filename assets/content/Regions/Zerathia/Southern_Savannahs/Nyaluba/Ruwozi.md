@@ -67,7 +67,7 @@ The **Ruwozi** are the lion-clan of the [[affiliation-nylbtrblntn|Nyáluba Triba
 
 ## The Clan Now {#the-house-now}
 
-The paramount is the Nyoli Ruwozi, by custom a daughter of the senior lineage, and the title passes to a woman of that line as a name passes. The sixth to bear it is [Nzobu Ruwozi]{.name data-type="being/npc"}, about fifty, who has presided over three Lubemos and is held across all five clans to know the totemic law as few do. As Convener she summons the [[affiliation-greatlubemo|Great Lubemo]] and speaks last in it, and the Ruwozi griot recites [[lore-braiddaughters|The Braid of the Daughters]] when she takes the convener's place at [[place-hetolubemo|Heto Lubemo]].
+The paramount is the Nyoli Ruwozi, by custom a daughter of the senior lineage, and the title passes to a woman of that line as a name passes. The sixth to bear it is [[being-nzoburwz|Nzobu Ruwozi]], about fifty, who has presided over three Lubemos and is held across all five clans to know the totemic law as few do. As Convener she summons the [[affiliation-greatlubemo|Great Lubemo]] and speaks last in it, and the Ruwozi griot recites [[lore-braiddaughters|The Braid of the Daughters]] when she takes the convener's place at [[place-hetolubemo|Heto Lubemo]].
 
 A Ruwozi man takes a single lion-tooth at adulthood, and the taking is the ordeal by which he enters the tradition. A Ruwozi woman braids her hair in patterns that record her lineage. No Ruwozi hunts a lion or eats lion flesh, and a beast lost to lions on the guide's ground is entered in the tally as a rendering and not a loss ([[affiliation-nyalblion|Lion Totem]]).
 
@@ -79,7 +79,11 @@ The pans carry the herds through the wet months, and the dry season sends them t
 
 ## Quarrels and Debts {#present}
 
-The Ruwozi are at war with the [[affiliation-kolembozi|Kolembozi]]. After a dry season and a diverted channel the Ruwozi herds needed rivers that the crocodile-clan controls, and the matter is the first business of the Lubemo now gathering. The paramount who must summon that Lubemo and speak last in it is a party to the quarrel, so the convergence that settles things is in doubt. The other three clans must choose between the two or hold the Pact by convergence regardless.
+The Ruwozi are at war with the [[affiliation-kolembozi|Kolembozi]], the first war between two clans of the Pact. The dry season sent the herds toward rivers that run through Kolembozi country, and a channel that fed the Ruwozi pans had been turned aside. The Ruwozi say the Kolembozi cut it. The Kolembozi say another hand cut it, and which account is true is not settled. A herd driven to a Kolembozi pool ended in a killing, the lineages on both sides took up the feud, and the feud became a war when the paramount ordered the muster.
+
+The regiments stand mustered at [[place-mbolewevlg|Mbolewe]], and the Regiment-Caller keeps the cohorts at home while the paramount sits as Convener at [[place-hetolubemo|Heto Lubemo]]. The paramount travels there with her delegation, and the business of the sitting is her own. As Convener she keeps the order of speaking, and the order puts the war first and has her speak last, so she hears every other paramount before she says a word on a quarrel in which she is a party. The clan holds that the rivers are the herds' by the Pact's third term, which shares the rivers, and asks of the other three clans that they stand with the herds.
+
+The paramount keeps her personal relations with the dry-country chieftains, who are not party to the Pact, and she has sent word to them since the muster.
 
 ## History as Told {#history}
 
@@ -95,6 +99,9 @@ The clan keeps no standing force. Its regiments are age-set cohorts of young men
 - **The paramount's message.** The Ruwozi paramount wants word carried to a dry-country chieftain, outside the Lubemo and outside the other four paramounts' knowledge.
 
 ## See Also {#see-also}
+
+[[being-nzoburwz|Nzobu Ruwozi]]
+: the paramount and Convener
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation of the five clans

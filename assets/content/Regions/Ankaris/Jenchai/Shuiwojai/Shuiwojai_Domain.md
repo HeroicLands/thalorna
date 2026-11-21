@@ -41,10 +41,44 @@ data:
         description: >-
           Holds Rojai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Rojai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Hawu. Held by a Dauzhwo.
+      Judge: Chosen from the Dauzhwo's retainers to sit in the hall at Hawu and hear the cases of the town and the harbor.
       Keeper of the Salt Records: Held by the Besheju, who keep the roll of the salt pans and the salt owed to the granary at Hawu.
   seat: hawu
   population: 105000
   territorial_population: 110000
+  settlements:
+    - settlement: Beshenu
+      polity: affiliation-shuiwojaidmn
+      location: place-rojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Besheju"
+      population: 650
+      market: local
+      notes: "Salt Terraces. Fief. Salt pans. Head village of a district assessed at 2,400 bales."
+    - settlement: Kowo
+      polity: affiliation-shuiwojaidmn
+      location: place-rojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-shuiwojaidmn
+      population: 840
+      market: local
+      notes: "Old Sea. Demesne. Shipyards and fishing. Head village of a district assessed at 3,100 bales."
+    - settlement: Rounu
+      polity: affiliation-shuiwojaidmn
+      location: place-rojai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 490
+      market: local
+      notes: "Thunder Terraces. Court estate. Rice under Rojai. Head village of a district assessed at 1,800 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -54,7 +88,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Shuiwojai Domain, held by House Shuiwojai (Strait Place), holds [[place-rojai|Rojai]] (Thunder Peak), the mountain on the west coast of the great island where it faces the strait, by patent of the Emperor. Its lord is the Dauzhwo [Shuiwojai Henzo]{.name data-type="being/npc"} (Tiger Lord), forty-seven years old, who sits in the castle town of [[place-hawu|Hawu]] (Dark Hall), population 7,500. The domain holds 105,000 people, is assessed at 78,000 bales a year, and musters 1,950 men and 60 ships—the largest army and the largest fleet of the eight houses. Henzo leads [The Strait]{.name data-type="affiliation"} bloc, and the office he wants is that of Teng Ja.
+The Shuiwojai Domain, held by House Shuiwojai (Strait Place), holds [[place-rojai|Rojai]] (Thunder Peak), the mountain on the west coast of the great island where it faces the strait, by patent of the Emperor. Its lord is the Dauzhwo [[being-henzoshuiwo|Shuiwojai Henzo]] (Tiger Lord), forty-seven years old, who sits in the castle town of [[place-hawu|Hawu]] (Dark Hall), population 7,500. The domain holds 105,000 people, is assessed at 78,000 bales a year, and musters 1,950 men and 60 ships—the largest army and the largest fleet of the eight houses. Henzo leads [The Strait]{.name data-type="affiliation"} bloc, and the office he wants is that of Teng Ja.
 
 ## The Land
 
@@ -68,6 +102,8 @@ Three of Rojai's villages are named here. The rest of the 78,000 bales comes fro
 | Kowo    | Old Sea          | Demesne      | The lord's granary at Hawu              | Shipyards and fishing |    3,100 |
 | Rounu   | Thunder Terraces | Court estate | The Emperor, through the lord's granary | Rice under Rojai      |    1,800 |
 
+Each named village is the head village of a district, and the assessment in the table is the district's.
+
 The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchei are provisioned from the lord's villages.
 
 ## Retainers
@@ -76,15 +112,27 @@ The [Besheju]{.name data-type="affiliation/lineage"} keep the salt records and h
 
 ## Fleet and Muster
 
-The muster is 1,950 men and 60 ships. The yards at [Kowo]{.name data-type="place/settlement"} build and refit the fleet, and the ships keep the water between Rojai and the mainland coast; the raids on Tantsou's shore that the lords of the Nine count as their right sail from Rojai among other harbors. The [[affiliation-tantsouempr|Empire of Tantsou]] counts House Shuiwojai its nemesis. [Rinjai Hoja]{.name data-type="being/npc"}, the lord of the lesser island, is sworn to Henzo and adds 650 men and 25 ships, so the Strait bloc stands at 2,600 men and 85 ships.
+The muster is 1,950 men and 60 ships. The yards at [Kowo]{.name data-type="place/settlement"} build and refit the fleet, and the ships keep the water between Rojai and the mainland coast; the raids on Tantsou's shore that the lords of the Nine count as their right sail from Rojai among other harbors. The [[affiliation-tantsouempr|Empire of Tantsou]] counts House Shuiwojai its nemesis. [[being-hojarinjai|Rinjai Hoja]], the lord of the lesser island, is sworn to Henzo and adds 650 men and 25 ships, so the Strait bloc stands at 2,600 men and 85 ships.
+
+## Current Situation {#present}
+
+In 720 AF Henzo wants the office of Teng Ja and is the favorite for it. His silver has covered the shortfall in the court's budget for three years, so the court is in his debt, and the other houses fear an office bought with money. He has petitioned for it, and [[being-weilengjnch|Weileng]] has answered with a sealed letter. What the letter says is known to the Emperor and to the hands that sealed it.
+
+:::secret {title="What the Sealed Letter asks"}
+The letter withholds the office and asks Henzo for more silver toward the court's budget, and it names no price at which the office would follow. It is Weileng's way of deferring: while the office stays unconferred, both blocs need him.
+:::
+
+The letter must leave [[place-zojai|Zojai]] by the roads that Muwojai keeps and cross Muwojai's ferry at [Zuju]{.name data-type="place/settlement"}, and Muwojai is a loyalist house. Until the letter reaches Hawu, Henzo does not know what the Emperor asks of him, and he does not trust the hands that carry it. Every season the office stays unconferred, his silver buys a debt and not the office.
+
+He has named a price to Zenjai and Wojai, because either house joining the Strait bloc ends the balance in his favor, and the Hojujai regent has named a price to the same two. The fleet at Hawu and the raiders of Rinjai keep the strait, and the mainland's coastal magistrates want the raids that sail from it stopped.
+
+## History {#history}
+
+Shuiwojai stood with Wojai against conferring the office of Teng Ja on a regency, and the quarrel became the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
 
 ## Relations {#relations}
 
-For three years Henzo's silver has covered the shortfall in the court's budget, and the court is in his debt. The lord of Rojai is the rival of [[affiliation-hojujaidmn|Hojujai]], the house of the last Teng Ja: in 709 AF Shuiwojai and [[affiliation-wojaidmn|Wojai]] pressed the court not to confer the office on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and [[affiliation-muwojaidmn|Muwojai]] wants the office for the Hojujai heir when he comes of age, or for nobody.
-
-## The Sealed Letter
-
-Henzo has petitioned for the office, and the Emperor has answered with a sealed letter. The letter must leave [[place-zojai|Zojai]] by the roads that Muwojai keeps and cross Muwojai's ferry at [Zuju]{.name data-type="place/settlement"}, and Muwojai is a loyalist house. Until the letter reaches Hawu, Henzo does not know whether he holds the office, and he does not trust the hands that carry it.
+The lord of Rojai is the rival of [[affiliation-hojujaidmn|Hojujai]], the house of the last Teng Ja: the [[lore-empseatwar|War of the Empty Seat]] began over the office. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and [[affiliation-muwojaidmn|Muwojai]] wants the office for the Hojujai heir when he comes of age, or for nobody.
 
 ## See Also {#see-also}
 

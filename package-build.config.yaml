@@ -48,6 +48,7 @@ languages:
     valt: { tag: art-x-valt, note: skill-valtarlng }
     varo: { tag: art-x-varo, note: skill-varokhlng }
     vedy: { tag: art-x-vedy, note: skill-vedyarlng }
+    velt: { tag: art-x-velt, note: skill-velanthlng }
     vyl: { tag: art-x-vyl, note: skill-vylarilng }
     zxx: { tag: zxx }
 
@@ -450,8 +451,8 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-senaliclt'
         - id: tantsou
-          title: Tāntsou
-          abbreviation: "Tānt."
+          title: Tantsou
+          abbreviation: "Tant."
           subtitle: A Gazetteer of Thalorna
           contents:
               - sectionName: Introduction
@@ -470,16 +471,22 @@ pdf:
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-tantsouclt'
         - id: jenchai
-          title: Jénchài
-          abbreviation: "Jür."
+          title: Jenchai
+          abbreviation: "Jen."
           subtitle: A Gazetteer of Thalorna
           contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Places
                 contents:
                     - filter: type = 'place' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Affiliations
                 contents:
                     - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-jenchaiclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-jenchaiclt'
               - sectionName: Lore
                 contents:
                     - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-jenchaiclt'
@@ -850,7 +857,8 @@ packageBuild:
         - address: affiliation-vrkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-wojaidmn
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The seat Yuwu is a trading port that buys its food with harbor tolls and trade, so its share of the domain exceeds the urban ceiling.
         # Provisional: each polity below governs one town or city, so its urban share is
         # trivially 100 percent. Delete this group when the package skips single-settlement polities.
         - address: affiliation-twncnclprtaln

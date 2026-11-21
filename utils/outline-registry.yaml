@@ -52,7 +52,18 @@ archetypes:
     - guildsperson
 
 # An archetype a land's canon excludes: land id, then archetype, then the reason.
-archetypeAbsences: {}
+archetypeAbsences:
+    grukarholm:
+        infiltrator: "The Grukar cannot be infiltrated, since no one bargains with a nest, and the human side has no court or house to spy on."
+        mage: "No human practitioner lives inside the country; the only magic there is the dreadspawn's, and the Skathwald shamans keep to their villages."
+        cleric: "No shrine or priest stands in the country; the forts' garrisons bury their dead at the small house of the Faith at Brevavesh."
+        scholar: "The country has no school, archive or letters; the Grukar keep no records and the human side is forts and villages."
+        courtier: "No court holds the country; the princes' courts are in Velanthia's river towns."
+        artisan: "The Grukar make no goods for exchange and the forts' smiths and tanners live in Velanthia's towns."
+        healer: "No healer lives inside the country; the healer of the village beneath Torvogor Fort lives in Velanthia and comes down to the landing after a raid."
+        commoner: "No household lives inside the country, whose people are wardens, riders, hunters and traders; the villages stand on the Velanthian and Skathwald sides."
+        entertainer: "The frontier has no audience; a singer or storyteller would be a guest in a Velanthian or Skathwald village."
+        guildsperson: "No house or guild keeps an agent inside the country, where only pelts and the river-trader's salt and iron change hands."
 
 # Addresses of affiliations whose shared governance block an owner ruling keeps.
 sharedGovernance:
@@ -334,7 +345,7 @@ kinds:
           - { id: who-holds-it, heading: Who Holds It, status: warranted }
           - { id: history, heading: Layers, status: required }
           - { id: present, heading: What Is There Now, status: required, needs: summary }
-          - { id: dangerous-neighbours, heading: Dangerous Neighbours, status: warranted }
+          - { id: dangerous-neighbors, heading: Dangerous Neighbors, status: warranted }
           - { id: what-a-party-finds, heading: What a Party Finds, status: warranted }
           - { id: hooks, heading: Hooks, status: optional }
           - { id: see-also, heading: See Also, status: optional }
@@ -360,7 +371,7 @@ kinds:
           - { id: who-holds-it, heading: Who Holds It, status: warranted }
           - { id: history, heading: Layers, status: required }
           - { id: present, heading: What Is There Now, status: required, needs: summary }
-          - { id: dangerous-neighbours, heading: Dangerous Neighbours, status: warranted }
+          - { id: dangerous-neighbors, heading: Dangerous Neighbors, status: warranted }
           - { id: what-a-party-finds, heading: What a Party Finds, status: warranted }
           - { id: hooks, heading: Hooks, status: optional }
           - { id: see-also, heading: See Also, status: optional }

@@ -42,7 +42,7 @@ The Necropolis is filling faster than its keepers can wall it.
 - **The burial clubs.** A club pays for its members' niches out of their dues, and its members are veteran-citizens who pay out of the pension. The throne pays the pension with borrowed money, and the clubs' treasurers listen to the noon proclamations in the [[place-platandstr|Platan District]] as closely as anyone: when the pension comes short, dues lapse, and a member whose dues have lapsed goes to the trenches rather than the niche-wall. Several clubs have begun to bury on credit, and the masons who cut the niches want to be paid in coin.
 - **The palace's errand.** A clerk of the Orzas's household is seen at the Keepers' door after dark, without his badge of office, often enough that the Necropolis watch has begun to count his visits. A senator's agent has begun to ask the watch what it has counted.
 
-## Who Shelters Among the Tombs {#dangerous-neighbours}
+## Who Shelters Among the Tombs {#dangerous-neighbors}
 
 The roadside tombs are the first shelter beyond the Clearance. The non-citizens the Watch puts out of the city at night sleep on the families' benches and in the porches of the house-tombs, and the families' freedmen drive them off in the morning. Robbers work the poorer roads for grave goods, and the Necropolis watch, a few dozen Keepers and hired men for a ground of many miles, keeps the senatorial avenues first and the rest as it can.
 

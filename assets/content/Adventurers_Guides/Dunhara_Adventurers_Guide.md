@@ -36,6 +36,8 @@ The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] of fire and light, 
 
 A party usually arrives as a caravan's escort. Escort duty passes from tribe to tribe as a caravan crosses each territory, and a dispute at a handover can strand the cargo between two sheikhs. Other troubles are already moving: a delegation petitioning the Warrior's Circle against a Dunhari chieftain, the marked stones that choose the Circle's Voice gone missing before a meeting, two storm-cult lineages giving opposite readings of the coming rains, and a storm-shaman from the [[place-khzryndsrtrgn|Khazrin Desert Region]] preaching where he should not.
 
+A campaign among the cities and the caravan road of Amradad runs on [[scenario-sprngbfrbnnr|The Spring Before the Banner]], one spring in which a steppe dovaq gathers tribes under his banner. It lands at [[place-valmakhend|Valmakhend]] and [[place-tahrodan|Tahrodan]], and the exile houses, whose courts sit in [[place-shebarakhend|Shebarakhend]], take their part in it.
+
 ## Where to Read Next
 
 [[lore-dunhariclt|The Dunhari]]

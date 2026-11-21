@@ -1,8 +1,8 @@
 ---
 shortcode: lersaissaaqt
-name: {full: Lersais Sa'Akutu, given: Lersais, clan: Sa'Akutu}
+name: {full: Lersais Sa'Akutu}
 type: being
-subType: character
+subType: npc
 tags: [heroes-and-knaves, administration]
 data:
   banner: khelathubnr
@@ -12,8 +12,11 @@ data:
   occupation: Nobility (Tenant-in-chief)
   lore: []
   culture: khelathiclt
-  homes: [anlaghzetun]
-  affiliations: {empireakhlth: {rank: 3, office: Halzi'a}, uznera: {rank: 1}}
+  homes: [garqeztu]
+  affiliations:
+    selatgarqezt: {rank: 3, office: Halzi'a}
+    empireakhlth: {rank: 3}
+    uznera: {rank: 1}
   gender: male
   species: humanflk
   born: 672.111
@@ -471,7 +474,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-anlaghzetun|Anlagh-Zetun]]
+**Home:** [[place-garqeztu|Gar-Qeztu]]
 
 # Appearance {#appearance}
 
@@ -481,7 +484,7 @@ Lersais stands 6'2" tall with a heavy build. He has olive weathered skin, black 
 
 # Dossier {#dossier}
 
-Lersais was born into [[affiliation-garsaaqutu|Gar-Sa'Akutu]], the Sa'Akutu family, as the eldest son of a tenant-in-chief of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the art of command necessary to lead warriors in actual combat. His father died when Lersais was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
+Lersais was born into [[affiliation-garsaaqutu|Gar-Sa'Akutu]], the Sa'Akutu family, as the eldest son of a tenant-in-chief of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the art of command necessary to lead warriors in actual combat. His father died when Lersais was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies. The lands are [[affiliation-selatgarqezt|the Selat of Gar-Qeztu]], whose drill-grounds and officer schools train the officers of those armies, and he governs it as its Halzi'a.
 
 The young Lersais threw himself into military service, earning a reputation for tactical brilliance and unfailing devotion to the [[lore-garauu|Gar-Au]]. He fought in three major campaigns against the Empire's neighbors, rising to the rank of general by his mid-thirties. His reputation became such that Gar-Auu sought his counsel on military matters, and he became one of the most influential voices in the Gar-Au's court regarding questions of defense and national security.
 

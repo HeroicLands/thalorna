@@ -83,3 +83,6 @@ The citadel stands over the meeting of the roads, and the governor's palace and 
 
 [[scenario-sprngbfrbnnr|The Spring Before the Banner]]
 : a scenario: one spring on the caravan road while a dovaq gathers tribes under his banner
+
+[[scenario-undrtmplsl|What Passes Under the Seal]]
+: a scenario: a whole caravan held under one fire-temple's seal, and a toll dispute at the gate

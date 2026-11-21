@@ -29,7 +29,7 @@ crossing, and it is crossed, and at the head of the bay the shore runs on into V
 
 [[place-vrystwald|Vristwald]] lies on the far shore—wild forest country held by the Varokh
 tribes, with large bands of [[lore-grukarfolk|Grukar]] ranging through it out of
-[[place-grkrhlmrgn|Grukarholm]] to its east and south. Neither is a kingdom that could invade
+[[place-grkrhlmrgn|Grukarholm Region]] to its east. Neither is a kingdom that could invade
 Élavendre. Both raid it constantly, and Lísere is where they land.
 
 The consequence is a coast that is settled defensively: villages set back from the water, beacon

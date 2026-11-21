@@ -70,3 +70,6 @@ The temple stands at the heart of the precinct, below the palace and above the g
 
 [[place-twofirestemple|Temple of Two Fires]]
 : the Kudumel temple whose fire-lineage the envoy has come to read
+
+[[scenario-undrtmplsl|What Passes Under the Seal]]
+: a scenario: a whole caravan held under one fire-temple's seal, and a toll dispute at the gate

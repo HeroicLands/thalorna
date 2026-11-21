@@ -11,7 +11,7 @@ data:
   parents: [aukhelathrgq]
   borders: [{to: dunharargn, bearing: NE}]
   routes: [{to: dunhardsrtrgn, bearing: NE, mode: land, days: 20, terrain: [road, desert]}]
-  population: null
+  population: 2000
   packFolder: regkhregn
 
 # terran_analog: "Northern Sinai and the Negev margin—the fortress-wells of the Way of Gewa'atis between the Delta and Canaan: a garrisoned desert land-bridge held for the road that crosses it rather than for anything it grows."
@@ -93,7 +93,7 @@ wells where the road turns toward the Dunhara, is the seat of the [[affiliation-
 to the [[lore-garauu|Gar-Auu]]'s military officers at the capital and to no Halzi'a. The
 garrison's whole duty is the road: to patrol the wells, escort the caravans,
 collect the road-toll, and keep the peace with the clans on the other side
-of it. The line dates from the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|the Storm on the Eastern Road]]). Beside the first of them lie [[place-burnedwells|the Burned Wells]], a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
+of it. About two thousand people live along the march, nearly all of them in the forts and at the caravan stops beside the wells. The line dates from the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|the Storm on the Eastern Road]]). Beside the first of them lie [[place-burnedwells|the Burned Wells]], a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
 
 That peace is nominal and growing thin. It rests on custom rather than treaty—on the clans' right to water at the wells and the caravans' right to pass
 unmolested, which each side keeps as long as the other does—and it depends

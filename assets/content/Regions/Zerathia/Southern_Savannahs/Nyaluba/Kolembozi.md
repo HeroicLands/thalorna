@@ -75,13 +75,17 @@ A Kolembozi who loses a relative to a crocodile names the crocodile, by name and
 
 ## Territory and Waters {#holdings}
 
-The clan holds the eastern wetlands, where the rivers from the highlands spread and slow before the eastern coast: a maze of papyrus channels, oxbow lakes, hippopotamus pools and crocodile-haunted reaches. The paramount's great cattle-fold is [[place-nyangulovlg|Nyangulo]], at the edge of the wetlands.
+The clan holds the eastern wetlands, where the rivers from the highlands spread and slow before the eastern coast: a maze of papyrus channels, oxbow lakes, hippopotamus pools and crocodile-haunted reaches. The paramount is [[being-nyabesnklm|Nyabesa nu Kolembozi]], and the paramount's great cattle-fold is [[place-nyangulovlg|Nyangulo]], at the edge of the wetlands.
 
 The water is the clan's trade as well as its country. Kolembozi canoes carry fish, salt from a few coastal pans, papyrus and riverine goods up the eastern rivers to the highlands and the central plains, and the clan holds the river-trade as the Sengala hold the northern overland trade. Every clan's herds drink from rivers that pass through Kolembozi country.
 
 ## Quarrels and Debts {#present}
 
-The Kolembozi are at war with the [[affiliation-ruwozi|Ruwozi]], whose herds need the rivers the crocodile-clan controls. The war follows a dry season and a diverted channel, and it stands first among the business of the Lubemo now gathering at [[place-hetolubemo|Heto Lubemo]]. The Kolembozi paramount sits there across from a Convener who is a party to the war, and the clan asks of the other three what the Ruwozi ask: that they choose.
+The Kolembozi are at war with the [[affiliation-ruwozi|Ruwozi]]. Every river that waters Nyáluban country passes through the wetlands before the sea, and the dry season left the channels low. The Kolembozi hold that the river's flow is the clan's to answer for and that the reeds, the fish-camps and the landings come first in a dry year. The Ruwozi say a channel was diverted to keep the water in the wetlands. The Reach-Elders say the channel was cut by hand and name no hand, and the Ruwozi accuse the clan of cutting it.
+
+The Senior Spirit-Speaker, who is asked before the clan makes war, was asked, and the answer was war. The Master of the Canoes has withdrawn the reed-canoes from every landing that serves a Ruwozi herd, so the ferrying of cattle across the channels, which every clan relies on, has stopped for the Ruwozi alone. The Kolembozi paramount sits at [[place-hetolubemo|Heto Lubemo]] across from a Convener who is a party to the war, and the clan asks of the other three what the Ruwozi ask: that they choose. The Lubemo does not vote, so the Kolembozi cannot be outnumbered, and no convergence can be reached over the Kolembozi paramount's objection.
+
+The salt, fish and papyrus that go up the rivers to the Sengala and the highlands still move to the Sengala landings, and the clan keeps that trade open as the proof that it is the Ruwozi it is fighting and not the Pact.
 
 ## History as Told {#history}
 
@@ -97,6 +101,9 @@ The clan musters by age-set regiments of young men and young women, and its figh
 - **The crocodile with a name.** A family has settled with a crocodile and now wants the settling witnessed, outside the clan, by a griot of another.
 
 ## See Also {#see-also}
+
+[[being-nyabesnklm|Nyabesa nu Kolembozi]]
+: the paramount
 
 [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
 : the confederation of the five clans

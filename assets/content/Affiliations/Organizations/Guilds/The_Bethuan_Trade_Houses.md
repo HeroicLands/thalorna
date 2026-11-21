@@ -92,7 +92,7 @@ Day-to-day federation administration is handled by a small staff of clerks and t
 
 ## Notable Matriarchs
 
-Matriarch [Aselia]{.name data-type="being/npc"} of House Khalath-Mara
+Matriarch [[being-aseliakhlthmr|Aselia of House Khalath-Mara]]
 : current senior matriarch by age and clan-precedence; thirty-five years in her position; widely regarded as the most politically capable Bethuan trade-house figure of her generation; presumed to be the dominant voice on the Council when she chooses to speak.
 
 Matriarch [Bera]{.name data-type="being/npc"} of House Bera-Sehel
@@ -133,6 +133,14 @@ The [[affiliation-vezakuni|Vezakuni]]
 Each matriarchal trade-house has its own ancestral seal—typically combining a clan-symbol (an animal, a plant, an architectural feature of the ancestral villa) with the matriarch's personal mark. Letters of credit, formal correspondence, and commercial seals all bear the house seal. House membership is signaled informally by clan-jewelry—distinctive necklaces, rings, or hair-ornaments worn by family members in formal settings.
 
 The federation as a whole does not maintain a unified emblem; the matriarchal political culture rejects the kind of imperial-style centralizing symbolism that the Vilérian Tevran Maldor uses.
+
+## The Present Quarrel {#present}
+
+The Khelathi flood has failed two years running, and the Houses see the aqueduct grain of Bethua as the northern shore's one reliable surplus. The [[affiliation-councilhouses|Council of Houses]], where their matriarchs sit with the grandees of the other two bodies, presses the Metrissa to sell it to Bethua's Khelathi patron. A sale fills the Houses' Gar-Hálzi correspondent accounts at the moment when Viléria is squeezing their letters of credit, and it keeps the patron's favor. Most of the grain would go east by the coast road past Gezazabu, paying the toll there, and the Houses that own the warehouses and the carters stand to take the margin.
+
+The [[affiliation-sacredcollege|Sacred College]] wants the grain kept in the cisterns against a dry year of Bethua's own, and the Houses that hold land in the qanat-fed cantons feel the argument. A sale that empties the cisterns leaves their own tenants with nothing, and a patron that has bought the realm's bread has a say in how it is governed. The Houses therefore divide: the great exporters with the heaviest Vilérian debts press hardest for the sale, and the landed Houses lean toward the College. The Metrissa has not chosen, and her standing with both councils turns on the choice.
+
+The late tribute of the [[place-sthmrchsrgn|South Marches]] touches them too. The Marches Road is the way a House's caravans reach the east without the northern ports, and the Jackals hold its western stages while the patrols are stretched.
 
 ## Plot Hooks
 

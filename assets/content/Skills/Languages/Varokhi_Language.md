@@ -5178,6 +5178,11 @@ data:
     - {name: Eichengrund, kind: place, built: [eich-, -en-, -grund], gloss: the oaks' bottom land}
     - {name: Falkenstein, kind: place, built: [falk-, -en-, -stein], gloss: the falcons' crag}
     - {name: Grimholt, kind: place, built: [grim-, -holt], gloss: the fierce copse}
+    - {name: Grimhreth, kind: place, built: [grim-, -hreth], gloss: the fierce ford}
+    - name: Skathengrund
+      kind: place
+      built: [skath-, -en-, -grund]
+      gloss: the harm's bottom land
     - {name: Thalreth, kind: place, built: [thal-, -reth], gloss: the clearing in the dale}
     - {name: Thornhaven, kind: place, built: [thorn-, -haven], gloss: the haven among the thorns}
     - {name: Vristwald, kind: place, built: [vrist-, -wald], gloss: the free wood}

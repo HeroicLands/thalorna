@@ -44,7 +44,7 @@ The watch is whole, and it is young. Two of the four Wardens who sit the spring 
 
 A fellow of the University has paid a guide of [[place-sourimael|Sóurimel]] to bring him to the margin by the Felled Stand, to see the fog in the right season. The Wardens of the Lodge know a stranger is coming. They have not yet decided what the right season means to a man who has come to see it.
 
-## Dangerous Neighbors {#dangerous-neighbours}
+## Dangerous Neighbors {#dangerous-neighbors}
 
 - **What comes through.** A thing of fog in a stag's shape took a dog, then three children, then a man who went at it with fire and the wrong song.
 - **The fog.** It hides the hollow's lip and the ground below the watch's fire, and it muffles song.

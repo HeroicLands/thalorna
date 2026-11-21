@@ -41,10 +41,43 @@ data:
         description: >-
           Holds Tsuijai by the Emperor's patent, with his own army, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Tsuijai, who holds the mountain by the Emperor's patent with his own army, justice and taxes, and rules it from Tsuiwu. Held by a Dauzhwo.
       Keeper of the Armory: Held by the Jaju, who keep the armory of the domain and the forge-village of Tsaigen.
   seat: tsuiwu
   population: 40000
   territorial_population: 40000
+  settlements:
+    - settlement: Jidu
+      polity: affiliation-tsuijaidmn
+      location: place-tsuijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-tsuijaidmn
+      population: 140
+      market: local
+      notes: "Metal Road. Demesne. The mines and the ore road. Head village of a district assessed at 500 bales."
+    - settlement: Kodu
+      polity: affiliation-tsuijaidmn
+      location: place-tsuijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 240
+      market: local
+      notes: "Old Road. Court estate. Rice and charcoal. Head village of a district assessed at 900 bales."
+    - settlement: Tsaigen
+      polity: affiliation-tsuijaidmn
+      location: place-tsuijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Jaju"
+      population: 160
+      market: local
+      notes: "Craft Master. Fief. The forge-village of the swordsmiths. Head village of a district assessed at 600 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -54,7 +87,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Tsuijai Domain, held by House Tsuijai (Iron Peak), holds [[place-tsuijai|Tsuijai]], the iron mountain of the north-west uplands of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Tsuijai Rezo]{.name data-type="being/npc"} (Bright Dragon), fifty-two years old, who sits in the castle town of [[place-tsuiwu|Tsuiwu]] (Iron Hall), population 2,600. The domain holds 40,000 people, is assessed at 22,000 bales a year, and musters 550 men; it keeps no fleet. The house is independent of both blocs, and it has the iron and the swordsmiths of the Nine.
+The Tsuijai Domain, held by House Tsuijai (Iron Peak), holds [[place-tsuijai|Tsuijai]], the iron mountain of the north-west uplands of the great island, by patent of the Emperor. Its lord is the Dauzhwo [[being-tsuijairezo|Tsuijai Rezo]] (Bright Dragon), fifty-two years old, who sits in the castle town of [[place-tsuiwu|Tsuiwu]] (Iron Hall), population 2,600. The domain holds 40,000 people, is assessed at 22,000 bales a year, and musters 550 men; it keeps no fleet. The house is independent of both blocs, and it has the iron and the swordsmiths of the Nine.
 
 ## The Land
 
@@ -68,6 +101,8 @@ Tsuijai's roll names the three villages below; smaller terraces and mining hamle
 | Kodu    | Old Road     | Court estate | The Emperor, through the lord's granary | Rice and charcoal                    |      900 |
 | Tsaigen | Craft Master | Fief         | The Jaju                                | The forge-village of the swordsmiths |      600 |
 
+Each named village is the head village of a district, and the assessment in the table is the district's.
+
 The summit shrine of Tsuijai keeps the earth and metal aspects of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchei are provisioned from the lord's villages.
 
 ## Retainers
@@ -78,18 +113,27 @@ The [Jaju]{.name data-type="affiliation/lineage"} keep the armory and hold Tsaig
 
 The muster is 550 men, and none of them sails. The domain's own forge arms them, and the blades of the Jaju are what the other lords come to buy.
 
+## Current Situation {#present}
+
+In 720 AF the office of Teng Ja stands vacant, and a new holder receives a blade forged at Tsaigen. The smiths will not begin it until the Emperor names a holder, and someone has asked them to begin early. The Jaju have not said who asked, and [Tsuijai Rezo]{.name data-type="being/npc"} wants to know.
+
+Rezo has named his price to no bloc: it is the forging of the blade, whoever carries it. Every lord comes to Tsuijai to buy iron, so he wants the balance to stand and the Nine to keep buying. An early order suggests that someone is preparing for [[being-weilengjnch|Weileng]] to confer the office, though showing the order can be a bluff, and a displayed order proves nothing about who knows the Emperor's mind.
+
+## History {#history}
+
+Tsuijai has belonged to neither bloc since the [[lore-empseatwar|War of the Empty Seat]] ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Tsuijai belongs to neither bloc. Its lord is one of the four independent houses, who together muster 3,970 men and 55 ships and who each have their own price. Tsuijai alone has the iron and the swordsmiths.
-
-## The Blade for the Teng Ja
-
-The office of Teng Ja stands vacant, and a new holder receives a blade forged at Tsaigen. The smiths will not begin it until the Emperor names a holder, and someone has asked them to begin early. The Jaju have not said who asked.
 
 ## See Also {#see-also}
 
 [[affiliation-jenchaiempr|Jenchai Empire]]
 : the realm, the court and the eight houses
+
+[[being-tsuijairezo|Tsuijai Rezo]]
+: the Dauzhwo of the domain
 
 [[place-tsuijai|Tsuijai]]
 : the mountain of the domain
@@ -102,3 +146,6 @@ The office of Teng Ja stands vacant, and a new holder receives a blade forged at
 
 [[being-embrhnd|Emberhound]]
 : the fire elemental that guards the forge-yard
+
+[[place-tsaigenfrg|The Forge of Tsaigen]]
+: the forge-yard of the Jaju

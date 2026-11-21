@@ -32,6 +32,41 @@ const words = language.fm.data.words;
 const ordinary = words.filter((w) => eligible.has(parseWordClass(w.class).base));
 const ids = (w) => [w.concept ?? []].flat();
 const record = { ...language.fm, file: language.file, package: "thalorna", system: "note" };
+// A name root is a bound stem that a registered Nyáluban name builds with a
+// declared ending, such as nyabes- in nyabesa; the names it builds are the
+// spoken citations.
+const affixes = new Set(language.fm.data.affixes.map(({ form }) => form));
+const namesBuiltOn = (word) =>
+    language.fm.data.register
+        .filter(
+            ({ tongue, built }) =>
+                tongue === "nyaluban" &&
+                built?.length === 2 &&
+                built[0] === word.form &&
+                affixes.has(built[1]),
+        )
+        .map(({ name }) => name);
+const nameRoot = (word) =>
+    word.class === "stem" &&
+    word.form.endsWith("-") &&
+    !ids(word).length &&
+    namesBuiltOn(word).length > 0;
+// The original citations are the first 25 of the baseline revision, each under
+// its current spelling and class; every other word is a newer citation.
+const respelled = new Map(
+    (language.fm.data.retired ?? []).map(({ form, instead }) => [form, instead]),
+);
+const currentForm = (form) => {
+    const bare = form.replace(/-$/u, "");
+    return respelled.has(bare) ? form.replace(bare, respelled.get(bare)) : form;
+};
+const originalCitations = original.data.words
+    .slice(0, 25)
+    .map(({ form, class: wordClass }) => `${currentForm(form)}\u0000${wordClass}`);
+const newCitations = words.filter(
+    ({ form, class: wordClass }) => !originalCitations.includes(`${form}\u0000${wordClass}`),
+);
+
 const dictionary = dictionaryAndTermRows([record]).dictionary;
 test("Nyáluban expresses every current core concept with an ordinary word or expression", () => {
     const known = new Set(inventory.fm.data.concepts.map((x) => x.id));
@@ -97,10 +132,16 @@ test("the current word, schema and name contracts accept the Nyáluban declarati
     );
     assert.deepEqual(checkLanguageWords(language), []);
     assert.deepEqual(namesFindings(language, BEING_LOOK_VOCABULARY), []);
-    for (const word of words.slice(25)) {
+    for (const citation of originalCitations)
+        assert(
+            words.some(({ form, class: wordClass }) => `${form}\u0000${wordClass}` === citation),
+            `original citation ${citation.split("\u0000")[0]} remains`,
+        );
+    for (const word of newCitations) {
         assert(
             eligible.has(parseWordClass(word.class).base) ||
-                (word.class === "pref" && word.form.endsWith("-") && !ids(word).length),
+                (word.class === "pref" && word.form.endsWith("-") && !ids(word).length) ||
+                nameRoot(word),
             word.form,
         );
         for (const piece of word.form.includes(" ") ? word.form.split(" ") : [])
@@ -115,8 +156,8 @@ test("new Nyáluban citations keep open syllables and licensed onsets", () => {
         language.fm.data.sounds.edges.find((e) => e.edge === "innerCluster").sounds,
     );
     const glides = new Set(language.fm.data.sounds.edges.find((e) => e.edge === "glide").sounds);
-    for (const word of words.slice(25))
-        for (const part of word.form.split(" ")) {
+    for (const word of newCitations)
+        for (const part of nameRoot(word) ? namesBuiltOn(word) : word.form.split(" ")) {
             const spelling = part.replace(/^-+|-+$/gu, "").toLowerCase();
             assert(/^[a-záéíóú]+$/u.test(spelling), part);
             assert((spelling.match(/[áéíóú]/gu) ?? []).length <= 1, part + ": one acute at most");

@@ -9,6 +9,7 @@ data:
   demonym: Targudian
   lore: [nordheimnclt]
   parents: [nrdlndsrgn]
+  borders: [{to: velanthrgn, bearing: S}]
   population: 300000
   packFolder: targud
   government: kingdmtrgd

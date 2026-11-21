@@ -8,20 +8,20 @@ tags: [draft]
 data:
   parents: []
   locations: [vzhmvd, dunhardsrtrgn]
-  cast: []
+  cast: [mlkhr, trvshshrdr]
   factions: [dunhartrbs]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---
 
-At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between rival recitations. A poet named [Melkhur]{.name data-type="being/npc"} now holds the oasis, trades stolen names to a hollow in the well, and sends raiders who have no names of their own onto the southern circuit. The party must learn what he is buying, and with what.
+At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between rival recitations. A poet named [[being-mlkhr|Melkhur]] now holds the oasis, trades stolen names to a hollow in the well, and sends raiders who have no names of their own onto the southern circuit. The party must learn what he is buying, and with what.
 
 ## Hooks {#hooks}
 
 - **The thief.** A sheikh's steward pays a thief to break into Vazhmavad and bring out one recitation, a single line of his lord's genealogy, before the common council sits.
 - **The mercenary or soldier.** A caravan-master hires the party as guards for the southern circuit. Three caravans have vanished on it, and the survivors of the fourth cannot say whom they were hired by.
-- **The leader.** [[being-trvshshrdr|Torvash Shiradar]] at [[place-oasistvrzvd|the oasis of Tevrazavad]] sends a trusted man to the party's chieftain. His poets have gone to Vazhmavad and have not returned, and the tribes' quarrels have nowhere to be heard.
+- **The leader.** [[being-trvshshrdr|Torvash Shiradar]], chieftain at [[place-oasistvrzvd|the oasis of Tevrazavad]], sends a trusted man to the party's chieftain. His poets have gone to Vazhmavad and have not returned, and the tribes' quarrels have nowhere to be heard.
 - **The wanderer.** A traveler is found at a wayside well reciting a stranger's pedigree. He does not know his own, and he is frightened.
 
 ## Scene One: The Southern Circuit

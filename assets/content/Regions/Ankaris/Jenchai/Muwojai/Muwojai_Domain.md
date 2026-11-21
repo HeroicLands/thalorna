@@ -41,10 +41,43 @@ data:
         description: >-
           Holds Zijai by the Emperor's patent, with his own army, justice and taxes.
     offices:
+      Dauzhwo: >-
+        Great Lord of Zijai, who holds the mountain by the Emperor's patent with his own army, justice and taxes, and rules it from Kowu. Held by a Dauzhwo.
       Keeper of the Court Treasury: Held by the Weiju, who keep the strongroom of the Dawn Court at Tsaimu and the roll of what is paid into it.
   seat: kowu
   population: 42000
   territorial_population: 42000
+  settlements:
+    - settlement: Zainu
+      polity: affiliation-muwojaidmn
+      location: place-zijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 430
+      market: local
+      notes: "Crane Terraces. Court estate. Rice, the court estate nearest the throne. Head village of a district assessed at 1,600 bales."
+    - settlement: Zuju
+      polity: affiliation-muwojaidmn
+      location: place-zijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-muwojaidmn
+      population: 300
+      market: local
+      notes: "Blue River. Demesne. The ferry and toll on the road to Lengwou. Head village of a district assessed at 1,100 bales."
+    - settlement: Tsaimu
+      polity: affiliation-muwojaidmn
+      location: place-zijai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "Weiju"
+      population: 220
+      market: local
+      notes: "Craft Wood. Fief. Lacquer and cedar joinery. Head village of a district assessed at 800 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -54,7 +87,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Muwojai Domain, held by House Muwojai (Cedar Place), holds [[place-zijai|Zijai]] (Star Peak), the mountain beside the Emperor's own in the interior of the great island, by patent of the Emperor. Its lord is the Dauzhwo [Muwojai Chaiwo]{.name data-type="being/npc"} (Mountain Warrior), sixty-one years old, who sits in the castle town of [[place-kowu|Kowu]] (Old Hall), population 3,200. The domain holds 42,000 people, is assessed at 30,000 bales a year, and musters 750 men; it keeps no fleet. Muwojai belongs to the loyalist bloc, and it holds every road that leads to the Emperor.
+The Muwojai Domain, held by House Muwojai (Cedar Place), holds [[place-zijai|Zijai]] (Star Peak), the mountain beside the Emperor's own in the interior of the great island, by patent of the Emperor. Its lord is the Dauzhwo [[being-chaiwomuwoj|Muwojai Chaiwo]] (Mountain Warrior), sixty-one years old, who sits in the castle town of [[place-kowu|Kowu]] (Old Hall), population 3,200. The domain holds 42,000 people, is assessed at 30,000 bales a year, and musters 750 men; it keeps no fleet. Muwojai belongs to the loyalist bloc, and it holds every road that leads to the Emperor.
 
 ## The Land
 
@@ -67,6 +100,8 @@ Three villages are named on Muwojai's roll; the rest of its 30,000 bales comes f
 | Zainu   | Crane Terraces | Court estate | The Emperor, through the lord's granary | Rice, the court estate nearest the throne |    1,600 |
 | Zuju    | Blue River     | Demesne      | The lord's granary at Kowu              | The ferry and toll on the road to Lengwou |    1,100 |
 | Tsaimu  | Craft Wood     | Fief         | The Weiju                               | Lacquer and cedar joinery                 |      800 |
+
+Each named village is the head village of a district, and the assessment in the table is the district's.
 
 The summit shrine of Zijai is provisioned from the lord's villages, and beside it stands the observatory of the omen-readers, whose Tanchei keep the heavens for the court.
 
@@ -82,13 +117,19 @@ The [Weiju]{.name data-type="affiliation/lineage"} keep the treasury of the cour
 
 The muster is 750 men, and none of them sails. Most of them garrison the roads and the passes into the Emperor's district, where the lord's duty to the throne is performed in person.
 
+## Current Situation {#present}
+
+In 720 AF every bloc wants something from the road that Muwojai keeps. [[being-chaiwomuwoj|Muwojai Chaiwo]] is sixty-one and has no grown heir. Whoever succeeds him will hold the gate to the Emperor, and every bloc is courting the candidates in advance: [The Strait]{.name data-type="affiliation"} bloc to learn what passes over the ferry, the loyalists to keep the gate shut, and the independent houses to be admitted without being watched. Chaiwo cannot tell which of his own retainers has been courted.
+
+Each bloc's courier meets his toll-keepers at the ferry, and the Emperor's sealed letter to Shuiwojai crosses it on its way to the Strait. While the office of Teng Ja stays unconferred, Henzo's petition is pending and the courier's road matters to every bloc.
+
+## History {#history}
+
+Muwojai stood with Hojujai for the regency in the [[lore-empseatwar|War of the Empty Seat]], and the house has kept the loyalist side since ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Muwojai and [[affiliation-hojujaidmn|Hojujai]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody.
-
-## The Keeper of the Gate
-
-Chaiwo is sixty-one and has no grown heir. Whoever succeeds him will hold the gate to the Emperor, and every bloc is courting the candidates in advance: [The Strait]{.name data-type="affiliation"} bloc to learn what passes over the ferry, the loyalists to keep the gate shut, and the independent houses to be admitted without being watched.
 
 ## See Also {#see-also}
 
@@ -109,3 +150,12 @@ Chaiwo is sixty-one and has no grown heir. Whoever succeeds him will hold the ga
 
 [[affiliation-hojujaidmn|Hojujai Domain]]
 : the allied house
+
+[[place-zujufrry|The Zuju Ferry]]
+: the crossing every traveler to the capital makes
+
+[[place-tsaimustrng|The Court Strongroom at Tsaimu]]
+: the court's treasury in the Weiju's charge
+
+[[place-zijaiobsrvt|The Observatory of Zijai]]
+: the omen-readers' instruments on the summit

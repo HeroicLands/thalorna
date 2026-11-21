@@ -43,6 +43,7 @@ test("eight independent font families select their own language documents", () =
         "valt",
         "biza",
         "beth",
+        "velt",
     ]);
 });
 test("registered English labels and other tongues are not Helonic font words", () => {

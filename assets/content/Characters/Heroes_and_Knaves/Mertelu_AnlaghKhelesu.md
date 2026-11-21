@@ -1,8 +1,8 @@
 ---
 shortcode: mertlnlghkhl
-name: {full: Mertelu Anlagh'Khelesu, given: Mertelu, clan: Anlagh'Khelesu}
+name: {full: Mertelu Anlagh'Khelesu}
 type: being
-subType: character
+subType: npc
 tags: [heroes-and-knaves, common-folk]
 data:
   banner: khelathubnr
@@ -462,7 +462,7 @@ Mertelu was born in one of the [[affiliation-empireakhlth|Empire of Au'Khelathu]
 
 The tattoo on her shoulder—a falcon in flight—marks her devotion to [[lore-gewaatisdty|Gewa'atis]], god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertelu has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
 
-Currently, she serves the household of Lord [[being-zabegezu2|Zabegezu]], a wealthy official of the second rank. She has managed his domestic affairs for the past twelve years without a flaw. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
+Currently, she serves the household of Lord [[being-zabegezu2|Zabegezu]], the Halzi'a of [[affiliation-selatgrnlght|Gar-Anlaghet]]. She has managed his domestic affairs for the past twelve years without a flaw. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
 
 ## Psyche
 

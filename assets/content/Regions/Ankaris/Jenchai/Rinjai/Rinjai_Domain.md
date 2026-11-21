@@ -40,10 +40,44 @@ data:
         title: Dauzhwo
         description: >-
           Holds Rinjai by the Emperor's patent, with his own army, fleet, justice and taxes.
-    offices: {}
+    offices:
+      Dauzhwo: >-
+        Great Lord of Rinjai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Rinwu. Held by a Dauzhwo.
+      Judge: Chosen from the Dauzhwo's retainers to hear the cases of the town of Rinwu.
   seat: rinwu
   population: 41000
   territorial_population: 41000
+  settlements:
+    - settlement: Jawo
+      polity: affiliation-rinjaidmn
+      location: place-rinjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-rinjaidmn
+      population: 190
+      market: local
+      notes: "Blade Sea. Demesne. The raiders' harbor. Head village of a district assessed at 700 bales."
+    - settlement: Hennu
+      polity: affiliation-rinjaidmn
+      location: place-rinjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: affiliation-jenchaiempr
+      population: 300
+      market: local
+      notes: "Tiger Terraces. Court estate. Rice. Head village of a district assessed at 1,100 bales."
+    - settlement: Sudu
+      polity: affiliation-rinjaidmn
+      location: place-rinjai
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "A Shwizhwo of the domain"
+      population: 240
+      market: local
+      notes: "Serpent Road. Fief. The switchback road over Rinjai. Head village of a district assessed at 900 bales."
   economy: []
   lore: [humanflk]
   parents: [jenchaiempr]
@@ -53,7 +87,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-The Rinjai Domain, held by House Rinjai (Red Peak), holds [[place-rinjai|Rinjai]], the mountain of the lesser island at the strait's mouth, by patent of the Emperor. Its lord is the Dauzhwo [Rinjai Hoja]{.name data-type="being/npc"} (Fire Blade), twenty-nine years old, who sits in the castle town of [[place-rinwu|Rinwu]] (Red Hall), population 3,000. The domain holds 41,000 people, is assessed at 26,000 bales a year, and musters 650 men and 25 ships. Hoja is sworn to [Shuiwojai Henzo]{.name data-type="being/npc"}, and Rinjai stands with [The Strait]{.name data-type="affiliation"} bloc.
+The Rinjai Domain, held by House Rinjai (Red Peak), holds [[place-rinjai|Rinjai]], the mountain of the lesser island at the strait's mouth, by patent of the Emperor. Its lord is the Dauzhwo [[being-hojarinjai|Rinjai Hoja]] (Fire Blade), twenty-nine years old, who sits in the castle town of [[place-rinwu|Rinwu]] (Red Hall), population 3,000. The domain holds 41,000 people, is assessed at 26,000 bales a year, and musters 650 men and 25 ships. Hoja is sworn to [[being-henzoshuiwo|Shuiwojai Henzo]], and Rinjai stands with [The Strait]{.name data-type="affiliation"} bloc.
 
 ## The Land
 
@@ -67,6 +101,8 @@ Rinjai's roll names the three villages below; smaller terraces and landings unde
 | Hennu   | Tiger Terraces | Court estate | The Emperor, through the lord's granary | Rice                            |    1,100 |
 | Sudu    | Serpent Road   | Fief         | A Shwizhwo of the domain                | The switchback road over Rinjai |      900 |
 
+Each named village is the head village of a district, and the assessment in the table is the district's.
+
 The summit shrine of Rinjai is provisioned from the lord's villages, and its Tanchei keep the mountain record for a house that holds the sea gate of the realm.
 
 ## Retainers
@@ -77,13 +113,19 @@ The Wohou of Rinjai serve the house for stipends in bales, and the retainers are
 
 The muster is 650 men and 25 ships. The ships lie at [Jawo]{.name data-type="place/settlement"}, and they are the raiders of the Nine: they cross the strait to the southern coast of the [[affiliation-tantsouempr|Empire of Tantsou]], which the lords of the Nine count their right, and the empire counts House Rinjai its nemesis. Hoja adds his 650 men and 25 ships to Shuiwojai's 1,950 and 60, so the Strait bloc stands at 2,600 men and 85 ships.
 
+## Current Situation {#present}
+
+In 720 AF Hoja's raiders hold a Tantsou prefect taken off the mainland coast, and two demands fall on the red hall. The court wants the man returned as a gesture of heaven's magnanimity, and a Tantsou envoy has asked at [[place-lengwou|Lengwou]] for the same. Shuiwojai wants the ransom. Hoja holds the prefect and owes Henzo his oath, and whichever of the two he satisfies, he disappoints the other.
+
+A mainland war junk off the coves is read as a demand for the prefect or for the harbor.
+
+## History {#history}
+
+Rinjai is sworn to Shuiwojai, and the two houses form the Strait bloc that the [[lore-empseatwar|War of the Empty Seat]] left standing ([[lore-hstryjenchai|The History of Jenchai]]).
+
 ## Relations {#relations}
 
 Rinjai is sworn to [[affiliation-shuiwojaidmn|Shuiwojai]] and allied with it, and the two houses together form the Strait bloc, which wants Shuiwojai Henzo named Teng Ja. [[affiliation-hojujaidmn|Hojujai]] is the rival of Shuiwojai.
-
-## The Prefect
-
-Hoja's raiders took a Tantsou prefect off the mainland coast. The court wants the man returned, as a gesture of heaven's magnanimity; Shuiwojai wants the ransom. Hoja holds the prefect and owes Henzo his oath, and whichever of the two he satisfies, he disappoints the other.
 
 ## See Also {#see-also}
 

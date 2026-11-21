@@ -100,6 +100,30 @@ data:
       class: stem
       field: Given names
       gloss: "to fall as rain; a root of women's names"
+    - form: "mbadek-"
+      class: stem
+      field: Given names
+      gloss: "to stand firm; a root of men's names"
+    - form: "mbudel-"
+      class: stem
+      field: Given names
+      gloss: "to be heard gladly; a root of men's names"
+    - form: "ndames-"
+      class: stem
+      field: Given names
+      gloss: "to be glad; a root of men's names"
+    - form: "ndowel-"
+      class: stem
+      field: Given names
+      gloss: "to come home safe; a root of women's names"
+    - form: "nkeshei-"
+      class: stem
+      field: Given names
+      gloss: "to find shelter; a root of women's names"
+    - form: "nyabes-"
+      class: stem
+      field: Given names
+      gloss: "to grow strong; a root of women's names"
     - form: nu
       class: part
       field: Grammar words
@@ -6362,6 +6386,7 @@ data:
     - {name: Baobab Spirit Power, tongue: translation}
     - {name: Baobab Totem, tongue: translation}
     - {name: Bondservant, tongue: translation}
+    - {name: bonzimbe, tongue: nyaluban}
     - {name: Chieftain, tongue: translation}
     - {name: Crocodile of the Kolembozi, tongue: translation}
     - {name: Crocodile Spirit, tongue: translation}
@@ -6425,9 +6450,15 @@ data:
     - {name: Lobwezi Totem, tongue: translation}
     - {name: Mask-Maker, tongue: translation}
     - {name: Master of the Hunt, tongue: translation}
+    - {name: mbadeko, tongue: nyaluban, built: [mbadek-, -o]}
+    - {name: mbudelo, tongue: nyaluban, built: [mbudel-, -o]}
+    - {name: ndameso, tongue: nyaluban, built: [ndames-, -o]}
     - {name: ndawelari thakwaring, tongue: kept}
+    - {name: ndowela, tongue: nyaluban, built: [ndowel-, -a]}
     - {name: Ngonzi Eagle, tongue: translation}
     - {name: Ngonzi Totem, tongue: translation}
+    - {name: nkesheya, tongue: nyaluban, built: [nkeshei-, -a]}
+    - {name: nyabesa, tongue: nyaluban, built: [nyabes-, -a]}
     - {name: nyáluba, tongue: nyaluban}
     - {name: Nyáluba Adventurer's Guide, tongue: translation}
     - {name: Nyáluba Faith, tongue: translation}
@@ -6438,6 +6469,7 @@ data:
     - {name: Nyáluban Drum-Speech, tongue: translation}
     - {name: Nyáluban Language, tongue: translation}
     - {name: Nyáluban Lexicon, tongue: translation}
+    - {name: nzobu, tongue: nyaluban}
     - {name: Observant, tongue: translation}
     - {name: Ruwozi Lion, tongue: translation}
     - {name: Ruwozi Totem, tongue: translation}

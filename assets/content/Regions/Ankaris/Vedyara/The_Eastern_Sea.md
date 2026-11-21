@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [ankrscntnnt]
-  borders: [{to: vedyarargn, bearing: W}, {to: meghrsmdra, bearing: SW}]
+  borders:
+    - {to: vedyarargn, bearing: W}
+    - {to: meghrsmdra, bearing: SW}
+    - {to: easternstrt, bearing: N}
   population: null
   packFolder: vedyara
   culture: vedyariclt
@@ -57,6 +60,9 @@ What the deck gives, it gives only afloat. A sailor who takes his pay and stays 
 
 [[place-jenchairgn|Jenchai Region]]
 : the eastern archipelago
+
+[[place-easternstrt|The Eastern Strait]]
+: the strait between Tantsou and the archipelago
 
 [[scenario-seasonbar|The Season Over the Bar]]
 : a scenario set here

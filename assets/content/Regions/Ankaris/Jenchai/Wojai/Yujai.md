@@ -1,0 +1,41 @@
+---
+shortcode: yujai
+name: {full: Yujai, en: [Moon Peak]}
+type: place
+subType: region
+description: "Yujai, the volcanic mountain of the south coast of the great island, above the best harbor in the realm and the terraces of House Wojai."
+tags: [mountain, coastal, volcanic, port]
+data:
+  demonym: null
+  lore: [humanflk]
+  parents: [jenchairgn]
+  population: 70000 # computed from the people of the domain the mountain carries
+  government: wojaidmn
+  packFolder: jenchai
+  culture: jenchaiclt
+---
+
+Yujai (Moon Peak) stands on the south coast of the great island, where the climate is mild, and it is held by [[affiliation-wojaidmn|House Wojai]]. The mountain curves round a deep bay that is the best harbor in the realm.
+
+The south face is the domain's market. The anchorage at [Showo]{.name data-type="place/settlement"} fills the bay with the hulls of the trade, and the pack road from [Shodu]{.name data-type="place/settlement"} climbs inland to the rest of the island. Rice, mulberry and silk grow on the terraced shoulders at [Ronu]{.name data-type="place/settlement"}, and the castle town of [[place-yuwu|Yuwu]] stands on the bay's northern shore.
+
+The summit is kept as a shrine of the moon, held in the name of [[lore-youweidty|Youbwi]], Keeper of the Jade Seal, and the domain's Tanchei hold the mountain record there. Yujai's [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jwi_) waits until the tolls of the year are counted as well as the harvest, and only then is the lord's roll closed.
+
+70,000 people live on Yujai: the whole of the [[affiliation-wojaidmn|Wojai Domain]], which holds the castle town of [[place-yuwu|Yuwu]] (9,000 people) and the villages of its roll.
+
+## Current Situation {#present}
+
+In 720 AF the bay below Yujai is the one both blocs court. [Wojai Doja]{.name data-type="being/npc"}, who holds the mountain, has heard the prices that Henzo's silver and the Hojujai regent have named, and he has named his to neither.
+
+The court has pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of [[place-yuwu|Yuwu]]. Whoever redeems it before the New Year buys the Emperor's gratitude, and Doja has the means to redeem it himself. He is deciding whom among the houses to let do it, and his choice shows which way Wojai leans before he says so. The mountain's festival, which closes the lord's roll, waits until the year's tolls are counted.
+
+## See Also {#see-also}
+
+[[affiliation-wojaidmn|Wojai Domain]]
+: the house and its lord
+
+[[place-yuwu|Yuwu]]
+: the castle town
+
+[[place-jenchairgn|Jenchai Region]]
+: the islands and the strait

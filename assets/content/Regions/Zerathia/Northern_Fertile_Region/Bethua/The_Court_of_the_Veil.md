@@ -48,7 +48,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Who Sits {#who-sits}
 
-The court is the sovereign's household and officers. The reigning Metrissa is [Amithena]{.name data-type="being/npc"} of [House Kervanion]{.name data-type="affiliation/lineage"}. The scribal administration serves it, and it prizes discretion and merit above all other virtues: its clerks include the Grammatissai who keep the realm's most sensitive correspondence, and the Archivist, who keeps the genealogies on which every House's standing rests. Priestesses of the court who favor reform argue with those who do not.
+The court is the sovereign's household and officers. The reigning Metrissa is [[being-amithenakrvn|Amithena of House Kervanion]]. The scribal administration serves it, and it prizes discretion and merit above all other virtues: its clerks include the Grammatissai who keep the realm's most sensitive correspondence, and the Archivist, who keeps the genealogies on which every House's standing rests. Priestesses of the court who favor reform argue with those who do not.
 
 ## How It Decides {#how-it-decides}
 

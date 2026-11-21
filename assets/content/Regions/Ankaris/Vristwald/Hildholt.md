@@ -29,6 +29,9 @@ The Other Chief holds the strongest of the village's three seats, but the other 
 
 ## See Also {#see-also}
 
+[[being-wlfrnrfrdrnd|Wulfrún ira Frodrúnd wur Hildholt]]
+: the night watcher of the palisade
+
 [[place-skathwald|Skathwald]]
 : the reach around the village
 

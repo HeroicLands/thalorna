@@ -51,3 +51,6 @@ The garrison of Gharzadez wants more of Delmavad's water for the fort, and the t
 
 [[place-dunhardsrtrgn|Dunhara Desert Region]]
 : the open desert beyond its eastern shore
+
+[[scenario-trnbtwnshks|The Train Between Two Sheikhs]]
+: a scenario: a grain train stranded at the handover well while two chieftains dispute the last stage
