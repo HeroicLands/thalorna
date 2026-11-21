@@ -18,11 +18,11 @@ Each seat is a tower with a walled workshop behind it, cut into rock or built ag
 
 ## Layers {#history}
 
-The seats are the work of the war with the Republic, from 335 to 312 BF, when the city-states turned their mages on the legions and some of those mages became warlords their own city-states could not fully control ([[lore-helionscnq|the Conquest of Helionis]]).
+The seats are the work of the war with the Republic, from 335 to 312 BF, when the city-states turned their mages on the legions and some of those mages became warlords their own city-states could not fully control ([[lore-helionscnq|The Conquest of Helionis]]).
 
 ## What Is There Now {#present}
 
-The seats stand roofless and unrepaired.
+The seats stand roofless and unrepaired. The Arcane Order arrests the treasure-seekers it finds at them, and the city-states' own magistrates mostly ignore the same people. A Thirenaean factor is paying for rubbings of the numbers painted above the empty racks of Theradon's seat and will say only that his principal collects.
 
 ## Who Goes
 
@@ -33,7 +33,7 @@ The seats stand roofless and unrepaired.
 ## Hooks {#hooks}
 
 - **The bricked cellar.** At one seat the cellar was bricked up from the inside, and the mortar is the same age as the walls.
-- **The numbers.** A Thirenaean factor has begun paying for any rubbing or copy of the numbers painted above the empty racks of Theradon's seat. He will say only that his principal collects.
+- **The numbers.** The factor who buys rubbings of the numbers above the empty racks of Theradon's seat says only that his principal collects, and anyone who sells him a copy is working a seat the Order may arrest him at.
 
 ## See Also {#see-also}
 

@@ -65,7 +65,7 @@ The Aureldian pantheon is the dominant pantheon in the western part of the [[pla
 | Decay      | **Morvana**  | Mistress of the Waning Moon | Wilting flower surrounded by mist                  | [[affiliation-morvana\|Faith of Morvana]]   |
 | Fertility  | **Lizelas**  | The Nurturer                | Blooming flower encircled by a crescent            | [[affiliation-lizelas\|Faith of Lizelas]]   |
 
-In [[place-helionis|Helionis]] the devotion to Zunelas, the Veiled Dreamer, is kept as a tradition of its own, [[affiliation-mystrshlns|the Mysteries of Helionis]], with its civic temples and its secret mystery cults.
+In [[place-helionis|Helionis]] the devotion to [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, is kept as a tradition of its own, [[affiliation-mystrshlns|Mysteries of Helionis]], with its civic temples and its secret mystery cults.
 
 ## The Ústaran Schism
 

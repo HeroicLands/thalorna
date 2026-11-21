@@ -102,7 +102,7 @@ The League council and military
 : primary client and overseer. The League's investigators currently include the guild in the same breath as the spy networks they are trying to dismantle.
 
 [[affiliation-tevran|The Tevran Maldor]]
-: supra-realm authority. The guild's standing throughout the western Vilérian world depends on its Tevran charter; the **Rozimoi of the Tevran** have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation against Master Damáklios. The matter is being held at chapter level for now; if it reaches the Council's attention, the consequences for the guild's charter could be substantial.
+: supra-realm authority. The guild's standing throughout the western Vilérian world depends on its Tevran charter.
 
 The Crime Syndicates of Thalorna, particularly the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"}
 : quietly major purchasers of guild work for purposes the guild's charter forbids.
@@ -119,7 +119,11 @@ A guild master's seal is a brass die carrying the master's personal mark and the
 
 ## The Present Quarrel {#present}
 
-The League's city guard is investigating Master [[being-damklsmpsn|Damáklios Bridutis]] for selling guild work to foreign agents, and Master [[being-fruzukazselv|Fruzukáz Selvazhazát]] feeds the investigation with insinuations of his own. The Rozimoi of the Tevran have written to the guild's leadership about the case, and the leadership has kept the matter at chapter level and the letters private. The Council of Masters does not know how deep the selling of League maps runs, and its Grand Cartographer, Olara Marenies, is politically isolated.
+The League's city guard is investigating Master [[being-damklsmpsn|Damáklios Bridutis]] for selling guild work to foreign agents, and Master [[being-fruzukazselv|Fruzukáz Selvazhazát]] feeds the investigation with insinuations of his own. The Council of Masters is divided over what to do with him, and its Grand Cartographer, Olara Marenies, is politically isolated.
+
+:::secret {title="The Rozimoi's letters"}
+The **Rozimoi of the Tevran** have written to the guild's leadership, in correspondence not made public, expressing pointed interest in the espionage investigation against Master Damáklios. The leadership holds the matter at chapter level; if it reaches the Council of Masters, the consequences for the guild's charter could be substantial. The Council does not know how deep the selling of League maps runs.
+:::
 
 ## Plot Hooks
 

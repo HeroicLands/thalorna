@@ -14,7 +14,7 @@ data:
   packFolder: hellad
 ---
 
-Every spring a rider leaves the fort for the coast with a sealed report addressed to the chancery in [[place-orzara|Orzara]], and every autumn the same rider comes back with nothing. **The Unpaid Fort** is a fortress of the Vilérian age in the interior mountains between [[place-helionis|Helionis]] and [[place-byzariargn|Bizaria]], and its commander has been writing to the [[affiliation-vylarinmpr|Empire]] since the Empire stopped paying him.
+Every spring a rider leaves the fort for the coast with a sealed report addressed to the chancery in [[place-orzara|Orzara]], and every autumn the same rider comes back empty-handed, save the one autumn that brought a sealed reply the commander has not opened. **The Unpaid Fort** is a fortress of the Vilérian age in the interior mountains between [[place-helionis|Helionis]] and [[place-byzariargn|Bizaria]], and its commander has been writing to the [[affiliation-vylarinmpr|Empire]] since the Empire stopped paying him.
 
 ## The Commission {#history}
 
@@ -26,7 +26,7 @@ The pay stopped about 619, when [[lore-crownssettle|the Settlement of the Crowns
 
 The commission passes within the commander's house, from parent to child, and the fort's people are the commander's household, his garrison and the families who have lived in its shadow for as long as the walls have stood. They are paid in the fort's own grain, in tolls on the pass and in the commander's word. The fort keeps its drill, its watches and its hours, because the commander holds that a commission is kept by keeping it.
 
-The yearly report gives the pass's condition, the garrison's strength, the stores and the travelers. It is correct to the last bushel, and the commander has never received a reply.
+The yearly report gives the pass's condition, the garrison's strength, the stores and the travelers. It is correct to the last bushel, and it has drawn one reply.
 
 ## The Pass
 
@@ -34,7 +34,7 @@ The pass is the shortest road between the hills of Helionis and the plateau of B
 
 ## What Is There Now {#present}
 
-The commander, [[being-klmthrnrthn|Kalmethar Ronethen]], is old, and his heir will not take the commission unless the chancery in Orzara confirms it. This spring's report is ready to ride, and the fort needs an answer from an office that has long received its reports without replying. The [[affiliation-byzarianlg|League]] and the Helionite city-states each want the fort and its pass, and neither would like the report to arrive.
+The commander, [[being-klmthrnrthn|Kalmethar Ronethen]], is old, and his heir will not take the commission unless the chancery in Orzara confirms it. A reply to the yearly report has arrived, the only one the fort has had, and the commander has not opened it. The [[affiliation-byzarianlg|League]] and the Helionite city-states each want the fort and its pass and have each offered the commander a garrison's pay for his oath, and he has answered neither. He says the founders' strongroom holds the pay of the years before 619 and that he will not open it until the Empire pays what it owes.
 
 ## Who Goes
 
@@ -46,7 +46,7 @@ The commander, [[being-klmthrnrthn|Kalmethar Ronethen]], is old, and his heir wi
 ## Hooks {#hooks}
 
 - **The answer.** A reply to the yearly report has arrived, and the commander has not opened it.
-- **The offer.** Two city-states, each unwilling to see the other hold the fort, have each offered the commander a garrison's pay in return for his oath, and he has not answered either.
+- **The offer.** Each bidder is unwilling to see the other hold the fort, and the commander must answer both before the reply he has not opened tells him what the chancery wants.
 - **The paychest.** The fort's founders left a strongroom, and the commander says that it holds the pay of the years before 619 and that he will not open it until the Empire pays what it owes.
 
 ## See Also {#see-also}
