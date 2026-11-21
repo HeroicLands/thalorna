@@ -86,3 +86,7 @@ The relationship with [[affiliation-morvana|Morvana]] is acknowledged with respe
 Lusinia maintains cordial relations with the [[affiliation-marendas|Faith of Marendas]], whose followers believe that [[lore-marendasdty|Marendas]], the goddess of knowledge, helps unlock the secrets of growing things. Temple libraries of the two faiths often share information about agriculture, medicine, and natural philosophy.
 
 The attitude toward [[affiliation-karnavos|Karnavos]] is wary but not hostile. Lusinia’s faith teaches that wild chaos and unexpected disruption are forces of nature—storms bring rain, forest fires clear deadwood and release seeds—but the priesthood teaches that such chaos must be balanced with cultivation and order. In their theology, where [[lore-karnavosdty|Karnavos]] represents untamed nature, Lusinia represents nature brought into harmony with civilization.
+
+## Politics {#present}
+
+The faith of Lusinia works in partnership with [[affiliation-lizelas|Lizelas]], the two priesthoods invoked together in harvest blessings and pregnancy rites. It accepts [[affiliation-morvana|Morvana]] as the other half of the cycle of growth and decay, shares agricultural and medical knowledge with the temple libraries of [[affiliation-marendas|Marendas]], and holds a wary, unhostile attitude toward [[affiliation-karnavos|Karnavos]].

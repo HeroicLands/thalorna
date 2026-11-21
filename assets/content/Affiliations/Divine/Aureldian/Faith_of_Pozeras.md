@@ -48,6 +48,7 @@ data:
       Way-Shrines: >-
         The shrines along the roads at which the Tramori are stationed and travelers are blessed.
   seat: null
+  range: [ankrscntnnt]
   population: null
   economy: []
   lore: [pozerasdty]
@@ -92,3 +93,9 @@ The relationship with the [[affiliation-ardavon|Faith of Árdavon]] is one of re
 Pozeras maintains a relationship of distant respect with [[affiliation-sacredforge|the Sacred Forge]]. The master smiths forge the tools—weaponry, tools, and talismans—that travelers carry with them. Some temples of Pozeras maintain close ties with Sacred Forge craftspeople, commissioning the creation of blessed talismans and protective objects that are distributed to travelers.
 
 Finally, Pozeras’s faith stands in implied opposition to those who would restrict travel or knowledge. [[affiliation-blackflame|The Black Flame]]'s followers, who hoard power and restrict access to distant lands, implicitly oppose Pozeras's values of free movement and the sharing of knowledge across borders. The priesthood of Pozeras does not engage in direct warfare or active resistance, but they are understood as fundamental opponents of tyranny and isolation, and in regions under Black Flame control, they operate carefully and often in secret.
+
+## Politics {#present}
+
+The Tramori of the faith of Pozeras keep temples, waystations and way-shrines at the junctions, ports and city centers of western Ankaris, and they guide the merchants, soldiers and adventurers who use them. Travelers invoke Pozeras with [[affiliation-brazemas|Brazemas]] before embarking, and the two priesthoods share way-shrines in coastal regions.
+
+The faith cooperates with [[affiliation-olvenia|Ólvenia]] on trade, works with [[affiliation-ardavon|Árdavon]] on road safety and legal protection for merchants, and commissions blessed talismans from the [[affiliation-sacredforge|Sacred Forge]]. It does not fight [[affiliation-blackflame|the Black Flame]] openly, and it is understood to oppose that faith's restriction of travel and knowledge.

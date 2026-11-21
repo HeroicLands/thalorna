@@ -48,6 +48,7 @@ data:
       House of Healing: >-
         The infirmary the priesthood keeps, and the face the faith shows the sick.
   seat: null
+  range: [velanthrgn]
   population: null
   economy: []
   lore: [lizelasdty]
@@ -96,3 +97,9 @@ The relationship with [[affiliation-olvenia|Ólvenia]] (Prosperity) is one of na
 With [[affiliation-pozeras|Pozeras]] (Voyages), Lizelas maintains a relationship of support and blessing. Sailors and merchants departing on journeys often visit temples of Lizelas, seeking blessings for safe travel and successful ventures. Priestesses of the goddess pray for favorable winds and abundant harvests for those who will return, understanding that Lizelas's blessings extend to all journeys of fertility and return, whether agricultural or mercantile.
 
 The attitude toward [[affiliation-karnavos|Karnavos]] is wary but not hostile. Lizelas understands that wild chaos and unexpected disruption are forces of nature, and she does not shrink from them. Wild storms bring rain that nurtures crops; forest fires create space for new growth. However, the priesthood teaches that chaos must be balanced with cultivation and care. In their theology, where [[lore-karnavosdty|Karnavos]] represents untamed wilderness, Lizelas represents the blessing of nature brought into relationship with civilization, both parties enriched by the connection.
+
+## Politics {#present}
+
+The faith of Lizelas is among the warmest of the Aureldian faiths. Its priestesses and priests work as healers, midwives and gardeners, its Houses of Healing serve the sick of nearly every major city, and in the grain belt of Velanthia the [[affiliation-grnrymnstrs|Granary Monasteries of Lizelas]] hold the land's grain reserves and letters under their own abbots and abbesses.
+
+It stands in joyful partnership with [[affiliation-lusinia|Lusinia]], in natural affinity with [[affiliation-olvenia|Ólvenia]], and in gentle contrast with [[affiliation-morvana|Morvana]]. Its priesthood is wary of [[affiliation-karnavos|Karnavos]], and it cooperates with the libraries of [[affiliation-marendas|Marendas]] on medicine and botany.

@@ -50,6 +50,7 @@ data:
       Storm-Reader: >-
         Sells predictions to maritime merchants—a specialism many Bravlili settle into.
   seat: null
+  range: [ankrscntnnt]
   population: null
   economy: []
   lore: [brazemasdty]
@@ -92,3 +93,9 @@ The relationship with The Sacred Forge is one of mutual respect and practical co
 Brazemas maintains a distant but acknowledged relationship with the [[affiliation-olvenia|Faith of Ólvenia]]. Their theology holds that the rains attributed to Brazemas are essential for fertility and agricultural abundance—[[lore-olveniadty|Ólvenia]], the goddess of prosperity and harvest, cannot grant prosperity without Brazemas's cooperation. This is understood not as alliance but as complementary domains: the god of storms provides the raw elemental force, while the goddess of prosperity ensures that force is channeled toward abundance rather than destruction.
 
 The priesthood of Brazemas regards the [[affiliation-zunelas|Faith of Zunelas]] with fascination and some theological tension. In their theology, [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, represents the intuitive and mysterious forces that defy rational prediction. Storms themselves seem to embody this duality—while Brazemasan priests track weather patterns with scientific precision, thunderstorms often surprise them with their ferocity or unpredictability. Some liberal Brazemasan theologians suggest that Zunelas whispers to the storms, introducing an element of intentional mystery into Brazemas's otherwise comprehensible domain.
+
+## Politics {#present}
+
+The faith of Brazemas keeps its priests at work in the western part of the [[place-ankrscntnnt|Ankaris Continent]], where merchants and farmers pay for weather consultation and the Thunderhead Vigil marks the return of spring storms. Its priests work beside the [[affiliation-pozeras|Faith of Pozeras]] in blessing voyages, and beside the [[affiliation-sacredforge|Sacred Forge]], whose smiths craft its copper lightning conductors.
+
+The faith's standing with [[affiliation-zunelas|Zunelas]] is one of fascination tempered by theological tension, and its tie to [[affiliation-olvenia|Ólvenia]] is the distant acknowledgment that rain feeds the harvest.

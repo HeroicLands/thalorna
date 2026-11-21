@@ -86,3 +86,9 @@ The relationship with [[affiliation-lusinia|Lusinia]] is one of necessary tensio
 With the [[affiliation-morvana|Faith of Morvana]], Karnavos’s faith shares an understanding of transformation and change, though they approach it differently. In their theology, [[lore-morvanadty|Morvana]] represents inevitable ending and natural decay; Karnavos represents the violent, chaotic disruption that tears down systems before their time. The two are sometimes invoked together at moments of transition—death combined with rebirth, destruction paired with renewal.
 
 With all other Aureldian deities, Karnavos maintains a position of acknowledged but troubled coexistence. He is accepted as part of the divine cosmos, but also feared and often suppressed by the priesthoods of more orderly deities. In Aureldian teaching, even [[lore-zunelasdty|Zunelas]], the dreamer-goddess usually sympathetic to unconventional wisdom, regards Karnavos with caution—for dreams, however wild, eventually end and the dreamer wakes to order, while Karnavos seeks to shatter even that awakening.
+
+## Politics {#present}
+
+The faith of Karnavos has no public temples and little priesthood. Its worship stays at thresholds and wild places, and its followers keep it private. [[affiliation-ardavon|Árdavan]] authorities in many kingdoms suppress it, and [[affiliation-blackflame|the Black Flame]] courts its priests while the mainstream priesthood largely rejects the offer.
+
+The faith keeps a troubled coexistence with the other Aureldian faiths. It stands in necessary tension with [[affiliation-lusinia|Lusinia]], in shared understanding of change with [[affiliation-morvana|Morvana]], and in strained caution with [[affiliation-zunelas|Faith of Zunelas]].
