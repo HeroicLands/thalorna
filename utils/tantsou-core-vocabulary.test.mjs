@@ -17,6 +17,7 @@ import {
     NOTE_VOCABULARY,
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
+import { createHash } from "node:crypto";
 import { beforeEncodingMigration } from "./encoding-preservation.mjs";
 import { notePath } from "./note-index.mjs";
 function note(file) {
@@ -180,6 +181,47 @@ const daughterRecords = [
         :   {}),
     },
 }));
+const digest = (value) =>
+    createHash("sha256")
+        .update(typeof value === "string" ? value : JSON.stringify(value))
+        .digest("hex");
+const currentWords = daughter.fm.data.words;
+const registeredName = (word) =>
+    word.class === "name" &&
+    word.source?.kind === "coined" &&
+    word.built?.length > 0 &&
+    word.built.every((piece) => currentWords.some(({ form }) => form === piece)) &&
+    (daughter.fm.data.register ?? []).some(
+        ({ name, tongue, built }) =>
+            tongue === "jurthati" &&
+            name.normalize("NFC").toLowerCase() === word.form.normalize("NFC") &&
+            JSON.stringify(built) === JSON.stringify(word.built),
+    );
+/**
+ * The established Jurthati rows: the first 339 of the baseline revision. Each
+ * survives unchanged and in order in the current note; the only rows set among
+ * them are coined names that the register builds from the same pieces as their
+ * words.
+ */
+const establishedJurthatiRows = () => {
+    const established = beforeEncodingMigration(daughter.file, "7dbfd920d").fm.data.words.slice(
+        0,
+        339,
+    );
+    let next = 0;
+    for (const word of currentWords) {
+        if (next === established.length) break;
+        if (digest(word) === digest(established[next])) next++;
+        else assert(registeredName(word), `${word.form}: changes or displaces an established row`);
+    }
+    assert.equal(
+        next,
+        established.length,
+        `${established[next]?.form}: established row is missing or changed`,
+    );
+    return established;
+};
+
 test("Jurthati has its own actual dictionary expression for every core concept", () => {
     assert.equal(daughter.fm.data.family, undefined);
     const actual = new Set(
@@ -339,7 +381,7 @@ test("Jurthati tagged body and action expressions carry their actual grammatical
 
 test("Jurthati free citations preserve old recipient name-piece interpretations", async () => {
     const { pieceGlosses } = await import("@heroiclands/package-build/engine/word-rows");
-    const originalData = { ...daughter.fm.data, words: daughter.fm.data.words.slice(0, 339) };
+    const originalData = { ...daughter.fm.data, words: establishedJurthatiRows() };
     const before = pieceGlosses(originalData),
         after = pieceGlosses(daughter.fm.data);
     const forms = new Set();
@@ -370,44 +412,9 @@ test("Jurthati free citations preserve old recipient name-piece interpretations"
 });
 
 test("Jurthati name-preservation repair retains old rows and native provenance", async () => {
-    const { createHash } = await import("node:crypto");
-    const digest = (value) =>
-        createHash("sha256")
-            .update(typeof value === "string" ? value : JSON.stringify(value))
-            .digest("hex");
-    // The established Jurthati rows are the first 339 of the baseline revision.
-    // Each survives unchanged and in order; the only rows set among them are
-    // coined names that the register builds from the same pieces as their words.
-    const established = beforeEncodingMigration(daughter.file, "7dbfd920d").fm.data.words.slice(
-        0,
-        339,
-    );
     assert.equal(
-        digest(established),
+        digest(establishedJurthatiRows()),
         "9a9d26a7a03d70038ea897d1156a9b0350aa8c86dfcf554ee601dd7a2207c4c4",
-    );
-    const currentWords = daughter.fm.data.words;
-    const registeredName = (word) =>
-        word.class === "name" &&
-        word.source?.kind === "coined" &&
-        word.built?.length > 0 &&
-        word.built.every((piece) => currentWords.some(({ form }) => form === piece)) &&
-        (daughter.fm.data.register ?? []).some(
-            ({ name, tongue, built }) =>
-                tongue === "jurthati" &&
-                name.normalize("NFC").toLowerCase() === word.form.normalize("NFC") &&
-                JSON.stringify(built) === JSON.stringify(word.built),
-        );
-    let next = 0;
-    for (const word of currentWords) {
-        if (next === established.length) break;
-        if (digest(word) === digest(established[next])) next++;
-        else assert(registeredName(word), `${word.form}: changes or displaces an established row`);
-    }
-    assert.equal(
-        next,
-        established.length,
-        `${established[next]?.form}: established row is missing or changed`,
     );
     // The rest of the frontmatter matches its baseline revision, except for
     // registered names: a register entry that a registered name word builds, and
