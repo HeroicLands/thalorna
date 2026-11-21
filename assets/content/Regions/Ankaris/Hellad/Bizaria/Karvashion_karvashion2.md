@@ -34,6 +34,10 @@ A council of caravansary masters and merchant-princes governs [[affiliation-karv
 
 Karvashion has a stronger eastern character than the other League seats. [[affiliation-ashanpnthn|Ashaian worship]] has a significant following, particularly among the Dunhari and Khazrini merchants who keep permanent trading quarters here with their own tongues, faiths and law. The town has a reputation for gardeners, merchants and peaceful culture.
 
+## Current Situation {#present}
+
+The caravansary masters pay tolls and gifts to the lord of the [[place-southrnmrch|Southern March]] to keep the Dunhara road open and its wells clean.
+
 ## See Also {#see-also}
 
 [[affiliation-karvashion|Karvashion]]

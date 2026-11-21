@@ -30,6 +30,14 @@ The town is more austere than the other League seats: less ornate, more function
 
 The pass has no farmland, so the garrison and the miners eat bread carried up from the plateau villages, and the town pays for it with silver from the peaks. Its granaries are kept full against a siege like the one of 212 AF.
 
+## History {#history}
+
+The five cities walled the foothill springs against a steppe host in 158 BF ([[lore-heladwells|The Battle of the Wells]]). The town held out for two years of siege from about 212 AF, and it surrendered on terms that left it its walls, its own garrison and a seat beside an imperial _usos_ ([[lore-heladcitadel|The Siege of the Silver Citadel]]).
+
+## Current Situation {#present}
+
+The citadel's silver pays the League's way-forts through the common treasury, and the governor sits on the council that spends it.
+
 ## See Also {#see-also}
 
 [[affiliation-argyrteikhos|Argirteikhos]]

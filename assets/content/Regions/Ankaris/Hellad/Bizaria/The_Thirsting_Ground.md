@@ -29,6 +29,14 @@ The jar at the field's edge is a custom of the nearest fort and not an office, s
 - **Steppe elders** under truce, who come to look and leave quickly.
 - **The [Servants of Vezhnurikos]{.name data-type="affiliation/order"}**, who have been seen on the field at night.
 
+## History {#history}
+
+A great host from the steppe came over the passes in 158 BF and died of arrows and thirst between the foothill springs, in the dry country below the passes ([[lore-heladwells|The Battle of the Wells]]). Every garrison of the nearest way-fort since the first has set out the jar of water at the field's edge.
+
+## Current Situation {#present}
+
+The steppe clans winter under the League's truce but will not camp within sight of the field, and steppe elders visit it under truce and leave quickly. The Eastern March's Lord Commander wants its spring for a fort, which the failed rites leave unsettled.
+
 ## Hooks {#hooks}
 
 - **The best spring.** The field holds the best spring in the March, and the Lord Commander wants a fort on it. A fort needs the field settled, and a settlement needs a steppe rite that the League has never asked a steppe clan to perform.

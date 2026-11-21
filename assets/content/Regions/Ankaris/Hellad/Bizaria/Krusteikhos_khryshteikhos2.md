@@ -30,6 +30,14 @@ The city is renowned for its goldsmiths, its bankers and its silk markets. Centu
 
 Krusteikhos grows little on the edge of the plateau and eats what the villages of the valley bottoms send in and what the grain road brings down from Velanthia, whose contracts its bankers hold and whose wagons its merchants own. What it sends out is credit: the goods and tolls of the hinterland towns are counted, banked and lent against here, and the plateau's wool, hides and horses are bought for the silk markets.
 
+## History {#history}
+
+The councils of the five cities met at the plateau's edge in 157 BF to swear [[lore-heladcompact|the Compact of the Five]], and the Merchant Hall stands where they met. The League council ceased to meet in the Hall when [[lore-heladeastwar|the Eastern War]] annexed the League about 209 AF. The city weigher proved the tax-farmers' brass standard heavy in the Hall about 455 AF ([[lore-heladweighing|The Weighing at Krusteikhos]]), and the councils swore the Compact again in the Hall about 571 AF ([[lore-heladreswear|The Re-swearing of the Compact]]).
+
+## Current Situation {#present}
+
+The League council meets in the Merchant Hall on the forts' pay, the common tolls, the joint fleet and army, the three marches and quarrels between city-states.
+
 ## See Also {#see-also}
 
 [[affiliation-khryshteikhos|Krusteikhos]]

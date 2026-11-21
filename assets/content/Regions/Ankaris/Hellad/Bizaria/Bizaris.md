@@ -33,6 +33,10 @@ The guilds' workshops eat from the farming villages of the plateau valleys aroun
 
 The heads of the twelve greatest guilds make up the [[affiliation-cncltwlvbzrs|town's council]], which makes Bizaris the only League city-state with formal guild governance. The arrangement gives the town stability and endless subtle negotiation, as artisan interests jockey for precedence and resources. In League politics Bizaris keeps a careful neutrality, because its influence depends on staying indispensable to all of its rivals.
 
+## Current Situation {#present}
+
+The [[affiliation-cncltwlvbzrs|Council of Twelve]] governs the town, whose workshops buy iron and copper from the mines of Órashion and silk thread from the eastern caravans.
+
 ## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]

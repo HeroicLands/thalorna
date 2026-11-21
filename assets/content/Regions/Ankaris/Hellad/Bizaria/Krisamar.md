@@ -35,6 +35,10 @@ The consortium warehouses give Krisamar a more informal, entrepreneurial charact
 
 Relations with Nesthiros stay perpetually tense, with commercial rivalry, occasional naval skirmishes between merchant fleets and careful diplomatic posturing at League councils.
 
+## Current Situation {#present}
+
+The merchant consortia that own the harborfront warehouses govern the town, and its rivalry with [[place-nesthiros2|Nesthiros]] reaches the League's councils as careful posturing.
+
 ## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]

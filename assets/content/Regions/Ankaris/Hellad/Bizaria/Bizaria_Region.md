@@ -103,6 +103,12 @@ To the south, along the whole of the League's southern border, lies the Kingdom 
 
 Across the sea beyond the Taruzelian islands lie the coasts of [[place-xerathia|Zerathia]], with which Nesthiros's captains have traded for a thousand years; the League's coast and the sea it faces belong to [[place-midhalnrgn|Midhalión]].
 
+## Current Situation {#present}
+
+Bizaria is a province of the [[affiliation-vylarinmpr|empire]] in law and a League of five city-states in fact: imperial officers hold the passes, the tariffs and the muster, and the city-states keep their own councils beside the League council that sets the common tolls. Of its 1,200,000 people, [[affiliation-khryshteikhos|Krusteikhos]] and [[affiliation-nesthiros|Nesthiros]] govern about 300,000 each, and eight towns and villages with councils of their own answer to the League directly and hold about 27,000 between them.
+
+The eastern hinterland is the region's open danger, and [[affiliation-blackflame|the Black Flame]] is strong in its towns.
+
 ## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]

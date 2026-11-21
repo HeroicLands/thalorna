@@ -31,6 +31,10 @@ Thálassos lives on the coasting trade and buys its bread from the olive and vin
 
 The town keeps a shrine to [[lore-pozerasdty|Pozeras]], the Aureldian god of voyages and safe passage. Pilgrims making maritime vows stop in Thálassos to leave offerings, and the priests have a reputation for giving real sanctuary to those fleeing pursuit, a tradition they guard jealously whatever the League's politics.
 
+## Current Situation {#present}
+
+Ships caught by seasonal storms shelter in the harbor and pay for repairs and warehouse space, and the coin they leave buys the town's grain. The magistrate keeps minimal customs authority and leaves the harbor dues to bonded merchants, which suits independent traders and small-scale smugglers. Pilgrims on maritime vows leave offerings at the shrine of [[lore-pozerasdty|Pozeras]].
+
 ## See Also {#see-also}
 
 [[affiliation-byzarianlg|Bizarian League]]

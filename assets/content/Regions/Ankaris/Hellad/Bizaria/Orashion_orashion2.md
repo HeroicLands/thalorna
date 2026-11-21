@@ -30,6 +30,10 @@ The rocky country around the town grows almost nothing, so the miners and smiths
 
 A guild council and merchant-princes govern [[affiliation-orashion|Órashion]], and the guild masters sit on the council with as much authority as the merchant-princes. The craft guilds control the quality and quantity of production, so a visitor who wants a blade, a cast or a commission negotiates with a guild. The guild system gives ordinary craftsmen a political voice that workers in the other League city-states lack, which makes Órashion a working-class town whose politics run more egalitarian, or at least more contentious, than the merchant oligarchies of [[affiliation-khryshteikhos|Krusteikhos]] and [[affiliation-nesthiros|Nesthiros]]. A master's seal from Órashion or [[place-byzaris|Bizaris]] opens doors from the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] to the [[affiliation-jenchaiempr|Jenchai Empire]].
 
+## Current Situation {#present}
+
+The League's trade in arms and metalwork depends on the goods the forges make, and the craft guilds set their quality and quantity. The guild masters sit on the council with as much authority as the merchant-princes, and the town's politics run more contentious than the merchant oligarchies' of Krusteikhos and Nesthiros.
+
 ## See Also {#see-also}
 
 [[affiliation-orashion|Órashion]]

@@ -49,6 +49,10 @@ The March's people are herders and villagers of upland Bizarian stock, conservat
 
 The March lives on stock and passage. It sends wool, hides, cheese and horses down to Karvashion and [[place-byzaris|Bizaris]]—the hideworkers of Bizaris take the greater part of the March's leather—and sells sheep across the Amradi line. The caravan road brings tolls, escort fees and the trade of the caravanserais; incense, dyestuffs and Dunhari silver come up it, and Órashion iron and coastal wine go down. The hunts bring the lord prestige and the March the custom of the League's richest men, which the villages along the road have learned to charge for.
 
+## Current Situation {#present}
+
+[[being-vaskan|Lord Vaskan]] holds the March for the League council, and the Dunhara road stays open on the strength of his household and the League's detachment of conscript foot at the caravanserai-forts. The caravansary masters of [[place-karvashion2|Karvashion]] pay him in tolls and gifts for its wells and their safety, and he depends on the town for grain, coin and a market for the March's wool. The great hunts are the March's political season, and the League's merchant-princes and foreign envoys are invited to the lord's fires. Imperial officers hold the passes, the tariff and the muster in law.
+
 ## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]

@@ -94,7 +94,7 @@ Each city-state keeps its own council, its own coin standard, its own courts and
 
 The League council is where the city-states meet, and weight there is counted three ways. Krusteikhos's bankers dominate it by money, Nesthiros's admiralty by ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison. The council governs only three districts directly, the [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]] and [[place-northrnmrch|Northern March]]: frontier country outside every city-state's charter, held by lords the council commissions and can dismiss, garrisoned by conscripts all five city-states raise, and paid for from the common treasury and the silver of Argirteikhos, while imperial officers hold the passes, the tariffs and the muster in law and set the rolls and the tariff.
 
-The five cities bound themselves in [[lore-heladcompact|the Compact of the Five]] about 157 BF, and their councils re-swore it in about 571 AF ([[lore-heladreswear|The Re-swearing of the Compact]]). [[lore-heladeastwar|The Eastern War]] dissolved the Compact by edict about 209 AF and annexed the League as a province of the [[affiliation-vylarinmpr|empire]].
+The five cities bound themselves in [[lore-heladcompact|the Compact of the Five]] in 157 BF, and their councils re-swore it in about 571 AF ([[lore-heladreswear|The Re-swearing of the Compact]]). [[lore-heladeastwar|The Eastern War]] dissolved the Compact by edict about 209 AF and annexed the League as a province of the [[affiliation-vylarinmpr|empire]].
 
 A city-state's officers are the people a trader meets. The Chancellor keeps its charters, treaties and correspondence; the Treasurer keeps its customs, its tolls and the loans it raises against them; the Harbormaster keeps the port, its pilots, its wharves and the dues on every hull that enters; and the Master of the Mint keeps the coin struck in the city's name and the standard it is struck to. A Consul Abroad holds the city's seal for trade disputes in a foreign port. The Captain of the Watch commands the city guard and the militia the guilds are bound to raise. The Warden of the Weights inspects measures, coin and quality in the markets, and his is the office that makes the city's word good. A Guild Master speaks for a chartered trade before the council and answers for its members' conduct, and an Arbitrator settles disputes between houses under the commercial custom.
 
@@ -114,9 +114,17 @@ The League steers between the great powers with careful neutrality. The [[affili
 
 Its wars are border wars, against desert raiders, steppe tribes and the occasional eastern warlord. Conscripts fight them under the march lords, and the council contracts mercenary companies when the frontier turns dangerous.
 
+## Current Situation {#present}
+
+The League is annexed in law and governed by its own councils; the council in the Merchant Hall holds the three marches and the common treasury, and the imperial officers' hold on the passes, tariffs and muster is the claim the merchants chafe at.
+
 ## Commerce and Currency {#commerce}
 
 Each city-state strikes its own coin, and the League as a whole uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard, with full access to the paper-script system through [[affiliation-danvar|Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. The Bizarian League, a province of the empire in law, takes full part in the trade and banking infrastructure of the Vilérian system. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
+
+## History {#history}
+
+The five cities bound themselves in [[lore-heladcompact|the Compact of the Five]] in 157 BF, the year after they walled the foothill springs together in [[lore-heladwells|the Battle of the Wells]]. [[lore-heladeastwar|The Eastern War]] of about 209 to about 214 AF annexed the League as a province and dissolved the Compact by edict, and the cities kept their councils. The councils swore the Compact again in about 571 AF, paid and staffed the frontier garrisons themselves and took the three marches as common territory ([[lore-heladreswear|The Re-swearing of the Compact]]). The settlement of about 619 AF freed the Aureldian crowns only, and the League stayed a province in law ([[lore-crownssettle|The Settlement of the Crowns]]).
 
 ## See Also {#see-also}
 

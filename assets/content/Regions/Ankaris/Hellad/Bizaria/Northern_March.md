@@ -45,6 +45,10 @@ The uplanders of the Northern March are Bizarian hill-farmers of Helonik stock, 
 
 The March is a passage and a pasture. Its own produce is barley, cattle, timber from the high valleys and the cheese and wool of the ridges, most of it sold down to Krusteikhos. Its revenue is the grain road: the imperial tariff and the League's toll on every wagon that crosses the frontier, the dues of the pass-forts, and the trade of the inns and wheelwrights along the way. Velanthian grain, horses and furs come south; Bizarian silks, Órashion iron, coastal wine and olive oil, and the philosophical and medical books of the Hellád go north. It is not a rich district, and its lords are not men who expect to become rich by holding it.
 
+## Current Situation {#present}
+
+The wagon trains come south along the grain road from late summer until snow closes the pass, and every wagon that crosses the frontier pays the imperial tariff and the League's toll. The lord of the March is expected to know the state of the Velanthian harvest before the council does, and the League pays and staffs the detachment at the customs posts and the pass-forts while imperial officers hold the passes and set the tariff.
+
 ## See Also {#see-also}
 
 [[place-byzariargn|Bizaria Region]]

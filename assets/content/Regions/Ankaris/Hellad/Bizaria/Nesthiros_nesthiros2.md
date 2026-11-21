@@ -34,6 +34,14 @@ Nesthiros lives on transfer. Eastern goods arrive from [[place-khryshteikhos2|Kr
 
 The fortress isle has no fields, so the city buys its bread: Velanthian grain comes down the Northern March and along the lowland road, and the olive and vine villages of the coastal hills behind the harbors send up oil and wine. The shipyards buy their timber abroad, and what the city sends out is the eastern trade and the war-galleys its own yards build.
 
+## Current Situation {#present}
+
+The admiralty's galleys guard the eastern trade that the city lives on, and the council shares the city's government with the admiralty.
+
+## History {#history}
+
+In [[lore-heladeastwar|the Eastern War]] of about 209 AF a fleet from the Vilérian coast took the harbors in a season, and the League, Nesthiros with it, was annexed as a province.
+
 ## See Also {#see-also}
 
 [[affiliation-nesthiros|Nesthiros]]
