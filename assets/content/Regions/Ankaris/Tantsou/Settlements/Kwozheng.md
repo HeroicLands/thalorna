@@ -8,7 +8,7 @@ tags: [city, seat]
 data:
   demonym: null
   lore: [humanflk]
-  parents: [tantsouregin]
+  parents: [kwozhngmrch]
   population: 110000
   type: metropolis
   market: international
@@ -26,6 +26,9 @@ The garrisons of the marches take their pay, their orders and their grain throug
 
 [[affiliation-kwozhengprv|Kwozheng Province]]
 : the province it is the seat of
+
+[[place-kwozhngmrch|The Kwozheng Marches]]
+: the land of the province
 
 [[place-tantsouregin|Tantsou Region]]
 : the region

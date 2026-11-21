@@ -5342,6 +5342,7 @@ data:
     - {name: The Custodian of Lost Seals, tongue: translation}
     - {name: The Demon Realm, tongue: translation}
     - {name: The Demon-Swarm, tongue: translation}
+    - {name: The Doulwen Basins, tongue: translation}
     - {name: The First Classifier, tongue: translation}
     - {name: The First Refusal, tongue: translation}
     - {name: The Forger of False Records, tongue: translation}
@@ -5351,6 +5352,7 @@ data:
     - {name: The Infernal Realms, tongue: translation}
     - {name: The Jade Fan Dance, tongue: translation}
     - {name: The Keeper of the Celestial Archive, tongue: translation}
+    - {name: The Kwozheng Marches, tongue: translation}
     - {name: The Lord of the Unclassified, tongue: translation}
     - {name: The Lost Road, tongue: translation}
     - {name: The Minister of Continuity, tongue: translation}
@@ -5361,12 +5363,14 @@ data:
     - {name: The Minister of Material Fortune, tongue: translation}
     - {name: The Minister of Roads, tongue: translation}
     - {name: The Ministry of Final Account, tongue: translation}
+    - {name: The Mwonou Uplands, tongue: translation}
     - {name: The Seal-Thief, tongue: translation}
     - {name: The Shadow Sect, tongue: translation}
     - {name: The Tribes of the Black Wilds, tongue: translation}
     - {name: The Unmaker, tongue: translation}
     - {name: The Unsorted, tongue: translation}
     - {name: The Walking Contradiction, tongue: translation}
+    - {name: The Wongsen Delta, tongue: translation}
     - {name: The Youweng, tongue: translation}
     - {name: Traveler, tongue: translation}
     - {name: Treasurer, tongue: translation}

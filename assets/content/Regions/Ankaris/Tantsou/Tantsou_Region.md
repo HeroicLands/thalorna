@@ -99,6 +99,9 @@ To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] ne
 [[affiliation-kwozhengprv|Kwozheng Province]]
 : the north and its marches
 
+[[place-wongsendlta|The Wongsen Delta]], [[place-mwonouplnd|The Mwonou Uplands]], [[place-doulwenbsns|The Doulwen Basins]] and [[place-kwozhngmrch|The Kwozheng Marches]]
+: the lands of the four provinces
+
 [[place-wongsen|Wongsen]], [[place-mwonou|Mwonou]], [[place-doulwen|Doulwen]] and [[place-kwozheng|Kwozheng]]
 : the seats of the four Princes
 

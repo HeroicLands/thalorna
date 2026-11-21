@@ -67,6 +67,9 @@ The Prince of Mwonou and the Prince of [[affiliation-kwozhengprv|Kwozheng Provin
 [[place-mwonou|Mwonou]]
 : the seat
 
+[[place-mwonouplnd|The Mwonou Uplands]]
+: the uplands the province holds
+
 [[affiliation-kwozhengprv|Kwozheng Province]]
 : the rival province
 

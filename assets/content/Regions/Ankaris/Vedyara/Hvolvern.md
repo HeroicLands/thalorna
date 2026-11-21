@@ -19,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-**Hvolvern** is a cliff at the head of a high valley on the far side of [[place-estrnreach|the Eastern Reach]], the side that faces [[place-tantsouregin|Tantsou]]. The valley opens off the northern approach to [[place-jnanadvar|Jnanadvar]] two days below the col, climbs west for a day between walls of gray rock, and ends against the cliff, well above the last trees. The people who farm the valley give the cliff its name: [[skill-hvarnlng|Hvarn]] builds it from _hvol_, "a place", and _vern_, "a house", and the common English epithet is "the cave houses". Neither shows from the Jnanadvar road.
+**Hvolvern** is a cliff at the head of a high valley on the far side of [[place-estrnreach|the Eastern Reach]], the side that faces [[place-tantsouregin|Tantsou]]. The valley opens off the northern approach to [[place-jnanadvar|Jnanadvar]] two days below the col, climbs west for a day between walls of gray rock, and ends against the cliff, well above the last trees. The people who farm the valley give the cliff its name: [[skill-hvarnlng|Hvarn]] builds it from _hvol_, "a place", and _vern_, "a house", and the common epithet is "the cave houses". Neither shows from the Jnanadvar road.
 
 From the upper fields the cliff is ledges, dark hollows and long stains where water runs down the rock. Lights show on it after dark, in places where no herder would sit, and on still mornings a haze lies along the face instead of rising from it. Lowland rumor puts [[lore-flkkhazar|Khazár Folk]] halls above the tree line somewhere in the Reach. The rumor is old and nobody has confirmed it.
 

@@ -8,7 +8,7 @@ tags: [city, seat, caravan]
 data:
   demonym: null
   lore: [humanflk]
-  parents: [tantsouregin]
+  parents: [doulwenbsns]
   population: 150000
   type: metropolis
   market: international
@@ -29,3 +29,6 @@ The caravans unload here. Their silver, amber and horses are documented, classif
 
 [[lore-celestialroad|The Celestial Road]]
 : the caravan road west across the Khazrin
+
+[[place-doulwenbsns|The Doulwen Basins]]
+: the land of the province

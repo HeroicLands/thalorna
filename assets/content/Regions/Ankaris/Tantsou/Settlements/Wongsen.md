@@ -8,7 +8,7 @@ tags: [city, port, seat]
 data:
   demonym: null
   lore: [humanflk]
-  parents: [tantsouregin]
+  parents: [wongsendlta]
   population: 80000
   type: city
   market: international
@@ -20,12 +20,15 @@ data:
 
 Wongsen, the Sea Gate, is the seat of [[affiliation-wongsenprv|Wongsen Province]], a port of about 80,000 people on the southeastern coast of the [[place-tantsouregin|Tantsou Region]], where the delta of the great rivers meets the sea. Its Prince, the strongest of the four, rules from here.
 
-The foreign merchants who trade at Wongsen live in a walled quarter of their own, watched and taxed, and the [[lore-tantsoutribclt|tributary]] people of the coast deal with them more readily than the court does. The rice of the delta feeds the city, and the Prince's granaries hold the rice the other provinces come to buy.
+The foreign merchants who trade at Wongsen live in a walled quarter of their own, watched and taxed, and the people of the coast, of the [[lore-tantsoutribclt|Tantsou Tributary Peoples]], deal with them more readily than the court does. The rice of the delta feeds the city, and the Prince's granaries hold the rice the other provinces come to buy.
 
 ## See Also {#see-also}
 
 [[affiliation-wongsenprv|Wongsen Province]]
 : the province it is the seat of
+
+[[place-wongsendlta|The Wongsen Delta]]
+: the land of the province
 
 [[place-tantsouregin|Tantsou Region]]
 : the region
