@@ -30,8 +30,11 @@
  *   keeps the native text where that holds `⟦…⟧` codage the roman spells out;
  *   runs of another language keep their spans;
  * - both divs of a pair take the same `work=<key>`, the key being the anchor
- *   of the caption above the pair, or `<note>-<n>` when that anchor is missing
- *   or already used;
+ *   of the caption above the pair, or `<type>-<shortcode>-<n>` when that anchor
+ *   is missing or already used. The fallback reads the declared `type` and
+ *   `shortcode` from the note's frontmatter, so it does not depend on the
+ *   file's name or folder; a note that declares no identity is reported
+ *   instead of named from its path;
  * - every line of a stanza but its last ends with `/`, and a literal slash in
  *   the text, outside an attribute block, is written `\/`.
  *
@@ -47,6 +50,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import YAML from "yaml";
 
 const OPENER_DIV = /^(:::)\s*\{\.verse(?:\s+([^}]*))?\}\s*$/;
 const OPENER_NAMED = /^(:::)verse\s*\{([^}]*)\}\s*$/;
@@ -455,7 +459,30 @@ function originalOf(stanzas, first) {
 }
 
 /**
- * @param {string} file path shown in findings and used to name work keys
+ * The note's declared address, `<type>-<shortcode>`. Each segment is nonempty lowercase
+ * alphanumerics; a missing, non-string, blank or malformed segment declares no identity.
+ *
+ * @param {string} text the note
+ * @returns {string | undefined} the address, or undefined when the frontmatter declares no valid type and shortcode
+ */
+function addressSlug(text) {
+    const fence = text.match(/^---\r?\n([\s\S]*?)\r?\n---(?:\r?\n|$)/u);
+    if (!fence) return undefined;
+    let fm;
+    try {
+        fm = YAML.parse(fence[1]);
+    } catch {
+        return undefined;
+    }
+    const { type, shortcode } = fm ?? {};
+    const segment = /^[a-z0-9]+$/;
+    if (typeof type !== "string" || typeof shortcode !== "string") return undefined;
+    if (!segment.test(type) || !segment.test(shortcode)) return undefined;
+    return `${type}-${shortcode}`;
+}
+
+/**
+ * @param {string} file path shown in findings
  * @param {string} text the note
  * @param {{target366?: boolean}} [options]
  * @returns {{text: string, findings: string[], converted: number, refusals: {file: string, line: number, shape: string, count: number, rows: string[]}[]}}
@@ -472,11 +499,7 @@ export function convertNote(file, text, options = {}) {
             if (known.rows.length < 3) known.rows.push(...rows.slice(0, 3 - known.rows.length));
         } else refusals.push({ file, line, shape, count: 1, rows: rows.slice(0, 3) });
     };
-    const slug = path
-        .basename(file, ".md")
-        .toLowerCase()
-        .replace(/[^a-z0-9]+/g, "-")
-        .replace(/^-|-$/g, "");
+    const slug = options.target366 ? addressSlug(text) : undefined;
     const anchors = new Set(lines.map((l) => l.match(ANCHOR)?.[1]).filter(Boolean));
     const used = new Set();
     let converted = 0;
@@ -527,6 +550,15 @@ export function convertNote(file, text, options = {}) {
             let j = i - 1;
             while (j >= 0 && !lines[j].trim()) j--;
             const anchor = j >= 0 ? lines[j].match(ANCHOR)?.[1] : undefined;
+            if (!(anchor && !used.has(anchor)) && !slug) {
+                findings.push(
+                    `${file}:${i + 1}: error: the note declares no type and shortcode to derive a work key from`,
+                );
+                refuse(i + 1, "a work key with no declared note identity");
+                out.push(...lines.slice(i, close + 1));
+                i = close;
+                continue;
+            }
             key = anchor && !used.has(anchor) ? anchor : `${slug}-${ordinal}`;
             used.add(key);
             if (anchors.has(key) && key !== anchor) {

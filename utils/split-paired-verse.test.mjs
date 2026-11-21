@@ -7,6 +7,8 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import { convertNote, verseContent } from "./split-paired-verse.mjs";
 
+const IDENTITY = "---\ntype: lore\nshortcode: thelay\n---\n";
+
 const NOTE = `Intro.
 
 : I. First {#lay-1}
@@ -83,11 +85,11 @@ test("target-366 writes one encoded original with work keys and line ends", () =
     const note = NOTE.replace("[irtal nysse]{lang=sina enc=e}", "[irtal/nysse]{lang=sina enc=e}")
         .replace("[irtal nysse]{lang=sina}", "[irtal/nysse]{lang=sina}")
         .replace("A child comes up", "A child/comes up");
-    const { text, findings } = convertNote("a.md", note, { target366: true });
+    const { text, findings } = convertNote("a.md", IDENTITY + note, { target366: true });
     assert.deepEqual(findings, []);
     assert.equal(
         text,
-        `Intro.
+        `${IDENTITY}Intro.
 
 : I. First {#lay-1}
 
@@ -113,10 +115,14 @@ Outro.
 `,
     );
     assert.deepEqual(verseContent(text), verseContent(note));
-    const plain = convertNote("The_Lay.md", NOTE.replace(": I. First {#lay-1}", "Plain."), {
-        target366: true,
-    }).text;
-    assert.equal(plain.match(/work=the-lay-1/g).length, 2);
+    const plain = convertNote(
+        "The_Lay.md",
+        IDENTITY + NOTE.replace(": I. First {#lay-1}", "Plain."),
+        {
+            target366: true,
+        },
+    ).text;
+    assert.equal(plain.match(/work=lore-thelay-1/g).length, 2);
 });
 
 test("target-366 keeps native codage and refuses disagreeing encodings", () => {
@@ -126,21 +132,77 @@ test("target-366 keeps native codage and refuses disagreeing encodings", () => {
 2 [A]{lang=zxx}[, tob.]{lang=khaz}
 :::
 `;
-    const ok = convertNote("a.md", coded, { target366: true });
+    const ok = convertNote("a.md", IDENTITY + coded, { target366: true });
     assert.deepEqual(ok.findings, []);
-    assert.match(ok.text, /lang=khaz enc=k work=a-1\}\n\[⟦A⟧\]\{lang=zxx\}, tob\.\n/);
+    assert.match(ok.text, /lang=khaz enc=k work=lore-thelay-1\}\n\[⟦A⟧\]\{lang=zxx\}, tob\.\n/);
     const split = coded
         .replace("enc=k}", "enc=k}[x]{lang=khaz enc=other}")
         .replace("[, tob.]{lang=khaz}", "[, tob.]{lang=khaz}[x]{lang=khaz}");
     assert.match(
-        convertNote("a.md", split, { target366: true }).findings[0],
-        /^a\.md:2: error: .*disagree on enc/,
+        convertNote("a.md", IDENTITY + split, { target366: true }).findings[0],
+        /^a\.md:6: error: .*disagree on enc/,
     );
     const bad = coded.replace("[, tob.]{lang=khaz}", "[, tab.]{lang=khaz}");
     assert.match(
-        convertNote("a.md", bad, { target366: true }).findings[0],
+        convertNote("a.md", IDENTITY + bad, { target366: true }).findings[0],
         /differs from the roman/,
     );
+});
+
+test("fallback work keys come from the declared identity, not the file's name or place", () => {
+    const plain = NOTE.replace(": I. First {#lay-1}", "Plain.");
+    const keys = (file, source) =>
+        convertNote(file, source, { target366: true }).text.match(/work=[\w-]+/g);
+    const here = keys("a.md", IDENTITY + plain);
+    assert.deepEqual(here, ["work=lore-thelay-1", "work=lore-thelay-1"]);
+    assert.deepEqual(keys("Elsewhere/Renamed Note.md", IDENTITY + plain), here);
+    const other = IDENTITY.replace("thelay", "thesong");
+    assert.deepEqual(keys("a.md", other + plain), ["work=lore-thesong-1", "work=lore-thesong-1"]);
+});
+
+test("a note with no declared identity is refused rather than named from its path", () => {
+    const plain = NOTE.replace(": I. First {#lay-1}", "Plain.");
+    const { text, findings } = convertNote("thelay.md", plain, { target366: true });
+    assert.match(findings[0], /^thelay\.md:\d+: error: the note declares no type and shortcode/);
+    assert.doesNotMatch(text, /work=/);
+    const anchored = convertNote("thelay.md", NOTE, { target366: true });
+    assert.deepEqual(anchored.findings, []);
+    assert.equal(anchored.text.match(/work=lay-1/g).length, 2);
+});
+
+test("a blank, malformed or non-string identity field is refused like a missing one", () => {
+    const plain = NOTE.replace(": I. First {#lay-1}", "Plain.");
+    const cases = {
+        "empty shortcode": 'type: lore\nshortcode: ""',
+        "whitespace shortcode": 'type: lore\nshortcode: "   "',
+        "punctuation-only shortcode": 'type: lore\nshortcode: "--"',
+        "empty type": 'type: ""\nshortcode: thelay',
+        "uppercase shortcode": "type: lore\nshortcode: TheLay",
+        "hyphenated shortcode": "type: lore\nshortcode: the-lay",
+        "non-string type": "type: 5\nshortcode: thelay",
+        "list type": "type: [lore]\nshortcode: thelay",
+        "missing shortcode": "type: lore",
+    };
+    for (const [name, fm] of Object.entries(cases)) {
+        const { text, findings, refusals } = convertNote("a.md", `---\n${fm}\n---\n${plain}`, {
+            target366: true,
+        });
+        assert.match(
+            findings[0],
+            /^a\.md:\d+: error: the note declares no type and shortcode/,
+            name,
+        );
+        assert.ok(refusals.length > 0, name);
+        assert.doesNotMatch(text, /work=/, name);
+    }
+});
+
+test("a valid identity still derives the fallback key", () => {
+    const plain = NOTE.replace(": I. First {#lay-1}", "Plain.");
+    const { findings, refusals, text } = convertNote("a.md", IDENTITY + plain, { target366: true });
+    assert.deepEqual(findings, []);
+    assert.deepEqual(refusals, []);
+    assert.match(text, /work=lore-thelay-1/);
 });
 
 test("without the flag there are no work keys or marks", () => {
@@ -190,12 +252,13 @@ const BARE = `::: {.verse form=lay cols=2}
 `;
 
 test("target-366 takes a native run as its own roman and drops edge cantos", () => {
-    const { text, findings } = convertNote("a.md", BARE, { target366: true });
+    const { text, findings } = convertNote("a.md", IDENTITY + BARE, { target366: true });
     assert.deepEqual(findings, []);
     assert.equal(
         text,
-        "::: {.verse form=lay lang=en work=a-1}\nA child/\nno\n:::\n\n" +
-            "::: {.verse form=lay lang=sina enc=e work=a-1}\nirtal nysse/\nahi\n:::\n",
+        IDENTITY +
+            "::: {.verse form=lay lang=en work=lore-thelay-1}\nA child/\nno\n:::\n\n" +
+            "::: {.verse form=lay lang=sina enc=e work=lore-thelay-1}\nirtal nysse/\nahi\n:::\n",
     );
 });
 
@@ -204,14 +267,14 @@ test("a canto break between stanzas stays a stanza break, and the no-flag mode r
         "\n1 [ahi]",
         "--- {.canto}\n\n1 [ahi]",
     );
-    const { text } = convertNote("a.md", between, { target366: true });
+    const { text } = convertNote("a.md", IDENTITY + between, { target366: true });
     assert.match(text, /^A child\n\nno$/m);
     assert.ok(convertNote("a.md", BARE).findings.length > 0);
 });
 
 test("refusals name the shape and quote the rows", () => {
     const bad = "::: {.verse form=lay cols=2}\n1 [x]\n2 [y]{lang=en}\n:::\n";
-    const { refusals } = convertNote("a.md", bad, { target366: true });
+    const { refusals } = convertNote("a.md", IDENTITY + bad, { target366: true });
     assert.equal(refusals[0].shape, "a native line with no language run");
     assert.deepEqual(refusals[0].rows, ["1 [x]"]);
 });
@@ -228,16 +291,16 @@ const UNSCRIPTED = `::: {.verse form=lay cols=2}
 `;
 
 test("target-366 writes an unscripted original as one column of its language", () => {
-    const { text, findings } = convertNote("a.md", UNSCRIPTED, { target366: true });
+    const { text, findings } = convertNote("a.md", IDENTITY + UNSCRIPTED, { target366: true });
     assert.deepEqual(findings, []);
     assert.match(
         text,
-        /::: \{\.verse form=lay lang=nyal work=a-1\}\nnyolawa ndaweyu\/\nndaza\n:::\n$/,
+        /::: \{\.verse form=lay lang=nyal work=lore-thelay-1\}\nnyolawa ndaweyu\/\nndaza\n:::\n$/,
     );
     assert.deepEqual(verseContent(text), verseContent(UNSCRIPTED));
     const mixed = UNSCRIPTED.replaceAll("[ndaza]{lang=nyal}", "[ndazandazandaza]{lang=khaz}");
     assert.match(
-        convertNote("a.md", mixed, { target366: true }).findings[0],
+        convertNote("a.md", IDENTITY + mixed, { target366: true }).findings[0],
         /alternate between languages/,
     );
 });
@@ -255,16 +318,16 @@ test("target-366 reads a bare gap in a native line as a zxx span", () => {
 2 [ahi]{lang=khaz}
 :::
 `;
-    const { text, findings } = convertNote("a.md", gap, { target366: true });
+    const { text, findings } = convertNote("a.md", IDENTITY + gap, { target366: true });
     assert.deepEqual(findings, []);
     assert.match(
         text,
-        /lang=khaz enc=k work=a-1\}\n\[…\]\{lang=zxx\} thufar \[…\]\{lang=zxx\}\/\n\[…\]\{lang=zxx\}\/\nahi\n/,
+        /lang=khaz enc=k work=lore-thelay-1\}\n\[…\]\{lang=zxx\} thufar \[…\]\{lang=zxx\}\/\n\[…\]\{lang=zxx\}\/\nahi\n/,
     );
     assert.deepEqual(verseContent(text), verseContent(gap));
     const other = gap.replace("1 […]\n", "1 [stray text]\n");
     assert.match(
-        convertNote("a.md", other, { target366: true }).findings[0],
+        convertNote("a.md", IDENTITY + other, { target366: true }).findings[0],
         /not a column number/,
     );
 });
@@ -288,7 +351,7 @@ test("target-366 carries marks outside the span, gap spellings and English gap r
 2 […]{lang=zxx}
 :::
 `;
-    const { text, findings } = convertNote("a.md", note, { target366: true });
+    const { text, findings } = convertNote("a.md", IDENTITY + note, { target366: true });
     assert.deepEqual(findings, []);
     const [english, original] = text.split(":::\n\n");
     assert.match(
@@ -297,7 +360,7 @@ test("target-366 carries marks outside the span, gap spellings and English gap r
     );
     assert.match(
         original,
-        /lang=khaz enc=k work=a-1\}\n\.gaz khumad\/\n…halib baval…\/\n\[…\]\{lang=zxx\}\/\n\[…\]\{lang=zxx\}\n/,
+        /lang=khaz enc=k work=lore-thelay-1\}\n\.gaz khumad\/\n…halib baval…\/\n\[…\]\{lang=zxx\}\/\n\[…\]\{lang=zxx\}\n/,
     );
     assert.deepEqual(verseContent(text), verseContent(note));
 });
@@ -310,7 +373,7 @@ test("target-366 keeps a note's own gap spelling when it is consistent", () => {
 :::
 `;
     assert.match(
-        convertNote("a.md", note, { target366: true }).text,
+        convertNote("a.md", IDENTITY + note, { target366: true }).text,
         /\[\\\[…\\\]\]\{lang=zxx\} ahi\n/,
     );
 });
@@ -322,7 +385,10 @@ test("an unscripted original keeps an English or embedded span and refuses alter
 2 [Other Chief]{lang=en}[ malwen malwen malwen.]{lang=varo}
 :::
 `;
-    const { text, findings } = convertNote("a.md", note, { target366: true });
+    const { text, findings } = convertNote("a.md", IDENTITY + note, { target366: true });
     assert.deepEqual(findings, []);
-    assert.match(text, /lang=varo work=a-1\}\n\[Other Chief\]\{lang=en\} malwen malwen malwen\.\n/);
+    assert.match(
+        text,
+        /lang=varo work=lore-thelay-1\}\n\[Other Chief\]\{lang=en\} malwen malwen malwen\.\n/,
+    );
 });
