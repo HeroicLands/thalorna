@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Officer of the Hall
         description: >-
-          The judge, the captain of the retinue or the keeper of the granary, who holds a post at the prince's pleasure.
+          The judge, the captain of the retinue or the keeper of the granary or the reeve of the pass market, who holds a post at the prince's pleasure.
       - level: 4
         title: Prince
         description: >-
@@ -45,6 +45,8 @@ data:
         Commands the riders sworn to the prince's hall and the garrison of the seat.
       Keeper of the Princely Granary: >-
         Answers for the prince's stores and counts them against what the monasteries hold.
+      Reeve of the Pass Market: >-
+        Keeps the toll on every wagon through the south gate of Tveskavesh and the order of its stables.
   seat: zhtvsh
   population: null
   territorial_population: 650000
@@ -133,7 +135,7 @@ The Princedom of Zhitavesh holds the grain lowlands of the black-earth belt, fro
 
 ## How It Is Ruled {#how-it-is-ruled}
 
-The princedom passes in the prince's house, and the prince is [Zhitovod Dobrovodich]{.name data-type="being/npc"}. He holds the landings, the mills, the ferries and the tithe of grain, which he takes in kind, so that his wealth is the sacks in his granary and not the silver in his mint. His hall keeps a retinue of sworn riders under a captain, a judge who rules by the customary law the princely houses share, and a keeper of the princely granary who answers for the stores and counts them against what the monasteries hold. The prince pays each Host in grain and silver at harvest, and the pay is the whole of his hold on them.
+The princedom passes in the prince's house, and the prince is [[being-zhtvddbrvdch|Zhitovod Dobrovodich]]. He holds the landings, the mills, the ferries and the tithe of grain, which he takes in kind, so that his wealth is the sacks in his granary and not the silver in his mint. His hall keeps a retinue of sworn riders under a captain, a judge who rules by the customary law the princely houses share, and a keeper of the princely granary, [[being-dvkrdvdch|Duvek Radovodich]], who answers for the stores and counts them against what the monasteries hold. The prince pays each Host in grain and silver at harvest, and the pay is the whole of his hold on them.
 
 ## Current Situation {#present}
 

@@ -33,7 +33,7 @@ Zhitavesh is a grain town. The prince takes his tithe in kind from the villages 
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The prince, [Zhitovod Dobrovodich]{.name data-type="being/npc"}, holds the town as his seat and lives in the hall. The captain of the retinue commands the riders sworn to the hall and the garrison of the wall, the judge of the hall hears the disputes of the town by the customary law the princely houses share, and the keeper of the princely granary answers for the prince's stores and counts them against what the monastery holds. Order in the square is kept by the retinue's riders, and order in the barns is kept by the monks and by the granary-keepers' own keys. A theft of grain is the gravest charge the judge hears: the thief repays threefold from his own harvest, and a thief with no harvest works the debt off in the prince's fields.
+The prince, [[being-zhtvddbrvdch|Zhitovod Dobrovodich]], holds the town as his seat and lives in the hall. The captain of the retinue commands the riders sworn to the hall and the garrison of the wall, the judge of the hall hears the disputes of the town by the customary law the princely houses share, and the keeper of the princely granary, [[being-dvkrdvdch|Duvek Radovodich]], answers for the prince's stores and counts them against what the monastery holds. Order in the square is kept by the retinue's riders, and order in the barns is kept by the monks and by the granary-keepers' own keys. A theft of grain is the gravest charge the judge hears: the thief repays threefold from his own harvest, and a thief with no harvest works the debt off in the prince's fields.
 
 ## The Present {#present}
 
@@ -41,7 +41,7 @@ The late rain on the eastern fields has made the count the town's whole concern.
 
 ## Where a Party Lodges {#lodging}
 
-The monastery keeps a guest barn for travelers and the poor, with straw, bread and a bowl of porridge, and asks only that a guest work an hour in the yard. The inns of the landing serve the bargemen and the merchant houses' factors: they are loud, dear in the autumn, and full of people who know the price of grain before anyone else. A visitor of rank is lodged at the prince's hall, and everything said at his table is heard by the retinue.
+The monastery, under its starbrat [[being-rdrbskvnch|Radora Boskvanich]], keeps a guest barn for travelers and the poor, with straw, bread and a bowl of porridge, and asks only that a guest work an hour in the yard. The inns of the landing serve the bargemen and the merchant houses' factors: they are loud, dear in the autumn, and full of people who know the price of grain before anyone else. A visitor of rank is lodged at the prince's hall, and everything said at his table is heard by the retinue.
 
 ## History {#history}
 

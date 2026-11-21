@@ -64,7 +64,7 @@ A monk works the land and keeps the hours of Lizelas, and enters the house by ta
 
 ## Leaders {#leaders}
 
-Each house is led by its own abbot or abbess, called a starbrat, chosen by the monks from among themselves. The heads of the houses do not obey a common superior, and they keep the feasts of [[affiliation-lizelas|the faith]] without answering to the Lizena or to any officer of its temple priesthood. They meet when the princes and the Hosts need a mediator both sides trust, and each of them speaks for the network as far as the other heads will let him or her.
+Each house is led by its own abbot or abbess, called a starbrat, chosen by the monks from among themselves. The heads of the houses do not obey a common superior, and they keep the feasts of [[affiliation-lizelas|the faith]] without answering to the Lizena or to any officer of its temple priesthood. They meet when the princes and the Hosts need a mediator both sides trust, and each of them speaks for the network as far as the other heads will let him or her. The starbrat of the great house at [[place-zhtvsh|Zhitavesh]], [[being-rdrbskvnch|Radora Boskvanich]], is the one both princes and Hosts send to first.
 
 ## What It Wants Now {#present}
 
