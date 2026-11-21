@@ -17,6 +17,7 @@ import {
     NOTE_VOCABULARY,
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
+import { beforeEncodingMigration } from "./encoding-preservation.mjs";
 import { notePath } from "./note-index.mjs";
 function note(file) {
     const raw = fs.readFileSync(file, "utf8");
@@ -374,15 +375,110 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
         createHash("sha256")
             .update(typeof value === "string" ? value : JSON.stringify(value))
             .digest("hex");
+    // The established Jurthati rows are the first 339 of the baseline revision.
+    // Each survives unchanged and in order; the only rows set among them are
+    // coined names that the register builds from the same pieces as their words.
+    const established = beforeEncodingMigration(daughter.file, "7dbfd920d").fm.data.words.slice(
+        0,
+        339,
+    );
     assert.equal(
-        digest(daughter.fm.data.words.slice(0, 339)),
+        digest(established),
         "9a9d26a7a03d70038ea897d1156a9b0350aa8c86dfcf554ee601dd7a2207c4c4",
     );
-    const { words: _words, roman: _roman, ...data } = daughter.fm.data;
+    const currentWords = daughter.fm.data.words;
+    const registeredName = (word) =>
+        word.class === "name" &&
+        word.source?.kind === "coined" &&
+        word.built?.length > 0 &&
+        word.built.every((piece) => currentWords.some(({ form }) => form === piece)) &&
+        (daughter.fm.data.register ?? []).some(
+            ({ name, tongue, built }) =>
+                tongue === "jurthati" &&
+                name.normalize("NFC").toLowerCase() === word.form.normalize("NFC") &&
+                JSON.stringify(built) === JSON.stringify(word.built),
+        );
+    let next = 0;
+    for (const word of currentWords) {
+        if (next === established.length) break;
+        if (digest(word) === digest(established[next])) next++;
+        else assert(registeredName(word), `${word.form}: changes or displaces an established row`);
+    }
     assert.equal(
-        digest({ ...daughter.fm, data }),
+        next,
+        established.length,
+        `${established[next]?.form}: established row is missing or changed`,
+    );
+    // The rest of the frontmatter matches its baseline revision, except for
+    // registered names: a register entry that a registered name word builds, and
+    // a given name that is the citation of a name word, inserted or replacing a
+    // given name that cites none.
+    const withoutWords = (fm) => {
+        const { words: _words, roman: _roman, ...data } = fm.data;
+        return { ...fm, data };
+    };
+    const baseline = withoutWords(beforeEncodingMigration(daughter.file, "acf0fbf7d").fm);
+    assert.equal(
+        digest(baseline),
         "5e20b9fae923817df1eff974a62c8f734542fd948f2a2b4767bedc1c4a4bcf07",
     );
+    const current = withoutWords(daughter.fm);
+    const nameWord = (name) =>
+        currentWords.some(
+            (word) =>
+                word.class === "name" &&
+                word.form.normalize("NFC") === name.normalize("NFC").toLowerCase(),
+        );
+    const keepsBaseline = (before, after, allowed, label) => {
+        let kept = 0;
+        for (const [index, entry] of after.entries()) {
+            if (kept < before.length && digest(entry) === digest(before[kept])) {
+                kept++;
+                continue;
+            }
+            assert(allowed(entry), `${label}: ${JSON.stringify(entry)} is not a registered name`);
+            const replaces =
+                kept < before.length &&
+                typeof before[kept] === "string" &&
+                !nameWord(before[kept]) &&
+                (kept + 1 === before.length ?
+                    index + 1 === after.length
+                :   digest(after[index + 1]) === digest(before[kept + 1]));
+            if (replaces) kept++;
+        }
+        assert.equal(kept, before.length, `${label}: ${before[kept]} is missing or changed`);
+    };
+    keepsBaseline(
+        baseline.data.register ?? [],
+        current.data.register ?? [],
+        (entry) =>
+            entry.tongue === "jurthati" &&
+            currentWords.some(
+                (word) =>
+                    word.form.normalize("NFC") === entry.name.normalize("NFC").toLowerCase() &&
+                    registeredName(word),
+            ),
+        "register",
+    );
+    for (const [list, path] of [
+        ["female", ["given", "female"]],
+        ["male", ["given", "male"]],
+        ["house", ["house"]],
+    ]) {
+        const at = (names) => path.reduce((value, key) => value?.[key], names) ?? [];
+        keepsBaseline(
+            at(baseline.data.names),
+            at(current.data.names),
+            (name) => typeof name === "string" && nameWord(name),
+            list,
+        );
+    }
+    const { register: _register, names: currentNames, ...currentRest } = current.data;
+    const { register: _baseRegister, names: baseNames, ...baseRest } = baseline.data;
+    assert.deepEqual({ ...current, data: currentRest }, { ...baseline, data: baseRest });
+    assert.deepEqual(Object.keys(currentNames), Object.keys(baseNames));
+    assert.deepEqual(Object.keys(currentNames.given), Object.keys(baseNames.given));
+    assert.equal(currentNames.pattern, baseNames.pattern);
     assert.equal(
         digest(
             splitFrontmatter(daughter.raw).body.replace(
