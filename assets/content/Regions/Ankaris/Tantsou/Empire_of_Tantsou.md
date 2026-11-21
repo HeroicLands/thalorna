@@ -54,20 +54,26 @@ data:
           The Dragon himself, in whom the celestial administration and the caste order alike find their justification.
     offices:
       Emperor: The Dragon, apex of the celestial administration and warrant of the caste order.
-      Prince: Of the Zhazho, holding a province with its armies and answering to the Emperor alone.
+      Speaker: >-
+        The voice of the throne: hears the question of anyone the Emperor does not receive, whispers it to the Emperor and speaks his answer aloud. Only the Emperor's attendants and the Princes address the Emperor directly.
       Celestial Minister: >-
         Head of a ministry of the imperial administration, which tracks comets and officials with equal rigor.
       Omen-Reader: Tanchei charged with interpreting the heavens for the timing of imperial acts.
       Keeper of the Sacred Texts: Tanchei warden of the canon against which every proposal is measured.
       Caste-Registrar: >-
         Officer of the rolls on which every subject's caste, and therefore every subject's law, is recorded.
+      District Registrar: >-
+        Tanchei officer who keeps one district's rolls under the Caste-Registrar. The registrar is rotated from district to district, and the district's seal passes with the office, never with the person.
+      Governor of Zhowen: >-
+        Officer who holds the capital for the throne: its two shores, its administrative centers and its caste quarters, outside the walls of the enclave.
       Warden of the Bound: Keeper of the Wandwo—their bindings, their assignment and their disposal.
       Commandant: Wohou officer commanding a garrison or a field army.
       Provincial Administrator: Wohou officer holding a district's revenue, courts and corvée.
       Censor of Purity: >-
         Inspector of the ritual purity of provincial officials, and the most feared visitor in any prefecture.
-  seat: null
+  seat: zhowen
   population: 120000000
+  territorial_population: 120000000
   economy: []
   lore: [humanflk]
   parents: []
@@ -88,8 +94,14 @@ That claim is the key to everything else. The celestial bureaucracy of the [[aff
 The throne
 : the Emperor, the **Son of Heaven** (_Tengzhei_), who holds the [[lore-mandatehvn|Mandate of Heaven]] by cosmic appointment and rules by being correctly classified.
 
+The capital
+: [[place-zhowen|Zhowen]], two cities on a wide river with the walled enclave of the Zhazho on the island between them.
+
 The Princes
 : the _Zho Zhei_ of the [[lore-zhazho|Zhazho]], each holding a province with its armies and answering to the Emperor alone; the kingmakers of every succession dispute.
+
+The provinces
+: [[affiliation-wongsenprv|Wongsen]], the richest, on the delta and the coasts; [[affiliation-doulwenprv|Doulwen]] in the west; [[affiliation-kwozhengprv|Kwozheng]] in the north; [[affiliation-mwonouprv|Mwonou]] in the southwest.
 
 The sorcerers
 : the [[lore-wanduo|Wandwo]], property of the imperial family, ranked second of the eight castes and owning nothing.
@@ -111,6 +123,24 @@ The game
 Religion, politics, magic and social rank are one system in Tantsou, viewed from different angles. The Emperor is the celestial bureaucracy's appointed administrator of the mortal plane. His line holds the [[lore-mandatehvn|Mandate of Heaven]] (_Tengwo_), which is a cosmic appointment and not a divine blessing: it grants administrative authority over the empire's classification system, and nothing else. The Son of Heaven does not rule by divine right in the Aureldian sense. He rules by being correctly classified, and a line that loses that correct classification, through dynastic decay, ritual failure or the corruption of its household, loses the Mandate to a line more correctly classified.
 
 Power sits in three places. The Emperor and his household hold the ritual center and the final authority. The Princes, who are [[lore-zhazho|Zhazho]] like the Emperor, hold the provinces and the armies, and they have repeatedly made and unmade emperors in succession disputes. The [[lore-wanduo|Wandwo]], the chattel sorcerers who are the legally owned magical slaves of the imperial family, channel the cosmic energy through bureaucratic forms and are indispensable to every function of government that mortal administration alone cannot perform.
+
+## The Capital and the Provinces {#holdings}
+
+The Emperor reigns from [[place-zhowen|Zhowen]], the capital, and holds the central river basins around it through his own officers. Its Governor keeps the city for the throne, and the Speaker carries every question put to the Emperor by anyone but his attendants and the Princes, whispering it to him and speaking his answer aloud. The rest of the empire is four provinces, each held by a Prince from a seat of his own:
+
+[[affiliation-wongsenprv|Wongsen Province]]
+: the delta of the great rivers and the eastern and southern coasts, about 34 million people, ruled from the port city of [[place-wongsen|Wongsen]]
+
+[[affiliation-mwonouprv|Mwonou Province]]
+: the terraced uplands of the southwest and the passes toward Vedyara, about 26 million, ruled from [[place-mwonou|Mwonou]]
+
+[[affiliation-doulwenprv|Doulwen Province]]
+: the western basins and the passes where the Celestial Road comes in, about 22 million, ruled from [[place-doulwen|Doulwen]]
+
+[[affiliation-kwozhengprv|Kwozheng Province]]
+: the cold north and its marches, about 20 million, ruled from [[place-kwozheng|Kwozheng]]
+
+The throne's own basins hold the remaining 18 million or so. About one person in twenty lives in a town or a city, some six million people in all. Zhowen holds two million of them and the four seats about half a million more; the rest live in the river cities and market towns of every province, each entered in its district's register. Every subject in the empire is on the rolls of a district, and a district registrar, rotated from district to district, keeps them under the Caste-Registrar; the district's seal stays with the office when its holder moves on.
 
 ## The Hierarchy of Castes
 
@@ -152,7 +182,7 @@ Against the order stand the [[lore-infrnlrlms|Infernal Realms]], the zones where
 
 The dynastic record the imperial archive can document begins around 2500 BF and runs through more than a dozen dynasties, each a reassignment of the Mandate from a decaying house to a more correctly classified successor. The Celestial Order traces the same line very much further, to [[lore-greatcnvrg|the Great Convergence]] at the zero of the [Celestial Calendar]{.name data-type="lore/calendar"}; the empire holds both accounts at once and has a doctrine for doing so, set out in [[lore-clndrstrlgy|Calendar and Astrology]]. The most recent reassignment is several centuries old. The present dynasty is in the period its own official historians call mature: past the vigor of its founding centuries, not yet in the terminal corruption that would warrant a transfer of the Mandate, and showing the strains of a late dynasty on every frontier.
 
-Those strains are easy to see. [[affiliation-jenchaiempr|Jenchai]] has been a rebellious province for a full millennium, and no imperial expedition has ever reasserted sovereignty over the archipelago; the imperial position is that it remains a province, and the practical reality is that it is a sovereign kingdom that raids the coast. The northern frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a marchland of watchtowers and garrison colonies that needs constant attention, and beyond it the steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united the tribes of the [Black Wilds]{.name data-type="place/region"} and sent his riders into the northern provinces. The western passes into the [[place-khzryndsrtrgn|Khazrin]] are quiet and expensively garrisoned. Within the empire, caste revolts, Wandwo conspiracies and the manipulations of the [[lore-weizhairui|Wei Zhai Rwi]] occupy the court without pause; the general [[being-tuijawengyan|Tuija Wengyan]], condemned for a disobedience that won the battle it defied, is in open revolt, and the house of [[affiliation-yanchaizhao|Yanchai Zhau]] has staked what is left of its standing on a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]], the Black Lotus Society.
+Those strains are easy to see. [[affiliation-jenchaiempr|Jenchai]] has been a rebellious province for a full millennium, and no imperial expedition has ever reasserted sovereignty over the archipelago; the imperial position is that it remains a province, and the practical reality is that it is a sovereign kingdom that raids the coast. The northern frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a marchland of watchtowers and garrison colonies that needs constant attention, and beyond it the steppe warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united the tribes of the [Black Wilds]{.name data-type="place/region"} and sent his riders into the northern districts. The western passes into the [[place-khzryndsrtrgn|Khazrin]] are quiet and expensively garrisoned. Within the empire, caste revolts, Wandwo conspiracies and the manipulations of the [[lore-weizhairui|Wei Zhai Rwi]] occupy the court without pause; the general [[being-tuijawengyan|Tuija Wengyan]], condemned for a disobedience that won the battle it defied, is in open revolt, and the house of [[affiliation-yanchaizhao|Yanchai Zhau]] has staked what is left of its standing on a secret alliance with the [[affiliation-haluozhao|Ha Lwo Zhau]], the Black Lotus Society.
 
 The Empire's external trade is enormous. It flows west along [[lore-celestialroad|the Celestial Roads]] through the Khazrin toward [[place-midhalnrgn|Midhalión]], and by sea south toward [[place-vedyarargn|Vedyara]]. The bureaucracy taxes, documents and classifies every significant movement of goods; smuggling is a highly developed profession; the port cities keep large foreign merchant quarters, carefully walled and watched. No serious threat has ever come from the west. The real ones have come from within, or from Jenchai, whose "rebellious" status is a thousand-year stalemate of raid and counter-raid.
 
@@ -250,6 +280,9 @@ The Nwitsou are slaves and outcasts, the caste that is not a caste, whose member
 
 [[place-tantsouregin|Tantsou Region]]
 : the regional geography, peoples and culture
+
+[[place-zhowen|Zhowen]]
+: the capital
 
 [[place-jenchairgn|Jenchai Region]]
 : the rebellious eastern archipelago

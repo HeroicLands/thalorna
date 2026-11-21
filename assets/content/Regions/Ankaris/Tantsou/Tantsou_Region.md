@@ -21,7 +21,7 @@ data:
     - {to: nilatir, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
     - {to: sowidwell, bearing: W, mode: land, days: 30}
     - {to: easternstrt, bearing: E, mode: ship, days: 1, terrain: [open-sea]}
-  population: null
+  population: 120000000 # computed from the people of the empire the region carries
   packFolder: tantsou
   government: tantsouempr
   culture: tantsouclt
@@ -59,7 +59,7 @@ Against this ordered cosmos stand the [[lore-infrnlrlms|Infernal Realms]], the z
 
 ## Politics and Power
 
-The political order is the Empire itself. A hereditary Son of Heaven rules through the [[lore-mandatehvn|Mandate of Heaven]], a cosmic appointment, which is a different thing from divine blessing. Beneath him, the Princes (_Zho Zhei_) of the Zhazho hold the provinces and the armies and balance the throne; the Wandwo sorcerers are the imperial family's owned property and indispensable to its governance; and the Tanchei scholars run the administration. The [[lore-weizhairui|Wei Zhai Rwi]], the court's game of political manipulation, is understood as part of imperial statecraft and not as a corruption of it.
+The political order is the Empire itself. A hereditary Son of Heaven rules from the capital of [[place-zhowen|Zhowen]], on one of the great rivers, through the [[lore-mandatehvn|Mandate of Heaven]], a cosmic appointment, which is a different thing from divine blessing. Beneath him, the Princes (_Zho Zhei_) of the Zhazho hold the four provinces and the armies and balance the throne; the Wandwo sorcerers are the imperial family's owned property and indispensable to its governance; and the Tanchei scholars run the administration. The [[lore-weizhairui|Wei Zhai Rwi]], the court's game of political manipulation, is understood as part of imperial statecraft and not as a corruption of it.
 
 No serious threat has ever reached the Empire from the west. Its worst enemies have come from within, in succession crises, caste revolts and Wandwo conspiracies, or from the east, from Jenchai, the breakaway archipelago whose "rebellious" status has been a thousand-year stalemate of raid and counter-raid.
 
@@ -77,12 +77,30 @@ To the southwest, beyond the eastern arc of the Grazian Mountains, contact with 
 
 To the west, beyond the mountain passes, the Khazrin Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
 
-To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the [Black Wilds]{.name data-type="place/region"}, is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern provinces.
+To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the [Black Wilds]{.name data-type="place/region"}, is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern districts.
 
 ## See Also {#see-also}
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the imperial polity of the region
+
+[[place-zhowen|Zhowen]]
+: the imperial capital
+
+[[affiliation-wongsenprv|Wongsen Province]]
+: the delta and the coasts, the richest province
+
+[[affiliation-mwonouprv|Mwonou Province]]
+: the southwestern uplands
+
+[[affiliation-doulwenprv|Doulwen Province]]
+: the west, where the Celestial Road comes in
+
+[[affiliation-kwozhengprv|Kwozheng Province]]
+: the north and its marches
+
+[[place-wongsen|Wongsen]], [[place-mwonou|Mwonou]], [[place-doulwen|Doulwen]] and [[place-kwozheng|Kwozheng]]
+: the seats of the four Princes
 
 [[affiliation-tengwouronglei|Celestial Order]]
 : the pantheon and cosmology

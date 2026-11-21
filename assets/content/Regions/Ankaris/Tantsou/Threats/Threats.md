@@ -12,7 +12,7 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty th
 ## War on the Frontiers
 
 [[being-wogenhenzhuo|Wogen Henzhwo]]
-: the warlord who has united the tribes of the Hwenhatou, the Black Wilds (the [[lore-henhatoutsouclt|Hwenhatoutsou]]), and whose riders are already raiding the northern provinces
+: the warlord who has united the tribes of the Hwenhatou, the Black Wilds (the [[lore-henhatoutsouclt|Hwenhatoutsou]]), and whose riders are already raiding the northern districts
 
 [[doc-extrnlthrts|External Threats]]
 : [[affiliation-jenchaiempr|Jenchai]], the archipelago the empire calls Chaiwong, and the western passes

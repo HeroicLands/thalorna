@@ -5150,7 +5150,10 @@ data:
     - {name: Clerk, tongue: translation}
     - {name: Clerk of Transmission, tongue: translation}
     - {name: Client, tongue: translation}
+    - {name: Colonist, tongue: translation}
     - {name: Commandant, tongue: translation}
+    - {name: Commandant of the Coast, tongue: translation}
+    - {name: Commandant of the Marches, tongue: translation}
     - {name: Committed, tongue: translation}
     - {name: Coordinator, tongue: translation}
     - {name: Copyist, tongue: translation}
@@ -5161,8 +5164,11 @@ data:
     - {name: Dautou Wochai, tongue: tanvuri, built: [dau, tou, wo, chai]}
     - {name: Dependent, tongue: translation}
     - {name: Disowned, tongue: translation}
+    - {name: District Registrar, tongue: translation}
     - {name: Dou Chou, tongue: tanvuri, built: [dou, chou]}
     - {name: Dou Sei, tongue: tanvuri, built: [dou, sei]}
+    - {name: Doulwen, tongue: tanvuri, built: [dou, lwen]}
+    - {name: Doulwen Province, tongue: translation}
     - {name: Douyo, tongue: tanvuri, built: [dou, yo]}
     - {name: Douzhi, tongue: tanvuri, built: [dou, zhi]}
     - {name: Elder, tongue: translation}
@@ -5175,10 +5181,12 @@ data:
     - {name: Fawo, tongue: tanvuri, built: [fa, wo]}
     - {name: "Fawo, The Minister of Material Fortune", tongue: translation}
     - {name: Five Elemental Lords, tongue: translation}
+    - {name: Foreign Resident, tongue: translation}
     - {name: Gap-Maker, tongue: translation}
     - {name: Genealogist, tongue: translation}
     - {name: Genhwen, tongue: tanvuri, built: [gen, hwen]}
     - {name: "Genhwen, The Minister of Entropy", tongue: translation}
+    - {name: Governor of Zhowen, tongue: translation}
     - {name: Halei, tongue: tanvuri, built: [ha, lei]}
     - {name: Ha Lwo Zhau, tongue: tanvuri, built: [ha, lwo, zhau]}
     - {name: Handler, tongue: translation}
@@ -5187,6 +5195,7 @@ data:
     - {name: Ha Zhau, tongue: tanvuri, built: [ha, zhau]}
     - {name: Head of the House, tongue: translation}
     - {name: Heir, tongue: translation}
+    - {name: Household, tongue: translation}
     - {name: Hwenhatoutsou, tongue: tanvuri, built: [hwen, ha, tou, tsou]}
     - {name: Hwen Sei, tongue: tanvuri, built: [hwen, sei]}
     - {name: Hwenwo, tongue: tanvuri, built: [hwen, wo]}
@@ -5205,15 +5214,21 @@ data:
     - {name: Jade Fan Dance, tongue: translation}
     - {name: Jenshou, tongue: tanvuri, built: [jen, shou]}
     - {name: Keeper of Leverage, tongue: translation}
+    - {name: Keeper of the District Granaries, tongue: translation}
     - {name: Keeper of the Forms, tongue: translation}
+    - {name: Keeper of the Granaries, tongue: translation}
     - {name: Keeper of the Hall, tongue: translation}
+    - {name: Keeper of the Muster Rolls, tongue: translation}
     - {name: Keeper of the Sacred Texts, tongue: translation}
     - {name: Kin by Blood, tongue: translation}
     - {name: Kin by Marriage, tongue: translation}
+    - {name: Kwozheng, tongue: tanvuri, built: [kwo, zheng]}
+    - {name: Kwozheng Province, tongue: translation}
     - {name: Lanei, tongue: tanvuri, built: [la, nei]}
     - {name: Lay, tongue: translation}
     - {name: Lengwo, tongue: tanvuri, built: [leng, wo]}
     - {name: Liberator, tongue: translation}
+    - {name: Magistrate, tongue: translation}
     - {name: Mandate of Heaven, tongue: translation}
     - {name: Marriage, tongue: translation}
     - {name: Marriage-Broker, tongue: translation}
@@ -5224,6 +5239,8 @@ data:
     - {name: Mei Sei, tongue: tanvuri, built: [mei, sei]}
     - {name: Meiwo, tongue: tanvuri, built: [mei, wo]}
     - {name: "Meiwo, The Minister of Dreams", tongue: translation}
+    - {name: Mwonou, tongue: tanvuri, built: [mwo, nou]}
+    - {name: Mwonou Province, tongue: translation}
     - {name: Neitsai, tongue: tanvuri, built: [nei, tsai]}
     - {name: "Neitsai, The Minister of Continuity", tongue: translation}
     - {name: Nwitsou, tongue: tanvuri, built: [nwi, tsou]}
@@ -5236,6 +5253,7 @@ data:
     - {name: Nwotsou Rwi, tongue: tanvuri, built: [nwo, tsou, rwi]}
     - {name: Nwowo, tongue: tanvuri, built: [nwo, wo]}
     - {name: "Nwowo, The Minister of Dissolution", tongue: translation}
+    - {name: Officer, tongue: translation}
     - {name: Omen-Reader, tongue: translation}
     - {name: Outlaw, tongue: translation}
     - {name: Personal Names, tongue: translation}
@@ -5277,6 +5295,7 @@ data:
     - {name: "Ritual: Zhausou", tongue: translation}
     - {name: "Ritual: Zhinho", tongue: translation}
     - {name: "Ritual: Zhoushou Zho", tongue: translation}
+    - {name: Road Assessor, tongue: translation}
     - {name: Seal-Forger, tongue: translation}
     - {name: Seal-Holder, tongue: translation}
     - {name: Second, tongue: translation}
@@ -5286,8 +5305,10 @@ data:
     - {name: Shopkeeper, tongue: translation}
     - {name: Shwonong, tongue: tanvuri, built: [shwo, nong]}
     - {name: Singwou, tongue: tanvuri, built: [sing, wou]}
+    - {name: Speaker, tongue: translation}
     - {name: Steward, tongue: translation}
     - {name: Struck from the Rolls, tongue: translation}
+    - {name: Subject, tongue: translation}
     - {name: Sympathizer, tongue: translation}
     - {name: Tanchei, tongue: tanvuri, built: [tan, chei]}
     - {name: Tantsou, tongue: tanvuri, built: [tan, tsou]}
@@ -5347,7 +5368,9 @@ data:
     - {name: The Unsorted, tongue: translation}
     - {name: The Walking Contradiction, tongue: translation}
     - {name: The Youweng, tongue: translation}
+    - {name: Traveler, tongue: translation}
     - {name: Treasurer, tongue: translation}
+    - {name: Tributary Lord, tongue: translation}
     - {name: Tsaihwo, tongue: tanvuri, built: [tsai, hwo]}
     - {name: Tsaiken, tongue: tanvuri, built: [tsai, ken]}
     - {name: Tsai Sei, tongue: tanvuri, built: [tsai, sei]}
@@ -5360,6 +5383,9 @@ data:
     - {name: Wantou, tongue: tanvuri, built: [wan, tou]}
     - {name: "Wantou, The Keeper of the Celestial Archive", tongue: translation}
     - {name: Warden of the Bound, tongue: translation}
+    - {name: Warden of the Foreign Quarter, tongue: translation}
+    - {name: Warden of the Passes, tongue: translation}
+    - {name: Warden of the Southern Passes, tongue: translation}
     - {name: Watcher, tongue: translation}
     - {name: Watsai, tongue: tanvuri, built: [wa, tsai]}
     - {name: Wei Zhai Rwi, tongue: tanvuri, built: [wei, zhai, rwi]}
@@ -5371,6 +5397,8 @@ data:
     - {name: Wogen Henzhwo, tongue: tanvuri, built: [wo, gen, hen, zhwo]}
     - {name: Wohou, tongue: tanvuri, built: [wo, hou]}
     - {name: Wojing Ja, tongue: tanvuri, built: [wo, jing, ja]}
+    - {name: Wongsen, tongue: tanvuri, built: [wong, sen]}
+    - {name: Wongsen Province, tongue: translation}
     - {name: Wouchei, tongue: tanvuri, built: [wou, chei]}
     - {name: Yanchai Zhau, tongue: tanvuri, built: [yan, chai, zhau]}
     - {name: Yolei, tongue: tanvuri, built: [yo, lei]}
@@ -5385,6 +5413,7 @@ data:
     - {name: "Zhinho, The Minister of Fire", tongue: translation}
     - {name: Zho Zhei, tongue: tanvuri, built: [zho, zhei]}
     - {name: Zhoushou Zho, tongue: tanvuri, built: [zhou, shou, zho]}
+    - {name: Zhowen, tongue: tanvuri, built: [zho, wen]}
     - {name: Zhowo, tongue: tanvuri, built: [zho, wo]}
     - {name: Zhozhwo, tongue: tanvuri, built: [zho, zhwo]}
   retired:
@@ -6189,7 +6218,7 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Dauzhwo           | Great-Lord                 | Great Lord (Jenchai)  |
 | Shwizhwo          | Lesser-Lord                | Lesser Lord (Jenchai) |
 | Teng Gwi          | Heaven-Official            | Celestial Minister    |
-| Gwichai           | Office-Mountain            | Provincial Governor   |
+| Gwichai           | Office-Mountain            | Magistrate            |
 | Zhaukwo           | Clan-Ancient               | Clan Elder            |
 | Zhaulou           | Clan-Law                   | Caste Laws            |
 

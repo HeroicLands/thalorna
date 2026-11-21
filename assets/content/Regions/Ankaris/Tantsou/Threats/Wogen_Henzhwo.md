@@ -35,7 +35,7 @@ A broad, unhurried man in a felt coat sewn with iron plates sits his horse a lit
 
 # Dossier {#dossier}
 
-Wogen Henzhwo, called the Master Tiger of the Steppes, is the warlord of the [Hwenhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the marches, a country where [[lore-grukarfolk|Grukar]] nests also lie. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern provinces. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
+Wogen Henzhwo, called the Master Tiger of the Steppes, is the warlord of the [Hwenhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the marches, a country where [[lore-grukarfolk|Grukar]] nests also lie. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern districts. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
 
 ## Background
 
@@ -78,7 +78,7 @@ The [Hwenhatou confederation]{.name data-type="affiliation/polity"}
 ## Plot Hooks
 
 The Burned Granaries
-: A chain of supply depots in the northern provinces burns in one night. The garrison commander blames the riders; the party finds a forged order that emptied the guard the night before, and the forger was someone inside the province.
+: A chain of supply depots in the northern districts burns in one night. The garrison commander blames the riders; the party finds a forged order that emptied the guard the night before, and the forger was someone inside the province.
 
 An Offer to the Exiles
 : Wogen's envoys are seeking out exiled Wohou and rebel factions, offering them places in the realm he means to carve from the north. One of them has approached [[being-tuijawengyan|Tuija Wengyan]], and the empire would pay well to know the answer.
