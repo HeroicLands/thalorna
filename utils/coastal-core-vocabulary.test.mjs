@@ -10,7 +10,11 @@ import YAML from "yaml";
 import { parseAddress, renderAddress } from "@heroiclands/package-build/engine/address";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
-import { WORD_CLASS_BASES, parseWordClass } from "@heroiclands/package-build/engine/word-classes";
+import {
+    WORD_CLASS_BASES,
+    parseWordClass,
+    wordIdentity,
+} from "@heroiclands/package-build/engine/word-classes";
 import { lintNote } from "@heroiclands/package-build/engine/frontmatter-lint";
 import { checkLanguageWords } from "@heroiclands/package-build/engine/language-words";
 import { ENGINE_NOTE_SCHEMAS } from "@heroiclands/package-build/engine/note-schemas";
@@ -82,6 +86,16 @@ const eligible = new Set(
     WORD_CLASS_BASES.filter(({ glossary }) => glossary).map(({ token }) => token),
 );
 const ids = (word) => [word.concept ?? []].flat();
+// The nearest declaration of each form and class, with the depth it is stated at.
+const nearestEntries = (lineage) => {
+    const entries = new Map();
+    for (const [depth, note] of lineage.entries())
+        for (const word of note.fm.data.words) {
+            const key = wordIdentity(word.form, word.class);
+            if (!entries.has(key)) entries.set(key, { word, depth });
+        }
+    return entries.values();
+};
 const nearest = new Map();
 for (const [depth, note] of [language, parent].entries())
     for (const word of note.fm.data.words) {
@@ -148,9 +162,14 @@ test("nearest NFC definitions and their actual senses reach the daughter diction
     const dictionary = dictionaryAndTermRows(records).dictionary.filter(
         ({ language }) => language === "thalorna-note-skill-provnzlng",
     );
-    for (const { word, depth } of nearest.values()) {
+    // A dictionary entry is one form in one class: an ancestor homograph of
+    // another class, such as Vylari adverb ir arurkis sedon beside the
+    // Provenzal particle, inherits on its own row.
+    for (const { word, depth } of nearestEntries([language, parent])) {
         if (!eligible.has(parseWordClass(word.class).base)) continue;
-        const row = dictionary.find(({ name }) => name === word.form.normalize("NFC"));
+        const row = dictionary.find(
+            (row) => wordIdentity(row.name, row.class) === wordIdentity(word.form, word.class),
+        );
         assert(row, word.form);
         assert.equal(row.depth, depth, word.form);
         assert.equal(row.class, word.class, word.form);
@@ -427,9 +446,13 @@ test("Tarveni nearest dictionary definitions retain their actual classes and sen
     const rows = dictionaryAndTermRows(tarveniRecords).dictionary.filter(
         ({ language: owner }) => owner === canonical(`${tarveni.fm.type}-${tarveni.fm.shortcode}`),
     );
-    for (const { word, depth } of tarveniNearest.values()) {
+    // An ancestor homograph of another class, such as Vylari masculine noun
+    // dekazu beside the Tarveni neuter, inherits on its own row.
+    for (const { word, depth } of nearestEntries([tarveni, parent])) {
         if (!eligible.has(parseWordClass(word.class).base)) continue;
-        const row = rows.find(({ name }) => name === word.form.normalize("NFC"));
+        const row = rows.find(
+            (row) => wordIdentity(row.name, row.class) === wordIdentity(word.form, word.class),
+        );
         assert(row, word.form);
         assert.equal(row.depth, depth, word.form);
         assert.equal(row.class, word.class, word.form);

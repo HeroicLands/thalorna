@@ -10,7 +10,11 @@ import YAML from "yaml";
 import { parseAddress, renderAddress } from "@heroiclands/package-build/engine/address";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
-import { WORD_CLASS_BASES, parseWordClass } from "@heroiclands/package-build/engine/word-classes";
+import {
+    WORD_CLASS_BASES,
+    parseWordClass,
+    wordIdentity,
+} from "@heroiclands/package-build/engine/word-classes";
 import { lintNote } from "@heroiclands/package-build/engine/frontmatter-lint";
 import { checkLanguageWords } from "@heroiclands/package-build/engine/language-words";
 import { ENGINE_NOTE_SCHEMAS } from "@heroiclands/package-build/engine/note-schemas";
@@ -191,10 +195,22 @@ test("Élavendri publishes nearest meanings and recognizes inherited words in ma
         await import("@heroiclands/package-build/engine/content-scripts");
     const sections = lexicalSectionsFor(records).get("thalorna-note-skill-elvndrlng");
     const rendered = insertLexicalSections(splitFrontmatter(language.raw).body, sections).markdown;
-    const printable = [...nearest.values()].filter(({ word }) =>
-        eligible.has(parseWordClass(word.class).base),
+    // The dictionary prints one entry for each form and class the language or
+    // its parent states, and one more for each spelling shared by several
+    // classes: the group that a spelling-only link reaches.
+    const printable = new Map();
+    for (const note of [language, parent])
+        for (const word of note.fm.data.words)
+            if (eligible.has(parseWordClass(word.class).base))
+                printable.set(wordIdentity(word.form, word.class), word.form.normalize("NFC"));
+    const classesBySpelling = new Map();
+    for (const form of printable.values())
+        classesBySpelling.set(form, (classesBySpelling.get(form) ?? 0) + 1);
+    const homographGroups = [...classesBySpelling.values()].filter((count) => count > 1).length;
+    assert.equal(
+        [...rendered.matchAll(/\.dictionary-entry\}/g)].length,
+        printable.size + homographGroups,
     );
-    assert.equal([...rendered.matchAll(/\.dictionary-entry\}/g)].length, printable.length);
     for (const { word } of ordinary) {
         assert(rendered.includes(`**${word.form}**`), `visible headword: ${word.form}`);
         for (const sense of [word.gloss].flat())
