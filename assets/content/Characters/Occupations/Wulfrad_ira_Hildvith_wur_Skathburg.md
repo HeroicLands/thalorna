@@ -3,6 +3,7 @@ shortcode: wlfrdhldvth
 name: {full: Wulfrád ira Hildvith wur Skathburg}
 type: being
 subType: npc
+description: "The sapper who keeps Skathburg's double timber ring in repair and trains the war-band's recruits against Grukar raids."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -434,17 +435,11 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-The Man-at-Arms (Sapper)'s Dilemma
-: Wulfrád faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+Watchmen or Repairs
+: The War Chief wants every family to keep a watchman on Skathburg's outer wall, and the Other Chief says that leaves too few hands to repair houses and bring in stores. Wulfrád trains the recruits and needs workers for the ring.
 
-Old Grudges
-: Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Wet Season
+: Rain sets in, and a stretch of the double ring needs a method Wulfrád has not used before while Grukar raiders probe it in small numbers.
 
-Echoes of the Past
-: Something from Wulfrád's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Wulfrád depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Wulfrád the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Daughter Clearing
+: Skathburg is nearing the size at which a daughter clearing would be customary, and nobody agrees who could safely leave. A new clearing needs a wall, and Wulfrád is the village's sapper.

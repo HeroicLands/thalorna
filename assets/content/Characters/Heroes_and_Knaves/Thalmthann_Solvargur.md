@@ -3,6 +3,7 @@ shortcode: thlmthnslvrgr
 name: {full: Thalmthann Solvargur, given: Thalmthann, clan: Solvargur}
 type: being
 subType: character
+description: "A master glassworker of the Glassworkers' Guild, known for clear, precisely formed vessels and for holding to traditional methods."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -519,20 +520,20 @@ Glassworkers' Guild of Vithgard
 
 ## Plot Hooks
 
-The Impossible Commission
-: - A mysterious patron of great wealth approaches Thalmthann Solvargur with an extraordinary request: create a piece of glasswork that no one has ever successfully made before—something technically demanding that requires new methods to accomplish, but also something of great beauty that challenges his rigid aesthetic principles. The commission offers enough wealth to secure his family's future, but accepting requires him to embrace creative risk in ways he's avoided for decades.
+A Glass No One Has Made
+: A mysterious patron of great wealth approaches Thalmthann Solvargur with an extraordinary request: create a piece of glasswork that no one has ever successfully made before—something technically demanding that requires new methods to accomplish, but also something of great beauty that challenges his rigid aesthetic principles. The commission offers enough wealth to secure his family's future, but accepting requires him to embrace creative risk in ways he's avoided for decades.
 
 The Apprentice's Betrayal
-: - One of Thalmthann's most accomplished apprentices, trained for years in his methods, announces that they're leaving to study under **Artisan Ilthann**, seeking to learn contemporary techniques that Thalmthann refuses to teach. The apprentice asks for Thalmthann's blessing, but he refuses, viewing the defection as a betrayal of everything the apprenticeship represented. The crisis forces Thalmthann to confront whether his resistance to change is wisdom or merely fear.
+: One of Thalmthann's most accomplished apprentices, trained for years in his methods, announces that they're leaving to study under **Artisan Ilthann**, seeking to learn contemporary techniques that Thalmthann refuses to teach. The apprentice asks for Thalmthann's blessing, but he refuses, viewing the defection as a betrayal of everything the apprenticeship represented. The crisis forces Thalmthann to confront whether his resistance to change is wisdom or merely fear.
 
 The Archaeological Fragment
-: - While working with materials delivered to his workshop, Thalmthann discovers fragments of ancient glasswork—masterpieces from centuries past that suggest technical methods and aesthetic approaches that seem completely foreign to what is known today. He becomes obsessed with understanding how these pieces were created, realizing that perhaps his entire approach to glassworking is based on incomplete knowledge, and that what he thought was established tradition might actually be a degradation of finer ancient practices.
+: While working with materials delivered to his workshop, Thalmthann discovers fragments of ancient glasswork—masterpieces from centuries past that suggest technical methods and aesthetic approaches that seem completely foreign to what is known today. He becomes obsessed with understanding how these pieces were created, realizing that perhaps his entire approach to glassworking is based on incomplete knowledge, and that what he thought was established tradition might actually be a degradation of finer ancient practices.
 
 The Guild's Succession Crisis
-: - The current Master of the Glassworkers' Guild announces retirement, and the position is open for election. Thalmthann is asked to run by senior members who respect his traditional values, but he'd be directly opposed by younger craftspeople championing new methods. The campaign forces him to articulate what glassworking is, what values the craft should preserve, and whether tradition or novelty should guide the guild's future. The conflict threatens to split the organization.
+: The current Master of the Glassworkers' Guild announces retirement, and the position is open for election. Thalmthann is asked to run by senior members who respect his traditional values, but he'd be directly opposed by younger craftspeople championing new methods. The campaign forces him to articulate what glassworking is, what values the craft should preserve, and whether tradition or novelty should guide the guild's future. The conflict threatens to split the organization.
 
 The Visitor from Abroad
-: - A foreign glassworker of extraordinary skill arrives in Vithgard, carrying techniques and aesthetic principles from distant kingdoms. This visitor respects Thalmthann's mastery but gently challenges his assumption that traditional methods are fixed and unchanging—proposing instead that tradition itself is living, evolving, and strengthened by the addition of new knowledge rather than threatened by it. The encounter forces Thalmthann to reconsider fundamental assumptions about what tradition actually means and whether evolution necessarily represents degradation.
+: A foreign glassworker of extraordinary skill arrives in Vithgard, carrying techniques and aesthetic principles from distant kingdoms. This visitor respects Thalmthann's mastery but gently challenges his assumption that traditional methods are fixed and unchanging—proposing instead that tradition itself is living, evolving, and strengthened by the addition of new knowledge rather than threatened by it. The encounter forces Thalmthann to reconsider fundamental assumptions about what tradition actually means and whether evolution necessarily represents degradation.
 
 The Crisis of Quality
-: - Thalmthann discovers that a rival glassworker is selling cheap, poorly-made glass under a forged mark bearing his own name. Customers are being defrauded, and his hard-earned reputation for quality is being destroyed. Pursuit of justice draws him into legal and political entanglements, forcing him into courts and councils he does not understand. More troubling, he discovers that economic pressures are driving younger craftspeople to these shortcuts because traditional quality work is becoming economically unviable. He's forced to confront whether his standards of quality can survive in a market increasingly valuing affordability over excellence.
+: Thalmthann discovers that a rival glassworker is selling cheap, poorly-made glass under a forged mark bearing his own name. Customers are being defrauded, and his hard-earned reputation for quality is being destroyed. Pursuit of justice draws him into legal and political entanglements, forcing him into courts and councils he does not understand. More troubling, he discovers that economic pressures are driving younger craftspeople to these shortcuts because traditional quality work is becoming economically unviable. He's forced to confront whether his standards of quality can survive in a market increasingly valuing affordability over excellence.

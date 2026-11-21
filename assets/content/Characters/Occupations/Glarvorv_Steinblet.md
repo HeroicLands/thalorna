@@ -3,6 +3,7 @@ shortcode: glrvrvstnblt
 name: {full: Glarvorv Steinblet}
 type: being
 subType: npc
+description: "A perfumer of Dvalgheim who turns resins into bold scents that couriers carry along the inland road."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -437,17 +438,11 @@ Few; generally well-respected but some traditionalists may disapprove of his met
 
 ## Plot Hooks
 
-The Perfumer's Dilemma
-: Glarvorv faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+A Short-Handed Watch
+: A king's rider reaches Dvalgheim to change horses and finds the relief-post short-handed, with no fresh watchman to take his charge. The settlement answers together for a traveler asleep on the road, so whoever is oldest in the room asks Glarvorv, whose goods ride out with the couriers, to stand the watch himself.
 
-Old Grudges
-: Few; generally well-respected but some traditionalists may disapprove of his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Two Kinds of Patron
+: A noble and a traditionalist who disapproves of his methods reach Glarvorv's workshop on the same day, and the scent the noble wants is the one the traditionalist objects to.
 
-Echoes of the Past
-: Something from Glarvorv's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Nordheim threaten to upend the social order that Glarvorv depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Glarvorv the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Plants From Distant Lands
+: A courier brings Glarvorv a rare plant from a distant land and asks for a scent made from it.

@@ -3,6 +3,7 @@ shortcode: edrgrsndryth
 name: {full: Edrigar ira Sundreth wur Falkenstein}
 type: being
 subType: npc
+description: "A miner who works the stony ground near Falkenstein with relatives and neighbors and sells ore to the village smiths."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -435,17 +436,11 @@ Few; generally respected but sometimes viewed as old-fashioned.
 
 ## Plot Hooks
 
-The Miner's Dilemma
-: Edrigar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+The Seam Near the Ring
+: A promising seam turns up on the stony ground near Falkenstein. Edrigar draws help by bargain rather than by order, and the neighbors who dig it hold only a bargain once the seam starts to pay.
 
-Old Grudges
-: Few; generally respected but sometimes viewed as old-fashioned. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Smiths' Ore
+: [[being-hrmndgrwld|Harmund ira Garwald wur Falkenstein]], one of the smiths who take Edrigar's ore, finds the latest load too poor for a blade. The seam has not changed, and Edrigar wants the ground looked at before he is written off as old-fashioned.
 
-Echoes of the Past
-: Something from Edrigar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Edrigar depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Edrigar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+What the Young Miners Learn
+: Edrigar teaches younger miners the safety he fought for, and one of them wants a faster way. Edrigar is slowed by age and resistant to change, and he asks a party to go underground with the young miner and judge whether the new way is sound.

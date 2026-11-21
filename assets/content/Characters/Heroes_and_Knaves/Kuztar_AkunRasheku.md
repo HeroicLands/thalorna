@@ -3,6 +3,7 @@ shortcode: quztarqnrshq
 name: {full: Kuztar Akun'Rasheku, given: Kuztar, clan: Akun'Rasheku}
 type: being
 subType: character
+description: "A master thatcher from a family of thatchers in the Empire of Au'Khelathu, whose roofs set the standard for his region and who teaches younger thatchers."
 tags: [heroes-and-knaves, common-folk]
 data:
   banner: khelathubnr
@@ -527,17 +528,17 @@ Lord [[being-gezhtymnkhz2|Gezehutyu Menkhezerre]]
 
 ## Plot Hooks
 
-The Temple's Silent Roof
+Damage Under the Temple Roof
 : Kuztar is commissioned for what should be a routine maintenance project on the great Lut-Uzn'era, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
 
-The Apprentice's Betrayal and Redemption
+Aqasi's Failed Roof
 : One of Kuztar's most talented students, a young man named [[being-aqasi|Aqasi]], secretly takes a lucrative contract with a wealthy merchant known for cutting corners on quality. When one of Aqasi's roofs fails catastrophically in a storm, injuring multiple people, Kuztar can distance himself from the scandal or risk his own reputation by publicly supporting his student through the consequences.
 
-The Architectural Secret
+Mathematics in the Temple Roofwork
 : While working on repairs to an ancient temple, Kuztar discovers evidence that the original builders encoded mathematical and astronomical knowledge into the structure and angles of their roofwork. This discovery suggests that traditional thatch-making may have sacred or mystical dimensions lost to time. Kuztar becomes obsessed with decoding this knowledge, believing it represents a direct connection to the masters who preceded him.
 
 The Trade War Over Resources
 : A conflict between different reed suppliers in the delta threatens the supply of reed that has served Kuztar for decades. When one supplier allies with younger thatchers to monopolize the finest reed stock, Kuztar is drawn into the politics he has always avoided, and may have to take a side in a trade dispute to preserve his craft.
 
-The Final Masterwork
+A Temple-Palace to Close His Life
 : A distant noble, hearing of Kuztar's age and skill, offers him an extraordinary commission—to design and oversee the construction of the most ambitious thatched structure ever attempted, a hybrid temple-palace that would represent the apex of the art form. The project would occupy the last years of his life and cement his legacy forever—but success is not guaranteed, and failure could tarnish his reputation, while refusal means accepting that his greatest work has already been created.

@@ -3,6 +3,7 @@ shortcode: knlthvrstrmrt
 name: {full: Knulthvir Stormrót}
 type: being
 subType: npc
+description: "A noble-born litigant of Thraldfjord and member of the Litigants' Guild, who argues contract disputes and property law."
 tags: [draft, administration]
 data:
   icon: icon-person
@@ -436,17 +437,11 @@ A few rival litigants who envy his success.
 
 ## Plot Hooks
 
-The Litigant's Dilemma
-: Knulthvir faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+The Drowned Kinsman's Nets
+: The dispute over a drowned kinsman's nets comes before the district's Lawspeaker again without a ruling either side accepts. Knulthvir needs witnesses from [[place-thraldfjord|Thraldfjord]]'s fishing households.
 
-Old Grudges
-: A few rival litigants who envy his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Only Record of the Drowning
+: The fjord's drownings are recorded nowhere but in which households will not marry into which others. Knulthvir has to put those refusals before the Lawspeaker as the proof of whose kinsman was lost.
 
-Echoes of the Past
-: Something from Knulthvir's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Nordheim threaten to upend the social order that Knulthvir depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Knulthvir the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Case Reopened
+: One of the rival litigants who envy his success reopens a contract dispute he has already won, and the ruling has to be argued again before the Lawspeaker.

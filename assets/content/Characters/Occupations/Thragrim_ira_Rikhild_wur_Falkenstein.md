@@ -3,6 +3,7 @@ shortcode: thrgrmrkhld
 name: {full: Thragrim ira Rikhild wur Falkenstein}
 type: being
 subType: npc
+description: "A timberwright who chooses and shapes timber near Falkenstein for builders and boatwrights and prefers to work alone."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -433,17 +434,17 @@ Few, though some villagers find his solitary nature strange.
 
 ## Plot Hooks
 
-The Timberwright's Dilemma
+Green Timber
 : A carpenter presses Thragrim for green timber he knows will fail, and he has to choose between the sale and his name.
 
-Old Grudges
+Blamed for the Woods
 : The villagers who find him strange begin to blame him when something goes wrong in the woods.
 
-Echoes of the Past
-: Something from Thragrim's earlier life resurfaces and has to be settled, solitude or no.
+Posts for the Palisade
+: The palisade needs replacing again, and the War Chief's drum calls for posts before the next muster. Thragrim will not cut sound timber in a rush, and the fort has no time to wait for it to be cut at the right season.
 
-Shifting Winds
+The Timber Paths Cut Off
 : A feud cuts off the timber paths and threatens the trade Thragrim depends upon, and he can adapt, resist, or leave.
 
-The Opportunity
-: A chance encounter offers Thragrim work beyond anything the village has paid him, and the price is not named up front.
+Timber for the Warband
+: [[being-hrmndgrwld|Harmund ira Garwald wur Falkenstein]], who arms the warband, asks Thragrim for a large order of timber before a Varokh counter-raid sets out. The pay is better than any household has offered, and filling it means working to Harmund's orders instead of alone.

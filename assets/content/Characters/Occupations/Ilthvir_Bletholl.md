@@ -3,6 +3,7 @@ shortcode: ilthvrblthl
 name: {full: Ilthvir Bletholl}
 type: being
 subType: npc
+description: "A yeoman archer of Raltholm, one of the bundi who owe the fort-watch, who scouts and shoots for the local lord."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -437,17 +438,17 @@ Poachers and rival archers challenge his reputation.
 
 ## Plot Hooks
 
-The Yeoman Archer's Dilemma
+A Poacher He Knows
 : The lord orders Ilthvir to shoot a poacher on sight, and the man in his sights is one he knows.
 
-Old Grudges
+The Rival at the Butts
 : A rival archer who lost to Ilthvir at the butts has challenged him to shoot again, with the lord's favor as the stake.
 
-Echoes of the Past
-: A poacher Ilthvir once ran off the lord's land has come back.
+A Thin Watch
+: A hard winter costs the horn part of its answer, and the fort-watch the bundi owe falls on fewer men. Ilthvir's turns on the watch crowd out his scouting for the lord.
 
-Shifting Winds
-: Political change in Nordheim threatens the lord Ilthvir serves, and he can adapt, resist, or leave.
+The Horn and the Trail
+: The hersvald's horn sounds for the muster while Ilthvir is out scouting the lord's land. He can finish the scouting or answer the horn.
 
-The Opportunity
+An Offer from a Greater Lord
 : A greater lord who saw Ilthvir shoot offers him a place among his own archers, and taking it would mean leaving the militia and the lord who made him.

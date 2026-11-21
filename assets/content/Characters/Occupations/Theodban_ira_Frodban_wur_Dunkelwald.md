@@ -3,6 +3,7 @@ shortcode: thdrcfrdbn
 name: {full: Theodbán ira Frodbán wur Dunkelwald}
 type: being
 subType: npc
+description: "A miner of Dunkelwald who works a small vein near the village with kin and hired hands and sells its metal to the village's smiths and traders."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -433,17 +434,11 @@ Few; generally well-respected among peers.
 
 ## Plot Hooks
 
-The Miner's Dilemma
-: Theodbán faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+A Vein Too Small to Notice
+: The small vein Theodbán works keeps Dunkelwald in tools because it is too small to draw the attention a real mine would. Anyone who makes a show of buying its metal, or asks where it comes from, changes that.
 
-Old Grudges
-: Few; generally well-respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Whose Ground
+: Theodbán negotiates his access with the households that use the ground, and no union or mining company stands above him. In Dunkelwald the council's vote turns on the word of [Eldrún ira Vethskald]{.name data-type="being/npc"}, the Shaman, before anyone else's.
 
-Echoes of the Past
-: Something from Theodbán's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Theodbán depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Theodbán the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Fewer Hands Every Year
+: Younger Varokh keep leaving Dunkelwald for a landing village's trade and a War Chief's warband, and Theodbán works with kin and hired hands, so each pair of hands that goes is hard to replace.

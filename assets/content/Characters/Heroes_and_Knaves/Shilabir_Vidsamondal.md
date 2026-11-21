@@ -3,6 +3,7 @@ shortcode: shlbrvdsmndl
 name: {full: Shilabir Vidsamondal, given: Shilabir, clan: Vidsamondal, vedy: [shilu]}
 type: being
 subType: character
+description: "A senior mining foreman of Danurkot, trained by a master miner, known for his strength, his careful reading of the stone and his strict safety rules."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -535,7 +536,7 @@ The Merchant Collective
 
 ## Plot Hooks
 
-The Collapse That Changes Everything
+The Section He Wanted Abandoned
 : A catastrophic mine collapse occurs in a section of the deep mines that Shilabir had deemed unsafe and had recommended abandonment of. The Merchant Collective overruled his recommendation, and thirty-seven workers perish. Shilabir can publicly expose the Collective's negligence, potentially destroying his livelihood but potentially preventing future tragedies, or remain silent to protect his own position and his ability to continue advocating for safer practices from within.
 
 The Forbidden Depths
@@ -544,8 +545,8 @@ The Forbidden Depths
 The Cooperative Dream
 : A visionary named [Saranda]{.name data-type="being/npc"} approaches Shilabir with a proposal: lead a cooperative effort to establish a miner-owned mine, breaking the Collective's monopoly. This would require Shilabir to openly defy his current employers, risk his security, and stake everything on an untested model of organization. Success would change the mining trade; failure would leave him ruined.
 
-Darkness Rising
+Shadows in the Deep Shafts
 : Strange phenomena begin occurring in the mines—equipment mysteriously breaks, workers report shadowy figures in the deep shafts, and several miners go missing in sections of mines that were previously considered safe. Shilabir must investigate these mysteries, which seem to point toward either supernatural forces or a saboteur working within his operation. The investigation threatens to expose secrets that powerful people wish to keep hidden.
 
-The Whistleblower's Dilemma
+Waste in the Village Water
 : Shilabir discovers evidence that the Merchant Collective is knowingly dumping mining waste into the water sources that supply the poorest villages below the mine, causing widespread illness. Making this public would damage the Collective, potentially destroy his livelihood, and might even make him a target for retaliation. Yet remaining silent violates everything he believes in. A writer of public broadsheets approaches him offering protection in exchange for documentation of the dumping, leading to a dangerous dance between justice and survival.

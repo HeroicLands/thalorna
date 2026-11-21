@@ -3,6 +3,7 @@ shortcode: ziprahuigmth
 name: {full: Ziprahu Igu'Maathu, given: Ziprahu, clan: Igu'Maathu}
 type: being
 subType: character
+description: "A master locksmith of Galezkara, trained under Master Zokhothu, who has made locks for imperial treasuries, noble estates, merchant houses and temples."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   banner: khelathubnr
@@ -543,17 +544,17 @@ Merchant [Luyat the Bold]{.name data-type="being/npc"}
 
 ## Plot Hooks
 
-The Unbreakable Lock
+A Lock for an Unnamed Purpose
 : A mysterious patron approaches Ziprahu with a sealed box containing only instructions and an extraordinary fee—forge a lock so perfect, so absolutely impregnable, that it becomes famous. The patron provides no explanation of what it will secure or why such a lock is needed. Ziprahu, intrigued despite his usual caution, accepts and becomes obsessed with the commission, spending months creating what he believes to be the summit of his life's work. Only when the lock is complete does he discover through discreet inquiry that the patron intends to use it to seal away something magical—perhaps dangerous, perhaps sacred. The lock is intended to contain a malevolent entity or imprisoned consciousness rather than to protect treasure. Ziprahu has to judge whether his masterwork has been turned to purposes he would oppose, and whether he can live with having created it.
 
-The Apprentice's Betrayal
+Menlaha Steals the Three-Key Lock
 : Ziprahu finally agrees to take on a formal apprentice after decades of refusing, recognizing that his techniques cannot be lost when age eventually takes him from his craft. The apprentice, young [[being-menlaha|Menlaha]], is brilliant and dedicated, soaking up knowledge at an almost supernatural rate. After two years of intense training, Menlaha steals Ziprahu's masterwork—a lock design so cunning it can be opened by three specific keys, none alone sufficient, working in concert. Menlaha disappears into the criminal underworld, and Ziprahu discovers that his former apprentice is now designing locks for thieves, specifically locks intended to be broken by collaborators or safeguards that can be circumvented through methods only Ziprahu ever taught.
 
-The Living Lock
+A First Tablets Lock That Knows Him
 : An ancient lock from [[lore-akhfirsttab|the First Tablets]] is brought to Ziprahu for restoration—an artifact of such age and peculiar design that no one alive knows how to open it or what principles govern its operation. The lock appears to shift subtly when not directly observed, its tumbler alignment seeming different each time Ziprahu examines it. Stranger still, the lock seems to react to Ziprahu specifically, clicking and whirring whenever he approaches, as though recognizing him. Through research, he discovers the lock was designed by a mage of the First Tablets and was intended to open only "when the worthy successor arrives." Ziprahu becomes convinced that the lock is somehow aware and is choosing him to be the one to open whatever it secures. His obsession with understanding this mechanism threatens to consume him entirely.
 
 The Counterfeiter's Workshop
 : Authorities discover a criminal operation producing counterfeit locks—perfect replicas of Ziprahu's security mechanisms that function identically to his original work. No client can distinguish true Ziprahu locks from the forgeries without his personal inspection. This poses a catastrophic threat to his reputation and to the security of every installation he's ever made. The counterfeiter, a master craftsman themselves, has somehow stolen or deduced all of Ziprahu's techniques. Investigation reveals the counterfeiter is Master Zokhothu himself, who faked his retirement and has spent the last fifteen years secretly creating competition to prove that Ziprahu merely inherited his master's legacy rather than surpassing it. Ziprahu loses his unique position and faces the painful truth that his greatest achievement may be merely the continuation of another's work.
 
-The Philosophical Paradox
+A Lock Against Every Key
 : A scholar and theologian approaches Ziprahu with a theoretical problem: if Ziprahu can design a lock that cannot be opened by any key, and another scholar can create an unbreakable key, what happens when they meet? It begins as an intellectual exercise, but then both the scholar and the key-maker begin commissioning Ziprahu's work in earnest. Ziprahu finds himself creating locks with knowledge that they will be tested against an unbreakable key, and he meets the limits of his craft and of perfection itself. As these creations enter the world, strange things begin to happen—the items they secure seem to exist in a state of philosophical uncertainty, simultaneously locked and unlocked, simultaneously protected and vulnerable. Ziprahu discovers he may have inadvertently created a pathway to a realm of pure paradox.

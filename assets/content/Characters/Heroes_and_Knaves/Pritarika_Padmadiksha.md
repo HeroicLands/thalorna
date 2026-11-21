@@ -3,6 +3,7 @@ shortcode: prtrkpdmdksh
 name: {full: Pritarika Padmadiksha, given: Pritarika, clan: Padmadiksha, vedy: [pripri]}
 type: being
 subType: character
+description: "A Sabhasadaka of the Suvargeri sabhra and head of the Padmadiksha house, who governs two estates and works to reform Vedyaran society."
 tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
@@ -571,13 +572,13 @@ The temple schools
 
 ## Plot Hooks
 
-The Murder Most Convenient
+A Letter in the Sealed Archives
 : Pritarika receives evidence—a letter discovered in long-sealed archives—suggesting that her husband Satyadarsha's death fifteen years ago was deliberately orchestrated. The letter implicates a powerful figure now deceased but names co-conspirators who are still alive and influential. As she investigates, she discovers that revealing the truth would destroy powerful current alliances and cast doubt on decisions she has made since Satyadarsha's death. Pursuing this old murder may serve justice, or it may be vengeance at the cost of the stability her people depend upon. Meanwhile, someone wants these documents destroyed and may attempt to murder Pritarika to prevent their publication.
 
-The Heir Problem
+No Heir of Her Blood
 : Pritarika discovers she is unable to bear children due to complications from a riding accident in her youth—something she had concealed even from herself through denial. Without an heir of her blood, her entire program of reform is vulnerable to reversal after her death. Her options are to adopt an heir, to marry despite her resistance to that institution, to restore power to the Padmadiksha line through a younger family member, or to make reforms in the law that will protect her legacy even without an heir of her body. Each option creates political complications and personal heartache.
 
-The Reformer's Dilemma
+A Rising on the Neighboring Estates
 : A rising occurs among the Karmija households of neighboring estates, which demand rights and freedoms similar to what Pritarika has granted her own territories. The uprising is brutal and destabilizing. Sabhasadaka Deshponde and traditionalists blame Pritarika for having "planted the seeds of rebellion" through her reforming policies, and they demand military action to suppress the uprising. If Pritarika supports suppression, she betrays her principles; if she refuses, she appears weak and may face her own Karmija households rising in coordinated rebellion. The situation requires nuance and cleverness to get through without catastrophic loss of life or principle.
 
 The Courtier's Confession

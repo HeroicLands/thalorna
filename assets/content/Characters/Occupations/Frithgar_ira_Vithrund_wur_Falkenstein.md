@@ -3,6 +3,7 @@ shortcode: frthgrvthrnd
 name: {full: Frithgár ira Vithrúnd wur Falkenstein}
 type: being
 subType: npc
+description: "A huscarl who fights with Falkenstein's war-band, trains its younger warriors and answers to the War Chief."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -432,17 +433,11 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-The Huscarl's Dilemma
-: Frithgár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+When the Raiders Are Away
+: A raiding party leaves Falkenstein and Frithgár holds the palisade with the warriors he has taught. Word comes that the party will not return by the day it promised, and the [[lore-frodradrnk|War Chief]] must hear it before the three hundred people inside the timber ring do.
 
-Old Grudges
-: Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Drum and the Hall
+: The War Chief's drum comes before the Shaman's counsel, and Frithgár is the sworn huscarl who answers it. A call comes that the Shaman would have delayed, and Frithgár has to decide in front of the hall whether his service runs as far as this order.
 
-Echoes of the Past
-: Something from Frithgár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Frithgár depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Frithgár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Pupil's Mistake
+: A young warrior Frithgár trained breaks the line when a raiding party from the Nordlands frontier tests the palisade. The household that equipped the boy wants an account, and Frithgár, whose tactics are rigid, cannot say whether the failure was the warrior's or the lesson's.

@@ -3,6 +3,7 @@ shortcode: tmrtjnnd
 name: {full: Tamura Tejanand, given: Tamura, clan: Tejanand}
 type: being
 subType: character
+description: "A master woodcrafter of Rajepur, trained under Tanavarna Shuravan, whose sound structural and farm work is relied on up and down the Mahanodi."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -538,10 +539,10 @@ The artisans' shrena of Rajepur
 
 ## Plot Hooks
 
-The Haunted Commission
+A Commission From the Far Borders
 : A mysterious man of rank from the far borders approaches Tamura with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamura has never shared with anyone. The stranger seems to know precisely what Tamura builds in secret, in his own time, projects he has never shown to clients. When Tamura refuses, the stranger produces a document suggesting that these same structures appear in sealed architectural records of the old kingdom in [[place-rajavalilib|the Rajavali Library]]. Tamura must determine how this stranger knows his private work and what they intend to do with such knowledge.
 
-The Apprentice's Betrayal
+Cheap Imitations of His Techniques
 : A young apprentice of rare talent whom Tamura took under his wing as a potential heir to the Shuravan lineage disappears after three years of study. Months later, Tamura discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamura's reputation. When Tamura confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Greison Thrift, but the apprentice is now too frightened to break free. Tamura can help his former student risk Greison's wrath or allow his own reputation to go on deteriorating.
 
 The Living Wood

@@ -3,6 +3,7 @@ shortcode: rdrnvthrnd
 name: {full: Radrún ira Vithrúnd wur Grimholt}
 type: being
 subType: npc
+description: "A woman who works in a Grimholt brothel for wealthy clients who pay for her company and discretion."
 tags: [draft, underworld]
 data:
   icon: icon-person
@@ -402,17 +403,25 @@ Radrún ira Vithrúnd wur Grimholt is an 18-year-old woman who stands 5'9" tall 
 
 Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Radrún is a prostitute.
 
-Radrún works in a [[place-grimholt|Grimholt]] brothel and secretly serves [[affiliation-graytide|the Gray Tide]]. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
+Radrún works in a [[place-grimholt|Grimholt]] brothel. She is known for her ability to blend into the background and overhear what is worth knowing.
+
+:::secret {title="The Gray Tide"}
+Radrún secretly serves [[affiliation-graytide|the Gray Tide]]. While she entertains clients, she acts as a lookout and messenger for the organization. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
+:::
 
 ## Psyche
 
 ### Personality
 
-She can be overly cautious, and struggles with guilt over her involvement with the Tide.
+She can be overly cautious.
 
 ### Motivation
 
-Radrún wants to stay safe in a double life, and to be able to live with what the Tide asks of her.
+Radrún wants to stay safe and to be able to live with her choices.
+
+:::secret {title="What she wants from the Tide"}
+Radrún wants to stay safe in a double life, and to be able to live with what the Tide asks of her. She struggles with guilt over her involvement with the Tide.
+:::
 
 ### Strengths
 
@@ -420,7 +429,9 @@ She is observant, skilled in stealth, and adept at eavesdropping.
 
 ## Social
 
+:::secret {title="Membership in the Gray Tide"}
 Radrún belongs to the Gray Tide, a maritime crime network operating in the coastal areas of Vristwald.
+:::
 
 ## Companions
 
@@ -430,21 +441,24 @@ Radrún's patrons are the wealthy clients who pay for her company and discretion
 
 ### Enemies
 
-Few; she is well liked in her trade, but some rival Tide members may challenge her loyalty.
+Few; she is well liked in her trade.
+
+:::secret {title="Rivals in the Tide"}
+Some rival Tide members may challenge her loyalty.
+:::
 
 ## Plot Hooks
 
-The Prostitute's Dilemma
+:::secret {title="Hooks: the Gray Tide"}
+What the Client Said
 : A client Radrún has come to trust says something in her hearing that the Gray Tide would pay for, and she can carry it to the Tide or keep it.
 
-Old Grudges
+A Test She Is Not Meant to Know
 : A rival in the Tide who doubts Radrún's loyalty has set a test for her that she is not meant to know is one.
 
-Echoes of the Past
+The Message Traced Back
 : A message Radrún carried for the Tide in her first months is traced back to the brothel, and to her.
 
-Shifting Winds
-: Political change in Vristwald threatens the Gray Tide's hold on the coast, and Radrún can adapt, resist, or leave.
-
-The Opportunity
+A Place Beyond the Brothel
 : The Tide offers Radrún a place beyond the brothel, and a heavier share of the work she already doubts.
+:::

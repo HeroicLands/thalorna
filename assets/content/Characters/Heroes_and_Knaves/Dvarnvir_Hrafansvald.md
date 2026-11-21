@@ -3,6 +3,7 @@ shortcode: dvrnvrhrfnsvld
 name: {full: Dvarnvir Hrafansvald, given: Dvarnvir, clan: Hrafansvald}
 type: being
 subType: character
+description: "A tentmaker of Vithgard and veteran of its border wars, whose tents are trusted by soldiers and serious travelers."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -588,7 +589,7 @@ The Sabotaged Supply
 The Talking Tent
 : An old nomadic wanderer, [Zephyr the Unspeaking]{.name data-type="being/npc"}, arrives at Dvarnvir's workshop requesting a specific tent design—one that matches a sketch the wanderer produces from memory. Dvarnvir realizes it matches designs described in fragments of old military records from before he was born. When he creates the tent according to specification, it seems to hum faintly in the wind, and people who sleep within it report vivid dreams of ancient times. The wanderer hints that this particular design contains subtle magical properties, and that **Zephyr** has been searching for someone capable of recreating it for years.
 
-The Apprentice's Betrayal and Redemption
+An Apprentice Paid to Copy His Methods
 : Dvarnvir's latest apprentice, a talented young woman named [Dagrun]{.name data-type="being/npc"}, befriends the rival **Krildthann** and begins secretly documenting Dvarnvir's techniques to share with the competitor. When Dvarnvir discovers this betrayal, he is devastated—not angry, but deeply hurt. Dagrun, guilt-stricken, confesses that she needed money to care for her sick mother and Krildthann promised to pay her. Dvarnvir faces a choice: cast her out and prove that the craft world punishes ambition, or find a way to help her that honors both their needs and his own integrity.
 
 The Expedition That Matters

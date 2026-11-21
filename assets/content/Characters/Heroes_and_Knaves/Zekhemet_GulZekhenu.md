@@ -3,6 +3,7 @@ shortcode: zekhmtglzkhn
 name: {full: Zekhemet Gul'Zekhenu, given: Zekhemet, clan: Gul'Zekhenu}
 type: being
 subType: character
+description: "A pilot of the Au'Khelathu delta and coast who serves dozens of merchants and trading houses and is known for delivering cargo intact and keeping her word."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   banner: khelathubnr
@@ -577,17 +578,17 @@ The [[affiliation-lutthubai|Lut-Thuba'i]]
 
 ## Plot Hooks
 
-The Impossible Commission
+Cargo to a Place She Cannot See
 : A desperate merchant approaches Zekhemet with an extraordinary offer: transport cargo of unnamed origin to a location she cannot visit, cannot see, and cannot document, for a price that seems far too generous. The merchant is in distress, and hints at political persecution or family emergency. Zekhemet's principle of helping those in need wars with her principle of understanding all elements of an agreement. If she accepts, she may find herself complicit in smuggling or worse; if she refuses, she abandons someone in crisis.
 
-The Accident Conspiracy
+Evidence of Sabotage
 : Someone approaches Zekhemet with evidence suggesting that the accident that scarred her seven years ago was not accidental but sabotaged—likely by a rival or someone with commercial interests in her failure. The evidence is fragmentary and incomplete, and pursuing it might disrupt her carefully maintained working relationships. Zekhemet must decide whether to reopen a wound she has worked hard to move past, and whether seeking truth is worth the cost in distraction and potential damage to her reputation.
 
-The Inheritance Opportunity
+A Year on a Dead Relative's Estate
 : A distant relative dies and leaves Zekhemet a substantial estate—but with one condition: she must come to reside on the property for one year and claim the inheritance. This would require her to step away from her trading operation at a critical moment of expansion. Moreover, investigation reveals the relative had enemies and debts, and some question whether the inheritance is blessing or curse. Does Zekhemet abandon her ambitions for security and family legacy, or reject the offer?
 
-The Catastrophe Prevention
+A Client's Harmful Cargo
 : Zekhemet discovers that one of her regular merchant clients is planning to ship cargo that will inadvertently destroy a crucial ecosystem or cause significant harm to the communities she serves. The merchant is technically not breaking any laws, and breaking her commitment to him would violate the principle of integrity she holds most dear. Yet honoring the commitment means enabling harm. Zekhemet must navigate the painful truth that sometimes integrity and ethics are not aligned, and she must choose between them.
 
-The Syndicate's Recruitment
+A Criminal Band's Offer of Partnership
 : A well-organized criminal band recognizes Zekhemet's value and approaches her with a proposal: allow them to occasionally use her vessels for high-profit cargoes, and they will guarantee her protection and priority access to the most lucrative trade routes. The offer is presented as partnership rather than coercion, and the syndicate seems respectful of her independence. Zekhemet must determine whether this represents an unacceptable compromise of her principles or a pragmatic relationship with commercial realities, knowing that her refusal will make her a target.

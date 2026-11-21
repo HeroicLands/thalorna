@@ -3,6 +3,7 @@ shortcode: wthrcdrthgr
 name: {full: Wítharik ira Druthgar wur Waldburg}
 type: being
 subType: npc
+description: "A shipwright who builds river-boats at Waldburg with his kin and apprentices for traders and war-bands."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -439,17 +440,14 @@ Crews who quarrel over a boat's share of the toll before he has finished buildin
 
 ## Plot Hooks
 
-The Shipwright's Dilemma
-: Wítharik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in [[place-vrystwald|Vristwald]].
+The Toll Before the Keel
+: Crews quarrel over a boat's share of the toll before Wítharik has finished building it. A trader and a war-band both want the same river-boat, and its first voyage waits on their terms.
 
-Old Grudges
+The Client Who Changes His Mind
+: A client changes his requirements again, and Wítharik's temper flares in front of the market. Without written terms, the quarrel ends with a boat left unfinished.
+
+Shallow Channels
+: A river-boat Wítharik built grounds in the shallow forest channels with a cargo of furs and captives. His family has built boats for generations, and the Waldburg traders will not commission again if the fault was the boat's.
+
+The Hull on the Stones
 : A boat crew blames Wítharik for a broken hull and refuses to pay, though its captain drove the boat onto the stones.
-
-Echoes of the Past
-: Something from Wítharik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Wítharik depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Wítharik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

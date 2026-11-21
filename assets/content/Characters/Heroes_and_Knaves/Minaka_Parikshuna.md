@@ -3,6 +3,7 @@ shortcode: minakprkhn
 name: {full: Minaka Parikshuna, given: Minaka, clan: Parikshuna}
 type: being
 subType: character
+description: "The head chef of the Devakara kitchen in Vyalendra, trained under Master Mahakirti and known across Vedyara for her exacting standards."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -531,13 +532,13 @@ The Temple of Mahajaya
 
 ## Plot Hooks
 
-The Poison in the Sauce
+A Guest Falls Ill at the Devakara Table
 : During an important diplomatic dinner hosted by the Devakara family, one of the guests falls ill—symptoms suggesting poisoning. Investigation reveals that the poison was administered through Minaka's food. Yet she is absolutely certain of her ingredients, her preparation, and her staff. Someone has sabotaged her kitchen or framed her deliberately. Minaka must find the true culprit before her reputation is destroyed, knowing that failure will result in her execution and the Devakara family's disgrace.
 
 The Ingredient from the Lost Lands
 : A traveling merchant arrives with a spice—a flavor unknown in Vedyara, reportedly from lands beyond the eastern sea. The merchant claims that only this spice, when combined with Minaka's skills, can create a dish with properties approaching legend: a meal that grants visions, that heals certain illnesses, or that allows communion with spirits. Minaka is both tempted and skeptical. As she begins to experiment, she discovers that the spice does seem to possess unusual properties. But using it could involve her in sorcery or forbidden practices, and powerful people are watching to see if she succeeds.
 
-The Apprentice's Secret
+The Apprentice Who Copied Her Recipes
 : A young apprentice in Minaka's kitchen shows talent approaching her own—a rare gift that appears perhaps once in a generation. Minaka begins training this apprentice with unusual intensity, seeing in them an heir to her legacy. Then she discovers that the apprentice is secretly stealing recipes and selling them to rival chefs and merchants. When Minaka confronts them, the apprentice breaks down, revealing that they are being coerced by a dangerous criminal organization seeking to steal Minaka's culinary secrets and her connections to the merchant families. Minaka must decide whether to dismiss the apprentice, protect them, or use this situation to infiltrate and destroy the organization.
 
 The Feast of Seven Nights

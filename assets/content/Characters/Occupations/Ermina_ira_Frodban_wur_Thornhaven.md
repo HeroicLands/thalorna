@@ -3,6 +3,7 @@ shortcode: erminfrdbn
 name: {full: Ermina ira Frodbán wur Thornhaven}
 type: being
 subType: npc
+description: "A fisher and netmaker who works the waters near Thornhaven with her own crew and kin."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -431,17 +432,11 @@ Few, though some older fishers question her methods.
 
 ## Plot Hooks
 
-The Fisher's Dilemma
-: Ermina faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
+Nets and Landings
+: A family says its agreement with Ermina over landings and nets ended with the old season. No fishers' guild can judge it, and the older fishers who question her methods are ready to side with the family.
 
-Old Grudges
-: Few, though some older fishers question her methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Catch for the River Traders
+: River traders take what Ermina can preserve for the journey, and a trader returns a lot as spoiled. She is overconfident on the water and exact with what she preserves, and she wants to know whether the lot spoiled on the boat to Velanthia or at the landing.
 
-Echoes of the Past
-: Something from Ermina's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Ermina depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Ermina the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+Mending for Others
+: Ermina sells spare nets she has mended, and a crew caught in a bad passage says her work tore their net. Thornhaven's households are listening, and the net is the only proof either way.

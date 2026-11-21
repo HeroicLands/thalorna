@@ -3,6 +3,7 @@ shortcode: wthrhldvth
 name: {full: Wíthgar ira Hildvith wur Waldburg}
 type: being
 subType: npc
+description: "A smith who forges arms at Waldburg for households and visiting war-bands and is known for blades that survive use."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -435,17 +436,11 @@ Blacksmiths who specialize in decorative weapons.
 
 ## Plot Hooks
 
-The Weaponcrafter (Armorer)'s Dilemma
-: Wíthgar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+Arms for the Season's Raids
+: Village warriors and hired fighters bring Wíthgar damaged arms or commission weapons for the next season's raids. Two war-bands at Waldburg ask for the same lot before the same day, and he can serve only one.
 
-Old Grudges
-: Blacksmiths who specialize in decorative weapons. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Decorative Smith's Complaint
+: Smiths who make decorative weapons complain that Wíthgar's plain work shames theirs. He is dismissive of ornament, and he asks a party to show a visiting war-band's captain what his blades do after use.
 
-Echoes of the Past
-: Something from Wíthgar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Wíthgar depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Wíthgar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+Weapons After Use
+: A war-band brings Wíthgar blades notched and bent by a fight no one will describe. His standing comes from blades that survive use, and he wants to know what they were used against before he is blamed for what they cut.

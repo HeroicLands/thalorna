@@ -3,6 +3,7 @@ shortcode: raiaquuznera
 name: {full: Raiaku Uzner'Au, given: Raiaku, clan: Uzner'Au}
 type: being
 subType: character
+description: "The foremost weaponcrafter of Au'Khelathu, a member of the City Blacksmiths' Guild of Galezkara who holds every blade to a flawless standard."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   banner: khelathubnr
@@ -457,7 +458,7 @@ His gruff manner covers a deep melancholy: he has spent fifty-five years in serv
 
 ### Motivation
 
-Raiaku Zekmeta drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uzn'era's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
+Raiaku drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uzn'era's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
 
 ### Strengths
 
@@ -527,17 +528,17 @@ City Blacksmiths' Guild
 
 ## Plot Hooks
 
-The Perfect Metal
-: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. Raiaku Zekmeta has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. Raiaku becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
+An Ingot of Meteoric Iron
+: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. Raiaku has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. Raiaku becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
 
 The Broken Blade of Prophecy
 : A warrior arrives at Raiaku's forge with a shattered sword of extraordinary make, claiming it was broken in heroic circumstance and must be reforged to fulfill an ancient prophecy. Yet Raiaku, examining the fractures, realizes that the blade's original forging contains techniques he has never encountered—suggesting it was created by a master smith from a previous age or even a foreign land. He insists on investigating the blade's origins before attempting reforging, engaging the party to locate historical records, interview the warrior's ancestors' companions, or even commune with the spirit of the blade's original creator through magical means.
 
-The Apprentice's Secret
+A Weapon Past Reason
 : One of Raiaku's trusted apprentices confesses to the party (privately) that the master has grown obsessed with creating a weapon of legend—one so perfect that it approaches divinity. The apprentice fears Raiaku is sacrificing his ethics and dealing with unsavory contacts, including dark alchemists and blood-cultists, to obtain materials for this final masterwork. The party can confront Raiaku, investigate the suspicious contacts themselves, or attempt an intervention that respects the old smith's dignity and autonomy.
 
 Thieves of Craft
 : The party discovers that an enemy faction is systematically stealing designs, materials, and even half-completed works from Raiaku's forge. Investigation reveals that a rival nation is attempting to reverse-engineer the secrets of Au'Khelathu's superior weaponcraft, and Raiaku's work is their primary target. Raiaku hires the party to identify the thieves, reclaim his works, and establish security. However, the deeper investigation reveals that one of his own apprentices may be involved—complicating the question of justice and mercy that Raiaku himself struggles with.
 
-The Curse of the Blade
+Dying Warriors and Tainted Swords
 : A warrior wielding one of Raiaku's famous swords returns dying, claiming the weapon has become cursed and turns against its wielder. Multiple other sword owners report strange occurrences. Raiaku is initially incredulous—his blades are forged with blessing, not bane—but investigation suggests that someone has been performing dark rituals over his completed works, corrupting them after they've left his care. The party must track down the perpetrator while Raiaku attempts to determine which of his creations have been tainted and whether they can be cleansed or must be destroyed.

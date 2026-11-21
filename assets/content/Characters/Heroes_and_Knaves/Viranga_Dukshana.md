@@ -3,6 +3,7 @@ shortcode: vrngdkshn
 name: {full: Viranga Dukshana, given: Viranga, clan: Dukshana, vedy: [viru]}
 type: being
 subType: character
+description: "The young head of the House of Dukshana in Suvargeri, who rotates crops, sets fair prices and argues for his methods in the sabhra."
 tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
@@ -532,17 +533,17 @@ The landholding houses
 
 ## Plot Hooks
 
-The Famine Gambit
+Grain Reserves in a Drought
 : A severe drought strikes the region, threatening catastrophic crop failure not only for the Dukshana holding but for all surrounding territories. While other Kulenas scramble to hoard supplies and raise prices, Viranga's accumulated grain reserves allow him to support both his own people and neighboring settlements. However, a rival Kulena interprets this generosity as weakness and political maneuvering, seeing an opportunity to consolidate power. The adventurers become embroiled in a complex situation where humanitarian action creates dangerous political vulnerabilities, and they must find ways to maintain Viranga's ability to help while protecting him from those who would exploit his compassion.
 
-The Poisoned Advancement
+A Cover for Theft in His Name
 : As word of Dukshana's successful methods spreads, other great houses request that Viranga send advisors or establish similar systems on their lands. He accepts several such requests, attempting to expand his philosophy's reach. However, adventurers discover that one such "implementation" is actually a cover for theft, espionage, or sabotage. They must determine whether this is merely the misdeeds of corrupt individuals or whether someone is systematically using Viranga's good reputation as a cover for larger conspiracies. The resolution requires them to protect Viranga's name while addressing criminal activity.
 
-The Harvest Corruption
+A Perfect Harvest That Sickens
 : A seemingly perfect harvest year arrives, with yields significantly exceeding predictions. However, as grain is distributed, consumers begin experiencing subtle illnesses. Investigation reveals that the grain carries a contamination—either accidental or deliberate—that causes slow sickness. Viranga is devastated and concerned for the welfare of those he has served, but others question whether he has become careless or whether this is an act of sabotage. The party must trace the contamination source while Viranga's reputation hangs in the balance.
 
-The Idealist's Dilemma
+An Appeal From a Distant Territory
 : Viranga is approached by a group claiming to represent an oppressed people in a distant territory, requesting his help to establish similar agricultural and economic systems in their homeland. However, investigation reveals that the group may not be legitimate representatives and that accepting their request could embroil him in a regional conflict or civil war. Viranga's desire to spread his humanitarian vision must be balanced against the consequences of becoming involved in matters of violence and political upheaval.
 
-The Sabotage of Hope
+A Run of Misfortunes on the Holding
 : A series of escalating incidents undermines the success of the Dukshana holding—irrigation systems fail, stored grain spoils, livestock sicken, and key advisors suffer accidents. Each incident is individually explicable as misfortune, but the pattern suggests deliberate sabotage. Viranga struggles to maintain his commitment to fair dealing and peaceful resolution while his entire life's work is systematically destroyed. The party must uncover who is perpetrating the destruction and why, all while helping Viranga decide whether justice requires abandoning his philosophical commitment to non-violence.

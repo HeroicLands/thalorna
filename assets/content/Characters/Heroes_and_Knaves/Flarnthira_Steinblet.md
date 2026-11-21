@@ -3,6 +3,7 @@ shortcode: flrnthyrstnblt
 name: {full: Flarnthira Steinblet, given: Flarnthira, clan: Steinblet}
 type: being
 subType: character
+description: "A potter of Dvarnvik, known for ash glazes and for refusing any work that does not suit her vision."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -580,7 +581,7 @@ The Shattered Masterpiece
 The Lost Glaze of [Ástvaldur the Wise]{.name data-type="being/npc"}
 : An elderly merchant brings Flarnthira a single fragment of pottery bearing a glaze of impossible beauty—ash-blue threaded with gold that seems to contain starlight. The merchant claims it comes from the potter **Ástvaldur the Wise**, said to have disappeared centuries ago. Flarnthira becomes obsessed with recreating the formula, but her investigations lead her into dangerous territory: the glaze may have been created using ingredients now forbidden by the Church, or worse, techniques involving arts that lie beyond the mortal realm.
 
-The Apprentice's Secret
+Tvalginda's Cheap Copies
 : Flarnthira's promising young apprentice, [Tvalginda]{.name data-type="being/npc"}, confesses that she has been secretly creating copies of Flarnthira's designs and selling them at lower prices to supplement her meager wages. Rather than dismiss her, Flarnthira recognizes herself in the girl's hunger to improve her station. She must balance two aims: mentoring Tvalginda toward skill while teaching her that true artistry cannot be rushed or compromised, all while the girl's impudent actions threaten both their reputations.
 
 The Kiln That Burns Wrong

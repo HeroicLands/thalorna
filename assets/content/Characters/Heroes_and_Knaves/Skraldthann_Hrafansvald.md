@@ -3,6 +3,7 @@ shortcode: skrldthnhrfnsvld
 name: {full: Skraldthann Hrafansvald, given: Skraldthann, clan: Hrafansvald}
 type: being
 subType: character
+description: "A clothier of the Kingdom of Norgaad whose garments mark the wealth and taste of nobles and high merchants."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -559,7 +560,7 @@ Elite Social Circles of Norgaad
 
 ## Plot Hooks
 
-The Mysterious Benefactor
+A Garment No One May See
 : A cloaked figure offers Skraldthann an astronomical sum to design a single garment with very specific requirements: it must include fabric the client provides (unusual material with strange properties), must be completed in secret, and must never be worn publicly. The client hints that the garment has supernatural significance. Skraldthann must decide whether artistic pride allows him to create something that will never be seen and whether taking the job involves deeper conspiracies.
 
 The Apprentice's Secret
@@ -571,5 +572,5 @@ The Fashion Revolution
 The Scarred Past
 : Someone from Skraldthann's earlier years—someone he has worked hard to forget—appears with knowledge of the scar and what caused it. They threaten exposure unless Skraldthann undertakes a series of tasks. Investigating reveals that what happened decades ago was far more significant and darker than anyone suspected, potentially involving **magical artifacts or dangerous secrets** that remain relevant.
 
-The Royal Commission
+Coronation Garments
 : The reigning **King of Norgaad** personally commissions Skraldthann to design coronation garments for an heir, granting him unprecedented access to the royal family. This should be the high point of his career, but court intrigues reveal that factions are using the commission as a pawn in larger games. Skraldthann discovers that his designs themselves might carry political significance and be used to make statements about succession and power.

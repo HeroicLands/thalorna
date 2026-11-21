@@ -3,6 +3,7 @@ shortcode: vthrblthlm
 name: {full: Vethar ira Balthhelm wur Waldburg}
 type: being
 subType: npc
+description: "The innkeeper of the Old Stone Inn at Waldburg's crossing, a cook and storyteller who hosts travelers and traders."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -432,17 +433,11 @@ Few; well-respected in the area.
 
 ## Plot Hooks
 
-The Innkeeper's Dilemma
-: Vethar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in [[place-vrystwald|Vristwald]].
+A Bargain Under the Peace
+: Rival traders settle a bargain at the Old Stone Inn under the market peace, and Vethar overhears a threat in the middle of the deal. A killing at Waldburg's market is answered at once by every tribe present, and the deal resumes the next night.
 
-Old Grudges
-: Few; well-respected in the area. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+The Old Recipes
+: Vethar's recipes pass down through generations, and a trader of the crossing offers coin for one. Vethar is sentimental about such things and wants to know what the trader means to do with it.
 
-Echoes of the Past
-: Something from Vethar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Vethar depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Vethar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Hall Full of War-Bands
+: Visiting war-bands fill Vethar's hall, and one band's quarrel is about to start. Age has slowed him, and the Frithmund has not yet arrived.

@@ -3,6 +3,7 @@ shortcode: erthrnhldvth
 name: {full: Erthran ira Hildvith wur Waldburg}
 type: being
 subType: npc
+description: "A solitary trapper of Waldburg who sells furs to local traders and is hired by farmers to deal with problem animals."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -432,17 +433,17 @@ Poachers exploit the land and overhunt.
 
 ## Plot Hooks
 
-The Trapper's Dilemma
+More Furs Than the Forest Can Spare
 : A trader offers Erthran a price for more furs than the forest can spare, and the winter is a hard one.
 
-Old Grudges
+Poachers on His Ground
 : The poachers Erthran has driven off his ground have begun stripping his traplines.
 
-Echoes of the Past
+The Line Set Again
 : A trapline Erthran's father taught him to run is found set again, by someone who knows it as well as he does.
 
-Shifting Winds
+A Neighbor's Claim
 : A neighboring village begins using Erthran's trap ground after a bitter winter, and he can bargain, fight, or move his lines.
 
-The Opportunity
+The Animal He Spares
 : A War Chief asks Erthran to clear a predator from the village paths, but it is one of the animals Erthran has always spared.

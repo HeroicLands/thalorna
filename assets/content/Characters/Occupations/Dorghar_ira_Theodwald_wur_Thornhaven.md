@@ -3,6 +3,7 @@ shortcode: wlfhrthdwld
 name: {full: Dorghár ira Theodwald wur Thornhaven}
 type: being
 subType: npc
+description: "A huscarl of Thornhaven's war-band who guards its households and follows the War Chief for a muster."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -429,17 +430,11 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-The Huscarl's Dilemma
-: Dorghár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+The Velanthian Agent at the Gate
+: A Velanthian river-prince's agent reaches Thornhaven before a council can meet, and Dorghár is on the gate the day he arrives. The War Chief answers him, and a Velanthian auxiliary is useful and never fully trusted.
 
-Old Grudges
-: Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+Trained Beside the Band
+: Dorghár trains younger fighters beside the people who have fought with him for years, and the War Chief asks which of them are ready for the next muster. He struggles to say what he feels and asks a party to watch the drill and tell him whether his own aggression has marked the young fighters.
 
-Echoes of the Past
-: Something from Dorghár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Dorghár depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Dorghár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Loud Loyalty
+: The Other Chief asserts Thornhaven's loyalty to the [[affiliation-vrystwldtrbs|Vristwald tribes]] loudly. Dorghár is sent to escort visitors from other villages, and he asks a party to tell him what they make of a village that insists so often.

@@ -3,6 +3,7 @@ shortcode: hlskrvblthl
 name: {full: Hlaskorv Bletholl, given: Hlaskorv, clan: Bletholl}
 type: being
 subType: character
+description: "A woodcutter of Nordheim who fells timber by the rule of tending the forest rather than stripping it, and carries a long scar down his back."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -538,7 +539,7 @@ The Woodcutters' Guild of Nordheim
 The Forest's Dying Plea
 : A forester friend of Hlaskorv's discovers that an entire region of the forest is being systematically poisoned by something—whether deliberate contamination or waste from a distant settlement, it is killing the trees slowly and methodically. Hlaskorv is devastated but uncertain how to respond, as the poisoning is subtle enough that conventional harvesting practices won't resolve it. The party must help him investigate the source while also deciding whether the response requires violence, negotiation, or something more complex.
 
-The Apprentice's Betrayal
+A Pupil in the Timber Consortium's Pay
 : A young woodcutter trained by Hlaskorv under the promise of learning sustainable methods accepts a lucrative commission from the Rapid Timber Consortium to harvest an ancient grove in a way that violates all principles of stewardship. Hlaskorv feels personally betrayed and struggles with the realization that his teachings have failed to instill true understanding in the younger generation. The party must assist in a desperate effort to prevent the destruction, potentially through sabotage or negotiation.
 
 The Timber Monopoly

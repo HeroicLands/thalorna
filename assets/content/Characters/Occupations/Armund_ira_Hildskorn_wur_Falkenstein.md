@@ -3,6 +3,7 @@ shortcode: armndhldskrn
 name: {full: Armund ira Hildskorn wur Falkenstein}
 type: being
 subType: npc
+description: "A jester who makes the households of Falkenstein laugh at themselves and holds no court appointment."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -431,17 +432,11 @@ Rival jesters who envy his popularity.
 
 ## Plot Hooks
 
-The Jester's Dilemma
-: Armund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+The Tale After the Muster
+: A muster at Falkenstein ends in a quarrel, and the [[lore-frodradrnk|War Chief]] calls for a tale to settle the hall. Armund cannot be commanded but cannot refuse the drum, and the tale he reaches for is the Varokh telling of [[lore-stormhandfld|The Stormhand's Field]].
 
-Old Grudges
-: Rival jesters who envy his popularity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Welcome at One Hearth
+: Armund's mimicry of a Nordmal expedition captain brings the hall to tears, and a visiting trader recognizes his own manner in it. A welcome at one hearth gives Armund no claim at another, and the trader's complaint is headed for a household that has not yet laughed.
 
-Echoes of the Past
-: Something from Armund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Armund depends upon. He must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Armund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+The Second Jester
+: A rival jester who envies Armund's popularity arrives at a village feast and takes the hall's laughter. Someone sent for the stranger, and a hearth that feeds one jester seldom feeds two.

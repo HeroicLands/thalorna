@@ -3,6 +3,7 @@ shortcode: thldrdrthgr
 name: {full: Thaldrá ira Druthgar wur Thornhaven}
 type: being
 subType: npc
+description: "A seaman who crews the river-boats carrying Thornhaven's goods toward Velanthian markets and is known as Thorn."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -435,17 +436,11 @@ Few; generally well-respected, but may face jealousy from some.
 
 ## Plot Hooks
 
-The Common Seaman's Dilemma
-: Thaldrá faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
+The Captain of Her Own Ship
+: Thaldrá dreams of captaining her own ship, and a captain who carries Thornhaven's goods toward Velanthian markets offers her the lookout's post for a hard passage and a share of the return. He wants a crew he has not worked with, and she wonders why.
 
-Old Grudges
-: Few; generally well-respected, but may face jealousy from some. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+A Share of the Cargo
+: Thaldrá is paid a share of the cargo's return, and this time the return is smaller than the crew expected. A seaman who is free to leave a boat is easy to blame for its losses, and she asks a party to follow the cargo to the Velanthian market and learn where it went.
 
-Echoes of the Past
-: Something from Thaldrá's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
-
-Shifting Winds
-: Political changes in Vristwald threaten to upend the social order that Thaldrá depends upon. She must decide whether to adapt, resist, or flee.
-
-The Opportunity
-: A chance encounter offers Thaldrá the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+Jealousy Aboard
+: Some crewmates are jealous of the woman called Thorn, and one leaves the rigging unsound before a passage. Thaldrá is competitive and slow to show she is shaken.

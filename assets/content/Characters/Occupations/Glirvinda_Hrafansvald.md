@@ -3,6 +3,7 @@ shortcode: glrvyndhrfnsvld
 name: {full: Glirvinda Hrafansvald}
 type: being
 subType: npc
+description: "A Skraldborg shipwright who keeps her yard in the cove below the hill fort and builds ships to new designs."
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
@@ -440,17 +441,14 @@ Traditional shipwrights disapprove of her unconventional designs.
 
 ## Plot Hooks
 
-The Shipwright's Dilemma
+A Design the Masters Forbid
 : A trader wants a ship built to Glirvinda's newest design, and the guild's masters have warned her against it.
 
-Old Grudges
+The Wreck Laid at Her Door
 : A traditional shipwright blames one of Glirvinda's designs for a wreck, and the guild is listening.
 
-Echoes of the Past
+The Broken Boat
 : A boat Glirvinda built for her family of fishermen in her apprentice years comes back to her yard broken, with her early work plain to see.
 
-Shifting Winds
-: Political change in Nordheim threatens the trade Glirvinda depends upon, and she can adapt, resist, or leave.
-
-The Opportunity
-: Glirvinda is offered a commission larger than any she has built, and its price is not named up front.
+A Commission With No Price
+: Glirvinda is offered a commission larger than any she has built, and the buyer will not say who is paying.

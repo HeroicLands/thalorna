@@ -3,6 +3,7 @@ shortcode: tvnrthr
 name: {full: Tavonei Reithuri, given: Tavonei, clan: Reithuri}
 type: being
 subType: character
+description: "A caravan guard captain of Kudumel, born in the Kaliharan port of Vashurán, known for slow, safe routes and a clean record on the road."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -526,10 +527,10 @@ The Lady of [House Duravin]{.name data-type="affiliation/lineage"}
 
 ## Plot Hooks
 
-The Lost Crown Shipment
+Regalia in the Bales
 : House Thavoeli hires Tavonei to take what he believes is an ordinary train from the Caravan Gate to a foreign hull waiting at the Kudumel quay. Halfway there he learns the bales hold the regalia of a deposed royal line from across the water, and that several parties are following the train with killing in mind. He can push on and watch his record break, or try the new methods he has always scorned.
 
-The Apprentice's Betrayal
+Vaoleni the Veiled Riders' Spy
 : Tavonei takes on a young orphan, [Vaoleni]{.name data-type="being/npc"}, as an apprentice guard, seeing in him the raw talent he once had, and over a season on the road he grows almost fatherly toward the boy. Then Vaoleni is revealed as a Veiled Riders spy, sent to learn Tavonei's routes and habits. Tavonei must hunt him down while asking himself whether his own need to control everything made the opening his enemy used.
 
 The Seer's Warning
@@ -538,5 +539,5 @@ The Seer's Warning
 The Road Inland
 : A merchant consortium offers Tavonei a fortune to find a way across the interior of his home island, a crossing no port cargo has ever been allowed to make, through country the custodians have never opened. It would make his name for ever, or end his record and perhaps his life; and the Wardens would treat it as the Veiled Riders' crime with better paperwork. The offer forces him to decide whether he wants excellence or proof that he still matters.
 
-The Conspiracy Within
+Contraband in the Guarded Trains
 : Tavonei notices discrepancies in the bills of lading, cargo swapped between stops and late-night meetings among his employers. Slowly he finds that someone high in the Consortium has been hiding contraband inside his guarded trains, bound for the same inland buyers the Veiled Riders serve. He must accuse powerful men without proof, protect his charges, and decide whether he owes more to Kudumel's magistrates or to the merchants who made his legend.

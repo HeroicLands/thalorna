@@ -3,6 +3,7 @@ shortcode: hvrnvrstrmrt
 name: {full: Hvurnvir Stormrót}
 type: being
 subType: npc
+description: "An aging fisher of Nalthmark who fishes the cold water below the settlement and teaches the younger fishers what he knows of the sea."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -435,17 +436,14 @@ None; he is respected in the community, though some younger fishers find him ove
 
 ## Plot Hooks
 
-The Fisher's Dilemma
+The Old Grounds or the New
 : A season of poor catches leaves Hvurnvir choosing between the grounds he has always fished and the riskier waters the younger fishers favor.
 
-Old Grudges
+A Younger Fisher at the Inns
 : A younger fisher who thinks Hvurnvir's ways outdated sets out to take his place with the inns and fishmongers.
 
-Echoes of the Past
+A Boat Found After the Storm
 : A boat lost in a storm in Hvurnvir's youth is found, and he is the only one left who remembers its crew.
 
-Shifting Winds
-: Political change in Nordheim threatens the trade Hvurnvir depends upon, and he can adapt, resist, or leave.
-
-The Opportunity
-: Hvurnvir is offered the mastery of a larger boat than his own, and its price is not named up front.
+A Larger Boat
+: Hvurnvir is offered the mastery of a larger boat than his own, and the owner is a stranger.
