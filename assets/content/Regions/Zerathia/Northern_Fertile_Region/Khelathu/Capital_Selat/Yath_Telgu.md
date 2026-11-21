@@ -75,3 +75,6 @@ Yath-Telgu is the stage for the empire's highest play and its most controlled sp
 
 [[affiliation-khelathpnthn|Khelathi Pantheon]]
 : Pantheon (Uqa'a, Reth'Sa'ar) · [[affiliation-genzetpalu|Genzet'Palu]]—[[affiliation-genzetpalu|Council of the Nobles]]
+
+[[scenario-nightbfrrdng|The Night Before the Reading]]
+: a scenario: on the eve of the crest the Gar-Au sends strangers to stand at the Measure, and the old Reader is too sick to go down the stair

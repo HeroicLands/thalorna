@@ -203,3 +203,9 @@ The court crossed to the mound in 1006 ST (1105 BF), and every house since has r
 
 [[affiliation-genzetpalu|Genzet'Palu]]
 : [[affiliation-genzetpalu|Council of the Nobles]] · [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods (Uqa'a, Saq'aru)
+
+[[scenario-nightbfrrdng|The Night Before the Reading]]
+: a scenario: on the eve of the crest the Gar-Au sends strangers to stand at the Measure, and the old Reader is too sick to go down the stair
+
+[[scenario-rndrgorge|The Render of the Gorge]]
+: a scenario: the Overseer of the Granaries finds a figure in the year's reckoning he cannot account for, and hires strangers before he signs

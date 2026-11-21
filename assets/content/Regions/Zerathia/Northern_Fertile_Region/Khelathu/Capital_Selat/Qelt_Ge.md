@@ -20,6 +20,9 @@ data:
 
 ## See Also {#see-also}
 
+[[scenario-nightbfrrdng|The Night Before the Reading]]
+: a scenario: the plaza where the city argues about the number on the eve of the crest
+
 [[place-galezkara|Galezkara]]
 : The imperial city
 

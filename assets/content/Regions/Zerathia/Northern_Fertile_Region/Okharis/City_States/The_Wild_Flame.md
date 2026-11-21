@@ -78,3 +78,6 @@ The town lives on what the realm sends: grain, cattle and riders from the tribes
 
 [[place-kaljekor|The Golden Flame]]
 : the Golden Flame, the harbor city
+
+[[scenario-gftmgrflds|A Gift for the Magara Folds]]
+: a scenario: a Khelathi envoy the King cannot answer rides on to the Magara folds to name a price for their horsemen
