@@ -8,7 +8,7 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [commoner, courtier]
+  archetypes: [courtier]
   occupation: Chieftain
   lore: []
   culture: okharinclt

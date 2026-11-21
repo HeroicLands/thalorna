@@ -8,7 +8,7 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [courtier, commoner]
+  archetypes: [courtier]
   occupation: Dómissa
   lore: []
   culture: bethuanclt

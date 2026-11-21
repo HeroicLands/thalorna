@@ -90,22 +90,27 @@ WITH people_of(folder, people) AS (
     ('thalorna-none-folder-vrystwald', 'Vristwald'),
     ('thalorna-none-folder-vylaria', 'Vilérian')
 ),
-peoples AS (
-  SELECT n.*, o.people
+polities AS (
+  SELECT n.data.packFolder AS folder, n.name.full AS polity,
+         n.data.governance.ranks AS ranks
   FROM notes n
-  LEFT JOIN people_of o ON n.data.packFolder = o.folder
   WHERE n.type = 'affiliation' AND n.subType = 'polity'
+),
+peoples AS (
+  SELECT o.people, p.polity, p.ranks
+  FROM polities p
+  LEFT JOIN people_of o ON p.folder = o.folder
 )
 SELECT min(lr.address.slug)                   AS _ref,
        p.people                                AS _section,
        r.title                                 AS "Title",
        r.level                                 AS "Level",
-       string_agg(DISTINCT p.name.full, ' · ' ORDER BY p.name.full) AS "Polities",
+       string_agg(DISTINCT p.polity, ' · ' ORDER BY p.polity) AS "Polities",
        coalesce(
            nullif(regexp_extract(r.description, '^(.*?[.!?])(\s|$)', 1), ''),
            r.description
        )                                       AS "What it is"
-FROM peoples p, unnest(p.data.governance.ranks) AS t(r)
+FROM peoples p, unnest(p.ranks) AS t(r)
 LEFT JOIN notes lr ON concat(lr.package, '-note-', lr.type, '-', lr.shortcode) = r.lore
 WHERE p.people IS NOT NULL
 GROUP BY p.people, r.level, r.title, "What it is"
@@ -122,16 +127,21 @@ under [[doc-lore|Lore]] links to it from its title, and a rung several bodies st
 in the same words is one row naming them all.
 
 ```sql {section-level=3}
-WITH homes AS (
-  SELECT n.*,
-         coalesce(n.data.packFolder, (
-           SELECT min(h.data.packFolder)
-           FROM notes h
-           WHERE list_contains(n.data.parents,
-                               concat(h.package, '-note-', h.type, '-', h.shortcode))
-         )) AS home
+WITH bodies AS (
+  SELECT n.subType, n.name.full AS body, n.data.packFolder AS folder,
+         n.data.parents AS parents, n.data.governance.ranks AS ranks
   FROM notes n
   WHERE n.type = 'affiliation'
+),
+homes AS (
+  SELECT b.*,
+         coalesce(b.folder, (
+           SELECT min(h.data.packFolder)
+           FROM notes h
+           WHERE list_contains(b.parents,
+                               concat(h.package, '-note-', h.type, '-', h.shortcode))
+         )) AS home
+  FROM bodies b
 ),
 traditions AS (
   SELECT n.*, CASE
@@ -174,12 +184,12 @@ SELECT min(lr.address.slug)                   AS _ref,
        t.tradition                             AS _section,
        r.title                                 AS "Title",
        r.level                                 AS "Level",
-       string_agg(DISTINCT t.name.full, ' · ' ORDER BY t.name.full) AS "Bodies",
+       string_agg(DISTINCT t.body, ' · ' ORDER BY t.body) AS "Bodies",
        coalesce(
            nullif(regexp_extract(r.description, '^(.*?[.!?])(\s|$)', 1), ''),
            r.description
        )                                       AS "What it is"
-FROM traditions t, unnest(t.data.governance.ranks) AS u(r)
+FROM traditions t, unnest(t.ranks) AS u(r)
 LEFT JOIN notes lr ON concat(lr.package, '-note-', lr.type, '-', lr.shortcode) = r.lore
 WHERE t.tradition IS NOT NULL
 GROUP BY t.tradition, r.level, r.title, "What it is"
@@ -239,21 +249,25 @@ WITH people_of(folder, people) AS (
     ('thalorna-none-folder-vrystwald', 'Vristwald'),
     ('thalorna-none-folder-vylaria', 'Vilérian')
 ),
-peoples AS (
-  SELECT n.*, o.people
-  FROM notes n
-  LEFT JOIN people_of o ON n.data.packFolder = o.folder
-  WHERE n.type = 'affiliation' AND n.subType = 'polity'
-)
 -- `offices` is keyed by office, so it is read through `json_each`, which walks
 -- an object's keys whether the column is typed as a struct or a map.
+polities AS (
+  SELECT n.data.packFolder AS folder, to_json(n.data.governance.offices) AS offices
+  FROM notes n
+  WHERE n.type = 'affiliation' AND n.subType = 'polity'
+),
+peoples AS (
+  SELECT o.people, p.offices
+  FROM polities p
+  LEFT JOIN people_of o ON p.folder = o.folder
+)
 SELECT p.people AS _section,
        j.key    AS "Office",
        coalesce(
            nullif(regexp_extract(min(j.value->>'$'), '^(.*?[.!?])(\s|$)', 1), ''),
            min(j.value->>'$')
        )        AS "What it is"
-FROM peoples p, json_each(to_json(p.data.governance.offices)) AS j
+FROM peoples p, json_each(p.offices) AS j
 WHERE p.people IS NOT NULL
   AND json_type(j.value) = 'VARCHAR'
 GROUP BY p.people, j.key
