@@ -446,4 +446,4 @@ A Boat Found After the Storm
 : A boat lost in a storm in Hvurnvir's youth is found, and he is the only one left who remembers its crew.
 
 A Larger Boat
-: Hvurnvir is offered the mastery of a larger boat than his own, and its price is not named up front.
+: Hvurnvir is offered the mastery of a larger boat than his own, and the owner is a stranger.

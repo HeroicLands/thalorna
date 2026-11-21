@@ -438,7 +438,7 @@ A Vein Too Small to Notice
 : The small vein Theodbán works keeps Dunkelwald in tools because it is too small to draw the attention a real mine would. Anyone who makes a show of buying its metal, or asks where it comes from, changes that.
 
 Whose Ground
-: Theodbán negotiates his access with the households that use the ground, and no union or mining company stands above him to settle a dispute. When two households claim the same shallow seam, the only one to carry the question to is Eldrún ira Vethskald, the Shaman, whose word the council weighs first.
+: Theodbán negotiates his access with the households that use the ground, and no union or mining company stands above him. In Dunkelwald the council's vote turns on the word of Eldrún ira Vethskald, the Shaman, before anyone else's.
 
 Fewer Hands Every Year
-: Younger Varokh keep leaving Dunkelwald for a landing village's trade and a War Chief's warband, and Theodbán works with kin and hired hands. He struggles with technical mining kit, so each pair of hands that goes is hard for him to replace.
+: Younger Varokh keep leaving Dunkelwald for a landing village's trade and a War Chief's warband, and Theodbán works with kin and hired hands, so each pair of hands that goes is hard to replace.

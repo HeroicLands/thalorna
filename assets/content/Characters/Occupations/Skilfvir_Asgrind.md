@@ -439,7 +439,7 @@ Poachers on the Grounds
 : Poachers thin the lord's game, and Skilfvir has to choose between reporting men he knows and failing the lord he serves.
 
 The Lord's Feasts
-: Skilfvir is often called on to lead the hunting parties at Lord [[being-gnildurmyl|Gnildurmil]]'s feasts, and he sees that the game on the grounds of [[place-ashenwoodmnr|Ashenwood Manor]] is not hunted out. He is cautious and struggles to talk with anyone outside the hunting party.
+: Lord [[being-gnildurmyl|Gnildurmil]] calls a feast at [[place-ashenwoodmnr|Ashenwood Manor]], and Skilfvir must lead the hunting party over grounds where the game has grown thin.
 
 A Greater Hunt
-: Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gnildurmil is not named up front.
+: Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and taking it means leaving Lord Gnildurmil's service.

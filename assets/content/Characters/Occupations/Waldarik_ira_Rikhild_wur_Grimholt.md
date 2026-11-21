@@ -437,10 +437,10 @@ Competitors who undercut his prices.
 ## Plot Hooks
 
 More Requests Than Hands
-: Waldarik has more requests than his household can always finish. He is slower than the larger competitors and will not trade quality for speed.
+: Boat crews and a village warband both bring torn canvas on the same day, and Waldarik's household cannot finish both.
 
 Undercut
-: Competitors undercut Waldarik's prices at Grimholt's river landing. He struggles with marketing, and no guild, city or larger workshop stands behind him.
+: A competitor posts lower prices for tents at Grimholt's river landing the morning a boat crew comes to order, and no guild, city or larger workshop stands behind Waldarik.
 
 Torn Shelters
-: Boat crews and village warriors bring Waldarik torn shelters and pay for tents they can carry through the forest. Both want their canvas first, and Waldarik, who takes pride in his craftsmanship, finishes in his own time.
+: A warband preparing to cross the forest wants tents it can carry, and the boat crews' torn shelters are ahead of them on Waldarik's bench. Waldarik, who takes pride in his craftsmanship, finishes in his own time.

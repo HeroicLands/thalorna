@@ -439,10 +439,10 @@ Few; generally well-respected but some traditionalists may disapprove of his met
 ## Plot Hooks
 
 A Courier's Case
-: Glarvorv's workshop turns resins into goods small enough for a courier to carry and sell dear at the far end of the road. The king's riders who change horses at Dvalgheim are his trade.
+: The king's riders change horses at Dvalgheim, and what Glarvorv makes goes on with the couriers.
 
 Two Kinds of Patron
-: Nobles and adventurers seek out Glarvorv's bold scents, and traditionalists disapprove of his methods. He is too experimental, and he sometimes alienates traditional customers.
+: A noble and a traditionalist who disapproves of his methods reach Glarvorv's workshop on the same day, and the scent the noble wants is the one the traditionalist objects to.
 
 Plants From Distant Lands
-: Glarvorv uses unconventional ingredients, rare plants and flowers from distant lands. Dvalgheim is a relief-post, and what reaches it is what a courier carries.
+: A courier brings Glarvorv a rare plant from a distant land and asks for a scent made from it.

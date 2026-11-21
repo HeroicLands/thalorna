@@ -442,10 +442,10 @@ None, though some apothecaries see her charity as competition.
 ## Plot Hooks
 
 Medicine Given Away
-: Nilthselda is passionate about treating the poor and often gives away medicines for free. She struggles to turn away those in need, and her purse shows it.
+: A poor villager comes to Nilthselda's shop with no coin, and her stock of the remedy needed is nearly gone.
 
 When the Horn Sounds
-: Raltholm's horn calls the levy, and Nilthselda treats the hersvald's men as readily as a farmer's burned hand. She overworks herself.
+: Raltholm's horn calls the levy, and men of the hersvald's muster and a farmer with a burned hand reach her shop in the same hour.
 
 The Charity Seen as Competition
-: Some apothecaries see Nilthselda's charity as competition. A hard winter that costs the horn its answer costs the hersvald his standing, and the villagers she treats are the men whose consent keeps him in his hall.
+: An apothecary who sees her charity as competition sets his prices against her free remedies in front of the villagers she treats, the men whose consent keeps the hersvald in his hall.

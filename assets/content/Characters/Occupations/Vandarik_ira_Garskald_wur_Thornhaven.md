@@ -436,10 +436,10 @@ Few; well-liked among the community.
 ## Plot Hooks
 
 Both Kinds of Visitor
-: A Velanthian river-prince's agent and a Varokh war-band's scouts are equally likely to be the next visitor through Thornhaven's gate, and both need their horses serviced before they move on. Vandarik keeps the stable for both and struggles with conflict.
+: A Velanthian river-prince's agent and a Varokh war-band's scouts are equally likely to be the next visitor through Thornhaven's gate, and both need their horses serviced before they move on. Vandarik keeps the stable for both.
 
 What the Stable Hears
-: Vandarik keeps the stable ready for river traders, visiting scouts and the War Chief's riders, and its household answers to the village's bargains. He hears what each of them says about the frontier.
+: A river trader and a Varokh scout share Vandarik's stable at the same time, and each speaks of the frontier within his hearing.
 
 Loyalty Asserted
-: The Velanthian princes trust Thornhaven as nothing more than an auxiliary, and the village asserts its loyalty to the Vristwald tribes more loudly than villages that have never had reason to doubt it. Vandarik, whom travelers and locals both respect, sees from his stable which side each visitor comes from.
+: A visitor at the stable door declares his loyalty to the Vristwald tribes loudly, and Vandarik, who sees from his stable which side each visitor comes from, knows which way the man rode in.

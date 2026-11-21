@@ -433,7 +433,7 @@ Few; respected by the community.
 ## Plot Hooks
 
 What the Grooms Say
-: Velanthian grooms and Varokh grooms both talk in Sundwira's stable, and she hears the quarrel over the captive and the surety child from both sides. She is stubborn and struggles with authority figures.
+: Velanthian grooms and Varokh grooms both talk in Sundwira's stable, and she hears the quarrel over the captive and the surety child from both sides.
 
 A Horse Come Too Far Too Fast
 : Frithhaven's Other Chief counts on Sundwira to notice a horse that has come too far too fast. At the landing, where the truce at the water is already strained, a horse in that state means its rider is hurrying.

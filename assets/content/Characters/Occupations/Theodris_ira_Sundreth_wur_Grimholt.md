@@ -433,10 +433,10 @@ None, but has been targeted by pickpockets.
 ## Plot Hooks
 
 No Household
-: Theodris sings at Grimholt's landing for food and coin, and no household has taken her in. No street circuit or performers' association stands behind her when one turns her away.
+: A household that gave Theodris food last week turns her away at its door, and no street circuit or performers' association stands behind her.
 
 Pickpockets at the Wharves
-: Pickpockets have targeted Theodris. A good season leaves the traders at Grimholt's wharves generous, and what they give her is what she has.
+: A pickpocket takes the coins Theodris was given at Grimholt's wharves, and they are all she has.
 
 A Message Carried
-: Boat crews and village households give Theodris a coin for a message carried. She is trusting and easily taken advantage of, and she carries what she is handed.
+: A boat crew gives Theodris a coin to carry a message to a village household, and she carries what she is handed.

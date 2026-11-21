@@ -3,7 +3,7 @@ shortcode: rdrnvthrnd
 name: {full: Radrún ira Vithrúnd wur Grimholt}
 type: being
 subType: npc
-description: "A woman who works in a Grimholt brothel and serves the Gray Tide as lookout and messenger."
+description: "A woman who works in a Grimholt brothel, where she overhears what clients say."
 tags: [draft, underworld]
 data:
   icon: icon-person

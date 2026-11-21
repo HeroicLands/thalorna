@@ -439,7 +439,7 @@ Watchmen or Repairs
 : The War Chief wants every family to keep a watchman on Skathburg's outer wall, and the Other Chief says that leaves too few hands to repair houses and bring in stores. Wulfrád trains the recruits and needs workers for the ring.
 
 The Wet Season
-: Wulfrád says the double ring is the only wall in Skathwald he would trust in a wet season. Grukar raids come in small numbers and keep coming, and a stretch that needs a new method meets a man who is set in his ways.
+: Rain sets in, and a stretch of the double ring needs a method Wulfrád has not used before while Grukar raiders probe it in small numbers.
 
 The Daughter Clearing
-: At four hundred and eighty residents Skathburg is nearing the point at which a daughter clearing would be customary, and nobody agrees who could safely leave. A new clearing needs a wall, and Wulfrád is the village's sapper.
+: Skathburg is nearing the size at which a daughter clearing would be customary, and nobody agrees who could safely leave. A new clearing needs a wall, and Wulfrád is the village's sapper.

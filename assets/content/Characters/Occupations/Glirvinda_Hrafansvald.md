@@ -451,4 +451,4 @@ The Broken Boat
 : A boat Glirvinda built for her family of fishermen in her apprentice years comes back to her yard broken, with her early work plain to see.
 
 A Commission With No Price
-: Glirvinda is offered a commission larger than any she has built, and its price is not named up front.
+: Glirvinda is offered a commission larger than any she has built, and the buyer will not say who is paying.

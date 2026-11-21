@@ -3,7 +3,7 @@ shortcode: mrvrhrfnsvld
 name: {full: Murvir Hrafansvald}
 type: being
 subType: npc
-description: "A Knalthstead jeweler who sets amber and silver for the king's court and values gemstones for nobles and traders."
+description: "A Knalthstead jeweler who sets amber and silver for the town's court and values gemstones for nobles and traders."
 tags: [draft, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -446,4 +446,4 @@ A Piece in the Wrong Hands
 : A piece Murvir made early in his trade resurfaces in the wrong hands.
 
 A Commission Beyond the Shop
-: A noble commission comes to Murvir beyond anything his shop has handled, and its price is not named up front.
+: A noble commission comes to Murvir beyond anything his shop has handled, and the noble wants it made in the shop's back room.

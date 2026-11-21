@@ -438,10 +438,10 @@ Few; generally respected by fellow artisans.
 ## Plot Hooks
 
 Trade-Weight Pieces
-: Flurnvir sets amber and northern silver into pieces small enough for a courier to carry and sell at either end of the road. He is meticulous and struggles with time management when the work is heavy.
+: A courier bound for the coast road waits at Flurnvir's bench for pieces small enough to carry, and the bench is still full of other work.
 
 The Toll on the Loads
-: Kraldstead's packers and the landvordur argue over the toll on a season's loads, and the scale never settles it. Flurnvir's amber travels in the same panniers.
+: The landvordur sets the toll on a season's loads, and the packers whose panniers carry Flurnvir's amber refuse to pay it.
 
 Past the Tally-Stick
-: Kraldstead has no hall, hersvald or ting. A dispute too large for the scale and the tally-stick waits for whichever Lawspeaker next passes on his circuit, and Flurnvir's pieces are sold at either end of the road, far from his bench.
+: A dispute over a piece of Flurnvir's amber work is too large for the scale and the tally-stick, and it waits for the next Lawspeaker on his circuit, with the piece still on Flurnvir's bench.
