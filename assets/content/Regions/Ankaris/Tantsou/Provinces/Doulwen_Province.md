@@ -64,7 +64,7 @@ Doulwen Province is the western province of the [[affiliation-tantsouempr|Empire
 
 Its Prince, of the [[lore-zhazho|Zhazho]], is a younger Prince, rising fast. He stands for reform, and he has the ear of the young Emperor. The other three Princes watch him in the [[lore-weizhairui|Wei Zhai Rwi]], since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
 
-The mountain villages above the passes and the soldier families of their garrisons are of the [[lore-tantsoumrchclt|frontier peoples]].
+The mountain villages above the passes and the soldier families of their garrisons are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]].
 
 ## See Also {#see-also}
 

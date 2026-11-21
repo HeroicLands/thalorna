@@ -101,7 +101,7 @@ The Princes
 : the _Zho Zhei_ of the [[lore-zhazho|Zhazho]], each holding a province with its armies and answering to the Emperor alone; the kingmakers of every succession dispute.
 
 The provinces
-: [[affiliation-wongsenprv|Wongsen]], the richest, on the delta and the coasts; [[affiliation-doulwenprv|Doulwen]] in the west; [[affiliation-kwozhengprv|Kwozheng]] in the north; [[affiliation-mwonouprv|Mwonou]] in the southwest.
+: [[affiliation-wongsenprv|Wongsen Province]], the richest, on the delta and the coasts; [[affiliation-doulwenprv|Doulwen Province]] in the west; [[affiliation-kwozhengprv|Kwozheng Province]] in the north; [[affiliation-mwonouprv|Mwonou Province]] in the southwest.
 
 The sorcerers
 : the [[lore-wanduo|Wandwo]], property of the imperial family, ranked second of the eight castes and owning nothing.
