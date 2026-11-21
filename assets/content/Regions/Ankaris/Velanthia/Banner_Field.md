@@ -15,7 +15,7 @@ data:
 
 ## Overview {#overview}
 
-Banner Field is a stretch of open grass on the eastern steppe margin, a morning's ride from the [[affiliation-hstkhrd|Khorad Host]]'s muster town of [Krodashov]{.name data-type="place/settlement"}, where the caravan road of the [[affiliation-hsttrvl|Tarvál Host]] runs out into the Khorad country. It has no wall and no roof. It has a ring of stones, a turf rampart low enough to step over, and at the center a battle-shrine of oak posts and iron, beside which each Host sets up the portable shrine it carries and plants its banner, its _beluk_.
+Banner Field is a stretch of open grass on the eastern steppe margin, a morning's ride from the [[affiliation-hstkhrd|Khorad Host]]'s muster town of [[place-krdshv|Krodashov]], where the caravan road of the [[affiliation-hsttrvl|Tarvál Host]] runs out into the Khorad country. It has no wall and no roof. It has a ring of stones, a turf rampart low enough to step over, and at the center a battle-shrine of oak posts and iron, beside which each Host sets up the portable shrine it carries and plants its banner, its _beluk_.
 
 The Hosts keep no fixed temples, and Banner Field is where all three meet beneath the open sky. Here they take their oaths, consult the heads of their clans, and hear one another's price before they take it to a prince.
 
@@ -29,7 +29,7 @@ The Hosts have gathered on this ground, each with its battle-shrine, since their
 
 ## What Is There Now {#present}
 
-This year's gathering has to settle whether the Hosts answer the tribes together or each alone. [Belukan Kelodov]{.name data-type="being/npc"} of the Khorad Host has told the river communities to stop paying the [[affiliation-sqrtrtrb|Soqritur]], and the Soqritur have answered with riders. The prince's arrears to the Khorad Host are late. [Volkar Kodogorich]{.name data-type="being/npc"} of the Tarvál Host has been offered more by the steppe tribes than the prince of the port pays, and he lets the prince hear of it. [Sovidan Volketich]{.name data-type="being/npc"} of the [[affiliation-hstsvrt|Sevret Host]] wants assurance that the harvest pay will come on the day before his riders return to the passes. Each ataman sits with the other two and speaks for his own Host's price, and the prince's envoys wait outside the ring.
+This year's gathering has to settle whether the Hosts answer the tribes together or each alone. [[being-blknkldv|Belukan Kelodov]] of the Khorad Host has told the river communities to stop paying the [[affiliation-sqrtrtrb|Soqritur]], and the Soqritur have answered with riders. The prince's arrears to the Khorad Host are late. [[being-vlkrkdgrch|Volkar Kodogorich]] of the Tarvál Host has been offered more by the steppe tribes than the prince of the port pays, and he lets the prince hear of it. [[being-svdnvlktch|Sovidan Volketich]] of the [[affiliation-hstsvrt|Sevret Host]] wants assurance that the harvest pay will come on the day before his riders return to the passes. Each ataman sits with the other two and speaks for his own Host's price, and the prince's envoys wait outside the ring.
 
 ## Dangerous Neighbors {#dangerous-neighbors}
 

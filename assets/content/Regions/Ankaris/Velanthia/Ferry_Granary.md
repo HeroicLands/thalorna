@@ -25,7 +25,7 @@ The house began as a ferryman's shed and a shrine of Lizelas on the bank where t
 
 ## Current Situation {#present}
 
-Two men want something from the house that it will not give on its own word. The prince's keeper at Zhitavesh, [Duvek Radovodich]{.name data-type="being/npc"}, wants a count of the barn, because the late rain makes a short harvest likely and the prince cannot supply the frontier forts and pay his Hosts from what he can see. [Sovidan Volketich]{.name data-type="being/npc"} of the [[affiliation-hstsvrt|Sevret Host]] wants grain advanced against the pay due at harvest, so that his riders can eat while they escort the last wagon trains. The starbrat will give the keeper no count and the ataman no loan on his word alone, and has sent to the abbess of the great granary at Zhitavesh, [Radora Boskvanich]{.name data-type="being/npc"}, who mediates between the princes and the Hosts and will hear both men.
+Two men want something from the house that it will not give on its own word. The prince's keeper at Zhitavesh, [[being-dvkrdvdch|Duvek Radovodich]], wants a count of the barn, because the late rain makes a short harvest likely and the prince cannot supply the frontier forts and pay his Hosts from what he can see. [[being-svdnvlktch|Sovidan Volketich]] of the [[affiliation-hstsvrt|Sevret Host]] wants grain advanced against the pay due at harvest, so that his riders can eat while they escort the last wagon trains. The starbrat will give the keeper no count and the ataman no loan on his word alone, and has sent to the abbess of the great granary at Zhitavesh, [[being-rdrbskvnch|Radora Boskvanich]], who mediates between the princes and the Hosts and will hear both men.
 
 ## Who Rules It {#who-rules-it}
 

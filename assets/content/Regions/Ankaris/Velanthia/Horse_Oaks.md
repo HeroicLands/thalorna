@@ -29,7 +29,7 @@ The oaks were sacred before the river-princes had seats. The Velanthian houses o
 
 ## What Is There Now {#present}
 
-The port wants the grove's oak. [Milogor Yarogorich]{.name data-type="being/npc"} of Brelavesh has bought mills upriver against the lowland prince's wishes, and a mill needs oak for its wheel and its sluice gates. The prince's mill-wrights have offered silver for the oldest trees, since no other stand on the river is as large. The villages of the bluff will sell windfall and nothing standing, and their headman says the grove is not Milogor's to sell. This year's late rain makes the first sheaf harder to cut, and the villages are not in a mood to argue about it.
+The port wants the grove's oak. [[being-mlgryrgrch|Milogor Yarogorich]] of Brelavesh has bought mills upriver against the lowland prince's wishes, and a mill needs oak for its wheel and its sluice gates. The prince's mill-wrights have offered silver for the oldest trees, since no other stand on the river is as large. The villages of the bluff will sell windfall and nothing standing, and their headman says the grove is not Milogor's to sell. This year's late rain makes the first sheaf harder to cut, and the villages are not in a mood to argue about it.
 
 ## Dangerous Neighbors {#dangerous-neighbors}
 
