@@ -6,6 +6,7 @@ subType: feature
 description: "The mountain line that closes Velanthia's southern rim and divides it from Helionis and the Northern March: its several passes are crossed by grain wagons going south and by ore and marauders coming north."
 tags: [draft, mountain, border]
 data:
+  culture: velanthclt
   demonym: null
   lore: [humanflk]
   parents: [velanthrgn, helionis, northrnmrch]
