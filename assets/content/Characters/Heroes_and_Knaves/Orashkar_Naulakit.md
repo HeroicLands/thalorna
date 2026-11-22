@@ -544,15 +544,13 @@ Teamsters' Guild
 ## Plot Hooks
 
 A Caravan Gone Without a Trace
-: A major shipment of House Valdris vanished three weeks ago on a road Órashkar has traveled a hundred times, leaving no wreckage, bodies or signs of struggle. The patrons blame the Ravenswood brigands, but Órashkar's inquiry points to something stranger, with talk of sorcery, of a rival sabotaging competitors, and even of Órashkar's own failing faculties. Some of his protégés may have been in the convoy.
+: A major shipment of House Valdris vanished three weeks ago on a road Órashkar has traveled a hundred times, leaving no wreckage, bodies or signs of struggle. The patrons blame the Ravenswood brigands, but Órashkar's inquiry points to something stranger, with talk of sorcery, of a rival sabotaging competitors, and even of Órashkar's own failing faculties. Some of his protégés may have been in the convoy. Órashkar can leave the matter to House Valdris, or ride the road himself at a pace his stamina may not bear.
 
 An Inn from a Sister He Lost
 : Órashkar's sister, from whom he has been estranged for over twenty years, dies and leaves him a remote inn and trading post at the edge of the League's territory. A man already settled as proprietor claims to have been her partner and to hold a prior claim, the locals have never heard of her, and documents suggest she invented parts of her family history. Órashkar must untangle the claim and her secrets.
 
 A Map Older Than the Roads
-: Órashkar is hired to guide scholars and artificers to a ruin in uncharted country using map fragments older than any trade route in the League's records. The land does not match what he remembers of nearby journeys, landmarks stand where they should not and distances will not hold still. As his navigation fails, he must decide whether to turn back or press on.
+: Órashkar is hired to guide scholars and artificers to a ruin in uncharted country using map fragments older than any trade route in the League's records. The land does not match what he remembers of nearby journeys, since the fragments' landmarks do not stand where the land puts them. As his navigation fails, he must decide whether to turn back or press on.
 
-:::secret {title="Hooks: the protégé's trade"}
-Cassin's Cargo
-: Cassin, a young teamster Órashkar trained as a protégé, uses Guild resources and knowledge to smuggle forbidden goods in merchant caravans. Órashkar must report him and destroy a promising future, or become complicit. Cassin threatens to reveal damaging truths about one of Órashkar's oldest patrons, which Órashkar has overlooked for decades in the service of profitable arrangements.
-:::
+Thorne Before the Guild
+: Merchant Castellan Thorne tells the Teamsters' Guild that Órashkar's methods are too slow for present trade, and Guild Master [[being-zhambelinake|Zhambelina Keramakit]] asks Órashkar to answer him before the guild. He can defend the old standards in person, with his failing stamina in plain view, or let the young teamsters he trains make the case.

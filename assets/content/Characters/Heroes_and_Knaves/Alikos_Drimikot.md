@@ -3,7 +3,7 @@ shortcode: alyksdrymkt
 name: {full: Alikos Drimikot, given: Alikos, clan: Drimikot}
 type: being
 subType: character
-description: "A master timberwright of the Bizarian League and its Timberwrights' Guild, famed for ships' frames and architectural beams and increasingly a teacher of apprentices."
+description: "A master timberwright of the Bizarian League and its Timberwrights' Guild, a craftsman of the first skill who increasingly teaches apprentices."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -460,9 +460,9 @@ Alikos stands 6'0" tall with a medium build. He has light weathered skin, grayin
 
 Alikos was born into the timber-working tradition of the [[affiliation-byzarianlg|Bizarian League]], son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alikos worked alongside his father [Drimikot the Elder]{.name data-type="being/npc"}, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
 
-At twenty-two, he completed his formal apprenticeship and became a journeyman, traveling throughout the League to work on prestigious projects—the reinforced beams of merchant halls, the masts of noble vessels, the ornamental woodwork of temple interiors. At thirty, he established his own workshop and took the title of Master when his improvements in joinery earned recognition from [The Timberwrights' Guild of the Bizarian League]{.name data-type="affiliation/guild"}. For the next twenty-three years, he built a reputation as a craftsman of the first skill, his work commissioned by the most demanding clients, his designs influencing standards throughout the trade.
+At twenty-two, he completed his formal apprenticeship and became a journeyman, traveling throughout the League to work on prestigious projects—the reinforced beams of merchant halls, the masts of noble vessels, the ornamental woodwork of temple interiors. At thirty, he established his own workshop and took the title of Master when his improvements in joinery earned recognition from [The Timberwrights' Guild of the Bizarian League]{.name data-type="affiliation/guild"}. For the next twenty-two years, he built a reputation as a craftsman of the first skill, his work commissioned by the most demanding clients, his designs influencing standards throughout the trade.
 
-Now, at fifty-three, Alikos operates a successful workshop while increasingly training apprentices and consulting on major projects. Yet the passing decades have made him aware that his way of working—the traditional methods that have served him well—may not survive into the next generation. Younger timberwrights increasingly employ new techniques, newer tools, and ever faster methods that put speed before the patience of masterful craft.
+Now, at fifty-two, Alikos operates a successful workshop while increasingly training apprentices and consulting on major projects. Yet the passing decades have made him aware that his way of working—the traditional methods that have served him well—may not survive into the next generation. Younger timberwrights increasingly employ new techniques, newer tools, and ever faster methods that put speed before the patience of masterful craft.
 
 ## Psyche
 
@@ -483,7 +483,7 @@ Secondarily, Alikos is driven by pride in his craft. He wants to complete signif
 ### Strengths
 
 Masterful Timbercraft
-: His timbercraft, with five specializations, combined with twenty-three years as a master craftsman, makes him one of the League's finest timber-workers. He can design and construct wooden structures of great complexity and durability.
+: His timbercraft, with five specializations, combined with twenty-two years as a master craftsman, makes him one of the League's finest timber-workers. He can design and construct wooden structures of great complexity and durability.
 
 Physical Strength
 : Despite his age, his strength allows him to continue performing physically demanding work. Combined with his technical knowledge, this makes him ideally suited to the demands of timber manipulation.
@@ -503,7 +503,7 @@ Survival and Versatility
 ### Weaknesses
 
 Age-Related Limitations
-: At fifty-three, Alikos is beginning to experience the physical consequences of a lifetime of demanding labor. His endurance is adequate but declining; he tires more easily than younger workers and recovers more slowly from injury.
+: At fifty-two, Alikos is beginning to experience the physical consequences of a lifetime of demanding labor. His endurance is adequate but declining; he tires more easily than younger workers and recovers more slowly from injury.
 
 Resistance to Innovation
 : His deeply ingrained respect for traditional methods makes him skeptical of new techniques and tools, sometimes to the point of actively dismissing improvements that could save labor or extend what he can do.
@@ -551,22 +551,22 @@ The Timberwrights' Guild of the Bizarian League
 
 ## Plot Hooks
 
-A Log Too Old to Be Sound
-: A merchant who gives no name brings Alikos a single log of extraordinary beauty and unknown origin and asks what it is good for. The wood looks impossibly old and shows no rot, its grain seems to shift in different light, and it carries a scent he cannot place. Learning where it came from means following the merchant into trades and traditions he has never worked in.
+Underbid by the Modernists
+: Vektor the Innovator offers the Noble House of Theodakis a faster, cheaper frame for its next commission, the fourth Alikos has expected from the house. He can lower his price and hurry his methods to keep his oldest patron, or hold to his work and let the house choose.
 
 A Frame That Travels
 : A wealthy noble commissions a building frame that can be assembled and taken down again for repeated moves, with the beauty and strength of a permanent structure. The speed and portability contradict everything Alikos believes about timber, and the commission is the largest he has been offered and could secure his workshop and prove that traditional methods answer present needs.
 
 Charzilikon at His Bedside
-: Word reaches Alikos that his son [[being-tcharzilikon|Charzilikon Drimikot]], estranged for fifteen years, has been gravely hurt in a workshop accident and asks for his father. Alikos must decide whether to go to the sickbed with the quarrel unsettled.
+: Word reaches Alikos that his son [[being-tcharzilikon|Charzilikon Drimikot]], estranged for fifteen years, has been gravely hurt in a workshop accident and asks for his father. At the bedside Charzilikon says he took up the new methods to step out of his father's shadow rather than to reject him, and he wants to be reconciled. Alikos must decide whether to go, and whether the quarrel can be settled.
 
 Deaths in the Old Workshop
 : Competitors and younger timberwrights who worked in Alikos's workshop decades ago begin to die, in injuries that seemed minor and deaths that seemed natural. Alikos must decide whether the workshop is haunted or someone is deliberately picking off those tied to his lineage.
 
-:::secret {title="Hooks: the apprentice and the harvest"}
+:::secret {title="Further hooks"}
 Elara's Errand
-: The talented young apprentice Elara, who seeks training under Alikos and shows a real grasp of traditional methods, has been sent by the Modernist Faction. She means to learn his techniques and then show in public that newer tools match his results in a fraction of the time. Alikos can expose her, keep her and hope to turn her, or let the deception run and use it.
+: The talented young apprentice [Elara]{.name data-type="being/npc"}, who seeks training under Alikos and shows a real grasp of traditional methods, has been sent by the Modernist Faction. She means to learn his techniques and then show in public that newer tools match his results in a fraction of the time. Alikos can expose her, keep her and hope to turn her, or let the deception run and use it.
 
 The Timber Harvest Thirty Years Gone
-: The deaths trace to a timber harvest from thirty years past and possibly to an ancient curse bound up with the wood itself.
+: The deaths trace to a timber harvest from thirty years past.
 :::

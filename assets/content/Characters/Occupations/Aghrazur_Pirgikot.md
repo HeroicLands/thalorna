@@ -374,7 +374,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ághrazur is striking in his proportions—6'5" tall with a massive, heavily muscled frame that makes him the largest man in most rooms he enters. His dark brown hair is thick and curling, worn to his collar in the [[lore-byzarianclt|Bizarian]] style, and his brown eyes are unexpectedly gentle in a face built for war. His fair skin is smooth and largely unmarked despite his martial profession, though a sprawling tattoo of a griffon in dark ink covers his right shoulder and upper arm—the mark of his regiment. His features are broad and heavy-boned, with a wide nose and a strong chin softened by a neatly trimmed black beard. He wears his Bizarian heavy infantry kit with obvious pride: a polished mail hauberk over a padded coat, kurbul greaves, and a broadsword that looks almost proportional in his enormous grip.
+Ághrazur is striking in his proportions—6'5" tall with a massive, heavily muscled frame that makes him the largest man in most rooms he enters. His dark brown hair is thick and curling, worn to his collar in the [[lore-byzarianclt|Bizarian]] style, and his brown eyes are unexpectedly gentle in a face built for war. A sprawling serpent tattoo in dark ink covers his right shoulder and upper arm, the mark of the Black Serpent Company. His features are broad and heavy-boned, with a wide nose and a strong chin softened by a neatly trimmed black beard. He wears a polished mail hauberk over a padded coat, kurbul greaves, and a broadsword that looks almost proportional in his enormous grip.
 
 # Dossier {#dossier}
 
@@ -423,12 +423,15 @@ A Command Without a Company
 The Lieutenant Who Was Reported Dead
 : An injured man staggers into a caravan camp and proves to be [[being-mazhreliongh|Mazhrelion Ghotidek]], Ághrazur's lieutenant, reported killed five years ago. He says the official report is false and asks Ághrazur to help him carry his evidence against Nikómarzan Varakazur to a public hearing, at the risk of both their lives.
 
-:::secret {title="Hooks: what the convoys carry and what is offered"}
-The Medicine Wagons
-: A small honest merchant convoy hires Ághrazur to cross bandit country with medicinal goods. The crates hide refugee families fleeing persecution, and carrying them is illegal in several of the territories on the road. He can drop the job and keep his neutral standing, or defend the refugees at his own legal risk.
+A Place in the House
+: Storon Kantakouzenios offers Ághrazur permanent employment with his merchant house, with wealth and security no freelance contract gives. Taking it binds him to one master again, and refusing risks the best patron he has had in five years.
 
+:::secret {title="Further hooks"}
 What Kantakouzenios Moves
 : The sealed crates Kantakouzenios has Ághrazur guard hold restricted military supplies bound for a political faction, and the bandits are soldiers sent to seize them. Ághrazur must choose between his respect for his best patron and his hatred of military corruption.
+
+The Report Mazhrelion Carries
+: The Black Serpent soldiers listed as killed in action were executed on command to cover the political corruption behind the disaster. Mazhrelion holds evidence of it, and his life is in danger for it.
 
 A Duel Without Witnesses
 : Hired to guard a diplomatic mission in lands where Nikómarzan Varakazur now commands the local forces, Ághrazur receives a private message from him offering a meeting with no witnesses and no consequences. Whether the offer is a genuine chance at revenge or a trap to be rid of him, Ághrazur must decide.

@@ -3,7 +3,7 @@ shortcode: dumarsrfrs
 name: {full: Dumares Rafiros}
 type: being
 subType: npc
-description: "A high-born priest and chief judge of the Temple of Árdavon in Korinthea, famed duelist, tournament champion and founder of the Refuge of Árdavon, with a reputation for eloquence and inexorable judgment."
+description: "A high-born priest and one of the chief judges of the Temple of Árdavon in Korinthea, famed duelist, tournament champion and founder of the Refuge of Árdavon, with a reputation for eloquence and inexorable judgment."
 tags: [draft, clergy]
 data:
   icon: icon-person
@@ -399,7 +399,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Dumares Rafiros is a 36-year-old man who stands 5'9" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a square chin. His wide-set hazel eyes sit beneath straight brows, lending him an open gaze. A prominent nose and expressive lips complete his features. He has medium-toned skin with a sun-tanned complexion. His dark brown hair is combed neatly to one side.
+Dumares Rafiros is a 35-year-old man who stands 5'9" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a square chin. His wide-set hazel eyes sit beneath straight brows, lending him an open gaze. A prominent nose and expressive lips complete his features. He has medium-toned skin with a sun-tanned complexion. His dark brown hair is combed neatly to one side.
 
 Everything about Dumares speaks of careful cultivation. His bearing is almost impossibly upright, shoulders back, chin raised in what might be described as noble repose—or, less charitably, chronic condescension. His hands are long-fingered and strong, the hands of a swordsman, yet they gesture with practiced grace when he speaks, as though each motion has been rehearsed to emphasize a point. His attractive face—almost startlingly so—seems designed to inspire confidence and aspiration. He is the kind of man people want to follow, at least until they have been scorched by his judgment.
 
@@ -441,7 +441,7 @@ Among the common people, his reputation is complicated. He is known as the judge
 
 **Patrons:** Dumares's primary patrons are the high nobility of Korinthea, particularly the merchant princes who have much to gain from his fair but firm interpretation of commercial law. Specifically, he maintains close relationships with Arsir [[being-theroressafi|Thérores Safithos]] of the Council of Korinthea (his primary political support), and with his own biological family, particularly his elder brother [Aristides]{.name data-type="being/npc"}, who holds considerable influence in the Council. The ancient priest [[being-adhelimisgho|Adhélimis Ghotones]], the temple's elder and keeper of the tradition of the Patriarchate, relies heavily on Dumares and has indicated that he may be groomed to carry that tradition.
 
-**Enemies:** Dumares's primary adversary is Father [Malachi]{.name data-type="being/npc"} of the Temple's Western Chapter, a much older priest who views Dumares's innovations in charitable work and civic law as corruptions of Árdavon's warrior-nature and who actively schemes against Dumares's advancement. More personally dangerous is [Yeghena]{.name data-type="being/npc"}, a woman from Dumares's past—the daughter of a merchant house that he once ruled against in a legal dispute. Her father died in poverty, and Yeghena has spent twenty years building a network specifically designed to expose Dumares's blindness and bring down his reputation. [[affiliation-blackflame|The Black Flame]] (devoted to [[lore-ustarondty|Ústaron]], god of domination and strength), which his faith opposes, maintains a shadowy priesthood in Korinthea that sees Dumares as a direct spiritual opponent and seeks to undermine his authority.
+**Enemies:** Dumares's primary adversary is Father [Malachi]{.name data-type="being/npc"} of the Temple's Western Chapter, a much older priest who views Dumares's innovations in charitable work and civic law as corruptions of Árdavon's warrior-nature and who actively schemes against Dumares's advancement. More personally dangerous is [Yeghena]{.name data-type="being/npc"}, a woman from Dumares's past—the daughter of a merchant house that he once ruled against in a legal dispute. Her father died in poverty, and Yeghena has spent years building a network specifically designed to expose Dumares's blindness and bring down his reputation. [[affiliation-blackflame|The Black Flame]] (devoted to [[lore-ustarondty|Ústaron]], god of domination and strength), which his faith opposes, maintains a shadowy priesthood in Korinthea that sees Dumares as a direct spiritual opponent and seeks to undermine his authority.
 
 ## Plot Hooks
 
@@ -454,13 +454,13 @@ The Reformed Charge
 The Scholar and the Honor of Árdavon
 : An itinerant scholar arrives in Korinthea and publicly argues that Dumares has made honor a tool of oppression and that true chivalry demands radical compassion. Followers gather and the debate threatens to become a schism. Dumares can refute the scholar, which is hard because some of the points land, or suppress the teaching, which would compromise his own principles.
 
-:::secret {title="Hooks: the hands behind the case"}
+:::secret {title="Further hooks"}
 A Trial Made to Order
-: Yeghena, the daughter of the merchant house Dumares ruled against, arranged the case of the mother and the copper so that he faces an impossible choice before the whole Council. She has spent twenty years building a network to expose his blindness, and this trial is her opening move.
+: Yeghena, the daughter of the merchant house Dumares ruled against, arranged the case of the mother and the copper so that he faces an impossible choice before the whole Council. She has spent years building a network to expose his blindness, and this trial is her opening move.
 
 A Brother's Favor
 : Dumares's elder brother Aristides involves himself in a commercial scheme that borders on fraud and asks Dumares to use his judicial authority to quash any investigation or make it find in his favor. Refusing breaches the family permanently and costs Dumares standing in the Council, where Aristides holds great influence and will bear the grudge.
 
 A Season in the Poorest Quarter
-: [[being-adhelimisgho|Adhélimis Ghotones]] tells Dumares in private that he wishes the honorary Patriarchate bestowed again on him, but only if he shows growth in compassion, and sends him to serve as a simple healing priest in the poorest quarter of Korinthea for a season. His efforts to help prove cruel despite his intentions and the people he serves come to despise him, and he must surrender the dream or become a different man.
+: [[being-adhelimisgho|Adhélimis Ghotones]] tells Dumares in private that he wishes the honorary Patriarchate bestowed again, on Dumares, but only if he shows growth in compassion, and sends him to serve as a simple healing priest in the poorest quarter of Korinthea for a season. His efforts to help prove cruel despite his intentions and the people he serves come to despise him, and he must surrender the dream or become a different man.
 :::

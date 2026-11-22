@@ -16,7 +16,7 @@ data:
   affiliations: {}
   gender: male
   species: humanflk
-  born: "681.105"
+  born: "687.105"
   died: null
   height: 5' 11"
   weight: 144 lbs
@@ -38,7 +38,7 @@ data:
 
 # Appearance {#appearance}
 
-Charzilikon Drimikot is a 38-year-old man who stands 5'11" tall with a light build. He has light skin, weathered complexion, black hair, and green eyes.
+Charzilikon Drimikot is a 32-year-old man who stands 5'11" tall with a light build. He has light skin, weathered complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 

@@ -469,7 +469,7 @@ Kalida stands 5'7" tall with a light build. She has light tanned skin, black hai
 
 Born to the [Kourkásios family]{.name data-type="affiliation/lineage"}, prosperous wine merchants of the [[affiliation-byzarianlg|Bizarian League]], Kalida was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the [Old Kingdom]{.name data-type="affiliation/polity"}, studying under the aging master potter [Timolkar the Glazemaster]{.name data-type="being/npc"} against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
 
-Within five years, her work had become known throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-nine, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
+Within five years, her work had become known throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-eight, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
 
 ## Psyche
 
@@ -554,13 +554,13 @@ Copies at Half the Price
 Andronash Returns
 : Her former lover Andronash reappears with a proposal to build something new together from sculpture and pottery, a work that would make both their names. Their history is full of betrayal and heartbreak, and she must decide whether the ambition outweighs the wound or whether this is a trap built on her vulnerabilities.
 
-Clay from the Far South
-: A trader brings an extraordinary clay from far southern lands, and sample pieces fired from it show iridescence and colors no ordinary glaze can reach. The clay is rare and costly, and the trader asks more about her methods than a seller needs to. She must secure enough for a new line of work and learn what the trader really wants.
+Barred from the Exhibition
+: The Conservative Artisans' Guild Faction moves to keep Kalida out of the Artisans' Guild of Bizaria's next exhibition, while Lord Arsir [[being-krorighosgha|Krorighos Gharazur]] wants a major piece finished in the same season. She can fight the exclusion inside the guild, or give the season to her patron and leave the hall to the traditionalists.
 
 Timolkar's Journal
-: Her old teacher Timolkar dies and leaves her his private collection of classical pottery and a journal that hints at techniques beyond even his own achievements. Kalida must decide whether to build on them and whether to credit the journal for what she builds.
+: Her retired teacher Timolkar gives Kalida his private collection of classical pottery and a journal that hints at techniques beyond even his own achievements. Kalida must decide whether to build on them and whether to credit the journal for what she builds.
 
-:::secret {title="Hooks: the patron and the teacher's partner"}
+:::secret {title="Further hooks"}
 A Patron Who Will Not Say
 : A patron offers a commission large enough to fund her ambitions for years, for a series of vessels with specific unusual properties, and will not say what they are for. The designs suggest uses both mystical and possibly harmful, and she must decide whether to accept and risk entanglement with forces she does not understand.
 

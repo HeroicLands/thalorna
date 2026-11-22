@@ -371,7 +371,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Gnirthann stands 6'0" even, with a medium build that has gone slightly soft around the middle after twenty-two years of harbor watch rather than field combat. His auburn hair is beginning to thin on top, and he compensates with a thick beard that he keeps trimmed to regulation length. His hazel eyes are his most striking feature—pale and watchful in an olive-skinned face that has aged well for a man of forty. His skin is smooth and largely unscarred, the mark of a life spent minding docks rather than fighting wars. He wears the [[place-thraldfjord|Thraldfjord]] harbor watch uniform: a heavy wool tunic over quilted padding, leather knee boots, and a broadsword at his hip that sees more use as a visual deterrent than a weapon. A brass harbor-watch badge is pinned to his left breast.
+Gnirthann stands 6'0" even, with a medium build that has gone slightly soft around the middle after twenty-two years of harbor watch rather than field combat. His auburn hair is beginning to thin on top, and he compensates with a thick beard that he keeps trimmed to regulation length. His hazel eyes are his most striking feature—pale and watchful in an olive-skinned face that has aged well for a man of thirty-nine. His skin is smooth and largely unscarred, the mark of a life spent minding docks rather than fighting wars. He wears the [[place-thraldfjord|Thraldfjord]] harbor watch uniform: a heavy wool tunic over quilted padding, leather knee boots, and a broadsword at his hip that sees more use as a visual deterrent than a weapon. A brass harbor-watch badge is pinned to his left breast.
 
 # Dossier {#dossier}
 
@@ -415,17 +415,14 @@ Rules from the Capital
 : New orders from the capital demand strict enforcement and an end to the gray-market practices Gnirthann has managed with care. Harbor Master Hvalgthann retires before they take effect. Gnirthann can enforce rules that will disrupt lawful commerce and send him after infractions he has always overlooked, or keep his own methods and lose his post.
 
 A Threat Carried Out
-: [[being-hvalgmylsval|Hvalgmil Svaltharuk]] makes good on his implied threats, and Gnirthann's daughter Erina is beaten by men Gnirthann has reason to think are Svaltharuk's, as a message. He now has cause to arrest Svaltharuk, but the captain is a skilled fighter with a loyal crew and Gnirthann's reflexes are slowing. He can risk his life for the arrest or accept that his family's safety may mean ignoring Svaltharuk's crimes.
+: [[being-hvalgmylsval|Hvalgmil Svaltharuk]] makes good on his implied threats, and Gnirthann's daughter [Erina]{.name data-type="being/npc"} is beaten by men Gnirthann has reason to think are Svaltharuk's, as a message. He now has cause to arrest Svaltharuk, but the captain is a skilled fighter with a loyal crew and Gnirthann's reflexes are slowing. He can risk his life for the arrest or accept that his family's safety may mean ignoring Svaltharuk's crimes.
 
-A Watch Officer's Bribes
-: A younger officer of the harbor watch, talented and until now committed, is passing Svaltharuk the guard's movements and the timing of cargo inspections for money. Gnirthann can arrest him and end his career or shield him and share in the corruption.
+A Cargo He Cannot Touch
+: Svaltharuk's vessel lies in Thraldfjord harbor again carrying contraband that Gnirthann has documented many times and never been able to intercept legally. Svaltharuk knows Gnirthann is the main obstacle to his trade. Gnirthann must find a lawful way to seize the cargo, or bend the law to do it.
 
-:::secret {title="Hooks: what the harbor hides"}
+:::secret {title="Further hooks"}
 Proof Against Two Captains
 : Gnirthann finds solid, prosecutable proof that Svaltharuk runs a slave-trading operation through Thraldfjord. The same evidence shows that [[being-anthyndathra|Anthinda Thraskaruk]], a captain he respects, is entangled in it through partnerships she did not know were connected to slavery. He can prosecute both or bury the evidence against her while he moves against Svaltharuk alone.
-
-The Officer's Letters
-: The young officer is blackmailed. Svaltharuk holds compromising letters between him and another man, and such a relationship is illegal. Arresting him destroys him, and sparing him makes Gnirthann complicit.
 
 The Harbor Master's Confession
 : Dying, Hvalgthann tells Gnirthann that he has known of Svaltharuk's operation for years and let it run, because Svaltharuk carries refugees fleeing persecution under cover of the slave trade. The network has saved hundreds of lives, and Hvalgthann asks Gnirthann to protect it after his death, which makes Gnirthann complicit in slavery while saving the refugees.

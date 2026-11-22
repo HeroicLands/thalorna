@@ -414,7 +414,7 @@ And in the depths of his home, in carefully warded chambers, he walked between w
 
 The catalyst for his change came fifteen years ago when a spirit—a particularly powerful one, the shade of an ancient velva—came to him insisting that knowledge was being lost, that the old practices were in danger of complete suppression, that Knarvir had to preserve what he knew. He has spent the intervening years documenting the old rites, gathering forbidden texts, taking on a handful of carefully vetted students—all while maintaining his merchant's cover and attending trade gatherings that mean nothing to him. He is affiliated loosely with the [[affiliation-panepistmm|Epistémion]], which provides scholarly legitimacy and access to libraries, though the Epistémion (the Academy) has no idea what he truly studies.
 
-But living this way has taken its toll. He is paranoid—reasonably so. He trusts almost no one. He has lost friends and lovers because he could never fully open himself to them. He suffers from recurring nightmares where his practice is discovered, where the priests come for him, where he is exposed before the thing-assembly and stripped of honor, family, and life. He drinks more than he should, and his hands shake on certain mornings.
+But living this way has taken its toll. He is paranoid—reasonably so. He trusts almost no one. He has lost friends and lovers because he could never fully open himself to them. He suffers from recurring nightmares where his practice is discovered, where the priests come for him, where he is exposed before the ting and stripped of honor, family, and life. He drinks more than he should, and his hands shake on certain mornings.
 
 ## Psyche
 
@@ -458,17 +458,17 @@ Questions About a Merchant's Past
 : Someone patient and indirect has begun asking in Thraldfjord about Knarvir's past, his associates and his travel patterns. He cannot tell whether one person or several are asking, or what they want, and learning it means drawing the attention he least wants.
 
 Skaold's Widening Inquiry
-: Skaold Righteous, a clerk of the Order of the All-Seeing Eye, has widened his crusade against corruptions of traditional practice to the merchants and scholars who bring foreign ideas into Nordheim. He has the authority and the backing to do real damage, and Knarvir's name is not yet on his list.
+: Skaold Righteous, a clerk of the Order of the All-Seeing Eye, has widened his crusade against corruptions of traditional practice to the merchants and scholars who bring foreign ideas into Nordheim. He has the authority and the backing to do real damage, and Knarvir's name is not yet on his list. Knarvir can stay small and let the inquiry pass him by, or warn the merchants and scholars it will reach and put his own name in front of Skaold.
 
 A Cover Coming Apart
 : A rival merchant or plain bad luck leads people to set Knarvir's absences, possessions and associations side by side and find that they do not agree. Within two weeks he must build a new account of himself that he lacks the money and the safety to build, vanish, or admit something true.
 
-:::secret {title="Hooks: the practice behind the merchant"}
+:::secret {title="Further hooks"}
 A Student Approached
 : One of Knarvir's carefully vetted students, a younger woman he has trained in seid for five years, tells him that Skaold Righteous has approached her and knows some, though not all, of what she practices. She asks whether to run, confess or deceive. Knarvir can help her at the risk of the whole network, flee and abandon her, or move against Skaold and so against the clergy.
 
 The Watcher Steps Forward
-: The one asking after Knarvir proves to be a representative of the Thordimalon of the south, interested in his spirit-craft. They offer protection and a place as a consultant in return for his knowledge, which would mean leaving Nordheim and probably betraying the hidden network.
+: The one asking after Knarvir proves to be a representative of [[affiliation-ordoarcanis|The Order]] in the south, interested in his spirit-craft. They offer protection and a place as a consultant in return for his knowledge, which would mean leaving Nordheim and probably betraying the hidden network.
 
 Thurídur Is Dying
 : Thurídur of the Deep Roads, his teacher and the most powerful velva of the northern underground, falls suddenly gravely ill, perhaps through a supernatural crisis that shows itself only as illness. Knarvir has about three days to choose between staying hidden and letting her die without him or going openly to her side.

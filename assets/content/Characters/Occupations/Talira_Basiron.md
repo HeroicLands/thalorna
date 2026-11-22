@@ -3,7 +3,7 @@ shortcode: talirbshrn
 name: {full: Talira Basiron, en: [Elspeth Rowen]}
 type: being
 subType: npc
-description: "A freeman alchemist of Thirenae, trusted for herbal remedies and discretion, who keeps a shop called The Argonaut and works beyond Helionis under the name Elspeth Rowen."
+description: "A freeman alchemist of Thirenae, trusted for herbal remedies and discretion, who keeps a shop called The Argonaut."
 tags: [draft, mages]
 data:
   icon: icon-person
@@ -450,7 +450,7 @@ The fact that she maintains an alias, relationships with figures from the coasta
 
 [Kharos the Bitter]{.name data-type="being/npc"}—A rival alchemist whose practice Talira undercut five years ago by securing an exclusive contract to provide remedies to a major noble household. Kharos has spent those years cultivating connections among the Order's lower ranks and spreading rumors that Talira's remedies contain unlicensed workings—a serious accusation that, if believed, could bring official investigation. He has not yet attempted anything direct, but his patience is clearly wearing thin.
 
-**Unfinished Business from the Order**—Not all those involved in the tragedy at her initiation have risen as safely as _Marenda_ [Thespis]{.name data-type="being/npc"}. There remains at least one individual of mid-ranking Order standing who was present that day, who knows that Talira witnessed the suppression, and who now holds a position where exposing her would serve their interests politically. Talira does not know who this person is, only that the possibility exists—a threat as vague and pervasive as a shadow at dusk.
+**Unfinished Business from the Order**—Not all those involved in the tragedy at her initiation have risen as safely as _Marenda_ [[being-amitharabish|Amithara Bisanis]]. There remains at least one individual of mid-ranking Order standing who was present that day, who knows that Talira witnessed the suppression, and who now holds a position where exposing her would serve their interests politically. Talira does not know who this person is, only that the possibility exists—a threat as vague and pervasive as a shadow at dusk.
 
 ## Plot Hooks
 
@@ -463,12 +463,12 @@ An Illness No Physician Can Name
 A Cousin She Never Heard Of
 : A young person from the outer provinces arrives in Thirenae claiming to be Talira's cousin, with a letter of introduction from a relative she did not know was alive. The newcomer is observant and asks pointed questions about her real work. Talira must decide whether this is family, an agent sent to assess her, or something else.
 
-:::secret {title="Hooks: what the Order and the Luminaries want"}
+:::secret {title="Further hooks"}
 Becoming Officially Useful
 : Amithara Bisanis sends word that political pressure inside the Order may soon make the arrangement that protects Talira impossible to keep. The one alternative offered is to become officially useful by developing a specific remedy, which requires admitting her real capabilities. Accepting makes her visible and refusing ends the only shield she has.
 
 A Raid on the Archives
-: The Luminaries, philosophers who hold that direct investigation should override institutional authority, approach Talira through oblique channels and ask her to help them take suppressed texts from the Order's archives. The pay is large and the risk absolute, and the chance to recover knowledge the Order buried is the kind that once made her willing to endure nearly anything. She has asked for time, and the time is short.
+: The [Luminaries]{.name data-type="affiliation/faithtradition"}, philosophers who hold that direct investigation should override institutional authority, approach Talira through oblique channels and ask her to help them take suppressed texts from the Order's archives. The pay is large and the risk absolute, and the chance to recover knowledge the Order buried is the kind that once made her willing to endure nearly anything. She has asked for time, and the time is short.
 
 The Compound in the Locked Texts
 : The poison that sickens the student is a theoretical compound discussed only in suppressed Order texts, the kind that should not exist outside locked libraries. Talira knows it on sight, and an antidote shows how deep her knowledge goes.
