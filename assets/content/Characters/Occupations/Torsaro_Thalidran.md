@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [smooth]
+    hair_style: short
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

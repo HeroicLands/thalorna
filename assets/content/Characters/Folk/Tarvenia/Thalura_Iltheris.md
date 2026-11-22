@@ -30,6 +30,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [clear]
+    hair_style: cropped
     extra_features: [fingertips stained gray from the reagents she uses on ink]
   packFolder: aureldiatarvenia
 ---

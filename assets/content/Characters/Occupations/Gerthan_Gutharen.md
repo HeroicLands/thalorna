@@ -24,6 +24,7 @@ data:
     hair_color: white
     skin_color: olive
     complexion: [weathered]
+    hair_style: short
     extra_features: [a tattoo of a falcon on the right arm]
   packFolder: aureldiatarvenia
 sohl:

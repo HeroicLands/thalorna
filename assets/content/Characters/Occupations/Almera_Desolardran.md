@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: olive
     complexion: [ruddy]
+    hair_style: knotted
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

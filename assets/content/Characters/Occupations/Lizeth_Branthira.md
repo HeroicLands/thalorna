@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [weathered]
+    hair_style: short
     extra_features: []
   packFolder: aureldiatarvenia
 sohl:

@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: olive
     complexion: [clear]
+    face_shape: long
     extra_features: []
   packFolder: aureldiatarvenia
   items:

@@ -24,6 +24,7 @@ data:
     hair_color: greying_brown
     skin_color: olive
     complexion: [sun_kissed]
+    hair_style: short
     extra_features: [a tattoo of a flower on the ankle]
   packFolder: aureldiatarvenia
 sohl:
