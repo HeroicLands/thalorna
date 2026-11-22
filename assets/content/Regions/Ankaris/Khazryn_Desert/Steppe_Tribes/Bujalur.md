@@ -63,7 +63,7 @@ The road crosses the southern Volketor east of the March, and the Bujalur sell a
 
 Each winter camp has its own head, who answers for every rider of it to the dovaq and to the League. The camp heads choose the dovaq at Tuvaq, and the dovaq holds the truce in the tribe's name: each autumn a truce-rider goes to the outer caravanserais to swear the camps in, and he answers there for any rider who breaks it. The Bujalur put a camp that breaks the truce out of the winter ground themselves, before the League can, because a truce broken by one camp is a truce lost for all.
 
-The dovaq is [Bujalqiimod Bujalur]{.name data-type="being/npc"}, "seal-silent", a man of about fifty-five who speaks the League's tongue and has sold horses to the March for thirty winters.
+The dovaq is [[being-bujalqiimod|Bujalqiimod Bujalur]], "seal-silent", a man of about fifty-five who speaks the League's tongue and has sold horses to the March for thirty winters.
 
 ## Feuds
 

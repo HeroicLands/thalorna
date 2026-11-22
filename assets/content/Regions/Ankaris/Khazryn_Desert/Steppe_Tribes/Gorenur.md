@@ -63,7 +63,7 @@ They herd horses and sheep and breed a lean, long-legged horse that can go three
 
 Each of the five lines is ruled by its white-beards, its eldest men, and a line-teller among them holds its descent and can say whether a man belongs to it. The white-beards of the five lines sit together at Khelid as the tribe's moot, and they choose the dovaq to lead the raids and speak for the tribe to other tribes. Inside a line he has no word at all. The weavers keep each line's mark and weave it into every felt and carpet the line makes, so that a tent is known by its door-felt and a Gorenur saddle-rug by its border.
 
-The dovaq is [Gorenyemok Gorenur]{.name data-type="being/npc"}, "storm-oath", a man of about thirty-five who has led the spring raids for six years and has never come home without horses.
+The dovaq is [[being-gorenyemok|Gorenyemok Gorenur]], "storm-oath", a man of about thirty-five who has led the spring raids for six years and has never come home without horses.
 
 ## Raiding
 
@@ -77,7 +77,9 @@ The Gorenur are at feud with the [[affiliation-bjlrtrb|Bujalur]], who winter ins
 
 A dovaq of the northern steppe is gathering tribes by victory and by marriage, and the Gorenur want to ride with him. A union means the March's whole herd, the outer caravanserais and the silver of the road, and the white-beards of four lines have said so at Khelid. The fifth line has said nothing, because its white-beards remember the winter after the last union broke.
 
+:::secret {title="The first raid of spring"}
 Gorenyemok means the first raid of this spring to be a gift to the gathering man: the March's horses, driven east through the Bujalur winter ground, with the League hunting the Bujalur for them while the Gorenur ride north.
+:::
 
 ## Where They Come From {#history}
 

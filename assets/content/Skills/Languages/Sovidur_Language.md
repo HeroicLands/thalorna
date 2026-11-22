@@ -7060,6 +7060,10 @@ data:
     - {name: Bujalyitboq Bujalur, tongue: gloss, built: [Bujalyitboq, Bujalur]}
     - {name: Gorenyemok, tongue: sowides, built: [goren, yemok]}
     - {name: Gorenyemok Gorenur, tongue: gloss, built: [Gorenyemok, Gorenur]}
+    - {name: Evodlun, tongue: sowides, built: [evod, -lun]}
+    - {name: Evodlun Bujalur, tongue: gloss, built: [Evodlun, Bujalur]}
+    - {name: Khuvanghakhiq, tongue: sowides, built: [khuvan, ghakhiq]}
+    - {name: Khuvanghakhiq Gorenur, tongue: gloss, built: [Khuvanghakhiq, Gorenur]}
     - {name: Vuraqlun, tongue: sowides, built: [vuraq, -lun]}
     - {name: Vuraqlun Vurakur, tongue: gloss, built: [Vuraqlun, Vurakur]}
     - {name: Soqritlun, tongue: sowides, built: [soqrit, -lun]}

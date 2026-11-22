@@ -8,7 +8,21 @@ tags: [draft]
 data:
   parents: []
   locations: [eastrnmrch, wlqtrrgn, hekardesert]
-  cast: [mazitosrekha, lofrflmds]
+  cast:
+    - mazitosrekha
+    - arshzrktkls
+    - lofrflmds
+    - mrchgrsnsldr
+    - bujalqiimod
+    - bjlrcmphd
+    - bujalyitboq
+    - evodlunbjlr
+    - bjlrrdr
+    - gorenyemok
+    - khvnghkhqgrn
+    - grnrrdr
+    - grnrwvr
+    - hrsdlrcrvns
   factions: [bjlrtrb, grnrtrb, byzarianlg]
   follows: []
   party: {size: null, archetypes: []}
@@ -25,20 +39,22 @@ This is a quarrel among three bodies: a tribe that needs the truce, a tribe that
 
 **What each body wants:**
 
-| Body                                                                  | Wants                                                                           | Fears                                                                |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| The League, under Mazitos                                             | to know before the thaw whether the camps inside its frontier ride with a union | a union's scouts wintering inside its walls                          |
-| The Bujalur, under [Bujalqiimod Bujalur]{.name data-type="being/npc"} | the truce kept and the winter grass theirs next year                            | being turned out in the snow, or blamed for a raid they did not ride |
-| The Gorenur, under [Gorenyemok Gorenur]{.name data-type="being/npc"}  | the March's horses, a gift for the gathering man, and the Bujalur ruined        | the fifth line's white-beards, who want no union                     |
-| Lofáhr Vuzaghios                                                      | a contract he can defend                                                        | being hired to turn women and children out into the snow             |
+| Body                                                          | Wants                                                                           | Fears                                                                |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| The League, under Mazitos                                     | to know before the thaw whether the camps inside its frontier ride with a union | a union's scouts wintering inside its walls                          |
+| The Bujalur, under [[being-bujalqiimod\|Bujalqiimod Bujalur]] | the truce kept and the winter grass theirs next year                            | being turned out in the snow, or blamed for a raid they did not ride |
+| The Gorenur, under [[being-gorenyemok\|Gorenyemok Gorenur]]   | the March's horses, a gift for the gathering man, and the Bujalur ruined        | the fifth line's white-beards, who want no union                     |
+| Lofáhr Vuzaghios                                              | a contract he can defend                                                        | being hired to turn women and children out into the snow             |
 
 ## What Is Really Happening {#what-is-really-happening}
 
-The League's officers began counting the Bujalur camps after a caravan master told the March that a Bujalur camp head had fed the gathering man's riders at the end of summer. The tale is true. [Bujalyitboq Bujalur]{.name data-type="being/npc"}, head of the easternmost camp, gave the riders salt and heard their offer of herds, and said nothing of it to the dovaq, who told the riders the tribe swears to no one. Bujalyitboq has not sworn. He has not refused either.
+**The tale.** The League's officers began counting the Bujalur camps after a caravan master told the March that a Bujalur camp head had fed the gathering man's riders at the end of summer. The tale is true. [[being-bujalyitboq|Bujalyitboq Bujalur]], head of the easternmost camp, gave the riders salt and heard their offer of herds, and said nothing of it to the dovaq, [[being-bujalqiimod|Bujalqiimod Bujalur]], who told the riders the tribe swears to no one. Bujalyitboq has not sworn. He has not refused either.
 
-The Gorenur know the March is counting. Gorenyemok means the spring's first raid as a gift to the gathering man and a ruin for the Bujalur: in the first storm his riders take the March's foothill herd from the pastures below the third spring-fort, drive it east straight through the Bujalur winter ground, and cut a dozen branded horses out into the Bujalur herd as they pass. For two months before, Gorenur riders sold March horses cheap to Bujalur boys at the springs, so that branded beasts are already in the camps when the patrols come looking.
+**The raid.** The Gorenur know the March is counting. [[being-gorenyemok|Gorenyemok Gorenur]], their dovaq, means the spring's first raid as a gift to the gathering man and a ruin for the Bujalur: in the first storm his riders take the March's foothill herd from the pastures below the third spring-fort, drive it east straight through the Bujalur winter ground, and cut a dozen branded horses out into the Bujalur herd as they pass.
 
-Mazitos does not know what to believe and knows he has to act. He has offered Lofáhr Vuzaghios a contract to escort the Bujalur camps out of the March before the thaw, which means in the snow.
+**The horses at the springs.** For two months before the storm, Gorenur riders sold March horses cheap to Bujalur boys at the springs, so that branded beasts are already in the camps when the patrols come looking.
+
+**The contract.** Mazitos does not know what to believe and knows he has to act. He has offered [[being-lofrflmds|Lofáhr Vuzaghios]] a contract to escort the Bujalur camps out of the March before the thaw, which means in the snow.
 
 > [!IMPORTANT]
 > The Bujalur are not innocent and not guilty. One camp head has listened to the union, and the rest of the tribe did not know. Play Bujalqiimod as a man who learns it during the adventure and must decide what his tribe's custom asks of him: a camp that breaks the truce is put out of the winter ground by its own tribe, before the League can do it.
@@ -73,10 +89,10 @@ Once it knows, the party is the only body that holds the truth about both tribes
 
 ## Hooks {#hooks}
 
-- **The thief.** A horse-dealer of the outer caravanserais pays the party to find the March's raided herd before the League does, because a herd recovered by a dealer is sold back to the League at his price.
-- **The mercenary or common soldier.** Mazitos hires the party, through a captain of the outer forts, to ride with the count and tell him which camps lie.
-- **The leader.** Bujalqiimod wants someone the March trusts to stand beside his truce-rider at the count, because the count is the first step of something.
-- **The lone wanderer.** The wanderer is a guest in a Bujalur camp for the winter, salt eaten and owed its protection, when the patrols come.
+- **The woodsman: a herd for a dealer.** A [[being-hrsdlrcrvns|Horse-Dealer of the Outer Caravanserais]] pays the party to find the March's raided herd before the League does, because a herd recovered by a dealer is sold back to the League at his price.
+- **The warrior: riders for the count.** Mazitos hires the party, through [[being-arshzrktkls|Árshazur Gavios]], a captain of the March garrison, to ride with the count and tell him which camps lie.
+- **The courtier: beside the truce-rider.** Bujalqiimod wants someone the March trusts to stand beside his truce-rider at the count, because the count is the first step of something.
+- **The trader: salt eaten.** A party member who buys horses winters as a guest in a Bujalur camp, salt eaten and owed its protection, when the patrols come.
 
 ## The Opening {#opening}
 
@@ -97,10 +113,10 @@ Read or paraphrase:
 
 **NPCs and threats.**
 
-- **Bujalqiimod Bujalur**, the dovaq, about fifty-five, patient and tired, who has sold horses to the March for thirty winters.
-- **A captain of the outer forts**, carrying the Lord Commander's order and a caravan master's tale.
-- **Bujalyitboq Bujalur**, head of the easternmost camp, about forty, polite and closed.
-- **Bujalur boys** with good horses that their fathers did not breed.
+- **[[being-bujalqiimod|Bujalqiimod Bujalur]]**, the dovaq, about fifty-five, patient and tired, who has sold horses to the March for thirty winters.
+- **[[being-arshzrktkls|Árshazur Gavios]]**, a captain of the March garrison who has served under Mazitos for a decade, carrying the Lord Commander's order and a caravan master's tale.
+- **[[being-bujalyitboq|Bujalyitboq Bujalur]]**, head of the easternmost camp, about forty, polite and closed.
+- **Bujalur boys**, young riders of the [[being-bjlrrdr|Bujalur Rider]] template, with good horses that their fathers did not breed.
 
 **Player choices.**
 
@@ -122,8 +138,8 @@ Read or paraphrase:
 
 **NPCs and threats.**
 
-- **Gorenur raiders**, in the storm. A party out in it may meet them at the ford below the pastures, driving the herd east at a run. They fight to keep the herd and ride off without it if they must.
-- **The garrison**, which turns out at dawn and follows the track.
+- **Gorenur raiders** ([[being-grnrrdr|Gorenur Raider]]), in the storm. A party out in it may meet them at the ford below the pastures, driving the herd east at a run. They fight to keep the herd and ride off without it if they must.
+- **The garrison**, soldiers of the [[being-mrchgrsnsldr|March Garrison Soldier]] template, who turn out at dawn and follow the track.
 - **The storm** itself: sleet, darkness and a frozen ford.
 
 **Player choices.**
@@ -156,7 +172,7 @@ Read or paraphrase:
 - _Parley:_ get the horses back to the patrol without the boys.
 - _Show:_ take Lofáhr along the track and show him where it came out.
 - _Stop Bujalyitboq:_ hold his camp until the dovaq has spoken to him. His riders resist strangers and give way to Bujalqiimod.
-- _Ask:_ at Bujalyitboq's fire, as a guest, ask about the riders who came at the end of summer. His wife answers before he can.
+- _Ask:_ at Bujalyitboq's fire, as a guest, ask about the riders who came at the end of summer. His wife, [[being-evodlunbjlr|Evodlun Bujalur]], answers before he can.
 
 **Clues and rewards.** Bujalyitboq's secret, from his own camp. Lofáhr's terms: he escorts fighting men out of the March for the League's silver, and he does not drive women and children into snow for anyone's.
 
@@ -172,8 +188,8 @@ Read or paraphrase:
 
 **NPCs and threats.**
 
-- **Gorenyemok Gorenur**, the dovaq, about thirty-five, who leads the raids and has never come home without horses. He offers the party a share of the herd to go home and say the Bujalur took it.
-- **The white-beards of the fifth line**, old men who remember the winter after the last union broke, and who want no war with the March and no banner.
+- **[[being-gorenyemok|Gorenyemok Gorenur]]**, the dovaq, about thirty-five, who leads the raids and has never come home without horses. He offers the party a share of the herd to go home and say the Bujalur took it.
+- **The white-beards of the fifth line**, among them [[being-khvnghkhqgrn|Khuvanghakhiq Gorenur]], old men who remember the winter after the last union broke, and who want no war with the March and no banner.
 - **Gorenur riders**, many, and on their own ground.
 
 **Player choices.**
@@ -183,9 +199,15 @@ Read or paraphrase:
 - _Steal:_ take the herd back at night.
 - _Fight:_ the Gorenur are on their own ground and in numbers, and a party that fights at Khelid has made a feud with five lines.
 
-**Clues and rewards.** The herd, with the March's brand on every shoulder. The fifth line's word. A weaver who will sell a felt of any line's mark to anyone.
+**Clues and rewards.** The herd, with the March's brand on every shoulder. The fifth line's word. A [[being-grnrwvr|Gorenur Weaver]] who will sell a felt of any line's mark to anyone.
 
-**Consequences.** Gorenyemok sends riders north to the gathering man with the best of the herd, whatever the party does.
+**Consequences.** Every horse of the herd ends the scene in one of three hands: the party's, as Gorenyemok's share; the March's, bought back or taken at night and driven home; or Gorenyemok's. He sends riders north to the gathering man with the best of the horses that are still his when the party leaves Khelid.
+
+- **Left with him.** A party that rides away with neither his share nor any of the herd leaves him every horse, and the best of the herd goes north.
+- **His share taken.** A party that takes his share holds those horses as the price of its silence. They are the party's, not the March's, and every one carries the March's brand. He sends the best of the rest north.
+- **Bought back or stolen, in part.** Horses the party buys back or takes at night are driven home to the March. He sends the best of what is still his north, fewer than he meant to give.
+- **Bought back or stolen, in whole.** A party that buys back or takes every horse leaves him nothing to send, and he rides north with his promise unkept.
+- **His share and the rest.** A party that takes his share and then buys back or steals the rest leaves him nothing to send. The share is the party's, and the rest is the March's.
 
 **If bypassed, failed or cut short.** A party that does not ride east can still bring the fifth line's word in Scene Five, if a white-beard of the fifth line comes to the third spring-fort on his own, to ask the League for his line's spring grass.
 
@@ -198,7 +220,7 @@ Read or paraphrase:
 **NPCs and threats.**
 
 - **[[being-mazitosrekha|Mazitos Rekhazur]]**, master of the Eastern March, fifty, the League's senior soldier, who has held the March for two decades and has seen camps turned out before.
-- **Bujalqiimod** and the Bujalur camp heads, with Bujalyitboq among them.
+- **Bujalqiimod** and the Bujalur camp heads ([[being-bjlrcmphd|Bujalur Camp Head]]), with Bujalyitboq among them.
 - **Lofáhr Vuzaghios**.
 - **The captain** with his tablet.
 
@@ -216,6 +238,7 @@ Read or paraphrase:
 - **Both halves told, the Bujalur having acted.** The truce holds for every camp but Bujalyitboq's, which Lofáhr escorts out with its fighting men, its women and children riding behind on their own horses. The League sends a patrol east to Khelid.
 - **The raid cleared, Bujalyitboq kept.** The truce holds, and Bujalyitboq's camp winters in the March next year with the gathering man's offer still in its head.
 - **Nothing cleared.** Every camp is turned out before the thaw. Lofáhr refuses the contract, and the League sends conscripts.
+- **The herd brought home.** Whatever else is decided, horses the party bought back or took at night at Khelid go back to the March's pastures, and Mazitos counts them as proof of where the herd went. Horses the party took as Gorenyemok's share are not among them; a party that rides in on March-branded horses it has not returned is asked how it came by them before its word on the Bujalur is weighed.
 
 **If bypassed, failed or cut short.** Mazitos gives his order on the captain's report; see If the Party Does Nothing.
 
@@ -232,6 +255,8 @@ Read or paraphrase:
 - **If the truce held.** The Bujalur winter in the March again, and Bujalqiimod owes the party a horse of its choosing every autumn he is dovaq. The March and the Gorenur are at war over a herd.
 - **If Bujalyitboq's camp was put out.** It rides north to the gathering man, and the first Bujalur under his banner are the ones the League let go.
 - **If the fifth line spoke.** The Gorenur are split, four lines against one, and the fifth line asks the League for its spring grass; the white-beards of the four lines call it the Bujalur's way.
+- **If the herd came home.** The March has back the horses the party bought back or took at night, and the gathering man has less of a gift, or none. With no horse left in his hands, Gorenyemok reaches the gathering man's camp with nothing to show for his first raid, and the four lines' white-beards ask him why.
+- **If the party kept his share.** The party rides March-branded horses that Gorenyemok gave it to say the Bujalur took the herd, and every garrison officer who sees the brand asks how it came by them.
 - **If Lofáhr refused his contract.** He has done something he can defend, and he tells the party so over a drink, once.
 
 ## See Also {#see-also}
@@ -248,8 +273,17 @@ Read or paraphrase:
 [[being-mazitosrekha|Mazitos Rekhazur]]
 : master of the March
 
+[[being-arshzrktkls|Árshazur Gavios]]
+: the captain who carries the order and the tale
+
 [[being-lofrflmds|Lofáhr Vuzaghios]]
 : the mercenary with a contract he dislikes
+
+[[being-bujalqiimod|Bujalqiimod Bujalur]], [[being-bujalyitboq|Bujalyitboq Bujalur]]
+: the Bujalur dovaq and the camp head who listened to the union
+
+[[being-gorenyemok|Gorenyemok Gorenur]], [[being-grnrrdr|Gorenur Raider]]
+: the Gorenur dovaq and the riders of the first storm
 
 [[place-wlqtrrgn|Volketor]]
 : the western margin where both tribes summer
