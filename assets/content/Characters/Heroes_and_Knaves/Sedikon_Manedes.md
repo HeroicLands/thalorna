@@ -3,6 +3,7 @@ shortcode: gvrlsnktrts
 name: {full: Sedikon Manedes, given: Sedikon, clan: Manedes}
 type: being
 subType: character
+description: "The swordmaster of Krisamar whose school has trained the sons of merchant houses and the town's guard for two decades."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -472,11 +473,11 @@ Born to a minor merchant house in the port town of [[place-chrysamar|Krisamar]],
 
 **Years of Ascendancy**
 
-For the next twenty years, Sedikon took on wealthy patrons and noble households, training younger warriors and children of the mercantile elite. His school in Krisamar became famous; to be accepted as a student of Sedikon Manedes was to be guaranteed status, discipline, and the martial arts that would shape one's adult life. He won lucrative contracts instructing the town's garrison, devised training regimens that military commanders still emulate, and built a reputation for flawless technique and unshakeable principles.
+For the next twenty years, Sedikon took on wealthy patrons and noble households, training younger warriors and children of the mercantile elite. His school in Krisamar became famous; to be accepted as a student of Sedikon Manedes was to be guaranteed status, discipline, and the martial arts that would shape one's adult life. He won lucrative contracts instructing the town's guard, devised training regimens that military commanders still emulate, and built a reputation for flawless technique and unshakeable principles.
 
 **The Reckoning with Mortality**
 
-Now at forty-five, Sedikon has begun to confront a truth that no champion wishes to acknowledge: his body no longer obeys with the instantaneous precision it once did. His wind is shorter, his recovery time longer, his reflexes fractionally slower. Younger swordmasters—hungry, untested, and blessed with the advantages of youth—have begun to circle his reputation like wolves testing an aging lion. His recent victories have become less decisive, more grinding affairs of attrition rather than elegant superiority. He continues to accept students and contracts, driven by pride and the refusal to acknowledge decline, yet the edge of anxiety is beginning to show through his controlled demeanor.
+Now at forty-four, Sedikon has begun to confront a truth that no champion wishes to acknowledge: his body no longer obeys with the instantaneous precision it once did. His wind is shorter, his recovery time longer, his reflexes fractionally slower. Younger swordmasters—hungry, untested, and blessed with the advantages of youth—have begun to circle his reputation like wolves testing an aging lion. His recent victories have become less decisive, more grinding affairs of attrition rather than elegant superiority. He continues to accept students and contracts, driven by pride and the refusal to acknowledge decline, yet the edge of anxiety is beginning to show through his controlled demeanor.
 
 ## Psyche
 
@@ -529,46 +530,44 @@ Vulnerability to Schemes
 ### Patrons
 
 [House Markedon]{.name data-type="affiliation/lineage"}
-: A wealthy merchant dynasty that has employed Sedikon as a private weapons master for fifteen years. Their eldest son, [Fruves Markedon]{.name data-type="being/npc"}, now commands the garrison, a position Sedikon helped him prepare for.
+: A wealthy merchant dynasty that has employed Sedikon as a private weapons master for fifteen years. Their eldest son, [Fruves Markedon]{.name data-type="being/npc"}, now commands a company of the town's guard, a position Sedikon helped him prepare for.
 
-Captain-General [[being-ruzhvelanakh|Ruzhvelana Korikot]] of the [City Guard]{.name data-type="affiliation"}
-: The supreme military commander of Krisamar personally consults with Sedikon on matters of combat doctrine and maintains him on an annual retainer.
+Captain of the Watch [[being-ruzhvelanakh|Ruzhvelana Korikot]]
+: The commander of Krisamar's guard personally consults with Sedikon on matters of combat doctrine and maintains him on an annual retainer.
 
-Arsir [[being-rabekaraneor|Rabekara Neorikot]]
-: A senior political figure who guards Sedikon jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
+[[being-rabekaraneor|Rabekara Neorikot]]
+: The head of one of the harbor consortia, who guards Sedikon jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for his counsel on the town's defense.
 
 ### Enemies
 
 Swordmaster [[being-vesazahrbrir|Vesazáhr Brirorash]]
 : An ambitious rival twenty years Sedikon's junior who has begun publicly questioning whether the aging master still deserves his reputation. Vesazáhr has cultivated alliances among newer swordmasters and has won several public bouts against Sedikon's former students, building confidence and a following.
 
-[The Merchants' Syndicate Faction]{.name data-type="affiliation"}
-: A group of mercantile powers who resent Sedikon's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
+The Rival Houses
+: Merchant houses of the harborfront who resent Sedikon's alliance with House Markedon have begun recruiting other weapons masters, seeking to dilute his hold on quality training.
 
 His own reputation, an inner enemy
-: Perhaps his greatest enemy is the impossibly high standard he has created through forty years of undefeated excellence. Every student now expects perfection; every new pupil hopes to be trained by an immortal legend rather than an aging master. This burden grows heavier with each passing year.
+: Perhaps his greatest enemy is the impossibly high standard he has created through twenty years of undefeated excellence. Every student now expects perfection; every new pupil hopes to be trained by an immortal legend rather than an aging master. This burden grows heavier with each passing year.
 
 ### Affiliations
 
-[Bizarian Swordmasters' Guild]{.name data-type="affiliation/guild"}
-: A prestigious organization to which only masters of proven excellence are admitted. Sedikon sits on the [Council of Masters]{.name data-type="affiliation"} that adjudicates disputes and sets standards.
+[[affiliation-byzarianlg|Bizarian League]]
+: Sedikon is a freeman of Krisamar, and his school trains the sons of its merchant houses.
 
-[The Scholars of Ólvenia]{.name data-type="affiliation"}
-: A philosophical circle devoted to the goddess of prosperity and martial excellence. Sedikon attends their quarterly meetings, where swordmasters debate technique and history.
+[[affiliation-olvenia|Faith of Ólvenia]]
+: Sedikon keeps the faith of the goddess of prosperity and attends its observances in Krisamar.
 
 ## Plot Hooks
 
-The Challenge from Beyond the Sea
-: A famed swordmaster from a distant Bizarian colony arrives in Krisamar, claiming to have defeated all challengers across three continents. He specifically requests to duel Sedikon Manedes, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by Sedikon to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can Sedikon gain a truly honorable victory.
+The Challenger from Overseas
+: A swordmaster who claims to have beaten every master of the Taruzelian ports arrives in [[place-chrysamar|Krisamar]] and asks to duel Sedikon before the gathered houses. Sedikon's wind is shorter than it was, and he knows it. He can accept the duel and risk the loss before his patrons, decline and let the challenger claim it, or send his best student in his place and shame them both.
 
-The Stolen Techniques
-: Sedikon discovers that Swordmaster Vesazáhr Brirorash has somehow obtained detailed notes of his most advanced fighting forms—techniques Sedikon has never written down and only teaches to elite students after years of trust-building. Someone has betrayed him. Sedikon hires the party to identify the traitor and recover the stolen knowledge before it spreads among the town's swordmasters, diluting his edge. The investigation might reveal that the leak comes from a beloved former student now fallen into desperate circumstances, forcing Sedikon to confront his own rigidity.
+Whoever Wrote the Forms Down
+: Sedikon learns that Swordmaster [[being-vesazahrbrir|Vesazáhr Brirorash]] holds notes on his most advanced forms, which Sedikon has never written down and teaches only to students he has trusted for years. Someone betrayed him. He can search his own students for the leak, or confront Vesazáhr in public and risk a bout he may not win.
 
-The Tournament of Ascension
-: A prestigious martial tournament is announced in a neighboring city, promising enormous prize money and the title of "Supreme Master of the Bizarian Realms." Sedikon sees this as a final opportunity to prove his dominance against the best warriors of his age, but his declining condition worries his patrons and students. Alternatively, the party might be hired as his escorts and bodyguards, discovering that other competitors are employing supernatural enhancements, poisoning, and sabotage. The heroes can support Sedikon through fair means or alert him to the cheating taking place around him.
+The Watch's New Doctrine
+: The younger captains of the town's guard want Vesazáhr's style taught to the watch, and Captain of the Watch [[being-ruzhvelanakh|Ruzhvelana Korikot]] asks Sedikon for his judgment. Sedikon dismisses the new style, and Vesazáhr offers a demonstration bout between their pupils. Sedikon can accept the bout and risk losing it, or refuse and watch the guard change its training without him.
 
-The Cursed Blade
-: A young student of rare talent approaches Sedikon with a strange weapon—a beautiful broadsword of unknown origin that seems to enhance the user's reflexes and strength. Sedikon is tempted; the blade could restore his lost youth for one final contest. The party might be hired to investigate the blade's origin and discover it is bound to the soul of a warrior who died tragically, imprisoned by a malevolent mage. Using it would mean carrying a damned soul into every duel. Sedikon is torn between the temptation of restored youth and his deepest principles.
-
-The Failing Student
-: A promising young swordsman, the son of a powerful patron, shows every sign of becoming an outstanding warrior—except he secretly suffers from a degenerative joint condition that will cripple him within five years. The young man's father hires adventurers to keep the condition secret while pressuring Sedikon to accelerate the training, intensifying the damage. Sedikon, recognizing his own battle with mortality in the boy, can honor the father's wishes or risk his prestigious patronage by insisting the boy receive proper medical treatment instead of martial conditioning. The party becomes entangled in this conflict, and may become the unwitting instruments of either salvation or tragedy.
+:::secret {title="What the referee knows"}
+A patron's son shows every sign of becoming an outstanding swordsman. He has a degenerative condition of the knee that will cripple him within five years, and his father presses Sedikon to speed his training. Sedikon can follow the father's wishes and hasten the damage, or insist the boy see a physician and risk the patronage.
+:::

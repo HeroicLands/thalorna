@@ -3,7 +3,7 @@ shortcode: tcharzilinaz
 name: {full: Charzilina Zigakit, en: [Lady Charzilina Zigakit]}
 type: being
 subType: npc
-description: Mother of Agélara Stetes, officially estranged from her husband.
+description: Mother of Agélara Stetes, who stays close to her daughter though Agélara is estranged from her father.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -42,4 +42,4 @@ Charzilina Zigakit is a 50-year-old woman who stands 5'10" tall with a heavy bui
 
 # Dossier {#dossier}
 
-Charzilina Zigakit is the mother of [[being-aglrmlsns|Agélara Stetes]], officially estranged from her husband.
+Charzilina Zigakit is the mother of [[being-aglrmlsns|Agélara Stetes]], who stays close to her daughter though Agélara is estranged from her father.

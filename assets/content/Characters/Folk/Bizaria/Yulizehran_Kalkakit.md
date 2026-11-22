@@ -3,16 +3,16 @@ shortcode: yulizehrankh
 name: {full: Yulizehran Kalkakit, en: [Admiral Yulizehran Kalkakit]}
 type: being
 subType: npc
-description: Admiral of the Bizarian Fleet and supreme naval commander of the Bizarian League, named in Trufios Veghekos.
+description: Admiral of the League's joint fleet and supreme naval commander of the Bizarian League, named in Trufios Veghekos.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mariner, warrior]
-  occupation: Admiral of the Bizarian Fleet
+  occupation: Admiral
   lore: []
   culture: byzarianclt
-  homes: []
+  homes: [nesthiros2]
   affiliations: {}
   gender: female
   species: humanflk
@@ -42,4 +42,4 @@ Yulizehran Kalkakit is a 60-year-old woman who stands 5'10" tall with a heavy bu
 
 # Dossier {#dossier}
 
-Yulizehran Kalkakit is the Admiral of the [Bizarian Fleet]{.name data-type="affiliation"} and supreme naval commander of the [[affiliation-byzarianlg|Bizarian League]]. She holds a permanent contract with [[being-grgrsfthympls|Trufios Veghekos]] for advanced warship design and construction and shields him from bureaucratic interference.
+Yulizehran Kalkakit is the Admiral of the League's joint fleet and supreme naval commander of the [[affiliation-byzarianlg|Bizarian League]]. She holds a permanent contract with [[being-grgrsfthympls|Trufios Veghekos]] for advanced warship design and construction and shields him from bureaucratic interference.

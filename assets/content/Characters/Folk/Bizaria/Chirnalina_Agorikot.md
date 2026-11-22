@@ -1,19 +1,19 @@
 ---
 shortcode: tchirnalinaa
-name: {full: Chirnalina Agorikot, en: [High Priestess Chirnalina Agorikot]}
+name: {full: Chirnalina Agorikot, en: [Hammer-Priest Chirnalina Agorikot]}
 type: being
 subType: npc
-description: High priestess and spiritual leader of the temple, who recognizes Bazia Lokios as one of the priesthood's finest practitioners.
+description: Hammer-Priest who leads the temple of The Sacred Forge in Órashion, where Bazia Lokios serves.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: High Priestess
+  occupation: Hammer-Priest
   lore: []
   culture: byzarianclt
-  homes: []
-  affiliations: {}
+  homes: [orashion2]
+  affiliations: {sacredforge: {rank: 3}}
   gender: female
   species: humanflk
   born: "653.132"
@@ -42,4 +42,4 @@ Chirnalina Agorikot is a 66-year-old woman who stands 5'10" tall with a medium b
 
 # Dossier {#dossier}
 
-Chirnalina Agorikot is the high priestess and spiritual leader of the temple. She recognizes [[being-helnmystks|Bazia Lokios]] as one of the priesthood's finest practitioners and has designated her a primary advisor on healing and community service.
+Chirnalina Agorikot is the Hammer-Priest who leads the temple of [[affiliation-sacredforge|The Sacred Forge]] in [[place-orashion2|Órashion]]. She recognizes [[being-helnmystks|Bazia Lokios]] as one of the priesthood's finest practitioners and has designated her a primary advisor on healing and community service.

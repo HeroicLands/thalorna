@@ -3,6 +3,7 @@ shortcode: lnntshdkt
 name: {full: Bokhenon Hodikot, given: Bokhenon, clan: Hodikot}
 type: being
 subType: character
+description: "A former corsair captain, now a priest of The Sacred Forge in Krisamar who keeps the Vigil of the Forge with the League's warriors and crews before they sail."
 tags: [heroes-and-knaves, guilded, clergy]
 data:
   icon: icon-person
@@ -12,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [chrysamar]
-  affiliations: {byzarianlg: {rank: 3}, lizelas: {rank: 3}}
+  affiliations: {byzarianlg: {rank: 3}, sacredforge: {rank: 3}}
   gender: male
   species: humanflk
   born: 675.108
@@ -27,7 +28,7 @@ data:
     face_shape: long
     brow: heavy
     mouth: wide
-    extra_features: [a tattoo of a skill and crossbones on the chest]
+    extra_features: [a tattoo of a skull and crossbones on the chest]
   packFolder: helladbyzaria
   items:
     - {key: whmr, model: weapongear-whmr, kind: weapon}
@@ -43,7 +44,7 @@ data:
       kind: miscgear
       system: {weight: 1.5}
     - key: sacredtexts
-      name: Sacred texts of Lizelas (fire aspect)
+      name: Sacred texts of The Sacred Forge
       kind: miscgear
       system: {weight: 1.5}
     - key: incenseandritual
@@ -120,7 +121,7 @@ sohl:
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1.5, value: 100, durability: 3}
     - key: sacredtexts
-      name: Sacred texts of Lizelas (fire aspect)
+      name: Sacred texts of The Sacred Forge
       type: miscgear
       system: {shortcode: sacredtexts, weight: 1.5, value: 200, durability: 3}
     - key: incenseandritual
@@ -472,11 +473,11 @@ Bokhenon was born to a merchant family in the ports of the [[affiliation-byzaria
 
 ### The Calling
 
-Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Bokhenon experienced a revelation. The priests of [[affiliation-lizelas|Lizelas]] emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Bokhenon underwent a transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
+Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Bokhenon experienced a revelation. The priests of [[affiliation-sacredforge|The Sacred Forge]] emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of [[lore-ustarondty|Ústaron]]. Rather than face judgment for his crimes, Bokhenon underwent a transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
 
 ### Present Standing
 
-As a high-ranking priest of Lizelas's fire aspect, Bokhenon serves the Bizarian League as both spiritual guide and military chaplain. He conducts elaborate rituals that bless warriors before battle, communes with fire spirits through esoteric knowledge, and commands respect—and often fear—from military leaders who depend upon his divine counsel. His church offices overlook the harbor where his corsair days began, and he walks the same streets as a shepherd rather than a scourge. Yet the fire that once burned for plunder burns now for conquest of a different kind: the dominion of faith over doubt, and the submission of souls to divine purpose.
+As a high-ranking priest of The Sacred Forge in [[place-chrysamar|Krisamar]], Bokhenon serves the Bizarian League as both spiritual guide and military chaplain. He conducts the Vigil of the Forge with soldiers before battle, keeps the Vigil with crews before they sail, and commands respect—and often fear—from military leaders who depend upon his divine counsel. His church offices overlook the harbor where his corsair days began, and he walks the same streets as a shepherd rather than a scourge. Yet the fire that once burned for plunder burns now for conquest of a different kind: the dominion of faith over doubt, and the submission of souls to divine purpose.
 
 ## Psyche
 
@@ -486,18 +487,18 @@ Bokhenon is a man of paradox: brutal honesty wed to calculated charm, the ferven
 
 ### Motivation
 
-Bokhenon seeks redemption through service to Lizelas, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Bizarian League's religious and martial character according to his vision of divine order. He believes the fire god has claimed his body; now he seeks to claim the region's soul.
+Bokhenon seeks redemption through service to Ústaron, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Bizarian League's religious and martial character according to his vision of divine order. He believes the Forge-Lord has claimed his body; now he seeks to claim the region's soul.
 
 ### Strengths
 
 Ritual Mastery
-: Bokhenon commands arcane knowledge of ceremonial fire magic and spirit communion, rivaling many monks in understanding the esoteric traditions.
+: He knows the rites of The Sacred Forge, the Vigil of the Forge above all, as well as any Hammer-Priest of the coast.
 
 Martial Command
 : His skill at directing troops and inspiring warriors remains unrivaled; soldiers under his blessing fight with ferocity and discipline.
 
 Physical Dominance
-: Even at forty-five, his strength and endurance are outstanding, and he wields his warhammer with devastating precision.
+: Even at forty-four, his strength and endurance are outstanding, and he wields his warhammer with devastating precision.
 
 Charismatic Authority
 : His voice carries weight; people listen, whether from respect or intimidation, and his oratory can sway crowds and convince the doubtful.
@@ -526,11 +527,11 @@ Limited Creativity
 
 ### Patrons
 
-[Thálassios]{.name data-type="being/npc"} of the [Bizarian Council]{.name data-type="affiliation/governmental"}
-: A military governor who relies on Bokhenon's blessings and counsel to maintain his authority and morale among his troops.
+[Thálassios]{.name data-type="being/npc"}
+: A captain of the League's fleet who relies on Bokhenon's blessings and counsel to keep his crews steady before they sail.
 
-High Priestess [[being-pazhurenagef|Pazhurena Gefirikot]]
-: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Bokhenon's brutal effectiveness.
+Hammer-Priest [[being-pazhurenagef|Pazhurena Gefirikot]]
+: She leads the temple in Krisamar and has come to trust, though not entirely comfortably, Bokhenon's brutal effectiveness.
 
 ### Enemies
 
@@ -540,33 +541,21 @@ Captain [[being-kekhasinrekh|Kekhasin Rekhazur]]
 [House of Maríanos]{.name data-type="affiliation/lineage"}
 : An aristocratic family whose merchant fleet Bokhenon systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
 
-[The Apostate Priests of Darkness]{.name data-type="affiliation"}
-: A heretical sect believes Bokhenon's conversion was false and that he works to corrupt the church from within; they have marked him for assassination.
-
 ### Affiliations
 
-Church of Lizelas (Fire Aspect)
+[[affiliation-sacredforge|The Sacred Forge]]
 : High-ranking priest and architect of military-religious cooperation
-
-[Bizarian Military Council]{.name data-type="affiliation/governmental"}
-: Spiritual advisor to commanders and overseer of pre-battle rituals
-
-[Munzhar Itrinion]{.name data-type="affiliation/order"}
-: The Hearth-Fire Monks, an elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
 
 ## Plot Hooks
 
-The Pirate's Debt Calls
-: A merchant vessel recently arrived in the Bizarian harbors bearing Kekhasin's colors—and word that the captain has grown tired of hunting. He sends a message to Bokhenon: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Bokhenon to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Kekhasin before he strikes, or forced to help Bokhenon face this specter from his corsair days.
+A Summons from the Old Crew
+: [Kazparin]{.name data-type="being/npc"}, Bokhenon's former first mate, is back on the docks of [[place-chrysamar|Krisamar]] with the crew that sailed the _Scarlet Reaver_, aged and scattered. They hold the deed to the recovered ship and want him to sail with them once more. Bokhenon can refuse and see the old crew sail without him, or go and hand the League's captains a priest who has gone back to sea.
 
-A Crisis of Faith
-: High Priestess Pazhurena discovers evidence suggesting that Bokhenon has been conducting unauthorized dark rituals in the temple's lower chambers—communing with ancient fire spirits of malevolent aspect rather than divine flame. Whether this is truth or elaborate fabrication by enemies within the priesthood, it threatens to destroy both the church's stability and Bokhenon's hard-won redemption. The party might be tasked by competing factions to either prove his guilt or uncover the conspiracy against him, delving into the shadowed politics of ecclesiastical power.
+The Rival Corsair's Terms
+: A merchant vessel puts into harbor under Captain [[being-kekhasinrekh|Kekhasin Rekhazur]]'s colors with a message for Bokhenon: come to a hearing among the corsairs, or Kekhasin's fleet blockades the port. The military leaders who depend on Bokhenon's blessings ask him to lead the defense. He can go to the corsairs' hearing and leave the port's defense to the Captain of the Watch, or refuse and lead the defense himself.
 
-The Resurrection of the Scarlet Reaver
-: Bokhenon's old crew, scattered and aged, begins to reassemble on the docks. Led by his former first mate [Gaspar]{.name data-type="being/npc"}—a scarred, one-eyed survivor who claims Bokhenon abandoned them all those years ago—they demand that he return to the seas and reclaim the piracy that made them rich. They hold the deed to his former ship, recently recovered from the depths, and they offer him a choice: sail with them one final time, or watch them use his secrets to burn the Bizarian League itself. The party becomes caught between honoring the transformation of a complex man and preventing catastrophe.
+The Price of a Burned Fleet
+: Heirs of the House of Maríanos, whose merchant fleet Bokhenon destroyed as captain of the _Scarlet Reaver_, arrive in Krisamar and name a price: the fleet's value from the temple's offerings, or their blood oath stands. [[being-pazhurenagef|Pazhurena Gefirikot]], who leads the temple, will not spend the offerings on a debt from his corsair years. Bokhenon can stake his standing in the temple on asking her again, or refuse the heirs and live under their oath.
 
-The Heretic Within
-: The Apostate Priests send an agent—a skilled assassin trained in shadow magic and priestly lore—who infiltrates the Church with the goal of killing Bokhenon during the [Festival of Flames]{.name data-type="lore/gathering"}, the holiest day in the Bizarian calendar. The party may act as the priest's bodyguards, hunt the assassin before the festival arrives, or become entangled in the revelation that the heretics have sympathizers within the church hierarchy itself, forcing hard choices about justice and mercy.
-
-Legacy of the Warhammer
-: Bokhenon commissions a smith to forge him a warhammer from ore blessed by living fire spirits—a weapon that will be his final masterwork, to be passed to his chosen successor in the priesthood. The party is hired to gather the rare materials across dangerous lands: silver mined in volcanic caverns, wood from the oldest heartwood of a sacred grove, and stone taken from the core of a meteor that fell to earth. As they journey, they discover that Bokhenon's true plan may be far darker than mere legacy—perhaps a weapon intended to reshape the faith itself.
+The Vigil at the Quay
+: Captain Thálassios asks Bokhenon to keep the Vigil of the Forge with his crews and marines the night before the harbor's spring sailing, but the dockhands will not stand in the same ranks as a man whose raids ruined their kin. Bokhenon can keep the vigil in the temple with only the officers present, or hold it on the open quay and risk a quarrel in front of the whole waterfront.

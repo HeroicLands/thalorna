@@ -1,15 +1,15 @@
 ---
 shortcode: ruzhvelanakh
-name: {full: Ruzhvelana Korikot, en: [Captain-General Ruzhvelana Korikot]}
+name: {full: Ruzhvelana Korikot, en: [Captain of the Watch Ruzhvelana Korikot]}
 type: being
 subType: npc
-description: Captain-General of the City Guard and supreme military commander of Krisamar, named in Sedikon Manedes.
+description: Captain of the Watch of Krisamar, commanding the town's guard, named in Sedikon Manedes.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior, courtier]
-  occupation: Captain-General of the City Guard
+  occupation: Captain of the Watch
   lore: []
   culture: byzarianclt
   homes: [chrysamar]
@@ -42,4 +42,4 @@ Ruzhvelana Korikot is a 52-year-old woman who stands 5'11" tall with a light bui
 
 # Dossier {#dossier}
 
-Ruzhvelana Korikot is Captain-General of the [City Guard]{.name data-type="affiliation"} and supreme military commander of [[place-chrysamar|Krisamar]]. The note on [[being-gvrlsnktrts|Sedikon Manedes]] names her.
+Ruzhvelana Korikot is Captain of the Watch of [[place-chrysamar|Krisamar]], commanding the town's guard. The note on [[being-gvrlsnktrts|Sedikon Manedes]] names her.

@@ -3,6 +3,7 @@ shortcode: helnmystks
 name: {full: Bazia Lokios, given: Bazia, clan: Lokios}
 type: being
 subType: character
+description: "A priest of The Sacred Forge in Órashion, known across the Bizarian League for rites that mend grief and broken households."
 tags: [heroes-and-knaves, clergy]
 data:
   icon: icon-person
@@ -465,11 +466,11 @@ Bazia stands 5'9" tall with a medium build. She has light olive skin, dark hair,
 
 Her dark brown hair, worn in an elaborate coiled bun adorned with flowers and sacred cords, is her greatest adornment, and she changes its decoration with the seasons and sacred days, making it a living calendar of her spiritual devotion. A long scar runs down her right leg from knee to ankle—the legacy of an accident in her youth—and she bears it without shame, often pointing it out to those struggling with their own wounds or imperfections as testimony to the fact that scars can become beautiful through time and acceptance.
 
-Her robes, flowing and adorned with floral motifs in celebration of fertility and growth, seem to carry the scent of the herbs she uses in her rituals—lavender, rose, cinnamon, and other essences that linger in air long after she has passed.
+Her robes, flowing and worked with the anvil-and-flame sign of The Sacred Forge, seem to carry the scent of the herbs she uses in her rituals—lavender, rose, cinnamon, and other essences that linger in air long after she has passed.
 
 # Dossier {#dossier}
 
-Bazia was born in a minor town of the [[affiliation-byzarianlg|Bizarian League]] to a family of modest means—her father a leather worker, her mother a midwife. From earliest childhood, she showed unusual sensitivity to the emotions and needs of those around her, and her mother began to teach her the medicinal and spiritual properties of herbs when she was barely old enough to walk. When Bazia was seven years old, a terrible fire swept through the town, and in the confusion and panic, she and several other children became separated from their families. Bazia's calm demeanor and natural authority, despite her age, kept the other children organized and safe until rescuers found them. A priest of [[affiliation-sacredforge|the Sacred Forge]] witnessed her actions and was struck by what he perceived as a spiritual calling in her.
+Bazia was born in a minor town of the [[affiliation-byzarianlg|Bizarian League]] to a family of modest means—her father a leather worker, her mother a midwife. From earliest childhood, she showed unusual sensitivity to the emotions and needs of those around her, and her mother began to teach her the medicinal and spiritual properties of herbs when she was barely old enough to walk. When Bazia was seven years old, a terrible fire swept through the town, and in the confusion and panic, she and several other children became separated from their families. Bazia's calm demeanor and natural authority, despite her age, kept the other children organized and safe until rescuers found them. A priest of [[affiliation-sacredforge|The Sacred Forge]] witnessed her actions and was struck by what he perceived as a spiritual calling in her.
 
 Recognizing that Bazia possessed a rare combination of natural fellow-feeling, spiritual sensitivity, and practical wisdom, the priest arranged with her parents for her to enter the temple as a novice. Bazia was nine years old when she became a member of the priesthood. Her training was rigorous, combining extensive study of sacred texts, the mastery of ritual performance, the cultivation of her capacity for spiritual communion, and the practical knowledge necessary to serve her community.
 
@@ -477,7 +478,7 @@ When Bazia was fourteen years old, a terrible accident nearly killed her. She wa
 
 Rather than retreating from her injury, Bazia used it as a foundation for deeper spiritual understanding. She began to specialize in healing work—the physical healing of injuries, and also the spiritual and emotional healing of those whom suffering or grief had shattered. By her late twenties, she had become known throughout the Bizarian League for her ability to help couples restore intimacy after betrayal, to help families reconcile after estrangement, and to help individuals find peace with their own grief and limitations.
 
-Now, at forty years of age, Bazia remains dedicated to her work in the temple, having never married, though she has had loving relationships. She has trained several younger priestesses in her methods, and her reputation for authentic spiritual work and compassion has attracted a steady stream of people seeking her counsel and her rituals. She is the primary priestess of the Sacred Forge's transformative healing rituals and is beginning to take on more responsibility for training the temple's next generation of priests.
+Now, at thirty-nine years of age, Bazia remains dedicated to her work in the temple of The Sacred Forge in [[place-orashion2|Órashion]], having never married, though she has had loving relationships. She has trained several younger priestesses in her methods, and her reputation for authentic spiritual work and compassion has attracted a steady stream of people seeking her counsel and her rituals. She is the primary priestess of the Sacred Forge's transformative healing rituals and is beginning to take on more responsibility for training the temple's next generation of priests.
 
 ## Psyche
 
@@ -536,13 +537,13 @@ Physical Fragility
 
 ### Patrons
 
-High Priestess [[being-tchirnalinaa|Chirnalina Agorikot]]
-: The spiritual leader of the temple recognizes Bazia as one of the priesthood's finest practitioners and has designated her as a primary advisor on matters of healing and community service.
+Hammer-Priest [[being-tchirnalinaa|Chirnalina Agorikot]]
+: The Hammer-Priest who leads the temple recognizes Bazia as one of the priesthood's finest practitioners and has designated her as a primary advisor on matters of healing and community service.
 
 The Citizens of the Bizarian League
 : Through her healing work, Bazia has accumulated numerous grateful clients from across the social spectrum, from merchants to nobles to the poor.
 
-The Order of the Sacred Forge
+The priesthood of The Sacred Forge
 : The priesthood as a whole views Bazia as one of their finest representatives and regularly recommends her services to those seeking spiritual counsel.
 
 Master Herbalist [Lyrian]{.name data-type="being/npc"}
@@ -550,42 +551,30 @@ Master Herbalist [Lyrian]{.name data-type="being/npc"}
 
 ### Enemies
 
-Bishop [[being-trupaziosdra|Trupazios Dragidek]]
+Hammer-Priest [[being-trupaziosdra|Trupazios Dragidek]]
 : A conservative religious figure who views Bazia's changes to ritual as heretical departures from proper practice and who works to limit her authority and influence.
 
-[The Merchant Syndicate]{.name data-type="affiliation/venture"}
-: A powerful merchant organization views the temple's healing work as interfering with their labor practices and profits and has occasionally worked against the temple's interests.
-
-Lord Merchant [Valdis]{.name data-type="being/npc"}
+Lord Merchant [Valdikhos]{.name data-type="being/npc"}
 : A wealthy and politically connected merchant whose family has been damaged by Bazia's intervention in their affairs; he blames her for his daughter's decision to leave her husband and harbors deep resentment.
 
 ### Affiliations
 
-[The Temple of the Sacred Forge]{.name data-type="affiliation"}
-: Bazia is a priest in good standing and maintains a formal relationship with the priesthood.
+[[affiliation-sacredforge|The Sacred Forge]]
+: Bazia is a Hammer-Priest in good standing at its temple in Órashion.
 
 The Bizarian League
 : She is recognized throughout the league as one of its spiritual treasures and maintains relationships with leaders and common people alike.
 
-[The Healing Circle]{.name data-type="affiliation"}
-: An informal network of herbalists, physicians, and spiritual practitioners who collaborate on difficult cases and share knowledge.
-
-[The Order of Compassion]{.name data-type="affiliation"}
-: A loose spiritual organization devoted to healing and service that Bazia actively supports and participates in.
-
 ## Plot Hooks
 
-The Impossible Healing
-: A person comes to Bazia seeking healing from a spiritual or emotional wound that seems beyond even her abilities. The person's wound is severe, their defenses are strong, and their resistance to healing is rooted in a conviction that they do not deserve healing. As Bazia works with them over time, she discovers that the wound connects to a larger pattern of institutional cruelty or corruption that extends beyond this one person. She can remain focused on individual healing or become involved in exposing and opposing the institution responsible for so much suffering.
+The Rite Under Complaint
+: A foundry master of [[place-orashion2|Órashion]] asks Bazia for her rite that mends a household after betrayal, for himself and his wife. Hammer-Priest [[being-trupaziosdra|Trupazios Dragidek]] holds that her rites depart from proper practice, and he has said that he will lay the next one before the Hamsarnor. Bazia can hold the rite back and lose the household's trust, or perform it and hand Trupazios the case he wants.
 
-The Corrupted Colleague
-: A fellow priest begins demonstrating healing abilities that seem to surpass even Bazia's own capacity, working with great speed and apparent success. However, Bazia begins to notice subtle signs suggesting that the colleague's healings may be based on manipulation or on promises of spiritual benefits that cannot be delivered. Her suspicions may or may not be justified, and confronting her colleague will create conflict within the priesthood.
+The Scalded Journeyman
+: A journeyman is scalded on the casting floor, and his guild wants him back at the forge before the season's orders fall due. Bazia says his burns and his fear need weeks of her care. The guild can wait, or the journeyman's family can break with it to keep him in the temple.
 
-The Heretical Offer
-: A group of people from outside the established church approaches Bazia with a revolutionary theological proposition. They claim to have discovered an alternative spiritual path that could provide healing more effectively and more quickly than the traditional approach, and they invite her to participate in developing this new practice. The offer is tempting because Bazia does sometimes feel constrained by institutional orthodoxy. The path may be a true spiritual advance or a heretical corruption.
+Valdikhos Demands a Return
+: Lord Merchant Valdikhos comes to the temple at the end of the day and demands that Bazia tell his daughter to go back to her husband. The daughter has asked Bazia for the opposite. Bazia can refuse a wealthy and well-connected man or send a woman back to a marriage she has left.
 
-The Love That Complicates
-: Bazia develops a romantic attachment to someone who comes to her seeking healing. The person is not in the temple community and begins to suggest that Bazia should leave the priesthood to be with them. This presents Bazia with a real choice: between the calling she has devoted her life to and the possibility of human love and partnership. The complication is that the person may be emotionally vulnerable or may be taken advantage of if she, in her compassion, fails to keep a proper distance.
-
-The Ritual Gone Wrong
-: During an important healing ceremony, something goes badly wrong. The ritual, which has always been safe and effective, instead seems to cause further harm to the participants. Bazia must investigate what happened, determine whether the ritual itself is flawed, whether someone sabotaged it, or whether the participants brought something into the space that the ritual could not safely contain.
+Cures That Do Not Last
+: A fellow priest of the temple heals faster than Bazia does, and his patients come back within a season with the same complaint. Bazia can tell [[being-tchirnalinaa|Chirnalina Agorikot]], who leads the temple, and be taken for jealous, or say nothing while he takes the next season's sick.

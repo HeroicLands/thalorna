@@ -3,6 +3,7 @@ shortcode: angldsptrks
 name: {full: Fodios Rores, given: Fodios, clan: Rores}
 type: being
 subType: character
+description: "A healer of Krisamar, Academy-trained but at odds with its forms, who treats the port and the hill villages by instinct."
 tags: [heroes-and-knaves, guilded, mages]
 data:
   icon: icon-person
@@ -456,7 +457,7 @@ Fodios stands 5'9" tall with a medium build. He has light weathered skin, brown 
 
 ### Early Divergence
 
-Fodios was born to a learned merchant family within the [[affiliation-byzarianlg|Bizarian League]], and from childhood it was evident he possessed the rare gift for arcane study. Where most children struggled with their alphabet, he read ancient texts by candlelight. By fourteen, he had been apprenticed to **Marendos [[being-zevidinzhevr|Zevidin Zhevranzát]] of the [[affiliation-hidalis|Hidalis]] Zulen**, a scholar of theoretical thaumaturgy within the [[affiliation-panepistmm|Epistémion]]'s chapterhouse, known for his adherence to orthodox magical principle and his mastery of the water-school traditions. For five years, Fodios submitted himself to the rigorous disciplines of formal magical training—memorizing the correspondences of the [[affiliation-zemorhodhis|Zemor Hodhis]], studying the geometry of ritual circles, learning to channel mystical force through precisely enunciated incantations and mathematically perfect gestures.
+Fodios was born to a learned merchant family within the [[affiliation-byzarianlg|Bizarian League]], and from childhood it was evident he possessed the rare gift for arcane study. Where most children struggled with their alphabet, he read ancient texts by candlelight. By fourteen, he had been apprenticed to **Marendos [[being-zevidinzhevr|Zevidin Zhevranzát]] of the [[affiliation-hidalis|Hidalis]] Zulen**, a scholar of theoretical thaumaturgy within the chapterhouse of [[affiliation-panepistmm|The Academy]], known for his adherence to orthodox magical principle and his mastery of the water-school traditions. For five years, Fodios submitted himself to the rigorous disciplines of formal magical training—memorizing the correspondences of [[affiliation-zemorhodhis|The Six Ways]], studying the geometry of ritual circles, learning to channel mystical force through precisely enunciated incantations and mathematically perfect gestures.
 
 ### The Breaking Point
 
@@ -464,11 +465,11 @@ At nineteen, Fodios experienced a revelation that would shape the remainder of h
 
 ### The Path Unorthodox
 
-Rather than submit to the chapterhouse council's censure or return in shame to his merchant family, Fodios spent the next two decades wandering the hinterlands and remote villages of the Bizarian League and beyond, learning to trust instinct over instruction, combining folk healing practices with his arcane knowledge, studying the hidden language of nature itself. He apprenticed briefly with velvur in [[lore-nordheimnclt|the Nordmen]] lands, learned the secrets of herbal medicine from ancient practitioners in isolated communities, and gradually constructed a philosophy of magic that views rigid formula as a cage rather than a foundation. His power grew in unconventional directions—he developed an unusual facility with healing magic through direct communion with the body's own vital forces, elemental manipulation grounded in natural observation rather than abstract theory, and divination through patterns woven into the living world. His training in the formal Hidalis disciplines remained incomplete, and he deliberately rejected the academic frameworks that Zevidin had instilled.
+Rather than submit to the chapterhouse council's censure or return in shame to his merchant family, Fodios spent the next two decades wandering the hinterlands and remote villages of the Bizarian League and beyond, learning to trust instinct over instruction, combining folk healing practices with his arcane knowledge, studying the hidden language of nature itself. He apprenticed briefly with velvur in the lands of the [[lore-nordheimnclt|Nordheimn]], learned the secrets of herbal medicine from ancient practitioners in isolated communities, and gradually constructed a philosophy of magic that views rigid formula as a cage rather than a foundation. His power grew in unconventional directions—he developed an unusual facility with healing magic through direct communion with the body's own vital forces, elemental manipulation grounded in natural observation rather than abstract theory, and divination through patterns woven into the living world. His training in the formal Hidalis disciplines remained incomplete, and he deliberately rejected the academic frameworks that Zevidin had instilled.
 
 ### Current Station
 
-Now forty-two, Fodios has achieved quiet renown in remote regions as a healer and wise man, a practitioner of magic so naturalistic and intuitive that some villagers dispute whether it constitutes sorcery at all—and some Epistémion (the Academy) scholars insist that it is precisely the kind of uncontrolled practice the Order was founded to prevent. He maintains nominal affiliation with the Epistémion out of political necessity and to shield himself from the [[affiliation-ordoarcanis|Thordimalon]], but he operates almost entirely independently, maintaining a modest dwelling in a rural area where he treats the sick, teaches interested students the practical foundations of magical work, and continues his solitary research into the boundaries between learned magic and innate power. The Epistémion's local chapterhouse tolerates him because his unorthodox results are undeniably effective and he serves a population that official Epistémion practitioners have little interest in—yet the tension between his methods and official doctrine remains a constant source of friction, and his precarious status depends entirely on continued discretion and results.
+Now forty-one, Fodios has achieved quiet renown in the hill villages as a healer and wise man, a practitioner of magic so naturalistic and intuitive that some villagers dispute whether it constitutes sorcery at all—and some Epistémion (the Academy) scholars insist that it is precisely the kind of uncontrolled practice the Order was founded to prevent. He maintains nominal affiliation with the Epistémion out of political necessity and to shield himself from [[affiliation-ordoarcanis|The Order]] (the Thordimalon), but he operates almost entirely independently, maintaining a modest dwelling in [[place-chrysamar|Krisamar]] where he treats the sick of the port and of the coastal hill villages that feed it, teaches interested students the practical foundations of magical work, and continues his solitary research into the boundaries between learned magic and innate power. The Epistémion's local chapterhouse tolerates him because his unorthodox results are undeniably effective and he serves a population that official Epistémion practitioners have little interest in—yet the tension between his methods and official doctrine remains a constant source of friction, and his precarious status depends entirely on continued discretion and results.
 
 ## Psyche
 
@@ -480,7 +481,7 @@ Under the calm exterior runs a current of deep frustration—frustration with th
 
 ### Motivation
 
-Fodios is driven by the conviction that magic should serve life and healing rather than abstract principle or personal ambition. He practices magic as one practices medicine—as a calling, not a craft for display. He seeks to understand the deepest nature of magical force, to move beyond the dualism of learned versus intuitive magic toward some unified vision that encompasses both. He hopes to pass on his knowledge to the next generation, particularly to those whom the formal Guild would reject as unsuitable, and thereby open healing magic to any with the gift for it. Beneath this noble motivation lurks a deeper desire: vindication—proof that his unorthodox path was correct, that intuition and direct connection to magical force can achieve what rigid formula cannot.
+Fodios is driven by the conviction that magic should serve life and healing rather than abstract principle or personal ambition. He practices magic as one practices medicine—as a calling, not a craft for display. He seeks to understand the deepest nature of magical force, to move beyond the dualism of learned versus intuitive magic toward some unified vision that encompasses both. He hopes to pass on his knowledge to the next generation, particularly to those whom the chapterhouse would reject as unsuitable, and thereby open healing magic to any with the gift for it. Beneath this noble motivation lurks a deeper desire: vindication—proof that his unorthodox path was correct, that intuition and direct connection to magical force can achieve what rigid formula cannot.
 
 ### Strengths
 
@@ -514,7 +515,7 @@ Resistance to Necessary Structure
 : His rejection of formal training has left real gaps in his knowledge. There are certain categories of magic he simply cannot access without the theoretical framework he dismissed. His stubbornness about this limitation prevents him from seeking the additional training that would complete him.
 
 Social Isolation and Difficulty Forming Bonds
-: His reserved nature and tendency toward solitary work mean he has few real allies. He exists in tension with the Guild without being fully integrated into it, and his unorthodox status makes nobles reluctant to engage his services officially.
+: His reserved nature and tendency toward solitary work mean he has few real allies. He exists in tension with the chapterhouse without being fully integrated into it, and his unorthodox status makes nobles reluctant to engage his services officially.
 
 Vulnerability to Authority
 : Despite his practical power, he is legally vulnerable. The Epistémion's chapterhouse council could formally revoke his nominal standing and report him to the Thordimalon (the Arcane Order) as an unlicensed practitioner. The Order's stance toward independent healers who claim to practice magic outside its rule ranges from suspicion to outright hostility. He lives constantly under the shadow of potential censure or prosecution—a threat that grows more serious the more widely his unconventional methods become known.
@@ -524,13 +525,10 @@ Vulnerability to Authority
 ### Patrons
 
 Sage [Breghásh Drazorazur]{.name data-type="being/npc"}
-: An elderly herbalist and natural philosopher who recognized the value in Fodios' approach when the Guild condemned him. She has remained his steadiest advocate and closest confidante, providing both material support and the intellectual partnership that sustains his morale.
+: An elderly herbalist and natural philosopher who recognized the value in Fodios' approach when the chapterhouse council censured him. She has remained his steadiest advocate and closest confidante, providing both material support and the intellectual partnership that sustains his morale.
 
-The Village Elder [Thom]{.name data-type="being/npc"}
-: A weathered rural leader who employs Fodios regularly to treat the injuries and illnesses of his village community. Thom fiercely defends Fodios against official condemnation, having witnessed his effectiveness repeatedly.
-
-Scholar [Lycius of the Archives]{.name data-type="being/npc"}
-: A librarian within the Epistémion who secretly believes that Fodios' approach may represent a true step forward in magical practice. Lycius provides him access to restricted texts and information about Guild politics.
+The Village Elder [Thovrin]{.name data-type="being/npc"}
+: A weathered rural leader who employs Fodios regularly to treat the injuries and illnesses of his village community. Thovrin fiercely defends Fodios against official condemnation, having witnessed his effectiveness repeatedly.
 
 ### Enemies
 
@@ -538,10 +536,10 @@ _Marendos_ Zevidin of the Hidalis Zulen (fellowship)
 : His former teacher remains Fodios' most bitter opponent, viewing his break with orthodoxy as a personal betrayal and a corruption of magical tradition. Zevidin holds significant influence within the Epistémion's chapterhouse and has repeatedly argued to the council that Fodios should be formally expelled and reported to the Thordimalon for practicing uncontrolled, unregistered sorcery. Their enmity, once a matter of doctrine, is now deeply personal—Zevidin sees in Fodios a living refutation of everything he believes about the necessity of formal discipline, and Fodios sees in Zevidin the rigidity of the orders that he fled.
 
 [[affiliation-sekran|The Arcane Inquisition]] (the Sekran)
-: The Thordimalon's investigation and enforcement arm has begun to take notice of Fodios' reputation. An aggressive **Sekeros Marendos [[being-ghesazvughas|Ghesáz Vughash]]** has filed an official inquiry into whether Fodios constitutes an unlicensed magical practitioner in violation of the Order's monopoly. While the Order's enforcement in the provincial towns of the Bizarian League is laxer than in the [[affiliation-vylarinmpr|Vilérian heartland]], an escalation of pressure from the Sekran could force Fodios to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
+: The Thordimalon's investigation and enforcement arm has begun to take notice of Fodios' reputation. An aggressive **Sekeros Marendos [[being-ghesazvughas|Ghesáz Vughash]]** has filed an official inquiry into whether Fodios constitutes an unlicensed magical practitioner in violation of the Order's monopoly. While the Order's enforcement in the provincial towns of the Bizarian League is laxer than in the heartland of the [[affiliation-vylarinmpr|Vilérian Empire]], an escalation of pressure from the Sekran could force Fodios to flee or face serious consequences—possibly even a hearing before the Sekran on charges of illegal sorcery.
 
-Rival Healer [Kalista of Karvashion]{.name data-type="being/npc"}
-: A self-taught mage from the caravan town of [[place-karvashion2|Karvashion]] who was briefly Fodios' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Fodios' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistémion's chapterhouse and has hinted at bringing her evidence before the Sekran.
+Rival Healer [Kalesara of Karvashion]{.name data-type="being/npc"}
+: A self-taught mage from the caravan town of [[place-karvashion2|Karvashion]] who was briefly Fodios' apprentice before their relationship turned bitter over philosophical differences. Kalesara believes that Fodios' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalesara's accusations are particularly dangerous because she has connections to the Epistémion's chapterhouse and has hinted at bringing her evidence before the Sekran.
 
 ### Affiliations
 
@@ -553,17 +551,15 @@ The Informal Network of Folk Healers and Independent Practitioners
 
 ## Plot Hooks
 
-The Plague That Defies Magic
-: A disease of mysterious origin begins spreading through the countryside, and even Fodios' most powerful healing magic provides only temporary relief—the sickness returns within days. The affliction seems to actively resist magical intervention, almost as though it possesses an intelligence of its own. Desperate villagers and the Guild both turn to Fodios for answers. Investigation reveals that the plague may be intentionally created by hostile forces, designed specifically to discredit non-traditional healers by forcing failures they would normally never experience. The cure may require him to temporarily reconcile with the formal Guild, to combine his intuitive approach with their theoretical knowledge.
+The Fever That Returns
+: A fever spreads through the hill villages that feed [[place-chrysamar|Krisamar]], and Fodios's healing relieves it for a few days before it comes back. The villagers and the chapterhouse both turn to him for an answer. The cure he suspects needs the chapterhouse's texts, and asking for them hands Marendos Zevidin the opening he has wanted for years. Fodios can ask the chapterhouse for the texts, or treat the villages without them and watch the fever return.
 
-The Apprentice with Uncontrolled Power
-: A young person from a wealthy Guild family arrives seeking instruction from Fodios after the formal Guild rejected them for having "unstable and unpredictable" magical resonance. Fodios recognizes the young person as gifted in ways that match his own unconventional path, but training them will be seen as poaching from the Guild and could provide the excuse needed to formally revoke his standing. The young person is also harboring a dangerous secret about why the Guild truly rejected them—they possess a form of magic the Guild has actively suppressed, and teaching them may expose Fodios to forces worse than the Guild's opposition.
+Kalesara's Witnesses
+: Kalesara of Karvashion asks a fishing family in Krisamar to swear before the chapterhouse that Fodios's treatment of their child failed. The child lived. Fodios can ask the family to stand before the council and expose them to the Sekran's inquiry, or let the claim of fraud stand uncontested.
 
-The Spirit That Requires a Bridge
-: Fodios becomes aware through his divination work that a powerful spirit—neither good nor evil, but vast and ancient—is attempting to communicate with the living world. The spirit cannot manifest directly without causing catastrophic harm, and it requires Fodios to act as a conduit or bridge. The task will require him to enter a trance state for an extended period, making him vulnerable, and the information the spirit carries may fundamentally change his understanding of magic, reality, and his own role within both.
+The Council Summons
+: Sekeros Ghesáz turns his inquiry into a formal charge, and the chapterhouse council, where Marendos Zevidin leads the case, must decide whether to strip Fodios's standing before the Sekran hears it. He can submit to the council's judgment and risk expulsion, leave the villages that depend on him, or call on the few allies he has to mount a defense that exposes the chapterhouse's politics.
 
-The Child With Incurable Condition
-: A desperate family brings their dying child—a condition that combines physical illness with what appears to be magical curse. Fodios' healing magic proves insufficient, but through extensive investigation, he discovers that the curse was placed by a rival family engaged in political war. The child can only be saved by undoing the original curse, which requires Fodios to either negotiate with the cursing mage (who shows no remorse) or learn a form of curse-breaking magic that will require studying with the very formal practitioners he has rejected. His choice will either affirm or contradict everything he has believed about his unorthodox path.
-
-The Order's Final Move
-: _Sekeros_ Ghesáz finally escalates his investigation into a formal charge of unlicensed magical practice. Fodios is summoned to appear before the Epistémion's chapterhouse council, where evidence is presented—some legitimate, some distorted—suggesting that his work violates the Order's monopoly. _Marendos_ Zevidin leads the prosecution, while Ghesáz represents Order interests. Fodios faces an agonizing choice: submit to the council's judgment (risking expulsion, loss of nominal protection, and formal Order pursuit), flee his home and abandon his work in the villages that depend on him, or call upon his few allies in the Epistémion and community to mount a desperate defense that will expose the politics of the chapterhouse and force a confrontation with both Zevidin's personal vendetta and the Order's overreach. The trial becomes a contest over the question that has defined his life: whether magic's highest purpose is obedience to the doctrine of the orders or service to those in need.
+:::secret {title="What the referee knows"}
+The librarian [Lekhanos of the Archives]{.name data-type="being/npc"} believes Fodios's approach may be a true step forward in magical practice and passes him restricted texts and news of the council's business. The chapterhouse has noticed that pages are missing from its stacks. Fodios can return the texts and lose his one source of news, or keep them and let suspicion fall on the librarian.
+:::

@@ -3,6 +3,7 @@ shortcode: lofrflmds
 name: {full: Lofáhr Vuzaghios, given: Lofáhr, clan: Vuzaghios}
 type: being
 subType: character
+description: "A mercenary captain of Krisamar who leads a small, highly paid company and takes only contracts he can defend."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -450,7 +451,7 @@ Born to a modest trading family in the [[affiliation-byzarianlg|Bizarian League]
 
 ### The Rise of the Silver Vipers
 
-For twenty years, Lofáhr rose through the Vipers' ranks, distinguishing himself through an almost supernatural combination of courage and strategic brilliance. He commanded the [Viper Guard]{.name data-type="affiliation"}, an elite unit of fifty warriors who never suffered a contracted defeat. Battles were won not through superior numbers but through Lofáhr's capacity to identify a foe's psychological weaknesses and exploit them ruthlessly. He became known as "the Serpent's Head"—the decisive instrument of the Vipers' will.
+For fifteen years, Lofáhr rose through the Vipers' ranks, distinguishing himself through an almost supernatural combination of courage and strategic brilliance. He commanded the [Viper Guard]{.name data-type="affiliation"}, an elite unit of fifty warriors who never suffered a contracted defeat. Battles were won not through superior numbers but through Lofáhr's capacity to identify a foe's psychological weaknesses and exploit them ruthlessly. He became known as "the Serpent's Head"—the decisive instrument of the Vipers' will.
 
 ### The Dissolution and After
 
@@ -497,7 +498,7 @@ Growing Cynicism
 : His increasing doubt about the nature of his work sometimes manifests as paralysis. He becomes unable to commit to new contracts, wondering if he is simply becoming a tool of others' ambitions.
 
 Physical Decline
-: At forty-five, Lofáhr's reflexes, though still excellent, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
+: At forty-four, Lofáhr's reflexes, though still excellent, no longer possess the superhuman quickness of his youth. Younger fighters are beginning to match him.
 
 Isolation
 : His profession and temperament have left him without close relationships. This loneliness, in moments of weakness, nearly overwhelms him.
@@ -506,47 +507,41 @@ Isolation
 
 ### Patrons
 
-Lord Commander [[being-mazitosrekha|Mazitos]] of the [[place-eastrnmrch|Eastern March]]
+[[being-mazitosrekha|Mazitos Rekhazur]], Lord Commander of the [[place-eastrnmrch|Eastern March]]
 : A powerful nobleman who contracts Lofáhr whenever border security becomes critical. They maintain a relationship of mutual respect spanning two decades.
 
-[Merchant Consortium of the Golden Coast]{.name data-type="affiliation/venture"}
-: Several trading families maintain Lofáhr under retainer for protection against piracy and rival merchant houses. The payments are generous but steady.
+The Harbor Consortia of [[place-chrysamar|Krisamar]]
+: Several of the consortia that own the harborfront warehouses keep Lofáhr under retainer for protection against pirates and rival merchant houses. The payments are generous but steady.
 
-Duke [[being-dekheghashpy|Dekheghash Pilikot]]
-: An aging but still-powerful aristocrat who employs Lofáhr for sensitive security work, often involving protection from internal conspiracies within the court.
+[[being-dekheghashpy|Dekheghash Pilikot]]
+: An aging but still-powerful aristocrat who employs Lofáhr for sensitive security work, often involving protection from conspiracies within his own house.
 
 ### Enemies
 
 [Nishánikos the Dirge]{.name data-type="being/npc"}, Captain of the [Crimson Wolves]{.name data-type="affiliation"}
 : A rival mercenary company leader whose contract was chosen over his own by a major client. Nishánikos harbors deep resentment and seeks opportunities to undermine Lofáhr's reputation.
 
-[The Shadow Syndicate]{.name data-type="affiliation/criminal"}
-: A criminal organization whose operations Lofáhr destroyed on behalf of a client five years ago. Several high-ranking members survive and hunger for vengeance.
+The Smugglers of the Coast
+: A smuggling ring whose operations Lofáhr destroyed on behalf of a client five years ago. Several of its leaders survive and hunger for vengeance.
 
 ### Affiliations
 
-The Bizarian League
+[[affiliation-byzarianlg|Bizarian League]]
 : Citizen in good standing, though his mercenary status makes him somewhat of an outsider in traditional society.
 
-[The Independent Mercenary Council]{.name data-type="affiliation"}
-: A loose association of mercenary captains who keep common standards and negotiate pay. Lofáhr holds significant influence.
-
-The [[affiliation-ardavon|Order of Árdavon]] (Order Aspect)
+[[affiliation-ardavon|Faith of Árdavon]]
 : A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.
 
 ## Plot Hooks
 
-The Contract Nobody Should Take
-: A mysterious client offers Lofáhr an astronomical sum—enough to retire in absolute luxury—for a contract so vague and suspicious that every instinct screams danger. The target's identity remains deliberately obscured. As Lofáhr investigates, he discovers the true nature of the contract: assassination of a political figure that would trigger a regional war. He must decide whether to accept and execute the contract that would finally provide financial security, or reject it and maintain the moral line he has desperately tried to hold.
+The Vague Contract
+: A client who will not give his name offers Lofáhr enough to retire on, for a contract he will not describe. Lofáhr's inquiries show that the target is a march lord whom the League council commissioned and can dismiss, and that his death would leave the frontier without a hand to hold it. He can take the money, or refuse and keep the line he has drawn.
 
-The Deserter's Daughter
-: A young woman approaches Lofáhr claiming to be the daughter of [Langárion Votash]{.name data-type="being/npc"}, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Lofáhr to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and [Vex]{.name data-type="being/npc"} were manipulated into participating in.
+The Deserter's Letter
+: A young woman brings Lofáhr a letter from her father [Langárion Votash]{.name data-type="being/npc"}, who deserted the Silver Vipers years ago. It asks Lofáhr to look in the company's old fortress for something Langárion left there. The fortress lies on a road that the League's garrisons watch, and the letter may be a trap set by someone who wants Lofáhr away from Krisamar. He can follow the letter to the fortress, or leave it unanswered and let the daughter go to the road alone.
 
-The Redemption Contract
-: A noble priest of Árdavon approaches Lofáhr with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Lofáhr discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
+Guarding the Camp
+: A priest of the [[affiliation-ardavon|Faith of Árdavon]] asks Lofáhr to guard a camp of refugees from raiders, and offers no payment but counsel on the possibility of redemption. The camp shelters families from a town the Vipers once took, and the refugees fear Lofáhr. He can guard them from a distance, or stay among them and bring the anger of their families into the camp.
 
-The Immortal Warrior
-: During a contract in a remote region, Lofáhr encounters a warrior of impossible age—a man who claims to have fought for over two centuries and to recognize Lofáhr as his reincarnated rival. The mysterious fighter challenges Lofáhr to a series of tests, hinting that survival requires understanding a truth about himself and his past that has been deliberately hidden. The physical and psychological tests force Lofáhr to confront the possibility that his memories may be false.
-
-The Final Battle of the Silver Vipers
-: Evidence surfaces suggesting that the Silver Vipers were destroyed not from internal schism as believed, but through deliberate sabotage by someone within the organization. Lofáhr, driven by loyalty to his former brothers, begins investigating the truth. This quest draws him into conflict with powerful entities who benefit from the Vipers' destruction and who will do anything to keep the truth buried—including hiring rivals to eliminate him.
+The Consortium Convoy
+: The consortia of Krisamar ask Lofáhr to escort a cargo past the smugglers he once broke, and the captain of the Crimson Wolves, Nishánikos the Dirge, has taken the smugglers' pay to stop it. Lofáhr can fight a company of twenty with his own, or deliver the cargo by an unguarded road and risk his reputation for never losing a contract.

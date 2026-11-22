@@ -3,7 +3,7 @@ shortcode: vokhiashlori
 name: {full: Vokhiásh Loridek, en: [Guild Master Vokhiásh Loridek]}
 type: being
 subType: npc
-description: The current head of the Maritime Shipwrights' Guild, who acts as a political buffer between Trufios Veghekos and government bureaucracies.
+description: The current head of the shipwrights' guild of Krisamar, who acts as a political buffer between Trufios Veghekos and the harbor consortia.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -12,7 +12,7 @@ data:
   occupation: Guild Master
   lore: []
   culture: byzarianclt
-  homes: []
+  homes: [chrysamar]
   affiliations: {}
   gender: female
   species: humanflk
@@ -42,4 +42,4 @@ Vokhiásh Loridek is a 55-year-old woman who stands 6'0" tall with a heavy build
 
 # Dossier {#dossier}
 
-Vokhiásh Loridek is the current head of the [Maritime Shipwrights' Guild]{.name data-type="affiliation/guild"}. She acts as a political buffer between [[being-grgrsfthympls|Trufios Veghekos]] and government bureaucracies, smoothing over the conflicts his abrasive manner causes.
+Vokhiásh Loridek is the current head of the shipwrights' guild of [[place-chrysamar|Krisamar]]. She acts as a political buffer between [[being-grgrsfthympls|Trufios Veghekos]] and the harbor consortia, smoothing over the conflicts his abrasive manner causes.

@@ -3,6 +3,7 @@ shortcode: aglrmlsns
 name: {full: Agélara Stetes, given: Agélara, clan: Stetes}
 type: being
 subType: character
+description: "The innkeeper of the Gilded Gryphon in Thálassos, a merchant-prince's daughter who chose hospitality over an arranged marriage."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -477,7 +478,7 @@ Her father's fury was spectacular but ultimately futile against Agélara's quiet
 
 ### Taking Flight
 
-When her mentor decided to retire at sixty, Melanthehran offered Agélara the option to purchase the Inn at a price far below its worth, a gift disguised as business. With her own savings, some financial help from her mother (done secretly from her father), and support from trusted merchants who recognized her worth, Agélara purchased the Inn three years ago and has transformed it into the most fashionable inn in the Bizarian League's capital. The Gilded Gryphon has become more than a place to sleep: a meeting place, a source of gossip and information, a space where deals are brokered and secrets shared under the assumption of absolute discretion.
+When her mentor decided to retire at sixty, Melanthehran offered Agélara the option to purchase the Inn at a price far below its worth, a gift disguised as business. With her own savings and loans from trusted merchants who recognized her worth, secured against the inn, Agélara purchased the Inn three years ago and has transformed it into the most sought-after inn in [[place-thalassos|Thálassos]]. The Gilded Gryphon has become more than a place to sleep: a meeting place, a source of gossip and information, a space where deals are brokered and secrets shared under the assumption of absolute discretion.
 
 ## Psyche
 
@@ -536,7 +537,7 @@ Lack of True Ambition
 ### Patrons
 
 Her Mother, Lady [[being-tcharzilinaz|Charzilina Zigakit]]
-: Though officially estranged from her father, Agélara maintains a close and loving relationship with her mother, who provides both emotional support and occasional financial assistance. Charzilina has also become one of Agélara's best sources of information about the social machinations of the wealthy.
+: Though officially estranged from her father, Agélara maintains a close and loving relationship with her mother, who provides emotional support. Charzilina has also become one of Agélara's best sources of information about the social machinations of the wealthy.
 
 Master Melanthehran Vuzigazur
 : Her mentor and former owner, now retired, who still frequents the Gilded Gryphon to share wine with Agélara and offer wisdom on business and life matters.
@@ -549,33 +550,28 @@ Merchant-Lord [[being-kezhvalikosb|Kezhvalikos Bolalidek]]
 Her Father, Merchant-Prince Selvazhikon Zigakit
 : Though not actively hostile, Agélara's father views her choice as a personal rejection of his authority and the family's social position. He has pressured her to close the Inn and return to her "proper" role in the family business. The emotional distance between them causes Agélara real pain despite her outward success.
 
-[The Merchant's Syndicate]{.name data-type="affiliation/venture"}
-: A powerful organization of merchant-lords who view independent innkeepers as obstacles to their control of the hospitality trade. They have threatened Agélara's suppliers and attempted to pressure her into joining their ring, which would compromise her ability to serve all travelers equally.
-
 Unspoken Jealousy
 : Some of the older innkeepers in the region resent her success and beauty, spreading rumors about her propriety and hinting that her popularity stems from something improper rather than true hospitality.
 
 ### Affiliations
 
-[The Innkeepers' Association of the Bizarian League]{.name data-type="affiliation"}
-: An association of innkeepers and taverners in which Agélara is a respected voice for the rights of independent innkeepers against larger merchant organizations.
-
-[The Ólvenia Circle]{.name data-type="affiliation"}
-: An informal society of women who worship the prosperity goddess [[lore-olveniadty|Ólvenia]], through which Agélara maintains connections with female merchants, scholars, and influential women throughout the League.
+[[affiliation-olvenia|Faith of Ólvenia]]
+: Agélara keeps the faith of the prosperity goddess [[lore-olveniadty|Ólvenia]], and through its worshippers she maintains connections with female merchants, scholars, and influential women in the harbor towns of the League.
 
 ## Plot Hooks
 
-The Eavesdropper's Secret
-: A mysterious guest, [Samariel the Veiled]{.name data-type="being/npc"}, takes a room at the Gilded Gryphon and slowly reveals to Agélara that she is fleeing a dangerous marriage—her husband is politically connected and has hired agents to locate her. While Agélara provides refuge and comfort, she learns that Samariel overheard a conspiracy being discussed in one of the tavern's private rooms: wealthy merchants plotting to corner the grain market, causing artificial shortages that would starve the poor. She can protect her guest's confidence and stay silent, or expose the conspiracy and risk drawing both Samariel and herself into deadly danger.
+A Guest the Shrine Shelters
+: A woman takes a room at the Gilded Gryphon and tells Agélara that she is fleeing a dangerous marriage. Her husband is politically connected and has hired agents to find her. The priests of [[lore-pozerasdty|Pozeras]] shelter those who flee pursuit, but the agents are asking at every inn on the waterfront. Agélara can keep the guest in the inn or move her to the shrine and give up the watch over her.
 
-The Forged Ledgers
-: A corrupt merchant, [Lodisash Gokhetkar]{.name data-type="being/npc"}, who frequented the Gilded Gryphon for years and left large debts, has disappeared after his crimes were exposed. Authorities arrive at the Inn accusing Agélara of being complicit in his crimes—claiming she helped him hide stolen money in the Inn's accounts. Her careful ledgers should prove her innocent, but she discovers they have been subtly altered to create the appearance of fraudulent transactions. Someone has broken into her records and fabricated evidence. Agélara must investigate who did this and why, potentially uncovering a larger conspiracy that implicates someone powerful.
+The Altered Ledger
+: A merchant who ran up large debts at the Gilded Gryphon disappears after his crimes are exposed, and the magistrate's men come to the inn to ask whether Agélara hid his money. Her ledgers should clear her, but entries have been altered to show payments she never took. She can open the ledgers to the magistrate and risk what else he finds in them, or learn who broke into her records before the hearing.
 
-The Lost Heir
-: An elderly scholar, [Doríanazh Gováhr]{.name data-type="being/npc"}, arrives at the Gilded Gryphon carrying a letter supposedly proving that a common shipyard worker named [Torinn]{.name data-type="being/npc"} is actually the missing heir to one of the Bizarian League's greatest fortunes, heir to the [House of Stellenos]{.name data-type="affiliation/lineage"}. The letter is ancient and its authenticity is unclear. The scholar asks Agélara for shelter and secrecy while he verifies the claim, but word of this possibility begins to circulate. Both the sitting holder of the House title and various criminal elements become interested in finding and silencing Torinn before the truth emerges. Agélara becomes an unlikely protector of a man whose very existence could reshape the League's politics.
+Full House in the Storm Month
+: A storm shuts the harbor and the inn fills with the crews of the ships it holds. A shipmaster demands every room for his officers, and Agélara's regular guests, who recommend the inn to other wealthy travelers, say that they will leave if she gives theirs up. She can keep her regulars and refuse the shipmaster, or take the better-paying officers and lose the guests who recommend her to others.
 
-The Poisoner's Bargain
-: A plague enters the town, and the Gilded Gryphon becomes a place of refuge for the sick and dying. Agélara's skill at nursing and her store of healing herbs save many lives, earning her local sainthood. However, she is approached secretly by Physician-Master [Drorazur]{.name data-type="being/npc"}, who believes the plague was deliberately introduced by someone trying to eliminate a specific person—he suspects a wealthy family is using the chaos to commit murder. He asks Agélara to help identify which of her guests is the target and which might be the perpetrator, using her intimate knowledge of her visitors. Helping him could save an innocent life but also make her a target if the murderer realizes she suspects them.
+Her Father's Offer
+: Merchant-Prince [[being-selvazhikonz|Selvazhikon Zigakit]] arrives in Thálassos with an offer: he will buy the Gilded Gryphon for twice its worth and put a manager in it, if Agélara returns to his house. The money would repay the merchants' loans at once. Agélara can accept and lose the independence she chose, or refuse and face the pressure he has put on her to close the inn.
 
-The Inheritance No One Wants
-: Agélara is shocked to learn that her estranged Uncle [Tarázikon]{.name data-type="being/npc"}—a man she has never met—has died in a distant city and named her as the beneficiary of a substantial estate. The inheritance comes with mysteries: why would a relative she never knew leave her everything, and what are the dark secrets that seem to surround the estate? When she travels to claim it, she discovers the house is haunted—not by spirits, but by the ghosts of her family's past, including evidence that her uncle was killed under mysterious circumstances. She becomes entangled in uncovering truths that her father never wanted her to know.
+:::secret {title="What the referee knows"}
+Charzilina helped Agélara buy the inn with money her husband does not know she sent. If Selvazhikon learns of it, he can call his wife's gift a theft from the family and press the magistrate to name the inn his property.
+:::

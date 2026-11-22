@@ -1,19 +1,19 @@
 ---
 shortcode: pazhurenagef
-name: {full: Pazhurena Gefirikot, en: [High Priestess Pazhurena Gefirikot]}
+name: {full: Pazhurena Gefirikot, en: [Hammer-Priest Pazhurena Gefirikot]}
 type: being
 subType: npc
-description: High priestess and supreme ecclesiastical authority in the region, named in Bokhenon Hodikot.
+description: Hammer-Priest who leads the temple of The Sacred Forge in Krisamar, where Bokhenon Hodikot serves.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: High Priestess
+  occupation: Hammer-Priest
   lore: []
   culture: byzarianclt
-  homes: []
-  affiliations: {}
+  homes: [chrysamar]
+  affiliations: {sacredforge: {rank: 3}}
   gender: female
   species: humanflk
   born: "654.127"
@@ -42,4 +42,4 @@ Pazhurena Gefirikot is a 65-year-old woman who stands 6'0" tall with a heavy bui
 
 # Dossier {#dossier}
 
-Pazhurena Gefirikot is the high priestess and supreme ecclesiastical authority in the region. In one plot hook of the note on [[being-lnntshdkt|Bokhenon Hodikot]], she discovers evidence suggesting that Bokhenon has been conducting unauthorized dark rituals in the temple's lower chambers.
+Pazhurena Gefirikot is the Hammer-Priest who leads the temple of [[affiliation-sacredforge|The Sacred Forge]] in [[place-chrysamar|Krisamar]]. She trusts [[being-lnntshdkt|Bokhenon Hodikot]]'s brutal effectiveness, though not entirely comfortably.

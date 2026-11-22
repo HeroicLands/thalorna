@@ -3,13 +3,13 @@ shortcode: mazitosrekha
 name: {full: Mazitos Rekhazur, en: [Lord Mazitos Rekhazur]}
 type: being
 subType: npc
-description: Master of the Bizarian League's Eastern March, named in Fibakon Siderakit.
+description: Lord Commander of the Bizarian League's Eastern March, named in Fibakon Siderakit.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior, courtier]
-  occupation: Master of the Eastern March
+  occupation: Lord Commander of the Eastern March
   lore: []
   culture: byzarianclt
   homes: [eastrnmrch]
@@ -42,4 +42,4 @@ Mazitos Rekhazur is a 50-year-old man who stands 6'3" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Mazitos Rekhazur is Master of the [[affiliation-byzarianlg|Bizarian League]]'s [[place-eastrnmrch|Eastern March]]. The note on [[being-chrysntssdrkt|Fibakon Siderakit]] names him.
+Mazitos Rekhazur is Lord Commander of the [[affiliation-byzarianlg|Bizarian League]]'s [[place-eastrnmrch|Eastern March]]. The note on [[being-chrysntssdrkt|Fibakon Siderakit]] names him.

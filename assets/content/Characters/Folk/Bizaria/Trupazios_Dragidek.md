@@ -1,19 +1,19 @@
 ---
 shortcode: trupaziosdra
-name: {full: Trupazios Dragidek, en: [Bishop Trupazios Dragidek]}
+name: {full: Trupazios Dragidek, en: [Hammer-Priest Trupazios Dragidek]}
 type: being
 subType: npc
-description: A conservative religious figure who views Bazia Lokios's changes to ritual as heretical.
+description: A conservative Hammer-Priest of The Sacred Forge who views Bazia Lokios's changes to ritual as heretical.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: Bishop
+  occupation: Hammer-Priest
   lore: []
   culture: byzarianclt
   homes: []
-  affiliations: {}
+  affiliations: {sacredforge: {rank: 3}}
   gender: male
   species: humanflk
   born: "659.112"
@@ -42,4 +42,4 @@ Trupazios Dragidek is a 60-year-old man who stands 5'11" tall with a light build
 
 # Dossier {#dossier}
 
-Trupazios Dragidek is a conservative bishop. He views the changes that [[being-helnmystks|Bazia Lokios]] has made to ritual as heretical departures from proper practice and works to limit her authority and influence.
+Trupazios Dragidek is a conservative Hammer-Priest of [[affiliation-sacredforge|The Sacred Forge]]. He views the changes that [[being-helnmystks|Bazia Lokios]] has made to ritual as heretical departures from proper practice and works to limit her authority and influence.

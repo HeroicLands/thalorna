@@ -1,18 +1,18 @@
 ---
 shortcode: rabekaraneor
-name: {full: Rabekara Neorikot, en: [Arsir Rabekara Neorikot]}
+name: {full: Rabekara Neorikot, en: [Consortium Head Rabekara Neorikot]}
 type: being
 subType: npc
-description: A senior political figure who guards Sedikon Manedes jealously.
+description: The head of one of the harbor consortia of Krisamar, who guards Sedikon Manedes jealously.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Arsir
+  occupation: Consortium Head
   lore: []
   culture: byzarianclt
-  homes: []
+  homes: [chrysamar]
   affiliations: {}
   gender: female
   species: humanflk
@@ -42,4 +42,4 @@ Rabekara Neorikot is a 59-year-old woman who stands 5'10" tall with a medium bui
 
 # Dossier {#dossier}
 
-Rabekara Neorikot is a senior political figure, an arsir, who guards [[being-gvrlsnktrts|Sedikon Manedes]] jealously.
+Rabekara Neorikot is the head of one of the harbor consortia of Krisamar, who guards [[being-gvrlsnktrts|Sedikon Manedes]] jealously.

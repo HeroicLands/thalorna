@@ -3,6 +3,7 @@ shortcode: flthnktrts
 name: {full: Fritia Manedes, given: Fritia, clan: Manedes}
 type: being
 subType: character
+description: "A journeyman lutenist of Thálassos who plays the taverns and squares of the Bizarian League while she searches for the old songs."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -445,9 +446,9 @@ Fritia stands 5'9" tall with a light build. She has sun-tanned skin, black hair,
 
 Fritia was born in the maritime town of [[place-thalassos|Thálassos]] into a merchant family of modest means, though her father [Frozebios]{.name data-type="being/npc"} once was a music tutor to minor nobility. Her childhood was filled with the haunting melodies of her homeland—the cry of gulls mingling with lute-song drifting from harbors and squares. At age eight, her father gifted her a lute carved from the wood of a storm-felled oak, an instrument that would become her closest companion.
 
-Her formal training under the exacting Master [Ósiris]{.name data-type="being/npc"} of the [Minstrels' Guild of the Bizarian League]{.name data-type="affiliation/guild"} lasted six grueling years. While other students labored over composition theory and courtly decorum, Fritia proved herself an improviser without equal, her fingers dancing across the strings with an intuitive grace that left her instructors both awed and unsettled. Yet her reluctance to master the rigid constraints of formal composition ultimately limited her advancement within the Guild's hierarchy—a source of quiet frustration to this day.
+Her formal training under the exacting Master [Osthiros]{.name data-type="being/npc"}, a teacher of minstrels, lasted six grueling years. While other students labored over composition theory and courtly decorum, Fritia proved herself an improviser without equal, her fingers dancing across the strings with an intuitive grace that left her instructors both awed and unsettled. Yet her reluctance to master the rigid constraints of formal composition ultimately limited her advancement among the minstrel masters—a source of quiet frustration to this day.
 
-Now twenty-six and a journeyman performer of growing reputation, Fritia travels the taverns, festivals, and public squares of the [[affiliation-byzarianlg|Bizarian League]]. She earns her bread through impromptu performances, custom ballads, and occasional teaching, but her heart yearns for something more: the discovery of the fabled "[Lost Anthem]{.name data-type="lore"}," a pre-ancient melody said to be woven into the land itself.
+Now twenty-five and a journeyman performer of growing reputation, Fritia travels the taverns, festivals, and public squares of the [[affiliation-byzarianlg|Bizarian League]]. She earns her bread through impromptu performances, custom ballads, and occasional teaching, but her heart yearns for something more: the discovery of the fabled "[Lost Anthem]{.name data-type="lore"}," a pre-ancient melody said to be woven into the land itself.
 
 ## Psyche
 
@@ -511,38 +512,30 @@ The Fisher-Folk of Coastal Villages
 ### Enemies
 
 [Gedon the Flawless]{.name data-type="being/npc"}
-: A virtuoso courtier-musician of aristocratic birth who views Fritia as an untutored talent who has undeservedly garnered Guild attention. He has spread rumors questioning her authenticity and occasionally purchases her commissions only to cancel them publicly, damaging her reputation.
+: A virtuoso courtier-musician of aristocratic birth who views Fritia as an untutored talent who has undeservedly garnered the masters' attention. He has spread rumors questioning her authenticity and occasionally purchases her commissions only to cancel them publicly, damaging her reputation.
 
-The Orthodox Guild Establishment
-: While she holds membership in good standing, several senior Guild masters view her refusal to commit to formal composition as a betrayal of their teachings. They have subtly blacklisted her from high-profile teaching positions.
+The Senior Masters
+: Several senior masters of minstrelsy view her refusal to commit to formal composition as a betrayal of their teachings, and she is passed over for high-profile teaching positions.
 
 [Karell the Sage-Hunter]{.name data-type="being/npc"}
 : An obsessive collector of arcane lore who believes Fritia possesses information about the Lost Anthem that rightfully belongs to him. He has begun following her travels, offering payment for her research, and growing more threatening as she refuses his advances.
 
 ### Affiliations
 
-Minstrels' Guild of the Bizarian League
-: Her official membership, though tensions exist with the establishment hierarchy regarding her unconventional approach.
-
 The Siren's Repose
 : Effectively her home base and regular venue for performances.
 
-[The Fellowship of the Old Songs]{.name data-type="affiliation"}
-: An informal network of folklorists, scholars, and village storytellers scattered across three kingdoms. She is a junior member seeking to gain standing through her discoveries.
-
 ## Plot Hooks
 
-The Tavern Tragedy
-: A beloved innkeeper in a village where Fritia has been playing is found dead—apparently poisoned—and his entire collection of hand-copied song manuscripts is missing. Fritia discovers that three of the songs in his collection matched fragments of what she believes are Lost Anthem verses. Now she must find out whether his death was coincidence or something darker, while competing against other unknown parties also seeking these rare manuscripts. Her investigation may lead her to discover a secret organization collecting and suppressing dangerous pre-ancient music.
+The Melody on Commission
+: A patron who gives no name commissions Fritia to learn one complex melody by a set date, and the fee would clear every debt she has. The melody matches one she has searched for since she took up the lute. The patron will not say where it comes from or who will hear it. She can take the fee and play it, or refuse and lose the one trail she has found.
 
-The Counterfeit Bard
-: A charlatan claiming to be a long-lost rival composer from Fritia's Guild days arrives in her current town, giving elaborate performances of "newly recovered" ancient music that attract massive crowds. Fritia recognizes the songs as modern compositions passed off as ancient, but proving the deception could expose uncomfortable truths about her own research and credibility. Meanwhile, this impostor may actually be pursuing the same Lost Anthem fragments Fritia seeks—perhaps they have a shared history she has forgotten or suppressed.
+The Counterfeit Anthem
+: A stranger in [[place-thalassos|Thálassos]] draws crowds to the harbor with "newly recovered" ancient music. Fritia recognizes modern tunes under the ornament. Proving the fraud means explaining how she tells them apart, and the method she would lay out is the same one she uses to trust her own finds.
 
-The Silent Prison
-: An elderly woman approaches Fritia after a performance, claiming to be a survivor of an ancient disaster where the Lost Anthem was used as a weapon of terrible power. The woman is nearly mute and much damaged, but hums fragments of unmistakably pre-ancient melodies. She will only trust Fritia and only communicate through music and song. Helping her recover her story could unlock dangerous knowledge about why powerful forces want the Lost Anthem buried and forgotten—and may put Fritia in mortal danger.
+Karell's Offer
+: Karell the Sage-Hunter raises his offer for her research each time she refuses it, and he has begun to wait outside the Siren's Repose after her last set. Varekos asks her to stay inside the tavern until Karell leaves the town. She can accept the offer and sell her work to a man she distrusts, or play the next night's set and walk out through the crowd.
 
-The Wedding that Never Was
-: Fritia receives a commission from a mysterious patron to learn a specific complex melody by a certain date, payment generous enough to resolve all her current debts. The melody matches one she has been obsessively searching for. When she arrives to perform, she discovers the supposed wedding is a ruse—she has been manipulated into learning a piece that is actually a magical key, a spell-song that will unlock a sealed chamber when performed. She is caught between paying her debts and discovering what is being so carefully locked away from the world.
-
-The Guild Master's Secret
-: Master Ósiris, her former instructor, falls gravely ill and requests her at his bedside. Before witnesses, he tells her that he has spent forty years seeking the Lost Anthem to atone for a great mistake—that he knew of its location once, as a young man, but rejected it as heresy. He reveals cryptic information suggesting it lies hidden beneath the earth in a place no one has excavated, protected by traps designed by the ancients themselves. He dies before explaining more, and Fritia can share this information with the Guild or pursue this most tantalizing lead alone, knowing others in the Guild may have also heard his confession.
+:::secret {title="What the referee knows"}
+Master Osthiros, her old teacher, falls gravely ill and asks to see her. He tells her that he spent forty years looking for the Lost Anthem to atone for refusing it as a young man, and that it lies beneath ground no one has dug. He dies before he says more. Fritia can bring his words to the minstrel masters, or follow them alone, knowing that others at the bedside heard them too.
+:::

@@ -1,6 +1,6 @@
 ---
 shortcode: dekheghashpy
-name: {full: Dekheghash Pilikot, en: [Duke Dekheghash Pilikot]}
+name: {full: Dekheghash Pilikot, en: [Merchant-Prince Dekheghash Pilikot]}
 type: being
 subType: npc
 description: An aging but still-powerful aristocrat who employs Lofáhr Vuzaghios for sensitive security work.
@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Duke
+  occupation: Merchant-Prince
   lore: []
   culture: byzarianclt
   homes: []

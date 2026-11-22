@@ -3,6 +3,7 @@ shortcode: grgrsfthympls
 name: {full: Trufios Veghekos, given: Trufios, clan: Veghekos}
 type: being
 subType: character
+description: "The master shipwright of Krisamar, whose yard builds warships for the Bizarian League's joint fleet and fast merchant vessels for the wealthy houses."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -11,7 +12,7 @@ data:
   occupation: Shipwright
   lore: []
   culture: byzarianclt
-  homes: [thalassos]
+  homes: [chrysamar]
   affiliations: {byzarianlg: {rank: 3}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
@@ -459,7 +460,7 @@ Trufios stands 6'0" tall with a heavy build. He has weathered tanned skin, dark 
 
 **The Shipwright's Apprenticeship**
 
-Born in the maritime town of [[place-chrysamar|Krisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the [[place-byzariargn|Bizarian coast]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
+Born in the maritime town of [[place-chrysamar|Krisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the coast of the [[place-byzariargn|Bizaria Region]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
 
 **Rising Through the Guild Ranks**
 
@@ -467,7 +468,7 @@ By age twenty-one, Trufios completed his journeyman's examination and began supe
 
 **Master and Commander**
 
-At age thirty-five, Trufios achieved the rank of Master Shipwright and opened his own yard in Krisamar, employing up to thirty craftspeople during busy seasons. His warship designs have been adopted by the [Bizarian Fleet]{.name data-type="affiliation"}, and his merchant vessels are prized for their speed and durability. His work has grown ever more refined—each vessel is a marvel of engineering, drawing on mathematics, a deep knowledge of timber and iron, and accumulated practical wisdom. Yet his success has not mellowed him; if anything, age has sharpened his perfectionism and his intolerance for anything less than excellence.
+At age thirty-five, Trufios achieved the rank of Master Shipwright and opened his own yard in Krisamar, employing up to thirty craftspeople during busy seasons. His warship designs have been adopted by the League's joint fleet, and his merchant vessels are prized for their speed and durability. His work has grown ever more refined—each vessel is a marvel of engineering, drawing on mathematics, a deep knowledge of timber and iron, and accumulated practical wisdom. Yet his success has not mellowed him; if anything, age has sharpened his perfectionism and his intolerance for anything less than excellence.
 
 ## Psyche
 
@@ -479,7 +480,7 @@ His temper is notorious—minor delays, poor workmanship, or interference in his
 
 ### Motivation
 
-Trufios is primarily motivated by the pursuit of maritime perfection—the creation of vessels that represent the summit of shipbuilding art and engineering. He yearns to design a ship so advanced, so perfectly balanced between strength and elegance, that it will be remembered and studied centuries hence. He is also increasingly aware that his most productive years may be behind him, driving him toward completing his masterwork before age robs him of the physical capacity to oversee major projects. He is also beginning to recognize that he needs a successor capable of carrying his legacy forward, and he is frustrated by the dearth of truly talented apprentices willing to commit to the grueling standards he demands.
+Trufios is primarily motivated by the pursuit of maritime perfection—the creation of vessels that represent the summit of shipbuilding art and engineering. He yearns to design a ship so advanced, so perfectly balanced between strength and elegance, that it will be remembered and studied centuries hence. He wants to complete his masterwork while he has the strength to oversee a major project from keel to launch. He is also beginning to recognize that he needs a successor capable of carrying his legacy forward, and he is frustrated by the dearth of truly talented apprentices willing to commit to the grueling standards he demands.
 
 ### Strengths
 
@@ -519,47 +520,41 @@ Vulnerability to Burnout
 
 ### Patrons
 
-Admiral [[being-yulizehrankh|Yulizehran Kalkakit]] of the Bizarian Fleet
+Admiral [[being-yulizehrankh|Yulizehran Kalkakit]] of the League's joint fleet
 : The supreme naval commander of the [[affiliation-byzarianlg|Bizarian League]] maintains a permanent contract with Trufios for advanced warship design and construction. Yulizehran shields Trufios from bureaucratic interference and sees that his projects get first call on materials.
 
 [House Margarakit]{.name data-type="affiliation/lineage"}
 : A wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. Their patriarch, Lord [[being-karvashikosm|Karvashikos Margarakit]], personally negotiates with Trufios and values his counsel on maritime matters.
 
 Guild Master [[being-vokhiashlori|Vokhiásh Loridek]]
-: The current head of the [Maritime Shipwrights' Guild]{.name data-type="affiliation/guild"}, Vokhiásh acts as a political buffer between Trufios and various governmental bureaucracies, smoothing over conflicts caused by the shipwright's abrasive manner.
+: The current head of the shipwrights' guild of Krisamar, Vokhiásh acts as a political buffer between Trufios and the harbor consortia, smoothing over conflicts caused by the shipwright's abrasive manner.
 
 ### Enemies
 
-The Bizarian Naval Bureaucracy
-: Mid-level administrators and functionaries who view Trufios's refusal to follow standard procedures and his contempt for political process as intolerable insubordination. Several have attempted to block his projects or audit his finances in retaliation for perceived slights.
+The Consortium Clerks
+: Clerks of the harbor consortia who keep the warehouse and dues accounts, and who take Trufios's contempt for their procedures as insult. Several have held up his timber at the warehouses or questioned his accounts in retaliation.
 
 Competitor Shipwright [Abrázion]{.name data-type="being/npc"}
-: A rival master shipwright whose designs put cheapness before quality, Abrázion has begun undercutting Trufios on price and spreading rumors that the aging master is losing his edge. This rivalry has become increasingly bitter as Abrázion actually begins winning some contracts.
+: A rival master shipwright whose designs put cheapness before quality, Abrázion has begun undercutting Trufios on price and spreading rumors that the master is losing his edge. This rivalry has become increasingly bitter as Abrázion actually begins winning some contracts.
 
-[The Harbor Master's Office]{.name data-type="affiliation/governmental"}
-: Trufios's refusal to grease the proper palms and his contempt for the harbor authority's regulations have resulted in repeated fines, permit delays, and bureaucratic harassment designed to make his work more difficult.
+The Harbormaster
+: Trufios's refusal to grease the proper palms and his contempt for the harbormaster's regulations have resulted in repeated fines and permit delays that make his work more difficult.
 
 ### Affiliations
 
-Maritime Shipwrights' Guild
+The shipwrights' guild of Krisamar
 : Trufios holds the rank of Master and sits on the guild's technical council, where he occasionally advocates for stricter standards and craft requirements.
-
-[The Scholars of the Mechanical Arts]{.name data-type="affiliation"}
-: An informal circle of engineers, mathematicians, and craftspeople who share discoveries and discuss theoretical principles underlying their work. Trufios participates irregularly but with real enthusiasm for the intellectual component of this community.
 
 ## Plot Hooks
 
-The Impossible Commission
-: A major noble or foreign power commissions Trufios to build a warship incorporating specifications that he immediately recognizes as theoretically unsound—they demand impossible weight-to-strength ratios, armor thickness that would make the vessel too heavy to float, or other fundamental contradictions. Trufios initially refuses, but the patron persists, offering such enormous payment that he reconsiders. The party might be hired to assist Trufios in resolving the contradiction, discovering that the patron actually possesses an ancient artifact or theoretical manuscript that suggests a solution previously considered impossible. Alternatively, Trufios might be forced to choose between his principles and financial desperation.
+Nesthiros Wants the Contract
+: Admiral [[being-yulizehrankh|Yulizehran Kalkakit]] holds Trufios to a permanent contract for the joint fleet's warships, and the shipwrights of [[place-nesthiros2|Nesthiros]], whose yards build the League's galleys, press the council to move the work to their yards. Trufios can bring his designs to Nesthiros and lose control of the building, or keep them in [[place-chrysamar|Krisamar]] and see the contract go to others.
 
-The Sabotaged Masterwork
-: Trufios begins work on his intended masterpiece—a warship so advanced it will eclipse all previous designs and cement his legacy as the greatest shipwright of his age. However, he begins discovering subtle sabotage in his materials and designs—timber with hidden flaws, measurements that have been subtly altered, key workers who are being paid to introduce errors. He hires adventurers to identify the saboteur(s). Investigation leads to Shipwright Abrázion, his rival, who has become desperate enough to commit sabotage rather than compete fairly. The resolution might involve preventing further sabotage, dealing with Abrázion through legal or more violent means, or discovering that someone is using Abrázion as a dupe in a larger conspiracy.
+The Keel Timber
+: Trufios finds flaws hidden in the timber for the keel of his masterwork, and measurements in his drawings that someone has altered. He suspects his rival Abrázion, who is winning contracts at lower prices, and has only the altered figures to show. He can lay the figures before the guild and risk a feud, or hire a party to learn who paid his workers.
 
-The Cursed Timber
-: A shipment of unusually high-quality timber arrives for Trufios's current project—wood so superior that it seems almost supernatural in its properties. Too late, he discovers the wood is cursed or comes from a forbidden source. Workers begin reporting strange occurrences, accidents that shouldn't be possible occur during construction, and the timber itself seems to resist cutting and shaping. Trufios must work with the party to determine the source and nature of the curse and either lift it or find alternative materials without losing the major contract. The investigation might reveal the timber came from a forest sacred to an ancient power, or that it was harvested using slave labor and dark rituals.
+Launch Day
+: A merchant house's fast ship is ready to launch, and the harbormaster of Krisamar fines the yard and withholds the permit until Trufios pays what the harbormaster calls a fee. Trufios will not pay it. The house's captain wants the ship at sea on the tide. Trufios can pay and keep the contract, or let the tide go and hold the line.
 
-The Naval Innovation Race
-: The Bizarian League and a rival naval power are engaged in an escalating race to build better warships. The League's Admiral Yulizehran commissions Trufios to design and build a warship incorporating new ideas that will give an overwhelming advantage at sea. However, the rival power simultaneously commissions the party (perhaps along with Trufios's rival Abrázion) to acquire the designs or the finished vessel before it can be deployed. The party becomes caught between competing factions, and the resolution determines which power will rule the sea for decades to come.
-
-The Retirement Dilemma
-: As Trufios approaches the age when he feels he must finally take on a successor and begin transitioning away from day-to-day work, he realizes his most talented protégé is planning to leave the trade entirely to pursue a different calling (love, adventure, political opportunity, etc.). Trufios, terrified of seeing his legacy lost and unable to articulate his emotional attachment, becomes difficult and controlling, driving the protégé away faster. The party might be hired to convince the protégé to reconsider, to help Trufios learn to let go, or to discover that the protégé has a legitimate reason for leaving that requires the party's assistance to resolve. Alternatively, the party might assist Trufios in recruiting and training a new generation of ship builders capable of carrying forward his methods and vision.
+The Apprentice Who Leaves
+: The most talented of Trufios's apprentices tells him that she is leaving the trade. Trufios has no successor, and his temper drives her away faster. Guild Master [[being-vokhiashlori|Vokhiásh Loridek]] asks a party to find out what the apprentice wants and whether Trufios can offer it.
