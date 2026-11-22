@@ -3,6 +3,7 @@ shortcode: kmthrpsskt
 name: {full: Kumetara Pissakit, given: Kumetara, clan: Pissakit}
 type: being
 subType: character
+description: "A woodcutter of Karvashion who harvests timber selectively so the forest sustains itself, and whose work builders and furniture makers seek."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -544,17 +545,19 @@ The Woodcutters' Guild of the Bizarian League
 
 ## Plot Hooks
 
-The Ancient Grove
-: A developer seeks to purchase rights to harvest timber from the oldest forest in the region—a grove so ancient that **druids** are rumored to guard it. Kumetara is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces—both commercial and magical—are manipulating the situation.
+Beams for a Caravanserai
+: The Architects' Collective of the Bizarian League asks Kumetara for timbers for a new caravanserai at [[place-karvashion2|Karvashion]]. Zarránikos of the Logging Consortium undercuts her bid with cheaper timber cut without regard to the forest, and she will not compromise on her practices however much she might earn.
 
-The Poisoned Forest
-: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Kumetara's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
+The Monastery's Accounts
+: The Monastery of Silent Waters tells Kumetara that it cannot go on without more income from its woodlands, though Father Trokhazul Petrikot shares her conservation philosophy. She must find other funding, persuade the monastery to change how it earns, or log more than she wants to.
 
-The Apprentice Question
-: A young woman, [Nargizán Fulunáhr]{.name data-type="being/npc"}, seeks to apprentice with Kumetara, claiming spiritual calling and skill. Kumetara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumetara's work.
+An Inspection of Her Joints
+: Officials of the Woodcutters' Guild who resent her for raising standards order an inspection of her work, and rivals who call her practices foolish have spread rumors about her reliability. Kumetara has to show that the work is sound without bending the practices the inspectors dislike.
 
-The Lost Technique
-: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Kumetara, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
+:::secret {title="Further hooks"}
+An Apprentice from the Consortium
+: [Nargizán Fulunáhr]{.name data-type="being/npc"} asks to apprentice with Kumetara, claiming a spiritual calling, and Kumetara would gladly teach her. Nargizán was sent by the Logging Consortium to spy on sustainable practice and perhaps to sabotage Kumetara's work.
 
-The Sanctuary Controversy
-: The **Monastery of Silent Waters** reveals that they cannot continue financially sustaining the forest without increased logging operations. Kumetara must either find alternative funding, negotiate with the monastery's leadership to change their economic model, or compromise her principles. Meanwhile, a mysterious benefactor offers to fund the monastery—but with strings attached that Kumetara must discover before accepting.
+A Benefactor with Strings
+: A benefactor offers to fund the monastery in place of increased logging, and his offer carries conditions that Kumetara must discover before she can advise the monastery to accept.
+:::

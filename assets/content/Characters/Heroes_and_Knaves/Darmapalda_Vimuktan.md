@@ -3,6 +3,7 @@ shortcode: drmpldvmkt
 name: {full: Darmapalda Vimuktan, given: Darmapalda, clan: Vimuktan, vedy: [darmu]}
 type: being
 subType: character
+description: "A bodyguard of Danurkot of the first rank, who works from the margins of Vedyaran society for wealthy and discreet clients."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -525,17 +526,25 @@ The bodyguards' shrena
 
 ## Plot Hooks
 
-The Poisoned Patron
-: A wealthy merchant-family that has retained Darmapalda for three years suddenly begins to die in mysterious ways—servants first, then junior family members, then the family head himself. The poisons are subtle and leave no obvious trace, and the family's own paranoid response is making Darmapalda's job of protection almost impossible. Worse, someone has begun spreading rumors that Darmapalda himself is the poisoner, hired by a rival faction to eliminate the family from within. He must identify the true source of the poisoning, protect his increasingly desperate and irrational clients, and restore his shattered reputation before the entire family is eliminated and he is blamed.
+A Family Dying by Slow Poison
+: A merchant family that has retained Darmapalda for three years begins to die, first servants, then junior members, then its head, by poisons that leave no trace. The family's own suspicion makes his protection almost impossible, and a rumor says he is the poisoner.
 
-The Lost Child
-: A member of a lesser great house of [[place-chendrapur2|Chendrapur]] approaches Darmapalda with a desperate and dangerous commission—her young daughter, kidnapped by rivals in a feud among the city's houses, is being held in a fortress across the border. The family cannot involve official authorities without putting the child at risk. Darmapalda must assemble a team, penetrate a well-defended position, extract a terrified young girl who has bonded with her captors, and escape to safety. The complication arrives when he discovers the girl's captors are the true family of a child switched at birth, not the brutal kidnappers described—and the real hostage-taker is the great house itself, motivated by greed rather than any belief in their claim.
+A Daughter Held across the Border
+: A woman of a lesser great house of [[place-chendrapur2|Chendrapur]] asks Darmapalda to recover her young daughter, kidnapped by rivals in a feud among the houses and held in a fortress across the border. The family cannot go to the authorities without endangering the child.
 
-The Flower's Secret
-: The flower tattoo on Darmapalda's ankle is recognized by an unexpected visitor—a woman who bears an identical mark and claims to be connected to a vow he made years ago, a vow he has never openly acknowledged. She arrives with news that someone is hunting everyone bearing the flower mark, systematically eliminating them. She believes Darmapalda can help her uncover why, and what oath was sworn so many years ago. Accepting her help would mean confronting the past he has spent years suppressing and potentially compromising the emotional distance that allows him to function.
+False Charges from Vyalendra's Watch
+: Nagarit, Commander of Vyalendra's Watch, who treats Darmapalda's independence as an insult, has false charges drawn up and cuts off his legitimate work. Darmapalda must clear his name without the shrena's help or the Watch's goodwill.
 
-The Corrupted Commander
-: Nagarit, Commander of Vyalendra's Watch, who has pursued Darmapalda with vendetta-like intensity, suddenly approaches him with a shocking revelation—Nagarit himself is compromised, under threat by the Crimson Syndicate, and forced to pursue false charges against Darmapalda. Nagarit offers a desperate bargain: help him escape the Syndicate's control, and he will clear Darmapalda's name and cease his persecution. It's clearly a trap, but Nagarit's desperation appears real. Either this is a legitimate opportunity for redemption or an elaborate setup designed to finally deliver him to his enemies.
+Kanduta Wants the Commission
+: Kanduta the Knife, a rival bodyguard who still resents a client he failed to protect and Darmapalda did, bids for the retainer of Shroshtin Kavendra the Banker, who values Darmapalda's discretion and tactical thinking. Darmapalda can match the bid, let Kavendra choose on the record, or tell Kavendra what Kanduta's last client paid for his failure.
 
-The Master's Test
-: An elderly master-at-arms from the mercenary tradition arrives in Danurkot claiming to be seeking Darmapalda for a final and impossible commission—a student who demonstrates the flowers-mark must travel to a remote temple and compete in a series of trials against other marked warriors. Supposedly, only one will emerge, and that one will be freed from the mark forever, released from the unspoken vow. The master claims this is tradition, a path offered to those bearing the flower once each generation. Darmapalda's instincts scream trap, but the thought of freedom from the vow—of finally understanding its origins—pulls him toward participation despite every tactical instinct screaming danger.
+:::secret {title="Further hooks"}
+The Flower's Mark
+: A woman who bears a mark identical to the flower tattoo on Darmapalda's ankle claims it ties them to a vow he made years ago and has never acknowledged. She says someone is killing everyone who bears it, and accepting her help means facing the past he has suppressed.
+
+The Master's Trial
+: An elderly master-at-arms comes to Danurkot saying that a student who bears the flower must travel to a remote temple and compete in trials against other marked warriors, and that the survivor is freed from the mark and its unspoken vow. He calls it a tradition offered once each generation.
+
+The Commander's Bargain
+: Nagarit comes to Darmapalda and admits that the Crimson Syndicate has him in its power and forces him to pursue the false charges, and he offers to clear Darmapalda's name if Darmapalda helps him escape. It may be a trap, but his desperation looks real.
+:::
