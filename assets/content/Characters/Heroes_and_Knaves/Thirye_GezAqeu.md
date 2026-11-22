@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: dark_brown
     complexion: []
+    nose: aquiline
     face_shape: long
     brow: arched
     extra_features: [a tattoo of a dragonfly on the neck]

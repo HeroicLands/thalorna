@@ -26,6 +26,7 @@ data:
     hair_color: dark_brown
     skin_color: dark_brown
     complexion: [scarred]
+    nose: aquiline
     mouth: full
     extra_features: [a scar running down the right leg]
   packFolder: regkhhk

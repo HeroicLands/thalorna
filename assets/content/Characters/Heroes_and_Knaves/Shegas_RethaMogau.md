@@ -21,7 +21,7 @@ data:
   weight: 135 lbs
   frame: light
   appearance:
-    eye_color: dark_brown
+    eye_color: black
     hair_color: black
     skin_color: dark_brown
     complexion: [scarred]

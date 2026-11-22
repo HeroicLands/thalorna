@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: ebony
     complexion: [clear]
+    nose: aquiline
     face_shape: long
     brow: arched
     mouth: full

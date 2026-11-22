@@ -27,6 +27,7 @@ data:
     hair_color: greying_black
     skin_color: ebony
     complexion: [clear]
+    nose: aquiline
     brow: arched
     extra_features: []
   packFolder: regkhhk
