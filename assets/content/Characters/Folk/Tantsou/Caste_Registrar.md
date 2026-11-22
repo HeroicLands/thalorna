@@ -47,7 +47,7 @@ The Caste-Registrar of the [[affiliation-tantsouempr|Empire of Tantsou]] is know
 
 **The counselor.** The young Emperor takes his counsel first. Every Prince courts him for that reason, and an officer of each of the four is in his anteroom more often than the business of the rolls requires.
 
-**The game.** In the [[lore-weizhairui|Wei Zhai Rwi]] a misfiled petition can do as much harm as an army. The office that keeps the rolls is the office every player in the game would most like to have on his side.
+**The game.** In [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_) a misfiled petition can do as much harm as an army. The office that keeps the rolls is the office every player in the game would most like to have on his side.
 
 ## Psyche
 

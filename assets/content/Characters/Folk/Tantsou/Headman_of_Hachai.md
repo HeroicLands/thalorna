@@ -13,7 +13,7 @@ data:
   lore: []
   culture: tantsouclt
   homes: [hachai]
-  affiliations: {}
+  affiliations: {tantsouempr: {rank: 0}}
   socialTies: {}
   gender: male
   species: humanflk
@@ -41,11 +41,15 @@ The headman leads [[place-hachai|Hachai]], a village of about 180 people in a fo
 
 ## The Rule
 
+:::secret {title="Who lives in Hachai"}
 **The struck households.** Every household of Hachai is struck from the register: outlaws who fled a sentence, and [[lore-noutsou|Nwitsou]] who escaped their owners. [[place-jenshouhall|The District Hall of Jenshou]] has no page for the village, so no tribute, levy or tablet is owed for it. The headman is struck from the register like every household he leads.
+:::
 
 **The first rule.** He sets the village's rule himself, and the first rule is that nobody leaves to be counted.
 
+:::secret {title="How Hachai could be found"}
 **The market.** One household sends a boy down to trade at the Weichai market and takes the risk for the village. A year in which the register is checked against the land is the year Hachai is found, and a magistrate who learns of the place can sell his silence or make his name.
+:::
 
 ## Psyche
 
@@ -69,10 +73,13 @@ Everyone in the village has fled something, and one boy at a lowland market is e
 
 ### Affiliations
 
-- None: the village and its headman stand outside the register and the castes.
+- **[[affiliation-tantsouempr|Empire of Tantsou]]**: outlaw, struck from the register.
 
 ## Plot Hooks
+
+:::secret {title="How Hachai could be found"}
 
 1. **The boy at the market.** The boy Hachai sends down to the Weichai market has not come back, and the headman wants a party to learn whether he was taken or talked.
 2. **The count.** Word comes up the pass that the register is to be checked against the land this year, and the headman wants to know which district's clerks will walk the high country, and when.
 3. **The magistrate's price.** A magistrate has learned of the village and named a price for his silence. The headman wants a party to learn whether the magistrate has told anyone else before he pays.
+   :::

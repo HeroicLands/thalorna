@@ -81,6 +81,6 @@ She is a stranger to the district by the nature of the office, and the clerks wh
 
 ## Plot Hooks
 
-1. **The page.** A party is looking for someone it knows only by a description, and the page of the register that would find him is one the party is not allowed to see. The registrar decides who sees it.
-2. **The rice for the shelves.** A household in arrears asks a party to learn whether the rice set before the tablets of the orphaned lines is all reaching them, and the registrar wants to know before the households say it louder.
-3. **The second reading.** A Tanchei master who teaches the second reading of the Annal wants the sealed entry of the seventh year compared with the annal the schools read, and the registrar must be persuaded to open its case.
+1. **The ration for the dead man.** A household draws a ration for a member the register enters as dead, and the registrar wants a party to learn whether he lives before she strikes the ration.
+2. **The seal's impression.** An impression of the Jenshou seal, which never leaves the hall, has turned up on a ration pass at Mwonou, and she wants to know whose hand pressed it.
+3. **The upper villages' count.** The famine has moved households off the dry upper terraces, and she wants a party to walk the three upper villages with her clerk and count who is still where the register says.

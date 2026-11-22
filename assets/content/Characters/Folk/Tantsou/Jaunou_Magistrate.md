@@ -1,7 +1,7 @@
 ---
 shortcode: jaunoumgstrt
 name:
-  full: Eldest Son of the Bowman of the Clan of Red Gate in Autumn
+  full: Eldest Son of the Commandant of the Clan of Red Gate in Autumn
   en: [the Magistrate of Jaunou]
 type: being
 subType: npc
@@ -39,7 +39,7 @@ The magistrate sits at the head of his court at Jaunou with the petitions stacke
 
 # Dossier {#dossier}
 
-The magistrate of [[place-jaunou|Jaunou]] is a [[lore-wohou|Wohou]] officer of [[affiliation-mwonouprv|Mwonou Province]], known by his description: Eldest Son of the Bowman of the [Clan of Red Gate in Autumn]{.name data-type="affiliation/lineage"}, near [[place-mwonou|Mwonou]]. He reads the [Teng Lou]{.name data-type="lore/law"} in his court at Jaunou for the Prince, [[being-hozhomwnou|Hozho]], hears the famine petitions of the district and collects its tribute.
+The magistrate of [[place-jaunou|Jaunou]] is a [[lore-wohou|Wohou]] officer of [[affiliation-mwonouprv|Mwonou Province]], known by his description: Eldest Son of the Commandant of the [Clan of Red Gate in Autumn]{.name data-type="affiliation/lineage"}, near [[place-mwonou|Mwonou]]. He reads the [Teng Lou]{.name data-type="lore/law"} in his court at Jaunou for the Prince, [[being-hozhomwnou|Hozho]], hears the famine petitions of the district and collects its tribute.
 
 ## The Famine Court
 

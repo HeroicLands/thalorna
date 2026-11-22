@@ -49,7 +49,7 @@ Tengleng (Heaven's Dawn) is the Emperor of the [[affiliation-tantsouempr|Empire 
 
 **The Princes.** Each of the four Princes means to be the one who shapes him. [[being-chengzhodlwn|Chengzho]], the young reformer who holds Doulwen, has his ear. [[being-rinzhowngsn|Rinzho]] of Wongsen sells rice to the throne's granaries at the price he names. [[being-hozhomwnou|Hozho]] of Mwonou and [[being-tuizhokwzng|Tuizho]] of Kwozheng are bitter rivals, each glad of the other's loss.
 
-**The embassy.** When the embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] asks for direct relations with the Empire, it asks for a door that has never existed, because a foreigner reaches the Emperor only through the Speaker. Granting it would shift power among the Princes, so the [[lore-weizhairui|Wei Zhai Rwi]] decides it, and not the Emperor.
+**The embassy.** When the embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] asks for direct relations with the Empire, it asks for a door that has never existed, because a foreigner reaches the Emperor only through the Speaker. Granting it would shift power among the Princes, so [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_) decides it, and not the Emperor.
 
 ## Psyche
 
@@ -83,6 +83,6 @@ He is new to the throne, and he sees the empire only through his attendants, his
 
 ## Plot Hooks
 
-1. **The filing.** The embassy's papers must reach the right office of the chancellery before the cross-referencing of the new era holds them for a year. The Prince of Doulwen's officers want a party's help; three other households want the papers misfiled.
-2. **The whisper.** A petitioner wants a question put to the Emperor in exactly the words he wrote, and the Speaker is the only one who carries it. A party is asked to learn what was whispered and what came back.
-3. **The rice at the lock.** The Governor's officers hold a string of Wongsen rice barges at a canal lock above the city while the price of rice rises on both shores, and the young Emperor's granaries buy at the price Rinzho names.
+1. **The whisper.** A petitioner wants a question put to the Emperor in exactly the words he wrote, and the Speaker is the only one who carries it. A party is asked to learn what was whispered and what came back.
+2. **The first audit.** At the Festival of Harmonious Lei the Emperor performs the year's audit of the empire's Lei, the first of his reign. Each Prince wants his province's accounts entered well, and the Tanchei who verify heaven's accounts are courted by all four.
+3. **The pressed decree.** A Prince presses the young Emperor for a decree before the other three hear of it, and an attendant who crosses back to the shore is the only way to learn what was asked.

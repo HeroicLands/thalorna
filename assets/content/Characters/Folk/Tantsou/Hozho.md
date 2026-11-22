@@ -27,17 +27,20 @@ data:
     hair_color: null
     skin_color: null
     complexion: []
-    extra_features: []
+    extra_features:
+      - nails grown almost impossibly long and lacquered in brilliant colors
+      - painted face
+      - painted teeth
   packFolder: ankaristantsou
 ---
 
 # Appearance {#appearance}
 
-Hozho holds court in the city of Mwonou, in the upland basin below the mountains, where the famine petitions of his districts are read out to him by the dozen. The ancestral hall a Prince of the province raised in a past reign, nine terraces high with nine bells hung in it, stands in his city.
+Hozho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. Hozho holds court in the city of Mwonou, in the upland basin below the mountains, where the famine petitions of his districts are read out to him by the dozen. The ancestral hall a Prince of the province raised in a past reign, nine terraces high with nine bells hung in it, stands in his city.
 
 # Dossier {#dossier}
 
-Hozho (Fire Dragon) is the Prince of [[affiliation-mwonouprv|Mwonou Province]], a _Zho Zhei_ of the [[lore-zhazho|Zhazho]] who holds the terraced uplands of the southwest and the long passes toward [[place-vedyarargn|Vedyara]] for the Emperor. He rules from the city of [[place-mwonou|Mwonou]], and his officers hold [[place-mwonouplnd|the Mwonou Uplands]] district by district.
+Hozho (Fire Dragon) is the Prince of [[affiliation-mwonouprv|Mwonou Province]], a _Zho Zhei_ of the [[lore-zhazho|Zhazho]] who holds the terraced uplands of the southwest and the long passes toward [[place-vedyarargn|Vedyara Region]] for the Emperor. He rules from the city of [[place-mwonou|Mwonou]], and his officers hold [[place-mwonouplnd|the Mwonou Uplands]] district by district.
 
 ## Drought and Rivalry
 
@@ -45,7 +48,7 @@ Hozho (Fire Dragon) is the Prince of [[affiliation-mwonouprv|Mwonou Province]], 
 
 **The rice.** He buys rice from the granaries of [[affiliation-wongsenprv|Wongsen Province]], whose Prince's sorcerers bring rain to the delta, and he pays the price that Prince names.
 
-**The rival.** He and the Prince of [[affiliation-kwozhengprv|Kwozheng Province]] are bitter rivals, over an old marriage between their houses and an heir who died. In the [[lore-weizhairui|Wei Zhai Rwi]] each takes the other's loss as his own gain.
+**The rival.** He and the Prince of [[affiliation-kwozhengprv|Kwozheng Province]] are bitter rivals, over an old marriage between their houses and an heir who died. In [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_) each takes the other's loss as his own gain.
 
 ## Psyche
 
@@ -75,7 +78,7 @@ His province is dry, his granaries are empty and he must buy from the strongest 
 ### Others
 
 - [[being-rinzhowngsn|Rinzho]]: the Prince of Wongsen, who sells him rice at the price he names.
-- [[being-jaunoumgstrt|Eldest Son of the Bowman of the Clan of Red Gate in Autumn]]: his magistrate at Jaunou, who hears the famine petitions.
+- [[being-jaunoumgstrt|Eldest Son of the Commandant of the Clan of Red Gate in Autumn]]: his magistrate at Jaunou, who hears the famine petitions.
 
 ### Affiliations
 

@@ -27,13 +27,16 @@ data:
     hair_color: null
     skin_color: null
     complexion: []
-    extra_features: []
+    extra_features:
+      - nails grown almost impossibly long and lacquered in brilliant colors
+      - painted face
+      - painted teeth
   packFolder: ankaristantsou
 ---
 
 # Appearance {#appearance}
 
-Tuizho holds court in the city of Kwozheng, in the hard-wintered north, where the reports of the watchtowers and the signal fires of the marches come to him before they go on to the capital.
+Tuizho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. Tuizho holds court in the city of Kwozheng, in the hard-wintered north, where the reports of the watchtowers and the signal fires of the marches come to him before they go on to the capital.
 
 # Dossier {#dossier}
 
@@ -43,7 +46,7 @@ Tuizho (Iron Dragon) is the Prince of [[affiliation-kwozhengprv|Kwozheng Provinc
 
 **The marches.** Beyond the marches lies the steppe of the [Black Wilds]{.name data-type="place/region"}, and the riders of [[being-wogenhenzhuo|Wogen Henzhwo]] have come into the northern districts. His Commandant of the Marches holds the watchtowers and the garrison colonies, and his Keeper of the Muster Rolls keeps the rolls by which each colonist's land is held and each muster called.
 
-**The rival.** He and the Prince of [[affiliation-mwonouprv|Mwonou Province]] are bitter rivals, over an old marriage between their houses and an heir who died. In the [[lore-weizhairui|Wei Zhai Rwi]] each takes the other's loss as his own gain.
+**The rival.** He and the Prince of [[affiliation-mwonouprv|Mwonou Province]] are bitter rivals, over an old marriage between their houses and an heir who died. In [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_) each takes the other's loss as his own gain.
 
 ## Psyche
 

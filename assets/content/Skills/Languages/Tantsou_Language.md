@@ -5177,7 +5177,7 @@ data:
     - {name: Douzhi, tongue: tanvuri, built: [dou, zhi]}
     - {name: Elder, tongue: translation}
     - {name: Elder Races, tongue: translation}
-    - {name: Eldest Son of the Bowman of the Clan of Red Gate in Autumn, tongue: translation}
+    - {name: Eldest Son of the Commandant of the Clan of Red Gate in Autumn, tongue: translation}
     - name: Eldest Son of the Gate Captain of the Clan of the Heron on the Wall
       tongue: translation
     - {name: Eldest Son of the Terrace-Keeper of the Mou Clan, tongue: translation}

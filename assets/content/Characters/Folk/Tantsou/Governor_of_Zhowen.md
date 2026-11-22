@@ -16,7 +16,7 @@ data:
   culture: tantsouclt
   homes: [zhowen]
   affiliations: {tantsouempr: {rank: 5, office: Governor of Zhowen}}
-  socialTies: {}
+  socialTies: {being-rinzhowngsn: acquaintance}
   gender: male
   species: humanflk
   born: null
@@ -65,7 +65,7 @@ The locks, the quays, the bridge lists and the highest court on the shores are h
 
 ### Weaknesses
 
-Every barge he holds raises a price someone pays, and every Prince reads his delays as a move in the [[lore-weizhairui|Wei Zhai Rwi]].
+Every barge he holds raises a price someone pays, and every Prince reads his delays as a move in [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_).
 
 ## Social
 
@@ -79,6 +79,6 @@ Every barge he holds raises a price someone pays, and every Prince reads his del
 
 ## Plot Hooks
 
-1. **The rice at the lock.** A string of rice barges from Wongsen lies at a canal lock above the city on a question of seals. Wongsen's factor wants them released, and a grain merchant who gains from every day they wait wants them held.
-2. **The list.** A servant of a foreign merchant has vanished from the traders' compound, and the merchant believes he was sent to a bridge with a forged permission. The officers at the bridge foot keep the list, and they answer to the Governor.
+1. **The gate post.** A traveler is held at a gate post in the outer quarters because the registry cannot confirm his tablet, and the Governor's court is the only place his release can be argued.
+2. **The permission.** A foreign merchant wants written permission to cross a bridge to the gate-court and put a petition to the Speaker, and the Governor's officers decide whose name goes on the day's list.
 3. **The appeal.** A household that lost its case before a magistrate of the shore wants it heard again in the Governor's court, and wants a party to find the witness the magistrate never called.

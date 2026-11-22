@@ -27,13 +27,16 @@ data:
     hair_color: null
     skin_color: null
     complexion: []
-    extra_features: []
+    extra_features:
+      - nails grown almost impossibly long and lacquered in brilliant colors
+      - painted face
+      - painted teeth
   packFolder: ankaristantsou
 ---
 
 # Appearance {#appearance}
 
-Rinzho is seen at Wongsen as the other Princes see him at court: as the Prince whose granaries are full. His factors weigh rice on the quays of the delta port under his seal, and the barges that carry it to the capital travel under the same seal.
+Rinzho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. Rinzho is seen at Wongsen as the other Princes see him at court: as the Prince whose granaries are full. His factors weigh rice on the quays of the delta port under his seal, and the barges that carry it to the capital travel under the same seal.
 
 # Dossier {#dossier}
 
@@ -45,7 +48,7 @@ Rinzho (Red Dragon) is the Prince of [[affiliation-wongsenprv|Wongsen Province]]
 
 **The granaries.** The other Princes come to his granaries to buy rice, and the throne's granaries at [[place-zhowen|Zhowen]] buy from them too, at the price he names. His Keeper of the Granaries weighs and sells the rice the other provinces buy.
 
-**The saying.** Some at court say his sorcerers are behind the drought in the other provinces. Nobody has proven it, and the saying is itself a move in the [[lore-weizhairui|Wei Zhai Rwi]].
+**The saying.** Some at court say his sorcerers are behind the drought in the other provinces. Nobody has proven it, and the saying is itself a move in [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_).
 
 ## Psyche
 

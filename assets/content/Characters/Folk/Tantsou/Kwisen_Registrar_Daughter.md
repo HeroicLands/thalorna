@@ -78,6 +78,6 @@ A traveler the register cannot hold is a problem she cannot set aside.
 
 ## Plot Hooks
 
-1. **The fresh page.** She finds that a party has no caste to answer with, and wants an account of it that her register can hold before she lets it go down the valley.
-2. **The figure.** A merchant's venture depends on his foreign coin being worth more in the empire than the station will say, and he wants a party to learn whether she can be argued with at all.
+1. **The second tablet.** A traveler she classified last season comes back up the valley with a tablet that does not match her page, and she wants to know which of the two is wrong.
+2. **The caravan's entry.** A Vedyari caravan master wants to know what the station's register says of his caravan, and no Vedyari visitor is ever shown it.
 3. **The Hvarn table.** [[affiliation-hvarnguides|The Hvarn]] who guide travelers over the pass go no farther than the station and eat at their own table, and she wants a party that shared their road to tell her how many travelers turned back at the col this season, since the guides will not.
