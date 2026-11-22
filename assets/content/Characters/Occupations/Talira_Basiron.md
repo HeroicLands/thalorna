@@ -467,9 +467,6 @@ A Cousin She Never Heard Of
 Becoming Officially Useful
 : Amithara Bisanis sends word that political pressure inside the Order may soon make the arrangement that protects Talira impossible to keep. The one alternative offered is to become officially useful by developing a specific remedy, which requires admitting her real capabilities. Accepting makes her visible and refusing ends the only shield she has.
 
-A Raid on the Archives
-: The [Luminaries]{.name data-type="affiliation/faithtradition"}, philosophers who hold that direct investigation should override institutional authority, approach Talira through oblique channels and ask her to help them take suppressed texts from the Order's archives. The pay is large and the risk absolute, and the chance to recover knowledge the Order buried is the kind that once made her willing to endure nearly anything. She has asked for time, and the time is short.
-
 The Compound in the Locked Texts
 : The poison that sickens the student is a theoretical compound discussed only in suppressed Order texts, the kind that should not exist outside locked libraries. Talira knows it on sight, and an antidote shows how deep her knowledge goes.
 :::

@@ -458,9 +458,6 @@ The Scholar and the Honor of Árdavon
 A Trial Made to Order
 : Yeghena, the daughter of the merchant house Dumares ruled against, arranged the case of the mother and the copper so that he faces an impossible choice before the whole Council. She has spent years building a network to expose his blindness, and this trial is her opening move.
 
-A Brother's Favor
-: Dumares's elder brother Aristides involves himself in a commercial scheme that borders on fraud and asks Dumares to use his judicial authority to quash any investigation or make it find in his favor. Refusing breaches the family permanently and costs Dumares standing in the Council, where Aristides holds great influence and will bear the grudge.
-
 A Season in the Poorest Quarter
 : [[being-adhelimisgho|Adhélimis Ghotones]] tells Dumares in private that he wishes the honorary Patriarchate bestowed again, on Dumares, but only if he shows growth in compassion, and sends him to serve as a simple healing priest in the poorest quarter of Korinthea for a season. His efforts to help prove cruel despite his intentions and the people he serves come to despise him, and he must surrender the dream or become a different man.
 :::

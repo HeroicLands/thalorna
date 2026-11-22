@@ -417,9 +417,6 @@ His combat ability is outstanding, honed through years of actual field experienc
 Sealed Crates at Double Rates
 : Master Merchant Storon Kantakouzenios hires Ághrazur at twice his usual rate to escort a caravan of sealed crates that nobody may open. Bandits then strike with exact knowledge of the route and the day, and Ághrazur must decide whether to keep guarding a cargo he cannot inspect.
 
-A Command Without a Company
-: A senior officer offers Ághrazur command of a military security operation with pay, authority and resources far beyond a freelancer's. Accepting means returning to the chain of command that left the Black Serpent Company to its fate; refusing means staying a hired sword for good.
-
 The Lieutenant Who Was Reported Dead
 : An injured man staggers into a caravan camp and proves to be [[being-mazhreliongh|Mazhrelion Ghotidek]], Ághrazur's lieutenant, reported killed five years ago. He says the official report is false and asks Ághrazur to help him carry his evidence against Nikómarzan Varakazur to a public hearing, at the risk of both their lives.
 
@@ -433,6 +430,4 @@ What Kantakouzenios Moves
 The Report Mazhrelion Carries
 : The Black Serpent soldiers listed as killed in action were executed on command to cover the political corruption behind the disaster. Mazhrelion holds evidence of it, and his life is in danger for it.
 
-A Duel Without Witnesses
-: Hired to guard a diplomatic mission in lands where Nikómarzan Varakazur now commands the local forces, Ághrazur receives a private message from him offering a meeting with no witnesses and no consequences. Whether the offer is a genuine chance at revenge or a trap to be rid of him, Ághrazur must decide.
 :::

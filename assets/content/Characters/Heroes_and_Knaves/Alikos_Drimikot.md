@@ -554,9 +554,6 @@ The Timberwrights' Guild of the Bizarian League
 Underbid by the Modernists
 : Vektor the Innovator offers the Noble House of Theodakis a faster, cheaper frame for its next commission, the fourth Alikos has expected from the house. He can lower his price and hurry his methods to keep his oldest patron, or hold to his work and let the house choose.
 
-A Frame That Travels
-: A wealthy noble commissions a building frame that can be assembled and taken down again for repeated moves, with the beauty and strength of a permanent structure. The speed and portability contradict everything Alikos believes about timber, and the commission is the largest he has been offered and could secure his workshop and prove that traditional methods answer present needs.
-
 Charzilikon at His Bedside
 : Word reaches Alikos that his son [[being-tcharzilikon|Charzilikon Drimikot]], estranged for fifteen years, has been gravely hurt in a workshop accident and asks for his father. At the bedside Charzilikon says he took up the new methods to step out of his father's shadow rather than to reject him, and he wants to be reconciled. Alikos must decide whether to go, and whether the quarrel can be settled.
 

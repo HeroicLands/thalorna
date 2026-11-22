@@ -551,9 +551,6 @@ Rival Artist [Andronash]{.name data-type="being/npc"}
 Copies at Half the Price
 : A rival workshop in a neighboring city has somehow obtained Kalida's exact glazing formula and is selling near-perfect copies of her work far cheaper, flooding the market. She must find out how the formula left her studio while holding her reputation against the imitations.
 
-Andronash Returns
-: Her former lover Andronash reappears with a proposal to build something new together from sculpture and pottery, a work that would make both their names. Their history is full of betrayal and heartbreak, and she must decide whether the ambition outweighs the wound or whether this is a trap built on her vulnerabilities.
-
 Barred from the Exhibition
 : The Conservative Artisans' Guild Faction moves to keep Kalida out of the Artisans' Guild of Bizaria's next exhibition, while Lord Arsir [[being-krorighosgha|Krorighos Gharazur]] wants a major piece finished in the same season. She can fight the exclusion inside the guild, or give the season to her patron and leave the hall to the traditionalists.
 

@@ -422,19 +422,11 @@ Boarding the Refugee Fleet
 Raiders Who Wore the Marine Badge
 : Pirates and rogue marines purged from the Helionite service capture Habidon in a raid and offer him a choice: join the crew or be executed as a prisoner of war. His fellow marines die either way, and the crew offers better pay and freedom from the hierarchy.
 
-Dead Water in the Fishing Grounds
-: On a routine patrol, Habidon finds the fishing grounds of Helionis choking with dead marine life and the water turning toxic. Told by Dómirtha that the matter is above his station, he must either attend to his duties and let the fisheries die or act against a direct command.
-
 :::secret {title="Further hooks"}
 Máravion's Aim
 : The order that would sink Habidon's ship was issued to be rid of him and his fellow marines, an execution dressed as tactics. Dómirtha has evidence that Máravion created the danger on purpose, but proving attempted murder through the military command is politically hard, and she suggests Habidon disappear for a season while the matter is handled quietly.
 
-The Plans in the Merchant's Hold
-: A merchant vessel under Helionite protection is found carrying shipbuilding plans the navy guards closely, and its captain, Master [Thassos]{.name data-type="being/npc"}, says he bought them honestly. They were stolen from the military archives by Máravion and sold for his profit; he is protected too well to prosecute, so Dómirtha asks Habidon to board the vessel without authority and recover them by theft.
-
 The Prisoners Called Refugees
 : The fleet Habidon is ordered to turn back is a cover. Its passengers are political prisoners being carried toward execution. Obedience and conscience cannot both be satisfied.
 
-The Workshops Upriver
-: Naval workshops upriver are dumping their waste into the river to save the cost of carting it away, and the poison will wreck the fisheries within five years.
 :::

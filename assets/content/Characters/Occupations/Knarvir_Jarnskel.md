@@ -470,9 +470,4 @@ A Student Approached
 The Watcher Steps Forward
 : The one asking after Knarvir proves to be a representative of [[affiliation-ordoarcanis|The Order]] in the south, interested in his spirit-craft. They offer protection and a place as a consultant in return for his knowledge, which would mean leaving Nordheim and probably betraying the hidden network.
 
-Thurídur Is Dying
-: Thurídur of the Deep Roads, his teacher and the most powerful velva of the northern underground, falls suddenly gravely ill, perhaps through a supernatural crisis that shows itself only as illness. Knarvir has about three days to choose between staying hidden and letting her die without him or going openly to her side.
-
-The Spirit's Command
-: The ancient shade of a velva who once told him to preserve the old rites returns with a new command: something hidden in the world must be found and kept safe. The search needs a spirit-journey of unprecedented depth and allies who will see his practice, and the spirit makes plain that refusal is not allowed.
 :::

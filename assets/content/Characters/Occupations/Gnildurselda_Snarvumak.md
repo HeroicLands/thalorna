@@ -448,9 +448,6 @@ Her status as a Snarvumak noble gives her considerable insulation. Attacking her
 Documents That Predate the Research
 : A scholar from the southern lands arrives at a chapterhouse carrying documents that describe Gnildurselda's methods in precise detail, from sources older than her own research. He is being watched, and others will soon notice him. She must learn whether he is a threat, a possible ally or something worse before interested parties act against him.
 
-A Match for the Scholar
-: Her cousin Snirvorv and his ambitious wife press Jarl [[being-hlarthvirsna|Hlarthvir Snarvumak]] to end her scholarly phase and marry her to secure an alliance. The Jarl, who has supported her, is being pushed to force the issue, and she must decide whether to yield to the duty her family expects or defy it openly.
-
 The Inscription and the Cache
 : An ancient inscription Gnildurselda found in her scholarly work points to a hidden cache of texts. Reaching it unseen would test every skill she has, and retrieving it would make her a target for every faction that deals in forbidden knowledge.
 
@@ -464,6 +461,4 @@ A Veil Comes Undone
 Jon's Complaint
 : Jon the Iron gathers evidence of her systematic departure from traditional seid and brings it before the ting as a formal complaint. Summoned to answer, she risks losing the ability to practice openly if the assembly finds against her, and admitting what she has made of the craft might brand her a heretic.
 
-The Collector Is Taken
-: The Collector of Amber, her supplier and fence for rare texts, is arrested by political rivals through means she does not understand. The texts and networks the Collector handles could lead to her under questioning. She can rescue a contact few know she has, and expose herself to powerful enemies, or abandon the Collector.
 :::
