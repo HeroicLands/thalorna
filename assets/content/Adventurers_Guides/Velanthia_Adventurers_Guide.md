@@ -10,7 +10,7 @@ data: {packFolder: adventurersguides, culture: velanthclt}
 
 > You come down the central river on a grain barge in the last week of harvest, and the port announces itself an hour before you see it. Smoke from the smokehouses lies flat over the water, and the sound of cranes and shouting carries across the current. Then the quays open ahead: a mile of piled planks and ladders, barges tied three deep at the posts, and the warehouses of the merchant houses standing behind them in rows. A fur boat from the northern forest bumps against the pilings with its bales lashed under tarred hide. A horse-trader in felt boots leans on a rail above a string of crossbred horses, and a harper under an awning is already playing for the bargemen who have been paid.
 >
-> A clerk with a ledger under his arm steps aboard before the lines are made fast and writes down your cargo, your master and your owner without looking up. On the quay a neat man of middle years, round-faced, with a close black mustache and a plain coat, watches the clerk's pen and waits until it stops. He holds his own ledger open on his forearm. "[[being-trvkmvrnch|Torvik Mevranich]], port-warden of [[place-brlvsh|Brelavesh]]. Every boat is written before a sack is carried." He writes your name as you say it. "Whose river did you come down, and whose grain is this?" You answer, and he writes that too, and only then does he glance at the sword at your belt. "The gate asks you to leave that with the guard. The prince's toll is named at the end of the quay, and it is a sum, not a share of the load." Behind him a merchant's factor, who has been standing very still beside a pile of sacks, turns to check a seal that does not need checking.
+> A clerk with a ledger under his arm steps aboard before the lines are made fast and writes down your cargo, your master and your owner without looking up. On the quay a neat man of middle years, round-faced, with a close black mustache and a plain coat, watches the clerk's pen and waits until it stops. He holds his own ledger open on his forearm and lays his free hand flat on his chest. "Dobrogesh," he says, and he waits until you have said it back with a hand on your own chest. "[[being-trvkmvrnch|Torvik Mevranich]], port-warden of [[place-brlvsh|Brelavesh]]. Every boat is written before a sack is carried." He writes your name as you say it. "Whose river did you come down, and whose grain is this?" You answer, and he writes that too, and only then does he glance at the sword at your belt. "The gate asks you to leave that with the guard. The prince's toll is named at the end of the quay, and it is a sum, not a share of the load." Behind him a merchant's factor, who has been standing very still beside a pile of sacks, turns to check a seal that does not need checking.
 
 [[place-velanthrgn|Velanthia Region]] is a landlocked belt of forest, black-earth grain country and open grass, about a thousand miles from the forests of the [[place-nrdlndsrgn|Nordlands Region]] and [[place-vrystwald|Vristwald]] in the west to the steppe of the [[place-khzryndsrtrgn|Khazrin Desert Region]] in the east, with about 4,000,000 people between them. No sovereign rules it and no capital stands in it. Its rivers are its roads and its wealth: the wheat, rye and flax of the lowlands, the furs of the northern forest and the horses of the grass all move on water or along the river roads, and the people who hold a landing, a mill, a ferry or a barn hold a share of everything that passes. To the south a mountain line closes the grain belt against [[place-helionis|Helionis]] and the [[place-byzariargn|Bizaria Region]], and to the northwest the forest and marsh of the [[lore-grukarfolk|Grukar Folk]] begin.
 
@@ -143,6 +143,7 @@ Behind the three princes stand the officers who do the work. [[being-trvkmvrnch|
 
 ## What Gets a Newcomer into Trouble
 
+- **Answer the greeting.** The one who holds a place says _dobrogesh_, good guest, with a hand flat on the chest, and expects the word and the hand back; a monk greets every arriver with a bow, and a rider coming to a Host's muster shows an open palm before he is within hearing. A stranger who gives nothing back has not accepted the greeting, and a rider who comes in without the open palm, or with a hand on his sword, is met as a raider.
 - **Give your name and your cargo at the quay.** A tally-clerk of the port-warden meets every boat at Brelavesh and writes its cargo, its master and its owner before a sack is carried.
 - **Leave your sword at the gate of Brelavesh.** The port is the richest place in the land and has the fewest soldiers of the three princes, and it asks a stranger with a sword to leave it with the guard.
 - **Do not ask a starbrat to open the barn.** A house that opens its barn to a prince has shown its price. The monks give a traveler a bowl of porridge and ask for an hour in the yard, and they do not discuss what the barn holds.
@@ -163,6 +164,14 @@ The land supplies its own claims on a party:
 - The pay for the Khorad Host and the harvest pay for the Sevret Host need an escort across the grass to Banner Field, and the community the Soqritur hold wants someone to carry its protest to the gathering.
 - The villages of the bluff want the mill-wrights kept away from the Horse Oaks until the first sheaf is laid.
 - A river-prince's heir wants the half-burned fort at [Theodburg]{.name data-type="place/structure"} back with Varokh war-bands in it, and has begun to ask which village would send them.
+
+Three adventures begin in the season of the late rain and can be run alone or in any order:
+
+- [[scenario-cnfrfrd|Coin for the Ford]]: a village under a paid fort has raised the ransom for the man a war-band took from its watch, and the broker who carries it to the ford at Yaravesh is asked a price the village did not expect.
+- [[scenario-gthsthdbrg|The Gatehouse at Theodburg]]: the heir of Brevavesh wants the shared fort held again by his men and a forest war-band together, and asks at Thornhaven, whose Other Chief no prince's agent has asked to witness a bargain in a century.
+- [[scenario-lsttrnkrvgr|The Last Train over Karvogora]]: the last wagon trains of a short harvest load for the passes, and the riders who patrol them are owed their harvest pay.
+
+A campaign among all of it runs on [[scenario-hrvstpy|The Harvest Pay]], the season from the late rain to the snow on the passes, when every prince must find his Hosts' pay and every Host weighs what its prince's promise is worth.
 
 On the Grukarholm side a party is hired by the margin, never by the nests. A fur hunter must be across the cause-walk before the thaw closes it and has no village to stop in. A Varokh war-band offers its service for the season, and a warden has no silver to pay it. A river-trader asks at a landing where the Necrotic Mire was last seen, and the answer decides whether the boat goes in. At Zvek Bregad the canoes lie on the bank at dusk and the one man on the watch is hours from the hill.
 
@@ -198,3 +207,5 @@ On the Grukarholm side a party is hired by the margin, never by the nests. A fur
 ## Glossary
 
 Koser, lushik, semuk and yadak are loanwords from [[lore-sowidesclt#glossary|Sovidur]].
+
+Dobrogesh, "good guest", is the Velanthian greeting, said do-BRO-gesh. The [[lore-velanthclt#greetings|Velanthian culture note]] gives the gestures that go with it.

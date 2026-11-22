@@ -79,3 +79,12 @@ The fort is a square of gray stone with a tower at the river corner and a barrac
 
 [[place-velanthrgn|Velanthia Region]]
 : the land
+
+[[scenario-cnfrfrd|Coin for the Ford]]
+: a scenario: a village's ransom for the man taken from its watch, carried to the ford at Yaravesh
+
+[[scenario-gthsthdbrg|The Gatehouse at Theodburg]]
+: a scenario: the heir of Brevavesh's bid to hold the shared fort at Theodburg again with a forest war-band
+
+[[scenario-hrvstpy|The Harvest Pay]]
+: a campaign frame: the season from the late rain to the snow on the passes, when the Hosts' pay is in doubt

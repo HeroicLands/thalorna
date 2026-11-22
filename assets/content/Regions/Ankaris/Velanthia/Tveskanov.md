@@ -42,3 +42,6 @@ Tveskanov is a palisaded muster town of about three thousand people close under 
 
 [[place-velanthrgn|Velanthia Region]]
 : the land
+
+[[scenario-lsttrnkrvgr|The Last Train over Karvogora]]
+: a scenario: the last trains over the pass
