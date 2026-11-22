@@ -8,8 +8,8 @@ tags: [draft]
 data:
   parents: []
   locations: [lutithnet]
-  cast: []
-  factions: []
+  cast: [wethurscribe, tereb, damut, fnrlbondsrv]
+  factions: [wethur]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
@@ -84,16 +84,16 @@ Leaving no longer saves anyone. Walking out with the party's names on the releas
 
 ## Hooks {#hooks}
 
-A temple scribe of [[affiliation-wethur|Weth'ur]], [Gezedafu]{.name data-type="being/npc"}, holds the older burial records of Zu'Lemetu and has received no new tablets from its estate in years. The house's heirs, a cousin line in a river town, mean to go to law over the estate, and the court wants the estate's own records. Gezedafu hires the party to go up the canal, collect the tablets and bring them back, and he pays a share of whatever salvage the heirs grant on the recovered estate. He gives them a reed skiff and a letter under the temple's seal that names each of them as the temple's agents for the records, and he warns them that the canal is failing.
+[Gezedafu]{.name data-type="being/npc"}, a [[being-wethurscribe|Scribe of Weth'ur]], holds the older burial records of Zu'Lemetu and has received no new tablets from its estate in years. The house's heirs, a cousin line in a river town, mean to go to law over the estate, and the court wants the estate's own records. Gezedafu hires the party to go up the canal, collect the tablets and bring them back, and he pays a share of whatever salvage the heirs grant on the recovered estate. He gives them a reed skiff and a letter under the temple's seal that names each of them as the temple's agents for the records, and he warns them that the canal is failing.
 
 Other entries suit other heroes:
 
-- **The thief.** A boatman says the house was rich once and the vault in the rock was never opened for an heir.
-- **The mercenary.** The heirs hire a guard for the scribe's errand, to see that nothing leaves the estate before the court sits.
-- **The kinsman.** A bondsman's family has had no word from a son and a daughter in service at the estate for two seasons. The daughter is Thakete and the son is [Wenlegir]{.name data-type="being/npc"}.
+- **The thief.** The canal's boatmen say the house was rich once and the vault in the rock was never opened for an heir.
+- **The mercenary.** Gezedafu hires a guard for the errand on the heirs' behalf, to see that nothing leaves the estate before the court sits.
+- **The kinsman.** A character's family, a bondsman's household, has had no word from a son and a daughter in service at the estate for two seasons. The daughter is Thakete and the son is [Wenlegir]{.name data-type="being/npc"}.
 
 > [!TIP]
-> Every hook puts the party's names on the temple's letter. A party that came on another hook travels with Gezedafu's agent, or carries the letter as the price of the skiff.
+> Every hook puts the party's names on the temple's letter. A party that came on another hook carries the letter as the price of the skiff.
 
 ## The Opening {#opening}
 
@@ -116,8 +116,8 @@ Read or paraphrase this as the skiff grounds:
 
 **NPCs and threats.**
 
-- Gezuhati. A very old man, upright, with a scribe's ink-stained fingers and a voice like a well-kept ledger. He wears the linen of a great house's steward and a seal-cord at his belt. He apologizes for the household's condition at once and gracefully: the servants have taken a vow of silence in mourning for their mistress, and they sewed their own lips at her burial, as the old families sometimes do. Nobody does, but it sounds as though somebody might. He offers shelter, water and food until the relief boat comes. He sent a man downriver when the water dropped. Asked when that was, he begins to answer, stops and says that the days run together in a house of mourning.
-- **The seven attendants.** Men and women of the household, clean and well dressed, with stitched mouths and eyes that follow movement a beat late. They smell faintly of washing-salt and resin. Under their tunics, at the wrist and throat, is linen wrapping. They obey the steward's least gesture and do nothing else. They do not attack anyone in this scene.
+- Gezuhati, a [[being-tereb|tereb]]. A very old man, upright, with a scribe's ink-stained fingers and a voice like a well-kept ledger. He wears the linen of a great house's steward and a seal-cord at his belt. He apologizes for the household's condition at once and gracefully: the servants have taken a vow of silence in mourning for their mistress, and they sewed their own lips at her burial, as the old families sometimes do. Nobody does, but it sounds as though somebody might. He offers shelter, water and food until the relief boat comes. He sent a man downriver when the water dropped. Asked when that was, he begins to answer, stops and says that the days run together in a house of mourning.
+- **The seven attendants.** [[being-damut|Damutu]], men and women of the household, clean and well dressed, with stitched mouths and eyes that follow movement a beat late. They smell faintly of washing-salt and resin. Under their tunics, at the wrist and throat, is linen wrapping. They obey the steward's least gesture and do nothing else. They do not attack anyone in this scene.
 
 > [!TIP]
 > Play the steward as the most reasonable man in the valley. He is tired, correct and sorry for the state of things, and he wants the temple's business done properly. Everything about him that is wrong should come from where he stands and what he does not eat, never from his manner.
@@ -153,7 +153,7 @@ Read or paraphrase this as the skiff grounds:
 **NPCs and threats.**
 
 - Gezuhati. Before he leaves, he asks a favor of the party. A few household releases want a witness, and a stranger with no tie to the house is the proper witness for them. He sets the tablets out, with a reed pen, and asks a character who reads Qalezu to set his name beneath them. He is patient about it and comes back to it more than once.
-- Thakete. A young bondswoman of the household, alive, gray-faced and thin, hidden among the wrapped bodies on the preparation room's shelves with a bundle of linen pulled over her. She has not been sewn. She has been fed on: she tires walking across a room. She is terrified of the steward and of being heard.
+- Thakete, a [[being-fnrlbondsrv|Bondservant of a Funerary Estate]]. A young bondswoman of the household, alive, gray-faced and thin, hidden among the wrapped bodies on the preparation room's shelves with a bundle of linen pulled over her. She has not been sewn. She has been fed on: she tires walking across a room. She is terrified of the steward and of being heard.
 - **The attendant in the doorway.** It watches. It does not stop anyone reading. It turns its head to follow any character who goes into the passage.
 
 > [!TIP]
@@ -233,7 +233,7 @@ Read or paraphrase this as the skiff grounds:
 
 **Situation.** The preparation hall is long, low and cut back into the cliff. Natron beds run down one side and embalming tables down the middle, with gutters in the floor that drain into the dark mouths of the drains. Bronze partitions hang on tracks from the roof beams, so that the hall can be closed into bays for the seventy days of the first grade. At the far end is a stone niche, freshly cut, with a lamp in it and a name above it: Gezuhati's own. Above the main table is a light-shaft, closed with a new bronze shutter bolted from below. On the shelves and the beds lie the bound dead of the household who have not risen yet, every mouth sewn. On the main table lies [Zabegulu]{.name data-type="being/creature"}, the old mistress.
 
-The steward stands at the second table with a curved needle in his hand, finishing Wenlegir. Wenlegir lies in the salt to the chest, alive, his mouth sewn halfway.
+The steward stands at the second table with a curved needle in his hand, finishing Wenlegir. Wenlegir, a bondservant of the estate like his sister, lies in the salt to the chest, alive, his mouth sewn halfway.
 
 **NPCs and threats.**
 
@@ -292,7 +292,7 @@ The steward stands at the second table with a curved needle in his hand, finishi
 
 **Clues and rewards.** The treasure and the accounts. The tablets with the party's names on them, which the party can break or carry home; breaking one does not unsay it, and only a disowning made in the hall does. If the steward is ended, the house is silent, and its lamps go out one at a time over the first night, though nobody puts them out.
 
-**Consequences.** Returning the accounts to Gezedafu and the heirs earns a substantial salvage reward, granted in the temple's presence and entered. A disowning made in the hall is entered at the temple like any other declaration when the party reports it, and Gezedafu enters it gladly, because the temple's name was on the releases with theirs. Leaving them means the heirs never prove the estate is theirs.
+**Consequences.** Returning the accounts to Gezedafu earns a substantial salvage reward, which the heirs grant through the temple and the temple enters. A disowning made in the hall is entered at the temple like any other declaration when the party reports it, and Gezedafu enters it gladly, because the temple's name was on the releases with theirs. Leaving them means the heirs never prove the estate is theirs.
 
 **If bypassed.** A party that fled with Wenlegir and nothing else can come back by day, through the drains, with the steward in his niche. The vault does not move, and neither do the dead in the hall. If the steward lives, he has moved the true accounts into his niche, and they must be taken from under him.
 
