@@ -29,7 +29,7 @@ At the back of the hall stand the shelves of the dead. Four hundred and six tabl
 
 ## Who Is There {#who-is-there}
 
-The district registrar keeps the rolls under the Caste-Registrar of the [[affiliation-tantsouempr|Empire of Tantsou]]. A registrar is rotated from district to district, and the district's seal stays with the office, never with the person, so the seal of Jenshou has passed through many hands and never left the hall. The district's [[lore-tanchei|Tanchei]] keep the annal and enter the year's signs in it with their readings.
+The district registrar, [[being-jnshoregstr|Second Daughter of the Seal-Cutter of the Clan of Cold Spring Under Pines]], keeps the rolls under the Caste-Registrar of the [[affiliation-tantsouempr|Empire of Tantsou]]. A registrar is rotated from district to district, and the district's seal stays with the office, never with the person, so the seal of Jenshou has passed through many hands and never left the hall. The district's [[lore-tanchei|Tanchei]] keep the annal and enter the year's signs in it with their readings.
 
 ## The Present {#present}
 

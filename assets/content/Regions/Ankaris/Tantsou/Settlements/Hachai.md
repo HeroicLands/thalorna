@@ -24,7 +24,7 @@ Hachai, the Hidden Peak, is a village of about 180 people in the high country of
 The village has no shrine in the lowland style, no registrar and no magistrate. Strangers are looked over before they are fed.
 
 :::secret {title="Who lives in Hachai"}
-Every household of Hachai is struck from the register: outlaws who fled a sentence, and [[lore-noutsou|Nwitsou]] who escaped their owners. [[place-jenshouhall|The District Hall of Jenshou]] has no page for the village, and so no tribute, levy or tablet is owed for it. The headman sets the village's rule himself, and the first rule is that nobody leaves to be counted.
+Every household of Hachai is struck from the register: outlaws who fled a sentence, and [[lore-noutsou|Nwitsou]] who escaped their owners. [[place-jenshouhall|The District Hall of Jenshou]] has no page for the village, and so no tribute, levy or tablet is owed for it. The headman, [[being-hachaihdmn|Headman of Hachai]], sets the village's rule himself, and the first rule is that nobody leaves to be counted.
 :::
 
 :::secret {title="How Hachai could be found"}

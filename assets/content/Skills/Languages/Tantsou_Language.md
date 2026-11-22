@@ -5143,6 +5143,7 @@ data:
     - {name: Censor of Purity, tongue: translation}
     - {name: Chaiwong, tongue: tanvuri, built: [chai, wong]}
     - {name: Chaizho, tongue: tanvuri, built: [chai, zho]}
+    - {name: Chengzho, tongue: tanvuri, built: [cheng, zho]}
     - {name: Chyau Chai Tui Sen, tongue: tanvuri, built: [chyau, chai, tui, sen]}
     - {name: Champion, tongue: translation}
     - {name: Chief Intendant, tongue: translation}
@@ -5152,6 +5153,7 @@ data:
     - {name: Clerk, tongue: translation}
     - {name: Clerk of Transmission, tongue: translation}
     - {name: Client, tongue: translation}
+    - {name: Cloud Dragon, tongue: translation}
     - {name: Colonist, tongue: translation}
     - {name: Commandant, tongue: translation}
     - {name: Commandant of the Coast, tongue: translation}
@@ -5175,13 +5177,19 @@ data:
     - {name: Douzhi, tongue: tanvuri, built: [dou, zhi]}
     - {name: Elder, tongue: translation}
     - {name: Elder Races, tongue: translation}
+    - {name: Eldest Son of the Bowman of the Clan of Red Gate in Autumn, tongue: translation}
+    - name: Eldest Son of the Gate Captain of the Clan of the Heron on the Wall
+      tongue: translation
+    - {name: Eldest Son of the Terrace-Keeper of the Mou Clan, tongue: translation}
     - {name: Embassy Liaison, tongue: translation}
     - {name: Emperor, tongue: translation}
+    - {name: Emperor Tengleng, tongue: translation}
     - {name: Empire of Tantsou, tongue: translation}
     - {name: Falei, tongue: tanvuri, built: [fa, lei]}
     - {name: Falou Sei, tongue: tanvuri, built: [fa, lou, sei]}
     - {name: Fawo, tongue: tanvuri, built: [fa, wo]}
     - {name: "Fawo, The Minister of Material Fortune", tongue: translation}
+    - {name: Fire Dragon, tongue: translation}
     - {name: Five Elemental Lords, tongue: translation}
     - {name: Foreign Resident, tongue: translation}
     - {name: Gap-Maker, tongue: translation}
@@ -5196,8 +5204,10 @@ data:
     - {name: Hayo, tongue: tanvuri, built: [ha, yo]}
     - {name: Ha Zhau, tongue: tanvuri, built: [ha, zhau]}
     - {name: Head of the House, tongue: translation}
+    - {name: "Heaven's Dawn", tongue: translation}
     - {name: Heir, tongue: translation}
     - {name: Household, tongue: translation}
+    - {name: Hozho, tongue: tanvuri, built: [ho, zho]}
     - {name: Hwenhatoutsou, tongue: tanvuri, built: [hwen, ha, tou, tsou]}
     - {name: Hwen Sei, tongue: tanvuri, built: [hwen, sei]}
     - {name: Hwenwo, tongue: tanvuri, built: [hwen, wo]}
@@ -5211,6 +5221,7 @@ data:
     - {name: Intendant, tongue: translation}
     - {name: Intendant of the Bureau, tongue: translation}
     - {name: Intermediary, tongue: translation}
+    - {name: Iron Dragon, tongue: translation}
     - {name: Iron Gate of the Winter Mountain, tongue: translation}
     - {name: Iron Spear Piercing the Clouds, tongue: translation}
     - {name: Jade Fan Dance, tongue: translation}
@@ -5273,10 +5284,13 @@ data:
     - {name: "Raugwi, Minister of Storms", tongue: translation}
     - {name: Receiver of Tribute, tongue: translation}
     - {name: Recruiter, tongue: translation}
+    - {name: Red Dragon, tongue: translation}
     - {name: Registrar, tongue: translation}
     - {name: Registrar of Allocations, tongue: translation}
     - {name: Rinho Dauweng, tongue: tanvuri, built: [rin, ho, dau, weng]}
     - {name: Rinnou, tongue: tanvuri, built: [rin, nou]}
+    - {name: Rinzho, tongue: tanvuri, built: [rin, zho]}
+    - {name: Rising Dragon, tongue: translation}
     - {name: "Ritual: Dautou Wochai", tongue: translation}
     - {name: "Ritual: Douyo", tongue: translation}
     - {name: "Ritual: Fawo", tongue: translation}
@@ -5305,6 +5319,12 @@ data:
     - {name: Seal-Forger, tongue: translation}
     - {name: Seal-Holder, tongue: translation}
     - {name: Second, tongue: translation}
+    - name: Second Daughter of the Registrar of the Clan of Moon Rises Over Still Water
+      tongue: translation
+    - name: Second Daughter of the Seal-Cutter of the Clan of Cold Spring Under Pines
+      tongue: translation
+    - {name: Second Son of the Miller of the Clan of Reeds Bend in the Wind, tongue: translation}
+    - {name: Second Son of the Shield Bearer of the Zhowou Clan, tongue: translation}
     - {name: Severed, tongue: translation}
     - {name: Shadow Folk, tongue: translation}
     - {name: Shadow Sect, tongue: translation}
@@ -5329,6 +5349,7 @@ data:
     - {name: Teng Chou, tongue: tanvuri, built: [teng, chou]}
     - {name: Teng Chou Script, tongue: translation}
     - {name: Teng Gwi, tongue: tanvuri, built: [teng, gwi]}
+    - {name: Tengleng, tongue: tanvuri, built: [teng, leng]}
     - {name: Tengmou, tongue: tanvuri, built: [teng, mou]}
     - {name: Tengshou, tongue: tanvuri, built: [teng, shou]}
     - {name: Tengshou River, tongue: translation}
@@ -5344,6 +5365,7 @@ data:
     - {name: The Bureau of Transformation, tongue: translation}
     - {name: The Bureau of Unraveling, tongue: translation}
     - {name: The Burning Dissolution, tongue: translation}
+    - {name: the Caste-Registrar, tongue: translation}
     - {name: The Celestial Dragon, tongue: translation}
     - {name: The Chief Auditor of Souls, tongue: translation}
     - {name: The Counterfeit Scribe, tongue: translation}
@@ -5352,19 +5374,23 @@ data:
     - {name: The Demon Realm, tongue: translation}
     - {name: The Demon-Swarm, tongue: translation}
     - {name: The District Hall of Jenshou, tongue: translation}
+    - {name: the District Registrar of Jenshou, tongue: translation}
     - {name: The Doulwen Basins, tongue: translation}
     - {name: The First Classifier, tongue: translation}
     - {name: The First Refusal, tongue: translation}
     - {name: The Forger of False Records, tongue: translation}
     - {name: The Forsaken, tongue: translation}
+    - {name: the Governor of Zhowen, tongue: translation}
     - {name: The Guide Who Leads Astray, tongue: translation}
     - {name: The Infernal Functionaries, tongue: translation}
     - {name: The Infernal Realms, tongue: translation}
     - {name: The Jade Fan Dance, tongue: translation}
     - {name: The Keeper of the Celestial Archive, tongue: translation}
     - {name: The Kwozheng Marches, tongue: translation}
+    - {name: the Leigen of Weichai, tongue: translation}
     - {name: The Lord of the Unclassified, tongue: translation}
     - {name: The Lost Road, tongue: translation}
+    - {name: the Magistrate of Jaunou, tongue: translation}
     - {name: The Minister of Continuity, tongue: translation}
     - {name: The Minister of Dissolution, tongue: translation}
     - {name: The Minister of Dreams, tongue: translation}
@@ -5374,14 +5400,22 @@ data:
     - {name: The Minister of Roads, tongue: translation}
     - {name: The Ministry of Final Account, tongue: translation}
     - {name: The Mwonou Uplands, tongue: translation}
+    - {name: the Prince of Doulwen, tongue: translation}
+    - {name: the Prince of Kwozheng, tongue: translation}
+    - {name: the Prince of Mwonou, tongue: translation}
+    - {name: the Prince of Wongsen, tongue: translation}
+    - {name: the Retired Emperor, tongue: translation}
     - {name: The Seal-Thief, tongue: translation}
     - {name: The Shadow Sect, tongue: translation}
+    - {name: the Terrace-Keeper of the Third Terrace, tongue: translation}
     - {name: The Tribes of the Black Wilds, tongue: translation}
     - {name: The Unmaker, tongue: translation}
     - {name: The Unsorted, tongue: translation}
     - {name: The Walking Contradiction, tongue: translation}
     - {name: The Wongsen Delta, tongue: translation}
     - {name: The Youweng, tongue: translation}
+    - name: Third Son of the Archivist of the Clan of Lanterns Along the Bank
+      tongue: translation
     - {name: Traveler, tongue: translation}
     - {name: Treasurer, tongue: translation}
     - {name: Tributary Lord, tongue: translation}
@@ -5390,6 +5424,7 @@ data:
     - {name: Tsai Sei, tongue: tanvuri, built: [tsai, sei]}
     - {name: Tseising, tongue: tanvuri, built: [tsei, sing]}
     - {name: Tuija Wengyan, tongue: tanvuri, built: [tui, ja, weng, yan]}
+    - {name: Tuizho, tongue: tanvuri, built: [tui, zho]}
     - {name: Wai Singzhwo, tongue: tanvuri, built: [wai, sing, zhwo]}
     - {name: Wandwo, tongue: tanvuri, built: [wan, dwo]}
     - {name: Wansou Zhwo, tongue: tanvuri, built: [wan, sou, zhwo]}
@@ -5406,7 +5441,9 @@ data:
     - {name: Weichai, tongue: tanvuri, built: [wei, chai]}
     - {name: Weizhwo, tongue: tanvuri, built: [wei, zhwo]}
     - {name: "Weizhwo Daunei, the Jade Sovereign", tongue: translation}
+    - {name: Weng Hen Rau Chai, tongue: tanvuri, built: [weng, hen, rau, chai]}
     - {name: Wengdau Zhouwo, tongue: tanvuri, built: [weng, dau, zhou, wo]}
+    - {name: Wind Tiger Roars Across Thunder Mountain, tongue: translation}
     - {name: Wodou, tongue: tanvuri, built: [wo, dou]}
     - {name: "Wodou, The Minister of Roads", tongue: translation}
     - {name: Wogen Henzhwo, tongue: tanvuri, built: [wo, gen, hen, zhwo]}
@@ -5416,6 +5453,7 @@ data:
     - {name: Wongsen Province, tongue: translation}
     - {name: Wouchei, tongue: tanvuri, built: [wou, chei]}
     - {name: Yanchai Zhau, tongue: tanvuri, built: [yan, chai, zhau]}
+    - {name: Yanzho, tongue: tanvuri, built: [yan, zho]}
     - {name: Yolei, tongue: tanvuri, built: [yo, lei]}
     - {name: Youbwi, tongue: tanvuri, built: [you, bwi]}
     - {name: Youweng, tongue: tanvuri, built: [you, weng]}
