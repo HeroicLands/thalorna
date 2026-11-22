@@ -22,6 +22,10 @@ Mwonou, the Green Field, is the seat of [[affiliation-mwonouprv|Mwonou Province]
 
 In an ordinary year the terraces and paddies of the basin feed the city. In a bad year the district granaries are opened, and when they are empty the city eats rice bought from the granaries of [[affiliation-wongsenprv|Wongsen Province]].
 
+## History {#history}
+
+An ancestral hall a Prince of the province raised, nine terraces high, with nine bells hung in it, stands in the city. Its raising took the corvée of [[place-jenshou|Jenshou]] from its dikes, as [[lore-annaljenshou|The Annal of Jenshou]] records.
+
 ## See Also {#see-also}
 
 [[affiliation-mwonouprv|Mwonou Province]]
@@ -29,6 +33,9 @@ In an ordinary year the terraces and paddies of the basin feed the city. In a ba
 
 [[place-mwonouplnd|The Mwonou Uplands]]
 : the land of the province
+
+[[place-jenshou|Jenshou]]
+: the river town downriver of the seat
 
 [[place-tantsouregin|Tantsou Region]]
 : the region

@@ -5214,6 +5214,7 @@ data:
     - {name: Iron Gate of the Winter Mountain, tongue: translation}
     - {name: Iron Spear Piercing the Clouds, tongue: translation}
     - {name: Jade Fan Dance, tongue: translation}
+    - {name: Jaunou, tongue: tanvuri, built: [jau, nou]}
     - {name: Jenshou, tongue: tanvuri, built: [jen, shou]}
     - {name: Jingdou, tongue: tanvuri, built: [jing, dou]}
     - {name: Jingdou Bridge, tongue: translation}
@@ -5226,6 +5227,7 @@ data:
     - {name: Keeper of the Sacred Texts, tongue: translation}
     - {name: Kin by Blood, tongue: translation}
     - {name: Kin by Marriage, tongue: translation}
+    - {name: Kwisen, tongue: tanvuri, built: [kwi, sen]}
     - {name: Kwozheng, tongue: tanvuri, built: [kwo, zheng]}
     - {name: Kwozheng Province, tongue: translation}
     - {name: Lanei, tongue: tanvuri, built: [la, nei]}
@@ -5327,6 +5329,7 @@ data:
     - {name: Teng Chou, tongue: tanvuri, built: [teng, chou]}
     - {name: Teng Chou Script, tongue: translation}
     - {name: Teng Gwi, tongue: tanvuri, built: [teng, gwi]}
+    - {name: Tengmou, tongue: tanvuri, built: [teng, mou]}
     - {name: Tengshou, tongue: tanvuri, built: [teng, shou]}
     - {name: Tengshou River, tongue: translation}
     - {name: Tengwou Rong Lei, tongue: tanvuri, built: [teng, wou, rong, lei]}
@@ -5348,6 +5351,7 @@ data:
     - {name: The Custodian of Lost Seals, tongue: translation}
     - {name: The Demon Realm, tongue: translation}
     - {name: The Demon-Swarm, tongue: translation}
+    - {name: The District Hall of Jenshou, tongue: translation}
     - {name: The Doulwen Basins, tongue: translation}
     - {name: The First Classifier, tongue: translation}
     - {name: The First Refusal, tongue: translation}
@@ -5399,6 +5403,7 @@ data:
     - {name: Watcher, tongue: translation}
     - {name: Watsai, tongue: tanvuri, built: [wa, tsai]}
     - {name: Wei Zhai Rwi, tongue: tanvuri, built: [wei, zhai, rwi]}
+    - {name: Weichai, tongue: tanvuri, built: [wei, chai]}
     - {name: Weizhwo, tongue: tanvuri, built: [wei, zhwo]}
     - {name: "Weizhwo Daunei, the Jade Sovereign", tongue: translation}
     - {name: Wengdau Zhouwo, tongue: tanvuri, built: [weng, dau, zhou, wo]}
@@ -5419,6 +5424,7 @@ data:
     - {name: Zhausou, tongue: tanvuri, built: [zhau, sou]}
     - {name: Zhawo, tongue: tanvuri, built: [zha, wo]}
     - {name: Zhazho, tongue: tanvuri, built: [zha, zho]}
+    - {name: Zhengnou, tongue: tanvuri, built: [zheng, nou]}
     - {name: Zhinho, tongue: tanvuri, built: [zhin, ho]}
     - {name: "Zhinho, The Minister of Fire", tongue: translation}
     - {name: Zho Zhei, tongue: tanvuri, built: [zho, zhei]}

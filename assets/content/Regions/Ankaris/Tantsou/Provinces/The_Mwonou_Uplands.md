@@ -33,6 +33,16 @@ The Prince of Mwonou, of the [[lore-zhazho|Zhazho]], holds the uplands for the E
 
 [[place-mwonou|Mwonou]], the Green Field, is the seat: a city of about 160,000 people in an upland basin where the passes toward Vedyara come down. The terraces and paddies of the basin feed it in an ordinary year.
 
+[[place-jenshou|Jenshou]], Nine Waters, is a river town of about 7,000 people downriver of the seat, where a great river breaks into nine channels as it leaves the uplands; its district hall keeps the register and feeds the tablets of [[place-rinnou|Rinnou]], a terrace village of the district whose people are Nwitsou.
+
+[[place-weichai|Weichai]], the Jade Peak, is a market town of about 4,800 people at the foot of a terraced hill, with the terrace village of [[place-zhengnou|Zhengnou]] above it. [[place-tengmou|Tengmou]], Heaven's Wood, is a town of about 3,500 above a valley of terraces and ditches. [[place-jaunou|Jaunou]], the Yellow Field, is a market town of about 4,200 in the south, at the heart of the famine.
+
+[[place-kwisen|Kwisen]], the Gray Gate, is the frontier way-station below [[place-jnanadvar|the Scholars' Door]], where every traveler down from the pass is fed, classified and entered in the register.
+
+:::secret {title="The village the register does not hold"}
+[[place-hachai|Hachai]], the Hidden Peak, stands in the high country above the uppermost terraces, a village of people struck from the register. Its district keeps no page for it.
+:::
+
 ## Current Situation {#present}
 
 The famine of the southern uplands is this province's famine. The district granaries have been opened, and when they are empty the province eats rice bought from the granaries of [[affiliation-wongsenprv|Wongsen Province]], at the price the Prince of Wongsen names. Whether the drought is heaven's or the work of that Prince's water-gifted [[lore-wanduo|Wandwo]] is asked at court and proven by nobody.
@@ -56,6 +66,9 @@ Hunger, and the risings of the Nouwen in the districts where the tribute is coll
 
 [[place-mwonou|Mwonou]]
 : the seat
+
+[[place-jenshou|Jenshou]], [[place-rinnou|Rinnou]], [[place-weichai|Weichai]], [[place-zhengnou|Zhengnou]], [[place-tengmou|Tengmou]], [[place-jaunou|Jaunou]], [[place-kwisen|Kwisen]]
+: the towns, villages and way-station of the uplands
 
 [[place-graznmntns|The Grazian Mountains]]
 : the range and its passes

@@ -38,7 +38,7 @@ No marriage
 : a Nouwen couple may live together and raise children, and the law recognizes no bond between them.
 
 No personal name
-: a Nouwen is known by clan, position and place, as "Second Son of the Ox-Herd of the Clan of Still Water, near Weichai."
+: a Nouwen is known by clan, position and place, as "Second Son of the Ox-Herd of the Clan of Still Water, near [[place-weichai|Weichai]]."
 
 ## The Ancestors
 
