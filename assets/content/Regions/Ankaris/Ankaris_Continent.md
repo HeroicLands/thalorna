@@ -21,7 +21,7 @@ Ankaris is the largest continent on [[place-worldthlrn|Thalorna]] and the settin
 
 Ankaris spans every major climate zone. The far northern white areas of the map are unaligned frozen wastelands, with very few inhabitants and no government that holds the country as a whole. The [[place-nrdlndsrgn|Nordlands Region]] occupies the fjord-cut northwestern coast below and beside those wilds. South of the Nordlands lie the western heartlands of Aureldia and [[place-vrystwald|Vristwald]]; east of them, [[place-velanthrgn|Velanthia]] runs toward the [[place-khzryndsrtrgn|Khazrin Desert]]. Along the southern side of this belt are the cities of the Hellád and the [[place-midhalnrgn|Midhalión coast]]. The Khazrin spreads across the broad eastern interior, with [[place-dunharargn|Dunhara]] to its south. The southwestern shore faces the Vilérian Sea, around whose waters the cosmopolitan Midhalión region has formed.
 
-In the east the continent rises into a complex of mountain ranges, river basins, and coastal plains that host mainland [[place-tantsouregin|Tantsou]] and the southeastern [[place-vedyarargn|Vedyarian subcontinent]]. The unaligned range of [[place-graznmntns|the Grazian Mountains]], the highest range in the world, separates Vedyara from Khazrin and the eastern realms. Across [[place-easternstrt|the Eastern Strait]] from Tantsou lies the [[affiliation-jenchaiempr|Jenchai Empire]], an island empire. The continent's western coast is broken by the great island of [[place-eilwith|Eilwìth]], containing [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], and the smaller port-island of [[place-calypsacity|Kalipsa]], both within the Aureldian cultural sphere.
+In the east the continent rises into a complex of mountain ranges, river basins, and coastal plains that host mainland [[place-tantsouregin|Tantsou]] and the southeastern [[place-vedyarargn|Vedyarian subcontinent]]. North of Tantsou's marches lies the steppe of [[place-blackwilds|the Black Wilds]], where the far-northern Grukar nests lie as well. The unaligned range of [[place-graznmntns|the Grazian Mountains]], the highest range in the world, separates Vedyara from Khazrin and the eastern realms. Across [[place-easternstrt|the Eastern Strait]] from Tantsou lies the [[affiliation-jenchaiempr|Jenchai Empire]], an island empire. The continent's western coast is broken by the great island of [[place-eilwith|Eilwìth]], containing [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], and the smaller port-island of [[place-calypsacity|Kalipsa]], both within the Aureldian cultural sphere.
 
 No single mountain range, river, or sea divides Ankaris in half; its geography is instead a layered mosaic, and the cultural regions it contains reflect that layering rather than any neat compass-rose partition.
 
@@ -106,6 +106,9 @@ Across the Vilérian Sea, Ankaris is connected to [[place-xerathia|Zerathia]]: t
 
 [[place-jenchairgn|Jenchai Region]]
 : Eastern island empire
+
+[[place-blackwilds|The Black Wilds]]
+: Steppe north of Tantsou
 
 [[affiliation-vylarinmpr|Vilérian Empire]]
 : The declining western empire

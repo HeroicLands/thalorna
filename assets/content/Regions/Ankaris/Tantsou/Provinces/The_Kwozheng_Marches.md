@@ -10,6 +10,7 @@ data:
   lore: [humanflk]
   parents: [tantsouregin]
   population: {actual: 20000000} # computed from the people of the province the region carries
+  borders: [{to: blackwilds, bearing: N}]
   government: kwozhengprv
   packFolder: tantsou
   culture: tantsouclt
@@ -21,7 +22,7 @@ The Kwozheng Marches are the land of [[affiliation-kwozhengprv|Kwozheng Province
 
 ## The Land {#the-land}
 
-The north is cold-temperate, with hard winters and short summers, and its fields are thin. Beyond the marches lies the steppe of the [Black Wilds]{.name data-type="place/region"}.
+The north is cold-temperate, with hard winters and short summers, and its fields are thin. Beyond the marches lies the steppe of [[place-blackwilds|the Black Wilds]].
 
 ## Peoples {#peoples}
 
@@ -56,6 +57,9 @@ The riders of the Black Wilds in the northern districts, and the Grukar raids fr
 
 [[place-kwozheng|Kwozheng]]
 : the seat
+
+[[place-blackwilds|The Black Wilds]]
+: the steppe beyond the marches
 
 [[being-wogenhenzhuo|Wogen Henzhwo]]
 : the warlord of the Black Wilds
