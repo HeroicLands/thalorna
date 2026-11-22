@@ -18,8 +18,6 @@ data:
     - wthrnthrnhvn
     - thrnlrkhld
     - frstwrbndrdr
-    - grukaruk
-    - grkrhshk
   factions: [prncdmbrvvsh, vrystwldtrbs]
   follows: []
   party: {size: null, archetypes: []}
@@ -120,7 +118,7 @@ The upper hall of the stone fort at Brevavesh, after the quarter's rolls. A youn
 
 **Situation.** The stone gatehouse still stands, roofed in turf where the upper floor burned, with the half-burned timber walls of the fort around it and the crossing below. The bargain is to be spoken at first light. The party and whoever came with it spend the night inside the gatehouse.
 
-**NPCs and threats.** A Grukar raiding party, a handful of warriors in a canoe and on the bank, coming down the river path in the dark toward the clearings. They do not stop for the gatehouse, and they do not turn aside for anyone who leaves them alone. They are what Theodburg was built against.
+**NPCs and threats.** A Grukar raiding party, a handful of warriors in a canoe and on the bank, coming down the river path in the dark toward the clearings. The raiders are not cast: they are [[being-grukaruk|Grukar-Uk]] led by a [[being-grkrhshk|Grukar-Hushk]], and their numbers are on those bestiary notes. They do not stop for the gatehouse, and they do not turn aside for anyone who leaves them alone. They are what Theodburg was built against.
 
 **Player choices.** Hold the gatehouse and let the party pass, ring an alarm toward the clearings, follow the raiders, or meet them at the crossing.
 

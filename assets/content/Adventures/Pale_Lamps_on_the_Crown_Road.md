@@ -8,7 +8,7 @@ tags: []
 data:
   parents: []
   locations: [wenlornestage, dunmere, thornwold]
-  cast: [wenlornereeve, damut, grukaruk, grkrhshk]
+  cast: [wenlornereeve, damut]
   factions: [kngdmldrth, vrgldhld]
   follows: []
   party: {size: null, archetypes: []}
@@ -30,7 +30,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 ## Cast and Stakes
 
-[[being-wenlornereeve|Reeve of Wenlorne]] keeps the house. Use [[being-damut|Damut]] for its porters, including the Vardain girl whose surviving memory gives the first reeve’s burial clue. [[being-grukaruk|Grukar-Uk]] and [[being-grkrhshk|Grukar-Hushk]] from Fernbank hunt off the road. Aldorath wants its missing patrol found; Vorgald’s interest is the crown’s old register, not a claim to rule the stage.
+[[being-wenlornereeve|Reeve of Wenlorne]] keeps the house. Use [[being-damut|Damut]] for its porters, including the Vardain girl whose surviving memory gives the first reeve’s burial clue. The Grukar are not cast. The nest at Fernbank hunts the woods off the road at night and does not go near the lamps; it is the danger of the forest side, and the numbers of its [[being-grukaruk|Grukar-Uk]] and [[being-grkrhshk|Grukar-Hushk]] are on those bestiary notes. Aldorath wants its missing patrol found; Vorgald’s interest is the crown’s old register, not a claim to rule the stage.
 
 ## The Opening {#opening}
 

@@ -8,7 +8,7 @@ tags: []
 data:
   parents: []
   locations: [nethermootholw, thornbury, aldorathrgn, pshtrwldrns]
-  cast: [nanwithkrake, haldrekvane, rootedchief, damut, cat, grukaruk]
+  cast: [nanwithkrake, haldrekvane, rootedchief, damut, cat]
   factions: [selmoros, kngdmldrth]
   follows: []
   party: {size: null, archetypes: []}
@@ -30,7 +30,7 @@ A witch in a forest dell sells cures at the price of years, and the years feed t
 
 ## Cast and Stakes
 
-[[being-nanwithkrake|Brodet]] gives the bargains; [[being-haldrekvane|Gorlen]] commissioned the binding; [[being-rootedchief|Rooted Chief]] is the Shadow’s mouth in the oldest oak. Use [[being-damut|Damut]] for the root-sworn, with fragments of their clan memories, and [[being-cat|Cat]] for Brodet’s watcher. The Grukar on the approach use [[being-grukaruk|Grukar-Uk]]. The Faith of Sélmoros has a stake in the abandoned rites, and Aldorath’s border households send their sick along the trackstones.
+[[being-nanwithkrake|Brodet]] gives the bargains; [[being-haldrekvane|Gorlen]] commissioned the binding; [[being-rootedchief|Rooted Chief]] is the Shadow’s mouth in the oldest oak. Use [[being-damut|Damut]] for the root-sworn, with fragments of their clan memories, and [[being-cat|Cat]] for Brodet’s watcher. The Grukar are not cast: they are the danger of the forest on the way to the hollow, and the numbers of their [[being-grukaruk|Grukar-Uk]] hunters are on that bestiary note. The Faith of Sélmoros has a stake in the abandoned rites, and Aldorath’s border households send their sick along the trackstones.
 
 ## The Opening {#opening}
 

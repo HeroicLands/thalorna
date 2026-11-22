@@ -8,7 +8,7 @@ tags: []
 data:
   parents: []
   locations: [reedgill, koldmere, brynwold, stonyford]
-  cast: [elfithwgdn, stillwader, alfmundkrtn, grukaruk, grkrhshk, grkrsh]
+  cast: [elfithwgdn, alfmundkrtn]
   factions: [kngdmldrth, repblcndrth]
   follows: []
   party: {size: null, archetypes: []}
@@ -23,7 +23,7 @@ data:
 
 The autumn boat and its two cutters fall to Reedgill. Both cutters are dead; their remains and belongings lie in an outer den beside the boat. The nest cuts about half the nets on both shores. The rest of the damage and the winter impoundments are human. Stillwader understands enough shore speech to steer suspicion, but the nest is not a diplomatic party and offers no lasting peace. Its need is fish, boats and access to the reed-beds.
 
-Use [[being-grukaruk|Grukar-Uk]] for raiders and [[being-grkrhshk|Grukar-Hushk]] for the warriors holding the bank. Stillwader’s record refers to [[being-grkrsh|Grukar-Sha]]. The spawner stays deep in the nest; this adventure does not require reaching or fighting it. [[being-alfmundkrtn|Alfmund Kaerton]] is the Stoniford breeder and senator to whom the village’s petition can go, while his northern levy competes for his attention.
+The Grukar are not cast. The nest is the danger on the beds, never a side to bargain with. Its raiders are [[being-grukaruk|Grukar-Uk]] and the warriors holding the bank are [[being-grkrhshk|Grukar-Hushk]], and their numbers are on those bestiary notes. Stillwader is a [[being-grkrsh|Grukar-Sha]] that the party sees only at a distance and never speaks with. The spawner stays deep in the nest; this adventure does not require reaching or fighting it. [[being-alfmundkrtn|Alfmund Kaerton]] is the Stoniford breeder and senator to whom the village’s petition can go, while his northern levy competes for his attention.
 
 ## Hooks {#hooks}
 
