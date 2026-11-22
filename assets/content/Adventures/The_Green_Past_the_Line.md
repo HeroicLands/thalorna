@@ -8,7 +8,7 @@ tags: [draft]
 data:
   parents: []
   locations: [bethuargn, soredia]
-  cast: [izetmu, levywoman, tradefactor]
+  cast: [izetmu, levywoman, tradefactor, diggerwife]
   factions: [mtrrchybth, orderwaters, sacredcollege, councilhouses, bthntrdhss]
   follows: []
   party: {size: null, archetypes: []}
@@ -68,8 +68,8 @@ The party can learn how the roof fell, who was told that it might, and who has b
 | An opened crack along the roof between the cut and the fall                                                               | the gallery                               | Two         | The roof was failing below the cut; not who saw it                                                     |
 | The branch's outlet in the upper field, running under brush                                                               | the upper field                           | Three       | The branch feeds the upper field                                                                       |
 | A purchase of the standing crop under the holder's seal                                                                   | the Trade-House Factor                    | Three       | The holder sowed to sell into the sale                                                                 |
-| Khelathi weight-pieces the head digger's household has no Order work to account for, and his wife made the bargain        | Soredia                                   | Four        | Who dug the cut, and for whom                                                                          |
-| The head digger saw the crack and told his wife, and the holder sent word to finish                                       | the head digger, through his wife         | Four        | The holder was told the roof might fall                                                                |
+| Khelathi weight-pieces the head digger's household has no Order work to account for, and his wife made the bargain        | the head digger's wife, at Soredia        | Four        | Who dug the cut, and for whom                                                                          |
+| The head digger saw the crack and told his wife, and the holder sent word to finish                                       | the head digger's wife, for her husband   | Four        | The holder was told the roof might fall                                                                |
 
 ## What the Game Master Decides {#what-the-game-master-decides}
 
@@ -77,7 +77,7 @@ The party can learn how the roof fell, who was told that it might, and who has b
 - **Who holds the upper ground.** A Junior House that grazes the grassland, or the House that holds the village's own strip, taking water from its own tenants' shares. The clues serve either.
 - **What the holder answers for.** The fields belong to a House, the water to the Order, and the _katelun_ to the realm. Water taken out of turn answers to the Order, and damage to the line to the Hégissa of the southern cantons, who holds the realm's courts there. The penalties are the Game Master's.
 - **The wife's fate.** Whether the Order goes on giving her household work once her part is known.
-- **The wife in person.** She is the one witness the Game Master brings to the table in person. The head digger and the gang are not met: the Izet-Mu keeps her gang from strangers and answers for it. Asked who keeps the line, she names the Soredia gang and its head digger's household at any time. Once she has seen the pick handle, she keeps him at the camp and takes nothing from him except through his wife.
+- **The head digger and the gang.** Neither is met: the Izet-Mu keeps her gang from strangers and answers for it. Asked who keeps the line, she names the Soredia gang at any time. Once she has seen the pick handle, she names its head digger's household at Soredia as the one that answers for the cut, and once the gang is in camp she keeps the head digger there and takes nothing from him except through his wife.
 - **Day Eight.** If the gang goes down blind, whether the head digger speaks before it reaches the cracked stretch, and whether the roof comes down again.
 
 ## Hooks {#hooks}
@@ -123,7 +123,7 @@ Read or paraphrase:
 
 **Player choices.** Go down shaft by shaft and keep a lamp line, wade the backed-up water toward the fall, or follow the line on the surface to the shaft nearest the green.
 
-**Clues and rewards.** A fresh branch cut into the gallery wall runs off downhill toward the upper field, with a set stone turning the water into it. A broken pick handle with the Order's mark lies in the mud. Below the cut the crack runs along the roof to the fall, opened wide: the roof was failing, though nothing in it says who saw it first. Shown the handle, the Izet-Mu says that only the Soredia gang that keeps this line has the Order's tools here, so the cut is her own gang's work, and she points the party to its head digger's household at Soredia.
+**Clues and rewards.** A fresh branch cut into the gallery wall runs off downhill toward the upper field, with a set stone turning the water into it. A broken pick handle with the Order's mark lies in the mud. Below the cut the crack runs along the roof to the fall, opened wide: the roof was failing, though nothing in it says who saw it first. Shown the handle, the Izet-Mu says that only the Soredia gang that keeps this line has the Order's tools here, so the cut is her own gang's work, and she names its head digger's household at Soredia as the one that answers for the cut.
 
 **Consequences.** The repair begins as the clock gives it. A party that goes down past a blue flame comes up short of breath and sick; one that stays down is carried out.
 
@@ -151,11 +151,11 @@ Read or paraphrase:
 
 **Situation.** [[place-soredia|Soredia]], the town of well-sinkers and tunnel-diggers, a day's ride from the line, and the household the Izet-Mu named. The head digger is away with the gang; his wife holds the household and answers for him.
 
-**NPCs and threats.** The head digger's wife, who made the bargain.
+**NPCs and threats.** The head digger's wife, a [[being-diggerwife|Head Digger's Wife of Soredia]], who made the bargain and meets the party at her own door.
 
 **Player choices.** Put the cut to her plainly, offer her a reason to speak, or bring her to the mouth to stand for her husband before the Izet-Mu.
 
-**Clues and rewards.** The household holds Khelathi weight-pieces it has no Order work to account for, and from Day Five newly paid ones besides. Before Day Six, faced with the cut, she says that she made the bargain, that her husband saw the crack, and that she carried it to the overseer. From Day Six she has taken the overseer's money and denies all of it, unless the party gives her a reason the money cannot outweigh: the Order learns of the cut either way, and a household that speaks first keeps more than one that is found out.
+**Clues and rewards.** The household holds Khelathi weight-pieces it has no Order work to account for, and from the night of Day Five newly paid ones besides. Before Day Six, faced with the cut, she says that she made the bargain, that her husband saw the crack, that she carried it to the overseer, and that the holder sent back word to finish. From Day Six she has taken the overseer's money and denies all of it, unless the party gives her a reason the money cannot outweigh: the Order learns of the cut either way, and a household that speaks first keeps more than one that is found out.
 
 **Consequences.** A man cannot stand before a court except through the woman responsible for him, so the head digger's word reaches the Izet-Mu only if his wife brings it.
 
