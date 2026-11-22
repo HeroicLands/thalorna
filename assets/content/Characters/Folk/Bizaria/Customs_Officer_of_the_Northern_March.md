@@ -13,7 +13,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [northrnmrch]
-  affiliations: {byzarianlg: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}}
   socialTies: {}
   gender: male
   species: humanflk
