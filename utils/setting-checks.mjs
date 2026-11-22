@@ -14,9 +14,12 @@
  * tool calls it: no lint, build or CI step does.
  *
  * The supported scope is the plain opening and closing place elements declared
- * by the Eilwìthi language note: a candidate is one place-compatible opening
- * element followed by one place-compatible closing element, with no joining
- * form. Any other language or composition is `{available: false}`.
+ * by the Eilwìthi and Dunhari language notes: a candidate is one
+ * place-compatible opening element followed by one place-compatible closing
+ * element, with no joining form. Any other language or composition is
+ * `{available: false}`. Each language is read from its own record, vowel groups
+ * and model-language lists, and a language whose inputs are missing is
+ * unavailable alone.
  *
  * Importing this module reads no file. The factory performs no I/O and
  * snapshots every resource at setup: it never reads one again. Every resource is
@@ -54,14 +57,29 @@ export const CHECK_NAMES = Object.freeze([
     "indexedNames",
 ]);
 
-/** The language the factory supports, and the composition it reads. */
-export const SUPPORTED_SCOPE = Object.freeze({
-    package: "thalorna",
-    shortcode: "aelwthlng",
-    languageCode: "aelw",
-    address: "skill-aelwthlng",
-    elementKind: "place",
-});
+/** The element kind the factory composes. */
+const ELEMENT_KIND = "place";
+
+/**
+ * The languages the factory supports: the Eilwìthi and Dunhari language notes.
+ * Each is read by its identity, and each composes the same place elements.
+ */
+export const SUPPORTED_LANGUAGES = Object.freeze([
+    Object.freeze({
+        package: "thalorna",
+        shortcode: "aelwthlng",
+        languageCode: "aelw",
+        address: "skill-aelwthlng",
+        elementKind: ELEMENT_KIND,
+    }),
+    Object.freeze({
+        package: "thalorna",
+        shortcode: "dunharlng",
+        languageCode: "dunh",
+        address: "skill-dunharlng",
+        elementKind: ELEMENT_KIND,
+    }),
+]);
 
 /** The resources each callback needs. */
 export const REQUIRED_RESOURCES = Object.freeze({
@@ -451,22 +469,32 @@ export function loadSettingCheckResources({
     return { resources, problems };
 }
 
-/** Why a context is outside the supported scope, or undefined when it is inside. */
-function scopeProblem(context) {
-    if (!isObject(context)) return "the context is not an object";
-    const language = context.language;
-    if (
-        !isObject(language) ||
-        language.package !== SUPPORTED_SCOPE.package ||
-        language.type !== "skill" ||
-        language.subType !== "language" ||
-        language.shortcode !== SUPPORTED_SCOPE.shortcode ||
-        language.languageCode !== SUPPORTED_SCOPE.languageCode
-    )
-        return `only the ${SUPPORTED_SCOPE.shortcode} language is supported`;
+/** Whether a record is the language note a supported language names. */
+const isLanguageNote = (record, supported) =>
+    isObject(record) &&
+    record.package === supported.package &&
+    record.type === "skill" &&
+    record.subType === "language" &&
+    record.shortcode === supported.shortcode &&
+    record.languageCode === supported.languageCode;
+
+/**
+ * The supported language a context names, or why the context is outside the
+ * supported scope.
+ *
+ * @param {Record<string, any>} context
+ * @returns {{supported: (typeof SUPPORTED_LANGUAGES)[number]} | {reason: string}}
+ */
+function scopeOf(context) {
+    if (!isObject(context)) return { reason: "the context is not an object" };
+    const supported = SUPPORTED_LANGUAGES.find((entry) => isLanguageNote(context.language, entry));
+    if (!supported)
+        return {
+            reason: `only the ${SUPPORTED_LANGUAGES.map((entry) => entry.shortcode).join(" and ")} languages are supported`,
+        };
     if (!Array.isArray(context.elements) || context.elements.length !== 2)
-        return "an opening and a closing element are required";
-    return undefined;
+        return { reason: "an opening and a closing element are required" };
+    return { supported };
 }
 
 /**
@@ -493,7 +521,7 @@ function declaredComposition(data, context) {
     const [opening, closing] = declared;
     const supported = (element, positions) =>
         positions.includes(element.position) &&
-        (element.kind === undefined || element.kind === SUPPORTED_SCOPE.elementKind) &&
+        (element.kind === undefined || element.kind === ELEMENT_KIND) &&
         element.joining === undefined;
     if (!supported(opening, ["opening", "either"]) || !supported(closing, ["closing", "either"]))
         return {
@@ -587,7 +615,7 @@ function indexNames(records) {
  *   validators: Record<string, (candidate: string, context: object) => object>,
  *   resources: Record<string, {name: string, version: string, source: string}[]>,
  *   unavailable: Record<string, string>,
- *   scope: typeof SUPPORTED_SCOPE
+ *   languages: {shortcode: string, languageCode: string, address: string, unavailable: Record<string, string>}[]
  * }}
  */
 export function createSettingChecks(resources, { selected } = {}) {
@@ -595,23 +623,31 @@ export function createSettingChecks(resources, { selected } = {}) {
     const problems = {};
     const identities = {};
     const digests = new Map();
-    const need = (check, key) => {
+    // A resource with its identity, or why it is unusable; nothing is recorded.
+    const lookup = (key) => {
         const found = resourceOf(given, key);
+        if (found.reason) return { reason: found.reason };
+        try {
+            if (!digests.has(key)) digests.set(key, digestOfResource(key, found.resource));
+        } catch (error) {
+            return { reason: `the ${key} resource cannot be identified: ${messageOf(error)}` };
+        }
+        return {
+            resource: found.resource,
+            identity: identityOf(found.resource.id, digests.get(key)),
+        };
+    };
+    const need = (check, key) => {
+        const found = lookup(key);
         if (found.reason) {
             problems[check] ??= found.reason;
             return undefined;
         }
-        try {
-            if (!digests.has(key)) digests.set(key, digestOfResource(key, found.resource));
-        } catch (error) {
-            problems[check] ??= `the ${key} resource cannot be identified: ${messageOf(error)}`;
-            return undefined;
-        }
-        (identities[check] ??= []).push(identityOf(found.resource.id, digests.get(key)));
+        (identities[check] ??= []).push(found.identity);
         return found.resource;
     };
 
-    // spelling: the guide's alphabet and vowel groups, read once.
+    // spelling: the guide's alphabet, read once; its vowel groups are read per language.
     let guide;
     const guideResource = need("spelling", "guide");
     if (guideResource) {
@@ -619,15 +655,22 @@ export function createSettingChecks(resources, { selected } = {}) {
             if (!isText(guideResource.text)) throw new Error("the guide text is empty");
             const alphabet = alphabetOf(guideResource.text);
             if (!alphabet.singles.size) throw new Error("the guide declares no alphabet");
-            guide = { alphabet, groups: groupsOf(guideResource.text, SUPPORTED_SCOPE.address) };
+            guide = {
+                alphabet,
+                groups: new Map(
+                    SUPPORTED_LANGUAGES.map((entry) => [
+                        entry.address,
+                        groupsOf(guideResource.text, entry.address),
+                    ]),
+                ),
+            };
         } catch (error) {
             problems.spelling ??= `the guide cannot be read: ${messageOf(error)}`;
         }
     }
 
-    // earthWords: the English list, and any model-language lists the language declares.
+    // earthWords: the English list.
     let english;
-    let earthLists;
     const englishResource = need("earthWords", "englishWords");
     if (englishResource) {
         const words = englishResource.words;
@@ -652,17 +695,6 @@ export function createSettingChecks(resources, { selected } = {}) {
                 problems.earthWords ??= "the English word list is empty";
             }
         }
-    }
-    const modelLists = SOURCES[SUPPORTED_SCOPE.address] ?? [];
-    if (english && modelLists.length) {
-        const listResource = need("earthWords", "earthWordLists");
-        if (!listResource || !(listResource.earth?.lists instanceof Map)) {
-            problems.earthWords ??= "the model-language word lists are not provided";
-            english = undefined;
-        } else if (modelLists.some((name) => !listResource.earth.lists.get(name)?.size)) {
-            problems.earthWords ??= "a model-language word list is missing";
-            english = undefined;
-        } else earthLists = structuredClone(listResource.earth);
     }
 
     // earthNames: the Earth-name guard's matcher.
@@ -689,27 +721,14 @@ export function createSettingChecks(resources, { selected } = {}) {
             }
         }
     }
-    // language: the supported language's record, as the captured index holds it.
-    let languageRecord;
+    // language: each supported language's record, as the captured index holds it.
+    let indexRecords;
     const languageIndex = need("language", "index");
     if (languageIndex) {
         const records = languageIndex.records;
         if (isThenable(records) || !Array.isArray(records))
             problems.language ??= "the captured index holds no records";
-        else {
-            languageRecord = records.find(
-                (record) =>
-                    isObject(record) &&
-                    record.package === SUPPORTED_SCOPE.package &&
-                    record.type === "skill" &&
-                    record.subType === "language" &&
-                    record.shortcode === SUPPORTED_SCOPE.shortcode &&
-                    record.languageCode === SUPPORTED_SCOPE.languageCode,
-            );
-            if (!languageRecord)
-                problems.language ??= `the captured index has no ${SUPPORTED_SCOPE.shortcode} language record`;
-            else languageRecord = structuredClone(languageRecord);
-        }
+        else indexRecords = records;
     }
     for (const check of ["spelling", "earthWords", "earthNames"]) {
         need(check, "index");
@@ -718,30 +737,62 @@ export function createSettingChecks(resources, { selected } = {}) {
     if (selected === undefined)
         problems.indexedNames ??= "the names selected in this operation are not provided";
 
+    // Each supported language: its record, vowel groups and model-language lists.
+    // A language whose inputs are missing is unavailable alone.
+    const listResource = lookup("earthWordLists");
+    const profiles = new Map();
+    for (const supported of SUPPORTED_LANGUAGES) {
+        const profile = { supported, problem: undefined, problems: {}, modelLists: [] };
+        profiles.set(supported.address, profile);
+        const found = indexRecords?.find((record) => isLanguageNote(record, supported));
+        if (indexRecords && !found)
+            profile.problem = `the captured index has no ${supported.shortcode} language record`;
+        else if (found) profile.record = structuredClone(found);
+        if (guide) profile.groups = guide.groups.get(supported.address);
+        profile.modelLists = SOURCES[supported.address] ?? [];
+        if (english && profile.modelLists.length) {
+            if (!listResource.resource || !(listResource.resource.earth?.lists instanceof Map))
+                profile.problems.earthWords = "the model-language word lists are not provided";
+            else if (
+                profile.modelLists.some(
+                    (name) => !listResource.resource.earth.lists.get(name)?.size,
+                )
+            )
+                profile.problems.earthWords = "a model-language word list is missing";
+            else {
+                profile.earthLists = structuredClone(listResource.resource.earth);
+                profile.listIdentity = listResource.identity;
+            }
+        }
+    }
+
     const guarded = (check, body) => (candidate, context) => {
         try {
             if (problems[check]) return unavailable(check, problems[check]);
             if (!isText(candidate)) return unavailable(check, "the candidate is not a name");
-            const scope = scopeProblem(context);
-            if (scope) return unavailable(check, scope);
-            const composition = declaredComposition(languageRecord.data, context);
+            const scope = scopeOf(context);
+            if (scope.reason) return unavailable(check, scope.reason);
+            const profile = profiles.get(scope.supported.address);
+            const reason = profile.problem ?? profile.problems[check];
+            if (reason) return unavailable(check, reason);
+            const composition = declaredComposition(profile.record.data, context);
             if (composition.reason) return unavailable(check, composition.reason);
-            const result = body(nfc(candidate), context);
+            const result = body(nfc(candidate), context, profile);
             if (isThenable(result)) return unavailable(check, "the check is not synchronous");
             return result;
         } catch (error) {
             return unavailable(check, `the check failed: ${messageOf(error)}`);
         }
     };
-    const verdict = (check, evidence) => ({
+    const verdict = (check, evidence, extra = []) => ({
         available: true,
         valid: evidence.every((item) => item.ok),
         check,
-        resource: identities[check] ?? [],
+        resource: [...(identities[check] ?? []), ...extra],
         evidence,
     });
 
-    const spelling = guarded("spelling", (candidate) => {
+    const spelling = guarded("spelling", (candidate, _context, profile) => {
         const evidence = [];
         // A candidate is one written word: letters and their marks only.
         evidence.push({ rule: "one-word", ok: /^\p{L}[\p{L}\p{M}]*$/u.test(candidate) });
@@ -751,13 +802,13 @@ export function createSettingChecks(resources, { selected } = {}) {
             ok: issues.length === 0,
             ...(issues.length ? { issues: issues.map((i) => `rule ${i.rule}: ${i.message}`) } : {}),
         });
-        const closing = deprecatedPairs(candidate, guide.groups);
+        const closing = deprecatedPairs(candidate, profile.groups);
         evidence.push({
             rule: "closing-pair",
             ok: closing.length === 0,
             ...(closing.length ? { pairs: closing.map((hit) => hit.pair) } : {}),
         });
-        const diaereses = badPairs(candidate, guide.groups);
+        const diaereses = badPairs(candidate, profile.groups);
         evidence.push({
             rule: "diaeresis",
             ok: diaereses.length === 0,
@@ -766,8 +817,8 @@ export function createSettingChecks(resources, { selected } = {}) {
         return verdict("spelling", evidence);
     });
 
-    const language = guarded("language", (candidate, context) => {
-        const data = languageRecord.data;
+    const language = guarded("language", (candidate, context, profile) => {
+        const data = profile.record.data;
         if (!isObject(data) || !isText(data.roman))
             return unavailable("language", "the language declares no roman inventory");
         if (!Array.isArray(data.elements) || !isObject(data.naming))
@@ -829,18 +880,24 @@ export function createSettingChecks(resources, { selected } = {}) {
         return verdict("language", evidence);
     });
 
-    const earthWords = guarded("earthWords", (candidate) => {
+    const earthWords = guarded("earthWords", (candidate, _context, profile) => {
         const lower = candidate.toLowerCase();
         const hits = [];
         if (english.has(lower) || english.has(fold(candidate)))
             hits.push("a word of the English list");
-        if (earthLists) {
-            const model = earthHits({ form: candidate, gloss: "" }, earthLists, modelLists);
+        if (profile.earthLists) {
+            const model = earthHits(
+                { form: candidate, gloss: "" },
+                profile.earthLists,
+                profile.modelLists,
+            );
             for (const hit of model) hits.push(hit.message);
         }
-        return verdict("earthWords", [
-            { rule: "whole-word", ok: hits.length === 0, ...(hits.length ? { hits } : {}) },
-        ]);
+        return verdict(
+            "earthWords",
+            [{ rule: "whole-word", ok: hits.length === 0, ...(hits.length ? { hits } : {}) }],
+            profile.listIdentity ? [profile.listIdentity] : [],
+        );
     });
 
     const earthNames = guarded("earthNames", (candidate) => {
@@ -885,8 +942,30 @@ export function createSettingChecks(resources, { selected } = {}) {
 
     return {
         validators: { spelling, language, earthWords, earthNames, indexedNames },
-        resources: Object.fromEntries(CHECK_NAMES.map((check) => [check, identities[check] ?? []])),
+        resources: Object.fromEntries(
+            CHECK_NAMES.map((check) => [
+                check,
+                [
+                    ...(identities[check] ?? []),
+                    ...(check === "earthWords" ?
+                        [...new Set([...profiles.values()].map((p) => p.listIdentity))].filter(
+                            Boolean,
+                        )
+                    :   []),
+                ],
+            ]),
+        ),
         unavailable: problems,
-        scope: SUPPORTED_SCOPE,
+        languages: [...profiles.values()].map((profile) => ({
+            shortcode: profile.supported.shortcode,
+            languageCode: profile.supported.languageCode,
+            address: profile.supported.address,
+            unavailable: Object.fromEntries(
+                CHECK_NAMES.flatMap((check) => {
+                    const reason = problems[check] ?? profile.problem ?? profile.problems[check];
+                    return reason ? [[check, reason]] : [];
+                }),
+            ),
+        })),
     };
 }

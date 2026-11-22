@@ -12,7 +12,11 @@ notes.
 ## Supported scope
 
 A candidate is one plain opening element followed by one plain closing element
-of the Eilwìthi language note (`skill-aelwthlng`, language code `aelw`):
+of a supported language note. The supported languages are Eilwìthi
+(`skill-aelwthlng`, language code `aelw`) and Dunhari (`skill-dunharlng`,
+language code `dunh`); `SUPPORTED_LANGUAGES` lists them, and the language a
+context names is matched by package, type, subtype, shortcode and language code.
+For each language:
 
 - the opening element's `position` is `opening` or `either`, and the closing
   element's is `closing` or `either`;
@@ -21,10 +25,15 @@ of the Eilwìthi language note (`skill-aelwthlng`, language code `aelw`):
 - the language's `data.naming.draws` holds one `place` draw that permits
   `place` elements.
 
+Each language is read from its own record and carries its own vowel groups and
+model-language lists. A language whose record is absent from the index, or whose
+model-language lists are not supplied, is unavailable on its own: the other
+supported language keeps its verdicts.
+
 The elements are resolved from the captured language record's declarations at
 the indexed positions, never from the context's own fields. A link element, an
 element limited to given names or bynames, an element in the wrong position, an
-element with a joining form, any other language and any other composition is
+element with a joining form, any third language and any other composition is
 outside the scope. Every callback returns `{available: false, check, reason}`
 for an out-of-scope context before it judges the candidate; it never reports a
 pass. A candidate that differs from the composition of a supported pair is in
@@ -117,13 +126,13 @@ indexed language record (`package`, `type`, `subType`, `shortcode`,
 
 ## Resources and their sources
 
-| Resource         | Shape           | Source                                                                                                                                                                  | Needed by      |
-| ---------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| `guide`          | `{id, text}`    | The Pronouncing Thalorna note, from `guideFile`.                                                                                                                        | `spelling`     |
-| `englishWords`   | `{id, words}`   | `englishWordsFile`, the English spelling list (`assets/data/english-words.json`); its `id.version` names the baseline word list that `englishSourcesFile` records.      | `earthWords`   |
-| `earthWordLists` | `{id, earth}`   | The model-language lists of `lint:earth-words`, loaded from directories the caller names. Needed only for a language that declares model lists; Eilwìthi declares none. | `earthWords`   |
-| `earthNames`     | `{id, matcher}` | The matcher of `lint:earth-names` and the `countries-list` version it reads.                                                                                            | `earthNames`   |
-| `index`          | `{id, records}` | The records of `indexFile`, the standard `build/content-index/thalorna-metadata.jsonl` written by `npm run build:content-index`.                                        | every callback |
+| Resource         | Shape           | Source                                                                                                                                                                                                      | Needed by      |
+| ---------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| `guide`          | `{id, text}`    | The Pronouncing Thalorna note, from `guideFile`.                                                                                                                                                            | `spelling`     |
+| `englishWords`   | `{id, words}`   | `englishWordsFile`, the English spelling list (`assets/data/english-words.json`); its `id.version` names the baseline word list that `englishSourcesFile` records.                                          | `earthWords`   |
+| `earthWordLists` | `{id, earth}`   | The model-language lists of `lint:earth-words`, loaded from directories the caller names. Needed for a language that declares model lists, which Dunhari does (Persian and Arabic); Eilwìthi declares none. | `earthWords`   |
+| `earthNames`     | `{id, matcher}` | The matcher of `lint:earth-names` and the `countries-list` version it reads.                                                                                                                                | `earthNames`   |
+| `index`          | `{id, records}` | The records of `indexFile`, the standard `build/content-index/thalorna-metadata.jsonl` written by `npm run build:content-index`.                                                                            | every callback |
 
 ## What each callback checks
 
@@ -136,7 +145,7 @@ of the resources it read) and `evidence`, a list of `{rule, ok, ...}` entries.
   only); it passes the spelling guard's alphabet, mark and `y` rules, has no
   closing `ay`, `ey` or `oy`, and has no diaeresis that changes nothing. The
   guard's `held` respellings do not apply to a new name.
-- **`language`** reads the Eilwìthi record from the captured index. The two
+- **`language`** reads the context's language record from the captured index. The two
   elements must be the language's own declarations at the indexed positions and
   compose the candidate exactly; every letter of the candidate is in the
   language's declared `roman` inventory; the candidate is not one of the
@@ -146,7 +155,8 @@ of the resources it read) and `evidence`, a list of `{rule, ok, ...}` entries.
 - **`earthWords`** rejects a candidate that is a whole word of the English
   list, with and without its accents. For a language that declares model
   languages in the Earth-word guard, a whole word of each model list is a
-  collision too.
+  collision too. A Dunhari verdict names the model-language lists among its
+  `resource` identities.
 - **`earthNames`** applies the Earth-name guard to the candidate written with an
   initial capital, as the setting writes a name: countries, capitals,
   continents, languages, peoples, religions, persons and works of fiction, the
@@ -171,7 +181,7 @@ They do not enforce:
 
 - the language's flavour palette, which is prose; a candidate inherits it only
   by being built from declared elements. The proposer's contract places flavour
-  and shape constraints under `language`, and Eilwìthi declares none of them as
+  and shape constraints under `language`, and neither language declares them as
   data;
 - stress across the composed name;
 - readability where the two elements join: names such as `Highhaugh`,
@@ -198,14 +208,15 @@ happens when:
   a promise rather than loaded data;
 - the guide declares no alphabet, or the English list holds no word;
 - the Earth-name matcher is not a global pattern;
-- the captured index has no `aelwthlng` language record with language code `aelw`,
-  or that record lacks its `roman`, `elements` or place draw;
+- the captured index has no language record for the supported language the
+  context names (`aelwthlng` with language code `aelw`, `dunharlng` with
+  `dunh`), or that record lacks its `roman`, `elements` or place draw;
 - an element in the context is not the language's declaration at its index;
 - the candidate is not a nonempty string, or the context is outside the
   supported scope;
 - `selected` is absent, throws, is not an array or a set (a string, an iterator, a promise), or contains a non-name;
-- the language declares model lists and `earthWordLists` is absent or lacks one
-  of them.
+- the context's language declares model lists (Dunhari does) and
+  `earthWordLists` is absent or lacks one of them; Eilwìthi needs no such lists.
 
 A callback never throws and never returns a promise or thenable. An error inside
 a check is reported as unavailable.
@@ -224,8 +235,14 @@ Earth-word list, the `findings` of the Earth-name guard, or the `matches` of
 the index, each with the matching name, its `kind` (`name`, `alias`,
 `name-span`, `register` or `selected`) and, where it has one, its note address.
 
-The returned object also lists `resources` (the identities each callback read),
-`unavailable` (the reason each unavailable callback gives) and `scope`.
+The returned object also lists `resources` (the identities each callback read,
+the model-language word lists included when a supported language uses them),
+`unavailable` (the reason each callback is unavailable for every language, from
+a resource that every language needs) and `languages`. `languages` holds one
+entry per supported language, `{shortcode, languageCode, address, unavailable}`,
+whose `unavailable` maps each callback that cannot give a verdict for that
+language to its reason: a missing language record, missing model-language word
+lists, or a resource shared by every language.
 
 Pass `checks.validators` as the `validators` of the proposer.
 
@@ -233,4 +250,8 @@ Pass `checks.validators` as the `validators` of the proposer.
 
 `node --test utils/setting-checks.test.mjs` covers accepted and rejected
 candidates for each callback, every unavailable resource, and the refusal of
-asynchronous or throwing inputs. It runs with the other utility tests.
+asynchronous or throwing inputs. `node --test utils/setting-checks-dunhari.test.mjs`
+covers the Dunhari language: declared and wrong compositions, name collisions,
+model-language word lists, a language record missing from the index, undeclared
+elements, an unsupported third language and a malformed guide. Both run with the
+other utility tests.
