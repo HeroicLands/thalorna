@@ -27,6 +27,7 @@ data:
     hair_color: greying_brown
     skin_color: tanned
     complexion: [weathered]
+    face_shape: broad
     extra_features: [a scar across the chin]
   packFolder: aureldiaelavendre
 ---

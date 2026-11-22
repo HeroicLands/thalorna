@@ -27,6 +27,7 @@ data:
     hair_color: white
     skin_color: light
     complexion: [wan, wrinkled]
+    hair_style: short
     extra_features: []
   packFolder: midhalionvylaria
 ---

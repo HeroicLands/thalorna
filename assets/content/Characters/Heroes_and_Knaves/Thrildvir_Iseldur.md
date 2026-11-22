@@ -25,6 +25,7 @@ data:
     skin_color: light
     complexion: [scarred]
     mouth: small
+    nose: straight
     extra_features: [a scar above the left eyebrow]
   packFolder: ankarisnordlands
   items:

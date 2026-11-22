@@ -31,6 +31,7 @@ data:
     complexion: []
     hair_style: long
     nose: narrow
+    mouth: thin
     extra_features: []
   packFolder: ankarisnordlands
   items:

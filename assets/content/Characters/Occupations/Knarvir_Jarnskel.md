@@ -25,6 +25,7 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [ruddy]
+    hair_style: knotted
     extra_features: [a tattoo of a dolphin on the left wrist]
   packFolder: ankarisnordlands
 sohl:

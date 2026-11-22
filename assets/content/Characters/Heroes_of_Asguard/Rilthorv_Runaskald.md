@@ -26,6 +26,7 @@ data:
     complexion: [ruddy]
     hair_style: shoulder_length
     nose: upturned
+    mouth: full
     extra_features: []
   packFolder: ankarisnordlands
 sohl:

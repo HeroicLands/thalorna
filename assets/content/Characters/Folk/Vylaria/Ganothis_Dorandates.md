@@ -27,6 +27,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [sun_kissed]
+    face_shape: broad
     extra_features: [a rolling limp from bad knees]
   packFolder: midhalionvylaria
 ---

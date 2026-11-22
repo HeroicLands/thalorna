@@ -27,6 +27,7 @@ data:
     hair_color: chestnut
     skin_color: light
     complexion: [ruddy, smooth]
+    hair_style: short
     extra_features: [soft white hands with a weigher's callus on the right thumb]
   packFolder: midhalionvylaria
 ---

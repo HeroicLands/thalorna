@@ -24,6 +24,7 @@ data:
     hair_color: dark_brown
     skin_color: fair
     complexion: []
+    face_shape: long
     extra_features: [a tattoo of a crescent moon on the neck]
   packFolder: ankarisnordlands
   items:
