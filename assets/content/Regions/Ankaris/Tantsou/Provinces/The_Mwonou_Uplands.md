@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-The Mwonou Uplands are the land of [[affiliation-mwonouprv|Mwonou Province]], in the southwest of the [[place-tantsouregin|Tantsou Region]]: terraced uplands below [[place-graznmntns|the Grazian Mountains]], crossed by the long passes that come down from [[place-vedyarargn|Vedyara]]. About 26 million people live here. The city of [[place-mwonou|Mwonou]], in an upland basin, is the province's seat.
+The Mwonou Uplands are the land of [[affiliation-mwonouprv|Mwonou Province]], in the southwest of the [[place-tantsouregin|Tantsou Region]]: terraced uplands below [[place-graznmntns|the Grazian Mountains]], crossed by the long passes that come down from the [[place-vedyarargn|Vedyara Region]]. About 26 million people live here. The city of [[place-mwonou|Mwonou]], in an upland basin, is the province's seat.
 
 ## The Land {#the-land}
 

@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-The Kwozheng Marches are the land of [[affiliation-kwozhengprv|Kwozheng Province]], in the north of the [[place-tantsouregin|Tantsou Region]]: the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the far-northern [[lore-grukarfolk|Grukar]] nests. About 20 million people live here. The city of [[place-kwozheng|Kwozheng]], behind the marches, is the province's seat.
+The Kwozheng Marches are the land of [[affiliation-kwozhengprv|Kwozheng Province]], in the north of the [[place-tantsouregin|Tantsou Region]]: the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the nests of the far-northern [[lore-grukarfolk|Grukar Folk]]. About 20 million people live here. The city of [[place-kwozheng|Kwozheng]], behind the marches, is the province's seat.
 
 ## The Land {#the-land}
 
@@ -37,7 +37,7 @@ The Prince of Kwozheng, of the [[lore-zhazho|Zhazho]], holds the north for the E
 
 ## Current Situation {#present}
 
-The steppe beyond the marches is united under the warlord [[being-wogenhenzhuo|Wogen Henzhwo]], and his riders are in the northern districts. The empire has treated Grukar raids as a nuisance; the Black Wilds under Wogen are another matter.
+The steppe beyond the marches is united under the warlord [[being-wogenhenzhuo|Wogen Henzhwo]], and his riders are in the northern districts. The empire treats Grukar raids as a nuisance; the Black Wilds under Wogen are another matter.
 
 In [[lore-weizhairui|the Jade Fan Dance]] the Prince of Kwozheng takes each loss of the Prince of Mwonou as his own gain, and the Prince of Mwonou does the same by him.
 

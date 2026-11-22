@@ -21,9 +21,9 @@ The Wongsen Delta is the land of [[affiliation-wongsenprv|Wongsen Province]], th
 
 ## The Land {#the-land}
 
-The three great rivers that make the basins of the heartland end here, and the delta they build is paddy, fishing channel and port. The southern coast is subtropical, warm and wet, and gives way to mangrove shoreline at its margins. The eastern coast faces [[place-easternstrt|the Eastern Strait]] and the islands of [[place-jenchairgn|Jenchai]] across it.
+The three great rivers that make the basins of the heartland end here, and the delta they build is paddy, fishing channel and port. The southern coast is subtropical, warm and wet, and gives way to mangrove shoreline at its margins. The eastern coast faces [[place-easternstrt|the Eastern Strait]] and the islands of the [[place-jenchairgn|Jenchai Region]] across it.
 
-Rain falls on the delta while it fails elsewhere in the empire, and the harvests here have risen in the same years that the south's have withered.
+Rain falls on the delta while it fails elsewhere in the empire, and the harvests here have risen in the same years that the southern uplands' have withered.
 
 ## Peoples {#peoples}
 
@@ -31,7 +31,7 @@ The southern coast is the country of the [[lore-tantsoutribclt|Tantsou Tributary
 
 ## Who Holds It {#who-holds-it}
 
-The Prince of Wongsen, of the [[lore-zhazho|Zhazho]], holds the delta and the coasts for the Emperor, and he is the strongest and the most feared of the four Princes (_Zho Zhei_). He rules from Wongsen through his [[lore-wohou|Wohou]] officers: the Keeper of the Granaries, the Warden of the Foreign Quarter, the Commandant of the Coast with his garrisons and war junks, and the magistrates who read the Teng Lou in his courts. The tributary lords of the southern coast rank beneath his officers and above his common subjects.
+The Prince of Wongsen, of the [[lore-zhazho|Zhazho]], holds the delta and the coasts for the Emperor, and he is the strongest and the most feared of the four Princes (_Zho Zhei_). He rules from Wongsen through his [[lore-wohou|Wohou]] officers: the Keeper of the Granaries, the Warden of the Foreign Quarter, the Commandant of the Coast with his garrisons and war junks, and the magistrates who read the [Teng Lou]{.name data-type="lore/law"} in his courts. The tributary lords of the southern coast rank beneath his officers and above his common subjects.
 
 Among his [[lore-wanduo|Wandwo]] is a gifted set with an affinity for water, and the rain on the delta is credited to them.
 
@@ -43,11 +43,11 @@ Among his [[lore-wanduo|Wandwo]] is a gifted set with an affinity for water, and
 
 The other provinces have gone dry, and their Princes buy rice from the granaries of Wongsen at the price the Prince of Wongsen names. Some at court say his water-gifted sorcerers are behind the drought elsewhere. Nobody has proven it, and the saying is itself a move in [[lore-weizhairui|the Jade Fan Dance]], the court's game of intrigue. The rice of the delta goes up the rivers in barges to [[place-zhowen|Zhowen]], and the price of rice in the capital's markets follows these granaries.
 
-On the eastern coast the fleets of the Jenchai houses of Shuiwojai and Rinjai take tolls and ransoms on the strait and plunder the mainland shore. The coastal magistrates want the raids stopped and their captured officers returned, and the court has no fleet that can clear the strait.
+On the eastern coast the fleets of the Jenchai houses of the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and the [[affiliation-rinjaidmn|Rinjai Domain]] take tolls and ransoms on the strait and plunder the mainland shore. The coastal magistrates want the raids stopped and their captured officers returned, and the court has no fleet that can clear the strait.
 
 ## Roads and Trade {#roads-and-trade}
 
-The rivers carry the delta's rice, the tribute and the imperial edicts inland. Coastal trade carries less prestige than the Celestial Road and far more volume: Tantsou ships work the southern ports and reach [[place-nilatir|Nilatir]], the outport of [[place-vedyarargn|Vedyara]], and the northern coasts of [[place-xerathia|Zerathia]]. Foreign merchants trade at the ports from walled quarters, watched and taxed.
+The rivers carry the delta's rice, the tribute and the imperial edicts inland. Coastal trade carries less prestige than the Celestial Road and far more volume: Tantsou ships work the southern ports and reach [[place-nilatir|Nilatir]], the outport of the [[place-vedyarargn|Vedyara Region]], and the northern coasts of [[place-xerathia|Zerathia]]. Foreign merchants trade at the ports from walled quarters, watched and taxed.
 
 ## Dangers {#dangers}
 

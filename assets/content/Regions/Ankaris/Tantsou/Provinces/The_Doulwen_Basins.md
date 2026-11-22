@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-The Doulwen Basins are the land of [[affiliation-doulwenprv|Doulwen Province]], in the west of the [[place-tantsouregin|Tantsou Region]]: the basins below the western mountains and the passes toward the [[place-khzryndsrtrgn|Khazrin]], where [[lore-celestialroad|the Celestial Road]] comes down into the empire. About 22 million people live here. The city of [[place-doulwen|Doulwen]], where the caravans unload, is the province's seat.
+The Doulwen Basins are the land of [[affiliation-doulwenprv|Doulwen Province]], in the west of the [[place-tantsouregin|Tantsou Region]]: the basins below the western mountains and the passes toward the [[place-khzryndsrtrgn|Khazrin Desert]], where [[lore-celestialroad|the Celestial Road]] comes down into the empire. About 22 million people live here. The city of [[place-doulwen|Doulwen]], where the caravans unload, is the province's seat.
 
 ## The Land {#the-land}
 
@@ -39,7 +39,7 @@ The Prince of Doulwen, of the [[lore-zhazho|Zhazho]], holds the basins and the p
 
 The other three Princes watch the Prince of Doulwen in [[lore-weizhairui|the Jade Fan Dance]], since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
 
-When the embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] reaches the court at [[place-zhowen|Zhowen]], the Prince of Doulwen takes it up first and openly, for the foreign weight it adds to his hold on the Emperor's ear, and the other three Princes each work to turn it against him ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]).
+The Prince of Doulwen seeks foreign weight to add to his hold on the Emperor's ear, and he is the Prince who backs the request of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] for direct relations with the court at [[place-zhowen|Zhowen]] ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]).
 
 ## Roads and Trade {#roads-and-trade}
 
