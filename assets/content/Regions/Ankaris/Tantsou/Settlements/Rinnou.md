@@ -4,7 +4,7 @@ name: {full: Rinnou, en: [Red Field]}
 type: place
 subType: settlement
 description: "Rinnou, a terrace village of the Jenshou district in the Mwonou Uplands whose people are entered whole as Nwitsou, the property of the Prince's house, and whose dead are fed at the district hall in Jenshou; about 290 people."
-tags: [village, terraces]
+tags: [village, terraces, draft]
 data:
   demonym: null
   lore: [humanflk]

@@ -43,7 +43,7 @@ The tablets of Rinnou came to the hall by the one request of a dying administrat
 
 ## Hooks {#hooks}
 
-- **The description.** A traveler newly classified at the frontier needs his entry copied into the district's rolls before he may go farther, and the clerk finds a page that already describes someone very like him.
+- **The page.** A party is looking for someone it knows only by a description, and the page of the register that would find him is one the party is not allowed to see.
 - **The rice for the shelves.** The district stores are short, and a party is asked, by a household in arrears, to learn whether the rice set before the tablets of the orphaned lines is all reaching them.
 - **The second reading.** A Tanchei master who teaches the second reading wants the sealed entry of the seventh year compared with the copies the schools learn from, and the district registrar must be persuaded to open its case.
 
