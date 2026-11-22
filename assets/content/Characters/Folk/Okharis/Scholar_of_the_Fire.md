@@ -396,11 +396,11 @@ A Scholar of the Fire wears a plain robe and leather sandals, carries a reed pen
 
 # Dossier {#dossier}
 
-The Talithari Nkaring, the Scholar of the Fire, is the ordained priest of [[place-zarhanis|The First Flame]] (Zarhanis) and of [[affiliation-nkaruthar|The Eternal Flame]] there, the rung of its ladder above the Students of the Flame. The Scholars keep the Flame's doctrine, tend its fires and give the ashmark at a passage, teach the Students, and read the temple's registers of grain, herds and dues.
+The Talithari Nkaring, the Scholar of the Fire, is the ordained priest of [[place-zarhanis|The First Flame]] (Zarhanis) and of [[affiliation-nkaruthar|The Eternal Flame]] there, the rung of its ladder above the Students of the Flame. The Scholars keep the Flame's doctrine, teach the Students and read the temple's registers of grain, herds and dues.
 
 ## Background
 
-A Scholar of the Fire is received into the temple as a Student of the Flame, learns the sacred characters and the archaic register of scripture under instruction, and is ordained after [The Trial of Three Flames]{.name data-type="lore/custom"}.
+A Scholar of the Fire is received into the temple as a Student of the Flame, learns the sacred characters and the archaic register of scripture under instruction, and is ordained after instruction and the temple's examination of the sacred characters.
 
 ## Psyche
 
@@ -433,5 +433,5 @@ A Scholar of the Fire answers to the senior priests of the temple and serves the
 3. **Ashmarks in a feud season.** A Scholar of the Fire sent to give the ashmark at a remote clan's passages wants an escort across grazing that two clans are disputing.
 
 :::secret {title="The registers and the fire"}
-**For the GM:** In [[scenario-shuremisadv|The Hearth Without Light]], Talitho, a Scholar of the Fire, found in the temple's records the order that sealed the shurem in the Ash-Fold's pens, said so aloud in the moot-hall and was put out of the Flame. He feeds the lightless fire beneath the granary and believes it will be the shurem's hearth.
+**For the GM:** In [[scenario-shuremisadv|The Hearth Without Light]], the Scholar of the Fire put out of the Flame found in the temple's records the order that sealed the shurem in the Ash-Fold's pens, said so aloud in the moot-hall and was put out of the Flame for it. The Scholar feeds the lightless fire beneath the granary and believes it will be the shurem's hearth.
 :::
