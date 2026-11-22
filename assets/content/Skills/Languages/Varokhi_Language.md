@@ -5179,12 +5179,14 @@ data:
     - {name: Falkenstein, kind: place, built: [falk-, -en-, -stein], gloss: the falcons' crag}
     - {name: Grimholt, kind: place, built: [grim-, -holt], gloss: the fierce copse}
     - {name: Grimhreth, kind: place, built: [grim-, -hreth], gloss: the fierce ford}
+    - {name: Skathak, kind: place, built: [skath-, -ak], gloss: the harm thicket}
     - name: Skathengrund
       kind: place
       built: [skath-, -en-, -grund]
       gloss: the harm's bottom land
     - {name: Thalreth, kind: place, built: [thal-, -reth], gloss: the clearing in the dale}
     - {name: Thornhaven, kind: place, built: [thorn-, -haven], gloss: the haven among the thorns}
+    - {name: Thraholt, kind: place, built: [thrá-, -holt], gloss: the unyielding copse}
     - {name: Vristwald, kind: place, built: [vrist-, -wald], gloss: the free wood}
     - {name: Waldburg, kind: place, built: [wald-, -burg], gloss: the wood's stronghold}
     - {name: Armund, tongue: varokhi}
