@@ -29,7 +29,7 @@ data:
 # terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar)—the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
 ---
 
-> At the frontier way-station beyond [[place-jnanadvar|Jnanadvar]] the registrar's second daughter, a Tanchei in a scholar's blue robe, walks a newly classified merchant to the eastern gate and points down the valley with her closed fan. "Everything below us is written down," she says. "Every terrace has a lineage, every lineage has a page, and every page has a seal. You are on the page now. Do not step off it."
+> At [[place-kwisen|Kwisen]], the frontier way-station beyond [[place-jnanadvar|Jnanadvar]], the registrar's second daughter, a Tanchei in a scholar's blue robe, walks a newly classified merchant to the eastern gate and points down the valley with her closed fan. "Everything below us is written down," she says. "Every terrace has a lineage, every lineage has a page, and every page has a seal. You are on the page now. Do not step off it."
 
 ## Overview {#overview}
 

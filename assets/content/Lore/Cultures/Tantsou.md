@@ -115,13 +115,13 @@ The Tantsou value most exactness, precedence, patience with procedure and the ke
 
 ## The Man Admired
 
-[Weng Hen Rau Chai]{.name data-type="being/npc"}, "Wind Tiger Roars Across Thunder Mountain," is the Tantsou's admired soldier. He was a Wohou officer known for years only as the Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [Tengmou]{.name data-type="place/settlement"}, a description a registry clerk could file and no more. He led his troops to a victory that saved a province, and his liege lord granted him the name for the fury of his charge. He has signed nothing else since.
+[Weng Hen Rau Chai]{.name data-type="being/npc"}, "Wind Tiger Roars Across Thunder Mountain," is the Tantsou's admired soldier. He was a Wohou officer known for years only as the Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [[place-tengmou|Tengmou]], a description a registry clerk could file and no more. He led his troops to a victory that saved a province, and his liege lord granted him the name for the fury of his charge. He has signed nothing else since.
 
 The Tantsou admire in him the thing their histories prize: a man of the third caste, neither Prince nor Emperor, who did the work his classification gave him so thoroughly that the court registers had to find room for it. His name is a single deed, entered beside the old description that is never struck out, and he does not try to be more than the deed. His cost is the cost of the name. Everything he does is read against the charge, and an officer who is only ever his best day is expected to produce it again.
 
 ## The Woman Admired
 
-[Zhi Zhai Leng Cheng]{.name data-type="being/npc"}, "Rising Bright Star Bird," is the Tantsou's admired scholar. She was known as the Third Daughter of the Sage of the [Zhi Zhai Clan]{.name data-type="affiliation/lineage"}, near [Weichai]{.name data-type="place/settlement"}, until she observed and recorded a new star that her seniors had missed. The court registers carry the star under her name, and the grant of her own name followed from it.
+[Zhi Zhai Leng Cheng]{.name data-type="being/npc"}, "Rising Bright Star Bird," is the Tantsou's admired scholar. She was known as the Third Daughter of the Sage of the [Zhi Zhai Clan]{.name data-type="affiliation/lineage"}, near [[place-weichai|Weichai]], until she observed and recorded a new star that her seniors had missed. The court registers carry the star under her name, and the grant of her own name followed from it.
 
 The Tantsou admire in her the exactness of the Tanchei at its best: she looked, she set down what she saw, and she filed it in the form the registers could hold. Her admiration is not a lesser form of the officer's. He keeps the classification in place by force, and she widens it by finding what it had not yet recorded. Her cost is the one correction carries in a society that ranks precedence before accuracy: the star she found is also the measure of what her seniors missed.
 

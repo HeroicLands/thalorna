@@ -5147,6 +5147,7 @@ data:
     - {name: Chougen, tongue: tanvuri, built: [chou, gen]}
     - {name: Choulei, tongue: tanvuri, built: [chou, lei]}
     - {name: Chou Sei, tongue: tanvuri, built: [chou, sei]}
+    - {name: Chwonou, tongue: tanvuri, built: [chwo, nou]}
     - {name: Clerk, tongue: translation}
     - {name: Clerk of Transmission, tongue: translation}
     - {name: Client, tongue: translation}
@@ -5212,6 +5213,7 @@ data:
     - {name: Iron Gate of the Winter Mountain, tongue: translation}
     - {name: Iron Spear Piercing the Clouds, tongue: translation}
     - {name: Jade Fan Dance, tongue: translation}
+    - {name: Jaunou, tongue: tanvuri, built: [jau, nou]}
     - {name: Jenshou, tongue: tanvuri, built: [jen, shou]}
     - {name: Keeper of Leverage, tongue: translation}
     - {name: Keeper of the District Granaries, tongue: translation}
@@ -5222,6 +5224,7 @@ data:
     - {name: Keeper of the Sacred Texts, tongue: translation}
     - {name: Kin by Blood, tongue: translation}
     - {name: Kin by Marriage, tongue: translation}
+    - {name: Kwisen, tongue: tanvuri, built: [kwi, sen]}
     - {name: Kwozheng, tongue: tanvuri, built: [kwo, zheng]}
     - {name: Kwozheng Province, tongue: translation}
     - {name: Lanei, tongue: tanvuri, built: [la, nei]}
@@ -5323,6 +5326,7 @@ data:
     - {name: Teng Chou, tongue: tanvuri, built: [teng, chou]}
     - {name: Teng Chou Script, tongue: translation}
     - {name: Teng Gwi, tongue: tanvuri, built: [teng, gwi]}
+    - {name: Tengmou, tongue: tanvuri, built: [teng, mou]}
     - {name: Tengwou Rong Lei, tongue: tanvuri, built: [teng, wou, rong, lei]}
     - {name: The Archive of All Records, tongue: translation}
     - {name: The Black Lotus, tongue: translation}
@@ -5342,6 +5346,7 @@ data:
     - {name: The Custodian of Lost Seals, tongue: translation}
     - {name: The Demon Realm, tongue: translation}
     - {name: The Demon-Swarm, tongue: translation}
+    - {name: The District Hall of Jenshou, tongue: translation}
     - {name: The Doulwen Basins, tongue: translation}
     - {name: The First Classifier, tongue: translation}
     - {name: The First Refusal, tongue: translation}
@@ -5393,6 +5398,7 @@ data:
     - {name: Watcher, tongue: translation}
     - {name: Watsai, tongue: tanvuri, built: [wa, tsai]}
     - {name: Wei Zhai Rwi, tongue: tanvuri, built: [wei, zhai, rwi]}
+    - {name: Weichai, tongue: tanvuri, built: [wei, chai]}
     - {name: Weizhwo, tongue: tanvuri, built: [wei, zhwo]}
     - {name: "Weizhwo Daunei, the Jade Sovereign", tongue: translation}
     - {name: Wengdau Zhouwo, tongue: tanvuri, built: [weng, dau, zhou, wo]}
