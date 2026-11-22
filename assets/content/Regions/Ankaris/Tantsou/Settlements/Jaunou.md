@@ -28,11 +28,11 @@ In an ordinary year the town lives by the rice and millet of its paddies and ter
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The Prince of Mwonou holds the district through his [[lore-wohou|Wohou]] officers. A magistrate reads the Teng Lou in his court at Jaunou, hears the famine petitions of the district and collects the tribute, which the district owes in a bad year as in a good one.
+The Prince of Mwonou holds the district through his [[lore-wohou|Wohou]] officers. A magistrate reads the [Teng Lou]{.name data-type="lore/law"} in his court at Jaunou, hears the famine petitions of the district and collects the tribute, which the district owes in a bad year as in a good one.
 
 ## The Present {#present}
 
-Jaunou is hungry. The households feed their dead before their children, as the ledger of [[lore-ancstrwrshp|Ancestor Worship]] requires, and a household that cannot keep the Festival of the Dead properly faces a year with weakened advocates in heaven. The famine petitions come to the magistrate faster than he can answer them.
+Jaunou is hungry. The households feed their dead before their children, as the ledger of [[lore-ancstrwrshp|Ancestor Worship]] requires, and a household that cannot keep the [Festival of the Dead]{.name data-type="lore/gathering"} properly faces a year with weakened advocates in heaven. The famine petitions come to the magistrate faster than he can answer them.
 
 The [[lore-tanchei|Tanchei]] of the district are divided over the cause. One school reads a breakdown of classification in the domains of Earth and Water; the other reads a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening, and puts nothing in writing. At court, some say the drought is the work of the water-gifted [[lore-wanduo|Wandwo]] of the Prince of Wongsen, who sells the rice that feeds the town; nobody has proven it. In other districts of the uplands the [[lore-nouwen|Nouwen]] have risen against their lords and against the magistrates who collect the tribute.
 

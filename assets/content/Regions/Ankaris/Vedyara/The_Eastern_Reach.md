@@ -26,7 +26,7 @@ Below the Gorges the ground falls into forest that no janpoda has ever sent an a
 
 ## The Other Side
 
-[[affiliation-tantsouempr|Tantsou]] maintains a way-station beyond the throat of Jnanadvar and takes an official, documented interest in who comes through it. The celestial administration's standard position is that geography west of the Reach becomes progressively less reliable, and its frontier officers have found this position compatible with keeping an accurate register of every Vedyari caravan for four hundred years.
+[[affiliation-tantsouempr|Tantsou]] maintains a way-station, [[place-kwisen|Kwisen]], beyond the throat of Jnanadvar and takes an official, documented interest in who comes through it. The celestial administration's standard position is that geography west of the Reach becomes progressively less reliable, and its frontier officers have found this position compatible with keeping an accurate register of every Vedyari caravan for four hundred years.
 
 ## See Also {#see-also}
 

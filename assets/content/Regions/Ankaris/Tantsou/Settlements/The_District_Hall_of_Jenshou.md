@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-The District Hall of Jenshou is the registrar's hall of the district of [[place-jenshou|Jenshou]] in [[affiliation-mwonouprv|Mwonou Province]]. It stands in the lower town, on the mound above the nine channels, and the floods that have taken the upper town have never reached it. Every person of the district is entered in its register, by caste, clan, position and place, and every terrace by its boundary-stones.
+The District Hall of Jenshou is the registrar's hall of the district of [[place-jenshou|Jenshou]] in [[affiliation-mwonouprv|Mwonou Province]]. It stands in the lower town, on the mound above the nine channels, and the flood that took the upper town never reached it. Every person of the district is entered in its register, by caste, clan, position and place, and every terrace by its boundary-stones.
 
 A party comes here to be entered, to have a classification read or corrected, or to find a person by the description the register gives. Others come to see a page they are not allowed to see.
 
@@ -25,7 +25,7 @@ A party comes here to be entered, to have a classification read or corrected, or
 
 The register fills the hall: bound rolls of the district's persons and terraces in their cases, the annal of Jenshou beside them, and the district's seal. The hall's bell hangs above the cases; the annal records it ringing without a hand when the ground shook.
 
-At the back of the hall stand the shelves of the dead. Four hundred and six tablets are of the lines the old flood left without an heir, recovered from the shrines under the water. Beside them stand the tablets of [[place-rinnou|Rinnou]], whose people are [[lore-noutsou|Nwitsou]] and keep no line. The district sets rice before them at every death-day and at the Festival of the Dead, and the cost is entered to the district.
+At the back of the hall stand the shelves of the dead. Four hundred and six tablets are of the lines the old flood left without an heir, recovered from the shrines under the water. Beside them stand the tablets of [[place-rinnou|Rinnou]], whose people are [[lore-noutsou|Nwitsou]] and keep no line. The district sets rice before them at every death-day and at the [Festival of the Dead]{.name data-type="lore/gathering"}, and the cost is entered to the district.
 
 ## Who Is There {#who-is-there}
 

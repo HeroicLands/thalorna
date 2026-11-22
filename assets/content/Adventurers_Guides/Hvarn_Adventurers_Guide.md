@@ -36,7 +36,7 @@ Nothing is written, so what the Hvarn keep they say aloud, and anyone may put it
 ## Places and Dangers
 
 - [[place-nurvhrn|Nurvharn]] is the winter house and the council's seat. Lowlanders come only for the renewal of the fort contract, every third year, and nobody has been invited to stay the winter in four centuries.
-- [[place-jnanadvar|Jnanadvar]], the scholars' door, takes a month and a half to reach Tantsou's western frontier, where a Tantsou way-station records every traveler in a register no Vedyari has been allowed to see.
+- [[place-jnanadvar|Jnanadvar]], the scholars' door, takes a month and a half to reach Tantsou's western frontier, where the Tantsou way-station of [[place-kwisen|Kwisen]] records every traveler in a register no Vedyari has been allowed to see.
 - [[place-shankhadvr|Shankhadvar]], the conch-door, is the worst crossing on the wall: a shelf above an unmeasured gorge, two months to anywhere, two or three parties in a good year.
 - [[place-sangrafort|The Sangra-fort]] on the conch-door col holds sixty men and lives on Hvarn pack-trains. [[affiliation-shikhalaya|Shikhalaya]] resents the arrangement, and the Hvarn decline to discuss it.
 - The storms of the Reach come up the eastern valleys without warning, and a storm-reader's refusal ends a day's travel.

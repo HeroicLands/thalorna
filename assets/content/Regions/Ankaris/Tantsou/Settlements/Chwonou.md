@@ -20,7 +20,7 @@ data:
 
 Chwonou, the Ranked Fields, is the terrace village on the hill above [[place-weichai|Weichai]] in [[place-mwonouplnd|the Mwonou Uplands]], with about 260 people. Its [[lore-nouwen|Nouwen]] households are named for their terraces, counted up the hill: the Second Terrace, the [Third Terrace]{.name data-type="place/site"}, the Fifth. Each lineage cut its terrace out of the hillside by hand, wall course on wall course, and keeps it in the register by its boundary-stones. A quarrel between terraces over a boundary-stone goes to the clan elders.
 
-The Third Terrace is the household of the [Mou Clan]{.name data-type="affiliation/lineage"}, which has kept it in the register for thirty generations. Its account to its dead, read at the Festival of the Dead, is the one the Leigen of Weichai teach every terrace heir from: [[lore-hearthaccount|The Hearth Account of the Third Terrace]]. The men of the village go down to the corvée on the river dike every Month of Earth, and some of its brides come up by the bonding from the river village below Weichai.
+The Third Terrace is the household of the [Mou Clan]{.name data-type="affiliation/lineage"}, which has kept it in the register for thirty generations. Its account to its dead, read at the [Festival of the Dead]{.name data-type="lore/gathering"}, is the one the [[lore-ancstrwrshp|Leigen]] of Weichai teach every terrace heir from: [[lore-hearthaccount|The Hearth Account of the Third Terrace]]. The men of the village go down to the corvée on the river dike every Month of Earth, and some of its brides come up by the bonding from the river village below Weichai.
 
 ## See Also {#see-also}
 
