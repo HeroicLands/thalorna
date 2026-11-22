@@ -41,7 +41,8 @@ The climate is continental: cold snowy winters, warm humid summers, distinct spr
 to a country from outside, by people describing where the Grukar are.
 
 The land came by the name honestly enough. Nobody else wanted it—cold, wet, forested, marshy,
-agriculturally worthless—so nobody else took it, and over a long time it filled up with Grukar. Naming
+agriculturally worthless but for a few river meadows and old clearings that nobody ploughs while a nest
+hunts over them—so nobody else took it, and over a long time it filled up with Grukar. Naming
 it after them is simple accuracy on a chart. It is not a statement about how they are organized, and
 Nordmen and Vristwaldik usage that speaks of "the Grukar king" is a convenience of grammar with nothing
 behind it.
@@ -93,15 +94,15 @@ That knowledge does not keep. Nests appear and die: a tribe that outgrows its gr
 The nests known as the setting stands:
 
 - The nests of [[place-skathengrund|Skathengrund]], the Drowned Country, the marsh at the center of the region. They are scattered through it and reached by canoe, by cause-walks of sunken logs, or by paths no outsider can see.
-- The nest at the far end of [[place-grimhreth|Grimhreth]], a cause-walk of sunken logs that this nest lays from the forest of [[place-skathwald|Skathwald]] into the marsh.
-- The nests upstream of [[place-zvekbregad|Zvek Bregad]], whose raiding canoes come down the rivers to that landing in summer. The landing itself is a Velanthian bank.
-- [[place-grimak|Grimak]], the blood-field in Skathwald's marsh, where the Skathwald villages burned a nest with its spawner in it, and where a new tribe is budding at the thicket's edge. It is both what a dead nest leaves and where a new one stands.
+- [[place-skathak|Skathak]], the nest at the far end of [[place-grimhreth|Grimhreth]], a cause-walk of sunken logs that this nest lays from the forest of [[place-skathwald|Skathwald]] into the marsh.
+- [[place-lervobor|Lervobor]], the nests upstream of [[place-zvekbregad|Zvek Bregad]], whose raiding canoes come down the rivers to that landing in summer. The landing itself is a Velanthian bank.
+- [[place-grimak|Grimak]], the blood-field in Skathwald's marsh, where the Skathwald villages burned a nest with its spawner in it, and [[place-thraholt|Thráholt]], where a new tribe is budding at the thicket's edge. Grimak is what a dead nest leaves, and Thráholt is where a new one stands.
 
 The forts within the region are Velanthian: [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]] are the paid forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]. They stand inside the region, on the Velanthian edge of the thickest Grukar country, and they watch the rivers and the raiding paths. The Skathwald villages that face the nests on the west are Varokh villages of Vristwald.
 
 ## Current Situation {#present}
 
-The nests hold the country and no neighbor contests it with an army. The Skathwald villages spend on their walls. On the Velanthian side the stone forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] watch the raiding paths from the southeast. Their prince, [Krodogor Brevogorich]{.name data-type="being/npc"}, appoints every warden and cannot pay them on time, and the wardens, paid, tired and owed months, sell a night's passage to the fur hunters who work the margins. The hunters come out with what they can carry, and a hunter who goes in past the last fort is on his own: no warden follows him and no nest bargains with him. The warden of [[place-trvgrfrt|Torvogor Fort]], [[being-krvgrlrvkv|Karvogor Lervikov]], keeps the bell and the roll for the landing at [[place-zvekbregad|Zvek Bregad]], and [[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]], a Varokh hunter, crosses the cause-walk at [[place-grimhreth|Grimhreth]] to reach the margin.
+The nests hold the country and no neighbor contests it with an army. The Skathwald villages spend on their walls. On the Velanthian side the stone forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]] watch the raiding paths from the southeast. Their prince, [[being-krdgrbrvgrch|Krodogor Brevogorich]], appoints every warden and cannot pay them on time, and the wardens, paid, tired and owed months, sell a night's passage to the fur hunters who work the margins. The hunters come out with what they can carry, and a hunter who goes in past the last fort is on his own: no warden follows him and no nest bargains with him. The warden of [[place-trvgrfrt|Torvogor Fort]], [[being-krvgrlrvkv|Karvogor Lervikov]], keeps the bell and the roll for the landing at [[place-zvekbregad|Zvek Bregad]], and [[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]], a Varokh hunter, crosses the cause-walk at [[place-grimhreth|Grimhreth]] to reach the margin.
 
 Raids come as small parties along the rivers and the cause-walks, and the villages beneath the forts ring their bells and burn signal fires as each party passes. The tribes' own fighting keeps their numbers below what the land could feed, and none of them has combined with another.
 
