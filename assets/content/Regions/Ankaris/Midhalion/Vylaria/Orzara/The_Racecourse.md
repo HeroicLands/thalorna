@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The Rathauna Melvar, Orzara's colossal racecourse in the valley between Antel and Nerval, where the racing factions run their chariots, the throne stages its games, and a quarter-million voices tell the Orzas the mood of his city."
 tags: [vylaria, orzara]
-data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder: vylaria}
+data: {demonym: null, lore: [], parents: [orzara], population: {actual: null}, packFolder: vylaria}
 ---
 
 ## Overview {#overview}

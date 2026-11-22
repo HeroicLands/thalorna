@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The lower house of the Sacred Forge on Thumbalero, at the ford half a day out of Tsaberis, two acolytes and a forge whose fire went out in the winter."
 tags: [temple, mountain, pilgrimage]
-data: {demonym: null, lore: [], parents: [thumbalero], population: null, packFolder: tarvenia}
+data:
+  demonym: null
+  lore: []
+  parents: [thumbalero]
+  population: {actual: null}
+  packFolder: tarvenia
 ---
 
 Hrethumba is the lower house of [[affiliation-sacredforge|the Sacred Forge]] on [[place-thumbalero|Thumbalero]], the pilgrims' path from [[place-tsaberis|Tsaberis]] to [[place-lezkora|Lezkora]]. It stands at the ford of a stream off the plateau's west face, half a day out of Tsaberis, and its name is _hreth_ (a ford) and _thumba_ (a forge). It is a forge under a slate roof, a hall with one hearth and a pilgrims' room, kept by two acolytes. A smith coming down the path with an ember from Lezkora feeds it here for the last time before he goes home.

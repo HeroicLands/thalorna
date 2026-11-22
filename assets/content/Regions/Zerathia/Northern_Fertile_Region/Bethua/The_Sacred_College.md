@@ -41,7 +41,7 @@ data:
         description: >-
           The sovereign, supreme priestess of Lusinia and First of the College.
   seat: bethura
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [mtrrchybth]

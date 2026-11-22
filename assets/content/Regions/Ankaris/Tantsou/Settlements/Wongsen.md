@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [wongsendlta]
-  population: 80000
+  population: {actual: 80000}
   type: city
   market: international
   government: wongsenprv

@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The High King's hall on the lip of the plateau at Lezkora, where the lords of Tarvénia elect a High King, hear him swear the terms and light his hearth from the Sacred Forge."
 tags: [hall]
-data: {demonym: null, lore: [], parents: [lezkora], population: 0, packFolder: tarvenia}
+data: {demonym: null, lore: [], parents: [lezkora], population: {actual: 0}, packFolder: tarvenia}
 ---
 
 The High Hall—Harka Thelvar in Tarveni—is the hall of the High King of [[affiliation-kingdmtrvn|Tarvénia]] on the eastern lip of the plateau at [[place-lezkora|Lezkora]]. It is a long building of gray stone with a roof of stone slabs, plain enough that a stranger takes it for a great barn, and it stands so close to the edge that its east wall is the cliff. Every High King since the first has been elected under its roof.

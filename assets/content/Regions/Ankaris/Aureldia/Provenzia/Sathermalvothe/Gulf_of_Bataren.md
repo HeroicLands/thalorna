@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "The wide bight of the cold ocean between the western shores of Provénzia and Élavendre—the water of the one deep harbor on an ocean coast otherwise made of cliffs, and the kingdom's whole window on the northern sea-roads."
 tags: [coastal]
-data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [sathvothe]
+  population: {actual: null}
+  packFolder: provenzia
 ---
 
 The [[place-provenzrgn|Provénzia Region]]'s western shore is a cliff coast: craggy, wind-scoured and almost entirely useless to

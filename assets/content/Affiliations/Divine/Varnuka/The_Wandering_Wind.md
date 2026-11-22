@@ -35,7 +35,7 @@ data:
       The Silent Caravan: >-
         A full season accompanying a merchant caravan, speaking only the ceremonial words of the rites and serving the company as directed.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [pvnjtrsdty]
   parents: [vrnkpnthn]

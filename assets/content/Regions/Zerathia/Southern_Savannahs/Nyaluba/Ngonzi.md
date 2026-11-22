@@ -54,7 +54,7 @@ data:
       Griot of the Ngonzi: >-
         Keeps the eagle genealogies and the clan's account of whose dead the builders were.
   seat: ndelushivlg
-  population: 300000
+  population: {actual: 300000}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk, eaglengonzispr]
   parents: [nylbtrblntn]

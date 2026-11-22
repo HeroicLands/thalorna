@@ -15,7 +15,7 @@ data:
     - {to: valarencity, bearing: W, mode: land, days: 2, terrain: [coast, road]}
     - {to: valarencity, bearing: W, mode: ship, days: 1, terrain: [coast]}
     - {to: kalveza, bearing: E, mode: ship, days: 2, terrain: [coast]}
-  population: 6000
+  population: {actual: 6000}
   market: regional
   type: town
   government: kngdmprvnz

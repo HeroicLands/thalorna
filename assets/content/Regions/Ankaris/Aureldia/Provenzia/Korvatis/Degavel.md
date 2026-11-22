@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [korvathis]
-  population: 300000
+  population: {actual: 300000}
   borders: [{to: ravenshold, bearing: W}]
   government: kngdmprvnz
   packFolder: provenzia

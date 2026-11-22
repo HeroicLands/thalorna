@@ -47,8 +47,8 @@ data:
       Zabet'lutu: >-
         Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
   seat: anlaghzetun
-  population: 8000000
-  territorial_population: 8000000
+  population: {actual: 8000000}
+  territorial_population: {actual: 8000000}
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [empireakhlth]

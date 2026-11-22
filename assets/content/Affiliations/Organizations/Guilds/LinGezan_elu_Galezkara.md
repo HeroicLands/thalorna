@@ -26,7 +26,7 @@ data:
           Pursues the debts the courts have confirmed, in place of the state's own enforcement.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

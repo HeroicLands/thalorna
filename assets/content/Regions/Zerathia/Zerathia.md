@@ -10,7 +10,7 @@ data:
   lore: [humanflk, flksenali, flkkhazar]
   parents: [worldthlrn]
   borders: [{to: sandvsmdr, bearing: E}]
-  population: 29000000
+  population: {actual: 29000000}
   packFolder: xerathia
 
 # terran_analog: Africa

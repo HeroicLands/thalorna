@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [swoasisbelt]
-  population: 45000
+  population: {actual: 45000}
   market: regional
   type: city
   government: tribestrzd

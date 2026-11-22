@@ -38,7 +38,7 @@ data:
       Keeper of the Drawings: >-
         Held by Kin of the House. Keeps the house's drawings under lock, copies them for the yards that pay for them, and knows where every copy is.
   seat: bazunel2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [bazunel]

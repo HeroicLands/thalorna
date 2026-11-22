@@ -39,7 +39,7 @@ data:
       Shaman: Keeper of the storm rites and the weather-reading, who says when the camps scatter and when they gather.
       War Captain: Leader of a raid, held by whoever the riders follow.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

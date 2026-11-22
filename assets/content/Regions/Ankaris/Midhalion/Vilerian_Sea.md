@@ -23,7 +23,7 @@ data:
     - {to: helionis, bearing: NE}
     - {to: bethuargn, bearing: S}
     - {to: okharisrgn, bearing: S}
-  population: null
+  population: {actual: null}
   packFolder: midhalion
 
 # terran_analog: The Mediterranean Sea

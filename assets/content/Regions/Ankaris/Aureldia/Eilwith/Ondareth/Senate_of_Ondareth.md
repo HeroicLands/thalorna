@@ -40,7 +40,7 @@ data:
       Clerk of the Senate: >-
         Held by a Servant of the Senate, appointed by the First Senator. Keeps the roll of the chamber, the record of its decrees and its correspondence, and reads each decree aloud on the Senate house steps.
   seat: thornbury
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [affiliation-repblcndrth]

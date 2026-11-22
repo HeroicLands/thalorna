@@ -15,7 +15,7 @@ data:
     - {to: malagna, bearing: NE}
     - {to: velanthrgn, bearing: SE}
   parents: [ankrscntnnt]
-  population: 50000
+  population: {actual: 50000}
   packFolder: grukarholm
 
 # terran_analog: "Belarus—a forest-and-marsh region overlying eastern Vristwald and western Velanthia."

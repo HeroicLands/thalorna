@@ -57,7 +57,7 @@ data:
         The faith's knightly order.
   seat: null
   range: [provenzrgn, eilwith]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [ardavondty]
   parents: [arldnpnthn]

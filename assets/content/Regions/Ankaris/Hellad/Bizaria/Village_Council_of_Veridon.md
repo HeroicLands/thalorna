@@ -25,8 +25,8 @@ data:
           Lives in Veridon under its council.
     offices: {}
   seat: veridon
-  population: null
-  territorial_population: 600
+  population: {actual: null}
+  territorial_population: {actual: 600}
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

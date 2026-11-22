@@ -33,7 +33,7 @@ data:
         description: >-
           The reigning sovereign of the house, crowned Meqes.
   seat: galezkara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [empireakhlth]

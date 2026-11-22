@@ -33,7 +33,7 @@ data:
           Leads the order's secret work, answering only to a hidden hov's own gudi.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

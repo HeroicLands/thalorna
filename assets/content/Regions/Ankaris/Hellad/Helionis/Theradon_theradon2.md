@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [helionis]
-  population: 6000
+  population: {actual: 6000}
   market: regional
   type: town
   government: theradon

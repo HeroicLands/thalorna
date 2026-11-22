@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [gadjumuluslt]
-  population: 5400
+  population: {actual: 5400}
   type: town
   market: regional
   packFolder: regkhsett

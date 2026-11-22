@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "The great upland lake of Talote, Provénzia's eastern march—settled, prosperous and orderly in a country otherwise given over to the Tarvénian frontier, with a blood-field on its shore that replays out over the water."
 tags: [lakeside, mountain]
-data: {demonym: null, lore: [], parents: [talothe], population: null, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [talothe]
+  population: {actual: null}
+  packFolder: provenzia
 ---
 
 **Lake Tiravel** lies in the eastern uplands, in a broad basin below the Tarvénian passes—a large,

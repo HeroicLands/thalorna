@@ -9,7 +9,8 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [jenchairgn]
-  population: 20000 # computed from the people of the imperial district the mountain carries
+  # computed from the people of the imperial district the mountain carries
+  population: {actual: 20000}
   government: jenchaiempr
   packFolder: jenchai
   culture: jenchaiclt

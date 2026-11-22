@@ -14,7 +14,7 @@ data:
     - {to: okharisrgn, bearing: W}
     - {to: sthmrchsrgn, bearing: S}
     - {to: vylarianse, bearing: N}
-  population: 3000000
+  population: {actual: 3000000}
   packFolder: bethua
   government: mtrrchybth
   culture: bethuanclt

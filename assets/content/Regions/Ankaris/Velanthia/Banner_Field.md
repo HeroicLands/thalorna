@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk, thrdorqwnq]
   parents: [velanthrgn]
-  population: null
+  population: {actual: null}
   packFolder: velanthia
 ---
 

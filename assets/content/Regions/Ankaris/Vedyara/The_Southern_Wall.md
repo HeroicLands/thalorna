@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [graznmntns]
-  population: null
+  population: {actual: null}
   packFolder: vedyara
   culture: osketclt
 ---

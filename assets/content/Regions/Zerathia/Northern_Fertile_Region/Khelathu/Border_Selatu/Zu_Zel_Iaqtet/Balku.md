@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [zuzeliaqtetnome]
-  population: 22000
+  population: {actual: 22000}
   type: city
   market: regional
   packFolder: regkhsett

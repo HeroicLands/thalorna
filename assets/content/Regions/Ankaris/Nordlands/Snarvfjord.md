@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
+  population: {actual: null}
   packFolder: nordlands
   notes: "A fjord seat of the Nordlands and court of the cautious Jarl Hvurnvir, who decides nothing of weight without Hnirmil the Wise."
 ---

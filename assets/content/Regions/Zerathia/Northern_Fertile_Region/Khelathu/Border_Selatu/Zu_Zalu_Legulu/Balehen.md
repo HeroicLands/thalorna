@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [zuzalulegulunome]
-  population: 5700
+  population: {actual: 5700}
   type: town
   market: regional
   packFolder: regkhsett

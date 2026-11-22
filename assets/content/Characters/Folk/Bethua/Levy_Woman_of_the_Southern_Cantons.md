@@ -8,7 +8,7 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [commoner, warrior]
+  archetypes: [warrior]
   occupation: Levy Woman
   lore: []
   culture: bethuanclt

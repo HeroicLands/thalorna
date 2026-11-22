@@ -43,7 +43,7 @@ data:
         An initiate attached to a single teacher rather than to the faith at large.
   seat: null
   range: [ankrscntnnt]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [karnavosdty]
   parents: [arldnpnthn]

@@ -33,7 +33,7 @@ data:
           Leads the order's forge-masters, judged on the work the forge-hov produces as much as on devotion.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

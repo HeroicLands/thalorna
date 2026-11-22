@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [auldalon]
-  population: 280
+  population: {actual: 280}
   market: local
   type: village
   government: thrglnklps

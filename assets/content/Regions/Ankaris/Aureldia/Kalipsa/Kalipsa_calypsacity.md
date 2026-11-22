@@ -12,7 +12,7 @@ data:
   routes:
     - {to: kalipsarun, bearing: E, mode: ship, days: 1, terrain: [coast, open-sea, coast]}
     - {to: calypsashore, bearing: S, mode: land, days: 1, terrain: [road, hills]}
-  population: 28000
+  population: {actual: 28000}
   market: international
   type: city
   government: calypsa

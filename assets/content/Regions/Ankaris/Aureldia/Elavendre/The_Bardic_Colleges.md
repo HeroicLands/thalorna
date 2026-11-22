@@ -37,7 +37,7 @@ data:
       Archivist: >-
         Held by one Bard of the Circle. Keeper of a College's library of songs and genealogies.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

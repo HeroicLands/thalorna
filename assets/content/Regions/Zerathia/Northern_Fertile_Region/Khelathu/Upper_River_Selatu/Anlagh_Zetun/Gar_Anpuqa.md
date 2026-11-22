@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [anlaghztnslt]
-  population: 880
+  population: {actual: 880}
   type: village
   market: local
   government: selatnlghztn

@@ -6,7 +6,12 @@ subType: site
 
 description: "A crumbling ruin in the northern borderlands, older than any settlement around it and sacred to the Áelendan and the Senali alike—whose purpose nobody now knows and whose contents are the subject of persistent, dangerous rumor."
 tags: [sacred, woodland, border]
-data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [sathvothe]
+  population: {actual: null}
+  packFolder: provenzia
 ---
 
 Deep in the borderlands between the [[place-provenzrgn|Provénzia Region]] and

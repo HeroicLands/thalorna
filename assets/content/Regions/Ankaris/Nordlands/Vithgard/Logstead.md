@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [vithgard]
+  population: {actual: null}
   government: kngdmvthgrd
   packFolder: vithgard
   notes: "The law-stead of Vithgard, where the kingdom's ting sits, Eidgar's hov keeps its oaths, and the Order of the Sworn Hand keeps its mother-hall."

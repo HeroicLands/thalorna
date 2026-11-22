@@ -45,8 +45,8 @@ data:
         Great Lord of Zijai, who holds the mountain by the Emperor's patent with his own army, justice and taxes, and rules it from Kowu. Held by a Dauzhwo.
       Keeper of the Court Treasury: Held by the Weiju, who keep the strongroom of the Dawn Court at Tsaimu and the roll of what is paid into it.
   seat: kowu
-  population: 42000
-  territorial_population: 42000
+  population: {actual: 42000}
+  territorial_population: {actual: 42000}
   settlements:
     - settlement: Zainu
       polity: affiliation-muwojaidmn
@@ -55,7 +55,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-jenchaiempr
-      population: 430
+      population: {actual: 430}
       market: local
       notes: "Crane Terraces. Court estate. Rice, the court estate nearest the throne. Head village of a district assessed at 1,600 bales."
     - settlement: Zuju
@@ -65,7 +65,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-muwojaidmn
-      population: 300
+      population: {actual: 300}
       market: local
       notes: "Blue River. Demesne. The ferry and toll on the road to Lengwou. Head village of a district assessed at 1,100 bales."
     - settlement: Tsaimu
@@ -75,7 +75,7 @@ data:
       fortification: null
       stronghold: null
       holder: "Weiju"
-      population: 220
+      population: {actual: 220}
       market: local
       notes: "Craft Wood. Fief. Lacquer and cedar joinery. Head village of a district assessed at 800 bales."
   economy: []

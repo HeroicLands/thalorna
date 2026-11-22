@@ -45,7 +45,7 @@ data:
         Keeps a house's letters, its ledgers and its copies of the customary law.
   seat: null
   range: [velanthrgn]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [lizelasdty, leanyear]
   parents: [lizelas]

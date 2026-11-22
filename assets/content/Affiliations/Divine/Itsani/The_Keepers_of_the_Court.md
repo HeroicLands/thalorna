@@ -46,7 +46,7 @@ data:
       Keeper of the Judgment Stones: >-
         Cuts each judgment of the court, the names of the sides and what the loser owes, into the stones that line the court's walls.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [tzenultqan]

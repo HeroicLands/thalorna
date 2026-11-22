@@ -14,7 +14,7 @@ data:
     - {to: coastroad, bearing: SW, mode: land, days: 10, terrain: [coast, road]}
     - {to: morthalmrch, bearing: E, mode: land, days: 1, terrain: [coast, track]}
     - {to: edriwald, bearing: NE, mode: land, days: 5, terrain: [coast, track]}
-  population: 340
+  population: {actual: 340}
   market: local
   type: village
   government: durmelengrsn

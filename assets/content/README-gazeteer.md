@@ -423,18 +423,20 @@ and the same generated tables appear on the website, in Foundry and in books. A
 hand-written table under `## Settlements` is refused. Each row is a mapping with
 these fields, all required unless marked:
 
-| Field           | Value                                                                           |
-| --------------- | ------------------------------------------------------------------------------- |
-| `settlement`    | the settlement's name, plain nonempty text                                      |
-| `polity`        | the governing polity, as an address (`affiliation-<shortcode>`) or a plain name |
-| `location`      | the enclosing place, as an address (`place-<shortcode>`)                        |
-| `type`          | `encampment`, `homestead`, `hamlet`, `village`, `town`, `city` or `metropolis`  |
-| `fortification` | optional: `none`, `minimal`, `palisade`, `walled`, `fortress`, or `null`        |
-| `stronghold`    | optional: `fort`, `castle`, `keep`, `fortified manor`, `tower`, or `null`       |
-| `holder`        | who holds the land, as an affiliation or being address, or a plain name         |
-| `population`    | a positive whole number with at most two significant digits                     |
-| `market`        | `international`, `regional`, `local` or `subsistence`                           |
-| `notes`         | short nonempty text saying what distinguishes the settlement                    |
+| Field           | Value                                                                                                                                                                       |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `settlement`    | the settlement's name, plain nonempty text                                                                                                                                  |
+| `polity`        | the governing polity, as an address (`affiliation-<shortcode>`) or a plain name                                                                                             |
+| `location`      | the enclosing place, as an address (`place-<shortcode>`)                                                                                                                    |
+| `type`          | `encampment`, `homestead`, `hamlet`, `village`, `town`, `city` or `metropolis`                                                                                              |
+| `fortification` | optional: `none`, `minimal`, `palisade`, `walled`, `fortress`, or `null`                                                                                                    |
+| `stronghold`    | optional: `fort`, `castle`, `keep`, `fortified manor`, `tower`, or `null`                                                                                                   |
+| `holder`        | who holds the land, as an affiliation or being address, or a plain name                                                                                                     |
+| `population`    | a `{actual, apparent?}` map; `actual` is a positive whole number with at most two significant digits, `0` for an abandoned settlement, or `null` when the figure is unknown |
+| `market`        | `international`, `regional`, `local` or `subsistence`                                                                                                                       |
+| `notes`         | short nonempty text saying what distinguishes the settlement                                                                                                                |
+
+`{actual: null}` declares a population that is not known and `{actual: 0}` an abandoned settlement; an omitted apparent figure follows the actual one.
 
 `stronghold` names a kind of building and is never an address. A settlement that
 is listed twice, or listed and also given a note, is an error. A list has no
@@ -451,9 +453,15 @@ a `government` that resolves to a polity.
 **A polity states two populations, and they count different people.**
 `data.population` is the membership: the people who belong to the body.
 `data.territorial_population` is the inhabitants of the land it governs, whoever
-they belong to. A polity with settlements, a seat or subordinate polities
-requires the territorial figure. The listed and noted settlements throughout its
-subordinate chain must not exceed it, a seat counts once, and a subordinate
+they belong to. Both are closed `{actual, apparent?}` maps, as is a settlement row's
+`population`. `actual` is the figure the checks read. `apparent` is what public
+output shows: omitting it shows `actual`, and an explicit `apparent: null` makes the
+figure publicly unknown. Public SQL reads `.apparent`. The rules are in
+package-build's authoring guide, under
+[Population figures](https://github.com/HeroicLands/package-build/blob/main/docs/authoring/frontmatter.md#population-figures).
+A polity with settlements, a seat or subordinate polities requires the
+territorial figure. The listed and noted settlements throughout its subordinate
+chain must not exceed it, a seat counts once, and a subordinate
 polity's territorial total is never added to the settlement sum. Settlements of
 type `town`, `city` and `metropolis` together must not exceed the urban share of
 the territorial population, which is ten percent unless
@@ -473,8 +481,8 @@ subType: polity
 shortcode: kingdmexmpl
 data:
   seat: exmplhall # a settlement note; it has no row here
-  population: 8000 # the members of the kingdom
-  territorial_population: 12000 # everyone who lives on its land
+  population: { actual: 8000 } # the members of the kingdom
+  territorial_population: { actual: 12000 } # everyone who lives on its land
   parents: []
   settlements:
     - settlement: East Farm
@@ -484,7 +492,7 @@ data:
       fortification: null
       stronghold: null
       holder: Aldric Vane
-      population: 40
+      population: { actual: 40 }
       market: subsistence
       notes: A farm by the ford road.
     - settlement: Greywater
@@ -494,7 +502,7 @@ data:
       fortification: palisade
       stronghold: tower
       holder: affiliation-exmpltmpl
-      population: 350
+      population: { actual: 350 }
       market: local
       notes: A fishing village whose tower watches the river mouth.
     - settlement: Marrow Cross
@@ -504,7 +512,7 @@ data:
       fortification: walled
       stronghold: null
       holder: affiliation-kingdmexmpl
-      population: 1100
+      population: { actual: 1100 }
       market: regional
       notes: A walled market town where three roads meet.
 ```
@@ -1143,8 +1151,8 @@ data:
     offices: {}
   seat: null # shortcode of the affiliation's capital settlement; `null` where it has none or none is known, never ""
   # Record government on each governed place with data.government, not here.
-  population: 0 # members of the affiliation
-  territorial_population: 0 # polity only: inhabitants of its land; required with settlements, a seat or subordinate polities
+  population: {actual: 0} # members of the affiliation
+  territorial_population: {actual: 0} # polity only: inhabitants of its land; required with settlements, a seat or subordinate polities
   settlements: [] # polity only: directly held settlements without notes; see Governance and holding
   economy: []
   lore: [humanflk]
@@ -1316,7 +1324,7 @@ data:
   demonym: null # specify if able
   lore: []
   parents: [] # shortcodes of containing places
-  population: 0
+  population: {actual: null} # the figure, null when unknown, 0 when abandoned
   government: "" # the governing affiliation; every settlement names one
   type: village # encampment, homestead, hamlet, village, town, city or metropolis
   fortification: null # none, minimal, palisade, walled, fortress, or null
@@ -1357,7 +1365,7 @@ data:
   demonym: ""
   lore: [humanflk]
   parents: [] # parent region shortcodes
-  population: 0 # population of region
+  population: {actual: 0} # population of region
   # A region carries no settlement list; its polities list settlements in their own data.settlements
   borders: [] # neighbors: to, bearing
   routes: [] # journeys from here: to, bearing, mode, days
@@ -1402,7 +1410,7 @@ data:
   demonym: null # specify if able
   lore: []
   parents: [] # shortcode of the place or polity this one sits within
-  population: 0 # 0 where nobody lives there, which is usual
+  population: {actual: 0} # 0 where nobody lives there, which is usual
   packFolder: ""  # must be specified
 ---
 

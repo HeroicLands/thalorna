@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [targud]
-  population: 900
+  population: {actual: 900}
   type: village
   market: local
   packFolder: targud

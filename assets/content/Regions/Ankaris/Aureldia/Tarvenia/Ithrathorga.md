@@ -7,7 +7,12 @@ type: place
 subType: structure
 description: "The chain of watchtowers down the Thalsira from Ornetho's north gate to the castle tower at Bruthena, each in sight of the next with a beacon on its roof, built by the Empire against the mountains and turned by the kings of Lyenrik to face the sea."
 tags: [tower, frontier]
-data: {demonym: null, lore: [], parents: [leonrik], population: null, packFolder: tarvenia}
+data:
+  demonym: null
+  lore: []
+  parents: [leonrik]
+  population: {actual: null}
+  packFolder: tarvenia
 ---
 
 ## Overview {#overview}

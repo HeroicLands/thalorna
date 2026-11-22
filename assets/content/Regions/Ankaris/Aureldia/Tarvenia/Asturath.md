@@ -9,7 +9,7 @@ data:
   demonym: Astúrathi
   lore: [humanflk]
   parents: [tarvenirgn]
-  population: 1000000
+  population: {actual: 1000000}
   borders: [{to: eskarath, bearing: N}, {to: kervaron, bearing: E}, {to: leonrik, bearing: S}]
   packFolder: tarvenia
   government: kngdmstrth

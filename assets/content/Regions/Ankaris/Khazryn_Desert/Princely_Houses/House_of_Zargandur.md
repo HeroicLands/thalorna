@@ -40,7 +40,7 @@ data:
       Keeper of the Riders' Roll: >-
         Held by an Elder of the House. Keeps the tablet of the riders who died in the sortie from the north gate, whose names have never been read over them.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [khzrncnfdrtn]

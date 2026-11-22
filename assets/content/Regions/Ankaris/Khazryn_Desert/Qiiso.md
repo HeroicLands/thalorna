@@ -13,7 +13,7 @@ data:
     - {to: yemokwell, bearing: W, mode: land, days: 30}
     - {to: sowidwell, bearing: E, mode: land, days: 30}
     - {to: kethramir, bearing: S, mode: land, days: 20}
-  population: 0
+  population: {actual: 0}
   packFolder: khazryndesert
 ---
 

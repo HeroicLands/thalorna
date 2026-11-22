@@ -40,7 +40,7 @@ data:
       Master of Berths: >-
         Held by Kin of the House. Keeps the house's berths in the Yamuzel harbor and lets them to League captains and, at a higher rate, to everyone else.
   seat: yamuzel2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [yamuzel]

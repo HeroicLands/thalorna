@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [calypsaisle]
   routes: [{to: calypsacity, bearing: N, mode: land, days: 1, terrain: [hills, road]}]
-  population: 17000
+  population: {actual: 17000}
   type: village
   market: regional
   government: calypsa

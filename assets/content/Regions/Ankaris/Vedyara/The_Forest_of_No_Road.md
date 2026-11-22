@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The forest below the Eastern Reach that no janpoda has ever sent an assembly into, where Senali enclaves are rumored and nobody's rumor has ever been confirmed."
 tags: [forest, frontier, strange, inland]
-data: {demonym: null, lore: [], parents: [estrnreach], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [estrnreach]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 The **Forest of No Road** is the country below [[place-estrnreach|the Eastern Reach]], at the headwaters of [[place-bharavarivr|the Bharava]] above the gold highlands. No janpoda has ever sent an assembly into it. No sabhra meets in it, no temple-domain claims it, and the name is what the pilgrim road's hostel-keepers call the ground the road does not enter.

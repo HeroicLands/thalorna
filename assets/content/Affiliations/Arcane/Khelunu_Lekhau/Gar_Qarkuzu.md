@@ -43,7 +43,7 @@ data:
       Warden of Seals: >-
         Sets and certifies the seals on tombs, treasuries and archives, and is answerable if one is found to have been bluff.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [khelunulekha]
   parents: []

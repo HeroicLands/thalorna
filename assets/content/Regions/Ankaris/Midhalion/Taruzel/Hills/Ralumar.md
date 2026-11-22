@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A walled hilltop of roofless stone houses on Qalirel's spine above the Pashinar valley, older than the conquest, where five long door-lintels carry lines of cut letters; the Qazishuni winter their flocks in it, the Council of the Hills sits in its court, and the Vezakuni want to copy its stones."
 tags: [ruin, hill, inland]
-data: {demonym: null, lore: [humanflk], parents: [tulurel], population: 0, packFolder: taruzel}
+data:
+  demonym: null
+  lore: [humanflk]
+  parents: [tulurel]
+  population: {actual: 0}
+  packFolder: taruzel
 ---
 
 ## Overview {#overview}

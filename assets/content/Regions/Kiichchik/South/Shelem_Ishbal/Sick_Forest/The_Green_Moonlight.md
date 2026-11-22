@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "Valleys of the Sick Forest carpeted with luminous fungi that light the night a sickly green, beautiful, quiet and full of sleepers who do not wake."
 tags: [feature, waste, forest, fungus]
-data: {demonym: null, lore: [], parents: [sickforest], population: 0, packFolder: xelemixbal}
+data:
+  demonym: null
+  lore: []
+  parents: [sickforest]
+  population: {actual: 0}
+  packFolder: xelemixbal
 ---
 
 ## Overview {#overview}

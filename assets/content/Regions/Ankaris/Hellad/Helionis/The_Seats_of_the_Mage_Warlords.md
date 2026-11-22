@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The ruined towers and walled workshops in the hills of several Helionite city-states where the mage-warlords of the war of 335 to 312 BF worked, Theradon's among them: shells that treasure-seekers dig at and that scholars, and the Arcane Order, visit."
 tags: [ruin, battlefield, hellad]
-data: {demonym: null, lore: [], parents: [helionis], population: null, packFolder: helionis}
+data:
+  demonym: null
+  lore: []
+  parents: [helionis]
+  population: {actual: null}
+  packFolder: helionis
 ---
 
 A shepherd above any of the older Helionite city-states can point to a tower on the next ridge that no one repairs and no one demolishes. The **Seats of the Mage-Warlords** are those towers and the workshops walled into the hillsides beneath them, the places where the mage-warlords of the war with the [Vilérian Republic]{.name data-type="affiliation/polity"} did the work their cities could not control. They stand in the hills of several city-states, and each is a ruin that the city-state that owns it has agreed to leave alone.

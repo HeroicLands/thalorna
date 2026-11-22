@@ -14,7 +14,7 @@ data:
     - {to: nordfells, bearing: N}
     - {to: highwood, bearing: W}
     - {to: nordmoor, bearing: NW}
-  population: 22000
+  population: {actual: 22000}
   government: kelgar
   packFolder: eilwith
 ---

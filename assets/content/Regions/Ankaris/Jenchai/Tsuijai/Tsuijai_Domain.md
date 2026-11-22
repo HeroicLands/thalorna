@@ -45,8 +45,8 @@ data:
         Great Lord of Tsuijai, who holds the mountain by the Emperor's patent with his own army, justice and taxes, and rules it from Tsuiwu. Held by a Dauzhwo.
       Keeper of the Armory: Held by the Jaju, who keep the armory of the domain and the forge-village of Tsaigen.
   seat: tsuiwu
-  population: 40000
-  territorial_population: 40000
+  population: {actual: 40000}
+  territorial_population: {actual: 40000}
   settlements:
     - settlement: Jidu
       polity: affiliation-tsuijaidmn
@@ -55,7 +55,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-tsuijaidmn
-      population: 140
+      population: {actual: 140}
       market: local
       notes: "Metal Road. Demesne. The mines and the ore road. Head village of a district assessed at 500 bales."
     - settlement: Kodu
@@ -65,7 +65,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-jenchaiempr
-      population: 240
+      population: {actual: 240}
       market: local
       notes: "Old Road. Court estate. Rice and charcoal. Head village of a district assessed at 900 bales."
     - settlement: Tsaigen
@@ -75,7 +75,7 @@ data:
       fortification: null
       stronghold: null
       holder: "Jaju"
-      population: 160
+      population: {actual: 160}
       market: local
       notes: "Craft Master. Fief. The forge-village of the swordsmiths. Head village of a district assessed at 600 bales."
   economy: []

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [nordheimnclt, bloodfield]
   parents: [targud]
-  population: 0
+  population: {actual: 0}
   packFolder: targud
 ---
 

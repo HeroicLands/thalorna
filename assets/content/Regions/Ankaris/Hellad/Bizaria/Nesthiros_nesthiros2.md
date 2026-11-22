@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [byzariargn]
-  population: 30000
+  population: {actual: 30000}
   market: international
   type: city
   government: nesthiros

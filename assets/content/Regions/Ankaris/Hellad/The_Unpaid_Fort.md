@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [crownssettle]
   parents: [heladrgn]
-  population: 400
+  population: {actual: 400}
   government: cmmndnpdfrt
   packFolder: hellad
 ---

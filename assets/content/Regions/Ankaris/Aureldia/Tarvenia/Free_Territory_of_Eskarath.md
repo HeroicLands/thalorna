@@ -48,8 +48,8 @@ data:
       Water-Warden: >-
         Held by an Elder. Keeps the order in which the clans draw on a shared spring and its pasture, as at Ibotsain.
   seat: gaztorai
-  population: 200000
-  territorial_population: 200000
+  population: {actual: 200000}
+  territorial_population: {actual: 200000}
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [kingdmtrvn]

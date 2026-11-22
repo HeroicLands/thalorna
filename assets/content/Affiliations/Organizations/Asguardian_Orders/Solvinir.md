@@ -33,7 +33,7 @@ data:
           Advises jarls and the influential in Solrún's name, the order's fullest claim on her arts.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

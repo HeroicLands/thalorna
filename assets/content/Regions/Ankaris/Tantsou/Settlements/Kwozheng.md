@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [kwozhngmrch]
-  population: 110000
+  population: {actual: 110000}
   type: metropolis
   market: international
   government: kwozhengprv

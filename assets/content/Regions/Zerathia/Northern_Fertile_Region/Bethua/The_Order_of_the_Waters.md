@@ -32,7 +32,7 @@ data:
       Izet-Mu: >-
         Overseer of the Waters, the chief engineer-priestess of the realm, who answers to the Metrissa and sits in the Sacred College.
   seat: bethura
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [mtrrchybth]

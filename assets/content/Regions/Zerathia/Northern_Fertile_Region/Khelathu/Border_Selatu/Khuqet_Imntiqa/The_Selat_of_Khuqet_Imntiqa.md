@@ -46,8 +46,8 @@ data:
       Canal-Warden: >-
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: khuqet
-  population: 220000
-  territorial_population: 220000
+  population: {actual: 220000}
+  territorial_population: {actual: 220000}
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [borderselatu]

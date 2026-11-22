@@ -38,7 +38,7 @@ data:
       Envoy of the College: >-
         Held by one Bard. Carries the College's word to a house or a foreign court, under the College's name and its protection.
   seat: portaelion
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [bardicolgs]

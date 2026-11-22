@@ -37,7 +37,7 @@ data:
       Envoy of the Twelve: >-
         Held by a Delegate. Carries the Council's word to a foreign court, and keeps the cool correspondence with the Kingdom of Amradad that the Teghumod merchants need unbroken.
   seat: beitshofar
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [tribestrzd]

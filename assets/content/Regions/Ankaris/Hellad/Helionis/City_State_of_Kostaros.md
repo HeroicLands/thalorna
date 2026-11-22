@@ -46,8 +46,8 @@ data:
       Councilor: "Member of the council chosen by lot to prepare the assembly's business for a year."
       Auditor: "Examiner to whom the magistrates answer for their accounts."
   seat: kostaros2
-  population: 70000
-  territorial_population: 70000
+  population: {actual: 70000}
+  territorial_population: {actual: 70000}
   economy: []
   lore: [humanflk]
   parents: [ctysttshlns]

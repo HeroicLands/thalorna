@@ -34,7 +34,7 @@ data:
       Teller of the Winter Fire: >-
         Held by one Of the Qazishuni in each camp, named by its elder. Keeps the tellings of the tribe and gives them at the fire on winter nights, word for word as they were given before.
   seat: ralumar
-  population: 110000
+  population: {actual: 110000}
   economy: []
   lore: [humanflk]
   parents: []

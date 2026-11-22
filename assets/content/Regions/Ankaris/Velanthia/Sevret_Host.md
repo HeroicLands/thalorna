@@ -44,8 +44,8 @@ data:
       Keeper of the Muster: >-
         Holds the Host's banner and the roll of its riders.
   seat: tvsknv
-  population: null
-  territorial_population: 100000
+  population: {actual: null}
+  territorial_population: {actual: 100000}
   settlements:
     - settlement: Sulvikov
       polity: affiliation-hstsvrt
@@ -54,7 +54,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hstsvrt
-      population: 2000
+      population: {actual: 2000}
       market: local
       notes: "A grain-and-horse market on the pass road."
     - settlement: Mevrekov
@@ -64,7 +64,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hstsvrt
-      population: 600
+      population: {actual: 600}
       market: subsistence
       notes: "A honey-and-barley village on the pass road."
   economy: []

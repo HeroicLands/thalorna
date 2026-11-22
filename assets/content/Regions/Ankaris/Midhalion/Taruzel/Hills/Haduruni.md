@@ -35,7 +35,7 @@ data:
         Held by one Of the Haduruni for each stretch of the boundary, named by the Keeper. Walks the stands on the tribe's side of the valley with the timberwrights, and cuts the tribe's mark into every tree it has sold.
   seat: null
   range: [visizel]
-  population: 50000
+  population: {actual: 50000}
   economy: []
   lore: [humanflk]
   parents: []

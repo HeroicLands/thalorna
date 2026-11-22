@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [southkiichchik]
-  population: null
+  population: {actual: null}
   packFolder: xelemixbal
 
 # terran_analog: Southern wastelands begin south of the Amazon analog, roughly at Lima's latitude; broad comparison only, not a precise map.

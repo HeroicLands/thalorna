@@ -9,7 +9,7 @@ data:
   demonym: Vilérian
   lore: [humanflk]
   parents: [vylariargn]
-  population: 5000000
+  population: {actual: 5000000}
   borders: [{to: vylarianse, bearing: S}, {to: alyssa, bearing: N}, {to: hylen, bearing: N}]
   packFolder: vylaria
   government: provincvld

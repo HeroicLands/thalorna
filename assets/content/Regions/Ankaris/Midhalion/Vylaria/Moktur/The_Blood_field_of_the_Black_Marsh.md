@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [bloodfield, blackmarshbtl]
   parents: [moktur]
-  population: 0
+  population: {actual: 0}
   packFolder: vylaria
 ---
 

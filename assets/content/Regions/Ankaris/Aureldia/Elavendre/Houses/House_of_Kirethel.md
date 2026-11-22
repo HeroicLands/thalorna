@@ -36,7 +36,7 @@ data:
       Bard of the House: >-
         Held by one Of the Household who is a Bard of the Colleges. Sings the line at the house's feasts exactly as the Colleges proved it.
   seat: beravel
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmlvndr]

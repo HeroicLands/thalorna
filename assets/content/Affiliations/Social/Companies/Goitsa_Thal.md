@@ -43,7 +43,7 @@ data:
         A Sworn Man or a Named Man who closes the company's wounds and is excused the watch for it.
   seat: null
   range: [asturath, kervaron]
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

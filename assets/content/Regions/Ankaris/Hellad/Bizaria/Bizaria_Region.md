@@ -15,7 +15,7 @@ data:
     - {to: helionis, bearing: W}
     - {to: velanthrgn, bearing: N}
     - {to: amradadrgn, bearing: S}
-  population: 1200000
+  population: {actual: 1200000}
   packFolder: byzaria
   government: byzarianlg
   culture: byzarianclt

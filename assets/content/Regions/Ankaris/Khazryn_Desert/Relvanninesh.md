@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ashkarad]
-  population: 12
+  population: {actual: 12}
   government: hshldrlvnnsh
   packFolder: khazryndesert
   culture: khazrynclt

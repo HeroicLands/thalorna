@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The roofless temple hall of a janpoda burned with its sabhra inside by the conch-door adventurer about 320 AF, its doors bricked up by order of the Melka and its bronze bell still hanging unrung in the gate."
 tags: [ruin, sacred, hill]
-data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [vedyarargn]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **The Silenced Hall** stands in the hill country below the conch-door road, on the way up to [[place-sangrafort|the Sangra-fort]], and it is the whole of what is left of a janpoda. [Tirnugram]{.name data-type="place/settlement"}, the village of the bell, refused the conch-door adventurer about 320 AF, and he shut its sabhra in this hall and fired the roof ([[lore-silenthall|the Silenced Hall]]). The [Mahva-Melka]{.name data-type="lore/gathering"} of 320 mourned the janpoda on the roll, divided its land, and had the doors bricked up.

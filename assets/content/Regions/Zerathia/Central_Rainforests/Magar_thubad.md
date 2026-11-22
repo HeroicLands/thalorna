@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [flkkhazar]
   parents: [nrthrnsprs]
-  population: 400
+  population: {actual: 400}
   type: village
   market: subsistence
   government: mgrthbdhld

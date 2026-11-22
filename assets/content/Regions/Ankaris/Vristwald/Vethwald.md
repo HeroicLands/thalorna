@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: [varokhiclt]
   parents: [vrystwald]
-  population: null
+  population: {actual: null}
   packFolder: vrystwald
 ---
 

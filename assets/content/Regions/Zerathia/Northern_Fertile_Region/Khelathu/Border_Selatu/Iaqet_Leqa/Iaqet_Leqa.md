@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [iaqetleqaslt]
-  population: 4600
+  population: {actual: 4600}
   type: town
   market: local
   packFolder: regkhsett

@@ -45,8 +45,8 @@ data:
         Wohou officer commanding the garrisons on the long passes across the Grazian Mountains toward Vedyara.
       Magistrate: Reads the Teng Lou in the Prince's courts and hears the famine petitions of a district.
   seat: mwonou
-  population: 26000000
-  territorial_population: 26000000
+  population: {actual: 26000000}
+  territorial_population: {actual: 26000000}
   economy: []
   lore: [humanflk]
   parents: [tantsouempr]

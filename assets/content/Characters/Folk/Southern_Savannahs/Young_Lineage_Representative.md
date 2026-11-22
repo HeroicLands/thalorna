@@ -8,7 +8,7 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [warrior, commoner]
+  archetypes: [warrior]
   occupation: Lineage Representative
   lore: []
   culture: nyalubaclt

@@ -46,8 +46,8 @@ data:
       Canal-Warden: >-
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: wagaru
-  population: 260000
-  territorial_population: 260000
+  population: {actual: 260000}
+  territorial_population: {actual: 260000}
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [borderselatu]

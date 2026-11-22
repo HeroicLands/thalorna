@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [sthmrchsrgn]
-  population: 1500
+  population: {actual: 1500}
   market: local
   type: encampment
   packFolder: xerathia

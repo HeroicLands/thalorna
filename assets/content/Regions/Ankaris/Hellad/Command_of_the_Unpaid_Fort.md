@@ -42,7 +42,7 @@ data:
       Keeper of the Stores: >-
         One of the household who keeps the granary and the magazines, and counts them for the yearly report to the last bushel.
   seat: unpaidfort
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: []

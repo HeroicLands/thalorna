@@ -61,8 +61,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: nesthiros2
-  population: 300000
-  territorial_population: 300000
+  population: {actual: 300000}
+  territorial_population: {actual: 300000}
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [byzarianlg]

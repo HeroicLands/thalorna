@@ -55,8 +55,8 @@ data:
       Commandant of the Coast: >-
         Wohou officer commanding the garrisons and war junks that answer the raids from across the Eastern Strait.
   seat: wongsen
-  population: 34000000
-  territorial_population: 34000000
+  population: {actual: 34000000}
+  territorial_population: {actual: 34000000}
   economy: []
   lore: [humanflk]
   parents: [tantsouempr]

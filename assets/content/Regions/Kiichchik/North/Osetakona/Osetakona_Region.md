@@ -10,7 +10,7 @@ data:
   demonym: Osetakona
   lore: [osetakonaclt]
   parents: [northkiichchik]
-  population: 750000
+  population: {actual: 750000}
   packFolder: osetakona
   government: osetakona
 

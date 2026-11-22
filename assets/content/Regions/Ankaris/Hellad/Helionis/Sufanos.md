@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [khaddaria]
-  population: 3400
+  population: {actual: 3400}
   market: local
   type: town
   government: korinthea

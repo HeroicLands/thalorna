@@ -44,8 +44,8 @@ data:
       Hearth-head of the Lunvharn: >-
         Chosen by the Lunvharn hearths. Speaks for the valley at the gate, and answers to the Speaker at the Gate.
   seat: hvolvern
-  population: 2400
-  territorial_population: 2400
+  population: {actual: 2400}
+  territorial_population: {actual: 2400}
   economy: []
   lore: [flkkhazar]
   parents: []

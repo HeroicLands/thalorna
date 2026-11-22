@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [sorvanda]
-  population: 2100
+  population: {actual: 2100}
   market: local
   type: town
   government: kngdmlvndr

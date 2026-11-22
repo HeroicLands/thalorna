@@ -45,7 +45,7 @@ data:
       Voice from the Wound: >-
         The order's chair, chosen by the assembled Fathers of the Halls in conclave; one position.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

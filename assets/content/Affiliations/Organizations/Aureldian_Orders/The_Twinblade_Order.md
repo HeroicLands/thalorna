@@ -40,7 +40,7 @@ data:
       Marendos of the Gate: Leader of a chapter house, presiding over its affairs and its stations.
       Station Commander: A Senior Twinblade in command of a station of importance or a short circuit of stations.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

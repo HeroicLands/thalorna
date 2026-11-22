@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The oldest kindred mound in the Deepwood, which both of the forest's peoples claim."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [vethwald], population: 0, packFolder: vrystwald}
+data:
+  demonym: null
+  lore: []
+  parents: [vethwald]
+  population: {actual: 0}
+  packFolder: vrystwald
 ---
 
 **Vethhrum**, the hallowed mound, is the oldest kindred mound in the Deepwood ([[place-vethwald|Vethwald]]). Reciters teach the children at [Weskskald]{.name data-type="lore/gathering"} that both of the forest's peoples are buried in it, and when a child asks which people that means, the answer is the history of the Varokh in one sentence: the ones who were here, and the ones who came, and nobody has been able to tell them apart for two thousand years.

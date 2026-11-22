@@ -33,7 +33,7 @@ data:
       Keeper of the Roll: >-
         Held by a Councilor, named by the council. Keeps the Roll of Great Houses, writes a house onto it when the council admits one, and strikes off a house that fails.
   seat: valthari
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [frctyvlthr]

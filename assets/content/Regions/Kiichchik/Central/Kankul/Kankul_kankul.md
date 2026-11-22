@@ -73,8 +73,8 @@ data:
       Ilkanmah: >-
         Lord of the shore: holds a port for the Ts'enmah, takes his share of the salt, fish and feathers that are landed there, and keeps the sea roads open.
   seat: kankul2
-  population: null
-  territorial_population: 240000
+  population: {actual: null}
+  territorial_population: {actual: 240000}
   economy: []
   lore: [kiichchikclt]
   parents: []

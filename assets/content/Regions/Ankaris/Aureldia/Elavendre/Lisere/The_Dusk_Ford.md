@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [lisere]
-  population: null
+  population: {actual: null}
   packFolder: elavendre
   culture: elavendriclt
 ---

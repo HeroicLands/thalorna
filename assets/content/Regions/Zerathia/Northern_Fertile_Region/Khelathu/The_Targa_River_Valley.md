@@ -10,7 +10,7 @@ data:
   demonym: Khelathi
   lore: [humanflk]
   parents: [aukhelathrgq]
-  population: null
+  population: {actual: null}
   packFolder: regkhregn
   banner: khelathubnr
 ---

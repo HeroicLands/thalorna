@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [teyumiclt]
   parents: [hosaoyalargn]
-  population: 700
+  population: {actual: 700}
   type: village
   market: local
   government: teyumi

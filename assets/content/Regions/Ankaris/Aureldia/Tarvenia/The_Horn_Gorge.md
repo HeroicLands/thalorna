@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [bloodfield]
   parents: [asturath]
-  population: null
+  population: {actual: null}
   packFolder: tarvenia
 ---
 

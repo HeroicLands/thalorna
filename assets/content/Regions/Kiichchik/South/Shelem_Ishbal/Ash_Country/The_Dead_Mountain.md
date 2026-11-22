@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "A cold, dead cone among the burning mountains of the Ash Country, with a cavern at its foot where the Old Fire Dragon keeps its hoard."
 tags: [feature, waste, mountain, lair]
-data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
+data:
+  demonym: null
+  lore: []
+  parents: [ashcountry]
+  population: {actual: 0}
+  packFolder: xelemixbal
 ---
 
 ## Overview {#overview}

@@ -52,7 +52,7 @@ data:
       Caravan Priest: >-
         A Delkoshekh who travels with the caravans and ministers to tribal communities beyond any temple's reach.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [bazhramisdty]
   parents: [ashanpnthn]

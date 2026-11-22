@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A quickened blood-field in the western valleys, where the ground grows too well—the best land in the barony of Kivarel, farmed by people who would rather not discuss why."
 tags: [valley, inland]
-data: {demonym: null, lore: [], parents: [kyvarel], population: null, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [kyvarel]
+  population: {actual: null}
+  packFolder: provenzia
 ---
 
 In the western valleys, in the barony of [[place-kyvarel|Kivarel]]—held with the [[affiliation-brnyzrvln|Barony of Zuravlen]] by [[being-selvarezrvl|Selvare Zuravel]]—lies the Blood-field of Kivarel, a **quickening**: a [[lore-bloodfields|blood-field]] where the ground grows too

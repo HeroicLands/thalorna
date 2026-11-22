@@ -73,8 +73,8 @@ data:
       P'ik'ulmah: >-
         Master merchant: head of a merchant family, who sits on his town's council, keeps the family's canoes and its trade in feathers, hides and cacao, and gives the gifts by which the town's allegiance is renewed.
   seat: xelem2
-  population: null
-  territorial_population: 93000
+  population: {actual: null}
+  territorial_population: {actual: 93000}
   economy: []
   lore: [kiichchikclt]
   parents: []

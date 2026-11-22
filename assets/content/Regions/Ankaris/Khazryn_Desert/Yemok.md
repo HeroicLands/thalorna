@@ -12,7 +12,7 @@ data:
   routes:
     - {to: eastrnmrch, bearing: W, mode: land, days: 30}
     - {to: qisomrktcmp, bearing: E, mode: land, days: 30}
-  population: 0
+  population: {actual: 0}
   packFolder: khazryndesert
 ---
 

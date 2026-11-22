@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: [varokhiclt]
   parents: [vrystwald]
-  population: null
+  population: {actual: null}
   borders: [{to: velanthrgn, bearing: E}]
   routes:
     - {to: edriwald, bearing: W, mode: land, days: 45, terrain: [forest]}

@@ -42,8 +42,8 @@ data:
       Master of Works: >-
         Keeps the water-line, the cistern and the hold's other works, and the gardens' channels at the gate.
   seat: magarthubad
-  population: 1600
-  territorial_population: 1600
+  population: {actual: 1600}
+  territorial_population: {actual: 1600}
   economy: []
   lore: [flkkhazar]
   parents: []

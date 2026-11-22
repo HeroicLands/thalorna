@@ -9,7 +9,7 @@ data:
   demonym: Chandrapuri
   lore: []
   parents: [chendrapurland]
-  population: 90000
+  population: {actual: 90000}
   type: city
   market: international
   routes: [{to: chandrmukha, bearing: S, mode: boat, days: 1, terrain: [river]}]

@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [sthrnsvnhs]
-  population: null
+  population: {actual: null}
   packFolder: southernsavannahs
 ---
 

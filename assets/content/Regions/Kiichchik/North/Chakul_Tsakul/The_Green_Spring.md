@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A walled pool of clear water among palms and fig trees at the bottom of a stone-lined sink in the western mesas of Ch'akul Tsa'kul, the kindest water in the desert, where those who sleep beside it do not wake."
 tags: [site, desert, ruin, oasis]
-data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
+data:
+  demonym: null
+  lore: []
+  parents: [chakultzklrgn]
+  population: {actual: 0}
+  packFolder: chakultzakul
 ---
 
 ## Overview {#overview}

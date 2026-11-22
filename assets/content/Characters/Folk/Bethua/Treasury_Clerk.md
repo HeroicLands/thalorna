@@ -67,7 +67,7 @@ sohl:
     - {key: ltunic, model: sohl-sohl-armorgear-ltunic}
     - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
     - {key: scribekit, model: sohl-sohl-miscgear-scribekit}
-    - {key: credittally, model: sohl-sohl-miscgear-credittally}
+    - {key: credittally, model: miscgear-credittally}
   system:
     body:
       structure:

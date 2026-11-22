@@ -40,7 +40,7 @@ data:
       Keeper of the Ledge: >-
         Held by Kin of the Lineage. Holds the ledge road and says when it is closed.
   seat: kuethori
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [kalihara]

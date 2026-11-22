@@ -41,7 +41,7 @@ data:
       Achorya: >-
         The working priest of a sampradeya, whose ordination is to the school and whose service is to whichever gods its doctrine requires.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

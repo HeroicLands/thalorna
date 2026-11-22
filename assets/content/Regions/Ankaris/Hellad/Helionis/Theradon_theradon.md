@@ -46,8 +46,8 @@ data:
       Councilor: "Member of the council chosen by lot to prepare business for an assembly of the wealthiest and most educated citizens, serving a single year."
       Magistrate: "Officer of the city-state's markets, walls, treasury or courts, elected or allotted, who treats government as a branch of philosophy and is audited at the end of the year."
   seat: theradon2
-  population: 190000
-  territorial_population: 190000
+  population: {actual: 190000}
+  territorial_population: {actual: 190000}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

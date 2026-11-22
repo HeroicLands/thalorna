@@ -49,7 +49,7 @@ data:
         The shrines along the roads at which the Tramori are stationed and travelers are blessed.
   seat: null
   range: [ankrscntnnt]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [pozerasdty]
   parents: [arldnpnthn]

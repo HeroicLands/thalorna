@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [bhumipalland]
-  population: 900
+  population: {actual: 900}
   type: village
   market: local
   routes: [{to: ashvapada, bearing: E, mode: land, days: 3, terrain: [road, hills, desert]}]

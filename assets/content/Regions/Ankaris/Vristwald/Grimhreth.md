@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [grukarfolk]
   parents: [skathwald, grkrhlmrgn]
-  population: 0
+  population: {actual: 0}
   packFolder: vrystwald
 ---
 

@@ -9,7 +9,7 @@ data:
   demonym: Shikhalayan
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 8000000
+  population: {actual: 8000000}
   packFolder: vedyara
   government: shikhalaya
 
@@ -28,7 +28,7 @@ Shikhalaya is the land of the highland kingdom of [[affiliation-shikhalaya|Shikh
 SELECT s.address.slug AS _ref,
        s.name.full AS "Name",
        s.data.market || ' ' || m.name AS "Market",
-       s.data.population AS "People",
+       s.data.population.apparent AS "People",
        (SELECT CASE
                    WHEN p.address.slug IS NULL THEN p.name.full
                    ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'

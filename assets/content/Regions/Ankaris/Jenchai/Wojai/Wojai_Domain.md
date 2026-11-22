@@ -46,8 +46,8 @@ data:
       Judge: Chosen from the Dauzhwo's retainers to hear the harbor disputes of the anchorage at Showo and the quays at Yuwu.
       Keeper of the Harbors: Held by the Woju, who keep the roll of the anchorages, moorings and tolls of the domain.
   seat: yuwu
-  population: 70000
-  territorial_population: 70000
+  population: {actual: 70000}
+  territorial_population: {actual: 70000}
   settlements:
     - settlement: Showo
       polity: affiliation-wojaidmn
@@ -56,7 +56,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-wojaidmn
-      population: 240
+      population: {actual: 240}
       market: local
       notes: "Trade Sea. Demesne. The merchants' anchorage; tolls. Head village of a district assessed at 900 bales."
     - settlement: Ronu
@@ -66,7 +66,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-jenchaiempr
-      population: 460
+      population: {actual: 460}
       market: local
       notes: "Flower Terraces. Court estate. Rice, mulberry and silk. Head village of a district assessed at 1,700 bales."
     - settlement: Shodu
@@ -76,7 +76,7 @@ data:
       fortification: null
       stronghold: null
       holder: "Woju"
-      population: 320
+      population: {actual: 320}
       market: local
       notes: "Trade Road. Fief. The pack road inland. Head village of a district assessed at 1,200 bales."
   economy: []

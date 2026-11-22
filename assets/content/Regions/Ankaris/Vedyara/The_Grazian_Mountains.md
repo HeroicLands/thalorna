@@ -14,7 +14,7 @@ data:
     - {to: dunharargn, bearing: W}
     - {to: idwkrrgn, bearing: N}
     - {to: swoasisbelt, bearing: N}
-  population: null
+  population: {actual: null}
   packFolder: vedyara
   culture: vedyariclt
 

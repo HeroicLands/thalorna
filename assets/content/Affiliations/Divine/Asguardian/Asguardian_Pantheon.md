@@ -31,7 +31,7 @@ data:
       Landsgudi: >-
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

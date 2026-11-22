@@ -46,8 +46,8 @@ data:
       Admiral: "Flag officer of the fleet, which defends Helionite waters against incursions, rival powers and pirates."
       Trierarch: "Captain of a galley of the fleet, whose crew of citizens voted for the voyage they row."
   seat: pelagora2
-  population: 160000
-  territorial_population: 160000
+  population: {actual: 160000}
+  territorial_population: {actual: 160000}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

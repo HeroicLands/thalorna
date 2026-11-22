@@ -61,8 +61,8 @@ data:
       Zalvos: >-
         Priest of the provincial cult, presiding over the rites that bind the province to the capital.
   seat: tyrellan
-  population: 2000000
-  territorial_population: 2000000
+  population: {actual: 2000000}
+  territorial_population: {actual: 2000000}
   economy:
     - affiliation-tarmex
     - affiliation-danvar

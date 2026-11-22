@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [taruzelrgn]
-  population: 200000
+  population: {actual: 200000}
   packFolder: taruzel
   culture: taruzelianclt
   government: yamuzel

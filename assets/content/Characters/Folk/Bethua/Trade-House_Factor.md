@@ -71,7 +71,7 @@ sohl:
     - {key: slkshirt, model: sohl-sohl-armorgear-slkshirt}
     - {key: sgtrsr, model: sohl-sohl-armorgear-sgtrsr}
     - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
-    - {key: credittally, model: sohl-sohl-miscgear-credittally}
+    - {key: credittally, model: miscgear-credittally}
     - {key: coinbalanc, model: sohl-sohl-miscgear-coinbalanc}
   system:
     body:

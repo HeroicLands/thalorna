@@ -26,7 +26,7 @@ data:
           Runs a great house of the capital, and shares what the work has taught with the others.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

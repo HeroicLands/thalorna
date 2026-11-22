@@ -105,13 +105,13 @@ Choose Galezkara if you want to work in the shadow of the throne, the great temp
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND data.culture = 'thalorna-note-lore-khelathiclt'
-  AND data.population >= 20000
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+  AND data.population.apparent >= 20000
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 The provinces are grouped four ways, and the grouping is most of what a traveler needs: [[affiliation-deltaselatu|the Delta Selatu]] are rich and cosmopolitan, [[affiliation-upperrivrslt|the Upper River Selatu]] are the grain and the old religion, [[affiliation-borderselatu|the Border Selatu]] are a military frontier, and [[affiliation-capitalselat|the Capital Selat]] is a province-sized city that thinks it is the empire.

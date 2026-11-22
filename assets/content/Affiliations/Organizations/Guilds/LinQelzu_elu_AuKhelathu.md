@@ -26,7 +26,7 @@ data:
           A maker of vaults, strongboxes and door-locks certified by the guild.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

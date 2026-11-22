@@ -38,7 +38,7 @@ data:
       Standard-Bearer: >-
         A Spear-Sworn or an Old Hand who carries the company's standard, a gray boundary-stone on a black field, when the company marches.
   seat: dolvar
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

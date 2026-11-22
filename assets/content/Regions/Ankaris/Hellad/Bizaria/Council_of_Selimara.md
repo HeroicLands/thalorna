@@ -25,8 +25,8 @@ data:
           Lives in Selímara under its council.
     offices: {}
   seat: selimara
-  population: null
-  territorial_population: 5000
+  population: {actual: null}
+  territorial_population: {actual: 5000}
   economy: []
   lore: [humanflk]
   parents: [byzarianlg]

@@ -41,7 +41,7 @@ data:
       Councilor of the Seal: >-
         One of the twelve Senior Brothers, drawn from the five kingdoms, who sit on the Council of the Seal and meet quarterly at Ólvestra.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

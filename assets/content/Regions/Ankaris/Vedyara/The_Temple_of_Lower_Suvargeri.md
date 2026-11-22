@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The Mahajaya temple at the foot of the mountain where the Bharava proper begins, with the jewelers' quarter at its gate and the youngest of the three priests in its house."
 tags: [sacred, temple, mountain, inland]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [suvargerijnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **The temple of Lower Suvargeri** stands at the foot of [[place-goldmountain|the Gold Mountain]], where [[place-bharavarivr|the Bharava]] proper begins. It is the temple outsiders meet, because the road up the valley reaches it first and because the jewelers' quarter is at its gate.

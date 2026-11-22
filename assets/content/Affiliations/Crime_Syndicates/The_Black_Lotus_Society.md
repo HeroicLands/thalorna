@@ -59,7 +59,7 @@ data:
       Assassin: >-
         Arranger of deaths that read as the natural consequence of the victim's own disgrace.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

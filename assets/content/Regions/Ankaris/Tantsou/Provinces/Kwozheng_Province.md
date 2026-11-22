@@ -49,8 +49,8 @@ data:
         Tanchei officer who keeps the rolls of the garrison colonies, by which each colonist's land is held and each muster called.
       Magistrate: Reads the Teng Lou in the Prince's courts and hears the cases of a district behind the marches.
   seat: kwozheng
-  population: 20000000
-  territorial_population: 20000000
+  population: {actual: 20000000}
+  territorial_population: {actual: 20000000}
   economy: []
   lore: [humanflk]
   parents: [tantsouempr]

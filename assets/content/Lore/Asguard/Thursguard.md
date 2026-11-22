@@ -5,7 +5,7 @@ type: place
 subType: world
 description: "The plane that confines the giant-kin defeated by the Ten."
 tags: [asguardian]
-data: {demonym: null, lore: [], parents: [], population: null, packFolder: settinglore}
+data: {demonym: null, lore: [], parents: [], population: {actual: null}, packFolder: settinglore}
 ---
 
 "Nobody describes Thursguard from the inside," a rune-priest at [[place-odholm|Odholm]] says to a newcomer, "and that is the whole of what we teach about it." The [[affiliation-asguardian|Ten]] drove the defeated [[lore-thursaett|Thursaett]] into it before the world stood. It is an enclosed world, walled out in the _ginn_, the void beyond creation that [[lore-theshadow|the Shadow]] comes from, and the giants were driven past the edge of anything made to reach it.

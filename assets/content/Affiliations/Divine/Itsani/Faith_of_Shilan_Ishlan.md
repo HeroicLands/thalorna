@@ -73,7 +73,7 @@ data:
       Reckoner of Distances: >-
         Holds the measured lengths and stages between cities, worked with the astronomers, on which every itinerary and toll is based.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [xilanixlandty]
   parents: [itzanpnthn]

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]
-  population: null
+  population: {actual: null}
   type: village
   market: subsistence
   culture: hvarnclt

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [dunhardsrtrgn]
-  population: 600
+  population: {actual: 600}
   market: local
   type: village
   government: trbtvrzvd

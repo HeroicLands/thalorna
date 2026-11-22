@@ -25,7 +25,7 @@ data:
         description: >-
           A sworn eunuch-warrior of the cadre.
   seat: bethura
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [mtrrchybth]

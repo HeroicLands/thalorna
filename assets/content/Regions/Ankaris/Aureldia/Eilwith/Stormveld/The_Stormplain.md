@@ -13,7 +13,7 @@ data:
     - {to: nordfells, bearing: N}
     - {to: sunderfells, bearing: S}
     - {to: stormwood, bearing: W}
-  population: 112000
+  population: {actual: 112000}
   packFolder: eilwith
   government: jrldmstrmvld
 ---

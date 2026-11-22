@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "A lord's manor of Nordheim whose hunting grounds are kept by the head huntsman Skilfvir Asgrind and hunted at the lord's feasts."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [nordheim], population: 0, packFolder: nordheim}
+data: {demonym: null, lore: [], parents: [nordheim], population: {actual: 0}, packFolder: nordheim}
 ---
 
 ## Overview {#overview}

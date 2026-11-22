@@ -36,7 +36,7 @@ data:
       Seeker Abroad: >-
         Held by a Companion. Sent off the island to find who can read the slabs, or a work elsewhere that might explain the works at home, bearing what the circle can spare for the search.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [tharivaan]

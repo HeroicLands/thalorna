@@ -42,7 +42,7 @@ data:
       River-Master: >-
         A Veteran who commands the escort of the barge strings and keeps the company's boats.
   seat: outskirtsorz
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

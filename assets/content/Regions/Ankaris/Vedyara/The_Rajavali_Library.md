@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The Memory-Keeper's archive at Rajepur—every chronicle, treaty and legal text of the kingdom-period, and every sabhra session since the kingdom was dissolved."
 tags: [sacred, river, inland]
-data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [rajepurjnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **The Rajavali Library** stands in the outer courts of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajepur|Rajepur]], in what was once the royal council-chamber of [[lore-mhndkngdm|the Kingdom of Mahanodi]]. The building outlived the kingdom because the sabhra that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.

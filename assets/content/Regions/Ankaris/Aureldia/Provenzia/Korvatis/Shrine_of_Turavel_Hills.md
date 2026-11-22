@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "An abandoned shrine hidden in the Túravel Hills—a place of powerful pre-Aureldían worship of the Old Gods, undisturbed for centuries and guarded still by fae spirits."
 tags: [sacred, hill, woodland]
-data: {demonym: null, lore: [], parents: [thuravelhills], population: null, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [thuravelhills]
+  population: {actual: null}
+  packFolder: provenzia
 ---
 
 Somewhere in the [[place-thuravelhills|Túravel Hills]] in the southern part of the

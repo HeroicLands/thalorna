@@ -45,7 +45,7 @@ data:
       Logskáld: >-
         Specialized in the recitation of legal precedents and the witnessing of formal proceedings; few in number but indispensable to Nordland legal practice.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

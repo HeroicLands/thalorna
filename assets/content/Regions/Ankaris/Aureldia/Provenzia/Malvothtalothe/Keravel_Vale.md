@@ -9,7 +9,7 @@ data:
   demonym: Kéravian
   lore: []
   parents: [talothe]
-  population: 9000
+  population: {actual: 9000}
   borders: [{to: leravren, bearing: NE}, {to: leravrncstl, bearing: NE}, {to: athavel, bearing: W}]
   government: kngdmprvnz
   packFolder: provenzia

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk, grukarfolk, flksenali, flkkhazar]
   parents: [ankrscntnnt]
-  population: 38000000
+  population: {actual: 38000000}
   packFolder: midhalion
 
 # terran_analog: "The Mediterranean basin—a cross-continental constellation of polities ringing the Vilérian Sea, with the Vilérian heartland centered on the Italian peninsula and Adriatic east, Taruzel on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Zerathia."

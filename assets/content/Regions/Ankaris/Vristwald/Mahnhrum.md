@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The kinsmen's mound beside Mahnreth, raised with grave goods and no dead for the Varokh the Grukar took."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [mahnryth], population: 0, packFolder: vrystwald}
+data:
+  demonym: null
+  lore: []
+  parents: [mahnryth]
+  population: {actual: 0}
+  packFolder: vrystwald
 ---
 
 **Mahnhrum**, the kinsmen's mound, stands beside [[place-mahnryth|Mahnreth]] in [[place-skathwald|Skathwald]]. It was raised for the people the [[lore-grukarfolk|Grukar]] took in the winters of the Waking, of whom nothing was left to bury, so it holds grave goods and no dead. Mahnreth raises its lament here at the seasonal turning, and every Skathwald child is taken to it once and told why the village sings at the mound and never at the thicket a day's walk east.

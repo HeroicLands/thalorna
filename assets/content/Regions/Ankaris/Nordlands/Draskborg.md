@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "A Targud beacon-tower and palisade on a rise above the river, raised by Braldmil I on the burned ground, and the refugee fortress of the Heroes of Asguard tales."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [targud], population: 0, packFolder: nordlands}
+data: {demonym: null, lore: [], parents: [targud], population: {actual: 0}, packFolder: nordlands}
 ---
 
 Everyone who reaches Draskborg has lost something on the road. The fortress stands on a rise above the river on the burned ground of [[place-targud|Targud]]'s east, a day and a half from [[place-tvalgard|Tvalgard]] by the sledge road and two days back against the weather. Its walls shelter refugees: people driven off their land who have nowhere else to go. The gate-wardens know what each arrival costs the fortress, which is one more mouth to feed, and they open the gate all the same.

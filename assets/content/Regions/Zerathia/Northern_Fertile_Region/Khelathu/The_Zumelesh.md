@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [aukhelathrgq]
   routes: [{to: maguithnet, bearing: W, mode: boat, days: 2, terrain: [river, lake]}]
-  population: null
+  population: {actual: null}
   packFolder: regkhregn
 ---
 

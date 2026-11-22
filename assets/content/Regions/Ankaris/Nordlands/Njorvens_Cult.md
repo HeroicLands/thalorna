@@ -26,7 +26,7 @@ data:
           Belongs to the cult that venerates Njorven.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

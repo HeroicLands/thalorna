@@ -36,7 +36,7 @@ data:
         Held by a Free Captain, chosen by a council. Keeps the receipts the Hitusuni gave the flotilla for its prize cargoes, and decides with the council when one is to be presented.
   seat: null
   range: [taruzelrgn]
-  population: 900
+  population: {actual: 900}
   economy: []
   lore: [humanflk]
   parents: []

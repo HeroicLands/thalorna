@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "A sea crossed on the pilgrim road to the ancient astrological sites sacred to Au'Khelathu's early astrologers."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [xerathia], population: 0, packFolder: xerathia}
+data: {demonym: null, lore: [], parents: [xerathia], population: {actual: 0}, packFolder: xerathia}
 ---
 
 ## Overview {#overview}

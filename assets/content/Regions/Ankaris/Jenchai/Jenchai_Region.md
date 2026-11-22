@@ -11,7 +11,7 @@ data:
   parents: [ankrscntnnt]
   borders: [{to: easternstrt, bearing: W}]
   routes: [{to: easternstrt, bearing: W, mode: ship, days: 1, terrain: [open-sea]}]
-  population: 500000
+  population: {actual: 500000}
   packFolder: jenchai
   culture: jenchaiclt
   government: jenchaiempr

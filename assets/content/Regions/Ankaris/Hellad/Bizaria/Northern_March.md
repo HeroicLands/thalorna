@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [byzariargn]
-  population: null
+  population: {actual: null}
   packFolder: byzaria
 
 # terran_analog: "The Pontic uplands of northern Anatolia, facing the steppe grain country beyond."

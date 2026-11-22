@@ -12,7 +12,7 @@ data:
   routes:
     - {to: batarencity, bearing: S, mode: land, days: 2, terrain: [forest, road]}
     - {to: liranel, bearing: N, mode: land, days: 3, terrain: [forest, road]}
-  population: null
+  population: {actual: null}
   packFolder: provenzia
 ---
 

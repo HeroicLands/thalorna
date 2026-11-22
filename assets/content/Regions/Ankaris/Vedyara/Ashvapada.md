@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [bhumipalland]
-  population: 3200
+  population: {actual: 3200}
   type: town
   market: local
   routes:

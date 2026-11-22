@@ -32,7 +32,7 @@ data:
       Head of House Kórisvar: >-
         Held by one Of the Main Line. Holds the Kórisvar estate, the fishing rights and the share of the salt pans, sits on Lizela's charter council, and answers for every Kórisvar.
   seat: lizela
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

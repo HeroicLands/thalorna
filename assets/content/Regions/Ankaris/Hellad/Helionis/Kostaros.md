@@ -11,7 +11,7 @@ data:
   parents: [helionis]
   market: regional
   type: city
-  population: 30000
+  population: {actual: 30000}
   government: kostaros2
   notes: "The coastal Helionite city of about 30,000 people that governs the Kostaros District and its city of Mirtelos."
 ---

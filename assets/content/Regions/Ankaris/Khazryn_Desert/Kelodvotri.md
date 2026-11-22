@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "An owned spring of twelve palms at the foot of a black mesa in the Ghoshiqor, whose tribe keeps a stone over its well and will not say what lives under it."
 tags: [oasis, well, dreadspawn]
-data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [hskrrgn]
+  population: {actual: 0}
+  packFolder: khazryndesert
 ---
 
 Two days north of the road, where the gravel of the [[place-hskrrgn|Ghoshiqor]] runs up against the foot of a black mesa, there is a ring of twelve palms around a well. The tribe that owns it, the [Kuuyoyur]{.name data-type="affiliation"}, "the arrow people", call it **Kelodvotri**, "the cold well", because the water drawn from it is cold at noon in high summer. It is a [[lore-ownedoasis|bodek]], owned water: the tribe's reserve for a dry year, visited in its season and empty the rest of it. A horse skull on a pole faces the approach, and a flat stone lies over the well-mouth with a weight on it.

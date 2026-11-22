@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [eaglettm]
   parents: [falkhaven]
-  population: 240
+  population: {actual: 240}
   market: local
   type: village
   government: vrystwldvlgcncl

@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "Highlands of Au'Khelathu whose mountain shrine keeps the oldest records of the empire's astrologers."
 tags: [draft]
-data: {demonym: null, lore: [], parents: [aukhelathrgq], population: 0, packFolder: regkhregn}
+data:
+  demonym: null
+  lore: []
+  parents: [aukhelathrgq]
+  population: {actual: 0}
+  packFolder: regkhregn
 ---
 
 ## Overview {#overview}

@@ -72,7 +72,7 @@ data:
       Wojing Ja: >-
         Wojing Ja—The Lord of Fire—the being this bureau or cultus is organized around.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [wojingjadty]
   parents: [tengwouronglei]

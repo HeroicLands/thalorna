@@ -36,7 +36,7 @@ data:
       Grave-Keeper: >-
         Held by one of the Shore Kin. Keeps a parish's passage grave, its door and its spider, and carries the drowned in when the sea gives them back.
   seat: ezkoba
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: []

@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "The burial ground of Orzara on the plain beyond the city's sacred boundary, miles of tombs kept jointly by the clergy of Sélmoros and of Nahild, whose Keepers of the Vaults hold the rock-cut galleries beneath it and take the city's unclaimed dead without a fee."
 tags: [vylaria, orzara]
-data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder: vylaria}
+data: {demonym: null, lore: [], parents: [orzara], population: {actual: null}, packFolder: vylaria}
 ---
 
 ## Overview {#overview}

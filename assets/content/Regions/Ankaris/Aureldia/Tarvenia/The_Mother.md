@@ -32,7 +32,7 @@ data:
       Village Wise-Woman: >-
         Held by a Wise-Woman. Tends the village's sick and its flocks, sets bones, delivers children, lifts the evil eye, makes charms against the dead, teaches the herbs and tells the Mother's tale in winter.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: []

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [tarvenirgn]
-  population: 11000
+  population: {actual: 11000}
   borders: [{to: talothe, bearing: W}]
   government: kingdmtrvn
   packFolder: tarvenia

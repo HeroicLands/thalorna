@@ -32,7 +32,7 @@ data:
       Keeper of the Disciplines: >-
         Sets the disciplines of the written hand that every scribal text is measured against.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [rethsaardty]
   parents: []

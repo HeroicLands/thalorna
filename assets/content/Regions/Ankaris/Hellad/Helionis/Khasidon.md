@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [khaddaria]
-  population: 3500
+  population: {actual: 3500}
   market: local
   type: town
   government: thyrenae

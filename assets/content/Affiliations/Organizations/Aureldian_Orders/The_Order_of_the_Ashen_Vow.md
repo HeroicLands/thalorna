@@ -41,7 +41,7 @@ data:
       Cell Commander: An Elder in command of a cell of four to eight Sworn Brothers.
       Councilor of the Ashen Vow: An Elder sitting in the Council that chooses the Voice of the Ash.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -12,7 +12,7 @@ data:
   routes:
     - {to: leravrncstl, bearing: S, mode: land, days: 2, terrain: [mountains, track]}
     - {to: alndntrblnds, bearing: N, mode: land, days: 3, terrain: [mountains, track]}
-  population: null
+  population: {actual: null}
   packFolder: provenzia
 ---
 

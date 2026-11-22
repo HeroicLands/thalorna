@@ -47,16 +47,6 @@ data:
       Master of Riders: Captain of the tribe's young horsemen when they ride together against raiders or for hire.
   seat: dorumbecamp
   settlements:
-    - settlement: Thumbel Camp
-      polity: affiliation-dorumbetribe
-      location: place-sthmrchsrgn
-      type: encampment
-      fortification: none
-      stronghold: null
-      holder: affiliation-dorumbetribe
-      population: 900
-      market: subsistence
-      notes: A clan's tents around a rock-cistern in the western belt.
     - settlement: Ngarali Well
       polity: affiliation-dorumbetribe
       location: place-sthmrchsrgn
@@ -64,7 +54,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-dorumbetribe
-      population: 600
+      population: {actual: 600}
       market: subsistence
       notes: A spring-camp where the herds are watered in the dry months.
     - settlement: Kwendo Camp
@@ -74,11 +64,11 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-dorumbetribe
-      population: 450
+      population: {actual: 450}
       market: subsistence
       notes: A small camp on the streambed grass, held by one clan's households.
-  population: null
-  territorial_population: 280000
+  population: {actual: null}
+  territorial_population: {actual: 280000}
   economy: [lore-bartercnmy, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: []

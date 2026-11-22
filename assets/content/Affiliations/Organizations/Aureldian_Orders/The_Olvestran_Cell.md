@@ -35,7 +35,7 @@ data:
     offices:
       Cell Commander: The Elder of the Ash in command of the cell. Its holder is not publicly known.
   seat: olvestria
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [ordershnvw]

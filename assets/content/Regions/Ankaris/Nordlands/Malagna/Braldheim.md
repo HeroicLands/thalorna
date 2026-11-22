@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [malagna]
-  population: 350
+  population: {actual: 350}
   market: local
   type: village
   packFolder: malagna

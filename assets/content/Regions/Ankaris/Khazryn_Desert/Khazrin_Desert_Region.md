@@ -21,7 +21,7 @@ data:
     - {to: gudesroad, bearing: S, mode: land, days: 45}
     - {to: suryadvar, bearing: S, mode: land, days: 30}
     - {to: tamradvar, bearing: S, mode: land, days: 30}
-  population: 3000000
+  population: {actual: 3000000}
   packFolder: khazryndesert
   government: null
   culture: khazrynclt

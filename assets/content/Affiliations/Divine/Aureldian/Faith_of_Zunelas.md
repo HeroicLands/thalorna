@@ -49,7 +49,7 @@ data:
         The temple-house in which petitioners sleep to receive their dreams.
   seat: null
   range: [provenzrgn]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [zunelasdty]
   parents: [arldnpnthn]

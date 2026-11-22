@@ -26,7 +26,7 @@ data:
           A logger, hauler or timber-merchant of the guild, working to its disputed standard.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

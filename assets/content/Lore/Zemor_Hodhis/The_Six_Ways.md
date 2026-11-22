@@ -27,7 +27,7 @@ data:
           Reckons the arcane by the six rheza and holds that reckoning as the structure of magic itself. Every mage of the Order stands here, whatever rhezin admits them, and a scholar may hold the framework without ever being admitted to one.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [lizelasdty]
   parents: [velanthrgn]
-  population: null
+  population: {actual: null}
   packFolder: velanthia
 ---
 

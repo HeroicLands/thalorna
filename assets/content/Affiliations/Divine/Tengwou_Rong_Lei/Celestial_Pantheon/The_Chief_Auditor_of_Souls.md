@@ -75,7 +75,7 @@ data:
       Advocate: >-
         Prosecutes appeals before the Supreme Administrative Court, citing precedent against a ruling. Most fail; the avenue exists.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: []
   parents: [tengwouronglei]

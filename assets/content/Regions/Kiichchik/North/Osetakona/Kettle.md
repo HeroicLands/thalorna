@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [osetakonaclt]
   parents: [kahsiotargn]
-  population: 2000
+  population: {actual: 2000}
   type: town
   market: local
   government: osetakona

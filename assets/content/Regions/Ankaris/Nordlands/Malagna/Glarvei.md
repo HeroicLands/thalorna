@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [malagna]
+  population: {actual: null}
   packFolder: malagna
   notes: "An island holding of Malagna, seat of the Hersvald of Glarvei, whose halls are thatched by a Hvalgvík thatcher."
 ---

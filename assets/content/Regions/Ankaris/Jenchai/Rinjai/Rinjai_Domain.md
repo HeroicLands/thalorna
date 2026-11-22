@@ -45,8 +45,8 @@ data:
         Great Lord of Rinjai, who holds the mountain by the Emperor's patent with his own army, fleet, justice and taxes, and rules it from Rinwu. Held by a Dauzhwo.
       Judge: Chosen from the Dauzhwo's retainers to hear the cases of the town of Rinwu.
   seat: rinwu
-  population: 41000
-  territorial_population: 41000
+  population: {actual: 41000}
+  territorial_population: {actual: 41000}
   settlements:
     - settlement: Jawo
       polity: affiliation-rinjaidmn
@@ -55,7 +55,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-rinjaidmn
-      population: 190
+      population: {actual: 190}
       market: local
       notes: "Blade Sea. Demesne. The raiders' harbor. Head village of a district assessed at 700 bales."
     - settlement: Hennu
@@ -65,7 +65,7 @@ data:
       fortification: null
       stronghold: null
       holder: affiliation-jenchaiempr
-      population: 300
+      population: {actual: 300}
       market: local
       notes: "Tiger Terraces. Court estate. Rice. Head village of a district assessed at 1,100 bales."
     - settlement: Sudu
@@ -75,7 +75,7 @@ data:
       fortification: null
       stronghold: null
       holder: "A Shwizhwo of the domain"
-      population: 240
+      population: {actual: 240}
       market: local
       notes: "Serpent Road. Fief. The switchback road over Rinjai. Head village of a district assessed at 900 bales."
   economy: []

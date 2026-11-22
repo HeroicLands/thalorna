@@ -54,7 +54,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hasembetribe
-      population: 800
+      population: {actual: 800}
       market: subsistence
       notes: Tents and horse-lines at a walled well in the eastern belts.
     - settlement: Njeko Camp
@@ -64,7 +64,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hasembetribe
-      population: 550
+      population: {actual: 550}
       market: subsistence
       notes: A camp of herd-keepers beside a lidded cistern.
     - settlement: Okhelo Camp
@@ -74,11 +74,11 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-hasembetribe
-      population: 400
+      population: {actual: 400}
       market: subsistence
       notes: A far-belt camp the herds reach at the end of the dry months.
-  population: null
-  territorial_population: 220000
+  population: {actual: null}
+  territorial_population: {actual: 220000}
   economy: [lore-bartercnmy, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: []

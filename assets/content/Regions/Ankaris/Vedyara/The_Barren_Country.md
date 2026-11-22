@@ -9,7 +9,7 @@ data:
   demonym: Vandhyan
   lore: [vedyariclt]
   parents: [vedyarargn]
-  population: 1200000
+  population: {actual: 1200000}
   packFolder: vedyara
   government: gomarga
 
@@ -56,7 +56,7 @@ Janpodas sit where the tanks are largest, in the north and east where the soil d
 SELECT s.address.slug AS _ref,
        s.name.full AS "Name",
        s.data.market || ' ' || m.name AS "Market",
-       s.data.population AS "People",
+       s.data.population.apparent AS "People",
        (SELECT CASE
                    WHEN p.address.slug IS NULL THEN p.name.full
                    ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'

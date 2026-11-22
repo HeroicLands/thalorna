@@ -8,7 +8,7 @@ tags: []
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [commoner, woodsman]
+  archetypes: [woodsman]
   occupation: Herder
   lore: []
   culture: okharinclt

@@ -52,7 +52,7 @@ data:
       Griot of the Ruwozi: >-
         Keeps the lion genealogies, the memory-song of the swearing and the recital of the women who have borne the title.
   seat: mbolewevlg
-  population: 800000
+  population: {actual: 800000}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk, lionruwozispr]
   parents: [nylbtrblntn]

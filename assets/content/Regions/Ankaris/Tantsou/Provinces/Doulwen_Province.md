@@ -49,8 +49,8 @@ data:
         Tanchei officer who documents, classifies and taxes the caravan goods unloaded at Doulwen.
       Magistrate: Reads the Teng Lou in the Prince's courts, and settles a foreign traveler's classification when the road brings one in.
   seat: doulwen
-  population: 22000000
-  territorial_population: 22000000
+  population: {actual: 22000000}
+  territorial_population: {actual: 22000000}
   economy: []
   lore: [humanflk]
   parents: [tantsouempr]

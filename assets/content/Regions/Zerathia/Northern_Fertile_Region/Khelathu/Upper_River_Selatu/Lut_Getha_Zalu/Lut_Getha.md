@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [lutgethazalunome]
-  population: 7200
+  population: {actual: 7200}
   type: town
   market: regional
   packFolder: regkhsett

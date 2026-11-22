@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "The chain of wells, rock-cisterns and springs that holds the South Marches together, every one named and claimed by the clan that waters at it."
 tags: [well, water, south-marches, draft]
-data: {demonym: null, lore: [], parents: [sthmrchsrgn], population: null, packFolder: xerathia}
+data:
+  demonym: null
+  lore: []
+  parents: [sthmrchsrgn]
+  population: {actual: null}
+  packFolder: xerathia
 ---
 
 ## Overview {#overview}

@@ -57,7 +57,7 @@ data:
       Embassy Liaison: Carrier of the arrangement with the Thordimalon embassy in the capital.
       Keeper of Leverage: Head of the small unit that holds the blackmail on which the embassy arrangement rests.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

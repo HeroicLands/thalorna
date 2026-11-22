@@ -72,7 +72,7 @@ data:
       Tanzho: >-
         Tanzho—The First Classifier—the being this bureau or cultus is organized around.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [tanzhodty]
   parents: [tengwouronglei]

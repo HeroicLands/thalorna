@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
+  population: {actual: null}
   packFolder: nordlands
   notes: "A Nordlands city of strict laws and rigid order, brought to riot by Skulfmil Fire-Tongue, whose ruling council has put the largest bounty in northern history on his head."
 ---

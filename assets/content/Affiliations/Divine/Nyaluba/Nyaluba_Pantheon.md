@@ -54,7 +54,7 @@ data:
       Keeper of the Tally: >-
         Recorder of the offerings owed and made under each standing pact, without which the reckoning cannot be kept.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [nyalbsprts, shorinyadty]
   parents: []

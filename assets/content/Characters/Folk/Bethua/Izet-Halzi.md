@@ -72,7 +72,7 @@ sohl:
     - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
     - {key: sealsignat, model: sohl-sohl-miscgear-sealsignat}
     - {key: scribekit, model: sohl-sohl-miscgear-scribekit}
-    - {key: credittally, model: sohl-sohl-miscgear-credittally}
+    - {key: credittally, model: miscgear-credittally}
     - {key: coinbalanc, model: sohl-sohl-miscgear-coinbalanc}
   system:
     body:

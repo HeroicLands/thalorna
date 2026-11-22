@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [eskarath]
-  population: 450
+  population: {actual: 450}
   market: local
   type: village
   packFolder: tarvenia

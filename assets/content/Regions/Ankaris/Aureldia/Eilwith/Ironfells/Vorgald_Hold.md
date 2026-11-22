@@ -47,8 +47,8 @@ data:
       Keeper of the Dead: >-
         Keeps the burial valley of Threndale and the graves of the free Vardain, and buries the valleys' dead.
   seat: vorgald
-  population: 10500
-  territorial_population: 11000
+  population: {actual: 10500}
+  territorial_population: {actual: 11000}
   economy: []
   lore: [flkkhazar, vardain]
   parents: []

@@ -11,7 +11,7 @@ data:
   lore: [humanflk, grukarfolk, flksenali, flkkhazar]
   parents: [ankrscntnnt]
   borders: [{to: nrdlndsrgn, bearing: N}, {to: vrystwald, bearing: N}]
-  population: 11000000
+  population: {actual: 11000000}
   packFolder: aureldia
 
 # terran_analog: Medieval Western Europe (Western Christendom)

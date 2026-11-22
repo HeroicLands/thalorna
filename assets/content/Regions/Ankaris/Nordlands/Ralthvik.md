@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
+  population: {actual: null}
   packFolder: nordlands
   notes: "A Nordlands fishing village saved from sea raiders by Skalforv Thunderstrike, whose richest fisherwoman keeps him supplied with a ship and crew."
 ---

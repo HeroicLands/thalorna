@@ -66,8 +66,8 @@ data:
       Agent in the Lost Cities: >-
         Held by one Of the Tablets. Lives in a held city as a merchant, a clerk or a water-master, and tells the exile houses how matters stand there.
   seat: null
-  population: 800000
-  territorial_population: 800000
+  population: {actual: 800000}
+  territorial_population: {actual: 800000}
   economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
   lore: [humanflk]
   parents: []

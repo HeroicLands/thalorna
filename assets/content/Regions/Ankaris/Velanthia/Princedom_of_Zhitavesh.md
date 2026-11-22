@@ -48,8 +48,8 @@ data:
       Reeve of the Pass Market: >-
         Keeps the toll on every wagon through the south gate of Tveskavesh and the order of its stables.
   seat: zhtvsh
-  population: null
-  territorial_population: 650000
+  population: {actual: null}
+  territorial_population: {actual: 650000}
   settlements:
     - settlement: Charvavesh
       polity: affiliation-prncdmzhtvsh
@@ -58,7 +58,7 @@ data:
       fortification: palisade
       stronghold: null
       holder: affiliation-prncdmzhtvsh
-      population: 4500
+      population: {actual: 4500}
       market: regional
       notes: "A black-earth market town whose autumn fair sets the year's price for grain."
     - settlement: Svelavesh
@@ -68,7 +68,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmzhtvsh
-      population: 3500
+      population: {actual: 3500}
       market: local
       notes: "A mill town on the lowland river that grinds for the grain barges."
     - settlement: Teshavesh
@@ -78,7 +78,7 @@ data:
       fortification: palisade
       stronghold: null
       holder: affiliation-prncdmzhtvsh
-      population: 3000
+      population: {actual: 3000}
       market: local
       notes: "A river-crossing town that lives on its ferry and its toll."
     - settlement: Krodavesh
@@ -88,7 +88,7 @@ data:
       fortification: palisade
       stronghold: tower
       holder: affiliation-prncdmzhtvsh
-      population: 2500
+      population: {actual: 2500}
       market: local
       notes: "A market town on the road to the Hosts' country, where drovers sell horses and buy seed."
     - settlement: Volkarov
@@ -98,7 +98,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmzhtvsh
-      population: 900
+      population: {actual: 900}
       market: local
       notes: "A mill-and-granary village that supplies the seat's barns."
     - settlement: Duvekov
@@ -108,7 +108,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmzhtvsh
-      population: 800
+      population: {actual: 800}
       market: local
       notes: "A village of oak-timbered farmsteads on the upper river meadow."
     - settlement: Zhitekov
@@ -118,7 +118,7 @@ data:
       fortification: none
       stronghold: null
       holder: affiliation-prncdmzhtvsh
-      population: 600
+      population: {actual: 600}
       market: subsistence
       notes: "A flax-growing village that sells its harvest to the mill town."
   economy: []

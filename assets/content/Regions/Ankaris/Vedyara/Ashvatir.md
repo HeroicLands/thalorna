@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [danurkotjnpd]
-  population: 600
+  population: {actual: 600}
   market: local
   type: village
   packFolder: vedyara

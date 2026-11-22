@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [southkiichchikclt]
   parents: [southkiichchik]
-  population: null
+  population: {actual: null}
   packFolder: qapteltzakul
   government: qapteltzakl
 ---

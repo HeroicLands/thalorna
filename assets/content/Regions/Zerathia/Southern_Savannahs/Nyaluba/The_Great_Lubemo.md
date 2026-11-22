@@ -36,7 +36,7 @@ data:
       Convener: >-
         Summons the Great Lubemo, keeps its order of speaking and speaks last; held by the Ruwozi paramount.
   seat: hetolubemo
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [nylbtrblntn]

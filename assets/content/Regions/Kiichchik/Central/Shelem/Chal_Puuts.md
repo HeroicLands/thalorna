@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [xelemrgn]
-  population: 1000
+  population: {actual: 1000}
   market: local
   type: town
   government: xelem

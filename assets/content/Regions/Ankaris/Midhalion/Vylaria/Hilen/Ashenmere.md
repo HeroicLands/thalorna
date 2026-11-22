@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [hylen]
-  population: 4000
+  population: {actual: 4000}
   market: local
   type: town
   routes: [{to: nartum, bearing: N, mode: land, days: 5, terrain: [road, forest]}]

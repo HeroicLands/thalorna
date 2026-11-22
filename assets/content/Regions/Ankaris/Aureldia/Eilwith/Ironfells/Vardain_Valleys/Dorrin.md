@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [vardain]
   parents: [vardainvalleys]
-  population: 400
+  population: {actual: 400}
   market: local
   type: village
   government: vrgldhld

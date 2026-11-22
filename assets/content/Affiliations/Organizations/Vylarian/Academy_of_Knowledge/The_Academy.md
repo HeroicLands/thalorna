@@ -36,7 +36,7 @@ data:
       Common Assembly: >-
         Held collectively by the heads of the philosophical colleges, convened to set institutional policy, resolve disputes and maintain standards. The Thordimalon dominates the federation in practice.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: [affiliation-tevran]
   lore: []
   parents: []

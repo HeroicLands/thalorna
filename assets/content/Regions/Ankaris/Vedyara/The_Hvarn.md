@@ -56,8 +56,8 @@ data:
       Bone-bringer: >-
         Recoverer of the dead from the gorges, and keeper of where each was found.
   seat: nurvhrn
-  population: 9000
-  territorial_population: 9000
+  population: {actual: 9000}
+  territorial_population: {actual: 9000}
   economy: [lore-bartercnmy]
   lore: [hvarnclt]
   parents: []

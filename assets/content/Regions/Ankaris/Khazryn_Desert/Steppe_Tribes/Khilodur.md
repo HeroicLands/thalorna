@@ -39,7 +39,7 @@ data:
       Elder: Senior of a lineage, keeper of the count of the lines.
       Salt-Guide: Rider who takes the salt strings from the rim to Qiiso.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

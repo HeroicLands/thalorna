@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [orzara]
-  population: 190000
+  population: {actual: 190000}
   packFolder: vylaria
   government: verdanorzara
 ---

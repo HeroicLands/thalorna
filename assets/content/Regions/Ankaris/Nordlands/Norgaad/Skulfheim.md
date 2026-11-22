@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [norgaad]
-  population: 0
+  population: {actual: 0}
   packFolder: norgaad
   notes: "A Norgaad mining place whose miners knock on their timber and listen for the thursar before entering a gallery."
 ---

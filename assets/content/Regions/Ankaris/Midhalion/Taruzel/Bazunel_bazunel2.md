@@ -9,7 +9,7 @@ data:
   demonym: Bazunelian
   lore: [humanflk]
   parents: [tashilar]
-  population: 150000
+  population: {actual: 150000}
   type: city
   market: international
   packFolder: taruzel

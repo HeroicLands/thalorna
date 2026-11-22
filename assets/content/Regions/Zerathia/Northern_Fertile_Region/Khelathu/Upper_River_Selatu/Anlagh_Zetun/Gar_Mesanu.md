@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [anlaghztnslt]
-  population: 160
+  population: {actual: 160}
   market: local
   type: village
   packFolder: regkhsett

@@ -31,8 +31,8 @@ data:
       Speaker of the Table: >-
         The master of the city's Epistémion chapterhouse, by the charter. Presides over the Table and over every meeting of envoys held in the chapterhouse hall.
   seat: veldareth
-  population: 1500
-  territorial_population: 1500
+  population: {actual: 1500}
+  territorial_population: {actual: 1500}
   economy: [lore-vylrncrncy]
   lore: [humanflk]
   parents: []

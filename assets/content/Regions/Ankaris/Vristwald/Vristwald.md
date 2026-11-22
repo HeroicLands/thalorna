@@ -18,7 +18,7 @@ data:
     - {to: grkrhlmrgn, bearing: E}
     - {to: vylariargn, bearing: SE}
     - {to: moktur, bearing: S}
-  population: 500000
+  population: {actual: 500000}
   routes:
     - {to: falkhaven, bearing: W, mode: land, days: 30, terrain: [forest]}
     - {to: vandstein, bearing: SE, mode: land, days: 20, terrain: [forest, mountains]}

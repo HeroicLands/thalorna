@@ -31,8 +31,8 @@ data:
       Lord of the Enclave: >-
         Held by a Lord, raised to it for things done and by every voice. Governs Aelirosse after the Senali manner, which is not the manner of a human lordship.
   seat: aelirosse
-  population: 120
-  territorial_population: 120
+  population: {actual: 120}
+  territorial_population: {actual: 120}
   economy: []
   lore: [flksenali]
   parents: []

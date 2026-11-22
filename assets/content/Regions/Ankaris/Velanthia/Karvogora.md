@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [velanthrgn, helionis, northrnmrch]
-  population: 0
+  population: {actual: 0}
   packFolder: velanthia
 ---
 

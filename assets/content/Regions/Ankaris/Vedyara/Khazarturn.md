@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [flkkhazar]
   parents: [sthrnwall]
-  population: 0
+  population: {actual: 0}
   packFolder: vedyara
   notes: "The sealed city of the Khazari, intact and the tomb of the thirty thousand who died in it."
 ---

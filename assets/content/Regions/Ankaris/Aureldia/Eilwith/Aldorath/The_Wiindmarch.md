@@ -11,7 +11,7 @@ data:
   lore: []
   parents: [aldorathrgn]
   borders: [{to: aldorvale, bearing: S}, {to: ironfells, bearing: N}]
-  population: 34000
+  population: {actual: 34000}
   packFolder: eilwith
 ---
 

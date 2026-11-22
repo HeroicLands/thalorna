@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "The deep forest across the western sixth of Provénzia's northern edge, between the hinterland of the Gulf of Bataren and the forest belt of Lirve, crossed by one road, the Darvena Road, the chief trade road between Provénzia and Élavendre."
 tags: [woodland, border, inland]
-data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [sathvothe]
+  population: {actual: null}
+  packFolder: provenzia
 ---
 
 ## Overview {#overview}

@@ -13,7 +13,7 @@ data:
     - {to: grumagando, bearing: W, mode: land, days: 1, terrain: [mountains, road]}
     - {to: durvalis, bearing: W, mode: land, days: 3, terrain: [mountains, road]}
     - {to: mirgonlodge, bearing: N, mode: land, days: 1, terrain: [mountains, forest]}
-  population: null
+  population: {actual: null}
   packFolder: tarvenia
 ---
 

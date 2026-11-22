@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [velanthrgn]
-  population: 2500
+  population: {actual: 2500}
   government: hstkhrd
   type: town
   fortification: palisade

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [klhrring]
-  population: null
+  population: {actual: null}
   packFolder: kalihara
   culture: kaliharanclt
 ---

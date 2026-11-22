@@ -10,7 +10,7 @@ data:
   lore: [humanflk]
   parents: [khzryndsrtrgn]
   borders: [{to: dkrqrrgn, bearing: N}, {to: graznmntns, bearing: S}]
-  population: 1800000
+  population: {actual: 1800000}
   packFolder: khazryndesert
 ---
 

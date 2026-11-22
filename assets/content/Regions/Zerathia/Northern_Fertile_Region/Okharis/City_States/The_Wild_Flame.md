@@ -11,7 +11,7 @@ data:
   culture: okharinclt
   parents: [okharisrgn]
   routes: [{to: cntrlrnfrsts, bearing: S, mode: land, days: 10, terrain: [plain, jungle]}]
-  population: 9900
+  population: {actual: 9900}
   type: town
   market: regional
   packFolder: citystates

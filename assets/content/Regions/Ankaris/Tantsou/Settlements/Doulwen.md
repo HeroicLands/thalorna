@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [doulwenbsns]
-  population: 150000
+  population: {actual: 150000}
   type: metropolis
   market: international
   government: doulwenprv

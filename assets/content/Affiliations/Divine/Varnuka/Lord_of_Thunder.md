@@ -37,7 +37,7 @@ data:
       The Silent Year of Thunder: >-
         A year speaking only the chants of the temple, and only while the drum is sounding.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [meghonatadty]
   parents: [vrnkpnthn]

@@ -41,7 +41,7 @@ data:
       Clerk of the Roll: >-
         Holds the licenses and the record of every ruling made in the ward—including the pattern, plain in the register, of which premises are inspected and which are not.
   seat: orzara
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [verdanorzara]

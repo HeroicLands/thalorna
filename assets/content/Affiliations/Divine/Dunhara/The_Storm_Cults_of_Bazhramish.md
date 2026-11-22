@@ -65,7 +65,7 @@ data:
         Holds, between gatherings, the marked stones by which the Warrior's Circle chooses its Voice of the Quarter—a small function of real constitutional weight.
   seat: null
   range: [dunhardsrtrgn]
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [bazhramis]

@@ -36,7 +36,7 @@ data:
       Rector: >-
         Held by a Master, chosen by the masters for life. Keeps the academy's roll, its charter and the keys of the archive, licenses physicians and copyists on the masters' vote, and takes the scriptorium's commissions.
   seat: aureliane
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

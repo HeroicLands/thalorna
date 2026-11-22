@@ -67,8 +67,8 @@ data:
       Ne'kalmah: >-
         Lord of the sea: rules a coastal city such as Ts'alam Ne' under the Ts'enmah, keeps its fleet, and pays its tribute in metal, cacao and feathers.
   seat: ixbaltzaku2
-  population: null
-  territorial_population: 150000
+  population: {actual: null}
+  territorial_population: {actual: 150000}
   economy: []
   lore: [southkiichchikclt]
   parents: []

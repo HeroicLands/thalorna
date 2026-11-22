@@ -49,7 +49,7 @@ data:
         The body in which the faith's practical knowledge of cultivation is held and taught.
   seat: null
   range: [ankrscntnnt]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [lusiniadty]
   parents: [arldnpnthn]

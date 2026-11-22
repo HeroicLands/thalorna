@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The marksmanship hall of the bow-fort, which teaches accuracy at extreme range and supplies the personal bowmen of Vedyari nobility."
 tags: [hall, military, inland]
-data: {demonym: null, lore: [], parents: [danurkotjnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [danurkotjnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 At **the Patient Eye** you get one arrow. A student stands at a distance the master names, shoots once, and is passed or is not; a student who is not may stand the examination again in a year.

@@ -31,25 +31,25 @@ Each prince is short of what another holds. Zhitavesh sends grain up to the fort
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Settlement",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND list_contains(data.parents, 'thalorna-note-place-velanthrgn')
-  AND data.population >= 2000
+  AND data.population.apparent >= 2000
   AND state = 'full'
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Polity",
-       data.territorial_population AS "People"
+       data.territorial_population.apparent AS "People"
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
   AND data.culture = 'thalorna-note-lore-velanthclt'
-ORDER BY data.territorial_population DESC, name.full COLLATE NOCASE
+ORDER BY data.territorial_population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 Each Host lies inside its prince's territory, so the rows overlap: about 300,000 of the people counted above live in the country of the three Hosts.

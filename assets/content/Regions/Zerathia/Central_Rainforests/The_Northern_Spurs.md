@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [cntrlrnfrsts]
-  population: null
+  population: {actual: null}
   packFolder: centralrainforests
   notes: "The highland spurs above the northern edge of the Central Rainforests, home to the Khazari hold of Magar-thubád."
 ---

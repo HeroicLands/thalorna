@@ -31,12 +31,12 @@ At the center of the forest stands [[place-vethwald|Vethwald]], the Deepwood, wh
 ```sql
 SELECT address.slug AS _ref,
        name.full AS "Village",
-       data.population AS "People"
+       data.population.apparent AS "People"
 FROM notes
 WHERE type = 'place'
   AND subType = 'settlement'
   AND data.culture = 'thalorna-note-lore-varokhiclt'
-ORDER BY data.population DESC, name.full COLLATE NOCASE
+ORDER BY data.population.apparent DESC, name.full COLLATE NOCASE
 ```
 
 The [[place-vrystwldrvrs|rivers]] change with the year. A river party covers ground far faster than walkers in summer, the spring thaw stops both, and in _grema_, deep winter, the frozen channels carry sleds, traders and raiders alike.

@@ -48,7 +48,7 @@ data:
       Chamber-Warden: >-
         The Nidrapala on watch over a sleeping petitioner, answerable for what happens while they sleep.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [svapnadevasdty]
   parents: [vrnkpnthn]

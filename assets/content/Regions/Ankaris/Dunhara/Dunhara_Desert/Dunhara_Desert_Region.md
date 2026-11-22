@@ -13,7 +13,7 @@ data:
   routes:
     - {to: khuqetmiglet, bearing: SW, mode: land, days: 20, terrain: [desert, road]}
     - {to: marchroad, bearing: SE, mode: land, days: 30, terrain: [desert, road]}
-  population: 1000000
+  population: {actual: 1000000}
   government: dunhartrbs
   packFolder: dunharadesert
 ---

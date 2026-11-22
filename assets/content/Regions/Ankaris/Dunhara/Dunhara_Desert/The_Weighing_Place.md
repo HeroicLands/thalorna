@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [dunhardsrtrgn]
-  population: 300
+  population: {actual: 300}
   government: bnchvzhmvd
   packFolder: dunharadesert
 ---

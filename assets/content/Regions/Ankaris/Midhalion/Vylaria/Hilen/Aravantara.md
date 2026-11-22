@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [hylen]
-  population: 28000
+  population: {actual: 28000}
   market: regional
   type: city
   routes: [{to: orzara, bearing: W, mode: land, days: 10, terrain: [road]}]

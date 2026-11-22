@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [alndntrblnds]
-  population: null
+  population: {actual: null}
   packFolder: elavendre
 ---
 

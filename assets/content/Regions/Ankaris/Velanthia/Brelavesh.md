@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [velanthrgn]
-  population: 20000
+  population: {actual: 20000}
   government: prncdmbrlvsh
   type: city
   fortification: walled

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [sathvothe]
-  population: 120000
+  population: {actual: 120000}
   government: kngdmprvnz
   packFolder: provenzia
 ---

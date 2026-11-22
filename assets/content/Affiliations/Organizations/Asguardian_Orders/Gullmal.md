@@ -33,7 +33,7 @@ data:
           Negotiates and carries embassies for Solrún's faith where a blunter envoy could not.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

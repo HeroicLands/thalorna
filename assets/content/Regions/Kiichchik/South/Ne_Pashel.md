@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ixbaltzakurgn]
-  population: 1400
+  population: {actual: 1400}
   type: town
   market: local
   government: ixbaltzaku

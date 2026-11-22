@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [ossendaspr]
   parents: [alndntrblnds]
-  population: null
+  population: {actual: null}
   packFolder: elavendre
 ---
 

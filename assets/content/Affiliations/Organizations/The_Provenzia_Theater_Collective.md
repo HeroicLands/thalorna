@@ -46,7 +46,7 @@ data:
       Mistress of the Patrons: Elected each year. Admits patrons on a member's sponsorship and keeps the fellowship's dealings with them.
       Keeper of the Repertoire: Elected each year. Records the Convocation's deliberations and keeps the list of endorsed plays.
   seat: jalnazdal
-  population: null
+  population: {actual: null}
   economy: [affiliation-tevran]
   lore: []
   parents: []

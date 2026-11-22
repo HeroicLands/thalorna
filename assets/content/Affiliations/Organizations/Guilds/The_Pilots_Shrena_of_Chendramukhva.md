@@ -37,7 +37,7 @@ data:
           A pilot who sits on the council and keeps a copy of the season's chart.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [chendrapur]

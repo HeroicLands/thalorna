@@ -14,7 +14,7 @@ data:
     - {to: aldorathrgn, bearing: S}
     - {to: sunnerslade, bearing: S}
     - {to: wyndmarch, bearing: S}
-  population: null
+  population: {actual: null}
   packFolder: eilwith
   culture: khazariclt
 ---

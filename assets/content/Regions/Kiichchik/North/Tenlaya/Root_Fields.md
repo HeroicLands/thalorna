@@ -10,7 +10,7 @@ data:
   demonym: Tenlaya
   lore: [tenlayaclt]
   parents: [tenlayargn]
-  population: 60000
+  population: {actual: 60000}
   packFolder: tenlaya
   government: tenlaya
 

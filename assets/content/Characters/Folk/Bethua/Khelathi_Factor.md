@@ -69,7 +69,7 @@ sohl:
     - {key: slkrobe, model: sohl-sohl-armorgear-slkrobe}
     - {key: ltshoe, model: sohl-sohl-armorgear-ltshoe}
     - {key: parchment, model: sohl-sohl-miscgear-parchment}
-    - {key: letterofcredit, model: sohl-sohl-miscgear-letterofcredit}
+    - {key: letterofcredit, model: miscgear-letterofcredit}
   system:
     body:
       structure:

@@ -58,7 +58,7 @@ data:
       Warder: >-
         Charged with the protective songs and objects carried against the hostile Kindred, and with knowing whose territory must not be entered.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [thekindred]
   parents: []

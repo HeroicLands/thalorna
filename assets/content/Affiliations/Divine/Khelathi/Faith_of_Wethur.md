@@ -49,7 +49,7 @@ data:
       Binder of the Warded Chamber: >-
         Sets the bindings in the deepest chambers: zaglu-warriors, dumatu that wake and strike when the seal is broken, and revenant-wardens, terebu that keep their wits and their post in the dark forever. It is the costliest defense and the most dreaded—and the robbers' surest master-key is a corrupt priest who knows which glyph is live and which is bluff.
   seat: khelzuret
-  population: null
+  population: {actual: null}
   economy: [affiliation-garhalzi]
   lore: [wethurdty]
   parents: [khelathpnthn]

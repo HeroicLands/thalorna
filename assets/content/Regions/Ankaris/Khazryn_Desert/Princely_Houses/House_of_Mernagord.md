@@ -42,7 +42,7 @@ data:
       Warden of the Channels: >-
         Held by one Of the Court. Keeps the record of which household clears which stretch of the buried channels, and when.
   seat: mehrnagord
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [khzrncnfdrtn]

@@ -26,7 +26,7 @@ data:
           An elite warrior sworn to the temple of Odvar and to the defense of the north's holy places.
     offices: {}
   seat: odholm
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

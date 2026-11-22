@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [byzariargn]
-  population: 2700
+  population: {actual: 2700}
   market: local
   type: town
   government: khryshteikhos

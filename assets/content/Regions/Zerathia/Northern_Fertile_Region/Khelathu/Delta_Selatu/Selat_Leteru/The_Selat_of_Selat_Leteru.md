@@ -46,8 +46,8 @@ data:
       Canal-Warden: >-
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: yathleteru
-  population: 150000
-  territorial_population: 150000
+  population: {actual: 150000}
+  territorial_population: {actual: 150000}
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [deltaselatu]

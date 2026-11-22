@@ -47,7 +47,7 @@ data:
       Keeper of the Register: >-
         Holds the record of every consultation made under a warrant, open to the court that issued it and to nobody else.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [vrnkpnthn]

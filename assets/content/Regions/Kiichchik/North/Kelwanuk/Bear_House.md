@@ -47,7 +47,7 @@ data:
       talwamis: >-
         Speaker: speaks for the chief at feasts and councils, and settles quarrels with the Speakers of other houses.
   seat: lamekis
-  population: null
+  population: {actual: null}
   economy: []
   lore: [kelwanukclt]
   parents: [kelwanuk]

@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [cntrlhghlnds]
   borders: [{to: stormveld, bearing: N}, {to: aldorathrgn, bearing: E}]
-  population: null
+  population: {actual: null}
   packFolder: eilwith
   culture: aelwythanclt
 ---

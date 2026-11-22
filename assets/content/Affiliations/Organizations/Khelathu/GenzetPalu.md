@@ -33,7 +33,7 @@ data:
       Halzi'a: >-
         Governor of a selat, seated in the council for the house he heads. Held by a Zabu.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -43,7 +43,7 @@ data:
         Chair of the Council of Masters, presently Olara Marenies, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities.
   seat: null
   range: [byzariargn]
-  population: null
+  population: {actual: null}
   economy: [affiliation-tevran]
   lore: []
   parents: []

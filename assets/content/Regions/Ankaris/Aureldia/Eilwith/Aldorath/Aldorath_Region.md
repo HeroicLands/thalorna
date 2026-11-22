@@ -16,7 +16,7 @@ data:
     - {to: thornwold, bearing: SW}
     - {to: dunavarre, bearing: S}
     - {to: ironfells, bearing: N}
-  population: 200000
+  population: {actual: 200000}
   packFolder: eilwith
   government: kngdmldrth
 ---

@@ -12,7 +12,7 @@ data:
   routes:
     - {to: tsaberis, bearing: N, mode: land, days: 2, terrain: [mountains, road]}
     - {to: lezkora, bearing: E, mode: land, days: 1, terrain: [mountains, road]}
-  population: null
+  population: {actual: null}
   packFolder: tarvenia
 ---
 

@@ -72,7 +72,7 @@ data:
       Dautou Wochai: >-
         Dautou Wochai—The Lord of Metal—the being this bureau or cultus is organized around.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [daotouwochaidty]
   parents: [tengwouronglei]

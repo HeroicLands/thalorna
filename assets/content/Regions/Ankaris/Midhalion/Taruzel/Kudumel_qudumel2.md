@@ -9,7 +9,7 @@ data:
   demonym: Kudumelian
   lore: [humanflk]
   parents: [nishurel]
-  population: 9900
+  population: {actual: 9900}
   type: town
   market: regional
   routes: [{to: valmakhend, bearing: E, mode: ship, days: 1, terrain: [open-sea]}]

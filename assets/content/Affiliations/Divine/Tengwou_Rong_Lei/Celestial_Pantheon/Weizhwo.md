@@ -72,7 +72,7 @@ data:
       Weizhwo: >-
         Weizhwo Daunei—The Jade Sovereign—the being this bureau or cultus is organized around.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-tantsoucrncy]
   lore: [weizhuodty]
   parents: [tengwouronglei]

@@ -45,8 +45,8 @@ data:
       malutiq: >-
         Messenger: a young man sent by his men's house to carry its invitation and its list of requests to another village for the Messenger Feast.
   seat: null
-  population: 50000
-  territorial_population: 50000
+  population: {actual: 50000}
+  territorial_population: {actual: 50000}
   economy: []
   lore: [tikupilaritclt]
   parents: []

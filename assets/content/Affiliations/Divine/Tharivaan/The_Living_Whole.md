@@ -51,7 +51,7 @@ data:
       Teacher of the kaan-sili: >-
         The kaan-vaar's standing charge: the formation of the next generation, which is how an oral custodial tradition survives at all.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The ancient hill-shrine at the confluence of three Dunhari tribal territories, meeting ground of the Warrior's Circle and the storm cults' Council of Elders."
 tags: []
-data: {demonym: null, lore: [], parents: [dunhardsrtrgn], population: 0, packFolder: dunharadesert}
+data:
+  demonym: null
+  lore: []
+  parents: [dunhardsrtrgn]
+  population: {actual: 0}
+  packFolder: dunharadesert
 ---
 
 ## Overview {#overview}

@@ -43,7 +43,7 @@ data:
         Held by a Post-Serjeant named by the Warden. Keeps the tally-post on the causeway, counts every pack-train, boat-load and party that crosses, turns back the armed and unannounced, and files the count with the sheriff at Sarmelis.
   seat: null
   range: [morthalmrch]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [brdrmltia]

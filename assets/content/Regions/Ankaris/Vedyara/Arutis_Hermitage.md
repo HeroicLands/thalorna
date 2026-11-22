@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The hermitage high on the gold mountain where a holy woman of indeterminate age receives the few who know to come to her."
 tags: [sacred, mountain, inland]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [suvargerijnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **Aruti's hermitage** is a cell and a walled yard high on [[place-goldmountain|the Gold Mountain]], above the panning grounds and off the path to the observation posts. [Aruti the Wise]{.name data-type="being/npc"} lives in it. She is a holy woman of indeterminate age and a considerable reputation, and the reputation travels further than her address does.

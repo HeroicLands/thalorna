@@ -49,8 +49,8 @@ data:
       Ts'opilbal: >-
         Keeper of the storehouses: keeps a fortress-temple's stores of dried food, cloths and amulets, and sells each party bound for the wastes what it will need.
   seat: qapteltzakl2
-  population: null
-  territorial_population: 4900
+  population: {actual: null}
+  territorial_population: {actual: 4900}
   economy: []
   lore: [southkiichchikclt]
   parents: []

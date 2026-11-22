@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [owlttm]
   parents: [thornwald]
-  population: 270
+  population: {actual: 270}
   market: local
   type: village
   borders: [{to: frithhaven, bearing: W}]

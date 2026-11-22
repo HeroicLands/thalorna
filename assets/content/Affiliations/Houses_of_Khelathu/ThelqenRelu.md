@@ -25,7 +25,7 @@ data:
         description: >-
           Entered under the house in the king-list, whether or not any kin keep the name.
   seat: maguathen
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [empireakhlth]

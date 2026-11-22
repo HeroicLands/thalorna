@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [salendaspr]
   parents: [drenavrspn]
-  population: null
+  population: {actual: null}
   packFolder: elavendre
 ---
 

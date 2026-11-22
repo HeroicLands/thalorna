@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "A white pyramid in the northern sand seas of Ch'akul Tsa'kul that the dunes bury and uncover, so that some years only its top shrine shows above the sand and some years its painted tiers stand clear."
 tags: [site, desert, ruin, temple]
-data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0, packFolder: chakultzakul}
+data:
+  demonym: null
+  lore: []
+  parents: [chakultzklrgn]
+  population: {actual: 0}
+  packFolder: chakultzakul
 ---
 
 ## Overview {#overview}

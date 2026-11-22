@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "A stone house in Chendrapur's cutting streets where consignments lie between stages under seal, and where a line of the Chaya-vreta has been taught for as long as the building has stood."
 tags: [clandestine, market, city]
-data: {demonym: null, lore: [], parents: [chendrapur2], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [chendrapur2]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 The gem trade of [[place-chendrapur2|Chendrapur]] is organized as a sequence and not as a craft: a stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth. Between any two of those a stone has to be somewhere, under a seal, with nobody in particular attending to it. **The Waiting House** is one of the places it is.

@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [boarttm]
   parents: [vethwald]
-  population: 250
+  population: {actual: 250}
   market: local
   type: village
   government: vrystwldvlgcncl

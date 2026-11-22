@@ -48,7 +48,7 @@ data:
       Keeper of the Three Rites: >-
         Charged with the temple's observance of all three forms in their proper proportion, which is what the Sampradeya exists to maintain.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [vrnkpnthn]

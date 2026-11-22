@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [ellive]
-  population: 650
+  population: {actual: 650}
   market: local
   type: village
   government: kngdmlvndr

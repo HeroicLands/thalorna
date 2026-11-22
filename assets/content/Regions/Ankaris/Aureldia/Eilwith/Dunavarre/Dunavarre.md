@@ -13,7 +13,7 @@ data:
     - {to: thornwold, bearing: W}
     - {to: hallowwood, bearing: W}
     - {to: aldorathrgn, bearing: N}
-  population: 75000
+  population: {actual: 75000}
   packFolder: eilwith
   government: kingdmdnvr
 ---

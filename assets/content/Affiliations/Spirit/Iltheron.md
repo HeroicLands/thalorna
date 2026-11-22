@@ -37,7 +37,7 @@ data:
       Keeper of the Tables: >-
         Held by a master reader: the temple's copy of the wheel's tables, from which every reader it licenses casts.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

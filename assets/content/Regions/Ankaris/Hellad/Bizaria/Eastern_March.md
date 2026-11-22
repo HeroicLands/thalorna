@@ -12,7 +12,7 @@ data:
   routes:
     - {to: yemokwell, bearing: E, mode: land, days: 30}
     - {to: amradadrgn, bearing: S, mode: land, days: 20, terrain: [road, hills]}
-  population: null
+  population: {actual: null}
   packFolder: byzaria
 
 # terran_analog: "The Anatolian–Persian frontier—the Taurus and Armenian highland passes between the Aegean world and the Central Asian steppe."

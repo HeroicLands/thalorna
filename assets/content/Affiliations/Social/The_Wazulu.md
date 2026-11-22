@@ -26,7 +26,7 @@ data:
           "Servant of the God"—an ordained priest of one of the sterner gods who presses the movement's cause.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

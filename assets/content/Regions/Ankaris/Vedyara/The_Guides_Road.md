@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]
-  population: null
+  population: {actual: null}
   routes:
     - {to: khzryndsrtrgn, bearing: N, mode: land, days: 45, terrain: [mountains, ice, desert]}
   packFolder: vedyara

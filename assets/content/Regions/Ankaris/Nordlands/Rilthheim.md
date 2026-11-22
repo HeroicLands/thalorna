@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
+  population: {actual: null}
   packFolder: nordlands
   notes: "The settlement of the Skalds' Hall, a prestigious gathering of northern skalds and loremasters that keeps archives of ancient sagas."
 ---

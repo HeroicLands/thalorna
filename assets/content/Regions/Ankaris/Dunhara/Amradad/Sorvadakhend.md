@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [amradadrgn]
-  population: 2500
+  population: {actual: 2500}
   market: local
   type: town
   government: kngdmmrdd

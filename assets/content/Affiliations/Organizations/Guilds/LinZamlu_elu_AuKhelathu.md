@@ -30,7 +30,7 @@ data:
           Holds mastery in the guild, and a recommendation from one carries across the whole empire.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

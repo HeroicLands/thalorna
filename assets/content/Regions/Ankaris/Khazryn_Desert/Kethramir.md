@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [swoasisbelt]
   routes: [{to: qisomrktcmp, bearing: N, mode: land, days: 20}]
-  population: 26000
+  population: {actual: 26000}
   market: regional
   type: city
   government: tribestrzd

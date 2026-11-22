@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [kiichchikclt]
   parents: [neokbaatergn]
-  population: 2700
+  population: {actual: 2700}
   market: local
   type: town
   government: neokbaate

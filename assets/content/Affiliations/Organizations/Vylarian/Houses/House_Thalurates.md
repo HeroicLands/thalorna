@@ -35,7 +35,7 @@ data:
       Factor of the House: >-
         Held by one Of the Household. Buys debts, deeds and notes in his own name for the house, so that the house's name appears on none of them.
   seat: arvon
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

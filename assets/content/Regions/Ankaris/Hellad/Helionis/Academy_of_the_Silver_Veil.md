@@ -30,7 +30,7 @@ data:
           A graduate licensed at twenty as a companion, of higher standing than most of the nobility she serves. She is never called a courtesan in Kalidria, and she keeps in touch with the other graduates.
     offices: {}
   seat: kalydria2
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [kalydria]

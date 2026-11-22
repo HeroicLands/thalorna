@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The sealed galleries cut under the crown of Arvel, Orzara's Eagle Hill, where the Dragon Riders of the Republic were quartered; shut since the lease of the dragons was refused about 45 BF, and guarded by the Sorvan under the palace."
 tags: [ruin, sealed]
-data: {demonym: null, lore: [ridersdisb], parents: [arvel], population: 0, packFolder: vylaria}
+data:
+  demonym: null
+  lore: [ridersdisb]
+  parents: [arvel]
+  population: {actual: 0}
+  packFolder: vylaria
 ---
 
 ## Overview {#overview}

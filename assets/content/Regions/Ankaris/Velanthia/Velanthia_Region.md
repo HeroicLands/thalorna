@@ -33,7 +33,7 @@ data:
     - {to: wlqtrrgn, bearing: SE}
     - {to: gwtkrrgn, bearing: E}
     - {to: nartumkngdm, bearing: S}
-  population: 4000000
+  population: {actual: 4000000}
   packFolder: velanthia
 
 # terran_analog: "Moldova, Ukraine, southern Russia, and the Pontic steppe and forest-steppe—the great east-European grain belt and forest-steppe transitional zone, historically home to Scythians, Sarmatians, Cumans, Slavs, and Cossack-style frontier confederations."

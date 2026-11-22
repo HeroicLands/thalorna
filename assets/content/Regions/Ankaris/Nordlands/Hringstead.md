@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
+  population: {actual: null}
   packFolder: nordlands
   notes: "The neutral ground on the Nordheim–Vithgard border, guaranteed by all five kingdoms, where the mercenary Compact keeps its Hall and the Skalds' Circle was sworn."
 ---

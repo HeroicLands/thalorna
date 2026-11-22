@@ -11,7 +11,7 @@ data:
   lore: []
   parents: [vedyarargn, sarvedarivr]
   government: srvdmthjnpd
-  population: null
+  population: {actual: null}
   packFolder: vedyara
 ---
 

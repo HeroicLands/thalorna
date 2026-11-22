@@ -12,7 +12,7 @@ data:
   routes:
     - {to: harnasel, bearing: SW, mode: land, days: 10, terrain: [road]}
     - {to: durmelen, bearing: NE, mode: land, days: 10, terrain: [road, coast]}
-  population: null
+  population: {actual: null}
   packFolder: elavendre
 ---
 

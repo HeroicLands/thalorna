@@ -8,7 +8,7 @@ data:
   demonym: null
   lore: [varokhiclt]
   parents: [vrystwald]
-  population: null
+  population: {actual: null}
   routes:
     - {to: falkhaven, bearing: W, mode: boat, days: 20, terrain: [river]}
     - {to: thornwald, bearing: NE, mode: boat, days: 20, terrain: [river]}

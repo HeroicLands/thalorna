@@ -41,7 +41,7 @@ data:
       Headman: The held community's own head, who keeps the river law among its households.
       War Captain: Leader of a raid, held by whoever the riders follow.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

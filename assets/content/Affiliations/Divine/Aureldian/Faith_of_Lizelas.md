@@ -49,7 +49,7 @@ data:
         The infirmary the priesthood keeps, and the face the faith shows the sick.
   seat: null
   range: [velanthrgn]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [lizelasdty]
   parents: [arldnpnthn]

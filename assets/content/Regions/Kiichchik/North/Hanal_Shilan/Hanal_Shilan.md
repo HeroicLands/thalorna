@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [hanalxilanrgn]
-  population: 1200
+  population: {actual: 1200}
   type: town
   market: local
   government: hanalxilanmktcncl

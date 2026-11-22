@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [tantsouregin]
-  population: 2000000
+  population: {actual: 2000000}
   type: metropolis
   market: international
   government: tantsouempr

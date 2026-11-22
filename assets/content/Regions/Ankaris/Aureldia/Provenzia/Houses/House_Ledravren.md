@@ -34,7 +34,7 @@ data:
       Head of the Gefavel Branch: >-
         Held by one Of the Blood, of the line of the house's younger son who founded the branch. Holds Gefavel and its castle, heads the branch under the head of the house, and sits for it in the Council of Peers.
   seat: jalnazdal
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [kngdmprvnz]

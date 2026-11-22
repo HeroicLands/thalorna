@@ -10,7 +10,7 @@ data:
   lore: []
   parents: [bhumipalland]
   routes: [{to: dunhardsrtrgn, bearing: NW, mode: land, days: 30, terrain: [road, desert]}]
-  population: null
+  population: {actual: null}
   packFolder: vedyara
 ---
 

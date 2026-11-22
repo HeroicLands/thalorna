@@ -40,7 +40,7 @@ data:
       Singer at the Crowning: >-
         Held by one Bard of the Circle. Sings the Lay of the Tree Line in the hall at Péravel before a monarch swears.
   seat: beravel
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [bardicolgs]

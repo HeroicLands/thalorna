@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [rinjai]
-  population: 3000
+  population: {actual: 3000}
   market: regional
   type: town
   government: rinjaidmn

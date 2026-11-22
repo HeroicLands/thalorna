@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The endowed network of free hostels for traveling priests and ascetics, twenty-three houses on the great pilgrimage roads, paid for out of Suvargeri's gold."
 tags: [sacred, pilgrimage, inland]
-data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [vedyarargn]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 The **Bharava-Devastena Hostels** form an endowed network of free hostels for traveling priests and ascetics, kept at twenty-three sites along the major Vedyari pilgrimage routes. It is paid for out of the gold of [[affiliation-suvrgrjnpd|Suvargeri]], and it is the largest single charity in the subcontinent that belongs to no city.

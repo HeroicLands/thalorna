@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [cntrlrnfrsts]
-  population: null
+  population: {actual: null}
   packFolder: centralrainforests
 ---
 

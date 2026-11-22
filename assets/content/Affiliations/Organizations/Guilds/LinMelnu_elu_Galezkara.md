@@ -30,7 +30,7 @@ data:
           One of the masters the city's smiths answer to, rather than to the imperial guild.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

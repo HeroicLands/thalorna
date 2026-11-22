@@ -45,7 +45,7 @@ data:
       First Smith of the Gar-Au: >-
         Ilmy-Qelt Melnu—chair of the Council of Smiths, presently Khelafra Zebenmeryu, who coordinates the guild's central affairs and its bargaining with the Gar-Au's court.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [affiliation-tevran]
   lore: []
   parents: []

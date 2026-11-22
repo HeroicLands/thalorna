@@ -44,7 +44,7 @@ data:
         Held by an Elder, chosen by the Elders. Keeps the Qatilush by heart, reads it at the muster and at every swearing, and speaks first when a Brother is judged.
   seat: null
   range: [tamzirshoals]
-  population: 400
+  population: {actual: 400}
   economy: []
   lore: [humanflk]
   parents: []

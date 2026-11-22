@@ -13,7 +13,7 @@ data:
   routes:
     - {to: calypsacity, bearing: W, mode: ship, days: 1, terrain: [coast, open-sea, coast]}
     - {to: sarmelis, bearing: E, mode: ship, days: 1, terrain: [coast, open-sea, coast]}
-  population: null
+  population: {actual: null}
   packFolder: calypsa
 ---
 

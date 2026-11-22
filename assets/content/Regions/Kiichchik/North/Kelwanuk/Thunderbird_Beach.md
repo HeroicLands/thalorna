@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [kelwanukclt]
   parents: [yatsalargn]
-  population: 1800
+  population: {actual: 1800}
   type: town
   market: local
   government: kelwanuk

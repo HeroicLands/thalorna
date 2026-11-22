@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "A wood near the great crossroads of southern Provénzia, haunt of Captain Kalzote's road bandits and their raids on the horses of the Dumvaral, the crossroads inn."
 tags: [woodland]
-data: {demonym: null, lore: [], parents: [korvathis], population: 0, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [korvathis]
+  population: {actual: 0}
+  packFolder: provenzia
 ---
 
 ## Overview {#overview}

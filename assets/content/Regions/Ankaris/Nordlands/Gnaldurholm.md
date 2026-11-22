@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
+  population: {actual: null}
   packFolder: nordlands
   notes: "A Nordlands port city of influential money and organized crime, home to the Gilded Cage salon and its enemies on the Morality Council."
 ---

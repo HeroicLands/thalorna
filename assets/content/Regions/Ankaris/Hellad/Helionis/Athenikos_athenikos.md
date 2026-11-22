@@ -46,8 +46,8 @@ data:
       Councilor: "Member of the council chosen by lot to prepare the assembly's business, serving a single year."
       Auditor: "Examiner of a retiring magistrate's ledgers, who alone says when the accounts agree; until he does, the magistrate may not leave the town."
   seat: athenikos2
-  population: 210000
-  territorial_population: 210000
+  population: {actual: 210000}
+  territorial_population: {actual: 210000}
   economy: []
   lore: [humanflk]
   parents: [ctysttshlns]

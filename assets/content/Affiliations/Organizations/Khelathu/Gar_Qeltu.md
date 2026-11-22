@@ -30,7 +30,7 @@ data:
           Answered for the house and its charter to the Gar-Au.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

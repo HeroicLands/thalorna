@@ -31,7 +31,7 @@ data:
     offices: {}
   seat: null
   range: [helionis]
-  population: null
+  population: {actual: null}
   economy: []
   lore: [zunelasdty]
   parents: [arldnpnthn]

@@ -37,7 +37,7 @@ data:
       Ilmy'Qelt Weglat: >-
         Scribe of the Weights—senior priests trained in metallurgy and assay who inspect circulating weight-pieces, audit chapter-temples' attestation practices and investigate counterfeiting, answering only to the Council.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [affiliation-tarmex, affiliation-bthntrdhss, affiliation-crwntrdskhrs]
   lore: []
   parents: []

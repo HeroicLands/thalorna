@@ -62,8 +62,8 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: khryshteikhos2
-  population: 1200000
-  territorial_population: 1200000
+  population: {actual: 1200000}
+  territorial_population: {actual: 1200000}
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: [vylarinmpr]

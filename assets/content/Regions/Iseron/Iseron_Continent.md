@@ -9,7 +9,7 @@ data:
   demonym: Iseronian
   lore: [humanflk]
   parents: [worldthlrn]
-  population: null
+  population: {actual: null}
   packFolder: iseron
 
 # terran_analog: "Antarctica—the frozen southernmost continent: desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes."

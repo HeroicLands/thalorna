@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [hawkttm]
   parents: [falkhaven]
-  population: 280
+  population: {actual: 280}
   market: local
   type: village
   borders: [{to: falkensten, bearing: E}]

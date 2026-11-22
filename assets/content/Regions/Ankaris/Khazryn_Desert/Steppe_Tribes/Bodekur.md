@@ -39,7 +39,7 @@ data:
       Clan Head: Head of a clan that swore the Word.
       Well-Cutter: The rider who cuts the tribe's mark over its wells and recuts it where it has been cut over.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
   lore: [humanflk]
   parents: []

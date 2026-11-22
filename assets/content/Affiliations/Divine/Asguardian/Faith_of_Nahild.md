@@ -41,7 +41,7 @@ data:
       Soulweaver: >-
         A priest specialized in binding souls to Nahild's service, in life and after death.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [nahilddty]
   parents: [asguardian]

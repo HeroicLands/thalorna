@@ -46,7 +46,7 @@ data:
       Keeper of the Landing: >-
         A kinsman who holds the family's landing and sheds when the head is away, and counts every load that comes ashore.
   seat: tsalukul
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: [xelem]

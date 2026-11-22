@@ -39,7 +39,7 @@ data:
         An elder knight in charge of a chapel and its lamp, its knights and its stretch of border.
       Captain: An elder knight commanding a company of the order in the king's host.
   seat: nartum
-  population: 1600
+  population: {actual: 1600}
   economy: []
   lore: []
   parents: [hlykngdmnrtm]

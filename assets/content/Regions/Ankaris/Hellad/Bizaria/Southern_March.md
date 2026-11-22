@@ -11,7 +11,7 @@ data:
   parents: [byzariargn]
   borders: [{to: amradadrgn, bearing: S}]
   routes: [{to: amradadrgn, bearing: S, mode: land, days: 10, terrain: [road, hills]}]
-  population: null
+  population: {actual: null}
   packFolder: byzaria
 
 # terran_analog: "The dry south-eastern Anatolian plateau and its descent toward the Syrian steppe—Cilicia and the upper Euphrates marches."

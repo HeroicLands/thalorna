@@ -11,7 +11,7 @@ data:
   lore: [humanflk]
   parents: [aureldirgn]
   routes: [{to: elavendre, bearing: S, mode: ship, days: 2, terrain: [open-sea, coast]}]
-  population: 45000
+  population: {actual: 45000}
   government: calypsa
   packFolder: calypsa
 ---

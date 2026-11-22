@@ -7,6 +7,7 @@ description: "A liminal and faintly shunned quarter of Galezkara by the necropol
 tags: [generated]
 data:
   parents: [galezkara]
+  population: {actual: null}
   packFolder: regkhsett
   culture: khelathiclt
   notes: "A liminal and faintly shunned quarter of Galezkara by the necropolis-ferry, where the trades that handle the dead keep their houses"

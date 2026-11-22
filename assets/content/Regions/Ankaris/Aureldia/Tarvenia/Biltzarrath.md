@@ -34,7 +34,7 @@ data:
       Host-Caller: Held by a Delegate. Summons the common muster when the council agrees that a threat concerns every clan.
       Envoy: Held by a Delegate. Carries the council's word to a settled power, protected by custom while he carries it.
   seat: gaztorai
-  population: null
+  population: {actual: null}
   economy: []
   lore: [humanflk]
   parents: [frtrtryskrth]

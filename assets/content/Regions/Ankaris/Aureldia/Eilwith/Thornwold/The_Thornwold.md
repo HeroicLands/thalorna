@@ -15,7 +15,7 @@ data:
     - {to: dunavarre, bearing: E}
     - {to: hallowwood, bearing: S}
     - {to: aldorathrgn, bearing: NE}
-  population: 9000
+  population: {actual: 9000}
   government: durrask
   packFolder: eilwith
 ---

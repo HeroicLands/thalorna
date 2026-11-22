@@ -5,7 +5,12 @@ type: place
 subType: region
 description: "Sand seas, mesas and salt flats—the land of Ch'akul Tsa'kul, the desert barrier at the southern edge of Northern Kì'ìch'chik."
 tags: [region]
-data: {demonym: null, lore: [], parents: [northkiichchik], population: 0, packFolder: chakultzakul}
+data:
+  demonym: null
+  lore: []
+  parents: [northkiichchik]
+  population: {actual: 0}
+  packFolder: chakultzakul
 
 # terran_analog: A deadly Mojave-like desert barrier spanning the California–Texas analog through northern Mexico; the Sonoran-like extent is intensified. Approximate comparison only.
 ---

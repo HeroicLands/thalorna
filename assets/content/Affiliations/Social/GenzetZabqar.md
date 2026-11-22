@@ -26,7 +26,7 @@ data:
           Pools wealth with the circle toward commissions larger than one patron would back.
     offices: {}
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [humanflk]
   parents: []

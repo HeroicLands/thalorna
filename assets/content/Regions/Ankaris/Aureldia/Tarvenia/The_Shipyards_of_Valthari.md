@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The yards along Valthari's inner harbor where the great houses build their merchant hulls and the city its galleys, idle in part while the seamen refuse to sign on."
 tags: [shipyard]
-data: {demonym: null, lore: [], parents: [valthari], population: null, packFolder: tarvenia}
+data:
+  demonym: null
+  lore: []
+  parents: [valthari]
+  population: {actual: null}
+  packFolder: tarvenia
 ---
 
 ## Overview {#overview}

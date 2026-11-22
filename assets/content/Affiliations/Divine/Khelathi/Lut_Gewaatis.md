@@ -37,7 +37,7 @@ data:
       Keyholder of the Vaults: >-
         One of the very few who hold the keys to the sacred vaults, which open on the temple's schedule and not the road's.
   seat: null
-  population: 0
+  population: {actual: 0}
   economy: []
   lore: [gewaatisdty]
   parents: []

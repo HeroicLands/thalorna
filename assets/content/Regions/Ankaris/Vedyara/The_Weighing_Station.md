@@ -5,7 +5,12 @@ type: place
 subType: structure
 description: "The open shed at Middle Suvargeri where the month's gold is weighed in public at each new moon, and the whole Gold Constitution rests on it."
 tags: [sacred, mining, mountain, inland]
-data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [suvargerijnpd]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **The weighing-station** stands at [Middle Suvargeri]{.name data-type="place/site"} beside the common treasury, and it is the one thing in the janpoda that does not rotate. Every ounce the twenty-eight panning families win comes here. At each new moon the previous moon's gold is weighed in the open, before whichever sabhra representatives have come down for it, and the weights are read out and entered.

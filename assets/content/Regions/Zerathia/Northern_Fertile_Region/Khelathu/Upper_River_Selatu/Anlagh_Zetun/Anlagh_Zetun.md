@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: []
   parents: [anlaghztnslt]
-  population: 80000
+  population: {actual: 80000}
   market: international
   type: city
   packFolder: regkhsett

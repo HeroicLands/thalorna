@@ -43,7 +43,7 @@ data:
       Priest of the Fowling-Grounds: >-
         Keeps the rites of the marsh, where fowling and reed-craft are the whole of the local livelihood.
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: [shebazetdty]
   parents: [khelathpnthn]

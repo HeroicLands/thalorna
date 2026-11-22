@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [tantsouregin]
-  population: 26000000 # computed from the people of the province the region carries
+  population: {actual: 26000000} # computed from the people of the province the region carries
   government: mwonouprv
   packFolder: tantsou
   culture: tantsouclt

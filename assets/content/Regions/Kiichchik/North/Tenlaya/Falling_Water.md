@@ -10,7 +10,7 @@ data:
   demonym: null
   lore: [tenlayaclt]
   parents: [potontayuntorgn]
-  population: 3000
+  population: {actual: 3000}
   type: town
   market: local
   government: tenlaya

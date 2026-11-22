@@ -25,8 +25,8 @@ data:
           Holds one of the three seats that govern a village together: the Shaman, the War Chief or the Other Chief.
     offices: {}
   seat: null
-  population: null
-  territorial_population: 11000
+  population: {actual: null}
+  territorial_population: {actual: 11000}
   economy: []
   lore: [varokhiclt]
   parents: []

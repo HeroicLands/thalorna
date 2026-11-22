@@ -13,7 +13,7 @@ data:
     - {to: hskrrgn, bearing: W}
     - {to: tantsouregin, bearing: E}
     - {to: graznmntns, bearing: S}
-  population: 330000
+  population: {actual: 330000}
   packFolder: khazryndesert
   government: null
 ---

@@ -26,7 +26,7 @@ data:
           A swordsman who has mastered the Path of Breath, marked by the tattoo of a dragonfly on the neck.
     offices: {}
   seat: null
-  population: null
+  population: {actual: null}
   economy: []
   lore: []
   parents: []

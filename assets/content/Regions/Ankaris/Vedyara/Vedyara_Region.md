@@ -15,7 +15,7 @@ data:
     - {to: surtasamdra, bearing: E}
     - {to: meghrsmdra, bearing: S}
     - {to: sandvsmdr, bearing: W}
-  population: 110000000
+  population: {actual: 110000000}
   packFolder: vedyara
   culture: vedyariclt
 

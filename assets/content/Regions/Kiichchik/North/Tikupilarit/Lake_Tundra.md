@@ -10,7 +10,7 @@ data:
   demonym: Tikupilarit
   lore: [tikupilaritclt]
   parents: [northkiichchik]
-  population: 18000
+  population: {actual: 18000}
   packFolder: tikupilarit
   government: tikupilarit
 

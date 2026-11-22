@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [bhumipalland, marukupa]
-  population: null
+  population: {actual: null}
   packFolder: vedyara
   government: svapnasarisameja
 ---

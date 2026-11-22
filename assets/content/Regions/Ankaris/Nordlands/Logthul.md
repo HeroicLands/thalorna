@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nrdlndsrgn]
+  population: {actual: null}
   packFolder: nordlands
   notes: "A Nordlands town whose Court of Justice is the oldest seat of law in the northern territories, where Knalthann Lawgiver earned his name."
 ---

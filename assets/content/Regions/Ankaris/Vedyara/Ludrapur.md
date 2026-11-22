@@ -5,7 +5,12 @@ type: place
 subType: site
 description: "The walled capital of the march kingdom of Marupal, burned by the Storm of the Hundred Banners in 315 AF and never reoccupied: a wall-circuit, a burned palace mound and an empty temple off the road between the coast and Ashvapada, where the march companies winter."
 tags: [ruin, frontier, fortified]
-data: {demonym: null, lore: [], parents: [bhumipalland], population: null, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [bhumipalland]
+  population: {actual: null}
+  packFolder: vedyara
 ---
 
 **Ludrapur**, the walled town, was the capital of the march before [[affiliation-bhumipal|Bhumipal]] existed. It lies a few miles off [[place-marchroad|the march road]] between [[place-sandyapur|Sandyapur]] and [[place-ashvapada|Ashvapada]], on a rise above a seasonal river that is dry for eight months of the year. In 315 AF the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came down the road after destroying the kingdom's army at [[place-lantustal|Lantustal]], and burned it ([[lore-marupalfl|the Fall of Marupal]]). Nobody has lived in it since.

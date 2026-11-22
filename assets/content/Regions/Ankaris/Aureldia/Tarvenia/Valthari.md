@@ -9,7 +9,7 @@ data:
   demonym: Valtharin
   lore: []
   parents: [tarvenirgn]
-  population: 45000
+  population: {actual: 45000}
   market: international
   type: city
   routes:

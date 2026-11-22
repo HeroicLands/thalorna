@@ -9,6 +9,7 @@ data:
   demonym: null
   lore: []
   parents: [nordheim]
+  population: {actual: null}
   packFolder: nordheim
   notes: "A Nordheim islet trading post where agents of a foreign merchant consortium buy timber and press for industrial-scale felling."
 ---

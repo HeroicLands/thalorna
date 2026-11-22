@@ -5,7 +5,12 @@ type: place
 subType: feature
 description: "A field of geysers, mud pots and scalding pools in the Ash Country, where vents open without warning under a party's feet."
 tags: [feature, waste, geyser]
-data: {demonym: null, lore: [], parents: [ashcountry], population: 0, packFolder: xelemixbal}
+data:
+  demonym: null
+  lore: []
+  parents: [ashcountry]
+  population: {actual: 0}
+  packFolder: xelemixbal
 ---
 
 ## Overview {#overview}

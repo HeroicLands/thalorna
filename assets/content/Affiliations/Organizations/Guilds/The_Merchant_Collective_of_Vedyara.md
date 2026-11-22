@@ -39,7 +39,7 @@ data:
       High Speaker of the Collective: >-
         Elected by the kulena from among themselves for a seven-year term, presiding over the Assembly of the Compact.
   seat: null
-  population: null
+  population: {actual: null}
   economy: [affiliation-tevran]
   lore: []
   parents: []
