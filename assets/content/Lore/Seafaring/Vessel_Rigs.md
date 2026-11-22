@@ -37,9 +37,10 @@ Write a rig by giving a count of masts for each type, with a plus sign between t
 
 ## Rig and the Becalmed Day
 
-For a vessel whose masts all carry the same kind of sail, the rig moves its chance of a day with no useful progress up or down from the base for its sailing grade, by these amounts in percentage points:
+The rig moves a vessel's chance of a day with no useful progress up or down from the base for its sailing grade, by these amounts in percentage points:
 
 - A square rig adds 5 points, because it cannot work to windward.
 - A triangular or battened rig subtracts 5 points, to a floor of 0 percent.
+- A mixed rig, which is square sails together with at least one triangular or battened sail, takes no square-rig penalty. Its chance of a day with no useful progress is the grade's base reduced to 0 percent, at every grade.
 
 The base chances and the rest of the daily-distance method are in [[doc-seatravel|Travel at Sea]].

@@ -40,7 +40,7 @@ The tables describe calm open water, a usable wind and a skilled crew. Contrary 
 
 Three values decide a sailing vessel's table.
 
-**Days of no progress.** A ship that is becalmed or blown back makes no useful headway on some days. The sailing grade sets the share: A 0%, B 0%, C 5%, D 10%, E 20%. For a ship whose masts all carry one kind of sail, the rig then moves it. A square rig adds 5 points. Any triangular or battened sail takes away 5 points, down to no less than 0%. The adjustments are set out in [[doc-vesselrigs|Vessel Rigs]].
+**Days of no progress.** A ship that is becalmed or blown back makes no useful headway on some days. The sailing grade sets the share: A 0%, B 0%, C 5%, D 10%, E 20%. The rig then moves it. A ship with only square sails adds 5 points. A ship with only triangular or battened sails takes away 5 points, down to no less than 0%. A mixed rig, square sails together with at least one triangular or battened sail, takes no square-rig penalty, so its share is the grade's base reduced to 0% at every grade. The adjustments are set out in [[doc-vesselrigs|Vessel Rigs]].
 
 **Typical distance.** On days when the ship does move, the grade sets the center of the distances: A 46 (159 miles), B 39 (135), C 34 (117), D 32 (110) and E 28 leagues (97 miles). Two leagues (about 7 miles) are added for a fine hull, whose length is five times its beam or more, and taken away for a bluff hull, whose length is three times its beam or less.
 
