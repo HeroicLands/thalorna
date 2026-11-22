@@ -4,7 +4,9 @@ thalorna: patch
 
 **Adventures**
 
-- Three new Xerathia adventures: the night before the Measure's reading at the Great Temple of Uqa'a, when the old Reader is too sick to go down the stair and the number proclaimed at dawn is in doubt.
-- A Khelathi envoy rides from Zarhanis to the Magara folds to name a price for their horsemen, while the Captain of the Host counts forty horses fewer than the registers show.
-- The Overseer of the Granaries finds the capital crediting the smallest upper-river selat with grain it never sent, and hires a party to follow it back.
-- The Measure, the Bridge of the Coming-Forth, Galezkara, Yath-Telgu, The First Flame, The Wild Flame, Magara Village and the other places in them link to the adventures set there.
+- Seven new Xerathia adventures. The first is the night before the Measure's reading at the Great Temple of Uqa'a, when the old Reader is too sick to go down the stair and the number proclaimed at dawn is in doubt.
+- A Khelathi envoy rides from Zarhanis to the Magara folds to name a price for their horsemen, while the Captain of the Host counts forty horses fewer than the registers show. The Overseer of the Granaries finds the capital crediting the smallest upper-river selat with grain it never sent, and hires a party to follow it back.
+- Bethua's Metrissa hires strangers to settle a grain count that her two councils each argue from.
+- The Dorumbe tribute is late to the Bethuan posts, and a party must find the stolen herd, starting at the new Thumbel Camp, before the circle decides.
+- In the Lubemo's war, a party stands witness at the reading of a dry channel at the new Dry Reach, and at the Ékunda spring the two warring clans water their herds on separate days.
+- The places these adventures are set in link to them, and the people a party meets in the Bethuan, Marches and Savannah adventures have stat blocks and gear.

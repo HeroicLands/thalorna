@@ -34,3 +34,6 @@ The village is where [[lore-twodispersals|The Song of the Two Dispersals]] is su
 
 [[place-sthrnsvnhs|Southern Savannahs]]
 : parent region
+
+[[scenario-trnsatsprng|The Turns at the Spring]]
+: a scenario: the blind senior griot of the Long Pact needs an escort to the Ékunda spring and the Great Lubemo

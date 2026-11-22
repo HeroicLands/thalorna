@@ -30,3 +30,6 @@ The elders sit at the well. A stranger asks the Elder of the Wells for leave to 
 
 [[place-longwells|The Long Wells]]
 : the wells the tribe waters at
+
+[[scenario-trbtftrdrv|The Tribute After the Drive]]
+: a scenario: the Marches' tribute is late, and the Dorumbe have lost the stock set aside for it

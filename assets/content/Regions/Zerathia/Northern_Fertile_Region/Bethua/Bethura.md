@@ -103,3 +103,6 @@ Bethura rebuilt its treasury and water corps on Khelathi models after the separa
 
 [[affiliation-bethuanflt|The Bethuan Fleet]]
 : the navy, based in the fortified harbors of the coast
+
+[[scenario-hrvstcntdtwc|A Harvest Counted Twice]]
+: a scenario: the Metrissa wants a count of the realm's grain that both pillars must accept before she chooses

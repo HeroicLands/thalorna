@@ -63,3 +63,9 @@ Sehela lies a few days' ride south of [[place-bethura|Bethura]] by the road to t
 
 [[place-sthmrchsrgn|South Marches]]
 : The drylands beyond the frontier posts
+
+[[scenario-hrvstcntdtwc|A Harvest Counted Twice]]
+: a scenario: the Metrissa wants a count of the realm's grain that both pillars must accept before she chooses
+
+[[scenario-trbtftrdrv|The Tribute After the Drive]]
+: a scenario: the Marches' tribute is late, and the village levy holds the frontier posts while it waits

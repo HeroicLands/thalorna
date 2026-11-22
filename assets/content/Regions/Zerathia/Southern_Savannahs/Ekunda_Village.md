@@ -34,3 +34,6 @@ outpost.
 
 [[place-sthrnsvnhs|Southern Savannahs]]
 : parent region
+
+[[scenario-trnsatsprng|The Turns at the Spring]]
+: a scenario: both warring clans water at the spring in the same dry week while the elders decide their answer to the Great Lubemo

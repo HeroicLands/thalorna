@@ -59,3 +59,6 @@ The marcher clans want the wells held by clans and watered by custom. The free c
 
 [[affiliation-hasembetribe|Hasembe Tribe]]
 : the eastern tribe
+
+[[scenario-trbtftrdrv|The Tribute After the Drive]]
+: a scenario: the Marches' tribute is late, and the Dorumbe have lost the stock set aside for it

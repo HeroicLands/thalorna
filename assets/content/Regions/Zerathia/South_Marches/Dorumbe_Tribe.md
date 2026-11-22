@@ -99,7 +99,7 @@ The headman is [[being-mbareloddrmb|Mbarelo of the Dorumbe]], who holds the trib
 
 ## Range, Wells and Grounds {#range}
 
-The tribe waters at the wells of the western Marches, a scatter of rock-cisterns and springs where every one is named and claimed by a clan ([[place-longwells|the Long Wells]]). The rest of the tribe camps in clan groups at many such wells, among them Thumbel Camp, Ngarali Well and Kwendo Camp. In the dry months the herds are brought up to the edge of the irrigated strips of Bethua, and in the wet weeks they spread south over the chaparral. [[place-marchesroad|The Marches Road]] runs through the tribe's grazing, and the western stages of [[place-khuqetzalu|Khuqet-Zalu]] stand on its wells.
+The tribe waters at the wells of the western Marches, a scatter of rock-cisterns and springs where every one is named and claimed by a clan ([[place-longwells|the Long Wells]]). The rest of the tribe camps in clan groups at many such wells, among them [[place-thumbelcamp|Thumbel Camp]], Ngarali Well and Kwendo Camp. In the dry months the herds are brought up to the edge of the irrigated strips of Bethua, and in the wet weeks they spread south over the chaparral. [[place-marchesroad|The Marches Road]] runs through the tribe's grazing, and the western stages of [[place-khuqetzalu|Khuqet-Zalu]] stand on its wells.
 
 ## Relations {#relations}
 

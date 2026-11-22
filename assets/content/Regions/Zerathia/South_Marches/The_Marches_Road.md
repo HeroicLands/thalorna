@@ -64,3 +64,6 @@ The Marches' tribute to Bethua is late, the Bethuan patrols are watching the fro
 
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : where the road leads
+
+[[scenario-trbtftrdrv|The Tribute After the Drive]]
+: a scenario: the Marches' tribute is late, and the Dorumbe have lost the stock set aside for it

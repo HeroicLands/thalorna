@@ -175,6 +175,9 @@ The strain falls first on [[place-marchesroad|the Marches Road]]. The [[affiliat
 [[place-hasembecamp|Hasembe Camp]]
 : the eastern tribe's seat on the road
 
+[[place-thumbelcamp|Thumbel Camp]]
+: a Dorumbe clan's camp around a rock-cistern in the western belt
+
 [[place-marchesroad|The Marches Road]]
 : the road across the drylands
 

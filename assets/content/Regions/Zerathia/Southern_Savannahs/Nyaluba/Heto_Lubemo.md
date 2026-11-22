@@ -82,3 +82,9 @@ A party reaches the enclosure as a delegation's guest, a griot's witness or a tr
 
 [[place-sthrnsvnhs|Southern Savannahs]]
 : the country around the highlands
+
+[[scenario-cnvnrspkslst|The Convener Speaks Last]]
+: a scenario: the Great Lubemo of 720 hears the war between the Ruwozi and the Kolembozi, with the Convener a party to it
+
+[[scenario-trnsatsprng|The Turns at the Spring]]
+: a scenario: the Lobwezi griot carries the Ékunda elders' answer on their spring to the sitting
