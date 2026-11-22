@@ -36,7 +36,7 @@ data:
 
 # Appearance {#appearance}
 
-Tuizho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. Tuizho holds court in the city of Kwozheng, in the hard-wintered north, where the reports of the watchtowers and the signal fires of the marches come to him before they go on to the capital.
+Tuizho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He holds court in the city of Kwozheng, in the hard-wintered north, where the reports of the watchtowers and the signal fires of the marches come to him before they go on to the capital.
 
 # Dossier {#dossier}
 

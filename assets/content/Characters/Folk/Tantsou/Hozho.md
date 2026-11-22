@@ -36,7 +36,7 @@ data:
 
 # Appearance {#appearance}
 
-Hozho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. Hozho holds court in the city of Mwonou, in the upland basin below the mountains, where the famine petitions of his districts are read out to him by the dozen. The ancestral hall a Prince of the province raised in a past reign, nine terraces high with nine bells hung in it, stands in his city.
+Hozho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He holds court in the city of Mwonou, in the upland basin below the mountains, where the famine petitions of his districts are read out to him by the dozen. The ancestral hall a Prince of the province raised in a past reign, nine terraces high with nine bells hung in it, stands in his city.
 
 # Dossier {#dossier}
 

@@ -82,5 +82,5 @@ She is a stranger to the district by the nature of the office, and the clerks wh
 ## Plot Hooks
 
 1. **The ration for the dead man.** A household draws a ration for a member the register enters as dead, and the registrar wants a party to learn whether he lives before she strikes the ration.
-2. **The seal's impression.** An impression of the Jenshou seal, which never leaves the hall, has turned up on a ration pass at Mwonou, and she wants to know whose hand pressed it.
-3. **The upper villages' count.** The famine has moved households off the dry upper terraces, and she wants a party to walk the three upper villages with her clerk and count who is still where the register says.
+2. **The seal's impression.** An impression of the Jenshou seal, which stays with the office, has turned up on a ration pass at Mwonou, and she wants to know whose hand pressed it.
+3. **The upper villages' count.** The famine has moved households off the dry upper terraces, and she wants a party to walk the upper villages with her clerk and count who is still where the register says.

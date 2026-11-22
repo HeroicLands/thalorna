@@ -36,7 +36,7 @@ data:
 
 # Appearance {#appearance}
 
-Rinzho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. Rinzho is seen at Wongsen as the other Princes see him at court: as the Prince whose granaries are full. His factors weigh rice on the quays of the delta port under his seal, and the barges that carry it to the capital travel under the same seal.
+Rinzho has the look of the Zhazho: nails grown almost impossibly long and lacquered in brilliant colors, a painted face and painted teeth. He is seen at Wongsen as the other Princes see him at court: as the Prince whose granaries are full. His factors weigh rice on the quays of the delta port under his seal, and the barges that carry it to the capital travel under the same seal.
 
 # Dossier {#dossier}
 

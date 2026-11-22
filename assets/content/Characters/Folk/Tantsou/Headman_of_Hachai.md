@@ -3,7 +3,7 @@ shortcode: hachaihdmn
 name: {full: Headman of Hachai}
 type: being
 subType: npc
-description: "The headman of Hachai, the village of the Mwonou high country whose every household is struck from the register, who sets its rule himself."
+description: "The headman of Hachai, a millet and goat village in the Mwonou high country where no road reaches, who sets its rule himself."
 tags: [gm]
 data:
   icon: icon-person
@@ -59,7 +59,7 @@ He is wary, slow to trust and hard on anyone who puts the village at risk.
 
 ### Motivation
 
-He wants Hachai kept off every page of the register.
+He wants Hachai left alone in its fold of the ridge.
 
 ### Strengths
 
@@ -67,19 +67,23 @@ The village obeys him, and the ridge hides it.
 
 ### Weaknesses
 
-Everyone in the village has fled something, and one boy at a lowland market is enough to find them.
+The village has one road to the lowlands, a boy sent down to the Weichai market, and whatever the boy says there reaches farther than the headman can see.
 
 ## Social
 
 ### Affiliations
 
-- **[[affiliation-tantsouempr|Empire of Tantsou]]**: outlaw, struck from the register.
+:::secret {title="Who lives in Hachai"}
+On the rolls of the [[affiliation-tantsouempr|Empire of Tantsou]] he is an outlaw, struck from the register.
+:::
 
 ## Plot Hooks
 
-:::secret {title="How Hachai could be found"}
+1. **The boy at the market.** The boy Hachai sends down to the Weichai market has not come back, and the headman wants a party to learn what became of him.
 
-1. **The boy at the market.** The boy Hachai sends down to the Weichai market has not come back, and the headman wants a party to learn whether he was taken or talked.
+:::secret {title="What the headman fears"}
+
 2. **The count.** Word comes up the pass that the register is to be checked against the land this year, and the headman wants to know which district's clerks will walk the high country, and when.
 3. **The magistrate's price.** A magistrate has learned of the village and named a price for his silence. The headman wants a party to learn whether the magistrate has told anyone else before he pays.
-   :::
+
+:::
