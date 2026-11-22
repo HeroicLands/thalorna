@@ -57,7 +57,7 @@ The **Command of the Unpaid Fort** is the garrison command that holds [[place-un
 
 [[being-klmthrnrthn|Kalmethar Ronethen]], the aging commander, decides. The commission passes within the commander's house from parent to child, and the fort's people take the heir's orders on the day the parent dies. The garrison stands its watches and keeps its drill and its hours. The families under the walls work the terraces and the granary, and are paid in grain, in a share of the toll and in the commander's word. A dispute in the household goes to the commander at the morning parade and is settled there, in front of everyone.
 
-The command answers to nobody. The chancery in [[place-orzara|Orzara]] receives the yearly report and sends no reply, and it stopped pressing its claim on the far forts when it stopped paying them. The [[affiliation-byzarianlg|Bizarian League]] and the city-states of Helionis each want the fort, and neither has ever governed it. The commander still counts himself the Empire's officer, and keeps the fort the way the commission tells him to, because a commission is kept by keeping it.
+The command answers to nobody. The chancery in [[place-orzara|Orzara]] receives the yearly report and has answered it once, and it stopped pressing its claim on the far forts when it stopped paying them. The [[affiliation-byzarianlg|Bizarian League]] and the city-states of Helionis each want the fort, and neither has ever governed it. The commander still counts himself the Empire's officer, and keeps the fort the way the commission tells him to, because a commission is kept by keeping it.
 
 ## Meeting It
 
@@ -65,11 +65,15 @@ A party on the pass meets the Keeper of the Toll at the gate. The toll is lower 
 
 ## The Unconfirmed Heir {#present}
 
-The commander is old, and the heir will not take the commission unless the chancery confirms it. The spring report is ready for Orzara, but the command needs an answer from the office that has long received its reports without replying. Both the League and the Helionite envoys would rather the report did not arrive.
+The commander is old, and the heir will not take the commission unless the chancery confirms it. The spring report is ready for Orzara, and one sealed reply from the chancery has already arrived, which the commander has not opened. The command needs the chancery's answer on the heir. Both the League and the Helionite envoys would rather the report did not arrive.
+
+## History {#history}
+
+The [[affiliation-vylarinmpr|Empire]]'s engineers built the fort to hold the pass in the years when a legion garrisoned Hellád and the road between the two halves of the province ran through it, and its commander held a commission signed by the Orzas's chancery and paid from [[affiliation-tarmex|The Tarmeks Orzan]]. About 619 AF [[lore-crownssettle|the Settlement of the Crowns]] left the far forts' commissions unpaid without revoking them, and the commission has passed within the commander's house from parent to child since, with a report sent to the chancery every spring.
 
 ## Hook
 
-- **The heir's condition.** The commander hires the party to ride with this spring's report to Orzara and come back with the chancery's answer.
+- **The heir's condition.** The commander hires the party to ride with this spring's report to Orzara and come back with the chancery's answer on the heir, though the sealed reply already in the fort stays unopened.
 
 ## See Also {#see-also}
 

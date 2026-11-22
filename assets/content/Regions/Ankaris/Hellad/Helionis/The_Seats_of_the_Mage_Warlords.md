@@ -16,16 +16,24 @@ Each seat is a tower with a walled workshop behind it, cut into rock or built ag
 
 **[[place-theradon2|Theradon]]'s seat** is a walled workshop on the terraces above the town. The Republic stripped it in 330 BF, and its master died when the city fell. The racks along the north wall are empty, and the numbers painted above them are still legible.
 
+## Layers {#history}
+
+The seats are the work of the war with the Republic, from 335 to 312 BF, when the city-states turned their mages on the legions and some of those mages became warlords their own city-states could not fully control ([[lore-helionscnq|The Conquest of Helionis]]).
+
+## What Is There Now {#present}
+
+The seats stand roofless and unrepaired. [[affiliation-ordoarcanis|The Order]] arrests the treasure-seekers it finds at them, and the city-states' own magistrates mostly ignore the same people. A Thirenaean factor is paying for rubbings of the numbers painted above the empty racks of Theradon's seat and will say only that his principal collects.
+
 ## Who Goes
 
 - **Scholars**, [[being-blnhdrks|Bulelon Hadrikes]] among them, who come for the walls, the marks and the shape of the rooms.
-- **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, who inspect a seat and write it into a register.
+- **Arcane Order surveyors**, who inspect a seat and write it into a register.
 - **Treasure-seekers**, whom the Arcane Order arrests when it finds them, and whom the city-states' own magistrates mostly ignore.
 
 ## Hooks {#hooks}
 
 - **The bricked cellar.** At one seat the cellar was bricked up from the inside, and the mortar is the same age as the walls.
-- **The numbers.** A Thirenaean factor has begun paying for any rubbing or copy of the numbers painted above the empty racks of Theradon's seat. He will say only that his principal collects.
+- **The numbers.** The factor who buys rubbings of the numbers above the empty racks of Theradon's seat says only that his principal collects, and anyone who sells him a copy is working a seat the Order may arrest him at.
 
 ## See Also {#see-also}
 

@@ -78,6 +78,10 @@ Standing in Athenikos is the Helionite ladder. A citizen by descent votes and se
 
 Athenikos holds two of the twelve hinterland towns, [[place-rakiria|Rakiria]] and [[place-daminea|Daminea]], and the assembly spends Rakiria's gold on the fleet and the mint, while Daminea sends wool and horses. Steppe clans raid Daminea in the spring, and Rakiria guards its gold against thieves from within as well as bands from outside.
 
+## History {#history}
+
+Athenikos fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in the conquest of 335 to 312 BF ([[lore-helionscnq|The Conquest of Helionis]]), and it kept its council and its magistrates under the Republic and the Empire after it. At [[lore-crownssettle|the Settlement of the Crowns]], about 619 AF, Helionis stayed on the imperial chancery's roll as a province while its city-states kept their own magistrates, and Athenikos has governed itself on that footing since.
+
 ## See Also {#see-also}
 
 [[affiliation-ctysttshlns|City-States of Helionis]]

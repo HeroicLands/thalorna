@@ -78,6 +78,10 @@ Standing is the common Helionite ladder, and the metic's complaint belongs to it
 
 Kostaros joined the Games late. The older six city-states let it compete but not sit on the bench of arbiters, and it resents the exclusion. It holds none of the twelve hinterland towns, which five of the seven city-states hold between them, and it feeds its 50,000 people in Kostaros and Mirtelos by sea.
 
+## History {#history}
+
+In the colonizing centuries, when Helionite cities with more sons than land sent settlers over the sea, Kostaros sent a daughter-port to the Bizarian coast that keeps its mother's name, and the two have been taken for one another since ([[lore-daughtercts|the Daughter-Cities]]). Kostaros fell to the [Vilérian Republic]{.name data-type="affiliation/polity"} in the conquest of 335 to 312 BF ([[lore-helionscnq|The Conquest of Helionis]]). It joined the Games later than the older six, and its place in the Truce rests on that late entry: it keeps the Truce and competes under it, and it is not seated among the arbiters who enforce it.
+
 ## Relations {#relations}
 
 Kostaros is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and shares the [[skill-helonclng|Helonik tongue]] and the festivals of the other six city-states. Within its land lies Mirtelos, a city of 20,000.

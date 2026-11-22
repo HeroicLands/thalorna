@@ -22,17 +22,25 @@ The dead of both armies stand on the plain on the anniversary of the battle, wor
 
 [[place-korinthea2|Korinthea]]'s temple of the [[affiliation-ardavon|Faith of Árdavon]] sends a judge each year to walk the ring and record where the stones stand. It is a custom and not an office. The settlement rite of [[affiliation-selmoros|Sélmoros]] has never been tried on the plain, because in Helionis a temple is civic property and the rite needs an assembly's vote, and no Korinthean assembly has voted to say aloud what its city-state did here.
 
+## Layers {#history}
+
+In 327 BF, in the eighth year of the [Vilérian Republic]{.name data-type="affiliation/polity"}'s war, a Korinthean mage-warlord broke a legion here with the war's greatest working, and when the [Dragon Riders]{.name data-type="affiliation"} came over the field the working turned back through the Korinthean levy behind him, so that both armies died on the plain in one afternoon ([[lore-heladturnedwrk|the Turned Working]]).
+
+## What Is There Now {#present}
+
+The withering still spreads and the dead still stand on the anniversary. The boundary stone nearest the road has moved overnight, by hand, and a farm on the wrong side of it is for sale cheap. A Korinthean assembly has for the first time a motion before it to pay for the settlement rite, and the families who oppose it have a reason they will not give. Korinthea refuses [[affiliation-ordoarcanis|The Order]] surveyors at the ring.
+
 ## Who Goes
 
 - **Carters**, who go round it by daylight and give the plain a wide berth.
 - **Scholars**, [[being-blnhdrks|Bulelon Hadrikes]] of [[place-theradon2|Theradon]] among them, who come for the ground.
-- **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, whom Korinthea refuses at the ring.
+- **[[affiliation-ordoarcanis|Arcane Order]] surveyors**, who come to the ring.
 - **[[affiliation-blackflame|The Black Flame]]**, which works fields anywhere, and for which a withering that spreads is the work already half done.
 
 ## Hooks {#hooks}
 
-- **The moved stone.** The boundary stone nearest the road has moved overnight, by hand, and a farm on the wrong side of it is for sale cheap.
-- **The motion.** A Korinthean assembly has, for the first time, a motion before it to pay for the settlement rite, and the families who oppose it have a reason they will not give.
+- **The moved stone.** Whoever moved the stone gains by the sale of the cheap farm, and the temple's judge must say where the ring stands when next she walks it.
+- **The motion.** The vote on the settlement rite is close, and the families who oppose it have a reason they will not give.
 
 ## See Also {#see-also}
 

@@ -66,6 +66,12 @@ Southward, across the Vilérian Sea, lie the northern coasts of [[place-xerathia
 
 Off the short coast to the south lie the islands of Taruzel; the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is the League's great rival at sea and Helionis's trading partner. Along the whole of the League's southern border lies the Kingdom of Amradad, on the eastern shore of the sea. Eastward lies the Khazrin Desert and, beyond it, the world of the Ashaian faiths. The Bizarian League is the gateway through which eastern goods and eastern ideas have always entered the western world.
 
+## Current Situation {#present}
+
+The two lands stand differently toward the [[affiliation-vylarinmpr|Vilérian Empire]]. Helionis is independent in fact and tied to the Empire in form only: its seven city-states keep [[lore-heladtruce|The Truce of the Games]] and compete in everything else, and [[affiliation-kostaros2|City-State of Kostaros]], the late member, competes at the Games without a seat on the bench of arbiters and resents it. Bizaria is a province in law and a League of five city-states in fact: imperial officers hold its passes, tariffs and muster, the League's merchants chafe at that hold, and a legate is rumored to be on his way.
+
+In both lands the mining towns of the mountains buy their grain and send down their metal, marauders from the hills and the steppe work the hinterland roads, and [[affiliation-blackflame|The Black Flame]] is strong in the hinterland towns. Between the two lands [[place-unpaidfort|the Unpaid Fort]] waits on an answer from the imperial chancery, and the League and the Helionite city-states each want its pass.
+
 ## See Also {#see-also}
 
 [[place-helionis|Helionis]]

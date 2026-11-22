@@ -36,3 +36,7 @@ sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
 The **Village Council of Veridon** governs the village of [[place-veridon|Veridon]] in the hinterland of [[place-byzariargn|Bizaria]], which lives off the fortified compound of [[affiliation-irnwlvscmpny|the Iron Wolves Company]] outside its walls.
+
+## History {#history}
+
+The village has lived off the company's compound since the company made its base there.

@@ -9,7 +9,7 @@ name:
     - Bizarian Cartographers' Guild
 type: affiliation
 subType: guild
-description: "Master-trained chartered guild of cartographers and surveyors holding monopoly on military and commercial mapmaking across the Bizarian League—and quietly compromised from within."
+description: "Master-trained chartered guild of cartographers and surveyors holding monopoly on military and commercial mapmaking across the Bizarian League, whose seal the League's soldiers and consuls trust above any other."
 tags: []
 data:
   culture: byzarianclt
@@ -42,6 +42,7 @@ data:
       Grand Cartographer: >-
         Chair of the Council of Masters, presently Olara Marenies, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities.
   seat: null
+  range: [byzariargn]
   population: null
   economy: [affiliation-tevran]
   lore: []
@@ -50,7 +51,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Learn the seal before you learn the pen," a journeyman of the Cartographers' Guild tells the apprentice at the next table. "A map without a seal is a rumor. A map with one is a warranty, and the master who sealed it answers for every line." The [[affiliation-byzarianlg|League]]'s soldiers and consuls agree, and that is the guild's whole power: no general in the League will march on a chart that does not carry a guild seal. It is also the guild's weakness, because the seal is only as honest as the hands that hold the dies, and someone inside the guild has been selling what the seal protects.
+"Learn the seal before you learn the pen," a journeyman of the Cartographers' Guild tells the apprentice at the next table. "A map without a seal is a rumor. A map with one is a warranty, and the master who sealed it answers for every line." The [[affiliation-byzarianlg|League]]'s soldiers and consuls agree, and that is the guild's whole power: no general in the League will march on a chart that does not carry a guild seal. It is also the guild's weakness, because the seal is only as honest as the hands that hold the dies.
 
 Type
 : chartered professional guild
@@ -68,13 +69,13 @@ Tevran Maldor status
 
 The guild holds the League's chartered monopoly on the production of maps for any purpose for which the state, the military or a merchant house will pay coin: city plans, sea charts, trade-route surveys, fortification plans, frontier reconnaissance, mine plats, harbor diagrams, and the great commissioned wall-maps that hang behind every consul's desk in [[place-byzariargn|Bizaria]]. To practice cartography in the League for a paying client without a guild license is a fineable offense; to produce a map of any League fortification or military disposition without guild oversight is treason.
 
-The monopoly is an aspiration more than a fact. The guild is the most prestigious mapmaking body in the western part of the [[place-ankrscntnnt|Ankaris Continent]], but it cannot prevent its members from selling the same map twice, once to the patron who commissioned it and once to whoever else will pay, and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the discovery that the rot is internal: at least one master of standing has been selling League military maps to foreign powers and to the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for fifteen years, and the leadership does not yet know how deep the compromise runs.
+The monopoly is an aspiration more than a fact. The guild is the most prestigious mapmaking body in the western part of the [[place-ankrscntnnt|Ankaris Continent]], but it cannot prevent its members from selling the same map twice, once to the patron who commissioned it and once to whoever else will pay, and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the city guard's investigation of one of its masters, which has put the whole guild under suspicion.
 
 ## Membership and Structure
 
 The guild has three grades, and the road through them takes a minimum of fifteen years. An apprentice is admitted by examination, typically between twelve and sixteen years of age, and trained in geometry, drafting, surveying and the foundational pigments and inks. A journeyman is qualified by an examined survey of an assigned territory and may take paid commissions under a master's seal. A master is qualified by a vote of the sitting masters after a presented original work, and may seal commissions, take apprentices and sit on guild councils.
 
-At the apex sits the [Council of Masters]{.name data-type="affiliation/governmental"}, presently nine seats, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities. Its chair, the Grand Cartographer, is presently [Olara Marenies]{.name data-type="being/npc"}, an elderly woman whose late husband was a consul and whose own work is mostly administrative now. She is widely respected, modestly capable and politically isolated, which is why the rot has run as deep as it has.
+At the apex sits the [Council of Masters]{.name data-type="affiliation/governmental"}, presently nine seats, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities. Its chair, the Grand Cartographer, is presently [Olara Marenies]{.name data-type="being/npc"}, an elderly woman whose late husband was a consul and whose own work is mostly administrative now. She is widely respected, modestly capable and politically isolated.
 
 The guild keeps the [Cartographic Archive]{.name data-type="place/site"} in Bizaria, the central repository of every map sealed by a guild master since the charter was granted. The Archive is the guild's true treasure and its greatest vulnerability: anyone with the means to copy from it controls the League's geographic intelligence.
 
@@ -101,24 +102,29 @@ The League council and military
 : primary client and overseer. The League's investigators currently include the guild in the same breath as the spy networks they are trying to dismantle.
 
 [[affiliation-tevran|The Tevran Maldor]]
-: supra-realm authority. The guild's standing throughout the western Vilérian world depends on its Tevran charter; the **Rozimoi of the Tevran** have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation against Master Damáklios. The matter is being held at chapter level for now; if it reaches the Council's attention, the consequences for the guild's charter could be substantial.
-
-The Crime Syndicates of Thalorna, particularly the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"}
-: quietly major purchasers of guild work for purposes the guild's charter forbids.
-
-[[affiliation-blackledgr|The Black Ledger]]
-: the guild's shadow. Most Ledger members are guild-trained, and many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist, and the city guard pretends the Council does not know.
-
-Foreign powers
-: [[affiliation-kingdmtrvn|Tarvénia]], an unidentified northern confederation and at least one Vilérian province pay handsomely for League maps procured through irregular channels.
+: supra-realm authority. The guild's standing throughout the western Vilérian world depends on its Tevran charter.
 
 ## Identifying Marks
 
 A guild master's seal is a brass die carrying the master's personal mark and the year of issue; impressions in wax (red for civil commissions, black for military) attest the map's provenance. Masters wear a silver pin in the shape of a stylized dividers-and-compass, worn at the throat or pinned to the cap. Apprentices wear linen sleeves marked with the chevron of their master.
 
+## The Present Quarrel {#present}
+
+The League's city guard is investigating Master [[being-damklsmpsn|Damáklios Bridutis]] for selling guild work to foreign agents, and Master [[being-fruzukazselv|Fruzukáz Selvazhazát]] feeds the investigation with insinuations of his own. The Council of Masters is divided over what to do with him, and its Grand Cartographer, Olara Marenies, is politically isolated.
+
+:::secret {title="The Rozimoi's letters"}
+The **Rozimoi of the Tevran** have written to the guild's leadership, in correspondence not made public, expressing pointed interest in the espionage investigation against Master Damáklios. The leadership holds the matter at chapter level; if it reaches the Council of Masters, the consequences for the guild's charter could be substantial. The Council does not know how deep the selling of League maps runs.
+:::
+
+:::secret {title="The selling of League maps"}
+At least one master of standing has been selling League military maps for fifteen years to foreign powers and to the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]], and the leadership does not yet know how deep the compromise runs. The Syndicates, particularly the [Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"}, are quiet major purchasers of guild work for purposes the charter forbids. [[affiliation-kingdmtrvn|Tarvénia]], an unidentified northern confederation and at least one Vilérian province pay handsomely for League maps procured through irregular channels. The compromise runs deep because Olara Marenies is politically isolated and nobody checks the masters' dies.
+
+Behind the public hooks: the spy network that sells these maps is almost certainly inside the Archive's building, and the investigation must not alert it. Some Council members are themselves compromised and want the Master's Trial to disappear. The reform would cripple the espionage trade, and several Council seats would lose substantial private income from it. [[affiliation-blackledgr|The Black Ledger]] is the guild's shadow: most Ledger members are guild-trained and many use guild credentials as cover. The Council pretends the Ledger does not exist, and the city guard pretends the Council does not know.
+:::
+
 ## Plot Hooks
 
-- _The Archive Theft._ Several classical maps have disappeared from the Cartographic Archive, and others have been copied. The leadership must investigate without alerting the spy network that is almost certainly inside the building.
-- _The Master's Trial._ Master Damáklios Bridutis is brought before the Council of Masters on charges of selling guild work to foreign agents. The Council is divided: some want to make an example of him, some want a quiet expulsion to avoid scandal, and some are themselves compromised and want the trial to disappear.
-- _The Apprentice's Discovery._ A first-year apprentice, tasked with cataloging old surveys, notices that three "independent" maps of the same coast are in fact tracings of one common source. The original is signed by a master long dead, and the discovery threatens to unravel three generations of falsified work.
-- _The Reform Vote._ The Council debates new protocols requiring all sealed maps to be reviewed by a second master before delivery. The reform would cripple the espionage trade, and several Council seats would lose substantial private income. The vote will be very close.
+- _The Archive Theft._ Several classical maps have disappeared from the Cartographic Archive, and others have been copied. The leadership must investigate quietly, before the League's investigators hear of it and take the Archive out of the guild's hands.
+- _The Master's Trial._ Master Damáklios Bridutis is brought before the Council of Masters on charges of selling guild work to foreign agents. The Council is divided: some want to make an example of him, some want a quiet expulsion to avoid scandal, and some want the trial dropped for want of proof.
+- _The Apprentice's Discovery._ A first-year apprentice, tasked with cataloging old surveys, notices that three "independent" maps of the same coast are in fact tracings of one common source. The original is signed by a master long dead, and the discovery calls three generations of sealed work into question.
+- _The Reform Vote._ The Council debates new protocols requiring all sealed maps to be reviewed by a second master before delivery. Masters who sell their own copies of sealed work object, and the vote will be very close.

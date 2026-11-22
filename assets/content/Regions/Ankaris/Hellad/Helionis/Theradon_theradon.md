@@ -91,6 +91,10 @@ Theradon holds three of the twelve hinterland towns: [[place-nafrithos|Nafrithos
 
 Theradon uses the [[lore-vylrncrncy|Vilérian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|the Danvar]] moneylenders chartered under [[affiliation-tevran|the Tevran Maldor]]. [[affiliation-tolvan|The Tolvan]] still claims the city-states' taxes on paper, and the city-states do not pay them. See [[lore-vylrncrncy|Vilérian Currency]] for the full system.
 
+## History {#history}
+
+Theradon fell early in the war. In 330 BF the [Vilérian Republic]{.name data-type="affiliation/polity"} took the town and its mage-warlord's workshop and carried away what the workshop held ([[lore-dragondead|The Dragon Dead at Theradon]]); the warlord died when the town fell, and his stripped seat still stands on the terraces above it ([[place-warlordseats|The Seats of the Mage-Warlords]]). About 625 AF the councils of Theradon and [[affiliation-thyrenae|Thirenae]], the city-states with the oldest colleges, agreed with the Helionis chapter of [[affiliation-ordoarcanis|The Order]] that a philosopher may study, teach and dispute arcane theory without belonging to the Order so long as he does not practice ([[lore-heladconcordat|The Concordat of Theory]]).
+
 ## See Also {#see-also}
 
 - [[affiliation-ctysttshlns|City-States of Helionis]]—the seven city-states and how they are governed

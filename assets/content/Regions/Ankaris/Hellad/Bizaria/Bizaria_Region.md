@@ -39,7 +39,7 @@ The mountains close the region to the east and north. In the mountainous interio
 
 Between the seats of the city-states lie the lesser towns: [[place-byzaris|Bizaris]], the artisan town of the guilds; [[place-selimara|Selímara]], a market town on the inland roads; and dozens of villages, caravanserais and shrines that the maps of Krusteikhos's counting houses record only as tolls collected.
 
-Nine more towns of 2,500 to 4,500 people stand in the country between the coast and the passes. [[place-zalvarion|Zalvarion]], [[place-siderash|Siderash]] and [[place-bruzash|Bruzash]] are mining towns of the northern range, which buy their grain from the plateau villages and the Velanthian road. [[place-tolzur|Tolzur]], [[place-parzhenar|Parzhenar]] and [[place-vezhrelion|Vezhrelion]] are toll, garrison and pass towns of the Eastern March's hinterland, and [[place-krenel|Krenel]] is the spring town of the Dunhara road. [[place-halzikos|Halzikos]] is the caravan stop on the northern shore of [[place-bittersea|the Bitter Sea]], and [[place-oinelena|Oinelena]] is the wine and oil market of the lowland belt. Each is held by the nearest of the five city-states.
+Nine more towns of 2,500 to 4,500 people stand in the country between the coast and the passes. [[place-zalvarion|Zalvarion]], [[place-siderash|Siderash]] and [[place-bruzash|Bruzash]] are mining towns of the northern range, which buy their grain from the plateau villages and the Velanthian road. [[place-tolzur|Tolzur]], [[place-parzhenar|Parzhenar]] and [[place-vezhrelion|Vezhrelion]] are toll, garrison and pass towns of the Eastern March's hinterland, and [[place-krenel|Krenel]] is the spring town of the Dunhara road. [[place-halzikos|Halzikos]] is the caravan stop on the northern salt shore of [[place-bittersea|The Bitter Sea]], one of the two inland seas on the border with Amradad, and [[place-oinelena|Oinelena]] is the wine and oil market of the lowland belt. Each is held by the nearest of the five city-states.
 
 ## The Marches
 
@@ -153,25 +153,11 @@ The eastern hinterland is the region's open danger, and [[affiliation-blackflame
 [[affiliation-kngdmmrdd|Kingdom of Amradad]]
 : southern neighbor
 
-[[place-bittersea|The Bitter Sea]], [[place-farsea|the Far Sea]]
-: the two inland seas on the southern border
+[[place-bittersea|The Bitter Sea]], [[place-farsea|The Far Sea]]
+: the two inland seas on the border with Amradad
 
 [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : the islands off its coast
 
 [[place-dunharargn|Dunhara Region]]
 : the caravan country beyond Amradad
-
-[[place-argyrteikhos2|Argirteikhos]]
-
-[[place-marshfeld|Marshfeld]]
-
-[[place-orashion2|Órashion]]
-
-[[place-ravenswood|Ravenswood]]
-
-[[place-thessalon|Thessalon]]
-
-[[place-trianthion|Trianthion]]
-
-[[place-veridon|Veridon]]

@@ -188,7 +188,7 @@ Every real culture has a blind spot its own thoughtful members argue about, and 
 
 The sin is the village of [[place-trianthion|Trianthion]]. Within living memory the village refused a local lord's tax collectors and garrison and sheltered a fugitive bandit chief, and the lord hired [[affiliation-irnwlvscmpny|the Iron Wolves Company]] to take it. By the end of the day every adult was dead, and the bandit chief could not be told from the others. The company collected its standard rate and the lord paid without comment. The company executes a contract as written and regards the moral character of the work as the employer's problem, which is the Bizarian ethic with the edges cut off. The League that seals every other transaction has no account of this one that it says aloud. The company keeps its base outside [[place-veridon|Veridon]], a town whose people answer a question about the company with exactly what it drinks and what it pays. The League's neutrality is a reputation for keeping terms, and the Iron Wolves are the work it prefers not to admit buying. A survivor who testified in public would force the League to act.
 
-The Cartographers' Guild shows the same pattern in a smaller place. Its seal makes a map a warranty, and someone inside the guild has been selling what the seal protects.
+The Cartographers' Guild rests on the same ethic in a smaller place: its seal makes a map a warranty, and the master who sealed it answers for every line.
 
 ## See Also {#see-also}
 
