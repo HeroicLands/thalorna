@@ -54,13 +54,13 @@ A meadow of tall grass in a river bend, closed in by pines on the landward side.
 
 # The Truth of Teshobor {#truth .secret}
 
-**The camp.** The bend is **Lantavosto**, "the place of the slow river", a summer camp of the [[lore-flksenali|Senali]], abandoned. The Senali came to it each summer when the river was low and warm, and they grew the willows of the bank into the arches they lived in, as they work their dwellings into living trees wherever they stay. They left it empty each autumn.
+**The camp.** The bend is **Lantavosto**, "the place of the slow river", a summer camp of the [[lore-flksenali|Senali]], abandoned. Senali traveling the river by boat put in here in the warm months, when the water ran low and slow, and slept in the willow arches over the water with their boats drawn up below; willows were their choice because a willow takes root from a cut bough and bends where it is led. Before the autumn rains they went on downstream or home.
 
-**Its leaving.** The Senali stopped coming as they withdrew into ever more remote sanctuaries, and the camp stood empty long before the village was built. Nothing in the arches harms the village or the newcomers.
+**Its leaving.** The river traffic of the Senali ended when they left the open country of the river valleys for the remote forests, long before the village was built. Nothing in the arches harms the village or the newcomers.
 
 **The hay.** The two ricks rotted because the hay in them was stacked wet, as the newcomers say. Cutting the willows does nothing to the meadow. The two cut trees are living still and grow back from the stump within a few summers, faster than any willow grows.
 
-**The stone.** The stone in the shallows marks the camp's landing, and the line around it is cut by a Senalo. No one in Velanthia reads it.
+**The stone.** The stone in the shallows is the camp's mooring post, and the line around it is [[skill-clthndscrpt|Veldikko]], naming the place for boats coming up the river. No one in Velanthia reads it.
 
 > [!TIP]
 > The priest wants an answer, not the truth. A party that proves the hay was stacked wet settles the quarrel, and one that shows the priest how fast the stumps grow makes the willows a matter for the faith and the prince, not the village.

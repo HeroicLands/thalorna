@@ -3,7 +3,7 @@ shortcode: snowlesshlw
 name: {full: The Snowless Hollow}
 type: place
 subType: site
-description: "A hollow in the deep forest of Ghotaqor where a warm spring keeps the ground bare all winter and a ring of larches stands bent and grown together, which the forest bands avoid and one band short of meat is wintering in."
+description: "A hollow in the deep forest of Ghotaqor where a warm spring keeps the ground bare all winter and a single roof of living larch boughs closes over a steaming pool, which the forest bands avoid and one band short of meat is wintering in."
 tags: [ruin, inland]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
 
 ## Overview {#overview}
 
-**The Snowless Hollow** is a bowl in the forest of [[place-gwtkrrgn|Ghotaqor]], far inland among the spruce and the bogs, where the snow does not lie. In the deepest winter, when the rest of the forest is white to the height of a man's waist, the floor of the hollow is bare black ground and green moss, and a mist hangs over it on still days. Around its rim stands a ring of old larches, each bent toward the center and grown into the next overhead. The forest bands know it as the hollow where the snow does not lie and keep away from it. Travelers who have heard of it from the bands call it the Snowless Hollow.
+**The Snowless Hollow** is a bowl in the forest of [[place-gwtkrrgn|Ghotaqor]], far inland among the spruce and the bogs, where the snow does not lie. In the deepest winter, when the rest of the forest is white to the height of a man's waist, the floor of the hollow is bare black ground and green moss, and a mist hangs over it on still days. At its center, over the pool where the warm water rises, a stand of old larches leans together and grows into one roof, low and close, with the steam coming out between the boughs. The forest bands know it as the hollow where the snow does not lie and keep away from it. Travelers who have heard of it from the bands call it the Snowless Hollow.
 
 ## Who Holds It {#who-holds-it}
 
@@ -27,21 +27,21 @@ The bands say the hollow was bare before their own people came into the forest, 
 
 ## What Is There Now {#present}
 
-This winter the deer came down early and stayed, and an inland band whose meat ran short before the new year followed them in. It has built its winter houses inside the ring of larches and eats well, and the other bands will not trade with it or take its people in, because it is living where no one should. Two of its children have fallen sick with a fever that will not break, and the band's old men say the hollow is taking its price; the younger hunters say the fever came in with the last visitors from the coast. A trader of [[place-qisomrktcmp|Qiiso]] who winters with a neighboring band has offered to carry word south for anyone who wants to buy the band's furs, since no band of the forest will.
+This winter the deer came down early and stayed, and an inland band whose meat ran short before the new year followed them in. It has built its winter houses on the bare ground around the larch roof and eats well, and the other bands will not trade with it or take its people in, because it is living where no one should. Two of its children have fallen sick with a fever that will not break, and the band's old men say the hollow is taking its price; the younger hunters say the fever came in with the last visitors from the coast. A trader of [[place-qisomrktcmp|Qiiso]] who winters with a neighboring band has offered to carry word south for anyone who wants to buy the band's furs, since no band of the forest will.
 
 ## Dangerous Neighbors {#dangerous-neighbors}
 
-The warm ground never freezes, so the bog around the hollow's rim never takes a man's weight, even in the coldest month, and the paths in run between the larch roots or nowhere. The deer draw wolves and the great forest cats down after them, and the predators of the forest know the hollow as well as the herds do. The other bands of the inland forest count the band in the hollow outside their law for as long as it stays there.
+The warm ground never freezes, so the bog around the hollow's rim never takes a man's weight, even in the coldest month, and the only ways in run along the spruce roots or nowhere. The deer draw wolves and the great forest cats down after them, and the predators of the forest know the hollow as well as the herds do. The other bands of the inland forest count the band in the hollow outside their law for as long as it stays there.
 
 ## What a Party Finds {#what-a-party-finds}
 
-A bowl a long bowshot across, its floor bare and soft and warm to the hand. In its lowest part a spring rises into a pool of clear water warm enough to bathe in, and the mist comes off it. The larches of the rim are bent inward, and each pair of trunks meets overhead and grows into one, so that the ring makes a row of arched bays around the hollow, each roofed by its own boughs and floored with soft needles. The band's houses stand in some of the bays. In others the needles cover flat stones set into the ground in a circle, each stone smoothed by water and worn hollow in the middle.
+A bowl a long bowshot across, its floor bare and soft and warm to the hand. In its lowest part a spring rises into a pool of clear water warm enough to bathe in. Some twenty larches stand around the pool with their trunks leaning inward, and their boughs are woven and grown into one another above the water to make a single low roof, black with damp, under which the steam gathers before it escapes. Under the roof a ledge of flat stones runs around the pool at the height of a seat, each stone worn smooth and hollowed in the middle. On the north side the ledge is broken by one tall stone set upright, green with moss. The band's houses stand outside, on the bare ground of the bowl.
 
 ## Hooks {#hooks}
 
 - **The fever.** The band in the hollow wants its two sick children cured and pays in furs, which it has more of than it can sell this winter.
 - **The furs.** The trader of Qiiso wants someone to go into the hollow, buy the band's furs and bring them out over the bog before the thaw.
-- **The bays.** The larches of the rim are grown together by no woodsman's art, and a scholar of [[place-velanthrgn|Velanthia]] who has heard of them pays for a drawing of the trees and for anything found beneath the needles.
+- **The roof.** The larches over the pool are grown together by no woodsman's art, and a scholar of [[place-velanthrgn|Velanthia]] who has heard of them pays for a drawing of the trees and for anything found under the roof.
 
 ## See Also {#see-also}
 
@@ -53,13 +53,13 @@ A bowl a long bowshot across, its floor bare and soft and warm to the hand. In i
 
 # The Truth of the Snowless Hollow {#truth .secret}
 
-**The camp.** The hollow is **Hwomasto**, "the place of the first warmth", a winter camp of the [[lore-flksenali|Senali]], abandoned. The Senali came to it in the deep of winter, when the warm spring kept the one green place in the northern forest, and they bent the larches of the rim and grew them together into the bays they lived in, as they work their dwellings into living trees wherever they stay. They kept it only for the cold months and left it empty each spring.
+**The camp.** The hollow is **Hwomasto**, "the place of the first warmth", a winter camp of the [[lore-flksenali|Senali]], abandoned. It was a refuge from the northern cold, kept for the darkest months of the year: the Senali who wintered here lived around the warm pool under one roof, and the larches were grown over it to hold the steam in as a stove holds heat. They went back to their own forests each spring.
 
-**Its leaving.** The Senali stopped coming as they withdrew into ever more remote sanctuaries, and the camp has stood empty since long before the bands came into the forest. Nothing in its making was meant to keep anyone out, and nothing in it harms the band.
+**Its leaving.** As their numbers thinned, the Senali gave up this forest, and no Senalo has come to it since long before the bands came into the forest. Nothing in its making was meant to keep anyone out, and nothing in it harms the band.
 
-**The stones.** The flat stones in the bays are hearth-stones, set in a circle in each bay and worn hollow by the warm water the Senali poured over them to raise steam in the coldest nights. Under the needles of the largest bay, on the north side of the ring, a stone of the circle carries a line of marks cut by a Senalo, which no one in the north reads.
+**The stones.** The ledge around the pool is where the wintering Senali sat and slept in the steam, and the hollows in its stones are worn by them. The upright stone on the north side carries, under its moss, a line of [[skill-clthndscrpt|Veldikko]] cut by a Senalo, which no one in the north reads.
 
 **The fever.** The children's fever came in from the coast, as the younger hunters say. The warm pool is clean, and a child kept by it and fed recovers within the month.
 
 > [!TIP]
-> The hollow is a place that is good to live in and that the forest's law forbids. A party that cures the children and brings the furs out gives the band a winter and the other bands a reason to think again.
+> The hollow is a place good to live in that the forest's law forbids. A party that cures the children and brings the furs out gives the band a winter and the other bands a reason to think again.

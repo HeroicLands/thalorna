@@ -81,7 +81,7 @@ These are held pieces in Kalihara’s sanctuaries, not additional freestanding w
 
 ### Reports without an identified work
 
-[[place-nrthnhlds|The Old Holds of the Northern Taiga]] collects conflicting reports of masonry in the forest. Those reports do not establish a work of the same kind. A GM may make the holds lost Khazari halls, works of the teachers in the islanders’ account, or unrelated ruins. None of those possibilities follows from the reports, and the hunters’ stories connect the holds to nothing elsewhere. A ruin, a thin place or an unexplained landscape is not included above merely because its origin is uncertain. The island also has lesser tending-stones without individual site notes; [[lore-sarisul|The Tending-Stones]] gives their shared account. Neither an unlocated report nor that general account warrants inventing a further named site.
+[[place-nrthnhlds|The Old Holds of the Northern Taiga]] collects conflicting reports of masonry in the forest. The holds are abandoned holds of the [[lore-flkkhazar|Khazari]], cut into the coast cliffs, and their houses kept [[place-cutridge|The Cut Ridge]] inland as their hunting cavern. They are not a work of the teachers, and the hunters’ stories connect them to nothing elsewhere. A ruin, a thin place or an unexplained landscape is not included above merely because its origin is uncertain. The island also has lesser tending-stones without individual site notes; [[lore-sarisul|The Tending-Stones]] gives their shared account. Neither an unlocated report nor that general account warrants inventing a further named site.
 
 ## Kalihara and its human civilization
 

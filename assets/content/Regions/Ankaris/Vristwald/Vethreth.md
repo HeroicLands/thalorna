@@ -3,7 +3,7 @@ shortcode: vethreth
 name: {full: Vethreth}
 type: place
 subType: site
-description: "A clearing in the old forest beyond Blackthorn Ridge, ringed by oaks grown together into a hall of living wood, which the Garskald tellings set apart and the clan's hunting company is about to cross toward."
+description: "A clearing in the old forest beyond Blackthorn Ridge, closed in by oaks grown trunk to trunk into a living wall, which the Garskald tellings set apart and the clan's hunting company is about to cross toward."
 tags: [ruin, inland]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview {#overview}
 
-**Vethreth** is a clearing in the old forest north of [[place-blackthornrdg|Blackthorn Ridge]], in the country of [[place-vrystwald|Vristwald]] that no Varokh clan claims. Its name is [[skill-varokhlng|Varokhi]], "the set-apart clearing", from _véth-_, "hallowed, set apart", and _-reth_, "a clearing cut from the forest", and it comes from the tellings of the [Garskald]{.name data-type="affiliation/lineage"}, whose hunting grounds end at the ridge. The tellings put it two days' walk beyond the ridge, on the elk trail down the third valley, and say that the trees around it stand in a ring with their branches joined, like the posts and rafters of a hall that nobody built.
+**Vethreth** is a clearing in the old forest north of [[place-blackthornrdg|Blackthorn Ridge]], in the country of [[place-vrystwald|Vristwald]] that no Varokh clan claims. Its name is [[skill-varokhlng|Varokhi]], "the set-apart clearing", from _véth-_, "hallowed, set apart", and _-reth_, "a clearing cut from the forest", and it comes from the tellings of the [Garskald]{.name data-type="affiliation/lineage"}, whose hunting grounds end at the ridge. The tellings put it two days' walk beyond the ridge, on the elk trail down the third valley, and say that the trees around it stand shoulder to shoulder like the stakes of a palisade that nobody built.
 
 ## Who Holds It {#who-holds-it}
 
@@ -36,7 +36,7 @@ The deep snows close the ridge in early winter, and a party caught on the far si
 
 ## What a Party Finds {#what-a-party-finds}
 
-A clearing of short grass and fern in a valley bottom, round and level, with an elk trail crossing it. Around its edge stand oaks older than any in the central forest, each bent toward the next, their boughs crossed and grown into one another overhead, so that the ring of trees makes a walled and roofed gallery around the open ground. Inside the gallery the floor is dry, deep in leaf-mold, and divided into bays by the trunks. A spring rises at the north side of the clearing and runs out through a gap in the ring toward the valley stream. In the leaf-mold of the bays lie rings of rounded river stones, and nothing else.
+A clearing of short grass and fern in a valley bottom, round and level, open to the sky, with an elk trail crossing it. Around its edge stand oaks older than any in the central forest, set so close that their trunks have grown together into one another, bark into bark, to make a solid living wall twice the height of a man and more, with the crowns spreading above it. The wall has two gaps, east and west, where the elk trail passes, and nowhere else to get through. Across the middle of the clearing runs a long trench, waist-deep and lined with blackened stones, half filled with leaf-mold. Nothing else stands inside.
 
 ## Hooks {#hooks}
 
@@ -60,11 +60,11 @@ A clearing of short grass and fern in a valley bottom, round and level, with an 
 
 # The Truth of Vethreth {#truth .secret}
 
-**The camp.** The clearing is **Lonkusto**, "the place of the deep wood", an autumn and winter camp of the [[lore-flksenali|Senali]], abandoned. The Senali came to it each autumn when the elk came down the valley to winter, and they grew the ring of oaks into the gallery they lived in, as they work their dwellings into living trees wherever they stay. They left it empty each spring.
+**The camp.** The clearing is **Lonkusto**, "the place of the deep wood", an autumn hunting camp of the [[lore-flksenali|Senali]], abandoned. Its makers met the elk here when the herds came down the valley to winter, and they grew the oaks trunk to trunk into a wall so that the two gaps in it became the only ways through: a herd driven along the trail had to pass the hunters waiting at the gaps. The hunters lived in the open inside the wall and cooked over the long trench, and went back into the deep wood when the hunting was done.
 
-**Its leaving.** The Senali stopped coming as they withdrew into ever more remote sanctuaries, and the camp has stood empty since before the Varokh came into the forest. The paths that lead somewhere else in the deep wood belong to the Senali who still keep the forest's enclaves, and none of them passes through the clearing. A hunter who sleeps there wakes where he lay down.
+**Its leaving.** The autumn hunts here ended before the Varokh came into the forest, when the Senali of Vristwald drew back into the enclaves of the deep wood and hunted nearer home. The paths that lead somewhere else belong to those enclaves, and none of them passes through the clearing. A hunter who sleeps there wakes where he lay down.
 
-**The stones.** The rings of stones in the bays are hearth-rings, and under the leaf-mold of each bay lies a floor of flat stones laid level. The camp keeps nothing of value. The oaks themselves are the work: no Varokh woodsman can bend a living oak and graft it to its neighbor, and the gallery stands because it was grown, not built.
+**The wall.** The camp keeps nothing of value. The oaks themselves are the work: no Varokh woodsman can grow living oaks into one trunk, and the wall stands because it was grown, not built. It still turns a driven herd to the gaps, and a company that knows this takes more elk at the clearing in one morning than in a week on open ground.
 
 > [!TIP]
-> The tellings are the danger, not the clearing. If the company camps in the gallery and nothing happens, the elders lose an argument and the clan gains a hunting ground; if it goes round, the herds that winter in it are untouched for another generation.
+> The tellings are the danger, not the clearing. If the company camps inside the wall and nothing happens, the elders lose an argument and the clan gains a hunting ground; if it goes round, the herds that winter in it are untouched for another generation.

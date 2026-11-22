@@ -31,7 +31,7 @@ The scholars of [[place-velanthrgn|Velanthia]] want the ridge mapped, and the on
 
 ## Dangerous Neighbors {#dangerous-neighbors}
 
-The forest around the ridge is bog to the hock until the new year, and a loaded sled that leaves the frozen ground sinks with its dogs. Wolves den in the outer caves, and a great forest cat hunts the deer that cross the ridge. Inside, the danger is the air: the lower passages fill with a bad air that has no smell, which makes a man dizzy, then foolish, then still.
+The forest around the ridge is bog to the hock until the new year, and a loaded sled that leaves the frozen ground sinks with its dogs. Wolves den in the outer caves, and a great forest cat hunts the deer that cross the ridge. Inside, the passages themselves are the danger the bands fear: the men who have gone down them came back sick in the head, or not at all.
 
 ## What a Party Finds {#what-a-party-finds}
 
@@ -60,7 +60,7 @@ A ridge of gray rock a quarter of a mile long, its southern face broken by the m
 
 **Its leaving.** The cavern was left with the coast holds, when their counts fell as the counts of holds were falling across the world while the Khazari dwindled. Its keepers swept the rooms, laid the hearths cold, took down the racks and carried everything of use back to the coast before the coast holds themselves were left.
 
-**The air.** The lower passages run down to a deep chamber where the cavern's keepers stored meat and hides in the cold, and the bad air that gathers there rises out of a fault in its floor. The keepers drew it up and out of the ridge through the square shafts. Roots and fallen stone have closed the shafts, and the bad air stands in the lower passages up to the first stair. A party that clears one shaft from above makes the passages safe to the deep chamber within a day.
+**The air.** The lower passages fill with a bad air that has no smell, which makes a man dizzy, then foolish, then still. They run down to a deep chamber where the cavern's keepers stored meat and hides in the cold, and the bad air rises out of a fault in its floor. The keepers drew it up and out of the ridge through the square shafts. Roots and fallen stone have closed the shafts, and the bad air stands in the lower passages up to the first stair. A party that clears one shaft from above makes the passages safe to the deep chamber within a day.
 
 **What is left.** The rooms are empty and in order. Over the door of the deep chamber the keepers cut the cavern's name in [[skill-drthrkscrpt|Pirzath]], and in the floor of the outermost room are the sockets of a gate-bar like a hold's. Nothing in the cavern is valuable to the holds, but a Khazari lintel cut with a name is worth more to a scholar of Velanthia than every fur in the forest.
 
