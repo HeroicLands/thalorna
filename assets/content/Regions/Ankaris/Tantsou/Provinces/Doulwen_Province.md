@@ -71,5 +71,8 @@ The mountain villages above the passes and the soldier families of their garriso
 [[place-doulwen|Doulwen]]
 : the seat
 
+[[place-doulwenbsns|The Doulwen Basins]]
+: the basins and passes the province holds
+
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the empire the province belongs to

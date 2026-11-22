@@ -77,5 +77,8 @@ The southern coast is the country of the [[lore-tantsoutribclt|Tantsou Tributary
 [[place-wongsen|Wongsen]]
 : the seat
 
+[[place-wongsendlta|The Wongsen Delta]]
+: the delta and the coasts the province holds
+
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : the empire the province belongs to

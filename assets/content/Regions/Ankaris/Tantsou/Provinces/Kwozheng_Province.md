@@ -71,6 +71,9 @@ The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Fro
 [[place-kwozheng|Kwozheng]]
 : the seat
 
+[[place-kwozhngmrch|The Kwozheng Marches]]
+: the north and the marches the province holds
+
 [[affiliation-mwonouprv|Mwonou Province]]
 : the rival province
 

@@ -8,7 +8,7 @@ tags: [city, seat, terraces]
 data:
   demonym: null
   lore: [humanflk]
-  parents: [tantsouregin]
+  parents: [mwonouplnd]
   population: 160000
   type: metropolis
   market: international
@@ -26,6 +26,9 @@ In an ordinary year the terraces and paddies of the basin feed the city. In a ba
 
 [[affiliation-mwonouprv|Mwonou Province]]
 : the province it is the seat of
+
+[[place-mwonouplnd|The Mwonou Uplands]]
+: the land of the province
 
 [[place-tantsouregin|Tantsou Region]]
 : the region
