@@ -7,7 +7,7 @@ description: A line of pale lamps lights the old Crown Road at dusk to a relay h
 tags: []
 data:
   parents: []
-  locations: [wenlornestage, dunmere, thornwold]
+  locations: [wenlornestage, dunmere, thornwold, fernbank]
   cast: [wenlornereeve, damut]
   factions: [kngdmldrth, vrgldhld]
   follows: []
@@ -30,7 +30,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 ## Cast and Stakes
 
-[[being-wenlornereeve|Reeve of Wenlorne]] keeps the house. Use [[being-damut|Damut]] for its porters, including the Vardain girl whose surviving memory gives the first reeve’s burial clue. The Grukar are not cast. The nest at Fernbank hunts the woods off the road at night and does not go near the lamps; it is the danger of the forest side, and the numbers of its [[being-grukaruk|Grukar-Uk]] and [[being-grkrhshk|Grukar-Hushk]] are on those bestiary notes. Aldorath wants its missing patrol found; Vorgald’s interest is the crown’s old register, not a claim to rule the stage.
+[[being-wenlornereeve|Reeve of Wenlorne]] keeps the house. Use [[being-damut|Damut]] for its porters, including the Vardain girl whose surviving memory gives the first reeve’s burial clue. The Grukar are not cast. The nest at [[place-fernbank|Fernbank]] hunts the woods off the road at night and does not go near the lamps; it is the danger of the forest side, and the numbers of its [[being-grukaruk|Grukar-Uk]] and [[being-grkrhshk|Grukar-Hushk]] are on those bestiary notes. Aldorath wants its missing patrol found; Vorgald’s interest is the crown’s old register, not a claim to rule the stage.
 
 ## The Opening {#opening}
 
@@ -52,7 +52,7 @@ At dusk the first pale lamp wakes behind the travelers, then the next ahead of t
 
 **Consequences.** The porters remember every name. A party that gives true names is addressed by them for the rest of the night, and a false name is written on the board all the same.
 
-**If bypassed.** A party that skirts the stage on the forest side meets the [[lore-grukarfolk|Grukar Folk]] who hunt the road at night. The lamps remain in sight behind them wherever they go, and the road to the south is the only way out of the trees.
+**If bypassed.** A party that skirts the stage on the forest side meets the [[lore-grukaraelwyth|Grukar]] of [[place-fernbank|Fernbank]], who hunt the woods off the road at night. The lamps remain in sight behind them wherever they go, and the road to the south is the only way out of the trees.
 
 ### Scene Two: Supper in the Common Room
 

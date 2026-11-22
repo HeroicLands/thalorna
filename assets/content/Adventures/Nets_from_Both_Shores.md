@@ -23,7 +23,7 @@ data:
 
 The autumn boat and its two cutters fall to Reedgill. Both cutters are dead; their remains and belongings lie in an outer den beside the boat. The nest cuts about half the nets on both shores. The rest of the damage and the winter impoundments are human. Stillwader understands enough shore speech to steer suspicion, but the nest is not a diplomatic party and offers no lasting peace. Its need is fish, boats and access to the reed-beds.
 
-The Grukar are not cast. The nest is the danger on the beds, never a side to bargain with. Its raiders are [[being-grukaruk|Grukar-Uk]] and the warriors holding the bank are [[being-grkrhshk|Grukar-Hushk]], and their numbers are on those bestiary notes. Stillwader is a [[being-grkrsh|Grukar-Sha]] that the party sees only at a distance and never speaks with. The spawner stays deep in the nest; this adventure does not require reaching or fighting it. [[being-alfmundkrtn|Alfmund Kaerton]] is the Stoniford breeder and senator to whom the village’s petition can go, while his northern levy competes for his attention.
+The Grukar are not cast. The nest is the danger on the beds, never a side to bargain with. Its raiders are [[being-grukaruk|Grukar-Uk]] and the warriors holding the bank are [[being-grkrhshk|Grukar-Hushk]], and their numbers are on those bestiary notes. Stillwader is a [[being-grkrsh|Grukar-Sha]] that keeps its distance, retreats from any boat that comes near and never speaks with the party. The spawner stays deep in the nest; this adventure does not require reaching or fighting it. [[being-alfmundkrtn|Alfmund Kaerton]] is the Stoniford breeder and senator to whom the village’s petition can go, while his northern levy competes for his attention.
 
 ## Hooks {#hooks}
 
@@ -70,7 +70,7 @@ The stream runs between rooted banks. Cut nets from both shores line the outer d
 > [!TIP]
 > Give proof a physical form: identifiable equipment together in the same den, witnessed by people from both shores if the party secured them. A severed Grukar head proves a kill, not which boat it took.
 
-**If driven back.** Marked equipment carried by the raiders, the stream route and the recovered boat each provide independent evidence. The party can bring a partial case home and return with help. Capturing Stillwader is not a required answer.
+**If driven back.** Marked equipment carried by the raiders, the stream route and the recovered boat each provide independent evidence. The party can bring a partial case home and return with help. Killing Stillwader is not a required answer.
 
 ### What the proof does not settle
 
