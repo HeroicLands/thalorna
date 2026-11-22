@@ -413,7 +413,7 @@ The shurem knows the estate, the habits of the cattle-ground and the ways in and
 
 ### Weaknesses
 
-The shurem has no temple, clan or court to appeal to, and no one outside the yard to speak for it.
+The shurem has no temple, clan or court to appeal to, and no one outside the yard to speak for the shurem.
 
 ## Social
 

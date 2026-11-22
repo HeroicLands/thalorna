@@ -390,7 +390,7 @@ A Bondservant of a Funerary Estate wears a plain linen tunic and leather sandals
 
 # Dossier {#dossier}
 
-A funerary estate is the house a great family endows so that its dead are prepared, laid in their own ground and fed for as long as the endowment lasts. Its household of embalmers, bondsmen and offering-priests lives on the estate to do the work. The bondservants work the fields at the canal's edge, carry water, linen and salt for the embalmers, lay out the offering tables and sweep the galleries. Among the [[lore-khelathiclt|Khelathi]] a bondsman carries no house name and goes by a given name and the estate's.
+A funerary estate is the house a great family endows so that its dead are prepared, laid in their own ground and fed for as long as the endowment lasts. Its household of embalmers, bondsmen and offering-priests lives on the estate to do the work. The bondservants work the fields at the canal's edge, carry water, linen and salt for the embalmers, lay out the offering tables and sweep the galleries. Among the [[lore-khelathiclt|Khelathi]] a bondsman carries no house name and goes by a given name and a village, or a given name and a trade.
 
 ## Background
 

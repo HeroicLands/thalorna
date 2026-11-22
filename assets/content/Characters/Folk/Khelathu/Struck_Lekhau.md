@@ -390,7 +390,7 @@ sohl:
 
 # Appearance {#appearance}
 
-A Struck Lekhau wears what is left of a House's robe, carries a reed pen and a mallet and cutters for stone, and speaks the House's formal diction to people with no use for it.
+A Struck Lekhau wears what is left of a House's robe, carries a reed pen, and speaks the House's formal diction to people with no use for it.
 
 # Dossier {#dossier}
 
