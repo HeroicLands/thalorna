@@ -530,7 +530,7 @@ Reasoning
 
 1. **The road through the middle.** The gap in the middle of the wall has narrowed to a cart's width, and the valley's farmers and the traders who use the road want it kept open. They pay a party to find a way to stop the wall before it closes.
 2. **Whose wall.** A chieftain from beyond the valley's head has begun to send men to watch the wall, and pays a party to find out who wanted the valley shut and why.
-3. **A stone touched.** A boy laid his hand on one of its stones on a dare and ran, and the varmathurs has stopped its work and is standing over his family's farm. The family needs the giant moved on before nightfall.
+3. **A stone touched.** A boy laid his hand on one of its stones on a dare and ran, and the varmathurs has stopped its work and stands at the stone, on the track between his family's farm and the road. The family needs the giant moved on before nightfall.
 4. **The quarry face.** Signs older than any farm in the valley are cut into the quarry face above where the giant breaks its stone, and a scholar wants a party to copy them without touching anything it has cut.
 
 :::secret {title="What beats the varmathurs"}
