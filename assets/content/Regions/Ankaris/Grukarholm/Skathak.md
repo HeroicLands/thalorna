@@ -44,12 +44,12 @@ The [[being-ncrtcmr|Necrotic Mire]] moves through Skathengrund, and the nests ke
 
 The fur hunters of the margin take beaver and marten from the same water the nest hunts. Each pelt that goes out on a hunter's back is meat the nest does not have.
 
-Deeper in the marsh to the east lie other nests. Their hunting ground meets this one's, and their hunters fight wherever the two ranges cross.
+Deeper in the marsh to the east lie other nests.
 
 The villages of Skathwald pull the logs out of the walk when they can and stand their watches when they cannot.
 
 :::secret {title="What hems the nest in"}
-The nest's league is shrinking. The Mire's track closes the walk for a season at a time, the hunters on the margin strip the near water, and the nests to the east hold the open marsh beyond the island. What is left is the island, the far end of the walk and the ground the nest's hunters can reach over the ice. When the walk closes, the hunters go out onto the fur hunters' traplines, where a person is food like any other.
+The nest's league is shrinking. The Mire's track closes the walk for a season at a time, the hunters on the margin strip the near water, and the nests to the east hold the open marsh beyond the island; their hunting ground meets this one's, and their hunters fight wherever the two ranges cross. What is left is the island, the far end of the walk and the ground the nest's hunters can reach over the ice. When the walk closes, the hunters go out onto the fur hunters' traplines, where a person is food like any other.
 :::
 
 ## What a Party Finds {#what-a-party-finds}
@@ -70,7 +70,7 @@ Two endings stand open, and the GM chooses. The Skathwald villages raise a muste
 
 - **Before the thaw.** [[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]] has a season's furs on the margin, and the walk closes within days of the ice going gray ([[scenario-lstcgrmhrth|The Last Ice at Grimhreth]]).
 - **The step on the logs.** [[being-wlfrnrfrdrnd|Wulfrún ira Frodrúnd wur Hildholt]] hears a raiding party on the walk, and one horn from Hildholt brings the neighboring villages to its gate.
-- **The muster.** The Skathwald villages want the nest burned, and a party that knows the walk knows the one way in that does not wait for the ice.
+- **The sound logs.** The Skathwald villages want the nest burned, and [[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]] knows which logs of the walk bear a footing, the one way in that does not wait for the ice.
 
 ## See Also {#see-also}
 

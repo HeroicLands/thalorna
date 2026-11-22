@@ -582,6 +582,7 @@ data:
     - {name: Lervash, tongue: velanthian}
     - {name: Lervogor, tongue: velanthian}
     - {name: Lervik, tongue: velanthian}
+    - {name: Lervobor, tongue: velanthian}
     - {name: Sulvogor, tongue: velanthian}
     - {name: Sulvik, tongue: velanthian}
     - {name: Sulvan, tongue: velanthian}
