@@ -420,3 +420,5 @@ She answers to the Post Officer and to the veterans who drilled her.
 ## Plot Hooks
 
 1. [[scenario-trbtftrdrv|The Tribute After the Drive]]: the levy women man the posts, short-handed and short-tempered, and want to go home for the harvest.
+2. [[scenario-grnpstthln|The Green Past the Line]]: the levy women still at home in a village whose line has failed watch their barley brown and look upslope at a field that stays green.
+3. **Word from the post.** Kept at a frontier post through the weeks before harvest, she wants a party riding north to carry word to her household that she cannot come home to the fields.

@@ -34,3 +34,6 @@ Well-sinkers and tunnel-diggers live here with their families, and the work pass
 
 [[place-bethura|Bethura]]
 : The capital
+
+[[scenario-grnpstthln|The Green Past the Line]]
+: a scenario: a tunnel-well of the dry southern interior has failed, and the Izet-Mu wants to know whether the collapse was an accident before she sends a gang down
