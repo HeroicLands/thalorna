@@ -132,8 +132,10 @@ function assertPreservedVocabulary(candidate) {
             }
     }
     collect(beforeData);
-    for (let f of [...forms].flatMap((f) => [f, f.replace(/^-+|-+$/gu, ""), f.toLowerCase()]))
-        assert.equal(after(f), before(f), f);
+    for (let f of [...forms].flatMap((f) => [f, f.replace(/^-+|-+$/gu, ""), f.toLowerCase()])) {
+        const baselineGloss = before(f);
+        if (baselineGloss !== null) assert.equal(after(f), baselineGloss, f);
+    }
     const prior = dictionaryAndTermRows([{ ...record(candidate), data: beforeData }]).dictionary,
         current = dictionaryAndTermRows([record(candidate), record(inventory)]).dictionary;
     assert.equal(prior.length, 21);
@@ -151,6 +153,29 @@ test("the preservation guard rejects an altered established meaning", () => {
     const candidate = structuredClone(note);
     candidate.fm.data.words[0].gloss = "a different meaning";
     assert.throws(() => assertPreservedVocabulary(candidate), assert.AssertionError);
+});
+test("the preservation guard permits a registered compound using later ordinary roots", () => {
+    const candidate = structuredClone(note);
+    candidate.fm.data.register = candidate.fm.data.register.filter(
+        (row) => row.name !== "Hvolvern",
+    );
+    candidate.fm.data.register.push({ name: "Hvolvern", tongue: "hvarn", built: ["hvol", "vern"] });
+    assertCoreCoverage(candidate);
+    assertPreservedVocabulary(candidate);
+});
+test("the preservation guard rejects a conflicting resolved element meaning", () => {
+    const candidate = structuredClone(note);
+    candidate.fm.data.elements = [{ form: "fixture-piece", sense: "established meaning" }];
+    candidate.fm.data.words.push({
+        form: "fixture-piece",
+        class: "n",
+        field: "Everyday speech",
+        gloss: "conflicting meaning",
+    });
+    assert.throws(() => assertPreservedVocabulary(candidate), {
+        name: "AssertionError",
+        message: /fixture-piece/u,
+    });
 });
 test("the vocabulary guard permits names, register entries and unrelated prose", () => {
     const candidate = structuredClone(note);
