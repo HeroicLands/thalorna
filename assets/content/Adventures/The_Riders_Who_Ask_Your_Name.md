@@ -81,7 +81,7 @@ At [[place-vzhmvd|Vazhmavad]] the poets of a third tribe once judged between riv
 - _Bargain._ He offers anything he has: a recited line, a lost debt, a genealogy for a sheikh. The price is a name.
 - _Challenge him to a recitation._ By the old custom, a dispute is judged by poets. The poets of the oasis cannot judge, which is his defense.
 
-**Clues and rewards.** If the party eats the salt, Melkhur tells them the story of Bazuran: a tribe in the south, swallowed by its neighbors when [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]] refused to act against them. Its poets came to Vazhmavad seeking a judgment, the weighing-place weighed in their favor, and nobody enforced it. When the tribe was gone, so were the recitations that proved it had ever been wronged. He keeps them. He is the last place the tribe exists.
+**Clues and rewards.** If the party eats the salt, Melkhur tells them the story of Bazuran: a tribe in the south, swallowed by its neighbors when [[affiliation-wrrscrcldnhrtrbs|the Warrior's Circle]] refused to act against them. Its poets came to Vazhmavad seeking a judgment, the weighing-place weighed in their favor, and nobody enforced it. When the tribe was gone, so were the recitations that proved it had ever been wronged. He keeps them. He is the last place the tribe exists. This is the poets' account of Bazuran; the Circle tells the same event differently, in [[lore-circlrefusl|The Two Refusals of the Circle]].
 
 **Consequences.** The party now knows why Melkhur does what he does. They also know that the Circle, and every member of the [[lore-dunhariclt|Dunhari]] who keeps the [Old Promise]{.name data-type="lore/custom"}, is complicit.
 

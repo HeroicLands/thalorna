@@ -74,7 +74,7 @@ The tribe was punished all the same. No well received it and no tribe would sell
 
 About 665 tribes of the central circuits brought a second case. A tribe whose men had quarreled with theirs over grazing had fouled a well they all shared, against the [Laws of the Well]{.name data-type="lore/law"} that even blood enemies keep. The petitioners asked the Circle to ride against it.
 
-The Circle had its own precedent to go by. Sovidur raiders and contested wells held the north, an outside enemy walked the land, and the Circle refused again in the words of its first ruling. The petitioners took the matter into their own feuds. Within a generation the fouling tribe's wells and herds had been divided among its neighbors, its households had married into theirs, and its name was recited only as a lineage inside other tribes' genealogies.
+The Circle had its own precedent to go by. Sovidur raiders and contested wells held the north, an outside enemy walked the land, and the Circle refused again in the words of its first ruling. The petitioners took the matter into their own feuds. Within a generation the fouling tribe's wells and herds had been divided among its neighbors, its households had married into theirs, and its name was recited only as a lineage inside other tribes' genealogies. This is the Circle's account of the second refusal; the poets tell it differently.
 
 ## What It Left {#what-it-left}
 
