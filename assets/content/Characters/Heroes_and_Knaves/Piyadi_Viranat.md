@@ -24,6 +24,7 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [weathered]
+    hair_style: short
     extra_features: [Her left wrist wrapped in gray rag over the struck line]
   packFolder: ankarisvedyara
   items:

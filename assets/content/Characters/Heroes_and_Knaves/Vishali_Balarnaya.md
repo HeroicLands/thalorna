@@ -26,6 +26,7 @@ data:
     complexion: [scarred]
     face_shape: round
     nose: aquiline
+    mouth: full
     extra_features: [a scar on the right elbow]
   packFolder: ankarisvedyara
   items:

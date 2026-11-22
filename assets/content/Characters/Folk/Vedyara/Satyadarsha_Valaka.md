@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: brown
     complexion: [smooth]
+    hair_style: long
     extra_features: [A horseman's broad shoulders, A bow-callus on the left hand]
   packFolder: ankarisvedyara
   items:

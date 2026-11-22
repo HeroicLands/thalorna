@@ -25,6 +25,8 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [clear]
+    nose: aquiline
+    mouth: full
     extra_features: []
   packFolder: ankarisvedyara
   items:

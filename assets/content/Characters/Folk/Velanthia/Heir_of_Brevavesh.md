@@ -27,6 +27,7 @@ data:
     hair_color: null
     skin_color: null
     complexion: []
+    face_shape: square
     extra_features: []
   packFolder: ankarisvelanthia
 sohl:

@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: medium
     complexion: [weathered]
+    hair_style: long
   packFolder: ankarisvedyara
   items:
     - {key: shkhlynswd, model: weapongear-shkhlynswd, kind: weapon}

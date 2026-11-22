@@ -24,6 +24,7 @@ data:
     hair_color: white
     skin_color: golden
     complexion: [weathered]
+    hair_style: long
     extra_features: [Hands broad and scarred from sixty years of adze and chisel]
   packFolder: ankarisvedyara
   items:
