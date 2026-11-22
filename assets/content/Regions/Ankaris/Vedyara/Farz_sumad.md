@@ -2,7 +2,7 @@
 shortcode: farzsumad
 name: {full: Farz-sumád, khaz: [farz-sumád], en: [The Raising of the Forge]}
 type: place
-subType: settlement
+subType: site
 description: "The second Khazari hold cut outside Khazartúrn, a day beyond Zaghar-gunáv on the ridge north of the city's valley, where the first forge outside the city was lit; sealed and in good order."
 tags: [gm, mountain]
 data:
@@ -12,7 +12,6 @@ data:
   parents: [sthrnwall]
   population: {actual: 0}
   packFolder: vedyara
-  notes: "The second Khazari hold cut outside Khazartúrn, sealed, where the first forge outside the city was lit."
 ---
 
 > **GM-only note.** Farz-sumád lies on the ridge two days from [[place-khazarturn|Khazartúrn]], whose place every Khazari hold keeps from outsiders. No public note places it, and nothing in this note belongs in one.
@@ -29,6 +28,14 @@ The second cave opens on the ridge a day beyond the first, and the hold's face i
 
 Every Khazari hold keeps the account of the second sending in its archive, and the holds know where the ridge lies as they know where the city lies. The house of [Khard-furáz]{.name data-type="affiliation/lineage"}, "the forging of the hold", keeps its own grant from the elders of the two ridge holds, the first house name compounded since the crossing. No human record names Farz-sumád.
 
+## History {#history}
+
+In the year of the city 442, with the first iron coming down from Zaghar-gunáv, [Taspan of Hamk-dunák]{.name data-type="being/npc"} asked the council of the city that the hearths go to the ore, and that three lines of [Hamk-dunák]{.name data-type="affiliation/lineage"}, two of [Balg-tumák]{.name data-type="affiliation/lineage"}, two of [Vald-sukár]{.name data-type="affiliation/lineage"} and a line of [Sakar-puláz]{.name data-type="affiliation/lineage"} go to cut a hold of their own a day beyond Zaghar-gunáv, where the finder's house had read a second cave. The council found the share of the gate by head from that year and made the party a sending under the city's count.
+
+The second sending went out by the gate in 443, 654 in all, with grain, oil, nineteen bellows and the whole of the fourth tower's charcoal, and refused the iron. Nineteen hearths of the fourth tower's thirty-one stood cold in the city from that night, and the city's iron came down from the ridge by exchange from that year. The sending came to Zaghar-gunáv on the third day, went on to the second cave on the fifth and cut there, and struck the first fire on the eighth day from the city's charcoal. The count at the ridge that year was 1,450.
+
+In 447 the elders of the two ridge holds sat together at Zaghar-gunáv and compounded for the three lines of Hamk-dunák at Farz-sumád a house name of their own, Khard-furáz. The council of the city entered that the grant was the holds' and not the city's, and entered those lines as Hamk-dunák's beside it. Both stand in the record.
+
 ## The Present {#present}
 
 Farz-sumád stands as it was sealed. The forges are cold and laid, the face is whole, and no track crosses the ridge. The pilgrim's entry in the register of a glacier-spring temple of the Wall, which the temple's ushtaka has copied for [[place-pssshrines|the Pass-Shrines]], tells of the still lake below the city and says nothing of the ridge, which lies two days north of the lake.
@@ -39,14 +46,6 @@ Farz-sumád keeps the same reading as [[place-zghrgunav|Zaghar-gunáv]]: sealed 
 
 > [!TIP]
 > A party that reaches the ridge is within two days of the city. The holds treat anyone who finds Farz-sumád, or gathers the means to open it, as they treat anyone who finds Khazartúrn.
-
-## History {#history}
-
-In the year of the city 442, with the first iron coming down from Zaghar-gunáv, [Taspan of Hamk-dunák]{.name data-type="being/npc"} asked the council of the city that the hearths go to the ore, and that three lines of [Hamk-dunák]{.name data-type="affiliation/lineage"}, two of [Balg-tumák]{.name data-type="affiliation/lineage"}, two of [Vald-sukár]{.name data-type="affiliation/lineage"} and a line of [Sakar-puláz]{.name data-type="affiliation/lineage"} go to cut a hold of their own a day beyond Zaghar-gunáv, where the finder's house had read a second cave. The council found the share of the gate by head from that year and made the party a sending under the city's count.
-
-The second sending went out by the gate in 443, 654 in all, with grain, oil, nineteen bellows and the whole of the fourth tower's charcoal, and refused the iron. Nineteen hearths of the fourth tower's thirty-one stood cold in the city from that night, and the city's iron came down from the ridge by exchange from that year. The sending came to Zaghar-gunáv on the third day, went on to the second cave on the fifth and cut there, and struck the first fire on the eighth day from the city's charcoal. The count at the ridge that year was 1,450.
-
-In 447 the elders of the two ridge holds sat together at Zaghar-gunáv and compounded for the three lines of Hamk-dunák at Farz-sumád a house name of their own, Khard-furáz. The council of the city entered that the grant was the holds' and not the city's, and entered those lines as Hamk-dunák's beside it. Both stand in the record.
 
 ## Hooks {#hooks}
 
