@@ -6,4 +6,4 @@ thalorna: patch
 
 - The Black Wilds, the steppe north of Tantsou, have their own region page, with the horse-riding tribes, the land, its dangers and the raiders now in the northern marches.
 - Tantsou's north border with the Black Wilds appears on the region and the northern marches, and the empire, threat and continent pages link to it.
-- The world population page lists Tantsou under its region and says how many of its town and city people the named places hold.
+- The world population page lists Tantsou under its region and says how many of its town and city people the named places hold, and gives Eilwìth's population as about 670,000, matching its own page.

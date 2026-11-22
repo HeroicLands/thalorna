@@ -40,7 +40,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Peoples
 
-Ankaris is overwhelmingly a human continent. The great mass of its population—hundreds of millions across the ten regions—is human, varied into dozens of distinct cultural and linguistic groups that do not recognize themselves as a single people.
+Ankaris is overwhelmingly a human continent. The great mass of its population—hundreds of millions across its regions—is human, varied into dozens of distinct cultural and linguistic groups that do not recognize themselves as a single people.
 
 Two non-human peoples hold substantial territory. The [[lore-grukarfolk|Grukar]] tribes hold nests in the far north beyond the Tantsou marches and, apart from them, the Grukarholm country between Vristwald and Velanthia, with scattered nests in the Vristwald forests and the highlands of neighboring regions. The goblin clans maintain their own territories in the deep Vristwald and in the marginal lands between the settled kingdoms, though they are rarely organized at a scale that registers on Ankarian political maps.
 

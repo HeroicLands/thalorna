@@ -118,7 +118,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 **Most of Tantsou's towns are unlisted.** The [[affiliation-tantsouempr|Empire of Tantsou]] puts about one person in twenty in a town or a city, some 6,000,000 people. Its named places hold about 2,500,000 of them: [[place-zhowen|Zhowen]] about 2,000,000, the four provincial seats about 500,000 together, and the named towns of [[place-mwonouplnd|the Mwonou Uplands]] about 20,000. The other 3,500,000 or so live in river cities and market towns that no note lists, each entered in its district's register.
 
-**Approximate by design.** Every figure here is round and approximate—good to roughly the nearest few million at the regional scale, not the nearest soul—and any may be revised as the setting develops.
+**Approximate by design.** Every figure here is round and approximate—good to roughly the nearest few million at the regional scale, not the nearest soul.
 
 ### See Also
 

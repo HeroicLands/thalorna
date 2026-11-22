@@ -17,11 +17,11 @@ data:
 
 ## Overview {#overview}
 
-The Black Wilds, _Hwenhatou_ in Tantsou, are the steppe and broken hill-country north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the fortified marches of [[place-kwozhngmrch|the Kwozheng Marches]]. The Tantsou name joins _hwen_, disorder, _ha_, dark, and _tou_, earth: the dark and disordered land. The wilds are remembered for their horsemen. This generation one man commands them, and his riders are in the empire's northern districts.
+The Black Wilds, _Hwenhatou_ in Tantsou, are the steppe and broken hill-country north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the fortified marches of [[place-kwozhngmrch|the Kwozheng Marches]]. The Tantsou name joins _hwen_, disorder, _ha_, dark, and _tou_, earth: the dark and disordered land. This generation one man commands their tribes, and his riders are in the empire's northern districts.
 
 ## The Land {#the-land}
 
-North of the last watchtowers the hard-wintered basins of the [[place-tantsouregin|Tantsou Region]] give way to grass and broken hills. It is grazing country without terraces or registered fields, and the tribes live by its wells and its grass. The winters are hard. Nests of the far-northern [[lore-grukarfolk|Grukar]] lie in the wilds as well, and their raids reach the marches from the same direction as the riders.
+North of the last watchtowers the hard-wintered basins of the [[place-tantsouregin|Tantsou Region]] give way to grass and broken hills. The winters are hard. Nests of the far-northern [[lore-grukarfolk|Grukar]] lie in the wilds as well.
 
 ## Peoples {#peoples}
 
@@ -29,7 +29,7 @@ The people of the wilds are the [[lore-henhatoutsouclt|Hwenhatoutsou]], the Trib
 
 ## Who Holds It {#who-holds-it}
 
-No polity rules the wilds and no register covers them. The tribes swear to [[being-wogenhenzhuo|Wogen Henzhwo]], the Master Tiger of the Steppes, as their single war-leader. He began as the war-leader of a minor tribe and bound the others to him by marriage, by treaty and by slaughter. The confederation is held together by Wogen himself and by plunder.
+No register of the empire covers the wilds. The tribes swear to [[being-wogenhenzhuo|Wogen Henzhwo]], the Master Tiger of the Steppes, as their single war-leader, in the [Hwenhatou confederation]{.name data-type="affiliation/polity"}. He began as the war-leader of a minor tribe and bound the others to him by marriage, by treaty and by slaughter. The confederation is held together by Wogen himself and by plunder.
 
 ## Current Situation {#present}
 
@@ -41,7 +41,7 @@ Wogen wants land and grain for the tribes first, and after that a throne: he mea
 
 ## Roads and Trade {#roads-and-trade}
 
-The tribes and the marches trade at the frontier markets, and Wogen himself talks in the clipped trade-speech of those markets.
+Wogen talks in the clipped trade-speech of the frontier markets; the notes name no road or market inside the wilds.
 
 ## Dangers {#dangers}
 
