@@ -236,6 +236,8 @@ data:
       holds: "The granary and its keeper, and the monks and the head of the monastery that holds it."
     - name: "River and trade"
       holds: "The boatman, the merchant and the merchant house, the crossing and the landing."
+    - name: "Greeting"
+      holds: "The word of greeting: the welcome a holder of a place gives to one who arrives, and the answer."
     - name: "The eastern loans"
       holds: "The words the eastern reach took from Sovidur: the raid, the ransom, the safe-conduct, the guest, the banner and the horse."
   words:
@@ -293,6 +295,13 @@ data:
       class: n
       field: "River and trade"
       gloss: "a landing, the shore settlement where boats take on cargo"
+    - form: dobrogesh
+      class: call
+      field: "Greeting"
+      gloss: "hello; welcome; good guest, said by the holder of a place to one who arrives and returned by the arriver"
+      built: [dobr, gesh]
+      concept: hello
+      pronunciation: do-BRO-gesh
     - form: yadak
       class: n
       field: "The eastern loans"
@@ -848,6 +857,17 @@ The river is worked by the _lodar_, the boatman, and its cargoes are sold by the
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss"
 FROM words
 WHERE language = 'thalorna-note-skill-velanthlng' AND field = 'River and trade'
+ORDER BY position
+```
+
+### Greeting
+
+The word of greeting is _dobrogesh_, "good guest". The one who holds the place says it first, whether a warden on a quay, a keeper at a barn door or a householder at his gate, and the one who arrives says it back; a guest who answers has taken the welcome. It is _dobr_, good, and _gesh_, a guest, joined with an _o_ like the roots of a given name. The [[lore-velanthclt#greetings|culture note]] gives the gestures that go with it.
+
+```sql
+SELECT form AS "Form", class AS "Class", gloss AS "Gloss"
+FROM words
+WHERE language = 'thalorna-note-skill-velanthlng' AND field = 'Greeting'
 ORDER BY position
 ```
 

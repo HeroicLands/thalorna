@@ -57,3 +57,6 @@ Every party that uses the passes waits for the others to move first. The rain ca
 
 [[affiliation-hstsvrt|Sevret Host]]
 : the riders who patrol its Velanthian approaches
+
+[[scenario-lsttrnkrvgr|The Last Train over Karvogora]]
+: a scenario: the last wagon trains of a short harvest, over a pass where the Host's riders are owed their pay

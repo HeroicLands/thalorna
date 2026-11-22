@@ -57,3 +57,6 @@ Outside the gathering the field is empty grass, the shrine with its fire and its
 
 [[place-velanthrgn|Velanthia Region]]
 : the land
+
+[[scenario-hrvstpy|The Harvest Pay]]
+: a campaign frame: the season from the late rain to the snow on the passes, when the Hosts' pay is in doubt

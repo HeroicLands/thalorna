@@ -85,3 +85,6 @@ The port grew where three trades met: the grain barges of the lowlands, the fur 
 
 [[place-velanthrgn|Velanthia Region]]
 : the land
+
+[[scenario-hrvstpy|The Harvest Pay]]
+: a campaign frame: the season from the late rain to the snow on the passes, when the Hosts' pay is in doubt

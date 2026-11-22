@@ -9,6 +9,9 @@ data:
   lang: velt
   glossary:
     - {name: "bratar", definition: "A monk of a grain-belt monastery", common: true}
+    - name: "dobrogesh"
+      definition: "The greeting: good guest, said by the holder of a place to one who arrives and said back"
+      common: true
     - name: "dvorad"
       definition: "A river-prince's retinue: the riders and household sworn to his hall"
       common: true
@@ -104,6 +107,16 @@ The communities along the inland edge of the frontier, in the oasis-and-river co
 A Velanthian carries a given name and a house name. A given name is a thing of the river country with a closing: _Brelovod_, _Dobrogor_, _Zhitena_, _Radora_. A house name says whose line it is or whose seat: _Brelovodich_ is the line of a founder named Brelovod, _Duvavesh_ is the house of the oak seat, _Volkarov_ the house of Volkar. The eastern reach gives some of its names a steppe word, and a name such as _Kodogor_ or _Sovidena_ places its bearer on the frontier as clearly as an accent would.
 
 The courtly and liturgical tongue is [[skill-velanthlng|Velanthian]], unrelated to the tongues of the Nordlands or of Aureldia, and written in a variety of [[skill-helnkscrpt|the Helónika]]. The language note gives its sounds, its words and the lists the names are drawn from.
+
+## Greetings and Manners {#greetings}
+
+The greeting is _dobrogesh_, "good guest". The one who holds the place says it first: a warden on his quay, a keeper at a barn door, a householder at his gate, a prince in his hall. The one who arrives says it back, and in saying it takes the welcome. A stranger who answers nothing has not accepted the greeting. Three gestures go with the word, and each belongs to the people it suits.
+
+**The hand on the chest** is the everyday greeting of villages, quays, markets and merchant houses. The palm lies flat on the breastbone while the word is said. It means that the speaker's word is straight and will be kept as a word given at the ford is kept. A merchant or a boatman offers it to anyone he deals with, and a stranger who gives the word without the hand is taken for a man who has not learned the country. A prince's retinue and the people of a prince's hall use it among themselves.
+
+**The open palm** belongs to the riders of the Hosts and the people who deal with them. The fingertips touch the brow, and the hand then opens outward at shoulder height with the fingers spread and pointing up and the palm forward. It says that the rider sees the other and that his hand is empty of any weapon. On the open grass a rider is a bowshot off before he can be heard, so the newcomer lifts the palm while still at a distance, and the camp's holder answers it with his own and says the word when the newcomer is within hearing. A rider who rides into a muster without the open palm, or with a hand on his sword, is met as a raider.
+
+**The bow** belongs to the monasteries and to formal petition. A _bratar_ or a monastery's _zhitnar_ bows from the waist with the hands folded in the sleeves, and he bows to every arriver to the same depth, a prince, a carter or a stranger, because a house that feeds anyone takes no side. A _starbrat_ is bowed to first by the monks of the house and returns a shallower bow. A petitioner at a prince's hall bows with a hand on the chest, holds the bow until the prince answers, and addresses him by his river before anything else. A prince answers with the word and does not bow.
 
 ## What Is Good, and What Succeeds
 
