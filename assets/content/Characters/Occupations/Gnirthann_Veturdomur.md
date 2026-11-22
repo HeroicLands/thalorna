@@ -3,6 +3,7 @@ shortcode: gnrthnvtrdmr
 name: {full: Gnirthann Veturdomur}
 type: being
 subType: npc
+description: "The senior evening and night watch commander of Thraldfjord harbor, fair with the merchant captains who trade there and the trainer of its younger guards."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -11,7 +12,7 @@ data:
   occupation: Town Guard
   lore: []
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [thraldfjord]
   affiliations: {kngdmnrdhm: {rank: 3}, asguardian: {rank: 1}}
   gender: male
   species: humanflk
@@ -370,15 +371,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Gnirthann stands 6'0" even, with a medium build that has gone slightly soft around the middle after twenty-two years of harbor watch rather than field combat. His auburn hair is beginning to thin on top, and he compensates with a thick beard that he keeps trimmed to regulation length. His hazel eyes are his most striking feature—pale and watchful in an olive-skinned face that has aged well for a man of forty. His skin is smooth and largely unscarred, the mark of a life spent minding docks rather than fighting wars. He wears the [[place-thraldfjord|Thraldfjord]] harbor watch uniform: a heavy wool tunic over quilted padding, leather knee boots, and a broadsword at his hip that sees more use as a visual deterrent than a weapon. A brass harbor-watch badge is pinned to his left breast.
+Gnirthann Veturdomur stands 6'0" even, with a medium build that has gone slightly soft around the middle after twenty-two years of harbor watch rather than field combat. His auburn hair is beginning to thin on top, and he compensates with a thick beard that he keeps trimmed to regulation length. His hazel eyes are his most striking feature—pale and watchful in an olive-skinned face that has aged well for a man of thirty-nine. His skin is smooth and largely unscarred, the mark of a life spent minding docks rather than fighting wars. He wears the [[place-thraldfjord|Thraldfjord]] harbor watch uniform: a heavy wool tunic over quilted padding, leather knee boots, and a broadsword at his hip that sees more use as a visual deterrent than a weapon. A brass harbor-watch badge is pinned to his left breast.
 
 # Dossier {#dossier}
 
-Gnirthann joined the Thraldfjord harbor watch at eighteen, shortly after his family's trade was destroyed by a coastal raid. The experience of loss was acute, but the harbor watch offered steady employment and purpose. He learned the trade quickly, establishing himself as reliable and observant. For twenty-two years, he has kept the port's watch: overseeing cargo, verifying manifests, watching for contraband, coordinating with merchant captains on vessel movements.
+Gnirthann joined the [[place-thraldfjord|Thraldfjord]] harbor watch at seventeen, shortly after his family's trade was destroyed by a coastal raid. The experience of loss was acute, but the harbor watch offered steady employment and purpose. He learned the trade quickly, establishing himself as reliable and observant. For twenty-two years, he has kept the port's watch: overseeing cargo, verifying manifests, watching for contraband, coordinating with merchant captains on vessel movements.
 
 Gnirthann has achieved something rare among harbor guards: real friendships with the merchant captains and crew leaders who work Thraldfjord regularly. His reputation is for fairness and practical-mindedness. He is not corrupt, but he is not naive about how commerce works. He understands that legitimate business and shadow trade operate in parallel, and he manages the border between them with surprising nuance. Captains trust him to uphold actual laws while ignoring the minor infractions that are simply the cost of trade by sea.
 
-Now at forty, he is the senior watch commander for the evening and night shifts. He has trained generations of younger guards and has become something of an institution at Thraldfjord harbor. His way of working is slowly being overtaken as stricter rules arrive from the capital.
+Now at thirty-nine, he is the senior watch commander for the evening and night shifts. He has trained generations of younger guards and has become something of an institution at Thraldfjord harbor. His way of working is slowly being overtaken as stricter rules arrive from the capital.
 
 ## Psyche
 
@@ -410,17 +411,19 @@ Gnirthann sits between two worlds in Thraldfjord society—too much a man of the
 
 ## Plot Hooks
 
-The New Order
-: Thraldfjord harbor receives new orders from the capital demanding stricter enforcement and elimination of the "gray market" practices that Gnirthann has been managing carefully. The new rules will disrupt lawful commerce and will require Gnirthann to actively persecute minor infractions that he has previously overlooked. Harbor Master Hvalgthann retires before the directives take effect. Gnirthann can enforce the new rules or keep to his established approach, knowing that refusing will cost him his position.
+Rules from the Capital
+: New orders from the capital demand strict enforcement and an end to the gray-market practices Gnirthann has managed with care. Harbor Master Hvalgthann retires before they take effect. Gnirthann can enforce rules that will disrupt lawful commerce and send him after infractions he has always overlooked, or keep his own methods and lose his post.
 
-The Captain's Mercy
-: Gnirthann discovers definitive proof that Captain Hvalgmil Svaltharuk is operating a slave trading operation through Thraldfjord harbor. The evidence is solid and prosecutable. But Gnirthann also discovers that one of the merchant captains he respects—**Captain [[being-anthyndathra|Anthinda Thraskaruk]]**—has inadvertently become entangled with Svaltharuk's operation through trading partnerships she did not realize were connected to slavery. Gnirthann can prosecute and destroy both Svaltharuk and Anthinda, or he can suppress evidence about Anthinda while moving against Svaltharuk separately. Thorough justice and mercy toward someone he respects cannot both be had.
+A Threat Carried Out
+: [[being-hvalgmylsval|Hvalgmil Svaltharuk]] makes good on his implied threats, and Gnirthann's daughter [Erina]{.name data-type="being/npc"} is beaten by men Gnirthann has reason to think are Svaltharuk's, as a message. He now has cause to arrest Svaltharuk, but the captain is a skilled fighter with a loyal crew and Gnirthann's reflexes are slowing. He can risk his life for the arrest or accept that his family's safety may mean ignoring Svaltharuk's crimes.
 
-The Family Threat
-: Svaltharuk makes good on his implied threats against Gnirthann's family. His daughter, [Erina]{.name data-type="being/npc"}, is assaulted (not sexually, but brutally) by Svaltharuk's agents as a message. Gnirthann now has both motivation and legal cause to arrest Svaltharuk, but doing so will escalate into actual violence. Svaltharuk is a skilled fighter with a loyal crew. Gnirthann is middle-aged with slowing reflexes. He will likely lose a direct confrontation. He can risk his life for justice or accept that his family's safety might require him to ignore his enemy's crimes.
+A Cargo He Cannot Touch
+: Svaltharuk's vessel lies in Thraldfjord harbor again carrying contraband that Gnirthann has documented many times and never been able to intercept legally. Svaltharuk knows Gnirthann is the main obstacle to his trade. Gnirthann must find a lawful way to seize the cargo, or bend the law to do it.
 
-The Corrupt Officer
-: Gnirthann discovers that a younger harbor watch officer is taking bribes from Svaltharuk and feeding him information about guard movements and cargo inspections. The officer is talented and had seemed committed. Gnirthann realizes the officer is likely blackmailed (Gnirthann finds evidence that Svaltharuk has compromising letters between the officer and another man—homosexuality being illegal). Gnirthann can arrest his officer, which destroys him, or protect him, which makes Gnirthann complicit in corruption.
+:::secret {title="Further hooks"}
+Proof Against Two Captains
+: Gnirthann finds solid, prosecutable proof that Svaltharuk runs a slave-trading operation through Thraldfjord. The same evidence shows that [[being-anthyndathra|Anthinda Thraskaruk]], a captain he respects, is entangled in it through partnerships she did not know were connected to slavery. He can prosecute both or bury the evidence against her while he moves against Svaltharuk alone.
 
-The Port Master's Dying Request
-: Harbor Master Hvalgthann, now in his final illness, calls Gnirthann to his bedside and confesses that he has known about Svaltharuk's operations for years but has allowed them to continue. His reason: Svaltharuk has agreed to carry refugees fleeing political persecution, using his slave-trading as cover for their passage. The refugee network has saved hundreds of lives. Hvalgthann asks Gnirthann to continue protecting the operation after his death, knowing that it makes Gnirthann complicit in slavery while saving refugees. Clean hands and the greater good cannot both be kept.
+The Harbor Master's Confession
+: Dying, Hvalgthann tells Gnirthann that he has known of Svaltharuk's operation for years and let it run, because Svaltharuk carries refugees fleeing persecution under cover of the slave trade. The network has saved hundreds of lives, and Hvalgthann asks Gnirthann to protect it after his death, which makes Gnirthann complicit in slavery while saving the refugees.
+:::

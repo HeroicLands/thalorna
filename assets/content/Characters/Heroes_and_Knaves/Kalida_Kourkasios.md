@@ -3,6 +3,7 @@ shortcode: kalidkrkss
 name: {full: Kalida Kourkásios, given: Kalida, clan: Kourkásios}
 type: being
 subType: character
+description: "A young potter of the Bizarian League with her own atelier in the artisan quarter, known for a glaze of unmatched depth that seems to move across the vessel."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -468,7 +469,7 @@ Kalida stands 5'7" tall with a light build. She has light tanned skin, black hai
 
 Born to the [Kourkásios family]{.name data-type="affiliation/lineage"}, prosperous wine merchants of the [[affiliation-byzarianlg|Bizarian League]], Kalida was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the [Old Kingdom]{.name data-type="affiliation/polity"}, studying under the aging master potter [Timolkar the Glazemaster]{.name data-type="being/npc"} against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
 
-Within five years, her work had become known throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-nine, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
+Within five years, her work had become known throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-eight, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
 
 ## Psyche
 
@@ -547,17 +548,19 @@ Rival Artist [Andronash]{.name data-type="being/npc"}
 
 ## Plot Hooks
 
-The Stolen Formula
-: A rival workshop in a neighboring city has somehow obtained Kalida's precise glazing formula and is now producing near-perfect copies of her work at significantly lower cost, flooding the market and destroying her competitive advantage. She must determine how the theft occurred while fighting to maintain her reputation and differentiate her work from the imitations.
+Copies at Half the Price
+: A rival workshop in a neighboring city has somehow obtained Kalida's exact glazing formula and is selling near-perfect copies of her work far cheaper, flooding the market. She must find out how the formula left her studio while holding her reputation against the imitations.
 
-Commission from the Shadow Court
-: A mysterious patron offers an enormous commission—enough to fund her ambitions for years—to create a series of vessels with very specific, unusual properties. The patron is deliberately vague about the purpose, but the designs Kalida is asked to create suggest uses both mystical and potentially harmful. She must decide whether to accept the work and risk becoming entangled with forces she doesn't understand.
+Barred from the Exhibition
+: The Conservative Artisans' Guild Faction moves to keep Kalida out of the Artisans' Guild of Bizaria's next exhibition, while Lord Arsir [[being-krorighosgha|Krorighos Gharazur]] wants a major piece finished in the same season. She can fight the exclusion inside the guild, or give the season to her patron and leave the hall to the traditionalists.
 
-The Rekindling
-: **Andronash**, her former lover, reappears with a proposal: collaborate on a joint project that would be revolutionary, combining sculpture and pottery into something entirely new. The work would make the name of both of them, but their romantic history is fraught with betrayal and heartbreak. She must decide whether artistic ambition can overcome personal wounds, or whether this is simply a trap designed to expose her vulnerabilities.
+Timolkar's Journal
+: Her retired teacher Timolkar gives Kalida his private collection of classical pottery and a journal that hints at techniques beyond even his own achievements. Kalida must decide whether to build on them and whether to credit the journal for what she builds.
 
-Clay from Beyond
-: A trader arrives with an extraordinary clay discovered in far southern lands, claimed to possess unique properties. Sample pieces fired from it display iridescence and colors impossible with ordinary glazing. However, the clay is both rare and expensive, and the trader's questions about her work and methods feel probing. Kalida must obtain sufficient quantities to pursue a revolutionary line of work while uncovering whether there is something more to the trader's interest than art appreciation.
+:::secret {title="Further hooks"}
+A Patron Who Will Not Say
+: A patron offers a commission large enough to fund her ambitions for years, for a series of vessels with specific unusual properties, and will not say what they are for. The designs suggest uses both mystical and possibly harmful, and she must decide whether to accept and risk entanglement with forces she does not understand.
 
-The Inheritance
-: Kalida's elderly mentor **Timolkar** dies, leaving her his private collection of classical pottery pieces and a personal journal revealing that many of his greatest works and techniques were actually developed in collaboration with a woman he could never publicly acknowledge due to social restrictions. The journal hints at techniques beyond even his magnificent achievements. Kalida must decide whether to use this knowledge to push her art forward while managing the ethical complications of claiming work that was not entirely her own.
+The Woman Timolkar Could Not Name
+: The journal reveals that many of Timolkar's greatest works and techniques were developed with a woman he could never acknowledge in public because of social restrictions.
+:::

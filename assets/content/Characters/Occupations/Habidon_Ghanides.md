@@ -3,6 +3,7 @@ shortcode: habdnghnds
 name: {full: Habidon Ghanides}
 type: being
 subType: npc
+description: "A giant Helionite marine of Athenikos, the oldest in his detachment, who has refused every promotion to officer."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -372,7 +373,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Habidon is a giant of a man—6'6" and 227 pounds of broad-shouldered, thick-limbed muscle built by years of hauling rope and swinging boarding axes. His dark brown hair is cut short and unevenly, as though he does it himself with a knife, and his brown eyes sit in a dark-skinned, bronzed face that has been scoured by salt spray and sun until it resembles old leather. His nose is flat and broad, broken and reset more times than he can count, and his knuckles are a landscape of scar tissue from close-quarters boarding combat. A tattoo of an anchor and chain in faded blue ink covers his left forearm. He moves with the rolling gait of a man more comfortable on a pitching deck than on solid ground, and wears a sleeveless mail shirt over salt-stained linen, with a hand axe and heavy knife on his belt.
+Habidon Ghanides is a giant of a man—6'6" and 227 pounds of broad-shouldered, thick-limbed muscle built by years of hauling rope and swinging boarding axes. His dark brown hair is cut short and unevenly, as though he does it himself with a knife, and his brown eyes sit in a dark-skinned, bronzed face that has been scoured by salt spray and sun until it resembles old leather. His nose is flat and broad, broken and reset more times than he can count, and his knuckles are a landscape of scar tissue from close-quarters boarding combat. A tattoo of an anchor and chain in faded blue ink covers his left forearm. He moves with the rolling gait of a man more comfortable on a pitching deck than on solid ground, and wears a sleeveless mail shirt over salt-stained linen, with a hand axe and heavy knife on his belt.
 
 # Dossier {#dossier}
 
@@ -380,7 +381,7 @@ Habidon was born into [[place-helionis|Helionis]]'s maritime culture where the s
 
 His eight years of marine service have made him entirely at home at sea. He has fought in boarding actions, defended merchant convoys against pirates, been involved in three major sea battles. He moves through the rigging of a ship with the same ease he walks on solid ground. His knuckles are scarred from boarding combat where his size and strength count for most.
 
-At twenty-eight, he is the oldest marine in his current detachment, and he has developed a reputation as steady and reliable under the chaos of naval combat. He has been offered promotion to naval officer multiple times and has refused each time; he has no interest in the paperwork that comes with rank. He simply wants to keep doing the work he is good at for as long as his body permits.
+At twenty-seven, he is the oldest marine in his current detachment, and he has developed a reputation as steady and reliable under the chaos of naval combat. He has been offered promotion to naval officer multiple times and has refused each time; he has no interest in the paperwork that comes with rank. He simply wants to keep doing the work he is good at for as long as his body permits.
 
 ## Psyche
 
@@ -412,17 +413,20 @@ Habidon occupies an unusual social position within Helionis: respected for his s
 
 ## Plot Hooks
 
-The Mutiny's Edge
-: During a major naval operation, Habidon becomes aware that Captain Máravion has given an order that will almost certainly result in the destruction of his ship and crew. The order is defensible on paper, but Habidon recognizes that Máravion issued it to be rid of him and his fellow marines—an execution disguised as a tactical decision. Habidon informs Admiral Dómirtha, who orders the operation halted. Dómirtha has evidence that Máravion intentionally created the dangerous situation. But proving attempted murder through military command is politically complex, and Dómirtha suggests that Habidon might disappear for a season while the investigation proceeds quietly. The choice is between his loyalty to Dómirtha and his refusal to abandon his fellow marines.
+An Order That Sinks the Ship
+: During a major naval operation, [[being-maravionsari|Máravion Sarinos]] gives an order that Habidon judges will almost certainly destroy his ship and crew. The order is defensible on paper, and Habidon must decide whether to disobey in the middle of a battle or take his doubts to [[being-domirthahabi|Dómirtha Habines]] and risk being too late.
 
-The Stolen Naval Design
-: A merchant vessel under Helionite protection is involved in a minor incident that reveals it is carrying stolen military naval designs—shipbuilding plans the navy guards closely. The merchant captain, **Master [Thassos]{.name data-type="being/npc"}**, claims the designs were bought honestly through his trading partners. Investigation suggests they were stolen from military archives by Captain Máravion and sold to merchants for personal profit. Máravion has political protection that makes prosecution difficult. Habidon is asked by Admiral Dómirtha to recover the designs covertly, which means boarding the merchant vessel without authorization and committing theft to counteract theft.
+Boarding the Refugee Fleet
+: Helionite forces are ordered to turn back a fleet of refugees by force if necessary, and Habidon is on the boarding team. People he knew as a boy from the docks, among them dock workers, merchants and families, are aboard, and Dómirtha tells him personally to do his duty. He can carry out the boarding, refuse the order in front of his detachment, or let the people he knew slip past.
 
-The Pirate Brotherhood
-: Habidon is captured during a raiding operation by Helionite enemies—a loose confederation of pirates and rogue marines who were themselves purged from the Helionite service for political reasons. The pirate commander offers Habidon a choice: join the pirate crew permanently, or be executed as a prisoner of war. Habidon's fellow marines are executed either way. The pirate crew respects him and offers him a command of his own (something Admiral Dómirtha never would), better pay, and freedom from military hierarchy. The choice is loyalty to Helionis or survival among people he respects more.
+Raiders Who Wore the Marine Badge
+: Pirates and rogue marines purged from the Helionite service capture Habidon in a raid and offer him a choice: join the crew or be executed as a prisoner of war. His fellow marines die either way, and the crew offers better pay and freedom from the hierarchy.
 
-The Refugee Fleet
-: Helionite forces are ordered to intercept a refugee fleet fleeing a collapsing political regime. Official orders are to turn the refugees away by force if necessary. Habidon is part of the boarding team, and during the operation, he discovers that the refugee fleet includes people he knew from his childhood—dock workers, merchants, families. He also discovers that the "refugees" designation is a cover; the people were actually political prisoners being transported to potential execution. Admiral Dómirtha personally tells Habidon to do his duty. Obedience and conscience cannot both be satisfied.
+:::secret {title="Further hooks"}
+Máravion's Aim
+: The order that would sink Habidon's ship was issued to be rid of him and his fellow marines, an execution dressed as tactics. Dómirtha has evidence that Máravion created the danger on purpose, but proving attempted murder through the military command is politically hard, and she suggests Habidon disappear for a season while the matter is handled quietly.
 
-The Ocean Itself
-: During a routine patrol, Habidon discovers evidence that Helionis's main fishing grounds are being poisoned—the water is becoming toxic, killing marine life at catastrophic rates. Investigation reveals the cause: naval workshops upriver are dumping their waste into the river to save the cost of carting it away. The poison will destroy Helionis's fisheries within five years. When Habidon reports this to Admiral Dómirtha, he is told the matter is above his station and to attend to his duties. He can accept the ruin of his homeland's waters or act against a direct command.
+The Prisoners Called Refugees
+: The fleet Habidon is ordered to turn back is a cover. Its passengers are political prisoners being carried toward execution. Obedience and conscience cannot both be satisfied.
+
+:::

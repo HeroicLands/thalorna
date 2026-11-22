@@ -3,6 +3,7 @@ shortcode: aghrzrpyrgkt
 name: {full: Ághrazur Pirgikot}
 type: being
 subType: npc
+description: "A Bizarian caravan escort of enormous size and long field service, who sells his sword to merchants crossing the Bizarian lands and works free of any army."
 tags: [draft, soldiery]
 data:
   icon: icon-person
@@ -373,15 +374,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Ághrazur is striking in his proportions—6'5" tall with a massive, heavily muscled frame that makes him the largest man in most rooms he enters. His dark brown hair is thick and curling, worn to his collar in the [[lore-byzarianclt|Bizarian]] style, and his brown eyes are unexpectedly gentle in a face built for war. His fair skin is smooth and largely unmarked despite his martial profession, though a sprawling tattoo of a griffon in dark ink covers his right shoulder and upper arm—the mark of his regiment. His features are broad and heavy-boned, with a wide nose and a strong chin softened by a neatly trimmed black beard. He wears his Bizarian heavy infantry kit with obvious pride: a polished mail hauberk over a padded coat, kurbul greaves, and a broadsword that looks almost proportional in his enormous grip.
+Ághrazur Pirgikot is striking in his proportions—6'5" tall with a massive, heavily muscled frame that makes him the largest man in most rooms he enters. His dark brown hair is thick and curling, worn to his collar in the [[lore-byzarianclt|Bizarian]] style, and his brown eyes are unexpectedly gentle in a face built for war. A sprawling serpent tattoo in dark ink covers his right shoulder and upper arm, the mark of the [Black Serpent Company]{.name data-type="affiliation/venture"}. His features are broad and heavy-boned, with a wide nose and a strong chin softened by a neatly trimmed black beard. He wears a polished mail hauberk over a padded coat, kurbul greaves, and a broadsword that looks almost proportional in his enormous grip.
 
 # Dossier {#dossier}
 
-Ághrazur was born in a Bizarian trading family that was more interested in commerce than he was in the family business. At seventeen, instead of accepting a position in his father's company, he took his military training into the field and joined a private military company that defended merchant convoys across the [[place-byzariargn|Bizarian crossroads]]. The [Black Serpent Company]{.name data-type="affiliation/venture"} was not prestigious, but they were effective, and for eight years Ághrazur worked himself into a senior position through competence and a willingness to do the work others considered beneath them.
+Ághrazur was born in a Bizarian trading family that was more interested in commerce than he was in the family business. At sixteen, instead of accepting a position in his father's company, he took his military training into the field and joined a private military company that defended merchant convoys across the [[place-byzariargn|Bizaria Region]] crossroads. The Black Serpent Company was not prestigious, but they were effective, and for eight years Ághrazur worked himself into a senior position through competence and a willingness to do the work others considered beneath them.
 
-At twenty-five, the Black Serpent Company disbanded after a disastrous campaign against bandits who had political protection. Ághrazur was left without a command structure and with a serpent tattoo that marked him as military personnel. He has since worked as an independent caravan escort, hiring himself out to merchants moving goods across the Bizarian territories and toward the western realms. The work is variable: sometimes it is routine protection from casual bandits, sometimes it is complex work involving military-grade combat, sometimes it is simply being an enormous armed presence that discourages most casual violence.
+At twenty-four, the Black Serpent Company disbanded after a disastrous campaign against bandits who had political protection. Ághrazur was left without a command structure and with a serpent tattoo that marked him as military personnel. He has since worked as an independent caravan escort, hiring himself out to merchants moving goods across the Bizarian territories and toward the western realms. The work is variable: sometimes it is routine protection from casual bandits, sometimes it is complex work involving military-grade combat, sometimes it is simply being an enormous armed presence that discourages most casual violence.
 
-Now at thirty years old, Ághrazur has established a reputation as reliable but expensive security. He has saved enough money to consider retirement within a decade, though the prospect of settled civilian life deeply unsettles him. He is highly competent at his work, personally isolated, and quietly haunted by the company dissolution—specifically, by the knowledge that the military leadership was corrupted by political pressure and abandoned soldiers in the field.
+Now at twenty-nine years old, Ághrazur has established a reputation as reliable but expensive security. He has saved enough money to consider retirement within a decade, though the prospect of settled civilian life deeply unsettles him. He is highly competent at his work, personally isolated, and quietly haunted by the company dissolution—specifically, by the knowledge that the military leadership was corrupted by political pressure and abandoned soldiers in the field.
 
 ## Psyche
 
@@ -413,17 +414,20 @@ His combat ability is outstanding, honed through years of actual field experienc
 
 ## Plot Hooks
 
-The Impossible Cargo
-: Master Merchant Kantakouzenios asks Ághrazur to escort a caravan carrying sealed containers that nobody is allowed to inspect. The cargo is valuable enough that Kantakouzenios offers double his usual rates. Ághrazur agrees, but during the journey, bandits attack with tactical knowledge that suggests they knew exactly where the caravan would be and what route it would take. Ághrazur fights them off, but realizes the attack was too coordinated to be coincidence. Investigation reveals that Kantakouzenios has been using his merchant operation to move restricted military supplies to political factions, and the bandits were military forces attempting to intercept the contraband. Ághrazur is now caught between his respect for Kantakouzenios and his ethical opposition to military corruption.
+Sealed Crates at Double Rates
+: Master Merchant Storon Kantakouzenios hires Ághrazur at twice his usual rate to escort a caravan of sealed crates that nobody may open. Bandits then strike with exact knowledge of the route and the day, and Ághrazur must decide whether to keep guarding a cargo he cannot inspect.
 
-The Recruitment
-: A high-ranking military officer approaches Ághrazur privately and offers him a position commanding a military security operation with authority, pay, and resources far beyond what he currently has. The position is legitimate and well-intentioned. But the officer has military connections, and Ághrazur recognizes that accepting the position would entangle him in the same institutional structures that compromised his judgment during the Black Serpent years. He must choose between returning to military command and maintaining his hard-won independence.
+The Lieutenant Who Was Reported Dead
+: An injured man staggers into a caravan camp and proves to be [[being-mazhreliongh|Mazhrelion Ghotidek]], Ághrazur's lieutenant, reported killed five years ago. He says the official report is false and asks Ághrazur to help him carry his evidence against Nikómarzan Varakazur to a public hearing, at the risk of both their lives.
 
-The Survivor's Recognition
-: A caravan escort arrives injured and alone, claiming to be a survivor of an ambush on a competing merchant's convoy. The man is Bizarian military, and Ághrazur recognizes him immediately: **Ser [[being-mazhreliongh|Mazhrelion Ghotidek]]**, a lieutenant who served under him in the Black Serpent Company and survived the dissolution. Mazhrelion was reported killed in action five years ago. Now he has reappeared, claiming that the official report was false—that the soldiers were not killed in combat but deliberately executed by command to cover up the political corruption that led to the disaster. Mazhrelion has evidence but knows his life is in danger. He asks Ághrazur to help him go public with the truth, which means pursuing Nikómarzan Varakazur through military and political channels with Mazhrelion as a witness.
+A Place in the House
+: Storon Kantakouzenios offers Ághrazur permanent employment with his merchant house, with wealth and security no freelance contract gives. Taking it binds him to one master again, and refusing risks the best patron he has had in five years.
 
-The Moral Compromise
-: A small merchant convoy carrying medicinal goods asks Ághrazur to escort them through bandit territory. The merchants are honest, the cargo is legitimate, and the payment is fair. But during the journey, Ághrazur discovers that the convoy is actually a cover operation for transporting refugee families fleeing political persecution. The "medicinal goods" containers are disguised to hide people. Ághrazur is now escort for refugees, which is technically illegal in several territories he will traverse. He can abandon them and keep his neutral standing as a hired sword, or commit to protecting them despite the legal risk to himself.
+:::secret {title="Further hooks"}
+What Kantakouzenios Moves
+: The sealed crates Kantakouzenios has Ághrazur guard hold restricted military supplies bound for a political faction, and the bandits are soldiers sent to seize them. Ághrazur must choose between his respect for his best patron and his hatred of military corruption.
 
-The Old Wound Reopens
-: Ághrazur is contracted to provide security for a diplomatic mission in a territory where Nikómarzan Varakazur now commands local forces. Ághrazur's presence becomes known. Nikómarzan reaches out privately with a message: he knows what Ághrazur thinks of him, and he does not care. But he offers Ághrazur a chance at something he has wanted since the Black Serpent dissolution—a direct military confrontation with Nikómarzan, no witnesses, no consequences. Nikómarzan seems to be offering him the opportunity to kill him with impunity. Ághrazur must consider whether the offer is real or a trap designed to eliminate him, and whether the chance at revenge is worth compromising his integrity.
+The Report Mazhrelion Carries
+: The Black Serpent soldiers listed as killed in action were executed on command to cover the political corruption behind the disaster. Mazhrelion holds evidence of it, and his life is in danger for it.
+
+:::

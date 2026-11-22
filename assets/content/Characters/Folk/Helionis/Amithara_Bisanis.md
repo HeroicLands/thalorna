@@ -3,7 +3,7 @@ shortcode: amitharabish
 name: {full: Amithara Bisanis, en: [Marendos Amithara Bisanis]}
 type: being
 subType: npc
-description: The Thordimalon official who arranged Talira Basiron's removal from active training and has since ensured her continued safety.
+description: A marendos, or master, of the Arcane Order.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -42,4 +42,8 @@ Amithara Bisanis is a 48-year-old woman who stands 5'9" tall with a medium build
 
 # Dossier {#dossier}
 
-Amithara Bisanis is a _marendos_ (master) of the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) and the official who arranged the removal of [[being-talirbshrn|Talira Basiron]] from active training and has since kept her safe by keeping certain eyes averted. The two share a cold clarity: each knows what the other is capable of and understands the cost of visibility.
+Amithara Bisanis is a _marendos_ (master) of [[affiliation-ordoarcanis|The Order]].
+
+:::secret {title="What the referee knows"}
+Amithara arranged the removal of [[being-talirbshrn|Talira Basiron]] from active training and has since kept her safe by keeping certain eyes averted. The two share a cold clarity: each knows what the other is capable of and understands the cost of visibility.
+:::

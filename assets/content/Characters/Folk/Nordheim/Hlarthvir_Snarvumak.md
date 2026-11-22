@@ -42,4 +42,8 @@ Hlarthvir Snarvumak is a 57-year-old man who stands 6'1" tall with a medium buil
 
 # Dossier {#dossier}
 
-Hlarthvir Snarvumak is the uncle of [[being-gnldrsldstrmrt|Gnildurselda Snarvumak]] and effective head of the [Snarvumak]{.name data-type="affiliation/lineage"} household. He provides financial support and family protection to Gnildurselda, though he knows nothing of the true scope of her studies.
+Hlarthvir Snarvumak is the uncle of [[being-gnldrsldstrmrt|Gnildurselda Snarvumak]] and effective head of the [Snarvumak]{.name data-type="affiliation/lineage"} household. He provides financial support and family protection to Gnildurselda.
+
+:::secret {title="What the referee knows"}
+Hlarthvir knows nothing of the true scope of her studies.
+:::

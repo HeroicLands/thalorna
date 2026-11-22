@@ -3,7 +3,8 @@ shortcode: gnldrsldstrmrt
 name: {full: Gnildurselda Snarvumak, en: [Lysandra Aetherwind]}
 type: being
 subType: npc
-tags: [draft, mages]
+description: "A noblewoman of the Snarvumak clan of Nalthmark and independent scholar of ancient Nordheimn inscriptions and Old Eilwìthan, affiliated with the Academy's Helionis chapterhouse."
+tags: [draft]
 data:
   icon: icon-person
   templatePriority: null
@@ -398,63 +399,79 @@ sohl:
 
 # Appearance {#appearance}
 
-Gnildurselda Snarvumak carries herself with the natural authority of the [[lore-nordheimnclt|Nordheimn]] nobility, though her features speak of something deeper—a woman caught between two worlds. Slender and lithe, she stands with the practiced grace of someone trained from childhood to command attention. Her face is angular and striking, with sharp cheekbones, a broad forehead, and a steady gaze framed by thick brows that give her a perpetually appraising expression. Her green eyes are luminous and oddly distant, as though she is calculating probabilities in some unseen realm. Her blonde hair, plaited in a thick braid, is bound with silver wire wound in fine patterns. There is something almost otherworldly about her presence—a shimmer in the air around her that hints at veils not quite seen, at realities that shift when one looks away.
+Gnildurselda Snarvumak carries herself with the natural authority of the [[lore-nordheimnclt|Nordheimn]] nobility, though her features speak of someone who keeps her own counsel. Slender and lithe, she stands with the practiced grace of someone trained from childhood to command attention. Her face is angular and striking, with sharp cheekbones, a broad forehead, and a steady gaze framed by thick brows that give her a perpetually appraising expression. Her green eyes are luminous and steady. Her blonde hair, plaited in a thick braid, is bound with silver wire wound in fine patterns.
 
 # Dossier {#dossier}
 
-Born into the [Snarvumak clan]{.name data-type="affiliation/lineage"}, one of [[place-nalthmark|Nalthmark]]'s most prominent noble houses, Gnildurselda's path should have been simple: marry well, manage estates, produce heirs. Instead, her childhood was shaped by an unusual gift—the ability to perceive and manipulate the boundary between seen and unseen, a talent she would later recognize as akin to what the southern scholars call [[affiliation-zefaris|Zefaris]] magic, the school of illusion. In [[place-nordheim|Nordheim]], such things came under different names: the work of a velva, a seer-woman who walked between worlds through trance and vision. That Gnildurselda manifested these gifts was not inherently scandalous; women had always been the keepers of seid, the mystical knowledge that flowed through the land.
+Born into the [Snarvumak clan]{.name data-type="affiliation/lineage"}, one of [[place-nalthmark|Nalthmark]]'s most prominent noble houses, Gnildurselda's path should have been simple: marry well, manage estates, produce heirs. Instead she made herself a scholar of ancient manuscripts and dead languages, a pursuit respectable for a noblewoman and intellectually rigorous. For years she has published treatises on [Old Eilwìthan]{.name data-type="skill/language"} inscriptions, several of which have real value, and attended the chapterhouses of [[affiliation-panepistmm|The Academy]] across the northern lands.
 
-Her refusal to keep it private was what made her dangerous to her family. At nineteen, she insisted on formal training under old [Hrimrún of the North]{.name data-type="being/npc"}, the seer-priestess, an order that her father—a practical warrior and Hersvald—nearly forbade. Instead, she struck a compromise: she would cultivate a public identity as a scholar of ancient manuscripts and dead languages (respectable for a noblewoman, intellectually rigorous), and she would pursue seid studies under guise of "ancestral research." For sixteen years, she lived this double life: publishing scholarly treatises on [Old Eilwìthan]{.name data-type="skill/language"} inscriptions (which did have real value), attending [[affiliation-panepistmm|Epistémion]] chapterhouses across northern lands, and quietly teaching herself the deep arts—seeing through veils and then reshaping them, making things appear and disappear, bending perception itself to her will.
+Now at thirty-six, Gnildurselda is known among the Academy's chapters as Lysandra Aetherwind, a visiting scholar of ancient lore. Her family knows her as a disappointment, a woman who will never marry because no man of suitable rank would accept a wife so wholly consumed by her scholarly pursuits.
 
-The Nordheimn name for her work was gefjallan—enchantment, illusion, the glamour-craft of the old tradition. But Gnildurselda had done something dangerous: she had systematized it, married it to written theory, extended its reach far beyond what seid tradition typically allowed. And she had begun to specialize in something that even other velvur viewed with wariness: the craft of making others _forget_, of rewriting memory itself, of creating cascading layers of false perception so involved that even a trained seer could become lost in them.
+:::secret {title="What the referee knows"}
+As a child Gnildurselda showed an unusual gift, the ability to perceive and manipulate the boundary between seen and unseen, which she later recognized as akin to what southern scholars call [[affiliation-zefaris|Zefaris]] magic, the school of illusion. In [[place-nordheim|Nordheim]] such things come under different names: the work of a velva, a seer-woman who walks between worlds through trance and vision. That she manifested these gifts was not scandalous, since women have always kept seid, the mystical knowledge that flows through the land. Her refusal to keep it private was what made her dangerous to her family.
 
-Now at thirty-seven, Gnildurselda maintains her scholarly cover with elaborate care, but her reputation in the hidden circles of Nordheim's mage-craft runs far deeper. She is known as Lysandra Aetherwind among the Epistémion's chapters, a visiting scholar of ancient lore. She is known as the Mistress of Veils among the practitioners who traffic in forbidden knowledge. And she is known to her family as a disappointment—a woman who will never marry because no man of suitable rank would accept a wife so wholly consumed by her scholarly pursuits.
+At nineteen she insisted on formal training under old [Hrimrún of the North]{.name data-type="being/npc"}, the seer-priestess, an order her father, a practical warrior and Hersvald, nearly forbade. She struck a compromise: she would cultivate a public identity as a scholar of manuscripts and dead languages, and pursue seid under the guise of "ancestral research." For seventeen years she has lived this double life, teaching herself the deep arts, seeing through veils and reshaping them, making things appear and disappear, bending perception itself.
+
+The Nordheimn name for her work is gefjallan, enchantment or glamour-craft. She has systematized it, married it to written theory and extended its reach far beyond what seid tradition typically allows, and she has specialized in something other velvur view with wariness: making others _forget_, rewriting memory itself, and creating layers of false perception so involved that even a trained seer can become lost in them. Among practitioners who traffic in forbidden knowledge she is the Mistress of Veils.
+:::
 
 ## Psyche
 
-Gnildurselda is driven by an intellectual hunger so deep it verges on compulsion. She seeks knowledge not for power's sake, though power certainly flows from her mastery, but because she believes in the fundamental truth that **[[lore-odvardty|Odvar]]** himself discovered: that understanding reality from every angle, every perspective, every hidden vantage point is the closest mortals come to divinity. She is ambitious, yes—fiercely so—but her ambition is not for rank or wealth; it is for mastery, for the moment when the impossible becomes merely difficult, when mysteries yield to clarity.
+Gnildurselda is driven by an intellectual hunger so deep it verges on compulsion. She seeks knowledge not for power's sake but because she believes in the truth that **[[lore-odvardty|Odvar]]** himself discovered: that understanding reality from every angle, every perspective, every hidden vantage point is the closest mortals come to divinity. She is fiercely ambitious, but not for rank or wealth; it is for mastery, for the moment when the impossible becomes merely difficult, when mysteries yield to clarity.
 
-Her greatest strengths lie in her extraordinary intellect and her unshakeable will. She has an aura that unsettles those around her, a presence that makes people instinctively trust her claims about the world, even when those claims defy ordinary perception. Her argument is almost supernatural in its precision; she can argue anything convincingly and make a listener question their own sanity in the process. She is a master of layered deception, not through moral crookedness but through fundamental understanding of how perception works—which details matter, which ones we ignore, where human attention naturally flows and where it falters.
+Her greatest strengths lie in her extraordinary intellect and her unshakeable will. She has become distant from other people, in a way that troubles even her. She struggles to feel close to anyone and finds herself constantly analyzing people instead of relating to them. She is reckless in her pursuit of knowledge, willing to risk others' safety for understanding, and increasingly conscious of that willingness without being able to stop it. There is a brittleness to her, a sense that if someone were ever to fully penetrate her carefully constructed reality, she might shatter.
 
-But this same quality that makes her brilliant makes her dangerous. She has become distant from other people, in a way that troubles even her. The constant manipulation of perception, the layers of false identity, the constant awareness of how easily people can be made to believe anything—it has hollowed something in her. She struggles to feel close to anyone; she finds herself constantly analyzing people instead of relating to them, calculating their vulnerabilities instead of their merits. She is reckless in her pursuit of knowledge, willing to risk others' safety for understanding, and increasingly conscious of that willingness without being able to stop it. And there is a brittleness to her—a sense that if someone were ever to fully penetrate her carefully constructed reality, if someone were to make her _see herself_, she might shatter.
+:::secret {title="What the referee knows"}
+She has an aura that unsettles those around her, a presence that makes people instinctively trust her claims about the world, even when those claims defy ordinary perception. Her argument is almost supernatural in its precision; she can argue anything convincingly and make a listener question their own sanity. She is a master of layered deception, not through moral crookedness but through a fundamental understanding of how perception works: which details matter, which ones we ignore, where human attention flows and where it falters. The constant manipulation of perception, the layers of false identity and the awareness of how easily people can be made to believe anything have hollowed something in her.
+:::
 
 ## Social
 
-Gnildurselda's official position is as an independent scholar affiliated with the Epistémion (the Academy of Knowledge), particularly with the [[place-helionis|Helionis]] chapterhouse, where she conducts research into ancient Nordheimn inscriptions and the linguistic roots of rune-craft. In this capacity, she is entirely legitimate, known for careful scholarship and fresh interpretations of historical texts. Several of her papers on the etymology of Old Eilwìthan have been considered definitive within academic circles.
+Gnildurselda's official position is as an independent scholar affiliated with the Academy, particularly with the [[place-helionis|Helionis]] chapterhouse, where she conducts research into ancient Nordheimn inscriptions and the linguistic roots of rune-craft. In this capacity she is entirely legitimate, known for careful scholarship and fresh interpretations of historical texts. Several of her papers on the etymology of Old Eilwìthan have been considered definitive within academic circles.
 
-She also maintains networks within Nordheim's hidden magical circles—practitioners of the old seid traditions, rúnstjori who work outside the formal clergy of the [[affiliation-odvar|Faith of Odvar]], collectors of texts that the authorities prefer forgotten. These connections are not _hostile_ to Odvar's faith so much as orthogonal to it; Odvar himself, in their belief, values the pursuit of knowledge at any cost, and his most learned servants often turn a blind eye to heterodox methods.
+Her status as a Snarvumak noble gives her considerable insulation. It also makes her visible in ways she increasingly resents, since her family expects her to eventually accept her duty and cease this "scholarly phase."
 
-Her status as a Snarvumak noble gives her considerable insulation. Attacking her directly would require political will her enemies may not possess. But it also makes her visible in ways she increasingly resents—her family expects her to eventually accept her duty and cease this "scholarly phase."
+:::secret {title="What the referee knows"}
+She maintains networks within Nordheim's hidden magical circles: practitioners of the old seid traditions, rúnstjori who work outside the formal clergy of the [[affiliation-odvar|Faith of Odvar]], and collectors of texts the authorities prefer forgotten. These connections are not hostile to Odvar's faith so much as orthogonal to it; Odvar himself, in their belief, values the pursuit of knowledge at any cost, and his most learned servants often turn a blind eye to heterodox methods. Attacking her directly would take political will her enemies may not possess.
+:::
 
 ## Companions
 
 ### Patrons and Allies
 
-**Hrimrún of the North**, her original seid teacher (now in her seventies) and the person Gnildurselda trusts most in the world. Hrimrún is her spiritual anchor, the one person who knows the full extent of Gnildurselda's work and does not judge it. Their bond is rarely acknowledged publicly but is absolute.
+- **Jarl [[being-hlarthvirsna|Hlarthvir Snarvumak]]:** Gnildurselda's uncle and effective head of the Snarvumak household, who provides financial support and family protection. He believes her an eccentric scholar and accepts this with the tolerance of a man who understands that noble families contain eccentrics.
 
-**Jarl [[being-hlarthvirsna|Hlarthvir Snarvumak]]**, Gnildurselda's uncle and effective head of the Snarvumak household, provides financial support and family protection, though he knows nothing of the true scope of her studies. He believes her to be an eccentric scholar and accepts this with the tolerance of a man who understands that noble families contain eccentrics.
+:::secret {title="What the referee knows"}
 
-[The Collector of Amber]{.name data-type="being/npc"}, a mysterious figure connected to the Epistémion's more liberal elements, supplies rare texts and acts as a fence for Gnildurselda's acquisitions. Identity unknown; all communication is by letter.
+- **Hrimrún of the North:** Her original seid teacher, now in her seventies, and the person Gnildurselda trusts most in the world. Hrimrún is her spiritual anchor, the one person who knows the full extent of her work and does not judge it. Their bond is rarely acknowledged publicly but is absolute.
+- **The Collector of Amber:** A mysterious figure connected to the Academy's more liberal elements, who supplies rare texts and acts as a fence for her acquisitions. Identity unknown; all communication is by letter.
+  :::
 
 ### Enemies and Rivals
 
-[Jon the Iron]{.name data-type="being/npc"}, a brutal rúnstjori who views Gnildurselda's systematization of seid as a violation of tradition and a threat to the old ways. He has made subtle attempts to undermine her reputation and would not mourn her disappearance. The threat he poses is growing.
+- **The Snarvumak succession:** Gnildurselda's cousin [Snirvorv]{.name data-type="being/npc"} and his ambitious wife see her scholarly pursuits as a dangerous anomaly and believe a woman of her station should be married off to secure an alliance. They have been quietly lobbying Jarl Hlarthvir to force the issue.
 
-**The Snarvumak Succession**, specifically Gnildurselda's cousin [Snirvorv]{.name data-type="being/npc"} and his ambitious wife, who see her scholarly pursuits as a dangerous anomaly and believe a woman of her station should be married off to secure alliance. They have been quietly lobbying Jarl Hlarthvir to force the issue.
+:::secret {title="What the referee knows"}
+
+- **Jon the Iron:** A brutal rúnstjori who views her systematization of seid as a violation of tradition and a threat to the old ways. He has made subtle attempts to undermine her reputation and would not mourn her disappearance. The threat he poses is growing.
+  :::
 
 ## Plot Hooks
 
-The Memory That Shouldn't Exist
-: A scholar from southern lands arrives at a chapterhouse with documents that describe Gnildurselda's illusion work in precise detail—impossible documents, from sources that predate her research. He is being watched carefully, and soon others will notice him. Gnildurselda must determine if he is a threat, a potential ally, or something far worse, before interested parties move against him.
+Documents That Predate the Research
+: A scholar from the southern lands arrives at a chapterhouse carrying documents that describe Gnildurselda's research in precise detail, from sources older than her own research. He is being watched, and others will soon notice him. She must learn whether he is a threat, a possible ally or something worse before interested parties act against him.
 
-The Victim Who Remembers
-: One of Gnildurselda's memory-veils, carefully constructed years ago to protect a client from dangerous knowledge, begins to unravel. The person involved is starting to remember things they were made to forget, and those memories are tearing them apart mentally. Gnildurselda must either repair the veil (risking discovery if she moves openly) or allow the person to break, potentially revealing her hand.
+The Inscription and the Cache
+: An ancient inscription Gnildurselda found in her scholarly work points to a hidden cache of texts. Reaching it unseen would test every skill she has, and retrieving it would make her a target for every faction that collects rare old texts.
 
-Jon's Challenge
-: Jon the Iron has gathered evidence of Gnildurselda's systematic deviation from traditional seid and brings formal complaint before the High Velva, the spiritual authority of the northern mysteries. Gnildurselda is summoned to defend herself, knowing that if she is found in violation, she may lose her ability to practice openly—or worse. Yet admitting what she has made of the craft might brand her a heretic.
+:::secret {title="Further hooks"}
+The Older Systematizer
+: The inscription shows that someone, centuries ago, made a formal discipline of illusion within seid, as Gnildurselda does now.
 
-The Archivist's Fall
-: The Collector of Amber is arrested by political rivals through means Gnildurselda does not understand. The texts they handle, the networks they maintain, could lead directly to her if interrogated. Gnildurselda must choose: rescue a contact that few people know she's connected to, potentially revealing her hand to powerful enemies, or abandon them to their fate.
+A Veil Comes Undone
+: A memory-veil she wove years ago to shield a client from dangerous knowledge begins to unravel, and the client is starting to remember what was forgotten, with the memories tearing at the client's mind. She can repair the veil, risking discovery if she moves openly, or let the client break and perhaps reveal her hand.
 
-The Truth Behind the Veil
-: An ancient inscription Gnildurselda uncovered in her scholarly work references seid practices that suggest someone, centuries ago, was doing what she is doing now—systematizing illusion into a formal magical discipline. The inscription points to a hidden cache of texts. The effort to reach it undetected will test every skill she possesses, and retrieving the texts will make her a target for every faction that deals in forbidden knowledge.
+Jon's Complaint
+: Jon the Iron gathers evidence of her systematic departure from traditional seid and brings it before the ting as a formal complaint. Summoned to answer, she risks losing the ability to practice openly if the assembly finds against her, and admitting what she has made of the craft might brand her a heretic.
+
+:::
