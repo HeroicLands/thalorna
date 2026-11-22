@@ -73,7 +73,7 @@ Two endings stand open, and the GM chooses. In a dry summer the tribe burns the 
 ## Hooks {#hooks}
 
 - **Smoke over the open water.** [[being-brlndvshv|Brelana Duvashov]] has seen smoke rising over the marsh east of Grimhreth three days running, and she wants a party to go in far enough to see which way the Black Road runs before she takes her boat along the stretch of margin nearest the smoke.
-- **The road nobody walks.** [[being-skgrdbrshv|Sokogor Dobrashov]] has followed the gray reeds of the Black Road in from the marsh edge and found no tracks on it, Grukar or any other: a way toward the lake that no nest watches, with the Mire somewhere along it.
+- **The road nobody walks.** [[being-skgrdbrshv|Sokogor Dobrashov]] has followed the gray reeds of the Black Road in from the marsh edge and found no tracks on it, Grukar or any other: a way into the marsh that no nest watches, with the Mire somewhere along it.
 
 ## See Also {#see-also}
 
