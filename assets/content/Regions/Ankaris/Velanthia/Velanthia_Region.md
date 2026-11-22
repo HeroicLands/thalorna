@@ -212,6 +212,9 @@ To the **south**, beyond the mountain line, lie Viléria, the Hellád, Helionis 
 [[place-hrsoks|Horse Oaks]]
 : a sacred grove above the river-port
 
+[[place-teshobor|Teshobor]]
+: a river meadow in the northern pine woods, with willows grown into arches
+
 [[lore-hostsforpay|The Hosts Take Pay]], [[lore-northernwar|The Border War with the Jarls]], [[lore-leanyear|The Year of the Barns]], [[lore-tarvalturn|The Tarvál Host Changes Sides]]
 : the history of the Hosts, the frontier and the granaries
 

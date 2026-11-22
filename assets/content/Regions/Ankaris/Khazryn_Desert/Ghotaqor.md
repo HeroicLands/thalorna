@@ -65,3 +65,10 @@ The hunters speak of places they avoid: a ridge where the stone has been cut int
 : the forest-edge valleys when the wall-keepers go north
 
 [[place-nrthnhlds|Old Holds of the Northern Taiga]]
+: the cut stone rumored along the coast
+
+[[place-cutridge|The Cut Ridge]]
+: the cut walls and passages the hunters avoid
+
+[[place-snowlesshlw|The Snowless Hollow]]
+: the hollow where the snow does not lie

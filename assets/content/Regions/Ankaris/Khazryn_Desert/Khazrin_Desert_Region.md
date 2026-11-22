@@ -138,6 +138,7 @@ To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vristwald]], near
 - [[lore-celestialroad|The Celestial Road]]—the caravan road to Tantsou
 - [[lore-ownedoasis|The Owned Oasis]]—a tribe's small spring, and the stranger who finds it
 - [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
+- [[place-cutridge|The Cut Ridge]] and [[place-snowlesshlw|The Snowless Hollow]]—the two places the Ghotaqor hunters avoid
 - [[affiliation-ashanpnthn|Ashaian Pantheon]]—primary pantheon, shared with Dunhara and Taruzel
 - [[skill-sowideslng|Sovidur Language]]—the tongue of the tribes
 - [[skill-tellumilng#lexicon|Khazrin Lexicon]]—the words and names of the three tongues

@@ -5188,6 +5188,7 @@ data:
     - {name: Thalreth, kind: place, built: [thal-, -reth], gloss: the clearing in the dale}
     - {name: Thornhaven, kind: place, built: [thorn-, -haven], gloss: the haven among the thorns}
     - {name: Thraholt, kind: place, built: [thrá-, -holt], gloss: the unyielding copse}
+    - {name: Vethreth, kind: place, built: [véth-, -reth], gloss: the set-apart clearing}
     - {name: Vristwald, kind: place, built: [vrist-, -wald], gloss: the free wood}
     - {name: Waldburg, kind: place, built: [wald-, -burg], gloss: the wood's stronghold}
     - {name: Armund, tongue: varokhi}
