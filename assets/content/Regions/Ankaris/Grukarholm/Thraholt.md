@@ -3,7 +3,7 @@ shortcode: thraholt
 name: {full: Thraholt, en: [The Unyielding Copse]}
 type: place
 subType: site
-description: "The young Grukar nest budding at the edge of the Grimak thicket in Skathwald's marsh, a day's walk east of Mahnreth, on the ground of the villages the last nest there took."
+description: "The young Grukar nest budding at the edge of the Grimak thicket in Skathwald's marsh, a day's walk east of Mahnreth, where the Skathwald villages burned the last nest."
 tags: [gm, site, marsh, forest]
 data:
   pack: gm-journals
@@ -22,7 +22,11 @@ data:
 
 ## Who Holds It {#who-holds-it}
 
-A young tribe of the [[lore-grukarfolk|Grukar]] holds the copse: a few dozen gathered round a spawner that woke here when a faction carried it out of another tribe. Most of them are Uk. A few Hushk lead its hunters, and a Sha or two keep the watch on the villages. The tribe grows by its spawner's clutches, and the nest is still small enough that the villages of Skathwald could burn it in a day.
+A young tribe of the [[lore-grukarfolk|Grukar]] holds the copse. The Skathwald villages know it as new by what they see from the ring: fresh longhouses, fresh trampling, and hunters at the thicket's edge where none came before.
+
+:::secret {title="What the tribe is"}
+The tribe is a few dozen gathered round a spawner that woke here when a faction carried it out of another tribe. Most of them are Uk. A few Hushk lead its hunters, and a Sha or two keep the watch on the villages. The tribe grows by its spawner's clutches, and the nest is small enough that the villages of Skathwald could burn it in a day.
+:::
 
 ## Layers {#history}
 
@@ -50,7 +54,7 @@ The young tribe is weak in the way every new tribe is. Its spawner lays Uk becau
 
 ## What a Party Finds {#what-a-party-finds}
 
-A party that comes in from the west crosses old clearings grown back to young wood, with the line of a field wall under the moss here and there. The copse at the thicket's edge smells of the nest before it is seen, the ground round it is trampled, and the Uk at work there are few enough to count. Behind the copse the thicket is silent, and the voice in the thorn calls by name. A Grukar party does not take prisoners or trade, and a person taken is eaten.
+A party that comes in from the west crosses old clearings grown back to young wood, with the line of a field wall under the moss here and there. The copse at the thicket's edge smells of the nest before it is seen, the ground round it is trampled, and Uk are at work about the longhouses. Behind the copse the thicket is silent, and the voice in the thorn calls by name. A Grukar party does not take prisoners or trade, and a person taken is eaten.
 
 :::secret {title="What the ground holds"}
 The lost villages' ground is the treasure. Their clearings and fields are the best-drained ground in Skathwald's east, the one good ground in a country otherwise worthless to a plough, and they wait only for the trees to be cut back; the families of Mahnreth and Frithholt know whose they were. They give no return while a nest hunts over them, because nobody clears them.

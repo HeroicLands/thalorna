@@ -3,7 +3,7 @@ shortcode: skathak
 name: {full: Skathak, en: [The Harm Thicket]}
 type: place
 subType: site
-description: "The Grukar nest at the far end of the Grimhreth cause-walk, on an alder island in the western edge of Skathengrund, the Drowned Country."
+description: "The Grukar nest at the far end of the Grimhreth cause-walk, in the western edge of Skathengrund, the Drowned Country."
 tags: [gm, site, marsh]
 data:
   pack: gm-journals
@@ -18,19 +18,23 @@ data:
 
 ## Overview {#overview}
 
-**Skathak**, the harm thicket, is the Varokh name for the nest at the far end of [[place-grimhreth|Grimhreth]], the cause-walk of sunken logs that runs from the forest of [[place-skathwald|Skathwald]] into [[place-skathengrund|Skathengrund]], the Drowned Country. It lies in the western edge of the marsh, where [[place-grkrhlmrgn|Grukarholm Region]] overlies the eastern reach of [[place-vrystwald|Vristwald]]. The nest stands on an island of alder and firm peat that rises a little above the bog. Its longhouses are low and roofed with reed and turf, and its spawn-chamber is cut into the island's highest ground. Black water surrounds the island, and the walk is the only way onto it that does not need a canoe or the winter ice.
+**Skathak**, the harm thicket, is the Varokh name for the nest at the far end of [[place-grimhreth|Grimhreth]], the cause-walk of sunken logs that runs from the forest of [[place-skathwald|Skathwald]] into [[place-skathengrund|Skathengrund]], the Drowned Country. It lies in the western edge of the marsh, where [[place-grkrhlmrgn|Grukarholm Region]] overlies the eastern reach of [[place-vrystwald|Vristwald]], out of sight of the forest edge.
+
+:::secret {title="The island"}
+The nest stands on an island of alder and firm peat that rises a little above the bog. Its longhouses are low and roofed with reed and turf, and its spawn-chamber is cut into the island's highest ground. Black water surrounds the island, and the walk is the only way onto it that does not need a canoe or the winter ice. The tribe on it numbers a few hundred.
+:::
 
 ## Who Holds It {#who-holds-it}
 
-One tribe of the [[lore-grukarfolk|Grukar]] holds the island, a tribe of a few hundred centered on its spawner. The tribe lays the logs of Grimhreth and lays them again as they sink, and no other nest uses the walk. Its raiding parties come out along it into village country, and its hunters go out over the ice when the walk is closed.
+One tribe of the [[lore-grukarfolk|Grukar]] holds the nest, centered on its spawner. The tribe lays the logs of Grimhreth and lays them again as they sink, and no other nest uses the walk. Its raiding parties come out along it into village country, and its hunters go out over the ice when the walk is closed.
 
 ## Layers {#history}
 
-How long a nest has stood at the end of the walk is not known in Skathwald. The walk is older than the memory of any hunter who uses it, and the villages have never seen the island. They know the nest by its logs, its raiding parties and the people it has taken.
+How long a nest has stood at the end of the walk is not known in Skathwald. The walk is older than the memory of any hunter who uses it, and the villages have never seen the nest itself. They know the nest by its logs, its raiding parties and the people it has taken.
 
 ## What Is There Now {#present}
 
-The nest holds its island and its walk, and the villages of Skathwald hold the forest edge. At [[place-hildholt|Hildholt]] [[being-wlfrnrfrdrnd|Wulfrún ira Frodrúnd wur Hildholt]] watches the walk for parties coming out. [[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]] runs his trapline along the margin and knows which of the nest's logs are sound. The villages want the nest burned, as they burned the nest at [[place-grimak|Grimak]], and burning it needs a muster willing to go out along the walk itself.
+The nest holds its walk and the marsh beyond it, and the villages of Skathwald hold the forest edge. At [[place-hildholt|Hildholt]] [[being-wlfrnrfrdrnd|Wulfrún ira Frodrúnd wur Hildholt]] watches the walk for parties coming out. [[being-skthrkrvndvth|Skathrik ira Vandvith wur Mahnreth]] runs his trapline along the margin and knows which of the nest's logs are sound. The villages want the nest burned, as they burned the nest at [[place-grimak|Grimak]], and burning it needs a muster willing to go out along the walk itself.
 
 :::secret {title="The hunting range"}
 The nest hunts about a league out from its island, wherever the marsh lets it go: along its own walk toward the forest edge, along the canoe-ways of the open water to the east, and over the whole of it on the winter ice. The Ahk paces the hunt. In a lean season the hunters spare the beaver lodges and the marten runs, and so the fur-bearers inside the nest's league are thicker than anywhere on the margin. How long a league takes on the logs and the canoe-ways is for the GM to set.
@@ -42,7 +46,7 @@ Raiding is another matter. A raiding party goes as far as the walk and the fores
 
 The [[being-ncrtcmr|Necrotic Mire]] moves through Skathengrund, and the nests keep off its track. A walk it crosses stays closed to them for a season, and a crossing on Grimhreth cuts the nest off from the forest edge until that season has passed.
 
-The fur hunters of the margin take beaver and marten from the same water the nest hunts. Each pelt that goes out on a hunter's back is meat the nest does not have.
+The fur hunters of the margin take beaver and marten from the slow water under the forest edge, and in some seasons they find their snares emptied and cut.
 
 Deeper in the marsh to the east lie other nests.
 
@@ -78,7 +82,7 @@ Two endings stand open, and the GM chooses. The Skathwald villages raise a muste
 : the cause-walk the nest keeps
 
 [[place-skathengrund|Skathengrund]]
-: the marsh the island stands in
+: the marsh the nest stands in
 
 [[place-skathwald|Skathwald]]
 : the Varokh reach at the walk's other end
