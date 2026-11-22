@@ -67,4 +67,4 @@ A clearing of short grass and fern in a valley bottom, round and level, open to 
 **The wall.** The camp keeps nothing of value. The oaks themselves are the work: no Varokh woodsman can grow living oaks into one trunk, and the wall stands because it was grown, not built. It still turns a driven herd to the gaps, and a company that knows this takes more elk at the clearing in one morning than in a week on open ground.
 
 > [!TIP]
-> The tellings are the danger, not the clearing. If the company camps inside the wall and nothing happens, the elders lose an argument and the clan gains a hunting ground; if it goes round, the herds that winter in it are untouched for another generation.
+> The tellings are the danger, not the clearing. If the company camps inside the wall and nothing happens, the elders lose an argument and the clan gains a hunting ground; if it goes round, the herds that winter in it are untouched for another generation. The wall, the gaps, the trench and the drive are this note's own account of the camp; a game master may change them.

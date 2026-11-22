@@ -62,4 +62,4 @@ A bowl a long bowshot across, its floor bare and soft and warm to the hand. In i
 **The fever.** The children's fever came in from the coast, as the younger hunters say. The warm pool is clean, and a child kept by it and fed recovers within the month.
 
 > [!TIP]
-> The hollow is a place good to live in that the forest's law forbids. A party that cures the children and brings the furs out gives the band a winter and the other bands a reason to think again.
+> The hollow is a place good to live in that the forest's law forbids. A party that cures the children and brings the furs out gives the band a winter and the other bands a reason to think again. The roof, the ledge and the spring return are this note's own account; a game master may change them.

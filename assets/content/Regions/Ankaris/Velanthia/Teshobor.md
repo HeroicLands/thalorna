@@ -63,4 +63,4 @@ A meadow of tall grass in a river bend, closed in by pines on the landward side.
 **The stone.** The stone in the shallows is the camp's mooring post, and the line around it is [[skill-clthndscrpt|Veldikko]], naming the place for boats coming up the river. No one in Velanthia reads it.
 
 > [!TIP]
-> The priest wants an answer, not the truth. A party that proves the hay was stacked wet settles the quarrel, and one that shows the priest how fast the stumps grow makes the willows a matter for the faith and the prince, not the village.
+> The priest wants an answer, not the truth. A party that proves the hay was stacked wet settles the quarrel, and one that shows the priest how fast the stumps grow makes the willows a matter for the faith and the prince, not the village. The boat traffic and the mooring post are this note's own account of the camp; a game master may change them.
