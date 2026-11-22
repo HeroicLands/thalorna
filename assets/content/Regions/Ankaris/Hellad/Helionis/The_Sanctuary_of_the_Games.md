@@ -46,3 +46,4 @@ The sanctuary is the seat of the [[affiliation-ctysttshlns|City-States of Helion
 - [[lore-firstgames|The First Games]]—the meeting that made the sanctuary
 - [[affiliation-ctysttshlns|City-States of Helionis]]—the offices and the herald
 - [[place-helionis|Helionis]]
+- [[scenario-gmssnsnctry|The Games Season at the Sanctuary]]—the herald chosen to speak the truce words is found dead at the altar on the morning the Games open

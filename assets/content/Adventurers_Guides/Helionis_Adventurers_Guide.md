@@ -151,6 +151,10 @@ At the first agorin, ask three questions: **Which city-state's law are you stand
 
 Campaigns start well from a contest. A city-state needs a team for the games and its best wrestler has broken his arm. A playwright's patron family wants the rival family's production to fail on the night. A magistrate cannot leave his city until his accounts balance, and someone has made sure they never will. An ambassador must reach a city-state its own city-state is at war with, and needs escorts who are not citizens of either. A student of the College of Ethics has found a manuscript that proves an Order theorem was argued first in a different college, by someone who also argued about justice.
 
+One adventure begins at the Sanctuary of the Games:
+
+- [[scenario-gmssnsnctry|The Games Season at the Sanctuary]]: the herald chosen to speak the season's truce words is found dead at the heralds' altar on the morning the Games open, and the bench of arbiters must name the guilty before the Games close.
+
 :::secret
 **For the GM:** The sharpest tool Helionis offers is that every decision is public and every city-state is sovereign. A party that wins an argument in one agorin has made an enemy who will be in the next one, and a decree that binds one city-state means nothing over the pass. The shared festivals bring rival city-states to one sacred site, where taking part is a duty to the gods, and that duty is the one thing the party can count on both sides to honor.
 :::
