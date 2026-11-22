@@ -25,6 +25,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [scarred]
+    mouth: full
     extra_features: [Tablets-of-Qe'aret scarification across the collarbones]
   packFolder: regkhhk
   items:
