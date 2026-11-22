@@ -17,7 +17,7 @@ data:
   socialTies: {affiliation-aelndntrbs: friend, being-raltilaoltes: patron}
   gender: female
   species: flksenali
-  born: null
+  born: "-139.200"
   died: null
   height: 6' 1"
   weight: 140 lbs
@@ -33,7 +33,7 @@ data:
 
 # Appearance {#appearance}
 
-Ansorula Masserinto is a woman who stands 6'1" tall and is of light build. She is tall, slender and very still, with silver hair that falls straight to the knee and violet eyes that seem to see past the speaker. Her pale skin is faintly translucent. She wears a plain gray robe of undyed wool and nothing else, and she moves so quietly that a visitor does not hear her cross a stone floor.
+Ansorula Masserinto is an 857-year-old woman who stands 6'1" tall and is of light build. She is tall, slender and very still, with silver hair that falls straight to the knee and violet eyes that seem to see past the speaker. Her pale skin is faintly translucent. She wears a plain gray robe of undyed wool and nothing else, and she moves so quietly that a visitor does not hear her cross a stone floor.
 
 # Dossier {#dossier}
 
@@ -53,7 +53,7 @@ She wants the carrying done exactly and no carrier made to embellish. She wants 
 
 ### Strengths
 
-She hears the carriers true. She is old past counting, and what she says is what the enclave holds.
+She hears the carriers true. She is 857 years old, and what she says is what the enclave holds.
 
 ### Weaknesses
 
