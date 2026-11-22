@@ -6320,6 +6320,8 @@ data:
     - {name: The Bitter Sea, tongue: translation}
     - {name: The Far Sea, tongue: translation}
     - {name: The Mirror Sea, tongue: translation}
+    - {name: sevrabun, tongue: dunhari, built: [sevraz, -abun], gloss: the keeper of the asking}
+    - {name: The Riddle-Warden, tongue: translation}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

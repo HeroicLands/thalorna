@@ -823,6 +823,11 @@ data:
       field: Temple, arcane and cosmology
       gloss: the cloaked one, the sentient undead; abroad, tereb
       native: [{text: 𞯎, enc: khelzethuenc}]
+    - form: tharelar
+      class: n
+      field: Temple, arcane and cosmology
+      built: [tharel, -ar]
+      gloss: the one who stands, a damut set to keep a door; abroad, the bone sentry
     - form: au'khelathu
       class: name
       field: The realm, its people and its hands

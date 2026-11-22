@@ -6174,6 +6174,7 @@ data:
     - {name: thruldmil skulfendik, tongue: nordmal}
     - {name: brildmil dvurnumak, tongue: nordmal}
     - {name: gnaldrinna driskumak, tongue: nordmal}
+    - {name: varmathurs, tongue: nordmal, built: [varma, thurs-], gloss: the wall-giant}
   retired:
     - {form: domsey, instead: domsei, why: closing y is not a spelling}
     - {form: nulthey, instead: nulthei, why: closing y is not a spelling}
