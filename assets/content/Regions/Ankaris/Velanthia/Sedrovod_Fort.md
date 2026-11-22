@@ -45,3 +45,6 @@ The garrison watches the road, the forest edge and the paths from the marsh, and
 
 [[place-grkrhlmrgn|Grukarholm Region]]
 : the country its forts face
+
+[[scenario-cnfrfrd|Coin for the Ford]]
+: a scenario: a village's ransom for the man taken from its watch, carried to the ford at Yaravesh

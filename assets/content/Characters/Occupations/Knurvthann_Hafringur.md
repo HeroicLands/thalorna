@@ -3,7 +3,7 @@ shortcode: knrvthnhfrngr
 name: {full: Knurvthann Hafringur}
 type: being
 subType: npc
-description: "A veteran Nordheimn longshoreman known for his knowledge of loading and safety rules and for mentoring younger workers."
+description: "A veteran Nordheimn longshoreman of the Knalthstead quays known for his knowledge of loading and safety rules and for mentoring younger workers."
 tags: [draft, common-folk]
 data:
   icon: icon-person
@@ -12,7 +12,7 @@ data:
   occupation: Longshoreman
   lore: []
   culture: nordheimnclt
-  homes: [horgsvangur]
+  homes: [knalthstead]
   affiliations: {kngdmnrdhm: {rank: 3}, thrunvald: {rank: 1}}
   gender: male
   species: humanflk
@@ -403,7 +403,7 @@ Knurvthann Hafringur is a 40-year-old man who stands 6'0" tall and is broad and 
 
 Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Knurvthann Hafringur came into the world of the longshoreman through a combination of circumstance and aptitude.
 
-Knurvthann is a veteran longshoreman with over twenty years of experience in loading work. He has seen the trade change and is known for his knowledge of loading practices and safety rules. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
+Knurvthann is a veteran longshoreman with over twenty years of experience in loading work, nearly all of it on the quays of [[place-knalthstead|Knalthstead]], where ships beach beside the caulking sheds and salting houses. He has seen the trade change and is known for his knowledge of loading practices and safety rules. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 
 ## Psyche
 
@@ -429,7 +429,7 @@ As a Nordheimn longshoreman, Knurvthann occupies a recognized social niche withi
 
 ### Patrons
 
-Knurvthann's primary patrons are shipping companies and local merchants. This relationship provides both opportunity and obligation.
+Knurvthann's primary patrons are ships' masters and the merchants of the quays. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -437,11 +437,11 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-Crates for the Altar-Field
-: Carters bring crates marked for the priestesses of [[place-horgsvangur|Horgsvangur]] to the edge of the settlement, and the younger workers refuse to carry them in. Nothing is said outside the settlement of what the priestesses sacrifice, the younger hands whisper of blood offerings, and the carters want the crates delivered before dark. Knurvthann, whom the workers follow, must order the lift or carry the crates himself.
+Hall Credit for a Day's Haul
+: A ship's master beached at the Knalthstead quays offers to pay the gang for unloading his whole cargo in [[lore-kinhalcrdt|hall credit]], a tally that holds only until the next catch or raid settles the account. The younger hands want barter in iron tools and refuse to start without it. Knurvthann, whom the workers follow, must take the tally for the gang or hold the lift until the master pays in goods.
 
 A Young Hand Under a Load
-: A patron wants a load moved in a day and sets a younger worker to a lift the safety rules forbid. Knurvthann is protective of the young and resists change, and the rule and the patron cannot both stand.
+: A ship's master wants his hold cleared in a day and sets a younger worker to a lift the safety rules forbid. Knurvthann is protective of the young and resists change, and the rule and the master cannot both stand.
 
 A Dispute Called to Him
-: Two merchants each say the other's goods were loaded first, and both ask Knurvthann to rule. He is called to settle such disputes, and a ruling for either will cost him a patron.
+: Two merchants on the quay each say the other's goods were landed first, and both ask Knurvthann to rule before the harbor-reeve who tolls the wharves sets what each owes. He is called to settle such disputes, and a ruling for either will cost him a patron.

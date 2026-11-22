@@ -75,3 +75,6 @@ The town grew where its first barn stood at a ferry, and the seat has been held 
 
 [[place-velanthrgn|Velanthia Region]]
 : the land
+
+[[scenario-hrvstpy|The Harvest Pay]]
+: a campaign frame: the season from the late rain to the snow on the passes, when the Hosts' pay is in doubt

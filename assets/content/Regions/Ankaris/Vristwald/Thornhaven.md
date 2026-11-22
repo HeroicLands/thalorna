@@ -36,3 +36,6 @@ Thornhaven's tension runs along the same frontier that built it: a village this 
 
 [[place-thornwald|Thornwald]]
 : The Velanthian reach it stands in
+
+[[scenario-gthsthdbrg|The Gatehouse at Theodburg]]
+: a scenario: the heir of Brevavesh's bid to hold the shared fort at Theodburg again with a forest war-band
