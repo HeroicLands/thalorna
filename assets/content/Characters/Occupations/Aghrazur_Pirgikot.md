@@ -400,7 +400,7 @@ His combat ability is outstanding, honed through years of actual field experienc
 
 ## Social
 
-Ághrazur operates in the liminal space between military structures and civilian commerce. He is respected by soldiers and merchants both, but belongs fully to neither world. His Bizarian origin is evident but not particularly important to him. His home is the Bizaria Region at large: the notes name no settlement for him, and the Game Master places him wherever in the region the campaign needs him.
+Ághrazur operates in the liminal space between military structures and civilian commerce. He is respected by soldiers and merchants both, but belongs fully to neither world. His Bizarian origin is evident but not particularly important to him. He keeps no fixed home: his home is the [[place-byzariargn|Bizaria Region]] at large, wherever the caravan roads take him, and the Game Master places him where the campaign needs him.
 
 ## Companions
 

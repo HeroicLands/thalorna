@@ -3,7 +3,7 @@ shortcode: anthyndathra
 name: {full: Anthinda Thraskaruk, en: [Captain Anthinda Thraskaruk]}
 type: being
 subType: npc
-description: A merchant captain who has become entangled with Svaltharuk's operation through trading partnerships, named in Gnirthann Veturdomur.
+description: A Nordheim merchant captain whom Gnirthann Veturdomur respects, named in Gnirthann Veturdomur.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -42,4 +42,8 @@ Anthinda Thraskaruk is a 31-year-old woman who stands 5'6" tall with a medium bu
 
 # Dossier {#dossier}
 
-Anthinda Thraskaruk is a merchant captain who has become entangled with [[being-hvalgmylsval|Svaltharuk]]'s operation through trading partnerships. She did not realize that the trading partnerships were connected to slavery. Anthinda Thraskaruk is named in [[being-gnrthnvtrdmr|Gnirthann Veturdomur]].
+Anthinda Thraskaruk is a merchant captain whom [[being-gnrthnvtrdmr|Gnirthann Veturdomur]], the harbor watch commander, respects.
+
+:::secret {title="Dossier"}
+Anthinda is entangled with [[being-hvalgmylsval|Hvalgmil Svaltharuk]]'s operation through her trading partnerships. She does not know that those partnerships are connected to slavery.
+:::
