@@ -254,7 +254,7 @@ The cleft narrows to the width of a cart, and at its end, where a doorway is cut
 
 # Dossier {#dossier}
 
-**Sevrabun** (the Riddle-Warden) is a dreadspawn guardian of gates, named in the [[skill-dunharlng|Dunhari Language]] from _sevraz_, to ask, with the ending _-abun_ of the keeper of a thing, a door or a household: _the keeper of the asking_. It has a lion's body and a human face, and it sits at the entrance to the place it was set to guard, a pass, a gate in a wall or the door of an archive. It asks everyone who comes one question, the question it was set with, in that person's own tongue. Whoever answers rightly goes by. Whoever answers wrongly, or refuses to answer, is attacked. It is met in the [[place-dunhardsrtrgn|Dunhara Desert Region]], at clefts and gates in the desert's ridges and at the doors of places that were old before the tribes came. Like every dreadspawn it was made, it is alive, and it does not breed. The tribes know of a few sevrabun and know them apart by their faces.
+**Sevrabun** (the Riddle-Warden) is a dreadspawn guardian of gates, named in the [[skill-dunharlng|Dunhari Language]] from _sevr-_, the stem of _sevraz_, to ask, with the ending _-abun_ of the keeper of a thing, a door or a household: _the keeper of the asking_. It has a lion's body and a human face, and it sits at the entrance to the place it was set to guard, a pass, a gate in a wall or the door of an archive. It asks everyone who comes one question, the question it was set with, in that person's own tongue. Whoever answers rightly goes by. Whoever answers wrongly, or refuses to answer, is attacked. It is met in the [[place-dunhardsrtrgn|Dunhara Desert Region]], at clefts and gates in the desert's ridges and at the doors of places that were old before the tribes came. Like every dreadspawn it was made, it is alive, and it does not breed. The tribes know of a few sevrabun and know them apart by their faces.
 
 ## Presentation
 
@@ -262,11 +262,11 @@ A sevrabun is the size of a great lion and lies like one, on a block or a ledge 
 
 ## In the Land
 
-The [[place-dunharargn|Dunhara Region]] is a vast desert, and the desert's ridges are cut with clefts and dry gorges that the caravan routes and the tribes' grazing routes use as passes. A sevrabun sits at the head of such a cleft, or at a gate cut into a cliff, or at the door of a place built by people who were in the desert before the tribes: a vault, a cistern-hall, a room of tablets. It leaves its seat only to hunt, at night in the country close by, as a lion would, and it is back on its block by dawn.
+The [[place-dunharargn|Dunhara Region]] is a vast desert, and the desert's ridges are cut with clefts and dry gorges that the caravan routes and the tribes' grazing routes use as passes. A sevrabun sits at the head of such a cleft, or at a gate cut into a cliff, or at the door of a place built by people who were in the desert before the tribes: a vault, a cistern-hall, a room of tablets.
 
 ## Key Behaviors
 
-A sevrabun does what it was made to do, which is to ask. Everyone who comes to its gate is asked the same question, in that person's own tongue, and it waits for an answer as long as the person stands there. It asks each member of a party in turn, and each must answer for himself. A right answer and it lays its head down on its paws, and that person may pass in and out of the gate from then on without being asked again. A wrong answer, or silence, or a refusal, or an attempt to pass unasked, and it attacks that one from its seat. It does not attack anyone who turns back and leaves its gate. It answers no questions, makes no bargains and accepts no gifts. The question differs from gate to gate, and it is never a trick of words: it is a question about the people who built the place behind the gate, their custom, their dead or their gods, and the right answer is something those people knew.
+A sevrabun does what it was made to do, which is to ask. Everyone who comes to its gate is asked the same question, in that person's own tongue, and it waits for an answer as long as the person stands there. It asks each member of a party in turn, and each must answer for himself. A right answer and it lays its head down on its paws, and that person may pass in and out of the gate from then on without being asked again. A wrong answer, or silence, or a refusal, or an attempt to pass unasked, and it attacks that one from its seat. It does not attack anyone who turns back and leaves its gate. It answers no questions, makes no bargains and accepts no gifts. The question differs from gate to gate.
 
 ## What the Tribes Do
 
@@ -277,7 +277,7 @@ The tribes of the desert know the gates where a sevrabun sits and do not take th
 - A carved lion at the head of a cleft that has dust on its back but none on its face.
 - A caravan route that goes two days round a ridge with an easy pass through it.
 - Bones of men and beasts on the near side of a gate, and the path beyond it clean.
-- Lion tracks in the sand near a cliff gate, leading out at dusk and back at dawn.
+- Bones of goats and gazelles cracked open on the ledge beside a carved lion, and no tracks leading away.
 - A caravan master who will not travel without one particular old man, who rides at the front.
 
 ## Combat Strategy
@@ -337,12 +337,12 @@ Reasoning
 Creativity
 : 4-7 (1d4+3)
 
-## Hooks {#hooks}
+## Plot Hooks
 
-- **The caravan master's apprentice.** An old caravan master who carries the answer to a sevrabun's pass has died on the road, and his apprentice swears he was told the answer. The caravan, with its water running low, must decide whether to trust him at the gate or take the long way round.
-- **The answer for sale.** A trader in a desert market offers the answer to a sevrabun's gate at a price, and a second trader offers a different one. Both swear theirs is true.
-- **What the question tells.** A scholar has heard the question one sevrabun asks and believes it names the gods of a people nobody has found, and she wants a party to bring her the questions of two more.
-- **An archive behind a door.** A tribe's elder knows a gate in the deep desert where a sevrabun guards a room cut into the rock, and offers to tell where it is to a party that brings back what is written inside.
+1. **The caravan master's apprentice.** An old caravan master who carries the answer to a sevrabun's pass has died on the road, and his apprentice swears he was told the answer. The caravan, with its water running low, must decide whether to trust him at the gate or take the long way round.
+2. **The answer for sale.** A trader in a desert market offers the answer to a sevrabun's gate at a price, and a second trader offers a different one. Both swear theirs is true.
+3. **What the question tells.** A scholar has heard the question one sevrabun asks and believes it names the gods of a people nobody has found, and she wants a party to bring her the questions of two more.
+4. **An archive behind a door.** A tribe's elder knows a gate in the deep desert where a sevrabun guards a room cut into the rock, and offers to tell where it is to a party that brings back what is written inside.
 
 :::secret {title="How a sevrabun's gate is passed"}
 

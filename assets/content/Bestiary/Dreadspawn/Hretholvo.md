@@ -249,10 +249,17 @@ sohl:
     currentMoveMedium: terrestrial
     movementProfiles:
       - medium: terrestrial
-        feetPerRound: 130
-        leaguesPerWatch: 10
+        feetPerRound: 40
+        leaguesPerWatch: 3
         encumbrance: floor(wt/4)
         strMod: -5 * floor((str - 10) / 2)
+        disabled: false
+      - medium: aquatic
+        feetPerRound: 100
+        leaguesPerWatch: 12
+        encumbrance: "floor(wt/4)"
+        strMod: "-5 * floor((str - 10) / 2)"
+        factors: []
         disabled: false
 ---
 
@@ -290,7 +297,7 @@ The carters and drovers of the Tarvénian roads pay. Every ford with a hretholvo
 
 ## Combat Strategy
 
-A hretholvo does not fight for its toll on the bank. It offers, it waits, and if it is refused it walks back into the water. Its weapon is the saddle: a rider on its back is held fast and carried under, and it fights only to keep him there, rolling and kicking in the deep water against anyone who swims out to cut him free. Attacked on the bank, it kicks and bites like a frightened horse and makes for the river.
+A hretholvo does not fight for its toll on the bank. It offers, it waits, and if it is refused it walks back into the water. Its weapon is the saddle: a rider on its back is held fast and carried under, and it fights only to keep him there, rolling and kicking in the deep water against anyone who swims out to cut him free. Attacked on the bank, it kicks and bites like a frightened horse and makes for the river at a walk, because it never runs on land.
 
 ## Attack Methods
 
@@ -345,12 +352,12 @@ Reasoning
 Creativity
 : 3-6 (1d4+2)
 
-## Hooks {#hooks}
+## Plot Hooks
 
-- **The unpaid carter.** A young carter mounted a strange horse at a ford on a dare and went under with it, and his father wants his body back from the pool below the ford before the harvest wagons start using the road.
-- **A bridge that will not stand.** A lord has decided to bridge the ford on his road and end the toll, and his masons have twice seen their work pulled down overnight. He hires a party to guard the third attempt.
-- **The story owed.** A drover has paid the ford stone with a story he swore was true, and has crossed with his herd. A rival says the story was a lie, and every drover on the road wants to know whether the next crossing will be paid for in the river.
-- **Across in flood.** A party must cross a river in flood with a message that cannot wait, and the only way over is the back of the horse waiting at the ford.
+1. **The unpaid carter.** A young carter mounted a strange horse at a ford on a dare and went under with it, and his father wants his body back from the pool below the ford before the harvest wagons start using the road.
+2. **A bridge that will not stand.** A lord has decided to bridge the ford on his road and end the toll, and his masons have twice seen their work pulled down overnight. He hires a party to guard the third attempt.
+3. **The story owed.** A drover has paid the ford stone with a story he swore was true, and has crossed with his herd. A rival says the story was a lie, and every drover on the road wants to know whether the next crossing will be paid for in the river.
+4. **Across in flood.** A party must cross a river in flood with a message that cannot wait, and the only way over is the back of the horse waiting at the ford.
 
 :::secret {title="What beats a hretholvo"}
 

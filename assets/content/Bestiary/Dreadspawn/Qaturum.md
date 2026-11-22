@@ -3,7 +3,7 @@ shortcode: hullgripper
 name: {full: Qaturum, en: [The Hull-Gripper]}
 type: being
 subType: creature
-description: "A made thing of the Taruzelian channels that wraps a ship's rudder and keel in gray, ridged limbs, holds her dead in calm water and strips her of her metal."
+description: "A made thing of the Taruzelian channels that wraps a ship's rudder and keel in gray, ridged limbs, stops her dead in calm water and strips her of her metal."
 tags: [dreadspawn, image-needed]
 data:
   packFolder: dreadspawn
@@ -98,92 +98,70 @@ sohl:
     body:
       structure:
         zones:
-          - {name: Head, shortcode: headzone, probWeight: 8}
-          - {name: Body, shortcode: torsozone, probWeight: 24}
-          - {name: Tail, shortcode: tailzone, probWeight: 8}
+          - {name: Mantle, shortcode: mantlezone, probWeight: 4}
+          - {name: Head, shortcode: headzone, probWeight: 2}
+          - {name: Arms, shortcode: armszone, probWeight: 4}
         parts:
+          - name: Mantle
+            shortcode: mantlepart
+            bodyZoneCode: mantlezone
+            roles: [core]
+            canHoldItem: false
+            probWeight: 10
           - name: Head
             shortcode: headpart
             bodyZoneCode: headzone
             roles: [vital, manipulator]
             canHoldItem: false
             probWeight: 10
-          - name: Body
-            shortcode: torsopart
-            bodyZoneCode: torsozone
-            roles: [core]
+          - name: Left Arms
+            shortcode: larmspart
+            bodyZoneCode: armszone
+            roles: [locomotor, manipulator]
             canHoldItem: false
-            probWeight: 10
-          - name: Left Fin
-            shortcode: lfinpart
-            bodyZoneCode: torsozone
-            roles: [locomotor]
+            probWeight: 5
+          - name: Right Arms
+            shortcode: rarmspart
+            bodyZoneCode: armszone
+            roles: [locomotor, manipulator]
             canHoldItem: false
-            probWeight: 2
-          - name: Right Fin
-            shortcode: rfinpart
-            bodyZoneCode: torsozone
-            roles: [locomotor]
-            canHoldItem: false
-            probWeight: 2
-          - name: Tail
-            shortcode: tailpart
-            bodyZoneCode: tailzone
-            roles: [locomotor]
-            canHoldItem: false
-            probWeight: 10
+            probWeight: 5
         locations:
+          - name: Mantle
+            shortcode: mantleloc
+            bodyPartCode: mantlepart
+            bleedingSusceptibility: medium
+            amputability: none
+            shockValue: 4
+            probWeight: 10
+            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
           - name: Head
             shortcode: headloc
             bodyPartCode: headpart
             bleedingSusceptibility: medium
             amputability: none
             shockValue: 5
-            probWeight: 6
+            probWeight: 7
             protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
-          - name: Gills
-            shortcode: gillloc
+          - name: Beak
+            shortcode: beakloc
             bodyPartCode: headpart
-            bleedingSusceptibility: high
-            amputability: low
-            shockValue: 5
-            probWeight: 4
+            bleedingSusceptibility: low
+            amputability: high
+            shockValue: 2
+            probWeight: 3
             protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
-          - name: Body
-            shortcode: bodyloc
-            bodyPartCode: torsopart
-            bleedingSusceptibility: medium
-            amputability: none
-            shockValue: 4
-            probWeight: 6
-            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
-          - name: Underbelly
-            shortcode: underbellyloc
-            bodyPartCode: torsopart
-            bleedingSusceptibility: high
-            amputability: none
-            shockValue: 4
-            probWeight: 4
-            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
-          - name: Left Fin
-            shortcode: lfinloc
-            bodyPartCode: lfinpart
+          - name: Left Arms
+            shortcode: larmsloc
+            bodyPartCode: larmspart
             bleedingSusceptibility: low
             amputability: medium
             shockValue: 2
             probWeight: 10
             protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
-          - name: Right Fin
-            shortcode: rfinloc
-            bodyPartCode: rfinpart
-            bleedingSusceptibility: low
-            amputability: medium
-            shockValue: 2
-            probWeight: 10
-            protectionBase: {blunt: 8, edged: 7, piercing: 6, fire: 8}
-          - name: Tail
-            shortcode: tailloc
-            bodyPartCode: tailpart
+          - name: Right Arms
+            shortcode: rarmsloc
+            bodyPartCode: rarmspart
             bleedingSusceptibility: low
             amputability: medium
             shockValue: 2
@@ -214,7 +192,7 @@ The wind is fair, the channel between the islands lies flat as oil, and the ship
 
 ## Presentation
 
-Nobody sees a qaturum whole without going into the water. Its body is a low, gray mound as long as a coasting vessel, ridged and seamed like a coil of tarred cable, and it lies flat on the bottom with its back no more than a fathom under the keel of the ship it holds. A ring of limbs grows from its rim, a dozen or more, long enough to reach from the bottom over a ship's rail, ridged on the outer face and lined on the inner with rows of hard, pale pads that grip wet timber without slipping. Its mouth is on its underside, a wide, rasping slit, and its eyes are two pale bulges on the leading edge of the mound that the limbs close over when it feeds. It is cold to the touch, and the water round it smells of rust.
+Nobody sees a qaturum whole without going into the water. Its body is a low, gray mantle, a mound as long as a coasting vessel, ridged and seamed like a coil of tarred cable, and it lies flat on the bottom with its back no more than a fathom under the keel of the ship it holds. Under the mantle's leading edge is a broad, flat head, and from the head grow its limbs, a dozen or more, spreading to either side, long enough to reach from the bottom over a ship's rail, ridged on the outer face and lined on the inner with rows of hard, pale pads that grip wet timber without slipping. Its mouth is a hard, rasping beak set among the roots of the limbs, and its eyes are two pale bulges on the head that the limbs close over when it feeds. It is cold to the touch, and the water round it smells of rust.
 
 ## In the Land
 
@@ -244,7 +222,7 @@ A qaturum fights to keep its hold and to keep the iron. It grips the vessel with
 
 ### Tearing Bite
 
-The rasping mouth on its underside tears through planking and through anyone dragged down to it, and it bites the metal out of a hull as easily as the flesh off a bone.
+The rasping beak among the roots of its limbs tears through planking and through anyone dragged down to it, and it bites the metal out of a hull as easily as the flesh off a bone.
 
 ### Tentacle Grasp
 
@@ -293,16 +271,16 @@ Reasoning
 Creativity
 : 7-12 (1d6+6)
 
-## Hooks {#hooks}
+## Plot Hooks
 
-- **The unpaid share.** A harbor's council has stopped paying the iron share to save the cost, and its ships are coming in stripped. A party is hired to escort the next convoy through the channel in a flat calm.
-- **A strongbox on the bottom.** A shipmaster's strongbox went over the rail in a limb's grip with a contract sealed inside it, and the merchant who holds the other half of the contract pays well for it to be brought up before the contract falls due.
-- **Wind for a crossing.** A party must cross a channel the islands know a qaturum holds, on a ship whose master cannot wait for wind and will not pay the share.
-- **Nails in the sand.** Fishermen are diving for iron on a shoal where a qaturum lies, and a son has not come up.
+1. **The unpaid share.** A harbor's council has stopped paying the iron share to save the cost, and its ships are coming in stripped. A party is hired to escort the next convoy through the channel in a flat calm.
+2. **A strongbox on the bottom.** A shipmaster's strongbox went over the rail in a limb's grip with a contract sealed inside it, and the merchant who holds the other half of the contract pays well for it to be brought up before the contract falls due.
+3. **Wind for a crossing.** A party must cross a channel the islands know a qaturum holds, on a ship whose master cannot wait for wind and will not pay the share.
+4. **Nails in the sand.** Fishermen are diving for iron on a shoal where a qaturum lies, and a son has not come up.
 
 :::secret {title="What drives a qaturum off"}
 
-- **The limb roots.** Its limbs grow from a ring of soft, pale flesh at the rim of its body, and the hold depends on them. A swimmer who reaches the roots under the keel and cuts them makes the limbs on that side let go at once, and a qaturum that loses a third of its hold lets the ship go and sinks away.
+- **The limb roots.** Its limbs grow from a ring of soft, pale flesh round its beak, under the head, and the hold depends on them. A swimmer who reaches the roots under the keel and cuts them makes the limbs on that side let go at once, and a qaturum that loses a third of its hold lets the ship go and sinks away.
 - **Fire on the waterline.** Bright fire held at the waterline, burning pitch on a line or torches lashed to oars, pains its eyes and confuses its iron sense. It slackens its hold while the fire burns, and a ship with wind enough in that moment comes free.
 
 :::

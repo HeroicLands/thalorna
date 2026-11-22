@@ -827,7 +827,7 @@ data:
       class: n
       field: Temple, arcane and cosmology
       built: [tharel, -ar]
-      gloss: the one who stands, a damut set to keep a door; abroad, the bone sentry
+      gloss: the one who stands, a damut set to keep a door; abroad unchanged, the learned term
     - form: au'khelathu
       class: name
       field: The realm, its people and its hands
@@ -8636,13 +8636,16 @@ The particles are _elu_ (of, upon), _ezu_ (in), _ez_ (to, toward) and _agu_
 
 ## Learned Vocabulary
 
-Two Khelathi words are the learned world's names for the undead, taken from the funerary texts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
+Two Khelathi words name the learned world's two kinds of undead, and a third names one kind of damut, taken from the funerary texts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] by every scholarly tradition that copied them; see [[lore-undead|Undead]] for their use.
 
 terebu
 : root _t-r-b_, to wear, to cloak: _the cloaked one_, the sentient undead ([[being-tereb|tereb]]). Invariant in number: one _terebu_, many _terebu_.
 
 dumatu
 : root _d-m-t_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _dumatu_, many _dumatu_.
+
+tharelar
+: root _tharel_, to stand: _the one who stands_, a damut set to keep a door ([[being-bonesentry|tharelar]]). The learned world uses the temple form unchanged.
 
 The temple form is the word as Khelathi speak and write it. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word as foreign ears set it down, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Khelathi priest says _terebu_ for one and for many; a Vilérian physician says _tereb_ and _terebu_.
 

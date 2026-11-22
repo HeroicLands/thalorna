@@ -393,7 +393,7 @@ A tharelar is a skeleton, clean or nearly so, held together by the binding and b
 
 ## In the Land
 
-A tharelar is found at the door of a tomb, a howe, a vault or the private rooms of someone who raises the dead, wherever a necromancer or a death god's servant has wanted a door kept. It is set inside a threshold and never outside it, so that a passer-by on the open hillside never sees one. In the [[place-nrdlndsrgn|Nordlands Region]] the folk give the name [[lore-haugverdir|hrúmverdir]], the howe-wardens, to the dead that keep a howe's door, and a tharelar set at a howe door by the [[affiliation-nahild|Faith of Nahild]] is one of them. Elsewhere one is found in old burial grounds whose families paid a necromancer to keep the dead from robbers, in the hidden houses of necromancers, and in tombs where somebody has hidden something that is not a body.
+A tharelar is found at the door of a tomb, a howe, a vault or the private rooms of someone who raises the dead, wherever a necromancer or a death god's servant has wanted a door kept. It is set inside a threshold and never outside it, so that a passer-by on the open hillside never sees one. In the [[place-nrdlndsrgn|Nordlands Region]] the [[affiliation-nahild|Faith of Nahild]] calls its raised damutu [[lore-haugverdir|hrúmverdir]], the howe-wardens, and a tharelar it sets at a howe door is one of them; the folk give the same word to the dead said to keep their own mounds. Elsewhere one is found in old burial grounds whose families paid a necromancer to keep the dead from robbers, in the hidden houses of necromancers, and in tombs where somebody has hidden something that is not a body.
 
 ## Key Behaviors
 
@@ -465,12 +465,12 @@ Perception
 Shadow
 : 8-13 (1d6+7)
 
-## Hooks {#hooks}
+## Plot Hooks
 
-- **The token in the will.** An heir has found in his grandmother's papers a small bone disk with a ring and three strokes on it, and a note naming the tomb it opens. He wants a party to go in with him, and does not say what he expects to find.
-- **A mark on two doors.** A party that has seen a tharelar's mark in one tomb finds the same mark on a sentry in a merchant's cellar in another province, and the merchant swears he has never left his town.
-- **Robbers at the door.** A gang of tomb robbers has lost two men at a guarded door and wants to hire specialists to get them through it, and the family that owns the tomb wants the robbers caught on the threshold.
-- **The guard who falls apart.** An old tharelar at a family tomb has begun to collapse at its post and rise again, and the family wants to know who can raise them another before word gets round.
+1. **The token in the will.** An heir has found in his grandmother's papers a small bone disk with a ring and three strokes on it, and a note naming the tomb it opens. He wants a party to go in with him, and does not say what he expects to find.
+2. **A mark on two doors.** A party that has seen a tharelar's mark in one tomb finds the same mark on a sentry in a merchant's cellar in another province, and the merchant swears he has never left his town.
+3. **Robbers at the door.** A gang of tomb robbers has lost two men at a guarded door and wants to hire specialists to get them through it, and the family that owns the tomb wants the robbers caught on the threshold.
+4. **The guard who falls apart.** An old tharelar at a family tomb has begun to collapse at its post and rise again, and the family wants to know who can raise them another before word gets round.
 
 :::secret {title="How a tharelar is passed or ended"}
 

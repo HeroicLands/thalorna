@@ -3,7 +3,7 @@ shortcode: cairngiant
 name: {full: Varmathurs, en: [The Cairn-Giant]}
 type: being
 subType: creature
-description: "A single made giant of the Nordlands, hill-tall and slow, that carries cut stone across a valley to a wall it was made to finish."
+description: "A single made giant of the Nordlands, five times a man's height and slow, that carries cut stone across a valley to a wall it was made to finish."
 tags: [dreadspawn, image-needed]
 data:
   packFolder: dreadspawn
@@ -434,15 +434,15 @@ sohl:
 
 # Appearance {#appearance}
 
-From the ridge the whole valley is in view: the river, the birch woods, a farm or two, and across the valley's narrow throat a wall of dry-laid stone, chest-high to a man along most of its length and much higher at its middle, where it is unfinished. Something is walking toward the wall from the quarry face on the far slope. At this distance it looks like a man carrying a sack. Then the eye finds the birches beside its path, and they come up to its knee. It is a giant, gray as the fell, stooped under a block of cut stone the size of a cottage, and it walks slowly, one long stride at a time, and the ground under the ridge shudders faintly with each step. It sets the block on the wall, presses it down, and turns, slowly, back toward the quarry.
+From the ridge the whole valley is in view: the river, the birch woods, a farm or two, and across the valley's narrow throat a wall of dry-laid stone, twice a man's height along most of its length and low at its middle, where it is unfinished. Something is walking toward the wall from the quarry face on the far slope. At this distance it looks like a man carrying a sack. Then the eye finds the birches beside its path, and they come up to its waist. It is a giant, gray as the fell, stooped under a block of cut stone the size of an ox cart, and it walks slowly, one long stride at a time, and the ground under the ridge shudders faintly with each step. It sets the block on the wall, presses it down, and turns, slowly, back toward the quarry.
 
 # Dossier {#dossier}
 
-**Varmathurs** (the Cairn-Giant) is a dreadspawn, one of a kind, named in the [[skill-nordmalng|Nordmal Language]] from _varma_, a wall, and _thurs-_, a giant: _the wall-giant_. It is a stooped, gray figure as tall as a hill's shoulder, and it does one thing: it cuts stone from a quarry face on one side of a valley in the [[place-nrdlndsrgn|Nordlands Region]], carries it across the valley, and lays it in a wall across the valley's throat. It was made to finish the wall, and it has not finished. It ignores travelers who keep away from its stones, and it fights whoever touches them. Like every dreadspawn it was made, it is alive, and it does not breed. Only one is known.
+**Varmathurs** (the Cairn-Giant) is a dreadspawn, one of a kind, named in the [[skill-nordmalng|Nordmal Language]] from _varma_, a wall, and _thurs-_, a giant: _the wall-giant_. It is a stooped, gray figure five times as tall as a man, and it does one thing: it cuts stone from a quarry face on one side of a valley in the [[place-nrdlndsrgn|Nordlands Region]], carries it across the valley, and lays it in a wall across the valley's throat. It was made to finish the wall, and it has not finished. It ignores travelers who keep away from its stones, and it fights whoever touches them. Like every dreadspawn it was made, it is alive, and it does not breed. Only one is known.
 
 ## Presentation
 
-The varmathurs is shaped like a man, but no man was the pattern for it: its arms are too long, reaching below its knees, its shoulders are a ridge of muscle higher than its head, and its head is small, bald and gray, with a heavy brow over eyes like wet slate. Its skin is thick, gray and creased like weathered rock, and lichen grows in the creases of its back. Its hands are broad as a cart and as hard as the stone they carry. It wears nothing but the dust of the quarry. It never speaks. When it sets a stone it presses it down with both hands and holds it a moment, as a mason does, before it lets go.
+The varmathurs is shaped like a man, but no man was the pattern for it: its arms are too long, reaching below its knees, its shoulders are a ridge of muscle higher than its head, and its head is small, bald and gray, with a heavy brow over eyes like wet slate. Its skin is thick, gray and creased like weathered rock, and lichen grows in the creases of its back. Its hands are broad as a shield and as hard as the stone they carry. It wears nothing but the dust of the quarry. It never speaks. When it sets a stone it presses it down with both hands and holds it a moment, as a mason does, before it lets go.
 
 ## In the Land
 
@@ -458,9 +458,10 @@ The farmers of the valley live with the varmathurs as they live with the weather
 
 ## Signs
 
-- A dry-stone wall across a valley's throat, its stones each as big as a cottage, laid without mortar.
+- A dry-stone wall across a valley's throat, its stones each as big as an ox cart, laid without mortar.
 - A quarry face with blocks broken out of it by hand, the marks of fingers in the stone.
-- A line of footprints each as long as a boat, worn into a track between a quarry and a wall.
+- Signs cut into the quarry face above the giant's reach, older than any farm in the valley.
+- A line of footprints each as long as a man is tall, worn into a track between a quarry and a wall.
 - Birches along that line broken off at the height of a man's head, as if brushed aside.
 - A faint shudder in the ground every few heartbeats, from dawn to dusk.
 
@@ -484,7 +485,7 @@ It hurls a block of cut stone at anyone out of reach on its wall or its quarry f
 
 ## Special Abilities
 
-### Hill-Tall
+### Giant Bulk
 
 Its size and strength are beyond anything ordinary weapons were made for. Spears and arrows go into it like thorns into a man.
 
@@ -525,12 +526,12 @@ Creativity
 Reasoning
 : 4-7 (1d4+3)
 
-## Hooks {#hooks}
+## Plot Hooks
 
-- **The road through the middle.** The gap in the middle of the wall has narrowed to a cart's width, and the valley's farmers and the traders who use the road want it kept open. They pay a party to find a way to stop the wall before it closes.
-- **Whose wall.** A chieftain from beyond the valley's head has begun to send men to watch the wall, and pays a party to find out who wanted the valley shut and why.
-- **A stone moved.** A boy has moved one of its stones on a dare, and the varmathurs has stopped its work and is standing over his family's farm. The family needs the stone put back or the giant moved on before nightfall.
-- **The quarry face.** Someone has cut signs into the quarry face where the giant breaks its stone, and a scholar wants a party to copy them without touching anything it has cut.
+1. **The road through the middle.** The gap in the middle of the wall has narrowed to a cart's width, and the valley's farmers and the traders who use the road want it kept open. They pay a party to find a way to stop the wall before it closes.
+2. **Whose wall.** A chieftain from beyond the valley's head has begun to send men to watch the wall, and pays a party to find out who wanted the valley shut and why.
+3. **A stone touched.** A boy laid his hand on one of its stones on a dare and ran, and the varmathurs has stopped its work and is standing over his family's farm. The family needs the giant moved on before nightfall.
+4. **The quarry face.** Signs older than any farm in the valley are cut into the quarry face above where the giant breaks its stone, and a scholar wants a party to copy them without touching anything it has cut.
 
 :::secret {title="What beats the varmathurs"}
 

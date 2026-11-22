@@ -445,7 +445,7 @@ Climbers who go into the north face for the lintel signs mark every junction the
 
 ## Combat Strategy
 
-A varmesh hagmen fights by charging, head down, along a passage too narrow to step aside in, and its weight drives everything in front of it back or under. It charges from a junction, at a party strung out along a passage, and pins the one in front against the wall. In close quarters it strikes with its heavy hands and gores and bites. In a passage its bulk is everything; in a wide chamber or in the open it is clumsy, slow to turn, and easier to strike.
+A varmesh hagmen fights by charging, head down, along a passage too narrow to step aside in, and its weight drives everything in front of it back or under. It charges from a junction, at a party strung out along a passage, and pins the one in front against the wall. In close quarters it strikes with its heavy hands and gores and bites. In a passage its bulk is everything.
 
 ## Attack Methods
 
@@ -500,12 +500,11 @@ Reasoning
 Creativity
 : 6-9 (1d4+5)
 
-## Hooks {#hooks}
+## Plot Hooks
 
-- **The climbers who went deeper.** A Tellumi house hired climbers to find a lintel sign in the north face, and two of them came back saying the passage was kept. The house wants the sign, and the climbers will not go back without a party in front of them.
-- **The wrong chalk.** A party finds its own chalk marks rubbed out and new ones made, pointing deeper, and must decide whether to trust its memory of the way out or the marks.
-- **A warren worth having.** Herders want the lower passages of a warren for winter shelter for their flocks, and pay for it to be cleared of whatever has been taking their goats.
-- **The other bones.** A scholar has seen a drawing of bones from the dead end of a kept warren, bones of no beast anyone knows, and wants a party to bring her one.
+1. **The climbers who went deeper.** A Tellumi house hired climbers to find a lintel sign in the north face, and two of them came back saying the passage was kept. The house wants the sign, and the climbers will not go back without a party in front of them.
+2. **The wrong chalk.** A party finds its own chalk marks rubbed out and new ones made, pointing deeper, and must decide whether to trust its memory of the way out or the marks.
+3. **A warren worth having.** Herders want the lower passages of a warren for winter shelter for their flocks, and pay for it to be cleared of whatever has been taking their goats.
 
 :::secret {title="What beats a varmesh hagmen"}
 
@@ -519,6 +518,7 @@ Creativity
 
 - **The deep chamber.** It lairs in the deepest chamber of its warren, on a bed of straw and hides carried in from dead mules. What the climbers it killed carried, lamps, tools, rope, coin and the rubbings they made of lintel signs, is heaped there.
 - **The other dead.** In the dead ends of its warren lie bones of things that are not mules or men: other made creatures, of shapes nobody knows, that it killed or that died there. Whoever made it made them too, and a warren cleared of its keeper is a place to learn what else was made.
+- **The other bones.** A scholar has seen a drawing of bones from the dead end of a kept warren, bones of no beast anyone knows, and wants a party to bring her one.
 
 :::
 
@@ -529,6 +529,9 @@ Creativity
 
 [[place-graznmntns|The Grazian Mountains]]
 : the range whose north face holds its passages
+
+[[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]]
+: the cut passages of the north face
 
 [[lore-khazrynclt|Tellumi]]
 : the people of the belt below the north face

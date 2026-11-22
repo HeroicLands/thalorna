@@ -24,6 +24,7 @@ Wherever the dead are studied—by scholars, priests, physicians and arcanists, 
 
 - **[[being-tereb|Tereb]]** ("TEH-reb"; plural _terebu_), from the root _t-r-b_, to wear, to cloak: _the cloaked one_. The sentient, self-directed and relatively powerful undead, which wears its former self as a garment and can pass for a living person for a short time and not too closely. The cloak frays under close eyes and long company, because nothing wears it from inside but the will. See [[being-tereb|Tereb]].
 - **[[being-damut|Damut]]** ("dah-MOOT"; plural _damutu_), from the root _d-m-t_, to drive, to goad: _the driven one_. The mindless undead. Nothing in it moves itself; it goes as it is driven, by the one who raised it or by the last hunger left in the meat. No will, so no cloak, so it cannot pass for anything. See [[being-damut|Damut]].
+- **[[being-bonesentry|Tharelar]]** ("tha-REH-lar"), from _tharel_, to stand: _the one who stands_. One kind of damut: a skeleton set at a door and bound to keep it by a mark cut into its bone. The learned world uses the temple form unchanged. See [[being-bonesentry|Tharelar]].
 
 The pairing is the lesson in two words: the one that _wears_, the one that is _driven_.
 

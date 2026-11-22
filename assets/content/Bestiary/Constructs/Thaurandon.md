@@ -76,7 +76,7 @@ The shrine is a single room at the top of seven steps, open at the front, with a
 
 # Dossier {#dossier}
 
-**Thaurandon** (the Threshold Statue) is a construct, a stone figure worked into motion by a mage and set on the step of a shrine to keep it, named in the [[skill-vylarilng|Vilari Language]] from _thaurathen_, to keep, to guard, with the ending _-andon_ of a thing made: _the made keeper_. It stands still as any statue until the rule its maker set is broken, and then it strikes. The rule is short and plain: nothing leaves the shrine, or nobody enters armed, or nobody passes the step after dark. It strikes only within the reach of its plinth and does not step down from it. Like every construct it has no will and no mind, and it does what it was told, in the words it was told, for as long as the working holds. It is met at shrines and temples across the [[place-vylariargn|Viléria Region]], where shrines that keep offerings of value are many, and mages who can work stone are to be had for a price.
+**Thaurandon** (the Threshold Statue) is a construct, a stone figure worked into motion by a mage and set on the step of a shrine to keep it, named for its office with the [[skill-vylarilng|Vilari Language]] word _thaurandon_, keeping, guarding, from _thaurathen_, to keep: _the keeping_. It stands still as any statue until the rule its maker set is broken, and then it strikes. The rule is short and plain: nothing leaves the shrine, or nobody enters armed, or nobody passes the step after dark. It strikes only within the reach of its plinth and does not step down from it. Like every construct it has no will and no mind, and it does what it was told, in the words it was told, for as long as the working holds. It is met at shrines and temples across the [[place-vylariargn|Viléria Region]], where shrines that keep offerings of value are many, and mages who can work stone are to be had for a price.
 
 ## Presentation
 
@@ -104,7 +104,7 @@ The keeper of a shrine with a thaurandon holds the word, and the shrine's priest
 
 ## Combat Strategy
 
-A thaurandon strikes whoever broke its rule, as hard as it can, with whatever its carving holds, a staff, a sword, a fist, and keeps striking until he is down or out of its reach. It does not defend itself, does not dodge, and does not care about its wounds. It cannot step off its plinth, so anyone outside its reach is safe, and a thief who gets past it with the offering is not followed. Stone turns most weapons; the seal on its brow and the signs cut into it hold the working together.
+A thaurandon strikes whoever broke its rule, as hard as it can, with whatever its carving holds, a staff, a sword, a fist, and keeps striking until he is down or out of its reach. It does not defend itself, does not dodge, and does not care about its wounds. It cannot step off its plinth, so anyone outside its reach is safe, and a thief who gets past it with the offering is not followed.
 
 ## Attack Methods
 
@@ -137,12 +137,12 @@ Agility
 Perception
 : 14-19 (1d6+13)
 
-## Hooks {#hooks}
+## Plot Hooks
 
-- **The keeper is dying.** The only priest who knows a shrine's word is dying without having passed it on, and the shrine's offerings, a great house's votive silver among them, are about to be locked in for good. The house hires a party to get the word, or the silver, before the priest dies.
-- **The cup that got away.** A thief took a silver cup from a shrine past a thaurandon and lived, and now the shrine's priests want to know how, before others learn it.
-- **Armed pilgrims.** A lord's escort refuses to leave its weapons at the foot of a shrine's steps, and the lord insists on making his offering in person. The keeper asks a party to keep the peace.
-- **A shrine nobody tends.** A shrine on an old road has been abandoned for a generation, and its offering ledge is heaped with coin and silver behind a statue nobody has dared to pass.
+1. **The keeper is dying.** The only priest who knows a shrine's word is dying without having passed it on, and the shrine's offerings, a great house's votive silver among them, are about to be locked in for good. The house hires a party to get the word, or the silver, before the priest dies.
+2. **The cup that got away.** A thief took a silver cup from a shrine past a thaurandon and lived, and now the shrine's priests want to know how, before others learn it.
+3. **Armed pilgrims.** A lord's escort refuses to leave its weapons at the foot of a shrine's steps, and the lord insists on making his offering in person. The keeper asks a party to keep the peace.
+4. **A shrine nobody tends.** A shrine on an old road has been abandoned for a generation, and its offering ledge is heaped with coin and silver behind a statue nobody has dared to pass.
 
 :::secret {title="How a thaurandon is passed or stopped"}
 
