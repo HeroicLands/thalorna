@@ -3,7 +3,7 @@ shortcode: tradefactor
 name: {full: Trade-House Factor}
 type: being
 subType: npc
-description: "A factor of a Bethuan Trade-House who works the quay."
+description: "A factor of a Bethuan Trade-House who works the quay or travels with the House's caravans."
 tags: []
 data:
   icon: icon-person
@@ -396,7 +396,7 @@ The factor works the quay in a silk shirt and serge trousers with a coin balance
 
 # Dossier {#dossier}
 
-A Trade-House Factor buys and sells for a Great House of [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] on the quay at [[place-bethura|Bethura]] and quotes grain and credit to every foreign trader off the ships.
+A Trade-House Factor buys and sells for a Great House of [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] on the quay at [[place-bethura|Bethura]] and quotes grain and credit to every foreign trader off the ships, or goes with the House's caravans to sell where the ships do not reach.
 
 ## Background
 
@@ -431,3 +431,4 @@ The factor answers to the matriarch of the House and works beside the factors of
 1. [[scenario-hrvstcntdtwc|A Harvest Counted Twice]]: each factor is sure the sale is coming and quotes the grain at a firmer price each month.
 2. [[scenario-grnpstthln|The Green Past the Line]]: a factor rides out to look over a crop the House has bought standing, above a village whose line has run dry.
 3. **Paper three ports along.** A rival House refuses to honor the factor's letter of credit, and the factor wants a party to carry the paper to a Great House that takes it.
+4. [[scenario-nxtwllst|The Next Well East]]: a factor takes a House's grain and cloth east by the Marches Road, wants an escort past the eastern stages and would rather not pay the Jackals for it twice.

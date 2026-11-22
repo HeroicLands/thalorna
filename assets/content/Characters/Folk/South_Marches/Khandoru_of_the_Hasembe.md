@@ -79,3 +79,4 @@ He is short of riders this season, and everyone at the eastern wells knows it.
 1. **The unescorted caravan.** A caravan master stands at the eastern wells with no riders, and Khandoru will name a price for a party that takes the contract and brings the caravan to the next well whole.
 2. **The young rider's coin.** A young horseman has come home from the Jackals' pay with more coin than a season's riding should earn, and Khandoru wants to know who is paying his riders to leave.
 3. **Riders for the drive.** He needs a captain who will lend him horsemen for the autumn, and he will pay in the right to water at [[place-longwells|The Long Wells]].
+4. [[scenario-nxtwllst|The Next Well East]]: he offers a party the escort of a Bethuan caravan past the eastern stages before the Jackals sell it one, and lends it two riders.

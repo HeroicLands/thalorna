@@ -427,6 +427,7 @@ He answers to the company that hired him and to the Hirer of Riders of his tribe
 ## Plot Hooks
 
 1. **The hire.** The Hasembe hire riders by the drive, and a stranger who wants a rider's account of a stage asks at [[place-hasembecamp|Hasembe Camp]].
+2. [[scenario-nxtwllst|The Next Well East]]: two riders are lent to a caravan's escort at Hasembe Camp, and a dozen more ride east with a Jackal riding-party.
 
 :::secret {title="The drive east"}
 **For the GM:** He was hired at a western stage to drive stock east, and he has been paid ahead. He has no love for the Houseless and says who rode out that night and who stayed home when he is paid or protected.

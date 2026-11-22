@@ -51,3 +51,4 @@ Most towers are reduced to a wall-stump and a stair. The best-preserved forts ke
 - [[affiliation-jcklsthmrchs|The Jackals of the South Marches]]—the company that holds the western stages
 - [[place-sthmrchsrgn|The South Marches]] · [[affiliation-okharis|Okharis]]
 - [[scenario-trbtftrdrv|The Tribute After the Drive]]—a scenario: the Marches' tribute is late, and a company holds the western stages of the road
+- [[scenario-nxtwllst|The Next Well East]]—a scenario: a Bethuan caravan needs an escort past the eastern stages before the Jackals sell it one

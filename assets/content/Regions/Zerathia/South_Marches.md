@@ -189,3 +189,6 @@ The strain falls first on [[place-marchesroad|the Marches Road]]. The [[affiliat
 
 [[doc-sthmrchsadvguide|South Marches Adventurer's Guide]]
 : a player's introduction to the Marches
+
+[[scenario-nxtwllst|The Next Well East]]
+: a scenario: a Bethuan caravan at Hasembe Camp needs an escort past the eastern stages before the Jackals sell it one
