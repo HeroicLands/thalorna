@@ -126,7 +126,7 @@ Power sits in three places. The Emperor and his household hold the ritual center
 
 ## The Capital and the Provinces {#holdings}
 
-The Emperor reigns from [[place-zhowen|Zhowen]], the capital, and holds the central river basins around it through his own officers. Its Governor keeps the city for the throne, and the Speaker carries every question put to the Emperor by anyone but his attendants and the Princes, whispering it to him and speaking his answer aloud. The rest of the empire is four provinces, each held by a Prince from a seat of his own:
+The Emperor reigns from [[place-zhowen|Zhowen]], the capital, and holds the central river basins around it through his own officers. Its Governor keeps the city for the throne, and the Speaker carries every question put to the Emperor by anyone but his attendants and the Princes, hearing it in a gate-court outside the wall of the Emperor's enclave, whispering it to him and speaking his answer aloud. The rest of the empire is four provinces, each held by a Prince from a seat of his own:
 
 [[affiliation-wongsenprv|Wongsen Province]]
 : the delta of the great rivers and the eastern and southern coasts, about 34 million people, ruled from the port city of [[place-wongsen|Wongsen]]

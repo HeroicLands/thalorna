@@ -5124,6 +5124,8 @@ data:
     - {name: Attainted, tongue: translation}
     - {name: Black Lotus Society, tongue: translation}
     - {name: Bookkeeper, tongue: translation}
+    - {name: Bwidou, tongue: tanvuri, built: [bwi, dou]}
+    - {name: Bwidou Bridge, tongue: translation}
     - {name: Cadet Branch, tongue: translation}
     - {name: Calendar and Astrology, tongue: translation}
     - {name: Candidate, tongue: translation}
@@ -5213,6 +5215,8 @@ data:
     - {name: Iron Spear Piercing the Clouds, tongue: translation}
     - {name: Jade Fan Dance, tongue: translation}
     - {name: Jenshou, tongue: tanvuri, built: [jen, shou]}
+    - {name: Jingdou, tongue: tanvuri, built: [jing, dou]}
+    - {name: Jingdou Bridge, tongue: translation}
     - {name: Keeper of Leverage, tongue: translation}
     - {name: Keeper of the District Granaries, tongue: translation}
     - {name: Keeper of the Forms, tongue: translation}
@@ -5323,6 +5327,8 @@ data:
     - {name: Teng Chou, tongue: tanvuri, built: [teng, chou]}
     - {name: Teng Chou Script, tongue: translation}
     - {name: Teng Gwi, tongue: tanvuri, built: [teng, gwi]}
+    - {name: Tengshou, tongue: tanvuri, built: [teng, shou]}
+    - {name: Tengshou River, tongue: translation}
     - {name: Tengwou Rong Lei, tongue: tanvuri, built: [teng, wou, rong, lei]}
     - {name: The Archive of All Records, tongue: translation}
     - {name: The Black Lotus, tongue: translation}
