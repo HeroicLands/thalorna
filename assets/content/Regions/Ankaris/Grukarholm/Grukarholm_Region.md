@@ -93,6 +93,7 @@ That knowledge does not keep. Nests appear and die: a tribe that outgrows its gr
 The nests known as the setting stands:
 
 - The nests of [[place-skathengrund|Skathengrund]], the Drowned Country, the marsh at the center of the region. They are scattered through it and reached by canoe, by cause-walks of sunken logs, or by paths no outsider can see.
+- [[place-dunkelwern|Dunkelwern]], the nest on a lake of black water in the heart of Skathengrund, beyond the end of any cause-walk, where the fur hunters of the margin see reed smoke rise.
 - [[place-skathak|Skathak]], the nest at the far end of [[place-grimhreth|Grimhreth]], a cause-walk of sunken logs that this nest lays from the forest of [[place-skathwald|Skathwald]] into the marsh.
 - [[place-lervobor|Lervobor]], the nests upstream of [[place-zvekbregad|Zvek Bregad]], whose raiding canoes come down the rivers to that landing in summer. The landing itself is a Velanthian bank.
 - [[place-grimak|Grimak]], the blood-field in Skathwald's marsh, where the Skathwald villages burned a nest with its spawner in it, and [[place-thraholt|Thraholt]], where a new tribe is budding at the thicket's edge. Grimak is what a dead nest leaves, and the budding nest is where a new one stands.
