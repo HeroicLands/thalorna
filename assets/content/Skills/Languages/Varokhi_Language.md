@@ -5174,6 +5174,7 @@ data:
   tongues: [{tag: varokhi, meaning: "a Varokhi name", language: skill-varokhlng}]
   register:
     - {name: Dunkelwald, kind: place, built: [dunkel-, -wald], gloss: the dark wood}
+    - {name: Dunkelwern, kind: place, built: [dunkel-, -wern], gloss: the dark lake}
     - {name: Edrak, kind: place, built: [edr-, -ak], gloss: the thicket at the bound}
     - {name: Eichengrund, kind: place, built: [eich-, -en-, -grund], gloss: the oaks' bottom land}
     - {name: Falkenstein, kind: place, built: [falk-, -en-, -stein], gloss: the falcons' crag}
