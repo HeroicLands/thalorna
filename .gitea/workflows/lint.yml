@@ -59,7 +59,7 @@ jobs:
                   fetch-depth: 0
 
             - name: Check canonical git hooks
-              uses: HeroicLands/.github/actions/githooks@5a31ee2627a7b464710f0942dbfb4c19a4f90f94 # main
+              uses: HeroicLands/.github/actions/githooks@37b1fa7cb6eb63fe6e54531e66a4d0ca61094442 # main
 
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7

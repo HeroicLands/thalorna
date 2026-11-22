@@ -76,7 +76,7 @@ jobs:
         permissions:
             contents: write
             actions: read
-        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@37b1fa7cb6eb63fe6e54531e66a4d0ca61094442 # main
         with:
             trusted-ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
             operation: reopen
@@ -94,7 +94,7 @@ jobs:
         concurrency:
             group: ${{ github.repository }}-pr-preview-build-${{ needs.controller.outputs.pr-number }}
             cancel-in-progress: true
-        uses: HeroicLands/.github/.gitea/workflows/build-internal-preview.yml@ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
+        uses: HeroicLands/.github/.gitea/workflows/build-internal-preview.yml@37b1fa7cb6eb63fe6e54531e66a4d0ca61094442 # main
         permissions:
             contents: read
         with:
@@ -113,7 +113,7 @@ jobs:
         permissions:
             contents: write
             actions: read
-        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@37b1fa7cb6eb63fe6e54531e66a4d0ca61094442 # main
         with:
             trusted-ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
             operation: publish
@@ -132,7 +132,7 @@ jobs:
         permissions:
             contents: write
             actions: read
-        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
+        uses: HeroicLands/.github/.gitea/workflows/deploy-internal-preview.yml@37b1fa7cb6eb63fe6e54531e66a4d0ca61094442 # main
         with:
             trusted-ref: ff345f6c8e0f56de582860d1f8c78d31801ef0d1 # main
             operation: cleanup
