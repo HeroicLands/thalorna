@@ -28,3 +28,6 @@ Ravenswood lies along the eastern trade routes of [[place-byzariargn|Bizaria]], 
 
 [[place-byzariargn|Bizaria]]
 : the region whose trade routes run past it
+
+[[scenario-vldrscrvn|The Valdris Caravan]]
+: the adventure of the shipment that vanished in the wood
