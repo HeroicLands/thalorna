@@ -513,7 +513,7 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-Merchant [House Valdris]{.name data-type="affiliation/lineage"}
+Merchant [House Valdris]{.name data-type="affiliation/venture"}
 : One of the Bizarian League's most prominent trading families; they have exclusively employed Órashkar for their most valuable shipments for over twenty years and would accept no substitute.
 
 Master Cook [Ilenna]{.name data-type="being/npc"}
