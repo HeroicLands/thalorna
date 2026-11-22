@@ -12,7 +12,7 @@ data:
   occupation: Fur Hunter
   lore: []
   culture: varokhiclt
-  homes: [mahnryth, grimhreth]
+  homes: [mahnryth]
   affiliations: {vrystwldtrbs: {rank: 3}}
   gender: male
   species: humanflk
@@ -34,7 +34,7 @@ data:
     brow: bushy
     mouth: thin
     extra_features: []
-  packFolder: ankarisgrukarholm
+  packFolder: ankarisvrystwald
   items:
     - {key: lbw100, model: weapongear-lbw100, kind: weapon}
     - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 20}}

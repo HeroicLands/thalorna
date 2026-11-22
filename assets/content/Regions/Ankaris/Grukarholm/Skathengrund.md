@@ -21,7 +21,7 @@ The Varokh of [[place-skathwald|Skathwald]] call the marshlands of the Grukar co
 
 The marsh is passable on foot only when it freezes in deep winter or in a few weeks of dry summer; otherwise it is roadless. The slow brown rivers of the Grukar country rise in it and wind out toward the grain country of [[place-velanthrgn|Velanthia Region]].
 
-The nests inside are reached by canoe, by cause-walks of sunken logs such as [[place-grimhreth|Grimhreth]], or by paths no outsider can see.
+The nests inside are reached by canoe, by cause-walks of sunken logs such as [[place-grimhreth|Grimhreth]], or by paths no outsider can see. The nests are the marsh's sites. A hunter of the margin or a warden of the forts can name the ones known now, and many more are known to nobody. Nests appear and die: a nest a party is told of may be gone, and a new one may stand where none was.
 
 ## Who Uses It
 
@@ -29,7 +29,7 @@ The Grukar forage here as hunters, trappers and fishers. Fur hunters work its ma
 
 ## Dangers
 
-No neighbor contests the ground. A party that enters meets Grukar who do not trade, treat or ransom: a person taken is eaten. A party caught on a cause-walk by the thaw has nowhere to go. A [[being-ncrtcmr|Necrotic Mire]] moves through the marsh, and the nests move away from its track. In Skathwald's marsh the thicket at [[place-grimak|Grimak]] is a blood-field of the silence, and [[lore-bloodfield|Blood-fields]] says what that is.
+No neighbor contests the ground. A party that enters meets Grukar who do not trade, treat or ransom: a person taken is eaten. A party caught on a cause-walk by the thaw has nowhere to go. A [[being-ncrtcmr|Necrotic Mire]] moves through the marsh, and the nests keep off its track. In Skathwald's marsh the thicket at [[place-grimak|Grimak]] is a blood-field of the silence, and [[lore-bloodfield|Blood-fields]] says what that is.
 
 ## Converging Interests {#present}
 
@@ -39,6 +39,8 @@ Nobody holds the marsh, and everyone who borders it pays for that. The Varokh vi
 
 - The Necrotic Mire has crossed the cause-walk that a fur hunter meant to use, and the walk stays closed to the nests for a season.
 - A river-trader asks at a landing where the Necrotic Mire was last seen, and the answer decides whether he goes in.
+- A nest nobody knew of has been raiding the margin, and finding it in the marsh is the first half of stamping it out.
+- A nest a hunter remembers has died, and what it left behind lies in the marsh for whoever reaches it first.
 
 ## See Also {#see-also}
 
@@ -65,3 +67,6 @@ Nobody holds the marsh, and everyone who borders it pays for that. The Varokh vi
 
 [[lore-grukarfolk|Grukar Folk]]
 : the people of the nests
+
+[[scenario-lstcgrmhrth|The Last Ice at Grimhreth]]
+: a scenario: a step on the logs at Hildholt, and a fur hunter who needs carriers before the thaw

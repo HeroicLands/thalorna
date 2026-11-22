@@ -50,3 +50,6 @@ Both the grain and the silver come late, and the garrison is owed several months
 
 [[place-grkrhlmrgn|Grukarholm Region]]
 : the country its forts face
+
+[[scenario-rlftrvgr|The Relief of Torvogor]]
+: a scenario: the quarter's silver comes up late to the fort in the season of the raiding canoes

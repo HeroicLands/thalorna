@@ -8,18 +8,18 @@ tags: [feature, river, landing, frontier]
 data:
   demonym: null
   lore: [grukarfolk]
-  parents: [grkrhlmrgn]
+  parents: [velanthrgn, grkrhlmrgn]
   population: 0
-  packFolder: grukarholm
+  packFolder: velanthia
 ---
 
 ## Overview {#overview}
 
-**Zvek Bregad**, the bell landing, is the name the river-folk of [[place-velanthrgn|Velanthia Region]] give a bank where the slow brown rivers of [[place-grkrhlmrgn|Grukarholm Region]] open toward their grain country; the bell is the one that hangs over it. A Velanthian landing is where boats take on cargo; this one is where raiding parties come ashore, in summer, in war-canoes.
+**Zvek Bregad**, the bell landing, is the name the river-folk of [[place-velanthrgn|Velanthia Region]] give a bank where the slow brown rivers of [[place-grkrhlmrgn|Grukarholm Region]] open toward their grain country; the bell is the one that hangs over it. A Velanthian landing is where boats take on cargo; this one is where raiding parties come ashore, in summer, in war-canoes. The bank is Velanthian ground in the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]], in the northwestern reaches that the Grukar country overlies.
 
 ## The Land
 
-The landing is a low bank on a slow river with the forest behind it and the marsh upstream. Canoes come down from the nests and have no cover from the bank.
+The landing is a low bank on a slow river with the forest behind it and the marsh upstream. Canoes come down from the nests upstream and have no cover from the bank. Which nests send them is not known at the fort; nests appear and die, and the canoes of one summer need not come from the nest of the last.
 
 ## Who Uses It
 
@@ -53,4 +53,10 @@ The landing lies some hours' travel from the fort that watches it, and the bell 
 : the healer who tends its wounded
 
 [[place-grkrhlmrgn|Grukarholm Region]]
-: the country it lies in
+: the Grukar country the rivers come out of
+
+[[place-velanthrgn|Velanthia Region]]
+: the land the bank belongs to
+
+[[scenario-rlftrvgr|The Relief of Torvogor]]
+: a scenario: the quarter's silver comes up late to Torvogor Fort in the season of the raiding canoes

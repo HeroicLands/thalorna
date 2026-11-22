@@ -12,7 +12,7 @@ data:
   occupation: Scout
   lore: []
   culture: velanthclt
-  homes: [sdrvdfrt, skathengrund]
+  homes: [sdrvdfrt]
   affiliations: {hsttrvl: {rank: 2}}
   socialTies: {being-vlkrkdgrch: patron}
   gender: male
@@ -34,7 +34,7 @@ data:
     brow: thin
     mouth: wide
     extra_features: []
-  packFolder: ankarisgrukarholm
+  packFolder: ankarisvelanthia
   items:
     - {key: cbw80, model: weapongear-cbw80, kind: weapon}
     - {key: arwstd, model: projectilegear-arwstd, kind: projectile, system: {quantity: 20}}

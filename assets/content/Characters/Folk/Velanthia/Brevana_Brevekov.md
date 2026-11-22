@@ -33,7 +33,7 @@ data:
     brow: straight
     mouth: wide
     extra_features: []
-  packFolder: ankarisgrukarholm
+  packFolder: ankarisvelanthia
   items:
     - {key: kni, model: weapongear-kni, kind: weapon}
     - {key: hsdress, model: armorgear-hsdress, kind: clothing}

@@ -8,7 +8,7 @@ tags: [site, marsh, blood-field]
 data:
   demonym: null
   lore: [varokhiclt, bloodfield]
-  parents: [skathwald]
+  parents: [skathwald, grkrhlmrgn]
   population: 0
   packFolder: vrystwald
 ---

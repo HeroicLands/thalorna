@@ -12,7 +12,7 @@ data:
   occupation: River-Trader
   lore: []
   culture: velanthclt
-  homes: [trvgrfrt, skathengrund]
+  homes: [trvgrfrt]
   affiliations: {}
   gender: female
   species: humanflk
@@ -33,7 +33,7 @@ data:
     brow: arched
     mouth: full
     extra_features: []
-  packFolder: ankarisgrukarholm
+  packFolder: ankarisvelanthia
   items:
     - {key: stf, model: weapongear-stf, kind: weapon}
     - {key: kni, model: weapongear-kni, kind: weapon}

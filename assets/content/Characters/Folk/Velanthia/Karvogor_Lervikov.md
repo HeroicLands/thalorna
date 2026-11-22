@@ -12,7 +12,7 @@ data:
   occupation: Warden of Torvogor Fort
   lore: []
   culture: velanthclt
-  homes: [trvgrfrt, zvekbregad]
+  homes: [trvgrfrt]
   affiliations: {prncdmbrvvsh: {rank: 3, office: Warden of a Fort}}
   socialTies: {being-vrklrvgrch: patron}
   gender: male
@@ -35,7 +35,7 @@ data:
     brow: heavy
     mouth: thin
     extra_features: [a scar across the left cheek]
-  packFolder: ankarisgrukarholm
+  packFolder: ankarisvelanthia
   items:
     - {key: spr, model: weapongear-spr, kind: weapon}
     - {key: shrtswd, model: weapongear-shrtswd, kind: weapon}

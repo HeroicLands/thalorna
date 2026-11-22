@@ -13,6 +13,9 @@ rowMaxWords: 200
 # place notes that make it up. A note is in a land when a parent branch, a
 # being's home, or an affiliation's seat or seatless range reaches one. The
 # nearest along each branch counts. A note in no land is only ever reported.
+# The coverage guard also counts a being in every land of a scenario whose
+# `data.cast` names it, so a land whose people live elsewhere, such as
+# grukarholm, counts the beings its scenarios cast.
 lands:
     midhalion: [midhalnrgn, vylariargn, taruzelrgn]
     khazryn: [khzryndsrtrgn]
@@ -55,13 +58,12 @@ archetypes:
 archetypeAbsences:
     grukarholm:
         infiltrator: "The Grukar cannot be infiltrated, since no one bargains with a nest, and the human side has no court or house to spy on."
-        mage: "No human practitioner lives inside the country; the only magic there is the dreadspawn's, and the Skathwald shamans keep to their villages."
+        mage: "No practitioner is cast in a Grukarholm scenario; the only magic of the region itself is the dreadspawn's, and the Skathwald shamans belong to Vristwald's villages and are counted there."
         cleric: "No shrine or priest stands in the country; the forts' garrisons bury their dead at the small house of the Faith at Brevavesh."
         scholar: "The country has no school, archive or letters; the Grukar keep no records and the human side is forts and villages."
         courtier: "No court holds the country; the princes' courts are in Velanthia's river towns."
-        artisan: "The Grukar make no goods for exchange and the forts' smiths and tanners live in Velanthia's towns."
-        healer: "No healer lives inside the country; the healer of the village beneath Torvogor Fort lives in Velanthia and comes down to the landing after a raid."
-        commoner: "No household lives inside the country, whose people are wardens, riders, hunters and traders; the villages stand on the Velanthian and Skathwald sides."
+        artisan: "No artisan is cast in a Grukarholm scenario; the Grukar make no goods for exchange, and the smiths and tanners of the forts and villages within the region belong to Velanthia and Vristwald and are counted there."
+        commoner: "No commoner is cast in a Grukarholm scenario; the villages inside the region belong to Velanthia and Vristwald and are counted there."
         entertainer: "The frontier has no audience; a singer or storyteller would be a guest in a Velanthian or Skathwald village."
         guildsperson: "No house or guild keeps an agent inside the country, where only pelts and the river-trader's salt and iron change hands."
 

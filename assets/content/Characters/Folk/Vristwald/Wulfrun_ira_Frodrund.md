@@ -33,7 +33,7 @@ data:
     brow: thin
     mouth: small
     extra_features: [a burn scar on the right hand]
-  packFolder: ankarisgrukarholm
+  packFolder: ankarisvrystwald
   items:
     - {key: hcht, model: weapongear-hcht, kind: weapon}
     - {key: slng, model: weapongear-slng, kind: weapon}
@@ -87,7 +87,7 @@ She hears a footfall on a log at three hundred paces, and the elders take her wa
 
 ### Weaknesses
 
-She does not sleep, and a raider's name makes her hands shake.
+She does not sleep, and the word Grukar makes her hands shake.
 
 ## Social
 

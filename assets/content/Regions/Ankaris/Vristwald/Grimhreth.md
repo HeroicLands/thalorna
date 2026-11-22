@@ -8,16 +8,18 @@ tags: [feature, marsh, ford]
 data:
   demonym: null
   lore: [grukarfolk]
-  parents: [grkrhlmrgn]
+  parents: [skathwald, grkrhlmrgn]
   population: 0
-  packFolder: grukarholm
+  packFolder: vrystwald
 ---
 
 ## Overview {#overview}
 
 **Grimhreth**, the fierce ford, is the Varokh name for a cause-walk that crosses the edge of [[place-skathengrund|Skathengrund]], the Drowned Country, from the forest of [[place-skathwald|Skathwald]]. Logs are laid in the mud and sink until they bear a footing under the black water, and a walker who keeps to them crosses ground that cannot be crossed at all off them. The Varokh call it a ford because a walker crosses the marsh edge on it as at a ford.
 
-The walk is one nest's own path to its longhouses. That nest lays the logs and lays them again as they sink. The Grukar have no structure beyond their nests, so no other nest shares the path or keeps it, and no Varokh or Velanthian builder has a hand in it.
+The walk is one nest's own path to its longhouses. That nest lays the logs and lays them again as they sink. The Grukar have no structure beyond their nests, so no other nest shares the path or keeps it, and no Varokh or Velanthian builder has a hand in it. The walk begins in Skathwald, the eastern reach of [[place-vrystwald|Vristwald]], and runs into the Grukar country of [[place-grkrhlmrgn|Grukarholm Region]], which overlies that reach; it belongs to the nest that keeps it and to no village.
+
+The Skathwald villages know of a nest at the far end of the walk. Nests appear and die, so what a local says of it can be out of date: the nest may be gone, or another may stand nearer.
 
 ## The Land
 
@@ -33,12 +35,13 @@ A person on the walk is on a line the nest knows and an outsider does not. Nothi
 
 ## Converging Interests {#present}
 
-The Skathwald villages spend on their walls and stand their watches whether or not raiders have come and cannot block the walk for long, because the nest that keeps it lays logs again easily. A raiding party that leaves the walk comes out into village country with only the villages' watch between it and the nearest door.
+The Skathwald villages spend on their walls and stand their watches whether or not raiders have come and cannot block the walk for long, because the nest that keeps it lays logs again easily. A raiding party that leaves the walk comes out into village country with only the villages' watch between it and the nearest door. The villages want the nest at the walk's end burned, as they burned the nest at [[place-grimak|Grimak]], and burning it means a muster willing to go out along the walk itself.
 
 ## Hooks {#hooks}
 
 - A fur hunter must be across the walk before the thaw closes it, and no village on the margin has a stopping place to give him.
 - A Skathwald village pulls the logs out of the walk, and the nest that keeps it lays them again.
+- The Skathwald villages want the nest at the end of the walk burned, as they burned the nest at Grimak, and the walk is the one way to it that does not wait for the ice.
 
 ## See Also {#see-also}
 
@@ -55,4 +58,10 @@ The Skathwald villages spend on their walls and stand their watches whether or n
 : the Varokh reach it leaves
 
 [[place-grkrhlmrgn|Grukarholm Region]]
-: the country it lies in
+: the Grukar country the walk runs into
+
+[[place-grimak|Grimak]]
+: a nest the Skathwald villages burned
+
+[[scenario-lstcgrmhrth|The Last Ice at Grimhreth]]
+: a scenario: a step on the logs at Hildholt, and a fur hunter who needs carriers before the thaw
