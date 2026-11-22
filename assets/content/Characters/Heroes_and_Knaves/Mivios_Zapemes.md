@@ -3,6 +3,7 @@ shortcode: drknsdlsns
 name: {full: Mivios Zapemes, given: Mivios, clan: Zapemes}
 type: being
 subType: character
+description: "A taciturn trapper of Karvashion from a frontier family of hunters who is hired to eliminate predators that threaten livestock and hunting preserves."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -532,17 +533,19 @@ None (works only on his own account).
 
 ## Plot Hooks
 
-The Impossible Predator
-: Mivios is contracted to hunt a creature that local authorities describe as a massive wolf or perhaps a cursed bear. Investigation reveals that the creature is neither—it is something else entirely, something that moves with intelligence that seems almost human and shows a cunning no animal should have. The tracks suggest it is learning, adapting to Mivios's methods as he applies them. As the pursuit continues, Mivios becomes convinced that the creature is not a natural animal at all but something worse—a being from the wildlands that operates by rules he does not yet understand.
+A Den to Be Cleared Entire
+: Mivios is contracted to eliminate a large predator and, having killed it, finds it was guarding young. The contract calls for total elimination, and he cannot bring himself to kill the young; if he smuggles them to safety he breaks the contract and makes a vendetta of his client.
 
-The Hunted Hunter
-: Mivios discovers that he himself has become a target for a contract killing, hired by an enemy from his past (possibly related to the great bear and the mark it left on him). The irony is bitter: the greatest tracker now being tracked. The hunter becomes the hunted as Mivios must use his entire arsenal of wilderness skills to identify who has contracted his death and why. The investigation leads him into circumstances he would ordinarily avoid entirely—cities, courts, political intrigue—where his native skills are far less effective.
+Warden Tevik's Warrant
+: Provincial Warden Tevik, who enforces the game laws, has made Mivios's arrest a personal mission, and Lord Belzurion Vughash, who contracts Mivios to protect his herds, is among those who would be embarrassed by it. Mivios must decide whether to keep working on the lord's land or go into the wilds out of the warden's reach.
 
-The Beast's Offspring
-: Mivios is hired to eliminate a large predator, but upon killing it, discovers it is protecting offspring—multiple juvenile creatures of the same species. The contract specified total elimination, but Mivios finds himself unable to slaughter young animals who are not themselves threats. He attempts to smuggle them to safety, violating his contract and creating a vendetta from the client while simultaneously attracting attention from others who would study or capture the creatures themselves.
+Pazhurikos Names His Grievance
+: Merchant-Lord Pazhurikos Plekolidek, whose hunting party was decimated by a great predator, blames Mivios for not eliminating the beast beforehand and has sworn a vendetta. A contract that carries Mivios onto the merchant-lord's land puts him within the vendetta's reach. Mivios can turn the contract down, or take it and cross the merchant-lord's land.
 
-The Conservation Revelation
-: **Brother Lifizin** brings Mivios evidence suggesting that the dying of the Bizarian League's wilderness regions is not the result of too many predators but of systematic poaching and the clearing of wild land by a syndicate of wealthy merchants. The monk asks Mivios to help investigate and expose this conspiracy, a task that would require him to engage in civilized methods—documentation, political maneuvering, public revelation—that are entirely contrary to his nature. Yet the alternative is watching the wilderness he reveres destroyed through human greed.
+Evidence from Brother Lifizin
+: Brother Lifizin Kregokhash brings Mivios evidence that the League's wilderness is dying of systematic poaching and land clearing by a syndicate of wealthy merchants, and asks him to help expose it. Documents, politics and public revelation are everything Mivios's nature resists.
 
-The Great Bear's Return
-: Mivios is hired to investigate sightings of a great bear matching the description of the beast that scarred him seventeen years ago—sightings that should be impossible, as he killed that creature himself, watched it die. Investigation suggests either the original bear somehow survived, or its offspring has inherited its size and power along with its intelligence and its apparent vendetta against Mivios specifically. As the evidence accumulates, Mivios becomes increasingly convinced that something spiritual is at play—that the bear is more than an animal, something that cannot be killed through conventional means, and that his conflict with it extends beyond the purely physical.
+:::secret {title="Further hooks"}
+The Hunter Hunted
+: Someone has hired a killer to take Mivios, possibly an enemy from the past tied to the great bear that scarred him. The greatest tracker must use all his skills to learn who bought the contract and why, in cities and courts where those skills are least useful.
+:::

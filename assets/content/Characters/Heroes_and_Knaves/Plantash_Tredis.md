@@ -3,6 +3,7 @@ shortcode: plnthshplytms
 name: {full: Plantash Tredis, given: Plantash, clan: Tredis}
 type: being
 subType: character
+description: "A common seaman of Nesthiros who specializes in ship repair and the preservation of a crew's victuals, and works seasonal commissions along the League's coast."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -461,11 +462,15 @@ Currently, he moves between commissions along the League's coastal routes, takin
 
 Plantash carries the straightforward temperament of a man whose livelihood depends upon clear communication and honest effort. He speaks plainly, sometimes to the point of bluntness, and has little patience for deception or performative speech. Yet this directness is paired with respect for competence and loyalty—he judges others by their work, not their station or eloquence. Among crew mates, he is known as steady and reliable, the man who will stay awake during the night watch, teach younger sailors their knots with infinite patience, and share his rations without complaint.
 
-This dependability masks a subtle dissatisfaction. Plantash enjoys the rhythm of labor but struggles with its limitations. He enjoys the camaraderie of crews but remains solitary by nature, keeping his inner thoughts guarded. Those close enough to observe note that he keeps a leather journal where he sketches ship designs—variations on existing vessels, modifications for greater speed or stability. He has never shared these designs with anyone.
+This dependability masks a subtle dissatisfaction. Plantash enjoys the rhythm of labor but struggles with its limitations. He enjoys the camaraderie of crews but remains solitary by nature, keeping his inner thoughts guarded.
 
 ### Motivation
 
-Plantash is driven by a desire to leave a mark upon his craft that goes beyond a single voyage or season. He has grown skilled enough to know that mastery of existing techniques represents merely the foundation of greater accomplishment. Deep within, he harbors an ambition to create something new—a ship design that combines the stability of merchant vessels with the speed of warships, or perhaps a novel approach to oceanic navigation. He takes work readily because each commission teaches him something, expands his understanding, and brings him closer to the knowledge he would need to realize his private vision. Whether that vision will ever manifest remains uncertain, even to him.
+Plantash is driven by a desire to leave a mark upon his craft that goes beyond a single voyage or season. He has grown skilled enough to know that mastery of existing techniques represents merely the foundation of greater accomplishment. He takes work readily because each commission teaches him something and expands his understanding.
+
+:::secret {title="His private work"}
+Plantash keeps a leather journal where he sketches ship designs, variations on existing vessels with modifications for greater speed or stability, and he has never shared them with anyone. Deep within, he harbors an ambition to create something new, a ship design that combines the stability of merchant vessels with the speed of warships, or perhaps a novel approach to oceanic navigation, and each commission brings him closer to the knowledge he would need to realize that private vision. Whether it will ever manifest remains uncertain, even to him.
+:::
 
 ### Strengths
 
@@ -532,17 +537,19 @@ Pirate Captain [Vorios]{.name data-type="being/npc"}
 
 ## Plot Hooks
 
-The Lost Design
-: A mysterious stranger seeks out Plantash in a harborside tavern, claiming to represent a wealthy merchant prince interested in commissioning an experimental vessel design. The stranger reveals knowledge of Plantash's journal sketches, though he has never shown them to anyone. This unexpected attention forces Plantash to consider whether his private ambitions might finally become reality—or whether something darker lies beneath the offer.
+A Captain Too Ill to Command
+: Plantash takes temporary command of a merchant vessel when its captain falls gravely ill, and a part of the crew led by a charismatic mutineer questions his authority and wants to turn the ship to piracy. He must keep order without bloodshed, protect the loyal crew and reach a port where lawful authority can act.
 
-Wrecked Legacy
-: Plantash encounters **Captain Krozerazur** in desperate circumstances—his vessel has been sabotaged, his crew scattered, and mysterious enemies pursue him. Krozerazur refuses to explain the circumstances but implores Plantash to help him hide a sealed cargo and disappear into anonymity. Plantash must choose between loyalty to his mentor and his own safety, all while discovering that Krozerazur may not be the man he always believed him to be.
+Vorios Offers Another Berth
+: The pirate captain Vorios, who still resents Plantash's refusal of his crew years ago, offers him a place on a corsair band that preys on League merchant ships. Plantash must answer him in a harbor where Vorios has friends.
 
-The Philosopher's Question
-: A learned scholar from the interior cities hires passage aboard a League vessel to gain access to maritime archives Plantash uses for his research. The scholar becomes fascinated by Plantash's journals, recognizing in the ship designs the mathematical principles underlying an ancient text the scholar is attempting to decode. Together, they begin to realize that Plantash's intuitive designs may hold the key to understanding a lost civilization's navigational secrets—attracting interest from parties both academic and dangerous.
+A Hull the Harbor Master Wants Judged
+: The Harbor Master of [[place-thessalon|Thessalon]], who values Plantash's honest assessments, asks him to judge a vessel whose captain has vouched for him in the past. An honest finding costs a friend, and a kind one puts a crew aboard an unsound hull.
 
-Crew Rebellion
-: Plantash assumes temporary command of a merchant vessel when the captain falls gravely ill. A portion of the crew, led by a charismatic mutineer, questions his authority and attempts to redirect the ship toward piracy. Plantash must balance maintaining order without unnecessary bloodshed, protecting the vulnerable crew members who remain loyal, and reaching port where legitimate authority can address the situation.
+:::secret {title="Further hooks"}
+A Stranger Who Has Read His Journal
+: A stranger in a harborside tavern says he represents a wealthy merchant prince who wants an experimental vessel built, and he knows the sketches in Plantash's journal, which Plantash has shown to no one. Plantash must decide whether his private ambitions can finally become real or whether something darker lies beneath the offer.
 
-The Cursed Trade
-: A wealthy merchant hires Plantash for what should be a routine transport mission, but the voyage becomes increasingly strange—supplies spoil despite proper storage, sailors report uncanny sounds in the hold, and navigational instruments malfunction repeatedly. Plantash's practical mind struggles to find rational explanations, yet the evidence suggests something unnatural may be aboard. He must investigate whether the cargo itself carries a curse, whether a passenger harbors dark intentions, or whether forces beyond understanding have targeted the vessel.
+A Sealed Cargo and a Vanishing Captain
+: Captain Krozerazur Pazhurzát turns up with his vessel sabotaged and his crew scattered, refuses to explain, and begs Plantash to help him hide a sealed cargo and disappear. Plantash must choose between loyalty to his mentor and his own safety, and learns the captain is not the man he believed.
+:::

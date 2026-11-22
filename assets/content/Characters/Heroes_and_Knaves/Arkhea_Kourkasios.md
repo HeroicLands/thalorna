@@ -3,6 +3,7 @@ shortcode: arkhekrkss
 name: {full: Arkhea Kourkásios, given: Arkhea, clan: Kourkásios}
 type: being
 subType: character
+description: "An elderly beggar of Karvashion, the daughter of a ruined fabric trader, who is an elder among the town's street-dwellers and a keeper of its stories."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -549,17 +550,19 @@ The [[affiliation-lizelas|Order of Lizelas]] (Fertility Aspect)
 
 ## Plot Hooks
 
-The Hidden Child
-: Arkhea discovers an abandoned infant on a doorstep—a baby with unusual markings that suggest noble blood. She must protect this child from unknown pursuers while navigating a town that would exploit the child's origins. This act of protection forces her to move, to take risks, to engage with a world she has safely ignored for decades.
+Protection Money Owed
+: The Brass Knuckles, a crew of thugs led by the enforcer Rahvárion, run extortion against the beggars of [[place-karvashion2|Karvashion]] and have beaten Arkhea before for protection money she could not pay. They set a date for the next payment, and the street-dwellers look to her for what to do.
 
-The Overheard Secret
-: While sitting unnoticed in a merchant house vestibule, Arkhea overhears a conspiracy involving poisoning of a town official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
+Arrested for Vagrancy
+: The official Zerarzan, who views beggars as urban blight, has Arkhea arrested for vagrancy again, and each arrest has been harsher than the last. Mother Superior Hezogeze Sogipidek of the House of Lizelas can shelter her for a time, but each arrest makes it harder for Arkhea to go back to the corners she has kept.
 
-The Lost Apprentice
-: A young merchant's apprentice, [Shahrikos]{.name data-type="being/npc"}, confides in Arkhea that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhea must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
+An Infant on the Doorstep
+: Arkhea finds an abandoned infant on a doorstep, marked in a way she has not seen before. Keeping the child means leaving the corners she has held for decades, and handing it over means giving it to a town that would exploit it.
 
-The Curse in the Beggar's Market
-: A strange illness begins spreading through the beggar community—victims fall into delirium and fever. Arkhea, with her knowledge of herbalism and her network of invisible informants, begins to suspect the illness is no accident but deliberate poisoning. She must investigate without drawing the attention of authorities who would blame the victims rather than seek justice for them.
+:::secret {title="Further hooks"}
+The Overheard Plot
+: Sitting unnoticed in a merchant house vestibule, Arkhea overhears a plot to poison a town official. No one would believe a beggar could have such evidence, and she must warn the target without handing the plot to those who would use it.
 
-The Letter from the Past
-: A well-dressed stranger approaches Arkhea with a letter written in her deceased mother's hand, dated decades ago, containing revelations about Arkhea's birth and family that suggest her fall into poverty was not accident but arranged. The revelation forces her to reconsider everything about her life, and offers the possibility of restoration—if she is willing to seek it.
+A Letter in Her Mother's Hand
+: A well-dressed stranger brings Arkhea a letter in her dead mother's hand, dated decades ago, saying her fall into poverty was arranged. It offers a chance of restoration if she will seek it.
+:::

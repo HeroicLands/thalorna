@@ -439,7 +439,7 @@ Few; generally well-respected but some traditionalists may disapprove of his met
 ## Plot Hooks
 
 A Short-Handed Watch
-: A king's rider reaches Dvalgheim to change horses and finds the relief-post short-handed, with no fresh watchman to take his charge. The settlement answers together for a traveler asleep on the road, so whoever is oldest in the room asks Glarvorv, whose goods ride out with the couriers, to stand the watch himself.
+: A king's rider reaches [[place-dvalgheim|Dvalgheim]] to change horses and finds the relief-post short-handed, with no fresh watchman to take his charge. The settlement answers together for a traveler asleep on the road, so whoever is oldest in the room asks Glarvorv, whose goods ride out with the couriers, to stand the watch himself.
 
 Two Kinds of Patron
 : A noble and a traditionalist who disapproves of his methods reach Glarvorv's workshop on the same day, and the scent the noble wants is the one the traditionalist objects to.

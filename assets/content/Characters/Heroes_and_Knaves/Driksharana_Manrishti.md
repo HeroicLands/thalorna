@@ -3,6 +3,7 @@ shortcode: drikaranamn
 name: {full: Driksharana Manrishti, given: Driksharana, clan: Manrishti, vedy: [driksha]}
 type: being
 subType: character
+description: "A domestic servant of Chendrapur who has served one great-house household for a decade, known for his attentiveness and discretion."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -456,7 +457,7 @@ Driksharana stands 5'7" tall with a light build. He has warm honey skin, dark br
 
 # Dossier {#dossier}
 
-Born in one of the nine quarters of [[place-chendrapur2|Chendrapur]], Driksharana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies for her youngest, whom she called Driksha, layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of [Vedastira]{.name data-type="being/npc"}, a rising administrator in the household of one of [[affiliation-chendrapur|the Nine Houses]], where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of [[affiliation-rasikara|Rasikara]] who saw in the young Driksharana the fluidity and adaptability that would define his path.
+Born in one of the nine quarters of [[place-chendrapur2|The Moon City]], Driksharana was the youngest of seven children to a textile weaver's family. His childhood was marked by modest comfort and the constant hum of looms, his mother's lullabies for her youngest, whom she called Driksha, layered beneath the rhythmic clacking of threads. At fourteen, he was apprenticed to the household of [Vedastira]{.name data-type="being/npc"}, a rising administrator in the household of one of [[affiliation-chendrapur|the Nine Houses]], where his natural grace and keen observational abilities quickly earned him a position as personal attendant. It was during these formative years that he received the waterfall tattoo—a spiritual marker from a wandering priest of [[affiliation-rasikara|Rasikara]] who saw in the young Driksharana the fluidity and adaptability that would define his path.
 
 For the past decade, Driksharana has served his current employer with dedication, managing the social choreography that accompanies life in a great-house household. His duties range from ceremonial service at grand feasts to the subtle work of anticipating his master's needs before they are voiced. He has become indispensable to the household's smooth operation, yet he remains largely invisible—the way a truly skilled servant becomes part of the architecture of privilege itself.
 
@@ -529,17 +530,20 @@ The servants' shrena
 
 ## Plot Hooks
 
-The Waterfall's Secret
-: Driksharana's tattoo was not merely a spiritual marking but a sign of initiation into a hidden tradition within the priesthood of Rasikara. A visiting cleric recognizes it and approaches him with news that his mentor, the priest who marked him, has been imprisoned in a distant shrine under mysterious circumstances. The party might help Driksharana journey to uncover the truth and secure his mentor's release—a dangerous undertaking for a servant far from home.
+A Rumor Carried Across a Wall
+: Kharun Manrishti, a fellow servant in a rival household, spreads the word that Driksharana carries tales between the houses. A dispute between two men of one quarter goes to its Kulena and a dispute across a wall goes to the court, so Driksharana must choose which hearing to ask for, and he finds it nearly impossible to press a claim of his own.
 
-A Kulena's Indiscretion
-: While attending his master at a diplomatic gathering, Driksharana witnesses a high-ranking official commit a crime—perhaps murder, theft, or treason. His position allows him access to places and conversations that could expose the truth, but revealing what he knows would destroy his employer's political alliance. He struggles with whether duty to law or loyalty to his patron should prevail.
+Standard Wages in the Nine Quarters
+: The servants' shrena, with which Driksharana keeps loose ties, asks him to speak for standard wages at a meeting of the households. Speaking marks him to the higher-ranking servants who already see him as a threat, and keeping silent disappoints the shrena.
 
-The Underground Network
-: Driksharana discovers that the servants' network extends far deeper than he realized—some within his trusted circle are part of an organization moving runaway bonded servants, refugees, and the persecuted through hidden passages in [[place-lowercourses|the lower courses]] beneath the city. He must decide whether to join their dangerous cause or maintain his comfortable position of plausible ignorance.
+:::secret {title="Further hooks"}
+A Crime Seen over the Master's Shoulder
+: While attending his master at a diplomatic gathering, Driksharana sees a high-ranking official commit a crime. His place gives him access to the conversations that could expose it, but speaking would destroy the political alliance of the household he serves, and silence leaves the crime unanswered.
 
-A Master's Secret Heir
-: Driksharana learns that Vedastira fathered a child with a servant woman years ago, a child he has denied and paid to keep hidden. When that child surfaces—perhaps claiming legitimacy, perhaps in desperate circumstances—Driksharana must choose between his master's reputation and the unknown heir's rightful claim. The situation becomes further complicated when parties hostile to the family seek to exploit this scandal.
+Passages beneath the Lower Courses
+: Some of the servants Driksharana trusts belong to a network that moves runaway bonded servants, refugees and the persecuted through hidden passages in [[place-lowercourses|The Lower Courses of Chendrapur]]. He must decide whether to join it or keep his comfortable ignorance.
 
-The Merchant's Missing Daughter
-: Driksharana is approached by a desperate mother whose daughter worked as a servant in one of the great houses and has gone missing. He realizes that several servants have vanished over recent months, and his investigation into their fates leads him to uncover a dark conspiracy operating within the very institution of household service—possibly involving forced removal, exploitation, or worse.
+Vedastira's Hidden Child
+: Vedastira fathered a child with a servant woman, denied it and paid to keep it hidden. When the child surfaces, Driksharana must choose between his master's reputation and the child's claim, and parties hostile to the family are ready to use the scandal.
+
+:::

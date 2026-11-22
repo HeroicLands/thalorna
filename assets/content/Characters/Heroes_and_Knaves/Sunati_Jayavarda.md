@@ -3,6 +3,7 @@ shortcode: sntjyvrd
 name: {full: Sunati Jayavarda, given: Sunati, clan: Jayavarda}
 type: being
 subType: character
+description: "A courtesan of Chendrapur from the House of Jayavarda, a courtier family of four generations, who counsels merchants and some of the Kulena."
 tags: [heroes-and-knaves, administration]
 data:
   icon: icon-person
@@ -459,7 +460,7 @@ Sunati stands 5'7" tall with a medium build. She has rich brown skin, black hair
 
 ### The House of Jayavarda
 
-Sunati was born into the [House of Jayavarda]{.name data-type="affiliation/lineage"}, one of the most prestigious courtier families of [[place-chendrapur2|Chendrapur]]. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunati embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate wealth and independence.
+Sunati was born into the [House of Jayavarda]{.name data-type="affiliation/lineage"}, one of the most prestigious courtier families of [[place-chendrapur2|The Moon City]]. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunati embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate wealth and independence.
 
 ### The Education
 
@@ -539,17 +540,19 @@ Worshippers of the [[affiliation-vyalendra|Vyalendra]] faith
 
 ## Plot Hooks
 
-The Dangerous Secret
-: A powerful client of a great house confesses to Sunati that he is planning to betray the court of the Nine in a trade agreement, with implications that could destabilize the whole city. He believes that his emotional intimacy with Sunati keeps her silent, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
+A Rival's Sabotage at the Banquet
+: Sharti Kalanjani, a courtesan of equal talent who believes Sunati stole her patrons, contrives to have Sunati left out of a great-house banquet. Sunati can answer in kind or let Shroshtin Chandipal Vyavaharuka, her patron of four years, see her exclusion for himself.
 
-The Authentic Connection
-: A scholar and philosopher, [Kamasvamin Achorya]{.name data-type="being/npc"}, begins visiting Sunati with no interest in the typical courtier-patron dynamic. Instead, he seeks conversation and intellectual companionship. For the first time in her life, Sunati encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
+Priests Who Would Restrict Courtesans
+: A coalition of priests and devout householders advocates restrictions on courtesans and has made Sunati its symbol. A hearing on the restrictions is called, and she can speak against them, which puts her name on the cause, or stay silent and leave the independent courtesans among whom she has influence to bear it.
 
-The Rescue Unwanted
-: A young woman, barely twenty, is being groomed to enter the courtesan profession by coercive means rather than choice. She reaches out to Sunati, begging for help escaping her family's control. Saving her would expose Sunati to legal liability and could damage her reputation with the very clients whose patronage sustains her. Does she help, and if so, at what cost?
+A Girl Groomed against Her Will
+: A young woman barely twenty, being pushed into the courtesan's profession by her family, begs Sunati to help her escape. Helping exposes Sunati to legal liability and to the clients whose patronage sustains her.
 
-The Fading Beauty
-: A debilitating illness strikes Sunati—nothing immediately life-threatening, but something that will gradually diminish her physical capabilities and perhaps leave visible marks. She must confront the reality that the asset upon which she has built her entire life is becoming compromised. Her response—whether to retire gracefully, fight to remain relevant, or seek a different path—will define the next phase of her life.
+A Kulena's Price for Intelligence
+: A Kulena of the Nine asks Sunati to use her access to rival traders to learn their plans, and offers a large payment for an advantage that would enrich his house. Accepting makes her a tool of one house, and refusing angers the people whose patronage keeps her independent.
 
-The Request for Betrayal
-: A Kulena of the Nine approaches Sunati with an explicit request: use her intimate access to rival traders to gather intelligence on their plans. The payment is substantial, the advantage to his house is enormous, but the request crosses a line from personal patronage into active espionage. Accepting would compromise her carefully maintained neutrality and make her a tool of political power. Refusing would anger the very people whose patronage sustains her independence.
+:::secret {title="Further hooks"}
+What the Client Confessed
+: A powerful client of a great house confesses to Sunati that he plans to betray the court of the Nine in a trade agreement, believing his intimacy with her keeps her silent. She must decide whom to expose and at what cost.
+:::
