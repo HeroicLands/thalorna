@@ -52,6 +52,10 @@ Scholars in Vedyara and in the Khazrin country name three sub-ranges:
 [[place-wstrndscnt|The Western Descent]]
 : the last three hundred miles, where the wall comes apart. The ridges drop, the glaciers give out, and the range breaks into a belt of dry brown foothills between the oasis-belt to the north and the Vedyari marches to the south, before running out altogether in the Dunhari desert-margin. It is the one stretch of the range a caravan crosses without a guide, and the way [[lore-hndrdbnnrs|a steppe host]] came down into Vedyara four centuries ago. The Tellumi tradition holds that the first Tellumi came down here into the great springs of the desert in the deep first age, and the older Tellumi genealogies still trace lineage-origins to particular peaks above the descent.
 
+:::secret {title="The sealed city"}
+[[place-khazarturn|Khazartúrn]] stands in a high valley of [[place-sthrnwall|the Southern Wall]].
+:::
+
 ## The Trans-Grazian Peoples
 
 A handful of mountain peoples live scattered across the range, in the few high valleys where sustained habitation is possible. They belong to none of the surrounding civilizations and recognize no outside authority. They are the trans-Grazian guides: [[affiliation-osketguides|the Osket]] of the western and central crossings and [[affiliation-hvarnguides|the Hvarn]] of the Eastern Reach. Without them there is no trans-Grazian trade, and with them it costs a thousand times what the goods are worth in the cities of origin.
@@ -59,6 +63,10 @@ A handful of mountain peoples live scattered across the range, in the few high v
 They speak their own languages, [[skill-osketlng|Osket Language]] and [[skill-hvarnlng|Hvarn Language]], which are related to nothing in the lowland families and not to each other, and they keep their own austere religious traditions. Hereditary lines carry the detailed knowledge: the passes open in a given year, the loads a yak-route will take, and the weather signs that run ahead of the storms that close the high country in days.
 
 The trans-Grazian peoples number thirty thousand across the entire range. They live in villages of stacked stone built into south-facing slopes: [[place-oskhelt|Oskhelt]] above the greatest pass, [[place-tsokhar|Tsokhar]] in the western valleys, [[place-nurvhrn|Nurvharn]] under the Eastern Reach. They raise yaks and the small mountain horses bred to their altitudes, and spend about a third of every year hosting and guiding caravans through the passes whose keys they alone hold. Out of the trade season the lowlands forget them until the next caravan needs to cross.
+
+## The Northern High Country
+
+In the high northern country where the arc begins, far above the last trees, the Hvarn drive their yaks to summer grazing that no caravan sees. Two places there have names among the herders: [[place-vrundelv|Vrundelv]], "the old door", a bridge of one stone span over a gorge to a meadow nothing else reaches, and [[place-mulvern|Mulvern]], "the empty house", a cliff above terraces and cairns that nobody farms.
 
 ## What the Wall Means to Its Neighbors
 
@@ -116,6 +124,9 @@ Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with
 
 [[place-sangrafort|The Sangra-fort]]
 : The one standing garrison on the range
+
+[[place-vrundelv|Vrundelv]] · [[place-mulvern|Mulvern]]
+: The bridge and the empty house of the northern high country
 
 [[place-drenavrspn|The Drenavar Spine]]
 : Distant Élavendren range, sometimes confused with the Grazian by folk-tradition (no actual connection)

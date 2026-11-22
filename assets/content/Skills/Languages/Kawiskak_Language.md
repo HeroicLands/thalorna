@@ -93,6 +93,7 @@ data:
     - {name: Givers, tongue: translation}
     - {name: Bitter Water, tongue: translation}
     - {name: Copper River, tongue: translation}
+    - {name: The Stone Rooms, tongue: translation}
     - {name: Barren-Ground People, tongue: translation}
     - {name: Ice-Edge People, tongue: translation}
     - {name: osipisa, tongue: kawiskak}
