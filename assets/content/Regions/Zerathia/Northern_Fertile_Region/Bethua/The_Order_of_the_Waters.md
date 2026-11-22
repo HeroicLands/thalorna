@@ -71,3 +71,6 @@ A party meets the order at a qanat head or a cistern in the interior, where a si
 
 [[place-bethura|Bethura]]
 : the capital whose fountains the aqueducts fill
+
+[[scenario-grnpstthln|The Green Past the Line]]
+: a scenario: a tunnel-well of the dry southern interior has failed, and the Izet-Mu wants to know whether the collapse was an accident before she sends a gang down

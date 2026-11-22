@@ -429,3 +429,5 @@ The factor answers to the matriarch of the House and works beside the factors of
 ## Plot Hooks
 
 1. [[scenario-hrvstcntdtwc|A Harvest Counted Twice]]: each factor is sure the sale is coming and quotes the grain at a firmer price each month.
+2. [[scenario-grnpstthln|The Green Past the Line]]: a factor rides out to look over a crop the House has bought standing, above a village whose line has run dry.
+3. **Paper three ports along.** A rival House refuses to honor the factor's letter of credit, and the factor wants a party to carry the paper to a Great House that takes it.

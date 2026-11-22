@@ -427,6 +427,8 @@ She answers to the Metrissa, [[being-amithenakrvn|Amithena of House Kervanion]],
 ## Plot Hooks
 
 1. [[scenario-hrvstcntdtwc|A Harvest Counted Twice]]: her count is the second roll on the Metrissa's table.
+2. [[scenario-grnpstthln|The Green Past the Line]]: a tunnel-well of the southern interior has failed, and she sends no gang under the fallen roof until she knows why it fell.
+3. **The cisterns.** She wants the College's case heard on what the cisterns truly hold, and asks a party to walk the channel-head granaries of one canton with her and set what it finds beside her gate-rolls.
 
 :::secret {title="The gate-rolls"}
 **For the GM:** Her gate-rolls count the grain as it leaves the strips, and they show more grain sent north than the bonded warehouses have received. She has not set her count beside the treasury's, and the difference does not occur to her as hers to explain.

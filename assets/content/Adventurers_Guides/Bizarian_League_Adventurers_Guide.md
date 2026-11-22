@@ -152,9 +152,10 @@ At the first toll post, ask three questions: **Whose seal is on your load? Who i
 
 Campaigns here start well from a contract. A house hires the party to escort a caravan whose terms specify the arrival date to the day. An arbitrator needs a witness found before the hearing. A guild master's seal has turned up on goods his guild never made. A shipment of [Merchant House Valdris]{.name data-type="affiliation/venture"} has vanished on the eastern routes with no wreckage, no bodies and no sign of a struggle, and the Ravenswood Brigands are blamed for it.
 
-One adventure begins at the end of winter on the frontier:
+Two adventures begin here, one at the end of winter on the frontier and one on the eastern road:
 
 - [[scenario-trcecmpsmrch|The Truce Camps of the March]]: the Lord Commander of the Eastern March counts the steppe camps wintering under the League's truce, the first storm of spring takes the March's herd through their ground, and the League must decide before the thaw whether its winter guests ride with a rising union.
+- [[scenario-vldrscrvn|The Valdris Caravan]]: three weeks after a shipment of House Valdris vanished in Ravenswood, the old teamster whose route it was rides the road again, and the house must say what took its load before an arbitrator in ten days.
 
 :::secret
 **For the GM:** What House Krisakit's letter does not mention: twenty-six years ago a local lord hired [[affiliation-irnwlvscmpny|the Iron Wolves Company]] to take the village of [[place-trianthion|Trianthion]], and by nightfall every adult there was dead. The company collected its rate and the lord paid without comment. The Iron Wolves keep their compound outside [[place-veridon|Veridon]], they are the work the League prefers not to admit buying, and a survivor who testified in public would force the League to act. The company's most famous deserter, [[being-ghymrhrptrks|Ghimaráhr Rores]], is still being hunted.

@@ -169,3 +169,6 @@ Along the eastern frontier the strain shows first. Khelathi herders graze closer
 
 [[place-avenia|Avenia]]
 : an olive-hill town on the western upland of Bethua Region, not far from Oshira
+
+[[scenario-grnpstthln|The Green Past the Line]]
+: a scenario: a tunnel-well of the dry southern interior has failed, and the Izet-Mu wants to know whether the collapse was an accident before she sends a gang down

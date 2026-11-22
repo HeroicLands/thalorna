@@ -56,7 +56,7 @@ A traveler from the south needs a guide in either season. Water that looks open 
 
 North, the forest thins. The spruce grow shorter and further apart and stand in islands on the sheltered slopes, until they stop. Beyond them lie the barren grounds: rolling tundra of moss, lichen and rock, long gravel ridges that snake across the land, and lakes without a tree around them. The great caribou herds calve there in early summer. In winter the barrens are nothing but wind.
 
-The Barren-Ground People live out there. They are an older people of the open land: small bands in hide tents and half-sunken houses ringed with stone, who spear caribou at river crossings with lances and take seal on the ice of the Bitter Water's shore. They also dig copper. Lumps of pure copper lie in the gravels of the [Copper River]{.name data-type="place/feature"} in the far north-west, and every late summer the Barren-Ground bands bring them to the treeline and trade them to the forest bands for spruce gum, birch bark and wood for spear shafts. That copper goes south from hand to hand.
+The Barren-Ground People live out there. They are an older people of the open land: small bands in hide tents and half-sunken houses ringed with stone, who spear caribou at river crossings with lances and take seal on the ice of the Bitter Water's shore. They also dig copper. Lumps of pure copper lie in the gravels of the [Copper River]{.name data-type="place/feature"} in the far north-west, and every late summer the Barren-Ground bands bring them to the treeline and trade them to the forest bands for spruce gum, birch bark and wood for spear shafts. That copper goes south from hand to hand. In the hills above the river a Barren-Ground band keeps its winter meat in [[place-stonerooms|the Stone Rooms]], square rooms cut into a cliff above a caribou crossing, which none of its people remembers cutting.
 
 Now the [[affiliation-tikupilarit|Ice-Edge People]]' kin are moving east along the arctic coasts, with dog teams, big skin boats and harpoons whose heads turn in the wound. They take the coasts, the sealing grounds and the best caribou crossings, and the Barren-Ground People fall back south toward the trees. Each winter more of their bands come into the forest, onto ground the Spruce People's bands have hunted for generations. Some forest bands take them in and some drive them off. A few of the northernmost Spruce bands have given up their ground and moved south-east into the Pine People's country.
 
@@ -86,6 +86,9 @@ Furs and copper go south. Beaver, marten, otter and lynx pelts, the Barren-Groun
 
 [[place-osetakonargn|Osetakona Region]]
 : the lake country of the Maple People, to the south-east
+
+[[place-stonerooms|The Stone Rooms]]
+: the cut rooms above a caribou crossing in the hills of the Copper River
 
 [[lore-ostinak|Givers]]
 : the faith: the animals that give themselves, the shaking lodge and the ice in the heart

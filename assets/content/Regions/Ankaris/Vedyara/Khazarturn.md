@@ -26,7 +26,7 @@ The Khazari laid their dead in their own chambers, cleaned the city to the condi
 :::secret {title="Where it stands"}
 Khazartúrn stands in a high valley of [[place-sthrnwall|the Southern Wall]] of [[place-graznmntns|the Grazian Mountains]], behind the summit line, where the ice fields feed the valley from three sides and no road comes near. The valley lies well away from the Wall's four crossings, the Guides' Road among them, and no village of [[affiliation-osketguides|the Osket]] stands within its watershed. Its floor holds a still lake, and the cliff above the lake carries seven ribs of rock standing out from the face. The Wall is the highest ground in the world, and the glacier valleys behind its summit line are shut by ice and weather for all but a few weeks of the year, which close the city off from every road more completely than any wall the Khazari could have cut.
 
-The two first holds outside the city, [Zaghar-gunáv]{.name data-type="place/settlement"} and [Farz-sumád]{.name data-type="place/settlement"}, stand on the ridge north of the valley, two days' walk from the city and a day from each other. Both are sealed.
+The two first holds outside the city, [[place-zghrgunav|Zaghar-gunáv]] and [[place-farzsumad|Farz-sumád]], stand on the ridge north of the valley, two days' walk from the city and a day from each other. Both are sealed.
 :::
 
 ## What the Valley Shows
