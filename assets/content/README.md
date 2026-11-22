@@ -9,9 +9,10 @@ environment variable is required.
 
 ## What is built from it
 
-| Surface                                 | Built by                  | Output                                |
-| --------------------------------------- | ------------------------- | ------------------------------------- |
-| Items, Actors, and Journals compendiums | `npm run build:compiledb` | `build/stage/packs/<name>/` (LevelDB) |
+| Surface                                                                 | Built by                  | Output                                |
+| ----------------------------------------------------------------------- | ------------------------- | ------------------------------------- |
+| Items, Actors, and Journals compendiums                                 | `npm run build:compiledb` | `build/stage/packs/<name>/` (LevelDB) |
+| GM Items, GM Actors and GM Journals compendiums, visible only to the GM | `npm run build:compiledb` | `build/stage/packs/<name>/` (LevelDB) |
 
 Build artifacts under `build/` are gitignored. Nothing compiled is committed.
 
@@ -30,6 +31,35 @@ Thalorna's own setting material, which that repository has no counterpart for.
 Compendium folders are notes too. `Folders/` holds them, each typed `folder` with
 a `shortcode`. A note files itself into a folder with `packFolder: <shortcode>`.
 An unknown folder shortcode fails the build.
+
+## GM-only notes
+
+A note tagged `gm` stays out of the site, the book and every public compendium.
+It compiles only into the private packs, and its prose lands in GM Journals.
+
+A GM-only being with a `sohl:` block also compiles to an actor, and it declares
+`pack: gm-actors` in `data`. Without it the actor routes to the public Actors
+pack, which skips GM-only notes, and the actor is dropped without an error.
+`utils/pack-routing.test.mjs` fails on any statted being whose actor does not
+land in a pack of its own audience:
+
+```yaml
+tags: [gm]
+data:
+  pack: gm-actors
+```
+
+A GM-only affiliation with a `sohl:` block compiles to an item, and it declares
+`pack: gm-items` in `data`. Without it the item is dropped from the public Items
+pack, and every actor whose `affiliations` names it fails to compile with
+"no predefined item". Its prose still lands in GM Journals. The same test checks
+the two GM-only holds and the public Items default:
+
+```yaml
+tags: [gm]
+data:
+  pack: gm-items
+```
 
 ## Event metadata
 

@@ -6,6 +6,7 @@ subType: polity
 description: "The Khazari hold of Magar-thubád in a limestone range above the Zerathian rainforest, governed by the council of its houses' elders and fed by the Pewaye community at its gate."
 tags: [gm]
 data:
+  pack: gm-items
   templatePriority: null
   demonym: null
   epithet: null
@@ -60,6 +61,20 @@ sohl: {system: {commonSkills: [khazarlng, ekpelulng]}}
 The hold is governed as every Khazari hold is, by the council of the elders of its houses, sitting together with no one first among them. The council seats the elders of nine houses, and the hold's record names five of them in the account of its water-line: [Tabar-suláth]{.name data-type="affiliation/lineage"}, whose craft is the water, [Ramk-sumád]{.name data-type="affiliation/lineage"}, [Khalv-gunáv]{.name data-type="affiliation/lineage"}, [Khard-vurán]{.name data-type="affiliation/lineage"} and [Lakam-mulán]{.name data-type="affiliation/lineage"}. The council judges from the archive, whose keeper brings up the records that bear on a case and reads them whole, and where a record and an elder's memory disagree, the record stands. It sends one elder to the gate as **Speaker**, to hear the community below and to answer it.
 
 The Pewaye of the gate keep their own elders, as the margin peoples do, and bring the community's word to the gate.
+
+### The Officers
+
+Elder of a House
+: [[being-valadrmksmd|Valad Ramk-sumád]] of the house of the raising of the course, [[being-likimlkmmln|Likim Lakam-mulán]] of the house of the lamp in the silence, and [[being-tubaruntbrslth|Tubarun Tabar-suláth]] of the house of the pouring of the deep water, among the elders of the council.
+
+Speaker at the Gate
+: Valad Ramk-sumád.
+
+Keeper of the Archive
+: Likim Lakam-mulán.
+
+Master of Works
+: Tubarun Tabar-suláth.
 
 ## Current Situation {#present}
 

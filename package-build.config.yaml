@@ -85,10 +85,12 @@ authors:
       discord: toasty#8538
 
 packs:
-    - { name: items, label: Items, type: Item, system: sohl }
+    - { name: items, label: Items, type: Item, system: sohl, default: true }
     - { name: journals, label: Journals, type: JournalEntry, default: true }
-    - { name: actors, label: Actors, type: Actor, system: sohl }
+    - { name: actors, label: Actors, type: Actor, system: sohl, default: true }
     - { name: gm-journals, label: GM Journals, type: JournalEntry, private: true }
+    - { name: gm-actors, label: GM Actors, type: Actor, system: sohl, private: true }
+    - { name: gm-items, label: GM Items, type: Item, system: sohl, private: true }
 
 publish:
     # This package's content is its site, so it mounts at the package root and
@@ -748,6 +750,8 @@ packageBuild:
                   - journals
                   - actors
                   - gm-journals
+                  - gm-actors
+                  - gm-items
         media:
             - type: setup
               url: modules/thalorna/assets/images/media/thalornasetup.webp

@@ -6,6 +6,7 @@ subType: polity
 description: "The Khazari hold in the cliff the Lunvharn call Hvolvern, on the Tantsou side of the Eastern Reach, governed by the council of its houses' elders and fed by the Lunvharn of the valley beneath it."
 tags: [gm]
 data:
+  pack: gm-items
   templatePriority: null
   demonym: null
   epithet: null
