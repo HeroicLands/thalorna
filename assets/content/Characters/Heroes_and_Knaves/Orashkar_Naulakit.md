@@ -513,7 +513,7 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-Merchant [House Valdris]{.name data-type="affiliation/lineage"}
+Merchant [House Valdris]{.name data-type="affiliation/venture"}
 : One of the Bizarian League's most prominent trading families; they have exclusively employed Órashkar for their most valuable shipments for over twenty years and would accept no substitute.
 
 Master Cook [Ilenna]{.name data-type="being/npc"}
@@ -544,7 +544,7 @@ Teamsters' Guild
 ## Plot Hooks
 
 A Caravan Gone Without a Trace
-: A major shipment of House Valdris vanished three weeks ago on a road Órashkar has traveled a hundred times, leaving no wreckage, bodies or signs of struggle. The patrons blame the Ravenswood brigands, but Órashkar's inquiry points to something stranger, with talk of sorcery, of a rival sabotaging competitors, and even of Órashkar's own failing faculties. Some of his protégés may have been in the convoy. Órashkar can leave the matter to House Valdris, or ride the road himself at a pace his stamina may not bear.
+: A major shipment of House Valdris vanished three weeks ago on a road Órashkar has traveled a hundred times, leaving no wreckage, bodies or signs of struggle. The patrons blame the Ravenswood brigands, but Órashkar's inquiry points to something stranger, with talk of sorcery, of a rival sabotaging competitors, and even of Órashkar's own failing faculties. Some of his protégés may have been in the convoy. Órashkar can leave the matter to House Valdris, or ride the road himself at a pace his stamina may not bear: [[scenario-vldrscrvn|The Valdris Caravan]].
 
 An Inn from a Sister He Lost
 : Órashkar's sister, from whom he has been estranged for over twenty years, dies and leaves him a remote inn and trading post at the edge of the League's territory. A man already settled as proprietor claims to have been her partner and to hold a prior claim, the locals have never heard of her, and documents suggest she invented parts of her family history. Órashkar must untangle the claim and her secrets.
