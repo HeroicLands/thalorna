@@ -49,6 +49,7 @@ data:
       Keeper of the Tally: >-
         Recorder of the offerings owed and made where the herds cross the guide's ground.
   seat: null
+  range: [sthrnsvnhs]
   population: {actual: null}
   economy: []
   lore: [lionruwozispr, nyalbsprts]
@@ -89,6 +90,12 @@ shewe ndayela ndeyemi selemba./
 ## Veneration
 
 Ruwozi men take a single lion-tooth at adulthood, and the taking is the ordeal by which they enter the tradition. Offerings are made where the herds cross the guide's ground; a beast lost to lions on that ground is not a loss but a rendering, and is entered in the tally as such. A Ruwozi who hunts a lion has not committed a crime against the clan—he has committed one against his own ancestry, and the griot will not speak his name in a genealogy afterward.
+
+## The Present {#present}
+
+The lion's seniority puts the Convener inside the quarrel this year. The Ruwozi are at war with the [[affiliation-kolembozi|Kolembozi]] over the rivers, the war stands first in the order of business at [[place-hetolubemo|Heto Lubemo]], and the Ruwozi paramount who keeps that order and speaks last is a party to it. The clan holds that the rivers are the herds' by the Pact's third term, and its regiments stand mustered at [[place-mbolewevlg|Mbolewe]].
+
+The memory-song the Griot of the Ruwozi, the [[being-ruwozigriot|Ruwozi Griot]], keeps counts the Pact's first term as the five not lifting a weapon against the five. The renewal comes last in the sitting and needs all five paramounts to say the Pact again in their own bodies.
 
 ## See Also {#see-also}
 

@@ -24,7 +24,7 @@ The [[affiliation-ngonzi|Ngonzi]], the eagle-clan, hold them. They alone claim d
 
 ## Layers {#history}
 
-The Old Hetos lie on the country's highest ground, in the cool uplands where the rivers run all year. Nobody living knows what the lesser enclosures and platforms around the great ones were for. A Kolembozi spirit-speaker, [Lusheya nu Kolembozi]{.name data-type="being/npc"}, is said to have walked into one in her initiation and come out speaking the Stone Tongue, the speech the Ngonzi elders say was the builders' ([[lore-stonetongue|the Stone Tongue]]). The Ngonzi confirm the report, and the Lobwezi griots have entered it into the record of the Lubemo.
+The Old Hetos lie on the country's highest ground, in the cool uplands where the rivers run all year. Nobody living knows what the lesser enclosures and platforms around the great ones were for. A Kolembozi spirit-speaker, [[being-lusheyaklm|Lusheya nu Kolembozi]], is said to have walked into one in her initiation and come out speaking the Stone Tongue, the speech the Ngonzi elders say was the builders' ([[lore-stonetongue|the Stone Tongue]]). The Ngonzi confirm the report, and the Lobwezi griots have entered it into the record of the Lubemo.
 
 ## What Is There Now {#present}
 

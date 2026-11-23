@@ -48,6 +48,7 @@ data:
       Initiator: >-
         Conductor of the ordeal, undertaken on the escarpment at height.
   seat: null
+  range: [sthrnsvnhs]
   population: {actual: null}
   economy: []
   lore: [eaglengonzispr, nyalbsprts]
@@ -70,6 +71,12 @@ The story told at the fire in [[lore-stonetongue|The Stone Tongue]] begins from 
 : As It Is Told at the Fire {#stone-tongue-fire}
 
 > You know the Old Hetos. No, you don't. None of us do, unless we are Ngonzi, and the Ngonzi don't let anyone in. Not a Ruwozi, not a Sengala, not a Lobwezi with every clan's fathers in his mouth. Each Heto has its guardian, and the guardian says no.
+
+## The Present {#present}
+
+The [[affiliation-greatlubemo|Great Lubemo]] sits this year at [[place-hetolubemo|Heto Lubemo]], one of the Old Hetos, and the eagle-shaman who holds it, the [[being-hetoguardian|Guardian of Heto Lubemo]], receives the delegations at its wall. The Convener is at war with the [[affiliation-kolembozi|Kolembozi]], and the Guardian has ruled that no weapon passes the wall, whatever clan carries it. The Ngonzi host the sitting and take no side in the war.
+
+[[being-lusheyaklm|Lusheya nu Kolembozi]] walked into an Old Heto at her initiation and came out speaking [[lore-stonetongue|the Stone Tongue]], which the Ngonzi elders say was the speech of the stone-builders. The Ngonzi confirm the report, and the Lobwezi griots have entered it into the Lubemo's record, which holds only that the Ngonzi and the baobab griots differ on whose dead the builders were.
 
 ## See Also {#see-also}
 

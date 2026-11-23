@@ -6448,6 +6448,7 @@ data:
     - {name: Lion Totem, tongue: translation}
     - {name: Lobwezi Baobab, tongue: translation}
     - {name: Lobwezi Totem, tongue: translation}
+    - {name: lusheya, tongue: nyaluban, built: [lushei-, -a]}
     - {name: Mask-Maker, tongue: translation}
     - {name: Master of the Hunt, tongue: translation}
     - {name: mbadeko, tongue: nyaluban, built: [mbadek-, -o]}
@@ -7383,7 +7384,7 @@ ORDER BY position
 
 ### Given names
 
-A given name is a root with the man's ending _-o_ or the woman's _-a_, and the root is a thing hoped for the child: the tracker [[being-tabesnfnjr|Tabeso nu Fénjara]]'s given name _Tabeso_ is built on following a trail, and the spirit-speaker [Lusheya nu Kolembozi]{.name data-type="being/npc"}'s given name _Lusheya_ on the rain.
+A given name is a root with the man's ending _-o_ or the woman's _-a_, and the root is a thing hoped for the child: the tracker [[being-tabesnfnjr|Tabeso nu Fénjara]]'s given name _Tabeso_ is built on following a trail, and the spirit-speaker [[being-lusheyaklm|Lusheya nu Kolembozi]]'s given name _Lusheya_ on the rain.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"

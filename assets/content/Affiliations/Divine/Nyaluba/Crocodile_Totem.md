@@ -48,6 +48,7 @@ data:
       Initiator: >-
         Conductor of the ordeal, which is conducted in the water.
   seat: null
+  range: [sthrnsvnhs]
   population: {actual: null}
   economy: []
   lore: [crocodilekolembozispr, nyalbsprts]
@@ -66,6 +67,12 @@ Kinship here is literal to a degree outsiders find disturbing. A Kolembozi who l
 ## Appeasement
 
 Each dangerous reach and each ford has its own protocols, its own required offering and its own Guardian, and the requirements do not transfer between them. This is why no Spirit-Speaker holds two crossings: what keeps a person alive at one is not what keeps them alive at the next, and a shaman who confused them would be believed to have killed whoever followed him.
+
+## The Present {#present}
+
+The crocodile's clan is at war with the [[affiliation-ruwozi|Ruwozi]] over the rivers. The Kolembozi asked their Senior Spirit-Speaker, [[being-lusheyaklm|Lusheya nu Kolembozi]], before they made war, as the office requires, and the answer was war; her word on war binds the paramount. The dry season left the channels low, and the clan holds that the reeds, the fish-camps and the landings come first in a dry year.
+
+At [[place-dryreach|the Dry Reach]], a reach of channel in Kolembozi country, the bed is cracked to the papyrus and the landing below it stands dry. The [[being-dryreachelder|Reach-Elder of the Dry Landing]] says the channel was diverted by hand, and nobody has named the hand.
 
 ## See Also {#see-also}
 

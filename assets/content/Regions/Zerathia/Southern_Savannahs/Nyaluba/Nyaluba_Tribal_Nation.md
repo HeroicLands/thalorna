@@ -53,6 +53,7 @@ data:
       Convener: >-
         Summons the Great Lubemo, keeps its order of speaking and speaks last; held by the Ruwozi paramount.
   seat: null
+  range: [sthrnsvnhs]
   population: {actual: 2000000}
   territorial_population: {actual: 2000000}
   economy: [lore-bartercnmy, lore-kinhalcrdt]
@@ -219,7 +220,7 @@ To the **south and southeast**, beyond the Kolembozi wetlands and the Ngonzi hig
 
 [[being-bonzimbelbwz|Bonzimbe of the Lobwezi]], senior griot of the Long Pact. The official memory-bearer of the Pact's terms, the genealogies of all five paramounts, and the recorded judgments of the previous twenty-three Lubemos. Approximately seventy years old, blind, and considered by all five clans to be the closest living thing to a neutral arbiter the Nyáluba possess.
 
-[Lusheya nu Kolembozi]{.name data-type="being/npc"}, senior _zherami nyende_ of the Kolembozi, said to have walked into a particular Old Heto during her initiation and emerged speaking [The Stone Tongue]{.name data-type="skill/language"}—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Lobwezi griots have entered it into the Lubemo record. What the Stone Tongue is for, no one will say.
+[[being-lusheyaklm|Lusheya nu Kolembozi]], senior _zherami nyende_ of the Kolembozi, said to have walked into a particular Old Heto during her initiation and emerged speaking [The Stone Tongue]{.name data-type="skill/language"}—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Lobwezi griots have entered it into the Lubemo record. What the Stone Tongue is for, no one will say.
 
 The griots' recital of the record, set beside a fireside telling in [[lore-stonetongue|The Stone Tongue]], keeps the entry short:
 

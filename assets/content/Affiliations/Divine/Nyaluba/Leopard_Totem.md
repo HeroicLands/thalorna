@@ -48,6 +48,7 @@ data:
       Initiator: >-
         Conductor of the ordeal, undertaken alone and at night.
   seat: null
+  range: [sthrnsvnhs, cntrlrnfrsts]
   population: {actual: null}
   economy: []
   lore: [leopardsengalaspr, nyalbsprts]
@@ -64,6 +65,12 @@ The leopard suits them, and they say so. It is the guide that works alone, moves
 ## Veneration
 
 Because Sengala parties travel, the leopard is the Nyáluba guide most often addressed outside Nyáluba territory—and this raises a question the tradition otherwise does not face, since spirits are territorial and local by nature. The Sengala answer is that the guide accompanies the clan rather than the country, and that the ordeal binds the person, not the ground. Shamans of the other four clans consider this convenient, and do not accept it.
+
+## The Present {#present}
+
+The war between the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]] leaves the Sengala one of three clans to choose, and the Sengala paramount reaches [[place-hetolubemo|Heto Lubemo]] having told no one which way the clan will go. The Sengala delegation keeps close to the Kolembozi camp. The salt, fish and riverine goods the Kolembozi bring up from the coast are the goods Sengala traders carry onward, and they carry them north at the risk of the war.
+
+The Drum-Master keeps the central relay station of the northern drum-network, so the clan hears the drums' word of the war early and says nothing of how.
 
 ## See Also {#see-also}
 

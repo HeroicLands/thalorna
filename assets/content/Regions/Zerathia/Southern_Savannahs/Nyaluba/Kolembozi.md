@@ -69,7 +69,7 @@ The **Kolembozi** are the crocodile-clan of the [[affiliation-nylbtrblntn|Nyálu
 
 ## The Clan Now {#the-house-now}
 
-Kolembozi life runs along the water: fish-camps that move with the river, landings where the canoes are drawn up, and the reaches of channel each household knows by name. The clan's standing in the confederation rests on its _zherami nyende_, the spirit-speakers, whom the other clans send for when a matter needs judgment, healing or a bargain with a difficult spirit. The senior of them is [Lusheya nu Kolembozi]{.name data-type="being/npc"}, who walked into an Old Heto at her initiation and came out speaking [[lore-stonetongue|the Stone Tongue]].
+Kolembozi life runs along the water: fish-camps that move with the river, landings where the canoes are drawn up, and the reaches of channel each household knows by name. The clan's standing in the confederation rests on its _zherami nyende_, the spirit-speakers, whom the other clans send for when a matter needs judgment, healing or a bargain with a difficult spirit. The senior of them is [[being-lusheyaklm|Lusheya nu Kolembozi]], who walked into an Old Heto at her initiation and came out speaking [[lore-stonetongue|the Stone Tongue]].
 
 A Kolembozi who loses a relative to a crocodile names the crocodile, by name and by lineage, and treats the matter as a family affair to be settled and not avenged. [[lore-settlingfigs|The Settling at the Two Figs]] is the fire story of one such settling.
 

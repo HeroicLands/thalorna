@@ -46,7 +46,7 @@ Between gatherings the enclosure is empty of everyone but the Guardian and the N
 
 ## History {#history}
 
-The enclosure is one of the Old Hetos, raised by a people who built in stone before the Nyáluba, and the Great Lubemo meets in it every fourth dry season to renew the Long Pact ([[lore-nyalubahist|the History of the Nyáluba]]). Nobody living knows who raised the enclosure, or why the lesser platforms around it stand. The Ngonzi say the builders were their ancestors, and the Lobwezi griots say the builders may have been the ancestors of some other people. [Lusheya nu Kolembozi]{.name data-type="being/npc"}, the senior spirit-speaker of the Kolembozi, is said to have walked into an Old Heto in her initiation and come out speaking [[lore-stonetongue|the Stone Tongue]], the speech the Ngonzi elders say was the builders'. The Ngonzi confirm the report and the griots have entered it into the record of the Lubemo.
+The enclosure is one of the Old Hetos, raised by a people who built in stone before the Nyáluba, and the Great Lubemo meets in it every fourth dry season to renew the Long Pact ([[lore-nyalubahist|the History of the Nyáluba]]). Nobody living knows who raised the enclosure, or why the lesser platforms around it stand. The Ngonzi say the builders were their ancestors, and the Lobwezi griots say the builders may have been the ancestors of some other people. [[being-lusheyaklm|Lusheya nu Kolembozi]], the senior spirit-speaker of the Kolembozi, is said to have walked into an Old Heto in her initiation and come out speaking [[lore-stonetongue|the Stone Tongue]], the speech the Ngonzi elders say was the builders'. The Ngonzi confirm the report and the griots have entered it into the record of the Lubemo.
 
 ## The Present {#present}
 

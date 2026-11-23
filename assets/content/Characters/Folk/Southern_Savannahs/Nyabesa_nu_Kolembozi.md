@@ -44,7 +44,7 @@ Nyabesa nu Kolembozi is a 42-year-old woman who stands 5'7" tall and is of slim 
 
 # Dossier {#dossier}
 
-Nyabesa nu Kolembozi is the paramount of the [[affiliation-kolembozi|Kolembozi]] and sits at [[place-nyangulovlg|Nyangulo]]. She speaks for the clan at the [[affiliation-greatlubemo|Great Lubemo]]. She answers for the river's flow and for the ferrying of every clan's herds, and she asks the senior spirit-speaker, [Lusheya nu Kolembozi]{.name data-type="being/npc"}, before the clan makes war.
+Nyabesa nu Kolembozi is the paramount of the [[affiliation-kolembozi|Kolembozi]] and sits at [[place-nyangulovlg|Nyangulo]]. She speaks for the clan at the [[affiliation-greatlubemo|Great Lubemo]]. She answers for the river's flow and for the ferrying of every clan's herds, and she asks the senior spirit-speaker, [[being-lusheyaklm|Lusheya nu Kolembozi]], before the clan makes war.
 
 She does not shout or hurry, and she names a grievance once.
 

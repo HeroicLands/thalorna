@@ -48,6 +48,7 @@ data:
       Initiator: >-
         Conductor of the ordeal, conducted in the tree's shade over the course of a full day.
   seat: null
+  range: [sthrnsvnhs]
   population: {actual: null}
   economy: []
   lore: [baobablobwezispr, nyalbsprts]
@@ -64,6 +65,12 @@ Each Lobwezi village centers on an ancient tree—some a thousand years old or m
 ## Veneration
 
 The tree is the shrine; there is no other. Offerings are made at its root by each household of the village, and the tally is kept by the village's griot. A Lobwezi village whose baobab dies does not replant and does not stay: the guide has withdrawn, the pact with that ground is ended, and the village disperses to others. This has happened twice in remembered history, and both dispersals are named in the memory-songs; [[lore-twodispersals|The Song of the Two Dispersals]] counts the households of Bwelende and Shendala and the villages that took them in.
+
+## The Present {#present}
+
+The baobab's griots are the record of the Great Lubemo gathering at [[place-hetolubemo|Heto Lubemo]]. They enter which clan holds each claim, and the Senior Griot of the Long Pact, [[being-bonzimbelbwz|Bonzimbe of the Lobwezi]], recites the Pact's memory before the renewal. He carries the recorded judgments of every earlier Lubemo, and none of them is a judgment on a war between two of the five.
+
+The Lobwezi take no side in the war between the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]]. Their villages and their trees lie in pockets across Ruwozi, [[affiliation-ngonzi|Ngonzi]] and Kolembozi ground, and a grove on a Ruwozi drive or a Kolembozi reach is the clan's reason to hold the Pact by convergence and by nothing else.
 
 ## See Also {#see-also}
 

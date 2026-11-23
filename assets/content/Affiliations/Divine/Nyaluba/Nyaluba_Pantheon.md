@@ -54,6 +54,7 @@ data:
       Keeper of the Tally: >-
         Recorder of the offerings owed and made under each standing pact, without which the reckoning cannot be kept.
   seat: null
+  range: [sthrnsvnhs]
   population: {actual: null}
   economy: []
   lore: [nyalbsprts, shorinyadty]
@@ -162,7 +163,13 @@ The few scholars who have attempted to catalog them treat them as variants of a 
 underlying Zerathian substrate, with the Nyáluba Way the most elaborated and the most internally
 coherent of the documented forms.
 
-### See Also
+## The Present {#present}
+
+The [[affiliation-greatlubemo|Great Lubemo]] gathers this year at [[place-hetolubemo|Heto Lubemo]], and the war between the [[affiliation-ruwozi|Ruwozi]] and the [[affiliation-kolembozi|Kolembozi]] over the rivers stands first in its order. The tradition has no council over the five clans to judge the war. A matter that touches all five goes to the Lubemo, which is a political body, and each clan's delegation brings its three or four most experienced shamans to the sitting, where the Lubemo renews the totemic compacts.
+
+The war reaches into the pacts. The [Long Pact]{.name data-type="lore/law"}'s third term shares the rivers and binds each clan to keep the others' obligations to the spirits of those places, and the Ruwozi hold that the term gives the rivers to the herds. The Kolembozi asked their Senior Spirit-Speaker before the clan made war, as the office requires, and the answer was war.
+
+## See Also {#see-also}
 
 [[lore-nyalbsprts|Nyáluba Spirits]]
 : the guides, the seven kinds, the three postures, the pacts

@@ -121,7 +121,7 @@ The Nyáluba admire in him what their whole tradition rests on: that he remember
 
 ## The Woman Admired
 
-[Lusheya nu Kolembozi]{.name data-type="being/npc"}, senior spirit-speaker of the Kolembozi, is the Nyáluba's admired woman. She walked into an Old Heto at her initiation and walked out speaking [The Stone Tongue]{.name data-type="skill/language"}, the speech the Ngonzi elders say belonged to the stone-builders and no living Nyáluban understands. The griots have entered the report in the record of the Lubemo, and the Ngonzi have confirmed it. She says nothing of what the tongue is for.
+[[being-lusheyaklm|Lusheya nu Kolembozi]], senior spirit-speaker of the Kolembozi, is the Nyáluba's admired woman. She walked into an Old Heto at her initiation and walked out speaking [The Stone Tongue]{.name data-type="skill/language"}, the speech the Ngonzi elders say belonged to the stone-builders and no living Nyáluban understands. The griots have entered the report in the record of the Lubemo, and the Ngonzi have confirmed it. She says nothing of what the tongue is for.
 
 The Nyáluba admire in her the same restraint the griots show with words, turned to the spirits: she stood at the border of the world the clans share with the dead, and she came back without claiming what she brought. Her admiration is not a lesser form of Bonzimbe's. He keeps what has been given, and she goes where the giving is hard. [[being-nzoburwz|Nzobu Ruwozi]], the sixth woman to bear the title Nyoli Ruwozi, convenes the Lubemo and holds the higher rank; Lusheya holds the harder office. Her cost is that she cannot say what she knows: the Ngonzi hold one answer on whose dead the builders were and the baobab griots another, and the record holds only that the two differ.
 
@@ -200,7 +200,7 @@ In return a person is owed what each of those gives. The lineage gives its prote
 
 ## The Weak
 
-The household is the first shelter, and the Nyáluba grade it by closeness. A Kinsman is of the household's blood. A Dependent is sheltered without being of its blood: a widow's family, a client, a taken-in stranger. A Bondservant is held in service or debt and answers through the household's head, not in his own name. An orphan is raised in the lineage of its totem.
+The household is the first shelter, and the Nyáluba grade it by closeness. A Kinsman is of the household's blood. A Dependent is sheltered without being of its blood: a widow's family, a client, a taken-in stranger. An orphan is raised in the lineage of its totem.
 
 In scarcity the same principle that moves cattle through the year moves them through the lean one. A clan with surplus pasture in a wet year lends cattle to a clan with surplus need, a chief honors a guest knowing he will be honored in turn, and wealth that does not move is dead. The drought-war of three generations past is the measure of what a bad year does: famine pushed neighboring tribes into the Sengala country, and the regiments had to be called out.
 

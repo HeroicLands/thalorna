@@ -17,7 +17,9 @@ data:
 # terran_analog: Southern Africa—Namibia + Botswana + Zimbabwe + South Africa
 ---
 
-The Southern Savannahs are the vast subtropical grasslands of southern [[place-xerathia|Zerathia]]—open herd-country that stretches from the southern edge of the [[place-cntrlrnfrsts|Central Rainforests]] to the continent's southern coasts. Where the northern crescent teems with irrigated cities and the central rainforests choke with jungle, the deep south is spare: wide skies, long horizons, great herds moving with the seasons, and scattered peoples who follow them.
+The Southern Savannahs are herd-country without kings, where clans and lineages follow the great herds across open grassland and count their wealth in cattle, and the one confederation that binds five clans by pact, the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], is at war with itself over the rivers.
+
+They are the vast subtropical grasslands of southern [[place-xerathia|Zerathia]]—open herd-country that stretches from the southern edge of the [[place-cntrlrnfrsts|Central Rainforests]] to the continent's southern coasts. Where the northern crescent teems with irrigated cities and the central rainforests choke with jungle, the deep south is spare: wide skies, long horizons, great herds moving with the seasons, and scattered peoples who follow them.
 
 To the civilizations of the [[place-nrthrnfrtlrgn|Northern Fertile Region]], the savannahs are less a place than a rumor. Almost everything those civilizations know about the deep south comes second-hand through the rainforest tribes, who maintain seasonal trade relationships with the savannah herders along the long southern margin where jungle gives way to grassland. Direct expeditions from the north have been rare, ill-advised, and mostly did not return.
 
@@ -101,6 +103,9 @@ To the **far south** lie the coasts of an unnamed ocean and whatever exists beyo
 
 [[place-oldhetos|The Old Hetos]]
 : the dry-stone enclosures of the southeastern highlands
+
+[[place-dryreach|The Dry Reach]]
+: the dry channel in Kolembozi country, whose diversion both clans of the war have asked the Fénjara to read
 
 [[place-mbolewevlg|Mbolewe]]
 : the Ruwozi paramount's village-sized seat; the Nyáluba nation has no towns

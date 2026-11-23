@@ -89,7 +89,7 @@ A matter the paramounts cannot converge on waits for the next gathering, and the
 
 ## History as Told {#history}
 
-The Ngonzi tell no history of the builders in the open. What they say is that the dead of the Old Hetos are theirs, that the eagle carries word to them, and that the Stone Tongue was the builders' speech ([[lore-stonetongue|The Stone Tongue]]). They confirm that [Lusheya nu Kolembozi]{.name data-type="being/npc"} came out of an Old Heto speaking it, and the Lobwezi griots have entered the report into the record of the Lubemo.
+The Ngonzi tell no history of the builders in the open. What they say is that the dead of the Old Hetos are theirs, that the eagle carries word to them, and that the Stone Tongue was the builders' speech ([[lore-stonetongue|The Stone Tongue]]). They confirm that [[being-lusheyaklm|Lusheya nu Kolembozi]] came out of an Old Heto speaking it, and the Lobwezi griots have entered the report into the record of the Lubemo.
 
 ## Arms {#arms}
 
