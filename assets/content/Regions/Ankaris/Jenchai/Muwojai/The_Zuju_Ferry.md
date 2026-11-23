@@ -33,7 +33,7 @@ The toll-keepers are [[being-chaiwomuwoj|Muwojai Chaiwo]]'s servants, and they e
 
 Chaiwo has no grown heir, and each bloc is courting the candidates to succeed him. The Strait bloc wants the toll roll read, the loyalists want the gate kept shut, and the independent houses want to cross unwatched.
 
-A sealed letter from the throne bound for [[place-hawu|Hawu]] must cross here too, and [Shuiwojai Henzo]{.name data-type="being/npc"} does not trust the hands that carry it.
+A sealed letter from the throne bound for [[place-hawu|Hawu]] must cross here too, and [[being-henzoshuiwo|Shuiwojai Henzo]] does not trust the hands that carry it.
 
 ## Hooks {#hooks}
 

@@ -25,7 +25,7 @@ The summit is kept as a shrine of the moon, held in the name of [[lore-youweidty
 
 ## Current Situation {#present}
 
-In 720 AF the bay below Yujai is the one both blocs court. [Wojai Doja]{.name data-type="being/npc"}, who holds the mountain, has heard the prices that Henzo's silver and the Hojujai regent have named, and he has named his to neither.
+In 720 AF the bay below Yujai is the one both blocs court. [[being-wojaidoja|Wojai Doja]], who holds the mountain, has heard the prices that Henzo's silver and the Hojujai regent have named, and he has named his to neither.
 
 The court has pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of [[place-yuwu|Yuwu]]. Whoever redeems it before the New Year buys the Emperor's gratitude, and Doja has the means to redeem it himself. He is deciding whom among the houses to let do it, and his choice shows which way Wojai leans before he says so. The mountain's festival, which closes the lord's roll, waits until the year's tolls are counted.
 

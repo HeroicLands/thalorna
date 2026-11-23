@@ -58,6 +58,7 @@ data:
         Keeper of a funeral or offering-goods shop, which is a front and a point of contact with every household that keeps the ancestors.
       Assassin: >-
         Arranger of deaths that read as the natural consequence of the victim's own disgrace.
+  range: [tantsouregin]
   seat: null
   population: {actual: null}
   economy: []
@@ -109,6 +110,10 @@ The [Merchant Uprising]{.name data-type="affiliation"}
 
 [[affiliation-nuotsourui|Nwotsou Rwi]] (Cult of the Forsaken)
 : A nihilistic lower-caste cult that preaches the destruction of the classification system. The Lotus's alliance with them is more cynical than ideological; the cult provides deniable violence, disposable operatives, and a useful source of chaos that the Lotus can exploit.
+
+## The Present {#present}
+
+The Society funds the [Merchant Uprising]{.name data-type="affiliation"} and shields it from imperial scrutiny, and keeps its cynical alliance with [[affiliation-nuotsourui|Nwotsou Rwi]], which supplies deniable violence and disposable operatives. Its leadership stays unknown, and its cells keep working through bribed clerks, suborned diviners and the funeral and offering-goods shops.
 
 :::secret {title="Yanchai Zhau"}
 The new head of [[affiliation-yanchaizhao|Yanchai Zhau]], a noble house brought low in the Jade Fan Dance, has made a secret alliance with the Society to restore the house, and most of his own council does not know of it.

@@ -154,11 +154,11 @@ data:
       who: [{ref: affiliation-jenchaiempr, role: ruler}]
 ---
 
-The War of the Empty Seat began with a funeral and a question about who might inherit a sword. [Hojujai Henwo]{.name data-type="being/npc"}, the last Teng Ja, died in 709 AF, and the war that followed ran until 712 AF. It is the last time the balance among the Nine Mountains collapsed, and the way it was ended is why the realm has an Emperor who was crowned at eleven and no Teng Ja at his side.
+The War of the Empty Seat began with a funeral and a question about who might inherit a sword. [[being-henwohojujai|Hojujai Henwo]], the last Teng Ja, died in 709 AF, and the war that followed ran until 712 AF. It is the last time the balance among the Nine Mountains collapsed, and the way it was ended is why the realm has an Emperor who was crowned at eleven and no Teng Ja at his side.
 
 ## The Quarrel
 
-The office of Teng Ja, Heaven's Blade, lapses with its holder and is not inherited. When Henwo died his heir was a small child, and his widow, [Hojujai Rewei]{.name data-type="being/npc"}, held the mountain for him as regent. The court was ready to confer the office on that regency, so that the sword-arm of the realm would stay with Hojujai through the heir's minority and pass to the heir after it. [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on the regency, so that no house should hold it and the balance among the houses should stand.
+The office of Teng Ja, Heaven's Blade, lapses with its holder and is not inherited. When Henwo died his heir was a small child, and his widow, [[being-reweihojujai|Hojujai Rewei]], held the mountain for him as regent. The court was ready to confer the office on that regency, so that the sword-arm of the realm would stay with Hojujai through the heir's minority and pass to the heir after it. [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on the regency, so that no house should hold it and the balance among the houses should stand.
 
 The Nine hold two principles that bear on the question, and they pull against each other. One is that faith is owed to a lord's heir as the first of virtues, and the heir of the last Teng Ja was refused his father's office for being three years old. The other is that no house is to be set over the rest, and a regency in which a widow held the Emperor's sword was exactly that. Each side holds that the other began it, and the Nine have never agreed on which principle ranks higher.
 
@@ -170,7 +170,7 @@ Records of the individual fights were not kept, or have not been shared by the h
 
 ## The Peace
 
-The peace was bought with the throne. The Emperor abdicated, took vows and was renamed, as a lord or retainer of the islands does at the end of a long life, and he keeps a household in Lengwou. His son [Weileng]{.name data-type="being/npc"}, eleven years old, was enthroned on Zojai in 712 AF and took the style _Rongleng Tengzhei_. The Emperor of the Nine had been made to step down to pay for his lords' quarrel. The office of Teng Ja, which had started the war, was left unconferred, and the new Emperor has conferred it on nobody since.
+The peace was bought with the throne. The Emperor abdicated, took vows and was renamed, as a lord or retainer of the islands does at the end of a long life, and he keeps a household in Lengwou. His son [[being-weilengjnch|Weileng]], eleven years old, was enthroned on Zojai in 712 AF and took the style _Rongleng Tengzhei_. The Emperor of the Nine had been made to step down to pay for his lords' quarrel. The office of Teng Ja, which had started the war, was left unconferred, and the new Emperor has conferred it on nobody since.
 
 The settlement left both blocs standing. Hojujai kept its mountain under the widow's regency, and the Strait kept its fleet and its silver. Wojai has stood apart from both since.
 

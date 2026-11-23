@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-The Black Wilds, _Hwenhatou_ in Tantsou, are the steppe and broken hill-country north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the fortified marches of [[place-kwozhngmrch|the Kwozheng Marches]]. The Tantsou name joins _hwen_, disorder, _ha_, dark, and _tou_, earth: the dark and disordered land. This generation one man commands their tribes, and his riders are in the empire's northern districts.
+The Black Wilds are grazing and wells fought over by horse-riding tribes, which one man commands in this generation, and his riders are in the empire's northern districts. In Tantsou the land is called _Hwenhatou_: the steppe and broken hill-country north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the fortified marches of [[place-kwozhngmrch|the Kwozheng Marches]]. The Tantsou name joins _hwen_, disorder, _ha_, dark, and _tou_, earth: the dark and disordered land.
 
 ## The Land {#the-land}
 

@@ -399,7 +399,7 @@ Zenjai Tsuiwo, called Iron Warrior, is the Dauzhwo of the [[affiliation-zenjaidm
 
 **The half-ration winter.** The north came through last winter on half rations, and Tsuiwo knows the cost of it village by village.
 
-**The bidding.** [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and the regent [Hojujai Rewei]{.name data-type="being/npc"} are both bidding for him in rice they do not have. He will put 1,500 spears behind whichever bloc feeds his province.
+**The bidding.** [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and the regent [[being-reweihojujai|Hojujai Rewei]] are both bidding for him in rice they do not have. He will put 1,500 spears behind whichever bloc feeds his province.
 
 ## Psyche
 

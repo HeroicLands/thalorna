@@ -25,7 +25,7 @@ The summit shrine is kept by the domain's Tanchei, who hold the mountain record 
 
 ## Current Situation {#present}
 
-In 720 AF the north has come through a winter on half rations, and both blocs are bidding for the 1,500 spears of House Zenjai in rice that they do not have. [Zenjai Tsuiwo]{.name data-type="being/npc"} means to sell his choice for grain and not for titles, and he wants the granaries of the mountain full before the first snow.
+In 720 AF the north has come through a winter on half rations, and both blocs are bidding for the 1,500 spears of House Zenjai in rice that they do not have. [[being-zenjaitsuiwo|Zenjai Tsuiwo]] means to sell his choice for grain and not for titles, and he wants the granaries of the mountain full before the first snow.
 
 The snow closes the roads of the north over the shoulders of the mountain in winter, so a bloc that cannot deliver its rice in time loses the bid to the other. The vacant office of Teng Ja leaves the north's hunger as the realm's hinge, and the lord who climbs to the shrine through the first snow comes with that choice still open.
 

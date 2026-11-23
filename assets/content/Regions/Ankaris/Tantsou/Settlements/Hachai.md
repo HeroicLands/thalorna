@@ -4,7 +4,7 @@ name: {full: Hachai, en: [Hidden Peak]}
 type: place
 subType: settlement
 description: "Hachai, a herding and millet village in the high country of the Mwonou Uplands, a long day above the uppermost terraces; about 180 people."
-tags: [village, uplands, draft, gm]
+tags: [village, uplands, gm]
 data:
   demonym: null
   lore: [humanflk]

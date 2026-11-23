@@ -56,6 +56,7 @@ data:
       Information Broker: Keeper of what the Sect knows of weak households, bribable magistrates and suborned clerks.
       Embassy Liaison: Carrier of the arrangement with the Thordimalon embassy in the capital.
       Keeper of Leverage: Head of the small unit that holds the blackmail on which the embassy arrangement rests.
+  range: [tantsouregin]
   seat: null
   population: {actual: null}
   economy: []
@@ -115,6 +116,10 @@ Of all the Shadow Sect's external relationships, the most consequential—and th
 **Blackmail is constant and carefully managed.** The structural vulnerability of the arrangement—each side holding catastrophic information about the other—is not an accident. It is the foundation of the relationship's stability. Either side could destroy the other, which is precisely why neither does. Transactions are held carefully: intermediaries who know only a fraction of the picture, exchanges conducted at sites with no permanent records, coded correspondence that requires both sender and recipient to interpret correctly, and a strict discipline about which information is permitted to travel in which direction. The Sect maintains a small unit of its most trusted members whose sole responsibility is to manage the Order relationship and to ensure that the information asymmetries remain balanced. The Order has a comparable desk somewhere in its embassy, and both sides know the other exists.
 
 The practical effect is an arrangement that has lasted longer than most Tantsou alliances. Both sides would prefer a world in which they did not need each other. Neither can presently contemplate one.
+
+## The Present {#present}
+
+The Sect's standing arrangement is the one with the [[affiliation-ordoarcanis|Thordimalon]] embassy in the capital. The embassy secretly provides funds, documents, occasional safe houses and intelligence about imperial enforcement, and receives information and measured access to Wandwo texts and ritual techniques in return. Each side holds catastrophic information about the other, and a small unit of the Sect's most trusted members manages the arrangement. It has lasted longer than most Tantsou alliances.
 
 ## Ideology
 

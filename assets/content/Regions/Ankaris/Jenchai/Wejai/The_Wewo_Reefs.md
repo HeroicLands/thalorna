@@ -24,7 +24,7 @@ The shore below the mountain is dune and reef, and the reef is the livelihood of
 
 ## Who Uses It {#who-uses-it}
 
-The fishermen of Wewo make their offerings at the cape shrine before a storm season opens. Pilgrims come to it by the coast road. After every storm the wreck-officers of [Wejai Rowo]{.name data-type="being/npc"} walk the strand and the reef, since by wreck-right whatever the sea throws on the reefs belongs to the lord, and they report to the hall at [[place-zuwu|Zuwu]], where what they bring in is entered in the granary roll. The shrine's keepers enter every typhoon, with its year and its wrecks, in the mountain record that the domain's Tanchei keep.
+The fishermen of Wewo make their offerings at the cape shrine before a storm season opens. Pilgrims come to it by the coast road. After every storm the wreck-officers of [[being-wejairowo|Wejai Rowo]] walk the strand and the reef, since by wreck-right whatever the sea throws on the reefs belongs to the lord, and they report to the hall at [[place-zuwu|Zuwu]], where what they bring in is entered in the granary roll. The shrine's keepers enter every typhoon, with its year and its wrecks, in the mountain record that the domain's Tanchei keep.
 
 ## Dangers {#dangers}
 

@@ -152,7 +152,7 @@ The Jenchai use the mainland's word for the ordered death, [Rwising]{.name data-
 
 ## History {#history}
 
-The Emperors of the Nine descend from the imperial governor who led the island province out of the Empire of Tantsou ([[lore-jenchaiscs|The Secession of Jenchai]]). Within the realm the great events are the sixteen years in which [Hojujai Henwo]{.name data-type="being/npc"} held the office of Teng Ja, 693 to 709 AF, and the war over the office after his death ([[lore-hstryjenchai|The History of Jenchai]]; [[lore-empseatwar|The War of the Empty Seat]]).
+The Emperors of the Nine descend from the imperial governor who led the island province out of the Empire of Tantsou ([[lore-jenchaiscs|The Secession of Jenchai]]). Within the realm the great events are the sixteen years in which [[being-henwohojujai|Hojujai Henwo]] held the office of Teng Ja, 693 to 709 AF, and the war over the office after his death ([[lore-hstryjenchai|The History of Jenchai]]; [[lore-empseatwar|The War of the Empty Seat]]).
 
 ## Relationship with Tantsou
 

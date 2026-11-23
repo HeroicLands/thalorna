@@ -81,3 +81,6 @@ Hunger, and the risings of the Nouwen in the districts where the tribute is coll
 
 [[place-tantsouregin|Tantsou Region]]
 : the region
+
+[[scenario-doornvrexst|A Door That Has Never Existed]]
+: a scenario in which a party passes the Scholars' Door into Tantsou

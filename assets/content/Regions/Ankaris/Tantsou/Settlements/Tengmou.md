@@ -4,7 +4,7 @@ name: {full: Tengmou, en: [Heaven's Wood]}
 type: place
 subType: settlement
 description: "Tengmou, a town of the Mwonou Uplands above a valley of terraces and irrigation ditches, where the lanterns are lit along the terraces at the Moon Festival and the old women tell the tale of the petition with every seal; about 3,500 people."
-tags: [town, terraces, draft]
+tags: [town, terraces]
 data:
   demonym: null
   lore: [humanflk]

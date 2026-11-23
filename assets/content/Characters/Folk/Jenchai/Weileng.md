@@ -399,7 +399,7 @@ Weileng (Jade Dawn) is the Emperor of [[affiliation-jenchaiempr|Jenchai Empire]]
 
 ## Background
 
-**The child.** He was enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}.
+**The child.** He was enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [[lore-empseatwar|War of the Empty Seat]].
 
 **The schooling.** Scribes and ritualists raised him on patents, dignities and the Dawn Rite's seating. He learned to wait, because the one who speaks first in an audience has asked for something.
 

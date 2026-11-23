@@ -418,7 +418,7 @@ He is patient and unhurried, counts before he speaks and gives nothing away.
 
 ### Motivation
 
-He wants Wojai's harbor free of every lord's claim and the balance among the Nine standing. [[affiliation-shuiwojaidmn|Shuiwojai Domain]]'s silver and the regent [Hojujai Rewei]{.name data-type="being/npc"} have each named a price for Wojai in the contest for the vacant Teng Ja, and he has named his to neither.
+He wants Wojai's harbor free of every lord's claim and the balance among the Nine standing. [[affiliation-shuiwojaidmn|Shuiwojai Domain]]'s silver and the regent [[being-reweihojujai|Hojujai Rewei]] have each named a price for Wojai in the contest for the vacant Teng Ja, and he has named his to neither.
 
 ### Strengths
 

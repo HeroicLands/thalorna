@@ -115,11 +115,18 @@ At court you deal with the Caste-Registrar, [[being-cstrgstrtnts|Third Son of th
 
 ## Ways In
 
-[[scenario-embsydnvrtantsou|The Embassy from Dúnavarre to Tantsou]] carries a party east as part of a western embassy, into the middle of the Princes' game. At Zhowen its first business is paper: in [[scenario-flngnwrgn|A Filing in the New Reign]] two clerks of the chancellery come to the compound gate for the embassy's papers, each for a different hall, and the roll for the next hearing closes at sunset on the fourth day. At [[place-kwisen|Kwisen]], below the Scholars' Door, weather shuts the col with a party still above the place where the escort waits, or the registrar's daughter finds the party has no caste to answer with and wants an account her register can hold. At Wongsen a merchant's trading classification is about to expire with his goods still in a warehouse of [[place-wongsenfrgnqrtr|The Foreign Quarter of Wongsen]]. A tablet bought from the wrong person in the same quarter is either a forgery or a trap, and each answer has someone who wants it found.
+[[scenario-embsydnvrtantsou|The Embassy from Dúnavarre to Tantsou]] carries a party east as part of a western embassy, into the middle of the Princes' game. Its eastern leg is the campaign frame [[scenario-doornvrexst|A Door That Has Never Existed]], which follows the embassy from the pass to the court's verdict through three adventures:
 
-If you come from the empire itself, you might be a Tanchei clerk rotated to a district that does not want you, a Wohou officer's younger son waiting on a name he has not been granted, or a grain merchant's clerk at a canal lock above [[place-zhowen|Zhowen]], where a string of rice barges from Wongsen is held on a question of seals while the price rises on both shores.
+- **At the door.** At [[place-kwisen|Kwisen]], below the Scholars' Door, weather shuts the col with a party still above the place where the escort waits, or the registrar's daughter finds the party has no caste to answer with and wants an account her register can hold.
+- **At the chancellery.** At Zhowen the embassy's first business is paper: in [[scenario-flngnwrgn|A Filing in the New Reign]] two clerks of the chancellery come to the compound gate for the embassy's papers, each for a different hall, and the roll for the next hearing closes at sunset on the fourth day.
+- **At the port.** At Wongsen a merchant's trading classification is about to expire with his goods still in a warehouse of [[place-wongsenfrgnqrtr|The Foreign Quarter of Wongsen]]. A tablet bought from the wrong person in the same quarter is either a forgery or a trap, and each answer has someone who wants it found.
+
+If you come from the empire itself, you might be a Tanchei clerk rotated to a district that does not want you, as the registrars of [[place-jenshouhall|The District Hall of Jenshou]] are rotated, a [[lore-wohou|Wohou]] officer's younger son waiting on a name he has not been granted, or a grain merchant's clerk at a canal lock above [[place-zhowen|Zhowen]], where a string of rice barges from Wongsen is held on a question of seals while the price rises on both shores. The frame's Ways In bring a party like this to the embassy from the other side of the gate.
 
 ## Where to Read Next
+
+[[scenario-doornvrexst|A Door That Has Never Existed]]
+: the embassy's eastern leg, from the way-station to the Speaker's gate-court
 
 [[lore-tantsouclt|The Tantsou]]
 : classification, the ledger, names and manners

@@ -25,7 +25,7 @@ data:
     - mwonouprv
     - kwozhengprv
     - vylarinmpr
-  follows: []
+  follows: [embsydnvrtantsou]
   party: {size: null, archetypes: []}
   packFolder: adventures
 ---

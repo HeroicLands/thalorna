@@ -49,3 +49,6 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] holds that the Vedyari shrenis
 
 [[doc-tantsouadvguide|Tantsou Adventurer's Guide]]
 : the guide, which opens at the station
+
+[[scenario-doornvrexst|A Door That Has Never Existed]]
+: a scenario in which a party passes the Scholars' Door into Tantsou

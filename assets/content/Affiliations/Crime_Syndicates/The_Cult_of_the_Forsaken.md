@@ -35,6 +35,7 @@ data:
         Carries messages between cells. The function is purely message-bearing, and the holder knows no operational detail—which is what makes the network survive interrogation.
       Recruiter: >-
         Works the margins—the last taverns of disgraced merchant quarters, the southern work camps, the districts where the classification-failed congregate—and sees each recruitment through to its irreversible act.
+  range: [tantsouregin]
   seat: null
   population: {actual: null}
   economy: []
@@ -114,6 +115,10 @@ The cult's operations target the imperial system itself rather than any particul
 **Census sabotage and forgery.** Below the level of spectacular violence, the cult carries on a patient campaign of administrative corruption. Its agents within the lower bureaucracy—clerks, copyists, registration functionaries—quietly introduce errors into records, duplicate entries, mis-file classifications, and corrupt ancestor registration ledgers. No single act is catastrophic. The accumulated effect over years is a slow erosion of the classification system's integrity that the empire can observe in aggregate but cannot isolate to specific perpetrators.
 
 **Desecration of ancestor sites.** Attacks on ancestral shrines, household tablets, and family temples generate some of the heaviest moral-ledger damage possible—and the cult deploys these attacks strategically against households whose destruction the cult's wider strategy requires. A household whose ancestor tablets have been destroyed cannot conduct proper offerings; their ancestors cease to advocate; the household's standing within the classification system collapses.
+
+## The Present {#present}
+
+The cult's work now is the burning of administration centers and public assassinations at the empire's great festivals, carried out by regional cells that plan their own operations. Festival security has been hardened in response, and the cult regards that as evidence of its own effectiveness. Its covert alliance with the Black Lotus Society supplies it with weapons, materiel and safe passage.
 
 ## Alliance with the Black Lotus
 

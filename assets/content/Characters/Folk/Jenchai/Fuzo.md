@@ -396,7 +396,7 @@ Fuzo is a 54-year-old man who stands 5'9" tall and is of light build. He has gol
 
 # Dossier {#dossier}
 
-Fuzo (Calm Dragon) was Emperor of [[affiliation-jenchaiempr|Jenchai Empire]] until he abdicated in 712 AF, the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. He took vows and a new name, and the old name is not used. He keeps a household in [[place-lengwou|Lengwou]], below the palace where his son [[being-weilengjnch|Weileng]] reigns. The Dauzhwo resent a retired Son of Heaven who eats while the throne goes short.
+Fuzo (Calm Dragon) was Emperor of [[affiliation-jenchaiempr|Jenchai Empire]] until he abdicated in 712 AF, the price of the peace that ended the [[lore-empseatwar|War of the Empty Seat]]. He took vows and a new name, and the old name is not used. He keeps a household in [[place-lengwou|Lengwou]], below the palace where his son [[being-weilengjnch|Weileng]] reigns. The Dauzhwo resent a retired Son of Heaven who eats while the throne goes short.
 
 ## Background
 

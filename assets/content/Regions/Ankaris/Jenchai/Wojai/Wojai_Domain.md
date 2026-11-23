@@ -116,7 +116,7 @@ The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carri
 
 ## Current Situation {#present}
 
-In 720 AF Wojai is one of the two houses both blocs are bidding for. [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have each named a price, and [Wojai Doja]{.name data-type="being/npc"} has named his to neither. He wants the harbor free of every lord's claim and the balance of the Nine standing.
+In 720 AF Wojai is one of the two houses both blocs are bidding for. [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have each named a price, and [[being-wojaidoja|Wojai Doja]] has named his to neither. He wants the harbor free of every lord's claim and the balance of the Nine standing.
 
 The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of Yuwu. The bell sounds at dawn on the first day of the year on [[place-zojai|Zojai]]'s summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Doja has the means to redeem it himself, and he is deciding whom among the houses to let do it. His choice shows which way Wojai leans before it says so.
 

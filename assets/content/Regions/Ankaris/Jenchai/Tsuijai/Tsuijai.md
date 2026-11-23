@@ -27,7 +27,7 @@ The summit shrine keeps the earth and metal aspects of [[affiliation-tengwourong
 
 In 720 AF the smiths of the [Jaju]{.name data-type="affiliation/lineage"} at Tsaigen have been asked to begin the blade of the next Teng Ja, though [[being-weilengjnch|Weileng]] has not conferred the office. They will not begin until the Emperor names a holder, and the Jaju have not said who asked. An early order suggests that someone is preparing for the office, though a display of the blade order can also be a bluff.
 
-[Tsuijai Rezo]{.name data-type="being/npc"} wants to know who asked. He has named his price to no bloc: it is the forging of the blade, whoever carries it. Every lord buys the mountain's iron, so he wants the balance of the Nine to stand and the Nine to keep buying.
+[[being-tsuijairezo|Tsuijai Rezo]] wants to know who asked. He has named his price to no bloc: it is the forging of the blade, whoever carries it. Every lord buys the mountain's iron, so he wants the balance of the Nine to stand and the Nine to keep buying.
 
 ## See Also {#see-also}
 

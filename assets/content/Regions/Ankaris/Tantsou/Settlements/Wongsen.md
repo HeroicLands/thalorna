@@ -41,3 +41,6 @@ The records give the city's past no year. Since the drought of the young Emperor
 
 [[place-tantsouregin|Tantsou Region]]
 : the region
+
+[[scenario-doornvrexst|A Door That Has Never Existed]]
+: a scenario in which a party passes the Scholars' Door into Tantsou

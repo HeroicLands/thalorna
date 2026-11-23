@@ -19,7 +19,7 @@ The bell of the Dawn Rite is a bronze bell that belongs to the court. It sounds 
 
 ## Who Holds It {#who-holds-it}
 
-A merchant house of [[place-yuwu|Yuwu]] holds the bell against the court's debt, in the strong-room that the house keeps in the town. Yuwu is the castle town of the [[affiliation-wojaidmn|Wojai Domain]], whose lord, [Wojai Doja]{.name data-type="being/npc"}, is independent of both blocs. The house trades under his judges, and the bell does not leave the town unless he allows it.
+A merchant house of [[place-yuwu|Yuwu]] holds the bell against the court's debt, in the strong-room that the house keeps in the town. Yuwu is the castle town of the [[affiliation-wojaidmn|Wojai Domain]], whose lord, [[being-wojaidoja|Wojai Doja]], is independent of both blocs. The house trades under his judges, and the bell does not leave the town unless he allows it.
 
 ## Its Story {#its-story}
 
@@ -32,9 +32,9 @@ The bell opens the Dawn Rite with its sound, and it has no other use. Its value 
 ## Who Wants It {#who-wants-it}
 
 - **Wojai Doja** has the means to redeem the bell himself, and he is deciding which of the houses to let do it. A house that is let pays for the bell, and the house whose silver redeems it owes its place to him.
-- **The Strait bloc**, led by [Shuiwojai Henzo]{.name data-type="being/npc"}, who has covered the court's budget for three years, has the silver to buy the Emperor's gratitude and wants Henzo named Teng Ja.
+- **The Strait bloc**, led by [[being-henzoshuiwo|Shuiwojai Henzo]], who has covered the court's budget for three years, has the silver to buy the Emperor's gratitude and wants Henzo named Teng Ja.
 - **The loyalists**, [[affiliation-hojujaidmn|Hojujai Domain]] and [[affiliation-muwojaidmn|Muwojai Domain]], want the office for the Hojujai heir or for nobody, and would rather the Strait bloc did not earn the Emperor's gratitude.
-- **The Emperor**, [Weileng]{.name data-type="being/npc"}, is the one the bell belongs to, and he cannot redeem it himself.
+- **The Emperor**, [[being-weilengjnch|Weileng]], is the one the bell belongs to, and he cannot redeem it himself.
 
 ## Hooks {#hooks}
 

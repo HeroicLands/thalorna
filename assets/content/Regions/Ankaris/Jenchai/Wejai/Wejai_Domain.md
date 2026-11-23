@@ -114,7 +114,7 @@ The muster is 600 men and 15 ships. The ships are whalers and coastal guard boat
 
 ## Current Situation {#present}
 
-A typhoon drove a foreign hull onto the reefs of Wewo, and in 720 AF its cargo and its survivor are Wejai's problem. By wreck-right the cargo is the lord's. The survivor claims to be an envoy to the court, and his letters are in the cargo. If [Wejai Rowo]{.name data-type="being/npc"} keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross the [[affiliation-muwojaidmn|Muwojai Domain]]'s roads.
+A typhoon drove a foreign hull onto the reefs of Wewo, and in 720 AF its cargo and its survivor are Wejai's problem. By wreck-right the cargo is the lord's. The survivor claims to be an envoy to the court, and his letters are in the cargo. If [[being-wejairowo|Wejai Rowo]] keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross the [[affiliation-muwojaidmn|Muwojai Domain]]'s roads.
 
 Wejai has the fewest people of the four independent houses, and Rowo wants a better seat at the Dawn Rite than his 600 men and 15 ships have bought him. He has named his price to no bloc and wants to be asked after Zenjai and Wojai. The letters are what he has to bargain with.
 

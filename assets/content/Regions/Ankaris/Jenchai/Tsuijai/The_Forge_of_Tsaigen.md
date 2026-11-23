@@ -27,7 +27,7 @@ The yard lies behind a gate, with the forge, and the charcoal-stores. The iron s
 
 ## Who Is There {#who-is-there}
 
-The Jaju keep the armory and the forge, and the Keeper of the Armory is held by the lineage. The smiths bind the fire elemental to the gate, and the lineage renews the binding with each master of the forge. [Tsuijai Rezo]{.name data-type="being/npc"}, the Dauzhwo, sits in Tsuiwu below and arms his 550 men from the same forge.
+The Jaju keep the armory and the forge, and the Keeper of the Armory is held by the lineage. The smiths bind the fire elemental to the gate, and the lineage renews the binding with each master of the forge. [[being-tsuijairezo|Tsuijai Rezo]], the Dauzhwo, sits in Tsuiwu below and arms his 550 men from the same forge.
 
 ## The Present {#present}
 

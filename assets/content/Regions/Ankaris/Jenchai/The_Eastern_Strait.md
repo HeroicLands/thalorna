@@ -50,7 +50,7 @@ A trader crosses for the margin, since jade and silver are worth more to the isl
 
 ## Converging Interests {#present}
 
-The Shuiwojai and Rinjai fleets make the strait pay: tolls and ransoms on its water, and plunder from the mainland coast. [Shuiwojai Henzo]{.name data-type="being/npc"} wants to be named Teng Ja. The coastal magistrates want the raids stopped and their captured officers returned. The court of Tantsou wants the strait cleared of the islands' ships and has no fleet that can do it. The pilots want the crossing left alone. Whoever carries cargo, letters or a hostage across the strait meets each of these interests at both ends of the crossing.
+The Shuiwojai and Rinjai fleets make the strait pay: tolls and ransoms on its water, and plunder from the mainland coast. [[being-henzoshuiwo|Shuiwojai Henzo]] wants to be named Teng Ja. The coastal magistrates want the raids stopped and their captured officers returned. The court of Tantsou wants the strait cleared of the islands' ships and has no fleet that can do it. The pilots want the crossing left alone. Whoever carries cargo, letters or a hostage across the strait meets each of these interests at both ends of the crossing.
 
 ## See Also {#see-also}
 

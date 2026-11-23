@@ -123,7 +123,7 @@ Hojai is rumbling. The omen-readers are divided on whether the mountain condemns
 
 ## History {#history}
 
-The house held the office of Teng Ja for sixteen years, 693 to 709 AF, under [Hojujai Henwo]{.name data-type="being/npc"}, and its retainers are his household ([[lore-hstryjenchai|The History of Jenchai]]).
+The house held the office of Teng Ja for sixteen years, 693 to 709 AF, under [[being-henwohojujai|Hojujai Henwo]], and its retainers are his household ([[lore-hstryjenchai|The History of Jenchai]]).
 
 ## Relations {#relations}
 

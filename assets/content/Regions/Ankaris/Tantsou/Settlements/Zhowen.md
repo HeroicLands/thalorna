@@ -126,3 +126,6 @@ Zhowen is the capital of the present dynasty. The court reckons the city's years
 
 [[scenario-flngnwrgn|A Filing in the New Reign]]
 : a scenario in which the embassy's papers must reach the right hall of the chancellery before the Speaker's roll closes
+
+[[scenario-doornvrexst|A Door That Has Never Existed]]
+: a scenario in which a party passes the Scholars' Door into Tantsou

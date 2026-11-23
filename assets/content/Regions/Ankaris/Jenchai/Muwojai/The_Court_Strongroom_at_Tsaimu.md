@@ -27,11 +27,11 @@ The strongroom is a store of cedar and stone among the joiners' workshops, small
 
 ## Who Is There {#who-is-there}
 
-The Weiju hold the office of Keeper of the Court Treasury and answer for what the roll says is in the room. The lord of Muwojai, [Muwojai Chaiwo]{.name data-type="being/npc"}, holds the road to the village as he holds every road to the Emperor.
+The Weiju hold the office of Keeper of the Court Treasury and answer for what the roll says is in the room. The lord of Muwojai, [[being-chaiwomuwoj|Muwojai Chaiwo]], holds the road to the village as he holds every road to the Emperor.
 
 ## The Present {#present}
 
-The court spends more than it receives. Each Dauzhwo collects the court's share of his court estate through his own granary and forwards what he chooses, so what reaches Tsaimu is what the houses choose to send. The silver of [[affiliation-shuiwojaidmn|Shuiwojai]] has covered the shortfall for three years, and the roll in which every house's payment is entered is the court's own record of its debt to [Shuiwojai Henzo]{.name data-type="being/npc"}. The roll is kept by the retainers of a loyalist house, and the Strait bloc, which wants Henzo named Teng Ja, has no hand in it.
+The court spends more than it receives. Each Dauzhwo collects the court's share of his court estate through his own granary and forwards what he chooses, so what reaches Tsaimu is what the houses choose to send. The silver of [[affiliation-shuiwojaidmn|Shuiwojai]] has covered the shortfall for three years, and the roll in which every house's payment is entered is the court's own record of its debt to [[being-henzoshuiwo|Shuiwojai Henzo]]. The roll is kept by the retainers of a loyalist house, and the Strait bloc, which wants Henzo named Teng Ja, has no hand in it.
 
 ## Hooks {#hooks}
 

@@ -70,3 +70,6 @@ A foreigner without classification has no standing at all: he cannot own propert
 
 [[doc-tantsouadvguide|Tantsou Adventurer's Guide]]
 : the foreigner's place outside the sorted world
+
+[[scenario-doornvrexst|A Door That Has Never Existed]]
+: a scenario in which a party passes the Scholars' Door into Tantsou

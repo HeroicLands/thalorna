@@ -32,7 +32,7 @@ Yuwu is the seat of the house that pressed the court against the regency with Sh
 
 ## Current Situation {#present}
 
-In 720 AF Yuwu is a town both blocs court. The counting-houses and the lord's hall have heard the prices that [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have named, and [Wojai Doja]{.name data-type="being/npc"} has named his to neither. He reads the roll of the moorings himself.
+In 720 AF Yuwu is a town both blocs court. The counting-houses and the lord's hall have heard the prices that [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have named, and [[being-wojaidoja|Wojai Doja]] has named his to neither. He reads the roll of the moorings himself.
 
 Whoever redeems the pawned bell of the Dawn Rite before the New Year buys the Emperor's gratitude, and Doja is choosing whom to let do it. The foreign ships in the bay carry the news of the whole eastern coast, and a captain who lands a letter for the court finds the quay watched.
 

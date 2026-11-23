@@ -34,7 +34,7 @@ data:
 
 ## Overview {#overview}
 
-The Tantsou Region is the far east of the [[place-ankrscntnnt|Ankaris Continent]]: a vast expanse of river basins, temperate plains and coastal lowlands walled in by mountains, which has been the cradle of [[affiliation-tantsouempr|Tantsou civilization]] for more than three millennia. An outsider remembers it for its porcelain and its silk, and for the registers. Where the [[place-aureldirgn|Aureldian west]] is a mosaic of sovereign kingdoms bound by related faiths, Tantsou is one continuous civilization whose political form is nearly always imperial, whose eight castes have outlasted every dynasty, and whose celestial bureaucracy understands this land as the one place where the cosmos has been properly classified. The west of Ankaris has no emperor and does not want one. The east has had little else.
+Tantsou is one continuous civilization, whose eight castes have outlasted every dynasty and whose celestial bureaucracy understands this land as the one place where the cosmos has been properly classified. The Tantsou Region is the far east of the [[place-ankrscntnnt|Ankaris Continent]]: a vast expanse of river basins, temperate plains and coastal lowlands walled in by mountains, which has been the cradle of [[affiliation-tantsouempr|Tantsou civilization]] for more than three millennia. An outsider remembers it for its porcelain and its silk, and for the registers. Where the [[place-aureldirgn|Aureldian west]] is a mosaic of sovereign kingdoms bound by related faiths, the political form of Tantsou is nearly always imperial. The west of Ankaris has no emperor and does not want one. The east has had little else.
 
 ## Geography
 
@@ -152,3 +152,9 @@ To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] ne
 
 [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
 : a scenario set here
+
+[[scenario-flngnwrgn|A Filing in the New Reign]]
+: a scenario in which the embassy's papers must reach the right hall of the chancellery before the Speaker's roll closes
+
+[[scenario-doornvrexst|A Door That Has Never Existed]]
+: a scenario in which a party passes the Scholars' Door into Tantsou

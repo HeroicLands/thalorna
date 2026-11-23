@@ -27,7 +27,7 @@ The shrine is a small building on the summit rock, with an open court of bare st
 
 ## Who Is There {#who-is-there}
 
-The [[lore-tanchei|Tanchei]] of the court keep the shrine all year. On the first morning of the year the Emperor, [Weileng]{.name data-type="being/npc"}, comes up with his household guard, and the envoy of every lord stands in the court in the order of precedence the court has assigned. Every household of the Nine lights a lamp at the same dawn, so the rite is the one act the whole realm performs together, and the order of the envoys on the summit is the year's political map.
+The [[lore-tanchei|Tanchei]] of the court keep the shrine all year. On the first morning of the year the Emperor, [[being-weilengjnch|Weileng]], comes up with his household guard, and the envoy of every lord stands in the court in the order of precedence the court has assigned. Every household of the Nine lights a lamp at the same dawn, so the rite is the one act the whole realm performs together, and the order of the envoys on the summit is the year's political map.
 
 ## The Present {#present}
 

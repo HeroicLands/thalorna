@@ -115,7 +115,7 @@ The muster is 550 men, and none of them sails. The domain's own forge arms them,
 
 ## Current Situation {#present}
 
-In 720 AF the office of Teng Ja stands vacant, and a new holder receives a blade forged at Tsaigen. The smiths will not begin it until the Emperor names a holder, and someone has asked them to begin early. The Jaju have not said who asked, and [Tsuijai Rezo]{.name data-type="being/npc"} wants to know.
+In 720 AF the office of Teng Ja stands vacant, and a new holder receives a blade forged at Tsaigen. The smiths will not begin it until the Emperor names a holder, and someone has asked them to begin early. The Jaju have not said who asked, and [[being-tsuijairezo|Tsuijai Rezo]] wants to know.
 
 Rezo has named his price to no bloc: it is the forging of the blade, whoever carries it. Every lord comes to Tsuijai to buy iron, so he wants the balance to stand and the Nine to keep buying. An early order suggests that someone is preparing for [[being-weilengjnch|Weileng]] to confer the office, though showing the order can be a bluff, and a displayed order proves nothing about who knows the Emperor's mind.
 

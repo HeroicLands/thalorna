@@ -31,7 +31,7 @@ The Omen-Reader's assistants and the Tanchei who tend the instruments are on the
 
 ## The Present {#present}
 
-An imperial act waits on a reading. The Emperor confers the office of Teng Ja, which stands vacant, and the day on which he acts is fixed from the heavens as the Omen-Reader records them. A house that wants the office conferred has to learn which days the readings leave open. Every road to Zijai runs over ground that [Muwojai Chaiwo]{.name data-type="being/npc"} keeps, so each retainer who goes up with such a question is known at Kowu before he reaches the instruments.
+An imperial act waits on a reading. The Emperor confers the office of Teng Ja, which stands vacant, and the day on which he acts is fixed from the heavens as the Omen-Reader records them. A house that wants the office conferred has to learn which days the readings leave open. Every road to Zijai runs over ground that [[being-chaiwomuwoj|Muwojai Chaiwo]] keeps, so each retainer who goes up with such a question is known at Kowu before he reaches the instruments.
 
 ## Hooks {#hooks}
 

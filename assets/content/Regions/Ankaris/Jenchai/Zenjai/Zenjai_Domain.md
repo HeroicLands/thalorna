@@ -116,7 +116,7 @@ The muster is 1,520 men, and none of them sails: the domain has no fleet. The le
 
 ## Current Situation {#present}
 
-The north came through the winter before 720 AF on half rations, and [Zenjai Tsuiwo]{.name data-type="being/npc"} knows the cost of it village by village. Both blocs are bidding for his 1,500 spears, and both are bidding in rice that they do not have. [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have each named a price, and Tsuiwo means to sell his choice for grain and not for titles. He wants the granaries of the north full before the first snow.
+The north came through the winter before 720 AF on half rations, and [[being-zenjaitsuiwo|Zenjai Tsuiwo]] knows the cost of it village by village. Both blocs are bidding for his 1,500 spears, and both are bidding in rice that they do not have. [[being-henzoshuiwo|Shuiwojai Henzo]]'s silver and the Hojujai regent have each named a price, and Tsuiwo means to sell his choice for grain and not for titles. He wants the granaries of the north full before the first snow.
 
 The vacant office of Teng Ja leaves the north's hunger as the realm's hinge. A bloc that cannot deliver the rice loses the bid to the other, and the district whose granary stays empty is the one the winter takes again.
 

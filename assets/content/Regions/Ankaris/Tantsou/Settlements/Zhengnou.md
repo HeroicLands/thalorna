@@ -4,7 +4,7 @@ name: {full: Zhengnou, en: [Wall Fields]}
 type: place
 subType: settlement
 description: "Zhengnou, the terrace village on the hill above Weichai in the Mwonou Uplands, where each Nouwen household is named for the terrace its lineage cut and the Mou Clan keeps the Third Terrace; about 260 people."
-tags: [village, terraces, draft]
+tags: [village, terraces]
 data:
   demonym: null
   lore: [humanflk]

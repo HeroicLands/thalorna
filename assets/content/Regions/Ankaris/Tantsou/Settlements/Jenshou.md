@@ -22,7 +22,7 @@ data:
 
 Jenshou, Nine Waters, is a district town of [[affiliation-mwonouprv|Mwonou Province]] in [[place-mwonouplnd|the Mwonou Uplands]], downriver of the provincial seat at [[place-mwonou|Mwonou]]. Here a great river leaves the uplands for the central basins and breaks into nine channels across its own silt before it joins again below the town. About 7,000 people live in Jenshou.
 
-The town is two towns. The lower town stands on a mound above the channels, with the magistrate's hall, the market and [[place-jenshouhall|the District Hall of Jenshou]], where the district's register is kept. The upper town lies on the flat behind the [Tablet Bank]{.name data-type="place/site"}, the dike that carries the boundary-stones of the three upper villages, and the rice terraces climb the slopes above it.
+The town is two towns. The lower town stands on a mound above the channels, with the magistrate's hall, the market and [[place-jenshouhall|the District Hall of Jenshou]], where the district's register is kept. The upper town lies on the flat behind the [[place-tabletbank|Tablet Bank]], the dike that carries the boundary-stones of the three upper villages, and the rice terraces climb the slopes above it.
 
 ## What the Town Lives By {#what-the-town-lives-by}
 
