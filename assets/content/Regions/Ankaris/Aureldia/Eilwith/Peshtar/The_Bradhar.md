@@ -29,12 +29,12 @@ data:
         description: >-
           Has made the winter kill or killed an enemy of the clan, carries a spear at the gathering and speaks when the clan chooses its war-chief.
     offices:
+      War-Leader: >-
+        A war-chief the shamans name to lead the tribe's clans in one war, followed while the war goes well and left when it does not.
       War-Chief: >-
         Leads a clan's hunters and fighters by their acclaim, and keeps the post while no better fighter of the clan stands against them.
       Shaman: >-
         Keeps a clan's rites, its quarrels and its claims to ground, and sits at the gathering on the moor.
-      War-Leader: >-
-        A war-chief the shamans name to lead the tribe's clans in one war, followed while the war goes well and left when it does not.
   seat: highwood
   population: {actual: 24000}
   territorial_population: {actual: 24000}

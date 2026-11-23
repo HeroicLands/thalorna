@@ -29,12 +29,12 @@ data:
         description: >-
           Has ridden on a raid and come home, carries a spear at the autumn fire and swears there to the War-Leader.
     offices:
+      War-Leader: >-
+        Sworn to by the spears at the autumn fire for one year's raiding, and sworn to again only if the year went well.
       Stead-Head: >-
         Rules a stead and its households, keeps its stores and answers at the autumn fire for its spears.
       Grey Head: >-
         One of the old of the steads, who keep the count of deaths owed and recite it at the autumn fire.
-      War-Leader: >-
-        Sworn to by the spears at the autumn fire for one year's raiding, and sworn to again only if the year went well.
   seat: thornwold
   population: {actual: 9000}
   territorial_population: {actual: 9000}

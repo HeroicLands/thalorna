@@ -29,12 +29,12 @@ data:
         description: >-
           Holds cattle of their own in the clan's herd, and speaks when the clan chooses its war-chief.
     offices:
+      War-Leader: >-
+        A war-chief the shamans name to lead the whole tribe for one war, followed by the other clans for as long as the war goes well.
       War-Chief: >-
         Leads a clan's fighters, chosen by their acclaim, and holds the post while no better fighter of the clan stands against him.
       Shaman: >-
         Keeps a clan's rites, its law of inheritance and its quarrels, and sits at the gathering of shamans at the stone circle.
-      War-Leader: >-
-        A war-chief the shamans name to lead the whole tribe for one war, followed by the other clans for as long as the war goes well.
   seat: stormwood
   population: {actual: 22000}
   territorial_population: {actual: 22000}

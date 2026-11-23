@@ -9,11 +9,11 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [warrior, courtier]
-  occupation: Jarl
+  occupation: High Jarl
   lore: []
   culture: nordheimnclt
   homes: [stormveil]
-  affiliations: {jrldmstrmvld: {rank: 7, office: Jarl}}
+  affiliations: {jrldmstrmvld: {rank: 7, office: [High Jarl, Jarl]}}
   socialTies:
     being-draskmilglrv: rival
     being-vrithorvmrvd: acquaintance
