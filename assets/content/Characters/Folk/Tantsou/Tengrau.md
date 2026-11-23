@@ -1,6 +1,6 @@
 ---
-shortcode: tenglengemp
-name: {full: Tengleng, en: [Emperor Tengleng, Heaven's Dawn]}
+shortcode: tengrauemp
+name: {full: Tengrau, en: [Emperor Tengrau, Heaven's Thunder]}
 type: being
 subType: npc
 description: "The young Emperor of Tantsou, newly on the throne in the walled enclave of Zhowen, whom the four Princes each mean to shape and whose chief counselor is the Caste-Registrar."
@@ -33,11 +33,11 @@ data:
 
 # Appearance {#appearance}
 
-Almost nobody sees Tengleng. A petitioner who crosses the bridge on his written permission waits in the gate-court outside the enclave wall and hears the Speaker give the Emperor's answer; the Emperor himself stays behind the wall, among his attendants. The Princes, who alone besides those attendants may speak to him, see a young man still learning how much of what he says will be obeyed.
+Almost nobody sees Tengrau. A petitioner who crosses the bridge on his written permission waits in the gate-court outside the enclave wall and hears the Speaker give the Emperor's answer; the Emperor himself stays behind the wall, among his attendants. The Princes, who alone besides those attendants may speak to him, see a young man still learning how much of what he says will be obeyed.
 
 # Dossier {#dossier}
 
-Tengleng (Heaven's Dawn) is the Emperor of the [[affiliation-tantsouempr|Empire of Tantsou]], the _Tengzhei_ or Son of Heaven, who holds the [[lore-mandatehvn|Mandate of Heaven]] by cosmic appointment. He reigns from the palace on the island at [[place-zhowen|Zhowen]], inside the walled enclave of the [[lore-zhazho|Zhazho]]. He is young and newly on the throne, and he is still finding the reach of his own power.
+Tengrau (Heaven's Thunder) is the Emperor of the [[affiliation-tantsouempr|Empire of Tantsou]], the _Tengzhei_ or Son of Heaven, who holds the [[lore-mandatehvn|Mandate of Heaven]] by cosmic appointment. He reigns from the palace on the island at [[place-zhowen|Zhowen]], inside the walled enclave of the [[lore-zhazho|Zhazho]]. He is young and newly on the throne, and he is still finding the reach of his own power.
 
 ## The Reign
 

@@ -16,7 +16,7 @@ data:
   culture: tantsouclt
   homes: [zhowen]
   affiliations: {tantsouempr: {rank: 4, office: Caste-Registrar}}
-  socialTies: {being-tenglengemp: patron}
+  socialTies: {being-tengrauemp: patron}
   gender: male
   species: humanflk
   born: null
@@ -39,7 +39,7 @@ The Caste-Registrar is a man in the scholar's blue robe of the [[lore-tanchei|Ta
 
 # Dossier {#dossier}
 
-The Caste-Registrar of the [[affiliation-tantsouempr|Empire of Tantsou]] is known, in the register and at court, by his description: Third Son of the Archivist of the [Clan of Lanterns Along the Bank]{.name data-type="affiliation/lineage"}, near [[place-zhowen|Zhowen]]. He keeps the rolls on which every subject's caste, and therefore every subject's law, is entered, and he is the chief counselor of the young Emperor, [[being-tenglengemp|Tengleng]].
+The Caste-Registrar of the [[affiliation-tantsouempr|Empire of Tantsou]] is known, in the register and at court, by his description: Third Son of the Archivist of the [Clan of Lanterns Along the Bank]{.name data-type="affiliation/lineage"}, near [[place-zhowen|Zhowen]]. He keeps the rolls on which every subject's caste, and therefore every subject's law, is entered, and he is the chief counselor of the young Emperor, [[being-tengrauemp|Tengrau]].
 
 ## The Rolls and the Ear
 
@@ -71,7 +71,7 @@ Each of the four Princes wants him, and favor to one is read by the other three 
 
 ### Patrons
 
-- [[being-tenglengemp|Tengleng]]: the young Emperor, whose chief counselor he is.
+- [[being-tengrauemp|Tengrau]]: the young Emperor, whose chief counselor he is.
 
 ### Others
 

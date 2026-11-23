@@ -5183,7 +5183,7 @@ data:
     - {name: Eldest Son of the Terrace-Keeper of the Mou Clan, tongue: translation}
     - {name: Embassy Liaison, tongue: translation}
     - {name: Emperor, tongue: translation}
-    - {name: Emperor Tengleng, tongue: translation}
+    - {name: Emperor Tengrau, tongue: translation}
     - {name: Empire of Tantsou, tongue: translation}
     - {name: Falei, tongue: tanvuri, built: [fa, lei]}
     - {name: Falou Sei, tongue: tanvuri, built: [fa, lou, sei]}
@@ -5204,7 +5204,7 @@ data:
     - {name: Hayo, tongue: tanvuri, built: [ha, yo]}
     - {name: Ha Zhau, tongue: tanvuri, built: [ha, zhau]}
     - {name: Head of the House, tongue: translation}
-    - {name: "Heaven's Dawn", tongue: translation}
+    - {name: "Heaven's Thunder", tongue: translation}
     - {name: Heir, tongue: translation}
     - {name: Household, tongue: translation}
     - {name: Hozho, tongue: tanvuri, built: [ho, zho]}
@@ -5350,8 +5350,8 @@ data:
     - {name: Teng Chou, tongue: tanvuri, built: [teng, chou]}
     - {name: Teng Chou Script, tongue: translation}
     - {name: Teng Gwi, tongue: tanvuri, built: [teng, gwi]}
-    - {name: Tengleng, tongue: tanvuri, built: [teng, leng]}
     - {name: Tengmou, tongue: tanvuri, built: [teng, mou]}
+    - {name: Tengrau, tongue: tanvuri, built: [teng, rau]}
     - {name: Tengshou, tongue: tanvuri, built: [teng, shou]}
     - {name: Tengshou River, tongue: translation}
     - {name: Tengwou Rong Lei, tongue: tanvuri, built: [teng, wou, rong, lei]}

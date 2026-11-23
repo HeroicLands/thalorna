@@ -15,7 +15,7 @@ data:
   homes: [doulwen]
   affiliations: {doulwenprv: {rank: 5, office: Prince}, tantsouempr: {rank: 7}}
   socialTies:
-    being-tenglengemp: patron
+    being-tengrauemp: patron
     being-rinzhowngsn: rival
     being-hozhomwnou: rival
     being-tuizhokwzng: rival
@@ -44,7 +44,7 @@ Chengzho has the look of the Zhazho: nails grown almost impossibly long and lacq
 
 # Dossier {#dossier}
 
-Chengzho (Rising Dragon) is the Prince of [[affiliation-doulwenprv|Doulwen Province]], a _Zho Zhei_ of the [[lore-zhazho|Zhazho]] who holds the western basins and the passes toward the [[place-khzryndsrtrgn|Khazrin Desert Region]] for the Emperor. He rules from [[place-doulwen|Doulwen]], where the caravans of [[lore-celestialroad|the Celestial Road]] unload. He is a younger Prince and rising fast, he stands for reform, and he has the ear of the young Emperor, [[being-tenglengemp|Tengleng]].
+Chengzho (Rising Dragon) is the Prince of [[affiliation-doulwenprv|Doulwen Province]], a _Zho Zhei_ of the [[lore-zhazho|Zhazho]] who holds the western basins and the passes toward the [[place-khzryndsrtrgn|Khazrin Desert Region]] for the Emperor. He rules from [[place-doulwen|Doulwen]], where the caravans of [[lore-celestialroad|the Celestial Road]] unload. He is a younger Prince and rising fast, he stands for reform, and he has the ear of the young Emperor, [[being-tengrauemp|Tengrau]].
 
 ## The Rise
 
@@ -74,7 +74,7 @@ He rises quickly, which makes him every other Prince's first target, and his hol
 
 ### Patrons
 
-- [[being-tenglengemp|Tengleng]]: the young Emperor, whose ear he has.
+- [[being-tengrauemp|Tengrau]]: the young Emperor, whose ear he has.
 
 ### Rivals
 

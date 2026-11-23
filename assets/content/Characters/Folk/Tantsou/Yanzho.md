@@ -37,7 +37,7 @@ Nobody outside the enclave sees Yanzho. The city knows him as a name in the chan
 
 # Dossier {#dossier}
 
-Yanzho (Cloud Dragon) is the Retired Emperor of the [[affiliation-tantsouempr|Empire of Tantsou]]. He held the [[lore-mandatehvn|Mandate of Heaven]] and withdrew from the throne, and the young Emperor [[being-tenglengemp|Tengleng]] reigns in his place. He lives inside the walled enclave of the [[lore-zhazho|Zhazho]] at [[place-zhowen|Zhowen]], in the background of the court.
+Yanzho (Cloud Dragon) is the Retired Emperor of the [[affiliation-tantsouempr|Empire of Tantsou]]. He held the [[lore-mandatehvn|Mandate of Heaven]] and withdrew from the throne, and the young Emperor [[being-tengrauemp|Tengrau]] reigns in his place. He lives inside the walled enclave of the [[lore-zhazho|Zhazho]] at [[place-zhowen|Zhowen]], in the background of the court.
 
 ## The Withdrawal
 
@@ -67,7 +67,7 @@ He holds no office. What he once decreed is filed under an era that is closed.
 
 ### Court
 
-- [[being-tenglengemp|Tengleng]]: the young Emperor, who reigns in the era his withdrawal opened.
+- [[being-tengrauemp|Tengrau]]: the young Emperor, who reigns in the era his withdrawal opened.
 
 ### Affiliations
 

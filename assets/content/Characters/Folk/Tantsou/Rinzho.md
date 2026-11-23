@@ -77,7 +77,7 @@ No advantage holds for long among the Princes. The saying about his sorcerers gr
 ### Others
 
 - [[being-hozhomwnou|Hozho]]: the Prince of Mwonou, who buys Wongsen's rice for his famine country at Rinzho's price.
-- [[being-tenglengemp|Tengleng]]: the young Emperor, whose granaries buy from his.
+- [[being-tengrauemp|Tengrau]]: the young Emperor, whose granaries buy from his.
 
 ### Affiliations
 
