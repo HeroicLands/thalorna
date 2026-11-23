@@ -26,6 +26,7 @@ data:
     hair_color: black
     skin_color: tanned
     complexion: [weathered]
+    hair_style: knotted
     extra_features: [a bowstring callus on three fingers]
   packFolder: aureldiaelavendre
 ---

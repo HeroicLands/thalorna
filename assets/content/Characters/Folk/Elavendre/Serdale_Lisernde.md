@@ -27,7 +27,6 @@ data:
     hair_color: brown
     skin_color: light
     complexion: [clear]
-    hair_style: knotted
     extra_features: [a necklace of river stones]
   packFolder: aureldiaelavendre
 ---
