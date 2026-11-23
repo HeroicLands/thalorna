@@ -60,11 +60,23 @@ data:
 sohl: {system: {commonSkills: [tantsoulng]}}
 ---
 
-Kwozheng Province is the northern province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 20 million people. It holds the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the far-northern [[lore-grukarfolk|Grukar]] nests. Beyond the marches lies the steppe of [[place-blackwilds|the Black Wilds]], whose riders under [[being-wogenhenzhuo|Wogen Henzhwo]] have come into the northern districts. Its Prince, [[being-tuizhokwzng|Tuizho]], of the [[lore-zhazho|Zhazho]], rules from the city of [[place-kwozheng|Kwozheng]].
-
-The Prince of Kwozheng and the Prince of [[affiliation-mwonouprv|Mwonou Province]] are bitter rivals. Their quarrel is over an old marriage between their houses and an heir who died, and in the [[lore-weizhairui|Wei Zhai Rwi]] each takes the other's loss as his own gain.
+Kwozheng Province is the northern province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 20 million people. It holds the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the far-northern [[lore-grukarfolk|Grukar]] nests. Beyond the marches lies the steppe of [[place-blackwilds|the Black Wilds]]. Its Prince, [[being-tuizhokwzng|Tuizho]], of the [[lore-zhazho|Zhazho]], rules from the city of [[place-kwozheng|Kwozheng]].
 
 The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]].
+
+## Current Situation {#present}
+
+The steppe beyond the marches is united under [[being-wogenhenzhuo|Wogen Henzhwo]], and his riders are in the northern districts. The empire treats Grukar raids as a nuisance; the Black Wilds under Wogen are another matter.
+
+The Prince of Kwozheng and the Prince of [[affiliation-mwonouprv|Mwonou Province]] are bitter rivals, and in the [[lore-weizhairui|Wei Zhai Rwi]] each takes the other's loss as his own gain.
+
+## History {#history}
+
+The records give the province's past no year. The quarrel with Mwonou goes back to an old marriage between the two Princes' houses and an heir who died.
+
+For generations the garrisons of the marches kept the tribes of the Black Wilds divided, with gifts to one chief and raids against another. Then infighting among the [[lore-wohou|Wohou]] lords of the north thinned the frontier garrisons while the court looked to its own intrigues, and Wogen Henzhwo bound the tribes to him one at a time. By the time a Prince's report reached the capital, the border was porous and the tribes answered to one man. A run of hard winters and failing grazing drove them south against the marches.
+
+The marches sing of the Grukar. [[lore-unnumberedtwr|The Song of the Unnumbered Tower]] is the soldiers' song of a year at the tower between the third and the fifth that has no number: on a night in the Month of the Moon the Grukar came over the ditch, the report called it a raid of no account, and in the Month of Frost a clerk came up the road from the garrison command and wrote the three dead down right.
 
 ## See Also {#see-also}
 
