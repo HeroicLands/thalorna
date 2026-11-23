@@ -8,8 +8,8 @@ tags: [draft, central-rainforests]
 data:
   parents: []
   locations: [slntclrng]
-  cast: []
-  factions: []
+  cast: [ashwarden, damut, tereb]
+  factions: [kpalulatribe]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
@@ -23,10 +23,10 @@ In the deep forest there is a circle where nothing grows and no bird calls, and 
 
 Offer the entry that suits the hero.
 
-- **The thief.** A dead hunter's tally-cord, sold in a river-port, lists a cache of ivory and trade-iron left at the rim of a place where the birds stopped. The hunter did not come back for it.
-- **The mercenary or soldier.** A river-tribe's war-leader has lost three villages to the [Quiet Dead]{.name data-type="being/creature"} and hires spears to go to the source. The pay is in dyes, hardwood and a promise of tribute.
-- **The leader.** The chieftain's own scouts came back silent: they could speak but not hear, and they cannot say what they saw. The chieftain must decide whether to take the party's counsel or the shamans'.
-- **The lone wanderer.** The wanderer has walked a ten-day trail toward a silence no map shows. Behind them a forest tribe has been moved on by something at night.
+- **The thief: the dead hunter's cache.** A dead hunter's tally-cord, sold in a river-port, lists a cache of ivory and trade-iron left at the rim of a place where the birds stopped. The hunter did not come back for it.
+- **The mercenary or soldier: three lost camps.** A deep-forest tribe has lost three camps to the [Quiet Dead]{.name data-type="being/creature"}, and word reaches the river landings that its war-leader pays spears who go to the source and come back to say what they found. The pay is in dyes, hardwood and a promise of tribute.
+- **The leader: the scouts who came back silent.** The chieftain's own scouts came back silent: they could speak but not hear, and they cannot say what they saw. The chieftain must decide whether to take the party's counsel or the shamans'.
+- **The lone wanderer: the silence on no map.** The wanderer has walked a ten-day trail toward a silence no map shows. Behind them a forest tribe has been moved on by something at night.
 
 The place note is [[place-slntclrng|the Silent Clearing]].
 
@@ -38,8 +38,7 @@ The place note is [[place-slntclrng|the Silent Clearing]].
 
 **NPCs and threats.**
 
-- [The Ash-Warden]{.name data-type="being/npc"}. A gaunt, soot-streaked forest shaman who keeps the rim. He burns the Quiet Dead when they rise and renews the ash-paths each season. He is half mad from long silence, fiercely protective, and suspicious of anyone who wishes to go in. He speaks little and hits first.
-- **Bone-gray carrion-lizards,** which feed on the leavings of the dead at the rim.
+- The [[being-ashwarden|Ash-Warden]]. A gaunt, soot-streaked forest shaman who keeps the rim. He burns the Quiet Dead when they rise and renews the ash-paths each season. He is half mad from long silence, fiercely protective, and suspicious of anyone who wishes to go in. He speaks little and hits first.
 
 **Player choices.**
 

@@ -8,8 +8,8 @@ tags: [draft, central-rainforests]
 data:
   parents: []
   locations: [drwndzgrt]
-  cast: []
-  factions: []
+  cast: [cnstrctr, damut, tereb, portsalvager, siniluwala]
+  factions: [luwalatribe]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
@@ -23,10 +23,10 @@ A serpent-cult died in the deep forest and its priests did not. At [[place-drwnd
 
 Offer the entry that suits the hero.
 
-- **The thief.** A drunken river-factor in a northern port sells a map to a temple roofed in green stone. The roof is root and moss, but the bronze inside is real, and so is the jade at the heart of it.
-- **The mercenary or soldier.** A [[lore-khelathiclt|Khelathi]] salt-factor, who lost two salvage crews to the Ziggurat, hires guards for a third. His pay is good and his reasons are thin.
-- **The leader.** The chieftain of a river-tribe has watched the drowned plain's fish die and its water turn black. The tribe's eldest says the serpent-patron is troubled. The chieftain needs someone to go upriver who is not of the tribe, because no one of the tribe can break the taboo.
-- **The lone wanderer.** The wanderer has a fever-dream of a bronze wheel turning, and has dreamed it for a month. A river-guide who knows the way owes the wanderer a life and offers to pay.
+- **The thief: a map lost at dice.** A map to a temple roofed in green stone has come into the thief's hands, lost at dice by a drunken river-factor in a northern port. The roof is root and moss, but the bronze inside is real, and so is the jade at the heart of it.
+- **The mercenary or soldier: the third crew.** A [[lore-khelathiclt|Khelathi]] salt-factor who lost two salvage crews to the Ziggurat is sending a third, and its boss, a [[being-portsalvager|River-Port Salvager]], hires guards for it. The pay is good and the reasons are thin.
+- **The leader: the bar on the black water.** [[being-siniluwala|Sini Luwala]], leader of the [[affiliation-luwalatribe|Luwala Tribe]] at the last camp on the Dark River, has watched dead fish come down from the drowned plain and the black water darken. The tribe's eldest says the serpent-patron is troubled. Sini needs someone to go upriver who is not of the tribe, because no one of the tribe can break the bar on the water above the camp.
+- **The lone wanderer: the wheel in the fever-dream.** The wanderer has a fever-dream of a bronze wheel turning, and has dreamed it for a month. A River-Port Salvager who knows the way owes the wanderer a life and offers to repay it by taking the wanderer there.
 
 The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
@@ -38,8 +38,8 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 **NPCs and threats.**
 
-- [Old Coil]{.name data-type="being/creature"}. A river-python as long as a dugout, half blind and starved, coiled around the stair-foot in a nest of drowned roots. It is believed to be the last living remnant of the cult's patron, and the Shadow has not touched it, only left it hungry. It strikes at movement in the water and does not pursue far. It wants food more than blood: a cut of meat thrown to it draws it off.
-- **The salt-factor's second crew,** if the hook uses them: three ragged survivors camped on the causeway, afraid to go on and afraid to leave. They know the first terrace and will sell what they know.
+- [Old Coil]{.name data-type="being/creature"}. A river-python as long as a dugout, a [[being-cnstrctr|Constrictor Snake]] half blind and starved, coiled around the stair-foot in a nest of drowned roots. It is believed to be the last living remnant of the cult's patron, and the Shadow has not touched it, only left it hungry. It strikes at movement in the water and does not pursue far. It wants food more than blood: a cut of meat thrown to it draws it off.
+- **The salt-factor's second crew,** if the hook uses them: three ragged salvagers who survived it, camped on the causeway, afraid to go on and afraid to leave. They know the first terrace and will sell what they know.
 
 **Player choices.**
 
@@ -85,7 +85,7 @@ The place note is [[place-drwndzgrt|the Drowned Ziggurat]].
 
 **NPCs and threats.**
 
-- [Black-Oar]{.name data-type="being/npc"}. A river-ferryman and tomb-robber who came in by the back channel with four crewmen and a crowbar. He is lean, scarred and practical, and he offers a plain bargain: share the sanctum's treasure or drown in the shaft together. He has a rope.
+- [Black-Oar]{.name data-type="being/npc"}. A river-ferryman and tomb-robber, a River-Port Salvager by trade, who came in by the back channel with four crewmen and a crowbar. He is lean, scarred and practical, and he offers a plain bargain: share the sanctum's treasure or drown in the shaft together. He has a rope.
 - **The rising water,** which fills the shaft in a short time. Anything heavy slows the climb.
 
 **Player choices.**

@@ -8,8 +8,8 @@ tags: [draft, central-rainforests]
 data:
   parents: []
   locations: [lpdkngcrt]
-  cast: []
-  factions: []
+  cast: [lpdkngldr, leopard, dagbekpalula, ndokokpalula, spottedguard, cordkeeper, liholabearer]
+  factions: [kpalulatribe, liholatribe, ngotolatribe, sengala]
   follows: []
   party: {size: null, archetypes: []}
   packFolder: adventures
@@ -23,10 +23,10 @@ A sorcerer-leader in the forest is said to take the leopard's shape, and the tri
 
 Offer the entry that suits the hero.
 
-- **The thief.** The Court's gift-stores are said to hold ivory, dyes and iron. A river-factor, whose boats the [Spotted Guard]{.name data-type="affiliation"} took for the Court's use, offers a share for the key to the storehouses.
-- **The mercenary or soldier.** A tribe has sent no gift for a year, and its war-leader needs hired spears for the reckoning. The party's contract includes a letter of safe-conduct to the Court.
-- **The leader.** The party's chieftain faces a bad season, a feud, and an offer from a Court envoy: send the gifts, and the Court will leave the tribe alone and its hunters will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
-- **The lone wanderer.** The wanderer carries a leopard's claw token from a [[affiliation-sengala|Sengala]] trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
+- **The thief: a share of the gift-stores.** The Court's gift-stores are said to hold ivory, dyes and iron. A river-factor, whose boats the [Spotted Guard]{.name data-type="affiliation"} took for the Court's use, has let it be known at the river landings that he pays a share to whoever brings him the key to the storehouses.
+- **The mercenary or soldier: the withheld gift.** A tribe has sent no gift for a year, and word comes down to the landings that its war-leader pays hired spears for the reckoning to come. The contract carries a safe-conduct to the Court.
+- **The leader: the envoy's terms.** The party's chieftain faces a bad season, a feud, and an offer carried by a [[being-spottedguard|Hunter of the Spotted Guard]]: send the gifts, and the Court will leave the tribe alone and its hunters will stand at the border. The terms are said to be generous. The chieftain wants to see the King before swearing.
+- **The lone wanderer: the claw token.** The wanderer carries a leopard's claw token from a [[affiliation-sengala|Sengala]] trader who died on the trail and asked that it be returned. The token's owner was the Court's trade-agent.
 
 The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
@@ -38,8 +38,8 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **NPCs and threats.**
 
-- The Spotted Guard. Hunters in leopard-skin cloaks, armed with throwing spears and long knives, who fight from above and from cover. They do not shout challenges. They drop a spear in the path, and stepping over it marks a stranger as an enemy.
-- **A gift caravan** of river-folk, led by a worn headwoman who has made the walk fourteen times and wants the party's silence more than their company.
+- Hunters of the Spotted Guard, in leopard-skin cloaks and armed with throwing spears and long knives, who fight from above and from cover. They do not shout challenges. They drop a spear in the path, and stepping over it marks a stranger as an enemy.
+- **A gift caravan** of the [[affiliation-liholatribe|Lihola Tribe]], river-folk carrying smoked fish and river-salt, led by a worn headwoman, a [[being-liholabearer|Gift-Bearer of the Lihola]] who has made the walk fourteen times and wants the party's silence more than their company.
 
 **Player choices.**
 
@@ -58,13 +58,13 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **Purpose.** Roleplay: the Court's politics, the reach of its oaths, and the first sign that something is wrong.
 
-**Situation.** The audience hall is a long timber room with a roof of leopard pelts. Delegations from the neighboring tribes sit along the walls in the order they arrived, and the Speaker takes the gifts of each. A carved seat at the head holds a heap of spotted fur and nothing else. At its side stands the Speaker.
+**Situation.** The audience hall is a long timber room with a roof of leopard pelts. Delegations from the neighboring tribes sit along the walls in the order they arrived, their gifts left on the Lower Terrace below, and the Speaker hears the business of each. A carved seat at the head holds a heap of spotted fur and nothing else. At its side stands the Speaker.
 
 **NPCs and threats.**
 
-- **The Speaker.** A calm, gray-haired woman in a plain cloak, who speaks with open hands and gives the King's judgments in his name. She is intelligent, careful and tired. She does not lie, but she chooses what to say. She tests the party's honesty with small questions.
+- **Dagbe Kpalula, the Speaker.** A calm, gray-haired woman in a plain cloak, who speaks with open hands and gives the King's judgments in his name. She is intelligent, careful and tired. She does not lie, but she chooses what to say. She tests the party's honesty with small questions.
 - [[being-ndokokpalula|Ndoko Kpalula]], called Red-Spear. The Court's war-leader, a young man with a red-painted spear and a dangerous smile, who wants the King to rule openly and thinks the Speaker is hiding something. He seeks allies among visitors.
-- **The delegations.** The honey-gatherers want to send less than they did. The river-folk want iron. A mute envoy from a deep-forest people brings a carved pole and will not say why.
+- **The delegations.** The honey-gatherers of the [[affiliation-ngotolatribe|Ngotola Tribe]]'s bands want to send less than they did. The Lihola bearers want iron. A mute envoy from a deep-forest people brings a carved pole and will not say why.
 
 **Player choices.**
 
@@ -73,7 +73,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 - _Guile:_ play Red-Spear against the Speaker.
 - _Parley:_ swear a bargain at court. The Court says its oaths are struck under the notice of the leopard-guide, and the Speaker offers the party a place at the King's table.
 
-**Clues and rewards.** The King's seat is never occupied in daylight. The Speaker says the King comes at night. A servant lets slip that the King's cloak is changed every morning, and the old ones are burned.
+**Clues and rewards.** The King's seat is never occupied in daylight. The Speaker says the King comes at night. The Court's servants say among themselves, where a guest on the Lower Terrace can overhear, that the King's cloak is changed every morning and the old ones are burned.
 
 **Consequences.** A bargain sworn here binds the party to the Court's justice. An enemy made of Red-Spear shows up again in Scene Four.
 
@@ -87,8 +87,8 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 **NPCs and threats.**
 
-- **The King in leopard-shape.** A cat larger than any natural leopard, silent in the gardens, lit sometimes by moonlight and sometimes not at all. It hunts the party across the terraces. It attacks from above, drives its prey toward the open ground, and breaks off to circle. It is not a mindless beast, and it hunts with a patience that suggests it knows what it hunts for.
-- The Spotted Guard, posted on the garden walls, who do not interfere.
+- **The King in leopard-shape.** A cat larger than any natural leopard, silent in the gardens, lit sometimes by moonlight and sometimes not at all. It hunts the party across the terraces. It attacks from above, drives its prey toward the open ground, and breaks off to circle. It is not a mindless beast, and it hunts with a patience that suggests it knows what it hunts for. Run the shape as a [[being-leopard|Leopard]] of uncommon size; the King's own Actor serves for his man-shape in Scene Four.
+- Hunters of the Spotted Guard, posted on the garden walls, who do not interfere.
 
 **Player choices.**
 
@@ -97,7 +97,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 - _Guile:_ lead the cat to Red-Spear's quarters, or to the gift-store, and turn the Hunt on someone else.
 - _Parley:_ speak to the cat. It listens. A party member who has the leopard-guide's token, or the [Sengala Language]{.name data-type="skill/language"}, may be heard.
 
-**Clues and rewards.** The King's tracks end in the [[place-thronecave|Throne Cave]]. At dawn a cord with a fresh knot hangs on the garden wall, tied there by the Cord-Keeper.
+**Clues and rewards.** The King's tracks end in the [[place-thronecave|Throne Cave]]. At dawn a cord with a fresh knot hangs on the garden wall, tied there by the [[being-cordkeeper|Cord-Keeper]].
 
 **Consequences.** A party that survives the Hunt without killing the cat is accepted by the Court. A party that wounds it is hunted by the Guard.
 
@@ -113,7 +113,7 @@ The place note is [[place-lpdkngcrt|the Leopard King's Court]].
 
 - The Leopard King. Once a chieftain, he took the leopard's shape by a rite of his own making, which costs him a name for every change. The Cord-Keeper ties each forgotten name into a cord so that the Court remembers what he cannot. He has taken the shape so often that he now forgets his own children. He is lucid for an hour at a time, and in those hours he knows what he has become. In leopard-shape his tactics are those of the animal, ambush from above, a throat-bite, withdrawal. In man-shape he is a weary and generous host.
 - **The Cord-Keeper.** Frail, fierce, and loyal. She would kill to protect him, and she will beg the party to leave.
-- Red-Spear, if turned against the Speaker, who arrives with armed men.
+- Red-Spear, if turned against the Speaker, who arrives with hunters of the Spotted Guard.
 
 **Player choices.**
 
