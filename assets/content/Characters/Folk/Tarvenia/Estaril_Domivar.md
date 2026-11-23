@@ -63,7 +63,7 @@ His orders from Lezkora are weeks old when they arrive, and his rivals among the
 
 ### Companions
 
-Társila Thelvaris commands one of his garrison units and has his confidence. The garrison's captains and the town assembly's elders report to him.
+Zolta Thelvaris commands one of his garrison units and has his confidence. The garrison's captains and the town assembly's elders report to him.
 
 ### Patrons
 
