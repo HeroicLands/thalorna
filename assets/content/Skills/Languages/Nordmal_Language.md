@@ -556,6 +556,26 @@ data:
       field: "The boat and the beacon"
       gloss: "a keel"
       built: ["thrask-"]
+    - form: "hafthresk"
+      class: "n"
+      field: "The boat and the beacon"
+      gloss: "an open-sea keel; the ocean-going trading hull"
+      built: ["haf-", "thresk"]
+    - form: "strandarv"
+      class: "n"
+      field: "The boat and the beacon"
+      gloss: "a shore-oar; the coastal and fjord trading hull"
+      built: ["strandva", "arvi"]
+    - form: "vredgnum"
+      class: "n"
+      field: "The boat and the beacon"
+      gloss: "a wide pot; the broad bulk-carrying hull"
+      built: ["vredi", "gnum"]
+    - form: "ormthresk"
+      class: "n"
+      field: "The boat and the beacon"
+      gloss: "a serpent keel; the longship"
+      built: ["orm-", "thresk"]
     - form: "dresk"
       class: "n"
       field: "The boat and the beacon"
@@ -6175,6 +6195,10 @@ data:
     - {name: brildmil dvurnumak, tongue: nordmal}
     - {name: gnaldrinna driskumak, tongue: nordmal}
     - {name: varmathurs, tongue: nordmal, built: [varma, thurs-], gloss: the wall-giant}
+    - {name: hafthresk, tongue: nordmal, built: [haf-, thresk], gloss: the open-sea keel}
+    - {name: strandarv, tongue: nordmal, built: [strandva, arvi], gloss: the shore-oar}
+    - {name: vredgnum, tongue: nordmal, built: [vredi, gnum], gloss: the wide pot}
+    - {name: ormthresk, tongue: nordmal, built: [orm-, thresk], gloss: the serpent keel}
   retired:
     - {form: domsey, instead: domsei, why: closing y is not a spelling}
     - {form: nulthey, instead: nulthei, why: closing y is not a spelling}
@@ -6467,7 +6491,7 @@ The hearth words are the first a child learns and the last a traveler thinks to 
 
 ### The boat and the beacon
 
-A boat's keel is named for the sound it makes running up onto shingle, and a beacon for the light it keeps: both words are stems in the fourth grade, and a skald who makes a kenning of either has the stem's sense waiting for him.
+A boat's keel is named for the sound it makes running up onto shingle, and a beacon for the light it keeps: both words are stems in the fourth grade, and a skald who makes a kenning of either has the stem's sense waiting for him. The four hulls of the northern yards are named from the same pieces: _hafthresk_ is the open-sea keel, _strandarv_ the shore-oar, _vredgnum_ the wide pot and _ormthresk_ the serpent keel.
 
 ### Whale and seal
 
