@@ -25,6 +25,7 @@ data:
     hair_color: greying_black
     skin_color: tawny
     complexion: []
+    mouth: full
     extra_features: [a tattoo of a leaf on the wrist]
   packFolder: regkhhk
   items:
