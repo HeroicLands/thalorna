@@ -99,5 +99,8 @@ The Old Mole's stones are the oldest thing on the island, and nobody can date th
 [[doc-kalipsaadvguide|Kalipsa Adventurer's Guide]]
 : an introduction for players
 
+[[lore-hstryaureldia|The History of Aureldia]]
+: the island's past within the history of the five lands
+
 [[scenario-sprngsttng|The Spring Sitting of 720]]
 : a scenario set here

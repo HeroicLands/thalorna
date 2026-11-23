@@ -8,8 +8,6 @@ tags: []
 data: {packFolder: adventurersguides, culture: kalipsanclt}
 ---
 
-Kalipsa Adventurer's Guide opens on the water:
-
 > You come up on deck in the gray before dawn, after a night of open sea, and the first thing you see is the light: a steady yellow star low on the water ahead, where there should be no star. By the time the sky behind you is pale the island is under it, a dark hump with cliffs white with birds, and the light is a square tower on a headland. The master has hove to. Spray comes over the rail cold enough to make your teeth ache, the hull smells of tar and wet grain, and off the bow a line of black rocks shows and vanishes in the swell. Nobody on deck is talking. They are watching a small boat come out from under the headland, four oars and a man standing in the stern.
 >
 > He comes up the side as if it were a stair, a broad, gray-bearded man in an oiled coat with a brass badge on a cord at his throat, and he looks at the rocks before he looks at anyone. "_Fridma tiv thuv_," he says to the master, and then to you, because you are the stranger: peace to you. "[[being-glurvmilhvr|Glurvmil Hvurnaruk]], pilot of Kalipsa, of the lower quay." He puts out a hand for the master's papers, reads the name of the house that sent the hull, and nods at the rocks without turning his head. "Those are [the Hounds]{.name data-type="place/feature"}. I take you in, or you wait for the fog to lift and take yourselves. The fee is the same."

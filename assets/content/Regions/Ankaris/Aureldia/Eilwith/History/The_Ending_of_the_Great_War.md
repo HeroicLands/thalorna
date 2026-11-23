@@ -60,13 +60,13 @@ data:
         - whether the Khazari meant to leave the island to the humans, or merely stopped wanting it
 ---
 
-The Ending of the Great War is recalled by a short saying in [[place-vardainvalleys|the Vardain valleys is short]]: the [[lore-flkkhazar|Khazari]] finished it, and then they went home. It is a complete account of how the [Great War]{.name data-type="lore/history"} ended on [[place-eilwith|Eilwìth]], and it leaves out only the question of why a people who had just won would go home.
+The Ending of the Great War is recalled in [[place-vardainvalleys|the Vardain valleys]] by a short saying: the [[lore-flkkhazar|Khazari]] finished it, and then they went home. It is a complete account of how the [Great War]{.name data-type="lore/history"} ended on [[place-eilwith|Eilwìth]], and it leaves out only the question of why a people who had just won would go home.
 
 ## A War With Nobody Left to Fight It
 
 The Great War had been two centuries of arrival and reprisal between the refugees of the [[lore-pelwarpepl|Pelwar People]] on the island and the elder kingdom that could not absorb them. When the Senali king fell at [[place-threesisters|the Three Sisters]] in 984 BF the [[lore-flksenali|Senali]] left the field and the crown, and the Khazari stayed to finish a war they had joined as one half of a government. They did it in a few seasons, as they do anything that has been decided, and then they stopped.
 
-They did not take the island. A hold grows nothing and needs farmers within reach of its gate, and the Khazari had never wanted the lowlands, only the people on them who fed [[place-vorgald|Vorgald]]. So they kept what a hold needs: [[place-ironfells|the Ironfells]] and the north-east plain, with the high valleys, held for [[lore-vardain|the Vardain]] who farmed it. Everything else, from the interior and the coast to the western uplands and the forest edge, they left to the Pelwar who had fought them. No oath was sworn and no line was drawn; the garrisons went back inside the mountain, and the Pelwar found that nobody remained to dispute the ground.
+They did not take the island. A hold grows nothing and needs farmers within reach of its gate, and the Khazari had never wanted the lowlands, only the people on them who fed [[place-vorgald|Vorgald]]. So they kept what a hold needs: [[place-ironfells|the Ironfells]] and the northern plain, with the high valleys, held for [[lore-vardain|the Vardain]] who farmed it. Everything else, from the interior and the coast to the western uplands and the forest edge, they left to the Pelwar who had fought them. No oath was sworn and no line was drawn; the garrisons went back inside the mountain, and the Pelwar found that nobody remained to dispute the ground.
 
 ## Whose Roads
 

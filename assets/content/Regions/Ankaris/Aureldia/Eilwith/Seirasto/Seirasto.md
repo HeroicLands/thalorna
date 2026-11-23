@@ -13,6 +13,7 @@ data:
     - {to: ondareth, bearing: W}
     - {to: thornwold, bearing: N}
     - {to: dunavarre, bearing: E}
+    - {to: teilvari, bearing: E}
     - {to: veldareth, bearing: W}
   population: {actual: 4000}
   government: nclvhllwwd

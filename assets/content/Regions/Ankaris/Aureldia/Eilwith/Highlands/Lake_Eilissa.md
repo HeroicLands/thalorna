@@ -9,7 +9,11 @@ data:
   demonym: null
   lore: []
   parents: [cntrlhghlnds]
-  borders: [{to: stormveld, bearing: N}, {to: aldorathrgn, bearing: E}]
+  borders:
+    - {to: stormveld, bearing: N}
+    - {to: sunderfells, bearing: N}
+    - {to: aldorathrgn, bearing: E}
+    - {to: dunavarre, bearing: SE}
   population: {actual: null}
   packFolder: eilwith
   culture: aelwythanclt

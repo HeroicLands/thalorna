@@ -9,7 +9,10 @@ data:
   demonym: null
   lore: []
   parents: [eilwith]
-  borders: [{to: ondareth, bearing: W}, {to: thornwold, bearing: SE}]
+  borders:
+    - {to: pshtrwldrns, bearing: N}
+    - {to: ondareth, bearing: W}
+    - {to: thornwold, bearing: SE}
   population: {actual: 9000}
   packFolder: eilwith
 ---

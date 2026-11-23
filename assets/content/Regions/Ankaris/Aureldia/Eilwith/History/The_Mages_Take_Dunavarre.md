@@ -51,7 +51,7 @@ data:
         - why the Arcane Order wanted a kingdom here when it already advised every court on the island
 ---
 
-[[affiliation-kingdmdnvr|The last king of Dúnavarre]]** is remembered, in so far as he is remembered, for his chair. [Yenral]{.name data-type="being/npc"} was set aside about 490 AF without a blow and lived out his life in comfort at [[place-ravenmoor|Ravenmoor]]. The chair he sat in at the head of the hall is still there, kept and dusted, and no one has sat in it since.
+**The last king of [[affiliation-kingdmdnvr|Dúnavarre]]** is remembered, in so far as he is remembered, for his chair. [Yenral]{.name data-type="being/npc"} was set aside about 490 AF without a blow and lived out his life in comfort at [[place-ravenmoor|Ravenmoor]]. The chair he sat in at the head of the hall is still there, kept and dusted, and no one has sat in it since.
 
 ## Three Reigns
 
@@ -61,7 +61,7 @@ The kingdom's own chronicles tell this as a natural evolution, and the account i
 
 ## The Synod and Its Arm
 
-The Synod governs from Ravenmoor, with no head named outside its closed session. Its arm is the [[affiliation-justbladeordr|Order of the Just Blade]], whose Knight-Captains command the realm's forces under the Synod's authority and carry the principles of the [[affiliation-ardavon|Faith of Árdavon]] into the field. The arrangement gave the Arcane Order the one kingdom in the world where it holds direct power, and it gave the island's other courts a neighbor that can withdraw their advisors.
+The Synod governs from Ravenmoor, and its presiding mage, the Prime Marendos, is the realm's head of state under it; [[being-velisndorrvl|Velisande Orravel]] holds the office. The Synod's arm is the [[affiliation-justbladeordr|Order of the Just Blade]], whose Knight-Captains command the realm's forces under the Synod's authority and carry the principles of the [[affiliation-ardavon|Faith of Árdavon]] into the field. The arrangement gave the Arcane Order the one kingdom in the world where it holds direct power, and it gave the island's other courts a neighbor that can withdraw their advisors.
 
 ## What It Left {#what-it-left}
 

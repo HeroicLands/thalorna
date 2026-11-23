@@ -3,7 +3,7 @@ shortcode: aureldirgn
 name: {full: Aureldia Region}
 type: place
 subType: region
-description: The western heartland of the Aureldian faith—a mosaic of kingdoms, city-states, and island realms bound by the Twelve rather than by crown.
+description: The western heartland of the Aureldian faiths—a mosaic of kingdoms, city-states, and island realms bound by the Twelve rather than by crown.
 tags: [region, aureldia]
 data:
   culture: aureldianclt
@@ -61,17 +61,17 @@ Aureldia's people are overwhelmingly human, but they are far from homogeneous. E
 
 The **[[lore-aelwythanclt|Eilwìthan]]** of the Misty Isle are marked in their culture by deep legend, surviving shamanic practice, and the thin veil between the mortal world and the numinous. The **[[lore-elavendrnppl|Élavendren People]]** and **[[lore-aelendnppl|Áelendan People]]** of Élavendre share a common Pelwar ancestry—the Élavendri cultivated and courtly, the Áelendan tribal and forest-dwelling—and both are unusually magically attuned. The **[[lore-tarvenanclt|Tarvenan]]** peoples of the southern peninsula live in a patchwork of feudal kingdoms—the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], the [[affiliation-kingdmlnrk|Kingdom of Lyenrik]], the [[affiliation-kngdmglvrn|Kingdom of Galvaren]], and the [[affiliation-kngdmstrth|Kingdom of Asturath]]—with the [[affiliation-frctyvlthr|Free City of Valthari]] and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] as independent merchant enclaves between them. The **Provénzians** of the southern coast are artists, poets, vintners, and philosophers, their city-culture more southern-coastal than ocean-facing. And the **Kalipsi** of Kalipsa are merchant-oligarchs whose seafaring houses carry Aureldian goods across most of Thalorna's known waters.
 
-Minority peoples include isolated [[lore-grukarfolk|Grukar]] nests in the highlands, with no trade or parley between those nests and their neighbors, and—vanishingly rare, but not entirely absent—the elder races: members of the [[lore-flksenali|Senali Folk]] who sometimes walk through Élavendre's oldest forests, and the [[lore-flkkhazar|Khazár Folk]], whose scattered halls endure in the high faces of the remotest ranges.
+Minority peoples include the [[lore-grukarfolk|Grukar]], a pestilence on Eilwìth, whose nests hold the forest and mountain of the Central Highlands, the Peshtar Wilderness, the Ironfells and the woods south of the lake and are at war with every realm and people within reach, with no trade or parley ([[lore-grukaraelwyth|the Grukar of Eilwìth]]); and—vanishingly rare, but not entirely absent—the elder races: members of the [[lore-flksenali|Senali Folk]] who sometimes walk through Élavendre's oldest forests, and the [[lore-flkkhazar|Khazár Folk]], whose scattered halls endure in the high faces of the remotest ranges.
 
 Despite the diversity, Aureldian high culture shares certain hallmarks: chivalric and courtly ideals; a tradition of bardic and scholastic learning epitomized by [[affiliation-bardicolgs|the Bardic Colleges]]; reverence for the land as a living participant in human affairs; and a deep preference for sovereignty at the polity level. No emperor has ever ruled all of Aureldia, and the parts that paid him took their crowns back. No Aureldian expects one to.
 
-## The Aureldian Faith
+## The Twelve Faiths
 
 Aureldia takes its name from the Aureldian Pantheon. Every Aureldian polity builds temples to the Twelve, whose distinct faiths honor [[lore-zunelasdty|Zunelas]] of dreams, [[lore-selmorosdty|Sélmoros]] of death, [[lore-brazemasdty|Brazemas]] of storms, [[lore-ardavondty|Árdavon]] of order, [[lore-marendasdty|Marendas]] of knowledge, [[lore-olveniadty|Ólvenia]] of prosperity, [[lore-lusiniadty|Lusinia]] of creation, [[lore-karnavosdty|Karnavos]] of chaos, [[lore-pozerasdty|Pozeras]] of voyages, [[lore-morvanadty|Morvana]] of decay, [[lore-lizelasdty|Lizelas]] of fertility, and [[lore-ustarondty|Ústaron]] of fire in one of his two contested aspects.
 
 The faiths extend well beyond Aureldian borders—the Twelve are worshipped in the [[affiliation-vylarinmpr|Vilérian Empire]], the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], [[place-helionis|Helionis]], [[affiliation-byzarianlg|Bizaria]], and elsewhere across the [[place-midhalnrgn|Midhalión Region]]'s basin—but Aureldia is the cradle and the heartland. The great pilgrim-routes, the oldest shrines, the most influential scholars of the Twelve, and the highest concentration of clergy all lie in Aureldian lands. A priest educated in Élavendre or a scholar trained in Provénzia carries authority anywhere the Twelve are honored.
 
-[[lore-ustaranschism|The Ústaran Schism]] is the great fracture in Ústaran worship. Five centuries ago the clergy of Ústaron divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]]—Ústaron as craftsman, protector, and illuminator—became the mainstream Aureldian faith. [[affiliation-blackflame|The Black Flame]]—Ústaron as purifier-through-destruction, fire as weapon and instrument of domination—was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aureldian politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
+[[lore-ustaranschism|The Ústaran Schism]] is the great fracture in Ústaran worship. Five centuries ago the clergy of Ústaron divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]]—Ústaron as craftsman, protector, and illuminator—became the mainstream Ústaran faith. [[affiliation-blackflame|The Black Flame]]—Ústaron as purifier-through-destruction, fire as weapon and instrument of domination—was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aureldian politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
 
 Eilwìth is the great partial exception to the Aureldian religious pattern. Centuries of Nordmen settlement have woven the [[affiliation-asguardian|Asguardian gods]] into the island's religious life, and many Eilwìthans revere both pantheons—an uneasy syncretism that the mainland Aureldian clergy view with curiosity, tolerance, or alarm depending on the decade.
 
@@ -82,7 +82,7 @@ Aureldia has no emperor, no paramount king, no unified church-state. What it has
 The major powers of the region are:
 
 [[place-eilwith|Eilwìth]]
-: The Misty Isle, a patchwork of kingdoms (the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]) and a republican enclave ([[affiliation-repblcndrth|Ondareth]]), knit together by shared culture more than by government.
+: The Misty Isle, shared by four settled realms (the [[affiliation-kngdmldrth|Kingdom of Aldorath]], the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], the [[affiliation-repblcndrth|Republic of Ondareth]] and the Nordmen's [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]), with the Senali forest of [[place-hallowwood|Seirasto]] and the tribes of the forest and the hills outside every realm, and held together by no government.
 
 [[place-elavendre|Élavendre]]
 : The Pelwar coastal kingdom, culturally preeminent but politically divided between the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] and the neighboring [[place-alndntrblnds|Áelendan Tribal Lands]].

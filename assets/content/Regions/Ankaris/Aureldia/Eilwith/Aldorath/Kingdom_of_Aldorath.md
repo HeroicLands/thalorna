@@ -62,7 +62,7 @@ data:
       Warden of the Wiindmarch: >-
         Held by a Knight or above, appointed by the King. Holds Kaerwiind and the garrisons, beacons and levies of the Wiindmarch against the Stormveld passes and the forest, and receives each baron's levy for its season on the march.
       Forester: >-
-        Held by a member of the Gentry or above, appointed by the King. Keeps the royal forest above Kingshollow under forest law, holds its forest court, and marks the tree the king gives the village each midwinter.
+        Held by a member of the Gentry or above, appointed by the King. Keeps the royal forest above Kingshollow under forest law, holds its forest court, and marks the tree the king gives the tenants each midwinter.
   seat: dunmere
   population: {actual: 200000}
   territorial_population: {actual: 200000}

@@ -70,6 +70,16 @@ vines, which is the single most improbable fact about the island's agriculture.
 ## Polities
 
 ```sql
+WITH RECURSIVE lands(addr) AS (
+  SELECT r.address.canonical
+  FROM notes r
+  WHERE r.type = 'place' AND r.shortcode = 'eilwith'
+  UNION
+  SELECT c.address.canonical
+  FROM notes c
+  JOIN lands ON list_contains(c.data.parents, lands.addr)
+  WHERE c.type = 'place'
+)
 SELECT p.address.slug AS _ref,
        p.name.full    AS "Polity",
        p.description  AS "Overview"
@@ -79,24 +89,23 @@ WHERE p.type = 'affiliation'
   AND EXISTS (
     SELECT 1
     FROM notes l
-    WHERE l.type = 'place'
-      AND l.data.government IN (p.address.canonical, p.documentation)
-      AND (l.shortcode = 'eilwith' OR list_contains(l.data.parents, 'thalorna-note-place-eilwith'))
+    JOIN lands ON l.address.canonical = lands.addr
+    WHERE l.data.government IN (p.address.canonical, p.documentation)
   )
 ORDER BY p.name.full COLLATE NOCASE
 ```
 
 ### Elder Race Enclaves
 
-The southern forest shelters ancient communities of Senali (elves). The crown of [[affiliation-kngdmldrth|Aldorath]] claims a distant but real relationship with them, which the Senali neither confirm nor deny. The mountains north of Aldorath, which run east from Stormveld to the sea, contain [[place-vorgald|Vorgald]], the island's one Khazari (dwarf) hold, which few humans have seen and whose people are among the most reclusive of their kind anywhere on Ankaris.
+The southern forest shelters ancient communities of Senali. The crown of [[affiliation-kngdmldrth|Aldorath]] claims a distant but real relationship with them, which the Senali neither confirm nor deny. The mountains north of Aldorath, which run east from Stormveld to the sea, contain [[place-vorgald|Vorgald]], the island's one Khazari hold, which few humans have seen and whose people are among the most reclusive of their kind anywhere on Ankaris.
 
 ### Minor Polities
 
-Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of [[place-veldareth|Veldareth]], on the southern coast between Ondareth and Seirasto, is a neutral center of learning whose [[affiliation-panepistmm|Epistémion]] chapterhouse is among the most respected on the island.
+Between and beyond the four realms lie smaller polities of other kinds. The [[affiliation-freeveldareth|Free City of Veldareth]], on the southern coast between Ondareth and Seirasto, is a neutral center of learning whose [[affiliation-panepistmm|Epistémion]] chapterhouse is among the most respected on the island. The [[affiliation-koldmermoot|Koldmere Moot]] governs the free village of reed-cutters on the lake's north-western shore. [[affiliation-vrgldhld|Vorgald Hold]] is the Khazari hold in the Ironfells, and the [[affiliation-nclvhllwwd|Enclave of Seirasto]] is the Senali's forest on the south coast. Outside every realm live the tribes: [[affiliation-bradhar|the Bradhar]], [[affiliation-kelgar|the Kelgar]] and [[affiliation-lonagar|the Lonagar]] of the Peshtar Wilderness, the Durrask of the Thornwold, and the [[affiliation-saelvri|Seilvri]] of western Dúnavarre.
 
 ## Religion
 
-The twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are dominant in the southern and eastern kingdoms, with the [[affiliation-zunelas|Faith of Zunelas]], the [[affiliation-lusinia|Faith of Lusinia]], and [[affiliation-karnavos|Karnavos]] being particularly prominent. [[affiliation-ardavon|Árdavon]] holds special importance in Dúnavarre. The Nordmen of the Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods. Local folk traditions—spirits of the lake, guardians of crossroads, ancestral ghosts—layer additional beliefs atop the formal pantheons.
+The twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are dominant in the southern and eastern kingdoms, with the [[affiliation-zunelas|Faith of Zunelas]], the [[affiliation-lusinia|Faith of Lusinia]], and the [[affiliation-karnavos|Faith of Karnavos]] being particularly prominent. The [[affiliation-ardavon|Faith of Árdavon]] holds special importance in Dúnavarre. The Nordmen of the Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods. Local folk traditions—spirits of the lake, guardians of crossroads, ancestral ghosts—layer additional beliefs atop the formal pantheons.
 
 The [[affiliation-repblcndrth|Republic of Ondareth]] in the west is the exception on the island and something of an exception in the Aureldian world. [[affiliation-blackflame|The Black Flame]]—suppressed nearly everywhere else—carries enormous influence there, for the straightforward reason that suppression requires magistrates and Ondareth's magistracies are for sale. So does the [[affiliation-selmoros|Faith of Sélmoros]], whose god is known as the Silent Judge, for the opposite reason: in a republic whose courts work for whoever pays them, a god who cannot be bought is, to believers, the only judge most Ondarethan will ever meet on equal terms with their betters.
 
@@ -132,7 +141,7 @@ to the humans who stayed, is told in [[lore-endgreatwar|the Ending of the Great 
 
 Nearly every human on Eilwìth today descends from those refugees, the Peshtar among them. The exception is [[lore-vardain|the Vardain]], who descend from the humans the Khazari brought across before them, a much older line that is not Pelwar.
 
-## The Crown Roads
+## The Crown Roads {#the-crown-roads}
 
 The Joint Crown left roads. They are stretches of **fitted-stone road**, laid by Khazari masons in blocks no
 later mason on the island can match, and they run across the interior and the highlands where no later road
@@ -229,7 +238,7 @@ the island.
 
 **Eilwìth is where the Arcane Order can study the fae without constraint.** In
 Élavendre, which is the richest fae country in the known world, the Arcane Order is permitted
-and limited: it holds the [University of Péravel]{.name data-type="affiliation"}, at [[place-beravel|Péravel]], and it does not go past the tree line, because the
+and limited: it holds the [[affiliation-univperavel|University of Péravel]], at [[place-beravel|Péravel]], and it does not go past the tree line, because the
 [[affiliation-alndnwrdns|Áelendan Wardens]] enforce a boundary the Élavendren crown declines to move.
 Eilwìth has real fae sites and **no equivalent institution**. The country they lie in belongs to
 scattered tribes with no common council, no wardens, no treaty with anyone and no means of compelling
@@ -290,9 +299,10 @@ They fall into several groups, and the Vardain are not a tribe and should not be
 The **tribal peoples**—about a tenth of the island—live outside every realm, in the
 Peshtar Wilderness across the north-west and much of the northern coast, in the Thornwold,
 and in the old woods of western Dúnavarre. The lowland realms
-call all of them barbarians, which is convenient and uninformative; the forest peoples are markedly more
-warlike than the northern tribes, and the settled realms treat the forest margins as frontier rather
-than border.
+call all of them barbarians. The Durrask of the Thornwold are
+markedly more warlike than the northern tribes, and the settled realms treat the Thornwold's margins as
+frontier rather than border. The Seilvri of western Dúnavarre are a peaceful people, and the war in
+their forest is the Synod's.
 
 The **Vardain** are something else entirely, and lumping them with the tribes is the commonest error
 outsiders make about Eilwìth. They are the free remnant of [[place-vardanreach|Vardanreach]], the nation that held the
@@ -344,8 +354,16 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 - **Stormveld.** The jarls' pacts have the Jarldom at war with the [[affiliation-kelgar|Kelgar]] and the [[affiliation-lonagar|Lonagar]], and the jarl of Drasknes means to put the High Jarl's seat to the coming Midsomar moot.
 - **The Thornwold.** The [[affiliation-durrask|Durrask]] raid Aldorath, Dúnavarre and Ondareth at once under a War-Leader sworn for his third year.
 - **Vorgald.** The [[affiliation-vrgldhld|hold]] asks the Vardain valleys how many more runaways from the plain their granaries will carry.
+- **The Grukar.** The [[lore-grukaraelwyth|Grukar]] nests of the Central Highlands, the Peshtar Wilderness, the Ironfells and the woods south of the lake are at war with every realm and tribe within reach.
+- **Seirasto.** The wardens of [[place-hallowwood|Seirasto]] watch the Durrask country and the Crown Road on the forest's northern edge, and turn back the carters who come down the road from Dunmere.
 
 ## See Also {#see-also}
+
+[[doc-aelwythadvguide|Eilwìth Adventurer's Guide]]
+: an introduction for players
+
+[[lore-hstryaureldia|The History of Aureldia]]
+: the island's ages within the history of the five lands
 
 [[place-elavendre|Élavendre]]
 : Nearest mainland region
@@ -353,8 +371,8 @@ than a king of seventy-five thousand who has all of his. Every ruler on the isla
 [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 : Source of northern settlers
 
-[[affiliation-arldnpnthn|Aureldian]]
-: Dominant pantheon
+[[affiliation-arldnpnthn|Aureldian Pantheon]]
+: the twelve faiths of the southern and eastern realms
 
 [[affiliation-asguardian|Asguardian Pantheon]]
 : Northern pantheon influence
