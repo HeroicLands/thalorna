@@ -158,7 +158,8 @@ asked.
 
 Two of the roads are known for what they do. One stretch runs straight from the highland grazing to the edge
 of Seirasto and stops there at a bank of oaks, with no gate, no marker and no road
-beyond. A cellar in Veldareth has a door cut into its footing that does not open, and the household that owns the
+beyond. The other, [[place-crownroad|the Crown Road]], runs south from Dunmere through the oak woods of the
+Thornwold to Seirasto's north-eastern edge, past the lit house of [[place-wenlornestage|Wenlorne Stage]]. A cellar in Veldareth has a door cut into its footing that does not open, and the household that owns the
 house does not say whether it has been tried.
 
 ## The Island and the World

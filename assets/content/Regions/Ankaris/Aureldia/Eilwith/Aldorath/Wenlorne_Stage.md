@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [thornwold]
+  routes:
+    - {to: dunmere, bearing: N, mode: land, days: 1, terrain: [forest, road]}
+    - {to: hallowwood, bearing: S, mode: land, days: 1, terrain: [road, forest]}
   population: {actual: null}
   packFolder: eilwith
   culture: aelwythanclt
@@ -16,7 +19,7 @@ data:
 
 ## Overview {#overview}
 
-The Crown Road that runs south from [[place-dunmere|Dunmere]], at the south-eastern tip of the lake, through the oak woods of [[place-thornwold|the Thornwold]] toward [[place-hallowwood|Seirasto]] is whole for most of a day's walk beyond the last Aldorathi steading. Its fitted blocks are as true as when the Khazari masons of [[lore-jointcrown|the Joint Crown]] cut them, and the oaks and beeches the [[lore-flksenali|Senali]] planted along it have grown into a roofed lane. About halfway down the whole stretch stands **Wenlorne Stage**, a square stone relay house with a gate-arch, a stable court and a tower at the north-west corner for the road-horn. The crown kept such houses a day apart so that a rider with a royal writ changed horses at each one and a traveler slept behind a barred door.
+[[place-crownroad|The Crown Road]] that runs south from [[place-dunmere|Dunmere]], at the south-eastern tip of the lake, through the oak woods of [[place-thornwold|the Thornwold]] toward [[place-hallowwood|Seirasto]] is whole for most of a day's walk beyond the last Aldorathi steading. Its fitted blocks are as true as when the Khazari masons of [[lore-jointcrown|the Joint Crown]] cut them, and the oaks and beeches the [[lore-flksenali|Senali]] planted along it have grown into a roofed lane. About halfway down the whole stretch stands **Wenlorne Stage**, a square stone relay house with a gate-arch, a stable court and a tower at the north-west corner for the road-horn. The crown kept such houses a day apart so that a rider with a royal writ changed horses at each one and a traveler slept behind a barred door.
 
 The roof is sound and the gate stands open. At dusk the iron lamp-posts that line the last mile of road are lit, one after another, from the stage outward, and burn with a steady pale light until dawn. Nobody has been seen to light them.
 
@@ -45,6 +48,9 @@ The lamps are still lit every dusk. The king's foresters out of Dunmere have sto
 From Dunmere the old road starts at a ford below the last foresters' lodge and runs south under the oaks. A party on foot reaches Wenlorne in a long day. The road is the surest footing in the forest, and the forest on either side of it is wet, dense and held by Grukar, so the road is where a party stays. After dark the lamps begin.
 
 ## See Also {#see-also}
+
+[[place-crownroad|The Crown Road]]
+: the road the stage keeps
 
 [[place-thornwold|The Thornwold]]
 : the oak country the road crosses

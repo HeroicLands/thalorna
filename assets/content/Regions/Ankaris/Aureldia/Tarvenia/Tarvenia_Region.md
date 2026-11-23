@@ -65,6 +65,34 @@ Within Tarvénia itself, the [[place-alndntrblnds#the-tarvenan-diaspora|Áelenda
 
 Tarvenan sailors and mercenaries are found across the [[place-vylarianse|Vilérian Sea]] and beyond. Their reputation as fierce fighters and skilled seafarers makes them valued (if sometimes unpredictable) allies and employees.
 
+## Polities
+
+```sql
+WITH RECURSIVE lands(addr) AS (
+  SELECT r.address.canonical
+  FROM notes r
+  WHERE r.type = 'place' AND r.shortcode = 'tarvenirgn'
+  UNION
+  SELECT c.address.canonical
+  FROM notes c
+  JOIN lands ON list_contains(c.data.parents, lands.addr)
+  WHERE c.type = 'place'
+)
+SELECT p.address.slug AS _ref,
+       p.name.full    AS "Polity",
+       p.description  AS "Overview"
+FROM notes p
+WHERE p.type = 'affiliation'
+  AND p.subType = 'polity'
+  AND EXISTS (
+    SELECT 1
+    FROM notes l
+    JOIN lands ON l.address.canonical = lands.addr
+    WHERE l.data.government IN (p.address.canonical, p.documentation)
+  )
+ORDER BY p.name.full COLLATE NOCASE
+```
+
 ## Current Situation {#present}
 
 The High King is old. The electing council chose [[being-ularrekgarr|Ularrek Garrundeta]], a lord of Asturath's high valleys, because each of the greater candidates could block the others, and he holds his court at [[place-lezkora|Lezkora]] as the guest of the king of Asturath, [[being-alzemozold|Alzemo Zolduregi]]. The king of Lyenrik, [[being-zenotholtr|Zenoth Oltris]], means to stand at the next election, and the lowland lords have begun sending their men up the road to Lezkora one and two at a time.

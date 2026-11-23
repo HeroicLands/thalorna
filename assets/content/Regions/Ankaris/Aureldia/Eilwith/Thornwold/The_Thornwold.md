@@ -22,7 +22,7 @@ data:
 
 **The Thornwold** is the broken upland south of [[place-eilissa|Lake Eilìssa]]: ridges of gorse and thorn scrub, oak copses in the folds, bog in the bottoms and old earth ramparts on the hilltops. It runs from the lake's south-western shore south to the edge of [[place-hallowwood|Seirasto]], and round the forest's western and eastern sides toward the coast. The grazing of [[place-cntrlhghlnds|the Central Highlands]] lies to the north-west, the land of [[place-ondareth|Ondareth]] to the west, the estates of [[place-dunavarre|Dúnavarre]] to the east, and the manors of [[affiliation-kngdmldrth|Aldorath]]'s lower shore, around [[place-dunmere|Dunmere]], across the lake's south-eastern tip.
 
-No realm holds it. It is the country of [[affiliation-durrask|the Durrask]], about nine thousand people in walled steads of a few households each, and the lowland name is Aldorath's, for the thorn its tenants meet at the edge of their fields. From the lake's south-eastern tip below Dunmere an old [Crown Road]{.name data-type="place/feature"} runs south through its eastern oak woods to Seirasto, past the lit house of [[place-wenlornestage|Wenlorne Stage]] and the Grukar nest at [[place-fernbank|Fernbank]].
+No realm holds it. It is the country of [[affiliation-durrask|the Durrask]], about nine thousand people in walled steads of a few households each, and the lowland name is Aldorath's, for the thorn its tenants meet at the edge of their fields. From the lake's south-eastern tip below Dunmere [[place-crownroad|the Crown Road]] runs south through its eastern oak woods to Seirasto, past the lit house of [[place-wenlornestage|Wenlorne Stage]] and the Grukar nest at [[place-fernbank|Fernbank]].
 
 ## Current Situation {#present}
 
@@ -35,6 +35,9 @@ The Durrask fight [[lore-grukaraelwyth|Grukar]] wherever they meet them in the c
 
 [[place-eilissa|Lake Eilìssa]]
 : the lake to the north
+
+[[place-crownroad|The Crown Road]]
+: the old road from Dunmere to Seirasto through its eastern oak woods
 
 [[scenario-durraskcount|Forty Mares and One Name]]
 : a scenario: brood mares taken and the names of the riders who killed a war-leader's brother

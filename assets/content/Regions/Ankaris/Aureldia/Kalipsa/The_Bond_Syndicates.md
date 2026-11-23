@@ -14,7 +14,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      Each syndicate is a company of underwriters under its own syndic and answers for its own bonds; the syndics meet together only to fix the rates of the year and to bar a house that has defied a verdict of the Sea-Law, and they bind no syndicate on anything else.
+      A league with no single head. Each syndicate is a company of underwriters under its own syndic and answers for its own bonds; the syndics meet together only to fix the rates of the year and to bar a house that has defied a verdict of the Sea-Law, and they bind no syndicate on anything else.
     ranks:
       - level: 0
         title: Struck
@@ -32,9 +32,7 @@ data:
         title: Syndic
         description: >-
           The head of a syndicate, chosen by its underwriters, who sets its rates and keeps its book and sits with the other syndics.
-    offices:
-      Syndic: >-
-        Head of one syndicate, chosen by its underwriters. Sets its rates, keeps its book, and sits with the other syndics twice a year to fix the year's rates on the common routes and to strike from the roll a house that defies a verdict of the Sea-Law Hall.
+    offices: {}
   seat: calypsacity
   population: {actual: null}
   economy: [affiliation-danvar, lore-vylrncrncy]
@@ -59,7 +57,7 @@ A bond is written on a slate in the counting-room and copied onto a sealed paper
 
 ## How It Is Run
 
-Each syndicate answers for its own bonds and keeps its own book. The syndics meet together twice a year, after the spring census and after the autumn grain season, to fix the year's rates on the common routes. They act together on one other thing: when a house or a master defies a verdict of the Sea-Law Hall, the syndics strike the name from their roll, and no syndicate writes for it until the verdict is honored.
+The Bond Syndicates have no single head. Each syndicate answers for its own bonds and keeps its own book. The syndics meet together twice a year, after the spring census and after the autumn grain season, to fix the year's rates on the common routes. They act together on one other thing: when a house or a master defies a verdict of the Sea-Law Hall, the syndics strike the name from their roll, and no syndicate writes for it until the verdict is honored.
 
 ## The Present {#present}
 

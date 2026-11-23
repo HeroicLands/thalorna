@@ -109,6 +109,34 @@ tolerant ([[lore-aelendanclt#land-that-is-not-owned|Land That Is Not Owned]]).
 
 Relations with Tarvénia are the opposite in every respect: competitive, mistrustful, and violent at the margins. Skirmishing along the mountain frontier of the north-east corner is effectively constant—raid and counter-raid over pasture, passes and precedence, kept below the level at which either crown must formally acknowledge a war. The border families on both sides have been fighting the same quarrel for so long that it functions less as a conflict than as a way of life.
 
+## Polities
+
+```sql
+WITH RECURSIVE lands(addr) AS (
+  SELECT r.address.canonical
+  FROM notes r
+  WHERE r.type = 'place' AND r.shortcode = 'provenzrgn'
+  UNION
+  SELECT c.address.canonical
+  FROM notes c
+  JOIN lands ON list_contains(c.data.parents, lands.addr)
+  WHERE c.type = 'place'
+)
+SELECT p.address.slug AS _ref,
+       p.name.full    AS "Polity",
+       p.description  AS "Overview"
+FROM notes p
+WHERE p.type = 'affiliation'
+  AND p.subType = 'polity'
+  AND EXISTS (
+    SELECT 1
+    FROM notes l
+    JOIN lands ON l.address.canonical = lands.addr
+    WHERE l.data.government IN (p.address.canonical, p.documentation)
+  )
+ORDER BY p.name.full COLLATE NOCASE
+```
+
 ## Its Quarters {#places}
 
 [[place-korvathis|Korvatis]]

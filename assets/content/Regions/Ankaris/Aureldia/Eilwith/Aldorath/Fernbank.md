@@ -15,7 +15,7 @@ data:
 
 ## Overview {#overview}
 
-**Fernbank** is a high bank of earth and rock, grown over with fern, in the wet oak woods of [[place-thornwold|the Thornwold]] beside the old Crown Road that runs south from [[place-dunmere|Dunmere]], at the lake's south-eastern tip, toward [[place-hallowwood|Seirasto]]. A [[lore-grukaraelwyth|Grukar]] nest lives in caves under it, a few hours' walk south of the ford below the last foresters' lodge.
+**Fernbank** is a high bank of earth and rock, grown over with fern, in the wet oak woods of [[place-thornwold|the Thornwold]] beside [[place-crownroad|the Crown Road]] that runs south from [[place-dunmere|Dunmere]], at the lake's south-eastern tip, toward [[place-hallowwood|Seirasto]]. A [[lore-grukaraelwyth|Grukar]] nest lives in caves under it, a few hours' walk south of the ford below the last foresters' lodge.
 
 ## Who Holds It {#who-holds-it}
 

@@ -161,6 +161,34 @@ Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendr
 
 The crown keeps a few companies of sworn soldiers at the border posts and in the forest patrols, and calls the levy of the shires and the hills to stand beside them by turns ([[affiliation-brdrmltia|The Border Militia]]). The strip of shore and hill at the head of [[place-liserebay|Lísere Bay]] is the crown's march, held by [[affiliation-morthalwtch|the Morthal Watch]] ([[place-morthalmrch|The Morthal March]]). The Áelendan keep their own watches, and the crown's soldiers stop at the tree line.
 
+## Polities
+
+```sql
+WITH RECURSIVE lands(addr) AS (
+  SELECT r.address.canonical
+  FROM notes r
+  WHERE r.type = 'place' AND r.shortcode = 'elavendre'
+  UNION
+  SELECT c.address.canonical
+  FROM notes c
+  JOIN lands ON list_contains(c.data.parents, lands.addr)
+  WHERE c.type = 'place'
+)
+SELECT p.address.slug AS _ref,
+       p.name.full    AS "Polity",
+       p.description  AS "Overview"
+FROM notes p
+WHERE p.type = 'affiliation'
+  AND p.subType = 'polity'
+  AND EXISTS (
+    SELECT 1
+    FROM notes l
+    JOIN lands ON l.address.canonical = lands.addr
+    WHERE l.data.government IN (p.address.canonical, p.documentation)
+  )
+ORDER BY p.name.full COLLATE NOCASE
+```
+
 ## Regions
 
 Élavendre divides into five, and the divisions are geographic before they are administrative:

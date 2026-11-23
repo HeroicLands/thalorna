@@ -29,6 +29,8 @@ Climate varies correspondingly: cool and rain-washed in the north and west, temp
 
 ## Polities
 
+The table lists the sovereign polities, those that answer to no liege. The polities that hold under them are listed with their own lands.
+
 ```sql
 WITH RECURSIVE lands(addr) AS (
   SELECT r.address.canonical
@@ -46,6 +48,7 @@ SELECT p.address.slug AS _ref,
 FROM notes p
 WHERE p.type = 'affiliation'
   AND p.subType = 'polity'
+  AND coalesce(len(p.data.parents), 0) = 0
   AND EXISTS (
     SELECT 1
     FROM notes l
@@ -59,7 +62,7 @@ ORDER BY p.name.full COLLATE NOCASE
 
 Aureldia's people are overwhelmingly human, but they are far from homogeneous. Each heartland preserves a distinct cultural character.
 
-The **[[lore-aelwythanclt|Eilwìthan]]** of the Misty Isle are marked in their culture by deep legend, surviving shamanic practice, and the thin veil between the mortal world and the numinous. The **[[lore-elavendrnppl|Élavendren People]]** and **[[lore-aelendnppl|Áelendan People]]** of Élavendre share a common Pelwar ancestry—the Élavendri cultivated and courtly, the Áelendan tribal and forest-dwelling—and both are unusually magically attuned. The **[[lore-tarvenanclt|Tarvenan]]** peoples of the southern peninsula live in a patchwork of feudal kingdoms—the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], the [[affiliation-kingdmlnrk|Kingdom of Lyenrik]], the [[affiliation-kngdmglvrn|Kingdom of Galvaren]], and the [[affiliation-kngdmstrth|Kingdom of Asturath]]—with the [[affiliation-frctyvlthr|Free City of Valthari]] and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] as independent merchant enclaves between them. The **Provénzians** of the southern coast are artists, poets, vintners, and philosophers, their city-culture more southern-coastal than ocean-facing. And the **Kalipsi** of Kalipsa are merchant-oligarchs whose seafaring houses carry Aureldian goods across most of Thalorna's known waters.
+The **[[lore-aelwythanclt|Eilwìthan]]** of the Misty Isle are marked in their culture by deep legend, surviving shamanic practice, and the thin veil between the mortal world and the numinous. The **[[lore-elavendrnppl|Élavendren People]]** and **[[lore-aelendnppl|Áelendan People]]** of Élavendre share a common Pelwar ancestry—the Élavendri cultivated and courtly, the Áelendan tribal and forest-dwelling—and both are unusually magically attuned. The **[[lore-tarvenanclt|Tarvenan]]** peoples of the southern peninsula live in a patchwork of feudal realms under the elected High King of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]: the kingdoms of [[affiliation-kingdmlnrk|Lyenrik]], [[affiliation-kngdmglvrn|Galvaren]] and [[affiliation-kngdmstrth|Asturath]], the [[affiliation-frctyvlthr|Free City of Valthari]] and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]]. The **Provénzians** of the southern coast are artists, poets, vintners, and philosophers, their city-culture more southern-coastal than ocean-facing. And the **Kalipsi** of Kalipsa are merchant-oligarchs whose seafaring houses carry Aureldian goods across most of Thalorna's known waters.
 
 Minority peoples include the [[lore-grukarfolk|Grukar]], a pestilence on Eilwìth, whose nests hold the forest and mountain of the Central Highlands, the Peshtar Wilderness, the Ironfells and the woods south of the lake and are at war with every realm and people within reach, with no trade or parley ([[lore-grukaraelwyth|the Grukar of Eilwìth]]); and—vanishingly rare, but not entirely absent—the elder races: members of the [[lore-flksenali|Senali Folk]] who sometimes walk through Élavendre's oldest forests, and the [[lore-flkkhazar|Khazár Folk]], whose scattered halls endure in the high faces of the remotest ranges.
 
@@ -73,7 +76,7 @@ The faiths extend well beyond Aureldian borders—the Twelve are worshipped in t
 
 [[lore-ustaranschism|The Ústaran Schism]] is the great fracture in Ústaran worship. Five centuries ago the clergy of Ústaron divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]]—Ústaron as craftsman, protector, and illuminator—became the mainstream Ústaran faith. [[affiliation-blackflame|The Black Flame]]—Ústaron as purifier-through-destruction, fire as weapon and instrument of domination—was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aureldian politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
 
-Eilwìth is the great partial exception to the Aureldian religious pattern. Centuries of Nordmen settlement have woven the [[affiliation-asguardian|Asguardian gods]] into the island's religious life, and many Eilwìthans revere both pantheons—an uneasy syncretism that the mainland Aureldian clergy view with curiosity, tolerance, or alarm depending on the decade.
+On Eilwìth the Nordmen of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] keep the gods of the [[affiliation-asguardian|Asguardian Pantheon]], and their conquest has not made those faiths the island's common ones.
 
 ## Politics and Power
 
@@ -124,7 +127,7 @@ The region exports wine, tapestries, illuminated manuscripts, Élavendri silverw
 
 ## Relations with Neighboring Regions
 
-To the **north**, the [[place-nrdlndsrgn|Nordlands]] press against Aureldia across a long, forested frontier. Contact is simultaneously commercial (Nordmen amber and furs for Aureldian wine and steel), religious (uneasy coexistence of the Twelve and the Asguardian gods), and martial (periodic Nordmen raids along the coast, especially into northern Eilwìth and Élavendre). The Eilwìthan religious syncretism is the clearest expression of the long relationship.
+To the **north**, the [[place-nrdlndsrgn|Nordlands]] press against Aureldia across a long, forested frontier. Contact is simultaneously commercial (Nordmen amber and furs for Aureldian wine and steel), religious (uneasy coexistence of the Twelve and the Asguardian gods), and martial (periodic Nordmen raids along the coast, especially into northern Eilwìth and Élavendre).
 
 To the **southeast**, [[place-midhalnrgn|Midhalión]] is at once Aureldia's great trading partner and its great cultural rival. The two regions share the Aureldian faiths but diverge sharply on everything else—governance, aesthetics, law, and the nature of empire. [[place-provenzrgn|Provénzia Region]] and [[place-tarvenirgn|Tarvénia Region]] straddle the boundary between the two regions culturally and, in Provénzia's case, formally: Provénzia belongs to both Aureldia and Midhalión, the living seam between them.
 

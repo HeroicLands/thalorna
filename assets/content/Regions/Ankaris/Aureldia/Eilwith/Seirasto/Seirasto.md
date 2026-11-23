@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [eilwith]
+  routes:
+    - {to: crownroad, bearing: N, mode: land, days: 1, terrain: [forest, road]}
+    - {to: wenlornestage, bearing: N, mode: land, days: 1, terrain: [forest, road]}
   borders:
     - {to: ondareth, bearing: W}
     - {to: thornwold, bearing: N}
@@ -58,7 +61,7 @@ often than anywhere else on Eilwìth. The Senali live among them as neighbors.
   [[place-eilissa|Lake Eilìssa]], and the forest people who hold that country are warlike. They raid
   the farms beyond them, and they do not come under Seirasto's trees or deal with those who
   live there.
-- **The north-east.** A [Crown Road]{.name data-type="place/feature"} runs south from
+- **The north-east.** [[place-crownroad|The Crown Road]] runs south from
   [[place-dunmere|Dunmere]], at the lake's south-eastern tip, through the Thornwold's oak woods, held by [[lore-grukaraelwyth|Grukar]], past
   the lit house of [[place-wenlornestage|Wenlorne Stage]], to Seirasto's edge. Travelers who
   reach the edge by it are turned, politely and without conversation, and sent back the way they came.

@@ -9,6 +9,9 @@ data:
   demonym: null
   lore: []
   parents: [aldorvale]
+  routes:
+    - {to: crownroad, bearing: S, mode: land, days: 1, terrain: [road, forest]}
+    - {to: wenlornestage, bearing: S, mode: land, days: 1, terrain: [road, forest]}
   population: {actual: 20000}
   market: regional
   type: city
@@ -28,7 +31,7 @@ on the eastern side of [[place-eilwith|Eilwìth]], at the south-eastern tip of [
 
 ## Arriving {#arriving}
 
-The river leaves the lake at Dunmere and runs down the [[place-aldorvale|Aldorvale]] to [[place-ashford|Ashford]] at its crossing. The old Crown Road starts at a ford below the last foresters' lodge and runs south under the oaks of [[place-thornwold|the Thornwold]] toward [[place-hallowwood|Seirasto]]. North of the city the lake shore is farm and mill country, and in the autumn the [[affiliation-durrask|Durrask]] raiders under [[being-kadrum|Kadrum]] burned a mill on it a morning's ride from the walls and drove off the plough-oxen of three manors.
+The river leaves the lake at Dunmere and runs down the [[place-aldorvale|Aldorvale]] to [[place-ashford|Ashford]] at its crossing. [[place-crownroad|The Crown Road]] starts at a ford below the last foresters' lodge and runs south under the oaks of [[place-thornwold|the Thornwold]] toward [[place-hallowwood|Seirasto]]. North of the city the lake shore is farm and mill country, and in the autumn the [[affiliation-durrask|Durrask]] raiders under [[being-kadrum|Kadrum]] burned a mill on it a morning's ride from the walls and drove off the plough-oxen of three manors.
 
 ## History {#history}
 

@@ -7,7 +7,7 @@ description: A line of pale lamps lights the old Crown Road at dusk to a relay h
 tags: []
 data:
   parents: []
-  locations: [wenlornestage, dunmere, thornwold, fernbank, threndale]
+  locations: [wenlornestage, crownroad, dunmere, thornwold, fernbank, threndale]
   cast: [wenlornereeve, damut, mirlatssm]
   factions: [kngdmldrth, vrgldhld]
   follows: []
@@ -19,7 +19,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 ## Overview {#overview}
 
-[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [Crown Road]{.name data-type="place/feature"} between [[place-dunmere|Dunmere]] and [[place-hallowwood|Seirasto]], through the oak woods of [[place-thornwold|the Thornwold]]. Its keeper, the [[being-wenlornereeve|Reeve of Wenlorne]], is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
+[[place-wenlornestage|Wenlorne Stage]] stands halfway along a whole stretch of [[place-crownroad|the Crown Road]] between [[place-dunmere|Dunmere]] and [[place-hallowwood|Seirasto]], through the oak woods of [[place-thornwold|the Thornwold]]. Its keeper, the [[being-wenlornereeve|Reeve of Wenlorne]], is the dead officer of the elder kingdom, held to his post by an oath the Shadow reads as a command to keep every guest under his roof until the road is safe. He lights the road to the gate, feeds those who come, writes their names on a board and does not open the gate again. His **porters** are the dead of the last night of the [Great War]{.name data-type="lore/history"}, and they serve him because they believe he is protecting them.
 
 ## Hooks {#hooks}
 
@@ -133,6 +133,9 @@ The Reeve lights the lamps every dusk. Another traveler or carter enters each se
 
 [[place-wenlornestage|Wenlorne Stage]]
 : the relay house and its keeper
+
+[[place-crownroad|The Crown Road]]
+: the road the stage keeps, from Dunmere to Seirasto's edge
 
 [[place-dunmere|Dunmere]]
 : where the old road begins

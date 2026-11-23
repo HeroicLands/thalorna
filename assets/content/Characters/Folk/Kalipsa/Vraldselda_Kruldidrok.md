@@ -13,7 +13,7 @@ data:
   lore: []
   culture: kalipsanclt
   homes: [calypsacity]
-  affiliations: {calypsa: {rank: 4}, bondsyndcts: {rank: 3, office: Syndic}}
+  affiliations: {calypsa: {rank: 4}, bondsyndcts: {rank: 3}}
   socialTies: {affiliation-hsenorodari: rival}
   gender: female
   species: humanflk

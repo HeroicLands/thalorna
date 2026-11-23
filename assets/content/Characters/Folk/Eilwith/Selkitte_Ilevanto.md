@@ -49,8 +49,8 @@ trees.**
 
 Selkitte Ilevanto is a warden (_ortinno_) of the [[affiliation-nclvhllwwd|Enclave of Seirasto]],
 and she keeps the northern watch. Her ground is Seirasto's northern edge, from the raiders'
-country toward [[place-eilissa|Lake Eilìssa]] to the southern end of the
-[Crown Road]{.name data-type="place/feature"} that comes south from
+country toward [[place-eilissa|Lake Eilìssa]] to the southern end of
+[[place-crownroad|the Crown Road]], which comes south from
 [[place-dunmere|Dunmere]] through the Thornwold. She sees a party coming long before it sees her, and turns it,
 politely and without conversation. She is of the hearth of Ilevanto, the hearth of the clear place,
 which lost [Porkila Ilevanto]{.name data-type="being/npc"} at [[place-haulonna|Haulonna]].
