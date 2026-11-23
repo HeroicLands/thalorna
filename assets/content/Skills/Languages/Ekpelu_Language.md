@@ -135,6 +135,11 @@ data:
     - {form: kpalu, class: "n", field: The forest and the water, gloss: "a leopard"}
     - {form: sewi, class: "n", field: The forest and the water, gloss: "a serpent"}
     - {form: liho, class: "n", field: The forest and the water, gloss: "a fish", concept: ["fish"]}
+    - {form: kobolu, class: "n", field: The forest and the water, gloss: "a paddle"}
+    - form: mbeko
+      class: "n"
+      field: The forest and the water
+      gloss: "black heartwood, the hard dark core of a tree"
     - form: kubi
       class: "n"
       field: Spirits and manners
@@ -165,6 +170,8 @@ data:
       concept: ["small", "young"]
     - {form: gbasa, class: adj, field: Qualities, gloss: "dark", concept: ["dark"]}
     - {form: moro, class: adj, field: Qualities, gloss: "deep"}
+    - {form: dagbe, class: adj, field: Qualities, gloss: "calm, still"}
+    - {form: ndoko, class: adj, field: Qualities, gloss: "red", concept: ["red"]}
     - form: luwando
       class: "n"
       field: The traditions
@@ -5653,6 +5660,10 @@ data:
         - "Dibo"
         - "Kele"
         - "Sini"
+        - "Dagbe"
+        - "Kobolu"
+        - "Mbeko"
+        - "Ndoko"
       male:
         - "Sepo"
         - "Dano"
@@ -5669,7 +5680,21 @@ data:
         - "Dibo"
         - "Kele"
         - "Sini"
-    band: ["Luwala", "Ngotola", "Kpalula", "Sewila", "Gbelela"]
+        - "Dagbe"
+        - "Kobolu"
+        - "Mbeko"
+        - "Ndoko"
+    band:
+      - "Lihola"
+      - "Luwala"
+      - "Ngotola"
+      - "Wenela"
+      - "Sewila"
+      - "Gbelela"
+      - "Kirola"
+      - "Balola"
+      - "Morola"
+      - "Kpalula"
   sounds:
     edges:
       - {edge: openCluster, sounds: [mb, nd, ng]}
@@ -5684,21 +5709,138 @@ data:
       - lore-yesomaclt
       - lore-kubindoclt
       - lore-pewayeclt
+      - affiliation-liholatribe
+      - affiliation-luwalatribe
+      - affiliation-ngotolatribe
+      - affiliation-wenelatribe
+      - affiliation-kpalulatribe
+      - affiliation-sewilatribe
+      - affiliation-gbelelatribe
+      - affiliation-kirolatribe
+      - affiliation-balolatribe
+      - affiliation-morolatribe
+      - place-liholacamp
+      - place-luwalacamp
+      - place-ngotolacamp
+      - place-wenelacamp
+      - place-kubisewi
+      - place-kubigbele
+      - place-kirolacamp
+      - place-balolacamp
+      - place-morolalanding
+      - place-luwabolu
+      - place-luwagbasa
+      - being-gbululihola
+      - being-kobolulihola
+      - being-siniluwala
+      - being-ranongotola
+      - being-hirawenela
+      - being-lpdkngldr
+      - being-dagbekpalula
+      - being-ndokokpalula
+      - being-dibosewila
+      - being-mbekosewila
+      - being-dipogbelela
+      - being-danokirola
+      - being-sepobalola
+      - being-kelemorola
   tongues:
     - {tag: ekpelu, meaning: an Ekpelu name, language: skill-ekpelulng}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
+    - {name: The Balola, tongue: translation}
+    - {name: Balola Camp, tongue: translation}
+    - {name: Balola Tribe, tongue: translation}
     - {name: Biko, tongue: ekpelu, built: [biko]}
+    - {name: Caller of the New Moon, tongue: translation}
+    - {name: Caller of the Sogola, tongue: translation}
     - {name: Canopy Foragers, tongue: translation}
     - {name: Court-keepers, tongue: translation}
+    - {name: Dagbe Kpalula, tongue: ekpelu, built: [dagbe, kpalu, -la]}
+    - {name: Dano Kirola, tongue: ekpelu, built: [dano, kiro, -la]}
+    - {name: The Dark River, tongue: translation}
+    - {name: Dibo Sewila, tongue: ekpelu, built: [dibo, sewi, -la]}
+    - {name: Dipo Gbelela, tongue: ekpelu, built: [dipo, gbele, -la]}
     - {name: Edge-people, tongue: translation}
     - {name: Ekpelu Language, tongue: translation}
     - {name: Ekpelu Lexicon, tongue: translation}
     - {name: The Forest Peoples, tongue: translation}
+    - {name: The Gbelela, tongue: translation}
+    - {name: Gbelela, tongue: ekpelu, built: [gbele, -la]}
+    - {name: Gbelela Tribe, tongue: translation}
+    - {name: Gbenindo, tongue: ekpelu, built: [gbenindo]}
+    - {name: Gbulu Lihola, tongue: ekpelu, built: [gbulu, liho, -la]}
+    - {name: Hanger of Offerings, tongue: translation}
+    - {name: Hira Wenela, tongue: ekpelu, built: [hira, wene, -la]}
+    - {name: Keeper of the Hokpe, tongue: translation}
+    - {name: Keeper of the Honey Trees, tongue: translation}
+    - {name: Keeper of the Iron, tongue: translation}
+    - {name: Keeper of the Landing, tongue: translation}
+    - {name: Keeper of the Lower Landing, tongue: translation}
+    - {name: Keeper of the Trails, tongue: translation}
+    - {name: Keeper of the Upper Landing, tongue: translation}
+    - {name: Kele Morola, tongue: ekpelu, built: [kele, moro, -la]}
+    - {name: Kelendo, tongue: ekpelu, built: [kelendo]}
+    - {name: The Kirola, tongue: translation}
+    - {name: Kirola, tongue: ekpelu, built: [kiro, -la]}
+    - {name: Kirola Camp, tongue: translation}
+    - {name: Kirola Tribe, tongue: translation}
+    - {name: Kobolu Lihola, tongue: ekpelu, built: [kobolu, liho, -la]}
+    - {name: The Kpalula, tongue: translation}
+    - {name: Kpalula, tongue: ekpelu, built: [kpalu, -la]}
+    - {name: Kpalula Tribe, tongue: translation}
+    - {name: Kpaso, tongue: ekpelu, built: [kpaso]}
+    - {name: Kubi Gbele, tongue: ekpelu, built: [kubi, gbele]}
+    - {name: Kubi Sewi, tongue: ekpelu, built: [kubi, sewi]}
     - {name: Kubindo, tongue: ekpelu, built: [kubi, -ndo]}
+    - {name: Leader of the Spotted Guard, tongue: translation}
+    - {name: The Leopard King, tongue: translation}
+    - {name: Leopard King, tongue: translation}
+    - {name: The Lihola, tongue: translation}
+    - {name: Lihola, tongue: ekpelu, built: [liho, -la]}
+    - {name: Lihola Camp, tongue: translation}
+    - {name: Lihola Tribe, tongue: translation}
+    - {name: Luwa Bolu, tongue: ekpelu, built: [luwa, bolu]}
+    - {name: Luwa Gbasa, tongue: ekpelu, built: [luwa, gbasa]}
+    - {name: The Luwala, tongue: translation}
+    - {name: Luwala, tongue: ekpelu, built: [luwa, -la]}
+    - {name: Luwala Camp, tongue: translation}
+    - {name: Luwala Tribe, tongue: translation}
     - {name: Luwando, tongue: ekpelu, built: [luwa, -ndo]}
+    - {name: Maker of the Ewudi, tongue: translation}
+    - {name: Mbeko Sewila, tongue: ekpelu, built: [mbeko, sewi, -la]}
+    - {name: Mbeli, tongue: ekpelu, built: [mbeli]}
+    - {name: The Morola, tongue: translation}
+    - {name: Morola, tongue: ekpelu, built: [moro, -la]}
+    - {name: Morola Landing, tongue: translation}
+    - {name: Morola Tribe, tongue: translation}
+    - {name: Ndoko Kpalula, tongue: ekpelu, built: [ndoko, kpalu, -la]}
+    - {name: The Ngotola, tongue: translation}
+    - {name: Ngotola, tongue: ekpelu, built: [ngoto, -la]}
+    - {name: Ngotola Camp, tongue: translation}
+    - {name: Ngotola Tribe, tongue: translation}
+    - {name: The Old River, tongue: translation}
     - {name: Pewaye, tongue: ekpelu, built: [pewa, -ye]}
+    - {name: Rano Ngotola, tongue: ekpelu, built: [rano, ngoto, -la]}
+    - {name: Receiver of Gifts, tongue: translation}
+    - {name: Red-Spear, tongue: translation}
     - {name: River-keepers, tongue: translation}
+    - {name: Sepo Balola, tongue: ekpelu}
+    - {name: The Serpent Court, tongue: translation}
+    - {name: The Sewila, tongue: translation}
+    - {name: Sewila, tongue: ekpelu, built: [sewi, -la]}
+    - {name: Sewila Tribe, tongue: translation}
+    - {name: Sini Luwala, tongue: ekpelu, built: [sini, luwa, -la]}
+    - {name: Speaker, tongue: translation}
+    - {name: Tolu, tongue: ekpelu, built: [tolu]}
+    - {name: The Tree Court, tongue: translation}
+    - {name: Warden of the Forbidden Reach, tongue: translation}
+    - {name: Weir-Master, tongue: translation}
+    - {name: The Wenela, tongue: translation}
+    - {name: Wenela, tongue: ekpelu, built: [wene, -la]}
+    - {name: Wenela Camp, tongue: translation}
+    - {name: Wenela Tribe, tongue: translation}
+    - {name: Wibo, tongue: ekpelu, built: [wibo]}
     - {name: Yesoma, tongue: ekpelu, built: [yeso, -ma]}
 sohl:
   system:
@@ -5731,7 +5873,7 @@ Ekpelu is small and open, spoken across the forest by peoples with four differen
 
 **Clusters.** _gb_, _kp_, _mb_, _nd_ and _ng_ only.
 
-**Coining.** A new word may use _gb_ /ɡ͡b/ and _kp_ /k͡p/, each said as one sound; plain _b_ and _p_ are always fine to say. A new word may also open on _mb_, _nd_ or _ng_, as _mbala_, _ndaro_ and _ngoto_ do.
+**Coining.** A new word may use _gb_ [/ɡ͡b/]{.ipa} and _kp_ [/k͡p/]{.ipa}, each said as one sound; plain _b_ and _p_ are always fine to say. A new word may also open on _mb_, _nd_ or _ng_, as _mbala_, _ndaro_ and _ngoto_ do.
 
 **Endings.** Ekpelu words end in _-o_, _-e_, _-u_, _-a_ or _-i_.
 
@@ -5827,13 +5969,13 @@ There is no script. What a band needs to remember it keeps in song and in the sp
 
 ## Naming Traditions
 
-A person carries one name, a root of the forest or a thing seen on the day of the birth, and in company is known by the band set after it. Bands are named for the river, tree or beast they follow, rivers and places for a head word and its quality, and spirit-courts for what they hold. The lexicon gives the rules.
+A person carries one name, a root of the forest or a thing seen on the day of the birth, and in company is known by the band set after it. Bands are named for what they follow or camp by, rivers and places for a head word and its quality, and spirit-courts for what they hold. The lexicon gives the rules.
 
 ### Name Lists
 
-**Given Names:** Sepo, Dano, Wene, Rano, Biko, Sogo, Dipo, Liho, Moro, Kiro, Gbulu, Hira, Dibo, Kele, Sini
+**Given Names:** Sepo, Dano, Wene, Rano, Biko, Sogo, Dipo, Liho, Moro, Kiro, Gbulu, Hira, Dibo, Kele, Sini, Dagbe, Kobolu, Mbeko, Ndoko
 
-**Band Names:** Luwala, Ngotola, Kpalula, Sewila, Gbelela
+**Band Names:** Lihola, Luwala, Ngotola, Wenela, Sewila, Gbelela, Kirola, Balola, Morola, Kpalula
 
 ## Ekpelu Lexicon {#lexicon}
 
@@ -5909,7 +6051,7 @@ Each tradition keeps a handful of words for its sacred things, and the others do
 
 ## Making names {#making-names}
 
-**A person** carries one name, a root of the forest or a thing seen on the day of the birth: _Sepo_, _Dano_, _Wene_. A person is known in company by the band set after the name: _Wene Luwala_ is Wene of the river's band. **A band** is named for the river, tree or beast it follows, with _-la_: _Ngotola_ follows the elephant. **A river or a place** is a head word and its quality: _Luwa Gbasa_, the Dark River. **A spirit-court** is named for what it holds: _Kubi Sewi_, the court of the serpent. **A standing** is set before the band: _Kpaso Luwala_ is the leader of the river's band.
+**A person** carries one name, a root of the forest or a thing seen on the day of the birth: _Sepo_, _Dano_, _Sini_. A person is known in company by the band set after the name: _Sini Luwala_ is Sini of the river's band. **A band** is named for what it follows or camps by, with _-la_: _Ngotola_ follows the elephant. **A river or a place** is a head word and its quality: _Luwa Gbasa_, the Dark River. **A spirit-court** is named for what it holds: _Kubi Sewi_, the court of the serpent. **A standing** is set before the band: _Kpaso Luwala_ is the leader of the river's band.
 
 ## Scope {#scope}
 

@@ -30,6 +30,7 @@ data:
     hair_color: dark_brown
     skin_color: tanned
     complexion: [weathered]
+    facial_hair: stubble
     extra_features: [an arrow wound in the left side]
   packFolder: aureldiaelavendre
 ---

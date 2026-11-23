@@ -62,9 +62,19 @@ sohl: {system: {commonSkills: [tantsoulng]}}
 
 Doulwen Province is the western province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 22 million people. It holds the basins below the western mountains and the passes toward the [[place-khzryndsrtrgn|Khazrin]], where [[lore-celestialroad|the Celestial Road]] comes down into the empire, and its Prince rules from the city of [[place-doulwen|Doulwen]], where the caravans unload.
 
-Its Prince, [[being-chengzhodlwn|Chengzho]], of the [[lore-zhazho|Zhazho]], is a younger Prince, rising fast. He stands for reform, and he has the ear of the young Emperor. The other three Princes watch him in the [[lore-weizhairui|Wei Zhai Rwi]], since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
-
 The mountain villages above the passes and the soldier families of their garrisons are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]].
+
+## Current Situation {#present}
+
+Its Prince, [[being-chengzhodlwn|Chengzho]], of the [[lore-zhazho|Zhazho]], is a younger Prince, rising fast. He stands for reform, and he has the ear of the young Emperor, [[being-tengrauemp|Tengrau]]. The other three Princes watch him in the [[lore-weizhairui|Wei Zhai Rwi]], since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
+
+He seeks foreign weight to add to his hold on the Emperor's ear, and he is the Prince who backs the request of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] for direct relations with the court at [[place-zhowen|Zhowen]] ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]).
+
+## History {#history}
+
+No army from the west has ever reached the empire across the Khazrin, and the desert has been crossed now and then by an imperial expedition. About 548 AF the tribes of the Khazrin were forced together for the third time, and the union never came near enough to Tantsou to threaten it ([[lore-thrdorqwnq|The Third Orghunoq]]). The frontier families of the passes have married into the soldier-settlers of the northern marches for generations.
+
+The present Prince's rise belongs to the first years of the young Emperor's reign, the years of the drought and of Wongsen's rice.
 
 ## See Also {#see-also}
 

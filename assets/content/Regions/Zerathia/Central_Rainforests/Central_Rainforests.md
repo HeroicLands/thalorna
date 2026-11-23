@@ -17,6 +17,7 @@ data:
     - {to: vuthraka, bearing: N, mode: land, days: 10, terrain: [jungle, plain]}
     - {to: sthrnsvnhs, bearing: S, mode: land, days: 30, terrain: [jungle, plain]}
   population: {actual: 250000}
+  government: null
   packFolder: centralrainforests
 
 # terran_analog: Equatorial African interior (Congo basin)
@@ -50,6 +51,23 @@ Nearly every forest person lives first by hunting, fishing and gathering.
 The forest peoples, the [[lore-bikoclt|Biko]], share one small common tongue, [[skill-ekpelulng|Ekpelu]], which each of their four traditions speaks with its own accent.
 
 A small number of [[lore-flksenali|Senali]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
+
+## The Rivers and the Tribes {#places}
+
+Two rivers carry most of what is known of the forest. The [[place-luwabolu|Luwa Bolu]], the Old River, rises beside [[place-lpdkngcrt|the Leopard King's Court]] and runs north through the gorge and out of the forest at its northern edge, and the [[place-luwagbasa|Luwa Gbasa]], the Dark River, runs south through the black water of the drowned plain to the flooded forest and the savannah's edge.
+
+The forest holds many tribes of a few hundred people each, every one a polity of one leader with four standings and nothing above it. Ten of them, by tradition:
+
+- **River-keepers:** the [[affiliation-liholatribe|Lihola Tribe]] of the Old River, at [[place-liholacamp|Lihola Camp]], and the [[affiliation-luwalatribe|Luwala Tribe]] of the Dark River, at [[place-luwalacamp|Luwala Camp]].
+- **Canopy foragers:** the [[affiliation-ngotolatribe|Ngotola Tribe]] at [[place-ngotolacamp|Ngotola Camp]], and the [[affiliation-wenelatribe|Wenela Tribe]] at [[place-wenelacamp|Wenela Camp]].
+- **Court-keepers:** the [[affiliation-sewilatribe|Sewila Tribe]] at [[place-kubisewi|Kubi Sewi]], and the [[affiliation-gbelelatribe|Gbelela Tribe]] at [[place-kubigbele|Kubi Gbele]].
+- **Edge-people:** the [[affiliation-kirolatribe|Kirola Tribe]] on the northern edge at [[place-kirolacamp|Kirola Camp]], and the [[affiliation-balolatribe|Balola Tribe]] on the southern edge at [[place-balolacamp|Balola Camp]].
+- **Gorge-folk:** the [[affiliation-morolatribe|Morola Tribe]] of the portage, at [[place-morolalanding|Morola Landing]], in the gorge where the [[lore-gorgfolkclt|Gorge-folk]] hold the landings.
+- **The Court:** the [[affiliation-kpalulatribe|Kpalula Tribe]], whose leader is [[being-lpdkngldr|the Leopard King]].
+
+## The Present {#present}
+
+Salvage crews from the northern river-ports are coming up the Dark River in greater numbers than in other years, each with a story of a roof of green stone, and the river-tribes are divided on whether to bar them or to sell them guides. At the Leopard King's Court, gift-bearers report that no delegation has met the King in two seasons, and the iron that comes through the south is late this season.
 
 ## Religion
 
@@ -98,6 +116,12 @@ To the **east and west** the forests fade gradually into coastal terrain that ha
 
 [[lore-bikoclt|Biko]]
 : the forest peoples and their four traditions
+
+[[place-luwabolu|Luwa Bolu]] · [[place-luwagbasa|Luwa Gbasa]]
+: the two named rivers
+
+[[lore-gorgfolkclt|Gorge-folk]]
+: the portage tribes of the gorge
 
 [[lore-flksenali|Senali]]
 : rumored deep-forest enclaves

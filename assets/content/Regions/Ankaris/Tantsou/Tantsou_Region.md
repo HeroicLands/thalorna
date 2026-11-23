@@ -64,6 +64,14 @@ The political order is the Empire itself. A hereditary Son of Heaven rules from 
 
 No serious threat has ever reached the Empire from the west. Its worst enemies have come from within, in succession crises, caste revolts and Wandwo conspiracies, or from the east, from Jenchai, the breakaway archipelago whose "rebellious" status has been a thousand-year stalemate of raid and counter-raid.
 
+## Current Situation {#present}
+
+The Emperor on the throne at [[place-zhowen|Zhowen]], [[being-tengrauemp|Tengrau]], is young and newly crowned, the Retired Emperor, [[being-yanzhortrd|Yanzho]], lives in the background of the court, and the four Princes each mean to be the one who shapes the young Emperor.
+
+The rain has failed in the south. The southern rice harvests have failed several years running, smaller rivers are dry in their beds, and in some districts the hungry [[lore-nouwen|Nouwen]] have risen against their lords and the magistrates who collect the tribute. The delta is the exception: the water-gifted Wandwo of the Prince of [[affiliation-wongsenprv|Wongsen Province]] bring rain to it, and the dry provinces buy his rice at the price he names.
+
+Every frontier is pressed at once. The warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united the tribes of [[place-blackwilds|the Black Wilds]], and his riders are in the northern districts; the rebel general [[being-tuijawengyan|Tuija Wengyan]] holds gains in the border provinces; the [[lore-chaizho|Chaizho]] range through the remote northwest, where the Senali and Khazari hold them at heavy cost; and Jenchai's raiders work the eastern and southern coasts. The [[affiliation-tantsouempr|Empire of Tantsou]] note gives the court's side of each.
+
 ## Trade
 
 The region stands at the eastern end of the Celestial Roads, the overland routes that run west through the Khazrin and reach [[place-midhalnrgn|Midhalión]] at last. Silk, porcelain, tea, lacquer, jade, spices and finished metalwork go west; silver, gold, amber, coral, glass and horses come east. The imperial bureaucracy taxes, documents and classifies every significant movement of goods, so smuggling is a highly developed profession.
@@ -78,7 +86,7 @@ To the southwest, beyond the eastern arc of the Grazian Mountains, contact with 
 
 To the west, beyond the mountain passes, the Khazrin Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
 
-To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire treats Grukar raids as a nuisance. The steppe beyond, [[place-blackwilds|the Black Wilds]], is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern districts.
+To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire treats Grukar raids as a nuisance. The steppe beyond, [[place-blackwilds|the Black Wilds]], is another matter this generation.
 
 ## See Also {#see-also}
 

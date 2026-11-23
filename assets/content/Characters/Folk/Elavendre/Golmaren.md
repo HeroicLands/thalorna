@@ -27,6 +27,7 @@ data:
     hair_color: greying_black
     skin_color: tanned
     complexion: [weathered]
+    hair_style: knotted
     extra_features: [a bowstring callus on three fingers, a limp in the right leg in wet weather]
   packFolder: aureldiaelavendre
 ---
