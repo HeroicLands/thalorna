@@ -54,3 +54,6 @@ The smelters' hall serves a long table in the evening and lets its loft to trave
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in
+
+[[being-blffsdrsh|Bailiff of Siderash]]
+: the bailiff of the iron houses

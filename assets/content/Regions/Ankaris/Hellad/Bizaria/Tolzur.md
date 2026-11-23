@@ -57,3 +57,6 @@ The caravanserai row has beds in a courtyard and in rooms above it, and the bett
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in
+
+[[being-tllwrdntlzr|Toll Warden of Tolzur]]
+: the warden of the gatehouse

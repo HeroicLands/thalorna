@@ -54,3 +54,6 @@ The inns of the square are clean and close, and the best of them keeps its own c
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in
+
+[[being-cllrmstrnln|Cellar Master of Oinelena]]
+: a cellar master of the wine guild

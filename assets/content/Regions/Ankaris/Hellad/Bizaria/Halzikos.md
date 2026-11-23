@@ -63,3 +63,6 @@ The caravanserai by the cistern is the only large lodging. The salt-masters rent
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in
+
+[[being-krvshnwtrwrdn|Karvashion Water-Warden]]
+: the cistern-warden who keeps the sweet water

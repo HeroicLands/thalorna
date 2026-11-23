@@ -47,3 +47,6 @@ The steppe clans that come to the fair are the same ones whose raiding bands com
 
 [[affiliation-athenikos|Athenikos]]
 : the city-state that holds the town
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate
