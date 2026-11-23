@@ -142,5 +142,5 @@ To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] ne
 [[place-ankrscntnnt|Ankaris Continent]]
 : parent continent
 
-[[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+[[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
 : a scenario set here

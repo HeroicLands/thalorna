@@ -50,7 +50,7 @@ Chengzho (Rising Dragon) is the Prince of [[affiliation-doulwenprv|Doulwen Provi
 
 **The ear.** He is the Prince the young Emperor listens to. The other three Princes watch him in [[lore-weizhairui|The Jade Fan Dance]] (_Wei Zhai Rwi_), since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
 
-**The embassy.** When the embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] reaches [[place-zhowen|Zhowen]] asking for direct relations with the Empire, he takes it up first and openly, for the foreign weight it adds to his hold on the Emperor's ear. The court reads the request as a breach of the Speaker's protocol, and the other three Princes each read the embassy as a move against them and work to turn it against him ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]).
+**The embassy.** When the embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] reaches [[place-zhowen|Zhowen]] asking for direct relations with the Empire, he takes it up first and openly, for the foreign weight it adds to his hold on the Emperor's ear. The court reads the request as a breach of the Speaker's protocol, and the other three Princes each read the embassy as a move against them and work to turn it against him ([[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]).
 
 ## Psyche
 

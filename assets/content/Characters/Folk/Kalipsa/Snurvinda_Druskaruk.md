@@ -13,7 +13,7 @@ data:
   lore: []
   culture: kalipsanclt
   homes: [calypsacity]
-  affiliations: {calypsa: {rank: 4}}
+  affiliations: {calypsa: {rank: 4, office: Keeper of the Lantern}}
   socialTies: {being-hrundthrsk: patron, being-thruldsklf: rival}
   gender: female
   species: humanflk

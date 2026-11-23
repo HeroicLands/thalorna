@@ -49,3 +49,7 @@ Reed-Reeve
 ## What It Is Fighting About {#present}
 
 The best reed-beds lie east of the village, across the lake's northern end under the Sunderfells, where the hill tenants of [[place-brynwold|Brinwold]] in [[affiliation-kngdmldrth|Aldorath]] claim them too. This winter Brinwold's men took two Koldmere boats and the reed in them, and the reed-reeve has asked the Stoniford senators to put the [[affiliation-repblcndrth|Republic of Ondareth]]'s weight behind the village.
+
+## History {#history}
+
+No date is given for the moot's beginning. Koldmere holds that the reed-beds east of the village have always been its own, the Brinwold manors across the water claim the same beds, and nobody has ever drawn a line on the water. The quarrel has gone unsettled from year to year, carried on with cut nets and impounded boats rather than arms. Each year the moot has asked the Ondarethan senators at Stoniford to carry its side to [[place-thornbury|Thornburi]], and each year they have promised to. The moot has chosen Elfith Wigden reed-reeve four springs running.

@@ -15,7 +15,7 @@ data:
   packFolder: adventures
 ---
 
-The tide cuts the party off at [[place-threnhallow|Threnhallow]], an abandoned house of the Silent Judge, of the [[affiliation-selmoros|Faith of Sélmoros]] on the seaward edge of [[place-greylevels|The Greilevels]]. A bell rings under the water before each disappearance. The dead of the house, the Levels' drowned, rise with the tide and come wherever the water comes, and the Threshold Keeper who taught them to rise commands them from the flooded crypt. Everything the party meets says the house must be broken. It must not, or not yet: the drowned have worked the house's sluice-gates at every ebb since the Keeper raised them, the lower grazing of the Levels is dry because of them, and every way the party has to break the house puts the sea back over the Levels at the next spring tide.
+The tide cuts the party off at [[place-threnhallow|Threnhallow]], an abandoned house of the Silent Judge, of the [[affiliation-selmoros|Faith of Sélmoros]] on the seaward edge of [[place-greylevels|the Greilevels]]. A bell rings under the water before each disappearance. The dead of the house, the Levels' drowned, rise with the tide and come wherever the water comes, and the Threshold Keeper who taught them to rise commands them from the flooded crypt. Everything the party meets says the house must be broken. It must not, or not yet: the drowned have worked the house's sluice-gates at every ebb since the Keeper raised them, the lower grazing of the Levels is dry because of them, and every way the party has to break the house puts the sea back over the Levels at the next spring tide.
 
 ## Overview {#overview}
 

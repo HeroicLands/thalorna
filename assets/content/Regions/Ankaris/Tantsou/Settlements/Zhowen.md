@@ -40,7 +40,7 @@ The four Princes stand in no fixed order. The Prince of [[affiliation-wongsenprv
 
 None of these positions holds for long. In Zhowen a rumor, a shaming or a misfiled petition does as much harm as an army, or more, and a reading of the stars by the right [[lore-tanchei|Tanchei]] can raise a family or destroy it. The rise of a gifted Wandwo, or of a group of them, can tip the balance between the Princes in a season.
 
-When the embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] reaches Zhowen asking for direct relations with the Empire, the Prince of Doulwen takes it up first and openly, for the foreign weight it adds to his hold on the Emperor's ear. The court reads the request as a breach of the Speaker's protocol, since a foreigner reaches the Emperor only through the Speaker, and direct relations ask for a door that has never existed. Granting it would shift power among the Princes, so the game decides the question, not the Emperor. The other three Princes each read the embassy as a move against them, and each works to turn it against its sponsor ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]).
+When the embassy of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] reaches Zhowen asking for direct relations with the Empire, the Prince of Doulwen takes it up first and openly, for the foreign weight it adds to his hold on the Emperor's ear. The court reads the request as a breach of the Speaker's protocol, since a foreigner reaches the Emperor only through the Speaker, and direct relations ask for a door that has never existed. Granting it would shift power among the Princes, so the game decides the question, not the Emperor. The other three Princes each read the embassy as a move against them, and each works to turn it against its sponsor ([[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]).
 
 In the city the game shows as price and paper. The price of rice in the markets of both shores follows the granaries of Wongsen. The offices on the shores are still at the work of the new reign: each Emperor's reign is its own era of the calendar, and the scholars of the chancellery cross-reference every filing of the old era to the new one ([[lore-clndrstrlgy|Calendar and Astrology]]). A filing that waits in that work can wait a year, and a player in the game can lose by the delay. Rice from Wongsen reaches the city in barges that the Governor's officers hold at the canal locks until the seals are checked, and a barge held there moves the price of rice on both shores.
 
@@ -121,5 +121,5 @@ Zhowen is the capital of the present dynasty. The court reckons the city's years
 [[lore-castelaws|Caste Laws]]
 : the registry, the classification tablet and the classification of foreigners
 
-[[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+[[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
 : a scenario whose embassy seeks direct relations with the court

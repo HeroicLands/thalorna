@@ -47,7 +47,7 @@ At [[place-koldmere|Koldmere]], Elfith lays out the autumn loss separately from 
 
 ### Across the disputed beds
 
-The Brinwold shore admits impounding the winter boats and refuses to return them without its reed. Its damaged nets have the same clean cuts. A party arriving under Koldmere’s banner meets a hostile landing; a party arriving to compare losses can lay the two kinds of net together.
+Brinwold’s answer reaches Koldmere by the boats that cross the beds: the manors admit impounding the winter boats and will not return them without their reed. Brinwold’s damaged nets hang on its own beach, and they have the same clean cuts. A boat that comes in under Koldmere’s banner is driven off the shingle; a party that lands to compare losses can lay the two kinds of net together.
 
 **Choices and clues.** Secure witnesses from both shores, arrange a night watch, or try to steal back the impounded boats. Theft answers the winter loss and leaves the autumn one unsolved. From either beach the party can see Stillwader at dusk; from the water it can follow the stream to Reedgill without guessing a hidden path.
 

@@ -165,5 +165,5 @@ The Vineyards
 [[affiliation-kngdmprvnz|Kingdom of Provénzia]]
 : Polity details
 
-[[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+[[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
 : a scenario: an embassy crossing Eilwìth, Élavendre and Provenzia on the road to Tantsou

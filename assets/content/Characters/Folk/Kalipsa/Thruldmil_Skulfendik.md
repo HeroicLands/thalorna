@@ -13,7 +13,7 @@ data:
   lore: []
   culture: kalipsanclt
   homes: [calypsashore]
-  affiliations: {calypsa: {rank: 4}}
+  affiliations: {calypsa: {rank: 4, office: Village Elder}}
   socialTies: {being-snurvdrskr: rival}
   gender: male
   species: humanflk

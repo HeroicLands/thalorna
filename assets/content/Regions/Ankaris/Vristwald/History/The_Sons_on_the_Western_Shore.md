@@ -43,7 +43,7 @@ data:
         - whether the western villages' elders will lay their fragments together, and for whom
 ---
 
-In The Sons on the Western Shore, the cliff watch at [[place-arnholt|Arnholt]] on the western shore has warned of unfamiliar sails for as long as the village has stood. Since about 715 it has had something specific to warn of: hulls out of [[place-stormveld|Stormveld]] carrying [[affiliation-sonsmuspell|the Sons of Eldheim]], who come ashore on [[place-vrystwald|Vristwald]]'s western bay to burn villages and want the land they burn.
+The cliff watch at [[place-arnholt|Arnholt]] on the western shore has warned of unfamiliar sails for as long as the village has stood. Since about 715 it has had something specific to warn of: hulls out of [[place-stormveld|Stormveld]] carrying [[affiliation-sonsmuspell|the Sons of Eldheim]], who come ashore on [[place-vrystwald|Vristwald]]'s western bay to burn villages and want the land they burn.
 
 ## The Burning of Arnwern
 

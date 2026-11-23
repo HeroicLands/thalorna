@@ -1,6 +1,6 @@
 ---
 shortcode: embsydnvrtantsou
-name: {full: Embassy from Dunavarre to Tantsou}
+name: {full: Embassy from Dúnavarre to Tantsou}
 type: scenario
 subType: adventure
 tags: []
@@ -58,7 +58,7 @@ data:
 
 ## Overview {#overview}
 
-Embassy from Dunavarre to Tantsou follows a mission commissioned by the [[affiliation-dunavarsynod|Dúnavarre Synod]]. The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] wants direct relations with the [[affiliation-tantsouempr|Empire of Tantsou]], ending its dependence on the [[affiliation-vylarinmpr|Vilérian Empire]] as intermediary. The opening adventure takes the embassy to [[place-beravel|Péravel]], in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], where a request for scholarly assistance puts its diplomatic standing at risk.
+The [[affiliation-dunavarsynod|Dúnavarre Synod]] commissions an embassy. The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] wants direct relations with the [[affiliation-tantsouempr|Empire of Tantsou]], ending its dependence on the [[affiliation-vylarinmpr|Vilérian Empire]] as intermediary. The opening adventure takes the embassy to [[place-beravel|Péravel]], in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], where a request for scholarly assistance puts its diplomatic standing at risk.
 
 The party can serve the embassy as guards, scouts, clerks or trusted agents. The vacant huntsman’s place offers a natural appointment for a character skilled outdoors. Players may also take an established member by agreement with the GM; decide which private motives that player controls before play. A small party of staff has authority to act on the ambassador’s commission without taking every senior official into the forest.
 
@@ -66,7 +66,7 @@ This adventure resolves the proposed expedition for the [[miscgear-heartofdhirik
 
 ## What Is Really Happening {#what-is-really-happening}
 
-[[being-aelithraenewyn|Áelithra Énevin]], Royal Loremaster of Élavendre and a Mistress of [[affiliation-ordoarcanis|The Order]], possesses a damaged scroll placing the Heart in [[place-ukuaraelwen|Úkua-Araelwen]]. Its surviving passages associate the crystal with sound. She wants it brought to Péravel for study and offers the [[miscgear-temprlcmpss|Temporal Compass]] to make the crossing possible. Her position at court gives her access to the embassy, not authority over sacred ground.
+[[being-aelithraenewyn|Áelithra Énevin]], Royal Loremaster of Élavendre and a Mistress of [[affiliation-ordoarcanis|the Order]], the Thordimalon, possesses a damaged scroll placing the Heart in [[place-ukuaraelwen|Úkua-Araelwen]]. Its surviving passages associate the crystal with sound. She wants it brought to Péravel for study and offers the [[miscgear-temprlcmpss|Temporal Compass]] to make the crossing possible. Her position at court gives her access to the embassy, not authority over sacred ground.
 
 The [[affiliation-alndnwrdns|Áelendan Wardens]] forbid every outsider entry. Úkua-Araelwen lies in the high forest of [[place-sathvothe|Satvote]], across the frontier between [[place-elavendre|Élavendre Region]] and the [[place-provenzrgn|Provénzia Region]]. Neither crown administers it. The Wardens keep paired watches outside the margin and never enter. They know what the Loremaster wants and double the posts on the Provénzia side. A device of the art carried inside counts as a working, and a working there as desecration.
 

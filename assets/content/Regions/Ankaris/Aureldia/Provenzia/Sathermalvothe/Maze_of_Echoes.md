@@ -63,4 +63,4 @@ The Maze is the reason the Heart is still where it is. Áelithra Énevin wants a
 
 - [[lore-aralwen|Araelwen]] · [[miscgear-heartofdhirikri|Heart of Dirikri]]
 - [[affiliation-alndnwrdns|Áelendan Wardens]]
-- [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]
+- [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]]
