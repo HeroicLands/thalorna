@@ -33,3 +33,6 @@ The ridge also has a season. The deep snows close it in early winter, and a part
 
 [[place-vrystwald|Vristwald]]
 : the forest it divides
+
+[[place-vethreth|Vethreth]]
+: the set-apart clearing of the tellings, two days beyond the ridge

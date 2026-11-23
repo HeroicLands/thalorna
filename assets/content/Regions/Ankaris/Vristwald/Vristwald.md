@@ -389,4 +389,7 @@ The Common Council
 
 [[place-blackthornrdg|Blackthorn Ridge]]
 
+[[place-vethreth|Vethreth]]
+: the set-apart clearing beyond Blackthorn Ridge
+
 [[place-vethengrund|Véthengrund]]

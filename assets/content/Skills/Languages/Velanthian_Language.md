@@ -745,6 +745,8 @@ data:
     - {name: Kelodov, tongue: velanthian, gloss: "the house of the well"}
     - {name: Semukarov, tongue: velanthian, gloss: "the house of Semukar"}
     - {name: "Torvogor Fort", tongue: translation}
+    - {name: Teshobor, tongue: velanthian}
+    - {name: "The Quiet Pine Wood", tongue: translation}
     - {name: "Sedrovod Fort", tongue: translation}
 sohl:
   system:
