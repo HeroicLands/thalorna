@@ -29,7 +29,7 @@ data:
       standing: single-source
       where: {locus: [place-kwozhngmrch]}
       follows:
-        - {event: "lore-wogenunion#union", how: caused, note: the tribes answered to one man}
+        - {event: "lore-wogenunion#union", how: enabled, note: the tribes rode south under one man}
       who: [{ref: being-wogenhenzhuo, role: actor}, {ref: affiliation-kwozhengprv, role: victim}]
 ---
 
@@ -37,7 +37,7 @@ Wogen's Union of the Black Wilds is the binding of the steppe tribes north of th
 
 For generations the tribes of [[place-blackwilds|the Black Wilds]] fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. [[being-wogenhenzhuo|Wogen Henzhwo]] began as the war-leader of a minor tribe and bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. Infighting among the [[lore-wohou|Wohou]] lords of the north had thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Prince's report reached the capital, the border was porous and the tribes answered to one man.
 
-A run of hard winters and failing grazing drove the tribes south in any case, and Wogen turned that hunger into a war aim. His riders came into the northern districts of [[affiliation-kwozhengprv|Kwozheng Province]], striking supply lines and outposts instead of towns and withdrawing before an imperial army could force a battle.
+A run of hard winters and failing grazing drove the tribes south in any case, and with the tribes answering to him, Wogen turned that hunger into a war aim. His riders came into the northern districts of [[affiliation-kwozhengprv|Kwozheng Province]], striking supply lines and outposts instead of towns and withdrawing before an imperial army could force a battle.
 
 ## See Also {#see-also}
 

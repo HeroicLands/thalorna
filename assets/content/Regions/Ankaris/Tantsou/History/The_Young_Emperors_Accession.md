@@ -16,7 +16,6 @@ data:
       summary: >-
         The Retired Emperor withdraws from the throne and the young Emperor receives the Mandate of Heaven. His reign opens a new era of the calendar, the count of years begins again, and the chancellery at Zhowen cross-references every filing of the old era to the new one.
       standing: single-source
-      where: {locus: [place-zhowen]}
       who: [{ref: affiliation-tantsouempr, role: actor}]
 ---
 
