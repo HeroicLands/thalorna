@@ -3,6 +3,7 @@ shortcode: anirarsnth
 name: {full: Ánira Órseneth}
 type: being
 subType: npc
+description: "A lutenist of Thórgila who plays in the inns and at the fairs of the valleys, known for improvising to the mood of the crowd, and hopes to play for lords at the hall."
 tags: [tradesfolk]
 data:
   icon: icon-person

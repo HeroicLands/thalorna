@@ -3,6 +3,7 @@ shortcode: valarnlvnr
 name: {full: Valaren Álvanar}
 type: being
 subType: npc
+description: "A clerk of the Court of Pleas at Torvaleth who copies and keeps the plea rolls and is known for finding loopholes in regulation."
 tags: [administration]
 data:
   icon: icon-person
@@ -419,7 +420,7 @@ Clever and resourceful, good at navigating red tape.
 
 ## Social
 
-Valaren is a clerk of the [Court of Pleas]{.name data-type="affiliation/governmental"} at Torvaleth, a Freeman of [[affiliation-kingdmlnrk|Lyenrik]] who copies and keeps the plea rolls.
+Valaren is a clerk of the Court of Pleas at Torvaleth, a Freeman of [[affiliation-kingdmlnrk|Lyenrik]] who copies and keeps the plea rolls.
 
 ## Companions
 

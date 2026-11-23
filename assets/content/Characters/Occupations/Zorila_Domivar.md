@@ -3,6 +3,7 @@ shortcode: zoriladmvr
 name: {full: Zórila Dómivar}
 type: being
 subType: npc
+description: "The huntswoman of Lord Zurgade of Thornhill Manor, an expert archer and woodland guide who hunts with the lord and his guests."
 tags: [tradesfolk]
 data:
   icon: icon-person
@@ -408,7 +409,7 @@ She can be stubborn, and often feels the need to prove herself among the men of 
 
 ### Motivation
 
-Zórila wants her place at Thornhill, which rests on the lord's standing, and wants to say nothing about the arrow until she has decided what it is worth.
+Zórila wants her place at Thornhill, which rests on the lord's standing, and keeps her own counsel about what she sees at the lord's hunts.
 
 ### Strengths
 
@@ -430,6 +431,10 @@ Few; she is respected by her peers but sometimes viewed with skepticism by tradi
 
 ## Plot Hooks
 
-1. **The arrow.** [[being-zoriladmvr|Zórila]] is the only one who saw which of the lord's guests loosed the arrow that killed his reserved stag, and the guest has begun to show her a great deal of courtesy. She asks a party to learn what he wants.
+1. **The arrow.** The lord's reserved stag was killed by an arrow that none of his guests owns to, and one of the guests has since begun to show [[being-zoriladmvr|Zórila]] a great deal of courtesy. She asks a party to learn what he wants.
 2. **The kinsman.** A kinsman from the hunting family she grew up in comes to [[place-thornhillmnr|Thornhill]] asking for a place in the retinue on the strength of her name, and the old huntsman who wants her gone takes him under his wing.
 3. **The offer.** A greater lord who hunted as Lord Zurgade's guest offers Zórila a post in his own household, and leaving Thornhill would cost her the trust she has built there.
+
+:::secret {title="What the referee knows"}
+Zórila saw which guest loosed the arrow that killed the reserved stag. His courtesy is meant to buy her silence, and she has not decided what her silence is worth.
+:::

@@ -3,6 +3,7 @@ shortcode: almrdslrdrn
 name: {full: Álmera Desolardran}
 type: being
 subType: npc
+description: "A caravan guard of Valthari who rides scout for the caravans on the road from Bruthena to the port and trains younger guards."
 tags: [soldiery]
 data:
   icon: icon-person

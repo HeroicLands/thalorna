@@ -3,6 +3,7 @@ shortcode: estrsnrcth
 name: {full: Estara Sánriseth}
 type: being
 subType: npc
+description: "A teamster of Nebralis who took over her father's carts and teams at twenty-three and hauls the port's loads to the quays, warehouses and market on the tide."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -417,7 +418,7 @@ Resourceful, skilled at working a team through crowded streets, good with horses
 
 ## Social
 
-Estara holds her father's seat in the [Teamsters' Guild of Nebralis]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|the Tevran Maldor]], which licenses the carters and shares out the harbor's work.
+Estara holds her father's seat in the Teamsters' Guild of Nebralis, chartered under [[affiliation-tevran|the Tevran Maldor]], which licenses the carters and shares out the harbor's work.
 
 ## Companions
 

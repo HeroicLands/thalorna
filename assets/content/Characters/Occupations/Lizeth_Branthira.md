@@ -3,6 +3,7 @@ shortcode: lzthbrnthr
 name: {full: Lizéth Bránthira}
 type: being
 subType: npc
+description: "A semi-skilled laborer of Nebralis who leads a hired gang on construction and heavy-lifting jobs and lives in the town as a Resident."
 tags: [common-folk]
 data:
   icon: icon-person

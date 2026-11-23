@@ -3,6 +3,7 @@ shortcode: grthnjthrn
 name: {full: Gerthan Gútharen}
 type: being
 subType: npc
+description: "A tentmaker of Thórgila whose workshop has made tents and tarpaulins for the companies that march from the valleys for more than thirty years."
 tags: [tradesfolk]
 data:
   icon: icon-person

@@ -3,6 +3,7 @@ shortcode: elsrdrgn
 name: {full: Élsaro Durgana}
 type: being
 subType: npc
+description: "A mercenary of Thórgila who takes discreet contracts from nobles and wealthy clients, works mostly alone and is known for stealth and precision."
 tags: [soldiery]
 data:
   icon: icon-person
@@ -398,7 +399,7 @@ sohl:
 
 Born in [[place-thorgila|Thórgila]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Élsaro Durgana is a mercenary.
 
-Élsaro is a skilled assassin-for-hire, known for his stealth and precision. He operates in the shadows, taking on contracts from those willing to pay for his services. Élsaro has a reputation for being quick and discreet, often using his skills to eliminate targets without a trace. He values his independence and often works alone but is also willing to collaborate when the job requires it.
+Élsaro is a skilled sellsword, known for his stealth and precision. He takes contracts from those willing to pay for his services and has a reputation for being quick and discreet. He values his independence and often works alone but is also willing to collaborate when the job requires it.
 
 ## Psyche
 
@@ -412,7 +413,7 @@ Can be overly secretive, struggles with trusting others.
 
 ### Strengths
 
-Highly skilled in stealth and assassination, adaptable, sharp-minded.
+Highly skilled in stealth, adaptable, sharp-minded.
 
 ## Social
 
@@ -426,10 +427,14 @@ Highly skilled in stealth and assassination, adaptable, sharp-minded.
 
 ### Enemies
 
-Many; rivals and targets often seek retribution.
+Many; rivals, and the enemies of his clients.
 
 ## Plot Hooks
 
-1. **The lord's offer.** Riders of Nizel Ganotis ask Élsaro to silence a priest at [[place-thorgila|Thórgila]]. Élsaro has not refused, and asks a party to learn which of the lord's enemies the lord fears most.
+1. **The lord's offer.** Riders of Nizel Ganotis offer Élsaro a commission at [[place-thorgila|Thórgila]] that he has not yet refused, and he asks a party to learn which of the lord's enemies the lord fears most.
 2. **A buyer at the stone.** A horse-seller swears a horse's age at the oath stone and the horse-judge reads its teeth and says otherwise. The seller has friends among the crossbowmen home from contract, and Élsaro asks a party to find who hired him as the seller's witness.
 3. **The crossbowman's return.** A crossbowman home from six years under contract has seen Élsaro's face in a place Élsaro has never been. He asks a party to learn who is wearing it.
+
+:::secret {title="What the referee knows"}
+Élsaro is a paid killer, and the sellsword's trade is his cover. The commission from the riders of Nizel Ganotis is the death of a priest at Thórgila, and he has not refused it.
+:::
