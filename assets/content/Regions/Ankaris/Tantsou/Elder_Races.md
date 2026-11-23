@@ -33,7 +33,7 @@ The empire places the Elder peoples by function. The placement is binding in law
 
 ## The Enclaves
 
-The empire recognizes the lands of the Senali and the Khazari, which lie along the north-western mountain line, facing the Khazrin and the Black Wilds. Within them the Elder peoples govern themselves, magic included, and the empire watches the enclaves closely for any sign of rebellion.
+The empire recognizes the lands of the Senali and the Khazari, which lie along the north-western mountain line, facing the Khazrin and [[place-blackwilds|the Black Wilds]]. Within them the Elder peoples govern themselves, magic included, and the empire watches the enclaves closely for any sign of rebellion.
 
 **The Senalian forests** are old woods where few humans go. The Senali keep their traditions there and work their own magic, and to the human villages at the forest edge the woods are strange country. The empire leaves the forests to them on the understanding that they stay loyal, and the Senali send out rare herbs, medicinal plants and, now and then, an enchanted thing in return.
 

@@ -14,6 +14,7 @@ data:
     - {to: graznmntns, bearing: SW}
     - {to: idwkrrgn, bearing: W}
     - {to: easternstrt, bearing: E}
+    - {to: blackwilds, bearing: N}
   routes:
     - {to: suryadvar, bearing: SW, mode: land, days: 30}
     - {to: jnanadvar, bearing: SW, mode: land, days: 45}
@@ -77,7 +78,7 @@ To the southwest, beyond the eastern arc of the Grazian Mountains, contact with 
 
 To the west, beyond the mountain passes, the Khazrin Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aureldian kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
 
-To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the [Black Wilds]{.name data-type="place/region"}, is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern districts.
+To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] nests is a fortified marchland of watchtowers and garrison colonies. The Empire treats Grukar raids as a nuisance. The steppe beyond, [[place-blackwilds|the Black Wilds]], is another matter this generation: the warlord [[being-wogenhenzhuo|Wogen Henzhwo]] has united its tribes, and his riders are already in the northern districts.
 
 ## See Also {#see-also}
 
@@ -131,6 +132,9 @@ To the north, the frontier toward the far-northern [[lore-grukarfolk|Grukar]] ne
 
 [[place-khzryndsrtrgn|Khazrin Desert Region]]
 : western buffer
+
+[[place-blackwilds|The Black Wilds]]
+: the steppe beyond the northern marches
 
 [[lore-grukarfolk|Grukar Folk]]
 : the raiders of the northern frontier
