@@ -29,12 +29,12 @@ data:
         description: >-
           Owns a skin boat and its gear, keeps a place on the clan's strand, and speaks when the clan chooses its war-chief or makes a bargain with a coaster.
     offices:
+      War-Leader: >-
+        The war-chief the shamans name to lead the tribe in a war, followed while the clans see a reason to follow.
       War-Chief: >-
         Leads a clan's fighters and its boats by their acclaim, and makes the clan's bargains with the coasters' masters.
       Shaman: >-
         Keeps a clan's rites and its quarrels, reads the fog for the boats, and sits at the gathering on the headland.
-      War-Leader: >-
-        The war-chief the shamans name to lead the tribe in a war, followed while the clans see a reason to follow.
   seat: nordmoor
   population: {actual: 17000}
   territorial_population: {actual: 17000}

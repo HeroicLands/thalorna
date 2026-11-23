@@ -51,6 +51,8 @@ data:
         description: >-
           Presiding over the council and speaking first in it—an office of precedence, held for a term, not a sovereign.
     offices:
+      First Senator: >-
+        Elected by the Senate from among its members for three years, presiding over it and speaking first in it; the first office of the republic, held by precedence and not as a sovereign.
       Tavos: >-
         Chief magistrate for the year, holding command in the field and presiding over the senate in the First Senator's absence.
       Vornos: >-
