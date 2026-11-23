@@ -67,3 +67,7 @@ The Shókuma Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 They travel the rivers that wind through the forest toward the rainforests, climb for wild honey in the canopy, and render the comb into the beeswax the temples burn at their rites. Their shamans commune with the [[lore-zohira|zohira]] of the winds, rivers and wildlife.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Shókuma belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+The Óbamba lineage of the Shókuma tells of a woman put out of the Flame for a downriver god, and of her brother's journey to the Oracle of Bones to ask one question ([[lore-bonesanswer|The Answer from the Bones]]). Honey and wax from the market town of [[place-bokaru|Bokaru]], upriver from the village, go on to [[place-vuthraka|Vuthraka]].

@@ -67,3 +67,7 @@ The Ngorasha Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 They net the river shallows from reed boats and smoke their catch over slow fires, trading it inland and down to the temple-cities' markets.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Ngorasha belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+Ngorasha smoked fish goes from the market town of [[place-wangel|Wangel]] to [[place-kaljekor|Kaljekor]], where it adds to the catch of the city's own boats.

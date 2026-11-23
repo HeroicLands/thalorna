@@ -67,3 +67,7 @@ The Tálumeng Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat i
 Their wealth is cattle, grazed across the open grassland in the rains and brought close to the village when the heat is hardest.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Tálumeng belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+The open grazing of the Tálumeng was the ground of the Stand on the Burnt Ground, where an Ashborn company under Otham of the Brand held a burn against raiders from the eastern grass; in the Tálumeng telling, the herdsman Kenthor lit the break ([[lore-ashbornsong|The Song of the Burnt Ground]]). The Mbárazi lineage tells how it fed the army of the Gar-Au on the city's business and was thanked for a gift and not paid for a debt ([[lore-guestprice|The Guest-Price]], [[lore-templetrib|The Tribute of the Temple-Cities]]). The tribe's cattle are the herds the clans bring under the [[lore-okharishist|Three-Flame Settlement]], and they reach Zarhanis on the hoof by way of [[place-gwandoro|Gwandoro]].

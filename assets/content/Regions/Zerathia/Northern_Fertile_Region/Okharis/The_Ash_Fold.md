@@ -37,6 +37,10 @@ The people who keep it are the **shurem**, the ash: those put out of the Flame, 
 
 The herders' track from Zarhanis crosses open grazing for two days on horse. The wall can be seen from a long way, and the track bends away from it. A traveler who keeps to the wall finds the old gate, its cairn and the cattle-ground beyond, which a stranger should cross by daylight.
 
+## Layers {#history}
+
+The layers run in order. A temple estate worked the grazing country, and a bad year ended it. The clans reckon it abandoned, and the Granary-Keepers strike it from the rolls. A priest of Zarhanis, off the record, puts the cause in a famine year, when the temple sent those who declined the Flame to the estate and fed only the faithful. The flame-mark on the gate cairn is chiseled out. The shurem take the bondsmen's yard, and under the granary the fire burns that does not descend from [[miscgear-emberfirst|The First Ember]].
+
 ## What Is There Now {#present}
 
 The estate stands as it has stood, and this year more of the clans' attention falls on it. The dues that the clans carry up to the moots have risen, and the herders who graze within sight of the wall count the lost cattle-ground against what the cities ask of them. A chieftain who has lost herd to the ash-cattle cannot carry the loss to the moot without hearing it called his clan's neglect, so he pays the full count and says nothing of the ground.

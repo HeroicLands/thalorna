@@ -21,7 +21,9 @@ data:
 
 ## Overview {#overview}
 
-The Okharis Region is the western end of the
+The Okharis Region is a country of three temple-cities and the herds around
+them, held together by the faith of the Eternal Flame and known for the horsemen
+the Khelathi houses court. It is the western end of the
 [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the country held by
 [[affiliation-okharis|Okharis]], which fronts the [[place-vylarianse|Vilérian Sea]] along
 a long north coast and reaches south to the

@@ -67,3 +67,7 @@ The Wámbuchi Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat i
 They grow barley and sorghum on the rain-fed plains, and the grain they owe in tribute is a fixed entry in the temple registers.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Wámbuchi belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+Wámbuchi barley and sorghum pass through the grain market at [[place-sembari|Sembari]] to the granaries of [[place-zarhanis|Zarhanis]], and by the coast road to those of [[place-kaljekor|Kaljekor]].

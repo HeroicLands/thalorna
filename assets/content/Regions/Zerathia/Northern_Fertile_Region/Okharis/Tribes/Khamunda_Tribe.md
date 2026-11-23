@@ -67,3 +67,7 @@ The Khamunda Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 They dig clay from their own pits and fire it into the great storage jars in which the temple-cities keep their grain and dried fruit. The jars they owe as dues are entered in the temple registers beside the grain that the other tribes deliver.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Khamunda belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+Khamunda ware keeps the stores of the First Flame: the clay jars that stand in the temple granaries of [[place-zarhanis|Zarhanis]] come from the tribe's pits.

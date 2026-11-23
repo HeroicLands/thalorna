@@ -67,3 +67,7 @@ The Dóngaru Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 They fell the forest's hardwoods and burn charcoal in earth-covered stacks, supplying the smithies and the building work of the temple-cities.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Dóngaru belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+Dóngaru charcoal goes from the forest margin through the market town of [[place-mbuloro|Mbuloro]] to [[place-vuthraka|Vuthraka]], and the fire-pots that carry the new ember home at the Rekindling are packed with it ([[lore-emberroad|The Ember on the Road]]).

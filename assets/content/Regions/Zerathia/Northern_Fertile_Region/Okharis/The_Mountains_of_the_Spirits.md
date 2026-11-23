@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [orclbonesspr]
   parents: [okharisrgn]
-  population: {actual: null}
+  population: {actual: 0}
   packFolder: okharis
 ---
 

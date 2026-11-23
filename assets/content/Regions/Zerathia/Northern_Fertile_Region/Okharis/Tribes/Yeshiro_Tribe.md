@@ -67,3 +67,7 @@ The Yéshiro Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 They strip acacia bark from the forest margin and tan the hides of the herding tribes with it, returning finished leather for trade.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Yéshiro belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+Hides from the market town of [[place-kuyoro|Kuyoro]] go out to [[place-vuthraka|Vuthraka]]. In the Shókuma household telling, Mbula, a Yéshiro woman who married into the Óbamba lineage, is the one who says that her husband's sister declined the Flame at her own door ([[lore-bonesanswer|The Answer from the Bones]]).

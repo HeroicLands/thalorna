@@ -67,3 +67,7 @@ The Zhíkande Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat i
 They grow flax in the river-watered fields, ret it in the shallows and weave it into linen prized for its fineness in the temple-cities.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Zhíkande belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+Zhíkande linen woven at [[place-chivel|Chivel]] goes to [[place-zarhanis|Zarhanis]]. The Tálumeng telling of the Gar-Au's embassy reaches for the tribe's weaving as its standard of fine cloth: the envoy's white linen is finer than anything the Zhíkande weave ([[lore-guestprice|The Guest-Price]]).

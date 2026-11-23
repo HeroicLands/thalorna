@@ -67,3 +67,7 @@ The Magara Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 They breed and break horses on the open grassland and are the most warlike of the village tribes, given to raids and quarrels with their neighbors. Their families keep the [Spirit Blades]{.name data-type="weapongear"} in which [[lore-shengelspr|Zohu Shéngeling]] is seated.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Magara belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+Under the [[lore-okharishist|Three-Flame Settlement]], the clans bring the cities herds and warriors. The Magara families hand down the Spirit Blades, in which [[lore-shengelspr|Zohu Shéngeling]] is seated, and the Ngáleza lineage tells how it yielded the Valley of the Two Baobabs to the Sángweri at the moot in Zarhanis to pay for a coal of new fire ([[lore-emberroad|The Ember on the Road]]).

@@ -67,3 +67,7 @@ The Kirofa Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 Their date palms and fig trees crowd the watered banks, and the dried fruit keeps through the hottest months and travels well to market.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Kirofa belongs to Okharis as well as to the tribe.
+
+## History {#history}
+
+Kirofa dates and figs reach [[place-zarhanis|Zarhanis]] through the market town of [[place-lumbari|Lumbari]], among the fruit the tribes owe the city. In the Shókuma household telling of the woman put out of the Flame, her elder daughter married into the Kirofa, and the Kirofa took her without the ashmark ([[lore-bonesanswer|The Answer from the Bones]]).
