@@ -12,6 +12,8 @@ data:
   routes: [{to: teilvari, bearing: W, mode: land, days: 1, terrain: [road, forest]}]
   population: {actual: 600}
   type: village
+  fortification: walled
+  stronghold: fort
   market: local
   packFolder: eilwith
   government: kingdmdnvr

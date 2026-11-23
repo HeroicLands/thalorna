@@ -51,7 +51,7 @@ The poets are the Dunhara's great achievement. Genealogy, history, legal precede
 
 The settled people of Amradad are of Dunhari stock and have grown apart from their cousins. The tribes admire the wealth of the cities and despise the softness of a settled life, and the Amradi return both opinions. [[lore-dunhariclt#the-amradi|Dunhari]] sets out how the Amradi differ from the tribes.
 
-A few [[lore-flkkhazar|Khazari]] halls are rumored in the mountain margins, and now and then a [[lore-flksenali|Senali traveler]] is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
+A few [[lore-flkkhazar|Khazari]] halls are rumored in the mountain margins, and now and then a [[lore-flksenali|Senali traveler]] is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register. The guides of the March Road point out [[place-shuttercliff|The Shuttered Cliff]] as one of the halls, and the poets of the tribes that water at [[place-rootstair|The Root Stair]] keep a verse about a tall stranger there.
 
 ## Faith
 
