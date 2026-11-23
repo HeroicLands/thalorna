@@ -103,7 +103,12 @@ export const RETIRED = [
             "Colonel Dómivar",
         ],
         replacement: "names and offices of the bearer's culture",
-        scope: ["being-afzndhprnzr", "being-kayvondzrd", "being-tarsilathelv"],
+        scope: ["being-afzndhprnzr", "being-kayvondzrd", "being-zltthlvrs"],
+    },
+    {
+        retired: ["Társila", "Tarsila", "Lizéth", "Lizeth"],
+        replacement: "the host culture's given names",
+        scope: "corpus",
     },
     {
         retired: ["Aldric"],

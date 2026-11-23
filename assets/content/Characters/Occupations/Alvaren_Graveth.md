@@ -3,6 +3,7 @@ shortcode: alvrngrvth
 name: {full: Alvaren Graveth}
 type: being
 subType: npc
+description: "A salter of Nebralis who runs a large saltworks supplying the coastal towns and tries new ways of evaporating brine, flavored salts among them."
 tags: [common-folk]
 data:
   icon: icon-person

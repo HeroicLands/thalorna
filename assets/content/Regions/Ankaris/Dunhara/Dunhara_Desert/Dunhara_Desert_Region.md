@@ -65,6 +65,12 @@ No one rules the open desert. Perhaps a dozen great confederations and many smal
 [[place-vzhmvd|Vazhmavad]]
 : the weighing-place of the poets
 
+[[place-shuttercliff|The Shuttered Cliff]]
+: a shuttered face above the March Road, held by Kinless
+
+[[place-rootstair|The Root Stair]]
+: a spring under a ladder of fig roots, shared by two tribes
+
 ## The Grain Compact and the Southern Circuit {#present}
 
 At every well this year the talk begins with the Kingdom. The tribes sell Amradad camels, sheep and goats and ride escort for its caravans, and take its grain and iron in return. The trade is cautious on both sides, and blood-debts from old raids keep some tribes out of it altogether. Every compact the Kingdom offers goes before the common council at [[place-ghavulavad|Ghavulavad]], and the council argues each one from the beginning, because a tribe that is owed Amradi blood does not ride under a compact another tribe has sworn.

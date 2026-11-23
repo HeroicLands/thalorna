@@ -3,6 +3,7 @@ shortcode: ilmrrnthrn
 name: {full: Ilmara Ornethran}
 type: being
 subType: npc
+description: "The widowed innkeeper of the Ornethran Inn in Herthema, known for her stews and for her rule that no man draws steel in the yard."
 tags: [guilded, tradesfolk]
 data:
   icon: icon-person
@@ -432,4 +433,4 @@ Few; generally respected in her community.
 
 1. **The lodger off the roll.** A sellsword lodges at the inn who has been struck from the roll, and the Keeper of the Roll's clerks have been asking at the door. Ilmara asks a party to take him out of [[place-herthema|Herthema]] before the walls close.
 2. **The wine merchant's table.** A wine merchant eats at the inn each market day and has started to talk of the figured glass he means to buy. Ilmara asks a party to carry a sample to [[being-vlmrjthrn|Velmar Gútharen]] and bring back his opinion.
-3. **Pálina's visitors.** Women of the town come to the inn to wait for [[being-palnsnrcth|Pálina Sánriseth]], and Gaimel Korvathandis's agents have started to eat at the next table. Ilmara asks a party to take a room and listen.
+3. **Pálina's visitors.** Women of the town come to the inn to wait for [[being-palnsnrcth|Pálina Sánriseth]], and [[being-gaimelkorvat|Gaimel Korvathandis]]'s agents have started to eat at the next table. Ilmara asks a party to take a room and listen.

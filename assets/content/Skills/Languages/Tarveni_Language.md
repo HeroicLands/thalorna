@@ -4808,7 +4808,7 @@ data:
     - {name: Dometh Ornethran, tongue: tarveni}
     - {name: Élsaro Durgana, tongue: tarveni}
     - {name: Estara Sánriseth, tongue: tarveni}
-    - {name: Lizéth Bránthira, tongue: tarveni}
+    - {name: Ervotho Bránthira, tongue: tarveni}
     - {name: Galver Ornethran, tongue: tarveni}
     - {name: Haldena Durgana, tongue: tarveni}
     - {name: Holren Álvanar, tongue: tarveni}
@@ -4827,7 +4827,7 @@ data:
     - {name: Kaldrén Gútharen, tongue: tarveni}
     - {name: Velmar Gútharen, tongue: tarveni}
     - {name: Alethra Ornetis, tongue: tarveni}
-    - {name: Társila Thelvaris, tongue: tarveni}
+    - {name: Zolta Thelvaris, tongue: tarveni}
     - {name: Taviro Delvanor, tongue: tarveni}
     - {name: Tharla Durgana, tongue: tarveni}
     - {name: Thésira Delvanor, tongue: tarveni}
@@ -5305,8 +5305,11 @@ data:
       instead: Dúrgalis
       why: "a name built of words of an Earth tongue, for the camp by the sea"
     - form: Floréth
-      instead: Lizéth
+      instead: Ervotho
       why: "a name built of words of an Earth tongue, for a given name of flower"
+    - form: Lizéth
+      instead: Ervotho
+      why: "a whole given name of an Earth tongue, and a woman's name"
     - form: Maríthran
       instead: Ornethran
       why: "a name built of words of an Earth tongue, for a clan of the sea"
@@ -5363,8 +5366,9 @@ data:
       instead: Ólvestra
       why: "a name with the vowels i and a side by side, which Tarveni lacks"
     - form: Társia
-      instead: Társila
+      instead: Zolta
       why: "a name with the vowels i and a side by side, which Tarveni lacks"
+    - {form: Társila, instead: Zolta, why: "a whole given name of an Earth tongue"}
     - form: Thária
       instead: Tharla
       why: "a name with the vowels i and a side by side, which Tarveni lacks"

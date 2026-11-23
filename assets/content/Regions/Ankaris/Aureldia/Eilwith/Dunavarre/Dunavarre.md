@@ -13,6 +13,7 @@ data:
     - {to: thornwold, bearing: W}
     - {to: hallowwood, bearing: W}
     - {to: aldorathrgn, bearing: N}
+    - {to: eilissa, bearing: NW}
   population: {actual: 75000}
   packFolder: eilwith
   government: kingdmdnvr
@@ -24,7 +25,7 @@ data:
 
 ## The Land {#the-land}
 
-The coast is a run of deep anchorages between headlands of open moor, with [[place-ravenmoor|Ravenmoor]] on the deepest of them and [[place-wraymouth|Wreimouth]] at the mouth of the [Wrai]{.name data-type="place/feature"}, the kingdom's river. Behind the coast lie the plains and the river valleys, the kingdom's farmland, cut into manorial estates. Westward the ground rises into wooded hills, and beyond them the old forest of [[place-teilvari|Teilvari]] runs to the edge of [[place-hallowwood|Seirasto]]. The weather comes off the sea, wet and mild.
+The coast is a run of deep anchorages between headlands of open moor, with [[place-ravenmoor|Ravenmoor]] on the deepest of them and [[place-wraymouth|Wreimouth]] at the mouth of the [Wrei]{.name data-type="place/feature"}, the kingdom's river. Behind the coast lie the plains and the river valleys, the kingdom's farmland, cut into manorial estates. Westward the ground rises into wooded hills, and beyond them the old forest of [[place-teilvari|Teilvari]] runs to the edge of [[place-hallowwood|Seirasto]]. The weather comes off the sea, wet and mild.
 
 ## Peoples {#peoples}
 

@@ -32,7 +32,9 @@ data:
         title: Syndic
         description: >-
           The head of a syndicate, chosen by its underwriters, who sets its rates and keeps its book and sits with the other syndics.
-    offices: {}
+    offices:
+      Syndic: >-
+        Head of one syndicate, chosen by its underwriters. Sets its rates, keeps its book, and sits with the other syndics twice a year to fix the year's rates on the common routes and to strike from the roll a house that defies a verdict of the Sea-Law Hall.
   seat: calypsacity
   population: {actual: null}
   economy: [affiliation-danvar, lore-vylrncrncy]

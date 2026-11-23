@@ -47,11 +47,11 @@ At [[place-koldmere|Koldmere]], Elfith lays out the autumn loss separately from 
 
 ### Across the disputed beds
 
-The Brinwold shore admits impounding the winter boats and refuses to return them without its reed. Its damaged nets have the same clean cuts. A party arriving under Koldmere’s banner meets a hostile landing; a party arriving to compare losses can lay the two kinds of net together.
+Brinwold’s answer reaches Koldmere by the boats that cross the beds: the manors admit impounding the winter boats and will not return them without their reed. Brinwold’s damaged nets hang on its own beach, and they have the same clean cuts. A boat that comes in under Koldmere’s banner is driven off the shingle; a party that lands to compare losses can lay the two kinds of net together.
 
-**Choices and clues.** Secure witnesses from both shores, arrange a night watch, or try to steal back the impounded boats. Theft answers the winter loss and leaves the autumn one unsolved. From either beach the party can see Stillwader at dusk; from the water it can follow the stream to Reedgill without guessing a hidden path.
+**Choices and clues.** Secure Koldmere’s witnesses and Brinwold’s answer by boat, arrange a night watch, or try to steal back the impounded boats. Theft answers the winter loss and leaves the autumn one unsolved. From either beach the party can see Stillwader at dusk; from the water it can follow the stream to Reedgill without guessing a hidden path.
 
-**If bypassed.** Evidence from the nest still identifies both shores’ equipment, but Brinwold will demand its own opportunity to inspect it. No speech by the party obliges the tenants to trust Elfith.
+**If bypassed.** Evidence from the nest still identifies both shores’ equipment. Brinwold’s manors will want to inspect it themselves, and nothing the party says makes them trust Elfith.
 
 ### The watch below the alders
 
@@ -74,9 +74,9 @@ The stream runs between rooted banks. Cut nets from both shores line the outer d
 
 ### What the proof does not settle
 
-Elfith receives the boat and the account of the cutters. Brinwold demands its netting back. Both must distinguish the nest’s work from their own seizures, and neither has to abandon its claim to the reed-beds to coordinate a watch.
+Elfith receives the boat and the account of the cutters. Brinwold’s answer by boat demands its netting back. Both must distinguish the nest’s work from their own seizures, and neither has to abandon its claim to the reed-beds to coordinate a watch.
 
-**Choices and rewards.** The party can arrange a witnessed return of the winter boats against the disputed reed, carry a joint petition to Alfmund, or leave the shores with proof and no agreement. A common watch is a practical bargain about boats and signals. It is not a grant of the lake to Ondareth, Aldorath or Reedgill.
+**Choices and rewards.** The party can carry an offer across the beds for a witnessed return of the winter boats against the disputed reed, carry a joint petition to Alfmund, or leave the shores with proof and no agreement. A common watch is a practical bargain about boats and signals. It is not a grant of the lake to Ondareth, Aldorath or Reedgill.
 
 **If bypassed.** Each shore hears a different account of the raid. Stillwader, if alive, has room to make the next loss another accusation.
 

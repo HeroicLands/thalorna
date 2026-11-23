@@ -46,6 +46,8 @@ The Black Lotus Society is the empire's great criminal syndicate. Its existence 
 
 The southern rice harvests have failed several years running. Crops have withered, smaller rivers have dried in their beds, and the villages are starving. The [[lore-tanchei|Tanchei]] are divided over the cause: one school reads a breakdown of classification in the domains of Earth and Water, and the other a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening, a reading no scholar puts in writing. As hunger spreads, so does unrest, and in some districts the [[lore-nouwen|Nouwen]] have risen against their lords and the magistrates who collect the tribute.
 
+The famine's heart is [[place-jaunou|Jaunou]] in [[affiliation-mwonouprv|Mwonou Province]], where the river is dry in its bed and the district granaries stand open and empty. The delta of [[affiliation-wongsenprv|Wongsen Province]] is the exception: the water-gifted [[lore-wanduo|Wandwo]] of its Prince, [[being-rinzhowngsn|Rinzho]], bring rain to it, and the dry provinces buy his rice at the price he names. Some at court say his sorcerers are behind the drought, and nobody has proven it ([[lore-southfamine|The Famine in the South]]).
+
 ## See Also
 
 [[affiliation-yanchaizhao|Yanchai Zhau]]

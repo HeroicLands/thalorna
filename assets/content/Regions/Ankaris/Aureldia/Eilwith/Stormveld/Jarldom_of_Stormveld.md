@@ -55,6 +55,7 @@ data:
         description: >-
           The head who wields the jarls' lent authority. Elected from among the jarls and holding only the authority they continue to lend him; no provision of the jarldoms' law ties the standing to his children.
     offices:
+      High Jarl: Elected by the jarls from among their number, holding only the authority they lend him, to coordinate the confederation's defense and settle disputes between the jarldoms.
       Jarl: Ruler of a jarldom in his own right, with his own hall, levy and moot.
       Hersvald: Chieftain of a district, leading its men to the muster.
       Lawspeaker: Keeper of the law in memory, who recites it at the moot and declares what it is.
@@ -107,7 +108,7 @@ A free _bundi_ speaks at his jarldom's moot, and a ruling there binds the jarl o
 ### The Officers
 
 High Jarl
-: [[being-ulthorvhrnd|Ulthorv Hrindaruk]], elected in 709 AF, who is also jarl of Stormveil and its plain.
+: [[being-ulthorvhrnd|Ulthorv Hrindaruk]], who is also jarl of Stormveil and its plain.
 
 Jarl
 : [[being-vrithorvmrvd|Vrithorv Marvidrok]], jarl of [[place-vuldstead|Vuldstead]] on the plain's western edge, and [[being-draskmilglrv|Draskmil Glarvendik]], jarl of [[place-drasknes|Drasknes]] on the northern coast, among the jarls of the plain and the fells.

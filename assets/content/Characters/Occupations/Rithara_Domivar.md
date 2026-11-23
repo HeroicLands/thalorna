@@ -3,6 +3,7 @@ shortcode: rithardmvr
 name: {full: Ríthara Dómivar}
 type: being
 subType: npc
+description: "A common seaman of Valthari from the hill town of Thórgila, a gifted navigator who signed aboard at seventeen and means to captain a ship."
 tags: [common-folk]
 data:
   icon: icon-person

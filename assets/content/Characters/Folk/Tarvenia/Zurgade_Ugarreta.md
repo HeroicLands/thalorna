@@ -79,6 +79,6 @@ The old huntsman who wants Zórila replaced.
 
 ## Plot Hooks
 
-1. **The arrow.** At the last hunt one of Zurgade's guests shot a stag the lord had reserved for himself, and nobody has owned the arrow. Zurgade cannot ask his guests which of them did it, so he asks a party to learn it from Zórila Dómivar.
+1. **The arrow.** At the last hunt one of Zurgade's guests shot a stag the lord had reserved for himself, and nobody has owned the arrow. Zurgade cannot ask his guests which of them did it, so he asks a party to learn whether his huntswoman Zórila Dómivar saw it.
 2. **The kinsman.** A kinsman of Zórila's family asks for a place in the retinue on the strength of her name, and the old huntsman takes him up. Zurgade asks a party to learn what the kinsman wants.
 3. **A change at court.** The High King has not come down to the hall in a month, and Zurgade's greater friends are sending men up the road to Lezkora. He asks a party to learn whom they are backing.

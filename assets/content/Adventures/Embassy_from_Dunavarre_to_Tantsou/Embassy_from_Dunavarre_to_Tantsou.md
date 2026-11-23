@@ -1,6 +1,6 @@
 ---
 shortcode: embsydnvrtantsou
-name: {full: Embassy from Dunavarre to Tantsou}
+name: {full: Embassy from Dúnavarre to Tantsou}
 type: scenario
 subType: adventure
 tags: []
@@ -58,7 +58,7 @@ data:
 
 ## Overview {#overview}
 
-Embassy from Dunavarre to Tantsou follows a mission commissioned by the [[affiliation-dunavarsynod|Dúnavarre Synod]]. The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] wants direct relations with the [[affiliation-tantsouempr|Empire of Tantsou]], ending its dependence on the [[affiliation-vylarinmpr|Vilérian Empire]] as intermediary. The opening adventure takes the embassy to [[place-beravel|Péravel]], in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], where a request for scholarly assistance puts its diplomatic standing at risk.
+The [[affiliation-dunavarsynod|Dúnavarre Synod]] commissions an embassy. The [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] wants direct relations with the [[affiliation-tantsouempr|Empire of Tantsou]], ending its dependence on the [[affiliation-vylarinmpr|Vilérian Empire]] as intermediary. The opening adventure takes the embassy to [[place-beravel|Péravel]], in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], where a request for scholarly assistance puts its diplomatic standing at risk.
 
 The party can serve the embassy as guards, scouts, clerks or trusted agents. The vacant huntsman’s place offers a natural appointment for a character skilled outdoors. Players may also take an established member by agreement with the GM; decide which private motives that player controls before play. A small party of staff has authority to act on the ambassador’s commission without taking every senior official into the forest.
 
@@ -66,7 +66,7 @@ This adventure resolves the proposed expedition for the [[miscgear-heartofdhirik
 
 ## What Is Really Happening {#what-is-really-happening}
 
-[[being-aelithraenewyn|Áelithra Énevin]], Royal Loremaster of Élavendre and a Mistress of [[affiliation-ordoarcanis|The Order]], possesses a damaged scroll placing the Heart in [[place-ukuaraelwen|Úkua-Araelwen]]. Its surviving passages associate the crystal with sound. She wants it brought to Péravel for study and offers the [[miscgear-temprlcmpss|Temporal Compass]] to make the crossing possible. Her position at court gives her access to the embassy, not authority over sacred ground.
+[[being-aelithraenewyn|Áelithra Énevin]], Royal Loremaster of Élavendre and a Mistress of [[affiliation-ordoarcanis|the Order]], the Thordimalon, possesses a damaged scroll placing the Heart in [[place-ukuaraelwen|Úkua-Araelwen]]. Its surviving passages associate the crystal with sound. She wants it brought to Péravel for study and offers the [[miscgear-temprlcmpss|Temporal Compass]] to make the crossing possible. Her position at court gives her access to the embassy, not authority over sacred ground.
 
 The [[affiliation-alndnwrdns|Áelendan Wardens]] forbid every outsider entry. Úkua-Araelwen lies in the high forest of [[place-sathvothe|Satvote]], across the frontier between [[place-elavendre|Élavendre Region]] and the [[place-provenzrgn|Provénzia Region]]. Neither crown administers it. The Wardens keep paired watches outside the margin and never enter. They know what the Loremaster wants and double the posts on the Provénzia side. A device of the art carried inside counts as a working, and a working there as desecration.
 
@@ -89,7 +89,7 @@ Use these motives when a decision touches the person concerned. They need not al
 | [[being-toradhtaravren\|Dame Torad Taravren]]        | The captain of the [[affiliation-justbladeordr\|Order of the Just Blade]] gives military counsel. She secretly despises the genocidal crusade against the [[affiliation-saelvri\|Seilvri]] despite her service in it; orders to attack guardians of sacred ground trouble her.                                                                  |
 | [[being-marricharavrel\|Marrik Háravrel]]            | The Sergeant-at-Arms trains the guards and secretly serves as Spymaster. He deliberately confides that office only to Aran. He does not know Loris has discovered it or that his reports are being poisoned.                                                                                                                                    |
 | [[being-kadylemcudavel\|Kadilem Kúdavel]]            | The herald announces the mission and guards its ceremonial standing. His concealed affection for Thaeklia makes a request from her difficult to refuse.                                                                                                                                                                                         |
-| [[being-laradhluavel\|Larad Lúavel]]                 | The steward’s gambling debts to [[affiliation-umbralcourt\|The Umbral Court]] lead him to steal mission funds. The Court threatens exposure and his daughter’s safety. An unexplained shortage deserves investigation, not an automatic accusation of Vilérian interference.                                                                    |
+| [[being-laradhluavel\|Larad Lúavel]]                 | The steward’s gambling debts to [[affiliation-umbralcourt\|the Umbral Court]] lead him to steal mission funds. The Court threatens exposure and his daughter’s safety. An unexplained shortage deserves investigation, not an automatic accusation of Vilérian interference.                                                                    |
 | [[being-ilaraluavel\|Lady Ilara Lúavel]]             | Larad’s daughter is vulnerable to the Court’s threats. Her safety can force him to choose against the mission.                                                                                                                                                                                                                                  |
 | [[being-nhelynvelthravel\|Nelin Vélthravel]]         | The physician’s dangerous experiments with elixirs risk the people he treats. He wants to examine effects of the forest on living travelers.                                                                                                                                                                                                    |
 | [[being-alanoreneavel\|Alananor Enéavel]]            | The alchemist supplies medicines and resents the lack of recognition. Credit for preparing the expedition matters to him.                                                                                                                                                                                                                       |
@@ -97,7 +97,7 @@ Use these motives when a decision touches the person concerned. They need not al
 | [[being-lheteklarnavel\|Letek Larnavel]]             | The high priest advises on Árdavon’s order and justice. He conceals alcoholism out of fear for his authority. His religious counsel does not grant entry to another people’s sacred ground.                                                                                                                                                     |
 | [[being-rickarluavel\|Rikar Lúavel]]                 | The stable master cares for the retinue’s animals. His concealed sympathy for a rival Dúnavarren faction gives him divided loyalties.                                                                                                                                                                                                           |
 
-Viléria officially welcomes the embassy while [[affiliation-seldan|The Vilérian Senate]] supports covert interference. Loris receives money and promises of advancement for correspondence, military information and opportunities to spoil negotiations. He does not control the Wardens or dryads. If the expedition encounters a lawful refusal, that refusal remains real even when Loris tries to exploit it.
+Viléria officially welcomes the embassy while [[affiliation-seldan|the Vilérian Senate]] supports covert interference. Loris receives money and promises of advancement for correspondence, military information and opportunities to spoil negotiations. He does not control the Wardens or dryads. If the expedition encounters a lawful refusal, that refusal remains real even when Loris tries to exploit it.
 
 ## Hooks {#hooks}
 

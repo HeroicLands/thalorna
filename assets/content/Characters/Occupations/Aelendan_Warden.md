@@ -68,6 +68,6 @@ The Wardens of the patrol territory, their Elder Wardens and their tribal commun
 
 ## Plot Hooks
 
-1. At [[place-ukuaraelwen|Úkua-Araelwen]], a pair warns a party carrying the [[miscgear-temprlcmpss|Temporal Compass]] before it enters: [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]].
+1. At [[place-ukuaraelwen|Úkua-Araelwen]], a pair warns a party carrying the [[miscgear-temprlcmpss|Temporal Compass]] before it enters: [[scenario-embsydnvrtantsou|Embassy from Dúnavarre to Tantsou]].
 2. A boundary patrol needs its warning carried to hired guards before the guards follow an Order scholar past the margin.
 3. A watch asks travelers to bring supplies to its fire without crossing into the ground it keeps.

@@ -75,13 +75,13 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-A maritime crime network operating where the [[place-vylarianse|Vilérian Sea]] meets the cold northern waters. The Gray Tide began as a loose alliance of [[place-nordheim|Nordheim]] smugglers, [[place-eilwith|Eilwìth]] fences, and [[place-vrystwald|Vristwald]] coastal raiders who discovered that cooperation paid better than competition—at least some of the time. What started as handshake deals in waterfront taverns hardened into an organization over generations, driven by the simple economics of geography: the northern Vilérian Sea is vast, poorly patrolled, dotted with islands and hidden coves, and absolutely critical to legitimate trade. Every merchant ship passing through pays tariffs to someone. The Gray Tide makes sure some of those tariffs are paid to them.
+A maritime crime network operating where the [[place-vylarianse|Vilérian Sea]] meets the cold northern waters. The Gray Tide is a loose alliance of [[place-nordheim|Nordheim]] smugglers, [[place-eilwith|Eilwìth]] fences, and [[place-vrystwald|Vristwald]] coastal raiders who find that cooperation pays better than competition—at least some of the time. Handshake deals in waterfront taverns hold it together as an organization, and the simple economics of geography keep it in business: the northern Vilérian Sea is vast, poorly patrolled, dotted with islands and hidden coves, and absolutely critical to legitimate trade. Every merchant ship passing through pays tariffs to someone. The Gray Tide makes sure some of those tariffs are paid to them.
 
 The Tide is rougher, more violent, and more decentralized than the other syndicates. It has no equivalent of [[affiliation-crimsnldgr|the Crimson Ledger]]'s financial sophistication or [[affiliation-velvethand|the Velvet Hand]]'s aristocratic pretensions. Its leaders are ship captains, harbor masters, and brothel madams—practical people who solve problems with pragmatism and, when pragmatism fails, with hatchets.
 
 ## Territory
 
-**Primary:** Eilwìth port towns (especially [[place-ashford|Ashford]]), Nordheim's coastal settlements, Vristwald's harbor villages
+**Primary:** Eilwìth's port towns, with fences and informants inland at [[place-ashford|Ashford]], Nordheim's coastal settlements, Vristwald's harbor villages
 
 **Secondary:** The islands scattered between Eilwìth and Nordheim serve as staging areas, stash points, and meeting grounds. A few larger islands have semi-permanent Tide settlements—ostensibly fishing villages, actually smuggling depots. The Tide also maintains fences and agents in Vilérian and Taruzelian ports, though these operate cautiously on the Crimson Ledger's turf.
 
@@ -99,7 +99,7 @@ The Tide is rougher, more violent, and more decentralized than the other syndica
 
 ## Organization
 
-The Gray Tide is a loose confederation rather than a hierarchy. Regional captains control operations in their territory—a captain in Ashford runs the Eilwìth waterfront, another in Nordheim's [Stormhaven]{.name data-type="place/settlement"} runs the northern routes, a third manages the Vristwald coves. These captains meet periodically (usually on a neutral island) to coordinate, divide territory, and settle disputes. Disputes that can't be settled by negotiation are settled by combat—not ritual duels but ugly, practical fights that occasionally result in one captain's crew absorbing the other's.
+The Gray Tide is a loose confederation rather than a hierarchy. Regional captains control operations in their territory—a captain in an Eilwìth port runs the Eilwìth waterfront, another in Nordheim's [Stormhaven]{.name data-type="place/settlement"} runs the northern routes, a third manages the Vristwald coves. These captains meet periodically (usually on a neutral island) to coordinate, divide territory, and settle disputes. Disputes that can't be settled by negotiation are settled by combat—not ritual duels but ugly, practical fights that occasionally result in one captain's crew absorbing the other's.
 
 Below the captains, local gang bosses run day-to-day operations in individual port towns. These bosses handle petty crime (pickpocketing, protection rackets, prostitution) and feed information and tribute up to the Tide in exchange for access to the smuggling network and protection from rivals. A local boss who tries to operate independently—keeping too large a share, or dealing with a rival syndicate behind the Tide's back—is typically given one warning. The second offense ends with the boss's body washing up on the beach.
 
@@ -107,11 +107,15 @@ Legitimate fronts include fishing fleets, coastal taverns, brothels, chandlers' 
 
 ## Relations with Other Syndicates
 
-The Gray Tide's relationship with the Crimson Ledger is one of mutual dependency and mutual contempt. The Tide needs the Ledger to launder its revenue; the Ledger needs the Tide's smuggling network to move certain goods. But the Tide resents the Ledger's financial control and periodically attempts to set up its own laundering operations, which the Ledger systematically destroys—usually by anonymously informing customs officials. This cycle of attempted independence and brutal suppression has been repeating for decades and shows no sign of ending.
+The Gray Tide's relationship with the Crimson Ledger is one of mutual dependency and mutual contempt. The Tide needs the Ledger to launder its revenue; the Ledger needs the Tide's smuggling network to move certain goods. But the Tide resents the Ledger's financial control and periodically attempts to set up its own laundering operations, which the Ledger systematically destroys—usually by anonymously informing customs officials. The cycle of attempted independence and brutal suppression repeats itself and shows no sign of ending.
 
-The Ash Road is the Tide's most important partner for human trafficking. The Tide handles the sea routes; the Road handles the desert. This cooperation works because their territories don't overlap. Where they do border—particularly in [[place-qudumel2|Kudumel]]—relations are tense. A decade-long turf war over Kudumel's eastern docks left dozens dead before the Crimson Ledger brokered a profit-sharing arrangement that both sides immediately began scheming to undermine.
+The Ash Road is the Tide's most important partner for human trafficking. The Tide handles the sea routes; the Road handles the desert. This cooperation works because their territories don't overlap. Where they do border—particularly in [[place-qudumel2|Kudumel]]—relations are tense. The profit-sharing the Crimson Ledger brokered after a decade-long war over Kudumel's eastern docks holds, and both sides scheme to undermine it.
 
 The Velvet Hand is regarded with a mixture of suspicion and grudging respect. The Tide buys harbor intelligence from the Hand and occasionally contracts it for targeted killings of problematic officials. But the Tide's captains know that the Hand sells information about the Tide just as readily, and any Velvet Hand agent caught operating in Tide territory without prior arrangement faces summary execution—a policy enforced inconsistently, since the agents usually have something valuable to offer first.
+
+## The Present {#present}
+
+The Tide is running a laundering operation of its own outside the counting houses of [[affiliation-crimsnldgr|the Crimson Ledger]], and the Ledger is working to break it as it breaks every such attempt, by informing customs officials without signing its name. The profit-sharing that ended the war over [[place-qudumel2|Kudumel]]'s eastern docks holds only as long as neither the Tide nor [[affiliation-theashroad|the Ash Road]] manages to undermine it. On the northern coasts the Tide undercuts the prices of [[affiliation-malldbndlg|the Málalidabandalag]], the Mercenary Compact, on coastal contracts wherever it can, and the Compact expels any member caught dealing with it. The Tide buys harbor intelligence from [[affiliation-velvethand|the Velvet Hand]], which sells what it learns about the Tide just as readily.
 
 ## Identifying Marks
 

@@ -3,6 +3,7 @@ shortcode: jolrenlvnr
 name: {full: Holren Álvanar}
 type: being
 subType: npc
+description: "A mason of Lezkora, known for his stone carving, who mends the city's walls and cisterns for the officers who keep them."
 tags: [tradesfolk]
 data:
   icon: icon-person

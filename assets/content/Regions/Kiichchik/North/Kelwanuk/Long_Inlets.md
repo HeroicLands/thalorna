@@ -46,6 +46,10 @@ Every midsummer the Eagle House sends a few big canoes north past the glaciers t
 
 The Long Inlets hold the first seat and want to keep it. The richest houses of the coast are now in the south, on the [[place-yumisrgn|Outer Beaches]], where the beads of the south come in, and the northern chiefs say the southern wealth is bought with other people's captives. The southern chiefs answer that the northern wealth is bought with the same, only longer ago.
 
+## What Is Happening Now {#present}
+
+The trail carries the inlets' trouble this year. At [[place-mukwasis|Wolf Beach]] the Wolf House was asked to sell a captive girl from the oak valleys over the [Grease Trail]{.name data-type="place/feature"} at Falling Water, and no captive has gone over the trail for sale before. Two of its own slaves ran up the trail at the end of the rendering and are hiding at [[place-highfloors|The High Floors]], and the house wants them back before the carriers set out. Behind both stands the quarrel over the first seat, in which the northern chiefs say the southern wealth is bought with other people's captives.
+
 ## See Also {#see-also}
 
 [[place-kelwanukrgn|Kelwanuk Region]]
@@ -56,6 +60,9 @@ The Long Inlets hold the first seat and want to keep it. The richest houses of t
 
 [[place-mukwasis|Mukwasis]]
 : Wolf Beach, at the foot of the Grease Trail
+
+[[place-highfloors|The High Floors]]
+: three cedars above the Grease Trail, grown into floors
 
 [[place-yatsalargn|Outer Islands]]
 : the great islands across the strait

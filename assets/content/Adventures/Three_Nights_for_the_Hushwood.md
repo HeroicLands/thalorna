@@ -17,7 +17,7 @@ data:
 
 ## Overview {#overview}
 
-[[being-neilwa|Neilwa]] needs three nights in [[place-hushwood|The Hushwood]] to keep the rite for the Seilvri killed there. [[being-arvanir|Arvanir]] cannot spare the fighters to hold it. Across the posts, [[being-merraddovvrn|Sir Merrad Dovavren]] hires scouts at [[place-kelivren|Kelivren]] for the coming road into [[place-teilvari|Teilvari]]. He also offers Arvanir a meeting under truce. The party can enter through either commission and learn what accepting it commits them to.
+[[being-neilwa|Neilwa]] needs three nights in [[place-hushwood|the Hushwood]] to keep the rite for the Seilvri killed there. [[being-arvanir|Arvanir]] cannot spare the fighters to hold it. Across the posts, [[being-merraddovvrn|Sir Merrad Dovavren]] hires scouts at [[place-kelivren|Kelivren]] for the coming road into [[place-teilvari|Teilvari]]. He also offers Arvanir a meeting under truce. The party can enter through either commission and learn what accepting it commits them to.
 
 The adventure runs during the preparation for the summer campaign of 720. The Hushwood lies east of the Seilvri’s remaining woods, in western Dúnavarre.
 

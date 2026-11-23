@@ -74,8 +74,7 @@ and Eilwìth and left nothing whatever behind. The passage is not a long one, an
 before.
 
 The crews and the escort were above reproach, chosen for exactly that by people who understood
-precisely what they were entrusting and to whom. That is the detail that has troubled everyone who
-has ever been told it: it forecloses the comfortable explanation without offering another. Both
+precisely what they were entrusting and to whom: it forecloses the comfortable explanation without offering another. Both
 peoples have been looking ever since, and the [[lore-flkkhazar|Khazari]] doctrine that follows from
 the search failing—that [[lore-grukarfolk|Grukar]] are ammunition, and are to be killed wherever
 they are found—is the one consequence of this crossing that anybody outside the Elder Races ever

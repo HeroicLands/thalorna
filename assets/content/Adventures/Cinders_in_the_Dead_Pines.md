@@ -15,18 +15,18 @@ data:
   packFolder: adventures
 ---
 
-A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead of a cell of [[affiliation-blackflame|The Black Flame]]. The [[affiliation-repblcndrth|Republic of Ondareth]] that paid for the priory wants it quietly silenced, and a Peshtar chief wants it left alone. The party goes in for the iron the fire has made, and must decide what to do with the fire.
+A fire that needs no fuel burns in a kiln in the dead pines, tended by the dead of a cell of [[affiliation-blackflame|the Black Flame]]. The [[affiliation-repblcndrth|Republic of Ondareth]] that paid for the priory wants it quietly silenced, and a Peshtar chief wants it left alone. The party goes in for the iron the fire has made, and must decide what to do with the fire.
 
 ## Overview {#overview}
 
-[[place-blackkilnpriory|Blackkiln Priory]] is the ruin of a cell of the Black Flame raised with Ondarethan money to burn out Peshtar raiders. Its Flame-Warden, [[being-geroltsarne|Gerolt Sarne]], fed the first raiders he caught to his kiln, and [[lore-theshadow|The Shadow]] came in with them. The fire burns black and the cell's dead tend it, because the Shadow still uses them to carry offerings. Beneath the chapel is a crypt of the cell and, beyond it, the iron the fire has made.
+[[place-blackkilnpriory|Blackkiln Priory]] is the ruin of a cell of the Black Flame raised with Ondarethan money to burn out Peshtar raiders. Its Flame-Warden, [[being-geroltsarne|Gerolt Sarne]], fed the first raiders he caught to his kiln, and [[lore-theshadow|the Shadow]] came in with them. The fire burns black and the cell's dead tend it, because the Shadow still uses them to carry offerings. Beneath the chapel is a crypt of the cell and, beyond it, the iron the fire has made.
 
 ## Hooks {#hooks}
 
 - **The thief.** A [[place-thornbury|Thornburi]] factor who deals in odd metal will pay well for the black iron that is said to cool in the old kilns, and gives a map of the charcoal road.
 - **The mercenary or common soldier.** An Ondarethan border magistrate hires a squad to carry out a night patrol that ends at the kilns. He does not say whose money is buried there.
 - **The leader.** A Peshtar war-chief whose clan burned the priory sends a chieftain to see whether the fire has spread. The clan's dead lie in the dead pines.
-- **The lone wanderer.** The wanderer carries a brand or an old burn that has begun to ache, and a priest of [[affiliation-sacredforge|The Sacred Forge]] says the cure lies at Blackkiln.
+- **The lone wanderer.** The wanderer carries a brand or an old burn that has begun to ache, and a priest of [[affiliation-sacredforge|the Sacred Forge]] says the cure lies at Blackkiln.
 
 ## Cast and Stakes
 

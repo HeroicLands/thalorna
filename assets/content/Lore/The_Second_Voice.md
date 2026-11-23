@@ -4,7 +4,12 @@ name: {full: The Second Voice, khaz: [zugán]}
 type: miscgear
 description: "The relic that severs Grukar from their Ahks and commands them directly—the weapon that destroyed Khazartúrn, the cause of the sundering between the elder races, and lost at sea with six ships and every soul aboard on a crossing from Élavendre that never arrived."
 tags: [artifact]
-data: {kind: miscgear, templatePriority: null, packFolder: settinglore, unique: true}
+data:
+  kind: miscgear
+  icon: soundwaves
+  templatePriority: null
+  packFolder: settinglore
+  unique: true
 sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 20}}
 ---
 
@@ -106,8 +111,8 @@ any coast, in any year. Six hulls and every soul aboard them went off the water 
 Eilwìth and left nothing whatever behind.
 
 The crews and the escort were **above reproach**—chosen for exactly that, by people who understood
-precisely what they were entrusting and to whom. This is the detail that has troubled everyone who has
-ever been told it. It forecloses the comfortable explanation without offering another.
+precisely what they were entrusting and to whom. That forecloses the comfortable explanation without
+offering another.
 
 ## Where It Is
 

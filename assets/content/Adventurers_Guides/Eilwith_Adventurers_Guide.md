@@ -26,26 +26,26 @@ An Eilwìthan attends the [[affiliation-arldnpnthn|Aureldian]] temple and also l
 
 [[place-wraymouth|Wreimouth]] is Dúnavarre's working harbor and [[place-dunmere|Dunmere]] Aldorath's walled seat. [[place-sunnerslade|Sunnerslade]] ripens a wine in the lee of [[place-ironfells|the Ironfells]] that has no business existing. In the high valleys of the Ironfells the [[lore-vardain|Vardain]], free remnant of the conquered north, live under the protection of the [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]].
 
-The island's reputation abroad is wrong about its people and right about its land. There are places where the fae are strong, deep in the forest and in the wild north, and the borders of the realms bend around them. [[lore-grukaraelwyth|Grukar]] have lived in the empty third of the island for seven hundred years. The tribes of the [[place-pshtrwldrns|Peshtar Wilderness]] live outside every realm, and the forest peoples are the most warlike of them. [[place-hallowwood|Seirasto]] on the south coast is the forest of Eilwìth's [[lore-flksenali|Senali]], and it does not receive visitors.
+The island's reputation abroad is wrong about its people and right about its land. There are places where the fae are strong, deep in the forest and in the wild north, and the borders of the realms bend around them. [[lore-grukaraelwyth|Grukar]] have lived in the empty third of the island for seven hundred years. The tribes of the [[place-pshtrwldrns|Peshtar Wilderness]] live outside every realm, and so do the [[affiliation-durrask|Durrask]] of [[place-thornwold|the Thornwold]], the most warlike of the tribes. [[place-hallowwood|Seirasto]] on the south coast is the forest of Eilwìth's [[lore-flksenali|Senali]], and it does not receive visitors.
 
 ## People to Meet
 
 The king who asks his barons for an heir, the Prime who presides over a Synod divided on the cost of its war, the war-leaders who raid three realms at once: these are the people a party meets first on Eilwìth, and most of them want something.
 
 - [[being-aldrikdrthng|Aldrik Drething]], King of Aldorath, rules from Dunmere by the barons' consent and asks the council of barons to accept his young son as king-to-be in his own lifetime.
-- [[being-velisndorrvl|Velisande Orravel]], the Prime Marendos of the Dúnavarre Synod and head of state, presides in the closed session at Ravenmoor while it divides over the cost of the war on the Seilvri.
+- [[being-velisndorrvl|Velisande Orravel]], the Prime Marendos of the Dúnavarre Synod and head of state, presides in the closed session at Ravenmoor while it divides over the cost of the war on the [[affiliation-saelvri|Seilvri]].
 - [[being-taliravenvl|Talira Venavel]], Warden of the Ports of Dúnavarre, keeps the compulsory call at Ravenmoor's inspection quay and decides which relics may cross between Eilwìth and the mainland.
-- [[being-merraddovvrn|Sir Merrad Dovavren]], Knight-Captain of the West in the Order of the Just Blade, commands the war on the Seilvri from Kelivren and cuts the Order's road a few miles deeper into Teilvari every summer.
-- [[being-neilwa|Neilwa]], the Elder of the Seilvri, keeps the people's gathering and the rites of their dead in Teilvari, and means to reach the Hushwood to settle the dead the Order killed there.
+- [[being-merraddovvrn|Sir Merrad Dovavren]], Knight-Captain of the West in the Order of the Just Blade, commands the war on the Seilvri from [[place-kelivren|Kelivren]] and cuts the Order's road a few miles deeper into [[place-teilvari|Teilvari]] every summer.
+- [[being-neilwa|Neilwa]], the Elder of the Seilvri, keeps the people's gathering and the rites of their dead in Teilvari, and means to reach [[place-hushwood|the Hushwood]] to settle the dead the Order killed there.
 - [[being-harwingrymr|Harwin Greimore]], First Senator of the Republic of Ondareth, is in the last year of his term and wants a second.
-- [[being-godstanhrdl|Godstan Hardli]], the Vandraks of Ondareth's frontier legion at Kaermouth, wants another legion after the tribes of the Peshtar forest burned two of his watch-burgs.
-- [[being-ulthorvhrnd|Ulthorv Hrindaruk]], High Jarl of Stormveld, faces a call to put his seat to the jarls at Midsomar, and [[being-draskmilglrv|Draskmil Glarvendik]], Jarl of Drasknes, is the one who has made it.
-- [[being-taskain|Taskain]], War-Leader of the Bradhar of the Highwood, burned two of Ondareth's watch-burgs in the autumn and means to meet the legion in the pines.
+- [[being-godstanhrdl|Godstan Hardli]], the Vandraks of Ondareth's frontier legion at [[place-kaermouth|Kaermouth]], wants another legion after the tribes of the Peshtar forest burned two of his watch-burgs.
+- [[being-ulthorvhrnd|Ulthorv Hrindaruk]], High Jarl of Stormveld, faces a call to put his seat to the jarls at Midsomar, and [[being-draskmilglrv|Draskmil Glarvendik]], Jarl of [[place-drasknes|Drasknes]], is the one who has made it.
+- [[being-taskain|Taskain]], War-Leader of the Bradhar of [[place-highwood|the Highwood]], burned two of Ondareth's watch-burgs in the autumn and means to meet the legion in the pines.
 - [[being-kadrum|Kadrum]], War-Leader of the Durrask of the Thornwold, sends raiders against Aldorath's lake-shore manors, Dúnavarre's western estates and Ondareth's eastern horse-grazing at once.
 - [[being-oltessalasslnt|Oltessala Esselinto]], the Lonkunno and Keeper of the Wood, was raised by every voice of Seirasto's hearths and holds the wood and nothing beyond it.
 - [[being-davrimhssk|Davrim Hessek]], Reeve of the Vardain Valleys, speaks for the free Vardain at the Weighing Yard below Vorgald's Gate.
 - [[being-leofwldchlwl|Leofwald Chilwell]], Speaker of the Table of Veldareth, keeps Dúnavarre and Ondareth at one table while Ondareth asks whose Speaker he is.
-- [[being-elfithwgdn|Elfith Wigden]], reed-reeve of Koldmere, sets the village's reed-cutting and keeps its boats, and stands in the quarrel with Brinwold over the reed-beds at the lake's northern end.
+- [[being-elfithwgdn|Elfith Wigden]], reed-reeve of [[place-koldmere|Koldmere]], sets the village's reed-cutting and keeps its boats, and stands in the quarrel with [[place-brynwold|Brinwold]] over the reed-beds at the lake's northern end.
 
 ## Ways In
 
@@ -56,14 +56,14 @@ The king who asks his barons for an heir, the Prime who presides over a Synod di
 - **No signal from the pass.** A relief patrol climbs to [[place-sunderwynd|Sunderwiind]]. [[scenario-hangingdead|The Hanging Dead of the Ironfells]] begins when the road closes behind it.
 - **Three nights in the wood.** [[being-neilwa|Neilwa]] asks for passage to her people’s dead; the Order posts the paths. [[scenario-seilvririte|Three Nights for the Hushwood]] can begin among the Seilvri or with a commission from the Order.
 - **A boat and two cutters.** [[being-elfithwgdn|Elfith Wigden]] wants an account of Koldmere’s missing people and equipment. [[scenario-reedgillnets|Nets from Both Shores]] takes the party onto disputed reed-beds below [[place-reedgill|Reedgill]].
-- **Horses for a name.** The highland breeders want their mares back, and [[being-kadrum|Kadrum]] wants the names of his brother’s killers. [[scenario-durraskcount|Forty Mares and One Name]] carries those offers between Stoniford and the Thornwold.
-- **Service beyond the island.** The Synod needs staff for a diplomatic mission. [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]] opens its mainland adventures with a commission at Péravel.
+- **Horses for a name.** The highland breeders want their mares back, and [[being-kadrum|Kadrum]] wants the names of his brother’s killers. [[scenario-durraskcount|Forty Mares and One Name]] carries those offers between [[place-stonyford|Stoniford]] and the Thornwold.
+- **Service beyond the island.** The Synod needs staff for a diplomatic mission. [[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]] opens its mainland adventures with a commission at [[place-beravel|Péravel]].
 
 ## An Eilwìth Campaign {#campaign}
 
 A company can begin at Ravenmoor with a commission and a reason to travel: recovering property, carrying petitions, serving an embassy or escorting people whom a court refuses to hear. Agree whose authority the characters accept, what payment they expect and which promises they make in their own names. A sealed letter has a different reach in Aldorath’s manors, the Durrask steads and the Seilvri woods.
 
-The island’s roads and water connect the work. Dunmere gives access to the old southern road; the Greilevels lead out from Greiwater; Kaerwiind watches the approaches to the Ironfells. Koldmere and Stoniford put the company among people who need boats, grazing and riders while the realms demand service. Let a delivered message, a recovered object or a person brought home establish the next relationship. Each adventure has an outcome worth playing on its own.
+The island’s roads and water connect the work. Dunmere gives access to the old southern road; [[place-greylevels|the Greilevels]] lead out from [[place-greywater|Greiwater]]; [[place-caerwynd|Kaerwiind]] watches the approaches to the Ironfells. Koldmere and Stoniford put the company among people who need boats, grazing and riders while the realms demand service. Let a delivered message, a recovered object or a person brought home establish the next relationship. Each adventure has an outcome worth playing on its own.
 
 The Order wages a crusade against the Seilvri, a people defending their homes. Characters serving the Order can confront what its commission requires; characters entering through Teilvari can help people whose rites and ground the kingdom denies. Choosing an employer does not decide a character’s conscience in advance.
 
@@ -76,9 +76,9 @@ The common people of Eilwìth keep their customs in a few works, each tied to a 
 - [[lore-reevesthrees|The Reeve's Threes]] hold the custom of the Aldorathi manors in sayings a reeve learns by heart and says first at the manor court.
 - [[lore-roadstops|The Ballad of the Road That Stops]] is the drovers' walking song of the Crown Road that ends at a bank of oaks, and the reason the highlands tell their children not to take it.
 - [[lore-hildricplay|The Play of Hildrik and the Grukar]] is played in the Ashford inn-yards at the autumn fair, a war against the Grukar that the march never expects to end.
-- [[lore-coldfordhead|The Head at Koldford]] is told at Wiindmarch wakes, and explains the loaf left by the dead and carried to the crossroads stone.
+- [[lore-coldfordhead|The Head at Koldford]] is told at [[place-wyndmarch|Wiindmarch]] wakes, and explains the loaf left by the dead and carried to the crossroads stone.
 - [[lore-windownaming|The Naming at the Window]] is the widow's lament said over the black candle at the [[lore-silentpassage|Silent Passage]], for dead the wood took without graves.
-- [[lore-kingswassail|The Wassail at Kingshollow]] is sung at the royal hall's door at midwinter, and asks the king for the one tree the village may cut.
+- [[lore-kingswassail|The Wassail at Kingshollow]] is sung at the royal hall's door at midwinter, and asks the king for the one tree the tenants may cut.
 
 ## Where to Read Next
 

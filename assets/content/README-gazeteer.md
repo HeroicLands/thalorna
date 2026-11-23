@@ -446,8 +446,8 @@ population may include.
 
 A settlement with its own note carries the same facts in `data`: `government`
 naming its polity, `parents` naming its enclosing places, and `type`,
-`fortification`, `stronghold`, `population`, `market` and `notes` with the
-values above. A populated settlement note requires `type`, `market`, `notes` and
+`fortification`, `stronghold`, `holder`, `population`, `market` and `notes` with
+the values above; `holder` is left out where nobody holds the land. A populated settlement note requires `type`, `market`, `notes` and
 a `government` that resolves to a polity.
 
 **A polity states two populations, and they count different people.**
@@ -1329,6 +1329,7 @@ data:
   type: village # encampment, homestead, hamlet, village, town, city or metropolis
   fortification: null # none, minimal, palisade, walled, fortress, or null
   stronghold: null # fort, castle, keep, fortified manor, tower, or null
+  holder: null # who holds the land: an affiliation or being address, or a plain name; omit where nobody holds it
   market: local # international, regional, local or subsistence
   notes: "" # short text saying what distinguishes the settlement
   routes: [] # journeys from here: to, bearing, mode, days

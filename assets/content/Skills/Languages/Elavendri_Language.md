@@ -7214,6 +7214,8 @@ data:
     - {name: Bard Kélvira, tongue: translation}
     - {name: The Lip-Stone of Lámanis, tongue: translation}
     - {name: The Lip-Stone, tongue: translation}
+    - {name: Salvegeiland, tongue: elavendri, built: [salve, geiland], gloss: the tree-keeper}
+    - {name: The Grove-Warden, tongue: translation}
   retired:
     - {form: Sinale, instead: Senali, why: "respelled to Pronouncing Thalorna"}
     - {form: Sinalean, instead: Senalian, why: "respelled to Pronouncing Thalorna"}

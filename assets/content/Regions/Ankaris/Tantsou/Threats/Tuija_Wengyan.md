@@ -103,7 +103,7 @@ The Northern Envoy
 : the northern warlord whose war could meet the rebellion
 
 [[affiliation-yanchaizhao|Yanchai Zhau]]
-: another noble house gambling against the throne
+: a fallen noble house of the court
 
 [[lore-weizhairui|Wei Zhai Rwi]]
 : the court's game, played even inside the rebellion

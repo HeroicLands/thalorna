@@ -23,9 +23,9 @@ Thornhill Manor is the seat of **Lord [[being-zurgadeugarr|Zurgade]] of Thornhil
 
 ## Current Events {#present}
 
-At the last hunt of the autumn one of Lord Zurgade's guests shot a stag the lord had reserved for himself, and nobody has owned the arrow. The guests were greater men than their host, and the lord cannot ask them which of them did it. The huntswoman [[being-zoriladmvr|Zórila Dómivar]] was the only one who saw who loosed, and she has said nothing to anyone.
+At the last hunt of the autumn one of Lord Zurgade's guests shot a stag the lord had reserved for himself, and nobody has owned the arrow. The guests were greater men than their host, and the lord cannot ask them which of them did it. One of the guests has since shown the huntswoman [[being-zoriladmvr|Zórila Dómivar]] a great deal of courtesy.
 
-Her silence is her standing. Her place at the manor rests on the lord's standing, and his rests on Tarvénian politics: the High King has not come down to his hall at [[place-lezkora|Lezkora]] for a month, and a change at court that threatens Lord Zurgade threatens everyone who holds a place at Thornhill because of him.
+Her place at the manor rests on the lord's standing, and his rests on Tarvénian politics: the High King has not come down to his hall at [[place-lezkora|Lezkora]] for a month, and a change at court that threatens Lord Zurgade threatens everyone who holds a place at Thornhill because of him.
 
 ## Land and Livelihood {#land-and-livelihood}
 
@@ -52,7 +52,7 @@ The year turns on the fields and the hunt. The plain is sown in autumn and sprin
 
 ## Hooks {#hooks}
 
-- **The arrow.** [[being-zoriladmvr|Zórila Dómivar]] knows which guest shot the lord's stag, and the guest has begun to show her a great deal of courtesy.
+- **The arrow.** One of the lord's guests has begun to show [[being-zoriladmvr|Zórila Dómivar]] a great deal of courtesy since the stag was shot.
 - **The kinsman.** A kinsman from the hunting family Zórila grew up in comes to Thornhill asking for a place in the retinue on the strength of her name, and the old huntsman who wants her gone takes him under his wing.
 - **The offer.** A greater lord who hunted as Lord Zurgade's guest offers Zórila a post in his own household, and leaving Thornhill would cost her the trust she has built there.
 
@@ -69,3 +69,7 @@ The year turns on the fields and the hunt. The plain is sown in autumn and sprin
 
 [[place-valthari|Valthari]]
 : the free city the manor lies near, and its market
+
+:::secret {title="What the referee knows"}
+Zórila saw which guest loosed, and has told no one.
+:::
