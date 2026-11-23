@@ -50,3 +50,6 @@ Khasidon answers to [[affiliation-thyrenae|Thirenae]], whose council appoints th
 
 [[affiliation-blackflame|The Black Flame]]
 : the faith with a presence among the smelters
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate

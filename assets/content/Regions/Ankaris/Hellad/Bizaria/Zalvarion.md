@@ -31,7 +31,7 @@ The mines feed nothing, and the town depends on the farms below it. The barley v
 
 ## Who Rules and Keeps Order {#who-rules}
 
-[[affiliation-orashion|Órashion]] holds the town, and its guild masters set the weights of the ore and the price of a day underground. A mine overseer for each of the great adits answers to the guild council in Órashion, and a small company of the council's guards keeps the gate and the ore road. The League's toll posts and the imperial tariff posts on the frontier are the Northern March's business to staff, and the town's own toll on ore leaving the valley is the guild's.
+[[affiliation-orashion|Órashion]] holds the town, and its guild masters set the weights of the ore and the price of a day underground. A mine overseer for each of the great adits answers to the guild council in Órashion, and a small company of the council's guards keeps the gate and the ore road. [[being-karvashenaha|Karvashena Halikot]], with thirty years in the Bizarian mines behind her, oversees one of the adits. The League's toll posts and the imperial tariff posts on the frontier are the Northern March's business to staff, and the town's own toll on ore leaving the valley is the guild's.
 
 ## The Present {#present}
 
@@ -54,3 +54,6 @@ The wagoners' inn at the foot of the main adit takes anyone who pays in advance.
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in
+
+[[being-karvashenaha|Karvashena Halikot]]
+: the overseer of one of the great adits

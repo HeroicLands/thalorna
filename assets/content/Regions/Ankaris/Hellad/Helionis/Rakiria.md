@@ -47,3 +47,6 @@ Rakiria's marauders are thieves from within as often as bands from outside. The 
 
 [[affiliation-athenikos|Athenikos]]
 : the city-state that holds the town
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate

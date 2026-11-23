@@ -53,3 +53,9 @@ The hired swords who wait in Zarakia work for whoever pays, and some of them fol
 
 [[place-bittersea|The Bitter Sea]]
 : the inland sea at the end of the road
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate
+
+[[being-crvnmstrstprd|Caravan-Master of the Steppe Road]]
+: a member of the caravan-masters' council

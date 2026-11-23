@@ -12,7 +12,7 @@ data:
   occupation: Merchant-Prince
   lore: []
   culture: byzarianclt
-  homes: []
+  homes: [khryshteikhos2]
   affiliations: {}
   gender: male
   species: humanflk
@@ -42,4 +42,4 @@ Selvazhikon Zigakit is a 62-year-old man who stands 5'11" tall with a light buil
 
 # Dossier {#dossier}
 
-Selvazhikon Zigakit is a wealthy trader in the [[affiliation-byzarianlg|Bizarian League]] whose fortune came from controlling spice routes. He is the father of [[being-aglrmlsns|Agélara Stetes]], the youngest of his five daughters.
+Selvazhikon Zigakit is a wealthy trader in the [[affiliation-byzarianlg|Bizarian League]] and one of the merchant-princes of [[place-khryshteikhos2|Krusteikhos]], whose fortune came from controlling spice routes. He is the father of [[being-aglrmlsns|Agélara Stetes]], the youngest of his five daughters.
