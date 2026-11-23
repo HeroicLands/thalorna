@@ -115,7 +115,7 @@ The Tantsou value most exactness, precedence, patience with procedure and the ke
 
 ## The Man Admired
 
-[Weng Hen Rau Chai]{.name data-type="being/npc"}, "Wind Tiger Roars Across Thunder Mountain," is the Tantsou's admired soldier. He was a Wohou officer known for years only as the Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [[place-tengmou|Tengmou]], a description a registry clerk could file and no more. He led his troops to a victory that saved a province, and his liege lord granted him the name for the fury of his charge. He has signed nothing else since.
+[[being-wenghenrauchai|Weng Hen Rau Chai]], "Wind Tiger Roars Across Thunder Mountain," is the Tantsou's admired soldier. He was a Wohou officer known for years only as the Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [[place-tengmou|Tengmou]], a description a registry clerk could file and no more. He led his troops to a victory that saved a province, and his liege lord granted him the name for the fury of his charge. He has signed nothing else since.
 
 The Tantsou admire in him the thing their histories prize: a man of the third caste, neither Prince nor Emperor, who did the work his classification gave him so thoroughly that the court registers had to find room for it. His name is a single deed, entered beside the old description that is never struck out, and he does not try to be more than the deed. His cost is the cost of the name. Everything he does is read against the charge, and an officer who is only ever his best day is expected to produce it again.
 

@@ -28,7 +28,7 @@ In an ordinary year the town lives by the rice and millet of its paddies and ter
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The Prince of Mwonou holds the district through his [[lore-wohou|Wohou]] officers. A magistrate reads the [Teng Lou]{.name data-type="lore/law"} in his court at Jaunou, hears the famine petitions of the district and collects the tribute, which the district owes in a bad year as in a good one.
+The Prince of Mwonou holds the district through his [[lore-wohou|Wohou]] officers. A magistrate, [[being-jaunoumgstrt|Eldest Son of the Commandant of the Clan of Red Gate in Autumn]], reads the [Teng Lou]{.name data-type="lore/law"} in his court at Jaunou, hears the famine petitions of the district and collects the tribute, which the district owes in a bad year as in a good one.
 
 ## The Present {#present}
 

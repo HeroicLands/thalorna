@@ -56,7 +56,7 @@ data:
 sohl: {system: {commonSkills: [tantsoulng]}}
 ---
 
-Mwonou Province is the southwestern province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 26 million people. It holds the terraced uplands below [[place-graznmntns|the Grazian Mountains]] and the long passes toward [[place-vedyarargn|Vedyara]], and its Prince, of the [[lore-zhazho|Zhazho]], rules from the city of [[place-mwonou|Mwonou]] in the upland basin.
+Mwonou Province is the southwestern province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 26 million people. It holds the terraced uplands below [[place-graznmntns|the Grazian Mountains]] and the long passes toward [[place-vedyarargn|Vedyara]], and its Prince, [[being-hozhomwnou|Hozho]], of the [[lore-zhazho|Zhazho]], rules from the city of [[place-mwonou|Mwonou]] in the upland basin.
 
 The rain has failed in its country, and the famine of the southern uplands is its famine. Its Prince buys rice from the granaries of [[affiliation-wongsenprv|Wongsen Province]], whose Prince's sorcerers bring rain to the delta, and pays the price that Prince names.
 
