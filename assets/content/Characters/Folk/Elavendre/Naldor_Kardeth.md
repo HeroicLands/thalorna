@@ -27,6 +27,7 @@ data:
     hair_color: auburn
     skin_color: medium
     complexion: [smooth]
+    facial_hair: none
     extra_features: [a soft double chin]
   packFolder: aureldiaelavendre
 ---

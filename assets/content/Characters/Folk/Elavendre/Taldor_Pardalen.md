@@ -27,6 +27,7 @@ data:
     hair_color: greying_black
     skin_color: tanned
     complexion: [weathered]
+    face_shape: long
     extra_features: [a stoop from the beacon-house door]
   packFolder: aureldiaelavendre
 ---

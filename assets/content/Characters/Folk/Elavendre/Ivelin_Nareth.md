@@ -26,6 +26,7 @@ data:
     hair_color: brown
     skin_color: fair
     complexion: [clear]
+    hair_style: short
     extra_features: [a lantern burn on the left hand]
   packFolder: aureldiaelavendre
 ---
