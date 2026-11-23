@@ -3376,6 +3376,7 @@ data:
     - {name: Halzikos, tongue: byzarian}
     - {name: Karvashion, tongue: byzarian}
     - {name: Kezvunash, tongue: byzarian}
+    - {name: Kladerash, tongue: byzarian}
     - {name: Krenel, tongue: byzarian}
     - {name: Kreniza, tongue: byzarian}
     - {name: Krusteikhos, tongue: byzarian}
@@ -3390,6 +3391,7 @@ data:
     - {name: Tchirnalash, tongue: byzarian}
     - {name: Teíkhazur, tongue: byzarian}
     - {name: Tolzur, tongue: byzarian}
+    - {name: Turash, tongue: byzarian}
     - {name: Vezhrelion, tongue: byzarian}
     - {name: Zalvarion, tongue: byzarian}
     - {name: Zavan, tongue: byzarian}

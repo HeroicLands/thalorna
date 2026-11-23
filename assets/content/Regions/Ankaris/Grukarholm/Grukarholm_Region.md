@@ -97,6 +97,8 @@ The nests known as the setting stands:
 - [[place-skathak|Skathak]], the nest at the far end of [[place-grimhreth|Grimhreth]], a cause-walk of sunken logs that this nest lays from the forest of [[place-skathwald|Skathwald]] into the marsh.
 - [[place-lervobor|Lervobor]], the nests upstream of [[place-zvekbregad|Zvek Bregad]], whose raiding canoes come down the rivers to that landing in summer. The landing itself is a Velanthian bank.
 - [[place-grimak|Grimak]], the blood-field in Skathwald's marsh, where the Skathwald villages burned a nest with its spawner in it, and [[place-thraholt|Thraholt]], where a new tribe is budding at the thicket's edge. Grimak is what a dead nest leaves, and the budding nest is where a new one stands.
+- [[place-dorgenstein|Dorgenstein]], the nest in a split granite tor in the northern forest toward [[place-norgaad|Norgaad]], whose cleft is cut into steps and walled across its head.
+- [[place-volkobor|Volkobor]], a rise in the deep forest of the Velanthian side where a nest has gone silent among hollow oaks and dead pines, and wolves den in the trunks.
 
 The forts within the region are Velanthian: [[place-trvgrfrt|Torvogor Fort]] and [[place-sdrvdfrt|Sedrovod Fort]] are the paid forts of the [[affiliation-prncdmbrvvsh|Princedom of Brevavesh]]. They stand inside the region, on the Velanthian edge of the thickest Grukar country, and they watch the rivers and the raiding paths. The Skathwald villages that face the nests on the west are Varokh villages of Vristwald.
 
@@ -167,6 +169,9 @@ Velanthia lies on the southeastern side of the thickest Grukar country, which ov
 
 [[place-grimak|Grimak]]
 : the blood-field in Skathwald, where a Grukar nest was burned
+
+[[place-dorgenstein|Dorgenstein]] and [[place-volkobor|Volkobor]]
+: a nest in a walled granite tor, and a silent nest among hollow oaks
 
 [[affiliation-vrystwldtrbs|Vristwald Tribes]]
 : the Varokh villages of the region's western part

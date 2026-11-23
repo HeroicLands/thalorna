@@ -747,6 +747,8 @@ data:
     - {name: "Torvogor Fort", tongue: translation}
     - {name: Teshobor, tongue: velanthian}
     - {name: "The Quiet Pine Wood", tongue: translation}
+    - {name: Volkobor, tongue: velanthian}
+    - {name: "The Wolf Pine Wood", tongue: translation}
     - {name: "Sedrovod Fort", tongue: translation}
 sohl:
   system:

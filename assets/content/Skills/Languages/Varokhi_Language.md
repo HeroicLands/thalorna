@@ -5173,6 +5173,7 @@ data:
     shapes: [{of: name, syllables: {min: 2, max: 3}, perVowel: {min: 1, max: 3.5}}]
   tongues: [{tag: varokhi, meaning: "a Varokhi name", language: skill-varokhlng}]
   register:
+    - {name: Dorgenstein, kind: place, built: [dorg-, -en-, -stein], gloss: the giants' crag}
     - {name: Dunkelwald, kind: place, built: [dunkel-, -wald], gloss: the dark wood}
     - {name: Dunkelwern, kind: place, built: [dunkel-, -wern], gloss: the dark lake}
     - {name: Edrak, kind: place, built: [edr-, -ak], gloss: the thicket at the bound}

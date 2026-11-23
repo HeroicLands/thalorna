@@ -57,3 +57,6 @@ The wagoners' inn at the foot of the main adit takes anyone who pays in advance.
 
 [[being-karvashenaha|Karvashena Halikot]]
 : the overseer of one of the great adits
+
+[[place-turash|Turash]]
+: the old passage a new drive has broken into, ending at a sealed slab

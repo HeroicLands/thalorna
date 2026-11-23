@@ -1616,6 +1616,11 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "a home"
       concept: abode
+    - form: koldi
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a hall"
+      variants: ["holdi", "koldiho", "holdiho", "holditos", "kolditos"]
     - form: ninte
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -2442,11 +2447,6 @@ data:
     - {form: kaulde, class: n, field: Other peoples, gloss: "the Khazari, named obliquely"}
     - {form: rukke, class: n, field: Other peoples, gloss: "the Grukar"}
     - {form: tormal, class: "n", field: Other peoples, gloss: "a city"}
-    - form: koldi
-      class: "n"
-      field: Other peoples
-      gloss: "a hall"
-      variants: ["holdi", "koldiho", "holdiho", "holditos", "kolditos"]
     - {form: vìste, class: "n", field: Other peoples, gloss: "a tower"}
     - {form: kastai, class: "n", field: Other peoples, gloss: "war", concept: war}
     - form: kirse

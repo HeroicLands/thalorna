@@ -161,3 +161,6 @@ The eastern hinterland is the region's open danger, and [[affiliation-blackflame
 
 [[place-dunharargn|Dunhara Region]]
 : the caravan country beyond Amradad
+
+[[place-turash|Turash]]
+: a sealed passage the miners of Zalvarion have broken into
