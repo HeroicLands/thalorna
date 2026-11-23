@@ -40,6 +40,8 @@ data:
     extra_features: [clinker planking, single square sail, oar-ports along the hull]
 ---
 
+# Dossier {#dossier}
+
 The **Strandarv** is the coastal and fjord trader of the [[lore-nordheimnclt|Nordheimn]] of the [[place-nrdlndsrgn|Nordlands]]. The name is [[skill-nordmalng|Nordmal]]: _strand-_, from _strandva_, a shore, and _arvi_, an oar. Together they mean the shore-oar, said STRAND-ahrv.
 
 ## The Vessel

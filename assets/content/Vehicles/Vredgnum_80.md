@@ -40,6 +40,8 @@ data:
       - sternpost rudder
 ---
 
+# Dossier {#dossier}
+
 The **Vredgnum** is the bulk carrier of the [[lore-nordheimnclt|Nordheimn]] of the [[place-nrdlndsrgn|Nordlands]]. The name is [[skill-nordmalng|Nordmal]]: _vred-_, from _vredi_, wide, and _gnum_, a clay pot. Together they mean the wide pot, said VRED-gnoom.
 
 ## The Vessel
