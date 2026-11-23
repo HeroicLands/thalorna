@@ -18,6 +18,7 @@ data:
   fortification: walled
   stronghold: fort
   government: calypsa
+  holder: affiliation-captnscncl
   packFolder: calypsa
   notes: "A free port on the east coast of a steep island off Élavendre, governed by a council of shipping houses, kept free by a navy far larger than the city, and in the last year of its Harbormaster's term."
 ---

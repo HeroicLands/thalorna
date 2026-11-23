@@ -13,6 +13,7 @@ data:
   market: local
   type: village
   government: vrgldhld
+  holder: affiliation-vrgldhld
   packFolder: eilwith
   notes: "The oldest of the Vardain villages and the nearest to the Gate—where the tallies are kept and the Khazari schedule is reckoned."
 ---

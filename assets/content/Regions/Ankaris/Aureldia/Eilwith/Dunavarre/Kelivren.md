@@ -17,6 +17,7 @@ data:
   market: local
   packFolder: eilwith
   government: kingdmdnvr
+  holder: affiliation-justbladeordr
   notes: "The walled commandery of the Order of the Just Blade at the foot of Dúnavarre's western hills, with a village of about six hundred beneath it: the tiltyard of the Royal Kelivren Tournament of Chivalry each spring, and the base of the war on the Seilvri each summer."
 ---
 

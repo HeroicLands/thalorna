@@ -17,6 +17,7 @@ data:
   stronghold: fortified manor
   packFolder: eilwith
   government: jrldmstrmvld
+  holder: being-vrithorvmrvd
   notes: "A jarl's hall-town on the western edge of the Stormplain, where Stormveld's grain land runs up to the Peshtar forest and the jarldom's steadings stand armed against the tribes."
 ---
 

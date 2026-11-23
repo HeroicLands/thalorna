@@ -13,6 +13,7 @@ data:
   market: local
   type: village
   government: vrgldhld
+  holder: affiliation-vrgldhld
   packFolder: eilwith
   notes: "The highest village, watching the eastern approaches and the sea cliffs—the Vardain's eyes, and the first to know when anything comes."
 ---

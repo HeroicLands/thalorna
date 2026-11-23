@@ -14,6 +14,7 @@ data:
   type: town
   packFolder: eilwith
   government: kingdmdnvr
+  holder: affiliation-dunavarsynod
   notes: "Dúnavarre's chief harbor and second city—the working port on the south-eastern coast through which the kingdom's trade with Élavendre and the mainland passes."
 ---
 

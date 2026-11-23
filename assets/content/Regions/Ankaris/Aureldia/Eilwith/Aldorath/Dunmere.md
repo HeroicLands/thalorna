@@ -16,6 +16,7 @@ data:
   stronghold: castle
   packFolder: eilwith
   government: kngdmldrth
+  holder: affiliation-kngdmldrth
   notes: "The seat of the Kingdom of Aldorath and the only true city in it—a walled market and castle town where the whole business of a feudal realm is transacted."
 ---
 

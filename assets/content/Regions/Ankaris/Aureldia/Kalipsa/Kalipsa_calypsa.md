@@ -74,6 +74,51 @@ data:
   seat: calypsacity
   population: {actual: 45000}
   territorial_population: {actual: 45000}
+  settlements:
+    - settlement: Dvonvík
+      polity: affiliation-calypsa
+      location: place-calypsashore
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "The village families"
+      population: {actual: 3000}
+      market: local
+      economicFocus: fishing
+      notes: "The largest village of the South Shore, in a deep cove at the island's southern point, with the shore's one stone quay and a post of the city watch."
+    - settlement: Vrellnes
+      polity: affiliation-calypsa
+      location: place-calypsashore
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "The village families"
+      population: {actual: 2500}
+      market: local
+      economicFocus: dyeing
+      notes: "The dye village on the black headland west of Dvonvík, where the dye-shellfish are gathered from the rocks, with the best spring on the shore."
+    - settlement: Hvelmnes
+      polity: affiliation-calypsa
+      location: place-calypsashore
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "The village families"
+      population: {actual: 2000}
+      market: local
+      economicFocus: fishing
+      notes: "The whale-watchers' village on the headland east of Dvonvík, whose lookout fire answers the watch-station on Hlomfell."
+    - settlement: Glervhavan
+      polity: affiliation-calypsa
+      location: place-calypsashore
+      type: village
+      fortification: null
+      stronghold: null
+      holder: "The village families"
+      population: {actual: 1500}
+      market: local
+      economicFocus: rendering
+      notes: "The rendering village at the mouth of the shore's one sheltered inlet, where fish and seal are boiled down for lamp oil."
   economy: [affiliation-danvar, affiliation-tevran, lore-vylrncrncy]
   lore: [humanflk]
   parents: []
@@ -145,7 +190,7 @@ The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are the city-sta
 The city-state's domain is the whole [[place-calypsaisle|Isle of Kalipsa]]:
 
 - **[[place-calypsacity|Kalipsa]]**, the city and harbor, about 28,000 people.
-- **[[place-calypsashore|The South Shore]]**, the fishing villages and upland steadings, about 17,000.
+- **[[place-calypsashore|The South Shore]]**, the island's southern country of fishing villages and upland steadings, about 17,000.
 - **[[place-oldmole|The Old Mole]]**, the stone harbor mole, older than any dating the city will admit to, carved on several stones with characters no living scholar can read.
 - **[[place-lantrnklps|The Lantern of Kalipsa]]**, the seamark tower on the northern headland, whose olive-oil beacon is relit every night and whose keeper's office is hereditary.
 - **[[place-sealawhall|The Sea-Law Hall]]**, where the arbitrators hear the Sea-Law.

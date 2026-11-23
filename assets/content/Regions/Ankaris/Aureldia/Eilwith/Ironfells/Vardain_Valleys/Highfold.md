@@ -9,10 +9,11 @@ data:
   demonym: null
   lore: [vardain]
   parents: [vardainvalleys]
-  population: {actual: 540}
+  population: {actual: 390}
   market: local
   type: village
   government: vrgldhld
+  holder: affiliation-vrgldhld
   packFolder: eilwith
   notes: "The summer pasture village above the tree line, and the source of the cheese that goes up to the Gate."
 ---

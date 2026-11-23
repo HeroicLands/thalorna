@@ -15,6 +15,7 @@ data:
   type: city
   packFolder: eilwith
   government: repblcndrth
+  holder: affiliation-repblcndrth
   notes: "The seat of the Republic of Ondareth—where the Senate sits beneath its portico and the republic's offices are bought."
 ---
 

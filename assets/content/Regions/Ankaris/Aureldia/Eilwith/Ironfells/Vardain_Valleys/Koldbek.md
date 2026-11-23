@@ -13,6 +13,7 @@ data:
   market: local
   type: village
   government: vrgldhld
+  holder: affiliation-vrgldhld
   packFolder: eilwith
   notes: "The mill village on the fast water, grinding the valleys' grain and fulling their cloth."
 ---

@@ -15,6 +15,7 @@ data:
   packFolder: eilwith
   notes: "A free reed-cutting and fishing village on the north-western shore of Lake Eilìssa, at the end of the lake where the village and Aldorath's Brinwold both claim the reed-beds."
   government: koldmermoot
+  holder: "The villagers of Koldmere"
 ---
 
 ## Overview {#overview}

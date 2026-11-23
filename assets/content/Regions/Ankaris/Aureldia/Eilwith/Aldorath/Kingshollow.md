@@ -14,6 +14,7 @@ data:
   market: local
   packFolder: eilwith
   government: kngdmldrth
+  holder: affiliation-kngdmldrth
   notes: "The old royal manor of Aldorath—a small town around a hunting seat the kings still use, where they are still crowned and still buried."
 ---
 

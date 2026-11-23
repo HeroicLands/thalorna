@@ -809,7 +809,8 @@ packageBuild:
         - address: affiliation-kndrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-kngdmldrth
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The grain of the Aldorvale feeds the kingdom and much of the island, so the seat Dunmere and the market, port and fortress towns exceed the urban ceiling.
         - address: affiliation-kostaros2
           scope: urban-share
           reason: The two cities hold the urban share of a polity whose grain arrives by sea trade.
@@ -828,7 +829,8 @@ packageBuild:
         - address: affiliation-qdrrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-repblcndrth
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The republic lives by the carrying trade through its chief harbor Thornburi, and the frontier legion buys everything Kaermouth makes, so the listed towns exceed the urban ceiling.
         - address: affiliation-rqdrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-rwlstrb
@@ -856,7 +858,8 @@ packageBuild:
         - address: affiliation-vghlrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-vrgldhld
-          reason: The territorial total is the polity's stated population and the listed settlements are a small part of its people; the villages are unlisted.
+          scope: urban-share
+          reason: The Khazari hold is fed from the valley granaries and water-works its engineers keep, and Vargate lives by the hold's trade at the Weighing Yard, so the hold and its trade town exceed the urban ceiling of a small mountain territory.
         - address: affiliation-vrkrtrb
           reason: The polity states no total population and no land pass has supplied one; the land pass records it.
         - address: affiliation-wojaidmn

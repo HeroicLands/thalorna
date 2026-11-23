@@ -17,6 +17,7 @@ data:
   type: town
   packFolder: eilwith
   government: jrldmstrmvld
+  holder: being-ulthorvhrnd
   notes: "The High Jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."
 ---
 

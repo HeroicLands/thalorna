@@ -16,6 +16,7 @@ data:
   stronghold: keep
   packFolder: eilwith
   government: kngdmldrth
+  holder: being-kenwaldhghd
   notes: "Aldorath's northern fortress, watching the interior and the forest margin—a garrison town whose whole reason is the country beyond it."
 ---
 

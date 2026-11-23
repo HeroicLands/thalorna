@@ -2,20 +2,17 @@
 shortcode: calypsashore
 name: {full: The South Shore}
 type: place
-subType: settlement
+subType: region
 description: "The fishing villages of Kalipsa's southern coves and the steadings of the upland above them, seventeen thousand people who net, dye and herd for a city that holds their votes in no account and drinks their springs dry."
-tags: [village, fishing, coastal]
+tags: [region, coastal, fishing]
 data:
   demonym: null
   lore: []
   parents: [calypsaisle]
   routes: [{to: calypsacity, bearing: N, mode: land, days: 1, terrain: [hills, road]}]
   population: {actual: 17000}
-  type: village
-  market: regional
   government: calypsa
   packFolder: calypsa
-  notes: "The fishing villages of Kalipsa's southern coves and the steadings of the upland above them, seventeen thousand people who net, dye and herd for a city that holds their votes in no account and drinks their springs dry."
 ---
 
 ## Overview {#overview}
@@ -24,13 +21,7 @@ data:
 
 The villages are older than most of the city's houses, and they speak the city's [[skill-nordmalng|Nordmal]] with an older sound. They are governed by the [[affiliation-calypsa|city-state]] and have no seat on its [[affiliation-captnscncl|Captains' Council]].
 
-## The Villages {#the-village}
-
-[Dvonvík]{.name data-type="place/settlement"}, about 3,000, is the largest, in a deep cove at the island's southern point where the seals haul out on the skerries, and it has the shore's one stone quay. [Vrellnes]{.name data-type="place/settlement"}, about 2,500, stands on the black headland west of it, where the dye-shellfish are gathered from the rocks and the vats stain the slipway the color of old blood. [Hvelmnes]{.name data-type="place/settlement"}, about 2,000, is the whale-watchers' village on the next headland east, and [Glervhavan]{.name data-type="place/settlement"}, about 1,500, is the rendering village at the mouth of the shore's one sheltered inlet, where fish and seal are boiled down for lamp oil. The smaller coves between them and the upland steadings hold the other 8,000.
-
-The houses are low, of gray stone, roofed with turf or slate weighted against the westerlies, and each one has a cistern under its floor. Every village has a spring-house, a stone hut over its spring with a door that locks.
-
-## Land and Livelihood {#the-holding}
+## Land and Livelihood {#the-land}
 
 **Fish.** Herring, cod and ling from boats that go out before light, salted and dried on racks above the beaches and carted to the city.
 
@@ -42,7 +33,9 @@ The houses are low, of gray stone, roofed with turf or slate weighted against th
 
 **The city's coin.** Most of the young men of the shore serve a season or more on the city's hulls, and the money they bring home buys the grain the shore cannot grow.
 
-## Who Leads It {#who-leads}
+**The sea.** From the headlands of the South Shore the open sea runs south toward [[place-elavendre|Élavendre]], out of sight at seventy-five miles, and in clear weather the sails of the [[place-kalipsarun|Kalipsa Run]] show to the east. Hvelmnes keeps a lookout for whales in the spring and for strange sails in every season, and its fire on the headland answers the watch-station on Hlomfell.
+
+## Who Holds It {#who-holds-it}
 
 Each village chooses its own elder by custom, at a meeting of the boat-owners after the autumn fishing, and the elder keeps the key of the spring-house, settles quarrels over boat-places and nets, and speaks for the village to the city. The city's customs officers take a tithe of the fish and the dye at the carts, the Master of the Watch keeps a post at Dvonvík, and a case worth more than a boat goes over the ridge to the city's courts. The villages owe the city crews for the navy in time of war, and nothing else by law.
 
@@ -54,13 +47,15 @@ The springs failed this summer, and the city came for the water. Kalipsa's ciste
 
 The quarrel has not cooled with the autumn rain. The city holds that every spring on the island is the island's, and so the city's. The villages hold that the springs are theirs by the same custom that gives them their coves, and they have no seat on the Council to say so. The Vrellnes elder has sent word to the other villages that a spring-house that opens to one cart opens to all of them.
 
-## What Is Seen from It {#what-is-seen}
-
-From the headlands of the South Shore the open sea runs south toward [[place-elavendre|Élavendre]], out of sight at seventy-five miles, and in clear weather the sails of the [[place-kalipsarun|Kalipsa Run]] show to the east. Hvelmnes keeps a lookout for whales in the spring and for strange sails in every season, and its fire on the headland answers the watch-station on Hlomfell.
-
-## The Cost of Reaching It {#cost-of-reaching-it}
+## Roads and Trade {#roads-and-trade}
 
 The cart road from the city climbs over the shoulder of Hlomfell and comes down to Dvonvík in half a day. The other villages are reached along the cliff paths from Dvonvík, on foot or by pony, or by boat around the headlands in a day's rowing. In a westerly gale no boat goes round, and the paths are bad in the wet.
+
+## The Villages {#settlements}
+
+[Dvonvík]{.name data-type="place/settlement"}, about 3,000, is the largest, in a deep cove at the island's southern point where the seals haul out on the skerries, and it has the shore's one stone quay. [Vrellnes]{.name data-type="place/settlement"}, about 2,500, stands on the black headland west of it, where the dye-shellfish are gathered from the rocks and the vats stain the slipway the color of old blood. [Hvelmnes]{.name data-type="place/settlement"}, about 2,000, is the whale-watchers' village on the next headland east, and [Glervhavan]{.name data-type="place/settlement"}, about 1,500, is the rendering village at the mouth of the shore's one sheltered inlet, where fish and seal are boiled down for lamp oil. The smaller coves between them and the upland steadings hold the other 8,000.
+
+The houses are low, of gray stone, roofed with turf or slate weighted against the westerlies, and each one has a cistern under its floor. Every village has a spring-house, a stone hut over its spring with a door that locks.
 
 ## History {#history}
 

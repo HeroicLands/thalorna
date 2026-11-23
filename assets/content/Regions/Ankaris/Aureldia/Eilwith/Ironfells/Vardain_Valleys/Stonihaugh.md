@@ -13,6 +13,7 @@ data:
   market: local
   type: village
   government: vrgldhld
+  holder: affiliation-vrgldhld
   packFolder: eilwith
   notes: "The quarry village, whose masons cut the terrace walls that make the high valleys farmable and whose work is mistaken for Khazari by every visitor."
 ---
