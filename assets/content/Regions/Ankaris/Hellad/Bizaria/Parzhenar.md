@@ -57,3 +57,6 @@ The officers' mess takes travelers with a commission or a letter. The inn at the
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in
+
+[[being-mrchgrsnsldr|March Garrison Soldier]]
+: a conscript of the garrison

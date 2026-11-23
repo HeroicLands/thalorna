@@ -50,3 +50,6 @@ Sufanos is held by [[affiliation-korinthea|Korinthea]], whose assembly sends a w
 
 [[affiliation-blackflame|The Black Flame]]
 : the faith with a shrine at the vents
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate

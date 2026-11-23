@@ -50,3 +50,6 @@ Every season the hill bands try the gorge road, because tin travels light and se
 
 [[place-ghalirea|Ghalirea]]
 : the copper town whose metal the tin turns into bronze
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate

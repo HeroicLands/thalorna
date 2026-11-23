@@ -47,3 +47,6 @@ The silver loads are the mark every marauder in the mountains wants, and the esc
 
 [[affiliation-theradon|Theradon]]
 : the city-state that holds the town
+
+[[being-wllwrdnhntrlnd|Wall-Warden of the Hinterland Towns]]
+: the officer who commands the garrison and keeps the gate

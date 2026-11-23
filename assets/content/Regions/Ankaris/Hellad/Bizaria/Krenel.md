@@ -57,3 +57,6 @@ The caravanserai has bed space and stabling. Rooms above the water-sellers' stal
 
 [[place-byzariargn|Bizaria Region]]
 : the region the town lies in
+
+[[being-krvshnwtrwrdn|Karvashion Water-Warden]]
+: the spring-warden who sets the water fee

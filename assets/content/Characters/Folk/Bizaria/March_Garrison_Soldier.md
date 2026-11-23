@@ -12,7 +12,7 @@ data:
   occupation: Conscript
   lore: []
   culture: byzarianclt
-  homes: [eastrnmrch]
+  homes: [eastrnmrch, parzhenar]
   affiliations: {byzarianlg: {rank: 3}}
   socialTies: {}
   gender: male
@@ -410,7 +410,7 @@ A March Garrison Soldier is a conscript of the joint army the five city-states o
 
 **The levy.** He is a farm boy of the plateau or the coast, taken by the levy for a term.
 
-**The March.** He serves at the posts of the March and rides its patrols as far as a horse can go and return in a day. A term in the March turns into a career when the aptitude is there.
+**The March.** He draws his kit and his posting at [[place-parzhenar|Parzhenar]], the garrison town the way-forts take their soldiers from. He serves at the posts of the March and rides its patrols as far as a horse can go and return in a day. A term in the March turns into a career when the aptitude is there.
 
 **Now.** The Lord Commander's officers are counting the steppe camps in the foothills, and the patrols ride with them.
 
