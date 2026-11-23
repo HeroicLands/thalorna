@@ -3,6 +3,7 @@ shortcode: vrldmylhrfnsvld
 name: {full: Vrildmil Hrafansvald, given: Vrildmil, clan: Hrafansvald}
 type: being
 subType: character
+description: "A sergeant of the Vithgard levy at Dvarnvík, who lost his mother to a raider band at fifteen and holds the district's raiders to account."
 tags: [heroes-and-knaves, soldiery]
 data:
   icon: icon-person
@@ -454,7 +455,7 @@ At eighteen, Vrildmil joined the local militia, impressing his commander almost 
 
 [[being-dvrnvrhrfnsvld|Dvarnvir]], meanwhile, returned from military service around the same time, settling in [[place-vithgard|Vithgard]] as a tentmaker. The two live in the same kingdom now but their relationship remains complicated—marked by unspoken guilt on Dvarnvir's part and unresolved anger on Vrildmil's. They see each other occasionally, and there is love beneath the tension, but neither man finds it easy to bridge the years of absence.
 
-Recently promoted to the rank of sergeant, Vrildmil stands at a crossroads. **Captain Bruldthann** has suggested he could rise further, perhaps eventually assume leadership of the militia itself. Yet Vrildmil feels the weight of something larger stirring—hints that bandit activity is coordinated by unseen powers, suggestions that the relative peace of the region may be ending.
+Recently promoted to the rank of sergeant in the levy that musters at the port of [[place-dvarnvik|Dvarnvík]], Vrildmil stands at a crossroads. **Captain Bruldthann** has suggested he could rise further, perhaps eventually assume leadership of the militia itself. Yet Vrildmil feels the weight of something larger stirring—hints that bandit activity is coordinated by unseen powers, suggestions that the relative peace of the region may be ending.
 
 ## Psyche
 
@@ -509,26 +510,26 @@ Emotional Investment
 Captain Bruldthann Stonefist
 : Vrildmil's commanding officer and mentor. Bruldthann became the father figure Vrildmil lacked growing up, and his opinion matters more to Vrildmil than almost anyone else's.
 
-[The Farming Council of Vithgard]{.name data-type="affiliation"}
-: The communities Vrildmil's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
+The Bundi of the District
+: The free farmers whose lands Vrildmil's levy protects recognize him as their primary defender. They speak for his promotions at the ting and provide support for the levy's operations.
 
 The Village Elder [Dvarnselda Stonekeeper]{.name data-type="being/npc"}
 : An influential elder who sees potential in Vrildmil and has been mentoring him in aspects of leadership beyond combat.
 
 ### Enemies
 
-[The Crimson Raiders]{.name data-type="affiliation/criminal"}
-: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, [Skraldaruk]{.name data-type="being/npc"}, has specifically marked Vrildmil, seeing him as an obstacle to their plans.
+A Raider Band
+: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, [Skraldmil]{.name data-type="being/npc"}, has specifically marked Vrildmil, seeing him as an obstacle to their plans.
 
 Corrupt Local Officials
-: Some magistrates profit from allowing banditry to continue unchecked. Vrildmil's aggressive pursuit of raiders threatens their arrangements.
+: Some landvordar and collectors of the king's dues profit from allowing banditry to continue unchecked. Vrildmil's aggressive pursuit of raiders threatens their arrangements.
 
 Ambitious Militia Rivals
 : Some older militia members resent Vrildmil's rapid advancement and question whether his youth and idealism suit him for leadership.
 
 ### Affiliations
 
-[The Militia of Vithgard]{.name data-type="affiliation"}
+The Levy of the District
 : Vrildmil's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
 
 [[affiliation-eidgar|The Followers of Eidgar]]
@@ -542,17 +543,18 @@ Ambitious Militia Rivals
 
 ## Plot Hooks
 
-The Coordinated Threat
-: Vrildmil's investigations into bandit activity begin revealing patterns that suggest the raids are coordinated by a larger force—possibly a noble house, a religious faction, or something darker. **Captain Bruldthann** dismisses his concerns, but Vrildmil's evidence becomes increasingly difficult to ignore. Pursuing the truth might require him to act against his commander or to discover that superiors are complicit in what he has been investigating.
+Two Calls at Once
+: Word comes the same night that the raider band is burning a farm under Vrildmil's protection and that a levy outpost near [[place-dvarnvik|Dvarnvík]] cannot hold its post. He has men for one. Whichever he leaves loses people, and the loss will be spoken of at the next ting.
 
-The Impossible Choice
-: A village under Vrildmil's protection is attacked by the **Crimson Raiders**, but at the same time a militia outpost requires urgent reinforcement. Vrildmil cannot save both. Whatever choice he makes will result in significant loss, and the decision haunts him. The experience forces him to confront the limits of individual heroism and to accept that sometimes good people die despite his best efforts.
+The Collector's Ledger
+: Vrildmil traces the raiders' route to farms whose dues a collector of the king's was late in reporting, and the collector's name appears beside every raid. The hersvald's own landvordar would be the ones to try him, and a sergeant who accuses an officer of the crown without proof loses his place. He can bring the ledger to Captain Bruldthann, take it to the ting himself, or watch the collector until he is sure.
 
-The Recruitment
-: An organization of mysterious power and resources approaches Vrildmil, claiming to be conducting a secret war against forces he has only partially perceived. They offer him resources, advanced training, and answers to questions he has been asking. The catch: joining would require operating outside militia authority and potentially deceiving **Captain Bruldthann**. Vrildmil must assess whether the group's claims are legitimate or if he is being recruited for purposes he does not understand.
+Bruldthann's Chair
+: Captain Bruldthann is hurt and thinks of retiring from the post he holds in the levy. Vrildmil and an older officer are the two men the hersvald will choose between, and the older man's friends have been reminding the hersvald that Vrildmil is young and quick to charge. Vrildmil can campaign for the post and be called ambitious, or step aside and watch the older man lead.
 
-The Succession Crisis
-: **Captain Bruldthann** suffers a serious injury, forcing him to consider retirement. Vrildmil and another ambitious younger officer are both candidates to replace him. The promotion decision becomes embroiled in political considerations beyond either candidate's control. Vrildmil must play politics while remaining true to his principles, and must ask himself whether he wants leadership badly enough to compromise his ideals.
+His Father's Tent
+: Dvarnvir Hrafansvald, now a tentmaker, sends word that he will pitch his tent beside the levy's camp at the autumn muster and wants to speak. Vrildmil has not forgiven him for being away when his mother died. He can meet him before the whole levy, or refuse and let the camp see it.
 
-The Dark Revelation
-: Vrildmil discovers that his mother's death—which he believed to be the tragic result of a random bandit raid—was actually orchestrated by powerful interests as part of a larger scheme. His family's farm sat on land someone wanted, and the raid was no accident. The knowledge that his mother's death was deliberate, and that his father's absence was exploited by those who planned it, transforms Vrildmil's motivation from abstract idealism to personal vengeance. He must struggle to channel that rage toward justice rather than revenge—and must weigh whether to tell [[being-dvrnvrhrfnsvld|Dvarnvir]] the truth, knowing the guilt might destroy his father entirely.
+:::secret {title="What the referee knows"}
+Vrildmil's mother did not die in a chance raid. Powerful interests wanted her family's land, and the raid on it was ordered. The raider band's leader Skraldmil knows who paid, and so does the collector whose name is in the ledger. Vrildmil can learn it and have to decide what to do with the man who paid, or let it stay buried in the hope that he keeps the levy's trust.
+:::

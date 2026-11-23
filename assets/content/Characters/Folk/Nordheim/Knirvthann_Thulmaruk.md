@@ -1,15 +1,15 @@
 ---
 shortcode: knirvthannth
-name: {full: Knirvthann Thulmaruk, en: [Lord Knirvthann Thulmaruk]}
+name: {full: Knirvthann Thulmaruk, en: [Jarl Knirvthann Thulmaruk]}
 type: being
 subType: npc
-description: Duke of the Southern Marches, a nobleman whose secret ambitions the jester Anthorv Asgrind publicly mocked.
+description: Jarl of the southern holdings, a nobleman whose secret ambitions the jester Anthorv Asgrind publicly mocked.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Duke
+  occupation: Jarl
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Knirvthann Thulmaruk is a 43-year-old man who stands 6'2" tall with a medium bui
 
 # Dossier {#dossier}
 
-Knirvthann Thulmaruk is the duke of the [Southern Marches]{.name data-type="place/region"}, a nobleman whose secret ambitions the jester [[being-anthrvasgrnd|Anthorv Asgrind]] publicly mocked. The mockery came through elaborate theatrical sequences.
+Knirvthann Thulmaruk is a jarl of the southern holdings, a nobleman whose secret ambitions the jester [[being-anthrvasgrnd|Anthorv Asgrind]] publicly mocked. The mockery came through elaborate theatrical sequences.

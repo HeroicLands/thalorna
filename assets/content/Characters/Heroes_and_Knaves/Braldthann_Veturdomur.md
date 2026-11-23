@@ -3,6 +3,7 @@ shortcode: brldthnvtrdmr
 name: {full: Braldthann Veturdomur, given: Braldthann, clan: Veturdomur}
 type: being
 subType: character
+description: "A master tentmaker of Thraldfjord in Nordheim, a devotee of Svartbrandur whose seams and fireproofing outlast cheaper work, and who faces a younger generation that prizes speed."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -465,7 +466,7 @@ Braldthann was born into craft and hardship, the third son of a widowed tentmake
 
 ### The Craftsman's Rise
 
-At the age of twenty-five, Braldthann earned his falcon tattoo and full membership in the [Tentmakers' Guild of Nordheim]{.name data-type="affiliation/guild"}. For the next twenty-eight years, he has been the Guild's most reliable master, known throughout the realm for tents that endure storms that would tear lesser work to shreds. He perfected the art of the double-weave, a technique that locks water on the outside while sealing heat within—a method passed down through his family, jealously guarded from rivals. His workshop in the market square of Nordheim's capital became the place where military quartermaster-generals placed orders, where merchants seeking supplies for trading expeditions knew to pay a premium for quality.
+At the age of twenty-five, Braldthann earned his falcon tattoo and full standing among the tentmakers of [[place-nordheim|Nordheim]]. For the next twenty-eight years, he has been their most reliable master, working at [[place-thraldfjord|Thraldfjord]], where the trappers carry his tents into the forest behind the village, known throughout the realm for tents that endure storms that would tear lesser work to shreds. He perfected the art of the double-weave, a technique that locks water on the outside while sealing heat within—a method passed down through his family, jealously guarded from rivals. His workshop at Thraldfjord became the place where the trappers and the muster's agents came for tents, where merchants seeking supplies for trading expeditions knew to pay a premium for quality.
 
 ### Present Circumstances
 
@@ -515,38 +516,39 @@ Emotional Isolation
 
 ### Patrons
 
-Magistrate-Commander [[being-svulthannkna|Svulthann Knarvendik]]
-: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Svulthann privately worries about the aging craftsman's future reliability.
+[[being-svulthannkna|Svulthann Knarvendik]]
+: An officer of the king's muster places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Svulthann privately worries about the aging craftsman's future reliability.
 
-Merchant-Prince [[being-flarnthannbr|Flarnthann Braldaruk]]
+Merchant [[being-flarnthannbr|Flarnthann Braldaruk]]
 : A wealthy trading expedition leader who has used Braldthann's tents for three decades. Flarnthann credits the craftsman's work with saving his life during a catastrophic storm in the [Northern Peaks]{.name data-type="place/feature"}.
 
 ### Enemies
 
 [Snurvmil Fastworker]{.name data-type="being/npc"}
-: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Snurvmil represents everything wrong with the new generation. The tension between them has created a rivalry in the Guild.
+: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Snurvmil represents everything wrong with the new generation. The tension between them has created a rivalry among the tentmakers.
 
-[The Young Apprentices' Coalition]{.name data-type="affiliation"}
-: A group of journeymen seeking to reform the Tentmakers' Guild's rigid apprenticeship system. They view Braldthann as an obstacle to progress and modernization.
+The Younger Tentmakers
+: A group of journeymen seeking to reform the tentmakers' rigid apprenticeship system. They view Braldthann as an obstacle to progress and modernization.
 
 ### Affiliations
 
-Tentmakers' Guild of Nordheim
-: Braldthann holds a senior position and is frequently consulted on matters of craft standards, though his votes often fall on the losing side as the Guild gradually favors speed over tradition.
+The Tentmakers of Nordheim
+: Braldthann holds a senior place among them and is frequently consulted on matters of craft standards, though his word often loses as they gradually favor speed over tradition.
 
 ## Plot Hooks
 
-The Commission of Legend
-: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Svartbrandur that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Snurvmil? Either choice could reshape his legacy.
+The Portable Temple
+: A powerful jarl's daughter commissions a tent unlike any asked for before, a portable temple to Svartbrandur with ritual spaces, special colors and materials from across the known world. The commission is large and prestigious. Braldthann would have to leave the trappers' orders at [[place-thraldfjord|Thraldfjord]] and work for a season with his hands failing. He can take the commission and risk the trappers' winter, refuse and lose the commission of his life, or do both and spoil one.
 
-The Apprentice's Return
-: Years ago, Braldthann turned away a gifted but headstrong apprentice, [Knarvselda Ringbinder]{.name data-type="being/npc"}, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Braldthann's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
+The Apprentice Comes Back
+: Years ago Braldthann turned away Knarvselda Ringbinder, a gifted but headstrong apprentice, saying she lacked discipline. She returns as a master trained abroad with new methods of her own and a mastery of the double-weave she learned from him. She offers to work beside him and asks that he teach her the fireproofing. He can take her in and risk his name on her, or hold to his refusal and watch her take the younger tentmakers' side.
 
-The Conspiracy of Quality
-: Military investigators approach Braldthann with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Braldthann must investigate whether the culprit is **Snurvmil Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
+The Master's Hands
+: Braldthann's arthritis worsens sharply, and his healer, Knarvrinna Bondswoman, warns that within a year he may lose the dexterity that defines his art. He considers a pilgrimage to a shrine of Svartbrandur and a record of his methods. A noble patron offers to fund one, but only with scribes and scholars watching him work. He can open the craft to them and preserve it, or keep it his and let it die with him.
 
-The Master's Illness
-: Braldthann's arthritic hands worsen dramatically. His physician, **Healer [Knarvrinna Bondswoman]{.name data-type="being/npc"}**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Svartbrandur rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
+The Muster's Tents
+: The muster officer's annual order for campaign tents falls due as the muster is called. Svulthann privately worries about Braldthann's reliability and has asked Snurvmil Fastworker, who undercuts Braldthann by thirty percent, to bid. Braldthann can finish the order late and risk the loss of the commission, or hire Snurvmil's hands to finish it and live with what he said about them.
 
-Preserving the Legacy
-: With no worthy heir to his methods, Braldthann faces a mortality crisis. A noble patron offers to fund a comprehensive record of his techniques—a master work that would preserve his family's knowledge forever. But the project requires collaboration with scribes and scholars, constant explanation, and admission that his way may not be eternal. Can he accept that immortality through documentation might be all that remains available to him?
+:::secret {title="What the referee knows"}
+Someone has been sabotaging Braldthann's tents, putting in flaws that do not show until soldiers are in the field, so that his reputation fails and his market falls open. The king's muster-men approach him with evidence. Braldthann must find whether the saboteur is a rival, a younger tentmaker, or someone close to him.
+:::

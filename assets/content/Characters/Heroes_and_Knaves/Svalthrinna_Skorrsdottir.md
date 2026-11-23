@@ -3,6 +3,7 @@ shortcode: svlthrnskrsdtr
 name: {full: Svalthrinna Skorrsdottir, given: Svalthrinna, clan: Iseldur}
 type: being
 subType: character
+description: "A shieldmaiden born at Knalthstead in Nordheim, half Nordman and half of the conquered coast, who left home after killing a garrison soldier and now fights for the crew of the Tamzir."
 tags: [tamzir-crew, soldiery]
 data:
   banner: tamzirbnr
@@ -12,7 +13,7 @@ data:
   occupation: Warrior
   lore: []
   culture: nordheimnclt
-  homes: [nrdlndsrgn]
+  homes: [knalthstead]
   affiliations: {thetamzir: {rank: 2}, kngdmnrdhm: {rank: 2}}
   gender: female
   species: humanflk
@@ -428,7 +429,7 @@ Svalthrinna Skorrsdottir is a lean, wiry young woman with the pale skin and blon
 
 ### Origin
 
-Svalthrinna was born on the storm-battered coast of Nordheim, the daughter of a weaponcrafter father and a mother captured in a coastal raid. This mixed heritage—half [[lore-nordheimnclt|Nordheimer]], half from the conquered peoples of the coast—left her caught between two worlds. She was raised in the harsh Nordheim traditions, worshipping the old gods, learning to fight before she could read, and enduring the casual cruelty of a culture that valued strength above all else.
+Svalthrinna was born on the storm-battered coast of Nordheim, the daughter of a weaponcrafter father, whose forge stands at the quays of [[place-knalthstead|Knalthstead]], and a mother captured in a coastal raid. This mixed heritage—half [[lore-nordheimnclt|Nordheimer]], half from the conquered peoples of the coast—left her caught between two worlds. She was raised in the harsh Nordheim traditions, worshipping the old gods, learning to fight before she could read, and enduring the casual cruelty of a culture that valued strength above all else.
 
 ### Shieldmaiden
 
@@ -477,13 +478,14 @@ Crewmember of the **Tamzir**. She has formed a particular bond with [[being-slvr
 ## Plot Hooks
 
 Blood-Price
-: A Nordheimer longship arrives in a port where the Tamzir is docked, and among its crew is a kinsman of the man Svalthrinna killed. Nordheim custom demands blood-price or combat. Svalthrinna must decide whether to face her past, flee again, or let the crew fight a battle that is hers alone.
+: A Nordheimer longship puts into a port where the _Tamzir_ lies, and its crew includes a kinsman of the man Svalthrinna killed. Nordheim custom demands blood-price or combat, and a wergild can be reckoned by a Lawspeaker only on Nordheim ground. She can face the kinsman and pay, flee again, or let the crew fight a feud that is hers alone.
 
 The Old Gods Call
-: Svalthrinna begins experiencing vivid dreams—visions she cannot explain and does not want. They carry the imagery of the [[affiliation-asguardian|Nordheim pantheon]] she has rejected, and they seem to be showing her something important. Whether this is real divine contact, suppressed trauma, or something connected to [[being-cibelasrnt|Kivella Serenthis]]'s arcane presence aboard the ship is unclear.
+: Svalthrinna has vivid dreams that carry the imagery of the [[affiliation-asguardian|Nordheim pantheon]] she has rejected. They seem to show her something important. She cannot tell whether it is divine contact, grief or something connected to [[being-cibelasrnt|Kivella Serenthis]]'s arcane presence aboard. She can ask the crew for help, which she does not do, or sail on with the dreams unspoken.
 
 The Weaponcrafter's Daughter
-: Svalthrinna learns that her father has died and left his forge to her—along with debts, obligations, and a half-finished commission for a powerful Nordheimer jarl. Claiming the inheritance would mean returning to the life she fled. Abandoning it would mean losing the last connection to the parent who loved her unconditionally.
+: Word reaches Svalthrinna that her father has died and left her his forge at [[place-knalthstead|Knalthstead]], with debts, obligations and a half-finished commission for a powerful jarl. Claiming it means returning to the life she fled, where a garrison man's kin may be waiting. Leaving it means losing the last link to the parent who loved her without condition.
 
-Shield-Sister
-: During a fierce battle, Svalthrinna saves Kivella's life and discovers that the young woman's erratic arcane abilities resonate with her own deep aura in unexpected ways. The experience suggests a connection between them that neither understands, and it may explain why the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) is so desperate to recover their escaped subject.
+:::secret {title="What the referee knows"}
+In a hard fight Svalthrinna saves Kivella's life and finds that the young woman's erratic arcane power resonates with her own deep aura. The [[affiliation-ordoarcanis|Thordimalon]], the Arcane Order, is desperate to recover Kivella as an escaped subject, and the resonance may be why they want her back.
+:::

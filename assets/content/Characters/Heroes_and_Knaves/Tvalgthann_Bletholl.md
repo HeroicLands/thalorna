@@ -3,6 +3,7 @@ shortcode: tvlgthnblthl
 name: {full: Tvalgthann Bletholl, given: Tvalgthann, clan: Bletholl}
 type: being
 subType: character
+description: "A jester of Marvstead in Vithgard, a performer in the hersvald's hall whose wit carries messages to the powerful and who wonders what his gift is for."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -457,11 +458,11 @@ Tvalgthann was born during the tempestuous month of spring winds in a riverside 
 
 ### The Court Years
 
-At twenty, Tvalgthann secured patronage with the ducal household of Vithgard, where his talent for reading his audience evolved into a refined practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven useful in understanding the complex tapestries of power and prophecy that bind the realm.
+At twenty, Tvalgthann secured patronage with the hersvald's hall at [[place-marvstead|Marvstead]], where his talent for reading his audience evolved into a refined practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven useful in understanding the complex tapestries of power and prophecy that bind the realm.
 
 ### The Present Reckoning
 
-Now in his thirtieth year, Tvalgthann finds himself caught between the comfort of his established reputation and a gnawing uncertainty about the purpose his performance serves. He has begun taking commissions beyond the Duke's court, traveling to distant festivals and merchant gatherings, searching for something intangible—perhaps redemption, perhaps merely a new challenge that might satisfy his restless spirit.
+Now in his thirtieth year, Tvalgthann finds himself caught between the comfort of his established reputation and a gnawing uncertainty about the purpose his performance serves. He has begun taking commissions beyond the hersvald's hall, traveling to distant festivals and merchant gatherings, searching for something intangible—perhaps redemption, perhaps merely a new challenge that might satisfy his restless spirit.
 
 ## Psyche
 
@@ -497,13 +498,13 @@ Tvalgthann seeks to discover whether his talents for performance and persuasion 
 
 ### Patrons
 
-Duke [[being-thruldmyl|Thruldmil]] of [[place-vithgard|Vithgard]]
+Hersvald [[being-thruldmyl|Thruldmil]] of Marvstead
 : The primary patron who employs Tvalgthann's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
 
 Skraldthira Bletholl
 : His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
 
-Master Skruldvir
+Skruldvir, his old master
 : His aging mentor and former teacher, now retired in the mountains, whom Tvalgthann consults on matters of ethics and the deeper purposes of his craft
 
 ### Enemies
@@ -511,25 +512,31 @@ Master Skruldvir
 [Jorvald the Red]{.name data-type="being/npc"}
 : A rival jester whose cruder humor once dominated the Vithgard court; he schemes constantly to discredit Tvalgthann's wit and expose his methods
 
-[The Whispered Syndicate]{.name data-type="affiliation"}
+A Network of Information Brokers
 : A network of information brokers who view Tvalgthann's access to noble secrets as either an asset to control or a threat to eliminate
 
-Alderman [[being-hvirnorv|Hvirnorv]] of the [Guildhall]{.name data-type="affiliation"}
-: A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Tvalgthann
+Bundi [[being-hvirnorv|Hvirnorv]] of the district
+: A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the hersvald's patronage of Tvalgthann
 
 ### Affiliations
 
-[The Wandering Minstrels' Collective]{.name data-type="affiliation"}
+A Circle of Wandering Singers
 : - An informal network of traveling performers who share stories, techniques, and intelligence gathered from their various courts and commissions
 
 ## Plot Hooks
 
-1. **The Duke's Unspoken Confession** - During a late night performance, the Duke drinks heavily and begins to hint at a terrible secret—a past betrayal, an illegitimate child, or perhaps knowledge of a conspiracy at the highest levels of the realm. Tvalgthann, sworn to secrecy by the bonds of his position, must decide whether this knowledge demands action or whether discretion truly serves his patron better. The truth could topple the duchy, but concealment gnaws at his conscience.
+The Hersvald's Cups
+: Late one night in the hall at [[place-marvstead|Marvstead]], Hersvald [[being-thruldmyl|Thruldmil]] drinks heavily and begins to hint at a past betrayal. Tvalgthann is bound to silence by his place at the hersvald's table. He can keep the confidence, use it to protect himself, or tell the one person it endangers.
 
-2. **The Prophecy in Jest** - A traveling mystic attends one of Tvalgthann's performances and afterward approaches him with a chilling assertion: that his jokes contain prophetic truth, that the universe speaks through his wit in ways he doesn't consciously understand. She offers cryptic evidence—past jokes that came true, warnings embedded in his past performances. Tvalgthann must investigate whether he is a conduit for something far greater, or if this is merely a clever deception preying upon his desire for meaning.
+The Ivory Dues
+: In a thin season at the ice edge, the carvers' workbenches are empty and the hersvald still expects the dues he took last year. A group of ivory merchants asks Tvalgthann to bring their case to the hersvald in jest, since no one else can say it to his face. Bundi Hvirnorv, who distrusts jesters, would call it a corruption. He can carry the merchants' case and risk the hersvald's favor, or refuse and lose the merchants'.
 
-3. **The Hidden Heir** - A child arrives at the Duke's court claiming to be the bastard offspring of **Master Skruldvir**, Tvalgthann's mentor. The child possesses extraordinary performance talent and claims Skruldvir sent them to study under Tvalgthann. But the timing is suspicious, and whispers suggest this child may be a spy, an impostor, or worse—a political tool placed to compromise Tvalgthann's loyalty. He must discover the truth while potentially training a successor he doesn't trust.
+Skruldvir's Child
+: A child arrives at the hersvald's hall and says Skruldvir, Tvalgthann's mentor, is their parent and sent them to learn from him. The child performs well, but the timing is suspicious, and Jorvald the Red hints the child is a spy. Tvalgthann can take the child in, ask Skruldvir, who is old and in the mountains, or send the child away.
 
-4. **The Merchants' Rebellion** - A coalition of wealthy merchants approaches Tvalgthann with a proposal: use his access to the Duke's ear to advocate for tax reforms and reduced trade tariffs that benefit commerce. Refusing risks making enemies of powerful merchants; accepting means compromising his relationship with the Duke and potentially betraying his patron's interests. The situation grows more complex when he discovers the merchants' true goal is not reform but complete political restructuring.
+The Stolen Song
+: Tvalgthann's most famous ballad, about loss and redemption, is sung in a far town by a stranger who claims it as their own. His investigation shows the song has begun a movement of change and hope. He can claim the ballad and break the movement, or let the stranger keep it and give up what he is known for.
 
-5. **The Stolen Song** - Tvalgthann's most famous composition—a hauntingly beautiful ballad about loss and redemption—appears in a far distant city, performed by an unknown artist who claims it as their own. As Tvalgthann investigates, he discovers the song has inspired a movement of change and hope across the realm, but its true authorship remains obscured. He must decide whether to reclaim credit for his art or allow it to serve humanity better as a work of uncertain origin, belonging to all who need it.
+:::secret {title="What the referee knows"}
+A traveling mystic tells Tvalgthann that his jokes carry prophecy and that the universe speaks through his wit without his knowing it. She offers evidence: past jests that came true and warnings he did not mean to give. If she is right, every jest he tells at the hersvald's table may change what happens at it.
+:::

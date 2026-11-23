@@ -1,15 +1,15 @@
 ---
 shortcode: snarvthyra
-name: {full: Snarvthira, en: [High Priestess Snarvthira]}
+name: {full: Snarvthira, en: [Hofgudja Snarvthira]}
 type: being
 subType: npc
-description: High Priestess of Thrunvald in the nearest settlement, who views Kralmil Veturdomur as a genuine worshipper.
+description: Hofgudja of the hov of Thrunvald in the nearest settlement, who views Kralmil Veturdomur as a genuine worshipper.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: High Priestess
+  occupation: Hofgudja
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Snarvthira is a 48-year-old woman who stands 5'4" tall with a heavy build. She h
 
 # Dossier {#dossier}
 
-Snarvthira is the high priestess of [[affiliation-thrunvald|Thrunvald]] in the nearest settlement, who views [[being-krldmylvtrdmr|Kralmil Veturdomur]] as a genuine worshipper. She sees Kralmil as a worshipper of the storm god.
+Snarvthira is the hofgudja of the hov of [[affiliation-thrunvald|Thrunvald]] in the nearest settlement, who views [[being-krldmylvtrdmr|Kralmil Veturdomur]] as a genuine worshipper. She sees Kralmil as a worshipper of the storm god.

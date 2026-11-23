@@ -3,6 +3,7 @@ shortcode: glrvrnstrmrt
 name: {full: Glirvrinna Snarvumak, given: Glirvrinna, clan: Snarvumak}
 type: being
 subType: character
+description: "A tentmaker and dyer of Braldheim in Malagna, who took over her father's shop and has made it known for embroidered and dyed work that nobles, captains and the royal house commission."
 tags: [heroes-and-knaves, guilded, tradesfolk]
 data:
   icon: icon-person
@@ -455,7 +456,7 @@ Glirvrinna stands 5'7" tall with a light build. She has pale fair skin, blonde h
 
 Glirvrinna inherited gifts from both parents, but early on demonstrated her mother's inclination toward artistry over pure function. She trained first under her father, learning structure and practical construction, but spent her true passion studying under her mother, discovering the secrets of dyes and the possibilities of decorative design. At twenty-four, Mirvir retired due to arthritis in his hands and left the shop to Glirvrinna on the condition that she maintain both their family's traditions—functional excellence and artistic beauty.
 
-Since then, Glirvrinna has transformed the family business from a utilitarian tentmaker into a workshop celebrated across Malagna and beyond for bespoke, beautiful, and surprisingly durable textiles. Her commissions are sought by nobles, wealthy merchants, and traveling companies that value appearing grand as much as being protected. At thirty-two, she is unmarried by choice—she sees her craft as her life's partner and views most potential suitors as threats to her independence rather than complements to it.
+Since then, Glirvrinna has transformed the family shop at [[place-braldheim|Braldheim]] from a utilitarian tentmaker into a workshop celebrated across Malagna and beyond for bespoke, beautiful, and surprisingly durable textiles. Her commissions are sought by nobles, wealthy merchants, and traveling companies that value appearing grand as much as being protected. At thirty-two, she is unmarried by choice—she sees her craft as her life's partner and views most potential suitors as threats to her independence rather than complements to it.
 
 ## Psyche
 
@@ -509,21 +510,21 @@ Financial Naïveté
 
 ### Patrons
 
-Lord [[being-vraldmylbral|Vraldmil Braldaruk]]
+[[being-vraldmylbral|Vraldmil Braldaruk]]
 : A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from Glirvrinna and frequently recommends her work to his peers, providing steady access to high-value commissions.
 
-[The Traveling Muse Theater Company]{.name data-type="affiliation"}
+A Traveling Company of Players
 : A prestigious performance group that requires stunning costumes and set dressings. They commission Glirvrinna multiple times yearly and have become her most visible patrons, as her work appears before large audiences.
 
-[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]'s Flagship Crews
-: Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
+The Merchant Captains of Gnarthborg
+: Successful captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
 
-Princess [[being-hvarnthyra|Hvarnthira]] of Malagna
+The king's daughter [[being-hvarnthyra|Hvarnthira]] of Malagna
 : The royal family has begun commissioning items from Glirvrinna, including ceremonial banners and royal furnishings. Though royal patronage is recent, it promises to elevate her status considerably.
 
 ### Enemies
 
-Master Craftsman [Knarvorv the Practical]{.name data-type="being/npc"}
+The craftsman [Knarvorv the Practical]{.name data-type="being/npc"}
 : An older male tentmaker who represents the "function-first" philosophy Glirvrinna's father stood for. Knarvorv publicly criticizes her work as beautiful but impractical and has won contracts she sought by undercutting her prices and emphasizing durability over aesthetics.
 
 [Draskselda the Copyist]{.name data-type="being/npc"}
@@ -534,22 +535,23 @@ Her Father, Mirvir Snarvumak
 
 ### Affiliations
 
-[The Artisans' Collective of Malagna]{.name data-type="affiliation"}
-: Glirvrinna is a prominent member and serves on the council, though she remains somewhat isolated due to her focus on textiles rather than more traditionally respected arts like sculpture or painting.
+The Craftswomen of Braldheim
+: Glirvrinna is a leading voice among the district's textile workers, though she remains somewhat isolated due to her focus on textiles rather than more traditionally respected arts like carving or metalwork.
 
 ## Plot Hooks
 
-The Royal Commission That Changes Everything
-: Princess Hvarnthira of Malagna personally visits Glirvrinna's workshop with an unprecedented request: create the wedding trousseau and ceremonial garments for her betrothal to a foreign prince—a union intended to forge peace between warring kingdoms. The commission is worth a fortune and will elevate Glirvrinna's status immeasurably. However, the wedding is in six months, requiring Glirvrinna to design and execute the most complex and beautiful work of her entire life while also managing a workshop stretched beyond capacity. As she works, she discovers that the betrothal itself is politically contentious; elements of the court actively work to sabotage the marriage. Glirvrinna finds her art caught in political crossfire, with her finished pieces being used as symbols in a court struggle over succession and power. She can continue the commission knowing her beautiful work will become propaganda, or abandon it and lose everything.
+The Trousseau
+: The king's daughter [[being-hvarnthyra|Hvarnthira]] of Malagna comes to Glirvrinna's workshop in person and asks for the wedding trousseau and ceremonial garments for her betrothal to a foreign prince. The fee would settle the workshop's future, and the wedding is six months away. The autumn cutting at [[place-braldheim|Braldheim]] needs the camps' tents and hide-coverings in the same months, and the camps' households are her neighbors. Glirvrinna can give the trousseau her whole season and leave the camps to the next-nearest tentmaker, or hold to the camps and tell the princess a smaller piece is all she can promise.
 
-The Dye Master's Curse
-: Glirvrinna acquires an extraordinary batch of ancient dye formulae from a deceased artisan's estate—colors so vivid and beautiful that they seem almost supernatural. She begins using them in her finest work, creating pieces of breathtaking magnificence. However, clients report strange occurrences: garments dyed with these colors seem to attract attention compulsively (wearers are drawn to wearing them constantly), or colors seem to shift in emotionally resonant ways (crimson fading to pale pink in moments of sadness, brightening in joy). Glirvrinna realizes the dyes are more than pigment: they are somehow infused with the aesthetic will of their creator—a mage who encoded her personality and intentions into the formulations before her death. The dyes are magnificent but potentially dangerous. Her choices are to continue using them (abandoning her commitment to pure art), to destroy them (wasting irreplaceable materials), or to attempt to understand the dead mage's intentions and perhaps communicate with her through the dyes themselves.
+The Boundary Banner
+: Two Braldheim households that quarrel over cutting rights in the forest behind the settlement each ask her for a banner to carry to the ting. A banner from the finest hand in the district tells the assembly whose cause Braldheim thinks is just. She can sew for one and be known for it, sew for both and be known for that, or refuse both and lose two households as customers.
 
-The Commissioned Lie
-: A wealthy merchant approaches Glirvrinna with a specific and unusual request: create a costume and banner that perfectly mimics the heraldry and dress of a rival merchant's house, so convincing it can be used to infiltrate events and steal proprietary secrets. The merchant offers an extraordinary sum—enough to secure her workshop's future and expand significantly. He presents it as a victimless deception in merchant competition. Glirvrinna's artistic sensibilities are drawn to the technical challenge of perfect mimicry. But as she works, she begins to understand that the true target is theft with violent consequences, not simply business espionage. She is caught between her desire to accept an incredible commission and her growing moral concern about how her beautiful deception will be used.
+The Copyist's Bolt
+: Draskselda the Copyist sells a bolt of cloth at [[place-gnarthborg|Gnarthborg]] that matches Glirvrinna's design stitch for stitch, at half her price, and a captain has already ordered pavilions from it. A claim at the ting would need witnesses who saw the original drawn, and custom work leaves none. She can bring the claim and risk a ruling against her, undercut the copy with her own labor, or make the next design too difficult for Draskselda to copy.
 
-The Tapestry That Shows the Future
-: Glirvrinna accepts a commission to create a massive tapestry depicting a historical battle, commissioned by a noble commemorating his family's military victory. As she works, weaving the detailed scene, she discovers something impossible: certain patterns seem to move of their own accord, and imagery she swears she didn't intentionally create appears in the weave. The tapestry appears to be depicting a future battle as well as the past one—a conflict that seems about to unfold, with startlingly accurate detail. When nobles viewing the work-in-progress recognize themselves (or their children) depicted in roles suggesting their deaths or betrayals, panic spreads. Her art may have become prophetic, the tapestry may be haunted, or she herself may be channeling knowledge she has no conscious access to.
+Knarvorv's Bid
+: [Knarvorv the Practical]{.name data-type="being/npc"} bids against her for a shipyard order of tents and awnings for the season's fleet, promising weatherproofing she cannot match without giving up her dyes. Her father Mirvir advises her to take the plainer work. She can take the order at a price that loses money, hold her price and lose it, or win it by making the plain work well, which means doing what she has refused to do.
 
-The Gender Challenge
-: A prestigious guild competition is announced for the finest craftspeople in Malagna, with the winner receiving unprecedented recognition and a position at the royal court. Glirvrinna eagerly prepares her best work, only to discover that the competition is restricted to male artisans—a traditional rule never before questioned. When she attempts to enter under an assumed masculine name, she is discovered and publicly humiliated. The incident sparks broader discussion about women's roles in craft trades, with some supporting her and others defending tradition. She can fight the rule through politics and advocacy (potentially alienating conservative patrons and the guild hierarchy), accept the exclusion and prove her worth through continued brilliant work, or take a path of artistic rebellion that might sacrifice her commercial success for artistic principle.
+:::secret {title="What the referee knows"}
+The estate of a dead dyer at Braldheim leaves Glirvrinna a chest of formulae for colors that seem to shift with the mood of whoever wears them. The dyer was a mage who set her intentions into the pigments before she died. Cloth from the formulae draws wearers to keep it on, and the colors turn at moments of grief and joy. Glirvrinna can use them in the trousseau and risk what they do to the wearer, destroy the formulae and the one chance at colors no one else can make, or work out what the dead dyer intended.
+:::

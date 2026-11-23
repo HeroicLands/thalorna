@@ -3,6 +3,7 @@ shortcode: hvrnthnstrmrt
 name: {full: Hvarnthann Stormrót, given: Hvarnthann, clan: Stormrót}
 type: being
 subType: character
+description: "A common seaman born at Hrandstead in Vithgard, a navigator who has sailed merchant, fishing and patrol ships for sixteen years and refuses captaincy, smuggling and ships he distrusts."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -448,9 +449,9 @@ Hvarnthann stands 6'2" tall with a medium build. He has tanned weathered skin, b
 
 # Dossier {#dossier}
 
-Hvarnthann was born in [[place-hrandstead|Hrandstead]], a minor coastal settlement of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], to parents of modest means. His mother, [Ragnhildur]{.name data-type="being/npc"}, ran a small inn catering to sailors, while his father, [Jostein Stormrót]{.name data-type="being/npc"}, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Hvarnthann took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
+Hvarnthann was born in [[place-hrandstead|Hrandstead]], a fortified plateau town of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] with a harbor on its inland rivers, to parents of modest means. His mother, [Hvurnthira]{.name data-type="being/npc"}, ran a small inn catering to sailors, while his father, [Dvurnorv Stormrót]{.name data-type="being/npc"}, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Hvarnthann took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
 
-For sixteen years, Hvarnthann has served aboard merchant vessels, fishing fleets, and occasionally military patrol ships contracted to Vithgard's coastal defense. He has sailed the [Crystalline Straits]{.name data-type="place/feature"}, the [Shattered Archipelago]{.name data-type="place/feature"}, and the dangerous shoals of the [Merchant's Passage]{.name data-type="place/feature"}, surviving tempests that sank larger, better-equipped vessels. His reputation is earned through uncountable small acts of seamanship—the ability to read weather before it manifests, to navigate by stars when maps fail, to remain calm when the deck pitches forty degrees and the masts groan with the strain of violent wind.
+For sixteen years, Hvarnthann has served aboard merchant vessels, fishing fleets, and occasionally military patrol ships contracted to Vithgard's coastal defense. He has sailed the straits, the island chains of the north and the shoal-ridden passages the merchants fear, surviving tempests that sank larger, better-equipped vessels. His reputation is earned through uncountable small acts of seamanship—the ability to read weather before it manifests, to navigate by stars when maps fail, to remain calm when the deck pitches forty degrees and the masts groan with the strain of violent wind.
 
 Five years ago, after the death of his father, Hvarnthann briefly returned to Hrandstead to secure his mother's future, purchasing property in her name from his accumulated wages. Satisfied that she would never want, he returned to the sea—his truest home.
 
@@ -507,19 +508,25 @@ Emotional Distance
 Captain [[being-gnuldurviri|Gnuldurvir Ilthumak]]
 : A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Gnuldurvir has twice promoted Hvarnthann to first mate, though Hvarnthann has refused permanent rank.
 
-Merchant Princess [[being-thruldselda|Thruldselda]]
-: A wealthy trading magnate who contracts sailors for her extensive merchant fleet. She has offered Hvarnthann command of her flagship multiple times, recognizing his value and offering wages that would set him for life. His refusals perplex and intrigue her.
+Captain [[being-thraskvirdra|Thraskvir Draskendik]]
+: A merchant captain of the _[Skipvin]{.name data-type="vehicle"}_ who has sailed with Hvarnthann before and takes him aboard when he needs a navigator.
 
-[The Fishermen's Collective of Hrandstead]{.name data-type="affiliation"}
+[[being-hvirnynda|Hvirninda]]
+: A wealthy scholar who pays extraordinary sums for a voyage to the old ruins of the north and counts on Hvarnthann to find the way.
+
+[[being-thruldselda|Thruldselda]]
+: A wealthy trader who contracts sailors for her extensive merchant fleet. She has offered Hvarnthann command of her flagship multiple times, recognizing his value and offering wages that would set him for life. His refusals perplex and intrigue her.
+
+The Fishing Masters of Hrandstead
 : Local fishing masters who regularly hire Hvarnthann for particularly dangerous catches or rescue operations. They consider him family and see that he always has work.
 
-[The Lighthouse Order]{.name data-type="affiliation"}
-: Keepers of navigational beacons along Vithgard's coast. They maintain informal communication with Hvarnthann, warning of hazardous conditions and occasionally requesting specific intelligence about distant waters.
+The Beacon-Keepers
+: Keepers of the lights and markers along Vithgard's coast and rivers. They maintain informal communication with Hvarnthann, warning of hazardous conditions and occasionally requesting specific intelligence about distant waters.
 
 ### Enemies
 
-Harbormaster [[being-hrindvirhval|Hrindvir Hvalgendik]]
-: An official charged with the ordering of the port in Vithgard's capital. Hrindvir views Hvarnthann as a troublemaker who flouts maritime law and encourages crew insubordination. Their conflicts are frequent and bitter.
+Harbor-reeve [[being-hrindvirhval|Hrindvir Hvalgendik]]
+: The official who tolls the wharves and settles disputes at the port. Hrindvir views Hvarnthann as a troublemaker who flouts maritime law and encourages crew insubordination. Their conflicts are frequent and bitter.
 
 Captain [[being-draskseldath|Draskselda Thraldidrok]]
 : A rival sailor who captains a merchant vessel and views Hvarnthann as competition for the most prestigious contracts. Draskselda has twice maneuvered to undercut Hvarnthann's negotiations through lies and political leverage.
@@ -529,25 +536,23 @@ The Smugglers' Network
 
 ### Affiliations
 
-[The Seafarers' Guild of Vithgard]{.name data-type="affiliation/guild"}
-: Though maintaining independence, Hvarnthann is a registered member in good standing, benefiting from the guild's information networks about routes, hazards, and available work.
+The Sailors of Hrandstead's Quays
+: Though keeping his independence, Hvarnthann stands well among the crews and masters who work the quays, and their word of routes, hazards and available work reaches him first.
 
 The Crew of the _[Stormrider]{.name data-type="vehicle"}_
 : Though not officially organized, Hvarnthann maintains bonds with the rotating crew of his preferred vessel, and they actively seek his continued involvement in their ventures.
 
 ## Plot Hooks
 
-The Lost Expedition
-: A wealthy scholar approaches Hvarnthann with a commission to sail to the Shattered Archipelago in search of **ancient ruins of the [Old Kingdom]{.name data-type="affiliation/polity"}**, believed to hold libraries of lost knowledge. The last expedition to find them vanished seven years ago without sending word. The scholar, **Master [[being-hvirnynda|Hvirninda]]**, is willing to pay extraordinary sums, but Hvarnthann discovers through cautious inquiry that the last crew encountered something in the deep caves that drove survivors mad. The archipelago itself seems to resist mapping—charts reveal contradictory information, and sailors report islands that weren't where they should be. The astronomical pay is set against investigating something that suggests the islands themselves are concealed by magic or a living intelligence.
+The Flagship Contract
+: At [[place-hrandstead|Hrandstead]] a contract is read aloud before signing and read back by the clerk, and the jarl's garrison enforces what is written. The merchant [[being-thruldselda|Thruldselda]] offers him her flagship, wages for life and a signature that binds him to the ship. He has refused casually before. Now he can sign and give up the freedom to choose his captain, or refuse before the clerk and the garrison, and lose the contract and her goodwill.
 
-The Mutiny Prophecy
-: Hvarnthann joins the crew of the merchant vessel _[Gyllir's Fortune]{.name data-type="vehicle"}_ under a captain he's worked with before, **Captain [[being-thraskvirdra|Thraskvir Draskendik]]**. Everything seems standard until the ship's seer, an ancient woman named [Velva Mervsnerv]{.name data-type="being/npc"}, pulls Hvarnthann aside and describes a vivid vision: him standing over Thraskvir's corpse, sword in hand, crew watching in horror. She insists this future is "written in bone and blood" and that it will come to pass within the next lunar cycle. Hvarnthann initially dismisses this as superstition, but when he begins witnessing small events that align with the prophecy's details, doubt creeps in. Meanwhile, tensions simmer among the crew due to Thraskvir's increasingly erratic and brutal leadership. Hvarnthann has to steer between accepting a destiny he doesn't wish to fulfill and preventing a real tragedy born from poor captaincy.
+The Harbor-reeve's Count
+: A merchant crew refuses an order at the Hrandstead quays, and Harbor-reeve [[being-hrindvirhval|Hrindvir Hvalgendik]] blames Hvarnthann for stirring them. The harbor-reeve will settle the matter at the wharf unless the crew's names are given. Naming them keeps Hvarnthann out of a fine and ends his standing among sailors, and refusing means paying for what the crew did.
 
-The Leviathan's Wake
-: Fishing vessels across the northern routes report unprecedented losses—ships returning with massive holes in their hulls, survivors speaking of something colossal moving beneath the waves. Merchant Princess Thruldselda commissions Hvarnthann to investigate and locate this creature before it destroys commerce in her waters. The deeper the investigation goes, the more Hvarnthann realizes this is not a natural creature: ancient texts recovered from sunken ships reference a being of living water called [Maelstrom]{.name data-type="being/creature"}, bound by ritual into the depths centuries ago. Its binding appears to be failing, and its awakening could devastate all coastal civilizations. Hvarnthann can attempt the nearly suicidal task of re-binding the creature, seek out the scholar who might know the original ritual, or accept that some forces cannot be stopped.
+One Load for Her Safety
+: A smuggler tells Hvarnthann that the Smugglers' Network will burn the house he bought in his mother's name unless he carries one cargo for them, because he reports them to the harbor-reeve. He can carry it and break the rule he sails by, report the offer to the harbor-reeve and put his mother in the line of reprisal, or find the smuggler's master before the next boat leaves.
 
-The Stormrider's Secret
-: Hvarnthann's favored vessel, the _Stormrider_, begins exhibiting impossible behavior—sails steering themselves, the helm responding to commands no one gave, the ship moving against wind and current as though guided by an invisible hand. The crew grows terrified, suggesting the ship is cursed or possessed. Hvarnthann, however, suspects something more complex: during routine repairs, he discovers carvings in the hold he doesn't remember being there—navigation symbols and ritual marks that seem deliberately constructed. Investigation reveals the ship was commissioned by a mage decades ago as a "thinking vessel," designed to guide itself through dangerous waters. The mage apparently placed a fragment of his own consciousness into the ship's construction. Now, this consciousness is awakening after decades of dormancy, and it has its own purposes. Hvarnthann must negotiate with an entity that is partly his beloved ship and partly something wholly alien, all while the crew demands he find a way to "cure" the vessel.
-
-The Divided Crown
-: Civil war threatens to tear Vithgard apart as two noble claimants dispute succession to the throne. Both sides offer Hvarnthann staggering sums to use his ship's speed and stealth to transport military supplies, reconnaissance, or even assassination targets. Despite his usual political indifference, Hvarnthann discovers that the legitimate claimant is actually his distant cousin through his mother's line, someone he never knew existed. The other claimant, while politically skilled, has already demonstrated willingness to execute political opponents without trial. Hvarnthann has treacherous waters to cross, at sea and in politics alike, and the question is whether remaining neutral is still possible or his family duty and his conscience demand he choose a side in a conflict that could consume Vithgard.
+:::secret {title="What the referee knows"}
+The _Stormrider_ begins to steer itself: its sails trim without hands, its helm answers commands no one gave, and the ship moves against wind and current. Its crew grows afraid. Something rides the ship, and the same thing may be the colossal creature that has holed the fishing fleets' hulls on the northern routes, which the merchant [[being-thruldselda|Thruldselda]] wants found.
+:::

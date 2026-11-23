@@ -121,7 +121,7 @@ Stormveld's ships run north, carrying produce out and bringing iron, ships, men 
 
 ## People to Meet
 
-The harbor-reeve who greets you, the skald who remembers your oath and the velva who will not say who sent her all have lives that run beyond a party's errand. Some of the north's people stand in its songs, such as [[being-grosdrnrgd|Groa the Seid of Norgaad]], who heals at cost to herself; others belong to the [[doc-heroessgrd|Heroes of Asguard]], whom the skalds sing whether or not they ever lived. These Nordmen offer a friendship, a debt or a feud:
+The harbor-reeve who greets you, the skald who remembers your oath and the velva who will not say who sent her all have lives that run beyond a party's errand. Some of the north's people stand in its songs, such as [[being-grosdrnrgd|Tvarninda the Seid of Norgaad]], who heals at cost to herself; others belong to the [[doc-heroessgrd|Heroes of Asguard]], whom the skalds sing whether or not they ever lived. These Nordmen offer a friendship, a debt or a feud:
 
 ```sql
 SELECT address.slug AS _ref,

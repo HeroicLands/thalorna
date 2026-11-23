@@ -60,7 +60,7 @@ data:
 sohl: {system: {commonSkills: [tantsoulng]}}
 ---
 
-Kwozheng Province is the northern province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 20 million people. It holds the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the far-northern [[lore-grukarfolk|Grukar]] nests. Beyond the marches lies the steppe of [[place-blackwilds|the Black Wilds]]. Its Prince, of the [[lore-zhazho|Zhazho]], rules from the city of [[place-kwozheng|Kwozheng]].
+Kwozheng Province is the northern province of the [[affiliation-tantsouempr|Empire of Tantsou]], with about 20 million people. It holds the cold coast, the hard-wintered basins of the north and the fortified marchland of watchtowers and garrison colonies toward the far-northern [[lore-grukarfolk|Grukar]] nests. Beyond the marches lies the steppe of [[place-blackwilds|the Black Wilds]]. Its Prince, [[being-tuizhokwzng|Tuizho]], of the [[lore-zhazho|Zhazho]], rules from the city of [[place-kwozheng|Kwozheng]].
 
 The soldier-settlers of the marches are of the [[lore-tantsoumrchclt|Tantsou Frontier Peoples]].
 

@@ -3,6 +3,7 @@ shortcode: hnrvthyrdvlgmkh
 name: {full: Hnurvthira Dvalgumak, given: Hnurvthira, clan: Dvalgumak}
 type: being
 subType: character
+description: "A clothier of Tvarnmark in Norgaad, a weaver's daughter and worshipper of Mótefnir who keeps a workshop in the market quarter and is trusted with her customers' secrets."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -448,7 +449,7 @@ Hnurvthira stands 5'6" tall with a light build. She has pale fair skin, auburn h
 
 **Early Life and Training**
 
-Hnurvthira was born in the village of [[place-tvarnmark|Tvarnmark]], at the foot of the [Bjarg mountains]{.name data-type="place/feature"} that granted her clan its name. Her mother, a weaver of considerable skill, taught her the fundamentals of textile work before she could read, and her father, a merchant of furs and hides, instilled in her an instinct for the market. By age twelve, she had already begun experimenting with natural dyes—extracting color from madder root, woad, and the rare indigo traders brought from southern lands. Her most formative years were spent apprenticed to the dyer [Einkorn Kraldumak]{.name data-type="being/npc"}, a master craftsperson whose works were prized throughout [[place-norgaad|Norgaad]]. From Einkorn, she learned not merely technique but philosophy: that every thread tells a story, and that true craftsmanship is an act of honor to [[lore-motefnirdty|Mótefnir]], the Maker.
+Hnurvthira was born in the stone town of [[place-tvarnmark|Tvarnmark]], at the foot of the mountains. Her mother, a weaver of considerable skill, taught her the fundamentals of textile work before she could read, and her father, a merchant of furs and hides, instilled in her an instinct for the market. By age twelve, she had already begun experimenting with natural dyes—extracting color from madder root, woad, and the rare indigo traders brought from southern lands. Her most formative years were spent apprenticed to the dyer [Rulthorv Kraldumak]{.name data-type="being/npc"}, a master craftsperson whose works were prized throughout [[place-norgaad|Norgaad]]. From Rulthorv, she learned not merely technique but philosophy: that every thread tells a story, and that true craftsmanship is an act of honor to [[lore-motefnirdty|Mótefnir]], the Maker.
 
 **Journey to Independence**
 
@@ -456,7 +457,7 @@ At twenty-two, Hnurvthira established her own workshop in the market quarter, dr
 
 **Current Situation**
 
-Now at the height of her craft, Hnurvthira finds herself at a crossroads. Her small workshop has become profitable, but opportunity and ambition gnaw at her. She possesses the skill to work with the finest fabrics imported from [[place-vedyarargn|Vedyara]] and beyond, yet her customers remain largely of modest means. A wealthy merchant from the market town of [[place-asgarthul|Asgarthul]] recently visited, commissioning elaborate garments for his wife. He hinted at patronage that could lift Hnurvthira into the ranks of the realm's most prestigious craftspeople. Yet accepting such work would mean leaving her village and abandoning the community that trusted her. Her heart remains divided between ambition and loyalty.
+Now at the height of her craft, Hnurvthira finds herself at a crossroads. Her small workshop has become profitable, but opportunity and ambition gnaw at her. She possesses the skill to work with the finest fabrics imported from [[place-vedyarargn|Vedyara]] and beyond, yet her customers remain largely of modest means. A wealthy merchant from the market town of [[place-asgarthul|Asgarthul]] recently visited, commissioning elaborate garments for his wife. He hinted at patronage that could lift Hnurvthira into the ranks of the realm's most prestigious craftspeople. Yet accepting such work would mean leaving her town and abandoning the community that trusted her. Her heart remains divided between ambition and loyalty.
 
 ## Psyche
 
@@ -464,7 +465,7 @@ Now at the height of her craft, Hnurvthira finds herself at a crossroads. Her sm
 
 Hnurvthira possesses a quiet intensity that those who meet her often underestimate. She speaks little but listens with attention, asking each customer careful questions about their needs, their life, their hopes. This empathy translates directly into her work: she creates garments not merely for bodies but for the people within them. Her humor emerges in dry, knowing observations about human nature and the foibles of fashion. She maintains a fierce independence born of self-reliance, yet paradoxically, she is deeply invested in the welfare of her community and takes pride in its success.
 
-Though she is warm and personable, Hnurvthira maintains certain boundaries. She does not gossip, and she holds secrets shared by her customers with sacred trust. This discretion, combined with her kindness, has made her one of the few people in the village to whom people reveal their true selves. She possesses a practical wisdom about life that comes not from books but from years of intimate observation.
+Though she is warm and personable, Hnurvthira maintains certain boundaries. She does not gossip, and she holds secrets shared by her customers with sacred trust. This discretion, combined with her kindness, has made her one of the few people in the town to whom people reveal their true selves. She possesses a practical wisdom about life that comes not from books but from years of intimate observation.
 
 ### Motivation
 
@@ -508,10 +509,10 @@ Limited Combat Capability
 
 ### Patrons
 
-[Tvarnmark Village Council]{.name data-type="affiliation/governmental"}
+The Merchant Families of Tvarnmark
 : The local leadership regularly commissions her to create formal garments for ceremonies and state functions, and they strongly advocate for her skills among travelers and merchants.
 
-Einkorn Kraldumak
+Rulthorv Kraldumak
 : Though now elderly and retired, her former master remains a mentor figure and important influence. He occasionally guides her on difficult technical questions and is a source of wisdom and encouragement.
 
 The Merchant Families
@@ -529,17 +530,15 @@ Informal Community Textile Workers
 
 ## Plot Hooks
 
-The Unfinished Commission
-: A noblewoman from the jarl's seat at Asgarthul commissioned a wedding gown of extraordinary complexity—a fusion of traditional Norgaadian patterns with silk imported from distant lands. The woman specified that the gown must be completed in just six weeks, an impossibly tight timeline, and offered payment that would transform Hnurvthira's life. However, disaster strikes: a fire in a dye merchant's warehouse destroys the exact shade of indigo she promised, and the noblewoman's wedding approaches. Hnurvthira must either find a replacement dye of matching quality, convince the noblewoman to accept a variation, or undertake a dangerous journey to secure new indigo. The characters might help her recover lost materials, negotiate with the noblewoman, or pursue leads on distant indigo sources—perhaps even accompanying her on a quest across dangerous lands.
+The Burned Indigo
+: A noblewoman from Asgarthul commissions a wedding gown that joins traditional Norgaadian patterns with imported silk, due in six weeks. A fire in a dye merchant's warehouse in [[place-tvarnmark|Tvarnmark]] destroys the exact indigo she promised. The wedding will not move. Hnurvthira can find a dye of matching quality, ask the noblewoman to accept a variation, or send for new indigo over the upper road, which the militia does not always keep quiet.
 
-The Rival's Sabotage
-: A competitor from a neighboring town, consumed with envy at Hnurvthira's growing reputation, has begun spreading rumors that she uses inferior materials and achieves her colors through witchcraft rather than skill. The slander begins to affect her business, with customers hesitantly questioning her methods. Hnurvthira requests the party's aid in exposing the rival's malice—perhaps by purchasing garments from the rival to prove their inferior quality, gathering testimonies from satisfied customers, or even confronting the rival and uncovering evidence of the deliberate campaign. The situation escalates when the rival actually poisons one of Hnurvthira's dye batches, hoping to create a scandal, and the party must track the poisoner and prove the sabotage.
+The Witchcraft Whisper
+: A rival in a neighboring town tells Tvarnmark's merchant families that Hnurvthira uses poor materials and gets her colors through witchcraft. Tvarnmark's council decides such matters over ale, not in a hall, and the merchant families who buy her garments sit on it. She can answer by dyeing at the market square before them, leave the answer to the rival's own words, or let her customers decide.
 
-The Ancestral Pattern
-: While working on a commissioned piece, Hnurvthira discovers woven into an ancient fabric fragment—a gift from her elderly aunt—a pattern of extraordinary complexity and beauty that she has never seen before. The pattern appears to be a map or perhaps a coded message, and her aunt, now quite elderly, admits only that it belonged to their clan generations ago and was said to mark "the place where the ancestors hid their greatest treasure." Hnurvthira becomes obsessed with recreating and interpreting the pattern, and she involves the party in investigating the history of the [Dvalgumak clan]{.name data-type="affiliation/lineage"}, exploring old settlements, consulting with shamans and historians, and ultimately discovering a lost site of archaeological significance or a treasure that could dramatically change her clan's fortune.
+The Crimson Thread
+: A wealthy merchant arrives in Tvarnmark looking for her, saying a garment she made years ago for his late wife has become cursed: everyone who wears it suffers accident or illness. She remembers the commission well and does not believe in the curse. She can take the garment back and unpick it, refuse to touch it and lose the customer, or look for who has been wearing it.
 
-The Curse of the Crimson Thread
-: A wealthy merchant arrives in Tvarnmark seeking Hnurvthira specifically, claiming that a garment she crafted years ago for his late wife has become cursed. Since the woman's death, anyone who wears the garment experiences terrible misfortune—accident, illness, and despair follow. He begs Hnurvthira to break the curse, offering substantial payment. Hnurvthira, who never creates malicious work, is horrified and determined to investigate. The party discovers a complex truth: the merchant himself placed a curse on the garment before giving it to his wife in a jealous rage, and the curse is bound to him through magical means. Breaking it requires the party to uncover the merchant's dark secret, gather rare components, and perform a purification ritual—but in the process, they must decide whether to expose the merchant's guilt or preserve his reputation for Hnurvthira's sake.
-
-The Master's Final Request
-: Old **Einkorn Kraldumak**, now gravely ill, summons Hnurvthira to his bedside. He reveals that he has been a guardian of an ancient technique for creating a fabric—cloth that can survive fire, resist disease, and preserve food placed within its folds. The technique has been passed down through only a few masters across centuries, and Einkorn, having no children of his own, wishes to entrust it to Hnurvthira before he passes. However, the secret requires gathering rare ingredients from dangerous locations and involves ritual and possibly magical components. The party must help Hnurvthira understand her mentor's cryptic final teachings, gather the necessary components (possibly from monster hunters, other craftspeople, or even dangerous wilderness expeditions), and learn the technique herself, all while racing against Einkorn's declining health.
+:::secret {title="What the referee knows"}
+Old Rulthorv Kraldumak, gravely ill, summons Hnurvthira and tells her he has guarded an ancient technique for making a cloth that survives fire, resists disease and preserves food placed in its folds. He wishes to give it to her before he dies. Its making needs rare ingredients from dangerous places and some ritual and possibly magic. A fragment of old cloth her aunt gave her carries a pattern of great complexity that may be a map to what the Dvalgumak clan once hid, and the two secrets may be one.
+:::

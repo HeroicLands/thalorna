@@ -32,7 +32,7 @@ The dikes are the town's life. Every Month of Earth the district corvée mends t
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The Prince of Mwonou, of the [[lore-zhazho|Zhazho]], holds the district through an administrator of the [[lore-wohou|Wohou]], who keeps its revenue, its courts and its corvée, and through the magistrate who hears its cases. The district registrar keeps the rolls of every person in the district at the District Hall, and the district's [[lore-tanchei|Tanchei]] keep its annal there.
+The Prince of Mwonou, [[being-hozhomwnou|Hozho]], of the [[lore-zhazho|Zhazho]], holds the district through an administrator of the [[lore-wohou|Wohou]], who keeps its revenue, its courts and its corvée, and through the magistrate who hears its cases. The district registrar, [[being-jnshoregstr|Second Daughter of the Seal-Cutter of the Clan of Cold Spring Under Pines]], keeps the rolls of every person in the district at the District Hall, and the district's [[lore-tanchei|Tanchei]] keep its annal there.
 
 ## The Present {#present}
 

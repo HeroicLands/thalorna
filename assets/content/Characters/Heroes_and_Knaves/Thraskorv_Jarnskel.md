@@ -3,6 +3,7 @@ shortcode: thrskrvjrnskl
 name: {full: Thraskorv Jarnskel, given: Thraskorv, clan: Jarnskel}
 type: being
 subType: character
+description: "A strong thrall farmer born on a jarl's estate near Knalthstead in Nordheim, who wants to escape and to break the system that binds him."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -467,7 +468,7 @@ Since that day, Thraskorv has been marked as a troublemaker, assigned the worst 
 
 ### Present Bondage
 
-Now thirty-one years old, Thraskorv represents a unique threat to his masters—strong enough to be valuable, intelligent enough to be dangerous, and rebellious enough to be constantly suspect. Jarl Hrandorv would have sold him years ago, but Thraskorv's productivity remains too high to easily replace. Instead, he is watched, controlled, and kept perpetually on the edge of severe punishment. Yet something in his spirit remains unbroken.
+The jarl's estate lies on the farmland around [[place-knalthstead|Knalthstead]], the seat of the kingdom, and Thraskorv carries the grain to its quays. Now thirty-one years old, Thraskorv represents a unique threat to his masters—strong enough to be valuable, intelligent enough to be dangerous, and rebellious enough to be constantly suspect. Jarl Hrandorv would have sold him years ago, but Thraskorv's productivity remains too high to easily replace. Instead, he is watched, controlled, and kept perpetually on the edge of severe punishment. Yet something in his spirit remains unbroken.
 
 ## Psyche
 
@@ -513,7 +514,7 @@ Dangerous Attention
 
 ### Patrons
 
-Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: [Thilminda the Healer]{.name data-type="being/npc"}, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father [[being-ralthann|Ralthann]]**, a traveling priest of [[affiliation-eidgar|Eidgar]], once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
+Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: [Thilminda the Healer]{.name data-type="being/npc"}, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Gudi [[being-ralthann|Ralthann]]**, a traveling priest of [[affiliation-eidgar|Eidgar]], once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
 
 ### Enemies
 
@@ -532,17 +533,18 @@ Thraskorv is forbidden from formal associations, but he maintains unofficial con
 
 ## Plot Hooks
 
-The Chance of Escape
-: A merchant caravan arrives at the estate, and Thraskorv recognizes one of the drivers as a former thrall who achieved freedom. That night, he is offered an opportunity to escape—a hidden cart, a route to safety, and a life of freedom. But the escape would require leaving others behind, abandoning his dream of systematic change, and accepting that he alone survives while the system continues. His choice will define whether he is a revolutionary or a survivor.
+The Berth on the Quay
+: A ship's master beaches at the [[place-knalthstead|Knalthstead]] quays to unload the estate's grain, and Thraskorv knows one of his hands, a former thrall who bought his freedom. That night the hand offers him a hidden berth on the outbound ship. A thrall who runs is outlawed, and the thralls left behind answer for his flight with the lash. He can leave and live as a free man outside the law, or stay and wait for another way.
 
-The Forbidden Education
-: [Halla Wordsmith]{.name data-type="being/npc"}, an old slave brought to the estate, begins secretly teaching Thraskorv to read and write. If discovered, both would be executed. As Thraskorv's literacy grows, he begins to understand documents, ledgers, and correspondence—revealing corruption and cruelty that could be used as evidence. The knowledge becomes a weapon, but using it would require him to expose himself.
+The Bread Thief's Verdict
+: A thrall woman is condemned for taking a loaf in hunger. Thraskorv learns that the overseer falsified the evidence out of spite. The Lawspeaker will hear her case at the ting, and a thrall's word is not heard against an overseer's. He can speak to the Lawspeaker in secret and be punished for it, find a free witness like Thilminda the Healer, or let the verdict stand.
 
-The Raid of the Unfree
-: Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Thraskorv, believing his tactical mind and strength could transform their band from a nuisance into a threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Eidgar.
+Lessons by Night
+: [Hnarvinda Wordsmith]{.name data-type="being/npc"}, an old thrall brought to the estate, teaches Thraskorv to read and write in secret, and both would be executed if it were found out. As he learns, he reads the tallies of hall credit the jarl keeps and what they owe. The knowledge makes him more valuable and more dangerous. He can use it to strike the jarl, keep it to himself, or give it to someone who can bring it to the ting.
 
-The Jarl's Ambitious Son
-: Jarl Hrandorv's younger son, [Hlirthmil the Scholar]{.name data-type="being/npc"}, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is real but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
+The Jarl's Younger Son
+: Hlirthmil the Scholar, the jarl's younger son, returns from his studies with ideas about the estate's labor and sees Thraskorv as a collaborator and teacher, not property. His interest is real. It could change the estate, and it could also get Thraskorv executed for corrupting the heir. Thraskorv can teach him and trust him, or keep his distance and lose the only free man who treats him as a person.
 
-The Slave's Justice
-: When a thrall woman is executed for theft (a piece of bread taken in desperation), Thraskorv reaches his breaking point. An opportunity presents itself: the evidence against her was falsified by the overseer in an act of personal cruelty. Thraskorv could expose this, potentially creating a legal precedent for thrall defense, but doing so would require him to become visible in the system—a move that would either destroy that system or destroy him.
+:::secret {title="What the referee knows"}
+Rumor tells of a band of escaped thralls who raid caravans and free the enslaved in the mountain passes. They want Thraskorv, whose strength and tactical mind could turn the band from raiders into an army. Joining would cost him any chance of a lawful freedom and would make Jarl Hrandorv's estate their next target.
+:::

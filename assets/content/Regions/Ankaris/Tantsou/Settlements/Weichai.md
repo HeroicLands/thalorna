@@ -32,7 +32,7 @@ The town's clans reach far beyond it. The scholar [Zhi Zhai Leng Cheng]{.name da
 
 The Prince of Mwonou holds the district through his [[lore-wohou|Wohou]] officers, and a magistrate reads the [Teng Lou]{.name data-type="lore/law"} in his court at Weichai, hears the disputes the clan elders cannot settle and fines both parties where both are at fault.
 
-The Leigen of Weichai, the spirit masters of [[lore-ancstrwrshp|Ancestor Worship]], keep the households' dead. They stand beside each heir at the [Festival of the Dead]{.name data-type="lore/gathering"} and give the answers of the ancestors, and they teach the form of the reckoning from [[lore-hearthaccount|The Hearth Account of the Third Terrace]], the account of a household of [[place-zhengnou|Zhengnou]], the terrace village on the hill.
+The Leigen of Weichai, the spirit masters of [[lore-ancstrwrshp|Ancestor Worship]], keep the households' dead; among them is [[being-weichaileign|Second Son of the Miller of the Clan of Reeds Bend in the Wind]]. They stand beside each heir at the [Festival of the Dead]{.name data-type="lore/gathering"} and give the answers of the ancestors, and they teach the form of the reckoning from [[lore-hearthaccount|The Hearth Account of the Third Terrace]], the account of a household of [[place-zhengnou|Zhengnou]], the terrace village on the hill, read by its heir, [[being-mouterrckpr|Eldest Son of the Terrace-Keeper of the Mou Clan]].
 
 ## The Present {#present}
 

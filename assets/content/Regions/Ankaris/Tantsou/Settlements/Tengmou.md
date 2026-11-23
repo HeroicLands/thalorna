@@ -30,7 +30,7 @@ On the night of the [Moon Festival]{.name data-type="lore/gathering"} the valley
 
 ## Who Rules and Keeps Order {#who-rules}
 
-The Prince of Mwonou holds the district through his [[lore-wohou|Wohou]] officers, and a magistrate reads the [Teng Lou]{.name data-type="lore/law"} in his court at Tengmou. The [[lore-wohou|Wohou]] of the [Zhowou Clan]{.name data-type="affiliation/lineage"} near Tengmou send their sons to arms, and the town's [[lore-tsaihuo|Tsaihwo]] send theirs to the garrisons of the northern marches; [[lore-unnumberedtwr|The Song of the Unnumbered Tower]] names a potter's son near Tengmou among the nine who hold the tower.
+The Prince of Mwonou holds the district through his [[lore-wohou|Wohou]] officers, and a magistrate reads the [Teng Lou]{.name data-type="lore/law"} in his court at Tengmou. The [[lore-wohou|Wohou]] of the [Zhowou Clan]{.name data-type="affiliation/lineage"} near Tengmou send their sons to arms, and the most famous of them is the admired soldier [[being-wenghenrauchai|Weng Hen Rau Chai]]. The town's [[lore-tsaihuo|Tsaihwo]] send theirs to the garrisons of the northern marches; [[lore-unnumberedtwr|The Song of the Unnumbered Tower]] names a potter's son near Tengmou among the nine who hold the tower.
 
 ## The Present {#present}
 

@@ -19,7 +19,7 @@ data:
       who: [{ref: affiliation-tantsouempr, role: actor}]
 ---
 
-The young Emperor's accession is the newest entry in the record of the [[affiliation-tantsouempr|Empire of Tantsou]]. The Retired Emperor withdrew from the throne, and the young Emperor received the [[lore-mandatehvn|Mandate of Heaven]]. The records give it no year.
+The young Emperor's accession is the newest entry in the record of the [[affiliation-tantsouempr|Empire of Tantsou]]. The Retired Emperor, [[being-yanzhortrd|Yanzho]], withdrew from the throne, and the young Emperor, [[being-tengrauemp|Tengrau]], received the [[lore-mandatehvn|Mandate of Heaven]]. The records give it no year.
 
 As every reign does, the new one opened its own era of the calendar, and the count of years began again ([[lore-clndrstrlgy|Calendar and Astrology]]). The scholars of the chancellery on the shores of [[place-zhowen|Zhowen]] set to cross-referencing every filing of the old era to the new one, and a filing that waits in that work can wait a year.
 

@@ -8,7 +8,7 @@ tags: [ritual, nordlands]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-The rite that binds [[being-njorven|Njorven]], the Sea Wraith, is not for the strong; it is for the patient, and for the ones who stand around the patient. The **Ritual of Binding** is the rite by which Njorven is sealed away. It is the object of [[scenario-groascmpgn|Groa's Campaign]], and the campaign's final act consists of getting it performed.
+The rite that binds [[being-njorven|Njorven]], the Sea Wraith, is not for the strong; it is for the patient, and for the ones who stand around the patient. The **Ritual of Binding** is the rite by which Njorven is sealed away. It is the object of [[scenario-groascmpgn|Tvarninda's Campaign]], and the campaign's final act consists of getting it performed.
 
 ## What the Rite Needs
 
@@ -34,5 +34,5 @@ The Ritual seals; it does not kill. It has evidently been worked before, since N
 [[being-njorven|Njorven]]
 : the Sea Wraith the rite seals away
 
-[[scenario-groascmpgn|Groa's Campaign]]
+[[scenario-groascmpgn|Tvarninda's Campaign]]
 : the campaign that ends at the coastal temple

@@ -1,15 +1,15 @@
 ---
 shortcode: hrindvirhval
-name: {full: Hrindvir Hvalgendik, en: [Harbormaster Hrindvir Hvalgendik]}
+name: {full: Hrindvir Hvalgendik, en: [Harbor-reeve Hrindvir Hvalgendik]}
 type: being
 subType: npc
-description: The harbormaster charged with the ordering of the port in Vithgard's capital, named in Hvarnthann Stormrót.
+description: The harbor-reeve who tolls the wharves and settles disputes at the Hrandstead quays, named in Hvarnthann Stormrót.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mariner]
-  occupation: Harbormaster
+  occupation: Harbor-reeve
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Hrindvir Hvalgendik is a 47-year-old man who stands 5'8" tall with a medium buil
 
 # Dossier {#dossier}
 
-Hrindvir Hvalgendik is the harbormaster charged with the ordering of the port in [[affiliation-kngdmvthgrd|Vithgard]]'s capital. He regards [[being-hvrnthnstrmrt|Hvarnthann]] as a troublemaker who flouts maritime law, and their conflicts are frequent and bitter. Hrindvir Hvalgendik is named in Hvarnthann Stormrót.
+Hrindvir Hvalgendik is the harbor-reeve who tolls the wharves and settles disputes at the quays of [[place-hrandstead|Hrandstead]] in [[affiliation-kngdmvthgrd|Vithgard]]. He regards [[being-hvrnthnstrmrt|Hvarnthann]] as a troublemaker who flouts maritime law, and their conflicts are frequent and bitter. Hrindvir Hvalgendik is named in Hvarnthann Stormrót.

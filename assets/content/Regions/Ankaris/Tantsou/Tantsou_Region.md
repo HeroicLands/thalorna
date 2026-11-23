@@ -66,7 +66,7 @@ No serious threat has ever reached the Empire from the west. Its worst enemies h
 
 ## Current Situation {#present}
 
-The Emperor on the throne at [[place-zhowen|Zhowen]] is young and newly crowned, a Retired Emperor lives in the background of the court, and the four Princes each mean to be the one who shapes the young Emperor.
+The Emperor on the throne at [[place-zhowen|Zhowen]], [[being-tengrauemp|Tengrau]], is young and newly crowned, the Retired Emperor, [[being-yanzhortrd|Yanzho]], lives in the background of the court, and the four Princes each mean to be the one who shapes the young Emperor.
 
 The rain has failed in the south. The southern rice harvests have failed several years running, smaller rivers are dry in their beds, and in some districts the hungry [[lore-nouwen|Nouwen]] have risen against their lords and the magistrates who collect the tribute. The delta is the exception: the water-gifted Wandwo of the Prince of [[affiliation-wongsenprv|Wongsen Province]] bring rain to it, and the dry provinces buy his rice at the price he names.
 

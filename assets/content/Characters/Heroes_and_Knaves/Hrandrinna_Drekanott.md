@@ -3,6 +3,7 @@ shortcode: hrndrndrknt
 name: {full: Hrandrinna Drekanótt, given: Hrandrinna, clan: Drekanótt}
 type: being
 subType: character
+description: "A master thatcher of Hvalgvík in Malagna who recovered from a fall at nineteen to become one of the kingdom's finest, known for new methods, a team of apprentices and a roof for the hersvald of Glarvei."
 tags: [heroes-and-knaves, common-folk]
 data:
   icon: icon-person
@@ -452,7 +453,7 @@ Despite the demands of her craft, Hrandrinna carries herself with an easy grace 
 
 ### The Wild Child
 
-Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, [Druskthann Drekanótt]{.name data-type="being/npc"}, was a skilled thatcher of considerable reputation, and her mother, [Glarvinda]{.name data-type="being/npc"}, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
+Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, [Druskthann Drekanótt]{.name data-type="being/npc"}, was a skilled thatcher of considerable reputation, and her mother, [Glarvselda]{.name data-type="being/npc"}, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
 
 Rather than being confined to the domestic tasks expected of a girl, Hrandrinna was permitted—and encouraged—by her father to work alongside him on roofs. By age twelve, she was already assisting on full contracts. By sixteen, she was working on significant projects largely independently, with her father supervising and providing guidance rather than doing the work himself. Her unusual path raised eyebrows in conservative communities, but her competence was undeniable, and in a trade where quality work was more valued than social convention, she gradually earned acceptance.
 
@@ -468,7 +469,7 @@ From her early twenties onward, Hrandrinna established herself as one of the fin
 
 She never married, though she had several offers and at least two relationships that might have led to marriage. Instead, she remained focused on her work, eventually establishing a small team of apprentices and assistants who worked under her direction, allowing her to handle larger contracts while maintaining her personal standards.
 
-The scar on her leg never fully healed—she walks with a slight limp that is barely perceptible to most people but that she herself is constantly aware of. It is a permanent reminder of her vulnerability and of the fragility of the work her life is built on.
+Her yard stands at [[place-hvalgvik|Hvalgvík]], where the bay lies calm behind its headland and the houses that shelter there are roofed with reed cut at the marsh's inner end. The scar on her leg never fully healed—she walks with a slight limp that is barely perceptible to most people but that she herself is constantly aware of. It is a permanent reminder of her vulnerability and of the fragility of the work her life is built on.
 
 ## Psyche
 
@@ -527,11 +528,11 @@ Relationship Avoidance
 **[[being-hvilgthanngl|Hvilgthann Glarvidrok]]**, Hersvald of [[place-glarvey|Glarvei]]
 : The hersvald has engaged Hrandrinna for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Hvilgthann has become one of her most consistent and reliable clients.
 
-[The Farmers' Collective of the Northern Reach]{.name data-type="affiliation"}
-: A coalition of farming families who pool resources for major maintenance projects contracts with Hrandrinna for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
+The Farming Families of the Northern Reach
+: A group of households who pool resources for major maintenance projects contracts with Hrandrinna for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
 
-Bishop [[being-rilthorv|Rilthorv]] of the [Thrunvald Temple]{.name data-type="affiliation"}
-: The religious institution dedicated to the storm deity commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
+Hofgudi [[being-rilthorv|Rilthorv]] of the hov of [[affiliation-thrunvald|Thrunvald]]
+: The hov of the storm god commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The gudi values her skill and the quality of her work.
 
 ### Enemies
 
@@ -540,22 +541,23 @@ Bishop [[being-rilthorv|Rilthorv]] of the [Thrunvald Temple]{.name data-type="af
 
 ### Affiliations
 
-[The Craftspeople's Collective of Malagna]{.name data-type="affiliation"}
-: While not formally affiliated with any official guild (which would require her to follow more conservative standards), Hrandrinna maintains good relationships with the broader community of craftspeople and occasionally collaborates on large projects.
+The Craftspeople of Malagna
+: Though she belongs to no body of craftsmen that would require her to follow more conservative standards, Hrandrinna maintains good relationships with the broader community of craftspeople and occasionally collaborates on large projects.
 
 ## Plot Hooks
 
-The Commission from Across the Realm
-: An emissary from a distant region, hearing of Hrandrinna's reputation for new methods, arrives with an unusual commission: to design and oversee the construction of a roof for a structure with architectural specifications completely outside her previous experience—perhaps a tower, a dome, or a structure designed for a climate dramatically different from her native region. The challenge excites her as a craftsperson, but accepting means leaving her established base and risking her reputation on unfamiliar ground.
+The Season Across the Water
+: Each season Hrandrinna crosses from [[place-hvalgvik|Hvalgvík]] to thatch the roofs of [[place-glarvey|Glarvei]] for Hersvald [[being-hvilgthanngl|Hvilgthann Glarvidrok]], who pays what he can. This year a hersvald's relative on the island offers her a larger contract for a hall, at higher pay, if she will leave the hersvald's roofs for a season. She can take the hall and strain a decade-old patron, or keep to Hvilgthann and lose the commission she has wanted.
 
-The Injured Competitor
-: Dvilgthann the Conventional suffers a serious injury that incapacitates him, and his family approaches Hrandrinna requesting assistance. Accepting would require her to temporarily take on his contracts and potentially even apply her own methods to his existing projects—which might be perceived as opportunistic or as the final blow against him. Refusing seems callous, but accepting means becoming entangled in a complex situation with real social consequences.
+Dvilgthann's Roof
+: Dvilgthann the Conventional is badly hurt, and his family asks Hrandrinna to finish his contracts. Taking them means thatching in his old way over his own work, and possibly proving her methods in his name. His family wants the roofs done, and Dvilgthann wants no help from her. She can take the contracts and be known for it, or leave the roofs to rot.
 
-The Structural Secret
-: While working on the roof of an ancient building, Hrandrinna discovers evidence that the structure's thatch is part of an elaborate system designed to collect water, channel it through hidden pipes, or even (she suspects) contain some form of magical property or hidden chamber. Investigating further could expose her to danger or unwanted attention from whoever created the original system.
+The Leg
+: The scar on her leg begins to hurt, and a healer tells her that her working life may be at risk if she keeps climbing. The season's contracts depend on her. She can hide the pain and work, tell her apprentices and hand them the high roofs, or stop and let her reputation rest on what she has built.
 
-The Degenerating Injury
-: The scar on Hrandrinna's leg begins to trouble her more significantly. Pain, weakness, or signs of infection suggest that what she thought was fully healed may be deteriorating. She must consult a physician, who suggests her working life may be at risk if the condition worsens. Hrandrinna faces the possibility that her worst fear—losing the ability to work—is becoming real, and she can accept limits or push on recklessly.
+The Apprentice Takes a Hall
+: One of her best apprentices takes a contract for a prestigious roof in secret and means to use Hrandrinna's techniques without her name. The roof is raised on a house whose owner thinks Hrandrinna has done the work. She can expose the apprentice, finish the roof herself and say nothing, or let the work stand on its own.
 
-The Apprentice's Dangerous Ambition
-: One of Hrandrinna's most talented apprentices becomes impatient with the pace of their learning and secretly takes a major contract for a prestigious building, planning to complete it with techniques learned from Hrandrinna but executed independently. When the project faces structural problems that the apprentice cannot solve, the solution falls to Hrandrinna. She can salvage the project and uphold the standards of the craft, knowing it will benefit an apprentice who broke her trust, or let it fail and damage her own reputation.
+:::secret {title="What the referee knows"}
+Working on the roof of an old building, Hrandrinna finds that its thatch is part of a system built to collect water and channel it through hidden pipes to a store no one remembers. She suspects the structure holds something more, and an emissary from a distant region arrives soon after, asking for a roof built to specifications that match it.
+:::

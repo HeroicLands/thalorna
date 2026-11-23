@@ -3,6 +3,7 @@ shortcode: hvlgvrvtrdmr
 name: {full: Hvalgvir Veturdomur, given: Hvalgvir, clan: Veturdomur}
 type: being
 subType: character
+description: "The innkeeper of the Serpent's Hearth at Odholm in Nordheim, a brewmaster's son whose fair judgment and good ale make his inn the center of the pilgrim town."
 tags: [heroes-and-knaves, tradesfolk]
 data:
   icon: icon-person
@@ -453,13 +454,13 @@ Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, whit
 
 Hvalgvir was born the eldest son of a brewmaster in the northern reaches of [[place-nordheim|Nordheim]], in a small town whose fortunes rose and fell with the success of its seasonal harvests. His father expected him to inherit the family trade, and indeed, young Hvalgvir showed considerable talent in the craft—a keen nose for the subtle interplay of grain, herbs, and fermentation that separates a palatable ale from a fine one. But Hvalgvir's mother, a storyteller of considerable skill, saw something else in her son: a capacity for hospitality, for creating spaces where strangers became friends and the weary found solace.
 
-When his father died suddenly—struck down by fever when Hvalgvir was but twenty—the family brewery fell to his younger brother, [Keth Veturdomur]{.name data-type="being/npc"}, while Hvalgvir was left to find his own path. Rather than resent this, Hvalgvir saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
+When his father died suddenly—struck down by fever when Hvalgvir was but twenty—the family brewery fell to his younger brother, [Hvalgorv Veturdomur]{.name data-type="being/npc"}, while Hvalgvir was left to find his own path. Rather than resent this, Hvalgvir saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
 
 ### The Founding of the Hearth
 
-At twenty-five, Hvalgvir took what savings he had gathered and purchased a modest building in the larger trading town of [[place-odholm|Odholm]], where the crossroads of three major roads converged. The location was well chosen, but Hvalgvir's true genius lay in his understanding of what travelers and locals alike truly needed. He built a tavern that was also a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
+At twenty-five, Hvalgvir took what savings he had gathered and purchased a modest building in the larger town of [[place-odholm|Odholm]], where the pilgrim roads from across Nordheim converge on the temple of Odvar. The location was well chosen, but Hvalgvir's true genius lay in his understanding of what travelers and locals alike truly needed. He built a tavern that was also a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
 
-For nearly three decades, the [Serpent's Hearth]{.name data-type="place/structure"} (named after his devotion to [[affiliation-eidgar|Eidgar]]**) has been the center of Odholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
+For nearly three decades, the [Serpent's Hearth]{.name data-type="place/structure"} (named after his devotion to [[affiliation-eidgar|Eidgar]]) has been the center of Odholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
 
 ### The Weight of Years
 
@@ -509,7 +510,7 @@ Emotional Burden
 : The weight of being a refuge to so many has accumulated over decades. He carries the sorrows and struggles of his patrons within his own heart, and the burden grows heavier each year.
 
 Conflict Avoidance in Personal Matters
-: While skilled at mediating others' disputes, he avoids addressing problems within his own life—unresolved tensions with his brother Keth, questions about his legacy and succession, and doubts about his own worthiness.
+: While skilled at mediating others' disputes, he avoids addressing problems within his own life—unresolved tensions with his brother Hvalgorv, questions about his legacy and succession, and doubts about his own worthiness.
 
 Blindness to Larger Problems
 : For all his understanding of human nature, Hvalgvir sometimes fails to recognize larger patterns and conspiracies that extend beyond his personal sphere of influence.
@@ -518,50 +519,51 @@ Blindness to Larger Problems
 
 ### Patrons
 
-Lady [Constance Ashford]{.name data-type="being/npc"}
+[Hvilgthira Askeldur]{.name data-type="being/npc"}
 : A noble widow who has become Hvalgvir's confidante and occasional romantic interest. She secretly funds his more charitable endeavors and has warned him of court intrigue affecting his region.
 
-Magistrate [[being-hvulgorvhlus|Hvulgorv Hluskendik]]
-: The town's chief law enforcement, who relies heavily on Hvalgvir's network of informants and his insight into the community's pulse.
+Landvordur [[being-hvulgorvhlus|Hvulgorv Hluskendik]]
+: The landvordur who keeps the district's court, who relies heavily on Hvalgvir's network of informants and his insight into the community's pulse.
 
-[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Odholm
-: The collective of trading guilds treats Hvalgvir's inn as their de facto meeting place and headquarters; they provide steady business and seek his counsel on commercial matters.
+The Merchants of Odholm
+: The traders who bring goods to the pilgrim town treat Hvalgvir's inn as their meeting place; they provide steady business and seek his counsel on commercial matters.
 
 ### Enemies
 
-Keth Veturdomur
-: His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
+Hvalgorv Veturdomur
+: His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Hvalgorv resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
 
-Thane [[being-hrandynda|Hrandinda]]
+Jarl [[being-hrandynda|Hrandinda]]
 : A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
 
-[The Poison Cult of Ústaron]{.name data-type="affiliation"}
+The Poisoners of Ústaron
 : A heretical sect has begun to target Hvalgvir, viewing his worship of Eidgar and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
 
 ### Affiliations
 
-[The Innkeepers' Guild]{.name data-type="affiliation/guild"}
-: A formal organization whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
+The Innkeepers of the Pilgrim Roads
+: A circle of innkeepers whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
 
 [[affiliation-eidhond|The Order of the Sworn Hand]]
 : An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
 
-[The Odholm Community Council]{.name data-type="affiliation/governmental"}
+The Odholm Gathering
 : An ad-hoc assembly of merchants, craftspeople, and concerned citizens who often meet at the Serpent's Hearth to discuss town matters.
 
 ## Plot Hooks
 
-The Succession Question
-: Hvalgvir is aging, and he has no clear heir for his beloved inn. His nephew—Keth's son—approaches him with an offer: in exchange for naming him successor, the young man will help Hvalgvir discover the extent of his father's (Keth's) campaign against him. But the nephew has his own hidden purpose, and accepting his help may inadvertently enable a scheme that threatens the entire community.
+The Raven and the Stone
+: A pilgrim's son throws a stone at a raven in the yard of the Serpent's Hearth. At [[place-odholm|Odholm]] harming a raven is the gravest blasphemy, punished by exile or death, and a rune-priest of the temple is already walking down from it. Hvalgvir's fairness is his name. He can give the boy to the temple, hide him and shelter a pilgrim against the god's eyes, or plead for the boy before the Landvordur.
 
-The Plague of False Ale
-: A mysterious illness begins spreading through Odholm, affecting those who have consumed ale from the Serpent's Hearth. Hvalgvir is horrified to discover that someone has deliberately contaminated his supplies with subtle poison. The taint spreads faster than he can contain it, and he must work with both allies and dangerous outsiders to identify the poisoner while his reputation—and his patrons' lives—hang in the balance.
+The Tainted Taproom
+: Patrons who drink ale from the Hearth fall ill, and Hvalgvir finds his supplies have been deliberately poisoned. The pilgrimage season is at its height and the sickness spreads faster than he can contain it. The poisoners of Ústaron are the likeliest hand. He can close the taproom and lose the season, keep serving with a tester at every cask, or use his friends of the Sworn Hand to find the poisoner and risk who they name.
 
-The Noble's Dark Secret
-: A prominent noble confides in Hvalgvir, sharing a terrible secret that, if revealed, would destroy her family and shift the politics of Nordheim. She asks for his absolute discretion, and he grants it—until adventurers arrive seeking information about her, and Hvalgvir must weigh his code of hospitality against whatever catastrophe they're trying to avert.
+Hvalgorv's Son
+: His nephew, Hvalgorv's son, offers to help Hvalgvir learn how far Hvalgorv has worked against him if Hvalgvir names the nephew successor to the inn. Hvalgvir is old and has no other heir. The nephew has a purpose of his own and accepting his help may serve it. He can accept, test the young man, or name no heir.
 
-The Resurrection of Keth
-: Word arrives that Hvalgvir's younger brother, long thought lost to a trading accident years ago, has been discovered alive in distant lands, with vast wealth and mysterious new allegiances. Keth returns to Odholm with claims to both the family brewery and the Serpent's Hearth, and he brings with him shadowy associates whose intentions are deeply unclear. Hvalgvir must face this reunion without knowing whether his brother is truly returned or an imposter, or what dark purposes lie behind his sudden reappearance.
+A Noble's Confidence
+: A prominent noblewoman confides a secret to Hvalgvir that would destroy her family and shift the politics of Nordheim, and he gives his word. Then travelers arrive at the Hearth asking about her. His code of hospitality says they are guests, and his word to the noblewoman says he must tell them nothing. He can keep faith with her and lie to his guests, or break it.
 
-The Oracle at the Inn
-: An ancient prophet or oracle arrives at the inn, claiming to possess knowledge of a coming darkness that will test every principle Hvalgvir has built his life upon. She offers cryptic guidance in exchange for shelter and resources, but her predictions grow increasingly specific and disturbing. Hvalgvir must judge whether she is a true seer or mad, while the events she predicted begin—slowly, terrifyingly—to manifest around him.
+:::secret {title="What the referee knows"}
+An old woman arrives at the inn who says she is a seer and knows of a darkness that will test every principle Hvalgvir has lived by. She asks shelter and means in exchange for cryptic guidance. Her predictions grow more specific and more disturbing, and the events she names begin to happen around him. Hvalgvir must judge whether she is a true seer or mad.
+:::

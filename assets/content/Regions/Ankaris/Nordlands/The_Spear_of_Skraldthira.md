@@ -2,7 +2,7 @@
 shortcode: sprsigrid
 name: {full: The Spear of Skraldthira}
 type: miscgear
-description: "One of the three regalia of Groa's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
+description: "One of the three regalia of Tvarninda's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
 tags: [artifact, regalia, nordlands]
 data: {kind: miscgear, templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 5, valueBase: 0, durabilityBase: 15}}
@@ -35,4 +35,4 @@ hers—it merely holds the weapon.
 
 ## See Also
 
-- [[scenario-groascmpgn|Groa's Campaign]] · [[lore-njordurritlbinding|the Ritual of Binding]]
+- [[scenario-groascmpgn|Tvarninda's Campaign]] · [[lore-njordurritlbinding|the Ritual of Binding]]

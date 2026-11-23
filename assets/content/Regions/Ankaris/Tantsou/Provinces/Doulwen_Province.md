@@ -66,7 +66,7 @@ The mountain villages above the passes and the soldier families of their garriso
 
 ## Current Situation {#present}
 
-Its Prince, of the [[lore-zhazho|Zhazho]], is a younger Prince, rising fast. He stands for reform, and he has the ear of the young Emperor. The other three Princes watch him in the [[lore-weizhairui|Wei Zhai Rwi]], since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
+Its Prince, [[being-chengzhodlwn|Chengzho]], of the [[lore-zhazho|Zhazho]], is a younger Prince, rising fast. He stands for reform, and he has the ear of the young Emperor, [[being-tengrauemp|Tengrau]]. The other three Princes watch him in the [[lore-weizhairui|Wei Zhai Rwi]], since the court's favor shifts with every reading of the stars, and a Prince who rises quickly is the one they work hardest to bring down.
 
 He seeks foreign weight to add to his hold on the Emperor's ear, and he is the Prince who backs the request of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] for direct relations with the court at [[place-zhowen|Zhowen]] ([[scenario-embsydnvrtantsou|Embassy from Dunavarre to Tantsou]]).
 

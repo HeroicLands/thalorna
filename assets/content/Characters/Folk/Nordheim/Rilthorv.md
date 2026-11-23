@@ -1,15 +1,15 @@
 ---
 shortcode: rilthorv
-name: {full: Rilthorv, en: [Bishop Rilthorv]}
+name: {full: Rilthorv, en: [Hofgudi Rilthorv]}
 type: being
 subType: npc
-description: Bishop of the Thrunvald Temple, which commissions work from Hrandrinna Drekanótt.
+description: Hofgudi of the hov of Thrunvald, which commissions work from Hrandrinna Drekanótt.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: Bishop
+  occupation: Hofgudi
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Rilthorv is a 39-year-old man who stands 6'1" tall with a light build. He has pa
 
 # Dossier {#dossier}
 
-Rilthorv is the bishop of the [Thrunvald Temple]{.name data-type="place/structure"}, which commissions work from [[being-hrndrndrknt|Hrandrinna Drekanótt]]. The temple commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure harsh weather, and the bishop values her skill.
+Rilthorv is the hofgudi of the hov of [[affiliation-thrunvald|Thrunvald]], which commissions work from [[being-hrndrndrknt|Hrandrinna Drekanótt]]. The hov commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure harsh weather, and the gudi values her skill.

@@ -1,15 +1,15 @@
 ---
 shortcode: hvulgorvhlus
-name: {full: Hvulgorv Hluskendik, en: [Magistrate Hvulgorv Hluskendik]}
+name: {full: Hvulgorv Hluskendik, en: [Landvordur Hvulgorv Hluskendik]}
 type: being
 subType: npc
-description: The town's chief law enforcement, who relies on Hvalgvir Veturdomur's network of informants.
+description: The landvordur who keeps the district's court, who relies on Hvalgvir Veturdomur's network of informants.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Magistrate
+  occupation: Landvordur
   lore: []
   culture: nordheimnclt
   homes: []
@@ -42,4 +42,4 @@ Hvulgorv Hluskendik is a 58-year-old man who stands 5'10" tall with a light buil
 
 # Dossier {#dossier}
 
-Hvulgorv Hluskendik is the town's chief law enforcement, who relies on [[being-hvlgvrvtrdmr|Hvalgvir Veturdomur]]'s network of informants. He holds the post of magistrate.
+Hvulgorv Hluskendik is the landvordur who keeps the district's court, who relies on [[being-hvlgvrvtrdmr|Hvalgvir Veturdomur]]'s network of informants. He holds the king's court for the district.
