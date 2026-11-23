@@ -106,3 +106,6 @@ Bethura rebuilt its treasury and water corps on Khelathi models after the separa
 
 [[scenario-hrvstcntdtwc|A Harvest Counted Twice]]
 : a scenario: the Metrissa wants a count of the realm's grain that both pillars must accept before she chooses
+
+[[scenario-fldthrn|The Flood and the Throne]]
+: a campaign frame: a third low flood, renders held back, the succession asked aloud, and the grain of Bethua and the horsemen of Okharis courted by the factions

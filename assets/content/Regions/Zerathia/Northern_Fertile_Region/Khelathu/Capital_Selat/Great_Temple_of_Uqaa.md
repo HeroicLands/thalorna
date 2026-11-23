@@ -65,3 +65,6 @@ At the flood the water laps the outer courts, and the temple stands alone above 
 
 [[scenario-nightbfrrdng|The Night Before the Reading]]
 : a scenario: on the eve of the crest the Gar-Au sends strangers to stand at the Measure, and the old Reader is too sick to go down the stair
+
+[[scenario-fldthrn|The Flood and the Throne]]
+: a campaign frame: a third low flood, renders held back, the succession asked aloud, and the grain of Bethua and the horsemen of Okharis courted by the factions

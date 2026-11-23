@@ -81,3 +81,6 @@ The town lives on what the realm sends: grain, cattle and riders from the tribes
 
 [[scenario-gftmgrflds|A Gift for the Magara Folds]]
 : a scenario: a Khelathi envoy the King cannot answer rides on to the Magara folds to name a price for their horsemen
+
+[[scenario-fldthrn|The Flood and the Throne]]
+: a campaign frame: a third low flood, renders held back, the succession asked aloud, and the grain of Bethua and the horsemen of Okharis courted by the factions

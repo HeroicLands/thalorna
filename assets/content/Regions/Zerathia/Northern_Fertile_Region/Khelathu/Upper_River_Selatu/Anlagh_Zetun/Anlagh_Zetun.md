@@ -68,3 +68,6 @@ In 2378 ST (268 AF) the Halzi'a of the selat raised the upper river against the 
 
 [[scenario-rndrgorge|The Render of the Gorge]]
 : a scenario: the Overseer of the Granaries finds a figure in the year's reckoning he cannot account for, and hires strangers before he signs
+
+[[scenario-fldthrn|The Flood and the Throne]]
+: a campaign frame: a third low flood, renders held back, the succession asked aloud, and the grain of Bethua and the horsemen of Okharis courted by the factions
