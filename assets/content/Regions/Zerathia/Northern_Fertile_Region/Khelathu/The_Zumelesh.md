@@ -38,6 +38,12 @@ Crocodiles bask on the mud banks and hippopotami bellow in the marshes, and both
 
 The doctrine both hold is that wantonness in the killing offends the gods as much as it offends the guild, and that a hunt is a religious act performed at need. What neither will discuss with an outsider is what happens when the beasts are thriving, the priesthood is asking questions about the cull, and the charter-holder's tenure depends on the answer.
 
+## Converging Interests {#present}
+
+The river has risen low two years running. The priests of [[affiliation-uqaa|Uqa'a]] read [[place-themeasure|The Measure]] short at the last Inundation and short again at this one, and the water now falls short of the canal-heads: the ditches that carry it to the valley's edges run dry earlier in the season, the fields at the desert margin go back to dust, and the delta's marshes shrink around the ports and papyrus beds. The barges from the upper river reach the capital on schedule and carry less.
+
+Every power on the river reads the shortfall its own way. The Halzi'a send their reckonings to the capital late and lower than the flood explains, and speak of it as the river's doing. Galezkara reads it as tribute held back. The throne takes the blame, because the Khelathi hold that the river answers to the [[lore-garauu|Gar-Au]], and a Gar-Au who cannot keep it is a poor intermediary.
+
 ## See Also {#see-also}
 
 - [[place-aukhelathrgq|Au'Khelathu Region]] · [[affiliation-empireakhlth|Empire of Au'Khelathu]] · [[lore-khelathiclt|Khelathi culture]]

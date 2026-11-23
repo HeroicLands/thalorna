@@ -25,6 +25,14 @@ The omission is the circle's own choice. What the circle does there is experimen
 Whoever finds the site without being shown is marked for the embalmer's table, which is the circle's whole answer to the question of discovery.
 :::
 
+## Layers {#history}
+
+No record gives Akhoza-Menlaa a founding, a holder or a date, so its past is carried by rumor and by one fugitive. Rumor places a circle of mages around Master [[being-legirha|Legirha]] there. [[being-izaretgulzkr|Izaret Gul'Zekeru]], a spy in a Khelathi noble's service, uncovered what she took for the circle's forbidden work on a commission that carried her too deep. Knowing that the knowledge marked her for the embalmer's table, she fled Au'Khelathu.
+
+## What Is There Now {#present}
+
+People at the edge of [[place-zelhalzi|Zel-Halzi]] say that the Akhoza-Menlaa has been taking men, and the priest of [[affiliation-hezmuiri|Hezmu'iri]] who holds the Reading at the field has missed three in a year. When the temples speak of necromancers at the field, they name the circle. Izaret has sought out [[being-kirobashkm|Kiroba of the Shókuma]], hoping that together they can restore the balance, and Kiroba means to find the site and learn what the circle does there. He may find allies in [The Guilded Talon]{.name data-type="affiliation"}, which is said to watch such circles.
+
 ## See Also {#see-also}
 
 [[lore-khelathiclt|Khelathi]]

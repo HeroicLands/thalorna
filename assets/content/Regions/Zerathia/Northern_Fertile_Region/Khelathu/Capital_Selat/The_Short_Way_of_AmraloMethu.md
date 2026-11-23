@@ -40,6 +40,10 @@ The Short Way is not a blood-field. It holds two bodies, buried with rites, and 
 
 The Way holds the two tombs of the Vilérian house of Amralo'Methu, which held the throne from 2487 ST (377 AF) after a Vilérian army broke the chariot corps ([[lore-vylconquest|the Vilérian Conquest]], [[lore-foreignhs|the Closing of the Foreign House]]).
 
+## What Is There Now {#present}
+
+The Way is kept and not restored. The necropolis makes its offerings, the guard walks the avenue at dusk, and no restoration guild is paid to reface the two tombs, so the commander's plaster goes while the river-front Way of the reigning house is regilded. The ambassadors of the [[affiliation-vylarinmpr|Vilérian Empire]] keep houses near the palace across the river, and Vilérian scholars come for the commander's birth name, which no Khelathi record gives and which the tomb may hold.
+
 ## Hooks {#hooks}
 
 - **The name inside.** A Vilérian scholar is sure the commander's grave-goods carry the name he was born to, and that the name would embarrass a living senatorial house.

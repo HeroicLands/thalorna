@@ -16,7 +16,7 @@ data:
 
 West of [[place-zumeleshrvr|the Zumelesh]], where the black land stops and the cliffs of the high desert stand up out of the sand, a canal runs straight across the margin into a bay of the rock. At its end stands **Lut-Ithnet**, the western estate of the house of [Zu'Lemetu]{.name data-type="affiliation/lineage"}: a walled house of whitewashed brick, a bronze water-gate on a stone basin, and behind it a row of tomb doors cut into the cliff face. Boatmen on the river call it the **House of Sealed Mouths**, and they say it under their breath.
 
-## What It Is
+## Layers {#history}
 
 Lut-Ithnet is a funerary estate, the kind of house a great family endows so that its dead are prepared, laid in their own ground and fed for as long as the endowment lasts. Zu'Lemetu built it when the house was rich. The dead came upriver by boat to the basin, were carried through the water-gate into the preparation hall and spent their seventy days there in washing-salt and linen, and were walled into the cliff galleries with their tablets beside them. A household of embalmers, bondsmen and offering-priests lived in the house to do the work, and the estate's fields at the canal's edge fed them and the offering tables both.
 
@@ -50,7 +50,7 @@ The shutter is bolted from below. Between mid-morning and mid-afternoon, opened,
 - **The cliff galleries.** The house's dead in their niches, row above row, with the endowment's offering table at the foot of each gallery. The offering tables are bare and dusty.
 - **The vault.** A sealed room in the rock behind the hall, under the seal of Zu'Lemetu, where the house keeps what the endowment owns.
 
-## What Moves There Now
+## What Moves There Now {#present}
 
 The river hears that the estate is in mourning and that its servants have taken a vow of silence for the old mistress, and sewed their own lips at her burial, as the old families are said to do. Boatmen who put in at the basin in the last few years say that the servants who came down to the stair did not open their mouths, and that their lips were stitched. Nobody who said so went back to look.
 

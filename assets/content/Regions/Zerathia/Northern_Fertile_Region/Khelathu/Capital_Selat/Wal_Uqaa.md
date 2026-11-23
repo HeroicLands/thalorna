@@ -20,6 +20,14 @@ data:
 
 The road is laid to the solstice line. At midsummer dawn the sun rises exactly down its eastern length, and at midwinter dusk it sets exactly down its western length into the necropolis. By law nothing may stand in the way of either view from the temple, and on the high festivals the image of [[lore-uqaadty|Uqa'a]] is carried in procession down the avenue and across the water to the island.
 
+## Converging Interests {#present}
+
+The road carries the god and the crowd at once. At [[place-qeltge|Qelt-Ge]], where it meets the river facing the island, the city gathers for every proclamation, and with the flood failing two years running the whole city waits there on the reading of [[place-themeasure|The Measure]]. The [[affiliation-meglai|Meglai]] hold that crowd. The road itself answers to a law older than any living dynasty, enforced without appeal: a building that creeps into the view from the temple is pulled down, however great its owner.
+
+## History {#history}
+
+The first Gar-Au of the house that crossed to the mound laid the road out on the solstice line in 1006 ST (1105 BF) and proclaimed the law that nothing may stand in its sightline, and the oldest quarters of the city grew along it ([[lore-crossmound|the Crossing to the Mound]], [[lore-akhsunroad|the Sun's Road]]).
+
 ## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]

@@ -116,6 +116,14 @@ The stone city stands above it all. The temple platforms, the granary dikes, the
 
 _Flood season is building season._ The fields are under water and farm work is impossible, so the surplus labor of the selat rebuilds the mud city and raises the monuments, and the great stone blocks for tombs and temples are floated on flood-barges right up to the desert edge, which the water reaches only now. The necropolis never floods: it sits on the high desert shelf beyond the water's reach, with the death-road causeway climbing from the river onto dry rock, so that the dead lie forever above the inundation and the living forever below it. Over centuries the flood marks even the stone. Salt creeps up from the damp into the bases of the monuments, and silt settles unevenly beneath them, cracking obelisks and tilting colossi that a hundred reigns then labor to shore up.
 
+## Politics {#present}
+
+Two low floods have made bread the city's politics. The priests of Uqa'a read the Measure short at the last Inundation and short again at this one, and each reading was proclaimed at [[place-qeltge|Qelt-Ge]], where the whole city now waits on the number. The barges from the upper river arrive on schedule and carry less. The Halzi'a's Steward of [[affiliation-capitalselat|the Capital Selat]] reckons the granaries in sacks per day instead of seasons, the [[affiliation-meglai|Meglai]] keep the grain quays and the dole lines in order with the guard stretched across both, and in [[place-garqethar|Gar-Qethar]] the dole is queued for earlier each morning.
+
+The renders of the selatu reach the capital late and lower than the flood explains. The Overseers of Scribes who reckon them see the shortfall before anyone else, and the court reads it as tribute held back, though no Halzi'a has refused the throne in words. The throne takes the blame for the river, and the failing flood strains the fiction of divine kingship, which is performed here at its most elaborate.
+
+On the island the succession is argued in the palace corridors more openly than in any council. [[being-garaumeqesxv|Gar-Au Meqes XVI]] is 46 and in her twelfth year, and her nephew [[being-anlaghur|Anlaghur]] stands near enough the succession that the court asks the question seriously. Factions of the central bureaus and of the priesthood back different answers, and the mediators of the [[affiliation-genzetpalu|Genzet'Palu]] trade in what each faction offers. Embassies and gifts go west from several houses at once to [[affiliation-okharis|Okharis]], whose horsemen the factions want.
+
 ## Governance and Order {#governance-and-order}
 
 Galezkara answers to three powers at once, and the friction between them is the city's daily politics.

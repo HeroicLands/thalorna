@@ -58,6 +58,12 @@ For the GM: Khelafiru was no mere tyrant but one of the great sorcerers of his a
 - The cursed road—the warded Way of the False Uqa'a, the sorcerer-king embalmed alive and bound; by standing order, any who seek it are killed on sight
 - The mortuary temples of the royal dead, and the embalmers' and tomb-builders' settlements
 
+## Politics {#present}
+
+Two low floods have thinned the trades of the capital, and the necropolis is one of the few that holds steady: the temples pay their keeper-priests, restoration guilds and tomb-workers in grain, so the people who cross each dawn to serve the dead are fed while other trades go short. The Captain of the Necropolis Guard, an officer of [[affiliation-capitalselat|the Capital Selat]], keeps the royal dead, and the tombs are quiet. They are the one institution of the throne nobody blames for the flood.
+
+The cursed road stands across the river as the monument of the last time a throne and a short river met. The empire's schoolrooms teach [[lore-akhstruckhs|the Struck House]] and [[lore-failfloods|the Failing Floods]] as that lesson, and the bureaus cite them in their arguments about the present, while the guard's order to kill anyone who seeks the road stands as it has for four and a half centuries.
+
 ## History {#history}
 
 The necropolis opened across the river in the reign that carried the court to the mound in 1006 ST (1105 BF), and each later house raised its Way farther toward the sunset ([[lore-crossmound|the Crossing to the Mound]]). About 2650 ST (540 AF) Meqes VI had the older houses carried out to galleries in the outer reaches ([[lore-greatremovl|the Great Removal]]).

@@ -16,7 +16,7 @@ data:
 
 West of the river, past the last canal and the last row of temple wheat, the black land ends in a line a child could step across. Beyond it the ground is red and broken, and in a fold of it lies **The Burial Club's Last Vault** (Zel-Qedlu), the place of the quarrymen: a cut hillside, a ring of fallen huts and a rock-cut vault with its door walled up. The drovers who take the caravan road a short walk to the south call it the **Burial Club's Last Vault** and keep their eyes on the road when they pass.
 
-## What Is There
+## Layers {#history}
 
 Zel-Qedlu was a quarry village that cut red stone for the temple precincts of the upper river. It had a burial club, as every working village has: the quarrymen paid a copper piece a month into a common purse, and the purse bought each member the third grade of burial, a wash, a wrapping and a prayer, and a niche in the club's own vault. The club hall stood beside the vault and served as the village's school, kitchen and court.
 
@@ -26,7 +26,7 @@ The club failed in the seasons the work dried up. The temples that bought the st
 
 That is the vault. The Khelathi poor have no dread greater than this one, and [[lore-khelathiclt|the culture's own account]] says so: to die without proper rites is worse than a hard life, because a hard life ends.
 
-## What Moves There Now
+## What Moves There Now {#present}
 
 The gallery is worked at night. Quarrymen who have been dead for years haul cut stone down the passage on sledges, set it, dress it and go back for more, in rows, in silence, at the pace of a work-song nobody sings. At the first gray of morning they stop where they stand and do not move until dusk.
 

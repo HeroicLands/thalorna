@@ -2,7 +2,7 @@
 shortcode: wazulet
 name: {full: The Wazulet, en: [The Pure Place]}
 type: place
-subType: settlement
+subType: district
 description: "A liminal and faintly shunned quarter of Galezkara by the necropolis-ferry, where the trades that handle the dead keep their houses"
 tags: [generated]
 data:
@@ -10,7 +10,6 @@ data:
   population: {actual: null}
   packFolder: regkhsett
   culture: khelathiclt
-  notes: "A liminal and faintly shunned quarter of Galezkara by the necropolis-ferry, where the trades that handle the dead keep their houses"
 ---
 
 "I carry them across, and they carry the dead down to me," says the ferryman at the necropolis landing, nodding at the lanes behind him. "Both of us are paid for it, and neither of us is invited to dinner."

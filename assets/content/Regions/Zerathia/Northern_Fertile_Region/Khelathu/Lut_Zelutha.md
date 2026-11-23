@@ -12,6 +12,10 @@ Astrologers tell the story of **Lut-Zelutha** the way a teacher tells a lesson w
 
 "Everyone who gives you the road gives it as far as the sand," says an astrologer who has spent a lifetime on the charts. "After that you have only the people who claim they arrived." Nobody who claims to have reached the temple has come back able to say which.
 
+## Layers {#history}
+
+No record dates the sanctuary or names who raised it. Its story is the prophecy's: the road begins with the runes on [[place-anlaghura|Anlaghura]], passes the shrine at [[place-chenosolis|Chenosolis]] and ends here, and the empire's astrologers seek it still.
+
 ## See Also {#see-also}
 
 [[place-lareshu|Lareshu]]

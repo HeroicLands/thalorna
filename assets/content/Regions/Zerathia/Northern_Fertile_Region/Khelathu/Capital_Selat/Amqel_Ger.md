@@ -18,6 +18,10 @@ data:
 
 **Amqel-Ger** (the Great Quay) is the working riverfront of Galezkara, downstream of [[place-qeltge|Qelt-Ge]]. It lives by trade in its plainest form: docks and warehouses, the [[affiliation-garhalzi|Gar-Hálzi]] banking-houses, the [[affiliation-zebequzut|Zebeku'Zut]] merchant halls, and the foreign shore where [[lore-taruzelianclt|Taruzelian]] factors and factors from the [[place-midhalnrgn|Midhalión Region]] keep their compounds. A cargo that never touches the ceremonial city still passes through here before it counts as having reached Galezkara at all.
 
+## Layers {#history}
+
+The quay belongs to the living city that has grown along and off the Sun's Road, unplanned, in the centuries since the court crossed to the mound in 1006 ST (1105 BF) ([[lore-crossmound|the Crossing to the Mound]], [[lore-akhsunroad|the Sun's Road]]).
+
 ## See Also {#see-also}
 
 [[place-galezkara|Galezkara]]

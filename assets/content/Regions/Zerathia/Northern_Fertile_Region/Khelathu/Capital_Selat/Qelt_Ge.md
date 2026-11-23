@@ -18,6 +18,10 @@ data:
 
 **Qelt-Ge** (the Forefront) is the monumental plaza of [[place-galezkara|Galezkara]], at the head of the [[place-bridgecomingfrth|Bridge of the Coming-Forth]], where [[place-waluqaa|Wal-Uqa'a]] meets the river facing the sacred island. It is the civic heart of the capital: proclamations are read here, and the great crowds of the city gather on this ground before anywhere else. Whatever Galezkara needs the whole city to hear is said first at Qelt-Ge, and only afterward anywhere else.
 
+## Layers {#history}
+
+The plaza lies where the Sun's Road meets the river. The first Gar-Au of the house that crossed to the mound laid the road out on the solstice line in 1006 ST (1105 BF), and the living city grew along it ([[lore-crossmound|the Crossing to the Mound]], [[lore-akhsunroad|the Sun's Road]]).
+
 ## See Also {#see-also}
 
 [[scenario-nightbfrrdng|The Night Before the Reading]]

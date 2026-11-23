@@ -44,6 +44,10 @@ Against all of it stands the robbers' one unanswerable weapon: knowledge. Every 
 
 Khelaut-Ithnet is the capital's dungeon, sitting in plain sight at the edge of the holy ground—a near-endless supply of trapped, warded, guarded tombs and the desperate, expert, and damned who break into them. Run it for exactly that: a tomb-crack as a layered delve (concealment, barriers, traps, curses, and the waking dead at the bottom); a robbing-ring to join or to hunt; a corrupt tomb-architect selling maps; a noble house hiring the party to robber-proof a new tomb—or to quietly rob a rival's; a stolen heirloom or relic to recover from a fence in the [[place-galezkara#markets-and-commerce|markets]]; the necropolis-guard's bounty on tomb-breakers; or a delve gone wrong when something set to guard the dead is loosed among the living. It also frames the line the empire will not cross: the guarded royal Ways of Zu-Gezer are hard game and harshly punished, and the cursed road of the [[being-falseuqaa|False Uqa'a]] is death on sight—Khelaut-Ithnet is where the robbing trade lives instead.
 
+## The Present {#present}
+
+Two low floods have thinned the trades of [[affiliation-capitalselat|the Capital Selat]], and the work of the western bank is one of the few that holds steady, because the temples pay their embalmers, masons and tomb-workers in grain. The robbing trade holds steady too. It works the gold-rich and lightly guarded tombs of the nobles and the merchant class, and its yield moves through fences in [[place-galezkara|Galezkara]]'s markets and out through the harbor with the foreign factors, where the [[affiliation-garhalzi|Gar-Hálzi]] money-changers ask few questions of old gold. The necropolis-guard patrol what miles they can and hang the robbers they catch, and the guilds that raise the defenses still sell the way past them.
+
 ## See Also {#see-also}
 
 [[place-zugezer|Zu-Gezer]]

@@ -26,6 +26,10 @@ Gar-Legulu is a temple-estate city east of [[place-galezkara|Galezkara]], one of
 
 Its streets hold the estate-stewards and tally-scribes who run the holdings, the brewers, bakers, weavers and craftsmen who supply the temple's daily offerings and its priests' needs, and the lesser shrines and schools that orbit the great sanctuary in the capital. The city is prosperous, orderly and bound wholly to its temple, and it is a small example of the institution that, multiplied across the selat, makes the great temples economic powers to rival the Halzi'a. [[lore-zelgeru|The Zelgeru]] names the whole class of such estates.
 
+## Politics {#present}
+
+Two low floods have shortened the harvest of the tenant-villages, and the tally-scribes count a smaller render into the temple's granaries. The temples that hold the capital's estates claim their measure of every field before a village sees the rest, so a short flood is the temple's shortfall first and a farmer's only after that. The city answers to its temple before it answers to the Halzi'a of [[affiliation-capitalselat|the Capital Selat]], whose Steward reckons the selat's own granaries in sacks per day.
+
 ## See Also {#see-also}
 
 [[affiliation-capitalselat|The Capital Selat]]
