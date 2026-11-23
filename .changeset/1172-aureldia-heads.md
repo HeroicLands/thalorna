@@ -4,7 +4,7 @@
 
 **Places**
 
-- Stormveld, Ondareth, Vorgald Hold and the four tribes of the Peshtar and the Thornwold each show one person at their head: the High Jarl, the First Senator, an elder of the hold's council and each tribe's War-Leader.
+- Stormveld's High Jarl and Ondareth's First Senator are listed among the office holders of their realms, and the four tribes of the Peshtar and the Thornwold list their War-Leaders first.
 
 **Characters**
 

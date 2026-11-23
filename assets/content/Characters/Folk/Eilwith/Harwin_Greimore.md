@@ -89,7 +89,7 @@ Harwin answers to no patron. He is the Senate's First Senator and its richest me
 
 ### Affiliations
 
-- **[[affiliation-repblcndrth|Republic of Ondareth]]**: Harwin holds the rank and the office of First Senator, and heads the republic.
+- **[[affiliation-repblcndrth|Republic of Ondareth]]**: Harwin holds the rank and the office of First Senator, first in precedence in the republic.
 - **[[affiliation-senatondrth|Senate of Ondareth]]**: He presides over the chamber as its First Senator.
 
 ## Plot Hooks

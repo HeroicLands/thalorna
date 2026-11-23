@@ -107,6 +107,9 @@ A free _bundi_ speaks at his jarldom's moot, and a ruling there binds the jarl o
 
 ### The Officers
 
+High Jarl
+: [[being-ulthorvhrnd|Ulthorv Hrindaruk]], who is also jarl of Stormveil and its plain.
+
 Jarl
 : [[being-vrithorvmrvd|Vrithorv Marvidrok]], jarl of [[place-vuldstead|Vuldstead]] on the plain's western edge, and [[being-draskmilglrv|Draskmil Glarvendik]], jarl of [[place-drasknes|Drasknes]] on the northern coast, among the jarls of the plain and the fells.
 
