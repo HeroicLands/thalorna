@@ -3,7 +3,7 @@ shortcode: kldrnjthrn
 name: {full: Kaldrén Gútharen}
 type: being
 subType: npc
-description: "A Tarvenan miner held at the iron mine of Ardalis in Tarvénia, who has tried to escape more than once."
+description: "A Tarvenan miner of Ardalis, unfree and bound to a lord's land at the iron hill, who has left it without leave more than once."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -405,19 +405,19 @@ Kaldrén Gútharen is a 37-year-old man who stands 6'1" tall and is of medium bu
 
 # Dossier {#dossier}
 
-Born in [[place-ardalis|Ardalis]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kaldrén Gútharen is a miner.
+Born in [[place-ardalis|Ardalis]] to a family of [[lore-tarvenanclt|Tarvenan]] heritage, Kaldrén Gútharen is a miner.
 
-Kaldrén was a free man until he was captured during a conflict and sold into slavery. He was sold to an iron mine at [[place-ardalis|Ardalis]], where he learned to endure harsh conditions. Despite his captivity, Kaldrén maintains a rebellious spirit and has attempted to escape several times. His efforts have only led to harsher treatment, but he refuses to give up on the idea of freedom.
+Kaldrén is unfree: he is bound to a lord's land at the iron hill of [[place-ardalis|Ardalis]], owing the lord labor and a share of what he digs, and he cannot leave it without the lord's leave. The work taught him to endure harsh conditions. He keeps a rebellious spirit and has left the land without leave several times. Each attempt has only brought harsher treatment, but he refuses to give up on the idea of freedom.
 
 ## Psyche
 
 ### Personality
 
-Reckless, often punished for his escape attempts.
+Reckless, often punished for leaving the land without leave.
 
 ### Motivation
 
-Kaldrén wants his freedom, and until he has it, he wants to live to see a day when the Warden of the Iron counts the bloom twice.
+Kaldrén wants the lord's leave to go and a freeman's standing, and until he has them, he wants to live to see a day when the Warden of the Iron counts the bloom twice.
 
 ### Strengths
 
@@ -425,13 +425,13 @@ Determined, physically strong, skilled in mining and hard labor.
 
 ## Social
 
-Kaldrén is affiliated with none; he lacks the freedom to associate with any groups.
+Kaldrén is affiliated with none; he cannot leave his lord's land to join any group.
 
 ## Companions
 
 ### Patrons
 
-Kaldrén's primary patron is none; he is treated as expendable by his captors.
+Kaldrén's primary patron is none; he is treated as expendable by the lord's stewards.
 
 ### Enemies
 
@@ -441,4 +441,4 @@ Overseers who resent his rebellious nature.
 
 1. **The second count.** The Warden of the Iron has begun counting blooms twice, and nobody in [[place-ardalis|Ardalis]] can say whom the second count is for. Kaldrén has seen a cart leave the tower yard after the counts with a load that matches neither.
 2. **The lowland offer.** A Liénriki merchant has offered one mining family a price for its ore that no forge can match, and the family is in debt. Kaldrén's overseer is one of its relatives, and he asks a party to carry a message out of the mine.
-3. **Over Zurgando.** Kaldrén has found a way out of the galleries that opens above the town. He asks a party to take him up the dead road to [[place-zurgando|Zurgando]] before the Warden's men find the gap.
+3. **Over Zurgando.** Kaldrén has found a way out of the galleries that opens above the town, and leaving the land without the lord's leave will bring the Warden's men after him. He asks a party to take him up the dead road to [[place-zurgando|Zurgando]] before they find the gap.

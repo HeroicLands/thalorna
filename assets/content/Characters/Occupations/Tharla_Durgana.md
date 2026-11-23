@@ -399,7 +399,7 @@ Tharla Durgana is a 26-year-old woman who stands 5'8" tall and is slender. Her o
 
 Tharla Durgana is a domestic servant of [[place-herthema|Herthema]], a [[lore-tarvenanclt|Tarvenan]] born free in a village of the hills, who is held unfree in the house of a merchant family of the town.
 
-Tharla was captured during a raid on her village and sold into slavery in Herthema, where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
+Tharla was taken in a raid on her village and is bound in Herthema to the household of a wealthy family, where she works as a housemaid and cannot leave without its leave. Although her tasks are not as grueling as a field laborer's, being held at a household's disposal wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ She tends to be anxious and fearful of punishment, and thinks little of herself.
 
 ### Motivation
 
-Tharla wants her freedom, and until she has it, to avoid punishment and to learn the names of the people who sold her.
+Tharla wants her freedom, and until she has it, to avoid punishment and to learn the names of the people who took her.
 
 ### Strengths
 
@@ -423,14 +423,14 @@ Tharla belongs to no group; she has no freedom to join one.
 
 ### Patrons
 
-Tharla has no patron; her masters regard her only as a servant.
+Tharla has no patron; the household regards her only as a servant.
 
 ### Enemies
 
-Other servants resent her for trying to gain favor with the masters.
+Other servants resent her for trying to gain favor with the household.
 
 ## Plot Hooks
 
 1. **The woman at the temple door.** [[being-palnsnrcth|Pálina Sánriseth]] has begun to feed the poor at the temple of Ólvenia, and Tharla's mistress has forbidden her to go. Tharla asks a party to carry a message to Pálina about a woman who might be freed.
-2. **The seller.** A factor of the house Tharla serves is the man who bought her, and she has seen him at the sellswords' roll with the Keeper. She asks a party to learn whether he trades in captives from the Western March's raids.
+2. **The seller.** A factor of the house Tharla serves is the man who delivered her to the house, and she has seen him at the sellswords' roll with the Keeper. She asks a party to learn whether he trades in people taken in the Western March's raids.
 3. **The reform faction's dinner.** The merchants of the reform faction dine in her mistress's house. Tharla hears every word and asks a party to carry what she has heard to [[being-domthgrvth|Dometh Graveth]].
