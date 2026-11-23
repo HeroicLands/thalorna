@@ -1,5 +1,5 @@
 ---
-shortcode: tarsilathelv
+shortcode: zltthlvrs
 name: {full: Zolta Thelvaris}
 type: being
 subType: npc

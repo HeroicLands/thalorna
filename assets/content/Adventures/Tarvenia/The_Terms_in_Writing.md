@@ -19,7 +19,7 @@ data:
     - tholmarvolk
     - carengrvth
     - valarnlvnr
-    - tarsilathelv
+    - zltthlvrs
     - jolrenlvnr
   factions: [kingdmtrvn, kngdmstrth, kingdmlnrk, ordrsldwrd, sacredforge]
   follows: []
@@ -72,7 +72,7 @@ The yard between the gates at midday. The clerk stands among carters and mule-bo
 **NPCs and threats.** [[being-thelvarougar|Thelvaro Ugarreta]], the Warden of the Plateau Gate, a lord for life who knows every face in the climb. A lowland steward whose lord's twelve have just gone in. The clerk, afraid.
 
 > [!NOTE]
-> The Warden's men are run as [[being-tarsilathelv|Zolta Thelvaris]], a stock man-at-arms, and the lowland stewards as [[being-valarnlvnr|Valaren Álvanar]], a stock clerk.
+> The Warden's men are run as [[being-zltthlvrs|Zolta Thelvaris]], a stock man-at-arms, and the lowland stewards as [[being-valarnlvnr|Valaren Álvanar]], a stock clerk.
 
 **Player choices.** Vouch for the clerk, hide her among the carters, send her up alone, or leave her at the gate.
 
@@ -107,7 +107,7 @@ The yard between the gates at midday. The clerk stands among carters and mule-bo
 **NPCs and threats.** [[being-hurdathol|Hurda Tholmaris]], who lives in two rooms behind the west door and opens the hall only to lords. A brother of the [[affiliation-ordrsldwrd|Order of the Sealed Word]] who sits by the chest. A lowland steward looking for the way up.
 
 > [!NOTE]
-> The brother of the Sealed Word is run as [[being-tarsilathelv|Zolta Thelvaris]], a stock man-at-arms.
+> The brother of the Sealed Word is run as [[being-zltthlvrs|Zolta Thelvaris]], a stock man-at-arms.
 
 **Player choices.** Ask the Keeper for the old king's hour, test the ledge, copy the roll's order of voting, or carry the clerk's satchel to the stone.
 

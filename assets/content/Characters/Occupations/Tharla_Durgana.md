@@ -3,7 +3,7 @@ shortcode: thrdrgn
 name: {full: Tharla Durgana}
 type: being
 subType: npc
-description: "A woman born free in a village of the hills, captured in a raid and held unfree as a housemaid in a merchant family's house in Herthema."
+description: "A housemaid in a merchant family's house in Herthema, unfree and bound to a lord's holding in the hills, who cannot leave without her lord's leave."
 tags: [common-folk]
 data:
   icon: icon-person
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Tharla Durgana is a 26-year-old woman who stands 5'8" tall and is slender. Her olive skin is scarred at the wrists and across one cheek, her hair, gray before its time, is braided and coiled at the nape, and her amber eyes are large and kept down in company. She wears a household's plain gray gown with the sleeves pushed back for work, and she moves through a room without being noticed.
+Tharla Durgana is a 26-year-old woman who stands 5'8" tall and is slender. Her olive skin is roughened by household work and scarred across one cheek, her hands are calloused, her hair, gray before its time, is braided and coiled at the nape, and her amber eyes are large and kept down in company. She wears a household's plain gray gown with the sleeves pushed back for work, and she moves through a room without being noticed.
 
 # Dossier {#dossier}
 
-Tharla Durgana is a domestic servant of [[place-herthema|Herthema]], a [[lore-tarvenanclt|Tarvenan]] born free in a village of the hills, who is held unfree in the house of a merchant family of the town.
+Tharla Durgana is a domestic servant of [[place-herthema|Herthema]], a [[lore-tarvenanclt|Tarvenan]] of a village of the hills, unfree and bound to a lord's holding there, who serves in the house of a merchant family of the town.
 
-Tharla was taken in a raid on her village and is bound in Herthema to the household of a wealthy family, where she works as a housemaid and cannot leave without its leave. Although her tasks are not as grueling as a field laborer's, being held at a household's disposal wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
+Tharla is unfree: she is bound to a lord's holding in the hills, owing the lord her labor, and she cannot leave it without the lord's leave. She serves as a housemaid in the household of a wealthy family of Herthema. Although her tasks are not as grueling as a field laborer's, being held at a household's disposal wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ She tends to be anxious and fearful of punishment, and thinks little of herself.
 
 ### Motivation
 
-Tharla wants her freedom, and until she has it, to avoid punishment and to learn the names of the people who took her.
+Tharla wants her lord's leave to go, and until she has it, to avoid punishment.
 
 ### Strengths
 
@@ -432,5 +432,5 @@ Other servants resent her for trying to gain favor with the household.
 ## Plot Hooks
 
 1. **The woman at the temple door.** [[being-palnsnrcth|Pálina Sánriseth]] has begun to feed the poor at the temple of Ólvenia, and Tharla's mistress has forbidden her to go. Tharla asks a party to carry a message to Pálina about a woman who might be freed.
-2. **The seller.** A factor of the house Tharla serves is the man who delivered her to the house, and she has seen him at the sellswords' roll with the Keeper. She asks a party to learn whether he trades in people taken in the Western March's raids.
+2. **The lord's leave.** The household Tharla serves has sent to her lord in the hills, and she has seen the house's factor at the sellswords' roll with the Keeper. She cannot leave without her lord's leave, and she asks a party to learn whether the house means to keep her or to send her back to the holding.
 3. **The reform faction's dinner.** The merchants of the reform faction dine in her mistress's house. Tharla hears every word and asks a party to carry what she has heard to [[being-domthgrvth|Dometh Graveth]].

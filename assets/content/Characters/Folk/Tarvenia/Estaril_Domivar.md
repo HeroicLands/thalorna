@@ -14,7 +14,7 @@ data:
   culture: tarvenanclt
   homes: [kavrenath]
   affiliations: {kngdmstrth: {rank: 3, office: Warden of the March}}
-  socialTies: {being-tarsilathelv: patron}
+  socialTies: {being-zltthlvrs: patron}
   gender: male
   species: humanflk
   born: "680.15"

@@ -1,5 +1,5 @@
 ---
-shortcode: lzthbrnthr
+shortcode: ervthbrnthr
 name: {full: Ervotho Bránthira}
 type: being
 subType: npc

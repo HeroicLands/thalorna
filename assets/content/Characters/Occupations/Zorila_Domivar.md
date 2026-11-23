@@ -409,7 +409,7 @@ She can be stubborn, and often feels the need to prove herself among the men of 
 
 ### Motivation
 
-Zórila wants her place at Thornhill, which rests on the lord's standing, and keeps her own counsel about what she sees at the lord's hunts.
+Zórila wants her place at Thornhill, which rests on the lord's standing.
 
 ### Strengths
 
