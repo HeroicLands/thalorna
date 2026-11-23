@@ -426,3 +426,5 @@ She answers to [[being-argyrirjckl|Argirira the Jackal]] and commands the fighte
 ## Plot Hooks
 
 1. [[scenario-trbtftrdrv|The Tribute After the Drive]]: she holds the western stage and names the toll for water and a look at the pens.
+2. [[scenario-nxtwllst|The Next Well East]]: she leads a riding-party east behind a Bethuan caravan and names Argirira's price for its escort.
+3. **The captain's word.** She cannot bargain beyond what Argirira has said, and a party that wants more than water at her stage must wait while a rider goes to the captain.

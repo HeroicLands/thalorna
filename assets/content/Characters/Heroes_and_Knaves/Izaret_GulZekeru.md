@@ -23,7 +23,7 @@ data:
   appearance:
     eye_color: dark_brown
     hair_color: black
-    skin_color: tawny
+    skin_color: brown
     complexion: [clear]
     face_shape: oval
     extra_features: []

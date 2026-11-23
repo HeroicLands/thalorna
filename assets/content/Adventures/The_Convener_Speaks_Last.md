@@ -24,7 +24,6 @@ data:
     - ruwozigriot
     - sengalatrdr
     - mbadekofnjr
-    - hetoguardian
   factions: [greatlubemo, nylbtrblntn, ruwozi, kolembozi, ngonzi, sengala, lobwezi, fenjara]
   follows: []
   party: {size: null, archetypes: []}

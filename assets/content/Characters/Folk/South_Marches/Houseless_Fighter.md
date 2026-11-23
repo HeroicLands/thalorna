@@ -423,3 +423,5 @@ The fighter answers to the Lieutenant of the stage and to [[being-argyrirjckl|Ar
 ## Plot Hooks
 
 1. [[scenario-trbtftrdrv|The Tribute After the Drive]]: the Houseless core holds the western stage in a close line, and a fight inside its walls is one a party loses.
+2. [[scenario-nxtwllst|The Next Well East]]: two of the Houseless ride east with their lieutenant behind a Bethuan caravan and keep the stair at a broken tower on the road.
+3. **A fighter out of the line.** A Houseless fighter separated from a riding-party asks a party for water and passage to the western stages, and offers what the band's lieutenant has said in the fighter's hearing.

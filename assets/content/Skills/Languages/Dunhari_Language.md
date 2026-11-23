@@ -3634,6 +3634,7 @@ data:
       gloss: to ask; to request an answer about the object or following question
       source: {kind: coined}
       concept: ask
+    - {form: "sevr-", class: stem, field: Everyday speech, gloss: "to ask"}
     - form: sevramav
       class: v
       field: Everyday speech
@@ -6320,6 +6321,8 @@ data:
     - {name: The Bitter Sea, tongue: translation}
     - {name: The Far Sea, tongue: translation}
     - {name: The Mirror Sea, tongue: translation}
+    - {name: sevrabun, tongue: dunhari, built: [sevr-, -abun], gloss: the keeper of the asking}
+    - {name: The Riddle-Warden, tongue: translation}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

@@ -5,7 +5,7 @@ name:
   en: [Captain Hvalgmil Svaltharuk, Merchant Captain Hvalgmil Svaltharuk]
 type: being
 subType: npc
-description: A pirate captain operating in Thraldfjord waters under a thin veneer of legitimate merchant trade, named in Gnirthann Veturdomur.
+description: A pirate captain operating in Knalthstead waters under a thin veneer of legitimate merchant trade, named in Gnirthann Veturdomur.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -44,4 +44,4 @@ Hvalgmil Svaltharuk is a 43-year-old man who stands 6'1" tall with a medium buil
 
 # Dossier {#dossier}
 
-Hvalgmil Svaltharuk is a pirate captain operating in [[place-thraldfjord|Thraldfjord]] waters under a thin veneer of legitimate merchant trade. His vessel carries contraband that [[being-gnrthnvtrdmr|Gnirthann]] has documented numerous times but has been unable to intercept legally. Hvalgmil Svaltharuk is named in Gnirthann Veturdomur.
+Hvalgmil Svaltharuk is a pirate captain operating in [[place-knalthstead|Knalthstead]] waters under a thin veneer of legitimate merchant trade. His vessel carries contraband that [[being-gnrthnvtrdmr|Gnirthann]] has documented numerous times but has been unable to intercept legally. Hvalgmil Svaltharuk is named in Gnirthann Veturdomur.

@@ -51,17 +51,17 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | [[place-provenzrgn\|Provénzia]]  | ~5,000,000 |
 | [[place-tarvenirgn\|Tarvénia]]   | ~3,500,000 |
 | [[place-elavendre\|Élavendre]]   | ~2,000,000 |
-| [[place-eilwith\|Eilwìth]]       | ~710,000   |
+| [[place-eilwith\|Eilwìth]]       | ~670,000   |
 | [[affiliation-calypsa\|Kalipsa]] | ~45,000    |
 
 #### Ankaris—the East (the great powers)
 
-| Region                               | Population       |
-| ------------------------------------ | ---------------- |
-| [[affiliation-tantsouempr\|Tantsou]] | ~120,000,000     |
-| [[place-vedyarargn\|Vedyara]]        | ~110,000,000     |
-| [[place-jenchairgn\|Jenchai]]        | ~500,000         |
-| **Eastern Ankaris subtotal**         | **~230,000,000** |
+| Region                          | Population       |
+| ------------------------------- | ---------------- |
+| [[place-tantsouregin\|Tantsou]] | ~120,000,000     |
+| [[place-vedyarargn\|Vedyara]]   | ~110,000,000     |
+| [[place-jenchairgn\|Jenchai]]   | ~500,000         |
+| **Eastern Ankaris subtotal**    | **~230,000,000** |
 
 #### Zerathia
 
@@ -116,7 +116,9 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 **The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád sit at 10% and [[place-taruzelrgn|Taruzel]]'s run higher, toward 12–15%, and the frontier and pastoral country of the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]] and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
 
-**Approximate by design.** Every figure here is round and approximate—good to roughly the nearest few million at the regional scale, not the nearest soul—and any may be revised as the setting develops.
+**Most of Tantsou's towns are unlisted.** The [[affiliation-tantsouempr|Empire of Tantsou]] puts about one person in twenty in a town or a city, some 6,000,000 people. Its named places hold about 2,500,000 of them: [[place-zhowen|Zhowen]] about 2,000,000, the four provincial seats about 500,000 together, and the named towns of [[place-mwonouplnd|the Mwonou Uplands]] about 20,000. The other 3,500,000 or so live in river cities and market towns that no note lists, each entered in its district's register.
+
+**Approximate by design.** Every figure here is round and approximate—good to roughly the nearest few million at the regional scale, not the nearest soul.
 
 ### See Also
 

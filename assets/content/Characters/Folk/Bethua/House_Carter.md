@@ -3,7 +3,7 @@ shortcode: housecarter
 name: {full: House Carter}
 type: being
 subType: npc
-description: "A carter of a Bethuan Great House who loads and drives its grain and fodder."
+description: "A carter of a Bethuan Great House who loads and drives its grain and fodder, at home and on the long roads."
 tags: []
 data:
   icon: icon-person
@@ -387,7 +387,7 @@ The carter sits on the board of a loaded cart in a linen tunic and leather shoes
 
 # Dossier {#dossier}
 
-A House Carter drives the carts of a Great House between its granaries, the yards and the quay at [[place-bethura|Bethura]] and loads what the House's transports take.
+A House Carter drives the carts of a Great House between its granaries, the yards and the quay at [[place-bethura|Bethura]], and on the long roads when the House sends a caravan overland, and loads what the House's transports take.
 
 ## Background
 
@@ -415,8 +415,10 @@ The carter does what the yard-mistress says.
 
 ### Affiliations and Companions
 
-The carter answers to the House's yard-mistress.
+The carter answers to the House's yard-mistress, and on the road to the House's factor.
 
 ## Plot Hooks
 
 1. [[scenario-hrvstcntdtwc|A Harvest Counted Twice]]: carters wait on the road north and unload at their House's yards.
+2. [[scenario-nxtwllst|The Next Well East]]: carters drive a House's carts east down the Marches Road and know which riders have camped behind the train.
+3. **A team lame on the road.** A carter whose team has gone lame between two villages wants help to get the House's load in before the yard-mistress counts it.

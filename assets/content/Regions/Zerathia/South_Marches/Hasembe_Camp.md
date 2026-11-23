@@ -30,3 +30,6 @@ A caravan comes here to water, to buy a skin of water for the stage beyond and t
 
 [[place-marchesroad|The Marches Road]]
 : the road the camp stands on
+
+[[scenario-nxtwllst|The Next Well East]]
+: a scenario: a Bethuan caravan at Hasembe Camp needs an escort past the eastern stages before the Jackals sell it one

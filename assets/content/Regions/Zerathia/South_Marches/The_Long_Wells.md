@@ -67,3 +67,6 @@ The marcher clans want the wells held by clans and watered by custom. The free c
 
 [[scenario-trbtftrdrv|The Tribute After the Drive]]
 : a scenario: the Marches' tribute is late, and the Dorumbe have lost the stock set aside for it
+
+[[scenario-nxtwllst|The Next Well East]]
+: a scenario: a Bethuan caravan at Hasembe Camp needs an escort past the eastern stages before the Jackals sell it one

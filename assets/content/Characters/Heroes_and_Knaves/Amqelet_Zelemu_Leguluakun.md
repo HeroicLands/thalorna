@@ -25,6 +25,8 @@ data:
     hair_color: dark_brown
     skin_color: dark_brown
     complexion: [clear]
+    brow: arched
+    mouth: full
     extra_features: []
   packFolder: regkhhk
   items:

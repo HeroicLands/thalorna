@@ -7,7 +7,7 @@ tags: [gm]
 data: {pack: gm-journals, packFolder: threats}
 ---
 
-The [[affiliation-tantsouempr|Empire of Tantsou]] has always feared its own provinces more than any foreign power, and for most of its history it has been right to. Three frontiers trouble it now. The steppe warlord in the north is the gravest, and [[being-wogenhenzhuo|Wogen Henzhwo]] has his own note. The other two are the old enemy across the eastern strait and the long, thin western passes.
+The [[affiliation-tantsouempr|Empire of Tantsou]] has always feared its own provinces more than any foreign power, and for most of its history it has been right to. Three frontiers trouble it now. The steppe warlord of [[place-blackwilds|the Black Wilds]] in the north is the gravest, and [[being-wogenhenzhuo|Wogen Henzhwo]] has his own note. The other two are the old enemy across the eastern strait and the long, thin western passes.
 
 ## Chaiwong
 
@@ -23,6 +23,9 @@ West of the mountains lies the [[place-khzryndsrtrgn|Khazrin]], a waste of ruins
 
 [[being-wogenhenzhuo|Wogen Henzhwo]]
 : the northern warlord
+
+[[place-blackwilds|The Black Wilds]]
+: the steppe his riders come from
 
 [[place-jenchairgn|Jenchai Region]]
 : the archipelago across the strait

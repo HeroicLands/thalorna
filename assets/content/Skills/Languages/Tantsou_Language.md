@@ -5209,6 +5209,7 @@ data:
     - {name: Household, tongue: translation}
     - {name: Hozho, tongue: tanvuri, built: [ho, zho]}
     - {name: Hwenhatoutsou, tongue: tanvuri, built: [hwen, ha, tou, tsou]}
+    - {name: Hwenhatou, tongue: tanvuri, built: [hwen, ha, tou]}
     - {name: Hwen Sei, tongue: tanvuri, built: [hwen, sei]}
     - {name: Hwenwo, tongue: tanvuri, built: [hwen, wo]}
     - {name: Hwenzhwo, tongue: tanvuri, built: [hwen, zhwo]}
@@ -5357,6 +5358,7 @@ data:
     - {name: The Archive of All Records, tongue: translation}
     - {name: The Black Lotus, tongue: translation}
     - {name: The Black Lotus Society, tongue: translation}
+    - {name: The Black Wilds, tongue: translation}
     - {name: The Bureau of Allocation, tongue: translation}
     - {name: The Bureau of Creation, tongue: translation}
     - {name: The Bureau of Night Counsel, tongue: translation}

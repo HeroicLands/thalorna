@@ -35,7 +35,7 @@ A broad, unhurried man in a felt coat sewn with iron plates sits his horse a lit
 
 # Dossier {#dossier}
 
-Wogen Henzhwo, called the Master Tiger of the Steppes, is the warlord of the [Hwenhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the marches, a country where [[lore-grukarfolk|Grukar]] nests also lie. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern districts. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
+Wogen Henzhwo, called the Master Tiger of the Steppes, is the warlord of [[place-blackwilds|the Black Wilds]], the Hwenhatou: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the marches, a country where [[lore-grukarfolk|Grukar]] nests also lie. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern districts. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
 
 ## Background
 
