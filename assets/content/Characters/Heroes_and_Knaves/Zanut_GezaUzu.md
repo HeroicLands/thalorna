@@ -13,7 +13,7 @@ data:
   occupation: Alchemist
   lore: []
   culture: khelathiclt
-  homes: [aukhelathrgq]
+  homes: [amqelulegez]
   affiliations: {empireakhlth: {rank: 2}, uqaa: {rank: 1}}
   gender: female
   species: humanflk
@@ -478,7 +478,7 @@ When Zanut was twenty-eight and Khelor only sixteen, he was seriously injured in
 
 ### Transformation and Independence
 
-Khelor's death transformed Zanut's relationship to her craft. Rather than simple cultivation for a noble house, she became obsessed with the healing application of plant matter, viewing her work as a spiritual obligation to her brother's memory. She began studying alchemy in earnest, learning to concentrate plant essences into potent remedies, to create poultices and potions of real medicinal value. By thirty, she had built a sufficient reputation that she was able to establish herself independently, moving to a region where she maintained both a small herb garden and a workspace for alchemical work.
+Khelor's death transformed Zanut's relationship to her craft. Rather than simple cultivation for a noble house, she became obsessed with the healing application of plant matter, viewing her work as a spiritual obligation to her brother's memory. She began studying alchemy in earnest, learning to concentrate plant essences into potent remedies, to create poultices and potions of real medicinal value. By thirty, she had built a sufficient reputation that she was able to establish herself independently, moving to a region where she maintained both a small herb garden and a workspace for alchemical work. Her workspace is at [[place-amqelulegez|Amqelu-Legez]], by the wharves.
 
 ### Current Station
 
@@ -544,7 +544,7 @@ Master Herbalist [Zareshu]{.name data-type="being/npc"}
 : An elderly herbalist who has become something of a mentor figure to Zanut. Zareshu has quietly helped her acquire rare plant specimens and occasionally provides financial support when Zanut's circumstances become desperate, though without Zanut's explicit knowledge.
 
 The Village Healer [[being-letheshu|Letheshu]]
-: A local healer who refers complex cases to Zanut and defends her against criticism, seeing in her work a worthy extension of his own practice.
+: A local healer who refers complex cases to Zanut and defends her against criticism, seeing in her work a worthy extension of her own practice.
 
 Noblewoman [Qiya]{.name data-type="being/npc"} of [Gar-Theqeru]{.name data-type="place"}
 : A wealthy patron who employs Zanut to create custom remedies. Though Qiya pays well, her actual motivation may be less pure than it appears—she may be cultivating Zanut for purposes Zanut does not yet understand.
@@ -570,17 +570,17 @@ A Manipulative Former Patient
 
 ## Plot Hooks
 
-The Man Who Died in the Street
-: A man dies in the street after taking her remedy, and a temple inquisitor named Zinlegir seizes the death to charge her with poisoning. The remedy was easing his pain; the cause of death was something else. She asks the party to learn what he ate and drank in the night before and to find the bottle that left her mark on it.
+The Man Who Died on the Wharf
+: A man dies on the wharf of Amqelu-Legez after taking her remedy, and a temple inquisitor named Zinlegir seizes the death to charge her with poisoning. The remedy was easing his pain; the cause of death was something else. She asks the party to learn what he ate and drank in the night before and to find the bottle that left her mark on it.
 
-The Fever on the River Road
-: Travelers on the river road bring a fever she has not seen into a village whose healer, Letheshu, sends the worst cases to her. The village headman wants it kept quiet until the harvest render is counted. Naming the sickness puts the render off and the village in quarantine; keeping silent lets it spread.
+The Fever Barge
+: A barge from downriver ties up at the port with a fever aboard that she has not seen, and Letheshu, a village healer of [[place-galezkara|Galezkara]], sends the worst cases on to her. The grain-factors want it kept quiet until the harvest render is counted. Naming the sickness puts the render off and the barge in quarantine; keeping silent lets it spread.
 
 The Request for a Sleeping Death
 : Qiya, who pays well and asks few questions, now asks for a draught that gives the appearance of death while the sleeper lives. She does not say who is to sleep. She holds a letter that would end Zanut's practice, and she names a date.
 
 The Girl Who Hears the Count
-: A girl who went to Anlagh-Zetun with her village for the Bread for the Gate comes back unable to sleep and says she hears grain being poured in the night. Zanut's remedies do nothing, and the girl's mother has begun to say that Zanut's tinctures are the cause. The only place the sound stops is far from the sealed dome where the girl first heard it.
+: A girl from the port's poor, who went to Anlagh-Zetun with her neighbors for the Bread for the Gate, comes back unable to sleep and says she hears grain being poured in the night. Zanut's remedies do nothing, and the girl's mother has begun to say that Zanut's tinctures are the cause. The only place the sound stops is far from the sealed dome where the girl first heard it.
 
 :::secret {title="What the referee knows"}
 Geron sells bulk remedies under a copy of Zanut's mark, and the poison that killed the man was in his tincture, not hers. Zinlegir has been paid by a grain-factor who buys from Geron.

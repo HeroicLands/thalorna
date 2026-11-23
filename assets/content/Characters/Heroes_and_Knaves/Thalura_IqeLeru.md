@@ -13,7 +13,7 @@ data:
   occupation: Priest
   lore: []
   culture: khelathiclt
-  homes: [amqelulegez]
+  homes: [galezkara]
   affiliations: {empireakhlth: {rank: 2}, qearet: {rank: 4}}
   gender: female
   species: humanflk
@@ -471,7 +471,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-amqelulegez|Amqelu-Legez]]
+**Home:** [[place-galezkara|Galezkara]]
 
 # Appearance {#appearance}
 
@@ -581,7 +581,7 @@ The [[affiliation-zebequzut|Zebeku'Zut]] (Merchant Alliance)
 ## Plot Hooks
 
 The Claim at the Quay
-: A woman arrives at the family estate of the Iqe'Leru at Amqelu-Legez claiming to be Gethor's daughter, with a manifest that the port's wharf-scribe sealed for one of Gethor's own barges, an old servant's testimony and an Iqe'Leru face. If the claim reaches the court of the Gar-Au, the Iqe'Leru wealth is in question and so is a Thaz'Lekhau who sat in judgment. Thalura asks the party to verify the seal and the servant before she decides what to do with the woman.
+: A woman presents herself at the [[affiliation-zebequzut|Zebeku'Zut]] hall on the Great Quay ([[place-amqelger|Amqel-Ger]]) claiming to be Gethor's daughter, with a manifest sealed for one of Gethor's own barges, an old servant's testimony and an Iqe'Leru face. If the claim reaches the court of the Gar-Au, the Iqe'Leru wealth is in question and so is a Thaz'Lekhau who sat in judgment. Thalura asks the party to verify the seal and the servant before she decides what to do with the woman.
 
 Two Readings of the Flood
 : The Thaz'Lekhau of Uqa'a, who keeps the Measure, has proclaimed the flood. Thalura's augury, performed the same week for the Gar-Au, says the reading is wrong, and someone has altered the sacred texts she used to perform it. The rival demands that the Gar-Au declare whose word stands. If she is wrong, Qe'aret loses the court; if she is right, the taxes set on the Measure's number fall on the wrong fields.

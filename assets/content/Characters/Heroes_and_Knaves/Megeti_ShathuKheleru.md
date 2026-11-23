@@ -13,7 +13,7 @@ data:
   occupation: Bureaucrat
   lore: []
   culture: khelathiclt
-  homes: [khelzuret]
+  homes: [galezkara]
   affiliations: {empireakhlth: {rank: 2}, thubai: {rank: 1}}
   gender: female
   species: humanflk
@@ -455,7 +455,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-khelzuret|Khelzuret]]
+**Home:** [[place-galezkara|Galezkara]]
 
 # Appearance {#appearance}
 
@@ -551,11 +551,11 @@ The Imperial Treasury
 
 ## Plot Hooks
 
-The Temple Estates of Khelzuret
-: The Treasury sends her to audit the tribute of Khelzuret, where the mortuary temples of Weth'ur and Hezmu'iri hold more land and coin than the Halzi'a. The Thaz'Lekhau refuse her access to the counting-rooms of the necropolis, and the Halzi'a, who wants the audit, cannot compel them. The only record of the temples' remittances is kept by the embalmers' guild, and the guild answers to the temples.
+The Temple Estates of the Necropolis
+: The Treasury sends her to audit the tribute held on the western shore of the capital, where the mortuary temples of [[affiliation-wethur|Weth'ur]] and [[affiliation-hezmuiri|Hezmu'iri]] hold land and coin the Treasury has never counted in [[affiliation-capitalselat|the Capital Selat]]. The Thaz'Lekhau refuse her access to the counting-rooms of the necropolis, and the Treasury Minister, who wants the audit, cannot compel them. The only record of the temples' remittances is kept by the embalmers' guild, and the guild answers to the temples.
 
-The Rations of Zel-Qar
-: A street child hands her a single page of a Treasury ledger, discarded by a minor official, which shows discrepancies in the rations drawn from the selat's granaries for the company-village of Zel-Qar. The figures suggest a theft large enough to be treason. When she asks for the matching record, she is told it was destroyed in a fire three months ago.
+The Rations of Gar-Qethar
+: A street child hands her a single page of a Treasury ledger, discarded by a minor official, which shows discrepancies in the rations drawn from the capital's granaries for the dole lines of [[place-garqethar|Gar-Qethar]]. The figures suggest a theft large enough to be treason. When she asks for the matching record, she is told it was destroyed in a fire three months ago.
 
 The Auditor's Inheritance
 : Her mentor [[being-reqesehu|Reqesehu]], the only man she trusted, dies in suspicious circumstances and leaves her a sealed packet. Inside is evidence that someone in the Treasury has run a parallel investigation of her for years, on a charge of falsifying records. She cannot tell whether it was Khelassepu who began it.
@@ -566,5 +566,5 @@ The Phantom Accounts
 :::secret {title="What the referee knows"}
 The phantom accounts pay a retainer to the Thaz'Lekhau of Weth'ur and Hezmu'iri to keep the royal necropolis's guards loyal to the Gar-Au's chosen successor, and Khelassepu runs them on her order. He began the parallel investigation of Megeti himself, to see whether she would find the accounts.
 
-The Zel-Qar rations are real theft, by a factor of the Genzet'Halzi'a who sells the diverted grain to the temples' labor-gangs.
+The Gar-Qethar rations are real theft, by a factor of the Genzet'Halzi'a who sells the diverted grain to the temples' labor-gangs.
 :::

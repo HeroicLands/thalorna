@@ -13,7 +13,7 @@ data:
   occupation: Scholar
   lore: []
   culture: khelathiclt
-  homes: [galezkara]
+  homes: [khelunu]
   affiliations: {empireakhlth: {rank: 2}, qearet: {rank: 1}}
   gender: male
   species: humanflk
@@ -448,7 +448,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-galezkara|Galezkara]]
+**Home:** [[place-khelunu|Khelunu]]
 
 # Appearance {#appearance}
 
@@ -551,10 +551,10 @@ The Sealed Chamber
 : Legiret hears of a chamber below the Lut-Zethu at Khelunu that was walled up centuries ago when its contents were declared heretical, and he believes it holds the codex that explains the Convergence. The custodian who keeps the key is an old colleague who owes him a favor. Reaching the chamber means going back to Khelunu, where the temple has put a price on the head of the priest he travels with.
 
 The Chart That Does Not Match
-: In the House of Records at Galezkara he finds that the official copy of a chart of the Nine Moons differs from the one in the archive of his own temple by one conjunction. The scribal school's copyist signs the official version in a hand he recognizes from the archivists of the Genzet'Palu. Someone has revised the sky, and asking about it in the House of Records is asking the archivists themselves.
+: In the library-temple archive at Khelunu he finds that the temple's copy of a chart of the Nine Moons differs from the copy the scribal schools teach from by one conjunction. The schools' copyist signs their version in a hand he recognizes from the archivists of the Genzet'Palu. Someone has revised the sky, and asking about it at the schools is asking the Genzet'Palu's archivists themselves.
 
 The Plagiarism Charge
-: A fellow scholar publishes a paper that sets out Legiret's reading of the celestial patterns almost exactly, and then accuses him of having copied it. The charge is heard at the Genzet of a quarter of the city. The rival has the same working notes, which could only have come from Legiret's own desk, and he must find out who sold them.
+: A fellow scholar publishes a paper that sets out Legiret's reading of the celestial patterns almost exactly, and then accuses him of having copied it. The charge is heard before the Thaz'Lekhau of [[lore-rethsaardty|Reth'Sa'ar]], who governs the word and the number in Khelunu. The rival has the same working notes, which could only have come from Legiret's own desk, and he must find out who sold them.
 
 The Treasure-Hunters' Offer
 : A band calling itself [[affiliation-zeghetanleth|Zeghet'Anlethu]] offers him an artifact of the old Khelathi priesthood for his help reading it. He learns before he signs that they mean to sell what he reads to a foreign factor at the Great Quay. The artifact is genuine, and it is the only object he has seen that carries the same sky as Amqelet-Zelemu's vision.

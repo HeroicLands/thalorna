@@ -13,7 +13,7 @@ data:
   occupation: Thespian
   lore: []
   culture: khelathiclt
-  homes: [amqelulegez]
+  homes: [galezkara]
   affiliations: {empireakhlth: {rank: 2}, thubai: {rank: 1}}
   gender: female
   species: humanflk
@@ -438,7 +438,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-amqelulegez|Amqelu-Legez]]
+**Home:** [[place-galezkara|Galezkara]]
 
 # Appearance {#appearance}
 
@@ -559,8 +559,8 @@ The Cycle in the Chest
 The Mother's Terms
 : Thirye's mother, retired from the stage, sends word from the river road that she is dying and will leave the family house to her only if she gives up the boards and marries a merchant. A cousin who has been seen at the notary has more reason to want the match than the mother does. Thirye asks the party to go with her to the house, and to learn whether the illness is real before she answers.
 
-The Season at the Wharves
-: The granary-port of Amqelu-Legez hires the company to play at the anniversary of the granary rising, and the Wazulu send preachers to the wharf to stop it. No barge leaves until the wharf-scribe seals it, and the scribe's seal on the stage-boat is the one thing that decides whether the sets cross the river. Someone has begun to quote the scribe's fee as double. Thirye cannot play without the sets, and the company cannot pay.
+The Season at the Great Quay
+: A temple opens its forecourt for a high feast and hires the company to play there, and the Wazulu send preachers to the forecourt to stop it. The stage-boat with the sets lies at the Great Quay ([[place-amqelger|Amqel-Ger]]), where the [[affiliation-meglai|Meglai]] keep the quays in order with the guard stretched thin. Someone has begun to quote the porters' fee as double. Thirye cannot play without the sets, and the company cannot pay.
 
 The Patron's Private Evening
 : The merchant prince Lahmes asks for a private performance for a small, rich company, and offers a fee that would clear her debts to the company. He chooses the play and the guests himself. Thirye has begun to wonder why a man who collects fine objects wants the audience he has chosen all in one room.
